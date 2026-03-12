@@ -1,0 +1,18 @@
+Here's what the two files do together:
+
+transcribe_launcher.py — the GUI you run first:
+
+Radio: Enter manually (default) or Use hardcoded key
+When manual → paste field with show/hide 👁 toggle
+Prompt: "Update key in transcribe script? Yes / No" → patches transcribe_all.py directly if yes
+Browse buttons for input + output folders (output auto-suggests based on input)
+Writes a .transcribe_config file when you click Run
+
+transcribe_all.py — the script you run after:
+
+Reads the .transcribe_config automatically — no need to touch the code
+Falls back to hardcoded values if you skip the launcher
+
+Workflow:
+python transcribe_launcher.py   ← configure everything
+python transcribe_all.py        ← run the transcription
