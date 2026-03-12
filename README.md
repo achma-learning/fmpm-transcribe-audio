@@ -13,8 +13,15 @@ alternatively add pdf or word of cours but no primary
 ---
 if have time add Qe.md files (and analyse all that)
 ---
-# plan
+ai for transcribe : open ai whisper :
+ + https://openai.com/fr-FR/index/whisper/
+ + assembely AI https://www.assemblyai.com
+ + 
+ + 
+---
+# plan (here using : openAI whisper)
 claude ai suggested me to use, open-ai whisper api
 1. install dependecy:
   + install python: https://www.python.org/downloads/
    + run this in cmd or terminal "pip install openai pydub"
+  + install ffmpeg (https://www.gyan.dev/ffmpeg/builds/), run this in cmd or terminal, without coping the "" : "winget install ffmpeg"
