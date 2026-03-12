@@ -1,4 +1,5 @@
 # USED THIS : https://turboscribe.ai/ WITH PLAN 20e for just one month and don't forget to cancel the subscription so you don't pay everymonth, just one month do all the task
+## now try to build a html website with url of the transcribe and download a backup copy in case the server delete your files
 00. imaging this : recording everyday conversation with phone, then give it to ai to summurize and ]**build second brain** and store them in cloud storage ????
    + advantage never miss a info, but privacy ... (sometimes we laught ...) , so i think the best move is to if you want record then, cut and edit audio file to remove the noise / unneccessary part, then upload and save into cloud
    0. imaging eveing this : create a claude agent , to do this work with just two things : claude cowork -> installed in pc (put audio file in a folder), use use skill /transcribe-cours , this give you lesson by this , you can upload it to notebookLM
