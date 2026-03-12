@@ -16,10 +16,12 @@ if have time add Qe.md files (and analyse all that)
 ai for transcribe : open ai whisper :
  + https://openai.com/fr-FR/index/whisper/
  + assembely AI https://www.assemblyai.com
- + 
- + 
+ + TurboScribe.ai
+ + Deepgram (Nova-2 Model)
 ---
 # plan (here using : openAI whisper)
++ see this : https://www.youtube.com/watch?v=ABFqbY_rmEk
++ see this 2: https://www.youtube.com/watch?v=8SQV-B83tPU
 claude ai suggested me to use, open-ai whisper api
 1. install dependecy:
   + install python: https://www.python.org/downloads/
