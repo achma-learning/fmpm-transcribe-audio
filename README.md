@@ -12,3 +12,9 @@ if have time transcribe (different recording also from different years and organ
 alternatively add pdf or word of cours but no primary
 ---
 if have time add Qe.md files (and analyse all that)
+---
+# plan
+claude ai suggested me to use, open-ai whisper api
+1. install dependecy:
+  + install python: https://www.python.org/downloads/
+   + run this in cmd or terminal "pip install openai pydub"
