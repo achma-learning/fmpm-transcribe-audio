@@ -23,6 +23,7 @@ ai for transcribe : open ai whisper :
  + Deepgram (Nova-2 Model)
 ---
 # plan (here using : openAI whisper)
++ https://www.youtube.com/watch?v=VZS0bDyox_s
 + see this : https://www.youtube.com/watch?v=ABFqbY_rmEk
 + see this 2: https://www.youtube.com/watch?v=8SQV-B83tPU
   + guide : https://kevinstratvert.com/2023/01/19/best-free-speech-to-text-ai-whisper-ai/
