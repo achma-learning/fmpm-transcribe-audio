@@ -1,3 +1,5 @@
+00. imaging this : recording everyday conversation with phone, then give it to ai to summurize and build second brain and store them in cloud storage ????
+   + advantage never miss a info, but privacy ... (sometimes we laught ...) , so i think the best move is to if you want record then, cut and edit audio file to remove the noise / unneccessary part, then upload and save into cloud
 1. transcibe audio to .md format
 2. ask ai how to transcribe audio, format of transcribing (time stanp) .... or what
 3. use github desktop and host repo locally
