@@ -1,3 +1,6 @@
+# don't forget to upload the zip files here
+## later make a website with similar functionnality (give .txt with timestamps) like this : https://turboscribe.ai/transcript/8286623314454023525/01-01-moyens-dexploration-en-neuroradiologie-pr-alj
+
 # USED THIS : https://turboscribe.ai/ WITH PLAN 20e for just one month and don't forget to cancel the subscription so you don't pay everymonth, just one month do all the task
 ## now try to build a html website with url of the transcribe and download a backup copy in case the server delete your files
 00. imaging this : recording everyday conversation with phone, then give it to ai to summurize and ]**build second brain** and store them in cloud storage ????
