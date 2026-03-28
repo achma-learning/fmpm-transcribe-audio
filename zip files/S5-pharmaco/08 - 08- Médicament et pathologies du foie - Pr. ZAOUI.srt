@@ -1,0 +1,1663 @@
+1
+00:00:00,380 --> 00:00:02,320
+Chers étudiants, nous allons voir aujourd'hui le
+
+2
+00:00:02,320 --> 00:00:05,040
+cours Médicaments et pathologies du foie.
+
+3
+00:00:07,430 --> 00:00:09,270
+Dans ce cours, nous allons voir les atteintes
+
+4
+00:00:09,270 --> 00:00:12,670
+hépatiques médicamenteuses et la prescription chez les insuffisants
+
+5
+00:00:12,670 --> 00:00:13,230
+hépatiques.
+
+6
+00:00:13,690 --> 00:00:16,450
+Nous allons commencer par les atteintes hépatiques médicamenteuses.
+
+7
+00:00:19,080 --> 00:00:22,440
+Les atteintes hépatiques médicamenteuses sont la principale cause
+
+8
+00:00:22,440 --> 00:00:25,080
+de retrait des médicaments du marché, parce que
+
+9
+00:00:25,080 --> 00:00:27,600
+pour la plupart des médicaments, la fréquence de
+
+10
+00:00:27,600 --> 00:00:30,200
+l'atteinte hépatique médicamenteuse est entre 1 sur
+
+11
+00:00:30,200 --> 00:00:31,659
+10 000 et 1 sur 100 000.
+
+12
+00:00:31,659 --> 00:00:34,300
+Donc, une atteinte qui va se voir chez
+
+13
+00:00:34,300 --> 00:00:36,900
+un patient parmi 10 000 patients ou chez
+
+14
+00:00:36,900 --> 00:00:38,980
+un patient parmi 100 000 patients ne sera
+
+15
+00:00:38,980 --> 00:00:41,280
+pas mise en évidence lors d'un essai
+
+16
+00:00:41,280 --> 00:00:44,060
+clinique qui utilise des milliers de patients, par
+
+17
+00:00:44,060 --> 00:00:45,200
+exemple 3 000 patients.
+
+18
+00:00:45,720 --> 00:00:48,380
+De ce fait, ces atteintes apparaissent après la
+
+19
+00:00:48,380 --> 00:00:51,680
+commercialisation du médicament et après la mise sur
+
+20
+00:00:51,680 --> 00:00:53,940
+le marché du médicament.
+
+21
+00:00:53,940 --> 00:00:57,520
+Du fait que ces atteintes peuvent être graves
+
+22
+00:00:57,520 --> 00:01:02,080
+et engager le pronostic vital, ces médicaments seront
+
+23
+00:01:02,080 --> 00:01:03,060
+retirés du marché.
+
+24
+00:01:03,480 --> 00:01:08,060
+Et je citerai l'exemple de la troglithazone
+
+25
+00:01:08,060 --> 00:01:10,800
+qui est un antidiabétique qui a été retiré
+
+26
+00:01:10,800 --> 00:01:13,800
+du marché dès les premiers mois de commercialisation
+
+27
+00:01:13,800 --> 00:01:15,960
+parce qu'il a été responsable de décès
+
+28
+00:01:15,960 --> 00:01:19,840
+des patients et certains patients ont nécessité des
+
+29
+00:01:19,840 --> 00:01:22,440
+transplantations tellement l'atteinte était grave.
+
+30
+00:01:22,440 --> 00:01:25,700
+Cela pose un problème pour le clinicien qui
+
+31
+00:01:25,700 --> 00:01:28,460
+doit faire le diagnostic rapidement et éliminer les
+
+32
+00:01:28,460 --> 00:01:34,860
+diagnostics différentiels pour arrêter le traitement avant que
+
+33
+00:01:34,860 --> 00:01:38,800
+l'atteinte soit plus importante et les laboratoires
+
+34
+00:01:38,800 --> 00:01:42,060
+pharmaceutiques qui ont dépensé beaucoup d'argent et
+
+35
+00:01:42,060 --> 00:01:44,220
+après le médicament sera retiré du marché.
+
+36
+00:01:45,720 --> 00:01:49,240
+L'atteinte médicamenteuse se présente le plus souvent
+
+37
+00:01:49,240 --> 00:01:51,040
+sous forme d'une hépatite aiguë et c
+
+38
+00:01:51,040 --> 00:01:53,480
+'est ceci dans au moins 90 % des
+
+39
+00:01:53,480 --> 00:01:55,220
+atteintes médicamenteuses.
+
+40
+00:01:56,620 --> 00:01:59,280
+Le diagnostic est difficile parce que le tableau
+
+41
+00:01:59,280 --> 00:02:01,360
+présenté par le patient ne présente pas une
+
+42
+00:02:01,360 --> 00:02:04,420
+spécificité qui va orienter vers le médicament et
+
+43
+00:02:04,420 --> 00:02:06,200
+souvent on se base sur l'exclusion des
+
+44
+00:02:06,200 --> 00:02:06,820
+autres causes.
+
+45
+00:02:08,970 --> 00:02:10,970
+Dans ce cours, nous allons parler des mécanismes
+
+46
+00:02:10,970 --> 00:02:11,530
+de l'hépatotoxicité.
+
+47
+00:02:12,510 --> 00:02:15,850
+Les types d'hépatite selon le mécanisme.
+
+48
+00:02:23,570 --> 00:02:28,200
+Au terme de ce cours, vous devez être
+
+49
+00:02:28,200 --> 00:02:30,960
+capable de citer les mécanismes d'hépatotoxicité d
+
+50
+00:02:30,960 --> 00:02:34,160
+'un médicament, décrire les différents types d'hépatite
+
+51
+00:02:34,160 --> 00:02:37,540
+médicamenteuse, décrire les aspects cliniques d'une hépatite
+
+52
+00:02:37,540 --> 00:02:41,520
+médicamenteuse, citer les facteurs favorisant une atteinte hépatique
+
+53
+00:02:41,520 --> 00:02:42,380
+médicamenteuse.
+
+54
+00:02:45,920 --> 00:02:49,380
+Le métabolisme des médicaments aboutit à la production
+
+55
+00:02:49,380 --> 00:02:53,360
+de métabolites inactifs, actifs ou réactifs qui sont
+
+56
+00:02:53,360 --> 00:02:54,400
+toxiques pour la cellule.
+
+57
+00:02:54,940 --> 00:02:58,620
+Normalement ces métabolites réactifs sont détoxifiés et neutralisés
+
+58
+00:02:58,620 --> 00:03:01,320
+par un système de protection qui est le
+
+59
+00:03:01,320 --> 00:03:01,860
+glutathione.
+
+60
+00:03:02,690 --> 00:03:05,960
+Quand ce système de protection est dépassé parce
+
+61
+00:03:05,960 --> 00:03:12,040
+que le patient a pris un médicament à
+
+62
+00:03:12,040 --> 00:03:14,000
+des doses importantes et il y a une
+
+63
+00:03:14,000 --> 00:03:17,980
+production massive de ces métabolites réactifs ou qu
+
+64
+00:03:17,980 --> 00:03:19,900
+'il y a une déficience du glutathione qui
+
+65
+00:03:19,900 --> 00:03:22,480
+est en partie d'origine naturelle par exemple
+
+66
+00:03:22,480 --> 00:03:26,480
+après un état de jeûne prolongé ou lors
+
+67
+00:03:26,480 --> 00:03:29,520
+d'une dénutrition, ces métabolites réactifs vont se
+
+68
+00:03:29,520 --> 00:03:34,120
+lier sur les constituants hépatocytaires et donner une
+
+69
+00:03:34,120 --> 00:03:38,520
+mort cellulaire par interférence avec l'homéostasie cellulaire,
+
+70
+00:03:38,840 --> 00:03:41,760
+avec le métabolisme ou les échanges cellulaires ou
+
+71
+00:03:41,760 --> 00:03:43,480
+par des réactions immunologiques.
+
+72
+00:03:43,720 --> 00:03:46,360
+Le métabolite réactif se comporte comme un antigène
+
+73
+00:03:46,360 --> 00:03:48,660
+qui est attaqué par des anticorps de l
+
+74
+00:03:48,660 --> 00:03:49,120
+'organisme.
+
+75
+00:03:50,810 --> 00:03:53,330
+On va voir les types d'hépatite qui
+
+76
+00:03:53,330 --> 00:03:55,130
+existent en fonction de leurs mécanismes.
+
+77
+00:03:55,130 --> 00:03:57,930
+On va commencer par les hépatites par surdosage.
+
+78
+00:03:58,470 --> 00:04:00,130
+Ici le contexte est évident.
+
+79
+00:04:01,030 --> 00:04:03,910
+Soit le contexte d'une tentative de suicide.
+
+80
+00:04:04,490 --> 00:04:06,470
+Un patient qui prend une quantité importante de
+
+81
+00:04:06,470 --> 00:04:07,730
+médicament pour se suicider.
+
+82
+00:04:08,210 --> 00:04:11,290
+Ou un surdosage qui peut être parfois involontaire.
+
+83
+00:04:11,290 --> 00:04:15,130
+Par exemple dans le cas du paracétamol, un
+
+84
+00:04:15,130 --> 00:04:18,269
+patient qui n'a pas été soulagé avec
+
+85
+00:04:18,269 --> 00:04:21,750
+des doses thérapeutiques du paracétamol et il ajoute
+
+86
+00:04:21,750 --> 00:04:25,310
+du médicament pour se soulager.
+
+87
+00:04:25,910 --> 00:04:28,350
+Ou facilité par un cofacteur, par exemple un
+
+88
+00:04:28,350 --> 00:04:30,750
+alcoolique chronique qui prend du paracétamol.
+
+89
+00:04:31,410 --> 00:04:33,070
+Dans ce cas-là, l'alcoolisme ou l
+
+90
+00:04:33,070 --> 00:04:36,130
+'alcool sera inducteur enzymatique du paracétamol et va
+
+91
+00:04:36,130 --> 00:04:39,930
+favoriser l'atteinte hépatique même aux doses thérapeutiques.
+
+92
+00:04:39,930 --> 00:04:43,610
+C'est une hépatite prévisible parce qu'on
+
+93
+00:04:43,610 --> 00:04:47,070
+est dans un contexte de surdosage très précoce.
+
+94
+00:04:47,390 --> 00:04:50,870
+Les signes peuvent apparaître dans le jour de
+
+95
+00:04:50,870 --> 00:04:55,210
+l'atteinte, dans le jour du surdosage.
+
+96
+00:04:55,690 --> 00:04:56,430
+Il n'y a pas de signes d
+
+97
+00:04:56,430 --> 00:04:58,530
+'hypersensibilité puisque ici il n'y a pas
+
+98
+00:04:58,530 --> 00:05:01,170
+cette réaction antigène-anticorps.
+
+99
+00:05:01,430 --> 00:05:03,370
+L'évolution est le plus souvent fatale.
+
+100
+00:05:04,130 --> 00:05:09,110
+L'intoxication au paracétamol est assez fréquente quand
+
+101
+00:05:09,110 --> 00:05:12,590
+le sujet prend des doses supérieures aux doses
+
+102
+00:05:12,590 --> 00:05:13,150
+thérapeutiques.
+
+103
+00:05:13,270 --> 00:05:15,110
+Par exemple, quand il arrive à des doses
+
+104
+00:05:15,110 --> 00:05:17,050
+de 8 grammes ou 10 grammes, il peut
+
+105
+00:05:17,050 --> 00:05:19,590
+faire une intoxication au paracétamol.
+
+106
+00:05:20,470 --> 00:05:23,090
+Il y a des hépatites immunoallergiques.
+
+107
+00:05:23,090 --> 00:05:27,190
+Pour ce mécanisme, le métabolite réactif qui est
+
+108
+00:05:27,190 --> 00:05:30,310
+fixé sur les constituents de l'hépatocyte va
+
+109
+00:05:30,310 --> 00:05:33,710
+se comporter comme un antigène qui sera attaqué
+
+110
+00:05:33,710 --> 00:05:35,270
+par l'anticorps de l'organisme.
+
+111
+00:05:35,410 --> 00:05:37,550
+Et on peut avoir à côté de cette
+
+112
+00:05:37,550 --> 00:05:42,390
+hépatite d'autres manifestations de l'hypersensibilité.
+
+113
+00:05:42,550 --> 00:05:45,430
+Par exemple, comme la fièvre, les éruptions cutanées,
+
+114
+00:05:45,650 --> 00:05:49,010
+l'hyperiosinophilie, des atteintes articulaires, peut-être une
+
+115
+00:05:49,010 --> 00:05:54,610
+atteinte rénale, qui peuvent exister lors de ces
+
+116
+00:05:54,610 --> 00:05:55,970
+hépatites immunoallergiques.
+
+117
+00:05:57,410 --> 00:05:59,930
+On passe aux hépatites idiosyncrasiques.
+
+118
+00:06:00,050 --> 00:06:02,030
+Ici, on n'a pas un contexte sur
+
+119
+00:06:02,030 --> 00:06:02,470
+dosage.
+
+120
+00:06:02,890 --> 00:06:05,010
+On n'a pas de signe d'hypersensibilité
+
+121
+00:06:05,010 --> 00:06:06,610
+parce que ce n'est pas une réaction
+
+122
+00:06:06,610 --> 00:06:08,630
+antigène-anticorps.
+
+123
+00:06:09,170 --> 00:06:11,850
+Ces hépatites peuvent être liées à une particularité
+
+124
+00:06:11,850 --> 00:06:15,130
+métabolique chez le sujet ou le patient.
+
+125
+00:06:15,910 --> 00:06:17,690
+Elles se voient à des doses thérapeutiques.
+
+126
+00:06:17,690 --> 00:06:19,350
+Elles ne sont pas prévisibles.
+
+127
+00:06:19,490 --> 00:06:20,790
+On ne va pas connaître quels sont les
+
+128
+00:06:20,790 --> 00:06:22,990
+malades qui vont faire l'atteinte et ceux
+
+129
+00:06:22,990 --> 00:06:24,370
+qui ne vont pas faire l'atteinte.
+
+130
+00:06:24,730 --> 00:06:28,130
+Ça concerne une petite proportion des sujets qui
+
+131
+00:06:28,130 --> 00:06:32,370
+présentent une susceptibilité ou une caractéristique ou une
+
+132
+00:06:32,370 --> 00:06:33,730
+particularité métabolique.
+
+133
+00:06:34,730 --> 00:06:36,930
+Elles sont le plus souvent cytolithiques.
+
+134
+00:06:37,410 --> 00:06:39,710
+Ceci a été noté avec l'isoniazide et
+
+135
+00:06:39,710 --> 00:06:42,830
+le pyrazinamide, deux antituberculeux.
+
+136
+00:06:44,110 --> 00:06:47,850
+Le bilan biologique ne donne pas d'anticorps
+
+137
+00:06:47,850 --> 00:06:52,310
+antimédicament ni une explication apparente à cette atteinte.
+
+138
+00:06:53,310 --> 00:06:55,990
+On passe aux aspects cliniques où on va
+
+139
+00:06:55,990 --> 00:06:58,830
+parler seulement des hépatites aiguës qui sont les
+
+140
+00:06:58,830 --> 00:06:59,570
+plus fréquentes.
+
+141
+00:07:00,850 --> 00:07:03,530
+On peut avoir dans ces atteintes des atteintes
+
+142
+00:07:03,530 --> 00:07:05,970
+cytolithiques et cholestatiques.
+
+143
+00:07:06,590 --> 00:07:09,910
+Pour les atteintes cytolithiques, elles peuvent être asymptomatiques.
+
+144
+00:07:09,910 --> 00:07:12,090
+Le patient peut prendre le médicament et ne
+
+145
+00:07:12,090 --> 00:07:13,350
+présenter aucun symptôme.
+
+146
+00:07:14,110 --> 00:07:16,550
+C'est qu'en faisant le bilan biologique
+
+147
+00:07:16,550 --> 00:07:19,450
+de surveillance qu'on va trouver des transaminases
+
+148
+00:07:19,450 --> 00:07:22,370
+élevées, des azathes supérieurs à 5 fois la
+
+149
+00:07:22,370 --> 00:07:23,790
+limite supérieure de la normale.
+
+150
+00:07:25,990 --> 00:07:28,890
+Le patient peut être asymptomatique, comme on l
+
+151
+00:07:28,890 --> 00:07:31,230
+'a dit, ou présenter des symptômes non spécifiques.
+
+152
+00:07:31,810 --> 00:07:34,550
+Par exemple, une perte d'appétit, une douleur
+
+153
+00:07:34,550 --> 00:07:36,850
+abdominale, des nausées, des vomissements.
+
+154
+00:07:37,910 --> 00:07:40,090
+Ce sont des symptômes qui peuvent se trouver
+
+155
+00:07:40,090 --> 00:07:42,310
+dans n'importe quelle hépatite.
+
+156
+00:07:42,950 --> 00:07:45,850
+Ceci a été noté avec plusieurs médicaments, le
+
+157
+00:07:45,850 --> 00:07:49,570
+paracétamol, des anti-suberculeux comme l'isoniazide, le
+
+158
+00:07:49,570 --> 00:07:53,590
+pirasinamide, des anti-inflammatoires non stéroïdiens et certains
+
+159
+00:07:53,590 --> 00:07:54,550
+antidépresseurs.
+
+160
+00:07:57,720 --> 00:08:01,840
+Généralement, quand on fait le diagnostic rapidement et
+
+161
+00:08:01,840 --> 00:08:04,060
+on arrête rapidement le médicament, il y a
+
+162
+00:08:04,060 --> 00:08:08,840
+une amélioration rapide après interruption du traitement.
+
+163
+00:08:08,840 --> 00:08:13,140
+Parfois, on peut avoir une insuffisance hépatique avec
+
+164
+00:08:13,140 --> 00:08:16,900
+une évolution qui est spontanément défavorable.
+
+165
+00:08:17,300 --> 00:08:18,940
+Le patient peut décéder.
+
+166
+00:08:19,520 --> 00:08:22,840
+Ou l'hépatite aiguë peut évoluer vers une
+
+167
+00:08:22,840 --> 00:08:24,000
+hépatite chronique.
+
+168
+00:08:24,120 --> 00:08:26,000
+D'où l'intérêt de faire le diagnostic
+
+169
+00:08:26,000 --> 00:08:29,560
+rapidement, le diagnostic d'une atteinte hépatique médicamenteuse,
+
+170
+00:08:30,000 --> 00:08:32,500
+pour arrêter le médicament responsable de l'atteinte.
+
+171
+00:08:34,020 --> 00:08:36,740
+Dans les atteintes cholestatiques, on trouve aussi des
+
+172
+00:08:36,740 --> 00:08:38,900
+signes qui ne sont pas spécifiques aux médicaments
+
+173
+00:08:38,900 --> 00:08:42,320
+et qu'on peut trouver avec n'importe
+
+174
+00:08:42,320 --> 00:08:44,640
+quelle atteinte, que ce soit virale, néoplasique ou
+
+175
+00:08:44,640 --> 00:08:44,900
+autre.
+
+176
+00:08:45,460 --> 00:08:47,760
+On peut trouver du lictère, du prurite, une
+
+177
+00:08:47,760 --> 00:08:49,800
+décoloration des selles, des urines foncées.
+
+178
+00:08:50,200 --> 00:08:52,560
+Et quand on fait l'examen biologique, on
+
+179
+00:08:52,560 --> 00:08:56,180
+trouve des phosphatases alcalines qui sont élevées, supérieures
+
+180
+00:08:56,180 --> 00:08:57,120
+à deux fois la normale.
+
+181
+00:08:57,920 --> 00:09:00,700
+Le tableau clinique peut carrément simuler une obstruction
+
+182
+00:09:00,700 --> 00:09:02,500
+aiguë des voies biliaires qu'on peut voir
+
+183
+00:09:02,500 --> 00:09:06,740
+par exemple avec un calcul qui obstrue les
+
+184
+00:09:06,740 --> 00:09:09,360
+voies biliaires principales.
+
+185
+00:09:09,740 --> 00:09:11,860
+Et ceci a été vu avec plusieurs médicaments,
+
+186
+00:09:12,000 --> 00:09:15,060
+que ce soit les macrolides, l'association acive
+
+187
+00:09:15,060 --> 00:09:17,440
+clavulanique amoxicilline et les sulfamides.
+
+188
+00:09:20,690 --> 00:09:22,750
+À l'interruption du médicament, on va voir
+
+189
+00:09:22,750 --> 00:09:26,310
+la disparition des signes cliniques et biologiques, mais
+
+190
+00:09:26,310 --> 00:09:29,310
+ceci prend un peu plus de temps par
+
+191
+00:09:29,310 --> 00:09:31,190
+rapport à l'atteinte citolytique, ça peut prendre
+
+192
+00:09:31,190 --> 00:09:31,930
+quelques semaines.
+
+193
+00:09:31,930 --> 00:09:35,510
+Cette atteinte colestatique le plus souvent est d
+
+194
+00:09:35,510 --> 00:09:36,930
+'origine immunoallergique.
+
+195
+00:09:40,000 --> 00:09:43,100
+Quels sont les facteurs favorisant les atteintes hépatiques
+
+196
+00:09:43,100 --> 00:09:44,020
+médicamenteuses?
+
+197
+00:09:44,320 --> 00:09:47,200
+Le jeûne, surtout le jeûne prolongé et la
+
+198
+00:09:47,200 --> 00:09:51,320
+dénutrition, puisque le glutathion qui a le rôle
+
+199
+00:09:51,320 --> 00:09:54,580
+de protection et de neutralisation de ces métabolites
+
+200
+00:09:54,580 --> 00:09:58,180
+réactifs vient en partie de l'alimentation.
+
+201
+00:09:58,180 --> 00:10:01,960
+De ce fait, une mauvaise alimentation et une
+
+202
+00:10:01,960 --> 00:10:06,420
+dénutrition peuvent favoriser une atteinte hépatique.
+
+203
+00:10:06,500 --> 00:10:10,540
+Aussi, il y a l'induction enzymatique qui
+
+204
+00:10:10,540 --> 00:10:12,440
+est une interaction médicamenteuse.
+
+205
+00:10:13,540 --> 00:10:18,840
+Le médicament inducteur enzymatique va favoriser la production
+
+206
+00:10:18,840 --> 00:10:23,300
+excessive des métabolites réactifs qui vont donner une
+
+207
+00:10:23,300 --> 00:10:24,320
+atteinte hépatique.
+
+208
+00:10:24,320 --> 00:10:26,940
+C'est l'exemple de la rifampicine et
+
+209
+00:10:26,940 --> 00:10:29,160
+quand elle est associée à l'isoniazide, l
+
+210
+00:10:29,160 --> 00:10:31,880
+'isoniazide à lui seul donne une atteinte hépatique,
+
+211
+00:10:31,980 --> 00:10:34,800
+mais à une fréquence moindre par rapport à
+
+212
+00:10:34,800 --> 00:10:37,200
+son association à la rifampicine qui joue le
+
+213
+00:10:37,200 --> 00:10:38,960
+rôle de l'inducteur enzymatique.
+
+214
+00:10:39,520 --> 00:10:43,240
+Aussi, l'association paracétamol et alcoolisme chronique.
+
+215
+00:10:43,380 --> 00:10:45,380
+Ici, l'alcoolisme chronique joue le rôle d
+
+216
+00:10:45,380 --> 00:10:50,140
+'inducteur enzymatique qui va induire le métabolisme et
+
+217
+00:10:50,140 --> 00:10:52,800
+l'apparition des métabolites réactifs du paracétamol.
+
+218
+00:10:53,840 --> 00:10:56,240
+Il y a aussi le rôle des facteurs
+
+219
+00:10:56,240 --> 00:10:57,960
+génétiques chez certains sujets.
+
+220
+00:10:58,760 --> 00:11:01,760
+Pour certains médicaments comme la phénytoïne et la
+
+221
+00:11:01,760 --> 00:11:03,740
+carvamazepine, on a noté qu'il y a
+
+222
+00:11:03,740 --> 00:11:07,500
+une déficience dans les mécanismes de détoxification ou
+
+223
+00:11:07,500 --> 00:11:09,480
+détoxification des métabolites réactifs.
+
+224
+00:11:09,640 --> 00:11:10,640
+Ici, il n'y a pas un problème
+
+225
+00:11:10,640 --> 00:11:13,540
+de déficience dans le glutathione, mais il y
+
+226
+00:11:13,540 --> 00:11:16,360
+a un problème dans les réactions chimiques et
+
+227
+00:11:16,360 --> 00:11:21,020
+la fonction enzymatique qui aboutit à une détoxification
+
+228
+00:11:21,020 --> 00:11:22,920
+des métabolites réactifs.
+
+229
+00:11:24,400 --> 00:11:26,580
+On arrive à la démarche diagnostique.
+
+230
+00:11:27,260 --> 00:11:29,480
+On n'a pas d'examen suffisamment spécifique
+
+231
+00:11:29,480 --> 00:11:32,680
+pour lier l'atteinte hépatique aux médicaments.
+
+232
+00:11:32,980 --> 00:11:34,980
+Surtout, on se base sur l'élimination des
+
+233
+00:11:34,980 --> 00:11:38,920
+diagnostics différentiels, que ce soit une atteinte hépatique
+
+234
+00:11:38,920 --> 00:11:42,700
+infectieuse, auto-immune, alcoolique ou autre.
+
+235
+00:11:44,180 --> 00:11:46,240
+Quels sont les arguments qui peuvent nous aider
+
+236
+00:11:46,240 --> 00:11:47,580
+à penser aux médicaments ?
+
+237
+00:11:47,580 --> 00:11:48,980
+Il y a la chronologie, c'est-à
+
+238
+00:11:48,980 --> 00:11:51,600
+-dire le délai de l'apparition de l
+
+239
+00:11:51,600 --> 00:11:54,200
+'atteinte hépatique après la prise du médicament.
+
+240
+00:11:54,440 --> 00:11:57,740
+Généralement, on voit cette atteinte entre 5 et
+
+241
+00:11:57,740 --> 00:11:58,740
+90 jours.
+
+242
+00:11:59,460 --> 00:12:01,720
+Cela va nous aider à penser aux médicaments.
+
+243
+00:12:01,840 --> 00:12:04,740
+Il y a les aspects cliniques, biologiques et
+
+244
+00:12:04,740 --> 00:12:07,500
+anatomopathologiques, s'il y a une biopsie hépatique
+
+245
+00:12:07,500 --> 00:12:10,420
+faite similaire aux observations connues.
+
+246
+00:12:10,640 --> 00:12:13,680
+Quand on fait une recherche bibliographique, on trouve
+
+247
+00:12:13,680 --> 00:12:15,540
+que tout le tableau, que ce soit clinique,
+
+248
+00:12:15,640 --> 00:12:19,720
+biologique ou anatomopathologique, est décrit dans la bibliographie
+
+249
+00:12:19,720 --> 00:12:22,100
+avec le même médicament chez d'autres patients.
+
+250
+00:12:22,840 --> 00:12:24,080
+Il y a un autre critère.
+
+251
+00:12:24,300 --> 00:12:26,480
+Quand on arrête le médicament, on va voir
+
+252
+00:12:26,480 --> 00:12:27,780
+une évolution favorable.
+
+253
+00:12:28,500 --> 00:12:31,600
+Et s'il y a une réintroduction accidentelle,
+
+254
+00:12:31,740 --> 00:12:35,320
+on aura la réapparition de l'atteinte hépatique.
+
+255
+00:12:37,690 --> 00:12:41,090
+On va éliminer l'éthiologie médicamenteuse, bien sûr,
+
+256
+00:12:41,150 --> 00:12:43,090
+si on trouve d'autres éthiologies.
+
+257
+00:12:43,090 --> 00:12:46,410
+Par exemple, pour une hépatite cytolithique, on trouve
+
+258
+00:12:46,410 --> 00:12:50,050
+une atteinte virale, ou une sérologie virale positive.
+
+259
+00:12:50,750 --> 00:12:53,870
+Pour les atteintes cholestatiques ou mixtes, on trouve
+
+260
+00:12:53,870 --> 00:12:57,410
+à l'examen radiologique ou écographique ou autre,
+
+261
+00:12:57,570 --> 00:12:59,550
+un obstacle sur les voies biliaires.
+
+262
+00:13:00,390 --> 00:13:03,570
+Dans tous les cas, on trouve une maladie
+
+263
+00:13:03,570 --> 00:13:04,410
+alcoolique du foie.
+
+264
+00:13:07,340 --> 00:13:08,820
+Pour la conduite à tenir, il n'y
+
+265
+00:13:08,820 --> 00:13:10,180
+a pas de conduite spécifique.
+
+266
+00:13:10,180 --> 00:13:13,620
+La première mesure, c'est qu'on arrête
+
+267
+00:13:13,620 --> 00:13:15,860
+le médicament en cause du fait de la
+
+268
+00:13:15,860 --> 00:13:19,140
+peur d'une atteinte hépatique grave.
+
+269
+00:13:20,000 --> 00:13:22,280
+La prise en charge sera surtout symptomatique.
+
+270
+00:13:22,440 --> 00:13:24,260
+Par exemple, si le patient présente des douleurs,
+
+271
+00:13:24,360 --> 00:13:27,260
+on peut lui donner des antispasmodiques.
+
+272
+00:13:27,460 --> 00:13:29,180
+S'il a des vomissements, on peut lui
+
+273
+00:13:29,180 --> 00:13:30,880
+donner un antihémétique.
+
+274
+00:13:31,380 --> 00:13:34,720
+On fait une surveillance clinique et biologique rapprochée
+
+275
+00:13:34,720 --> 00:13:37,000
+pour suivre l'état du patient.
+
+276
+00:13:37,000 --> 00:13:39,100
+Et bien sûr, on doit déclarer le cas
+
+277
+00:13:39,100 --> 00:13:40,340
+à la pharmacovigilance.
+
+278
+00:13:43,300 --> 00:13:45,500
+Nous allons parler maintenant, dans la deuxième partie
+
+279
+00:13:45,500 --> 00:13:47,880
+du cours, de la prescription chez l'insuffisant
+
+280
+00:13:47,880 --> 00:13:48,540
+hépatique.
+
+281
+00:13:49,980 --> 00:13:53,000
+La plupart des médicaments sont métabolisés au niveau
+
+282
+00:13:53,000 --> 00:13:55,740
+du foie, en métabolite, ce qui va permettre
+
+283
+00:13:55,740 --> 00:13:57,080
+leur élimination.
+
+284
+00:13:57,680 --> 00:14:00,700
+De ce fait, l'atteinte de cet organe
+
+285
+00:14:00,700 --> 00:14:05,200
+et une diminution de ses capacités de métabolisme
+
+286
+00:14:05,200 --> 00:14:08,760
+peut aboutir à une accumulation de certains médicaments
+
+287
+00:14:08,760 --> 00:14:12,120
+qui sont essentiellement éliminés par métabolisme et on
+
+288
+00:14:12,120 --> 00:14:14,760
+peut voir leurs effets toxiques apparaître.
+
+289
+00:14:15,340 --> 00:14:17,260
+De ce fait, quand vous les prescrivez chez
+
+290
+00:14:17,260 --> 00:14:20,660
+un insuffisant hépatique, un médicament par exemple, il
+
+291
+00:14:20,660 --> 00:14:23,480
+faut penser à une réduction de la posologie
+
+292
+00:14:23,480 --> 00:14:26,520
+ou à une contre-indication à son administration.
+
+293
+00:14:28,920 --> 00:14:31,160
+Nous allons parler dans ce cours des conséquences
+
+294
+00:14:31,160 --> 00:14:34,140
+pharmaco-cynétiques de l'insuffisance hépatique, de ses
+
+295
+00:14:34,140 --> 00:14:37,220
+conséquences pharmaco-dynamiques et des règles de la
+
+296
+00:14:37,220 --> 00:14:39,800
+prescription chez un insuffisant hépatique.
+
+297
+00:14:41,300 --> 00:14:43,320
+Au terme de ce cours, vous devez être
+
+298
+00:14:43,320 --> 00:14:45,980
+capable de citer les conséquences pharmaco-cynétiques de
+
+299
+00:14:45,980 --> 00:14:48,740
+l'insuffisance hépatique et citer les règles de
+
+300
+00:14:48,740 --> 00:14:51,560
+la prescription chez l'insuffisant hépatique.
+
+301
+00:14:53,620 --> 00:14:56,440
+L'insuffisance hépatique, on a une diminution de
+
+302
+00:14:56,440 --> 00:14:59,460
+la masse fonctionnelle du foie consécutive à une
+
+303
+00:14:59,460 --> 00:15:03,920
+destruction des hépatocytes qui peut être la conséquence
+
+304
+00:15:03,920 --> 00:15:07,120
+de plusieurs pathologies.
+
+305
+00:15:07,720 --> 00:15:09,180
+Ce qui nous intéresse, c'est que cette
+
+306
+00:15:09,180 --> 00:15:12,160
+diminution de la masse fonctionnelle veut dire qu
+
+307
+00:15:12,160 --> 00:15:14,940
+'on aura aussi une diminution de la quantité
+
+308
+00:15:14,940 --> 00:15:18,180
+des enzymes qui va participer au métabolisme du
+
+309
+00:15:18,180 --> 00:15:18,660
+médicament.
+
+310
+00:15:21,800 --> 00:15:24,840
+Les modifications physiopathologiques notées lors d'une insuffisance
+
+311
+00:15:24,840 --> 00:15:27,600
+hépatique auront des conséquences sur la pharmaco-cynétique
+
+312
+00:15:27,600 --> 00:15:28,420
+du médicament.
+
+313
+00:15:28,420 --> 00:15:31,680
+Lors de la phase de l'absorption, on
+
+314
+00:15:31,680 --> 00:15:33,720
+aura une diminution de l'effet de premier
+
+315
+00:15:33,720 --> 00:15:36,260
+passage hépatique parce qu'il y a une
+
+316
+00:15:36,260 --> 00:15:39,500
+diminution de l'activité enzymatique du fait qu
+
+317
+00:15:39,500 --> 00:15:44,800
+'il y a un nombre limité des pathocytes
+
+318
+00:15:44,800 --> 00:15:45,460
+fonctionnels.
+
+319
+00:15:45,960 --> 00:15:49,080
+Au cours de la phase de distribution, chez
+
+320
+00:15:49,080 --> 00:15:53,340
+l'insuffisant hépatique, on peut avoir une hypoalbuminémie
+
+321
+00:15:53,340 --> 00:15:56,020
+ce qui va faire augmenter la fraction libre
+
+322
+00:15:56,020 --> 00:15:58,360
+des médicaments qui sont liés essentiellement à l
+
+323
+00:15:58,360 --> 00:16:01,260
+'albumine et une exagération de leurs effets.
+
+324
+00:16:03,630 --> 00:16:06,430
+Cette diminution de l'activité enzymatique va toucher
+
+325
+00:16:06,430 --> 00:16:08,370
+aussi le métabolisme des médicaments.
+
+326
+00:16:08,970 --> 00:16:11,250
+Donc on va avoir une augmentation des concentrations
+
+327
+00:16:11,250 --> 00:16:14,510
+des médicaments qui sont essentiellement éliminés par le
+
+328
+00:16:14,510 --> 00:16:16,810
+métabolisme hépatique sauf qu'il y a une
+
+329
+00:16:16,810 --> 00:16:20,110
+différence entre l'atteinte des réactions de phase
+
+330
+00:16:20,110 --> 00:16:22,590
+1 et des réactions de phase 2.
+
+331
+00:16:22,590 --> 00:16:26,130
+Par exemple, les biotransformations de type 1 sont
+
+332
+00:16:26,130 --> 00:16:27,350
+touchées précocement.
+
+333
+00:16:27,550 --> 00:16:30,330
+Donc les médicaments qui sont métabolisés par ces
+
+334
+00:16:30,330 --> 00:16:34,810
+réactions de type 1 vont avoir une augmentation
+
+335
+00:16:34,810 --> 00:16:40,560
+de leur concentration précocement alors que l'atteinte
+
+336
+00:16:40,560 --> 00:16:43,120
+des biotransformations de type 2 est tardive.
+
+337
+00:16:43,900 --> 00:16:46,220
+Par exemple, dans la même classe thérapeutique des
+
+338
+00:16:46,220 --> 00:16:50,720
+benzodiazepines, on a la clairance du lorazepam qui
+
+339
+00:16:50,720 --> 00:16:53,760
+est essentiellement transformé par les réactions de type
+
+340
+00:16:53,760 --> 00:16:57,280
+2 préservées pendant longtemps alors que pour les
+
+341
+00:16:57,280 --> 00:17:00,440
+autres benzodiazepines qui sont transformés par les réactions
+
+342
+00:17:00,440 --> 00:17:07,440
+de type 1, le métabolisme est altéré précocement.
+
+343
+00:17:10,339 --> 00:17:12,680
+L'élimination biliaire est aussi diminuée lors d
+
+344
+00:17:12,680 --> 00:17:13,819
+'une insuffisance hépatique.
+
+345
+00:17:13,940 --> 00:17:16,500
+De ce fait, on aura une accumulation et
+
+346
+00:17:16,500 --> 00:17:19,440
+un prolongement de la demi-vie des médicaments
+
+347
+00:17:19,440 --> 00:17:23,000
+qui sont essentiellement éliminés par voie biliaire.
+
+348
+00:17:25,910 --> 00:17:27,870
+Au cours d'une insuffisance hépatique, on peut
+
+349
+00:17:27,870 --> 00:17:30,890
+avoir une altération de l'élimination rénale et
+
+350
+00:17:30,890 --> 00:17:34,170
+de ce fait, un effet sur l'élimination
+
+351
+00:17:34,170 --> 00:17:36,890
+ou une diminution de l'élimination des médicaments
+
+352
+00:17:36,890 --> 00:17:39,410
+qui sont éliminés sous forme active par le
+
+353
+00:17:39,410 --> 00:17:39,550
+rein.
+
+354
+00:17:40,930 --> 00:17:44,030
+On a noté une altération de l'élimination
+
+355
+00:17:44,030 --> 00:17:45,750
+rénale des diurétiques de l'ANSE.
+
+356
+00:17:47,380 --> 00:17:52,800
+Parmi les conséquences pharmacodynamiques chez l'insuffisance hépatique,
+
+357
+00:17:52,920 --> 00:17:56,380
+on avait noté une sensibilité accrue aux effets
+
+358
+00:17:56,380 --> 00:17:58,820
+centraux de la morphine du fait de l
+
+359
+00:17:58,820 --> 00:18:01,380
+'augmentation de la liaison de la morphine au
+
+360
+00:18:01,380 --> 00:18:02,840
+récepteur opioïde.
+
+361
+00:18:05,290 --> 00:18:07,870
+Il faut déterminer l'importance thérapeutique du médicament
+
+362
+00:18:07,870 --> 00:18:11,550
+et ne prescrire que les médicaments essentiels et
+
+363
+00:18:11,550 --> 00:18:15,190
+nécessaires chez le patient parce que déjà les
+
+364
+00:18:15,190 --> 00:18:19,750
+fonctions physiologiques du foie sont diminuées et lorsque
+
+365
+00:18:19,750 --> 00:18:22,170
+vous ajoutez un médicament, ça serait une charge
+
+366
+00:18:22,170 --> 00:18:23,190
+de travail pour le foie.
+
+367
+00:18:23,950 --> 00:18:26,090
+Commencer par la dose initiale ou la dose
+
+368
+00:18:26,090 --> 00:18:29,670
+minimale efficace et puis évaluer l'effet de
+
+369
+00:18:29,670 --> 00:18:31,590
+cette dose et ses effets indésirables.
+
+370
+00:18:32,550 --> 00:18:33,510
+Et il faut noter qu'il n'y
+
+371
+00:18:33,510 --> 00:18:36,050
+a pas de paramètre comme pour l'insuffisance
+
+372
+00:18:36,050 --> 00:18:38,070
+rénale où on adapte la dose en fonction
+
+373
+00:18:38,070 --> 00:18:40,270
+de l'acclairance de la créatine ligne.
+
+374
+00:18:40,510 --> 00:18:41,890
+Pour l'insuffisance hépatique, il n'y a
+
+375
+00:18:41,890 --> 00:18:43,990
+pas de paramètre permettant l'adaptation de la
+
+376
+00:18:43,990 --> 00:18:46,470
+posologie en fonction du degré de l'atteinte.
+
+377
+00:18:48,360 --> 00:18:51,520
+Quel est le médicament idéal chez l'insuffisance
+
+378
+00:18:51,520 --> 00:18:52,640
+hépatique ?
+
+379
+00:18:52,640 --> 00:18:55,400
+Le médicament que vous pouvez choisir chez l
+
+380
+00:18:55,400 --> 00:18:57,340
+'insuffisance hépatique, c'est un médicament qui ne
+
+381
+00:18:57,340 --> 00:19:00,800
+se métabolise pas ou se métabolise faiblement par
+
+382
+00:19:00,800 --> 00:19:03,180
+le foie parce qu'il va diminuer la
+
+383
+00:19:03,180 --> 00:19:05,460
+charge de travail sur le foie.
+
+384
+00:19:06,380 --> 00:19:09,740
+Un médicament qui sera excrété par le rein
+
+385
+00:19:09,740 --> 00:19:11,260
+sous forme inchangée.
+
+386
+00:19:11,560 --> 00:19:13,300
+Dans ce cas-là, il va court-circuiter
+
+387
+00:19:13,300 --> 00:19:13,720
+le foie.
+
+388
+00:19:13,720 --> 00:19:17,060
+Et un médicament qui peut être administré en
+
+389
+00:19:17,060 --> 00:19:18,180
+administration unique.
+
+390
+00:19:18,360 --> 00:19:19,400
+Comme ça, le foie n'aura pas à
+
+391
+00:19:19,400 --> 00:19:22,760
+métaboliser le médicament plusieurs fois pendant la journée.
+
+392
+00:19:24,260 --> 00:19:26,720
+Aussi, il faut choisir chez l'insuffisance hépatique
+
+393
+00:19:26,720 --> 00:19:29,300
+les médicaments qui ont une faible fixation aux
+
+394
+00:19:29,300 --> 00:19:30,320
+protéines plasmatiques.
+
+395
+00:19:31,000 --> 00:19:34,300
+Quand on aura par exemple une hypoalbuminémie, on
+
+396
+00:19:34,300 --> 00:19:36,500
+n'aura pas un problème de fraction libre
+
+397
+00:19:36,500 --> 00:19:39,300
+augmentée du médicament parce que dès le début,
+
+398
+00:19:39,420 --> 00:19:43,220
+ce médicament ne se fixe pas d'une
+
+399
+00:19:43,220 --> 00:19:44,840
+façon importante sur la protéine.
+
+400
+00:19:45,260 --> 00:19:47,680
+Et choisir des médicaments à marge thérapeutique non
+
+401
+00:19:47,680 --> 00:19:48,180
+nettoie.
+
+402
+00:19:48,440 --> 00:19:50,260
+Comme ça, s'il y a une variation
+
+403
+00:19:50,260 --> 00:19:52,400
+dans les concentrations de la forme libre du
+
+404
+00:19:52,400 --> 00:19:56,160
+médicament, on ne va pas voir rapidement les
+
+405
+00:19:56,160 --> 00:19:57,600
+effets indésirables du médicament.
+
+406
+00:19:59,460 --> 00:20:01,600
+Le foie joue un rôle important dans l
+
+407
+00:20:01,600 --> 00:20:02,900
+'élimination des médicaments.
+
+408
+00:20:03,440 --> 00:20:05,740
+De ce fait, lorsque vous administrez un médicament
+
+409
+00:20:05,740 --> 00:20:08,440
+chez un insuffisance hépatique, il faut penser aux
+
+410
+00:20:08,440 --> 00:20:11,960
+modifications pharmacokinétiques possibles et voir si ce médicament
+
+411
+00:20:11,960 --> 00:20:15,540
+nécessite une adaptation de posologie chez votre patient.
+
+412
+00:20:16,120 --> 00:20:19,480
+Aussi, l'hypothèse d'une atteinte hépatique médicamenteuse
+
+413
+00:20:19,480 --> 00:20:22,320
+doit entrer dans la discussion éthiologique de toute
+
+414
+00:20:22,320 --> 00:20:23,440
+atteinte hépatique.
+
+415
+00:20:25,380 --> 00:20:29,380
+Donc, après avoir éliminé les causes d'atteinte
+
+416
+00:20:29,380 --> 00:20:32,160
+hépatique, il faut penser à une atteinte médicamenteuse.

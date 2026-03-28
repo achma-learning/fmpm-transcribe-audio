@@ -1,0 +1,240 @@
+(0:00 - 0:33)
+Bonjour, on va aborder la deuxième partie de notre cours sur l'hémodynamique vasculaire. On avait vu ensemble la partie sur les vitesses circulatoires et notamment sur les principaux lois de l'hémodynamique qui nous intéressent. Bien sûr compromis, plus de détails et plus d'explications sur ces lois seront abordés dans la séance interactive.
+
+(0:34 - 1:02)
+Qu'on souhaite programmer incha'Allah la semaine prochaine. Maintenant on va essentiellement focaliser sur cette partie du cours, sur la régulation de la pression artérielle et sur la micro-circulation. On va essayer de comprendre le rôle de la pression artérielle, les déterminants de cette pression artérielle, puis les mécanismes de régulation pour aborder après la partie micro-circulation.
+
+(1:02 - 1:31)
+La formule maîtresse qui va nous suivre durant tout ce cours c'est celle-là. Une pression artérielle ou variation de la pression artérielle, c'est en fait le débit cardiaque que multiplient les résistances, les résistances périphériques ou systémiques totaux. De là cette formule est importante parce qu'elle va nous permettre de comprendre les mécanismes régulateurs comme on a vu dans le cours du débit cardiaque.
+
+(1:31 - 1:49)
+On a vu les déterminants à partir de la formule débit égale volume éjecté multiplié par la fréquence cardiaque. Cette formule complète un peu et elle est un peu plus générale que la précédente. Dans laquelle vous pouvez faire des changements et mettre pression artérielle qui est égale débit produit débit fois résistance.
+
+(1:49 - 2:09)
+Vous changez débit par la formule qu'on avait vu avant et vous aurez encore plus de variables sur lesquelles on peut agir. Donc pression artérielle égale volume éjecté multiplié par fréquence multiplié par résistance. Vous pouvez prendre aussi la loi de Poiseuil dans laquelle on a vu que les résistances sont corrélées de façon étroite avec un certain paramètre.
+
+(2:09 - 2:44)
+Donc Pi, 8, la densité, la longueur, etc. que je peux récapituler avec une seule variable, une variable alpha par exemple. Et vous aurez par la suite tout ça divisé par le rayon du conduit ou de l'artère à la puissance 4. Vous pouvez le mettre ici et ça va vous permettre d'avoir une autre variable importante et capitale dans la régulation de la pression artérielle qui est le diamètre des vaisseaux.
+
+(2:45 - 3:11)
+Donc vous voyez que finalement la pression artérielle dépend de plusieurs paramètres. Il y a le débit comme vous voyez dans la formule et les résistances circulatoires périphériques totaux qui vont dépendre essentiellement de ce qu'on a compris de M. Poiseuil. Ça va dépendre essentiellement de la variation du diamètre des vaisseaux, accessoirement par la densité ou par la viscosité, etc.
+
+(3:11 - 3:30)
+La longueur à la limite ne change pas. Donc finalement ce qui va déterminer essentiellement les résistances c'est le diamètre des vaisseaux. Puis l'impédance circulatoire qui est un élément extrêmement important dans lequel rentre la notion de la distanciabilité.
+
+(3:30 - 3:49)
+Pour la bien comprendre il faut qu'on parle du couplage entre la fonction ventriculaire et la fonction artérielle. Alors ce couplage nécessite qu'on parle de la boucle pression volume. La boucle pression volume avec tous les dérivés de cette boucle.
+
+(3:49 - 4:25)
+Chose que j'ai laissé de façon explicite et voulue jusqu'à la séance interactive pour compléter ce qui nous manque, ce qu'on n'a pas vu ensemble dans le cours du cycle cardiaque et dans la partie du débit cardiaque. J'ai réservé tout ça à la partie interactive pour avoir le temps et la possibilité de mieux expliquer tout ça. Donc au moins aujourd'hui on va quand même voir cette notion de vitesse de propagation de l'onde.
+
+(4:26 - 5:11)
+Quel impact va avoir ? Déjà la pression artérielle ou le niveau de la pression artérielle est important. Parce que quand on mesure la pression artérielle on a un reflet indirect de l'état de la paroi. Un chiffre qui va vous renseigner sur l'état de la paroi. 
+
+Est-ce qu'elle est souple ? Est-ce qu'elle commence à devenir rigide ? C'est-à-dire en termes beaucoup plus scientifiques est-ce que l'élasticité ou finalement la compliance ou la distanciabilité de l'artère est encore bonne ou pas ? C'est important, c'est important pour le coeur. Parce que quand les artères deviennent un peu rigides. Imaginez que la paroi artérielle dans laquelle va éjecter le ventricule gauche devienne un peu rigide.
+
+(5:12 - 5:30)
+Et bien donc elle va s'opposer un peu à la constituer un poste charge importante pour le ventricule gauche. S'opposer à l'éjection et donc ne pas faciliter l'éjection du ventricule gauche. Ceci va forcément rendre le travail cardiaque un peu plus difficile.
+
+(5:31 - 5:56)
+Donc les éléments qui vont bien sûr modifier l'élasticité artérielle c'est la dégénérescence de la paroi avec l'âge. Et l'installation d'une hypertension artérielle qui finalement peut être secondaire à l'installation d'une rigidité, peut ne pas l'être. Mais en tout cas la présence d'une HTA ne fera que encore altérer la paroi vasculaire et la rendre encore plus rigide.
+
+(5:57 - 6:20)
+Il y a aussi d'autres maladies comme l'installation d'une atherosclérose, d'une artériolosclérose ou du diabète etc. Beaucoup de facteurs pathogènes qui vont avoir comme point commun c'est d'accélérer la dégénérescence, le vieillissement de la paroi artérielle et la rendre plus rigide. Le fait qu'elle soit plus rigide encore une fois ça ne facilite pas le travail cardiaque.
+
+(6:21 - 6:38)
+Pour bien comprendre tout ça on va le voir sur les compressions volumes. En tout cas comment je vais savoir en mesurant la pression artérielle que la paroi artérielle est un peu rigide. Alors déjà une paroi rigide elle ne se laisse pas distendre.
+
+(6:39 - 6:57)
+Donc la relation entre le contenant et le contenu fera en faveur d'une augmentation de la pression artérielle. Si on fait fois à la loi de la place, la rigidité va être représentée par la tension pariétale. Et si la tension pariétale est élevée, pour l'équilibrer la pression à l'intérieur de l'artère va être élevée.
+
+(6:58 - 7:29)
+Donc déjà une pression artérielle élevée peut être un des signes d'une augmentation de la rigidité. Mais l'élément le plus fiable bien sûr c'est la vitesse de propagation de l'onde artérielle. Imaginez un tuyau par exemple mou, si vous le percutez au bout d'un bout, vous allez voir que l'onde qui va se propager le long de ce tuyau va se propager mais de façon lente.
+
+(7:29 - 8:43)
+Si vous prenez un tuyau rigide, vous percutez une extrémité, vous allez voir que l'onde va se propager de façon extrêmement rapide jusqu'à l'autre extrémité. Donc pour vous dire que de façon simple et pratique, à travers cet exemple, que la vitesse de propagation d'une onde à travers un tuyau, un conduit, reflète l'état de la paroi. Et bien ça s'applique à l'aorte. 
+
+La vitesse de propagation de l'onde artérielle à partir bien sûr du début de l'aorte, juste après l'ouverture de la valve ortique, jusqu'aux extrémités des artères, elle est en moyenne de 2 à 4 mètres par seconde. Donc si elle vient à augmenter à 6, à 8, voire à 10, ça fait quand même probablement une paroi artérielle qui devient un peu plus rigide. Mais ça si on change de site, si on reste sur le même site qui est l'aorte, si on va vers plutôt d'autres sites, on s'éloigne du centre de l'aorte qui constitue la partie centrale vers les artères périphériques qui sont de membres supérieurs ou inférieurs, vous allez voir de façon tout à fait normale que la vitesse de propagation est un peu plus accélérée.
+
+(8:44 - 10:06)
+Mais ça c'est normal parce qu'il y a un changement de diamètre et un changement de diamètre des vaisseaux qui fera que la vitesse sera un petit peu plus grande. La même vitesse si je la trouve sur l'aorte, donc sur la partie centrale, ça va certainement témoigner d'une augmentation de la rigidité de la paroi artérielle. Voici comment ça se passe, une fois le ventricule gauche éjecte la première onde systolique, l'énergie cinétique va être emmagasinée dans le segment initial de l'aorte et grâce à la distanciabilité de la paroi, on va emmagasiner toute l'énergie cinétique dans une zone donnée, je prends le pointeur, et après grâce à la distanciabilité de la paroi aussi, il y aura une restitution de cette force motrice qui va permettre de cette énergie élastique qui va se transformer en énergie cinétique et qui va permettre de propager l'onde le long de la paroi.
+
+(10:06 - 10:58)
+Ainsi, la circulation sanguine se fait comme par vague sur les gros vaisseaux, sur les vaisseaux de calibre moyen jusqu'au vaisseau de calibre petit. Au-delà, on va voir que la circulation ne restera plus comme ça, pulsatile, mais elle deviendra continue, un écoulement continu essentiellement au niveau des capillaires. En tout cas, si on reste toujours dans la partie qui nous intéresse pour le moment, c'est-à-dire les gros vaisseaux, l'aorte et les artères de gros calibre, on assiste à la présence de cette onde qui va se propager, et qui va constituer cliniquement ce qu'on appelle le peau, le peau artérielle, et qu'on pourra sentir à chaque fois qu'on a une artère qui est superficielle, accessible à la palpation par le peau.
+
+(10:59 - 12:08)
+A fortiori, s'il y a derrière l'artère une structure osseuse sur laquelle on peut exercer une petite pression, on va sentir nettement le peau, et ça va nous permettre de l'analyser, analyser son amplitude, analyser sa régularité, et aussi analyser, sentir l'état de la paroi, est-ce qu'elle est rigide ou pas. Sur ce schéma, ce qu'on voit, c'est que la propagation de cette onde, le long de l'aorte, va nous permettre de constituer la courbe de pression. La courbe de pression aura donc un niveau minimal, un minimum de la pression qui n'est pas égal à zéro, il n'y a pas de pression zéro dans les artères, il y a toujours une pression minimale, qu'on appellera la pression artérielle diastolique, pourquoi diastolique, parce que ça correspond au moment où le ventricule est en train de s'amplir, donc il n'éjecte pas, il est en phase de diastole, il n'est pas en phase de systole, donc cette pression artérielle sera la pression minimale qui va régner dans l'aorte et dans les gros vaisseaux.
+
+(12:08 - 13:11)
+Cette pression, comme je l'ai dit, elle n'est pas nulle, pour la simple raison que si vous revenez à la formule initiale, la pression égale à 10b multiplie par résistance, il y a toujours une résistance à l'écoulement du sang dans les artères, et on verra où se situe cette résistance, qui fait qu'il y a toujours du sang dans les artères, et ce sang va exercer une force sur la paroi, et cette force, la force sur un diamètre de section de la paroi s'appelle pression, donc il y a toujours une pression. Si par exemple ces résistances viennent de chuter et de venir avoisinant 0, vous allez voir que la même chose, la pression artérielle va avoisiner 0, mais ce n'est pas le cas. Le cas pour l'instant, c'est que la pression artérielle minimale, diastolique, reste à une valeur loin de 0, c'est aux alentours de 60-70 mm, 80 mm de mercure, etc.
+
+(13:13 - 14:04)
+Et que par la suite, une fois qu'il y a une éjection, cette pression, il y a une ondée sanguine qui va se rajouter au volume sanguin qui est déjà là, et donc ceci va faire augmenter la pression au sein de l'aorte, et va la faire augmenter à un niveau maximal. Donc ça se fait de façon progressive, parce que ça suit l'éjection, avec l'éjection la pression artérielle monte, monte, monte, jusqu'à atteindre une pression maximale qui va être la pression systolique, puisqu'elle est au maximum de la systole, et après normalement on doit assister à un retour vers le niveau de la pression artérielle, diastolique, une fois l'onde de pression va se propager. Or, ce qui arrive, c'est qu'on assiste à une deuxième encoche, comme si on dit qu'il y a une deuxième montée de la pression.
+
+(14:04 - 14:33)
+Qu'est-ce qu'il explique ? Ce qu'il explique c'est, en fait, l'onde qui est arrivée à une bifurcation, une des grosses bifurcations, c'est la bifurcation iliaque, va subir un retour. Il y a toujours, vous connaissez le phénomène de propagation des ondes, quand il se trouve un obstacle, il y a une onde réfléchie. Cette onde réfléchie va revenir vers la partie initiale de la horte, et son retour va se faire plus ou moins rapidement selon, bien sûr, la distanciabilité de la paroi artérielle.
+
+(14:33 - 15:02)
+Ça va être plus rapide quand la paroi est rigide, ça va être plus lent quand la paroi est souple. Quand la paroi est souple, le retour va se faire de façon lente, toujours au cours de la systole, mais il ne tombera pas au même moment de l'onde systolique suivante, de la systole suivante. Ce qui fait que ça va nous faire la sommation d'une première onde systolique et d'une deuxième qui est la réfléchie.
+
+(15:02 - 15:25)
+Et la somme nous fait une courbe de pression aortique avec deux encoches. Cette deuxième encoche on l'appelle le dicrote aortique. Si jamais l'onde réfléchie revient très rapidement parce qu'on a une horte qui est rigide, ce qui se passe c'est qu'elle va tomber en même temps que la systole suivante.
+
+(15:25 - 15:46)
+Donc vous aurez deux ondes qui tombent en même temps. Leur somme ne va pas être comme ça, mais plutôt il y aura une sommation d'une pression plus au niveau de pression de l'onde réfléchie. Et ça va nous faire une pression artérielle systolique beaucoup plus élevée que ce qu'on a d'habitude.
+
+(15:46 - 16:17)
+Ce qui va faire quoi ? Une hypertension artérielle systolique et une différence entre la systolique et la diastolique qui va se creuser. Ainsi, l'élévation de la pression artérielle systolique de façon isolée reflète une rigidité artérielle. Deuxièmement, le fait que la différence entre la pression systolique et la pression diastolique devienne élevée, ça aussi ça reflète la rigidité artérielle.
+
+(16:17 - 16:42)
+Cette différence entre pression systolique et diastolique on l'appelle communément la pression pulsée. Et donc la pression pulsée c'est l'un des éléments qui reflète la rigidité artérielle. Voilà, il nous reste bien sûr la partie réservée à la régulation de la pression artérielle à court terme, à moyen et à long terme que je réserve aussi pour la séance interactive.
+
+(16:42 - 17:01)
+Maintenant on va aborder la dernière partie qui est consacrée à la microcirculation et à la circulation capillaire. Alors la microcirculation c'est quoi ? C'est exactement la circulation capillaire, c'est l'endroit d'échange. Ce n'est pas une zone de l'arbre vasculaire ou pour la conduction.
+
+(17:01 - 17:26)
+Il est plutôt réservé à l'échange entre le sang et le milieu interstitiel. La microcirculation est formée essentiellement de capillaires, donc ces capillaires permettent l'échange de liquide, d'eau, de nutriments, etc. Au niveau systémique et au niveau pulmonaire bien sûr, ils permettent l'échange gazeux uniquement entre les alvéoles et les capillaires pulmonaires.
+
+(17:29 - 17:55)
+Sur le plan anatomie fonctionnelle, la microcirculation c'est donc l'unité fonctionnelle qui constitue la partie terminale des vaisseaux et qui va permettre d'apporter le sang et la partie initiale de ceux qui le drainent. Tout ceci va inclure aussi les conduits intermédiaires. C'est quoi ces conduits intermédiaires ? Ce sont les artérioles.
+
+(17:55 - 18:14)
+Vous arrivez à des gros vaisseaux vers les vaisseaux de moyen calibre, vers les vaisseaux de petit calibre. Vous arrivez à la partie intermédiaire qui sont les artérioles qui juste après sera suivie des capillaires. Ces artérioles-là ont un diamètre tout petit, c'est vrai, mais en nombre, ils sont en grand nombre.
+
+(18:15 - 18:34)
+Ce qui fait que si vous prenez la surface totale, bien sûr la surface est élevée. La particularité des artérioles par rapport au reste de la paroi artérielle, c'est qu'elles sont riches en muscles lisses. Donc leurs médias riches en muscles lisses, c'est ce qui leur permet de faire varier le diamètre des vaisseaux.
+
+(18:34 - 19:13)
+Comme on l'a vu dans la loi de Poiseuil qui nous montre que la résistance vasculaire est essentiellement liée aux rayons à la puissance 4. Donc la diminution ne serait-ce que de moitié du rayon ramené à la puissance 4 va augmenter la résistance d'un nombre de 16 fois. Ce qui fait que la résistance vasculaire périphérique est essentiellement représentée par les artérioles. C'est là où on peut contrôler l'écoulement sanguin et donc le DB local.
+
+(19:15 - 19:41)
+Alors l'émetteur artériole, c'est juste une partie où on parle d'un manchement musculaire discontinu. Et ce qui nous importe le plus c'est le tonus myogénique, le tonus de la média, de la musculature lisse de la paroi des artérioles. C'est une propriété très importante et elle qui va permettre de réguler la pression artérielle, le DB local.
+
+(19:41 - 19:55)
+Et elle est sous la dépendance du système nerveux autonome. Par contre pour les capillaires, c'est juste après la fin de ces artérioles. Vous aurez les capillaires juste après les sphincters précapillaires.
+
+(19:55 - 20:18)
+Ils sont très très petits et ils sont réduits à une simple couche de cellules endothéliales à travers laquelle devra se faire des échanges. Et ces capillaires sont largement anastomosés entre elles sans aucune vasomotricité. Il n'y a aucune vasomotricité au niveau des capillaires et l'écoulement sanguin est lié de façon continue.
+
+(20:19 - 20:49)
+Voilà une représentation de tout l'arbre vasculaire. Puis les gros vaisseaux arrivent aux artérioles et puis aux capillaires du côté artériel et puis du côté veneux pour arriver au vénule et revenir vers les... Voilà, juste avant d'arriver aux capillaires, vous avez ces manchons artériels sur discontinu que représentent les méta-artérioles. Mais ça c'est un détail anatomique, l'essentiel est de façon simple.
+
+(20:50 - 21:13)
+Les artérioles sont suivies des capillaires et puis les capillaires sont en deux parties. Un côté artériel et un côté veneux et après sont suivies des vénules. Une situation où on montre que quand il y a une vasodilatation, un relâchement de ces sphincters, le sang va passer de façon importante dans les capillaires.
+
+(21:13 - 21:30)
+Alors qu'il y a une vasoconstriction, vous voyez, le débit va diminuer. Donc effectivement, ils ont un rôle important dans le contrôle de la vasomotricité locale. En termes de fonctionnement de la microcirculation, un premier rôle c'est l'échange.
+
+(21:30 - 21:51)
+Assurer l'échange entre le milieu interstitiel et bien sûr le contenu des capillaires. Et cet échange va se faire sous forme de quatre types de transports. Un des importants, bien sûr, c'est la filtration-diffusion, absorption, mais aussi la diffusion joue un rôle très important.
+
+(21:52 - 22:11)
+Et on peut compléter par deux autres mécanismes, le transport actif et le passage transcellulaire qu'on appelle la micropinocytose. Voilà, tout c'est représenté ici sur ce schéma. Le transport par filtration-réabsorption va être régi par des forces.
+
+(22:11 - 22:46)
+Des forces, on va dire, qui vont pousser le sang, le liquide contenu en intra-capillaires, à plutôt affuir la capillaire vers le milieu interstitiel. Ce sera la pression hydrostatique exercée sur la paroi des vaisseaux et qui va pousser le liquide à être filtré à l'extérieur. Et bien sûr la pression osmotique ou oncotique aussi du plasma, essentiellement représentée par les protéines et les grosses molécules, qui va plutôt jouer un rôle inverse.
+
+(22:46 - 23:11)
+Elle va exercer un effet absorbant, un effet attracteur des molécules plutôt vers l'intérieur du vaisseau. L'équilibre va se faire de part et d'autre. On aura la pression hydrostatique, on va voir, il y a toujours une pression hydrostatique au niveau capillaire et il y a une autre pression hydrostatique dans le milieu interstitiel.
+
+(23:11 - 23:30)
+Donc ce qui va conditionner dans quel sens va se faire le passage du liquide, de molécules, etc. C'est la différence entre la pression capillaire et la pression interstitiale. Du côté artériel, la pression capillaire est plus élevée que la pression interstitiale.
+
+(23:30 - 23:49)
+Ce qui fait qu'on aura plutôt une force qui pousse ce liquide à être filtré à l'extérieur des capillaires. La pression oncotique ou osmotique ne va pas pouvoir s'opposer parce qu'elle est plus faible. Quand on arrive du côté veineux, on a plutôt l'inverse.
+
+(23:49 - 24:08)
+La pression interstitiale devient un petit peu plus élevée par rapport à la pression capillaire. Donc la différence ici va être moindre et va même être moindre par rapport à la pression oncotique. Ainsi on va assister à une réabsorption du liquide qui a été filtré vers le milieu interstitiel.
+
+(24:09 - 24:30)
+Ainsi on assiste de part et d'autre à un phénomène de filtration qu'on verra sur un schéma qui va suivre. Le transport par diffusion, c'est effectivement un des principaux mécanismes. Il est passif, il répond simplement à la différence de concentration d'une substance de part et d'autre.
+
+(24:31 - 24:45)
+Entre le plasma et le milieu interstitiel. Cela permet un renouvellement permanent du plasma et un échange de métabolites entre les cellules, le milieu interstitiel et le milieu capillaire. Le transport actif consomme de l'énergie.
+
+(24:45 - 25:07)
+Cela nécessite un transporteur pour franchir la membrane, quel que soit le gradient de pression. La pinocytose, c'est une fonction de transfert qui nécessite le transfert de grosses molécules. Elle est intéressante et permet aussi de détruire certaines bactéries grâce à la phagocytose.
+
+(25:08 - 25:25)
+La membrane va envelopper progressivement une substance et elle va pouvoir la transporter dans des véhicules. Ou alors la détruire quand il s'agit d'une bactérie à travers la phagocytose. Ainsi la vasomotricité au niveau artériel est essentielle.
+
+(25:26 - 25:45)
+Au niveau capillaire, elle n'est pas du tout contrôlée, ça c'est clair. Les capillaires n'ont pas de parois musculaires. Le débit dépend essentiellement de ce que laissent passer les artérioles qui sont le vrai siège de la vasomotricité.
+
+(25:47 - 26:10)
+En amont et en aval bien sûr. Cette vasomotricité sera entre autres essentiellement sur la dépendance du système nerveux autonome. Les fibres musculaires lisses au niveau artériolaire, au niveau vénulaire et au niveau des anastomoses sont sous la dépendance de l'inervation par le système sympathique et parasympathique.
+
+(26:10 - 26:27)
+Le parasympathique qui va utiliser comme médiateur l'acétylcholine, donc il est cholinergique, va avoir un rôle vasodilatant. Ça reste quand même une action limitée dans le temps. La principale action revient au sympathique qui utilise bien sûr les substances adrénergiques, adrénaline et noradrénaline.
+
+(26:27 - 26:39)
+Et qui va agir sur des récepteurs dédiés. Ces récepteurs sont de deux types. Récepteurs alpha 1 qui sont, quand ils sont stimulés, ils vont avoir un rôle vasoconstricteur.
+
+(26:40 - 26:57)
+Et les récepteurs bêta 2 qui, quand ils sont stimulés, vont avoir un effet vasodilatateur. Alors généralement l'effet alpha est prépondérant, sous l'effet du sympathique. Et qui permet bien sûr d'assurer des adaptations immédiates du débit local.
+
+(27:00 - 27:11)
+Les autres moyens de régulation, c'est comme le métabolisme local par exemple. Il y a un rôle vasodilatateur lié par exemple quand il y a une hypoxie. On assiste à une vasodilatation.
+
+(27:11 - 27:25)
+Ce test on l'utilise énormément. Par exemple si vous prenez un brassard et vous le mettez au niveau du bras. Et vous exercez une pression qui est supérieure à la pression systolique.
+
+(27:27 - 27:41)
+Pendant quelques temps, quelques minutes. Vous allez certainement créer une sorte d'ischémie ou d'hypoxie au niveau de l'avant bras. Et une fois que vous relâchez votre brassard, vous enlevez la pression.
+
+(27:42 - 27:59)
+Immédiatement s'installe quoi ? Une vasodilatation. Une vasodilatation immédiate qui va essayer de récupérer le débit qui manquait avant. C'est un phénomène humoral local qui agit directement au niveau de l'endothélium.
+
+(27:59 - 28:13)
+Qui va libérer des substances vasodilatatrices de façon prépondérante du monoxyde d'azote. Et ce monoxyde d'azote va créer une énorme vasodilatation. Qui va ramener plus de sang au niveau du morneau.
+
+(28:13 - 28:29)
+Voilà donc un test qui nous permet de vérifier le rôle de l'hypoxie tissulaire dans la vasodilatation artérielle. Donc ça a un impact local. Et aussi l'inverse fait.
+
+(28:29 - 28:47)
+Certaines substances ou hormones vasoconstrictrices peuvent entraîner aussi un effet tout à fait contraire. Ou en fonction de la molécule soit vasoconstrictrice soit vasodilatateur. Le schéma dont je vous ai parlé quand je parlais de la relation entre la filtration et la recirculation.
+
+(28:47 - 28:58)
+C'est celui là. Et on l'appelle la loi de Poiseuil appliquée à la microcirculation. Que je reprendrai aussi dans la partie réservée aux sciences interactives.
+
+(28:58 - 29:17)
+Mais au moins dans laquelle vous voyez que grâce à la différence entre la pression hydrostatique et la pression oncotique. Quand la pression hydrostatique prédomine il y aura une filtration. Alors que du côté vénulaire c'est la pression oncotique qui prédomine à la pression hydrostatique.
+
+(29:17 - 29:29)
+Il y aura un phénomène de réabsorption. Et c'est ça ce qui permet d'avoir de façon permanente une filtration, une réabsorption. Pratiquement 90% de ce qui était filtré sera réabsorbé.
+
+(29:30 - 29:37)
+Je parle de liquide. Et 10% qui restent ne vont pas stagner dans le milieu interstitiel. Mais plutôt ils seront repris par le système lymphatique.
+
+(29:37 - 29:49)
+Ainsi le milieu interstitiel ne s'engorche pas en eau. Et si jamais il arrive que ce phénomène de filtration réabsorption subit un déséquilibre. Il y aura une accumulation du liquide dans le milieu interstitiel.
+
+(29:49 - 30:02)
+Ce qui va faire beaucoup d'eau dans le milieu interstitiel. Et ce qui crée ce qu'on appelle cliniquement les œdins. Voilà on est arrivé à la fin de cette partie.
+
+(30:03 - 30:16)
+Tout ce qu'on n'a pas pu faire dans la partie sonorisée. Bien sûr on va devoir le faire ou le voir dans la séance interactive. Notamment tous les compléments des cours précédents.
+
+(30:16 - 30:27)
+Le cours du cycle cardiaque, du débit cardiaque. Essentiellement tout ce qui est variation au déterminant du retour veineux. Tout ce qui est couple de courbe pression-volume.
+
+(30:27 - 30:36)
+Relation entre la performance cardiaque et la performance artérielle. Ou le couplage ventriculo-artériel. Régulation de la pression artérielle.
+
+(30:37 - 30:53)
+Et bien sûr régulation du métabolisme cardiaque et de la circulation coronaire. Donc voilà ce que je prévois pour les séances interactives. J'ai prévu aussi de répondre à vos questions.
+
+(30:53 - 31:04)
+Que j'aimerais bien avoir au préalable. Avant la séance que je souhaite vivement qu'elle soit programmée la semaine prochaine. Deux séances la semaine prochaine.
+
+(31:05 - 31:23)
+Donc j'aimerais bien avoir vos questions au préalable sur cette plateforme. Ou plutôt sur la plateforme Teens. Comme ça je prépare les éléments qui vous manquent.
+
+(31:24 - 31:31)
+Et les éléments de réponse au préalable. Ceci n'empêchera pas de poser des questions en live. Au moment des séances interactives.
+
+(31:32 - 31:38)
+Mais si je peux avoir une synthèse. Faire une synthèse de toutes vos questions. Et essayer de répondre à tout le monde.
+
+(31:39 - 31:45)
+Ce serait mieux. Ceci dit je vous souhaite bonne continuation. Et bonne journée.

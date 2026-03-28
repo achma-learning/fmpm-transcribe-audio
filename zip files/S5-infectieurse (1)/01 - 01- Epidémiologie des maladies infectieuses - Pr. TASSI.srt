@@ -1,0 +1,1623 @@
+1
+00:00:03,270 --> 00:00:06,090
+Le cours d'aujourd'hui est intitulé «
+
+2
+00:00:06,090 --> 00:00:08,190
+Epidémiologie des maladies infectieuses ».
+
+3
+00:00:08,190 --> 00:00:10,410
+C'est un cours d'introduction à ce
+
+4
+00:00:10,410 --> 00:00:12,870
+chapitre de maladies infectieuses qu'on va traiter
+
+5
+00:00:12,870 --> 00:00:15,230
+dans ce premier semestre de la troisième année.
+
+6
+00:00:17,290 --> 00:00:19,770
+Ce cours est plein de définitions qui sont
+
+7
+00:00:19,770 --> 00:00:22,550
+nécessaires à la compréhension de ce chapitre des
+
+8
+00:00:22,550 --> 00:00:23,610
+maladies infectieuses.
+
+9
+00:00:24,290 --> 00:00:27,150
+Alors, on dit épidémiologie, c'est un science,
+
+10
+00:00:27,310 --> 00:00:29,330
+c'est une étude de la distribution des
+
+11
+00:00:29,330 --> 00:00:31,910
+maladies chez l'homme et l'étude des
+
+12
+00:00:31,910 --> 00:00:34,990
+facteurs qui influencent l'apparition des maladies.
+
+13
+00:00:35,530 --> 00:00:37,570
+C'est aussi l'étude des épidémies et
+
+14
+00:00:37,570 --> 00:00:39,210
+des facteurs qui pourraient les causer.
+
+15
+00:00:39,730 --> 00:00:41,950
+Et le but de cette science est de
+
+16
+00:00:41,950 --> 00:00:45,770
+comprendre les causes des maladies, améliorer leur traitement
+
+17
+00:00:45,770 --> 00:00:47,990
+et pouvoir les prévenir.
+
+18
+00:00:49,110 --> 00:00:51,390
+La deuxième définition, c'est celle de l
+
+19
+00:00:51,390 --> 00:00:52,170
+'infection.
+
+20
+00:00:52,170 --> 00:00:54,950
+Donc on parle de l'infection quand on
+
+21
+00:00:54,950 --> 00:00:56,970
+a un résultat de l'agression d'un
+
+22
+00:00:56,970 --> 00:01:00,330
+organisme par un agent pathogène auquel il doit
+
+23
+00:01:00,330 --> 00:01:02,330
+réagir par la mise en place de ses
+
+24
+00:01:02,330 --> 00:01:03,269
+moyens de défense.
+
+25
+00:01:04,470 --> 00:01:07,590
+Cette infection va se traduire par des altérations
+
+26
+00:01:07,590 --> 00:01:11,450
+anatomiques et fonctionnelles et par des manifestations cliniques
+
+27
+00:01:11,450 --> 00:01:12,290
+et biologiques.
+
+28
+00:01:12,290 --> 00:01:15,590
+Par exemple, quand on a un gastroenterite, il
+
+29
+00:01:15,590 --> 00:01:19,590
+va se manifester par une diarrhée, une émission
+
+30
+00:01:19,590 --> 00:01:24,010
+de sang dans les selles et biologiquement, il
+
+31
+00:01:24,010 --> 00:01:29,810
+peut s'apparaître sous forme de troubles hydroélectrolytiques.
+
+32
+00:01:30,690 --> 00:01:33,630
+Alors, selon le mode d'acquisition d'une
+
+33
+00:01:33,630 --> 00:01:38,450
+infection, on décrit une infection communautaire, c'est
+
+34
+00:01:38,450 --> 00:01:40,170
+-à-dire c'est une infection qui a
+
+35
+00:01:40,170 --> 00:01:44,070
+été acquise en extra-hospitalière, c'est-à
+
+36
+00:01:44,070 --> 00:01:46,230
+-dire en dehors de l'hôpital, c'est
+
+37
+00:01:46,230 --> 00:01:49,850
+-à-dire une infection de ville et qui
+
+38
+00:01:49,850 --> 00:01:51,750
+s'est développée en dehors de l'hôpital,
+
+39
+00:01:51,850 --> 00:01:52,230
+bien sûr.
+
+40
+00:01:52,850 --> 00:01:59,050
+Alors, en parallèle, on décrit une infection communautaire
+
+41
+00:01:59,050 --> 00:02:01,750
+quand elle apparaît au cours ou à la
+
+42
+00:02:01,750 --> 00:02:04,630
+suite d'une hospitalisation, que ce soit pour
+
+43
+00:02:04,630 --> 00:02:10,110
+une intervention thérapeutique, diagnostique ou préventive, à condition
+
+44
+00:02:10,110 --> 00:02:13,250
+que cette infection ne soit pas présente au
+
+45
+00:02:13,250 --> 00:02:18,690
+moment de l'hospitalisation et ne soit pas
+
+46
+00:02:18,690 --> 00:02:21,630
+en incubation au moment de l'hospitalisation.
+
+47
+00:02:22,510 --> 00:02:26,050
+Pour qu'une maladie infectieuse se développe, on
+
+48
+00:02:26,050 --> 00:02:28,090
+a besoin d'une chaîne faite d'un
+
+49
+00:02:28,090 --> 00:02:31,650
+réservoir qui va émettre les agents pathogènes, de
+
+50
+00:02:31,650 --> 00:02:34,590
+l'agent pathogène lui-même, qui va atteindre
+
+51
+00:02:34,590 --> 00:02:37,970
+l'autre réceptive par deux moyens, soit une
+
+52
+00:02:37,970 --> 00:02:41,910
+transmission directe ou une transmission indirecte, dont on
+
+53
+00:02:41,910 --> 00:02:46,490
+verra la définition par la suite.
+
+54
+00:02:49,610 --> 00:02:52,510
+Le réservoir des germes, c'est la source
+
+55
+00:02:52,510 --> 00:02:54,770
+à partir de laquelle il est libéré l
+
+56
+00:02:54,770 --> 00:02:55,650
+'agent pathogène.
+
+57
+00:02:55,650 --> 00:02:58,130
+Ce réservoir, il peut être humain, l'être
+
+58
+00:02:58,130 --> 00:03:01,050
+humain qui est représenté soit par l'homme
+
+59
+00:03:01,050 --> 00:03:04,730
+malade qui peut libérer les germes et être
+
+60
+00:03:04,730 --> 00:03:08,530
+contagieux pour l'entourage, que ce soit même
+
+61
+00:03:08,530 --> 00:03:12,290
+en période d'incubation ou bien en période
+
+62
+00:03:12,290 --> 00:03:14,950
+de la maladie, en de convalescence ou même
+
+63
+00:03:14,950 --> 00:03:17,950
+après la maladie quand il va continuer à
+
+64
+00:03:17,950 --> 00:03:19,250
+émettre les germes.
+
+65
+00:03:19,250 --> 00:03:21,810
+Aussi le porteur sain, c'est-à-dire
+
+66
+00:03:21,810 --> 00:03:24,830
+l'être humain qui est asymptomatique, qui est
+
+67
+00:03:24,830 --> 00:03:27,390
+porteur de germes mais qui ne l'exprime
+
+68
+00:03:27,390 --> 00:03:28,590
+pas cliniquement.
+
+69
+00:03:29,470 --> 00:03:33,510
+Comme type d'agent pathogène à réservoir strictement
+
+70
+00:03:33,510 --> 00:03:35,850
+humain, il y a la syphilis, la varicelle,
+
+71
+00:03:36,310 --> 00:03:39,190
+le choléra et la poliomyélite qui n'existent
+
+72
+00:03:39,190 --> 00:03:39,990
+pas chez l'animal.
+
+73
+00:03:39,990 --> 00:03:43,670
+Le réservoir, il peut être aussi animal et
+
+74
+00:03:43,670 --> 00:03:48,210
+l'homme n'est qu'un intermédiaire, c
+
+75
+00:03:48,210 --> 00:03:49,170
+'est-à-dire qu'il n'est atteint
+
+76
+00:03:49,170 --> 00:03:52,670
+qu'accidentellement et il est responsable dans ce
+
+77
+00:03:52,670 --> 00:03:58,690
+cas, l'apparition d'anthropozoonoses, exemple la brucellose,
+
+78
+00:03:59,070 --> 00:04:01,490
+la rage, la peste et la bileptospirose qu
+
+79
+00:04:01,490 --> 00:04:04,510
+'on va voir dans les cours ultérieurs.
+
+80
+00:04:06,050 --> 00:04:08,790
+Aussi le réservoir de germes peut être l
+
+81
+00:04:08,790 --> 00:04:11,710
+'environnement, que ce soit l'air, que ce
+
+82
+00:04:11,710 --> 00:04:14,630
+soit la terre par exemple, il est responsable
+
+83
+00:04:14,630 --> 00:04:17,769
+du tétanos, il contient les spores tétaniques qui
+
+84
+00:04:17,769 --> 00:04:19,829
+peuvent se transmettre à l'homme à l
+
+85
+00:04:19,829 --> 00:04:22,350
+'occasion d'une plaie et l'eau qui
+
+86
+00:04:22,350 --> 00:04:27,070
+est responsable, un réservoir de légionnelles qui peut
+
+87
+00:04:27,070 --> 00:04:31,810
+transmettre la légionnellose à partir d'appareils de
+
+88
+00:04:31,810 --> 00:04:33,650
+climatisation et de circuits d'eau.
+
+89
+00:04:36,120 --> 00:04:39,000
+L'agent pathogène qui est le deuxième maillon
+
+90
+00:04:39,000 --> 00:04:42,120
+de cette chaîne de transmission des maladies infectieuses
+
+91
+00:04:42,120 --> 00:04:45,660
+et qui est libéré à partir d'un
+
+92
+00:04:45,660 --> 00:04:48,520
+réservoir ou d'une source, peut être soit
+
+93
+00:04:48,520 --> 00:04:51,220
+des bactéries, des virus, des lévures ou des
+
+94
+00:04:51,220 --> 00:04:54,880
+parasites, comme ça peut être des agents transmissibles
+
+95
+00:04:54,880 --> 00:05:00,460
+non conventionnels, comme les agents pathogènes de nature
+
+96
+00:05:00,460 --> 00:05:03,340
+protéique sans acide nucléique qu'on appelle les
+
+97
+00:05:03,340 --> 00:05:06,880
+prions qui sont responsables d'apparitions d'encéphalopathies
+
+98
+00:05:06,880 --> 00:05:11,880
+subaiguës spongiformes, transmissibles comme la maladie des vaches
+
+99
+00:05:11,880 --> 00:05:12,160
+folles.
+
+100
+00:05:12,900 --> 00:05:16,660
+L'ensemble de ces agents pathogènes peuvent provoquer
+
+101
+00:05:16,660 --> 00:05:20,320
+soit une infection endogène, c'est-à-dire
+
+102
+00:05:20,320 --> 00:05:24,380
+que le réservoir du germe et le malade
+
+103
+00:05:24,380 --> 00:05:27,380
+lui-même, par exemple les infections urinaires qui
+
+104
+00:05:27,380 --> 00:05:30,040
+sont dues à l'hichirachia coli qui vient
+
+105
+00:05:30,040 --> 00:05:33,840
+de tubes digestifs de l'homme malade, ou
+
+106
+00:05:33,840 --> 00:05:37,460
+bien ils peuvent être aussi responsables d'infections
+
+107
+00:05:37,460 --> 00:05:42,220
+exogènes quand l'agent pathogène provient d'un
+
+108
+00:05:42,220 --> 00:05:47,260
+réservoir en dehors de l'être malade et
+
+109
+00:05:47,260 --> 00:05:51,140
+ce réservoir peut être un autre être humain
+
+110
+00:05:51,140 --> 00:05:53,920
+que le patient, ça peut être aussi un
+
+111
+00:05:53,920 --> 00:05:56,120
+animal ou l'environnement.
+
+112
+00:05:56,960 --> 00:05:59,420
+L'agent pathogène une fois libéré de son
+
+113
+00:05:59,420 --> 00:06:03,280
+réservoir et pour développer l'infection chez l
+
+114
+00:06:03,280 --> 00:06:06,820
+'agent récepteur, il doit passer par des modes
+
+115
+00:06:06,820 --> 00:06:10,560
+de transmission différents qu'on va voir par
+
+116
+00:06:10,560 --> 00:06:11,060
+la suite.
+
+117
+00:06:11,060 --> 00:06:14,560
+La transmission peut être directe, c'est-à
+
+118
+00:06:14,560 --> 00:06:17,500
+-dire la transmission directe de l'agent pathogène
+
+119
+00:06:17,500 --> 00:06:22,900
+vers l'agent récepteur.
+
+120
+00:06:23,240 --> 00:06:25,820
+Ainsi, il peut être inter-humain, c'est
+
+121
+00:06:25,820 --> 00:06:29,020
+-à-dire l'agent pathogène se transmet d
+
+122
+00:06:29,020 --> 00:06:32,100
+'un être humain à un autre être humain.
+
+123
+00:06:32,100 --> 00:06:34,980
+Il peut être aéroporté et dans ce cas
+
+124
+00:06:34,980 --> 00:06:37,520
+-là, il s'agit d'inhalations de particules
+
+125
+00:06:37,520 --> 00:06:40,920
+de moins de 5 micromètres, comme celles qui
+
+126
+00:06:40,920 --> 00:06:43,520
+se transmettent au cours de la rougeole, de
+
+127
+00:06:43,520 --> 00:06:47,100
+la varicelle, de la tuberculose en cas de
+
+128
+00:06:47,100 --> 00:06:49,920
+grippe et ça peut se faire à partir
+
+129
+00:06:49,920 --> 00:06:52,640
+d'une distance de plusieurs mètres parce que
+
+130
+00:06:52,640 --> 00:06:55,200
+les particules sont très légères, il peut se
+
+131
+00:06:55,200 --> 00:06:59,400
+déplacer dans l'air à plusieurs mètres.
+
+132
+00:07:00,400 --> 00:07:04,200
+Aussi, cette transmission inter-humaine peut être de
+
+133
+00:07:04,200 --> 00:07:06,880
+type gouttelette, c'est-à-dire que l
+
+134
+00:07:06,880 --> 00:07:10,580
+'exposition des conjectives et des muqueuses de l
+
+135
+00:07:10,580 --> 00:07:14,580
+'agent récepteur à des particules qui proviennent du
+
+136
+00:07:14,580 --> 00:07:18,820
+patient malade, ce sont des particules grosses qui
+
+137
+00:07:18,820 --> 00:07:21,640
+dépassent des micromètres et ce sont des particules
+
+138
+00:07:21,640 --> 00:07:24,580
+de salive ou de muqueuse qui peuvent transmettre
+
+139
+00:07:24,580 --> 00:07:29,500
+aussi bien le mylingococque que le virus respiratoire
+
+140
+00:07:29,500 --> 00:07:33,520
+syncytial et ils nécessitent pour leur transmission un
+
+141
+00:07:33,520 --> 00:07:36,780
+contact entre l'agent porteur et l'agent
+
+142
+00:07:36,780 --> 00:07:41,700
+récepteur d'un diamètre d'inférieur à 1
+
+143
+00:07:41,700 --> 00:07:41,980
+mètre.
+
+144
+00:07:41,980 --> 00:07:46,660
+La transmission manuportée, c'est essentiellement comme les
+
+145
+00:07:46,660 --> 00:07:51,660
+infections ontériques à transmission fécorale décrites comme des
+
+146
+00:07:51,660 --> 00:07:53,400
+maladies des mains sales, c'est-à-dire
+
+147
+00:07:53,400 --> 00:07:57,580
+que c'est la transmission à partir des
+
+148
+00:07:57,580 --> 00:08:02,040
+mains de l'agent pathogène qui va à
+
+149
+00:08:02,040 --> 00:08:02,840
+travers la bouche.
+
+150
+00:08:02,840 --> 00:08:06,780
+Il y aura l'ingestion de germes et
+
+151
+00:08:06,780 --> 00:08:11,220
+la constitution de maladies qui peuvent donner des
+
+152
+00:08:11,220 --> 00:08:12,840
+manifestations gastro-ontériques.
+
+153
+00:08:13,200 --> 00:08:16,700
+Aussi, les infections manuportées, ce sont les infections
+
+154
+00:08:16,700 --> 00:08:20,560
+qui peuvent transmettre un agent pathogène au niveau
+
+155
+00:08:20,560 --> 00:08:21,180
+de l'hôpital.
+
+156
+00:08:21,420 --> 00:08:23,240
+Si on ne respecte pas les règles d
+
+157
+00:08:23,240 --> 00:08:26,900
+'hygiène, on risque de transmettre une infection à
+
+158
+00:08:26,900 --> 00:08:29,180
+partir d'un malade à un autre qui
+
+159
+00:08:29,180 --> 00:08:32,559
+est hospitalisé pour autre chose et être responsable
+
+160
+00:08:32,559 --> 00:08:34,559
+d'une infection nosocomiale, par exemple.
+
+161
+00:08:35,120 --> 00:08:39,360
+Aussi, la transmission par voie sexuelle qui permet
+
+162
+00:08:39,360 --> 00:08:41,720
+de transmettre comme la syphilis, le virus de
+
+163
+00:08:41,720 --> 00:08:44,180
+l'immunodéficience humaine, le virus de l'hépatite
+
+164
+00:08:44,180 --> 00:08:48,640
+B, la transmission sanguine qui peut transmettre aussi
+
+165
+00:08:48,640 --> 00:08:50,900
+le VIH, l'hépatite B, l'hépatite C,
+
+166
+00:08:51,080 --> 00:08:55,240
+le cytomegalovirus, le paludisme, malgré que le paludisme
+
+167
+00:08:55,240 --> 00:09:00,700
+est une maladie qui fait intervenir l'agent
+
+168
+00:09:00,700 --> 00:09:02,080
+vecteur qui est l'anophale.
+
+169
+00:09:02,180 --> 00:09:07,280
+Il peut aussi être transmis lors de transfusion
+
+170
+00:09:07,280 --> 00:09:10,840
+sanguine ou lors d'un accident d'exposition
+
+171
+00:09:10,840 --> 00:09:13,560
+au sang pour un personnel qui travaille au
+
+172
+00:09:13,560 --> 00:09:15,940
+laboratoire qui se fait piquer par du sang
+
+173
+00:09:15,940 --> 00:09:19,920
+provenant d'un malade qui est atteint du
+
+174
+00:09:19,920 --> 00:09:20,440
+paludisme.
+
+175
+00:09:20,440 --> 00:09:23,920
+Aussi, d'autres bactéries peuvent se transmettre par
+
+176
+00:09:23,920 --> 00:09:24,840
+voie sanguine.
+
+177
+00:09:25,700 --> 00:09:28,280
+La transmission directe peut se faire aussi à
+
+178
+00:09:28,280 --> 00:09:32,700
+partir d'un animal contagieux, par exemple, par
+
+179
+00:09:32,700 --> 00:09:33,640
+voie aérienne.
+
+180
+00:09:33,760 --> 00:09:35,600
+On a la fièvre Q qui se transmet
+
+181
+00:09:35,600 --> 00:09:36,760
+par voie aérienne.
+
+182
+00:09:37,720 --> 00:09:39,920
+Cette pathologie, on va la voir dans un
+
+183
+00:09:39,920 --> 00:09:43,500
+chapitre dans ce semestre-là.
+
+184
+00:09:43,500 --> 00:09:46,980
+Par voie cutanée, la rage, par exemple, par
+
+185
+00:09:46,980 --> 00:09:50,700
+morsure d'un animal, directement d'un animal,
+
+186
+00:09:51,460 --> 00:09:54,080
+soit une morsure, soit un léchage ou une
+
+187
+00:09:54,080 --> 00:09:54,680
+greffure.
+
+188
+00:09:55,120 --> 00:09:56,920
+Aussi, la bruce et l'os sont des
+
+189
+00:09:56,920 --> 00:09:59,260
+maladies qui se transmettent d'une manière directe
+
+190
+00:09:59,260 --> 00:10:01,920
+mais à partir d'un animal contagieux.
+
+191
+00:10:03,290 --> 00:10:05,530
+Deuxième mode de transmission, c'est la transmission
+
+192
+00:10:05,530 --> 00:10:10,690
+intermédiaire, indirecte pardon, qui nécessite la présence d
+
+193
+00:10:10,690 --> 00:10:13,870
+'un intermédiaire inerte ou animé qui va transmettre
+
+194
+00:10:13,870 --> 00:10:18,350
+l'agent pathogène d'un réservoir à un
+
+195
+00:10:18,350 --> 00:10:19,390
+agent réceptif.
+
+196
+00:10:20,010 --> 00:10:23,950
+Cet intermédiaire, il peut être soit un véhicule
+
+197
+00:10:23,950 --> 00:10:26,570
+inerte comme l'eau qui peut transmettre le
+
+198
+00:10:26,570 --> 00:10:28,850
+choléra sans qu'il y ait un contact
+
+199
+00:10:28,850 --> 00:10:31,270
+rapproché entre l'homme et le réservoir.
+
+200
+00:10:31,270 --> 00:10:35,230
+Ça peut être un élément souillé par l
+
+201
+00:10:35,230 --> 00:10:37,890
+'agent de la typhoïde, de la polio ou
+
+202
+00:10:37,890 --> 00:10:38,670
+de l'hépatite A.
+
+203
+00:10:38,770 --> 00:10:40,530
+Ça peut être le sol ou la poussière,
+
+204
+00:10:40,670 --> 00:10:41,890
+c'est le cas de la tétanos, du
+
+205
+00:10:41,890 --> 00:10:43,930
+charbon, comme ça peut être un objet.
+
+206
+00:10:44,670 --> 00:10:47,390
+Ce vecteur-là, il peut être animé, c
+
+207
+00:10:47,390 --> 00:10:50,290
+'est-à-dire un vecteur vivant qui va
+
+208
+00:10:50,290 --> 00:10:56,250
+transporter l'agent pathogène du réservoir à l
+
+209
+00:10:56,250 --> 00:10:57,130
+'agent réceptif.
+
+210
+00:10:57,130 --> 00:11:00,410
+Ce sont des arthropodes, par exemple, la transmission
+
+211
+00:11:00,410 --> 00:11:05,130
+et les fonctions des facteurs climatiques et géographiques
+
+212
+00:11:05,130 --> 00:11:06,730
+de survie de ce vecteur, c'est-à
+
+213
+00:11:06,730 --> 00:11:09,090
+-dire qu'une maladie donnée qui est transmise
+
+214
+00:11:09,090 --> 00:11:12,310
+par un vecteur, il se voit la période
+
+215
+00:11:12,310 --> 00:11:18,070
+favorable à la transmission, à la vie des
+
+216
+00:11:18,070 --> 00:11:18,390
+arthropodes.
+
+217
+00:11:18,390 --> 00:11:23,810
+Par exemple, l'anophèle qui transmet le paludisme,
+
+218
+00:11:24,310 --> 00:11:28,390
+surtout il fonctionne la nuit, donc les piqures
+
+219
+00:11:28,390 --> 00:11:30,510
+se font la nuit plus tard que le
+
+220
+00:11:30,510 --> 00:11:30,750
+jour.
+
+221
+00:11:31,190 --> 00:11:34,310
+Nos moyens de prévention doivent s'adresser aux
+
+222
+00:11:34,310 --> 00:11:38,470
+patients la nuit pour prévenir la piqure par
+
+223
+00:11:38,470 --> 00:11:41,130
+cet agent pathogène et prévenir la maladie.
+
+224
+00:11:41,670 --> 00:11:43,990
+Par exemple, le trachome est transmis par une
+
+225
+00:11:43,990 --> 00:11:46,730
+mouche et la maladie Lyme est transmise par
+
+226
+00:11:46,730 --> 00:11:47,150
+une tique.
+
+227
+00:11:47,750 --> 00:11:51,870
+La fièvre jaune est transmise par un moustique
+
+228
+00:11:51,870 --> 00:11:54,150
+qui est l'ADES, un autre moustique qui
+
+229
+00:11:54,150 --> 00:11:56,490
+est l'anophèle et il transmet le paludisme.
+
+230
+00:11:59,570 --> 00:12:04,770
+Chose importante, en absence de vecteur d'une
+
+231
+00:12:04,770 --> 00:12:07,950
+maladie donnée ou d'un agent donné fait
+
+232
+00:12:07,950 --> 00:12:09,790
+qu'il n'y aura pas de contamination
+
+233
+00:12:09,790 --> 00:12:11,810
+s'il n'y a pas d'autres
+
+234
+00:12:11,810 --> 00:12:12,890
+moyens de transmission.
+
+235
+00:12:12,890 --> 00:12:15,750
+Chose qui n'est pas toujours vraie vu
+
+236
+00:12:15,750 --> 00:12:19,650
+que pour une maladie donnée, on trouvera plusieurs
+
+237
+00:12:19,650 --> 00:12:23,030
+moyens de contamination qui existent en même temps.
+
+238
+00:12:23,710 --> 00:12:26,110
+Alors ces dépôts-là, ils récapitulent tout ce
+
+239
+00:12:26,110 --> 00:12:27,590
+qu'on vient de voir jusqu'à maintenant,
+
+240
+00:12:27,750 --> 00:12:30,150
+c'est-à-dire les réservoirs qui peuvent
+
+241
+00:12:30,150 --> 00:12:32,650
+être l'homme, qui peut être l'eau,
+
+242
+00:12:33,010 --> 00:12:35,770
+les aliments, l'environnement, le sol.
+
+243
+00:12:35,770 --> 00:12:40,110
+Comme aussi, ils récapitulent les modes de transmission,
+
+244
+00:12:40,690 --> 00:12:45,990
+que ce soit inter-humain, direct ou une
+
+245
+00:12:45,990 --> 00:12:50,730
+transmission indirecte faisant intervenir les autres moyens de
+
+246
+00:12:50,730 --> 00:12:51,470
+contamination.
+
+247
+00:12:54,200 --> 00:12:57,480
+Troisième mode de transmission, c'est la transmission
+
+248
+00:12:57,480 --> 00:13:00,640
+verticale, c'est-à-dire la transmission de
+
+249
+00:13:00,640 --> 00:13:03,000
+la mère à l'enfant et c'est
+
+250
+00:13:03,000 --> 00:13:07,140
+une transmission soit trans-placentaire ou même après
+
+251
+00:13:07,140 --> 00:13:11,180
+l'accouchement, la transmission par l'allaitement maternel.
+
+252
+00:13:12,060 --> 00:13:15,040
+Exemple de maladies à transmission verticale, on a
+
+253
+00:13:15,040 --> 00:13:17,960
+par exemple la rubiole, la syphilis, la toxoplasmose,
+
+254
+00:13:18,080 --> 00:13:19,480
+le VIH et l'hépatite P.
+
+255
+00:13:20,760 --> 00:13:23,340
+Pour beaucoup de micro-organismes, le mode de
+
+256
+00:13:23,340 --> 00:13:24,720
+transmission n'est pas unique.
+
+257
+00:13:25,240 --> 00:13:27,840
+Par exemple, l'amibe, il a une transmission
+
+258
+00:13:27,840 --> 00:13:31,960
+directe maniportée mais aussi indirecte et drique.
+
+259
+00:13:32,360 --> 00:13:34,780
+L'hépatite B, ou le VIH, ils ont
+
+260
+00:13:34,780 --> 00:13:37,860
+une transmission directe sexuelle et verticale et une
+
+261
+00:13:37,860 --> 00:13:41,980
+transmission indirecte sanguine, comme la transfusion, la toxicomanie.
+
+262
+00:13:45,580 --> 00:13:48,580
+Après la transmission d'un agent pathogène, on
+
+263
+00:13:48,580 --> 00:13:51,720
+peut assister à trois choses, soit une contamination
+
+264
+00:13:51,720 --> 00:13:54,700
+microbienne qui peut rester à l'état de
+
+265
+00:13:54,700 --> 00:13:57,100
+contamination, c'est-à-dire présence d'un
+
+266
+00:13:57,100 --> 00:14:01,160
+transfert et d'un phénomène physique et microscopique
+
+267
+00:14:01,160 --> 00:14:02,980
+mais qui est peu détectable, c'est-à
+
+268
+00:14:02,980 --> 00:14:05,840
+-dire une multiplication d'agents pathogènes très inférieurs
+
+269
+00:14:05,840 --> 00:14:09,220
+pour développer une maladie, soit une colonisation, c
+
+270
+00:14:09,220 --> 00:14:10,340
+'est-à-dire qu'il y aura quand
+
+271
+00:14:10,340 --> 00:14:14,940
+même la multiplication d'un agent pathogène qui
+
+272
+00:14:14,940 --> 00:14:17,660
+peut être détecté mais il n'y a
+
+273
+00:14:17,660 --> 00:14:21,960
+pas de signe infectieux sur le récepteur, sur
+
+274
+00:14:21,960 --> 00:14:24,860
+l'être humain réceptif.
+
+275
+00:14:24,860 --> 00:14:28,780
+Et la troisième phase, c'est l'infection,
+
+276
+00:14:28,940 --> 00:14:30,920
+c'est-à-dire que l'existence quand
+
+277
+00:14:30,920 --> 00:14:34,480
+même d'une multiplication d'agents pathogènes d
+
+278
+00:14:34,480 --> 00:14:39,100
+'une manière très importante qui va être conséquence
+
+279
+00:14:39,100 --> 00:14:43,920
+d'apparition de phénomènes physiopathologiques souvent perceptibles et
+
+280
+00:14:43,920 --> 00:14:46,840
+il va aboutir à deux étapes possibles, soit
+
+281
+00:14:46,840 --> 00:14:50,840
+que l'infection est symptomatique et clinique, c
+
+282
+00:14:50,840 --> 00:14:51,780
+'est-à-dire qu'il y a des
+
+283
+00:14:51,780 --> 00:14:56,460
+signes cliniques que le malade va exprimer en
+
+284
+00:14:56,460 --> 00:15:02,080
+rapport avec l'infection, soit rester asymptomatique, infraclinique,
+
+285
+00:15:02,220 --> 00:15:03,560
+c'est-à-dire qu'il n'y
+
+286
+00:15:03,560 --> 00:15:06,280
+a pas de développement de signes cliniques de
+
+287
+00:15:06,280 --> 00:15:06,880
+l'infection.
+
+288
+00:15:09,860 --> 00:15:14,500
+Après la transmission de l'agent pathogène et
+
+289
+00:15:14,500 --> 00:15:16,120
+quand il y a l'apparition d'une
+
+290
+00:15:16,120 --> 00:15:18,900
+infection, il y a des phases qui vont
+
+291
+00:15:18,900 --> 00:15:22,080
+suivre cette infection.
+
+292
+00:15:22,320 --> 00:15:24,680
+Il y aura d'abord l'incubation, c
+
+293
+00:15:24,680 --> 00:15:28,180
+'est la phase qui s'écoule entre la
+
+294
+00:15:28,180 --> 00:15:30,500
+transmission de l'agent pathogène et l'apparition
+
+295
+00:15:30,500 --> 00:15:32,260
+des premiers signes cliniques.
+
+296
+00:15:32,260 --> 00:15:35,320
+Et c'est une phase silencieuse et dont
+
+297
+00:15:35,320 --> 00:15:38,020
+la durée est très variable, elle dépend de
+
+298
+00:15:38,020 --> 00:15:40,580
+la virulence du germe, elle dépend de la
+
+299
+00:15:40,580 --> 00:15:43,780
+quantité de germes transmises et il dépend aussi
+
+300
+00:15:43,780 --> 00:15:48,680
+des conditions immunitaires de sujets réceptifs.
+
+301
+00:15:48,680 --> 00:15:53,260
+Après, on aura la phase d'invasion où
+
+302
+00:15:53,260 --> 00:15:57,700
+on aura les premiers signes de l'infection
+
+303
+00:15:57,700 --> 00:15:59,960
+et puis il y aura la phase d
+
+304
+00:15:59,960 --> 00:16:02,600
+'état où on aura le maximum de signes
+
+305
+00:16:02,600 --> 00:16:05,100
+cliniques de la maladie.
+
+306
+00:16:05,100 --> 00:16:08,460
+Et après cette phase-là, il y aura
+
+307
+00:16:08,460 --> 00:16:12,220
+une évolution soit vers la guérison, soit vers
+
+308
+00:16:12,220 --> 00:16:15,620
+l'aggravation et les complications et le décès,
+
+309
+00:16:16,020 --> 00:16:20,220
+soit que les signes cliniques vont subir une
+
+310
+00:16:20,220 --> 00:16:22,680
+réduction jusqu'à une disparition mais que la
+
+311
+00:16:22,680 --> 00:16:26,480
+maladie peut évoluer vers la chronicité sur plusieurs
+
+312
+00:16:26,480 --> 00:16:27,100
+années.
+
+313
+00:16:27,100 --> 00:16:29,040
+C'est le cas par exemple de l
+
+314
+00:16:29,040 --> 00:16:30,960
+'hépatite C ou de l'hépatite P ou
+
+315
+00:16:30,960 --> 00:16:32,240
+même de l'infection à VIH.
+
+316
+00:16:33,240 --> 00:16:38,560
+Certaines infections aussi peuvent guérir mais elles peuvent
+
+317
+00:16:38,560 --> 00:16:39,240
+récidiver.
+
+318
+00:16:39,400 --> 00:16:40,740
+C'est le cas du zona qui est
+
+319
+00:16:40,740 --> 00:16:44,120
+une réactivation du virus zona varicella, soit de
+
+320
+00:16:44,120 --> 00:16:47,200
+l'herpès où on peut avoir plusieurs poussées
+
+321
+00:16:47,200 --> 00:16:49,600
+herpétiques après la primo-infection.
+
+322
+00:16:50,200 --> 00:16:53,760
+Comment évoluent les maladies infectieuses dans les collectivités?
+
+323
+00:16:54,060 --> 00:16:58,220
+Ils peuvent apparaître sous forme de cas sporadiques,
+
+324
+00:16:58,440 --> 00:17:00,740
+c'est-à-dire des cas strictement isolés
+
+325
+00:17:00,740 --> 00:17:01,880
+qui n'ont pas de lien.
+
+326
+00:17:01,880 --> 00:17:05,380
+Comme ils peuvent évoluer sous forme épidémique, c
+
+327
+00:17:05,380 --> 00:17:07,060
+'est-à-dire l'apparition de nombreux cas
+
+328
+00:17:07,060 --> 00:17:09,000
+groupés dans le même temps et le même
+
+329
+00:17:09,000 --> 00:17:14,240
+espace, par exemple l'épidémie de meningite aminagocoque
+
+330
+00:17:14,240 --> 00:17:17,540
+à Shawin et une épidémie de toxi-infection
+
+331
+00:17:17,540 --> 00:17:21,200
+alimentaire collective dans une région donnée, c'est
+
+332
+00:17:21,200 --> 00:17:24,000
+-à-dire qu'un nombre de cas très
+
+333
+00:17:24,000 --> 00:17:26,420
+élevés qui vont apparaître dans un laps de
+
+334
+00:17:26,420 --> 00:17:29,640
+temps réduit et un espace limité.
+
+335
+00:17:29,640 --> 00:17:31,760
+La pandémie, c'est-à-dire l'existence
+
+336
+00:17:31,760 --> 00:17:33,620
+d'une infection qui se développe à l
+
+337
+00:17:33,620 --> 00:17:36,060
+'échelle mondiale, c'est-à-dire le monde
+
+338
+00:17:36,060 --> 00:17:40,220
+entier peut connaître un chiffre élevé d'une
+
+339
+00:17:40,220 --> 00:17:47,700
+maladie donnée, par exemple la pandémie d'une
+
+340
+00:17:47,700 --> 00:17:48,620
+grippe, par exemple.
+
+341
+00:17:49,580 --> 00:17:51,960
+L'endémie, c'est-à-dire qu'il
+
+342
+00:17:51,960 --> 00:17:55,020
+y a une infection qui évolue constamment dans
+
+343
+00:17:55,020 --> 00:17:58,900
+une collectivité, par exemple l'endémie de paludisme
+
+344
+00:17:58,900 --> 00:18:02,100
+dans des pays africains, le Maroc est un
+
+345
+00:18:02,100 --> 00:18:04,600
+pays d'endémie concernant la tuberculose, c'est
+
+346
+00:18:04,600 --> 00:18:07,380
+-à-dire on a un chiffre qui reste
+
+347
+00:18:07,380 --> 00:18:10,640
+stationnaire chaque année, par exemple on a 27
+
+348
+00:18:10,640 --> 00:18:13,600
+000 jusqu'à 30 000 cas de tuberculose
+
+349
+00:18:13,600 --> 00:18:16,040
+par an, ça c'est une chose connue.
+
+350
+00:18:16,040 --> 00:18:22,490
+L'évolution des maladies infectieuses déroule les collectivités,
+
+351
+00:18:22,610 --> 00:18:25,310
+elle est influencée par des facteurs collectifs et
+
+352
+00:18:25,310 --> 00:18:27,630
+des facteurs personnels.
+
+353
+00:18:27,890 --> 00:18:31,650
+Pour les facteurs collectifs, il y aura l
+
+354
+00:18:31,650 --> 00:18:33,810
+'hygiène collective, c'est-à-dire le système
+
+355
+00:18:33,810 --> 00:18:35,910
+d'évacuation des eaux et des déchets, par
+
+356
+00:18:35,910 --> 00:18:36,210
+exemple.
+
+357
+00:18:36,210 --> 00:18:38,190
+À chaque fois qu'on a une défaillance
+
+358
+00:18:38,190 --> 00:18:41,170
+de ce système par des guerres, par un
+
+359
+00:18:41,170 --> 00:18:43,370
+niveau d'hygiène bas, on a l'apparition
+
+360
+00:18:43,370 --> 00:18:46,870
+de maladies liées à l'eau, par exemple
+
+361
+00:18:46,870 --> 00:18:51,730
+en Yémen, vu la guerre qui est actuellement
+
+362
+00:18:51,730 --> 00:18:54,770
+en cours dans ce pays-là, on a
+
+363
+00:18:54,770 --> 00:18:56,330
+une épidémie du choléra.
+
+364
+00:18:56,330 --> 00:18:58,630
+Aussi, la densité de population.
+
+365
+00:18:59,470 --> 00:19:02,210
+Dans la période de l'Hijj, on a
+
+366
+00:19:02,210 --> 00:19:07,290
+une densité de population aux Arabes et Saoudiens,
+
+367
+00:19:07,390 --> 00:19:09,530
+on a quand même l'apparition de cas
+
+368
+00:19:09,530 --> 00:19:10,110
+de meningite.
+
+369
+00:19:10,110 --> 00:19:13,170
+Le mode de vie, l'alimentation et ce
+
+370
+00:19:13,170 --> 00:19:14,730
+qu'il y en a au nom de
+
+371
+00:19:14,730 --> 00:19:15,870
+campagnes de vaccination.
+
+372
+00:19:16,450 --> 00:19:19,050
+Le système d'immunisation et de vaccination au
+
+373
+00:19:19,050 --> 00:19:25,430
+Maroc, il était une action très importante sur
+
+374
+00:19:25,430 --> 00:19:28,830
+la population marocaine pour faire la disparition de
+
+375
+00:19:28,830 --> 00:19:29,790
+certaines infections.
+
+376
+00:19:29,790 --> 00:19:34,630
+L'existence de catastrophes naturelles aux catastrophes humaines,
+
+377
+00:19:35,550 --> 00:19:39,450
+l'existence d'inondations, d'oragans, il est
+
+378
+00:19:39,450 --> 00:19:42,350
+capable de provoquer l'apparition de certaines maladies.
+
+379
+00:19:42,350 --> 00:19:45,710
+Pour agir sur l'évolution des maladies infectieuses
+
+380
+00:19:45,710 --> 00:19:47,570
+dans les collectivités, il y a des moyens
+
+381
+00:19:47,570 --> 00:19:52,010
+préventifs à l'échelle individuelle, comme la vaccination,
+
+382
+00:19:52,350 --> 00:19:53,770
+comme la chimioprophylaxie.
+
+383
+00:19:54,270 --> 00:19:57,290
+Par exemple, quelqu'un qui se déplace dans
+
+384
+00:19:57,290 --> 00:20:00,270
+un pays endémique, il suffit qu'il prenne
+
+385
+00:20:00,270 --> 00:20:04,970
+une chimioprophylaxie personnelle pour diminuer le risque de
+
+386
+00:20:04,970 --> 00:20:06,090
+transmission de paludisme.
+
+387
+00:20:06,090 --> 00:20:09,790
+Aussi, l'hygiène individuelle est très importante pour
+
+388
+00:20:09,790 --> 00:20:13,190
+éviter la transmission d'agents pathogènes d'un
+
+389
+00:20:13,190 --> 00:20:16,510
+patient à un autre, et c'est cette
+
+390
+00:20:16,510 --> 00:20:19,790
+hygiène-là que chaque personne doit développer.
+
+391
+00:20:19,790 --> 00:20:24,650
+À l'échelle collective, on peut agir sur
+
+392
+00:20:24,650 --> 00:20:26,810
+l'évacuation, le traitement des eaux usées, sur
+
+393
+00:20:26,810 --> 00:20:30,570
+la salubrité des aliments, de l'air, sur
+
+394
+00:20:30,570 --> 00:20:34,030
+la désinfection, la dératisation, la surveillance des infections,
+
+395
+00:20:34,410 --> 00:20:37,570
+et aussi sur les campagnes de vaccination générale.
+
+396
+00:20:39,260 --> 00:20:43,660
+Pour la surveillance des maladies infectieuses, il y
+
+397
+00:20:43,660 --> 00:20:49,660
+a la déclaration obligatoire des maladies qui nous
+
+398
+00:20:49,660 --> 00:20:52,680
+donne une liste de maladies à déclarer d
+
+399
+00:20:52,680 --> 00:20:55,720
+'une manière obligatoire pour prendre les mesures nécessaires
+
+400
+00:20:55,720 --> 00:20:57,080
+vis-à-vis de ces maladies-là.
+
+401
+00:20:57,080 --> 00:21:03,180
+La plupart sont des maladies infectieuses, mais aussi
+
+402
+00:21:03,180 --> 00:21:05,500
+comme surveillance des maladies, il y a aussi
+
+403
+00:21:05,500 --> 00:21:08,440
+les enquêtes de prévalence et d'incidence qui
+
+404
+00:21:08,440 --> 00:21:11,200
+permettent de nous donner une idée sur la
+
+405
+00:21:11,200 --> 00:21:13,740
+répartition de ces maladies au niveau de notre
+
+406
+00:21:13,740 --> 00:21:14,060
+pays.

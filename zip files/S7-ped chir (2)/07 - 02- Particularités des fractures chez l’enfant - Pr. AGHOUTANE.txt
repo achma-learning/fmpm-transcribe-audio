@@ -1,0 +1,307 @@
+(0:00 - 0:38)
+Bonjour chers étudiants, dans ce cours, nous allons traiter les particularités des fractures chez l'enfant. D'abord, il faut connaître les différents types de fractures spécifiques à l'enfant, classifier les fractures d'économe épiphyselle, interpréter une radiographie du cône chez l'enfant, décrire les possibilités thérapeutiques propres à l'enfant et décrire les complications propres à l'enfant. Dans la pathologie infantile, les membres représentent le premier motif de consultation aux urgences pédiatriques.
+
+(0:39 - 1:03)
+Les garçons présentent plus de fractures que les filles, bien sûr parce que les garçons sont plus turbulents. La fracture du poignet est la plus fréquente, elle représente 20 à 35% des fractures du membre chez l'enfant. Parfois cette fracture peut être le mode de découvert d'une pathologie sous-jacente qui peut être soit une lésion biligne, parfois même une tumeur maligne.
+
+(1:03 - 1:33)
+L'enfant est constitué de deux épiphyses de chaque côté. Le cartilage de croissance sépare l'épiphyse de la métaphyse, il assure la croissance en longueur et le périostre, qui est épais, enveloppe la région métaphysodiaphysaire et permet la croissance en largeur. L'épiphyse de l'enfant présente des propriétés propres à chaque segment et variable en fonction de l'âge, au contraire du squelette de l'adulte.
+
+(1:34 - 2:03)
+Ainsi, l'épiphyse est en grande partie cartilagineuse, source de difficultés de diagnostic radiographique parce que tout ce qui est cartilagineux n'est pas visible sur la radiographie standard ou même sur le scanner. D'autre part, l'épiphyse supporte le cartilage de croissance sur le plan mécanique et vasculaire. La métaphyse est constituée d'un os spongieux, dense, peu corticalisé, enveloppé d'un périostre très solide.
+
+(2:03 - 2:33)
+C'est le siège de fractures partielles qu'on appelle fractures en mousse de beurre, d'excellent pronostic mais de diagnostic difficile. La diaphyse osseuse chez l'enfant est très souple, comparable à du bois vert, avec possibilité de fractures d'une seule corticale. Ce sont des fractures en bois vert. 
+
+C'est comme si on veut casser un bois vert, un bois d'olivier. Si on le casse, généralement, ça se casse au niveau de la convexité et pas au niveau de la concavité. C'est comme ça la fracture en bois vert.
+
+(2:34 - 2:49)
+Parfois, l'enfant peut faire même des fractures qu'on appelle fractures plastiques. C'est comme du plastique qu'on peut plier parfois sans le casser. Ce sont des ongulations, des déformations en ongulation centrées de fractures qu'on appelle fractures plastiques.
+
+(2:51 - 3:19)
+Les ligaments et les capsules sont plus solides que les épiphyses et le cartilage de croissance. Cela a pour conséquence la rareté des ruptures ligamentaires et la fréquence des décollements épiphysaires. Par exemple, si je prends un nouveau-né au cours d'un accouchement traumatique, dystoïque, si je tire sur le bras d'un nouveau-né, ça entraîne plutôt une fracture de l'humerus et pas une luxation traumatique parce que les ligaments et les capsules sont plus solides que l'os lui-même.
+
+(3:20 - 3:34)
+On ne commence à voir les luxations traumatiques qu'à partir d'un certain âge chez le grand-enfant. Avant, on n'a pas de luxations post-traumatiques. J'ouvre la parenthèse pour parler de la luxation congénitale de l'avance.
+
+(3:34 - 3:45)
+Ce n'est pas une luxation traumatique, c'est une maladie. C'est à part. La particularité du periostyle enfant est qu'il est très épais, très résistant et limite les déplacements.
+
+(3:46 - 4:04)
+Il joue le rôle d'un altérant qui trouve tout son intérêt en cas de réduction des fractures chez l'enfant. Maintenant, on va parler des types de fractures de l'enfant. D'abord, l'enfant peut faire des fractures, comme chez l'adulte, à trait transversal, à trait oblique.
+
+(4:04 - 4:32)
+Comme ici, la fracture métaphysaire ici, c'est une fracture à trait transversal non déplacé. Mais il y a d'autres fractures qui sont spécifiques de l'enfant qu'on ne voit pas chez l'adulte. Toujours dans le cadre des fractures métaphysaires, il y a une fracture métaphysaire spécifique de l'enfant qui est la fracture en mode de beurre, qui correspond à l'impactation de l'os diaphysaire dans l'os métaphysaire moins résistant, qui va entraîner une surélévation de la corticale métaphysaire.
+
+(4:32 - 4:47)
+Donc, cette fracture n'existe que chez l'enfant. Là, on voit une fracture en mode de beurre de la métaphyse radiale inférieure. Vous voyez très bien, si on suit la corticale, à un certain moment, il y a une surélévation de la corticale, comme du beurre.
+
+(4:47 - 4:58)
+C'est pourquoi on l'appelle fracture en mode de beurre. Pour les fractures diaphysaires qui sont spécifiques de l'enfant, il y a la fracture au bois vert. Une seule corticale est fracturée, celle de la convexité.
+
+(4:59 - 5:08)
+C'est comme du bois vert qu'on veut plier. Il existe une rupture périostée en regard. Du côté de la concavité, la corticale n'est pas fracturée.
+
+(5:09 - 5:31)
+Voici l'exemple d'une fracture au bois vert des deux os de l'avant-bras. Vous voyez, donc la flèche rouge, une rupture de la corticale uniquement au niveau de la convexité. Un autre type de fracture diaphysaire spécifique de l'enfant est la fracture plastique ou déformation plastique.
+
+(5:31 - 5:52)
+Dans ce cas, il existe une déformation plastique irréversible de l'os sans trait de fracture. Ces déformations plastiques intéressent surtout l'una et la fubula. Voici l'exemple d'un enfant de 7 ans présentant un traumatisme de l'avant-bras, donc cliniquement, vous voyez qu'il a une déformation de l'avant-bras.
+
+(5:52 - 6:05)
+Sur la radiographie de face à droite, vous voyez une déformation plastique de l'una. Sur l'una, on ne voit pas de trait de fracture. Elle est déformée, mais on n'a pas de trait de fracture visible avec une fracture au bois vert du radius.
+
+(6:05 - 6:22)
+Sur le profil, vous voyez la courbure de l'una qui confirme la fracture plastique. Un autre type de fracture spécifique de l'enfant, c'est la fracture supériorité. Elle fait souvent suite à un mécanisme en torsion.
+
+(6:23 - 6:34)
+C'est l'exemple classique d'un petit enfant qui se coince la jambe entre les barreaux de son lit. L'os est fracturé, mais le périoste est intact. Il intéresse souvent le tibia.
+
+(6:35 - 6:53)
+La radiographie initiale est souvent normale. Parfois, on devine un trait fracturaire que vous voyez sur l'exemple à droite, la flèche verte, et qu'on appelle fracture en cheveux. Il y a un autre type de fracture spécifique de l'enfant.
+
+(6:53 - 7:16)
+Ce sont les fractures d'écollement épiphysaire. Chaque fois que le trait de fracture passe par le cartilage de croissance, qui est une zone mécaniquement fragile, on parle de fracture d'écollement épiphysaire. Ces fractures d'écollement épiphysaire sont classées, selon la classification de Salter et Harris, en cinq stades.
+
+(7:16 - 7:36)
+Cette classification a un intérêt diagnostic, thérapeutique et surtout pronostic. Cette classification de Salter permet de classer ces fractures d'écollement en cinq stades. D'abord le type 1. Le type 1, c'est un décollement de l'épiphyse en totalité.
+
+(7:36 - 7:57)
+Vous voyez au milieu, c'est un décollement de l'épiphyse en totalité. Vous voyez à gauche, sur la coupe histologique, que le trait de fracture passe par la zone hépertrophique et qu'il respecte la zone germinative. La zone germinative est la zone la plus importante du cartilage de croissance.
+
+(7:58 - 8:18)
+Donc ce type 1 est devant pronostic. A droite, vous voyez un exemple d'un décollement épiphysaire, tibial inférieur, type 1 de Salter et Harris. Voici un autre exemple de fracture, d'écollement, de l'épiphyse radial inférieur, stade 1 de Salter et Harris.
+
+(8:18 - 8:39)
+Donc sur la face, il y a une translation de l'épiphyse, translation externe, et sur le profil, il y a un bascule de l'épiphyse en dorsale. Le type 2 de Salter et Harris, c'est un décollement de l'épiphyse qu'on voit au milieu, qui emporte avec elle un bon métaphysère. C'est un décollement de l'épiphyse avec un bon métaphysère.
+
+(8:39 - 8:58)
+Vous voyez à droite un exemple d'un décollement d'épiphyse vimorale inférieure, type 2 de Salter et Harris. Donc l'épiphyse est décollée, mais de côté interne, et elle emporte un bon métaphysère. Sur la copiste logique, on voit très bien que le trait de fracture respecte la zone germinative qui est plus en bas.
+
+(8:59 - 9:11)
+Donc théoriquement, ce type de fracture est devant pronostic. Toujours le même alade, donc un décollement de l'épiphyse vimorale inférieure type 2 de Salter et Harris. Vous voyez à gauche.
+
+(9:11 - 9:24)
+A droite, c'est l'aspect après réduction et vissage métaphyso-métaphysaire. Donc j'ouvre la parenthèse pour dire que la vis ne doit jamais toucher le cartilage de croissance. On va voir par la suite pourquoi.
+
+(9:25 - 9:40)
+Trois de Salter et Harris, c'est un décollement épiphysaire avec un trait épiphysaire. C'est l'épiphyse qui est divisée en deux. Donc théoriquement, à gauche, vous voyez sur la copiste logique, le trait qui divise l'épiphyse va toucher la zone germinative plus en bas.
+
+(9:40 - 10:01)
+Donc ici, il y a un risque important de trouble de croissance. A droite, c'est l'exemple d'un décollement de l'épiphyse vimorale inférieure type 3 de Salter et Harris. Pour le type 4 de Salter et Harris, c'est un décollement épiphysaire mais avec un trait métaphyso-épiphysaire.
+
+(10:02 - 10:24)
+Vous voyez sur la copiste logique à gauche que le trait touche la zone germinative. A droite, c'est un exemple d'un décollement épiphysaire, stade 4 de Salter et Harris, de l'épiphyse tibiale inférieure. Le type 5, c'est un écrasement du cartilage de croissance.
+
+(10:25 - 10:43)
+Malheureusement, ce type 5 ne peut pas être diagnostiqué à la phase initiale sur la radiographie standard. Généralement, on doit le suspecter chaque fois qu'il y a un traumatisme axial qui peut entraîner l'écrasement de ce cartilage de croissance. Ce type 5, il est rarement isolé.
+
+(10:44 - 10:54)
+Souvent, il est associé aux autres types de Salter et Harris. Donc, ses conséquences sont graves. C'est l'arrêt de croissance qui peut être soit total ou partiel.
+
+(10:55 - 11:27)
+De l'intérêt de la surveillance à long terme, chaque fois qu'on a un décollement épiphysaire chez l'enfant. Donc, le risque de ces fractures de décollement épiphysaire, c'est l'arrêt de croissance. C'est l'épiphysiodèse. 
+
+C'est quoi l'épiphysiodèse? L'épiphysiodèse, c'est la fermeture prématurée du cartilage de croissance. Donc, ce risque est très important en cas de décollement épiphysiaire, stade 3 et stade 4. Parce que ça touche la zone germinative. Et en cas de stade 5 associé.
+
+(11:28 - 11:42)
+On a dit que le stade 5, on doit toujours le suspecter quel que soit le stade de Salter et Harris. Surtout en cas de traumatisme axial. Parce que la radiographie initiale ne permet pas de montrer cet écrasement microscopique du cartilage de croissance.
+
+(11:42 - 11:53)
+Donc, c'est la surveillance à long terme qui permet de diagnostiquer cette épiphysiodèse. Ce sont deux exemples d'épiphysiodèse. A gauche, c'est une épiphysiodèse centrale.
+
+(11:54 - 12:16)
+Vous voyez la fusion du cartilage de croissance au milieu. Donc, il a été diagnostiqué 12 ans après un décollement épiphysiaire stade 3 de l'épiphyse radiale inférieure. A droite, c'est une épiphysiodèse après un décollement stade 3 de l'épiphyse fémorale inférieure diagnostiquée après 12 ans.
+
+(12:16 - 12:30)
+Vous voyez les conséquences, l'inégalité et la désaxation. Donc, après avoir traité les différents types de fractures chez l'enfant. On va parler de la consolidation osseuse.
+
+(12:30 - 12:51)
+La consolidation osseuse chez l'enfant est beaucoup plus rapide. Pourquoi? Parce qu'il est favorisé par le respect du périostre, qui est très épais, qui produit un câble osseux rapidement. Et par le respect de l'hématome préfracturaire, qui contient des facteurs de croissance qui accélèrent la consolidation chez l'enfant.
+
+(12:52 - 13:07)
+Toujours dans le cadre de la consolidation osseuse, il y a un phénomène qui est spécifique de l'enfant. C'est l'allongement vicariant. C'est quoi l'allongement vicariant? L'allongement vicariant, c'est une fracture qui consolide et le membre fracturé devient plus long que le membre contralatéral.
+
+(13:08 - 13:26)
+C'est ce qu'on appelle l'allongement vicariant secondaire à l'hyperactivité du cartilage de croissance adjacent à la fracture. Ça se voit surtout en cas de fracture de fumeur chez l'enfant moins de 6 ans. En bas, vous voyez un exemple d'allongement vicariant de fumeur gauche.
+
+(13:26 - 13:40)
+C'est un enfant qui a fait une fracture il y a 12 ans. Maintenant, il y a une égalité de longueur secondaire à cet allongement vicariant. Un autre phénomène qui est spécifique de l'enfant, c'est le remodelage.
+
+(13:41 - 14:01)
+C'est quoi le remodelage? C'est la capacité de l'os de l'enfant de se redresser spontanément après une guérison en mauvaise position. C'est la capacité de corriger certains cardicieux avec la croissance. Ce phénomène est important, mais on doit le connaître.
+
+(14:01 - 14:15)
+Ce remodelage ne permet pas de corriger les calvitieux rotatoires, les calvitieux frontales. Ce remodelage est le plus important chez le petit. Le plus important, c'est la fracture.
+
+(14:16 - 14:26)
+Il est à côté d'un cartilage fertile. Ce remodelage n'existe qu'en cas de fracture métaphysaire et diaphysaire. En cas de décollement épiphysaire, il n'y a pas de remodelage.
+
+(14:26 - 14:39)
+La réduction doit être parfaite. Voici un exemple de remodelage d'une fracture de fumeur chez un enfant de 3 ans. A gauche, vous voyez l'aspect après 45 jours.
+
+(14:39 - 14:52)
+Vous voyez qu'il y a un chevauchement, une ongulation. Au milieu, l'aspect après 6 mois, donc correction partielle. A droite, après 12 mois, donc correction de l'ongulation spontanément.
+
+(14:53 - 15:03)
+A gauche, le remodelage. Un exemple de remodelage. Vous voyez sur la figure A, donc ces fractures de l'humérus vues après 15 jours du traumatisme chez un nourrissant de 3 mois.
+
+(15:04 - 15:09)
+Vous voyez l'ongulation, le chevauchement et le débit de cal. Donc on n'a rien à faire. Justine a tel.
+
+(15:10 - 15:17)
+Après 3 mois, débit de correction. 6, c'est après un an. Diminution de l'ongulation.
+
+(15:19 - 17:36)
+Et, à l'âge de 2 ans, vous voyez très bien devenu normal. Pour les possibilités thérapeutiques chez l'enfant, le traitement orthopédique est largement indiqué en cas de fracture chez l'enfant, même des fractures déplacées. Pourquoi? Parce que ce périostre épais qui joue le rôle d'attèle interne, ça aide la réduction. 
+
+Ce périostre qui permet de produire un cas osseux rapidement, c'est un mappement périfracturaire qui accélère la consolidation. Donc tous ces facteurs nous poussent à indiquer le traitement orthopédique largement chez l'enfant. Pour mettre un plâtre chez l'enfant, il faut connaître les positions anatomiques. 
+
+Par exemple, le coude, il faut toujours le plâtrer en position de fonction qui est à 90 degrés, la cheville à 90 degrés, le poignet en légère extension. Toujours on ne met pas le plâtre au contact de la peau, il faut mettre du jersey, du coton et ensuite on met le plâtre. Le moulage doit être soigneux. 
+
+On a deux types de plâtre. Le plâtre de Paris, le plâtre normal qui est économique mais fragile. Il y a le plâtre américain qui sont des bandes d'origine qui est un peu cher. 
+
+Chaque fois qu'il y a un traitement orthopédique, une réduction d'une fracture, il faut toujours demander des radiographies rapprochées à G8, G15, G21 parce qu'il y a un risque de déplacement secondaire. Pour le traitement chirurgical, on ne met pas de clots ni de plaques viscides. Donc si on met des clots, si le clot traverse une zone de croissance, ça entraîne l'épivysiothèse. 
+
+On ne met pas de plaques viscides pour éviter le dépériostage massif, pour éviter d'évacuer l'hématome. Donc on ne met pas de clots. On préfère toujours l'embrochage élastique stable, acier fermé. 
+
+On utilise des broches élastiques qui vont créer deux forces opposées qui vont stabiliser la fracture. Il ne faut jamais traverser le cartilage de croissance par le matériel de stérosynthèse, surtout les vis et les broches de vos calibres. Si on traverse le cartilage de croissance par ce matériel, ça va entraîner une épivysiothèse avec des conséquences graves.
+
+(17:37 - 21:23)
+Généralement, la rééducation est inutile chez l'enfant. L'enfant reprend ses mouvements articulaires spontanément. J'ai un enfant de 7 ans. 
+
+On l'a traité par un embrochage élastique stable. On n'ouvre pas le foyer, donc on travaille sur table orthopédique avec scope. On va envoyer deux broches par voie métaphysère interne-externe. 
+
+Ces deux broches élastiques stables vont entraîner deux forces opposées qui vont stabiliser le foyer de fracture. On ne met pas d'eau en post-opératoire de plâtre et l'ablation de ce matériel est facile. Certaines complications sont en rapport avec le traumatisme lui-même, comme le vertigo cutané, des complications vasculaires ou nerveuses. 
+
+Mais il y a des complications qui sont propres à la prise en charge qu'est le syndrome de Loge. Chaque fois qu'on met un plâtre, il y a le risque du syndrome de Loge. Ce syndrome de Loge qui correspond à un syndrome d'hyperpression dans un compartiment musculaire. 
+
+Donc, pour prévenir ce syndrome de Loge, chaque fois qu'on met un plâtre, on doit informer les parents de revenir devant l'apparition du premier signe du syndrome de Loge qui est la douleur. Donc un malade fracturé, plâtré, plus traitement antalgique, la douleur doit diminuer. Si la douleur persiste, devient insombriante, il faut que les parents reviennent. 
+
+Donc on doit informer les parents pour la prévention du syndrome de Loge. Il ne faut pas attendre les formulements, la cyanose pour faire le deuxième signe. Donc devant la douleur, on va trouver un examen qui est une fraction des doigts avec douleur à l'extension, pas si petit doigt. 
+
+Donc il faut enlever le plâtre et discuter A distance, les complications, surtout on insiste sur l'épiphysiodèse. Chaque fois qu'on a un décollement épiphysiaire, surtout en cas de traumatisme axial, surtout en cas de type 3 et 4 de Sartre et Harris, il faut informer les parents qu'il y a une possibilité d'épiphysiodèse avec arrêt de croissance. Donc d'où l'intérêt de la surveillance à long terme, de toutes les fractures de l'enfant, surtout les décollements épiphysiaires. 
+
+Ici c'est l'exemple d'un syndrome de Volkmann, le syndrome de Volkmann, c'est l'aboutissement d'un syndrome de Loge non maltraité. Donc qui va entraîner une rétraction fibreuse des fléchisseurs, amyotrophophie de la loge d'un avion et d'autre avion, des troubles nerveux, un aspect de main du singe. Donc on ne devra plus voir cet aspect. 
+
+Mais malheureusement dans notre contexte, le grand pourvoyeur de syndrome de Volkmann, c'est le SUPAR. Donc on ne va pas parler de toutes les fractures du membre chez l'enfant, mais on va insister sur des fractures qu'on voit couramment. Commençons par les fractures du côte. 
+
+Ces fractures du côte représentent 16% des fractures chez l'enfant. Elles sont de diagnostics difficiles. Pourquoi? Parce qu'il y a beaucoup de noyaux d'ossification. 
+
+Donc à la naissance, seules les métaphyses sont ossifiées. Toute l'épiphyse humérale inférieure est cartilagineuse. Donc elle est invisible sur le plan radiographique. 
+
+Un nouveau-né qui fait un décollement traumatique de l'épiphyse humérale inférieure, au cours d'un accouchement dystoïque, la radiographie est normale. Parce que cette maquette cartilagineuse est invisible sur le plan radiographique. Et progressivement vont apparaître des noyaux d'ossification.
+
+(21:24 - 22:01)
+Il y a 6 noyaux d'ossification qui vont apparaître au niveau du côte. On insiste surtout sur le noyau, le numéro 2, c'est le noyau gondilien qui apparaît vers l'âge de 2 ans. Le noyau céphalique radial de la tête radiale qui apparaît vers l'âge de 4 ans. 
+
+Et le noyau hépétrocléen qui apparaît vers l'âge de 5 ans. Donc vous comprenez très bien qu'un enfant de 3 ans qui fait une fracture de l'hépétroclé. Donc la radiographie est normale parce que ce noyau hépétrocléen n'apparaît que vers l'âge de 5 ans.
+
+(22:03 - 22:21)
+Dans le plan statistique, parmi les fractures les plus fréquentes au niveau du côte, il y a la fracture supracondylien qui représente 54% des cas. C'est une fracture qui passe par la ligne des fossettes. La ligne des fossettes c'est une zone qui est faible mécaniquement, ça explique la fréquence élevée de ces fractures.
+
+(22:22 - 22:40)
+Ensuite il y a la fracture du gondyle externe qui représente à peu près 20% des cas. Vient ensuite la fracture du pétroclé 10% des cas et la fracture du col radial. Donc on ne va pas étudier toutes ces fractures, on va étudier quelques types de fractures du côte sans trop insister sur les fractures rares.
+
+(22:40 - 30:43)
+On va commencer par les fractures supracondyliennes qui représentent 60% des cas. Le mécanisme indirect est responsable de 95% des fractures supracondyliennes, c'est une chute sur la main côte en extension. Donc c'est un mécanisme indirect et dans 5% seulement, c'est une fracture par chute directe sur le côte avec déplacement antérieur. 
+
+Pour les fractures en extension, par mécanisme indirect, elles sont classées en quatre stades. Le stade 1 sur fracture non déplacée, le stade 2 sur fracture avec bascule postérieure, le stade 3 sur fracture avec déplacement et rotation, mais il y a toujours un contact entre les deux bouts osseux et le stade 4 sur fracture très déplacée sans contact entre les deux bouts osseux. Donc il faut bien sûr rechercher des complications à type d'atteinte nerveuse, d'atteinte vasculaire et d'ouverture cutanée qui sont présentes en 5% des cas. 
+
+C'est un exemple de fracture du côte supracondylienne. On l'appelle aussi fracture de la palette humérale, stade 1, non déplacée selon la classification de Rigo. La fracture supracondylienne, stade 2, vous voyez sur la radio de profil la bascule postérieure. 
+
+La fracture supracondylienne, stade 3, vous voyez la bascule et la rotation. Donc au stade 2, il n'y a pas de rotation. Ici, vous voyez très bien la rotation du fragment inférieur. 
+
+Donc c'est un type 3, mais il y a toujours un contact. Au post-opératoire, donc après embrochage, réduction, embrochage, pelle cutanée, selon la technique de Judey, on voit très bien la réduction. Fracture supracondylienne, stade 4, vous voyez très bien qu'il n'y a plus de contact entre les deux bouts osseux. 
+
+Donc c'est un type 4. Donc par ordre de fréquence, donc après la fracture supracondylienne, les fractures du condyle latéral, cette fracture est articulaire. La fracture supracondylienne n'est pas articulaire. Ici, c'est une fracture articulaire qui correspond à un décollement stade 4 de Salta et Harris. 
+
+Donc il y a un trait métaphysoépiphyseur. L'âge moyen, c'est entre 6 à 8 ans. Et ce type de fracture, par exemple chez un enfant de 6 mois, le condyle externe, il est toujours cartilagineux. 
+
+Donc la radiographie ne permet pas de faire le diagnostic. C'est l'intérêt de connaître la date d'apparition de noyaux de ossification. Et dans ce cas, c'est la clinique qui va montrer un coude qui est tumifié au niveau de sa partie externe et l'échographie qui peut faire le diagnostic de ce type de fracture. 
+
+Donc à gauche, c'est un exemple de fracture condyle externe très déplacée avec rotation, parce qu'il est rotation du condyle externe. Puisqu'il s'agit d'un décollement épiphyseur, la réduction doit être parfaite. Donc la réduction, elle est chirurgicale avec fixation par deux broches divergentes. 
+
+La fracture du condyle externe, on va parler des fractures de l'hypétroclie. Ça représente 10% des fractures du coude. Habituellement, ça intéresse l'enfant entre 7 et 15 ans. 
+
+Dans 50% des cas, c'est associé à une luxation du coude. Il faut noter que le noyau hypétroclien n'est visible qu'à partir de l'âge de 5 ans. Donc, comme on l'a dit tout à l'heure, donc une fracture de l'hypétroclie chez le petit enfant, la radiographie est normale, même la radiocomparatrice est normale. 
+
+D'où l'intérêt d'un bon examen clinique qui va trouver un coût tuméfice, surtout au niveau de la face interne, et l'échographie permet de faire le diagnostic. À droite, vous voyez une fracture de l'hypétroclie. Cette ligne dessinée, c'est la ligne de Chanton qui passe par le bord métaphyso-diaphysaire de l'extrême de l'humerus qui doit être tangente à l'hypétroclie. 
+
+Si elle n'est pas tangente à l'hypétroclie, ça confirme la fracture de l'hypétroclie. Là, c'est l'exemple d'une luxation du coude avec une fracture de l'hypétroclie associée. C'est ce noyau qu'on voit dans l'articulation, incarcéré dans l'articulation. 
+
+Donc, chaque fois qu'on a une luxation du coude, il faut chercher une fracture de l'hypétroclie associée. Maintenant, on va parler d'une lésion spécifique de l'enfant qu'on appelle la lésion de Montégia. C'est quoi la lésion de Montégia? C'est une fracture ulnaire associée à une luxation de la tête radiale. 
+
+Pourquoi on insiste? Parce que cette lésion de Montégia passe souvent inaperçue. Le médecin fait le diagnostic de la fracture de l'ulna, mais ne cherche pas la luxation de la tête radiale. Et comment chercher cette luxation de la tête radiale? Il doit toujours dessiner l'axe du radius qui doit passer par le centre du condyne externe, quelle que soit l'incidence radiologique. 
+
+Donc, l'axe du radius doit passer par le centre du capétellum au centre du condyne externe. Donc, vous voyez à gauche une fracture en bois vert de l'ulna, mais l'axe du radius passe en avant du centre du capétellum. Donc, il y a une luxation de la tête radiale. 
+
+Ici est un autre exemple de lésion de Montégia. Donc, il y a une fracture ulnaire midiodiaphysaire, mais l'axe du radius ne passe pas au centre du capétellum sur la radiographie de face et profil, donc sur lésion de Montégia. Quelle que soit l'incidence radiographique, l'axe radial doit passer par le centre du capétellum. 
+
+Vous voyez ici sur la radiographie à droite, la radiographie de profil qui montre une fracture de l'oligraine non articulaire, l'axe du radius passe par le centre du capétellum. Chez le même malade, la radiographie de face qui montre que cet axe passe en dehors du centre du capétellum. Donc, il y a une luxation de la tête radiale associée. 
+
+Donc, c'est une lésion de Montégia. Après avoir étudié quelques types de fractures du coude, la lésion de Montégia, on va étudier les fractures de la cheville en insistant sur trois types de fractures particulières à l'enfant. Il y a la fracture de Macfarlane, la fracture de Thiot et la fracture très pleine. 
+
+Commençons par la fracture de Macfarlane, donc sur la fracture malolaire interne qui correspond à un décollement épiphysaire, stade 3 de Salter ou stade 4 de Salter et Harris. Donc, stade 3, c'est l'exemple à gauche. Stade 4, un trait métaphysodiaphysaire, c'est l'exemple à droite. 
+
+Donc, la fracture de Macfarlane est un décollement épiphysaire interne, stade 3 au stade 4 de Salter et Harris. C'est un exemple d'une fracture de Macfarlane au décollement épiphysaire interne, stade 3 de Salter et Harris. Donc, sur une fracture articulaire, la réduction doit être parfaite. 
+
+À droite, aspect post-opératoire après un vissage percutané. Donc, je rappelle que la épiphyse peut traverser l'épiphyse, mais ne doit jamais traverser le cartilage de croissance parce qu'il y a un risque d'épiphysiodèse à l'arrêt de croissance. Donc, il y a une autre fracture spécifique de l'enfant, la fracture de Thiot, qui survient chez l'adolescent proche de la fin de croissance, qui intéresse l'épiphyse non encore fusionnée tibiale inférieure. 
+
+Donc, c'est un décollement de la partie entero-externe de l'épiphyse tibiale inférieure, type 3 de Salter et Harris. C'est l'exemple d'une fracture de Thiot chez une fille de 13 ans sur la radiographie à gauche. La coupe scanographique qui montre très bien le fragment entero-externe de l'épiphyse tibiale inférieure avec un déplacement mieux visible par rapport à la radiographie standard.
+
+(30:43 - 31:51)
+Donc, c'est un décollement type 3 de Salter et Harris. Une fracture complexe de la chouville chez l'enfant, c'est la fracture tréplaine. Donc, c'est une fracture articulaire qui survient en fin de croissance avec trois traits de fracture. 
+
+Un trait horizontal passant par le cartilage de croissance, un trait frontal et un trait sagittal. Le diaglossique, il est suspecté sur la radiographie face au profil et confirmé par une coupe scanographique qui va montrer les trois traits de fracture. C'est l'exemple d'une fracture tréplaine chez un adolescent de 14 ans sur la face. 
+
+On voit déjà un décollement de la partie externe de l'épiphyse tibiale inférieure, type 3 de Salter et Harris et sur le profil, un décollement épiphyseure, stade 2 de Salter et Harris avec un trait frontal. Il y a des fractures obstétriques qui sont définies par une fracture qui survient au cours d'un accouchement dystocyque. Ça intéresse surtout la clavicule, l'humerus et le fumeur.
+
+(31:53 - 39:18)
+Ce sont des fractures à bon pronostic parce que les possibilités de remodelage, la capacité de remodelage du nouveau-né est très importante. Mais elle pose un problème médico-légal. Une autre importante est le risque qu'en cas de fracture de la clavicule ou de l'humerus, d'association à une paralysie obstétrique du cyste brachial. 
+
+De l'intérêt d'informer les parents sur cette possibilité et refaire l'examen d'eux dans 2 à 3 semaines qu'en cas de fracture isolée, le membre va récupérer sa mobilité normale. Une fracture médio-diaphyselle de la clavicule gauche non déplacée après un accouchement dystocyque. Une fracture obstéricale, on a le syndrome de Silverman ou le syndrome des enfants vacus. 
+
+C'est la maltraitance. Normalement, on doit suspecter la maltraitance surtout chez un enfant moins de 3 ans qui présente des fractures multiples d'âge différent. Un retard psychomoteur doit attirer l'attention. 
+
+Parfois, on trouve des tâches de brûlure par migos, des contusions, des hématomes anciens. Donc, devant ce tableau, l'hospitalisation est obligatoire même s'il n'y a pas d'indication médicale proprement dite d'hospitalisation. Donc, il faut hospitaliser l'enfant. 
+
+Il faut faire une déclaration obligatoire. C'est la responsabilité du médecin de faire une déclaration obligatoire. Il y a des fractures pathologiques. 
+
+Ce sont des fractures qui surviennent sur un os fragilisé, soit par illusion focale ou une maladie générale. Par exemple, un kyste osseux, une tumeur bénigne ou maligne. Parfois, la fracture, c'est le mode de révélation de cette tumeur. 
+
+Il y a des maladies osseuses qui aboutissent à la fragilité osseuse comme l'ostéogénèse imparfaite, l'orachitisme, les perparathyroïdes. Et ces enfants font des fractures qu'on appelle fractures sur os pathologiques ou fractures pathologiques. Un enfant de 6 ans qui présente une fracture de l'extrémité inférieure du fumeur droit sur une lésion osseuse, une lésion kystique bien limitée. 
+
+Donc, une fracture pathologique sur un kyste osseux. Là, c'est l'exemple d'une fracture fumeur sur un kyste essentiel chez un enfant de 7 ans. La radiographie à gauche. 
+
+A droite, le traitement a consisté à un embrochage percutané sur table orthopédique. Ce embrochage percutané va accélérer la résorption du kyste osseux. Une fracture milieu diaphysaire de l'humerus. 
+
+Nous voyons très bien que cette fracture se revient sur une lésion agressive, rompant la corticale, envoyant des parties molles dans une tumeur maligne de l'humerus. Quels sont les pièges à éviter chez un enfant traumatisé du mort? Il y a d'abord des pièges relatifs à la biomécanique de l'enfant. Ne pas sous-estimer une lésion du fait des difficultés de l'imagerie pédiatrique en zone épiphysaire. 
+
+La présence de plusieurs points d'ossification dans la matrice cartilagineuse épiphysaire constitue une difficulté de lecture des clichés standards en urgence. Ne pas penser que la croissance corrige tous les faussons restrictions. Le remodelage n'intéresse que les fractures diaphysaires et métaphysaires. 
+
+Il n'y a pas de remodelage en cas de fractures d'écollement épiphysaire. Donc la réduction de ces derniers doit être parfaite. Il y a des pièges qui sont relatifs au contexte de traumatisme. 
+
+L'endurage peut sous-estimer ou méconnaître le traumatisme. Un enfant peut présenter une fracture d'un membre après un traumatisme mineur, tel qu'une simple chute de sa hauteur ou d'un fauteuil. Un enfant qui se coince à un membre entre les barreaux d'un lit peut également présenter une fracture. 
+
+Il s'agit de traumatisme méconnu parce que les parents n'ont pas assisté à ce traumatisme. Et bien sûr, ils vont ramener l'enfant aux urgences juste pour pleurer parce qu'ils n'ont pas assisté au traumatisme. L'endurage peut sous-estimer l'importance du traumatisme. 
+
+Il faut toujours avoir à l'esprit que le traumatisme est régulièrement évoqué comme étant à l'origine de toute douleur des membres, ainsi des lésions orthopédiques froides comme l'infection. Les tumeurs sont souvent initialement rapportées à un traumatisme ancien par la famille. Le traumatisme est parfois un élément rassurant pour la famille, source de retard de diagnostics. 
+
+Il y a des pièges relatifs à l'imagerie. L'imagerie en urgence est source de nombreux pièges relatifs à plusieurs paramètres, de demandes abusives avec multiplication des clichés. C'est souligné l'importance de l'examen clinique initial, donc c'est une étape incontournable. 
+
+Difficulté de lecture car les incidences sont imparfaites du fait des douleurs et des déformations initiales. Il est indispensable d'obtenir au moins deux incidences orthogonales. Par exemple, un traumatisme de tumeur chez un nourrisson de 11 mois, vous voyez à gauche la radio de profil, il est normal. 
+
+Mais la radio de face chez le même enfant montre une fracture spéroïde du tumeur. Donc toujours deux incidences, face et profil. Toujours en cas de traumatisme diaphysaire ou métaphysaire, la radiographie doit prendre l'articulation sous-jacente. 
+
+Il y a quatre règles fondamentales. 1. Tout traumatisme considéré comme mineur doit être guéri à G7 chez un enfant. Si vous jugez que l'enfant n'a rien, vous le convoquez dans sept jours, il a toujours mal. 
+
+Donc il y a quelque chose. Ça impose parfois de renouveler le bilan d'imagerie standard qui peut montrer parfois la fracture qui est passée inaperçue. 2. En cas de symptomatologie persistante à G21, il convient de remettre en cause le diagnostic de traumatisme mineur ou entreprendre un bilan d'imagerie plus adapté. 
+
+3. Toute fracture de l'enfant présente un risque de troubles de croissance, surtout les décollements épiphysaires. Les décollements épiphysaires, le stade surtout 3 et 4. Chaque fois qu'on a un traumatisme axial, donc il y a cette possibilité d'un stade 5 associé. D'où l'intérêt 4 d'une surveillance à l'antenne qui doit être systématique chez l'enfant, même après guérison de la fracture. 
+
+En insistant sur 5 points, l'enfant traumatisé nécessite une prise en charge adaptée, différente de l'adulte, dans son approche clinique, diagnostique et thérapeutique. Le squelette de l'enfant grandit et se situe à partir du cartilage de croissance, du périostre, des noyaux épiphysaires et de la maquette cartilagineuse. Cette dynamique de construction lui confère des propriétés particulières, la plasticité, le remodelage, au rapport avec des lésions spécifiques qu'on ne voit pas chez l'adulte comme la fractionnement de beurre, en bois vert, les décollements épiphysaires. 
+
+Le traitement doit être adapté, une large place est faite au traitement orthopédique. L'ostéosynthèse est la moins invasive possible afin de préserver les structures en croissance et le potentiel de croissance restant. La prise en charge médicamenteuse de la douleur et les mobilisations sont essentielles dans l'attente d'un avis spécialisé. 
+
+Je vous remercie.

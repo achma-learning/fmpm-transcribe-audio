@@ -1,0 +1,2455 @@
+1
+00:00:02,380 --> 00:00:06,920
+Bonjour, je me présente, Nisri Louheb, je suis
+
+2
+00:00:06,920 --> 00:00:08,980
+enseignante à la faculté de médecine et de
+
+3
+00:00:08,980 --> 00:00:09,500
+pharmacie.
+
+4
+00:00:10,840 --> 00:00:14,820
+Je vous présente ce cours intitulé les neuropathies
+
+5
+00:00:14,820 --> 00:00:15,620
+périphériques.
+
+6
+00:00:16,660 --> 00:00:19,560
+Les objectifs pédagogiques de ce cours, c'est
+
+7
+00:00:19,560 --> 00:00:23,420
+de reconnaître un syndrome neurogène périphérique et de
+
+8
+00:00:23,420 --> 00:00:26,660
+savoir faire le diagnostic clinique du neuropathie périphérique,
+
+9
+00:00:26,660 --> 00:00:31,320
+connaître la démarche diagnostique et savoir demander des
+
+10
+00:00:31,320 --> 00:00:35,060
+examens complémentaires suffisants pour déterminer l'étiologie.
+
+11
+00:00:36,080 --> 00:00:42,640
+Les neuropathies périphériques, maladies du nerf périphérique, représentent
+
+12
+00:00:42,640 --> 00:00:45,080
+une des pathologies les plus fréquentes en neurologie.
+
+13
+00:00:46,460 --> 00:00:50,680
+Les étiologies sont multiples et nécessitent une démarche
+
+14
+00:00:50,680 --> 00:00:55,520
+diagnostique rigoureuse basée sur l'anamnèse, l'examen
+
+15
+00:00:55,520 --> 00:00:57,780
+clinique et l'étude électrophysiologique.
+
+16
+00:00:59,100 --> 00:01:03,120
+La prévalence des neuropathies périphériques est peu étudiée
+
+17
+00:01:03,120 --> 00:01:06,380
+et on estime en effet que la prévalence
+
+18
+00:01:06,380 --> 00:01:10,620
+générale des polyneuropathies chroniques serait d'environ 1
+
+19
+00:01:10,620 --> 00:01:14,700
+% dans la population générale, montant jusqu'à
+
+20
+00:01:14,700 --> 00:01:16,300
+7% chez le sujet âgé.
+
+21
+00:01:16,300 --> 00:01:20,080
+Leur diagnostic étiologique n'est pas toujours aisé
+
+22
+00:01:20,080 --> 00:01:23,340
+et la cause la plus fréquente des neuropathies
+
+23
+00:01:23,340 --> 00:01:26,020
+périphériques, c'est la neuropathie diabétique.
+
+24
+00:01:27,160 --> 00:01:30,940
+Elle augmente avec la durée et le mauvais
+
+25
+00:01:30,940 --> 00:01:32,040
+contrôle du diabète.
+
+26
+00:01:32,940 --> 00:01:35,840
+Aussi, il y a les neuropathies périphériques post
+
+27
+00:01:35,840 --> 00:01:38,340
+-médicamenteuses, post-chimiothérapie.
+
+28
+00:01:39,500 --> 00:01:42,400
+L'étiologie est non identifiée dans 20%
+
+29
+00:01:42,400 --> 00:01:42,760
+des cas.
+
+30
+00:01:43,900 --> 00:01:48,840
+La démarche diagnostique devant une neuropathie périphérique nécessite
+
+31
+00:01:48,840 --> 00:01:51,600
+d'avoir des connaissances dans des domaines aussi
+
+32
+00:01:51,600 --> 00:01:55,980
+variés que l'anatomie, la physiologie, l'immunologie,
+
+33
+00:01:56,120 --> 00:01:58,940
+la génétique, à peu près tous les champs
+
+34
+00:01:58,940 --> 00:01:59,760
+de la médecine.
+
+35
+00:02:01,300 --> 00:02:04,760
+Sur le plan anatomique, le système nerveux périphérique,
+
+36
+00:02:05,420 --> 00:02:07,979
+c'est un réseau de nerfs qui permet
+
+37
+00:02:07,979 --> 00:02:11,880
+de relier le système nerveux central au reste
+
+38
+00:02:11,880 --> 00:02:16,460
+du corps et transmettre des informations sensitives et
+
+39
+00:02:16,460 --> 00:02:16,980
+motrices.
+
+40
+00:02:21,370 --> 00:02:24,810
+Le nerf est constitué d'un ensemble de
+
+41
+00:02:24,810 --> 00:02:30,190
+fibres nerveuses, motrices, sensitives et végétatives.
+
+42
+00:02:31,610 --> 00:02:38,860
+Les fibres motrices prennent origine au niveau du
+
+43
+00:02:38,860 --> 00:02:40,180
+motoneuron périphérique.
+
+44
+00:02:41,490 --> 00:02:46,490
+Les fibres sensitives, en bleu, prennent origine au
+
+45
+00:02:46,490 --> 00:02:47,930
+niveau du ganglion spinal.
+
+46
+00:02:48,390 --> 00:02:51,190
+Là, vous avez le neuron sensitif.
+
+47
+00:02:52,470 --> 00:02:57,570
+Les racines sensitives et les racines motrices s
+
+48
+00:02:57,570 --> 00:03:02,390
+'unissent pour former le nerf spinal ou le
+
+49
+00:03:02,390 --> 00:03:07,870
+nerf rachidien qui quitte la colonne spinale à
+
+50
+00:03:07,870 --> 00:03:09,560
+travers les foramen intervertebraux.
+
+51
+00:03:09,560 --> 00:03:17,300
+Et ces nerfs rachidiens se subdivisent en branches
+
+52
+00:03:17,300 --> 00:03:20,480
+ventrales et en branches dorsales.
+
+53
+00:03:21,420 --> 00:03:24,680
+Et les branches ventrales au niveau des racines
+
+54
+00:03:24,680 --> 00:03:27,200
+des membres forment les plexus.
+
+55
+00:03:28,520 --> 00:03:32,440
+Le plexus brachial au membre supérieur et le
+
+56
+00:03:32,440 --> 00:03:34,700
+plexus lombosacré au membre inférieur.
+
+57
+00:03:35,920 --> 00:03:39,660
+Par la suite, ces plexus seront à l
+
+58
+00:03:39,660 --> 00:03:40,940
+'origine des trans nerveux.
+
+59
+00:03:41,340 --> 00:03:44,020
+Et comme vous connaissez, au niveau du membre
+
+60
+00:03:44,020 --> 00:03:47,740
+supérieur, vous avez le nerf médian, le nerf
+
+61
+00:03:47,740 --> 00:03:48,340
+radial.
+
+62
+00:03:49,240 --> 00:03:52,220
+Au membre inférieur, par exemple, le nerf plural,
+
+63
+00:03:52,680 --> 00:03:54,580
+le nerf tibial et le nerf péronnier.
+
+64
+00:03:57,090 --> 00:04:01,210
+Le système nerveux périphérique est constitué de neurones
+
+65
+00:04:01,210 --> 00:04:04,230
+moteurs et sensitives du système nerveux périphérique.
+
+66
+00:04:04,230 --> 00:04:08,590
+Des nerfs périphériques sensitives et moteurs représentés par
+
+67
+00:04:08,590 --> 00:04:11,990
+les nerfs crâniens, les racines, les plexus, les
+
+68
+00:04:11,990 --> 00:04:16,649
+trans nerveux périphériques, les ramifications terminales intramusculaires et
+
+69
+00:04:16,649 --> 00:04:18,230
+le système nerveux autonome.
+
+70
+00:04:23,370 --> 00:04:26,470
+Un même nerf comporte des fibres de calibre
+
+71
+00:04:26,470 --> 00:04:31,070
+différent, myélinisées ou amyéliniques.
+
+72
+00:04:33,690 --> 00:04:36,010
+Les fibres nerveuses sont classées en fibres A,
+
+73
+00:04:36,590 --> 00:04:37,130
+B et C.
+
+74
+00:04:37,130 --> 00:04:40,370
+Les fibres A et B sont myélinisées, tandis
+
+75
+00:04:40,370 --> 00:04:42,070
+que les fibres C sont amyéliniques.
+
+76
+00:04:42,970 --> 00:04:45,690
+Les fibres myélinisées sont des fibres de gros
+
+77
+00:04:45,690 --> 00:04:49,410
+calibre véhiculant la sensibilité profonde et tactile.
+
+78
+00:04:50,210 --> 00:04:53,070
+Elles ont une vitesse de conduction nerveuse plus
+
+79
+00:04:53,070 --> 00:04:56,420
+élevée que les fibres de petit calibre amyéliniques
+
+80
+00:04:56,910 --> 00:05:01,230
+qui véhiculent la sensibilité douloureuse et thermique et
+
+81
+00:05:01,230 --> 00:05:02,610
+les fonctions végétatives.
+
+82
+00:05:04,430 --> 00:05:10,310
+L'influx nerveux est une activité électrochimique transmise
+
+83
+00:05:10,310 --> 00:05:12,870
+le long de l'axone sous la forme
+
+84
+00:05:12,870 --> 00:05:16,070
+d'une séquence de potentiel d'action.
+
+85
+00:05:17,650 --> 00:05:22,870
+Le nerf conduit normalement l'influx nerveux.
+
+86
+00:05:23,710 --> 00:05:27,670
+Grâce à la myéline, la conduction est lessaltatoire
+
+87
+00:05:27,670 --> 00:05:28,670
+et plus rapide.
+
+88
+00:05:30,430 --> 00:05:34,410
+Le mécanisme d'atteinte du système nerveux périphérique
+
+89
+00:05:34,410 --> 00:05:37,190
+est important à préciser.
+
+90
+00:05:37,750 --> 00:05:40,810
+Est-ce que l'atteinte est démyélinisante ou
+
+91
+00:05:40,810 --> 00:05:41,450
+axonale?
+
+92
+00:05:42,290 --> 00:05:45,630
+Les atteintes démyélinisantes sont secondaires le plus souvent
+
+93
+00:05:45,630 --> 00:05:49,930
+à une cause disimmunitaire ou inflammatoire.
+
+94
+00:05:50,630 --> 00:05:54,190
+Pour les atteintes axonales, le plus souvent est
+
+95
+00:05:54,190 --> 00:05:56,590
+d'origine métabolique ou vasculaire.
+
+96
+00:06:02,060 --> 00:06:06,440
+Les neuropathies périphériques sont classées en fonction du
+
+97
+00:06:06,440 --> 00:06:09,120
+mode d'installation et la durée des symptômes,
+
+98
+00:06:09,540 --> 00:06:13,100
+le type de fibres nerveuses, son zétive motrice
+
+99
+00:06:13,100 --> 00:06:17,880
+végétative, la topographie du déficit neurologique et le
+
+100
+00:06:17,880 --> 00:06:20,410
+mécanisme d'atteinte axonale ou démyélinisante.
+
+101
+00:06:27,010 --> 00:06:28,730
+Le mode d'installation et la durée des
+
+102
+00:06:28,730 --> 00:06:32,630
+symptômes des neuropathies périphériques aiguës s'installent en
+
+103
+00:06:32,630 --> 00:06:35,530
+quelques heures jusqu'à 4 semaines, ça ne
+
+104
+00:06:35,530 --> 00:06:36,450
+dépasse pas un mois.
+
+105
+00:06:36,450 --> 00:06:39,950
+Pour les formes subaigües, c'est entre 4
+
+106
+00:06:39,950 --> 00:06:42,390
+et 8 semaines et pour les formes chroniques,
+
+107
+00:06:42,510 --> 00:06:43,410
+ça dépasse deux mois.
+
+108
+00:06:45,010 --> 00:06:47,490
+Et pour le type des fibres nerveuses, on
+
+109
+00:06:47,490 --> 00:06:51,450
+distingue les neuropathies sans zétive, les neuropathies motrices,
+
+110
+00:06:52,470 --> 00:06:57,050
+les neuropathies végétatives autonomes et les neuropathies sans
+
+111
+00:06:57,050 --> 00:06:58,030
+zétive ou motrices.
+
+112
+00:06:59,470 --> 00:07:04,050
+La topographie du déficit neurologique, moteur et sans
+
+113
+00:07:04,050 --> 00:07:08,650
+zétive permet de distinguer différents types de neuropathies.
+
+114
+00:07:09,690 --> 00:07:13,270
+Les polyneuropathies ont rapport avec une atteinte tronculaire,
+
+115
+00:07:13,770 --> 00:07:14,850
+symétrique, distale.
+
+116
+00:07:15,550 --> 00:07:19,050
+Les mononeuropathies, c'est une atteinte d'un
+
+117
+00:07:19,050 --> 00:07:19,950
+seul tronc nerveux.
+
+118
+00:07:20,730 --> 00:07:25,390
+Les mononeuropathies multiples, c'est une atteinte asymétrique
+
+119
+00:07:25,390 --> 00:07:26,330
+et asynchrone.
+
+120
+00:07:26,330 --> 00:07:30,990
+Les polyradiculoneuropathies ont rapport avec une atteinte des
+
+121
+00:07:30,990 --> 00:07:33,190
+racines et des nerfs de façon symétrique.
+
+122
+00:07:34,130 --> 00:07:37,370
+La neuronopathie sans zétive, c'est l'atteinte
+
+123
+00:07:37,370 --> 00:07:40,910
+du neurone au niveau du ganglion spinal.
+
+124
+00:07:41,630 --> 00:07:44,010
+La neuronopathie motrice, c'est l'atteinte de
+
+125
+00:07:44,010 --> 00:07:45,070
+la corne antérieure.
+
+126
+00:07:47,710 --> 00:07:50,850
+Le mécanisme d'atteinte est important de le
+
+127
+00:07:50,850 --> 00:07:53,270
+préciser et c'est l'intérêt de faire
+
+128
+00:07:53,270 --> 00:07:56,410
+l'étude électrophysiologique pour identifier le type d
+
+129
+00:07:56,410 --> 00:07:56,750
+'atteinte.
+
+130
+00:07:56,750 --> 00:07:59,530
+Est-ce que c'est une neuropathie axonale,
+
+131
+00:08:00,030 --> 00:08:03,150
+démyélinisante ou bien mixte ?
+
+132
+00:08:03,870 --> 00:08:08,670
+Le diagnostic d'une neuropathie périphérique repose principalement
+
+133
+00:08:08,670 --> 00:08:10,610
+sur l'anamnèse et l'examen clinique.
+
+134
+00:08:11,770 --> 00:08:15,230
+Et devant un déficit neurologique moteur sans zétive,
+
+135
+00:08:16,030 --> 00:08:18,590
+avant de retenir que c'est d'origine
+
+136
+00:08:18,590 --> 00:08:22,950
+périphérique, c'est important d'éliminer une origine
+
+137
+00:08:22,950 --> 00:08:24,590
+centrale ou musculaire.
+
+138
+00:08:24,590 --> 00:08:28,830
+Par la suite, on va parler des formes
+
+139
+00:08:28,830 --> 00:08:30,970
+cliniques topographiques.
+
+140
+00:08:32,610 --> 00:08:34,870
+Les signes cliniques en faveur d'une atteinte
+
+141
+00:08:34,870 --> 00:08:39,809
+du système nerveux périphérique contraignent une symptomatologie sensitive,
+
+142
+00:08:40,690 --> 00:08:43,610
+une symptomatologie motrice et végétative.
+
+143
+00:08:46,900 --> 00:08:52,340
+A l'interrogatoire, recherchez des signes fonctionnels sans
+
+144
+00:08:52,340 --> 00:08:52,820
+zétive.
+
+145
+00:08:52,820 --> 00:08:56,660
+Les signes fonctionnels sans zétive sont représentés par
+
+146
+00:08:56,660 --> 00:08:59,480
+des signes négatifs et des signes positifs.
+
+147
+00:09:00,620 --> 00:09:05,040
+Les signes positifs, les patients rapportent la sensation
+
+148
+00:09:05,040 --> 00:09:08,800
+de douleur avec des charges électriques et sensation
+
+149
+00:09:08,800 --> 00:09:13,280
+de brûlure, parfois hyperalgésie, allodénie.
+
+150
+00:09:13,280 --> 00:09:13,860
+Les signes négatifs, les patients sont représentés par
+
+151
+00:09:13,860 --> 00:09:15,820
+des signes négatifs et certains patients se présentent
+
+152
+00:09:15,820 --> 00:09:17,060
+pour des paristhésies.
+
+153
+00:09:17,380 --> 00:09:20,800
+C'est très fréquent chez les diabétiques, un
+
+154
+00:09:20,800 --> 00:09:22,700
+type de fourmillement et de picotement.
+
+155
+00:09:23,360 --> 00:09:27,680
+Pour les signes négatifs, le patient ressent comme
+
+156
+00:09:27,680 --> 00:09:31,180
+une anesthésie locale chez les dentistes, la sensation
+
+157
+00:09:31,180 --> 00:09:32,300
+d'une peau cartonnée.
+
+158
+00:09:33,500 --> 00:09:36,800
+Parfois, on reçoit des malades pour des vertiges
+
+159
+00:09:36,800 --> 00:09:39,820
+d'origine périphérique, et ce sont des patients
+
+160
+00:09:39,820 --> 00:09:42,740
+qui se présentent pour des vertiges qui s
+
+161
+00:09:42,740 --> 00:09:46,520
+'aggravent à l'obscurité, avec la sensation de
+
+162
+00:09:46,520 --> 00:09:49,780
+marche sur l'éponge, traduisant une atteinte de
+
+163
+00:09:49,780 --> 00:09:51,340
+la sensibilité profonde.
+
+164
+00:09:55,210 --> 00:09:59,870
+À l'interrogatoire, recherchez des silmoteurs associés aux
+
+165
+00:09:59,870 --> 00:10:02,830
+cisons hétives ou bien révélateurs d'une neuropathie
+
+166
+00:10:02,830 --> 00:10:03,450
+périphérique.
+
+167
+00:10:04,330 --> 00:10:07,990
+Ces silmoteurs, présentés par l'importance fonctionnelle d
+
+168
+00:10:07,990 --> 00:10:10,450
+'un ou de plusieurs membres à type de
+
+169
+00:10:10,450 --> 00:10:16,230
+maladresse, de gêne, de lourdeur, recherchent une fonte
+
+170
+00:10:16,230 --> 00:10:18,670
+musculaire, la notion des crampes.
+
+171
+00:10:21,410 --> 00:10:26,490
+L'interrogatoire permet aussi de contextualiser ces sils
+
+172
+00:10:26,490 --> 00:10:30,010
+fonctionnels permettant une orientation éthiologique.
+
+173
+00:10:30,750 --> 00:10:33,050
+Et c'est important de savoir si votre
+
+174
+00:10:33,050 --> 00:10:36,090
+patient est diabétique, est-ce qu'il y
+
+175
+00:10:36,090 --> 00:10:39,730
+a la notion de consommation d'alcool, est
+
+176
+00:10:39,730 --> 00:10:41,250
+-ce qu'il est suivi pour une insuffisance
+
+177
+00:10:41,250 --> 00:10:45,210
+rénale, recherchez une maladie de système, la notion
+
+178
+00:10:45,210 --> 00:10:49,610
+de prise médicamenteuse, notamment la chimiothérapie, et les
+
+179
+00:10:49,610 --> 00:10:53,310
+neuropathies post-médicamenteuses sont très fréquentes, et ce
+
+180
+00:10:53,310 --> 00:10:56,630
+sont des neuropathies réversibles après l'arrêt du
+
+181
+00:10:56,630 --> 00:10:57,030
+traitement.
+
+182
+00:10:57,030 --> 00:11:00,990
+Recherchez aussi l'exposition à des toxiques.
+
+183
+00:11:05,190 --> 00:11:08,010
+A l'étape de l'anamnèse, précisez le
+
+184
+00:11:08,010 --> 00:11:11,210
+mode d'installation permettant une orientation éthiologique.
+
+185
+00:11:12,330 --> 00:11:14,790
+Et dans les formes aiguës, comme dans le
+
+186
+00:11:14,790 --> 00:11:17,950
+cas de polyradiculo-neuropathie aiguë dans le cadre
+
+187
+00:11:17,950 --> 00:11:21,770
+de Guélin-Barré, la sémiologie clinique s'installe
+
+188
+00:11:21,770 --> 00:11:23,510
+en quelques heures à quatre semaines.
+
+189
+00:11:23,510 --> 00:11:26,490
+Dans les formes sub-aiguës, c'est entre
+
+190
+00:11:26,490 --> 00:11:29,910
+quatre et huit semaines, et dans les formes
+
+191
+00:11:29,910 --> 00:11:33,710
+chroniques, la sémiologie clinique s'installe sur plus
+
+192
+00:11:33,710 --> 00:11:34,390
+de deux mois.
+
+193
+00:11:36,800 --> 00:11:40,200
+L'examen clinique est capital pour le raisonnement
+
+194
+00:11:40,200 --> 00:11:41,900
+devant une neuropathie périphérique.
+
+195
+00:11:43,600 --> 00:11:47,340
+Précisez la présence d'un déficit moteur qui
+
+196
+00:11:47,340 --> 00:11:51,300
+est coté selon la classification MRC entre 0
+
+197
+00:11:51,300 --> 00:11:52,020
+et 5.
+
+198
+00:11:52,020 --> 00:11:57,260
+La topographie du déficit est très importante pour
+
+199
+00:11:57,260 --> 00:11:59,440
+classer le type de neuropathie périphérique.
+
+200
+00:12:00,180 --> 00:12:01,780
+Est-ce que c'est un déficit moteur
+
+201
+00:12:01,780 --> 00:12:05,540
+proximal, distal ou proximodistal?
+
+202
+00:12:07,750 --> 00:12:11,190
+L'analyse de l'atrophie musculaire est importante
+
+203
+00:12:11,190 --> 00:12:12,910
+à l'étape de l'examen clinique.
+
+204
+00:12:13,930 --> 00:12:17,030
+Et l'amniotrophie, c'est un signe majeur
+
+205
+00:12:17,030 --> 00:12:20,030
+de l'atteinte du motoneurone périphérique.
+
+206
+00:12:20,030 --> 00:12:24,090
+Elle est absente au début de l'atteinte
+
+207
+00:12:24,090 --> 00:12:25,510
+du système nerveux périphérique.
+
+208
+00:12:26,490 --> 00:12:31,830
+La présence de fasciculation oriente aussi vers une
+
+209
+00:12:31,830 --> 00:12:33,710
+atteinte du motoneurone périphérique.
+
+210
+00:12:35,150 --> 00:12:39,610
+Et les fasciculations sont définies par des contractions
+
+211
+00:12:39,610 --> 00:12:44,870
+musculaires très brèves, superficielles, localisées au niveau du
+
+212
+00:12:44,870 --> 00:12:47,550
+muscle et ne déplacent pas le segment du
+
+213
+00:12:47,550 --> 00:12:47,890
+membre.
+
+214
+00:12:47,890 --> 00:12:53,510
+Elles peuvent être spontanées ou provoquées après percussion
+
+215
+00:12:53,510 --> 00:12:54,050
+du muscle.
+
+216
+00:12:55,210 --> 00:12:59,330
+Ces fasciculations peuvent être physiologiques ou pathologiques dans
+
+217
+00:12:59,330 --> 00:13:02,130
+l'atteinte des neurones des cornes antérieures de
+
+218
+00:13:02,130 --> 00:13:02,590
+la moelle.
+
+219
+00:13:04,450 --> 00:13:08,210
+L'examen des réflexes ostéotondineux est capital.
+
+220
+00:13:08,890 --> 00:13:12,350
+Dans l'atteinte neurogène périphérique, les rôtes sont
+
+221
+00:13:12,350 --> 00:13:13,670
+aboulies ou diminuées.
+
+222
+00:13:13,670 --> 00:13:18,710
+Mais des réflexes ostéotondineux présents n'éliminent pas
+
+223
+00:13:18,710 --> 00:13:20,610
+un syndrome neurogène périphérique.
+
+224
+00:13:23,710 --> 00:13:27,450
+L'examen de la sensibilité est capital dans
+
+225
+00:13:27,450 --> 00:13:30,570
+l'examen neurologique, notamment l'examen de la
+
+226
+00:13:30,570 --> 00:13:37,790
+sensibilité superficielle, thermique, algique et tactile, et l
+
+227
+00:13:37,790 --> 00:13:41,590
+'examen de la sensibilité profonde, arthrokinétique et vibratoire.
+
+228
+00:13:43,350 --> 00:13:48,470
+Un déficit de la sensibilité thermo-algique en
+
+229
+00:13:48,470 --> 00:13:51,450
+rapport avec une atteinte des petites fibres myéliniques
+
+230
+00:13:51,450 --> 00:13:52,750
+et des fibres amyéliniques.
+
+231
+00:13:54,970 --> 00:13:57,630
+Un déficit de la sensibilité profonde et tactile
+
+232
+00:13:57,630 --> 00:14:02,050
+superficielle oriente vers une atteinte des fibres de
+
+233
+00:14:02,050 --> 00:14:04,870
+gros calibre myélinisé et c'est dans les
+
+234
+00:14:04,870 --> 00:14:07,650
+cas de neuropathie ataxiante.
+
+235
+00:14:10,750 --> 00:14:12,830
+La recherche des troubles trophiques et des signes
+
+236
+00:14:12,830 --> 00:14:17,390
+végétatifs, rechercher des signes de désautonomie dans certaines
+
+237
+00:14:17,390 --> 00:14:21,130
+neuropathies touchant le système nerveux végétatif autonome dans
+
+238
+00:14:21,130 --> 00:14:24,110
+les neuropathies amyloïdes, les neuropathies diabétiques.
+
+239
+00:14:25,190 --> 00:14:28,550
+C'est important de rechercher une hypotension orthostatique,
+
+240
+00:14:28,770 --> 00:14:31,430
+une impuissance sexuelle et des troubles vésicaux.
+
+241
+00:14:33,590 --> 00:14:35,850
+L'examen des autres organes, notamment la peau,
+
+242
+00:14:36,970 --> 00:14:41,210
+est capital pour l'orientation éthiologique, rechercher des
+
+243
+00:14:41,210 --> 00:14:45,290
+ulcères plantaires et des valanges et la présence
+
+244
+00:14:45,290 --> 00:14:47,990
+de maux perforants plantaires et d'ulcères plantaires
+
+245
+00:14:47,990 --> 00:14:53,610
+oriente vers une neuropathie diabétique, une neuropathie désautonomique
+
+246
+00:14:53,610 --> 00:14:57,530
+héréditaire et une neuropathie alcoolo-carentielle.
+
+247
+00:15:00,430 --> 00:15:03,590
+L'examen aussi de la peau, une peau
+
+248
+00:15:03,590 --> 00:15:10,780
+sèche, fine, dépilée, la recherche de purpuras, d
+
+249
+00:15:10,780 --> 00:15:13,280
+'un livret d'eau, de nécrose, des orteils
+
+250
+00:15:13,280 --> 00:15:17,520
+et des doigts oriente vers le diagnostic d
+
+251
+00:15:17,520 --> 00:15:21,900
+'une neuropathie périphérique liée à une vascularite, à
+
+252
+00:15:21,900 --> 00:15:23,200
+une cryoglobulinémie.
+
+253
+00:15:25,760 --> 00:15:30,540
+La présence d'une hyperpigmentation cutanée, une mélanodermie
+
+254
+00:15:30,540 --> 00:15:35,180
+diffuse oriente vers un syndrome de Pons qui
+
+255
+00:15:35,180 --> 00:15:41,400
+associe une polyneuropathie, une organomygalie, une endocrinopathie, des
+
+256
+00:15:41,400 --> 00:15:44,100
+lésions cutanées et une gammapathie monoclonale.
+
+257
+00:15:44,100 --> 00:15:50,820
+La présence de peau de pigmentation cutanée oriente
+
+258
+00:15:50,820 --> 00:15:53,580
+vers la lèpre et la sarcoïdose.
+
+259
+00:15:57,940 --> 00:16:03,460
+Recherchez une hypertrophie nerveuse dans les neuropathies héréditaires
+
+260
+00:16:03,460 --> 00:16:06,080
+de Charcot-Marie-Toute et vous voyez ici
+
+261
+00:16:06,080 --> 00:16:10,100
+la présence de pied creux, d'amiotrophie distale
+
+262
+00:16:10,100 --> 00:16:13,140
+avec amiotrophie jambio-perronnière.
+
+263
+00:16:14,640 --> 00:16:17,760
+Recherchez aussi le syndrome des jambes sans repos.
+
+264
+00:16:20,070 --> 00:16:24,110
+L'examen aussi de l'œil à la
+
+265
+00:16:24,110 --> 00:16:27,110
+recherche de signes du VI, de sécheresse oculaire,
+
+266
+00:16:27,230 --> 00:16:32,390
+d'opacité corneillenne, de rétinite pigmentaire oriente vers
+
+267
+00:16:32,390 --> 00:16:36,350
+les différentes étiologies de neuropathie périphérique.
+
+268
+00:16:40,860 --> 00:16:42,580
+Au terme de l'anamnèse et l'examen
+
+269
+00:16:42,580 --> 00:16:47,380
+clinique, on précise la topographie du déficit neurologique,
+
+270
+00:16:47,920 --> 00:16:51,000
+les signes associés et les signes extra-neurologiques.
+
+271
+00:16:52,060 --> 00:16:57,760
+La topographie du déficit neurologique dans les polyneuropathies,
+
+272
+00:16:57,980 --> 00:17:01,520
+comme on a vu, l'atteinte elle est
+
+273
+00:17:01,520 --> 00:17:06,579
+tranculaire, elle est distale, symétrique et longueur dépendante,
+
+274
+00:17:07,460 --> 00:17:11,060
+longueur dépendante c'est-à-dire en fonction
+
+275
+00:17:11,060 --> 00:17:12,520
+de l'axone détruit.
+
+276
+00:17:14,859 --> 00:17:21,220
+Pour les polyradiculoneuropathies, c'est une atteinte proximodistale,
+
+277
+00:17:22,119 --> 00:17:28,000
+symétrique, sans cran des membres, parfois associée à
+
+278
+00:17:28,000 --> 00:17:30,640
+une atteinte de la face et du tronc.
+
+279
+00:17:31,460 --> 00:17:33,060
+Et l'atteinte de la face se manifeste
+
+280
+00:17:33,060 --> 00:17:36,440
+par une atteinte des nerfs crâniens et les
+
+281
+00:17:36,440 --> 00:17:40,560
+formes aiguës, c'est dominé par le guélin
+
+282
+00:17:40,560 --> 00:17:43,780
+barré qui est une urgence diagnostique et thérapeutique.
+
+283
+00:17:47,590 --> 00:17:52,590
+La mononeuropathie multiple, c'est une atteinte d
+
+284
+00:17:52,590 --> 00:17:55,350
+'un seul tronc nerveux et la mononeuropathie multiple,
+
+285
+00:17:56,050 --> 00:17:58,670
+vous avez une atteinte asymétrique d'un ou
+
+286
+00:17:58,670 --> 00:18:01,850
+de plusieurs troncs nerveux, la cause la plus
+
+287
+00:18:01,850 --> 00:18:06,150
+fréquente est dominée par les vascularides et le
+
+288
+00:18:06,150 --> 00:18:06,670
+diabète.
+
+289
+00:18:07,910 --> 00:18:13,490
+La neuroneuropathie sensitive, atteinte du ganglion spinal, l
+
+290
+00:18:13,490 --> 00:18:15,730
+'atteinte elle est asymétrique et le plus souvent
+
+291
+00:18:15,730 --> 00:18:18,250
+associée à une ataxie proprioceptive.
+
+292
+00:18:19,690 --> 00:18:22,670
+Et pour la neuropathie des petites fibres, ce
+
+293
+00:18:22,670 --> 00:18:24,590
+sont des patients qui se présentent pour des
+
+294
+00:18:24,590 --> 00:18:28,610
+brûlures distales et l'examen neurologique, il est
+
+295
+00:18:28,610 --> 00:18:29,190
+normal.
+
+296
+00:18:31,010 --> 00:18:34,950
+Parfois, on trouve une hypoesthésie thermique ou douloureuse
+
+297
+00:18:34,950 --> 00:18:38,450
+et dans la neuropathie des petites fibres, ce
+
+298
+00:18:38,450 --> 00:18:40,290
+sont des patients qui se présentent pour une
+
+299
+00:18:40,290 --> 00:18:43,730
+brûlure des plantes des pieds et l'EMG
+
+300
+00:18:43,730 --> 00:18:46,750
+ne trouve pas d'anomalie et dans ce
+
+301
+00:18:46,750 --> 00:18:49,130
+cas-là, il faut évoquer la neuropathie des
+
+302
+00:18:49,130 --> 00:18:52,170
+petites fibres et c'est une pathologie aussi
+
+303
+00:18:52,170 --> 00:18:55,090
+fréquente, dominée par le diabète.
+
+304
+00:18:56,470 --> 00:18:59,030
+Les examens paracliniques qu'on demande dans les
+
+305
+00:18:59,030 --> 00:19:01,990
+neuropathies périphériques, c'est un bilan à visée
+
+306
+00:19:01,990 --> 00:19:06,090
+diagnostique, c'est l'EMG, l'électroneuroméographie permettant
+
+307
+00:19:06,090 --> 00:19:09,730
+le diagnostic de neuropathie périphérique et un bilan
+
+308
+00:19:09,730 --> 00:19:10,330
+étiologique.
+
+309
+00:19:10,330 --> 00:19:16,990
+L'EMG, l'électroneuroméographie, c'est une extension
+
+310
+00:19:16,990 --> 00:19:20,170
+de l'examen clinique et cet examen permet
+
+311
+00:19:20,170 --> 00:19:24,970
+de préciser le type de la neuropathie sensitive,
+
+312
+00:19:25,410 --> 00:19:30,930
+neuropathie motrice, le mécanisme physiopathologique et la sévérité
+
+313
+00:19:30,930 --> 00:19:31,750
+de la neuropathie.
+
+314
+00:19:34,170 --> 00:19:36,370
+L'EMG permet l'étude de la conduction
+
+315
+00:19:36,370 --> 00:19:39,990
+nerveuse motrice et sensitive et l'étude de
+
+316
+00:19:39,990 --> 00:19:42,090
+l'activité musculaire à l'aide d'une
+
+317
+00:19:42,090 --> 00:19:42,430
+aiguille.
+
+318
+00:19:45,470 --> 00:19:48,970
+Pour l'étude de la conduction nerveuse, pour
+
+319
+00:19:48,970 --> 00:19:52,110
+avoir une vitesse de conduction nerveuse, on stimule
+
+320
+00:19:52,110 --> 00:19:53,150
+le nerf sur deux points.
+
+321
+00:19:53,810 --> 00:19:57,250
+Par exemple, pour le nerf médian, on va
+
+322
+00:19:57,250 --> 00:19:59,950
+stimuler au niveau du poilier et au niveau
+
+323
+00:19:59,950 --> 00:20:02,270
+du côte, au niveau de la gouttière bicipitale
+
+324
+00:20:02,270 --> 00:20:02,770
+interne.
+
+325
+00:20:03,370 --> 00:20:05,150
+Au niveau du poignet, c'est la stimulation
+
+326
+00:20:05,150 --> 00:20:05,790
+distale.
+
+327
+00:20:06,770 --> 00:20:10,530
+Quand on stimule, la stimulation engendre une dépolarisation,
+
+328
+00:20:11,110 --> 00:20:13,450
+la génération de l'influx du nerveux qui
+
+329
+00:20:13,450 --> 00:20:15,770
+va être conduit tout au long du nerf
+
+330
+00:20:15,770 --> 00:20:18,870
+vers la jonction neuromusculaire, l'entrée du calcium
+
+331
+00:20:18,870 --> 00:20:23,250
+et la contraction musculaire qui va être réceptionnée
+
+332
+00:20:23,250 --> 00:20:24,590
+par l'électrode de réception.
+
+333
+00:20:27,850 --> 00:20:30,090
+Et l'étude consiste à l'analyse du
+
+334
+00:20:30,090 --> 00:20:31,770
+potentiel d'action que vous voyez.
+
+335
+00:20:32,630 --> 00:20:38,350
+Vous avez sur ce potentiel une latence qui
+
+336
+00:20:38,350 --> 00:20:40,530
+est le temps entre la stimulation et l
+
+337
+00:20:40,530 --> 00:20:44,490
+'apparition du potentiel d'action et l'amplitude
+
+338
+00:20:44,490 --> 00:20:45,530
+de pic à pic.
+
+339
+00:20:46,670 --> 00:20:50,290
+La vitesse de conduction nerveuse, c'est la
+
+340
+00:20:50,290 --> 00:20:53,790
+distance entre les deux points de stimulation, la
+
+341
+00:20:53,790 --> 00:20:57,350
+stimulation distale et proximale, sur le temps.
+
+342
+00:20:58,010 --> 00:21:00,650
+C'est la différence de latence.
+
+343
+00:21:04,780 --> 00:21:09,160
+Et dans les atteintes démielinisantes, la latence est
+
+344
+00:21:09,160 --> 00:21:12,400
+très allongée et dans ce cas-là, la
+
+345
+00:21:12,400 --> 00:21:15,280
+vitesse de conduction nerveuse est très diminuée.
+
+346
+00:21:16,080 --> 00:21:20,380
+Dans les atteintes axonales, on aura une diminution
+
+347
+00:21:20,380 --> 00:21:21,340
+des amplitudes.
+
+348
+00:21:25,610 --> 00:21:28,530
+Le MG permet d'étudier l'activité musculaire
+
+349
+00:21:28,530 --> 00:21:31,290
+pour avoir une idée sur la sévérité de
+
+350
+00:21:31,290 --> 00:21:34,470
+l'atteinte et dans les atteintes sévères, on
+
+351
+00:21:34,470 --> 00:21:38,870
+a des signes de fibrillation au repos, la
+
+352
+00:21:38,870 --> 00:21:42,470
+présence d'activités spontanées à type de fibrillation
+
+353
+00:21:42,470 --> 00:21:45,490
+de moins de 100 microvolts et à l
+
+354
+00:21:45,490 --> 00:21:50,270
+'effort, on constate un manque d'unité motrice
+
+355
+00:21:50,270 --> 00:21:52,790
+en rapport avec une atteinte neurogène.
+
+356
+00:21:55,030 --> 00:21:59,070
+Donc le MG dans les neuropathies démielinisantes va
+
+357
+00:21:59,070 --> 00:22:04,450
+montrer un allongement de latence distale, une diminution
+
+358
+00:22:04,450 --> 00:22:07,950
+des vitesses de conduction avec des blocs de
+
+359
+00:22:07,950 --> 00:22:09,110
+conduction nerveuse.
+
+360
+00:22:09,790 --> 00:22:12,630
+Et ici, vous avez un bloc de conduction
+
+361
+00:22:12,630 --> 00:22:15,690
+du nerf cubital au coude avec une perte
+
+362
+00:22:15,690 --> 00:22:19,730
+d'amplitude du potentiel d'action moteur de
+
+363
+00:22:19,730 --> 00:22:23,510
+50% entre le segment sous-coude et
+
+364
+00:22:23,510 --> 00:22:24,050
+sous-coude.
+
+365
+00:22:26,910 --> 00:22:29,710
+La sévérité de la neuropathie, on va constater
+
+366
+00:22:29,710 --> 00:22:32,510
+une réduction du potentiel d'amplitude moteur et
+
+367
+00:22:32,510 --> 00:22:36,210
+sensitive avec une dénervation active à le MG.
+
+368
+00:22:38,100 --> 00:22:42,400
+Après la confirmation du diagnostic de neuropathie périphérique,
+
+369
+00:22:43,400 --> 00:22:45,460
+la topographie de l'atteinte et le type
+
+370
+00:22:45,460 --> 00:22:50,360
+de l'atteinte, un bilan étiologique à réaliser
+
+371
+00:22:50,360 --> 00:22:52,640
+en première intention, c'est le bilan de
+
+372
+00:22:52,640 --> 00:22:57,320
+première ligne, demander une glycémie agent, une glycémie
+
+373
+00:22:57,320 --> 00:23:01,340
+postprandiale, une hémoglobine gliquée pour rechercher un diabète
+
+374
+00:23:01,340 --> 00:23:05,060
+ou bien une intolérance au glucose ou dans
+
+375
+00:23:05,060 --> 00:23:06,460
+le cadre d'un syndrome métabolique.
+
+376
+00:23:06,460 --> 00:23:10,280
+L'hémogramme, c'est pour rechercher une anémie,
+
+377
+00:23:10,640 --> 00:23:11,720
+une macrocytose.
+
+378
+00:23:12,940 --> 00:23:16,500
+L'AVS-SRP pour rechercher un syndrome inflammatoire.
+
+379
+00:23:17,920 --> 00:23:21,060
+Les gamma-GT pour rechercher un tableau d
+
+380
+00:23:21,060 --> 00:23:22,200
+'éthylisme chronique.
+
+381
+00:23:23,400 --> 00:23:27,560
+Les transaminases pour rechercher des signes d'hépatite.
+
+382
+00:23:29,680 --> 00:23:32,280
+La fonction rénale et le début de filtration
+
+383
+00:23:32,280 --> 00:23:35,220
+glomérulaire dans le cadre d'une insuffisance rénale.
+
+384
+00:23:36,580 --> 00:23:40,380
+Le TSH pour rechercher une hypothyroïdie et un
+
+385
+00:23:40,380 --> 00:23:44,260
+point important, les neuropathies périphériques secondaires à une
+
+386
+00:23:44,260 --> 00:23:46,260
+hypothyroïdie, ce n'est pas très fréquent.
+
+387
+00:23:47,100 --> 00:23:49,760
+Aussi, on demande le dosage de la vitamine
+
+388
+00:23:49,760 --> 00:23:50,420
+B12.
+
+389
+00:23:51,520 --> 00:23:55,140
+L'électrophorese des protéines avec immunofixation à la
+
+390
+00:23:55,140 --> 00:23:58,240
+recherche de gammapathies et d'hémopathies.
+
+391
+00:23:59,440 --> 00:24:03,060
+On complète aussi par les sérologies VIH, l
+
+392
+00:24:03,060 --> 00:24:03,700
+'hépatite C.
+
+393
+00:24:03,700 --> 00:24:06,800
+Pour la sérologie de Lyme, en fonction du
+
+394
+00:24:06,800 --> 00:24:08,480
+contexte et de zones d'endémie.
+
+395
+00:24:09,560 --> 00:24:11,860
+Et on complète par la radiographie du thorax
+
+396
+00:24:11,860 --> 00:24:13,220
+et la cryoglobulinémie.
+
+397
+00:24:14,820 --> 00:24:17,000
+Le bilan de deuxième ligne, c'est en
+
+398
+00:24:17,000 --> 00:24:20,400
+fonction du contexte clinique, notamment le dosage des
+
+399
+00:24:20,400 --> 00:24:24,340
+anticorps antinucléaires, les anti-SSA-SSP quand on
+
+400
+00:24:24,340 --> 00:24:28,460
+suspecte un syndrome de goujolotschogren, les PNK et
+
+401
+00:24:28,460 --> 00:24:32,420
+CNK dans les vascularides, notamment le végénaire, les
+
+402
+00:24:32,420 --> 00:24:37,680
+anticorps anti-gliadines dans la maladie celiaque, les
+
+403
+00:24:37,680 --> 00:24:41,320
+anticorps anti-HU, UO, anti-CV2 dans les
+
+404
+00:24:41,320 --> 00:24:46,260
+syndromes paranéoplasiques et les anticorps anti-glicolipines dans
+
+405
+00:24:46,260 --> 00:24:50,460
+les neuropathies dysimmunitaires, notamment la neuropathie motrice multifocale,
+
+406
+00:24:50,580 --> 00:24:53,780
+les anti-GMA, les anti-GQMP, c'est
+
+407
+00:24:53,780 --> 00:24:56,520
+dans les variantes de Guillain-Barré, le Miller
+
+408
+00:24:56,520 --> 00:25:00,280
+-Fischer et les anti-MAG dans les neuropathies
+
+409
+00:25:00,280 --> 00:25:00,860
+anti-MAG.
+
+410
+00:25:06,460 --> 00:25:09,580
+Aussi, on peut demander en fonction du contexte
+
+411
+00:25:09,580 --> 00:25:13,960
+clinique si on suspecte un syndrome sec, une
+
+412
+00:25:13,960 --> 00:25:17,740
+amylose, une sarcoïdose, la biopsie des glandes salivaires,
+
+413
+00:25:18,340 --> 00:25:21,200
+en complète aussi par la biopsie ostéomédulaire dans
+
+414
+00:25:21,200 --> 00:25:23,360
+le cadre de POMS, de l'INFOM, de
+
+415
+00:25:23,360 --> 00:25:28,700
+gamma-pathie monoclonale, le scanner thoraco-abdominal pour
+
+416
+00:25:28,700 --> 00:25:31,480
+étayer le diagnostic d'un carcinome pulmonaire dans
+
+417
+00:25:31,480 --> 00:25:33,640
+l'INFOM ou bien d'une maladie de
+
+418
+00:25:33,640 --> 00:25:35,540
+système à la recherche d'un syndrome interstitiel.
+
+419
+00:25:37,360 --> 00:25:40,760
+Pour l'analyse du LCR, l'analyse du
+
+420
+00:25:40,760 --> 00:25:43,360
+liquide cérébro-spinal, c'est pour étayer le
+
+421
+00:25:43,360 --> 00:25:46,560
+diagnostic d'une PRN, d'une polyradiculoneuropathie.
+
+422
+00:25:47,800 --> 00:25:50,140
+Et on le demande en premier quand on
+
+423
+00:25:50,140 --> 00:25:54,680
+suspecte un Guillain-Barré pour rechercher une méningite
+
+424
+00:25:54,680 --> 00:25:58,140
+lymphocytaire et pour mettre en évidence des cellules
+
+425
+00:25:58,140 --> 00:26:02,520
+anormales en cas de pathologie néoplasique, notamment à
+
+426
+00:26:02,520 --> 00:26:02,960
+l'INFOM.
+
+427
+00:26:06,000 --> 00:26:09,360
+Pour le bilan de troisième ligne, c'est
+
+428
+00:26:09,360 --> 00:26:12,260
+la biologie moléculaire et la biopsie neuromusculaire.
+
+429
+00:26:13,100 --> 00:26:16,800
+Et la biologie moléculaire est indiquée quand on
+
+430
+00:26:16,800 --> 00:26:18,940
+suspecte des neuropathies héréditaires.
+
+431
+00:26:19,180 --> 00:26:21,380
+Ce sont des patients qui se présentent pour
+
+432
+00:26:21,380 --> 00:26:25,440
+une amyotrophie jambiopéroniaire avec des pieds creux.
+
+433
+00:26:26,400 --> 00:26:28,760
+Et à l'EMG, on trouve une dissociation
+
+434
+00:26:28,760 --> 00:26:29,120
+électroclinique.
+
+435
+00:26:30,240 --> 00:26:32,920
+On trouve que l'EMG est très malade
+
+436
+00:26:32,920 --> 00:26:34,360
+et le patient arrive à marcher.
+
+437
+00:26:35,520 --> 00:26:39,940
+Pour la biopsie neuromusculaire, elle a des indications
+
+438
+00:26:39,940 --> 00:26:45,040
+spécialisées, surtout en cas de suspicion de vascularite,
+
+439
+00:26:45,160 --> 00:26:50,140
+de sarcoïdose, d'infiltration tumorale, d'amylose acquise
+
+440
+00:26:50,140 --> 00:26:51,700
+et familiale et la lèpre.
+
+441
+00:26:55,850 --> 00:26:58,210
+Qu'en est-il des principales étiologies des
+
+442
+00:26:58,210 --> 00:26:59,390
+neuropathies périphériques?
+
+443
+00:26:59,490 --> 00:27:03,810
+Les étiologies des neuropathies périphériques sont classées en
+
+444
+00:27:03,810 --> 00:27:06,270
+fonction du type de fibres nerveuses atteintes, en
+
+445
+00:27:06,270 --> 00:27:09,390
+fonction du mode d'installation et en fonction
+
+446
+00:27:09,390 --> 00:27:11,890
+du processus physiopathologique sous-jacent.
+
+447
+00:27:12,890 --> 00:27:17,010
+Pour les principales étiologies, on distingue les neuropathies
+
+448
+00:27:17,010 --> 00:27:21,810
+métaboliques et endocriniennes, les neuropathies alcooliques et carentielles,
+
+449
+00:27:22,070 --> 00:27:26,870
+les neuropathies d'origine infectieuse, médicamenteuses, toxiques et
+
+450
+00:27:26,870 --> 00:27:27,590
+inflammatoires.
+
+451
+00:27:28,630 --> 00:27:32,170
+Pour les neuropathies métaboliques et endocriniennes, sont dominées
+
+452
+00:27:32,170 --> 00:27:34,670
+par le diabète et l'insuffisance rénale.
+
+453
+00:27:34,670 --> 00:27:38,430
+On a eu des cas de porphyrie et
+
+454
+00:27:38,430 --> 00:27:40,690
+les neuropathies endocriniennes sont rares.
+
+455
+00:27:41,670 --> 00:27:45,230
+Pour la neuropathie diabétique, la forme topographique la
+
+456
+00:27:45,230 --> 00:27:49,010
+plus fréquente, c'est la polyneuropathie, longueur dépendante,
+
+457
+00:27:50,450 --> 00:27:53,190
+sans étive, symétrique, axonale.
+
+458
+00:27:54,450 --> 00:27:57,730
+Des neuropathies désautonomiques, aussi on les observe chez
+
+459
+00:27:57,730 --> 00:28:00,510
+les malades diabétiques mal contrôlés et on peut
+
+460
+00:28:00,510 --> 00:28:02,790
+voir des neuropathies focales et multifocales.
+
+461
+00:28:03,990 --> 00:28:06,750
+Pour les neuropathies focales, on a eu des
+
+462
+00:28:06,750 --> 00:28:12,450
+malades présentant une atteinte des nerfs crâniens, une
+
+463
+00:28:12,450 --> 00:28:16,150
+atteinte de la troisième paire crânienne, révélant un
+
+464
+00:28:16,150 --> 00:28:17,310
+diabète mal contrôlé.
+
+465
+00:28:18,190 --> 00:28:21,030
+Parfois une atteinte des membres et le siège
+
+466
+00:28:21,030 --> 00:28:23,770
+de la neuropathie, aussi de la compression nerveuse.
+
+467
+00:28:24,550 --> 00:28:26,770
+Chez les diabétiques, le syndrome du canal carpien,
+
+468
+00:28:26,870 --> 00:28:27,730
+il est très fréquent.
+
+469
+00:28:28,430 --> 00:28:31,130
+Aussi l'atteinte du nerf rural, soit isolé,
+
+470
+00:28:31,290 --> 00:28:33,070
+soit dans le cadre d'une mononeuropathie.
+
+471
+00:28:34,450 --> 00:28:37,730
+Aussi on peut voir des neuropathies du tronc,
+
+472
+00:28:37,870 --> 00:28:41,610
+des neuropathies motrices proximales, avec amyotrophie des racines,
+
+473
+00:28:41,750 --> 00:28:44,750
+et en général ce sont des neuropathies asymétriques.
+
+474
+00:28:46,500 --> 00:28:50,420
+Pour les neuropathies alcooliques et carentielles, dominées par
+
+475
+00:28:50,420 --> 00:28:54,600
+l'alcoolisme et les déficits vitaminiques, ainsi les
+
+476
+00:28:54,600 --> 00:28:56,940
+neuropathies secondaires à des maloptions.
+
+477
+00:28:57,880 --> 00:29:01,660
+Pour les neuropathies infectieuses, dominées surtout par les
+
+478
+00:29:01,660 --> 00:29:06,820
+infections HIV ou bien post-médicamenteuses, secondaires aux
+
+479
+00:29:06,820 --> 00:29:09,140
+antirétroviraux et la lèpre.
+
+480
+00:29:10,760 --> 00:29:15,320
+Les neuropathies toxiques, secondaires à des agents industriels
+
+481
+00:29:15,320 --> 00:29:19,280
+ou bien les neuropathies médicamenteuses, post-chimiothérapie.
+
+482
+00:29:20,880 --> 00:29:24,780
+Et parmi ces neuropathies toxiques, vous avez le
+
+483
+00:29:24,780 --> 00:29:25,680
+plan.
+
+484
+00:29:26,300 --> 00:29:28,000
+Et on a eu des cas de neuropathie
+
+485
+00:29:28,000 --> 00:29:29,380
+motrice, secondaire au plan.
+
+486
+00:29:29,940 --> 00:29:31,720
+Et ce sont des patients qui se présentent
+
+487
+00:29:31,720 --> 00:29:35,640
+pour une atteinte motrice avec une paralysie pseudo
+
+488
+00:29:35,640 --> 00:29:37,520
+-radiale sans atteinte sensitive.
+
+489
+00:29:38,400 --> 00:29:40,620
+Et dans ce cas-là, il faut rechercher
+
+490
+00:29:40,620 --> 00:29:42,120
+une intoxication au plan.
+
+491
+00:29:43,760 --> 00:29:47,780
+Recherchez chez les agriculteurs les neuropathies secondaires aux
+
+492
+00:29:47,780 --> 00:29:48,760
+organophosphoriques.
+
+493
+00:29:50,020 --> 00:29:54,900
+Pour les neuropathies médicamenteuses, sont dominées par les
+
+494
+00:29:54,900 --> 00:29:58,660
+neuropathies post-chimiothérapie et le plus souvent, ils
+
+495
+00:29:58,660 --> 00:30:00,960
+sont réversibles après l'arrêt du traitement.
+
+496
+00:30:03,550 --> 00:30:08,010
+Passons aux neuropathies inflammatoires, notamment les neuropathies dysimmunes
+
+497
+00:30:08,010 --> 00:30:09,950
+et les neuropathies à source vascularite.
+
+498
+00:30:10,730 --> 00:30:14,050
+Pour les neuropathies dysimmunes, vous avez la PRN
+
+499
+00:30:14,050 --> 00:30:16,490
+aiguë auto-immune, le syndrome de Guillain-Barré,
+
+500
+00:30:17,450 --> 00:30:22,710
+la PRN chronique, démyélinisante inflammatoire, les neuropathies sensitives
+
+501
+00:30:22,710 --> 00:30:27,390
+aux motrices démyélinisantes multifocales et la neuropathie motrice
+
+502
+00:30:27,390 --> 00:30:27,810
+multiple.
+
+503
+00:30:28,850 --> 00:30:31,510
+Pour la PRN aiguë, le syndrome de Guillain
+
+504
+00:30:31,510 --> 00:30:33,230
+-Barré, il faut savoir que c'est une
+
+505
+00:30:33,230 --> 00:30:33,970
+urgence diagnostique.
+
+506
+00:30:35,430 --> 00:30:38,270
+Ce sont des patients qui se présentent pour
+
+507
+00:30:38,270 --> 00:30:42,770
+un déficit moteur des 4 membres ascendants d
+
+508
+00:30:42,770 --> 00:30:47,770
+'installation aiguë de quelques heures à 10 jours
+
+509
+00:30:47,770 --> 00:30:50,470
+et à l'examen, vous allez trouver une
+
+510
+00:30:50,470 --> 00:30:53,150
+atteinte flasque, des réflexes abolis, sans signe d
+
+511
+00:30:53,150 --> 00:30:53,970
+'atteinte centrale.
+
+512
+00:30:54,190 --> 00:30:56,070
+Pas de Wawinski, pas de niveau sensitif.
+
+513
+00:30:57,590 --> 00:31:01,130
+Le diagnostic et les cliniques est confirmé par
+
+514
+00:31:01,130 --> 00:31:03,450
+l'EMG qui montre un allongement de latence
+
+515
+00:31:03,450 --> 00:31:08,190
+distale avec ralentissement de la conduction nerveuse et
+
+516
+00:31:08,190 --> 00:31:09,610
+un allongement des ondes F.
+
+517
+00:31:11,390 --> 00:31:13,510
+Et le deuxième examen à réaliser, c'est
+
+518
+00:31:13,510 --> 00:31:16,430
+l'étude du liquide cérébro-spinal qui montre
+
+519
+00:31:16,430 --> 00:31:22,750
+une dissociation albuminocytologique, une hyperprotéine urachi avec une
+
+520
+00:31:22,750 --> 00:31:23,810
+cellule urachi normale.
+
+521
+00:31:25,630 --> 00:31:27,890
+Ce sont des patients à hospitaliser dans une
+
+522
+00:31:27,890 --> 00:31:29,050
+unité de soins intensifs.
+
+523
+00:31:29,890 --> 00:31:32,610
+Car le pronostic vital est mis en jeu
+
+524
+00:31:33,590 --> 00:31:37,630
+et le traitement est basé sur les échanges
+
+525
+00:31:37,630 --> 00:31:39,670
+plasmatiques et les immunoglobulins.
+
+526
+00:31:41,580 --> 00:31:43,960
+Pour le syndrome de Guélin-Barré, vous avez
+
+527
+00:31:43,960 --> 00:31:45,440
+plusieurs variantes.
+
+528
+00:31:46,160 --> 00:31:49,120
+Vous avez les formes axonales, les formes démielinisantes,
+
+529
+00:31:49,240 --> 00:31:50,700
+les formes sans étivaux motrices.
+
+530
+00:31:52,660 --> 00:31:54,240
+Et la variante la plus fréquente, c'est
+
+531
+00:31:54,240 --> 00:31:58,120
+le syndrome de Miller-Fischer révélé en...
+
+532
+00:31:58,120 --> 00:32:01,200
+qui est révélé en général par une ataxie,
+
+533
+00:32:01,480 --> 00:32:04,120
+ophthalmoplégie et atteinte neurogène périphérique.
+
+534
+00:32:06,700 --> 00:32:11,020
+Pour les polyneuropathies chroniques démielinisantes inflammatoires, c'est
+
+535
+00:32:11,020 --> 00:32:12,180
+comme le Guélin-Barré.
+
+536
+00:32:13,260 --> 00:32:15,960
+Et la présentation typique s'installe sur plus
+
+537
+00:32:15,960 --> 00:32:18,700
+de huit semaines avec un déficit moteur proximal
+
+538
+00:32:18,700 --> 00:32:21,380
+des membres associé à des troubles sensitifs.
+
+539
+00:32:22,420 --> 00:32:25,900
+L'étude du LCR montre une dissociation albuminocytologique
+
+540
+00:32:25,900 --> 00:32:28,620
+et c'est important de faire l'immunofixation
+
+541
+00:32:28,620 --> 00:32:33,080
+sérique des protéines pour éliminer les diagnostics et
+
+542
+00:32:33,080 --> 00:32:36,340
+les formes typiques, notamment le syndrome de POMS,
+
+543
+00:32:36,420 --> 00:32:37,740
+la mylose et le...
+
+544
+00:32:38,980 --> 00:32:41,780
+Il y a d'autres neuropathies immunitaires et
+
+545
+00:32:41,780 --> 00:32:43,060
+c'est la partie spécialiste.
+
+546
+00:32:44,260 --> 00:32:47,600
+Et pour les neuropathies héréditaires, notamment la maladie
+
+547
+00:32:47,600 --> 00:32:49,480
+de Charcot-Marie-Toute, ce sont des patients
+
+548
+00:32:49,480 --> 00:32:51,600
+qui se présentent pour une neuropathie familiale.
+
+549
+00:32:52,400 --> 00:32:53,360
+C'est la CMT1.
+
+550
+00:32:53,740 --> 00:32:56,460
+Vous avez des formes autosomiques dominantes et récessives.
+
+551
+00:32:57,460 --> 00:32:59,500
+Il est secondaire à une mutation de la
+
+552
+00:32:59,500 --> 00:33:02,340
+protéine de la myéline périphérique, PMP22.
+
+553
+00:33:04,180 --> 00:33:06,920
+La neuropathie liée à une hypersensibilité à la
+
+554
+00:33:06,920 --> 00:33:10,460
+pression est responsable de paralysie à rechute des
+
+555
+00:33:10,460 --> 00:33:11,180
+nerfs moteurs.
+
+556
+00:33:12,160 --> 00:33:16,240
+Vous avez une liste de neuropathies héréditaires.
+
+557
+00:33:16,400 --> 00:33:20,400
+Il y a plus de 90 gènes retrouvés
+
+558
+00:33:20,400 --> 00:33:23,380
+dans ces maladies héréditaires du nerf périphérique.
+
+559
+00:33:25,630 --> 00:33:28,850
+Pour les neuropathies associées à une hémopathie, vous
+
+560
+00:33:28,850 --> 00:33:32,210
+avez le lymphome, les leucémies et la neuropathie
+
+561
+00:33:32,210 --> 00:33:33,670
+et dysglobulinémie monoclonale.
+
+562
+00:33:36,260 --> 00:33:38,840
+Selon le type de fibres atteintes, les neuropathies
+
+563
+00:33:38,840 --> 00:33:43,540
+sensitives représentées par les polyneuropathies sensitives axonales longueurs
+
+564
+00:33:43,540 --> 00:33:47,560
+dépendantes dominées par le diabète, les neuropathies sensitives
+
+565
+00:33:47,560 --> 00:33:52,080
+démyelinisantes, les neuronopathies sensitives et l'atteinte des
+
+566
+00:33:52,080 --> 00:33:52,760
+petites fibres.
+
+567
+00:33:52,880 --> 00:33:56,520
+Dans les neuronopathies sensitives atteintes du ganglion spinal,
+
+568
+00:33:57,300 --> 00:33:59,900
+c'est important de rechercher un diabète, de
+
+569
+00:33:59,900 --> 00:34:01,960
+rechercher un syndrome paranéoplasique.
+
+570
+00:34:03,600 --> 00:34:05,240
+Et dans l'atteinte des petites fibres, c
+
+571
+00:34:05,240 --> 00:34:07,760
+'est important de faire un bilan exhaustif de
+
+572
+00:34:07,760 --> 00:34:09,260
+première ligne et deuxième ligne.
+
+573
+00:34:12,150 --> 00:34:16,370
+Donc, sans tarder, pour l'atteinte des petites
+
+574
+00:34:16,370 --> 00:34:19,310
+fibres, vous avez les étiologies acquises, les étiologies
+
+575
+00:34:19,310 --> 00:34:19,969
+héréditaires.
+
+576
+00:34:20,969 --> 00:34:24,429
+Pour les neuropathies sensitives démyelinisantes, vous avez les
+
+577
+00:34:24,429 --> 00:34:31,230
+différentes étiologies disimmunitaires, les neuropathies antimarques, les CIDP,
+
+578
+00:34:31,230 --> 00:34:35,750
+les polyradiculoneuropathies inflammatoires démyelinisantes chroniques, le
+
+579
+00:34:35,750 --> 00:34:36,270
+canomal.
+
+580
+00:34:37,330 --> 00:34:42,630
+Pour les neuropathies sensitives, les neuronopathies sensitives, c
+
+581
+00:34:42,630 --> 00:34:45,989
+'est important de réaliser un bilan exhaustif et
+
+582
+00:34:45,989 --> 00:34:48,550
+d'éliminer une cause myoplastique.
+
+583
+00:34:52,409 --> 00:34:55,090
+Et en conclusion, pour les étiologies des neuropathies
+
+584
+00:34:55,090 --> 00:34:59,110
+aiguës, soit polyneuropathie ou mononeuropathie multiple, pour les
+
+585
+00:34:59,110 --> 00:35:03,270
+formes aiguës, éliminer dans la polyradiculoneuropathie pensée au
+
+586
+00:35:03,270 --> 00:35:04,330
+syndrome de Guillain-Barré.
+
+587
+00:35:04,730 --> 00:35:07,670
+Pour les formes aiguës axonales, ça peut être
+
+588
+00:35:07,670 --> 00:35:09,890
+d'origine diabétique ou bien en forme axonale
+
+589
+00:35:09,890 --> 00:35:13,510
+de Guillain-Barré, la porphyrée aiguë, les causes
+
+590
+00:35:13,510 --> 00:35:16,450
+toxiques, alcoolocarenciels ou urémiques.
+
+591
+00:35:17,510 --> 00:35:20,770
+Et pour la mononeuropathie multiple aiguë, éliminer en
+
+592
+00:35:20,770 --> 00:35:22,170
+premier une vascularite.
+
+593
+00:35:23,330 --> 00:35:27,230
+Pour les neuropathies chroniques, notamment une neuropathie chronique
+
+594
+00:35:27,230 --> 00:35:31,810
+démyelinisante qui remonte à l'enfance, éliminer les
+
+595
+00:35:31,810 --> 00:35:33,410
+neuropathies héréditaires.
+
+596
+00:35:34,170 --> 00:35:36,790
+Pour les formes axonales aussi, éliminer les neuropathies
+
+597
+00:35:37,310 --> 00:35:39,970
+héréditaires et les neuropathies dans le cadre d
+
+598
+00:35:39,970 --> 00:35:40,850
+'une maladie de système.
+
+599
+00:35:41,450 --> 00:35:45,430
+Pour les mononeuropathies multiples, penser aux neuropathies avec
+
+600
+00:35:45,430 --> 00:35:48,270
+hypersensibilité à la pression, à la maladie de
+
+601
+00:35:48,270 --> 00:35:51,330
+Lyme en fonction du contexte et les neuropathies
+
+602
+00:35:51,330 --> 00:35:51,870
+lépreuses.
+
+603
+00:35:52,650 --> 00:35:55,550
+Et en conclusion, le diagnostic d'une neuropathie
+
+604
+00:35:55,550 --> 00:35:58,930
+périphérique repose, nécessite des compétences cliniques et
+
+605
+00:35:59,570 --> 00:36:02,090
+électrophysiologiques, parfois même neuropathologiques.
+
+606
+00:36:02,690 --> 00:36:06,870
+Et ça demande des explorations spécialisées par des
+
+607
+00:36:06,870 --> 00:36:10,030
+experts et la recherche d'une neuropathie périphérique
+
+608
+00:36:10,030 --> 00:36:12,530
+de cause curable, c'est l'obsession pour
+
+609
+00:36:12,530 --> 00:36:15,950
+le clinicien parce que l'éthiologie n'est
+
+610
+00:36:15,950 --> 00:36:18,770
+pas toujours facile à rechercher et si le
+
+611
+00:36:18,770 --> 00:36:23,960
+diagnostic éthiologique est inconnu, c'est important de
+
+612
+00:36:23,960 --> 00:36:26,640
+surveiller le patient et de rassurer le malade
+
+613
+00:36:26,640 --> 00:36:29,620
+et nous avons une entité d'une neuropathie
+
+614
+00:36:29,620 --> 00:36:32,620
+périphérique d'éthiologie indéterminée et je vous remercie.

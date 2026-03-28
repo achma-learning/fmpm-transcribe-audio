@@ -1,0 +1,2727 @@
+1
+00:00:00,460 --> 00:00:03,340
+Bonjour, on va faire aujourd'hui le cours
+
+2
+00:00:03,340 --> 00:00:06,180
+sur l'insuffisance cardiaque et les cardiomyopathies, donc
+
+3
+00:00:06,180 --> 00:00:07,780
+on va fusionner les deux ensemble.
+
+4
+00:00:09,080 --> 00:00:10,600
+Alors l'insuffisance cardiaque, comme vous l'avez
+
+5
+00:00:10,600 --> 00:00:14,800
+appris depuis les cours même de physiologie, de
+
+6
+00:00:14,800 --> 00:00:18,820
+sémiologie, c'est le coeur qui est incapable,
+
+7
+00:00:18,940 --> 00:00:21,560
+bien sûr, en étant une pompe, à assurer
+
+8
+00:00:21,560 --> 00:00:23,980
+un débit cardiaque suffisant pour les besoins de
+
+9
+00:00:23,980 --> 00:00:24,600
+l'organisme.
+
+10
+00:00:25,780 --> 00:00:29,880
+Cette définition, bien sûr, a évolué vers une
+
+11
+00:00:29,880 --> 00:00:34,840
+définition beaucoup plus intéressante, mais beaucoup plus complexe,
+
+12
+00:00:34,900 --> 00:00:38,360
+puisqu'elle va intégrer dans la définition la
+
+13
+00:00:38,360 --> 00:00:40,680
+notion d'un syndrome complexe, dans lequel il
+
+14
+00:00:40,680 --> 00:00:43,980
+y a à la fois ces modifications hémodynamiques
+
+15
+00:00:43,980 --> 00:00:45,380
+qui font que la pompe n'assure pas
+
+16
+00:00:45,380 --> 00:00:48,180
+les besoins, ce qui donne des signes congestifs,
+
+17
+00:00:48,280 --> 00:00:49,980
+etc., et des signes, bien sûr, de bas
+
+18
+00:00:49,980 --> 00:00:53,660
+débit, déficit énergétique du tissu, mais surtout, elle
+
+19
+00:00:53,660 --> 00:00:56,480
+est sortie de la définition purement hémodynamique vers
+
+20
+00:00:56,480 --> 00:01:01,840
+une définition neurohormonale, puisqu'elle va englober le
+
+21
+00:01:01,840 --> 00:01:06,420
+fait que, suite à cette dysfonction du ventricule
+
+22
+00:01:06,420 --> 00:01:07,620
+gauche, il y aura une mise en jeu
+
+23
+00:01:07,620 --> 00:01:11,720
+excessive des mécanismes de régulation neurohormonale, et ces
+
+24
+00:01:11,720 --> 00:01:15,520
+mécanismes neurohormonaux mis en jeu de façon excessive
+
+25
+00:01:15,520 --> 00:01:17,940
+vont participer à l'aggravation de la maladie
+
+26
+00:01:17,940 --> 00:01:18,860
+et de l'insuffisance cardiaque.
+
+27
+00:01:18,860 --> 00:01:21,620
+Le fait d'introduire cette dimension dans la
+
+28
+00:01:21,620 --> 00:01:25,000
+définition a permis, bien sûr, d'ouvrir une
+
+29
+00:01:25,000 --> 00:01:28,160
+porte sur les thérapeutiques possibles, et puis, bien
+
+30
+00:01:28,160 --> 00:01:31,500
+sûr, vers l'amélioration de la prise en
+
+31
+00:01:31,500 --> 00:01:32,700
+charge de cette maladie.
+
+32
+00:01:33,280 --> 00:01:36,400
+Rapidement, les insuffisances cardiaques sont plusieurs.
+
+33
+00:01:36,740 --> 00:01:38,520
+On les classe en insuffisance cardiaque gauche, droite,
+
+34
+00:01:38,740 --> 00:01:39,340
+globale.
+
+35
+00:01:39,340 --> 00:01:42,240
+On les classe aussi en insuffisance cardiaque aiguë
+
+36
+00:01:42,240 --> 00:01:43,160
+ou chronique.
+
+37
+00:01:43,880 --> 00:01:48,380
+On les classe aussi en insuffisance cardiaque diastolique
+
+38
+00:01:48,380 --> 00:01:49,400
+ou systolique.
+
+39
+00:01:50,280 --> 00:01:55,480
+Et que, pour faire une approche correcte du
+
+40
+00:01:55,480 --> 00:01:59,100
+traitement, il faut rappeler la notion de base,
+
+41
+00:01:59,640 --> 00:02:02,660
+sur le plan physiopathologique, qui dit que le
+
+42
+00:02:02,660 --> 00:02:04,620
+débit cardiaque, c'est le produit du volume
+
+43
+00:02:04,620 --> 00:02:06,420
+éjecté et de la fréquence cardiaque.
+
+44
+00:02:06,520 --> 00:02:08,740
+Et de là, on peut sortir les déterminants
+
+45
+00:02:08,740 --> 00:02:10,440
+du débit cardiaque qu'on a vus ensemble
+
+46
+00:02:10,440 --> 00:02:12,540
+en physiologie, l'après-charge, la post-charge,
+
+47
+00:02:12,640 --> 00:02:16,180
+la contractivité et, bien sûr, la fréquence cardiaque.
+
+48
+00:02:16,700 --> 00:02:19,400
+Avant, on parlait d'insuffisance cardiaque à débit
+
+49
+00:02:19,400 --> 00:02:21,660
+élevé, à débit abaissé.
+
+50
+00:02:22,660 --> 00:02:28,040
+Maintenant, plutôt, on parle d'insuffisance cardiaque, comme
+
+51
+00:02:28,040 --> 00:02:29,120
+j'ai dit tout à l'heure, systolique,
+
+52
+00:02:29,180 --> 00:02:34,380
+diastolique, plutôt insuffisance cardiaque à fraction d'éjection
+
+53
+00:02:34,380 --> 00:02:37,900
+altérée et insuffisance cardiaque à fraction d'éjection
+
+54
+00:02:37,900 --> 00:02:38,460
+préservée.
+
+55
+00:02:38,460 --> 00:02:41,100
+L'insuffisance cardiaque à fraction d'éjection préservée
+
+56
+00:02:41,100 --> 00:02:43,940
+va remplacer l'insuffisance cardiaque diastolique, dans laquelle
+
+57
+00:02:43,940 --> 00:02:46,380
+le ventricule gauche arrive à éjecter, mais il
+
+58
+00:02:46,380 --> 00:02:47,180
+ne se relâche pas bien.
+
+59
+00:02:48,000 --> 00:02:50,120
+Et l'insuffisance cardiaque à fraction d'éjection
+
+60
+00:02:50,120 --> 00:02:52,060
+altérée, dans laquelle c'est le muscle cardiaque
+
+61
+00:02:52,060 --> 00:02:54,820
+qui est responsable de la diminution du débit
+
+62
+00:02:54,820 --> 00:02:56,900
+cardiaque et, donc, décide l'insuffisance cardiaque par
+
+63
+00:02:56,900 --> 00:02:57,340
+la suite.
+
+64
+00:02:58,060 --> 00:02:59,960
+Et là, ça va remplacer l'insuffisance cardiaque
+
+65
+00:02:59,960 --> 00:03:00,480
+systolique.
+
+66
+00:03:00,480 --> 00:03:06,140
+Alors, le plus important à retenir dans l
+
+67
+00:03:06,140 --> 00:03:08,460
+'avancée des connaissances en matière d'insuffisance cardiaque,
+
+68
+00:03:08,520 --> 00:03:10,380
+c'est qu'on a compris l'importance
+
+69
+00:03:10,380 --> 00:03:12,660
+du cercle vicieux dans lequel se retrouve le
+
+70
+00:03:12,660 --> 00:03:13,760
+patient insuffisant cardiaque.
+
+71
+00:03:13,760 --> 00:03:16,660
+A partir d'un problème hémodynamique, de dysfonction
+
+72
+00:03:16,660 --> 00:03:20,800
+ventriculaire, il y a, suite aussi à une
+
+73
+00:03:20,800 --> 00:03:23,100
+dipoperfusion, etc., il y a une mise en
+
+74
+00:03:23,100 --> 00:03:27,800
+jeu, au début normale et puis excessive, des
+
+75
+00:03:27,800 --> 00:03:30,620
+mécanismes régulateurs de la pression artérielle, dans lesquels
+
+76
+00:03:30,620 --> 00:03:33,680
+rentre le système sympathique, le système réuni d
+
+77
+00:03:33,680 --> 00:03:35,780
+'angiotensines, d'intostérone et d'autres.
+
+78
+00:03:35,780 --> 00:03:37,960
+Et ces mécanismes, une fois qu'ils sont
+
+79
+00:03:37,960 --> 00:03:42,260
+stimulés de façon excessive et prolongée, ils entraînent
+
+80
+00:03:42,260 --> 00:03:44,440
+un stress oxydatif pour le cœur, ils entraînent
+
+81
+00:03:44,440 --> 00:03:47,420
+des modifications, une augmentation de la fibrose cardiaque,
+
+82
+00:03:48,100 --> 00:03:52,640
+ils favorisent l'apoptose cardiaque, le remodelage du
+
+83
+00:03:52,640 --> 00:03:56,180
+ventricule gauche et, donc, l'altération davantage de
+
+84
+00:03:56,180 --> 00:04:00,120
+la fonction systolique du cœur et ainsi de
+
+85
+00:04:00,120 --> 00:04:00,300
+suite.
+
+86
+00:04:00,300 --> 00:04:02,060
+Et, donc, le malade rentre dans un cercle
+
+87
+00:04:02,060 --> 00:04:05,200
+vicieux qu'il va falloir absolument couper pour
+
+88
+00:04:05,200 --> 00:04:07,280
+pouvoir améliorer son pronostic.
+
+89
+00:04:07,280 --> 00:04:09,340
+Sur le plan clinique, c'est simple de
+
+90
+00:04:09,340 --> 00:04:13,080
+rappeler que les mécanismes de rétention hydrosodée, ce
+
+91
+00:04:13,080 --> 00:04:16,120
+qu'on appelle les signes congestifs, apparaissent suite
+
+92
+00:04:16,120 --> 00:04:20,720
+aux mécanismes adaptatifs qui cherchent à maintenir un
+
+93
+00:04:20,720 --> 00:04:21,920
+débit cardiaque normal.
+
+94
+00:04:21,920 --> 00:04:25,260
+Donc, si le volume éjecté est diminué, il
+
+95
+00:04:25,260 --> 00:04:30,740
+y aura certainement une anomalie de réabsorption, bien
+
+96
+00:04:30,740 --> 00:04:32,800
+sûr, du liquide au niveau capillaire et, donc,
+
+97
+00:04:33,540 --> 00:04:38,220
+des signes de rétention hydrosodée, une augmentation de
+
+98
+00:04:38,220 --> 00:04:40,680
+la surcharge pour le ventricule et, de l
+
+99
+00:04:40,680 --> 00:04:42,840
+'autre côté, la fréquence cardiaque va s'accélérer,
+
+100
+00:04:42,920 --> 00:04:44,280
+le malade va avoir une taquicardie.
+
+101
+00:04:45,000 --> 00:04:47,000
+Et, à un stade avancé, quand la pression
+
+102
+00:04:47,000 --> 00:04:50,700
+artérielle chute, diminue, ça entraîne une vasoconstriction périphérique
+
+103
+00:04:50,700 --> 00:04:53,660
+qui est une postcharge élevée pour le cœur,
+
+104
+00:04:53,740 --> 00:04:54,720
+donc ça aggrave les choses.
+
+105
+00:04:54,720 --> 00:04:58,440
+Enfin, on a compris aussi l'importance du
+
+106
+00:04:58,440 --> 00:05:00,520
+stress que subit le cœur suite à la
+
+107
+00:05:00,520 --> 00:05:03,600
+pression élevée à l'intérieur du cœur.
+
+108
+00:05:04,000 --> 00:05:08,240
+La pression entraîne une libération à partir des
+
+109
+00:05:08,240 --> 00:05:11,980
+cœurs de myocytes d'une molécule, d'une
+
+110
+00:05:11,980 --> 00:05:15,820
+peptide qui s'appelle le BNP, qu'on
+
+111
+00:05:15,820 --> 00:05:18,580
+peut doser sous sa forme NT pro BNP
+
+112
+00:05:18,580 --> 00:05:22,740
+ou BNP et dont le dosage reflète tout
+
+113
+00:05:22,740 --> 00:05:26,640
+simplement une souffrance myocardique suite à une augmentation
+
+114
+00:05:26,640 --> 00:05:29,380
+des conditions de charge et, donc, à des
+
+115
+00:05:29,380 --> 00:05:30,540
+signes d'insuffisance cardiaque.
+
+116
+00:05:30,540 --> 00:05:33,460
+Donc, ça peut aussi être un moyen clinique,
+
+117
+00:05:34,020 --> 00:05:38,040
+biologique plutôt, de diagnostic de l'insuffisance cardiaque.
+
+118
+00:05:38,640 --> 00:05:40,840
+Pourquoi le cœur libère le BNP ?
+
+119
+00:05:40,840 --> 00:05:44,360
+Pour pouvoir baisser un peu la pression qui
+
+120
+00:05:44,360 --> 00:05:46,040
+règne à l'intérieur du ventricule gauche et
+
+121
+00:05:46,040 --> 00:05:50,800
+qui l'empêche de fonctionner dans des conditions
+
+122
+00:05:50,800 --> 00:05:51,540
+de charge normales.
+
+123
+00:05:51,540 --> 00:05:54,620
+Et donc, ceci va avoir par exemple un
+
+124
+00:05:54,620 --> 00:05:57,520
+effet natriurétique au niveau rénal, un effet vasodilatateur
+
+125
+00:05:57,520 --> 00:06:00,940
+périphérique, mais ces effets, bien sûr, seront largement
+
+126
+00:06:00,940 --> 00:06:04,220
+dépassés par les mécanismes mis en jeu d
+
+127
+00:06:04,220 --> 00:06:08,520
+'hormonaux qui vont tendre à aggraver plutôt l
+
+128
+00:06:08,520 --> 00:06:10,040
+'insuffisance cardiaque.
+
+129
+00:06:10,620 --> 00:06:14,520
+Ainsi, la stimulation excessive, adaptative et excessive du
+
+130
+00:06:14,520 --> 00:06:18,140
+système vérinogétencine devient délétérale à la langue, entraîne
+
+131
+00:06:18,140 --> 00:06:19,700
+ce qu'on appelle un remodelage du ventricule
+
+132
+00:06:19,700 --> 00:06:20,760
+gauche, c'est vraiment important.
+
+133
+00:06:21,300 --> 00:06:23,600
+Le remodelage, c'est le cœur qui change
+
+134
+00:06:23,600 --> 00:06:25,840
+de forme et qui devient de plus en
+
+135
+00:06:25,840 --> 00:06:26,500
+plus sphérique.
+
+136
+00:06:27,060 --> 00:06:31,540
+Et donc, vous le savez, la performance du
+
+137
+00:06:31,540 --> 00:06:32,840
+cœur est liée plutôt à sa forme.
+
+138
+00:06:32,980 --> 00:06:34,820
+Plus il est sphérique, moins il est performant.
+
+139
+00:06:34,820 --> 00:06:38,860
+Et donc, un des cibles thérapeutiques actuellement, c
+
+140
+00:06:38,860 --> 00:06:41,040
+'est de limiter ce remodelage, voire d'entraîner
+
+141
+00:06:41,040 --> 00:06:43,920
+un remodelage inverse, un retour à la situation
+
+142
+00:06:43,920 --> 00:06:48,840
+initiale, et de bloquer le système vérinogétencine qui
+
+143
+00:06:48,840 --> 00:06:52,140
+entraîne des effets délétères sur ce remodelage, et
+
+144
+00:06:52,140 --> 00:06:53,700
+bien sûr sur le cœur en entraînant une
+
+145
+00:06:53,700 --> 00:06:57,600
+fibrose cardiaque, et sur, bien sûr, la postcharge
+
+146
+00:06:57,600 --> 00:06:59,080
+en entraînant une vasoconstriction.
+
+147
+00:06:59,080 --> 00:07:02,960
+En conséquence aérodynamique, on obtiendra deux tableaux cliniques.
+
+148
+00:07:03,140 --> 00:07:05,520
+Un tableau gauche, quand les pressions de remplissage
+
+149
+00:07:05,520 --> 00:07:08,220
+gauche augmentent, la pression capillaire pulmonaire augmente, et
+
+150
+00:07:08,220 --> 00:07:11,620
+donc vous aurez la présence de sérosité d
+
+151
+00:07:11,620 --> 00:07:13,860
+'œdème tout simplement au niveau interstitiel et puis
+
+152
+00:07:13,860 --> 00:07:15,060
+alvéolaire pulmonaire.
+
+153
+00:07:15,680 --> 00:07:18,080
+Et un tableau droit, qui est secondaire à
+
+154
+00:07:18,080 --> 00:07:19,500
+l'augmentation de la pression cette fois-ci,
+
+155
+00:07:19,560 --> 00:07:21,600
+du côté droit, dans le système veine-cave
+
+156
+00:07:21,600 --> 00:07:24,320
+supérieur, qui est donc du ressenti vésiculaire, et
+
+157
+00:07:24,320 --> 00:07:27,760
+inférieur, qui va donner les œdèmes, l'acide,
+
+158
+00:07:27,880 --> 00:07:28,080
+etc.
+
+159
+00:07:29,480 --> 00:07:31,800
+Les différentes étapes qu'il faut suivre quand
+
+160
+00:07:31,800 --> 00:07:33,940
+on prend en charge un insubstant cardiaque, savoir
+
+161
+00:07:33,940 --> 00:07:36,560
+poser le diagnostic positif, après chercher l'étiologie,
+
+162
+00:07:37,480 --> 00:07:38,880
+chercher les comorbidités parce qu'il y a
+
+163
+00:07:38,880 --> 00:07:40,740
+un agréable pronostic du malade, s'il a
+
+164
+00:07:40,740 --> 00:07:42,800
+fait une décompensation, il faut absolument trouver le
+
+165
+00:07:42,800 --> 00:07:45,820
+facteur décompensation pour éviter la récidive, et puis
+
+166
+00:07:45,820 --> 00:07:49,300
+établir un pronostic et commencer un traitement pharmacologique
+
+167
+00:07:49,300 --> 00:07:50,380
+et non pharmacologique.
+
+168
+00:07:50,380 --> 00:07:52,960
+Alors le diagnostic, ça se base sur les
+
+169
+00:07:52,960 --> 00:07:55,360
+signes cliniques et éventuellement les données de l
+
+170
+00:07:55,360 --> 00:07:57,020
+'écho, qui va nous permettre de savoir est
+
+171
+00:07:57,020 --> 00:08:00,340
+-ce qu'on est devant une insubstance cardiaque,
+
+172
+00:08:00,380 --> 00:08:02,120
+infraction, déchiruration, préservée ou altérée.
+
+173
+00:08:03,900 --> 00:08:05,860
+L'insubstance cardiaque droite, elle est facile à
+
+174
+00:08:05,860 --> 00:08:06,600
+diagnostiquer.
+
+175
+00:08:17,260 --> 00:08:19,700
+Mais est-ce que le diagnostic d'insubstance
+
+176
+00:08:19,700 --> 00:08:21,000
+cardiaque est aussi simple ?
+
+177
+00:08:21,000 --> 00:08:23,280
+Malheureusement non, parce que les signes cliniques qui
+
+178
+00:08:23,280 --> 00:08:26,640
+vont amener à consulter ou qui vont amener
+
+179
+00:08:26,640 --> 00:08:29,140
+à chercher par un médecin les signes d
+
+180
+00:08:29,140 --> 00:08:32,000
+'insubstance cardiaque, à part les signes flagrants comme
+
+181
+00:08:32,000 --> 00:08:34,100
+les œdèmes très importants, l'acide, l'urgence,
+
+182
+00:08:34,299 --> 00:08:35,380
+comme vous avez dit tout à l'heure,
+
+183
+00:08:35,380 --> 00:08:38,720
+les signes classiques comme la dyspnée, l'orthopnée,
+
+184
+00:08:39,480 --> 00:08:42,299
+la tachycardie, même la présence d'orales crépitants,
+
+185
+00:08:42,880 --> 00:08:45,380
+etc., sont dotés d'une sensibilité et de
+
+186
+00:08:45,380 --> 00:08:48,480
+spécificité pas très importante, disons que quelques-uns,
+
+187
+00:08:48,580 --> 00:08:51,120
+par exemple le bruit de galop, oui, il
+
+188
+00:08:51,120 --> 00:08:52,500
+a une spécificité très élevée.
+
+189
+00:08:52,500 --> 00:09:01,140
+L'orthopnée, l'orthopnée, l'orthopnée, l'orthopnée,
+
+190
+00:09:01,140 --> 00:09:09,740
+l'orthopnée, l'orthopnée, l
+
+191
+00:09:09,740 --> 00:09:16,440
+'orthopnée, l'orthopnée, l'orthopnée, l'orthopnée, l
+
+192
+00:09:16,440 --> 00:09:17,380
+'orthopnée, l'orthopnée, l'orthopnée, l'orthopnée, l
+
+193
+00:09:17,380 --> 00:09:18,260
+'orthopnée, l'orthopnée, l'orthopnée, l'orthopnée, l
+
+194
+00:09:18,260 --> 00:09:18,360
+'orthopnée, l'orthopnée, l'orthopnée, l'orthopnée, l
+
+195
+00:09:18,360 --> 00:09:18,460
+'orthopnée, l'orthopnée, l'orthopnée, l'orthopnée, l
+
+196
+00:09:18,460 --> 00:09:20,260
+'orthopnée, l'orthopnée, l'orthopnée, l'orthopnée, l
+
+197
+00:09:20,260 --> 00:09:51,650
+'orthopnée, l'orthop l
+
+198
+00:09:51,650 --> 00:09:55,980
+'orthopnée, l'orthopnée, l'orthopnée, l'orthopnée, l
+
+199
+00:09:55,980 --> 00:09:56,080
+'orthopnée, l'orthopnée, l'orthopnée, l'orthopnée, l
+
+200
+00:09:56,080 --> 00:09:56,180
+'orthopnée, l'orthopnée, l'orthopnée, l'orthopnée, l
+
+201
+00:09:56,180 --> 00:09:56,280
+'orthopnée, l'orthopnée, l'orthopnée, l'orthopnée, l
+
+202
+00:09:56,280 --> 00:09:56,380
+'orthopnée, l'orthopnée, l'orthopnée, l'orthopnée, l
+
+203
+00:09:56,380 --> 00:09:56,480
+'orthopnée, l'orthopnée, l'orthopnée, l'orthopnée, l
+
+204
+00:09:56,480 --> 00:09:56,580
+'orthopnée, l'orthopnée, l'orthopnée, l'orthopnée, l
+
+205
+00:09:56,580 --> 00:09:56,680
+'orthopnée, l'orthopnée, l'orthopnée, l'orthop l
+
+206
+00:09:56,680 --> 00:10:05,520
+'orthopnée, l'orthopnée, l'orthopnée, l'orthopnée, l
+
+207
+00:10:05,520 --> 00:10:08,560
+'orthopnée, l'orthopnée, l'orthopnée, l'orthopnée, l
+
+208
+00:10:08,560 --> 00:10:08,800
+'orthopnée, l'orthopnée, l'orthopnée, l'orthopnée, l
+
+209
+00:10:08,800 --> 00:10:09,580
+'orthopnée, l'orthopnée, l'orthopnée, l'orthopnée, l
+
+210
+00:10:09,580 --> 00:10:10,280
+'orthopnée, l'orthopnée, l'orthopnée, l'orthopnée, l
+
+211
+00:10:10,280 --> 00:10:10,800
+'orthopnée, l'orthopnée, l'orthopnée, l'orthopnée, l
+
+212
+00:10:10,800 --> 00:10:12,660
+'orthopnée, l'orthopnée, l'orthopnée, l'orthopnée, l
+
+213
+00:10:12,660 --> 00:10:24,720
+'orthopnée, l'orthopnée, l'orthopnée, l
+
+214
+00:10:24,720 --> 00:10:29,200
+'orthop d'insuffisance cardiaque et le laisser retarder
+
+215
+00:10:29,200 --> 00:10:30,400
+son diagnostic.
+
+216
+00:10:30,660 --> 00:10:33,700
+D'où il faut vraiment faire attention et
+
+217
+00:10:33,700 --> 00:10:35,080
+bien examiner le malade.
+
+218
+00:10:35,940 --> 00:10:37,960
+Alors classiquement vous trouverez les signes, les critères
+
+219
+00:10:37,960 --> 00:10:41,240
+de Framingham pour poser le diagnostic d'insuffisance
+
+220
+00:10:41,240 --> 00:10:43,300
+cardiaque dans lesquels il y a des critères
+
+221
+00:10:43,300 --> 00:10:45,900
+majeurs et mineurs et donc c'est tout
+
+222
+00:10:45,900 --> 00:10:50,640
+simplement une classification des signes et des symptômes
+
+223
+00:10:50,640 --> 00:10:54,000
+et signes selon leur sensibilité, spécificité comme on
+
+224
+00:10:54,000 --> 00:10:54,640
+vient de le voir.
+
+225
+00:10:56,060 --> 00:11:00,120
+Les recommandations européennes demandent absolument pour proposer le
+
+226
+00:11:00,120 --> 00:11:02,800
+diagnostic d'insuffisance cardiaque notamment à fraction d
+
+227
+00:11:02,800 --> 00:11:05,540
+'éjection altérée qu'il y ait des symptômes
+
+228
+00:11:05,540 --> 00:11:10,280
+typiques, des signes typiques et fraction d'éjection
+
+229
+00:11:10,280 --> 00:11:10,800
+altérée.
+
+230
+00:11:11,880 --> 00:11:14,020
+Et la même histoire pour l'insuffisance cardiaque
+
+231
+00:11:14,020 --> 00:11:18,960
+à fraction d'éjection préservée, symptômes typiques, signes
+
+232
+00:11:18,960 --> 00:11:21,660
+typiques et puis à l'écho une fraction
+
+233
+00:11:21,660 --> 00:11:26,500
+d'éjection normale mais une anomalie cardiaque qui
+
+234
+00:11:26,500 --> 00:11:29,240
+prédispose à l'insuffisance cardiaque diastolique notamment une
+
+235
+00:11:29,240 --> 00:11:31,140
+HVG, une oreille gauche dilatée etc.
+
+236
+00:11:32,540 --> 00:11:34,800
+Alors est-ce que la radiographie du thorax
+
+237
+00:11:34,800 --> 00:11:35,300
+peut aider?
+
+238
+00:11:36,240 --> 00:11:38,880
+Oui en montrant une cardiomégalie mais c'est
+
+239
+00:11:38,880 --> 00:11:42,040
+pas toujours fréquent et des fois on est
+
+240
+00:11:42,040 --> 00:11:45,380
+devant une fausse cardiomégalie donc la radiographie du
+
+241
+00:11:45,380 --> 00:11:49,040
+thorax on peut la faire si on n
+
+242
+00:11:49,040 --> 00:11:52,620
+'a pas d'autres éléments à notre disposition
+
+243
+00:11:52,620 --> 00:11:54,880
+sinon peut-être on l'a fait aussi
+
+244
+00:11:54,880 --> 00:11:56,880
+pour éliminer d'autres causes d'une dyspnée
+
+245
+00:11:56,880 --> 00:11:58,080
+notamment au respiratoire.
+
+246
+00:11:58,860 --> 00:12:01,320
+Alors l'ECG il est souvent anormal, soit
+
+247
+00:12:01,320 --> 00:12:04,380
+une tachycardie soit une hypertrophie d'une cavité
+
+248
+00:12:04,380 --> 00:12:06,160
+à une autre soit des troubles de conduction
+
+249
+00:12:06,160 --> 00:12:08,240
+ou de rythme il est très rare d
+
+250
+00:12:08,240 --> 00:12:10,600
+'avoir un ECG normal dans le cadre d
+
+251
+00:12:10,600 --> 00:12:11,560
+'une insuffisance cardiaque.
+
+252
+00:12:12,460 --> 00:12:14,960
+D'ailleurs vous le voyez ici rarement normal
+
+253
+00:12:14,960 --> 00:12:18,200
+c'est aux alentours de 2% 5%.
+
+254
+00:12:18,200 --> 00:12:20,740
+Alors ce tableau relate un peu toutes les
+
+255
+00:12:20,740 --> 00:12:22,500
+anomalies qu'on peut trouver sur l'ECG,
+
+256
+00:12:22,800 --> 00:12:24,760
+vous n'êtes pas censé les apprendre bien
+
+257
+00:12:24,760 --> 00:12:26,080
+sûr par cœur, ça vous donne une idée
+
+258
+00:12:26,080 --> 00:12:30,340
+sur par exemple quand on trouve une tachycardie
+
+259
+00:12:30,340 --> 00:12:33,260
+sinusale on cherche un peu est-ce que
+
+260
+00:12:33,260 --> 00:12:36,600
+par exemple le patient a une décompensation récente,
+
+261
+00:12:36,800 --> 00:12:38,460
+est-ce qu'en plus de son insuffisance
+
+262
+00:12:38,460 --> 00:12:40,280
+cardiaque il a une anémie, il a de
+
+263
+00:12:40,280 --> 00:12:41,260
+la fièvre, il y a des causes qui
+
+264
+00:12:41,260 --> 00:12:46,920
+augmentent la fréquence cardiaque, la même analyse on
+
+265
+00:12:46,920 --> 00:12:48,320
+peut la faire que si le malade par
+
+266
+00:12:48,320 --> 00:12:50,220
+exemple a une bradycardie, s'il a une
+
+267
+00:12:50,220 --> 00:12:53,560
+fibrillation auriculaire, s'il a des troubles de
+
+268
+00:12:53,560 --> 00:12:58,540
+rythme ventriculaire on évoquera une origine coronaire, une
+
+269
+00:12:58,540 --> 00:13:01,300
+ischémie myocardique, une myocardite, une myocardie cardiomyopathique, etc.
+
+270
+00:13:02,160 --> 00:13:04,920
+Quand il a des ondes de nécrose on
+
+271
+00:13:04,920 --> 00:13:08,360
+évoquera une cardiomyopathie ischémique ou alors une cardiopathie
+
+272
+00:13:08,360 --> 00:13:09,060
+hypertrophique.
+
+273
+00:13:10,180 --> 00:13:14,620
+Donc l'ECG il est souvent anormal, mais
+
+274
+00:13:14,620 --> 00:13:16,120
+aussi les anomalies qu'on retrouve sur l
+
+275
+00:13:16,120 --> 00:13:20,680
+'ECG nous aident à soit évoquer des causes,
+
+276
+00:13:20,900 --> 00:13:23,740
+soit s'orienter vers une éthiologie, soit tout
+
+277
+00:13:23,740 --> 00:13:28,600
+simplement à imaginer un traitement particulier, on va
+
+278
+00:13:28,600 --> 00:13:30,280
+voir ça dans la partie traitement.
+
+279
+00:13:31,080 --> 00:13:33,920
+Alors l'écho il est indispensable dans le
+
+280
+00:13:33,920 --> 00:13:35,560
+cas d'une insuffisance cardiaque, en mesurant la
+
+281
+00:13:35,560 --> 00:13:37,840
+fraction d'éjection, la taille des cavités cardiaques
+
+282
+00:13:37,840 --> 00:13:41,000
+et bien sûr éventuellement une cause, notamment une
+
+283
+00:13:41,000 --> 00:13:41,680
+valvulopathie.
+
+284
+00:13:42,280 --> 00:13:43,620
+Ou alors elle permet au moins d'aider
+
+285
+00:13:43,620 --> 00:13:47,580
+à classer une insuffisance cardiaque dans des formes
+
+286
+00:13:47,580 --> 00:13:49,740
+par exemple si le ventricule est dilaté on
+
+287
+00:13:49,740 --> 00:13:51,960
+parle de cardiomyopathie dilatée, si le ventricule est
+
+288
+00:13:51,960 --> 00:13:55,700
+hypertrophié on parlera de cardiomyopathie hypertrophique, ainsi de
+
+289
+00:13:55,700 --> 00:13:55,880
+suite.
+
+290
+00:13:57,240 --> 00:14:00,120
+Dans la biologie, le premier élément important c
+
+291
+00:14:00,120 --> 00:14:04,220
+'est le dosage de la peptide BMP, son
+
+292
+00:14:04,220 --> 00:14:09,360
+taux augmente de façon parallèle et corrélée à
+
+293
+00:14:09,360 --> 00:14:13,400
+l'importance de la décompensation cardiaque, et cette
+
+294
+00:14:13,400 --> 00:14:15,940
+hormone, la peptide natriurétique qui a été développée
+
+295
+00:14:15,940 --> 00:14:18,200
+depuis longtemps, il y a plusieurs formes, mais
+
+296
+00:14:18,200 --> 00:14:21,000
+c'est la peptide natriurétique B qui nous
+
+297
+00:14:21,000 --> 00:14:24,000
+intéresse, parce que c'est elle qui est
+
+298
+00:14:24,000 --> 00:14:25,540
+plus souvent secrétée par le coeur.
+
+299
+00:14:26,680 --> 00:14:31,500
+Alors une fois la pression de remplissage ou
+
+300
+00:14:31,500 --> 00:14:36,260
+la pression augmente dans le coeur, il y
+
+301
+00:14:36,260 --> 00:14:39,280
+a un stress pariétal qui fait libérer le
+
+302
+00:14:39,280 --> 00:14:42,880
+BMP, donc l'augmentation de BMP ne nous
+
+303
+00:14:42,880 --> 00:14:45,520
+renseigne pas sur le type de dysfonction, est
+
+304
+00:14:45,520 --> 00:14:46,980
+-ce qu'il est systolique ou diastolique, est
+
+305
+00:14:46,980 --> 00:14:47,920
+-ce qu'il y a une valvulopathie ou
+
+306
+00:14:47,920 --> 00:14:50,800
+autre, non, elle nous aide simplement à poser
+
+307
+00:14:50,800 --> 00:14:54,420
+le diagnostic positif et aussi le diagnostic de
+
+308
+00:14:54,420 --> 00:14:57,100
+sévérité, le diagnostic étiologique ne peut pas le
+
+309
+00:14:57,100 --> 00:14:57,900
+faire avec le BMP.
+
+310
+00:14:59,320 --> 00:15:03,480
+Alors aux urgences, BMP est certainement utile et
+
+311
+00:15:03,480 --> 00:15:05,900
+très intéressant et notamment avec le développement actuellement
+
+312
+00:15:05,900 --> 00:15:09,040
+du kit de mesure du BMP qui donne
+
+313
+00:15:09,040 --> 00:15:15,280
+des mesures pratiquement instantanées, une valeur normale du
+
+314
+00:15:15,280 --> 00:15:19,200
+BMP est une valeur prédictive négative excellente, elle
+
+315
+00:15:19,200 --> 00:15:20,960
+permet d'éliminer, si le BMP n'est
+
+316
+00:15:20,960 --> 00:15:22,720
+pas élevé, il n'y a pas d
+
+317
+00:15:22,720 --> 00:15:26,440
+'insuffisance cardiaque et si il est positif, il
+
+318
+00:15:26,440 --> 00:15:30,100
+faut bien sûr avoir une probabilité clinique élevée,
+
+319
+00:15:30,400 --> 00:15:33,420
+sinon le BMP peut augmenter pour d'autres
+
+320
+00:15:33,420 --> 00:15:35,320
+raisons autres que cardiaque.
+
+321
+00:15:38,020 --> 00:15:41,360
+Alors les recommandations demandent à ce que l
+
+322
+00:15:41,360 --> 00:15:45,320
+'on fasse un examen clinique, un ECG, éventuellement
+
+323
+00:15:45,320 --> 00:15:47,840
+une radiographie du thorax, si on a fait
+
+324
+00:15:47,840 --> 00:15:52,680
+le BMP en premier, si il est élevé,
+
+325
+00:15:53,100 --> 00:15:56,540
+par exemple plus de 300 pour le NT
+
+326
+00:15:56,540 --> 00:16:00,000
+PRO BMP, 100 pour le BMP et que
+
+327
+00:16:00,000 --> 00:16:03,100
+l'ECG en plus est anormal, la probabilité
+
+328
+00:16:03,100 --> 00:16:04,820
+est importante que ce soit une insuffisance cardiaque,
+
+329
+00:16:04,900 --> 00:16:06,300
+on va à l'écho et on confirme.
+
+330
+00:16:07,340 --> 00:16:10,660
+Si l'ECG est normal, BMP ou NT
+
+331
+00:16:10,660 --> 00:16:13,360
+PRO BMP sont normaux, on peut s'arrêter
+
+332
+00:16:13,360 --> 00:16:17,140
+là et chercher une autre explication à la
+
+333
+00:16:17,140 --> 00:16:17,420
+disposition.
+
+334
+00:16:18,040 --> 00:16:19,820
+Si on a fait l'écho en premier,
+
+335
+00:16:20,280 --> 00:16:23,160
+on peut compléter par le BMP simplement pour,
+
+336
+00:16:23,180 --> 00:16:26,120
+disons, évaluer le pronostic.
+
+337
+00:16:27,340 --> 00:16:29,380
+Alors toujours dans l'examen paraclinique, qu'est
+
+338
+00:16:29,380 --> 00:16:31,900
+-ce qui est recommandé chez un insuffisance cardiaque,
+
+339
+00:16:32,040 --> 00:16:38,200
+une échocardiographie est importante, NECG, douze dérivations, un
+
+340
+00:16:38,200 --> 00:16:42,380
+bilan biologique comprenant la natrimie, la calémie, la
+
+341
+00:16:42,380 --> 00:16:46,580
+calcémie, une urécréate, un dosage de transaminase, un
+
+342
+00:16:46,580 --> 00:16:49,640
+dosage de la féritine, souvent les insuffisants cardiaques
+
+343
+00:16:49,640 --> 00:16:51,440
+ont de l'anémie, il faut la corriger,
+
+344
+00:16:52,460 --> 00:16:56,700
+un dosage de TSH, T3, T4, ça c
+
+345
+00:16:56,700 --> 00:16:59,680
+'est des choses qui sont utiles pour le
+
+346
+00:16:59,680 --> 00:17:03,950
+bilan d'un insuffisance cardiaque et notamment la
+
+347
+00:17:03,950 --> 00:17:06,569
+recherche d'une anémie, pour les autres, le
+
+348
+00:17:06,569 --> 00:17:11,170
+BMP ça dépend, si on n'a pas
+
+349
+00:17:11,170 --> 00:17:13,250
+accès à l'écho, on peut faire le
+
+350
+00:17:13,250 --> 00:17:16,089
+BMP en premier, soit pour éliminer ou alors
+
+351
+00:17:16,089 --> 00:17:19,550
+pour renforcer l'éventualité de l'insuffisance cardiaque
+
+352
+00:17:19,550 --> 00:17:21,990
+et envoyer le malade par la suite vers
+
+353
+00:17:21,990 --> 00:17:28,130
+un centre où il pourra bénéficier de l
+
+354
+00:17:28,130 --> 00:17:29,130
+'échocardiographie.
+
+355
+00:17:30,610 --> 00:17:32,790
+Pour la radiographie du thorax, à moins qu
+
+356
+00:17:32,790 --> 00:17:35,290
+'on suspecte une pathologie pulmonaire, c'est pas
+
+357
+00:17:35,290 --> 00:17:38,450
+forcément un examen indispensable, maintenant si votre patient
+
+358
+00:17:38,450 --> 00:17:41,650
+présente des signes de congestion gauche, il serait
+
+359
+00:17:41,650 --> 00:17:42,650
+intéressant de faire la radio.
+
+360
+00:17:43,630 --> 00:17:45,830
+L'IRM cardiaque commence à s'imposer de
+
+361
+00:17:45,830 --> 00:17:47,710
+plus en plus dans le bilan d'un
+
+362
+00:17:47,710 --> 00:17:52,410
+insuffisance cardiaque, notamment dans le bilan éthiologique, donc
+
+363
+00:17:52,410 --> 00:17:54,890
+ça, ça se demande en général dans des
+
+364
+00:17:54,890 --> 00:17:57,670
+centres qui s'occupent de l'insuffisance cardiaque,
+
+365
+00:17:57,670 --> 00:18:01,690
+la coronagraphie sera utile si on a des
+
+366
+00:18:01,690 --> 00:18:06,490
+éléments de probabilité de maladie coronaire et les
+
+367
+00:18:06,490 --> 00:18:10,770
+tests d'ischémie aussi seront demandés en fonction
+
+368
+00:18:10,770 --> 00:18:14,790
+de la probabilité de maladie coronaire aussi, le
+
+369
+00:18:14,790 --> 00:18:17,610
+cathéterisme on ne le fait que si on
+
+370
+00:18:17,610 --> 00:18:23,230
+envisage de faire derrière une transplantation cardiaque.
+
+371
+00:18:26,680 --> 00:18:27,660
+Alors quelles sont les éthologies qu'il faut
+
+372
+00:18:27,660 --> 00:18:28,100
+retenir ?
+
+373
+00:18:28,100 --> 00:18:29,920
+Il faut savoir que la carte de myopathie
+
+374
+00:18:29,920 --> 00:18:32,180
+ischémique vient en premier lieu, c'est une
+
+375
+00:18:32,180 --> 00:18:33,260
+des causes les plus fréquentes.
+
+376
+00:18:34,480 --> 00:18:36,340
+Deuxièmement, il y a l'HTA, il y
+
+377
+00:18:36,340 --> 00:18:38,140
+a les troubles du rythme comme la CFA
+
+378
+00:18:38,140 --> 00:18:40,180
+et puis il y a l'ensemble des
+
+379
+00:18:40,180 --> 00:18:43,280
+cartes de myopathie, on va voir comment on
+
+380
+00:18:43,280 --> 00:18:45,740
+les classe, et dans l'autre contexte les
+
+381
+00:18:45,740 --> 00:18:48,420
+atteintes valvulaires, les valves myopathiques, une cause fréquente
+
+382
+00:18:48,420 --> 00:18:50,340
+d'insuffisance cardiaque.
+
+383
+00:18:50,820 --> 00:18:53,420
+Comme vous voyez ici, généralement quand on met
+
+384
+00:18:53,420 --> 00:18:56,480
+toutes les éthologies ensemble, à partir d'un
+
+385
+00:18:56,480 --> 00:18:58,140
+certain âge et en présence de facteurs de
+
+386
+00:18:58,140 --> 00:19:01,480
+risque cardiovasculaires et en l'absence par exemple
+
+387
+00:19:01,480 --> 00:19:06,060
+de valvulopathie, la maladie coronaire vient en premier
+
+388
+00:19:06,060 --> 00:19:08,580
+lieu comme cause d'insuffisance cardiaque.
+
+389
+00:19:09,160 --> 00:19:11,340
+Pour les cartes de myopathie, ils sont classés
+
+390
+00:19:11,340 --> 00:19:13,780
+en carte de myopathie hypertrophique, carte de myopathie
+
+391
+00:19:13,780 --> 00:19:19,860
+dilatée, carte de myopathie arythmogène et carte de
+
+392
+00:19:19,860 --> 00:19:21,260
+myopathie restrictive et puis il y a ceux
+
+393
+00:19:21,260 --> 00:19:22,520
+qui ne sont pas classables.
+
+394
+00:19:23,300 --> 00:19:25,760
+Ce schéma résume, on va avoir carte de
+
+395
+00:19:25,760 --> 00:19:28,060
+myopathie dilatée contre le ventriculé dilaté, carte de
+
+396
+00:19:28,060 --> 00:19:30,020
+myopathie hypertrophique contre le ventriculé à une paroi
+
+397
+00:19:30,020 --> 00:19:34,220
+hypertrophiée, contre le ventriculé à une paroi anormale
+
+398
+00:19:34,220 --> 00:19:35,980
+dite arythmogène, on parle de ce qu'on
+
+399
+00:19:35,980 --> 00:19:38,580
+appelle la dysplasie arythmogène, c'est souvent le
+
+400
+00:19:38,580 --> 00:19:41,920
+ventricule droit, ou alors carte de myopathie restrictive
+
+401
+00:19:41,920 --> 00:19:45,180
+qui à la fois donne une hypertrophie et
+
+402
+00:19:45,180 --> 00:19:49,500
+aussi une altération de la relaxation du ventricule
+
+403
+00:19:49,500 --> 00:19:49,820
+gauche.
+
+404
+00:19:50,800 --> 00:19:52,680
+Dans toutes ces cartes de myopathie, souvent ils
+
+405
+00:19:52,680 --> 00:19:55,520
+ont un contexte familial, mutation d'un gène
+
+406
+00:19:55,520 --> 00:20:02,800
+codant pour une structure du muscle cardiaque ou
+
+407
+00:20:02,800 --> 00:20:06,240
+alors des facteurs exogènes qui peuvent venir altérer
+
+408
+00:20:06,240 --> 00:20:10,520
+la relaxation et la contractilité cardiaque, altérer bien
+
+409
+00:20:10,520 --> 00:20:16,260
+sûr les mécanismes de relaxation, mécanismes ioniques et
+
+410
+00:20:16,260 --> 00:20:19,920
+activer le système hormonal qui va favoriser la
+
+411
+00:20:19,920 --> 00:20:21,960
+fibrose, la proptose, l'hypertrophie ainsi de suite
+
+412
+00:20:21,960 --> 00:20:24,480
+et donner donc finalement le tableau d'insuffisance
+
+413
+00:20:24,480 --> 00:20:29,580
+cardiaque, les complications rythmiques, athymes d'arythmie ou
+
+414
+00:20:29,580 --> 00:20:31,940
+carrément de morse phibite et les complications thromboboliques.
+
+415
+00:20:32,060 --> 00:20:35,140
+Donc on va finalement recueillir ces trois complications
+
+416
+00:20:35,140 --> 00:20:36,660
+principales dans le traitement.
+
+417
+00:20:37,500 --> 00:20:42,160
+Un exemple de carte de myopathie hypertrophique, là
+
+418
+00:20:42,160 --> 00:20:45,200
+c'est en coupe petit axe et là
+
+419
+00:20:45,200 --> 00:20:47,200
+la même carte de myopathie hypertrophique à l
+
+420
+00:20:47,200 --> 00:20:52,180
+'IRM avec on voit clairement l'obstruction intraventriculaire.
+
+421
+00:20:52,180 --> 00:20:54,900
+Là une carte de myopathie hypertrophique prédominante au
+
+422
+00:20:54,900 --> 00:20:56,760
+niveau de l'apexe.
+
+423
+00:20:57,460 --> 00:21:00,520
+Parce que les cartes de myopathie hypertrophique donnent
+
+424
+00:21:00,520 --> 00:21:03,720
+des symptômes, le plus souvent les patients sont
+
+425
+00:21:03,720 --> 00:21:05,380
+asymptomatiques, c'est ça la difficulté, c'est
+
+426
+00:21:05,380 --> 00:21:06,620
+pour ça qu'il faut aller les dépister
+
+427
+00:21:06,620 --> 00:21:09,680
+et s'ils donnent des symptômes ça va
+
+428
+00:21:09,680 --> 00:21:12,160
+être des symptômes pas spécifiques comme la dyspnée,
+
+429
+00:21:12,280 --> 00:21:14,700
+la douleur, palpitations, alors il faut un syncope
+
+430
+00:21:14,700 --> 00:21:16,340
+ou carrément on peut les récupérer après une
+
+431
+00:21:16,340 --> 00:21:20,900
+morse Pour la carte de myopathie dilatée c
+
+432
+00:21:20,900 --> 00:21:22,940
+'est défini par une dilatation de ventricule gauche
+
+433
+00:21:22,940 --> 00:21:25,460
+mais qui n'est pas secondaire à une
+
+434
+00:21:25,460 --> 00:21:31,720
+cause connue comme coronaire, hypertension, valvulopathie, carte de
+
+435
+00:21:31,720 --> 00:21:34,840
+myopathie congénitale, ça doit être une dilatation pratiquement
+
+436
+00:21:34,840 --> 00:21:36,100
+idiopathique.
+
+437
+00:21:37,020 --> 00:21:41,260
+Les causes peuvent être familiales, peuvent être toxiques,
+
+438
+00:21:41,940 --> 00:21:44,680
+prise de médicaments toxiques pour le coeur, prenez
+
+439
+00:21:44,680 --> 00:21:47,700
+l'exemple de la chimiothérapie, peut être une
+
+440
+00:21:47,700 --> 00:21:53,100
+maladie inflammatoire, peut être une postpartum, un exemple
+
+441
+00:21:53,100 --> 00:21:56,620
+de ventricule gauche dilatée, là c'est en
+
+442
+00:21:56,620 --> 00:21:59,260
+coupe 4 cavités, le risque bien sûr de
+
+443
+00:21:59,260 --> 00:22:01,780
+la carte de myopathie dilatée c'est l
+
+444
+00:22:01,780 --> 00:22:04,180
+'aggravation de l'insuffisance cardiaque, l'apparition de
+
+445
+00:22:04,180 --> 00:22:06,880
+troubles de rythme qui peuvent entraîner la mort
+
+446
+00:22:06,880 --> 00:22:11,400
+subite et en résumé pour les cartes de
+
+447
+00:22:11,400 --> 00:22:17,420
+myopathie dilatée retenir l'étiologie souvent, on peut
+
+448
+00:22:17,420 --> 00:22:19,800
+trouver des causes mais souvent indéterminées, il y
+
+449
+00:22:19,800 --> 00:22:22,620
+a toujours ça fait partie des insuffisances cardiaques
+
+450
+00:22:22,620 --> 00:22:24,980
+à fraction d'éjections altérées, souvent on trouve
+
+451
+00:22:24,980 --> 00:22:27,840
+les parois cardiaques qui sont plutôt fines et
+
+452
+00:22:27,840 --> 00:22:30,060
+non pas hypertrophiées alors que toutes les autres
+
+453
+00:22:30,060 --> 00:22:32,820
+structures sont normales, pas de valvulopathie, on fait
+
+454
+00:22:32,820 --> 00:22:34,580
+un corot, il est normal, le péricard est
+
+455
+00:22:34,580 --> 00:22:36,580
+normal, il n'est pas responsable et si
+
+456
+00:22:36,580 --> 00:22:38,140
+on fait une IRM on trouve une fibrose
+
+457
+00:22:38,140 --> 00:22:39,620
+interstitielle diffuse.
+
+458
+00:22:40,940 --> 00:22:42,860
+Alors parfois on trouve une cause comme l
+
+459
+00:22:42,860 --> 00:22:45,060
+'alcoolisme ce qui est d'ailleurs intéressant parce
+
+460
+00:22:45,060 --> 00:22:47,940
+que ça permet dans plus de 50%
+
+461
+00:22:47,940 --> 00:22:50,980
+de faire régresser cette carte de myopathie dilatée
+
+462
+00:22:50,980 --> 00:22:53,820
+une fois on a arrêté l'alcoolisme, des
+
+463
+00:22:53,820 --> 00:22:55,720
+fois on a des formes familiales qui nécessitent
+
+464
+00:22:55,720 --> 00:22:57,340
+qu'on fasse le dépistage dans le reste
+
+465
+00:22:57,340 --> 00:22:59,180
+de la famille, il y a les cartes
+
+466
+00:22:59,180 --> 00:23:01,900
+de myopathie du postpartum qui peuvent régresser dans
+
+467
+00:23:01,900 --> 00:23:04,500
+50% il y a les cartes de
+
+468
+00:23:04,500 --> 00:23:08,040
+myopathie dilatée secondaire traitement par chimiothérapie notamment les
+
+469
+00:23:08,740 --> 00:23:11,300
+anthracyclines, la doxorubicine, il y a les cartes
+
+470
+00:23:11,300 --> 00:23:15,340
+de myopathie virales qui malheureusement quand ils s
+
+471
+00:23:15,340 --> 00:23:17,980
+'installent ils sont irréversibles, donc souvent la cause
+
+472
+00:23:17,980 --> 00:23:20,240
+est l'idéopathie, l'écho reste l'examen
+
+473
+00:23:20,240 --> 00:23:29,240
+clé et on peut disons faire la difficulté
+
+474
+00:23:29,240 --> 00:23:31,100
+du diagnostic différentiel se fait avec une carte
+
+475
+00:23:31,100 --> 00:23:35,480
+de myopathie ischémique, donc coronagraphie permettra quand même
+
+476
+00:23:35,480 --> 00:23:39,300
+de trancher, le traitement actuel améliore certainement le
+
+477
+00:23:39,300 --> 00:23:40,480
+pronostic de ces patients.
+
+478
+00:23:41,620 --> 00:23:43,780
+Troisième classe des cartes de myopathie c'est
+
+479
+00:23:43,780 --> 00:23:45,940
+les cartes de myopathie arythmogènes, il faut retenir
+
+480
+00:23:45,940 --> 00:23:48,800
+surtout que ça touche plus souvent le coeur
+
+481
+00:23:48,800 --> 00:23:53,940
+droit en donnant une dysplasie, la modification ou
+
+482
+00:23:53,940 --> 00:23:56,720
+remplacement de cellules myocardiques entre les droits par
+
+483
+00:23:56,720 --> 00:24:00,820
+un tissu souvent adipeux ou fibreux ce qui
+
+484
+00:24:00,820 --> 00:24:03,920
+génère des foyers de troubles du rythme et
+
+485
+00:24:03,920 --> 00:24:08,880
+entraîne des arythmies sévères avant même que l
+
+486
+00:24:08,880 --> 00:24:10,120
+'insuffisance cardique s'installe.
+
+487
+00:24:10,720 --> 00:24:12,260
+Alors à l'ECG on a bien décrit
+
+488
+00:24:12,260 --> 00:24:14,160
+le signe que vous voyez là juste entre
+
+489
+00:24:14,160 --> 00:24:18,880
+le segment le QRS et l'onde T,
+
+490
+00:24:19,860 --> 00:24:22,920
+l'onde Y qui est une onde assez
+
+491
+00:24:22,920 --> 00:24:25,760
+caractéristique de la dysplasie arythmogène du VD.
+
+492
+00:24:26,800 --> 00:24:29,080
+Pourquoi on en parle parce que la dysplasie
+
+493
+00:24:29,080 --> 00:24:31,560
+arythmogène du VD et la carte de myopathie
+
+494
+00:24:31,560 --> 00:24:34,400
+hypertrophique que j'ai cité au début restent
+
+495
+00:24:34,400 --> 00:24:39,700
+les premières causes de morts subites chez les
+
+496
+00:24:39,700 --> 00:24:43,140
+sujets jeunes et notamment le sujet jeune sportif.
+
+497
+00:24:43,640 --> 00:24:45,640
+Donc il faut toujours aller chercher ces causes
+
+498
+00:24:45,640 --> 00:24:48,780
+là quand on fait un bilan d'un
+
+499
+00:24:48,780 --> 00:24:51,620
+sportif ou quand on fait un examen clinique
+
+500
+00:24:51,620 --> 00:24:54,800
+pour autorisation de pratique sportive.
+
+501
+00:24:55,720 --> 00:24:58,400
+Voilà à l'IRM comment apparaît le ventricule
+
+502
+00:24:58,400 --> 00:25:02,220
+droit dilaté par trémence fibrosée.
+
+503
+00:25:03,340 --> 00:25:08,620
+Enfin une cause qui est connue depuis maintenant
+
+504
+00:25:08,620 --> 00:25:11,700
+plus d'une décennie la carte de myopathie,
+
+505
+00:25:12,340 --> 00:25:14,920
+la non compaction du ventricule gauche, c'est
+
+506
+00:25:14,920 --> 00:25:23,670
+une forme on va dire d'immaturité congénitale
+
+507
+00:25:23,670 --> 00:25:25,750
+du ventricule gauche qui fait que son muscle
+
+508
+00:25:25,750 --> 00:25:28,810
+ne s'est pas développé correctement et notamment
+
+509
+00:25:28,810 --> 00:25:32,190
+il ne s'est pas compacté correctement et
+
+510
+00:25:32,190 --> 00:25:36,130
+donc il est resté une bonne partie non
+
+511
+00:25:36,130 --> 00:25:38,470
+dense, non compactée et entre la zone compactée
+
+512
+00:25:38,470 --> 00:25:40,510
+et non compactée se produit des troubles de
+
+513
+00:25:40,510 --> 00:25:40,950
+rythme.
+
+514
+00:25:41,510 --> 00:25:44,950
+Donc c'est une anomalie sarcomérique ou mitochondriale
+
+515
+00:25:44,950 --> 00:25:47,850
+spécifique de la pointe et de la paroi
+
+516
+00:25:47,850 --> 00:25:50,830
+latérale du ventricule gauche et qui est responsable
+
+517
+00:25:50,830 --> 00:25:52,250
+à la fois de troubles de rythme et
+
+518
+00:25:52,250 --> 00:25:55,070
+par la suite d'évolution vers la dilatation
+
+519
+00:25:55,070 --> 00:25:57,410
+du ventricule gauche et vers l'insuffisance cardiaque.
+
+520
+00:25:57,410 --> 00:26:00,510
+Alors les critères diagnostiques peuvent être échographiques mais
+
+521
+00:26:00,510 --> 00:26:01,590
+aussi à l'IRN.
+
+522
+00:26:02,490 --> 00:26:03,870
+Enfin il y a la carte de myopathie
+
+523
+00:26:03,870 --> 00:26:07,830
+restrictive, il y a pas mal de maladies
+
+524
+00:26:07,830 --> 00:26:12,410
+soit sarcomérique soit secondaire qui peuvent entraîner une
+
+525
+00:26:12,410 --> 00:26:15,330
+infiltration de la paroi des ventricules gauche ou
+
+526
+00:26:15,330 --> 00:26:18,130
+droite ou les deux et entraîner donc une
+
+527
+00:26:18,130 --> 00:26:23,890
+hypertrophie, une infiltration, une diminution de la relaxation
+
+528
+00:26:23,890 --> 00:26:30,590
+d'où le nom restrictive mais les ventricules
+
+529
+00:26:30,590 --> 00:26:31,550
+ne se dilatent pas.
+
+530
+00:26:33,400 --> 00:26:35,240
+Voilà un exemple d'une maladie qui entraîne
+
+531
+00:26:35,240 --> 00:26:37,200
+une carte de myopathie restrictive c'est la
+
+532
+00:26:37,200 --> 00:26:39,360
+mylose d'ailleurs actuellement elle est à la
+
+533
+00:26:39,360 --> 00:26:41,260
+tête des causes qui donne une carte de
+
+534
+00:26:41,260 --> 00:26:41,860
+myopathie restrictive.
+
+535
+00:26:43,160 --> 00:26:44,440
+Voilà ce que ça donne sur le plan
+
+536
+00:26:44,440 --> 00:26:48,000
+échographique avec un aspect scintillant du septum interventriculaire.
+
+537
+00:26:48,700 --> 00:26:50,160
+La même chose en coupe 4 cavités.
+
+538
+00:26:51,680 --> 00:26:53,220
+Voilà vous pouvez aussi classer les cartes de
+
+539
+00:26:53,220 --> 00:26:59,040
+myopathie en toxique, de surcharge, médicamenteuse familiale ou
+
+540
+00:26:59,040 --> 00:27:01,000
+virale mais la classification que je vous ai
+
+541
+00:27:01,000 --> 00:27:09,580
+donnée en hypertrophique, dilatée, restrictive, carte de non
+
+542
+00:27:09,580 --> 00:27:13,240
+compaction du VG et dysplasie arythmogène du VD
+
+543
+00:27:13,240 --> 00:27:14,660
+est la plus retenue.
+
+544
+00:27:15,260 --> 00:27:16,600
+On peut pas passer au traitement sans parler
+
+545
+00:27:16,600 --> 00:27:18,640
+du pronostic il faut savoir que le pronostic
+
+546
+00:27:18,640 --> 00:27:24,000
+déjà il est assez réservé et 50%
+
+547
+00:27:24,000 --> 00:27:26,360
+des malades évoluent vers l'insuffisance cardiaque, 50
+
+548
+00:27:26,360 --> 00:27:29,140
+% je parle des cartes de myopathie évoluent
+
+549
+00:27:29,140 --> 00:27:32,100
+vers la mort subite imprévisible d'où l
+
+550
+00:27:32,100 --> 00:27:34,600
+'intérêt de prendre en charge ces malades dans
+
+551
+00:27:34,600 --> 00:27:35,900
+un centre dédié.
+
+552
+00:27:36,560 --> 00:27:39,020
+Le pronostic de l'insuffisance cardiaque en général
+
+553
+00:27:39,020 --> 00:27:42,260
+il est limité à 5 ans la mortalité
+
+554
+00:27:42,260 --> 00:27:45,760
+est très importante heureusement les thérapeutiques actuelles permettent
+
+555
+00:27:45,760 --> 00:27:47,300
+d'améliorer nettement le pronostic.
+
+556
+00:27:48,200 --> 00:27:52,400
+Mais l'insuffisance cardiaque reste une maladie qui
+
+557
+00:27:52,400 --> 00:27:55,320
+entraîne une mortalité beaucoup plus importante que celle
+
+558
+00:27:55,320 --> 00:27:55,780
+des cancers.
+
+559
+00:27:57,480 --> 00:28:00,400
+Alors une fois on a diagnostiqué une insuffisance
+
+560
+00:28:00,400 --> 00:28:03,100
+cardiaque si le malade décompense il faut retrouver
+
+561
+00:28:03,100 --> 00:28:05,400
+les causes de décompensation qui peuvent être des
+
+562
+00:28:05,400 --> 00:28:11,240
+causes multiples, une surcharge par exemple de volume,
+
+563
+00:28:11,400 --> 00:28:13,300
+iatrogène, le malade a pris trop de sel
+
+564
+00:28:13,300 --> 00:28:16,080
+ou une insuffisance rénale, le malade a fait
+
+565
+00:28:16,080 --> 00:28:17,860
+une anémie, il a fait une infection, il
+
+566
+00:28:17,860 --> 00:28:20,180
+a fait une hyperthyroïdie, il a fait une
+
+567
+00:28:20,180 --> 00:28:22,460
+péricardite, il a fait une endocardite, il a
+
+568
+00:28:22,460 --> 00:28:27,040
+aggravé une valvulopathie etc plusieurs causes il faut
+
+569
+00:28:27,040 --> 00:28:28,380
+s'acharner à les chercher.
+
+570
+00:28:28,980 --> 00:28:33,200
+Dans la vie d'un insuffisance cardiaque ce
+
+571
+00:28:33,200 --> 00:28:34,340
+qu'on souhaite c'est qu'il reste
+
+572
+00:28:34,340 --> 00:28:36,220
+dans la phase plateau que vous voyez en
+
+573
+00:28:36,220 --> 00:28:38,140
+haut et chaque fois qu'il fait une
+
+574
+00:28:38,140 --> 00:28:42,000
+décompensation il ne revient plus à la situation
+
+575
+00:28:44,020 --> 00:28:47,600
+en tout cas clinique normale du début il
+
+576
+00:28:47,600 --> 00:28:52,440
+s'approche plus du décès donc plus les
+
+577
+00:28:52,440 --> 00:28:54,880
+décompensations se rejoignent et plus le malade se
+
+578
+00:28:54,880 --> 00:28:57,680
+dégrade d'où un des objectifs du traitement
+
+579
+00:28:57,680 --> 00:29:00,140
+c'est d'espacer au maximum les décompensations
+
+580
+00:29:00,140 --> 00:29:02,400
+voire de les éviter.
+
+581
+00:29:03,040 --> 00:29:05,620
+Les grandes lignes du traitement si c'est
+
+582
+00:29:05,620 --> 00:29:08,320
+possible de la cause on instaurera certainement des
+
+583
+00:29:08,320 --> 00:29:10,840
+règles d'hygiène diététique, une éducation thérapeutique parce
+
+584
+00:29:10,840 --> 00:29:14,120
+que ça reste une maladie chronique puis un
+
+585
+00:29:14,120 --> 00:29:16,760
+traitement médical dont on va développer essentiellement les
+
+586
+00:29:16,760 --> 00:29:20,640
+médicaments qui sont avisés pronostiques pour les connaître
+
+587
+00:29:20,640 --> 00:29:24,600
+correctement puis les autres traitements qui sont avisés
+
+588
+00:29:24,600 --> 00:29:28,220
+symptomatiques puis il y a d'autres traitements
+
+589
+00:29:28,220 --> 00:29:29,660
+de l'insuffisance cardiaque ce qu'on appelle
+
+590
+00:29:29,660 --> 00:29:32,640
+les traitements interventionnels électriques comme la mise en
+
+591
+00:29:32,640 --> 00:29:35,440
+place d'un défibrillateur, la resynchronisation comme les
+
+592
+00:29:35,440 --> 00:29:39,920
+dispositifs d'assistance circulatoire et enfin la grève
+
+593
+00:29:39,920 --> 00:29:42,160
+cardiaque et on n'oublie pas l'importance
+
+594
+00:29:42,160 --> 00:29:45,820
+que prend actuellement la réadaptation dans le traitement
+
+595
+00:29:45,820 --> 00:29:47,020
+de l'insuffisance cardiaque.
+
+596
+00:29:47,660 --> 00:29:51,240
+Schématiquement pour expliquer le rôle des médicaments sur
+
+597
+00:29:51,240 --> 00:29:55,040
+le plan hémodynamique on schématise les choses par
+
+598
+00:29:55,040 --> 00:30:00,720
+le cœur par un animal qui tire une
+
+599
+00:30:00,720 --> 00:30:02,720
+charrette et donc la charrette constitue les différents
+
+600
+00:30:02,720 --> 00:30:06,360
+charges que le ventricule doit déplacer et la
+
+601
+00:30:06,360 --> 00:30:08,640
+force de l'animal sera reflétée par la
+
+602
+00:30:08,640 --> 00:30:11,360
+contractivité donc c'est que pour améliorer les
+
+603
+00:30:11,360 --> 00:30:16,600
+choses pour un animal par exemple qui est
+
+604
+00:30:16,600 --> 00:30:19,160
+dénutri malade qui n'arrive pas à tirer
+
+605
+00:30:19,160 --> 00:30:21,900
+une charge importante soit on doit lui baisser
+
+606
+00:30:21,900 --> 00:30:25,600
+la pente en faisant une vasodilatation soit on
+
+607
+00:30:25,600 --> 00:30:28,460
+renforce mais ça les médicaments qui renforcent sa
+
+608
+00:30:28,460 --> 00:30:33,500
+contractivité sont plutôt délétères soit on le change
+
+609
+00:30:33,500 --> 00:30:34,840
+et ça c'est la transplantation.
+
+610
+00:30:36,060 --> 00:30:38,620
+Donc pour une insuffisance cardiaque aiguë on aura
+
+611
+00:30:38,620 --> 00:30:42,000
+recours aux diurétiques injectables des fois si la
+
+612
+00:30:42,000 --> 00:30:44,320
+pression artérielle est basse on a recours aux
+
+613
+00:30:44,320 --> 00:30:47,760
+inotropes si la pression le permet elle est
+
+614
+00:30:47,760 --> 00:30:50,820
+élevée on aura recours aux vasodilatateurs notamment les
+
+615
+00:30:50,820 --> 00:30:53,300
+dérivés nitrés et dans des cas de chocs
+
+616
+00:30:53,300 --> 00:30:56,820
+cardiogéniques on aura besoin d'une assistance circulatoire
+
+617
+00:30:57,680 --> 00:30:59,660
+ce qu'on appelle l'ecmo ou la
+
+618
+00:30:59,660 --> 00:31:02,900
+contripulsion etc et on met le malade si
+
+619
+00:31:02,900 --> 00:31:05,520
+c'est possible sur liste de grève cardiaque.
+
+620
+00:31:06,340 --> 00:31:10,140
+Dans l'insuffisance cardiaque chronique on aura besoin
+
+621
+00:31:10,140 --> 00:31:14,240
+des diurétiques pour juguler les signes de congestion
+
+622
+00:31:14,240 --> 00:31:16,980
+on aura besoin des inhibiteurs de l'enzyme
+
+623
+00:31:16,980 --> 00:31:21,460
+de conversion pour justement bloquer la stimulation du
+
+624
+00:31:21,460 --> 00:31:23,440
+système réunion-jutensile on aura besoin de bêtas
+
+625
+00:31:23,440 --> 00:31:28,580
+bloquants pour leur effet anti-arythmogène et pour
+
+626
+00:31:28,580 --> 00:31:32,660
+leur effet aussi via le blocage du système
+
+627
+00:31:32,660 --> 00:31:34,980
+sympathique ils vont aussi aider à bloquer le
+
+628
+00:31:34,980 --> 00:31:39,180
+système réunion-jutensile puisque les catecholamines stimulent la
+
+629
+00:31:39,180 --> 00:31:41,060
+sécrétion de rénine et donc la stimulation du
+
+630
+00:31:41,060 --> 00:31:42,160
+système réunion-jutensile.
+
+631
+00:31:42,900 --> 00:31:44,860
+On pourra utiliser d'autres médicaments bêtas bloquants
+
+632
+00:31:44,860 --> 00:31:46,960
+comme les inhibiteurs des canaux IF ou les
+
+633
+00:31:46,960 --> 00:31:50,680
+digitaliques et à la fin on pourra lister
+
+634
+00:31:50,680 --> 00:31:53,080
+le malade dans une liste de grève cardiaque
+
+635
+00:31:53,080 --> 00:31:58,080
+si toutes les ressources thérapeutiques sont dépassées.
+
+636
+00:32:00,610 --> 00:32:02,290
+Cette diapo est importante parce qu'elle montre
+
+637
+00:32:02,290 --> 00:32:09,330
+les vraiment deux choses la révolution dans le
+
+638
+00:32:09,330 --> 00:32:12,030
+traitement de l'insuffisance cardiaque qu'on a
+
+639
+00:32:12,030 --> 00:32:14,910
+eu ces dernières années en utilisant les médicaments
+
+640
+00:32:14,910 --> 00:32:19,810
+bêtas bloquants IEC et puis la spironolactone pour
+
+641
+00:32:19,810 --> 00:32:27,020
+bloquer bien sûr la sécrétion de l'aldostérone
+
+642
+00:32:27,960 --> 00:32:30,760
+et en associant bien sûr d'autres thérapeutiques
+
+643
+00:32:30,760 --> 00:32:33,240
+comme les défibrillateurs vous voyez qu'on est
+
+644
+00:32:33,240 --> 00:32:36,640
+passé d'une mortalité importante et en la
+
+645
+00:32:36,640 --> 00:32:40,660
+réduisant progressivement on est arrivé à réduire si
+
+646
+00:32:40,660 --> 00:32:43,320
+on fait le cumul à réduire de façon
+
+647
+00:32:43,320 --> 00:32:47,000
+presque 75% la mortalité des patients qui
+
+648
+00:32:47,000 --> 00:32:48,660
+sont suivis pour insuffisance cardiaque.
+
+649
+00:32:48,860 --> 00:32:50,480
+C'est une évolution importante et ça nous
+
+650
+00:32:50,480 --> 00:32:52,640
+renseigne sur le deuxième point important de cette
+
+651
+00:32:52,640 --> 00:32:54,140
+diapo c'est qu'il y a des
+
+652
+00:32:54,140 --> 00:32:56,840
+médicaments à visée pronostique qui sont les bêtas
+
+653
+00:32:56,840 --> 00:32:59,760
+bloquants, les IEC et bien sûr la spironolactone.
+
+654
+00:33:00,340 --> 00:33:03,140
+Ces trois médicaments sont à visée pronostique qui
+
+655
+00:33:03,140 --> 00:33:04,620
+améliorent le pronostic des patients.
+
+656
+00:33:05,320 --> 00:33:08,040
+Tout le reste, les diurétiques, les digitaliques, etc
+
+657
+00:33:08,040 --> 00:33:10,940
+restent des médicaments à visée symptomatique.
+
+658
+00:33:16,660 --> 00:33:18,480
+Tous les traitements à visée pronostique dont je
+
+659
+00:33:18,480 --> 00:33:22,760
+viens de parler ne sont recommandés que dans
+
+660
+00:33:22,760 --> 00:33:25,480
+l'insuffisance cardiaque à fraction d'éjection altérée.
+
+661
+00:33:26,720 --> 00:33:28,740
+Malheureusement dans l'insuffisance cardiaque à fraction d
+
+662
+00:33:28,740 --> 00:33:31,620
+'éjection préservée on n'a pas de traitement
+
+663
+00:33:31,620 --> 00:33:33,720
+spécifique actuellement donc on traite un peu la
+
+664
+00:33:33,720 --> 00:33:35,580
+cause mais on n'a pas de traitement
+
+665
+00:33:35,580 --> 00:33:36,720
+qui améliore le pronostic.
+
+666
+00:33:38,800 --> 00:33:41,260
+Les autres thérapeutiques au delà du traitement médicamenteux
+
+667
+00:33:41,260 --> 00:33:44,620
+vont être l'assistance circulatoire, la resynchronisation ventriculaire
+
+668
+00:33:44,620 --> 00:33:46,200
+quand on a un bloc de bronche gauche,
+
+669
+00:33:46,880 --> 00:33:49,120
+c'est important, et puis la grève cardiaque.
+
+670
+00:34:00,820 --> 00:34:05,020
+Ainsi on sait que le champ de traitement
+
+671
+00:34:05,020 --> 00:34:06,500
+de l'insuffisance cardiaque se développe de façon
+
+672
+00:34:06,500 --> 00:34:09,159
+très importante vers des thérapeutiques nouvelles mais dont
+
+673
+00:34:09,159 --> 00:34:11,540
+on ne parlera pas et qui montrent qu
+
+674
+00:34:11,540 --> 00:34:13,679
+'il faut diagnostiquer les malades à temps, les
+
+675
+00:34:13,679 --> 00:34:16,219
+mettre sous traitement notamment dans l'insuffisance cardiaque
+
+676
+00:34:16,219 --> 00:34:17,840
+à fraction d'éjection altérée, les mettre sous
+
+677
+00:34:17,840 --> 00:34:21,719
+traitement important qui améliore leur pronostic qui sont
+
+678
+00:34:21,719 --> 00:34:27,080
+les métas pour enrayer un peu ce cercle
+
+679
+00:34:27,080 --> 00:34:29,960
+vicieux qui fait que les malades s'aggravent
+
+680
+00:34:29,960 --> 00:34:32,880
+davantage pour éviter bien sûr d'avoir un
+
+681
+00:34:32,880 --> 00:34:35,100
+grand nombre de malades qui ont besoin de
+
+682
+00:34:35,100 --> 00:34:35,880
+grève cardiaque.

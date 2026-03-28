@@ -1,0 +1,3429 @@
+WEBVTT
+
+1
+00:00:00.070 --> 00:00:03.330
+Bonjour chers étudiants, pour le cours d'aujourd
+
+2
+00:00:03.330 --> 00:00:05.410
+'hui on va voir les bases neurophysiologiques du
+
+3
+00:00:05.410 --> 00:00:06.490
+fonctionnement du neurone.
+
+4
+00:00:07.730 --> 00:00:10.730
+Donc j'aimerais porter votre attention sur le
+
+5
+00:00:10.730 --> 00:00:14.790
+fait que c'est un corps fondamental sur
+
+6
+00:00:14.790 --> 00:00:17.410
+lequel vous aurez beaucoup de questions au cours
+
+7
+00:00:17.410 --> 00:00:19.250
+de l'examen et qu'on se suit
+
+8
+00:00:19.250 --> 00:00:23.210
+la base de compréhension pour plusieurs pathologies, c
+
+9
+00:00:23.210 --> 00:00:24.470
+'est pourquoi c'est un corps pour moi
+
+10
+00:00:24.470 --> 00:00:25.330
+qui est fondamental.
+
+11
+00:00:28.840 --> 00:00:31.920
+Donc on va voir ensemble les bases de
+
+12
+00:00:31.920 --> 00:00:33.200
+l'influx nerveux.
+
+13
+00:00:34.760 --> 00:00:36.620
+Par exemple quand vous êtes en train de
+
+14
+00:00:36.620 --> 00:00:39.820
+marcher, vous marchez sur une punaise par exemple
+
+15
+00:00:39.820 --> 00:00:42.120
+ici, il y a tout de suite une
+
+16
+00:00:42.120 --> 00:00:43.800
+réaction qui va se faire qui est le
+
+17
+00:00:43.800 --> 00:00:46.660
+fait de fléchir le genou du membre qui
+
+18
+00:00:46.660 --> 00:00:49.500
+était blessé et l'extension de l'autre
+
+19
+00:00:49.500 --> 00:00:49.880
+membre.
+
+20
+00:00:49.880 --> 00:00:52.660
+En fait on va voir ensemble comment ça
+
+21
+00:00:52.660 --> 00:00:55.280
+se passe au niveau du système nerveux, comment
+
+22
+00:00:55.280 --> 00:00:59.080
+le fait d'appuyer sur cette punaise va
+
+23
+00:00:59.080 --> 00:01:04.680
+provoquer un influx nerveux et quelles sont les
+
+24
+00:01:04.680 --> 00:01:06.120
+bases qui vont le créer en fait.
+
+25
+00:01:06.120 --> 00:01:08.980
+Après par la suite au cours des cours
+
+26
+00:01:08.980 --> 00:01:12.260
+suivants, vous allez voir qu'on va voir
+
+27
+00:01:12.260 --> 00:01:19.420
+des exemples de la transduction du signal externe
+
+28
+00:01:19.420 --> 00:01:21.410
+sensoriel en un signal électrique.
+
+29
+00:01:22.200 --> 00:01:23.260
+C'est ce qui va expliquer le fait
+
+30
+00:01:23.260 --> 00:01:26.420
+que l'appui sur une punaise va provoquer
+
+31
+00:01:26.420 --> 00:01:28.840
+donc une activation de ce neurone afférent.
+
+32
+00:01:34.100 --> 00:01:37.040
+Quelques principes fondamentaux concernant le neurone.
+
+33
+00:01:37.040 --> 00:01:40.340
+Le neurone contrairement aux autres cellules de l
+
+34
+00:01:40.340 --> 00:01:43.960
+'organisme, c'est une cellule qui est excitable,
+
+35
+00:01:44.100 --> 00:01:44.740
+c'est à dire que c'est une
+
+36
+00:01:44.740 --> 00:01:47.120
+cellule qui est capable de changer la polarité
+
+37
+00:01:47.120 --> 00:01:50.460
+entre le milieu intracellulaire et l'extracellulaire.
+
+38
+00:01:50.560 --> 00:01:52.520
+Comme vous le savez les cellules sont chargées
+
+39
+00:01:52.520 --> 00:01:54.520
+négativement, vous l'avez vu dans d'autres
+
+40
+00:01:54.520 --> 00:01:58.080
+physiologies, mais les autres cellules ne peuvent pas
+
+41
+00:01:58.080 --> 00:01:59.240
+changer cette polarité.
+
+42
+00:01:59.960 --> 00:02:02.860
+La polarité reste toujours négative à l'intérieur
+
+43
+00:02:02.860 --> 00:02:08.360
+par exemple pour les cellules du foie etc.
+
+44
+00:02:08.880 --> 00:02:10.580
+Mais pour le neurone il est capable de
+
+45
+00:02:10.580 --> 00:02:13.480
+changer cette polarité au cours d'un bref
+
+46
+00:02:13.480 --> 00:02:17.640
+moment qui dure quelques millisecondes et qu'on
+
+47
+00:02:17.640 --> 00:02:18.740
+appelle le potentiel d'action.
+
+48
+00:02:20.320 --> 00:02:22.880
+Donc ce potentiel d'action est en plus
+
+49
+00:02:22.880 --> 00:02:27.800
+transmis, il est créé à un certain niveau,
+
+50
+00:02:27.900 --> 00:02:28.460
+on va voir où.
+
+51
+00:02:28.460 --> 00:02:33.260
+Mais il est aussi transmis sur de longues
+
+52
+00:02:33.260 --> 00:02:37.560
+longueurs dans ce qu'on appelle l'axone
+
+53
+00:02:37.560 --> 00:02:39.720
+qu'on a vu ensemble au premier cours.
+
+54
+00:02:41.080 --> 00:02:44.380
+Et ça va être aussi transmis d'un
+
+55
+00:02:44.380 --> 00:02:46.780
+neurone à un autre neurone ou bien d
+
+56
+00:02:46.780 --> 00:02:49.160
+'un neurone à une fibre musculaire.
+
+57
+00:02:49.820 --> 00:02:54.440
+Donc ces différentes propriétés, excitabilité, propagation, transmission, c
+
+58
+00:02:54.440 --> 00:02:56.540
+'est très particulier au système nerveux.
+
+59
+00:02:59.140 --> 00:03:03.900
+Donc le neurone, il va intégrer l'ensemble
+
+60
+00:03:03.900 --> 00:03:08.000
+des informations qui émanent des dendrites et ça
+
+61
+00:03:08.000 --> 00:03:09.960
+va être fait dans le corps cellulaire.
+
+62
+00:03:10.100 --> 00:03:12.700
+On va voir ensemble dans une plaque qui
+
+63
+00:03:12.700 --> 00:03:17.860
+va suivre, on va voir ensemble le rôle
+
+64
+00:03:17.860 --> 00:03:20.900
+du corps cellulaire dans l'intégration synaptique.
+
+65
+00:03:21.700 --> 00:03:26.300
+En fait aussi, l'information qui va recevoir
+
+66
+00:03:26.300 --> 00:03:28.120
+ce corps cellulaire de la part des dendrites,
+
+67
+00:03:28.240 --> 00:03:30.480
+elle est assez grande, elle est assez suffisante.
+
+68
+00:03:31.000 --> 00:03:32.020
+Ça va être à l'origine de la
+
+69
+00:03:32.020 --> 00:03:33.780
+création du potentiel d'action, on va voir
+
+70
+00:03:33.780 --> 00:03:35.140
+ça ensemble.
+
+71
+00:03:36.080 --> 00:03:38.120
+Une question qui va se poser c'est
+
+72
+00:03:38.120 --> 00:03:41.440
+où on va avoir la naissance du potentiel
+
+73
+00:03:41.440 --> 00:03:41.780
+d'action.
+
+74
+00:03:42.040 --> 00:03:44.040
+On va voir ça plus en détail par
+
+75
+00:03:44.040 --> 00:03:45.040
+la suite, mais je vous le dis d
+
+76
+00:03:45.040 --> 00:03:45.260
+'emblée.
+
+77
+00:03:45.260 --> 00:03:47.780
+Ça se passe au niveau du cône axonique,
+
+78
+00:03:48.320 --> 00:03:51.420
+qui est la partie initiale de l'action
+
+79
+00:03:51.420 --> 00:03:53.940
+qui est reliée au soma, au corps cellulaire.
+
+80
+00:03:55.140 --> 00:03:57.100
+Pourquoi le potentiel d'action ne l'est
+
+81
+00:03:57.100 --> 00:04:00.240
+pas au niveau des dendrites, ni au niveau
+
+82
+00:04:00.240 --> 00:04:02.360
+du corps cellulaire ?
+
+83
+00:04:02.360 --> 00:04:04.240
+Je vous donne la réponse maintenant, mais vous
+
+84
+00:04:04.240 --> 00:04:06.340
+allez comprendre cette réponse par la suite quand
+
+85
+00:04:06.340 --> 00:04:09.420
+on va voir le rôle des canaux ioniques.
+
+86
+00:04:10.060 --> 00:04:12.340
+En fait, c'est au niveau des cônes
+
+87
+00:04:12.340 --> 00:04:16.240
+axoniques qu'on va voir une concentration grande
+
+88
+00:04:16.240 --> 00:04:20.320
+et importante des canaux ioniques de sodium, ce
+
+89
+00:04:20.320 --> 00:04:22.020
+qui va être à l'origine de la
+
+90
+00:04:22.020 --> 00:04:23.120
+naissance du potentiel d'action.
+
+91
+00:04:24.560 --> 00:04:27.820
+Il y a des canaux au niveau du
+
+92
+00:04:27.820 --> 00:04:29.980
+corps cellulaire et au niveau des dendrites, mais
+
+93
+00:04:29.980 --> 00:04:35.120
+ils ne sont pas concentrés en grande quantité
+
+94
+00:04:35.120 --> 00:04:36.940
+pour pouvoir créer un potentiel d'action.
+
+95
+00:04:39.000 --> 00:04:40.680
+Je parle de ça parce que je risque
+
+96
+00:04:40.680 --> 00:04:42.800
+de l'oublier par la suite, donc une
+
+97
+00:04:42.800 --> 00:04:45.380
+fois que vous aurez vu l'ensemble des
+
+98
+00:04:45.380 --> 00:04:48.120
+éléments basiques qui permettent de comprendre la naissance
+
+99
+00:04:48.120 --> 00:04:51.520
+du potentiel d'action, vous allez comprendre plus
+
+100
+00:04:51.520 --> 00:04:52.360
+ce que je dis là.
+
+101
+00:04:55.280 --> 00:04:56.360
+En fait, quand on dit qu'il y
+
+102
+00:04:56.360 --> 00:04:57.760
+a des potentiels, il n'y a pas
+
+103
+00:04:57.760 --> 00:04:58.760
+que le potentiel d'action.
+
+104
+00:04:58.940 --> 00:05:00.400
+Ici en bas, c'est ça un potentiel
+
+105
+00:05:00.400 --> 00:05:00.760
+d'action.
+
+106
+00:05:00.760 --> 00:05:05.420
+Quand on va simuler le neurone au niveau,
+
+107
+00:05:05.500 --> 00:05:08.120
+par exemple, du corps cellulaire, on va avoir
+
+108
+00:05:08.120 --> 00:05:09.600
+la création d'un potentiel d'action au
+
+109
+00:05:09.600 --> 00:05:12.000
+niveau du cône d'implantation, et si on
+
+110
+00:05:12.000 --> 00:05:14.080
+enregistre au niveau de l'axone, on va
+
+111
+00:05:14.080 --> 00:05:15.640
+avoir un potentiel qui ressemble à ça.
+
+112
+00:05:16.020 --> 00:05:20.540
+Une véritable dépolarisation, c'est-à-dire le
+
+113
+00:05:20.540 --> 00:05:23.900
+passage d'un niveau négatif à un niveau
+
+114
+00:05:23.900 --> 00:05:27.260
+positif et un retour vers la négativité.
+
+115
+00:05:27.380 --> 00:05:28.300
+C'est ça ce qu'on appelle un
+
+116
+00:05:28.300 --> 00:05:29.000
+potentiel d'action.
+
+117
+00:05:29.000 --> 00:05:30.320
+Mais il n'y a pas que le
+
+118
+00:05:30.320 --> 00:05:35.300
+potentiel d'action qu'on peut avoir comme
+
+119
+00:05:35.300 --> 00:05:37.240
+type de potentiel, il y a d'autres
+
+120
+00:05:37.240 --> 00:05:41.020
+types de potentiel, comme le potentiel synaptique.
+
+121
+00:05:41.120 --> 00:05:43.700
+Le potentiel synaptique, c'est au niveau de
+
+122
+00:05:43.700 --> 00:05:48.760
+la synapse, si un neurone vient activer un
+
+123
+00:05:48.760 --> 00:05:51.040
+autre neurone, et si on enregistre dans le
+
+124
+00:05:51.040 --> 00:05:53.540
+deuxième neurone, on va avoir un potentiel qui
+
+125
+00:05:53.540 --> 00:05:54.580
+ressemble à ça.
+
+126
+00:05:55.320 --> 00:05:59.000
+C'est un potentiel qui devient positif, c
+
+127
+00:05:59.000 --> 00:06:00.940
+'est-à-dire on passe de moins 70
+
+128
+00:06:00.940 --> 00:06:04.420
+à moins 65, donc c'est relativement plus
+
+129
+00:06:04.420 --> 00:06:07.180
+positif que le niveau de base, mais ça
+
+130
+00:06:07.180 --> 00:06:10.360
+n'arrive pas à des valeurs positives.
+
+131
+00:06:10.780 --> 00:06:11.780
+Ça, c'est ce qu'on appelle un
+
+132
+00:06:11.780 --> 00:06:14.000
+potentiel post-synaptique excitateur.
+
+133
+00:06:14.420 --> 00:06:15.700
+Il n'est pas positif, mais il est
+
+134
+00:06:15.700 --> 00:06:16.380
+excitateur.
+
+135
+00:06:17.360 --> 00:06:18.600
+Et puis, on va voir qu'il y
+
+136
+00:06:18.600 --> 00:06:21.280
+a un autre potentiel, ce paschmatisé ici.
+
+137
+00:06:21.280 --> 00:06:24.380
+Si jamais le rôle de cette synapse, c
+
+138
+00:06:24.380 --> 00:06:25.860
+'est d'inhiber le deuxième neurone, on va
+
+139
+00:06:25.860 --> 00:06:28.100
+avoir une déflexion vers le bas.
+
+140
+00:06:29.100 --> 00:06:30.800
+C'est ce qu'on appelle un potentiel
+
+141
+00:06:30.800 --> 00:06:32.440
+post-synaptique inhibiteur.
+
+142
+00:06:32.740 --> 00:06:35.600
+Ça rend le potentiel encore plus négatif que
+
+143
+00:06:35.600 --> 00:06:36.540
+le niveau de base.
+
+144
+00:06:37.860 --> 00:06:40.740
+L'autre type de potentiel qu'on peut
+
+145
+00:06:40.740 --> 00:06:43.800
+avoir, c'est lorsqu'on va activer un
+
+146
+00:06:43.800 --> 00:06:45.060
+récepteur périphérique.
+
+147
+00:06:45.060 --> 00:06:47.760
+Quand on active un récepteur périphérique, quand on
+
+148
+00:06:47.760 --> 00:06:51.760
+enregistre au niveau de ce récepteur, on va
+
+149
+00:06:51.760 --> 00:06:53.920
+avoir ce qu'on appelle un potentiel récepteur
+
+150
+00:06:53.920 --> 00:06:56.620
+qui est plus grand que le potentiel post
+
+151
+00:06:56.620 --> 00:07:00.360
+-synaptique excitateur, qui ressemble plus au potentiel post
+
+152
+00:07:00.360 --> 00:07:04.160
+-synaptique excitateur de par ses caractéristiques que le
+
+153
+00:07:04.160 --> 00:07:04.780
+potentiel d'action.
+
+154
+00:07:05.300 --> 00:07:07.120
+Le potentiel d'action, c'est vraiment très
+
+155
+00:07:07.120 --> 00:07:09.400
+particulier et unique, et on va voir plus
+
+156
+00:07:09.400 --> 00:07:10.960
+en détail le potentiel d'action par la
+
+157
+00:07:10.960 --> 00:07:11.200
+suite.
+
+158
+00:07:14.800 --> 00:07:18.660
+Ici, c'est schématisé les différents éléments dont
+
+159
+00:07:18.660 --> 00:07:21.040
+on a parlé, la naissance d'un potentiel
+
+160
+00:07:21.040 --> 00:07:23.940
+d'action, sa propagation et sa transmission au
+
+161
+00:07:23.940 --> 00:07:26.860
+niveau de la synapse.
+
+162
+00:07:27.660 --> 00:07:29.180
+Au cours de ce cours, on va détailler
+
+163
+00:07:29.180 --> 00:07:33.480
+plus les différentes étapes de ce processus.
+
+164
+00:07:34.660 --> 00:07:36.920
+L'influx nerveux est défini comme la propagation
+
+165
+00:07:36.920 --> 00:07:38.400
+d'un potentiel d'action le long d
+
+166
+00:07:38.400 --> 00:07:39.720
+'une fibre nerveuse.
+
+167
+00:07:42.000 --> 00:07:45.220
+Les principaux acteurs de l'influx nerveux, c
+
+168
+00:07:45.220 --> 00:07:49.300
+'est la membrane plasmique, les simulus externes, il
+
+169
+00:07:49.300 --> 00:07:50.640
+faut qu'il y ait des simulus externes
+
+170
+00:07:50.640 --> 00:07:52.420
+obligatoirement, sinon il n'y aura pas de
+
+171
+00:07:52.420 --> 00:07:57.700
+changement dans le potentiel membraneur, les ions, on
+
+172
+00:07:57.700 --> 00:07:59.840
+va les voir plus en détail, et les
+
+173
+00:07:59.840 --> 00:08:01.240
+transporteurs membraneurs.
+
+174
+00:08:02.340 --> 00:08:04.340
+Donc on va voir tous ces éléments plus
+
+175
+00:08:04.340 --> 00:08:06.340
+en détail tout de suite.
+
+176
+00:08:09.140 --> 00:08:14.240
+La membrane plasmique, c'est un élément capital
+
+177
+00:08:14.240 --> 00:08:17.540
+de la cellule qui permet de délimiter la
+
+178
+00:08:17.540 --> 00:08:20.860
+cellule et de la protéger contre le milieu
+
+179
+00:08:20.860 --> 00:08:21.580
+extracellulaire.
+
+180
+00:08:21.760 --> 00:08:24.080
+Donc ça délimite un milieu intracellulaire et un
+
+181
+00:08:24.080 --> 00:08:28.760
+milieu extracellulaire, avec des caractéristiques chimiques différentes entre
+
+182
+00:08:28.760 --> 00:08:29.580
+les deux milieux.
+
+183
+00:08:30.320 --> 00:08:32.419
+La membrane plasmique, si on l'agrandit, on
+
+184
+00:08:32.419 --> 00:08:34.799
+voit qu'elle est faite de bicouches, d
+
+185
+00:08:34.799 --> 00:08:35.620
+'une bicouche lipide.
+
+186
+00:08:36.299 --> 00:08:39.340
+Cette bicouche lipide, pour chaque couche, il y
+
+187
+00:08:39.340 --> 00:08:43.280
+a un pôle hydrophile et un pôle hydrophobe.
+
+188
+00:08:44.720 --> 00:08:46.960
+Je vous rappelle que l'eau a une
+
+189
+00:08:46.960 --> 00:08:50.900
+polarité, les molécules d'eau, H2O, a une
+
+190
+00:08:50.900 --> 00:08:53.360
+polarité, ce qui fait qu'il y a
+
+191
+00:08:53.360 --> 00:08:55.540
+une partie de la molécule qui est chargée
+
+192
+00:08:55.540 --> 00:08:57.620
+positivement et l'autre qui est chargée négativement.
+
+193
+00:08:58.720 --> 00:09:03.460
+Ça fait que l'eau peut dissocier, par
+
+194
+00:09:03.460 --> 00:09:06.460
+exemple, le NaCl, parce que le NaCl, il
+
+195
+00:09:06.460 --> 00:09:07.920
+y a une partie qui est chargée négativement,
+
+196
+00:09:08.000 --> 00:09:11.260
+le Cl, et négativement, c'est le Cl,
+
+197
+00:09:11.340 --> 00:09:12.860
+et une partie qui est chargée positivement, c
+
+198
+00:09:12.860 --> 00:09:13.260
+'est le Na.
+
+199
+00:09:14.200 --> 00:09:17.520
+Donc l'eau va tirer le Na plus
+
+200
+00:09:17.520 --> 00:09:20.080
+vers lui, et va tirer le Cl moins
+
+201
+00:09:20.080 --> 00:09:22.460
+vers l'autre partie de la molécule d
+
+202
+00:09:22.460 --> 00:09:22.560
+'eau.
+
+203
+00:09:22.560 --> 00:09:25.540
+Ça va dissocier le NaCl, c'est pourquoi
+
+204
+00:09:25.540 --> 00:09:28.000
+on parle de molécules hydrosolubles.
+
+205
+00:09:28.720 --> 00:09:30.200
+Il y a d'autres molécules qui ne
+
+206
+00:09:30.200 --> 00:09:32.640
+sont pas hydrosolubles, comme les lipides, ils sont
+
+207
+00:09:32.640 --> 00:09:37.880
+hydrophobes, donc ils restent séparés et non connectés
+
+208
+00:09:37.880 --> 00:09:39.340
+aux molécules d'eau.
+
+209
+00:09:40.620 --> 00:09:45.740
+Donc cette disposition en couche, en bicouche, et
+
+210
+00:09:45.740 --> 00:09:50.600
+cette disposition en pôle hydrophile et en pôle
+
+211
+00:09:50.600 --> 00:09:56.220
+hydrophobe, fait que la membrane plasmique reste imperméable
+
+212
+00:09:56.220 --> 00:09:59.360
+à toutes les molécules qui sont hydrophiles, y
+
+213
+00:09:59.360 --> 00:10:01.100
+compris l'eau lui-même.
+
+214
+00:10:04.830 --> 00:10:07.990
+Donc les molécules qui sont non polaires, c
+
+215
+00:10:07.990 --> 00:10:11.230
+'est-à-dire hydrophobes, comme les gaz, comme
+
+216
+00:10:11.230 --> 00:10:14.630
+les lipides, etc., elles vont traverser facilement la
+
+217
+00:10:14.630 --> 00:10:16.070
+membrane, parce qu'elles ne vont pas être
+
+218
+00:10:16.070 --> 00:10:19.150
+chassées par cette partie qui est hydrophobe.
+
+219
+00:10:19.150 --> 00:10:23.010
+Par contre, les molécules qui sont polaires, comme
+
+220
+00:10:23.010 --> 00:10:25.350
+l'eau, comme les ions, ne peuvent pas
+
+221
+00:10:25.350 --> 00:10:26.230
+traverser la membrane.
+
+222
+00:10:26.450 --> 00:10:28.270
+Et ça c'est capital, parce que ça
+
+223
+00:10:28.270 --> 00:10:35.250
+va maintenir une concentration particulière des ions de
+
+224
+00:10:35.250 --> 00:10:38.050
+part et d'autre de la membrane plasmique.
+
+225
+00:10:41.470 --> 00:10:45.590
+Mais cette membrane plasmique est parsemée de ce
+
+226
+00:10:45.590 --> 00:10:47.710
+qu'on appelle des protéines transmembranaires.
+
+227
+00:10:47.710 --> 00:10:52.230
+Les protéines transmembranaires, c'est l'union de
+
+228
+00:10:52.230 --> 00:10:54.290
+plusieurs protéines, en fait là vous voyez qu
+
+229
+00:10:54.290 --> 00:10:56.310
+'il y en a cinq, qui se rejoignent
+
+230
+00:10:56.310 --> 00:10:57.610
+pour former un tunnel.
+
+231
+00:10:58.350 --> 00:11:01.130
+Au repos, ce tunnel est fermé, mais s
+
+232
+00:11:01.130 --> 00:11:02.750
+'il y a un certain nombre de conditions
+
+233
+00:11:02.750 --> 00:11:06.810
+physiologiques ou bien pathologiques, ce tunnel va s
+
+234
+00:11:06.810 --> 00:11:10.590
+'ouvrir et ça va laisser entrer ou sortir
+
+235
+00:11:10.590 --> 00:11:13.790
+de l'eau et des ions, mais pas
+
+236
+00:11:13.790 --> 00:11:17.030
+des protéines, parce que c'est un tunnel
+
+237
+00:11:17.030 --> 00:11:19.230
+de diamètre réduit.
+
+238
+00:11:23.270 --> 00:11:25.310
+Maintenant on va voir le potentiel de repos
+
+239
+00:11:25.310 --> 00:11:26.090
+de la membrane.
+
+240
+00:11:29.360 --> 00:11:32.380
+Donc si on prend un voltmètre et on
+
+241
+00:11:32.380 --> 00:11:36.340
+met une électrode en intracellulaire et une électrode
+
+242
+00:11:36.340 --> 00:11:39.000
+en extracellulaire, on va enregistrer des valeurs négatives.
+
+243
+00:11:39.560 --> 00:11:40.520
+C'est ce qu'on a vu, ce
+
+244
+00:11:40.520 --> 00:11:42.300
+qu'on a vérifié pour toutes les cellules.
+
+245
+00:11:42.300 --> 00:11:47.500
+En fait, l'objectif des neurosciences et des
+
+246
+00:11:47.500 --> 00:11:49.980
+neurosciences, c'était tout d'abord de comprendre
+
+247
+00:11:49.980 --> 00:11:51.700
+pourquoi il y a cette différence de potentiel
+
+248
+00:11:51.700 --> 00:11:55.020
+entre le milieu intracellulaire et le milieu extracellulaire.
+
+249
+00:11:55.460 --> 00:11:57.740
+On a trouvé qu'il y a une
+
+250
+00:11:57.740 --> 00:12:01.880
+répartition inégale des charges entre ces deux milieux.
+
+251
+00:12:02.440 --> 00:12:04.680
+Et cette différence de charge, elle est due
+
+252
+00:12:04.680 --> 00:12:08.400
+aux ions, elle est due à des protéines
+
+253
+00:12:08.400 --> 00:12:10.040
+qui sont chargées négativement, elle est due à
+
+254
+00:12:10.040 --> 00:12:12.200
+d'autres paramètres et d'autres éléments qu
+
+255
+00:12:12.200 --> 00:12:14.920
+'on va voir ensemble tout de suite.
+
+256
+00:12:18.840 --> 00:12:20.960
+Mais parlons un peu des ions, ce sont
+
+257
+00:12:20.960 --> 00:12:24.000
+des petites molécules qui sont chargées, soit négativement,
+
+258
+00:12:24.220 --> 00:12:25.760
+soit positivement.
+
+259
+00:12:29.700 --> 00:12:33.160
+Ces ions sont à l'origine de l
+
+260
+00:12:33.160 --> 00:12:35.200
+'électricité au milieu actuel, ils n'ont pas
+
+261
+00:12:35.200 --> 00:12:36.120
+les électrons.
+
+262
+00:12:37.620 --> 00:12:41.760
+Le potentiel de membrane est principalement dû à
+
+263
+00:12:41.760 --> 00:12:44.680
+une répartition qui est inégale des ions entre
+
+264
+00:12:44.680 --> 00:12:47.200
+le milieu intracellulaire et le milieu extracellulaire.
+
+265
+00:12:47.700 --> 00:12:50.820
+Et la membrane ici joue un rôle primordial
+
+266
+00:12:50.820 --> 00:12:55.400
+dans le maintien de ces inégalités de la
+
+267
+00:12:55.400 --> 00:12:56.720
+répartition des ions.
+
+268
+00:13:01.350 --> 00:13:06.150
+Faites attention ici sur votre droite, si on
+
+269
+00:13:06.150 --> 00:13:09.730
+prend deux milieux séparés par une membrane, si
+
+270
+00:13:09.730 --> 00:13:12.130
+on met en place le Na+, et
+
+271
+00:13:12.130 --> 00:13:14.010
+le Cl- juste dans le milieu 1,
+
+272
+00:13:14.630 --> 00:13:17.070
+sans qu'il y ait de connexion entre
+
+273
+00:13:17.070 --> 00:13:18.790
+le milieu 1 et 2, tous les ions
+
+274
+00:13:18.790 --> 00:13:20.890
+vont rester bien sûr dans le milieu A.
+
+275
+00:13:21.770 --> 00:13:26.130
+La membrane qui est là, qui ressemble à
+
+276
+00:13:26.130 --> 00:13:31.810
+la membrane avec la bicochlipidie dont on a
+
+277
+00:13:31.810 --> 00:13:34.490
+parlé, va empêcher la division des ions.
+
+278
+00:13:34.490 --> 00:13:40.910
+Mais si on rajoute les canaux protéiques dont
+
+279
+00:13:40.910 --> 00:13:43.530
+on a parlé, il y aura une diffusion
+
+280
+00:13:43.530 --> 00:13:45.130
+de Na+, et de Cl-.
+
+281
+00:13:45.590 --> 00:13:48.470
+Ça c'est en dehors de toute présence
+
+282
+00:13:48.470 --> 00:13:51.370
+d'autres facteurs que le facteur concentration.
+
+283
+00:13:52.030 --> 00:13:54.110
+Et comme vous le voyez dans ce schéma
+
+284
+00:13:54.110 --> 00:13:58.710
+abaissé, vertical, il y aura une sortie de
+
+285
+00:13:58.710 --> 00:14:01.870
+Na+, Cl-, on repense aux gradients
+
+286
+00:14:01.870 --> 00:14:04.290
+de concentration, jusqu'à ce qu'il y
+
+287
+00:14:04.290 --> 00:14:06.930
+ait une répartition égale de Na+, entre
+
+288
+00:14:06.930 --> 00:14:09.850
+le milieu intracellulaire et le milieu extracellulaire, ou
+
+289
+00:14:09.850 --> 00:14:11.510
+bien entre le milieu A et B.
+
+290
+00:14:12.110 --> 00:14:14.670
+Mais ça c'est pas la vérité en
+
+291
+00:14:14.670 --> 00:14:16.050
+in vivo, c'est pas ça ce qu
+
+292
+00:14:16.050 --> 00:14:17.590
+'on a en in vivo, on n'a
+
+293
+00:14:17.590 --> 00:14:17.970
+pas ça.
+
+294
+00:14:18.430 --> 00:14:21.010
+Donc normalement si on n'avait pas d
+
+295
+00:14:21.010 --> 00:14:22.670
+'autres paramètres, c'est ce qui va se
+
+296
+00:14:22.670 --> 00:14:22.890
+passer.
+
+297
+00:14:23.090 --> 00:14:26.290
+Donc les ions vont répondre aux seuls gradients
+
+298
+00:14:26.290 --> 00:14:27.070
+de concentration.
+
+299
+00:14:28.670 --> 00:14:32.350
+Dans la deuxième éventualité, on a mis en
+
+300
+00:14:32.350 --> 00:14:35.790
+place du Na+, et du Cl-
+
+301
+00:14:35.790 --> 00:14:45.770
+dans tout le milieu, mais on a mis
+
+302
+00:14:45.770 --> 00:14:49.910
+en place du Na+, réparti de façon
+
+303
+00:14:49.910 --> 00:14:51.390
+égale entre les deux milieux, et du Cl
+
+304
+00:14:51.390 --> 00:14:53.050
+- de façon égale entre les deux milieux.
+
+305
+00:14:53.730 --> 00:15:02.310
+Mais on a mis le premier milieu, on
+
+306
+00:15:02.310 --> 00:15:05.150
+l'a chargé positivement par un générateur d
+
+307
+00:15:05.150 --> 00:15:08.030
+'électricité externe, et le deuxième par un générateur
+
+308
+00:15:08.030 --> 00:15:09.870
+d'électricité qui a fait qu'il est
+
+309
+00:15:09.870 --> 00:15:10.410
+négatif.
+
+310
+00:15:10.910 --> 00:15:14.170
+En présence d'une membrane non conductrice, on
+
+311
+00:15:14.170 --> 00:15:15.590
+va avoir la même chose.
+
+312
+00:15:15.590 --> 00:15:21.710
+Mais en présence d'une membrane contenant des
+
+313
+00:15:21.710 --> 00:15:24.190
+canons qui permettent la diffusion des ions, les
+
+314
+00:15:24.190 --> 00:15:28.010
+ions ici vont se répartir en réponse à
+
+315
+00:15:28.010 --> 00:15:28.830
+un autre gradient.
+
+316
+00:15:29.270 --> 00:15:30.810
+C'est pas juste le gradient de concentration,
+
+317
+00:15:30.990 --> 00:15:32.870
+parce que le gradient de concentration était égal
+
+318
+00:15:32.870 --> 00:15:34.670
+entre les deux, mais en réponse à un
+
+319
+00:15:34.670 --> 00:15:35.590
+gradient électrique.
+
+320
+00:15:36.530 --> 00:15:38.530
+Ce qui va faire que les ions chargés
+
+321
+00:15:38.530 --> 00:15:42.730
+positivement vont avoir tendance à partir vers le
+
+322
+00:15:42.730 --> 00:15:46.550
+milieu négatif, et les ions chargés négativement vers
+
+323
+00:15:46.550 --> 00:15:49.290
+le milieu positif, d'accord ?
+
+324
+00:15:49.290 --> 00:15:51.250
+La même chose ici, donc les ions vont
+
+325
+00:15:51.250 --> 00:15:54.750
+partir vers, en absence même de membrane, les
+
+326
+00:15:54.750 --> 00:15:57.910
+ions chargés positivement vont avoir tendance à partir
+
+327
+00:15:57.910 --> 00:15:59.810
+vers le côté qui est chargé négativement, et
+
+328
+00:15:59.810 --> 00:16:00.210
+vice versa.
+
+329
+00:16:01.650 --> 00:16:04.950
+En fait, ce que vous voyez là, le
+
+330
+00:16:04.950 --> 00:16:10.710
+gradient électrique va continuer à attirer vers lui
+
+331
+00:16:10.710 --> 00:16:14.150
+le Na+, jusqu'à ce que la
+
+332
+00:16:14.150 --> 00:16:17.690
+concentration ici de Na+, va devenir tellement
+
+333
+00:16:17.690 --> 00:16:21.570
+plus grande que celle à gauche, et il
+
+334
+00:16:21.570 --> 00:16:23.350
+y aura un deuxième gradient qui va se
+
+335
+00:16:23.350 --> 00:16:25.870
+créer, c'est un gradient de concentration.
+
+336
+00:16:26.890 --> 00:16:29.290
+Si le gradient électrique est plus fort, beaucoup
+
+337
+00:16:29.290 --> 00:16:31.710
+plus fort que le gradient de concentration, il
+
+338
+00:16:31.710 --> 00:16:32.270
+va l'emporter.
+
+339
+00:16:32.370 --> 00:16:34.670
+Mais si le gradient de concentration est plus
+
+340
+00:16:34.670 --> 00:16:36.990
+fort, il y aura donc une tendance à
+
+341
+00:16:36.990 --> 00:16:37.870
+s'équilibrer.
+
+342
+00:16:37.870 --> 00:16:39.290
+C'est ce qu'on appelle le potentiel
+
+343
+00:16:39.290 --> 00:16:41.130
+d'équilibre pour le Na+, ou bien
+
+344
+00:16:41.130 --> 00:16:42.210
+pour le Cl-, etc.
+
+345
+00:16:48.990 --> 00:16:52.570
+Donc toujours dans ces expériences qui permettent un
+
+346
+00:16:52.570 --> 00:16:55.350
+peu de comprendre les règles, pourquoi les ions
+
+347
+00:16:55.350 --> 00:16:56.510
+diffusent, qu'est-ce qui fait qu'ils
+
+348
+00:16:56.510 --> 00:16:59.370
+diffusent, en fait si on met un demi
+
+349
+00:16:59.370 --> 00:17:03.069
+-lieu avec une membrane qui sépare les deux,
+
+350
+00:17:03.910 --> 00:17:07.210
+si on met en place plus de concentration
+
+351
+00:17:07.210 --> 00:17:10.810
+de K+, dans le premier, et plus
+
+352
+00:17:10.810 --> 00:17:12.990
+de concentration de A- dans le deuxième,
+
+353
+00:17:13.270 --> 00:17:15.710
+dans le premier toujours, si on n'ouvre
+
+354
+00:17:15.710 --> 00:17:18.310
+que les canons K+, on va avoir
+
+355
+00:17:18.310 --> 00:17:21.410
+une tendance à la sortie de K+,
+
+356
+00:17:21.410 --> 00:17:22.869
+vers ce milieu-là.
+
+357
+00:17:23.310 --> 00:17:27.270
+Mais cette sortie va créer une différence de
+
+358
+00:17:27.270 --> 00:17:31.110
+charge entre le milieu A et le milieu
+
+359
+00:17:31.110 --> 00:17:31.390
+2.
+
+360
+00:17:31.830 --> 00:17:33.910
+Cette différence de charge va faire que ce
+
+361
+00:17:33.910 --> 00:17:35.510
+milieu va devenir de plus en plus positif,
+
+362
+00:17:35.590 --> 00:17:37.430
+alors que ce milieu va devenir de plus
+
+363
+00:17:37.430 --> 00:17:42.270
+en plus négatif, et ceci en proximité immédiate
+
+364
+00:17:42.270 --> 00:17:44.710
+de la membrane qui sépare les deux.
+
+365
+00:17:44.990 --> 00:17:45.970
+Ici à ce niveau il n'y aura
+
+366
+00:17:45.970 --> 00:17:48.630
+pas de différence, mais à la proximité il
+
+367
+00:17:48.630 --> 00:17:51.870
+va y avoir la création d'un potentiel
+
+368
+00:17:51.870 --> 00:17:54.830
+qui va ressembler un peu à ce qu
+
+369
+00:17:54.830 --> 00:17:55.590
+'on a in vivo.
+
+370
+00:17:55.590 --> 00:17:59.030
+Et cette sortie de K+, va continuer
+
+371
+00:17:59.030 --> 00:18:01.850
+jusqu'à ce qu'il y ait un
+
+372
+00:18:01.850 --> 00:18:04.450
+potentiel d'équilibre, c'est-à-dire que
+
+373
+00:18:04.450 --> 00:18:09.590
+les forces de charge électrique, qui sont donc
+
+374
+00:18:09.590 --> 00:18:12.250
+ici la négativité qui tire vers elle le
+
+375
+00:18:12.250 --> 00:18:16.810
+K+, et les forces de concentration vont
+
+376
+00:18:16.810 --> 00:18:19.010
+s'égaliser, et on ne va plus avoir
+
+377
+00:18:19.010 --> 00:18:21.350
+de sortie de passage de K+, d
+
+378
+00:18:21.350 --> 00:18:22.310
+'un milieu à un autre.
+
+379
+00:18:22.570 --> 00:18:25.370
+Même si le K+, est encore plus
+
+380
+00:18:25.370 --> 00:18:27.830
+concentré dans ce milieu que dans ce milieu,
+
+381
+00:18:28.350 --> 00:18:31.250
+mais les forces électriques et de concentration vont
+
+382
+00:18:31.250 --> 00:18:34.090
+s'équilibrer à un certain niveau, et ça
+
+383
+00:18:34.090 --> 00:18:35.690
+ressemble un peu à ce qu'on a
+
+384
+00:18:35.690 --> 00:18:38.150
+in vivo, dans la vraie vie.
+
+385
+00:18:40.130 --> 00:18:43.290
+Donc là, la même chose pour le Na
+
+386
+00:18:43.290 --> 00:18:48.510
++, on a schématisé, mais à l'inverse,
+
+387
+00:18:48.890 --> 00:18:51.090
+juste pour vous montrer qu'en fait c
+
+388
+00:18:51.090 --> 00:18:52.350
+'est ça ce qui se passe un peu
+
+389
+00:18:52.350 --> 00:18:53.010
+en réalité.
+
+390
+00:18:53.930 --> 00:18:55.290
+Là c'est l'extérieur, ça c'est
+
+391
+00:18:55.290 --> 00:18:57.290
+l'intérieur, le Na+, est plus concentré
+
+392
+00:18:57.290 --> 00:18:59.290
+à l'extérieur, et lorsqu'il va y
+
+393
+00:18:59.290 --> 00:19:01.150
+avoir une ouverture des canaux qui permettent l
+
+394
+00:19:01.150 --> 00:19:03.310
+'entrée de Na+, il aura tendance à
+
+395
+00:19:03.310 --> 00:19:07.810
+entrer jusqu'à ce que les forces électriques
+
+396
+00:19:07.810 --> 00:19:11.030
+soient égales aux forces de concentration, et il
+
+397
+00:19:11.030 --> 00:19:12.450
+n'y aura plus d'entrée de Na
+
+398
+00:19:12.450 --> 00:19:14.350
++, même si le Na+, est encore
+
+399
+00:19:14.350 --> 00:19:15.630
+plus concentré à l'extérieur.
+
+400
+00:19:21.120 --> 00:19:24.140
+Donc dans la vraie vie, il y a
+
+401
+00:19:24.140 --> 00:19:27.380
+la membrane qui sépare l'extracellulaire et l
+
+402
+00:19:27.380 --> 00:19:31.200
+'intracellulaire, et cette membrane fait qu'on ne
+
+403
+00:19:31.200 --> 00:19:32.820
+peut pas avoir d'entrée ou de sortie
+
+404
+00:19:32.820 --> 00:19:34.600
+des ions, comme on l'a dit.
+
+405
+00:19:34.600 --> 00:19:39.480
+Les protéines que vous voyez là permettent l
+
+406
+00:19:39.480 --> 00:19:42.780
+'entrée de Na+, de K+, ou
+
+407
+00:19:42.780 --> 00:19:44.620
+bien de Cl-, l'entrée ou sortie,
+
+408
+00:19:45.160 --> 00:19:47.940
+mais en réponse à deux gradients principaux dont
+
+409
+00:19:47.940 --> 00:19:50.560
+on a parlé, le gradient de concentration et
+
+410
+00:19:50.560 --> 00:19:51.600
+le gradient électrique.
+
+411
+00:19:56.850 --> 00:20:00.050
+Quand on a mesuré les concentrations intracellulaire et
+
+412
+00:20:00.050 --> 00:20:02.030
+extracellulaire des différents ions, c'est ça ce
+
+413
+00:20:02.030 --> 00:20:02.470
+qu'on a trouvé.
+
+414
+00:20:02.470 --> 00:20:04.870
+On a trouvé que dans le milieu intracellulaire,
+
+415
+00:20:04.990 --> 00:20:07.130
+le K+, est majoritaire, dans le milieu
+
+416
+00:20:07.130 --> 00:20:09.630
+extracellulaire, le Na+, est majoritaire.
+
+417
+00:20:10.150 --> 00:20:13.130
+Le Cl- est majoritaire aussi en extracellulaire.
+
+418
+00:20:14.010 --> 00:20:15.430
+Ça c'est des constatations qu'on a
+
+419
+00:20:15.430 --> 00:20:15.850
+retrouvées.
+
+420
+00:20:16.150 --> 00:20:19.790
+Mais maintenant, pourquoi il y a un maintien
+
+421
+00:20:19.790 --> 00:20:23.770
+de ces concentrations, mais pas maintien, qu'est
+
+422
+00:20:23.770 --> 00:20:27.190
+-ce qui a provoqué ces différences de concentration
+
+423
+00:20:27.190 --> 00:20:29.450
+entre l'extracellulaire et l'intracellulaire ?
+
+424
+00:20:29.450 --> 00:20:30.710
+L'intracellulaire et l'extracellulaire.
+
+425
+00:20:31.070 --> 00:20:34.530
+Ce qui va maintenir ces concentrations différentielles, c
+
+426
+00:20:34.530 --> 00:20:38.190
+'est la membrane et un autre facteur.
+
+427
+00:20:39.030 --> 00:20:40.810
+L'autre facteur, c'est en fait celui
+
+428
+00:20:40.810 --> 00:20:47.170
+qui explique cette répartition différentielle entre les deux
+
+429
+00:20:47.170 --> 00:20:47.450
+milieux.
+
+430
+00:20:49.870 --> 00:20:53.110
+En fait, ce qui va expliquer, ce qui
+
+431
+00:20:53.110 --> 00:20:55.590
+va causer et maintenir en fait les gradients
+
+432
+00:20:55.590 --> 00:20:59.330
+de concentration, c'est une pompe très importante,
+
+433
+00:20:59.850 --> 00:21:03.810
+une protéine très importante, qui est transcellulaire aussi,
+
+434
+00:21:03.970 --> 00:21:07.050
+transmembranaire pardon, et qui est la pompe Na
+
+435
+00:21:07.050 --> 00:21:08.370
++, K+, ATPase.
+
+436
+00:21:08.750 --> 00:21:10.710
+C'est une pompe particulière parce qu'elle
+
+437
+00:21:10.710 --> 00:21:14.090
+va permettre l'entrée de K+, et
+
+438
+00:21:14.090 --> 00:21:16.770
+la sortie de Na+, contre leurs gradients
+
+439
+00:21:16.770 --> 00:21:17.550
+de concentration.
+
+440
+00:21:18.130 --> 00:21:20.630
+Pour pouvoir faire ça, elle va utiliser de
+
+441
+00:21:20.630 --> 00:21:22.330
+l'ATP, donc de l'énergie.
+
+442
+00:21:22.330 --> 00:21:25.530
+Il faut savoir que plus de 75%
+
+443
+00:21:25.530 --> 00:21:28.210
+de l'énergie de l'ATP qui va
+
+444
+00:21:28.210 --> 00:21:30.470
+entrer dans le cerveau va être consommée par
+
+445
+00:21:30.470 --> 00:21:30.970
+cette pompe.
+
+446
+00:21:31.410 --> 00:21:35.290
+Ce qui montre l'importance primordiale de cette
+
+447
+00:21:35.290 --> 00:21:37.670
+pompe pour la survie du neurone.
+
+448
+00:21:38.490 --> 00:21:41.750
+Donc sans cette pompe, on va avoir une
+
+449
+00:21:41.750 --> 00:21:44.250
+neurodégénérescence et on va avoir le patient qui
+
+450
+00:21:44.250 --> 00:21:45.310
+va mourir.
+
+451
+00:21:45.310 --> 00:21:48.050
+Donc, ou bien qu'il va y avoir
+
+452
+00:21:48.050 --> 00:21:50.930
+des déficits neurologiques, des pathologies neurologiques plus ou
+
+453
+00:21:50.930 --> 00:21:53.490
+moins graves, selon la gravité du déficit en
+
+454
+00:21:53.490 --> 00:21:54.190
+cette protéine.
+
+455
+00:21:55.630 --> 00:21:57.110
+On a dit que le K+, il
+
+456
+00:21:57.110 --> 00:21:59.210
+est plus concentré à l'intérieur, et le
+
+457
+00:21:59.210 --> 00:22:01.530
+Na+, plus concentré à l'extérieur.
+
+458
+00:22:01.710 --> 00:22:02.130
+Pourquoi ?
+
+459
+00:22:02.130 --> 00:22:03.350
+Parce qu'il y a cette pompe qui
+
+460
+00:22:03.350 --> 00:22:05.750
+provoque ça, et qui maintient ça en fait,
+
+461
+00:22:05.830 --> 00:22:08.590
+qui va maintenir cette répartition différentielle en faisant
+
+462
+00:22:08.590 --> 00:22:12.410
+sortir trois molécules de Na+, en faisant
+
+463
+00:22:12.410 --> 00:22:14.510
+entrer en même temps deux molécules de K
+
+464
+00:22:14.510 --> 00:22:18.090
++, en échange de deux molécules de K+.
+
+465
+00:22:21.000 --> 00:22:24.900
+Donc, les protéines transmembranaires sont très importantes.
+
+466
+00:22:26.280 --> 00:22:30.220
+Elles vont s'ouvrir ou bien se fermer
+
+467
+00:22:30.220 --> 00:22:31.800
+en réponse à plusieurs facteurs.
+
+468
+00:22:32.280 --> 00:22:35.260
+Il y a des facteurs chimio-dépendants, il
+
+469
+00:22:35.260 --> 00:22:37.260
+y a des protéines chimio-dépendantes, c'est
+
+470
+00:22:37.260 --> 00:22:38.140
+-à-dire qu'elles vont s'ouvrir ou
+
+471
+00:22:38.140 --> 00:22:41.080
+se fermer en réponse à l'adhésion d
+
+472
+00:22:41.080 --> 00:22:42.820
+'autres molécules, d'autres protéines.
+
+473
+00:22:43.400 --> 00:22:46.520
+Il y a les tensio-dépendantes, volto-dépendantes,
+
+474
+00:22:46.800 --> 00:22:48.780
+électro-dépendantes si vous voulez aussi.
+
+475
+00:22:49.680 --> 00:22:52.460
+Elles vont s'ouvrir en réponse à des
+
+476
+00:22:52.460 --> 00:22:58.680
+changements dans le voltage transmembranaire.
+
+477
+00:22:59.480 --> 00:23:00.620
+Et puis il y a les pompes Na
+
+478
+00:23:00.620 --> 00:23:04.100
++, K+, ATPase, ou bien la pompe
+
+479
+00:23:04.100 --> 00:23:07.780
+au calcium aussi, qui fait sortir le calcium
+
+480
+00:23:07.780 --> 00:23:08.800
+tout le temps de la cellule.
+
+481
+00:23:08.800 --> 00:23:12.060
+Ça c'est aussi des pompes qui répondent
+
+482
+00:23:12.060 --> 00:23:14.160
+à un transport actif et qui consomment de
+
+483
+00:23:14.160 --> 00:23:15.720
+l'énergie en conséquence.
+
+484
+00:23:20.550 --> 00:23:24.650
+Donc pour résumer, les principaux déterminants du potentiel
+
+485
+00:23:24.650 --> 00:23:28.850
+de repos sont la membrane qui va séparer
+
+486
+00:23:28.850 --> 00:23:33.170
+le milieu intra du milieu extracellulaire, la répartition
+
+487
+00:23:33.170 --> 00:23:36.130
+différentielle des ions et des protéines chargées négativement.
+
+488
+00:23:37.470 --> 00:23:41.290
+Les protéines chargées négativement sont plus à l
+
+489
+00:23:41.290 --> 00:23:42.950
+'intérieur et ne peuvent pas sortir.
+
+490
+00:23:43.230 --> 00:23:46.290
+Donc en plus des ions, elles vont participer
+
+491
+00:23:46.290 --> 00:23:51.830
+à cette répartition différentielle des ions, des charges
+
+492
+00:23:51.830 --> 00:23:53.850
+entre le milieu intra et l'extracellulaire.
+
+493
+00:23:54.570 --> 00:23:56.010
+Il y a la pompe Na+, K
+
+494
+00:23:56.010 --> 00:23:58.630
++, ATPase dont on a parlé, qui sans
+
+495
+00:23:58.630 --> 00:24:02.530
+elle va avoir un retour vers des potentiels
+
+496
+00:24:02.530 --> 00:24:05.230
+égaux entre le milieu intracellulaire et l'extracellulaire.
+
+497
+00:24:07.270 --> 00:24:09.290
+Il y a en plus l'excès d
+
+498
+00:24:09.290 --> 00:24:10.170
+'anions intracellulaires.
+
+499
+00:24:10.490 --> 00:24:15.090
+Ces anions sont localisés dans les protéines et
+
+500
+00:24:15.090 --> 00:24:15.910
+les acides nucléiques.
+
+501
+00:24:17.630 --> 00:24:18.910
+Et puis il y a les canaux ioniques
+
+502
+00:24:18.910 --> 00:24:21.010
+de fuite qu'on appelle les canaux ioniques
+
+503
+00:24:21.010 --> 00:24:24.010
+de fuite K+, qui laissent donc le
+
+504
+00:24:24.010 --> 00:24:26.210
+K+, fuir au repos.
+
+505
+00:24:26.970 --> 00:24:28.950
+Au repos, on a dit que les canaux
+
+506
+00:24:28.950 --> 00:24:31.690
+Na+, K+, sont fermés, mais il
+
+507
+00:24:31.690 --> 00:24:34.610
+y a 50 fois plus de tendance à
+
+508
+00:24:34.610 --> 00:24:35.990
+ce qu'il y ait une fuite de
+
+509
+00:24:35.990 --> 00:24:38.630
+K+, vers l'extérieur, que l'entrée
+
+510
+00:24:38.630 --> 00:24:39.730
+de Na+, vers l'intérieur.
+
+511
+00:24:40.290 --> 00:24:41.830
+Et vous pouvez imaginer que puisqu'il y
+
+512
+00:24:41.830 --> 00:24:44.310
+a plus de tendance à la sortie de
+
+513
+00:24:44.310 --> 00:24:46.710
+K+, donc à la sortie de charges
+
+514
+00:24:46.710 --> 00:24:49.090
+positives depuis le milieu intracellulaire vers le milieu
+
+515
+00:24:49.090 --> 00:24:51.810
+extracellulaire, ça fait que la cellule reste toujours
+
+516
+00:24:51.810 --> 00:24:53.390
+négative à l'intérieur.
+
+517
+00:25:00.230 --> 00:25:02.290
+On passe maintenant au potentiel d'action.
+
+518
+00:25:03.410 --> 00:25:04.970
+Comme on a dit, le potentiel d'action,
+
+519
+00:25:05.230 --> 00:25:07.350
+c'est la dépolarisation de la cellule et
+
+520
+00:25:07.350 --> 00:25:10.250
+le passage d'un niveau négatif à un
+
+521
+00:25:10.250 --> 00:25:12.190
+niveau positif en intracellulaire.
+
+522
+00:25:12.530 --> 00:25:13.890
+Maintenant on va voir comment ça va se
+
+523
+00:25:13.890 --> 00:25:14.490
+passer tout ça.
+
+524
+00:25:16.510 --> 00:25:20.030
+En fait, quand on va avoir la création
+
+525
+00:25:20.030 --> 00:25:22.630
+d'un potentiel d'action, c'est en
+
+526
+00:25:22.630 --> 00:25:24.570
+réponse à l'ouverture des canaux Na+.
+
+527
+00:25:24.950 --> 00:25:27.470
+Les canaux Na+, on va voir pourquoi
+
+528
+00:25:27.470 --> 00:25:28.170
+ils vont s'ouvrir.
+
+529
+00:25:28.530 --> 00:25:30.310
+Mais quand ils s'ouvrent, ils s'ouvrent
+
+530
+00:25:30.310 --> 00:25:33.210
+en grande quantité, et on va avoir une
+
+531
+00:25:33.210 --> 00:25:35.550
+entrée massive de Na+, à l'intérieur.
+
+532
+00:25:35.990 --> 00:25:36.790
+Pourquoi il va entrer?
+
+533
+00:25:37.090 --> 00:25:38.130
+En réponse aux deux gradients.
+
+534
+00:25:38.530 --> 00:25:40.530
+De concentration, parce que le milieu extracellulaire est
+
+535
+00:25:40.530 --> 00:25:41.850
+plus chargé en Na+, que le milieu
+
+536
+00:25:41.850 --> 00:25:43.910
+intracellulaire, donc il va avoir tendance à entrer.
+
+537
+00:25:44.790 --> 00:25:47.930
+Et aussi parce que le milieu intracellulaire est
+
+538
+00:25:47.930 --> 00:25:50.990
+négatif au repos, et quand on va avoir
+
+539
+00:25:50.990 --> 00:25:54.950
+une ouverture des canaux Na+, les ions
+
+540
+00:25:54.950 --> 00:25:56.750
+Na+, auront tendance à entrer parce qu
+
+541
+00:25:56.750 --> 00:25:59.690
+'ils sont chargés positivement, et vont être attirés
+
+542
+00:25:59.690 --> 00:26:01.090
+par la négativité.
+
+543
+00:26:01.570 --> 00:26:04.070
+Donc les deux gradients de concentration électrique vont
+
+544
+00:26:04.070 --> 00:26:05.890
+pousser Na+, vers l'intérieur.
+
+545
+00:26:06.490 --> 00:26:09.450
+Ce qui va apporter des charges positives importantes
+
+546
+00:26:09.450 --> 00:26:11.750
+vers l'intérieur, et ceci sera à l
+
+547
+00:26:11.750 --> 00:26:13.510
+'origine de la dépolarisation de la cellule.
+
+548
+00:26:14.070 --> 00:26:16.070
+Puis, à un certain moment, on va avoir
+
+549
+00:26:16.070 --> 00:26:17.950
+les canaux K+, qui sont juste à
+
+550
+00:26:17.950 --> 00:26:19.370
+côté, qui vont commencer à s'ouvrir.
+
+551
+00:26:19.790 --> 00:26:23.070
+Et les canaux K+, quand ils vont
+
+552
+00:26:23.070 --> 00:26:25.550
+s'ouvrir, K+, va sortir.
+
+553
+00:26:25.710 --> 00:26:25.930
+Pourquoi?
+
+554
+00:26:26.250 --> 00:26:28.790
+En réponse toujours aux gradients de concentration, surtout,
+
+555
+00:26:29.430 --> 00:26:30.570
+qui est très grand et qui va faire
+
+556
+00:26:30.570 --> 00:26:33.710
+sortir K+, depuis le milieu intracellulaire vers
+
+557
+00:26:33.710 --> 00:26:35.310
+le milieu extracellulaire.
+
+558
+00:26:35.810 --> 00:26:36.910
+Et puis à la fin, il va y
+
+559
+00:26:36.910 --> 00:26:38.950
+avoir une phase qu'on appelle l'hyperpolarisation,
+
+560
+00:26:39.530 --> 00:26:41.030
+où les canaux K+, vont continuer à
+
+561
+00:26:41.030 --> 00:26:44.150
+être ouverts, et vont permettre plus de sortie
+
+562
+00:26:44.150 --> 00:26:44.810
+de K+.
+
+563
+00:26:44.810 --> 00:26:47.130
+C'est ce qu'on appelle l'hyperpolarisation.
+
+564
+00:26:47.130 --> 00:26:50.630
+Et à la fin, quand on va avoir
+
+565
+00:26:50.630 --> 00:26:52.730
+la fin de l'hyperpolarisation, les pompes Na
+
+566
+00:26:52.730 --> 00:26:57.370
++, K+, ATPase vont intervenir pour rétablir
+
+567
+00:26:57.370 --> 00:27:00.690
+les concentrations de base de Na+, K
+
+568
+00:27:00.690 --> 00:27:05.910
++, entre le milieu intra-extracellulaire, juste immédiatement
+
+569
+00:27:05.910 --> 00:27:07.970
+dans la proximité de la membrane.
+
+570
+00:27:10.860 --> 00:27:13.580
+Ce schéma est très important, il permet d
+
+571
+00:27:13.580 --> 00:27:14.320
+'expliquer tout ça.
+
+572
+00:27:15.220 --> 00:27:18.660
+Comme vous pouvez le voir, là on est
+
+573
+00:27:18.660 --> 00:27:20.440
+au repos, ça c'est le début.
+
+574
+00:27:20.760 --> 00:27:23.260
+Au début, les canaux Na+, K+,
+
+575
+00:27:23.260 --> 00:27:24.800
+sont fermés, donc il n'y a pas
+
+576
+00:27:24.800 --> 00:27:27.040
+d'entrée de Na+, il n'y
+
+577
+00:27:27.040 --> 00:27:29.320
+a pas de sortie de K+.
+
+578
+00:27:29.320 --> 00:27:31.360
+Et c'est ça l'état de repos.
+
+579
+00:27:31.980 --> 00:27:35.020
+Quand on va avoir un certain nombre de
+
+580
+00:27:35.020 --> 00:27:38.140
+facteurs qui vont faire augmenter le potentiel de
+
+581
+00:27:38.140 --> 00:27:40.660
+membrane, jusqu'à une valeur qu'on appelle
+
+582
+00:27:40.660 --> 00:27:43.920
+la valeur seuil, quels sont ces facteurs en
+
+583
+00:27:43.920 --> 00:27:44.540
+fait ?
+
+584
+00:27:44.540 --> 00:27:46.220
+Ces facteurs, c'est des simulations externes, c
+
+585
+00:27:46.220 --> 00:27:48.800
+'est le fait que le corps cellulaire a
+
+586
+00:27:48.800 --> 00:27:51.300
+reçu des PPSE, dont on a parlé tout
+
+587
+00:27:51.300 --> 00:27:53.480
+à l'heure, des potentiels postsynaptiques excitateurs de
+
+588
+00:27:53.480 --> 00:27:54.900
+la part des dendrites.
+
+589
+00:27:55.620 --> 00:27:59.620
+Et quand il va concentrer l'ensemble des
+
+590
+00:27:59.620 --> 00:28:03.480
+potentiels qu'il va recevoir, des PPSE, qui
+
+591
+00:28:03.480 --> 00:28:09.240
+va recevoir des dendrites, si l'ensemble arrive
+
+592
+00:28:09.240 --> 00:28:13.180
+au potentiel seuil, moins 55, ça va provoquer
+
+593
+00:28:13.180 --> 00:28:15.200
+l'ouverture des canaux Na+.
+
+594
+00:28:15.200 --> 00:28:17.020
+L'ouverture des canaux Na+, comme vous
+
+595
+00:28:17.020 --> 00:28:19.240
+pouvez le voir ici, provoque la phase de
+
+596
+00:28:19.240 --> 00:28:20.000
+dépolarisation.
+
+597
+00:28:20.280 --> 00:28:23.640
+Donc là, on dépend plus des PPSE, on
+
+598
+00:28:23.640 --> 00:28:27.760
+dépend juste de l'ouverture des canaux Na
+
+599
+00:28:27.760 --> 00:28:29.820
++, donc la sortie massive de Na+.
+
+600
+00:28:29.820 --> 00:28:33.240
+Après la sortie massive de Na+, il
+
+601
+00:28:33.240 --> 00:28:35.160
+va y avoir, dans la troisième phase, la
+
+602
+00:28:35.160 --> 00:28:35.700
+phase de repolarisation.
+
+603
+00:28:36.400 --> 00:28:39.940
+Début de fermeture des canaux Na+, et
+
+604
+00:28:39.940 --> 00:28:43.160
+au contraire, l'ouverture des canaux Ka+.
+
+605
+00:28:43.160 --> 00:28:46.780
+C'est ce qui va expliquer le retour
+
+606
+00:28:46.780 --> 00:28:49.900
+du potentiel vers des valeurs négatives jusqu'à
+
+607
+00:28:49.900 --> 00:28:54.440
+ce qu'on atteigne la valeur normale, qui
+
+608
+00:28:54.440 --> 00:28:55.680
+est de moins 70.
+
+609
+00:28:56.500 --> 00:28:58.560
+Et à ce niveau, on va avoir la
+
+610
+00:28:58.560 --> 00:29:01.120
+phase 4, maintien de l'ouverture des canaux
+
+611
+00:29:01.120 --> 00:29:05.300
+Ka+, et l'hyperpolarisation, c'est-à
+
+612
+00:29:05.300 --> 00:29:08.040
+-dire que le potentiel devient encore plus négatif
+
+613
+00:29:08.040 --> 00:29:08.880
+que d'habitude.
+
+614
+00:29:09.400 --> 00:29:11.260
+Puis on va retourner vers la normale.
+
+615
+00:29:18.420 --> 00:29:21.140
+Le potentiel d'action a des caractéristiques très
+
+616
+00:29:21.140 --> 00:29:21.700
+importantes.
+
+617
+00:29:22.980 --> 00:29:25.440
+Il a un seuil de déclenchement, c'est
+
+618
+00:29:25.440 --> 00:29:27.380
+-à-dire que si on n'atteint pas
+
+619
+00:29:27.380 --> 00:29:30.700
+la valeur seuil qu'on a mentionnée tout
+
+620
+00:29:30.700 --> 00:29:31.860
+à l'heure, qui est de moins 55,
+
+621
+00:29:32.740 --> 00:29:34.640
+on ne peut pas avoir d'ouverture des
+
+622
+00:29:34.640 --> 00:29:36.020
+canaux Na+, et on ne peut pas
+
+623
+00:29:36.020 --> 00:29:42.020
+avoir de potentiel de potentiel d'action.
+
+624
+00:29:42.540 --> 00:29:46.560
+Si jamais l'intégration synaptique de tous les
+
+625
+00:29:46.560 --> 00:29:49.900
+potentiels post-synaptiques excitateurs et inhibiteurs qu'on
+
+626
+00:29:49.900 --> 00:29:52.820
+a eus n'atteint pas le potentiel seuil,
+
+627
+00:29:53.420 --> 00:29:55.920
+on va avoir un retour vers les valeurs
+
+628
+00:29:55.920 --> 00:29:58.800
+normales, sans qu'il y ait de dépolarisation.
+
+629
+00:30:00.340 --> 00:30:02.020
+Il se fait au niveau du compte d
+
+630
+00:30:02.020 --> 00:30:04.680
+'implantation, et on a compris pourquoi, parce que
+
+631
+00:30:04.680 --> 00:30:09.720
+la concentration des canaux Na+, est grande
+
+632
+00:30:09.720 --> 00:30:12.100
+seulement dans le compte d'implantation, et puis
+
+633
+00:30:12.100 --> 00:30:14.600
+par la suite dans l'axone, et non
+
+634
+00:30:14.600 --> 00:30:16.500
+pas dans les dendrites ou bien dans le
+
+635
+00:30:16.500 --> 00:30:17.240
+corps cellulaire.
+
+636
+00:30:18.520 --> 00:30:20.340
+Elle répond à la loi de Totorien, c
+
+637
+00:30:20.340 --> 00:30:21.800
+'est-à-dire que soit qu'il y
+
+638
+00:30:21.800 --> 00:30:23.300
+a un potentiel d'action, soit qu'il
+
+639
+00:30:23.300 --> 00:30:24.500
+n'y a pas de potentiel d'action,
+
+640
+00:30:25.060 --> 00:30:27.940
+et la force est toujours la même pour
+
+641
+00:30:27.940 --> 00:30:29.100
+un potentiel d'action, c'est-à-dire
+
+642
+00:30:29.100 --> 00:30:31.340
+l'amplitude est toujours la même, et on
+
+643
+00:30:31.340 --> 00:30:33.320
+ne peut pas avoir un potentiel qui a
+
+644
+00:30:33.320 --> 00:30:37.540
+une amplitude plus ou moins grande selon la
+
+645
+00:30:37.540 --> 00:30:39.760
+force du stimulus externe.
+
+646
+00:30:40.780 --> 00:30:42.640
+Maintenant, vous allez me dire qu'est-ce
+
+647
+00:30:42.640 --> 00:30:49.080
+qui va provoquer le fait qu'on va
+
+648
+00:30:49.080 --> 00:30:52.300
+sentir le stimulus comme étant un grand stimulus
+
+649
+00:30:52.300 --> 00:30:53.520
+ou bien un petit stimulus.
+
+650
+00:30:54.360 --> 00:30:57.420
+Ce qui va en fait faire la différence
+
+651
+00:30:57.420 --> 00:30:59.220
+pour nous, comment est-ce qu'on va
+
+652
+00:30:59.220 --> 00:31:02.100
+comprendre qu'on a été stimulé par un
+
+653
+00:31:02.100 --> 00:31:04.740
+stimulus qui a une forte intensité ou bien
+
+654
+00:31:04.740 --> 00:31:07.120
+une petite intensité, c'est comment est-ce
+
+655
+00:31:07.120 --> 00:31:12.600
+que le système nerveux va interpréter cette intensité
+
+656
+00:31:12.600 --> 00:31:14.580
+en termes de fréquence de potentiel d'action
+
+657
+00:31:14.580 --> 00:31:16.400
+et non pas d'amplitude du potentiel d
+
+658
+00:31:16.400 --> 00:31:16.580
+'action.
+
+659
+00:31:16.940 --> 00:31:18.740
+Ça, c'est une notion fondamentale.
+
+660
+00:31:19.720 --> 00:31:22.880
+Si on a un stimulus avec une intensité
+
+661
+00:31:22.880 --> 00:31:31.600
+importante, ça va engendrer des potentiels d'action
+
+662
+00:31:31.600 --> 00:31:32.820
+avec une grande fréquence.
+
+663
+00:31:33.260 --> 00:31:35.480
+Si c'est un stimulus avec une petite
+
+664
+00:31:35.480 --> 00:31:38.620
+intensité, ça va engendrer des potentiels d'action
+
+665
+00:31:38.620 --> 00:31:40.440
+avec une petite fréquence.
+
+666
+00:31:41.680 --> 00:31:44.180
+Enfin, le potentiel d'action est caractérisé par
+
+667
+00:31:44.180 --> 00:31:46.520
+ce qu'on appelle la période réfractaire, c
+
+668
+00:31:46.520 --> 00:31:47.440
+'est-à-dire que lorsque l'on va
+
+669
+00:31:47.440 --> 00:31:49.240
+avoir la fin d'un potentiel d'action,
+
+670
+00:31:50.140 --> 00:31:52.380
+les canaux Na+, ne peuvent plus s
+
+671
+00:31:52.380 --> 00:31:56.700
+'ouvrir qu'après une certaine période de 200
+
+672
+00:31:56.700 --> 00:31:57.700
+ms à peu près.
+
+673
+00:31:58.720 --> 00:32:03.440
+Si on a un nouveau signal post-synaptique
+
+674
+00:32:03.440 --> 00:32:06.620
+excitateur qui va arriver au potentiel seuil, on
+
+675
+00:32:06.620 --> 00:32:08.640
+ne peut pas avoir un nouveau potentiel d
+
+676
+00:32:08.640 --> 00:32:12.220
+'action que lorsque cette période réfractaire aura passé.
+
+677
+00:32:12.960 --> 00:32:15.800
+Parce que les canaux Na+, dans leur
+
+678
+00:32:15.800 --> 00:32:18.540
+structure, dans la façon avec laquelle ils ont
+
+679
+00:32:18.540 --> 00:32:23.640
+été produits, construits, ils ont cette caractéristique qu
+
+680
+00:32:23.640 --> 00:32:26.340
+'une fois qu'ils sont ouverts, quand ils
+
+681
+00:32:26.340 --> 00:32:29.100
+vont être fermés, ils ne peuvent plus s
+
+682
+00:32:29.100 --> 00:32:32.200
+'ouvrir encore une fois qu'après une période
+
+683
+00:32:32.200 --> 00:32:33.000
+réfractaire.
+
+684
+00:32:33.560 --> 00:32:36.820
+Ceci est fondamental et explique pourquoi le potentiel
+
+685
+00:32:36.820 --> 00:32:39.140
+d'action va diffuser dans un seul sens.
+
+686
+00:32:39.140 --> 00:32:41.700
+S'il n'y avait pas cette période
+
+687
+00:32:41.700 --> 00:32:44.060
+réfractaire, comme on va le voir plus tard,
+
+688
+00:32:44.560 --> 00:32:46.640
+le potentiel d'action va commencer à venir
+
+689
+00:32:46.640 --> 00:32:49.740
+et à repartir et ça va être à
+
+690
+00:32:49.740 --> 00:32:53.820
+cause d'un problème de problème majeur comme
+
+691
+00:32:53.820 --> 00:32:55.920
+la douleur neuropathique, comme l'épilepsie, etc.
+
+692
+00:32:59.690 --> 00:33:02.850
+On a vu ce qui explique le potentiel
+
+693
+00:33:02.850 --> 00:33:03.350
+de repos.
+
+694
+00:33:04.830 --> 00:33:06.910
+On a vu ce qui explique le potentiel
+
+695
+00:33:06.910 --> 00:33:07.370
+d'action.
+
+696
+00:33:08.090 --> 00:33:10.190
+Maintenant, qu'est-ce qui se passe quand
+
+697
+00:33:10.190 --> 00:33:11.830
+on a créé ce potentiel d'action au
+
+698
+00:33:11.830 --> 00:33:13.070
+niveau du compte d'implantation?
+
+699
+00:33:13.730 --> 00:33:14.630
+Qu'est-ce qui va se passer?
+
+700
+00:33:15.870 --> 00:33:17.570
+En fait, il va se propager.
+
+701
+00:33:18.670 --> 00:33:19.710
+Et comment est-ce qu'il va se
+
+702
+00:33:19.710 --> 00:33:20.170
+propager?
+
+703
+00:33:20.510 --> 00:33:22.630
+Comment est-ce que le potentiel d'action
+
+704
+00:33:22.630 --> 00:33:25.610
+va partir depuis le compte d'implantation jusqu
+
+705
+00:33:25.610 --> 00:33:26.350
+'à la synapse?
+
+706
+00:33:26.890 --> 00:33:28.090
+C'est l'objectif de cette partie.
+
+707
+00:33:32.220 --> 00:33:36.080
+Je préfère expliquer cette partie ici sur ce
+
+708
+00:33:36.080 --> 00:33:36.360
+schéma.
+
+709
+00:33:38.620 --> 00:33:44.240
+Oubliez qu'il y a cette myéline.
+
+710
+00:33:44.440 --> 00:33:47.320
+Ce que vous voyez là en orange un
+
+711
+00:33:47.320 --> 00:33:49.280
+peu marrant, c'est la myéline.
+
+712
+00:33:49.780 --> 00:33:51.860
+Si on n'avait pas la myéline, quand
+
+713
+00:33:51.860 --> 00:33:53.480
+on va avoir un potentiel d'action dans
+
+714
+00:33:53.480 --> 00:33:55.120
+le compte d'implantation, on suppose que ça,
+
+715
+00:33:55.220 --> 00:33:57.380
+c'est le compte d'implantation, quand on
+
+716
+00:33:57.380 --> 00:33:58.640
+va avoir un potentiel d'action, c'est
+
+717
+00:33:58.640 --> 00:34:00.640
+-à-dire que là, c'est devenu positif
+
+718
+00:34:00.640 --> 00:34:01.860
+et là, c'est devenu négatif.
+
+719
+00:34:03.040 --> 00:34:06.260
+En fait, la positivité à ce niveau, va
+
+720
+00:34:06.260 --> 00:34:08.980
+attirer vers elle les électrons de la partie
+
+721
+00:34:08.980 --> 00:34:10.179
+proximale.
+
+722
+00:34:10.440 --> 00:34:12.940
+Et ces électrons qui sont dans la partie
+
+723
+00:34:12.940 --> 00:34:18.199
+proximale, vont se déplacer vers le compte d
+
+724
+00:34:18.199 --> 00:34:20.500
+'implantation et ça va créer dans cette partie
+
+725
+00:34:20.500 --> 00:34:23.139
+proximale de plus en plus de positivité à
+
+726
+00:34:23.139 --> 00:34:23.520
+l'intérieur.
+
+727
+00:34:23.880 --> 00:34:26.120
+C'est le mouvement des électrons qui va
+
+728
+00:34:26.120 --> 00:34:29.139
+créer de la positivité dans la partie proximale
+
+729
+00:34:29.139 --> 00:34:29.940
+en aval.
+
+730
+00:34:29.940 --> 00:34:33.380
+Et ce départ des électrons, quand il va
+
+731
+00:34:33.380 --> 00:34:37.159
+créer cette positivité, quand la positivité atteint le
+
+732
+00:34:37.159 --> 00:34:39.940
+seuil, ça va créer une ouverture des canaux.
+
+733
+00:34:40.020 --> 00:34:41.380
+Il y en a plus dans la partie
+
+734
+00:34:41.380 --> 00:34:44.580
+en aval proximale et ça va créer un
+
+735
+00:34:44.580 --> 00:34:45.260
+potentiel d'action.
+
+736
+00:34:45.800 --> 00:34:47.780
+Et ce processus va se répéter de proche
+
+737
+00:34:47.780 --> 00:34:49.560
+en proche, de proche en proche, jusqu'à
+
+738
+00:34:49.560 --> 00:34:52.840
+l'arrivée au niveau de la synapse.
+
+739
+00:34:53.159 --> 00:34:55.739
+Comme vous pouvez l'imaginer, ce processus va
+
+740
+00:34:55.739 --> 00:34:56.180
+être long.
+
+741
+00:34:56.760 --> 00:34:58.660
+Aller de proche en proche, de proche en
+
+742
+00:34:58.660 --> 00:35:01.060
+proche, ça va être un processus long.
+
+743
+00:35:01.580 --> 00:35:05.640
+Ce processus existe pour certaines fibres qui sont
+
+744
+00:35:05.640 --> 00:35:09.660
+dépourvues de myéline, comme les fibres C, qui
+
+745
+00:35:09.660 --> 00:35:11.500
+sont à l'origine du transport de la
+
+746
+00:35:11.500 --> 00:35:11.900
+douleur.
+
+747
+00:35:13.580 --> 00:35:18.600
+Par contre, la plupart des neurones sont myélinisés,
+
+748
+00:35:18.760 --> 00:35:19.780
+c'est-à-dire qu'ils sont couverts
+
+749
+00:35:19.780 --> 00:35:22.320
+de la myéline, et pas sur toute la
+
+750
+00:35:22.320 --> 00:35:26.680
+longueur bien sûr de l'axone, mais sur
+
+751
+00:35:26.680 --> 00:35:29.660
+des longueurs, et puis c'est entrecoupé de
+
+752
+00:35:29.660 --> 00:35:33.380
+zones qui sont dépourvues de myéline.
+
+753
+00:35:33.740 --> 00:35:35.520
+Ces zones qui sont dépourvues de myéline, ça
+
+754
+00:35:35.520 --> 00:35:37.780
+s'appelle les noeuds de Ranvier.
+
+755
+00:35:38.580 --> 00:35:39.460
+En fait, qu'est-ce qui se passe
+
+756
+00:35:39.460 --> 00:35:39.560
+?
+
+757
+00:35:39.560 --> 00:35:41.660
+On revient vers, si on suppose encore une
+
+758
+00:35:41.660 --> 00:35:43.080
+fois que ça c'est le camp d
+
+759
+00:35:43.080 --> 00:35:45.420
+'implantation, quand on va avoir le potentiel d
+
+760
+00:35:45.420 --> 00:35:51.500
+'action à ce niveau, la dépolarisation est associée
+
+761
+00:35:51.500 --> 00:35:53.900
+à la positivité à l'intérieur.
+
+762
+00:35:54.680 --> 00:35:57.640
+Cette positivité va attirer les électrons non pas
+
+763
+00:35:57.640 --> 00:35:59.580
+de la zone proche, mais d'une zone
+
+764
+00:35:59.580 --> 00:36:01.580
+très lointaine, qui est le noeud de Ranvier.
+
+765
+00:36:02.020 --> 00:36:05.000
+Ça va devenir positif jusqu'à atteindre le
+
+766
+00:36:05.000 --> 00:36:07.740
+seuil, et on va avoir un potentiel d
+
+767
+00:36:07.740 --> 00:36:09.000
+'action qui va se créer ici.
+
+768
+00:36:09.320 --> 00:36:12.060
+La même chose, cette positivité qui se crée
+
+769
+00:36:12.060 --> 00:36:15.760
+ici va attirer vers elle les électrons du
+
+770
+00:36:15.760 --> 00:36:18.520
+noeud de Ranvier suivant, et ainsi de suite.
+
+771
+00:36:18.760 --> 00:36:21.700
+Donc le potentiel d'action va sauter, c
+
+772
+00:36:21.700 --> 00:36:24.120
+'est pourquoi on appelle ça la conduction saltatoire.
+
+773
+00:36:24.580 --> 00:36:26.500
+Le potentiel d'action va sauter d'un
+
+774
+00:36:26.500 --> 00:36:28.240
+noeud de Ranvier à l'autre, et ça
+
+775
+00:36:28.240 --> 00:36:33.900
+va court-circuiter plusieurs, à une grande distance,
+
+776
+00:36:34.500 --> 00:36:37.140
+et c'est pourquoi la transmission est plus
+
+777
+00:36:37.140 --> 00:36:37.580
+rapide.
+
+778
+00:36:38.060 --> 00:36:41.200
+Donc la transmission, le rôle principal de la
+
+779
+00:36:41.200 --> 00:36:43.220
+myéline, c'est de rendre la transmission plus
+
+780
+00:36:43.220 --> 00:36:46.160
+rapide par rapport aux cellules qui sont dépervues
+
+781
+00:36:46.160 --> 00:36:48.600
+de myéline, et qui vont avoir une transmission
+
+782
+00:36:48.600 --> 00:36:49.480
+plus lente.
+
+783
+00:36:53.080 --> 00:36:56.220
+Une autre notion, on revient à la notion
+
+784
+00:36:56.220 --> 00:36:59.980
+de période réfractaire, quand on va avoir, par
+
+785
+00:36:59.980 --> 00:37:01.820
+exemple, le potentiel d'action qui va se
+
+786
+00:37:01.820 --> 00:37:06.000
+créer ici, il va partir seulement vers l
+
+787
+00:37:06.000 --> 00:37:07.700
+'aval, il ne va pas revenir en amont.
+
+788
+00:37:07.860 --> 00:37:08.200
+Pourquoi ?
+
+789
+00:37:08.200 --> 00:37:11.720
+Parce que la positivité ici, ça on le
+
+790
+00:37:11.720 --> 00:37:15.660
+suppose, c'est logique, la positivité va attirer
+
+791
+00:37:15.660 --> 00:37:18.320
+vers elle les électrons du noeud de Ranvier
+
+792
+00:37:19.280 --> 00:37:23.920
+suivant, mais aussi de la zone du noeud
+
+793
+00:37:23.920 --> 00:37:25.620
+de Ranvier ou bien du compte d'implantation
+
+794
+00:37:25.620 --> 00:37:26.180
+en amont.
+
+795
+00:37:26.800 --> 00:37:28.700
+Les électrons vont partir d'ici et vont
+
+796
+00:37:28.700 --> 00:37:32.140
+partir d'ici, et vont être attirés par
+
+797
+00:37:32.140 --> 00:37:32.960
+la positivité.
+
+798
+00:37:33.660 --> 00:37:36.960
+Mais on va avoir donc ici la positivité
+
+799
+00:37:36.960 --> 00:37:42.180
+jusqu'à atteindre le seuil, mais on va
+
+800
+00:37:42.180 --> 00:37:44.300
+avoir un potentiel d'action seulement à ce
+
+801
+00:37:44.300 --> 00:37:46.600
+niveau et non pas à ce niveau, parce
+
+802
+00:37:46.600 --> 00:37:49.400
+qu'à ce niveau les canaux Na+,
+
+803
+00:37:49.400 --> 00:37:53.400
+qui n'ont jamais été dans les millisecondes
+
+804
+00:37:53.400 --> 00:37:56.220
+qui précèdent, n'étaient pas activés.
+
+805
+00:37:56.660 --> 00:37:57.920
+Donc ils vont s'ouvrir.
+
+806
+00:37:58.260 --> 00:38:00.240
+Alors que les canaux Na+, qui sont
+
+807
+00:38:00.240 --> 00:38:03.560
+là, étaient juste activés quelques millisecondes avant, donc
+
+808
+00:38:03.560 --> 00:38:05.540
+ils vont rester fermés.
+
+809
+00:38:05.980 --> 00:38:06.900
+C'est ce qu'on appelle la période
+
+810
+00:38:06.900 --> 00:38:07.460
+réfractaire.
+
+811
+00:38:07.460 --> 00:38:10.260
+Donc la période réfractaire explique que le potentiel
+
+812
+00:38:10.260 --> 00:38:12.840
+d'action va partir juste dans un seul
+
+813
+00:38:12.840 --> 00:38:13.220
+sens.
+
+814
+00:38:14.240 --> 00:38:16.960
+Mais supposons maintenant qu'on vient au repos
+
+815
+00:38:16.960 --> 00:38:19.680
+et qu'on part directement sur l'axone
+
+816
+00:38:19.680 --> 00:38:23.980
+au milieu et qu'on crée une simulation,
+
+817
+00:38:24.240 --> 00:38:26.700
+qu'on fait une simulation électrique provoquée à
+
+818
+00:38:26.700 --> 00:38:27.020
+ce niveau.
+
+819
+00:38:27.400 --> 00:38:28.940
+Donc on va provoquer bien sûr un potentiel
+
+820
+00:38:28.940 --> 00:38:32.580
+d'action à ce niveau et cette positivité
+
+821
+00:38:32.580 --> 00:38:34.440
+va être perçue de part et d'autre.
+
+822
+00:38:35.160 --> 00:38:36.700
+Et donc si elle est perçue de part
+
+823
+00:38:36.700 --> 00:38:40.120
+et d'autre, elle va aboutir à la
+
+824
+00:38:40.120 --> 00:38:42.920
+transmission du potentiel d'action en aval et
+
+825
+00:38:42.920 --> 00:38:43.420
+en amont.
+
+826
+00:38:43.760 --> 00:38:46.700
+Mais ça c'est une transmission qui est...
+
+827
+00:38:46.700 --> 00:38:48.520
+C'est du provoqué, c'est pas du
+
+828
+00:38:48.520 --> 00:38:49.120
+physiologique.
+
+829
+00:38:50.540 --> 00:38:52.600
+Supposons qu'on va pas avoir de période
+
+830
+00:38:52.600 --> 00:38:53.260
+réfractaire.
+
+831
+00:38:54.160 --> 00:38:54.920
+C'est-à-dire qu'on a un
+
+832
+00:38:54.920 --> 00:38:57.820
+potentiel d'action ici, il va se transmettre
+
+833
+00:38:57.820 --> 00:38:59.620
+à ce niveau, mais il va aussi se
+
+834
+00:38:59.620 --> 00:39:00.580
+transmettre à ce niveau.
+
+835
+00:39:01.000 --> 00:39:02.560
+Et on va voir création de potentiel d
+
+836
+00:39:02.560 --> 00:39:04.180
+'action ici et ici.
+
+837
+00:39:04.840 --> 00:39:06.940
+Et non pas seulement en aval, mais aussi
+
+838
+00:39:06.940 --> 00:39:07.420
+en amont.
+
+839
+00:39:08.180 --> 00:39:11.260
+Ce qui va provoquer le premier potentiel qui
+
+840
+00:39:11.260 --> 00:39:13.980
+va continuer à partir, mais la création d
+
+841
+00:39:13.980 --> 00:39:16.040
+'un deuxième potentiel d'action à ce niveau,
+
+842
+00:39:16.320 --> 00:39:19.020
+qui va partir encore une fois et ça
+
+843
+00:39:19.020 --> 00:39:20.720
+va revenir et ça va partir et ça
+
+844
+00:39:20.720 --> 00:39:21.980
+va revenir et ça va partir.
+
+845
+00:39:22.380 --> 00:39:24.580
+Donc entre chaque deux noeuds de renvier, on
+
+846
+00:39:24.580 --> 00:39:26.720
+va avoir une création d'un nombre illimité
+
+847
+00:39:26.720 --> 00:39:28.060
+de potentiel d'action.
+
+848
+00:39:28.480 --> 00:39:31.320
+Ce qui sera à l'origine de crise
+
+849
+00:39:31.320 --> 00:39:35.240
+épileptique, de douleur neuropathique, d'un excès de
+
+850
+00:39:35.240 --> 00:39:37.380
+fonction qui n'est pas physiologique, qui est
+
+851
+00:39:37.380 --> 00:39:37.980
+pathologique.
+
+852
+00:39:42.160 --> 00:39:45.340
+Donc on a vu ensemble dans cette première
+
+853
+00:39:45.340 --> 00:39:50.340
+partie le potentiel de membrane, le potentiel d
+
+854
+00:39:50.340 --> 00:39:50.840
+'action, etc.
+
+855
+00:39:51.500 --> 00:39:54.500
+Donc on va voir dans la deuxième partie
+
+856
+00:39:54.500 --> 00:39:57.620
+la transmission synaptique.
+
+857
+00:39:59.100 --> 00:40:00.140
+Merci pour votre attention.

@@ -1,0 +1,2727 @@
+1
+00:00:00,070 --> 00:00:02,990
+Bonjour, on va faire aujourd'hui deux cours.
+
+2
+00:00:03,230 --> 00:00:06,130
+Le premier intitulé les infections à Staphylococcus et
+
+3
+00:00:06,130 --> 00:00:09,270
+le deuxième, les infections à Bacillus gramme négative.
+
+4
+00:00:09,750 --> 00:00:11,410
+Les objectifs de ce cours, c'est de
+
+5
+00:00:11,410 --> 00:00:14,650
+reconnaître devant des signes cliniques un sepsis et
+
+6
+00:00:14,650 --> 00:00:17,950
+d'évaluer sa gravité, de chercher devant un
+
+7
+00:00:17,950 --> 00:00:20,330
+sepsis la porte d'entrée et les localisations
+
+8
+00:00:20,330 --> 00:00:23,750
+secondaires, de prescrire devant un sepsis les examens
+
+9
+00:00:23,750 --> 00:00:28,550
+paracliniques adaptés, de démarrer les antibiotiques adaptés selon
+
+10
+00:00:28,550 --> 00:00:32,550
+l'agent pathogène présumé et d'adapter l
+
+11
+00:00:32,550 --> 00:00:34,470
+'antibiothérapie après l'antibiogramme.
+
+12
+00:00:35,590 --> 00:00:38,150
+Commençons donc par les infections à Staphylococcus.
+
+13
+00:00:38,590 --> 00:00:41,710
+Les infections à Staphylococcus, ils regroupent les infections
+
+14
+00:00:41,710 --> 00:00:45,670
+supératives, superficielles et profondes qui impliquent la prolifération
+
+15
+00:00:45,670 --> 00:00:48,710
+bactérielle, l'invasion puis la destruction des tissus
+
+16
+00:00:48,710 --> 00:00:50,930
+de l'hôte, la réponse inflammatoire locale et
+
+17
+00:00:50,930 --> 00:00:54,010
+systémique dont le principal responsable est le Staphylococcus
+
+18
+00:00:54,010 --> 00:00:57,450
+aureus qui va donner des infections superficielles comme
+
+19
+00:00:57,450 --> 00:01:00,110
+le furoncle, l'anthrax et aussi des infections
+
+20
+00:01:00,110 --> 00:01:03,410
+profondes généralisées comme les bactéries émilles, les atteintes
+
+21
+00:01:03,410 --> 00:01:06,910
+viscérales comme les ostéites, les arthrites et les
+
+22
+00:01:06,910 --> 00:01:07,610
+ontocardites.
+
+23
+00:01:08,090 --> 00:01:09,830
+Et le deuxième groupe d'infections, ce sont
+
+24
+00:01:09,830 --> 00:01:12,410
+les infections non-supératives qui sont d'origine
+
+25
+00:01:12,410 --> 00:01:14,730
+toxinique, c'est-à-dire ils sont la
+
+26
+00:01:14,730 --> 00:01:17,130
+conséquence de la libération de toxines par les
+
+27
+00:01:17,130 --> 00:01:17,830
+Staphylococcus.
+
+28
+00:01:18,290 --> 00:01:21,150
+Ces infections, elles peuvent être aussi bien communautaires
+
+29
+00:01:21,150 --> 00:01:22,630
+comme associées aux soins.
+
+30
+00:01:22,630 --> 00:01:26,130
+L'agent causal des infections staphylococciques, c'est
+
+31
+00:01:26,130 --> 00:01:28,670
+le Staphylococcus ou le Staphylococcus.
+
+32
+00:01:28,870 --> 00:01:32,370
+C'est un cocci grain positif, arrondi, non
+
+33
+00:01:32,370 --> 00:01:35,310
+-capsulé, très résistant dans le milieu extérieur et
+
+34
+00:01:35,310 --> 00:01:37,550
+groupé en amas ayant la forme de grappes
+
+35
+00:01:37,550 --> 00:01:42,070
+de raisins immobiles, non-sporulées, peu exigeant en
+
+36
+00:01:42,070 --> 00:01:43,250
+milieu de culture.
+
+37
+00:01:43,770 --> 00:01:45,190
+Donc ce sont les grappes de raisins que
+
+38
+00:01:45,190 --> 00:01:47,170
+vous voyez sur la photo en haut.
+
+39
+00:01:47,170 --> 00:01:52,410
+On distingue les Staphylococcus aquagulatus positif ou Staphylococcus
+
+40
+00:01:52,410 --> 00:01:56,250
+aureus ou Staphylococcus doré, le plus virulent pour
+
+41
+00:01:56,250 --> 00:01:59,030
+l'individu sain et qui est responsable de
+
+42
+00:01:59,030 --> 00:02:01,130
+la plupart des infections communautaires.
+
+43
+00:02:01,730 --> 00:02:04,990
+Et les Staphylococcus aquagulatus négatif dont les plus
+
+44
+00:02:04,990 --> 00:02:10,350
+fréquentes sont les Staphylococcus epidermidis et le Staphylococcus
+
+45
+00:02:10,350 --> 00:02:11,950
+saprophyticus.
+
+46
+00:02:11,950 --> 00:02:17,530
+Les Staphylococcus aureus et les Staphylococcus aquagulatus négatif
+
+47
+00:02:17,530 --> 00:02:20,590
+sont responsables tous les deux des infections associées
+
+48
+00:02:20,590 --> 00:02:23,450
+aux soins dont elles sont nosocomiales.
+
+49
+00:02:23,650 --> 00:02:28,670
+Et le Staphylococcus aquagulatus négatif, essentiellement, touche les
+
+50
+00:02:28,670 --> 00:02:32,210
+sujets très immunodéprimés ou le sujet qui a
+
+51
+00:02:32,210 --> 00:02:34,350
+bénéficié de soins.
+
+52
+00:02:35,090 --> 00:02:38,930
+Il est peu virulent pour les sujets immunocompétents.
+
+53
+00:02:38,930 --> 00:02:42,450
+Et le problème que posent les infections à
+
+54
+00:02:42,450 --> 00:02:45,790
+Staphylococcus, que ce soit aquagulatus négatif ou aquagulatus
+
+55
+00:02:45,790 --> 00:02:48,670
+positif, c'est la résistance à la myticiline
+
+56
+00:02:48,670 --> 00:02:51,110
+ou à l'oxaciline qui commence à être
+
+57
+00:02:51,110 --> 00:02:53,250
+un problème de santé publique dans beaucoup de
+
+58
+00:02:53,250 --> 00:02:57,630
+pays, aussi bien dans les infections associées aux
+
+59
+00:02:57,630 --> 00:03:00,150
+soins que dans les infections communautaires.
+
+60
+00:03:00,150 --> 00:03:03,810
+Le principal réservoir du Staphylococcus, c'est l
+
+61
+00:03:03,810 --> 00:03:07,410
+'être humain qui peut être soit malade ou
+
+62
+00:03:07,410 --> 00:03:08,370
+un porteur sain.
+
+63
+00:03:08,530 --> 00:03:10,370
+On a 30% de la population en
+
+64
+00:03:10,370 --> 00:03:12,490
+général qui sont porteuses de ce germe-là.
+
+65
+00:03:12,990 --> 00:03:14,610
+Et ce portage se fait au niveau des
+
+66
+00:03:14,610 --> 00:03:17,310
+parties humides comme les fosses nasales, l'intestin,
+
+67
+00:03:17,450 --> 00:03:20,650
+la peau, les annexes glandulaires comme le périnée
+
+68
+00:03:20,650 --> 00:03:21,410
+et les aisselles.
+
+69
+00:03:21,890 --> 00:03:24,650
+Aussi, on le retrouve au niveau des surfaces,
+
+70
+00:03:25,010 --> 00:03:26,790
+de l'eau et de l'air.
+
+71
+00:03:26,790 --> 00:03:30,290
+Il arrive à survivre 7 jours sur les
+
+72
+00:03:30,290 --> 00:03:33,110
+surfaces sèches et à plusieurs mois en milieu
+
+73
+00:03:33,110 --> 00:03:33,610
+humide.
+
+74
+00:03:34,570 --> 00:03:38,470
+Aussi, des animaux sont porteurs du Staphylococcus, essentiellement
+
+75
+00:03:38,470 --> 00:03:40,430
+les Staphylococcus aquagulatus négatifs.
+
+76
+00:03:40,650 --> 00:03:45,010
+La transmission des infections staphylococciques se fait d
+
+77
+00:03:45,010 --> 00:03:48,170
+'une manière inter-humaine, par contact direct.
+
+78
+00:03:48,650 --> 00:03:50,950
+C'est un manuportage, que ce soit la
+
+79
+00:03:50,950 --> 00:03:52,630
+main de quelqu'un d'autre ou la
+
+80
+00:03:52,630 --> 00:03:56,190
+propre main du patient lui-même.
+
+81
+00:03:56,190 --> 00:03:59,230
+Comme il peut être d'une transmission indirecte,
+
+82
+00:03:59,270 --> 00:04:03,630
+par transmission à partir des vêtements contaminés et
+
+83
+00:04:03,630 --> 00:04:04,310
+de la litrée.
+
+84
+00:04:04,830 --> 00:04:10,550
+Aussi, c'est une infection nosocomiale lors de
+
+85
+00:04:10,550 --> 00:04:16,890
+la manipulation de dispositifs intravasculaires, lors de la
+
+86
+00:04:16,890 --> 00:04:18,350
+mise en place de prothèses.
+
+87
+00:04:19,190 --> 00:04:22,690
+Donc, c'est une infection essentiellement transmise par
+
+88
+00:04:22,690 --> 00:04:22,990
+la main.
+
+89
+00:04:22,990 --> 00:04:27,130
+Comment se développent les infections à Staphylococcus aquagulatus
+
+90
+00:04:27,130 --> 00:04:27,450
+?
+
+91
+00:04:27,450 --> 00:04:29,570
+On sait très bien que le Staphylococcus aquagulatus
+
+92
+00:04:29,570 --> 00:04:35,870
+a des facteurs de virulence qui aboutissent à
+
+93
+00:04:35,870 --> 00:04:38,210
+des staphylococci supératives.
+
+94
+00:04:38,530 --> 00:04:42,450
+Grâce à ces facteurs, comme la coagulase qui
+
+95
+00:04:42,450 --> 00:04:45,530
+aide à la formation de micro-thrombies vasculaires
+
+96
+00:04:45,530 --> 00:04:47,390
+septiques au niveau du foyer initial.
+
+97
+00:04:47,390 --> 00:04:50,350
+Par la suite, il y aura la fibrinolysine
+
+98
+00:04:50,350 --> 00:04:54,850
+qui aboutit à la fragmentation de ce micro
+
+99
+00:04:54,850 --> 00:04:55,390
+-thrombie.
+
+100
+00:04:55,550 --> 00:04:58,170
+Sa dissémination et ses images de Staphylococcus par
+
+101
+00:04:58,170 --> 00:05:01,410
+voie sanguine à l'origine de localisations secondaires
+
+102
+00:05:01,410 --> 00:05:03,530
+ou de métastases septiques.
+
+103
+00:05:03,910 --> 00:05:06,450
+On a ici une prédilection pour l'endocarde
+
+104
+00:05:06,450 --> 00:05:06,970
+et l'os.
+
+105
+00:05:07,650 --> 00:05:11,910
+On a aussi un autre facteur de virulence
+
+106
+00:05:11,910 --> 00:05:13,630
+qui est la protéine A qui va s
+
+107
+00:05:13,630 --> 00:05:16,410
+'opposer à l'opsonisation et à la phagocytose.
+
+108
+00:05:16,410 --> 00:05:19,030
+Il favorise ainsi la diffusion de la bactérie
+
+109
+00:05:19,030 --> 00:05:19,830
+dans les tissus.
+
+110
+00:05:21,290 --> 00:05:25,550
+D'autres facteurs sont sécrétés par le germe
+
+111
+00:05:25,550 --> 00:05:29,910
+qui sont des exopolysaccharides qui vont aboutir à
+
+112
+00:05:29,910 --> 00:05:31,610
+la formation d'un biofilm.
+
+113
+00:05:31,890 --> 00:05:35,310
+C'est une membrane imperméable qui va couvrir
+
+114
+00:05:35,310 --> 00:05:36,830
+les colonies bactériennes.
+
+115
+00:05:40,830 --> 00:05:44,210
+Cette membrane est imperméable aux facteurs de défense
+
+116
+00:05:44,210 --> 00:05:46,150
+de l'autre et des antibiotiques.
+
+117
+00:05:46,310 --> 00:05:49,010
+Cela permet à ces colonies bactériennes d'échapper
+
+118
+00:05:49,010 --> 00:05:50,930
+aussi bien à l'immunité de l'autre
+
+119
+00:05:50,930 --> 00:05:53,050
+qu'à l'effet des antibiotiques.
+
+120
+00:05:53,630 --> 00:05:57,150
+Pour les Staphylococci non supératifs, c'est-à
+
+121
+00:05:57,150 --> 00:05:59,230
+-dire que l'infection n'est pas due
+
+122
+00:05:59,230 --> 00:06:02,870
+à l'invasion tessulaire par le Staphylococcus.
+
+123
+00:06:02,870 --> 00:06:05,450
+Le Staphylococcus peut agir à distance par la
+
+124
+00:06:05,450 --> 00:06:06,770
+libération de toxines.
+
+125
+00:06:07,010 --> 00:06:09,650
+On a par exemple l'hexofoliatine A et
+
+126
+00:06:09,650 --> 00:06:12,110
+B qui vont être responsables de l'atteinte
+
+127
+00:06:12,110 --> 00:06:17,670
+cutanée, donnant des enfants avec aspects ébouillantés, avec
+
+128
+00:06:17,670 --> 00:06:18,890
+découlement cutané.
+
+129
+00:06:18,970 --> 00:06:21,330
+Ils touchent essentiellement l'enfant de moins de
+
+130
+00:06:21,330 --> 00:06:21,750
+5 ans.
+
+131
+00:06:22,030 --> 00:06:24,810
+On a la toxine du choc toxique Staphylococcique
+
+132
+00:06:24,810 --> 00:06:27,030
+qui va donner des signes généraux de l
+
+133
+00:06:27,030 --> 00:06:28,930
+'infection et des signes cutanés qu'on va
+
+134
+00:06:28,930 --> 00:06:29,950
+voir dans ce cours-là.
+
+135
+00:06:29,950 --> 00:06:34,370
+Et des entérotoxines qui peuvent donner essentiellement une
+
+136
+00:06:34,370 --> 00:06:37,350
+atteinte digestive sous forme de gastro-entérite, de
+
+137
+00:06:37,350 --> 00:06:39,990
+toxi-infection alimentaire que vous allez voir dans
+
+138
+00:06:39,990 --> 00:06:44,530
+le cours de toxi-infection alimentaire collective.
+
+139
+00:06:45,590 --> 00:06:50,350
+Donc ces diapositives résument comment se développe une
+
+140
+00:06:50,350 --> 00:06:55,450
+infection Staphylococcique à partir d'un foyer qui
+
+141
+00:06:55,450 --> 00:07:01,550
+peut être local ou locorégionnel, colonisé ou infecté
+
+142
+00:07:01,550 --> 00:07:03,010
+par le Staphylococc.
+
+143
+00:07:03,210 --> 00:07:05,950
+Il y aura une dissémination par voie sanguine
+
+144
+00:07:05,950 --> 00:07:10,330
+qui va aboutir à travers une bactérie à
+
+145
+00:07:10,330 --> 00:07:13,650
+des infections à distance, avec atteinte de l
+
+146
+00:07:13,650 --> 00:07:17,750
+'os, des ostéoarthrites, ostéomyélite, atteinte cardiaque sous forme
+
+147
+00:07:17,750 --> 00:07:20,710
+d'endocardite, atteinte pulmonaire avec diplomopathie.
+
+148
+00:07:22,090 --> 00:07:26,890
+Et aussi à partir de ces foyers locaux
+
+149
+00:07:26,890 --> 00:07:31,730
+et des foyers locorégionnaux, le Staphylococcique peut sécréter
+
+150
+00:07:31,730 --> 00:07:35,830
+des toxines et donner des formes toxiniques non
+
+151
+00:07:35,830 --> 00:07:39,590
+-supératives comme le syndrome cutané toxinique, le syndrome
+
+152
+00:07:39,590 --> 00:07:42,470
+de choc toxique et la toxi-infection alimentaire.
+
+153
+00:07:44,170 --> 00:07:46,950
+Dans ce cours, on va voir essentiellement les
+
+154
+00:07:46,950 --> 00:07:50,730
+infections disséminées et générales.
+
+155
+00:07:50,910 --> 00:07:54,470
+Pour les infections supératives, superficielles, vous allez les
+
+156
+00:07:54,470 --> 00:07:56,190
+voir en cours de dermatologie.
+
+157
+00:07:56,590 --> 00:07:58,530
+Et on va commencer par les bactéries émises
+
+158
+00:07:58,530 --> 00:07:59,550
+à Staphylococc.
+
+159
+00:08:00,370 --> 00:08:03,830
+Les bactéries émises à Staphylococc ou Staphylococcémie sont
+
+160
+00:08:03,830 --> 00:08:06,270
+les plus fréquentes des bactéries émises, beaucoup plus
+
+161
+00:08:06,270 --> 00:08:08,830
+fréquentes que les bactéries émises à Streptococc ou
+
+162
+00:08:08,830 --> 00:08:10,930
+les bactéries émises à Bacillogramme négatif.
+
+163
+00:08:11,830 --> 00:08:16,170
+Les bactéries émises à Staphylococc peuvent être contractées
+
+164
+00:08:16,170 --> 00:08:17,970
+en dehors du milieu de soins et donc
+
+165
+00:08:17,970 --> 00:08:20,790
+sont appelées communautaires ou bien elles peuvent être
+
+166
+00:08:20,790 --> 00:08:23,290
+contractées en milieu de soins, c'est-à
+
+167
+00:08:23,290 --> 00:08:24,610
+-dire liées aux soins.
+
+168
+00:08:25,770 --> 00:08:28,730
+Elles se caractérisent par la fréquence des localisations
+
+169
+00:08:28,730 --> 00:08:31,330
+secondaires, c'est-à-dire des localisations infectieuses
+
+170
+00:08:31,330 --> 00:08:34,390
+qui sont loin de la porte d'entrée
+
+171
+00:08:34,390 --> 00:08:38,010
+et elles peuvent poser le problème de résistance
+
+172
+00:08:38,010 --> 00:08:41,350
+à la méticilline qu'on peut retrouver aussi
+
+173
+00:08:41,350 --> 00:08:43,830
+bien dans les infections liées aux soins que
+
+174
+00:08:43,830 --> 00:08:46,030
+dans les infections communautaires.
+
+175
+00:08:47,350 --> 00:08:49,890
+Le terme septicémie est de plus en plus
+
+176
+00:08:49,890 --> 00:08:53,250
+remplacé par le terme de bactérie émise qui
+
+177
+00:08:53,250 --> 00:08:56,270
+signifie la présence de bactéries viables dans le
+
+178
+00:08:56,270 --> 00:08:58,710
+sang et qui est affirmé par l'isolement
+
+179
+00:08:58,710 --> 00:09:01,450
+d'un ou de plusieurs germes pathogènes dans
+
+180
+00:09:01,450 --> 00:09:02,370
+les hémocultures.
+
+181
+00:09:02,370 --> 00:09:07,650
+La bactérie émise peut être asymptomatique ou transitoire
+
+182
+00:09:07,650 --> 00:09:12,170
+comme il peut être symptomatique restant lentement dans
+
+183
+00:09:12,170 --> 00:09:15,290
+le sang, responsable de sepsis et de chocs
+
+184
+00:09:15,290 --> 00:09:15,710
+septiques.
+
+185
+00:09:16,590 --> 00:09:18,370
+Ici, on va faire un rappel de ce
+
+186
+00:09:18,370 --> 00:09:21,730
+qu'on a déjà vu dans la sémiologie
+
+187
+00:09:21,730 --> 00:09:22,690
+infectieuse.
+
+188
+00:09:23,250 --> 00:09:25,510
+On va revoir certaines définitions qui vont nous
+
+189
+00:09:25,510 --> 00:09:26,910
+permettre de suivre ce cours.
+
+190
+00:09:27,190 --> 00:09:29,910
+Commençons par le syndrome de réponse inflammatoire systémique
+
+191
+00:09:29,910 --> 00:09:31,970
+ou le SRIS qui est défini par la
+
+192
+00:09:31,970 --> 00:09:34,910
+présence d'au moins deux anomalies suivantes, la
+
+193
+00:09:34,910 --> 00:09:37,950
+température supérieure à 38 degrés ou inférieure à
+
+194
+00:09:37,950 --> 00:09:42,130
+36 degrés, un pot supérieur à 90 battements
+
+195
+00:09:42,130 --> 00:09:44,670
+par minute, une fréquence respiratoire supérieure à 20
+
+196
+00:09:44,670 --> 00:09:46,490
+cycles par minute, un taux de globule blanc
+
+197
+00:09:46,490 --> 00:09:49,270
+supérieur à 12 000 par millimètre cube ou
+
+198
+00:09:49,270 --> 00:09:51,730
+inférieur à 4 000 par millimètre cube.
+
+199
+00:09:52,310 --> 00:09:53,990
+L'infection est le résultat de l'agression
+
+200
+00:09:53,990 --> 00:09:55,890
+d'un organisme par un agent pathogène.
+
+201
+00:09:55,890 --> 00:09:59,790
+Il associe le foyer infectieux avec le syndrome
+
+202
+00:09:59,790 --> 00:10:02,890
+de réponse inflammatoire systémique qui est une réponse
+
+203
+00:10:02,890 --> 00:10:04,330
+normale à une infection.
+
+204
+00:10:04,730 --> 00:10:06,510
+Par contre, le sepsis, en plus du foyer
+
+205
+00:10:06,510 --> 00:10:12,910
+infectieux, il y a une dysfonction d'organes
+
+206
+00:10:12,910 --> 00:10:16,450
+secondaires, une réponse inappropriée de l'autre envers
+
+207
+00:10:16,450 --> 00:10:17,730
+une infection.
+
+208
+00:10:19,110 --> 00:10:22,670
+Donc ici, il faut distinguer deux situations.
+
+209
+00:10:22,670 --> 00:10:24,710
+On a un être humain qui a un
+
+210
+00:10:24,710 --> 00:10:25,830
+foyer infectieux.
+
+211
+00:10:27,310 --> 00:10:29,710
+On parle d'infection lorsqu'il y a
+
+212
+00:10:29,710 --> 00:10:31,790
+une réaction adaptée de l'autre.
+
+213
+00:10:32,130 --> 00:10:34,450
+Et on va parler de sepsis quand il
+
+214
+00:10:34,450 --> 00:10:35,950
+y a une réaction de l'autre qui
+
+215
+00:10:35,950 --> 00:10:38,430
+est désrégulée, soit par le fait qu'elle
+
+216
+00:10:38,430 --> 00:10:41,350
+est excessive, qu'elle est extensive, qu'elle
+
+217
+00:10:41,350 --> 00:10:44,810
+est décompartimentalisée, c'est-à-dire qui dépasse
+
+218
+00:10:44,810 --> 00:10:47,570
+le compartiment de l'infection et qui est
+
+219
+00:10:47,570 --> 00:10:48,710
+inadaptée.
+
+220
+00:10:48,710 --> 00:10:51,930
+Et cette réaction qui est désrégulée de l
+
+221
+00:10:51,930 --> 00:10:54,470
+'autre, elle est responsable d'une défaillance d
+
+222
+00:10:54,470 --> 00:10:55,530
+'organes.
+
+223
+00:10:56,170 --> 00:11:00,370
+Dans ce tableau, on a plusieurs exemples de
+
+224
+00:11:00,370 --> 00:11:03,630
+dysfonctionnement d'organes dans le cas de sepsis.
+
+225
+00:11:03,750 --> 00:11:06,390
+Par exemple, au niveau cardiovasculaire, on peut avoir
+
+226
+00:11:06,390 --> 00:11:10,870
+un état de choc, une cyanose, présence de
+
+227
+00:11:10,870 --> 00:11:15,470
+marbrure, une défaillance néphrologique, une oligurée, jusqu'à
+
+228
+00:11:15,470 --> 00:11:21,730
+une insuffisance rénale, une défaillance neurologique comme confusion,
+
+229
+00:11:22,090 --> 00:11:24,830
+comme coma, des troubles de comportement et ainsi
+
+230
+00:11:24,830 --> 00:11:25,310
+de suite.
+
+231
+00:11:27,880 --> 00:11:31,060
+Et pour évaluer le dysfonctionnement d'organes en
+
+232
+00:11:31,060 --> 00:11:34,420
+cas de sepsis, on utilise des scores dans
+
+233
+00:11:34,420 --> 00:11:38,420
+le QIXOFA qui est un score rapide qui
+
+234
+00:11:38,420 --> 00:11:41,640
+permet de calculer cette défaillance d'une manière
+
+235
+00:11:41,640 --> 00:11:44,240
+beaucoup plus rapide pour permettre une prise en
+
+236
+00:11:44,240 --> 00:11:46,280
+charge rapide et immédiate.
+
+237
+00:11:46,780 --> 00:11:49,800
+Dans le QIXOFA, on cherche trois éléments.
+
+238
+00:11:50,320 --> 00:11:54,480
+On cherche une défaillance respiratoire avec une fréquence
+
+239
+00:11:54,480 --> 00:11:59,520
+respiratoire qui est égale ou dépasse 22 cycles
+
+240
+00:11:59,520 --> 00:12:02,440
+par minute, une altération de la conscience ou
+
+241
+00:12:02,440 --> 00:12:08,040
+une pression systole qui est inférieure à 100
+
+242
+00:12:08,040 --> 00:12:09,760
+mmHg.
+
+243
+00:12:10,860 --> 00:12:12,720
+Chaque élément est coté 1.
+
+244
+00:12:13,000 --> 00:12:16,180
+On parle de QIXOFA positif quand il est
+
+245
+00:12:16,180 --> 00:12:18,480
+supérieur ou égal à 2.
+
+246
+00:12:20,920 --> 00:12:23,280
+Ici, dans cette photo-là, on a une
+
+247
+00:12:23,280 --> 00:12:27,040
+défaillance vasculaire avec présence de marbrure.
+
+248
+00:12:27,200 --> 00:12:30,320
+C'est cette coloration entre violacé, rougeâtre et
+
+249
+00:12:30,320 --> 00:12:33,820
+blanchâtre de la peau qui est due à
+
+250
+00:12:33,820 --> 00:12:35,400
+une hypoperfusion tessulaire.
+
+251
+00:12:36,100 --> 00:12:38,060
+Donc c'est une défaillance vasculaire.
+
+252
+00:12:39,160 --> 00:12:43,000
+Ici, c'est une pyramide qui montre la
+
+253
+00:12:43,000 --> 00:12:44,860
+gravité de l'infection.
+
+254
+00:12:45,060 --> 00:12:47,240
+On passe de la base de pyramide où
+
+255
+00:12:47,240 --> 00:12:51,600
+on a la colonisation, qui est une colonisation,
+
+256
+00:12:51,760 --> 00:12:55,300
+présence de bactéries sans signe clinique, vers le
+
+257
+00:12:55,300 --> 00:12:57,600
+sommet de la pyramide qui est le choc
+
+258
+00:12:57,600 --> 00:13:01,420
+septique et la sévérité augmente du haut en
+
+259
+00:13:01,420 --> 00:13:01,600
+bas.
+
+260
+00:13:02,820 --> 00:13:05,780
+Toujours dans les définitions, le choc septique est
+
+261
+00:13:05,780 --> 00:13:07,600
+défini par la présence des sepsis.
+
+262
+00:13:07,600 --> 00:13:11,320
+Avec le besoin d'administrer des vasopresseurs pour
+
+263
+00:13:11,320 --> 00:13:14,320
+obtenir une pression artérielle moyenne supérieure à 65
+
+264
+00:13:14,320 --> 00:13:15,600
+mmHg.
+
+265
+00:13:16,300 --> 00:13:19,280
+Un taux de lactate supérieur à 2 micromolles
+
+266
+00:13:19,280 --> 00:13:22,340
+par litre ou 18 mg par décilitre.
+
+267
+00:13:22,780 --> 00:13:26,420
+Et cela malgré la correction d'une hypovolémie.
+
+268
+00:13:28,940 --> 00:13:32,600
+Entrons dans le sujet des bactéries Myasthaphylococque.
+
+269
+00:13:33,720 --> 00:13:36,320
+Ce sont des infections dont l'apport d
+
+270
+00:13:36,320 --> 00:13:38,960
+'entrée est essentiellement cutanée.
+
+271
+00:13:39,120 --> 00:13:41,680
+Cela peut être un fiorancle manipulé, un panarée,
+
+272
+00:13:41,860 --> 00:13:43,140
+une plaie infectée.
+
+273
+00:13:44,420 --> 00:13:46,580
+L'apport d'entrée peut être aussi utérine
+
+274
+00:13:46,580 --> 00:13:48,520
+suite à un avortement provoqué.
+
+275
+00:13:49,120 --> 00:13:52,720
+Il peut être iatrogène lié aux soins, comme
+
+276
+00:13:52,720 --> 00:13:55,120
+à partir de cathéters centraux, d'aiguilles de
+
+277
+00:13:55,120 --> 00:13:58,160
+perfusion, qu'il faut les enlever et les
+
+278
+00:13:58,160 --> 00:14:01,560
+cultiver pour prouver l'infection à partir de
+
+279
+00:14:01,560 --> 00:14:02,880
+cet apport d'entrée.
+
+280
+00:14:03,790 --> 00:14:08,000
+Il peut aussi se développer suite à des
+
+281
+00:14:08,000 --> 00:14:12,200
+injections intra-articulaires, si les règles d'asepsie
+
+282
+00:14:12,200 --> 00:14:13,640
+n'ont pas été respectées.
+
+283
+00:14:14,160 --> 00:14:17,400
+Lors de manœuvres urologiques, comme la cystoscopie, la
+
+284
+00:14:17,400 --> 00:14:23,220
+urétérocystoscopie, lors d'une chirurgie cardiaque ou digestive,
+
+285
+00:14:24,080 --> 00:14:27,860
+l'apport d'entrée peut aussi être une
+
+286
+00:14:27,860 --> 00:14:30,880
+porte d'entrée orale et dentaire, lors de
+
+287
+00:14:30,880 --> 00:14:32,740
+soins dentaires ou d'apsées dentaires.
+
+288
+00:14:33,700 --> 00:14:38,220
+À partir d'une porte d'entrée au
+
+289
+00:14:38,220 --> 00:14:40,040
+niveau de la peau ou de la muqueuse,
+
+290
+00:14:40,260 --> 00:14:41,940
+il y a le germe qui va coloniser
+
+291
+00:14:41,940 --> 00:14:45,980
+cette porte d'entrée, pénétrer, se multiplier, puis
+
+292
+00:14:45,980 --> 00:14:51,000
+altérer les cellules endothéliales vasculaires, former un thrombus
+
+293
+00:14:51,000 --> 00:14:57,220
+qui va se couvrir et se fragmenter par
+
+294
+00:14:57,220 --> 00:15:01,100
+la suite pour aller être déversé dans la
+
+295
+00:15:01,100 --> 00:15:04,100
+circulation sanguine et se disséminer.
+
+296
+00:15:04,540 --> 00:15:06,920
+Il y aura par la suite localisation de
+
+297
+00:15:06,920 --> 00:15:09,920
+six embôles septiques au niveau des organes beaucoup
+
+298
+00:15:09,920 --> 00:15:12,740
+plus loin de la porte d'entrée.
+
+299
+00:15:13,160 --> 00:15:17,260
+Cliniquement, le sepsis va se présenter sous forme
+
+300
+00:15:17,260 --> 00:15:20,720
+d'une fièvre osseillante avec 39 degrés au
+
+301
+00:15:20,720 --> 00:15:24,300
+plus, des frissons, ce qui constitue un moment
+
+302
+00:15:24,300 --> 00:15:27,940
+idéal pour réaliser les hémocultures, des signes d
+
+303
+00:15:27,940 --> 00:15:30,820
+'infections généralisées avec une asthémie, un malaise, une
+
+304
+00:15:30,820 --> 00:15:34,000
+dyspnée, un tachycardie et même une obnubilation.
+
+305
+00:15:34,160 --> 00:15:36,280
+L'asplenome égaliste est un signe très important,
+
+306
+00:15:36,360 --> 00:15:37,820
+mais il n'est pas constant.
+
+307
+00:15:39,120 --> 00:15:41,720
+À l'interrogatoire, il faut toujours chercher des
+
+308
+00:15:41,720 --> 00:15:44,740
+facteurs favorisants comme une hémodépression sous forme de
+
+309
+00:15:44,740 --> 00:15:47,980
+diabète, d'hémopathie ou autre, une toxicomanie par
+
+310
+00:15:47,980 --> 00:15:51,560
+voie intraveineuse, des facteurs iatrogènes, c'est-à
+
+311
+00:15:51,560 --> 00:15:52,640
+-dire est-ce que le patient n'a
+
+312
+00:15:52,640 --> 00:15:55,120
+pas bénéficié récemment de soins, d'une mise
+
+313
+00:15:55,120 --> 00:15:56,240
+en place de prothèse.
+
+314
+00:15:56,620 --> 00:15:58,880
+Chercher aussi, s'il a pris des antibiotiques,
+
+315
+00:15:59,480 --> 00:16:02,580
+quelle molécule, quelle posologie qu'il durerait pour
+
+316
+00:16:02,580 --> 00:16:06,220
+nous donner une vision sur la sensibilité du
+
+317
+00:16:06,220 --> 00:16:07,200
+germe aux antibiotiques.
+
+318
+00:16:07,980 --> 00:16:10,940
+Il faut réaliser un examen clinique complet et
+
+319
+00:16:10,940 --> 00:16:13,400
+répété pour affirmer le sepsis et évaluer sa
+
+320
+00:16:13,400 --> 00:16:13,900
+gravité.
+
+321
+00:16:13,900 --> 00:16:16,020
+Chercher une porte d'entrée qui peut être
+
+322
+00:16:16,020 --> 00:16:19,540
+une plaie, une infection cutanée, une prothèse, une
+
+323
+00:16:19,540 --> 00:16:20,900
+injection intramusculaire.
+
+324
+00:16:21,320 --> 00:16:24,640
+Chercher des localisations secondaires, faire un examen osseo
+
+325
+00:16:24,640 --> 00:16:28,260
+-articulaire, du hérachisme, toutes les articulations, l'auscultation
+
+326
+00:16:28,260 --> 00:16:30,100
+cardiaque, elle est très importante.
+
+327
+00:16:30,300 --> 00:16:33,140
+Il faut la faire et la répéter.
+
+328
+00:16:34,640 --> 00:16:38,700
+Comme type de localisation métastatique ou localisation secondaire,
+
+329
+00:16:38,700 --> 00:16:41,700
+on a les localisations pulmonaires qui peuvent être
+
+330
+00:16:41,700 --> 00:16:49,200
+sous forme de biopneumothorax ou d'abcès.
+
+331
+00:16:49,960 --> 00:16:52,800
+Vous voyez sur ces radios-là un niveau
+
+332
+00:16:52,800 --> 00:16:55,120
+hydroaérique en faveur de l'abcès.
+
+333
+00:16:57,120 --> 00:17:01,260
+L'endocardite est une localisation métastatique très importante
+
+334
+00:17:01,260 --> 00:17:03,359
+à chercher qui peut compliquer 10% des
+
+335
+00:17:03,359 --> 00:17:05,319
+bactéries Myasthaphylococcus aureus.
+
+336
+00:17:05,319 --> 00:17:09,619
+Cet endocardite survient lors de bactéries Myasthaphylococcus aureus
+
+337
+00:17:09,619 --> 00:17:12,079
+sur des valves natives, c'est-à-dire
+
+338
+00:17:12,079 --> 00:17:15,300
+que des valves normales.
+
+339
+00:17:15,780 --> 00:17:17,619
+Il peut s'agir d'un cœur déjà
+
+340
+00:17:17,619 --> 00:17:22,060
+sain qui n'a jamais été victime de
+
+341
+00:17:22,060 --> 00:17:25,040
+maladie, comme ça peut s'agir de valves
+
+342
+00:17:25,040 --> 00:17:30,120
+natives mais remaniées, comme des valves illopathies avec
+
+343
+00:17:30,120 --> 00:17:32,480
+sous forme de rétrécissement ou d'insuffisance.
+
+344
+00:17:32,480 --> 00:17:36,700
+Comme il peut survenir sur des valves prothétiques,
+
+345
+00:17:37,020 --> 00:17:40,240
+que ce soit précocement, en post-opératoire ou
+
+346
+00:17:40,240 --> 00:17:40,580
+tardivement.
+
+347
+00:17:41,960 --> 00:17:45,460
+L'endocardite, il faut toujours la chercher devant
+
+348
+00:17:45,460 --> 00:17:50,400
+toute bactérie Myasthaphylococcus aureus et demander systématiquement un
+
+349
+00:17:50,400 --> 00:17:51,100
+écho-cœur.
+
+350
+00:17:51,400 --> 00:17:53,680
+Même si elle est normale, n'hésitez pas
+
+351
+00:17:53,680 --> 00:17:56,820
+à la refaire, quitte à refaire l'écho
+
+352
+00:17:56,820 --> 00:18:01,220
+-cœur transosophagienne ou une écho-cœur transparyétale au
+
+353
+00:18:01,220 --> 00:18:05,320
+septième jour avant d'éliminer l'atteinte cardiaque
+
+354
+00:18:05,320 --> 00:18:06,380
+définitivement.
+
+355
+00:18:07,680 --> 00:18:13,480
+Les autres localisations métastatiques des bactéries Myasthaphylococcus qu
+
+356
+00:18:13,480 --> 00:18:15,340
+'on élimine en jettant les abcès du cerveau,
+
+357
+00:18:15,700 --> 00:18:18,480
+les localisations hépatiques sous forme de micro-abcès
+
+358
+00:18:18,480 --> 00:18:21,680
+ou d'abcès avec hectère et défaillance hépatique.
+
+359
+00:18:22,280 --> 00:18:25,920
+Autres localisations comme les localisations cutanées, les localisations
+
+360
+00:18:25,920 --> 00:18:28,780
+osseuses sous forme d'ostéomyalie, d'arthrite septique
+
+361
+00:18:28,780 --> 00:18:29,480
+ou de spondylodécite.
+
+362
+00:18:29,480 --> 00:18:34,420
+A la fin de l'interrogatoire de l
+
+363
+00:18:34,420 --> 00:18:36,860
+'examen clinique, on arrive quand même à poser
+
+364
+00:18:36,860 --> 00:18:39,280
+le diagnostic de sepsis et d'évaluer sa
+
+365
+00:18:39,280 --> 00:18:39,900
+gravité.
+
+366
+00:18:40,860 --> 00:18:44,650
+Toute suspicion de sepsis implique une hospitalisation immédiate
+
+367
+00:18:45,320 --> 00:18:48,160
+pour faire les investigations et pour commencer le
+
+368
+00:18:48,160 --> 00:18:48,600
+traitement.
+
+369
+00:18:49,200 --> 00:18:53,590
+Tout choc septique implique l'hospitalisation en réanimation.
+
+370
+00:18:56,170 --> 00:18:58,470
+Une fois que le patient est hospitalisé, il
+
+371
+00:18:58,470 --> 00:19:01,130
+faut faire immédiatement des examens paracliniques qui vont
+
+372
+00:19:01,130 --> 00:19:07,110
+permettre de confirmer le sepsis en réalisant et
+
+373
+00:19:07,110 --> 00:19:09,990
+d'évaluer aussi sa gravité.
+
+374
+00:19:10,450 --> 00:19:12,050
+Il faut aussi chercher une porte d'entrée
+
+375
+00:19:12,050 --> 00:19:12,950
+et la prélever.
+
+376
+00:19:13,470 --> 00:19:17,250
+Il faut aussi chercher des localisations secondaires, métastatiques
+
+377
+00:19:17,250 --> 00:19:18,290
+et aussi les prélever.
+
+378
+00:19:20,840 --> 00:19:24,960
+Parmi les premiers examens à réaliser qui constituent
+
+379
+00:19:24,960 --> 00:19:27,220
+l'examen clé du diagnostic, ce sont les
+
+380
+00:19:27,220 --> 00:19:27,880
+hémocultures.
+
+381
+00:19:27,880 --> 00:19:30,880
+Il faut savoir les faire avant tout traitement
+
+382
+00:19:30,880 --> 00:19:34,180
+antibiotique, au moment des pecs fibrils, au moment
+
+383
+00:19:34,180 --> 00:19:36,460
+des frissons et au moment même de l
+
+384
+00:19:36,460 --> 00:19:37,540
+'hypothermie ciliana.
+
+385
+00:19:38,000 --> 00:19:40,340
+Si le patient a déjà pris un traitement
+
+386
+00:19:40,340 --> 00:19:44,400
+antipériotique, ne pas hésiter à faire aussi des
+
+387
+00:19:44,400 --> 00:19:46,920
+hémocultures même quand la température est normale.
+
+388
+00:19:47,360 --> 00:19:50,320
+Ces hémocultures doivent être multiples et répétées pour
+
+389
+00:19:50,320 --> 00:19:53,940
+pouvoir donner plus de chances, disons les ingermes,
+
+390
+00:19:54,060 --> 00:19:55,200
+sur ces hémocultures.
+
+391
+00:19:55,200 --> 00:19:58,340
+Il faut les réaliser sur des prélèvements vénodirects,
+
+392
+00:19:58,500 --> 00:20:00,100
+c'est-à-dire pas sur une perfusion,
+
+393
+00:20:00,500 --> 00:20:03,540
+sauf si on suspect une infection à partir
+
+394
+00:20:03,540 --> 00:20:04,600
+de ce cathéter-là.
+
+395
+00:20:04,920 --> 00:20:06,580
+Là, on peut le faire au niveau de
+
+396
+00:20:06,580 --> 00:20:07,260
+ce cathéter.
+
+397
+00:20:07,740 --> 00:20:10,860
+Il suffit d'une seule hémoculture positive au
+
+398
+00:20:10,860 --> 00:20:14,200
+staphylococcus aureus pour la considérer comme pathologique.
+
+399
+00:20:14,200 --> 00:20:18,680
+Par contre, pour le staphylococcus coagulatus négatif, vu
+
+400
+00:20:18,680 --> 00:20:24,980
+qu'il a une faible virulence pour l
+
+401
+00:20:24,980 --> 00:20:28,740
+'impliquer, pour considérer que c'est une bactérie
+
+402
+00:20:28,740 --> 00:20:31,740
+mis à staphylococcus coagulatus négatif, il faut que
+
+403
+00:20:31,740 --> 00:20:36,100
+plusieurs hémocultures soient positives à ce staphylococcus coagulatus
+
+404
+00:20:36,100 --> 00:20:38,660
+négatif pour le tenir en considération.
+
+405
+00:20:39,240 --> 00:20:42,780
+D'autres examens paracliniques peuvent être réalisés.
+
+406
+00:20:42,900 --> 00:20:45,160
+Ce sont des examens microbiologiques, que ce soit
+
+407
+00:20:45,160 --> 00:20:47,640
+au niveau de la porte d'entrée ou
+
+408
+00:20:47,640 --> 00:20:48,820
+au niveau des métastases.
+
+409
+00:20:48,940 --> 00:20:51,140
+Ça peut être une ponction articulaire si on
+
+410
+00:20:51,140 --> 00:20:53,660
+a une arthrite, une ponction d'anapsie profonde,
+
+411
+00:20:54,080 --> 00:20:55,860
+un prélèvement d'une lésion cutanée.
+
+412
+00:20:57,040 --> 00:20:59,640
+Il faut aussi faire d'autres examens biologiques
+
+413
+00:20:59,640 --> 00:21:02,540
+à type de numération formée sanguine pour voir
+
+414
+00:21:02,540 --> 00:21:05,840
+l'héperlococytose ou la locopénie, voir aussi un
+
+415
+00:21:05,840 --> 00:21:08,980
+bilan des moustases, l'ionogramme, le récréatinine pour
+
+416
+00:21:08,980 --> 00:21:13,060
+chercher une défaillance rénale, chercher un diabète, faire
+
+417
+00:21:13,060 --> 00:21:17,260
+une gazométrie artérielle, faire des transaminases et bilirubines
+
+418
+00:21:17,260 --> 00:21:20,060
+pour chercher une atteinte hépatique.
+
+419
+00:21:20,380 --> 00:21:23,320
+À côté de ces examens biologiques, il ne
+
+420
+00:21:23,320 --> 00:21:26,300
+faut pas hésiter à faire des examens radiologiques
+
+421
+00:21:26,760 --> 00:21:29,800
+comme une échographie abdominale à la recherche d
+
+422
+00:21:29,800 --> 00:21:32,120
+'anapsie du foie si on le suspect, faire
+
+423
+00:21:32,120 --> 00:21:35,120
+des examens radiologiques du rachis ou articulaire quand
+
+424
+00:21:35,120 --> 00:21:39,520
+on suspect une atteinte aussi articulaire, faire les
+
+425
+00:21:39,520 --> 00:21:43,540
+coqueurs aussi systématiquement à la recherche d'endocardites
+
+426
+00:21:43,540 --> 00:21:44,740
+infectieuses.
+
+427
+00:21:45,340 --> 00:21:50,180
+Deuxième infection sévère des staphylocoques, on va voir
+
+428
+00:21:50,180 --> 00:21:53,320
+ici la staphylocoxie maligne de la face.
+
+429
+00:21:54,520 --> 00:21:57,120
+La staphylocoxie de la face, c'est une
+
+430
+00:21:57,120 --> 00:21:59,600
+cellulite diffuse de la face qui est comme
+
+431
+00:21:59,600 --> 00:22:03,120
+pour d'entrer un furoncle manipulé de la
+
+432
+00:22:03,120 --> 00:22:05,600
+face et se manifeste sous forme d'un
+
+433
+00:22:05,600 --> 00:22:10,540
+placard rouge, violacé, froid, peu douloureux, sans bourrelet
+
+434
+00:22:10,540 --> 00:22:13,440
+périphérique, ça permet de faire quand même la
+
+435
+00:22:13,440 --> 00:22:16,300
+différence avec les récipelles du visage, avec une
+
+436
+00:22:16,300 --> 00:22:20,000
+extension vers le tissu cellulaire rétro-orbitaire et
+
+437
+00:22:20,000 --> 00:22:22,360
+protrusion du globe oculaire équimosis.
+
+438
+00:22:22,360 --> 00:22:25,620
+Il s'associe avec une fièvre élevée, les
+
+439
+00:22:25,620 --> 00:22:28,700
+hémocultures sont souvent positives et l'évolution se
+
+440
+00:22:28,700 --> 00:22:31,900
+fait vers une thrombophlébite du sinus caverneux avec
+
+441
+00:22:31,900 --> 00:22:34,400
+ophthalmoplégie et meningon encéphalite.
+
+442
+00:22:34,680 --> 00:22:36,380
+Donc c'est possible d'arriver jusqu'à
+
+443
+00:22:36,380 --> 00:22:37,320
+ces complications.
+
+444
+00:22:38,460 --> 00:22:41,300
+Ici c'est la photo d'un patient
+
+445
+00:22:41,300 --> 00:22:45,520
+qui a une staphylocoxie de la face comme
+
+446
+00:22:45,520 --> 00:22:48,080
+pour d'entrer un furoncle sur le sourcil
+
+447
+00:22:48,080 --> 00:22:51,280
+droit qui a été manipulé par le patient.
+
+448
+00:22:52,520 --> 00:22:54,940
+Une autre photo d'une autre patiente qui
+
+449
+00:22:54,940 --> 00:22:57,980
+a une staphylocoxie maligne de la face avec
+
+450
+00:22:57,980 --> 00:23:01,520
+présence de plusieurs furoncles comme pour d'entrer.
+
+451
+00:23:02,740 --> 00:23:06,800
+Après ces staphylocoxies supératives, nous allons voir un
+
+452
+00:23:06,800 --> 00:23:10,140
+des types de staphylocoxies toxiniques qui est le
+
+453
+00:23:10,140 --> 00:23:12,320
+syndrome de choc toxique staphylocoxique.
+
+454
+00:23:13,540 --> 00:23:17,360
+Le syndrome de choc toxique staphylocoxique se voit
+
+455
+00:23:17,360 --> 00:23:20,160
+essentiellement chez la femme en période de monstruation
+
+456
+00:23:20,160 --> 00:23:24,080
+qui va utiliser des tampons au niveau vaginal.
+
+457
+00:23:24,480 --> 00:23:29,640
+Ce sont des tampons super absorbants laissés longtemps
+
+458
+00:23:29,640 --> 00:23:31,380
+au niveau du vagin.
+
+459
+00:23:32,320 --> 00:23:36,420
+Là, il y aura une pullulation de staphylocoxique
+
+460
+00:23:36,420 --> 00:23:39,720
+avec libération d'une entérotoxine qui est la
+
+461
+00:23:39,720 --> 00:23:43,180
+toxine du syndrome de choc toxique staphylocoxique.
+
+462
+00:23:44,060 --> 00:23:46,700
+Ce syndrome peut être aussi secondaire à une
+
+463
+00:23:46,700 --> 00:23:50,240
+autre infection staphylocoque avec libération d'autres entérotoxines.
+
+464
+00:23:50,740 --> 00:23:55,240
+Cliniquement, on a des signes généraux très importants
+
+465
+00:23:55,240 --> 00:23:57,660
+avec une fièvre en plateau supérieur à 39
+
+466
+00:23:57,660 --> 00:23:59,880
+degrés, une hypotension, un état de choc, une
+
+467
+00:23:59,880 --> 00:24:03,640
+rétrodermis scarlatiniforme généralisée au palmeau plantaire, puis des
+
+468
+00:24:03,640 --> 00:24:08,280
+squamations intenses, des atteintes viscérales, muqueuses, digestives,
+
+469
+00:24:08,420 --> 00:24:10,320
+hypatiques, musculaires et neurologiques.
+
+470
+00:24:10,320 --> 00:24:13,600
+Le pronostic est souvent sévère et les hémocultures
+
+471
+00:24:13,600 --> 00:24:17,080
+sont stériles parce que ce n'est pas
+
+472
+00:24:17,080 --> 00:24:17,600
+une bactérie.
+
+473
+00:24:17,780 --> 00:24:22,100
+C'est plutôt la libération de la toxine
+
+474
+00:24:22,100 --> 00:24:24,200
+au niveau du port d'entrée qui va
+
+475
+00:24:24,200 --> 00:24:28,240
+disséminer et donner ces anomalies-là.
+
+476
+00:24:29,320 --> 00:24:35,760
+Le traitement de ces infections sévères à staphylocoque
+
+477
+00:24:35,760 --> 00:24:39,500
+repose essentiellement sur les mesures de réanimation quand
+
+478
+00:24:39,500 --> 00:24:40,660
+il y a un choc septique.
+
+479
+00:24:41,260 --> 00:24:44,600
+Il repose sur l'antibiotérapie qui est un
+
+480
+00:24:44,600 --> 00:24:45,860
+traitement curatif.
+
+481
+00:24:46,300 --> 00:24:50,440
+Cette antibiotérapie doit être démarrée dès la réalisation
+
+482
+00:24:50,440 --> 00:24:54,180
+des premiers prélèvements microbiologiques et avant leur confirmation.
+
+483
+00:24:56,280 --> 00:25:00,300
+Il nécessite souvent une biantibiotérapie bactéricite à utiliser
+
+484
+00:25:00,300 --> 00:25:02,400
+par voie parentérale au moins au début.
+
+485
+00:25:03,700 --> 00:25:07,020
+Il doit être en fonction du caractère communautaire
+
+486
+00:25:07,020 --> 00:25:09,680
+ou nosocomial, en fonction de la porte d
+
+487
+00:25:09,680 --> 00:25:11,460
+'entrée, en fonction des métastases.
+
+488
+00:25:11,620 --> 00:25:12,940
+Donc il ne faut pas agir que sur
+
+489
+00:25:12,940 --> 00:25:15,200
+les bactéries mimes, mais aussi agir au niveau
+
+490
+00:25:15,200 --> 00:25:17,860
+des métastases, que ce soit l'endocarde, que
+
+491
+00:25:17,860 --> 00:25:20,300
+ce soit les localisations osseuses.
+
+492
+00:25:21,180 --> 00:25:25,440
+Il faut savoir aussi adapter cette antibiotérapie en
+
+493
+00:25:25,440 --> 00:25:27,620
+péri, qu'on a démarrée avant les résultats
+
+494
+00:25:27,620 --> 00:25:32,100
+des prélèvements, et l'adapter en fonction de
+
+495
+00:25:32,100 --> 00:25:34,920
+l'antibiogramme qu'on va récupérer par la
+
+496
+00:25:34,920 --> 00:25:38,660
+suite, et une durée minimum de 3 semaines
+
+497
+00:25:38,660 --> 00:25:41,620
+quand il ne s'agit que de simples
+
+498
+00:25:41,620 --> 00:25:42,440
+bactéries mimes.
+
+499
+00:25:43,140 --> 00:25:44,980
+Par contre, s'il y a des localisations
+
+500
+00:25:44,980 --> 00:25:48,440
+visérales comme les localisations osseuses, on peut aller
+
+501
+00:25:48,440 --> 00:25:51,600
+jusqu'à 6 semaines à 3 mois, ou
+
+502
+00:25:51,600 --> 00:25:53,620
+4 à 6 semaines quand il y a
+
+503
+00:25:53,620 --> 00:25:55,140
+une atteinte endocardique.
+
+504
+00:25:57,030 --> 00:26:01,130
+Les principes antibiotiques actifs sur les staphylocoques, on
+
+505
+00:26:01,130 --> 00:26:05,110
+a les bétalactamines dans l'oxaciline, la gloxaciline,
+
+506
+00:26:05,210 --> 00:26:08,630
+la moxiciline acide clavulénique, les céphalosporines, et vous
+
+507
+00:26:08,630 --> 00:26:14,510
+savez très bien qu'un staphylocoque résistant à
+
+508
+00:26:14,510 --> 00:26:19,230
+la méticiline, ça permet d'éliminer de champ
+
+509
+00:26:19,230 --> 00:26:23,050
+d'action les bétalactamines qui sont tous inactifs,
+
+510
+00:26:23,050 --> 00:26:27,830
+sauf pour certains céphalosporines de cinquième génération.
+
+511
+00:26:28,270 --> 00:26:32,790
+Aussi, comme éléments antibiotiques actifs sur les staphylocoques,
+
+512
+00:26:32,970 --> 00:26:36,170
+on a l'agent amicine, les synergistines représentées
+
+513
+00:26:36,170 --> 00:26:38,950
+par la pristine amicine, la famille d'iconolones,
+
+514
+00:26:39,270 --> 00:26:44,370
+les glycopeptides, les oxalodidones comme la lignée solide,
+
+515
+00:26:44,750 --> 00:26:47,430
+et autres comme l'acide fucidique, la rifampicine
+
+516
+00:26:47,430 --> 00:26:48,210
+et le cotrimoxazole.
+
+517
+00:26:48,210 --> 00:26:50,950
+Vous savez ici que le cotrimoxazole a un
+
+518
+00:26:50,950 --> 00:26:52,610
+effet bactériostatique.
+
+519
+00:26:54,210 --> 00:26:58,510
+Pour une bactérie aimée avec un staphylocoque présumé
+
+520
+00:26:58,510 --> 00:27:00,930
+métisensible, c'est-à-dire sensible à la
+
+521
+00:27:00,930 --> 00:27:03,470
+méticiline, on peut utiliser la pynie M, comme
+
+522
+00:27:03,470 --> 00:27:06,950
+l'oxaciline ou la gloxaciline associée à l
+
+523
+00:27:06,950 --> 00:27:07,440
+'agent amicine.
+
+524
+00:27:08,150 --> 00:27:10,410
+Quand on suspecte un staphylocoque résistant à la
+
+525
+00:27:10,410 --> 00:27:14,390
+méticiline, on barre la famille des bétalactamines, on
+
+526
+00:27:14,390 --> 00:27:17,930
+passe aux glycopeptides, parce qu'on n'a
+
+527
+00:27:17,930 --> 00:27:21,970
+pas les céphalosporines qui agissent sur le staphylocoque
+
+528
+00:27:21,970 --> 00:27:23,890
+résistant à la méticiline, et dans ce cas
+
+529
+00:27:23,890 --> 00:27:25,990
+-là, on donne les glycopeptides associés à l
+
+530
+00:27:25,990 --> 00:27:26,730
+'agent amicine.
+
+531
+00:27:27,090 --> 00:27:29,450
+Pour le traitement d'endocardite, quand il s
+
+532
+00:27:29,450 --> 00:27:32,490
+'agit du staphylocoque métis, on peut utiliser la
+
+533
+00:27:32,490 --> 00:27:36,990
+pynie M ou la céphazoline, qui est une
+
+534
+00:27:36,990 --> 00:27:40,510
+céphalosporine de première génération, associée ou non à
+
+535
+00:27:40,510 --> 00:27:42,330
+l'agent amicine et associée ou non à
+
+536
+00:27:42,330 --> 00:27:44,630
+la rifampicine, en fonction, est-ce que c
+
+537
+00:27:44,630 --> 00:27:48,870
+'est une infection sur prothèse ou infection sur
+
+538
+00:27:48,870 --> 00:27:50,390
+valve native.
+
+539
+00:27:50,750 --> 00:27:53,370
+Quand il s'agit d'une endocardite à
+
+540
+00:27:53,370 --> 00:27:56,850
+staph résistant à la méticiline, c'est les
+
+541
+00:27:56,850 --> 00:27:59,950
+glycopeptides associés ou non à l'agent amicine
+
+542
+00:27:59,950 --> 00:28:02,570
+ou associés ou non à la rifampicine, en
+
+543
+00:28:02,570 --> 00:28:04,370
+fonction, est-ce que c'est une infection
+
+544
+00:28:04,370 --> 00:28:07,550
+endocardite par un staph métis R qui survient
+
+545
+00:28:07,550 --> 00:28:10,250
+sur des valves natives ou sur des valves
+
+546
+00:28:10,250 --> 00:28:11,850
+prothétiques.
+
+547
+00:28:13,530 --> 00:28:16,070
+Quand il s'agit d'une myningite staphylocoxique,
+
+548
+00:28:16,290 --> 00:28:17,930
+et que c'est un staph présumé et
+
+549
+00:28:17,930 --> 00:28:20,890
+sensible à la méticiline, on utilise l'oxaciline
+
+550
+00:28:20,890 --> 00:28:24,010
+ou une céphalosporine de troisième génération qui a
+
+551
+00:28:24,010 --> 00:28:27,110
+une bonne diffusion dans le parenchyme cérébral associé
+
+552
+00:28:27,110 --> 00:28:29,190
+à la fausse mémicine, qui malheureusement n'est
+
+553
+00:28:29,190 --> 00:28:30,350
+pas disponible au Maroc.
+
+554
+00:28:30,790 --> 00:28:32,910
+Et quand il s'agit d'une myningite
+
+555
+00:28:32,910 --> 00:28:35,910
+à staph résistant à la méticiline, on peut
+
+556
+00:28:35,910 --> 00:28:38,590
+utiliser la vancomycine associée à la rifampicine.
+
+557
+00:28:38,590 --> 00:28:42,550
+En cas d'infection osseoarticulaire à staph métis
+
+558
+00:28:42,550 --> 00:28:44,970
+S, on peut utiliser soit l'apiné M
+
+559
+00:28:44,970 --> 00:28:46,890
+ou l'équinolone associée aux aminosides.
+
+560
+00:28:47,750 --> 00:28:50,490
+Et quand il s'agit d'une infection
+
+561
+00:28:50,490 --> 00:28:53,850
+osseoarticulaire présumée à staph résistant à la méticiline,
+
+562
+00:28:54,550 --> 00:28:58,890
+on utilise les glycopeptides associés à la rifampicine
+
+563
+00:28:58,890 --> 00:29:00,690
+ou à l'acide fusidique.
+
+564
+00:29:02,840 --> 00:29:05,680
+Parfois, le traitement antibiotique seul n'est pas
+
+565
+00:29:05,680 --> 00:29:07,960
+suffisant et on a recours à la chirurgie
+
+566
+00:29:07,960 --> 00:29:09,580
+quand il s'agit d'un abcès ou
+
+567
+00:29:09,580 --> 00:29:11,440
+un ampième qu'il faut drainer.
+
+568
+00:29:11,740 --> 00:29:14,020
+Quand il s'agit d'une arthrite nécessitant
+
+569
+00:29:14,020 --> 00:29:17,800
+un lavage articulaire, on peut aussi avoir recours
+
+570
+00:29:17,800 --> 00:29:21,320
+à enlever des séquestres osseux, comme le cas
+
+571
+00:29:21,320 --> 00:29:24,880
+d'osseomyélite, ou changer une prothèse quand il
+
+572
+00:29:24,880 --> 00:29:27,440
+s'agit d'une infection sur prothèse.
+
+573
+00:29:28,600 --> 00:29:32,540
+Un traitement de désinfection à staphylocoque nécessite aussi
+
+574
+00:29:32,540 --> 00:29:36,540
+une surveillance pour chercher l'efficacité de traitement.
+
+575
+00:29:36,860 --> 00:29:38,460
+Dans ce cas-là, on se base sur
+
+576
+00:29:38,460 --> 00:29:41,040
+l'évolution des signes cliniques, dont essentiellement la
+
+577
+00:29:41,040 --> 00:29:45,540
+courbe de température, l'évaluation des constantes, la
+
+578
+00:29:45,540 --> 00:29:49,780
+fréquence respiratoire, la fréquence cardiaque, la tension artérielle,
+
+579
+00:29:50,140 --> 00:29:54,440
+le temps de recoloration, l'examen clinique répétitif
+
+580
+00:29:54,440 --> 00:29:57,660
+chaque jour, chiffrer la durée, si on a
+
+581
+00:29:57,660 --> 00:30:00,320
+une insuffisance rénale, que ce soit secondaire à
+
+582
+00:30:00,320 --> 00:30:05,980
+l'infection ou lorsqu'on a un traitement
+
+583
+00:30:05,980 --> 00:30:07,820
+nifrotoxique donné aux patients.
+
+584
+00:30:08,320 --> 00:30:11,420
+On évalue l'efficacité aussi bien clinique que
+
+585
+00:30:11,420 --> 00:30:15,620
+paraclinique, donc on cherche les éléments d'inflammation
+
+586
+00:30:15,620 --> 00:30:18,700
+comme la VS, la CRP, la procalcitonine et
+
+587
+00:30:18,700 --> 00:30:20,120
+l'annumération en formule sanguine.
+
+588
+00:30:20,220 --> 00:30:22,400
+On va chercher l'évolution de l'héperleucocytose
+
+589
+00:30:22,400 --> 00:30:25,120
+ou l'évolution de la leucopénie.
+
+590
+00:30:25,120 --> 00:30:29,380
+On cherche aussi la tolérance des traitements donnés,
+
+591
+00:30:29,780 --> 00:30:33,160
+donc on évalue la fonction rénale en chiffrant
+
+592
+00:30:33,160 --> 00:30:35,620
+la durée comme en chiffrant la fonction rénale
+
+593
+00:30:35,620 --> 00:30:37,700
+par le dosage du leuré et de la
+
+594
+00:30:37,700 --> 00:30:38,380
+criatinine.
+
+595
+00:30:38,680 --> 00:30:41,300
+On cherche aussi les manifestations allergiques qui peuvent
+
+596
+00:30:41,300 --> 00:30:44,060
+apparaître suite à certains médicaments.
+
+597
+00:30:45,280 --> 00:30:49,440
+Pour prévenir les infections astaphylococque, et vu que
+
+598
+00:30:49,440 --> 00:30:52,220
+c'est une infection essentiellement maniportée, donc il
+
+599
+00:30:52,220 --> 00:30:54,940
+faut agir sur l'hygiène des mains et
+
+600
+00:30:54,940 --> 00:30:57,280
+surtout en milieu des soins.
+
+601
+00:30:57,820 --> 00:31:00,680
+Et il faut limiter et traiter certains facteurs
+
+602
+00:31:00,680 --> 00:31:03,340
+favorisants comme la mise en place de cathéters,
+
+603
+00:31:03,480 --> 00:31:06,740
+donc il faut ne les garder qu'en
+
+604
+00:31:06,740 --> 00:31:08,840
+cas de nécessité absolue et à chaque fois
+
+605
+00:31:08,840 --> 00:31:11,000
+qu'on peut les enlever, il faut les
+
+606
+00:31:11,000 --> 00:31:11,560
+enlever.
+
+607
+00:31:12,120 --> 00:31:14,740
+Équilibrer tout tard essentiellement le diabète.
+
+608
+00:31:15,620 --> 00:31:18,840
+Il faut aussi insister sur l'antibioprophylaxie préopératoire
+
+609
+00:31:18,840 --> 00:31:21,580
+antistaphylocoxique, donc quand il s'agit de chirurgie
+
+610
+00:31:21,580 --> 00:31:25,560
+orthopédique, cardiovasculaire, avec l'éradication de tout foyer
+
+611
+00:31:25,560 --> 00:31:28,380
+staphylocoxique les jours précédents à l'intervention et
+
+612
+00:31:28,380 --> 00:31:32,440
+l'encadrement du geste opératoire par antibiotérapie antistaphylocoxique.
+
+613
+00:31:33,700 --> 00:31:36,380
+Maintenant on va passer aux bactéries aimées à
+
+614
+00:31:36,380 --> 00:31:37,880
+bacille grammes négatives.
+
+615
+00:31:38,840 --> 00:31:42,500
+Les germes responsables sont essentiellement les entérobactéries comme
+
+616
+00:31:42,500 --> 00:31:46,580
+écherchia coli, eclepsie L, proteïus, serratia, pseudomonas et
+
+617
+00:31:46,580 --> 00:31:47,220
+aerogénosa.
+
+618
+00:31:47,760 --> 00:31:50,540
+Les circonstances favorisant ces infections, il peut s
+
+619
+00:31:50,540 --> 00:31:52,740
+'agir d'un déséquilibre de la flore intestinale
+
+620
+00:31:52,740 --> 00:31:55,420
+par une antibiotérapie à large spectre, donc il
+
+621
+00:31:55,420 --> 00:31:58,860
+faut toujours faire attention à la prescription des
+
+622
+00:31:58,860 --> 00:31:59,600
+antibiotiques.
+
+623
+00:31:59,940 --> 00:32:01,920
+Aussi, il peut être dû à une diminution
+
+624
+00:32:01,920 --> 00:32:03,840
+des défenses de l'organisme par une infection
+
+625
+00:32:03,840 --> 00:32:09,580
+sous-jacente, une immunodépression, une période préopératoire.
+
+626
+00:32:11,120 --> 00:32:14,060
+La porte d'entrée, il peut être digestif,
+
+627
+00:32:14,260 --> 00:32:17,520
+comme toute pathologie écologique, comme la diverticulite, une
+
+628
+00:32:17,520 --> 00:32:21,260
+myoplasie colique, des infections des voies biliaires, comme
+
+629
+00:32:21,260 --> 00:32:25,400
+la cholongite ou la cholecystite, une chirurgie digestive,
+
+630
+00:32:25,740 --> 00:32:26,980
+comme il peut être urinaire.
+
+631
+00:32:27,160 --> 00:32:30,500
+Toute infection urinaire avec son obstacle peut se
+
+632
+00:32:30,500 --> 00:32:32,720
+transformer en bactéries aimées à BGN.
+
+633
+00:32:33,900 --> 00:32:36,620
+L'infection des cathéteres vineux, ça peut être
+
+634
+00:32:36,620 --> 00:32:40,280
+aussi la porte d'entrée cutanée, avec l
+
+635
+00:32:40,280 --> 00:32:42,560
+'infection des brûlures, l'existence d'une plaie,
+
+636
+00:32:42,660 --> 00:32:43,980
+d'une ulcération chronique.
+
+637
+00:32:45,600 --> 00:32:48,240
+La bactérie aimée à BGN a des signes
+
+638
+00:32:48,240 --> 00:32:51,580
+communs aux autres germes, comme la fièvre, les
+
+639
+00:32:51,580 --> 00:32:56,620
+frissons, l'hépothermie, la défaillance d'organes, l
+
+640
+00:32:56,620 --> 00:32:58,480
+'existence de spinulomies galiles.
+
+641
+00:32:59,580 --> 00:33:00,920
+Mais il y a des signes qui sont
+
+642
+00:33:00,920 --> 00:33:04,360
+très évocateurs des bacilles grammes négatives, essentiellement l
+
+643
+00:33:04,360 --> 00:33:09,540
+'hépothermie, l'hyperventilation responsable d'alcalose, des troubles
+
+644
+00:33:09,540 --> 00:33:12,720
+de comportement, des signes cutanés comme l'ecthyma
+
+645
+00:33:12,720 --> 00:33:13,500
+gangréneux.
+
+646
+00:33:16,540 --> 00:33:19,600
+Biologiquement, on a plus la leucopénie et la
+
+647
+00:33:19,600 --> 00:33:23,540
+neutropénie qui remplacent l'hyperleucocytose et l'hypernétrophilie.
+
+648
+00:33:24,120 --> 00:33:27,140
+On a aussi la coagulation intravasculaire disséminée.
+
+649
+00:33:28,800 --> 00:33:31,800
+Ici sur la photo, on a des lésions
+
+650
+00:33:31,800 --> 00:33:34,380
+d'ecthyma gangrénosum sur le dos d'un
+
+651
+00:33:34,380 --> 00:33:38,040
+enfant qui est secondaire à une infection par
+
+652
+00:33:38,040 --> 00:33:39,960
+le pseudomonas aeruginosa.
+
+653
+00:33:40,900 --> 00:33:44,720
+Les complications des bactéries mises à bacilles grammes
+
+654
+00:33:44,720 --> 00:33:50,340
+négatives, on a les complications communes aux autres
+
+655
+00:33:50,340 --> 00:33:51,340
+septicémies.
+
+656
+00:33:51,840 --> 00:33:54,400
+Et on a des complications spécifiques aux bacilles
+
+657
+00:33:54,400 --> 00:33:57,520
+grammes négatives, comme le choc septique et l
+
+658
+00:33:57,520 --> 00:33:59,090
+'odème aigu-pulmonaire lésionnel.
+
+659
+00:33:59,090 --> 00:34:02,550
+L'odème aigu-pulmonaire, si l'accumulation de
+
+660
+00:34:02,550 --> 00:34:06,150
+fluides est solutée dans les espaces extravasculaires pulmonaires
+
+661
+00:34:06,150 --> 00:34:09,889
+et qui est responsable des inondations des alvéoles
+
+662
+00:34:09,889 --> 00:34:10,530
+pulmonaires.
+
+663
+00:34:10,870 --> 00:34:12,750
+On parle de lésionnel quand il y a
+
+664
+00:34:12,750 --> 00:34:17,409
+un rapport avec une augmentation de la permeabilité
+
+665
+00:34:17,409 --> 00:34:19,670
+au niveau de la membrane alvéolo-capillaire.
+
+666
+00:34:20,469 --> 00:34:24,530
+Pour le traitement, on utilise essentiellement les bétalactamines,
+
+667
+00:34:25,750 --> 00:34:31,010
+essentiellement les inhibiteurs de bétalactamase, les céphalosporines troisième
+
+668
+00:34:31,010 --> 00:34:31,889
+génération.
+
+669
+00:34:32,270 --> 00:34:34,850
+On utilise aussi les carbapenèmes.
+
+670
+00:34:35,710 --> 00:34:37,909
+On peut utiliser aussi les fluoroéquinolones.
+
+671
+00:34:38,370 --> 00:34:40,850
+Et que ce soit bétalactamines ou fluoroéquinolones, ils
+
+672
+00:34:40,850 --> 00:34:43,429
+doivent être associés aux aminosides pour une meilleure
+
+673
+00:34:43,429 --> 00:34:43,710
+efficacité.
+
+674
+00:34:44,190 --> 00:34:45,969
+Bien sûr, le traitement, c'est un traitement
+
+675
+00:34:45,969 --> 00:34:50,429
+par voie intraveineuse, au moins les premiers jours
+
+676
+00:34:50,429 --> 00:34:51,050
+de traitement.
+
+677
+00:34:51,050 --> 00:34:53,230
+La durée de traitement va de deux à
+
+678
+00:34:53,230 --> 00:34:55,710
+trois semaines en fonction de l'évolution.
+
+679
+00:34:55,889 --> 00:34:57,810
+Bien sûr, il faut surveiller aussi bien l
+
+680
+00:34:57,810 --> 00:35:01,210
+'efficacité de traitement que la tolérance.
+
+681
+00:35:02,130 --> 00:35:05,210
+Parfois, on a recours à un traitement chirurgical
+
+682
+00:35:05,210 --> 00:35:07,190
+comme dans les bactéries émises à staphylococque.

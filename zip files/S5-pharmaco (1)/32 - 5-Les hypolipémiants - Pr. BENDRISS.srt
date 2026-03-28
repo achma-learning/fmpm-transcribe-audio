@@ -1,0 +1,1487 @@
+1
+00:00:06,280 --> 00:00:09,800
+Bonjour, aujourd'hui, on va traiter les hippolipémiens.
+
+2
+00:00:09,900 --> 00:00:11,340
+C'est quoi les hippolipémiens?
+
+3
+00:00:11,400 --> 00:00:13,780
+C'est des médicaments qui vont un petit
+
+4
+00:00:13,780 --> 00:00:17,760
+peu réguler les paramètres lipidiques, c'est à
+
+5
+00:00:17,760 --> 00:00:20,500
+dire parmi ces paramètres lipidiques en dose dans
+
+6
+00:00:20,500 --> 00:00:22,880
+le sang, vous avez le cholestérol total, vous
+
+7
+00:00:22,880 --> 00:00:25,680
+avez le LDL cholestérol ou ce qu'on
+
+8
+00:00:25,680 --> 00:00:27,040
+appelle le mauvais cholestérol.
+
+9
+00:00:27,140 --> 00:00:29,960
+Vous avez le HDL cholestérol ou contre parenthèse
+
+10
+00:00:29,960 --> 00:00:32,660
+de bon cholestérol et vous avez les triglycérides.
+
+11
+00:00:32,660 --> 00:00:35,760
+Alors, ces médicaments, c'est un petit peu
+
+12
+00:00:35,760 --> 00:00:39,560
+de réguler le métabolisme lipidique, soit en diminuant
+
+13
+00:00:39,560 --> 00:00:42,140
+le LDL et autres triglycérides, soit en augmentant
+
+14
+00:00:42,140 --> 00:00:43,040
+le HDL.
+
+15
+00:00:44,720 --> 00:00:48,160
+Alors, les objectifs pédagogiques, on les connaît à
+
+16
+00:00:48,160 --> 00:00:49,560
+travers les autres cours.
+
+17
+00:00:50,080 --> 00:00:51,700
+Alors, vous avez deux grandes classes thérapeutiques qu
+
+18
+00:00:51,700 --> 00:00:54,000
+'on va traiter, les statines et les fibrates
+
+19
+00:00:54,000 --> 00:00:56,040
+et on va essayer un petit peu de
+
+20
+00:00:56,040 --> 00:00:58,780
+décrire leurs paramètres cinétiques, les indications, les contre
+
+21
+00:00:58,780 --> 00:01:01,340
+indications, les effets secondaires et comment les surveiller.
+
+22
+00:01:02,000 --> 00:01:04,760
+Alors, chose qu'il faut savoir et qu
+
+23
+00:01:04,760 --> 00:01:06,220
+'il faut qu'elle soit acquise, c'est
+
+24
+00:01:06,220 --> 00:01:08,180
+qu'on avait démontré qu'il y avait
+
+25
+00:01:08,180 --> 00:01:11,960
+une relation entre la dyslipidémie et surtout, surtout
+
+26
+00:01:11,960 --> 00:01:14,000
+le niveau du LDL cholestérol, ce qu'on
+
+27
+00:01:14,000 --> 00:01:16,560
+appelle l'eudensité ou l'hypocrotéine cholestérol ou
+
+28
+00:01:16,560 --> 00:01:19,580
+le mauvais cholestérol et la survenue de complications
+
+29
+00:01:19,580 --> 00:01:20,180
+cardiovasculaires.
+
+30
+00:01:20,340 --> 00:01:23,740
+C'est une relation qui est pratiquement curvilinéaire.
+
+31
+00:01:23,860 --> 00:01:26,060
+Et on avait aussi démontré qu'il y
+
+32
+00:01:26,060 --> 00:01:28,060
+avait un effet bénéfique quand on réduit ce
+
+33
+00:01:28,060 --> 00:01:32,380
+LDL cholestérol sur la survenue des événements cardiovasculaires
+
+34
+00:01:32,380 --> 00:01:35,000
+et du coup, donc on utilise ces molécules
+
+35
+00:01:35,000 --> 00:01:37,520
+pour essayer justement de réduire le LDL cholestérol
+
+36
+00:01:37,520 --> 00:01:40,360
+et quand on réduit le LDL, on diminue
+
+37
+00:01:40,360 --> 00:01:43,620
+le risque cardiovasculaire en prévention primaire ou secondaire.
+
+38
+00:01:44,140 --> 00:01:46,020
+La prévention primaire, c'est quand vous avez
+
+39
+00:01:46,020 --> 00:01:48,520
+des facteurs de risque cardiovasculaire tels que l
+
+40
+00:01:48,520 --> 00:01:50,580
+'HTA, diabète, dyslipidémie et vous n'avez pas
+
+41
+00:01:50,580 --> 00:01:53,500
+encore de complications cardiovasculaires ou de maladies cardiovasculaires
+
+42
+00:01:53,500 --> 00:01:53,880
+avérées.
+
+43
+00:01:54,700 --> 00:01:56,920
+Et la prévention secondaire, quand vous avez des
+
+44
+00:01:56,920 --> 00:02:00,000
+facteurs cardiovasculaires et vous avez déjà fait une
+
+45
+00:02:00,000 --> 00:02:02,600
+maladie cardiovasculaire avérée, à savoir la maladie coronaire,
+
+46
+00:02:02,700 --> 00:02:05,700
+un accident vasculaire cérébral ou une artériopathie obliterant
+
+47
+00:02:05,700 --> 00:02:06,600
+des membres inférieurs.
+
+48
+00:02:07,840 --> 00:02:09,880
+Je passe sur le cas clinique où vous
+
+49
+00:02:09,880 --> 00:02:11,200
+aurez la réponse à la fin.
+
+50
+00:02:11,720 --> 00:02:15,820
+Les principaux hippolipéens ont les principales classes thérapeutiques.
+
+51
+00:02:16,040 --> 00:02:19,000
+Vous avez la classe majoritaire, c'est les
+
+52
+00:02:19,000 --> 00:02:19,540
+statines.
+
+53
+00:02:20,200 --> 00:02:21,800
+C'est des médicaments qui vont inhibir une
+
+54
+00:02:21,800 --> 00:02:25,320
+enzyme qui est l'hydroxyméthylglutaricoenzyme A réductase.
+
+55
+00:02:25,940 --> 00:02:28,180
+Deuxième classe qui n'est pas aussi importante
+
+56
+00:02:28,180 --> 00:02:29,440
+que les statines, c'est les fibrates.
+
+57
+00:02:29,440 --> 00:02:31,860
+Puis, troisième classe, les inhibiteurs de l'absorption
+
+58
+00:02:31,860 --> 00:02:35,440
+de l'intestinal du cholestérol qui est additif
+
+59
+00:02:35,440 --> 00:02:36,140
+aux statines.
+
+60
+00:02:36,540 --> 00:02:39,080
+Et enfin, d'autres qui ne sont pas
+
+61
+00:02:39,080 --> 00:02:41,140
+très importants, c'est les résines et l
+
+62
+00:02:41,140 --> 00:02:41,920
+'acide nicotinique.
+
+63
+00:02:42,340 --> 00:02:44,620
+Une autre classe qui commence à faire paraître
+
+64
+00:02:44,620 --> 00:02:47,400
+dans les recommandations sur les listes épidémiques et
+
+65
+00:02:47,400 --> 00:02:50,140
+les inhibiteurs de la PCSK9 qu'on n
+
+66
+00:02:50,140 --> 00:02:52,100
+'aurait pas l'occasion de traiter dans ce
+
+67
+00:02:52,100 --> 00:02:52,240
+cours.
+
+68
+00:02:52,760 --> 00:02:56,440
+Première classe thérapeutique, vous avez les inhibiteurs de
+
+69
+00:02:56,440 --> 00:02:59,920
+l'hydroxyméthylglutaricoenzyme A réductase qui sont les statines.
+
+70
+00:03:00,300 --> 00:03:01,900
+Alors, je répète encore une fois, c'est
+
+71
+00:03:01,900 --> 00:03:05,480
+la principale classe des hypolipémiens.
+
+72
+00:03:05,780 --> 00:03:06,100
+Pourquoi?
+
+73
+00:03:06,520 --> 00:03:07,880
+Parce qu'on avait démontré qu'il y
+
+74
+00:03:07,880 --> 00:03:09,780
+avait un niveau de preuve élevé de l
+
+75
+00:03:09,780 --> 00:03:13,000
+'efficacité des statines pour réduire justement la morbide
+
+76
+00:03:13,000 --> 00:03:16,760
+mortalité cardiovasculaire et le principal effet des statines
+
+77
+00:03:16,760 --> 00:03:18,680
+sur les paramètres lipidés dont je vous ai
+
+78
+00:03:18,680 --> 00:03:19,340
+cité les quatre.
+
+79
+00:03:20,000 --> 00:03:22,780
+Le principal paramètre sur lequel agit les statines,
+
+80
+00:03:22,980 --> 00:03:26,300
+c'est le LDL cholestérol de manière prépondérante.
+
+81
+00:03:27,260 --> 00:03:29,740
+Et cette réduction va dépendre de la dose
+
+82
+00:03:29,740 --> 00:03:30,280
+des statines.
+
+83
+00:03:30,500 --> 00:03:32,640
+Plus vous augmentez les doses, plus vous réduisez
+
+84
+00:03:32,640 --> 00:03:33,900
+le LDL, ça va de 20 à 30
+
+85
+00:03:33,900 --> 00:03:35,760
+% jusqu'à 60%.
+
+86
+00:03:35,760 --> 00:03:38,400
+Ça, c'est les principales, si vous voulez
+
+87
+00:03:38,400 --> 00:03:41,980
+dire, différentes molécules des statines.
+
+88
+00:03:43,300 --> 00:03:44,720
+Ça, c'est toujours un petit peu le
+
+89
+00:03:44,720 --> 00:03:45,660
+mécanisme d'action.
+
+90
+00:03:46,040 --> 00:03:49,240
+Alors, les statines vont inhiber cette enzyme qui
+
+91
+00:03:49,240 --> 00:03:53,060
+est l'hydroxyméthylglutaricoenzyme A réductase, qui est l
+
+92
+00:03:53,060 --> 00:03:55,540
+'enzyme responsable un petit peu de la transformation
+
+93
+00:03:55,540 --> 00:03:59,260
+du crème précurseur en cholestérol.
+
+94
+00:04:02,040 --> 00:04:05,860
+Et cette diminution un petit peu de la
+
+95
+00:04:05,860 --> 00:04:10,680
+synthèse endogène du cholestérol intracellulaire et qui prédomine
+
+96
+00:04:10,680 --> 00:04:13,620
+essentiellement au niveau des hépatocytes, qu'est ce
+
+97
+00:04:13,620 --> 00:04:14,080
+qu'elle va faire?
+
+98
+00:04:14,160 --> 00:04:16,640
+Elle va lever le rétro contrôle négatif qui
+
+99
+00:04:16,640 --> 00:04:19,540
+est exercé par le cholestérol intracellulaire et ceci
+
+100
+00:04:19,540 --> 00:04:22,380
+va stimuler l'expression du gène des récepteurs
+
+101
+00:04:22,380 --> 00:04:26,020
+du LDL à la surface du foie qui
+
+102
+00:04:26,020 --> 00:04:26,500
+va faire quoi?
+
+103
+00:04:26,700 --> 00:04:29,700
+Donc, la présence des récepteurs du LDL va
+
+104
+00:04:29,700 --> 00:04:33,120
+essayer de capter les LDL plasmatiques qui circulent,
+
+105
+00:04:33,360 --> 00:04:35,600
+vont les cataboliser et du coup, vous aurez
+
+106
+00:04:35,600 --> 00:04:38,780
+une diminution du taux de LDL sérieux.
+
+107
+00:04:39,460 --> 00:04:41,860
+Donc, si l'on veut récapituler, donc en
+
+108
+00:04:41,860 --> 00:04:44,840
+inhibant l'enzyme, vous diminuez la synthèse hépatique
+
+109
+00:04:44,840 --> 00:04:45,700
+du cholestérol.
+
+110
+00:04:46,260 --> 00:04:48,960
+Laquelle synthèse va lever le rétro contrôle négatif?
+
+111
+00:04:49,520 --> 00:04:51,600
+Ceci va augmenter l'expression des récepteurs à
+
+112
+00:04:51,600 --> 00:04:54,880
+haute affinité des LDL, capter les LDL circulants
+
+113
+00:04:54,880 --> 00:04:57,020
+et donc diminuer les LDL sériques.
+
+114
+00:04:58,620 --> 00:05:01,940
+Donc, les effets récapitulatifs sur le bilan léptique,
+
+115
+00:05:02,100 --> 00:05:04,100
+donc une nette diminution du cholestérol total.
+
+116
+00:05:04,200 --> 00:05:06,640
+Pourtant, pourtant, essentiellement, comme je vous ai dit,
+
+117
+00:05:06,700 --> 00:05:09,180
+les statins sur le LDL cholestérol qui est
+
+118
+00:05:09,180 --> 00:05:11,080
+athérogène, ça veut dire quoi?
+
+119
+00:05:11,260 --> 00:05:12,920
+Athérogène, c'est lui qui est responsable de
+
+120
+00:05:12,920 --> 00:05:15,300
+la formation des plaques d'athérole qui vont
+
+121
+00:05:15,300 --> 00:05:20,040
+obstruer les artères qui sont à destination des
+
+122
+00:05:20,040 --> 00:05:23,180
+organes, notamment le cœur, le cerveau, les membres
+
+123
+00:05:23,180 --> 00:05:26,400
+inférieurs et il serait responsable de l'ischémie
+
+124
+00:05:26,400 --> 00:05:28,640
+au niveau de ces organes et la plaque
+
+125
+00:05:28,640 --> 00:05:29,160
+d'athérome.
+
+126
+00:05:29,240 --> 00:05:30,660
+Comme vous le savez, elle est formée d
+
+127
+00:05:30,660 --> 00:05:33,000
+'un noyau lipidique qui est formé essentiellement du
+
+128
+00:05:33,000 --> 00:05:34,900
+LDL oxydé et de la chaffie.
+
+129
+00:05:35,060 --> 00:05:37,340
+Donc, quand vous diminuez le LDL cholestérol, vous
+
+130
+00:05:37,340 --> 00:05:40,580
+diminuez un petit peu le noyau lipidique et
+
+131
+00:05:40,580 --> 00:05:43,440
+vous stabilisez les plaques à côté de la
+
+132
+00:05:43,440 --> 00:05:45,780
+baisse majoritaire du LDL cholestérol.
+
+133
+00:05:45,900 --> 00:05:47,900
+Vous augmentez, mais de manière très modeste, la
+
+134
+00:05:47,900 --> 00:05:51,320
+concentration du HDL cholestérol qui est antiathérogène, ce
+
+135
+00:05:51,320 --> 00:05:53,400
+qu'on appelle le bon cholestérol, et vous
+
+136
+00:05:53,400 --> 00:05:55,980
+diminuez aussi de manière, encore une fois, modérée
+
+137
+00:05:55,980 --> 00:05:56,860
+les triglycérides.
+
+138
+00:05:57,300 --> 00:06:00,140
+Donc, action essentielle des statines est sur le
+
+139
+00:06:00,140 --> 00:06:01,960
+LDL cholestérol avec une baisse de 30 à
+
+140
+00:06:01,960 --> 00:06:02,600
+50 %.
+
+141
+00:06:02,600 --> 00:06:06,540
+L'HDL va augmenter modestement de 5 à
+
+142
+00:06:06,540 --> 00:06:07,000
+10 %.
+
+143
+00:06:07,000 --> 00:06:09,380
+Triglycérides vont diminuer de manière très modérée de
+
+144
+00:06:09,380 --> 00:06:12,080
+15 à 35 % et tout ceci va
+
+145
+00:06:12,080 --> 00:06:14,200
+dépendre de la dose employée des statines.
+
+146
+00:06:14,740 --> 00:06:17,420
+Alors, à part les effets des statines sur
+
+147
+00:06:17,420 --> 00:06:19,120
+l'ubile en lipidique, vous avez d'autres
+
+148
+00:06:19,120 --> 00:06:20,740
+effets, ce qu'on appelle le pléothrope, c
+
+149
+00:06:20,740 --> 00:06:23,800
+'est-à-dire indépendamment de l'effet sur
+
+150
+00:06:23,800 --> 00:06:24,480
+le LDL.
+
+151
+00:06:25,080 --> 00:06:27,900
+C'est des effets qui pourraient être antiinflammatoires
+
+152
+00:06:27,900 --> 00:06:32,520
+sur la paroi artérielle, antithrombotiques par rapport à
+
+153
+00:06:32,520 --> 00:06:35,940
+l'endothélium, antioxydants, en améliorant la fonction endothéliale
+
+154
+00:06:35,940 --> 00:06:39,260
+et en évitant la prolifération des cellules musculaires
+
+155
+00:06:39,260 --> 00:06:41,300
+lisses qui pourraient participer à la formation de
+
+156
+00:06:41,300 --> 00:06:42,280
+la chapitreuse.
+
+157
+00:06:42,720 --> 00:06:45,380
+Dans conséquence, si on veut faire une répercussion
+
+158
+00:06:45,380 --> 00:06:48,120
+sur la pratique, efficacité clinique qui a été
+
+159
+00:06:48,120 --> 00:06:51,440
+prouvée par plusieurs études qui ont mis en
+
+160
+00:06:51,440 --> 00:06:54,540
+évidence l'efficacité de ces statines en termes
+
+161
+00:06:54,540 --> 00:06:59,760
+de réduction des événements coronaires, en prévention primaire,
+
+162
+00:06:59,840 --> 00:07:00,240
+c'est-à-dire qu'on n'avait
+
+163
+00:07:00,240 --> 00:07:01,840
+pas de maladie coronaire, mais juste on avait
+
+164
+00:07:01,840 --> 00:07:04,340
+des facteurs de risque, que secondaire, après avoir
+
+165
+00:07:04,340 --> 00:07:07,520
+une maladie coronaire avérée, mais une prévention ultérieure
+
+166
+00:07:07,520 --> 00:07:09,400
+d'autres événements cardiovasculaires.
+
+167
+00:07:09,880 --> 00:07:12,220
+Du point de vue pharmacogénétique, les statines sont
+
+168
+00:07:12,220 --> 00:07:13,600
+absorbées de manière rapide.
+
+169
+00:07:14,000 --> 00:07:17,120
+Ils ont une faible biodisponibilité parce qu'il
+
+170
+00:07:17,120 --> 00:07:18,980
+y a une importante liaison protéine-plasmatique.
+
+171
+00:07:18,980 --> 00:07:21,980
+Leur métabolisme est essentiellement hépatique et les médecins
+
+172
+00:07:21,980 --> 00:07:24,120
+se font principalement par voie biliaire.
+
+173
+00:07:24,600 --> 00:07:27,340
+Les indications thérapeutiques des statines, c'est essentiel
+
+174
+00:07:27,340 --> 00:07:30,060
+à chaque fois que vous avez le LDL
+
+175
+00:07:30,060 --> 00:07:33,380
+cholestérol qui prédomine comme anomalie dans le bilan
+
+176
+00:07:33,380 --> 00:07:33,780
+lépidique.
+
+177
+00:07:34,220 --> 00:07:36,880
+C'est les hypercholestérolémiques pur type de A
+
+178
+00:07:36,880 --> 00:07:39,300
+ou mixte type de B, mais toujours en
+
+179
+00:07:39,300 --> 00:07:40,880
+complément du régime alimentaire.
+
+180
+00:07:41,340 --> 00:07:43,140
+En prévention primaire, c'est-à-dire quand
+
+181
+00:07:43,140 --> 00:07:44,400
+vous avez un patient qui a une distée
+
+182
+00:07:44,400 --> 00:07:45,620
+épidémique et qui n'a pas encore fait
+
+183
+00:07:45,620 --> 00:07:48,620
+une maladie cardiovasculaire, l'indication des statines va
+
+184
+00:07:48,620 --> 00:07:50,820
+se faire en fonction du taux du LDL
+
+185
+00:07:50,820 --> 00:07:54,060
+circulant et du risque cardiovasculaire, c'est-à
+
+186
+00:07:54,060 --> 00:07:55,600
+-dire on ne traite pas un chiffre, mais
+
+187
+00:07:55,600 --> 00:07:57,440
+on traite un risque cardiovasculaire parce qu'en
+
+188
+00:07:57,440 --> 00:08:00,200
+fonction du risque cardiovasculaire qu'il a, qu
+
+189
+00:08:00,200 --> 00:08:02,080
+'il a le patient, on va essayer d
+
+190
+00:08:02,080 --> 00:08:04,920
+'avoir notre intervention, soit un régime qui serait
+
+191
+00:08:04,920 --> 00:08:07,160
+adapté et attendre et par la suite introduire
+
+192
+00:08:07,160 --> 00:08:10,120
+un statine ou d'emblée introduire un statine
+
+193
+00:08:10,120 --> 00:08:13,460
+avec le régime hypolipémia.
+
+194
+00:08:13,860 --> 00:08:16,120
+En matière de prévention secondaire, c'est-à
+
+195
+00:08:16,120 --> 00:08:17,040
+-dire si c'est un malade qui a
+
+196
+00:08:17,040 --> 00:08:19,680
+une distée épidémique, mais qui a déjà présenté
+
+197
+00:08:19,680 --> 00:08:23,800
+un événement cardiovasculaire, une maladie cardiovasculaire avérée, là,
+
+198
+00:08:24,000 --> 00:08:25,820
+quel que soit le bilan épidique, même s
+
+199
+00:08:25,820 --> 00:08:28,860
+'il est normal, les statines sont indiquées pour
+
+200
+00:08:28,860 --> 00:08:32,280
+justement stabiliser ou faire régresser les plaques d
+
+201
+00:08:32,280 --> 00:08:34,940
+'athérome et améliorer la fonction endothélia.
+
+202
+00:08:36,340 --> 00:08:39,900
+Voici les indications des statines en prévention primaire.
+
+203
+00:08:39,960 --> 00:08:41,780
+Je vous ai parlé du risque cardiovasculaire.
+
+204
+00:08:41,919 --> 00:08:44,060
+Là, vous avez les taux du LDL circulant
+
+205
+00:08:44,060 --> 00:08:47,540
+et vous avez le risque cardiovasculaire sur les
+
+206
+00:08:47,540 --> 00:08:48,040
+colonnes.
+
+207
+00:08:48,600 --> 00:08:50,340
+Donc, plus vous allez en bas, plus vous
+
+208
+00:08:50,340 --> 00:08:51,760
+augmentez le risque cardiovasculaire.
+
+209
+00:08:51,900 --> 00:08:56,080
+Et regardez, l'intervention thérapeutique va dépendre de
+
+210
+00:08:56,080 --> 00:08:58,900
+votre chiffre du LDL et de votre risque
+
+211
+00:08:58,900 --> 00:08:59,600
+cardiovasculaire.
+
+212
+00:08:59,820 --> 00:09:03,660
+Plus votre chiffre de LDL est élevé, vous
+
+213
+00:09:03,660 --> 00:09:06,860
+allez introduire un statine de manière concomitante avec
+
+214
+00:09:06,860 --> 00:09:07,400
+le mode de vie.
+
+215
+00:09:07,460 --> 00:09:10,360
+Vous n'attendez pas et plus vous avez
+
+216
+00:09:10,360 --> 00:09:12,360
+un risque cardiovasculaire aussi élevé.
+
+217
+00:09:12,560 --> 00:09:13,980
+Même si vous avez un LDL qui est
+
+218
+00:09:13,980 --> 00:09:14,900
+modérément élevé.
+
+219
+00:09:15,500 --> 00:09:18,200
+Vous essayez d'intervenir aussi rapidement avec une
+
+220
+00:09:18,200 --> 00:09:20,960
+statine en complément avec un régime alimentaire.
+
+221
+00:09:21,760 --> 00:09:25,360
+Les effets secondaires des statines sont essentiellement une
+
+222
+00:09:25,360 --> 00:09:27,340
+toxicité hépatique et musculaire.
+
+223
+00:09:27,520 --> 00:09:30,640
+Donc, attention à la toxicité hépatique et musculaire
+
+224
+00:09:30,640 --> 00:09:31,840
+qui est dose dépendante.
+
+225
+00:09:32,320 --> 00:09:34,440
+Alors, des fois, l'atteinte musculaire est asymptomatique.
+
+226
+00:09:34,620 --> 00:09:37,660
+On pourrait la décer uniquement par l'élévation
+
+227
+00:09:37,660 --> 00:09:40,260
+des CPK, soit que le patient peut se
+
+228
+00:09:40,260 --> 00:09:42,980
+manifester par des myalgies, des crampes et tout
+
+229
+00:09:42,980 --> 00:09:45,260
+ceci pourrait être favorisé.
+
+230
+00:09:45,260 --> 00:09:47,520
+Quand on a un terrain qui est prédisposant,
+
+231
+00:09:47,880 --> 00:09:50,500
+notamment quand vous avez certaines interactions médicamenteuses et
+
+232
+00:09:50,500 --> 00:09:53,580
+certains états morbides, tel qu'un diabétique, il
+
+233
+00:09:53,580 --> 00:09:55,460
+y a tendance à avoir une atteinte musculaire.
+
+234
+00:09:55,560 --> 00:09:57,380
+L'hypothyroïdie, vous avez d'office une atteinte
+
+235
+00:09:57,380 --> 00:09:59,520
+musculaire et puis l'alcool.
+
+236
+00:09:59,920 --> 00:10:01,340
+Donc, il faut se méfier quand vous avez
+
+237
+00:10:01,340 --> 00:10:02,440
+ces choses là.
+
+238
+00:10:03,040 --> 00:10:05,220
+Donc, attention à l'augmentation des doses et
+
+239
+00:10:05,220 --> 00:10:07,500
+surveiller de près l'atteinte musculaire.
+
+240
+00:10:08,080 --> 00:10:11,820
+Autre trouble, vous avez les troubles digestifs, céphaléastémie,
+
+241
+00:10:12,100 --> 00:10:16,760
+des paresthésies, anorexie, vomissement, réaction cutanée et puis
+
+242
+00:10:16,760 --> 00:10:19,440
+l'impuissance qui reste des effets exceptionnels.
+
+243
+00:10:20,200 --> 00:10:22,300
+Alors, les contre-indications, il faut les respecter
+
+244
+00:10:22,300 --> 00:10:23,120
+en matière de statine.
+
+245
+00:10:23,260 --> 00:10:25,220
+Quand vous avez une hypersensibilité, quand vous avez
+
+246
+00:10:25,220 --> 00:10:26,800
+un patient qui est suivi pour une myopathie,
+
+247
+00:10:26,900 --> 00:10:28,980
+vous avez une contre-indication absolue de statine.
+
+248
+00:10:29,480 --> 00:10:31,940
+Quand vous avez une infection hépatique évolutive, vous
+
+249
+00:10:31,940 --> 00:10:33,920
+avez l'évasion prolongée des transaminases.
+
+250
+00:10:34,160 --> 00:10:36,140
+Attention à l'introduction des statines.
+
+251
+00:10:37,720 --> 00:10:42,400
+L'insuffisance rénale sévère, grossesse et allaitement parce
+
+252
+00:10:42,400 --> 00:10:43,980
+que c'est des médicaments qui sont tout
+
+253
+00:10:43,980 --> 00:10:44,200
+récents.
+
+254
+00:10:44,360 --> 00:10:45,800
+Donc, on ne connaît pas le recul par
+
+255
+00:10:45,800 --> 00:10:47,600
+rapport aux femmes enceintes et allaitantes.
+
+256
+00:10:48,720 --> 00:10:50,760
+Quand on introduit les statines, on a besoin
+
+257
+00:10:50,760 --> 00:10:52,240
+de surveiller le bilan biologique.
+
+258
+00:10:52,360 --> 00:10:54,960
+On surveille essentiellement les transaminases, la GOT et
+
+259
+00:10:54,960 --> 00:10:57,720
+la GPT avant déjà l'introduction du produit,
+
+260
+00:10:58,080 --> 00:11:00,160
+puis un mois après, puis tous les trois
+
+261
+00:11:00,160 --> 00:11:00,360
+mois.
+
+262
+00:11:00,580 --> 00:11:02,280
+Et puis, ça va se faire une fois
+
+263
+00:11:02,280 --> 00:11:05,760
+par an durant toute la prise des statines.
+
+264
+00:11:06,340 --> 00:11:07,840
+Puis, dès que vous avez une augmentation des
+
+265
+00:11:07,840 --> 00:11:09,420
+transaminases qui est à plus de trois fois
+
+266
+00:11:09,420 --> 00:11:11,580
+de marge, donc on arrête le traitement.
+
+267
+00:11:11,580 --> 00:11:14,460
+Et puis, par contre, le dosage régulier des
+
+268
+00:11:14,460 --> 00:11:16,300
+enzymes musculaires n'a aucun intérêt.
+
+269
+00:11:16,400 --> 00:11:20,580
+Contrairement aux transaminases, vous ne dosez la CPK,
+
+270
+00:11:20,840 --> 00:11:23,080
+sauf si vous avez une symptomatologie musculaire.
+
+271
+00:11:23,200 --> 00:11:23,800
+Ça veut dire que si vous avez un
+
+272
+00:11:23,800 --> 00:11:26,580
+patient qui serait symptomatique ou si vous avez
+
+273
+00:11:26,580 --> 00:11:30,560
+un terrain prédisposé à avoir une atteinte musculaire,
+
+274
+00:11:30,720 --> 00:11:32,420
+notamment les choses dont on vient de parler,
+
+275
+00:11:32,520 --> 00:11:34,580
+le diabétique, quelqu'un qui est suivi pour
+
+276
+00:11:34,580 --> 00:11:37,080
+une maladie musculaire ou si vous avez des
+
+277
+00:11:37,080 --> 00:11:40,180
+traitements qui favorisent les atteintes musculaires comme les
+
+278
+00:11:40,180 --> 00:11:40,500
+fibras.
+
+279
+00:11:40,500 --> 00:11:42,120
+C'est la deuxième classe thérapeutique qu'on
+
+280
+00:11:42,120 --> 00:11:43,540
+va avoir en matière d'hypolipémia.
+
+281
+00:11:44,000 --> 00:11:45,860
+Donc, si vous avez une CPK qui sont
+
+282
+00:11:45,860 --> 00:11:47,500
+plus de cinq fois la normale, vous arrêtez
+
+283
+00:11:47,500 --> 00:11:48,440
+bien évidemment le traitement.
+
+284
+00:11:50,400 --> 00:11:53,060
+Alors, deuxième classe thérapeutique avec les fibras.
+
+285
+00:11:53,240 --> 00:11:55,220
+Alors, sachez que les fibras ont une indication
+
+286
+00:11:55,220 --> 00:11:59,040
+très réduite par rapport aux statines parce qu
+
+287
+00:11:59,040 --> 00:12:01,880
+'ils ont une moindre efficacité dans les situations
+
+288
+00:12:01,880 --> 00:12:02,780
+cliniques.
+
+289
+00:12:02,940 --> 00:12:04,760
+Et vous avez ce produit qui est commercialisé
+
+290
+00:12:04,760 --> 00:12:06,100
+en Maroc, c'est le fénofibrate.
+
+291
+00:12:06,720 --> 00:12:08,500
+Alors, le mode d'action des fibras, c
+
+292
+00:12:08,500 --> 00:12:12,260
+'est essentiellement la diminution des triglycérides pour les
+
+293
+00:12:12,260 --> 00:12:12,720
+statines.
+
+294
+00:12:13,220 --> 00:12:14,980
+C'était l'action majoritaire sur les LDL.
+
+295
+00:12:15,360 --> 00:12:18,120
+Les fibras diminuent la synthèse hépatique en augmentant,
+
+296
+00:12:18,160 --> 00:12:20,980
+c'est facile, le catabolisme des LDL qui
+
+297
+00:12:20,980 --> 00:12:24,800
+assure le transport des triglycérides par le biais
+
+298
+00:12:24,800 --> 00:12:26,280
+des récepteurs des hormones stéroïdes.
+
+299
+00:12:26,820 --> 00:12:28,900
+Alors, ces fibras vont baisser de manière plus
+
+300
+00:12:28,900 --> 00:12:29,480
+marquée.
+
+301
+00:12:29,820 --> 00:12:32,040
+Je vous ai dit du triglycérides de 40
+
+302
+00:12:32,040 --> 00:12:36,300
+à 50 pour cent augmentation modérée de l
+
+303
+00:12:36,300 --> 00:12:38,100
+'HDL de 10 à 15 pour cent et
+
+304
+00:12:38,100 --> 00:12:40,280
+une baisse modérée du LDL de 10 à
+
+305
+00:12:40,280 --> 00:12:40,760
+30 pour cent.
+
+306
+00:12:41,340 --> 00:12:43,640
+Donc, quand on a affaire aux fibras, c
+
+307
+00:12:43,640 --> 00:12:45,600
+'est par rapport aux patients qui ont des
+
+308
+00:12:45,600 --> 00:12:48,980
+triglycérides élevés associés à une baisse de l
+
+309
+00:12:48,980 --> 00:12:49,860
+'HDL collectorale.
+
+310
+00:12:51,200 --> 00:12:54,180
+Alors, conséquences sur l'efficacité clinique, elle est
+
+311
+00:12:54,180 --> 00:12:56,900
+moins bien établie que pour les statines, donc
+
+312
+00:12:56,900 --> 00:12:58,340
+moins d'études.
+
+313
+00:12:58,460 --> 00:12:59,240
+Il n'y a pas d'études qui
+
+314
+00:12:59,240 --> 00:13:00,880
+démontrent un petit peu l'intérêt des fibras
+
+315
+00:13:00,880 --> 00:13:02,800
+sur la morbidité cardiovasculaire.
+
+316
+00:13:03,380 --> 00:13:05,740
+Donc, les indications du fibrote va rester ou
+
+317
+00:13:05,740 --> 00:13:09,900
+va un petit peu concerner toutes les perturbations
+
+318
+00:13:09,900 --> 00:13:12,320
+lipidiques que vous avez dans l'anomalie majoritaire
+
+319
+00:13:12,320 --> 00:13:13,980
+sur une hypertriglycéridémie.
+
+320
+00:13:14,940 --> 00:13:17,640
+Donc, ça va, ils peuvent intervenir ou pouvaient
+
+321
+00:13:17,640 --> 00:13:21,940
+être prescrits dans les hypercholestérolimites pures quand vous
+
+322
+00:13:21,940 --> 00:13:23,680
+avez une intolérance aux statines, c'est à
+
+323
+00:13:23,680 --> 00:13:25,140
+dire comme alternative aux statines.
+
+324
+00:13:25,820 --> 00:13:27,520
+Puis, surtout, surtout leur introduction, c'est la
+
+325
+00:13:27,520 --> 00:13:30,160
+dyslipidémie mixte où vous avez une hypertriglycéridémie qui
+
+326
+00:13:30,160 --> 00:13:33,400
+est prédominante ou unique pour HDLMI et l
+
+327
+00:13:33,400 --> 00:13:36,180
+'indication royale des fibras, c'est une hypertriglycéridémie
+
+328
+00:13:36,180 --> 00:13:39,320
+endogène qui s'associe avec un HDL cholestérol.
+
+329
+00:13:39,640 --> 00:13:43,220
+Les effets indésirables, c'est pratiquement la même
+
+330
+00:13:43,220 --> 00:13:45,380
+chose que les statines, donc les atteintes musculaires,
+
+331
+00:13:46,160 --> 00:13:48,840
+l'arabdomyolyse, attention quand vous vous associez avec
+
+332
+00:13:48,840 --> 00:13:51,600
+une statine, puis l'élévation des transaminases.
+
+333
+00:13:51,780 --> 00:13:54,980
+Donc, intérêt de surveiller les transaminases pratiquement tous
+
+334
+00:13:54,980 --> 00:13:55,280
+les ans.
+
+335
+00:13:55,900 --> 00:13:59,700
+Contraindications restent surtout l'insuffisance rénale sévère, puis
+
+336
+00:13:59,700 --> 00:14:04,080
+l'insuffisance hépatique, grossesse, sauf si vous avez
+
+337
+00:14:04,080 --> 00:14:07,720
+des hypertriglycéridémies majeures et l'allaitement.
+
+338
+00:14:08,280 --> 00:14:12,160
+Alors, les autres ipo-lipémiens, donc essentiellement l
+
+339
+00:14:12,160 --> 00:14:15,980
+'hézitimie, son mécanique d'action, c'est inhibiteur
+
+340
+00:14:15,980 --> 00:14:18,860
+de l'absorption intestinale du cholestérol, parce que
+
+341
+00:14:18,860 --> 00:14:21,200
+vous savez, le cholestérol a deux voies.
+
+342
+00:14:21,360 --> 00:14:23,920
+Il y a l'endogène qui est la
+
+343
+00:14:23,920 --> 00:14:25,520
+synthèse du cholestérol par les fibres.
+
+344
+00:14:25,600 --> 00:14:27,240
+Vous avez une voie exogène qui est apportée
+
+345
+00:14:27,240 --> 00:14:27,920
+par l'alimentation.
+
+346
+00:14:28,060 --> 00:14:31,260
+Alors, l'hézitimie va inhiber l'absorption intestinale
+
+347
+00:14:31,260 --> 00:14:34,660
+du cholestérol et donc, il est toujours, si
+
+348
+00:14:34,660 --> 00:14:36,500
+vous voulez dire, il a un effet additif
+
+349
+00:14:36,500 --> 00:14:38,660
+par rapport au statine pour diminuer le LDL
+
+350
+00:14:38,660 --> 00:14:39,200
+cholestérol.
+
+351
+00:14:39,720 --> 00:14:41,640
+Et donc, du coup, comme traitement, c'est
+
+352
+00:14:41,640 --> 00:14:44,360
+toujours l'hézitimie qui est toujours associée au
+
+353
+00:14:44,360 --> 00:14:45,340
+statine, c'est-à-dire que quand vous
+
+354
+00:14:45,340 --> 00:14:47,140
+introduisez la statine et que vous doublez la
+
+355
+00:14:47,140 --> 00:14:48,160
+dose et que vous n'arrivez pas à
+
+356
+00:14:48,160 --> 00:14:51,040
+avoir ce type de LDL choleste, vous ajoutez
+
+357
+00:14:51,040 --> 00:14:51,820
+de l'hézitimie.
+
+358
+00:14:51,940 --> 00:14:54,440
+Donc, il est toujours en association avec les
+
+359
+00:14:54,440 --> 00:14:57,620
+statines, sauf exceptionnellement quand vous avez des patients
+
+360
+00:14:57,620 --> 00:14:58,960
+qui sont intolérants aux statines.
+
+361
+00:14:59,080 --> 00:15:00,180
+C'est là où on peut garder l
+
+362
+00:15:00,180 --> 00:15:01,360
+'hézitimie pendant nos thérapies.
+
+363
+00:15:01,860 --> 00:15:03,920
+Mais c'est toujours, toujours, vous avez trois
+
+364
+00:15:03,920 --> 00:15:06,280
+croix en thérapie, c'est toujours dans les
+
+365
+00:15:06,280 --> 00:15:09,520
+hyper cholestérolémies insuffisamment contrôlées par la dose maximale
+
+366
+00:15:09,520 --> 00:15:13,800
+tolérée d'une statine ou on a besoin
+
+367
+00:15:13,800 --> 00:15:15,280
+d'ajouter de l'hézitimie.
+
+368
+00:15:15,660 --> 00:15:17,760
+Alors, comme effet secondaire, c'est essentiellement les
+
+369
+00:15:17,760 --> 00:15:19,580
+effets musculaires les moins fréquents que les statines
+
+370
+00:15:19,580 --> 00:15:22,660
+et une élévation des transaminases hépatiques qui reste
+
+371
+00:15:22,660 --> 00:15:23,140
+possible.
+
+372
+00:15:23,940 --> 00:15:24,940
+Et voilà, je vous remercie.

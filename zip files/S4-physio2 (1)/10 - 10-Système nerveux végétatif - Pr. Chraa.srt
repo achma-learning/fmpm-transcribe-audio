@@ -1,0 +1,1775 @@
+1
+00:00:00,070 --> 00:00:04,050
+Chers étudiants, on va continuer nos cours de
+
+2
+00:00:04,050 --> 00:00:08,230
+neurophysiologie par le système nerveux végétatif, appelé aussi
+
+3
+00:00:08,230 --> 00:00:10,090
+le système nerveux autonome.
+
+4
+00:00:14,320 --> 00:00:17,020
+Vous pouvez trouver ici les objectifs de ce
+
+5
+00:00:17,020 --> 00:00:17,260
+cours.
+
+6
+00:00:21,400 --> 00:00:24,780
+Le système nerveux, comme vous le savez maintenant,
+
+7
+00:00:25,080 --> 00:00:27,180
+est divisé en deux types de systèmes.
+
+8
+00:00:27,760 --> 00:00:29,320
+Il y a le somatique, en contrôle par
+
+9
+00:00:29,320 --> 00:00:30,960
+la conscience, et il y a l'autonome,
+
+10
+00:00:31,140 --> 00:00:32,740
+qui fait partie de l'inconscient.
+
+11
+00:00:35,260 --> 00:00:39,480
+Il y a différentes fonctions dans notre corps
+
+12
+00:00:39,480 --> 00:00:42,840
+qui sont vitales et qui sont très complexes
+
+13
+00:00:42,840 --> 00:00:44,500
+à gérer de façon consciente.
+
+14
+00:00:44,640 --> 00:00:49,040
+C'est pourquoi nous avons été créés avec
+
+15
+00:00:49,040 --> 00:00:53,240
+une capacité à gérer toutes ces fonctions de
+
+16
+00:00:53,240 --> 00:00:54,140
+façon autonome.
+
+17
+00:00:54,600 --> 00:00:56,260
+Il y a déjà tous les mécanismes, tous
+
+18
+00:00:56,260 --> 00:00:59,220
+les systèmes qui permettent de contrôler tout ça.
+
+19
+00:00:59,420 --> 00:01:00,760
+Et le chef d'orchestre, c'est au
+
+20
+00:01:00,760 --> 00:01:02,420
+niveau de l'hépotalamus.
+
+21
+00:01:02,420 --> 00:01:05,700
+Parmi ces fonctions, c'est maintenir une température
+
+22
+00:01:05,700 --> 00:01:11,120
+stable du milieu intérieur, c'est établir des
+
+23
+00:01:11,120 --> 00:01:16,320
+homeostasies, avoir une tension artérielle correcte, une perfusion
+
+24
+00:01:16,320 --> 00:01:24,080
+cérébrale correcte, avoir un rythme cardiaque correct, etc.
+
+25
+00:01:24,340 --> 00:01:26,940
+Adapter à l'effort, etc.
+
+26
+00:01:26,940 --> 00:01:29,460
+Il y a beaucoup de fonctions qui se
+
+27
+00:01:29,460 --> 00:01:33,460
+passent à un niveau qui est franchement inconscient
+
+28
+00:01:33,460 --> 00:01:35,360
+mais vital.
+
+29
+00:01:38,100 --> 00:01:43,060
+Ce système nerveux autonome est divisé en sympathique
+
+30
+00:01:43,060 --> 00:01:44,100
+et parasympathique.
+
+31
+00:01:44,460 --> 00:01:45,940
+Je pense que vous avez déjà entendu parler
+
+32
+00:01:45,940 --> 00:01:46,340
+de ça.
+
+33
+00:01:46,440 --> 00:01:49,020
+Le sympathique, c'est un système qui est
+
+34
+00:01:49,020 --> 00:01:52,160
+impliqué plutôt lorsqu'on est en état de
+
+35
+00:01:52,160 --> 00:01:55,360
+stress, en état d'alerte, où on doit
+
+36
+00:01:55,360 --> 00:01:57,560
+combattre ou fuir le danger.
+
+37
+00:01:57,560 --> 00:02:02,500
+Alors que le parasympathique fonctionne à l'état
+
+38
+00:02:02,500 --> 00:02:06,900
+de repos pour rétablir les réserves, etc.
+
+39
+00:02:08,060 --> 00:02:10,420
+Il y a un troisième système qui est
+
+40
+00:02:10,420 --> 00:02:12,380
+le système enterique.
+
+41
+00:02:12,540 --> 00:02:15,460
+Vous avez vu avec nos collègues gastro dans
+
+42
+00:02:15,460 --> 00:02:18,840
+la physiologie gastrique qui permet le fonctionnement autonome
+
+43
+00:02:18,840 --> 00:02:20,420
+du système digestif.
+
+44
+00:02:20,420 --> 00:02:23,380
+Il y a aussi un autre système au
+
+45
+00:02:23,380 --> 00:02:30,260
+niveau cardiaque qui permet aussi une contraction autonome
+
+46
+00:02:30,260 --> 00:02:34,200
+du cœur mais qui subit des influences de
+
+47
+00:02:34,200 --> 00:02:36,380
+la part des deux premiers systèmes sympathique et
+
+48
+00:02:36,380 --> 00:02:37,160
+parasympathique.
+
+49
+00:02:37,640 --> 00:02:39,940
+Le plus souvent ces deux systèmes sympathique et
+
+50
+00:02:39,940 --> 00:02:45,900
+parasympathique sont opposés mais des fois ils sont
+
+51
+00:02:45,900 --> 00:02:46,700
+synergiques.
+
+52
+00:02:46,700 --> 00:02:53,000
+Il y a un certain nombre d'éléments
+
+53
+00:02:53,000 --> 00:02:55,580
+qui permettent de distinguer d'emblée le système
+
+54
+00:02:55,580 --> 00:02:58,220
+nerveux autonome du système nerveux somatique à part
+
+55
+00:02:58,220 --> 00:03:00,900
+le fait que l'un est sous le
+
+56
+00:03:00,900 --> 00:03:02,900
+contrôle de la conscience et l'autre ne
+
+57
+00:03:02,900 --> 00:03:03,260
+l'est pas.
+
+58
+00:03:04,000 --> 00:03:07,560
+Il y a la répartition trois divisions distinctes
+
+59
+00:03:07,560 --> 00:03:09,020
+du système nerveux autonome.
+
+60
+00:03:09,760 --> 00:03:13,080
+Le motoneuron du système nerveux autonome est situé
+
+61
+00:03:13,080 --> 00:03:15,980
+en dehors du système nerveux central contrairement au
+
+62
+00:03:15,980 --> 00:03:21,140
+motoneuron alpha du système nerveux somatique qui est
+
+63
+00:03:21,140 --> 00:03:23,380
+au niveau du système nerveux central et donc
+
+64
+00:03:23,380 --> 00:03:26,160
+le point de départ comme vous le savez
+
+65
+00:03:26,160 --> 00:03:27,940
+c'est la corne antérieure.
+
+66
+00:03:29,140 --> 00:03:31,840
+Il y a des contacts entre ces motoneurons
+
+67
+00:03:31,840 --> 00:03:34,120
+et ces cibles qui sont moins bien différenciés
+
+68
+00:03:34,120 --> 00:03:36,260
+que pour le système nerveux somatique qui contient
+
+69
+00:03:36,260 --> 00:03:37,860
+une plaque motrice qu'on va voir dans
+
+70
+00:03:37,860 --> 00:03:39,420
+le cours de la motricité qui est bien
+
+71
+00:03:39,420 --> 00:03:39,940
+distincte.
+
+72
+00:03:41,100 --> 00:03:44,000
+Pour le système nerveux somatique, pour la motricité,
+
+73
+00:03:44,120 --> 00:03:46,820
+on utilise la cécine colline alors que pour
+
+74
+00:03:46,820 --> 00:03:48,360
+ce système il y a différents types de
+
+75
+00:03:48,360 --> 00:03:50,520
+neurotransmetteurs qui agissent.
+
+76
+00:03:51,660 --> 00:03:55,260
+Le contrôle central du système nerveux somatique faisant
+
+77
+00:03:55,260 --> 00:03:59,100
+impliquer le lobe frontal notamment alors qu'ici
+
+78
+00:03:59,100 --> 00:04:01,480
+pour le système nerveux autonome c'est beaucoup
+
+79
+00:04:01,480 --> 00:04:06,360
+plus complexe et diversifié mais le chef d
+
+80
+00:04:06,360 --> 00:04:08,520
+'orchestre c'est l'hépotalamus.
+
+81
+00:04:10,920 --> 00:04:16,160
+Donc une organisation générale, le système nerveux autonome
+
+82
+00:04:16,160 --> 00:04:21,320
+est organisé en récepteurs périphériques, en inférence et
+
+83
+00:04:21,320 --> 00:04:22,140
+en efférence.
+
+84
+00:04:22,620 --> 00:04:25,800
+Les récepteurs périphériques sont situés sur la paroi
+
+85
+00:04:25,800 --> 00:04:32,480
+des vaisseaux, sur le cœur et sur différentes
+
+86
+00:04:32,480 --> 00:04:35,200
+autres structures au niveau par exemple de la
+
+87
+00:04:35,200 --> 00:04:38,680
+peau pour la sensibilité de la température etc.
+
+88
+00:04:39,780 --> 00:04:44,260
+Ces différents types de récepteurs, volorecepteurs, barorecepteurs,
+
+89
+00:04:44,380 --> 00:04:48,920
+kémorecepteurs, thermorecepteurs vont être connectés à des afférences
+
+90
+00:04:48,920 --> 00:04:51,260
+qui vont transmettre l'information au niveau du
+
+91
+00:04:51,260 --> 00:04:54,300
+système nerveux central et puis il va y
+
+92
+00:04:54,300 --> 00:04:57,820
+avoir des afférences qui vont répondre à ces
+
+93
+00:04:57,820 --> 00:04:59,940
+simulations.
+
+94
+00:04:59,940 --> 00:05:03,380
+Par exemple, il se peut que ce soit
+
+95
+00:05:03,380 --> 00:05:07,280
+des récepteurs de la peau, les thermorecepteurs qui
+
+96
+00:05:07,280 --> 00:05:10,540
+vont être activés par le froid, ça va
+
+97
+00:05:10,540 --> 00:05:12,760
+être transmis au niveau du système nerveux central
+
+98
+00:05:12,760 --> 00:05:16,700
+et la réaction c'est d'envoyer des
+
+99
+00:05:16,700 --> 00:05:20,980
+simulations vers le système nerveux autonome pour faire
+
+100
+00:05:20,980 --> 00:05:23,700
+contracter les vaisseaux dermiques.
+
+101
+00:05:26,380 --> 00:05:29,160
+Quand on a un froid, vous pouvez le
+
+102
+00:05:29,160 --> 00:05:33,000
+constater, il y a une vasoconstriction contrairement au
+
+103
+00:05:33,000 --> 00:05:36,460
+fait que lorsqu'on est en été, la
+
+104
+00:05:36,460 --> 00:05:39,260
+chaleur fait que les vaisseaux, les veines deviennent
+
+105
+00:05:39,260 --> 00:05:43,560
+plus visibles, plus grandes par vasodilatation.
+
+106
+00:05:46,720 --> 00:05:50,420
+La portion efférente est un peu différente du
+
+107
+00:05:50,420 --> 00:05:53,140
+système nerveux somatique parce qu'il contient deux
+
+108
+00:05:53,140 --> 00:05:53,540
+neurones.
+
+109
+00:05:53,740 --> 00:05:55,680
+Il y a un neurone préganglionnaire et un
+
+110
+00:05:55,680 --> 00:05:56,900
+neurone postganglionnaire.
+
+111
+00:05:57,260 --> 00:06:00,920
+Le préganglionnaire va partir de différentes parties du
+
+112
+00:06:00,920 --> 00:06:02,680
+système nerveux central comme on va le voir
+
+113
+00:06:02,680 --> 00:06:06,620
+en étudiant séparément le système nerveux sympathique et
+
+114
+00:06:06,620 --> 00:06:07,340
+parasympathique.
+
+115
+00:06:07,340 --> 00:06:10,880
+Le postganglionnaire va partir du ganglion qui est
+
+116
+00:06:10,880 --> 00:06:14,420
+plus ou moins proche des cellules cibles vers
+
+117
+00:06:14,420 --> 00:06:16,920
+les organes cibles.
+
+118
+00:06:19,350 --> 00:06:21,610
+Voilà ce schéma qui résume bien ce qu
+
+119
+00:06:21,610 --> 00:06:22,230
+'on vient de dire.
+
+120
+00:06:22,570 --> 00:06:25,290
+Le système nerveux central, à partir de la
+
+121
+00:06:25,290 --> 00:06:27,250
+cône antérieure, il y aura un seul motoneurone
+
+122
+00:06:27,250 --> 00:06:29,070
+alpha qui va aller vers le muscle avec
+
+123
+00:06:29,070 --> 00:06:31,950
+une plaque motrice bien différenciée et la cécine
+
+124
+00:06:31,950 --> 00:06:33,850
+colline comme neurotransmetteur.
+
+125
+00:06:34,290 --> 00:06:36,910
+Alors que pour le système nerveux autonome, il
+
+126
+00:06:36,910 --> 00:06:38,910
+va y avoir deux neurones, le premier puis
+
+127
+00:06:38,910 --> 00:06:40,910
+le deuxième avec une synapse au niveau de
+
+128
+00:06:40,910 --> 00:06:42,070
+ce qu'on appelle un ganglion.
+
+129
+00:06:44,790 --> 00:06:48,070
+Le vrai neurone effecteur, c'est celui qui
+
+130
+00:06:48,070 --> 00:06:50,950
+va partir du ganglion vers la cellule cible.
+
+131
+00:06:50,950 --> 00:06:53,350
+Mais si on veut étudier la différence entre
+
+132
+00:06:53,350 --> 00:06:57,990
+le sympathique et le parasympathique, on voit que
+
+133
+00:06:57,990 --> 00:07:01,310
+le parasympathique a son ganglion plus proche de
+
+134
+00:07:01,310 --> 00:07:04,450
+l'organe cible alors que le sympathique, qu
+
+135
+00:07:04,450 --> 00:07:07,270
+'on appelle aussi ortho-sympathique, a son ganglion
+
+136
+00:07:07,270 --> 00:07:09,270
+plus proche du système nerveux central, c'est
+
+137
+00:07:09,270 --> 00:07:11,870
+-à-dire les ganglions para-vertébraux, pré-vertébraux,
+
+138
+00:07:12,010 --> 00:07:12,210
+etc.
+
+139
+00:07:12,210 --> 00:07:14,650
+Il y a une exception pour le système
+
+140
+00:07:14,650 --> 00:07:18,030
+nerveux autonome, c'est le système nerveux autonome
+
+141
+00:07:18,030 --> 00:07:20,370
+qui est associé à la médule surrénale et
+
+142
+00:07:20,370 --> 00:07:22,970
+donc comme vous l'avez vu, ou bien
+
+143
+00:07:22,970 --> 00:07:26,350
+vous allez le voir avec les endocrinos, la
+
+144
+00:07:26,350 --> 00:07:28,870
+médule surrénale joue un rôle important dans le
+
+145
+00:07:28,870 --> 00:07:29,910
+système nerveux sympathique.
+
+146
+00:07:29,910 --> 00:07:32,390
+C'est un système qui est très impliqué
+
+147
+00:07:32,390 --> 00:07:35,490
+quand on est en état de stress, il
+
+148
+00:07:35,490 --> 00:07:37,430
+va y avoir sécrétion de beaucoup d'adrénaline
+
+149
+00:07:37,430 --> 00:07:43,650
+par cette glande via une activation par le
+
+150
+00:07:43,650 --> 00:07:44,910
+système nerveux sympathique.
+
+151
+00:07:46,130 --> 00:07:49,270
+La différence c'est que là, il y
+
+152
+00:07:49,270 --> 00:07:52,690
+a deux neurones avec le neurone terminal qui
+
+153
+00:07:52,690 --> 00:07:54,790
+va aller vers la cellule cible alors que
+
+154
+00:07:54,790 --> 00:08:00,650
+là, l'élément pré-ganglionnaire, le neurone pré
+
+155
+00:08:00,650 --> 00:08:03,750
+-ganglionnaire va activer le neurone post-ganglionnaire mais
+
+156
+00:08:03,750 --> 00:08:06,450
+le neurone post-ganglionnaire n'a pas d
+
+157
+00:08:06,450 --> 00:08:06,910
+'axone.
+
+158
+00:08:06,910 --> 00:08:11,230
+Il va directement sécréter son contenu dans la
+
+159
+00:08:11,230 --> 00:08:14,350
+circulation sanguine et ça va être transmis vers
+
+160
+00:08:14,350 --> 00:08:17,550
+les différents organes cibles qui peuvent être très
+
+161
+00:08:17,550 --> 00:08:19,250
+loin de la médule surrénale.
+
+162
+00:08:19,790 --> 00:08:23,110
+Le principal neurotransmetteur ici c'est l'adrénaline
+
+163
+00:08:23,110 --> 00:08:26,610
+alors que pour tout le reste du système
+
+164
+00:08:26,610 --> 00:08:31,070
+nerveux sympathique, l'effecteur post-ganglionnaire c'est
+
+165
+00:08:31,070 --> 00:08:34,590
+la neuroadrénaline comme neurotransmetteur.
+
+166
+00:08:36,730 --> 00:08:40,270
+Donc on va étudier maintenant la division sympathique.
+
+167
+00:08:41,230 --> 00:08:43,169
+La division sympathique comme j'ai dit, elle
+
+168
+00:08:43,169 --> 00:08:46,250
+est impliquée dans tout ce qui alerte les
+
+169
+00:08:46,250 --> 00:08:47,190
+situations d'urgence.
+
+170
+00:08:48,130 --> 00:08:51,530
+Elle prépare l'organisme à réagir, à se
+
+171
+00:08:51,530 --> 00:08:53,250
+combattre ou bien à fuir.
+
+172
+00:08:53,410 --> 00:08:55,710
+Donc on est en tachycardie, on est en
+
+173
+00:08:55,710 --> 00:08:58,470
+hyperpnée, on a les yeux bien ouverts, on
+
+174
+00:08:58,470 --> 00:09:02,730
+veut combattre, on est en chaleur, etc.
+
+175
+00:09:02,730 --> 00:09:05,410
+Et on consomme beaucoup d'énergie et on
+
+176
+00:09:05,410 --> 00:09:08,370
+arrête les fonctions non essentielles, on arrête la
+
+177
+00:09:08,370 --> 00:09:12,870
+digestion, on focalise tout et on consomme beaucoup
+
+178
+00:09:12,870 --> 00:09:15,930
+d'ATP pour pouvoir combattre.
+
+179
+00:09:18,400 --> 00:09:21,280
+Le système nerveux sympathique a son point de
+
+180
+00:09:21,280 --> 00:09:23,400
+départ au niveau de la corne latérale, au
+
+181
+00:09:23,400 --> 00:09:25,880
+niveau de la moelle.
+
+182
+00:09:27,460 --> 00:09:31,360
+Donc de TA à à peu près LA.
+
+183
+00:09:33,120 --> 00:09:35,000
+Donc c'est là où on va avoir
+
+184
+00:09:35,000 --> 00:09:38,560
+le système nerveux sympathique, la corne latérale de
+
+185
+00:09:38,560 --> 00:09:39,320
+cette partie là.
+
+186
+00:09:40,400 --> 00:09:41,760
+C'est le point de départ.
+
+187
+00:09:41,980 --> 00:09:45,840
+Après les neurones vont emprunter la corne antérieure
+
+188
+00:09:45,840 --> 00:09:48,320
+comme pour le système nerveux somatique.
+
+189
+00:09:49,340 --> 00:09:52,160
+Mais au lieu de suivre, ils vont aller
+
+190
+00:09:52,160 --> 00:09:53,120
+vers le ganglion.
+
+191
+00:09:53,120 --> 00:09:55,640
+Et donc dans ce ganglion on va avoir
+
+192
+00:09:55,640 --> 00:09:59,060
+plusieurs branches.
+
+193
+00:09:59,440 --> 00:10:01,780
+Une première branche qui va faire synapse tout
+
+194
+00:10:01,780 --> 00:10:05,500
+de suite ici et qui va suivre le
+
+195
+00:10:05,500 --> 00:10:11,380
+système nerveux somatique vers les vaisseaux et vers
+
+196
+00:10:11,380 --> 00:10:12,380
+la peau.
+
+197
+00:10:12,700 --> 00:10:14,900
+Il y aura une autre division qui va
+
+198
+00:10:14,900 --> 00:10:18,100
+partir vers un deuxième ganglion, le ganglion prévertébral.
+
+199
+00:10:18,100 --> 00:10:19,480
+Et c'est là où on va avoir
+
+200
+00:10:19,480 --> 00:10:21,780
+le point de départ du deuxième neurone.
+
+201
+00:10:22,260 --> 00:10:25,060
+Mais ça peut faire synapse avec le deuxième
+
+202
+00:10:25,060 --> 00:10:28,700
+neurone pré-postganglionnaire au niveau de la chaîne
+
+203
+00:10:28,700 --> 00:10:29,600
+paravertébrale.
+
+204
+00:10:30,000 --> 00:10:32,580
+Et il va donner deux branches ascendantes et
+
+205
+00:10:32,580 --> 00:10:36,440
+descendantes vers les autres ganglions paravertébraux faisant partie
+
+206
+00:10:36,440 --> 00:10:38,140
+de la chaîne paravertébrale.
+
+207
+00:10:38,240 --> 00:10:41,460
+Qui contrôlent plusieurs systèmes y compris par exemple
+
+208
+00:10:41,460 --> 00:10:42,900
+les pupilles etc.
+
+209
+00:10:42,900 --> 00:10:45,920
+Et comme on va le voir dans le
+
+210
+00:10:45,920 --> 00:10:49,160
+sommeil ça va aussi contrôler un système important
+
+211
+00:10:49,160 --> 00:10:58,640
+qui est le système de la glande
+
+212
+00:10:58,640 --> 00:11:02,380
+pénéale qui secrète la mélatonine.
+
+213
+00:11:05,220 --> 00:11:08,440
+Donc la division parasympathique elle a deux centres.
+
+214
+00:11:08,680 --> 00:11:10,540
+Un centre au niveau du tronc cérébral et
+
+215
+00:11:10,540 --> 00:11:12,300
+un centre au niveau sacré.
+
+216
+00:11:12,300 --> 00:11:17,520
+C'est un freinateur qui fonctionne surtout au
+
+217
+00:11:17,520 --> 00:11:19,530
+niveau, au cours du repos.
+
+218
+00:11:22,040 --> 00:11:23,960
+Donc au niveau du tronc cérébral il y
+
+219
+00:11:23,960 --> 00:11:24,780
+a différents noyaux.
+
+220
+00:11:25,220 --> 00:11:26,480
+Il y a le noyau de l'hygiène
+
+221
+00:11:26,480 --> 00:11:27,340
+postphale.
+
+222
+00:11:28,000 --> 00:11:32,700
+Il y a le noyau dorsal du vagues.
+
+223
+00:11:33,220 --> 00:11:36,040
+Et il y a le noyau salivaire.
+
+224
+00:11:36,260 --> 00:11:38,360
+Donc ces noyaux là c'est le point
+
+225
+00:11:38,360 --> 00:11:40,700
+de départ du système parasympathique.
+
+226
+00:11:40,700 --> 00:11:42,860
+Celui là il va partir vers la pupille
+
+227
+00:11:42,860 --> 00:11:44,920
+pour la contracter.
+
+228
+00:11:45,140 --> 00:11:47,120
+Et en cas d'atteinte de ce système
+
+229
+00:11:47,120 --> 00:11:49,160
+on va avoir une médrugnase.
+
+230
+00:11:49,580 --> 00:11:51,660
+Alors que pour ce système là c'est
+
+231
+00:11:51,660 --> 00:11:53,020
+le point de départ du vagues.
+
+232
+00:11:53,400 --> 00:11:54,880
+Et vous savez que le vagues c'est
+
+233
+00:11:54,880 --> 00:12:00,160
+le principal nerf parasympathique qui va énerver, qui
+
+234
+00:12:00,160 --> 00:12:02,880
+va contrôler les poumons, le coeur et les
+
+235
+00:12:02,880 --> 00:12:03,420
+intestins.
+
+236
+00:12:03,940 --> 00:12:06,200
+Avec différents types de réactions comme on va
+
+237
+00:12:06,200 --> 00:12:08,540
+le voir dans une plaque très intéressante vers
+
+238
+00:12:08,540 --> 00:12:08,860
+la fin.
+
+239
+00:12:09,780 --> 00:12:14,600
+Au niveau sacré, comme pour le parasympathique, le
+
+240
+00:12:14,600 --> 00:12:17,280
+parasympathique a son point de départ au niveau
+
+241
+00:12:17,280 --> 00:12:18,200
+de la couronne latérale.
+
+242
+00:12:18,660 --> 00:12:21,880
+Et ça va donc se diriger vers les
+
+243
+00:12:21,880 --> 00:12:25,220
+différents viscères au niveau sacré comme on va
+
+244
+00:12:25,220 --> 00:12:26,980
+le voir plus tard.
+
+245
+00:12:29,380 --> 00:12:30,840
+Donc le système lévo-entérique, je ne vais
+
+246
+00:12:30,840 --> 00:12:34,000
+pas y insister, vous l'avez vu avec
+
+247
+00:12:34,000 --> 00:12:34,840
+les gastrologues.
+
+248
+00:12:40,170 --> 00:12:46,110
+Concernant la neurotransmission synaptique, la neurotransmission synaptique se
+
+249
+00:12:46,110 --> 00:12:48,910
+fait avec différents types de neurotransmetteurs comme on
+
+250
+00:12:48,910 --> 00:12:50,010
+l'a dit tout à l'heure.
+
+251
+00:12:50,370 --> 00:12:56,110
+Parmi les neurotransmetteurs préganglionaires, que ce soit pour
+
+252
+00:12:56,110 --> 00:12:57,970
+le sympathique ou bien pour le sympathique, c
+
+253
+00:12:57,970 --> 00:12:59,470
+'est toujours l'acétylcholine.
+
+254
+00:13:00,070 --> 00:13:03,090
+Rappelez-vous, l'acétylcholine est le seul neurotransmetteur
+
+255
+00:13:03,090 --> 00:13:05,970
+que ce soit au niveau sympathique ou bien
+
+256
+00:13:05,970 --> 00:13:06,870
+parasympathique.
+
+257
+00:13:10,240 --> 00:13:17,160
+Et pour l'acétylcholine, comme on l'a
+
+258
+00:13:17,160 --> 00:13:19,880
+vu, il y a différents types de récepteurs.
+
+259
+00:13:19,980 --> 00:13:23,260
+Il y a des récepteurs nicotiniques, type récepteur
+
+260
+00:13:23,260 --> 00:13:23,620
+canon.
+
+261
+00:13:24,180 --> 00:13:27,000
+Il y a des récepteurs muscariniques, type récepteurs
+
+262
+00:13:27,000 --> 00:13:28,740
+métabotropes couplés à la protéine G.
+
+263
+00:13:29,240 --> 00:13:30,440
+Et puis il y a d'autres récepteurs
+
+264
+00:13:30,440 --> 00:13:34,500
+peptidergiques et des interneurons dopaminergiques inhibiteurs.
+
+265
+00:13:35,740 --> 00:13:39,680
+Donc l'acétylcholine, on se rappelle comment elle
+
+266
+00:13:39,680 --> 00:13:42,440
+est construite et comment est-ce qu'elle
+
+267
+00:13:42,440 --> 00:13:45,980
+est libérée après l'entrée de Ca²+.
+
+268
+00:13:45,980 --> 00:13:48,460
+Et il va donc soit activer des récepteurs
+
+269
+00:13:48,460 --> 00:13:50,280
+nicotiniques, qui sont des canons.
+
+270
+00:13:50,980 --> 00:13:55,080
+Une fois ouvert, ça va laisser entrer des
+
+271
+00:13:55,080 --> 00:13:55,400
+ions.
+
+272
+00:13:56,040 --> 00:14:01,640
+Ou bien métabotropes muscariniques, ça va donc activer
+
+273
+00:14:01,640 --> 00:14:05,720
+un récepteur couplé à la protéine G avec
+
+274
+00:14:05,720 --> 00:14:08,200
+une cascade de réactions enzymatiques par la suite.
+
+275
+00:14:08,720 --> 00:14:12,400
+Ou bien ça peut activer un récepteur en
+
+276
+00:14:12,400 --> 00:14:15,240
+présence de co-transmetteurs, c'est-à-dire
+
+277
+00:14:15,240 --> 00:14:20,360
+un autre transmetteur associé à l'acétylcholine pour
+
+278
+00:14:20,360 --> 00:14:23,040
+activer d'autres réactions enzymatiques et donner un
+
+279
+00:14:23,040 --> 00:14:25,140
+PPSE ou un PPSI selon les cas.
+
+280
+00:14:26,300 --> 00:14:28,260
+L'essentiel c'est que vous vous rappelez
+
+281
+00:14:28,260 --> 00:14:31,120
+que le PPSE c'est toujours la conséquence
+
+282
+00:14:31,120 --> 00:14:33,320
+en postsynaptique et on a vu ça dans
+
+283
+00:14:33,320 --> 00:14:34,060
+le premier cours.
+
+284
+00:14:36,780 --> 00:14:41,020
+Pour la neurotransmission postganglionaire cette fois, elle va
+
+285
+00:14:41,020 --> 00:14:43,020
+différer selon est-ce qu'on est dans
+
+286
+00:14:43,020 --> 00:14:45,780
+le sympathique ou bien dans le parasympathique.
+
+287
+00:14:46,280 --> 00:14:48,160
+Pour le parasympathique, ça va être toujours l
+
+288
+00:14:48,160 --> 00:14:48,800
+'acétylcholine.
+
+289
+00:14:49,560 --> 00:14:56,640
+Et le récepteur postsynaptique c'est un récepteur
+
+290
+00:14:56,640 --> 00:14:57,760
+muscarinique ici.
+
+291
+00:14:58,220 --> 00:15:00,940
+Alors que pour le système nervosomatique, dans la
+
+292
+00:15:00,940 --> 00:15:03,420
+pacmotrice, c'est un récepteur nicotinique.
+
+293
+00:15:06,500 --> 00:15:08,660
+Muscarinique c'est-à-dire couplé à la
+
+294
+00:15:08,660 --> 00:15:12,300
+protéine G qui va être agonisé par la
+
+295
+00:15:12,300 --> 00:15:14,560
+polycarpine et antagonisé par la tropine.
+
+296
+00:15:14,560 --> 00:15:17,960
+Donc si vous avez une crise cholinergique chez
+
+297
+00:15:17,960 --> 00:15:20,360
+des patients chez qui on a donné trop
+
+298
+00:15:20,360 --> 00:15:23,660
+d'inhibiteurs de l'acétylcholinesterase avec un excès
+
+299
+00:15:23,660 --> 00:15:25,640
+d'acétylcholine, ça peut donner une crise qu
+
+300
+00:15:25,640 --> 00:15:28,480
+'on appelle la crise cholinergique avec hypersécration bronchique,
+
+301
+00:15:29,040 --> 00:15:30,680
+une gêne respiratoire, etc.
+
+302
+00:15:31,560 --> 00:15:33,740
+La solution c'est de donner l'atropine
+
+303
+00:15:33,740 --> 00:15:35,800
+pour sauver ces patients-là.
+
+304
+00:15:37,820 --> 00:15:46,280
+Mais pour le sympathique, l'élément neurotransmetteur postganglionnaire
+
+305
+00:15:46,280 --> 00:15:49,620
+c'est soit la noradrénaline pour la plupart
+
+306
+00:15:49,620 --> 00:15:52,120
+du temps, ou bien l'adrénaline pour la
+
+307
+00:15:52,120 --> 00:15:53,640
+médulle surrénale comme on l'a vu tout
+
+308
+00:15:53,640 --> 00:15:53,960
+à l'heure.
+
+309
+00:15:55,180 --> 00:15:57,020
+Et on va voir différents types de récepteurs
+
+310
+00:15:57,020 --> 00:15:57,380
+aussi.
+
+311
+00:15:57,860 --> 00:15:59,020
+Il y a des récepteurs alpha et des
+
+312
+00:15:59,020 --> 00:16:01,520
+récepteurs beta avec des conséquences qui peuvent être
+
+313
+00:16:01,520 --> 00:16:04,280
+de l'activation postganglionnaire ou bien de l
+
+314
+00:16:04,280 --> 00:16:07,900
+'inhibition postganglionnaire selon le type de récepteurs.
+
+315
+00:16:08,280 --> 00:16:09,820
+Et on avait vu ça dans un cours
+
+316
+00:16:09,820 --> 00:16:11,880
+précédent.
+
+317
+00:16:12,140 --> 00:16:15,660
+Donc vous pouvez le voir là, la chaîne
+
+318
+00:16:15,660 --> 00:16:21,420
+qui fait créer la noradrénaline, on l'avait
+
+319
+00:16:21,420 --> 00:16:22,620
+vu dans le premier cours.
+
+320
+00:16:23,240 --> 00:16:27,640
+L'essentiel c'est que la noradrénaline quand
+
+321
+00:16:27,640 --> 00:16:30,000
+elle va être libérée, elle va avoir une
+
+322
+00:16:30,000 --> 00:16:32,100
+action sur plusieurs types de récepteurs.
+
+323
+00:16:32,200 --> 00:16:35,060
+Des récepteurs alpha 1, alpha 2, beta 1,
+
+324
+00:16:35,140 --> 00:16:35,500
+beta 2.
+
+325
+00:16:35,600 --> 00:16:37,660
+Vous voyez que quand ça active les alpha,
+
+326
+00:16:37,940 --> 00:16:39,840
+ça va donner de la vasoconstriction par exemple
+
+327
+00:16:39,840 --> 00:16:41,100
+sur les vaisseaux.
+
+328
+00:16:41,680 --> 00:16:43,760
+Alors que sur ces mêmes vaisseaux, quand ça
+
+329
+00:16:43,760 --> 00:16:46,100
+va activer les beta, ça va donner de
+
+330
+00:16:46,100 --> 00:16:46,880
+la vasodilatation.
+
+331
+00:16:47,020 --> 00:16:49,100
+Donc une activation des alpha ou des beta
+
+332
+00:16:49,100 --> 00:16:50,020
+selon les besoins.
+
+333
+00:16:50,220 --> 00:16:52,120
+Est-ce qu'on a besoin d'une
+
+334
+00:16:52,120 --> 00:16:55,080
+vasoconstriction ou bien d'une vasodilatation ?
+
+335
+00:16:57,740 --> 00:17:00,580
+Alors le contrôle segmentaire c'est un contrôle
+
+336
+00:17:00,580 --> 00:17:01,640
+réflexe.
+
+337
+00:17:01,820 --> 00:17:03,880
+Et je donne l'exemple, par exemple quand
+
+338
+00:17:03,880 --> 00:17:07,280
+on a la peau qui est activée par
+
+339
+00:17:07,280 --> 00:17:07,720
+le froid.
+
+340
+00:17:08,640 --> 00:17:10,579
+Ça va activer ce neurone qui va aller
+
+341
+00:17:10,579 --> 00:17:15,619
+vers la corne latérale.
+
+342
+00:17:16,079 --> 00:17:21,140
+Et ça va donc activer un effecteur qui
+
+343
+00:17:21,140 --> 00:17:24,819
+va aller vers différents types de cibles.
+
+344
+00:17:24,819 --> 00:17:27,960
+Y compris par exemple les vaisseaux pour les
+
+345
+00:17:27,960 --> 00:17:28,640
+inhiber.
+
+346
+00:17:29,240 --> 00:17:34,000
+Et ça va donc donner une vasoconstriction.
+
+347
+00:17:34,920 --> 00:17:36,680
+Ce schéma montre autre chose.
+
+348
+00:17:37,420 --> 00:17:40,360
+Ça c'est une notion très importante.
+
+349
+00:17:40,580 --> 00:17:45,140
+C'est que les neurones qui viennent de
+
+350
+00:17:45,140 --> 00:17:47,500
+la peau et qui viennent des viscères vont
+
+351
+00:17:47,500 --> 00:17:52,300
+avoir une convergence sur un seul neurone postsynaptique.
+
+352
+00:17:52,300 --> 00:17:53,480
+Et ça va donner ce qu'on appelle
+
+353
+00:17:53,480 --> 00:17:56,180
+la convergence avec un patient qui a si
+
+354
+00:17:56,180 --> 00:18:00,320
+jamais un problème viscéral, une infection, il va
+
+355
+00:18:00,320 --> 00:18:01,880
+sentir la douleur au niveau de la peau
+
+356
+00:18:01,880 --> 00:18:04,580
+d'une région, en regard ou bien un
+
+357
+00:18:04,580 --> 00:18:05,940
+peu loin de cette région.
+
+358
+00:18:07,360 --> 00:18:10,340
+Mais concentrons-nous ici sur ce qui va
+
+359
+00:18:10,340 --> 00:18:14,420
+se passer si par exemple on a un
+
+360
+00:18:14,420 --> 00:18:15,580
+choc épouvrelimique.
+
+361
+00:18:16,460 --> 00:18:21,040
+Un patient qui perd du sang parce qu
+
+362
+00:18:21,040 --> 00:18:21,780
+'il a une blessure.
+
+363
+00:18:21,780 --> 00:18:22,820
+Qu'est-ce qui va se passer?
+
+364
+00:18:22,880 --> 00:18:23,920
+Il va se passer deux choses.
+
+365
+00:18:24,280 --> 00:18:27,460
+Le volume qui est reçu de sang au
+
+366
+00:18:27,460 --> 00:18:28,440
+niveau du cœur va baisser.
+
+367
+00:18:28,840 --> 00:18:31,040
+Donc ça va activer des volorecepteurs.
+
+368
+00:18:31,620 --> 00:18:36,720
+Mais aussi au niveau de la chaîne des
+
+369
+00:18:36,720 --> 00:18:40,420
+barorecepteurs au niveau des vaisseaux.
+
+370
+00:18:40,540 --> 00:18:43,000
+Aussi ils vont être activés parce que la
+
+371
+00:18:43,000 --> 00:18:44,560
+pression artérielle commence à baisser.
+
+372
+00:18:45,220 --> 00:18:48,000
+Donc les volorecepteurs et les barorecepteurs vont s
+
+373
+00:18:48,000 --> 00:18:48,360
+'activer.
+
+374
+00:18:48,360 --> 00:18:56,140
+Ils vont envoyer au niveau de l'élément
+
+375
+00:18:56,140 --> 00:18:59,060
+central, au niveau de la moelle, une activation
+
+376
+00:18:59,060 --> 00:19:03,500
+qui va ramener par le système sympathique, ça
+
+377
+00:19:03,500 --> 00:19:07,360
+va ramener des projections qui sont stimulatrices sur
+
+378
+00:19:07,360 --> 00:19:10,880
+le cœur pour augmenter la fréquence cardiaque, pour
+
+379
+00:19:10,880 --> 00:19:12,560
+augmenter la contractilité cardiaque.
+
+380
+00:19:13,160 --> 00:19:14,780
+Et au niveau des vaisseaux, qu'est-ce
+
+381
+00:19:14,780 --> 00:19:15,380
+que ça va faire?
+
+382
+00:19:15,380 --> 00:19:18,460
+Ça va faire une vasoconstriction pour essayer de
+
+383
+00:19:18,460 --> 00:19:20,440
+maintenir une tension artérielle élevée.
+
+384
+00:19:21,480 --> 00:19:24,480
+Ça c'est un contrôle segmentaire réflexe, rapide,
+
+385
+00:19:24,920 --> 00:19:26,380
+pour sauver le patient.
+
+386
+00:19:28,640 --> 00:19:30,800
+Après il va y avoir un contrôle suprasugmentaire
+
+387
+00:19:30,800 --> 00:19:31,280
+complexe.
+
+388
+00:19:31,420 --> 00:19:32,560
+On ne va pas détailler ce schéma.
+
+389
+00:19:32,980 --> 00:19:33,960
+Mais vous voyez qu'il y a énormément
+
+390
+00:19:33,960 --> 00:19:38,380
+de structures qui vont intervenir pour contrôler les
+
+391
+00:19:38,380 --> 00:19:39,020
+organes cibles.
+
+392
+00:19:39,340 --> 00:19:42,900
+Et parmi les éléments les plus importants, c
+
+393
+00:19:42,900 --> 00:19:43,760
+'est l'hépotalamus.
+
+394
+00:19:47,480 --> 00:19:50,840
+On voit que dans ce schéma, la division
+
+395
+00:19:50,840 --> 00:19:53,300
+sympathique et parasympathique s'opposent la plupart du
+
+396
+00:19:53,300 --> 00:19:53,480
+temps.
+
+397
+00:19:53,620 --> 00:20:01,620
+Par exemple, pour l'œil, le sympathique dilate
+
+398
+00:20:01,620 --> 00:20:05,980
+les pupilles alors que le parasympathique les contracte.
+
+399
+00:20:06,940 --> 00:20:09,240
+Bien sûr, quand on est en danger, il
+
+400
+00:20:09,240 --> 00:20:11,120
+faut bien ouvrir les yeux, bien ouvert.
+
+401
+00:20:11,120 --> 00:20:14,340
+Les pupilles doivent être dilatées pour ne pas
+
+402
+00:20:14,340 --> 00:20:19,200
+rater n'importe quel stimulus qui vient de
+
+403
+00:20:19,200 --> 00:20:21,540
+n'importe quel endroit et qui menace la
+
+404
+00:20:21,540 --> 00:20:21,920
+personne.
+
+405
+00:20:23,840 --> 00:20:27,440
+Sur le plan bronchique, on voit que le
+
+406
+00:20:27,440 --> 00:20:32,940
+parasympathique con va provoquer une bronchoconstriction alors que
+
+407
+00:20:32,940 --> 00:20:35,980
+le sympathique va provoquer une bronchodilatation.
+
+408
+00:20:35,980 --> 00:20:39,600
+Donc si on a un lasme, on a
+
+409
+00:20:39,600 --> 00:20:45,000
+une bronchoconstriction, on essaie de donner des parasympathicolytiques
+
+410
+00:20:45,000 --> 00:20:48,260
+pour contrer l'action des parasympathiques.
+
+411
+00:20:48,420 --> 00:20:52,200
+Pour le cœur, vous le savez, pour la
+
+412
+00:20:52,200 --> 00:20:56,800
+contraction cardiaque, le parasympathique la ralentit alors que
+
+413
+00:20:56,800 --> 00:20:58,040
+le sympathique l'accélère.
+
+414
+00:20:58,040 --> 00:21:01,900
+Pour la contractilité musculaire, ils ont des actions
+
+415
+00:21:01,900 --> 00:21:05,940
+opposées où le sympathique augmente la contractilité et
+
+416
+00:21:05,940 --> 00:21:07,280
+l'autre va la diminuer.
+
+417
+00:21:07,980 --> 00:21:11,840
+Pour la digestion, le sympathique inhibe la digestion
+
+418
+00:21:11,840 --> 00:21:14,920
+alors que l'autre la stimule, etc.
+
+419
+00:21:14,920 --> 00:21:23,860
+Alors que pour l'activité sexuelle, ils n
+
+420
+00:21:23,860 --> 00:21:26,680
+'ont pas des actions opposées, mais des actions
+
+421
+00:21:26,680 --> 00:21:27,460
+synergiques.
+
+422
+00:21:28,300 --> 00:21:29,340
+Pour la plupart, on a vu que c
+
+423
+00:21:29,340 --> 00:21:30,020
+'était opposé.
+
+424
+00:21:30,020 --> 00:21:36,860
+Mais ici, pour le système sympathique, le parasympathique
+
+425
+00:21:36,860 --> 00:21:40,240
+stimule l'érection et quand on est assez
+
+426
+00:21:40,240 --> 00:21:44,280
+excité, c'est le sympathique qui va provoquer
+
+427
+00:21:44,280 --> 00:21:45,380
+l'éjaculation.
+
+428
+00:21:45,580 --> 00:21:49,160
+Donc ils sont synergiques les deux pour aboutir
+
+429
+00:21:49,160 --> 00:21:55,340
+à l'aboutissement qui est l'éjaculation.
+
+430
+00:21:56,840 --> 00:22:00,820
+Ces deux systèmes sont vraiment très importants.
+
+431
+00:22:00,820 --> 00:22:04,420
+Ils entrent en interaction avec l'environnement externe.
+
+432
+00:22:04,840 --> 00:22:08,240
+Ils sont bien contrôlés par le système nerveux
+
+433
+00:22:08,240 --> 00:22:11,820
+sympathique pour bien contrôler l'environnement interne qui
+
+434
+00:22:11,820 --> 00:22:14,720
+répond à des stimulus externes.
+
+435
+00:22:15,660 --> 00:22:19,900
+J'aimerais bien que vous reteniez que ce
+
+436
+00:22:19,900 --> 00:22:21,580
+système, c'est un système vital.
+
+437
+00:22:22,180 --> 00:22:25,580
+Le système sympathique est catabolique alors que le
+
+438
+00:22:25,580 --> 00:22:27,760
+système parasympathique est anabolique.
+
+439
+00:22:27,840 --> 00:22:29,800
+C'est pour conserver l'énergie et l
+
+440
+00:22:29,800 --> 00:22:31,100
+'autre c'est pour consommer l'énergie.
+
+441
+00:22:31,540 --> 00:22:33,060
+Mais les deux sont vitaux et sont très
+
+442
+00:22:33,060 --> 00:22:35,220
+importants pour notre survie.
+
+443
+00:22:36,000 --> 00:22:37,780
+Je vous remercie pour votre attention et à
+
+444
+00:22:37,780 --> 00:22:38,380
+la prochaine fois.

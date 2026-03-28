@@ -1,0 +1,7149 @@
+WEBVTT
+
+1
+00:00:00.190 --> 00:00:04.750
+Pour aborder la réponse immunitaire adaptative, comme je
+
+2
+00:00:04.750 --> 00:00:06.950
+l'avais précisé lorsqu'on avait parlé de
+
+3
+00:00:06.950 --> 00:00:10.150
+l'immunité innée, maintenant qu'on a soi
+
+4
+00:00:10.150 --> 00:00:13.490
+-disant traité tous les acteurs, depuis les antigènes,
+
+5
+00:00:14.170 --> 00:00:16.510
+les anticorps, le système du complément, les cellules,
+
+6
+00:00:16.590 --> 00:00:20.210
+les organes linfluides, donc les réponses immunitaires qui
+
+7
+00:00:20.210 --> 00:00:22.530
+soient innées ou adaptatives généralement, c'est quelque
+
+8
+00:00:22.530 --> 00:00:25.310
+part l'utilisation de l'ensemble de ces
+
+9
+00:00:25.310 --> 00:00:28.090
+acteurs pour voir comment ils vont concevoir une
+
+10
+00:00:28.090 --> 00:00:31.189
+réponse immunitaire, cette fois-ci, spécifique ou adaptative.
+
+11
+00:00:33.230 --> 00:00:36.210
+C'est facile d'introduire la réponse immunitaire
+
+12
+00:00:36.210 --> 00:00:39.670
+adaptative dans la mesure où on distingue généralement
+
+13
+00:00:39.670 --> 00:00:42.370
+deux types de réponses, une réponse d'études
+
+14
+00:00:42.370 --> 00:00:45.390
+morales, basée sur la production d'anticorps, et
+
+15
+00:00:45.390 --> 00:00:48.050
+puis celle qui est dite cellulaire, basée sur
+
+16
+00:00:48.050 --> 00:00:49.650
+les lymphocytes cytotoxiques.
+
+17
+00:00:50.070 --> 00:00:52.690
+Avec, surtout, ce qu'il faut regarder, comment
+
+18
+00:00:52.690 --> 00:00:55.830
+cette réponse immunitaire adaptative va être générée.
+
+19
+00:00:56.130 --> 00:00:57.910
+Il y a une phase qu'on appelle
+
+20
+00:00:57.910 --> 00:00:59.510
+une phase d'induction, il faut que les
+
+21
+00:00:59.510 --> 00:01:04.290
+antigènes se présentent au système immunitaire, après quoi,
+
+22
+00:01:04.390 --> 00:01:08.490
+donc, ce système immunitaire doit s'activer et
+
+23
+00:01:08.490 --> 00:01:10.670
+avec, en même temps, une sorte de coopération
+
+24
+00:01:10.670 --> 00:01:14.450
+cellulaire, et puis suivie par une phase dite
+
+25
+00:01:14.450 --> 00:01:15.050
+effectrice.
+
+26
+00:01:15.230 --> 00:01:16.850
+Il faut produire des anticorps et aussi des
+
+27
+00:01:16.850 --> 00:01:20.050
+lymphocytes cytotoxiques, et chaque acteur de l'immunité,
+
+28
+00:01:20.150 --> 00:01:22.990
+lorsqu'il est libéré ou il réagit, il
+
+29
+00:01:22.990 --> 00:01:24.030
+faut qu'il y ait une sorte de
+
+30
+00:01:24.030 --> 00:01:26.850
+régulation qui va empêcher à ce que cette
+
+31
+00:01:26.850 --> 00:01:29.370
+réponse immunitaire ne se transforme pas en quelque
+
+32
+00:01:29.370 --> 00:01:31.010
+chose de nocif pour l'organisme.
+
+33
+00:01:31.350 --> 00:01:32.310
+Donc, il faut des régulateurs.
+
+34
+00:01:33.650 --> 00:01:36.170
+Bien évidemment, vous connaissez l'intérêt du traitement
+
+35
+00:01:36.170 --> 00:01:37.310
+de cette question, c'est ce qui va
+
+36
+00:01:37.310 --> 00:01:40.150
+permettre d'abord de comprendre comment le système
+
+37
+00:01:40.150 --> 00:01:43.490
+immunitaire fonctionne de façon générale, et puis, cette
+
+38
+00:01:43.490 --> 00:01:46.050
+réponse immunitaire, on va pouvoir l'exploiter dans
+
+39
+00:01:46.050 --> 00:01:48.750
+plusieurs domaines pour faire des diagnostics de beaucoup
+
+40
+00:01:48.750 --> 00:01:50.630
+de maladies, vous allez voir que l'immunologie
+
+41
+00:01:50.630 --> 00:01:53.330
+va servir pour faire un diagnostic de laboratoire,
+
+42
+00:01:53.490 --> 00:01:56.550
+il y a des biomarqueurs immunologiques, également même
+
+43
+00:01:56.550 --> 00:02:00.530
+pour traiter, sur la base d'immunothérapie, l
+
+44
+00:02:00.530 --> 00:02:02.850
+'ensemble des maladies, au-delà d'une grande
+
+45
+00:02:02.850 --> 00:02:05.350
+partie des maladies dites décès immunitaires, dans lesquelles
+
+46
+00:02:05.350 --> 00:02:07.930
+il y a la perturbation d'un ou
+
+47
+00:02:07.930 --> 00:02:10.050
+de plusieurs acteurs du système immunitaire.
+
+48
+00:02:10.770 --> 00:02:13.490
+Alors, les objectifs, je vais focaliser sur un,
+
+49
+00:02:14.030 --> 00:02:15.750
+il faut que vous sachiez un petit peu
+
+50
+00:02:15.750 --> 00:02:20.670
+comment les antigènes sont reconnus, d'abord, de
+
+51
+00:02:20.670 --> 00:02:22.990
+façon spécifique, cette fois-ci, rappelez-vous qu
+
+52
+00:02:22.990 --> 00:02:24.450
+'on avait dit qu'il y a une
+
+53
+00:02:24.450 --> 00:02:27.430
+sorte de reconnaissance des pathogènes par les TLR,
+
+54
+00:02:27.530 --> 00:02:29.890
+les PRR, de façon générale, mais de façon
+
+55
+00:02:29.890 --> 00:02:31.730
+non spécifique, cette fois-ci, on va parler
+
+56
+00:02:31.730 --> 00:02:35.630
+de la reconnaissance spécifique, mais surtout également de
+
+57
+00:02:35.630 --> 00:02:38.430
+leur modalité de présentation pour qu'ils soient
+
+58
+00:02:38.430 --> 00:02:40.430
+reconnus par des lymphocytes T, on va voir
+
+59
+00:02:40.430 --> 00:02:41.750
+qu'il y a une reconnaissance par des
+
+60
+00:02:41.750 --> 00:02:43.550
+lymphocytes T aussi, par des lymphocytes B, bref,
+
+61
+00:02:43.890 --> 00:02:46.470
+mais par un des objectifs essentiels, c'est
+
+62
+00:02:46.470 --> 00:02:50.310
+comment les lymphocytes T reconnaissent de façon spécifique
+
+63
+00:02:50.310 --> 00:02:52.050
+les antigènes.
+
+64
+00:02:52.550 --> 00:02:55.570
+Après, on va assister à l'activation, il
+
+65
+00:02:55.570 --> 00:02:57.230
+faut que vous puissiez décrire les étapes d
+
+66
+00:02:57.230 --> 00:02:59.430
+'activation des lymphocytes T et B, on va
+
+67
+00:02:59.430 --> 00:03:03.250
+voir que les cytokines, à travers leurs modes
+
+68
+00:03:03.250 --> 00:03:06.590
+d'action qui sont différents, vont généralement être
+
+69
+00:03:06.590 --> 00:03:09.470
+responsables du choix ou de l'orientation de
+
+70
+00:03:09.470 --> 00:03:11.270
+type de réponse immunitaire, c'est-à-dire
+
+71
+00:03:11.270 --> 00:03:14.110
+cellulaire ou morale, ou les deux, et puis
+
+72
+00:03:14.110 --> 00:03:16.630
+donc on va voir comment les effecteurs humoraux
+
+73
+00:03:16.630 --> 00:03:18.050
+et cellulaires agissent, c'est un petit peu
+
+74
+00:03:18.050 --> 00:03:19.870
+les objectifs principaux.
+
+75
+00:03:20.230 --> 00:03:22.850
+Alors, pour construire le cours, je vous propose,
+
+76
+00:03:24.330 --> 00:03:26.890
+on a dit qu'il faut d'abord
+
+77
+00:03:26.890 --> 00:03:29.090
+une phase d'induction de la réponse immunitaire,
+
+78
+00:03:29.270 --> 00:03:30.590
+c'est à chaque fois qu'il y
+
+79
+00:03:30.590 --> 00:03:33.870
+a une sollicitation dans n'importe quel organisme
+
+80
+00:03:33.870 --> 00:03:35.330
+par un antigène, c'est ce qu'on
+
+81
+00:03:35.330 --> 00:03:36.310
+appelle la phase d'induction.
+
+82
+00:03:36.950 --> 00:03:38.750
+Deuxièmement, on va assister à une phase d
+
+83
+00:03:38.750 --> 00:03:42.930
+'activation, lorsqu'on parle d'activation automatiquement, il
+
+84
+00:03:42.930 --> 00:03:44.630
+y a un lymphocyte qui s'active, il
+
+85
+00:03:44.630 --> 00:03:47.870
+doit entamer une sorte de coopération avec, par
+
+86
+00:03:47.870 --> 00:03:49.670
+exemple lorsqu'on parle de lymphocytes T, il
+
+87
+00:03:49.670 --> 00:03:51.730
+doit coopérer avec lymphocytes B, mais également avec
+
+88
+00:03:51.730 --> 00:03:54.810
+d'autres cellules, que ce soit les macrophages
+
+89
+00:03:54.810 --> 00:03:56.630
+ou parfois les cellules NK, bref.
+
+90
+00:03:57.090 --> 00:03:59.350
+Donc en fonction de la nature de l
+
+91
+00:03:59.350 --> 00:04:01.870
+'agent ou de l'antigène, on va avoir
+
+92
+00:04:01.870 --> 00:04:06.150
+un choix sélectif avec lequel le lymphocyte T
+
+93
+00:04:06.150 --> 00:04:08.870
+ou B va devoir coopérer pour assurer une
+
+94
+00:04:08.870 --> 00:04:10.610
+réponse immunitaire efficace.
+
+95
+00:04:11.230 --> 00:04:15.589
+Après quoi, on va élaborer des effecteurs humoraux
+
+96
+00:04:15.589 --> 00:04:17.730
+et cellulaires et donc, comme je l'ai
+
+97
+00:04:17.730 --> 00:04:18.769
+dit tout à l'heure, il faut un
+
+98
+00:04:18.769 --> 00:04:19.990
+système de régulation à la fin.
+
+99
+00:04:20.670 --> 00:04:23.050
+Lorsqu'on revient un petit peu à la
+
+100
+00:04:23.050 --> 00:04:25.710
+première phase, il faut informer le système immunitaire
+
+101
+00:04:25.710 --> 00:04:27.970
+par un antigène qui soit immunogène.
+
+102
+00:04:28.390 --> 00:04:31.390
+Deuxièmement, cet antigène doit être ce qu'on
+
+103
+00:04:31.390 --> 00:04:34.950
+appelle apprêté ou processé et puis présenté à
+
+104
+00:04:34.950 --> 00:04:35.570
+un de l'hymphocyte.
+
+105
+00:04:36.110 --> 00:04:38.550
+Après quoi, on va assister à une reconnaissance.
+
+106
+00:04:38.930 --> 00:04:41.430
+La reconnaissance, bien évidemment, se fait soit par
+
+107
+00:04:41.430 --> 00:04:43.650
+l'hymphocyte T que par l'hymphocyte B.
+
+108
+00:04:43.770 --> 00:04:44.790
+C'est ce qu'on appelle la phase
+
+109
+00:04:44.790 --> 00:04:45.230
+d'abduction.
+
+110
+00:04:45.930 --> 00:04:47.030
+Lorsqu'on arrive au niveau de la phase
+
+111
+00:04:47.030 --> 00:04:50.370
+d'abduction, on va assister à l'activation
+
+112
+00:04:50.370 --> 00:04:52.910
+qui sera suivie d'une différenciation parce qu
+
+113
+00:04:52.910 --> 00:04:54.270
+'on a besoin d'élaborer ce qu'on
+
+114
+00:04:54.270 --> 00:04:56.630
+appelle des cellules phi ou des clones de
+
+115
+00:04:56.630 --> 00:04:58.910
+l'hymphocyte issus d'une seule cellule initialement.
+
+116
+00:04:59.470 --> 00:05:02.630
+On va voir comment cette différenciation a lieu.
+
+117
+00:05:03.210 --> 00:05:05.930
+Avec cette différenciation, il faut des cytokines qui
+
+118
+00:05:05.930 --> 00:05:08.750
+sont généralement produits essentiellement par ce qu'on
+
+119
+00:05:08.750 --> 00:05:10.890
+appelle les lymphocytes helpers, auxiliaires.
+
+120
+00:05:11.410 --> 00:05:14.750
+Après, vous avez bien évidemment une coopération principalement
+
+121
+00:05:14.750 --> 00:05:16.190
+entre l'hymphocyte T et l'hymphocyte B,
+
+122
+00:05:16.390 --> 00:05:17.930
+mais également avec d'autres cellules comme je
+
+123
+00:05:17.930 --> 00:05:18.710
+viens de le mentionner.
+
+124
+00:05:19.850 --> 00:05:21.510
+L'activation de la différenciation de l'hymphocyte
+
+125
+00:05:21.510 --> 00:05:23.310
+B est un petit peu particulière, mais elle
+
+126
+00:05:23.310 --> 00:05:24.930
+se calque un petit peu sur ces lymphocytes
+
+127
+00:05:24.930 --> 00:05:27.730
+T, mais il y a des particularités propres
+
+128
+00:05:27.730 --> 00:05:28.410
+aux lymphocytes B.
+
+129
+00:05:28.880 --> 00:05:30.670
+Dans la phase effectrice, on distingue une phase
+
+130
+00:05:30.670 --> 00:05:32.950
+dite humorale, c'est-à-dire les anticorps,
+
+131
+00:05:33.050 --> 00:05:34.150
+et une phase dite cellulaire.
+
+132
+00:05:34.250 --> 00:05:35.230
+Si je vous demande qu'est-ce qui
+
+133
+00:05:35.230 --> 00:05:38.330
+manque dans cette phase effectrice, vous allez dire
+
+134
+00:05:38.330 --> 00:05:40.310
+qu'il faut, à chaque fois qu'on
+
+135
+00:05:40.310 --> 00:05:44.430
+élabore des effecteurs spécifiques humorocellulaires, il faut, à
+
+136
+00:05:44.430 --> 00:05:47.730
+mon sens, vous avez les cellules mémoires, la
+
+137
+00:05:47.730 --> 00:05:50.630
+mémoire immunologique pour compléter un petit peu, soi
+
+138
+00:05:50.630 --> 00:05:52.910
+-disant, la boucle de la phase effectrice.
+
+139
+00:05:52.910 --> 00:05:54.770
+Sans quoi, on ne peut pas, soi-disant,
+
+140
+00:05:54.830 --> 00:05:58.670
+la réponse météoradaptative n'a pas, quelque part,
+
+141
+00:05:58.850 --> 00:06:02.050
+elle est incomplète, il faut toujours des cellules
+
+142
+00:06:02.050 --> 00:06:02.510
+mémoires.
+
+143
+00:06:03.110 --> 00:06:03.910
+Après, on va conclure.
+
+144
+00:06:04.350 --> 00:06:05.630
+Voilà un petit peu le plan du cours,
+
+145
+00:06:05.690 --> 00:06:06.950
+j'imagine que vous avez suivi un petit
+
+146
+00:06:06.950 --> 00:06:07.310
+peu les étapes.
+
+147
+00:06:07.430 --> 00:06:08.910
+On va essayer de reprendre l'ensemble de
+
+148
+00:06:08.910 --> 00:06:11.230
+ces étapes, une par une, pour voir un
+
+149
+00:06:11.230 --> 00:06:13.990
+petit peu comment ce système météoradaptatif s'organise.
+
+150
+00:06:14.590 --> 00:06:17.470
+Alors, je vais passer rapidement sur le texte,
+
+151
+00:06:17.550 --> 00:06:19.210
+c'est des choses qui sont faciles pour
+
+152
+00:06:19.210 --> 00:06:19.410
+vous.
+
+153
+00:06:19.810 --> 00:06:22.230
+L'information du système immunitaire par un antigène.
+
+154
+00:06:22.230 --> 00:06:25.550
+Alors, il faut d'abord regarder comment, par
+
+155
+00:06:25.550 --> 00:06:27.710
+quelle voie cet antigène pénètre dans l'organisme,
+
+156
+00:06:27.810 --> 00:06:29.830
+parce qu'en fonction de la voie d
+
+157
+00:06:29.830 --> 00:06:33.170
+'introduction d'un antigène, alors on va voir
+
+158
+00:06:33.170 --> 00:06:37.030
+un petit peu, plus ou moins, un type
+
+159
+00:06:37.030 --> 00:06:39.290
+de réponse immunitaire qui est prédominante.
+
+160
+00:06:39.650 --> 00:06:41.350
+Si, par exemple, vous avez un antigène qu
+
+161
+00:06:41.350 --> 00:06:43.330
+'on ingère, on l'a qu'il pénètre
+
+162
+00:06:43.330 --> 00:06:45.430
+par les muqueuses, par la voie nasale ou
+
+163
+00:06:45.430 --> 00:06:49.730
+l'aérogénitale, etc., essentiellement, ils vont se retrouver
+
+164
+00:06:49.730 --> 00:06:51.490
+face à des IGA sécrétoires.
+
+165
+00:06:51.610 --> 00:06:53.250
+Vous vous rappelez, les IGA sécrétoires, elles sont
+
+166
+00:06:53.250 --> 00:06:55.710
+très, très abondantes au niveau des sécrétions.
+
+167
+00:06:56.170 --> 00:06:57.870
+C'est l'immunité des muqueuses qui est
+
+168
+00:06:57.870 --> 00:07:01.010
+assurée essentiellement par des IGA sécrétoires qui sont
+
+169
+00:07:01.010 --> 00:07:02.070
+neutralisants.
+
+170
+00:07:02.510 --> 00:07:05.430
+Bien évidemment, si ces IGA ne sont pas
+
+171
+00:07:05.430 --> 00:07:08.330
+suffisantes, il y aura la stimulation de la
+
+172
+00:07:08.330 --> 00:07:09.630
+fluxidipé en collaboration.
+
+173
+00:07:10.250 --> 00:07:12.050
+Il y en aura certainement, en fonction de
+
+174
+00:07:12.050 --> 00:07:14.670
+la nature de l'antigène, des anticorcéryques.
+
+175
+00:07:17.500 --> 00:07:19.840
+Vous avez bien évidemment la voie injectable.
+
+176
+00:07:20.260 --> 00:07:21.200
+À chaque fois qu'on part d'une
+
+177
+00:07:21.200 --> 00:07:23.920
+voie injectable, ça veut dire la succutane, on
+
+178
+00:07:23.920 --> 00:07:26.060
+est en contact d'un vaisseau sanguin.
+
+179
+00:07:26.500 --> 00:07:29.600
+Facilement, l'antigène a un accès direct à
+
+180
+00:07:29.600 --> 00:07:30.220
+des lymphocytes.
+
+181
+00:07:30.620 --> 00:07:34.700
+Donc, on va avoir des anticorcéryques prédominants, pas
+
+182
+00:07:34.700 --> 00:07:36.360
+des muqueuses, mais cette fois-ci sériques.
+
+183
+00:07:36.480 --> 00:07:38.220
+Ça peut être des IGA sériques, comme ça
+
+184
+00:07:38.220 --> 00:07:40.420
+peut être des IGA, des IGM, bien évidemment,
+
+185
+00:07:40.540 --> 00:07:40.900
+en premier.
+
+186
+00:07:41.440 --> 00:07:43.000
+Avec, en fonction de la nature de l
+
+187
+00:07:43.000 --> 00:07:44.820
+'antigène, plus ou moins une réponse cellulaire lorsqu
+
+188
+00:07:44.820 --> 00:07:46.140
+'il s'agit d'un virus ou bien
+
+189
+00:07:46.140 --> 00:07:48.240
+d'une bactérie intracellulaire ou d'un parasite,
+
+190
+00:07:48.700 --> 00:07:50.140
+il faut une voie cellulaire.
+
+191
+00:07:50.620 --> 00:07:53.180
+Alors, la particularité de la voie cutanée, ce
+
+192
+00:07:53.180 --> 00:07:56.920
+qu'on appelle intradermique, c'est que vous
+
+193
+00:07:56.920 --> 00:07:57.620
+allez voir qu'il n'y a pas
+
+194
+00:07:57.620 --> 00:08:00.740
+d'anticorps, mais surtout une réponse soit cellulaire
+
+195
+00:08:00.740 --> 00:08:03.020
+cytotoxique, soit ce qu'on appelle une réaction
+
+196
+00:08:03.020 --> 00:08:04.500
+d'hypersensibilité retardée.
+
+197
+00:08:04.580 --> 00:08:05.840
+C'est quoi ?
+
+198
+00:08:05.840 --> 00:08:08.320
+Vous avez par exemple la peau, il y
+
+199
+00:08:08.320 --> 00:08:10.180
+a des cellules de l'ingérence dont j
+
+200
+00:08:10.180 --> 00:08:12.480
+'avais parlé au moment d'échapper des cellules.
+
+201
+00:08:12.920 --> 00:08:14.860
+Il y a des cellules dendritiques de type
+
+202
+00:08:14.860 --> 00:08:16.400
+cellulaire de l'ingérence qui sont très, très
+
+203
+00:08:16.400 --> 00:08:16.980
+abondantes.
+
+204
+00:08:17.340 --> 00:08:19.960
+Ils vont prendre l'antigène, le capter et
+
+205
+00:08:19.960 --> 00:08:22.020
+vont aller chercher à l'infucité au niveau
+
+206
+00:08:22.020 --> 00:08:25.180
+des organes linfoïdes secondaires auxquels ils vont présenter
+
+207
+00:08:25.180 --> 00:08:25.900
+cet antigène.
+
+208
+00:08:26.280 --> 00:08:30.280
+Donc, ils vont utiliser une sorte d'acheminement
+
+209
+00:08:30.280 --> 00:08:34.860
+pour accéder à ces organes linfoïdes, à ces
+
+210
+00:08:34.860 --> 00:08:35.460
+linfoïdités.
+
+211
+00:08:35.640 --> 00:08:36.940
+Ils vont migrer, ils vont maturer.
+
+212
+00:08:36.940 --> 00:08:40.419
+Donc, ils vont également parfois stimuler les macrophages
+
+213
+00:08:40.419 --> 00:08:41.940
+et c'est ce qu'on appelle généralement
+
+214
+00:08:41.940 --> 00:08:44.800
+la réponse, la réaction d'hypersensibilité retardée qui
+
+215
+00:08:44.800 --> 00:08:47.380
+nécessite deux à trois jours, 48 heures à
+
+216
+00:08:47.380 --> 00:08:51.300
+72 heures et parfois, ils font utiliser les
+
+217
+00:08:51.300 --> 00:08:52.120
+macrophages, etc.
+
+218
+00:08:52.660 --> 00:08:55.580
+C'est un type particulier soit adapté, soit
+
+219
+00:08:55.580 --> 00:08:59.000
+d'un genre qui sollicite ces cellules dendritiques,
+
+220
+00:08:59.770 --> 00:09:02.680
+soit des organes cutanés qui vont être responsables
+
+221
+00:09:02.680 --> 00:09:05.180
+de ce type de réponse immunitaire dite retardée.
+
+222
+00:09:05.180 --> 00:09:07.300
+Sur la nature de l'antigène, on avait
+
+223
+00:09:07.300 --> 00:09:09.300
+dit qu'il y a des antigènes timodépendants
+
+224
+00:09:09.300 --> 00:09:11.920
+et des antigènes timoindépendants, vous connaissez très bien
+
+225
+00:09:11.920 --> 00:09:12.620
+la définition.
+
+226
+00:09:13.340 --> 00:09:16.480
+On parle d'antigènes timodépendants lorsque le lymphocyte
+
+227
+00:09:16.480 --> 00:09:21.240
+B ne peut produire des anticorps que lorsqu
+
+228
+00:09:21.240 --> 00:09:23.920
+'il a l'aide de l'infocytité.
+
+229
+00:09:24.300 --> 00:09:27.180
+Ce sont essentiellement, bien évidemment, exclusivement les antigènes
+
+230
+00:09:27.180 --> 00:09:27.700
+protéiques.
+
+231
+00:09:27.840 --> 00:09:28.200
+Pourquoi ?
+
+232
+00:09:28.200 --> 00:09:31.540
+Parce que l'infocytité ne peut reconnaître qu
+
+233
+00:09:31.540 --> 00:09:33.460
+'un antigène qui a une composante protéique.
+
+234
+00:09:33.600 --> 00:09:34.900
+Ça peut être une protéine comme ça peut
+
+235
+00:09:34.900 --> 00:09:37.080
+être aussi une glycoprotéine, en tout cas, ce
+
+236
+00:09:37.080 --> 00:09:39.860
+qui est lépidique, etc., ne passera jamais par
+
+237
+00:09:39.860 --> 00:09:41.940
+une infocyté parce qu'il faut qu'elle
+
+238
+00:09:41.940 --> 00:09:45.300
+soit processée, dégradée en peptides, donc on parle
+
+239
+00:09:45.300 --> 00:09:48.240
+ici de protéines, soit de façon intégrale, soit
+
+240
+00:09:48.240 --> 00:09:49.740
+dans le cas d'une glycoprotéine.
+
+241
+00:09:50.080 --> 00:09:52.760
+Les antigènes timoindépendants, alors c'est-à-dire
+
+242
+00:09:52.760 --> 00:09:54.700
+par définition, on n'a pas besoin de
+
+243
+00:09:54.700 --> 00:09:57.040
+l'infocytité, donc le lymphocyte B se débrouille
+
+244
+00:09:57.040 --> 00:09:57.460
+tout seul.
+
+245
+00:09:58.140 --> 00:10:00.880
+Ce sont généralement des antigènes qui ont des
+
+246
+00:10:00.880 --> 00:10:03.100
+motifs qui se répètent sur leur surface.
+
+247
+00:10:03.300 --> 00:10:05.000
+Du coup, ça leur permet de se fixer
+
+248
+00:10:05.000 --> 00:10:06.780
+sur les deux bras des minoglobulines.
+
+249
+00:10:07.360 --> 00:10:08.700
+C'est un avantage.
+
+250
+00:10:09.260 --> 00:10:11.800
+Et puis, ce sont généralement des antigènes qui
+
+251
+00:10:11.800 --> 00:10:14.680
+ont du mal à stimuler le système immunitaire.
+
+252
+00:10:14.860 --> 00:10:16.760
+Ils traînent, donc ils n'auront pas accès
+
+253
+00:10:16.760 --> 00:10:17.600
+à de l'infocytité.
+
+254
+00:10:17.740 --> 00:10:18.920
+Donc, ils traînent un petit peu.
+
+255
+00:10:19.280 --> 00:10:20.440
+Ils vont être pris en charge par les
+
+256
+00:10:20.440 --> 00:10:26.040
+pseudodendritiques, parmi les tentacules diamants, les prolongements
+
+257
+00:10:26.040 --> 00:10:27.780
+éthoplasmiques, et ils les gardent longtemps pour les
+
+258
+00:10:27.780 --> 00:10:28.740
+montrer à l'infocyte B.
+
+259
+00:10:29.060 --> 00:10:30.540
+Voilà, c'est un exemple.
+
+260
+00:10:31.000 --> 00:10:34.020
+Les polysaccharides solubles, on l'a fixé sur
+
+261
+00:10:34.020 --> 00:10:35.160
+la membrane pathogène.
+
+262
+00:10:35.440 --> 00:10:38.260
+Les flagellines ou bien les polymères, soit-disant,
+
+263
+00:10:38.420 --> 00:10:39.200
+synthétiques, etc.
+
+264
+00:10:39.360 --> 00:10:41.140
+Voilà un petit peu les exemples de ce
+
+265
+00:10:41.140 --> 00:10:43.580
+qu'on appelle des antigènes timoindépendants.
+
+266
+00:10:44.100 --> 00:10:46.440
+Alors, maintenant qu'on a, soit-disant, détecté
+
+267
+00:10:46.440 --> 00:10:48.320
+la présence d'un antigène, alors ils vont
+
+268
+00:10:48.320 --> 00:10:51.440
+être reconnus, on va dire, détectés par des
+
+269
+00:10:51.440 --> 00:10:51.760
+cellules.
+
+270
+00:10:51.960 --> 00:10:53.760
+Et ces cellules-là, ils vont les préparer.
+
+271
+00:10:53.760 --> 00:10:54.680
+C'est ce qu'on appelle des cellules
+
+272
+00:10:54.680 --> 00:10:55.420
+présentatrices.
+
+273
+00:10:55.700 --> 00:10:57.460
+Pour arriver au niveau de l'infocyté, on
+
+274
+00:10:57.460 --> 00:11:00.020
+a besoin de cellules présentatrices.
+
+275
+00:11:00.640 --> 00:11:02.100
+J'avais insisté sur le fait qu'il
+
+276
+00:11:02.100 --> 00:11:03.900
+y a des cellules dites professionnelles.
+
+277
+00:11:04.360 --> 00:11:06.180
+Elles sont de trois types, les pseudodendritiques, les
+
+278
+00:11:06.180 --> 00:11:07.560
+macrophages, l'infocyte B.
+
+279
+00:11:08.380 --> 00:11:10.480
+Il y a aussi, bien évidemment, on va
+
+280
+00:11:10.480 --> 00:11:12.540
+dire, la majorité des cellules de l'organisme
+
+281
+00:11:12.540 --> 00:11:15.800
+peuvent se comporter, elles doivent le faire d
+
+282
+00:11:15.800 --> 00:11:18.880
+'ailleurs pour, soit-disant, pour montrer leurs propres
+
+283
+00:11:18.880 --> 00:11:21.480
+antigènes lorsqu'ils vont disparaître dans le cadre
+
+284
+00:11:21.480 --> 00:11:24.340
+de l'homestasie cellulaire et sont dites non
+
+285
+00:11:24.340 --> 00:11:25.160
+professionnelles.
+
+286
+00:11:25.440 --> 00:11:27.980
+On va voir comment ils peuvent justement présenter
+
+287
+00:11:27.980 --> 00:11:28.960
+leurs propres antigènes.
+
+288
+00:11:29.340 --> 00:11:31.360
+Voilà un petit peu par rapport aux cellules
+
+289
+00:11:31.360 --> 00:11:32.120
+professionnelles.
+
+290
+00:11:32.460 --> 00:11:34.820
+Pour parler de cellules professionnelles de présentation, il
+
+291
+00:11:34.820 --> 00:11:35.680
+faut deux conditions.
+
+292
+00:11:35.920 --> 00:11:38.660
+Un, l'existence ou l'expression de molécules
+
+293
+00:11:38.660 --> 00:11:40.240
+HLA classe 2, ça, c'est une condition
+
+294
+00:11:40.240 --> 00:11:40.760
+obligatoire.
+
+295
+00:11:40.840 --> 00:11:43.800
+Deuxièmement, ils ont besoin aussi de molécules de
+
+296
+00:11:43.800 --> 00:11:44.600
+co-stimulation.
+
+297
+00:11:44.920 --> 00:11:45.680
+C'est très important.
+
+298
+00:11:46.100 --> 00:11:48.020
+Lorsqu'on parle de molécules de co-stimulation,
+
+299
+00:11:48.220 --> 00:11:51.040
+c'est essentiellement le CD80 et 86.
+
+300
+00:11:51.040 --> 00:11:52.940
+C'est ce qu'on appelle le deuxième
+
+301
+00:11:52.940 --> 00:11:54.360
+signal qu'on va voir après.
+
+302
+00:11:54.860 --> 00:11:59.060
+Alors après, ces cellules professionnelles s'occupent quasiment
+
+303
+00:11:59.060 --> 00:12:02.040
+des antigènes, exogènes aux antigènes.
+
+304
+00:12:03.040 --> 00:12:03.580
+C'est-à-dire qu'ils ont été
+
+305
+00:12:03.580 --> 00:12:08.540
+internalisés, endocytés dans le cytoplasme.
+
+306
+00:12:08.900 --> 00:12:10.800
+Ils vont être, soit-disant, assimilés à ces
+
+307
+00:12:10.800 --> 00:12:13.600
+molécules HLA avec le besoin en molécules de
+
+308
+00:12:13.600 --> 00:12:15.120
+co-stimulation pour qu'ils soient montrés en
+
+309
+00:12:15.120 --> 00:12:17.000
+lymphocytés CD4.
+
+310
+00:12:17.120 --> 00:12:17.900
+Je vais y revenir après.
+
+311
+00:12:17.900 --> 00:12:21.560
+Alors, par rapport aux cellules non professionnelles, elles
+
+312
+00:12:21.560 --> 00:12:24.240
+ont toutes des molécules HLA classe 1.
+
+313
+00:12:24.800 --> 00:12:25.820
+Ça, c'est obligatoire.
+
+314
+00:12:26.300 --> 00:12:28.120
+Toutes les cellules nucléaires de l'organisme possèdent,
+
+315
+00:12:28.180 --> 00:12:30.480
+on l'avait expliqué hier, des molécules HLA
+
+316
+00:12:30.480 --> 00:12:31.020
+classe 1.
+
+317
+00:12:31.420 --> 00:12:33.080
+Elles n'ont pas besoin de molécules de
+
+318
+00:12:33.080 --> 00:12:34.520
+co-stimulation à l'état natif.
+
+319
+00:12:35.080 --> 00:12:37.640
+C'est-à-dire que constitutionnellement, elles peuvent
+
+320
+00:12:37.640 --> 00:12:40.380
+les acquérir lorsqu'elles sont activées.
+
+321
+00:12:40.720 --> 00:12:42.120
+C'est-à-dire qu'elles acquièrent un
+
+322
+00:12:42.120 --> 00:12:45.460
+petit peu le potentiel d'exprimer des molécules
+
+323
+00:12:45.460 --> 00:12:48.260
+de co-stimulation qui va leur permettre de
+
+324
+00:12:48.260 --> 00:12:50.560
+communiquer avec un lymphocyte CD8 et pour une
+
+325
+00:12:50.560 --> 00:12:52.720
+meilleure présentation de leurs propres antigènes.
+
+326
+00:12:53.140 --> 00:12:55.020
+Ils vont, du coup, s'occuper des ondos
+
+327
+00:12:55.020 --> 00:12:59.120
+antigènes, ça veut dire des antigènes intracellulaires issus
+
+328
+00:12:59.120 --> 00:13:01.420
+d'un agent pathogène qui a un développement
+
+329
+00:13:01.420 --> 00:13:04.420
+intracellulaire, ou bien de leurs propres protéines lorsqu
+
+330
+00:13:04.420 --> 00:13:06.820
+'ils subissent ce qu'on appelle la coptose,
+
+331
+00:13:06.920 --> 00:13:08.400
+la mort programmée de fin de vie.
+
+332
+00:13:09.020 --> 00:13:11.580
+Donc, ils vont suivre, du coup, l'action
+
+333
+00:13:11.580 --> 00:13:16.120
+des cellulosites toxiques, les CTL, pour réguler, justement,
+
+334
+00:13:16.240 --> 00:13:17.420
+cette homéostasie cellulaire.
+
+335
+00:13:18.620 --> 00:13:23.100
+Alors, l'apprêtement, après avoir défini les cellules
+
+336
+00:13:23.100 --> 00:13:24.780
+et l'insulte de l'antigène qu'ils
+
+337
+00:13:24.780 --> 00:13:27.100
+vont prendre en charge, on va voir à
+
+338
+00:13:27.100 --> 00:13:30.200
+la suite que ces antigènes, une fois qu
+
+339
+00:13:30.200 --> 00:13:33.540
+'ils sont chargés sur les molécules HLA qui
+
+340
+00:13:33.540 --> 00:13:36.080
+vont s'occuper de leur présence à la
+
+341
+00:13:36.080 --> 00:13:37.900
+phocité, il faut les processer, il faut les
+
+342
+00:13:37.900 --> 00:13:38.420
+dégraver.
+
+343
+00:13:38.840 --> 00:13:39.920
+C'est ce qu'on appelle l'apprêtement,
+
+344
+00:13:40.360 --> 00:13:41.320
+en anglais le processing.
+
+345
+00:13:41.320 --> 00:13:44.840
+Alors, l'apprêtement, soit il concerne les antigènes
+
+346
+00:13:44.840 --> 00:13:47.620
+endogènes, soit les antigènes exogènes.
+
+347
+00:13:48.080 --> 00:13:52.340
+Par rapport aux plus petits endogènes, on a,
+
+348
+00:13:52.840 --> 00:13:54.840
+comme je viens de le dire, soit des
+
+349
+00:13:54.840 --> 00:13:56.940
+antigènes du soi, ça veut dire des propres
+
+350
+00:13:56.940 --> 00:13:59.180
+protéines, des acides nucléiques, d'une cellule qui
+
+351
+00:13:59.180 --> 00:14:02.160
+doit subir la coptose en fin de vie,
+
+352
+00:14:02.520 --> 00:14:04.120
+ou bien il s'agit d'un antigène
+
+353
+00:14:04.120 --> 00:14:07.800
+issu d'un pathogène qui a un tropisme
+
+354
+00:14:07.800 --> 00:14:08.800
+cellulaire, etc.
+
+355
+00:14:08.800 --> 00:14:10.900
+L'exemple le plus concret, c'est les
+
+356
+00:14:10.900 --> 00:14:11.260
+virus.
+
+357
+00:14:12.260 --> 00:14:15.800
+Vous connaissez le SARS-CoV-2, le VIH,
+
+358
+00:14:16.260 --> 00:14:19.480
+tous les virus, majoritairement, ils ont un développement
+
+359
+00:14:19.480 --> 00:14:20.120
+transcellulaire.
+
+360
+00:14:20.240 --> 00:14:22.420
+Ceci dit, bien évidemment, ils ont un développement
+
+361
+00:14:22.420 --> 00:14:27.100
+extracellulaire, ils circulent en extracellulaire, mais eux, qui
+
+362
+00:14:27.100 --> 00:14:29.580
+sont très malins, ils profitent, ils entrent à
+
+363
+00:14:29.580 --> 00:14:32.080
+l'intérieur de la cellule pour fabriquer leurs
+
+364
+00:14:32.080 --> 00:14:33.440
+propres protéines.
+
+365
+00:14:33.900 --> 00:14:35.200
+Voilà un petit peu d'abord le choix
+
+366
+00:14:35.200 --> 00:14:37.560
+électif pour la sélective des antigènes qu'ils
+
+367
+00:14:37.560 --> 00:14:40.000
+vont utiliser ou la processer.
+
+368
+00:14:40.360 --> 00:14:42.180
+Ils vont utiliser ce qu'on appelle une
+
+369
+00:14:42.180 --> 00:14:43.920
+voie protéasomique.
+
+370
+00:14:44.360 --> 00:14:46.420
+À l'intérieur de chaque cellule du cytoplasme,
+
+371
+00:14:46.560 --> 00:14:47.680
+il y a ce qu'on appelle un
+
+372
+00:14:47.680 --> 00:14:52.820
+immunoprotéasome qui va s'occuper de dégrader, pour
+
+373
+00:14:52.820 --> 00:14:55.280
+dégrader les antigènes endogènes.
+
+374
+00:14:56.020 --> 00:15:00.560
+Retenez bien, la voie protéasomique est associée au
+
+375
+00:15:00.560 --> 00:15:04.300
+mode de présentation des antigènes endogènes.
+
+376
+00:15:04.300 --> 00:15:08.240
+On ne regarde pas dans le détail cette
+
+377
+00:15:08.240 --> 00:15:10.880
+notion de protéasome, on regarde une structure qui
+
+378
+00:15:10.880 --> 00:15:14.440
+existe sur nos cellules au niveau du cytoplasme.
+
+379
+00:15:14.820 --> 00:15:17.880
+Une fois que l'antigène, soi-disant, est
+
+380
+00:15:17.880 --> 00:15:19.780
+là, c'est un petit peu les protéines
+
+381
+00:15:19.780 --> 00:15:24.760
+libérées soit du soi ou bien par des
+
+382
+00:15:24.760 --> 00:15:27.360
+pathogènes, la première étape qu'ils vont faire,
+
+383
+00:15:27.700 --> 00:15:29.460
+ils vont ce qu'on appelle subiquitiner.
+
+384
+00:15:29.680 --> 00:15:32.100
+Ils vont subir ce marqué où là s
+
+385
+00:15:32.100 --> 00:15:35.360
+'associe à une ubiquitine, subir une ubiquitination, qui
+
+386
+00:15:35.360 --> 00:15:37.540
+va leur permettre d'être transportée au sein
+
+387
+00:15:37.540 --> 00:15:39.540
+de ce protéasome, qui est une structure qui
+
+388
+00:15:39.540 --> 00:15:44.300
+est tout simplement spécifique pour dégrader une protéine
+
+389
+00:15:44.300 --> 00:15:46.460
+et la découper en protéines, en peptides.
+
+390
+00:15:46.640 --> 00:15:49.500
+Cette fois-ci, les peptides vont être dégradés,
+
+391
+00:15:49.620 --> 00:15:51.420
+on va s'examiner, et vont être chargés
+
+392
+00:15:51.420 --> 00:15:53.580
+après sur des molécules HLA classe 1.
+
+393
+00:15:54.220 --> 00:15:58.700
+En arrivant sur les antigènes exogènes, on va
+
+394
+00:15:58.700 --> 00:16:02.080
+voir que les modalités sont, d'abord en
+
+395
+00:16:02.080 --> 00:16:04.320
+termes de choix des antigènes, ce sont des
+
+396
+00:16:04.320 --> 00:16:06.860
+peptides qui viennent de l'extérieur de la
+
+397
+00:16:06.860 --> 00:16:09.260
+cellule, ce sont des bactéries ou bien des
+
+398
+00:16:09.260 --> 00:16:11.580
+levures, et parfois aussi des virus qui se
+
+399
+00:16:11.580 --> 00:16:14.600
+développent, on va dire, à l'extérieur de
+
+400
+00:16:14.600 --> 00:16:17.260
+la cellule, et même des parasites aussi.
+
+401
+00:16:17.700 --> 00:16:19.800
+Et puis vous avez donc, cette fois-ci,
+
+402
+00:16:19.840 --> 00:16:21.500
+ce n'est pas la voie protéasomique, c
+
+403
+00:16:21.500 --> 00:16:22.340
+'est la voie endosomale.
+
+404
+00:16:22.400 --> 00:16:24.580
+Il y a des zones endosomes, ce qu
+
+405
+00:16:24.580 --> 00:16:28.080
+'on appelle des véhicules propres, qui sont dédiés
+
+406
+00:16:28.080 --> 00:16:32.580
+pour cuivrer ces protéines, et les synthès ont
+
+407
+00:16:32.580 --> 00:16:33.440
+laissé examiner.
+
+408
+00:16:33.820 --> 00:16:35.240
+Voilà un petit peu la différence déjà qui
+
+409
+00:16:35.240 --> 00:16:37.800
+existe au niveau du choix de la voie
+
+410
+00:16:37.800 --> 00:16:38.840
+de dégradation.
+
+411
+00:16:39.360 --> 00:16:40.620
+Après, on verra la suite.
+
+412
+00:16:41.000 --> 00:16:42.340
+Ce qui va se passer une fois que
+
+413
+00:16:42.340 --> 00:16:45.760
+ces antigènes sont dégradés et cuivrés en peptides.
+
+414
+00:16:46.920 --> 00:16:49.420
+Une fois que ces antigènes, pour résumer un
+
+415
+00:16:49.420 --> 00:16:51.220
+petit peu, vous avez soit un antigène exogène,
+
+416
+00:16:51.360 --> 00:16:52.720
+soit un antigène endogène.
+
+417
+00:16:52.940 --> 00:16:55.140
+L'exogène est dans la circulation sanguine, il
+
+418
+00:16:55.140 --> 00:16:57.360
+va être internalisé au sein de la cellule,
+
+419
+00:16:57.460 --> 00:16:59.480
+du cytoplasme, et il va être dégradé par
+
+420
+00:16:59.480 --> 00:17:01.580
+l'endosome.
+
+421
+00:17:01.960 --> 00:17:03.500
+Vous avez ici ce qui est rouge.
+
+422
+00:17:04.000 --> 00:17:07.540
+Alors, l'issue de cet antigène exogène, après
+
+423
+00:17:07.540 --> 00:17:12.060
+le clivage et la préparation par l'endosome,
+
+424
+00:17:12.140 --> 00:17:14.680
+il va aller prendre une direction, un chemin,
+
+425
+00:17:15.099 --> 00:17:16.119
+c'est-à-dire qu'il lui permettra
+
+426
+00:17:16.119 --> 00:17:19.060
+de se fixer sur la zone d'ancrage
+
+427
+00:17:19.060 --> 00:17:22.400
+des molécules CH2 pour être transportée à la
+
+428
+00:17:22.400 --> 00:17:24.400
+surface de la cellule et être reconnue par
+
+429
+00:17:24.400 --> 00:17:26.020
+la lymphocytée CD4.
+
+430
+00:17:26.579 --> 00:17:30.640
+Par contre, les antigènes endogènes, c'est le
+
+431
+00:17:30.640 --> 00:17:34.140
+protéasome qui va les décliver et après permettre
+
+432
+00:17:34.140 --> 00:17:37.580
+leur chargement au niveau des molécules CH classe
+
+433
+00:17:37.580 --> 00:17:39.660
+1, après aller en surface pour qu'ils
+
+434
+00:17:39.660 --> 00:17:41.960
+soient reconnus par la lymphocytée CD8.
+
+435
+00:17:42.060 --> 00:17:44.460
+Le descriptif, vous l'avez ici, évoquera un
+
+436
+00:17:44.460 --> 00:17:46.520
+petit peu de savoir comment l'antigène est
+
+437
+00:17:46.520 --> 00:17:49.500
+orienté via ces molécules CH classe 1 et
+
+438
+00:17:49.500 --> 00:17:52.440
+classe 2 pour être reconnue par CD4 ou
+
+439
+00:17:52.440 --> 00:17:52.760
+CD8.
+
+440
+00:17:52.760 --> 00:17:54.960
+Si on a besoin d'une réponse humorale,
+
+441
+00:17:55.360 --> 00:17:56.500
+on va entraîner CD4.
+
+442
+00:17:56.680 --> 00:17:58.060
+Si on a besoin d'une réponse cellulaire,
+
+443
+00:17:58.320 --> 00:17:59.140
+c'est plutôt CD8.
+
+444
+00:17:59.320 --> 00:18:02.600
+Bien évidemment, le CD4 a la possibilité de
+
+445
+00:18:02.600 --> 00:18:05.100
+stimuler la lymphocytée CD8 lorsqu'il a besoin
+
+446
+00:18:05.100 --> 00:18:07.080
+d'une réponse cellulaire complémentaire.
+
+447
+00:18:07.400 --> 00:18:08.320
+Ça, c'est un détail qu'on va
+
+448
+00:18:08.320 --> 00:18:08.760
+voir après.
+
+449
+00:18:09.340 --> 00:18:12.980
+Alors maintenant, en parlant de la reconnaissance, lorsqu
+
+450
+00:18:12.980 --> 00:18:15.360
+'on a dit qu'il faut le processing,
+
+451
+00:18:15.600 --> 00:18:17.360
+on arrive au niveau de la reconnaissance parce
+
+452
+00:18:17.360 --> 00:18:19.860
+qu'on va switcher vers le côté lymphocytée
+
+453
+00:18:19.860 --> 00:18:21.140
+qui va en quantité d'antigènes.
+
+454
+00:18:21.140 --> 00:18:22.960
+Le mot-clé ici, c'est quoi ?
+
+455
+00:18:22.960 --> 00:18:26.460
+C'est que cette reconnaissance, elle est restreinte
+
+456
+00:18:26.460 --> 00:18:29.600
+par les molécules CH classe 1 et classe
+
+457
+00:18:29.600 --> 00:18:29.760
+2.
+
+458
+00:18:29.860 --> 00:18:30.780
+Ça veut dire quoi ?
+
+459
+00:18:30.780 --> 00:18:33.360
+Vous avez les peptides qui sont chargés sur
+
+460
+00:18:33.360 --> 00:18:34.560
+les molécules CH classe 1.
+
+461
+00:18:34.640 --> 00:18:36.900
+Il va aller vers les lymphocytes TCD8.
+
+462
+00:18:37.040 --> 00:18:38.460
+C'est un TCR d'un lymphocyte TCD8
+
+463
+00:18:38.460 --> 00:18:38.860
+d'un côté.
+
+464
+00:18:39.600 --> 00:18:41.080
+Et puis, de l'autre côté, vous avez
+
+465
+00:18:41.080 --> 00:18:44.520
+un peptide antigénique chargé sur les molécules CH
+
+466
+00:18:44.520 --> 00:18:45.040
+classe 2.
+
+467
+00:18:45.140 --> 00:18:48.180
+Il va aller donc vers les lymphocytes TCD4.
+
+468
+00:18:48.620 --> 00:18:49.560
+Ça, c'est classique.
+
+469
+00:18:49.560 --> 00:18:51.120
+C'est ce qu'on appelle la restriction
+
+470
+00:18:51.120 --> 00:18:53.260
+de reconnaissance de l'antigène par les lymphocytes
+
+471
+00:18:53.260 --> 00:18:55.480
+T qui est médiée par les molécules CH
+
+472
+00:18:55.480 --> 00:18:56.620
+classe 1 et classe 2.
+
+473
+00:18:57.100 --> 00:18:59.000
+Maintenant, ça, c'est pour les lymphocytes T.
+
+474
+00:18:59.440 --> 00:19:03.000
+Lorsqu'on regarde la reconnaissance ou les modalités
+
+475
+00:19:03.000 --> 00:19:06.560
+par lesquelles le lymphocyte B reconnaît l'antigène,
+
+476
+00:19:07.140 --> 00:19:09.020
+on va voir, parce que vous connaissez déjà,
+
+477
+00:19:09.300 --> 00:19:11.400
+c'est que le lymphocyte B a la
+
+478
+00:19:11.400 --> 00:19:14.820
+possibilité de reconnaître directement un antigène.
+
+479
+00:19:15.120 --> 00:19:16.420
+Vous avez un BCR.
+
+480
+00:19:16.680 --> 00:19:19.660
+Généralement, pour une meilleure reconnaissance, soit on est
+
+481
+00:19:19.660 --> 00:19:22.500
+face à un antigène qui est bivalent ou
+
+482
+00:19:22.500 --> 00:19:26.060
+multivalent, etc., qui a la possibilité, lorsqu'il
+
+483
+00:19:26.060 --> 00:19:28.380
+a des motifs à répétition, d'utiliser les
+
+484
+00:19:28.380 --> 00:19:30.660
+deux bras de la même immunoglobuline, c'est
+
+485
+00:19:30.660 --> 00:19:31.540
+-à-dire le même BCR.
+
+486
+00:19:32.140 --> 00:19:33.620
+Ce qui est souvent le cas, c'est
+
+487
+00:19:33.620 --> 00:19:37.080
+que vous avez un antigène qui est bridgé,
+
+488
+00:19:37.360 --> 00:19:40.900
+qui est ce qu'on appelle ponté par
+
+489
+00:19:40.900 --> 00:19:41.520
+un antigène.
+
+490
+00:19:41.660 --> 00:19:42.680
+C'est-à-dire, d'un côté, il
+
+491
+00:19:42.680 --> 00:19:45.380
+accroche un bras d'une immunoglobuline d'un
+
+492
+00:19:45.380 --> 00:19:46.960
+BCR, et de l'autre côté, il s
+
+493
+00:19:46.960 --> 00:19:48.260
+'accroche sur...
+
+494
+00:19:48.260 --> 00:19:49.360
+Ça, c'est la meilleure façon de le
+
+495
+00:19:49.360 --> 00:19:51.900
+reconnaître, sur l'autre BCR.
+
+496
+00:19:52.340 --> 00:19:55.660
+Lorsqu'on a deux récepteurs BCR, l'un
+
+497
+00:19:55.660 --> 00:19:57.860
+à côté de l'autre, qui sont pontés
+
+498
+00:19:57.860 --> 00:20:03.100
+ou bridgés, vous avez un rapprochement de ces
+
+499
+00:20:03.100 --> 00:20:05.180
+récepteurs, c'est-à-dire au niveau membrané
+
+500
+00:20:05.180 --> 00:20:08.040
+-réceptoplasmique, ils vont se rapprocher et s'agréger,
+
+501
+00:20:08.360 --> 00:20:11.100
+et vont faciliter du coup l'activation de
+
+502
+00:20:11.100 --> 00:20:13.540
+ce qu'on appelle des térozyme kinase qui
+
+503
+00:20:13.540 --> 00:20:17.060
+sont très importants pour l'activation du lymphocyte
+
+504
+00:20:17.060 --> 00:20:17.280
+B.
+
+505
+00:20:17.840 --> 00:20:19.500
+Vous voyez ici en jaune, c'est ce
+
+506
+00:20:19.500 --> 00:20:21.580
+qu'on appelle des motifs ITAM dont j
+
+507
+00:20:21.580 --> 00:20:22.080
+'avais parlé.
+
+508
+00:20:23.920 --> 00:20:26.580
+Immunotérosine activated motifs, ce sont des motifs qui
+
+509
+00:20:26.580 --> 00:20:30.660
+vont se phosphoryler pour permettre l'initiation ou
+
+510
+00:20:30.660 --> 00:20:33.380
+l'amorçage de l'activation de ces enzymes,
+
+511
+00:20:33.560 --> 00:20:36.580
+de ces térozyme kinase, de plusieurs sortes, BLINK,
+
+512
+00:20:36.680 --> 00:20:37.680
+FINELINE, etc.
+
+513
+00:20:38.080 --> 00:20:40.480
+Après, ils vont arriver, faire arriver le message
+
+514
+00:20:40.480 --> 00:20:43.400
+de reconnaissance au noyau, le noyau va s
+
+515
+00:20:43.400 --> 00:20:46.800
+'activer pour après permettre au lymphocyte B d
+
+516
+00:20:46.800 --> 00:20:49.300
+'évoluer vers un plasmocyte et produire des anticorps.
+
+517
+00:20:50.360 --> 00:20:51.400
+Ça, c'est ce qui est classique.
+
+518
+00:20:51.900 --> 00:20:54.780
+On a un autre mode de reconnaissance directe
+
+519
+00:20:54.780 --> 00:20:58.240
+des antigènes par le lymphocyte B, regardez ici,
+
+520
+00:20:58.300 --> 00:20:59.580
+c'est un peu particulier.
+
+521
+00:21:00.220 --> 00:21:02.420
+Si vous vous rappelez bien, lorsqu'on avait
+
+522
+00:21:02.420 --> 00:21:05.140
+traité les cellules, on avait distingué les cellules
+
+523
+00:21:05.140 --> 00:21:09.380
+dendritiques qui sont dites folliculaires, ce sont des
+
+524
+00:21:09.380 --> 00:21:12.440
+cellules considérées comme des cellules résidentes.
+
+525
+00:21:12.560 --> 00:21:16.480
+Elles sont au niveau des follicules lymphoïdes, au
+
+526
+00:21:16.480 --> 00:21:19.600
+niveau de la région B, de la rate,
+
+527
+00:21:19.700 --> 00:21:20.780
+comme l'ion lymphatique, etc.
+
+528
+00:21:21.420 --> 00:21:22.000
+Elles sont là.
+
+529
+00:21:23.140 --> 00:21:25.960
+Ce lymphocyte B qui a à sa surface,
+
+530
+00:21:26.280 --> 00:21:31.320
+à côté du BCR, et également un complexe
+
+531
+00:21:31.320 --> 00:21:34.620
+moléculaire, vous voyez ici, en présence d'un
+
+532
+00:21:34.620 --> 00:21:37.300
+cellule dendrique folliculaire, il va ramener un antigène.
+
+533
+00:21:38.140 --> 00:21:41.520
+Cet antigène va être présenté au lymphocyte B
+
+534
+00:21:42.200 --> 00:21:43.860
+par les cellules dendriques folliculaires.
+
+535
+00:21:44.440 --> 00:21:45.820
+Alors comment ça va se faire ?
+
+536
+00:21:45.820 --> 00:21:48.920
+Vous avez ici, pour faire le lien avec
+
+537
+00:21:48.920 --> 00:21:50.900
+le système du complément, vous avez ce qu
+
+538
+00:21:50.900 --> 00:21:52.400
+'on appelle un récepteur CR2.
+
+539
+00:21:53.040 --> 00:21:55.240
+Je pense vous avoir bien expliqué l'intérêt
+
+540
+00:21:55.240 --> 00:21:58.260
+du CR2, le récepteur au complément de type
+
+541
+00:21:58.260 --> 00:22:00.680
+2, qui participe à l'initiation de l
+
+542
+00:22:00.680 --> 00:22:02.900
+'immunité adaptative au lymphocyte B.
+
+543
+00:22:03.100 --> 00:22:04.180
+Il le fait comment ?
+
+544
+00:22:04.180 --> 00:22:06.800
+Il va accrocher un fragment du complément qui
+
+545
+00:22:06.800 --> 00:22:07.780
+est le C3Di.
+
+546
+00:22:08.220 --> 00:22:10.440
+Alors si vous voulez savoir le C3Di, c
+
+547
+00:22:10.440 --> 00:22:12.300
+'est tout simplement un produit de clivage de
+
+548
+00:22:12.300 --> 00:22:12.660
+C3.
+
+549
+00:22:13.000 --> 00:22:15.660
+Vous savez le C3, lorsqu'il subit l
+
+550
+00:22:15.660 --> 00:22:18.860
+'action de la C3 convertase, donc il clive
+
+551
+00:22:18.860 --> 00:22:20.240
+le C3 en plusieurs fragments.
+
+552
+00:22:20.400 --> 00:22:22.880
+C3A, C3B, C3C, C3D, etc.
+
+553
+00:22:23.340 --> 00:22:25.580
+Parfois même C3Dj, C3Di, etc.
+
+554
+00:22:26.200 --> 00:22:29.240
+Donc les sous-unités issues du clivage de
+
+555
+00:22:29.240 --> 00:22:34.080
+C3, une de ces unités, va venir se
+
+556
+00:22:34.080 --> 00:22:36.300
+fixer sur son récepteur qui est le C3,
+
+557
+00:22:36.900 --> 00:22:40.300
+le CR2, et il voit que cette communication
+
+558
+00:22:40.300 --> 00:22:43.080
+a lieu, donc par l'intermédiaire de l
+
+559
+00:22:43.080 --> 00:22:44.880
+'antigène, parce qu'il y a le complément
+
+560
+00:22:44.880 --> 00:22:47.100
+qui est fixé sur l'antigène, et donc
+
+561
+00:22:47.100 --> 00:22:49.500
+vous avez quelque part un deuxième récepteur ici,
+
+562
+00:22:49.940 --> 00:22:50.980
+qui va se mobiliser.
+
+563
+00:22:51.920 --> 00:22:54.360
+Le CR2 fait partie d'un complexe moléculaire
+
+564
+00:22:54.360 --> 00:22:57.840
+dont fait partie le CD19, le marqueur spécifique
+
+565
+00:22:57.840 --> 00:23:02.060
+de l'lymphocyte B, également notre molécule CD81.
+
+566
+00:23:02.460 --> 00:23:05.160
+Vous avez un trio de molécules qu'on
+
+567
+00:23:05.160 --> 00:23:07.840
+appelle un co-récepteur ou un complexe moléculaire
+
+568
+00:23:08.140 --> 00:23:10.640
+qui fait de trois choses, et il va
+
+569
+00:23:10.640 --> 00:23:12.680
+tout simplement, comme tout à l'heure pour
+
+570
+00:23:12.680 --> 00:23:15.560
+le BCR, le deuxième BCR, il va s
+
+571
+00:23:15.560 --> 00:23:17.860
+'agréger avec le BCR de côté.
+
+572
+00:23:18.200 --> 00:23:20.080
+Vous avez de la même façon un rapprochement,
+
+573
+00:23:20.560 --> 00:23:24.540
+une agrégation de la portion membranaire et cytoplasmique
+
+574
+00:23:24.540 --> 00:23:27.260
+de ce récepteur qui va permettre d'activer
+
+575
+00:23:27.260 --> 00:23:29.260
+des voies d'activation comme tout à l
+
+576
+00:23:29.260 --> 00:23:33.400
+'heure, l'enphosphorinositone 3-quinase, mais évidemment avec
+
+577
+00:23:33.400 --> 00:23:35.920
+les voies qu'on appelle C qui va,
+
+578
+00:23:36.100 --> 00:23:36.400
+etc.
+
+579
+00:23:37.000 --> 00:23:38.960
+Ils ont toutes ce qu'on appelle des
+
+580
+00:23:38.960 --> 00:23:42.080
+séquences étables qui se phosphorisent le PCC, phosphorylation.
+
+581
+00:23:42.540 --> 00:23:44.500
+Après on va aboutir à l'activation du
+
+582
+00:23:44.500 --> 00:23:47.160
+noyau et donc à la différenciation de l
+
+583
+00:23:47.160 --> 00:23:48.200
+'lymphocyte B en plasmocyte.
+
+584
+00:23:48.280 --> 00:23:49.640
+Voilà un petit peu comment l'lymphocyte B,
+
+585
+00:23:49.660 --> 00:23:52.360
+on connaît de façon un peu très intelligente
+
+586
+00:23:52.360 --> 00:23:56.060
+et particulière, l'antigène de façon directe, d
+
+587
+00:23:56.060 --> 00:24:00.200
+'accord, sans faire intervenir d'autres cellules, sauf
+
+588
+00:24:00.200 --> 00:24:03.340
+qu'ici, on a des cellules dendritiques folliculaires
+
+589
+00:24:03.340 --> 00:24:06.680
+qui maintiennent un petit peu l'antigène par
+
+590
+00:24:06.680 --> 00:24:09.640
+S qui traîne pour le montrer justement à
+
+591
+00:24:09.640 --> 00:24:11.880
+l'enphophysite B au niveau du noyau lymphatique.
+
+592
+00:24:13.320 --> 00:24:15.320
+Alors maintenant qu'on a reconnu l'antigène,
+
+593
+00:24:15.940 --> 00:24:18.780
+il faut une phase, une deuxième phase qui
+
+594
+00:24:18.780 --> 00:24:20.060
+est la phase d'activation.
+
+595
+00:24:20.300 --> 00:24:21.180
+Ça c'est très important.
+
+596
+00:24:21.800 --> 00:24:23.900
+La cellule qui a reconnu l'antigène, soit
+
+597
+00:24:23.900 --> 00:24:25.560
+T soit P, doit s'activer.
+
+598
+00:24:26.060 --> 00:24:27.700
+Alors pour s'activer, à la fin, il
+
+599
+00:24:27.700 --> 00:24:30.220
+doit se différencier en effecteur.
+
+600
+00:24:30.800 --> 00:24:33.440
+Alors lorsqu'elle s'active, j'ai ici
+
+601
+00:24:33.440 --> 00:24:38.160
+mentionné comme mot-clé les deux mots clés
+
+602
+00:24:38.160 --> 00:24:39.240
+nécessaires à connaître.
+
+603
+00:24:39.520 --> 00:24:41.620
+Vous avez un phénomène qu'on appelle transformation
+
+604
+00:24:42.260 --> 00:24:44.080
+lymphoblastique, c'est-à-dire de l'lymphocyte
+
+605
+00:24:44.080 --> 00:24:47.660
+qui va reconnaître l'antigène et après il
+
+606
+00:24:47.660 --> 00:24:48.780
+va être suivi de ce qu'on appelle
+
+607
+00:24:48.780 --> 00:24:51.980
+une division qui va aboutir à plusieurs clones.
+
+608
+00:24:51.980 --> 00:24:53.900
+Des clones ou des sibylphies.
+
+609
+00:24:54.360 --> 00:24:56.500
+Alors c'est par rapport à la transformation
+
+610
+00:24:56.500 --> 00:24:59.260
+lymphoblastique, par définition, c'est ce qu'il
+
+611
+00:24:59.260 --> 00:25:02.460
+y a lorsqu'on assiste après la reconnaissance
+
+612
+00:25:02.460 --> 00:25:04.600
+d'un antigène parce qu'il y a
+
+613
+00:25:04.600 --> 00:25:07.020
+interaction d'un signal avec son ligand.
+
+614
+00:25:07.460 --> 00:25:09.220
+Ici il y a des ligands, des récepteurs.
+
+615
+00:25:09.560 --> 00:25:12.060
+Vous avez donc une transformation de ce lymphocyte
+
+616
+00:25:12.060 --> 00:25:14.140
+c'est-à-dire des modifications morphologiques il
+
+617
+00:25:14.140 --> 00:25:16.320
+va augmenter de taille, il va avoir des
+
+618
+00:25:16.320 --> 00:25:18.460
+modifications fonctionnelles, il va s'activer parce qu
+
+619
+00:25:18.460 --> 00:25:21.040
+'il y a du mitochondrie qui va travailler,
+
+620
+00:25:21.280 --> 00:25:23.580
+le résidu endoplasmique, l'appareil de logique, tout
+
+621
+00:25:23.580 --> 00:25:25.600
+ça va fonctionner et du coup il y
+
+622
+00:25:25.600 --> 00:25:28.260
+aura des modifications métaboliques qui vont permettre le
+
+623
+00:25:28.260 --> 00:25:30.500
+passage d'un stade G0 c'est-à
+
+624
+00:25:30.500 --> 00:25:33.820
+-dire une cellule qui est quiescente, naïve, vers
+
+625
+00:25:33.820 --> 00:25:35.580
+un stade qui va permettre à la cellule
+
+626
+00:25:35.580 --> 00:25:38.380
+de se diviser également de synthétiser des cytokines.
+
+627
+00:25:38.640 --> 00:25:41.160
+Tout ça, ça s'appelle la transformation lymphoblastique.
+
+628
+00:25:41.960 --> 00:25:44.480
+Avec ça il y a, après, on va
+
+629
+00:25:44.480 --> 00:25:47.100
+générer des sibylphies à partir d'une seule
+
+630
+00:25:47.100 --> 00:25:47.840
+cellule.
+
+631
+00:25:47.840 --> 00:25:50.480
+Cette fois-ci, on était à G1 on
+
+632
+00:25:50.480 --> 00:25:52.460
+va passer de G1 jusqu'au stade S
+
+633
+00:25:52.460 --> 00:25:54.520
+au stade du cycle cellulaire que vous connaissez
+
+634
+00:25:54.520 --> 00:25:55.720
+très bien parce que vous l'avez fait
+
+635
+00:25:55.720 --> 00:25:58.000
+j'imagine, en biochimie ou autre.
+
+636
+00:25:58.260 --> 00:26:01.300
+Voilà, finalement, on parle d'un signal d
+
+637
+00:26:01.300 --> 00:26:04.680
+'activation qui consiste à présenter l'antigène à
+
+638
+00:26:04.680 --> 00:26:08.340
+être reconnu par un lymphocytée, soit CD4, CD8,
+
+639
+00:26:08.800 --> 00:26:11.280
+mais après il y a la nécessité d
+
+640
+00:26:11.280 --> 00:26:13.820
+'un deuxième signal qui est fourni par les
+
+641
+00:26:13.820 --> 00:26:17.000
+molécules de co-stimulation, ici CD8086, qu'on
+
+642
+00:26:17.000 --> 00:26:19.440
+appelle aussi Bsat1, Bsat2, c'est la même
+
+643
+00:26:19.440 --> 00:26:22.540
+chose ils vont interagir avec une molécule d
+
+644
+00:26:22.540 --> 00:26:25.880
+'activation Rappelez-vous, lorsqu'on avait parlé des
+
+645
+00:26:25.880 --> 00:26:29.040
+récepteurs, des molécules spécifiques ou non spécifiques, j
+
+646
+00:26:29.040 --> 00:26:29.940
+'osez dire qu'il y a ce qu
+
+647
+00:26:29.940 --> 00:26:31.920
+'on appelle des marqueurs d'activation des lymphocytées,
+
+648
+00:26:32.020 --> 00:26:35.020
+dont fait partie le CD28 le CD25 et
+
+649
+00:26:35.020 --> 00:26:36.780
+d'autres aussi mais à deux, ce sont
+
+650
+00:26:36.780 --> 00:26:38.680
+les témoins d'un état d'activation de
+
+651
+00:26:38.680 --> 00:26:39.760
+la cellule c'est-à-dire la cellule
+
+652
+00:26:39.760 --> 00:26:41.900
+qui s'active va exprimer à sa surface,
+
+653
+00:26:42.440 --> 00:26:44.300
+soi-disant, il a déjà le CD28 c
+
+654
+00:26:44.300 --> 00:26:47.300
+'est le deuxième signal de façon virtuelle, on
+
+655
+00:26:47.300 --> 00:26:49.540
+parle aussi d'un troisième signal, bref, mais
+
+656
+00:26:49.540 --> 00:26:52.060
+c'est un complément, là, quelque part une
+
+657
+00:26:52.060 --> 00:26:55.220
+voie qui permet à la cellule de s
+
+658
+00:26:55.220 --> 00:26:56.480
+'activer mieux de se différencier.
+
+659
+00:26:57.020 --> 00:26:58.580
+Vous avez ici la cellule présente dans l
+
+660
+00:26:58.580 --> 00:27:00.820
+'antigène, elle a la possibilité d'aider le
+
+661
+00:27:00.820 --> 00:27:04.140
+lymphocytée à s'activer moyennant des cytokines elle
+
+662
+00:27:04.140 --> 00:27:07.040
+peut produire d'un côté des cytokines de
+
+663
+00:27:07.040 --> 00:27:10.860
+l'inflammation H1N6, etc ils ont un potentiel
+
+664
+00:27:10.860 --> 00:27:13.100
+d'activation, notamment pour le lymphocyte B, ici,
+
+665
+00:27:13.580 --> 00:27:16.440
+mais également le lymphocytée les L12, vous vous
+
+666
+00:27:16.440 --> 00:27:19.940
+rappelez, lorsque la cellule d'André Tick-Metzelhahn
+
+667
+00:27:19.940 --> 00:27:22.860
+elle a besoin de polariser la réponse immunitaire
+
+668
+00:27:22.860 --> 00:27:24.540
+pour la remonter vers une réponse cellulaire, elle
+
+669
+00:27:24.540 --> 00:27:26.820
+produit de l'interleukine 12 donc vous avez
+
+670
+00:27:26.820 --> 00:27:30.240
+également des cytokines de type TGF-bêta transgraft
+
+671
+00:27:30.240 --> 00:27:33.480
+factor, bêta qui a un effet inflammatoire, mais
+
+672
+00:27:33.480 --> 00:27:37.540
+également un effet d'activation d'activateur sur
+
+673
+00:27:37.540 --> 00:27:40.220
+la cellule qui va permettre sa différenciation voilà
+
+674
+00:27:40.220 --> 00:27:43.220
+un petit peu, au résumé comment les cellules
+
+675
+00:27:43.220 --> 00:27:47.140
+s'activent et pour après se différencier en
+
+676
+00:27:47.140 --> 00:27:50.220
+effecteur alors l'activation, vous avez deux éléments
+
+677
+00:27:50.220 --> 00:27:52.560
+importants à connaître, on parle de l'activation
+
+678
+00:27:52.560 --> 00:27:55.700
+lorsqu'on a d'abord un premier signal
+
+679
+00:27:56.400 --> 00:28:00.240
+fourni par le contact des CMH des molécules
+
+680
+00:28:00.240 --> 00:28:03.640
+HLA avec le TCR d'accord, avec les
+
+681
+00:28:03.640 --> 00:28:06.800
+peptides antigéniques avec la lymphocytée qui soit CD4
+
+682
+00:28:06.800 --> 00:28:08.700
+ou CD8, d'autre côté il faut absolument
+
+683
+00:28:08.700 --> 00:28:10.620
+avoir un deuxième signal qui est fourni par
+
+684
+00:28:10.620 --> 00:28:13.660
+les molécules CD80 et CD86 avec le CD28
+
+685
+00:28:13.660 --> 00:28:17.960
+donc l'activation nécessite absolument le signal 1
+
+686
+00:28:17.960 --> 00:28:19.740
+et le signal 2, si le signal 2
+
+687
+00:28:19.740 --> 00:28:21.460
+manque ça veut dire qu'il n'y
+
+688
+00:28:21.460 --> 00:28:23.560
+a pas de molécule de co-stimulation, ou
+
+689
+00:28:23.560 --> 00:28:24.540
+bien il n'y a pas de molécule
+
+690
+00:28:24.540 --> 00:28:27.580
+CD28, ou bien il y a une inhibition
+
+691
+00:28:27.580 --> 00:28:30.200
+de la molécule CD28 par un facteur soit
+
+692
+00:28:30.200 --> 00:28:33.400
+spontané, on va dire honte de crime lié
+
+693
+00:28:33.400 --> 00:28:35.600
+à quelque chose qui est propre à l
+
+694
+00:28:35.600 --> 00:28:38.320
+'organisme ou bien lorsque l'on traite par
+
+695
+00:28:38.320 --> 00:28:40.440
+exemple, on veut inhiber la lymphocytée on peut
+
+696
+00:28:40.440 --> 00:28:43.100
+venir inhiber ce CD28 on va induire un
+
+697
+00:28:43.100 --> 00:28:44.820
+état d'énergie c'est à dire si
+
+698
+00:28:44.820 --> 00:28:48.460
+vous voulez énergiser ou induire la tolérance vis
+
+699
+00:28:48.460 --> 00:28:51.540
+-à-vis de l'antigène ou l'empêcher
+
+700
+00:28:51.540 --> 00:28:54.120
+l'lymphocytée qui est considérée par exemple auto
+
+701
+00:28:54.120 --> 00:28:56.280
+-réactif, il est agressif vis-à-vis de
+
+702
+00:28:56.280 --> 00:28:57.760
+l'organisme, vis-à-vis des antigènes du
+
+703
+00:28:57.760 --> 00:29:00.460
+soi il faut tout simplement venir bloquer ce
+
+704
+00:29:00.460 --> 00:29:03.880
+CD28 donc pour tolérer, permettre à la lymphocytée
+
+705
+00:29:03.880 --> 00:29:06.500
+de tolérer les antigènes du soi et donc
+
+706
+00:29:06.500 --> 00:29:08.640
+devenir énergique c'est comme quelqu'un qui
+
+707
+00:29:08.640 --> 00:29:11.960
+développe de l'allergie on le dessensibilise la
+
+708
+00:29:11.960 --> 00:29:15.180
+dessensibilisation on l'a à l'immunothérapie spécifique
+
+709
+00:29:15.180 --> 00:29:17.360
+qui va faire qu'il ne va plus
+
+710
+00:29:17.360 --> 00:29:19.100
+réagir donc même s'il est en contact
+
+711
+00:29:19.100 --> 00:29:21.240
+de cet antigène de cet allergène, il est
+
+712
+00:29:21.240 --> 00:29:26.940
+intact déchauffé, il ne touche pas maintenant lorsqu
+
+713
+00:29:26.940 --> 00:29:29.300
+'on parle excusez-moi juste pour déplacer ça
+
+714
+00:29:32.890 --> 00:29:36.490
+à l'activation il y a quelque chose
+
+715
+00:29:36.490 --> 00:29:39.270
+qui est fondamental qui va permettre d'assurer
+
+716
+00:29:39.270 --> 00:29:41.570
+cette activation c'est que cette activation elle
+
+717
+00:29:41.570 --> 00:29:45.170
+est sous la dépendance d'une cytokine fondamentale
+
+718
+00:29:45.170 --> 00:29:47.830
+dans l'activation, c'est la Ternokine 2
+
+719
+00:29:47.830 --> 00:29:50.950
+cette Ternokine 2 est produite par les lymphocytées
+
+720
+00:29:50.950 --> 00:29:53.370
+au corps d'activation au corps d'activation
+
+721
+00:29:53.370 --> 00:29:56.230
+que ce soit CD4 ou CD8 lorsqu'on
+
+722
+00:29:56.230 --> 00:30:04.260
+regarde par exemple une lymphocytée qui va s
+
+723
+00:30:04.260 --> 00:30:05.920
+'activer au contact d'un antigène qu'il
+
+724
+00:30:05.920 --> 00:30:08.020
+a reconnu via ce qu'on a dit
+
+725
+00:30:08.020 --> 00:30:11.880
+tout à l'heure un lymphocytée naïf au
+
+726
+00:30:11.880 --> 00:30:14.460
+repos qui était là donc une fois qu
+
+727
+00:30:14.460 --> 00:30:15.880
+'il va rencontrer un antigène il va commencer
+
+728
+00:30:15.880 --> 00:30:19.440
+son activation son activation va consister quoi ?
+
+729
+00:30:19.440 --> 00:30:23.360
+initialement à produire des cytokines la cytokine principalement
+
+730
+00:30:23.360 --> 00:30:26.400
+impliquée c'est la Ternokine 2 c'est
+
+731
+00:30:26.400 --> 00:30:28.860
+la Ternokine 2 qui a la particularité c
+
+732
+00:30:28.860 --> 00:30:30.320
+'est qu'en même temps elle est produite
+
+733
+00:30:30.320 --> 00:30:32.280
+par la cellule elle va retourner pour agir
+
+734
+00:30:32.280 --> 00:30:33.380
+sur la même cellule ce qu'il a
+
+735
+00:30:33.380 --> 00:30:36.320
+produit il aura ce qu'on appelle un
+
+736
+00:30:36.320 --> 00:30:38.360
+mode d'action autocrine donc il a un
+
+737
+00:30:38.360 --> 00:30:41.320
+mode d'action autocrine sur le lymphocytée il
+
+738
+00:30:41.320 --> 00:30:42.940
+a tout simplement besoin à ce que le
+
+739
+00:30:42.940 --> 00:30:46.720
+lymphocytée lui donne un récepteur un récepteur qui
+
+740
+00:30:46.720 --> 00:30:48.880
+s'appelle le CD25 là aussi je reviens
+
+741
+00:30:48.880 --> 00:30:51.080
+pour faire le lien avec les marqueurs des
+
+742
+00:30:51.080 --> 00:30:54.220
+lymphocytées il y a le CD28, le CD25
+
+743
+00:30:54.220 --> 00:30:57.040
+ce sont des marqueurs d'activation lorsque l
+
+744
+00:30:57.040 --> 00:31:00.020
+'lymphocytée entame son activation il va faire exprimer
+
+745
+00:31:00.020 --> 00:31:02.540
+à sa surface le récepteur de la Ternokine
+
+746
+00:31:02.540 --> 00:31:05.120
+2 qu'on appelle le CD25 après quoi
+
+747
+00:31:05.120 --> 00:31:07.420
+on aura ensuite l'activation qui va consister
+
+748
+00:31:07.420 --> 00:31:12.360
+à la différenciation à l'expansion clonale que
+
+749
+00:31:12.360 --> 00:31:13.480
+je viens d'expliquer tout à l'heure
+
+750
+00:31:13.480 --> 00:31:15.640
+à la transformation de la flume élastique pour
+
+751
+00:31:15.640 --> 00:31:18.260
+aboutir à plusieurs cellulophiles et également à des
+
+752
+00:31:18.260 --> 00:31:20.960
+cellules effectrices avec ça bien évidemment des cellules
+
+753
+00:31:20.960 --> 00:31:22.980
+mémoires qui vont être générées mais ça on
+
+754
+00:31:22.980 --> 00:31:25.000
+va en parler après voilà un petit peu
+
+755
+00:31:25.000 --> 00:31:28.160
+les modalités d'activation d'un lymphocyte on
+
+756
+00:31:28.160 --> 00:31:31.160
+peut extrapoler pour parler du lymphocyte B mais
+
+757
+00:31:31.160 --> 00:31:32.720
+avec une différence parce que l'lymphocyte B
+
+758
+00:31:32.720 --> 00:31:34.640
+va générer des plasmocytes c'est un petit
+
+759
+00:31:34.640 --> 00:31:37.080
+peu différent mais bon on est sur la
+
+760
+00:31:37.080 --> 00:31:40.220
+même démarche qui va consister tout simplement à
+
+761
+00:31:40.220 --> 00:31:42.660
+bénéficier de l'action de certains cytokines qui
+
+762
+00:31:42.660 --> 00:31:44.880
+interviennent dans l'activation de ces lymphocytes pour
+
+763
+00:31:44.880 --> 00:31:49.260
+aboutir à des clones nature maintenant lorsqu'on
+
+764
+00:31:49.260 --> 00:31:51.560
+a parlé de cytokines c'est très important,
+
+765
+00:31:51.700 --> 00:31:53.160
+c'est des choses que vous devez connaître
+
+766
+00:31:53.160 --> 00:31:56.300
+il faut bien distinguer ce qu'on appelle
+
+767
+00:31:56.300 --> 00:31:59.620
+les profils cytokiniques alors lorsqu'on parle de
+
+768
+00:31:59.620 --> 00:32:05.220
+cytokines vous avez la cellule mère fondamentale ou
+
+769
+00:32:05.220 --> 00:32:08.100
+la importante qui produit les cytokines c'est
+
+770
+00:32:08.100 --> 00:32:09.580
+ce qu'on appelle le lymphocyte helper c
+
+771
+00:32:09.580 --> 00:32:11.940
+'est le gendarme un petit peu qui va
+
+772
+00:32:11.940 --> 00:32:16.220
+pouvoir en produisant un type de cytokines il
+
+773
+00:32:16.220 --> 00:32:19.340
+va orienter la réponse immunitaire vers une réponse
+
+774
+00:32:19.340 --> 00:32:23.920
+soit humorale, soit cellulaire, soit inflammatoire soit même
+
+775
+00:32:23.920 --> 00:32:27.060
+régulateur ou la régulatrice donc du coup on
+
+776
+00:32:27.060 --> 00:32:28.640
+va distinguer ce qu'on appelle les profils
+
+777
+00:32:28.640 --> 00:32:32.420
+Th0 Th helper 0 ça veut dire un
+
+778
+00:32:32.420 --> 00:32:35.460
+profil intermédiaire qui peut synthétiser les deux profils
+
+779
+00:32:35.460 --> 00:32:38.100
+Th1 et Th2 il est intermédiaire, il est
+
+780
+00:32:38.100 --> 00:32:40.600
+un peu neutre mais il y a les
+
+781
+00:32:40.600 --> 00:32:43.860
+deux dans un état d'équilibre on a
+
+782
+00:32:43.860 --> 00:32:47.180
+un profil qui est dit intermédiaire Th0 sinon
+
+783
+00:32:47.180 --> 00:32:49.960
+il y a en fonction du type de
+
+784
+00:32:49.960 --> 00:32:51.940
+cytokines que vont produire ces lymphocytes Th helper
+
+785
+00:32:51.940 --> 00:32:54.940
+on aura une orientation vers un Th1 Th2
+
+786
+00:32:54.940 --> 00:32:57.880
+ou bien Th17 ou bien un profil qu
+
+787
+00:32:57.880 --> 00:33:00.160
+'on appelle Th régulateur alors les lymphocytes Th
+
+788
+00:33:00.160 --> 00:33:01.040
+helper que j'ai dit tout à l
+
+789
+00:33:01.040 --> 00:33:04.220
+'heure c'est un profil intermédiaire transitoire après
+
+790
+00:33:04.220 --> 00:33:07.100
+quoi il va se différencier soit au profil
+
+791
+00:33:07.100 --> 00:33:11.760
+Th1 par définition un profil Th1 égal interférent
+
+792
+00:33:11.760 --> 00:33:16.960
+gamma L2 alors ces deux cytokines vont permettre
+
+793
+00:33:16.960 --> 00:33:20.600
+aux lymphocytes Th d'abord de faire maturer
+
+794
+00:33:20.600 --> 00:33:23.920
+les pré-CTL pour arriver à des lymphocytes
+
+795
+00:33:23.920 --> 00:33:27.000
+Th cytotoxiques il faut un état de pré
+
+796
+00:33:27.000 --> 00:33:31.060
+-CTL des cellules précurseurs des lymphocytes Th cytotoxiques
+
+797
+00:33:31.060 --> 00:33:32.680
+qui vont suivre l'action de l'interleukin
+
+798
+00:33:32.680 --> 00:33:35.380
+2 et de l'interférent gamma pour permettre
+
+799
+00:33:36.020 --> 00:33:39.300
+leur maturation en effecteur Deuxièmement à l'interférent
+
+800
+00:33:39.300 --> 00:33:41.360
+gamma il aura une action sur les macrophages
+
+801
+00:33:41.360 --> 00:33:43.640
+on est dans l'activation et la collaboration
+
+802
+00:33:44.120 --> 00:33:46.840
+parfois le lymphocytes Th va retourner chercher un
+
+803
+00:33:46.840 --> 00:33:49.140
+acteur de l'immunité née en l'occurrence
+
+804
+00:33:49.140 --> 00:33:52.060
+le macrophage via tout simplement l'interférent gamma
+
+805
+00:33:52.060 --> 00:33:54.200
+il va servir pour l'appeler et l
+
+806
+00:33:54.200 --> 00:33:56.680
+'impliquer dans la réponse immunitaire on aura donc
+
+807
+00:33:56.680 --> 00:34:00.360
+du coup une réponse cellulaire cytotoxique CTL ou
+
+808
+00:34:00.360 --> 00:34:03.160
+bien une réponse des persensibilités retardées qui impliquera
+
+809
+00:34:03.160 --> 00:34:06.720
+les lymphocytes Th et les macrophages et également
+
+810
+00:34:06.720 --> 00:34:09.219
+la réaction inflammatoire chronique qui va de paire
+
+811
+00:34:09.219 --> 00:34:12.880
+avec la réponse inflammatoire des persensibilités retardées ce
+
+812
+00:34:12.880 --> 00:34:15.580
+sont deux choses un petit peu qui sont
+
+813
+00:34:15.580 --> 00:34:18.360
+parallèles et qui sont souvent un mélangé ou
+
+814
+00:34:18.360 --> 00:34:20.580
+là mixé ou combiné dans le cas d
+
+815
+00:34:20.580 --> 00:34:22.820
+'une face à certains agents pathogènes maintenant je
+
+816
+00:34:22.820 --> 00:34:27.199
+prends l'exemple d'une infection mycobactérienne le
+
+817
+00:34:27.199 --> 00:34:30.480
+VK le bacille de la tuberculose on développe
+
+818
+00:34:30.480 --> 00:34:33.460
+une réponse des persensibilités retardées dans laquelle il
+
+819
+00:34:33.460 --> 00:34:35.139
+y a beaucoup d'inflammations chroniques parce que
+
+820
+00:34:35.139 --> 00:34:38.060
+le macrophage une fois activé il va générer
+
+821
+00:34:38.060 --> 00:34:40.820
+des cytotoxiques de l'inflammation et également il
+
+822
+00:34:40.820 --> 00:34:43.460
+va appeler et donc d'autres cellules de
+
+823
+00:34:43.460 --> 00:34:46.320
+l'inflammation à être appliquées dans cette réponse.
+
+824
+00:34:46.920 --> 00:34:49.500
+Deuxième profil aussi qui est très important et
+
+825
+00:34:49.500 --> 00:34:52.159
+impliqué dans beaucoup de choses le profil THLE
+
+826
+00:34:52.159 --> 00:34:55.239
+il comporte en particulier l'interleukin 4, l
+
+827
+00:34:55.239 --> 00:34:57.900
+'interleukin 5 l'interleukin 9 et l'interleukin
+
+828
+00:34:57.900 --> 00:35:00.020
+13 alors ces cytokines on va voir qu
+
+829
+00:35:00.020 --> 00:35:02.320
+'ils ont un par exemple l'interleukin 4
+
+830
+00:35:02.320 --> 00:35:04.240
+et l'interleukin 5 ils ont la mission
+
+831
+00:35:04.240 --> 00:35:07.420
+d'assurer la prolifération et la différenciation des
+
+832
+00:35:07.420 --> 00:35:11.900
+lymphocytes bioplasmosites Deuxièmement il y a ici l
+
+833
+00:35:11.900 --> 00:35:15.760
+'intérêt par exemple de l'interleukin 5 à
+
+834
+00:35:15.760 --> 00:35:19.380
+assurer la maturation des iosinophiles surtout l'interleukin
+
+835
+00:35:19.380 --> 00:35:22.180
+5 et également l'interleukin 4 participe à
+
+836
+00:35:22.180 --> 00:35:24.200
+la maturation des mastocytes basophiles, ça c'est
+
+837
+00:35:24.200 --> 00:35:27.300
+très important mais avec ça dans le cadre
+
+838
+00:35:27.300 --> 00:35:29.120
+de certaines maladies qu'on appelle l'allergie,
+
+839
+00:35:29.600 --> 00:35:32.440
+l'interleukin 9 l'interleukin 13 va participer
+
+840
+00:35:32.440 --> 00:35:37.120
+justement à la maturation justement de ces basophiles
+
+841
+00:35:37.120 --> 00:35:39.860
+et même des iosinophiles surtout des mastocytes basophiles
+
+842
+00:35:39.860 --> 00:35:42.020
+parce qu'ils sont très corrélés au phénomène
+
+843
+00:35:42.020 --> 00:35:44.760
+d'allergie l'interleukin 4 je vais pas
+
+844
+00:35:44.760 --> 00:35:45.420
+en...
+
+845
+00:35:45.420 --> 00:35:49.260
+l'interleukin 4 il est chargé aussi d
+
+846
+00:35:49.260 --> 00:35:52.320
+'assurer ce qu'on appelle la commutation isotypique
+
+847
+00:35:52.320 --> 00:35:54.560
+la commutation de classe donc je vais pas
+
+848
+00:35:54.560 --> 00:35:56.860
+rentrer dans le détail par rapport au rôle
+
+849
+00:35:56.860 --> 00:35:58.640
+de chacune de ces cytokines retenez que le
+
+850
+00:35:58.640 --> 00:36:02.440
+profil KH2 il a cette mission d'abord
+
+851
+00:36:02.440 --> 00:36:05.540
+de permettre la différenciation des lymphocytes B et
+
+852
+00:36:05.540 --> 00:36:08.780
+de permettre aussi la commutation isotypique mais également
+
+853
+00:36:08.780 --> 00:36:11.180
+de faire de collaborer avec les mastocytes basophiles
+
+854
+00:36:11.180 --> 00:36:13.240
+de les activer, de les stimuler avec ça
+
+855
+00:36:13.240 --> 00:36:15.780
+aussi les polynucléaires iosinophiles parce que les iosinophiles
+
+856
+00:36:15.780 --> 00:36:20.280
+interviennent aussi dans l'allergie mais également dans
+
+857
+00:36:20.280 --> 00:36:23.980
+les infections parasitaires vous avez donc les réactions
+
+858
+00:36:23.980 --> 00:36:27.340
+antiparasitaires il y a l'application des iosinophiles
+
+859
+00:36:27.340 --> 00:36:30.020
+mais il y a un rôle des cytokines
+
+860
+00:36:30.020 --> 00:36:33.460
+de type interleukin 5 et ce que je
+
+861
+00:36:33.460 --> 00:36:36.140
+viens de dire les mastocytes basophiles et iosinophiles
+
+862
+00:36:36.140 --> 00:36:37.520
+interviennent dans l'allergie voilà un petit peu
+
+863
+00:36:37.520 --> 00:36:40.040
+comment les cytokines de type THL ont un
+
+864
+00:36:40.040 --> 00:36:42.560
+rôle important dans les réponses immunitaires de façon
+
+865
+00:36:42.560 --> 00:36:45.100
+générale le troisième profil, on va dire le
+
+866
+00:36:45.100 --> 00:36:47.320
+quatrième vous avez ce qu'on appelle le
+
+867
+00:36:47.320 --> 00:36:51.320
+profil TH17 TH17 généralement c'est facile TH17,
+
+868
+00:36:51.460 --> 00:36:52.980
+l'interleukin 17, c'est très simple, vous
+
+869
+00:36:52.980 --> 00:36:54.240
+n'allez pas oublier avec ça il y
+
+870
+00:36:54.240 --> 00:36:55.080
+a d'autres cytokines que l'on va
+
+871
+00:36:55.080 --> 00:36:57.940
+découvrir après l'exemple ici l'interleukin 22,
+
+872
+00:36:58.160 --> 00:37:00.560
+il joue le même rôle que l'interleukin
+
+873
+00:37:00.560 --> 00:37:03.960
+17 il est surtout impliqué dans la réponse
+
+874
+00:37:03.960 --> 00:37:06.120
+dans les réactions inflammatoires et aussi de l
+
+875
+00:37:06.120 --> 00:37:08.320
+'auto-immunité, voilà un petit peu comment ces
+
+876
+00:37:08.320 --> 00:37:11.620
+différents cytokines sont quelque part, là, ils ont
+
+877
+00:37:11.620 --> 00:37:16.060
+des fonctions particulières plus impliquées dans la pathogénèse
+
+878
+00:37:16.060 --> 00:37:20.560
+de certaines maladies et puis donc à la
+
+879
+00:37:20.560 --> 00:37:23.040
+fin il faut toujours des régulateurs, on a
+
+880
+00:37:23.040 --> 00:37:24.920
+besoin de l'apocytère REG qu'on appelle
+
+881
+00:37:24.920 --> 00:37:28.340
+REG régulateur, ils sont caractérisés par la capacité
+
+882
+00:37:28.340 --> 00:37:30.920
+de produire l'interleukin 10 et le TGF
+
+883
+00:37:30.920 --> 00:37:35.600
+-beta trans transforming ground factor beta qui exerce
+
+884
+00:37:35.600 --> 00:37:39.520
+une action une action inhibitrice ou suppressive pour
+
+885
+00:37:39.520 --> 00:37:43.220
+réguler et garder cette balance cytokine, généralement TH1,
+
+886
+00:37:43.300 --> 00:37:44.660
+TH2 il y a une sorte de balance
+
+887
+00:37:44.660 --> 00:37:46.600
+qui doit être maintenue en équilibre s'il
+
+888
+00:37:46.600 --> 00:37:48.660
+y a un état de maladie donc on
+
+889
+00:37:48.660 --> 00:37:50.700
+va avoir une balance quelque part qui est
+
+890
+00:37:50.700 --> 00:37:51.900
+proche vers un côté ou de l'autre
+
+891
+00:37:51.900 --> 00:37:55.740
+donc ces cytokines régulateurs, c'est l'apocytère
+
+892
+00:37:55.740 --> 00:37:57.720
+régulateur mais ils jouent un rôle de maintien
+
+893
+00:37:57.720 --> 00:38:00.120
+de l'équilibre dans la mesure du possible
+
+894
+00:38:00.120 --> 00:38:00.740
+s'il n'y a pas d'autre
+
+895
+00:38:00.740 --> 00:38:04.040
+facteur qui va accentuer justement ce déséquilibre Voilà
+
+896
+00:38:04.040 --> 00:38:08.020
+les cytokines, comment se différencier, on les glace
+
+897
+00:38:08.020 --> 00:38:10.600
+mais il faut savoir aussi comment elles agissent,
+
+898
+00:38:10.980 --> 00:38:13.100
+leurs modes d'action c'est très facile
+
+899
+00:38:13.100 --> 00:38:16.740
+à retenir soit un mode d'action autocrine,
+
+900
+00:38:16.840 --> 00:38:19.720
+vous avez bien compris l'interleukin 2 représente
+
+901
+00:38:20.860 --> 00:38:24.280
+le modèle le prototype de cytokines qui a
+
+902
+00:38:24.280 --> 00:38:27.600
+une action autocrine, c'est à dire tout
+
+903
+00:38:27.600 --> 00:38:29.480
+simplement il est produit par une cellule, le
+
+904
+00:38:29.480 --> 00:38:31.140
+retour on va agir sur la même cellule
+
+905
+00:38:31.140 --> 00:38:34.020
+qui l'a produit d'abord ce qu
+
+906
+00:38:34.020 --> 00:38:38.800
+'on appelle le mode activateur autocrine Deuxièmement, vous
+
+907
+00:38:38.800 --> 00:38:40.520
+avez ce qu'on appelle l'action paracrine,
+
+908
+00:38:40.680 --> 00:38:43.480
+une cellule produit une cytokine, cette cytokine va
+
+909
+00:38:43.480 --> 00:38:45.700
+aller agir sur une cellule voisine, l'apocytère
+
+910
+00:38:45.700 --> 00:38:47.320
+vis-à-vis de l'apocytère B ou
+
+911
+00:38:47.320 --> 00:38:49.420
+bien l'apocytère vis-à-vis du macrophage
+
+912
+00:38:49.860 --> 00:38:52.020
+Vous avez donc une action sur une cellule
+
+913
+00:38:52.020 --> 00:38:53.260
+vis-à-vis du voisinage, comme ça peut
+
+914
+00:38:53.260 --> 00:38:55.060
+être également une action qui est bien à
+
+915
+00:38:55.060 --> 00:38:58.040
+distance on l'appelle une action endocrine Vous
+
+916
+00:38:58.040 --> 00:39:00.340
+avez donc des cytokines produites qui vont voyager
+
+917
+00:39:00.340 --> 00:39:02.620
+à travers un vaisseau sanguin pour aller chercher
+
+918
+00:39:02.620 --> 00:39:04.920
+un récepteur qui va leur permettre d'agir
+
+919
+00:39:04.920 --> 00:39:06.960
+sur une cellule sur un tissu, je peux
+
+920
+00:39:06.960 --> 00:39:09.980
+imaginer par exemple une cytokine produite au niveau
+
+921
+00:39:09.980 --> 00:39:12.520
+sanguin, au niveau d'un gorgelion lymphatique, qui
+
+922
+00:39:12.520 --> 00:39:15.520
+va voyager chercher par exemple, agir au niveau
+
+923
+00:39:15.520 --> 00:39:16.680
+de la terre où il est donné, au
+
+924
+00:39:16.680 --> 00:39:20.480
+niveau du foie etc, vous avez donc soi
+
+925
+00:39:20.480 --> 00:39:22.620
+-disant en tout cas, il a besoin tout
+
+926
+00:39:22.620 --> 00:39:24.740
+simplement d'un ligon qui va leur permettre
+
+927
+00:39:24.740 --> 00:39:28.100
+de se fixer sur une cellule ou un
+
+928
+00:39:28.100 --> 00:39:31.640
+tissu pour assurer sa fonction Voilà un peu
+
+929
+00:39:31.640 --> 00:39:35.840
+par rapport à la à l'activation au
+
+930
+00:39:35.840 --> 00:39:38.020
+rôle de cytokine Je vais rappeler quelque chose
+
+931
+00:39:38.020 --> 00:39:40.580
+que j'avais décrit lorsqu'on avait abordé
+
+932
+00:39:40.580 --> 00:39:44.960
+les immunoglobulines lorsque l'apocytère B a besoin
+
+933
+00:39:44.960 --> 00:39:47.800
+de coopérer avec l'apocytère T pour surtout
+
+934
+00:39:47.800 --> 00:39:50.960
+face à l'antigène timodépendant etc, il a
+
+935
+00:39:50.960 --> 00:39:53.240
+besoin de coopérer avec l'apocytère T Alors
+
+936
+00:39:53.240 --> 00:39:56.320
+pour collaborer avec l'apocytère T l'apocytère
+
+937
+00:39:56.320 --> 00:39:58.140
+B, bien évidemment il faut lui présenter l
+
+938
+00:39:58.140 --> 00:40:00.380
+'antigène il va utiliser le système H classe
+
+939
+00:40:00.380 --> 00:40:04.600
+1 surtout classe 2 parce que l'apocytère
+
+940
+00:40:04.600 --> 00:40:06.960
+B se comporte comme un professionnel de présentation
+
+941
+00:40:06.960 --> 00:40:09.640
+d'antigène mais il a besoin également pour
+
+942
+00:40:09.640 --> 00:40:11.120
+s'activer, il a besoin d'un ce
+
+943
+00:40:11.120 --> 00:40:12.640
+qu'on appelle un deuxième signal le deuxième
+
+944
+00:40:12.640 --> 00:40:15.560
+signal ici, c'est pas le CD8086 c
+
+945
+00:40:15.560 --> 00:40:21.660
+'est plutôt le CD4040 ligand le signal CD8086
+
+946
+00:40:21.660 --> 00:40:26.220
+bien évidemment il est opérationnel mais l'application
+
+947
+00:40:26.220 --> 00:40:28.360
+de l'élhade, le couple de molécules CD40
+
+948
+00:40:28.360 --> 00:40:31.400
+exprimé par l'apocytère B et le CD40
+
+949
+00:40:31.400 --> 00:40:34.200
+ligand exprimé par l'apocytère T va favoriser
+
+950
+00:40:34.200 --> 00:40:36.900
+ce qu'on appelle la commutation de classe
+
+951
+00:40:36.900 --> 00:40:39.680
+également en parallèle ce qu'on appelle les
+
+952
+00:40:39.680 --> 00:40:43.800
+mutations somatiques si par exemple l'apocytère B
+
+953
+00:40:43.800 --> 00:40:47.520
+arrive tout seul à produire des IgM mais
+
+954
+00:40:47.520 --> 00:40:50.000
+s'il veut produire des IgG des IgA,
+
+955
+00:40:50.100 --> 00:40:52.260
+des IgE il faut absolument que l'apocytère
+
+956
+00:40:52.260 --> 00:40:56.140
+intervienne via ce deuxième signal qui va permettre
+
+957
+00:40:56.140 --> 00:40:59.100
+tout simplement de transformer la chaîne lourde ce
+
+958
+00:40:59.100 --> 00:41:00.720
+que vous voyez ici en rouge elle va
+
+959
+00:41:00.720 --> 00:41:03.080
+transformer la chaîne lourde de l'IgM en
+
+960
+00:41:03.080 --> 00:41:06.560
+chaîne lourde gamma, alpha et epsilon pour pouvoir
+
+961
+00:41:06.560 --> 00:41:09.140
+produire des IgG, des IgA et des IgE
+
+962
+00:41:09.140 --> 00:41:11.940
+voilà le premier rôle voilà l'intérêt de
+
+963
+00:41:11.940 --> 00:41:13.760
+cette collaboration entre l'apocytère T et l
+
+964
+00:41:13.760 --> 00:41:16.060
+'apocytère B avec ça, bien évidemment, au premier
+
+965
+00:41:16.060 --> 00:41:18.200
+contact avec l'antigène de l'apocytère B
+
+966
+00:41:18.200 --> 00:41:21.580
+ou l'aminoglobuline a une faible affinité mais
+
+967
+00:41:22.400 --> 00:41:26.120
+lorsque ce même antigène revient au contact de
+
+968
+00:41:26.120 --> 00:41:29.240
+l'apocytère B de ces immunoglobulines ces immunoglobulines
+
+969
+00:41:29.240 --> 00:41:31.540
+doivent subir ce qu'on appelle une maturation
+
+970
+00:41:31.540 --> 00:41:33.420
+d'affinité vis-à-vis de cet antigène
+
+971
+00:41:33.420 --> 00:41:35.940
+et pour le faire ils doivent opérer des
+
+972
+00:41:35.940 --> 00:41:38.860
+changements des modifications au niveau de cette région
+
+973
+00:41:38.860 --> 00:41:42.580
+épervariable on a des régions épervariables CDR1, CDR2,
+
+974
+00:41:42.700 --> 00:41:45.120
+CDR3 ici, à travers ce qu'on appelle
+
+975
+00:41:45.120 --> 00:41:48.600
+les épurmutations ou les mutations somatiques qui consistent
+
+976
+00:41:48.600 --> 00:41:52.000
+tout simplement à induire des modifications des séquences
+
+977
+00:41:52.000 --> 00:41:57.000
+nucleotidiques des acides amines qui vont changer, se
+
+978
+00:41:57.000 --> 00:42:00.000
+faire purmuter pour améliorer l'affinité de ces
+
+979
+00:42:00.000 --> 00:42:01.860
+immunoglobulines vis-à-vis de l'antigène voilà
+
+980
+00:42:01.860 --> 00:42:04.540
+un petit peu le rôle capital et fondamental
+
+981
+00:42:04.540 --> 00:42:08.900
+de cette collaboration de l'apocytère B alors,
+
+982
+00:42:09.620 --> 00:42:11.600
+lorsqu'on parle justement du rôle de l
+
+983
+00:42:11.600 --> 00:42:14.180
+'apocytère vous allez voir, sans mieux regarder le
+
+984
+00:42:14.180 --> 00:42:19.540
+texte ici vous reconnaissez un centre germinatif ici,
+
+985
+00:42:19.680 --> 00:42:22.180
+à ce niveau là un centre germinatif, généralement
+
+986
+00:42:22.180 --> 00:42:25.180
+on peut le subdiviser en trois composantes une
+
+987
+00:42:25.180 --> 00:42:28.260
+composante, une partie qu'on appelle une zone
+
+988
+00:42:28.260 --> 00:42:32.120
+sombre qui contient essentiellement des zones troglastes une
+
+989
+00:42:32.120 --> 00:42:34.800
+zone centrale qu'on appelle zone claire où
+
+990
+00:42:34.800 --> 00:42:37.780
+il y a essentiellement des centrocytes et puis
+
+991
+00:42:37.780 --> 00:42:40.260
+vous avez à la fin, une zone dite
+
+992
+00:42:40.260 --> 00:42:43.000
+manteau-lamonchon qui est très riche en petits
+
+993
+00:42:43.000 --> 00:42:45.960
+lymphocytes et plasmocytes ça veut dire quoi ?
+
+994
+00:42:45.960 --> 00:42:49.160
+une fois que ce lymphocyte B naïf a
+
+995
+00:42:49.160 --> 00:42:51.780
+détecté l'antigène qu'il doit montrer l
+
+996
+00:42:51.780 --> 00:42:56.080
+'apocyté donc il a déjà donc il va
+
+997
+00:42:56.080 --> 00:42:59.140
+commencer un cycle de multiplication et de prolifération
+
+998
+00:42:59.140 --> 00:43:02.180
+qui lui est propre on va distinguer à
+
+999
+00:43:02.180 --> 00:43:04.540
+ce niveau là beaucoup de multiplication il va
+
+1000
+00:43:04.540 --> 00:43:07.400
+se transformer en centre troglaste après il va
+
+1001
+00:43:07.400 --> 00:43:11.220
+entamer deux phénomènes deux processus un, la commutation
+
+1002
+00:43:11.220 --> 00:43:14.880
+de classe grâce à l'intervention des lymphocytes
+
+1003
+00:43:14.880 --> 00:43:16.600
+ce que vous voyez ici en même temps
+
+1004
+00:43:16.600 --> 00:43:17.960
+il y a la maturation d'affinité qui
+
+1005
+00:43:17.960 --> 00:43:20.900
+commence bien avant il commence à améliorer sa
+
+1006
+00:43:20.900 --> 00:43:22.940
+manière de voir et de reconnaître l'antigène
+
+1007
+00:43:22.940 --> 00:43:26.060
+pour pouvoir le reconnaître de façon très efficace
+
+1008
+00:43:26.060 --> 00:43:28.040
+une deuxième fois lorsqu'il va être en
+
+1009
+00:43:28.040 --> 00:43:30.340
+contact avec et en même temps il va
+
+1010
+00:43:30.340 --> 00:43:32.160
+amorcer ce qu'on appelle, parce qu'il
+
+1011
+00:43:32.160 --> 00:43:34.740
+va produire des IgM et il aura aussi
+
+1012
+00:43:34.740 --> 00:43:37.160
+besoin de produire les IgG donc il va
+
+1013
+00:43:37.160 --> 00:43:40.940
+subir la commutation de classe au switching après
+
+1014
+00:43:40.940 --> 00:43:43.440
+quoi il va se transformer en plasmocyte avec
+
+1015
+00:43:43.440 --> 00:43:45.480
+les cellules mémoires voilà un petit peu le
+
+1016
+00:43:45.480 --> 00:43:49.700
+centre germinatif c'est très petit mais ce
+
+1017
+00:43:49.700 --> 00:43:52.680
+qui se passe comme étape ou comme processus
+
+1018
+00:43:53.200 --> 00:43:55.580
+au niveau de ce centre germinatif c'est
+
+1019
+00:43:55.580 --> 00:43:58.100
+important pour revenir sur le texte vous avez
+
+1020
+00:43:58.100 --> 00:44:00.960
+ici ce centre germinatif par définition un centre
+
+1021
+00:44:00.960 --> 00:44:03.600
+germinatif c'est la transformation d'un follicule
+
+1022
+00:44:03.600 --> 00:44:06.640
+primaire en follicule secondaire un follicule primaire c
+
+1023
+00:44:06.640 --> 00:44:08.540
+'est un vestige dans lequel il y a
+
+1024
+00:44:08.540 --> 00:44:11.080
+l'arrivée de l'infocyte B mature naïf
+
+1025
+00:44:11.080 --> 00:44:14.140
+qui a quitté l'amoureuseuse mature naïf, il
+
+1026
+00:44:14.140 --> 00:44:18.720
+va se localiser se positionner au niveau de
+
+1027
+00:44:18.720 --> 00:44:21.360
+ce follicule primaire il va commencer à se
+
+1028
+00:44:21.360 --> 00:44:23.540
+différencier pour former ce qu'on appelle le
+
+1029
+00:44:23.540 --> 00:44:29.280
+centre germinatif alors pour agir et assurer ce
+
+1030
+00:44:29.280 --> 00:44:31.080
+que je viens de décrire il va entamer
+
+1031
+00:44:31.080 --> 00:44:35.860
+des contacts, une collaboration avec la cellule dendritique
+
+1032
+00:44:35.860 --> 00:44:38.800
+à ce niveau là mais également avec les
+
+1033
+00:44:38.800 --> 00:44:41.520
+lymphocytesité, vous avez donc les deux phénomènes qui
+
+1034
+00:44:41.520 --> 00:44:45.140
+sont liés à la collaboration avec d'un
+
+1035
+00:44:45.140 --> 00:44:47.240
+côté les cellules dendritiques et d'un côté
+
+1036
+00:44:47.240 --> 00:44:50.560
+les lymphocytesité vous avez donc cette collaboration avec
+
+1037
+00:44:50.560 --> 00:44:52.820
+les cellules dendritiques va assurer la maturation d
+
+1038
+00:44:52.820 --> 00:44:55.780
+'infinité en même temps, la collaboration avec les
+
+1039
+00:44:55.780 --> 00:44:57.940
+lymphocytesité à ce niveau là, avec les deux
+
+1040
+00:44:57.940 --> 00:45:03.300
+on aura la commutation de classes pour produire
+
+1041
+00:45:03.300 --> 00:45:05.400
+les autres classes d'immunoglobuline, voilà un petit
+
+1042
+00:45:05.400 --> 00:45:09.860
+peu comment le centre germinatif est important pour
+
+1043
+00:45:10.700 --> 00:45:14.580
+le développement, la maturation du lymphocyte B pour
+
+1044
+00:45:14.580 --> 00:45:17.800
+permettre justement avec la maturation des anticorps mais
+
+1045
+00:45:17.800 --> 00:45:19.740
+il faut produire aussi des anticorps de différentes
+
+1046
+00:45:19.740 --> 00:45:21.700
+sortes de différentes classes et en même temps
+
+1047
+00:45:21.700 --> 00:45:24.780
+des anticorps qui ont une affinité élevée vis
+
+1048
+00:45:24.780 --> 00:45:26.600
+-à-vis de l'antigène voilà un petit
+
+1049
+00:45:26.600 --> 00:45:32.100
+peu Monsieur, la maturation d'affinité pour l
+
+1050
+00:45:32.100 --> 00:45:35.680
+'antigène se fait avant le contact avec les
+
+1051
+00:45:35.680 --> 00:45:37.400
+lymphocytesité ?
+
+1052
+00:45:37.400 --> 00:45:39.880
+Là, le contact avec les lymphocytesité, on a
+
+1053
+00:45:39.880 --> 00:45:45.720
+deux types, les lymphocytesité c'est une collaboration
+
+1054
+00:45:45.720 --> 00:45:48.920
+une initiation de la collaboration alors ici c
+
+1055
+00:45:48.920 --> 00:45:54.740
+'est un amorçage de l'activation du lymphocyte
+
+1056
+00:45:54.740 --> 00:45:58.140
+B pour commencer son cycle alors c'est
+
+1057
+00:45:58.140 --> 00:46:00.600
+l'étape 1 mais l'étape 2, la
+
+1058
+00:46:00.600 --> 00:46:02.880
+maturation d'affinité, c'est là où il
+
+1059
+00:46:02.880 --> 00:46:07.040
+aura vraiment lieu ici, d'un côté on
+
+1060
+00:46:07.040 --> 00:46:09.320
+a l'antigène, parce qu'ici on parle
+
+1061
+00:46:09.320 --> 00:46:11.980
+d'une zone qui est B où il
+
+1062
+00:46:11.980 --> 00:46:14.660
+y a généralement des antigènes timo-indépendants, mais
+
+1063
+00:46:14.660 --> 00:46:17.900
+lorsque par exemple le lymphocyte B juge qu
+
+1064
+00:46:17.900 --> 00:46:19.800
+'on croit qu'il a besoin de l
+
+1065
+00:46:19.800 --> 00:46:23.400
+'aide du lymphocytesité donc parce que l'antigène
+
+1066
+00:46:23.400 --> 00:46:26.560
+qui a été présenté impose une collaboration pour
+
+1067
+00:46:26.560 --> 00:46:28.440
+produire les autres classes, donc il va en
+
+1068
+00:46:28.440 --> 00:46:31.720
+même temps soi-disant solliciter le lymphocytesité donc
+
+1069
+00:46:31.720 --> 00:46:33.140
+c'est un deuxième contact un petit peu
+
+1070
+00:46:33.140 --> 00:46:36.220
+et cette fois-ci à viser qui a
+
+1071
+00:46:36.220 --> 00:46:40.980
+pour intérêt d'aider le lymphocytesité à produire
+
+1072
+00:46:40.980 --> 00:46:44.260
+les autres immunoglobulins et en même temps à
+
+1073
+00:46:44.260 --> 00:46:46.720
+maturer l'affinité il ne faut pas que
+
+1074
+00:46:46.720 --> 00:46:51.640
+vous soyez un petit peu nuancé ou que
+
+1075
+00:46:51.640 --> 00:46:54.020
+vous confondiez un petit peu le rôle ici
+
+1076
+00:46:54.020 --> 00:46:56.260
+pour l'amorçage, je peux par exemple ne
+
+1077
+00:46:56.260 --> 00:46:58.880
+pas parler de lymphocytesité ici donc l'antigène
+
+1078
+00:46:58.880 --> 00:47:01.360
+en tout cas est là mais c'est
+
+1079
+00:47:01.360 --> 00:47:06.340
+un amorçage qui permet de reprendre son cycle
+
+1080
+00:47:06.340 --> 00:47:09.760
+des multiplications, mais l'essentiel de la maturation
+
+1081
+00:47:09.760 --> 00:47:11.540
+de l'affinité et de la commutation de
+
+1082
+00:47:11.540 --> 00:47:13.040
+classe se fait à ce niveau-là, il
+
+1083
+00:47:13.040 --> 00:47:14.960
+va faire intervenir d'un côté le cellulose
+
+1084
+00:47:14.960 --> 00:47:17.580
+glycique comme un présentatrice d'antigène, en même
+
+1085
+00:47:17.580 --> 00:47:22.080
+temps lorsque le lymphocytes B juge que c
+
+1086
+00:47:22.080 --> 00:47:25.420
+'est indispensable de faire interrompre l'affinité pour
+
+1087
+00:47:25.420 --> 00:47:27.360
+justement assurer la maturation de l'affinité et
+
+1088
+00:47:27.360 --> 00:47:28.920
+la commutation de classe il va le faire
+
+1089
+00:47:28.920 --> 00:47:32.160
+systématiquement en collaborant avec le lymphocytesité c'est
+
+1090
+00:47:32.160 --> 00:47:33.500
+clair ?
+
+1091
+00:47:33.500 --> 00:47:37.440
+Monsieur, dans une réaction immunitaire qui est moins
+
+1092
+00:47:37.440 --> 00:47:39.640
+indépendante on ne peut synthétiser que des IgM
+
+1093
+00:47:40.820 --> 00:47:41.800
+moins indépendante ?
+
+1094
+00:47:41.800 --> 00:47:43.880
+oui, je suis d'accord avec vous il
+
+1095
+00:47:43.880 --> 00:47:45.840
+n'y a jamais avec le caractère exclusif
+
+1096
+00:47:46.800 --> 00:47:50.020
+d'abord un antigène moins indépendant c'est
+
+1097
+00:47:50.020 --> 00:47:52.900
+les IgM parce qu'il a été démontré
+
+1098
+00:47:52.900 --> 00:47:54.240
+après qu'il y a la possibilité de
+
+1099
+00:47:54.240 --> 00:47:59.400
+produire des IgG ce classe d'IgG, du
+
+1100
+00:47:59.400 --> 00:48:00.780
+type 2 mais c'est rare, il y
+
+1101
+00:48:00.780 --> 00:48:02.900
+a une petite quantité donc en tout cas
+
+1102
+00:48:03.440 --> 00:48:06.060
+un antigène moins indépendant, par définition il n
+
+1103
+00:48:06.060 --> 00:48:07.860
+'y a pas d'intervention de lymphocytesité ça
+
+1104
+00:48:07.860 --> 00:48:09.500
+veut dire dans ce cas là, lorsque j
+
+1105
+00:48:09.500 --> 00:48:11.860
+'ai présenté le phénomène, si je n'ai
+
+1106
+00:48:11.860 --> 00:48:13.620
+pas besoin, le lymphocytesité par exemple n'a
+
+1107
+00:48:13.620 --> 00:48:15.440
+pas besoin de l'aide de lymphocytesité il
+
+1108
+00:48:15.440 --> 00:48:17.900
+peut se libérer tout seul il est rentré
+
+1109
+00:48:17.900 --> 00:48:20.000
+en contact avec ce dendritique il a reconnu
+
+1110
+00:48:20.000 --> 00:48:23.300
+un antigène moins indépendant là il va produire
+
+1111
+00:48:23.700 --> 00:48:26.600
+un plasmocyte, il va se transformer en plasmocyte
+
+1112
+00:48:26.600 --> 00:48:31.660
+producteur d'IgM mais lorsque mais s'il
+
+1113
+00:48:31.660 --> 00:48:35.080
+juge comme quoi il faut absolument il est
+
+1114
+00:48:35.080 --> 00:48:37.360
+face à l'antigène moins indépendant, dans ce
+
+1115
+00:48:37.360 --> 00:48:38.320
+cas là il va demander l'aide de
+
+1116
+00:48:38.320 --> 00:48:42.280
+lymphocytesité Monsieur dans ce cas là on n
+
+1117
+00:48:42.280 --> 00:48:45.740
+'aura pas de mémoire immunitaire si les scénarios
+
+1118
+00:48:45.740 --> 00:48:48.760
+de mémoire sont toujours générés même s'il
+
+1119
+00:48:48.760 --> 00:48:50.840
+y a le lymphocytesité tout seul, là il
+
+1120
+00:48:50.840 --> 00:48:54.000
+y a toujours une reconnaissance spécifique il y
+
+1121
+00:48:54.000 --> 00:48:56.240
+aura des lymphocytesités bémémoires mais le problème c
+
+1122
+00:48:56.240 --> 00:48:59.860
+'est que les lymphocytesités bémémoires issues d'un
+
+1123
+00:48:59.860 --> 00:49:02.340
+antigène moins indépendant c'est très faible un,
+
+1124
+00:49:02.900 --> 00:49:05.900
+ils ne sont pas en quantité importante deuxièmement
+
+1125
+00:49:05.900 --> 00:49:08.300
+en qualité ça veut dire qu'ils ne
+
+1126
+00:49:08.300 --> 00:49:10.160
+durent pas longtemps et ils ne sont pas
+
+1127
+00:49:10.160 --> 00:49:13.060
+très efficaces c'est pourquoi lorsqu'on vaccine
+
+1128
+00:49:13.060 --> 00:49:15.960
+par un antigène moins indépendant comme le plomococ
+
+1129
+00:49:15.960 --> 00:49:18.980
+tout seul donc on a besoin de faire
+
+1130
+00:49:18.980 --> 00:49:20.960
+des rappels mais quand on a un vaccin
+
+1131
+00:49:20.960 --> 00:49:22.300
+pour lequel on a besoin de faire des
+
+1132
+00:49:22.300 --> 00:49:23.880
+rappels à chaque fois au bout de 2
+
+1133
+00:49:23.880 --> 00:49:25.180
+ans, de 5 ans, de 10 ans ça
+
+1134
+00:49:25.180 --> 00:49:27.940
+veut dire que la mémoire immunologique ne dure
+
+1135
+00:49:27.940 --> 00:49:29.700
+pas longtemps et par contre celle qui dure
+
+1136
+00:49:29.700 --> 00:49:32.240
+longtemps c'est celle qui implique les lymphocytesités
+
+1137
+00:49:32.240 --> 00:49:33.840
+bien, c'est clair ?
+
+1138
+00:49:36.050 --> 00:49:38.670
+bien, j'avance ?
+
+1139
+00:49:38.670 --> 00:49:43.490
+ok maintenant on va arriver sur la phase
+
+1140
+00:49:43.490 --> 00:49:45.690
+effectrice on va dépasser la dernière phase parce
+
+1141
+00:49:45.690 --> 00:49:46.910
+qu'il y a toujours la phase de
+
+1142
+00:49:46.910 --> 00:49:49.690
+régulation la phase effectrice qui est une phase
+
+1143
+00:49:49.690 --> 00:49:53.390
+humorale et une phase cellulaire c'est simple,
+
+1144
+00:49:53.570 --> 00:49:55.870
+ce sont les anticorps les anticorps ça veut
+
+1145
+00:49:55.870 --> 00:49:58.810
+dire vous connaissez leurs fonctions ils neutralisent, ils
+
+1146
+00:49:58.810 --> 00:50:02.490
+agglutinent, ils précipitent ils optionnisent, ils activent etc.
+
+1147
+00:50:02.670 --> 00:50:07.090
+maintenant ce qu'il faut reconnaître c'est
+
+1148
+00:50:07.090 --> 00:50:09.470
+que vous avez ici une réponse primaire et
+
+1149
+00:50:09.470 --> 00:50:12.590
+une réponse secondaire la réponse primaire par définition
+
+1150
+00:50:13.230 --> 00:50:16.810
+ce qui est caractéristique il est exclusivement de
+
+1151
+00:50:16.810 --> 00:50:19.390
+type IgM il n'y a que les
+
+1152
+00:50:19.390 --> 00:50:22.090
+IgM retenez bien que il n'y a
+
+1153
+00:50:22.090 --> 00:50:25.830
+jamais de réponse primaire sans IgM donc on
+
+1154
+00:50:25.830 --> 00:50:28.630
+commence à produire des IgM ce que vous
+
+1155
+00:50:28.630 --> 00:50:31.030
+voyez ici dans la figure la réponse secondaire
+
+1156
+00:50:31.030 --> 00:50:34.230
+car il y a quasiment les IgG mais
+
+1157
+00:50:34.230 --> 00:50:36.010
+avec d'autres classes aussi en fonction de
+
+1158
+00:50:36.010 --> 00:50:38.770
+la nature de l'antigène ou du pathogène
+
+1159
+00:50:38.770 --> 00:50:40.530
+si par exemple on est face à un
+
+1160
+00:50:40.530 --> 00:50:44.750
+parasite on peut choisir les IgA ou là
+
+1161
+00:50:44.750 --> 00:50:46.610
+on est dans un phénomène d'allergie on
+
+1162
+00:50:46.610 --> 00:50:48.710
+peut choisir de produire on doit produire des
+
+1163
+00:50:48.710 --> 00:50:51.230
+IgE en tout cas il y a très
+
+1164
+00:50:51.230 --> 00:50:55.610
+peu d'IgM ils vont quasiment disparaître ils
+
+1165
+00:50:55.610 --> 00:50:58.510
+gardent une petite quantité alors ici vous avez
+
+1166
+00:50:58.510 --> 00:51:01.370
+après le contact avec l'antigène initialement G0
+
+1167
+00:51:01.370 --> 00:51:04.290
+donc après à peu près 5 jours, 7
+
+1168
+00:51:04.290 --> 00:51:08.590
+jours on commence à produire les IgM de
+
+1169
+00:51:08.590 --> 00:51:11.390
+façon un petit peu très lente on va
+
+1170
+00:51:11.390 --> 00:51:13.950
+aboutir à une sorte de plateau et les
+
+1171
+00:51:13.950 --> 00:51:16.210
+IgM vont en tendance à partir de 15
+
+1172
+00:51:16.210 --> 00:51:19.130
+jours à diminuer pour à peu près disparaître
+
+1173
+00:51:19.130 --> 00:51:21.490
+on va dire mais à partir du 12e
+
+1174
+00:51:21.490 --> 00:51:25.330
+jour 10 jours, 12 jours on a quand
+
+1175
+00:51:25.330 --> 00:51:28.090
+même un début de production des IgG et
+
+1176
+00:51:28.090 --> 00:51:32.450
+les IgG sont beaucoup plus importants après une
+
+1177
+00:51:32.450 --> 00:51:34.270
+fois qu'il y a le même antigène,
+
+1178
+00:51:34.510 --> 00:51:38.630
+un rappel vaccinal va solliciter le système immunitaire,
+
+1179
+00:51:38.710 --> 00:51:40.650
+cette fois-ci rapidement il y a un
+
+1180
+00:51:40.650 --> 00:51:43.830
+plateau la phase d'ascension d'atteinte du
+
+1181
+00:51:43.830 --> 00:51:45.970
+plateau, il est rapide il est puissant avec
+
+1182
+00:51:45.970 --> 00:51:49.270
+une durée beaucoup plus importante c'est pourquoi
+
+1183
+00:51:49.270 --> 00:51:52.490
+si on veut tester quelqu'un qui est
+
+1184
+00:51:52.490 --> 00:51:55.890
+immunisé ou protégé, on cherche des IgG quelqu
+
+1185
+00:51:55.890 --> 00:51:58.530
+'un qui a une immunoprotection on a une
+
+1186
+00:51:58.530 --> 00:52:01.330
+protection immunologique contre le toxoplasmose, le ribulone, la
+
+1187
+00:52:01.330 --> 00:52:03.370
+Covid normalement il doit y avoir des IgG
+
+1188
+00:52:03.370 --> 00:52:05.390
+en quantité suffisante qui vont durer dans notre
+
+1189
+00:52:05.390 --> 00:52:07.550
+temps, ça peut être 5 ans, 10 ans
+
+1190
+00:52:07.550 --> 00:52:10.330
+mais ça dépendra de la nature de la
+
+1191
+00:52:10.330 --> 00:52:13.070
+bactérie ou de l'agent pathogène initialement voilà
+
+1192
+00:52:13.070 --> 00:52:15.130
+un petit peu comment cette phase effectrice elle
+
+1193
+00:52:15.130 --> 00:52:18.090
+évolue en phase primaire en réponse primaire, en
+
+1194
+00:52:18.090 --> 00:52:20.990
+réponse secondaire la réponse primaire essentiellement les IgM
+
+1195
+00:52:20.990 --> 00:52:24.550
+la réponse secondaire essentiellement les IgG, n'oubliez
+
+1196
+00:52:24.550 --> 00:52:27.330
+pas que en fonction de la nature de
+
+1197
+00:52:27.330 --> 00:52:29.170
+l'agent ou de l'antigène on peut
+
+1198
+00:52:29.170 --> 00:52:31.810
+avoir soit à la place de ces IgG
+
+1199
+00:52:31.810 --> 00:52:33.550
+que les IgA ou les IgE ou là
+
+1200
+00:52:33.550 --> 00:52:35.850
+on peut avoir des IgG et des IgA
+
+1201
+00:52:35.850 --> 00:52:37.690
+par exemple en tout cas les IgE c
+
+1202
+00:52:37.690 --> 00:52:43.150
+'est surtout de l'allergie la phase effectrice
+
+1203
+00:52:43.150 --> 00:52:44.890
+humorale maintenant qu'en est-il de la
+
+1204
+00:52:44.890 --> 00:52:48.010
+phase effectrice cellulaire d'abord on a dit
+
+1205
+00:52:48.010 --> 00:52:50.770
+qu'il y a une différenciation lorsqu'on
+
+1206
+00:52:50.770 --> 00:52:52.730
+a parlé de l'activation il faut après
+
+1207
+00:52:52.730 --> 00:52:56.310
+qu'on puisse différencier les CTL pour se
+
+1208
+00:52:56.310 --> 00:52:58.910
+différencier en CTL c'est à dire un
+
+1209
+00:52:58.910 --> 00:53:01.770
+acteur final il faut des pré CTL vous
+
+1210
+00:53:01.770 --> 00:53:03.390
+voyez ici sur la figure, vous avez un
+
+1211
+00:53:03.390 --> 00:53:05.850
+état de pré CTL alors pour aboutir à
+
+1212
+00:53:05.850 --> 00:53:09.470
+l'étape finale il faut d'abord la
+
+1213
+00:53:09.470 --> 00:53:12.330
+présentation de l'antigène, des molécules CMH etc,
+
+1214
+00:53:12.950 --> 00:53:14.750
+retenez bien je rappelle un petit peu d
+
+1215
+00:53:14.750 --> 00:53:19.250
+'aglorol qui polarise la réponse vers un bras
+
+1216
+00:53:19.250 --> 00:53:23.470
+cellulaire vous avez donc un profil ThA qui
+
+1217
+00:53:23.470 --> 00:53:29.770
+est caractérisé par les deux principales cytokines Th1
+
+1218
+00:53:29.770 --> 00:53:32.890
+et l'interférent gamma donc on a des
+
+1219
+00:53:32.890 --> 00:53:36.950
+cytokines qui vont favoriser justement la maturation des
+
+1220
+00:53:36.950 --> 00:53:41.330
+cytokines des molécules cytotoxiques au sein de les
+
+1221
+00:53:41.330 --> 00:53:44.670
+molécules cytotoxiques vous voyez ici les molécules cytotoxiques
+
+1222
+00:53:44.670 --> 00:53:47.810
+et également l'action de maturation sur les
+
+1223
+00:53:47.810 --> 00:53:50.070
+pré CTL pour devenir des CTL voilà un
+
+1224
+00:53:50.070 --> 00:53:52.830
+petit peu comment on est grâce à ces
+
+1225
+00:53:52.830 --> 00:53:54.930
+deux cytokines l'interleukin 2 et l'interférent
+
+1226
+00:53:54.930 --> 00:53:58.070
+gamma ils vont agir de façon synergique pour
+
+1227
+00:53:58.070 --> 00:54:00.530
+d'un côté la maturer ou faire apparaître
+
+1228
+00:54:00.530 --> 00:54:03.650
+des molécules cytotoxiques anthracytoplasmiques qui existent d'ailleurs
+
+1229
+00:54:03.650 --> 00:54:06.230
+sur les NK et donc pour devenir des
+
+1230
+00:54:06.230 --> 00:54:08.610
+CTL et puis vous avez également l'action
+
+1231
+00:54:08.610 --> 00:54:11.550
+de l'interférent gamma aussi et le rôle
+
+1232
+00:54:11.550 --> 00:54:13.030
+de l'interleukin 12 dont je viens de
+
+1233
+00:54:13.030 --> 00:54:15.190
+parler maintenant la réponse c'est l'organisme
+
+1234
+00:54:15.190 --> 00:54:19.190
+cytotoxique s'il veut soi-disant être efficace
+
+1235
+00:54:19.190 --> 00:54:22.830
+pour la concevoir on a d'un côté
+
+1236
+00:54:23.850 --> 00:54:27.010
+l'action dite de l'écrose qui est
+
+1237
+00:54:27.010 --> 00:54:30.270
+assurée par un aperfois un granzyme les granzymes
+
+1238
+00:54:30.270 --> 00:54:31.510
+ce sont deux types normalement, il y a
+
+1239
+00:54:31.510 --> 00:54:34.010
+un granzyme 1B bref, ils vont assurer ce
+
+1240
+00:54:34.010 --> 00:54:34.990
+qu'on appelle la l'écrose on a
+
+1241
+00:54:34.990 --> 00:54:38.510
+là le phénomène l'action exercée ou la
+
+1242
+00:54:38.510 --> 00:54:41.690
+partagée avec les cellules NK mais la molécule
+
+1243
+00:54:41.690 --> 00:54:44.870
+l'infocytose toxique, elle a en plus la
+
+1244
+00:54:44.870 --> 00:54:47.230
+capacité d'agir par apoptose c'est-à
+
+1245
+00:54:47.230 --> 00:54:48.210
+-dire qu'elle va utiliser ce qu'on
+
+1246
+00:54:48.210 --> 00:54:51.270
+appelle un couple de molécules qui sont impliquées
+
+1247
+00:54:51.270 --> 00:54:53.950
+dans l'apoptose, ce qu'on appelle phaslidone
+
+1248
+00:54:53.950 --> 00:54:58.470
+vous avez en grosso modo le CTL exerce
+
+1249
+00:54:58.470 --> 00:55:01.690
+une action de l'écrose en déversant par
+
+1250
+00:55:01.690 --> 00:55:05.710
+exocytose ces granulations cytotoxiques deuxièmement, il va permettre
+
+1251
+00:55:05.710 --> 00:55:09.510
+l'interaction du phaslidone phaslide exprimé par la
+
+1252
+00:55:09.510 --> 00:55:13.710
+cellule cible et phaslidone par l'infocytée cytotoxique
+
+1253
+00:55:14.350 --> 00:55:16.210
+je vais vous expliquer rapidement ce que c
+
+1254
+00:55:16.210 --> 00:55:19.330
+'est que l'apoptose, maintenant vous avez vu
+
+1255
+00:55:19.330 --> 00:55:23.370
+son importance d'ailleurs c'est pourquoi il
+
+1256
+00:55:23.370 --> 00:55:25.290
+faut distinguer l'apoptose de l'anécrose, parce
+
+1257
+00:55:25.290 --> 00:55:26.570
+qu'il y a des gens qui confondent
+
+1258
+00:55:26.570 --> 00:55:29.390
+un petit peu les deux notions l'apoptose
+
+1259
+00:55:29.390 --> 00:55:30.210
+c'est ce qu'on appelle la mort
+
+1260
+00:55:30.210 --> 00:55:33.170
+programmée ça veut dire qu'il y a
+
+1261
+00:55:33.170 --> 00:55:36.450
+un processus qui est bien élaboré qui va
+
+1262
+00:55:36.450 --> 00:55:42.050
+permettre justement de permettre à la cellule de
+
+1263
+00:55:42.050 --> 00:55:45.210
+mourir dans le calme, de façon très intelligente
+
+1264
+00:55:45.210 --> 00:55:48.490
+c'est un petit peu on peut arracher
+
+1265
+00:55:48.490 --> 00:55:50.570
+le ballon au jour par l'hors-jeu
+
+1266
+00:55:50.570 --> 00:55:51.990
+c'est un petit peu on va mettre
+
+1267
+00:55:51.990 --> 00:55:54.830
+la cellule hors-jeu en la privant de
+
+1268
+00:55:54.830 --> 00:55:57.070
+ce qu'on appelle l'essentiel de son
+
+1269
+00:55:57.070 --> 00:55:58.630
+mode de fonctionnement qui est le noyau s
+
+1270
+00:55:58.630 --> 00:55:59.750
+'il n'a pas de noyau, il va
+
+1271
+00:55:59.750 --> 00:56:03.450
+mourir de façon programmée alors pour mourir, on
+
+1272
+00:56:03.450 --> 00:56:05.810
+a pour tilleux et insuline dans le cadre
+
+1273
+00:56:05.810 --> 00:56:09.050
+de cette apoptose, regardez, insuline ici ce qu
+
+1274
+00:56:09.050 --> 00:56:13.730
+'on voit en bas insuline cible qui doit
+
+1275
+00:56:13.730 --> 00:56:17.270
+disparaître par apoptose pour disparaître qu'est-ce
+
+1276
+00:56:17.270 --> 00:56:17.750
+qu'il fait ?
+
+1277
+00:56:17.750 --> 00:56:19.690
+il fait tout simplement exprimer à sa surface
+
+1278
+00:56:19.690 --> 00:56:23.290
+de face donc il va faire apparaître à
+
+1279
+00:56:23.290 --> 00:56:25.650
+sa surface une molécule qu'on appelle face
+
+1280
+00:56:25.650 --> 00:56:28.490
+on l'appelle aussi cellule 95 alors un
+
+1281
+00:56:28.490 --> 00:56:31.830
+OCTL lorsqu'il détecte la présence d'une
+
+1282
+00:56:31.830 --> 00:56:34.890
+face sur une cellule cible, il comprend il
+
+1283
+00:56:34.890 --> 00:56:36.350
+intercepte le message qu'on croit cette cellule
+
+1284
+00:56:36.350 --> 00:56:39.010
+doit disparaître donc il va lui montrer un
+
+1285
+00:56:39.010 --> 00:56:41.570
+face-ligand donc il va exprimer aussi un
+
+1286
+00:56:41.570 --> 00:56:43.910
+ligand de face alors une fois que cette
+
+1287
+00:56:43.910 --> 00:56:46.030
+interaction de face-face-ligand a eu lieu,
+
+1288
+00:56:46.770 --> 00:56:49.170
+le face a la particularité d'être associé
+
+1289
+00:56:49.170 --> 00:56:51.910
+dans sa portion membranée cytoplasmique à ce qu
+
+1290
+00:56:51.910 --> 00:56:54.570
+'on appelle des domaines de mort FAD, ce
+
+1291
+00:56:54.570 --> 00:56:59.230
+sont des Date Domains Face Associated Date Domains
+
+1292
+00:56:59.230 --> 00:57:01.050
+ce sont des domaines de mort associés à
+
+1293
+00:57:01.050 --> 00:57:05.890
+la portion cytoplasmique membranée de face après vous
+
+1294
+00:57:05.890 --> 00:57:09.050
+avez à l'intérieur du cytoplasme deux enzymes
+
+1295
+00:57:09.050 --> 00:57:12.550
+deux pro-enzymes on va dire les activateurs
+
+1296
+00:57:12.550 --> 00:57:15.290
+d'enzymes qu'on appelle pro-caspase-8
+
+1297
+00:57:15.290 --> 00:57:19.310
+et pro-caspase-3 alors lorsque le FAD
+
+1298
+00:57:19.310 --> 00:57:22.550
+les domaines de mort vont initier l'activation
+
+1299
+00:57:22.550 --> 00:57:25.030
+de ces caspases, de ces pro-caspases ils
+
+1300
+00:57:25.030 --> 00:57:28.550
+vont permettre d'élaborer deux enzymes effectrices qu
+
+1301
+00:57:28.550 --> 00:57:31.030
+'on appelle caspase-1-8 et caspase-3
+
+1302
+00:57:31.030 --> 00:57:34.810
+ils sont là alors le rôle de ces
+
+1303
+00:57:34.810 --> 00:57:36.770
+caspases 3 et 8 qu'est-ce qu
+
+1304
+00:57:36.770 --> 00:57:37.630
+'ils vont faire ?
+
+1305
+00:57:37.630 --> 00:57:39.670
+ils vont venir chercher ce qu'on appelle
+
+1306
+00:57:39.670 --> 00:57:42.290
+un activateur du clivage de l'ADN qu
+
+1307
+00:57:42.290 --> 00:57:46.000
+'on appelle le CAD alors le CAD il
+
+1308
+00:57:46.000 --> 00:57:49.800
+est là mais il est gardé inhibé par
+
+1309
+00:57:49.800 --> 00:57:53.940
+un inhibiteur ICAD vous avez donc un activateur
+
+1310
+00:57:53.940 --> 00:57:57.920
+de l'ADN c'est à dire chargé
+
+1311
+00:57:57.920 --> 00:58:00.780
+après de casser l'ADN de le dissocier,
+
+1312
+00:58:01.080 --> 00:58:02.740
+il est à l'état normal inhibé par
+
+1313
+00:58:02.740 --> 00:58:05.140
+ICAD alors les caspases il faut activer, qu
+
+1314
+00:58:05.140 --> 00:58:05.700
+'est-ce qu'ils vont faire ?
+
+1315
+00:58:05.700 --> 00:58:08.500
+ils vont cliver le ICAD et du coup
+
+1316
+00:58:08.500 --> 00:58:13.600
+le CAD il sera libre les caspases clivent
+
+1317
+00:58:13.600 --> 00:58:16.540
+l'inhibiteur du CAD le CAD va se
+
+1318
+00:58:16.540 --> 00:58:19.760
+retrouver libre il va pouvoir intégrer le noyau
+
+1319
+00:58:19.760 --> 00:58:20.720
+qu'est-ce qu'il va faire ?
+
+1320
+00:58:20.720 --> 00:58:24.060
+il va tout simplement découper les acides nucléiques
+
+1321
+00:58:24.060 --> 00:58:26.000
+l'ADN il va découper donc vous imaginez
+
+1322
+00:58:26.000 --> 00:58:28.460
+que l'ADN coupé ça ne sert plus
+
+1323
+00:58:28.460 --> 00:58:30.600
+à rien l'acide en elle-même va
+
+1324
+00:58:30.600 --> 00:58:33.640
+tomber comme si quelqu'un avait dit qu
+
+1325
+00:58:33.640 --> 00:58:36.380
+'il ne pouvait plus marcher donc c'est
+
+1326
+00:58:36.380 --> 00:58:38.520
+un petit peu le mode, ce qu'on
+
+1327
+00:58:38.520 --> 00:58:42.080
+appelle très élaboré de la poptose qui est
+
+1328
+00:58:42.080 --> 00:58:45.640
+initié par les phosphacidants après il fait intervenir
+
+1329
+00:58:45.640 --> 00:58:48.040
+les caspases et ce qu'on appelle le
+
+1330
+00:58:48.040 --> 00:58:51.580
+CAD qui va pouvoir tuer la cellule lorsque
+
+1331
+00:58:51.580 --> 00:58:54.380
+la cellule est morte par mort programmée après
+
+1332
+00:58:54.380 --> 00:58:57.040
+désociation des acides nucléiques il va libérer des
+
+1333
+00:58:57.040 --> 00:59:00.600
+fragments apoptotiques j'ai bien insisté je veux
+
+1334
+00:59:00.600 --> 00:59:03.380
+dire l'échorapoptotique c'est tout simplement les
+
+1335
+00:59:03.380 --> 00:59:05.960
+débris issus de la mort programmée ou de
+
+1336
+00:59:05.960 --> 00:59:08.400
+la poptose lorsqu'on fait le lien avec
+
+1337
+00:59:08.400 --> 00:59:09.900
+le système de complément je vous ai dit,
+
+1338
+00:59:10.300 --> 00:59:12.340
+pour éliminer l'échorapoptotique on a besoin d
+
+1339
+00:59:12.340 --> 00:59:15.360
+'un fragment qui s'appelle le CINQ qui
+
+1340
+00:59:15.360 --> 00:59:18.860
+se chargera d'éliminer l'échorapoptotique faute de
+
+1341
+00:59:18.860 --> 00:59:20.940
+quoi, il y aura l'accumulation de l
+
+1342
+00:59:20.940 --> 00:59:23.720
+'échorapoptotique, ils exposent à la survolée de phénomènes
+
+1343
+00:59:23.720 --> 00:59:25.460
+d'auto-immunité c'est pourquoi l'absence
+
+1344
+00:59:25.460 --> 00:59:30.420
+génétique un déficit génétique au CINQ va entraîner
+
+1345
+00:59:30.420 --> 00:59:35.260
+parfois une maladie auto-immune alors on a
+
+1346
+00:59:35.260 --> 00:59:38.620
+dit que la réponse cellulaire se divise en
+
+1347
+00:59:38.620 --> 00:59:40.940
+deux branches on la comporte en deux volets
+
+1348
+00:59:40.940 --> 00:59:43.960
+un volet des cellulaires cytotoxiques qui est assuré
+
+1349
+00:59:43.960 --> 00:59:47.280
+par les lymphocytes cytotoxiques, le deuxième volet c
+
+1350
+00:59:47.280 --> 00:59:48.440
+'est ce qu'on appelle la réaction d
+
+1351
+00:59:48.440 --> 00:59:51.620
+'hypersensibilité retardée, c'est très simple le lymphocytique
+
+1352
+00:59:53.960 --> 00:59:57.400
+stimule l'invité à intervenir dans le cadre
+
+1353
+00:59:57.400 --> 01:00:00.440
+d'une réponse post-infectieuse liée à l
+
+1354
+01:00:00.440 --> 01:00:04.200
+'introduction dans l'organisme d'une mycobactérie par
+
+1355
+01:00:04.200 --> 01:00:07.360
+exemple ou d'un virus intracellulaire parfois des
+
+1356
+01:00:07.360 --> 01:00:13.360
+espèces virus etc vous avez ici ces mycobactéries
+
+1357
+01:00:13.360 --> 01:00:15.600
+l'exemple le plus concret c'est le
+
+1358
+01:00:15.600 --> 01:00:19.300
+mycobacterium tuberculosis lorsqu'il affecte un macrophage alvéolaire
+
+1359
+01:00:19.300 --> 01:00:21.260
+au niveau du poumon donc il va faire
+
+1360
+01:00:21.260 --> 01:00:23.780
+appel à l'lymphocytée l'lymphocytée donc il
+
+1361
+01:00:23.780 --> 01:00:27.080
+va synthétiser l'interféron gamma cet interféron gamma
+
+1362
+01:00:27.080 --> 01:00:30.100
+a un potentiel énorme d'activer le macrophage
+
+1363
+01:00:30.100 --> 01:00:32.960
+alors il va tout simplement activer le macrophage
+
+1364
+01:00:32.960 --> 01:00:35.620
+pour lui permettre d'être très actif et
+
+1365
+01:00:35.620 --> 01:00:39.020
+dynamique pour circonscrire le BK et l'empêcher
+
+1366
+01:00:39.020 --> 01:00:41.300
+de diffuser sinon, s'il y a un
+
+1367
+01:00:41.300 --> 01:00:44.820
+déficit de cette action du phagocyte du macrophage,
+
+1368
+01:00:45.220 --> 01:00:47.740
+le BK va aller au niveau des minages
+
+1369
+01:00:47.740 --> 01:00:51.980
+au niveau des systémiques etc pour entraîner une
+
+1370
+01:00:51.980 --> 01:00:54.840
+forme sévère et diffuse autrement dit, si le
+
+1371
+01:00:54.840 --> 01:00:57.740
+macrophage est très efficace il s'amplifie il
+
+1372
+01:00:57.740 --> 01:01:00.820
+devient une cellule géante il va former un
+
+1373
+01:01:00.820 --> 01:01:03.980
+granulon donc l'interféron gamma et d'autres
+
+1374
+01:01:03.980 --> 01:01:04.980
+cytokines il n'y a pas qu'un
+
+1375
+01:01:04.980 --> 01:01:06.500
+interféron gamma il y a un TGF bêta
+
+1376
+01:01:06.500 --> 01:01:11.920
+etc même le TNF aussi ils vont induire
+
+1377
+01:01:11.920 --> 01:01:13.320
+ce qu'on appelle un état d'inflammation
+
+1378
+01:01:13.320 --> 01:01:17.140
+chronique avec formation de granulons d'ailleurs lorsque
+
+1379
+01:01:17.140 --> 01:01:21.020
+vous allez passer en pathologie notamment en pathologie
+
+1380
+01:01:21.020 --> 01:01:24.940
+respiratoire ou l'anapathie on va vous parler,
+
+1381
+01:01:25.160 --> 01:01:27.640
+pour faire le diagnostic de la tuberculose, sur
+
+1382
+01:01:27.640 --> 01:01:31.440
+un ganglion on fait la biopsie on cherche
+
+1383
+01:01:31.440 --> 01:01:33.360
+s'il y a un granulon avec le
+
+1384
+01:01:33.360 --> 01:01:36.100
+granulon inflammatoire on va chercher ce qu'on
+
+1385
+01:01:36.100 --> 01:01:42.880
+appelle les cellules un infiltrat granulomateur gégonto-cellulaire
+
+1386
+01:01:42.880 --> 01:01:43.680
+c'est à dire que ce sont des
+
+1387
+01:01:43.680 --> 01:01:46.200
+macrophages qui deviennent géantes, ils s'amplifient sur
+
+1388
+01:01:46.200 --> 01:01:47.900
+l'action de cet interféron gamma qui est
+
+1389
+01:01:47.900 --> 01:01:51.260
+produit par l'aphocyte alpha donc vous allez
+
+1390
+01:01:51.260 --> 01:01:53.240
+faire un petit peu la différence entre les
+
+1391
+01:01:53.240 --> 01:01:56.740
+deux et l'intérêt de cet interféron gamma
+
+1392
+01:01:56.740 --> 01:02:00.180
+dans l'inflammation chronique et la réaction inflammatoire
+
+1393
+01:02:00.180 --> 01:02:04.180
+chronique et le granulon maintenant pour finir avec
+
+1394
+01:02:04.180 --> 01:02:06.220
+la réponse effectrice on a dit qu'il
+
+1395
+01:02:06.220 --> 01:02:10.100
+faut toujours générer des cellules mémoire alors les
+
+1396
+01:02:10.100 --> 01:02:14.440
+cellules mémoire à chaque fois qu'on est
+
+1397
+01:02:14.440 --> 01:02:17.680
+exposé à un antigène à une infection il
+
+1398
+01:02:17.680 --> 01:02:19.640
+y a l'application de l'aphocyte T
+
+1399
+01:02:19.640 --> 01:02:21.840
+l'aphocyte B, etc, on a des infecteurs
+
+1400
+01:02:21.840 --> 01:02:24.880
+on a des plasmocytes on a des SCTL,
+
+1401
+01:02:24.960 --> 01:02:29.520
+etc avec en parallèle de la production des
+
+1402
+01:02:29.520 --> 01:02:32.060
+anticorps et des lymphocytes isotoxiques il faut des
+
+1403
+01:02:32.060 --> 01:02:34.420
+lymphocytes T B mémoire c'est systématique lorsqu
+
+1404
+01:02:34.420 --> 01:02:36.660
+'on est face à un antigène qui est
+
+1405
+01:02:36.660 --> 01:02:39.020
+reconnu de façon spécifique alors il y a
+
+1406
+01:02:39.020 --> 01:02:40.400
+toujours une phase de latence ce qu'on
+
+1407
+01:02:40.400 --> 01:02:43.420
+appelle la fenêtre sérologique la réponse primaire qui
+
+1408
+01:02:43.420 --> 01:02:45.280
+est basée sur les IGM après il y
+
+1409
+01:02:45.280 --> 01:02:49.060
+a au deuxième contact il y a rapidement
+
+1410
+01:02:49.060 --> 01:02:51.920
+une réponse qui est très rapide et plus
+
+1411
+01:02:51.920 --> 01:02:54.500
+importante, elle est ample et donc parce que
+
+1412
+01:02:54.500 --> 01:02:55.900
+les cellules mémoire sont déjà là et ont
+
+1413
+01:02:55.900 --> 01:02:59.580
+été générées ils vont rapidement être soi-disant
+
+1414
+01:02:59.580 --> 01:03:05.160
+actifs et libérer les anticorps, etc ou bien
+
+1415
+01:03:05.160 --> 01:03:08.440
+les SCTL qui vont soi-disant s'occuper
+
+1416
+01:03:08.440 --> 01:03:10.660
+pour tuer l'agent pathogène qui revient pour
+
+1417
+01:03:10.660 --> 01:03:12.260
+la deuxième fois donc au cours de la
+
+1418
+01:03:12.260 --> 01:03:14.640
+réponse secondaire alors vous avez du coup, on
+
+1419
+01:03:14.640 --> 01:03:15.880
+peut distinguer ça c'est un petit peu
+
+1420
+01:03:15.880 --> 01:03:18.380
+philosophique on distingue généralement ce qu'on appelle
+
+1421
+01:03:18.380 --> 01:03:20.340
+la mémoire effectrée c'est la mémoire centrale
+
+1422
+01:03:21.140 --> 01:03:24.300
+c'est facile à concevoir la mémoire centrale
+
+1423
+01:03:24.300 --> 01:03:27.280
+ça veut dire l'antigène a été reconnu
+
+1424
+01:03:27.280 --> 01:03:30.160
+de façon spécifique par les différents récepteurs, on
+
+1425
+01:03:30.160 --> 01:03:32.540
+a généré on a capté le message comme
+
+1426
+01:03:32.540 --> 01:03:36.980
+les policiers pour la première fois sont face
+
+1427
+01:03:36.980 --> 01:03:39.260
+à un criminel alors la première fois qu
+
+1428
+01:03:39.260 --> 01:03:41.840
+'il a commis le crime alors en fonction
+
+1429
+01:03:41.840 --> 01:03:48.220
+des degrés on va le soi-disant le
+
+1430
+01:03:48.220 --> 01:03:52.240
+minoter on l'inscrit comme un fichier suspect
+
+1431
+01:03:52.240 --> 01:03:54.160
+dans le cadre des fichiers suspects donc il
+
+1432
+01:03:54.160 --> 01:03:58.160
+est identifié mais en fonction de la gravité
+
+1433
+01:03:58.160 --> 01:03:59.600
+de ce qu'il a commis on le
+
+1434
+01:03:59.600 --> 01:04:02.020
+lâche par exemple mais le message est transmis
+
+1435
+01:04:02.020 --> 01:04:05.200
+aux différents soi-disant soldats s'il s
+
+1436
+01:04:05.200 --> 01:04:07.300
+'agit par exemple d'un intrus au niveau
+
+1437
+01:04:07.300 --> 01:04:09.960
+des frontières, le message il est clair comme
+
+1438
+01:04:09.960 --> 01:04:11.740
+quoi la prochaine fois que ce drône, que
+
+1439
+01:04:11.740 --> 01:04:13.860
+ce criminel va venir rapidement on va tirer
+
+1440
+01:04:13.860 --> 01:04:16.000
+dessus on sait qu'il est dangereux parce
+
+1441
+01:04:16.000 --> 01:04:18.820
+que on a trouvé initialement un arbre il
+
+1442
+01:04:18.820 --> 01:04:21.560
+est dangereux, il est virulent donc le message
+
+1443
+01:04:21.560 --> 01:04:24.240
+il a déjà été une fois qu'on
+
+1444
+01:04:24.240 --> 01:04:26.160
+va appeler le central pour nous dire est
+
+1445
+01:04:26.160 --> 01:04:28.260
+-ce que ce monsieur il est connu chez
+
+1446
+01:04:28.260 --> 01:04:32.360
+vous, il est suspect fichier S donc ils
+
+1447
+01:04:32.360 --> 01:04:35.960
+auront du centre le message là-bas comme
+
+1448
+01:04:35.960 --> 01:04:39.280
+quoi il faut directement tirer dessus soit-disant
+
+1449
+01:04:39.280 --> 01:04:41.420
+agir en tout cas parce que la mémoire
+
+1450
+01:04:41.420 --> 01:04:44.760
+centrale elle a le message la mémoire effectrice
+
+1451
+01:04:44.760 --> 01:04:48.380
+ce sont les soldats de frontières les gens
+
+1452
+01:04:48.380 --> 01:04:51.080
+qui font la patrouille donc il suffit d
+
+1453
+01:04:51.080 --> 01:04:53.460
+'avoir le message central mais le message central
+
+1454
+01:04:53.460 --> 01:04:56.140
+il faut un premier contact qui soit capté
+
+1455
+01:04:56.140 --> 01:04:58.660
+c'est un petit peu la différence entre
+
+1456
+01:04:58.660 --> 01:05:01.220
+les effecteurs on va dire les cellules mémoires
+
+1457
+01:05:01.220 --> 01:05:07.260
+centrales et les cellules mémoires effectrices qui sont
+
+1458
+01:05:07.260 --> 01:05:12.420
+quelque part qui consistent à produire les anticorps
+
+1459
+01:05:12.420 --> 01:05:15.400
+ou bien les CTL au niveau du site
+
+1460
+01:05:15.400 --> 01:05:18.140
+de réintroduction de cet agent pathogène ou de
+
+1461
+01:05:18.140 --> 01:05:20.480
+l'antigène et d'ailleurs sur la base
+
+1462
+01:05:20.480 --> 01:05:25.240
+de cette mémoire immunologique la vaccination on induit
+
+1463
+01:05:25.240 --> 01:05:27.660
+un antigène vaccinal et il faut qu'on
+
+1464
+01:05:27.660 --> 01:05:30.520
+aille des cellules mémoires qui permettent justement à
+
+1465
+01:05:30.520 --> 01:05:31.720
+chaque fois qu'il y aura le retour
+
+1466
+01:05:31.720 --> 01:05:34.280
+de l'agent pathogène contre lequel on vaccine
+
+1467
+01:05:34.280 --> 01:05:37.320
+les armes sont toutes prêtes on a des
+
+1468
+01:05:37.320 --> 01:05:40.300
+anticorps, on a des plasmosites qui ont le
+
+1469
+01:05:40.300 --> 01:05:42.340
+message et comme ça ils vont agir rapidement
+
+1470
+01:05:42.340 --> 01:05:44.920
+sur l'agent avant qu'il pénètre dans
+
+1471
+01:05:44.920 --> 01:05:48.600
+l'organisme alors la dernière étape de la
+
+1472
+01:05:48.600 --> 01:05:50.400
+réponse immunitaire c'est la régulation je ne
+
+1473
+01:05:50.400 --> 01:05:52.280
+vais pas m'attarder là dessus il y
+
+1474
+01:05:52.280 --> 01:05:54.400
+a une chose, on va dire principalement vous
+
+1475
+01:05:54.400 --> 01:05:57.460
+avez soit un contrôle génétique exercé par ce
+
+1476
+01:05:57.460 --> 01:06:00.440
+qu'on appelle un gène IR qui régule
+
+1477
+01:06:00.440 --> 01:06:03.520
+la réponse immunitaire on peut avoir également des
+
+1478
+01:06:03.520 --> 01:06:06.120
+gènes on a un des gènes, soit disant
+
+1479
+01:06:06.120 --> 01:06:08.440
+qui régule la réponse immunitaire au niveau du
+
+1480
+01:06:08.440 --> 01:06:11.800
+transporteur de peptides au niveau du CMH classe
+
+1481
+01:06:11.800 --> 01:06:14.660
+1 il y a également ceux qui contrôlent
+
+1482
+01:06:14.660 --> 01:06:18.120
+la synthèse des molécules HLA classe 2 donc
+
+1483
+01:06:18.120 --> 01:06:22.020
+on peut arrêter le processus de réponse immunitaire
+
+1484
+01:06:22.020 --> 01:06:24.100
+en agissant sur les transporteurs de P on
+
+1485
+01:06:24.100 --> 01:06:27.280
+bloque la simulation des peptides antigéniques sur les
+
+1486
+01:06:27.280 --> 01:06:30.020
+molécules HLA donc on intervient bien évidemment de
+
+1487
+01:06:30.020 --> 01:06:33.560
+la présentation antigénique on peut contrôler les anticorps
+
+1488
+01:06:33.560 --> 01:06:37.840
+soit de façon ésotypique soit disant l'immunoglobuline
+
+1489
+01:06:37.840 --> 01:06:42.820
+qui comme effecteur a assuré sa fonction va
+
+1490
+01:06:42.820 --> 01:06:46.280
+suivre le catabolisme par le domaine CH2 de
+
+1491
+01:06:46.280 --> 01:06:49.380
+la région constante également on peut inhiber l
+
+1492
+01:06:49.380 --> 01:06:51.180
+'activation de la foci de P par des
+
+1493
+01:06:51.180 --> 01:06:53.600
+motifs ITIM ce qu'on appelle, on l
+
+1494
+01:06:53.600 --> 01:07:00.860
+'a qui sont associés à un récepteur FC
+
+1495
+01:07:00.860 --> 01:07:02.960
+de la foci de B qui sont associés
+
+1496
+01:07:02.960 --> 01:07:05.340
+au BCR vous avez donc la deuxième modalité
+
+1497
+01:07:06.000 --> 01:07:08.620
+du contrôle de production des anticorps comme on
+
+1498
+01:07:08.620 --> 01:07:11.980
+peut également contrôler soit disant les lymphocytes vous
+
+1499
+01:07:11.980 --> 01:07:14.060
+avez au niveau des anticorps ce qu'on
+
+1500
+01:07:14.060 --> 01:07:17.700
+appelle un contrôle idiotypique je ne vais pas
+
+1501
+01:07:17.700 --> 01:07:18.980
+rentrer dans le détail parce que je vais
+
+1502
+01:07:18.980 --> 01:07:20.840
+revenir à l'idiotypie lorsque l'on va
+
+1503
+01:07:20.840 --> 01:07:24.360
+aborder l'auteur immunitaire 4ème année ce qu
+
+1504
+01:07:24.360 --> 01:07:25.880
+'on appelle le réseau idiotypique qui a son
+
+1505
+01:07:25.880 --> 01:07:28.960
+rôle dans la régulation l'inhibition de certains
+
+1506
+01:07:28.960 --> 01:07:34.240
+autres anticorps généralement on peut inhiber les anticorps
+
+1507
+01:07:34.240 --> 01:07:37.640
+de façon en cascade ça c'est ce
+
+1508
+01:07:37.640 --> 01:07:39.760
+qu'on appelle le contrôle idiotypique vous avez
+
+1509
+01:07:39.760 --> 01:07:42.360
+donc ce qui est lié à la régulation
+
+1510
+01:07:42.360 --> 01:07:45.740
+de l'infusivité par exemple on peut arrêter
+
+1511
+01:07:45.740 --> 01:07:49.600
+la production des cytokines ou bien par exemple
+
+1512
+01:07:49.600 --> 01:07:50.720
+s'il y a une prédominance d'un
+
+1513
+01:07:50.720 --> 01:07:52.760
+profil de cytokine CH2, on les inhibe par
+
+1514
+01:07:52.760 --> 01:07:55.160
+un TH1 et inversement, vous avez une sorte
+
+1515
+01:07:55.160 --> 01:07:58.540
+d'antagonisme cytokinique qui exerce entre d'un
+
+1516
+01:07:58.540 --> 01:08:00.340
+côté l'interferogamma et de l'autre côté
+
+1517
+01:08:00.340 --> 01:08:04.720
+l'interleukine 4 il y a un antagonisme
+
+1518
+01:08:04.720 --> 01:08:07.000
+mutuel entre les deux types de cytokines parce
+
+1519
+01:08:07.000 --> 01:08:10.740
+que l'une appartient au profil TH1, l
+
+1520
+01:08:10.740 --> 01:08:14.300
+'autre appartient au profil TH2 pour l'interleukine
+
+1521
+01:08:14.300 --> 01:08:18.180
+4 et puis vous avez également les régulateurs
+
+1522
+01:08:18.180 --> 01:08:21.520
+à savoir les TREG également ce qu'on
+
+1523
+01:08:21.520 --> 01:08:24.680
+appelle les CTLA4 je vais en reparler au
+
+1524
+01:08:24.680 --> 01:08:26.359
+4ème c'est ce qu'on appelle pour
+
+1525
+01:08:26.359 --> 01:08:28.620
+induire l'énergie dans l'infusivité CT4 auto
+
+1526
+01:08:28.620 --> 01:08:31.399
+-réactif donc il suffit d'aller bloquer le
+
+1527
+01:08:31.399 --> 01:08:35.540
+CD28, le deuxième signal par un inhibiteur compétitif
+
+1528
+01:08:35.540 --> 01:08:37.979
+avec ce CD28 qu'on appelle CTLA4 des
+
+1529
+01:08:37.979 --> 01:08:41.819
+informations comme ça en flash je vous les
+
+1530
+01:08:41.819 --> 01:08:45.100
+enregistre je ne poserai pas des questions sur
+
+1531
+01:08:45.100 --> 01:08:46.620
+la régulation, je sais que c'est un
+
+1532
+01:08:46.620 --> 01:08:50.420
+peu très élaboré spécialisé, mais en tout cas
+
+1533
+01:08:50.420 --> 01:08:53.180
+vous avez au moins une idée sur le
+
+1534
+01:08:53.180 --> 01:08:55.340
+fait que la réponse immunitaire il faut qu
+
+1535
+01:08:55.340 --> 01:08:57.540
+'elle soit régulée sinon elle va se transformer
+
+1536
+01:08:57.540 --> 01:08:58.859
+en quelque chose de pathologique.
+
+1537
+01:08:59.439 --> 01:09:02.060
+Alors pour finir je vais essayer de récapituler
+
+1538
+01:09:02.060 --> 01:09:04.060
+l'ensemble des étapes que j'ai décrites
+
+1539
+01:09:04.620 --> 01:09:07.120
+durant l'ensemble de ce cours vous avez
+
+1540
+01:09:07.120 --> 01:09:12.000
+une réponse, une reconnaissance d'un antigène qui
+
+1541
+01:09:12.000 --> 01:09:14.020
+est présenté par un CPA dans le cadre
+
+1542
+01:09:14.020 --> 01:09:17.620
+des molécules CMH, donc présenté à l'infusivité
+
+1543
+01:09:17.620 --> 01:09:20.899
+naïf qui va commencer à se multiplier à
+
+1544
+01:09:20.899 --> 01:09:23.100
+s'activer, il s'active il aura besoin
+
+1545
+01:09:23.100 --> 01:09:26.060
+d'un T2 pour permettre justement son activation
+
+1546
+01:09:26.060 --> 01:09:29.080
+et après il va se différencier pour aboutir
+
+1547
+01:09:29.080 --> 01:09:30.960
+à ce qu'on appelle les clones de
+
+1548
+01:09:30.960 --> 01:09:32.800
+l'infusivité et en même temps en fonction
+
+1549
+01:09:32.800 --> 01:09:35.080
+de la nature de cet antigène on aura
+
+1550
+01:09:35.080 --> 01:09:38.740
+à générer soit une réponse cellulaire qui va
+
+1551
+01:09:38.740 --> 01:09:41.460
+consister à activer les CTL pour avoir de
+
+1552
+01:09:41.460 --> 01:09:45.399
+l'infusivité cytotoxique, ou bien on a besoin
+
+1553
+01:09:45.399 --> 01:09:47.399
+d'une réponse humorale dans ce cas là,
+
+1554
+01:09:47.740 --> 01:09:49.020
+il y aura des cytokines qui vont agir
+
+1555
+01:09:49.020 --> 01:09:51.359
+sur l'infusivité pour nous permettre de se
+
+1556
+01:09:51.359 --> 01:09:54.560
+différencier en plasmocyte producteur d'anticorps avec ça,
+
+1557
+01:09:55.180 --> 01:09:57.760
+ce sont les effecteurs et avec les effecteurs
+
+1558
+01:09:57.760 --> 01:09:59.520
+il y a toujours des cellules mémoire qui
+
+1559
+01:09:59.520 --> 01:10:01.820
+vont justement garder la remorque du contact d
+
+1560
+01:10:01.820 --> 01:10:04.340
+'antigène vous avez un petit peu un rappel
+
+1561
+01:10:04.340 --> 01:10:07.540
+ou un récapitulatif de l'ensemble des étapes
+
+1562
+01:10:07.540 --> 01:10:12.240
+décrites durant le processus de ce CMH adaptatif
+
+1563
+01:10:12.240 --> 01:10:15.120
+alors je finis par dire que la réponse
+
+1564
+01:10:15.120 --> 01:10:19.440
+CMH adaptative étant bien évidemment très très sophistiquée,
+
+1565
+01:10:19.540 --> 01:10:22.920
+elle est spécifique elle s'adapte sur le
+
+1566
+01:10:22.920 --> 01:10:26.460
+terme adapt adaptation c'est en fonction de
+
+1567
+01:10:26.460 --> 01:10:28.280
+la nature de l'agent pathogène de la
+
+1568
+01:10:28.280 --> 01:10:30.940
+voie d'introduction, il choisira le mode le
+
+1569
+01:10:30.940 --> 01:10:32.920
+plus approprié, il ne va pas se mobiliser
+
+1570
+01:10:32.920 --> 01:10:35.440
+en totalité donc il choisira, est-ce qu
+
+1571
+01:10:35.440 --> 01:10:37.460
+'il va produire des anticorps, ou bien de
+
+1572
+01:10:37.460 --> 01:10:40.060
+l'infusivité cytotoxique, ou bien les deux, ou
+
+1573
+01:10:40.060 --> 01:10:41.240
+bien le macrophage, etc.
+
+1574
+01:10:41.860 --> 01:10:44.220
+c'est la nature de la stimulation antigénique
+
+1575
+01:10:44.220 --> 01:10:47.160
+de la voie d'introduction qui va définir
+
+1576
+01:10:47.160 --> 01:10:49.580
+un petit peu l'essu de la réponse
+
+1577
+01:10:49.580 --> 01:10:51.140
+immunitaire en termes d'effecteurs.
+
+1578
+01:10:51.940 --> 01:10:54.620
+Vous avez compris que les cytokines ont un
+
+1579
+01:10:54.620 --> 01:10:59.020
+rôle majeur dans la différenciation des lymphocytes pour
+
+1580
+01:10:59.020 --> 01:11:01.520
+aboutir à des effecteurs la mémoire immunologique est
+
+1581
+01:11:01.520 --> 01:11:03.640
+obligatoire lorsqu'on parle d'une réponse immunitaire
+
+1582
+01:11:03.640 --> 01:11:06.380
+adaptative il va suivre, il va assurer ce
+
+1583
+01:11:06.380 --> 01:11:09.380
+qu'on appelle l'immunité de la réinfection,
+
+1584
+01:11:09.520 --> 01:11:12.820
+il va empêcher donc une nouvelle réinfection par
+
+1585
+01:11:12.820 --> 01:11:15.460
+le même agent pathogène il va être exploité
+
+1586
+01:11:15.460 --> 01:11:19.740
+pour vacciner contre des agents pathogènes maintenant on
+
+1587
+01:11:19.740 --> 01:11:22.200
+est à la soi-disant, à l'ère
+
+1588
+01:11:22.200 --> 01:11:25.180
+de la vaccination anti-covid voilà un petit
+
+1589
+01:11:25.180 --> 01:11:27.620
+peu, il faut des cellules de mémoire pour
+
+1590
+01:11:27.620 --> 01:11:31.400
+pouvoir lutter contre un agent pathogène et puis
+
+1591
+01:11:31.400 --> 01:11:34.420
+il faut toujours un système de régulation et
+
+1592
+01:11:34.420 --> 01:11:36.040
+chaque fois qu'on a un système de
+
+1593
+01:11:36.040 --> 01:11:38.200
+régulation qui est défaillant, donc il va s
+
+1594
+01:11:38.200 --> 01:11:41.320
+'exposer à des maladies et ce système de
+
+1595
+01:11:41.320 --> 01:11:44.540
+régulation également on peut l'exploiter pour produire,
+
+1596
+01:11:44.620 --> 01:11:46.980
+on a généré de l'immunothérapie.
+
+1597
+01:11:47.520 --> 01:11:48.920
+Si on a une maladie où il y
+
+1598
+01:11:48.920 --> 01:11:52.200
+a une prédominance des cytokines Th1, il faut
+
+1599
+01:11:53.760 --> 01:11:56.440
+antagoniser avec le profil Th1 par des cytokines
+
+1600
+01:11:56.440 --> 01:11:59.600
+de type Th2 et inversement des maladies allergiques
+
+1601
+01:11:59.600 --> 01:12:03.300
+maternelles on peut administrer des anti-interférents de
+
+1602
+01:12:03.300 --> 01:12:07.500
+l'interleukin de l'interférogamma pour casser avec
+
+1603
+01:12:07.500 --> 01:12:09.420
+le profil Th2 prédominant.
+
+1604
+01:12:09.780 --> 01:12:10.960
+Voilà un petit peu sur la base des
+
+1605
+01:12:10.960 --> 01:12:14.220
+facteurs qui interviennent ou bien également des cytokines
+
+1606
+01:12:14.700 --> 01:12:17.700
+régulatrices, les Th règles comme ça vous avez
+
+1607
+01:12:17.700 --> 01:12:21.040
+l'objectif de cette immunothérapie de réguler et
+
+1608
+01:12:21.040 --> 01:12:23.480
+de rétablir la balance cytokinique dans le cadre
+
+1609
+01:12:23.480 --> 01:12:23.900
+de l'équilibre.
+
+1610
+01:12:24.020 --> 01:12:25.120
+Voilà un petit peu ce que j'ai
+
+1611
+01:12:25.120 --> 01:12:26.620
+à dire par rapport à ce cours.
+
+1612
+01:12:26.980 --> 01:12:29.340
+J'espère que vous avez assumé l'essentiel
+
+1613
+01:12:29.340 --> 01:12:31.280
+et je vous remercie et j'attends des
+
+1614
+01:12:31.280 --> 01:12:32.240
+questions si vous en avez.
+
+1615
+01:12:42.160 --> 01:12:47.360
+OK Monsieur, est-ce que vous pouvez me
+
+1616
+01:12:47.360 --> 01:12:49.840
+laisser votre adresse email ?
+
+1617
+01:12:49.840 --> 01:12:51.540
+Avec plaisir, je l'écris tout de suite
+
+1618
+01:12:51.540 --> 01:13:22.600
+sur les excusez-moi c
+
+1619
+01:13:22.600 --> 01:13:26.120
+'est bon c'est clair vous m'excuser
+
+1620
+01:13:26.120 --> 01:13:29.200
+c'est jamais c'est jamais par exemple
+
+1621
+01:13:29.200 --> 01:13:31.520
+je ne réagis pas, des fois je réagis
+
+1622
+01:13:31.520 --> 01:13:33.780
+rapidement mais on est sur beaucoup de choses,
+
+1623
+01:13:34.460 --> 01:13:35.480
+des fois je mets un peu de temps
+
+1624
+01:13:35.480 --> 01:13:38.880
+pour répondre à certains étudiants j'espère avoir
+
+1625
+01:13:38.880 --> 01:13:40.920
+répondu en même temps je profite lors de
+
+1626
+01:13:40.920 --> 01:13:44.000
+ces séances de répondre au maximum mais je
+
+1627
+01:13:44.000 --> 01:13:47.060
+serai ouvert pour d'autres questions éventuellement sur
+
+1628
+01:13:47.060 --> 01:13:55.120
+la plateforme aussi de Microsoft Teams Monsieur, est
+
+1629
+01:13:55.120 --> 01:13:58.760
+-ce que les interférents gamma sont les mêmes
+
+1630
+01:13:58.760 --> 01:14:01.470
+qui sont excrétés par les NK Hunter ?
+
+1631
+01:14:01.920 --> 01:14:05.420
+Bonne question alors l'interférent gamma c'est
+
+1632
+01:14:05.420 --> 01:14:08.700
+un peu particulier tantôt il est considéré comme
+
+1633
+01:14:08.700 --> 01:14:13.360
+un interleukin spécifique, tantôt il est également une
+
+1634
+01:14:13.360 --> 01:14:17.240
+cytokine de l'immunité innée, tout dépend du
+
+1635
+01:14:17.240 --> 01:14:20.460
+contexte dans lequel cette cytokine essaie de s
+
+1636
+01:14:20.460 --> 01:14:22.140
+'écréter par exemple lorsqu'elle est produite par
+
+1637
+01:14:22.140 --> 01:14:23.760
+l'interférent gamma il y a surtout l
+
+1638
+01:14:23.760 --> 01:14:28.740
+'inflammation aiguë dans l'immunité innée la cytokine
+
+1639
+01:14:29.300 --> 01:14:32.140
+généralement dépend du contexte lorsqu'elle est produite
+
+1640
+01:14:32.140 --> 01:14:34.860
+par l'infuïcité le message est clair c
+
+1641
+01:14:34.860 --> 01:14:36.820
+'est une action qui est spécifique qui va
+
+1642
+01:14:36.820 --> 01:14:42.280
+être dirigée pour activer le macrophage le monde
+
+1643
+01:14:42.280 --> 01:14:46.380
+des cytokines normalement on ne peut pas le
+
+1644
+01:14:46.380 --> 01:14:49.260
+programmer en deuxième année ni en quatrième année,
+
+1645
+01:14:49.400 --> 01:14:50.580
+il y a tout un chapitre qui s
+
+1646
+01:14:50.580 --> 01:14:54.220
+'appelle cytokines qui comportent aussi les chimiokines et
+
+1647
+01:14:54.220 --> 01:14:56.560
+les autres les interférents, mais le monde des
+
+1648
+01:14:56.560 --> 01:15:01.680
+cytokines est un peu très complexe et il
+
+1649
+01:15:01.680 --> 01:15:03.260
+y a ce qu'on appelle la redondance
+
+1650
+01:15:03.260 --> 01:15:06.280
+des effets il y a la pliotropie, ça
+
+1651
+01:15:06.280 --> 01:15:09.120
+veut dire beaucoup de phénomènes soi-disant la
+
+1652
+01:15:09.120 --> 01:15:11.480
+même cytokine peut exercer plusieurs fonctions on peut
+
+1653
+01:15:11.480 --> 01:15:14.600
+avoir également plusieurs fonctions qui peuvent s'assurer
+
+1654
+01:15:14.600 --> 01:15:17.020
+par la même cytokine, il y a énormément
+
+1655
+01:15:17.020 --> 01:15:18.500
+de choses par rapport aux cytokines, je ne
+
+1656
+01:15:18.500 --> 01:15:21.140
+vais pas rentrer au détail mais l'essentiel
+
+1657
+01:15:21.140 --> 01:15:23.820
+de l'interférent gamma s'il a plus
+
+1658
+01:15:23.820 --> 01:15:26.700
+une orientation spécifique mais bien évidemment il a
+
+1659
+01:15:26.700 --> 01:15:28.420
+une action sur l'immunité innée, d'ailleurs
+
+1660
+01:15:28.420 --> 01:15:29.820
+sur l'immunité innée, je ne vous ai
+
+1661
+01:15:29.820 --> 01:15:32.740
+pas évoqué j'ai parlé comme quoi l
+
+1662
+01:15:32.740 --> 01:15:36.420
+'interférent gamma peut être produit par la cellule
+
+1663
+01:15:37.560 --> 01:15:39.820
+NK en sachant que la cellule NK elle
+
+1664
+01:15:39.820 --> 01:15:44.560
+-même peut être induite la surutilisation peut être
+
+1665
+01:15:44.560 --> 01:15:46.060
+soi-disant, on peut faire appel à la
+
+1666
+01:15:46.060 --> 01:15:49.020
+cellule NK au cours de l'immunité adaptative,
+
+1667
+01:15:49.100 --> 01:15:50.940
+ça veut dire tout à l'heure le
+
+1668
+01:15:50.940 --> 01:15:53.640
+macrophage il a été sollicité par la Faucité
+
+1669
+01:15:55.260 --> 01:15:56.960
+dans le cadre de l'action de l
+
+1670
+01:15:56.960 --> 01:16:00.760
+'immunité spécifique adaptative, c'est valable aussi pour
+
+1671
+01:16:00.760 --> 01:16:02.040
+les NK, c'est-à-dire le système
+
+1672
+01:16:02.680 --> 01:16:05.680
+adaptatif le retourne vers l'immunité innée pour
+
+1673
+01:16:05.680 --> 01:16:08.040
+chercher des renforts, donc il va utiliser certains
+
+1674
+01:16:08.040 --> 01:16:11.160
+cytokines pour le faire dans l'interférent gamma
+
+1675
+01:16:11.160 --> 01:16:15.380
+et autres Alors monsieur, premièrement, on vous remercie
+
+1676
+01:16:15.380 --> 01:16:17.620
+pour toutes ces sciences interactives qui étaient sans
+
+1677
+01:16:17.620 --> 01:16:19.680
+doute bénéfiques, deuxièmement, on veut savoir c'est
+
+1678
+01:16:19.680 --> 01:16:23.580
+l'exemple On va maintenant passer à la
+
+1679
+01:16:23.580 --> 01:16:32.760
+question sur le suivant qui est C ou
+
+1680
+01:16:32.760 --> 01:16:35.760
+qui est M Alors, je ne cesse pas
+
+1681
+01:16:35.760 --> 01:16:38.080
+de le répéter, vous aurez un peu de
+
+1682
+01:16:38.080 --> 01:16:40.840
+deux celui de l'U, celui de l
+
+1683
+01:16:40.840 --> 01:16:44.380
+'M j'essaie au maximum de préciser si
+
+1684
+01:16:44.380 --> 01:16:46.740
+il y a l'U de vous aider
+
+1685
+01:16:46.740 --> 01:16:48.440
+un petit peu en disant c'est deux
+
+1686
+01:16:48.440 --> 01:16:50.100
+ou trois ou une, etc et puis on
+
+1687
+01:16:50.100 --> 01:16:51.100
+va mais pas toujours.
+
+1688
+01:16:51.440 --> 01:16:53.980
+L'objectif, je le précise encore une fois,
+
+1689
+01:16:54.680 --> 01:17:01.660
+ma conception, ma philosophie dans un examen, je
+
+1690
+01:17:01.660 --> 01:17:02.660
+le divise en trois parties.
+
+1691
+01:17:03.540 --> 01:17:04.700
+Les preuves, je les divise en trois parties,
+
+1692
+01:17:04.820 --> 01:17:05.800
+ça veut dire que vous aurez des questions
+
+1693
+01:17:05.800 --> 01:17:07.780
+hyper faciles, un tiers.
+
+1694
+01:17:08.460 --> 01:17:11.340
+Le un tiers, on va dire moyennement facile,
+
+1695
+01:17:11.480 --> 01:17:13.040
+moyennement difficile, ça veut dire qu'on est
+
+1696
+01:17:13.040 --> 01:17:15.080
+un petit peu de façon crescendo.
+
+1697
+01:17:15.080 --> 01:17:16.820
+Après, il y a un tiers qui constitue
+
+1698
+01:17:16.820 --> 01:17:19.280
+un peu, on va dire pour discriminer les
+
+1699
+01:17:19.280 --> 01:17:20.480
+gens qui ont l'ADA.
+
+1700
+01:17:21.100 --> 01:17:24.640
+Ils vont peut-être, ça les a accrochés
+
+1701
+01:17:24.640 --> 01:17:25.560
+un petit peu l'immunologie.
+
+1702
+01:17:26.140 --> 01:17:28.200
+On peut empêcher qu'ils ne soient pas
+
+1703
+01:17:28.200 --> 01:17:30.740
+immunologistes à l'avenir, mais il faut que,
+
+1704
+01:17:30.860 --> 01:17:32.560
+l'objectif ce n'est pas ça, mais
+
+1705
+01:17:32.560 --> 01:17:34.620
+il faut qu'après vous allez vous rendre
+
+1706
+01:17:34.620 --> 01:17:36.160
+compte que l'immunologie va vous servir dans
+
+1707
+01:17:36.160 --> 01:17:36.700
+votre carrière.
+
+1708
+01:17:37.640 --> 01:17:39.120
+On vous demande l'essentiel, on ne va
+
+1709
+01:17:39.120 --> 01:17:40.620
+pas vous demander le détail.
+
+1710
+01:17:40.780 --> 01:17:43.240
+D'ailleurs, à chaque fois, de passage, je
+
+1711
+01:17:43.240 --> 01:17:47.160
+vous mentionne pourquoi la formation est importante, mais
+
+1712
+01:17:47.160 --> 01:17:49.740
+si vous avez compris l'ensemble des ondes,
+
+1713
+01:17:50.260 --> 01:17:53.820
+l'essentiel, je n'aurai pas de difficulté
+
+1714
+01:17:53.820 --> 01:17:55.800
+à répondre aux questions, quelle que soit la
+
+1715
+01:17:55.800 --> 01:17:57.940
+formulation et quel que soit le type.
+
+1716
+01:17:58.920 --> 01:18:03.960
+J'espère avoir répondu de façon smarte comme
+
+1717
+01:18:03.960 --> 01:18:04.800
+vous l'avez fait aussi.
+
+1718
+01:18:05.800 --> 01:18:07.080
+Monsieur, je n'ai pas bien compris le
+
+1719
+01:18:07.080 --> 01:18:09.360
+processus des personnes qui étaient retardées, le rôle
+
+1720
+01:18:09.360 --> 01:18:10.540
+du granulome dans cette réaction.
+
+1721
+01:18:11.260 --> 01:18:13.440
+Le granulome, c'est un peu la conséquence
+
+1722
+01:18:13.440 --> 01:18:15.700
+de cette réponse, ces personnes qui étaient retardées.
+
+1723
+01:18:16.140 --> 01:18:18.400
+Alors, sans avoir le granulome, le granulome c
+
+1724
+01:18:18.400 --> 01:18:19.040
+'est quoi ?
+
+1725
+01:18:19.040 --> 01:18:24.080
+Vous avez le macrophage qui prolifère et il
+
+1726
+01:18:24.080 --> 01:18:25.980
+y a un état d'inflammation chronique.
+
+1727
+01:18:26.440 --> 01:18:31.860
+Parfois vous avez, faites attention, vous allez voir
+
+1728
+01:18:31.860 --> 01:18:38.220
+des patients, dans une infection, vous avez quelque
+
+1729
+01:18:38.220 --> 01:18:39.900
+chose qui a amplifié, tumifié.
+
+1730
+01:18:40.080 --> 01:18:42.540
+Suite à une infection, c'est un état
+
+1731
+01:18:42.540 --> 01:18:43.520
+granulomateur.
+
+1732
+01:18:45.060 --> 01:18:49.480
+Le granulome traduit l'activation excessive du macrophage
+
+1733
+01:18:49.480 --> 01:18:50.300
+d'issue de l'inflammation.
+
+1734
+01:18:50.440 --> 01:18:52.000
+Ce n'est pas uniquement du macrophage, ça
+
+1735
+01:18:52.000 --> 01:18:53.800
+peut être des polyclunes d'entrefils, ça peut
+
+1736
+01:18:53.800 --> 01:18:55.260
+être des dendrites, etc.
+
+1737
+01:18:55.960 --> 01:18:59.680
+Mais l'origine, le mécanisme, c'est essentiellement,
+
+1738
+01:19:00.120 --> 01:19:02.020
+lorsqu'on parle de ces personnes qui étaient
+
+1739
+01:19:02.020 --> 01:19:03.580
+retardées, c'est que l'inflammation a produit
+
+1740
+01:19:03.580 --> 01:19:04.960
+beaucoup d'interférons gamins.
+
+1741
+01:19:05.560 --> 01:19:08.220
+Donc, il va induire un état d'inflammation
+
+1742
+01:19:08.220 --> 01:19:13.320
+chronique qui va être accompagné ou pas de
+
+1743
+01:19:13.320 --> 01:19:13.740
+granulome.
+
+1744
+01:19:13.820 --> 01:19:16.860
+Le granulome, c'est certaines infections ou la
+
+1745
+01:19:16.860 --> 01:19:19.800
+certaine situation particulière qui s'accompagne de l
+
+1746
+01:19:19.800 --> 01:19:20.560
+'inflammation de granulome.
+
+1747
+01:19:20.640 --> 01:19:21.560
+D'autres, il n'y a que de
+
+1748
+01:19:21.560 --> 01:19:24.320
+l'inflammation chronique qui se diffuse et qui
+
+1749
+01:19:24.320 --> 01:19:26.880
+va appliquer beaucoup de cellules.
+
+1750
+01:19:27.040 --> 01:19:28.940
+Voilà, c'est un peu la nuance qui
+
+1751
+01:19:28.940 --> 01:19:29.360
+existe.
+
+1752
+01:19:30.180 --> 01:19:31.960
+Mais en tout cas, le granulome, il n
+
+1753
+01:19:31.960 --> 01:19:35.380
+'accompagne pas, il n'est pas systématique, mais
+
+1754
+01:19:35.380 --> 01:19:37.660
+le secret ou le mécanisme des personnes qui
+
+1755
+01:19:37.660 --> 01:19:40.060
+sont retardées, c'est lorsque vous avez de
+
+1756
+01:19:40.060 --> 01:19:47.580
+l'inflammatité qui collabore avec du macrophage essentiellement.
+
+1757
+01:19:48.000 --> 01:19:51.860
+Il me semble que Stedniaman veut commencer.
+
+1758
+01:19:52.380 --> 01:19:52.860
+Attendez.
+
+1759
+01:19:57.620 --> 01:19:59.000
+Alors, je vais voir s'il y a
+
+1760
+01:19:59.000 --> 01:19:59.660
+d'autres questions.
+
+1761
+01:19:59.840 --> 01:20:00.680
+Apparemment, il n'y en a plus.
+
+1762
+01:20:01.660 --> 01:20:02.100
+C'est bon.
+
+1763
+01:20:05.100 --> 01:20:06.200
+Alors, je ne sais pas s'il y
+
+1764
+01:20:06.200 --> 01:20:08.080
+a avec vous, il y a le représentant.
+
+1765
+01:20:09.600 --> 01:20:10.200
+Il y en a un.
+
+1766
+01:20:10.400 --> 01:20:12.500
+Alors après, je vous laisse un peu de
+
+1767
+01:20:12.500 --> 01:20:14.020
+temps pour voir.
+
+1768
+01:20:15.080 --> 01:20:16.660
+J'ai prévu une séance un peu de
+
+1769
+01:20:16.660 --> 01:20:17.080
+révision.
+
+1770
+01:20:17.720 --> 01:20:20.040
+Je vais vous exposer quelques exemples, modèles de
+
+1771
+01:20:20.040 --> 01:20:22.440
+questions qu'on va corriger ensemble.
+
+1772
+01:20:23.220 --> 01:20:26.000
+Mais vous me dites si on peut, d
+
+1773
+01:20:26.000 --> 01:20:28.860
+'ici peut-être trois semaines, quatre semaines à
+
+1774
+01:20:28.860 --> 01:20:30.540
+l'approche de vos examens, pas à l
+
+1775
+01:20:30.540 --> 01:20:32.740
+'approche, mais on va dire au moins un
+
+1776
+01:20:32.740 --> 01:20:34.040
+mois avant l'examen.
+
+1777
+01:20:34.320 --> 01:20:35.960
+On peut dire on est le 16.
+
+1778
+01:20:36.340 --> 01:20:39.960
+On peut partir sur mi-janvier, par exemple,
+
+1779
+01:20:40.080 --> 01:20:42.140
+pour faire une séance de révision finale.
+
+1780
+01:20:42.440 --> 01:20:47.130
+On fait comme ça.
+
+1781
+01:20:49.910 --> 01:20:51.210
+Oui, ça marche.
+
+1782
+01:20:52.630 --> 01:20:56.430
+On reste contacté avec un de vos représentants,
+
+1783
+01:20:56.490 --> 01:20:57.290
+l'un de vos représentants.
+
+1784
+01:20:58.070 --> 01:21:00.190
+On va prendre contact pour essayer de planifier
+
+1785
+01:21:00.190 --> 01:21:00.410
+ça.
+
+1786
+01:21:00.590 --> 01:21:03.790
+Bon après-midi.
+
+1787
+01:21:07.580 --> 01:21:08.240
+Merci monsieur.

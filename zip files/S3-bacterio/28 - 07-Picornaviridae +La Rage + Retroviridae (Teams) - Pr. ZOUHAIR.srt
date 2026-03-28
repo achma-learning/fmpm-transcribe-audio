@@ -1,0 +1,5367 @@
+1
+00:00:00,100 --> 00:00:05,960
+Nous allons voir la famille des picornaviridae, d
+
+2
+00:00:05,960 --> 00:00:07,460
+'accord ?
+
+3
+00:00:08,080 --> 00:00:09,740
+Alors je vais faire un diaporama.
+
+4
+00:00:12,740 --> 00:00:15,079
+Picornaviridae, très rapidement parce que vous avez déjà
+
+5
+00:00:15,079 --> 00:00:16,640
+les cours et nous allons avancer un peu
+
+6
+00:00:16,640 --> 00:00:17,060
+plus vite.
+
+7
+00:00:17,500 --> 00:00:19,640
+Pico, c'est petit, c'est petit.
+
+8
+00:00:20,240 --> 00:00:23,480
+RNA, RNA virus, donc c'est des virus
+
+9
+00:00:23,480 --> 00:00:25,640
+à petit ARN qui ont un petit ARN,
+
+10
+00:00:25,720 --> 00:00:26,500
+c'est pour ça qu'on les a
+
+11
+00:00:26,500 --> 00:00:28,260
+rassemblés dans cette famille.
+
+12
+00:00:29,640 --> 00:00:32,660
+Les picornaviridae qui ont un ARN à polarité
+
+13
+00:00:32,660 --> 00:00:35,420
+positive, enfin c'est une capside, ils ont
+
+14
+00:00:35,420 --> 00:00:36,960
+une capside, c'est un virus à ARN,
+
+15
+00:00:38,380 --> 00:00:41,340
+ils ont une capside icosahedrin, ils sont nus.
+
+16
+00:00:41,700 --> 00:00:43,280
+Voilà, c'est l'une des caractéristiques, c
+
+17
+00:00:43,280 --> 00:00:44,740
+'est des virus nus donc ils résistent beaucoup
+
+18
+00:00:44,740 --> 00:00:47,060
+plus dans le milieu extérieur et ils résistent
+
+19
+00:00:47,060 --> 00:00:48,760
+aussi à l'acidité gastrique, ce qui en
+
+20
+00:00:48,760 --> 00:00:53,880
+fait un problème au niveau, particulièrement au niveau
+
+21
+00:00:53,880 --> 00:00:54,720
+gastro-intestinal.
+
+22
+00:00:58,950 --> 00:01:03,190
+Voilà la structure du génome des virus appartenant
+
+23
+00:01:03,190 --> 00:01:04,750
+à la famille des picornaviridae.
+
+24
+00:01:04,890 --> 00:01:09,450
+Avant de voir ça, regardez ici, vous avez
+
+25
+00:01:09,450 --> 00:01:13,590
+la capside puisque c'est un virus nu,
+
+26
+00:01:13,770 --> 00:01:16,070
+vous voyez bien que la capside qui est
+
+27
+00:01:16,070 --> 00:01:18,510
+une coque protéique qui protège en fait l
+
+28
+00:01:18,510 --> 00:01:22,230
+'ARN, ils ont des protéines majeures, notamment la
+
+29
+00:01:22,230 --> 00:01:26,210
+VP1, VP2, VP3 qui sont à l'extérieur.
+
+30
+00:01:26,470 --> 00:01:29,330
+Regardez ce que vous voyez ici, la VP1
+
+31
+00:01:29,330 --> 00:01:34,050
+et vous avez la VP2 en vert olive,
+
+32
+00:01:34,450 --> 00:01:36,510
+un peu plus foncée, la VP3.
+
+33
+00:01:38,130 --> 00:01:41,990
+Et vous avez la VP4 qui est côté
+
+34
+00:01:41,990 --> 00:01:43,550
+interne de la capside.
+
+35
+00:01:48,320 --> 00:01:52,440
+Donc vous voyez, c'est les quatre polypeptides
+
+36
+00:01:52,440 --> 00:01:59,540
+qui sont des polypeptides majeurs qui constituent la
+
+37
+00:01:59,540 --> 00:02:01,860
+coque protéique qui est la capside qui protège
+
+38
+00:02:01,860 --> 00:02:04,640
+l'ARN pour la famille des herpèsviridae.
+
+39
+00:02:05,700 --> 00:02:08,400
+Et donc si on revient en fait au
+
+40
+00:02:08,400 --> 00:02:10,300
+génome qui va coder, puisque c'est de
+
+41
+00:02:10,300 --> 00:02:13,220
+l'ARN aussi, donc vous avez cet aspect,
+
+42
+00:02:13,480 --> 00:02:15,960
+les protéines de capsides en vert, ils sont
+
+43
+00:02:16,680 --> 00:02:19,540
+bien sûr, vous avez le gène VP1, VP2,
+
+44
+00:02:19,680 --> 00:02:22,420
+VP3 et le VP4, la protéine interne.
+
+45
+00:02:23,160 --> 00:02:25,320
+Tous ces quatre là vont coder pour les
+
+46
+00:02:25,320 --> 00:02:27,200
+protéines de capsides et vous avez des protéines
+
+47
+00:02:27,200 --> 00:02:28,620
+non-structurales.
+
+48
+00:02:28,940 --> 00:02:31,060
+Et il y a une particularité chez les
+
+49
+00:02:31,640 --> 00:02:35,740
+picornaviridae, c'est cette irès qui en fait,
+
+50
+00:02:35,780 --> 00:02:39,380
+qui a cet aspect tridimensionnel, mais qu'on
+
+51
+00:02:39,380 --> 00:02:42,380
+a rassemblé ici pour faciliter un petit peu
+
+52
+00:02:42,380 --> 00:02:44,460
+la lecture, c'est le site d'entrée
+
+53
+00:02:44,460 --> 00:02:45,660
+interne du ribosome.
+
+54
+00:02:45,880 --> 00:02:47,900
+En fait c'est cette partie qui va
+
+55
+00:02:47,900 --> 00:02:50,780
+entrer au niveau du ribosome pour traduire en
+
+56
+00:02:50,780 --> 00:02:55,360
+fait l'information génétique en protéines, structurales ou
+
+57
+00:02:55,360 --> 00:02:56,120
+non-structurales etc.
+
+58
+00:02:57,380 --> 00:02:58,880
+Voilà donc ça s'appelle le site d
+
+59
+00:02:58,880 --> 00:03:05,040
+'entrée interne du ribosome, l'irès, et qui
+
+60
+00:03:05,040 --> 00:03:06,580
+est nécessaire à l'initiation de la traduction
+
+61
+00:03:06,580 --> 00:03:07,080
+de l'ARN.
+
+62
+00:03:09,240 --> 00:03:14,760
+Voilà un petit peu les particularités de cette
+
+63
+00:03:17,540 --> 00:03:24,540
+structure virale des picornaviridae avec une multiplication intracytoplasmique
+
+64
+00:03:24,540 --> 00:03:24,920
+surtout.
+
+65
+00:03:27,140 --> 00:03:29,800
+Alors maintenant on va savoir de quoi on
+
+66
+00:03:29,800 --> 00:03:32,300
+parle en fait, c'est quoi cette famille
+
+67
+00:03:32,300 --> 00:03:33,900
+de qu'est-ce qu'elle comprend ?
+
+68
+00:03:33,900 --> 00:03:38,560
+En fait elle comprend neuf genres dont 4
+
+69
+00:03:38,560 --> 00:03:40,100
+sont pathogènes pour l'homme.
+
+70
+00:03:40,560 --> 00:03:43,680
+Les 4 pathogènes, on parle du genre parce
+
+71
+00:03:43,680 --> 00:03:45,560
+qu'il y a les espèces après, le
+
+72
+00:03:45,560 --> 00:03:48,320
+genre par exemple le rhinovirus, le virus du
+
+73
+00:03:48,320 --> 00:03:52,860
+rhume, le rhume roi que vous connaissez, le
+
+74
+00:03:52,860 --> 00:03:55,480
+rhinovirus est le principal virus responsable.
+
+75
+00:03:55,840 --> 00:03:59,260
+Vous avez plusieurs espèces, les A, les B,
+
+76
+00:03:59,400 --> 00:04:03,300
+on a presque une centaine de séreotypes de
+
+77
+00:04:03,300 --> 00:04:06,280
+rhinovirus, vous imaginez un petit peu l'ampleur
+
+78
+00:04:06,280 --> 00:04:09,680
+de la panoplie de virus qui circulent à
+
+79
+00:04:09,680 --> 00:04:12,300
+travers le monde, qui sont responsables du rhume,
+
+80
+00:04:12,420 --> 00:04:15,560
+c'est l'une des bien sûr des
+
+81
+00:04:15,560 --> 00:04:18,920
+virus qui est très propagé à travers le
+
+82
+00:04:18,920 --> 00:04:21,720
+monde, le rhinovirus, ça appartient à la famille
+
+83
+00:04:21,720 --> 00:04:23,040
+des picornaviridae.
+
+84
+00:04:23,540 --> 00:04:25,420
+Vous avez le virus de l'hépatite A
+
+85
+00:04:25,420 --> 00:04:30,120
+qu'on appelait auparavant l'enterovirus 72 et
+
+86
+00:04:30,120 --> 00:04:33,660
+en fait c'est l'hépatovirus genre hépatovirus
+
+87
+00:04:33,660 --> 00:04:36,580
+qui appartient à la famille des picornaviridae et
+
+88
+00:04:36,580 --> 00:04:43,120
+puis le genre enterovirus qui lui regroupe énormément
+
+89
+00:04:43,120 --> 00:04:46,020
+de virus, notamment le virus de la polyomyélite,
+
+90
+00:04:47,040 --> 00:04:52,660
+les virus des coxaquivirus, les enterovirus 70 donc
+
+91
+00:04:52,660 --> 00:04:57,140
+en fait ces enterovirus sont regroupés, en fait
+
+92
+00:04:57,140 --> 00:04:59,000
+il y a plusieurs espèces d'enterovirus A,
+
+93
+00:04:59,120 --> 00:05:00,640
+le B, le C, le D et chacun
+
+94
+00:05:00,640 --> 00:05:03,680
+bien sûr regroupe plusieurs espèces.
+
+95
+00:05:06,040 --> 00:05:09,800
+Et puis vous avez le parécovirus qui est
+
+96
+00:05:09,800 --> 00:05:16,500
+en fait un virus appartenant à la famille
+
+97
+00:05:16,500 --> 00:05:18,180
+des picornaviridae.
+
+98
+00:05:18,320 --> 00:05:23,780
+Donc les quatre genres principaux qui nous intéressent
+
+99
+00:05:23,780 --> 00:05:26,120
+le plus qui sont bien sûr pathogènes pour
+
+100
+00:05:26,120 --> 00:05:26,340
+l'homme.
+
+101
+00:05:31,320 --> 00:05:34,580
+En général c'est des infections qui donnent
+
+102
+00:05:34,580 --> 00:05:36,860
+des épidémies voire des cas sporadiques par-ci
+
+103
+00:05:36,860 --> 00:05:39,440
+par-là, plus souvent entre juin et septembre.
+
+104
+00:05:39,540 --> 00:05:40,680
+C'est entre juin et septembre qu'on
+
+105
+00:05:40,680 --> 00:05:43,760
+va avoir le plus d'infections dues aux
+
+106
+00:05:43,760 --> 00:05:44,920
+picornaviridae.
+
+107
+00:05:45,960 --> 00:05:48,520
+Le mode de transmission c'est orofécale donc
+
+108
+00:05:48,520 --> 00:05:51,120
+ils sont liés à l'hygiène et atteignent
+
+109
+00:05:51,120 --> 00:05:52,300
+principalement les enfants.
+
+110
+00:05:53,800 --> 00:05:56,500
+La caractéristique de ces virus c'est que
+
+111
+00:05:56,500 --> 00:05:58,980
+c'est des enfants bien sûr où l
+
+112
+00:05:58,980 --> 00:06:04,040
+'hygiène n'est pas terrible et donc le
+
+113
+00:06:04,040 --> 00:06:07,780
+mode de contamination est en général orofécale, souvent
+
+114
+00:06:07,780 --> 00:06:08,560
+asymptomatique.
+
+115
+00:06:13,900 --> 00:06:16,220
+Le réservoir il est strictement humain c'est
+
+116
+00:06:16,220 --> 00:06:17,680
+ça qui est intéressant donc il n'y
+
+117
+00:06:17,680 --> 00:06:20,120
+a pas de réservoir animal chez ces enterovirus.
+
+118
+00:06:20,740 --> 00:06:23,900
+Le réservoir est principalement humain donc c'est
+
+119
+00:06:23,900 --> 00:06:25,860
+l'homme qui est le réservoir de ce
+
+120
+00:06:25,860 --> 00:06:28,400
+virus et donc la transmission est inter-humaine.
+
+121
+00:06:29,040 --> 00:06:31,780
+Le tropisme est varié vers les cellules neurones
+
+122
+00:06:31,780 --> 00:06:33,980
+par exemple pour le poliovirus il y a
+
+123
+00:06:33,980 --> 00:06:37,180
+les neurotropes et les coxsacivirus et ils ont
+
+124
+00:06:37,180 --> 00:06:41,320
+un tropisme cardiaque, un tropisme vers le corps
+
+125
+00:06:41,320 --> 00:06:43,060
+comme le coxsacivirus B.
+
+126
+00:06:48,480 --> 00:06:50,260
+Donc ils se multiplient dans le tube digestif
+
+127
+00:06:50,260 --> 00:06:52,660
+et ils vont bien sûr être éliminés par
+
+128
+00:06:52,660 --> 00:06:53,140
+les selles.
+
+129
+00:06:53,460 --> 00:06:56,980
+Donc les selles sont une voie d'élimination
+
+130
+00:06:56,980 --> 00:06:59,180
+du virus mais aussi une voie de contamination
+
+131
+00:06:59,180 --> 00:07:02,360
+lorsque ces selles sont en contact avec de
+
+132
+00:07:02,360 --> 00:07:04,380
+l'eau ou des aliments qui vont être
+
+133
+00:07:04,380 --> 00:07:07,080
+souillés avec cette eau souillée aussi.
+
+134
+00:07:07,700 --> 00:07:09,640
+Donc c'est pour ça que c'est
+
+135
+00:07:09,640 --> 00:07:11,640
+lié à l'hygiène et c'est les
+
+136
+00:07:11,640 --> 00:07:14,680
+milieux précaires où ça sévit principalement.
+
+137
+00:07:18,230 --> 00:07:20,390
+Vous voyez ici que l'homme qui porte
+
+138
+00:07:20,390 --> 00:07:21,590
+l'eau de javel en fait l'eau
+
+139
+00:07:21,590 --> 00:07:24,910
+de javel détruit ce virus et donc lorsqu
+
+140
+00:07:24,910 --> 00:07:28,970
+'on utilise régulièrement l'eau de javel au
+
+141
+00:07:28,970 --> 00:07:32,290
+niveau des surfaces, donc ça réduit considérablement la
+
+142
+00:07:32,290 --> 00:07:34,190
+contamination par ces virus.
+
+143
+00:07:34,350 --> 00:07:38,210
+Et donc ces virus sont principalement sévis chez
+
+144
+00:07:38,210 --> 00:07:45,770
+les enfants lorsque l'hygiène est un peu
+
+145
+00:07:45,770 --> 00:07:46,730
+précaire.
+
+146
+00:07:47,970 --> 00:07:52,170
+Donc ça contamine les animaux, la contamination fécale
+
+147
+00:07:52,170 --> 00:07:54,850
+de l'environnement à travers les poissons contaminés
+
+148
+00:07:54,850 --> 00:07:55,230
+etc.
+
+149
+00:08:01,630 --> 00:08:03,730
+Vous voyez vous avez ce tableau qui regroupe
+
+150
+00:08:03,730 --> 00:08:07,670
+en fait les virus en fonction des pathologies
+
+151
+00:08:07,670 --> 00:08:08,910
+que ça peut incarner.
+
+152
+00:08:09,410 --> 00:08:13,590
+Alors on va parler quand même du poliomyélite,
+
+153
+00:08:13,590 --> 00:08:16,570
+le poliovirus et la maladie ça s'appelle
+
+154
+00:08:16,570 --> 00:08:18,550
+la poliomyélite, en fait c'est la paralysie
+
+155
+00:08:18,550 --> 00:08:19,450
+flasque aiguë.
+
+156
+00:08:20,190 --> 00:08:22,870
+Regardez ici en fait c'était responsable de
+
+157
+00:08:22,870 --> 00:08:26,430
+des centaines de milliers d'enfants qui avaient
+
+158
+00:08:26,430 --> 00:08:29,650
+ce problème de poliomyélite qui est une paralysie
+
+159
+00:08:29,650 --> 00:08:33,230
+des membres inférieurs, ce qu'on appelle la
+
+160
+00:08:33,230 --> 00:08:34,190
+paralysie flasque aiguë.
+
+161
+00:08:35,090 --> 00:08:36,570
+Et ça vient en fait ce terme grec
+
+162
+00:08:36,570 --> 00:08:40,289
+du polio gris, muelos, c'est la moelle,
+
+163
+00:08:40,710 --> 00:08:42,890
+en fait la substance grise de la moelle
+
+164
+00:08:42,890 --> 00:08:43,530
+épinière.
+
+165
+00:08:44,370 --> 00:08:47,550
+Et vous imaginez que la poliomyélite est connue
+
+166
+00:08:47,550 --> 00:08:48,930
+depuis 3500 ans.
+
+167
+00:08:50,050 --> 00:08:52,950
+Donc ça a été vu déjà dans les
+
+168
+00:08:52,950 --> 00:08:54,070
+stèles égyptiennes voilà.
+
+169
+00:08:54,470 --> 00:08:56,950
+Donc les stèles des pharaons à l'époque
+
+170
+00:08:56,950 --> 00:09:00,410
+des pharaons dans les pyramides.
+
+171
+00:09:01,070 --> 00:09:03,870
+On voit bien que la poliomyélite a décimé
+
+172
+00:09:03,870 --> 00:09:06,490
+les populations et donc ça a été carrément
+
+173
+00:09:06,490 --> 00:09:09,670
+éternisé dans des stèles égyptiennes.
+
+174
+00:09:33,520 --> 00:09:38,700
+Donc comme je l'ai dit donc c
+
+175
+00:09:38,700 --> 00:09:41,480
+'est connu et même il y a dans
+
+176
+00:09:41,480 --> 00:09:43,800
+la deuxième guerre mondiale il y avait le
+
+177
+00:09:43,800 --> 00:09:47,020
+président américain Roosevelt qui était atteint de la
+
+178
+00:09:47,020 --> 00:09:47,620
+poliomyélite.
+
+179
+00:09:48,360 --> 00:09:51,980
+Voilà et tellement ne pouvait pas marcher donc
+
+180
+00:09:51,980 --> 00:09:59,240
+que la fameuse photo de la convention à
+
+181
+00:09:59,240 --> 00:10:03,660
+l'époque pour la coalition contre l'Allemagne
+
+182
+00:10:03,660 --> 00:10:06,860
+a été bien sûr photographiée en position assise
+
+183
+00:10:06,860 --> 00:10:10,220
+parce que le président américain avait la poliomyélite.
+
+184
+00:10:13,620 --> 00:10:16,640
+Donc la multiplication par voie orale et puis
+
+185
+00:10:16,640 --> 00:10:19,700
+la viremie, le virus va atteindre les neurones
+
+186
+00:10:19,700 --> 00:10:22,380
+et de la corde antérieure et ça détruit
+
+187
+00:10:22,380 --> 00:10:24,760
+les neurones, ça détruit les neurones ce qui
+
+188
+00:10:24,760 --> 00:10:29,400
+aboutit à une paralysie brutale donc la paralysie
+
+189
+00:10:29,400 --> 00:10:29,820
+brutale.
+
+190
+00:10:30,500 --> 00:10:32,660
+Heureusement grâce à la vaccination ça a été
+
+191
+00:10:32,660 --> 00:10:34,200
+réduit considérablement.
+
+192
+00:10:38,130 --> 00:10:39,970
+L'incubation de 10 à 14 jours dans
+
+193
+00:10:39,970 --> 00:10:42,790
+deux semaines avec une fièvre associée à des
+
+194
+00:10:42,790 --> 00:10:45,270
+douleurs musculaires et donc il y a une
+
+195
+00:10:45,270 --> 00:10:49,510
+paralysie asymétrique en fait des membres inférieurs.
+
+196
+00:10:50,090 --> 00:10:53,590
+Voilà c'est pas très symétrique donc et
+
+197
+00:10:53,590 --> 00:10:56,050
+le syndrome paralytique va être ascendant donc il
+
+198
+00:10:56,050 --> 00:10:57,670
+va aller des membres inférieurs vers le haut
+
+199
+00:10:57,670 --> 00:11:01,950
+jusqu'aux muscles respiratoires et lorsque ça atteint
+
+200
+00:11:01,950 --> 00:11:04,410
+les muscles respiratoires, la paralysie des muscles respiratoires
+
+201
+00:11:04,410 --> 00:11:08,130
+au niveau des poumons est une catastrophe après
+
+202
+00:11:08,130 --> 00:11:12,950
+parce qu'après il y a une cardio
+
+203
+00:11:12,950 --> 00:11:16,310
+respiratoire due à la paralysie respiratoire notamment.
+
+204
+00:11:18,150 --> 00:11:20,170
+Donc le pronostic vital est engagé.
+
+205
+00:11:20,410 --> 00:11:22,410
+A l'époque la polymnie au XXe siècle
+
+206
+00:11:22,410 --> 00:11:23,950
+dans les pays à haut niveau d'hygiène
+
+207
+00:11:23,950 --> 00:11:27,150
+avant la vaccination il y avait, regardez, des
+
+208
+00:11:27,650 --> 00:11:32,390
+hôpitaux, on voyait ce qu'on appelle l
+
+209
+00:11:32,390 --> 00:11:34,850
+'ancêtre de ce qu'on appelle le poumon
+
+210
+00:11:34,850 --> 00:11:35,250
+d'acier.
+
+211
+00:11:35,550 --> 00:11:36,530
+Le poumon d'acier en fait c'est
+
+212
+00:11:36,530 --> 00:11:41,390
+l'ancêtre du respirateur artificiel et donc c
+
+213
+00:11:41,390 --> 00:11:45,290
+'est pour en fait il y a une
+
+214
+00:11:45,290 --> 00:11:49,010
+paralysie au niveau des muscles respiratoires et donc
+
+215
+00:11:49,010 --> 00:11:57,910
+ces poumons d'acier permettaient de bien sûr
+
+216
+00:11:57,910 --> 00:12:02,490
+de remédier à cette paralysie respiratoire bien sûr
+
+217
+00:12:02,490 --> 00:12:04,770
+et ça n'existait que dans les pays
+
+218
+00:12:04,770 --> 00:12:07,750
+riches notamment regardez ici il y avait des
+
+219
+00:12:07,750 --> 00:12:13,410
+hôpitaux carrément dédiés à ces poumons d'acier
+
+220
+00:12:13,410 --> 00:12:14,630
+ce qu'on appelle les poumons d'acier
+
+221
+00:12:14,630 --> 00:12:18,830
+l'ancêtre du respirateur artificiel actuellement.
+
+222
+00:12:20,230 --> 00:12:22,730
+Donc Franklin Roosevelt, 32e président des Etats-Unis
+
+223
+00:12:22,730 --> 00:12:25,110
+a contracté la polymnie à l'âge de
+
+224
+00:12:25,110 --> 00:12:26,170
+39 ans déjà.
+
+225
+00:12:29,000 --> 00:12:30,520
+Cette paralysie des membres inférieurs.
+
+226
+00:12:33,680 --> 00:12:35,880
+L'isolement c'est après que ça a
+
+227
+00:12:35,880 --> 00:12:38,600
+été isolé on ne savait pas bien sûr
+
+228
+00:12:38,600 --> 00:12:43,740
+le virus comment il est et donc ce
+
+229
+00:12:43,740 --> 00:12:46,420
+n'est qu'en 1949 que ça a
+
+230
+00:12:46,420 --> 00:12:48,220
+été isolé pour la première fois et cette
+
+231
+00:12:48,220 --> 00:12:49,720
+découverte leur a valu le prix Nobel de
+
+232
+00:12:49,720 --> 00:12:52,640
+médecine pour les trois bien sûr Anders, Veller
+
+233
+00:12:52,640 --> 00:12:53,020
+et Robin.
+
+234
+00:12:56,240 --> 00:12:58,080
+Et dans les années 50 après il y
+
+235
+00:12:58,080 --> 00:13:02,480
+a les premiers vaccins contre la poliomyélite qui
+
+236
+00:13:02,480 --> 00:13:03,680
+ont eu un grand succès donc il y
+
+237
+00:13:03,680 --> 00:13:06,640
+avait deux vaccins parce que la maladie faisait
+
+238
+00:13:06,640 --> 00:13:10,140
+des ravages dans les populations avec des bien
+
+239
+00:13:10,140 --> 00:13:13,380
+sûr des paralysies des enfants, des centaines et
+
+240
+00:13:13,380 --> 00:13:14,800
+des milliers d'enfants à travers le monde
+
+241
+00:13:14,800 --> 00:13:18,420
+et donc c'est un virus qui se
+
+242
+00:13:18,420 --> 00:13:20,620
+transmet par voie orophécale et donc c'est
+
+243
+00:13:20,620 --> 00:13:24,240
+plus facile particulièrement dans les pays pauvres ou
+
+244
+00:13:24,240 --> 00:13:25,120
+les pays du tiers monde.
+
+245
+00:13:25,520 --> 00:13:28,180
+Donc il y avait dans les années 50
+
+246
+00:13:28,180 --> 00:13:30,040
+il y avait une course contre la montre
+
+247
+00:13:30,040 --> 00:13:33,720
+pour trouver une solution et donc il y
+
+248
+00:13:33,720 --> 00:13:35,120
+a eu le vaccin de Salk et le
+
+249
+00:13:35,120 --> 00:13:37,180
+vaccin de Sabin, les deux savants, enfin les
+
+250
+00:13:37,180 --> 00:13:42,320
+deux virologues qui ont contribué à l'élaboration
+
+251
+00:13:42,320 --> 00:13:43,280
+de ce vaccin.
+
+252
+00:13:44,920 --> 00:13:47,260
+Voilà les prélèvements.
+
+253
+00:13:47,660 --> 00:13:49,760
+Alors les prélèvements on peut pour le polivirus
+
+254
+00:13:49,760 --> 00:13:51,660
+vous avez trois types de prélèvements.
+
+255
+00:13:52,600 --> 00:13:55,060
+Vous avez la gorge parce que le virus
+
+256
+00:13:55,060 --> 00:13:56,760
+se transmet par voie orophécale et donc on
+
+257
+00:13:56,760 --> 00:13:59,200
+peut le retrouver dans la gorge et il
+
+258
+00:13:59,200 --> 00:14:00,260
+est dans l'aisselle parce qu'il est
+
+259
+00:14:00,260 --> 00:14:03,640
+dans l'aisselle d'accord et puis dans
+
+260
+00:14:03,640 --> 00:14:05,380
+les ménages parce qu'il y a un
+
+261
+00:14:05,380 --> 00:14:08,820
+tropisme pour le système nerveux central et donc
+
+262
+00:14:08,820 --> 00:14:12,260
+on le retrouve dans le LCR, dans le
+
+263
+00:14:12,260 --> 00:14:13,360
+liquide céphalo-rachidien.
+
+264
+00:14:14,120 --> 00:14:16,960
+Donc LCR, si on vous demande quels sont
+
+265
+00:14:16,960 --> 00:14:19,620
+les prélèvements préconisés pour la recherche, pour rechercher,
+
+266
+00:14:19,780 --> 00:14:22,000
+pour détecter le virus de la poliomyélite, c
+
+267
+00:14:22,000 --> 00:14:25,100
+'est le liquide céphalo-rachidien, la gorge et
+
+268
+00:14:25,100 --> 00:14:26,400
+l'aisselle, c'est là on retrouve le
+
+269
+00:14:26,400 --> 00:14:26,660
+virus.
+
+270
+00:14:28,870 --> 00:14:32,110
+Le diagnostic c'est, il y a bien
+
+271
+00:14:32,110 --> 00:14:35,450
+sûr, on peut faire la culture cellulaire d
+
+272
+00:14:35,450 --> 00:14:38,790
+'accord et sur HEP2 par exemple, c'est
+
+273
+00:14:38,790 --> 00:14:42,730
+aux cellules zéro d'accord et puis on
+
+274
+00:14:42,730 --> 00:14:44,930
+peut, il y a un arrondissement des cellules
+
+275
+00:14:44,930 --> 00:14:46,810
+et détachement du tapis cellulaire au bout de
+
+276
+00:14:46,810 --> 00:14:49,250
+24 à 48 heures qui est témoin de
+
+277
+00:14:49,250 --> 00:14:51,670
+la présence du virus de la poliomyélite.
+
+278
+00:14:54,670 --> 00:14:56,390
+Voilà, c'est ce qu'on voit ici,
+
+279
+00:14:56,750 --> 00:15:00,050
+c'est les flasques où on met le
+
+280
+00:15:00,050 --> 00:15:03,570
+prélèvement ici et on regarde au microscope inversé
+
+281
+00:15:03,570 --> 00:15:06,270
+pour voir un petit peu cet ECP qui
+
+282
+00:15:06,270 --> 00:15:07,750
+est l'effet cytopathique.
+
+283
+00:15:11,720 --> 00:15:13,820
+La séroneutralisation, on en a parlé la dernière
+
+284
+00:15:13,820 --> 00:15:18,900
+fois déjà et donc en plus il y
+
+285
+00:15:18,900 --> 00:15:23,800
+a l'immunofluorescence par utilisation d'anticorps monoclonaux
+
+286
+00:15:23,800 --> 00:15:27,960
+qui permet de détecter aussi le genre et
+
+287
+00:15:27,960 --> 00:15:31,260
+puis vous avez aussi la PCR qui est
+
+288
+00:15:31,260 --> 00:15:34,480
+une bien sûr, une méthode, une technique très
+
+289
+00:15:34,480 --> 00:15:38,120
+intéressante pour détecter le poliovirus.
+
+290
+00:15:39,040 --> 00:15:42,980
+Le diagnostic de titrage des anticorps n'a
+
+291
+00:15:42,980 --> 00:15:45,120
+pas d'intérêt sauf pour la séroneutralisation.
+
+292
+00:15:47,650 --> 00:15:49,110
+Donc la prévention, il n'y a pas
+
+293
+00:15:49,110 --> 00:15:51,690
+de traitement antiviral efficace, il y a en
+
+294
+00:15:51,690 --> 00:15:55,230
+fait la prévention, c'est le vaccin antipoliomyélite
+
+295
+00:15:55,230 --> 00:15:57,870
+avec les deux types de vaccins dont on
+
+296
+00:15:57,870 --> 00:16:00,530
+a parlé, il contient les souches de polio
+
+297
+00:16:00,530 --> 00:16:02,590
+1, 2 et 3 atténués ou inactivés selon
+
+298
+00:16:02,590 --> 00:16:03,170
+le type de vaccin.
+
+299
+00:16:03,430 --> 00:16:05,410
+Donc vous voyez ici que le vaccin vivant
+
+300
+00:16:05,410 --> 00:16:09,110
+à base de virus vivant, il se fait
+
+301
+00:16:09,110 --> 00:16:10,850
+en dose unique, c'est suffisant parce que
+
+302
+00:16:10,850 --> 00:16:12,950
+le virus est vivant, il se réplique, une
+
+303
+00:16:12,950 --> 00:16:14,430
+fois qu'on le met par voie orale,
+
+304
+00:16:14,970 --> 00:16:16,170
+il n'est pas cher donc on l
+
+305
+00:16:16,170 --> 00:16:17,830
+'utilise dans les pays en voie de développement
+
+306
+00:16:17,830 --> 00:16:19,130
+qui n'ont pas les moyens d'acheter
+
+307
+00:16:19,130 --> 00:16:24,030
+le vaccin injectable.
+
+308
+00:16:25,050 --> 00:16:27,330
+Donc ça c'est la voie orale mais
+
+309
+00:16:27,330 --> 00:16:28,730
+il a beaucoup d'inconvénients, c'est un
+
+310
+00:16:28,730 --> 00:16:31,830
+vaccin fragile, il faut le transporter dans des
+
+311
+00:16:31,830 --> 00:16:36,670
+conditions très strictes, il est contre-indiqué chez
+
+312
+00:16:36,670 --> 00:16:38,670
+l'immunodéprimé, chez la femme enceinte, il y
+
+313
+00:16:38,670 --> 00:16:41,830
+a possibilité de mutations réverses et parfois il
+
+314
+00:16:41,830 --> 00:16:45,970
+y a des cas d'infection virale mais
+
+315
+00:16:45,970 --> 00:16:46,630
+c'est très rare.
+
+316
+00:16:47,050 --> 00:16:52,690
+Le vaccin inactivé injectable, c'est le vaccin
+
+317
+00:16:52,690 --> 00:16:55,130
+de Salk, il n'y a pas de
+
+318
+00:16:55,130 --> 00:16:56,750
+contre-indication, c'est ça qui est intéressant,
+
+319
+00:16:56,910 --> 00:16:58,630
+il a une bonne immunité après plusieurs doses,
+
+320
+00:16:58,710 --> 00:17:02,350
+il faut faire un rappel, et l'inconvénient
+
+321
+00:17:02,350 --> 00:17:03,030
+c'est qu'il n'y a pas
+
+322
+00:17:03,030 --> 00:17:05,710
+d'immunité locale et ça coûte cher.
+
+323
+00:17:07,030 --> 00:17:08,690
+Mais ça reste un vaccin, ça c'est
+
+324
+00:17:08,690 --> 00:17:12,089
+le vaccin de Salk, le premier c'est
+
+325
+00:17:12,089 --> 00:17:14,010
+le vaccin de Sabin, ce qu'on avait
+
+326
+00:17:14,010 --> 00:17:15,530
+vu c'est le vaccin oral à base
+
+327
+00:17:15,530 --> 00:17:18,569
+de virus vivant atténué et le vaccin de
+
+328
+00:17:18,569 --> 00:17:20,990
+Salk c'est le vaccin injectable.
+
+329
+00:17:27,339 --> 00:17:32,860
+Les coxsackies, on a parlé du poliovirus, du
+
+330
+00:17:32,860 --> 00:17:35,980
+genre enterovirus, vous avez les autres enterovirus qui
+
+331
+00:17:35,980 --> 00:17:40,080
+peuvent donner les méningites lymphocytaires aigus, les enterovirus,
+
+332
+00:17:40,180 --> 00:17:42,900
+vous avez les coxsackie virus qui donnent des
+
+333
+00:17:42,900 --> 00:17:48,080
+pathologies musculaires, cardiaques, l'herpongine pour les coxsackies
+
+334
+00:17:48,080 --> 00:17:50,540
+A ou même le conjonctivite, la conjonctivite à
+
+335
+00:17:50,540 --> 00:17:53,580
+coxsackie A, la coxsackie A24 par exemple.
+
+336
+00:17:56,180 --> 00:17:57,820
+Ça c'est le tableau qui regroupe bien
+
+337
+00:17:57,820 --> 00:18:03,320
+sûr la maladie mimpié-bouche pour l'enterovirus
+
+338
+00:18:03,320 --> 00:18:03,760
+71.
+
+339
+00:18:04,460 --> 00:18:07,800
+Donc vous avez plusieurs espèces qui sont responsables
+
+340
+00:18:07,800 --> 00:18:10,500
+de la conjonctivite comme le coxsackie A qui
+
+341
+00:18:10,500 --> 00:18:16,200
+appartient au genre enterovirus, conjonctivite hémorragique, voire l
+
+342
+00:18:16,200 --> 00:18:20,720
+'herpongine qui est en fait une angine vésiculeuse
+
+343
+00:18:20,720 --> 00:18:21,540
+au niveau du pharynx.
+
+344
+00:18:30,160 --> 00:18:31,920
+Toujours près des bandes de gorge, près des
+
+345
+00:18:31,920 --> 00:18:34,960
+bandes de selle et le SR aussi parfois
+
+346
+00:18:34,960 --> 00:18:36,820
+la vésicule ou même la conjonctive.
+
+347
+00:18:41,200 --> 00:18:46,500
+Le rhinovirus, il se multiplie à 33 degrés
+
+348
+00:18:46,500 --> 00:18:48,800
+ce qui fait qu'il se concentre dès
+
+349
+00:18:48,800 --> 00:18:50,800
+que la température baisse et donc c'est
+
+350
+00:18:50,800 --> 00:18:52,540
+pour ça qu'il sévit particulièrement dans la
+
+351
+00:18:52,540 --> 00:19:00,680
+saison autonome hivernale parce que la température baisse
+
+352
+00:19:00,680 --> 00:19:03,740
+et puis donc il y a cette température
+
+353
+00:19:03,740 --> 00:19:08,420
+au niveau nasal qui avoisine les 33-34
+
+354
+00:19:08,420 --> 00:19:10,720
+degrés et donc c'est là où il
+
+355
+00:19:10,720 --> 00:19:13,300
+retrouve la température idéale pour se multiplier avant
+
+356
+00:19:13,300 --> 00:19:16,360
+de pénétrer au niveau bien sûr du nasopharynx.
+
+357
+00:19:26,260 --> 00:19:29,300
+Donc parfois justement actuellement on retrouve beaucoup de
+
+358
+00:19:29,300 --> 00:19:32,700
+rhinovirus dans nos laboratoires parce qu'il y
+
+359
+00:19:32,700 --> 00:19:36,460
+a cette symptomatologie avec l'éternuement, le nez
+
+360
+00:19:36,460 --> 00:19:39,900
+qui coule, l'hémialgie, parfois des céphalées, même
+
+361
+00:19:39,900 --> 00:19:43,160
+une fièvre parfois et en fait ça pose
+
+362
+00:19:43,160 --> 00:19:43,600
+problème.
+
+363
+00:19:43,700 --> 00:19:44,940
+Est-ce que c'est le coronavirus ou
+
+364
+00:19:44,940 --> 00:19:45,600
+le rhinovirus ?
+
+365
+00:19:45,600 --> 00:19:47,560
+Parfois on trouve que c'est pas le
+
+366
+00:19:47,560 --> 00:19:50,140
+coronavirus c'est plutôt le rhinovirus qui circule
+
+367
+00:19:50,140 --> 00:19:55,690
+actuellement et donc c'est la PCR qui
+
+368
+00:19:55,690 --> 00:19:57,710
+nous permet de faire la différence.
+
+369
+00:19:58,530 --> 00:20:08,180
+Voilà pour les picornaviridae, on va
+
+370
+00:20:08,180 --> 00:20:10,500
+voir un autre cours.
+
+371
+00:20:25,620 --> 00:20:27,860
+Alors picornaviridae, virus de la rage, allez on
+
+372
+00:20:27,860 --> 00:20:44,220
+va voir les virus de la rage, Smythe
+
+373
+00:20:49,880 --> 00:20:52,340
+éteignez vos micros s'il vous plaît.
+
+374
+00:20:58,770 --> 00:21:05,290
+Alors on va voir les questions, donc il
+
+375
+00:21:07,240 --> 00:21:08,460
+n'y a pas de questions par rapport
+
+376
+00:21:08,460 --> 00:21:12,490
+à la famille des picornaviridae.
+
+377
+00:21:12,630 --> 00:21:15,690
+Alors on va passer au cours sur la
+
+378
+00:21:15,690 --> 00:21:19,070
+rage, sur la rage donc le virus de
+
+379
+00:21:19,070 --> 00:21:22,090
+la rage, rapidement.
+
+380
+00:21:23,690 --> 00:21:25,910
+Alors la rage c'est une encéphalite qui
+
+381
+00:21:25,910 --> 00:21:27,930
+est mortelle en fait parce que le virus
+
+382
+00:21:27,930 --> 00:21:30,330
+il est neurotrope, il est pathogène.
+
+383
+00:21:30,410 --> 00:21:32,050
+En fait c'est une zoonose parce que
+
+384
+00:21:32,050 --> 00:21:35,390
+le virus, le réservoir est animal.
+
+385
+00:21:36,010 --> 00:21:38,230
+Il n'y a pas de transmission d
+
+386
+00:21:38,230 --> 00:21:39,790
+'homme à homme du virus de la rage,
+
+387
+00:21:40,170 --> 00:21:41,370
+ça c'est important à souligner.
+
+388
+00:21:41,610 --> 00:21:47,730
+Donc le virus de la rage arrive accidentellement
+
+389
+00:21:47,730 --> 00:21:48,450
+chez l'homme, voilà.
+
+390
+00:21:48,910 --> 00:21:51,510
+C'est un accident parce que l'homme
+
+391
+00:21:51,510 --> 00:21:54,230
+est un cul de sac pour ce virus.
+
+392
+00:21:55,610 --> 00:22:00,390
+Voilà donc elle est transmise par la salive,
+
+393
+00:22:00,530 --> 00:22:02,970
+par une morsure d'un animal enragé ou
+
+394
+00:22:02,970 --> 00:22:03,830
+même les chats, j'en revois.
+
+395
+00:22:04,270 --> 00:22:07,390
+Elle pose un sérieux problème de santé publique
+
+396
+00:22:07,390 --> 00:22:09,610
+à travers le monde, d'accord, et elle
+
+397
+00:22:09,610 --> 00:22:11,770
+reste la dixième maladie infectieuse mortelle.
+
+398
+00:22:15,480 --> 00:22:17,780
+C'est une maladie à déclaration obligatoire, il
+
+399
+00:22:17,780 --> 00:22:22,140
+faut la déclarer à chaque fois qu'il
+
+400
+00:22:22,140 --> 00:22:26,660
+y a une suspicion clinique ou biologique, une
+
+401
+00:22:26,660 --> 00:22:28,880
+confirmation biologique, parce que la confirmation est toujours
+
+402
+00:22:28,880 --> 00:22:33,620
+biologique, même si le diagnostic est clinique, principalement
+
+403
+00:22:33,620 --> 00:22:34,040
+clinique.
+
+404
+00:22:37,180 --> 00:22:38,880
+Et donc en fait le virus de la
+
+405
+00:22:38,880 --> 00:22:43,900
+rage a une longue histoire puisque il y
+
+406
+00:22:43,900 --> 00:22:46,940
+a le monde de la rage avant Pasteur
+
+407
+00:22:46,940 --> 00:22:48,000
+et après Pasteur.
+
+408
+00:22:48,000 --> 00:22:53,880
+Lui Pasteur, en fait, c'est lui qui
+
+409
+00:22:53,880 --> 00:22:56,480
+a découvert le premier, qui a découvert le
+
+410
+00:22:56,960 --> 00:22:58,000
+vaccin contre la rage.
+
+411
+00:22:59,700 --> 00:23:04,500
+Donc il y avait lui Pasteur qui, dès
+
+412
+00:23:04,500 --> 00:23:10,260
+les années 1822, en fait il met au
+
+413
+00:23:10,260 --> 00:23:13,800
+point la vaccination le 26 octobre 1885, c
+
+414
+00:23:13,800 --> 00:23:16,260
+'est à partir de cette date qu'il
+
+415
+00:23:16,260 --> 00:23:17,720
+va commencer à vacciner.
+
+416
+00:23:19,020 --> 00:23:20,240
+On va voir après les détails.
+
+417
+00:23:21,980 --> 00:23:24,520
+Donc c'est un virus de genre Lysavirus,
+
+418
+00:23:24,900 --> 00:23:27,060
+la famille des Rhabdoviridae.
+
+419
+00:23:28,060 --> 00:23:28,740
+Pourquoi Rhabdo ?
+
+420
+00:23:28,740 --> 00:23:30,920
+Rhabdo c'est baguette, parce que ça ressemble
+
+421
+00:23:30,920 --> 00:23:33,420
+à une baguette, en fait on appelle ce
+
+422
+00:23:33,420 --> 00:23:35,780
+virus, il a un aspect en balle de
+
+423
+00:23:35,780 --> 00:23:37,520
+fusil ou en balle de révolver.
+
+424
+00:23:37,940 --> 00:23:40,920
+Voilà, ça c'est l'aspect typique du
+
+425
+00:23:40,920 --> 00:23:45,910
+virus de la rage qu'on retrouve réellement
+
+426
+00:23:45,910 --> 00:23:48,610
+au microscope électronique, c'est pas une photo
+
+427
+00:23:48,610 --> 00:23:51,290
+réelle au microscope électronique, cet aspect en balle
+
+428
+00:23:51,290 --> 00:23:53,570
+de révolver ou en balle de fusil.
+
+429
+00:23:54,810 --> 00:24:00,730
+Donc c'est une capside hélicoïdale, une capside
+
+430
+00:24:00,730 --> 00:24:03,250
+tubulaire à symétrie hélicoïdale, voilà c'est ça
+
+431
+00:24:03,250 --> 00:24:03,710
+en fait.
+
+432
+00:24:04,810 --> 00:24:06,670
+C'est un virus enveloppé.
+
+433
+00:24:06,950 --> 00:24:08,630
+Alors la rage classique qu'on connaît en
+
+434
+00:24:08,630 --> 00:24:10,050
+fait c'est la rage classique parce qu
+
+435
+00:24:10,050 --> 00:24:13,310
+'il y a plusieurs types de virus, il
+
+436
+00:24:13,310 --> 00:24:14,150
+y a la rage classique, il y a
+
+437
+00:24:14,150 --> 00:24:19,230
+le Lagos, le Mocola, le buvenage, tout ce
+
+438
+00:24:19,230 --> 00:24:21,230
+qui est important en fait, et là où
+
+439
+00:24:21,230 --> 00:24:24,510
+le vaccin est efficace, c'est la rage
+
+440
+00:24:24,510 --> 00:24:27,110
+classique qui est mondiale qu'on retrouve chez
+
+441
+00:24:27,110 --> 00:24:29,610
+l'homme, chez les carnivores sauvages et domestiques,
+
+442
+00:24:30,130 --> 00:24:32,930
+particulièrement les chauves-souris qui ont le Rhabdovirus.
+
+443
+00:24:34,670 --> 00:24:40,410
+La multiplication classique intracellulaire, les différentes phases, on
+
+444
+00:24:40,410 --> 00:24:41,950
+ne va pas rentrer dans les détails, le
+
+445
+00:24:41,950 --> 00:24:43,830
+virus il est fragile, il est enveloppé et
+
+446
+00:24:43,830 --> 00:24:45,530
+donc il est facilement inactivé par l'eau
+
+447
+00:24:45,530 --> 00:24:48,090
+de Javel, par le pH acide, par les
+
+448
+00:24:48,090 --> 00:24:51,710
+UV, l'ultraviolet, l'eau de Javel, le
+
+449
+00:24:51,710 --> 00:24:52,190
+savon.
+
+450
+00:24:57,960 --> 00:24:59,160
+Il y a à peu près 50 000
+
+451
+00:24:59,160 --> 00:25:04,220
+décès par an dans le monde à cause
+
+452
+00:25:04,220 --> 00:25:04,940
+de ce virus.
+
+453
+00:25:07,990 --> 00:25:11,250
+Le réservoir, donc là il y a la
+
+454
+00:25:11,250 --> 00:25:13,590
+rage classique, enfin la rage sauvage et la
+
+455
+00:25:13,590 --> 00:25:16,110
+rage urbaine, donc la rage des rues parce
+
+456
+00:25:16,110 --> 00:25:19,570
+qu'en fait la rage sauvage existe chez
+
+457
+00:25:19,570 --> 00:25:21,610
+les animaux sauvages, donc c'est eux qui
+
+458
+00:25:21,610 --> 00:25:24,190
+vont transmettre après le contact avec les animaux
+
+459
+00:25:24,190 --> 00:25:26,770
+domestiques au niveau urbain, au niveau rural.
+
+460
+00:25:28,690 --> 00:25:31,410
+Vous voyez ici les réservoirs le renard, la
+
+461
+00:25:31,410 --> 00:25:33,730
+moufette, le rat en laveur, les chauves-souris,
+
+462
+00:25:34,270 --> 00:25:36,290
+donc à travers le monde vous avez plusieurs
+
+463
+00:25:36,290 --> 00:25:39,130
+réservoirs qui sont bien sûr dans le monde
+
+464
+00:25:39,130 --> 00:25:43,090
+sauvage, qui sont le réservoir principal de ce
+
+465
+00:25:43,090 --> 00:25:43,430
+virus.
+
+466
+00:25:44,850 --> 00:25:47,790
+Et puis la rage urbaine en fait chez
+
+467
+00:25:47,790 --> 00:25:51,210
+nous c'est le chien, principal vecteur de
+
+468
+00:25:51,210 --> 00:25:52,930
+ce virus, c'est le chien, donc les
+
+469
+00:25:52,930 --> 00:25:54,170
+chiens errants en particulier.
+
+470
+00:25:55,550 --> 00:25:56,550
+C'est pour ça que si vous avez
+
+471
+00:25:56,550 --> 00:25:58,970
+des chiens il faut les vacciner très rapidement
+
+472
+00:25:58,970 --> 00:26:01,410
+par le vaccin de la rage.
+
+473
+00:26:04,870 --> 00:26:06,570
+Donc vous voyez ici la rage sauvage en
+
+474
+00:26:06,570 --> 00:26:10,230
+contact avec les animaux domestiques comme le chat,
+
+475
+00:26:10,390 --> 00:26:14,970
+comme le chien, comme même les bovins, les
+
+476
+00:26:14,970 --> 00:26:15,590
+vaches, etc.
+
+477
+00:26:16,170 --> 00:26:17,930
+Et puis ça se transmet à l'homme
+
+478
+00:26:17,930 --> 00:26:20,070
+parce qu'il est en contact avec ces
+
+479
+00:26:20,070 --> 00:26:20,350
+animaux.
+
+480
+00:26:20,470 --> 00:26:22,930
+Regardez les flèches, ils vont nulle part, ils
+
+481
+00:26:22,930 --> 00:26:23,730
+s'arrêtent chez l'homme.
+
+482
+00:26:24,430 --> 00:26:25,450
+Et l'homme est un cul-de-sac,
+
+483
+00:26:25,530 --> 00:26:28,350
+il ne transmet pas l'inverse, il ne
+
+484
+00:26:28,350 --> 00:26:29,990
+va pas transmettre à l'animal.
+
+485
+00:26:30,990 --> 00:26:33,050
+L'homme à la rage ne peut pas
+
+486
+00:26:33,050 --> 00:26:34,210
+transmettre parce qu'il n'y a pas
+
+487
+00:26:34,210 --> 00:26:37,850
+ce passage de l'autre côté ou le
+
+488
+00:26:37,850 --> 00:26:38,770
+passage inter-humain.
+
+489
+00:26:39,910 --> 00:26:40,850
+Donc c'est pour ça que la rage
+
+490
+00:26:40,850 --> 00:26:45,430
+est une zoonose, c'est un virus animal
+
+491
+00:26:45,430 --> 00:26:48,410
+et ça se transmet accidentellement à l'homme
+
+492
+00:26:48,410 --> 00:26:49,830
+qui est un cul-de-sac.
+
+493
+00:26:52,390 --> 00:26:54,630
+Alors ce qui est important à comprendre c
+
+494
+00:26:54,630 --> 00:26:55,950
+'est qu'il y a le passage par
+
+495
+00:26:55,950 --> 00:27:02,650
+morsure, donc l'inoculation par la salive, principalement
+
+496
+00:27:02,650 --> 00:27:04,670
+les morsures mais aussi le léchage.
+
+497
+00:27:05,670 --> 00:27:12,350
+Si le chien a le virus de la
+
+498
+00:27:12,350 --> 00:27:14,230
+rage, il peut le transmettre par sa salive
+
+499
+00:27:14,230 --> 00:27:15,830
+à travers le léchage uniquement.
+
+500
+00:27:17,510 --> 00:27:18,790
+Et ça c'est important à savoir.
+
+501
+00:27:23,440 --> 00:27:25,180
+Donc vous voyez ici que le virus va,
+
+502
+00:27:25,380 --> 00:27:29,120
+une fois que la personne est mordue par
+
+503
+00:27:29,120 --> 00:27:31,700
+un chien enragé, il va s'attacher aux
+
+504
+00:27:31,700 --> 00:27:36,700
+extrémités nerveuses et aller vers le central, là
+
+505
+00:27:36,700 --> 00:27:37,420
+où il est mortel.
+
+506
+00:27:37,520 --> 00:27:39,120
+S'il arrive à ce niveau-là, c
+
+507
+00:27:39,120 --> 00:27:39,760
+'est pratiquement fini.
+
+508
+00:27:39,960 --> 00:27:44,120
+D'ailleurs on dit que lorsque la symptomatologie
+
+509
+00:27:44,120 --> 00:27:45,160
+est déclarée, c'est trop tard.
+
+510
+00:27:47,210 --> 00:27:48,210
+C'est déjà trop tard si on a
+
+511
+00:27:48,210 --> 00:27:52,990
+une céphalite, elle est 100% mortelle lorsque
+
+512
+00:27:52,990 --> 00:27:54,530
+la clinique est déclarée.
+
+513
+00:27:55,170 --> 00:27:58,090
+Donc l'incubation peut durer de 20 à
+
+514
+00:27:58,090 --> 00:27:59,570
+90 jours, voire un an.
+
+515
+00:28:00,010 --> 00:28:03,030
+Ça dépend de la corpulence de l'individu,
+
+516
+00:28:03,970 --> 00:28:06,150
+est-ce qu'il a été mordu des
+
+517
+00:28:06,150 --> 00:28:07,410
+orteils, etc.
+
+518
+00:28:07,670 --> 00:28:09,470
+Pour arriver au système nerveux central, ça prendra
+
+519
+00:28:09,470 --> 00:28:11,970
+beaucoup plus de temps que si c'est
+
+520
+00:28:11,970 --> 00:28:14,350
+un enfant qui a une petite taille ou
+
+521
+00:28:14,350 --> 00:28:16,870
+un bébé, s'il est mordu par exemple
+
+522
+00:28:16,870 --> 00:28:19,790
+au niveau du cou, c'est plus rapide.
+
+523
+00:28:19,950 --> 00:28:21,830
+On peut atteindre au bout de 2-3
+
+524
+00:28:21,830 --> 00:28:22,090
+semaines.
+
+525
+00:28:22,590 --> 00:28:24,090
+Donc vous voyez ici que la corpulence, la
+
+526
+00:28:24,090 --> 00:28:27,450
+taille de l'individu, l'emplacement de la
+
+527
+00:28:27,450 --> 00:28:32,430
+morsure, joue considérablement sur la durée d'incubation.
+
+528
+00:28:35,570 --> 00:28:37,150
+Donc la clinique chez l'animal.
+
+529
+00:28:37,250 --> 00:28:39,610
+En fait l'animal, on croit que le
+
+530
+00:28:39,610 --> 00:28:41,510
+chien enragé a cet aspect agressif.
+
+531
+00:28:41,610 --> 00:28:42,450
+Ce n'est pas toujours le cas.
+
+532
+00:28:42,570 --> 00:28:45,650
+Il y a le chien enragé agressif, et
+
+533
+00:28:45,650 --> 00:28:49,550
+il y a celui qui est trop doux,
+
+534
+00:28:49,810 --> 00:28:50,110
+carrément.
+
+535
+00:28:50,210 --> 00:28:51,170
+C'est la rage paralytique.
+
+536
+00:28:51,310 --> 00:28:55,450
+Il a la rage mais ça le paralyse.
+
+537
+00:28:55,890 --> 00:28:58,330
+C'est ce qu'on voit particulièrement chez
+
+538
+00:28:58,330 --> 00:29:00,850
+les vaches, les bovins en particulier.
+
+539
+00:29:02,070 --> 00:29:04,610
+Chez les chiens, en général, ils sont agressifs.
+
+540
+00:29:05,090 --> 00:29:06,630
+Mais il y a des cas où il
+
+541
+00:29:06,630 --> 00:29:08,810
+y a la rage paralytique.
+
+542
+00:29:10,560 --> 00:29:12,340
+Chez l'homme même, il y a aussi
+
+543
+00:29:12,340 --> 00:29:14,460
+la rage paralytique où on est obligé d
+
+544
+00:29:14,460 --> 00:29:15,580
+'attacher le patient.
+
+545
+00:29:16,700 --> 00:29:18,540
+Et là, c'est déjà trop tard.
+
+546
+00:29:20,140 --> 00:29:21,800
+La forme, alors vous avez une durée d
+
+547
+00:29:21,800 --> 00:29:23,840
+'incubation de 6 jours, regardez ici, 6 jours
+
+548
+00:29:23,840 --> 00:29:26,200
+à 365 jours en fonction comme je l
+
+549
+00:29:26,200 --> 00:29:28,980
+'ai dit de l'emplacement, la morsure est
+
+550
+00:29:28,980 --> 00:29:32,720
+rapprochée du système nerveux central, la taille, l
+
+551
+00:29:32,720 --> 00:29:33,120
+'âge, etc.
+
+552
+00:29:33,820 --> 00:29:35,140
+Et puis vous avez la phase d'état,
+
+553
+00:29:35,220 --> 00:29:39,020
+la phase furieuse où il y a une
+
+554
+00:29:39,020 --> 00:29:43,160
+salivation abondante, l'hydrophobie.
+
+555
+00:29:44,560 --> 00:29:47,220
+L'hydrophobie, c'est un signe classique de
+
+556
+00:29:47,220 --> 00:29:47,620
+la rage.
+
+557
+00:29:51,000 --> 00:29:56,120
+Il y a une douleur extrême lorsqu'on
+
+558
+00:29:56,120 --> 00:29:57,940
+est en contact avec l'eau.
+
+559
+00:29:59,600 --> 00:30:02,320
+Ce qu'on appelle le spasme pharyngolaryngique qui
+
+560
+00:30:02,320 --> 00:30:04,740
+est extrêmement douloureux à l'ingestion des liquides
+
+561
+00:30:04,740 --> 00:30:05,380
+en particulier.
+
+562
+00:30:07,770 --> 00:30:09,650
+Et puis l'aérophobie aussi qui est un
+
+563
+00:30:09,650 --> 00:30:13,430
+spasme fascio-cervical qui est déclenché par une
+
+564
+00:30:13,430 --> 00:30:18,690
+insufflation de l'air derrière l'oreille.
+
+565
+00:30:19,070 --> 00:30:21,150
+Il suffit d'insuffler derrière l'oreille pour
+
+566
+00:30:21,150 --> 00:30:23,490
+avoir ce spasme fascio-cervical extensif.
+
+567
+00:30:23,570 --> 00:30:25,390
+C'est l'aérophobie en fait qui est
+
+568
+00:30:25,390 --> 00:30:30,270
+très caractéristique avec l'hydrophobie et la salivation
+
+569
+00:30:30,270 --> 00:30:33,530
+abondante d'une rage de l'infection par
+
+570
+00:30:33,530 --> 00:30:34,410
+le virus de la rage.
+
+571
+00:30:35,710 --> 00:30:38,070
+C'est la majorité des situations.
+
+572
+00:30:38,230 --> 00:30:40,050
+Et lorsqu'on a ces signes, c'est
+
+573
+00:30:40,050 --> 00:30:40,470
+trop tard.
+
+574
+00:30:41,210 --> 00:30:45,510
+C'est trop tard, le patient décède inévitablement.
+
+575
+00:30:47,250 --> 00:30:49,230
+Vous avez la forme paralytique qui est plus
+
+576
+00:30:49,230 --> 00:30:51,210
+rare, qui est un piège diagnostique parce que
+
+577
+00:30:51,210 --> 00:30:52,690
+ça ressemble un peu à la syndrome de
+
+578
+00:30:52,690 --> 00:30:53,070
+Guillain-Barré.
+
+579
+00:30:54,550 --> 00:30:56,830
+En plus, ce qui est important c'est
+
+580
+00:30:56,830 --> 00:30:59,370
+de faire l'interrogatoire, est-ce que vous
+
+581
+00:30:59,370 --> 00:31:02,990
+avez été en contact avec un chien, etc.
+
+582
+00:31:03,090 --> 00:31:05,070
+Parce que parfois, justement le problème chez les
+
+583
+00:31:05,070 --> 00:31:07,470
+enfants en particulier qui sont de base, qui
+
+584
+00:31:07,470 --> 00:31:08,890
+ont été en contact avec un chien, qui
+
+585
+00:31:08,890 --> 00:31:11,290
+ne peuvent pas le signaler, etc.
+
+586
+00:31:11,390 --> 00:31:12,290
+C'est là où ça pose problème.
+
+587
+00:31:12,750 --> 00:31:15,490
+Et en général, l'enfant arrive déjà trop
+
+588
+00:31:15,490 --> 00:31:17,910
+tard lorsqu'il a été mordu par un
+
+589
+00:31:17,910 --> 00:31:21,590
+chien, particulièrement dans le monde rural.
+
+590
+00:31:25,450 --> 00:31:28,710
+La maladie est mortelle dans 100% des
+
+591
+00:31:28,710 --> 00:31:30,010
+cas cliniquement exprimés.
+
+592
+00:31:31,190 --> 00:31:35,550
+Aérophobie, hydrophobie, salivation abondante, c'est trop tard.
+
+593
+00:31:36,850 --> 00:31:42,120
+Le diagnostic, donc il faut chercher la notion
+
+594
+00:31:42,120 --> 00:31:44,700
+de morsure par un animal, le tableau clinique
+
+595
+00:31:44,700 --> 00:31:50,160
+de la rage, le diagnostic est impossible chez
+
+596
+00:31:50,160 --> 00:31:51,580
+une personne asymptomatique parce qu'il y a
+
+597
+00:31:51,580 --> 00:31:53,520
+des sujets asymptomatiques au départ, donc la période
+
+598
+00:31:53,520 --> 00:31:56,180
+d'incubation, quand il le devient, c'est
+
+599
+00:31:56,180 --> 00:31:56,540
+trop tard.
+
+600
+00:31:58,300 --> 00:31:59,540
+Donc il y a l'animal malade, il
+
+601
+00:31:59,540 --> 00:32:02,440
+nous reste l'animal malade, si on peut
+
+602
+00:32:02,440 --> 00:32:02,920
+le capturer.
+
+603
+00:32:03,320 --> 00:32:05,600
+Donc il faut capturer le chien, il y
+
+604
+00:32:05,600 --> 00:32:07,180
+a cette notion de contact avec le chien
+
+605
+00:32:07,180 --> 00:32:09,820
+pour voir si le chien est contaminé ou
+
+606
+00:32:09,820 --> 00:32:09,980
+pas.
+
+607
+00:32:12,820 --> 00:32:18,020
+Parfois même après l'autopsie, c'est-à
+
+608
+00:32:18,020 --> 00:32:21,120
+-dire que l'enfant par exemple décède et
+
+609
+00:32:21,120 --> 00:32:23,000
+après on fait une autopsie en post-mortem
+
+610
+00:32:23,000 --> 00:32:27,260
+pour confirmer l'origine, que le décès est
+
+611
+00:32:27,260 --> 00:32:28,040
+dû à la rage.
+
+612
+00:32:29,080 --> 00:32:31,580
+Ça, ça arrive aussi.
+
+613
+00:32:40,360 --> 00:32:43,340
+Les prélèvements animaux les plus fréquents, c'est
+
+614
+00:32:43,340 --> 00:32:47,520
+surtout au niveau du cerveau, particulièrement la corne
+
+615
+00:32:47,520 --> 00:32:47,860
+d'amant.
+
+616
+00:32:48,560 --> 00:32:50,500
+Parce que l'animal entier, on peut l
+
+617
+00:32:50,500 --> 00:32:52,000
+'avoir s'il s'agit d'un petit
+
+618
+00:32:52,000 --> 00:32:54,100
+furet, un petit écureuil, mais on ne va
+
+619
+00:32:54,100 --> 00:32:56,760
+pas vous ramener une vache, une vache qui
+
+620
+00:32:56,760 --> 00:32:59,940
+est morte ou un animal entier.
+
+621
+00:33:00,080 --> 00:33:03,600
+Donc on demande au laboratoire d'avoir uniquement
+
+622
+00:33:03,600 --> 00:33:08,020
+la partie du cerveau qui nous intéresse le
+
+623
+00:33:08,020 --> 00:33:08,400
+plus.
+
+624
+00:33:09,640 --> 00:33:13,940
+Ça, ça demande bien sûr aux vétérinaires de
+
+625
+00:33:13,940 --> 00:33:15,240
+faire le nécessaire par rapport à ça.
+
+626
+00:33:18,140 --> 00:33:19,380
+Donc c'est la corne d'amant, c
+
+627
+00:33:19,380 --> 00:33:22,880
+'est le siège de la multiplication principalement de
+
+628
+00:33:22,880 --> 00:33:23,320
+ce virus.
+
+629
+00:33:27,930 --> 00:33:30,430
+Voilà les prélèvements humains en post-mortem, en
+
+630
+00:33:30,430 --> 00:33:34,550
+intravitam, c'est-à-dire la salive, vous
+
+631
+00:33:34,550 --> 00:33:36,890
+avez les biopsies cutanées, le LCR aussi qu
+
+632
+00:33:36,890 --> 00:33:38,030
+'on recherche bien sûr.
+
+633
+00:33:41,120 --> 00:33:43,960
+Alors les techniques, vous avez l'immunofluorescence, les
+
+634
+00:33:43,960 --> 00:33:46,660
+techniques immuno-enzymatiques d'antigènes rabiques aussi qu
+
+635
+00:33:46,660 --> 00:33:47,020
+'on recherche.
+
+636
+00:33:47,120 --> 00:33:48,680
+Vous avez la PCR et l'isolement du
+
+637
+00:33:48,680 --> 00:33:50,540
+virus qu'on fait rarement, mais dans les
+
+638
+00:33:50,540 --> 00:33:52,260
+laboratoires de référence ça se fait.
+
+639
+00:33:53,280 --> 00:33:55,020
+La dose des anticorps on peut le faire,
+
+640
+00:33:55,340 --> 00:33:57,360
+mais surtout la recherche microscopique des corps de
+
+641
+00:33:57,360 --> 00:34:01,380
+négri qui est caractéristique en fait de pathognoménie
+
+642
+00:34:01,380 --> 00:34:05,100
+on va dire de la présence du virus
+
+643
+00:34:05,100 --> 00:34:05,480
+de la rage.
+
+644
+00:34:06,000 --> 00:34:08,100
+Vous voyez ici l'immunofluorescence, c'est l
+
+645
+00:34:08,100 --> 00:34:10,620
+'une des techniques les plus, la technique de
+
+646
+00:34:10,620 --> 00:34:14,219
+référence puisque si vous avez le microscope à
+
+647
+00:34:14,219 --> 00:34:18,199
+fluorescence on peut voir dans un fond noir
+
+648
+00:34:18,199 --> 00:34:22,000
+bien sûr ces inclusions de couleurs jaunes, verts,
+
+649
+00:34:22,120 --> 00:34:22,840
+d'âtres.
+
+650
+00:34:26,010 --> 00:34:28,270
+Voilà aussi les recherches d'antigènes par ces
+
+651
+00:34:28,270 --> 00:34:31,130
+techniques d'ELISA par exemple, ou d'immunofluorescence.
+
+652
+00:34:33,409 --> 00:34:34,330
+La PCR aussi.
+
+653
+00:34:35,710 --> 00:34:37,949
+Et puis on peut utiliser ce qu'on
+
+654
+00:34:37,949 --> 00:34:41,650
+appelle les souriceaux nouveau-nés par inoculation intracérébrale
+
+655
+00:34:41,650 --> 00:34:44,850
+aux souriceaux nouveau-nés qui vont développer bien
+
+656
+00:34:44,850 --> 00:34:48,989
+sûr ce neuroblastome qui est caractéristique, qu'on
+
+657
+00:34:48,989 --> 00:34:50,830
+peut détecter par la suite.
+
+658
+00:34:53,250 --> 00:34:56,570
+Voilà les corps de négri qu'on retrouve
+
+659
+00:34:56,570 --> 00:34:58,930
+dans 80%, à peu près 80% des
+
+660
+00:34:58,930 --> 00:34:59,730
+cas de rage.
+
+661
+00:35:01,010 --> 00:35:02,610
+C'est cet aspect des corps de négri
+
+662
+00:35:02,610 --> 00:35:05,530
+qui est caractéristique, pathognoménique de la rage.
+
+663
+00:35:05,910 --> 00:35:08,770
+Les corps de négri sont pathognoméniques de la
+
+664
+00:35:08,770 --> 00:35:10,130
+rage, c'est-à-dire qu'ils sont
+
+665
+00:35:10,130 --> 00:35:13,210
+spécifiques, qu'on ne retrouve que lorsque le
+
+666
+00:35:13,210 --> 00:35:14,470
+virus de la rage est présent.
+
+667
+00:35:15,590 --> 00:35:17,210
+Donc ça c'est les neurones, on retrouve
+
+668
+00:35:17,210 --> 00:35:20,330
+ça dans les neurones, avec ce corps de
+
+669
+00:35:20,330 --> 00:35:20,610
+négri.
+
+670
+00:35:22,630 --> 00:35:24,850
+Regardez ici encore, corps de négri.
+
+671
+00:35:30,070 --> 00:35:31,790
+Le traitement, alors le traitement, c'est d
+
+672
+00:35:31,790 --> 00:35:33,770
+'abord les soins locaux en urgence, il faut
+
+673
+00:35:33,770 --> 00:35:35,750
+laver abondamment à l'eau avec du savon,
+
+674
+00:35:35,850 --> 00:35:40,090
+du détergent, mettre bien sûr de la bétadine,
+
+675
+00:35:40,410 --> 00:35:43,050
+de l'alcool 70 par exemple.
+
+676
+00:35:43,650 --> 00:35:45,890
+Et puis il faut éviter de suturer lorsqu
+
+677
+00:35:45,890 --> 00:35:47,150
+'on est mordu par un chien, il ne
+
+678
+00:35:47,150 --> 00:35:51,930
+faut pas suturer immédiatement bien sûr, et il
+
+679
+00:35:51,930 --> 00:35:57,230
+faut infiltrer les abords, aux abords de la
+
+680
+00:35:57,230 --> 00:35:59,870
+plaie, le sérum antirabique avant bien sûr de
+
+681
+00:35:59,870 --> 00:36:00,190
+suturer.
+
+682
+00:36:00,430 --> 00:36:03,310
+Il faut bien laver, parce que l'erreur
+
+683
+00:36:03,310 --> 00:36:07,570
+c'est de suturer sur le virus qui
+
+684
+00:36:07,570 --> 00:36:08,110
+est à l'intérieur.
+
+685
+00:36:08,850 --> 00:36:10,010
+Donc c'est comme si vous l'introduisez
+
+686
+00:36:10,010 --> 00:36:10,510
+davantage.
+
+687
+00:36:11,070 --> 00:36:12,930
+Alors qu'il faut d'abord mettre aux
+
+688
+00:36:12,930 --> 00:36:15,350
+abords de la plaie du sérum antirabique avant
+
+689
+00:36:15,350 --> 00:36:15,970
+de suturer.
+
+690
+00:36:17,210 --> 00:36:19,110
+Bien désinfecter bien sûr auparavant.
+
+691
+00:36:20,150 --> 00:36:21,990
+Vérifier l'état immunitaire du tétanos, donc on
+
+692
+00:36:21,990 --> 00:36:24,230
+fait un rappel du vaccin ou on fait
+
+693
+00:36:24,230 --> 00:36:25,430
+un sérum anti-tétanique.
+
+694
+00:36:25,870 --> 00:36:29,550
+Bien sûr l'antivitérapie elle est préconisée parce
+
+695
+00:36:29,550 --> 00:36:32,390
+que l'animal il peut faire passer d
+
+696
+00:36:32,390 --> 00:36:35,690
+'autres infections, les bactéries comme la pasteurelle par
+
+697
+00:36:35,690 --> 00:36:37,930
+exemple, et donc on donne une antivitérapie.
+
+698
+00:36:38,330 --> 00:36:40,490
+Donc ça c'est les soins locaux avec
+
+699
+00:36:40,490 --> 00:36:42,730
+du savon, avec de la bétadine, avec bien
+
+700
+00:36:42,730 --> 00:36:48,630
+sûr des désinfectants, un sérum anti-tétanique, le
+
+701
+00:36:48,630 --> 00:36:52,090
+sérum antirabique contre la rage, c'est des
+
+702
+00:36:52,090 --> 00:36:54,570
+immunoglobulines prêtes à l'emploi, qu'on injecte
+
+703
+00:36:54,570 --> 00:36:58,470
+déjà, et donc il y a aussi ce
+
+704
+00:36:58,470 --> 00:36:59,270
+vaccin curatif.
+
+705
+00:36:59,490 --> 00:37:04,610
+Donc le vaccin en général il a plutôt
+
+706
+00:37:04,610 --> 00:37:10,570
+cette caractéristique de prévention, c'est pour prévenir
+
+707
+00:37:10,570 --> 00:37:15,050
+une infection ultérieure, mais là c'est un
+
+708
+00:37:15,050 --> 00:37:17,810
+cas particulier où le vaccin devient médicament.
+
+709
+00:37:18,330 --> 00:37:21,410
+Le vaccin devient en fait un aspect curatif.
+
+710
+00:37:21,510 --> 00:37:22,070
+Pourquoi ?
+
+711
+00:37:22,070 --> 00:37:23,990
+Parce qu'en fait le virus de la
+
+712
+00:37:23,990 --> 00:37:25,730
+rage ça prend beaucoup de temps pour arriver
+
+713
+00:37:25,730 --> 00:37:26,670
+au cerveau.
+
+714
+00:37:26,850 --> 00:37:28,270
+Parfois ça peut aller jusqu'à une année,
+
+715
+00:37:28,470 --> 00:37:31,270
+dans des cas exceptionnels, et donc on a
+
+716
+00:37:31,270 --> 00:37:35,050
+suffisamment de temps pour que le vaccin fabrique
+
+717
+00:37:35,050 --> 00:37:38,810
+dans notre organisme des anticorps pour protéger, l
+
+718
+00:37:38,810 --> 00:37:42,110
+'arriver jusqu'au cerveau, jusqu'au système nerveux
+
+719
+00:37:42,110 --> 00:37:42,370
+central.
+
+720
+00:37:43,350 --> 00:37:44,790
+Donc c'est pour ça qu'il y
+
+721
+00:37:44,790 --> 00:37:47,450
+a tellement les délais sont tellement longs, enfin
+
+722
+00:37:47,450 --> 00:37:50,390
+ça c'est lorsque le virus, enfin la
+
+723
+00:37:50,390 --> 00:37:52,250
+morsure n'est pas au niveau du cou,
+
+724
+00:37:52,710 --> 00:37:56,290
+chez un enfant, ça c'est compliqué que
+
+725
+00:37:56,290 --> 00:37:57,950
+le vaccin joue le rôle curatif.
+
+726
+00:37:58,670 --> 00:38:03,930
+Mais lorsque la morsure est loin du système
+
+727
+00:38:03,930 --> 00:38:06,250
+nerveux central et elle n'est pas profonde,
+
+728
+00:38:06,370 --> 00:38:06,590
+etc.
+
+729
+00:38:07,210 --> 00:38:09,870
+Le vaccin peut jouer le rôle curatif parce
+
+730
+00:38:09,870 --> 00:38:12,170
+qu'en fait ça permet de fabriquer des
+
+731
+00:38:12,170 --> 00:38:15,650
+anticorps dans un délai qui permet de protéger
+
+732
+00:38:15,650 --> 00:38:18,330
+contre l'atteinte cérébrale.
+
+733
+00:38:19,470 --> 00:38:25,390
+Regardez ici, Louis Pasteur, lorsqu'il a administré
+
+734
+00:38:25,390 --> 00:38:29,250
+son premier vaccin à Joseph Meister, qui a
+
+735
+00:38:29,250 --> 00:38:33,230
+survécu à la rage, grâce à ce vaccin,
+
+736
+00:38:33,350 --> 00:38:37,370
+qui a révolutionné cette infection virale.
+
+737
+00:38:44,660 --> 00:38:46,980
+Donc le protocole de l'OMS pour le
+
+738
+00:38:46,980 --> 00:38:49,600
+vaccin curatif, il faut faire un vaccin pour
+
+739
+00:38:49,600 --> 00:38:51,520
+l'organisation de la santé, c'est J0,
+
+740
+00:38:51,660 --> 00:38:54,320
+J3, J7, J14, et puis un autre à
+
+741
+00:38:54,320 --> 00:38:54,640
+J30.
+
+742
+00:38:55,380 --> 00:39:00,820
+Celui de l'Institut Pasteur de Paris, ou
+
+743
+00:39:00,820 --> 00:39:03,580
+des Instituts Pasteur en général, c'est J0,
+
+744
+00:39:03,680 --> 00:39:05,280
+deux fois, on fait deux injections le premier
+
+745
+00:39:05,280 --> 00:39:08,180
+jour, et au septième jour, et puis au
+
+746
+00:39:08,180 --> 00:39:08,860
+vingtième jour.
+
+747
+00:39:09,220 --> 00:39:10,020
+Et ça marche très bien.
+
+748
+00:39:12,940 --> 00:39:18,660
+La séroprévention, les indications, au Maroc, le vaccin,
+
+749
+00:39:19,740 --> 00:39:23,960
+la déclaration santé obligatoire, bien sûr.
+
+750
+00:39:25,440 --> 00:39:28,180
+Et donc il faut vacciner les vétérinaires, les
+
+751
+00:39:28,180 --> 00:39:31,740
+gardes forestiers, tous ceux qui travaillent dans les
+
+752
+00:39:31,740 --> 00:39:34,820
+abattoirs, bien sûr en dehors des animaux qui
+
+753
+00:39:34,820 --> 00:39:36,620
+doivent être impérativement vaccinés.
+
+754
+00:39:39,850 --> 00:39:41,970
+Donc vous voyez ici que le degré de
+
+755
+00:39:41,970 --> 00:39:45,470
+gravité est beaucoup plus élevé que par rapport
+
+756
+00:39:45,470 --> 00:39:47,090
+au léchage, par rapport aux morsures.
+
+757
+00:39:47,270 --> 00:39:49,430
+Si on est un léché, la gravité est
+
+758
+00:39:49,430 --> 00:39:52,690
+au niveau, lorsqu'il y a des lésions.
+
+759
+00:39:52,910 --> 00:39:54,930
+Lorsque le tégumon est intact, la gravité est
+
+760
+00:39:54,930 --> 00:39:55,190
+zéro.
+
+761
+00:39:55,370 --> 00:40:00,230
+Lorsqu'il y a des excoriations cutanées, des
+
+762
+00:40:00,230 --> 00:40:05,590
+lésions cutanées, la gravité quand même devient intéressante.
+
+763
+00:40:06,210 --> 00:40:08,910
+C'est à dire qu'on peut être
+
+764
+00:40:08,910 --> 00:40:09,870
+contaminé par ce virus.
+
+765
+00:40:11,470 --> 00:40:14,190
+Les morsures, ou les griffures, ça devient sérieux.
+
+766
+00:40:14,330 --> 00:40:16,510
+La gravité en fonction, est-ce que c
+
+767
+00:40:16,510 --> 00:40:17,790
+'est le tronc, c'est les membres, c
+
+768
+00:40:17,790 --> 00:40:18,270
+'est la face.
+
+769
+00:40:18,810 --> 00:40:19,770
+Si on est mordu au niveau de la
+
+770
+00:40:19,770 --> 00:40:21,390
+face, particulièrement chez les enfants, c'est beaucoup
+
+771
+00:40:21,390 --> 00:40:21,850
+plus grave.
+
+772
+00:40:25,400 --> 00:40:28,640
+Voilà la prévention, le vaccin préventif aussi.
+
+773
+00:40:29,400 --> 00:40:32,600
+Donc les voyageurs pour certaines zones, les personnes
+
+774
+00:40:32,600 --> 00:40:34,840
+exposées aux risques, les personnes de laboratoire travaillant
+
+775
+00:40:34,840 --> 00:40:36,720
+sur le virus, les vétérinaires, les personnes de
+
+776
+00:40:36,720 --> 00:40:40,940
+laboratoire, le personnel des fourrières pour animaux, les
+
+777
+00:40:40,940 --> 00:40:44,240
+naturalistes, les gardes forestiers, les gardes chasse, les
+
+778
+00:40:44,240 --> 00:40:49,000
+chiroptérologues, ceux qui travaillent avec les chauves-souris,
+
+779
+00:40:49,500 --> 00:40:51,700
+les spécialistes des chauves-souris.
+
+780
+00:40:53,320 --> 00:40:56,060
+Voilà, ça c'est le vaccin préventif.
+
+781
+00:40:56,280 --> 00:40:57,700
+Donc on fait la prévention chez l'homme.
+
+782
+00:40:58,160 --> 00:41:00,000
+C'est différent par rapport au vaccin curatif.
+
+783
+00:41:03,060 --> 00:41:05,800
+Celui-là, il y a deux injections à
+
+784
+00:41:05,800 --> 00:41:08,020
+un mois d'intervalle avec un rappel après
+
+785
+00:41:08,020 --> 00:41:08,480
+un an.
+
+786
+00:41:09,280 --> 00:41:10,860
+Puis un rappel tous les trois ans.
+
+787
+00:41:11,500 --> 00:41:13,180
+Ça c'est pour le vaccin préventif, ce
+
+788
+00:41:13,180 --> 00:41:14,180
+qui n'est pas le cas du vaccin
+
+789
+00:41:14,180 --> 00:41:14,720
+curatif.
+
+790
+00:41:16,240 --> 00:41:20,100
+Ça dure jusqu'au 21e jour, au jour
+
+791
+00:41:20,100 --> 00:41:22,080
+30e jour et ça s'arrête.
+
+792
+00:41:28,650 --> 00:41:29,650
+Voilà pour la rage.
+
+793
+00:41:45,510 --> 00:41:47,110
+Monsieur, où est-ce qu'on prend le
+
+794
+00:41:47,110 --> 00:41:51,170
+vaccin préventif et sur les morts d'animaux
+
+795
+00:41:51,170 --> 00:41:51,790
+?
+
+796
+00:41:51,790 --> 00:41:52,610
+Je vous entends mal.
+
+797
+00:41:53,310 --> 00:41:57,130
+Il faut éteindre le micro.
+
+798
+00:41:58,890 --> 00:42:02,310
+Voilà, posez votre question maintenant.
+
+799
+00:42:03,410 --> 00:42:07,190
+Monsieur, si on prend un vaccin préventif et
+
+800
+00:42:07,190 --> 00:42:09,310
+sur les morts d'animaux, il n'y
+
+801
+00:42:09,310 --> 00:42:11,450
+a pas besoin de prendre un vaccin curatif.
+
+802
+00:42:13,110 --> 00:42:14,850
+Est-ce que vous pouvez écrire votre...
+
+803
+00:42:14,850 --> 00:42:15,890
+parce que je vous entends mal.
+
+804
+00:42:16,830 --> 00:42:18,970
+Mettez dans la conversation de la réunion, je
+
+805
+00:42:18,970 --> 00:42:19,690
+pourrai vous répondre.
+
+806
+00:42:21,690 --> 00:42:23,850
+Alors, parce que je vous entends mal, il
+
+807
+00:42:23,850 --> 00:42:25,150
+y a un problème de réseau chez vous.
+
+808
+00:42:26,090 --> 00:42:28,270
+Donc, est-ce que l'encéphalite est une
+
+809
+00:42:28,270 --> 00:42:29,530
+forme furieuse ?
+
+810
+00:42:29,530 --> 00:42:29,630
+Non.
+
+811
+00:42:30,030 --> 00:42:32,670
+En fait, c'est l'aboutissement pour le
+
+812
+00:42:32,670 --> 00:42:32,970
+virus.
+
+813
+00:42:33,650 --> 00:42:37,030
+En fait, c'est la cible du virus,
+
+814
+00:42:37,290 --> 00:42:39,770
+qu'il soit rage furieuse ou rage paralytique,
+
+815
+00:42:39,850 --> 00:42:40,310
+c'est pareil.
+
+816
+00:42:40,770 --> 00:42:42,750
+C'est l'encéphale, c'est son objectif.
+
+817
+00:42:43,470 --> 00:42:45,630
+À quoi sert le vaccin curatif et l
+
+818
+00:42:45,630 --> 00:42:46,370
+'antiméthérapie ?
+
+819
+00:42:46,370 --> 00:42:48,010
+La mortalité est à 100%.
+
+820
+00:42:48,010 --> 00:42:50,850
+Alors, le vaccin curatif, on dit que la
+
+821
+00:42:50,850 --> 00:42:53,810
+mortalité est à 100% lorsque la clinique
+
+822
+00:42:53,810 --> 00:42:55,150
+est déclarée.
+
+823
+00:42:55,350 --> 00:42:57,510
+Mais lorsque vous avez un patient qui arrive,
+
+824
+00:42:58,010 --> 00:43:00,570
+il a été mordu par un chien et
+
+825
+00:43:00,570 --> 00:43:03,930
+il se présente chez vous pour bien sûr,
+
+826
+00:43:04,250 --> 00:43:06,050
+pour voir un petit peu, donc vous mettez
+
+827
+00:43:06,050 --> 00:43:08,550
+le vaccin, vous mettez le vaccin curatif parce
+
+828
+00:43:08,550 --> 00:43:09,670
+qu'il y a une notion de morsure
+
+829
+00:43:09,670 --> 00:43:12,190
+par un chien errant qui n'est pas
+
+830
+00:43:12,190 --> 00:43:14,170
+domestique, qui erre dans la rue, on ne
+
+831
+00:43:14,170 --> 00:43:15,490
+sait pas s'il est vacciné ou pas.
+
+832
+00:43:15,970 --> 00:43:17,770
+Et donc, on fait le vaccin à titre
+
+833
+00:43:17,770 --> 00:43:18,570
+curatif.
+
+834
+00:43:20,390 --> 00:43:24,470
+Donc, le vaccin curatif, il a un apport
+
+835
+00:43:24,470 --> 00:43:25,690
+considérable dans ces situations.
+
+836
+00:43:26,870 --> 00:43:28,390
+C'est trop tard quand la clinique est
+
+837
+00:43:28,390 --> 00:43:28,690
+déclarée.
+
+838
+00:43:28,790 --> 00:43:32,310
+Si le patient arrive avec une clinique aérophobie
+
+839
+00:43:32,310 --> 00:43:38,110
+et toute la clinique qui évoque bien sûr
+
+840
+00:43:38,110 --> 00:43:41,690
+la salivation abondante et tout ça, donc c
+
+841
+00:43:41,690 --> 00:43:42,070
+'est trop tard.
+
+842
+00:43:42,150 --> 00:43:43,010
+Ça ne sert à rien de mettre le
+
+843
+00:43:43,010 --> 00:43:44,030
+vaccin curatif, bien évidemment.
+
+844
+00:43:44,650 --> 00:43:45,810
+Je crois qu'il faut faire une période
+
+845
+00:43:45,810 --> 00:43:48,370
+d'incubation, sinon il ne va pas être
+
+846
+00:43:48,370 --> 00:43:48,890
+utile.
+
+847
+00:43:49,350 --> 00:43:50,410
+Je n'ai pas compris cette question.
+
+848
+00:43:52,210 --> 00:43:53,370
+Ce n'est pas une question, c'est
+
+849
+00:43:53,370 --> 00:43:55,070
+un commentaire, je ne sais pas de qui.
+
+850
+00:43:59,770 --> 00:44:01,630
+Je ne sais pas ce que vous croyez,
+
+851
+00:44:01,750 --> 00:44:02,010
+madame.
+
+852
+00:44:02,870 --> 00:44:07,370
+Alors, posez-moi une question au lieu de
+
+853
+00:44:07,370 --> 00:44:09,550
+faire des recommandations.
+
+854
+00:44:10,310 --> 00:44:12,910
+Alors, pourquoi la morsure de la main est
+
+855
+00:44:12,910 --> 00:44:14,800
+plus grave que la morsure du bras ?
+
+856
+00:44:15,630 --> 00:44:17,230
+La morsure de la main est plus grave
+
+857
+00:44:17,230 --> 00:44:18,750
+que la morsure du bras ?
+
+858
+00:44:20,330 --> 00:44:22,490
+Ça dépend en fait de la profondeur de
+
+859
+00:44:22,490 --> 00:44:22,970
+la morsure.
+
+860
+00:44:23,110 --> 00:44:24,930
+Est-ce que c'est une morsure profonde
+
+861
+00:44:24,930 --> 00:44:25,490
+?
+
+862
+00:44:25,490 --> 00:44:29,070
+Le bras, bien sûr, plus on est proche
+
+863
+00:44:29,070 --> 00:44:31,970
+de l'encéphale, de la tête, plus c
+
+864
+00:44:31,970 --> 00:44:32,270
+'est grave.
+
+865
+00:44:32,730 --> 00:44:34,270
+Plus c'est plus rapide pour le virus
+
+866
+00:44:34,270 --> 00:44:35,690
+d'atteindre le système nerveux central.
+
+867
+00:44:38,660 --> 00:44:41,320
+Si on prend un vaccin préventif et on
+
+868
+00:44:41,320 --> 00:44:43,860
+est mordu par un animal, on a besoin
+
+869
+00:44:43,860 --> 00:44:45,440
+d'un vaccin curatif ?
+
+870
+00:44:45,440 --> 00:44:46,160
+C'est une bonne question.
+
+871
+00:44:46,640 --> 00:44:47,600
+Ça, c'est une bonne question.
+
+872
+00:44:50,920 --> 00:44:53,820
+Si on prend un vaccin préventif, en général,
+
+873
+00:44:54,060 --> 00:44:57,020
+le vaccin préventif, on le prend, mais il
+
+874
+00:44:57,020 --> 00:44:59,360
+faut le prendre régulièrement chaque trois ans, pour
+
+875
+00:44:59,360 --> 00:44:59,860
+le rappel.
+
+876
+00:45:00,360 --> 00:45:03,200
+Après, est-ce que les gens respectent ces
+
+877
+00:45:03,200 --> 00:45:05,120
+délais ?
+
+878
+00:45:05,120 --> 00:45:07,020
+Ce n'est pas toujours le cas.
+
+879
+00:45:07,360 --> 00:45:09,420
+Et donc, le vaccin curatif, lorsqu'il y
+
+880
+00:45:09,420 --> 00:45:12,340
+a une notion de morsure par un chien,
+
+881
+00:45:13,000 --> 00:45:15,580
+et on n'est pas sûr que la
+
+882
+00:45:15,580 --> 00:45:19,440
+personne a été vaccinée régulièrement, on donne un
+
+883
+00:45:19,440 --> 00:45:23,800
+vaccin curatif, bien évidemment, pour augmenter les chances
+
+884
+00:45:23,800 --> 00:45:25,200
+de guérison.
+
+885
+00:45:28,570 --> 00:45:29,910
+Très bien, on passe à l'autre cours,
+
+886
+00:45:30,070 --> 00:45:49,020
+parce qu'on doit aller, on va
+
+887
+00:45:49,020 --> 00:45:55,510
+mettre les rétroviridés.
+
+888
+00:46:05,510 --> 00:46:06,390
+Les rétroviridés.
+
+889
+00:46:07,850 --> 00:46:09,790
+Voilà, on va mettre diaporamant, on va aller
+
+890
+00:46:09,790 --> 00:46:11,110
+plus vite, parce que c'est un cours,
+
+891
+00:46:11,430 --> 00:46:15,130
+vous devez lire le contenu, mais je vais
+
+892
+00:46:15,130 --> 00:46:16,370
+aller à l'essentiel.
+
+893
+00:46:16,630 --> 00:46:19,370
+C'est des virus ARN, les rétroviridés, c
+
+894
+00:46:19,370 --> 00:46:22,590
+'est le principal virus dans cette famille, c
+
+895
+00:46:22,590 --> 00:46:24,690
+'est le VIH, responsable du sida.
+
+896
+00:46:24,970 --> 00:46:26,370
+Donc, c'est un chapitre quand même important.
+
+897
+00:46:28,030 --> 00:46:30,570
+C'est des virus ARN, qui est monocaténaire
+
+898
+00:46:30,570 --> 00:46:31,010
+diploid.
+
+899
+00:46:31,130 --> 00:46:31,990
+Pourquoi diploid ?
+
+900
+00:46:31,990 --> 00:46:35,110
+C'est-à-dire qu'il a monocaténaire,
+
+901
+00:46:35,430 --> 00:46:40,620
+c'est un virus ARN, en deux copies,
+
+902
+00:46:41,200 --> 00:46:43,060
+donc ce n'est pas complémentaire, c'est
+
+903
+00:46:43,060 --> 00:46:44,520
+la caractéristique des rétroviridés.
+
+904
+00:46:45,040 --> 00:46:50,940
+Donc, ils ont cet ARN en duplicates, ce
+
+905
+00:46:50,940 --> 00:46:53,280
+n'est pas complémentaire, c'est un ARN
+
+906
+00:46:53,280 --> 00:46:57,630
+monocaténaire en deux copies, et ils ont une
+
+907
+00:46:57,630 --> 00:46:58,450
+reverse transcriptase.
+
+908
+00:46:58,450 --> 00:47:00,070
+C'est rétroviridés, c'est pour ça qu
+
+909
+00:47:00,070 --> 00:47:01,350
+'on les appelle rétroviridés, parce qu'ils ont
+
+910
+00:47:01,350 --> 00:47:10,250
+une transcriptase inverse à l'intérieur du virus.
+
+911
+00:47:18,790 --> 00:47:21,650
+Alors, les deux genres qui sont importants, c
+
+912
+00:47:21,650 --> 00:47:24,130
+'est le HTLV, responsable des tumeurs et de
+
+913
+00:47:24,130 --> 00:47:26,850
+leucémie, ça s'appelle d'ailleurs le genre
+
+914
+00:47:26,850 --> 00:47:28,090
+oncovirus.
+
+915
+00:47:28,700 --> 00:47:32,770
+Et puis l'antivirus, dans principalement les types
+
+916
+00:47:32,770 --> 00:47:35,490
+VIH1 et VIH2.
+
+917
+00:47:37,250 --> 00:47:39,730
+Vous avez le VIH1 et le VIH2, qui
+
+918
+00:47:39,730 --> 00:47:41,030
+appartiennent au genre l'antivirus.
+
+919
+00:47:44,540 --> 00:47:47,360
+Donc ce virus, il y a une histoire,
+
+920
+00:47:48,340 --> 00:47:50,580
+il y a l'équipe, c'est en
+
+921
+00:47:50,580 --> 00:47:53,200
+1983 qu'il y a eu l'isolement
+
+922
+00:47:53,200 --> 00:47:56,000
+de la première souche du VIH, c'était
+
+923
+00:47:56,000 --> 00:47:58,080
+en France, à l'Institut Pasteur de Paris.
+
+924
+00:47:59,760 --> 00:48:02,640
+C'était l'équipe de Luc Montagnier et
+
+925
+00:48:02,640 --> 00:48:08,120
+principalement Françoise Barrissine aussi, qui a découvert avec
+
+926
+00:48:08,120 --> 00:48:10,580
+l'équipe de Luc Montagnier le virus du
+
+927
+00:48:10,580 --> 00:48:16,160
+SIDA, qui est le VIH, le virus de
+
+928
+00:48:16,160 --> 00:48:19,900
+l'immunodéficience humaine, qui lui cause le SIDA.
+
+929
+00:48:19,960 --> 00:48:21,900
+Le SIDA, ce n'est pas l'infection
+
+930
+00:48:21,900 --> 00:48:23,260
+au VIH, en fait c'est un stade
+
+931
+00:48:23,260 --> 00:48:25,120
+ultime de l'infection.
+
+932
+00:48:25,760 --> 00:48:28,920
+Et donc ils ont découvert ce virus en
+
+933
+00:48:28,920 --> 00:48:36,080
+1983 et Françoise Barrissine aussi, avec l'équipe
+
+934
+00:48:36,080 --> 00:48:38,040
+de Luc Montagnier, ont eu le prix Nobel
+
+935
+00:48:38,040 --> 00:48:39,140
+de médecine en 2012.
+
+936
+00:48:46,320 --> 00:48:52,800
+Donc le rétroviridé, la caractéristique ARN, diploïdes et
+
+937
+00:48:52,800 --> 00:48:54,060
+le transcriptase inverse.
+
+938
+00:48:56,000 --> 00:48:57,940
+Le SIDA c'est quoi ?
+
+939
+00:48:57,940 --> 00:49:00,440
+C'est le syndrome d'immunodéficience acquise.
+
+940
+00:49:01,100 --> 00:49:06,400
+Syndrome d'immunodéficience acquise, c'est le SIDA,
+
+941
+00:49:07,360 --> 00:49:09,160
+qui est la conséquence grave de l'infection
+
+942
+00:49:09,160 --> 00:49:09,780
+par le VIH.
+
+943
+00:49:10,240 --> 00:49:12,440
+Il y a beaucoup de personnes qui sont
+
+944
+00:49:12,440 --> 00:49:14,700
+séropositives au VIH et qui n'ont pas
+
+945
+00:49:14,700 --> 00:49:15,120
+le SIDA.
+
+946
+00:49:16,140 --> 00:49:19,940
+Le SIDA c'est la conséquence grave, c
+
+947
+00:49:19,940 --> 00:49:20,720
+'est la phase finale.
+
+948
+00:49:21,920 --> 00:49:23,360
+Donc il y a des sujets qui ont
+
+949
+00:49:23,360 --> 00:49:24,880
+le VIH et qui n'ont pas atteint
+
+950
+00:49:24,880 --> 00:49:27,820
+le stade SIDA, qui vivent avec le VIH,
+
+951
+00:49:27,820 --> 00:49:30,200
+qui sont séropositifs au VIH et qui n
+
+952
+00:49:30,200 --> 00:49:31,040
+'ont jamais atteint le SIDA.
+
+953
+00:49:31,480 --> 00:49:33,460
+Donc l'infection au VIH ne veut pas
+
+954
+00:49:33,460 --> 00:49:38,560
+dire SIDA, mais c'est la conséquence de
+
+955
+00:49:38,560 --> 00:49:40,040
+l'infection par le VIH.
+
+956
+00:49:52,020 --> 00:49:55,600
+Donc le diagnostic est principalement sérologique, on va
+
+957
+00:49:55,600 --> 00:50:04,250
+voir, parmi les rétroviridés, genre l'antivirus.
+
+958
+00:50:05,310 --> 00:50:07,990
+Vous avez le type 1, le VIH 1
+
+959
+00:50:07,990 --> 00:50:08,650
+ou le type 2.
+
+960
+00:50:09,390 --> 00:50:11,790
+Le type 1 qui est pandémique, qui existe
+
+961
+00:50:11,790 --> 00:50:13,330
+dans le monde entier, alors que le VIH
+
+962
+00:50:13,330 --> 00:50:15,890
+2 n'existe que dans certains pays.
+
+963
+00:50:16,470 --> 00:50:18,250
+Donc le VIH 1 par exemple, quatre groupes,
+
+964
+00:50:18,670 --> 00:50:20,830
+vous avez le groupe M majeur qui est
+
+965
+00:50:20,830 --> 00:50:25,610
+majoritaire, le groupe O outlier, le groupe N
+
+966
+00:50:25,610 --> 00:50:28,510
+qui est non O, non M, ou le
+
+967
+00:50:28,510 --> 00:50:29,250
+groupe P encore.
+
+968
+00:50:32,150 --> 00:50:32,830
+C'est pour ça qu'il y a
+
+969
+00:50:32,830 --> 00:50:37,610
+cette difficulté d'élaborer un vaccin, parce qu
+
+970
+00:50:37,610 --> 00:50:42,220
+'il y a en fait cette variation génétique
+
+971
+00:50:42,220 --> 00:50:45,680
+et il y a plusieurs sous-types viraux.
+
+972
+00:50:46,940 --> 00:50:50,160
+Vous voyez que le VIH 2 sévit principalement
+
+973
+00:50:50,160 --> 00:50:51,980
+en Afrique de l'Ouest, en Guinée-Bissau,
+
+974
+00:50:52,040 --> 00:50:53,780
+la Gambie, le Sénégal, la Côte d'Ivoire,
+
+975
+00:50:53,900 --> 00:50:58,300
+Burkina Faso, et en Asie, en Corée, en
+
+976
+00:50:58,300 --> 00:50:59,120
+Inde particulièrement.
+
+977
+00:50:59,600 --> 00:51:02,380
+Alors que le VIH 1, le M, il
+
+978
+00:51:02,380 --> 00:51:03,340
+est dans tous les continents.
+
+979
+00:51:03,340 --> 00:51:05,980
+Le M est le majoritaire, avec bien sûr
+
+980
+00:51:05,980 --> 00:51:08,420
+des sous-types qui sont répandus dans certains
+
+981
+00:51:08,420 --> 00:51:09,420
+continents par rapport à d'autres.
+
+982
+00:51:09,780 --> 00:51:11,200
+Mais le M est majoritaire, c'est lui
+
+983
+00:51:11,200 --> 00:51:13,440
+qui est responsable de la pandémie mondiale pour
+
+984
+00:51:13,440 --> 00:51:13,920
+le VIH.
+
+985
+00:51:14,760 --> 00:51:17,040
+Le groupe O est plutôt en Cameroun, Nigéria,
+
+986
+00:51:17,160 --> 00:51:19,220
+Gabon et Guinée équatoriales.
+
+987
+00:51:19,320 --> 00:51:21,280
+Et puis le N, l'Afrique centrale.
+
+988
+00:51:21,760 --> 00:51:23,700
+Et puis le P, c'est en Cameroun
+
+989
+00:51:23,700 --> 00:51:24,280
+en particulier.
+
+990
+00:51:29,390 --> 00:51:33,920
+Donc c'est un virus enveloppé, un virus
+
+991
+00:51:33,920 --> 00:51:35,120
+ARN enveloppé.
+
+992
+00:51:40,530 --> 00:51:47,600
+Il comprend 3 enzymes, la transcriptase inverse, l
+
+993
+00:51:47,600 --> 00:51:48,880
+'intégrase et la prothéase.
+
+994
+00:51:56,720 --> 00:51:58,200
+Regardez ce virus, voilà.
+
+995
+00:51:58,640 --> 00:52:00,680
+Vous avez l'enveloppe, c'est un virus
+
+996
+00:52:00,680 --> 00:52:01,340
+enveloppé.
+
+997
+00:52:01,920 --> 00:52:04,160
+Donc l'enveloppe, il y a Gp120, regardez
+
+998
+00:52:04,160 --> 00:52:08,720
+là, Gp120, qui est lié à l'enveloppe
+
+999
+00:52:08,720 --> 00:52:12,760
+virale par la Gp41, c'est des glycoprotéines
+
+1000
+00:52:12,760 --> 00:52:15,560
+extrêmement importantes, ce qui va nous permettre de
+
+1001
+00:52:15,560 --> 00:52:17,820
+détecter, bien sûr, ce virus.
+
+1002
+00:52:19,200 --> 00:52:22,300
+Gp120 ou Gp140, par exemple, c'est des
+
+1003
+00:52:22,300 --> 00:52:23,660
+glycoprotéines de surface.
+
+1004
+00:52:25,480 --> 00:52:28,560
+Vous avez en jaune la membrane phospholipidique, qui
+
+1005
+00:52:28,560 --> 00:52:30,200
+constitue l'enveloppe.
+
+1006
+00:52:31,320 --> 00:52:36,560
+Les prothéases en bleu ici, schématiquement.
+
+1007
+00:52:36,740 --> 00:52:38,980
+La transcriptase inverse qu'on retrouve à l
+
+1008
+00:52:38,980 --> 00:52:43,080
+'intérieur de la capside avec l'ARN en
+
+1009
+00:52:43,080 --> 00:52:47,880
+diploïde, vous avez l'ARN monocaténaire en deux
+
+1010
+00:52:47,880 --> 00:52:52,780
+copies et vous avez la protéine en violet,
+
+1011
+00:52:52,960 --> 00:52:53,460
+en mauve.
+
+1012
+00:52:53,780 --> 00:52:55,580
+La protéine de capside, c'est une protéine
+
+1013
+00:52:55,580 --> 00:52:56,700
+majeure aussi.
+
+1014
+00:52:57,560 --> 00:52:59,880
+Quand on recherche la P24, c'est extrêmement
+
+1015
+00:52:59,880 --> 00:53:01,480
+important cette protéine en violet.
+
+1016
+00:53:02,140 --> 00:53:03,880
+C'est la protéine de capside, la P24.
+
+1017
+00:53:12,130 --> 00:53:13,830
+Voilà la structure du virus, qui va nous
+
+1018
+00:53:13,830 --> 00:53:15,310
+permettre de comprendre un petit peu ce qu
+
+1019
+00:53:15,310 --> 00:53:17,510
+'on fait au niveau des diagnostics, voire du
+
+1020
+00:53:17,510 --> 00:53:17,870
+traitement.
+
+1021
+00:53:20,570 --> 00:53:23,210
+Vous avez pour le génome trois gènes de
+
+1022
+00:53:23,210 --> 00:53:23,510
+structure.
+
+1023
+00:53:23,650 --> 00:53:26,850
+Le gène GAG, qui code pour la P24,
+
+1024
+00:53:26,990 --> 00:53:27,450
+par exemple.
+
+1025
+00:53:28,790 --> 00:53:30,910
+Le gène PORC, c'est plutôt pour les
+
+1026
+00:53:30,910 --> 00:53:33,890
+enzymes, la protéase, la transcriptase inverse, les intégrases.
+
+1027
+00:53:35,850 --> 00:53:39,710
+Et puis vous avez le gène ANV, qui
+
+1028
+00:53:39,710 --> 00:53:44,510
+va bien sûr coder pour le précurseur de
+
+1029
+00:53:44,510 --> 00:53:47,170
+la glycoprotéine dans l'enveloppe qu'on avait
+
+1030
+00:53:47,170 --> 00:53:49,890
+vue, la GP120 et la GP41, c'est
+
+1031
+00:53:49,890 --> 00:53:50,510
+la GP160.
+
+1032
+00:53:52,230 --> 00:53:54,670
+Donc c'est ces trois gènes majeurs aussi
+
+1033
+00:53:54,670 --> 00:53:58,530
+qui vont constituer le socle central de la
+
+1034
+00:53:58,530 --> 00:54:03,890
+multiplication virale qui porte l'information génétique de
+
+1035
+00:54:03,890 --> 00:54:04,690
+cette multiplication.
+
+1036
+00:54:05,190 --> 00:54:06,090
+Et puis il y a d'autres gènes
+
+1037
+00:54:06,090 --> 00:54:09,410
+régulateurs sur lesquels on ne va pas s
+
+1038
+00:54:09,410 --> 00:54:09,930
+'intéresser.
+
+1039
+00:54:10,650 --> 00:54:11,950
+GAG, PORC, ANV.
+
+1040
+00:54:14,590 --> 00:54:18,490
+GAG, c'est la protéine P24 de structure.
+
+1041
+00:54:19,170 --> 00:54:24,230
+PORC, c'est les enzymes, notamment la protéase,
+
+1042
+00:54:24,350 --> 00:54:26,690
+l'intégrase, la transcriptase inverse.
+
+1043
+00:54:27,190 --> 00:54:30,570
+L'enveloppe aussi, le gène ANV qui va
+
+1044
+00:54:30,570 --> 00:54:32,130
+coder pour les protéines de l'enveloppe, la
+
+1045
+00:54:32,130 --> 00:54:35,950
+GP160, qui elle va donner la GP120 et
+
+1046
+00:54:35,950 --> 00:54:38,330
+la GP40-41.
+
+1047
+00:54:40,970 --> 00:54:42,930
+Donc ça c'est important à savoir.
+
+1048
+00:54:46,760 --> 00:54:50,080
+La multiplication, donc le virus va pénétrer bien
+
+1049
+00:54:50,080 --> 00:54:53,940
+sûr une fois qu'il a été rétrotranscrit.
+
+1050
+00:54:54,620 --> 00:54:56,380
+Donc il va pénétrer d'abord dans l
+
+1051
+00:54:56,380 --> 00:54:59,300
+'attachement pénétration, il va se décapsider, il va
+
+1052
+00:54:59,300 --> 00:55:02,720
+libérer l'ARN grâce à sa transcriptase inverse,
+
+1053
+00:55:03,300 --> 00:55:07,060
+se rétrotranscrire en ADN, qui lui va être
+
+1054
+00:55:07,060 --> 00:55:08,960
+intégré par une intégrase à l'intérieur de
+
+1055
+00:55:08,960 --> 00:55:11,540
+la cellule cible, qui est la lymphocyte T
+
+1056
+00:55:11,540 --> 00:55:13,620
+en général, voire les macrophages.
+
+1057
+00:55:20,600 --> 00:55:22,580
+Le réservoir, en fait, l'homme est le
+
+1058
+00:55:22,580 --> 00:55:24,880
+seul réservoir du virus, et la diffusion se
+
+1059
+00:55:24,880 --> 00:55:26,300
+fait par les porteurs asymptomatiques.
+
+1060
+00:55:27,200 --> 00:55:29,500
+La transmission est principalement sexuelle, c'est une
+
+1061
+00:55:29,500 --> 00:55:33,120
+infection sexuellement transmissible, mais elle peut être transmise
+
+1062
+00:55:33,120 --> 00:55:37,340
+chez les toxicomanes, par les instruments, mal stérilisée,
+
+1063
+00:55:37,580 --> 00:55:39,520
+la transfusion sanguine, etc.
+
+1064
+00:55:39,920 --> 00:55:41,160
+Ou encore lors de l'accouchement.
+
+1065
+00:55:57,710 --> 00:55:58,870
+Donc les facteurs de risque, c'est le
+
+1066
+00:55:58,870 --> 00:56:02,270
+vagabondage sexuel, c'est les homosexuels aussi, qui
+
+1067
+00:56:02,270 --> 00:56:04,770
+ont suivi un facteur de risque pour la
+
+1068
+00:56:04,770 --> 00:56:10,270
+transmission, la prostitution aussi, les toxicomanes, les polytransfusés,
+
+1069
+00:56:10,550 --> 00:56:11,710
+donc ça c'est des facteurs de risque
+
+1070
+00:56:11,710 --> 00:56:15,890
+où on va retrouver davantage l'infection chez
+
+1071
+00:56:15,890 --> 00:56:18,730
+ces sujets par rapport à la population générale.
+
+1072
+00:56:22,250 --> 00:56:26,370
+Le tatouage, la scarification, le tatouage traditionnel en
+
+1073
+00:56:26,370 --> 00:56:29,950
+particulier, est la source aussi de transmission, comme
+
+1074
+00:56:29,950 --> 00:56:35,850
+pour les arracheurs de dents, l'arrachage des
+
+1075
+00:56:35,850 --> 00:56:40,070
+dents, pour l'hépatite C et le VIH
+
+1076
+00:56:40,070 --> 00:56:41,910
+aussi, parce que le matériel n'est pas
+
+1077
+00:56:41,910 --> 00:56:44,210
+stérilisé, particulièrement dans le monde rural.
+
+1078
+00:56:49,660 --> 00:56:52,940
+Les statistiques dans le monde, 20 millions de
+
+1079
+00:56:52,940 --> 00:56:57,100
+personnes avaient accès à la thérapie antirétrovirale en
+
+1080
+00:56:57,100 --> 00:56:58,020
+fin juin 2020.
+
+1081
+00:57:02,010 --> 00:57:03,950
+L'année dernière, il y a 1,5
+
+1082
+00:57:03,950 --> 00:57:08,670
+million de personnes nouvellement infectées par le VIH.
+
+1083
+00:57:09,150 --> 00:57:10,870
+Rien que l'année dernière, 1,5 million,
+
+1084
+00:57:11,370 --> 00:57:12,990
+enfin plus d'1,5 million, 1,7.
+
+1085
+00:57:16,040 --> 00:57:20,320
+38 millions de personnes vivent avec le VIH.
+
+1086
+00:57:20,460 --> 00:57:21,940
+38 millions de personnes.
+
+1087
+00:57:22,780 --> 00:57:24,100
+Vous imaginez, c'est considérable.
+
+1088
+00:57:31,160 --> 00:57:32,800
+Rien que l'année dernière, il y a
+
+1089
+00:57:32,800 --> 00:57:37,420
+eu 690 000 personnes qui sont décédées du
+
+1090
+00:57:37,420 --> 00:57:37,760
+SIDA.
+
+1091
+00:57:38,420 --> 00:57:39,940
+Le stade SIDA.
+
+1092
+00:57:40,700 --> 00:57:44,140
+690 000 personnes sont décédées du SIDA l
+
+1093
+00:57:44,140 --> 00:57:45,180
+'année dernière, en 2019.
+
+1094
+00:58:00,880 --> 00:58:04,120
+Ça c'est des chiffres pourtant à souligner
+
+1095
+00:58:04,120 --> 00:58:04,400
+aussi.
+
+1096
+00:58:19,930 --> 00:58:22,530
+Voilà pour la cinétique de l'histoire naturelle
+
+1097
+00:58:22,530 --> 00:58:23,690
+de l'infection par le VIH.
+
+1098
+00:58:24,290 --> 00:58:26,090
+Vous voyez ici la primo-infection.
+
+1099
+00:58:26,970 --> 00:58:30,630
+Les anticorps qui vont apparaître par la suite.
+
+1100
+00:58:31,770 --> 00:58:32,070
+D'accord.
+
+1101
+00:58:36,800 --> 00:58:37,580
+Et la RNA virale.
+
+1102
+00:58:37,740 --> 00:58:39,500
+On va détailler ça par la suite, parce
+
+1103
+00:58:39,500 --> 00:58:41,080
+que vous avez une phase de primo-infection
+
+1104
+00:58:41,080 --> 00:58:42,420
+qui peut durer jusqu'à 8 semaines.
+
+1105
+00:58:42,820 --> 00:58:44,760
+La phase asymptomatique qui peut aller jusqu'à
+
+1106
+00:58:44,760 --> 00:58:45,160
+12 ans.
+
+1107
+00:58:46,160 --> 00:58:50,920
+Et le stade SIDA après qui est mortel,
+
+1108
+00:58:50,920 --> 00:58:54,060
+où le taux de CD4 va s'effondrer
+
+1109
+00:58:54,060 --> 00:58:57,100
+et la charge virale va augmenter considérablement.
+
+1110
+00:58:57,840 --> 00:58:59,560
+Et donc là c'est le déficit immunitaire
+
+1111
+00:58:59,560 --> 00:59:02,980
+qui est à l'origine bien sûr des
+
+1112
+00:59:02,980 --> 00:59:05,520
+infections opportunistes qui vont être mortelles.
+
+1113
+00:59:12,440 --> 00:59:14,900
+Donc ça c'est la primo-infection avec
+
+1114
+00:59:14,900 --> 00:59:16,540
+les fièvres adénopathies, le copénie.
+
+1115
+00:59:21,460 --> 00:59:23,520
+Donc il y a une phase cliniquement latente
+
+1116
+00:59:23,520 --> 00:59:25,220
+mais biologiquement active qu'on peut retrouver.
+
+1117
+00:59:25,400 --> 00:59:28,400
+Donc biologiquement on peut détecter mais cliniquement elle
+
+1118
+00:59:28,400 --> 00:59:29,140
+est silencieuse.
+
+1119
+00:59:34,300 --> 00:59:35,960
+Donc il y a cette balance entre l
+
+1120
+00:59:35,960 --> 00:59:40,960
+'immunité et le virus qui se trouve chez
+
+1121
+00:59:40,960 --> 00:59:42,320
+les sujets séropositifs.
+
+1122
+00:59:42,820 --> 00:59:43,700
+Il y a cet équilibre.
+
+1123
+00:59:44,620 --> 00:59:46,460
+Donc vous imaginez qu'il y a 10
+
+1124
+00:59:46,460 --> 00:59:48,660
+milliards de virus fabriqués par jour chez ces
+
+1125
+00:59:48,660 --> 00:59:49,160
+individus.
+
+1126
+00:59:49,580 --> 00:59:51,720
+Et donc il y a une immunité, une
+
+1127
+00:59:51,720 --> 00:59:55,900
+élimination quotidienne des virus grâce à l'immunité
+
+1128
+00:59:55,900 --> 00:59:56,600
+de l'individu.
+
+1129
+00:59:56,940 --> 00:59:59,460
+Mais après lorsqu'il y a l'effondrement
+
+1130
+00:59:59,460 --> 01:00:02,180
+des taux de CD4 par les virus, il
+
+1131
+01:00:02,180 --> 01:00:05,260
+y a l'apparition de maladies opportunistes qui
+
+1132
+01:00:05,260 --> 01:00:07,880
+vont être à l'origine du sida et
+
+1133
+01:00:07,880 --> 01:00:08,760
+donc du décès.
+
+1134
+01:00:12,710 --> 01:00:14,370
+Donc on ne va pas s'attarder sur
+
+1135
+01:00:14,370 --> 01:00:16,890
+les circonstances de diagnostic.
+
+1136
+01:00:17,710 --> 01:00:21,650
+On va voir biologiquement comment on va bien
+
+1137
+01:00:21,650 --> 01:00:23,130
+sûr l'infection par le VIH.
+
+1138
+01:00:23,310 --> 01:00:24,790
+Il y a bien sûr des recommandations.
+
+1139
+01:00:25,330 --> 01:00:27,450
+La dépistage sérologique peut se faire par ELISA
+
+1140
+01:00:27,450 --> 01:00:29,870
+ou par électrochimie nuisance ou chimie nuisance.
+
+1141
+01:00:30,310 --> 01:00:31,750
+Il y a aussi des tests rapides et
+
+1142
+01:00:31,750 --> 01:00:33,370
+une confirmation par WesternBlood.
+
+1143
+01:00:35,560 --> 01:00:39,080
+Vous avez des méthodes, des techniques directes et
+
+1144
+01:00:39,080 --> 01:00:41,040
+des techniques indirectes puisqu'on considère que le
+
+1145
+01:00:41,040 --> 01:00:45,320
+diagnostic sérologique ou le diagnostic indirect c'est
+
+1146
+01:00:45,320 --> 01:00:47,940
+ce qu'on utilise principalement.
+
+1147
+01:00:48,660 --> 01:00:51,080
+Mais lorsque l'on veut bien sûr faire
+
+1148
+01:00:51,080 --> 01:00:54,780
+le dépistage, lorsqu'on veut faire un diagnostic,
+
+1149
+01:00:55,020 --> 01:00:57,820
+on peut aller même chercher par PCR ou
+
+1150
+01:00:57,820 --> 01:00:58,880
+par l'antigénémie P24.
+
+1151
+01:00:59,780 --> 01:01:04,300
+Regardez ici que le virus, l'ARN viral,
+
+1152
+01:01:04,560 --> 01:01:08,500
+on peut le retrouver à partir de la
+
+1153
+01:01:08,500 --> 01:01:17,000
+deuxième semaine avec l'antigénémie P24 juste après
+
+1154
+01:01:17,000 --> 01:01:19,720
+et puis les anticorps apparaissent à partir de
+
+1155
+01:01:19,720 --> 01:01:21,100
+la troisième semaine en général.
+
+1156
+01:01:21,660 --> 01:01:23,500
+Donc le 21ème jour que les anticorps apparaissent.
+
+1157
+01:01:23,500 --> 01:01:26,260
+Donc si on a été en contact avec
+
+1158
+01:01:26,260 --> 01:01:34,360
+le virus à J0, on ne retrouve pas
+
+1159
+01:01:34,360 --> 01:01:35,960
+le virus avant le 21ème jour.
+
+1160
+01:01:37,280 --> 01:01:40,780
+C'est la phase, bien sûr, la fenêtre
+
+1161
+01:01:40,780 --> 01:01:43,260
+virologique, on ne retrouve pas biologiquement le virus.
+
+1162
+01:01:44,400 --> 01:01:46,400
+Sauf bien sûr si on recherche l'ARN
+
+1163
+01:01:46,400 --> 01:01:49,360
+viral, on peut le retrouver déjà à partir
+
+1164
+01:01:49,360 --> 01:01:53,100
+de la deuxième semaine voire l'antigénémie P24.
+
+1165
+01:01:53,700 --> 01:01:57,440
+Par contre les anticorps, ils seront absents jusqu
+
+1166
+01:01:57,440 --> 01:01:58,660
+'au 21ème jour en général.
+
+1167
+01:02:00,920 --> 01:02:06,060
+L'ARN va disparaître aussi, il va plutôt
+
+1168
+01:02:06,060 --> 01:02:10,060
+se réduire après puisqu'on a une infection
+
+1169
+01:02:10,060 --> 01:02:11,340
+chronique qui va s'installer.
+
+1170
+01:02:12,480 --> 01:02:13,500
+Il ne va pas disparaître.
+
+1171
+01:02:13,560 --> 01:02:15,860
+Par contre l'antigénémie P24, elle va être
+
+1172
+01:02:15,860 --> 01:02:19,240
+absente à partir de 1 mois.
+
+1173
+01:02:19,560 --> 01:02:22,420
+Sur le 28ème jour, 29ème jour, on ne
+
+1174
+01:02:22,420 --> 01:02:25,240
+va plus voir l'antigénémie P24 qui témoigne
+
+1175
+01:02:25,240 --> 01:02:26,080
+d'une infection récente.
+
+1176
+01:02:26,200 --> 01:02:28,060
+Donc l'antigénémie P24 témoigne d'une infection
+
+1177
+01:02:28,060 --> 01:02:29,080
+récente.
+
+1178
+01:02:36,560 --> 01:02:38,740
+Le prélèvement, c'est le sérum en général
+
+1179
+01:02:38,740 --> 01:02:45,200
+pour le dépistage sérologique et puis on a
+
+1180
+01:02:45,200 --> 01:02:49,360
+un tube EDTA pour la charge virale, pour
+
+1181
+01:02:49,360 --> 01:02:52,640
+l'ARN ou même l'ADN proviral puisqu
+
+1182
+01:02:52,640 --> 01:02:54,220
+'on peut détecter l'ADN à l'intérieur
+
+1183
+01:02:54,220 --> 01:02:55,560
+du lymphocyte.
+
+1184
+01:02:55,780 --> 01:02:58,600
+Une fois qu'il est rétrotranscrit, il intègre
+
+1185
+01:02:58,600 --> 01:03:02,100
+l'ADN du lymphocyte en général.
+
+1186
+01:03:06,350 --> 01:03:07,800
+Vous pouvez le lire après.
+
+1187
+01:03:08,620 --> 01:03:18,270
+L'ARN, les réglementations, les marqueurs de l
+
+1188
+01:03:18,270 --> 01:03:21,370
+'infection, le taux de CD4 et la charge
+
+1189
+01:03:21,370 --> 01:03:21,750
+virale.
+
+1190
+01:03:30,140 --> 01:03:33,660
+Alors la technique ELISA, comme on a vu,
+
+1191
+01:03:33,740 --> 01:03:36,640
+l'ELISA 1ère, 3ème, 4ème génération maintenant, voire
+
+1192
+01:03:36,640 --> 01:03:37,560
+5ème génération.
+
+1193
+01:03:43,070 --> 01:03:46,470
+Il y a les tests rapides qui peuvent
+
+1194
+01:03:46,470 --> 01:03:49,350
+aider au diagnostic, mais ils doivent être complétés
+
+1195
+01:03:49,350 --> 01:03:50,310
+lorsque c'est positif.
+
+1196
+01:03:50,410 --> 01:03:52,830
+Il faut être confirmé par ELISA ou par
+
+1197
+01:03:52,830 --> 01:03:55,130
+chimie luminescence ou électrochimie luminescence.
+
+1198
+01:04:06,040 --> 01:04:08,280
+Vous avez les tests de confirmation, c'est
+
+1199
+01:04:08,280 --> 01:04:12,640
+le test Western blot avec une électrophorese sur
+
+1200
+01:04:12,640 --> 01:04:18,360
+gel de polyacrylamide qui permet de détecter les
+
+1201
+01:04:19,870 --> 01:04:24,270
+antigènes, les protéines bio.
+
+1202
+01:04:26,130 --> 01:04:28,450
+Donc ça confirme après la sérologie, il faut
+
+1203
+01:04:28,450 --> 01:04:30,210
+confirmer par le Western blot en général.
+
+1204
+01:04:31,570 --> 01:04:36,090
+Vous pouvez mettre en évidence GP120, GP160, la
+
+1205
+01:04:36,090 --> 01:04:40,030
+P24 ici, ça c'est un témoin négatif
+
+1206
+01:04:40,030 --> 01:04:41,330
+où il n'y a rien, ça c
+
+1207
+01:04:41,330 --> 01:04:42,150
+'est un témoin positif.
+
+1208
+01:04:42,270 --> 01:04:45,370
+Et puis après, vous pouvez retrouver quelques protéines
+
+1209
+01:04:45,370 --> 01:04:48,510
+ou glycoprotéines lorsque l'infection est récente et
+
+1210
+01:04:48,510 --> 01:04:50,950
+lorsque l'infection est ancienne, et donc vous
+
+1211
+01:04:50,950 --> 01:04:53,690
+pouvez retrouver pratiquement la majorité des protéines.
+
+1212
+01:04:53,790 --> 01:04:57,390
+Voilà un Western blot tel qu'on le
+
+1213
+01:04:57,390 --> 01:05:02,850
+retrouve chez un sujet séropositif ou VIH avec
+
+1214
+01:05:02,850 --> 01:05:08,670
+les protéines d'enveloppe 160, 120, 41 ici,
+
+1215
+01:05:09,090 --> 01:05:09,870
+vous les voyez ici.
+
+1216
+01:05:09,870 --> 01:05:14,310
+Le gène GAG qui code pour les protéines
+
+1217
+01:05:14,310 --> 01:05:19,030
+ici, même la P24 on la retrouve.
+
+1218
+01:05:19,710 --> 01:05:21,450
+Et le gène POLL qui code pour les
+
+1219
+01:05:21,450 --> 01:05:24,330
+protéines encore dans le zyme qu'on retrouve
+
+1220
+01:05:24,330 --> 01:05:25,730
+aussi sur le Western blot.
+
+1221
+01:05:37,470 --> 01:05:42,770
+La co-culture cellulaire pratiquée dans les centres
+
+1222
+01:05:42,770 --> 01:05:46,710
+de référence, ça reste assez rare au niveau
+
+1223
+01:05:46,710 --> 01:05:47,730
+des laboratoires de routine.
+
+1224
+01:05:49,840 --> 01:05:51,340
+Et puis vous avez la conduite à tenir
+
+1225
+01:05:51,340 --> 01:05:56,100
+devant un accident d'exposition au sang contaminé
+
+1226
+01:05:56,100 --> 01:05:59,320
+par le VIH éventuellement avec un traitement antirétroviral
+
+1227
+01:05:59,320 --> 01:06:03,800
+prophylactique et même une sérologie ASG0 au premier
+
+1228
+01:06:03,800 --> 01:06:05,360
+mois et au troisième mois.
+
+1229
+01:06:15,410 --> 01:06:20,270
+Voilà, les sites des antirétroviraux sont nombreux pour
+
+1230
+01:06:20,270 --> 01:06:22,970
+le traitement, le site d'action.
+
+1231
+01:06:22,970 --> 01:06:27,230
+Donc il va agir au niveau des enzymes
+
+1232
+01:06:27,230 --> 01:06:29,690
+principalement mais aussi au niveau de l'entrée,
+
+1233
+01:06:30,190 --> 01:06:33,990
+des inhibiteurs de fusion, les inhibiteurs de la
+
+1234
+01:06:33,990 --> 01:06:37,730
+reverse transcriptase, les inhibiteurs de la protéase ou
+
+1235
+01:06:37,730 --> 01:06:38,770
+de l'intégrase par exemple.
+
+1236
+01:06:39,890 --> 01:06:44,410
+On a plusieurs arsenals thérapeutiques considérables pour les
+
+1237
+01:06:44,410 --> 01:06:47,630
+antirétroviraux, le sakinavir, l'indinavir, etc.
+
+1238
+01:06:48,570 --> 01:06:50,570
+C'est l'objectif de ce cours aujourd
+
+1239
+01:06:50,570 --> 01:06:53,310
+'hui, les inhibiteurs de fusion.
+
+1240
+01:06:56,180 --> 01:06:58,460
+En fait l'objectif du traitement ce n
+
+1241
+01:06:58,460 --> 01:07:00,060
+'est pas de guérir le patient, c'est
+
+1242
+01:07:00,060 --> 01:07:03,540
+de réduire la charge virale et d'augmenter
+
+1243
+01:07:03,540 --> 01:07:04,260
+le taux de CD4.
+
+1244
+01:07:04,820 --> 01:07:05,700
+Ça il faut le retenir.
+
+1245
+01:07:06,100 --> 01:07:09,100
+L'objectif principal du traitement anti-VIH c
+
+1246
+01:07:09,100 --> 01:07:12,160
+'est de réduire la charge virale du virus
+
+1247
+01:07:12,160 --> 01:07:14,300
+et augmenter le taux de CD4.
+
+1248
+01:07:18,000 --> 01:07:20,860
+Le traitement n'élimine jamais définitivement le virus,
+
+1249
+01:07:21,060 --> 01:07:24,180
+le VIH, en tout cas jusqu'à aujourd
+
+1250
+01:07:24,180 --> 01:07:24,320
+'hui.
+
+1251
+01:07:29,720 --> 01:07:31,080
+C'est pour ça qu'on va surveiller
+
+1252
+01:07:31,080 --> 01:07:35,700
+l'échec du traitement par la charge virale,
+
+1253
+01:07:36,080 --> 01:07:38,440
+donc on va rechercher l'ARN virale ou
+
+1254
+01:07:38,440 --> 01:07:40,320
+l'ADN provirale pour voir un petit peu
+
+1255
+01:07:40,320 --> 01:07:43,200
+la charge du virus dans le sang après
+
+1256
+01:07:43,200 --> 01:07:45,300
+traitement et l'évolution du patient.
+
+1257
+01:07:47,840 --> 01:07:49,220
+Et le taux de CD4 pour voir un
+
+1258
+01:07:49,220 --> 01:07:51,300
+petit peu l'état immunitaire de ce patient.
+
+1259
+01:07:54,880 --> 01:07:57,000
+Vous avez tout dans ce cours par rapport
+
+1260
+01:07:57,000 --> 01:07:57,900
+à ce que j'ai dit.
+
+1261
+01:07:58,980 --> 01:08:03,200
+Les moyens de prévention, le dépistage anonyme est
+
+1262
+01:08:03,200 --> 01:08:04,300
+gratuit, ça c'est important.
+
+1263
+01:08:05,820 --> 01:08:08,360
+Les compagnies d'information et de sensibilisation pour
+
+1264
+01:08:08,360 --> 01:08:11,880
+les toxicomanes, l'accès aux seringues, il y
+
+1265
+01:08:11,880 --> 01:08:13,760
+a des seringues gratuites même pour les toxicomanes
+
+1266
+01:08:13,760 --> 01:08:15,760
+dans les pays où il y a bien
+
+1267
+01:08:15,760 --> 01:08:19,220
+sûr les toxicomanes sont nombreux, pour éviter que
+
+1268
+01:08:19,220 --> 01:08:22,880
+les seringues se fassent passer d'un individu
+
+1269
+01:08:22,880 --> 01:08:23,200
+à l'autre.
+
+1270
+01:08:23,550 --> 01:08:27,080
+Donc des seringues à usage unique.
+
+1271
+01:08:28,520 --> 01:08:31,479
+Il multiplie les centres de sevrage parce que
+
+1272
+01:08:31,479 --> 01:08:37,819
+les toxicomanes intervenus sont là où se sévit
+
+1273
+01:08:37,819 --> 01:08:41,479
+principalement l'infection à VIH avec bien sûr
+
+1274
+01:08:41,479 --> 01:08:46,279
+la prostitution, le vagabondage sexuel.
+
+1275
+01:08:46,600 --> 01:08:48,720
+Donc les préservatifs c'est un moyen de
+
+1276
+01:08:48,720 --> 01:08:53,200
+prévention considérable qui est extrêmement important contre l
+
+1277
+01:08:53,200 --> 01:08:54,359
+'infection à VIH.
+
+1278
+01:08:55,560 --> 01:08:57,340
+Donc ça c'est les moyens de prévention,
+
+1279
+01:08:57,700 --> 01:09:00,920
+le sevrage, l'accès aux seringues gratuites et
+
+1280
+01:09:00,920 --> 01:09:04,100
+à usage unique, le dépistage anonyme est gratuit,
+
+1281
+01:09:04,859 --> 01:09:09,600
+l'usage des préservatifs, le dépistage systématique des
+
+1282
+01:09:09,600 --> 01:09:11,880
+dons de sang et d'organes, ça aussi
+
+1283
+01:09:11,880 --> 01:09:17,240
+la stérilisation du matériel de façon adaptée et
+
+1284
+01:09:17,240 --> 01:09:20,540
+les mesures de précaution lorsqu'on est exposé
+
+1285
+01:09:20,540 --> 01:09:23,760
+à un accident d'exposition au sang et
+
+1286
+01:09:23,760 --> 01:09:25,520
+les césariennes pour les mamans qui en sont
+
+1287
+01:09:25,520 --> 01:09:28,439
+séropositives, qui ont le droit d'avoir des
+
+1288
+01:09:28,439 --> 01:09:30,819
+enfants mais qui doivent pratiquer une césarienne à
+
+1289
+01:09:30,819 --> 01:09:33,380
+l'accouchement parce que le VIH passe principalement
+
+1290
+01:09:33,380 --> 01:09:37,760
+lors de l'accouchement avec un traitement préalable.
+
+1291
+01:09:38,240 --> 01:09:40,420
+Voilà pour les rétroviridés.
+
+1292
+01:09:40,420 --> 01:09:43,240
+Est-ce que vous avez des questions ?
+
+1293
+01:09:57,480 --> 01:10:02,640
+Alors, pour le VIH, la capside est icosaïdrique
+
+1294
+01:10:02,640 --> 01:10:03,040
+?
+
+1295
+01:10:03,040 --> 01:10:04,540
+Oui, asymétrique ubique.
+
+1296
+01:10:12,420 --> 01:10:14,360
+C'est bon ?
+
+1297
+01:10:14,360 --> 01:10:16,240
+Il nous reste une seule séance, la prochaine
+
+1298
+01:10:16,240 --> 01:10:17,760
+séance pour terminer tout ça donc il va
+
+1299
+01:10:17,760 --> 01:10:20,720
+falloir lire, revoir les cours que je vous
+
+1300
+01:10:20,720 --> 01:10:23,520
+ai envoyés dans la plateforme pour terminer le
+
+1301
+01:10:23,520 --> 01:10:23,740
+reste.
+
+1302
+01:10:26,680 --> 01:10:27,880
+C'est bon ?
+
+1303
+01:10:42,700 --> 01:10:44,800
+Peut-on avoir le VIH sans jamais développer
+
+1304
+01:10:44,800 --> 01:10:46,440
+le sida ?
+
+1305
+01:10:47,820 --> 01:10:49,820
+En tout cas, il y a encore des
+
+1306
+01:10:49,820 --> 01:10:52,780
+patients qui ont le VIH, qui ont l
+
+1307
+01:10:52,780 --> 01:10:54,660
+'infection à VIH qui n'ont pas encore
+
+1308
+01:10:54,660 --> 01:10:56,500
+développé le sida depuis une quinzaine d'années
+
+1309
+01:10:56,500 --> 01:10:57,340
+par exemple.
+
+1310
+01:10:57,680 --> 01:10:59,560
+Il y a des cas comme ça, oui.
+
+1311
+01:11:00,260 --> 01:11:03,140
+Mais en général, ça aboutit au sida et
+
+1312
+01:11:03,140 --> 01:11:07,200
+c'est la cause du décès des personnes
+
+1313
+01:11:07,200 --> 01:11:07,940
+séropositives.
+
+1314
+01:11:08,420 --> 01:11:10,320
+À partir de quel jour la personne devient
+
+1315
+01:11:10,320 --> 01:11:11,840
+contagieuse ?
+
+1316
+01:11:11,840 --> 01:11:13,240
+Vous parlez de quoi ?
+
+1317
+01:11:19,460 --> 01:11:24,940
+Devient contagieuse, c'est une infection sexuellement transmissible.
+
+1318
+01:11:25,800 --> 01:11:29,720
+Principalement, ça se transmet par voie parentérale et
+
+1319
+01:11:29,720 --> 01:11:31,480
+bien sûr, dès que le virus se multiplie
+
+1320
+01:11:31,480 --> 01:11:33,540
+au niveau de l'organisme et on considère
+
+1321
+01:11:33,540 --> 01:11:38,800
+qu'au bout de deux semaines, trois semaines
+
+1322
+01:11:38,800 --> 01:11:41,280
+éventuellement, il peut y avoir, lorsque le virus
+
+1323
+01:11:41,280 --> 01:11:43,780
+s'est implanté et donc il s'est
+
+1324
+01:11:43,780 --> 01:11:46,760
+multiplié au niveau de la cible, il peut
+
+1325
+01:11:46,760 --> 01:11:52,680
+être contaminateur et contagieux pour les sujets contacts.
+
+1326
+01:11:53,840 --> 01:11:56,060
+Est-ce que le VIH passe au bébé
+
+1327
+01:11:56,060 --> 01:11:58,100
+par voie transplacentaire ou lors de l'accouchement
+
+1328
+01:11:58,100 --> 01:11:59,740
+par voie basse ?
+
+1329
+01:11:59,740 --> 01:12:03,160
+Il passe principalement lors de l'accouchement par
+
+1330
+01:12:03,160 --> 01:12:04,880
+voie basse, d'accord.
+
+1331
+01:12:05,520 --> 01:12:07,780
+Et donc, il y a des précautions qui
+
+1332
+01:12:07,780 --> 01:12:11,140
+sont préconisées en fait, c'est le traitement.
+
+1333
+01:12:11,140 --> 01:12:16,020
+C'est le traitement de la maman, bien
+
+1334
+01:12:16,020 --> 01:12:17,060
+sûr il y a le traitement de la
+
+1335
+01:12:17,060 --> 01:12:19,640
+maman et du bébé aussi, à la naissance
+
+1336
+01:12:19,640 --> 01:12:21,700
+et l'accouchement par césarien.
+
+1337
+01:12:22,800 --> 01:12:24,640
+Donc ça, ça permet d'éviter, il y
+
+1338
+01:12:24,640 --> 01:12:26,120
+a beaucoup d'enfants qui sont nés de
+
+1339
+01:12:26,120 --> 01:12:29,380
+mères séropositives et qui n'étaient pas séropositives,
+
+1340
+01:12:29,700 --> 01:12:32,200
+grâce à des moyens de traitement, de prévention.
+
+1341
+01:12:37,460 --> 01:12:39,920
+Voilà, parfait, alors je vous souhaite une bonne
+
+1342
+01:12:39,920 --> 01:12:42,300
+fin de journée, au revoir.

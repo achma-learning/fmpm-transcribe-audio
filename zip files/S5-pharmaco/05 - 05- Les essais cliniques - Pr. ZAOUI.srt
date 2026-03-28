@@ -1,0 +1,3011 @@
+1
+00:00:00,650 --> 00:00:03,370
+Chers étudiants, nous allons faire aujourd'hui notre
+
+2
+00:00:03,370 --> 00:00:05,170
+cours sur les essais thérapeutiques.
+
+3
+00:00:09,970 --> 00:00:12,870
+Les essais thérapeutiques sont l'expérimentation des médicaments
+
+4
+00:00:12,870 --> 00:00:13,290
+chez l'homme.
+
+5
+00:00:13,650 --> 00:00:15,390
+Si vous vous rappelez, quand on a parlé
+
+6
+00:00:15,390 --> 00:00:17,170
+de la vie du médicament, on a dit
+
+7
+00:00:17,170 --> 00:00:19,310
+que le médicament doit être étudié dans la
+
+8
+00:00:19,310 --> 00:00:20,050
+phase de développement.
+
+9
+00:00:20,730 --> 00:00:22,470
+Il y a les études précliniques où on
+
+10
+00:00:22,470 --> 00:00:25,110
+étudie le médicament chez l'animal et les
+
+11
+00:00:25,110 --> 00:00:28,030
+études cliniques où on étudie le médicament chez
+
+12
+00:00:28,030 --> 00:00:28,490
+l'homme.
+
+13
+00:00:29,170 --> 00:00:32,250
+Pourquoi on étudie chez l'homme ces médicaments
+
+14
+00:00:32,250 --> 00:00:32,410
+?
+
+15
+00:00:32,410 --> 00:00:34,290
+Pour montrer que la substance qu'on est
+
+16
+00:00:34,290 --> 00:00:36,190
+en train de développer pour qu'elle soit
+
+17
+00:00:36,190 --> 00:00:39,410
+un médicament possède les qualités nécessaires.
+
+18
+00:00:39,730 --> 00:00:42,230
+C'est-à-dire, cette substance montre un
+
+19
+00:00:42,230 --> 00:00:44,710
+effet thérapeutique et qu'elle peut traiter la
+
+20
+00:00:44,710 --> 00:00:48,390
+pathologie et qu'elle peut être utilisée en
+
+21
+00:00:48,390 --> 00:00:50,490
+toute sécurité chez les humains.
+
+22
+00:00:51,010 --> 00:00:53,450
+Il y a trois phases à elles-mêmes,
+
+23
+00:00:53,610 --> 00:00:55,690
+c'est-à-dire avant l'autorisation de
+
+24
+00:00:55,690 --> 00:00:56,390
+mise sur le marché.
+
+25
+00:00:57,030 --> 00:00:58,610
+On a la phase 1, la phase 2,
+
+26
+00:00:58,710 --> 00:01:00,670
+la phase 3 et il y a une
+
+27
+00:01:00,670 --> 00:01:03,170
+phase après l'autorisation de mise sur le
+
+28
+00:01:03,170 --> 00:01:04,650
+marché qu'on appelle la phase 4.
+
+29
+00:01:05,290 --> 00:01:07,810
+Cette phase est surtout pour évaluer la balance
+
+30
+00:01:07,810 --> 00:01:09,430
+bénéfice-risque du médicament.
+
+31
+00:01:10,630 --> 00:01:12,410
+Qu'est-ce qu'on veut dire par
+
+32
+00:01:12,410 --> 00:01:14,310
+la balance bénéfice-risque ?
+
+33
+00:01:14,310 --> 00:01:17,990
+Le médicament a un effet thérapeutique mais aussi
+
+34
+00:01:17,990 --> 00:01:19,790
+il a des risques qui accompagnent l'effet
+
+35
+00:01:19,790 --> 00:01:20,430
+thérapeutique.
+
+36
+00:01:21,090 --> 00:01:24,070
+Cette balance bénéfice-risque doit rester en équilibre,
+
+37
+00:01:24,610 --> 00:01:26,090
+c'est-à-dire le bénéfice doit être
+
+38
+00:01:26,090 --> 00:01:27,230
+supérieur au risque.
+
+39
+00:01:28,070 --> 00:01:32,150
+Certains effets indésirables rares et graves peuvent apparaître
+
+40
+00:01:32,150 --> 00:01:35,090
+après l'utilisation du médicament par des millions
+
+41
+00:01:35,090 --> 00:01:35,910
+de personnes.
+
+42
+00:01:36,610 --> 00:01:38,010
+C'est-à-dire que ces effets vont
+
+43
+00:01:38,010 --> 00:01:42,010
+apparaître et probablement que le risque du médicament
+
+44
+00:01:42,010 --> 00:01:45,170
+va devenir supérieur au bénéfice attendu du médicament.
+
+45
+00:01:45,770 --> 00:01:46,810
+C'est pour ça qu'à chaque fois,
+
+46
+00:01:46,990 --> 00:01:49,630
+on évalue cette balance bénéfice-risque et quand
+
+47
+00:01:49,630 --> 00:01:51,370
+on voit qu'il y a un déséquilibre
+
+48
+00:01:51,370 --> 00:01:53,390
+au profit du risque, c'est le risque
+
+49
+00:01:53,390 --> 00:01:57,330
+du médicament qui augmente, c'est que ce
+
+50
+00:01:57,330 --> 00:01:59,070
+médicament va être retiré du marché.
+
+51
+00:02:02,420 --> 00:02:04,960
+Nous allons parler dans ce cours des différentes
+
+52
+00:02:04,960 --> 00:02:06,420
+phases des essais thérapeutiques.
+
+53
+00:02:07,380 --> 00:02:09,520
+La phase 1, la phase 2, la phase
+
+54
+00:02:09,520 --> 00:02:12,060
+3 et la phase post-AMM qui est
+
+55
+00:02:12,060 --> 00:02:12,680
+la phase 4.
+
+56
+00:02:13,220 --> 00:02:15,400
+Nous allons parler de la méthodologie des essais
+
+57
+00:02:15,400 --> 00:02:18,140
+thérapeutiques parce qu'ils doivent être faits selon
+
+58
+00:02:18,140 --> 00:02:22,720
+une méthodologie rigoureuse pour garantir la qualité scientifique
+
+59
+00:02:22,720 --> 00:02:26,080
+des résultats de ces études.
+
+60
+00:02:26,080 --> 00:02:29,160
+Nous allons parler des aspects éthiques et réglementaires
+
+61
+00:02:29,160 --> 00:02:30,160
+et nous allons conclure.
+
+62
+00:02:33,090 --> 00:02:34,850
+Au terme de ce cours, vous devez être
+
+63
+00:02:34,850 --> 00:02:37,750
+capable de citer les prérequis nécessaires avant de
+
+64
+00:02:37,750 --> 00:02:40,910
+démarrer une expérimentation chez l'homme, d'écrire
+
+65
+00:02:40,910 --> 00:02:43,810
+les différentes phases d'un essai thérapeutique, d
+
+66
+00:02:43,810 --> 00:02:47,110
+'écrire la méthodologie d'un essai thérapeutique.
+
+67
+00:02:50,440 --> 00:02:52,920
+Avant la première administration à l'homme, nous
+
+68
+00:02:52,920 --> 00:02:55,620
+devons avoir sous la main les données des
+
+69
+00:02:55,620 --> 00:02:59,020
+études précliniques, que ce soit les études faites
+
+70
+00:02:59,020 --> 00:03:00,980
+in vitro ou les études faites in vivo
+
+71
+00:03:00,980 --> 00:03:04,380
+chez l'animal, les résultats des études de
+
+72
+00:03:04,380 --> 00:03:08,800
+pharmacodynamics, de génotoxicité qui est les études de
+
+73
+00:03:08,800 --> 00:03:13,620
+mutagénèse, la pharmacocinétique, la toxicologie animale aiguë et
+
+74
+00:03:13,620 --> 00:03:18,020
+chronique et les effets du médicament sur la
+
+75
+00:03:18,020 --> 00:03:21,160
+fertilité et le développement embryo foetal.
+
+76
+00:03:21,500 --> 00:03:23,060
+Si vous avez remarqué, on n'a pas
+
+77
+00:03:23,060 --> 00:03:25,900
+ici cité les études de cancérogénèse parce qu
+
+78
+00:03:25,900 --> 00:03:27,420
+'on l'a expliqué dans le cours de
+
+79
+00:03:27,420 --> 00:03:28,340
+la vie du médicament.
+
+80
+00:03:28,880 --> 00:03:30,820
+Ces études ne sont pas requises parce qu
+
+81
+00:03:30,820 --> 00:03:31,920
+'elles sont de longue durée.
+
+82
+00:03:32,160 --> 00:03:33,820
+On peut les faire en parallèle avec les
+
+83
+00:03:33,820 --> 00:03:37,060
+premières administrations à l'homme, sauf lorsqu'il
+
+84
+00:03:37,060 --> 00:03:38,360
+y a des signes d'appel qu'on
+
+85
+00:03:38,360 --> 00:03:39,340
+a déjà cités.
+
+86
+00:03:42,360 --> 00:03:45,560
+Les données des études précliniques nous permettent de
+
+87
+00:03:45,560 --> 00:03:48,200
+calculer la première dose à administrer chez l
+
+88
+00:03:48,200 --> 00:03:48,600
+'homme.
+
+89
+00:03:48,700 --> 00:03:51,680
+A partir des doses utilisées chez l'animal,
+
+90
+00:03:52,220 --> 00:03:53,800
+on peut déduire la dose qu'on peut
+
+91
+00:03:53,800 --> 00:03:56,200
+utiliser chez l'homme et aussi la durée
+
+92
+00:03:56,200 --> 00:03:58,040
+d'administration chez l'homme qui sera en
+
+93
+00:03:58,040 --> 00:04:00,380
+fonction de la durée d'étude chez l
+
+94
+00:04:00,380 --> 00:04:00,740
+'animal.
+
+95
+00:04:04,390 --> 00:04:06,430
+Au cours des essais de phase 1, on
+
+96
+00:04:06,430 --> 00:04:09,010
+fait la première administration du médicament à l
+
+97
+00:04:09,010 --> 00:04:09,130
+'homme.
+
+98
+00:04:10,130 --> 00:04:12,550
+Ici, on a encore peur de la toxicité
+
+99
+00:04:12,550 --> 00:04:16,110
+de ce médicament puisqu'il a été étudié
+
+100
+00:04:16,110 --> 00:04:17,950
+chez l'animal et quand même, on ne
+
+101
+00:04:17,950 --> 00:04:19,810
+peut pas être sûr qu'il est anodin
+
+102
+00:04:19,810 --> 00:04:21,450
+chez l'homme puisqu'on a dit qu
+
+103
+00:04:21,450 --> 00:04:24,950
+'il y a des différences de réponse entre
+
+104
+00:04:24,950 --> 00:04:25,610
+les espèces.
+
+105
+00:04:26,690 --> 00:04:29,690
+On le fait dans un site dédié aux
+
+106
+00:04:29,690 --> 00:04:32,010
+essais de phase 1 où il y aura
+
+107
+00:04:32,010 --> 00:04:38,690
+une surveillance qui est importante avec des équipements
+
+108
+00:04:38,690 --> 00:04:41,030
+de réanimation ou un site qui est proche
+
+109
+00:04:41,030 --> 00:04:43,250
+d'un service de réanimation.
+
+110
+00:04:43,810 --> 00:04:46,310
+Généralement, on fait une hospitalisation des volontaires.
+
+111
+00:04:49,640 --> 00:04:52,540
+On fait l'étude chez un nombre limité
+
+112
+00:04:52,540 --> 00:04:54,120
+de volontaires généralement sains.
+
+113
+00:04:54,800 --> 00:04:56,700
+C'est un sujet qui se présente pour
+
+114
+00:04:56,700 --> 00:04:57,860
+participer à l'essai.
+
+115
+00:04:57,860 --> 00:05:00,480
+Alors qu'il ne porte aucune pathologie, il
+
+116
+00:05:00,480 --> 00:05:03,880
+est sain parce que l'intérêt ou l
+
+117
+00:05:03,880 --> 00:05:05,500
+'objectif de cette phase n'est pas de
+
+118
+00:05:05,500 --> 00:05:08,440
+montrer l'effet thérapeutique mais c'est d
+
+119
+00:05:08,440 --> 00:05:11,240
+'étudier les paramètres pharmacodynamiques et d'étudier la
+
+120
+00:05:11,240 --> 00:05:12,200
+pharmaco-cynétique.
+
+121
+00:05:12,800 --> 00:05:16,780
+Pour certains médicaments qui sont très toxiques ou
+
+122
+00:05:16,780 --> 00:05:19,920
+qui ont une toxicité importante, par exemple les
+
+123
+00:05:19,920 --> 00:05:24,480
+anticancéreux, ils sont essayés chez des malades pour
+
+124
+00:05:24,480 --> 00:05:26,360
+ne pas provoquer chez les volontaires sains beaucoup
+
+125
+00:05:26,360 --> 00:05:27,360
+d'effets indésirables.
+
+126
+00:05:27,900 --> 00:05:32,560
+L'exposition aux médicaments est faite sur une
+
+127
+00:05:32,560 --> 00:05:34,400
+durée qui est courte.
+
+128
+00:05:35,960 --> 00:05:38,960
+On exclut de ces essais les femmes enceintes,
+
+129
+00:05:39,400 --> 00:05:41,660
+les enfants, les sujets âgés, les sujets qui
+
+130
+00:05:41,660 --> 00:05:43,780
+ont une insuffisance rénale et hépatique parce qu
+
+131
+00:05:43,780 --> 00:05:47,860
+'ils peuvent présenter des effets indésirables qui sont
+
+132
+00:05:47,860 --> 00:05:50,540
+importants et on ne veut pas exposer ces
+
+133
+00:05:50,540 --> 00:05:52,420
+terrains à un médicament qui n'est pas
+
+134
+00:05:52,420 --> 00:05:53,860
+encore très bien connu.
+
+135
+00:05:53,860 --> 00:05:58,060
+On interdit la prise de beaucoup de médicaments
+
+136
+00:05:58,060 --> 00:05:59,740
+ou la prise de médicaments qui ne sont
+
+137
+00:05:59,740 --> 00:06:01,880
+pas autorisés lors de l'essai parce qu
+
+138
+00:06:01,880 --> 00:06:04,060
+'il y a un risque d'interaction médicamenteuse
+
+139
+00:06:04,060 --> 00:06:07,420
+entre les différents médicaments pris et la possibilité
+
+140
+00:06:07,420 --> 00:06:09,860
+d'apparition d'effets indésirables à cause de
+
+141
+00:06:09,860 --> 00:06:11,440
+ces interactions médicamenteuses.
+
+142
+00:06:11,880 --> 00:06:14,560
+On donne une dose croissante des médicaments.
+
+143
+00:06:14,680 --> 00:06:16,540
+Par exemple, on donne la première dose à
+
+144
+00:06:16,540 --> 00:06:20,200
+un groupe de sujets puis on augmente la
+
+145
+00:06:20,200 --> 00:06:21,360
+dose au fur et à mesure qu'on
+
+146
+00:06:21,360 --> 00:06:22,620
+n'a pas de problème jusqu'à ce
+
+147
+00:06:22,620 --> 00:06:24,200
+qu'on ait un effet secondaire qui n
+
+148
+00:06:24,200 --> 00:06:25,100
+'est pas acceptable.
+
+149
+00:06:27,820 --> 00:06:30,240
+Par exemple, on donne une première dose à
+
+150
+00:06:30,240 --> 00:06:31,820
+un petit groupe de personnes.
+
+151
+00:06:33,380 --> 00:06:37,160
+On voit sur le plan clinique si ces
+
+152
+00:06:37,160 --> 00:06:41,860
+personnes-là vont développer des symptômes ou avoir
+
+153
+00:06:41,860 --> 00:06:44,200
+un problème au niveau du bilan biologique ou
+
+154
+00:06:44,200 --> 00:06:44,460
+autre.
+
+155
+00:06:45,080 --> 00:06:47,340
+Si tout se passe bien, on augmente la
+
+156
+00:06:47,340 --> 00:06:49,140
+dose et on la donne à un autre
+
+157
+00:06:49,140 --> 00:06:50,220
+groupe de personnes.
+
+158
+00:06:50,600 --> 00:06:52,660
+On évalue la même chose sur le plan
+
+159
+00:06:52,660 --> 00:06:56,180
+clinique, le plan biologique ou autre.
+
+160
+00:06:56,860 --> 00:06:59,400
+Si tout se passe bien, on peut passer
+
+161
+00:06:59,400 --> 00:07:02,460
+à une troisième dose ou une quatrième dose
+
+162
+00:07:02,460 --> 00:07:03,760
+jusqu'à ce qu'on ait un effet
+
+163
+00:07:03,760 --> 00:07:06,660
+indésirable qui n'est pas acceptable pour un
+
+164
+00:07:06,660 --> 00:07:06,920
+patient.
+
+165
+00:07:08,960 --> 00:07:11,420
+Lors de ces essais, on recherche la toxicité
+
+166
+00:07:11,420 --> 00:07:12,060
+à court terme.
+
+167
+00:07:12,260 --> 00:07:14,680
+On évalue la tolérance de ce nouveau médicament.
+
+168
+00:07:15,420 --> 00:07:18,300
+Quelle est la nature des effets indésirables que
+
+169
+00:07:18,300 --> 00:07:19,400
+le patient peut présenter?
+
+170
+00:07:19,780 --> 00:07:21,840
+Est-ce que ce médicament donne des effets
+
+171
+00:07:21,840 --> 00:07:28,020
+indésirables par exemple digestifs, des effets indésirables cutanés
+
+172
+00:07:28,020 --> 00:07:28,580
+ou autre?
+
+173
+00:07:29,080 --> 00:07:31,120
+La réversibilité de ces effets après l'arrêt
+
+174
+00:07:31,120 --> 00:07:33,440
+du traitement et la relation entre la dose
+
+175
+00:07:33,440 --> 00:07:36,240
+du médicament pris et l'apparition de l
+
+176
+00:07:36,240 --> 00:07:37,900
+'effet ou l'effet indésirable.
+
+177
+00:07:38,280 --> 00:07:41,600
+On détermine ici la dose maximale tolérée.
+
+178
+00:07:41,860 --> 00:07:44,060
+Quelle est la plus grande dose que les
+
+179
+00:07:44,060 --> 00:07:47,300
+patients peuvent tolérer et qui ne provoque pas
+
+180
+00:07:47,300 --> 00:07:48,940
+beaucoup d'effets indésirables chez les patients?
+
+181
+00:07:50,320 --> 00:07:53,660
+A côté des effets indésirables, on fait des
+
+182
+00:07:53,660 --> 00:07:57,180
+études de pharmaco-cynétique pour étudier les voies
+
+183
+00:07:57,180 --> 00:08:00,540
+d'administration convenables à l'utilisation thérapeutique, la
+
+184
+00:08:00,540 --> 00:08:03,800
+fréquence des administrations et l'intervalle entre les
+
+185
+00:08:03,800 --> 00:08:04,080
+doses.
+
+186
+00:08:04,620 --> 00:08:06,240
+Tout ce qui va nous préparer à la
+
+187
+00:08:06,240 --> 00:08:06,640
+phase 2.
+
+188
+00:08:07,020 --> 00:08:09,700
+On étudie aussi les paramètres pharmacodynamiques, c'est
+
+189
+00:08:09,700 --> 00:08:12,360
+-à-dire l'effet de ce médicament sur
+
+190
+00:08:12,360 --> 00:08:15,100
+les différents paramètres biologiques.
+
+191
+00:08:15,640 --> 00:08:17,140
+Quel est l'effet par exemple sur la
+
+192
+00:08:17,140 --> 00:08:20,280
+tension artérielle, sur la fréquence respiratoire, sur la
+
+193
+00:08:20,280 --> 00:08:25,720
+fréquence cardiaque, sur la température, sur différents paramètres.
+
+194
+00:08:28,680 --> 00:08:30,480
+Cet essai de phase 1 va nous donner
+
+195
+00:08:30,480 --> 00:08:33,200
+une idée sur la dose à recommander pour
+
+196
+00:08:33,200 --> 00:08:34,500
+les essais de phase 2.
+
+197
+00:08:36,140 --> 00:08:40,080
+Après l'analyse des résultats, on va voir
+
+198
+00:08:40,080 --> 00:08:42,179
+si on peut passer à la phase 2
+
+199
+00:08:42,179 --> 00:08:42,539
+ou pas.
+
+200
+00:08:42,640 --> 00:08:46,160
+Par exemple, si le médicament a été responsable
+
+201
+00:08:46,160 --> 00:08:49,820
+de beaucoup d'effets indésirables qui sont importants
+
+202
+00:08:49,820 --> 00:08:53,480
+alors que le médicament est destiné à une
+
+203
+00:08:53,480 --> 00:08:55,720
+pathologie, par exemple bénigne et qui nous donne
+
+204
+00:08:55,720 --> 00:08:59,060
+des effets indésirables qui sont très importants, probablement
+
+205
+00:08:59,060 --> 00:09:03,220
+qu'on ne va pas faire les études
+
+206
+00:09:03,220 --> 00:09:03,740
+de phase 2.
+
+207
+00:09:04,280 --> 00:09:07,480
+L'activité et l'efficacité du médicament ne
+
+208
+00:09:07,480 --> 00:09:09,560
+sont pas des éléments de décision à cette
+
+209
+00:09:09,560 --> 00:09:10,640
+phase puisqu'on a dit que c'est
+
+210
+00:09:10,640 --> 00:09:15,660
+surtout une phase pour étudier la toxicité du
+
+211
+00:09:15,660 --> 00:09:19,280
+médicament, la pharmacocinétique et la pharmacodynamics.
+
+212
+00:09:22,140 --> 00:09:24,640
+C'est un schéma qui résume les études
+
+213
+00:09:24,640 --> 00:09:25,300
+de phase 1.
+
+214
+00:09:25,760 --> 00:09:29,080
+En plus des effets indésirables du médicament, on
+
+215
+00:09:29,080 --> 00:09:33,700
+étudie son effet sur les paramètres physiologiques et
+
+216
+00:09:33,700 --> 00:09:35,320
+sa pharmacocinétique.
+
+217
+00:09:37,560 --> 00:09:39,460
+Les essais de phase 2 sont des essais
+
+218
+00:09:39,460 --> 00:09:41,380
+de culture et à la différence des essais
+
+219
+00:09:41,380 --> 00:09:44,360
+de phase 3 où on étudie le médicament
+
+220
+00:09:44,360 --> 00:09:46,680
+sur plusieurs années, pour l'essai de phase
+
+221
+00:09:46,680 --> 00:09:49,620
+2, ça dépend du médicament, ils peuvent prendre
+
+222
+00:09:49,620 --> 00:09:50,380
+quelques mois.
+
+223
+00:09:51,720 --> 00:09:54,220
+Surtout, on évalue lors de ces essais l
+
+224
+00:09:54,220 --> 00:09:58,000
+'efficacité sur une population limitée et homogène de
+
+225
+00:09:58,000 --> 00:09:58,320
+patients.
+
+226
+00:09:59,020 --> 00:10:02,520
+Ici, on prend une centaine de patients sur
+
+227
+00:10:02,520 --> 00:10:05,960
+lesquels on va essayer de montrer l'efficacité
+
+228
+00:10:05,960 --> 00:10:08,660
+du traitement et lors de ces essais, on
+
+229
+00:10:08,660 --> 00:10:11,560
+détermine la posologie optimale du produit en termes
+
+230
+00:10:11,560 --> 00:10:13,560
+d'efficacité et de tolérance, quelle est la
+
+231
+00:10:13,560 --> 00:10:16,840
+dose qui va nous donner une efficacité sans
+
+232
+00:10:16,840 --> 00:10:18,820
+nous donner les effets secondaires.
+
+233
+00:10:19,260 --> 00:10:21,740
+De ce fait, on détermine la posologie efficace
+
+234
+00:10:21,740 --> 00:10:24,240
+pour les essais de phase 3 et on
+
+235
+00:10:24,240 --> 00:10:26,700
+étudie la relation entre la dose et l
+
+236
+00:10:26,700 --> 00:10:29,180
+'effet thérapeutique ou la relation entre la concentration
+
+237
+00:10:29,180 --> 00:10:33,100
+circulante et l'effet thérapeutique parce que pour
+
+238
+00:10:33,100 --> 00:10:35,200
+la majorité des médicaments, il y a une
+
+239
+00:10:35,200 --> 00:10:37,660
+relation entre la dose qu'on va administrer
+
+240
+00:10:37,660 --> 00:10:40,980
+aux patients ou la concentration du médicament dans
+
+241
+00:10:40,980 --> 00:10:44,140
+le sang du patient et l'effet thérapeutique.
+
+242
+00:10:47,040 --> 00:10:51,100
+Généralement, quand on va augmenter les doses, on
+
+243
+00:10:51,100 --> 00:10:52,480
+augmente l'efficacité.
+
+244
+00:10:52,660 --> 00:10:54,840
+Bien sûr, on ne doit pas dépasser la
+
+245
+00:10:54,840 --> 00:10:59,240
+dose maximale tolérée par le patient.
+
+246
+00:11:02,950 --> 00:11:05,570
+À côté de cette évaluation de l'efficacité
+
+247
+00:11:05,570 --> 00:11:09,090
+du médicament, on va avoir des informations supplémentaires.
+
+248
+00:11:09,630 --> 00:11:13,030
+Par exemple, avoir plus d'informations sur les
+
+249
+00:11:13,030 --> 00:11:15,930
+effets indésirables à court terme et on va
+
+250
+00:11:15,930 --> 00:11:19,090
+continuer les études de pharmacocinétique qu'on a
+
+251
+00:11:19,090 --> 00:11:21,590
+déjà démarrées lors des essais de phase 1.
+
+252
+00:11:24,800 --> 00:11:26,860
+Ici aussi, on n'autorise pas l'association
+
+253
+00:11:26,860 --> 00:11:29,080
+de beaucoup de médicaments avec le médicament de
+
+254
+00:11:29,080 --> 00:11:32,820
+l'étude pour éviter le risque d'apparition
+
+255
+00:11:32,820 --> 00:11:36,300
+d'une interaction médicamenteuse et ce sont les
+
+256
+00:11:36,300 --> 00:11:38,560
+résultats de ces essais de phase 2 qui
+
+257
+00:11:38,560 --> 00:11:40,440
+vont nous permettre de passer à la phase
+
+258
+00:11:40,440 --> 00:11:44,140
+3 si le médicament a montré une efficacité
+
+259
+00:11:44,140 --> 00:11:46,760
+quelconque, on peut passer à la phase 3
+
+260
+00:11:46,760 --> 00:11:49,060
+pour démontrer cette efficacité.
+
+261
+00:11:52,350 --> 00:11:54,210
+Les essais de phase 3 sont l'élément
+
+262
+00:11:54,210 --> 00:11:57,250
+essentiel à l'utilisation thérapeutique parce qu'après
+
+263
+00:11:57,250 --> 00:11:59,630
+cette phase, c'est une phase qui est
+
+264
+00:11:59,630 --> 00:12:02,430
+décisive, après cette phase, on va commercialiser ou
+
+265
+00:12:02,430 --> 00:12:03,650
+non le médicament.
+
+266
+00:12:04,370 --> 00:12:06,870
+Dans cette phase, on évalue l'efficacité à
+
+267
+00:12:06,870 --> 00:12:09,370
+grande échelle car on utilise des milliers de
+
+268
+00:12:09,370 --> 00:12:13,590
+patients de par exemple 1000 à 3000 patients
+
+269
+00:12:13,590 --> 00:12:15,910
+qui sont des malades volontaires.
+
+270
+00:12:16,070 --> 00:12:19,590
+Ce sont des patients qui ont la pathologie
+
+271
+00:12:19,590 --> 00:12:22,210
+pour laquelle on étudie l'efficacité du médicament
+
+272
+00:12:22,210 --> 00:12:24,570
+et on essaye de montrer lors de cette
+
+273
+00:12:24,570 --> 00:12:27,710
+phase l'efficacité de ce médicament par rapport
+
+274
+00:12:27,710 --> 00:12:28,830
+à un traitement comparateur.
+
+275
+00:12:29,630 --> 00:12:32,330
+Généralement, c'est le traitement de référence ou
+
+276
+00:12:32,330 --> 00:12:34,830
+le meilleur traitement qui se vend ou qui
+
+277
+00:12:34,830 --> 00:12:37,470
+est commercialisé pour traiter cette pathologie.
+
+278
+00:12:39,770 --> 00:12:42,690
+La durée d'administration du médicament lors de
+
+279
+00:12:42,690 --> 00:12:44,650
+cette phase est lente, qui peut prendre plusieurs
+
+280
+00:12:44,650 --> 00:12:45,110
+années.
+
+281
+00:12:46,150 --> 00:12:48,470
+Généralement, ce sont des études multicentriques.
+
+282
+00:12:48,650 --> 00:12:51,190
+On fait introduire dans l'essai plusieurs centres,
+
+283
+00:12:52,070 --> 00:12:56,770
+plusieurs par exemple services, hospitaliers, plusieurs centres d
+
+284
+00:12:56,770 --> 00:12:59,270
+'études pour augmenter le nombre de patients à
+
+285
+00:12:59,270 --> 00:13:00,630
+inclure dans l'essai parce qu'on a
+
+286
+00:13:00,630 --> 00:13:01,750
+besoin de milliers de patients.
+
+287
+00:13:01,970 --> 00:13:05,910
+Donc, on doit recruter plusieurs centres pour avoir
+
+288
+00:13:05,910 --> 00:13:08,310
+le nombre nécessaire des patients pour l'étude.
+
+289
+00:13:08,310 --> 00:13:10,910
+Lors de cette phase aussi, on étudie l
+
+290
+00:13:10,910 --> 00:13:13,430
+'importance des effets indésirables les plus fréquents.
+
+291
+00:13:18,210 --> 00:13:20,030
+Ce schéma, c'est pour vous montrer que
+
+292
+00:13:20,030 --> 00:13:22,110
+les études de phase 3 sont des études
+
+293
+00:13:22,110 --> 00:13:23,450
+comparatives.
+
+294
+00:13:24,050 --> 00:13:27,630
+On compare le traitement de l'essai avec
+
+295
+00:13:27,630 --> 00:13:29,030
+un autre traitement.
+
+296
+00:13:29,390 --> 00:13:31,550
+Donc, le groupe de patients qui prend le
+
+297
+00:13:31,550 --> 00:13:34,330
+traitement de l'essai avec un autre groupe
+
+298
+00:13:34,330 --> 00:13:36,770
+de patients qui prennent un autre médicament.
+
+299
+00:13:39,540 --> 00:13:41,360
+Essayez de répondre à cette QCM.
+
+300
+00:13:41,360 --> 00:13:43,360
+Cochez-la ou les réponses justes.
+
+301
+00:13:44,000 --> 00:13:46,160
+Les données d'études faites chez l'animal
+
+302
+00:13:46,160 --> 00:13:48,460
+ne sont pas requises pour démarrer les essais
+
+303
+00:13:48,460 --> 00:13:49,020
+chez l'homme.
+
+304
+00:13:54,780 --> 00:13:55,080
+Faux.
+
+305
+00:13:55,720 --> 00:13:57,800
+On a dit que pour faire des essais
+
+306
+00:13:57,800 --> 00:14:00,320
+chez l'homme, on doit avoir un prérequis
+
+307
+00:14:00,320 --> 00:14:04,760
+qui est le résultat des études faites dans
+
+308
+00:14:04,760 --> 00:14:06,680
+la phase préclinique, que ce soit in vitro,
+
+309
+00:14:07,100 --> 00:14:08,120
+que ce soit chez l'animal.
+
+310
+00:14:09,580 --> 00:14:12,220
+La phase 1 permet de démontrer l'efficacité
+
+311
+00:14:12,220 --> 00:14:13,520
+thérapeutique des médicaments.
+
+312
+00:14:17,770 --> 00:14:18,030
+Faux.
+
+313
+00:14:18,030 --> 00:14:20,950
+L'objectif principal de la phase 1, c
+
+314
+00:14:20,950 --> 00:14:24,570
+'est surtout d'évaluer la sécurité d'utilisation
+
+315
+00:14:24,570 --> 00:14:25,290
+du médicament.
+
+316
+00:14:27,430 --> 00:14:29,370
+La phase 1 se fait toujours chez des
+
+317
+00:14:29,370 --> 00:14:30,110
+volontaires sains.
+
+318
+00:14:34,030 --> 00:14:34,290
+Faux.
+
+319
+00:14:34,930 --> 00:14:37,490
+Pour certains médicaments qui ont un degré de
+
+320
+00:14:37,490 --> 00:14:41,550
+toxicité important, on utilise des volontaires malades.
+
+321
+00:14:43,710 --> 00:14:45,810
+La phase 2 se fait sur une longue
+
+322
+00:14:45,810 --> 00:14:46,190
+durée.
+
+323
+00:14:50,940 --> 00:14:51,180
+Faux.
+
+324
+00:14:51,820 --> 00:14:53,760
+La phase 2 se fait sur une courte
+
+325
+00:14:53,760 --> 00:14:54,060
+durée.
+
+326
+00:14:57,780 --> 00:15:00,300
+La phase 3 se fait sur un petit
+
+327
+00:15:00,300 --> 00:15:01,340
+groupe de patients.
+
+328
+00:15:04,900 --> 00:15:05,180
+Faux.
+
+329
+00:15:05,640 --> 00:15:07,460
+La phase 3 se fait sur des milliers
+
+330
+00:15:07,460 --> 00:15:08,260
+de patients.
+
+331
+00:15:11,010 --> 00:15:13,010
+On arrive aux essais de phase 4.
+
+332
+00:15:13,570 --> 00:15:15,290
+Ce sont des essais ou des études qui
+
+333
+00:15:15,290 --> 00:15:18,790
+se font après la commercialisation du médicament.
+
+334
+00:15:19,410 --> 00:15:23,010
+Leur objectif principal, c'est de déterminer les
+
+335
+00:15:23,010 --> 00:15:25,230
+effets indésirables après commercialisation.
+
+336
+00:15:25,230 --> 00:15:29,350
+On surveille par le biais de la pharmacovigilance
+
+337
+00:15:29,350 --> 00:15:33,390
+les effets indésirables qui peuvent apparaître après commercialisation
+
+338
+00:15:33,390 --> 00:15:36,070
+du médicament pour les étudier.
+
+339
+00:15:39,110 --> 00:15:42,710
+Généralement, on étudie les effets indésirables rares et
+
+340
+00:15:42,710 --> 00:15:45,570
+d'apparition tardive qui sont dus au traitement
+
+341
+00:15:45,570 --> 00:15:46,250
+au long cours.
+
+342
+00:15:46,990 --> 00:15:48,270
+Parce qu'on a dit que les effets
+
+343
+00:15:48,270 --> 00:15:51,890
+indésirables les plus fréquents vont apparaître généralement lors
+
+344
+00:15:51,890 --> 00:15:52,770
+des essais cliniques.
+
+345
+00:15:52,770 --> 00:15:56,270
+Mais les effets indésirables rares qui n'apparaissent
+
+346
+00:15:56,270 --> 00:16:00,350
+que par exemple 1 sur 10 000 patients
+
+347
+00:16:00,350 --> 00:16:02,670
+ou 1 sur 100 000 patients ne vont
+
+348
+00:16:02,670 --> 00:16:05,170
+apparaître qu'après commercialisation du médicament.
+
+349
+00:16:05,550 --> 00:16:10,110
+Aussi, les effets indésirables tardives qui sont dus
+
+350
+00:16:10,110 --> 00:16:11,330
+au traitement au long cours.
+
+351
+00:16:11,470 --> 00:16:14,530
+Par exemple, un traitement pris pendant 5 ans,
+
+352
+00:16:14,670 --> 00:16:17,850
+6 ans, 10 ans qui va donner des
+
+353
+00:16:17,850 --> 00:16:18,810
+effets indésirables.
+
+354
+00:16:19,810 --> 00:16:23,430
+Pour étudier ces effets, on utilise des études
+
+355
+00:16:23,430 --> 00:16:24,470
+prospectives.
+
+356
+00:16:25,010 --> 00:16:27,250
+C'est-à-dire, on suit un groupe
+
+357
+00:16:27,250 --> 00:16:30,390
+exposé au traitement et on va voir est
+
+358
+00:16:30,390 --> 00:16:31,470
+-ce qu'il va nous faire des effets
+
+359
+00:16:31,470 --> 00:16:34,230
+indésirables ou des études rétrospectives.
+
+360
+00:16:34,430 --> 00:16:36,330
+C'est après l'apparition des effets indésirables
+
+361
+00:16:36,330 --> 00:16:38,490
+qu'on va commencer à chercher dans les
+
+362
+00:16:38,490 --> 00:16:41,450
+antécédents des patients la prise du médicament.
+
+363
+00:16:43,340 --> 00:16:46,600
+En plus des effets indésirables, on étudie lors
+
+364
+00:16:46,600 --> 00:16:49,360
+de la phase 4 l'efficacité du traitement
+
+365
+00:16:49,360 --> 00:16:52,440
+sur une population de patients beaucoup plus large
+
+366
+00:16:52,440 --> 00:16:54,000
+et sur une période plus longue.
+
+367
+00:16:54,480 --> 00:16:58,200
+Parce que les essais cliniques sont des études
+
+368
+00:16:58,200 --> 00:17:02,320
+qui sont dans le nombre de patients, il
+
+369
+00:17:02,320 --> 00:17:04,540
+est quand même limité avec la durée du
+
+370
+00:17:04,540 --> 00:17:05,740
+traitement qui est limitée.
+
+371
+00:17:05,740 --> 00:17:08,500
+On respecte les doses, les modalités de prise
+
+372
+00:17:08,500 --> 00:17:10,839
+du médicament alors que quand on utilise le
+
+373
+00:17:10,839 --> 00:17:14,119
+médicament chez beaucoup de patients sur une large
+
+374
+00:17:14,119 --> 00:17:16,819
+population, il y aura une prise du médicament
+
+375
+00:17:16,819 --> 00:17:20,400
+qui peut ne pas être conforme aux données
+
+376
+00:17:20,400 --> 00:17:22,560
+du résumé des caractéristiques du produit.
+
+377
+00:17:22,920 --> 00:17:25,079
+On ne respecte pas la dose, on ne
+
+378
+00:17:25,079 --> 00:17:27,280
+respecte pas la durée du traitement, on ne
+
+379
+00:17:27,280 --> 00:17:28,940
+respecte pas l'indication du traitement.
+
+380
+00:17:29,060 --> 00:17:31,560
+C'est pourquoi on doit étudier l'efficacité
+
+381
+00:17:31,560 --> 00:17:34,180
+du traitement après commercialisation.
+
+382
+00:17:34,180 --> 00:17:37,140
+Lors de cette phase, on peut trouver de
+
+383
+00:17:37,140 --> 00:17:38,940
+nouvelles indications thérapeutiques.
+
+384
+00:17:40,080 --> 00:17:43,860
+Les médecins qui administrent le traitement aux patients
+
+385
+00:17:43,860 --> 00:17:50,120
+peuvent constater des effets thérapeutiques du traitement autre
+
+386
+00:17:50,120 --> 00:17:53,200
+que celui pour lequel ils utilisent le médicament.
+
+387
+00:17:53,680 --> 00:17:56,420
+Et on peut constater de nouvelles indications thérapeutiques.
+
+388
+00:17:56,420 --> 00:17:59,120
+Au terme de ces études, on peut, s
+
+389
+00:17:59,120 --> 00:18:01,420
+'il y a un effet indésirable grave, décider
+
+390
+00:18:01,420 --> 00:18:07,200
+de retirer le médicament du marché ou limiter
+
+391
+00:18:07,200 --> 00:18:09,480
+son utilisation à certaines indications.
+
+392
+00:18:09,660 --> 00:18:12,760
+Par exemple, le Calidomythia était responsable d'effets
+
+393
+00:18:12,760 --> 00:18:13,280
+thérapeutiques.
+
+394
+00:18:13,500 --> 00:18:16,760
+Il est actuellement utilisé pour les mielons multiples
+
+395
+00:18:16,760 --> 00:18:19,900
+chez les sujets de plus de 65 ans.
+
+396
+00:18:20,420 --> 00:18:22,440
+Donc, on a limité ces indications.
+
+397
+00:18:22,440 --> 00:18:27,280
+C'est un schéma qui résume les différentes
+
+398
+00:18:27,280 --> 00:18:28,580
+phases des essais cliniques.
+
+399
+00:18:29,320 --> 00:18:32,600
+On a la phase 1, où on étudie
+
+400
+00:18:32,600 --> 00:18:35,680
+la sécurité d'utilisation du médicament, les effets
+
+401
+00:18:35,680 --> 00:18:37,920
+pharmacodynamiques et la pharmacocinétique.
+
+402
+00:18:38,640 --> 00:18:40,220
+Il y a la phase 2, où on
+
+403
+00:18:40,220 --> 00:18:43,880
+commence à chercher l'efficacité du médicament et,
+
+404
+00:18:43,960 --> 00:18:47,380
+bien sûr, on continue les autres études comme
+
+405
+00:18:47,380 --> 00:18:50,320
+la pharmacocinétique et, bien sûr, les effets indésirables.
+
+406
+00:18:50,320 --> 00:18:52,160
+Il y a la phase 3, qui est
+
+407
+00:18:52,160 --> 00:18:55,980
+essentiellement une phase comparative pour démontrer l'efficacité
+
+408
+00:18:55,980 --> 00:18:56,600
+d'un traitement.
+
+409
+00:18:57,540 --> 00:18:59,480
+Puis, après ces trois phases, on demande l
+
+410
+00:18:59,480 --> 00:19:01,120
+'autorisation de mise sur le marché.
+
+411
+00:19:01,860 --> 00:19:03,540
+Et on a la quatrième phase.
+
+412
+00:19:04,360 --> 00:19:06,180
+On a dit qu'essentiellement, c'est pour
+
+413
+00:19:06,180 --> 00:19:09,180
+la recherche des effets indésirables, rares et qui
+
+414
+00:19:09,180 --> 00:19:10,300
+apparaissent au long cours.
+
+415
+00:19:13,180 --> 00:19:15,580
+Il y a des étapes préalables au démarrage
+
+416
+00:19:15,580 --> 00:19:16,620
+d'un essai clinique.
+
+417
+00:19:17,580 --> 00:19:19,400
+Premièrement, on réduit ce qu'on appelle le
+
+418
+00:19:19,400 --> 00:19:20,520
+protocole de recherche.
+
+419
+00:19:20,520 --> 00:19:23,480
+Le protocole de recherche, c'est le document
+
+420
+00:19:23,480 --> 00:19:26,200
+écrit qui explique toutes les étapes de la
+
+421
+00:19:26,200 --> 00:19:26,960
+recherche clinique.
+
+422
+00:19:27,080 --> 00:19:31,180
+On décrit tout sur un document et ce
+
+423
+00:19:31,180 --> 00:19:34,200
+protocole ne doit pas changer au fur et
+
+424
+00:19:34,200 --> 00:19:36,580
+à mesure qu'on avance dans l'étude.
+
+425
+00:19:37,200 --> 00:19:39,400
+Donc, les données qui sont mises sur le
+
+426
+00:19:39,400 --> 00:19:43,260
+protocole ou la méthodologie décrite dans le protocole
+
+427
+00:19:43,260 --> 00:19:45,680
+avant le démarrage de l'essai doit être
+
+428
+00:19:45,680 --> 00:19:46,420
+telle qu'elle est.
+
+429
+00:19:46,420 --> 00:19:48,380
+Elle ne doit pas changer et on ne
+
+430
+00:19:48,380 --> 00:19:51,860
+doit pas faire des rectifications dans le protocole
+
+431
+00:19:51,860 --> 00:19:53,340
+au fur et à mesure qu'on avance
+
+432
+00:19:53,340 --> 00:19:56,640
+dans l'essai et en fonction des résultats
+
+433
+00:19:56,640 --> 00:19:57,600
+qu'on trouve dans l'essai.
+
+434
+00:19:58,680 --> 00:20:01,140
+Après la rédaction de ce protocole, il est
+
+435
+00:20:01,140 --> 00:20:04,540
+soumis à un comité de protection des personnes
+
+436
+00:20:04,540 --> 00:20:07,180
+qui doit donner son avis du point de
+
+437
+00:20:07,180 --> 00:20:08,660
+vue éthique et scientifique.
+
+438
+00:20:08,660 --> 00:20:12,400
+Il regarde est-ce que l'étude est
+
+439
+00:20:12,400 --> 00:20:13,940
+bien faite, est-ce qu'elle n'est
+
+440
+00:20:13,940 --> 00:20:16,220
+pas nuisible pour les volontaires pour l'essai.
+
+441
+00:20:16,880 --> 00:20:19,300
+Généralement, ce comité est pluridisciplinaire.
+
+442
+00:20:19,480 --> 00:20:21,800
+Vous trouvez dans ce comité des médecins, des
+
+443
+00:20:21,800 --> 00:20:25,620
+psychologues, des pharmaciens, des infirmiers, des représentants de
+
+444
+00:20:25,620 --> 00:20:28,560
+la société civile qui vont défendre l'intérêt
+
+445
+00:20:28,560 --> 00:20:31,160
+des volontaires ou les gens qui se portent
+
+446
+00:20:31,160 --> 00:20:32,780
+volontaire à l'essai.
+
+447
+00:20:32,780 --> 00:20:36,300
+Et puis on a l'inclusion des patients
+
+448
+00:20:36,300 --> 00:20:39,140
+parce qu'on travaille sur des patients, l
+
+449
+00:20:39,140 --> 00:20:41,080
+'étude est faite chez des patients.
+
+450
+00:20:41,600 --> 00:20:45,120
+Donc on commence l'inclusion des patients dans
+
+451
+00:20:45,120 --> 00:20:48,540
+l'essai et après on va bien sûr
+
+452
+00:20:48,540 --> 00:20:52,960
+faire le suivi et on va faire l
+
+453
+00:20:52,960 --> 00:20:54,780
+'étude sur ces volontaires.
+
+454
+00:20:57,680 --> 00:21:00,040
+Les essais cliniques se font selon une méthodologie
+
+455
+00:21:00,040 --> 00:21:03,860
+rigoureuse pour garantir la qualité scientifique des résultats.
+
+456
+00:21:06,660 --> 00:21:11,980
+Parmi les principes de cette méthodologie, on fixe
+
+457
+00:21:11,980 --> 00:21:14,620
+des critères d'inclusion et de non-inclusion.
+
+458
+00:21:14,800 --> 00:21:16,700
+C'est-à-dire quels sont les patients
+
+459
+00:21:16,700 --> 00:21:18,580
+qui ne seront pas inclus dans l'étude
+
+460
+00:21:18,580 --> 00:21:20,400
+et quels sont les patients qui seront inclus
+
+461
+00:21:20,400 --> 00:21:21,180
+dans l'étude.
+
+462
+00:21:21,280 --> 00:21:23,720
+On ne va pas accepter dans l'étude
+
+463
+00:21:23,720 --> 00:21:26,300
+tous les types de patients avec tous les
+
+464
+00:21:26,300 --> 00:21:28,180
+âges, avec toutes les circonstances.
+
+465
+00:21:28,180 --> 00:21:30,320
+Maintenant, on met ce qu'on appelle des
+
+466
+00:21:30,320 --> 00:21:31,400
+critères d'inclusion.
+
+467
+00:21:31,640 --> 00:21:33,720
+Donc on va dire que les patients qui
+
+468
+00:21:33,720 --> 00:21:36,700
+seront inclus seront de tel âge, avec tel
+
+469
+00:21:36,700 --> 00:21:41,040
+degré de la maladie, avec tel sexe, par
+
+470
+00:21:41,040 --> 00:21:43,400
+exemple, avec des critères.
+
+471
+00:21:43,720 --> 00:21:45,460
+On va dire de l'autre côté que
+
+472
+00:21:45,460 --> 00:21:47,480
+les patients qui seront exclus, on ne va
+
+473
+00:21:47,480 --> 00:21:49,100
+pas les inclure dans l'essai.
+
+474
+00:21:49,440 --> 00:21:51,660
+Par exemple les enfants, les sujets qui sont
+
+475
+00:21:51,660 --> 00:21:54,520
+très âgés, les sujets qui ont une insuffisance
+
+476
+00:21:54,520 --> 00:21:55,120
+hépatique.
+
+477
+00:21:55,120 --> 00:22:00,300
+Pour chaque pathologie, on a des critères d
+
+478
+00:22:00,300 --> 00:22:02,420
+'inclusion et des critères de non-inclusion.
+
+479
+00:22:03,280 --> 00:22:06,460
+L'intérêt de cette sélection des patients, c
+
+480
+00:22:06,460 --> 00:22:08,340
+'est d'avoir un groupe homogène de patients.
+
+481
+00:22:08,840 --> 00:22:11,880
+Ce sont des patients qui sont proches concernant
+
+482
+00:22:11,880 --> 00:22:14,860
+l'évolution de la maladie, proches concernant l
+
+483
+00:22:14,860 --> 00:22:18,220
+'âge, proches, par exemple, concernant le bilan biologique.
+
+484
+00:22:18,220 --> 00:22:20,660
+Ils sont proches, donc de ce fait, on
+
+485
+00:22:20,660 --> 00:22:24,360
+peut mettre en évidence rapidement une activité ou
+
+486
+00:22:24,360 --> 00:22:28,600
+une efficacité du traitement, si elle existe.
+
+487
+00:22:31,050 --> 00:22:34,030
+Les critères d'inclusion peuvent concerner le diagnostic.
+
+488
+00:22:34,650 --> 00:22:36,550
+Par exemple, on veut inclure dans l'essai
+
+489
+00:22:36,550 --> 00:22:38,570
+des diabétiques de type 1 et ne pas
+
+490
+00:22:38,570 --> 00:22:40,650
+inclure des diabétiques de type 2.
+
+491
+00:22:41,350 --> 00:22:44,250
+Ils peuvent concerner l'évolutivité de la pathologie.
+
+492
+00:22:44,450 --> 00:22:47,170
+Par exemple, on va choisir un stade d
+
+493
+00:22:47,170 --> 00:22:47,710
+'un cancer.
+
+494
+00:22:49,310 --> 00:22:51,990
+Les caractéristiques des patients, par exemple, choisir le
+
+495
+00:22:51,990 --> 00:22:53,610
+sexe masculin et ne pas faire l'essai
+
+496
+00:22:53,610 --> 00:22:55,390
+sur le sexe féminin, des âges.
+
+497
+00:22:55,910 --> 00:22:57,670
+On peut prendre une tranche d'âge, par
+
+498
+00:22:57,670 --> 00:22:59,170
+exemple, de 20 ans à 60 ans.
+
+499
+00:22:59,870 --> 00:23:02,410
+Et ça peut intéresser aussi des données de
+
+500
+00:23:02,410 --> 00:23:03,550
+faisabilité pratique.
+
+501
+00:23:04,110 --> 00:23:06,670
+On peut choisir, par exemple, dans l'essai
+
+502
+00:23:06,670 --> 00:23:09,750
+seulement les sujets qui sont joignables par téléphone.
+
+503
+00:23:10,390 --> 00:23:11,670
+Ce qui fait qu'ils ont un téléphone.
+
+504
+00:23:13,430 --> 00:23:16,490
+Pour les critères de non-inclusion, ils peuvent
+
+505
+00:23:16,490 --> 00:23:17,830
+concerner aussi l'âge.
+
+506
+00:23:18,670 --> 00:23:21,230
+Par exemple, on va exclure de l'essai
+
+507
+00:23:21,230 --> 00:23:24,190
+les enfants et les sujets âgés, les insuffisants
+
+508
+00:23:24,190 --> 00:23:27,010
+hépatiques, les insuffisants rénaux, les malades qui ont
+
+509
+00:23:27,010 --> 00:23:28,690
+un stade de cancer avancé.
+
+510
+00:23:29,270 --> 00:23:31,430
+Donc, en fonction de l'objectif de notre
+
+511
+00:23:31,430 --> 00:23:33,690
+étude, on va savoir quelle est la population
+
+512
+00:23:33,690 --> 00:23:36,730
+à inclure dans l'étude et la population
+
+513
+00:23:36,730 --> 00:23:40,290
+à exclure de l'étude.
+
+514
+00:23:42,190 --> 00:23:44,670
+Parmi les principes majeurs d'un essai clinique,
+
+515
+00:23:44,890 --> 00:23:47,790
+on cite le tirage au sort, la comparativité
+
+516
+00:23:47,790 --> 00:23:48,430
+et l'insu.
+
+517
+00:23:48,830 --> 00:23:50,730
+On va commencer par le tirage au sort,
+
+518
+00:23:50,850 --> 00:23:52,410
+qu'on appelle aussi randomisation.
+
+519
+00:23:53,170 --> 00:23:55,730
+Le tirage au sort, que ce soit des
+
+520
+00:23:55,730 --> 00:23:57,910
+patients qui seront inclus dans l'un ou
+
+521
+00:23:57,910 --> 00:24:00,630
+l'autre groupe, ou le tirage au sort
+
+522
+00:24:00,630 --> 00:24:03,770
+des traitements qui seront donnés à ce malade
+
+523
+00:24:03,770 --> 00:24:06,510
+ou à l'autre malade, ceci va nous
+
+524
+00:24:06,510 --> 00:24:09,470
+permettre d'avoir deux groupes de personnes ou
+
+525
+00:24:09,470 --> 00:24:12,410
+de malades qui sont comparables.
+
+526
+00:24:12,550 --> 00:24:14,650
+Deux groupes qui sont comparables, on va trouver
+
+527
+00:24:14,650 --> 00:24:16,310
+de tout dans les deux groupes.
+
+528
+00:24:16,770 --> 00:24:18,810
+Les sujets plus âgés et les sujets moins
+
+529
+00:24:18,810 --> 00:24:21,410
+âgés, les sujets bien portants et les sujets
+
+530
+00:24:21,410 --> 00:24:23,910
+moins bien portants, vous allez les trouver dans
+
+531
+00:24:23,910 --> 00:24:25,830
+les deux groupes puisqu'on a utilisé le
+
+532
+00:24:25,830 --> 00:24:26,470
+tirage au sort.
+
+533
+00:24:26,470 --> 00:24:28,410
+Ici, on n'a pas fait une sélection
+
+534
+00:24:28,410 --> 00:24:31,790
+des patients bien portants dans un groupe et
+
+535
+00:24:31,790 --> 00:24:34,250
+moins âgés dans un groupe et les patients
+
+536
+00:24:34,250 --> 00:24:37,510
+moins bien portants dans l'autre groupe et
+
+537
+00:24:37,510 --> 00:24:39,450
+les sujets âgés dans l'autre groupe.
+
+538
+00:24:39,570 --> 00:24:40,970
+Non, on a fait du tirage au sort.
+
+539
+00:24:41,530 --> 00:24:43,490
+Donc, quand on aura des résultats à la
+
+540
+00:24:43,490 --> 00:24:45,550
+fin de l'étude, on va attribuer ces
+
+541
+00:24:45,550 --> 00:24:47,410
+résultats au seul traitement.
+
+542
+00:24:47,970 --> 00:24:51,210
+On ne va pas les attribuer aussi à
+
+543
+00:24:51,210 --> 00:24:53,450
+l'état des patients qui sont inclus initialement
+
+544
+00:24:53,450 --> 00:24:54,850
+dans les groupes d'études.
+
+545
+00:24:54,850 --> 00:24:59,470
+Non, on va attribuer les résultats seulement au
+
+546
+00:24:59,470 --> 00:24:59,830
+traitement.
+
+547
+00:25:00,690 --> 00:25:02,530
+Le tirage au sort se fait avant de
+
+548
+00:25:02,530 --> 00:25:03,710
+commencer l'étude.
+
+549
+00:25:04,030 --> 00:25:05,570
+On tire les patients au sort et on
+
+550
+00:25:05,570 --> 00:25:06,610
+tire les traitements au sort.
+
+551
+00:25:09,560 --> 00:25:11,680
+Les études contrôlées, c'est la base des
+
+552
+00:25:11,680 --> 00:25:13,400
+études sur le médicament.
+
+553
+00:25:14,780 --> 00:25:16,840
+Ce sont des études où on fait une
+
+554
+00:25:16,840 --> 00:25:22,620
+comparaison du groupe qui prend le médicament qu
+
+555
+00:25:22,620 --> 00:25:25,380
+'on veut étudier par rapport à un groupe
+
+556
+00:25:25,380 --> 00:25:27,700
+qu'on appelle groupe contrôle ou groupe témoin.
+
+557
+00:25:28,780 --> 00:25:30,880
+Ce groupe contrôle ou groupe témoin, il prend
+
+558
+00:25:30,880 --> 00:25:37,620
+soit le placebo qui ne contient pas le
+
+559
+00:25:37,620 --> 00:25:41,380
+principe actif ou le produit de référence qui
+
+560
+00:25:41,380 --> 00:25:42,500
+existe sur le marché.
+
+561
+00:25:43,180 --> 00:25:46,100
+Pourquoi on fait cette comparaison ?
+
+562
+00:25:46,100 --> 00:25:51,020
+Pour attribuer le résultat observé au médicament et
+
+563
+00:25:51,020 --> 00:25:52,760
+ne pas l'attribuer au hasard.
+
+564
+00:25:52,760 --> 00:25:58,620
+Par exemple, des personnes qui présentent un rhume
+
+565
+00:25:58,620 --> 00:26:01,740
+et qu'on traite par un traitement quelconque,
+
+566
+00:26:02,980 --> 00:26:05,440
+ces personnes à la fin du traitement, on
+
+567
+00:26:05,440 --> 00:26:08,440
+va dire que leur guérison est due au
+
+568
+00:26:08,440 --> 00:26:12,540
+traitement alors que probablement que leur guérison est
+
+569
+00:26:12,540 --> 00:26:15,380
+due à l'évolution naturelle de la maladie.
+
+570
+00:26:15,920 --> 00:26:18,220
+Puisqu'on n'a pas comparé avec un
+
+571
+00:26:18,220 --> 00:26:21,400
+autre groupe qui prend par exemple un placebo
+
+572
+00:26:21,400 --> 00:26:22,560
+où il n'y a pas de principe
+
+573
+00:26:22,560 --> 00:26:24,560
+actif ou un autre médicament, on ne peut
+
+574
+00:26:24,560 --> 00:26:29,340
+pas dire que cette évolution ou cet effet
+
+575
+00:26:29,340 --> 00:26:32,720
+noté du médicament est dû au médicament lui
+
+576
+00:26:32,720 --> 00:26:34,040
+-même et il n'est pas dû au
+
+577
+00:26:34,040 --> 00:26:34,400
+hasard.
+
+578
+00:26:37,890 --> 00:26:40,070
+La comparaison des traitements peut se faire chez
+
+579
+00:26:40,070 --> 00:26:41,770
+deux groupes de patients qu'on appelle des
+
+580
+00:26:41,770 --> 00:26:42,770
+groupes parallèles.
+
+581
+00:26:43,370 --> 00:26:46,370
+Chaque groupe reçoit un traitement différent et les
+
+582
+00:26:46,370 --> 00:26:49,470
+résultats obtenus dans chacun des groupes seront comparés.
+
+583
+00:26:51,680 --> 00:26:58,820
+Par exemple, ce groupe va prendre le traitement
+
+584
+00:26:58,820 --> 00:27:03,540
+A et ce groupe va prendre le traitement
+
+585
+00:27:03,540 --> 00:27:03,820
+B.
+
+586
+00:27:06,080 --> 00:27:09,760
+Les effets du traitement A chez ce groupe
+
+587
+00:27:09,760 --> 00:27:11,980
+là va être comparé à l'effet du
+
+588
+00:27:11,980 --> 00:27:14,840
+traitement B chez ce deuxième groupe.
+
+589
+00:27:14,980 --> 00:27:16,980
+Il y a deux groupes qui sont distincts,
+
+590
+00:27:17,080 --> 00:27:19,080
+ce sont des groupes qu'on appelle parallèles.
+
+591
+00:27:20,970 --> 00:27:24,150
+Lors des essais croisés ou en crossover, le
+
+592
+00:27:24,150 --> 00:27:25,970
+même patient peut prendre les deux traitements.
+
+593
+00:27:26,110 --> 00:27:28,610
+Il peut prendre le premier traitement puis prendre
+
+594
+00:27:28,610 --> 00:27:29,530
+le deuxième traitement.
+
+595
+00:27:29,930 --> 00:27:31,890
+Par exemple, un patient qui a une infection
+
+596
+00:27:31,890 --> 00:27:36,490
+dermatologique sur différents endroits de l'organisme, il
+
+597
+00:27:36,490 --> 00:27:38,950
+peut mettre une pommade ou une crème dans
+
+598
+00:27:38,950 --> 00:27:43,690
+un endroit et mettre l'autre pommade ou
+
+599
+00:27:43,690 --> 00:27:48,330
+crème dans un autre endroit et comparer l
+
+600
+00:27:48,330 --> 00:27:51,750
+'évolution ou comparer l'effet de ces deux
+
+601
+00:27:51,750 --> 00:27:53,290
+pommades sur les deux endroits.
+
+602
+00:27:56,480 --> 00:28:00,480
+Regardez ici, le même patient peut prendre les
+
+603
+00:28:00,480 --> 00:28:01,080
+deux traitements.
+
+604
+00:28:01,560 --> 00:28:03,520
+Il va par exemple prendre le traitement A.
+
+605
+00:28:04,120 --> 00:28:07,380
+Il va attendre une période jusqu'à ce
+
+606
+00:28:07,380 --> 00:28:10,240
+que le traitement soit éliminé de son organisme,
+
+607
+00:28:10,360 --> 00:28:11,440
+ce qu'on appelle le HACHAT.
+
+608
+00:28:12,220 --> 00:28:14,880
+Et après, il peut prendre le traitement B.
+
+609
+00:28:14,880 --> 00:28:18,040
+Un autre patient peut commencer par le traitement
+
+610
+00:28:18,040 --> 00:28:22,900
+B et attendre la période d'élimination de
+
+611
+00:28:22,900 --> 00:28:25,040
+ce traitement de son organisme puis prendre le
+
+612
+00:28:25,040 --> 00:28:25,600
+traitement A.
+
+613
+00:28:26,400 --> 00:28:29,080
+Et donc, chacun des patients peut prendre les
+
+614
+00:28:29,080 --> 00:28:31,260
+deux traitements l'un après l'autre.
+
+615
+00:28:33,080 --> 00:28:35,180
+On arrive au troisième principe qui est l
+
+616
+00:28:35,180 --> 00:28:35,520
+'aveugle.
+
+617
+00:28:36,080 --> 00:28:38,340
+Il faut savoir qu'un effet thérapeutique d
+
+618
+00:28:38,340 --> 00:28:41,600
+'un médicament ou ses effets indésirables peuvent être
+
+619
+00:28:41,600 --> 00:28:45,120
+dus au principe actif lui-même ou au
+
+620
+00:28:45,120 --> 00:28:47,640
+contexte ou à la composante psychologique.
+
+621
+00:28:48,100 --> 00:28:51,460
+Par exemple, un patient peut prendre un placebo,
+
+622
+00:28:51,600 --> 00:28:53,100
+c'est-à-dire un traitement où il
+
+623
+00:28:53,100 --> 00:28:54,540
+n'y a pas de principe actif et
+
+624
+00:28:54,540 --> 00:28:57,300
+il peut se sentir bien et il peut
+
+625
+00:28:57,300 --> 00:28:58,440
+sentir une amélioration.
+
+626
+00:28:58,560 --> 00:28:59,440
+C'est un effet placebo.
+
+627
+00:29:00,060 --> 00:29:02,340
+Comme il peut ne pas prendre de principe
+
+628
+00:29:02,340 --> 00:29:05,660
+actif et sentir des effets indésirables ou des
+
+629
+00:29:05,660 --> 00:29:08,140
+effets gênants, c'est un effet nocebo qui
+
+630
+00:29:08,140 --> 00:29:10,080
+n'est pas dû au principe actif mais
+
+631
+00:29:10,080 --> 00:29:17,580
+qui est dû à un effet psychologique, par
+
+632
+00:29:17,580 --> 00:29:19,720
+exemple, ou au fait qu'il a pris
+
+633
+00:29:19,720 --> 00:29:22,240
+pour lui un médicament alors qu'il n
+
+634
+00:29:22,240 --> 00:29:23,260
+'était pas un médicament.
+
+635
+00:29:24,500 --> 00:29:29,800
+Pour minimiser cette composante psychologique ou l'influence
+
+636
+00:29:29,800 --> 00:29:33,220
+du contexte sur la réponse au médicament, on
+
+637
+00:29:33,220 --> 00:29:35,700
+fait des études en aveugle ou ce qu
+
+638
+00:29:35,700 --> 00:29:36,880
+'on appelle en insu.
+
+639
+00:29:39,310 --> 00:29:41,710
+Quand le patient ne connaît pas son traitement,
+
+640
+00:29:41,850 --> 00:29:43,310
+on parle de symptômes aveugles.
+
+641
+00:29:43,430 --> 00:29:46,690
+Dans ce cas, le patient reçoit un médicament
+
+642
+00:29:46,690 --> 00:29:48,050
+mais il ne sait pas est-ce que
+
+643
+00:29:48,050 --> 00:29:49,910
+c'est le placebo ou le traitement de
+
+644
+00:29:49,910 --> 00:29:54,470
+référence ou est-ce que c'est le
+
+645
+00:29:54,470 --> 00:29:55,450
+traitement de l'étude.
+
+646
+00:29:55,450 --> 00:29:59,830
+Comme ça, il va exprimer les symptômes d
+
+647
+00:29:59,830 --> 00:30:04,070
+'une façon neutre, sans exagération, parce qu'il
+
+648
+00:30:04,070 --> 00:30:07,310
+ne connaît pas quel traitement il prend.
+
+649
+00:30:07,950 --> 00:30:10,170
+Si ni le médecin ni le patient ne
+
+650
+00:30:10,170 --> 00:30:12,370
+connaissent les traitements attribués, on parle de double
+
+651
+00:30:12,370 --> 00:30:13,490
+aveugle.
+
+652
+00:30:14,090 --> 00:30:17,270
+Dans certains essais, le médecin aussi ne connaît
+
+653
+00:30:17,270 --> 00:30:19,910
+pas les traitements qu'il attribue au patient.
+
+654
+00:30:19,910 --> 00:30:22,910
+Dans ce cas-là, son évaluation sera objective
+
+655
+00:30:22,910 --> 00:30:25,890
+parce qu'il ne connaît pas les traitements.
+
+656
+00:30:28,530 --> 00:30:30,850
+Le critère de jugement dans un essai clinique,
+
+657
+00:30:30,990 --> 00:30:33,570
+c'est le critère sur lequel est jugée
+
+658
+00:30:33,570 --> 00:30:35,530
+l'efficacité du traitement.
+
+659
+00:30:35,950 --> 00:30:38,590
+Un critère avec lequel on va évaluer l
+
+660
+00:30:38,590 --> 00:30:39,430
+'effet d'un traitement.
+
+661
+00:30:39,970 --> 00:30:43,790
+Par exemple, la mesure de la glycémie, un
+
+662
+00:30:43,790 --> 00:30:47,150
+médicament qui diminue les chiffres glycémiques ou un
+
+663
+00:30:47,150 --> 00:30:51,030
+médicament qui diminue les chiffres tensionnels.
+
+664
+00:30:51,530 --> 00:30:56,090
+On peut mettre la mesure, le chiffre de
+
+665
+00:30:56,090 --> 00:30:57,970
+la glycémie ou le chiffre de la tension
+
+666
+00:30:57,970 --> 00:31:01,190
+artérielle comme critère de jugement pour juger l
+
+667
+00:31:01,190 --> 00:31:02,470
+'efficacité de ce traitement.
+
+668
+00:31:02,870 --> 00:31:05,110
+On peut avoir un ou plusieurs critères de
+
+669
+00:31:05,110 --> 00:31:08,890
+jugement qu'on appelle critères principaux et critères
+
+670
+00:31:08,890 --> 00:31:09,610
+secondaires.
+
+671
+00:31:12,960 --> 00:31:14,800
+Cochez là où les réponses sont justes.
+
+672
+00:31:14,960 --> 00:31:18,360
+Les essais cliniques contrôlés, randomisés et en aveugle
+
+673
+00:31:18,360 --> 00:31:19,920
+sont les meilleurs des essais cliniques.
+
+674
+00:31:23,270 --> 00:31:24,070
+Oui, c'est vrai.
+
+675
+00:31:25,030 --> 00:31:27,370
+La randomisation est le fait que le malade
+
+676
+00:31:27,370 --> 00:31:29,510
+ne connaît pas le traitement qu'il prend.
+
+677
+00:31:34,850 --> 00:31:35,170
+Faux.
+
+678
+00:31:36,070 --> 00:31:38,910
+La randomisation, c'est le tirage au sort
+
+679
+00:31:38,910 --> 00:31:41,090
+des patients ou des traitements.
+
+680
+00:31:42,770 --> 00:31:44,910
+Quand le malade ne connaît pas ce qu
+
+681
+00:31:44,910 --> 00:31:47,490
+'il prend, c'est l'aveugle.
+
+682
+00:31:47,490 --> 00:31:48,810
+Ce n'est pas la randomisation.
+
+683
+00:31:50,170 --> 00:31:52,410
+La comparaison du médicament se fait toujours avec
+
+684
+00:31:52,410 --> 00:31:53,070
+un placebo.
+
+685
+00:31:57,100 --> 00:31:57,280
+Faux.
+
+686
+00:31:58,260 --> 00:32:00,900
+La comparaison du médicament se fait avec un
+
+687
+00:32:00,900 --> 00:32:04,360
+placebo ou avec le médicament de référence qui
+
+688
+00:32:04,360 --> 00:32:05,340
+existe sur le marché.
+
+689
+00:32:07,180 --> 00:32:09,020
+Dans les essais en groupe parallèle, le même
+
+690
+00:32:09,020 --> 00:32:10,960
+patient prend tous les traitements de l'étude.
+
+691
+00:32:14,760 --> 00:32:15,040
+Faux.
+
+692
+00:32:15,800 --> 00:32:19,540
+Dans les essais en groupe parallèle, les patients
+
+693
+00:32:19,540 --> 00:32:23,860
+du premier groupe prennent un traitement et les
+
+694
+00:32:23,860 --> 00:32:26,620
+patients du deuxième groupe prennent l'autre traitement.
+
+695
+00:32:27,480 --> 00:32:30,140
+Dans les essais croisés, le même patient prend
+
+696
+00:32:30,140 --> 00:32:31,420
+tous les traitements de l'étude.
+
+697
+00:32:34,180 --> 00:32:34,520
+Vrai.
+
+698
+00:32:40,960 --> 00:32:43,080
+Il y a des textes qui définissent les
+
+699
+00:32:43,080 --> 00:32:44,700
+règles en matière d'essais cliniques.
+
+700
+00:32:45,740 --> 00:32:48,940
+Ces textes ont pour vocation d'empêcher les
+
+701
+00:32:48,940 --> 00:32:50,400
+dérives lors de ces essais.
+
+702
+00:32:50,400 --> 00:32:52,820
+On va citer deux textes, le Code de
+
+703
+00:32:52,820 --> 00:32:55,020
+Nuremberg et la Déclaration d'Helsinki.
+
+704
+00:32:55,920 --> 00:33:00,120
+Le Code de Nuremberg a été rédigé après
+
+705
+00:33:00,120 --> 00:33:04,800
+le procès de Nuremberg en 1947 qui a
+
+706
+00:33:04,800 --> 00:33:09,000
+concerné des médecins et des administrateurs qui ont
+
+707
+00:33:09,000 --> 00:33:12,680
+fait des essais jugés inéthiques chez des détenus
+
+708
+00:33:12,680 --> 00:33:15,200
+dans des camps de concentration lors de la
+
+709
+00:33:15,200 --> 00:33:16,240
+Deuxième Guerre mondiale.
+
+710
+00:33:17,240 --> 00:33:19,880
+Ce Code de Nuremberg est destiné à contrôler
+
+711
+00:33:19,880 --> 00:33:23,280
+les essais thérapeutiques réalisés sur les êtres humains
+
+712
+00:33:23,280 --> 00:33:25,980
+et fixer les conditions à remplir lors de
+
+713
+00:33:25,980 --> 00:33:28,640
+l'expérimentation sur l'être humain.
+
+714
+00:33:29,380 --> 00:33:32,660
+En premier, c'est que le patient ou
+
+715
+00:33:32,660 --> 00:33:35,180
+le volontaire qui va participer à l'essai
+
+716
+00:33:35,180 --> 00:33:39,440
+doit donner son consentement pour participer à cet
+
+717
+00:33:39,440 --> 00:33:42,840
+essai et plusieurs autres principes.
+
+718
+00:33:42,840 --> 00:33:46,080
+Il y a eu la Déclaration d'Helsinki
+
+719
+00:33:46,080 --> 00:33:49,180
+qui a été élaborée par l'Association médicale
+
+720
+00:33:49,180 --> 00:33:53,560
+mondiale en 1964 et qui a aussi parlé
+
+721
+00:33:53,560 --> 00:33:56,980
+des principes éthiques applicables à la recherche médicale
+
+722
+00:33:56,980 --> 00:33:58,560
+impliquant les êtres humains.
+
+723
+00:34:00,780 --> 00:34:04,000
+De cette déclaration émanent toutes les législations ou
+
+724
+00:34:04,000 --> 00:34:06,480
+recommandations concernant les essais cliniques.
+
+725
+00:34:07,989 --> 00:34:10,770
+Ces textes qui parlent de l'éthique dans
+
+726
+00:34:10,770 --> 00:34:12,870
+les essais cliniques n'ont pas été forcément
+
+727
+00:34:12,870 --> 00:34:17,090
+respectés donc il fallait un cadre législatif pour
+
+728
+00:34:17,090 --> 00:34:22,810
+pouvoir respecter les principes d'éthique dans la
+
+729
+00:34:22,810 --> 00:34:23,670
+recherche clinique.
+
+730
+00:34:24,290 --> 00:34:27,230
+Ces lois ont parlé des mêmes principes que
+
+731
+00:34:27,230 --> 00:34:28,489
+dans les textes éthiques.
+
+732
+00:34:29,389 --> 00:34:32,110
+Ils ont insisté sur la protection des personnes
+
+733
+00:34:32,110 --> 00:34:34,350
+qui se prêtent à la recherche médicale.
+
+734
+00:34:34,350 --> 00:34:37,270
+Le premier principe c'est d'informer le
+
+735
+00:34:37,270 --> 00:34:41,770
+volontaire de l'essai et avoir son consentement.
+
+736
+00:34:42,889 --> 00:34:45,429
+Informer du but de l'essai, de la
+
+737
+00:34:45,429 --> 00:34:47,650
+durée de l'essai, de toutes les conditions
+
+738
+00:34:47,650 --> 00:34:51,870
+de l'essai et des risques encourus lors
+
+739
+00:34:51,870 --> 00:34:54,270
+de cet essai, les modalités de recueil du
+
+740
+00:34:54,270 --> 00:34:54,909
+consentement.
+
+741
+00:34:54,909 --> 00:34:58,710
+Le patient doit donner son consentement d'une
+
+742
+00:34:58,710 --> 00:35:00,370
+façon qui est volontaire.
+
+743
+00:35:00,970 --> 00:35:02,610
+Il a le droit de se retirer à
+
+744
+00:35:02,610 --> 00:35:03,730
+tout moment de l'étude.
+
+745
+00:35:05,110 --> 00:35:08,150
+Lors des études il faut surveiller les effets
+
+746
+00:35:08,150 --> 00:35:11,230
+indésirables par la pharmacovigilance et les volontaires doivent
+
+747
+00:35:11,230 --> 00:35:12,090
+être assurés.
+
+748
+00:35:12,090 --> 00:35:18,350
+Puis les lois définissent aussi les acteurs de
+
+749
+00:35:18,350 --> 00:35:22,190
+la recherche, leur niveau scientifique et leur responsabilité
+
+750
+00:35:22,190 --> 00:35:23,370
+lors de l'étude.
+
+751
+00:35:24,350 --> 00:35:28,510
+Et aussi ils insistent sur le fait que
+
+752
+00:35:28,510 --> 00:35:32,470
+la recherche clinique doit avoir un but thérapeutique
+
+753
+00:35:32,470 --> 00:35:36,210
+et doit sortir avec des résultats scientifiques utilisables.

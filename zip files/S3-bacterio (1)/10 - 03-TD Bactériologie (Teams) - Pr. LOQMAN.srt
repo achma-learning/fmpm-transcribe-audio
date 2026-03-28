@@ -1,0 +1,2875 @@
+1
+00:00:00,680 --> 00:00:01,300
+J'ai l'honneur de vous écouter et
+
+2
+00:00:01,300 --> 00:00:02,520
+de vous voir par la suite.
+
+3
+00:00:03,560 --> 00:00:06,020
+Aujourd'hui, j'ai l'honneur et l
+
+4
+00:00:06,020 --> 00:00:08,500
+'immense plaisir de vous présenter les travaux dirigés
+
+5
+00:00:08,500 --> 00:00:10,540
+de deuxième année de bactériologie.
+
+6
+00:00:11,240 --> 00:00:15,379
+Nous avons deux séances réduites.
+
+7
+00:00:15,920 --> 00:00:18,260
+Une première qui consiste à la phase pré
+
+8
+00:00:18,260 --> 00:00:21,060
+-analytique en bactériologie et vous allez comprendre pourquoi,
+
+9
+00:00:21,600 --> 00:00:25,360
+parce que déjà vous avez vu l'ensemble
+
+10
+00:00:25,360 --> 00:00:29,740
+des pathologies en relation à tout ce qui
+
+11
+00:00:29,740 --> 00:00:31,240
+est micro-organismes, bactéries.
+
+12
+00:00:32,040 --> 00:00:33,740
+Vous avez vu aussi au niveau des travaux
+
+13
+00:00:33,740 --> 00:00:36,920
+pratiques comment on va procéder à la réalisation
+
+14
+00:00:36,920 --> 00:00:39,200
+des analyses dans un laboratoire de bactériologie.
+
+15
+00:00:39,920 --> 00:00:42,160
+Il reste la phase pré-analytique qu'on
+
+16
+00:00:42,160 --> 00:00:43,380
+va voir tout de suite.
+
+17
+00:00:43,700 --> 00:00:45,980
+Si vous avez des questions, n'hésitez pas.
+
+18
+00:00:46,140 --> 00:00:48,040
+J'ai déjà déposé le cours sonorisé sur
+
+19
+00:00:48,040 --> 00:00:48,980
+la plateforme Théria.
+
+20
+00:00:49,820 --> 00:00:52,080
+Si quelque chose n'est pas clair, vous
+
+21
+00:00:52,080 --> 00:00:53,140
+pouvez m'arrêter à ce moment.
+
+22
+00:00:53,420 --> 00:00:54,500
+C'est bon ?
+
+23
+00:01:07,470 --> 00:01:10,470
+Donc les objectifs pédagogiques de cette séance sont
+
+24
+00:01:10,470 --> 00:01:12,950
+d'abord, on va traiter les différentes étapes
+
+25
+00:01:12,950 --> 00:01:14,350
+de cette phase pré-analytique en bactériologie.
+
+26
+00:01:16,690 --> 00:01:18,770
+Vous ne voyez pas la diapo ?
+
+27
+00:01:31,840 --> 00:01:40,210
+Vous voyez maintenant ?
+
+28
+00:01:40,210 --> 00:01:40,670
+Parfait.
+
+29
+00:01:41,510 --> 00:01:43,990
+J'ai dit que les objectifs pédagogiques de
+
+30
+00:01:43,990 --> 00:01:47,450
+cette séance vont surtout se focaliser sur cette
+
+31
+00:01:47,450 --> 00:01:48,290
+phase pré-analytique.
+
+32
+00:01:48,290 --> 00:01:50,090
+On va traiter les différentes étapes de cette
+
+33
+00:01:50,090 --> 00:01:50,370
+phase.
+
+34
+00:01:50,890 --> 00:01:54,630
+On va connaître les informations qui doivent comporter
+
+35
+00:01:54,630 --> 00:01:57,350
+la prescription médicale d'une analyse bactériologique.
+
+36
+00:01:57,810 --> 00:02:00,230
+On va connaître les conditions nécessaires à respecter
+
+37
+00:02:00,230 --> 00:02:02,410
+pour l'exécution d'un prélèvement bactériologique.
+
+38
+00:02:02,590 --> 00:02:04,690
+Et enfin, on va voir les éléments qui
+
+39
+00:02:04,690 --> 00:02:09,389
+peuvent fausser un résultat bactériologique.
+
+40
+00:02:10,690 --> 00:02:13,970
+L'objectif principal des analyses en bactériologie, c
+
+41
+00:02:13,970 --> 00:02:16,350
+'est d'abord isoler et identifier les micro
+
+42
+00:02:16,350 --> 00:02:19,510
+-organismes pathogènes et bien sûr de mesurer leur
+
+43
+00:02:19,510 --> 00:02:21,050
+sensibilité aux antibiotiques.
+
+44
+00:02:21,230 --> 00:02:23,350
+Parce que derrière, il y a une antibiotérapie
+
+45
+00:02:23,350 --> 00:02:25,930
+qui va être démarrée et à la base
+
+46
+00:02:25,930 --> 00:02:28,670
+de ces résultats, on va pouvoir choisir l
+
+47
+00:02:28,670 --> 00:02:33,330
+'antibiotique ou l'antibiotérapie adéquate à démarrer.
+
+48
+00:02:33,610 --> 00:02:35,350
+Donc le GBA ou le guide de bonne
+
+49
+00:02:35,350 --> 00:02:37,290
+exécution des analyses, c'est un guide qui
+
+50
+00:02:37,290 --> 00:02:39,770
+va détailler la façon et la manière de
+
+51
+00:02:39,770 --> 00:02:43,070
+procéder au prélèvement et toute analyse de laboratoire.
+
+52
+00:02:43,070 --> 00:02:45,750
+Donc il a défini ces analyses comme un
+
+53
+00:02:45,750 --> 00:02:50,330
+ensemble d'étapes successives allant du prélèvement de
+
+54
+00:02:50,330 --> 00:02:52,630
+l'échantillon biologique jusqu'à la remise des
+
+55
+00:02:52,630 --> 00:02:53,070
+résultats.
+
+56
+00:02:53,610 --> 00:02:55,590
+Donc la qualité de ces résultats, il va
+
+57
+00:02:55,590 --> 00:02:57,630
+dépendre étroitement des trois phases.
+
+58
+00:02:57,810 --> 00:03:00,290
+La phase préanalytique qu'on va voir au
+
+59
+00:03:00,290 --> 00:03:01,230
+cours de cette séance.
+
+60
+00:03:01,990 --> 00:03:07,970
+La phase analytique et la phase post-analytique
+
+61
+00:03:07,970 --> 00:03:11,210
+qui concerne l'interprétation des résultats.
+
+62
+00:03:11,210 --> 00:03:15,670
+Donc la figure suivante illustre le cheminement de
+
+63
+00:03:15,670 --> 00:03:19,730
+l'analyse depuis la source, le patient jusqu
+
+64
+00:03:19,730 --> 00:03:21,330
+'à l'interprétation des résultats.
+
+65
+00:03:21,750 --> 00:03:23,570
+Vous voyez que cette phase préanalytique c'est
+
+66
+00:03:23,570 --> 00:03:27,090
+une phase critique et elle comporte plusieurs étapes
+
+67
+00:03:27,090 --> 00:03:30,770
+dont la chronologie est vraiment très importante à
+
+68
+00:03:30,770 --> 00:03:33,070
+respecter et doit être sans faille et de
+
+69
+00:03:33,070 --> 00:03:33,730
+bonne qualité.
+
+70
+00:03:34,370 --> 00:03:37,890
+Donc afin de réceptionner au laboratoire un prélèvement
+
+71
+00:03:37,890 --> 00:03:41,910
+de qualité à analyser et bien sûr qui
+
+72
+00:03:41,910 --> 00:03:44,950
+va servir par la suite à donner un
+
+73
+00:03:44,950 --> 00:03:48,690
+rapport de résultats aux cliniciens afin de procéder
+
+74
+00:03:48,690 --> 00:03:49,190
+au traitement.
+
+75
+00:03:49,710 --> 00:03:50,970
+C'est bon ?
+
+76
+00:03:54,140 --> 00:03:57,200
+La figure 2 montre les différentes étapes de
+
+77
+00:03:57,200 --> 00:03:58,420
+cette phase préanalytique.
+
+78
+00:03:59,140 --> 00:04:01,080
+D'abord la première étape consiste à la
+
+79
+00:04:01,080 --> 00:04:05,240
+prescription médicale puis toutes les modalités de prélèvement
+
+80
+00:04:05,240 --> 00:04:07,120
+et comment on va procéder à le prélèvement.
+
+81
+00:04:07,580 --> 00:04:09,740
+Bien sûr le transport de l'échantillon et
+
+82
+00:04:09,740 --> 00:04:13,320
+sa conservation jusqu'au laboratoire et une fois
+
+83
+00:04:13,320 --> 00:04:15,940
+arrivé au laboratoire quelles sont les modalités pour
+
+84
+00:04:15,940 --> 00:04:19,480
+saisir ce prélèvement et commencer à l'analyser
+
+85
+00:04:19,480 --> 00:04:20,680
+et à le traiter.
+
+86
+00:04:21,040 --> 00:04:23,960
+Donc on va voir ces étapes une par
+
+87
+00:04:23,960 --> 00:04:25,040
+une en détail.
+
+88
+00:04:27,280 --> 00:04:32,320
+Donc la prescription médicale c'est un moyen
+
+89
+00:04:32,320 --> 00:04:34,920
+qui va consister au dialogue entre le biologiste
+
+90
+00:04:34,920 --> 00:04:35,640
+et le clinicien.
+
+91
+00:04:36,780 --> 00:04:41,560
+Il doit être vraiment écrite dans une ordonnance.
+
+92
+00:04:42,720 --> 00:04:48,020
+A travers cette ordonnance on va pouvoir définir
+
+93
+00:04:48,020 --> 00:04:52,060
+clairement le nom du prescripteur le destinataire auquel
+
+94
+00:04:52,060 --> 00:04:54,460
+on va rendre les résultats et il faut
+
+95
+00:04:54,460 --> 00:04:58,020
+vraiment veiller à vérifier cet élément là.
+
+96
+00:04:58,560 --> 00:05:02,260
+Puis l'identification univoque du patient et par
+
+97
+00:05:02,260 --> 00:05:04,680
+la suite le type de spécimen anatomique d
+
+98
+00:05:04,680 --> 00:05:07,500
+'origine, la nature des analyses à prescrite et
+
+99
+00:05:07,500 --> 00:05:09,500
+s'il y a vraiment un besoin spécifique
+
+100
+00:05:09,500 --> 00:05:18,100
+de recherche de bactéries particulières le clinicien doit
+
+101
+00:05:18,100 --> 00:05:22,900
+saisir ces notions là dans la prescription médicale
+
+102
+00:05:22,900 --> 00:05:25,300
+afin que le biologiste fasse attention.
+
+103
+00:05:25,780 --> 00:05:28,340
+Et bien sûr tous les renseignements cliniques relatifs
+
+104
+00:05:28,340 --> 00:05:29,180
+au patient.
+
+105
+00:05:29,640 --> 00:05:32,300
+L'âge, la date de naissance, s'il
+
+106
+00:05:32,300 --> 00:05:34,480
+a passé un six jours dans un pays
+
+107
+00:05:34,480 --> 00:05:37,300
+endémique ou il peut être colonisé au porteur
+
+108
+00:05:37,300 --> 00:05:42,680
+d'une bactérie résistante ou facilement transmissible et
+
+109
+00:05:42,680 --> 00:05:44,120
+bien sûr la date et l'heure de
+
+110
+00:05:44,120 --> 00:05:46,240
+prélèvement afin de voir est-ce que vraiment
+
+111
+00:05:46,240 --> 00:05:48,160
+ça rentre dans les normes ou c'est
+
+112
+00:05:48,160 --> 00:05:51,760
+un échantillon à rejeter.
+
+113
+00:05:51,980 --> 00:05:52,180
+Voilà.
+
+114
+00:05:52,780 --> 00:05:58,000
+Donc le tableau suivant détaille vraiment ces renseignements
+
+115
+00:05:58,000 --> 00:06:00,260
+et le rôle et l'intérêt de chaque
+
+116
+00:06:00,260 --> 00:06:01,540
+renseignement demandé.
+
+117
+00:06:01,540 --> 00:06:02,920
+C'est bon?
+
+118
+00:06:04,420 --> 00:06:07,600
+Donc les différents types de prélèvements, on a
+
+119
+00:06:07,600 --> 00:06:10,180
+deux types de prélèvements, des prélèvements à visite
+
+120
+00:06:10,180 --> 00:06:13,400
+diagnostique et des prélèvements à visite épidémiologique.
+
+121
+00:06:14,260 --> 00:06:18,460
+Donc on dit pour deux prélèvements d'origine
+
+122
+00:06:18,460 --> 00:06:22,080
+ou à visite diagnostique, on cherche vraiment tout
+
+123
+00:06:22,080 --> 00:06:24,540
+ce qui est diagnostic d'une infection, le
+
+124
+00:06:24,540 --> 00:06:28,180
+diagnostic d'un syndrome infectieux et bien sûr
+
+125
+00:06:28,180 --> 00:06:30,320
+si on est le choix ou le suivi
+
+126
+00:06:30,320 --> 00:06:32,560
+d'un traitement anti-infectieux, c'est le
+
+127
+00:06:32,560 --> 00:06:33,060
+cas normal.
+
+128
+00:06:33,720 --> 00:06:36,900
+Donc les prélèvements à visite épidémiologique, c'est
+
+129
+00:06:36,900 --> 00:06:39,620
+des prélèvements qui visent l'épidémiologie d'un
+
+130
+00:06:39,620 --> 00:06:40,620
+patient ou d'un service.
+
+131
+00:06:41,280 --> 00:06:43,620
+Exactement je donne l'exemple de la recherche
+
+132
+00:06:43,620 --> 00:06:47,740
+des bactéries multirésistantes dans le cas où on
+
+133
+00:06:47,740 --> 00:06:50,340
+insiste à une infection nosocomiale ou un problème
+
+134
+00:06:50,340 --> 00:06:53,580
+de dissémination ou de contamination de tous les
+
+135
+00:06:53,580 --> 00:06:55,140
+patients et c'est des prélèvements qui peuvent
+
+136
+00:06:55,140 --> 00:06:57,720
+concerner aussi bien l'environnement du patient.
+
+137
+00:06:59,120 --> 00:07:01,960
+Donc l'exemple, la photo montre un exemple
+
+138
+00:07:01,960 --> 00:07:04,260
+des prélèvements à visite épidémiologique.
+
+139
+00:07:05,220 --> 00:07:08,660
+L'objectif du prélèvement, d'abord il doit
+
+140
+00:07:08,660 --> 00:07:12,100
+respecter le processus infectieux ou pathologique de la
+
+141
+00:07:12,100 --> 00:07:12,700
+zone prélevée.
+
+142
+00:07:13,220 --> 00:07:15,660
+Je ne vais pas recevoir un bon ou
+
+143
+00:07:15,660 --> 00:07:18,260
+une demande d'analyse de SEB, je reçois
+
+144
+00:07:18,260 --> 00:07:20,640
+par exemple des coprocultures, donc ce n'est
+
+145
+00:07:20,640 --> 00:07:21,200
+pas logique.
+
+146
+00:07:21,720 --> 00:07:24,660
+Donc je dois vraiment que l'échantillon, il
+
+147
+00:07:24,660 --> 00:07:28,640
+représente le processus infectieux et le prélèvement adéquat.
+
+148
+00:07:29,140 --> 00:07:32,000
+Donc il doit conserver la viabilité des bactéries
+
+149
+00:07:32,000 --> 00:07:35,180
+pour tout échantillon destiné à la culture et
+
+150
+00:07:35,180 --> 00:07:39,000
+l'antigénicité pour les examens microscopiques par immunofluorescence.
+
+151
+00:07:39,540 --> 00:07:43,080
+Bien évidemment, si on recherche des molécules telles
+
+152
+00:07:43,080 --> 00:07:45,700
+que les ADN et les ARN, ce type
+
+153
+00:07:45,700 --> 00:07:49,560
+de prélèvement, on doit veiller à que ces
+
+154
+00:07:49,560 --> 00:07:51,020
+molécules soient non dégradées.
+
+155
+00:07:52,980 --> 00:07:55,600
+Voilà, le temps du prélèvement.
+
+156
+00:07:55,760 --> 00:07:58,040
+Le prélèvement doit être effectué au début du
+
+157
+00:07:58,040 --> 00:08:03,540
+processus infectieux, avant en général toute administration d
+
+158
+00:08:03,540 --> 00:08:06,520
+'agents antimicrobiens, parce que si on commence un
+
+159
+00:08:06,520 --> 00:08:09,660
+traitement, l'antibiotique, il va influencer sur la
+
+160
+00:08:09,660 --> 00:08:12,140
+charge bactérienne qu'on va trouver dans le
+
+161
+00:08:12,140 --> 00:08:14,040
+prélèvement et à ce moment-là, on ne
+
+162
+00:08:14,040 --> 00:08:17,620
+va pas vraiment évaluer comme il faut ce
+
+163
+00:08:17,620 --> 00:08:18,040
+prélèvement.
+
+164
+00:08:18,620 --> 00:08:22,480
+Les répétitions des prélèvements, ils sont nécessaires surtout
+
+165
+00:08:22,480 --> 00:08:24,580
+lorsqu'on assiste à des charges microbiennes faibles
+
+166
+00:08:24,580 --> 00:08:26,800
+ou variables dans le temps.
+
+167
+00:08:27,680 --> 00:08:31,120
+Surtout ce problème dans le cas de recherche
+
+168
+00:08:31,120 --> 00:08:33,640
+des mycobactéries et dans le cas des septicymes.
+
+169
+00:08:34,679 --> 00:08:38,340
+Le site de prélèvement, le foyer initial, c
+
+170
+00:08:38,340 --> 00:08:41,059
+'est toujours vraiment souhaité.
+
+171
+00:08:41,520 --> 00:08:44,780
+Et après, toutes les localisations secondaires, sinon si
+
+172
+00:08:44,780 --> 00:08:46,800
+on cherche le prélèvement via les portes d
+
+173
+00:08:46,800 --> 00:08:49,360
+'entrée, les voies d'excretion ou l'évacuation
+
+174
+00:08:49,360 --> 00:08:51,360
+de l'infection telle que les fessules et
+
+175
+00:08:51,360 --> 00:08:51,940
+le drainage.
+
+176
+00:08:53,100 --> 00:08:56,420
+Le matériel de prélèvement, il doit être stérile
+
+177
+00:08:56,420 --> 00:08:58,580
+à usage unique, étanche et non périmé.
+
+178
+00:09:02,290 --> 00:09:05,050
+Les méthodes de prélèvement, on a des prélèvements
+
+179
+00:09:05,050 --> 00:09:07,990
+invasifs tout dépend du type de prélèvement, via
+
+180
+00:09:07,990 --> 00:09:11,170
+l'éponction, les aspirations et on a des
+
+181
+00:09:11,170 --> 00:09:16,070
+prélèvements qui sont très utilisés par équivionnage, surtout
+
+182
+00:09:16,070 --> 00:09:18,930
+au niveau des plaies et des muqueuses Cependant,
+
+183
+00:09:19,290 --> 00:09:21,830
+si on récolte un faible volume d'échantillons
+
+184
+00:09:21,830 --> 00:09:24,490
+et on doit veiller vraiment à préserver la
+
+185
+00:09:24,490 --> 00:09:27,990
+qualité la viabilité des micro-organismes au niveau
+
+186
+00:09:27,990 --> 00:09:30,730
+de ces échantillons ou de prélever des échantillons
+
+187
+00:09:30,730 --> 00:09:31,230
+en double.
+
+188
+00:09:32,190 --> 00:09:35,970
+Si on vise la recherche des bactéries anaerobiques
+
+189
+00:09:35,970 --> 00:09:40,770
+strictes, on doit vraiment rapidement conditionner le prélèvement
+
+190
+00:09:41,410 --> 00:09:45,530
+vers le laboratoire en évitant tout contact avec
+
+191
+00:09:45,530 --> 00:09:45,750
+l'air.
+
+192
+00:09:46,910 --> 00:09:51,310
+Voilà, donc au niveau de quelques prélèvements, vous
+
+193
+00:09:51,310 --> 00:09:53,070
+allez voir que le corps humain, c'est
+
+194
+00:09:53,070 --> 00:09:56,410
+un réservoir de micro-organismes commensaux, donc on
+
+195
+00:09:56,410 --> 00:09:59,710
+doit éviter la contamination par la flore commensale.
+
+196
+00:10:00,090 --> 00:10:04,270
+Pour protéger le prélèvement, on va utiliser des
+
+197
+00:10:04,270 --> 00:10:07,070
+solutions d'abord un rinçage ou des solutions
+
+198
+00:10:07,070 --> 00:10:11,990
+antiseptiques afin d'éviter cette contamination par la
+
+199
+00:10:11,990 --> 00:10:12,690
+flore commensale.
+
+200
+00:10:13,190 --> 00:10:15,410
+Dans le cas où l'on utilise des
+
+201
+00:10:15,410 --> 00:10:16,590
+produits anti-inflammatoires ou des produits antiseptiques, on
+
+202
+00:10:16,590 --> 00:10:19,010
+doit veiller à rincer par un sirope physiologique
+
+203
+00:10:19,010 --> 00:10:22,110
+pour ne pas inhiber la croissance des bactéries
+
+204
+00:10:22,110 --> 00:10:24,110
+pathogènes au niveau de prélèvement.
+
+205
+00:10:24,890 --> 00:10:27,450
+Et bien sûr, on va utiliser des conditions
+
+206
+00:10:27,450 --> 00:10:31,530
+de culture qui peuvent vraiment influencer ou inhiber
+
+207
+00:10:31,530 --> 00:10:34,630
+cette flore commensale et favoriser seulement la croissance
+
+208
+00:10:34,630 --> 00:10:36,330
+des bactéries demandées.
+
+209
+00:10:37,110 --> 00:10:40,310
+Donc quelques exemples de prélèvements, un prélèvement urinaire
+
+210
+00:10:40,310 --> 00:10:41,730
+chez la femme et chez l'homme via
+
+211
+00:10:41,730 --> 00:10:44,810
+la technique de sondage, la procédure de prélèvement
+
+212
+00:10:44,810 --> 00:10:50,030
+directe des flacons d'hémoculture, les pulls, les
+
+213
+00:10:50,030 --> 00:10:50,550
+ponctions.
+
+214
+00:10:52,070 --> 00:10:54,990
+Donc vous voyez que chaque prélèvement a des
+
+215
+00:10:55,710 --> 00:10:57,410
+circonstances vraiment spécifiques.
+
+216
+00:10:57,790 --> 00:10:59,630
+On doit veiller à les respecter à la
+
+217
+00:10:59,630 --> 00:11:00,830
+lettre.
+
+218
+00:11:01,470 --> 00:11:03,530
+Donc les bactéries ne résistent pas à la
+
+219
+00:11:03,530 --> 00:11:04,750
+desiccation et au froid.
+
+220
+00:11:05,490 --> 00:11:09,750
+On doit les acheminer vraiment rapidement au laboratoire.
+
+221
+00:11:10,110 --> 00:11:12,410
+Dans le cas des biopsies et des petits
+
+222
+00:11:12,410 --> 00:11:14,770
+échantillons au bout de 15 à 30 minutes,
+
+223
+00:11:15,210 --> 00:11:17,510
+les autres ont moins de deux heures et
+
+224
+00:11:17,510 --> 00:11:20,450
+on utilise des milieux de transport afin de
+
+225
+00:11:20,450 --> 00:11:24,410
+garder la viabilité des bactéries à rechercher.
+
+226
+00:11:25,050 --> 00:11:27,710
+Le délai maximal entre le prélèvement et l
+
+227
+00:11:27,710 --> 00:11:30,770
+'analyse d'un échantillon conservé en atmosphère réfrigérée
+
+228
+00:11:30,770 --> 00:11:31,890
+est de 24 heures.
+
+229
+00:11:33,190 --> 00:11:37,090
+La sécurité pendant le transfert est très exigée.
+
+230
+00:11:37,710 --> 00:11:41,550
+Deux produits pathologiques doivent être considérés comme potentiellement
+
+231
+00:11:41,550 --> 00:11:42,950
+infectieux, donc dangereux.
+
+232
+00:11:43,030 --> 00:11:44,890
+Il faut faire attention de ne pas se
+
+233
+00:11:44,890 --> 00:11:49,030
+contaminer et contaminer l'environnement avec ce produit.
+
+234
+00:11:49,770 --> 00:11:52,610
+Donc tout récipient doit être fermé hermétiquement pour
+
+235
+00:11:52,610 --> 00:11:55,230
+ne pas contaminer l'extérieur des flacons ou
+
+236
+00:11:55,230 --> 00:11:55,990
+les autres tubes.
+
+237
+00:11:56,710 --> 00:11:59,090
+Il ne faut pas transporter une seringue avec
+
+238
+00:11:59,090 --> 00:12:00,970
+son aiguille, donc on va la retirer avec
+
+239
+00:12:00,970 --> 00:12:02,930
+un dispositif de sécurité comme il faut.
+
+240
+00:12:04,190 --> 00:12:06,690
+Ce qu'on doit éviter dans ce process
+
+241
+00:12:06,690 --> 00:12:08,950
+de la phase pré-analytique, trois éléments.
+
+242
+00:12:09,590 --> 00:12:13,370
+D'abord, les traitements antibiotiques, puis la contamination
+
+243
+00:12:13,370 --> 00:12:15,970
+par la flore endogène pour ne pas influencer
+
+244
+00:12:15,970 --> 00:12:19,970
+les analyses, l'interprétation des résultats.
+
+245
+00:12:20,430 --> 00:12:25,750
+Et bien sûr, le transport inapproprié qui ne
+
+246
+00:12:25,750 --> 00:12:28,370
+va pas vraiment respecter les conditions de froid
+
+247
+00:12:28,370 --> 00:12:30,550
+et la sécurité du prélèvement.
+
+248
+00:12:30,970 --> 00:12:32,810
+Donc dans ce cas-là, il faut vraiment
+
+249
+00:12:32,810 --> 00:12:36,130
+veiller à des méthodes de transport réfrigérées avec
+
+250
+00:12:36,130 --> 00:12:38,910
+un moyen adéquat et qui va garder vraiment
+
+251
+00:12:38,910 --> 00:12:40,810
+la qualité du prélèvement.
+
+252
+00:12:41,890 --> 00:12:42,330
+Voilà.
+
+253
+00:12:42,930 --> 00:12:45,670
+Donc j'arrive aux situations qui peuvent justifier
+
+254
+00:12:45,670 --> 00:12:46,850
+le refus d'une analyse.
+
+255
+00:12:47,870 --> 00:12:50,310
+La liste est vraiment grande.
+
+256
+00:12:50,530 --> 00:12:57,890
+Tout échantillon vraiment inadéquat, un étiquetage inapproprié bien
+
+257
+00:12:57,890 --> 00:13:02,550
+sûr, ou des récipients endommagés ou carrément des
+
+258
+00:13:02,550 --> 00:13:04,810
+échantillons qu'on reçoit visiblement contaminés.
+
+259
+00:13:05,370 --> 00:13:06,870
+Donc c'est des échantillons qui ne vont
+
+260
+00:13:06,870 --> 00:13:08,070
+servir à rien.
+
+261
+00:13:08,690 --> 00:13:11,170
+Si on reçoit des échantillons au-delà des
+
+262
+00:13:11,170 --> 00:13:14,210
+délais maximaux recommandés, on va les rejeter bien
+
+263
+00:13:14,210 --> 00:13:14,390
+sûr.
+
+264
+00:13:14,990 --> 00:13:17,510
+Si les conditions de conservation ne sont pas
+
+265
+00:13:17,510 --> 00:13:18,570
+respectées, pareil.
+
+266
+00:13:20,130 --> 00:13:23,670
+Tout ce qui est par exemple des échantillons
+
+267
+00:13:23,670 --> 00:13:26,330
+inappropriés aux analyses prescrites, ce n'est pas
+
+268
+00:13:26,330 --> 00:13:27,410
+la peine de les faire.
+
+269
+00:13:27,410 --> 00:13:32,030
+Et éviter bien sûr les multiples échantillons dans
+
+270
+00:13:32,030 --> 00:13:36,230
+un délai très court non justifié.
+
+271
+00:13:37,570 --> 00:13:40,230
+Les situations qui peuvent justifier le refus de
+
+272
+00:13:40,230 --> 00:13:43,170
+l'analyse aussi, les conditions de prélèvement de
+
+273
+00:13:43,170 --> 00:13:46,410
+transport et de conservation sont préjudiciables à la
+
+274
+00:13:46,410 --> 00:13:48,150
+sécurité de l'analyse et à la validité
+
+275
+00:13:48,150 --> 00:13:48,970
+des résultats.
+
+276
+00:13:49,350 --> 00:13:52,930
+Donc l'analyse de l'échantillon non représentative
+
+277
+00:13:52,930 --> 00:13:57,390
+de processus infectieux, il va conduire à des
+
+278
+00:13:57,390 --> 00:14:00,290
+résultats inappropriés et par la suite des erreurs
+
+279
+00:14:00,290 --> 00:14:02,650
+de diagnostic et des traitements inadaptés.
+
+280
+00:14:02,850 --> 00:14:03,890
+Donc il faut faire attention.
+
+281
+00:14:04,610 --> 00:14:07,230
+Le résultat sera toujours rendu avec une mention
+
+282
+00:14:07,230 --> 00:14:08,790
+résultats saurosables.
+
+283
+00:14:09,230 --> 00:14:10,730
+C'est bon ?
+
+284
+00:14:10,730 --> 00:14:13,690
+Donc en conclusion, la rédaction de la prescription,
+
+285
+00:14:14,030 --> 00:14:17,150
+l'exécution de prélèvements ainsi la conservation, le
+
+286
+00:14:17,150 --> 00:14:20,030
+transport de l'échantillon sont des grandes étapes
+
+287
+00:14:20,030 --> 00:14:24,570
+du préanalytique qui peuvent influencer vraiment la qualité
+
+288
+00:14:24,570 --> 00:14:25,330
+du résultat.
+
+289
+00:14:25,910 --> 00:14:29,190
+Donc de plus tout renseignement administratif et clinique
+
+290
+00:14:29,190 --> 00:14:31,630
+ainsi que les données sur les circonstances du
+
+291
+00:14:31,630 --> 00:14:35,090
+prélèvement sont absolument nécessaires pour réaliser une analyse
+
+292
+00:14:35,090 --> 00:14:36,490
+bactérologique de qualité.
+
+293
+00:14:37,070 --> 00:14:38,610
+Voilà je termine cette partie de la phase
+
+294
+00:14:38,610 --> 00:14:39,310
+préanalytique.
+
+295
+00:14:40,370 --> 00:14:42,530
+Je ne sais pas si on peut passer
+
+296
+00:14:42,530 --> 00:14:48,530
+à l'autre séance où on prend les
+
+297
+00:14:48,530 --> 00:14:52,970
+questions en relation avec cette partie et après
+
+298
+00:14:52,970 --> 00:14:54,670
+on passe à l'hygiène hospitalière.
+
+299
+00:14:55,430 --> 00:14:57,130
+Qu'est-ce que vous en pensez ?
+
+300
+00:14:57,130 --> 00:14:57,670
+C'est clair ?
+
+301
+00:14:57,670 --> 00:14:58,870
+Vous avez des questions ?
+
+302
+00:15:04,190 --> 00:15:04,870
+Je vous écoute.
+
+303
+00:15:11,580 --> 00:15:14,240
+Dans quel cas peut-on garder un échantillon
+
+304
+00:15:14,240 --> 00:15:15,700
+plus de 24 heures ?
+
+305
+00:15:17,460 --> 00:15:18,380
+Comment ?
+
+306
+00:15:18,380 --> 00:15:20,880
+J'ai pas bien entendu votre question.
+
+307
+00:15:21,040 --> 00:15:21,700
+Répète s'il vous plaît.
+
+308
+00:15:22,200 --> 00:15:25,220
+Dans quel cas peut-on garder un échantillon
+
+309
+00:15:25,220 --> 00:15:28,640
+qui peut rester 24 heures avant d'arriver
+
+310
+00:15:28,640 --> 00:15:30,400
+au laboratoire ?
+
+311
+00:15:31,220 --> 00:15:32,000
+Absolument pas.
+
+312
+00:15:32,380 --> 00:15:34,840
+Parce que j'ai dit que le délai
+
+313
+00:15:34,840 --> 00:15:39,160
+maximal d'avoir un échantillon dans le laboratoire
+
+314
+00:15:39,160 --> 00:15:40,300
+c'est au moins 2 heures.
+
+315
+00:15:41,060 --> 00:15:42,260
+Donc si on le laisse au-delà de
+
+316
+00:15:42,260 --> 00:15:44,160
+24 heures c'est pas possible surtout par
+
+317
+00:15:44,160 --> 00:15:46,360
+rapport à tout ce qui est prélèvement clinique.
+
+318
+00:15:47,020 --> 00:15:48,620
+Il y a des prélèvements qui ne peuvent
+
+319
+00:15:48,620 --> 00:15:50,540
+même pas résister au-delà de 30 minutes.
+
+320
+00:15:50,980 --> 00:15:53,340
+Surtout les biopsies par exemple ou les échantillons
+
+321
+00:15:53,340 --> 00:15:54,080
+de petits volumes.
+
+322
+00:15:54,080 --> 00:15:57,920
+Donc le mieux arrivé au laboratoire, le mieux
+
+323
+00:16:00,040 --> 00:16:02,580
+analysé et interprété comme il faut.
+
+324
+00:16:04,080 --> 00:16:05,640
+C'est bon ?
+
+325
+00:16:05,640 --> 00:16:09,500
+Le délai d'un cheminement de prélèvement au
+
+326
+00:16:09,500 --> 00:16:13,140
+laboratoire vraiment est un paramètre critique de cette
+
+327
+00:16:13,140 --> 00:16:14,000
+phase préanalytique.
+
+328
+00:16:14,360 --> 00:16:17,200
+Il faut vraiment le respecter et veiller à
+
+329
+00:16:17,200 --> 00:16:19,160
+ne pas dépasser les délais recommandés.
+
+330
+00:16:20,340 --> 00:16:21,960
+C'est bon ?
+
+331
+00:16:21,960 --> 00:16:22,220
+D'accord.
+
+332
+00:16:22,380 --> 00:16:22,820
+Merci Madame.
+
+333
+00:16:23,660 --> 00:16:24,300
+Je vous en prie.
+
+334
+00:16:24,540 --> 00:16:26,040
+Donc si vous avez des questions, d'autres
+
+335
+00:16:26,040 --> 00:16:27,000
+questions, n'hésitez pas.
+
+336
+00:16:32,740 --> 00:16:34,440
+C'est bon ?
+
+337
+00:16:34,440 --> 00:16:37,040
+Je passe à l'hygiène hospitalière ?
+
+338
+00:16:41,810 --> 00:16:42,390
+C'est bon ?
+
+339
+00:16:42,390 --> 00:16:43,910
+Donc on va passer à l'hygiène.
+
+340
+00:16:49,000 --> 00:16:49,440
+Voilà.
+
+341
+00:16:50,180 --> 00:16:53,980
+Donc la deuxième partie de travaux dirigés consiste
+
+342
+00:16:53,980 --> 00:16:56,020
+à l'hygiène hospitalière et la gestion des
+
+343
+00:16:56,020 --> 00:16:58,740
+risques dans les infrastructures hospitalières.
+
+344
+00:17:01,170 --> 00:17:04,329
+Donc les objectifs fixés de cette séance c
+
+345
+00:17:04,329 --> 00:17:07,450
+'est définir une infection nosocomial ainsi que les
+
+346
+00:17:07,450 --> 00:17:09,470
+facteurs de risque et les modalités de son
+
+347
+00:17:09,470 --> 00:17:13,290
+acquisition, acquérir les connaissances en matière d'hygiène
+
+348
+00:17:13,290 --> 00:17:17,270
+hospitalière, comprendre comment améliorer la maîtrise des risques
+
+349
+00:17:17,270 --> 00:17:20,150
+infectieux et bien sûr à la fin on
+
+350
+00:17:20,150 --> 00:17:22,069
+va voir les étapes de la gestion d
+
+351
+00:17:22,069 --> 00:17:23,710
+'un accident d'exposition au sang.
+
+352
+00:17:26,640 --> 00:17:29,760
+Donc les infections associées aux soins constituent un
+
+353
+00:17:29,760 --> 00:17:31,420
+problème majeur de santé publique.
+
+354
+00:17:32,200 --> 00:17:35,660
+Ces infections augmentent la morbidité, la mortabilité et
+
+355
+00:17:35,660 --> 00:17:37,180
+le taux d'hospitalisation.
+
+356
+00:17:38,200 --> 00:17:42,880
+Ils sont majoritairement exogènes, le plus souvent maniportés
+
+357
+00:17:42,880 --> 00:17:47,700
+ou via une transmission croisée maniportée ou aéroportées
+
+358
+00:17:47,700 --> 00:17:50,800
+et par l'exposition des patients aux manœuvres
+
+359
+00:17:50,800 --> 00:17:54,420
+invasives par l'installation des dispositifs médicaux tels
+
+360
+00:17:54,420 --> 00:17:57,320
+que les cathéter et lors des intubations.
+
+361
+00:17:58,400 --> 00:18:00,700
+Donc l'hygiène est l'ensemble des mesures
+
+362
+00:18:00,700 --> 00:18:03,540
+de prévention de la survenue d'une colonisation
+
+363
+00:18:03,540 --> 00:18:05,300
+ou d'une infection associée aux soins.
+
+364
+00:18:06,140 --> 00:18:08,320
+Donc à travers la mise en place des
+
+365
+00:18:08,320 --> 00:18:10,760
+precautions standards et complémentaires qu'on va voir
+
+366
+00:18:10,760 --> 00:18:11,540
+en détail.
+
+367
+00:18:12,420 --> 00:18:15,560
+Le comité de lutte contre les infections nosocomiales
+
+368
+00:18:15,560 --> 00:18:18,920
+c'est un comité qui est obligatoirement présent
+
+369
+00:18:18,920 --> 00:18:20,820
+dans chaque établissement hospitalier.
+
+370
+00:18:21,540 --> 00:18:25,060
+C'est une instance pluridisciplinaire qui veille à
+
+371
+00:18:25,060 --> 00:18:26,880
+la mise en place et à l'élaboration
+
+372
+00:18:26,880 --> 00:18:30,340
+des politiques de lutte contre ces infections nosocomiales.
+
+373
+00:18:32,200 --> 00:18:35,560
+Donc une infection acquise par un patient au
+
+374
+00:18:35,560 --> 00:18:38,120
+cours des soins délivrés à l'hôpital ou
+
+375
+00:18:38,120 --> 00:18:41,520
+dans tout autre établissement est considérée comme une
+
+376
+00:18:41,520 --> 00:18:42,800
+infection associée aux soins.
+
+377
+00:18:43,620 --> 00:18:45,800
+Elle n'est ni présente ni en incubation
+
+378
+00:18:45,800 --> 00:18:47,580
+avant le geste médical.
+
+379
+00:18:48,220 --> 00:18:51,560
+Donc après 8 à 62 heures, il va
+
+380
+00:18:51,560 --> 00:18:53,600
+apparaître du geste médical.
+
+381
+00:18:54,460 --> 00:18:57,940
+30 jours après une intervention chirurgicale jusqu'à
+
+382
+00:18:57,940 --> 00:19:01,060
+une année si on insiste à la mise
+
+383
+00:19:01,060 --> 00:19:02,840
+en place d'un implant ou un prothèse.
+
+384
+00:19:05,440 --> 00:19:10,760
+Donc c'est vraiment très important pour faire
+
+385
+00:19:10,760 --> 00:19:13,720
+attention à ce genre d'infection nosocomiale.
+
+386
+00:19:13,960 --> 00:19:18,420
+Le corps humain est un réservoir de bactéries,
+
+387
+00:19:18,540 --> 00:19:18,940
+vous voyez.
+
+388
+00:19:19,500 --> 00:19:21,380
+Donc il s'en présente sur la peau,
+
+389
+00:19:21,600 --> 00:19:24,240
+dans les cavités, dans les liquides biologiques.
+
+390
+00:19:24,820 --> 00:19:28,540
+Par exemple, la salive contient environ 100 millions
+
+391
+00:19:28,540 --> 00:19:29,260
+de bactéries.
+
+392
+00:19:29,920 --> 00:19:32,900
+Donc la contamination bactérienne peut être transportée par
+
+393
+00:19:32,900 --> 00:19:33,500
+l'homme.
+
+394
+00:19:35,320 --> 00:19:35,600
+C'est bon?
+
+395
+00:19:40,400 --> 00:19:43,260
+Est-ce que les infections nosocomiales sont toutes
+
+396
+00:19:43,260 --> 00:19:43,980
+opportunistes?
+
+397
+00:19:47,540 --> 00:19:48,180
+Oui.
+
+398
+00:19:49,980 --> 00:19:54,040
+Toutes infections nosocomiales peuvent être vraiment acquises au
+
+399
+00:19:54,040 --> 00:19:57,020
+niveau d'un soin à nouveau de l
+
+400
+00:19:57,020 --> 00:19:57,300
+'hôpital.
+
+401
+00:19:58,020 --> 00:19:58,780
+C'est bon?
+
+402
+00:20:02,140 --> 00:20:03,340
+Donc je continue.
+
+403
+00:20:04,960 --> 00:20:07,860
+Les contaminations, dans ce cas-là, si le
+
+404
+00:20:07,860 --> 00:20:11,020
+patient est contaminé par sa propre flore commensale,
+
+405
+00:20:11,560 --> 00:20:15,660
+elle est qualifiée de contamination endogène ou carrément
+
+406
+00:20:15,660 --> 00:20:18,400
+suite à un acte invasif ou la prise
+
+407
+00:20:18,400 --> 00:20:19,300
+d'antibiotiques.
+
+408
+00:20:20,200 --> 00:20:23,600
+Si la flore, si le germe est vraiment
+
+409
+00:20:23,600 --> 00:20:26,020
+externe, il provient d'une autre personne telle
+
+410
+00:20:26,020 --> 00:20:28,680
+que le personnel soignant ou un autre patient
+
+411
+00:20:28,680 --> 00:20:31,920
+ou carrément des visiteurs ou un environnement hospitalier
+
+412
+00:20:31,920 --> 00:20:35,740
+contaminé, via l'air d'alimentation et les
+
+413
+00:20:35,740 --> 00:20:38,120
+appareils, à ce moment-là, on va parler
+
+414
+00:20:38,120 --> 00:20:39,980
+de contamination exogène.
+
+415
+00:20:42,830 --> 00:20:46,450
+Les facteurs intrinsèques favorisant des infections associées aux
+
+416
+00:20:46,450 --> 00:20:48,610
+soins sont les âges extrêmes de la vie,
+
+417
+00:20:49,190 --> 00:20:52,150
+les personnes âgées et les prématurés, bien sûr.
+
+418
+00:20:52,610 --> 00:20:55,230
+Le sexe, par exemple, une infection urinaire est
+
+419
+00:20:55,230 --> 00:20:57,950
+plus fréquente chez les femmes que chez les
+
+420
+00:20:57,950 --> 00:20:59,730
+hommes parce que le système urinaire de la
+
+421
+00:20:59,730 --> 00:21:02,710
+femme est favorable à une acquisition de ce
+
+422
+00:21:02,710 --> 00:21:04,310
+genre d'infection.
+
+423
+00:21:04,910 --> 00:21:07,430
+La durée de séjour augmente aussi l'incidence
+
+424
+00:21:07,430 --> 00:21:10,730
+des infections et, bien sûr, toute intervention chirurgicale
+
+425
+00:21:10,730 --> 00:21:14,190
+peut être source d'une infection nosocomiale.
+
+426
+00:21:14,670 --> 00:21:18,250
+Les facteurs favorisant extrinsèques sont toutes les prothèses,
+
+427
+00:21:18,370 --> 00:21:21,190
+les actes invasifs, les centres et, bien sûr,
+
+428
+00:21:21,510 --> 00:21:23,790
+la durée de maintien d'une prothèse et
+
+429
+00:21:23,790 --> 00:21:28,050
+leur manipulation aussi peut favoriser cette acquisition.
+
+430
+00:21:28,630 --> 00:21:31,670
+L'utilisation mal maîtrisée aussi des antibiotiques pour
+
+431
+00:21:31,670 --> 00:21:35,250
+favoriser l'apparition des bactéries multirésistantes.
+
+432
+00:21:36,210 --> 00:21:40,250
+Et le seul moyen reste l'hygiène pour
+
+433
+00:21:40,250 --> 00:21:42,050
+éviter ce genre de contamination.
+
+434
+00:21:42,930 --> 00:21:45,730
+La définition de l'hygiène tout court consiste,
+
+435
+00:21:46,190 --> 00:21:47,730
+il s'agit d'un ensemble des principes
+
+436
+00:21:47,730 --> 00:21:50,130
+et des pratiques à préserver ou améliorer la
+
+437
+00:21:50,130 --> 00:21:50,410
+santé.
+
+438
+00:21:51,370 --> 00:21:53,970
+L'hygiène hospitalière ou liée aux soins, c
+
+439
+00:21:53,970 --> 00:21:56,350
+'est l'ensemble des mesures d'abord curatives.
+
+440
+00:21:57,010 --> 00:21:59,570
+Ces mesures visent à limiter les foyers infectieux
+
+441
+00:21:59,570 --> 00:22:02,710
+et d'autres préventives qui visent à limiter
+
+442
+00:22:02,710 --> 00:22:05,390
+les voies de contamination de l'infection dans
+
+443
+00:22:05,390 --> 00:22:07,090
+un contexte bien ciblé.
+
+444
+00:22:11,480 --> 00:22:15,180
+La prévention des infections associées reste le seul
+
+445
+00:22:15,180 --> 00:22:15,840
+moyen.
+
+446
+00:22:16,480 --> 00:22:19,080
+Donc, elle concerne aussi bien les patients, le
+
+447
+00:22:19,080 --> 00:22:21,740
+personnel soignant et l'environnement hospitalier.
+
+448
+00:22:22,600 --> 00:22:25,600
+Les principales mesures de prévention sont les précautions
+
+449
+00:22:25,600 --> 00:22:28,120
+standards, tels que le port de gants, les
+
+450
+00:22:28,120 --> 00:22:29,000
+blouses, les masques.
+
+451
+00:22:29,700 --> 00:22:32,820
+Les précautions complémentaires se basent surtout sur l
+
+452
+00:22:32,820 --> 00:22:33,380
+'hygiène des mains.
+
+453
+00:22:33,500 --> 00:22:35,300
+On va voir l'intérêt de l'hygiène
+
+454
+00:22:35,300 --> 00:22:36,340
+des mains.
+
+455
+00:22:37,040 --> 00:22:38,460
+Et bien sûr, il y a d'autres
+
+456
+00:22:38,460 --> 00:22:41,420
+précautions particulières qui sont adaptées à des conditions
+
+457
+00:22:41,420 --> 00:22:42,640
+plus particulières.
+
+458
+00:22:43,340 --> 00:22:46,160
+Le but global ou le seul but de
+
+459
+00:22:46,160 --> 00:22:48,260
+l'ensemble de ces précautions, c'est d
+
+460
+00:22:48,260 --> 00:22:50,240
+'interrompre la chaîne de l'infection.
+
+461
+00:22:52,800 --> 00:22:55,260
+Donc, avant de passer à détailler ces précautions,
+
+462
+00:22:55,440 --> 00:22:57,240
+on va s'arrêter sur la définition de
+
+463
+00:22:57,240 --> 00:22:59,680
+quelques termes en relation avec le concept d
+
+464
+00:22:59,680 --> 00:23:00,000
+'hygiène.
+
+465
+00:23:00,720 --> 00:23:02,760
+Par exemple, l'asepsie, vous voyez que c
+
+466
+00:23:02,760 --> 00:23:05,080
+'est un ensemble de mesures propres à empêcher
+
+467
+00:23:05,080 --> 00:23:07,720
+tout apport d'agents infectieux au niveau des
+
+468
+00:23:07,720 --> 00:23:09,420
+surfaces inertes ou biologiques.
+
+469
+00:23:10,200 --> 00:23:12,560
+L'antisepsie, c'est l'opération qui consiste
+
+470
+00:23:12,560 --> 00:23:16,780
+à des résultats momentanés qui permettent d'éliminer
+
+471
+00:23:16,780 --> 00:23:20,200
+les agents infectieux qui suivent un tissu vivant.
+
+472
+00:23:21,160 --> 00:23:23,960
+Et bien sûr, si on regarde la désinfection,
+
+473
+00:23:24,200 --> 00:23:25,680
+c'est l'antisepsie, mais cette fois-ci
+
+474
+00:23:25,680 --> 00:23:27,860
+sur les surfaces inertes.
+
+475
+00:23:28,380 --> 00:23:32,660
+Le tableau suivant compare l'activité de quelques
+
+476
+00:23:32,660 --> 00:23:35,700
+produits désinfectants sur les germes ou les micro
+
+477
+00:23:35,700 --> 00:23:37,100
+-organismes qu'on peut rencontrer.
+
+478
+00:23:37,680 --> 00:23:39,280
+Vous voyez là l'eau de Javel, des
+
+479
+00:23:39,280 --> 00:23:41,420
+aldiers, ces produits sont nombreux.
+
+480
+00:23:41,840 --> 00:23:43,920
+Si on regarde par exemple l'alcool, il
+
+481
+00:23:43,920 --> 00:23:46,040
+est actif sur les bactéries gram-positifs, gram
+
+482
+00:23:46,040 --> 00:23:47,660
+-négatifs, les mycobactéries, pareil.
+
+483
+00:23:48,240 --> 00:23:49,500
+Sur les sports, il n'y a pas
+
+484
+00:23:49,500 --> 00:23:50,240
+d'activité.
+
+485
+00:23:50,240 --> 00:23:52,360
+Donc on ne peut pas l'utiliser pour
+
+486
+00:23:52,360 --> 00:23:56,100
+éliminer des sports de bactéries ou de champignons.
+
+487
+00:23:56,820 --> 00:24:00,000
+Les précautions standards sont les mises en œuvre
+
+488
+00:24:00,000 --> 00:24:02,520
+par tous, c'est des mesures qu'on
+
+489
+00:24:02,520 --> 00:24:07,000
+doit adopter par tous soignants lors de tous
+
+490
+00:24:07,000 --> 00:24:08,860
+soins à tous patients, quels que soient son
+
+491
+00:24:08,860 --> 00:24:09,700
+statut infectieux.
+
+492
+00:24:10,200 --> 00:24:12,560
+Elles permettent de diminuer le risque de transmission
+
+493
+00:24:12,560 --> 00:24:15,860
+croisée pour assurer la qualité des soins dispensés
+
+494
+00:24:15,860 --> 00:24:18,760
+aux patients et assurer aussi la sécurité du
+
+495
+00:24:18,760 --> 00:24:20,020
+personnel soignant.
+
+496
+00:24:20,940 --> 00:24:23,920
+L'objectif est de protéger les patients, le
+
+497
+00:24:23,920 --> 00:24:26,800
+personnel des agents infectieux véhiculés par le sang
+
+498
+00:24:26,800 --> 00:24:29,120
+et les liquides biologiques contaminés.
+
+499
+00:24:30,200 --> 00:24:36,420
+Le tableau suivant détaille ces précautions standards vraiment
+
+500
+00:24:36,420 --> 00:24:38,980
+élément par élément et vous allez avoir le
+
+501
+00:24:38,980 --> 00:24:40,580
+temps de le voir en détail.
+
+502
+00:24:42,240 --> 00:24:45,300
+Lorsqu'on parle de l'hygiène hospitalière, c
+
+503
+00:24:45,300 --> 00:24:47,200
+'est vraiment l'hygiène des mains.
+
+504
+00:24:47,340 --> 00:24:47,620
+Pourquoi?
+
+505
+00:24:47,960 --> 00:24:50,360
+Parce que les micro-organismes sont capables de
+
+506
+00:24:50,360 --> 00:24:51,560
+survivre sur les mains.
+
+507
+00:24:52,660 --> 00:24:55,320
+Si on prend l'exemple des entérobactéries, il
+
+508
+00:24:55,320 --> 00:25:00,540
+reste 6 à 120 minutes vivantes après une
+
+509
+00:25:00,540 --> 00:25:03,060
+contamination des mains par ce genre de bactéries.
+
+510
+00:25:03,380 --> 00:25:04,600
+C'est pour ça qu'il faut vraiment
+
+511
+00:25:04,600 --> 00:25:07,220
+limiter et veiller à l'hygiène des mains.
+
+512
+00:25:07,980 --> 00:25:10,520
+L'hygiène des mains reste la mesure la
+
+513
+00:25:10,520 --> 00:25:15,120
+plus efficace afin de réduire les infections nosocomiales
+
+514
+00:25:15,120 --> 00:25:16,300
+à transmission croisée.
+
+515
+00:25:16,520 --> 00:25:19,840
+Il peut diminuer jusqu'à 99% de
+
+516
+00:25:19,840 --> 00:25:21,200
+la flore cutanée transitoire.
+
+517
+00:25:24,500 --> 00:25:27,120
+Il vise surtout à éliminer les bactéries comme
+
+518
+00:25:27,120 --> 00:25:28,940
+on l'a vu, les grammes positifs, les
+
+519
+00:25:28,940 --> 00:25:30,960
+grammes négatifs, les levures et les virus qui
+
+520
+00:25:30,960 --> 00:25:32,920
+peuvent être acquises au moment de soins.
+
+521
+00:25:35,060 --> 00:25:39,880
+La figure suivante indique les 5 étapes d
+
+522
+00:25:39,880 --> 00:25:45,400
+'hygiène des mains définies par l'Organisation mondiale
+
+523
+00:25:45,400 --> 00:25:46,660
+de la santé.
+
+524
+00:25:46,660 --> 00:25:47,580
+1.
+
+525
+00:25:48,580 --> 00:25:51,280
+Toucher un patient 2.
+
+526
+00:25:51,280 --> 00:25:54,460
+Un geste aseptique 3.
+
+527
+00:25:54,460 --> 00:25:57,640
+Un risque d'exposition à un liquide biologique
+
+528
+00:25:58,230 --> 00:25:58,740
+4.
+
+529
+00:25:59,040 --> 00:26:02,000
+Toucher un patient 5.
+
+530
+00:26:02,280 --> 00:26:11,530
+Toucher l'environnement d'un patient Les méthodes
+
+531
+00:26:11,530 --> 00:26:15,850
+de référence pour ce processus de lavage des
+
+532
+00:26:15,850 --> 00:26:18,750
+mains sont soit un lavage avec de l
+
+533
+00:26:18,750 --> 00:26:20,770
+'eau et des savons, donc lavage simple ou
+
+534
+00:26:20,770 --> 00:26:25,110
+hygiénique avec savon désinfectant, soit en utilisant des
+
+535
+00:26:25,110 --> 00:26:27,630
+solutions hydroalcooliques et le but c'est bien
+
+536
+00:26:27,630 --> 00:26:29,590
+sûr d'éliminer la flore transitoire.
+
+537
+00:26:30,830 --> 00:26:32,670
+Il faut vraiment le bien appliquer.
+
+538
+00:26:33,970 --> 00:26:38,450
+La figure suivante montre exactement ce processus d
+
+539
+00:26:38,450 --> 00:26:42,350
+'hygiène des mains, comment appliquer une solution hydroalcoolique.
+
+540
+00:26:42,510 --> 00:26:45,890
+Il faut vraiment respecter ces étapes et le
+
+541
+00:26:45,890 --> 00:26:47,910
+rôle ou l'intérêt d'hygiène des mains
+
+542
+00:26:47,910 --> 00:26:50,150
+ou le lavage des mains est très clair
+
+543
+00:26:50,150 --> 00:26:53,890
+maintenant et surtout lors de la pandémie que
+
+544
+00:26:53,890 --> 00:26:56,890
+nous sommes en train de vivre causée par
+
+545
+00:26:56,890 --> 00:26:59,670
+le Covid-19 l'hygiène des mains a
+
+546
+00:26:59,670 --> 00:27:07,250
+permis vraiment de veiller à réduire la contamination
+
+547
+00:27:07,250 --> 00:27:08,250
+par le Covid.
+
+548
+00:27:09,330 --> 00:27:14,210
+L'intérêt de ce processus ou de cet
+
+549
+00:27:14,210 --> 00:27:16,450
+acte a fait de l'hygiène des mains
+
+550
+00:27:16,450 --> 00:27:19,110
+une journée mondiale que nous célébrons chaque année
+
+551
+00:27:19,110 --> 00:27:20,490
+le 15 octobre.
+
+552
+00:27:20,790 --> 00:27:23,890
+C'est un geste simple mais il n
+
+553
+00:27:23,890 --> 00:27:27,510
+'est pas utilisé par tout le monde.
+
+554
+00:27:28,810 --> 00:27:32,450
+Pour les précautions complémentaires ils sont destinés à
+
+555
+00:27:32,450 --> 00:27:35,890
+compléter les précautions standards surtout chez les patients
+
+556
+00:27:35,890 --> 00:27:38,950
+suspects d'être colonisés ou infectés par des
+
+557
+00:27:38,950 --> 00:27:40,830
+micro-organismes hautement transmissibles.
+
+558
+00:27:41,510 --> 00:27:44,770
+Les trois catégories de précautions complémentaires reposent sur
+
+559
+00:27:44,770 --> 00:27:48,110
+les trois modes de transmission soit le mode
+
+560
+00:27:48,110 --> 00:27:51,870
+de transmission par contact direct ou indirect ou
+
+561
+00:27:51,870 --> 00:27:55,570
+via les gouttelettes contaminées ou à travers de
+
+562
+00:27:55,570 --> 00:27:56,230
+l'air pollué.
+
+563
+00:27:56,990 --> 00:28:01,290
+Donc pour les infections transmises selon plusieurs modalités,
+
+564
+00:28:01,890 --> 00:28:04,450
+les trois on peut combiner avec les trois
+
+565
+00:28:04,450 --> 00:28:06,830
+catégories de précautions complémentaires.
+
+566
+00:28:08,270 --> 00:28:11,890
+Le tableau suivant détaille pareil les précautions complémentaires
+
+567
+00:28:11,890 --> 00:28:15,990
+d'hygiène étape par étape et le rôle
+
+568
+00:28:15,990 --> 00:28:17,270
+de chaque élément.
+
+569
+00:28:18,350 --> 00:28:23,290
+Je vais m'arrêter enfin sur les conduites
+
+570
+00:28:23,290 --> 00:28:26,610
+à tenir devant un accident d'exposition au
+
+571
+00:28:26,610 --> 00:28:29,950
+sang et vraiment c'est des accidents où
+
+572
+00:28:29,950 --> 00:28:33,450
+tout personnel soignant est confronté dans les infrastructures
+
+573
+00:28:34,250 --> 00:28:39,310
+hospitalières et ce sont des conduites à tenir,
+
+574
+00:28:39,990 --> 00:28:43,450
+ils sont déclarés au niveau de chaque service,
+
+575
+00:28:43,830 --> 00:28:46,610
+ils sont affichés, il faut juste veiller à
+
+576
+00:28:46,610 --> 00:28:47,270
+les respecter.
+
+577
+00:28:47,650 --> 00:28:51,590
+La première étape qu'on peut faire avant
+
+578
+00:28:51,590 --> 00:28:54,330
+si on est vraiment face à ce problème
+
+579
+00:28:54,330 --> 00:28:58,050
+d'accident dû au sang ou à un
+
+580
+00:28:58,050 --> 00:29:02,810
+liquide biologique contaminé, c'est de rincer rapidement
+
+581
+00:29:02,810 --> 00:29:04,890
+avec de l'eau ou un sérum physiologique
+
+582
+00:29:04,890 --> 00:29:08,090
+au bien d'appliquer un produit antiseptique.
+
+583
+00:29:08,490 --> 00:29:10,570
+La deuxième chose on doit contacter le médecin
+
+584
+00:29:10,570 --> 00:29:13,630
+référent afin d'évaluer le risque et s
+
+585
+00:29:13,630 --> 00:29:15,850
+'il y a un traitement à prendre il
+
+586
+00:29:15,850 --> 00:29:18,650
+faut le démarrer rapidement et enfin on doit
+
+587
+00:29:18,650 --> 00:29:22,190
+contacter le médecin de travail pour déclarer l
+
+588
+00:29:22,190 --> 00:29:23,330
+'accident de travail.
+
+589
+00:29:23,750 --> 00:29:26,970
+Voilà, c'est très réduit mais j'ai
+
+590
+00:29:26,970 --> 00:29:30,750
+essayé de vous donner l'essentiel donc je
+
+591
+00:29:30,750 --> 00:29:33,150
+reste à votre disposition si vous avez des
+
+592
+00:29:33,150 --> 00:29:33,490
+questions.
+
+593
+00:29:33,490 --> 00:29:45,040
+Voilà, n'hésitez pas, c
+
+594
+00:29:45,040 --> 00:29:45,240
+'est bon?
+
+595
+00:29:46,820 --> 00:29:48,580
+Vous avez des questions en relation avec ces
+
+596
+00:29:48,580 --> 00:29:50,580
+éléments de travaux dirigés?
+
+597
+00:29:52,780 --> 00:29:53,020
+Madame?
+
+598
+00:29:53,640 --> 00:29:54,000
+Oui?
+
+599
+00:29:54,620 --> 00:29:56,320
+La conduite à tenir face à un accident
+
+600
+00:29:56,320 --> 00:29:57,560
+d'exposition au sang, est-ce qu'il
+
+601
+00:29:57,560 --> 00:29:59,440
+faut aussi la tenir si on est exposé
+
+602
+00:29:59,440 --> 00:30:00,380
+à un autre liquide biologique?
+
+603
+00:30:01,440 --> 00:30:01,740
+Oui.
+
+604
+00:30:03,120 --> 00:30:05,500
+Oui, oui, le liquide biologique il est considéré
+
+605
+00:30:05,500 --> 00:30:07,300
+comme un produit contaminé donc c'est la
+
+606
+00:30:07,300 --> 00:30:10,280
+même chose, il faut respecter la même conduite
+
+607
+00:30:10,280 --> 00:30:12,480
+à tenir face à un accident d'exposition
+
+608
+00:30:12,480 --> 00:30:12,900
+au sang.
+
+609
+00:30:13,340 --> 00:30:15,580
+Donc l'intérêt aussi c'est de ne
+
+610
+00:30:15,580 --> 00:30:18,300
+pas se contaminer avec ce produit biologique.
+
+611
+00:30:19,000 --> 00:30:21,240
+C'est la même chose, donc il est
+
+612
+00:30:21,240 --> 00:30:24,480
+considéré comme un accident médical.
+
+613
+00:30:24,980 --> 00:30:25,080
+Voilà.
+
+614
+00:30:27,530 --> 00:30:29,270
+Est-ce que vous avez d'autres questions?
+
+615
+00:30:31,010 --> 00:30:31,510
+C'est quoi?
+
+616
+00:30:31,710 --> 00:30:32,950
+La transmission croisée.
+
+617
+00:30:33,530 --> 00:30:36,810
+Voilà, donc très vite, pour la transmission croisée
+
+618
+00:30:36,810 --> 00:30:38,830
+c'est une transmission qui va se passer
+
+619
+00:30:38,830 --> 00:30:43,910
+entre deux personnes principalement via les mains donc
+
+620
+00:30:43,910 --> 00:30:47,870
+c'est en général le mode de transmission
+
+621
+00:30:47,870 --> 00:30:53,750
+qu'on regarde au niveau des services de
+
+622
+00:30:53,750 --> 00:30:54,230
+l'hôpital.
+
+623
+00:30:54,870 --> 00:30:57,170
+C'est une transmission croisée d'un germe
+
+624
+00:30:57,170 --> 00:30:59,490
+entre deux personnes, une personne contaminée et l
+
+625
+00:30:59,490 --> 00:31:04,630
+'autre personne qui va acquérir ce germe pathogène.
+
+626
+00:31:04,990 --> 00:31:10,470
+Voilà, c'est l'exemple des infections nosocomiales.
+
+627
+00:31:10,470 --> 00:31:10,670
+Oui?
+
+628
+00:31:15,510 --> 00:31:16,230
+Est-ce qu'il y a d'autres
+
+629
+00:31:16,230 --> 00:31:16,650
+questions?
+
+630
+00:31:24,640 --> 00:31:24,980
+C'est bon?
+
+631
+00:31:38,480 --> 00:31:39,220
+Je vous écoute.
+
+632
+00:31:40,080 --> 00:31:40,680
+N'hésitez pas.
+
+633
+00:31:41,100 --> 00:31:44,840
+Vous avez l'enregistrement où les supports sont
+
+634
+00:31:44,840 --> 00:31:47,380
+honorisés avec plus de détails et d'explications
+
+635
+00:31:47,380 --> 00:31:49,640
+sur la plateforme TA.
+
+636
+00:31:50,540 --> 00:31:52,480
+Vous avez aussi mon adresse mail.
+
+637
+00:31:52,600 --> 00:31:54,000
+Si vous avez des questions, n'hésitez pas
+
+638
+00:31:54,000 --> 00:31:54,520
+à les poser.
+
+639
+00:31:57,750 --> 00:31:58,370
+Est-ce que c'est clair?
+
+640
+00:32:11,880 --> 00:32:14,920
+Donc je réponds à votre question par rapport
+
+641
+00:32:14,920 --> 00:32:18,600
+à la différence entre la transmission directe et
+
+642
+00:32:18,600 --> 00:32:19,200
+indirecte.
+
+643
+00:32:19,260 --> 00:32:21,420
+La transmission directe, c'est vraiment un contact
+
+644
+00:32:21,420 --> 00:32:25,920
+direct entre la personne porteur du germe et
+
+645
+00:32:25,920 --> 00:32:27,140
+la personne qui va l'acquérir.
+
+646
+00:32:27,640 --> 00:32:30,560
+C'est vraiment un contact direct avec, via,
+
+647
+00:32:31,280 --> 00:32:33,440
+si on salue quelqu'un avec des mains
+
+648
+00:32:33,440 --> 00:32:34,620
+essuyées, on va le contaminer.
+
+649
+00:32:34,720 --> 00:32:35,960
+C'est un contact vraiment direct.
+
+650
+00:32:36,400 --> 00:32:38,720
+Le contact indirect c'est via de l
+
+651
+00:32:38,720 --> 00:32:40,820
+'air, c'est via les vêtements, c'est
+
+652
+00:32:40,820 --> 00:32:44,140
+via un environnement contaminé.
+
+653
+00:32:44,760 --> 00:32:46,280
+Donc c'est pas vraiment via la personne
+
+654
+00:32:46,280 --> 00:32:49,220
+lui-même, c'est via un autre support
+
+655
+00:32:49,760 --> 00:32:50,280
+contaminé.
+
+656
+00:32:52,270 --> 00:32:52,570
+C'est bon?
+
+657
+00:32:53,190 --> 00:32:55,490
+Ou via, par exemple, les gouttelettes peuvent être
+
+658
+00:32:55,490 --> 00:32:58,750
+aussi, si la personne est très proche, ça
+
+659
+00:32:58,750 --> 00:33:02,010
+peut être une forme de transmission indirecte.
+
+660
+00:33:04,110 --> 00:33:04,250
+Oui?
+
+661
+00:33:14,340 --> 00:33:15,680
+Est-ce que vous avez d'autres questions?
+
+662
+00:33:27,450 --> 00:33:27,830
+C'est bon?
+
+663
+00:33:30,380 --> 00:33:31,420
+Merci professeur.
+
+664
+00:33:32,080 --> 00:33:32,400
+Oui?
+
+665
+00:33:35,560 --> 00:33:36,660
+Vous avez une question?
+
+666
+00:33:36,660 --> 00:33:38,760
+J'ai pas bien...
+
+667
+00:33:56,910 --> 00:33:57,750
+N'hésitez pas.
+
+668
+00:33:57,970 --> 00:34:01,970
+Donc je suis là pour répondre à vos
+
+669
+00:34:01,970 --> 00:34:02,390
+questions.
+
+670
+00:34:07,480 --> 00:34:08,960
+Est-ce que c'est bon pour les
+
+671
+00:34:08,960 --> 00:34:10,679
+autres parties du module?
+
+672
+00:34:10,980 --> 00:34:11,480
+Ça va?
+
+673
+00:34:35,080 --> 00:34:35,540
+C'est bon?
+
+674
+00:34:36,480 --> 00:34:37,580
+Vous n'avez plus de questions?
+
+675
+00:34:41,810 --> 00:34:44,909
+Il nous reste encore un petit moment pour...
+
+676
+00:34:53,900 --> 00:34:54,620
+Ça va, c'est clair?
+
+677
+00:34:57,600 --> 00:34:58,480
+Merci madame.
+
+678
+00:34:59,000 --> 00:34:59,840
+Merci à vous.
+
+679
+00:35:00,040 --> 00:35:01,520
+Je vous souhaite un très bon courage.
+
+680
+00:35:01,620 --> 00:35:02,280
+Il y a une question.
+
+681
+00:35:03,800 --> 00:35:07,080
+C'est quand sera évaluée cette partie?
+
+682
+00:35:07,700 --> 00:35:09,080
+Voilà, c'est une autre question.
+
+683
+00:35:09,900 --> 00:35:12,160
+Donc je vais vous répondre quand même parce
+
+684
+00:35:12,160 --> 00:35:15,340
+qu'on est dans une période un peu
+
+685
+00:35:15,340 --> 00:35:16,480
+particulière.
+
+686
+00:35:17,480 --> 00:35:21,580
+Et vraiment, les travaux dirigés, on les évalue
+
+687
+00:35:21,580 --> 00:35:25,220
+en général dans le même examen avec les
+
+688
+00:35:25,220 --> 00:35:27,640
+travaux pratiques ou quelques questions au niveau du
+
+689
+00:35:27,640 --> 00:35:27,880
+cours.
+
+690
+00:35:28,320 --> 00:35:32,140
+Jusqu'à présent, avec le responsable de module,
+
+691
+00:35:32,240 --> 00:35:33,840
+on n'a pas encore décidé comment on
+
+692
+00:35:33,840 --> 00:35:37,480
+va évaluer exactement ces parties de travaux dirigés
+
+693
+00:35:37,480 --> 00:35:38,840
+ou de travaux pratiques.
+
+694
+00:35:39,580 --> 00:35:42,520
+Mais vous devez les réviser et on est
+
+695
+00:35:42,520 --> 00:35:45,260
+là pour vraiment vous faciliter la tâche.
+
+696
+00:35:45,980 --> 00:35:47,480
+Une fois qu'on a une réponse par
+
+697
+00:35:47,480 --> 00:35:49,640
+rapport à cette question, on va vous l
+
+698
+00:35:49,640 --> 00:35:49,980
+'annoncer.
+
+699
+00:35:50,300 --> 00:35:50,480
+Voilà.
+
+700
+00:35:53,880 --> 00:35:54,200
+C'est bon?
+
+701
+00:35:58,180 --> 00:35:58,840
+N'hésitez pas.
+
+702
+00:36:02,320 --> 00:36:03,780
+Est-ce que c'est clair ces deux
+
+703
+00:36:03,780 --> 00:36:05,580
+parties qu'on a vues ensemble?
+
+704
+00:36:07,950 --> 00:36:09,230
+Vous n'avez pas de questions?
+
+705
+00:36:09,970 --> 00:36:11,950
+Dans tous les cas, vous avez mon mail
+
+706
+00:36:11,950 --> 00:36:14,470
+et je répondrai à votre question.
+
+707
+00:36:15,170 --> 00:36:16,010
+Merci aussi à vous.
+
+708
+00:36:18,050 --> 00:36:20,730
+Donc, je vous souhaite un très bon courage.
+
+709
+00:36:21,010 --> 00:36:22,730
+Si vous avez des questions, n'hésitez pas
+
+710
+00:36:22,730 --> 00:36:25,730
+à me contacter et à tout moment, on
+
+711
+00:36:25,730 --> 00:36:27,390
+est là pour vraiment vous aider.
+
+712
+00:36:27,730 --> 00:36:29,390
+Et je vous souhaite une très bonne chance
+
+713
+00:36:29,390 --> 00:36:31,730
+pour les examens et la suite de l
+
+714
+00:36:31,730 --> 00:36:31,850
+'année.
+
+715
+00:36:32,590 --> 00:36:32,810
+Voilà.
+
+716
+00:36:33,290 --> 00:36:34,990
+Je vous dis au revoir et très bon
+
+717
+00:36:34,990 --> 00:36:35,430
+courage.
+
+718
+00:36:37,950 --> 00:36:39,590
+Au revoir.
+
+719
+00:36:39,810 --> 00:36:40,550
+Bon courage.

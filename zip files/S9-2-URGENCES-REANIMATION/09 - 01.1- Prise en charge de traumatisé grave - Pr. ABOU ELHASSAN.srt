@@ -1,0 +1,1847 @@
+1
+00:00:00,840 --> 00:00:04,200
+Bonjour, nous allons aborder un chapitre concernant la
+
+2
+00:00:04,200 --> 00:00:08,200
+prise en charge des traumatisés graves, cours pour
+
+3
+00:00:08,200 --> 00:00:09,860
+les 5e années de médecine.
+
+4
+00:00:10,640 --> 00:00:13,160
+Les objectifs pédagogiques de ce cours vont être
+
+5
+00:00:13,160 --> 00:00:16,100
+divisés en deux parties, en préhospitalier et à
+
+6
+00:00:16,100 --> 00:00:16,520
+l'hôpital.
+
+7
+00:00:16,680 --> 00:00:19,240
+En préhospitalier, l'étudiant va être capable de
+
+8
+00:00:19,240 --> 00:00:21,640
+définir un traumatisé grave, connaître les critères de
+
+9
+00:00:21,640 --> 00:00:23,340
+gravité d'un traumatisé grave sur l'idée
+
+10
+00:00:23,340 --> 00:00:25,880
+de l'accident, connaître les éléments de mise
+
+11
+00:00:25,880 --> 00:00:28,860
+en condition initiale d'un traumatisé grave avant
+
+12
+00:00:28,860 --> 00:00:32,440
+un transfert dans un centre spécialisé, expliquer le
+
+13
+00:00:32,440 --> 00:00:34,820
+rôle des SMUR et l'organisation du tri
+
+14
+00:00:34,820 --> 00:00:35,780
+et du transport.
+
+15
+00:00:36,380 --> 00:00:38,200
+À l'intérieur de l'hôpital, il faut
+
+16
+00:00:38,200 --> 00:00:41,300
+connaître le bilan lésionnel initial d'un traumatisé
+
+17
+00:00:41,300 --> 00:00:44,460
+grave ainsi que les indications chirurgicales urgentes, savoir
+
+18
+00:00:44,460 --> 00:00:47,760
+entamer une réanimation initiale et connaître le bilan
+
+19
+00:00:47,760 --> 00:00:51,560
+lésionnel secondaire et connaître aussi les éléments de
+
+20
+00:00:51,560 --> 00:00:52,020
+prévention.
+
+21
+00:00:52,840 --> 00:00:55,600
+Le plan à adopter pour ce cours, après
+
+22
+00:00:55,600 --> 00:00:59,220
+une introduction, une note d'épidémiologie marocaine, les
+
+23
+00:00:59,220 --> 00:01:01,500
+éléments de physiopathologie, la prise en charge en
+
+24
+00:01:01,500 --> 00:01:04,099
+préhospitalier, à l'intérieur de l'hôpital et
+
+25
+00:01:04,099 --> 00:01:04,740
+la conclusion.
+
+26
+00:01:05,540 --> 00:01:09,900
+Comme guide d'introduction, anciennement défini, le polytraumatisé
+
+27
+00:01:09,900 --> 00:01:13,440
+ou traumatisé grave était défini comme étant un
+
+28
+00:01:13,440 --> 00:01:16,360
+blessé porteur d'une ou plusieurs lésions traumatiques
+
+29
+00:01:16,360 --> 00:01:21,770
+dont au moins met en jeu le pronostic
+
+30
+00:01:21,770 --> 00:01:22,210
+vital.
+
+31
+00:01:23,510 --> 00:01:26,750
+Cela prétend que le bilan lésionnel a été
+
+32
+00:01:26,750 --> 00:01:27,150
+fait.
+
+33
+00:01:28,090 --> 00:01:31,530
+Actuellement, on définit un traumatisé grave comme étant
+
+34
+00:01:31,530 --> 00:01:34,490
+un blessé victime d'un traumatisme jugé violent,
+
+35
+00:01:35,030 --> 00:01:37,390
+quelles que soient les lésions apparentes.
+
+36
+00:01:37,970 --> 00:01:40,970
+C'est une urgence thérapeutique médico-chirurgicale dont
+
+37
+00:01:40,970 --> 00:01:44,290
+le pronostic dépend essentiellement de la rapidité et
+
+38
+00:01:44,290 --> 00:01:46,190
+aussi de la qualité de prise en charge.
+
+39
+00:01:46,850 --> 00:01:48,830
+La prise en charge doit être initiée sur
+
+40
+00:01:48,830 --> 00:01:51,630
+les lieux de traumatisme et poursuivie durant le
+
+41
+00:01:51,630 --> 00:01:54,650
+transport du patient jusqu'à l'hôpital et
+
+42
+00:01:54,650 --> 00:01:55,970
+aussi en intra-hospitalier.
+
+43
+00:01:56,970 --> 00:02:00,310
+Sur le plan épidémiologique, deux causes sont importantes
+
+44
+00:02:00,310 --> 00:02:04,970
+à connaître chez les polytraumatisés ou les traumatisés
+
+45
+00:02:04,970 --> 00:02:05,410
+graves.
+
+46
+00:02:05,910 --> 00:02:07,750
+En premier lieu, les accidents d'envoi public,
+
+47
+00:02:08,090 --> 00:02:09,729
+c'est la première cause chez nous au
+
+48
+00:02:09,729 --> 00:02:12,310
+Maroc, et les autres causes sont constituées par
+
+49
+00:02:12,310 --> 00:02:14,070
+le chute et les accidents de travail.
+
+50
+00:02:15,110 --> 00:02:17,750
+Au Maroc, le traumatisé grave constitue la première
+
+51
+00:02:17,750 --> 00:02:20,350
+cause de mortalité chez les sujets jeunes, la
+
+52
+00:02:20,350 --> 00:02:22,930
+première cause d'handicap motoronorogique chez les sujets
+
+53
+00:02:22,930 --> 00:02:25,610
+jeunes, la cinquième cause de mortalité, toutes causes
+
+54
+00:02:25,610 --> 00:02:26,250
+confondues.
+
+55
+00:02:26,670 --> 00:02:29,510
+La majorité des décès survient soit sur le
+
+56
+00:02:29,510 --> 00:02:31,410
+lieu de l'accident ou pendant le transport,
+
+57
+00:02:31,810 --> 00:02:33,790
+alors qu'au 30 % des décès surviennent
+
+58
+00:02:33,790 --> 00:02:35,990
+dans les premières heures suivant l'accident et
+
+59
+00:02:35,990 --> 00:02:37,610
+20 % dans les premières semaines.
+
+60
+00:02:38,210 --> 00:02:41,390
+Les séquelles anatomiques et fonctionnelles sont extrêmement lourdes
+
+61
+00:02:41,390 --> 00:02:45,990
+et une perte économique due à ce fléau
+
+62
+00:02:45,990 --> 00:02:49,170
+marocain est évaluée à 12 milliards de dirhams
+
+63
+00:02:49,170 --> 00:02:49,550
+par an.
+
+64
+00:02:51,050 --> 00:02:53,330
+Il faut savoir qu'un véhicule tue au
+
+65
+00:02:53,330 --> 00:02:56,010
+Maroc 15 fois plus qu'en Italie et
+
+66
+00:02:56,010 --> 00:02:58,250
+2 fois 3 plus qu'en Tunisie et
+
+67
+00:02:58,250 --> 00:03:00,550
+1,5 fois plus qu'en Algérie.
+
+68
+00:03:00,970 --> 00:03:02,870
+Les facteurs de risque des traumatisés graves, c
+
+69
+00:03:02,870 --> 00:03:06,270
+'est essentiellement des facteurs dus au comportement des
+
+70
+00:03:06,270 --> 00:03:09,710
+personnes, notamment l'ingestion ou la consommation des
+
+71
+00:03:09,710 --> 00:03:12,550
+produits toxiques, notamment de l'alcool, la vitesse
+
+72
+00:03:12,550 --> 00:03:15,010
+des véhicules, l'état de route, l'absence
+
+73
+00:03:15,010 --> 00:03:16,570
+de porte de casque ou de ceinture de
+
+74
+00:03:16,570 --> 00:03:19,370
+sécurité, le non-respect des mesures préventives au
+
+75
+00:03:19,370 --> 00:03:21,750
+travail et aussi l'imprudence.
+
+76
+00:03:22,230 --> 00:03:25,490
+Sur le plan physiopathologique, 3 mécanismes sont identifiés,
+
+77
+00:03:25,770 --> 00:03:28,430
+les mécanismes directs, fermés ou ouverts, qui sont
+
+78
+00:03:28,430 --> 00:03:30,990
+responsables de lésions de promiscuité ou à distance,
+
+79
+00:03:31,610 --> 00:03:34,710
+les mécanismes directs avec des mouvements de décélération
+
+80
+00:03:34,710 --> 00:03:37,750
+et de cysaïma et les mécanismes par effet
+
+81
+00:03:37,750 --> 00:03:40,030
+blast, par une propagation d'une onde de
+
+82
+00:03:40,030 --> 00:03:41,530
+choc à travers l'organisme.
+
+83
+00:03:42,610 --> 00:03:45,710
+Deuxième élément, il faut toujours chercher les associations
+
+84
+00:03:45,710 --> 00:03:48,890
+lésionnelles, soit par sommation, par exemple, une fracture
+
+85
+00:03:48,890 --> 00:03:51,390
+de deux fémurs va être responsable d'une
+
+86
+00:03:51,390 --> 00:03:53,690
+perte en moyenne de 4 litres par 100.
+
+87
+00:03:55,270 --> 00:03:58,790
+Un autre phénomène dite occultation, un traumatisme crânien
+
+88
+00:03:58,790 --> 00:04:01,830
+grave masque un traumatisme de l'archée cervicale
+
+89
+00:04:01,830 --> 00:04:04,970
+ou par un phénomène d'amplification, un traumatisme
+
+90
+00:04:04,970 --> 00:04:08,750
+crânien avec un traumatisme thoracique vont s'amplifier
+
+91
+00:04:08,750 --> 00:04:12,210
+sur le résultant au niveau de l'organisme.
+
+92
+00:04:12,990 --> 00:04:16,070
+Troisième élément, le traumatisme grave va créer ce
+
+93
+00:04:16,070 --> 00:04:19,810
+qu'on appelle un syndrome inflammatoire systémique avec
+
+94
+00:04:19,810 --> 00:04:23,270
+une défaillance multivessérale et qui va mettre en
+
+95
+00:04:23,270 --> 00:04:26,070
+jeu le pronostic vital des patients à court
+
+96
+00:04:26,070 --> 00:04:27,610
+et à moyen terme.
+
+97
+00:04:30,120 --> 00:04:32,100
+Un mot sur la physiopathologie de la dette
+
+98
+00:04:32,100 --> 00:04:34,880
+respiratoire, le fait d'avoir un traumatisme crânien
+
+99
+00:04:34,880 --> 00:04:36,560
+par exemple, va t'être responsable d'un
+
+100
+00:04:36,560 --> 00:04:38,600
+coma avec inhalation d'eau à l'étranger
+
+101
+00:04:38,600 --> 00:04:40,900
+et une hypotonie musculaire par chute de la
+
+102
+00:04:40,900 --> 00:04:42,820
+langue, ce qui va t'être responsable d
+
+103
+00:04:42,820 --> 00:04:44,880
+'une obstruction des voies aériennes supérieures.
+
+104
+00:04:45,260 --> 00:04:47,920
+Associé à ça, toutes sortes de lésions thoraco
+
+105
+00:04:47,920 --> 00:04:52,600
+-abdominales sur des traumatismes thoraciques initiaux avec éventuellement
+
+106
+00:04:53,220 --> 00:04:55,740
+un hémo ou un pneumothorax, un volet thoracique.
+
+107
+00:04:56,720 --> 00:04:58,620
+Associé à ça, le coma va t'être
+
+108
+00:04:58,620 --> 00:05:02,440
+responsable d'une hyperventilation et notamment un respiratoire
+
+109
+00:05:02,440 --> 00:05:06,680
+qui va engendrer une hypertension associé, s'il
+
+110
+00:05:06,680 --> 00:05:09,160
+y a des lésions du cerveau ou du
+
+111
+00:05:09,160 --> 00:05:11,940
+tronc cérébral, tout ça va concurreur à une
+
+112
+00:05:11,940 --> 00:05:12,820
+dette respiratoire.
+
+113
+00:05:13,440 --> 00:05:14,920
+Ce qu'on respecte par là, ce qu
+
+114
+00:05:14,920 --> 00:05:17,000
+'on peut déduire, c'est que la dette
+
+115
+00:05:17,000 --> 00:05:20,880
+respiratoire est multifactorielle, à la fois par traumatisme
+
+116
+00:05:20,880 --> 00:05:24,480
+direct, à la fois par des conséquences indirectes
+
+117
+00:05:24,480 --> 00:05:28,140
+sur la commode respiratoire et aussi par l
+
+118
+00:05:28,140 --> 00:05:30,740
+'obstruction des voies aériennes supérieures.
+
+119
+00:05:31,500 --> 00:05:34,400
+Concernant la lésion circulatoire ou l'état de
+
+120
+00:05:34,400 --> 00:05:38,020
+choc, toute lésion d'un organe fermé, notamment
+
+121
+00:05:38,020 --> 00:05:40,720
+un foie, une rate ou parfois des lésions
+
+122
+00:05:40,720 --> 00:05:44,140
+hémorragiques extériorisées, va être responsable d'un saignement
+
+123
+00:05:44,140 --> 00:05:45,680
+important avec hémorragie.
+
+124
+00:05:46,420 --> 00:05:48,060
+Laquelle hémorragie va être responsable ?
+
+125
+00:05:48,060 --> 00:05:50,200
+Une hypovolynie qu'il faut la corriger.
+
+126
+00:05:50,880 --> 00:05:53,260
+La section où le traumatisme médulaire ou le
+
+127
+00:05:53,260 --> 00:05:55,840
+traumatisme grave au niveau du crâne va être
+
+128
+00:05:55,840 --> 00:05:59,530
+responsable d'une vasopilogie avec encore un avantage,
+
+129
+00:05:59,670 --> 00:06:00,890
+donc une hypovolynie.
+
+130
+00:06:01,490 --> 00:06:04,750
+Les lésions thoraciques, notamment le pneumothorax ou parfois
+
+131
+00:06:04,750 --> 00:06:07,990
+les tamponades avec traumatisme au niveau de la
+
+132
+00:06:07,990 --> 00:06:11,350
+région péricardique va être responsable à elle d
+
+133
+00:06:11,350 --> 00:06:13,950
+'un obstacle sur le tourvéneux avec une défaillance
+
+134
+00:06:13,950 --> 00:06:17,510
+cardiaque et pas conséquent, une efficacité cardiaque, une
+
+135
+00:06:17,510 --> 00:06:20,610
+hypoxie métissulaire avec un choc et parfois des
+
+136
+00:06:20,610 --> 00:06:23,730
+troubles de rythme cardiaque qui va être responsable
+
+137
+00:06:23,730 --> 00:06:26,550
+d'une diminution du débit sanguin cérébral et
+
+138
+00:06:26,550 --> 00:06:28,050
+d'une anoxie cérébrale.
+
+139
+00:06:28,590 --> 00:06:32,450
+Donc, vous pouvez voir que la détresse hémorragique
+
+140
+00:06:32,450 --> 00:06:35,390
+ou la détresse circulatoire peut engendrer à elle
+
+141
+00:06:35,390 --> 00:06:39,130
+aussi une complication au niveau cérébral.
+
+142
+00:06:40,710 --> 00:06:44,290
+L'hémorragie, lorsqu'il n'est pas jugulé
+
+143
+00:06:44,290 --> 00:06:48,710
+immédiatement, va être responsable d'un phénomène d
+
+144
+00:06:48,710 --> 00:06:53,370
+'hypovolynie réelle avec une hypothermie, une dilution et
+
+145
+00:06:53,370 --> 00:06:55,990
+une acidité importante et c'est ça la
+
+146
+00:06:55,990 --> 00:06:58,870
+triade létale du choc hémorragique qui va être
+
+147
+00:06:58,870 --> 00:07:03,150
+responsable d'une coagulopathie avec une défaillance multivessérale
+
+148
+00:07:03,150 --> 00:07:06,370
+qui va donc engendrer encore davantage la mortalité
+
+149
+00:07:06,370 --> 00:07:10,710
+et va encore plus augmenter le risque de
+
+150
+00:07:10,710 --> 00:07:11,650
+mortalité.
+
+151
+00:07:12,190 --> 00:07:13,770
+Qu'en est-il sur la prise en
+
+152
+00:07:13,770 --> 00:07:14,990
+charge préhospitalière ?
+
+153
+00:07:14,990 --> 00:07:16,610
+Alors, les objectifs de cette prise en charge
+
+154
+00:07:16,610 --> 00:07:18,470
+à l'extérieur de l'hôpital ou au
+
+155
+00:07:18,470 --> 00:07:21,750
+lieu de l'accident sont étalés sur Numéro
+
+156
+00:07:21,750 --> 00:07:24,850
+1, il faut évaluer le patient cliniquement par
+
+157
+00:07:24,850 --> 00:07:27,290
+un examen sommaire mais surtout en mettant en
+
+158
+00:07:27,290 --> 00:07:30,410
+évidence les circonstances de traumatisme obtenir un bilan
+
+159
+00:07:30,410 --> 00:07:33,690
+lésionnel initial commencer la mise en condition de
+
+160
+00:07:33,690 --> 00:07:37,130
+traumatiser et stabilisation de son état clinique surtout
+
+161
+00:07:37,130 --> 00:07:40,870
+sur les trois grandes fonctions respiratoire, hémodynamique et
+
+162
+00:07:40,870 --> 00:07:44,450
+neurologique et assurer son transport vers un centre
+
+163
+00:07:44,450 --> 00:07:45,050
+adapté.
+
+164
+00:07:45,790 --> 00:07:47,910
+Cette période de prise en charge préhospitalière doit
+
+165
+00:07:47,910 --> 00:07:51,150
+être limitée dans nos temps théoriquement entre 60
+
+166
+00:07:51,150 --> 00:07:53,210
+et 90 minutes, pas plus que ça.
+
+167
+00:07:54,130 --> 00:07:57,090
+Sur le plan évaluation de la gravité, il
+
+168
+00:07:57,090 --> 00:07:58,750
+faut se baser sur un des critères les
+
+169
+00:07:58,750 --> 00:08:00,350
+plus connus c'est ce qu'on appelle
+
+170
+00:08:00,350 --> 00:08:02,990
+les critères de Wittel où il y a
+
+171
+00:08:02,990 --> 00:08:06,970
+5 paramètres des variables physiologiques les éléments de
+
+172
+00:08:06,970 --> 00:08:11,310
+la scénétique du traumatisme les lésions anatomiques apparentes
+
+173
+00:08:11,310 --> 00:08:15,070
+la réanimation préhospitalière entretenue et le cinquième item,
+
+174
+00:08:15,350 --> 00:08:17,250
+c'est le terrain qu'il faut évaluer
+
+175
+00:08:17,250 --> 00:08:18,050
+au cas par cas.
+
+176
+00:08:18,050 --> 00:08:20,450
+Qu'en est-il sur les variables physiologiques
+
+177
+00:08:20,450 --> 00:08:20,750
+?
+
+178
+00:08:20,750 --> 00:08:22,410
+Un patient qui a un score de Glasgow
+
+179
+00:08:22,410 --> 00:08:25,790
+inférieur à 13 ou une pression artérie systolique
+
+180
+00:08:25,790 --> 00:08:28,710
+inférieure à 90 mm ou une saturation qui
+
+181
+00:08:28,710 --> 00:08:32,130
+est inférieure à 90% sans oxygène constituent
+
+182
+00:08:32,130 --> 00:08:34,250
+un élément de gravité selon les critères de
+
+183
+00:08:34,250 --> 00:08:34,549
+Wittel.
+
+184
+00:08:34,970 --> 00:08:37,049
+Les éléments de scénétique violente, c'est un
+
+185
+00:08:37,049 --> 00:08:38,890
+patient qui s'est éjecté d'un véhicule
+
+186
+00:08:38,890 --> 00:08:40,789
+ou s'il y a un passager décédé
+
+187
+00:08:40,789 --> 00:08:43,010
+dans le même véhicule ou une chute au
+
+188
+00:08:43,010 --> 00:08:45,330
+-delà de 6 mètres ou une victime projetée
+
+189
+00:08:45,330 --> 00:08:48,350
+ou écrasée ou une appréciation globale sur la
+
+190
+00:08:48,350 --> 00:08:50,570
+déformation de la véhicule sur les vitesses estimées
+
+191
+00:08:50,570 --> 00:08:53,430
+Tout ça, c'est ces éléments dites de
+
+192
+00:08:53,430 --> 00:08:55,390
+scénétique violente Lorsqu'il y a un de
+
+193
+00:08:55,390 --> 00:08:57,630
+ces éléments, le patient est jugé comme étant
+
+194
+00:08:57,630 --> 00:09:00,230
+un traumatisique grave selon les critères de Wittel.
+
+195
+00:09:00,770 --> 00:09:02,710
+Les lésions anatomiques apparentes, tout ce qui est
+
+196
+00:09:02,710 --> 00:09:04,910
+traumatisme pénétrant tout ce qui est volé thoracique,
+
+197
+00:09:04,990 --> 00:09:06,730
+tout ce qui est brûlure sévère avec inhalation
+
+198
+00:09:06,730 --> 00:09:08,410
+de fumée tout ce qui est fracas du
+
+199
+00:09:08,410 --> 00:09:10,650
+bassin si on a une suspicion d'atteinte
+
+200
+00:09:10,650 --> 00:09:13,470
+modulaire ou si on a une amputation d
+
+201
+00:09:13,470 --> 00:09:15,910
+'un membre notamment un poignet ou de la
+
+202
+00:09:15,910 --> 00:09:18,650
+cheville constituent un des éléments de gravité.
+
+203
+00:09:19,210 --> 00:09:20,890
+Est-ce qu'il y avait une réaction
+
+204
+00:09:20,890 --> 00:09:23,190
+préhospitalière notamment la mise en marche d'une
+
+205
+00:09:23,190 --> 00:09:26,950
+ventilation mécanique un remplissage important au-delà de
+
+206
+00:09:26,950 --> 00:09:28,950
+1 000 millilitres de colloïd ou la mise
+
+207
+00:09:28,950 --> 00:09:31,590
+en marche des catécholamines pour restituer un état
+
+208
+00:09:31,590 --> 00:09:34,430
+hémodynamique stable là aussi, un de ces éléments
+
+209
+00:09:34,430 --> 00:09:37,010
+-là constitue un élément de gravité selon les
+
+210
+00:09:37,010 --> 00:09:37,810
+critères de Wittel.
+
+211
+00:09:39,090 --> 00:09:42,690
+Un seul critère de Wittel définit le traumatisé
+
+212
+00:09:42,690 --> 00:09:44,890
+grave sauf pour le terrain à évaluer au
+
+213
+00:09:44,890 --> 00:09:45,430
+cas par cas.
+
+214
+00:09:46,110 --> 00:09:49,330
+A côté de ça, on peut définir un
+
+215
+00:09:49,330 --> 00:09:52,470
+traumatisé de gravité extrême si à sa prise
+
+216
+00:09:52,470 --> 00:09:54,350
+en charge celui de l'accident on a
+
+217
+00:09:54,350 --> 00:09:56,890
+un glacebo inférieur à 13 une tension artérielle
+
+218
+00:09:56,890 --> 00:09:59,710
+systolique inférieure à 160 mmHg ou une tension
+
+219
+00:09:59,710 --> 00:10:01,890
+qui est imprenable ou une saturation qui est
+
+220
+00:10:01,890 --> 00:10:04,570
+inférieure à 80% ces patients-là sont
+
+221
+00:10:04,570 --> 00:10:08,010
+jugés comme étant des patients de gravité extrême.
+
+222
+00:10:08,730 --> 00:10:10,630
+A côté de ça, il faut mettre en
+
+223
+00:10:10,630 --> 00:10:12,970
+évidence que les caractéristiques d'un traumatisé grave
+
+224
+00:10:12,970 --> 00:10:15,430
+sont en l'ordre de 4 la gravité
+
+225
+00:10:15,430 --> 00:10:17,670
+des lésions ne s'additionne pas mais il
+
+226
+00:10:17,670 --> 00:10:20,450
+se multiplie la sous-estimation de la gravité
+
+227
+00:10:20,450 --> 00:10:22,710
+est un piège mortel pour le patient l
+
+228
+00:10:22,710 --> 00:10:24,850
+'oubli de certaines lésions peut avoir des conséquences
+
+229
+00:10:24,850 --> 00:10:27,830
+vitales le temps perdu ne se rattrape pas
+
+230
+00:10:27,830 --> 00:10:29,950
+c'est pour ça que cette étape d
+
+231
+00:10:29,950 --> 00:10:32,310
+'évaluation et de prise en charge préhospitalière ne
+
+232
+00:10:32,310 --> 00:10:34,350
+doit pas dépasser les 90 minutes.
+
+233
+00:10:35,550 --> 00:10:38,090
+En préhospitalier, les objectifs, encore une fois c
+
+234
+00:10:38,090 --> 00:10:39,570
+'est de faire un diagnostic de l'ambiance
+
+235
+00:10:39,570 --> 00:10:40,270
+c'est-à-dire les lieux de l
+
+236
+00:10:40,270 --> 00:10:42,490
+'accident le nombre de blessés, le nombre de
+
+237
+00:10:42,490 --> 00:10:44,790
+décès, les critères du vital il faut protéger,
+
+238
+00:10:45,170 --> 00:10:47,890
+alerter et secourir et il faut commencer à
+
+239
+00:10:47,890 --> 00:10:50,210
+mettre en évidence les patients selon les différentes
+
+240
+00:10:50,210 --> 00:10:53,270
+détresses en commençant par la détresse respiratoire la
+
+241
+00:10:53,270 --> 00:10:56,970
+détresse circulatoire, la détresse neurologique et aussi de
+
+242
+00:10:56,970 --> 00:11:00,170
+gérer la douleur et à la fin, organiser
+
+243
+00:11:00,170 --> 00:11:04,510
+le transport du patient vers le centre hospitalier
+
+244
+00:11:04,510 --> 00:11:06,450
+le mieux adéquat.
+
+245
+00:11:06,450 --> 00:11:09,110
+Sur le lieu d'accident, il faut protéger
+
+246
+00:11:09,110 --> 00:11:12,270
+pour éviter la sur-accident il faut alerter
+
+247
+00:11:12,270 --> 00:11:19,130
+les secours et il faut secourir en faisant
+
+248
+00:11:19,130 --> 00:11:21,370
+un massage cardiaque externe lorsque le patient est
+
+249
+00:11:21,370 --> 00:11:24,550
+en arrêt cardiaque une compression des hémorragies extériorisées
+
+250
+00:11:24,550 --> 00:11:28,090
+et immobilisation de l'axe crânio-rachidien et
+
+251
+00:11:28,090 --> 00:11:29,230
+réchauffer le corps.
+
+252
+00:11:30,270 --> 00:11:31,830
+Quelle stratégie adopter ?
+
+253
+00:11:31,830 --> 00:11:34,790
+L'alerte doit être faite pour le SAMUS
+
+254
+00:11:34,790 --> 00:11:36,950
+MUR le service d'aide médicale urgente et
+
+255
+00:11:36,950 --> 00:11:39,790
+les services mobiles d'urgence et de réanimation
+
+256
+00:11:39,790 --> 00:11:43,030
+au niveau marocain, à l'échelle de Marrakech
+
+257
+00:11:43,030 --> 00:11:45,630
+c'est les numéros qui sont affichés et
+
+258
+00:11:45,630 --> 00:11:49,470
+le 141, c'est un numéro gratuit national
+
+259
+00:11:49,470 --> 00:11:51,690
+c'est le numéro de SAMUS MUR.
+
+260
+00:11:52,610 --> 00:11:55,630
+Évaluation et mise en condition et aussi la
+
+261
+00:11:55,630 --> 00:11:57,810
+transmission au médecin régulateur sur l'état clinique
+
+262
+00:11:57,810 --> 00:12:00,610
+du patient et les mesures réanimatoires entreprises et
+
+263
+00:12:00,610 --> 00:12:03,770
+le transport doit être sous surveillance médicale et
+
+264
+00:12:03,770 --> 00:12:06,130
+le médecin qui va prendre en charge ce
+
+265
+00:12:06,130 --> 00:12:09,350
+patient sur lieu d'accident doit déjà faire
+
+266
+00:12:09,350 --> 00:12:11,470
+une prévention ou prévenir le SAMUS.
+
+267
+00:12:12,470 --> 00:12:14,650
+Les premiers minutes sur le terrain sont extrêmement
+
+268
+00:12:14,650 --> 00:12:17,950
+importantes il faut mettre en évidence le mécanisme
+
+269
+00:12:17,950 --> 00:12:19,630
+de la violence et du traumatisme si la
+
+270
+00:12:19,630 --> 00:12:21,670
+victime est accessible il faut commencer les premiers
+
+271
+00:12:21,670 --> 00:12:23,830
+gestes dans le lieu si la victime est
+
+272
+00:12:23,830 --> 00:12:25,770
+incarcérée il faut commencer ce qu'on appelle
+
+273
+00:12:25,770 --> 00:12:29,330
+la désincarcération avec des gestes de sauvetage si
+
+274
+00:12:29,330 --> 00:12:31,490
+la victime est inconsciente ou avec des douleurs
+
+275
+00:12:31,490 --> 00:12:35,610
+rachidiens il faut avoir donc la hantise de
+
+276
+00:12:35,610 --> 00:12:38,210
+formaliser la rectitude de l'axe tête, cou,
+
+277
+00:12:38,350 --> 00:12:41,450
+tronc avec l'emplace de mineur et mettre
+
+278
+00:12:41,450 --> 00:12:43,470
+le patient d'un matelas à dépression.
+
+279
+00:12:44,170 --> 00:12:47,630
+La désincarcération elle n'est pas faite par
+
+280
+00:12:47,630 --> 00:12:51,230
+les médecins secouristes mais elle est faite plutôt
+
+281
+00:12:51,230 --> 00:12:54,730
+par des équipes spécialisées en désincarcération vous voyez
+
+282
+00:12:54,730 --> 00:12:58,230
+sur les images donc avec un traumatisme avec
+
+283
+00:12:58,230 --> 00:13:02,030
+une impactation frontale donc les équipes de secours
+
+284
+00:13:02,030 --> 00:13:06,950
+de désincarcération vont commencer à agir et puis
+
+285
+00:13:06,950 --> 00:13:09,750
+en même temps on commence à faire quelques
+
+286
+00:13:09,750 --> 00:13:12,230
+gestes réanimatoires sur l'accident.
+
+287
+00:13:16,560 --> 00:13:19,340
+Une fois les secours arrivés trois fonctions vitales
+
+288
+00:13:19,340 --> 00:13:22,740
+sont évoluées à préserver la fonction respiratoire cardio
+
+289
+00:13:22,740 --> 00:13:27,920
+-circulatoire et neurologique selon l'algorithme ABCDE l
+
+290
+00:13:27,920 --> 00:13:31,240
+'impératif dans cette action c'est que l
+
+291
+00:13:31,240 --> 00:13:34,600
+'axe crânio-rachidien doit être maintenu en rectitude
+
+292
+00:13:34,600 --> 00:13:37,420
+tout en ayant la hantise que tout blessé
+
+293
+00:13:37,420 --> 00:13:40,900
+inconscient est suspect d'avoir une lésion rachidienne
+
+294
+00:13:40,900 --> 00:13:43,740
+jusqu'à preuve radiologique du contraire.
+
+295
+00:13:44,960 --> 00:13:46,960
+Quels sont les objectifs de traitement sur le
+
+296
+00:13:46,960 --> 00:13:47,960
+lieu de traumatisme ?
+
+297
+00:13:47,960 --> 00:13:49,900
+Il y a les objectifs respiratoires donc l
+
+298
+00:13:49,900 --> 00:13:52,300
+'oxygénation, la ventilation mécanique le drainage d'un
+
+299
+00:13:52,300 --> 00:13:55,380
+épanchement pleural et les objectifs cardio-vasculaires avec
+
+300
+00:13:55,380 --> 00:13:57,200
+une pression artérie moyenne au-delà de 60
+
+301
+00:13:57,200 --> 00:14:00,060
+mmHg en faisant un remplissage, la transfusion la
+
+302
+00:14:00,060 --> 00:14:02,180
+mise en place des catécholamines mais surtout les
+
+303
+00:14:02,180 --> 00:14:05,860
+gestes de moustase les objectifs neurologiques avec une
+
+304
+00:14:05,860 --> 00:14:08,720
+pression artérie moyenne au-delà de 80 mmHg
+
+305
+00:14:08,720 --> 00:14:12,460
+une sédation, hyperventilation et les objectifs dits périphériques
+
+306
+00:14:12,460 --> 00:14:16,380
+notamment poncement compressible de lésion artérielle et l
+
+307
+00:14:16,380 --> 00:14:19,420
+'immobilisation d'un patient qui a une fracture.
+
+308
+00:14:20,100 --> 00:14:22,400
+La mise en condition il faut rassurer le
+
+309
+00:14:22,400 --> 00:14:26,700
+patient déshabiller le patient mettre le monitorage liberté
+
+310
+00:14:26,700 --> 00:14:29,860
+de voyance supérieure aux thérapies prenez deux amortisseurs
+
+311
+00:14:30,720 --> 00:14:33,600
+14 au siège gauche faire un bilan complet
+
+312
+00:14:33,600 --> 00:14:37,740
+avec groupage RAI, protection thermique des fluides assurer
+
+313
+00:14:37,740 --> 00:14:41,600
+une normothermie l'immobilisation, la sédation plus ou
+
+314
+00:14:41,600 --> 00:14:44,440
+moins l'intubation la ventilation assistée et le
+
+315
+00:14:44,440 --> 00:14:47,020
+drainage d'un pneumothorax suffocant s'il y
+
+316
+00:14:47,020 --> 00:14:49,180
+a une fausse suspicion d'un pneumothorax suffocant
+
+317
+00:14:49,180 --> 00:14:51,560
+Qu'en est-il d'être respiratoire ?
+
+318
+00:14:51,560 --> 00:14:54,000
+Il faut libérer les voyances supérieures donner de
+
+319
+00:14:54,000 --> 00:14:56,100
+l'oxygène, voire intuber le patient s'il
+
+320
+00:14:56,100 --> 00:14:58,700
+y a des indications d'intubation sont présentes
+
+321
+00:14:58,700 --> 00:15:01,400
+Si vous avez un pneumothorax suffocant il faut
+
+322
+00:15:01,400 --> 00:15:05,500
+décomprimer La détresse circulatoire c'est la première
+
+323
+00:15:05,500 --> 00:15:08,360
+cause de mortalité des traumas crâniens graves des
+
+324
+00:15:08,360 --> 00:15:12,800
+traumatismes graves par choc hémorragique ne doit pas
+
+325
+00:15:12,800 --> 00:15:14,920
+retarder le transport vers l'hôpital et les
+
+326
+00:15:14,920 --> 00:15:18,020
+moustaches chirurgicales Il s'assure sur des gestes
+
+327
+00:15:18,020 --> 00:15:22,180
+extrêmement simples réanimement d'un ment fracturé compression
+
+328
+00:15:22,180 --> 00:15:24,700
+d'une plaie artérielle suture d'une plaie
+
+329
+00:15:24,700 --> 00:15:27,800
+du scalp comme on voit sur la photo
+
+330
+00:15:27,800 --> 00:15:31,060
+à côté poncement compressif mettre un garrot des
+
+331
+00:15:31,060 --> 00:15:35,040
+points de compression un tamponnement d'un épais
+
+332
+00:15:35,040 --> 00:15:38,640
+staxis foudroyant qu'on voyait sur l'image
+
+333
+00:15:38,640 --> 00:15:41,620
+en ronde le remplissage vasculaire et la mise
+
+334
+00:15:41,620 --> 00:15:44,840
+en place des vasoconstricteurs et mettre le pantalon
+
+335
+00:15:44,840 --> 00:15:47,620
+anti-choc si on est devant un traumatisme
+
+336
+00:15:47,620 --> 00:15:51,900
+grave Le pantalon anti-choc c'est un
+
+337
+00:15:51,900 --> 00:15:55,100
+il est indiqué lorsque on a une hémorragie
+
+338
+00:15:55,900 --> 00:15:58,580
+abdominopel vienne en contrôler et c'est un
+
+339
+00:15:58,580 --> 00:16:02,380
+procédé de sauvetage qui va permettre de comprimer
+
+340
+00:16:02,380 --> 00:16:05,020
+en externe et aussi d'augmenter le retour
+
+341
+00:16:05,020 --> 00:16:08,560
+veneux d'améliorer l'hémodynamique de façon générale
+
+342
+00:16:08,560 --> 00:16:11,000
+Il est contre-indiqué si vous avez donc
+
+343
+00:16:11,000 --> 00:16:13,380
+un traumatisme thoracique ou un traumatisme du membre
+
+344
+00:16:13,380 --> 00:16:16,640
+les modalités doivent être une installation préventif au
+
+345
+00:16:16,640 --> 00:16:19,900
+niveau il faut intuber les patients et le
+
+346
+00:16:19,900 --> 00:16:23,240
+dégonflage de ce pantalon anti-choc ne doit
+
+347
+00:16:23,240 --> 00:16:25,800
+pas être fait qu'au niveau du bloc
+
+348
+00:16:25,800 --> 00:16:29,340
+opératoire avec l'équipe chirurgicale d'intervention prête
+
+349
+00:16:29,340 --> 00:16:33,500
+à intervenir Au terme de cette évaluation initiale,
+
+350
+00:16:33,580 --> 00:16:35,820
+le traumatisme grave peut être classé en trois
+
+351
+00:16:35,820 --> 00:16:39,000
+catégories soit vous avez un patient dit instable,
+
+352
+00:16:39,400 --> 00:16:41,880
+soit vous avez un patient critique, soit vous
+
+353
+00:16:41,880 --> 00:16:44,760
+avez un patient potentiellement grave en fonction de
+
+354
+00:16:44,760 --> 00:16:47,360
+la situation clinique un patient instable, c'est
+
+355
+00:16:47,360 --> 00:16:49,280
+un patient dont la pression artériste systolique est
+
+356
+00:16:49,280 --> 00:16:51,440
+inférieure à 90 milliards de mercure malgré un
+
+357
+00:16:51,440 --> 00:16:53,840
+remplissage vasculaire ou on a mis en place
+
+358
+00:16:53,840 --> 00:16:56,760
+les catécholamines un patient critique, c'est un
+
+359
+00:16:56,760 --> 00:16:59,800
+traumatisé grave stabilisé au prix d'une expansion
+
+360
+00:16:59,800 --> 00:17:03,500
+volumique et qui revient hémodynamiquement instable à l
+
+361
+00:17:03,500 --> 00:17:06,220
+'arrivée de l'expansion volumique un patient potentiellement
+
+362
+00:17:06,220 --> 00:17:08,339
+grave, c'est un patient qui est traumatisé,
+
+363
+00:17:08,740 --> 00:17:12,339
+stable ou stabilisé par le seul remplissage vasculaire
+
+364
+00:17:13,240 --> 00:17:19,339
+La détresse neurologique elle est on évalue par
+
+365
+00:17:19,339 --> 00:17:22,540
+un score de Glasgow ou le Glasgow comascole,
+
+366
+00:17:23,099 --> 00:17:25,180
+il faut intuber le patient si ce score
+
+367
+00:17:25,180 --> 00:17:27,119
+est inférieur à 8 ou si le patient
+
+368
+00:17:27,119 --> 00:17:30,280
+présente une agitation extrême ou un choc pérennisé
+
+369
+00:17:30,280 --> 00:17:32,060
+ou c'est les patients qui ont eu
+
+370
+00:17:32,060 --> 00:17:34,160
+un arrêt cardiaque l'objectif c'est de
+
+371
+00:17:34,160 --> 00:17:39,600
+limiter les agressions cérébrales systémiques d'origine, secondaire
+
+372
+00:17:39,600 --> 00:17:43,840
+d'origine systémique chez les patients qui sont
+
+373
+00:17:43,840 --> 00:17:46,760
+conscients, il faut toujours chercher les lésions midulaires
+
+374
+00:17:46,760 --> 00:17:50,140
+dont le diagnostic est facile, généralement les traumatisés
+
+375
+00:17:50,140 --> 00:17:54,340
+graves sont avec troubles neurologiques, la suspicion d
+
+376
+00:17:54,340 --> 00:17:57,660
+'avoir des lésions midulaires doit être systématiquement posée
+
+377
+00:17:57,660 --> 00:18:02,020
+et le patient doit être bénéficier d'une
+
+378
+00:18:02,020 --> 00:18:06,360
+minerve avec une traction et maintenir l'axe
+
+379
+00:18:06,360 --> 00:18:12,340
+tronc rachis en rectitude l'analgésie est un
+
+380
+00:18:12,340 --> 00:18:14,840
+volet extrêmement important chez ces patients là parce
+
+381
+00:18:14,840 --> 00:18:17,100
+que c'est des patients qui souffrent énormément
+
+382
+00:18:17,640 --> 00:18:21,280
+et la douleur a des conséquences néfastes chez
+
+383
+00:18:21,280 --> 00:18:23,960
+les traumatisés graves aussi bien sur le système
+
+384
+00:18:23,960 --> 00:18:27,820
+ventilatoire, sur le système circulatoire, sur le système
+
+385
+00:18:27,820 --> 00:18:30,540
+digestif, sur le système musculaire et sur le
+
+386
+00:18:30,540 --> 00:18:33,740
+système psychologique qui va majorer donc la douleur
+
+387
+00:18:33,740 --> 00:18:36,360
+importante non pas traitée va majorer les détresses
+
+388
+00:18:36,360 --> 00:18:39,900
+vitales, il faut immobiliser les fractures dont les
+
+389
+00:18:39,900 --> 00:18:42,700
+entergiques périphériques et les anti-inflammatoires anti-héridien
+
+390
+00:18:42,700 --> 00:18:46,360
+si pas contre indication ou parfois l'hémorphinique.
+
+391
+00:18:47,480 --> 00:18:49,920
+L'immobilisation est un élément important chez ces
+
+392
+00:18:49,920 --> 00:18:52,520
+patients là, il faut mettre une minerve, un
+
+393
+00:18:52,520 --> 00:18:54,720
+appui montonnier qu'on voyait dans la deuxième
+
+394
+00:18:54,720 --> 00:18:56,720
+photo, ne pas mettre des minerves comme ça
+
+395
+00:18:57,400 --> 00:19:00,920
+qui n'ont pas d'appui montonnier on
+
+396
+00:19:00,920 --> 00:19:03,200
+mettra les patients sur des matelas à dépression,
+
+397
+00:19:03,320 --> 00:19:05,220
+des matelas de la coquille qui va maintenir
+
+398
+00:19:05,220 --> 00:19:09,940
+l'axe du corps en rectitude et mettre
+
+399
+00:19:09,940 --> 00:19:12,340
+des attelles s'il y a des fractures
+
+400
+00:19:12,340 --> 00:19:16,820
+au niveau des membres soit inférieurs soit supérieurs.
+
+401
+00:19:17,180 --> 00:19:18,940
+Le monitorage de ces patients doit être vraiment
+
+402
+00:19:18,940 --> 00:19:23,780
+triminimaliste en l'occurrence un scope, une pression
+
+403
+00:19:23,780 --> 00:19:26,360
+artérielle non invasive, une saturation d'oxygène, une
+
+404
+00:19:26,360 --> 00:19:28,840
+capnographie, le monitorage de la température, c'est
+
+405
+00:19:28,840 --> 00:19:31,540
+des patients en hypothermie importante et pas conséquent
+
+406
+00:19:31,540 --> 00:19:33,840
+il faut avoir un réchauffement durant la procédure
+
+407
+00:19:33,840 --> 00:19:37,140
+et bien sûr, le monitorage d'analgésie selon
+
+408
+00:19:37,140 --> 00:19:39,980
+les échelles d'évaluation d'analgésie, notamment le
+
+409
+00:19:39,980 --> 00:19:42,520
+VA ou le VS après ça, donc, il
+
+410
+00:19:42,520 --> 00:19:46,500
+faut réguler le patient vers un centre hospitalier
+
+411
+00:19:46,500 --> 00:19:48,420
+qui va prendre en charge ces patients là,
+
+412
+00:19:48,840 --> 00:19:51,460
+en choisissant le vecteur et en choisissant aussi
+
+413
+00:19:51,460 --> 00:19:52,660
+le service receveur.
+
+414
+00:19:52,940 --> 00:19:55,660
+La protection thermique, elle est de mise et
+
+415
+00:19:55,660 --> 00:19:58,240
+aussi, il faut prévenir les infections en ayant
+
+416
+00:19:58,240 --> 00:20:00,620
+une attitude d'asypsie des gestes avec protection
+
+417
+00:20:00,620 --> 00:20:04,360
+des plaies et donner d'antibio-prophylaxie s
+
+418
+00:20:04,360 --> 00:20:05,220
+'il y a une indication.
+
+419
+00:20:06,180 --> 00:20:09,720
+Le médecin doit organiser le transport vers le
+
+420
+00:20:09,720 --> 00:20:12,920
+centre le plus spécialisé ayant un plateau technique
+
+421
+00:20:13,500 --> 00:20:16,500
+dès que la stabilisation du patient avec une
+
+422
+00:20:16,500 --> 00:20:19,680
+surveillance clinique et paraclinique dureront toute la procédure
+
+423
+00:20:20,540 --> 00:20:23,900
+tant en poursuivant les mesures de réanimation même
+
+424
+00:20:23,900 --> 00:20:27,100
+pendant le transport et le vecteur doit être
+
+425
+00:20:27,100 --> 00:20:29,680
+choisi en fonction du cas et en fonction
+
+426
+00:20:29,680 --> 00:20:34,100
+de la gravité du patient Comme synthèse une
+
+427
+00:20:34,100 --> 00:20:37,240
+fois intervenu, donc, il faut extraire la victime
+
+428
+00:20:37,240 --> 00:20:40,180
+du lieu de l'accident et évaluer la
+
+429
+00:20:40,180 --> 00:20:45,730
+gravité traumatisée sur le score de vitesses après
+
+430
+00:20:45,730 --> 00:20:47,730
+ça, donc, il faut avoir un conditionnement de
+
+431
+00:20:47,730 --> 00:20:50,910
+traumatiser avec une immobilisation, pose de doigt véneuse
+
+432
+00:20:50,910 --> 00:20:54,610
+périphérique, mise sous oxygène, compression des hémorragies et
+
+433
+00:20:54,610 --> 00:20:58,950
+la prise en charge des détresses respiratoires circulatoire
+
+434
+00:20:58,950 --> 00:21:03,190
+et neurologique dans ce sens là après, il
+
+435
+00:21:03,190 --> 00:21:06,810
+faut classifier ou classer les traumatisés en instables,
+
+436
+00:21:06,950 --> 00:21:10,070
+critiques ou prétentieusement graves et le médecin doit
+
+437
+00:21:10,070 --> 00:21:14,550
+réguler, doit organiser la régulation avec un transfert
+
+438
+00:21:14,550 --> 00:21:17,410
+du patient vers le centre le plus adapté
+
+439
+00:21:17,410 --> 00:21:21,490
+la procédure en entier doit ne pas dépasser
+
+440
+00:21:21,490 --> 00:21:27,450
+les 90 minutes récapitulant les 4 étapes de
+
+441
+00:21:27,450 --> 00:21:30,150
+la prise en charge hospitalière du traumatisé grave
+
+442
+00:21:30,150 --> 00:21:32,510
+1, il faut reconnaître et traiter le détresse
+
+443
+00:21:32,510 --> 00:21:36,070
+vital et l'objectif principal, c'est éviter
+
+444
+00:21:36,070 --> 00:21:38,650
+le décès immédiat, 30% des patients décèdent
+
+445
+00:21:38,650 --> 00:21:42,390
+sur le lieu de l'accident initialement deuxième
+
+446
+00:21:42,390 --> 00:21:45,990
+élément, examen clinique et gestes complémentaires, l'objectif
+
+447
+00:21:45,990 --> 00:21:48,950
+c'est stopper le saignement et limiter les
+
+448
+00:21:48,950 --> 00:21:52,510
+agressions cérébrales secondaires d'origine systémique pour éviter
+
+449
+00:21:52,510 --> 00:21:56,030
+l'aggravation des lésions 3, faire un bilan
+
+450
+00:21:56,030 --> 00:21:58,710
+et orientation des patients vers l'hôpital plus
+
+451
+00:21:58,710 --> 00:22:02,030
+adapté dans un objectif de créer ce qu
+
+452
+00:22:02,030 --> 00:22:03,330
+'on appelle le damage control, c'est-à
+
+453
+00:22:03,330 --> 00:22:05,770
+-dire arrêter le saignement et optimiser la queue
+
+454
+00:22:05,770 --> 00:22:09,490
+hospitalière afin de diminuer la morbidité et la
+
+455
+00:22:09,490 --> 00:22:13,510
+mortalité et quatrième étape c'est transport médicalisé
+
+456
+00:22:13,510 --> 00:22:16,950
+avec une continuité de soins comme objectif, ne
+
+457
+00:22:16,950 --> 00:22:19,050
+pas perdre du temps afin de diminuer la
+
+458
+00:22:19,050 --> 00:22:20,910
+morbidité et la mortalité.
+
+459
+00:22:21,390 --> 00:22:23,290
+Je vous remercie c'est la première étape
+
+460
+00:22:23,290 --> 00:22:25,430
+de notre cours la deuxième étape constitue la
+
+461
+00:22:25,430 --> 00:22:28,730
+prise en charge hospitalière, on va la voir
+
+462
+00:22:28,730 --> 00:22:29,650
+tout de suite

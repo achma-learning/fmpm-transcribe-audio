@@ -1,0 +1,2319 @@
+1
+00:00:00,650 --> 00:00:03,010
+Nous arrivons à la troisième partie de ce
+
+2
+00:00:03,010 --> 00:00:06,090
+chapitre et on va étudier les tests et
+
+3
+00:00:06,090 --> 00:00:08,710
+les examens biologiques à mettre en œuvre pour
+
+4
+00:00:08,710 --> 00:00:12,290
+l'exploration des anomalies du métabolisme lipidique.
+
+5
+00:00:12,810 --> 00:00:14,210
+Mais quand est-ce qu'on peut le
+
+6
+00:00:14,210 --> 00:00:14,750
+pratiquer?
+
+7
+00:00:14,930 --> 00:00:16,470
+On peut le faire dans un but de
+
+8
+00:00:16,470 --> 00:00:20,310
+dépistage afin d'évaluer le risque cardiovasculaire chez
+
+9
+00:00:20,310 --> 00:00:22,730
+tout un individu au moins une fois dans
+
+10
+00:00:22,730 --> 00:00:24,510
+sa vie, chez l'homme à partir de
+
+11
+00:00:24,510 --> 00:00:26,830
+40 ans, chez la femme à partir de
+
+12
+00:00:26,830 --> 00:00:28,570
+50 ans ou à la ménopause.
+
+13
+00:00:29,190 --> 00:00:30,990
+Les tests à pratiquer, c'est ce qu
+
+14
+00:00:30,990 --> 00:00:32,750
+'on appelle le bilan lipidique de base.
+
+15
+00:00:33,290 --> 00:00:35,850
+Ce bilan comprend l'étude de l'aspect
+
+16
+00:00:35,850 --> 00:00:38,670
+du sérum, le dosage du cholestérol, le dosage
+
+17
+00:00:38,670 --> 00:00:42,870
+des triglycérides, celui du cholestérol des HDL et
+
+18
+00:00:42,870 --> 00:00:47,270
+une évaluation du cholestérol des LDL par formule
+
+19
+00:00:47,270 --> 00:00:47,870
+de calcul.
+
+20
+00:00:48,350 --> 00:00:50,450
+Sauf s'il y a une élévation très
+
+21
+00:00:50,450 --> 00:00:53,630
+très importante de triglycérides, on va dans ce
+
+22
+00:00:53,630 --> 00:00:56,090
+cas faire le dosage direct des LDL.
+
+23
+00:00:57,210 --> 00:00:59,710
+Lorsqu'on a pratiqué ce bilan et lorsqu
+
+24
+00:00:59,710 --> 00:01:01,610
+'il s'avère normal, il n'y a
+
+25
+00:01:01,610 --> 00:01:05,670
+pas lieu de le refaire avant 5 ans,
+
+26
+00:01:05,770 --> 00:01:07,650
+sauf s'il y a survenu d'une
+
+27
+00:01:07,650 --> 00:01:10,610
+pathologie ou d'un facteur de risque tel
+
+28
+00:01:10,610 --> 00:01:13,950
+qu'un événement cardiovasculaire, une prise de poids,
+
+29
+00:01:14,430 --> 00:01:17,290
+un changement dans les habitudes alimentaires ou l
+
+30
+00:01:17,290 --> 00:01:21,330
+'introduction d'un traitement qui peut entraîner une
+
+31
+00:01:21,330 --> 00:01:23,730
+perturbation du métabolisme des lipides.
+
+32
+00:01:26,330 --> 00:01:30,010
+L'exploration des anomalies du métabolisme lipidique est
+
+33
+00:01:30,010 --> 00:01:34,050
+justifiée indépendamment de l'âge, en présence de
+
+34
+00:01:34,050 --> 00:01:38,910
+maladies cardiovasculaires avérées, en cas d'hypertension artérielle,
+
+35
+00:01:39,650 --> 00:01:43,650
+en cas de diabète ou de tabagisme actuel
+
+36
+00:01:43,650 --> 00:01:46,830
+ou ce vrai depuis moins de 3 ans,
+
+37
+00:01:47,450 --> 00:01:50,990
+en présence d'une obésité, en présence de
+
+38
+00:01:50,990 --> 00:01:55,690
+maladies auto-immunes ou maladies inflammatoires chroniques, lorsqu
+
+39
+00:01:55,690 --> 00:01:58,030
+'il y a un risque élevé d'hyperlipidémie
+
+40
+00:01:58,030 --> 00:02:02,850
+secondaire, surtout en cas de pathologie thyroïdienne, hépatique
+
+41
+00:02:02,850 --> 00:02:06,610
+ou rénale, en présence de signes cliniques évocateurs,
+
+42
+00:02:06,790 --> 00:02:10,009
+c'est-à-dire comme exemple des dépôts
+
+43
+00:02:10,009 --> 00:02:14,370
+extravasculaires de lipides ou bien en cas d
+
+44
+00:02:14,370 --> 00:02:18,990
+'antécédents familiaux de dyslipidémie ou de maladies cardiovasculaires
+
+45
+00:02:21,120 --> 00:02:21,780
+précoces.
+
+46
+00:02:21,800 --> 00:02:26,360
+Une dernière utilité de l'exploration du métabolisme
+
+47
+00:02:26,360 --> 00:02:28,960
+lipidique, c'est qu'il est utilisé pour
+
+48
+00:02:28,960 --> 00:02:31,260
+le suivi et la surveillance de traitements lorsqu
+
+49
+00:02:31,260 --> 00:02:34,320
+'on a déjà découvert une dyslipidémie et lorsqu
+
+50
+00:02:34,320 --> 00:02:37,400
+'on a instauré soit des mesures hygiéno-diététiques,
+
+51
+00:02:37,640 --> 00:02:43,340
+soit un traitement l'hypémion et dans ce
+
+52
+00:02:43,340 --> 00:02:48,240
+cas, on va prendre comme cible la valeur
+
+53
+00:02:48,240 --> 00:02:54,120
+de cholestérol des LDL en fonction de situation
+
+54
+00:02:54,120 --> 00:02:57,080
+clinique et en fonction de facteurs de risque
+
+55
+00:02:57,080 --> 00:03:00,460
+cumulés par chaque patient, comme on va le
+
+56
+00:03:00,460 --> 00:03:01,380
+voir par la suite.
+
+57
+00:03:03,910 --> 00:03:07,730
+Avant d'entamer tout examen biologique, une attention
+
+58
+00:03:07,730 --> 00:03:10,990
+particulière doit être donnée à la phase pré
+
+59
+00:03:10,990 --> 00:03:14,990
+-analytique quant au respect de certaines règles et
+
+60
+00:03:14,990 --> 00:03:17,870
+le médecin prescripteur doit insister auprès de son
+
+61
+00:03:17,870 --> 00:03:20,330
+patient pour le respect d'un jeûne d
+
+62
+00:03:20,330 --> 00:03:23,530
+'au moins 12 heures et qui va conditionner
+
+63
+00:03:23,530 --> 00:03:28,270
+en effet la fiabilité des résultats après analyse.
+
+64
+00:03:29,430 --> 00:03:32,110
+Au niveau du laboratoire, on reçoit le patient
+
+65
+00:03:32,110 --> 00:03:35,250
+et on va faire le prélèvement sanguin, on
+
+66
+00:03:35,250 --> 00:03:39,090
+va recueillir le sang veineux sur subsec ou
+
+67
+00:03:39,090 --> 00:03:41,910
+épariné et par la suite, on pratique les
+
+68
+00:03:41,910 --> 00:03:45,350
+examens biologiques et pour ces examens, on va
+
+69
+00:03:45,350 --> 00:03:48,770
+différencier un bilan de base qui englobe entre
+
+70
+00:03:48,770 --> 00:03:50,570
+autres l'étude, et que l'on a
+
+71
+00:03:50,570 --> 00:03:53,670
+déjà bien sûr citée auparavant, qui englobe l
+
+72
+00:03:53,670 --> 00:03:55,510
+'étude de l'aspect du sérum en plus
+
+73
+00:03:55,510 --> 00:03:59,530
+de dosage du cholestérol total des triglycérides, du
+
+74
+00:03:59,530 --> 00:04:03,210
+cholestérol des HDL et une évaluation du cholestérol
+
+75
+00:04:03,210 --> 00:04:07,210
+du LDL ou un dosage de ce cholestérol.
+
+76
+00:04:08,450 --> 00:04:10,490
+Parfois, on est amené à faire d'autres
+
+77
+00:04:10,490 --> 00:04:12,910
+examens qu'on va classer parmi les examens
+
+78
+00:04:12,910 --> 00:04:16,450
+spécialisés tels que le dosage de la peau
+
+79
+00:04:16,450 --> 00:04:19,630
+protéine A1, de la peau protéine B, quelquefois
+
+80
+00:04:19,630 --> 00:04:23,250
+la lipoprotéine petit A et l'électrophoresse de
+
+81
+00:04:23,250 --> 00:04:27,250
+lipoprotéines séries qu'on appelle le lipidogramme.
+
+82
+00:04:27,800 --> 00:04:30,230
+Dans d'autres situations et dans le but
+
+83
+00:04:30,230 --> 00:04:33,890
+d'un diagnostic étiologique, on peut être amené
+
+84
+00:04:33,890 --> 00:04:37,950
+également à faire l'étude de mutations génétiques
+
+85
+00:04:37,950 --> 00:04:41,630
+pour l'exploration de certaines hypercholestérolémies familiales.
+
+86
+00:04:41,710 --> 00:04:45,850
+Parfois, on peut également faire le dosage de
+
+87
+00:04:45,850 --> 00:04:51,070
+certains enzymes qui sont déficitaires dans certains troubles
+
+88
+00:04:51,070 --> 00:04:53,930
+du métabolisme des lipoprotéines et que je n
+
+89
+00:04:53,930 --> 00:04:55,790
+'ai pas cité ici sur cette plaque.
+
+90
+00:04:58,880 --> 00:05:01,800
+Pour étudier l'aspect du sérum et pratiquer
+
+91
+00:05:01,800 --> 00:05:05,300
+le reste des examens biologiques, on va centrifugé
+
+92
+00:05:05,300 --> 00:05:06,920
+l'échantillon sanguin, c'est à dire on
+
+93
+00:05:06,920 --> 00:05:09,640
+va le faire tourner dans une centrifugeuse à
+
+94
+00:05:09,640 --> 00:05:12,060
+une vitesse de 3000 tours par minute pendant
+
+95
+00:05:12,060 --> 00:05:12,840
+15 minutes.
+
+96
+00:05:13,340 --> 00:05:15,120
+Le but, c'est de séparer le sérum
+
+97
+00:05:15,120 --> 00:05:17,580
+ou le plasma du culo-globulaire qui contient
+
+98
+00:05:17,580 --> 00:05:19,160
+les éléments figurés du sang.
+
+99
+00:05:19,780 --> 00:05:24,980
+Et justement, ce sérum et plasma va se
+
+100
+00:05:24,980 --> 00:05:30,900
+présenter sous forme de surnageant clair et limpide.
+
+101
+00:05:31,460 --> 00:05:33,660
+Et normalement, c'est ce qu'on trouve
+
+102
+00:05:33,660 --> 00:05:36,860
+chez une personne indemne de toute dyslipidémie.
+
+103
+00:05:37,060 --> 00:05:38,640
+N'empêche qu'on peut avoir le même
+
+104
+00:05:38,640 --> 00:05:41,000
+aspect de sérum chez une personne qui présente
+
+105
+00:05:41,000 --> 00:05:43,600
+une concentration élevée en cholestérol.
+
+106
+00:05:43,680 --> 00:05:43,900
+Pourquoi?
+
+107
+00:05:44,140 --> 00:05:47,580
+Parce que les lipoparticules riches en cholestérol, à
+
+108
+00:05:47,580 --> 00:05:51,620
+savoir les HDL et les LTL, ont des
+
+109
+00:05:51,620 --> 00:05:53,940
+petites tailles avec une densité plus ou moins
+
+110
+00:05:53,940 --> 00:05:56,600
+élevée et qui ne n'influencent pas justement
+
+111
+00:05:56,600 --> 00:05:59,200
+l'aspect du sérum ou du plasma.
+
+112
+00:05:59,600 --> 00:06:02,060
+Par contre, lorsqu'on est en présence de
+
+113
+00:06:02,060 --> 00:06:05,740
+lipoparticules riches en triglycérides, en l'occurrence les
+
+114
+00:06:05,740 --> 00:06:09,020
+PLTL et les chino-microns, on va avoir
+
+115
+00:06:09,020 --> 00:06:12,720
+un aspect trouble au palaison, voire lactaisant comme
+
+116
+00:06:12,720 --> 00:06:15,000
+ici sur ces deux images.
+
+117
+00:06:16,600 --> 00:06:19,780
+Lorsqu'on est en présence d'un échantillon
+
+118
+00:06:19,780 --> 00:06:22,340
+trouble au palaison ou lactaisant, on va faire
+
+119
+00:06:22,340 --> 00:06:24,060
+pratiquer ce qu'on appelle un test de
+
+120
+00:06:24,060 --> 00:06:27,300
+crémage qui consiste à confirmer ou non la
+
+121
+00:06:27,300 --> 00:06:28,900
+présence de chino-microns.
+
+122
+00:06:29,400 --> 00:06:30,360
+Comment on va procéder?
+
+123
+00:06:30,480 --> 00:06:32,500
+On va placer le tube ou l'échantillon
+
+124
+00:06:32,500 --> 00:06:37,400
+plasmatique océrique pendant 12 à 24 heures au
+
+125
+00:06:37,400 --> 00:06:39,760
+réfrigérateur à plus 4 degrés Celsius.
+
+126
+00:06:40,080 --> 00:06:43,460
+Et après l'écoulement de cette durée, on
+
+127
+00:06:43,460 --> 00:06:45,160
+va observer l'aspect du sérum.
+
+128
+00:06:45,340 --> 00:06:47,920
+On va donc être en présence de trois
+
+129
+00:06:47,920 --> 00:06:52,300
+situations possibles, soit le sérum va se présenter
+
+130
+00:06:52,300 --> 00:06:53,860
+comme il était avant, c'est à dire
+
+131
+00:06:53,860 --> 00:06:58,420
+qu'il va être uniformément trouble.
+
+132
+00:06:59,100 --> 00:07:01,860
+Et dans ce cas, on va plutôt suspecter
+
+133
+00:07:01,860 --> 00:07:05,880
+la présence ou l'excès de VLTL.
+
+134
+00:07:06,380 --> 00:07:09,420
+Lorsqu'il va se présenter sous forme d
+
+135
+00:07:09,420 --> 00:07:13,640
+'une couche crémeuse qui va être à la
+
+136
+00:07:13,640 --> 00:07:15,880
+surface, se placer à la surface du sérum
+
+137
+00:07:15,880 --> 00:07:20,480
+avec le reste du sérum qui devient limpide
+
+138
+00:07:20,480 --> 00:07:24,100
+et clair, on va plutôt suspecter la présence
+
+139
+00:07:24,100 --> 00:07:27,860
+de chino-microns qui ne sont pas présentes
+
+140
+00:07:27,860 --> 00:07:30,260
+normalement dans un sérum normal.
+
+141
+00:07:30,660 --> 00:07:34,140
+Lorsque la troisième situation, c'est lorsqu'on
+
+142
+00:07:34,140 --> 00:07:38,060
+va avoir la présence de cette couche crémeuse
+
+143
+00:07:38,060 --> 00:07:41,760
+à la surface du sérum, mais le reste
+
+144
+00:07:41,760 --> 00:07:44,500
+du sérum reste quand même trouble, plus ou
+
+145
+00:07:44,500 --> 00:07:45,060
+moins trouble.
+
+146
+00:07:45,060 --> 00:07:48,680
+Et dans ce cas, on va suspecter une
+
+147
+00:07:48,680 --> 00:07:52,460
+dyslipidémie mixte, c'est à dire la présence
+
+148
+00:07:52,460 --> 00:07:56,600
+de chino-microns et un excès de VLTL.
+
+149
+00:07:58,420 --> 00:08:00,640
+Après l'étude de l'aspect du sérum,
+
+150
+00:08:00,800 --> 00:08:03,160
+on pratique les dosages biologiques.
+
+151
+00:08:03,340 --> 00:08:07,840
+On va commencer par celui des triglycérides, dont
+
+152
+00:08:07,840 --> 00:08:10,260
+le principe est basé sur une technique enzymatique.
+
+153
+00:08:10,260 --> 00:08:14,040
+On va tout d'abord hydrolyser les triglycérides
+
+154
+00:08:14,040 --> 00:08:16,320
+sous l'action d'une lipase en glycérol
+
+155
+00:08:16,320 --> 00:08:19,980
+et en acide gras, lequel glycérol va être
+
+156
+00:08:19,980 --> 00:08:24,740
+phosphorisé par une glycérol kinase en glycérol-3
+
+157
+00:08:24,740 --> 00:08:28,880
+-phosphate, puis le glycérol-3-phosphate va être
+
+158
+00:08:28,880 --> 00:08:34,700
+oxydé par une glycérol-3-phosphoxydase en dihydroxyacétone
+
+159
+00:08:34,700 --> 00:08:38,380
+-phosphate et le peroxyde d'hydrogène.
+
+160
+00:08:38,380 --> 00:08:42,059
+Ce peroxyde d'hydrogène va être transformé sous
+
+161
+00:08:42,059 --> 00:08:45,360
+l'action d'une peroxydase et en présence
+
+162
+00:08:45,360 --> 00:08:50,740
+de paraclorophénomène plus laminocâtre antipéril en une kinoménine
+
+163
+00:08:50,740 --> 00:08:55,420
+qui va dans la densité optique et mesurable
+
+164
+00:08:55,420 --> 00:08:56,940
+à 505 nanomètres.
+
+165
+00:08:57,620 --> 00:08:59,800
+Et l'intensité de cette densité optique est
+
+166
+00:08:59,800 --> 00:09:04,900
+justement proportionnelle à la concentration en triglycérides de
+
+167
+00:09:04,900 --> 00:09:05,320
+PEPA.
+
+168
+00:09:07,780 --> 00:09:10,460
+Il faut savoir que les valeurs physiologiques varient
+
+169
+00:09:10,460 --> 00:09:12,340
+en fonction du sexe.
+
+170
+00:09:12,540 --> 00:09:15,840
+Chez l'homme, on va trouver des concentrations
+
+171
+00:09:15,840 --> 00:09:17,400
+de l'ordre de 0,8 à 1
+
+172
+00:09:17,400 --> 00:09:20,420
+,8 millimoles, soit 0,6 à 1,6
+
+173
+00:09:20,420 --> 00:09:21,260
+gramme par litre.
+
+174
+00:09:21,780 --> 00:09:23,540
+Chez la femme, c'est 0,5 à
+
+175
+00:09:23,540 --> 00:09:26,200
+1,6 millimoles par litre, soit 0,4
+
+176
+00:09:26,200 --> 00:09:28,580
+à 1,4 gramme par litre.
+
+177
+00:09:29,360 --> 00:09:31,500
+Le deuxième dosage, c'est le dosage du
+
+178
+00:09:31,500 --> 00:09:34,840
+cholestérol total dont le principe est basé également
+
+179
+00:09:34,840 --> 00:09:36,460
+sur une technique enzymatique.
+
+180
+00:09:36,740 --> 00:09:40,280
+Pour faire le dosage du cholestérol total, on
+
+181
+00:09:40,280 --> 00:09:43,460
+va faire le dosage du cholestérol libre et
+
+182
+00:09:43,460 --> 00:09:44,860
+du cholestérol estérifié.
+
+183
+00:09:44,980 --> 00:09:47,220
+Mais il faut d'abord le libérer de
+
+184
+00:09:47,220 --> 00:09:51,800
+sa liaison d'estérification avec les acides rares.
+
+185
+00:09:52,280 --> 00:09:55,060
+Donc, on va utiliser un cholestérol estérase qui
+
+186
+00:09:55,060 --> 00:09:57,340
+va libérer justement le cholestérol.
+
+187
+00:09:57,340 --> 00:10:03,640
+Et le cholestérol libéré, en plus du cholestérol
+
+188
+00:10:03,640 --> 00:10:07,380
+libre, va subir une oxydation sous l'action
+
+189
+00:10:07,380 --> 00:10:10,060
+du cholestérol oxydase qui va nous donner le
+
+190
+00:10:10,060 --> 00:10:13,720
+cholestin 4-one-trois, plus la molécule de
+
+191
+00:10:13,720 --> 00:10:14,960
+peroxyde d'hydrogène.
+
+192
+00:10:15,500 --> 00:10:20,220
+Donc, cette même molécule, on va l'utiliser
+
+193
+00:10:20,220 --> 00:10:23,180
+pour ce qu'on appelle la réaction de
+
+194
+00:10:23,180 --> 00:10:23,800
+révélation.
+
+195
+00:10:23,800 --> 00:10:25,980
+Donc, en présence de phényl et d'une
+
+196
+00:10:25,980 --> 00:10:30,720
+aminocâtre antipérille, ça va donner une conénémie dont
+
+197
+00:10:30,720 --> 00:10:35,660
+la densité optique va augmenter proportionnellement à la
+
+198
+00:10:35,660 --> 00:10:39,620
+concentration du cholestérol total et qui est mesurable
+
+199
+00:10:39,620 --> 00:10:42,880
+à une longueur de 505 nanomètres tant pour
+
+200
+00:10:42,880 --> 00:10:44,960
+ce que l'on a vu pour les
+
+201
+00:10:44,960 --> 00:10:45,740
+triglycérides.
+
+202
+00:10:47,520 --> 00:10:51,220
+Les valeurs physiologiques du cholestérol total varient entre
+
+203
+00:10:51,220 --> 00:10:53,880
+1,4 et 2 grammes par litre ou
+
+204
+00:10:53,880 --> 00:10:57,600
+3,6 et 5,2 millimètres par litre.
+
+205
+00:10:57,720 --> 00:11:00,220
+Chez une population, notez bien, de moins de
+
+206
+00:11:00,220 --> 00:11:02,400
+40 ans est indemne de tout facteur de
+
+207
+00:11:02,400 --> 00:11:03,500
+risque cardiovasculaire.
+
+208
+00:11:04,020 --> 00:11:05,320
+Il faut noter qu'il y a présence
+
+209
+00:11:05,320 --> 00:11:07,920
+de variations physiologiques, surtout avec l'âge.
+
+210
+00:11:08,080 --> 00:11:10,960
+On va noter une augmentation de la cholestérolémie
+
+211
+00:11:10,960 --> 00:11:12,920
+à partir de 40 ans et jusqu'à
+
+212
+00:11:12,920 --> 00:11:13,580
+60 ans.
+
+213
+00:11:13,580 --> 00:11:17,720
+Puis, on va avoir une légère diminution chez
+
+214
+00:11:17,720 --> 00:11:19,680
+l'homme à partir de 60 ans.
+
+215
+00:11:20,520 --> 00:11:24,500
+Avec le sexe, on va noter des valeurs
+
+216
+00:11:24,500 --> 00:11:27,940
+inférieures chez la femme en période d'activité
+
+217
+00:11:27,940 --> 00:11:28,640
+génitale.
+
+218
+00:11:29,400 --> 00:11:33,140
+Puis, à la ménopause, les valeurs de cholestérolémie
+
+219
+00:11:33,140 --> 00:11:35,040
+vont rejoindre celles de l'homme.
+
+220
+00:11:35,980 --> 00:11:37,800
+Il y a une augmentation également de la
+
+221
+00:11:37,800 --> 00:11:41,520
+cholestérolémie avec une prise de poids en cas
+
+222
+00:11:41,520 --> 00:11:44,800
+d'obésité et lorsque les apports alimentaires sont
+
+223
+00:11:44,800 --> 00:11:47,460
+riches en cholestérol et en graisse saturée.
+
+224
+00:11:47,820 --> 00:11:50,300
+Par contre, on va noter une diminution de
+
+225
+00:11:50,300 --> 00:11:53,200
+la cholestérolémie avec l'exercice physique.
+
+226
+00:11:53,380 --> 00:11:56,560
+C'est pourquoi on va conseiller aux personnes
+
+227
+00:11:56,560 --> 00:12:01,860
+qui présentent une hypercholestérolémie de faire de l
+
+228
+00:12:01,860 --> 00:12:07,640
+'activité sportive, puisque l'élévation du cholestérol est
+
+229
+00:12:07,640 --> 00:12:10,740
+elle-même prise comme facteur de risque cardiovasculaire.
+
+230
+00:12:13,020 --> 00:12:16,540
+Pour faire le dosage du cholestérol des HDL,
+
+231
+00:12:16,800 --> 00:12:19,360
+on va utiliser la même technique pour le
+
+232
+00:12:19,360 --> 00:12:22,040
+dosage du cholestérol total, c'est-à-dire
+
+233
+00:12:22,040 --> 00:12:23,280
+la technique enzymatique.
+
+234
+00:12:23,460 --> 00:12:25,600
+Mais avant, il faut se débarrasser de l
+
+235
+00:12:25,600 --> 00:12:28,980
+'interférence du cholestérol des LDL et des VLDL.
+
+236
+00:12:29,520 --> 00:12:32,320
+Pour ce faire, on peut utiliser différentes techniques,
+
+237
+00:12:32,580 --> 00:12:35,720
+soit la technique de précipitation qui va utiliser
+
+238
+00:12:35,720 --> 00:12:38,920
+un réactif qui va précipiter les LDL et
+
+239
+00:12:38,920 --> 00:12:39,780
+les VLDL.
+
+240
+00:12:39,780 --> 00:12:42,020
+Il s'agit de l'acide phosphotoxique et
+
+241
+00:12:42,020 --> 00:12:43,560
+des chlorures de magnésium.
+
+242
+00:12:44,160 --> 00:12:48,220
+On va laisser incuber le tube ou l
+
+243
+00:12:48,220 --> 00:12:50,040
+'échantillon en présence de ce réactif.
+
+244
+00:12:50,500 --> 00:12:53,740
+Et après, on va le centrifuger et pratiquer
+
+245
+00:12:53,740 --> 00:12:57,060
+le dosage du cholestérol des HDL dans le
+
+246
+00:12:57,060 --> 00:12:57,640
+surnageant.
+
+247
+00:12:58,340 --> 00:13:00,480
+Soit on peut utiliser ce qu'on appelle
+
+248
+00:13:00,480 --> 00:13:01,960
+un dosage direct.
+
+249
+00:13:01,960 --> 00:13:05,940
+On va utiliser soit des polyanions, soit des
+
+250
+00:13:05,940 --> 00:13:09,160
+anticorps dirigés contre la peau protéine B qui
+
+251
+00:13:09,160 --> 00:13:11,860
+vont bloquer les fractions des LDL et des
+
+252
+00:13:11,860 --> 00:13:16,260
+VLDL en les empêchant d'inter-réagir dans
+
+253
+00:13:16,260 --> 00:13:20,860
+la réaction enzymatique pour le dosage du cholestérol
+
+254
+00:13:20,860 --> 00:13:21,580
+des HDL.
+
+255
+00:13:23,650 --> 00:13:27,670
+Les valeurs physiologiques du cholestérol des HDL varient
+
+256
+00:13:27,670 --> 00:13:28,990
+en fonction du sexe.
+
+257
+00:13:28,990 --> 00:13:31,330
+On va noter des concentrations un peu plus
+
+258
+00:13:31,330 --> 00:13:32,710
+élevées chez la femme que chez l'homme,
+
+259
+00:13:32,870 --> 00:13:34,910
+surtout en période d'activité génitale.
+
+260
+00:13:35,550 --> 00:13:38,390
+L'intérêt du dosage du cholestérol des HDL,
+
+261
+00:13:38,430 --> 00:13:41,090
+c'est surtout pour estimer le risque cardiovasculaire.
+
+262
+00:13:41,290 --> 00:13:43,930
+En effet, on estime que lorsque la concentration
+
+263
+00:13:43,930 --> 00:13:47,530
+du cholestérol est de moins de 0,35
+
+264
+00:13:47,530 --> 00:13:50,350
+g par litre chez l'homme et inférieure
+
+265
+00:13:50,350 --> 00:13:52,310
+à 0,45 g par litre chez la
+
+266
+00:13:52,310 --> 00:13:54,030
+femme, ce risque est certain.
+
+267
+00:13:54,030 --> 00:13:57,810
+On peut même stratifier ce risque selon les
+
+268
+00:13:57,810 --> 00:14:00,650
+concentrations obtenues chez l'homme et chez la
+
+269
+00:14:00,650 --> 00:14:00,930
+femme.
+
+270
+00:14:01,370 --> 00:14:04,070
+On risque très faible, risque standard ou risque
+
+271
+00:14:04,070 --> 00:14:06,710
+élevé comme ici sur ce tableau.
+
+272
+00:14:07,950 --> 00:14:10,550
+Pour le cholestérol des LDL, on va se
+
+273
+00:14:10,550 --> 00:14:14,210
+contenter de faire une évaluation de sa concentration
+
+274
+00:14:14,210 --> 00:14:16,670
+à travers la formule de Friedwald.
+
+275
+00:14:17,530 --> 00:14:19,370
+On va utiliser un calcul.
+
+276
+00:14:20,290 --> 00:14:24,190
+Selon cette formule, la concentration des LDL est
+
+277
+00:14:24,190 --> 00:14:27,690
+égale à la concentration du cholestérol total moins
+
+278
+00:14:27,690 --> 00:14:33,270
+la concentration du cholestérol des HDL moins la
+
+279
+00:14:33,270 --> 00:14:37,030
+concentration des triglycérides divisé par 5.
+
+280
+00:14:37,630 --> 00:14:41,730
+Cette concentration des triglycérides divisé par 5 représente
+
+281
+00:14:41,730 --> 00:14:46,090
+en fait la valeur de cholestérol des VLDL.
+
+282
+00:14:46,090 --> 00:14:48,910
+Ça lorsqu'on a exprimé toutes ces valeurs
+
+283
+00:14:48,910 --> 00:14:50,050
+en g par litre.
+
+284
+00:14:50,510 --> 00:14:53,670
+Lorsqu'on les a exprimées en mmol par
+
+285
+00:14:53,670 --> 00:14:56,130
+litre, il faut dans ce cas diviser la
+
+286
+00:14:56,130 --> 00:14:58,230
+valeur des triglycérides par 2,2.
+
+287
+00:14:58,970 --> 00:15:01,490
+Cette formule malheureusement a une limite, c'est
+
+288
+00:15:01,490 --> 00:15:03,150
+-à-dire qu'on ne peut pas l
+
+289
+00:15:03,150 --> 00:15:06,790
+'utiliser lorsque les triglycérides vont dépasser une valeur
+
+290
+00:15:06,790 --> 00:15:09,070
+de 3,5 g par litre ou 4
+
+291
+00:15:09,070 --> 00:15:10,070
+mmol par litre.
+
+292
+00:15:10,070 --> 00:15:13,790
+Dans ce cas précis, il faut nécessairement faire
+
+293
+00:15:13,790 --> 00:15:16,770
+le dosage du cholestérol des LDL ou à
+
+294
+00:15:16,770 --> 00:15:19,330
+la place on peut faire le dosage des
+
+295
+00:15:19,330 --> 00:15:23,890
+apoprotéines P puisque leur concentration est fortement corrélée
+
+296
+00:15:23,890 --> 00:15:26,310
+à celle du cholestérol des LDL.
+
+297
+00:15:26,870 --> 00:15:29,430
+Pour faire le dosage du cholestérol des LDL,
+
+298
+00:15:29,610 --> 00:15:32,530
+à l'instar de celle des HDL, on
+
+299
+00:15:32,530 --> 00:15:37,130
+va d'abord faire éliminer les lipoparticules qui
+
+300
+00:15:37,130 --> 00:15:40,370
+peuvent interférer dans le dosage qui sont cette
+
+301
+00:15:40,370 --> 00:15:43,310
+fois-ci les BLDL et les HDL par
+
+302
+00:15:43,310 --> 00:15:46,350
+soit des techniques de précipitation, soit un dosage
+
+303
+00:15:46,350 --> 00:15:50,510
+direct en utilisant des polyanions et des anticorps
+
+304
+00:15:50,510 --> 00:15:54,370
+et puis on va faire la même technique
+
+305
+00:15:54,370 --> 00:15:57,150
+de dosage que pour le cholestérol total.
+
+306
+00:15:57,350 --> 00:15:59,850
+Les valeurs physiologiques sont estimées à moins de
+
+307
+00:15:59,850 --> 00:16:03,130
+4,9 mmol par litre chez un adulte
+
+308
+00:16:03,130 --> 00:16:06,590
+de moins de 40 ans qui ne présente
+
+309
+00:16:06,590 --> 00:16:10,130
+aucun facteur de risque cardiovasculaire.
+
+310
+00:16:11,250 --> 00:16:15,570
+Le principal intérêt de la détermination de la
+
+311
+00:16:15,570 --> 00:16:18,710
+concentration du LDL c'est qu'il permet
+
+312
+00:16:18,710 --> 00:16:23,090
+de faire une estimation du risque cardiovasculaire puisque
+
+313
+00:16:23,090 --> 00:16:27,730
+sa concentration est proportionnelle et est fortement corrélée
+
+314
+00:16:27,730 --> 00:16:29,290
+au risque d'atherosclérose.
+
+315
+00:16:29,290 --> 00:16:33,630
+Il va même permettre une stratification du risque
+
+316
+00:16:33,630 --> 00:16:38,870
+et orienter la décision thérapeutique quant à la
+
+317
+00:16:38,870 --> 00:16:43,410
+prise en charge de l'épidémie à travers
+
+318
+00:16:43,410 --> 00:16:47,410
+des mesures hygiéno-diététiques ou de la prise
+
+319
+00:16:47,410 --> 00:16:51,510
+de médicaments qui vont baisser sa concentration.
+
+320
+00:16:52,410 --> 00:16:56,050
+Le LDL cholestérol est utilisé également dans le
+
+321
+00:16:56,050 --> 00:17:00,810
+suivi thérapeutique et les seuils décisionnels sont en
+
+322
+00:17:00,810 --> 00:17:04,470
+fonction du niveau du risque cardiovasculaire comme on
+
+323
+00:17:04,470 --> 00:17:07,550
+le voit ici sur ce tableau.
+
+324
+00:17:08,690 --> 00:17:12,550
+Selon les dernières recommandations de la Société européenne
+
+325
+00:17:12,550 --> 00:17:17,630
+de cardiologie en 2019 plus le risque est
+
+326
+00:17:17,630 --> 00:17:22,390
+haut, plus la concentration cible du LDL doit
+
+327
+00:17:22,390 --> 00:17:24,569
+être basse pour aller jusqu'à moins de
+
+328
+00:17:24,569 --> 00:17:28,990
+0,55 g par litre ou 1,4
+
+329
+00:17:28,990 --> 00:17:31,630
+mmol par litre.
+
+330
+00:17:31,670 --> 00:17:34,110
+Je vous ai mis ce tableau à titre
+
+331
+00:17:34,110 --> 00:17:37,810
+indicatif pour vous montrer juste l'intérêt du
+
+332
+00:17:37,810 --> 00:17:43,610
+cholestérol du LDL qui va être utilisé pour
+
+333
+00:17:43,610 --> 00:17:46,470
+la prise de décision en fonction de sa
+
+334
+00:17:46,470 --> 00:17:51,050
+concentration de base et qui va dicter si
+
+335
+00:17:51,050 --> 00:17:55,290
+vous voulez la décision thérapeutique à partir de
+
+336
+00:17:55,290 --> 00:17:59,090
+cette valeur et en fonction du risque cardiovasculaire
+
+337
+00:17:59,090 --> 00:18:02,410
+qui est calculé à partir du score score
+
+338
+00:18:02,410 --> 00:18:04,650
+c'est à dire l'évaluation de risque
+
+339
+00:18:04,650 --> 00:18:07,970
+de mortalité à 10 ans qui va prendre
+
+340
+00:18:07,970 --> 00:18:12,970
+compte chez un individu de son âge, son
+
+341
+00:18:12,970 --> 00:18:18,630
+sexe, la présence de tabagisme ou non ces
+
+342
+00:18:18,630 --> 00:18:21,250
+chiffres de la tension artérielle que ce soit
+
+343
+00:18:21,250 --> 00:18:26,810
+systolique ou diastolique et la concentration de son
+
+344
+00:18:26,810 --> 00:18:27,830
+cholestérol total.
+
+345
+00:18:30,330 --> 00:18:33,050
+Pour les examens spécialisés je vous ai dit
+
+346
+00:18:33,050 --> 00:18:36,890
+qu'on peut faire le dosage des apoprotéines
+
+347
+00:18:36,890 --> 00:18:41,290
+le principe de dosage est basé sur des
+
+348
+00:18:41,290 --> 00:18:46,350
+techniques immunologiques, turbidimétriques ou néphilimétriques et les valeurs
+
+349
+00:18:46,350 --> 00:18:50,110
+de référence sont résumées sur ce tableau là
+
+350
+00:18:50,110 --> 00:18:54,630
+avec des restrictions c'est que la peau
+
+351
+00:18:54,630 --> 00:18:59,970
+A1 est fortement corrélée au HDL cholestérol il
+
+352
+00:18:59,970 --> 00:19:01,010
+n'y a pas lieu de faire le
+
+353
+00:19:01,010 --> 00:19:07,290
+dosage que si la concentration de HDL cholestérol
+
+354
+00:19:07,290 --> 00:19:09,930
+est inférieure à 0,3 g par litre
+
+355
+00:19:09,930 --> 00:19:12,290
+c'est à dire que ce dosage de
+
+356
+00:19:12,290 --> 00:19:14,450
+la peau A1 va vérifier s'il n
+
+357
+00:19:14,450 --> 00:19:16,990
+'y a pas d'interférences analytiques au niveau
+
+358
+00:19:16,990 --> 00:19:20,630
+du dosage du cholestérol du HDL qui fait
+
+359
+00:19:20,630 --> 00:19:21,870
+qu'ils sont bas.
+
+360
+00:19:23,270 --> 00:19:26,790
+Pour la peau B, elle est fortement corrélée
+
+361
+00:19:26,790 --> 00:19:30,110
+également à la concentration du cholestérol du LDL
+
+362
+00:19:30,110 --> 00:19:32,930
+et son dosage n'est recommandé qu'en
+
+363
+00:19:32,930 --> 00:19:37,690
+cas d'une élévation importante de triglycérides et
+
+364
+00:19:37,690 --> 00:19:40,710
+lorsqu'on ne peut pas faire le calcul
+
+365
+00:19:40,710 --> 00:19:44,310
+du LDL cholestérol ou lorsque le cholestérol du
+
+366
+00:19:44,310 --> 00:19:47,530
+LDL est également très bas ou en présence
+
+367
+00:19:47,530 --> 00:19:50,030
+d'une obésité, d'un diabète ou un
+
+368
+00:19:50,030 --> 00:19:53,190
+syndrome métabolique qui fait qu'on peut avoir
+
+369
+00:19:53,190 --> 00:19:57,250
+des doutes sur la concentration du LDL cholestérol.
+
+370
+00:19:57,250 --> 00:20:01,850
+Pour la lipoprotéine petit A, on va également
+
+371
+00:20:01,850 --> 00:20:06,190
+faire le dosage par technique immunologique turbidémétrique ou
+
+372
+00:20:06,190 --> 00:20:10,870
+népédémétrique et la concentration de la lipoprotéine petit
+
+373
+00:20:10,870 --> 00:20:13,550
+A est généralement inférieure à 0,3 g
+
+374
+00:20:13,550 --> 00:20:18,490
+par litre lorsqu'elle dépasse cette concentration, on
+
+375
+00:20:18,490 --> 00:20:22,950
+va craindre un risque thrombogène et athérogène et
+
+376
+00:20:22,950 --> 00:20:26,170
+son dosage est indiqué en absence d'autres
+
+377
+00:20:26,170 --> 00:20:29,350
+facteurs de risque cardiovasculaires avec la mise en
+
+378
+00:20:29,350 --> 00:20:34,610
+évidence de lésions athéromateuses à l'imagerie médicale
+
+379
+00:20:35,170 --> 00:20:37,010
+ce qu'on appelle le score calcique.
+
+380
+00:20:39,600 --> 00:20:42,640
+En dernier lieu, on peut faire le lipidogramme,
+
+381
+00:20:42,900 --> 00:20:45,560
+c'est-à-dire l'électrophoresse de lipoprotéines
+
+382
+00:20:45,560 --> 00:20:50,520
+sériques pour tiper une éventuelle dyslipidémie, surtout lorsqu
+
+383
+00:20:50,520 --> 00:20:53,980
+'on suspecte la présence de lipoparticules qui sont
+
+384
+00:20:53,980 --> 00:20:57,360
+généralement absentes d'un sérum normal, tels que
+
+385
+00:20:57,360 --> 00:20:59,300
+les chinomicrons et les IDL.
+
+386
+00:21:00,260 --> 00:21:01,280
+Ce que l'on va faire, c'est
+
+387
+00:21:01,280 --> 00:21:04,900
+qu'on va considérer les lipoprotéines comme des
+
+388
+00:21:04,900 --> 00:21:10,340
+particules chargées et on va les soumettre à
+
+389
+00:21:10,340 --> 00:21:11,360
+un champ électrique.
+
+390
+00:21:12,300 --> 00:21:14,580
+Après dépôt d'un échantillon sur un gel
+
+391
+00:21:14,580 --> 00:21:17,240
+d'agarose, il va y avoir migration de
+
+392
+00:21:17,240 --> 00:21:21,300
+ces différentes lipoparticules jusqu'à leur pH isoélectrique
+
+393
+00:21:21,300 --> 00:21:24,720
+où ils vont s'arrêter et de ce
+
+394
+00:21:24,720 --> 00:21:26,740
+fait, on peut les séparer.
+
+395
+00:21:27,520 --> 00:21:31,700
+Donc depuis la zone de dépôt, c'est
+
+396
+00:21:31,700 --> 00:21:35,420
+-à-dire au niveau du pôle de la
+
+397
+00:21:35,420 --> 00:21:38,520
+cathode vers l'anode, on va distinguer différentes
+
+398
+00:21:38,520 --> 00:21:39,100
+bandes.
+
+399
+00:21:39,860 --> 00:21:42,900
+Si les chinomicrons existent, on va distinguer une
+
+400
+00:21:42,900 --> 00:21:44,700
+bande justement au niveau du dépôt.
+
+401
+00:21:45,780 --> 00:21:47,720
+Un peu plus loin, on va distinguer une
+
+402
+00:21:47,720 --> 00:21:50,860
+bande qui correspond au LDL, c'est au
+
+403
+00:21:50,860 --> 00:21:53,540
+niveau de la zone bêta et dont la
+
+404
+00:21:53,540 --> 00:21:57,320
+proportion ou la fraction varie entre 45%
+
+405
+00:21:57,320 --> 00:22:01,560
+à 60% après intégration par densitométrie.
+
+406
+00:22:02,260 --> 00:22:05,680
+Puis on va découvrir une bande qui correspond
+
+407
+00:22:05,680 --> 00:22:09,840
+au VLDL, dont la proportion va de 5
+
+408
+00:22:09,840 --> 00:22:11,360
+% à 18%.
+
+409
+00:22:11,360 --> 00:22:13,800
+Il migre au niveau des prés bêta et
+
+410
+00:22:13,800 --> 00:22:16,960
+enfin des HDL qui migrent au niveau de
+
+411
+00:22:16,960 --> 00:22:19,580
+la zone des alphas et dont la proportion
+
+412
+00:22:19,580 --> 00:22:22,420
+varie de 10% à 45% comme
+
+413
+00:22:22,420 --> 00:22:26,280
+ici sur le profil qu'on appelle le
+
+414
+00:22:26,280 --> 00:22:26,940
+lipidogramme.
+
+415
+00:22:29,260 --> 00:22:35,700
+Les HDL vont migrer lorsqu'ils existent entre
+
+416
+00:22:35,700 --> 00:22:37,800
+les bêta et les prés bêta, c'est
+
+417
+00:22:37,800 --> 00:22:40,600
+-à-dire entre les fractions des LDL et
+
+418
+00:22:40,600 --> 00:22:42,680
+la fraction des VLDL.
+
+419
+00:22:44,310 --> 00:22:48,150
+Après analyse au laboratoire des différents paramètres et
+
+420
+00:22:48,150 --> 00:22:51,370
+examens biologiques et au vu des résultats, on
+
+421
+00:22:51,370 --> 00:22:56,150
+peut distinguer entre deux entités biochimiques qui définissent
+
+422
+00:22:56,150 --> 00:22:57,410
+les dyslipidémies.
+
+423
+00:22:58,130 --> 00:23:01,550
+D'une part, on a les hyperlipoprotéinémies qui
+
+424
+00:23:01,550 --> 00:23:04,190
+sont les plus fréquentes et les plus répandues
+
+425
+00:23:04,190 --> 00:23:07,090
+et qui correspondent à un excès en une
+
+426
+00:23:07,090 --> 00:23:09,130
+ou plusieurs lipoprotéines.
+
+427
+00:23:09,710 --> 00:23:13,010
+D'autre part, les hypolipoprotéinémies qui sont elles
+
+428
+00:23:13,010 --> 00:23:16,130
+rares et qui sont définies par une diminution
+
+429
+00:23:16,130 --> 00:23:21,670
+voire l'absence d'une ou plusieurs lipoprotéines.
+
+430
+00:23:22,750 --> 00:23:26,450
+Tout d'abord, les hyperlipoprotéinémies sont classées selon
+
+431
+00:23:26,450 --> 00:23:30,370
+deux classifications, la première dite de Frederikson qui
+
+432
+00:23:30,370 --> 00:23:34,590
+est basée sur le résultat du lipidogramme et
+
+433
+00:23:34,590 --> 00:23:38,330
+qui permet de distinguer entre six classes qui
+
+434
+00:23:38,330 --> 00:23:40,670
+vont de 1 jusqu'à 5 avec deux
+
+435
+00:23:40,670 --> 00:23:44,090
+sous-classes pour la classe 2 et la
+
+436
+00:23:44,090 --> 00:23:47,530
+classification de deux gènes qui, elle, est basée
+
+437
+00:23:47,530 --> 00:23:51,470
+sur les concentrations des triglycérides et du cholestérol
+
+438
+00:23:51,470 --> 00:23:55,790
+total qui va permettre de distinguer entre les
+
+439
+00:23:55,790 --> 00:24:00,590
+hypercholestérolémies essentielles lorsque le rapport cholestérol total sur
+
+440
+00:24:00,590 --> 00:24:06,630
+triglycérides est supérieur à 2,5 et des
+
+441
+00:24:06,630 --> 00:24:12,950
+hypertriglycéridémies majeures lorsque le rapport triglycérides sur cholestérol
+
+442
+00:24:12,950 --> 00:24:15,650
+total est supérieur à 2,5.
+
+443
+00:24:16,450 --> 00:24:22,050
+À côté de ces hyperlipoprotéinémies, ces deux classifications,
+
+444
+00:24:22,610 --> 00:24:27,570
+on va également distinguer entre les hyperlipoprotéinémies primaires
+
+445
+00:24:27,570 --> 00:24:30,850
+et les hyperlipoprotéinémies secondaires.
+
+446
+00:24:32,930 --> 00:24:36,890
+Ce tableau permet de montrer les différences qui
+
+447
+00:24:36,890 --> 00:24:44,330
+existent entre les classifications de Frederikson et de
+
+448
+00:24:44,330 --> 00:24:49,650
+deux gènes en tenant compte de la fraction
+
+449
+00:24:49,650 --> 00:24:52,170
+qui existe au niveau du lipidogramme, de l
+
+450
+00:24:52,170 --> 00:24:55,350
+'aspect du sérum et également de la concentration
+
+451
+00:24:55,350 --> 00:24:58,110
+du cholestérol total et des triglycérides.
+
+452
+00:24:58,110 --> 00:25:02,470
+Pour la classe 2A, on va avoir un
+
+453
+00:25:02,470 --> 00:25:03,370
+sérum clair.
+
+454
+00:25:04,250 --> 00:25:06,510
+Au niveau du lipidogramme, on va avoir surtout
+
+455
+00:25:06,510 --> 00:25:11,350
+la présence d'un excès de LDL avec
+
+456
+00:25:11,350 --> 00:25:14,350
+une concentration élevée en cholestérol total.
+
+457
+00:25:14,830 --> 00:25:19,210
+Pour les triglycérides, c'est une valeur normale.
+
+458
+00:25:19,930 --> 00:25:22,250
+Et selon la classification de deux gènes, il
+
+459
+00:25:22,250 --> 00:25:25,770
+s'agit d'une hypercholestérolémie essentielle qui peut
+
+460
+00:25:25,770 --> 00:25:28,730
+être mineure ou majeure selon la concentration du
+
+461
+00:25:28,730 --> 00:25:29,670
+cholestérol total.
+
+462
+00:25:30,330 --> 00:25:34,870
+Pour la classe 2B, selon Frederikson, l'aspect
+
+463
+00:25:34,870 --> 00:25:36,390
+du sérum est opalescent.
+
+464
+00:25:36,570 --> 00:25:40,130
+Au niveau du lipidogramme, on va trouver une
+
+465
+00:25:40,130 --> 00:25:45,630
+dyslipidémie mixte avec un excès en LDL et
+
+466
+00:25:45,630 --> 00:25:46,990
+en VLDL.
+
+467
+00:25:48,230 --> 00:25:51,410
+Au niveau de la classification de deux gènes,
+
+468
+00:25:51,570 --> 00:25:54,510
+il s'agit d'une hyperlipidémie mixte avec
+
+469
+00:25:54,510 --> 00:25:58,230
+une élévation de la concentration du cholestérol total
+
+470
+00:25:58,230 --> 00:26:01,630
+et de la concentration des triglycérides.
+
+471
+00:26:03,850 --> 00:26:08,620
+La classe 3, pour la classification de Frederikson,
+
+472
+00:26:09,190 --> 00:26:11,750
+on va trouver au niveau du lipidogramme la
+
+473
+00:26:11,750 --> 00:26:16,290
+présence anormale des LDL en plus d'un
+
+474
+00:26:16,290 --> 00:26:19,210
+excès de VLDL avec un sérum opalescent.
+
+475
+00:26:19,210 --> 00:26:22,930
+Pour la classification de deux gènes, la concentration
+
+476
+00:26:22,930 --> 00:26:26,550
+du cholestérol va être très élevée avec également
+
+477
+00:26:26,550 --> 00:26:31,210
+celle des triglycérides qui définit les hyperlipidémies mixtes.
+
+478
+00:26:32,610 --> 00:26:41,030
+Ensuite, on a les dyslipidémies qui portent surtout
+
+479
+00:26:41,030 --> 00:26:43,310
+sur les triglycérides avec plus ou moins une
+
+480
+00:26:43,310 --> 00:26:45,110
+élévation du cholestérol.
+
+481
+00:26:45,110 --> 00:26:48,690
+Pour la classe 1, c'est surtout la
+
+482
+00:26:48,690 --> 00:26:53,630
+présence de Chylomicron avec un aspect de sérum
+
+483
+00:26:53,630 --> 00:26:57,290
+qui est lactéçon et une élévation importante des
+
+484
+00:26:57,290 --> 00:26:58,310
+triglycérides.
+
+485
+00:26:59,370 --> 00:27:02,010
+Pour la classification de deux gènes, il s
+
+486
+00:27:02,010 --> 00:27:05,410
+'agit d'une forme exogène d'hypertriglycéridémie.
+
+487
+00:27:05,790 --> 00:27:09,190
+La classe 4, on va avoir un sérum
+
+488
+00:27:09,190 --> 00:27:09,870
+opalescent.
+
+489
+00:27:09,870 --> 00:27:12,890
+Pour la classification de Friedrichson, il y a
+
+490
+00:27:12,890 --> 00:27:15,950
+un excès dans la fraction de VLDL avec
+
+491
+00:27:15,950 --> 00:27:19,590
+élévation de la concentration des triglycérides.
+
+492
+00:27:20,710 --> 00:27:23,950
+La concentration du cholestérol peut être normale ou
+
+493
+00:27:23,950 --> 00:27:24,990
+augmentée.
+
+494
+00:27:25,830 --> 00:27:29,030
+Il s'agit pour la classification de deux
+
+495
+00:27:29,030 --> 00:27:34,090
+gènes d'une forme endogène d'hypertriglycéridémie.
+
+496
+00:27:34,930 --> 00:27:39,450
+Et enfin, la classe 5 avec la présence
+
+497
+00:27:39,450 --> 00:27:41,510
+d'un sérum lactéçon.
+
+498
+00:27:41,930 --> 00:27:45,930
+Il s'agit pour la classification de Friedrichson
+
+499
+00:27:45,930 --> 00:27:50,730
+d'une dyslipidémie qui va objectiver la présence
+
+500
+00:27:50,730 --> 00:27:53,170
+d'un excès de VLDL et la présence
+
+501
+00:27:53,170 --> 00:27:58,010
+de Chylomicron avec une augmentation importante dans la
+
+502
+00:27:58,010 --> 00:27:59,670
+concentration des triglycérides.
+
+503
+00:28:00,630 --> 00:28:03,290
+Pour la classification de deux gènes, on va
+
+504
+00:28:03,290 --> 00:28:10,390
+avoir cette hypertriglycéridémie qui est mixte et donc
+
+505
+00:28:10,390 --> 00:28:13,590
+qui va être d'origine endogène et exogène.
+
+506
+00:28:15,490 --> 00:28:18,530
+Dans les hyperlipoproteinemies, on va distinguer entre les
+
+507
+00:28:18,530 --> 00:28:25,610
+hyperlipoproteinemies primaires qui sont caractérisées par un risque
+
+508
+00:28:25,610 --> 00:28:28,530
+athérogène qui est important et qui vont apparaître
+
+509
+00:28:28,530 --> 00:28:33,810
+dès l'enfance avec surtout l'hypercholestérolémie essentielle
+
+510
+00:28:33,810 --> 00:28:34,810
+type 2A.
+
+511
+00:28:36,470 --> 00:28:42,370
+Cette hypercholestérolémie essentielle peut être héterozygote avec un
+
+512
+00:28:42,370 --> 00:28:44,670
+cholestérol qui est de moins de 10 millimoles
+
+513
+00:28:44,670 --> 00:28:47,550
+par litre, soit 4 g par litre ou
+
+514
+00:28:47,550 --> 00:28:50,950
+bien une forme homozygote caractérisée par la présence
+
+515
+00:28:50,950 --> 00:28:51,890
+de xanthomes.
+
+516
+00:28:52,930 --> 00:28:57,470
+Cette hypercholestérolémie peut être due à deux anomalies,
+
+517
+00:28:57,670 --> 00:29:00,710
+soit une mutation du gène codant le récepteur
+
+518
+00:29:00,710 --> 00:29:07,190
+des apo-protéines BE soit une mutation du
+
+519
+00:29:07,190 --> 00:29:11,230
+gène de la protéine apo-B.
+
+520
+00:29:12,600 --> 00:29:16,340
+Là, je vous ai mis quelques images qui
+
+521
+00:29:16,340 --> 00:29:20,700
+montrent une présentation clinique de l'hypercholestérolémie familiale
+
+522
+00:29:20,700 --> 00:29:26,600
+sous forme de différentes éruptions et dépôts extravasculaires
+
+523
+00:29:26,600 --> 00:29:30,440
+de lipides sous forme de xanthomes tendineux au
+
+524
+00:29:30,440 --> 00:29:31,300
+niveau des genoux.
+
+525
+00:29:31,300 --> 00:29:34,780
+Ça peut être également au niveau du coude
+
+526
+00:29:34,780 --> 00:29:38,220
+et du muscle interfécier sous forme d'arc
+
+527
+00:29:38,220 --> 00:29:40,600
+corneau au niveau de l'œil ou bien
+
+528
+00:29:40,600 --> 00:29:44,760
+de xanthélasement au niveau de la paupière supérieure
+
+529
+00:29:44,760 --> 00:29:48,860
+et inférieure également sous forme de xanthomatose éruptive.
+
+530
+00:29:50,340 --> 00:29:55,660
+On peut avoir d'autres hyperlipoprotéinémies primaires qui
+
+531
+00:29:55,660 --> 00:29:58,980
+sont moins fréquentes telles que l'hyperlipidémie mixte
+
+532
+00:29:58,980 --> 00:30:03,460
+de type 2b ou l'hypertriglycéridémie de type
+
+533
+00:30:03,460 --> 00:30:04,160
+4.
+
+534
+00:30:05,380 --> 00:30:08,440
+À côté de ces hyperlipoprotéinémies primaires, on peut
+
+535
+00:30:08,440 --> 00:30:13,820
+avoir des dyslipidémies secondaires à différents types de
+
+536
+00:30:13,820 --> 00:30:16,640
+maladies qui peuvent entraîner une perturbation dans le
+
+537
+00:30:16,640 --> 00:30:22,100
+métabolisme des lipoprotéines, particulièrement le diabète qui est
+
+538
+00:30:22,100 --> 00:30:25,420
+caractérisé par une insuline non résistante, le syndrome
+
+539
+00:30:25,420 --> 00:30:31,900
+néphrotique pour cause d'une augmentation réactionnelle suite
+
+540
+00:30:31,900 --> 00:30:35,020
+à une diminution importante de l'albumine et
+
+541
+00:30:35,020 --> 00:30:36,620
+sa fuite par voie urinaire.
+
+542
+00:30:37,260 --> 00:30:39,400
+Il y a également des médicaments qui vont
+
+543
+00:30:39,400 --> 00:30:45,060
+perturber le métabolisme des lipides, particulièrement les contraceptives
+
+544
+00:30:45,060 --> 00:30:46,360
+et les corticoïdes.
+
+545
+00:30:46,360 --> 00:30:51,060
+Ces différentes causes sont à l'origine de
+
+546
+00:30:51,060 --> 00:30:54,720
+l'apparition d'une dyslipoprotéinémie de type 4,
+
+547
+00:30:54,840 --> 00:30:58,320
+c'est-à-dire une hypertriglycéridémie ou bien
+
+548
+00:30:58,320 --> 00:31:02,840
+une hyperlipidémie mixte, c'est-à-dire de
+
+549
+00:31:02,840 --> 00:31:05,440
+type B, qui est à l'origine d
+
+550
+00:31:05,440 --> 00:31:08,440
+'une augmentation du cholestérol et des triglycérides.
+
+551
+00:31:10,080 --> 00:31:15,080
+L'hypothyroïdie peut entraîner également une dyslipidémie de
+
+552
+00:31:15,080 --> 00:31:20,840
+type élévation du cholestérol de façon isolée, c
+
+553
+00:31:20,840 --> 00:31:24,600
+'est le type 2A, ou de façon mixte
+
+554
+00:31:24,600 --> 00:31:27,880
+qui va donner le type 2B, c'est
+
+555
+00:31:27,880 --> 00:31:31,140
+-à-dire une élévation concomitante des triglycérides et
+
+556
+00:31:31,140 --> 00:31:32,460
+du cholestérol total.
+
+557
+00:31:34,160 --> 00:31:39,700
+Dans les hypolipoprotéinémies qui sont plus rares, on
+
+558
+00:31:39,700 --> 00:31:43,600
+va distinguer les hypolipoprotéinémies primitives telles que la
+
+559
+00:31:43,600 --> 00:31:47,120
+bétalipoprotéinémie, c'est-à-dire l'absence de
+
+560
+00:31:47,120 --> 00:31:51,300
+la synthèse de la peau B et qui
+
+561
+00:31:51,300 --> 00:31:55,140
+va se traduire par une absence des lipoparticules,
+
+562
+00:31:55,300 --> 00:31:57,260
+des LDL et des VLDL.
+
+563
+00:31:57,260 --> 00:31:59,880
+Il y a également la maladie de Tangier,
+
+564
+00:32:00,220 --> 00:32:04,760
+qui est définie par un déficit en apoprotéine
+
+565
+00:32:04,760 --> 00:32:08,480
+A1 et donc l'absence de HDL, et
+
+566
+00:32:08,480 --> 00:32:14,700
+également un déficit en lecithylcholestérol acyltransférase.
+
+567
+00:32:15,260 --> 00:32:20,120
+Pour les hypolipoprotéines secondaires, on peut les voir
+
+568
+00:32:20,120 --> 00:32:24,340
+suite à une insuffisance hépatocellulaire, donc une diminution
+
+569
+00:32:24,340 --> 00:32:28,600
+de la capacité de synthèse du foie, et
+
+570
+00:32:28,600 --> 00:32:32,860
+également un cas d'hypertiruidie qui va se
+
+571
+00:32:32,860 --> 00:32:36,280
+caractériser par une diminution de la synthèse du
+
+572
+00:32:36,280 --> 00:32:36,940
+cholestérol.
+
+573
+00:32:38,100 --> 00:32:40,120
+Au terme de ce chapitre, je vous ai
+
+574
+00:32:40,120 --> 00:32:42,620
+mis quelques slides qui résument les points essentiels
+
+575
+00:32:42,620 --> 00:32:47,680
+à retenir concernant les différentes classes des lipoprotéines,
+
+576
+00:32:47,680 --> 00:32:51,820
+à savoir leurs caractéristiques, leur lieu de synthèse
+
+577
+00:32:51,820 --> 00:32:59,240
+avec les principales étapes de métabolisme, dégradation et
+
+578
+00:32:59,240 --> 00:33:05,540
+synthèse, et également leur intérêt dans le dépistage,
+
+579
+00:33:05,800 --> 00:33:09,040
+le diagnostic et le suivi thérapeutique dès l
+
+580
+00:33:09,040 --> 00:33:09,600
+'épidémie.

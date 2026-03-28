@@ -1,0 +1,391 @@
+(0:01 - 0:31)
+Bonjour, nous allons voir le cours sur la maladie luxante de la hanche chez l'enfant. Alors, la maladie luxante de la hanche chez l'enfant, qu'on appelait avant, depuis 1932, luxation au collier de la hanche. Maintenant, ce n'est pas le cas, parce qu'en 1932, on croyait que la hanche était toujours luxée et donc c'est une définition statique.
+
+(0:33 - 1:07)
+Avec le temps, cette définition statique est devenue dynamique, c'est-à-dire que la hanche ne peut être toujours luxée comme il peut se luxer à un certain moment donné. Alors, c'est pour ça qu'on a cette luxation qui n'est pas toujours permanente de la tête fémorale par rapport au cotyle, c'est-à-dire qu'on va se trouver avec deux situations. La première situation, soit que c'est au moment de l'examen, il s'agit d'une hanche luxable, c'est-à-dire que la hanche est en place, la tête est en place.
+
+(1:07 - 1:26)
+On regarde cette pylôme, mais à un certain moment donné, lorsqu'on fait un certain mouvement, on arrive à luxer cette hanche et on parle d'une hanche luxable. La deuxième situation, c'est la hanche luxée. Lors de l'examen, on trouve que la tête est en dehors du cotyle, donc elle est luxée.
+
+(1:26 - 1:48)
+Mais à l'intérieur de cette situation, on se trouve avec deux situations. Soit que cette hanche luxée, on arrive à la réduire par une manœuvre et elle devient réductible et on parle d'une hanche luxée réductible. Soit, quels que soient les manœuvres, quels que soient les mouvements, cette hanche, cette tête femorale, reste toujours en dehors et donc il s'agit d'une hanche luxée irréductible.
+
+(1:48 - 2:02)
+Donc finalement, on va se trouver avec trois situations lors de l'examen d'un nouveau-né. Soit c'est une hanche en place qu'on arrive à luxer, c'est une hanche luxable. Soit qu'il est luxé mais qu'on arrive à réduire, c'est une hanche luxée irréductible.
+
+(2:03 - 2:27)
+Soit qu'il est luxé mais qu'on n'arrive jamais à réduire, c'est une hanche irréductible. L'objectif de cours, c'est bien sûr, tout le monde doit reconnaître uniquement une maladie luxante chez un nouveau-né et donc faire le dépistage. Deuxième objectif, c'est de reconnaître à l'anamnèse des facteurs de risque de cette maladie luxante parce que c'est important de les savoir.
+
+(2:27 - 2:54)
+Troisième objectif, c'est savoir palper une hanche, savoir s'il s'agit d'une hanche luxée, luxable ou irréductible chez un nouveau-né. Et puis, bien sûr, il faut savoir conduire une démarche nécessaire devant une hanche suspecte. Et à la fin, il faut bien savoir comment expliquer aux parents quelles sont les volontés thérapeutiques et le pronostic et puis l'adresser chez le spécialiste.
+
+(2:56 - 3:09)
+Alors les éthiologies, c'est plutôt multifactoriel. Premier facteur de risque, c'est l'hérédité. Et donc, il faut toujours chercher à l'interrogatoire s'il n'y a pas de cas similaire dans la famille.
+
+(3:12 - 3:27)
+Deuxième facteur de risque, c'est la présence d'une hyperlaxité légamentaire. On peut bien l'examiner chez un nouveau-né en examinant le poignet, les doigts, le coude, le genou, la cheville. On va trouver qu'il y a un mouvement exagéré de l'articulation.
+
+(3:28 - 3:39)
+Donc, il s'agit bel et bien d'une hyperlaxité légamentaire. Un troisième facteur de risque, c'est qu'il faut demander à l'interrogatoire la présentation du bébé. S'il s'agit d'une présentation de sièges.
+
+(3:40 - 4:06)
+Et surtout, comme vous voyez au niveau du schéma C, c'est la présentation de sièges, genoux en extension qui est le facteur le plus important. Facteur de risque également, c'est malheureusement, on voit toujours dans notre culture, des mamans qui mettent le hanche et le genou du bébé en extension. On appelle ça en arabe, Tegmat.
+
+(4:07 - 4:27)
+Chose qu'il faut complètement proscrire parce que cette position, il favorise l'excentration de la tête et la luxation par la suite. Par contre, il faut encourager les mamans à la position en califourchon. Pourquoi ? Parce que la position en califourchon, il met les hanches en abduction.
+
+(4:28 - 4:43)
+Et donc, elle flexionne et centre bien les hanches. Et il permet un bon développement de la tête et de l'acétabulum. Un autre facteur de risque, c'est qu'il faut le chercher à l'examen clinique à la naissance.
+
+(4:43 - 5:05)
+La torticoline congénitale, ça, c'est des bébés qui voient un petit peu d'un côté plus qu'un autre. Et puis, ça témoigne que le bébé, il a dû un petit peu souffrir dans sa position en intrauterie. Et donc, par conséquent, la hanche est probablement là aussi, il était dans une position contraignante.
+
+(5:06 - 5:20)
+Il faut chercher s'il y a un métatarsus varus pour la même raison. Le pied était dans une position pas confortable, ça sous-entend que la hanche le sera probablement. Et puis, il y a un troisième signe qu'il faut chercher.
+
+(5:21 - 5:36)
+S'il y a un junior curvatum chez le bébé, c'est-à-dire une hyper-extension du genou. Ça aussi, de la même façon, de la même manière. Ce genou-là, il aurait dû être dans une position contraignante, ce qui expose également la hanche.
+
+(5:36 - 5:50)
+Et donc, il faut une chance d'avoir une luxation de hanche associée. Alors finalement, pour résumer les principaux facteurs de risque, il y a le cas similaire dans la famille. Présentation de siège.
+
+(5:52 - 6:06)
+Mettre un enfant en extension, donc il faut toujours demander est-ce que la maman a dû mettre l'enfant, les hanches en extension. La présence à la naissance d'une torticolie congénitale. La présence d'un métatharsus varus junior curvatum.
+
+(6:07 - 6:31)
+Et il faut bien examiner l'enfant et le bébé, est-ce qu'il a une hyperlaxité ligamentaire. Ajoutant à ça, il y a le sexe féminin qui est un facteur de risque. Et puis, le premier-né. 
+
+Pourquoi le premier-né ? Parce que le premier-né, il s'est développé dans un étherus qui est encore petit. C'est primipare. Et donc, il est exposé à être dans des positions un petit peu contraignantes.
+
+(6:31 - 6:49)
+C'est pas comme le deuxième ou le troisième. Il trouvera un étherus un petit peu plus dilaté, plus confortable. Alors, le dépistage doit se faire dans une clinique à la naissance.
+
+(6:50 - 7:02)
+Pour faire le dépistage, il faut bien sûr un bon relâchement musculaire. De la part de l'examinateur, il faut que le médecin soit bien décontracté au niveau de ses mains, de ses poignets. Pour bien s'examiner.
+
+(7:03 - 7:11)
+Et puis, le bébé doit être bien contracté à côté de sa maman. Peut-être un biberon dans une salle bien chaude. Bien réchauffer les mains.
+
+(7:11 - 7:19)
+Il ne faut pas que les mains soient froides pour ne pas exciter les muscles. Et le rendre plus contractible. Parce que sinon, ça rend l'examen difficile.
+
+(7:21 - 7:30)
+Ça commence par l'inspection. Donc, il faut chercher les plis de flexion. Comme vous voyez sur cette photo-là, on voit deux plis par rapport à l'autre côté qui est un seul pli.
+
+(7:31 - 7:39)
+Donc, une asymétrie. Si on prend le bébé en position verticale, on remarque la même chose. Donc, il y a une asymétrie des plis de flexion.
+
+(7:42 - 7:53)
+Deuxième signe à l'inspection. C'est l'inégalité de longueur du membre intérieur. Donc, vous voyez que sur cette photo-là, on a un raccourcissement du membre.
+
+(7:53 - 8:08)
+Donc, on peut bien l'objectiver par ce qu'on appelle le signe de Galizzi. En mettant le bébé sur le dos et puis fléchir les hanches à 90 degrés. Et on voit que les deux genoux ne se situent pas sur la même ligne horizontale.
+
+(8:08 - 8:18)
+Et on peut bien même chiffrer la même inégalité. Donc, c'est un raccourcissement de la cuisse. Troisième signe à l'inspection.
+
+(8:18 - 8:25)
+Voilà pas le patient. C'est la limitation de l'abduction. Comme vous voyez sur ce schéma, l'abduction ici du côté droit, il est normal.
+
+(8:25 - 8:34)
+Mais ça apparaît limité du côté gauche. Et donc, ça fait une hanche très suspecte. L'étude de l'abduction.
+
+(8:35 - 8:41)
+Il faut mettre l'enfant sur le dos. Bien à plat. Hanche fléchie à 90 degrés.
+
+(8:42 - 8:52)
+Et puis mesurer l'angle de l'abduction. Si l'angle d'abduction est inférieur à 100 degrés. Donc, c'est une hanche suspecte.
+
+(8:52 - 9:02)
+La normale c'est entre 60 et 85 degrés. Alors, toute limitation d'abduction sur un nouveau-né est une maladiluction de la hanche. Jusqu'à preuve du contraire.
+
+(9:03 - 9:17)
+La confirmation diagnostique est d'abord clinique. Donc, une fois qu'on a des éléments à l'inspection qui font fort suspecter la hanche. On passe à ce qu'on appelle les manoeuvres de palpation de hanche.
+
+(9:17 - 9:26)
+La première manoeuvre, c'est la manoeuvre d'ortholanie. Pour chercher le signe de Rousseau. Consiste à quoi ? Manoeuvre d'ortholanie.
+
+(9:27 - 9:33)
+Alors, la manoeuvre d'ortholanie. Regardez cette hanche. On doit empommer les deux genoux.
+
+(9:34 - 9:43)
+Le pouce sur la face interne de la cuisse. Et le majeur en regard du grand trochanter. Alors, regardez la tête.
+
+(9:43 - 9:53)
+Il était au départ à l'intérieur. En faisant l'adduction. Et en poussant sur la face interne avec notre pouce.
+
+(9:54 - 10:00)
+On va luxer la tête. Là, on est dans une situation d'une hanche luxable. C'est à dire qu'il était à l'intérieur.
+
+(10:01 - 10:10)
+Et qu'il s'est luxé avec la manoeuvre. Deuxième position, c'est la hanche luxée réductible. Au départ, il était à l'extérieur.
+
+(10:11 - 10:21)
+En faisant la manoeuvre d'abduction. En poussant sur la majeure sur la face externe de la cuisse. Bien sûr, on va réintégrer la tête.
+
+(10:22 - 10:34)
+Donc, on était dans une position luxée à une position tête en place. Donc, c'est une hanche qui était luxée mais qui est réductible. Si vous trouvez ça, on dit que la manoeuvre d'Artolani est positive.
+
+(10:34 - 10:45)
+Avec un signe de Rousseau présent. Et on peut se trouver avec les deux situations. Est-ce que c'est une hanche luxable ? Est-ce que c'est une hanche luxée réductible ? Si la manoeuvre d'Artolani est positive.
+
+(10:47 - 10:53)
+Là, on a un diagnostic. On n'a pas besoin d'aller plus loin. Mais s'il est négatif, on passe à la deuxième manoeuvre.
+
+(10:54 - 11:01)
+C'est la manoeuvre de Barleau. Et comme vous voyez ici, la manoeuvre de Barleau. On emporte d'une main le genou.
+
+(11:01 - 11:29)
+Mais on bloque le bassin de l'autre main. Donc, ça se fait de côté par rapport à un côté. Alors, regardez.
+
+(11:29 - 11:36)
+Dans cette manoeuvre de Barleau. Qui cherche le signe de Piston. On fait des manoeuvres antéroposteries.
+
+(11:36 - 11:41)
+Regardez là. On bloque le bassin. On pousse le genou vers l'arrière.
+
+(11:42 - 11:47)
+Ou vers le bas, si vous voulez. Et on va sentir un passage. Un petit jeu.
+
+(11:47 - 11:51)
+Passage de la tête. En position luxée. En position normale.
+
+(11:53 - 11:58)
+Vers la position luxée. Vers l'intérieur. Et ce petit jeu là, on va le sentir comme un piston.
+
+(11:59 - 12:04)
+Donc, c'est une hanche qui était réduite. Qui se luxe. Par contre, s'il est luxé.
+
+(12:04 - 12:13)
+On va mettre la manoeuvre en tirant vers le haut. C'est à dire que la tête qui était luxée en arrière. On va la remettre en tirant vers le haut.
+
+(12:13 - 12:22)
+Donc, on est en train de la réduire. Si le signe de piston est positif. C'est à dire, c'est une maladie de luxe de la hanche.
+
+(12:22 - 12:30)
+On s'arrête là. Et on peut démarrer notre charge thérapeutique. Alors, sauf que le ressort n'est pas constant.
+
+(12:31 - 12:37)
+On trouvera le resto au début. Chez un nouveau né. Pourquoi on le trouvera ? Il est franc au début.
+
+(12:37 - 12:43)
+Parce qu'en passant d'une position normale. Vers une position luxée. La tête doit franchir un obstacle.
+
+(12:43 - 12:48)
+Qu'on appelle le labrum. Le labrum est encore saillant. Il n'est pas encore écrasé.
+
+(12:49 - 12:57)
+Donc, ça ne va pas faire brusquement. C'est un ressort franc. Avec le temps, avec ce va-et-vient, ce va-et-vient.
+
+(12:57 - 13:04)
+Ce labrum va s'émousser. On va sentir moins ce passage là. C'est pour cela qu'on parle d'un ressort léger.
+
+(13:05 - 13:12)
+Et plus tôt, on va sentir un petit piston qui commence à ressentir. Dans cette phase là. On pourra avoir un barreau positif.
+
+(13:12 - 13:17)
+Et un eutronomie positif. C'est à dire, on trouvera le piston et le ressort. Avec le temps, bien sûr.
+
+(13:18 - 13:29)
+On n'a plus de labrum. Et puis, on ne sent pas le passage brusque de la tête d'une position normale au luxé. Et on sent juste un jeu sur le piston.
+
+(13:29 - 13:39)
+Donc, on est dans une phase où c'est uniquement le manœuvre de Barlow qui est positif. Alors que la manœuvre d'Hortogne est négative. Vous voyez que le ressort n'est pas toujours présent.
+
+(13:39 - 13:43)
+Au départ, il est présent. Il devint moins présent. Après, on ne le trouve pas.
+
+(13:43 - 13:54)
+Et c'est le piston qui prend le relais. C'est pour ça que lorsque la manœuvre de Barlow d'Hortogne est négative. Il faut faire la manœuvre de Barlow à la recherche de 6 pistons.
+
+(13:55 - 14:04)
+Alors, pour réussir bien le test. Il faut que le nouveau né examinateur soit bien décontracté. Refaire les manœuvres plusieurs fois.
+
+(14:04 - 14:13)
+Avant de conclure de l'absence de luxations d'orange ou d'une manœuvre négative. Le ressort est palpable. On le sent.
+
+(14:13 - 14:19)
+Mais on ne l'est pas audible. S'il est audible. Il s'agit d'un craquement de la hanche.
+
+(14:19 - 14:28)
+Et ça, c'est un signe physiologique. Qui est en rapport avec une hypertrophie du ligament rond. Plutôt qu'une luxation de la hanche.
+
+(14:29 - 14:38)
+Un ressort et un piston, ça confirme le diagnostic. Là, on n'a pas besoin de bilan pour aller plus loin. Là, c'est suffisant pour démarrer un traitement.
+
+(14:39 - 14:51)
+Et bien sûr, l'absence des deux n'immine pas le diagnostic. Alors, si malheureusement, le diagnostic n'est pas fait à temps. Et on voit le bébé au stade nourrissant, encore plus âgé.
+
+(14:52 - 14:59)
+Malheureusement, cette hanche qui est irréductible. Elle devient irréductible. Et donc, il y a une apparition d'irréductibilité.
+
+(14:59 - 15:08)
+En général, vers l'âge de 5 à 6 mois. On commence à voir l'irréductibilité de la hanche. C'est pour ça qu'il faut traiter le bébé avant l'âge de 5 mois.
+
+(15:09 - 15:21)
+Ou avant l'âge de 4 mois. Alors, comment se passe l'évolution de la malédiction de l'hanche pour expliquer tout ça ? Alors, ça, c'est l'intomie normale de la hanche. Vous voyez que la tête fémorale a une bonne cohérence avec l'acétabulum.
+
+(15:21 - 15:30)
+Premier élément de stabilité. Deuxième élément de stabilité, c'est une capsule qui est là. Qui empêche la luxation.
+
+(15:31 - 15:41)
+Deuxième élément de stabilité, c'est la brombe qui est bien formée. Qui est faite à agrandir l'acétabulum. Et qui joue un rôle dans la stabilité de cette articulation.
+
+(15:42 - 15:48)
+Là, il s'agit d'une hanche normale. Avec le temps, bien sûr. Sous des contraintes de force au niveau intra-héterine.
+
+(15:49 - 15:57)
+La hanche va se subluxer. En faisant des étirements au niveau de la capsule. Et donc, cette capsule devient plus lâche.
+
+(15:57 - 16:07)
+Un moyen de stabilité qui commence à lâcher. La brombe qui était bien épaissie, devient mincie. Là aussi, un deuxième élément de stabilité commence à lâcher.
+
+(16:08 - 16:18)
+L'hygalomoron qui devient hypertrophié. Et là, regardez qu'on commence à perdre ces éléments de stabilité. Et expose la hanche à la luxation.
+
+(16:18 - 16:26)
+On est au stade de hanche luxable. Avec le temps, si on ne fait rien. Cette hanche va se luxer complètement.
+
+(16:26 - 16:32)
+Une hanche luxure réductible. Une capsule très dilatée. La tête complètement luxée.
+
+(16:32 - 16:43)
+L'hygalomoron très long. Et puis, regardez, même le fond de cotyle commence à se remplir par de la graisse. Et avec le temps, bien sûr.
+
+(16:44 - 16:54)
+La tête est très haute, très luxée. Et puis, le cotyle est bien rempli avec de la graisse. Et donc, on se trouve avec une hanche irréductible.
+
+(16:59 - 17:10)
+Alors, si le dépistage précoce n'est pas fait. Bien sûr, on va commencer à avoir des obstacles à la réductibilité de la hanche. Et on passe d'une hanche réductible à une hanche irréductible.
+
+(17:12 - 17:18)
+Comme nous avons vu tout à l'heure. Le labrum va s'inverser. L'hygalomoron va devenir hypertrophié.
+
+(17:18 - 17:29)
+Le cotyle va se combler avec de la graisse. Et puis, les muscles psoas et les muscles adducteurs vont se rétracter. Et donc, ils vont être un obstacle à l'abaissement de la tête.
+
+(17:29 - 17:39)
+Et qu'elle rejoigne le cotyle. Voilà, donc ça, une rétraction. Ici, les signes de Barlow.
+
+(17:40 - 17:54)
+Le manœuvre de Barlow et la manœuvre d'Hortelani sont négatifs. Là, on va faire le test d'éclixique. Alors, le test d'éclixique consiste à quoi ? C'est qu'on met l'enfant du cobitus dorsal.
+
+(17:55 - 18:10)
+Et puis, on essaie de tracer l'adyme qui rejoint l'embylique. Et l'épinylacanthère au supérieur. Et donc, le grand trochanthère, lorsqu'on le palpe avec le troisième doigt, doit se tuer sur cette même ligne.
+
+(18:11 - 18:34)
+Là, par contre, si on trace la même ligne, qui rejoint l'embylique et l'épinylacanthère au supérieur, et que le doigt qui palpe le grand trochanthère est plus haut, est ascensionné. Là, on parle d'une ascension du grand trochanthère, et par conséquent, l'ascension de la tête femorale. Donc, le test d'éclixique est positif dans ce cas.
+
+(18:42 - 18:54)
+Malheureusement, dans certaines situations, on fait le diagnostic jusqu'à l'âge de la marche. Parce que l'enfant n'a pas été dépisté, n'a pas été examiné. Et donc, à la marche, l'essai devient plus évident.
+
+(18:54 - 19:02)
+La limitation du mécanisme est franche. L'inégalité de longueur est très importante. Le signe d'éclixique confirme l'ascension du grand trochanthère.
+
+(19:03 - 19:09)
+Mais en plus, c'est un enfant qui a une boiterie. C'est une boiterie de traits de l'amour. Une boiterie d'équilibration.
+
+(19:11 - 19:28)
+Et il développe une hyperlourdose, comme vous voyez ici, une hyperlourdose compensatrice, parce que la tête se met en arrière, et le lambert se met en arrière. Une hyperlourdose compensatrice. Alors, résumons notre condétenir chez le nouveau-né.
+
+(19:29 - 19:38)
+D'abord, à l'interrogatoire, il faut chercher les facteurs de risque. A l'inspection, rechercher les signes vocateurs. Asymétrie des plis.
+
+(19:38 - 19:46)
+Le signe de galésie. Le raccourcissement du membre. Une fois qu'on arrive à ce stade-là, on passe aux manœuvres.
+
+(19:46 - 19:56)
+La manœuvre d'ortholanie, s'il est positif, c'est bon. Mais s'il est négatif, il faut faire la manœuvre de Barlow. Si la manœuvre de Barlow est positive, ok.
+
+(19:56 - 20:15)
+S'il est négatif, alors non. S'il est positif, on va se trouver avec ortholanie et Barlow, avec deux situations, hanches luxables ou réductibles. S'il est négatif, l'échographie des hanches devient importante à réaliser à l'âge de 1 mois.
+
+(20:18 - 20:26)
+Chez les nourrissons, c'est surtout l'abduction de la hanche. Souvent, les signes d'ortholanie et de Barlow sont négatifs. Voilà.
+
+(20:26 - 20:37)
+Ça peut être positif, c'est équationnel. Mais surtout, c'est négatif. Et là, c'est tout l'intérêt de signes de classique pour rechercher la sensation de grand trochanter.
+
+(20:38 - 20:50)
+Chez les grands-enfants, le diagnostic est évident. Mais on ne doit pas y arriver là. Quelle est l'intérégraphie de la radiographie standard à la naissance ? Il n'y a pas d'intérêt diagnostique.
+
+(20:50 - 21:04)
+Parce qu'il y a beaucoup de problèmes d'incidence. La tête fémorale n'est pas encore ossifiée, n'est pas visible. Il y a beaucoup de marges d'erreur pour pouvoir, peut-être dur, éliminer à tort une luxation d'orange.
+
+(21:05 - 21:15)
+Il n'est pas contributif dans le dépistage. Donc la projection des lignes de petits est abandonnée. Parce que c'est une projection qui doit être faite à la naissance.
+
+(21:15 - 21:25)
+Donc pas de radiographie à la naissance pour le dépistage. Par contre, il reste important à partir de l'âge de 3 mois. Pourquoi ? Parce que les têtes fémorales sont visibles.
+
+(21:26 - 21:41)
+Elles commencent à être visibles et la marge d'erreur devient dérisoire. C'est ce qu'on appelle la projection de l'ombre d'âne. Elle consiste à quoi ? C'est de tracer la ligne Y qui passe par le bord inférieur interne du côtîle.
+
+(21:42 - 21:55)
+Et puis, ce qu'on appelle l'indice Y est la perpendiculaire qui passe par le bord externe du côtîle. On va se trouver avec 4 cadrans. Dans le cas normal, la tête fémorale doit se situer sur le cadran inférieur interne.
+
+(21:56 - 22:11)
+Par contre, s'il est au-dessus de la ligne des Y et se situe sur le cadran supérieur externe, on est devant une hanche luxée. Comme vous voyez sur cette radiographie. Du côté gauche, la tête est sur le cadran inférieur interne, donc position normale.
+
+(22:11 - 22:25)
+Sur le côté droit, la tête n'est pas encore aussi faite, mais on le devine ici. Donc, il est sur le cadran supérieur externe, donc en position luxée. La cartographie de la hanche est un examen réalisable en perles natales.
+
+(22:25 - 22:41)
+C'est un bilan de dépistage à l'âge de 1 mois. Il permet une diagnostic de la luxation de la hanche, mais il permet encore plus de détecter même des discrètes anomalies anatomiques. Il est utile au corps dans toutes les étapes de prise en charge au cours du traitement.
+
+(22:41 - 23:02)
+On peut regarder si la tête reste en place, si elle est guérie ou non, jusqu'à l'âge de 3 mois. Alors, c'est échographié et capital. Comme vous voyez que les estimations sont très variables d'un pays à l'autre, de 1 pour 1 000 jusqu'à 3,4 %. Pourquoi ? Parce que ça dépend du moyen de dépistage des pays.
+
+(23:02 - 23:12)
+Si on coupe le dépistage clinique échographique, l'incident devient plus élevé. Je vous donne l'exemple du Royaume-Uni. Une étude a été faite avec des hanches dépistées cliniquement.
+
+(23:12 - 23:22)
+Elles ont trouvé une incidence de 2,1. Elles sont passées à 8,1 en accouplant l'échographie. D'où l'intérêt de l'échographie dans le dépistage de l'amas déluxant de la hanche.
+
+(23:23 - 23:31)
+Le traitement peut être traité par un simple culot d'abduction. Facile à faire. Simple.
+
+(23:32 - 23:45)
+Et ça permet de mettre la hanche en position de réduction le temps que la hanche guérit. L'enjage ou l'enjage Galaragala, distillé pour le tout petit. Même principe.
+
+(23:46 - 23:58)
+Et le plus utilisé, c'est le harnais de pavlique. C'est un harnais de pavlique avec des sangles antérieures et postérieures. L'intérêt, tout l'intérêt, c'est qu'on le met chez le bébé et on n'a pas besoin d'enlever chaque fois qu'on change le cousse.
+
+(23:58 - 24:22)
+Ce n'est pas le cas de la culotte d'abduction, où on a besoin de l'enlever au moins 3 fois par jour pour changer les couches. Attelle hanche libre, c'est un autre moyen, mais ça c'est surtout après la culotte ou le harnais. Une fois que la hanche est bien traitée, on met cette attelle.
+
+(24:22 - 24:31)
+Ça permet à l'enfant de s'asseoir. C'est pour ça qu'on l'appelle attelle hanche libre. Ça permet de consolider et de faire développer encore mieux la tête fémorale.
+
+(24:34 - 24:43)
+Un autre moyen, c'est la traction aux zénithes. C'est pour les hanches irréductibles. Pour les hanches irréductibles, on ne peut ni faire de culotte ni de harnais.
+
+(24:44 - 25:01)
+Il est obligé d'hospitaliser l'enfant pendant 3 semaines avec sa maman. Traction douce, progressive, ramener la tête progressivement avec la traction, la réduire et mettre un plâtre. C'est un traitement qui nécessite une hospitalisation de 3 semaines avec une médecine générale et un plâtre.
+
+(25:04 - 25:14)
+On va enregistrer la radiographie au cours de la traction. C'était le départ au regard du luxé, au-dessus de la ligne Y. 15 jours de traction, là il est au-dessous. On a pu réduire.
+
+(25:14 - 25:24)
+On met la buxon, il se centre et voilà. On a pu réduire progressivement. Ça prend 2-3 semaines pour arriver à ce résultat sous traction.
+
+(25:25 - 25:49)
+Alors, quelle est l'indication du traitement en néonatal ? C'est pour les hanches luxables, il faut faire une surveillance. Une simple surveillance suffira et recontrôler dans un mois et examiner la hanche si tout va bien. Les hanches irréductibles, il faut absolument les traiter soit par un harnais idéal ou par un culotte d'abduction.
+
+(25:51 - 26:10)
+Par contre, une hanche irréductible, c'est une hospitalisation avec traction pendant 3 semaines puis plâtre. Si cliniquement le bébé est normal et s'il y a des facteurs de risque, il faut obligatoirement faire une échographie d'hanche à l'âge de 1 mois. Si l'échographie est anormale, il faut traiter.
+
+(26:12 - 26:34)
+Si l'échographie et la clinique sont normales avec des facteurs de risque, il faut aller vers une radiographie à l'âge de 4 mois. La complication la plus redoutable qu'il faut savoir pour la luxation de la hanche, c'est la nécrose de la tête fémorale. Elle est surtout prédisposée lorsque le harnais est trop serré ou il est porté trop longtemps.
+
+(26:35 - 26:49)
+Cela entraîne une nécrose de la tête fémorale qu'on voit ici. On ne voit pratiquement pas de tête fémorale sur l'endographie, il est presque complètement nécrose. Pour la hanche irréductible, deux moyens de traitement.
+
+(26:49 - 27:08)
+Un traitement orthopédique, c'est la traction. Traction progressive, réduire de façon progressivement un ciel fermé. Si échec de traitement orthopédique, on passe à la chirurgie, ciel ouvert, réduction et ostéosynthèse que vous voyez sur cette radiographie.
+
+(27:09 - 27:28)
+En conclusion, il faut faire un dépistage systématique à la naissance. Cela garantit des résultats meilleurs avec un traitement pas cher et en ambulatoire. L'échographie de hanche néonatale est un examen essentiel pour le dépistage chaque fois qu'on a une hanche suspecte ou un facteur de risque.
+
+(27:30 - 27:40)
+Une prise en charge précoce est l'idéal. Cela permet de traiter facilement en ambulatoire sans hospitalisation et de garantir les meilleurs résultats.

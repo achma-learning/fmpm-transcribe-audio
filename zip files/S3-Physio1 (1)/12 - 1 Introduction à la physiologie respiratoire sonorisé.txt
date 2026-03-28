@@ -1,0 +1,49 @@
+Bismillah ar-Rahman ar-Rahim, wa salat wa salam ala rasul Allah wa alihi wa sahbihi wa jama'in Chers étudiants, avant d'entamer la série de cours sur la physiologie respiratoire, on va faire une petite introduction à la physiologie respiratoire. Il y a un certain nombre de choses, un certain nombre de lois physiques qu'il faut connaître pour comprendre de quoi on va parler. Alors, tout d'abord, de quoi est constitué un appareil respiratoire ? Vous avez tout d'abord le contrôle de la ventilation.
+
+Ce sont les centres respiratoires, principalement au niveau du bulbe, un petit peu au niveau du cortex, qui vont contrôler votre respiration. Après, vous avez la ventilation. La ventilation, c'est la mécanique ventilatoire.
+
+On va le voir lors du premier cours. Là, vous avez l'appareil respiratoire. Vous avez le poumon, qui va faire entrer de l'oxygène et faire sortir du gaz carbonique.
+
+Donc là, vont intervenir un certain nombre de facteurs, les poumons, la paroi thoracique, les voies aériennes, etc. On va le voir dans la mécanique ventilatoire. Après, vous avez la diffusion alvéolocapillaire, la diffusion de l'oxygène, des alvéoles vers les capillaires, et la diffusion du gaz carbonique des capillaires vers les alvéoles pour qu'ils soient dégagés à l'extérieur.
+
+Après cette diffusion, on va voir le transport des gaz par le sang. Donc, vous avez des gaz dissous, vous avez des gaz qui sont liés à l'hémoglobine, qui vont être transportés. Là, par exemple, vous avez l'oxygène qui va aller à travers l'hémoglobine, à travers le plasma, qui va aller vers le corps gauche.
+
+Le corps gauche va le distribuer aux différentes cellules de l'organisme. Ces cellules vont dégager du gaz carbonique, qui est un déchet. Ce gaz carbonique peut être transporté à son tour par l'hémoglobine ou par le plasma.
+
+Il va aller vers le cœur droit. Le cœur droit, donc, à travers l'artère pulmonaire, il va transporter le gaz carbonique. Il va être redégagé vers le poumon et dégagé vers l'extérieur.
+
+Donc, on a différentes étapes. On a le contrôle de la ventilation. La ventilation en elle-même, la diffusion alvéolocapillaire, le transport des gaz par le sang et puis la respiration cellulaire.
+
+La respiration cellulaire, on va en parler brièvement lors des transports des gaz. Il y a un certain nombre de lois physiques qu'il faut connaître en physiologie respiratoire pour que vous puissiez comprendre de quoi on va parler. Tout d'abord, il y a la loi de Boyle-Mariotte.
+
+Cette loi est très utile, surtout dans la mécanique ventilatoire. À une température constante, la pression P d'un gaz est inversement proportionnelle à son volume. Ça veut dire quoi ? Ça veut dire que la multiplication de la pression, le produit de la pression par le volume, est une constante.
+
+Donc, plus la pression augmente, plus le volume diminue et vice-versa. La deuxième loi, c'est la loi de Charles. À pression constante, le volume d'un gaz est proportionnel à sa température absolue.
+
+Ce qui est tout à fait logique. Ça, vous avez dû le voir en terminale. Plus une température augmente, plus le volume augmente.
+
+Il y a également la loi d'Avogadro. Vous avez dû le voir en chimie. Dans les conditions standards STPD, c'est-à-dire Standard Temperature, Pressure and Dry, c'est les conditions où la température est à 0°C et la pression est à 760 mmHg, c'est-à-dire 1 atmosphère.
+
+Ce ne sont pas les conditions ambiantes, on va dire. Mais pour simplifier les choses, on va définir le STPD et le BTPS. Une molle d'un gaz parfait sec occupe 22,4 litres.
+
+Donc, vous voyez, une molle, c'est toujours 22,4 litres. C'est à peu près 6 10 puissance 23 atomes. Et, par exemple, pour l'oxygène, 16 g d'oxygène occupent 22,4 litres.
+
+Pour le gaz carbonique, ou pour le carbone, par exemple, c'est 12 g, et ainsi de suite. Donc, pour chaque élément, il a un poids moyen qui va occuper exactement 22,4 litres et qui va contenir 6,022 10 puissance 23 atomes. C'est la loi d'Avogadro.
+
+Vous avez également la loi des gaz parfaits. C'est la combinaison de ces trois lois, la loi de Charles, de Boyle-Mariott et d'Avogadro. On va déduire que PV, le produit de P par V, égale nRT.
+
+Ça, vous connaissez également. N, c'est le nombre de molles de gaz. R, c'est la constante des gaz parfaits.
+
+Et la température, RT, c'est la température du gaz en degrés Kelvin. Donc, vous voyez que le produit est directement proportionnel à la température et au nombre de molles. Il y a aussi la loi de Dalton.
+
+C'est une loi très importante. On va la voir dans les échanges gazeux et également dans les transports des gaz dans le sang. La pression partielle d'un gaz, Px, dans un mélange gazeux dans un volume V et la pression qu'il exercerait s'il occupait seul le volume V. Ça veut dire quoi ? La pression de ce gaz, c'est la pression barométrique qui multiplie la fraction de ce gaz.
+
+Si, par exemple, cette fraction est de 30%, vous allez multiplier 30% par la pression barométrique pour obtenir cette pression partielle. Ça, c'est dans les conditions STBD, c'est-à-dire la température à zéro et pression barométrique 760, c'est-à-dire 1 atmosphère. Mais, dans les conditions à l'intérieur du corps humain, c'est un petit peu différent.
+
+Pourquoi ? Parce que les gaz à l'intérieur du corps humain sont saturés en eau. Donc, dans les conditions BTPS, Body Temperature and Pressure Saturated, saturés en eau, il faut retrancher la pression en eau. Ça veut dire que cette Px, donc cette pression partielle, ça va être la pression barométrique moins la pression en eau, qui est de 47 mmHg à peu près, à 37 degrés, qui multiplie la fraction de ce gaz.
+
+Et c'est comme ça qu'on va calculer la pression partielle. On va le voir pour la pression partielle en oxygène et la pression partielle en gaz carbone. Et puis, il y a la loi d'Henry qu'on verra également dans le transport des gaz.
+
+La concentration d'un gaz X dissous, mol en unité de volume, est proportionnelle à la pression partielle de ce gaz et à son coefficient de solubilité. Et en fonction du gaz, là vous voyez la concentration du gaz, en fonction du gaz, vous avez un coefficient de solubilité qui est différent. Par exemple, le gaz carbonique est 20 fois plus soluble que l'oxygène.
+
+Cette concentration, vous allez la calculer en fonction de la pression partielle de l'oxygène ou du gaz carbonique, qui multiplie son coefficient de solubilité, qui divise la pression barométrique qui est de 760 mmHg, c'est-à-dire 1 atmosphère.

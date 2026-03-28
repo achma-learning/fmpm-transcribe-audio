@@ -1,0 +1,61 @@
+(0:00 - 0:22)
+Bonjour à toutes et à tous, et bienvenue à cette capsule de travaux pratiques de l'UChimie destinée aux étudiants de deuxième année de médecine. Notre capsule est divisée en deux parties. La première partie concerne le dosage de protéines séries, et la deuxième partie est concernée à l'hydrochlorique de protéines séries.
+
+(0:24 - 1:00)
+Dans la première partie, le but est de déterminer la concentration en protéines séries totales d'un sérum X. Le dosage de protéines séries totales repose presque exclusivement sur la réaction de buré. En effet, l'addition d'un réactif de buré ou bien d'un réactif hormonal sur un sérum conduit à la formation d'un complexe violet. Ce complexe se forme par fixation des azotes divisants peptidiques sur liant cuivré.
+
+(1:01 - 1:34)
+Pour réaliser cette manipulation, on doit d'abord préparer la gamme d'étalons à partir du BSA 0,1%, l'albuminisé bovine. Quatre solutions duluées sont préparées à partir de la solution du BSA par ajout de l'eau physiologique de la serre. Les solutions sont, ou bien les solutions sont illustrées dans le tableau suivant.
+
+(1:35 - 1:51)
+S1, S2, S3 et S4. Le volume final est 2,5 ml dans chacune des solutions diluées. Le sérum X est dilué 40 fois.
+
+(1:52 - 2:46)
+Après, on fait l'ajout de 2,5 ml de réactif hormonal ou bien réactif de buré modifié. 2,5 ml sont prélevés puis ajoutés à la solution S1. On ajoute 2,5 ml à S2 aussi.
+
+(2:57 - 3:11)
+2,5 ml à la solution S3. S4. S5.
+
+(3:18 - 3:52)
+On ajoute aussi réactif de bornel au blanc. Enfin, 2,5 ml dans la solution diluée du sérum inconnue X. Un temps d'attente de 15 minutes est nécessaire pour le développement de la coloration violette. Ceci se fait à l'avis de la lumière.
+
+(3:53 - 4:17)
+Comme vous le voyez, toutes les solutions ont développé une coloration violette. On passe maintenant à la deuxième phase qui est la mesure des quantités optiques des différentes solutions dans ce spectrophotomètre. Les mesures se font à une longueur d'ongle de 540 nanomètres après avoir réglé le sérum d'absorption sur le blanc de la gamme métal.
+
+(4:17 - 4:55)
+Les mesures des quantités optiques des différentes solutions sont illustrées dans ce tableau avec les concentrations correspondantes. Les concentrations sont calculées à partir de la formule CIDI-ICFR avec CIDI la concentration initiale des solutions, V, le volume initial, CF, c'est la concentration recherchée, et VF, le volume final de la solution diluée de 2,5 ml. Après, on trace le graphique de la quantité optique en fonction de la concentration des protéines.
+
+(4:57 - 5:21)
+Le graphique est conçu et à partir de l'absorbance du sérum diluée en petits millimètres, sa concentration correspondante. La concentration diluée est de 1,25 g par millimètre. 5 multiplications par 40 donne la concentration d'une alle du sérum de 1,5 g par millimètre.
+
+(5:22 - 5:48)
+La deuxième partie de cette capsule est consacrée à l'hydrophoresse des protéines CIDI. C'est une technique qui permet de séparer, identifier et calculer le pourcentage de différentes fractions des protéines existantes dans le sérum. Dans notre manipulation, on va juste utiliser un sérum normal pour comprendre la technique d'hydrophoresse.
+
+(5:50 - 7:14)
+Pour réaliser cette manipulation, on aura besoin d'un membrane de cellulogène initialement conservé pendant 15 minutes dans une solution tampon basique, un support sur lequel on fixe la membrane, un porte échantillon de sérum, un applicateur, une cuve d'électrophorese et un générateur. Pour les réactifs, on aura besoin d'une solution tampon de 250 ml, un colorant qui est le rouge, de l'acide acétique pour les décolorations. On va commencer par mettre la solution tampon dans la cuve d'électrophorese, puis on ajuste un petit peu pour équilibrer le volume des deux côtés de la cuve d'électrophorese.
+
+(7:17 - 8:29)
+Après, on prend la membrane initialement mise dans une solution tampon pendant 15 minutes, on la sèche, puis on la dépose sur le support, de telle façon à ce que la partie coupée de la membrane soit mise en bas à droite du côté moins. On la fixe sur le support et on la fixe de l'autre côté. Puis on la dépose dans la cuve d'électrophorese de telle façon à mettre le côté moins du côté de la capote.
+
+(8:40 - 9:57)
+Ensuite, on prélève 10 microlitres de sérum pour les déposer sur le porte-échantillon. On va répéter l'opération trois fois. Ensuite, je prends mon applicateur et je le mets dessus pour prélever mes échantillons, pour les déposer ensuite sur la membrane de sérum.
+
+(10:00 - 11:49)
+Du côté moins, bien sûr, parce que la migration se fait de la capote vers l'autre. Je ferme la cuve d'électrophorese et je la branche ensuite au générateur. Je le mets en marche. 
+
+Je laisse l'électrophorese se dérouler pendant 30 minutes. Après 30 minutes, on arrête le générateur et on récupère notre membrane. On passe ensuite à la phase de coloration. 
+
+Cette phase se fait avec un rouge pinceau. C'est une opération qui dure 10 minutes. Je mets l'agitateur en marche.
+
+(12:02 - 13:36)
+Après 10 minutes, on arrête l'agitation et on passe à la phase de décoloration par l'acide acétique. On répète l'opération plusieurs fois, le temps que la membrane soit bien décolorée. Après plusieurs lavages à l'acide acétique, on obtient le résultat suivant. 
+
+Comme vous le voyez, toutes les fractions protéiques du sérum sont observées. La tâche la plus intense correspond à l'albumin. Vous voyez 1,1, 1,2 β également.
+
+(13:37 - 14:30)
+Pour faire une lecture sur un densitomètre, il faut toujours précéder par une phase de transformation. Dans ces cas positifs, on obtient le résultat de l'électrophorese de sérum de quelques patients avec leur profil densitométique correspondant. Si je prends le cas du patient 2, on remarque que les immunoglobulins sont très concentrés dans le sérum alors que les concentrations de fractions protéiques sont faibles. 
+
+Cela est synonyme d'une hypergammaglobuline. Si je prends le cas du patient 3, on remarque que le sérum est dépourvu des immunoglobulins alors que les concentrations de fractions protéiques sont normales. Cela est synonyme d'une A-gammaglobuline.
+
+(14:30 - 14:49)
+En conclusion, on peut dire que le dosage d'électrophoreses protéines ciblées sont des examens clés pour le dépistage et le diagnostic de plusieurs pathologies de désordre nutritionnel, de syndromes néphrotiques ou de syndromes inflammatory.

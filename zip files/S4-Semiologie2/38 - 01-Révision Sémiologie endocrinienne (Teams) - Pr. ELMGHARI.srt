@@ -1,0 +1,8059 @@
+1
+00:00:04,720 --> 00:00:08,820
+Bonjour tout le monde, j'espère que tout
+
+2
+00:00:08,820 --> 00:00:09,480
+le monde va bien.
+
+3
+00:00:12,320 --> 00:00:15,180
+On s'est dit qu'on allait vous
+
+4
+00:00:15,180 --> 00:00:18,200
+retrouver en présentiel mais c'est encore pas
+
+5
+00:00:18,200 --> 00:00:21,920
+le cas, donc on se contente du virtuel
+
+6
+00:00:21,920 --> 00:00:26,100
+mais on va essayer ensemble de répondre en
+
+7
+00:00:26,100 --> 00:00:29,800
+fait à vos questionnements et aux problèmes que
+
+8
+00:00:29,800 --> 00:00:32,220
+vous avez rencontrés lors de la lecture de
+
+9
+00:00:32,220 --> 00:00:36,520
+vos cours en faisant cette séance de révision.
+
+10
+00:00:38,480 --> 00:00:42,400
+Donc en fait, j'étais là avant l
+
+11
+00:00:42,400 --> 00:00:44,400
+'heure, on a pris un peu de retard
+
+12
+00:00:44,400 --> 00:00:45,820
+parce qu'il y avait un souci.
+
+13
+00:00:46,280 --> 00:00:47,580
+En fait, je pense qu'il y avait
+
+14
+00:00:47,580 --> 00:00:50,760
+deux types de programmation au niveau de la
+
+15
+00:00:50,760 --> 00:00:51,060
+fac.
+
+16
+00:00:51,240 --> 00:00:53,240
+Quelqu'un l'a programmé à 9h et
+
+17
+00:00:53,240 --> 00:00:55,760
+quelqu'un d'autre l'a programmé à
+
+18
+00:00:55,760 --> 00:00:57,940
+10h30, donc il fallait trancher.
+
+19
+00:00:58,840 --> 00:01:00,760
+En tout cas, je suis là et si
+
+20
+00:01:00,760 --> 00:01:01,960
+vous voulez, on commence.
+
+21
+00:01:03,260 --> 00:01:05,220
+On peut commencer ?
+
+22
+00:01:05,220 --> 00:01:06,320
+Est-ce que vous m'entendez ?
+
+23
+00:01:06,320 --> 00:01:08,460
+Est-ce que la voix est claire ?
+
+24
+00:01:11,820 --> 00:01:13,140
+On commence ?
+
+25
+00:01:18,930 --> 00:01:20,670
+Vous m'entendez ?
+
+26
+00:01:23,330 --> 00:01:26,030
+Allez, on commence.
+
+27
+00:01:27,930 --> 00:01:30,630
+Alors, j'attends vos réactivités, donc c'est
+
+28
+00:01:30,630 --> 00:01:36,830
+une séance interactive, donc il faut que ça
+
+29
+00:01:36,830 --> 00:01:39,030
+soit en fait participatif pour qu'il y
+
+30
+00:01:39,030 --> 00:01:42,010
+ait le maximum de bénéfices.
+
+31
+00:01:42,330 --> 00:01:44,570
+On commence par le premier cas qui est
+
+32
+00:01:44,570 --> 00:01:49,090
+celui d'un patient de 50 ans qui
+
+33
+00:01:49,090 --> 00:01:52,430
+a comme antécédent une hypertension depuis 5 ans
+
+34
+00:01:52,430 --> 00:01:55,130
+et une hypertriglycéridémie.
+
+35
+00:01:56,750 --> 00:02:01,590
+Quand on pose la question sur l'hérédité
+
+36
+00:02:01,590 --> 00:02:06,050
+familiale du diabète, on retrouve effectivement une hérédité
+
+37
+00:02:06,050 --> 00:02:08,570
+du côté paternel, donc un diabète de type
+
+38
+00:02:08,570 --> 00:02:12,590
+2, donc chez le frère et le père.
+
+39
+00:02:13,870 --> 00:02:17,590
+Il est sédentaire, donc employé de banque.
+
+40
+00:02:18,450 --> 00:02:20,530
+Il a un surpoids à 28 kg par
+
+41
+00:02:20,530 --> 00:02:23,970
+m², un tour de taille pathologique à 100
+
+42
+00:02:23,970 --> 00:02:24,530
+cm.
+
+43
+00:02:25,410 --> 00:02:29,290
+Il n'a aucun symptôme, donc il n
+
+44
+00:02:29,290 --> 00:02:31,950
+'urine pas beaucoup, il n'est pas asthénique
+
+45
+00:02:31,950 --> 00:02:38,390
+et accidentellement, il chiffre avec le glucomètre de
+
+46
+00:02:38,390 --> 00:02:42,570
+son père en fait, une glycémie le matin
+
+47
+00:02:42,570 --> 00:02:44,670
+à 11 heures, il la trouve à 1
+
+48
+00:02:44,670 --> 00:02:45,290
+,88.
+
+49
+00:02:49,020 --> 00:02:52,300
+Alors, de quoi peut-il s'agir en
+
+50
+00:02:52,300 --> 00:02:53,540
+fait ?
+
+51
+00:02:55,240 --> 00:02:57,400
+Est-ce qu'il s'agit d'un
+
+52
+00:02:57,400 --> 00:03:00,080
+syndrome métabolique ?
+
+53
+00:03:00,080 --> 00:03:01,220
+Est-ce qu'il peut s'agir d
+
+54
+00:03:01,220 --> 00:03:05,040
+'une intolérance des hydratocarbones ?
+
+55
+00:03:05,040 --> 00:03:06,420
+Est-ce qu'il s'agit d'un
+
+56
+00:03:06,420 --> 00:03:08,520
+pré-diabète ou d'un vrai diabète de
+
+57
+00:03:08,520 --> 00:03:14,680
+type 2 ?
+
+58
+00:03:14,680 --> 00:03:18,180
+Alors, quelqu'un peut me répondre ?
+
+59
+00:03:20,510 --> 00:03:26,250
+Alors, je reprends un patient asymptomatique, obèse, hypertendu,
+
+60
+00:03:26,670 --> 00:03:31,990
+hypertriglycéridémie, une glycémie capillaire faite accidentellement au doigt,
+
+61
+00:03:32,490 --> 00:03:33,070
+1,88.
+
+62
+00:03:33,070 --> 00:03:37,530
+C'est quoi selon vous ?
+
+63
+00:03:37,530 --> 00:03:40,270
+C'est un syndrome métabolique, intolérance aux hydrates
+
+64
+00:03:40,270 --> 00:03:42,310
+de carbone, un pré-diabète ou un diabète
+
+65
+00:03:42,310 --> 00:03:43,010
+de type 2 ?
+
+66
+00:03:43,010 --> 00:03:44,010
+J'attends vos réactions.
+
+67
+00:03:44,670 --> 00:03:45,370
+Madame ?
+
+68
+00:03:45,370 --> 00:03:46,270
+Oui, dites-moi.
+
+69
+00:03:46,670 --> 00:03:48,110
+Je pense que c'est un diabète de
+
+70
+00:03:48,110 --> 00:03:49,730
+type 2 parce qu'il y a plusieurs
+
+71
+00:03:49,730 --> 00:03:53,590
+facteurs de risque, à savoir l'héréditaire, la
+
+72
+00:03:53,590 --> 00:03:56,350
+sédentarité, l'indice de masse corporelle et les
+
+73
+00:03:56,350 --> 00:03:57,210
+hypertendus.
+
+74
+00:03:58,590 --> 00:03:59,010
+D'accord.
+
+75
+00:04:00,650 --> 00:04:03,950
+Oui, ça peut s'agir d'un diabète
+
+76
+00:04:03,950 --> 00:04:04,510
+de type 2.
+
+77
+00:04:05,070 --> 00:04:06,390
+Mais qui me dit que ce n'est
+
+78
+00:04:06,390 --> 00:04:11,290
+pas un pré-diabète ?
+
+79
+00:04:11,290 --> 00:04:15,370
+Est-ce que la glycémie capillaire, même si
+
+80
+00:04:15,370 --> 00:04:17,010
+on a un obèse en fait, même si
+
+81
+00:04:17,010 --> 00:04:19,149
+c'est un obèse hypertendu, est-ce qu
+
+82
+00:04:19,149 --> 00:04:23,490
+'une seule glycémie capillaire au doigt m'affirme
+
+83
+00:04:23,490 --> 00:04:26,450
+le diagnostic du diabète de type 2 et
+
+84
+00:04:26,450 --> 00:04:29,930
+m'élimine un pré-diabète par exemple ou
+
+85
+00:04:29,930 --> 00:04:34,460
+là un syndrome métabolique ?
+
+86
+00:04:34,460 --> 00:04:35,660
+Est-ce que je peux dire, est-ce
+
+87
+00:04:35,660 --> 00:04:39,980
+que le patient a un pré-diabète ?
+
+88
+00:04:39,980 --> 00:04:41,400
+Est-ce qu'il peut avoir un pré
+
+89
+00:04:41,400 --> 00:04:44,280
+-diabète avec cette glycémie capillaire à 1,88
+
+90
+00:04:44,280 --> 00:04:45,000
+?
+
+91
+00:04:47,210 --> 00:04:50,270
+C'est quoi le diagnostic du diabète ?
+
+92
+00:04:52,480 --> 00:04:53,860
+Répondez-moi s'il vous plaît pour que
+
+93
+00:04:53,860 --> 00:04:55,760
+ça soit bénéfique pour vous, pour que ce
+
+94
+00:04:55,760 --> 00:04:56,540
+soit clair.
+
+95
+00:04:58,100 --> 00:04:59,140
+C'est hyper important.
+
+96
+00:04:59,620 --> 00:05:01,300
+C'est une glycémie à jeunes supérieures à
+
+97
+00:05:01,300 --> 00:05:03,680
+26, vérifié 2 fois.
+
+98
+00:05:03,980 --> 00:05:07,500
+Et, ou, une glycémie faite à n'importe
+
+99
+00:05:07,500 --> 00:05:10,020
+quel moment de la journée supérieure à ?
+
+100
+00:05:10,020 --> 00:05:10,240
+2.
+
+101
+00:05:11,600 --> 00:05:14,380
+Donc là, on a fait une glycémie aléatoire
+
+102
+00:05:14,380 --> 00:05:15,680
+à 11 heures du matin.
+
+103
+00:05:16,860 --> 00:05:18,000
+On vous a pas dit que c'est,
+
+104
+00:05:18,500 --> 00:05:20,220
+elle n'est pas à jeunes parce qu
+
+105
+00:05:20,220 --> 00:05:22,020
+'en fait c'est à la fin de
+
+106
+00:05:22,020 --> 00:05:22,480
+matinée.
+
+107
+00:05:23,100 --> 00:05:25,920
+Est-ce qu'elle dépasse 2 ?
+
+108
+00:05:25,920 --> 00:05:26,260
+Non.
+
+109
+00:05:26,400 --> 00:05:28,120
+Est-ce qu'elle dépasse 2 ?
+
+110
+00:05:28,120 --> 00:05:28,220
+Non.
+
+111
+00:05:28,560 --> 00:05:31,280
+Donc, il peut s'agir, vous avez tout
+
+112
+00:05:31,280 --> 00:05:32,640
+à fait raison, il peut s'agir d
+
+113
+00:05:32,640 --> 00:05:33,640
+'un diabète de type 2.
+
+114
+00:05:34,020 --> 00:05:35,520
+Mais il peut s'agir aussi d'un
+
+115
+00:05:35,520 --> 00:05:38,520
+pré-diabète ou d'une nanotolérance aux hydrates
+
+116
+00:05:38,520 --> 00:05:39,080
+de carbone.
+
+117
+00:05:39,240 --> 00:05:40,400
+Est-ce que vous avez, vous êtes d
+
+118
+00:05:40,400 --> 00:05:40,640
+'accord ?
+
+119
+00:05:40,640 --> 00:05:41,960
+Parce qu'il me faut d'autres choses.
+
+120
+00:05:42,620 --> 00:05:44,140
+Je peux pas me contenter d'une seule
+
+121
+00:05:44,140 --> 00:05:46,220
+glycémie capillaire pour poser le diagnostic, c'est
+
+122
+00:05:46,220 --> 00:05:47,320
+pas suffisant.
+
+123
+00:05:47,840 --> 00:05:49,000
+Est-ce que c'est clair pour vous
+
+124
+00:05:49,000 --> 00:05:50,200
+?
+
+125
+00:05:50,200 --> 00:05:52,120
+S'il vous plaît, si vous avez des
+
+126
+00:05:52,120 --> 00:05:54,000
+doutes, je suis là pour vous.
+
+127
+00:05:55,020 --> 00:05:56,320
+On est là pour vous.
+
+128
+00:05:56,820 --> 00:05:59,320
+Et comme ils se sont trempés, ils ont
+
+129
+00:05:59,320 --> 00:06:03,720
+en fait planifié la matinée, donc il n
+
+130
+00:06:03,720 --> 00:06:04,220
+'y a pas de souci.
+
+131
+00:06:04,660 --> 00:06:06,500
+Donc, je suis là avec vous jusqu'à
+
+132
+00:06:06,500 --> 00:06:07,340
+ce que vous compreniez.
+
+133
+00:06:09,320 --> 00:06:10,620
+Est-ce qu'il y a du doute
+
+134
+00:06:10,620 --> 00:06:13,060
+là-dessus ?
+
+135
+00:06:13,060 --> 00:06:16,920
+Vous êtes d'accord que, enfin, je suis
+
+136
+00:06:16,920 --> 00:06:17,940
+pas au-dessus de 2 grammes.
+
+137
+00:06:17,940 --> 00:06:18,980
+Donc, je peux pas dire que c'est
+
+138
+00:06:18,980 --> 00:06:22,300
+un diabète de type 2, enfin, presque sûr.
+
+139
+00:06:23,080 --> 00:06:24,580
+Je suis en dessous de 2 grammes.
+
+140
+00:06:25,800 --> 00:06:27,600
+C'est vrai que j'ai tous les
+
+141
+00:06:27,600 --> 00:06:28,560
+facteurs de risque.
+
+142
+00:06:29,140 --> 00:06:31,140
+Mais j'ai besoin de quelque chose pour
+
+143
+00:06:31,140 --> 00:06:32,380
+me confirmer le diagnostic.
+
+144
+00:06:32,520 --> 00:06:33,620
+Vous êtes d'accord ou pas ?
+
+145
+00:06:33,620 --> 00:06:36,840
+Je vais pas passer au suivant jusqu'à
+
+146
+00:06:36,840 --> 00:06:38,480
+ce que vous me dites de passer.
+
+147
+00:06:39,440 --> 00:06:41,300
+Je peux passer ?
+
+148
+00:06:42,670 --> 00:06:43,630
+Madame ?
+
+149
+00:06:43,630 --> 00:06:44,130
+Dites-moi.
+
+150
+00:06:44,570 --> 00:06:46,870
+Madame, quels sont les éléments qui nous permettent
+
+151
+00:06:46,870 --> 00:06:49,530
+de confirmer que c'est un diabète de
+
+152
+00:06:49,530 --> 00:06:50,330
+type 2 ?
+
+153
+00:06:50,330 --> 00:06:50,430
+Voilà.
+
+154
+00:06:50,910 --> 00:06:53,830
+Donc là, on va y répondre de suite.
+
+155
+00:06:55,590 --> 00:06:58,770
+Je voulais vous dire qu'aussi ce monsieur
+
+156
+00:06:58,770 --> 00:07:01,050
+est le syndrome métabolique.
+
+157
+00:07:02,390 --> 00:07:05,510
+Le syndrome métabolique, c'est une définition qui
+
+158
+00:07:05,510 --> 00:07:09,610
+est en rapport avec la présence d'hypertension,
+
+159
+00:07:10,110 --> 00:07:13,010
+de troubles lipidiques et de troubles glycémiques.
+
+160
+00:07:13,630 --> 00:07:16,270
+Donc, le syndrome métabolique, c'est un syndrome
+
+161
+00:07:16,270 --> 00:07:21,850
+qui va regrouper une hypertension, des dyslipidémies et
+
+162
+00:07:21,850 --> 00:07:25,450
+une dysglycémie, qu'il soit diabète, prédiabète ou
+
+163
+00:07:25,450 --> 00:07:25,770
+autre.
+
+164
+00:07:26,570 --> 00:07:29,290
+Donc, le monsieur, en plus du problème de
+
+165
+00:07:29,290 --> 00:07:31,510
+diabète qu'on va essayer d'étiqueter, est
+
+166
+00:07:31,510 --> 00:07:32,790
+-ce qu'il s'agit très bien d
+
+167
+00:07:32,790 --> 00:07:36,130
+'un T2 ou d'un prédiabète ou autre
+
+168
+00:07:36,130 --> 00:07:38,890
+chose, il a un syndrome métabolique.
+
+169
+00:07:38,890 --> 00:07:40,350
+Donc, c'est un patient qui a un
+
+170
+00:07:40,350 --> 00:07:42,830
+syndrome métabolique et qui a un problème de
+
+171
+00:07:42,830 --> 00:07:44,530
+dysglycémie qu'on va essayer d'étiqueter.
+
+172
+00:07:45,310 --> 00:07:51,760
+Alors, que faut-il faire pour étiqueter justement,
+
+173
+00:07:51,860 --> 00:07:53,740
+pour répondre à ta question ?
+
+174
+00:07:53,740 --> 00:07:54,820
+Qu'est-ce qu'il faut faire pour
+
+175
+00:07:54,820 --> 00:08:05,160
+confirmer le diagnostic ?
+
+176
+00:08:05,960 --> 00:08:07,360
+Une glycémie H1.
+
+177
+00:08:08,980 --> 00:08:10,340
+Combien ?
+
+178
+00:08:10,340 --> 00:08:12,160
+Alors, est-ce qu'on fait une glycémie
+
+179
+00:08:12,160 --> 00:08:14,320
+capillaire parce que le monsieur, il a…
+
+180
+00:08:14,880 --> 00:08:15,020
+Non.
+
+181
+00:08:18,300 --> 00:08:20,500
+Oui ?
+
+182
+00:08:21,320 --> 00:08:24,360
+Deux glycémies H1 sur le sang veineux ?
+
+183
+00:08:24,360 --> 00:08:29,360
+Effectivement, j'ai besoin de faire deux glycémies
+
+184
+00:08:29,360 --> 00:08:31,220
+H1 sur le sang veineux.
+
+185
+00:08:31,960 --> 00:08:34,919
+Regardez, on va voir toutes les propositions et
+
+186
+00:08:34,919 --> 00:08:35,659
+vous me répondez.
+
+187
+00:08:35,659 --> 00:08:38,179
+Une glycémie capillaire H1 parce que ce monsieur
+
+188
+00:08:38,179 --> 00:08:40,159
+avait une glycémie capillaire postprandiale.
+
+189
+00:08:40,860 --> 00:08:43,360
+Une glycémie H1, une seule sur le sang
+
+190
+00:08:43,360 --> 00:08:43,700
+veineux.
+
+191
+00:08:44,020 --> 00:08:46,800
+Deux glycémies H1 sur le sang veineux avec
+
+192
+00:08:46,800 --> 00:08:48,180
+10 à 15 jours d'intervalle.
+
+193
+00:08:48,820 --> 00:08:51,560
+Une glycémie postprandiale sur le sang veineux.
+
+194
+00:08:51,720 --> 00:08:53,720
+Deux glycémies postprandiales sur le sang veineux.
+
+195
+00:08:54,100 --> 00:08:58,240
+Une HGPO, une hyperglycémie provoquée orale.
+
+196
+00:08:58,640 --> 00:08:59,980
+Ou une hémoglobine glycée.
+
+197
+00:09:00,880 --> 00:09:04,400
+Donc, pourquoi pas une glycémie capillaire ?
+
+198
+00:09:04,400 --> 00:09:06,000
+Pourquoi pas ?
+
+199
+00:09:06,000 --> 00:09:08,600
+Parce que là, je veux que vous compreniez
+
+200
+00:09:08,600 --> 00:09:10,380
+le pourquoi des choses.
+
+201
+00:09:10,900 --> 00:09:12,740
+Pas seulement avoir les réponses.
+
+202
+00:09:13,860 --> 00:09:15,680
+Pourquoi on ne peut pas se contenter d
+
+203
+00:09:15,680 --> 00:09:17,580
+'une glycémie capillaire H1 ?
+
+204
+00:09:22,540 --> 00:09:25,400
+Tout simplement parce qu'elle ne veut rien
+
+205
+00:09:25,400 --> 00:09:29,140
+dire sur le champ, sur le plan administratif.
+
+206
+00:09:29,740 --> 00:09:33,140
+Par exemple, si vous voulez remplir des papiers
+
+207
+00:09:33,140 --> 00:09:35,660
+de la mutuelle pour ce monsieur ou déclarer
+
+208
+00:09:35,660 --> 00:09:38,060
+la maladie chronique, vous devez avoir une preuve
+
+209
+00:09:38,060 --> 00:09:38,840
+du laboratoire.
+
+210
+00:09:39,440 --> 00:09:41,420
+Et il faut que ça soit fait sur
+
+211
+00:09:41,420 --> 00:09:44,620
+le sang veineux sur un papier de laboratoire
+
+212
+00:09:45,700 --> 00:09:49,080
+fait sur une glycémie H1 veineuse.
+
+213
+00:09:50,080 --> 00:09:51,780
+Et pourquoi on ne va pas se contenter
+
+214
+00:09:51,780 --> 00:09:52,460
+d'une seule ?
+
+215
+00:09:52,460 --> 00:09:53,100
+Pourquoi ?
+
+216
+00:09:53,100 --> 00:09:54,240
+Répondez-moi s'il vous plaît.
+
+217
+00:09:55,600 --> 00:09:56,960
+Vous pouvez dire n'importe quoi.
+
+218
+00:09:57,100 --> 00:10:00,040
+En fait, le plus important, ce n'est
+
+219
+00:10:00,040 --> 00:10:01,580
+pas d'avoir des erreurs, mais de comprendre.
+
+220
+00:10:02,200 --> 00:10:03,600
+Ça peut être un faux positif.
+
+221
+00:10:04,000 --> 00:10:04,740
+Bravo, bravo.
+
+222
+00:10:05,700 --> 00:10:09,140
+Par exemple, on pourra tomber sur quelqu'un
+
+223
+00:10:09,140 --> 00:10:11,700
+qui a dîné, qui avait un repas de
+
+224
+00:10:11,700 --> 00:10:14,120
+fête la veille et qui a mangé à
+
+225
+00:10:14,120 --> 00:10:16,260
+minuit par exemple et qui se pointera à
+
+226
+00:10:16,260 --> 00:10:18,040
+7h30 du matin au labo.
+
+227
+00:10:18,220 --> 00:10:19,300
+Est-ce qu'il a rempli les 12
+
+228
+00:10:19,300 --> 00:10:22,300
+heures de jeûne ?
+
+229
+00:10:22,300 --> 00:10:24,400
+Dieu sait que les repas de fête sont
+
+230
+00:10:24,400 --> 00:10:24,820
+copieux.
+
+231
+00:10:25,420 --> 00:10:27,080
+OK ?
+
+232
+00:10:27,080 --> 00:10:31,080
+Donc on peut avoir ponctuellement une glycémie veineuse
+
+233
+00:10:31,080 --> 00:10:32,140
+H1 erronée.
+
+234
+00:10:32,880 --> 00:10:36,960
+C'est difficile de rater les glycémies ou
+
+235
+00:10:36,960 --> 00:10:37,960
+le diagnostic sur deux.
+
+236
+00:10:38,040 --> 00:10:39,540
+C'est pour ça qu'on demande, parce
+
+237
+00:10:39,540 --> 00:10:41,640
+qu'en fait lorsqu'on est diabétique, on
+
+238
+00:10:41,640 --> 00:10:43,700
+est type 2 pour la vie.
+
+239
+00:10:44,120 --> 00:10:45,460
+Donc il vaut mieux être sûr.
+
+240
+00:10:48,640 --> 00:10:51,320
+Ensuite, j'ai besoin de quoi d'autre
+
+241
+00:10:51,320 --> 00:10:52,240
+?
+
+242
+00:10:52,240 --> 00:10:53,740
+On ne peut se contenter que de ça
+
+243
+00:10:53,740 --> 00:10:54,420
+?
+
+244
+00:10:54,420 --> 00:10:56,000
+Ou vous avez besoin d'autre chose ?
+
+245
+00:10:58,650 --> 00:10:59,470
+Une glucosie.
+
+246
+00:11:00,330 --> 00:11:01,990
+Une hémoglobine glycosylée.
+
+247
+00:11:02,170 --> 00:11:02,590
+Très bien.
+
+248
+00:11:02,770 --> 00:11:03,770
+Pourquoi ?
+
+249
+00:11:04,510 --> 00:11:07,250
+Pourquoi on a besoin d'une hémoglobine glycosylée
+
+250
+00:11:07,250 --> 00:11:09,150
+?
+
+251
+00:11:09,150 --> 00:11:10,250
+Je vais vous répondre.
+
+252
+00:11:10,750 --> 00:11:11,610
+C'est un peu compliqué.
+
+253
+00:11:12,530 --> 00:11:14,890
+Parce que l'hémoglobine glycée, comme vous avez
+
+254
+00:11:14,890 --> 00:11:18,510
+vu au cours, c'est quoi ?
+
+255
+00:11:18,510 --> 00:11:22,940
+C'est la partie glucosée de l'aime
+
+256
+00:11:22,940 --> 00:11:24,740
+des globules rouges.
+
+257
+00:11:25,360 --> 00:11:27,840
+Donc en fait, au niveau du globule rouge,
+
+258
+00:11:28,260 --> 00:11:30,480
+il y a une protéine ou un peptide
+
+259
+00:11:30,480 --> 00:11:31,480
+qui s'appelle l'hémoglobine.
+
+260
+00:11:32,160 --> 00:11:37,760
+Et cette hémoglobine, au fur et à mesure,
+
+261
+00:11:39,940 --> 00:11:42,340
+elle fixe le sucre.
+
+262
+00:11:42,400 --> 00:11:43,420
+Elle fixe le sucre.
+
+263
+00:11:43,840 --> 00:11:46,360
+Parce que le globule rouge a besoin de
+
+264
+00:11:46,360 --> 00:11:47,160
+sucre pour vivre.
+
+265
+00:11:48,620 --> 00:11:53,440
+Donc en dosant la portion glycosylée de l
+
+266
+00:11:53,440 --> 00:11:56,900
+'aime, de l'hémoglobine glycée, on a une
+
+267
+00:11:56,900 --> 00:12:01,420
+idée sur combien de temps de dysglycémie.
+
+268
+00:12:02,260 --> 00:12:04,900
+On a une idée sur 121 jours.
+
+269
+00:12:05,240 --> 00:12:09,120
+Les trois derniers mois du patient.
+
+270
+00:12:09,520 --> 00:12:12,800
+Comment le sang du patient était saturé en
+
+271
+00:12:12,800 --> 00:12:13,240
+glucose.
+
+272
+00:12:13,340 --> 00:12:15,060
+Parce que la demi-vie de vos globules
+
+273
+00:12:15,060 --> 00:12:16,940
+rouges est de 121 jours.
+
+274
+00:12:17,080 --> 00:12:18,380
+Est-ce que c'est clair ?
+
+275
+00:12:18,380 --> 00:12:19,600
+Donc en fait, j'ai besoin de cette
+
+276
+00:12:19,600 --> 00:12:21,820
+hémoglobine glycée pour répondre au patient.
+
+277
+00:12:22,540 --> 00:12:24,480
+Est-ce que c'est un diabète récent
+
+278
+00:12:24,480 --> 00:12:26,440
+ou un diabète ancien ?
+
+279
+00:12:26,440 --> 00:12:28,520
+Et même si c'est un patient qui
+
+280
+00:12:28,520 --> 00:12:32,020
+s'est privé de sucre, parce qu'il
+
+281
+00:12:32,020 --> 00:12:35,020
+a eu peur en trouvant un 88, peut
+
+282
+00:12:35,020 --> 00:12:37,320
+-être qu'il va entreprendre de lui-même
+
+283
+00:12:37,320 --> 00:12:37,940
+un régime.
+
+284
+00:12:38,320 --> 00:12:40,720
+Et qu'il va normaliser ses glycémies.
+
+285
+00:12:40,860 --> 00:12:43,300
+Peut-être qu'en faisant mes glycémies, je
+
+286
+00:12:43,300 --> 00:12:45,280
+peux tomber sur des glycémies plus ou moins
+
+287
+00:12:45,280 --> 00:12:46,180
+correctes.
+
+288
+00:12:46,560 --> 00:12:48,060
+Donc en fait, c'est l'hémoglobine glycée
+
+289
+00:12:48,060 --> 00:12:49,580
+qui va le dévoiler.
+
+290
+00:12:49,580 --> 00:12:52,600
+Parce qu'il ne va pas intervenir sur
+
+291
+00:12:52,600 --> 00:12:53,100
+trois mois.
+
+292
+00:12:53,480 --> 00:12:54,560
+Est-ce que c'est clair ?
+
+293
+00:12:54,560 --> 00:12:56,840
+On va passer à la plaque suivante lorsque
+
+294
+00:12:56,840 --> 00:12:58,020
+c'est clair pour vous.
+
+295
+00:13:00,160 --> 00:13:01,040
+Oui, madame, c'est clair.
+
+296
+00:13:01,440 --> 00:13:01,860
+Parfait.
+
+297
+00:13:02,940 --> 00:13:04,240
+Juste une question, madame.
+
+298
+00:13:04,440 --> 00:13:05,440
+Dites-moi, s'il vous plaît.
+
+299
+00:13:07,580 --> 00:13:09,720
+Quelle est la durée pour laquelle on parle
+
+300
+00:13:09,720 --> 00:13:12,240
+du jeûne ?
+
+301
+00:13:12,240 --> 00:13:12,960
+12 heures.
+
+302
+00:13:14,700 --> 00:13:16,140
+12 heures de jeûne, en fait.
+
+303
+00:13:16,440 --> 00:13:18,940
+Il faut respecter un minimum de 12 heures
+
+304
+00:13:18,940 --> 00:13:19,500
+de jeûne.
+
+305
+00:13:20,880 --> 00:13:22,380
+D'accord, madame, merci beaucoup.
+
+306
+00:13:23,160 --> 00:13:25,040
+Alors, dites-moi.
+
+307
+00:13:26,440 --> 00:13:28,640
+Est-ce que la présence de glucose dans
+
+308
+00:13:28,640 --> 00:13:32,380
+les urines est suffisante avec une glycémie élevée
+
+309
+00:13:32,380 --> 00:13:34,560
+pour établir le diagnostic de diabète de type
+
+310
+00:13:34,560 --> 00:13:35,500
+2 ?
+
+311
+00:13:35,500 --> 00:13:37,700
+Non, ce n'est pas suffisant.
+
+312
+00:13:38,920 --> 00:13:41,700
+Parce qu'en fait, c'est un peu
+
+313
+00:13:41,700 --> 00:13:45,700
+compliqué de poser le diagnostic de diabète de
+
+314
+00:13:45,700 --> 00:13:49,240
+type 2 sur les glycémies capillaires.
+
+315
+00:13:49,240 --> 00:13:55,100
+Et la glycémie, le sucre dans les urines.
+
+316
+00:13:55,640 --> 00:13:56,600
+Mais, mais, mais.
+
+317
+00:13:57,140 --> 00:13:58,660
+Je ne vais pas griller les étapes.
+
+318
+00:13:59,120 --> 00:14:00,620
+Vous allez voir que pour le diabète de
+
+319
+00:14:00,620 --> 00:14:04,460
+type 1, si la personne a une glycémie
+
+320
+00:14:04,460 --> 00:14:07,520
+capillaire très augmentée, avec du sucre et de
+
+321
+00:14:07,520 --> 00:14:09,700
+l'acétone dans les urines, donc une glycémie
+
+322
+00:14:09,700 --> 00:14:12,480
+capillaire qui va dépasser bien sûr 2 grammes,
+
+323
+00:14:12,900 --> 00:14:15,160
+et du sucre et de l'acétone dans
+
+324
+00:14:15,160 --> 00:14:16,660
+les urines, là, il n'y a pas
+
+325
+00:14:16,660 --> 00:14:18,120
+photo, c'est un diabète de type 1.
+
+326
+00:14:18,120 --> 00:14:21,060
+On peut dire, en fait, c'est un
+
+327
+00:14:21,060 --> 00:14:21,500
+diabète.
+
+328
+00:14:22,300 --> 00:14:23,540
+Mais ce n'est pas le cas chez
+
+329
+00:14:23,540 --> 00:14:25,100
+le DT2, parce qu'il y a, comme
+
+330
+00:14:25,100 --> 00:14:26,440
+vous l'avez vu, il y a plusieurs
+
+331
+00:14:26,440 --> 00:14:27,840
+diagnostics différentiels.
+
+332
+00:14:27,960 --> 00:14:29,300
+Je ne peux pas dire, c'est un
+
+333
+00:14:29,300 --> 00:14:30,820
+diabète de type 2, ce n'est pas
+
+334
+00:14:30,820 --> 00:14:32,280
+un pré-diabète.
+
+335
+00:14:32,500 --> 00:14:32,940
+Je ne peux pas.
+
+336
+00:14:33,400 --> 00:14:36,400
+Parce qu'en fait, chaque jour, la dysglycémie
+
+337
+00:14:36,400 --> 00:14:36,860
+change.
+
+338
+00:14:39,580 --> 00:14:41,480
+Alors, je fais les bilans, ce que vous
+
+339
+00:14:41,480 --> 00:14:44,760
+avez demandé en fait.
+
+340
+00:14:47,000 --> 00:14:50,180
+Et je fais une glycémie post-prandiale pourquoi?
+
+341
+00:14:50,460 --> 00:14:55,820
+Parce que j'ai évoqué l'intolérance aux
+
+342
+00:14:55,820 --> 00:14:56,640
+hydrates de carbone.
+
+343
+00:14:56,840 --> 00:14:59,360
+Donc, pour dire, pour essayer de répondre à
+
+344
+00:14:59,360 --> 00:15:01,960
+ces questions, je dois la faire pour voir.
+
+345
+00:15:03,340 --> 00:15:07,640
+Donc, je fais, je retrouve en fait, une
+
+346
+00:15:07,640 --> 00:15:11,760
+glycémie agent à 0,98, une glycémie post
+
+347
+00:15:11,760 --> 00:15:15,400
+-prandiale à 2 heures, à 1,60, et
+
+348
+00:15:15,400 --> 00:15:17,720
+une hémoglobine glycée à 6,1.
+
+349
+00:15:18,900 --> 00:15:24,500
+De quel diagnostic maintenant s'agit-il?
+
+350
+00:15:25,340 --> 00:15:26,400
+Est-ce que c'est un diabète de
+
+351
+00:15:26,400 --> 00:15:26,760
+type 2?
+
+352
+00:15:30,700 --> 00:15:30,880
+Non.
+
+353
+00:15:31,500 --> 00:15:32,260
+Non, pourquoi?
+
+354
+00:15:32,740 --> 00:15:33,500
+S'il vous plaît, pourquoi?
+
+355
+00:15:33,780 --> 00:15:35,520
+Parce qu'on a une glycémie agent inférieure
+
+356
+00:15:35,520 --> 00:15:38,280
+à 1,26, une glycémie post-prandiale inférieure
+
+357
+00:15:38,280 --> 00:15:40,680
+à 2, et une hémoglobine glycée inférieure à
+
+358
+00:15:40,680 --> 00:15:41,600
+6,5%.
+
+359
+00:15:41,600 --> 00:15:44,700
+Donc, on élimine la première chose, l'intolérance
+
+360
+00:15:44,700 --> 00:15:45,800
+aux hydrates de carbone.
+
+361
+00:15:49,500 --> 00:15:50,980
+C'est quoi l'intolérance aux hydrates de
+
+362
+00:15:50,980 --> 00:15:51,260
+carbone?
+
+363
+00:15:51,380 --> 00:15:53,020
+C'est un taux de sucre qui est
+
+364
+00:15:54,080 --> 00:15:56,580
+anormalement augmenté après la prise alimentaire.
+
+365
+00:15:57,120 --> 00:15:58,800
+Deux heures après le repas, mais qui ne
+
+366
+00:15:58,800 --> 00:16:00,560
+dépasse pas les 2 grammes.
+
+367
+00:16:02,870 --> 00:16:07,090
+Donc, la glycémie post-prandiale, la GPP, il
+
+368
+00:16:07,090 --> 00:16:09,090
+y a la glycémie post-prandiale, la glycémie
+
+369
+00:16:09,090 --> 00:16:10,390
+AJ, il y a AJ.
+
+370
+00:16:11,010 --> 00:16:13,090
+C'est à essayer de les apprendre parce
+
+371
+00:16:13,090 --> 00:16:14,050
+que c'est comme ça qu'on bosse,
+
+372
+00:16:14,190 --> 00:16:14,290
+nous.
+
+373
+00:16:14,710 --> 00:16:16,550
+Même en pratique clinique, même à l'hôpital,
+
+374
+00:16:16,730 --> 00:16:18,810
+même avec les patients, même en écrivant sur
+
+375
+00:16:18,810 --> 00:16:19,510
+les bancs d'examen.
+
+376
+00:16:19,870 --> 00:16:20,950
+C'est ce qu'on écrit, en fait.
+
+377
+00:16:22,510 --> 00:16:25,130
+Peut-il s'agir d'une intolérance aux
+
+378
+00:16:25,130 --> 00:16:25,890
+hydrates de carbone?
+
+379
+00:16:30,750 --> 00:16:32,910
+Est-ce que c'est une intolérance aux
+
+380
+00:16:32,910 --> 00:16:33,650
+hydrates de carbone?
+
+381
+00:16:34,570 --> 00:16:35,870
+Si vous n'avez pas compris, vous me
+
+382
+00:16:35,870 --> 00:16:36,650
+dites, j'explique.
+
+383
+00:16:39,270 --> 00:16:39,810
+Est-ce que...
+
+384
+00:16:40,210 --> 00:16:40,570
+Oui.
+
+385
+00:16:42,170 --> 00:16:44,490
+Alors, c'est pas un diabète de type
+
+386
+00:16:44,490 --> 00:16:44,650
+2.
+
+387
+00:16:44,750 --> 00:16:45,550
+Tout le monde a compris.
+
+388
+00:16:45,810 --> 00:16:48,090
+Tout le monde est d'accord que c
+
+389
+00:16:48,090 --> 00:16:49,310
+'est pas un vrai diabète de type 2.
+
+390
+00:16:49,730 --> 00:16:50,010
+C'est ça?
+
+391
+00:16:51,530 --> 00:16:59,950
+Alors, pour ne pas être dans les états
+
+392
+00:16:59,950 --> 00:17:04,810
+pré-diabétiques ou diabétiques, je dois avoir une
+
+393
+00:17:04,810 --> 00:17:05,170
+glycémie...
+
+394
+00:17:05,170 --> 00:17:06,910
+Enfin, on va voir ça dans les définitions.
+
+395
+00:17:07,190 --> 00:17:08,410
+C'est pas un diabète de type 2.
+
+396
+00:17:09,069 --> 00:17:11,109
+Alors, une intolérance aux hydrates de carbone.
+
+397
+00:17:12,109 --> 00:17:16,250
+Normalement, moi, si je suis pas diabétique, je
+
+398
+00:17:16,250 --> 00:17:18,849
+dois pas dépasser 1,40 2 heures après
+
+399
+00:17:18,849 --> 00:17:19,950
+le repas.
+
+400
+00:17:20,030 --> 00:17:20,970
+Ce monsieur, qu'est-ce qu'il a
+
+401
+00:17:20,970 --> 00:17:21,869
+comme glycémie post-mortem?
+
+402
+00:17:21,869 --> 00:17:27,430
+Il a 1,60.
+
+403
+00:17:28,050 --> 00:17:29,190
+Est-ce que vous êtes d'accord?
+
+404
+00:17:31,680 --> 00:17:33,380
+Essayez de me répondre, sinon je peux pas
+
+405
+00:17:33,380 --> 00:17:33,900
+avancer.
+
+406
+00:17:34,580 --> 00:17:36,200
+Donc, est-ce qu'il a une intolérance
+
+407
+00:17:36,200 --> 00:17:37,420
+aux hydrates de carbone ou pas?
+
+408
+00:17:38,020 --> 00:17:38,260
+Oui.
+
+409
+00:17:38,720 --> 00:17:38,960
+Oui.
+
+410
+00:17:39,540 --> 00:17:41,400
+Est-ce qu'il a un problème dans
+
+411
+00:17:41,400 --> 00:17:42,340
+la glycémie agent?
+
+412
+00:17:44,420 --> 00:17:44,840
+Non.
+
+413
+00:17:45,100 --> 00:17:45,280
+Non.
+
+414
+00:17:47,280 --> 00:17:48,660
+Est-ce qu'il y a un souci
+
+415
+00:17:48,660 --> 00:17:49,840
+flémoglobine glycée?
+
+416
+00:17:50,960 --> 00:17:51,240
+Non.
+
+417
+00:17:51,560 --> 00:17:51,800
+Non.
+
+418
+00:17:53,160 --> 00:17:55,240
+Quelles sont les normes que vous avez dans
+
+419
+00:17:55,240 --> 00:17:56,660
+le cours flémoglobine glycée?
+
+420
+00:17:59,120 --> 00:18:02,840
+Je suis diabétique lorsque je suis supérieur ou
+
+421
+00:18:02,840 --> 00:18:05,400
+égal à 6,5.
+
+422
+00:18:05,920 --> 00:18:11,620
+Mais, entre 5, supérieur ou égal à 5
+
+423
+00:18:11,620 --> 00:18:17,640
+,8 et 6,4, je suis dans un
+
+424
+00:18:17,640 --> 00:18:18,780
+état pré-diabétique.
+
+425
+00:18:19,600 --> 00:18:20,840
+J'ai une dysglycémie.
+
+426
+00:18:20,840 --> 00:18:22,860
+C'est pas normal.
+
+427
+00:18:23,080 --> 00:18:24,600
+En fait, ça veut dire que si je
+
+428
+00:18:24,600 --> 00:18:27,440
+prends pas mes précautions, dans les 5 ans
+
+429
+00:18:27,440 --> 00:18:29,360
+à venir, ou même 10 ans, je peux
+
+430
+00:18:29,360 --> 00:18:31,300
+devenir un vrai diabétique de type 2.
+
+431
+00:18:32,520 --> 00:18:32,800
+Madame?
+
+432
+00:18:33,280 --> 00:18:33,700
+Oui?
+
+433
+00:18:34,400 --> 00:18:37,080
+Est-ce que vous pouvez répéter les valeurs
+
+434
+00:18:37,080 --> 00:18:39,940
+pré-diabétique pour l'hémoglobine glycée?
+
+435
+00:18:40,420 --> 00:18:40,880
+D'accord.
+
+436
+00:18:41,480 --> 00:18:47,260
+Lorsque je suis supérieur entre 5,8 et
+
+437
+00:18:47,260 --> 00:18:52,880
+6,4, entre 5,8 et 6,4,
+
+438
+00:18:54,040 --> 00:18:56,260
+je vais avoir un état pré-diabétique.
+
+439
+00:18:56,420 --> 00:18:58,100
+Ça veut dire que je ne suis pas
+
+440
+00:18:58,100 --> 00:18:58,700
+diabétique.
+
+441
+00:18:58,940 --> 00:19:00,920
+Parce que je ne suis diabétique que lorsque
+
+442
+00:19:00,920 --> 00:19:02,940
+je suis supérieur à 6,5.
+
+443
+00:19:04,500 --> 00:19:08,040
+Mais, on a remarqué que entre ces deux
+
+444
+00:19:08,040 --> 00:19:12,820
+chiffres, les personnes ont soit une intolérance aux
+
+445
+00:19:12,820 --> 00:19:15,420
+hydrates de carbone, soit une hyperglycémie modérée à
+
+446
+00:19:15,420 --> 00:19:15,560
+jeun.
+
+447
+00:19:16,060 --> 00:19:19,440
+Et on appelle ça un état pré-diabétique.
+
+448
+00:19:19,700 --> 00:19:21,420
+Il n'est pas diabétique, mais s'il
+
+449
+00:19:21,420 --> 00:19:23,120
+ne maigrit pas, s'il ne fait pas
+
+450
+00:19:23,120 --> 00:19:25,320
+de diète, peut-être que dans les 5,
+
+451
+00:19:25,420 --> 00:19:27,660
+10 ans à venir, il peut développer un
+
+452
+00:19:27,660 --> 00:19:28,660
+vrai diabète de type 2.
+
+453
+00:19:29,040 --> 00:19:29,800
+Est-ce que c'est compris?
+
+454
+00:19:31,440 --> 00:19:33,840
+Madame, donc, l'intolérance aux hydrates de carbone,
+
+455
+00:19:33,940 --> 00:19:36,720
+l'hyperglycémie modérée à jeun font partie des
+
+456
+00:19:36,720 --> 00:19:37,100
+pré-diabétiques?
+
+457
+00:19:37,120 --> 00:19:38,120
+C'est un pré-diabétique.
+
+458
+00:19:38,240 --> 00:19:39,380
+C'est un état pré-diabétique.
+
+459
+00:19:39,540 --> 00:19:40,440
+Ce n'est pas un diabète.
+
+460
+00:19:41,380 --> 00:19:46,580
+Les états pré-diabétiques sont soit une intolérance
+
+461
+00:19:46,580 --> 00:19:49,100
+aux hydrates de carbone qui ne dépasse pas
+
+462
+00:19:50,180 --> 00:19:52,040
+qui ne va pas dépasser les 2 grammes
+
+463
+00:19:52,040 --> 00:19:53,760
+pour me donner le diagnostic du diabète de
+
+464
+00:19:53,760 --> 00:19:57,280
+type 2, soit c'est une hyperglycémie modérée
+
+465
+00:19:57,280 --> 00:19:57,620
+à jeun.
+
+466
+00:19:59,980 --> 00:20:04,860
+Donc, pour la réponse, ce qui est anormal
+
+467
+00:20:04,860 --> 00:20:06,980
+chez moi c'est cette glycémie postprandiale.
+
+468
+00:20:08,380 --> 00:20:10,140
+Donc, c'est une intolérance aux hydrates de
+
+469
+00:20:10,140 --> 00:20:12,580
+carbone qui me classe automatiquement dans un état
+
+470
+00:20:12,580 --> 00:20:13,220
+pré-diabétique.
+
+471
+00:20:14,020 --> 00:20:15,340
+Ça veut dire que le monsieur, s'il
+
+472
+00:20:15,340 --> 00:20:17,240
+ne fait pas attention, s'il ne maigrit
+
+473
+00:20:17,240 --> 00:20:18,740
+pas, s'il ne fait pas de diète,
+
+474
+00:20:19,200 --> 00:20:21,060
+dans les années à suivre, il peut développer
+
+475
+00:20:21,060 --> 00:20:21,680
+un diabète.
+
+476
+00:20:22,140 --> 00:20:23,200
+Mais il n'est pas diabétique.
+
+477
+00:20:24,380 --> 00:20:27,480
+Madame, pourquoi on a éliminé l'hyperglycémie modérée
+
+478
+00:20:27,480 --> 00:20:27,780
+à jeun?
+
+479
+00:20:27,860 --> 00:20:30,020
+Qu'est-ce qui définit l'hyperglycémie modérée
+
+480
+00:20:30,020 --> 00:20:30,360
+à jeun?
+
+481
+00:20:32,020 --> 00:20:33,900
+Vous avez les définitions après.
+
+482
+00:20:36,170 --> 00:20:36,570
+Attendez.
+
+483
+00:20:37,110 --> 00:20:37,870
+Je vous ai tout mis.
+
+484
+00:20:39,010 --> 00:20:40,250
+Je vous ai tout mis là.
+
+485
+00:20:40,630 --> 00:20:40,910
+D'accord?
+
+486
+00:20:42,310 --> 00:20:43,190
+D'accord, madame.
+
+487
+00:20:43,730 --> 00:20:50,230
+Alors, deux ans plus tard, ce monsieur, son
+
+488
+00:20:52,390 --> 00:20:54,530
+médecin traitant, alors je te réponds, comme ça,
+
+489
+00:20:54,670 --> 00:20:55,510
+tu n'as plus de doute.
+
+490
+00:20:56,930 --> 00:21:00,370
+L'hyperglycémie modérée à jeun, c'est entre
+
+491
+00:21:00,370 --> 00:21:03,210
+1,10 et 1,25.
+
+492
+00:21:04,170 --> 00:21:05,930
+Entre 1,10 et 1,25.
+
+493
+00:21:07,050 --> 00:21:09,390
+L'hyperglycémie modérée à jeun, c'est entre
+
+494
+00:21:09,390 --> 00:21:12,210
+1,10 et 1,25.
+
+495
+00:21:12,410 --> 00:21:15,230
+Parce qu'au-delà de 1,26, c
+
+496
+00:21:15,230 --> 00:21:15,430
+'est bon.
+
+497
+00:21:16,450 --> 00:21:20,330
+Alors, deux ans plus tard, ce monsieur, comme
+
+498
+00:21:20,330 --> 00:21:23,410
+il a des antécédents, une hérédité diabétique importante,
+
+499
+00:21:27,870 --> 00:21:29,910
+il pense à faire un bilan, comme ça,
+
+500
+00:21:30,350 --> 00:21:34,630
+de glycémie, parce que on lui a dit
+
+501
+00:21:34,630 --> 00:21:36,390
+qu'il n'était pas diabétique, qu'il
+
+502
+00:21:36,390 --> 00:21:37,590
+fallait qu'il fasse un tout petit peu
+
+503
+00:21:37,590 --> 00:21:38,050
+de diète.
+
+504
+00:21:38,050 --> 00:21:39,770
+Mais ce monsieur n'a rien respecté.
+
+505
+00:21:40,850 --> 00:21:42,650
+Il n'a pas perdu du poids.
+
+506
+00:21:43,750 --> 00:21:45,650
+Il revient deux ans plus tard, il fait
+
+507
+00:21:45,650 --> 00:21:46,850
+un bilan.
+
+508
+00:21:48,070 --> 00:21:50,250
+Il fait deux glycémies à jeun et il
+
+509
+00:21:50,250 --> 00:21:51,470
+fait une hémoglobine glycée.
+
+510
+00:21:51,830 --> 00:21:55,110
+Les deux glycémies à jeun sont respectivement à
+
+511
+00:21:55,110 --> 00:21:57,130
+1,80 et à 1,45.
+
+512
+00:21:57,930 --> 00:22:04,010
+Et l'hémoglobine glycée, elle est à 6
+
+513
+00:22:04,010 --> 00:22:04,510
+,70.
+
+514
+00:22:05,250 --> 00:22:08,010
+De quoi s'agit-il maintenant ?
+
+515
+00:22:08,010 --> 00:22:09,230
+Est-ce qu'il s'agit toujours d
+
+516
+00:22:09,230 --> 00:22:10,390
+'un pré-diabète ?
+
+517
+00:22:10,390 --> 00:22:11,610
+Oui, il s'agit d'un diabète de
+
+518
+00:22:11,610 --> 00:22:12,230
+type de vrai.
+
+519
+00:22:13,370 --> 00:22:16,130
+Un vrai diabète de type de.
+
+520
+00:22:16,490 --> 00:22:16,990
+Parfait.
+
+521
+00:22:17,490 --> 00:22:18,470
+Pourquoi ?
+
+522
+00:22:19,110 --> 00:22:25,110
+Parce que j'ai deux glycémies supérieures ou
+
+523
+00:22:25,110 --> 00:22:30,420
+égales à 1,26 et j'ai une
+
+524
+00:22:30,420 --> 00:22:33,920
+hémoglobine glycée supérieure ou égale à 6,5.
+
+525
+00:22:34,040 --> 00:22:35,340
+C'est suffisant pour moi.
+
+526
+00:22:35,340 --> 00:22:37,660
+J'ai pas besoin de faire une glycémie
+
+527
+00:22:37,660 --> 00:22:38,520
+postprandiale.
+
+528
+00:22:39,480 --> 00:22:44,400
+J'ai deux éléments déjà du diagnostic positif.
+
+529
+00:22:45,840 --> 00:22:48,950
+Est-ce que c'est clair ?
+
+530
+00:22:48,950 --> 00:22:50,750
+Est-ce que c'est clair ?
+
+531
+00:22:50,750 --> 00:22:51,290
+Oui, madame.
+
+532
+00:22:51,530 --> 00:22:55,130
+Je peux me contenter de l'hémoglobine glycée
+
+533
+00:22:55,130 --> 00:22:55,490
+seulement.
+
+534
+00:22:55,970 --> 00:22:58,290
+Je peux me contenter de l'hémoglobine glycée
+
+535
+00:22:58,290 --> 00:22:58,710
+seulement.
+
+536
+00:22:59,430 --> 00:23:02,410
+S'il vous plaît, cher étudiant, écoutez-moi
+
+537
+00:23:02,410 --> 00:23:02,690
+bien.
+
+538
+00:23:03,210 --> 00:23:06,930
+Si vous lisez, si vous prenez des PDF
+
+539
+00:23:06,930 --> 00:23:11,890
+de cours de France, de diabétologie, ou bien
+
+540
+00:23:11,890 --> 00:23:14,850
+un article sur Internet, qu'est-ce que
+
+541
+00:23:14,850 --> 00:23:16,030
+vous allez trouver ?
+
+542
+00:23:16,030 --> 00:23:17,890
+S'il est ancien, parce que ça, c
+
+543
+00:23:17,890 --> 00:23:18,670
+'est les nouvelles normes.
+
+544
+00:23:19,550 --> 00:23:21,090
+C'est les nouvelles normes de diagnostic.
+
+545
+00:23:21,230 --> 00:23:22,570
+Qu'est-ce que vous allez trouver ?
+
+546
+00:23:22,570 --> 00:23:25,210
+Vous allez trouver deux glycémies supérieures ou égales
+
+547
+00:23:25,210 --> 00:23:28,050
+à 1,26 ou une glycémie faite à
+
+548
+00:23:28,050 --> 00:23:29,550
+n'importe quel moment de la journée supérieure
+
+549
+00:23:29,550 --> 00:23:30,450
+ou égale à 2 grammes.
+
+550
+00:23:30,850 --> 00:23:32,030
+Vous n'allez pas trouver ça.
+
+551
+00:23:33,170 --> 00:23:36,930
+Parce que ça, ça date de 5 ans
+
+552
+00:23:36,930 --> 00:23:37,430
+ou 6 ans.
+
+553
+00:23:38,790 --> 00:23:39,830
+Pourquoi ?
+
+554
+00:23:39,830 --> 00:23:45,230
+Parce que les endocrinologues et les diabétologues se
+
+555
+00:23:45,230 --> 00:23:49,030
+sont rendus compte que des fois, la personne
+
+556
+00:23:49,030 --> 00:23:51,690
+vient chez eux en ayant fait du jeûne
+
+557
+00:23:51,690 --> 00:23:52,350
+strict.
+
+558
+00:23:53,110 --> 00:23:55,790
+Par exemple, avant de venir voir le médecin,
+
+559
+00:23:55,910 --> 00:23:57,710
+la personne prend ses précautions.
+
+560
+00:23:58,250 --> 00:24:00,850
+Elle peut, par exemple, faire finir le dernier
+
+561
+00:24:01,770 --> 00:24:05,070
+repas à 5 heures d'après-midi, respecter
+
+562
+00:24:05,070 --> 00:24:06,330
+la diète, etc.
+
+563
+00:24:07,590 --> 00:24:10,910
+Parfois, dans les diabètes de type débutant, ils
+
+564
+00:24:10,910 --> 00:24:13,850
+peuvent venir chez vous avec des glycémies correctes.
+
+565
+00:24:13,930 --> 00:24:14,650
+Parfois, je vous dis.
+
+566
+00:24:15,550 --> 00:24:17,510
+Quand on fait l'hémoglobine glycée, on la
+
+567
+00:24:17,510 --> 00:24:18,290
+trouve élevée.
+
+568
+00:24:18,710 --> 00:24:19,790
+C'est pour ça qu'ils ont fait
+
+569
+00:24:19,790 --> 00:24:23,690
+la pression sur les sociétés savantes, internationales.
+
+570
+00:24:23,810 --> 00:24:25,490
+C'est comme ça que cette hémoglobine glycée
+
+571
+00:24:25,490 --> 00:24:28,430
+fait partie désormais du diagnostic positif.
+
+572
+00:24:29,170 --> 00:24:30,550
+Donc, attention aux références.
+
+573
+00:24:30,730 --> 00:24:31,030
+Attention.
+
+574
+00:24:31,670 --> 00:24:33,530
+Il ne faut pas lire les anciennes références
+
+575
+00:24:33,530 --> 00:24:34,990
+ni les anciens bouquins, même si c'est
+
+576
+00:24:34,990 --> 00:24:35,770
+joli et facile.
+
+577
+00:24:36,310 --> 00:24:38,170
+Il faut absolument faire attention là-dessus parce
+
+578
+00:24:38,170 --> 00:24:40,250
+qu'il y a des actualités presque tous
+
+579
+00:24:40,250 --> 00:24:41,930
+les deux ans, trois ans en diabétologie.
+
+580
+00:24:42,730 --> 00:24:44,470
+Vous allez voir ça avec moi en cinquième
+
+581
+00:24:44,470 --> 00:24:44,710
+année.
+
+582
+00:24:46,390 --> 00:24:47,990
+En quatrième et en cinquième année.
+
+583
+00:24:48,330 --> 00:24:50,330
+On va passer au deuxième cas.
+
+584
+00:24:50,450 --> 00:24:51,770
+Si vous permettez, s'il vous plaît.
+
+585
+00:24:53,010 --> 00:24:53,630
+On peut passer?
+
+586
+00:24:53,630 --> 00:24:55,150
+Vous avez des questions?
+
+587
+00:24:59,120 --> 00:25:01,460
+Cher étudiant, vous avez d'autres questions?
+
+588
+00:25:01,600 --> 00:25:02,480
+Vous avez des remarques?
+
+589
+00:25:02,600 --> 00:25:03,800
+On peut passer au deuxième cas?
+
+590
+00:25:04,360 --> 00:25:05,320
+Je ne vais pas passer si vous ne
+
+591
+00:25:05,320 --> 00:25:07,420
+me donnez pas le...
+
+592
+00:25:08,790 --> 00:25:11,590
+Alors, il s'agit d'un jeune patient
+
+593
+00:25:11,590 --> 00:25:14,530
+de 16 ans qui n'a aucun antécédent
+
+594
+00:25:14,530 --> 00:25:17,110
+cette fois-ci personnel ni familial particulier de
+
+595
+00:25:17,110 --> 00:25:17,550
+diabète.
+
+596
+00:25:19,610 --> 00:25:21,510
+Il a un IMC à 23 kilos par
+
+597
+00:25:21,510 --> 00:25:22,870
+mètre au carré.
+
+598
+00:25:23,330 --> 00:25:27,590
+Il n'est ni maigre ni obèse.
+
+599
+00:25:28,530 --> 00:25:32,970
+Et il vient vous voir parce que il
+
+600
+00:25:32,970 --> 00:25:33,790
+est fatigué.
+
+601
+00:25:34,570 --> 00:25:35,710
+Il est très fatigué.
+
+602
+00:25:35,910 --> 00:25:38,870
+Il a maigri ce dernier mois de 5
+
+603
+00:25:38,870 --> 00:25:39,150
+kilos.
+
+604
+00:25:39,710 --> 00:25:41,310
+Alors qu'il mange très bien.
+
+605
+00:25:42,670 --> 00:25:45,350
+Il se réveille trois fois la nuit pour
+
+606
+00:25:45,350 --> 00:25:45,910
+faire pipi.
+
+607
+00:25:47,150 --> 00:25:49,110
+Il a tout le temps soif et il
+
+608
+00:25:49,110 --> 00:25:51,390
+mange plus.
+
+609
+00:25:54,810 --> 00:25:58,310
+Comment appelle-t-on ce tableau clinique?
+
+610
+00:26:02,150 --> 00:26:03,530
+Le syndrome cardinal.
+
+611
+00:26:04,670 --> 00:26:05,230
+Excellent.
+
+612
+00:26:05,510 --> 00:26:08,310
+Le syndrome cardinal associe quoi, s'il te
+
+613
+00:26:08,310 --> 00:26:08,510
+plaît?
+
+614
+00:26:09,490 --> 00:26:10,030
+Qu'est-ce qu'il y a dans
+
+615
+00:26:10,030 --> 00:26:11,730
+la définition du syndrome cardinal?
+
+616
+00:26:12,490 --> 00:26:13,010
+Asthémie.
+
+617
+00:26:14,370 --> 00:26:14,930
+Amégrissement.
+
+618
+00:26:16,610 --> 00:26:17,170
+Polyurie.
+
+619
+00:26:18,970 --> 00:26:20,090
+Polydipsie secondaire.
+
+620
+00:26:20,610 --> 00:26:21,450
+Et polyphagie.
+
+621
+00:26:22,890 --> 00:26:23,210
+D'accord.
+
+622
+00:26:24,350 --> 00:26:28,150
+Alors, là, en fait, on suspecte chez lui
+
+623
+00:26:28,150 --> 00:26:29,490
+quelque chose, n'est-ce pas?
+
+624
+00:26:32,550 --> 00:26:35,610
+Chez ce jeune, on va suspecter quoi?
+
+625
+00:26:35,650 --> 00:26:36,550
+Un diabète type 1.
+
+626
+00:26:37,410 --> 00:26:39,530
+On va suspecter un diabète type 1.
+
+627
+00:26:40,370 --> 00:26:41,290
+Qu'est-ce qu'il faut que je
+
+628
+00:26:41,290 --> 00:26:43,650
+fasse comme bilan?
+
+629
+00:26:48,880 --> 00:26:55,730
+Déjà, quand il vient me voir, quand il
+
+630
+00:26:55,730 --> 00:26:58,330
+vient me voir dans cet état-là, déjà
+
+631
+00:26:58,330 --> 00:26:59,490
+au cabinet, qu'est-ce que je peux
+
+632
+00:26:59,490 --> 00:27:00,690
+lui faire, s'il vous plaît?
+
+633
+00:27:02,570 --> 00:27:03,850
+Des bandettes urinaires.
+
+634
+00:27:04,430 --> 00:27:06,250
+Oui, je peux faire des bandettes urinaires.
+
+635
+00:27:06,390 --> 00:27:08,130
+Je peux faire une glycémie capillaire.
+
+636
+00:27:08,130 --> 00:27:11,110
+Et puis, je peux lui demander des bilans
+
+637
+00:27:11,110 --> 00:27:14,030
+pour, comme pour le monsieur, comme pour tout
+
+638
+00:27:14,030 --> 00:27:14,370
+à l'heure.
+
+639
+00:27:14,630 --> 00:27:14,930
+D'accord?
+
+640
+00:27:15,550 --> 00:27:18,350
+Je peux lui faire une glycémie veineuse et
+
+641
+00:27:18,350 --> 00:27:20,070
+une hémoglobine griquée, comme tout à l'heure.
+
+642
+00:27:22,290 --> 00:27:27,070
+Donc, je lui fais la glycémie capillaire aux
+
+643
+00:27:27,070 --> 00:27:27,550
+doigts.
+
+644
+00:27:27,670 --> 00:27:29,350
+Elle est à 4 grammes.
+
+645
+00:27:30,030 --> 00:27:30,750
+Bravo, monsieur.
+
+646
+00:27:30,910 --> 00:27:33,350
+Donc, je fais la bandelette urinaire obligatoire devant
+
+647
+00:27:33,350 --> 00:27:36,170
+un syndrome cardinal parce que je suspecte un
+
+648
+00:27:36,170 --> 00:27:38,790
+diabète type 1 et je dois absolument éliminer
+
+649
+00:27:38,790 --> 00:27:41,210
+de l'acétone, eh bien, je tombe sur
+
+650
+00:27:41,210 --> 00:27:46,790
+une hyperglycémie, une hyperglycosurie à 4 croix.
+
+651
+00:27:47,030 --> 00:27:50,690
+Donc, regardez, très profonde, très importante, et de
+
+652
+00:27:50,690 --> 00:27:52,730
+l'acétose profonde à 3 croix.
+
+653
+00:27:53,170 --> 00:27:56,150
+Donc, je retrouve de la glycosurie et de
+
+654
+00:27:56,150 --> 00:27:56,950
+la cétonurie.
+
+655
+00:27:57,730 --> 00:27:59,510
+Je le prélève en veineux.
+
+656
+00:27:59,850 --> 00:28:01,150
+Je fais une glycémie veineuse.
+
+657
+00:28:01,230 --> 00:28:03,150
+Je tombe sur une glycémie veineuse à 3
+
+658
+00:28:03,150 --> 00:28:04,790
+,80 grammes.
+
+659
+00:28:04,790 --> 00:28:08,110
+Et regardez, je tombe sur une hémoglobine glycée
+
+660
+00:28:08,110 --> 00:28:10,690
+quand même à 16%.
+
+661
+00:28:11,370 --> 00:28:15,050
+Donc, est-ce que je confirme mon diagnostic?
+
+662
+00:28:18,410 --> 00:28:18,630
+Oui.
+
+663
+00:28:20,450 --> 00:28:22,450
+Alors, si je veux répondre, parce que vous
+
+664
+00:28:22,450 --> 00:28:24,310
+les aurez sous format de QCM.
+
+665
+00:28:24,910 --> 00:28:26,510
+Alors, qu'est-ce que vous allez cocher
+
+666
+00:28:26,510 --> 00:28:26,870
+ici?
+
+667
+00:28:29,490 --> 00:28:32,090
+Donc, je confirme mon diabète type 1, je
+
+668
+00:28:32,090 --> 00:28:34,190
+dois, s'il vous plaît, dans vos questions,
+
+669
+00:28:35,750 --> 00:28:37,910
+vos QCM, le jour de l'examen, vous
+
+670
+00:28:37,910 --> 00:28:38,670
+devez bien lire.
+
+671
+00:28:39,430 --> 00:28:41,170
+Est-ce que c'est un diabète insipide?
+
+672
+00:28:42,830 --> 00:28:43,050
+Non.
+
+673
+00:28:43,550 --> 00:28:43,730
+Non.
+
+674
+00:28:44,130 --> 00:28:45,670
+Est-ce que c'est un diabète sucré?
+
+675
+00:28:46,130 --> 00:28:46,310
+Oui.
+
+676
+00:28:46,850 --> 00:28:49,310
+Oui, parce que dans le diabète sucré, je
+
+677
+00:28:49,310 --> 00:28:50,850
+peux avoir un DT2 comme je peux avoir
+
+678
+00:28:50,850 --> 00:28:53,030
+un DT1, comme je peux avoir plusieurs types
+
+679
+00:28:53,030 --> 00:28:55,630
+de diabète que vous allez voir avec moi
+
+680
+00:28:55,630 --> 00:28:56,710
+en quatrième année.
+
+681
+00:28:57,170 --> 00:28:57,950
+Il n'y a pas que le type
+
+682
+00:28:57,950 --> 00:28:58,670
+1 et le type 2.
+
+683
+00:28:59,030 --> 00:29:01,790
+Donc, ça, c'est les types vulgarisés, les
+
+684
+00:29:01,790 --> 00:29:05,710
+types courants, que tout le monde connaît, mais
+
+685
+00:29:05,710 --> 00:29:07,030
+il y a plein d'autres types qu
+
+686
+00:29:07,030 --> 00:29:07,890
+'on va voir ensemble.
+
+687
+00:29:08,490 --> 00:29:09,530
+Est-ce que c'est un diabète de
+
+688
+00:29:09,530 --> 00:29:09,890
+type 2?
+
+689
+00:29:11,210 --> 00:29:11,590
+Non.
+
+690
+00:29:12,770 --> 00:29:14,150
+Est-ce que c'est un type 1?
+
+691
+00:29:14,430 --> 00:29:15,650
+Oui, vous l'avez déjà dit.
+
+692
+00:29:15,990 --> 00:29:17,990
+Est-ce que c'est un acido-cétose
+
+693
+00:29:17,990 --> 00:29:19,630
+ou un acido-inogural?
+
+694
+00:29:20,830 --> 00:29:21,150
+Oui.
+
+695
+00:29:22,530 --> 00:29:24,650
+Il est en cétose, ça veut dire quoi
+
+696
+00:29:24,650 --> 00:29:25,230
+inogural?
+
+697
+00:29:26,230 --> 00:29:27,150
+C'est quoi le mot?
+
+698
+00:29:27,830 --> 00:29:29,370
+Pour ceux qui n'ont pas saisi le
+
+699
+00:29:29,370 --> 00:29:30,190
+mot inogural.
+
+700
+00:29:31,090 --> 00:29:33,970
+Inogurer quelque chose, c'est révéler, c'est
+
+701
+00:29:33,970 --> 00:29:34,530
+commencer.
+
+702
+00:29:35,790 --> 00:29:39,310
+Donc, en fait, ce diabète chez notre patient
+
+703
+00:29:39,310 --> 00:29:44,110
+a été révélé d'emblée par une cétoacidose.
+
+704
+00:29:44,310 --> 00:29:45,270
+C'est pour ça qu'on l'appelle
+
+705
+00:29:47,930 --> 00:29:48,970
+cétoacidose inogurale.
+
+706
+00:29:49,270 --> 00:29:51,250
+C'est elle qui a révélé son diabète.
+
+707
+00:29:51,790 --> 00:29:52,510
+Est-ce que c'est clair?
+
+708
+00:29:57,180 --> 00:29:58,060
+Oui, madame.
+
+709
+00:29:58,440 --> 00:30:00,220
+Alors, on répond par le cours.
+
+710
+00:30:00,220 --> 00:30:04,100
+Le diabète de type 1, pour réviser, pour
+
+711
+00:30:04,100 --> 00:30:06,740
+faire nos révisions, survient à un âge jeune,
+
+712
+00:30:06,920 --> 00:30:08,840
+enfant ou adolescent ou adulte jeune, par un
+
+713
+00:30:08,840 --> 00:30:13,080
+tableau clinique évocateur d'un syndrome cardinal.
+
+714
+00:30:13,500 --> 00:30:17,860
+Ce syndrome cardinal va se manifester par une
+
+715
+00:30:17,860 --> 00:30:22,680
+asthémie intense, un amaigrissement, une polyphagie ou une
+
+716
+00:30:22,680 --> 00:30:25,560
+hormophagie, mais généralement on a une polyphagie, une
+
+717
+00:30:25,560 --> 00:30:26,220
+polyurie.
+
+718
+00:30:26,720 --> 00:30:28,220
+Est-ce que quelqu'un peut m'expliquer
+
+719
+00:30:28,220 --> 00:30:29,880
+pourquoi on a une polyphagie?
+
+720
+00:30:31,140 --> 00:30:34,360
+Pourquoi on maigrit alors qu'on mange beaucoup?
+
+721
+00:30:35,160 --> 00:30:36,660
+Est-ce que quelqu'un peut me l
+
+722
+00:30:36,660 --> 00:30:37,120
+'expliquer?
+
+723
+00:30:40,870 --> 00:30:42,650
+La cellule ne peut pas utiliser de glucose
+
+724
+00:30:42,650 --> 00:30:44,570
+donc elle va aller épuiser dans les réserves
+
+725
+00:30:44,570 --> 00:30:45,010
+de graisse.
+
+726
+00:30:45,490 --> 00:30:45,930
+Parfait.
+
+727
+00:30:46,290 --> 00:30:47,430
+En fait, comme il n'y a pas
+
+728
+00:30:47,430 --> 00:30:49,530
+d'insuline, et c'est l'insuline qui
+
+729
+00:30:49,530 --> 00:30:51,270
+est la clé, toujours on dit que l
+
+730
+00:30:51,270 --> 00:30:53,170
+'insuline c'est la clé qui va ouvrir
+
+731
+00:30:53,170 --> 00:30:55,390
+la cellule pour faire rentrer le glucose.
+
+732
+00:30:55,510 --> 00:30:56,970
+Et vous savez très bien que le glucose
+
+733
+00:30:56,970 --> 00:31:00,710
+est le substrat énergétique capital de l'organisme.
+
+734
+00:31:02,130 --> 00:31:03,710
+Donc, il n'y a pas d'insuline,
+
+735
+00:31:04,430 --> 00:31:08,150
+ou peu d'insuline, ou une résistance à
+
+736
+00:31:08,150 --> 00:31:08,570
+l'insuline.
+
+737
+00:31:08,670 --> 00:31:09,690
+Soit qu'il n'y a pas d
+
+738
+00:31:09,690 --> 00:31:12,990
+'insuline, comme dans le DT1, comme dans le
+
+739
+00:31:12,990 --> 00:31:14,870
+diabète de type 1, ou il y a
+
+740
+00:31:14,870 --> 00:31:16,510
+une résistance, ça veut dire que l'insuline
+
+741
+00:31:16,510 --> 00:31:17,790
+est là, mais elle ne travaille pas bien.
+
+742
+00:31:19,290 --> 00:31:21,170
+C'est le cas du diabète de type
+
+743
+00:31:21,170 --> 00:31:21,350
+2.
+
+744
+00:31:21,970 --> 00:31:23,630
+Donc restant dans le diabète de type 1,
+
+745
+00:31:23,750 --> 00:31:25,150
+il n'y a pas d'insuline parce
+
+746
+00:31:25,150 --> 00:31:28,350
+que le pancréas ne produit pas, ou peu,
+
+747
+00:31:28,550 --> 00:31:31,630
+ou très très peu, d'insuline.
+
+748
+00:31:31,830 --> 00:31:33,750
+Pas d'insuline, pas de clé qui ouvre
+
+749
+00:31:33,750 --> 00:31:34,330
+la cellule.
+
+750
+00:31:35,170 --> 00:31:37,190
+Même si le glucose est là, apporté par
+
+751
+00:31:37,190 --> 00:31:40,070
+l'alimentation, il circule, il reste dans la
+
+752
+00:31:40,070 --> 00:31:41,090
+circulation sanguine.
+
+753
+00:31:41,510 --> 00:31:42,750
+Il ne rentre pas dans les cellules.
+
+754
+00:31:43,250 --> 00:31:44,870
+Et donc la cellule a toujours faim.
+
+755
+00:31:45,010 --> 00:31:46,630
+Ça s'appelle la faim cellulaire.
+
+756
+00:31:46,810 --> 00:31:48,390
+La faim cellulaire.
+
+757
+00:31:48,910 --> 00:31:50,050
+Qu'est-ce qu'elle fait ?
+
+758
+00:31:50,050 --> 00:31:51,530
+Elle puise dans le gras.
+
+759
+00:31:52,610 --> 00:31:54,550
+Le plus important, c'est qu'elle survive.
+
+760
+00:31:54,550 --> 00:31:56,270
+Il faut qu'elle survive cette cellule.
+
+761
+00:31:56,690 --> 00:31:58,030
+Donc elle a besoin d'énergie.
+
+762
+00:31:58,190 --> 00:31:59,070
+Et qu'est-ce qu'elle va faire
+
+763
+00:31:59,070 --> 00:31:59,410
+?
+
+764
+00:31:59,410 --> 00:32:03,130
+Moyennant les cycles de Krebs, elle va prendre
+
+765
+00:32:03,130 --> 00:32:07,510
+des acides gras et va essayer du perruvate
+
+766
+00:32:07,510 --> 00:32:12,110
+de fabriquer elle-même du glucose intracellulaire.
+
+767
+00:32:12,270 --> 00:32:15,770
+Donc elle va manger le gras du patient,
+
+768
+00:32:16,010 --> 00:32:18,270
+donc il va maigrir, et elle va produire
+
+769
+00:32:18,270 --> 00:32:18,750
+elle-même.
+
+770
+00:32:19,290 --> 00:32:20,930
+C'est pour ça qu'on a toujours
+
+771
+00:32:20,930 --> 00:32:21,190
+faim.
+
+772
+00:32:21,450 --> 00:32:22,870
+Ça s'appelle la faim cellulaire.
+
+773
+00:32:22,870 --> 00:32:24,470
+C'est à l'échelle cellulaire.
+
+774
+00:32:25,270 --> 00:32:26,270
+Et on maigrit.
+
+775
+00:32:26,970 --> 00:32:28,810
+Est-ce que c'est clair ?
+
+776
+00:32:28,810 --> 00:32:29,770
+C'est clair ?
+
+777
+00:32:29,770 --> 00:32:32,930
+J'ai essayé de faciliter la phrasologie.
+
+778
+00:32:33,970 --> 00:32:35,890
+Donc le syndrome cardinal, il y a un
+
+779
+00:32:35,890 --> 00:32:39,090
+amaigrissement, polyphagie, polyurie et polydipsie.
+
+780
+00:32:39,350 --> 00:32:40,870
+Donc en fait c'est le syndrome cardinal.
+
+781
+00:32:42,550 --> 00:32:44,910
+C'est quoi la sémiologie en fait ?
+
+782
+00:32:45,970 --> 00:32:48,030
+C'est pas comme le premier cas.
+
+783
+00:32:48,490 --> 00:32:50,570
+Le diabétique de type 2, le premier cas,
+
+784
+00:32:50,570 --> 00:32:53,310
+il a commencé à circuler pendant deux ans
+
+785
+00:32:53,310 --> 00:32:54,570
+sans rien ressentir.
+
+786
+00:32:55,710 --> 00:32:57,350
+Mais c'est différent dans le diabète de
+
+787
+00:32:57,350 --> 00:32:57,790
+type 1.
+
+788
+00:32:59,190 --> 00:33:00,730
+On dit que c'est un coup de
+
+789
+00:33:00,730 --> 00:33:02,750
+tonnerre dans un ciel calme.
+
+790
+00:33:04,410 --> 00:33:08,510
+Donc jusque-là, tout allait bien, mais hop,
+
+791
+00:33:09,310 --> 00:33:13,810
+on a eu en fait cette asthénie qui
+
+792
+00:33:13,810 --> 00:33:18,670
+est installée de façon brutale, cette polyphagie, cette
+
+793
+00:33:18,670 --> 00:33:21,070
+pha, etc.
+
+794
+00:33:21,870 --> 00:33:23,850
+Donc du coup, on appelle ça le coup
+
+795
+00:33:23,850 --> 00:33:26,150
+de tonnerre dans un ciel calme.
+
+796
+00:33:27,190 --> 00:33:30,030
+Souvent, le diagnostic est fait à l'occasion
+
+797
+00:33:30,030 --> 00:33:32,610
+d'une cétoacidose inocurale comme notre patient.
+
+798
+00:33:33,710 --> 00:33:37,050
+Et lorsqu'on a ces manifestations cliniques, ça
+
+799
+00:33:37,050 --> 00:33:40,630
+veut dire que déjà 80% du capital
+
+800
+00:33:40,630 --> 00:33:45,510
+bêta de l'ingérence du pancréas, vous allez
+
+801
+00:33:45,510 --> 00:33:48,630
+trouver en fait, dans les différentes conférences que
+
+802
+00:33:48,630 --> 00:33:50,110
+vous allez avoir ou dans les cours, il
+
+803
+00:33:50,110 --> 00:33:52,050
+y a des profs qui vont dire l
+
+804
+00:33:52,050 --> 00:33:54,410
+'enguerrance et des profs qui vont prononcer l
+
+805
+00:33:54,410 --> 00:33:54,890
+'engérance.
+
+806
+00:33:55,590 --> 00:33:56,290
+C'est la même chose.
+
+807
+00:33:57,750 --> 00:34:00,150
+Donc 80% du capital bêta de l
+
+808
+00:34:00,150 --> 00:34:02,690
+'engérance est perdu, est détruit, donc il y
+
+809
+00:34:02,690 --> 00:34:04,330
+a peu d'insuline.
+
+810
+00:34:05,490 --> 00:34:06,550
+Est-ce que c'est clair pour le
+
+811
+00:34:06,550 --> 00:34:07,270
+diabète de type 1?
+
+812
+00:34:08,870 --> 00:34:09,290
+Madame?
+
+813
+00:34:09,830 --> 00:34:10,170
+Oui.
+
+814
+00:34:11,210 --> 00:34:13,690
+Puisqu'on a établi le diagnostic avec cette
+
+815
+00:34:13,690 --> 00:34:17,949
+étude, pourquoi besoin de confirmer le diagnostic par
+
+816
+00:34:17,949 --> 00:34:18,770
+les anticorps?
+
+817
+00:34:20,130 --> 00:34:22,090
+Il y a de l'écho, donc je
+
+818
+00:34:22,090 --> 00:34:22,670
+n'ai pas entendu.
+
+819
+00:34:22,790 --> 00:34:25,590
+Est-ce que vous pouvez reformuler votre question?
+
+820
+00:34:26,670 --> 00:34:27,650
+Il y a de l'écho dans votre
+
+821
+00:34:27,650 --> 00:34:27,889
+voix.
+
+822
+00:34:28,010 --> 00:34:32,550
+Pourquoi besoin de confirmer le diagnostic par les
+
+823
+00:34:32,550 --> 00:34:33,130
+anticorps?
+
+824
+00:34:34,449 --> 00:34:35,670
+Ah, les anticorps?
+
+825
+00:34:37,230 --> 00:34:38,949
+On va en parler, regardez.
+
+826
+00:34:39,550 --> 00:34:40,710
+Je vais vous poser la question.
+
+827
+00:34:40,710 --> 00:34:44,230
+Comment confirmer le diagnostic d'un diabète de
+
+828
+00:34:44,230 --> 00:34:44,650
+type 1?
+
+829
+00:34:50,030 --> 00:34:51,150
+Comment on confirme?
+
+830
+00:34:52,270 --> 00:34:56,010
+Justement, on va confirmer le diagnostic en cherchant
+
+831
+00:34:56,010 --> 00:34:58,550
+la présence d'anticorps qui attestent du caractère
+
+832
+00:34:58,550 --> 00:34:59,890
+auto-humain du diabète.
+
+833
+00:35:01,030 --> 00:35:03,650
+Les anticorps, tout ça, on l'a au
+
+834
+00:35:03,650 --> 00:35:04,570
+niveau du CHU.
+
+835
+00:35:04,670 --> 00:35:05,490
+Tout ça, on le fait.
+
+836
+00:35:05,790 --> 00:35:08,190
+Ce n'est pas des trucs de recherche
+
+837
+00:35:08,190 --> 00:35:09,090
+ou autre.
+
+838
+00:35:09,910 --> 00:35:14,010
+Donc, les différents anticorps sécrétés sont les anticorps
+
+839
+00:35:14,010 --> 00:35:17,550
+anti-GAD, les anticorps anti-IA2, ça s
+
+840
+00:35:17,550 --> 00:35:21,910
+'appelle l'insuline antigène n°2, les anticorps anti
+
+841
+00:35:21,910 --> 00:35:28,030
+-ZNT8, c'est des transporteurs de zinc, les
+
+842
+00:35:28,030 --> 00:35:32,670
+anticorps anti-insuline et les anticorps anti-ILO.
+
+843
+00:35:33,070 --> 00:35:34,130
+Nous, qu'est-ce qu'on fait?
+
+844
+00:35:34,590 --> 00:35:36,090
+Généralement, on ne fait pas tout ça.
+
+845
+00:35:37,750 --> 00:35:41,070
+On ne fait que 2 ou 3 maximum.
+
+846
+00:35:41,070 --> 00:35:43,430
+On fait les anticorps anti-GAD, anti-IA2.
+
+847
+00:35:43,730 --> 00:35:45,310
+Généralement, c'est les 2 premiers qui sont
+
+848
+00:35:45,310 --> 00:35:46,030
+les plus demandés.
+
+849
+00:35:46,750 --> 00:35:48,650
+Et au CHU, on fait ces 3-là.
+
+850
+00:35:49,470 --> 00:35:51,050
+Mais on peut faire tout ça après, mais
+
+851
+00:35:51,050 --> 00:35:53,130
+vous n'avez pas besoin parce que, généralement,
+
+852
+00:35:53,810 --> 00:35:56,570
+les 2 ou les 3 premiers sont présents
+
+853
+00:35:56,570 --> 00:35:58,430
+dans 90% des cas.
+
+854
+00:35:58,590 --> 00:36:01,130
+Vous n'avez pas besoin, par souci d
+
+855
+00:36:01,130 --> 00:36:03,090
+'économie de santé, de tout faire.
+
+856
+00:36:03,930 --> 00:36:06,670
+Par contre, s'il vous plaît, si vous
+
+857
+00:36:06,670 --> 00:36:11,870
+êtes dans une ville ou un village où
+
+858
+00:36:11,870 --> 00:36:14,210
+vous n'avez pas accès à ces anticorps,
+
+859
+00:36:14,490 --> 00:36:17,290
+si le patient ne peut pas payer ces
+
+860
+00:36:17,290 --> 00:36:20,410
+anticorps, ce n'est pas un bilan de
+
+861
+00:36:20,410 --> 00:36:20,890
+routine.
+
+862
+00:36:21,570 --> 00:36:22,870
+Ce n'est pas un bilan de routine.
+
+863
+00:36:23,090 --> 00:36:25,490
+C'est bien de le faire pour confirmer,
+
+864
+00:36:25,670 --> 00:36:28,130
+pour déjà, c'est éducatif pour le patient.
+
+865
+00:36:28,710 --> 00:36:31,890
+Parce que le patient vous dit, chez un
+
+866
+00:36:31,890 --> 00:36:33,990
+DT1, vous prescrivez d'emblée l'insuline.
+
+867
+00:36:34,250 --> 00:36:35,870
+Il vous dit, est-ce que je vais
+
+868
+00:36:35,870 --> 00:36:38,270
+garder l'insuline à vie ?
+
+869
+00:36:39,010 --> 00:36:41,270
+Mon grand-père, par exemple, est diabétique, mais
+
+870
+00:36:41,710 --> 00:36:43,290
+il ne prend que des cachets, que des
+
+871
+00:36:43,290 --> 00:36:43,850
+comprimés.
+
+872
+00:36:44,890 --> 00:36:47,450
+En faisant ça, vous allez lui dire, en
+
+873
+00:36:47,450 --> 00:36:50,030
+fait, voici les éléments qui ont détruit votre
+
+874
+00:36:50,030 --> 00:36:53,530
+pancréas, endocrine, surtout les bêtas de l'angérence.
+
+875
+00:36:54,190 --> 00:36:56,490
+En fait, c'est irréversible et il vous
+
+876
+00:36:56,490 --> 00:36:57,750
+faut de l'insuline à vie.
+
+877
+00:36:58,130 --> 00:37:01,250
+Mais en aucun cas, vous n'avez besoin
+
+878
+00:37:01,250 --> 00:37:03,750
+de ça impérativement pour poser le diagnostic.
+
+879
+00:37:03,750 --> 00:37:06,550
+Parce que la clinique, le syndrome cardinal, l
+
+880
+00:37:06,550 --> 00:37:09,310
+'acétose suffisent pour poser le diagnostic, parce que
+
+881
+00:37:09,310 --> 00:37:09,930
+vous l'avez fait.
+
+882
+00:37:10,790 --> 00:37:13,150
+Regardez, vous m'avez répondu tout à l
+
+883
+00:37:13,150 --> 00:37:17,190
+'heure, vous avez donc gardé le diagnostic du
+
+884
+00:37:17,190 --> 00:37:18,410
+type 1, même si je n'ai pas
+
+885
+00:37:18,410 --> 00:37:19,870
+demandé les anticorps.
+
+886
+00:37:20,290 --> 00:37:22,110
+Mais, c'est bien de les faire pour
+
+887
+00:37:22,110 --> 00:37:22,770
+les confirmer.
+
+888
+00:37:25,620 --> 00:37:28,000
+Nous, on le fait systématiquement au CHU parce
+
+889
+00:37:28,000 --> 00:37:29,960
+qu'on fait des études, on publie, mais
+
+890
+00:37:29,960 --> 00:37:32,580
+vous n'êtes pas obligé si la personne
+
+891
+00:37:32,580 --> 00:37:34,300
+n'a pas d'argent et que le
+
+892
+00:37:34,300 --> 00:37:35,440
+tableau est évocateur.
+
+893
+00:37:36,100 --> 00:37:37,940
+Et si vous n'avez pas accès à
+
+894
+00:37:37,940 --> 00:37:38,100
+ça.
+
+895
+00:37:38,440 --> 00:37:39,880
+Si, le tableau est évocateur.
+
+896
+00:37:40,000 --> 00:37:42,460
+Parce que des fois, vous pouvez avoir un
+
+897
+00:37:42,460 --> 00:37:44,880
+big, big, big, big obèse parce que c
+
+898
+00:37:44,880 --> 00:37:46,680
+'est ce qu'on voit maintenant avec la
+
+899
+00:37:46,680 --> 00:37:49,160
+sédentarité, les fast-foods, le délivré, etc.
+
+900
+00:37:49,680 --> 00:37:51,480
+On voit de plus en plus l'obésité
+
+901
+00:37:51,480 --> 00:37:52,220
+chez l'adolescent.
+
+902
+00:37:52,700 --> 00:37:53,840
+Je vous donne un exemple.
+
+903
+00:37:54,720 --> 00:37:57,620
+J'ai un patient jeune aussi, qui a
+
+904
+00:37:57,620 --> 00:38:00,620
+20 ans par exemple, et qui pèse 120
+
+905
+00:38:00,620 --> 00:38:01,040
+kg.
+
+906
+00:38:01,520 --> 00:38:03,480
+Il me dit qu'il présente un syndrome
+
+907
+00:38:03,480 --> 00:38:04,160
+cardinal.
+
+908
+00:38:05,060 --> 00:38:06,940
+Il a maigri de 20 kg en l
+
+909
+00:38:06,940 --> 00:38:07,840
+'espace de deux mois.
+
+910
+00:38:08,100 --> 00:38:09,460
+Il a un syndrome cardinal.
+
+911
+00:38:09,960 --> 00:38:12,420
+Mais quand je le vois à 100 kg,
+
+912
+00:38:12,600 --> 00:38:14,000
+je me dis, est-ce que c'est
+
+913
+00:38:14,000 --> 00:38:16,000
+un DT1 ou un DT2, parce qu'il
+
+914
+00:38:16,000 --> 00:38:17,140
+est toujours obèse, le gars.
+
+915
+00:38:17,980 --> 00:38:20,780
+Donc là, les anticorps vont être capitaux.
+
+916
+00:38:21,040 --> 00:38:22,620
+Mais dans ce tableau clinique, vous n'en
+
+917
+00:38:22,620 --> 00:38:23,400
+avez pas besoin.
+
+918
+00:38:24,240 --> 00:38:26,500
+Est-ce que vous m'avez suivi ?
+
+919
+00:38:26,500 --> 00:38:29,040
+Est-ce que c'est compris ?
+
+920
+00:38:29,040 --> 00:38:34,080
+Oui madame, c'est compris.
+
+921
+00:38:34,200 --> 00:38:34,540
+Oui madame.
+
+922
+00:38:35,040 --> 00:38:35,560
+Parfait.
+
+923
+00:38:35,760 --> 00:38:37,240
+C'est ça que je veux que vous
+
+924
+00:38:37,240 --> 00:38:37,860
+reteniez.
+
+925
+00:38:39,880 --> 00:38:41,920
+Quelles sont les complications les plus fréquentes du
+
+926
+00:38:41,920 --> 00:38:43,480
+diabète ?
+
+927
+00:38:46,010 --> 00:38:52,690
+Les complications les plus fréquentes, les complications aiguës.
+
+928
+00:38:53,330 --> 00:38:54,690
+Les complications aiguës.
+
+929
+00:38:55,290 --> 00:38:56,030
+Pas chroniques.
+
+930
+00:38:56,330 --> 00:38:57,830
+Les complications aiguës.
+
+931
+00:39:00,890 --> 00:39:01,690
+L'hypoglycémie.
+
+932
+00:39:03,730 --> 00:39:04,310
+Et ?
+
+933
+00:39:04,310 --> 00:39:05,450
+La cytoséptose.
+
+934
+00:39:05,450 --> 00:39:08,550
+Qui est plus fréquente chez le DT1 que
+
+935
+00:39:08,550 --> 00:39:09,250
+chez le DT2.
+
+936
+00:39:09,730 --> 00:39:12,010
+Et on peut avoir, à l'extrême, lorsqu
+
+937
+00:39:12,010 --> 00:39:16,590
+'on a une hypoglycémie majeure, à cause en
+
+938
+00:39:16,590 --> 00:39:21,170
+fait de la toxicité de l'acétone et
+
+939
+00:39:21,170 --> 00:39:24,410
+de la déshydratation aiguë, on peut avoir un
+
+940
+00:39:24,410 --> 00:39:25,390
+coma hyperspolaire.
+
+941
+00:39:25,630 --> 00:39:27,390
+C'est une complication moins fréquente qui est
+
+942
+00:39:27,390 --> 00:39:29,870
+l'apanage du sujet âgé au-delà de
+
+943
+00:39:29,870 --> 00:39:30,650
+65 ans.
+
+944
+00:39:33,400 --> 00:39:35,100
+A partir de quelle valeur on parle d
+
+945
+00:39:35,100 --> 00:39:37,120
+'hypoglycémie chez le diabétique ?
+
+946
+00:39:40,680 --> 00:39:41,580
+C'est le cours.
+
+947
+00:39:42,480 --> 00:39:43,380
+0,7.
+
+948
+00:39:45,100 --> 00:39:45,680
+Bravo.
+
+949
+00:39:47,160 --> 00:39:49,300
+Donc, la définition de l'hypoglycémie chez le
+
+950
+00:39:49,300 --> 00:39:51,640
+diabétique est biologique par une valeur en dessous
+
+951
+00:39:51,640 --> 00:39:52,400
+de 0,7.
+
+952
+00:39:54,980 --> 00:39:56,900
+Et en fait, on a trois niveaux de
+
+953
+00:39:56,900 --> 00:39:57,640
+l'hypoglycémie.
+
+954
+00:39:58,540 --> 00:40:02,380
+Soit modéré, niveau 1, entre 0,7 et
+
+955
+00:40:02,380 --> 00:40:03,040
+0,54.
+
+956
+00:40:03,960 --> 00:40:06,700
+Soit sévère, inférieur à 0,54.
+
+957
+00:40:07,200 --> 00:40:08,440
+Soit le niveau 3.
+
+958
+00:40:09,560 --> 00:40:11,580
+En fait, on dit que c'est une
+
+959
+00:40:11,580 --> 00:40:15,680
+hypoglycémie sévère nécessitant l'intervention d'un tiers.
+
+960
+00:40:16,800 --> 00:40:18,640
+C'est quoi l'intervention d'un tiers
+
+961
+00:40:18,640 --> 00:40:18,800
+?
+
+962
+00:40:18,800 --> 00:40:20,720
+Ça veut dire que la personne a eu
+
+963
+00:40:20,720 --> 00:40:23,220
+une altération de l'état mental ou physique.
+
+964
+00:40:24,180 --> 00:40:25,660
+Elle ne peut plus bouger ou elle ne
+
+965
+00:40:25,660 --> 00:40:30,420
+peut plus corriger son hypoglycémie.
+
+966
+00:40:30,600 --> 00:40:33,780
+Donc, elle nécessite l'assistance d'une tierce
+
+967
+00:40:33,780 --> 00:40:36,420
+personne pour le traitement de son hypoglycémie.
+
+968
+00:40:36,840 --> 00:40:40,260
+Donc, ça, c'est des définitions claires, internationales.
+
+969
+00:40:40,320 --> 00:40:42,000
+Là où vous allez, vous allez trouver ça.
+
+970
+00:40:45,870 --> 00:40:47,750
+Est-ce que quelqu'un pourra nous rappeler
+
+971
+00:40:47,750 --> 00:40:51,610
+les deux grandes catégories de signes cliniques qui
+
+972
+00:40:51,610 --> 00:40:54,230
+sont rencontrées lors d'une hypoglycémie ?
+
+973
+00:41:02,070 --> 00:41:02,850
+Qu'est-ce qu'on a dans les
+
+974
+00:41:02,850 --> 00:41:03,690
+hypoglycémies ?
+
+975
+00:41:03,690 --> 00:41:05,070
+Il y a des signes quoi ?
+
+976
+00:41:07,160 --> 00:41:08,580
+Il y a des signes comment ?
+
+977
+00:41:09,420 --> 00:41:10,700
+Il y a des signes causés par la
+
+978
+00:41:10,700 --> 00:41:12,960
+sécrétion d'adrénaline et d'autres par un
+
+979
+00:41:12,960 --> 00:41:13,580
+manque de glucose.
+
+980
+00:41:14,460 --> 00:41:16,840
+Effectivement, ça s'appelle les signes adrénergiques.
+
+981
+00:41:17,980 --> 00:41:21,220
+Ça veut dire que j'ai une hypoglycémie,
+
+982
+00:41:21,360 --> 00:41:24,100
+donc il y a une souffrance, il y
+
+983
+00:41:24,100 --> 00:41:25,460
+a un manque de sucre et vous savez
+
+984
+00:41:25,460 --> 00:41:28,900
+que le seul substrat, par exemple les muscles,
+
+985
+00:41:29,480 --> 00:41:32,820
+tous les organes, vont en fait capter des
+
+986
+00:41:32,820 --> 00:41:33,800
+nutriments.
+
+987
+00:41:33,900 --> 00:41:36,380
+Ils vont capter du sucre, du glucose, mais
+
+988
+00:41:36,380 --> 00:41:39,200
+aussi des micronutriments sauf la cellule nerveuse et
+
+989
+00:41:39,200 --> 00:41:39,720
+le cerveau.
+
+990
+00:41:40,480 --> 00:41:44,720
+Le seul substrat énergétique qui existe pour le
+
+991
+00:41:44,720 --> 00:41:45,540
+cerveau est le sucre.
+
+992
+00:41:45,660 --> 00:41:47,600
+Vous êtes d'accord ?
+
+993
+00:41:47,600 --> 00:41:49,760
+Le cerveau ne va pas aller s'alimenter
+
+994
+00:41:49,760 --> 00:41:51,000
+sur les protéines animales.
+
+995
+00:41:52,400 --> 00:41:53,350
+Est-ce que c'est clair ?
+
+996
+00:41:54,160 --> 00:41:54,600
+Oui madame.
+
+997
+00:41:55,140 --> 00:41:57,920
+Donc le seul substrat pour le cerveau et
+
+998
+00:41:57,920 --> 00:41:59,940
+les cellules nerveuses est le sucre.
+
+999
+00:42:01,020 --> 00:42:03,600
+Dès que j'ai en fait un manque,
+
+1000
+00:42:03,900 --> 00:42:07,420
+j'aurai les signes adrénergiques en premier qui
+
+1001
+00:42:07,420 --> 00:42:10,680
+sont secondaires à l'hypersécrétion de l'adrénaline.
+
+1002
+00:42:11,200 --> 00:42:11,980
+Et qu'est-ce que j'ai dans
+
+1003
+00:42:13,420 --> 00:42:15,720
+l'hypersécrétion de l'adrénaline ?
+
+1004
+00:42:15,720 --> 00:42:18,720
+J'ai des tremblements, des transpirations, etc.
+
+1005
+00:42:19,620 --> 00:42:22,680
+Après, si l'hypoglycémie se chronise, en fait
+
+1006
+00:42:22,680 --> 00:42:27,780
+devient chronique, perdure, je commence à avoir de
+
+1007
+00:42:27,780 --> 00:42:31,760
+la souffrance neurologique parce que ma cellule nerveuse
+
+1008
+00:42:31,760 --> 00:42:35,080
+et mon cerveau souffrent, vont commencer à souffrir
+
+1009
+00:42:35,080 --> 00:42:38,420
+et là, j'aurai des troubles de conscience
+
+1010
+00:42:38,420 --> 00:42:42,060
+allant de la simple désorientation vers le coma.
+
+1011
+00:42:43,640 --> 00:42:46,660
+Donc effectivement, les symptômes causés par l'hypersécrétion
+
+1012
+00:42:46,660 --> 00:42:52,760
+d'adrénaline sont en premier à apparaître et
+
+1013
+00:42:52,760 --> 00:42:54,780
+ce sont les signaux d'alarme.
+
+1014
+00:42:55,240 --> 00:42:57,200
+Ce sont les signaux d'alarme avant de
+
+1015
+00:42:57,200 --> 00:42:59,620
+tomber dans les signes neuroglucopéniques qui témoignent de
+
+1016
+00:42:59,620 --> 00:43:01,940
+la souffrance de la cellule nerveuse et du
+
+1017
+00:43:01,940 --> 00:43:02,740
+cerveau.
+
+1018
+00:43:03,900 --> 00:43:07,620
+Donc, j'ai des tremblements, des palpitations, transpiration,
+
+1019
+00:43:08,100 --> 00:43:11,200
+anxiété, faim, nausée et picotement.
+
+1020
+00:43:12,000 --> 00:43:14,820
+Alors, ça s'il vous plaît, vous devez
+
+1021
+00:43:14,820 --> 00:43:16,920
+le connaître parce que c'est hyper important,
+
+1022
+00:43:17,060 --> 00:43:18,020
+c'est la sémiologie.
+
+1023
+00:43:19,180 --> 00:43:20,900
+Il faut faire la différence entre les signes
+
+1024
+00:43:20,900 --> 00:43:25,760
+adrénergiques et les signes glucopéniques parce que en
+
+1025
+00:43:25,760 --> 00:43:27,940
+connaissant ça, vous pouvez sauver l'un de
+
+1026
+00:43:27,940 --> 00:43:29,800
+vos proches et même sauver les patients lorsque
+
+1027
+00:43:29,800 --> 00:43:32,740
+vous serez même étudiant à l'hôpital.
+
+1028
+00:43:33,080 --> 00:43:35,180
+Ils nous arrivent de rester au niveau du
+
+1029
+00:43:35,180 --> 00:43:38,880
+service, à faire le staff matinel avec l
+
+1030
+00:43:38,880 --> 00:43:40,080
+'équipe de garde des médecins.
+
+1031
+00:43:40,540 --> 00:43:42,260
+Donc, c'est des réunions tous les jours
+
+1032
+00:43:42,260 --> 00:43:46,460
+après la garde où on voit défiler tous
+
+1033
+00:43:46,460 --> 00:43:49,140
+les cas cliniques vus par nos médecins et
+
+1034
+00:43:49,140 --> 00:43:51,180
+entre temps, ce sont les étudiants qui vont
+
+1035
+00:43:51,180 --> 00:43:55,180
+aller checker les constantes de leurs patients au
+
+1036
+00:43:55,180 --> 00:43:57,800
+lit du malade et ce sont eux toujours,
+
+1037
+00:43:58,120 --> 00:44:00,800
+la plupart des fois, c'est nos externes
+
+1038
+00:44:00,800 --> 00:44:03,300
+qui nous alertent, qui vont appeler les infirmiers
+
+1039
+00:44:03,300 --> 00:44:07,480
+ou les médecins lorsqu'ils vont voir que
+
+1040
+00:44:07,480 --> 00:44:09,300
+leur patient ne va pas bien.
+
+1041
+00:44:10,120 --> 00:44:12,580
+Et Dieu sait combien on a eu ces
+
+1042
+00:44:12,580 --> 00:44:14,320
+cas-là.
+
+1043
+00:44:14,800 --> 00:44:15,720
+Donc, s'il vous plaît, ça c'est
+
+1044
+00:44:15,720 --> 00:44:16,300
+à connaître.
+
+1045
+00:44:16,640 --> 00:44:19,600
+Pour vous, pas juste pour passer l'examen.
+
+1046
+00:44:21,120 --> 00:44:23,480
+Les symptômes causés par le manque du glucose
+
+1047
+00:44:23,480 --> 00:44:25,000
+au niveau du cerveau, c'est les signes
+
+1048
+00:44:25,680 --> 00:44:26,120
+neuroglucopéniques.
+
+1049
+00:44:26,380 --> 00:44:28,200
+Donc, ça va, ça témoigne de la souffrance
+
+1050
+00:44:28,200 --> 00:44:31,300
+cérébrale, neurologique, c'est clair, c'est évident.
+
+1051
+00:44:31,780 --> 00:44:35,100
+Donc, on peut tout avoir, allant des troubles
+
+1052
+00:44:35,100 --> 00:44:37,340
+de concentration et des changements de l'humeur,
+
+1053
+00:44:37,920 --> 00:44:41,340
+à la confusion, à la somnolence, à la
+
+1054
+00:44:41,340 --> 00:44:43,900
+vision trouble, parce que c'est les nerfs
+
+1055
+00:44:43,900 --> 00:44:47,160
+oculomoteurs qui souffrent, au trouble de la parole,
+
+1056
+00:44:48,080 --> 00:44:51,420
+aux maux de tête et aux étourdissements qui
+
+1057
+00:44:51,420 --> 00:44:55,600
+peuvent aller même, même, même, même, jusqu'au
+
+1058
+00:44:55,600 --> 00:44:56,740
+coma hypoglycémique.
+
+1059
+00:45:01,910 --> 00:45:04,330
+Notre patient, notre patient a été mis sous
+
+1060
+00:45:04,330 --> 00:45:06,510
+insuline avec un schéma basal-bolus.
+
+1061
+00:45:07,030 --> 00:45:08,890
+Il a eu de l'insuline le soir,
+
+1062
+00:45:09,050 --> 00:45:10,130
+ça on va le voir en détail.
+
+1063
+00:45:10,810 --> 00:45:13,570
+Donc, c'est juste garder en l'esprit
+
+1064
+00:45:13,570 --> 00:45:14,710
+qu'il a eu de l'insuline et
+
+1065
+00:45:14,710 --> 00:45:16,090
+que l'insuline est vitale chez lui.
+
+1066
+00:45:16,210 --> 00:45:17,570
+Il ne peut pas prendre des cachets parce
+
+1067
+00:45:17,570 --> 00:45:18,770
+que c'est un diabète de type 1.
+
+1068
+00:45:19,130 --> 00:45:20,210
+Est-ce que c'est clair pour vous?
+
+1069
+00:45:21,270 --> 00:45:23,710
+Gardez juste l'idée générale qu'un diabétique
+
+1070
+00:45:23,710 --> 00:45:25,770
+de type 2, on commence par des comprimés
+
+1071
+00:45:25,770 --> 00:45:28,490
+qui vont attaquer l'insulinorésistance parce que l
+
+1072
+00:45:28,490 --> 00:45:30,590
+'insuline est là chez le diabète de type
+
+1073
+00:45:30,590 --> 00:45:32,410
+2 au début, je dis bien au début.
+
+1074
+00:45:33,470 --> 00:45:36,950
+Donc, les comprimés vont essayer de corriger cette
+
+1075
+00:45:36,950 --> 00:45:38,190
+insulinorésistance.
+
+1076
+00:45:38,930 --> 00:45:42,070
+Après, au fil des années, le diabétique de
+
+1077
+00:45:42,070 --> 00:45:45,470
+type 2 va perdre progressivement son capital beta
+
+1078
+00:45:45,470 --> 00:45:48,430
+de l'ingérence et il pourra avoir, 15
+
+1079
+00:45:48,430 --> 00:45:50,370
+ans après, le recours à l'insuline.
+
+1080
+00:45:50,850 --> 00:45:52,970
+Au contraire, je vous ai dit que le
+
+1081
+00:45:52,970 --> 00:45:55,850
+diabète de type 1, déjà à la révélation
+
+1082
+00:45:55,850 --> 00:45:58,450
+du diabète qui est souvent faite par une
+
+1083
+00:45:58,450 --> 00:46:04,030
+acidoséptose inaugurale, on a souvent un manque ou
+
+1084
+00:46:04,030 --> 00:46:07,030
+une destruction de plus de 80% du
+
+1085
+00:46:07,030 --> 00:46:10,530
+pancréas endocrinien des cellules de l'ingérence beta
+
+1086
+00:46:10,530 --> 00:46:15,410
+et donc le patient a recours inéluctablement à
+
+1087
+00:46:15,410 --> 00:46:16,250
+l'insulinothérapie.
+
+1088
+00:46:16,370 --> 00:46:16,970
+Est-ce que c'est clair?
+
+1089
+00:46:17,090 --> 00:46:18,470
+Est-ce que cette idée est claire pour
+
+1090
+00:46:18,470 --> 00:46:18,710
+vous?
+
+1091
+00:46:21,100 --> 00:46:21,820
+Est-ce que c'est clair?
+
+1092
+00:46:23,380 --> 00:46:23,920
+Oui ou pas?
+
+1093
+00:46:23,920 --> 00:46:24,800
+Pourquoi on passe?
+
+1094
+00:46:27,690 --> 00:46:32,650
+Alors, un jour, le petit jeune là n
+
+1095
+00:46:32,650 --> 00:46:34,890
+'avait pas envie de prendre son petit déjeuner.
+
+1096
+00:46:36,510 --> 00:46:39,290
+Donc, il a pris juste un petit jus
+
+1097
+00:46:39,290 --> 00:46:41,950
+d'orange non sucré, fait à la maison
+
+1098
+00:46:43,810 --> 00:46:48,030
+et il a fait son injection d'insuline.
+
+1099
+00:46:49,730 --> 00:46:52,630
+Il a pris son déjeuner, il a pris
+
+1100
+00:46:52,630 --> 00:46:56,510
+un petit verre de jus d'orange avec
+
+1101
+00:46:56,510 --> 00:46:58,530
+un steak, sans féculent.
+
+1102
+00:46:59,410 --> 00:47:01,830
+Il a fait son injection et puis, l
+
+1103
+00:47:01,830 --> 00:47:03,370
+'après-midi, il avait rendez-vous à un
+
+1104
+00:47:03,370 --> 00:47:03,870
+match de foot.
+
+1105
+00:47:03,930 --> 00:47:05,610
+Justement, il ne voulait pas trop manger pour
+
+1106
+00:47:05,610 --> 00:47:07,230
+être léger pour son match.
+
+1107
+00:47:08,010 --> 00:47:09,550
+Donc, il a joué son match de foot
+
+1108
+00:47:09,550 --> 00:47:10,890
+avec ses camarades.
+
+1109
+00:47:11,270 --> 00:47:12,630
+Au bout de dix minutes, il va s
+
+1110
+00:47:12,630 --> 00:47:14,670
+'évanouir et va perdre connaissance.
+
+1111
+00:47:16,250 --> 00:47:18,550
+Ses camarades savent qu'il est diabétique.
+
+1112
+00:47:19,170 --> 00:47:21,770
+Ils cherchent un glucomètre et ils chiffrent qu
+
+1113
+00:47:21,770 --> 00:47:24,650
+'ils trouvent une glycémie capillaire à 0,3.
+
+1114
+00:47:25,330 --> 00:47:28,090
+De quoi s'agit-il ?
+
+1115
+00:47:28,830 --> 00:47:30,230
+C'est une ?
+
+1116
+00:47:30,230 --> 00:47:33,450
+C'est une ?
+
+1117
+00:47:33,450 --> 00:47:34,930
+Hypoglycémie sévère.
+
+1118
+00:47:35,250 --> 00:47:37,470
+De quel grade sévère ?
+
+1119
+00:47:38,230 --> 00:47:39,050
+C'est ça.
+
+1120
+00:47:39,330 --> 00:47:42,090
+Donc, c'est une hypoglycémie sévère niveau 3.
+
+1121
+00:47:43,810 --> 00:47:45,470
+Donc là, on a...
+
+1122
+00:47:47,550 --> 00:47:49,370
+Je vous rappelle, en fait, les définitions.
+
+1123
+00:47:49,570 --> 00:47:52,090
+On a dit que l'hypoglycémie sévère légère,
+
+1124
+00:47:52,750 --> 00:47:54,710
+elle est entre 0,7 et 0,5
+
+1125
+00:47:54,710 --> 00:47:56,990
+et 0,54.
+
+1126
+00:47:57,690 --> 00:48:01,170
+On a les symptômes adrénergiques seulement et la
+
+1127
+00:48:01,170 --> 00:48:02,930
+personne peut se ressucrer toute seule.
+
+1128
+00:48:03,370 --> 00:48:06,730
+L'hypoglycémie modérée, elle est provoquée par la
+
+1129
+00:48:06,730 --> 00:48:09,810
+production de l'adrénaline et on a le
+
+1130
+00:48:09,810 --> 00:48:13,030
+commencement, le début des signes neuroglucopéniques.
+
+1131
+00:48:13,230 --> 00:48:16,690
+Mais toujours, la personne, même si elle a
+
+1132
+00:48:16,690 --> 00:48:18,790
+des troubles de concentration, elle a des troubles
+
+1133
+00:48:18,790 --> 00:48:20,190
+de l'humeur, elle est capable de se
+
+1134
+00:48:20,190 --> 00:48:21,130
+ressucrer toute seule.
+
+1135
+00:48:21,510 --> 00:48:24,010
+L'hypoglycémie sévère, c'est le cas de
+
+1136
+00:48:24,010 --> 00:48:27,590
+notre patient, elle est inférieure à 0,5,
+
+1137
+00:48:27,690 --> 00:48:29,610
+la glycémie, et la personne ne peut pas
+
+1138
+00:48:29,610 --> 00:48:31,690
+se ressucrer toute seule parce qu'elle peut
+
+1139
+00:48:31,690 --> 00:48:33,870
+perdre connaissance et elle a besoin d'une
+
+1140
+00:48:33,870 --> 00:48:35,730
+certaine personne pour traiter l'hypoglycémie.
+
+1141
+00:48:35,890 --> 00:48:37,150
+Donc, je pense que c'est clair.
+
+1142
+00:48:39,270 --> 00:48:45,970
+Pour le premier cas, en fait, que ça
+
+1143
+00:48:45,970 --> 00:48:49,670
+soit, en fait, pour ce cas, ce cas
+
+1144
+00:48:49,670 --> 00:48:51,910
+clinique, en fait, le deuxième, je pense qu
+
+1145
+00:48:51,910 --> 00:48:53,310
+'ici, il fallait que je mette le deuxième
+
+1146
+00:48:53,310 --> 00:48:53,530
+cas.
+
+1147
+00:48:54,390 --> 00:48:57,170
+Pour ce jeune de 16 ans, faut-il
+
+1148
+00:48:57,170 --> 00:49:02,610
+lui demander un bilan dès le diagnostic du,
+
+1149
+00:49:02,790 --> 00:49:05,170
+pardon, cette question, c'est pour les deux
+
+1150
+00:49:05,170 --> 00:49:05,790
+cas cliniques.
+
+1151
+00:49:06,410 --> 00:49:09,210
+Donc, pour nos deux cas cliniques, faut-il
+
+1152
+00:49:09,210 --> 00:49:11,870
+demander un bilan dégénératif dès le diagnostic ou
+
+1153
+00:49:11,870 --> 00:49:14,130
+attendre 5 ans après l'évolution?
+
+1154
+00:49:14,130 --> 00:49:16,330
+En fait, ça inclut le premier et le
+
+1155
+00:49:16,330 --> 00:49:16,890
+deuxième cas.
+
+1156
+00:49:17,450 --> 00:49:18,650
+Est-ce que vous avez un élément de
+
+1157
+00:49:18,650 --> 00:49:25,550
+réponse pour voir les complications chroniques, rénales, ophtalmologiques
+
+1158
+00:49:27,130 --> 00:49:29,430
+et cardiaques du diabète?
+
+1159
+00:49:29,910 --> 00:49:32,590
+Est-ce que je dois aller chercher dès
+
+1160
+00:49:32,590 --> 00:49:35,250
+que j'ai le diagnostic positif du diabète
+
+1161
+00:49:35,250 --> 00:49:36,910
+ou bien 5 ans après?
+
+1162
+00:49:37,470 --> 00:49:39,010
+Qui c'est qui a la réponse?
+
+1163
+00:49:42,280 --> 00:49:43,300
+Qui c'est qui a la réponse?
+
+1164
+00:49:52,550 --> 00:49:53,950
+Qui c'est qui a la réponse?
+
+1165
+00:49:54,950 --> 00:49:57,350
+Donc, pour le diabète de type 2, comme
+
+1166
+00:49:57,350 --> 00:50:01,230
+c'est un début insidieux, silencieux, on ne
+
+1167
+00:50:01,230 --> 00:50:04,590
+peut pas connaître depuis quand ce diabète de
+
+1168
+00:50:04,590 --> 00:50:05,770
+type 2 évolue.
+
+1169
+00:50:07,370 --> 00:50:08,590
+Rappelez-vous le premier cas.
+
+1170
+00:50:08,690 --> 00:50:12,490
+Il a tourné pendant 2 ans et on
+
+1171
+00:50:12,490 --> 00:50:15,210
+ne sait pas, en fait, depuis quand il
+
+1172
+00:50:15,210 --> 00:50:18,610
+est parti, en fait, il a parti du
+
+1173
+00:50:18,610 --> 00:50:20,910
+stade pré-diabète jusqu'au diabète de type
+
+1174
+00:50:20,910 --> 00:50:21,050
+2.
+
+1175
+00:50:21,150 --> 00:50:22,290
+On ne connaît pas le moment précis.
+
+1176
+00:50:22,790 --> 00:50:24,550
+C'est pour ça que chez tous les
+
+1177
+00:50:24,550 --> 00:50:26,230
+diabétiques de type 2, on fait le bilan
+
+1178
+00:50:27,110 --> 00:50:28,610
+dégénératif dès le diagnostic.
+
+1179
+00:50:29,430 --> 00:50:32,150
+Et chez le diabète de type 1, on
+
+1180
+00:50:32,150 --> 00:50:35,830
+fait le diagnostic, en fait, le bilan dégénératif
+
+1181
+00:50:35,830 --> 00:50:36,670
+après 5 ans.
+
+1182
+00:50:36,890 --> 00:50:37,110
+Pourquoi?
+
+1183
+00:50:38,550 --> 00:50:39,570
+Parce que c'est clair.
+
+1184
+00:50:39,710 --> 00:50:40,710
+Je vous ai dit que c'est un
+
+1185
+00:50:40,710 --> 00:50:43,250
+tonnerre dans un ciel serein.
+
+1186
+00:50:43,370 --> 00:50:45,210
+On connaît le moment où ça s'est
+
+1187
+00:50:45,210 --> 00:50:47,730
+déclenché et pour avoir les complications, il faut
+
+1188
+00:50:47,730 --> 00:50:49,970
+au minimum 5 ans chez le diabétique de
+
+1189
+00:50:49,970 --> 00:50:50,430
+type 1.
+
+1190
+00:50:52,470 --> 00:50:52,570
+Oui?
+
+1191
+00:50:53,990 --> 00:50:58,690
+Madame, pour le bilan dégénératif, c'est quoi
+
+1192
+00:50:58,690 --> 00:51:00,790
+les éléments qui sont différents?
+
+1193
+00:51:01,130 --> 00:51:02,110
+Alors, qu'est-ce qu'on fait?
+
+1194
+00:51:02,770 --> 00:51:04,330
+On fait un interrogatoire.
+
+1195
+00:51:05,050 --> 00:51:07,230
+On va poser les questions sur les complications
+
+1196
+00:51:07,230 --> 00:51:08,410
+cardiovasculaires.
+
+1197
+00:51:09,010 --> 00:51:12,090
+Est-ce qu'il a des douleurs en
+
+1198
+00:51:12,090 --> 00:51:14,170
+regard de la poitrine et précordialité?
+
+1199
+00:51:14,850 --> 00:51:19,110
+Est-ce qu'il a des contractures au
+
+1200
+00:51:19,110 --> 00:51:21,610
+niveau des membres inférieurs qui vont témoigner des
+
+1201
+00:51:21,610 --> 00:51:23,070
+crudications intermittentes?
+
+1202
+00:51:23,210 --> 00:51:26,170
+Des spasmes au niveau des artères des membres
+
+1203
+00:51:26,170 --> 00:51:26,810
+inférieurs?
+
+1204
+00:51:27,950 --> 00:51:31,070
+Est-ce qu'il a des douleurs au
+
+1205
+00:51:31,070 --> 00:51:32,310
+niveau de la plante des pieds?
+
+1206
+00:51:32,450 --> 00:51:35,570
+Parce que l'hyperglycémie chronique, le diabète, va
+
+1207
+00:51:35,570 --> 00:51:37,630
+toucher les nerfs, surtout des pieds.
+
+1208
+00:51:37,950 --> 00:51:39,310
+Et c'est pour ça que vous entendez
+
+1209
+00:51:39,310 --> 00:51:40,590
+parler du pied diabétique.
+
+1210
+00:51:40,750 --> 00:51:42,830
+Il y a une complication au niveau des
+
+1211
+00:51:42,830 --> 00:51:43,270
+pieds.
+
+1212
+00:51:43,270 --> 00:51:44,850
+Vous entendez souvent ça ou pas?
+
+1213
+00:51:45,910 --> 00:51:47,430
+On lui a coupé le pied parce qu
+
+1214
+00:51:47,430 --> 00:51:47,990
+'il est diabétique.
+
+1215
+00:51:48,130 --> 00:51:48,990
+Vous entendez ça?
+
+1216
+00:51:49,090 --> 00:51:50,610
+Vous avez déjà entendu ça ou pas?
+
+1217
+00:51:50,990 --> 00:51:52,330
+Oui, madame.
+
+1218
+00:51:52,590 --> 00:51:53,750
+Donc, on pose la question.
+
+1219
+00:51:53,830 --> 00:51:55,830
+Est-ce que, monsieur, vous avez mal au
+
+1220
+00:51:55,830 --> 00:51:57,170
+niveau de la plante des pieds?
+
+1221
+00:51:57,270 --> 00:51:58,070
+Est-ce que ça chauffe?
+
+1222
+00:51:58,190 --> 00:51:59,490
+Est-ce qu'il y a des picotements?
+
+1223
+00:52:00,110 --> 00:52:01,730
+Est-ce que vous avez mal au niveau
+
+1224
+00:52:01,730 --> 00:52:02,270
+des mollets?
+
+1225
+00:52:02,710 --> 00:52:03,850
+Est-ce que ça se contracte?
+
+1226
+00:52:03,970 --> 00:52:06,110
+Est-ce que vous avez un claquage généralement?
+
+1227
+00:52:06,290 --> 00:52:08,510
+L'argot avec les patients, on leur dit,
+
+1228
+00:52:08,650 --> 00:52:10,110
+est-ce que vous avez des claquages comme
+
+1229
+00:52:10,110 --> 00:52:10,270
+ça?
+
+1230
+00:52:10,490 --> 00:52:12,890
+Claquage ou des contractures musculaires au niveau des
+
+1231
+00:52:12,890 --> 00:52:13,150
+mollets?
+
+1232
+00:52:13,830 --> 00:52:16,510
+Est-ce que vous avez des douleurs précordiales?
+
+1233
+00:52:16,570 --> 00:52:18,270
+Ça veut dire en regard du cœur.
+
+1234
+00:52:19,550 --> 00:52:22,190
+L'examen clinique complet, on va mettre le
+
+1235
+00:52:22,190 --> 00:52:25,930
+stéthoscope sur tous les axes vasculaires, sur le
+
+1236
+00:52:25,930 --> 00:52:27,270
+cœur, sur les vaisseaux du cou.
+
+1237
+00:52:28,530 --> 00:52:31,490
+Après, on va examiner, on va faire l
+
+1238
+00:52:31,490 --> 00:52:35,630
+'examen neurologique des pieds et le bilan annuel
+
+1239
+00:52:35,630 --> 00:52:36,210
+chaque année.
+
+1240
+00:52:36,410 --> 00:52:38,910
+Donc, ça, l'interrogatoire et l'examen clinique,
+
+1241
+00:52:38,910 --> 00:52:40,410
+on le fait à chaque fois qu'on
+
+1242
+00:52:40,410 --> 00:52:41,310
+voit notre patient.
+
+1243
+00:52:42,110 --> 00:52:46,530
+Et annuellement, tous les années, une fois par
+
+1244
+00:52:46,530 --> 00:52:51,830
+an, on va demander un ECG pour justement
+
+1245
+00:52:53,510 --> 00:52:56,390
+étiqueter ou diagnostiquer les problèmes cardiovasculaires.
+
+1246
+00:52:56,750 --> 00:53:00,270
+On va demander un examen ophtalmo-complet pour
+
+1247
+00:53:00,270 --> 00:53:02,550
+dépister les complications ophtalmologiques.
+
+1248
+00:53:02,910 --> 00:53:06,310
+On va faire une urécréatine et une microalbuminerie
+
+1249
+00:53:06,310 --> 00:53:10,050
+de 24 heures pour dépister les complications rénales.
+
+1250
+00:53:10,190 --> 00:53:10,710
+C'est simple.
+
+1251
+00:53:11,390 --> 00:53:11,590
+D'accord?
+
+1252
+00:53:12,070 --> 00:53:13,210
+Je reprends.
+
+1253
+00:53:13,550 --> 00:53:16,750
+Chez le DT1, on commence après 5 ans
+
+1254
+00:53:16,750 --> 00:53:19,150
+d'évolution, chaque année, chaque année, on fait
+
+1255
+00:53:19,150 --> 00:53:19,350
+ça.
+
+1256
+00:53:20,990 --> 00:53:24,070
+Après, chez le DT2, d'emblée, dès la
+
+1257
+00:53:24,070 --> 00:53:26,370
+découverte, tout simplement parce qu'il évolue de
+
+1258
+00:53:26,370 --> 00:53:28,370
+façon très silencieuse, très progressive.
+
+1259
+00:53:28,930 --> 00:53:31,710
+On ne sait jamais depuis quand ce diabète
+
+1260
+00:53:31,710 --> 00:53:32,210
+évolue.
+
+1261
+00:53:33,410 --> 00:53:34,470
+Qu'est-ce qu'on fait à l
+
+1262
+00:53:34,470 --> 00:53:35,030
+'interrogatoire?
+
+1263
+00:53:35,030 --> 00:53:38,150
+On cherche les contractures, les claudications du membre
+
+1264
+00:53:38,150 --> 00:53:38,630
+inférieur.
+
+1265
+00:53:39,090 --> 00:53:41,610
+On cherche des signes en faveur de douleurs
+
+1266
+00:53:41,610 --> 00:53:43,730
+précordiales, cardiaques.
+
+1267
+00:53:45,450 --> 00:53:48,370
+On cherche la neuropathie.
+
+1268
+00:53:49,330 --> 00:53:51,390
+Je vous fais grâce des troubles digestifs et
+
+1269
+00:53:51,390 --> 00:53:52,630
+des troubles urogénitaux.
+
+1270
+00:53:52,730 --> 00:53:53,650
+C'est un peu compliqué.
+
+1271
+00:53:54,370 --> 00:53:56,670
+C'est le niveau des quatrièmes années.
+
+1272
+00:53:57,110 --> 00:53:58,110
+C'est pour ça que je vous ai
+
+1273
+00:53:58,110 --> 00:54:01,350
+dit les choses les plus importantes, cardiovasculaires et
+
+1274
+00:54:01,350 --> 00:54:02,790
+neurologiques.
+
+1275
+00:54:02,790 --> 00:54:03,530
+Je vous ai dit le RENAL et le
+
+1276
+00:54:03,530 --> 00:54:03,970
+HOFTALMO.
+
+1277
+00:54:04,210 --> 00:54:05,370
+On ne va pas dans les détails.
+
+1278
+00:54:06,110 --> 00:54:09,270
+L'examen clinique cardiovasculaire, on va ausculter tous
+
+1279
+00:54:09,270 --> 00:54:10,270
+les axes vasculaires.
+
+1280
+00:54:10,730 --> 00:54:12,690
+On va faire l'examen neurologique pour essayer
+
+1281
+00:54:12,690 --> 00:54:15,010
+de dépister la neuropathie au niveau des pieds.
+
+1282
+00:54:15,430 --> 00:54:17,730
+Chaque année, on va demander une fois par
+
+1283
+00:54:17,730 --> 00:54:22,110
+an le CG, l'examen HOFTALMO, l'urècréatinine
+
+1284
+00:54:22,110 --> 00:54:24,790
+et la microalbuminerie de 24 heures pour dépister
+
+1285
+00:54:26,910 --> 00:54:28,450
+les complications rénales.
+
+1286
+00:54:28,450 --> 00:54:32,670
+Est-ce que c'est clair ?
+
+1287
+00:54:32,670 --> 00:54:34,230
+Est-ce que vous avez d'autres questions
+
+1288
+00:54:34,230 --> 00:54:36,930
+avant de passer à l'endocrino ?
+
+1289
+00:54:39,910 --> 00:54:41,730
+Est-ce que c'est clair ?
+
+1290
+00:54:45,280 --> 00:54:46,160
+Est-ce que c'est clair ?
+
+1291
+00:54:46,160 --> 00:54:48,440
+Vous avez des questions ?
+
+1292
+00:54:49,120 --> 00:54:49,920
+Oui, madame.
+
+1293
+00:54:50,420 --> 00:54:51,300
+Oui, dites-moi.
+
+1294
+00:54:54,460 --> 00:54:56,120
+Vous avez des questions ?
+
+1295
+00:54:56,120 --> 00:54:57,200
+Parce qu'il y a de l'écho,
+
+1296
+00:54:57,460 --> 00:54:59,060
+je ne sais pas si vous avez dit
+
+1297
+00:54:59,060 --> 00:54:59,560
+oui ou non.
+
+1298
+00:55:03,440 --> 00:55:06,180
+On peut passer à l'endocrino ?
+
+1299
+00:55:06,180 --> 00:55:08,020
+Oui, madame, on passe.
+
+1300
+00:55:11,470 --> 00:55:15,030
+Alors, en endocrino, c'est plus facile, c
+
+1301
+00:55:15,030 --> 00:55:15,730
+'est des QCM.
+
+1302
+00:55:17,010 --> 00:55:18,530
+Donc, essayez de vous concentrer.
+
+1303
+00:55:22,170 --> 00:55:24,150
+On va commencer par la thyroïde.
+
+1304
+00:55:24,470 --> 00:55:26,350
+On va respecter l'ordre des cours que
+
+1305
+00:55:26,350 --> 00:55:27,050
+vous avez eus.
+
+1306
+00:55:29,830 --> 00:55:32,070
+Alors, Saphir, vous n'êtes pas trop fatigué,
+
+1307
+00:55:32,150 --> 00:55:34,050
+on peut enchaîner ?
+
+1308
+00:55:34,050 --> 00:55:36,550
+On peut enchaîner ?
+
+1309
+00:55:36,550 --> 00:55:37,270
+Oui, madame.
+
+1310
+00:55:37,270 --> 00:55:38,670
+Oui, madame.
+
+1311
+00:55:41,530 --> 00:55:43,510
+Donc, ça me frustre de ne pas vous
+
+1312
+00:55:43,510 --> 00:55:49,450
+voir, parce que ça nous manque énormément, l
+
+1313
+00:55:49,450 --> 00:55:49,790
+'amphi.
+
+1314
+00:55:49,930 --> 00:55:52,410
+Mais sachez qu'on vous aime, même si
+
+1315
+00:55:52,410 --> 00:55:53,890
+on ne vous voit pas, et qu'on
+
+1316
+00:55:53,890 --> 00:55:55,450
+est là pour vous, d'accord ?
+
+1317
+00:55:55,450 --> 00:55:57,130
+Et on fait ça par patience et par
+
+1318
+00:55:57,130 --> 00:55:57,570
+amour.
+
+1319
+00:55:57,990 --> 00:56:00,290
+Et s'il y a le moindre problème,
+
+1320
+00:56:00,410 --> 00:56:02,770
+vous pouvez me contacter par mail, ou vous
+
+1321
+00:56:02,770 --> 00:56:05,750
+pouvez contacter la direction, enfin l'administration pour
+
+1322
+00:56:05,750 --> 00:56:07,150
+avoir vos questions et vos problèmes.
+
+1323
+00:56:07,150 --> 00:56:10,910
+Sinon, je suis au service d'endocrine au
+
+1324
+00:56:10,910 --> 00:56:13,150
+diabéto, quatrième étage au CHU.
+
+1325
+00:56:13,350 --> 00:56:16,030
+Donc, vous êtes les bienvenus quand vous voulez.
+
+1326
+00:56:17,250 --> 00:56:17,970
+Alors, on commence.
+
+1327
+00:56:19,670 --> 00:56:22,290
+On commence, donc, pour exercer la thyroïde.
+
+1328
+00:56:22,630 --> 00:56:23,210
+Merci à vous.
+
+1329
+00:56:24,110 --> 00:56:28,170
+Alors, quand on veut examiner la thyroïde, quelles
+
+1330
+00:56:28,170 --> 00:56:32,250
+sont les propositions vraies ?
+
+1331
+00:56:33,560 --> 00:56:36,440
+L'examinateur va devoir se mettre devant le
+
+1332
+00:56:36,440 --> 00:56:36,800
+patient.
+
+1333
+00:56:38,140 --> 00:56:41,240
+L'examinateur doit se mettre derrière le patient.
+
+1334
+00:56:42,840 --> 00:56:45,960
+On ne doit pas demander à notre patient
+
+1335
+00:56:45,960 --> 00:56:46,700
+de déglutir.
+
+1336
+00:56:46,820 --> 00:56:48,400
+Il doit avoir la gorge fixe.
+
+1337
+00:56:50,870 --> 00:56:53,050
+Le patient doit rester en apnée.
+
+1338
+00:56:53,270 --> 00:56:54,570
+Il doit arrêter de respirer.
+
+1339
+00:56:56,110 --> 00:56:58,490
+La tête du patient doit être en extension.
+
+1340
+00:56:58,870 --> 00:57:02,590
+Alors, selon vous, dans ces propositions, quelles sont
+
+1341
+00:57:02,590 --> 00:57:03,650
+les vraies ?
+
+1342
+00:57:06,500 --> 00:57:07,020
+1 et 2.
+
+1343
+00:57:08,240 --> 00:57:09,180
+1 et 2.
+
+1344
+00:57:15,470 --> 00:57:16,110
+Bravo, monsieur.
+
+1345
+00:57:18,930 --> 00:57:20,590
+On va voir, on va répondre grâce à
+
+1346
+00:57:20,590 --> 00:57:21,250
+Amène Lecour.
+
+1347
+00:57:21,890 --> 00:57:24,410
+Donc, est-ce que c'est clair pour
+
+1348
+00:57:24,410 --> 00:57:26,430
+tout le monde ou pas ?
+
+1349
+00:57:26,430 --> 00:57:30,230
+Préparez vos questions, parce qu'en fait, on
+
+1350
+00:57:30,230 --> 00:57:32,910
+va passer la deuxième plaque et on va
+
+1351
+00:57:32,910 --> 00:57:33,850
+essayer de répondre.
+
+1352
+00:57:38,960 --> 00:57:40,920
+Madame, il y a des questions dans la
+
+1353
+00:57:40,920 --> 00:57:41,300
+partition.
+
+1354
+00:57:42,620 --> 00:57:43,640
+Je n'ai pas entendu.
+
+1355
+00:57:44,720 --> 00:57:46,900
+Il y a des questions dans la discussion.
+
+1356
+00:57:49,000 --> 00:57:50,720
+Mais je n'ai pas, ça ne sort
+
+1357
+00:57:50,720 --> 00:57:51,000
+pas.
+
+1358
+00:57:51,780 --> 00:57:54,400
+Est-ce que ça ne sort pas ?
+
+1359
+00:57:54,400 --> 00:57:56,140
+Ça ne sort pas pour moi.
+
+1360
+00:57:56,300 --> 00:57:57,440
+Le chat ne sort pas.
+
+1361
+00:58:00,140 --> 00:58:02,380
+Madame, il y a une remarque sur le
+
+1362
+00:58:02,380 --> 00:58:04,120
+cours de sémiosurénalienne.
+
+1363
+00:58:04,980 --> 00:58:06,720
+Il y a un petit problème dans le
+
+1364
+00:58:06,720 --> 00:58:08,000
+cours déposé dans la plateforme.
+
+1365
+00:58:09,540 --> 00:58:14,540
+C'est exactement le même cours de sémiologie
+
+1366
+00:58:14,540 --> 00:58:16,060
+et totalement hypophyser.
+
+1367
+00:58:17,500 --> 00:58:19,000
+Ah bon, vous n'avez pas eu le
+
+1368
+00:58:19,000 --> 00:58:20,820
+cours de surénal ?
+
+1369
+00:58:20,820 --> 00:58:21,600
+Oui, c'est ça.
+
+1370
+00:58:23,340 --> 00:58:24,700
+Vous n'avez pas eu le cours ?
+
+1371
+00:58:24,700 --> 00:58:26,140
+Oh là là, d'accord, je vais vous
+
+1372
+00:58:26,140 --> 00:58:26,820
+le déposer.
+
+1373
+00:58:28,340 --> 00:58:30,720
+C'est juste peut-être une faute de
+
+1374
+00:58:30,720 --> 00:58:31,120
+saisie.
+
+1375
+00:58:31,860 --> 00:58:33,880
+Je vais vous le déposer aujourd'hui, d
+
+1376
+00:58:33,880 --> 00:58:34,800
+'accord ?
+
+1377
+00:58:34,800 --> 00:58:35,720
+D'accord, merci madame.
+
+1378
+00:58:36,380 --> 00:58:37,240
+Madame ?
+
+1379
+00:58:37,240 --> 00:58:38,140
+Oui, dites-moi.
+
+1380
+00:58:38,760 --> 00:58:40,700
+Madame, s'il vous plaît, on a dans
+
+1381
+00:58:40,700 --> 00:58:42,540
+le cours au niveau de l'inspection, on
+
+1382
+00:58:42,540 --> 00:58:44,200
+a que la tête doit être en extension.
+
+1383
+00:58:44,980 --> 00:58:47,040
+Et on a dans la palpation que le
+
+1384
+00:58:47,040 --> 00:58:51,540
+patient doit être tête fléchie et que l
+
+1385
+00:58:51,540 --> 00:58:53,120
+'examinateur doit être en arrière.
+
+1386
+00:58:53,740 --> 00:58:55,940
+C'est ça, c'est ça.
+
+1387
+00:58:56,600 --> 00:58:58,100
+Pour la première proposition.
+
+1388
+00:58:59,380 --> 00:59:00,740
+C'est pour l'inspection ?
+
+1389
+00:59:02,860 --> 00:59:04,100
+Alors, quels sont les...
+
+1390
+00:59:06,100 --> 00:59:07,140
+C'est vrai.
+
+1391
+00:59:07,420 --> 00:59:09,820
+En fait, l'examinateur se met derrière le
+
+1392
+00:59:09,820 --> 00:59:10,160
+patient.
+
+1393
+00:59:10,560 --> 00:59:12,060
+Je pense que c'est une faute.
+
+1394
+00:59:12,460 --> 00:59:14,020
+C'est pour la dernière proposition ?
+
+1395
+00:59:14,020 --> 00:59:16,880
+Oui, oui, c'est une faute de frappe.
+
+1396
+00:59:17,200 --> 00:59:21,180
+Donc, on va le voir maintenant dans la
+
+1397
+00:59:21,180 --> 00:59:21,660
+révision.
+
+1398
+00:59:22,440 --> 00:59:24,120
+Madame, et la dernière proposition, elle est vraie
+
+1399
+00:59:24,120 --> 00:59:24,880
+?
+
+1400
+00:59:24,880 --> 00:59:26,660
+Attendez, on va vous le sortir.
+
+1401
+00:59:26,800 --> 00:59:29,600
+Je veux vous sortir la plaque du cours.
+
+1402
+00:59:29,600 --> 00:59:30,980
+D'accord madame, d'accord.
+
+1403
+00:59:31,800 --> 00:59:35,240
+Alors, concernant le goitre, quelles sont les propositions
+
+1404
+00:59:35,240 --> 00:59:36,880
+exactes ?
+
+1405
+00:59:36,880 --> 00:59:38,660
+Il est défini lorsque la surface de la
+
+1406
+00:59:38,660 --> 00:59:42,340
+thyroïde dépasse celle de la dernière phalange du
+
+1407
+00:59:42,340 --> 00:59:44,860
+pouce de l'examinateur, du médecin ?
+
+1408
+00:59:45,420 --> 00:59:46,980
+Est-ce qu'il est défini lorsque la
+
+1409
+00:59:46,980 --> 00:59:49,080
+surface de la thyroïde dépasse celle de la
+
+1410
+00:59:49,080 --> 00:59:50,700
+dernière phalange du médecin ?
+
+1411
+00:59:51,860 --> 00:59:53,680
+Est-ce qu'il est défini lorsque le
+
+1412
+00:59:53,680 --> 00:59:57,980
+volume de l'un des lobes dépasse 20
+
+1413
+00:59:57,980 --> 00:59:59,580
+cm chez l'homme ?
+
+1414
+01:00:00,340 --> 01:00:02,740
+Il peut être diffus ou localisé.
+
+1415
+01:00:04,380 --> 01:00:06,520
+Il est dit simple lorsqu'il est hyper
+
+1416
+01:00:06,520 --> 01:00:07,340
+fonctionnel.
+
+1417
+01:00:08,560 --> 01:00:11,000
+Il se voit surtout chez la femme âgée.
+
+1418
+01:00:12,480 --> 01:00:15,320
+Quelles sont les propositions que vous allez retenir
+
+1419
+01:00:15,320 --> 01:00:16,600
+?
+
+1420
+01:00:16,600 --> 01:00:17,940
+Est-ce qu'il est défini lorsque la
+
+1421
+01:00:17,940 --> 01:00:20,200
+surface de la thyroïde dépasse celle du médecin
+
+1422
+01:00:20,200 --> 01:00:21,080
+?
+
+1423
+01:00:23,040 --> 01:00:24,160
+Non, il faut que ce soit celle du
+
+1424
+01:00:24,160 --> 01:00:24,300
+patient.
+
+1425
+01:00:24,320 --> 01:00:26,560
+Non, qu'elle dépasse parce qu'un médecin
+
+1426
+01:00:26,560 --> 01:00:29,060
+peut bien examiner un enfant.
+
+1427
+01:00:29,420 --> 01:00:31,260
+Et Dieu sait que la thyroïde chez l
+
+1428
+01:00:31,260 --> 01:00:32,040
+'enfant est petite.
+
+1429
+01:00:33,360 --> 01:00:36,780
+Le goitre est défini par un volume supérieur
+
+1430
+01:00:36,780 --> 01:00:39,880
+à celle de la dernière phalange du patient.
+
+1431
+01:00:40,920 --> 01:00:42,500
+Il est défini lorsque le volume de l
+
+1432
+01:00:42,500 --> 01:00:44,400
+'un des lobes dépasse 20 cm chez l
+
+1433
+01:00:44,400 --> 01:00:47,920
+'homme ?
+
+1434
+01:00:47,920 --> 01:00:48,780
+Oui ou pas ?
+
+1435
+01:00:48,780 --> 01:00:50,500
+La somme des deux lobes, non ?
+
+1436
+01:00:50,500 --> 01:00:52,360
+La somme des deux lobes, donc le volume
+
+1437
+01:00:52,360 --> 01:00:52,820
+total.
+
+1438
+01:00:54,780 --> 01:00:56,460
+Il peut être diffus ou localisé.
+
+1439
+01:00:56,620 --> 01:00:58,100
+Ça veut dire qu'il peut être homogène.
+
+1440
+01:00:58,180 --> 01:00:59,480
+Ça veut dire qu'on peut avoir une
+
+1441
+01:00:59,480 --> 01:01:05,180
+augmentation totale de la thyroïde ou on peut
+
+1442
+01:01:05,180 --> 01:01:07,840
+avoir un lobe prédominant l'autre.
+
+1443
+01:01:08,080 --> 01:01:11,320
+On peut avoir un volume très important d
+
+1444
+01:01:11,320 --> 01:01:13,400
+'un lobe et que l'autre peut être
+
+1445
+01:01:13,400 --> 01:01:17,100
+presque augmenté ou normal.
+
+1446
+01:01:17,860 --> 01:01:19,440
+Est-ce qu'il peut être diffus ou
+
+1447
+01:01:19,440 --> 01:01:20,340
+localisé ?
+
+1448
+01:01:20,340 --> 01:01:20,980
+Oui ou pas ?
+
+1449
+01:01:20,980 --> 01:01:21,100
+Oui.
+
+1450
+01:01:22,920 --> 01:01:24,640
+Il est dit simple lorsqu'il est hyper
+
+1451
+01:01:24,640 --> 01:01:26,820
+fonctionnel, lorsqu'il y a une hyperthyroïde.
+
+1452
+01:01:27,840 --> 01:01:28,360
+Non.
+
+1453
+01:01:29,080 --> 01:01:31,040
+D'ailleurs simple, ça veut dire qu'il
+
+1454
+01:01:31,040 --> 01:01:33,360
+n'y a pas de complications hormonales.
+
+1455
+01:01:34,520 --> 01:01:36,440
+Il se voit surtout chez la femme âgée
+
+1456
+01:01:40,320 --> 01:01:41,260
+?
+
+1457
+01:01:41,260 --> 01:01:41,400
+Non.
+
+1458
+01:01:41,720 --> 01:01:43,740
+C'est l'apanage souvent de la femme
+
+1459
+01:01:43,740 --> 01:01:45,600
+en activité génitale parce qu'il y a
+
+1460
+01:01:45,600 --> 01:01:50,400
+des intrications hormonales et auto-immunes qui sont
+
+1461
+01:01:50,400 --> 01:01:52,000
+corrélées à l'âge jeune.
+
+1462
+01:01:54,190 --> 01:02:02,030
+Donc la seule question vraie et celle qui
+
+1463
+01:02:02,030 --> 01:02:04,150
+est au milieu, il peut être diffus ou
+
+1464
+01:02:04,150 --> 01:02:04,630
+localisé.
+
+1465
+01:02:04,990 --> 01:02:06,490
+Alors, le cours.
+
+1466
+01:02:09,900 --> 01:02:12,260
+En fait, le goitre correspond à une augmentation
+
+1467
+01:02:12,260 --> 01:02:13,760
+du volume de la thyroïde.
+
+1468
+01:02:14,120 --> 01:02:16,240
+C'est lorsque la surface de chacun des
+
+1469
+01:02:16,240 --> 01:02:19,000
+lobes excède celle de la dernière phalange du
+
+1470
+01:02:19,000 --> 01:02:20,780
+pouce du patient et non du médecin.
+
+1471
+01:02:22,000 --> 01:02:23,160
+Parce qu'il y a même des médecins,
+
+1472
+01:02:23,220 --> 01:02:28,420
+je vous assure, qui vont aller comparer la
+
+1473
+01:02:28,420 --> 01:02:30,820
+taille de la thyroïde par rapport à leur
+
+1474
+01:02:30,820 --> 01:02:31,240
+pouce.
+
+1475
+01:02:31,240 --> 01:02:33,040
+C'est pour ça que ça vous semble
+
+1476
+01:02:33,040 --> 01:02:34,980
+bête, mais c'est important.
+
+1477
+01:02:37,200 --> 01:02:41,780
+L'échographie va nous définir le volume thyroïdien
+
+1478
+01:02:41,780 --> 01:02:45,520
+qui est évalué par la somme de chacun
+
+1479
+01:02:45,520 --> 01:02:46,000
+des lobes.
+
+1480
+01:02:46,420 --> 01:02:50,080
+Donc on calcule la hauteur, la largeur et
+
+1481
+01:02:50,080 --> 01:02:51,220
+l'épaisseur.
+
+1482
+01:02:51,660 --> 01:02:54,800
+Et on fait la multiplication des trois et
+
+1483
+01:02:54,800 --> 01:02:56,160
+ça va nous donner un chiffre.
+
+1484
+01:02:57,120 --> 01:02:59,460
+On dit qu'il s'agit d'un
+
+1485
+01:02:59,460 --> 01:03:02,060
+goitre lorsque ça dépasse 20 centimètres chez l
+
+1486
+01:03:02,060 --> 01:03:05,340
+'homme, la totalité du volume thyroïdien et le
+
+1487
+01:03:05,340 --> 01:03:06,680
+lobe droit et le lobe gauche.
+
+1488
+01:03:07,140 --> 01:03:08,920
+Lorsqu'il dépasse 18 chez la femme et
+
+1489
+01:03:08,920 --> 01:03:10,940
+lorsqu'il dépasse 16 chez l'adolescent.
+
+1490
+01:03:13,710 --> 01:03:19,330
+Donc en fait, la réponse à la première
+
+1491
+01:03:19,330 --> 01:03:22,810
+question, donc l'examinatoire doit d'abord se
+
+1492
+01:03:22,810 --> 01:03:26,630
+mettre en face du patient pour l'inspection
+
+1493
+01:03:27,670 --> 01:03:29,630
+et après il se met derrière.
+
+1494
+01:03:29,630 --> 01:03:31,010
+Donc c'est ça la réponse.
+
+1495
+01:03:31,810 --> 01:03:32,810
+Et parce que c'est pour ça que
+
+1496
+01:03:32,810 --> 01:03:35,450
+votre collègue a répondu vrai, juste.
+
+1497
+01:03:36,690 --> 01:03:38,450
+Donc en fait, on se met d'abord
+
+1498
+01:03:38,450 --> 01:03:41,490
+devant le patient pour voir s'il y
+
+1499
+01:03:41,490 --> 01:03:42,710
+a une hypertrophie.
+
+1500
+01:03:42,870 --> 01:03:45,270
+On regarde, on regarde l'inspection.
+
+1501
+01:03:45,690 --> 01:03:47,790
+Mais dans les QCM, vous n'aurez pas
+
+1502
+01:03:47,790 --> 01:03:51,010
+ça parce que vous aurez un QCM précis.
+
+1503
+01:03:51,690 --> 01:03:53,870
+Donc par exemple, je vais vous mettre pour
+
+1504
+01:03:53,870 --> 01:03:56,970
+l'inspection, l'examinatoire de se mettre en
+
+1505
+01:03:56,970 --> 01:03:57,850
+face du patient.
+
+1506
+01:03:59,010 --> 01:04:01,050
+Ça c'est juste pour essayer de discuter,
+
+1507
+01:04:01,550 --> 01:04:02,590
+pour soulever la discussion.
+
+1508
+01:04:02,810 --> 01:04:03,630
+C'est pour ça que je vous ai
+
+1509
+01:04:03,630 --> 01:04:04,450
+dit, on reste appris.
+
+1510
+01:04:05,450 --> 01:04:08,790
+Après, pour la palpation, l'examinateur se place
+
+1511
+01:04:08,790 --> 01:04:09,870
+derrière le patient.
+
+1512
+01:04:10,990 --> 01:04:13,550
+La tête du patient doit être en légère
+
+1513
+01:04:13,550 --> 01:04:14,150
+flexion.
+
+1514
+01:04:14,270 --> 01:04:16,310
+Elle ne doit pas être en extension.
+
+1515
+01:04:17,190 --> 01:04:17,990
+Est-ce que c'est clair?
+
+1516
+01:04:19,730 --> 01:04:23,850
+S'il vous plaît, au niveau des QCM,
+
+1517
+01:04:23,850 --> 01:04:26,690
+l'examen va être vraiment précis.
+
+1518
+01:04:27,990 --> 01:04:29,410
+Ça veut dire que je vais vous mettre,
+
+1519
+01:04:29,530 --> 01:04:31,610
+on ne va pas vous mettre des QCM
+
+1520
+01:04:31,610 --> 01:04:32,130
+pièges.
+
+1521
+01:04:32,870 --> 01:04:35,810
+Je vais vous mettre pour examiner la thyroïde.
+
+1522
+01:04:36,630 --> 01:04:40,830
+L'examinateur doit se mettre à l'inspection
+
+1523
+01:04:40,830 --> 01:04:43,210
+en face du patient pour voir s'il
+
+1524
+01:04:43,210 --> 01:04:45,110
+y a un goitre apparent.
+
+1525
+01:04:46,190 --> 01:04:48,450
+Pour la palpation, l'examen se met derrière
+
+1526
+01:04:48,450 --> 01:04:49,030
+le patient.
+
+1527
+01:04:49,950 --> 01:04:52,270
+Et on va demander à la palpation, au
+
+1528
+01:04:52,270 --> 01:04:53,530
+patient, de déglutir.
+
+1529
+01:04:53,950 --> 01:04:55,410
+Pourquoi déglutir?
+
+1530
+01:04:55,550 --> 01:04:56,710
+Qui est-ce qui peut me répondre?
+
+1531
+01:04:58,610 --> 01:04:59,150
+S'il vous plaît.
+
+1532
+01:05:00,570 --> 01:05:02,770
+Pour voir si la thyroïde bouge en fonction
+
+1533
+01:05:02,770 --> 01:05:03,530
+de...
+
+1534
+01:05:03,530 --> 01:05:05,090
+Elle doit bouger normalement.
+
+1535
+01:05:06,230 --> 01:05:09,570
+La thyroïde bouge, elle est mobile.
+
+1536
+01:05:09,710 --> 01:05:12,150
+Quand vous déglutissez, votre thyroïde monte.
+
+1537
+01:05:13,290 --> 01:05:15,430
+Parce qu'il y a des ligaments tracheaux.
+
+1538
+01:05:16,050 --> 01:05:20,070
+Il y a des ligaments qui la lient
+
+1539
+01:05:20,070 --> 01:05:25,270
+à l'axe aérodigestif du cou cervical.
+
+1540
+01:05:25,730 --> 01:05:27,890
+Donc, en fait, quand on déglutit, elle monte.
+
+1541
+01:05:28,630 --> 01:05:30,110
+Le fait qu'elle soit fixe, c'est
+
+1542
+01:05:30,110 --> 01:05:30,970
+pathologique.
+
+1543
+01:05:31,390 --> 01:05:32,290
+Ça veut dire qu'il y a quelque
+
+1544
+01:05:32,290 --> 01:05:34,970
+chose qui la fixe, qui la fait adhérer.
+
+1545
+01:05:36,150 --> 01:05:38,130
+Donc, le patient doit déglutir.
+
+1546
+01:05:39,290 --> 01:05:42,210
+Le patient peut respirer normalement.
+
+1547
+01:05:42,390 --> 01:05:43,730
+On n'est pas en train d'ausculter
+
+1548
+01:05:43,730 --> 01:05:44,990
+les axes vasculaires du cou.
+
+1549
+01:05:45,030 --> 01:05:45,730
+Vous êtes d'accord?
+
+1550
+01:05:46,930 --> 01:05:47,930
+Vous êtes d'accord ou pas?
+
+1551
+01:05:50,060 --> 01:05:51,700
+S'il vous plaît, répondez pour qu'on
+
+1552
+01:05:51,700 --> 01:05:52,640
+passe à autre chose.
+
+1553
+01:05:53,400 --> 01:05:56,100
+Et la tête doit être en légère flexion.
+
+1554
+01:05:56,200 --> 01:05:57,800
+Il ne doit pas être en extension parce
+
+1555
+01:05:57,800 --> 01:06:00,700
+que quand les patients...
+
+1556
+01:06:00,700 --> 01:06:01,740
+C'est instinctif.
+
+1557
+01:06:02,320 --> 01:06:03,900
+C'est systématique.
+
+1558
+01:06:04,020 --> 01:06:05,740
+Quand vous dites aux patients vous vous mettez
+
+1559
+01:06:05,740 --> 01:06:09,180
+derrière et vous vous présentez, vous dites est
+
+1560
+01:06:09,180 --> 01:06:10,420
+-ce que je peux palper votre thyroïde?
+
+1561
+01:06:10,500 --> 01:06:11,560
+Il vous fait ça automatiquement.
+
+1562
+01:06:12,480 --> 01:06:13,720
+C'est pour ça qu'on insiste sur
+
+1563
+01:06:13,720 --> 01:06:14,060
+le cou.
+
+1564
+01:06:15,320 --> 01:06:19,060
+Donc, il faut en fait fléchir légèrement parce
+
+1565
+01:06:19,060 --> 01:06:21,380
+que ça facilite énormément la palpation.
+
+1566
+01:06:26,110 --> 01:06:29,790
+Devant un goitre simple, on demande un scanner,
+
+1567
+01:06:30,210 --> 01:06:36,150
+une échographie, un dosage des hormones, thyroglobuline T4
+
+1568
+01:06:36,150 --> 01:06:38,330
+et le dosage de la FSH.
+
+1569
+01:06:39,230 --> 01:06:40,170
+Qu'est-ce qu'on demande?
+
+1570
+01:06:40,990 --> 01:06:42,850
+Devant un goitre, je l'ai dit, il
+
+1571
+01:06:42,850 --> 01:06:43,690
+est déjà simple.
+
+1572
+01:06:44,270 --> 01:06:47,330
+Je vous ai dit, devant un goitre, je
+
+1573
+01:06:47,330 --> 01:06:49,390
+vous ai dit, qu'est-ce qu'on
+
+1574
+01:06:49,390 --> 01:06:51,170
+demande devant un goitre simple?
+
+1575
+01:06:51,170 --> 01:06:53,090
+Qu'est-ce qu'il faut demander en
+
+1576
+01:06:53,090 --> 01:06:53,470
+premier?
+
+1577
+01:06:56,520 --> 01:06:57,340
+Qu'est-ce qu'il faut demander?
+
+1578
+01:06:58,360 --> 01:06:59,520
+L'échographie.
+
+1579
+01:07:00,060 --> 01:07:01,900
+Bien sûr, parce que c'est elle qui
+
+1580
+01:07:01,900 --> 01:07:05,920
+va nous permettre de poser le diagnostic.
+
+1581
+01:07:07,480 --> 01:07:12,020
+Maintenant, concernant le nodule thyroïdien, quelles sont les
+
+1582
+01:07:12,020 --> 01:07:13,540
+propositions exactes?
+
+1583
+01:07:14,260 --> 01:07:16,640
+Il est défini par une hypertrophie diffuse de
+
+1584
+01:07:16,640 --> 01:07:17,340
+la thyroïde.
+
+1585
+01:07:18,860 --> 01:07:21,240
+C'est une pathologie rare.
+
+1586
+01:07:22,660 --> 01:07:27,000
+Elle se voit surtout chez les femmes.
+
+1587
+01:07:29,040 --> 01:07:34,890
+La majorité des nodules, sans mal, nécessitent la
+
+1588
+01:07:34,890 --> 01:07:39,130
+réalisation systématique d'un couple de deux examens
+
+1589
+01:07:39,130 --> 01:07:41,890
+capitaux en première intention, la TSH et l
+
+1590
+01:07:41,890 --> 01:07:42,490
+'échographie.
+
+1591
+01:07:43,450 --> 01:07:44,490
+Qu'est-ce que vous répondez?
+
+1592
+01:07:45,390 --> 01:07:48,190
+Je suis désolée, c'est bizarre, mais je
+
+1593
+01:07:48,190 --> 01:07:48,930
+n'ai pas le chat.
+
+1594
+01:07:49,190 --> 01:07:51,590
+Je n'ai pas accès à votre chat.
+
+1595
+01:07:51,590 --> 01:07:52,790
+Je ne comprends pas.
+
+1596
+01:07:53,690 --> 01:07:54,390
+Alors que c'est M.
+
+1597
+01:07:54,550 --> 01:07:59,050
+Issam, ceci en personne, qui nous a fait
+
+1598
+01:07:59,050 --> 01:07:59,890
+l'installation.
+
+1599
+01:08:01,770 --> 01:08:02,610
+Bon, bref.
+
+1600
+01:08:03,630 --> 01:08:07,470
+Dites-moi, est-ce que quelqu'un peut
+
+1601
+01:08:07,470 --> 01:08:07,930
+répondre?
+
+1602
+01:08:09,710 --> 01:08:11,490
+Madame, c'est eux la dernière proposition.
+
+1603
+01:08:13,910 --> 01:08:15,630
+Elle se voit surtout chez les femmes?
+
+1604
+01:08:18,340 --> 01:08:19,080
+Oui, c'est vrai.
+
+1605
+01:08:19,160 --> 01:08:21,120
+C'est une pathologie fréquente chez les femmes.
+
+1606
+01:08:22,000 --> 01:08:23,460
+Et dès que j'ai le nodule, je
+
+1607
+01:08:23,460 --> 01:08:25,300
+dois faire TSH et échographie.
+
+1608
+01:08:25,300 --> 01:08:27,160
+Ce n'est pas une pathologie rare.
+
+1609
+01:08:27,220 --> 01:08:30,279
+C'est une pathologie très fréquente.
+
+1610
+01:08:31,479 --> 01:08:33,319
+Ce n'est pas une hypertrophie diffuse de
+
+1611
+01:08:33,319 --> 01:08:33,939
+la thyroïde.
+
+1612
+01:08:34,040 --> 01:08:35,620
+C'est une hypertrophie localisée.
+
+1613
+01:08:37,439 --> 01:08:39,160
+La majorité des nodules sont bénins.
+
+1614
+01:08:39,260 --> 01:08:40,120
+Ils ne sont pas malins.
+
+1615
+01:08:40,460 --> 01:08:42,460
+On a juste presque 5% qui est
+
+1616
+01:08:42,460 --> 01:08:42,779
+malin.
+
+1617
+01:08:49,729 --> 01:08:51,729
+Je vous présente le cas clinique vrai d
+
+1618
+01:08:51,729 --> 01:08:54,310
+'une patiente âgée de 25 ans, étudiante.
+
+1619
+01:08:55,970 --> 01:08:58,050
+Elle a des antécédents de vitiligo.
+
+1620
+01:08:59,050 --> 01:09:03,130
+Elle présente depuis six mois une asthémie physique,
+
+1621
+01:09:04,810 --> 01:09:08,910
+un amégrissement de 10 kg avec conservation de
+
+1622
+01:09:08,910 --> 01:09:14,750
+l'appétit, des palpitations, une thermophobie, des tremblements
+
+1623
+01:09:14,750 --> 01:09:18,649
+des extrémités, une aménorée et une irritabilité.
+
+1624
+01:09:22,540 --> 01:09:24,620
+Donc, vous voyez que si je veux voir
+
+1625
+01:09:24,620 --> 01:09:26,660
+le goitre, je dois d'abord me placer
+
+1626
+01:09:26,660 --> 01:09:28,279
+devant la patiente et regarder.
+
+1627
+01:09:29,080 --> 01:09:31,640
+Quand je me place, je dessine, j'arrive
+
+1628
+01:09:31,640 --> 01:09:34,740
+à dessiner les contours de la thyroïde chez
+
+1629
+01:09:34,740 --> 01:09:35,540
+cette jeune.
+
+1630
+01:09:35,840 --> 01:09:40,279
+Regardez, j'arrive à dessiner les contours de
+
+1631
+01:09:40,279 --> 01:09:41,920
+ma thyroïde qui est sous forme d'un
+
+1632
+01:09:41,920 --> 01:09:44,800
+papillon sur ma patiente.
+
+1633
+01:09:47,000 --> 01:09:49,020
+Donc, comment appelle-t-on ce tableau clinique
+
+1634
+01:09:49,020 --> 01:09:49,660
+?
+
+1635
+01:09:49,660 --> 01:09:50,720
+Quelqu'un peut me le dire ?
+
+1636
+01:09:51,500 --> 01:09:52,840
+Un syndrome thyrotoxique.
+
+1637
+01:09:53,320 --> 01:09:53,680
+Très bien.
+
+1638
+01:09:54,380 --> 01:09:58,360
+Hyperthyroïdie ou syndrome thyrotoxique, pardon, syndrome thyrotoxique parce
+
+1639
+01:09:58,360 --> 01:09:59,420
+que c'est la maladie de base d
+
+1640
+01:09:59,420 --> 01:09:59,520
+'eau.
+
+1641
+01:10:00,160 --> 01:10:03,020
+Donc, c'est une thyrotoxicose ou un syndrome,
+
+1642
+01:10:03,740 --> 01:10:06,280
+c'est un syndrome thyrotoxique et non pas
+
+1643
+01:10:06,280 --> 01:10:08,260
+une hyperthyroïdie simple.
+
+1644
+01:10:10,920 --> 01:10:14,380
+Et en fait, justement, pour les hyperthyroïdies périphériques,
+
+1645
+01:10:14,660 --> 01:10:17,920
+quelles sont les propositions exactes ?
+
+1646
+01:10:18,480 --> 01:10:20,380
+Madame, pourquoi on ne l'appelle pas hyperthyroïdie
+
+1647
+01:10:20,380 --> 01:10:20,900
+?
+
+1648
+01:10:20,900 --> 01:10:26,780
+En fait, parce que vous avez une hyperthyroïdie
+
+1649
+01:10:27,520 --> 01:10:30,540
+parce qu'il y a plusieurs du domaine
+
+1650
+01:10:30,540 --> 01:10:33,300
+de la spécialité, il y a plein de
+
+1651
+01:10:33,300 --> 01:10:33,900
+définitions.
+
+1652
+01:10:34,040 --> 01:10:37,260
+Il y a l'hyperthyroïdie franche, l'hyperthyroïdie
+
+1653
+01:10:37,260 --> 01:10:40,860
+biologique, l'hyperthyroïdie fruste.
+
+1654
+01:10:41,300 --> 01:10:44,920
+Alors, Schneider hyperthyroïdie franche, c'est le syndrome
+
+1655
+01:10:44,920 --> 01:10:46,540
+thyrotoxique classique.
+
+1656
+01:10:47,300 --> 01:10:49,720
+Ça, c'est du domaine de la spécialité
+
+1657
+01:10:49,720 --> 01:10:53,740
+et des étudiants de médecine parce que hyperthyroïdie,
+
+1658
+01:10:53,840 --> 01:10:54,660
+c'est pour tout le monde.
+
+1659
+01:10:54,660 --> 01:10:57,100
+On peut dire, vous pouvez trouver dans les
+
+1660
+01:10:57,100 --> 01:10:58,760
+blogs, j'ai une hyperthyroïdie.
+
+1661
+01:10:59,480 --> 01:11:03,580
+Mais en fait, nous, on spécifie parce que,
+
+1662
+01:11:03,720 --> 01:11:06,320
+par exemple, vous pouvez avoir une hyperthyroïdie biologique.
+
+1663
+01:11:06,460 --> 01:11:08,640
+Ça veut dire que la personne, elle n
+
+1664
+01:11:08,640 --> 01:11:10,960
+'a rien de ça et quand vous faites
+
+1665
+01:11:10,960 --> 01:11:12,960
+la TSH, vous la trouvez basse avec une
+
+1666
+01:11:12,960 --> 01:11:13,940
+T4 qui est élevée.
+
+1667
+01:11:14,220 --> 01:11:16,560
+C'est une hyperthyroïdie, non pas clinique, mais
+
+1668
+01:11:16,560 --> 01:11:17,020
+biologique.
+
+1669
+01:11:17,660 --> 01:11:21,340
+Après, vous avez une troisième hyperthyroïdie, fruste, Schneider
+
+1670
+01:11:21,340 --> 01:11:21,660
+fruste.
+
+1671
+01:11:22,180 --> 01:11:24,340
+Ça veut dire que vous avez une TSH
+
+1672
+01:11:24,340 --> 01:11:25,780
+basse mais une T4 qui n'a pas
+
+1673
+01:11:25,780 --> 01:11:27,420
+encore eu le temps de monter.
+
+1674
+01:11:28,080 --> 01:11:30,180
+C'est pour ça que hyperthyroïdie chez nous,
+
+1675
+01:11:30,300 --> 01:11:32,960
+flargo de spécialité, c'est vague.
+
+1676
+01:11:33,120 --> 01:11:34,180
+Ça ne veut rien dire pour nous.
+
+1677
+01:11:34,960 --> 01:11:36,740
+Mais quand vous me dites c'est un
+
+1678
+01:11:36,740 --> 01:11:40,040
+syndrome thyrotoxique, ça veut dire que la personne,
+
+1679
+01:11:40,140 --> 01:11:40,580
+elle a tout.
+
+1680
+01:11:41,940 --> 01:11:42,560
+Elle a tout.
+
+1681
+01:11:43,600 --> 01:11:44,740
+Est-ce que c'est clair ?
+
+1682
+01:11:44,740 --> 01:11:45,380
+Ce n'est pas faux.
+
+1683
+01:11:45,460 --> 01:11:46,640
+Ce n'est pas faux quand vous dites
+
+1684
+01:11:46,640 --> 01:11:47,540
+hyperthyroïdie.
+
+1685
+01:11:47,660 --> 01:11:48,680
+Ce n'est pas faux, mais ce n
+
+1686
+01:11:48,680 --> 01:11:49,260
+'est pas précis.
+
+1687
+01:11:49,260 --> 01:11:51,580
+Mais quand vous me dites cette dame présente
+
+1688
+01:11:51,580 --> 01:11:53,660
+un syndrome thyrotoxique, je sais qu'elle a
+
+1689
+01:11:53,660 --> 01:11:54,020
+tout ça.
+
+1690
+01:11:55,200 --> 01:11:57,720
+En plus d'une TSH basse et une
+
+1691
+01:11:57,720 --> 01:11:58,640
+T4 augmentée.
+
+1692
+01:11:59,080 --> 01:12:00,840
+L'hyperthyroïdie, c'est un terme qui est
+
+1693
+01:12:00,840 --> 01:12:01,120
+vague.
+
+1694
+01:12:01,420 --> 01:12:04,840
+Il peut être fruste, clinique, biologique, ou les
+
+1695
+01:12:04,840 --> 01:12:05,020
+deux.
+
+1696
+01:12:06,100 --> 01:12:07,820
+Ce n'est pas faux quand vous allez
+
+1697
+01:12:07,820 --> 01:12:13,760
+le dire, flargo, cette patiente a une hyperthyroïdie.
+
+1698
+01:12:13,880 --> 01:12:14,380
+Ce n'est pas faux.
+
+1699
+01:12:14,940 --> 01:12:17,360
+Mais ça, c'est le terme le plus
+
+1700
+01:12:17,360 --> 01:12:17,840
+précis.
+
+1701
+01:12:18,260 --> 01:12:21,460
+Quand vous me dites, cette dame présente une
+
+1702
+01:12:21,460 --> 01:12:24,680
+TSH, je sais qu'elle tremble, qu'elle
+
+1703
+01:12:24,680 --> 01:12:27,560
+a maigri, qu'elle a une thermophobie, qu
+
+1704
+01:12:27,560 --> 01:12:29,500
+'elle a un tremblement des extrémités, qu'elle
+
+1705
+01:12:29,500 --> 01:12:31,280
+a une irritabilité, etc.
+
+1706
+01:12:31,960 --> 01:12:33,040
+Ou une diarrhée ou autre.
+
+1707
+01:12:33,840 --> 01:12:35,080
+Mais quand vous me dites qu'elle a
+
+1708
+01:12:35,080 --> 01:12:36,900
+une hyperthyroïdie, je vais poser la question.
+
+1709
+01:12:37,040 --> 01:12:39,460
+C'est une hyperthyroïdie franche ou seulement fruste
+
+1710
+01:12:39,460 --> 01:12:41,140
+ou biologique ?
+
+1711
+01:12:41,140 --> 01:12:43,140
+Est-ce que c'est clair ?
+
+1712
+01:12:43,140 --> 01:12:44,860
+Est-ce que c'est clair ?
+
+1713
+01:12:44,860 --> 01:12:45,960
+Mais ce n'est pas faux.
+
+1714
+01:12:45,960 --> 01:12:46,700
+Oui, madame.
+
+1715
+01:12:46,700 --> 01:12:48,580
+Quand vous dites, c'est juste pas précis.
+
+1716
+01:12:49,840 --> 01:12:53,840
+Alors, concernant les hyperthyroïdies périphériques, quelles sont les
+
+1717
+01:12:53,840 --> 01:12:56,220
+propositions exactes ?
+
+1718
+01:12:56,220 --> 01:12:58,960
+Elles se manifestent par une constipation ?
+
+1719
+01:12:59,500 --> 01:12:59,600
+Non.
+
+1720
+01:13:00,600 --> 01:13:02,760
+Généralement, on a des diarrhées, une accélération du
+
+1721
+01:13:02,760 --> 01:13:03,140
+transit.
+
+1722
+01:13:04,280 --> 01:13:07,220
+Elles se manifestent par un tremblement des extrémités.
+
+1723
+01:13:08,480 --> 01:13:10,720
+Elles se manifestent par un érythisme vasculaire.
+
+1724
+01:13:10,720 --> 01:13:14,240
+C'est un tachycardie avec un débattement qui
+
+1725
+01:13:14,240 --> 01:13:15,540
+peut même être visible.
+
+1726
+01:13:16,480 --> 01:13:19,560
+Elles se manifestent par une HTA, une hypertension
+
+1727
+01:13:19,560 --> 01:13:21,100
+systole diastolique.
+
+1728
+01:13:21,800 --> 01:13:26,100
+Elles peuvent se manifester par une asynergie oculomotrice.
+
+1729
+01:13:26,980 --> 01:13:30,860
+Alors, quelles sont les réponses justes que vous
+
+1730
+01:13:30,860 --> 01:13:32,600
+avez dans le cours ?
+
+1731
+01:13:34,230 --> 01:13:35,890
+Quelles sont les réponses justes ?
+
+1732
+01:13:35,890 --> 01:13:37,290
+Pour qu'on passe à autre chose, il
+
+1733
+01:13:37,290 --> 01:13:38,530
+nous reste...
+
+1734
+01:13:47,650 --> 01:13:49,850
+Quelles sont les réponses justes ?
+
+1735
+01:13:51,220 --> 01:13:52,200
+La première est fausse.
+
+1736
+01:13:52,300 --> 01:13:53,800
+On est d'accord ?
+
+1737
+01:13:55,500 --> 01:13:57,000
+Vous pouvez répondre ?
+
+1738
+01:13:57,000 --> 01:13:59,760
+Elles peuvent se manifester par un tremblement sans
+
+1739
+01:13:59,760 --> 01:14:00,260
+la vue.
+
+1740
+01:14:01,620 --> 01:14:03,180
+D'accord ?
+
+1741
+01:14:05,320 --> 01:14:07,800
+Elles peuvent se manifester par un érythisme vasculaire.
+
+1742
+01:14:07,920 --> 01:14:10,760
+Oui, c'est un tachycardie avec un érythisme
+
+1743
+01:14:10,760 --> 01:14:11,360
+vasculaire.
+
+1744
+01:14:13,080 --> 01:14:14,700
+Elles se manifestent par une HTA.
+
+1745
+01:14:15,120 --> 01:14:16,860
+Non, ce n'est pas un signe classique.
+
+1746
+01:14:19,340 --> 01:14:23,980
+Elles peuvent se manifester par des signes oculomoteurs.
+
+1747
+01:14:23,980 --> 01:14:24,240
+Oui.
+
+1748
+01:14:29,760 --> 01:14:33,680
+Concernant les hypothyroïdies maintenant, quelles sont les propositions
+
+1749
+01:14:33,680 --> 01:14:37,460
+exactes ?
+
+1750
+01:14:37,460 --> 01:14:38,980
+Elles sont plus fréquentes chez l'homme que
+
+1751
+01:14:38,980 --> 01:14:39,620
+chez la femme.
+
+1752
+01:14:41,560 --> 01:14:45,780
+Elles sont caractérisées par un syndrome d'hypermétabolisme.
+
+1753
+01:14:47,700 --> 01:14:50,940
+Elles peuvent se manifester par une HTA systole
+
+1754
+01:14:50,940 --> 01:14:51,820
+diastolique.
+
+1755
+01:14:53,400 --> 01:14:56,660
+Elles peuvent se manifester par une alternance diarrhée
+
+1756
+01:14:56,660 --> 01:14:57,560
+-constipation.
+
+1757
+01:14:58,440 --> 01:15:00,920
+Elles peuvent se manifester par une galactorée.
+
+1758
+01:15:03,540 --> 01:15:07,920
+Lorsque la TSH est inférieure à 20, le
+
+1759
+01:15:07,920 --> 01:15:13,200
+diagnostic positif repose sur la TSH, la T4
+
+1760
+01:15:13,200 --> 01:15:14,200
+et la T3.
+
+1761
+01:15:14,760 --> 01:15:23,960
+Qui est-ce qui pourra me répondre ?
+
+1762
+01:15:23,960 --> 01:15:26,280
+Je vais vous faciliter la tâche.
+
+1763
+01:15:26,420 --> 01:15:29,520
+Quelle est la réponse juste dans ces propositions
+
+1764
+01:15:29,520 --> 01:15:30,500
+?
+
+1765
+01:15:34,370 --> 01:15:36,410
+Elles peuvent se manifester par une galactorée.
+
+1766
+01:15:38,390 --> 01:15:40,330
+Vous avez raison.
+
+1767
+01:15:40,770 --> 01:15:43,110
+Elles peuvent se manifester par une galactorée lorsque
+
+1768
+01:15:43,110 --> 01:15:44,550
+la TSH est inférieure à 20.
+
+1769
+01:15:45,670 --> 01:15:47,590
+Je ne suis pas à 50.
+
+1770
+01:15:48,650 --> 01:15:51,410
+C'est dans les hypothyroïdies profondes.
+
+1771
+01:15:52,750 --> 01:15:55,770
+Ce n'est pas un symptôme rare.
+
+1772
+01:15:59,590 --> 01:16:04,410
+Toutes les propositions sont fausses.
+
+1773
+01:16:05,730 --> 01:16:07,870
+Quelles sont les réponses justes ?
+
+1774
+01:16:07,870 --> 01:16:11,490
+Les hypothyroïdies périphériques, comme la pathologie thyroïdienne d
+
+1775
+01:16:11,490 --> 01:16:14,650
+'emblée, c'est une pathologie très fréquente chez
+
+1776
+01:16:14,650 --> 01:16:15,970
+la femme et non pas chez l'homme.
+
+1777
+01:16:16,530 --> 01:16:19,430
+L'homme peut avoir des goitres, des hyper,
+
+1778
+01:16:19,490 --> 01:16:20,690
+un carcinome, etc.
+
+1779
+01:16:21,910 --> 01:16:23,990
+Mais souvent, il s'agit d'une femme.
+
+1780
+01:16:27,810 --> 01:16:32,710
+Elles sont caractérisées par un hypométabolisme.
+
+1781
+01:16:32,710 --> 01:16:35,390
+Dans une hypothyroïdie, il n'y a pas
+
+1782
+01:16:35,390 --> 01:16:35,990
+d'énergie.
+
+1783
+01:16:37,230 --> 01:16:42,510
+Il y a un ralentissement de tout le
+
+1784
+01:16:42,510 --> 01:16:43,770
+métabolisme corporel.
+
+1785
+01:16:46,670 --> 01:16:48,590
+Elles se manifestent par une HTA-6 solo
+
+1786
+01:16:48,590 --> 01:16:49,230
+-diastolique.
+
+1787
+01:16:49,410 --> 01:16:52,850
+Généralement, c'est une hypertension diastolique en hypothyroïdie.
+
+1788
+01:16:53,990 --> 01:16:56,750
+Elles peuvent se manifester par une alternance constipation
+
+1789
+01:16:56,750 --> 01:16:57,110
+-diarrhée.
+
+1790
+01:16:57,230 --> 01:16:58,710
+Non, on n'a jamais de diarrhée dans
+
+1791
+01:16:58,710 --> 01:17:00,310
+l'hypothyroïdie.
+
+1792
+01:17:00,310 --> 01:17:04,630
+On a une constipation par ralentissement du métabolisme.
+
+1793
+01:17:05,110 --> 01:17:07,390
+Les galactorées ne vont se voir que lorsque
+
+1794
+01:17:07,390 --> 01:17:09,110
+la TSH est supérieure à 50.
+
+1795
+01:17:09,490 --> 01:17:13,050
+Le diagnostic positif va reposer essentiellement sur le
+
+1796
+01:17:13,050 --> 01:17:15,270
+dosage de la TSH parce que ça peut
+
+1797
+01:17:15,270 --> 01:17:17,510
+nous perturber.
+
+1798
+01:17:17,890 --> 01:17:21,830
+L'hyperthyroïdie, généralement, en fait les couples.
+
+1799
+01:17:25,670 --> 01:17:28,410
+La surrénale en ZAP.
+
+1800
+01:17:29,090 --> 01:17:33,930
+Je vais vous mettre les QCM avec la
+
+1801
+01:17:33,930 --> 01:17:39,210
+réponse correcte à la fin du cours.
+
+1802
+01:17:39,390 --> 01:17:41,370
+Je vais vous soumettre tout de suite.
+
+1803
+01:17:41,770 --> 01:17:44,150
+Dès que je finis, je vais vous soumettre
+
+1804
+01:17:44,150 --> 01:17:48,430
+le cours de la sémiologie surrénalienne avec les
+
+1805
+01:17:48,430 --> 01:17:50,830
+QCM que je vous ai préparés avec les
+
+1806
+01:17:50,830 --> 01:17:52,290
+réponses justes.
+
+1807
+01:18:01,220 --> 01:18:03,180
+Est-ce qu'on peut voir maintenant l
+
+1808
+01:18:03,180 --> 01:18:04,520
+'hypophyse avant de finir?
+
+1809
+01:18:05,880 --> 01:18:07,600
+Est-ce qu'on peut voir l'hypophyse?
+
+1810
+01:18:09,160 --> 01:18:10,280
+Vous avez encore le temps?
+
+1811
+01:18:11,920 --> 01:18:13,480
+On va voir l'hypophyse.
+
+1812
+01:18:13,560 --> 01:18:15,120
+Comme je vous ai dit, je vous promets
+
+1813
+01:18:15,120 --> 01:18:17,620
+de vous mettre les QCM avec la réponse
+
+1814
+01:18:17,620 --> 01:18:20,420
+juste à la fin du cours des surrénales.
+
+1815
+01:18:21,420 --> 01:18:28,850
+Un panhypopythuitarisme est défini par un excès de
+
+1816
+01:18:28,850 --> 01:18:32,750
+sécrétion de plus de deux hormones hypophysaires.
+
+1817
+01:18:34,170 --> 01:18:38,230
+Il correspond à l'excès de sécrétion de
+
+1818
+01:18:38,230 --> 01:18:39,990
+plus de trois hormones hypophysaires.
+
+1819
+01:18:40,850 --> 01:18:43,250
+Il correspond à l'excès de la sécrétion
+
+1820
+01:18:43,250 --> 01:18:46,030
+de quatre hormones hypophysaires.
+
+1821
+01:18:46,770 --> 01:18:48,810
+Il correspond à l'excès de sécrétion de
+
+1822
+01:18:48,810 --> 01:18:50,670
+plus de cinq hormones hypophysaires.
+
+1823
+01:18:52,620 --> 01:18:54,520
+Quelle est la réponse juste?
+
+1824
+01:18:57,080 --> 01:19:00,020
+Aucune, parce qu'on a un hypo.
+
+1825
+01:19:00,640 --> 01:19:01,780
+On n'est pas dans l'excès.
+
+1826
+01:19:03,320 --> 01:19:05,860
+Les QCM que vous avez maintenant, c'est
+
+1827
+01:19:05,860 --> 01:19:07,560
+des QCM de compréhension.
+
+1828
+01:19:08,420 --> 01:19:10,720
+Les QCM qu'on pose, bien sûr, en
+
+1829
+01:19:10,720 --> 01:19:14,140
+fait, ils se font à partir du cours
+
+1830
+01:19:14,140 --> 01:19:14,980
+que vous avez eu.
+
+1831
+01:19:15,080 --> 01:19:16,860
+On ne peut pas sortir de le cours.
+
+1832
+01:19:17,320 --> 01:19:19,500
+Moi, je ne pose pas des QCM piège.
+
+1833
+01:19:20,280 --> 01:19:24,600
+Et en même temps, en fait, ça, c
+
+1834
+01:19:24,600 --> 01:19:25,800
+'est juste pour que vous compreniez.
+
+1835
+01:19:25,940 --> 01:19:28,220
+Mais vous aurez, bien sûr, les QCM.
+
+1836
+01:19:28,740 --> 01:19:31,440
+S'il y a une question, on va,
+
+1837
+01:19:31,640 --> 01:19:32,460
+par exemple, s'il y a une seule
+
+1838
+01:19:32,460 --> 01:19:35,200
+question est possible, on va vous le mettre.
+
+1839
+01:19:36,000 --> 01:19:37,700
+Si, s'il y a plusieurs choix sont
+
+1840
+01:19:37,700 --> 01:19:38,880
+possibles, je vais vous le mettre.
+
+1841
+01:19:39,060 --> 01:19:41,160
+Ça, vous avez ma promesse.
+
+1842
+01:19:41,940 --> 01:19:43,620
+Donc, à côté du QCM, je vais vous
+
+1843
+01:19:43,620 --> 01:19:45,940
+mettre une seule réponse est juste.
+
+1844
+01:19:45,940 --> 01:19:48,400
+Ou bien, je vais vous mettre plusieurs réponses
+
+1845
+01:19:48,400 --> 01:19:49,560
+sont possibles.
+
+1846
+01:19:53,720 --> 01:19:54,520
+Merci, madame.
+
+1847
+01:19:55,640 --> 01:19:59,400
+Concernant la GH, quelles sont les propositions correctes?
+
+1848
+01:20:03,100 --> 01:20:06,860
+Un déficit de sa sécrétion peut être responsable
+
+1849
+01:20:06,860 --> 01:20:09,200
+d'un gigantisme chez l'enfant.
+
+1850
+01:20:10,900 --> 01:20:13,100
+Un gigantisme, ça veut dire une grande taille.
+
+1851
+01:20:14,400 --> 01:20:17,440
+Un excès de sa sécrétion peut être responsable
+
+1852
+01:20:17,440 --> 01:20:20,280
+d'une maladie de QCM.
+
+1853
+01:20:22,790 --> 01:20:24,430
+Un excès de sa sécrétion.
+
+1854
+01:20:24,710 --> 01:20:27,350
+Le QCM, c'est une hyper sécrétion de
+
+1855
+01:20:27,350 --> 01:20:28,530
+la CTH et du cortisol.
+
+1856
+01:20:28,870 --> 01:20:30,470
+Donc, du coup, ça, comme vous n'avez
+
+1857
+01:20:30,470 --> 01:20:32,410
+pas eu la surrénale, on va pas vous
+
+1858
+01:20:32,410 --> 01:20:34,630
+insister là dessus.
+
+1859
+01:20:35,090 --> 01:20:37,350
+Un excès de sa sécrétion peut être responsable
+
+1860
+01:20:37,350 --> 01:20:39,230
+d'un gigantisme chez l'adulte.
+
+1861
+01:20:40,170 --> 01:20:42,470
+Un excès de sa sécrétion peut être responsable
+
+1862
+01:20:42,470 --> 01:20:43,370
+d'un gigantisme.
+
+1863
+01:20:44,090 --> 01:20:46,010
+Pardon, un excès de sa sécrétion peut être
+
+1864
+01:20:46,010 --> 01:20:49,330
+responsable d'un acromegalie chez l'adulte.
+
+1865
+01:20:51,670 --> 01:20:55,810
+Alors, la GH, c'est l'hormone de
+
+1866
+01:20:55,810 --> 01:20:59,230
+la taille qui nous permet de croître en
+
+1867
+01:20:59,230 --> 01:20:59,490
+taille.
+
+1868
+01:21:00,710 --> 01:21:03,750
+Quand elle survient avant la fin de la
+
+1869
+01:21:03,750 --> 01:21:07,930
+croissance chez l'enfant, elle va me donner
+
+1870
+01:21:07,930 --> 01:21:11,370
+une grande taille qui est appelée le gigantisme.
+
+1871
+01:21:12,510 --> 01:21:15,850
+Mais quand j'ai un excès de sécrétion
+
+1872
+01:21:15,850 --> 01:21:19,710
+de l'hormone de croissance chez un adulte
+
+1873
+01:21:19,710 --> 01:21:23,230
+qui a fini sa croissance, qui a déjà
+
+1874
+01:21:23,230 --> 01:21:28,450
+soudé ses cartilages de conjugaison, l'adulte ne
+
+1875
+01:21:28,450 --> 01:21:30,330
+peut plus croître en taille, il ne peut
+
+1876
+01:21:30,330 --> 01:21:32,550
+plus grandir parce qu'en fait c'est
+
+1877
+01:21:32,550 --> 01:21:33,270
+fini pour lui.
+
+1878
+01:21:33,650 --> 01:21:37,590
+Les cartilages de conjugaison se sont soudés, il
+
+1879
+01:21:37,590 --> 01:21:39,190
+ne peut plus croître en taille.
+
+1880
+01:21:39,750 --> 01:21:40,650
+Qu'est-ce qu'il fait ?
+
+1881
+01:21:40,650 --> 01:21:41,950
+Il croît en largeur.
+
+1882
+01:21:42,690 --> 01:21:45,050
+Les os vont croître en largeur.
+
+1883
+01:21:45,050 --> 01:21:47,070
+Et quand ils vont croître en largeur, ça
+
+1884
+01:21:47,070 --> 01:21:50,410
+va donner des déformations au niveau du visage,
+
+1885
+01:21:50,850 --> 01:21:52,930
+au niveau des mains, au niveau des pieds
+
+1886
+01:21:52,930 --> 01:21:54,430
+et même au niveau des organes.
+
+1887
+01:21:54,790 --> 01:21:56,370
+Ça s'appelle l'acromegalie.
+
+1888
+01:21:56,690 --> 01:21:58,050
+C'est pour ça que c'est seulement
+
+1889
+01:21:58,050 --> 01:21:59,970
+cette question qui existe.
+
+1890
+01:22:07,440 --> 01:22:13,960
+La macroglossie, c'est une hypertrophie de la
+
+1891
+01:22:13,960 --> 01:22:14,260
+langue.
+
+1892
+01:22:15,240 --> 01:22:17,120
+La macroglossie, c'est un signe qui est
+
+1893
+01:22:17,120 --> 01:22:23,680
+hyper important en endocrine, parce qu'il peut
+
+1894
+01:22:23,680 --> 01:22:27,400
+révéler un diagnostic, surtout chez l'enfant.
+
+1895
+01:22:28,960 --> 01:22:30,680
+Chez l'enfant, on lui demande seulement de
+
+1896
+01:22:30,680 --> 01:22:32,800
+sortir la langue pour poser des diagnostics en
+
+1897
+01:22:32,800 --> 01:22:33,380
+endocrine.
+
+1898
+01:22:35,180 --> 01:22:36,880
+Il y a un bruit de fond, s
+
+1899
+01:22:36,880 --> 01:22:37,280
+'il vous plaît.
+
+1900
+01:22:38,660 --> 01:22:39,540
+Ça gratte.
+
+1901
+01:22:41,560 --> 01:22:44,740
+La macroglossie ne se voit pas dans le
+
+1902
+01:22:44,740 --> 01:22:45,840
+syndrome de Cushy.
+
+1903
+01:22:47,360 --> 01:22:51,100
+Elle se voit dans deux diagnostics principaux en
+
+1904
+01:22:51,100 --> 01:22:51,680
+endocrine.
+
+1905
+01:22:52,280 --> 01:22:54,020
+Elle se voit dans l'hypothyroïdie.
+
+1906
+01:22:54,580 --> 01:22:57,020
+Vous avez vu à travers le cours que
+
+1907
+01:22:57,020 --> 01:23:00,300
+dans l'hypothyroïdie périphérique, on a une infiltration
+
+1908
+01:23:00,300 --> 01:23:04,040
+des muqueuses et des organes, une infiltration profonde,
+
+1909
+01:23:04,040 --> 01:23:07,080
+ce qui fait que vous avez une grosseur,
+
+1910
+01:23:07,580 --> 01:23:11,020
+une langue grosse, avec les empreintes des dents
+
+1911
+01:23:11,020 --> 01:23:11,680
+là-dessus.
+
+1912
+01:23:12,900 --> 01:23:14,660
+Et des fois, comme je vous ai dit
+
+1913
+01:23:14,660 --> 01:23:17,620
+chez l'enfant, en lui demandant de sortir
+
+1914
+01:23:17,620 --> 01:23:19,780
+la langue, on peut poser le diagnostic d
+
+1915
+01:23:19,780 --> 01:23:22,980
+'hypothyroïde, parce que les autres diagnostics, c'est
+
+1916
+01:23:22,980 --> 01:23:23,920
+moins évident.
+
+1917
+01:23:24,260 --> 01:23:25,800
+Tu ne peux pas dire à l'enfant
+
+1918
+01:23:25,800 --> 01:23:27,000
+« est-ce que tu es constipé ?
+
+1919
+01:23:27,000 --> 01:23:28,820
+» Il faut le poser à la mère
+
+1920
+01:23:28,820 --> 01:23:31,120
+si elle l'accompagne aux toilettes.
+
+1921
+01:23:31,120 --> 01:23:35,020
+Mais sinon, la macroglossie n'est pas thognomonique
+
+1922
+01:23:35,020 --> 01:23:36,060
+de l'hypothyroïde.
+
+1923
+01:23:37,020 --> 01:23:39,780
+Ensuite, vous avez l'achromégalie, parce qu'on
+
+1924
+01:23:39,780 --> 01:23:43,180
+s'est dit que l'excès de GH
+
+1925
+01:23:43,180 --> 01:23:45,220
+va s'accompagner d'une achromégalie.
+
+1926
+01:23:45,820 --> 01:23:48,500
+C'est une grosseur ou une hypertrophie des
+
+1927
+01:23:48,500 --> 01:23:51,520
+muqueuses, des pieds et des mains et des
+
+1928
+01:23:51,520 --> 01:23:52,900
+déformations du visage.
+
+1929
+01:23:54,180 --> 01:23:57,720
+Au cours de l'achromégalie, on a la
+
+1930
+01:23:57,720 --> 01:23:58,420
+macroglossie.
+
+1931
+01:23:58,420 --> 01:24:00,800
+Les deux diagnostics qui s'accompagnent avec la
+
+1932
+01:24:00,800 --> 01:24:03,900
+macroglossie en endocrine, c'est l'hypothyroïde et
+
+1933
+01:24:03,900 --> 01:24:04,640
+l'achromégalie.
+
+1934
+01:24:05,200 --> 01:24:06,460
+Ça, vous l'aurez comme QCM.
+
+1935
+01:24:13,980 --> 01:24:22,120
+Pour diagnostiquer, il y a notre collègue qui
+
+1936
+01:24:22,120 --> 01:24:24,780
+a un cours juste après moi qui est
+
+1937
+01:24:24,780 --> 01:24:25,380
+là maintenant.
+
+1938
+01:24:25,900 --> 01:24:28,240
+On va essayer de faire vite.
+
+1939
+01:24:28,920 --> 01:24:31,380
+Je vais essayer de vous défiler ça, parce
+
+1940
+01:24:31,380 --> 01:24:32,760
+que ça vous l'avez dans le cours.
+
+1941
+01:24:33,460 --> 01:24:36,960
+Pour diagnostiquer les anomalies de sécrétion de GH,
+
+1942
+01:24:37,600 --> 01:24:39,100
+vous devez doser deux choses.
+
+1943
+01:24:40,220 --> 01:24:43,580
+Vous devez doser la GH en plusieurs points
+
+1944
+01:24:43,580 --> 01:24:45,240
+de la journée et l'IGF1.
+
+1945
+01:24:45,780 --> 01:24:48,200
+L'ACTH, le test de synactin, c'est
+
+1946
+01:24:48,200 --> 01:24:49,020
+pour le QShin.
+
+1947
+01:24:49,560 --> 01:24:52,320
+La TSH, c'est pour l'hypothyroïde.
+
+1948
+01:24:56,190 --> 01:24:59,670
+Quand on a un déficit de la thyriotrope,
+
+1949
+01:24:59,770 --> 01:25:01,670
+ça veut dire une hypothyroïde centrale.
+
+1950
+01:25:01,670 --> 01:25:06,230
+Qu'est-ce que je demande en fait?
+
+1951
+01:25:09,430 --> 01:25:12,030
+Je demande la T4 et la TSH.
+
+1952
+01:25:12,470 --> 01:25:16,010
+Le profil d'une hypothyroïde centrale se manifeste
+
+1953
+01:25:16,010 --> 01:25:18,710
+par une TSH qui peut être normale ou
+
+1954
+01:25:18,710 --> 01:25:23,550
+basse, mais la T4 est toujours basse.
+
+1955
+01:25:24,630 --> 01:25:27,590
+Une hypothyroïde centrale se manifeste par une TSH
+
+1956
+01:25:27,590 --> 01:25:29,890
+qui peut être normale ou basse, avec une
+
+1957
+01:25:29,890 --> 01:25:32,290
+hypothyroïde qui est toujours basse.
+
+1958
+01:25:32,290 --> 01:25:36,610
+Il n'existe pas de DEM au niveau
+
+1959
+01:25:36,610 --> 01:25:42,070
+de l'hypothyroïde centrale, contrairement à l'hypothyroïde
+
+1960
+01:25:42,070 --> 01:25:42,730
+périphérique.
+
+1961
+01:25:43,290 --> 01:25:45,230
+On finit par l'axe gonadotrope.
+
+1962
+01:25:46,890 --> 01:25:49,850
+Concernant l'axe gonadotrope, quand la TSH, on
+
+1963
+01:25:49,850 --> 01:25:53,750
+parle d'un hypogonadisme hypogonadotrope.
+
+1964
+01:25:54,930 --> 01:25:56,910
+C'est logique.
+
+1965
+01:25:57,310 --> 01:25:59,190
+Quand la TSH, on va parler d'un
+
+1966
+01:25:59,190 --> 01:26:01,010
+hypogonadisme hypogonadotrope.
+
+1967
+01:26:03,730 --> 01:26:07,710
+L'insuffisance gonadotrope va se manifester chez l
+
+1968
+01:26:07,710 --> 01:26:09,230
+'enfant par un impubérisme.
+
+1969
+01:26:09,390 --> 01:26:10,730
+Il ne va pas avoir sa puberté.
+
+1970
+01:26:11,890 --> 01:26:14,950
+Mais chez l'adulte, ça va se manifester
+
+1971
+01:26:14,950 --> 01:26:16,470
+par des troubles sexuels.
+
+1972
+01:26:21,410 --> 01:26:25,430
+L'insuffisance gonadotrope débutante peut se manifester par
+
+1973
+01:26:25,430 --> 01:26:28,510
+une régression des caractères sexuels secondaires chez l
+
+1974
+01:26:28,510 --> 01:26:29,170
+'homme adulte.
+
+1975
+01:26:32,020 --> 01:26:36,680
+L'insuffisance gonadotrope prolongée peut se manifester par
+
+1976
+01:26:36,680 --> 01:26:39,340
+une régression des caractères sexuels secondaires chez la
+
+1977
+01:26:39,340 --> 01:26:41,200
+femme en âge de procréer.
+
+1978
+01:26:42,560 --> 01:26:48,660
+Donc, le déficit de l'axe gonadotrope se
+
+1979
+01:26:48,660 --> 01:26:52,340
+manifeste par un impubérisme chez l'enfant, une
+
+1980
+01:26:52,340 --> 01:26:55,380
+régression des caractères sexuels et des troubles sexuels
+
+1981
+01:26:55,380 --> 01:26:57,440
+chez la femme ou l'homme aussi.
+
+1982
+01:26:58,580 --> 01:27:00,940
+Alors, on finit sur ce, parce que j
+
+1983
+01:27:00,940 --> 01:27:02,620
+'ai eu tout le monde là au niveau
+
+1984
+01:27:02,620 --> 01:27:06,200
+de la porte qui me demande de sortir.
+
+1985
+01:27:06,820 --> 01:27:08,940
+Donc, je vous souhaite beaucoup de courage.
+
+1986
+01:27:09,200 --> 01:27:11,820
+Je vous promets de vous soumettre là votre
+
+1987
+01:27:11,820 --> 01:27:14,240
+cours de surénal avec les QCM apparentés.
+
+1988
+01:27:14,820 --> 01:27:18,820
+Les QCM que vous aurez pour l'examen,
+
+1989
+01:27:19,340 --> 01:27:20,940
+je vous promets qu'il n'y aura
+
+1990
+01:27:20,940 --> 01:27:21,800
+pas de pièges.
+
+1991
+01:27:21,800 --> 01:27:27,000
+Que ça sera fait sur ce que vous
+
+1992
+01:27:27,000 --> 01:27:28,460
+avez eu dans le cours.
+
+1993
+01:27:28,860 --> 01:27:32,220
+Et je vous préciserai, entre guillemets, une question
+
+1994
+01:27:32,220 --> 01:27:34,840
+est possible ou là plusieurs choix sont possibles.
+
+1995
+01:27:35,300 --> 01:27:38,160
+Je vous remercie, je vous aime, bon courage.
+
+1996
+01:27:38,620 --> 01:27:40,920
+Madame, s'il vous plaît, votre email.
+
+1997
+01:27:42,720 --> 01:27:48,820
+D'accord, regardez, l'email, il est sur
+
+1998
+01:27:48,820 --> 01:27:52,100
+la plateforme enseignant de la FFMPM, vous avez
+
+1999
+01:27:52,100 --> 01:27:52,920
+mon mail dessous.
+
+2000
+01:27:54,440 --> 01:27:59,000
+D'accord, la plateforme, vous avez mon mail
+
+2001
+01:27:59,000 --> 01:27:59,660
+dessous.
+
+2002
+01:27:59,720 --> 01:28:00,920
+Saphie, c'est bon ?
+
+2003
+01:28:01,660 --> 01:28:01,920
+Merci.
+
+2004
+01:28:02,280 --> 01:28:04,300
+Bon courage, parce qu'on me stresse pour
+
+2005
+01:28:04,300 --> 01:28:05,100
+finir.
+
+2006
+01:28:05,820 --> 01:28:06,520
+Allez, bon courage.
+
+2007
+01:28:07,300 --> 01:28:07,780
+Merci.
+
+2008
+01:28:07,780 --> 01:28:09,120
+Si vous avez besoin de quoi que ce
+
+2009
+01:28:09,120 --> 01:28:12,040
+soit, soit contactez-moi par mail, soit venez
+
+2010
+01:28:12,040 --> 01:28:13,300
+au bureau.
+
+2011
+01:28:13,580 --> 01:28:14,240
+Allez, bon courage.
+
+2012
+01:28:15,000 --> 01:28:15,560
+Merci Madame.
+
+2013
+01:28:15,920 --> 01:28:16,240
+Au revoir.
+
+2014
+01:28:16,660 --> 01:28:17,360
+Merci Madame.
+
+2015
+01:28:17,700 --> 01:28:18,060
+Au revoir.

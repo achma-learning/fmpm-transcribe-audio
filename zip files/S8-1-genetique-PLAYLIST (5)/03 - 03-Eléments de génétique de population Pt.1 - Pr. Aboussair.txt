@@ -1,0 +1,103 @@
+Bonjour. Le cours d'aujourd'hui est intitulé « Éléments de génétique de population et leurs intérêts dans les pathologies monogéniques ». Les objectifs de ce cours sont les suivants. Donner la définition de la génétique des populations.
+
+Être capable d'estimer la fréquence génique et génotypique. Donner la définition et les conditions nécessaires de la loi de Hardy-Winberg. Connaître les applications médicales de la loi de Hardy et Weinberg.
+
+Donner la définition de la consanguinité, du coefficient de consanguinité et du coefficient de parenté. Être capable de calculer le coefficient de consanguinité et de parenté. Et enfin, citer les effets de la consanguinité.
+
+Le plan du cours est le suivant. Après une introduction, on va aborder le chapitre sur l'estimation des fréquences géniques et génotypiques. Par la suite, on abordera la loi de Hardy-Weinberg, y compris la définition, les conditions nécessaires, la démonstration à partir des fréquences alléliques et les applications de cette loi aux maladies autosomiques récessives.
+
+Par la suite, on abordera le chapitre sur la consanguinité, y compris la définition, le coefficient de consanguinité, le coefficient de parenté, les effets de la consanguinité, la consanguinité et le conseil génétique. Et enfin, on va terminer ce cours par une conclusion. Lors du cours précédent, à savoir les modes de transmission, on a vu comment les caractères se transmettent d'une génération à l'autre.
+
+Je parle des caractères héréditaires monogéniques. Donc, cette étude de la transmission des caractères héréditaires d'une génération à l'autre, c'est ce qu'on appelle la génétique formelle. Alors que la génétique des populations, c'est la discipline qui étudie comment les gènes se répartissent dans les populations et comment ils se transmettent d'une génération à l'autre au sein d'une population concernée.
+
+Donc, c'est la finalité de la génétique des populations dans le domaine médical. Elle a un grand intérêt pour la consultation du conseil génétique puisqu'elle permet de calculer les risques de certains mariages pour la descendance. De même, cette génétique des populations permet de définir et d'évaluer une politique de prévention à l'échelle d'une population.
+
+À titre d'exemple, le dépistage à la naissance des hétérozygotes ou le dépistage des couples hétérozygotes. Fréquences du génotype, toujours dans les fréquences géniques. La fréquence génique petit p du gène grand A est égale à la fréquence des homozygotes grand A grand A plus la moitié de la fréquence des hétérozygotes grand A petit A. Alors que petit Q c'est la fréquence génique du petit du gène petit A qui est égale à la fréquence des homozygotes petit A petit A qu'on appelle grand Q plus la moitié de la fréquence des hétérozygotes qu'on appelle grand H. Puisque dans la population, prenons une population de 100%, donc une population de 100%, on a les homozygotes grand A grand A, les homozygotes petit A petit A et les hétérozygotes grand A petit A. Puisque dans cette population est 100%, donc la fréquence des homozygotes grand A grand A qui est grand P plus la fréquence des homozygotes petit A petit A qui est égale à grand Q plus la fréquence des hétérozygotes grand A petit A qui est égale à H, donc la somme est égale à 100%.
+
+Donc 100% c'est égal à 1. Donc il faut retenir que la fréquence des homozygotes grand P plus la fréquence des homozygotes grand Q plus la fréquence des hétérozygotes est égale à 1. Prenons maintenant des exemples. Soit une population de 100 individus. Quand on dit 100 individus, on est des sujets diploïdes.
+
+Prenons un gène. Donc, si on prend un gène donné, donc on aura pour ces 100 individus, puisqu'on est des sujets diploïdes, 200 gènes. Pour un locus donné, on aura 200 gènes.
+
+N'oubliez pas qu'on est des sujets diploïdes. Pour les gènes situés sur des autosomes, on a deux exemplaires. Un gène d'origine maternelle et un gène d'origine paternelle.
+
+Pour un gène donné chez 100 individus, on va parler de 200 gènes. Donc, soit P, la fréquence des homozygotes A, A, qui est égale à 30%. Donc, chez ces 100 individus, on a la fréquence des homozygotes A, A, qui est égale à 30%.
+
+Puisque 30 individus sont homozygotes A, A. On a 60 individus parmi ces 100 qui sont héterozygotes A, A. Donc, grand H est égal à 60%. Et 10% de ces 100 individus sont homozygotes A, A. Donc, grand Q est égal à 10%. Comme je viens de l'expliquer, puisque pour un gène donné autosomique, on en a deux exemplaires.
+
+Donc, le nombre total de gènes pour ce locus donné dans cette population de 100 individus est de 2 fois 100, qui est égal à 200. Maintenant, quel est le nombre total de gènes grand A? Puisqu'on a des sujets homozygotes, le nombre est de 30. Et puisque c'est des sujets diploïdes.
+
+Donc, ça sera 30 fois 2. D'accord? Sans oublier les 60 hétérozygotes. Les 60 hétérozygotes ont un seul exemplaire du grand A. Donc, ça sera 2 fois 30 pour les homozygotes plus les hétérozygotes 60. Donc, ça va faire 120.
+
+Donc, on a 120 gènes grand A chez cette population. Donc, comment on va calculer la fréquence génique du gène grand A? C'est le nombre total des gènes grand A, qui est 120, sur le nombre total des gènes pour ce locus là, qui est 200. Donc, ça sera 120 sur 200, qui est égal à 60%, qui est 0,6.
+
+Maintenant, comment on va calculer le nombre de gènes petit A? Puisqu'on a dit que les homozygotes petit A, petit A, ils sont au nombre de 10. Et puisqu'ils sont homozygotes, ça veut dire pour ce gène petit A, ils ont deux exemplaires. Ça sera 2 fois 10.
+
+Plus, on a 60 hétérozygotes qui ont un seul exemplaire de petit A. Donc, ça sera 2 fois 10 plus 60 petit A. Donc, ça sera 80. Donc, on a 80 exemplaires du gène petit A. Comment on va calculer la fréquence génique du gène petit A? Donc, le nombre total du gène petit A dans cette population, qui est 80, sur le nombre total de gènes pour ce locus là, qui est de 200. Donc, ça sera 80 sur 200, qui est égal à 0,4, qui correspond à 40%.
+
+Étant donné que grand P est égal à 0,3, comme on l'a calculé, grand Q qui est égal à 0,1, et grand H qui est égal à 0,6. Donc, on peut calculer les fréquences géniques à partir des fréquences génotypiques. Donc, petit P, c'est la fréquence génique du petit A. Donc, la fréquence des homozygotes grand A, grand A, c'est 0,3 plus la moitié des hétérozygotes, des fréquences génotypiques des hétérozygotes.
+
+Donc, ça sera 1,5 fois 0,6. Donc, ça sera 0,3 plus 0,3 et c'est égal à 0,6. D'accord? Donc, c'est ce qui correspond à ce qu'on a calculé.
+
+On va faire la même chose pour la fréquence génique petit Q du petit A. Donc, la fréquence des homozygotes petit A, petit A, elle est de 0,1 plus la moitié des hétérozygotes. Donc, 1,5 fois 0,6, ça sera 0,3, 0,1 qui est égal à 0,4. C'est ce qui correspond à ce qu'on a calculé.
+
+Donc là, c'est une autre façon de démontrer que la fréquence génique d'un gène correspond à la fréquence génotypique des homozygotes plus la moitié de la fréquence génotypique des hétérozygotes. Qu'en est-il de la loi de Hardy-Weinberg? En 1908, Hardy, un mathématicien britannique, et M. Weinberg, un physicien et médecin allemand, parviennent séparément mais simultanément à une même loi théorique selon laquelle la fréquence des génotypes reste constante d'une génération à l'autre. Pour démontrer cette loi de Hardy-Weinberg, on suppose les conditions nécessaires suivantes, à savoir que la dimension de la population étudiée est grande.
+
+Donc ça veut dire un effectif illimité et qu'il n'y a pas de migration. Ça d'une part. Deuxième condition, que les mariages s'effectuent au hasard.
+
+C'est ce qu'on appelle « pas en mixi ». Ça veut dire que les conjoints ne sont pas apparentés, donc il n'y a pas de consanguinité, et que les unions sont aléatoires, au hasard. Ça veut dire que le choix du conjoint est indépendant du phénotype. Les couples se forment au hasard.
+
+Troisième condition nécessaire à la loi de Hardy-Weinberg, il n'y a pas de nouvelle mutation des gènes responsables du caractère étudié ou que le taux de mutation est suffisamment faible pour être négligeable. Dernière condition nécessaire à l'application de la loi de Hardy-Weinberg, c'est qu'il n'y a pas de sélection favorisant ou défavorisant les divers génotypes dont dépendent les différents phénotypes du caractère étudié. Je viens de dire dans la diapositive précédente que parmi les conditions nécessaires à l'application de la loi de Hardy-Weinberg, c'est l'absence de sélection pour tel ou tel caractère.
+
+Pourquoi ? Parce que s'il y a une sélection, les fréquences alléliques pourront varier d'une génération à l'autre et on ne peut pas appliquer la loi de Hardy-Weinberg. Donc, la sélection positive de génotypes favorables se traduit souvent dans les populations humaines comme l'élimination de mutations responsables de maladies. De même, de nombreux variants géniques sont avantageux dans un contexte particulier et neutres ou défavorables dans un autre environnement.
+
+Les plus simples à visualiser sont les facteurs de résistance aux infections. On va prendre comme exemple deux sélections. C'est les hétérosigotes pour la drépanocytose.
+
+La drépanocytose ou l'anémie falciforme est une pathologie sévère, évolutive, autosomique, récessive qui est due à une mutation au niveau du gène de la bétaglobine. Cette mutation consiste en la transversion d'une adénine en thymine en codensis à l'origine de la transformation de l'acide glutamique en valine. Il est à noter que les sujets hétérosigotes pour cette mutation sont relativement résistants au paludisme, la malaria.
+
+Leur érythrocyte constitue pour le parasite qui est le plasmodium falciparum responsable du paludisme un environnement moins favorable que ceux des individus homozygotes sains. C'est pourquoi les hétérosigotes souffrent d'une forme moins sévère de la malaria ou même en sont épargnés. La protection contre le paludisme conférée par l'hétérosigocie est un avantage dans les régions impaludées comme vous le voyez sur la carte géographique suivante.
+
+Avec une morbidité et une mortalité réduites, les hétérosigotes ont plus de chances de survivre et de pouvoir se reproduire. Donc il y a un avantage sélectif de cette hétérosigocie pour la mutation entraînant la drépanocytose. Ceci explique la fréquence élevée de l'allèle muté observé dans ces régions.
+
+Donc la mutation falciforme a pris naissance de manière indépendante au moins dans 4 ou 5 régions impaludées différentes et s'est ensuite répandue dans les populations correspondantes. L'anémie falciforme constitue ainsi chez l'homme le meilleur exemple d'un avantage sélectif pour les hétérosigotes pour un allèle muté responsable d'une maladie sévère à l'état homozygote. Là c'est juste pour expliquer une sélection ou un avantage sélectif.
+
+Je reviens à la loi de Hardy-Weinberg dont pour appliquer cette loi il ne doit pas y avoir un avantage sélectif pour tel ou tel caractère. Voici un schéma qui récapitule les différentes conditions nécessaires à l'application de la loi de Hardy-Weinberg à savoir une population avec un effectif infini. Les mariages doivent se faire au hasard, pas de panmixie, pas de consanguinité.
+
+De même, il ne doit pas y avoir de nouvelles mutations. Et aussi, il ne doit pas y avoir un avantage sélectif du caractère étudié. Pour comment démontrer cette loi de Hardy-Weinberg à partir des fréquences alléliques, on va supposer qu'à la génération N, les fréquences des allèles grand A et petit A sont respectivement petit P et petit Q, sachant que P plus Q est égal à 1 qui est 100%.
+
+Il s'agit de montrer qu'à la génération suivante qui est N plus 1, ces mêmes fréquences alléliques demeurent inchangées lorsque toutes les conditions nécessaires à la loi de Hardy-Weinberg sont respectées. Quand les fréquences des allèles grand A et petit A à la génération N sont respectivement petit P et petit Q, les fréquences génotypiques à la génération suivante N plus 1 sont respectivement P au carré grand A grand A pour les homozygotes grand A grand A, de PQ grand A petit A pour les hétérozygotes, et Q au carré petit A petit A pour les homozygotes, les homozygotes petit A petit A. On va démontrer la constance des fréquences alléliques lors de génération quand la loi de Hardy-Weinberg est appliquée. Quand les fréquences des allèles grand A et petit A à la génération N sont respectivement petit P et petit Q, les fréquences génotypiques à la génération suivante N plus 1 sont respectivement P au carré grand A grand A. Pour la fréquence des hétérozygotes, c'est de PQ grand A petit A et Q au carré petit A petit A. Les fréquences alléliques à la génération N plus 1 ne changent pas par rapport à la génération précédente.
+
+En effet, à la génération N plus 1, la fréquence du grand A c'est P au carré, donc la fréquence des homozygotes, plus la moitié des hétérozygotes. La moitié de PQ grand A petit A c'est PQ. Donc on va prendre comme facteur commun P fois entre parenthèses P plus Q, puisqu'on a dit que P plus Q est égal à 1. D'accord? Donc la fréquence du gène grand A reste toujours petit P. La même chose pour la fréquence du petit A. Donc c'est la fréquence des homozygotes qui est Q au carré plus la moitié des hétérozygotes.
+
+La moitié de 2PQ c'est PQ. On va prendre comme facteur commun le Q fois entre parenthèses P plus Q. Puisqu'on a dit que P plus Q, donc les deux gènes, constituent 100%. 100% c'est 1. Donc P plus Q est égal à 1 fois Q. Donc la fréquence du petit A reste petit Q. La fréquence du grand A reste petit P. Par conséquent, dans une population en équilibre palmictique, quand les fréquences alléliques à un locus donné qui a deux allèles grand A, petit A, sont respectivement petit P et petit Q. Les fréquences génotypiques à la même génération sont P au carré grand A, grand A, plus 2PQ grand A, petit A, plus Q au carré petit A, petit A. On va démontrer ceci grâce à l'allèle de ce tableau.
+
+On va démontrer que les fréquences alléliques à la génération N ne changent pas à la génération suivante, N plus A. On va prendre deux gènes, donc deux allèles plutôt, l'allèle grand A et l'allèle petit A, au niveau des spermatozoïdes ici, et l'allèle, le même allèle, grand A et petit A, au niveau des ovules. Là, c'est lors de la première génération où la fréquence allélique grand A est de l'ordre de 0,7 et la fréquence allélique du gène petit A est de l'ordre de 0,3. Après la réunion des spermatozoïdes avec les ovules, prenons le premier exemple, réunion d'un spermatozoïde avec l'allèle grand A et d'un ovule avec l'allèle grand A, on aura une fréquence de 0,7 fois 0,7 qui est de l'ordre de 0,49.
+
+S'il y a réunion d'un spermatozoïde porteur de l'allèle grand A avec un ovule porteur de l'allèle petit A, donc ce sera PQ et ce sera 0,7 fois 0,3 qui est de l'ordre de 0,21. Si on a une réunion d'un spermatozoïde porteur de l'allèle petit A et d'un ovule porteur de l'allèle grand A, les fréquences alléliques seront de l'ordre de 0,7 fois 0,3 qui est de l'ordre de 0,21. Et s'il y a une réunion d'un spermatozoïde porteur de l'allèle petit A avec un ovule porteur de l'allèle petit A, donc ce sera une fréquence allélique de 0,3 fois 0,3 qui est de l'ordre de 0,09.
+
+En respectant la règle suivante au niveau de la génération N plus 1, puisqu'on a dit dans la diapositive précédente que la fréquence grand A au niveau de la génération N plus 1 est égale à PO carré plus PQ. Donc PO carré c'était 0,49 plus PQ qui est 0,21. Donc la somme sera 0,7.
+
+Et vous constatez que la fréquence de l'allèle A au niveau de la génération N plus 1 est restée la même par rapport à la génération N. La même chose pour la fréquence de l'allèle petit A qui est de l'ordre de PO carré plus PQ. PO carré comme on l'a calculé tout à l'heure c'est 0,09 plus PQ qui est de l'ordre de 0,21 qui est dans la somme 0,3. Et encore une fois vous constatez que la fréquence de l'allèle petit A au niveau de la génération N plus 1 est restée constante par rapport à la génération N. Maintenant on va voir l'application de la loi de Hardy et Weinberg aux maladies autosomiques récessives.
+
+En effet cette loi permet de calculer la fréquence d'un gène récessif dans une population en équilibre de loi de Hardy et Weinberg. Soit petit P la fréquence du gène grand A et petit Q la fréquence du gène petit A. La fréquence dans la population des personnes petit A, petit A malades qui sont porteurs de l'allèle muté petit A à l'état homozygote est Q au carré. Donc Q au carré est la fréquence des homozygotes malades.
+
+Grand R est la fréquence de la maladie dans la population tout en sachant que la fréquence d'une maladie est calculée de la manière suivante. C'est le nombre de cas sur le nombre de naissances. Vous vous rappelez, je vous ai dit que la fréquence des homozygotes malades est de Q au carré.
+
+Donc la fréquence de la maladie est égale à Q au carré. Donc si on veut calculer Q, c'est la racine carrée de la fréquence de la maladie. Il suffit de connaître la fréquence de la maladie pour déduire Q, la valeur de Q. Donc la valeur Q c'est la fréquence génique de l'allèle ou la fréquence allélique de l'allèle petit A. La fréquence des personnes hétérozygotes grand A, petit A, comme on l'a dit tout à l'heure, est de l'ordre de 2pq.
+
+Il faut savoir que les maladies autosomiques récessives, en général, elles sont rares. Et étant donné que la fréquence de l'allèle grand A est presque égale à 1, puisque l'allèle morbide muté, il est vraiment très rare. Donc sa valeur tombe vers 0. Donc pour m'expliquer, on a deux allèles, petit A et grand A. Donc on a dit que la fréquence génique, petit P plus la fréquence génique petit Q, est égale à 100% qui est de l'ordre de 1. Si on a l'allèle morbide petit Q qui est très rare, donc sa fréquence dans la population va tendre à 0. Donc Q est presque égale à 0 puisque P plus Q est égal à 1. Et si Q tombe vers 0, donc P est égal à 1. Étant donné que la fréquence des hétérozygotes est de l'ordre de 2pq, mais quand l'allèle morbide pour une pathologie autosomique récessive est très rare, donc Q, donc P tombe vers 1. Donc 2pq est égal à 2 fois, puisque P, on a dit que c'est égal à 1, donc ça sera 2 fois 1 fois Q. Donc la fréquence des hétérozygotes est égale à 2Q.
+
+Là c'est une question d'examen. Si je vous donne la fréquence de la maladie, vous serez capable de calculer la fréquence des hétérozygotes. Tout simplement, si vous avez la fréquence de la maladie, la fréquence de la maladie est R, elle est égale à Q² qui est la fréquence des personnes petit a petit a. Donc la fréquence des hétérozygotes, ça sera 2Q.
+
+Et comment on la calcule Q? C'est la racine carrée de la fréquence de la maladie. Voici des exemples pour calculer la fréquence des hétérozygotes à partir de la fréquence de la maladie autosomique récessive dans une population donnée. On va prendre la fréquence de la phénicétonurie, qui est une aminoacidopathie à transmission autosomique récessive et dont la fréquence de la maladie est de l'ordre de 1 sur 10 000 naissances.
+
+Vous rappelez, je vous ai dit que la fréquence de la maladie est égale à Q². Donc Q est la racine carrée de la fréquence de la maladie. Donc Q va être la racine carrée de 1 sur 10 000 qui est de l'ordre de 1 sur 100.
+
+La fréquence des hétérozygotes est de l'ordre de 2PQ. Puisqu'il y a une application de la loi de Hardy-Weinberg pour les maladies autosomiques récessives, on a dit que P tend vers 1. Donc la fréquence des hétérozygotes de PQ sera de l'ordre de 2Q. Et donc, puisqu'on connaît la valeur de Q, ça sera 2 fois 1 sur 100.
+
+Et donc, vous aurez la fréquence des hétérozygotes qui est de l'ordre de 1 sur 50. Vous aurez d'autres, on a en bas dans le tableau ci-dessous, d'autres exemples. On va prendre l'exemple de la mycoviscidose.
+
+Donc la fréquence de la maladie R, Q², est de l'ordre de 1 sur 2500. Donc la fréquence de l'allèle délétère homorbide aux pathologies Q est la racine carrée de 1 sur 2500, qui est de l'ordre de 1 sur 50. Donc la fréquence des hétérozygotes, ça sera 2 fois Q. Donc ça sera 2 fois 1 sur 50, qui est de l'ordre de 1 sur 25.
+
+Prenons le dernier exemple, c'est la galactosémie congénitale, qui est également une maladie autosomique récessive. Donc la fréquence de la maladie R, qui est égale à Q², est de 1 sur 40000. Donc la fréquence de l'allèle délétère Q est la racine carrée de 1 sur 40000, qui est 1 sur 2000.
+
+Donc la fréquence des hétérozygotes 100 de Q, ça sera 2 fois 1 sur 200, qui est 1 sur 100.

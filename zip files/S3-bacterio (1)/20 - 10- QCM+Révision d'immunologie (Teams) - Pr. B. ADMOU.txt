@@ -1,0 +1,493 @@
+Bien alors, je vois beaucoup de D, B, D, alors on va peut-être reprendre les éléments de la question, d'accord ? Alors, vous avez tous raison pour ne pas cocher le A, bien c'est de l'immunité active, tout simplement, d'accord ? Ce qui est l'immunité passive, j'essaie de passage de m'arrêter un petit peu sur des choses, des séquences, des chapitres, l'introduction au système immunitaire pour que vous puissiez vous rappeler de l'essentiel. Alors, la vaccination, c'est la stimulation du système immunitaire, en l'occurrence l'immunité active, l'immunité B, l'immunité T, donc à dire clair. Lorsqu'on parle de l'immunité passive, c'est surtout la sérothérapie, lorsqu'on administre des anticorps spécifiques, qui sont dirigés contre des toxines ou bien des choses un peu déjà connues, etc.
+
+Donc le système immunitaire, du coup, n'intervient pas. Vise l'induction d'anticorps protecteurs, bien évidemment, oui, vous avez tous coché B pour certains. Je vois qu'il y a des gens qui ont coché que D, non ? Toute vaccination vise la genèse ou la production d'anticorps.
+
+Troisièmement, c'est intervenir uniquement des lymphocytes B. Alors, vous avez raison, on ne veut pas cocher C, non ? On vise l'activation des lymphocytes B, bien évidemment, on cherche toujours des lymphocytes T, pour collaborer avec les lymphocytes B pour induire des anticorps de différentes classes, parce que s'il n'y a pas d'intervention des lymphocytes T, on n'aura pas les autres classes d'anticorps. On va avoir que les IgM lorsque uniquement les lymphocytes B qui stimulent. Donc il faut les lymphocytes T pour pouvoir produire des IgG, des IgA, des IgE, etc.
+
+Alors, les lymphocytes T interviennent aussi. Génère les cellules de mémoire, bien évidemment, oui. Et l'efficace contre les virus ? Bon, très bien.
+
+Alors, les gens qui n'ont pas coché le B ont tort. Donc c'est le B et le D, vous comprenez ? Si, par exemple, dans une question, on met les lymphocytes T, la vaccination fait intervenir les lymphocytes T, vous allez cocher, d'accord ? Parce que, on l'a dit, l'idéal c'est ça, c'est de chercher les lymphocytes T pour pouvoir produire les autres classes d'IgM et IgG, et aussi avoir des cellules de mémoire de meilleure. Ceci dit, si vous avez un antigène vaccinal uniquement à base de polysaccharides, vous savez, les polysaccharides, par exemple, qui sont utilisés dans certains vaccins, notamment contre le pneumocoque, je vous en avais parlé dans le cours, donc ce sont des antigènes qui ne seront pas reconnus par les lymphocytes T, parce que le TCR ne reconnaîtra que ce qui est protéique.
+
+Donc, dans ce cas-là, les lymphocytes T ne vont pas intervenir. Donc, les lymphocytes T n'interviennent pas systématiquement, ça dépend de la composition du vaccin, c'est-à-dire que ça dépend uniquement de la nature de l'antigène, de la bactérie ou des virus. Si la bactérie de nature ne contient que des polysaccharides, soit on joue sur la balance de ces antigènes pour avoir le maximum, pour améliorer son immunogénéticité vis-à-vis des lymphocytes B, soit on doit l'associer au complet à une protéine, c'est ce qu'on appelle la conjugaison protéique, etc.
+
+Donc, par rapport à la vaccination, je profite pour vous glisser un petit peu des messages globalement, etc. Alors, si on reste un petit peu sur le chapitre du système immunitaire, alors vous avez les trois, on va dire, composantes sur lesquelles vous allez, soi-disant, vous focaliser. Alors, il y a ce qu'on appelle le système immunitaire de façon générale, par rapport au soin, est-ce qu'il tolère, est-ce qu'il reconnaît le soin, est-ce qu'il protège les cellules du soin ou l'a-il éliminé ? Vous avez des diapositives qui vous parlent de ça.
+
+Son comportement vis-à-vis des antigènes du soin, en termes de protection ou bien d'élimination, ou bien vis-à-vis des signaux de danger, notamment les antigènes exogènes, ou bien les antigènes du soin qui sont modifiés, ou bien par rapport à, soi-disant, au rôle de lutter contre l'exogène, de façon générale. Ça, c'est donc la première notion importante par rapport au comportement du système immunitaire. Alors, la troisième des choses, c'est que par rapport à la définition des états pathologiques, par exemple, qu'est-ce qui définit un état de déficit immunitaire, un état d'auto-immunité des personnes civilisées ? Vous avez une diapositive, là aussi, et vous définissez de façon précise qu'est-ce que c'est qu'une dérégulation du système immunitaire qui expose un état d'hypersensibilité, de déficit immunitaire, de prolifération clonale, etc.
+
+Alors, je vois une question parmi les micro-organismes, lesquels sont reconnus uniquement par les lymphocystées ? Non, ce n'est pas uniquement les micro-organismes, on parle aussi d'antigènes. Vous avez un antigène, lorsqu'il est uniquement, pour structurer, comme je viens de le dire, s'il est uniquement à base de polysaccharides où il n'y a pas de protéines, donc généralement, il est reconnu par le BCR, la phocyte B, et il est difficile pour la phocytée d'intervenir tant qu'il n'y a pas de reconnaissance de structure protéique associée. Donc, les organismes, les micro-organismes qui comportent des structures protéiques, par exemple des glycoprotéines ou bien les protéines tout seules, ils sont immunogènes, donc ce sont des antigènes dites timodépendants.
+
+Alors, dans ce cas-là, le lymphocyte B, qu'est-ce qu'il fait ? Soit que c'est un antigène qui nécessite l'onglet, uniquement le lymphocyte B, ça veut dire que le lymphocyte B peut se débrouiller tout seul pour produire les IgM, et si les IgM sont suffisants pour, soit disons, contrôler ces micro-organismes, tant mieux. Et si le lymphocyte B juge qu'on croit que cet antigène nécessite l'intervention du lymphocyte T pour l'aider à générer d'autres classes d'anticorps, les IgG ou les IgA spécifiques, dans ce cas-là, il va utiliser les protéines qui composent les structures antigéniques ou la structure de ce micro-organisme pour le présenter à le lymphocyte T. Voilà un petit peu comment le système immunitaire fonctionne. Est-ce que la vaccination est efficace contre les antigènes thymo-indépendants ? Est-ce qu'il est efficace ? Oui, ça peut être efficace, ça dépend, parce que là, il faut regarder, lorsqu'on a dit le pneumococque, il faut jouer sur la valence pour l'immunogénicité, donc si ces anticorps qui sont produits sont suffisants pour empêcher la personne qui est supposée être en contact avec ce pneumococque, il est protégé, donc il ne fait plus d'infection, on peut dire que c'est efficace, mais ça veut dire que cette vaccination a joué son rôle.
+
+Mais si à travers le suivi, on croit que l'individu, même s'il est vacciné, cette vaccination n'a pas permis de contrôler complètement cette infection, qui se répète encore, ça veut dire que cette vaccination n'est pas efficace. Donc c'est relatif, la question est un peu relative, mais pour vous, ça dépendra, il faut la rattacher au type d'agent pathogène. Mais généralement, les antigens qui sont indépendants, ils peuvent induire une réponse immunitaire, bien évidemment, ils induisent des anticorps protecteurs, etc., ou les quines, dont la durée, donc ils vont disparaître rapidement, donc c'est pourquoi il faut faire des rappels vaccinaux.
+
+Deuxièmement, la nature des anticorps, ils se limitent essentiellement aux IgM, très peu d'IgG, pratiquement, difficile à avoir, donc du coup c'est une protection qui n'est pas très efficace. Alors, je vois d'autres questions, comment réexpliquer le phénomène de la commutation zootypique ? Alors, on va y arriver à la commutation de classe, alors on va rester, vous pourrez rester dans le... Vous me rappelez, s'il vous plaît, Petit Sam, la question, je vais y revenir après. Alors, j'essaie de vous aider un petit peu, de vous donner des flèches concernant le chapitre système immunitaire avant de passer, par exemple, les antigens, les immunoglobules, etc.
+
+Phénomène de commutation, qu'est-ce qui est légitime pour les IgM ? Il y a un fossile bénaïf. Il y a un... Alors, du coup, il y a des questions de différentes sortes. Monsieur, on n'entend pas bien, monsieur.
+
+Hein ? Pardon ? On n'entend pas bien, monsieur. Vous étiez malentendus ? Je vais arrêter la caméra. Monsieur, on n'entend pas bien.
+
+Monsieur, on vous entend mal. Si, monsieur, on vous entend bien. Là, j'ai désactivé la caméra, la webcam, pour essayer de... Maintenant, on vous entend bien.
+
+Je pense que c'était la webcam. Bien. Alors, je disais, par rapport à le phénomène de commutation ésotypique.
+
+Alors, on a dit que la commutation de classe ésotypique, c'est tout simplement lorsque les gènes des immunoglobules interviennent pour convertir la chaîne lourde mu de l'IgM en IgG, ou la chaîne gamma, ou la chaîne alpha, ou la chaîne epsilon, pour produire des IgG, ou des IgA, ou des IgE. Ça, c'est la définition. Alors, maintenant, quand est-ce qu'on a besoin de cette commutation de classe ? Par exemple, on a un antigène thymodépendant qui se présente à l'organisme.
+
+Il est reconnu, initialement, soit par l'infocyte B, soit par une cellule de l'immunité, d'accord ? Macrophage, etc. Il va être présenté à l'infocyté. Donc, l'infocyte, elle reconnaît l'antigène.
+
+Cet antigène étant reconnu, l'infocyte B, qu'est-ce qu'il fait ? Il va envoyer un message à l'infocyte B pour l'aider, un message, je veux dire, cytokinique, etc., pour l'aider à se différencier au plasmosyte, pour produire des anticorps. Initialement, l'infocyte B peut produire les IgM tout seul, mais il a besoin d'une infocyté pour l'aider à produire les autres classes, les IgG, les IgA, les IgE. C'est ce qu'on appelle la commutation de classe.
+
+Et qui est nécessaire en cas d'antigène thymodépendant, thymodépendant pourquoi ? Parce que l'infocyté ne peut reconnaître que les antigènes qui ont une structure à base de protéines. Alors, qu'est-ce que l'IgG des IgM de l'infocyte B naïf ? Alors, à l'infocyte B naïf, il n'a pas encore reconnu un antigène. L'IgG étant défini d'emblée lorsqu'il émet une globuline, étant libérée à la surface, à partir de la surface de l'infocyte B, elle va être produite, libérée.
+
+Alors, du coup, lorsque cet antigène va entrer en contact avec un antigène, le premier contact, cette interaction justement, ce premier contact va concerner l'interaction entre l'idiotypie de cet immunoglobuline, de cet IgM, avec l'antigène. Donc, vous avez une interaction, après, dans un deuxième temps, au bout de, par exemple, dans une semaine, etc., dans 10 jours, 15 jours, donc cette idiotypie va se modifier. Donc l'idiotypie, elle est changeable, elle est modifiable après la stimulation antigénique.
+
+Donc du coup, l'infocyte B naïf, il a une idiotypie qui est soi-disant constitutionnelle, qui est faite de façon structurelle. C'est comme un anticorps qui est naturel, mais il va se modifier une fois que le premier contact avec l'antigène va avoir lieu. Et donc, du coup, cette affinité ou cette idiotypie va s'améliorer à travers la modification de cette idiotypie.
+
+En post-vaccination, le système immunitaire inné intervient en premier, ensuite, le système immunitaire spécifique ou pas ? Bonne question. Alors, théoriquement, la première administration d'un vaccin fait intervenir le système immunitaire inné. Par exemple, vous allez entendre parler de vaccins Covid, maintenant, la version chinoise, maintenant, Sinopharm, on a les vaccins atténués, inactivés.
+
+Donc on y associe ou on leur associe, soi-disant, des adjuvants. Avec l'adjuvant, qu'est-ce qu'il fait ? Il va tout simplement stimuler les systèmes de l'immunité innée pour aider à créer un environnement de l'inflammation, pour améliorer l'immunogénicité de ce vaccin, des antigènes vaccinaux. Et comme ça, on a, soi-disant, une bonne présentation de l'antigène.
+
+Donc, dès que l'immunité est née, elle intervient comme étape initiale de présentation de l'antigène. Parce qu'il y a des sildondritiques, par exemple, ou bien des macrophages, des monocytes, etc., qui vont, ou même des lymphocytes B, qui vont présenter cet antigène à l'lymphocyte. Donc il y a l'intervention, entre autres, des macrophages et sildondritiques pour présenter l'antigène.
+
+Donc cette présentation d'antigène est obligatoire. D'ailleurs, à la conception des vaccins AstraZeneca ou de la courine que vous entendez parler maintenant des BioNTech ou Pfizer, etc., il y a un passage, on va dire obligatoire, par une cellule de présentation de l'antigène qui va montrer aux lymphocytes ces antigènes. Donc l'immunité est née, elle est sollicitée, soit pour créer un environnement de l'inflammation qui va aider la présentation antigénique, soit pour présenter réellement l'antigène par ces cellules qui sont présentatrices.
+
+On ne peut pas produire l'IgD à partir du GM, non. Il n'y a pas de production de l'IgD à partir de l'IgM. L'IgM va dans le sens IgG, IgA, IgE.
+
+Jamais vers l'IgD. Messieurs, on avance ? S'il y a d'autres questions, on va y arriver après. Alors maintenant, concernant les antigènes polysaccharidiques, alors dites-moi, est-ce que la production d'anticorps ne veut pas dire forcément la guérison de la maladie ? Bien sûr que non.
+
+La production d'anticorps ne veut pas dire systématiquement la guérison. Alors tout dépend de l'agent. Il y a des infections bactériennes banales, aux fongiques, etc.
+
+Soit de façon naturelle, notre organisme arrive à les neutraliser par ces anticorps. Ça peut être le cas des toxines ou autres. Soit lorsqu'il est incapable, qu'est-ce qu'il fait ? Donc il faut le stimuler.
+
+Soit il demande l'aide d'élaphocytes, etc. Mais il y a des bactéries, des virus qui sont contrôlables. Il y a d'autres que les anticorps ne peuvent pas.
+
+Donc il faut faire appel à l'immunité cellulaire. D'accord ? Alors 1D, 1D, 1D. OK, c'est bien.
+
+Bien, au revoir. Alors on a dit, les antigènes polysaccharidiques, je viens de l'expliquer, sont directement indépendants. Très bien.
+
+Ils sont très immunogènes. Non. Reconnus par le TCR ? Non, bien évidemment non.
+
+Ils sont reconnus plutôt par le BCR. Alors on a dit, tout ce qui n'est pas protique ne peut pas être reconnu par le TCR. Donc ils sont utilisés en vaccination, bien évidemment.
+
+Je vous ai donné l'exemple. L'homocoque, et d'autres aussi, induisent différentes classes d'anticorps. Très bien.
+
+Donc j'ai fait le lien tout à l'heure avec ce qu'on a parlé de la vaccination. Donc si on n'a pas une composante, une soi-disant T dépendante, il est difficile de générer des autres classes d'anticorps. Ceci dit, si par exemple je vous mets ici, ils génèrent des cellules mémoires, qu'est-ce que vous allez cocher ? Je mets par exemple une proposition, ils induisent des cellules mémoires.
+
+Qu'est-ce que vous allez dire ? Oui ou non ? Très bien. Vous voyez déjà, vous n'êtes pas... Si, ils peuvent générer des cellules mémoires. Un antigène polysaccharidique, rappelez-vous, lorsqu'on parle de cellules mémoires, je me trouve que j'ai retrouvé la confusion.
+
+Les cellules mémoires, on a des cellules b-mémoires et des cellules t-mémoires. Ça veut dire quoi ? La notion de mémoire, il faut rester simple. Chaque fois que vous avez un antigène reconnu de façon spécifique, soit par les b-celles ou à l'aide d'une lymphocyte T, il y aura des cellules mémoires.
+
+Les lymphocytes B, vis-à-vis des antigènes polysaccharidiques, même si la reconnaissance est faite uniquement par les lymphocytes B, donc il y aura des cellules mémoires. La qualité et la durabilité des cellules mémoires, c'est là où il y a le... Ça veut dire, la vaccination, à ce qu'on a dit tout à l'heure, si on estime... Là, on cherche une immunité protectrice qui dure dans le temps et avec d'autres classes d'antigènes, donc il faut avoir cette composante immunodépendante, c'est-à-dire associer des protéines conjuguées avec l'antigène polysaccharidique avec des protéines. C'est comme ça que vous allez avoir amélioré les cellules de mémoire et surtout amélioré les cellules de mémoire T avec des autres classes d'anticorps.
+
+Mais si vous avez un antigène même timo-indépendant qui ne stimule que les lymphocytes B, il y aura des lymphocytes B ou des lymphocytes B mémoire. Donc il ne faut pas rattacher les cellules de mémoire uniquement à des lymphocytes T. Donc la réponse est juste. On peut enduire des cellules de mémoire avec l'antigène polysaccharidique.
+
+Voilà le type des immunoglobulines. Alors pour vous rassurer déjà, en même temps, je profite. Tout à l'heure, vous avez parlé de l'introduction au système immunitaire.
+
+Les questions, généralement, elles portent sur trois volets. Un mixage entre le système immunitaire, entre immunité passive, active, etc. Et la vaccination.
+
+Comme un petit chapitre, une diapositive, il y a le principe de la vaccination. C'est une immunité active. Elles nécessitent des cellules.
+
+Elles amènent à des anticorps protecteurs de réinfection, etc. Des cellules de mémoire, etc. Après, dans le détail, je vous expliquerai en plus, les lymphocytes B mémoire, les lymphocytes T mémoire, etc.
+
+Les antigènes, les antigènes, vous avez l'essentiel. Surtout, il faut connaître la notion d'antigène timodépendant, timo-indépendant. Vous avez l'exemple type, l'antigène polysaccharidique, vous avez compris la nuance qui existe entre timodépendant et timo-indépendant.
+
+En termes de qualité de la réponse immunitaire, qui va induire la glace d'anticorps, les cellules de mémoire, la qualité, la durée dans le temps, etc. Et puis, en termes d'efficacité de la vaccination, on utilise la vaccination à base d'antigènes polysaccharidiques, mais la différence avec la vaccination où il y a des protéines, etc., c'est que nous, là, on génère des cellules de mémoire qui sont uniquement B, qui risquent de disparaître rapidement. Par exemple, au lieu d'administrer un vaccin une fois, on est obligé de faire des rappels, soit au bout de 2 ans, au bout de 5 ans, etc.
+
+Alors que l'immunité qui induit les cellules de mémoire T, qui fait interrompre les lymphocytes T, on a une immunité qui dure dans le temps, il y a aussi des glaces autres que les GM, etc. Donc, à défaut des antigènes, généralement, c'est un petit peu autour du concept d'immodépendance et d'immodépendance. Alors, maintenant, on arrive à l'autypie.
+
+Alors, l'autypie, qu'est-ce que vous en dites ? Nécessité de rappel, oui. Mémoire temporaire. Bien.
+
+J'arrive pas à comprendre la différence entre la mémoire effectrice et la mémoire centrale. Alors, la mémoire effectrice, c'est un petit peu un plasmocyte, un plasmocyte, ou bien des anticorps qui sont déjà produits. On va dire des anticorps de type EGG, EGA, on reste sur les EGG et les EGA, par exemple. 
+
+Lorsqu'on administre un vaccin, on génère des anticorps tout près. Les anticorps tout près, ça veut dire qu'ils sont spécifiques. Ça veut dire que le jour où il y aura l'introduction d'un virus ou d'une bactérie, quels que soient son site d'introduction, ils sont déjà là.
+
+Ils vont aller le fixer, le neutraliser, etc. ou l'induire à phagocytose, etc. C'est valable aussi pour les infosythèses cytotoxiques. 
+
+Lorsqu'on génère des infosythèses cytotoxiques mémoire, ça veut dire qu'elles sont toutes prêtes. La mémoire est faite centrale, ça veut dire que c'est elle qui détient le message. Le message contre quoi il y avait un contact, ce qui a été fait, qui a été établi entre l'antigène et l'agent pathogène avec les lymphocytes T et les lymphocytes B. Elle a reconnu les fichiers.
+
+Qu'est-ce qui arrive lorsqu'on a une réexposition de l'organisme à cet antigène ? C'est la mémoire. Ils vont rapidement envoyer le signal aux lymphocytes pour libérer les anticorps et aux lymphocytes T, mettre l'impresse CTL de se différencier rapidement au CTL. D'accord ? Il va leur donner le feu vert pour attaquer, pour rapidement réagir dans les minutes, dans les 24, 48 heures, etc.
+
+suivant la réintroduction de cet agent pathogène. On arrive sur notre question. Pour essayer de voir ensemble, est-il porté par les domaines constants et variables ? Évidemment, non.
+
+Il n'est porté que par les domaines constants, les régions constantes, aussi bien de la chaîne lourde que de la chaîne légère. Là aussi, c'est des choses qui ont déjà été expliquées. Alors que uniquement, par exemple, l'édutypie est portée par les parties variables toutes seules.
+
+Alors que l'allotypie est uniquement les parties constantes. Sauf que, chaîne lourde et chaîne légère. Alors, l'édutypie est également portée par les domaines variables de la chaîne légère, à côté de la chaîne lourde.
+
+Alors, caractérise-t-elle les individus d'espèces différentes ? Non, ça c'est l'ésotypie, tout simplement. Alors, caractérise-t-elle les individus de la même espèce ? Oui. Donc, vous savez, deux individus, deux frères, qui ne sont pas jumeaux, homozygotes, etc., ils ont des immunoglobulins qui portent des allotypes différents. 
+
+Donc, ils caractérisent l'individu de la même espèce. D'accord ? Se modifier après la stimulation antigénique ? Non, ça c'est l'affaire de l'édutypie. Induire des anticorps anti-allotypiques ? Oui. 
+
+Si j'administre des anticorps d'un individu à son frère ou à une autre personne, puisque les domaines constants portent des allotypes qui représentent comme des antigènes, du coup, les antigènes, ce qu'on appelle les allotypes portés par les gens constants, vont se comporter comme des antigènes chez le receveur. Donc, du coup, il va induire des anticorps anti-allotypiques. C'est bon ? Alors, on va avancer à l'autre.
+
+Donc, les immunoglobulins, vous avez un petit peu il faut que vous connaissiez la distinction, que vous puissiez distinguer l'allotypie, l'ésotypie et l'édutypie. D'accord ? Vous aurez une question dessus. Alors, par rapport aux classes d'immunoglobulins, là aussi, je vous donne des exemples ici. 
+
+Vous voyez, normalement, ce qu'on a vu essentiellement, les IgG, les IgA, les IgM et les IgE, il faut que vous connaissiez un petit peu qu'est-ce qui caractérise ces différentes classes. D'accord ? Vous avez donc la structure, vous connaissez très bien celles qui sont pandamériques, monomériques ou démériques. Alors, il y a une particularité pour l'hygiène, par exemple, au niveau membranére, elle est monomérique, et au niveau circulatoire, cérique, etc., elle est pandamérique.
+
+Alors, l'IgA, il est monomérique pour la partie cérique, et il est démérique, parfois polymérique, mais restez sur le démérique par rapport à la partie sécrétoire, dans les sécrétions. D'accord ? L'IgG, il est quasiment monomérique. C'est facile.
+
+Et, bien évidemment, l'IgE, il est toujours monomérique. Alors, c'est facile d'avoir des distinctions. Traverse le placenta anima, c'est facile parce que c'est l'IgG. 
+
+Faiblement, il est présent au niveau du sang. C'est pas l'IgM qui est présent, c'est plutôt l'IgE ou l'IgD. D'accord ? Je n'ai pas regardé vos réponses, j'essaye de faire un peu vite.
+
+D'accord ? Je suis comme ça, mais je vois qu'il y a des questions. Alors, suffit que sur le récepteur, c'est mu. D'accord ? Exactement.
+
+On a soit Fc gamma, récepteur, c'est l'IgG, soit Fc y, récepteur, pour l'IgE, soit Fc alpha, pour l'ADAM, et là, Fc mu, pour l'IgM. Prédomine au cours d'une réinfection ? Non. Ce qui prédomine, c'est plutôt l'IgG.
+
+Donc, vous avez bien tous répondu à la question. On cochant le D. Maintenant, les fragments suivants, c'est bon pour les immunoglobules, vous avez l'essentiel. On ne va pas vous demander, mais sinon, il faut que vous connaissez un petit peu les fonctions des anticorps. 
+
+Vous connaissez très bien ce que c'est que la neutralisation, ce que c'est que la DCC, ce que c'est que la glycination, l'activation du complément. Tout ça, c'est l'acétophilie qui va servir à la phagocytose ou à la destruction des agents pathogènes, à des éléments mondiaux qui forment un petit peu la fonction des anticorps. Vous les connaissez très bien.
+
+Maintenant, par rapport à... Excusez-moi. Les fragments qui sont communs à trois voies d'activation du complément. Je vois du... A, B, E, C, E, C, E, C, E, C, E. OK.
+
+Il n'y a pas beaucoup de personnes qui participent. En termes de fragments qui sont communs à trois voies, je pense qu'il n'y en a pas beaucoup. Alors, A, on essaie de procéder par élimination.
+
+Comme ça, vous allez garder l'essentiel. Si jamais maintenant on change l'intitulé de la question, vous n'allez pas vous perdre. Alors, là, ces trois convertases, on a dit, j'ai beau insister au moment du cours, on a ces trois convertases qui communent entre la voie acacée qui est la voie MBL.
+
+C'est pratiquement la même chose. C'est écrit C4B2A. De la même façon, on a une C5 convertase qui est commune entre la voie classique et la voie MBL.
+
+Parce que les substrats des enzymes sont les mêmes. Après, on a, par rapport au facteur DBL, évidemment, c'est uniquement la voie alterne. Le C3B, si vous regardez les voies d'activation, toutes les voies génèrent un C3B.
+
+La voie classique, grâce à la C3 convertase, va générer un C3A, un C3B, un C3C, ainsi de suite. La voie alterne, pareil. La voie MBL, pareil.
+
+Donc, on a toujours du C3B. C'est un composant qui est commun. Le E, bien sûr, toutes les voies aboutissent sur les chemins conduits à la main.
+
+Donc, le E, vous avez tous coché, sauf une personne qui a coché un B. Faites attention. Après, vous avez l'élimination des aimants complexes qui fait intervenir les composants du complément suivant. Là aussi, il faut que vous sachiez, parmi les fonctions, le complément.
+
+Vous connaissez très bien le rôle comme acteur de l'inflammation. Ils sont pro-inflammatoires. Donc, ils participent à cette toxicité complément dépendante, etc.
+
+Ils éliminent les choropoptotiques. Ils éliminent les aimants complexes, etc. Et pour éliminer ces aimants complexes, ils activent aussi l'immunité adaptative, notamment grâce à un fameux récepteur cérdo-essentiel Moec.
+
+Là, il participe à l'activation de la fucite B, donc à l'immunité adaptative. Ça veut dire l'activation de l'immunité adaptative, l'initiation. En termes de clérance ou d'élimination des aimants complexes, on va exclure, bien sûr, CR2 et le complexe d'attaquement brunner, et on va retenir le CR3B, le CR1 et le CR3.
+
+Pourquoi ? Rappelez-vous que le CR3B, lorsqu'il est généré, c'est une opsonine qui entoure, qui se fixe sur les aimants complexes eux-mêmes, parce qu'il y a l'antigène, etc. Et après, le CR3B, qu'est-ce qu'il va faire ? Il va se fixer sur son récepteur qui existe au niveau des globules rouges. Donc il va permettre, du coup, de faire circuler les aimants complexes dans le sang et à travers la rate. 
+
+Après, ils vont sensibiliser ces aimants complexes, protéoliser, et aller les ramener vers le macrophage et se fixer sur un deuxième récepteur qui est le CR3. Et après, on aura la destruction de ces aimants complexes. Donc, trois fragments participes, ce sont le CR3B, le CR2, le CR1 et le CR3.
+
+J'espère que vous avez ce que vous avez fait. ABD, ABD, bien. Très bien.
+
+Magnifique. Alors, maintenant, les antimodépendantes. Les antimodépendantes.
+
+C'est bon ? Je regarde un petit peu ce que vous avez écrit. Alors. Là, à l'écran, il y a le AB. 
+
+Magnifique. J'ai quand même douté que vous aviez des gens qui étaient assez rapidement. Bien, c'est le AB exact. 
+
+Région Pals. Péri-artériolaire. Le foyer péri-artériolaire.
+
+Où il y a la sortie de l'aphocyte T. La zone périphérique de cette zone, de cette pulpe blanche, où il y a l'aphocyte B. Pour le gonglio, c'est plus facile. On a un cortex au-dessus duquel il y a le paracortex qui abrite l'aphocyte. Bien évidemment, il y a cette communication au niveau de la zone on va dire frontière entre la zone de cortex et le paracortex.
+
+Le reste, ça c'est la zone. Le D, par exemple, c'est le germinatif du gonglio et de la rate. C'est exactement.
+
+Si, par exemple, je vous ai mis ici comme question, sont dites zones timo-indépendantes ? Qu'est-ce que vous allez cocher ? Dans l'énoncé, sont dites zones timo-indépendantes ? Dites-moi. Vous êtes forts. Rien à dire.
+
+Parce que d'ailleurs, si quelqu'un fait attention au côté linguistique, sont dites zones, parce qu'il y a plusieurs zones. Vous avez dans l'énoncé ici, dans la proposition, vous avez centre germinatif et gonglio, et la rate. Du gonglio et de la rate, ça veut dire deux zones.
+
+D, il est suffisant ici pour ne pas se tromper. Très bien. On va avancer.
+
+Vous avez les cellules NK. Dites-moi. C'est assez exact.
+
+Il y a une petite nuance, s'il vous plaît, par rapport à l'apoptose. Je l'avais bien expliqué. Normalement, les NK exercent une fonction de l'hygrose.
+
+Après, dans le détail immunologique, vous allez trouver quelque part, ou l'entendre parler, les NK exercent aussi l'apoptose. Il y a des études qui ont montré l'apoptose étant une affaire de face-face ligand. À chaque fois qu'on a la possibilité, à ce qu'il y ait une cellule, sans parler du CTL, la NK a la possibilité d'exprimer face-ligand.
+
+Ça veut dire qu'elle devient capable d'exercer la fonction d'apoptose. C'est un détail. Mais lorsqu'on reste dans la fonction principale de la cellule NK, c'est la nécrose.
+
+La sélection positive des thémocytes. Alors, dites-moi. Ici, c'est simple.
+
+Vous allez coucher tout simplement le A et le B. Pour compliquer l'existence. On a dit dans le cours de la maturation des thémocytes qu'il y a une étape qui est cruciale au niveau de la zone corticale, du cortex. C'est d'abord la possibilité d'expression du TSR à travers le réarrangement des gènes qui vont côter le TSR. 
+
+Deuxièmement, on a cette co-expression justement de molécules CVK. Ça veut dire le fait de transformer le thémocyte qui est initialement double négatif, va devenir double positif. Donc avec la notion de double positif, il y a tout simplement la capacité d'exprimer le CD4 et le CD8.
+
+C'est très simple. Ce n'est pas du tout difficile. Deuxièmement, c'est des choses qui sont assez faciles. 
+
+Alors le reste, dès la sélection clonale des thémocytes auto-réactifs, c'est l'affaire de la zone cortico-midulaire. Genre ce cortico-modulaire, c'est plutôt la sélection négative, ce n'est pas la sélection positive. La division des thémocytes en samples positifs, c'est un peu lorsque ça commence au niveau de la zone cortico-midulaire jusqu'à la midulaire. 
+
+Donc il y a soi-disant un passage progressive de double positif vers le sample positif mais ça prend du temps. Théoriquement, il commence au niveau de la à la fin de la zone corticale et se prolonge jusqu'à la zone midulaire. Mais après, bien évidemment, la première étape, il y a le double positif.
+
+Le reste, bien évidemment, c'est la relation finale, ça c'est l'affaire de la relation midulaire. Ce n'est pas du tout la sélection positive. C'est bon, donc on retient le ABI.
+
+Je vais voir s'il n'y a pas entre temps des questions en rapport avec l'apoptose et spécifique à l'immunité adaptative. Tout à fait. Justement, l'apoptose, on l'a dit, c'est un modèle de mort cellulaire qui est programmé dans le temps, qui est très élaboré, qui est spécifique.
+
+D'ailleurs, lorsqu'on regarde même l'option d'apoptose, généralement, ce sont des cellules qui chargent, lorsqu'elles sont en fin de vie, elles chargent leurs propres protéines dans le sein du CMH classe 1, donc il y a un mode de présentation très élaboré et spécifique pour que ces antigènes puissent être reconnus par les CTL. Deuxièmement, on a aussi les cellules qui sont infectées par des agents pathogènes intracellulaires. Donc il y a cette notion de spécificité, justement. 
+
+C'est pourquoi l'apoptose par les NK, ce n'est pas théoriquement acceptable. Donc la division est en double positif. J'ai raté quelques questions. 
+
+Les NK produisent quel type de cytokines ? Alors les NK, je vous l'avais dit, ils produisent de l'interférons gamma, ils produisent même des interférons alpha et bêta, etc. Donc c'est essentiellement des interférons et ils peuvent produire aussi certains cytokines de l'inflammation, mais rarement. C'est essentiellement des interférons, dont type 1 et type 2. Donc la division est en double positif.
+
+Là, j'ai pas bien par rapport à la question de tout à l'heure, je voulais dire que la sélection positive, c'est clair. Alors la division, le thémocyte, lorsqu'il commence à se diviser, il se divise en simple positif. Donc il commence sa division une fois qu'avec l'interaction avec les cellules endothéliales, je veux dire dendritiques, de la région cortico-médulaire, il y a d'abord une étape liée, soi-disant, de contact avec l'autantigène, qui sont présentées par les cellules dendritiques.
+
+Après cette étape, il y a la division en simple positif. Alors si vous voulez double positif, si vous faites allusion à l'étape l'eau, la léale corticale, il n'y a pas de division. C'est juste la même cellule qui exprime doublement les deux marqueurs, CD4 et CD8.
+
+Donc il n'y a pas de... La division, elle vient après le contact avec les cellules dendritiques de la région cortico-médulaire. C'est là où commence la division proprement parlée. Alors qu'est-ce qu'il y a d'autre comme question ? La nomenclature de C3b, dont certains avocats, C4b1, est utilisée au lieu de C4a, C2b.
+
+Non, C4b2a. Il n'y a que C4b2a. Imagine C2b2b.
+
+Donc la C3 convertase classique, ça s'écrit C4b, C2a, on écrit C4b2a. D'accord ? Alors C3b, il y a C3 hydrolysé, pourvoir alternant. Alors C3 hydrolysé, c'est une hydrolyse un petit peu.
+
+Il se ramollit un petit peu avec l'hydrolyse. Avec l'hydrolysation de C3, après le contact avec une bactérie ou l'agent pathogène, c'est lui qui va amorcer l'initiation de l'activation de la voie alterne. Ça veut dire après, il y aura deux suffixations pour subir l'action du facteur D. Rappelez-vous, avec l'hydrolysation, il y a un message qui est initié, qui va partir vers le facteur B pour s'y associer.
+
+Dès qu'il y a le facteur D, comme Driss, D va cliver le B en grand B petit taille, grand B petit B, et ainsi de suite. Vous avez le détail un petit peu dans le cours. Alors étant un antigène, qui doit être reconnu par le BESER pour la jeunesse de la réponse humorale.
+
+Amine est un antigène timo-dépendant attend, doit être la question reconnu par le BESER pour la jeunesse de la réponse humorale. Est-ce qu'un antigène pardon, excusez-moi, timo-dépendant doit être reconnu par le BESER. Un antigène timo-dépendant soit qu'il est reconnu par un PCR par l'infocyte B, soit qu'il est aussi reconnu par il est processé par une cile dendritique ou un macrophage. 
+
+Mais qu'est-ce qu'il va faire ? Il va être présenté à un l'infocyte T CD4, etc. C'est un antigène qui a une composition pour lequel le l'infocyte T va le reconnaître donc il va envoyer un message où l'infocyte B pour se différencier est un plasmocyte producteur d'anticorps. Donc l'appellation antigène timo-dépendant, mais Scherer n'est pas obligatoirement obligé de passer par l'infocyte B. Il peut passer par une autre si le présent est d'antigène. 
+
+Et en tout cas la résultante, la conclusion, l'aboutissement c'est que la production d'anticorps. Par définition d'ailleurs, si vous revenez à la définition de ce que c'est qu'un antigène timo-dépendant, c'est tout antigène pour lequel le l'infocyte B demande l'aide de l'infocyte T. Donc lorsqu'il est l'infocyte T, on le reconnaît, il va stimuler l'infocyte B. Bien, alors on va passer les facteurs terminales dans l'activation du astrocyte. Alors dites-moi.
+
+Allez-y, allez-y, je vous attends. Les jeunes. Il y a au moins un garçon qui a vu juste aussi.
+
+La majorité des réponses justes étaient des filles qui participent. Les garçons, j'essaye de vous taquiner un petit peu. À moins que vous ne soyez pas assez nombreux dans la plateforme.
+
+Effectivement, s'il y a ACE. ACE, pourquoi ? Les anaphylatoxines. On a dit le C3A et le C5A.
+
+Ils ont des récepteurs sur les mastocytes, les mastocytes de façon générale. Ils les activent pour les impliquer dans la réponse inflammatoire. Donc ils vont après libérer des soi-disant les stamines et autres pour agir sur le vaisseau et autres.
+
+Et produire l'inflammation. Convertir aussi les rébus de l'acide arachidonique, prostaglandine, le quatrième. Deuxièmement, vous avez les IgE, on parle de mastocyte.
+
+Le mastocyte, c'est la cellule sur laquelle se fixent les IgE. Et pour fixer les IgE, on a besoin d'un récepteur qui leur est propre. C'est le FCY-récepteur.
+
+Donc, il ne faut pas coucher les IgE sans coucher le FCY-récepteur. Elham est en train de discuter. On va l'appliquer sur le micro.
+
+Désolé Elham. Maintenant, la phagocytose éoxydative fait intervenir. Alors, l'objectif que je vous incite à formuler vos réponses.
+
+Pourquoi? C'est un exercice pour vous, pas pour moi. C'est bien que vous cochiez juste là. Vous vous trompiez au-delà de là.
+
+Mais ça dépendra de vous. Vous allez vous sentir. Est-ce que vous êtes à l'aise? Au-delà, vous pensez qu'il y a aussi des choses qui vous dépassent ou qui vous paraissent un peu difficiles.
+
+Le fait de participer, ce n'est pas pour moi. Mais c'est bien. On est dans l'interactivité.
+
+On veut aussi que vous puissiez interagir de façon positive. Même si on se trompe, ce n'est pas grave. Alors, je vois des... Entre-temps, il y a une question.
+
+Alors, excusez-moi. Il y a une question à laquelle je n'ai pas répondu. Est-ce que le TLR appartient au PER exact? Les TLR font partie du PER.
+
+Le PER, c'est un terme global. Pathogen Recognition Receptors. Il comporte les TLR, les réceptors homanos, qui existent sur les levures, etc.
+
+Également, ce qu'on appelle les récepteurs au soluble. Ça veut dire qu'ils détectent un petit peu ce qui traîne, y compris les pathogènes et parfois même des acides nucléiques ou autres. Donc, voilà un peu le PER.
+
+Il est en groupe. Alors, il y a une autre question, monsieur. Pourquoi TLR est faux? TLR n'existe pas sur les mastocytes basophiles.
+
+TLR, c'est l'exprès par les macrophages, par les monocytes, les isodendritiques, les polynucléons neutrophiles, etc. Apparemment, l'indicatif sur l'infosilité B est parfois sorti dans l'infosilité, mais très rarement. Mais surtout, ce sont des récepteurs de l'immunité innée.
+
+D'ailleurs, c'est facile à concevoir. Ce sont des modes de reconnaissance non spécifiques. Il n'y a pas de raison à ce qu'à l'infosilité, on reconnaisse de façon non spécifique un agent pathogène.
+
+D'accord? Donc, c'est l'affaire des cellules de l'immunité innée. Voilà. Maintenant, par rapport à la question phagocytose oxidatique, c'est intervenir les catiepsines, etc. 
+
+Je vais juste regarder un peu vos... Voilà. Je vois qu'il n'y a personne, que personne n'a couché le E. Le E est juste. Alors, revenez dans vos cours, vous allez retrouver que les dérivés de l'azote, avec aussi ce qu'on appelle les ROS, Reactive Oxygen Species, ce sont des... Ils sont issus de l'intervention d'un mécanisme enzymatique oxygène-dépendant.
+
+Donc, les ROS sont aussi dépendants de l'oxygène. D'accord? Revenez, vous allez trouver les dérivés de l'azote et les ROS sont générés après l'activité enzymatique. Même l'acide hypochloreux, d'accord, il fait partie aussi de ce qui est libéré par les... D'accord? Suite à ces trois enzymes. 
+
+Mais en tout cas, les catiepsines, vous avez compris, c'est surtout non-oxydatives. Les trois enzymes, ils sont bien évidemment... Ils interviennent de façon séquentielle. D'abord, il y a des pages oxydables, oxidatives, oxidase.
+
+Pardon, mais c'est pas oxidative. Là, il y a des pages oxidase. Désolé.
+
+Je la corrige tout de suite. Je n'ai pas l'accent, pardon. Et puis, la pyroxidase, la pyroxidismutase, etc. 
+
+Et puis, la mylofonoxidase et puis le ROS. C'est bien? Ok, c'est bon. Apparemment, il y a d'autres propositions.
+
+Enfin, il y a Sarah, toujours, BCDE. Un épitope B peut-être hydrothymodépendant ou thymoindépendant. Non. 
+
+Un épitope B, il est thymoindépendant. Parce qu'il m'affiche une composante protéique. Je l'ai dit tout à l'heure.
+
+Mais quand je dis thymodépendant, ça veut dire qu'elle m'affiche la protéine. Parce que le lymphocyte ne peut pas reconnaître ce qui n'est pas protéique. Ce qui est protéique, on ne va pas l'appeler un épitope B. Il n'y a pas de protéine dedans.
+
+Mais s'il y a une composante protéique, comme là, une glycoprotéine, il y a une composante majeure ou difficile, on fait des petites composantes. Alors, on peut parler thymodépendant. Mais thymodépendant, pourquoi ? Imaginez ce que la structure fera des protéines.
+
+C'est-à-dire que le lymphocyte B, c'est lui qui décidera est-ce qu'avec l'antigène, il nécessite l'intervention, pas de lymphocytité. C'est ça le... C'est le juge comme quoi il a besoin de l'intervention de lymphocytité pour avoir plus d'anticorps en termes de classe, etc. ou de cellules de mémoire.
+
+Donc il va l'utiliser avec les protéines qui composent la structure globale pour les montrer ou lymphocyter via le TCR, via le CMH, je veux dire. Bien, je pense que c'est clair. Alors maintenant, on va voir la suite.
+
+Alors, l'interlocuteur... Bon... Bien, on regarde le BCDE qui parle pour tout à l'heure, le B. Alors B, le B, le B, il y a le BD, d'accord. Bien. Alors, on va dans le... Une par une.
+
+Une action anti-inflammatoire, non, jamais. Ici c'est une cytokine pour inflammation. Vous avez tous compris.
+
+A dû à la synthèse des panthraxines, oui, bien évidemment, les panthraxines, lisez votre cours, vous avez trouvé, ce sont surtout les panthraxines, c'est la CRP. Le H n'est pas forcément réel, le H reste juste une erreur réelle, le H, d'accord. Vous avez les essentiellement CRP et le sérum amyloïde A. On les qualifie généralement de panthraxines.
+
+Donc oui, c'est-à-dire il va stimuler tout simplement le foie et induire leur production. Active de l'infusible B, je vois qu'il y a très peu là, pratiquement personne, je vais encore vérifier sur les questions. Personne n'a couché le C, ce qui n'est pas bien.
+
+Il y a le C à la fin, j'ai eu Ahmed Yassine, donc il a raison, le C, l'interleukin 6, il active l'infusible B. Vous l'avez sur une figure, sur un schéma dans votre cours, que l'interleukin 6, c'est vrai j'ai parlé des 3, mais j'avais insisté sur le fait que l'interleukin A est une cytokine pyrogène qui augmente, induit la température parce qu'il stimule l'hépotalamus, etc. Induit la fièvre. On a dit que le ténéphalpha, c'est un petit peu tout ce qui mobilise la graisse pour produire de l'énergie, stimule l'endothélium.
+
+Mais l'interleukin 6, j'ai dit, il y a plusieurs fois qu'il stimule l'infusible B. C'est un activateur de l'infusible B. Active le macrophage. Non, le macrophage, c'est ce qui produit l'interleukin 6. Ce n'est pas l'activateur du macrophage, c'est plutôt le résultat de l'activation du macrophage. J'ai vu qu'il y a beaucoup de... Il y a des gens qui ont coché le D. Non, je ne suis pas d'accord.
+
+Et puis vous avez l'effet pyrogène, c'est la question de l'affaire de l'interleukin 1. Alors, pour récapituler, on a le B et le C. C'est bien ? Donc avec la question, j'ai comme chichouillé, il me semble que il vous paraît un peu difficile, d'accord ? Mais alors que jamais, il faut juste réfléchir chichouillé. Ahmed, vous étiez tout près chichouillat, Ahmed Yassine, sauf que vous avez avec le 6, le D, c'est bon ? Est-ce que c'est clair ? Il me semble qu'il y a d'autres propositions. Monsieur, je n'ai pas bien saisi les notions d'idiotypie, zotypie, allotypie.
+
+Est-ce que vous pouvez les expliquer encore ? Alors, l'ANK par sa sécrétion d'interférons animaux peut-elle activer le macrophage ? Oui, je suis d'accord avec vous. Alors, vous savez, normalement, c'est un peu spécial, mais j'allais y réfléchir à la question. Alors, l'ANK, généralement, si on la considère, si on considère que les ANK sont infectés par un virus, par exemple, ils vont produire des interférons.
+
+Des interférons dans le sens et ces interférons vont inhiber les virus, la multiplication des virus. Mais l'action des interférons généralement, vous savez, il va essayer de générer ce qu'on appelle les endonucléases, que ce soit par les cellules infectées ou par les macrophages. Donc, les interférons, en activant, en mobilisant les endonucléases ou les proteïases qui aident les cellules à inhiber le cycle de multiplication des virus, ils vont aboutir de quelque part à une action indirecte des interférons que ce soit sur le macrophage ou sur d'autres cellules.
+
+Alors, il y a d'autres questions, excusez-moi. Alors, les ETP, les UTP, je pense que, si vous permettez, on va s'arrêter sur ADI avant de continuer la discussion autour des lymphocytes. Alors, pour faire simple, les ETP, là, c'est très simple.
+
+Les ETP, c'est quoi ? L'ésotype, on peut le dire classe, EGG, EGA, EGM, etc., ce sont des ésotypes. D'accord ? Ésotypes ou bien classe. Alors, cette ésotépie, lorsqu'on regarde les espèces, maintenant, humaines, comparativement à l'espèce animale ou autre, chaque espèce a des ésotypes différents. 
+
+Donc, ce sont des terminaux, on va dire, qui sont propres aux caractéristiques des espèces. D'ailleurs, vous avez posé la question tout à l'heure, ils permettent de distinguer les espèces. Parce que les espèces, les classes ou les ésotépies diffèrent en fonction des espèces.
+
+Mais d'un point de vue structural, l'ésotépie, elle est définie par la partie constante de la chaîne lourde. Je regarde maintenant la chaîne gamma, pour dire que c'est une EGG, qui a une structure particulière, caractéristique de celle de l'homme. Je regarde la chaîne lourde alpha, pour dire que c'est une EGA, etc.
+
+Ça, c'est l'ésotépie. Alors, par rapport à l'éotépie, on va aller vers la partie constante, de la chaîne lourde et de la chaîne légère. On va voir qu'il y a des petites structures comme ça, qui sont comme des acides aminés, etc., qui font la différence. 
+
+Je compare deux individus de la même espèce, même un frère et une sœur, deux frères, etc., qui ne sont généralement pas homozygotes, jumeaux homozygotes. Alors, on compare avec l'EGG1 de quelqu'un avec celle de son frère ou de sa sœur. Je les compare avec les allotypes d'un homme, avec les antigènes, les déterminants, les allotypes portés par les régions constantes de l'EGG1 d'Ahmed et Karim sont différentes. 
+
+Donc, ils caractérisent des individus de la même espèce. D'accord ? Ça veut dire qu'ils sont différents entre des individus appartenant à la même espèce. Tout à l'heure, on était entre les espèces.
+
+D'abord, au sein de la même espèce, on a des allotypes entre les individus de la même espèce. On les appelle généralement des gamma-markers, des alpha-markers, etc. C'est-à-dire des marqueurs de classe ou d'isotype qui sont déterminés par l'allotypie par une partie qui existe au niveau de la région constante de la chaîne lourde à la chaîne légère.
+
+l'allotypie, ça devient facile à l'âge. L'allotypie, c'est une affaire uniquement de la région variable. Donc, au lieu de comparer les immunoglobulines de la même classe entre deux individus de la même espèce, je vais m'arriter à l'allotypie chez le même individu, c'est-à-dire un individu X. Et là, une IgG, par exemple, qui, lorsque je regarde l'allotypie, ça va dire la région hyper-variable de cette immunoglobuline, cet anticorps.
+
+Aujourd'hui, Hg1 est un naïf. Avant le contact avec l'antigène, il a une structure, par exemple, ATCG. Après le contact avec l'antigène, il va se modifier.
+
+Ce n'est pas systématique, mais avec la modification, il permet à l'anticorps de, soi-disant, d'améliorer son affinité avec cet antigène qu'il a stimulé initialement. Je ne parle pas d'ATCG, je parle d'AGTC. C'est une modification de l'allotypie où il y a des séquences nucléotidiques qui changent dans le temps pour la même immunoglobuline, uniquement au niveau de la région variable ou hyper-variable.
+
+Est-ce que l'interleukin-6 active l'infusité ? L'infusité, oui. Ça, c'est un détail aussi. Normalement, l'interleukin-6, c'est un activateur, on va dire, électif de l'infusité.
+
+Apparemment, il a été démontré aussi que l'infusité peut s'activer par l'interleukin-6. Mais c'est exceptionnel. Mais c'est possible.
+
+Ça, c'est de l'immunologie, donc ce ne sont pas des questions. Alors, lorsqu'on va en quatrième manif, l'immunopathologie, la maladie auto-immune, on va revenir vous enseigner les facteurs qui induisent l'auto-immunité. Alors, vous avez, par exemple, lorsqu'il y a une production excessive d'interleukin-6 dans le cas d'une inflammation, certains virus, ils ont cette capacité de générer de l'interleukin-6 en excès.
+
+Donc, avec l'interleukin-6, il se comporte comme un activateur polyclonal. Il induit beaucoup d'activation de l'infusité B avec un antigène viral à côté. Donc, il y a une réaction excessive de l'infusité B qui est dirigée contre l'antigène viral, mais aussi, elle risque de se retourner contre les antigènes du soi.
+
+Donc, c'est une des étiologies d'elle, comment explique l'auto-immunité liée, qui survient après certaines infections virales. C'est pourquoi l'interleukin-6 est donc plutôt un stimulateur de l'infusité B. Alors, l'interleukin-6 exerce quel effet sur le macrophage au niveau du foie ? Vous avez peut-être confondu avec le macrophage, c'est-à-dire, généralement, il y a bien évidemment des macrophages au niveau du foie. On est d'accord.
+
+Mais l'interleukin-6, ça veut dire étant, quelque part lors d'une infection ou d'une inflammation aiguë, vous avez de l'activation du macrophage avec la production de l'interleukin-6. Alors, soit c'est un macrophage qui est infecté lui-même ou là, qui est stimulé, qui est activé par d'autres facteurs, qui fait que ce macrophage libère, qu'il soit infecté ou pas, il libère de l'interleukin-6 et cette interleukin-6, c'est elle qui va aller agir au niveau du foie, en exerçant une action centrale sur le foie pour produire, entre autres, l'hépatraxine, etc. Voilà un petit peu la nuance.
+
+En fait, pas la nuance, on va dire le détail. Alors maintenant, on va venir vers les cytokines de type Th2. On est dans l'immunité. 
+
+Alors, pour rester un petit peu dans l'immunité aînée, je profite pour passer des messages. Alors, on a dit l'immunité aînée, vous avez beaucoup de séquences. Il y a ce qui est en rapport avec les acteurs, vous les connaissez très bien. 
+
+Vous avez aussi les, soit disant, le mode de reconnaissance non spécifique des agents pathogènes ou ce qu'on appelle généralement les PAPS, etc. ou les DAPS, via les TLA ou autres, les PRR. Et la conséquence étant, bien évidemment, tout ce qui est production, soit de cytokines lorsqu'on est face à des bactéries, soit d'interférents lorsqu'on est face à des virus.
+
+D'accord ? Et après, le cycle d'activation de macrophages, je vais noter là, vous connaissez très bien. Donc, vous avez un acte LR4, un exemple que je vous ai donné, l'élépopolisaccharide, et puis vous avez les cascades d'activation d'hétérozine kinase qui va aboutir à un noyau qui va s'activer pour générer des cytokines, des interférents. Ça, c'est la première partie, en termes de reconnaissance, et les acteurs avec leur mécanisme.
+
+Alors, d'un côté, vous avez la phagocytose que je viens de vous décrire tout à l'heure, ce qui est oxydative et non-oxydative, avec ces cascades soi-disant oxydatives, qui fait intervenir les 3 onzièmes principalement, dont on fait partie, on va dire, avec aussi, entre autres, les dérivés azotés, etc. Vous avez aussi tout ce qui est les facteurs lépidiques. J'avais parlé de la soi-disant des dérivés de l'acide arachidonique, qui sont libérés à partir de l'action de la phospholipase A2, qui transforme les lipides membranaires, les phospholipides membranaires, en dérivés de l'acide arachidonique, c'est-à-dire les prostates glandines et le cotrienne.
+
+Et ces dérivés de l'acide arachidonique vont avoir un effet chimiotactique, augmentation de la dilatation des vaisseaux, c'est-à-dire la vasodilatation, l'augmentation de la dilatation des capillaires. C'est de la même façon que font ici la bradykinine, qui agit sur les vaisseaux, etc. Vous avez tout ce qui est phagocytose et la flammation arachide, je pense que c'est assez clair.
+
+Je regarde d'autres questions. Par rapport aux cytokines et l'action dans l'immunité innée, vous avez aussi l'action de la cellule NK. J'avais bien expliqué que la cellule NK son action au niveau de l'immunité innée, c'est une cellule qui tolère le soin.
+
+Elle tolère les cellules du soin parce qu'une fois qu'elle détecte la présence d'une molécule H1, elle produit des cytokines. Elle a une action antivirale, une action antitumorale, etc. dans le cadre de l'immunosurveillance.
+
+Et puis vous avez les... Il me semble qu'il y a des réponses déjà par rapport à la question. Alors les cytokines de type Th2, qu'est-ce qu'on reçoit de tout ça ? L'exemple sur l'action anti-Th1. Je vais voir quand même ce que vous avez dit.
+
+Apparemment, il y a du ACE partout. ... Les réponses ne sont pas... ACE, DE, d'accord. Bien, alors on va les passer en revue toutes celles-là. 
+
+Exerce une action anti-Th1, oui. Il y a toujours cet antagonisme cytokiné qui vise tout simplement à établir ce qu'on appelle la balance, un équilibre entre Th1 et Th2. Inhibe la réplication virale ? Non, elle n'intervient pas dans la réplication virale, c'est l'affaire des cytokines de type Th1, normalement.
+
+Pourquoi ? Parce que le Th1, c'est eux, c'est elles qui sont chargées de la réponse cellulaire, d'accord ? Donc ils n'ont pas d'action sur les virus, généralement, c'est plutôt l'immunité innée, et puis aussi l'immunité cellulaire, via les CTEL, etc., c'est-à-dire le Th1 plutôt, qui est chargé de la réponse antivirale. Intervient dans la commutation ésotypique ? Oui, parce que l'interleukine 4, c'est la cytokine qui est chargée d'assurer la commutation de classe. Sont pro-inflammatoires ? Non. 
+
+Sont allergisantes ? Oui. Donc on retient le A, le C et le E. Il me semble que c'est pratiquement la réponse à vous tous, mais à part au Maïma qui a conçu aussi le D. Et aussi, pour ne pas faire doigt d'ailleurs, il me semble qu'il y a aussi les... ah si, ok, c'est pas grave, en tout cas, c'est bien de réfléchir de façon... Bien, s'il y a des choses délinquantes, etc., vous allez pouvoir vous en rendre compte après. Alors, les moules qui lâchent la classe 1 sont exprimés par... Alors, on regarde un petit peu ce qui est écrit.
+
+Bien, il me semble qu'il y a d'autres... Très bien, il me semble que c'est bon. Je suis allé un peu loin dans les... C'est bien, ok. Alors, logiquement, vous devez tout cocher. 
+
+C'est très simple. Alors, normalement, c'est une question qui est très facile. Alors, on a dit, par définition, les molécules HLA classe 1 sont exprimées par toutes les cellules nucléaires.
+
+Donc, les cellules endréthiques, les cellules NK, les macrophages, les lymphocytes T naïfs, ce sont toutes des cellules nucléaires. Donc, il a dit, au moins, si vous avez coché A, B, C, E... Oui, mais pourquoi le D ? Le D, parce que ça, c'est écrit, molécule HLA classe 1. Je vous ai dit que l'HLHG est exprimé par le trophoblaste. L'HLHG, c'est une molécule HLA classe 1. Donc, il faut coucher tout simplement.
+
+C'est bien ? C'est clair ? Sans aller dans la précision ? Alors, on avance. Les myeloprothéasmes. Ça va très bien. 
+
+Je vois que les réponses sont tellement... Il y a un cohérent. Il n'y a que le B, finalement. Le B, le reste, c'est pas... Pour le chaperon, c'est pas... Il n'y en a rien à voir. 
+
+Ce sont des molécules qui interviennent dans la synthèse du CMH, classe 1. Cannexine, canne-reticuline, tapasine, tout ça. Ça, c'est le transport d'eau du peptide, le dernier. L'aphagocytose, ça n'a rien à voir avec l'aphagocytose.
+
+L'aphagocytose, c'est tout simplement une dégradation des antigènes endogènes. Très bien. Alors, on avance vers l'avant-dernière question.
+
+Alors, je regarde. A, B, E, A, B, E, A, B, E. Je vois que là, elle est comme ça. Mais vous êtes fort.
+
+Voilà, c'est bon. Je n'ai pas de commentaire dans la mesure où vous avez bien répondu. Donc, on a dit la notion de daté d'une infection.
+
+Je vous ai donné des exemples. Lorsqu'on a un doute sur une infection, est-ce qu'elle est récente ou ancienne. Surtout lorsque l'on a des anticorps de faible titre.
+
+Les anticorps, je veux dire, spécifiques d'une toxoplasmose ou de la rugbiole. Chez une femme au sein, par exemple, on veut savoir si ce sont des anticorps récents ou pas. D'accord ? Faible titre, est-ce qu'ils sont significatifs ? On va voir ce qu'est leur rapidité.
+
+Lorsqu'il est fort, donc c'est ancien. S'il est faible, ça veut dire que c'est récent. D'accord ? C'est important.
+
+Très bien. Je vois qu'entre autres, il n'y a pas de... Réna, donc, à la dernière. Réna.
+
+Parfait, c'est bien. Magnifique. Alors, après, la dernière.
+
+Là aussi, vous êtes fort. C'est bien, c'est... Magnifique. Donc, apparemment, j'ai plus rien à dire.
+
+Parce que vous m'avez rassuré et en même temps agréablement surpris. La majorité des questions, au moins pour ceux qui participent, j'imagine que c'est le cas aussi pour les gens qui n'ont pas participé au chat pour nous dire quel est leur avis. Non ? A moins qu'ils soient timides et qu'ils ne font pas d'habitude.
+
+Bien. C'est bon ? Est-ce qu'il y a d'autres questions éventuellement ? Je vous écoute si vous avez d'autres questions. En tout cas, j'ai profité pour vous glisser aussi d'autres messages au rapport avec les autres chapitres.
+
+L'ensemble du programme, je veux dire. L'avidité des anticorps. Alors, l'avidité, c'est tout simplement la somme de l'affinité.
+
+L'affinité d'un anticorps, ça veut dire sa capacité à interagir fermement d'une façon importante avec un antigène. Cette affinité, lorsqu'on a plusieurs sites de fixation de l'antigène, ce qu'on appelle la somme, c'est une force, on va dire, physique. L'affinité, par définition, c'est la force de liaison de l'anticorps avec l'antigène.
+
+Lorsqu'on a plusieurs forces qui s'exercent sur l'antigène, ce qu'on appelle la somme de l'affinité égale l'avidité. Cette avidité, elle est meilleure, par exemple, pour les IgM par rapport aux IgG, parce qu'il y a plusieurs fragments FAB, etc. Donc, ça améliore la force d'affinité, l'avidité, du coup.
+
+Alors, si l'avidité est élevée, ça veut dire que le contact avec l'antigène est ancien. Si l'avidité est faible, ça veut dire que le contact est récent. Vous imaginez que lorsque l'avidité est forte, ça veut dire qu'il y a, au préalable, l'intervention des gènes, c'est-à-dire pour induire ce qu'on appelle les hypermétations somatiques.
+
+Il y a des modifications de certaines séquences nucléotidiques au niveau de la région hypervariable pour permettre, justement, une meilleure affinité de cet anticorps avec l'antigène. Donc, c'est ça le lien entre l'avidité ou l'affinité avec les hypermétations somatiques qui permet d'améliorer l'interaction ou ce qu'on appelle la maturation d'affinité. Alors, où est-ce qu'on trouve les récepteurs NLR ? Bonne question.
+
+Les récepteurs NLR, ou ce qu'on appelle les récepteurs NOD, Light Receptors, c'est un petit peu l'IQVL ou l'ILTLR. Alors, les NLR existent surtout au niveau de la paroi digestive. C'est-à-dire les cellules de l'immunité du système digestif.
+
+Et ils ont été créés dans d'autres sites aussi, même sur les autres cellules de l'immunité circulantes. Donc, ils ont un petit peu le même mode de reconnaissance, qui est un petit peu plus orienté vers, soi-disant, certaines infections. Par exemple, les infections phalngiques et même parasitaires.
+
+Et même parfois bactériennes aussi. Ils ont d'autres fonctions, et pas uniquement la reconnaissance des antigènes, mais des pathogènes. Parce que d'ailleurs, lorsque vous allez étudier la préhomopathologie, digestive en l'occurrence, l'imiquimathalane, ou même les pathologies digestives médiatriques, on va vous parler un petit peu de l'implication de ces fameux NLR qui sont des récepteurs de notes de l'immunité innée, qui interviennent aussi dans la reconnaissance de certains antigènes de façon générale.
+
+Et vous allez voir aussi dans ce qu'on appelle une sorte de signaux, les échanges des signaux avec le microbiote. Ça, c'est des choses où vous allez pouvoir... On va pas rentrer dans le détail parce que c'est des choses qui sont de la vie, il y a un petit peu qui changent. Mais l'essentiel, c'est ça.
+
+Ce sont l'équivalent des récepteurs telaires sur les systèmes immunitaires innés. Et notamment, ils sont prédominés au niveau des tubes digestifs. Alors, est-ce que les pyramidations somatiques correspondent à l'édiotypie ? Là, c'est pas une définition, c'est pas l'équivalent.
+
+Les pyramidations somatiques, soi-disant, permettent de modifier l'édiotypie. L'édiotypie, elle est là. C'est-à-dire que l'édiotypie voit les zones d'ancrage ou de fixation de l'antigène sur le paratope de l'anticorps.
+
+Les zones d'ancrage, là-dedans, sont faites tout simplement d'acides nucléiques, de nucléotides, atymines, etc. Donc, il définit ce qu'on appelle l'édiotypie. Lorsque l'anticorps décide de changer cette édiotypie pour une meilleure affinité avec un antigène, un agent pathogène, il va subir ce qu'on appelle opérer un phénomène des pyramidations somatiques au niveau de l'édiotypie.
+
+Concernant la science passée de TP, nous n'étions pas informés de l'obligation de la présence. Écoutez, je suis un petit peu… Marc, Anna, je ne cesse pas de le répéter, s'il vous plaît. Je vois que la personne qui a posé comme reste de ne pas comprendre l'arabe.
+
+Nous, on compte sur votre sens de responsabilité. On prépare des médecins qui soient autonomes, qui aient un sens de responsabilité. Il faut développer une certaine confiance mutuelle entre nous.
+
+Lorsqu'on parle de science TP, vous n'êtes même pas obligés de poser la question parce que la science TP y a une présence. La science TP, lorsqu'on fait un effort pour l'organiser, même dans les circonstances pareilles comme celle de cette année ou l'année dernière, on adapte ce qu'on veut passer comme message. On adapte pour essayer de focaliser sur l'essentiel qui va vous servir dans votre métier.
+
+Je suis sûr, j'étais très satisfait de la prestation de beaucoup d'étudiants qui étaient présents. À travers l'échange qu'on a eu, j'ai senti qu'il y avait un engouement parce que c'était des choses très pratiques, des cas cliniques, etc. Si vous comprenez les gens à qui j'ai assisté, je suis sûr que c'est le cas.
+
+Ce sont des choses qu'ils vont garder à jamais et ça va les aider énormément pour résoudre des problématiques de santé publique ou de patients qu'ils vont prendre en charge. Autrement, c'est dommage, mais après, poser la question de la présence obligatoire, je suis étonné. Écoutez, si le message n'était pas clair, je le dis aussi bien pour les séances TP, TD que pour le cours, ça dépend de ce qu'on veut, ce qu'on veut comprendre.
+
+Si on veut avoir un certain savoir cognitif et aussi pratique qui me permet d'être à l'aise dans ma carrière, je veux juste passer des examens pour Yossine. Je parle de façon générale, je le dis comme ça ouvertement. C'est une sorte d'échange mutuel, un conseil, etc.
+
+Vous aurez certainement besoin de ces notions-là, de ces rappels, parce qu'ils vont vous servir un petit peu pour parfaire votre métier si vous voulez être un excellent médecin à l'avenir. Est-ce que les anticorps monoclonaux sont utilisés en immunothérapie ? Bien, alors, vous anticipez sur des questions un peu spécifiques. En quatrième année, si vous n'êtes pas trop curieux d'apprendre maintenant, en quatrième année, il y a tout un chapitre qui s'appelle l'immunothérapie ou l'immunomodulation, etc., qui va porter entre autres sur les anticorps monoclonaux.
+
+Pour résumer, juste pour ne pas rester sur votre fond par rapport à cette question, d'abord, les anticorps monoclonaux, par définition, ce sont des anticorps fabriqués à partir de ce qu'on appelle un hybridome. C'est-à-dire qu'on tout simplement prend l'infusible B, qu'on stimule par un antigène spécifique, un seul, pour pouvoir développer ou produire un clone, un seul clone de l'infusible B, alors qu'on va immortaliser à travers, soi-disant, une sorte de clonage avec une cellule tumorale, pour l'immortaliser et alors être capable de produire ce qu'on veut en termes quantitatifs d'anticorps monoclonaux qui a le même ésotype, le même édiotype et le même allotype. Ça, c'est la définition et le mode de conception d'un anticorps monoclonal.
+
+Deuxièmement, alors l'immunothérapie, à base d'anticorps monoclonaux, elle peut être soit avisée et inhibitrice, par exemple, je veux inhiber un clone de tumeur. Je suis devant la forme, une cellule tumorale qui prolifère. Si le tumeur, je l'ai identifié, c'est un clone T ou la P ou autre, je vais cibler un marqueur de cette cellule pour l'inhiber grâce à l'anticorps monoclonal.
+
+Par exemple, il y a la forme qui s'appelle, je ne sais pas, la forme de Hodgkin ou je ne sais pas quoi, qui porte sur la prolifération de l'infusible B. Je vais marquer, je vais prendre comme cible un marqueur qui est très fréquent, quasiment, pas très spécifique, mais quasiment exprimé sur la majorité des cellules B, qui s'appelle le CD20. Je vais administrer un anti-CD20, un marqueur qui va inhiber le CD20, qui est un marqueur de prolifération, un marqueur de l'infusible B en face de prolifération. Comme ça, je vais liser cette cellule B en inhibant ce CD20 par un mécanisme à C, parce qu'en réalité, j'ai des récepteurs membranaires, etc.
+
+C'est comme induire une sorte d'apporteuse de morts cellulaires de ce clone. Ça, c'est un exemple de mode inhibiteur. Vous avez également une approche immunomodulatrice.
+
+Ça veut dire que j'admise des anticorps monoclonaux qui permettent un petit peu, si je suis devant un contexte où il y a de l'hyper-inflammation, ou bien, soi-disant, beaucoup de cytokines de l'inflammation chronique ou aiguë, etc. où il y a un profil d'hyper-activation de la foicité cytotoxique, etc. Je vais administrer des anticorps qui permettent de rétablir l'équilibre, de moduler cette réponse immunitaire et inhiber l'aspect inflammatoire par des anti-inflammatoires.
+
+Il y a un rôle anti-inflammatoire. Parce qu'il y a une prédominance des... C'est comme un petit peu le Covid d'avant. Il y a de l'hyper-inflammation.
+
+Pour bloquer cette inflammation, j'utilise un anticorps monoclonal, aussi L6, qui va bloquer la cytokine avec un anticorps L6. Donc c'est un effet immunomodulateur qui inhibe, soi-disant, l'action excessivement importante de l'inflammation. Voilà par rapport à votre question.
+
+Je pense avoir fait un peu le dans. Je vous souhaite bon courage. Je reste à votre disposition s'il y a des questions éventuelles.
+
+Mais je pense que vous avez l'essentiel pour préparer vos examens. Vous avez l'essentiel à retenir de tout ça. Bien.
+
+J'ai profité pour, soi-disant, vous rappeler quelques choses importantes par rapport au défaut en chapitre. Depuis le système immunitaire, les antigènes, les hémoglobulines, le système du complément. Bien.
+
+Et puis aussi l'immunité innée, les cellules de l'immunité avec les organes lafluides. Et puis aussi par rapport à l'immunité innée et l'immunité adaptative. Voilà un petit peu le CMH aussi.
+
+Vous avez un petit peu les principales questions et sur quoi elles vont porter de façon générale. Bien. Est-ce qu'on peut avoir une autre question? Monsieur? Oui.
+
+Je vais vous l'envoyer à votre représentante Ziane. Je peux vous envoyer un petit peu, d'accord? Après le support. Mais normalement, vous avez tout.
+
+Vous avez l'ensemble. On les a passés en revue, etc. Vous avez l'ensemble des éléments dont vous avez besoin.
+
+Monsieur, c'est possible de partager votre email? Parfait. D'accord. Alors, ok.
+
+Voilà. Vous aurez par rapport au nombre de questions. Alors, qui avait réclamé l'email? Je l'ai envoyé dans le chat.
+
+C'est Amel, c'est ça? Oui, monsieur. Alors, je peux vous l'écrire sur votre… Vous l'avez vu déjà? C'est ça? Oui, monsieur. Merci.
+
+Je l'écris. C'est bon? Parfait. Oui.
+
+Bien. Alors, combien de questions? 17 questions. Ziane? Bon courage pour tout le monde.
+
+Merci, monsieur. Au revoir. Je vous en prie.
+
+Au revoir. Merci, monsieur. Bon week-end.
+
+Bonne année. Inch'Allah. Santé, prospérité, réussite.
+
+À l'attente de vous, d'exceller dans le module et l'immunologie particulièrement. Ziane, il ne faut pas me décevoir. Ziane? Sinon, je vais me lâcher.
+
+Merci beaucoup.

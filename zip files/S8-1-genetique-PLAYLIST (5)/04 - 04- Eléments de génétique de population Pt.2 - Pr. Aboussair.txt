@@ -1,0 +1,127 @@
+Bonjour, on va voir maintenant la deuxième partie du cours sur les éléments du génétique d'épaule. Dans la première partie, on a vu la loi de Hardy-Weinberg. Maintenant, on va attaquer la deuxième partie de ce cours concernant la consanguinité.
+
+On va voir ensemble la définition de la consanguinité, comment calculer le coefficient de consanguinité, comment calculer le coefficient de parenté. On va voir ensemble les effets de la consanguinité et l'intérêt du conseil génétique quand il y a une consanguinité. Il faut savoir que les populations humaines connaissent deux types d'écarts à l'apport mixte.
+
+En effet, les unions préférentielles entre individus de même phénotype, c'est ce qu'on appelle homogamie, et les unions préférentielles entre apparentés, donc c'est les mariages entre apparentés qu'on appelle consanguinité. Et ces mariages entre apparentés, ça veut dire les individus qui ont au moins un ancêtre en commun. Les unions entre apparentés sont appelées improprement mariage consanguin.
+
+Mais il faut savoir que ce sont les enfants nés de cette union entre apparentés qui sont consanguins et n'ont pas les parents et n'ont pas le mariage. Les unions entre apparentés favorisent l'homozygosie chez leurs enfants et par conséquent l'apparition de maladies autozoomiques récessives si eux ou les ancêtres communs sont porteurs d'une mutation délétère à l'état héterozygote. Il est à noter que plusieurs unions entre apparentés ont été interdites par la religion, notamment le christianisme, mais surtout, la consanguinité n'est pas interdite chez tous les chrétiens, mais seulement chez les catholiques romains et les protestants, alors que l'islam n'interdit pas le mariage entre cousins.
+
+De même, plusieurs unions entre apparentés ont été interdites par la législation civile. Voici une carte géographique qui montre l'état de la légalité ou de la non-légalité du mariage entre cousins germains dans le monde. Donc les régions en bleu foncé, ça veut dire que ce mariage est autorisé entre cousins au premier degré.
+
+Notamment, vous voyez la carte de l'Afrique du Nord. Les mariages entre cousins de premier degré sont autorisés. En orange, la légalité dépend de la religion ou de la culture.
+
+Les zones rouges, l'interdiction du mariage, ça veut dire qu'il y a une interdiction du mariage entre cousins au premier degré. Les régions en rose, donc les mariages entre apparentés plutôt cousins premier degré sont interdits sauf exception. En bourdeaux, le mariage entre cousins de premier degré est considéré comme un crime.
+
+Et en gris, c'est les régions où il n'y a pas de données disponibles concernant la légalité ou la non-légalité des mariages entre cousins germains. Quand on parle d'inceste, on parle d'inceste devant un mariage qui unit deux enfants de même parent. Par exemple, entre frères et soeurs.
+
+Ou ces derniers, donc les parents avec leurs enfants. Par exemple, un père avec sa fille. Ou descendants, par exemple, à mariage entre oncles et nièces.
+
+Vous savez que l'islam et la plupart des religions monothéiques ont interdit l'inceste. Et on va comprendre au fur et à mesure de ce cours pourquoi les différentes religions monothéiques ont interdit l'inceste. Et même les lois, les législations civiles interdisent l'inceste.
+
+Avant d'aborder la manière de calculer les coefficients de consanguinité, j'aimerais bien vous donner une idée sur le pourcentage de consanguinité dans le monde. Il faut savoir qu'en France, le taux de mariage entre apparentés est inférieur à 1%. Alors que, par exemple, dans les États-Unis, le taux de consanguinité moyen varie entre 1 et 4%.
+
+Au Maroc, le taux moyen de consanguinité est de 15,25% selon une étude effectuée en 2009. Alors que le mariage entre apparentés est plus élevé, la fréquence de mariage entre apparentés où la consanguinité est élevée, dans les pays du sud, tels que certains pays d'Afrique et l'Inde, qui ont un taux de consanguinité qui varie entre 40 et 49%. Voici un tableau qui montre les résultats des différentes études sur la consanguinité au Maroc.
+
+Selon la dernière étude effectuée en 2009, donc c'est une étude nationale, le taux de consanguinité moyen au Maroc est de l'ordre de 15,25%. Mais il faut savoir que ce taux est plus élevé dans les régions rurales et dans le sud marocain, donc c'est le cas, et ce taux peut atteindre jusqu'à 48,1%, notamment dans la vallée d'Azgour, Amzmiz et la province de l'Haus. Voici des exemples d'union entre apparentés. 
+
+Donc grand 1, c'est une union entre demi-cousins germains, d'accord? Grand 2, c'est une union entre cousins germains, donc soit des cousins maternels ou paternels. En bas, grand 3, il y a une double consanguinité, un double cousin germain. Grand 4, ce sont des cousins inégaux. 
+
+Grand 4, c'est des cousins issus de germains. On va voir ça en détail lors des slides suivantes. C'est quoi un coefficient de consanguinité? Le coefficient de consanguinité d'un individu, i, c'est ce qu'on appelle f de i, est la probabilité pour que deux gènes homologues pour un locus donné, ça veut dire les deux allèles pour un gène donné, pour un locus donné, soient identiques par descendance mendélienne.
+
+C'est-à-dire la probabilité que l'individu reçoive deux allèles identiques, deux copies identiques d'un même gène, d'un ancêtre commun. Si les parents ne sont pas apparentés, donc il n'y a pas de consanguinité, le coefficient de consanguinité de i est égal à zéro. Dans les autres cas, f de i est calculé en fonction des degrés de lien entre l'individu et le ou les ancêtres communs.
+
+Et le calcul de ce coefficient de consanguinité se fait par l'équation suivante. En effet, c'est la somme de sigma, c'est la somme, donc n c'est le nombre d'ancêtres communs, donc on va faire ce calcul-là en fonction du nombre d'ancêtres communs. Donc, s'il y a un seul ancêtre commun, n va être égal à 1, comme le schéma à droite.
+
+S'il y a deux ancêtres, on va faire la somme pour deux ancêtres. S'il y a trois, c'est pour trois, et ainsi de suite. Donc, ça sera la somme de 1,5 à la puissance m plus p plus 1. C'est quoi m? m est le nombre de générations qui relie la mère de i, l'individu, à l'ancêtre commun.
+
+p c'est le nombre de générations qui relie le père de l'individu, i, à l'ancêtre commun. Prenons l'exemple à droite. Donc, i en bas, c'est l'individu dont on veut calculer le coefficient de consanguinité.
+
+Combien on a d'ancêtres communs ici? On en a un seul, l'arrière-grand-parent, grand A. On a un seul ancêtre commun, donc n est égal à 1. Les parents de i sont p c'est le père, m ici c'est la mère, grand M c'est la mère. Et grand B c'est le grand-parent de i, et grand C c'est le grand-parent de i. Donc, on a dit que c'est la somme de 1,5 à la puissance m plus p plus 1. Là, on a un seul ancêtre commun, donc ça sera 1,5 m, le nombre de générations qui lie la mère de i à l'ancêtre commun. On a combien de générations qui lie M, grand M, la mère de i, à l'ancêtre commun, grand A? On a une génération entre grand M et sa mère grand C, une génération, et une génération entre la grand-mère C et l'ancêtre commun, grand A. Donc, une génération, deux générations, donc m est égal à 2. Maintenant, combien de générations lie le père de i à l'ancêtre commun, grand A? On a une génération entre le père de i, qui est grand P, et son grand-père, qui est grand B, une génération, puis une deuxième génération entre le grand-père de i, grand B, et l'ancêtre commun, grand A, ça veut dire 2. Donc, P est égal à 2, donc quand on va calculer, ça sera 1,5 à la puissance 2, plus 2, plus 1, donc ça sera 1,5 à la puissance 5. Donc, c'est ce qu'on a calculé ici.
+
+Donc, 1,5 à la puissance 5, ça sera 1 sur 32. Voici un autre exemple de calcul de coefficient de consanguinité entre cousins germains. Donc, si on prend les personnes de la génération 3, vous voyez le mari et la femme, donc son cousin germain.
+
+En fait, leurs deux mères sont des sœurs. Donc, c'est ou les deux gèlins, d'accord? Et ils ont deux ancêtres communs, grand A1, grand A2. Donc là, on va utiliser la même équation, la même formule, la somme de 1,5 à la puissance M plus P plus 1, et là, ça sera fait pour l'ancêtre commun A1 et pour l'ancêtre commun A1.
+
+Je vais vous montrer comment. Donc, on va calculer d'abord le coefficient de consanguinité par rapport à l'ancêtre commun grand A1. C'est en vert.
+
+Donc, ça sera toujours 1,5 à la puissance M plus P plus 1. M, le nombre de générations qui lient la mère de I à l'ancêtre commun A1. Donc, vous voyez en vert, première génération, puis deuxième génération. Donc, il y a deux générations qui lient la mère de I à l'ancêtre commun A1.
+
+Donc, M est égal à 2. Combien de générations lient le père de I au premier ancêtre commun A1? Donc, toujours en vert, 1, 2. Donc, P est égal à 2. Donc, ça sera 1,5 à la puissance 2 plus 2 plus 1, ça veut dire 1,5 à la puissance 5 plus, on doit faire le calcul pour le deuxième ancêtre commun A2. Donc, combien de générations lient la mère de I à l'ancêtre commun grand A, petit 2? Donc, en bordeaux, ça sera une génération puis deux générations. Donc, M est égal à 2. Puis combien de générations lient le père de I à l'ancêtre commun grand A, petit 2? Donc, une génération entre le père de I et sa grand-mère, puis entre la grand-mère de I et l'arrière-grand-mère.
+
+Donc, ça sera deux générations. Donc, ça sera encore 1,5 à la puissance 5. Quand on fait la somme pour les deux ancêtres, ça sera 1,5 à la puissance 5 plus 1,5 à la puissance 5, ce qui va faire 1 sur 16. Donc, 1 sur 16, c'est le coefficient de consanguinité entre cousins germains.
+
+Maintenant, on va faire le calcul du coefficient de consanguinité entre un oncle et sa nièce. Donc là, c'est un inceste. Donc ici, on a combien d'ancêtres communs? On en a deux.
+
+Regardez la génération 1. Donc, on va faire le calcul pour chacun des deux ancêtres communs. Grand A, 1 et grand A, 2. Maintenant, on va faire le calcul pour grand A, 1. Combien? Donc, on va faire, ça va être 1,5 à la puissance m plus p plus 1. Combien de générations lie la mère de i à l'ancêtre commun grand A, 1? On va calculer la mère de i à sa mère, 1, 2. Donc, on a deux générations qui lie la mère de i au premier ancêtre commun grand A, 1. Combien de générations lie le père de i à l'ancêtre commun grand A, 1? Ça sera une génération. Donc, ça sera 1,5 à la puissance 2 plus 1. Ça veut dire 1,5 à la puissance 4 plus.
+
+On va calculer pour le deuxième ancêtre commun qui est grand A, 2. Combien de générations lie la mère de i à l'ancêtre commun grand A, 2? Ça sera 1, 2. Combien de générations lie le père de i à l'ancêtre commun grand A, 2? Ça sera 1. Et donc, ça sera 1,5 à la puissance 2 plus 1 plus 1. Ça va faire 1,5 à la puissance 4 plus 1,5 à la puissance 4. Donc, ça va faire 1 sur 8. Voici un autre exemple d'union entre apparentés. Mais là, il y a une double consanguinité. D'accord? Donc, combien d'ancêtres communs on a ici? On a A1, A2, A3 et A4.
+
+Donc, on doit calculer 1,5 à la puissance 1 plus P plus 1 à 4 reprises et faire la somme. Donc, si on va prendre pour l'ancêtre commun A1, combien de générations lie la mère de i à l'ancêtre commun A1? 1, 2. Plus combien de générations lie le père de i à l'ancêtre commun A1? Donc, ça sera 1 et 2. Donc, ça sera 1,5 à la puissance 5. On va faire la même chose pour l'ancêtre commun A2. Combien de générations lie la mère de i à l'ancêtre commun A2? Vous calculez 1, 2. Le père de i à l'ancêtre commun A2.
+
+Ça sera également 2. Donc, ça sera 1,5 à la puissance 2 plus 2 plus 1. Donc, 1,5 à la puissance 5 pour l'ancêtre commun A2. La même chose pour l'ancêtre commun A3. Combien de générations lie la mère de i à l'ancêtre commun A3? Donc, vous voyez 1 et 2. Donc, ça sera 1,5.
+
+Ça sera 2. Puis, combien de générations lie le père de i à l'ancêtre commun A3? Donc, 1 et 2. Donc, ça sera 1,5 à la puissance 2 plus 2 plus 1. Donc, 1,5 à la puissance 5 pour l'ancêtre commun A3. Donc, on va calculer pour l'ancêtre commun A4. Combien de générations lie la mère de i à l'ancêtre commun A4? Ça sera 1, 2. Deux générations.
+
+Le père de i à l'ancêtre commun A4. Une génération, deux. Donc, ça sera 1,5 à la puissance 5 également pour l'ancêtre commun A4.
+
+Donc, ça sera 1,5 à la puissance 5 fois 4. Parce que c'est 1,5 à la puissance 5 plus 1,5 à la puissance 5 plus 1,5 à la puissance 5 plus 1,5 à la puissance 5. Donc, ça sera 1 sur 8. Quand il y avait juste des simples cousins germains, le coefficient de consanguinité était de 1 sur 16. Mais quand il y a une double consanguinité de consanguinité, vous voyez. Donc, le coefficient de consanguinité est passé à 1 sur 8. Donc, quand il y a une union entre père-fille, le coefficient de consanguinité est très élevé.
+
+Elle est de 1 sur 4. Quand il y a un inceste suite à une union entre un oncle et sa nièce, elle est de 1 sur 8. Alors, quand il y a un mariage entre cousins germains, le coefficient de consanguinité est plus faible. Il est de 1 sur 16. Mais quand il y a une double consanguinité, double cousins germains, vous voyez.
+
+Le coefficient de consanguinité est élevé. Il est 1 sur 8. Il rejoint celui de l'inceste entre un oncle et sa nièce. Alors, quand on s'éloigne, quand il y a un mariage entre des cousins de deuxième degré, le coefficient de consanguinité va diminuer.
+
+Il est de 1 sur 64. Et quand il y a un mariage entre cousins troisième degré, donc il va en s'affaiblissant puisque le coefficient de consanguinité va descendre jusqu'à 1 sur 256. Maintenant, on va passer au coefficient de parenté petit air.
+
+Le coefficient de parenté petit air, c'est la probabilité pour deux personnes d'avoir un ou plusieurs gènes en commun provenant d'un même ancêtre. D'accord? Donc là, c'est la probabilité pour deux personnes d'avoir un ou plusieurs gènes en commun provenant d'un même ancêtre. Alors que le coefficient de consanguinité, c'est la probabilité pour que deux allèles d'un gène soient identiques par descendance mendélienne.
+
+Le coefficient, il faut savoir que le coefficient de consanguinité d'une personne est toujours la moitié du coefficient de parenté de ses parents. Donc le coefficient de consanguinité f de i est égal à 1 demi le coefficient de parenté. Donc pour calculer le coefficient de parenté, il faut connaître le coefficient de consanguinité.
+
+Si f de i est 1 demi r, ça veut dire le coefficient de parenté r est deux fois le coefficient de consanguinité. Il suffit de calculer le coefficient de consanguinité, le multiplier par 2 pour avoir une idée sur le coefficient de parenté. Là, c'est une question d'examen.
+
+On va prendre comme exemple le coefficient de parenté petit air de deux cousins germains. Puisque le coefficient de parenté est le double du coefficient de consanguinité. Et puisque je vous ai dit tout à l'heure que le coefficient de consanguinité entre cousins germains est 1 sur 16.
+
+C'est un chiffre à retenir par cœur. Donc quel est le coefficient de parenté? Le coefficient de parenté est alors sur 8. Maintenant, quels sont les effets de la consanguinité? Il faut savoir que la consanguinité joue un rôle important dans la manifestation d'affections autosomiques récessives. Car elle se traduit par une augmentation de la proportion relative des homozygotes pour l'allèle pathologique ou l'allèle délétère.
+
+L'effet de la consanguinité est des temps plus sensible que la maladie autosomique récessive est rare. La fréquence des héterozygotes est de l'ordre de 1 sur 50. Donc le risque d'avoir un enfant malade si les parents ne sont pas apparentés.
+
+Comment on va le calculer? Donc si les parents ne sont pas apparentés, quel est le risque que les deux parents soient héterozygotes? On va prendre par exemple la mère. Le risque qu'elle soit héterozygote, on n'a pas une idée. Donc c'est celui de la population générale 1 sur 50 fois le risque que le papa lui aussi soit héterozygote.
+
+C'est celui de la population générale qui est 1 sur 50. Fois le risque d'une maladie, le risque que les deux allèles héterozygotes soient transmises à un enfant qui est 25%, qui est 1 sur 4. Donc ça sera 1 sur 50 fois 1 sur 50 fois 1 sur 4 qui est 1 sur 10 000. Donc voici quand les parents ne sont pas apparentés. 
+
+Il n'y a pas de consanguinité. Maintenant, c'est le même exercice concernant la phénicétonurie quand la fréquence des héterozygotes dans une population est de l'ordre de 1 sur 50. Maintenant, quel est le risque d'avoir un enfant malade atteint de la phénicétonurie en cas de mariage entre cousins germains quand ses parents sont cousins germains? Donc on prend par exemple le papa.
+
+Le risque qu'il soit héterozygote, on n'a pas d'idée. Donc ça sera celui de la population générale 1 sur 50. Mais quel est le risque que sa cousine germaine soit héterozygote comme lui? Donc ça sera le coefficient de parenté 1 sur 8. Donc ça sera 1 sur 50 le risque que le papa soit héterozygote.
+
+Donc que sa cousine germaine soit héterozygote comme lui, ça sera le coefficient de parenté 1 sur 8. Parce que c'est le risque pour que deux personnes soient porteuses des gènes à l'état homozygote. Et le risque que les deux allèles héterozygotes soient transmises à la fois à un enfant qui est de 1 sur 4. Donc ça sera 1 sur 50 fois le coefficient de parenté entre cousins germains qui est de 1 sur 8 fois le risque pour une maladie autosomique récessive qui est 1 sur 4. Donc ça sera 1 sur 1600. Regardez la différence avec l'exemple suivant.
+
+Quand les parents n'étaient pas apparentés, il n'y avait pas de consanguinité. Le risque d'avoir un enfant malade c'était de 1 sur 10000. Mais il suffit que les parents soient cousins germains pour que ce risque-là augmente à 1 sur 1600.
+
+Toujours concernant la phénicétonurie, une maladie autosomique récessive dont la fréquence des héterozygotes dans la population générale est de l'ordre de 1 sur 50. Maintenant, quel est le risque d'avoir un enfant malade si un héterozygote épouse sa cousine germaine? Donc quelle est la différence avec l'énoncé précédent? Ici on sait que le papa, ou plutôt le mari, est héterozygote. Donc il est à 100% héterozygote.
+
+Donc 100% héterozygote ça veut dire 1. On sait qu'il est héterozygote. Il est à 100% héterozygote, ça sera 1. Que sa cousine germaine soit héterozygote comme lui, c'est 1 fois 1 sur 8. Donc pour qu'ils soient tous les deux à la fois héterozygote. Et pour que tous les deux transmettent l'allèle héterozygote, alors enfant ça sera le risque d'une maladie autosomique récessive qui est de 25% qui est égale à 1 sur 4. Donc un héterozygote qui se marie avec sa cousine germaine, donc pour ce cas-là, le risque d'avoir un enfant malade ça sera 1 fois 1 sur 8, 1 sur 8 fois 1 sur 4 qui est 1 sur 32.
+
+Et je rappelle encore une fois, 1 sur 8 c'est la coefficient de parenté entre cousins germains. Donc vous voyez, on est passé de 1 sur 10 000 quand les parents n'étaient pas apparentés et quand les deux, on ne savait pas qu'ils étaient héterozygotes. Mais maintenant que l'un des deux conjoints est héterozygote et qu'il est marié à sa cousine germaine, on est passé à 1. Toujours dans le même cas de la phénylcétonurie.
+
+Maintenant, quel est le risque d'avoir un enfant malade si le frère sain d'un malade épouse sa cousine germaine? Je vais vous expliquer autrement. On a un sujet atteint de la phénylcétonurie. Il a un frère sain, le frère de ce malade atteint de la phénylcétonurie va se marier avec sa cousine germaine.
+
+Quel est le risque pour ce couple-là du frère sain d'un sujet atteint de la phénylcétonurie qui est marié à sa cousine germaine d'avoir un enfant atteint de la phénylcétonurie? Vous vous rappelez, quand on a un sujet qui est atteint d'une maladie autosomique récessive, ça veut dire que les parents sont obligatoirement héterozygotes, sauf de rares, rares, rares exceptions. Donc, retenons qu'on a un enfant atteint d'une maladie autosomique récessive, donc les parents sont hétérozygotes. Donc, ce sujet dans l'énoncé dont le frère est atteint de la phénylcétonurie, lui, il est sain, phénotypiquement sain.
+
+Regardez dans ce schéma-là. Quand les sujets sont phénotypiquement sains, ils ont, dans deux tiers des cas, ils sont hétérozygotes. Et dans un tiers des cas, ils sont homozygotes sains.
+
+Donc, le frère sain d'un sujet atteint d'une maladie autosomique récessive, qui est la phénylcétonurie dans ce cas-là, quel est le risque qu'il soit hétérozygote? C'est 2 sur 3. Donc, ce sujet-là, le frère sain d'un malade épouse sa cousine germaine. On a dit que le frère sain d'un malade atteint d'une maladie autosomique récessive a un risque de 2 sur 3 d'être hétérozygote. Quand il est marié à sa cousine germaine, quel est le risque de la cousine germaine d'être hétérozygote comme son mari? C'est le coefficient de parenté, 1 sur 8. Et que les deux transmettent les deux allèles hétérozygotes à cet enfant-là, c'est 1 sur 4. Donc, ça sera 1 sur 48.
+
+Maintenant, quel est l'apport du conseil génétique en cas de présence d'une consanguinité dans une famille? Donc, pour conseiller ou déconseiller un mariage entre apparentés, il est nécessaire d'estimer le risque après une anamnèse génétique, après avoir dessiné l'arme généalogique et après avoir fait une anamnèse qui a pour but de détecter est-ce qu'il y a présence de certaines maladies dont le risque d'apparition de survenus de nouveaux cas est en rapport avec la consanguinité. Ça nous arrive souvent en consultation de génétique d'avoir des demandes de conseil génétique pour des cousins qui s'apprêtent à se marier. C'est en préconceptionnel.
+
+Le risque d'un mariage entre apparentés dépend de deux choses. Du degré du lien de parenté, qui est le double du coefficient de consanguinité. Donc, pour déconseiller ou conseiller un mariage entre apparentés, il faut d'abord dessiner l'arme généalogique et calculer le coefficient de consanguinité.
+
+Deuxième chose, de l'existence de maladies autosomiques récessives ou multifactorielles dans la famille. Donc, un mariage entre apparentés est jugé à risque si le coefficient de consanguinité est supérieur à 1 sur 16. Ça vous rappelle quoi 1 sur 16? C'est le coefficient de consanguinité entre cousins germains.
+
+C'est pour ça que l'islam n'a pas interdit le mariage entre cousins germains. Et on va déconseiller ce mariage à risque si le coefficient est supérieur à 1 sur 16 avec coexistence des maladies autosomiques récessives ou certaines maladies multifactorielles. J'insiste que certaines maladies multifactorielles, comme certaines psychoses, le trouble bipolaire maniaque ou dépressif, d'autres maladies multifactorielles, le risque va augmenter en fonction du taux de consanguinité.
+
+La même chose que pour les maladies autosomiques récessives. Vous voyez maintenant pourquoi l'inceste a été interdit par les religions monothéites et par plusieurs législations civiles. Parce que le coefficient de consanguinité est supérieur à 1 sur 16.
+
+Vous vous rappelez le coefficient de consanguinité entre, quand il y a un mariage, entre un père et sa fille, il est de l'ordre de 1 sur 4. 1 sur 4 c'est supérieur à 1 sur 16. Quand il y a l'inceste entre un oncle et sa nièce, ou une tante et un neveu, donc qui est de 1 sur 8. 1 sur 8 est supérieur à 1 sur 16. Vous comprenez maintenant pourquoi l'inceste est interdit par les religions et par les législations civiles.
+
+Pour conclure, il est important de mémoriser les quatre conditions d'application de la loi de Hardy-Weinberg, et surtout son application pour les maladies autosomiques récessives. Vous devez être capable de calculer la fréquence génique et génotypique, de connaître la définition de la consanguinité, ses effets secondaires et l'intérêt du conseil génétique. De même, vous devez être capable de calculer le coefficient de consanguinité, le coefficient de parenté et leurs applications pour le conseil génétique.
+
+Je vous remercie pour votre attention.

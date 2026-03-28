@@ -1,0 +1,1007 @@
+Bonjour, je me présente, je suis docteur Arsalan Lamien, professeur de bactériologie-virologie. J'aurai le plaisir de vous enseigner cette année la bactériologie fondamentale. Et je tiens à rappeler qu'en ces circonstances sanitaires particulières, les cours sont en distanciel et des séances interactives live seront également programmées en temps voulu, afin de nous assurer que tout a été assimilé.
+
+Nous restons à votre entière disposition pour répondre à vos questions et éventuellement éclaircir les points qui demeureraient obscurs. On va commencer par une petite introduction à la discipline et quelques généralités. La microbiologie est la science qui permet d'étudier les êtres vivants microscopiques.
+
+Cette définition englobe de nombreux micro-organismes dont les bactéries. Les bactéries sont donc des micro-organismes et la science qui permet de les étudier, c'est la microbiologie et plus exactement la bactériologie. Quel est l'intérêt de cette science ? En fait, l'étude des micro-organismes a permis la compréhension de nombreux phénomènes, notamment dans le domaine médical.
+
+Depuis des années, les micro-organismes génétiquement modifiés sont utilisés pour la synthèse de médicaments comme les antibiotiques ou de vaccins. Mais ce qui nous intéresse surtout, en tant que bactériologiste, ce sont les rapports ou les relations qui établissent les bactéries avec l'homme. L'origine microbienne des maladies infectieuses est connue depuis longtemps et le diagnostic et le traitement de ces maladies passent par l'isolement et l'identification des bactéries impliquées dans les infections.
+
+Nous pouvons donc, grâce à la bactériologie, isoler et identifier les bactéries responsables d'infections humaines et de ce fait diagnostiquer et traiter la maladie. L'histoire de la microbiologie est passionnante et mérite qu'on en dise un petit mot. Au début du XVIIIe siècle, Antonie van Leeuwenhoek fut le premier à observer les bactéries dans l'eau et la salive et il les appela à ce moment animalcules.
+
+Donc c'est ce monsieur qui a observé pour la première fois les bactéries au microscope et a décrit leurs différentes formes. Ce n'est que plus tard, vers la deuxième partie du XIXe siècle, que le rôle des bactéries dans la transmission de certaines maladies infectieuses a été prouvé et que leur étude a commencé. Les scientifiques les plus illustres de cette époque furent Louis Pasteur et Robert Koch qui ont décrit les microbes comme les causes des maladies transmissibles.
+
+En 1928 débute l'ère de la découverte des antibiotiques. Flemming découvre la pénicilline qui sera utilisée 20 ans plus tard en thérapeutique. Les antibiotiques, à partir de cette date, vont véritablement révolutionner le traitement des maladies bactériennes et augmenter l'espérance de vie humaine.
+
+Dans la deuxième moitié du XXe siècle, l'étude et l'utilisation expérimentale des bactéries donnent naissance à la biologie moléculaire qui fera progresser considérablement nos connaissances, notamment en génétique. On a aussi noté, durant cette période, l'émergence de résistances bactériennes à de nombreux antibiotiques. Si l'on s'intéresse à la classification des agents infectieux, les agents infectieux sont soit acellulaires ou non cellulaires, soit cellulaires, c'est-à-dire constitués de cellules.
+
+Parmi les micro-organismes non cellulaires ou acellulaires, nous retrouvons les prions, qui possèdent des caractéristiques différentes de celles des virus, bactéries et parasites usuels. Dans ce cas particulier, l'infection est transmise par une protéine, d'où leur appellation « prion » pour « protein infection ». Les virus sont des micro-organismes acellulaires qui ne peuvent vivre qu'en parasitant une cellule. A l'exception des virus et des prions, les agents infectieux sont tous constitués de cellules, ce sont des êtres vivants cellulaires.
+
+Et selon le type de leur structure cellulaire, on distingue les eukaryotes et les prokaryotes. Parmi les prokaryotes, on retrouve les bactéries. Un petit rappel concernant la structure des cellules eukaryotes que vous connaissez déjà.
+
+Ce sont des cellules de grande taille, avec un vrai noyau, et ce qu'on entend par vrai noyau, c'est qu'il est entouré d'une membrane nucléaire. On note la présence dans le cytoplasme des cellules eukaryotes d'organites tels que les mitochondries ou le reticulum endoplasmique. Les eukaryotes ne sont pas entourées par une paroi et ne possèdent pas de structure annexe telle que les flagelles.
+
+En revanche, les prokaryotes sont des cellules de petite taille. Leur matériel chromosomique est libre dans le cytoplasme et donc n'est pas entouré d'une membrane nucléaire à la différence des eukaryotes. Il n'y a pas d'organite intracytoplasmique comme le reticulum endoplasmique.
+
+Il n'y a pas de mitochondrie non plus. Par contre, les bactéries sont presque toutes entourées par une paroi et possèdent des structures annexes qu'on aura l'occasion de détailler par la suite. Une notion importante à connaître aussi, c'est la taxonomie bactérienne.
+
+La taxonomie bactérienne est la science qui permet de classer, de nommer et d'identifier les organismes vivants en groupes d'affinités ou taxons sur la base de leurs propriétés. On peut ainsi classer les bactéries en familles bactériennes, en genres et en espèces. La nomenclature bactérienne communément adoptée est la suivante.
+
+Une souche bactérienne est nommée en latin de son nom de genre, écrit avec une majuscule suivie du nom d'espèce, écrit en minuscule. L'ensemble du nom s'écrit sans accent, en italique ou souligné dans les textes d'actilographie au manuscrit. Vous avez sur votre slide, en rouge, quelques exemples de noms latins de bactéries.
+
+Vibrio cholerae, Neisseria meningitis ou Staphylococcus aureus. Il faut absolument connaître cette nomenclature si vous voulez éviter par la suite des erreurs en écrivant les noms des bactéries, plus tard dans vos études médicales ou lorsque vous serez praticien. Par ailleurs, en tant que francophone, nous avons aussi recours à une appellation française des bactéries, le méningococ, pour désigner le Neisseria meningitis, par exemple.
+
+Mais retenez que c'est le nom latin de la bactérie qui est universel, en l'occurrence Neisseria meningitis. Nous allons maintenant enchaîner avec le premier cours de bactériologie fondamentale qui est la structure bactérienne. Les bactéries sont des organismes cellulaires, de petite taille, de l'ordre du micron, de structures relativement simples, de formes différentes, douées d'un pouvoir de multiplication autonome et qui présentent des caractéristiques propres.
+
+Les objectifs pédagogiques de ce cours sont de connaître la structure des bactéries, de comprendre les fonctions de chacun des composants bactériens et enfin de comprendre le rôle de chaque structure bactérienne dans la physiopathologie des infections humaines. Afin de répondre aux différents objectifs de ce cours, nous allons adopter le plan suivant. Après une description générale des bactéries, nous allons d'abord détailler les structures obligatoires des bactéries, à savoir la paroi, la membrane cytoplasmique, le chromosome et les ribosomes, puis les structures facultatives ou inconstantes, la capsule, les pilis, les flagelles, les plasmides et les spores.
+
+L'étude de la morphologie bactérienne est le premier acte effectué par un laboratoire. Donc la première chose que l'on fait au laboratoire c'est d'étudier la morphologie des bactéries en les observant au microscope optique. L'observation des bactéries au microscope optique va nous renseigner sur trois éléments importants qui sont la taille de la bactérie, la forme et l'arrangement ou le mode de groupement des bactéries qui sont aussi des critères Les caractères morphologiques à savoir la taille, la forme et le mode de groupement sont en général observés sur des bactéries colorées par la coloration de grammes.
+
+C'est une coloration qui est très utilisée en bactériologie. C'est une technique rapide qui ne prend que quelques minutes mais qui représente une étape indispensable dans le diagnostic bactériologique standard. Pour les bactéries colorées on utilise une lame avec une source de chaleur afin de fixer les bactéries éventuellement présentes puis on réalise la coloration en suivant ces étapes.
+
+On recouvre d'abord notre lame d'un premier colorant le violet de gentian puis on ajoute à la préparation du Lugol pour renforcer l'action du premier colorant. On effectue ensuite un second colorant avec de la fuchine qui est de couleur rouge rose et qui va donc recolorer les bactéries décolorées en rose. Puis on observe au microscope optique certaines bactéries apparaissent violettes ce sont les bactéries à grammes positifs d'autres apparaissent en rose elles sont dites à grammes négatifs.
+
+Tout ceci n'est qu'une description grossière de la technique de la coloration de grammes. Nous aurons l'occasion d'en reparler en détail. D'abord concernant la taille des bactéries elle est de l'ordre du micromètre ce sont des êtres vivants qui sont microscopiques.
+
+Les bactéries ne peuvent être visualisées qu'au microscope et vous avez là quelques exemples de dimensions à titre indicatif juste pour visualiser la différence de taille entre les bactéries et les virus. Les cellules bactériennes les plus communes se présentent sous deux formes ou bacilles et ces bacilles peuvent être de forme régulière ou irrégulière ils peuvent être droits ou bien incurvés. De nombreuses autres bactéries se présentent en forme de sphère ou coque.
+
+On parle de cocci. Les coques ou cocci peuvent se grouper en grappes ou bien en amas comme c'est le cas pour les staphylocoques ou bien se présenter en chaînettes plus ou moins longues c'est le cas des streptocoques. Vous avez là quelques photos de bactéries colorées au gramme et observées au microscope optique.
+
+Certaines bactéries se présentent sous forme de cocci à grains positifs c'est-à-dire colorées en violet parfois regroupées en amas ou parfois isolées ou en diplocoques. À droite du slide on voit des bacilles à grammes négatifs c'est-à-dire des bâtonnets colorés en rose des bacilles à grammes négatifs. L'étude plus poussée de la structure bactérienne se fait grâce au microscope électronique.
+
+La structure de base de toutes les cellules bactériennes est plus simple que celle des eucaryotes. Cette structure comprend des éléments constants ou obligatoires et des éléments facultatifs ou inconstants. Le premier élément essentiel de la structure bactérienne c'est la paroi.
+
+La paroi bactérienne est présente chez toutes les bactéries à l'exception des mycoplasmes. Les mycoplasmes sont une famille bactérienne que vous aurez l'occasion de voir par la suite dans la bactériologie systématique. La paroi est située à l'extérieur de la membrane cytoplasmique.
+
+Elle comporte un composant commun à toutes les bactéries et est une énorme molécule qui entoure la cellule bactérienne à la manière d'un filet rigide. Les fibres du filet sont constituées par une succession d'unités formées chacune d'acides N-acétylmuramique et d'acides N-acétylglucosamine reliés à des chaînes peptidiques. Les propriétés de la paroi bactérienne sont nombreuses et essentielles.
+
+La paroi constitue en effet une structure rigide une sorte de squelette externe qui permet de maintenir la forme de la bactérie et la protège de l'extérieur notamment des variations de pressions osmotiques. La paroi contrôle les entrées des nutriments et la sortie des déchets. La paroi peut subir des remaniements pour permettre la croissance et la division des cellules et c'est aussi au niveau de la paroi qu'agissent de nombreux antibiotiques.
+
+On a dit tout à l'heure que l'étude de la morphologie bactérienne se faisait après observation des bactéries à la coloration de gramme. La plupart des bactéries d'intérêt médical sont donc classées en bactéries à gramme positif et bactéries à gramme négatif et c'est en fait la structure de la paroi qui est à la base de cette coloration. La paroi bactérienne a une structure différente selon qu'il s'agisse de bactéries à gramme négatif.
+
+Lorsque l'on observe des bactéries au microscope électronique on se rend compte que la paroi des grammes positifs est épaisse et homogène. Le composant majeur de la paroi c'est le peptidoglycane. Il est traversé par des chaînes d'acide téchoïque et d'acide lipotéchoïque.
+
+La paroi des grammes négatifs est plus fine et plus complexe. Observé au microscope électronique on distingue trois couches. Le peptidoglycane donc une mince couche de peptidoglycane une membrane externe et l'espace périplasmique.
+
+La couche de peptidoglycane est mince et ses constituants peptidiques présentent des différences par rapport aux grammes positifs. La membrane externe La membrane externe est un composant dans la paroi des bactéries à grammes négatifs. C'est donc un composant caractéristique des grammes négatifs.
+
+C'est une bicouche moléculaire. La membrane externe est formée de deux couches de phospholipides avec une zone hydrophobe entre les deux couches et une polarité hydrophile à l'extérieur. La couche interne de la membrane externe est formée de phospholipides et constituée d'une molécule le lipopolysaccharide ou LPS.
+
+Le LPS c'est donc un composant qui est aussi caractéristique des grammes négatifs puisque la membrane externe n'existe que dans la paroi de ces bactéries. Des protéines variées sont insérées dans la membrane externe. Ces protéines ont pour la plupart des fonctions importantes comme les protéines qui contrôlent le transit à travers la paroi des nutriments et de divers composants dont les antibiotiques.
+
+Le lipopolysaccharide ou LPS comme son nom l'indique est constitué d'une partie lipidique et d'une autre polysaccharidique ou sucrée. La partie lipidique est formée d'une partie enfouie dans la membrane externe le lipide A. En fait, le LPS est très toxique à cause de ce lipide A justement. Il peut être libéré dans la circulation sanguine au cours des infections à grammes négatifs et est parfois responsable de chocs pouvant entraîner le décès du malade dans les cas extrêmes.
+
+La partie sucrée orientée vers l'extérieur comprend une partie constante donc une partie qui est la même pour toutes les bactéries de la chaîne centrale suivie d'une partie qui est constituée de séquences variables selon les souches bactériennes. C'est la chaîne latérale O ou antigène O et c'est cette séquence qui détermine la spécificité antigénique de la molécule. La séquence de cette chaîne O et donc son antigénicité varie d'une souche bactérienne à l'autre.
+
+L'espace périplasmique Chez les grammes positifs l'espace périplasmique correspond à l'espace qui est compris entre la membrane cytoplasmique et le peptidoglycane. Chez les grammes négatifs l'espace périplasmique correspond à l'espace qui est compris entre la membrane cytoplasmique et la membrane externe. Il contient le peptidoglycane et divers enzymes comme des enzymes hydrolytiques qui assurent la nutrition de l'organisme.
+
+La structure de la membrane cytoplasmique n'est observable qu'en microscopie électronique. C'est une double couche donc elle est formée de deux couches de phospholipides. Les deux couches sont accolées par leur partie hydrophobe donc ménageant un espace hydrophobe à l'intérieur.
+
+Des protéines sont associées à cette double couche. Certaines protéines sont dites extrinsèques elles sont associées à la partie externe qui est hydrophile de l'une des monocouches de phospholipides et d'autres protéines sont dites intrinsèques parce qu'elles sont insérées dans la partie hydrophobe de la double couche grâce à une zone hydrophobe. Concernant les fonctions de la membrane cytoplasmique la partie interne de la membrane supporte les enzymes de la chaîne respiratoire et leurs coenzymes.
+
+La membrane est ainsi l'équivalent fonctionnel des myctocondries eukaryotes. La membrane contient aussi des protéines capables d'interagir avec des substances extérieures et de fournir ainsi à la cellule des informations sur l'environnement dans lequel elle se trouve. Ces récepteurs interviennent dans l'activité de certains antibiotiques.
+
+La cellule bactérienne possède un seul chromosome qui est constitué d'un filament unique d'ADN bicaténaire continu et circulaire. Le chromosome bactérien n'est pas séparé du cytoplasme par une membrane nucléaire comme chez les eukaryotes. Il est situé dans le cytoplasme dans une région appelée nucléoïde.
+
+Les ribosomes bactériens sont des organites de quelques nanomètres qui sont anti-antibiotiques soit libres dans le cytoplasme soit attachés à la membrane plasmique. Les ribosomes représentent une cible d'activité de nombreux antibiotiques comme les cyclines, les macrolides et les aminoglycosides. Nous avons détaillé les structures obligatoires des bactéries.
+
+Maintenant nous allons voir les structures facultatives. certaines bactéries possèdent des structures constituant l'ultime interface avec l'extérieur. Certaines de ces structures sont les capsules. 
+
+Les capsules sont facilement mises en évidence au microscope optique après coloration. La capsule apparaît sous forme d'un halo clair ou espace clair qui entoure la bactérie. Sur la photo vous pouvez voir des coccies à grammes positifs donc regroupées par deux donc en diples coques entourées de capsules et les capsules ce sont en fait les espaces clairs ou halo clairs entourant les coccies. 
+
+Alors les propriétés de cette capsule sont importantes. La capsule entoure la bactérie et lui confère une résistance à l'action des phagocytes mais aussi à certains toxiques comme les détergents. La capsule est donc un important facteur de virulence qui s'oppose à la phagocytose. 
+
+Les capsules sont aussi antigéniques avec des spécificités très variables. Elles confèrent ainsi une spécificité antigénique à la bactérie. Deuxième élément inconstant de la structure bactérienne ce sont les pilis. 
+
+Les pilis sont des structures visibles seulement en microscopie électronique. Il en existe deux types les pilis communs et les pilis sexuels. D'abord concernant les pilis communs ils sont formés de sous-unités protéiques pilines et adhésives et forment des filaments tout autour de la bactérie. 
+
+Ces pilis sont présents uniquement chez les grammes négatifs. Les pilis forment une sorte de fourrure à la surface de la bactérie comme vous pouvez le voir sur la photo à gauche de votre écran. C'est une photo qui est prise en microscopie électronique de Echerichia coli.
+
+Vous pouvez noter la forme bacillaire de la bactérie et tout autour on arrive à déceler distinctement les pilis communs qui entourent la bactérie. De fins et de filaments tout autour de la bactérie. Ce sont les pilis communs. 
+
+Les pilis communs sont d'importants facteurs de pathogénicité. Ils interviennent fréquemment dans les phénomènes d'adhésion des bactéries aux muqueuses ce qui conditionne leur pouvoir pathogène. Les pilis communs s'opposent à la phagocytose donc les pilis ce sont des facteurs de virulence sont présents uniquement chez les grammes négatifs. 
+
+Les pilis sexuels sont peu nombreux au nombre de 1 à 4 par cellule. Ils sont plus épais et plus longs que les pilis communs et ont une extrémité renflée. Les pilis sexuels sont codés par des plasmides ou facteurs F. Ils jouent un rôle essentiel dans l'attachement des bactéries entre elles et interviennent dans les échanges génétiques entre cellules bactériennes notamment au cours de la conjugaison. 
+
+Donc la conjugaison c'est un transfert de gènes entre bactéries. Donc vous voyez sur cette photo prise toujours en microscopie électronique on voit deux bactéries attachées ou bien reliées par ce pilus sexuel. On arrive aussi à distinguer les pilis communs donc c'est une belle photo on arrive à voir en même temps et les pilis communs et le pilus sexuel. 
+
+Les flagelles ce sont des organes locomoteurs des bactéries donc qui permettent aux bactéries de se déplacer. Il s'agit de longs filaments très fins visibles toujours en microscopie électronique et qui sont formés de sous-unités protéiques la flagelline. Ces flagelles peuvent être nombreux et implantées sur l'ensemble du pourtour cellulaire. 
+
+On parle alors d'une disposition péritriche donc disposée tout autour de la bactérie système péritriche ou en nombre réduit voire unique bactéries monotriches implantées à l'un des pôles cellulaires. Pour la disposition amphitriche les deux flagelles sont disposées de part et d'autre de la bactérie. La disposition lophotriche on retrouve on retrouve une touffe de flagelles à une extrémité de la bactérie. 
+
+Une autre structure facultative ce sont les plasmides. Les plasmides ce sont des molécules d'ADN bicaténaire généralement circulaire extrachromosomique et douée de réplication autonome. Les plasmides codent pour une meilleure adaptabilité au milieu extérieur. 
+
+Il en existe plusieurs types des plasmides conjugatifs, des plasmides de résistance aux antibiotiques et des plasmides de métabolisme. Dernier élément facultatif de la structure bactérienne c'est la spore. La spore est une forme de résistance aux conditions défavorables de vie et selon la situation de la spore à l'intérieur de la cellule on distingue les spores centrales, subterminales ou terminales. 
+
+Pour conclure la structure bactérienne comporte des éléments obligatoires comme la paroi, la membrane cytoplasmique, le chromosome et les ribosomes et des éléments qui sont facultatifs ou non obligatoires comme la capsule, les pili, les flagelles et les plasmides. La connaissance de cette structure bactérienne est à la base de la classification bactérienne. Elle permet la compréhension des mécanismes physiopathologiques et du mode d'action des bactéries.
+
+Bonjour, le cours d'aujourd'hui est intitulé physiologie bactérienne. Les objectifs de ce cours sont de connaître les conditions nutritionnelles et environnementales nécessaires aux bactéries pour survivre et se multiplier, connaître les phénomènes de croissance et de division bactérienne et de comprendre les principes et les étapes du diagnostic bactériologique. Pour traiter ce cours nous allons adopter le plan suivant. 
+
+Dans une première partie nous allons décrire les principaux éléments de la physiologie bactérienne à savoir les besoins nutritifs et les conditions environnementales nécessaires à la survie à la division des bactéries. Parallèlement nous verrons comment est-ce qu'on peut mettre à profit ces propriétés pour réaliser le diagnostic bactériologique. Dans la partie suivante nous allons détailler les principes de la division bactérienne et la dynamique de leur croissance et même chose nous verrons comment ceci s'applique au diagnostic.
+
+La physiologie bactérienne est la science des fonctions et des constantes du fonctionnement normal des bactéries. Cette science va permettre d'optimiser les conditions d'analyse des bactéries mais aussi d'identifier les moyens les plus efficaces pour lutter contre la prolifération. Comme on vient de dire on va commencer par détailler les éléments de la physiologie bactérienne. 
+
+La bactérie est un être vivant et comme tout être vivant une bactérie doit trouver dans son environnement de quoi satisfaire ses besoins nutritifs et des conditions physico-chimiques pour assurer sa survie et sa croissance. D'abord concernant les besoins nutritifs. Les bactéries sont des micro-organismes vivants. 
+
+Elles doivent trouver dans l'environnement l'ensemble des substances nécessaires à leur énergie et leur synthèse cellulaire. Les besoins nutritifs sont très variables suivant les bactéries mais certains besoins de base sont communs. Ces besoins nutritifs de base comprennent une source d'énergie.
+
+L'énergie est nécessaire pour se déplacer, pour les bactéries mobiles, se diviser ou encore pour les transports à travers les parois et les membranes. Les bactéries tirent leur énergie de l'oxydation de substrats organiques comme les sucres. Les bactéries ont besoin d'une source de carbone. 
+
+Les bactéries que l'on rencontre en pathologie infectieuse sont des bactéries dites hétérotrophes, c'est à dire des bactéries ayant besoin d'un apport de carbone sous forme organique, en général sous forme de sucre. Toutefois l'addition de CO2 dans l'atmosphère améliore souvent la croissance des bactéries. Cette propriété est importante, il faut vous en souvenir pour comprendre plus tard pourquoi le fait d'ajouter du CO2 favorise la croissance des bactéries lorsqu'on cherche à les isoler.
+
+C'est justement parce qu'elles en utilisent le carbone. Les bactéries nécessitent une source d'azote, le plus souvent c'est l'azote ammoniacal qui est utilisé. Certaines espèces peuvent utiliser les nitrates ou des acides aminés. 
+
+Le phosphore est aussi indispensable à la synthèse des acides nucléiques. Les oligo-éléments, le fer en particulier, est nécessaire à la synthèse d'enzymes comme les cytochromes. Tous les éléments que l'on vient de citer, à savoir les sucres, le CO2, les acides aminés, etc, sont des métabolites essentielles, c'est à dire indispensables au métabolisme de la bactérie. 
+
+En plus de ces besoins de base, un certain nombre de bactéries exigent pour leur croissance l'apport dans le milieu extérieur de molécules organiques dont elles ne savent pas faire la synthèse. Ces molécules sont appelées facteurs de croissance. Il peut s'agir de vitamines ou d'acides aminés ou autres. 
+
+Un facteur de croissance est donc un métabolite essentiel que la bactérie ne sait pas synthétiser. Il est rarement fourni par l'extérieur. En bactériologie, on met à profit les propriétés et les besoins nutritifs des bactéries pour pouvoir identifier la bactérie responsable d'une maladie donnée. 
+
+Le bactériologiste va donc pouvoir isoler la bactérie en lui fournissant ses besoins nutritifs, c'est la mise en culture des bactéries. Un milieu de culture est une préparation au sein de laquelle des micro-organismes peuvent se multiplier. Il doit donc satisfaire les exigences nutritives du micro-organisme étudié, ce qui implique couvrir les besoins en ions minéraux en facteurs de croissance, apporter une source de carbone et d'énergie et présenter un pH voisin du pH optimal. 
+
+Le milieu de culture, comme on a dit, doit apporter les éléments nutritifs ou nutriments élémentaires à la bactérie. Une grande variété de milieux de culture a été développée, soit pour isoler les bactéries, soit pour étudier leur caractère nutritionnel ou métabolique. Ces milieux de culture peuvent être soit liquides, sous forme de bouillons, ou solides. 
+
+Les milieux liquides sont à base de bouillons de viande ou d'hydrolyses à protéiques. Les milieux solides sont obtenus par l'addition de gélose, un extrait d'algues qui a la propriété de fondre à ébullition et de se solidifier à des températures inférieures à 40 degrés. Les milieux de culture gélose et solide sont largement plus utilisés que les milieux liquides.
+
+Beaucoup de milieux de culture sont maintenant disponibles dans le commerce. Les compositions de ces milieux est déterminée par leur usage et par les exigences de croissance des bactéries à cultiver. Certains milieux sont non sélectifs et plutôt enrichis. 
+
+Donc ce sont des milieux enrichis qui ont été obtenus en incorporant un milieu de base adéquat des liquides ou suspensions riches en molécules organiques diverses comme du sang, du sérum, du liquide d'acide, de l'extrait globulaire ou encore des suppléments polyvitaminiques. Ces milieux enrichis vont donc permettre la pousse de nombreux germes exigeants ou très exigeants. Les plus utilisés sont la gélose au sang frais et la gélose au chocolat. 
+
+Vous pouvez voir sur la photo une gélose au sang frais donc comme son nom l'indique est obtenue à partir de sang, de sang frais. La gélose au chocolat en fait ce n'est pas du chocolat c'est du sang cuit. Donc la gélose au chocolat elle est préparée à partir de sang cuit.
+
+Un autre type de milieu ce sont les milieux sélectifs d'isolement. Les milieux sélectifs en revanche sont des milieux empêchant la culture de certains micro-organismes. Ils sont utilisés pour l'isolement d'un type bactérien bien précis dans des produits qui sont polymicrobien. 
+
+En ajoutant au milieu une ou plusieurs substances inhibitrices on obtient un milieu qui ne permettra la croissance que d'espèces résistantes à ces inhibiteurs. Un exemple de ce type de milieu sélectif c'est le milieu de Chapman. Ce milieu contient une forte concentration en MACL qui ne permettra que la pousse des staphylocoques et va inhiber la pousse des autres bactéries. 
+
+Donc ce n'est qu'un exemple le milieu de Chapman il en existe bien d'autres. La première étape du diagnostic bactériologique proprement dit c'est l'ensemencement du produit pathologique reçu. Alors comment se fait cet ensemencement ? Sur une boîte de pétri adapté on va déposer une goutte du produit à analyser puis on l'étale à la surface de la gélose donc comme vous pouvez le voir sur les photos soit à l'aide d'une anse de platine ou d'une pipette plastique on peut aussi utiliser des écouvillons donc selon le type de prélèvement. 
+
+L'ensemencement bien sûr est effectué dans des conditions d'asepsie rigoureuses à partir d'un prélèvement. Les besoins énergétiques et nutritionnels étant satisfaits la bactérie ne peut survivre et se multiplier que si un certain nombre de conditions environnementales sont réalisées. Première condition environnementale c'est la température, la température d'incubation. 
+
+Il faut savoir que la plupart des bactéries pathogènes pour l'homme se développe à une température optimale de 37 degrés parce que tout simplement ça correspond à la température du corps humain mais pour certaines la température est de l'ordre de 30 degrés. Certaines bactéries comme Listeria continuent à se multiplier à des températures basses, proches de zéro degré. Les températures élevées sont incompatibles avec la survie des bactéries et ceci est à la base même du principe de stérilisation par la chaleur. 
+
+C'est connu les bactéries ne résistent pas aux fortes chaleurs. Le pH, la plupart des bactéries se développent préférentiellement à des pH voisins de la neutralité. Cependant il y a toujours des exceptions. 
+
+Certaines espèces comme le vibrillon du choléra poussent bien sur milieu alcalin. La pression osmotique, grâce à leurs parois les bactéries sont relativement tolérantes aux variations de pression osmotique. Toutefois des concentrations élevées de NACL ou de sucre inhibe la croissance bactérienne.
+
+Et oui les bactéries n'aiment pas trop le sel ni le sucre et d'ailleurs ces procédés sont utilisés pour la conservation de ses aliments comme le miel. Le miel c'est connu, il peut se conserver une longue période même sans être stocké au réfrigérateur. Un autre élément important également c'est la teneur en oxygène du milieu. 
+
+Certaines bactéries sont aérobistrictes c'est à dire qu'elles ne se développent qu'en présence d'air. Leur source principale d'énergie est la respiration. C'est le cas du pseudomonas ou de l'acinétobactère. 
+
+D'autres bactéries sont aéro-anaérobi-facultatives, elles se développent avec ou sans air. C'est le cas de la majorité des bactéries rencontrées en pathologie médicale. C'est le cas des entérobactéries, des streptococques ou des staphylococques. 
+
+Les bactéries anaérobistrictes ne se développent qu'en absence totale ou presque d'oxygène qui est le plus souvent toxique. Ces bactéries doivent se cultiver sous atmosphère réductrice. La totalité de leur énergie est produite par fermentation. 
+
+C'est le cas du clostridium. Alors toutes les bactéries que je cite, que je viens de citer, vous aurez l'occasion d'en voir en bactériologie systématique. Au laboratoire les systèmes qui permettent la création d'atmosphères d'incubation sont appelés des jarres. 
+
+Ce sont des enceintes stériles où l'on place les boîtes de culture. Ces jarres vont permettre de maintenir l'atmosphère soit anaérobie soit enrichie en co2. Et pour la recherche des germes aérobie, les boîtes sont disposées directement, c'est à dire qu'on n'a pas recours à ces jarres. 
+
+Pour faire pousser les bactéries, le bactériologiste utilise des étuves. Ce sont des incubateurs où la température d'incubation intérieure est réglable. Ces systèmes permettent de maintenir une température stable durant toute la période d'incubation. 
+
+Les étuves sont ainsi réglées à une température de 37 degrés. 37 degrés, on a dit, c'était la température de prédilection de la plupart des bactéries d'intérêt médical, c'est à dire pathogènes pour l'homme. Donc une fois que l'on a ensemencé notre prélèvement et que l'on a mis nos boîtes ensemencées dans des jarres afin de garantir une atmosphère convenable, on dépose ces jarres dans des étuves avec une température de 37 degrés. 
+
+C'est l'étape d'incubation qui va durer de 18 à 24 heures. En d'autres termes, on laisse nos jarres dans l'étuve et ce n'est que le lendemain que l'on ressort nos boîtes pour observer la pousse éventuelle des bactéries. Nous avons détaillé les éléments de la physiologie bactérienne.
+
+Nous allons à présent décrire les principes de la division bactérienne et de la dynamique de leur croissance et voir comment tout ceci s'applique au diagnostic bactériologique et au traitement de l'infection. Dans un milieu convenable, c'est à dire lorsque les conditions sont favorables, les bactéries croissent et se multiplient. En fait, les bactéries se divisent par ce qu'on appelle sissiparité ou croissance binaire. 
+
+La division cellulaire aboutit à la production de deux cellules identiques à partir d'une cellule mère. Alors quelles sont les étapes de cette division cellulaire ? Il y a d'abord un accroissement du volume cellulaire, puis une duplication du chromosome bactérien grâce à la réplication de l'ADN, puis un septum transversal est formé au milieu de la cellule, aboutissant à la formation de deux cellules phi, donc à la séparation des deux cellules phi. Donc les bactéries, quand elles se trouvent dans un milieu propice, elles peuvent se multiplier à une allure qui est parfois vertigineuse et une population de bactéries peut doubler en quelques minutes. 
+
+Alors vous avez là quelques notions, donc quelques définitions à connaître. Le temps de génération, c'est le temps nécessaire à une bactérie pour se diviser. Il correspond donc au temps nécessaire pour qu'une population de cellules double en nombre. 
+
+Ce temps est très variable selon les espèces de bactéries et selon aussi les conditions environnementales. Au laboratoire, dans des conditions idéales, il est par exemple de 20 à 40 minutes pour Echerichia coli et ce temps de génération, il va jusqu'à 240, donc de 200 pour Mycobacterium tuberculosis. Alors je répète, toutes ces bactéries, vous les reverrez en bactériologie systématique. 
+
+Echerichia coli, on en parle souvent, vous l'avez remarqué, c'est une bactérie qui est largement impliquée dans les infections humaines, notamment dans les infections. Le Mycobacterium tuberculosis, comme son nom l'indique, est responsable de tuberculose. Alors toutes ces valeurs que vous avez ne sont qu'à titre indicatif. 
+
+Inutile de les retenir. Sachez seulement que le temps de génération est différent d'une espèce bactérienne à une autre. Quelle est la conséquence de ce délai de croissance variable selon les bactéries ? Et bien tout simplement, le délai d'obtention des colonies bactériennes visibles sur nos milieux de culture sera différent. 
+
+A titre d'exemple, une colonie de Echerichia coli peut apparaître après 18 à 24 heures d'incubation, alors qu'une colonie de Mycobacterium tuberculosis peut n'apparaître qu'après plusieurs semaines. Et donc ce délai d'obtention des colonies va conditionner le délai de diagnostic de l'infection. Il nous faut 48 heures pour diagnostiquer une infection urinaire par examen cytobactériologique des urines. 
+
+Il faut en fait 24 heures pour isoler la bactérie et 24 heures pour l'identifier. Heureusement l'examen direct des prélèvements après coloration est là pour nous fournir rapidement des informations intéressantes. Et il existe actuellement d'autres niques de diagnostic bactériologique basées sur la biologie moléculaire, qui sont des techniques très rapides mais plus coûteuses. 
+
+Si l'on s'intéresse à la dynamique de croissance, la croissance d'une population bactérienne dans un milieu de culture liquide non renouvelé peut être observée dans le temps. Les cellules se divisent et leur nombre augmente avec le temps. Si on relève le nombre de bactéries à différents intervalles au cours de la croissance, on obtient une courbe qui se caractérise par plusieurs phases. 
+
+Une première phase dite de latence. Cette phase correspond à une période d'adaptation de la bactérie au milieu. Elle est d'autant plus longue que la souche est moins adaptée et que l'innoculum initial est faible. 
+
+La phase 2 est une phase d'accélération. Le taux de croissance augmente régulièrement. Au cours de la phase exponentielle de croissance, les bactéries se développent de façon maximale avec un taux de croissance maximal et constant. 
+
+Pendant cette phase, chaque cellule se divise à peu près à la même vitesse. Après une phase transitoire de ralentissement, le nombre de bactéries n'évolue plus. C'est la phase stationnaire. 
+
+Les divisions bactériennes qui se font encore sont compensées par la mort de bactéries. La phase de décélération correspond au début d'épuisement du mur. Les nutriments commencent à manquer et les déchets deviennent toxiques. 
+
+La dernière phase est la phase de mortalité ou de déclin. Les bactéries ne se divisent plus. Elles meurent, elles sont lisées. 
+
+Le milieu de culture n'apporte plus les conditions nécessaires au développement des bactéries. On observe une courbe de décroissance exponentielle progressive. Sur un milieu de culture solide, chaque bactérie va pouvoir se multiplier sur place jusqu'à former au bout de 24 à 48 heures un amas de bactéries visibles à le nu que l'on appelle colonies. 
+
+Donc c'est ce que vous voyez sur cette photo. C'est un milieu de culture solide, une gélose au sang où l'on voit apparaître après 24 heures d'incubation des colonies. Donc par ici vous avez des colonies qui sont isolées et par là les colonies sont tellement nombreuses qu'elles ont conflué et forment une sorte de nappe.
+
+Donc la pousse bactérienne sur milieu solide se traduit par l'apparition de colonies. En milieu liquide, les bactéries se dispersent librement et leur multiplication se traduit par l'apparition de troubles, le plus souvent homogène. Alors au départ le liquide était clair, donc le milieu de culture était limpide. 
+
+Après 18 heures d'incubation et donc multiplication des bactéries, le milieu est devenu trouble. Vous avez sur ce slide des photos de culture réalisées à partir d'urine pour celui-ci et à partir de prélèvements bronchiques incubés 24 heures à 37 degrés. Et donc voilà vous voyez de nombreuses colonies sur les deux boîtes témoignant de la présence d'une grande quantité de bactéries dans les prélèvements. 
+
+Une fois que l'on a isolé les bactéries vient ensuite l'étape d'identification. Pour identifier les bactéries on utilise des mini galeries comportant des milieux destinés à mettre en évidence des activités métaboliques ou enzymatiques. Ces milieux contiennent des substrats déshydratés, soit de sucre, soit de substrats d'enzyme.
+
+Lorsqu'on ajoute à ces milieux une suspension bactérienne, les réactions produites pendant la période d'incubation se traduisent par des virages des indicateurs colorés et donc des changements de couleur. Par exemple ce milieu contenant du rhamnose comme seul sucre et un indicateur de pH permet de savoir si une souche fermente le rhamnose. L'apparition d'acide de fermentation va acidifier le milieu et faire virer l'indicateur. 
+
+Donc initialement la cupule était bleue mais après incubation de la suspension bactérienne, donc après contact des bactéries avec le sucre, on aura un virage, une acidification du milieu bien sûr, et donc un virage de l'indicateur coloré qui était bleu et qui devient jaune. Donc on peut être sûr que la bactérie est capable de dégrader le rhamnose. De très nombreux milieux de ce type ont été développés et sont aujourd'hui inclus dans des galeries d'identification miniaturisées utilisables dans des automates d'identification comme vous pouvez voir sur la photo. 
+
+Un automate d'identification qui est très utilisé pour l'identification bactérienne mais aussi pour réalisation d'antibiogrammes. Voilà vous avez sur ce slide plusieurs profils métaboliques et enzymatiques correspondant chacun à une espèce bactérienne donnée. Donc grâce à ces profils on peut identifier de façon certaine le nom du genre et de l'espèce de la bactérie. 
+
+Vous avez à titre d'exemple donc ici vous avez le Proteus vulgaris, le Proteus mirabilis, Echerichia coli et Providentia. Toutes ces bactéries ce sont des entérobactéries que l'on verra par la suite. Certes il est essentiel d'identifier la bactérie mais il ne faut pas oublier que notre objectif final c'est de traiter l'infection en utilisant un antibiotique adapté. 
+
+Ceci est possible grâce à la réalisation d'un antibiogramme. Pour réaliser un antibiogramme le milieu universellement utilisé c'est le milieu de Mullerinton. Donc ce que vous voyez donc c'est un milieu de Mullerinton qui existe sous forme de boîtes rondes ou bien sous forme de boîtes carrées. 
+
+On commence par ensemencer uniformément la surface de la gélose avec une suspension de la bactérie à étudier puis on utilise la technique standard de diffusion ou technique des disques. Cette technique consiste à utiliser des disques de papier imprégnés de différents antibiotiques à tester. Les disques sont déposés à la surface de la gélose donc tout ce que vous voyez là ce sont des disques et chaque disque correspond, sont des disques de papier, chaque disque correspond à un antibiotique donné. 
+
+Après 18 heures d'incubation chaque antibiotique va diffuser à partir du disque. Il va y déterminer un gradient de concentration. Les bactéries vont se multiplier, elles vont croître sur toute la surface de la gélose sauf là où elles rencontrent une concentration en antibiotiques suffisante pour inhiber leur croissance.
+
+On observe ainsi autour des disques une zone circulaire indemne de colonies bactériennes appelées zones d'inhibition. Plus le diamètre de cette zone est grand plus la souche est sensible. Donc c'est ce que vous voyez autour de ce disque il n'y a pas de colonies qui ont poussé alors que par là on remarque qu'il y a une pousse bactérienne c'est à dire qu'on a des colonies qui ont poussé. 
+
+Elles étaient tellement nombreuses qu'elles ont conflué et c'est pour ça que l'on voit juste une nappe on n'arrive pas à distinguer les différentes colonies mais là il y a une pousse bactérienne alors que là vous voyez qu'il n'y a pas de c'est tout à fait clair il n'y a pas de pousse autour de ce disque on peut dire que la bactérie est sensible à cet antibiotique. C'est valable pour celui-ci aussi et pour tous les autres. Alors qu'autour de celui là vous voyez qu'il n'y a pas d'espace clair donc la bactérie a pu pousser autour du disque c'est à dire que cette bactérie est résistante à cet antibiotique. 
+
+Donc là il s'agit d'une souche résistante à l'antibiotique testé alors que pour celui-ci ou bien pour celui là la souche est sensible à l'antibiotique. En conclusion, comme tout être vivant les bactéries nécessitent des nutriments et des conditions environnementales adéquates pour survivre et se multiplier. La connaissance de la physiologie bactérienne permet aux microbiologistes l'isolement et l'identification des bactéries. 
+
+L'étude de la sensibilité aux antibiotiques est une étape essentielle afin de traiter convenablement le malade. Bonjour tout le monde, notre cours d'aujourd'hui va porter sur la génétique bactérienne. A la fin de ce cours vous devriez être en mesure de connaître les spécificités ou les particularités du génome bactérien, de connaître les modes de plasticité du génome bactérien c'est à dire les variabilités du génome de la bactérie qui sont les mutations, les transferts génétiques entre bactéries et les remaniements ou recombinaisons intragenomiques. 
+
+En introduction commençons par rappeler quelques définitions. Le génome bactérien c'est l'ensemble des gènes présents sur le chromosome. Souvenez-vous les bactéries possèdent un chromosome unique qui est une molécule d'ADN circulaire mais le génome c'est aussi les structures génétiques extrachromosomiques, les plasmides. 
+
+La génétique bactérienne permet l'étude du génome bactérien et de sa variabilité. Au cours de la réplication de l'ADN des événements génétiques accidentels qui modifient le génome peuvent survenir et des caractères peuvent alors apparaître ou disparaître dans la descendance de la cellule. Ces phénomènes sont appelés variations génétiques.
+
+L'étude de la génétique bactérienne présente un grand intérêt dans le domaine médical. Elle constitue en effet un outil de recherche. A titre d'exemple il est possible de comparer le matériel génétique de bactéries isolées lors d'une suspicion d'épidémie pour déterminer s'il s'agit d'une diffusion anormale de la souche bactérienne ou s'il s'agit de bactéries différentes. 
+
+Et à propos de la pandémie du SARS-CoV-2 actuelle, c'est l'étude du génome du virus qui a permis de trancher que c'est la même souche virale qui circule à travers le monde à quelques petites différences près, c'est-à-dire que des petites différences mineures ont été notées dans la séquence génétique du coronavirus selon les régions du monde. Un autre exemple d'application de la génétique bactérienne c'est le diagnostic des infections. La génétique bactérienne permet l'identification des bactéries et la recherche des gènes de résistance aux antibiotiques.
+
+Nous allons procéder comme suit. Dans une première partie nous allons décrire brièvement la structure du chromosome bactérien et sa réplication. Dans la partie suivante nous allons voir les différents types de variations génétiques et qui sont les mutations, les transferts de gènes entre les bactéries et les recombinaisons intragenomiques.
+
+Nous allons donc commencer par décrire la structure et la réplication de l'ADN. D'abord des petits rappels. L'ADN ou acide désoxyribonucléique est un polymère de nucléotides. 
+
+C'est le siège de l'information de la cellule et la séquence des nucléotides détermine la séquence des acides aminés dans les protéines codées par l'ADN. Les ARN ou acides ribonucléiques sont monobrancs. Ils sont formés d'une seule chaîne. 
+
+Ils permettent l'exécution de la synthèse protéique. Selon le modèle de Watson et Crick, une molécule d'ADN est formée de deux chaînes polynucléotidiques complémentaires et antiparallèles. Les deux chaînes sont liées entre elles par des liaisons hydrogènes entre les bases et s'enroulent comme une échelle de cordes autour d'un axe imaginaire. 
+
+Pour des raisons stéréochimiques, à une base donnée ne se lie pas n'importe quelle autre base. On a toujours les liaisons AT et GC. Il s'ensuit que la séquence des nucléotides d'une chaîne polypepsidique détermine la séquence de l'autre.
+
+La réplication de l'ADN bactérien se fait selon le mode semi-conservatif, c'est à dire qu'un des brins sert de matrice pour néosynthétiser le brin complémentaire. La réplication du chromosome fait intervenir des ADN polymérases. La synthèse des protéines se fait après transcription qui aboutit à la synthèse de l'ARNM, l'ARN messager, qui a la même séquence que celle du brin d'ADN sans ou codon grâce à l'ARN polymérase ADN dépendante, puis la traduction de l'ARNM en protéines au niveau des ribosomes. 
+
+La traduction de l'ADN est sous la dépendance du code génétique. Chaque acide aminé est codé par un triplé de nucléotides. Le code génétique est universel, c'est le même pour tous les êtres vivants. 
+
+La réplication de l'ADN et la synthèse des protéines se font de la même manière chez les prokaryotes que chez les eukaryotes, mais le matériel génétique des prokaryotes présente certaines spécificités. Alors quelles sont ces particularités ? Chez les prokaryotes, le chromosome est situé dans une région appelée nucléoïde. Il n'est pas entouré d'une membrane nucléaire. 
+
+Le temps de génération des cellules bactériennes est court. Les bactéries se multiplient rapidement, ce qui va permettre une expérimentation facile. Chez les bactéries, la reproduction se fait par division binaire ou sissiparité, ce qui permet l'obtention facile de clones. 
+
+De plus, la structure des gènes bactériens est beaucoup plus simple que celle des gènes eukaryotes. Chez les bactéries, la totalité du génome est codante. Il n'existe pas comme chez les eukaryotes d'un tronc. 
+
+Portion non traduite. Au cours de la réplication d'ADN, des événements génétiques accidentels qui modifient le génome peuvent survenir et des caractères peuvent alors apparaître ou disparaître dans la descendance de la cellule. Ces phénomènes sont appelés variations génétiques. 
+
+Ces variations génétiques sont de trois types chez les bactéries. Les mutations, l'acquisition d'ADN exogène et les remaniements intragenomiques. Le premier type d'accident génétique est la mutation. 
+
+La mutation survient à la suite d'une anomalie de la réplication de l'ADN. La modification du génome concerne un ou quelques nucléotides seulement. Une mutation peut s'accompagner de l'apparition ou de la disparition brutale et héréditaire d'un caractère. 
+
+C'est le changement brusque et spontané d'un caractère, changement transmissible héréditairement. Certaines mutations sont létales. D'autres permettent une meilleure adaptation aux conditions du milieu extérieur. 
+
+Quand la mutation n'intéresse qu'un seul nucléotide, on parle de mutation ponctuelle. Le mécanisme le plus souvent en cause est la substitution d'un nucléotide par un autre au moment de la réplication de l'ADN. La mutation faux sens, une base est remplacée par une autre qui lui est complémentaire. 
+
+Il va en résulter l'apparition d'un autre triplé qui va coder pour un autre acide aminé. Dans la mutation non sens, la mutation aboutit à la formation d'un coup dans le stop qui va causer un arrêt de la synthèse des acides aminés. Pour la mutation silencieuse, le triplé qui apparaît après la mutation code pour le même acide aminé, donc elle va passer inaperçue. 
+
+Il peut s'agir aussi d'un gain ou d'une perte, soit alors c'est une délétion ou bien c'est une insertion de nucléotides ou d'un décalage du cadre de lecture. Il existe un autre type de mutation, donc autre que les mutations ponctuelles, qui sont les mutations dynamiques qui vont causer la modification de plusieurs paires de bases. Les caractères de la mutation sont importants à connaître. 
+
+Les mutations sont caractérisées d'abord par leur rareté. La probabilité d'apparition d'une mutation entre deux divisions est faible, elle est de l'ordre de 10-6 à 10-7, c'est à dire le taux de mutation est de l'ordre de 10-6. En d'autres termes, un taux de mutation de 10-6 signifie qu'au sein d'une population bactérienne de 10 puissant 6 cellules, seul un mutant spontané apparaîtra pour un caractère donné. 
+
+Les mutations sont aussi caractérisées par leur spontanéité. La variation génétique est totalement spontanée. Par exemple, on peut citer donc à titre d'exemple le cas des antibiotiques. 
+
+Les antibiotiques ne provoquent pas l'apparition de mutants résistants mais ils agissent seulement en sélectionnant ces mutants. La mutation est spontanée. Un autre caractère important, la spécificité. 
+
+La mutation est spécifique d'un caractère précis, elle ne concerne qu'un seul caractère à la fois. La stabilité, le caractère nouvellement apparu, se transmet indéfiniment aux cellules filles. D'autre part, la bactérie peut subir simultanément une autre mutation sans lien avec la première. 
+
+C'est la propriété d'indépendance. Mais plusieurs mutations peuvent se produire indépendamment et toucher plusieurs caractères. Le taux de mutation pour deux caractères ou taux de mutation simultané, c'est le produit des taux de mutation pour chaque caractère. 
+
+La probabilité de survenue d'une mutation concernant deux caractères est donc très faible. Toutes ces propriétés que l'on vient de citer sont extrêmement importantes parce qu'elles permettent d'expliquer l'intérêt de l'association d'antibiotiques lorsque la résistance aux antibiotiques est due à des mutations. On va illustrer ces notions par un exemple d'application en médecine. 
+
+Comme on a dit, la mutation peut concerner deux caractères différents mais sa probabilité de survenue est très faible. Un exemple concret, c'est la survenue de mutations aboutissant à la résistance des bactéries aux antibiotiques. On va prendre l'exemple de la tuberculose. 
+
+La tuberculose ou DETZL, c'est une maladie qui est très fréquente au Maroc. Elle est due à Mycobacterium tuberculosis. Chaque année, notre ministère de la santé publique recense à peu près 30 000 nouveaux cas par an. 
+
+C'est une maladie qui reste très grave mais heureusement curable. Le traitement qui existe à l'heure actuelle se base sur l'association de plusieurs antibacillaires ou antibiotiques. Alors si pour une souche de Mycobacterium tuberculosis, le taux de mutation pour la résistance à la rifampicine, qui est un antituberculeux majeur, est de 10-4 et le taux de mutation pour l'isoniazide est de 10-6, alors l'émergence d'une souche bactérienne qui soit résistante aux deux molécules en même temps est donc très peu probable.
+
+On parle alors de taux de mutation simultané, c'est le produit des taux de mutation pour chaque antibiotique. Donc 10-4 x 10-6, c'est 10 puissance moins 10. Donc l'émergence d'une souche résistante aux deux antibiotiques par mutation est très peu probable, d'où l'intérêt d'associer plusieurs molécules pour le traitement de cette infection.
+
+Un deuxième type de variations génétiques ce sont les transferts de gènes entre bactéries. Alors l'acquisition d'ADN provenant d'une autre cellule bactérienne est un événement assez fréquent chez les bactéries. Lorsque l'ADN exogène ou exogénote, l'ADN exogène ou exogénote s'intègre dans le génome de la bactérie receveuse ou réceptrice, on dit qu'il y a recombinaison génétique.
+
+Ce qui correspond au réassortiment des gènes du receveur et à l'émergence d'un individu nouveau ou recombinant. Ce recombinant transmettra ce nouveau génome à sa descendance. L'acquisition recombinaison concerne souvent des parties importantes du génome et s'accompagne de l'acquisition de la perte de plusieurs caractères. 
+
+L'ADN exogène peut être un plasmide ou bien une portion du chromosome. La recombinaison n'a lieu que si l'exogénote trouve une zone d'homologie ou arrive à s'intégrer dans l'endogénote ou bien le génome receveur. L'exogénote ainsi intégré va se transmettre à la descendance. 
+
+Si l'exogénote ne peut pas s'intégrer ou se répliquer de façon autonome, il ne sera pas transmis à la descendance. Il est perdu en quelques générations. Les trois processus les plus connus, les plus communs de transfert génétique chez les bactéries sont la transformation, la conjugaison et l'attraction. 
+
+C'est ce qu'on va voir. C'est Griffith qui en 1928 a démontré pour la première fois le rôle de l'ADN comme support de l'information génétique. Cette célèbre expérience peut être considérée comme l'acte de naissance de la génétique moderne. 
+
+Griffith réalisa une série d'expériences. Dans une première expérience, des souris sont infectées par des pneumococques capsulés, virulents, vivants. Et souvenez-vous, on a déjà évoqué le rôle de la capsule comme étant un facteur de virulence. 
+
+Elle permet de protéger la bactérie contre la phagocytose et on avait justement cité l'exemple du streptococcus pneumonier ou pneumococque. Dans la deuxième expérience, Griffith injecta un lot de souris des pneumococques tués par la chaleur et un troisième lot des pneumococques non capsulés, non virulents. Alors qu'est-ce qui se passe ? Dans la première expérience, les souris meurent parce que les bactéries qu'on leur a injectées sont virulentes et mortelles.
+
+Dans les deux autres expériences, les souris ne meurent pas, elles arrivent à survivre parce que les bactéries ne sont plus virulentes. Donc les souris ne sont tuées que par les bactéries virulentes vivantes. Jusque là, pas de problème, les bactéries vivantes, virulentes ont tué les souris. 
+
+Mais dans une quatrième expérience, il injecta à un lot de souris un mélange de pneumococques virulents tués et des pneumococques non virulents mais vivants. Et qu'est-ce qui se passe ? Les animaux meurent. Griffith a démontré ainsi que du matériel provenant d'un germe tué pouvait encore transmettre de l'information permettant la synthèse d'une capsule par le germe vivant. 
+
+Et plus tard, un autre chercheur, Avri, compléta cette expérience en montrant que le matériel transféré était détruit par une DNase et non pas par une RNase et c'était donc de l'ADN provenant du pneumococque tué. L'acquisition d'un ADN exogène par une bactérie réceptrice peut se faire par transformation. Mais cette cellule réceptrice doit être compétente, ce qui correspond à un état particulier et transitoire de sa paroi qui va permettre le passage transparietal de l'ADN. 
+
+Et les cellules bactériennes ne sont compétentes que pendant certaines phases de leur croissance. La bactérie compétente se lie avec les fragments d'ADN bicathénaire. Cette fixation se fait au hasard et les fragments les plus représentés ont donc le plus de chances d'être fixés. 
+
+L'un des brins est hydrolysé et l'autre est transporté dans le cytoplasme et s'intègre au génome s'il trouve une zone d'homologie. Le deuxième type d'acquisition d'ADN exogène c'est la conjugaison. La conjugaison c'est un mécanisme qui est fréquent dans la nature, c'est le plus fréquent. 
+
+Il s'agit d'un transfert de matériel génétique d'une bactérie donatrice ou mâle porteuse du plasmide de fertilité à une bactérie réceptrice ou femelle dépourvue du plasmide de fertilité par contact direct entre les deux germes. La qualité de donneur dans la conjugaison est conférée par le plasmide de fertilité ou facteur F. Les bactéries qui possèdent ce plasmide sont des bactéries mâles et celles qui n'en possèdent pas ce sont les bactéries femelles. L'épilissexuel joue en fait un rôle de câble d'amarrage des bactéries en permettant l'accolement des deux cellules.
+
+Le transfert suit immédiatement. L'ADN transféré se recombine avec l'ADN de la cellule réceptrice. Le matériel génétique transféré peut être chromosomique ou extra-chromosomique et le transfert se fait de préférence entre bactéries de même espèce mais il peut parfois s'effectuer entre des espèces différentes. 
+
+On va ouvrir une petite parenthèse avec une structure bactérienne qu'il est judicieux de rappeler dans ce cours ce sont les plasmides. Il est vrai que le plasmide est une structure facultative non indispensable à la vie bactérienne mais il constitue le support de propriétés biologiques très importantes comme le transfert de résistance aux antibiotiques entre bactéries. La résistance bactérienne aux antibiotiques c'est un fléau mondial d'autant plus que le plus souvent le transfert de résistance concerne plusieurs antibiotiques à la fois. 
+
+On parle alors de multirésistance et on est face à des bactéries multirésistantes qui devient très difficile de traiter. Le problème est d'autant plus grave que ce transfert de résistance a lieu facilement et l'on peut se retrouver face à une épidémie de bactéries multirésistantes avec toutes ses conséquences sur le plan humain. Si l'on est dans l'incapacité de traiter le malade porteur d'une bactérie multirésistante on peut malheureusement le perdre et les conséquences en termes de coûts d'hospitalisation qui peuvent être aussi désastreuses. 
+
+A part ces plasmides de résistance aux antibiotiques il peut s'agir aussi de plasmides de virulence comme la production de toxines et autres. Autre mécanisme d'acquisition d'ADN exogène c'est la transduction. La transduction est un mode de transfert de matériel génétique qui utilise des bactériophages. 
+
+C'est le transfert d'un fragment d'ADN chromosomique ou plasmidique d'une bactérie donatrice à une bactérie réceptrice par l'intermédiaire de bactériophages et pour rappel donc les phages ce sont des virus qui sont capables d'infecter les bactéries, les bactériophages ce sont des virus qui infectent les bactéries. Il en existe deux types donc deux types de phages selon leur cycle de multiplication dans la cellule hôte c'est à dire la bactérie. Les phages virulents qui sont capables d'engager dans des cycles lytiques et les phages tempérés qui accomplissent des cycles lysogènes mais parfois peuvent devenir lytiques. 
+
+En principe les bactériophages virulents accomplissent un cycle lytique dans la bactérie infectée. Celle-ci finit par être lysée et libérée. D'autres phages vont entamer d'autres cycles lytiques et les bactériophages dit tempérés n'entraînent pas la lyse de la bactérie mais leur matériel génétique s'intègre au chromosome bactérien et se réplique en même temps que la bactérie.
+
+Donc on va voir tout ça en détail. Quelles sont les étapes de ces deux types de cycles ? Tout commence par la fixation du phage sur la bactérie. Il y insère son ADN. 
+
+Son ADN se circularise et à partir de là s'engage l'un ou l'autre cycle. Soit l'ADN injecté dans la bactérie va dévier le métabolisme de la bactérie au profit de la fabrication de phages. Des protéines virales sont ainsi synthétisées et on assiste à une réplication rapide de l'ADN phagique puis formation de phages, de nouveaux phages au sein même de la cellule bactérienne. 
+
+Les phages néoformés vont finir par lyser la bactérie et ainsi être libérés pour aller infecter d'autres cellules. C'est le cycle lytique des phages qui sont alors dits virulents. Il existe des circonstances où les phages n'entraînent pas de lyse cellulaire. 
+
+C'est la lysogénie au cycle lysogène. L'ADN du phage il va s'intégrer au sein du chromosome bactérien pour se répliquer en même temps que ce chromosome. Donc il n'y a pas de lyse de la bactérie. 
+
+L'ADN du phage s'intègre au sein de l'ADN de la bactérie. Les phages sont alors dits tempérés et les phages qui ont les bactéries, pardon, qui ont un phage tempéré sont dits lysogènes. Il peut arriver que de temps en temps le matériel génétique du phage tempéré que l'on appelle prophage s'engage dans un cycle lytique. 
+
+La lysogénie explique le fait que certaines souches bactériennes soient plus toxiques ou plus virulentes que les autres souches de la même espèce. C'est justement parce que les bactéries lysogènes portant en elles des prophages le répliquent en même temps que leur chromosome et expriment ainsi de nouvelles propriétés. Je répète le prophage c'est le matériel génétique du phage tempéré. 
+
+Vous avez là quelques exemples à titre indicatif. La toxine du bacille diphtérique, la toxine érythrogène du streptococ A ou encore certaines toxines chez Echerichia coli. Il peut s'agir de propriétés de toxicité ou bien d'antigénicité comme pour Salmonella ou autres. 
+
+Retenez juste que les prophages sont capables de modifier les propriétés des bactéries hôtes. C'est la conversion lysogène. Nous avons décrit le phénomène de mutation, les transferts de gènes entre bactéries, acquisition d'ADN exogène par des bactéries qui sont receveuses aux réceptrices.
+
+Le dernier type de variation génétique des bactéries c'est la recombinaison intragenomique donc au sein même du génome de la bactérie. Cette recombinaison ou remaniement intragenomique peut se faire par l'intermédiaire de transposons. Les transposons ce sont par définition des brins d'ADN bicathénaire qui peuvent s'intégrer dans un autre site de l'ADN.
+
+Ce sont des gènes sauteurs. C'est une séquence d'ADN qui est capable de changer de localisation dans le génome sans jamais apparaître à l'état libre. La recombinaison peut se faire aussi par l'intermédiaire des intégrons.
+
+Les intégrons ce sont des systèmes de capture et d'expression de gènes sous forme de cassettes et ces cassettes sont des éléments mobiles capables d'être intégrés ou excisés par un mécanisme de recombinaison spécifique de sites médiés par une intégrase. En conclusion, l'étude de la génétique bactérienne et de sa variabilité a connu un grand essor depuis la découverte de la structure de l'ADN. Elle a permis une meilleure compréhension des mécanismes de résistance des bactériaux antibiotiques et des facteurs de la virulence et elle joue un rôle important dans le diagnostic bactériologique et dans la biotechnologie. 
+
+Chers étudiants, bonjour. Nous avons au cours des séances précédentes étudié la structure et la physiologie bactérienne. Vous avez également reçu quelques notions de base concernant la génétique bactérienne. 
+
+J'espère que jusque là tout a été assez clair, mais si vous avez des questions ou même si vous avez besoin de compléments d'explications, prenez-en note et on y répondra au cours de notre séance live. Aujourd'hui nous allons nous intéresser à l'étude du pouvoir pathogène des bactéries. Nos objectifs seront les suivants, connaître les différentes relations qu'établissent les bactéries avec l'être humain, comprendre comment est-ce que les bactéries exercent leur virulence et enfin comprendre comment nos défenses immunitaires peuvent être parfois défaillantes face à l'agression bactérienne. 
+
+Nous allons commencer par définir les différents types de relations établies entre les bactéries et leurs hôtes. La seconde partie sera consacrée à l'étude du pouvoir pathogène proprement dit, c'est à dire les facteurs de virulence et les étapes du processus infectieux. En troisième partie nous verrons quels sont les moyens de défense mis en jeu par l'hôte face à l'agression bactérienne et enfin en dernière partie on s'intéressera aux facteurs d'échappement des bactéries aux défenses naturelles de l'hôte. 
+
+L'homme vit dans un environnement contaminé par les bactéries. Elles sont présentes partout autour de nous, dans l'air, l'eau, sur le sol, les végétaux et même dans notre corps. Dans la relation hôte-bactérie il faut distinguer d'une part la bactérie caractérisée par son pouvoir pathogène, donc qui va chercher à exercer son pouvoir pathogène, et d'autre part l'hôte caractérisé par son pouvoir de défense.
+
+L'infection se produit lorsque la bactérie exerce son pouvoir pathogène malgré nos systèmes de défense. Les bactéries ont colonisé la plupart des biotopes terrestres et celles-ci tendent également à coloniser les autres organismes vivants. Une information à titre indicatif, c'est qu'un homme adulte héberge environ 10 puissance 14 cellules bactériennes dans son corps alors que son propre corps ne comprend que 10 puissance 13 cellules humaines. 
+
+On peut recenser différents types de bactéries colonisant un hôte humain. On va commencer par détailler les différentes relations qui peuvent exister entre une bactérie et son hôte en définissant certains termes que vous devez connaître. Les bactéries commensales. 
+
+Ce sont des bactéries qui se nourrissent des mêmes aliments que leur hôte. Elles sont habituellement présentes sur la peau et les muqueuses de l'homme où elles constituent ce qu'on appelle la fleur résidente de l'homme. Cette fleur résidente s'implante dès les premiers jours de la vie. 
+
+Le nouveau-né est stérile mais une heure après la naissance les premières espèces bactériennes commencent à se multiplier dans son tube digestif. Ces premières espèces proviennent le plus souvent de la fleur maternelle. La fleur résidente joue un rôle bénéfique pour l'homme dans la mesure où elle représente une barrière biologique en s'opposant à l'implantation de bactéries plus agressives. 
+
+Chez l'homme, cette fleur est retrouvée au niveau cutané, au niveau intestinal, oropharyngé ou autre. Certaines de ces bactéries commençales nous sont même indispensables. A titre d'exemple, on peut citer les bactéries intestinales qui participent à la digestion ou s'utilisent des vitamines comme la vitamine K. Elles sont appelées bactéries symbiotiques.
+
+Les bactéries s'approfitent, ce sont des bactéries de l'environnement qui se nourrissent de matières organiques en décomposition. Elles se développent dans la nature au dépens des déchets organiques et mènent une vie indépendante d'un autre organisme vivant, humain ou animal. Elles peuvent se retrouver comme une fleur de passage sur la peau ou les muqueuses. 
+
+Les bactéries pathogènes sont capables de provoquer une infection et il faut distinguer parmi ces bactéries pathogènes les pathogènes spécifiques qui sont capables d'envahir un organisme immunocompétent, de s'y multiplier et d'entraîner une maladie cliniquement définie. Exemple, on peut citer le cas de la tuberculose ou bien de la fièvre typhoïde. Et les pathogènes peuvent être aussi opportunistes. 
+
+Ces opportunistes font en partie générale des fleurs comme en salle ou s'approfitent, mais peuvent entrecrainer occasionnellement des troubles en cas de déficience de l'immunité de l'autre. Exemple, le bacille piocéanique chez les brûlés ou bien les infections nosocomiales. Et les infections nosocomiales, ce sont les infections qui sont acquises dans une structure hospitalière. 
+
+D'autres notions importantes à saisir. Une colonisation, c'est une implantation de la bactérie sur les tissus de l'autre sans provoquer de dommages pour celui-ci. La colonisation correspond en fait au type d'interaction des bactéries des fleurs comme en salle sur le revêtement cutanéomyque par exemple. 
+
+Et le schéma que vous avez représente les différents sites de colonisation de l'homme par les bactéries comme en salle. Le portage sain. Le portage, c'est une colonisation mais cette fois-ci par des bactéries pathogènes retrouvées plus ou moins transitoirement au niveau des fleurs comme en salle. 
+
+Les sujets qui les hébergent sont appelés porteurs sains. Et c'est le cas par exemple du portage du méningocoque ou nécérien méningitis. Le méningocoque, c'est l'agent de la méningite méningocoxique. 
+
+Et c'est une urgence médicale, diagnostique, thérapeutique et même prophylactique car elle peut se former épidémique. Certains sujets sont porteurs de cette bactérie au niveau de leur rhinopharynx. Le pneumocoque est aussi une bactérie pathogène mais qui peut exister à l'état de portage sain chez certains. 
+
+Nous avons vu que différents types de relations pouvaient exister entre l'homme et la bactérie mais quelles sont les étapes du processus infectieux ? C'est ce que nous allons détailler dans cette partie. Tout d'abord on va rappeler la définition du pouvoir pathogène d'une bactérie. C'est l'ensemble des mécanismes mis en oeuvre par la bactérie contribuant au déclenchement d'une infection. 
+
+En d'autres termes c'est la capacité de provoquer une infection. La notion de virulence d'une bactérie. La virulence d'une bactérie mesure son aptitude ou sa capacité à s'implanter et à se multiplier dans l'organisme. 
+
+Elle reflète donc l'intensité du pouvoir pathogène. Le facteur de virulence est une propriété qui participe à la virulence d'une souche pathogène et qui est absente des souches non pathogènes de la même espèce. Comment les bactéries sont transmises à l'homme ? La transmission s'effectue soit directement, la contamination se fait par contact direct avec l'individu ou l'animal contaminé par l'intermédiaire de son sang, de sa salive, de ses sécrétions génitales ou par ses déjections.
+
+C'est un mode de transmission très fréquent et un exemple de ce mode de transmission ce sont les infections sexuellement transmises après un rapport contaminant non protégé. La transmission de bactéries peut aussi s'effectuer de façon indirecte par l'intermédiaire d'un objet infecté ou d'un aliment contaminé. C'est le cas par exemple des objets tranchants souillés comme les seringues qui peuvent véhiculer différentes bactéries ou virus. 
+
+Mais ceci suppose la persistance de la bactérie dans l'environnement pendant un certain délai et c'est donc le cas des bactéries résistantes dans le milieu extérieur. A titre d'exemple on peut citer le Clostridium tétani qui est une bactérie anaerobie stricte saprophyte qui sporule sur le sol qui peut persister très longtemps sous cette forme et le Clostridium tétani peut être transmis en faveur d'une plaie par un instrument ou un objet rouillé. Il détermine ce qu'on appelle le tétanos. 
+
+Le tétanos ou CZAS. Plusieurs voies de pénétration sont utilisées par les bactéries pathogènes pour envahir l'organisme. La voie digestive, génitale, respiratoire, cutanée et materno-fotale.
+
+Alors sur ce tableau figurent les différentes voies de pénétration avec quelques exemples de manifestations cliniques ainsi que les bactéries qui en sont responsables. Les bactéries transmises par voie digestive comme Salmonella ou Shigella vont être à l'origine d'un syndrome dysentériforme c'est à dire une diarrhée avec fièvre, douleur abdominale et celles gléreuses mucopurulentes. Le Vibrium cholérique est responsable de syndrome cholériforme c'est à dire une diarrhée profuse et aqueuse avec vomissement. 
+
+Les bactéries génitales comme le Treponema pallidum c'est l'agent de la syphilis dont la première symptomatologie c'est le chancre syphilitique c'est à dire une ulcération indolore à base indurée. Parmi les bactéries transmises par voie respiratoire on peut citer le Mycobacterium tuberculosis, le Streptococcus pneumonii ou pneumocoque et le pneumocoque je le rappelle et je le répète c'est une bactérie redoutable responsable de pneumonies graves et même de méningites parfois même d'otites aiguës. La peau est en principe non transversable par les bactéries sauf exception. 
+
+Une brèche minime peut être traversée notamment par le Staphylococcus qui est fréquemment responsable d'infections cutaneo-muqueuses et enfin la transmission peut se faire aussi de la mère à son foetus par voie materno-fotale. La première étape du processus infectieux correspond à l'implantation des bactéries sur le revêtement cutaneo-muqueux. C'est l'étape de colonisation de l'hôte au niveau de la porte d'entrée.
+
+Mais on a dit précédemment que la plupart des tégumens et des muqueuses possédaient une fleur résidente qui joue un rôle de barrière biologique en s'opposant à l'implantation des bactéries exogènes. Ces tissus possèdent également des mécanismes de clairance ou d'élimination qui éliminent en permanence les bactéries de la surface muqueuse comme l'épithélium cilié respiratoire ou le flux urinaire. Par ailleurs les cellules des muqueuses se renouvellent à un rythme variable et les bactéries colonisatrices sont éliminées avec les cellules mortes.
+
+Donc vous saurez désormais que lorsqu'on prend un bain en se faisant un gommage et bien nous éliminons les cellules mortes et de nombreuses bactéries colonisatrices. Pour toutes ces raisons une bactérie doit pour s'implanter durablement en surface muqueuse posséder des structures d'attachement. Donc toutes les bactéries pathogènes ont des systèmes d'attachement qui sont plus ou moins efficaces. 
+
+Vous pouvez voir sur votre slide donc une photo prise au microscope électronique et montrant le phénomène d'adhésion de bactéries à la surface d'une cellule humaine. Pour les bactéries pathogènes l'adhésion se fait grâce à des constituants superficiels de la bactérie qui reconnaissent à la surface des muqueuses colonisées des récepteurs spécifiques et ce processus explique le fait que les bactéries pathogènes n'infectent que les tissus qui expriment leurs récepteurs. Pour de nombreuses bactéries à grammes négatifs pathogènes l'adhésion se fait grâce à des protéines de surface les adhésifs embryales. 
+
+Ces adhésifs sont intercalés dans la structure des pilis ou à leur extrémité et rappelez-vous nous avions déjà évoqué la structure des pilis communs et nous avons précisé leur fonction. Les pilis communs interviennent dans l'étape d'adhésion grâce à la présence justement de ces adhésifs. On peut parler de pilis communs ou de fimbriers, c'est la même chose. 
+
+Ces molécules reconnaissent à la surface des muqueuses colonisées des récepteurs spécifiques et assurent une fixation spécifique de la bactérie sur ses récepteurs. Vous pouvez voir sur le slide une photo d'un pseudomonas. Le pseudomonas est un bacillagrame négatif adhérent à une cellule humaine. 
+
+Un modèle d'adhésion bactérienne très intéressant c'est celui de Echerichia coli à la surface des cellules épithéliales urinaires. Echerichia coli est très fréquemment responsable d'infections urinaires et cette infection commence par l'adhésion des souches de E. coli uropathogènes aux cellules épithéliales du tractus urinaire. L'adhésion se fait par une interaction entre ces adhésifs fimbriels et des récepteurs glycoprothéiques présents à la surface des cellules uroépithéliales.
+
+La photo à droite de votre slide montre des E. coli adhérentes aux cellules épithéliales et observées au microscope optique. La coloration utilisée ce n'est pas la coloration de gramme c'est une coloration au bleu de méthylène. A gauche nous voyons de façon schématique comment E. coli arrive à reconnaître ce récepteur spécifique pour se fixer. 
+
+Les bactéries à grains positifs ne possèdent pas de pili. Elles peuvent par contre utiliser d'autres structures d'attachement. Ce sont les adhésives d'enveloppe non incluses dans une structure pilier. 
+
+Ces adhésives non fimbriales sont responsables d'une adhésion rapprochée sur les récepteurs spécifiques. Un exemple de ces adhésives non fimbriales c'est la fibronectine ou la fibrine qui sont des protéines fibrillaires. Comme représente la photo que vous avez, on y voit un staphylococcus surveillus avec tout autour de la fibrine au microscope électronique. 
+
+Un cas particulier et intéressant de ce phénomène d'adhésion est celui des biofilms. Un biofilm c'est un ensemble de cellules bactériennes appartenant souvent à des espèces différentes et colonisant une surface inerte ou vivante. L'ensemble réalise un écosystème très protégé de l'extérieur. 
+
+Les bactéries d'un biofilm sont peu accessibles aux défenses naturelles et aux antibiotiques. Des exemples de biofilms physiologiques c'est la plaque dentaire. La plaque dentaire c'est un biofilm qui colonise les mailles dentaires.
+
+Le matériel implantable et les prothèses sont aussi des biofilms et sont souvent colonisés par du staphylococcus. Ce que vous voyez c'est du staphylococcus aureus formant un biofilm sur une surface. Après l'étape d'adhésion vient celle de l'invasion. 
+
+Après s'être fixé sur une muqueuse, certaines bactéries sont capables d'entrer dans la cellule. C'est l'étape d'invasion bactérienne qui va permettre de franchir la barrière cutanéomuqueuse. Ce processus d'invasion est sous le contrôle de composants bactériens et cellulaires. 
+
+En général la bactérie provoque sa propre internalisation en adressant un signal à la cellule cible qui engage une phagocytose active, même si cette cellule n'est pas un phagocyte professionnel. Après l'adhésion et l'invasion, les bactéries envahissent les tissus de l'autre grâce à des enzymes. Les prothéases dégradent le tissu conjonctif et facilitent la propagation tissulaire des bactéries.
+
+Il peut s'agir de hyaluronidase pour le staphylococcus aureus, d'élastase pour le pseudomonas ou de collagénase pour le clus. Maintenant nous allons détailler les facteurs d'agression bactérienne. Donc c'est une partie qui est très importante, qui est à connaître, la toxinogénèse. 
+
+Il existe deux types de toxines, les exotoxines et les endotoxines. Les exotoxines sont des protéines thermolabiles relarguées dans le milieu extérieur pendant la croissance. Il en existe trois types selon la structure et le mécanisme toxique. 
+
+Les toxines acibles intracellulaires, les toxines cytolytiques et les toxines super antigéniques. Les toxines acibles intracellulaires, aussi appelées AB toxines, parce qu'elles sont formées de deux sous-unités A et B. La sous-unité A est la partie biologiquement active, elle possède l'activité enzymatique et la sous-unité B est la partie qui assure l'accession de la molécule de toxines sur un récepteur de la membrane cellulaire. Le deuxième type d'exotoxines, ce sont les toxines cytolytiques, comme les cytolysines ou les hémolysines. 
+
+Ce sont des toxines qui provoquent une lisse de la membrane de la cellule cible. Le troisième type, ce sont les toxines super antigéniques. Ces toxines, ce sont des protéines bactériennes qui provoquent une réponse cellulaire polyclonale hypertrophiée avec hyperproduction de cytokines et de médiateurs de l'inflammation entraînant des manifestations éruptives ou carrément un choc, comme le syndrome de choc toxique qui est causé par le staphylococcus aureus. 
+
+Les exotoxines possèdent des propriétés importantes qui sont appliquées en médecine. Ces toxines sont immunogènes, c'est à dire qu'elles suscitent la formation d'anticorps qu'on appelle les antitoxines. Ces antitoxines neutralisent la toxine et confèrent ainsi une protection efficace contre la maladie. 
+
+Beaucoup d'exotoxines dénaturées par la chaleur ou le formol conservent leurs propriétés antigéniques en perdant leur toxicité. Elles sont capables de conserver leurs propriétés immunogènes et suscitent la formation d'anticorps spécifiques qui protègent contre une éventuelle réinfection. Ce sont les anatoxines et ceci à la base de la fabrication de certains vaccins comme les vaccins antitétaniques et antidiphtériques. 
+
+Le deuxième type de toxines, donc on a parlé des exotoxines, on a cité les trois types d'exotoxines, donc le deuxième type de toxines ce sont les endotoxines. Et là vous allez comprendre pourquoi nous avons insisté sur la structure du lipopolysaccharide ou LPS, des bacilles à grammes négatifs, et bien en fait les endotoxines correspondent au LPS. Les endotoxines sont donc caractéristiques des grammes négatifs.
+
+Ce sont des composants pariétaux bactériens libérés dans l'organisme par l'hyste des bactéries à grammes négatifs au cours de l'infection et qui diffusent dans tout l'organisme. Elles sont responsables d'inflammation, elles sont pyrogènes, vasculotropes et parfois responsables du choc endotoxinique. Le choc endotoxinique c'est un chondrame de choc sceptique qui associe des anomalies de la circulation, de la coagulation, souvent responsable du décès du malade. 
+
+Ce tableau regroupe les différences entre les deux types de toxines produites par les bactéries. C'est un tableau récapitulatif qu'il faut absolument connaître. Nous arrivons à la troisième partie où nous allons voir comment notre organisme réagit face à l'agression bactérienne. 
+
+Face à l'agression bactérienne, l'organisme humain met en jeu plusieurs systèmes de défense. Les défenses antibactériennes interviennent à deux stades de l'infection. Les défenses non spécifiques mettant en jeu des mécanismes non spécifiques d'élimination des bactéries à un stade précoce de l'infection et des défenses spécifiques qui interviennent plus tardivement.
+
+Elles résultent de la réponse immunitaire à l'infection. Vous connaissez tout ça. Mais en plus de ces deux types de défenses, on peut citer le rôle de la peau et des muqueuses, les barrières cutanées aux muqueuses. 
+
+La peau n'est traversable qu'en cas d'excoriations ou de blessures. Les muqueuses sont plus facilement franchies car elles ne comprennent qu'une seule couche d'acide. Des facteurs mécaniques chimiques ou bactériens s'opposent au franchissement des muqueuses par les bactéries. 
+
+Le rôle des épithéliums est primordial car c'est le lieu de rencontre haute bactérie. Donc c'est d'abord une barrière physique. De plus, le renouvellement cellulaire d'esquamations superficielles permet l'élimination mécanique des bactéries en surface. 
+
+Le revêtement cutané aux muqueuses est aussi une barrière chimique à cause de l'acidité et de la sécheresse de la peau. De plus, de nombreuses substances bactéricides sont sécrétées dans les substances muqueuses comme les lysosimes qui dégradent le peptidoglycane de la paroi bactérienne. C'est aussi une barrière biologique comme on a dit précédemment. 
+
+Rappelez-vous, on a dit que les fleurs commensales résidentes s'opposent à l'implantation des bactéries exogènes. Les défenses non spécifiques sont dirigées contre tout élément étranger qui entre en contact avec le milieu intérieur. Elles entrent en action dès que les bactéries infectantes commencent à se multiplier dans les tissus. 
+
+La phagocytose est le mécanisme le plus efficace contre l'agression bactérienne. Le système phagocytaire c'est l'ensemble des cellules spécialisées dans les propriétés de phagocytose, les phagocytes professionnels comme les polynucléaires neutrophiles et les macrophages. L'immunité spécifique acquise fait intervenir les lymphocytes et les anticorps. 
+
+Elle est plus retardée mais elle procure une certaine immunité. Pour échapper aux défenses naturelles de l'hôte infecté, la bactérie met en jeu plusieurs mécanismes. Le premier moyen d'échappement c'est la survivance à la phagocytose. 
+
+Vous verrez en détail les étapes de la phagocytose en immunologie si ce n'est déjà fait. Certaines bactéries sont capables de résister à la dégradation par les phagocytes, donc de résister à la phagocytose. Certaines sont capables d'inhiber la fusion phagolisosomiale comme Chlamydia et d'autres sont capables de survivre dans le phagolisosome comme les mycobactéries. 
+
+D'autres peuvent s'échapper du phagosome après avoir été internalisé par les phagocytes comme Listeria. D'autres bactéries sont capables de résister à l'ingestion par les phagocytes et la résistance à l'ingestion par les phagocytes peut se faire soit grâce à la présence de capsules et pour rappel la capsule c'est un élément inconstant ou facultatif de la structure bactérienne, c'est-à-dire qui n'existe que chez certaines. Cette résistance à l'ingestion peut se faire aussi grâce à des coagulases ou grâce à la sécrétion de cytotoxines.
+
+Les bactéries peuvent échapper aux défenses naturelles en modifiant leur structure antigénique donc c'est la variation antigénique. En conclusion nous pouvons dire que le pouvoir pathogène des bactéries s'exerce après plusieurs étapes adhésion, invasion, envahissement tissulaire et sécrétion de toxines et de l'étude du cycle infectieux des bactéries vont dépendre plusieurs enjeux importants de la médecine tel que le développement de nouveaux vaccins ou l'identification de nouvelles cibles thérapeutiques pour la mise au point de nouveaux anti-infectieux. Bonjour, l'organisme humain essaie de lutter contre l'agression bactérienne par ses systèmes de défense naturelle. 
+
+Malheureusement ces mécanismes sont parfois insuffisants et dépassés par les bactéries qui y échappent. Et bien justement lorsque les défenses naturelles antibactériennes sont dépassées et que l'infection bactérienne se déclare quand même, on est souvent amené à aider notre organisme à lutter contre ces bactéries pathogènes en ayant recours à l'utilisation d'antibiotiques. Aujourd'hui nous allons nous intéresser à l'étude de cette classe médicamenteuse particulière qui est celle des antibiotiques. 
+
+Les objectifs de ce cours sont de décrire les principales familles d'antibiotiques, dénumérer les principaux modes d'action des antibiotiques sur les bactéries ciblées et de citer les principaux mécanismes génétiques et biochimiques de la résistance bactérienne aux antibiotiques. Le plan de ce cours sera le suivant. Après un petit aperçu historique sur la découverte des antibiotiques, nous allons définir ce qu'est un antibiotique, définir certaines notions comme bactéricidie, bactériostase ou spectre d'activité dans l'antibiotique.
+
+Nous citerons aussi dans cette partie les critères de classification de ces molécules, puis nous détaillerons les principaux modes d'action des antibiotiques les plus fréquemment utilisés et enfin nous détaillerons les mécanismes de résistance des bactéries aux antibiotiques. La découverte des antibiotiques constitue un événement majeur dans l'histoire de la médecine. Ces médicaments ont véritablement révolutionné le traitement des maladies infectieuses. 
+
+Des maladies bactériennes jusque là mortelles comme la tuberculose et contre lesquelles il n'existait aucun remède il y a des dizaines d'années peuvent désormais être traités grâce aux antibiotiques. On considère aujourd'hui que leur utilisation thérapeutique a permis d'allonger la durée moyenne de la vie humaine d'une dizaine d'années. Les antibiotiques sont des médicaments largement utilisés actuellement, parfois même de façon excessive, et cette surconsommation d'antibiotiques, surtout non justifiés, peut favoriser l'émergence de bactéries résistantes.
+
+Les infections que nous pouvons guérir actuellement peuvent redevenir mortelles. Alors quels sont actuellement les antibiotiques les plus fréquemment utilisés pour traiter les pathologies infectieuses humaines ? Quels sont leurs critères de classification ? Comment est-ce qu'ils agissent sur les bactéries ? Et enfin comment les bactéries résistent à ces antibiotiques ? Telles sont les interrogations auxquelles nous tenterons d'apporter des éléments de réponse tout au long de ce cours. On va commencer par un petit aperçu historique sur la découverte des antibiotiques. 
+
+Il faut savoir que la recherche des agents anti-infectieux a été très active dès le début du 20e siècle et en particulier pendant la Première Guerre mondiale. En effet, en temps de guerre, l'infection des blessures était la première cause de mortalité des combattants. En 1928, une date particulièrement intéressante, un Anglais, Alexander Fleming, observe l'inhibition de culture d'un staphylocoque par un champignon ayant accidentellement contaminé le milieu sur lequel il s'est développé. 
+
+Fleming c'était un chercheur qui s'intéressait à l'étude des staphylocoques. De retour de vacances, il remarqua que sur une boîte de pétri gélosé qu'il avait ensemencé avec une souche de staphylocoques, la pousse était inhibée autour d'une colonie de champignons qui avaient accidentellement contaminé la boîte. Il émet alors l'hypothèse que le champignon, qui était un pénicillium, avait élaboré une substance bactéricide qu'il nomma pénicilline. 
+
+Commençons par définir le terme d'antibiotiques. Les antibiotiques sont des substances chimiques qui inhibent sélectivement certaines voies métaboliques des bactéries sans exercer d'effets toxiques pour les organismes supérieurs. Certains antibiotiques sont capables de détruire complètement la bactérie. 
+
+Ils sont dits bactéricides. D'autres antibiotiques empêchent seulement leur développement et inhibent leur multiplication. Ils sont dits alors bactériostatiques.
+
+Les antibiotiques ne sont pas actifs sur toutes les espèces bactériennes sans distinction. On définit le spectre théorique d'activité d'un antibiotique par l'ensemble des espèces bactériennes sensibles à cet antibiotique. Les bactéries non comprises dans ce spectre sont dites naturellement résistantes.
+
+Il existe antibiotiques à spectre large, c'est-à-dire actifs sur les bactéries à grains négatifs et les bactéries à grains positifs, des antibiotiques à spectre limités aux bactéries à grains négatifs ou à grains positifs et des antibiotiques à spectre très étroits, limités à une espèce bactérienne. On connaît actuellement plus de 10 000 molécules ayant une activité antibiotique mais une centaine d'entre elles seulement est utilisée en médecine. Les antibiotiques ont des structures chimiques très variées qui conditionnent leurs mécanismes d'action et leur toxicité.
+
+Ces molécules sont ainsi regroupées en familles dans lesquelles les différents produits ont une communauté de structures chimiques et un mécanisme d'action identique. Les antibiotiques peuvent être ainsi classés selon plusieurs critères, selon leur origine, selon la nature chimique, selon leur spectre d'activité ou encore selon leur mécanisme d'action. Les antibiotiques les plus utilisés sont regroupés en dix familles que voici et parmi ces familles les bétalactamines ce sont les molécules les plus utilisées, les plus fréquemment utilisées. 
+
+Nous allons maintenant décrire les mécanismes d'action des antibiotiques. Pour exercer son action l'antibiotique doit au préalable accéder à sa cible moléculaire et ses cibles sont situées dans la paroi ou à l'intérieur même de la cellule bactérienne. Certains antibiotiques agissent en inhibant la synthèse de la paroi bactérienne, en inhibant plus exactement la synthèse du peptidoglycane.
+
+Il en résulte une altération de la paroi ce qui a un effet létal pour la bactérie. Ces antibiotiques ce sont les bétalactamines, les glycopeptides et la phosphomycine. Les bétalactamines, il s'agit de la famille d'antibiotiques la plus vaste et la plus complexe. 
+
+Dans cette famille on distingue deux groupes principaux les pénicillines et les céphalosphorines et des groupes de produits plus récents apparentés aux bétalactamines. Les bétalactamines agissent en se fixant sur des protéines membranaires appelées protéines de liaison à la pénicilline ou PLP et les empêchent ainsi d'assurer leurs fonctions. Les PLP sont des enzymes impliqués dans la phase finale de la synthèse du peptidoglycane c'est à dire l'étape de polymérisation.
+
+L'activité enzymatique des PLP est inhibée par leur liaison avec les bétalactamines. Les glycopeptides ce sont des molécules qui se fixent sur les peptides impliqués dans la phase de polymérisation du peptidoglycane. De ce fait, la polymérisation est inhibée. 
+
+Ce groupe comprend la vancomycine et la tecoplanine. Pour la phosphomycine, cette molécule agit à une phase précoce intracytoplasmique de la synthèse du peptidoglycane. Elle se fixe sur une enzyme impliquée dans la formation de l'acide N-acétylmeramique qui est l'un des composants du précurseur du peptidoglycane.
+
+Plusieurs familles d'antibiotiques peuvent inhiber par différents mécanismes l'élongation de la chaîne polypeptidique chez les bactéries. Ces molécules se fixent sur une sous-unité ribosomale. D'autres antibiotiques agissent sur les acides nucléiques notamment l'équinolone. 
+
+L'équinolone bloque l'ADN du girase dont le rôle est d'assurer le sur-enroulement en supérillice de l'ADN du chromosome bactérien. D'autres antibiotiques sont capables de désorganiser les membranes des bactéries. C'est le cas des polymyxines comme la colistine.
+
+Dernier mode d'action des antibiotiques c'est l'inhibition de la synthèse des acides mycoliques. Les mycobactéries représentent une famille de bactéries particulières par leur structure pariétale. Alors les mycobactéries ce sont des bactéries qui sont responsables de la tuberculose et on note la présence au niveau de leur paroi d'acides mycoliques. 
+
+Alors les acides mycoliques sont présents au niveau de leur paroi et justement les antibiotiques qui vont agir sur les mycobactéries sont capables d'inhiber la synthèse de ces acides mycoliques. C'est le cas notamment de l'isoniazide, l'étambutol, la streptomycine et la pérazinamide qui sont des antituberculeux majeurs. Ce slide récapitule les principaux modes d'action des antibiotiques. 
+
+C'est soit par inhibition de la synthèse de la paroi bactérienne, soit par désorganisation de la membrane cytoplasmique. Ça peut être une inhibition de la synthèse protéique ou une inhibition de la synthèse de l'ADN. Nous avons décrit les principaux modes d'action des antibiotiques.
+
+On va enchaîner avec les mécanismes de résistance des bactéries aux antibiotiques, c'est-à-dire comment est-ce que les bactéries arrivent à échapper ou à résister à l'action de ces antibiotiques. Comment on définit une souche résistante aux antibiotiques ? Une souche bactérienne est résistante à un antibiotique lorsqu'elle est capable de se développer et ou de croître en présence d'une concentration importante en antibiotiques. Il existe deux types de résistance, la résistance naturelle et la résistance acquise. 
+
+La résistance naturelle concerne toutes les souches de la même espèce bactérienne. Elle détermine le phénotype dit sauvage. Donc lorsqu'une bactérie ne possède que des résistances naturelles, on parle de souches sauvages. 
+
+Le support de la résistance naturelle est chromosomique. La transmission se fait donc à la descendance selon une transmission verticale. Nous pouvons citer le cas de Klebsiella pneumoniae qui est une antérobactérie qui résiste naturellement à l'amoxycyline.
+
+Sur la photo, vous voyez que Klebsiella pneumoniae pousse tout autour du disque d'amoxycyline qui est ici noté AMX. La résistance acquise, en revanche, ne concerne que certaines souches d'une espèce naturellement sensible. Je m'explique. 
+
+Si l'on considère une espèce bactérienne normalement sensible à un antibiotique donné, prenons l'exemple de Echerichia coli qui est naturellement sensible à l'amoxycyline. Sur cet antibiogramme, la souche est effectivement sensible à l'amoxycyline. Vous pouvez voir le gros diamètre d'inhibition autour du disque. 
+
+Mais il peut arriver que certaines souches de Echerichia coli deviennent subitement résistantes à cet antibiotique comme vous pouvez voir sur l'autre photo. Il n'y a plus de zone claire autour du disque. Les colonies qui ont poussé autour du disque sont devenues résistantes à cet antibiotique. 
+
+Et de là, voici tout l'intérêt d'étudier la génétique bactérienne. On arrive à comprendre les mécanismes de cette résistance acquise. La résistance acquise peut se faire soit par mutation, soit par acquisition d'un ADN étranger ou exogénote. 
+
+Dans le cas de la mutation, la transmission de cette résistance va se faire à la descendance. C'est l'un des caractères de la mutation. Et dans le cas de la résistance acquise, la transmission est horizontale entre bactéries de même espèce, soit carrément appartenant à des espèces différentes. 
+
+Et tout ceci n'est que un rappel pour vous si vous avez révisé votre cours sur la génétique bactérienne. Et donc, pour récapituler, vous avez ce slide très important concernant le déterminisme génétique de la résistance acquise aux antibiotiques. Le support génétique peut être chromosomique, par mutation, mais le plus souvent il est plasmidique, par acquisition d'ADN étranger. 
+
+Et les principaux mécanismes d'acquisition d'ADN étranger ou exogénote, ce sont la conjugaison, la transformation et la transduction. Quelques différences entre ces deux types de résistance, chromosomique et extra-chromosomique. La résistance chromosomique par mutation est faible.
+
+Elle est spécifique, indépendante et stable. Et nous retrouvons là tous les caractères de la mutation. La résistance plasmidique, elle est très fréquente. 
+
+Elle est non spécifique, directement liée à l'antibiotique et peut-être épidémique. Vous pouvez ainsi comprendre pourquoi il faut absolument limiter l'utilisation des antibiotiques, les prescrire de façon raisonnée, c'est justement pour éviter cette résistance plasmidique et se retrouver face à des bactéries multirésistantes, voire hautement résistantes, contre lesquelles plus aucun antibiotique n'est efficace. Nous avons vu quels étaient les types de résistance et leur déterminisme génétique. 
+
+Nous allons à présent détailler les mécanismes biochimiques de ces résistances. Comment font les bactéries pour empêcher l'antibiotique d'agir ? Le mécanisme le plus fréquent, c'est la production d'enzymes capables de dégrader l'antibiotique. Elles peuvent empêcher sa pénétration. 
+
+On a précisé précédemment que chaque antibiotique agissait sur une cible bien déterminée. Certaines bactéries peuvent modifier la cible de l'antibiotique pour l'empêcher d'agir. Et enfin le dernier mécanisme, c'est le rejet de l'antibiotique après sa pénétration dans la bactérie. 
+
+Pour mieux retenir ces mécanismes de résistance, vous avez sur ce slide les différents mécanismes représentés de façon schématique, mais pratiques pour les mémoriser. Les bactéries peuvent sécréter des enzymes qui vont inactiver l'antibiotique. L'exemple le plus fréquent et le plus connu, c'est celui des bétalactamases. 
+
+Comme leur nom l'indique, les bétalactamases dégradent les bétalactamines. Et si l'on sait que les bétalactamines sont de loin les antibiotiques les plus largement utilisés en médecine humaine, on comprendra pourquoi ces enzymes sont fréquemment sécrétés par les bactéries. Parmi ces bétalactamases capables de dégrader les bétalactamines, on distingue les céphalosporinases qui dégradent les céphalosporines et les pénicillinases qui inactivent les pénicillines. 
+
+Céphalosporines et pénicillines sont toutes deux sous-familles des bétalactamines comme on a précisé. Alors un exemple très intéressant de ce type d'enzymes, c'est celui des BLSE ou bétalactamase à spectre étendu. On peut parler aussi de bétalactamase à spectre élargi. 
+
+Les BLSE sont des enzymes sécrétés par certaines bactéries, ce qui leur confère une résistance à presque toutes les bétalactamines. Les bactéries qui les sécrètent sont considérées comme des bactéries multirésistantes. Et sachez que le fait d'isoler au laboratoire ce genre de bactéries dans un prélèvement, ça constitue une urgence. 
+
+Il faut immédiatement avertir le médecin qui nous a prescrit le prélèvement pour qu'il isole son malade le plus possible lorsqu'il est hospitalisé. Il doit l'isoler afin d'éviter que cette souche diffuse à d'autres patients. Il faut savoir que l'isolement d'une BMR ou bactérie multirésistante réduit les alternatives thérapeutiques. 
+
+On peut se retrouver dans une situation d'impasse thérapeutique si la bactérie isolée est résistante à plusieurs familles d'antibiotiques. On est malheureusement dans l'incapacité de traiter nos patients. Ce mécanisme d'inactivation enzymatique ou sécrétion d'enzymes par les bactéries pour dégrader les antibiotiques peut conclure une classe d'antibiotiques comme les aminosides et les macrolides. 
+
+Pour empêcher les antibiotiques de pénétrer à l'intérieur de leur cellule, les bactéries peuvent obstruer de façon complète ou partielle leurs porines. Les porines, je le rappelle, ce sont des protéines qui assurent le passage transmembranaire et transparietal des nutriments des antibiotiques. Un autre mécanisme de la résistance bactérienne c'est le mécanisme des flux. 
+
+Alors ce mécanisme des flux est moins fréquemment observé. Une fois que l'antibiotique est à l'intérieur de la cellule, il est rejeté à l'extérieur avec une pompe à efflux sans même avoir l'occasion d'exercer son action. Enfin le dernier mécanisme biochimique de résistance c'est la modification de la cible. 
+
+La modification va concerner l'ADN GIRAS pour les antibiotiques qui agissent à ce niveau comme les quinolones, la modification du site ribosomal pour les cyclines par exemple et les PE ou protéines liant les pénicillines pour les pénicillines. Concernant les PLP ou protéines liant les pénicillines, il peut s'agir soit d'une modification de leur affinité pour l'antibiotique, les bactéries vont soit modifier l'affinité de ces PLP pour l'antibiotique, soit carrément la bactérie va substituer la cible par une autre qui présente une moindre affinité. Un exemple courant de ce type de modification c'est le cas du Staphylococcus aureus. 
+
+Staphylococcus aureus est une espèce sensible aux pénicillines normalement, notamment à l'oxacilline. Pour exercer leur activité qui est l'inhibition de la synthèse du peptidoglycane, les pénicillines doivent se lier aux PLP ou protéines de liaison aux pénicillines. Eh bien certaines souches de Staphylococcus aureus sont capables de sécréter d'autres PLP qui présentent une faible affinité à l'antibiotique et vont ainsi devenir résistantes. 
+
+La détection de la résistance aux pénicillines se fait grâce à un disque d'oxacilline, ici noté au X. Il faut savoir que les souches de Staphylococcus aureus résistantes à l'oxacilline sont résistantes à toutes les bétalactamines, c'est une résistance croisée et donc les souches de Staphylococcus aureus qui résistent à l'amycicilline ou les SARM sont considérées comme des bactéries multirésistantes. Les antibiotiques constituent une importante avancée thérapeutique dans l'histoire de la médecine, mais l'émergence constante de souches bactériennes résistantes par divers mécanismes nécessite une surveillance épidémiologique régulière de ces souches et une limitation de l'utilisation excessive des antibiotiques. Et voilà, nous en avons fini avec nos cours de bactériologie fondamentale. 
+
+Comme promis, une séance interactive sera bientôt programmée, probablement en fin de semaine prochaine pour vous laisser le temps de réviser vos cours. Je répondrai à vos questions et on fera ensemble une série de QCM type. Alors il faut absolument revoir vos cours pour que la séance soit bénéfique. 
+
+Je vous remercie de votre attention et je vous souhaite une bonne continuation. J'espère que tout le monde va bien et j'espère aussi que vous avez eu le temps de réviser vos cours pour que la séance d'aujourd'hui vous soit bénéfique. Alors voilà comment on va procéder.
+
+On va on va commencer par faire un récapitulatif. Donc je vais commencer par récapituler les différents cours de bactériologie fondamentale qu'on a vu ensemble et ensuite on va faire ensemble quelques QCM, donc des QCM tirés des années précédentes. Vous pouvez poser vos questions au fur et à mesure à la fin de chaque cours, à la fin de chaque récapitulatif. 
+
+Donc on y va. Donc le premier cours ça a été la structure bactérienne. Alors les bactéries, les bactéries ce sont des êtres vivants qui sont microscopiques et qui ont une structure qui est relativement simple par rapport aux cellules, aux autres cellules, aux eucaryotes. 
+
+Alors schématiquement, ce sont des cellules qui sont entourées d'une membrane cytoplasmique, comme c'est le cas pour toutes les cellules, et puis entourées pour la grande part par une paroi, à l'exception d'un seul genre qui est celui des mycoplasmes. On peut trouver à l'intérieur de la cellule bactérienne des organites intracytoplasmiques, comme les ribosomes, et puis le matériel génétique de la bactérie, il se trouve dans le cytoplasme, dans une région qu'on appelle le nucléotide, et il n'est pas entouré par une membrane nucléaire. Donc c'est la définition même des cellules prokaryotes, à la différence des eucaryotes. 
+
+Donc pas de membrane nucléaire. Alors pour observer les bactéries, donc pour pouvoir les visualiser, on a recours au microscope. D'abord, grâce au microscope optique, on peut se renseigner sur différents éléments qui sont très importants, à savoir la forme des bactéries et le mode de leur regroupement. 
+
+Vous le savez maintenant que la plupart des bactéries d'intérêt médical, donc qui sont responsables d'infections humaines, peuvent se présenter soit sous forme arrondie, ce qu'on appelle les coccyx, ou bien sous forme de bacilles. Excusez-moi, il y a un petit problème avec le curseur. Donc je répète, les bactéries d'intérêt médical se présentent soit sous forme arrondie ou coccyx, soit sous forme allongée de bâtonnets, c'est ce qu'on appelle les bacilles. 
+
+Et ce que vous avez sur vos photos, ce que vous avez sur votre écran, ce sont des photos qui sont prises au microscope optique d'un Staphylococcus aureus. Ce que vous voyez à gauche, Staphylococcus aureus, vous voyez, ce sont des coccyx à grammes positifs. Et ce que vous avez à droite, ce sont des bacilles qui sont de forme allongée, comme on a dit, qui sont colorées en rose.
+
+Ce sont des bacilles à grammes négatifs. Pour une étude plus approfondie de la structure des bactéries, on a recours au microscope électronique. Mais il faut savoir que dans un laboratoire d'analyse médicale, donc dans un laboratoire où se font les analyses, la biologie médicale, on a recours juste au microscope optique. 
+
+Ce qu'on cherche, c'est juste à visualiser la forme des bactéries. Et cette visualisation, c'est un critère d'identification. Par contre, en revanche, les microscopes électroniques, ce sont des instruments qui coûtent extrêmement cher et qui ne sont pas disponibles dans les laboratoires d'analyse médicale. 
+
+Ce sont des microscopes que l'on peut retrouver juste dans les laboratoires de recherche parce que ça coûte extrêmement cher, comme j'ai dit. Et donc, vous voyez que c'est dans un but uniquement de recherche. Alors, l'ultrastructure étudiée grâce au microscope électronique nous permet de renseigner sur le détail de cette structure bactérienne. 
+
+La structure des bactéries, elle comprend des éléments obligatoires ou constants et des éléments qui sont facultatifs ou inconstants. Donc, on va retrouver que chez certaines bactéries. Pour ces éléments obligatoires, vous avez la paroi bactérienne. 
+
+Donc, c'est ce que vous voyez. C'est tout ce qui entoure la bactérie. C'est la paroi bactérienne qui a un rôle extrêmement important. 
+
+Ça sert à maintenir d'abord la forme de la bactérie. C'est une sorte de squelette qui entoure cette bactérie. Ça intervient également dans la pathogénicité et c'est le cas notamment des bacillagrames négatifs parce qu'on en a parlé. 
+
+Cette paroi, elle comporte le lipopolysaccharide. Vous avez aussi comme structure constante les ribosomes. Ce sont ces granulés. 
+
+Ce sont des granules sphériques qui sont dans le cytoplasme. Troisième élément obligatoire, c'est le chromosome. Le chromosome présente une structure qui est circulaire et sur-enroulée, donc en forme d'une sorte de pelote. 
+
+Vous avez ensuite comme élément obligatoire le cytoplasme et enfin la membrane cytoplasmique. Voilà. Tous ces éléments, ce sont des éléments qui sont constants, qui sont obligatoires. 
+
+Alors, concernant les éléments facultatifs ou inconstants, vous avez les pilis qui sont de deux types. Les pilis communs, ce que vous voyez ici, c'est ce qui va entourer la cellule à la sorte d'une fourrure, donc qui va entourer toute la bactérie. Vous avez un autre type de pili, ce sont les pilis sexuels.
+
+Les pilis sexuels, c'est ce que vous voyez ici. C'est bien sûr, c'est schématique, c'est très schématique. Ensuite, vous avez comme élément facultatif le flagelle. 
+
+Le flagelle, c'est ce qui va permettre à la bactérie de devenir mobile. Maintenant, vous avez une idée qui est plus globale concernant les bactéries. Vous savez maintenant que certaines bactéries sont mobiles et d'autres immobiles. 
+
+Un type de bactéries qui sont, s'il vous plaît, coupez vos micros. Un type de bactéries immobiles, c'est clebsiella pneumonie. Un type de bactéries immobiles, c'est Escherichia coli. 
+
+Cette mobilité, elle est possible grâce à la présence, justement, de ces flagelles. Un autre élément facultatif, c'est le plasmide. Ce que vous voyez là, c'est le plasmide. 
+
+Et enfin, la spore. La spore, c'est un élément qui va permettre à la bactérie de résister dans des conditions qui sont défavorables. Donc, c'est une forme de résistance de la bactérie. 
+
+Alors, en pathologie humaine, donc en médecine humaine, deux genres seulement sont capables de sporuler. Le genre Clostridium, on vous en a parlé. Les genres Clostridium, ce sont des bactéries qui sont très résistantes dans le milieu extérieur, justement, grâce à la formation de spores. 
+
+Et un autre genre, c'est le genre Bacillus. Donc, deux genres bactériens d'intérêt médical qui sont capables de sporuler. Ce sont les genres Bacillus et le genre Clostridium. 
+
+Un autre schéma qui reprend tous les éléments dont on vient de parler. Et oui, justement, on a oublié de parler de la capsule. La capsule, c'est aussi un élément qui est un constant, qui n'est présent que chez certains types de bactéries. 
+
+Et cette capsule, elle a un rôle très important dans la virulence de la bactérie parce que, tout simplement, cette capsule, elle va empêcher la phagocytose qui est, la phagocytose, c'est un moyen de défense de l'homme face à l'agression des bactéries. Concernant la structure de la paroi des bactéries, alors c'est un élément qui est très important. Vous devez absolument connaître la structure de la paroi des bactéries parce que, vous avez eu l'occasion de le voir, la bactérie, elle a des échanges avec le milieu extérieur. 
+
+Ces échanges avec le milieu extérieur ne sont possibles que grâce à cette paroi. La paroi, elle permet, c'est un site d'action d'antibiotiques, elle permet aux antibiotiques de passer à travers la structure. Donc, je répète, la paroi des bactéries, c'est un élément qui est très important. 
+
+Il faut absolument connaître cette structure des bactéries. Alors, il y a une différence que ce soit des bactéries à grammes positifs ou à grammes négatifs. Concernant les grammes positifs, c'est une structure qui est relativement simple. 
+
+On retrouve uniquement une épaisse couche de peptidoglycans qui est traversée par des chaînes d'acides décoïques et lipotécoïques. Ces chaînes d'acides décoïques ou lipotécoïques ne sont présentes donc que chez les grammes positifs. Lorsque ces chaînes sont ancrées à la membrane cytoplasmique, on parle d'acides lipotécoïques lorsqu'ils sont présents uniquement au niveau de la paroi.
+
+Ce sont des acides décoïques. Pour la structure, ce n'est pas la peine de retenir, ce sont des polymères de molécules de glycérol et de ribitole qui sont regroupés par des phosphates. C'est juste à titre indicatif. 
+
+Retenez que la paroi des grammes positifs comprend une grosse couche de peptidoglycans traversée par des chaînes d'acides décoïques et lipotécoïques. À la différence des grammes négatifs qui ont une structure qui est plus complexe. Pourquoi ? Parce qu'on va trouver en plus du peptidoglycan, donc une mince couche de peptidoglycan, on retrouve une structure qui est particulière, qui n'est présente que chez les grammes négatifs, c'est la membrane externe. 
+
+Cette membrane externe est formée de deux couches de phospholipides, donc c'est schématisé par ces petits ronds et ces petits pieds. La zone hydrophobe est au centre et on retrouve une polarité hydrophile vers l'extérieur. Cette membrane externe est traversée par des porines. 
+
+Ce sont les porines qui vont permettre les échanges avec le milieu extérieur, donc le passage des nutriments et le rejet de déchets. Et c'est aussi à travers les porines que vont passer les antibiotiques. Pourquoi nous insistons sur la structure de cette paroi ? Chez les grammes négatifs notamment, on retrouve au niveau de la membrane externe un composant qui est très important. 
+
+Pourquoi ? Parce qu'il est responsable de la toxicité de ces types bactériens, de ces bactéries, c'est le lipopolysaccharide. Il est présent uniquement chez les grammes négatifs puisqu'on le retrouve au niveau de la membrane externe qui n'est présente que chez les grammes négatifs. La structure de ce lipopolysaccharide, comme son nom l'indique, est formée d'une partie lipidique et d'une partie polysaccharidique. 
+
+Cette partie lipidique est responsable de la toxicité, la partie polysaccharidique comprend une séquence qui est la même pour toutes les bactéries qui en possèdent bien sûr, et une séquence qui change selon les bactéries. C'est cette séquence là qui va déterminer la spécificité antigénique des bactéries. J'en ai fini avec le premier cours sur la structure bactérielle.
+
+Si vous avez des questions, allez-y, posez vos questions concernant le premier cours. Est-ce qu'il y a des questions ? Non ? Des questions ou bien des compléments d'informations ? Donc il n'y a pas de questions, on passe. Oui, je vous écoute.
+
+Oui, allez-y. Dans le cours, vous dites que les pilis sexuels sont connus par des gènes plasmidiques. Est-ce que ça veut dire que si on n'a pas de plasmides, on ne peut pas avoir de pilis sexuels ? Bien sûr, ils ont un déterminisme plasmidique et donc leur présence est liée à la présence de de plasmides. 
+
+Oui, exactement. Est-ce qu'il y a d'autres questions ? Non ? Donc je passe au cours suivant. Le cours suivant a porté sur la physiologie bactérienne. 
+
+Les bactéries, ce sont des êtres vivants et donc comme nous tous, ils ont des besoins énergétiques et des conditions physico-chimiques qui soient favorables pour qu'elles puissent survivre. Les conditions physico-chimiques, donc d'abord concernant les conditions physico-chimiques, il y a la température. La température ambiante, donc comme pour nous tous, elle est très importante.
+
+Et la plupart des bactéries, et c'est tout à fait logique, c'est tout à fait logique, la plupart des bactéries qui sont responsables d'infections humaines, ils ont une température de prédilection, une température optimale qui est 37 degrés. Pourquoi 37 degrés ? Tout simplement, c'est la température du corps humain. Donc les bactéries qui sont responsables d'infections chez l'homme, elles préfèrent une température de 37 degrés à peu près. 
+
+C'est la température du corps. Il faut aussi un pH qui soit favorable et vous avez vu que certaines bactéries sont capables de pousser en pH alcalin. On peut citer l'exemple du vibriant cholérique. 
+
+Il faut aussi une pression osmotique qui soit favorable et une concentration en sucre et en sel également qui soit favorable. Et on peut citer à travers ces deux éléments, à travers ces deux conditions physico-chimiques, tout simplement l'exemple du miel. Pourquoi est-ce que le miel se conserve pendant, je dirais, des années sans qu'il soit contaminé, je dis bien, par des bactéries d'intérêt médical, par des bactéries responsables d'infections humaines ? On peut y retrouver des petits champignons qui sont microscopiques, qu'on ne voit pas, mais qui ne sont pas nocifs pour l'homme. 
+
+Donc le miel se conserve extrêmement bien. Pourquoi ? Parce qu'il y a énormément de sucre et les bactéries ne tolèrent pas une concentration élevée de sucre. Concernant le sel, on peut citer aussi un exemple qui était pratiqué il y a longtemps par vos arrières-grands-mères, je dirais, et par nos grands-mères. 
+
+C'est l'exemple de l'guidid. Il y a longtemps, vous savez, il n'y avait pas de réfrigérateur. Au Maroc, c'est un exemple qui nous concerne. 
+
+Un exemple de guidid, je ne sais pas si vous savez ce que c'est. Il y a longtemps, il n'y avait pas de réfrigérateur et puis face à une grande quantité de viande, pour conserver cette viande, qu'est-ce qu'on faisait ? Tout simplement, on y mettait énormément de sel et cette méthode était très efficace. Avec cette immense concentration de sel, les bactéries ne peuvent pas pululer et donc c'était un moyen très efficace de conservation de la viande.
+
+Concernant un autre élément, la teneur en oxygène, certaines bactéries sont aérobistrictes, d'autres sont anaérobistrictes, c'est-à-dire qu'elles ne tolèrent pas d'oxygène et d'autres sont anaérobifacultatives. Et c'est le cas notamment, pourquoi j'ai mis en graphe ? Parce que ça concerne la plupart des bactéries qui sont responsables d'infection chez l'homme. La plupart de ces bactéries sont anaérobifacultatives. 
+
+On a évoqué les conditions physico-chimiques qui sont nécessaires concernant les besoins énergétiques. Bon, ça paraît tout à fait logique, les bactéries ont besoin d'énergie, cette énergie est nécessaire pour se déplacer, pour se multiplier, donc pour croître. Elles ont besoin d'une source de carbone, d'une source d'azote, de phosphore, d'oligo-éléments. 
+
+Elles ont également besoin de facteurs de croissance. Pourquoi est-ce qu'on s'intéresse à l'étude de ces conditions physico-chimiques, de ces conditions nutritives en bactériologie ? Pourquoi est-ce qu'on s'y intéresse ? Justement parce que c'est en comprenant les nécessités des bactéries, donc en comprenant les exigences des bactéries, qu'on va réussir à les faire pousser, donc qu'on va réussir à maîtriser ces bactéries, à les isoler et donc de là à les identifier. Donc tout simplement, l'étude des conditions physico-chimiques et des conditions nutritives nous permet de faire pousser les bactéries, donc de les isoler afin de pouvoir les identifier.
+
+Les milieux de culture qu'on peut utiliser pour faire pousser des bactéries, ce sont soit des milieux enrichis auxquels on a incorporé des facteurs de croissance, des vitamines, des extraits de viande, donc on a enrichi pour faire pousser le maximum de bactéries, le maximum d'espèces bactériennes. En revanche, les milieux sélectifs sont utilisés pour ne faire pousser qu'un seul type de bactéries. On peut citer l'exemple, alors concernant ces milieux sélectifs, nous pouvons citer, donc vous le connaissez maintenant, vous avez étudié, c'est le staph, le staphylococcus, excusez-moi, et voilà.
+
+Donc je reprends, le milieu sélectif c'est un exemple qui est utilisé pour la pousse du staphylococcus et ce milieu en l'occurrence c'est le milieu de Chapman, le milieu de culture qui s'appelle le milieu de Chapman. Alors quand est-ce qu'on utilise, quand est-ce qu'on a recours à ces milieux sélectifs ? C'est lorsqu'on est devant un prélèvement qui contient, qui est susceptible de contenir plusieurs types de bactéries. C'est ce qu'on appelle les prélèvements contaminés ou souillés. 
+
+Alors certains prélèvements, dès qu'on les réalise, donc à partir du site de prélèvements sont censés être stériles. C'est l'exemple notamment du liquide céphalo-rachidien. Lorsqu'on prélève du LCR devant une suspicion de ménagite, ce liquide est censé être stérile. 
+
+Alors que si Si on est face à un prélèvement urinaire, un prélèvement d'urine, ce prélèvement est d'emblée, peut-être d'emblée, souillé par ce qu'on appelle la fleur commensale. Maintenant, vous connaissez ce que c'est la fleur commensale. Ce sont des bactéries qui sont présentes au niveau du site du prélèvement sans qu'elles soient responsables d'infection.
+
+Et donc, quand on est face à un prélèvement qui est susceptible de contenir plusieurs types de bactéries, on a recours aux milieux sélectifs. C'est pour ne faire pousser qu'un seul genre bactérien. C'est pour ceci qu'on utilise des milieux sélectifs.
+
+Alors, de façon pratique, de façon courante, on utilise les deux en même temps. On utilise des milieux enrichis et des milieux sélectifs en même temps pour la plupart des prélèvements. Alors, sur ce slide, vous avez les principales étapes d'isolement des bactéries.
+
+La première étape, c'est l'ensemencement. Donc, c'est schématisé. L'ensemencement, c'est tout simplement l'étalement de notre prélèvement à la surface du milieu de culture.
+
+Ensuite vient l'étape d'incubation, c'est-à-dire qu'on va laisser reposer nos boîtes, nos milieux de culture dans une étuve qui est réglable, qui est réglable à 37 degrés à l'intérieur de jarres. Ce sont les jarres qui permettent de conserver une atmosphère correcte d'incubation. Le lendemain, c'est-à-dire après 18 à 24 heures, si, bien sûr, si le prélèvement initial contenait des bactéries, on voit alors apparaître des colonies.
+
+Mais s'il n'y avait pas de bactéries dans le prélèvement que l'on a reçu, le milieu de culture, il reste comme ça. La boîte reste stérile. Et là, vous voyez des colonies qui sont bien visibles, énormément de colonies qui sont bien apparentes.
+
+Donc, le prélèvement initial, il contenait vraiment des bactéries. Alors, les milieux de culture que vous voyez là, ce sont des milieux de culture qui sont solides. On peut avoir recours à des milieux de culture qui sont liquides, mais rarement.
+
+Et comment est-ce qu'elle va se manifester, cette pousse bactérienne, à l'intérieur d'un milieu liquide ? C'est par l'apparition d'un trouble. Le milieu devient trouble. Lorsqu'on a initialement un milieu de culture qui est limpide, on y met le prélèvement, un petit peu de notre prélèvement.
+
+Le lendemain, on vient l'observer et qu'on voit qu'il est trouble. On va être certains qu'il y avait des bactéries. Alors, je vois deux questions de Youssef.
+
+Alors, quand on dit qu'une bactérie est anaérobie stricte, est-ce que cela veut dire que l'oxygène est toxique ? Oui, absolument. Les bactéries ne peuvent pas, les bactéries anaérobies ne tolèrent pas l'oxygène. C'est toxique.
+
+C'est exactement, il faut toujours faire des analogies par rapport à l'être humain, où il nous faut une atmosphère où il y a de l'oxygène. C'est comme ça. S'il n'y a pas d'oxygène, on ne peut pas tolérer. 
+
+C'est la même chose pour les bactéries. L'atmosphère des jarres est anaerobie ou anaerobie ? Justement, on utilise des jarres pour maintenir l'atmosphère qu'on veut. Il y a des sachets d'anaerobiose qu'on va insérer à l'intérieur de la jarre afin de maintenir une atmosphère anaerobie.
+
+Ensuite, une fois qu'on a isolé ces bactéries, une fois qu'on a obtenu des colonies, on peut travailler sur ces colonies. On peut les identifier et faire notre antibiogramme. Parce que notre finalité, en tant que bactériologiste, c'est obtenir l'antibiogramme.
+
+C'est traiter notre malade. Oui, on veut bien identifier la bactérie, c'est un plus. Mais vraiment, le fond, l'objectif primaire, je dirais, de notre analyse, c'est traiter notre malade.
+
+Et donc, d'obtenir un antibiogramme pour qu'on sache à quelle antibiotique la bactérie est sensible et donc par quelle antibiotique je peux traiter mon malade. Une fois qu'on a identifié et qu'on a fait notre antibiogramme, on est en mesure de diagnostiquer et de traiter notre malade. Les bactéries se multiplient par 6, 6 parité.
+
+Donc, vous avez la première étape, c'est la bactérie mère, qui va, dans une première étape, on va assister à un allongement de la cellule bactérienne. Ensuite, une duplication de son chromosome, une formation de septum entre les deux, et puis une séparation, donc l'obtention de deux cellules phi à partir de la cellule mère. L'obtention de deux cellules phi à partir de la cellule mère par 6, 6 parité, ce sont les principes de la multiplication bactérienne.
+
+Concernant la dynamique de cette croissance bactérienne, il y a quelques étapes qui se succèdent. Il y a d'abord, et c'est tout à fait logique, une phase de latence. Les bactéries sont là, qu'est-ce qu'elles vont faire ? Elles vont essayer de s'adapter à leur milieu, donc une phase d'adaptation des bactéries au milieu.
+
+Une fois qu'elles ont trouvé ce qu'il leur faut, les nutriments et les conditions physico-chimiques, elles vont commencer à se multiplier. C'est la phase de multiplication via d'accélération. Ensuite, on assiste à une phase exponentielle d'accélération où la vitesse de multiplication est maximale.
+
+Puis vient une étape de déclin parce que les nutriments commencent à s'épuiser. Puis, une phase où la vitesse de multiplication est nulle parce que les bactéries ne trouvent plus les nutriments qu'il leur faut. Elles ne se multiplient plus.
+
+Et enfin, la phase de décélération et de déclin. Les bactéries vont commencer à être lisées. Est-ce qu'il y a des questions concernant le cours sur la physiologie bactérienne ? Alors, est-ce que la phase de décélération est considérée comme étant une phase... Une phase quoi ? Je n'arrive pas à lire.
+
+Une phase ? À part. Ah, d'accord. À et plus loin par. 
+
+OK. Est-ce qu'elle est considérée comme une phase à part ? Bon, c'est un détail. J'y reviens.
+
+On peut considérer que c'est une seule phase ou une phase à part. C'est comme vous voulez. En tout cas, ce qu'il faut comprendre, c'est que les bactéries, en ne trouvant plus les nutriments qu'il leur faut, vont commencer à se liser, ce qui appartient à la courbe.
+
+Alors, est-ce que la phase de décélération est considérée comme étant une... Bon, je ne vois plus la suite. Youssef, le milieu intérieur est riche en oxygène. Pourquoi les bactéries en aérobie peuvent... Justement, je lis la question.
+
+Le milieu intérieur est riche en oxygène. Pourquoi les bactéries en aérobie peuvent y proliférer ? Justement, c'est pour ça qu'on a recours à des jars. À l'intérieur des jars, on met ce qu'on appelle des sachets d'anaérobioses.
+
+Ce sont des sachets qu'on va ouvrir, qui vont carrément éliminer l'oxygène qu'il y a à l'intérieur des jars. Oui ? Une autre question ? Votre question est très pertinente, monsieur Youssef Idrissi. Justement, j'y viens.
+
+Je reprends la question de monsieur Youssef Idrissi. Le milieu intérieur, vous parlez du corps humain, est riche en oxygène. Pourquoi les bactéries en aérobie peuvent y proliférer ? C'est une question qui est tout à fait pertinente.
+
+Pourquoi ? Parce que, justement, les bactéries en aérobie chez l'être humain, où est-ce qu'on va les isoler ? C'est surtout au niveau des tissus qui sont profonds. Et à l'intérieur du corps humain, il n'y a pas de contact avec l'oxygène. On ne va pas les retrouver dans des plaies superficielles, qui sont justement en relation avec l'oxygène.
+
+Mais on va les retrouver dans des prélèvements qui sont profonds. Ce sont des prélèvements, par exemple, des pus profonds, soit d'appendicite, soit digestif. Je vous donne des exemples.
+
+Ce sont des pus... Des bactéries qu'on retrouve aussi au niveau... Parfois des biopsies, mais je dirais surtout au niveau des pus profonds, parce qu'il n'y a pas de contact avec l'oxygène à l'intérieur du corps humain. Est-ce qu'il y a d'autres questions ? Mais les bactéries en aérobie, on ne les isole pas au niveau des plaies superficielles. Que ce soit une plaie superficielle, on ne suspecte jamais des bactéries en aérobie.
+
+Les bactéries en aérobie, elles sont suspectées, par exemple, dans des infections de pieds diabétiques, où c'est vraiment, je dirais, profond et vraiment dans des zones qui commencent à être gangrénées, justement. Les infections, vous le savez, comme complication du diabète, donc un diabète peut se compliquer par l'apparition de gangrènes, notamment au niveau des membres inférieurs. Et avant cette étape de gangrène, on assiste à des nécroses.
+
+Des nécroses, donc ce sont des zones où l'oxygène n'est vraiment pas là. Et on peut isoler à partir de ces prélèvements, donc à partir des infections du pied diabétique, on peut isoler des bactéries en aérobie. Alors, une autre question.
+
+Les bactéries en aérobie ne peuvent pas donner de bactéries émises, puisqu'elles ne peuvent pas être en contact avec l'oxygène. Les bactéries en aérobie, elles sont responsables d'infections, ne peuvent pas, puisqu'elles... Merci infiniment, madame, j'ai bien compris. Je vous en prie, monsieur Youssef.
+
+Alors, je reviens à la question de monsieur Ali. Les bactéries en aérobie ne peuvent pas donner de bactéries émises. Alors, les bactéries émises sont surtout dues à... au Staphylococcus aureus, sont surtout dues à des entérobactéries.
+
+On peut aussi trouver de l'acinéto, donc des non-fermentants, d'accord ? Mais c'est vrai, vous avez raison. Les bactéries émises, elles sont très rarement, voire pas du tout, causées par... responsables de bactéries émises. Est-ce qu'il y a d'autres questions ? On passe alors, on avance, pour qu'on ait le temps de faire quelques QCM.
+
+Alors, le troisième cours concernant la génétique bactérienne. On a dit que les types de variations génétiques chez les bactéries étaient soit des mutations, soit des transferts de gènes entre bactéries, soit des recombinaisons, des remaniements à l'intérieur même du génome de la bactérie. Concernant les mutations, elles sont de deux types, soit ponctuelles, lorsqu'elles ne concernent qu'une seule paire de bases, ou bien dynamiques lorsqu'elles concernent plusieurs types de bases.
+
+Les propriétés de la mutation, c'est extrêmement important, il faut absolument les connaître. C'est la spontanéité, la rareté, la stabilité, la spécificité et l'indépendance. Les transferts de gènes entre bactéries, vous avez là, de façon schématique, une bactérie réceptrice qui va recevoir un fragment d'ADN provenant d'une bactérie donatrice.
+
+Elle va le recevoir soit par conjugaison, transformation, transduction, soit la bactérie n'intègre pas cet exogénote dans son génome et ça va être éliminé, donc restriction par l'autre, soit elle va le recevoir et donc elle va insérer cet exogénote, ce fragment à l'intérieur de son génome. L'acquisition d'ADN exogène se fait soit par transformation, soit par conjugaison, soit par transduction. Alors, on a parlé de la transduction, vous avez là, de façon schématique, ce qui se passe.
+
+La transduction, je rappelle, c'est que l'ADN part par l'intermédiaire d'un bactériophage, donc par l'intermédiaire d'un virus qui est capable d'infecter la bactérie. Alors, qu'est-ce qui va se passer ? Le phage va se fixer à la surface de la bactérie, il va injecter son matériel génétique, à partir de là, deux cas de figure. Soit ce fragment d'ADN du phage va s'insérer dans le génome de la bactérie et va continuer à se multiplier en même temps que le génome du bactérie.
+
+Et c'est quoi la conséquence ? Cette bactérie va commencer à exprimer de nouvelles propriétés qui sont dues au génome, donc au fragment d'ADN du virus. Soit, deuxième cas de figure, l'ADN du phage ne s'intègre pas, il commence à coder pour la synthèse de protéines virales, qui sont nécessaires à la formation de nouveaux phages. Une fois que ces protéines virales sont fabriquées, il va les assembler et va former de nouveaux virions et puis éclater la cellule pour pouvoir les libérer.
+
+Il peut arriver, dans ce cas de figure, on parle de l'isogénie, et là, de cycle litique, ça concerne les phages virulents, il peut arriver qu'un phage tempéré, qui avait intégré le génome du phage, s'engage dans un cycle litique. D'accord ? Ça peut arriver, mais très rarement. Alors, mademoiselle Fatem Zahra, est-ce que toutes les mutations sont transmissibles héréditairement ? Oui, parce que c'est une propriété des mutations.
+
+C'est transmissible à la descendance. Donc, il n'y a pas à en douter. Est-ce qu'il y a d'autres questions concernant ce cours ? Monsieur Abdelbass, dans le cycle litique, l'ADN phagique n'est jamais intégré dans l'ADN bactérien ? Absolument pas.
+
+Il ne s'intègre pas et il code pour des protéines virales qui vont assembler et former des virions puis éclater la cellule. Madame Rita, est-ce que l'ADN acquis par conjugaison est transmissible ? Est-ce que l'ADN acquis par conjugaison est transmissible à la descendance ? Alors, une fois que la bactérie... Bon, la conjugaison, c'est transmis, c'est horizontal. D'accord ? C'est l'acquisition d'un plasmide de façon horizontale.
+
+Mais une fois que la bactérie a acquis une nouvelle propriété, oui, elle peut transmettre cette nouvelle propriété. Il faut se rappeler que tout ça, pourquoi on étudie ces transferts d'ADN, c'est par rapport aux propriétés, notamment de résistance aux bactéries. Donc essayer de toujours raisonner par rapport à l'acquisition de nouvelles propriétés.
+
+Ce qui nous intéresse surtout en tant que bactériologiste, la principale propriété, c'est la résistance aux antibiotiques. Est-ce qu'un phage issu du cyclite peut donner un cycle isogénique par la suite ? Non. Est-ce que la conjugaison est dépendante de l'antibiotique ? Mlle Fatem Zahra, la conjugaison, est-ce qu'elle est dépendante de l'antibiotique ? Absolument, oui.
+
+Plus on utilise... On va le voir dans le cours sur les antibiotiques, plus on a recours à des antibiotiques, Et puis, on favorise les mécanismes de résistance acquise, notamment par conjugaison. Pour l'acquisition d'ADN, on peut trouver l'acquisition de chromosomes et plasmides. Je n'ai pas compris votre question.
+
+Pour l'acquisition d'ADN, on peut trouver l'acquisition. C'est le plus souvent, très souvent, c'est plasmidique. C'est vraiment très rare.
+
+Chromosomique, c'est très rare. Le plus souvent, le plus souvent, c'est plasmidique. Alors, madame, est-ce que vous pouvez expliquer à les intégrants? Bon, ce qui concerne les intégrants, alors c'était vraiment à titre indicatif.
+
+C'est des cassettes de transfert de gènes. Donc, à votre niveau, ne retenez pas, s'il vous plaît. D'accord? Ce qui concerne les intégrants, ce n'est pas la peine.
+
+Ce n'est pas la peine de retenir. C'est vraiment à titre indicatif. Les systèmes de capture et de transmission des gènes, c'est vraiment compliqué pour vous.
+
+À titre indicatif. Alors, on passe au cours suivant. Le pouvoir pathogène des bactéries.
+
+Il y a d'abord une étape d'adhésion. La bactérie va adhérer à la surface du revêtement cutaneo-muqueux. Ensuite, une étape d'invasion.
+
+La bactérie va pénétrer à l'intérieur. Et une étape d'envahissement tissulaire où elle va commencer à se propager à l'intérieur. La bactérie va créer sur elle-même, les tissus.
+
+Un modèle d'adhésion qui est important. Pourquoi? Parce que les infections urinaires, elles sont très fréquentes. Ce sont les infections qui sont les plus fréquentes en pathologie humaine.
+
+Et là, vous avez un modèle d'adhésion. Comment est-ce que Echerichia Coli adhère à la surface des cellules du tractus urinaire, les cellules uro-épithéliales. Echerichia coli est un bacillagrame négatif.
+
+Il possède donc des adhésines. Elles possèdent des piliers communs, elles possèdent des adhésines. Ces adhésines vont reconnaître de façon spécifique des récepteurs qui sont présents à la surface des cellules uro-épithéliales.
+
+Cette fixation se fait de façon spécifique. Cette spécificité explique le fait que c'est seulement certaines bactéries, certaines espèces bactériennes, qui sont responsables d'un type déterminé d'infection. A titre d'exemple, les infections urinaires sont essentiellement causées par Echerichia coli.
+
+C'est justement à cause de cette spécificité d'adhésion. Les principaux facteurs d'agression bactérienne sont la production de toxines, les exotoxines et les endotoxines. Les exotoxines sont transformables en anatoxines et suscitent la formation d'anticorps.
+
+Ce sont les antitoxines. Les endotoxines sont présentes chez les grammes négatifs. Cela correspond au lipopolysaccharide.
+
+Pourquoi sont-elles graves ? Elles sont responsables du choc endotoxinique qui peut être mortel. Un rappel concernant la structure. Malgré que nous sommes tous dotés, Dieu merci, d'un système de défense contre cette agression bactérienne, notre système immunitaire est là pour nous défendre contre les infections bactériennes.
+
+Mais parfois, malgré nos systèmes de défense, malgré un système immunitaire qui est correct, qui est vraiment efficace, les bactéries arrivent quand même à provoquer des infections. Elles arrivent à déjouer nos réponses immunitaires, qu'elles soient humorales ou cellulaires. Comment est-ce que cela arrive ? C'est principalement grâce à la variation antigénique d'une part et aussi grâce à la résistance à la phagocytose.
+
+Certaines bactéries arrivent à s'opposer à la phagocytose. On peut citer le cas du pneumocoque. Le pneumocoque, grâce à sa présence, grâce à sa capsule, peut empêcher, peut s'opposer à la phagocytose.
+
+C'est un facteur d'échappement à la réponse immunitaire. Est-ce qu'il y a des questions concernant le cours des pouvoirs pathogènes ? Non ? On enchaîne avec les antibiotiques. Les principaux modes d'action des antibiotiques, soit inhibition de la synthèse de la paroi bactérienne, soit de la membrane cytoplasmique, soit inhibition de la synthèse de l'ADN, soit inhibition de la synthèse protéique.
+
+C'est également un mécanisme d'action de certains antibiotiques. Les antibiotiques qui inhibent la synthèse de la paroi bactérienne, il faut absolument retenir ces slides. Il faut connaître les antibiotiques qui agissent en inhibant la synthèse de la paroi bactérienne.
+
+Une question de Mlle Fatem Zahra, est-ce que les bactéries s'approfitent ? Ce sont des bactéries commensales. Les bactéries s'approfitent. Leur définition, ce sont des bactéries qui ne sont pas présentes sur le corps humain.
+
+Elles sont présentes à la surface des tables, sur le sol, sur le lit. Elles ne sont pas présentes sur le corps humain. Les bactéries commensales, à la différence, ce sont des bactéries présentes sur le corps humain, à la surface de la peau, ou bien des muqueuses.
+
+Les points de différence entre les bactéries commensales et symbiotiques. Les bactéries symbiotiques, ce sont des bactéries commensales. Les bactéries symbiotiques, qui vivent en symbiose avec l'être humain, ce sont bien sûr des bactéries commensales.
+
+Est-ce qu'il y a d'autres questions ? On enchaîne. Je revenais... Elles ne sont pas pathogènes. De quoi vous parlez ? Des bactéries commensales ? Les bactéries commensales ? Oui.
+
+Alors, les bactéries commensales, on peut citer à titre d'exemple le Staphylococcus aureus. Ça peut vous paraître maintenant beaucoup plus clair. Un genre bactérien, ou bien une espèce bactérienne qui est commensale, c'est le Staphylococcus aureus.
+
+Est-ce que le Staphylococcus aureus n'est pas responsable d'infection ? Bien sûr que si. Ce sont des bactéries qui sont commensales, mais à l'occasion, il est là sur les muqueuses. Le Staphylococcus aureus, on le trouve surtout sur les muqueuses.
+
+On le trouve aussi sur la peau. Il suffit qu'il y ait une petite brèche, par exemple au niveau du doigt, pour que, je cite l'exemple du panary, le panary, c'est quoi ? C'est une infection du bout du doigt. À cause justement d'une petite brèche, d'une plaie qu'on ne peut même pas voir, il va pénétrer, il va provoquer une infection.
+
+Bien sûr, les bactéries commensales peuvent devenir pathogènes. Alors, les bétalactamines, les glycopeptides, coupez vos micros s'il vous plaît. Est-ce qu'on peut trouver des bactéries symbiotiques qui ne sont pas commensales ? Mlle Hiba, je répète, les bactéries symbiotiques, ce sont des bactéries commensales.
+
+Donc, négatif, on ne peut pas en trouver. Les bactéries symbiotiques, ce sont des bactéries commensales. Alors, les bétalactamines, et j'insiste particulièrement sur les bétalactamines parce que ce sont les antibiotiques qui sont les plus utilisés en médecine humaine.
+
+Les bétalactamines, je suis sûre que parmi vous, il y en a, je dirais, la majorité qui ont déjà pris une bétalactamine. Une bétalactamine, si on cite des exemples, c'est l'amoxyciline. Coupez vos micros s'il vous plaît.
+
+C'est l'amoxyciline, c'est l'augmentin, c'est le clavulin. Donc, je suis sûre qu'il y en a parmi vous qui en ont déjà pris, ne serait-ce que pour des angines. L'oraciline, pour une infection cutanée, on prend de l'oxaciline, c'est ce qu'on appelle le floxam.
+
+Bon, alors les bétalactamines, il faut absolument les connaître. Elles sont très utilisées, ce sont des antibiotiques auxquels on a énormément recours pour traiter nos patients. Les glycopeptides, par contre, ils ont un usage qui est uniquement hospitalier.
+
+Donc, leur indication, elle est restreinte au staph aureus qui résiste à la méticilline. Alors, les bétalactamines, c'est l'antibiotique qui agit en inhibant la synthèse de la paroi. Ce sont les bétalactamines, les glycopeptides et la fosfomycine.
+
+Parmi ces bétalactamines, qu'est-ce qu'on retrouve ? On retrouve les pénicillines, les céphalosporines et les apparentés. Alors, comme exemple de céphalosporine, qui peut me donner un exemple de céphalosporine ? Oui, allez-y. Allez-y, monsieur, monsieur Ibrahim.
+
+Je ne vous entends pas. Monsieur Ibrahim ? Oui, monsieur Ibrahim. Monsieur Ibrahim Ladnani, je vous écoute.
+
+Vous avez un problème de micro, donc écrivez, je ne sais pas. Un exemple de céphalosporine. Oui, céphalosporine de troisième génération, mais donnez-moi un exemple.
+
+Les céphalosporines comprennent des céphalosporines première génération, deuxième génération, troisième et même quatrième. Ça, on est bien d'accord. Mais un exemple de molécule, donnez-moi un exemple de molécule et sa principale indication.
+
+Bon, pour avancer. Troisième génération, en parlant de céphalosporine de troisième génération, vous avez le céphotaxime, le ceftriaxone, et je suis sûre qu'on vous en a parlé. Pour traiter les méningites, on a recours à quoi ? On a recours à une céphalosporine de troisième génération qui est la ceftriaxone, ou bien, à défaut, le céphotaxime.
+
+Très bien. Traitement de Neisseria. Mademoiselle Ikram.
+
+Traitement de quel Neisseria ? Neisseria, il y en a deux types qui sont pathogènes. Attention, il faut être précis. Vous parlez de quel Neisseria ? Mademoiselle Ikram Nouibet.
+
+Neisseria méningitis. Très bien. Donc, on revient au cas des méningites.
+
+On a recours à une céphalosporine de troisième génération qui est la ceftriaxone pour traiter la méningite. Très bien. Les glycopeptides aussi agissent en inhibant la synthèse de la paroi.
+
+Les antibiotiques agissent en inhibant la synthèse des protéines. En même temps, je réponds à vos questions. Monsieur Mohamed Habib, est-ce que les antibiotiques peuvent causer des réactions allergiques ? Absolument, oui.
+
+Et ces réactions allergiques peuvent être très graves, notamment pour les bétalactamines. Je suis sûre que vous en avez entendu parler, des personnes qui sont allergiques aux pénicillines. Ce sont des personnes qui ont pris ne serait-ce que de l'amoxicilline, donc une pénicilline, et qui ont développé... Ces réactions allergiques, elles peuvent aller d'un simple urticare, c'est juste une manifestation cutanée, au choc anaphylactique.
+
+Si une personne allergique aux bétalactamines reçoit, par exemple, des bétalactamines, les bétalactamines ne peuvent pas être alimentés. Donc, si on a une pénicilline, ou un céphalo-sporine, ça peut être mortel, ça peut causer un choc anaphylactique, auquel on peut remédier rapidement en utilisant, bien sûr, dans une structure de soins, une réanimation à de l'adrénaline. Mais si on n'est pas dans une structure de soins, il ne faut jamais utiliser des bétalactamines injectables pour la première fois.
+
+Les antibiotiques qui agissent sur les acides nucléiques, les quinolones notamment, qui sont très utilisés, comme la ciprofloxacine, dans les infections urinaires. Il y en a de première génération et de deuxième génération concernant ces quinolones. Il y a des antibiotiques qui agissent sur les membranes, d'autres qui agissent sur la synthèse des acides mycoliques et sont utilisés comme traitements anti-tuberculeux.
+
+Alors, concernant la résistance bactérienne aux antibiotiques, le support de la résistance naturelle, c'est le chromosome. C'est par mutation, c'est uniquement par chromosome. Le support est uniquement chromosomique.
+
+Mais la résistance acquise, son support est très rarement chromosomique. Il est très souvent plasmidique. Très souvent, il est dû à un plasmide par acquisition d'un ADN étranger.
+
+Et ceci se fait soit par conjugaison, soit par transformation, soit par transduction. Là, je reprends un petit peu les caractères de la mutation. Elle se fait par transmission verticale.
+
+Et la résistance acquise, extra-chromosomique, elle est plasmidique. La transmission est horizontale. Là aussi, vous avez tout ce qui concerne la résistance par mutation.
+
+Elle est rare. Elle est spécifique d'une famille. Donc là, on est vraiment dans le cadre de la résistance bactérienne aux antibiotiques.
+
+Elle est stable et héréditaire. La résistance extra-chromosomique, elle est très fréquente, elle est non spécifique. Elle est liée à l'antibiotique.
+
+La question de tout à l'heure est directement liée à l'antibiotique. Elle est épidémique et explosif. Les mécanismes de résistance.
+
+Soit pour résister à l'action des antibiotiques, les bactéries vont soit altérer les récepteurs, donc modifier la cible de l'antibiotique, soit diminuer la perméabilité, ce qui va empêcher l'antibiotique de pénétrer, tout simplement en modifiant les porines ou bien en les fermant carrément. Soit en refoulant l'antibiotique, une fois qu'il a pénétré, elle va le refouler, elle va le faire sortir à nouveau, elle va le refouler. Et ça, ce mécanisme est très fréquent.
+
+Donc, c'est la production d'enzymes qui vont dégrader l'antibiotique. La différence entre transmission horizontale et verticale. Transmission horizontale, c'est une transmission entre les bactéries de la même espèce.
+
+Verticale, c'est tout simplement à la descendance. La transmission verticale, c'est la transmission à la descendance. Voilà, donc je cite ici l'exemple de l'inactivation enzymatique.
+
+Pourquoi ? Parce que c'est un type de résistance bactérienne aux antibiotiques qui est très fréquent. Est-ce que vous avez des questions avant de passer au QCM ? Comment la prise excessive des antibiotiques favorise la résistance aux antibiotiques ? Et là, vous avez une excellente question. Vous allez trouver la réponse dans ce slide.
+
+Les bactéries, elles s'adaptent. Les bactéries, elles sont rusées. Elles s'adaptent aux conditions qui leur sont défavorables, notamment en acquérant des propriétés nouvelles.
+
+Comment est-ce que cela est possible ? C'est justement en transmettant entre elles des plasmides. Une fois qu'on utilise un antibiotique de façon abusive, les bactéries vont commencer à s'adapter. Elles vont commencer à produire des plasmides de résistance à cet antibiotique.
+
+Elles vont commencer à le transmettre entre elles. On a des cas où on a reçu des prélèvements au laboratoire. On isole, par exemple, une Echerichia coli qui est productrice de bétalactamase à spectrélargie.
+
+Je vous ai parlé de ce type de mécanisme. C'est une Echerichia coli qui résiste. C'est une bactérie multirésistante qui résiste à tous les antibiotiques sauf au carbapenem et au céfamyxine.
+
+Et à côté, on isole une Echerichia coli, une clebsielle apneumonée, donc une autre espèce qui est plutôt gentille, qui a juste une résistance naturelle. Imaginez que le lendemain, on reçoit un autre prélèvement du même patient. La clebsielle a aussi acquis cette BLE.
+
+Il y a vraiment une transmission horizontale. Les bactéries, même d'espèces différentes, se transmettent des plasmides de résistance entre elles. Alors, QCM de révision.
+
+Là, c'est des QCM tirés des examens des années précédentes. Vous allez voir que c'est très simple. Il suffit juste de bien réviser vos cours.
+
+La capsule est une structure bactérienne qui est obligatoire ? Non. Elle est présente chez toutes les bactéries à gramme positif. Non plus, elle n'est visualisée qu'au microscope électronique.
+
+Ce n'est pas vrai. Elle est aussi visualisée au microscope optique. D'ailleurs, la capsule, on la voit sous forme d'un halo-clair ou bien d'un espace clair autour de la bactérie.
+
+Rappelez-vous la photo du pneumocoque. On voit des coxyagrames positifs en diplocoque qui sont entourés d'un halo-clair ou bien d'un éclaircissement autour de la bactérie. Participe-t-elle à la virulence de la bactérie ? Oui, parce qu'elle s'oppose à la phagocytose.
+
+Est-elle responsable d'une spécificité antigénique de la bactérie ? Oui, elle détermine la spécificité antigénique, notamment ce qui permet de distinguer différents séreotypes pour le pneumocoque. La paroi des bactéries à gramme négatif, est-ce qu'elle est la cible d'activité de nombreux antibiotiques ? Oui. Oui, la paroi des bactéries à gramme négatif, c'est à ce niveau qu'agissent, rappelez-vous, les bétalactamines.
+
+C'est la paroi. C'est l'équivalent respiratoire des mitochondries chez les eucaryotes. Non, ce n'est pas la paroi, c'est la membrane cytoplasmique.
+
+Est-elle responsable de leur pathogénécité ? Oui. Pourquoi ? Parce que c'est à son niveau qu'on va retrouver le LPS au niveau de la membrane externe et donc au niveau de la paroi. Est-elle essentiellement formée de peptidoglycanes ? La paroi des grammes négatifs ? Non, c'est les grammes positifs.
+
+Elle permet des échanges nutritifs avec le milieu extérieur ? Oui, grâce à la présence des porines. Les pilis communs sont aussi appelés des fins brillées ? Oui. Là, je crois que je n'ai pas cité ce terme dans votre cours, le terme de fins brillées, mais justement, cette séance interactive, c'est aussi l'action de compléter les informations et aussi, justement, c'est ce qui va nous permettre de distinguer les étudiants qui assistent par rapport aux autres.
+
+Donc, qu'on ne vienne pas me dire fins brillées, on ne connaît pas. Les pilis communs, ce sont les fins brillées. Participe un transfert génétique entre les bactéries ? Non, c'est plutôt le pili sexuel.
+
+Sont présents en petit nombre chez les bactéries ? Non, les pilis communs entourent la bactérie. Sont un facteur de pathogénécité, les pilis communs ? Oui, c'est un facteur de pathogénécité parce qu'ils vont permettre l'adhésion grâce à la présence des adhésines. Ont une structure fibrillaire ? Oui.
+
+La spore, c'est une forme d'adaptation de la bactérie à son milieu ? Oui. Elle permet à la bactérie une meilleure résistance ? Absolument. Intervient-t-elle dans le transfert génétique entre les bactéries ? Non. 
+
+Permet-t-elle une meilleure mobilité ? Qu'est-ce qui permet la mobilité des bactéries ? On l'a dit, ce sont les flagelles. Est-ce une structure bactérienne inconstante ? Oui. La phase de décélération de la dynamique de la croissance correspond au début de l'île de la culture bactérienne à une vitesse de croissance nulle, début d'épuisement du milieu, phase d'adaptation de la bactérie au milieu, vitesse de division, vitesse de division cellulaire maximale.
+
+C'est un début d'épuisement du milieu. En même temps, je vais vérifier si vous avez des questions. La phase de latence, c'est la phase... La phase de latence, rappelez-vous, c'est la première phase, c'est la phase d'adaptation de la souche à son milieu.
+
+Le plasmide, il est non indispensable à la vie bactérienne. Oui, parce que c'est une structure qui est inconstante, donc elle n'est pas... Elle est non indispensable. Est-il incapable de réplication autonome ? Non, il est capable de réplication autonome.
+
+Est-il transmissible d'une bactérie à une autre uniquement par transformation ? Non. Correspond-t-il aux chromosomes bactériens négatifs ? Peut-être le support de la résistance aux antibiotiques ? Oh que oui. La conjugaison, est-ce qu'elle peut se faire contre bactéries de même espèce ? Non, c'est souvent le cas, c'est souvent entre bactéries de même espèce, mais elle peut se faire entre bactéries d'espèces différentes.
+
+Est-ce qu'elle se fait par l'intermédiaire de bactériophages ? Non, c'est plutôt la transduction. Est-ce que la bactérie réceptrice doit être en phase de compétence ? Oui, et la phase de compétence, c'est une étape qui est provisoire, qui est particulière, où la paroi s'apprête à laisser passer, donc c'est une phase particulière où la paroi laisse traverser le fragment d'ADN qui est exogène. Présente un déterminisme plasmidique ? Oui, se fait par la combinaison entre un génomique négatif.
+
+La mutation génétique, est-ce qu'elle correspond à l'acquisition d'un ADN exogène ? Non, l'acquisition d'ADN exogène, c'est un transfert de gènes entre bactéries. C'est un phénomène fréquent ? Non, c'est un phénomène qui est rare. Peut-il s'effectuer par conjugaison ? Rien à voir.
+
+Est-ce qu'elle est transmissible à la descendance ? Est-ce qu'elle est dynamique lorsqu'elle contient plusieurs paires de bases ? Oui, pour les deux dernières, c'est oui. Si vous avez des questions, vous les posez. Est-ce qu'il y a des questions ? Oui, allez-y, mademoiselle Ariane Sonia.
+
+Madame, s'il vous plaît. Oui ? Il y a une section qui s'est rapprochée de bactéries. Est-ce qu'elle est transmissible à l'échange des gènes ? Je n'ai rien entendu, mademoiselle.
+
+Vous pouvez répéter votre question ? Madame, s'il vous plaît. Oui ? Vous êtes rapprochée de bactéries. Est-ce qu'il ne peut pas être transmissible à l'échange des gènes ? Mademoiselle, vous avez un problème de micro.
+
+Écrivez votre question. Il est préférable d'écrire votre question parce que ce n'est pas audible. Je n'arrive pas à vous entendre.
+
+Écrivez votre question, s'il vous plaît. Déterminisme plasmidique, c'est-à-dire que c'est codé par des plasmides. Qu'est-ce que ça veut dire, portage sain ? Mademoiselle, c'est votre question, non ? Madame, l'épilepsie sexuelle est un moyen de rapprochement ? Oui, c'est un moyen de contact.
+
+C'est ce qui va permettre le transfert du matériel génétique entre les bactéries. Oui, absolument, oui. Qu'est-ce que ça veut dire, portage sain ? Un portage sain, qu'est-ce que c'est ? Ça concerne les bactéries qui sont virulentes, les bactéries qui sont pathogènes.
+
+Ce ne sont plus des bactéries qui sont... Comment ça, là ? Ce ne sont plus des pauvres bactéries qu'on va retrouver sur le revêtement cutanio-muqueux. Ce sont des bactéries dont la virulence est indiscutable. Je peux citer l'exemple du pneumocoque, du méningocoque.
+
+Ce sont des bactéries qui sont absolument virulentes. Vous le savez maintenant, elles peuvent être responsables de méningites mortelles. Il peut arriver que ces bactéries se trouvent au niveau du corps humain, se retrouvent au niveau du nasopharynx, puisque c'est leur site de prédilection, c'est le nasopharynx.
+
+Au niveau rhinopharyngé, pardon. Nasopharynx, je passe au corona. Au niveau du rhinopharynx, on peut en retrouver, mais elles sont là, elles ne sont pas responsables d'infection.
+
+Chez certains individus, et chez beaucoup d'individus, on peut retrouver du pneumocoque ou du méningocoque au niveau de son rhinopharynx sans pour autant qu'il y ait d'infection chez cet individu. Ça concerne à peu près 30 % de la population. C'est dans ce cas-là qu'on parle de portabilité.
+
+C'est-à-dire qu'il y a des bactéries qui sont normalement pathogènes, qu'on va retrouver au niveau d'un rhinopharynx, d'un individu qui est sain, qui n'a aucune pathologie. Mais à la moindre occasion, une défaillance immunitaire ou bien une inflammation ou autre, ces bactéries peuvent traverser la barrière hémato-encéphalique et devenir pathogènes. Alors, on en est où avec les questions ? Est-ce qu'il y a d'autres questions ? Oui, j'ai répondu à ces questions.
+
+Donc, on avance. Il ne permet pas l'échange... Enlevez vos émoticônes, parce que je ne vois même plus ce qui est écrit. Vous avez dit qu'il ne permet pas l'échange chromosomique.
+
+De quoi vous parlez, là ? Pilissexuel. Il permet un échange de gènes. Attention, il faut faire la différence entre un chromosome et un fragment d'ADN.
+
+Il y a une différence. Les phages virulents sont responsables du cycle éthique. Oui, ils interviennent dans le phénomène de transduction.
+
+Oui, ils détruisent la bactérie infectée. Oui, ils intègrent leur matériel génétique au chromosome bactérien. Non, ce sont des bactériophages tempérés.
+
+Non, ce sont les phages lysogènes. La transformation se fait par acquisition d'ADN exogène. Oui.
+
+Se fait-il par une combinaison intragenomique ? Non. Fait-il intervenir des bactériophages ? Non, c'est plutôt la transduction. Est-ce que c'est un transfert de gènes ? Oui.
+
+Nécessite-t-il un état de compétence de la bactérie receveuse ? Exactement. Les endotoxines, sont-elles transformables en anatoxines ? Non. Les endotoxines sont les bactéries agrames négatives.
+
+Ce sont les exotoxines qui sont transformables en anatoxines. C'est une propriété essentielle des exotoxines qui est à la base de la production de vaccins, de certains vaccins. Alors correspondent-ils aux antigènes O des bactéries agrames positives ? Non, parce que les endotoxines ne sont pas présentes chez les bactéries agrames positives.
+
+Est-ce qu'elles peuvent provoquer des chocs sceptiques ? Oui. Est-ce qu'elles sont libérées dans l'organisme à la différence des exotoxines qui sont libérées pendant la croissance. Pendant la phase de croissance.
+
+Elles sont présentes au niveau de la membrane cytoplasmique ? Non. Les endotoxines sont présentes au niveau de la membrane externe. La paroi des bactéries agrames positifs est essentiellement formée de peptidoglycane et colorée en rose au grain.
+
+Là, elle est colorée en violet et est une structure facultative de la cérébrité. cellules bactériennes, la paroi, c'est une structure qui est constante, qui est obligatoire. Joue un rôle dans leur protection du milieu extérieur ? Oui.
+
+Est-il riche en lipopolysaccharides ? Non. Quel est le mécanisme ? Donc vous voyez, c'est une question d'examen qui ressort souvent parce qu'il faut absolument connaître le mécanisme d'action des antibiotiques. Je ne vous demande pas de retenir leur spectre d'activité, les détails des détails, non, mais il faut retenir l'essentiel qu'il faut absolument avoir en bagage pour les années futures, incha'Allah.
+
+Les bétalactamines inhibent la synthèse du pepsidoglycane de la paroi. La phase de compétence est nécessaire uniquement à la transformation. Pour la conjugaison, non.
+
+Ce sont les pilis sexuels qui sont nécessaires. Pour répondre à mademoiselle Fateme Zahra. La multiplication bactérienne se fait par six parités.
+
+Dimension de la taille, non-division non-binaire, donc se fait par six parités. Le support du gène de résistance, ça peut être soit le chromosome, soit le plasmide, on est bien d'accord. Le support du gène de résistance, c'est le chromosome ou bien le plasmide.
+
+La résistance par mutation, donc là vous avez les propriétés de la mutation chromosomique. Elle est non-spécifique, c'est faux. Elle est fréquente, c'est faux.
+
+Elle affecte une partie de la population bactérienne, c'est juste. Très rare partie de la population. Elle est transmise à la descendance, oui. 
+
+Transmise horizontalement, non. Les pilis communs interviennent dans la conjugaison bactérienne, oui. Elles sont constituées de protéines, oui.
+
+Elles sont constituées de pilines, non. Est-ce que les pilis communs interviennent dans la conjugaison bactérienne ? Non, ce sont les pilis sexuels qui interviennent dans la conjugaison bactérienne. Elles sont constituées de protéines, oui. 
+
+Elles sont constituées de pilines. Elles sont présentes chez les grammes négatifs, oui. Au nombre de 2 pour toutes les bactéries, c'est faux.
+
+Elles interviennent dans l'adhésion, c'est juste. Les antibiotiques qui inhibent la synthèse des protéines, les aminosides, les tétracyclines, les macrolides. Les antibiotiques.
+
+Est-ce qu'ils inhibent sélectivement certaines voies métaboliques des virus ? Non, ça n'a rien à voir avec les virus. Ça ne sert à rien de prendre un antibiotique lorsqu'on a une infection virale. Il y a la possibilité d'avoir une infection virale.
+
+Je ne pense pas que ça ait de plus en plus de importance. Ça ne sert à rien. C'est le méningococque, on est bien d'accord, j'ai parlé du méningococque.
+
+Eh bien, figurez-vous que le méningococque, c'est le Nesserian Meningitis. Oui, il peut exister en portage, ça chez l'homme, jusqu'à 30 à 35 % des individus, voire plus, parce qu'on a fait des études où on s'est amusé à faire des prélèvements rhinopharyngés chez des individus qui avaient des maladies de l'hygiène. Chez même des enfants, chez des individus qui sont sains.
+
+Et là, on peut retrouver du pneumococque, qui est pourtant une bactérie très virulente. Mais il faut savoir qu'il existe en fait, il existe plusieurs séreotypes. Je parle du pneumococque et certains séreotypes sont plus virulents que d'autres.
+
+Voilà, donc on est à l'heure exacte. Je ne sais pas si vous avez besoin de cette présentation. Vous me répondez, est-ce que vous avez besoin de la présentation des récapitulatifs et des QCM qu'on vient de voir? Oui, d'accord, donc je peux vous laisser.
+
+Je vais voir avec notre ingénieur pour vous laisser cette présentation. Donc vous voyez en fait que les QCM, c'est pas sorcier, il suffit juste de réviser vos cours, c'est très simple. Voilà, on a terminé avec nos cours de bactériologie fondamentale.
+
+J'ai été honorée de vous enseigner, bien sûr. Et puis je vous souhaite très bon courage pour la suite. Pour la suite, incha'Allah.
+
+Je vous transmettrai ce cours. Voilà, au revoir et bonne continuation. Au revoir.

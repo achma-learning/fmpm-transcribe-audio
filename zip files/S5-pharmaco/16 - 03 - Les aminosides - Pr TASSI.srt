@@ -1,0 +1,835 @@
+1
+00:00:02,060 --> 00:00:05,180
+Bonjour, nous allons voir aujourd'hui les aminosides.
+
+2
+00:00:07,660 --> 00:00:10,080
+Les objectifs, c'est d'être capable d
+
+3
+00:00:10,080 --> 00:00:12,560
+'expliquer le mode d'action, de définir le
+
+4
+00:00:12,560 --> 00:00:15,020
+spectre d'action et les indications, de faire
+
+5
+00:00:15,020 --> 00:00:19,240
+une prescription des aminosides, de reconnaître les contre
+
+6
+00:00:19,240 --> 00:00:21,640
+-indications et les effets secondaires.
+
+7
+00:00:24,350 --> 00:00:27,690
+Les aminosides sont des molécules naturelles ou semi
+
+8
+00:00:27,690 --> 00:00:30,470
+-synthétiques qui sont des sucres aminés liés par
+
+9
+00:00:30,470 --> 00:00:31,990
+un point glycosidique.
+
+10
+00:00:31,990 --> 00:00:35,970
+Ce sont des bases avec activité antibactérienne optimale
+
+11
+00:00:35,970 --> 00:00:36,990
+en milieu alcalin.
+
+12
+00:00:41,620 --> 00:00:44,980
+La streptomycine était la première molécule qui a
+
+13
+00:00:44,980 --> 00:00:47,300
+été découverte en 1944.
+
+14
+00:00:47,580 --> 00:00:49,920
+Par la suite sont suivies d'autres molécules.
+
+15
+00:00:51,920 --> 00:00:55,100
+Les aminosides agissent par l'inhibition de la
+
+16
+00:00:55,100 --> 00:00:58,620
+synthèse protéique et le cible d'action, c
+
+17
+00:00:58,620 --> 00:01:01,000
+'est le ribosome au niveau de la source
+
+18
+00:01:01,000 --> 00:01:03,280
+unité 30 et la source unité 50.
+
+19
+00:01:07,540 --> 00:01:11,960
+Les aminosides agissent au niveau du ribosome.
+
+20
+00:01:12,300 --> 00:01:15,160
+On a la streptomycine qui agit sur la
+
+21
+00:01:15,160 --> 00:01:19,060
+source unité 30 et les autres molécules comme
+
+22
+00:01:19,060 --> 00:01:22,740
+la gentamicine, la trobramycine, la mycacine, la nitilmycine
+
+23
+00:01:22,740 --> 00:01:27,100
+et l'isopamycine qui agissent sur la source
+
+24
+00:01:27,100 --> 00:01:30,500
+unité 50 et la source unité S.
+
+25
+00:01:33,340 --> 00:01:40,920
+Alors comment agissent les bactéries pour résister aux
+
+26
+00:01:40,920 --> 00:01:42,120
+aminosides ?
+
+27
+00:01:42,120 --> 00:01:44,640
+On a soit par altération de la cible
+
+28
+00:01:44,640 --> 00:01:48,580
+ribosomale, ce qui arrive contre la streptomycine et
+
+29
+00:01:48,580 --> 00:01:52,560
+l'aspectinomycine, ou bien un défaut de pénétration
+
+30
+00:01:52,560 --> 00:01:56,900
+de l'aminoside, ou bien une inactivation enzymatique
+
+31
+00:01:56,900 --> 00:02:00,080
+par la production d'enzymes contre les aminosides
+
+32
+00:02:00,080 --> 00:02:06,520
+comme les aminosides phosphotransférase, les aminosides nucleotidyltransférase
+
+33
+00:02:06,520 --> 00:02:10,160
+et les aminosides acetyltransférase.
+
+34
+00:02:11,760 --> 00:02:15,280
+Pour le spectre d'activité, pour les espèces
+
+35
+00:02:15,280 --> 00:02:20,520
+habituellement sensibles, on a les bactéries grammes négatives
+
+36
+00:02:20,520 --> 00:02:24,560
+comme les entérobactéries, pseudomonas aeruginosa et la cynitobactère,
+
+37
+00:02:25,100 --> 00:02:30,300
+les bacillogrammes positifs aïrobis comme l'alisteria monocytogène,
+
+38
+00:02:30,400 --> 00:02:35,200
+le bacillus et les corinibactéries, aussi les coxyagrammes
+
+39
+00:02:35,200 --> 00:02:38,880
+positifs aïrobis comme le staphylocoque sensible à la
+
+40
+00:02:38,880 --> 00:02:42,840
+myticéline et les coxygrammes négatifs comme les nigeria
+
+41
+00:02:42,840 --> 00:02:49,320
+-miningitidis ou nigeria-gonorrhoe.
+
+42
+00:02:52,810 --> 00:02:56,530
+Pour les espèces résistantes, on a les bactéries
+
+43
+00:02:56,530 --> 00:03:01,750
+grammes négatives comme le sténotrophomonas maltophila et le
+
+44
+00:03:01,750 --> 00:03:07,370
+pseudomonas cepacia, le streptocoque ou l'enterocoque qui
+
+45
+00:03:07,370 --> 00:03:10,630
+ont une résistance de bas niveau, le staphylocoque
+
+46
+00:03:10,630 --> 00:03:13,530
+résistant à la myticéline, sauf pour le staphylocoque
+
+47
+00:03:13,530 --> 00:03:16,310
+doré dont 80% sont sensibles encore à
+
+48
+00:03:16,310 --> 00:03:21,670
+l'agentamycine, les germes intracellulaires dans Mycoplasme, Chlamydiae,
+
+49
+00:03:21,770 --> 00:03:26,190
+Ligionella, Pneumophila et Riquetti et les anaïrobis.
+
+50
+00:03:30,230 --> 00:03:34,530
+Les aminosides agissent quand même particulièrement à certaines
+
+51
+00:03:34,530 --> 00:03:39,270
+espèces comme la streptomycine ou la canamycine qui
+
+52
+00:03:39,270 --> 00:03:42,850
+agissent sur Mycobacterium tuberculosis, donc elle est utilisée
+
+53
+00:03:42,850 --> 00:03:50,350
+sur le germe responsable de la tuberculose, la
+
+54
+00:03:50,350 --> 00:03:54,890
+mycacine et les epamycines actives sur les mycobactéries
+
+55
+00:03:54,890 --> 00:04:01,630
+atypiques dans Mycobacterium avium et Spectinomycine ou Trobicine
+
+56
+00:04:01,630 --> 00:04:05,770
+qui agissent sur Myceria gonorrhoe ou sur le
+
+57
+00:04:05,770 --> 00:04:06,330
+gonocoque.
+
+58
+00:04:11,930 --> 00:04:15,930
+Les aminosides ont un effet bactéricide vu que
+
+59
+00:04:15,930 --> 00:04:19,350
+la concentration minimale bactéricide est proche de la
+
+60
+00:04:19,350 --> 00:04:21,210
+concentration minimale inhibitrice.
+
+61
+00:04:21,650 --> 00:04:24,350
+Cet effet est très intense et très rapide
+
+62
+00:04:24,350 --> 00:04:28,730
+qui apparaît dès la première heure après administration.
+
+63
+00:04:29,430 --> 00:04:35,030
+Ils ont un effet bactéricide à concentration dépendante
+
+64
+00:04:35,030 --> 00:04:37,330
+et pas d'effet dénonculant, c'est-à
+
+65
+00:04:37,330 --> 00:04:39,510
+-dire qu'ils ne sont pas influencés par
+
+66
+00:04:39,510 --> 00:04:43,970
+la densité bactérienne du site infectieux.
+
+67
+00:04:48,410 --> 00:04:54,010
+Pour l'effet post-antibiotique des aminosides, il
+
+68
+00:04:54,010 --> 00:04:56,830
+est dû à l'inhibition de la croissance
+
+69
+00:04:56,830 --> 00:05:00,250
+bactérienne qui va persister plusieurs heures après l
+
+70
+00:05:00,250 --> 00:05:02,230
+'administration brève de l'aminoside.
+
+71
+00:05:03,230 --> 00:05:05,350
+Ce qu'il y a en conséquence, c
+
+72
+00:05:05,350 --> 00:05:08,530
+'est que pour les aminosides, on a la
+
+73
+00:05:08,530 --> 00:05:12,510
+possibilité d'espacer les prises et de raccourcir
+
+74
+00:05:12,510 --> 00:05:15,370
+la durée de traitement, c'est-à-dire
+
+75
+00:05:15,370 --> 00:05:19,070
+donner une seule injection par jour et la
+
+76
+00:05:19,070 --> 00:05:21,210
+durée de traitement et on peut se contenter
+
+77
+00:05:21,210 --> 00:05:23,990
+d'un seul jour ou au maximum de
+
+78
+00:05:23,990 --> 00:05:29,170
+72 heures de traitement sauf pour certaines indications.
+
+79
+00:05:32,980 --> 00:05:37,440
+Les aminosides ne sont pas absorbés parfois en
+
+80
+00:05:37,440 --> 00:05:40,400
+terral et leur demi-vie d'élimination est
+
+81
+00:05:40,400 --> 00:05:41,680
+de 2 à 3 heures.
+
+82
+00:05:42,260 --> 00:05:44,720
+Ils ont une bonne diffusion tissulaire que ce
+
+83
+00:05:44,720 --> 00:05:46,820
+soit au niveau du liquide synovial ou au
+
+84
+00:05:46,820 --> 00:05:48,780
+niveau du cortex rénal ce qui fait qu
+
+85
+00:05:48,780 --> 00:05:51,380
+'ils sont indiqués dans le traitement des infections
+
+86
+00:05:51,380 --> 00:05:54,720
+osteoarticulaires et des infections urinaires.
+
+87
+00:05:55,160 --> 00:05:57,540
+Par contre, ils n'ont pas de diffusion
+
+88
+00:05:57,540 --> 00:06:00,040
+au niveau du liquide céphalo-ragilien, des sécrétions
+
+89
+00:06:00,040 --> 00:06:02,340
+bronchiques et de l'humeur aqueuse.
+
+90
+00:06:02,340 --> 00:06:05,580
+Ce sont des antibiotiques à élimination urinaire sous
+
+91
+00:06:05,580 --> 00:06:10,520
+forme inchangée, active, sans sécrétion biliaire ni digestive.
+
+92
+00:06:14,150 --> 00:06:18,170
+Les aminosides sont associés à d'autres antibiotiques
+
+93
+00:06:18,170 --> 00:06:22,110
+donnant une réaction synergique, donc ils peuvent être
+
+94
+00:06:22,110 --> 00:06:26,170
+associés avec les bétalactamines en cas de traitement
+
+95
+00:06:26,170 --> 00:06:29,170
+des bacilles grammes négatives, de streptococque, d'enterocoque
+
+96
+00:06:29,170 --> 00:06:29,970
+et de listeria.
+
+97
+00:06:29,970 --> 00:06:33,190
+Ils peuvent être associés avec les glycopeptides pour
+
+98
+00:06:33,190 --> 00:06:36,470
+être efficaces sur le staphylococque résistant à la
+
+99
+00:06:36,470 --> 00:06:40,410
+myticilline et l'enterocoque, comme ils peuvent aussi
+
+100
+00:06:40,410 --> 00:06:43,110
+être associés au quinolone pour agir sur le
+
+101
+00:06:43,110 --> 00:06:45,430
+pseudomonas et les entero-bactéries.
+
+102
+00:06:52,580 --> 00:06:56,440
+Les aminosides sont indiqués dans le traitement curatif
+
+103
+00:06:56,440 --> 00:07:00,280
+par voie systémique, presque toujours en association dans
+
+104
+00:07:00,280 --> 00:07:03,780
+les infections sévères à bacilles grammes négatives aérobies,
+
+105
+00:07:03,780 --> 00:07:07,480
+dans les infections sévères à pseudomonas aérogénosa, dans
+
+106
+00:07:07,480 --> 00:07:11,660
+les infections systémiques à staphylococque sensible, en cas
+
+107
+00:07:11,660 --> 00:07:15,220
+d'endocardite streptococcique, en cas de listeriose et
+
+108
+00:07:15,220 --> 00:07:18,460
+en cas des états fébriles chez le nootropénique
+
+109
+00:07:18,460 --> 00:07:19,780
+et l'immunodéprime.
+
+110
+00:07:24,290 --> 00:07:27,850
+Les aminosides peuvent être administrés pour un traitement
+
+111
+00:07:27,850 --> 00:07:31,110
+curatif par voie locale dans certaines indications.
+
+112
+00:07:31,110 --> 00:07:35,710
+Ainsi, la niomycine est administrée oralement pour la
+
+113
+00:07:35,710 --> 00:07:38,810
+décontamination digestive en cas d'encéphalopathie et en
+
+114
+00:07:38,810 --> 00:07:40,570
+cas d'infection nosocomiale.
+
+115
+00:07:40,730 --> 00:07:43,250
+Ils peuvent être administrés par voie rachidienne pour
+
+116
+00:07:43,250 --> 00:07:45,870
+le traitement de certaines myningites et ventriculites à
+
+117
+00:07:45,870 --> 00:07:49,150
+germes résistants, et comme ils peuvent aussi être
+
+118
+00:07:49,150 --> 00:07:53,310
+administrés localement pour le traitement de certaines arthritis
+
+119
+00:07:53,310 --> 00:07:56,110
+et sinusites à germes résistants.
+
+120
+00:07:59,280 --> 00:08:03,500
+Les aminosides gardent quand même la possibilité d
+
+121
+00:08:03,500 --> 00:08:07,760
+'être administrés en monothérapie, essentiellement en cas d
+
+122
+00:08:07,760 --> 00:08:11,400
+'infection urinaire à germes multirésistants, et bien sûr
+
+123
+00:08:11,400 --> 00:08:15,380
+l'infection doit être documentée par le CBU
+
+124
+00:08:15,380 --> 00:08:19,880
+et la sensibilité doit être étudiée par antibiogramme
+
+125
+00:08:19,880 --> 00:08:22,680
+pour qu'on puisse utiliser les aminosides seuls.
+
+126
+00:08:22,680 --> 00:08:26,200
+Les aminosides aussi peuvent être administrés pour le
+
+127
+00:08:26,200 --> 00:08:28,440
+traitement de la tuberculose, mais bien sûr en
+
+128
+00:08:28,440 --> 00:08:30,780
+association avec les autres antibacillaires.
+
+129
+00:08:31,340 --> 00:08:33,580
+Ils peuvent être administrés pour le traitement de
+
+130
+00:08:33,580 --> 00:08:39,620
+gonococci par une injection de spectinomycine, et ils
+
+131
+00:08:39,620 --> 00:08:42,799
+peuvent être aussi indiqués pour le traitement de
+
+132
+00:08:42,799 --> 00:08:47,180
+mycobactéries atypiques en association avec d'autres molécules.
+
+133
+00:08:50,600 --> 00:08:54,400
+Les aminosides sont des antibiotiques toxiques pour le
+
+134
+00:08:54,400 --> 00:08:56,820
+rat, et cela est dû à la nécrose
+
+135
+00:08:56,820 --> 00:09:00,920
+de tube contournée proximale avec infiltration cellulaire de
+
+136
+00:09:00,920 --> 00:09:01,900
+l'interstitium.
+
+137
+00:09:02,580 --> 00:09:06,320
+Cette neurotoxicité est variable selon l'aminoside, elle
+
+138
+00:09:06,320 --> 00:09:10,680
+est accrue pour la parahamomécine et la niomécine,
+
+139
+00:09:11,240 --> 00:09:15,820
+moins pour la tobramécine et la mycacine.
+
+140
+00:09:15,820 --> 00:09:19,920
+Les lésions rénales provoquées par les aminosides sont
+
+141
+00:09:19,920 --> 00:09:23,220
+réversibles à l'arrêt de l'antibiotérapie, et
+
+142
+00:09:23,220 --> 00:09:26,860
+cette neurotoxicité implique une surveillance rigoureuse de la
+
+143
+00:09:26,860 --> 00:09:29,940
+fonction rénale, aussi bien avant le début de
+
+144
+00:09:29,940 --> 00:09:31,840
+traitement qu'au cours de traitement.
+
+145
+00:09:32,460 --> 00:09:34,520
+Et en plus, il ne faut pas hésiter
+
+146
+00:09:34,520 --> 00:09:36,800
+à réaliser un dosage de l'aminoside dans
+
+147
+00:09:36,800 --> 00:09:39,880
+le sang pour pouvoir juguler la posologie.
+
+148
+00:09:42,090 --> 00:09:47,750
+La deuxième toxicité des aminosides est celle sur
+
+149
+00:09:47,750 --> 00:09:51,530
+le système nerveux et les organes sensoriels, et
+
+150
+00:09:51,530 --> 00:09:53,550
+cela est dû au fait de l'atteinte
+
+151
+00:09:53,550 --> 00:09:56,090
+du vestibule et de la cochlée qui peuvent
+
+152
+00:09:56,090 --> 00:09:58,850
+se manifester plusieurs semaines même après l'arrêt
+
+153
+00:09:58,850 --> 00:09:59,730
+du traitement.
+
+154
+00:10:00,150 --> 00:10:01,910
+Et cela se traduira par des troubles de
+
+155
+00:10:01,910 --> 00:10:05,050
+l'équilibre qui peuvent être régressifs, mais les
+
+156
+00:10:05,050 --> 00:10:07,310
+troubles auditifs sont irréversibles.
+
+157
+00:10:07,310 --> 00:10:11,510
+Et cette autotoxicité est variable selon l'aminoside,
+
+158
+00:10:12,110 --> 00:10:16,190
+c'est plus important pour la joncamécine et
+
+159
+00:10:16,190 --> 00:10:18,570
+la mycacine par rapport à la nitimécine et
+
+160
+00:10:18,570 --> 00:10:19,550
+à la tobramécine.
+
+161
+00:10:20,090 --> 00:10:22,870
+La toxicité est accrue pour une insuffisance rénale
+
+162
+00:10:22,870 --> 00:10:26,450
+ou un traitement prolongé, et cela implique qu
+
+163
+00:10:26,450 --> 00:10:29,790
+'il faut surveiller par l'audiométrie d'une
+
+164
+00:10:29,790 --> 00:10:33,650
+manière rigoureuse lors d'un traitement par l
+
+165
+00:10:33,650 --> 00:10:34,250
+'aminoside.
+
+166
+00:10:38,570 --> 00:10:42,650
+Les aminosides peuvent avoir des interactions avec d
+
+167
+00:10:42,650 --> 00:10:47,530
+'autres antibiotiques, essentiellement les antibiotiques à néphrotoxicité comme
+
+168
+00:10:47,530 --> 00:10:50,690
+les diurétiques, l'amphotéricine B, la cisplastine, la
+
+169
+00:10:50,690 --> 00:10:52,370
+polymyxine et les myorelaxons.
+
+170
+00:10:52,870 --> 00:10:56,570
+Ils ont une contre-indication absolue à démarrer
+
+171
+00:10:56,570 --> 00:10:59,390
+chez des patients qui sont allergiques aux aminosides
+
+172
+00:10:59,390 --> 00:11:02,310
+et les patients ayant une myasthémie parce qu
+
+173
+00:11:02,310 --> 00:11:03,530
+'ils risquent de s'aggraver.
+
+174
+00:11:06,700 --> 00:11:11,340
+Les aminosides sont administrés par voie intraveineuse en
+
+175
+00:11:11,340 --> 00:11:15,980
+mini perfusion de 30 minutes.
+
+176
+00:11:16,560 --> 00:11:19,740
+La voie intraveineuse doit être évitée et la
+
+177
+00:11:19,740 --> 00:11:21,940
+voie sous-cutanée n'est pas recommandée vu
+
+178
+00:11:21,940 --> 00:11:24,380
+le risque de nécrose du site d'injection.
+
+179
+00:11:25,480 --> 00:11:29,720
+Ils sont utilisés en dose unique journalière et
+
+180
+00:11:29,720 --> 00:11:32,440
+la totalité de la posologie est administrée en
+
+181
+00:11:32,440 --> 00:11:34,880
+une seule perfusion par jour.
+
+182
+00:11:34,880 --> 00:11:37,360
+La durée de traitement et du fait de
+
+183
+00:11:37,360 --> 00:11:41,020
+l'effet post-antibiotique très important des aminosides
+
+184
+00:11:41,020 --> 00:11:46,200
+peut se réduire à une seule injection un
+
+185
+00:11:46,200 --> 00:11:50,760
+jour donné avec une durée maximale de 72
+
+186
+00:11:50,760 --> 00:11:54,560
+heures, sauf pour certaines indications particulières.
+
+187
+00:11:57,700 --> 00:12:00,500
+C'est un tableau qui montre les posologies
+
+188
+00:12:00,500 --> 00:12:03,720
+journalières ainsi que la voie d'administration de
+
+189
+00:12:03,720 --> 00:12:05,580
+plusieurs aminosides.
+
+190
+00:12:05,580 --> 00:12:08,240
+On a ici des doses minimales et des
+
+191
+00:12:08,240 --> 00:12:11,680
+doses maximales en fonction de la sévérité de
+
+192
+00:12:11,680 --> 00:12:13,080
+l'infection.
+
+193
+00:12:16,010 --> 00:12:20,810
+Pour récapituler, les aminosides sont des antibiotiques rapidement
+
+194
+00:12:20,810 --> 00:12:21,890
+bactéricides.
+
+195
+00:12:22,130 --> 00:12:26,270
+Ils ont une activité concentration dépendante avec un
+
+196
+00:12:26,270 --> 00:12:29,270
+effet post-antibiotique très important ce qui permet
+
+197
+00:12:29,270 --> 00:12:33,130
+de réduire les administrations à une seule perfusion
+
+198
+00:12:33,130 --> 00:12:35,670
+par jour et de réduire aussi la durée
+
+199
+00:12:35,670 --> 00:12:39,070
+de traitement qui peut se limiter à une
+
+200
+00:12:39,070 --> 00:12:43,250
+seule injection et au maximum trois injections.
+
+201
+00:12:43,730 --> 00:12:45,870
+Il n'y a pas de résorption digestive,
+
+202
+00:12:46,090 --> 00:12:48,750
+ce qui fait que les aminosides sont administrés
+
+203
+00:12:48,750 --> 00:12:49,910
+par voie systémique.
+
+204
+00:12:50,450 --> 00:12:53,150
+Ils sont éliminés par voie rénale sous forme
+
+205
+00:12:53,150 --> 00:12:56,570
+inchangée avec un faible index thérapeutique.
+
+206
+00:12:57,290 --> 00:13:01,010
+Ils ont aussi une nifrotoxicité, une autotoxicité.
+
+207
+00:13:01,410 --> 00:13:05,010
+Ce sont des antibiotiques réservés aux infections sévères
+
+208
+00:13:05,010 --> 00:13:08,190
+et à germes sensibles et souvent en association,
+
+209
+00:13:08,530 --> 00:13:09,030
+bien sûr.

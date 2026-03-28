@@ -1,0 +1,1799 @@
+1
+00:00:00,580 --> 00:00:02,320
+Chers étudiants, bonjour.
+
+2
+00:00:03,200 --> 00:00:07,000
+À présent, nous allons entamer le second cours
+
+3
+00:00:07,000 --> 00:00:11,960
+de la physiologie rénale qui sera consacré à
+
+4
+00:00:11,960 --> 00:00:16,500
+l'hémodynamique rénale avec une étude de la
+
+5
+00:00:16,500 --> 00:00:20,420
+circulation rénale mais surtout, nous allons s'attarder
+
+6
+00:00:20,420 --> 00:00:23,520
+sur la filtration glomérulaire.
+
+7
+00:00:24,640 --> 00:00:26,760
+Voilà le plan de ce cours.
+
+8
+00:00:26,760 --> 00:00:32,140
+Donc, après quelques notions sur la circulation rénale,
+
+9
+00:00:33,000 --> 00:00:39,520
+nous allons traiter de façon détaillée la filtration
+
+10
+00:00:39,520 --> 00:00:44,260
+glomérulaire en abordant les différents points qui sont
+
+11
+00:00:44,260 --> 00:00:48,120
+la formation du filtre à glomérulaire, la barrière
+
+12
+00:00:48,120 --> 00:00:53,160
+de filtration glomérulaire, la pression de filtration glomérulaire.
+
+13
+00:00:53,160 --> 00:00:57,340
+Nous allons passer en revue rapidement les facteurs
+
+14
+00:00:57,340 --> 00:01:02,220
+modulant la filtration glomérulaire et enfin, nous allons
+
+15
+00:01:02,220 --> 00:01:06,260
+voir l'estimation de la filtration glomérulaire.
+
+16
+00:01:06,940 --> 00:01:11,080
+Par la suite, nous allons aborder la régulation
+
+17
+00:01:11,080 --> 00:01:14,480
+de la microcirculation glomérulaire.
+
+18
+00:01:16,690 --> 00:01:19,830
+À présent, nous allons commencer par la circulation
+
+19
+00:01:19,830 --> 00:01:20,430
+rénale.
+
+20
+00:01:22,640 --> 00:01:25,540
+Comme nous l'avons dit dans le premier
+
+21
+00:01:25,540 --> 00:01:30,020
+cours d'introduction à la physiologie rénale, le
+
+22
+00:01:30,020 --> 00:01:35,040
+rein est un organe richement vascularisé qui reçoit
+
+23
+00:01:35,040 --> 00:01:38,880
+chaque minute presque le 1 quart du débit
+
+24
+00:01:38,880 --> 00:01:43,000
+cardiaque, soit 20% du débit cardiaque.
+
+25
+00:01:43,780 --> 00:01:46,200
+Ainsi, pour un débit cardiaque de 5 litres
+
+26
+00:01:46,200 --> 00:01:50,740
+par minute, les deux reins reçoivent ensemble un
+
+27
+00:01:50,740 --> 00:01:54,800
+débit sanguin rénal de 1 litre par minute.
+
+28
+00:01:56,360 --> 00:02:00,320
+Cette circulation rénale se distribue en trois lits
+
+29
+00:02:00,320 --> 00:02:01,220
+capillaires.
+
+30
+00:02:02,000 --> 00:02:06,640
+Rappelez-vous, nous avons parlé du réseau capillaire
+
+31
+00:02:06,640 --> 00:02:12,240
+glomérulaire qui va se continuer par les capillaires
+
+32
+00:02:12,240 --> 00:02:18,720
+postglomérulaires partagés en deux réseaux les capillaires péritubulaires
+
+33
+00:02:18,720 --> 00:02:25,220
+qui vont vasculariser le tube contourné proximal et
+
+34
+00:02:25,220 --> 00:02:29,440
+les tubes contournés distal et les vasarectas qui
+
+35
+00:02:29,440 --> 00:02:34,000
+vont descendre en bas pour assurer la vascularisation
+
+36
+00:02:34,000 --> 00:02:35,360
+de l'ence de haie.
+
+37
+00:02:37,780 --> 00:02:41,180
+Le rein bénéficie de deux régimes circulatoires.
+
+38
+00:02:41,780 --> 00:02:47,600
+La circulation corticale qui est intense, rapide, elle
+
+39
+00:02:47,600 --> 00:02:51,240
+représente à elle seule 90% du débit
+
+40
+00:02:51,240 --> 00:02:52,240
+sanguin rénal.
+
+41
+00:02:53,060 --> 00:02:54,940
+Ce n'est pas étonnant puisque c'est
+
+42
+00:02:54,940 --> 00:02:58,640
+à niveau là que se trouvent les glomérules
+
+43
+00:02:58,820 --> 00:03:04,620
+qui constituent l'unité fonctionnelle du rein avec
+
+44
+00:03:04,620 --> 00:03:08,420
+les tubules mais surtout ces glomérules sont des
+
+45
+00:03:08,420 --> 00:03:11,940
+véritables réseaux capillaires nous l'avons dit, nous
+
+46
+00:03:11,940 --> 00:03:14,700
+l'avons vu ensemble, un glomérule c'est
+
+47
+00:03:14,700 --> 00:03:16,260
+un peu le temps vasculaire.
+
+48
+00:03:17,060 --> 00:03:22,460
+Par la suite, seulement 10% est représenté
+
+49
+00:03:22,460 --> 00:03:26,420
+ou utilisé pour la circulation modulaire c'est
+
+50
+00:03:26,420 --> 00:03:31,680
+une circulation qui est lente, terminale, fragile ce
+
+51
+00:03:31,680 --> 00:03:35,320
+qui explique que cette région là est plus
+
+52
+00:03:35,320 --> 00:03:39,640
+sensible à tous les phénomènes d'hypovolumie et
+
+53
+00:03:39,640 --> 00:03:44,220
+de déshydratation et que cette région corticale qui
+
+54
+00:03:44,220 --> 00:03:47,640
+va être le siège d'ischémie et de
+
+55
+00:03:47,640 --> 00:03:52,240
+nécrose papillaire dans certaines situations pathologiques.
+
+56
+00:03:55,680 --> 00:03:59,980
+Le débit sanguin rénal est maintenu dans des
+
+57
+00:03:59,980 --> 00:04:04,760
+limites relativement constantes sur une plage de pression
+
+58
+00:04:04,760 --> 00:04:10,160
+artérielle moyenne comprise entre 60 et 110 mmHg
+
+59
+00:04:10,840 --> 00:04:13,720
+c'est à dire que tant que la
+
+60
+00:04:13,720 --> 00:04:19,000
+pression artérielle moyenne reste dans cet intervalle au
+
+61
+00:04:19,000 --> 00:04:22,100
+-dessus de 60 mmHg et au-dessous de
+
+62
+00:04:22,100 --> 00:04:27,400
+110 mmHg le débit sanguin rénal sera maintenu
+
+63
+00:04:27,400 --> 00:04:31,580
+et la filtration glomérulaire égale.
+
+64
+00:04:32,160 --> 00:04:34,380
+C'est ce qu'on appelle le phénomène
+
+65
+00:04:34,380 --> 00:04:35,760
+d'autorégulation.
+
+66
+00:04:37,040 --> 00:04:39,460
+On sait qu'au-delà de ces valeurs,
+
+67
+00:04:40,180 --> 00:04:44,380
+le débit sanguin rénal peut subir des modifications
+
+68
+00:04:44,840 --> 00:04:49,820
+et être directement dépendant du niveau de la
+
+69
+00:04:49,820 --> 00:04:53,340
+pression artérielle perfusant les reins.
+
+70
+00:04:55,640 --> 00:04:59,860
+Maintenant nous allons aborder la filtration glomérulaire.
+
+71
+00:05:03,130 --> 00:05:05,970
+Il faut savoir que la formation de l
+
+72
+00:05:05,970 --> 00:05:08,210
+'urine se fait en deux étapes.
+
+73
+00:05:09,270 --> 00:05:13,350
+La première étape est représentée par la filtration
+
+74
+00:05:13,350 --> 00:05:14,450
+glomérulaire.
+
+75
+00:05:15,550 --> 00:05:19,330
+Il s'agit d'un processus passif où
+
+76
+00:05:19,330 --> 00:05:22,930
+les liquides filtrent au travers du membrane de
+
+77
+00:05:22,930 --> 00:05:28,350
+façon mécanique entraînant la formation du filtre agglomérulaire
+
+78
+00:05:28,350 --> 00:05:31,250
+ou ce qu'on appelle urine primitif.
+
+79
+00:05:32,850 --> 00:05:36,550
+La deuxième étape, elle se passe au niveau
+
+80
+00:05:36,550 --> 00:05:37,350
+tubulaire.
+
+81
+00:05:38,570 --> 00:05:41,570
+Elle sera basée sur un phénomène de réabsorption
+
+82
+00:05:41,570 --> 00:05:45,790
+et de sécrétion de certaines substances pour nous
+
+83
+00:05:45,790 --> 00:05:48,130
+donner les urines définitives.
+
+84
+00:05:49,650 --> 00:05:51,830
+C'est ce qu'on appelle l'étape
+
+85
+00:05:51,830 --> 00:05:54,030
+des retouches tubulaires.
+
+86
+00:05:56,810 --> 00:06:01,650
+J'ai essayé de vous schématiser ou de
+
+87
+00:06:01,650 --> 00:06:07,030
+vous résumer sur le schéma suivant les différentes
+
+88
+00:06:07,030 --> 00:06:10,790
+étapes de la formation des urines selon ce
+
+89
+00:06:10,790 --> 00:06:12,750
+qui se passe au niveau du glomérule et
+
+90
+00:06:12,750 --> 00:06:14,490
+ce qui se passe au niveau du tubule.
+
+91
+00:06:15,490 --> 00:06:20,730
+Donc, nous avons l'artériole afférente qui va
+
+92
+00:06:20,730 --> 00:06:25,810
+ramener le sang après plusieurs branches de division
+
+93
+00:06:25,810 --> 00:06:28,850
+de l'artère rénale qui provenait de la
+
+94
+00:06:28,850 --> 00:06:29,190
+horte.
+
+95
+00:06:29,830 --> 00:06:34,970
+Cette artériole afférente va se diviser pour nous
+
+96
+00:06:34,970 --> 00:06:39,610
+donner le réseau capillaire glomérulaire et va être
+
+97
+00:06:39,610 --> 00:06:42,530
+drainée par l'artériole efférente.
+
+98
+00:06:43,530 --> 00:06:46,270
+Cette partie du sang qui n'est pas
+
+99
+00:06:46,270 --> 00:06:49,470
+filtrée et qui est drainée par l'artériole
+
+100
+00:06:49,470 --> 00:06:53,370
+efférente assure ce qu'on appelle la vascularisation
+
+101
+00:06:53,370 --> 00:06:59,690
+tubulaire ou les capillaires tubulaires périglomérulaires et les
+
+102
+00:06:59,690 --> 00:07:01,150
+vasarectes.
+
+103
+00:07:01,150 --> 00:07:06,690
+Par ailleurs, la partie du sang emmenée par
+
+104
+00:07:06,690 --> 00:07:11,930
+l'artériole afférente qui va subir la filtration
+
+105
+00:07:11,930 --> 00:07:17,210
+glomérulaire va se retrouver dans l'espace urinaire
+
+106
+00:07:18,300 --> 00:07:22,450
+cet espace urinaire est compris entre l'aisance
+
+107
+00:07:22,450 --> 00:07:28,150
+capillaire et la capsule de Bowman pour être
+
+108
+00:07:28,150 --> 00:07:31,350
+déversée par la suite au niveau du tubule
+
+109
+00:07:31,350 --> 00:07:36,070
+rénal subir les retouches tubulaires et donner les
+
+110
+00:07:36,070 --> 00:07:37,390
+urines définitives.
+
+111
+00:07:38,470 --> 00:07:43,290
+Globalement, ce sont les étapes nécessaires à la
+
+112
+00:07:43,290 --> 00:07:44,930
+formation des urines.
+
+113
+00:07:47,580 --> 00:07:50,420
+Maintenant, nous allons voir ça avec plus de
+
+114
+00:07:50,420 --> 00:07:50,940
+détails.
+
+115
+00:07:52,180 --> 00:07:57,260
+Voilà un glomérule avec ses deux artérioles afférentes
+
+116
+00:07:57,260 --> 00:07:58,620
+et efférentes.
+
+117
+00:07:59,640 --> 00:08:04,480
+Nous avons 100% de sang qui arrive
+
+118
+00:08:04,480 --> 00:08:07,200
+par la vascularisation rénale.
+
+119
+00:08:08,640 --> 00:08:13,200
+Ce sang arrivant par l'artériole afférente va
+
+120
+00:08:13,200 --> 00:08:15,460
+se diviser ou donner ce qu'on appelle
+
+121
+00:08:15,460 --> 00:08:21,820
+le réseau capillaire glomérulaire ces différentances capillaires qui
+
+122
+00:08:21,820 --> 00:08:25,380
+sont entourées par ce qu'on appelle la
+
+123
+00:08:25,380 --> 00:08:26,920
+capsule de Bowman.
+
+124
+00:08:28,120 --> 00:08:32,919
+Une partie de sang qui ne sera pas
+
+125
+00:08:32,919 --> 00:08:41,600
+filtrée au niveau du glomérule va retourner via
+
+126
+00:08:41,600 --> 00:08:45,740
+l'artériole efférente ou sera drainée par l
+
+127
+00:08:45,740 --> 00:08:51,620
+'artériole efférente vers les capillaires péritubulaires et les
+
+128
+00:08:51,620 --> 00:08:55,640
+vasarites ou vers le réseau capillaire tubulaire.
+
+129
+00:08:57,040 --> 00:09:02,200
+Donc globalement, nous pouvons dire que 20%
+
+130
+00:09:02,200 --> 00:09:09,460
+du sang ramené par l'artériole afférente a
+
+131
+00:09:09,460 --> 00:09:11,880
+subi la filtration glomérulaire.
+
+132
+00:09:13,020 --> 00:09:16,760
+Ce 20% correspond au 1 5ème du
+
+133
+00:09:16,760 --> 00:09:21,760
+débit plasmatique rénal qui a été ultra filtré
+
+134
+00:09:21,760 --> 00:09:24,360
+au niveau du glomérule à travers la paroi
+
+135
+00:09:24,360 --> 00:09:29,000
+des capillaires glomérulaires et ces 20% forment
+
+136
+00:09:29,000 --> 00:09:32,340
+ce qu'on appelle l'urine primitive qui
+
+137
+00:09:32,340 --> 00:09:36,260
+va s'écouler dans l'espace de Bowman.
+
+138
+00:09:36,260 --> 00:09:38,320
+L'espace de Bowman, c'est l'espace
+
+139
+00:09:38,320 --> 00:09:41,680
+où vous voyez là les petites flèches situées
+
+140
+00:09:41,680 --> 00:09:45,040
+entre les anses capillaires et la capsule de
+
+141
+00:09:45,040 --> 00:09:49,860
+Bowman et cette partie-là d'ultra filtre
+
+142
+00:09:49,860 --> 00:09:54,180
+glomérulaire va être déversée par la suite dans
+
+143
+00:09:54,180 --> 00:09:55,200
+le tubule rénal.
+
+144
+00:09:56,200 --> 00:10:00,560
+Donc nous pouvons dire que la fraction filtrée
+
+145
+00:10:00,560 --> 00:10:06,440
+représente 20% du débit plasmatique rénal.
+
+146
+00:10:12,500 --> 00:10:16,620
+Nous avons vu le filtre à glomérulaire, maintenant
+
+147
+00:10:16,620 --> 00:10:19,920
+nous allons voir comment s'effectue la formation
+
+148
+00:10:19,920 --> 00:10:21,740
+de ce filtre à glomérulaire.
+
+149
+00:10:24,550 --> 00:10:27,730
+Il faut savoir que chaque jour 180 litres
+
+150
+00:10:27,730 --> 00:10:33,610
+d'ultra filtre à glomérulaire sont élaborés.
+
+151
+00:10:34,590 --> 00:10:39,950
+Le filtre à glomérulaire est essentiellement dépourvu de
+
+152
+00:10:39,950 --> 00:10:44,110
+protéines et contient par ailleurs tous les éants
+
+153
+00:10:44,110 --> 00:10:48,850
+inorganiques et solidités organiques de faible poids moléculaire
+
+154
+00:10:48,850 --> 00:10:53,250
+dans des concentrations identiques au plasma.
+
+155
+00:10:54,750 --> 00:11:01,310
+Cette restriction de protéines est la conséquence de
+
+156
+00:11:01,310 --> 00:11:04,070
+deux déterminants de la filtration glomérulaire.
+
+157
+00:11:05,550 --> 00:11:09,210
+Tout d'abord, le poids moléculaire de la
+
+158
+00:11:09,210 --> 00:11:14,150
+substance qui est censée traverser la barrière de
+
+159
+00:11:14,150 --> 00:11:15,150
+filtration glomérulaire.
+
+160
+00:11:17,870 --> 00:11:22,490
+Ensuite, la charge électrique de cette substance.
+
+161
+00:11:24,820 --> 00:11:30,560
+Alors le poids moléculaire de la substance constitue
+
+162
+00:11:30,560 --> 00:11:33,700
+ce qu'on appelle la sélectivité totale.
+
+163
+00:11:34,760 --> 00:11:36,900
+Ça veut dire quoi ?
+
+164
+00:11:36,900 --> 00:11:39,960
+Ça veut dire que pour toute molécule dont
+
+165
+00:11:39,960 --> 00:11:44,400
+le poids moléculaire est inférieur à 68 000
+
+166
+00:11:44,400 --> 00:11:49,520
+daltons, le passage se fera sans aucun problème.
+
+167
+00:11:50,510 --> 00:11:53,860
+Par ailleurs, il n'y aura aucun passage
+
+168
+00:11:53,860 --> 00:11:58,080
+où les molécules dont le poids moléculaire est
+
+169
+00:11:58,080 --> 00:12:01,440
+supérieur à 68 000 daltons.
+
+170
+00:12:02,160 --> 00:12:04,080
+C'est ce qu'on appelle, comme j
+
+171
+00:12:04,080 --> 00:12:07,860
+'ai dit précédemment, la sélectivité totale.
+
+172
+00:12:08,020 --> 00:12:09,900
+C'est-à-dire qu'on va sélectionner
+
+173
+00:12:09,900 --> 00:12:14,520
+les molécules qui vont passer ou pas selon
+
+174
+00:12:14,520 --> 00:12:16,840
+leur poids moléculaire.
+
+175
+00:12:18,410 --> 00:12:20,650
+Par la suite, nous avons ce qu'on
+
+176
+00:12:20,650 --> 00:12:25,330
+appelle la sélectivité de charge qui correspond à
+
+177
+00:12:25,330 --> 00:12:29,610
+la sélection des molécules censées traverser la barrière
+
+178
+00:12:29,610 --> 00:12:34,570
+de filtration glomérulaire selon leur charge électrique.
+
+179
+00:12:35,550 --> 00:12:41,410
+Ainsi, toutes les molécules chargées négativement, dites molécules
+
+180
+00:12:41,410 --> 00:12:47,530
+anioniques, ne vont pas pouvoir être filtrées et
+
+181
+00:12:47,530 --> 00:12:53,970
+les molécules chargées positivement, les molécules cationiques, vont
+
+182
+00:12:53,970 --> 00:12:59,970
+pouvoir traverser la barrière de filtration glomérulaire sans
+
+183
+00:12:59,970 --> 00:13:01,250
+aucun problème.
+
+184
+00:13:03,860 --> 00:13:08,540
+De ce fait, deux notions importantes se dégagent.
+
+185
+00:13:10,360 --> 00:13:16,600
+Les protéines ou les molécules, quelle que soit
+
+186
+00:13:16,600 --> 00:13:22,780
+leur charge, ont un passage restreint directement proportionnel
+
+187
+00:13:22,780 --> 00:13:24,020
+à leur taille.
+
+188
+00:13:24,220 --> 00:13:29,320
+Plus la molécule est de grande taille, moins
+
+189
+00:13:29,320 --> 00:13:30,500
+elle passera.
+
+190
+00:13:32,140 --> 00:13:37,560
+Et à taille égale, les protéines anioniques, c
+
+191
+00:13:37,560 --> 00:13:42,280
+'est-à-dire les protéines chargées négativement, seront
+
+192
+00:13:42,280 --> 00:13:49,140
+davantage restreintes que les protéines cationiques chargées positivement.
+
+193
+00:13:50,560 --> 00:13:53,280
+Comment peut-on expliquer cela
+
+194
+00:13:53,280 --> 00:14:02,120
+?
+
+195
+00:14:08,530 --> 00:14:13,650
+Voyons maintenant avec plus de détails les caractéristiques
+
+196
+00:14:13,650 --> 00:14:17,130
+de cette barrière de filtration glomérulaire.
+
+197
+00:14:21,050 --> 00:14:26,230
+La barrière de filtration glomérulaire est en réalité,
+
+198
+00:14:26,730 --> 00:14:28,730
+on pourrait dire que c'est une barrière
+
+199
+00:14:28,730 --> 00:14:31,570
+fictive, mais en fait c'est une barrière
+
+200
+00:14:31,570 --> 00:14:36,310
+qui est constituée par la juxtaposition de trois
+
+201
+00:14:36,310 --> 00:14:36,810
+couches.
+
+202
+00:14:38,210 --> 00:14:42,810
+Cette barrière de filtration glomérulaire est censée séparer
+
+203
+00:14:42,810 --> 00:14:47,190
+le secteur plasmatique ou le secteur sanguin du
+
+204
+00:14:47,190 --> 00:14:48,990
+secteur urinaire.
+
+205
+00:14:50,170 --> 00:14:53,690
+En amont du flocculus, c'est-à-dire
+
+206
+00:14:53,690 --> 00:14:57,430
+entre l'artériole afférente et l'artériole efférente,
+
+207
+00:14:58,110 --> 00:15:00,450
+nous sommes dans le secteur sanguin.
+
+208
+00:15:01,350 --> 00:15:05,690
+Dès qu'une substance ou le plasma traverse
+
+209
+00:15:05,690 --> 00:15:11,330
+ce capillaire glomérulaire ou cette barrière de filtration
+
+210
+00:15:11,330 --> 00:15:16,550
+glomérulaire, on se retrouve dans l'espace urinaire.
+
+211
+00:15:19,210 --> 00:15:24,710
+Anatomiquement, la barrière de filtration ou la paroi
+
+212
+00:15:24,710 --> 00:15:30,470
+capillaire glomérulaire est composée de trois couches en
+
+213
+00:15:30,470 --> 00:15:33,470
+allant de l'intérieur du côté sanguin vers
+
+214
+00:15:33,470 --> 00:15:35,530
+l'extérieur qui est le côté urinaire.
+
+215
+00:15:35,530 --> 00:15:39,870
+Tout d'abord, nous avons une couche endothéliale
+
+216
+00:15:39,870 --> 00:15:43,750
+ou un endothélium non-jointif, c'est-à
+
+217
+00:15:43,750 --> 00:15:47,110
+-dire qu'il est discontinu, et puis nous
+
+218
+00:15:47,110 --> 00:15:51,410
+avons une membrane basale constituée d'un gel
+
+219
+00:15:51,410 --> 00:15:53,510
+glycoprotéique.
+
+220
+00:15:54,510 --> 00:16:01,250
+Et enfin, un hypothélium formé de cellules podocytaires
+
+221
+00:16:01,250 --> 00:16:06,690
+qui étendent des ramifications dites pédicelles.
+
+222
+00:16:09,510 --> 00:16:14,010
+Voilà en microscopie électronique à quoi ressemble en
+
+223
+00:16:14,010 --> 00:16:17,830
+réalité la paroi capillaire glomérulaire.
+
+224
+00:16:18,490 --> 00:16:21,090
+Du côté sanguin, comme vous le voyez ici
+
+225
+00:16:21,090 --> 00:16:24,690
+du côté de la lumière capillaire, nous avons
+
+226
+00:16:24,690 --> 00:16:30,850
+un endothélium fenestré, un endothélium non-continu, non
+
+227
+00:16:30,850 --> 00:16:35,890
+-jointif, séparé par des petits espaces dites fenestrations.
+
+228
+00:16:37,850 --> 00:16:41,130
+Et puis, au milieu, nous avons une membrane
+
+229
+00:16:41,130 --> 00:16:45,970
+basale glomérulaire chargée négativement.
+
+230
+00:16:46,970 --> 00:16:49,830
+Et enfin, la troisième couche qui est la
+
+231
+00:16:49,830 --> 00:16:54,550
+couche épithéliale du côté de l'espace urinaire
+
+232
+00:16:54,550 --> 00:17:01,210
+formée par des grandes cellules triangulaires dites podocytes
+
+233
+00:17:01,210 --> 00:17:05,270
+qui émettent des petits prolongements qu'on appelle
+
+234
+00:17:05,270 --> 00:17:06,040
+les pédicelles.
+
+235
+00:17:09,119 --> 00:17:13,020
+Alors, la première couche qui est l'endothélium
+
+236
+00:17:13,020 --> 00:17:16,540
+glomérulaire, comme vous l'avez vu sur l
+
+237
+00:17:16,540 --> 00:17:23,060
+'image précédente, est non-jointif, c'est-à
+
+238
+00:17:23,060 --> 00:17:24,760
+-dire il n'est pas lié, il est
+
+239
+00:17:24,760 --> 00:17:27,700
+séparé par des pores et il est percé
+
+240
+00:17:27,700 --> 00:17:30,900
+des pores ou de fenêtres dont le diamètre
+
+241
+00:17:30,900 --> 00:17:33,120
+est de 70 nanomètres.
+
+242
+00:17:34,540 --> 00:17:37,120
+Il est très perméable au plasma.
+
+243
+00:17:38,520 --> 00:17:42,020
+On arrive à la membrane basale glomérulaire qui
+
+244
+00:17:42,020 --> 00:17:45,460
+est épaisse de 240 à 340 nanomètres.
+
+245
+00:17:46,760 --> 00:17:49,100
+Elle est formée de trois couches en allant
+
+246
+00:17:49,100 --> 00:17:52,260
+de l'intérieur vers l'extérieur toujours, une
+
+247
+00:17:52,260 --> 00:17:56,860
+lamina rara interna et une lamina rara externa
+
+248
+00:17:56,860 --> 00:17:59,940
+qui sont plus claires et au milieu la
+
+249
+00:17:59,940 --> 00:18:03,320
+lamina densa qui est beaucoup plus épaisse.
+
+250
+00:18:04,400 --> 00:18:07,200
+Et enfin, la troisième couche qui est l
+
+251
+00:18:07,200 --> 00:18:12,760
+'épithélium viscéral ou la couche épithéliale constituée par
+
+252
+00:18:12,760 --> 00:18:16,640
+les podocytes, ces grandes cellules triangulaires, si vous
+
+253
+00:18:16,640 --> 00:18:20,520
+regardez avec plus de précision, vous voyez que
+
+254
+00:18:20,520 --> 00:18:23,940
+ces podocytes, ils ont à leur tête comme
+
+255
+00:18:23,940 --> 00:18:27,780
+des petits poils de brosse, on dit que
+
+256
+00:18:27,780 --> 00:18:28,580
+ce sont les pédicelles.
+
+257
+00:18:29,390 --> 00:18:33,520
+Ces pédicelles ont une base insérée dans la
+
+258
+00:18:33,520 --> 00:18:38,480
+lamina rara externa et ces pédicelles, l'enchevotrement
+
+259
+00:18:38,480 --> 00:18:41,740
+de ces pédicelles joue un rôle aussi dans
+
+260
+00:18:41,740 --> 00:18:47,880
+la rétention des protéines ou bien des molécules.
+
+261
+00:18:49,640 --> 00:18:54,820
+Ainsi, si on veut résumer les caractéristiques de
+
+262
+00:18:54,820 --> 00:18:59,040
+cette barrière de filtration glomérulaire, nous pouvons dire
+
+263
+00:18:59,040 --> 00:19:02,700
+que cette barrière de filtration glomérulaire se comporte
+
+264
+00:19:02,700 --> 00:19:06,760
+comme un filtre mécanique qui va s'opposer
+
+265
+00:19:06,760 --> 00:19:11,460
+au passage des molécules dépassant 68 000 dalton.
+
+266
+00:19:11,460 --> 00:19:17,560
+68 000 dalton, ça correspond approximativement aux 70
+
+267
+00:19:17,560 --> 00:19:21,620
+nanomètres qui sont la taille de fenestration au
+
+268
+00:19:21,620 --> 00:19:26,630
+niveau de l'endothélium et elle se comporte
+
+269
+00:19:26,630 --> 00:19:30,630
+comme un filtre électrique qui s'oppose au
+
+270
+00:19:30,630 --> 00:19:33,590
+passage des molécules chargées négativement.
+
+271
+00:19:33,590 --> 00:19:36,630
+Rappelez-vous, nous avons dit que la membrane
+
+272
+00:19:36,630 --> 00:19:41,750
+basale glomérulaire était couverte d'un gel glycoprotéique.
+
+273
+00:19:42,210 --> 00:19:47,430
+Ce gel glycoprotéique chargé négativement repousse toutes les
+
+274
+00:19:47,430 --> 00:19:49,710
+molécules qui ont la même charge, c'est
+
+275
+00:19:49,710 --> 00:19:51,590
+-à-dire les molécules négatives.
+
+276
+00:19:53,350 --> 00:19:59,570
+Ainsi, la composition du filtre agglomérulaire est celle
+
+277
+00:19:59,570 --> 00:20:02,370
+d'un ultrafiltre plasmatique, c'est-à-dire
+
+278
+00:20:02,370 --> 00:20:05,750
+un liquide qui ressemble au plasma point par
+
+279
+00:20:05,750 --> 00:20:10,690
+point en dehors de la présence des protéines
+
+280
+00:20:10,690 --> 00:20:14,350
+qui sont des molécules de grande taille.
+
+281
+00:20:15,750 --> 00:20:19,910
+La restriction de taille, elle, au passage, se
+
+282
+00:20:19,910 --> 00:20:23,890
+fait essentiellement au niveau de la membrane endothéliale
+
+283
+00:20:23,890 --> 00:20:27,630
+grâce à la taille de ses fenestrations mais
+
+284
+00:20:27,630 --> 00:20:30,930
+aussi au niveau de la membrane de filtration
+
+285
+00:20:30,930 --> 00:20:32,090
+épithéliale.
+
+286
+00:20:32,830 --> 00:20:33,830
+Comme j'ai dit tout à l'heure,
+
+287
+00:20:34,050 --> 00:20:37,010
+les podocytes émettent des petits pédicèles dont l
+
+288
+00:20:37,010 --> 00:20:42,330
+'enchevotrement permet de retenir les protéines.
+
+289
+00:20:42,330 --> 00:20:46,810
+Par contre, la restriction de charge semble être
+
+290
+00:20:46,810 --> 00:20:52,570
+liée principalement à la membrane basale glomérulaire et
+
+291
+00:20:52,570 --> 00:20:58,350
+la présence des glycoprotéines polyanioniques de surface qui
+
+292
+00:20:58,350 --> 00:21:02,550
+recouvrent l'ensemble des structures de la barrière
+
+293
+00:21:02,550 --> 00:21:04,630
+capillaire glomérulaire.
+
+294
+00:21:08,050 --> 00:21:13,270
+Ainsi, la perméabilité de la barrière glomérulaire est
+
+295
+00:21:13,270 --> 00:21:18,310
+évaluée par le coefficient d'ultrafiltration qui représente
+
+296
+00:21:18,310 --> 00:21:24,150
+la caractéristique de chaque barrière de filtration glomérulaire.
+
+297
+00:21:24,150 --> 00:21:30,650
+Ce coefficient de filtration dépend de l'air
+
+298
+00:21:30,650 --> 00:21:33,830
+de filtration ou la surface de filtration qui
+
+299
+00:21:33,830 --> 00:21:40,450
+est directement proportionnelle au nombre de glomérules fonctionnelles
+
+300
+00:21:40,450 --> 00:21:45,670
+et enfin, il dépend également de la perméabilité
+
+301
+00:21:45,670 --> 00:21:49,670
+hydraulique de la paroi capillaire glomérulaire.
+
+302
+00:21:53,930 --> 00:21:58,510
+Maintenant, nous allons parler de la pression de
+
+303
+00:21:58,510 --> 00:22:00,590
+filtration glomérulaire.
+
+304
+00:22:05,010 --> 00:22:09,750
+La filtration glomérulaire est le produit de la
+
+305
+00:22:09,750 --> 00:22:13,370
+pression de filtration glomérulaire qu'on verra plus
+
+306
+00:22:13,370 --> 00:22:18,210
+en détail sur les diapos suivantes, qui multiplie
+
+307
+00:22:18,210 --> 00:22:21,790
+le coefficient de filtration que nous avons vu
+
+308
+00:22:21,790 --> 00:22:22,790
+précédemment.
+
+309
+00:22:22,790 --> 00:22:27,230
+La pression de filtration, c'est elle qui
+
+310
+00:22:27,230 --> 00:22:32,070
+permet l'ultrafiltration du plasma à travers la
+
+311
+00:22:32,070 --> 00:22:35,090
+barrière de filtration glomérulaire.
+
+312
+00:22:35,090 --> 00:22:39,230
+Elle est la résultante de trois forces de
+
+313
+00:22:39,230 --> 00:22:39,770
+pression.
+
+314
+00:22:41,290 --> 00:22:47,330
+La pression hydrostatique dans les capillaires glomérulaires, la
+
+315
+00:22:47,330 --> 00:22:53,250
+pression oncotique dans les capillaires glomérulaires et enfin,
+
+316
+00:22:53,910 --> 00:22:58,390
+la pression hydrostatique dans la capsule de baume.
+
+317
+00:23:01,040 --> 00:23:05,380
+A côté de la pression de filtration, la
+
+318
+00:23:05,380 --> 00:23:09,540
+filtration glomérulaire est le produit, comme j'ai
+
+319
+00:23:09,540 --> 00:23:12,880
+dit, de la pression de filtration, qui multiplie
+
+320
+00:23:12,880 --> 00:23:15,840
+le produit de coefficient de filtration et le
+
+321
+00:23:15,840 --> 00:23:18,960
+coefficient d'ultrafiltration.
+
+322
+00:23:19,840 --> 00:23:22,580
+Maintenant, ce qui nous intéresse, c'est surtout
+
+323
+00:23:22,580 --> 00:23:27,020
+de définir et de comprendre ces différents types
+
+324
+00:23:27,020 --> 00:23:29,780
+de pressions que j'ai mentionnées en rouge
+
+325
+00:23:29,780 --> 00:23:33,980
+sur cette diapositive et que j'ai citées.
+
+326
+00:23:35,550 --> 00:23:40,650
+Je commence par la pression hydrostatique des capillaires
+
+327
+00:23:40,650 --> 00:23:41,670
+glomérulaires.
+
+328
+00:23:42,190 --> 00:23:46,150
+C'est quoi la pression hydrostatique des capillaires
+
+329
+00:23:46,150 --> 00:23:46,830
+glomérulaires?
+
+330
+00:23:46,830 --> 00:23:50,270
+C'est la pression qui règne à l
+
+331
+00:23:50,270 --> 00:23:53,430
+'intérieur du capillaire glomérulaire.
+
+332
+00:23:53,770 --> 00:23:57,890
+C'est la pression exercée par le liquide
+
+333
+00:23:57,890 --> 00:24:02,170
+plasmatique à l'intérieur du capillaire glomérulaire.
+
+334
+00:24:02,170 --> 00:24:08,130
+Elle reflète la pression sanguine artérielle au sein
+
+335
+00:24:08,130 --> 00:24:08,950
+du glomérule.
+
+336
+00:24:09,970 --> 00:24:13,530
+Cette pression sanguine, ou ce sang, est ramenée
+
+337
+00:24:13,530 --> 00:24:16,190
+par l'artériole afférente.
+
+338
+00:24:17,760 --> 00:24:22,480
+Elle constitue le moteur essentiel de la filtration
+
+339
+00:24:22,480 --> 00:24:28,380
+glomérulaire car elle est représentée par la grande
+
+340
+00:24:28,380 --> 00:24:34,400
+quantité de sang ramenée par l'artériole afférente
+
+341
+00:24:34,400 --> 00:24:38,640
+et cette pression est dirigée de la lumière
+
+342
+00:24:38,640 --> 00:24:41,520
+capillaire, c'est-à-dire du sang, vers
+
+343
+00:24:41,520 --> 00:24:43,300
+l'espace urinaire.
+
+344
+00:24:43,300 --> 00:24:48,420
+Ainsi, on peut dire que cette pression favorise
+
+345
+00:24:48,420 --> 00:24:51,480
+le phénomène d'ultrafiltration.
+
+346
+00:24:52,640 --> 00:24:57,360
+Elle est de l'ordre de 55 mmHg.
+
+347
+00:25:00,270 --> 00:25:03,030
+Par la suite, nous allons voir la pression
+
+348
+00:25:03,030 --> 00:25:06,070
+oncotique intracapillaire.
+
+349
+00:25:06,390 --> 00:25:09,710
+C'est quoi la pression oncotique intracapillaire?
+
+350
+00:25:10,390 --> 00:25:13,970
+Il s'agit de la pression exercée par
+
+351
+00:25:13,970 --> 00:25:20,150
+les protéines contenues dans le liquide plasmatique au
+
+352
+00:25:20,150 --> 00:25:22,650
+niveau du capillaire glomérulaire.
+
+353
+00:25:22,650 --> 00:25:27,270
+Ces protéines ne sont pas filtrées, en tout
+
+354
+00:25:27,270 --> 00:25:30,850
+cas ne sont toujours pas filtrées et les
+
+355
+00:25:30,850 --> 00:25:35,330
+grosses protéines, les grosses molécules, justement, ne souhaitent
+
+356
+00:25:35,330 --> 00:25:39,630
+pas traverser la barrière de filtration glomérulaire.
+
+357
+00:25:39,630 --> 00:25:44,150
+On peut dire de ce fait que la
+
+358
+00:25:44,150 --> 00:25:50,390
+pression oncotique capillaire glomérulaire est une pression qui
+
+359
+00:25:50,390 --> 00:25:53,030
+s'oppose au processus de filtration.
+
+360
+00:25:54,310 --> 00:25:58,470
+Elle est de l'ordre de 30 mmHg.
+
+361
+00:26:01,770 --> 00:26:06,070
+Enfin, nous avons le troisième type de pression.
+
+362
+00:26:06,990 --> 00:26:11,810
+Cette pression se retrouve en dehors de l
+
+363
+00:26:11,810 --> 00:26:12,830
+'ence capillaire.
+
+364
+00:26:13,350 --> 00:26:16,830
+C'est la pression hydrostatique dans l'espace
+
+365
+00:26:16,830 --> 00:26:18,670
+de Bowmen, c'est-à-dire c'est
+
+366
+00:26:18,670 --> 00:26:22,750
+la pression exercée par les liquides qui ont
+
+367
+00:26:22,750 --> 00:26:27,470
+traversé la paroi glomérulaire et qui se sont
+
+368
+00:26:27,470 --> 00:26:31,010
+retrouvés dans l'espace urinaire.
+
+369
+00:26:32,150 --> 00:26:35,690
+Vous savez qu'une fois qu'on traverse
+
+370
+00:26:35,690 --> 00:26:38,910
+la paroi capillaire glomérulaire, on ne peut pas
+
+371
+00:26:38,910 --> 00:26:41,690
+retourner vers le secteur plasmatique parce qu'il
+
+372
+00:26:41,690 --> 00:26:44,570
+n'y a pas un phénomène de rétrofiltration.
+
+373
+00:26:44,570 --> 00:26:49,350
+Et de ce fait, cette pression hydrostatique dans
+
+374
+00:26:49,350 --> 00:26:53,950
+le capillaire glomérulaire est une pression qui s
+
+375
+00:26:53,950 --> 00:26:56,390
+'oppose au processus de filtration.
+
+376
+00:26:57,410 --> 00:26:59,970
+Elle est faible parce qu'il n'y
+
+377
+00:26:59,970 --> 00:27:02,410
+a que 20 % du liquide plasmatique qui
+
+378
+00:27:02,410 --> 00:27:05,370
+passe, mais elle est stable de l'ordre
+
+379
+00:27:05,370 --> 00:27:07,810
+de 15 mmHg.
+
+380
+00:27:09,950 --> 00:27:14,870
+Maintenant, résumons ces différents types de pression que
+
+381
+00:27:14,870 --> 00:27:16,710
+je viens d'aborder.
+
+382
+00:27:18,920 --> 00:27:21,380
+Qu'est-ce qui fait qu'on peut
+
+383
+00:27:21,380 --> 00:27:27,880
+avoir une pression de filtration glomérulaire efficace, favorisant
+
+384
+00:27:27,880 --> 00:27:33,420
+ce processus de filtration glomérulaire ou cette première
+
+385
+00:27:33,420 --> 00:27:36,560
+étape de la formation d'urine ?
+
+386
+00:27:36,560 --> 00:27:39,460
+Nous avons des pressions au niveau sanguin, mais
+
+387
+00:27:39,460 --> 00:27:42,220
+nous en avons aussi au niveau urine.
+
+388
+00:27:42,740 --> 00:27:48,000
+Au niveau sanguin, nous avons la pression hydrostatique
+
+389
+00:27:48,000 --> 00:27:52,540
+glomérulaire qui, elle, est une force la plus
+
+390
+00:27:52,540 --> 00:27:56,440
+importante qui favorise le processus de filtration.
+
+391
+00:27:57,440 --> 00:28:02,080
+Du même côté, nous avons la pression oncotique
+
+392
+00:28:02,080 --> 00:28:05,520
+qui est aussi intéressante, mais qui, elle, s
+
+393
+00:28:05,520 --> 00:28:08,220
+'oppose au processus de filtration.
+
+394
+00:28:09,220 --> 00:28:13,720
+Enfin, nous avons le plasma qui est passé
+
+395
+00:28:13,720 --> 00:28:16,520
+dans l'espace urinaire, qui ne peut pas
+
+396
+00:28:16,520 --> 00:28:20,900
+être rétrofiltré et qui exerce une pression qu
+
+397
+00:28:20,900 --> 00:28:24,460
+'on appelle la pression hydrostatique capsulaire.
+
+398
+00:28:25,100 --> 00:28:30,780
+Cette pression hydrostatique capsulaire également s'oppose au
+
+399
+00:28:30,780 --> 00:28:32,960
+phénomène de filtration.
+
+400
+00:28:34,910 --> 00:28:39,170
+Ainsi, on peut dire que la pression nette
+
+401
+00:28:39,170 --> 00:28:43,770
+de filtration ou la pression efficace de filtration
+
+402
+00:28:43,770 --> 00:28:49,750
+glomérulaire est le produit de la seule force
+
+403
+00:28:49,750 --> 00:28:52,850
+ou la force majeure qui favorise le processus
+
+404
+00:28:52,850 --> 00:29:00,350
+de filtration déduite des deux forces qui s
+
+405
+00:29:00,350 --> 00:29:05,090
+'opposent à la filtration glomérulaire, donc la pression
+
+406
+00:29:05,090 --> 00:29:09,510
+nette de filtration et la différence entre la
+
+407
+00:29:09,510 --> 00:29:14,030
+pression favorisant la filtration glomérulaire et la somme
+
+408
+00:29:14,030 --> 00:29:17,830
+de deux pressions s'opposant au processus de
+
+409
+00:29:17,830 --> 00:29:20,350
+filtration glomérulaire, c'est qu'il nous donne
+
+410
+00:29:20,350 --> 00:29:23,010
+une pression nette de filtration de l'ordre
+
+411
+00:29:23,010 --> 00:29:24,810
+de 10 mmHg.
+
+412
+00:29:24,810 --> 00:29:26,850
+Tout cela veut dire quoi?
+
+413
+00:29:27,510 --> 00:29:30,370
+Cela reste une pression nette de filtration faible.
+
+414
+00:29:31,270 --> 00:29:35,690
+Admettons tout simplement que la pression hydrostatique glomérulaire
+
+415
+00:29:35,690 --> 00:29:43,730
+diminue, nous pouvons assister soit à une négativation
+
+416
+00:29:43,730 --> 00:29:47,770
+ou une annulation de la filtration glomérulaire.
+
+417
+00:29:52,410 --> 00:29:55,650
+Maintenant, je vais passer en revue rapidement les
+
+418
+00:29:55,650 --> 00:29:59,190
+facteurs modulant la filtration glomérulaire.
+
+419
+00:30:00,090 --> 00:30:04,530
+Les facteurs modulant la filtration glomérulaire qui sont
+
+420
+00:30:04,530 --> 00:30:06,550
+essentiellement au nombre de trois.
+
+421
+00:30:07,270 --> 00:30:12,030
+La variation du débit plasmatique rénal, puisque ce
+
+422
+00:30:12,030 --> 00:30:16,370
+débit plasmatique rénal est directement lié à la
+
+423
+00:30:16,370 --> 00:30:20,330
+fonction cardiaque, à la fraction du débit cardiaque.
+
+424
+00:30:20,330 --> 00:30:25,290
+La variation de la pression capillaire glomérulaire, comme
+
+425
+00:30:25,290 --> 00:30:29,150
+je l'ai mentionné précédemment, est juste si
+
+426
+00:30:29,150 --> 00:30:32,250
+nous avons une baisse du débit plasmatique rénal,
+
+427
+00:30:32,890 --> 00:30:36,090
+nous aurons une baisse du débit sanguin qui
+
+428
+00:30:36,090 --> 00:30:38,670
+va arriver par l'artériole afférente.
+
+429
+00:30:38,670 --> 00:30:41,490
+Et on aura une baisse de la pression
+
+430
+00:30:41,490 --> 00:30:46,070
+hydrostatique du capillaire glomérulaire et on aura probablement
+
+431
+00:30:46,070 --> 00:30:49,270
+soit une baisse de la pression nette de
+
+432
+00:30:49,270 --> 00:30:55,390
+filtration, soit une négativation, une annulation complète de
+
+433
+00:30:55,390 --> 00:30:57,910
+cette pression et une annulation de la filtration
+
+434
+00:30:57,910 --> 00:31:02,190
+glomérulaire, ce qui se voit en pratique dans
+
+435
+00:31:02,190 --> 00:31:04,690
+les insuffisances rénales.
+
+436
+00:31:05,690 --> 00:31:08,590
+Enfin, le troisième paramètre, c'est le coefficient
+
+437
+00:31:08,590 --> 00:31:13,790
+d'ultrafiltration que lui est directement proportionnel à
+
+438
+00:31:13,790 --> 00:31:16,850
+la surface de filtration, c'est-à-dire
+
+439
+00:31:16,850 --> 00:31:20,250
+au nombre de glomérules fonctionnées.
+
+440
+00:31:20,250 --> 00:31:24,490
+Plus un glomérule est sans, plus il fonctionnera
+
+441
+00:31:24,490 --> 00:31:28,370
+normalement, plus nous assistons à une destruction du
+
+442
+00:31:28,370 --> 00:31:32,910
+capital néphrolite, moins bonne sera la fonction rénale
+
+443
+00:31:32,910 --> 00:31:35,290
+et la filtration glomérulaire.
+
+444
+00:31:37,890 --> 00:31:40,190
+Donc, c'était tout ce que j'avais
+
+445
+00:31:40,190 --> 00:31:45,150
+à dire pour la pression de filtration, les
+
+446
+00:31:45,150 --> 00:31:47,970
+facteurs modulants de la filtration glomérulaire.
+
+447
+00:31:48,810 --> 00:31:53,510
+Je continuerai l'estimation de la filtration glomérulaire
+
+448
+00:31:53,510 --> 00:31:57,890
+qui est quelque chose d'important en pratique
+
+449
+00:31:57,890 --> 00:32:01,810
+clinique sur le prochain enregistrement.
+
+450
+00:32:02,830 --> 00:32:03,150
+Merci.

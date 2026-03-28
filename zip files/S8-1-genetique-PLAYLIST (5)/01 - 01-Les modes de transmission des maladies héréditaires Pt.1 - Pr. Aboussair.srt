@@ -1,0 +1,3663 @@
+1
+00:00:02,630 --> 00:00:06,770
+Bonjour, le cours d'aujourd'hui est intitulé
+
+2
+00:00:06,770 --> 00:00:11,130
+« Les modes de transmission des maladies héréditaires,
+
+3
+00:00:11,530 --> 00:00:14,990
+qu'elles soient mendéliennes ou non mendéliennes ».
+
+4
+00:00:17,260 --> 00:00:19,700
+Les objectifs de ce cours sont les suivants.
+
+5
+00:00:20,740 --> 00:00:24,320
+Connaître la définition d'un gène, un locus,
+
+6
+00:00:25,000 --> 00:00:30,400
+un allèle, un état homozygote, hétérozygote ou hémizygote.
+
+7
+00:00:30,400 --> 00:00:35,420
+Connaître la définition du génotype et phénotype.
+
+8
+00:00:36,000 --> 00:00:38,220
+En fait, c'est un rappel de ce
+
+9
+00:00:38,220 --> 00:00:40,880
+qu'on a vu en première année.
+
+10
+00:00:43,000 --> 00:00:44,980
+De même, vous devez être capable de donner
+
+11
+00:00:44,980 --> 00:00:49,260
+la définition de l'arbre généalogique, connaître les
+
+12
+00:00:49,260 --> 00:00:55,520
+symboles internationaux utilisés et être capable de dessiner
+
+13
+00:00:55,520 --> 00:00:58,080
+et interpréter un arbre généalogique.
+
+14
+00:00:59,180 --> 00:01:02,980
+Ensuite, vous devez être capable de citer les
+
+15
+00:01:02,980 --> 00:01:06,960
+caractéristiques de l'hérédité autosomique, qu'elles soient
+
+16
+00:01:06,960 --> 00:01:09,060
+récessives ou dominantes.
+
+17
+00:01:10,780 --> 00:01:14,640
+Citer les caractéristiques de l'hérédité liée à
+
+18
+00:01:14,640 --> 00:01:17,780
+l'X, qu'elles soient récessives ou dominantes.
+
+19
+00:01:19,500 --> 00:01:23,440
+Citer les caractéristiques de l'hérédité holandrique.
+
+20
+00:01:23,440 --> 00:01:28,360
+Citez les caractéristiques de l'hérédité mitochondriale et
+
+21
+00:01:28,360 --> 00:01:31,500
+enfin vous devez être capable de donner la
+
+22
+00:01:31,500 --> 00:01:33,880
+définition des maladies multifactorielles.
+
+23
+00:01:37,000 --> 00:01:38,760
+Le plan du cours est le suivant.
+
+24
+00:01:39,760 --> 00:01:44,940
+Après un rappel sur les notions fondamentales, on
+
+25
+00:01:44,940 --> 00:01:49,240
+va aborder l'arbre généalogique, les différents modes
+
+26
+00:01:49,240 --> 00:01:53,980
+de transmission mendélien, qu'il soit autosomique ou
+
+27
+00:01:53,980 --> 00:01:56,760
+lié à l'X, récessif ou dominant.
+
+28
+00:01:58,420 --> 00:02:05,000
+Ensuite, on verra l'hérédité hollanderique et l
+
+29
+00:02:05,000 --> 00:02:06,940
+'hérédité non-mendélienne.
+
+30
+00:02:12,680 --> 00:02:16,980
+Concernant le rappel sur les notions fondamentales qu
+
+31
+00:02:16,980 --> 00:02:19,940
+'on a déjà vu en première année, vous
+
+32
+00:02:19,940 --> 00:02:25,860
+rappelez que le génotype est la constitution génétique
+
+33
+00:02:25,860 --> 00:02:32,460
+du gamètre ou bien du zygote ou d
+
+34
+00:02:32,460 --> 00:02:37,660
+'un individu pour un ou plusieurs gènes ou
+
+35
+00:02:37,660 --> 00:02:38,040
+loci.
+
+36
+00:02:38,780 --> 00:02:41,140
+Je rappelle que loci c'est le pluriel
+
+37
+00:02:41,140 --> 00:02:43,240
+de locus et le locus c'est la
+
+38
+00:02:43,240 --> 00:02:47,800
+position ou le site d'un gène sur
+
+39
+00:02:47,800 --> 00:02:48,820
+un chromosome donné.
+
+40
+00:02:49,780 --> 00:02:54,880
+Alors que le phénotype c'est la manifestation
+
+41
+00:02:54,880 --> 00:02:59,760
+apparente de la constitution du génome, que ce
+
+42
+00:02:59,760 --> 00:03:03,840
+soit sous la forme de traits morphologiques, par
+
+43
+00:03:03,840 --> 00:03:09,180
+exemple une dysmorphie secondaire à une mutation donnée
+
+44
+00:03:09,180 --> 00:03:13,280
+dans un gène donné ou bien une dysmorphie
+
+45
+00:03:13,280 --> 00:03:16,980
+faciale, par exemple le visage trésumique 21 qui
+
+46
+00:03:16,980 --> 00:03:21,180
+est secondaire à la présence d'un chromosome
+
+47
+00:03:21,180 --> 00:03:25,460
+21 de plus, ou bien d'une maladie,
+
+48
+00:03:26,220 --> 00:03:32,940
+d'une variation qualitative ou quantitative du produit
+
+49
+00:03:32,940 --> 00:03:34,960
+final de l'expression d'un gène.
+
+50
+00:03:35,380 --> 00:03:37,340
+Donc le produit final de l'expression d
+
+51
+00:03:37,340 --> 00:03:40,500
+'un gène c'est la protéine.
+
+52
+00:03:41,740 --> 00:03:47,080
+Alors que la maladie congénitale c'est une
+
+53
+00:03:47,080 --> 00:03:52,080
+maladie qui est présente à la naissance et
+
+54
+00:03:52,080 --> 00:03:56,200
+cette maladie congénitale ne veut pas dire forcément
+
+55
+00:03:56,200 --> 00:03:57,460
+maladie génétique.
+
+56
+00:03:57,960 --> 00:04:02,560
+Une maladie congénitale peut être génétique ou non
+
+57
+00:04:02,560 --> 00:04:06,920
+génétique, par exemple on peut avoir un syndrome
+
+58
+00:04:06,920 --> 00:04:12,120
+malformatif secondaire à une exposition à des irradiations
+
+59
+00:04:12,120 --> 00:04:16,019
+ou à un médicament thératogène.
+
+60
+00:04:16,399 --> 00:04:19,220
+Là ça va se manifester par un syndrome
+
+61
+00:04:19,220 --> 00:04:23,300
+malformatif congénital qui est non génétique.
+
+62
+00:04:24,340 --> 00:04:28,180
+Donc pour récapituler, une maladie congénitale c'est
+
+63
+00:04:28,180 --> 00:04:31,740
+une maladie présente à la naissance, qu'elle
+
+64
+00:04:31,740 --> 00:04:33,820
+soit génétique ou non génétique.
+
+65
+00:04:35,220 --> 00:04:39,160
+Les maladies génétiques peuvent être létales avant la
+
+66
+00:04:39,160 --> 00:04:42,660
+naissance et peuvent être à l'origine d
+
+67
+00:04:42,660 --> 00:04:48,640
+'avortements spontanés ou bien de morphotanes unitéraux.
+
+68
+00:04:49,860 --> 00:04:53,440
+Elles peuvent être présentes à la naissance congénitale
+
+69
+00:04:53,440 --> 00:04:57,400
+ou bien se déclarer plus tard.
+
+70
+00:04:58,640 --> 00:05:00,900
+Il est à noter que 10% des
+
+71
+00:05:00,900 --> 00:05:04,620
+maladies monogéniques ne sont découvertes qu'à l
+
+72
+00:05:04,620 --> 00:05:05,780
+'âge adulte.
+
+73
+00:05:06,220 --> 00:05:10,500
+Prenons l'exemple de la choré du tincton.
+
+74
+00:05:10,900 --> 00:05:14,960
+C'est une maladie neurodégénérative rare du système
+
+75
+00:05:14,960 --> 00:05:15,860
+nerveux central.
+
+76
+00:05:16,880 --> 00:05:22,040
+Cette pathologie est caractérisée par des mouvements involontaires
+
+77
+00:05:22,040 --> 00:05:31,300
+choréiques, des troubles comportementaux et psychiatriques ainsi qu
+
+78
+00:05:31,300 --> 00:05:31,980
+'une démence.
+
+79
+00:05:32,360 --> 00:05:36,460
+Mais cette pathologie ne se manifeste qu'à
+
+80
+00:05:36,460 --> 00:05:39,140
+l'âge adulte, entre l'âge de 30
+
+81
+00:05:39,140 --> 00:05:40,320
+ans et 50 ans.
+
+82
+00:05:47,090 --> 00:05:49,010
+La définition d'un gène, c'est ce
+
+83
+00:05:49,010 --> 00:05:50,770
+qu'on a vu en première année ensemble.
+
+84
+00:05:51,310 --> 00:05:55,130
+C'est une séquence d'ADN transcrite en
+
+85
+00:05:55,130 --> 00:05:58,730
+ARN traduite ou non en protéines.
+
+86
+00:05:59,770 --> 00:06:03,370
+C'est l'unité d'information génétique.
+
+87
+00:06:05,350 --> 00:06:07,390
+Il faut savoir que les gènes situés au
+
+88
+00:06:07,390 --> 00:06:13,090
+niveau de l'ADN nucléaire sont constitués d
+
+89
+00:06:13,090 --> 00:06:16,370
+'une succession d'exons et d'introns.
+
+90
+00:06:19,620 --> 00:06:21,200
+Qu'en est-il du locus?
+
+91
+00:06:21,860 --> 00:06:22,740
+Le locus?
+
+92
+00:06:24,440 --> 00:06:28,260
+Il faut savoir que les gènes sont disposés
+
+93
+00:06:28,260 --> 00:06:31,000
+de façon linéaire sur les chromosomes.
+
+94
+00:06:31,640 --> 00:06:34,160
+Là toujours, je parle de l'ADN nucléaire.
+
+95
+00:06:35,140 --> 00:06:40,720
+On appelle locus l'emplacement, le siège spécifique
+
+96
+00:06:40,720 --> 00:06:44,580
+qu'occupe un gène sur un chromosome donné.
+
+97
+00:06:45,320 --> 00:06:49,700
+Un même locus peut être occupé par des
+
+98
+00:06:49,700 --> 00:06:51,060
+allèles différents.
+
+99
+00:06:52,760 --> 00:06:54,580
+Il faut savoir qu'on est des sujets
+
+100
+00:06:54,580 --> 00:06:55,840
+diploïdes.
+
+101
+00:06:56,620 --> 00:06:59,640
+Pour les gènes situés sur les autosomes, les
+
+102
+00:06:59,640 --> 00:07:02,520
+chromosomes non sexuels du chromosome 1 et 22,
+
+103
+00:07:03,140 --> 00:07:05,840
+on a un allèle sur le chromosome d
+
+104
+00:07:05,840 --> 00:07:08,840
+'origine maternelle et un allèle sur le chromosome
+
+105
+00:07:08,840 --> 00:07:09,940
+d'origine paternelle.
+
+106
+00:07:10,840 --> 00:07:13,180
+C'est quoi un allèle?
+
+107
+00:07:13,180 --> 00:07:18,260
+Les allèles sont des différentes formes ou versions
+
+108
+00:07:18,260 --> 00:07:22,620
+d'un même gène, mais qui diffèrent par
+
+109
+00:07:22,620 --> 00:07:24,400
+leur séquence nucléotidique.
+
+110
+00:07:24,880 --> 00:07:27,860
+Changement d'une base par une autre, une
+
+111
+00:07:27,860 --> 00:07:29,920
+base qui manque, une base de plus.
+
+112
+00:07:30,560 --> 00:07:34,060
+Deux gènes sont dits des allèles quand ils
+
+113
+00:07:34,060 --> 00:07:38,740
+occupent des loci identiques, mais non exclusifs l
+
+114
+00:07:38,740 --> 00:07:39,920
+'un de l'autre.
+
+115
+00:07:39,920 --> 00:07:44,120
+Donc, on a un locus sur le chromosome
+
+116
+00:07:44,120 --> 00:07:46,860
+d'origine maternelle et un locus sur le
+
+117
+00:07:46,860 --> 00:07:48,420
+chromosome d'origine paternelle.
+
+118
+00:07:49,440 --> 00:07:54,500
+Ces allèles ont la même fonction, parce que
+
+119
+00:07:54,500 --> 00:07:58,920
+le gène va coder pour la même protéine.
+
+120
+00:07:59,480 --> 00:08:08,020
+Mais la protéine qui est exprimée, synthétisée, aura
+
+121
+00:08:08,020 --> 00:08:11,280
+une efficacité qui peut être différente.
+
+122
+00:08:15,500 --> 00:08:18,880
+On est-il de la notion d'homozygote
+
+123
+00:08:18,880 --> 00:08:20,300
+et d'héterozygote?
+
+124
+00:08:20,900 --> 00:08:24,860
+Comme je viens de le dire, dans l
+
+125
+00:08:24,860 --> 00:08:30,400
+'espèce humaine, on a 46 chromosomes.
+
+126
+00:08:30,400 --> 00:08:35,480
+On a deux lots haploïds de 23 chromosomes
+
+127
+00:08:35,480 --> 00:08:35,940
+chacun.
+
+128
+00:08:37,240 --> 00:08:40,020
+Donc, on est des sujets diploïdes.
+
+129
+00:08:41,360 --> 00:08:47,360
+Deux allèles occupent donc deux loci correspondant sur
+
+130
+00:08:47,360 --> 00:08:49,040
+les deux chromosomes homologues.
+
+131
+00:08:49,120 --> 00:08:50,600
+Je parle des autosomes.
+
+132
+00:08:51,720 --> 00:08:55,620
+Si les deux allèles sont différentes, par exemple,
+
+133
+00:08:55,740 --> 00:08:59,940
+vous voyez ici, on a une mutation orange
+
+134
+00:08:59,940 --> 00:09:02,960
+sur un allèle et on a l'autre
+
+135
+00:09:02,960 --> 00:09:05,100
+allèle qui est non mutée.
+
+136
+00:09:05,820 --> 00:09:09,200
+Donc là, la mutation est présente sur un
+
+137
+00:09:09,200 --> 00:09:09,840
+seul allèle.
+
+138
+00:09:10,600 --> 00:09:13,440
+On dit que la mutation est à l
+
+139
+00:09:13,440 --> 00:09:18,740
+'état héterozygote ou bien le sujet est héterozygote.
+
+140
+00:09:19,980 --> 00:09:26,900
+Quand on a deux allèles non mutées, on
+
+141
+00:09:26,900 --> 00:09:29,780
+va dire que le sujet est homozygote sain,
+
+142
+00:09:30,240 --> 00:09:30,860
+non muté.
+
+143
+00:09:31,620 --> 00:09:35,540
+Si on a la même mutation sur les
+
+144
+00:09:35,540 --> 00:09:40,160
+deux allèles, on dit que le sujet est
+
+145
+00:09:40,160 --> 00:09:44,680
+homozygote pour le locus considéré ou bien que
+
+146
+00:09:44,680 --> 00:09:47,780
+la mutation est à l'état homozygote.
+
+147
+00:09:49,480 --> 00:09:54,040
+Pour un locus donné avec deux allèles, grand
+
+148
+00:09:54,040 --> 00:09:58,360
+A et petit A, combien de génotypes on
+
+149
+00:09:58,360 --> 00:09:59,040
+va avoir?
+
+150
+00:09:59,860 --> 00:10:02,020
+On va avoir soit grand A, grand A,
+
+151
+00:10:02,640 --> 00:10:05,800
+grand A, petit A ou petit A, petit
+
+152
+00:10:05,800 --> 00:10:06,280
+A.
+
+153
+00:10:06,820 --> 00:10:08,820
+Grand A, grand A et petit A, petit
+
+154
+00:10:08,820 --> 00:10:11,660
+A sont homozygotes alors que grand A, petit
+
+155
+00:10:11,660 --> 00:10:14,220
+A sont héterozygotes.
+
+156
+00:10:16,640 --> 00:10:19,980
+Maintenant, on va passer à la notion d
+
+157
+00:10:19,980 --> 00:10:21,460
+'état hémizygote.
+
+158
+00:10:22,600 --> 00:10:24,320
+Je viens de vous dire qu'on est
+
+159
+00:10:24,320 --> 00:10:26,400
+des sujets diploïdes.
+
+160
+00:10:27,020 --> 00:10:31,180
+Pour les autosomes du chromosome 1 au chromosome
+
+161
+00:10:31,180 --> 00:10:36,060
+22, on a toujours deux exemplaires du même
+
+162
+00:10:36,060 --> 00:10:36,520
+gène.
+
+163
+00:10:37,200 --> 00:10:37,740
+D'accord?
+
+164
+00:10:38,340 --> 00:10:40,880
+Et chez les sujets du sexe féminin, on
+
+165
+00:10:40,880 --> 00:10:42,800
+a deux chromosomes X.
+
+166
+00:10:42,800 --> 00:10:46,580
+Donc, chaque gène sur le chromosome X, chez
+
+167
+00:10:46,580 --> 00:10:49,520
+une femme, est un double exemplaire.
+
+168
+00:10:50,140 --> 00:10:54,160
+Mais le problème se pose chez le sujet
+
+169
+00:10:54,160 --> 00:10:56,020
+du sexe masculin.
+
+170
+00:10:56,700 --> 00:10:59,480
+Il a un chromosome, un seul chromosome X
+
+171
+00:10:59,480 --> 00:11:01,440
+et un chromosome Y.
+
+172
+00:11:01,760 --> 00:11:03,600
+Si on a une mutation sur le chromosome
+
+173
+00:11:03,600 --> 00:11:06,460
+X, on ne peut pas parler d'héterozygote,
+
+174
+00:11:06,780 --> 00:11:09,620
+on ne peut pas parler d'homozygote.
+
+175
+00:11:09,620 --> 00:11:15,500
+Donc, l'état hémizygote désigne tous les gènes
+
+176
+00:11:15,500 --> 00:11:19,560
+portés par le chromosome X chez le sujet
+
+177
+00:11:19,560 --> 00:11:23,960
+du sexe masculin parce qu'ils sont présents
+
+178
+00:11:23,960 --> 00:11:25,740
+en un seul exemplaire.
+
+179
+00:11:28,590 --> 00:11:32,430
+On va passer maintenant à la notion d
+
+180
+00:11:32,430 --> 00:11:34,610
+'hétérogénéité génétique.
+
+181
+00:11:36,130 --> 00:11:39,310
+Il faut savoir qu'on a deux types
+
+182
+00:11:39,310 --> 00:11:40,210
+d'hétérogénéité.
+
+183
+00:11:40,210 --> 00:11:45,310
+On a une hétérogénéité allélique ou intralocus, d
+
+184
+00:11:45,310 --> 00:11:49,430
+'une part, et d'autre part, une hétérogénéité
+
+185
+00:11:49,430 --> 00:11:51,190
+interlocus.
+
+186
+00:11:52,490 --> 00:11:56,590
+C'est quoi une hétérogénéité allélique ou intralocus?
+
+187
+00:11:57,530 --> 00:12:02,270
+On parle d'hétérogénéité allélique ou intralocus pour
+
+188
+00:12:02,270 --> 00:12:08,940
+une maladie, quand cette maladie, quel que soit
+
+189
+00:12:08,940 --> 00:12:13,000
+son mode héréditaire, peut être due à des
+
+190
+00:12:13,000 --> 00:12:18,920
+mutations pathogènes, délétères, différentes d'un même gène.
+
+191
+00:12:19,420 --> 00:12:21,960
+On dit des mutations alléliques.
+
+192
+00:12:23,660 --> 00:12:27,100
+Donc, quand on a une maladie qui peut
+
+193
+00:12:27,100 --> 00:12:30,540
+être due à des mutations différentes d'un
+
+194
+00:12:30,540 --> 00:12:36,700
+même gène, on parle d'hétérogénéité allélique ou
+
+195
+00:12:36,700 --> 00:12:37,780
+intralocus.
+
+196
+00:12:38,320 --> 00:12:42,540
+Donc, pour cette maladie, il y a un
+
+197
+00:12:42,540 --> 00:12:47,760
+seul gène, mais ce gène-là contient des
+
+198
+00:12:47,760 --> 00:12:51,660
+mutations différentes, donc, qui peuvent être à l
+
+199
+00:12:51,660 --> 00:12:53,020
+'origine de cette maladie.
+
+200
+00:12:54,740 --> 00:12:58,520
+Alors que, quand on parle d'hétérogénéité interlocus,
+
+201
+00:12:59,360 --> 00:13:03,520
+quand un phénotype apparemment identique, ça veut dire
+
+202
+00:13:03,520 --> 00:13:07,480
+la même pathologie, peut être la conséquence de
+
+203
+00:13:07,480 --> 00:13:12,600
+mutations délétères pathogènes qui siègent sur des gènes
+
+204
+00:13:12,600 --> 00:13:14,260
+différents non alléliques.
+
+205
+00:13:14,800 --> 00:13:18,680
+Donc, une maladie qui peut être due à
+
+206
+00:13:18,680 --> 00:13:20,780
+des gènes différents, mais ce n'est pas
+
+207
+00:13:20,780 --> 00:13:22,640
+les différents gènes à la fois.
+
+208
+00:13:22,640 --> 00:13:29,520
+On parle ici de pathologie mendélienne, due à
+
+209
+00:13:29,520 --> 00:13:30,920
+un seul gène à la fois.
+
+210
+00:13:31,260 --> 00:13:34,660
+Par exemple, on a le gène 1 impliqué
+
+211
+00:13:34,660 --> 00:13:36,880
+dans la même pathologie chez la famille 1,
+
+212
+00:13:37,400 --> 00:13:42,340
+le gène 2 impliqué dans la même pathologie
+
+213
+00:13:42,340 --> 00:13:45,440
+chez la famille 2, un gène X impliqué
+
+214
+00:13:45,440 --> 00:13:49,480
+dans la même pathologie dans la famille 4.
+
+215
+00:13:53,900 --> 00:13:59,180
+On va prendre un exemple d'hétérogénéité allélique
+
+216
+00:13:59,180 --> 00:14:01,120
+ou intralocus.
+
+217
+00:14:01,580 --> 00:14:04,220
+Donc, l'exemple que j'ai choisi, c
+
+218
+00:14:04,220 --> 00:14:07,880
+'est l'hyperplasie congénitale des surannales par déficit
+
+219
+00:14:07,880 --> 00:14:09,720
+ON21-hydroxylase.
+
+220
+00:14:10,380 --> 00:14:14,060
+Il s'agit d'un trouble endocrinien héréditaire
+
+221
+00:14:14,060 --> 00:14:17,840
+à transmission autosomique récessive.
+
+222
+00:14:18,800 --> 00:14:23,400
+Dans la forme classique du déficit ON21-hydroxylase,
+
+223
+00:14:24,020 --> 00:14:27,020
+il y a une virilisation du fœtus de
+
+224
+00:14:27,020 --> 00:14:31,620
+sexe féminin, donc qui présente à la naissance
+
+225
+00:14:31,620 --> 00:14:36,280
+une ambiguïté des organes génitaux avec des degrés
+
+226
+00:14:36,280 --> 00:14:38,620
+variables de virilisation.
+
+227
+00:14:39,580 --> 00:14:44,580
+Sur le schéma suivant, vous voyez les différents
+
+228
+00:14:44,580 --> 00:14:52,780
+exemples du gène CYP21A2 et vous voyez plusieurs
+
+229
+00:14:52,780 --> 00:14:53,660
+mutations.
+
+230
+00:14:54,760 --> 00:14:56,900
+Donc, quand il y a un gène impliqué
+
+231
+00:14:56,900 --> 00:15:01,680
+dans la maladie et quand il y a
+
+232
+00:15:01,680 --> 00:15:07,180
+plusieurs mutations qui peuvent expliquer la maladie, vous
+
+233
+00:15:07,180 --> 00:15:08,860
+pouvez parler de toutes les mutations à la
+
+234
+00:15:08,860 --> 00:15:09,060
+fois.
+
+235
+00:15:09,800 --> 00:15:12,960
+Donc, soit on aura la même mutation à
+
+236
+00:15:12,960 --> 00:15:18,920
+l'état homozygote ou on aura une mutation
+
+237
+00:15:18,920 --> 00:15:23,300
+surannale, par exemple celle-là, où on a
+
+238
+00:15:23,300 --> 00:15:27,860
+des lesions de hyper de base, par exemple
+
+239
+00:15:27,860 --> 00:15:32,960
+sur l'allèle maternel, et la mutation valine
+
+240
+00:15:32,960 --> 00:15:38,380
+-281-leucine, par exemple sur l'allèle paternel.
+
+241
+00:15:38,860 --> 00:15:40,880
+On a les deux allèles du même gène
+
+242
+00:15:40,880 --> 00:15:43,720
+qui sont mutées, mais là, est-ce que
+
+243
+00:15:43,720 --> 00:15:45,260
+les mutations sont les mêmes?
+
+244
+00:15:45,600 --> 00:15:47,440
+Ce sont deux mutations différentes.
+
+245
+00:15:47,880 --> 00:15:48,940
+Est-ce qu'on a le droit de
+
+246
+00:15:48,940 --> 00:15:52,780
+parler de mutation homozygote ou mutation hétérozygote?
+
+247
+00:15:52,780 --> 00:15:56,440
+On ne peut ni choisir homozygote ni hétérozygote
+
+248
+00:15:56,440 --> 00:15:58,660
+quand il s'agit d'une maladie autosomique
+
+249
+00:15:58,660 --> 00:15:59,940
+récessive.
+
+250
+00:16:00,480 --> 00:16:03,080
+Et quand il y a une mutation, deux
+
+251
+00:16:03,080 --> 00:16:06,980
+mutations différentes sur les deux allèles, l'allèle
+
+252
+00:16:06,980 --> 00:16:10,620
+maternelle et paternelle, on parle d'un état
+
+253
+00:16:10,620 --> 00:16:12,780
+d'hétérozygote composite.
+
+254
+00:16:13,200 --> 00:16:16,380
+On va revoir cette notion sur les slides
+
+255
+00:16:16,380 --> 00:16:17,700
+suivants.
+
+256
+00:16:18,660 --> 00:16:22,920
+Là, c'était un exemple d'hétérogénité intra
+
+257
+00:16:22,920 --> 00:16:24,060
+-loqueuse.
+
+258
+00:16:26,330 --> 00:16:32,850
+Voici un exemple d'hétérogénité interloqueuse.
+
+259
+00:16:33,410 --> 00:16:36,410
+On va prendre comme exemple le syndrome de
+
+260
+00:16:36,410 --> 00:16:36,870
+Joubert.
+
+261
+00:16:37,970 --> 00:16:42,550
+C'est une maladie génétique autosomique récessive caractérisée
+
+262
+00:16:42,550 --> 00:16:47,830
+par une malformation congénitale du tronc cérébral, une
+
+263
+00:16:47,830 --> 00:16:52,890
+agénésie ou une hypoplasie du vernis cérébelleux à
+
+264
+00:16:52,890 --> 00:16:59,510
+l'origine des troubles respiratoires tels que l
+
+265
+00:16:59,510 --> 00:17:05,910
+'apnée, un nystagmus, une hypotonie, un retard psychomoteur
+
+266
+00:17:05,910 --> 00:17:10,630
+et même une ataxie qui peut apparaître plus
+
+267
+00:17:10,630 --> 00:17:10,930
+tard.
+
+268
+00:17:13,329 --> 00:17:15,470
+Comme je l'ai dit tout à l
+
+269
+00:17:15,470 --> 00:17:19,589
+'heure, l'hétérogénité interloqueuse, ça veut dire qu
+
+270
+00:17:19,589 --> 00:17:22,430
+'il n'y a pas un seul gène
+
+271
+00:17:22,430 --> 00:17:25,250
+impliqué dans cette pathologie.
+
+272
+00:17:25,829 --> 00:17:27,790
+C'est une maladie monogénique.
+
+273
+00:17:28,350 --> 00:17:31,090
+Chez chaque patient, il y a un seul
+
+274
+00:17:31,090 --> 00:17:33,590
+gène qui est muté.
+
+275
+00:17:34,210 --> 00:17:36,810
+Mais cette pathologie-là ne peut pas être
+
+276
+00:17:36,810 --> 00:17:40,310
+expliquée par un seul gène dans toute la
+
+277
+00:17:40,310 --> 00:17:41,690
+population mondiale.
+
+278
+00:17:42,490 --> 00:17:44,870
+Il y a plusieurs gènes comme vous le
+
+279
+00:17:44,870 --> 00:17:47,010
+voyez sur ce schéma-là, que ce soit
+
+280
+00:17:47,010 --> 00:17:56,510
+le MPHP1, CEP290, TMEM67, MKSA, mais chez
+
+281
+00:17:56,510 --> 00:18:00,070
+chaque patient, il y a un gène de
+
+282
+00:18:00,070 --> 00:18:03,050
+ces gènes-là qui est muté à l
+
+283
+00:18:03,050 --> 00:18:06,610
+'état homozygote ou hétérozygote composite.
+
+284
+00:18:12,770 --> 00:18:19,070
+Un arbre généalogique est une représentation graphique qui
+
+285
+00:18:19,070 --> 00:18:23,070
+résume en un seul chemin un grand nombre
+
+286
+00:18:23,070 --> 00:18:26,730
+d'informations sur la composition d'une famille
+
+287
+00:18:26,730 --> 00:18:30,250
+et l'état de santé de ses membres.
+
+288
+00:18:30,550 --> 00:18:34,010
+La prise de l'arbre généalogique est un
+
+289
+00:18:34,010 --> 00:18:39,390
+temps capital dans l'enquête génétique et durant
+
+290
+00:18:39,390 --> 00:18:42,070
+la consultation de génétique.
+
+291
+00:18:43,030 --> 00:18:48,650
+En effet, quand cet arbre généalogique est bien
+
+292
+00:18:48,650 --> 00:18:53,910
+pris, il permet d'interpréter rapidement le mode
+
+293
+00:18:53,910 --> 00:18:58,330
+de transmission d'un trait phénotypique ou d
+
+294
+00:18:58,330 --> 00:19:01,450
+'un état pathologique, ça veut dire une maladie.
+
+295
+00:19:05,240 --> 00:19:11,860
+Les arbres généalogiques sont tracés ou dessinés en
+
+296
+00:19:11,860 --> 00:19:15,860
+utilisant des symboles internationaux.
+
+297
+00:19:16,940 --> 00:19:22,060
+Donc, on a des symboles internationaux qui ont
+
+298
+00:19:22,060 --> 00:19:28,100
+la même signification sur le plan international-mondial.
+
+299
+00:19:31,770 --> 00:19:36,230
+Quand on a un carré non-plan, ça
+
+300
+00:19:36,230 --> 00:19:41,150
+veut dire un sujet de sexe masculin, indemne,
+
+301
+00:19:41,770 --> 00:19:43,270
+sain, non-malade.
+
+302
+00:19:44,110 --> 00:19:48,970
+Quand ce carré est noir, ça veut dire
+
+303
+00:19:48,970 --> 00:19:51,790
+que c'est un sujet de sexe masculin,
+
+304
+00:19:52,290 --> 00:19:53,950
+atteint, malade.
+
+305
+00:19:54,840 --> 00:20:00,530
+Quand on a un cercle non-plan, c
+
+306
+00:20:00,530 --> 00:20:04,330
+'est un sujet de sexe féminin, indemne, ça
+
+307
+00:20:04,330 --> 00:20:07,830
+veut dire une femme saine, non-malade.
+
+308
+00:20:08,210 --> 00:20:12,670
+Quand on a un cercle noir, il s
+
+309
+00:20:12,670 --> 00:20:16,510
+'agit d'un sujet de sexe féminin, atteint,
+
+310
+00:20:16,690 --> 00:20:20,350
+donc c'est une femme atteinte ou malade.
+
+311
+00:20:21,050 --> 00:20:25,550
+Si on a un losange, il s'agit
+
+312
+00:20:25,550 --> 00:20:28,610
+d'un sujet de sexe indéterminé.
+
+313
+00:20:29,330 --> 00:20:32,290
+Par exemple, à la naissance, si le pédiatre
+
+314
+00:20:32,290 --> 00:20:36,470
+examine les organes génitaux externes d'un nouveau
+
+315
+00:20:36,470 --> 00:20:38,730
+-né, d'un bébé qui vient de naître,
+
+316
+00:20:39,190 --> 00:20:42,350
+mais il n'arrive pas à trancher est
+
+317
+00:20:42,350 --> 00:20:44,470
+-ce que ces organes génitaux sont de type
+
+318
+00:20:44,470 --> 00:20:48,310
+féminin ou masculin, on parle d'une anomalie
+
+319
+00:20:48,310 --> 00:20:51,290
+de la différenciation sexuelle, donc on n'a
+
+320
+00:20:51,290 --> 00:20:52,790
+pas le droit de dire est-ce que
+
+321
+00:20:52,790 --> 00:20:55,030
+c'est un garçon ou une fille, donc
+
+322
+00:20:55,030 --> 00:20:58,390
+quand c'est indéterminé, on met un losange.
+
+323
+00:20:59,830 --> 00:21:03,770
+Quand ce sujet de sexe indéterminé est atteint,
+
+324
+00:21:04,010 --> 00:21:07,830
+malade, donc c'est un losange plein, noir.
+
+325
+00:21:11,760 --> 00:21:14,800
+Quand on a par exemple des traits multiples,
+
+326
+00:21:15,160 --> 00:21:18,940
+ça veut dire dans une maladie ou un
+
+327
+00:21:18,940 --> 00:21:21,740
+syndrome, on a d'une part un retard
+
+328
+00:21:21,740 --> 00:21:25,900
+mental, d'autre part on a une atteinte
+
+329
+00:21:25,900 --> 00:21:29,140
+de la peau, d'autre part on a
+
+330
+00:21:29,140 --> 00:21:32,560
+une atteinte ophtalmologique, atteinte au niveau de l
+
+331
+00:21:32,560 --> 00:21:32,700
+'œil.
+
+332
+00:21:32,700 --> 00:21:38,000
+Donc pour expliquer, pour mettre ces différents traits
+
+333
+00:21:38,000 --> 00:21:41,460
+multiples au niveau de l'arbre généalogique, on
+
+334
+00:21:41,460 --> 00:21:43,960
+peut prendre par exemple la couleur noire pour
+
+335
+00:21:43,960 --> 00:21:45,040
+le retard mental.
+
+336
+00:21:45,760 --> 00:21:49,340
+Si vous voyez le carré à côté, donc
+
+337
+00:21:49,340 --> 00:21:54,540
+le petit carré en bas avec des lignes
+
+338
+00:21:54,540 --> 00:22:00,480
+rectilignes, donc là ça veut dire une atteinte
+
+339
+00:22:00,480 --> 00:22:01,860
+ophtalmologique de l'œil.
+
+340
+00:22:01,860 --> 00:22:05,200
+Et en haut et à gauche, donc avec
+
+341
+00:22:05,200 --> 00:22:11,820
+des lignes transversales, ça veut dire une atteinte
+
+342
+00:22:11,820 --> 00:22:13,440
+de la peau.
+
+343
+00:22:15,580 --> 00:22:20,060
+Pour désigner le premier ou la première personne
+
+344
+00:22:20,060 --> 00:22:26,300
+qui consulte en génétique pour une maladie, donc
+
+345
+00:22:26,300 --> 00:22:31,540
+on appelle cette personne Propositus probant au cas
+
+346
+00:22:31,540 --> 00:22:32,380
+index.
+
+347
+00:22:32,800 --> 00:22:38,000
+Et pour montrer cette personne qui consulte pour
+
+348
+00:22:38,000 --> 00:22:41,220
+la première fois pour une maladie génétique dans
+
+349
+00:22:41,220 --> 00:22:44,820
+une famille donnée, on met une flèche pour
+
+350
+00:22:44,820 --> 00:22:48,940
+désigner ce Propositus probant au cas index.
+
+351
+00:22:53,070 --> 00:22:57,730
+Si ce Propositus, je vous ai dit, est
+
+352
+00:22:57,730 --> 00:23:00,930
+atteint, donc bien sûr, ça sera un carré
+
+353
+00:23:00,930 --> 00:23:04,510
+ou un cercle plein coloré au noir.
+
+354
+00:23:05,450 --> 00:23:09,630
+Le premier consultant non atteint ayant permis le
+
+355
+00:23:09,630 --> 00:23:12,450
+recensement de la famille, ça sera un carré
+
+356
+00:23:12,450 --> 00:23:15,810
+ou un cercle non noir, non plein, mais
+
+357
+00:23:15,810 --> 00:23:19,150
+on va mettre la flèche pour désigner que
+
+358
+00:23:19,150 --> 00:23:21,570
+c'est le premier consultant non atteint ayant
+
+359
+00:23:21,570 --> 00:23:24,250
+permis le recensement de la famille.
+
+360
+00:23:24,790 --> 00:23:26,670
+Il peut s'agir, par exemple, d'une
+
+361
+00:23:26,670 --> 00:23:29,070
+famille où il y a une maladie génétique.
+
+362
+00:23:29,530 --> 00:23:32,510
+Une personne non atteinte de la maladie génétique
+
+363
+00:23:32,510 --> 00:23:36,130
+peut s'inquiéter pour ses enfants, pour sa
+
+364
+00:23:36,130 --> 00:23:36,850
+descendance.
+
+365
+00:23:37,270 --> 00:23:40,790
+Alors, elle a le droit de demander une
+
+366
+00:23:40,790 --> 00:23:43,130
+consultation de conseil génétique.
+
+367
+00:23:44,310 --> 00:23:48,410
+Maintenant, quand on a un enfant adopté, donc
+
+368
+00:23:48,410 --> 00:23:53,290
+comment on va désigner ou symboliser cet enfant
+
+369
+00:23:53,290 --> 00:23:55,250
+adopté sur un arbre généalogique?
+
+370
+00:23:55,470 --> 00:23:57,250
+On va mettre la personne, si c'est
+
+371
+00:23:57,250 --> 00:24:00,310
+un garçon, ça sera un carré entre deux
+
+372
+00:24:00,310 --> 00:24:01,190
+crochets.
+
+373
+00:24:01,710 --> 00:24:03,710
+Si c'est une fille, on va mettre
+
+374
+00:24:03,710 --> 00:24:07,970
+le cercle entre deux crochets pour montrer que
+
+375
+00:24:07,970 --> 00:24:10,570
+c'est un enfant non biologique, que c
+
+376
+00:24:10,570 --> 00:24:12,130
+'est un enfant adopté.
+
+377
+00:24:14,920 --> 00:24:21,300
+Comment on va désigner le décès, la mort
+
+378
+00:24:21,300 --> 00:24:24,400
+d'une personne sur un arbre généalogique?
+
+379
+00:24:24,940 --> 00:24:29,160
+Tout simplement en traçant un trait au-dessus
+
+380
+00:24:29,160 --> 00:24:33,300
+du carré ou du cercle pour montrer que
+
+381
+00:24:33,300 --> 00:24:35,480
+la personne est décédée.
+
+382
+00:24:36,860 --> 00:24:41,220
+Maintenant, quand vous voyez un point noir à
+
+383
+00:24:41,220 --> 00:24:44,200
+l'intérieur d'un cercle, ça veut dire
+
+384
+00:24:44,200 --> 00:24:49,140
+que c'est une personne conductrice ou vectrice
+
+385
+00:24:49,140 --> 00:24:53,240
+d'une pathologie récessive liée à l'X.
+
+386
+00:24:56,950 --> 00:25:01,030
+Parfois, on a des personnes qui sont porteuses
+
+387
+00:25:01,030 --> 00:25:05,330
+de mutations génétiques constitutionnelles, mais qui n'ont
+
+388
+00:25:05,330 --> 00:25:10,010
+pas encore manifesté ou exprimé la maladie.
+
+389
+00:25:10,010 --> 00:25:12,750
+Ça veut dire qu'ils ont le génotype
+
+390
+00:25:12,750 --> 00:25:15,870
+de la maladie, mais ils n'ont pas
+
+391
+00:25:15,870 --> 00:25:18,210
+encore le phénotype.
+
+392
+00:25:18,670 --> 00:25:21,890
+Par exemple, vous connaissez tous Angélina Jolie.
+
+393
+00:25:22,770 --> 00:25:25,110
+Donc, vous savez que sa maman est décédée
+
+394
+00:25:25,110 --> 00:25:28,130
+suite à un cancer du sein.
+
+395
+00:25:28,750 --> 00:25:32,950
+Angélina Jolie est porteuse de la même mutation
+
+396
+00:25:32,950 --> 00:25:36,830
+constitutionnelle au niveau du gène Bersin 1, mais
+
+397
+00:25:36,830 --> 00:25:40,310
+elle n'a jamais développé le cancer du
+
+398
+00:25:40,310 --> 00:25:40,550
+sein.
+
+399
+00:25:41,390 --> 00:25:44,310
+Donc, avant qu'elle ne fasse l'ablation
+
+400
+00:25:44,310 --> 00:25:48,330
+des glands de ma mère, elle était pré
+
+401
+00:25:48,330 --> 00:25:49,270
+-symptomatique.
+
+402
+00:25:49,470 --> 00:25:51,990
+Elle n'avait pas encore les symptômes du
+
+403
+00:25:51,990 --> 00:25:52,930
+cancer du sein.
+
+404
+00:25:53,410 --> 00:25:55,970
+Donc, c'est ce qu'on appelle une
+
+405
+00:25:55,970 --> 00:25:57,690
+personne pré-symptomatique.
+
+406
+00:25:57,690 --> 00:26:02,470
+Donc, pour désigner, pour schématiser ou dessiner une
+
+407
+00:26:02,470 --> 00:26:05,590
+personne pré-symptomatique au niveau d'un arbre
+
+408
+00:26:05,590 --> 00:26:07,570
+généalogique, quel est le symbole?
+
+409
+00:26:08,170 --> 00:26:15,190
+Tout simplement, on va tracer une ligne verticale
+
+410
+00:26:15,190 --> 00:26:19,570
+au milieu du cercle ou du carré pour
+
+411
+00:26:19,570 --> 00:26:23,590
+montrer que c'est une personne pré-symptomatique.
+
+412
+00:26:25,270 --> 00:26:28,730
+Parfois, quand on trace un arbre généalogique, on
+
+413
+00:26:28,730 --> 00:26:32,430
+se trouve face à des familles qui ont
+
+414
+00:26:32,430 --> 00:26:36,830
+plusieurs enfants, parfois une douzaine, et on n
+
+415
+00:26:36,830 --> 00:26:40,610
+'aura pas assez de place pour symboliser, pour
+
+416
+00:26:40,610 --> 00:26:42,550
+dessiner tous les enfants.
+
+417
+00:26:43,250 --> 00:26:46,490
+Donc, par exemple, si on a trois filles
+
+418
+00:26:46,490 --> 00:26:49,690
+et elles ne sont pas atteintes, on peut
+
+419
+00:26:49,690 --> 00:26:53,030
+mettre trois à l'intérieur du cercle pour
+
+420
+00:26:53,030 --> 00:26:55,670
+désigner que ce couple a trois filles.
+
+421
+00:26:56,670 --> 00:26:59,370
+On peut mettre deux à l'intérieur d
+
+422
+00:26:59,370 --> 00:27:01,670
+'un carré pour dire que c'est deux
+
+423
+00:27:01,670 --> 00:27:04,770
+garçons, deux enfants du même couple.
+
+424
+00:27:11,420 --> 00:27:18,820
+Maintenant, comment on schématise un lien de mariage
+
+425
+00:27:18,820 --> 00:27:20,060
+entre deux personnes?
+
+426
+00:27:20,060 --> 00:27:26,940
+Tout simplement, en traçant une ligne horizontale entre
+
+427
+00:27:26,940 --> 00:27:29,440
+le mari et la femme.
+
+428
+00:27:29,960 --> 00:27:33,120
+Si cette union se solde par un divorce,
+
+429
+00:27:34,040 --> 00:27:42,060
+Donc, tout simplement, on va mettre comme slash
+
+430
+00:27:42,060 --> 00:27:47,280
+sur un trait, sur le trait d'union,
+
+431
+00:27:48,080 --> 00:27:51,240
+sur la ligne horizontale pour dire que cette
+
+432
+00:27:51,240 --> 00:27:55,980
+union a été rompue pour désigner le divorce.
+
+433
+00:27:55,980 --> 00:27:59,760
+Maintenant, s'il y a un mariage entre
+
+434
+00:27:59,760 --> 00:28:03,380
+apparentés, donc ça veut dire qu'il y
+
+435
+00:28:03,380 --> 00:28:05,260
+a une consanguinité dans la famille.
+
+436
+00:28:05,680 --> 00:28:09,200
+Au lieu de mettre juste une ligne horizontale
+
+437
+00:28:09,200 --> 00:28:12,460
+entre le carré et le cercle, on va
+
+438
+00:28:12,460 --> 00:28:17,880
+mettre une double ligne, donc deux traits horizontaux,
+
+439
+00:28:18,560 --> 00:28:24,260
+pour symboliser, schématiser une union entre apparentés.
+
+440
+00:28:24,260 --> 00:28:26,780
+Par exemple, entre cousins germains.
+
+441
+00:28:28,060 --> 00:28:32,340
+Maintenant, comment on va désigner la descendance?
+
+442
+00:28:32,740 --> 00:28:38,680
+Tout simplement, en dessinant, quand vous le voyez
+
+443
+00:28:38,680 --> 00:28:41,520
+sur ce schéma là, donc vous avez le
+
+444
+00:28:41,520 --> 00:28:44,400
+carré et le cercle en haut, le trait
+
+445
+00:28:44,400 --> 00:28:46,680
+de mariage en haut, et après on va
+
+446
+00:28:46,680 --> 00:28:50,760
+mettre une autre ligne en bas pour mettre
+
+447
+00:28:50,760 --> 00:28:53,940
+la descendance, le nombre de filles et le
+
+448
+00:28:53,940 --> 00:28:55,440
+nombre de garçons.
+
+449
+00:28:56,280 --> 00:29:00,120
+Maintenant, comment on va schématiser une grossesse en
+
+450
+00:29:00,120 --> 00:29:00,460
+cours?
+
+451
+00:29:00,800 --> 00:29:02,920
+Si on ne connaît pas le sexe du
+
+452
+00:29:02,920 --> 00:29:07,580
+fœtus, on va mettre un losange avec pointillés
+
+453
+00:29:07,580 --> 00:29:10,580
+pour dire que c'est une grossesse en
+
+454
+00:29:10,580 --> 00:29:12,720
+cours, mais on ne connaît pas encore le
+
+455
+00:29:12,720 --> 00:29:13,740
+sexe du fœtus.
+
+456
+00:29:14,220 --> 00:29:16,180
+Maintenant, si on connaît le sexe du fœtus
+
+457
+00:29:16,180 --> 00:29:17,940
+et c'est une fille, on va mettre
+
+458
+00:29:17,940 --> 00:29:21,260
+un cercle en pointillés, ça veut dire que
+
+459
+00:29:21,260 --> 00:29:23,760
+c'est un fœtus de sexe féminin.
+
+460
+00:29:24,140 --> 00:29:27,720
+Si c'est un fœtus de sexe masculin,
+
+461
+00:29:28,020 --> 00:29:30,380
+ça sera un carré en pointillés.
+
+462
+00:29:32,140 --> 00:29:35,140
+Certaines grossesses ne sont pas menées à terme
+
+463
+00:29:35,140 --> 00:29:38,480
+et vont se solder par une fausse couche,
+
+464
+00:29:39,180 --> 00:29:44,460
+que ce soit spontanée ou thérapeutique.
+
+465
+00:29:44,460 --> 00:29:46,980
+Donc, si c'est une fausse couche spontanée,
+
+466
+00:29:47,540 --> 00:29:51,220
+on va mettre un petit cercle en noir
+
+467
+00:29:51,220 --> 00:29:57,580
+ou bien un petit triangle dont la base
+
+468
+00:29:57,580 --> 00:30:00,280
+est en bas et le sommet en haut.
+
+469
+00:30:00,840 --> 00:30:02,880
+Là, si c'est une fausse couche spontanée,
+
+470
+00:30:03,060 --> 00:30:04,800
+avortement spontané.
+
+471
+00:30:05,240 --> 00:30:08,660
+S'il s'agit d'un avortement médical
+
+472
+00:30:08,660 --> 00:30:13,320
+ou d'une interruption thérapeutique de grossesse, on
+
+473
+00:30:13,320 --> 00:30:17,400
+va ajouter sur les deux signes précédents un
+
+474
+00:30:17,400 --> 00:30:22,040
+trait pour montrer que c'est une interruption
+
+475
+00:30:22,040 --> 00:30:29,280
+thérapeutique et non pas une fausse couche spontanée.
+
+476
+00:30:32,820 --> 00:30:36,260
+Donc, le signe en bas, ça veut dire
+
+477
+00:30:36,260 --> 00:30:39,020
+que c'est un sujet sans enfants.
+
+478
+00:30:42,250 --> 00:30:45,530
+Il est à noter que les différentes générations
+
+479
+00:30:45,530 --> 00:30:48,790
+sont numérotées en chiffres romains.
+
+480
+00:30:49,610 --> 00:30:50,890
+De haut en bas.
+
+481
+00:30:51,750 --> 00:30:57,510
+Donc, la plus ancienne génération, c'est la
+
+482
+00:30:57,510 --> 00:31:03,550
+génération 1, après 2, 3 et ainsi de
+
+483
+00:31:03,550 --> 00:31:03,910
+suite.
+
+484
+00:31:04,250 --> 00:31:08,210
+De la plus ancienne vers la plus jeune,
+
+485
+00:31:08,270 --> 00:31:09,150
+la plus récente.
+
+486
+00:31:10,150 --> 00:31:14,710
+Alors que les différents individus d'une même
+
+487
+00:31:14,710 --> 00:31:19,150
+génération sont numérotés en chiffres arabes, comme vous
+
+488
+00:31:19,150 --> 00:31:21,330
+le voyez sur l'arbre généalogique en dessous,
+
+489
+00:31:21,910 --> 00:31:25,950
+et ce, du plus âgé vers le plus
+
+490
+00:31:25,950 --> 00:31:29,290
+jeune, de gauche à droite.
+
+491
+00:31:33,480 --> 00:31:37,760
+Maintenant, on va aborder les caractéristiques de l
+
+492
+00:31:37,760 --> 00:31:40,500
+'hérédité autosomique dominante.
+
+493
+00:31:45,980 --> 00:31:51,520
+Concernant l'hérédité autosomique dominante, pour ce type
+
+494
+00:31:51,520 --> 00:31:55,740
+de transmission, ou pour ce mode de transmission,
+
+495
+00:31:56,740 --> 00:32:01,720
+les gènes impliqués sont localisés sur les autosomes.
+
+496
+00:32:02,100 --> 00:32:04,980
+Ça veut dire les chromosomes non sexuels du
+
+497
+00:32:04,980 --> 00:32:08,040
+chromosome 1 au chromosome 22.
+
+498
+00:32:09,080 --> 00:32:13,300
+Il suffit d'avoir un seul allèle muté.
+
+499
+00:32:13,300 --> 00:32:15,420
+Ça veut dire qu'il suffit que la
+
+500
+00:32:15,420 --> 00:32:19,640
+personne soit hétérozygote pour la mutation, grand A,
+
+501
+00:32:19,760 --> 00:32:23,780
+petit A, pour que la maladie apparaisse.
+
+502
+00:32:25,220 --> 00:32:29,960
+Donc, le plus souvent, les patients ou les
+
+503
+00:32:29,960 --> 00:32:34,040
+sujets atteints sont hétérozygotes, grand A, petit A.
+
+504
+00:32:34,420 --> 00:32:36,900
+Ici, dans cet exemple-là, l'allèle petit
+
+505
+00:32:36,900 --> 00:32:41,340
+A est l'allèle pathologique, ou porteur de
+
+506
+00:32:41,340 --> 00:32:41,960
+la mutation.
+
+507
+00:32:42,960 --> 00:32:46,740
+Il faut savoir qu'en pathologie humaine, les
+
+508
+00:32:46,740 --> 00:32:51,900
+homozygotes pour les allèles délétères ou mutées responsables
+
+509
+00:32:51,900 --> 00:32:56,500
+de pathologies autosomiques dominantes, donc les homozygotes petit
+
+510
+00:32:56,500 --> 00:32:59,840
+A, petit A, sont très exceptionnels.
+
+511
+00:33:01,000 --> 00:33:03,820
+Et leur phénotype, ça veut dire le tableau
+
+512
+00:33:03,820 --> 00:33:09,400
+clinique, comparé à celui des hétérozygotes grand A,
+
+513
+00:33:09,560 --> 00:33:13,100
+petit A, est variable selon les maladies.
+
+514
+00:33:13,660 --> 00:33:17,000
+Il peut être identique à celui d'un
+
+515
+00:33:17,000 --> 00:33:20,580
+patient hétérozygote grand A, petit A, comme il
+
+516
+00:33:20,580 --> 00:33:22,760
+peut être plus sévère.
+
+517
+00:33:24,120 --> 00:33:27,900
+Vous voyez à droite un arbre généalogique qui
+
+518
+00:33:27,900 --> 00:33:29,300
+montre les sujets atteints.
+
+519
+00:33:29,740 --> 00:33:32,320
+Donc, vous voyez des sujets atteints, c'est
+
+520
+00:33:32,320 --> 00:33:33,340
+en noir.
+
+521
+00:33:33,340 --> 00:33:36,720
+Là, sur ce schéma-là, ils sont tous
+
+522
+00:33:36,720 --> 00:33:39,240
+hétérozygotes.
+
+523
+00:33:42,370 --> 00:33:47,050
+Voici un autre schéma qui montre la transmission
+
+524
+00:33:47,050 --> 00:33:50,810
+d'un allèle muté.
+
+525
+00:33:51,210 --> 00:33:55,010
+Ici, l'allèle muté, elle est grand A,
+
+526
+00:33:55,350 --> 00:33:59,050
+alors que l'allèle normale est le petit
+
+527
+00:33:59,050 --> 00:33:59,350
+A.
+
+528
+00:33:59,770 --> 00:34:02,550
+Donc, vous voyez le monsieur en bleu, c
+
+529
+00:34:02,550 --> 00:34:05,010
+'est un sujet qui est atteint parce qu
+
+530
+00:34:05,010 --> 00:34:08,070
+'il a l'allèle grand A muté.
+
+531
+00:34:08,370 --> 00:34:11,330
+Et là, il a un allèle petit A.
+
+532
+00:34:11,750 --> 00:34:14,730
+Donc là, c'est un sujet hétérozygote.
+
+533
+00:34:15,190 --> 00:34:17,010
+Qu'est-ce qu'il va donner comme
+
+534
+00:34:17,010 --> 00:34:19,070
+type de gamètes du spermatozoïde?
+
+535
+00:34:19,389 --> 00:34:22,130
+Il va donner, dans 50 % des cas,
+
+536
+00:34:22,610 --> 00:34:25,670
+un spermatozoïde porteur de l'allèle muté grand
+
+537
+00:34:25,670 --> 00:34:28,469
+A et dans 50 % des cas, un
+
+538
+00:34:28,469 --> 00:34:31,510
+spermatozoïde porteur de l'allèle normale petit A.
+
+539
+00:34:31,510 --> 00:34:35,989
+Alors que sa femme, elle est saine, donc
+
+540
+00:34:35,989 --> 00:34:39,949
+elle est porteuse de deux allèles normaux, petit
+
+541
+00:34:39,949 --> 00:34:41,170
+A, petit A.
+
+542
+00:34:41,690 --> 00:34:44,210
+Donc, la dame, elle va donner, dans tous
+
+543
+00:34:44,210 --> 00:34:47,690
+les cas, des gamètes normaux, non porteurs de
+
+544
+00:34:47,690 --> 00:34:48,989
+l'allèle muté.
+
+545
+00:34:49,690 --> 00:34:56,730
+Après, il y aura, donc, fucondation, soit par
+
+546
+00:34:56,730 --> 00:35:00,930
+le spermatozoïde muté, soit par le spermatozoïde normal.
+
+547
+00:35:00,930 --> 00:35:02,670
+Et qu'est-ce qu'on aura comme
+
+548
+00:35:02,670 --> 00:35:05,130
+type de zygote, donc, chez la descendance?
+
+549
+00:35:05,810 --> 00:35:08,910
+Dans 50 % des cas, on aura des
+
+550
+00:35:08,910 --> 00:35:11,830
+enfants, que ce soit de sujet de sexe
+
+551
+00:35:11,830 --> 00:35:14,790
+masculin ou féminin, grand A, petit A.
+
+552
+00:35:15,110 --> 00:35:19,710
+Et dans les 50 % restants, on aura
+
+553
+00:35:19,710 --> 00:35:24,850
+des sujets homozygotes sains, petit A, petit A.
+
+554
+00:35:27,790 --> 00:35:32,730
+Quelles sont les caractéristiques de la transmission autosomique
+
+555
+00:35:32,730 --> 00:35:33,490
+dominante?
+
+556
+00:35:34,250 --> 00:35:38,630
+Premièrement, c'est une hérédité liée aux autosomes,
+
+557
+00:35:38,990 --> 00:35:43,450
+aux chromosomes non sexuels, du chromosome 1 au
+
+558
+00:35:43,450 --> 00:35:44,990
+chromosome 22.
+
+559
+00:35:45,570 --> 00:35:50,050
+Donc, les gènes impliqués sont localisés sur ces
+
+560
+00:35:50,050 --> 00:35:50,630
+autosomes.
+
+561
+00:35:52,070 --> 00:35:58,850
+Deuxièmement, un sujet atteint est souvent hétérozygote pour
+
+562
+00:35:58,850 --> 00:36:01,590
+le gène délétère ou pathologique.
+
+563
+00:36:02,110 --> 00:36:03,590
+Donc, grand A, petit A.
+
+564
+00:36:04,150 --> 00:36:11,070
+Quoique, exceptionnellement, on peut avoir des sujets homozygotes
+
+565
+00:36:11,070 --> 00:36:12,630
+malades.
+
+566
+00:36:13,890 --> 00:36:16,830
+Sauf exception, qu'on va voir tout à
+
+567
+00:36:16,830 --> 00:36:17,070
+l'heure.
+
+568
+00:36:17,070 --> 00:36:21,230
+Un sujet atteint, un parent atteint, que ce
+
+569
+00:36:21,230 --> 00:36:23,330
+soit la maman ou le papa.
+
+570
+00:36:24,130 --> 00:36:25,510
+Donc, c'est pour ça qu'on dit
+
+571
+00:36:25,510 --> 00:36:29,910
+que c'est une transmission verticale d'un
+
+572
+00:36:29,910 --> 00:36:31,270
+parent à son enfant.
+
+573
+00:36:33,010 --> 00:36:36,110
+Les hommes et les femmes ont une probabilité
+
+574
+00:36:36,110 --> 00:36:40,910
+égale d'être atteints et de transmettre la
+
+575
+00:36:40,910 --> 00:36:44,550
+maladie à leurs enfants puisque c'est un
+
+576
+00:36:44,550 --> 00:36:48,590
+mode de transmission autosomique non lié aux chromosomes
+
+577
+00:36:48,590 --> 00:36:49,750
+sexuels.
+
+578
+00:36:51,770 --> 00:36:56,050
+Cinquième caractéristique, dans la descendance d'un sujet
+
+579
+00:36:56,050 --> 00:36:59,510
+atteint, il y a un risque de 50%,
+
+580
+00:36:59,510 --> 00:37:04,010
+un demi, d'avoir un enfant atteint, ça
+
+581
+00:37:04,010 --> 00:37:06,270
+veut dire un enfant malade.
+
+582
+00:37:08,050 --> 00:37:12,230
+Sixième caractéristique qui est très importante, c'est
+
+583
+00:37:12,230 --> 00:37:17,830
+la constatation d'une transmission perfice, qui est
+
+584
+00:37:17,830 --> 00:37:22,210
+très évocatrice d'un mode autosomique dominant.
+
+585
+00:37:22,950 --> 00:37:25,430
+Donc, là je vous invite, chaque fois que
+
+586
+00:37:25,430 --> 00:37:29,350
+je vous donne un arbre généalogique au niveau
+
+587
+00:37:29,350 --> 00:37:33,450
+d'une épreuve, donc regardez toujours, si vous
+
+588
+00:37:33,450 --> 00:37:37,030
+avez une transmission verticale, regardez toujours s'il
+
+589
+00:37:37,030 --> 00:37:39,710
+n'y a pas de transmission perfice.
+
+590
+00:37:39,950 --> 00:37:42,370
+Sur le schéma, sur l'arbre généalogique ici,
+
+591
+00:37:43,170 --> 00:37:47,770
+vous avez premièrement transmission perfice, et aussi une
+
+592
+00:37:47,770 --> 00:37:49,650
+autre transmission perfice.
+
+593
+00:37:49,970 --> 00:37:52,710
+Là, vous allez être sûr que c'est
+
+594
+00:37:52,710 --> 00:37:56,570
+une transmission autosomique dominante.
+
+595
+00:38:01,030 --> 00:38:04,010
+Là, c'est une transmission verticale.
+
+596
+00:38:04,010 --> 00:38:06,650
+Les sujets de sexe masculin et de sexe
+
+597
+00:38:06,650 --> 00:38:08,990
+féminin, tous les deux sont atteints.
+
+598
+00:38:11,100 --> 00:38:14,460
+Et puis, là, pour être sûr, pour éliminer
+
+599
+00:38:14,460 --> 00:38:16,860
+d'autres modes de transmission, et pour être
+
+600
+00:38:16,860 --> 00:38:19,880
+sûr que c'est une transmission autosomique dominante,
+
+601
+00:38:20,600 --> 00:38:24,520
+là, vous devez chercher une transmission perfice.
+
+602
+00:38:24,980 --> 00:38:28,800
+Là, il y a le sujet 4, 7,
+
+603
+00:38:29,140 --> 00:38:31,840
+4 en chiffres romains, c'est la quatrième
+
+604
+00:38:31,840 --> 00:38:36,840
+génération, et 7, c'est le numéro de
+
+605
+00:38:36,840 --> 00:38:39,220
+l'individu au niveau de la quatrième génération.
+
+606
+00:38:39,720 --> 00:38:44,020
+Donc, le sujet 4, 7 a transmis la
+
+607
+00:38:44,020 --> 00:38:48,700
+maladie à son fils, qui est l'individu
+
+608
+00:38:48,700 --> 00:38:52,440
+6 au niveau de la cinquième génération.
+
+609
+00:38:52,740 --> 00:38:56,500
+Donc, c'est le sujet 5 en chiffres
+
+610
+00:38:56,500 --> 00:39:00,340
+romains et petit 6 en chiffres arabes.
+
+611
+00:39:00,340 --> 00:39:02,760
+Donc là, quand il y a cette transmission
+
+612
+00:39:02,760 --> 00:39:08,420
+perfice, avec les autres caractéristiques de la transmission
+
+613
+00:39:08,420 --> 00:39:12,000
+autosomique dominante, donc là, on est sûr que
+
+614
+00:39:12,000 --> 00:39:14,800
+c'est une transmission autosomique dominante.
+
+615
+00:39:18,550 --> 00:39:22,390
+Il est à noter que le mode de
+
+616
+00:39:22,390 --> 00:39:30,730
+transmission autosomique dominant est caractérisé par quatre particularités,
+
+617
+00:39:30,730 --> 00:39:39,090
+à savoir la pénétrance incomplète, la néomutation, l
+
+618
+00:39:39,090 --> 00:39:44,750
+'homosaïcisme gonadique et enfin l'expression variable.
+
+619
+00:39:49,400 --> 00:39:52,460
+Là, qu'est-ce que vous constatez sur
+
+620
+00:39:52,460 --> 00:39:54,080
+cet arbre généalogique ?
+
+621
+00:39:54,080 --> 00:39:57,600
+Vous vous rappelez les caractéristiques de la transmission
+
+622
+00:39:57,600 --> 00:39:59,280
+autosomique dominante ?
+
+623
+00:39:59,280 --> 00:40:03,100
+On l'a dit, sauf exception, dans un
+
+624
+00:40:03,100 --> 00:40:05,940
+enfant atteint, un parent atteint.
+
+625
+00:40:06,360 --> 00:40:08,780
+Mais là, qu'est-ce que vous constatez
+
+626
+00:40:08,780 --> 00:40:13,080
+au niveau de la troisième génération et au
+
+627
+00:40:13,080 --> 00:40:17,100
+niveau de l'individu 7 ?
+
+628
+00:40:17,100 --> 00:40:22,980
+Donc, c'est l'individu grand 3 et
+
+629
+00:40:22,980 --> 00:40:25,820
+7 en chiffres arabes.
+
+630
+00:40:26,520 --> 00:40:29,720
+Donc cet individu-là, il n'a pas
+
+631
+00:40:29,720 --> 00:40:34,120
+le phénotype pathologique, alors qu'il a un
+
+632
+00:40:34,120 --> 00:40:35,540
+enfant atteint.
+
+633
+00:40:36,200 --> 00:40:39,560
+Et cet individu-là a un papa qui
+
+634
+00:40:39,560 --> 00:40:40,860
+est atteint.
+
+635
+00:40:41,620 --> 00:40:44,380
+Il a deux soeurs atteintes et un frère
+
+636
+00:40:44,380 --> 00:40:45,160
+atteint.
+
+637
+00:40:45,820 --> 00:40:47,300
+Ça ne peut pas être un hasard que
+
+638
+00:40:47,300 --> 00:40:48,620
+son fils soit atteint.
+
+639
+00:40:49,620 --> 00:40:54,780
+Donc là, cet individu a transmis la pathologie
+
+640
+00:40:54,780 --> 00:40:57,580
+à son fils et pourtant il n'a
+
+641
+00:40:57,580 --> 00:41:00,020
+pas le phénotype.
+
+642
+00:41:00,840 --> 00:41:04,800
+Il n'a pas l'expression de la
+
+643
+00:41:04,800 --> 00:41:05,340
+maladie.
+
+644
+00:41:07,420 --> 00:41:09,040
+Donc c'est ce qu'on appelle une
+
+645
+00:41:09,040 --> 00:41:10,780
+pénétrance incomplète.
+
+646
+00:41:12,860 --> 00:41:17,060
+La première caractéristique de la transmission autosomique dominante
+
+647
+00:41:17,060 --> 00:41:20,040
+est la pénétrance incomplète.
+
+648
+00:41:20,040 --> 00:41:23,740
+D'abord, c'est quoi une pénétrance ?
+
+649
+00:41:23,740 --> 00:41:28,400
+La pénétrance est un concept statistique qui illustre
+
+650
+00:41:28,400 --> 00:41:32,280
+le pourcentage de porteurs de gènes mutés et
+
+651
+00:41:32,280 --> 00:41:34,180
+qui exprime la maladie.
+
+652
+00:41:35,500 --> 00:41:38,160
+Donc la pénétrance est définie par le rapport
+
+653
+00:41:38,160 --> 00:41:38,780
+suivant.
+
+654
+00:41:39,420 --> 00:41:44,100
+Le nombre des hétérosigones malades qui ont le
+
+655
+00:41:44,100 --> 00:41:47,980
+phénotype de la maladie sur l'ordre du
+
+656
+00:41:47,980 --> 00:41:52,260
+nombre total des hétérosigones fois 100.
+
+657
+00:41:53,060 --> 00:41:56,900
+Si on prend 100 individus, on fait l
+
+658
+00:41:56,900 --> 00:41:57,980
+'étude génétique.
+
+659
+00:41:58,460 --> 00:42:02,360
+Les 100 individus sont tous hétérosigones.
+
+660
+00:42:03,460 --> 00:42:06,320
+Et quand on fait l'examen clinique, les
+
+661
+00:42:06,320 --> 00:42:10,800
+100 personnes, les 100 individus hétérosigones ont la
+
+662
+00:42:10,800 --> 00:42:12,880
+maladie, le phénotype clinique.
+
+663
+00:42:12,880 --> 00:42:16,980
+On dit que la pénétrance est complète parce
+
+664
+00:42:16,980 --> 00:42:20,520
+que 100% des individus hétérosigones ont le
+
+665
+00:42:20,520 --> 00:42:21,980
+phénotype de la maladie.
+
+666
+00:42:22,720 --> 00:42:24,560
+Prenons un deuxième exemple.
+
+667
+00:42:25,140 --> 00:42:29,080
+Si parmi ces 100 hétérosigones, il y a
+
+668
+00:42:29,080 --> 00:42:31,660
+juste 80 qui ont le phénotype de la
+
+669
+00:42:31,660 --> 00:42:37,440
+maladie et 20 qui sont normaux phénotypiquement, même
+
+670
+00:42:37,440 --> 00:42:39,400
+s'ils sont hétérosigones.
+
+671
+00:42:39,400 --> 00:42:44,360
+Alors on dit que la pénétrance est incomplète
+
+672
+00:42:44,360 --> 00:42:47,940
+de l'ordre de 80%.
+
+673
+00:42:48,960 --> 00:42:53,400
+Si par exemple, parmi les 100 individus hétérosigones,
+
+674
+00:42:54,380 --> 00:42:57,160
+50 ont le phénotype de la maladie et
+
+675
+00:42:57,160 --> 00:43:01,400
+50 sont phénotypiquement normaux, on dit que la
+
+676
+00:43:01,400 --> 00:43:03,860
+pénétrance est de l'ordre de 50%
+
+677
+00:43:04,140 --> 00:43:06,440
+et elle est incomplète.
+
+678
+00:43:06,440 --> 00:43:11,280
+En cas de pénétrance incomplète, un sujet apparemment
+
+679
+00:43:11,280 --> 00:43:15,320
+sain peut être hétérosigone pour l'allèle muté
+
+680
+00:43:15,320 --> 00:43:19,940
+et transmettre la maladie à sa descendance donnant
+
+681
+00:43:19,940 --> 00:43:22,680
+lieu sur l'arbre généalogique à un sou
+
+682
+00:43:22,680 --> 00:43:24,180
+de génération.
+
+683
+00:43:25,300 --> 00:43:28,520
+La pénétrance d'une maladie peut dépendre de
+
+684
+00:43:28,520 --> 00:43:29,880
+plusieurs facteurs.
+
+685
+00:43:30,580 --> 00:43:33,960
+Des gènes modificateurs qui n'ont rien à
+
+686
+00:43:33,960 --> 00:43:36,720
+voir avec le gène impliqué dans la maladie.
+
+687
+00:43:37,040 --> 00:43:39,620
+Ce sont des variations de séquences sur d
+
+688
+00:43:39,620 --> 00:43:40,740
+'autres gènes.
+
+689
+00:43:41,540 --> 00:43:41,980
+D'accord?
+
+690
+00:43:42,700 --> 00:43:45,400
+Ça peut être en rapport avec l'âge
+
+691
+00:43:45,400 --> 00:43:46,400
+du sujet atteint.
+
+692
+00:43:46,820 --> 00:43:48,760
+Je vous ai dit que toutes les pathologies
+
+693
+00:43:48,760 --> 00:43:50,860
+génétiques ne sont pas congénitales.
+
+694
+00:43:51,140 --> 00:43:53,240
+Il y a certaines pathologies qui ne s
+
+695
+00:43:53,240 --> 00:43:55,360
+'expriment qu'à l'âge adulte.
+
+696
+00:43:55,720 --> 00:43:57,420
+Par exemple, le cas de la maladie du
+
+697
+00:43:57,420 --> 00:43:57,780
+Hinton.
+
+698
+00:43:57,780 --> 00:44:04,880
+Si vous examinez un enfant qui est hétérosigone
+
+699
+00:44:04,880 --> 00:44:08,440
+pour cette maladie, il ne va pas avoir
+
+700
+00:44:08,440 --> 00:44:11,400
+le phénotype de la maladie du Hinton parce
+
+701
+00:44:11,400 --> 00:44:13,220
+qu'elle ne s'exprime qu'à l
+
+702
+00:44:13,220 --> 00:44:14,100
+'âge adulte.
+
+703
+00:44:14,520 --> 00:44:18,120
+Et aussi du sexe du sujet atteint.
+
+704
+00:44:18,360 --> 00:44:22,560
+Par exemple, pour la prédisposition génétique au cancer
+
+705
+00:44:22,560 --> 00:44:23,340
+du sein.
+
+706
+00:44:23,660 --> 00:44:26,560
+Il y a des prédispositions génétiques quand il
+
+707
+00:44:26,560 --> 00:44:29,060
+y a des cancers du sein qui apparaissent
+
+708
+00:44:29,060 --> 00:44:29,580
+chez l'homme.
+
+709
+00:44:30,100 --> 00:44:33,020
+Mais chez la femme, le risque est plus
+
+710
+00:44:33,020 --> 00:44:33,400
+élevé.
+
+711
+00:44:33,860 --> 00:44:36,800
+Et aussi des méthodes d'exploration.
+
+712
+00:44:37,220 --> 00:44:41,760
+Par exemple, pour certains déficits enzymatiques, certaines mutations
+
+713
+00:44:41,760 --> 00:44:45,340
+sont à l'origine d'un déficit enzymatique.
+
+714
+00:44:45,720 --> 00:44:47,820
+Si on n'utilise pas la bonne méthode
+
+715
+00:44:47,820 --> 00:44:50,160
+d'exploration, on ne va pas se rendre
+
+716
+00:44:50,160 --> 00:44:53,420
+compte de ce déficit enzymatique.
+
+717
+00:44:57,870 --> 00:45:06,870
+Concernant la néomutation, appelée également mutation récente ou
+
+718
+00:45:06,870 --> 00:45:11,040
+de nouveau, comme vous le voyez sur cet
+
+719
+00:45:11,040 --> 00:45:17,000
+arbre généalogique, il y a le seul cas
+
+720
+00:45:17,000 --> 00:45:20,340
+dans cet arbre généalogique, c'est le sujet
+
+721
+00:45:20,340 --> 00:45:27,020
+grand 4 en chiffre romain et 6 en
+
+722
+00:45:27,020 --> 00:45:28,140
+chiffre arabe.
+
+723
+00:45:28,140 --> 00:45:29,720
+Là où il y a la flèche en
+
+724
+00:45:29,720 --> 00:45:33,880
+rose qui est atteinte, alors que ses parents
+
+725
+00:45:33,880 --> 00:45:36,160
+ne sont pas atteints.
+
+726
+00:45:36,900 --> 00:45:41,940
+Ça peut être expliqué par la néomutation, mutation
+
+727
+00:45:41,940 --> 00:45:44,860
+de nouveau ou mutation récente.
+
+728
+00:45:46,060 --> 00:45:50,780
+Il arrive que chez un sujet, que chez
+
+729
+00:45:50,780 --> 00:45:54,500
+un couple, il y a naissance d'un
+
+730
+00:45:54,500 --> 00:46:01,520
+enfant malade, porteur de la mutation, alors que
+
+731
+00:46:01,520 --> 00:46:04,300
+les parents sont indemnes.
+
+732
+00:46:05,260 --> 00:46:08,940
+Ce phénomène est expliqué par l'apparition de
+
+733
+00:46:08,940 --> 00:46:11,640
+la laine mutée dans l'un des deux
+
+734
+00:46:11,640 --> 00:46:13,880
+gamètes parentaux.
+
+735
+00:46:14,380 --> 00:46:16,880
+Comme je viens de le dire, il s
+
+736
+00:46:16,880 --> 00:46:19,900
+'agit d'une mutation de nouveau, appelée également
+
+737
+00:46:19,900 --> 00:46:23,140
+néomutation ou mutation récente.
+
+738
+00:46:26,990 --> 00:46:30,450
+Le risque de récurrence dans la fratrie de
+
+739
+00:46:30,450 --> 00:46:34,710
+cette néomutation est très faible et il est
+
+740
+00:46:34,710 --> 00:46:39,890
+identique à celui de la population générale.
+
+741
+00:46:40,350 --> 00:46:45,830
+En revanche, dans la descendance du sujet porteur
+
+742
+00:46:45,830 --> 00:46:50,750
+de cette nouvelle mutation, on retrouve les caractéristiques
+
+743
+00:46:50,750 --> 00:46:55,190
+de transmission de l'hérédité autosomique dominante.
+
+744
+00:46:55,630 --> 00:46:59,970
+Donc, le patient qui présente une néomutation, il
+
+745
+00:46:59,970 --> 00:47:02,470
+a un risque de 50 % de la
+
+746
+00:47:02,470 --> 00:47:04,870
+transmettre à sa descendance.
+
+747
+00:47:08,740 --> 00:47:11,460
+Le risque de survenue d'une néomutation est
+
+748
+00:47:11,460 --> 00:47:15,560
+plus élevé chez l'homme âgé de plus
+
+749
+00:47:15,560 --> 00:47:17,860
+de 40 ans que chez la femme.
+
+750
+00:47:17,860 --> 00:47:21,460
+Et ceci est expliqué par des erreurs de
+
+751
+00:47:21,460 --> 00:47:24,960
+la réplication au cours de la spermatogénèse.
+
+752
+00:47:27,620 --> 00:47:32,220
+Pour certaines pathologies, le risque de survenue de
+
+753
+00:47:32,220 --> 00:47:34,420
+néomutation est élevé.
+
+754
+00:47:35,040 --> 00:47:38,220
+C'est le cas de la chondroplasie, cet
+
+755
+00:47:38,220 --> 00:47:43,680
+ananysme disharmonieux, où le risque de survenue de
+
+756
+00:47:43,680 --> 00:47:48,320
+néomutation peut atteindre 80 %.
+
+757
+00:47:48,320 --> 00:47:52,280
+Alors qu'il peut atteindre 50 % dans
+
+758
+00:47:52,280 --> 00:47:54,020
+le syndrome de Marfan.
+
+759
+00:47:58,300 --> 00:48:01,000
+Là, c'est un schéma qui montre la
+
+760
+00:48:01,000 --> 00:48:05,720
+différence entre une mutation héritée par l'un
+
+761
+00:48:05,720 --> 00:48:09,880
+des deux parents et une mutation récente, de
+
+762
+00:48:09,880 --> 00:48:12,640
+nouveau, ou une néomutation.
+
+763
+00:48:13,340 --> 00:48:16,520
+Pour la mutation héritée, c'est l'un
+
+764
+00:48:16,520 --> 00:48:17,900
+des parents qui est porteur.
+
+765
+00:48:17,900 --> 00:48:20,740
+Dans le schéma, sur le schéma à gauche,
+
+766
+00:48:21,200 --> 00:48:23,580
+là, c'est le papa qui a un
+
+767
+00:48:23,580 --> 00:48:24,780
+allèle muté.
+
+768
+00:48:25,440 --> 00:48:29,820
+Donc, là, après la méose, il va donner
+
+769
+00:48:29,820 --> 00:48:32,960
+deux types de spermatozoïdes, l'un qui est
+
+770
+00:48:32,960 --> 00:48:36,380
+sain et l'autre qui est muté.
+
+771
+00:48:37,640 --> 00:48:41,260
+Donc, si c'est le spermatozoïde muté qui
+
+772
+00:48:41,260 --> 00:48:48,420
+féconde l'ovule, la mutation sera transmise à
+
+773
+00:48:48,420 --> 00:48:50,040
+la descendance.
+
+774
+00:48:50,920 --> 00:48:56,480
+Alors que pour la mutation récente, ni la
+
+775
+00:48:56,480 --> 00:49:00,160
+mère ni le père n'avaient de mutation
+
+776
+00:49:00,160 --> 00:49:01,980
+constitutionnelle.
+
+777
+00:49:02,740 --> 00:49:06,440
+Mais ici, chez le papa, à un moment
+
+778
+00:49:06,440 --> 00:49:09,760
+donné, dans un spermatozoïde donné, il y a
+
+779
+00:49:09,760 --> 00:49:13,340
+eu l'apparition d'une nouvelle mutation, qu
+
+780
+00:49:13,340 --> 00:49:15,620
+'on appelle également mutation récente ou de nouveau.
+
+781
+00:49:16,560 --> 00:49:20,520
+Et si par hasard, ce spermatozoïde, qui est
+
+782
+00:49:20,520 --> 00:49:23,860
+le siège de la néomutation, qui arrive à
+
+783
+00:49:23,860 --> 00:49:26,920
+féconder un ovule, donc c'est comme ça
+
+784
+00:49:26,920 --> 00:49:31,860
+qu'on va avoir un enfant porteur de
+
+785
+00:49:31,860 --> 00:49:36,340
+cette mutation récente ou néomutation.
+
+786
+00:49:39,890 --> 00:49:46,870
+Troisième particularité de la transmission autosomique dominante est
+
+787
+00:49:46,870 --> 00:49:53,850
+le mosaïcisme gonadique, appelé également mosaïcisme germinal.
+
+788
+00:49:55,450 --> 00:50:00,570
+Ce mosaïcisme gonadique ou germinal est défini par
+
+789
+00:50:00,570 --> 00:50:04,030
+la présence dans une gonade, donc ce soit
+
+790
+00:50:04,030 --> 00:50:10,670
+un ovaire ou un testucule, d'une double
+
+791
+00:50:10,670 --> 00:50:13,630
+population de cellules germinales.
+
+792
+00:50:14,510 --> 00:50:18,050
+Certaines étant porteuses d'un exemplaire de la
+
+793
+00:50:18,050 --> 00:50:23,390
+laine mutée, d'autres de deux exemplaires de
+
+794
+00:50:23,390 --> 00:50:25,210
+la laine normale du même gène.
+
+795
+00:50:26,370 --> 00:50:30,390
+Le parent porteur de cette mutation germinale au
+
+796
+00:50:30,390 --> 00:50:34,710
+mosaïque peut transmettre la laine mutée à sa
+
+797
+00:50:34,710 --> 00:50:35,590
+descendance.
+
+798
+00:50:37,270 --> 00:50:40,410
+Si cette mutation est absente des cellules somatiques,
+
+799
+00:50:40,810 --> 00:50:43,750
+la maladie ne s'exprimera pas chez ce
+
+800
+00:50:43,750 --> 00:50:45,150
+parent porteur.
+
+801
+00:50:45,770 --> 00:50:47,670
+C'est le cas du schéma suivant.
+
+802
+00:50:48,070 --> 00:50:50,350
+Vous voyez, c'est le papa qui a
+
+803
+00:50:50,350 --> 00:50:53,310
+des cellules somatiques normales, donc il n'est
+
+804
+00:50:53,310 --> 00:50:57,230
+pas atteint, alors qu'il y a que
+
+805
+00:50:57,230 --> 00:51:01,330
+ce monsieur présente un mosaïcisme germinal.
+
+806
+00:51:02,210 --> 00:51:05,190
+Donc, il aura des spermatozoïdes porteurs de la
+
+807
+00:51:05,190 --> 00:51:09,070
+mutation et d'autres spermatozoïdes qui sont indemnes
+
+808
+00:51:09,070 --> 00:51:09,850
+de la mutation.
+
+809
+00:51:10,750 --> 00:51:13,530
+Si ce sont les spermatozoïdes porteurs de la
+
+810
+00:51:13,530 --> 00:51:18,230
+mutation qui fécondent les ovules, ça va donner
+
+811
+00:51:18,230 --> 00:51:22,630
+des enfants atteints pour une pathologie autosomique dominante.
+
+812
+00:51:22,630 --> 00:51:25,570
+Si ce sont des spermatozoïdes non mutés, donc
+
+813
+00:51:25,570 --> 00:51:28,570
+la descendance issue de la fécondation par ce
+
+814
+00:51:28,570 --> 00:51:31,310
+spermatozoïde sera normale.
+
+815
+00:51:35,450 --> 00:51:39,650
+Le mosaïcisme germinal a été observé dans de
+
+816
+00:51:39,650 --> 00:51:45,090
+nombreuses affections dominantes telles que la neurofibromatose de
+
+817
+00:51:45,090 --> 00:51:47,090
+type 1 de Recklinghausen.
+
+818
+00:51:48,530 --> 00:51:54,530
+La quatrième particularité de la transmission autosomique dominante
+
+819
+00:51:54,530 --> 00:51:57,410
+est l'expression variable.
+
+820
+00:51:59,550 --> 00:52:04,850
+Un allèle pathogène peut s'exprimer par des
+
+821
+00:52:04,850 --> 00:52:09,810
+signes cliniques différents d'un individu à l
+
+822
+00:52:09,810 --> 00:52:12,210
+'autre au sein de la même famille, c
+
+823
+00:52:12,210 --> 00:52:16,610
+'est ce qu'on appelle une variabilité intrafamiliale,
+
+824
+00:52:17,230 --> 00:52:20,550
+ou bien d'un individu à un autre
+
+825
+00:52:20,550 --> 00:52:23,090
+dans des familles différentes, c'est ce qu
+
+826
+00:52:23,090 --> 00:52:27,870
+'on appelle une variabilité interfamiliale.
+
+827
+00:52:29,570 --> 00:52:33,890
+Cette expression variable dépend de facteurs propres à
+
+828
+00:52:33,890 --> 00:52:37,730
+l'individu, propres à son génome, ce sont
+
+829
+00:52:37,730 --> 00:52:39,950
+les gènes modificateurs.
+
+830
+00:52:40,470 --> 00:52:42,930
+Donc ce ne sont pas les gènes impliqués,
+
+831
+00:52:43,090 --> 00:52:44,770
+ce ne sont pas les gènes impliqués dans
+
+832
+00:52:44,770 --> 00:52:49,530
+la maladie, mais des variations de séquences au
+
+833
+00:52:49,530 --> 00:52:53,850
+niveau d'autres gènes, outre que le gène
+
+834
+00:52:53,850 --> 00:52:55,350
+impliqué dans la maladie.
+
+835
+00:52:56,670 --> 00:52:58,870
+Et la présence de ces variations de séquences,
+
+836
+00:52:59,070 --> 00:53:02,170
+changement d'une base par une autre, déletion,
+
+837
+00:53:02,470 --> 00:53:06,130
+insertion, des variations de séquences qui ne sont
+
+838
+00:53:06,130 --> 00:53:10,690
+pas forcément des variations pathogènes, ça peut être
+
+839
+00:53:10,690 --> 00:53:12,150
+des polymorphismes.
+
+840
+00:53:12,150 --> 00:53:17,530
+Elles peuvent soit aggraver le tableau clinique, soit
+
+841
+00:53:17,530 --> 00:53:20,090
+atténuer la gravité du tableau clinique.
+
+842
+00:53:21,570 --> 00:53:27,050
+Et là, cette expression variable aussi, peut dépendre
+
+843
+00:53:27,050 --> 00:53:31,370
+des facteurs environnementaux qui peuvent soit aggraver le
+
+844
+00:53:31,370 --> 00:53:34,270
+tableau clinique, soit atténuer sa gravité.
+
+845
+00:53:36,300 --> 00:53:40,520
+Une maladie à pénétrance incomplète, bien sûr, a
+
+846
+00:53:40,520 --> 00:53:43,720
+forcément une expression variable, puisqu'il y a
+
+847
+00:53:43,720 --> 00:53:46,940
+des personnes qui expriment la maladie, et ceux
+
+848
+00:53:46,940 --> 00:53:49,820
+qui n'ont pas une pénétrance complète, ne
+
+849
+00:53:49,820 --> 00:53:51,980
+vont pas exprimer le tableau.
+
+850
+00:53:52,080 --> 00:53:53,280
+Ils n'ont pas le phénotype, ils ont
+
+851
+00:53:53,280 --> 00:53:54,420
+le génotype, mais ils n'ont pas le
+
+852
+00:53:54,420 --> 00:53:54,940
+phénotype.
+
+853
+00:53:55,280 --> 00:53:58,660
+Donc, une maladie à pénétrance incomplète a forcément
+
+854
+00:53:58,660 --> 00:54:01,800
+une expression variable.
+
+855
+00:54:02,140 --> 00:54:06,760
+En revanche, une maladie peut avoir une expression
+
+856
+00:54:06,760 --> 00:54:10,160
+variable, une pénétrance complète.
+
+857
+00:54:13,440 --> 00:54:16,160
+Il y a aussi le phénomène d'anticipation,
+
+858
+00:54:16,740 --> 00:54:20,580
+qui est une particularité de l'expression variable
+
+859
+00:54:20,580 --> 00:54:23,820
+dans la transmission autosomique dominante.
+
+860
+00:54:24,980 --> 00:54:27,660
+C'est quoi un phénomène d'anticipation?
+
+861
+00:54:29,140 --> 00:54:33,780
+Au cours des générations successives, on constate que
+
+862
+00:54:33,780 --> 00:54:37,120
+l'âge d'apparition de la maladie est
+
+863
+00:54:37,120 --> 00:54:38,680
+de plus en plus précoce.
+
+864
+00:54:38,680 --> 00:54:44,020
+Et en plus, il s'accentue, il s
+
+865
+00:54:44,020 --> 00:54:47,940
+'accompagne de l'accentuation de la gravité de
+
+866
+00:54:47,940 --> 00:54:48,560
+la maladie.
+
+867
+00:54:49,060 --> 00:54:52,020
+C'est le cas des maladies par expansion
+
+868
+00:54:52,020 --> 00:54:55,240
+de triplé, comme le syndrome d'X fragile,
+
+869
+00:54:56,140 --> 00:54:57,980
+qu'on va voir dans cet élément de
+
+870
+00:54:57,980 --> 00:55:01,720
+module, et la maladie d'Huntington.
+
+871
+00:55:02,300 --> 00:55:04,280
+C'est quoi une expansion de triplé?
+
+872
+00:55:04,280 --> 00:55:07,120
+Les triplés, c'est la succession de trois
+
+873
+00:55:07,120 --> 00:55:08,100
+myconotites.
+
+874
+00:55:08,960 --> 00:55:12,280
+Il faut savoir que dans l'espèce humaine,
+
+875
+00:55:13,400 --> 00:55:15,820
+on a dans certains gènes des triplés qui
+
+876
+00:55:15,820 --> 00:55:16,960
+se répètent une fois.
+
+877
+00:55:18,280 --> 00:55:25,650
+Par exemple, quand la personne est saine, elle
+
+878
+00:55:25,650 --> 00:55:29,770
+a un nombre exact de ces triplés.
+
+879
+00:55:29,870 --> 00:55:32,130
+Nombre de répétition, par exemple, je vais dire
+
+880
+00:55:32,130 --> 00:55:33,690
+comme ça au hasard, 30.
+
+881
+00:55:33,690 --> 00:55:38,070
+Mais si ce nombre de répétitions augmente jusqu
+
+882
+00:55:38,070 --> 00:55:41,290
+'à 50, on aura un tableau léger de
+
+883
+00:55:41,290 --> 00:55:41,950
+la maladie.
+
+884
+00:55:42,470 --> 00:55:45,010
+Par exemple, la pathologie qui va apparaître à
+
+885
+00:55:45,010 --> 00:55:46,610
+l'âge de 40 ans.
+
+886
+00:55:47,730 --> 00:55:50,250
+Si le nombre de répétitions, par exemple, passe
+
+887
+00:55:50,250 --> 00:55:55,710
+à 100, on aura un tableau modéré avec
+
+888
+00:55:55,710 --> 00:55:58,610
+l'apparition de la maladie vers l'âge
+
+889
+00:55:58,610 --> 00:55:59,190
+de 20 ans.
+
+890
+00:56:00,130 --> 00:56:02,890
+Si le nombre de répétitions, par exemple, atteint
+
+891
+00:56:02,890 --> 00:56:09,650
+1000, on aura une pathologie congénitale avec un
+
+892
+00:56:09,650 --> 00:56:10,930
+tableau sévère.
+
+893
+00:56:11,030 --> 00:56:12,890
+C'est ça le phénomène d'anticipation.
+
+894
+00:56:15,360 --> 00:56:18,680
+Il est à noter que l'expression des
+
+895
+00:56:18,680 --> 00:56:23,160
+mutations, donc la conséquence de ce génotype muté,
+
+896
+00:56:23,900 --> 00:56:27,440
+peut être limitée à un seul organe ou
+
+897
+00:56:27,440 --> 00:56:30,440
+bien toucher plusieurs organes.
+
+898
+00:56:30,980 --> 00:56:33,920
+C'est ce qu'on appelle la pléotropie.
+
+899
+00:56:34,920 --> 00:56:39,280
+Et c'est le cas de la neurofibromatose
+
+900
+00:56:39,280 --> 00:56:40,940
+de type 1.
+
+901
+00:56:41,840 --> 00:56:45,620
+On peut avoir une atteinte cutanée à type
+
+902
+00:56:45,620 --> 00:56:50,200
+de tâches caféaulées, une atteinte ophtalmologique à type
+
+903
+00:56:50,200 --> 00:56:54,860
+de nodules antérieurs, une atteinte neurologique à type
+
+904
+00:56:54,860 --> 00:56:57,520
+de neurofibromes.
+
+905
+00:57:00,040 --> 00:57:04,680
+Voici des exemples de pathologies autosomiques dominantes.
+
+906
+00:57:06,320 --> 00:57:08,900
+On a la chondroplasie, dont je vous ai
+
+907
+00:57:08,900 --> 00:57:12,000
+parlé tout à l'heure, et qui est
+
+908
+00:57:12,000 --> 00:57:14,340
+à l'origine d'ananasie désarmonieuse.
+
+909
+00:57:16,730 --> 00:57:19,770
+Le rétinoblastome, dont je vous ai parlé en
+
+910
+00:57:19,770 --> 00:57:25,570
+première année, et qui est une prédisposition génétique
+
+911
+00:57:25,570 --> 00:57:28,550
+au rétinoblastome.
+
+912
+00:57:29,730 --> 00:57:35,490
+La neurofibromatose type 1 de Van Recklinghausen.
+
+913
+00:57:36,410 --> 00:57:40,730
+L'hypercholestérolémie familiale.
+
+914
+00:57:41,470 --> 00:57:44,090
+Et enfin, la maladie du Hintonpton.
+
+915
+00:57:44,750 --> 00:57:47,330
+Je vous demande de retenir ces exemples pour
+
+916
+00:57:47,330 --> 00:57:48,550
+l'examen.

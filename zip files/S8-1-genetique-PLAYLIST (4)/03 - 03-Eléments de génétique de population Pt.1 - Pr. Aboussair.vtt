@@ -1,0 +1,2289 @@
+WEBVTT
+
+1
+00:00:01.220 --> 00:00:01.700
+Bonjour.
+
+2
+00:00:03.200 --> 00:00:06.740
+Le cours d'aujourd'hui est intitulé «
+
+3
+00:00:06.740 --> 00:00:10.920
+Éléments de génétique de population et leurs intérêts
+
+4
+00:00:10.920 --> 00:00:13.880
+dans les pathologies monogéniques ».
+
+5
+00:00:16.350 --> 00:00:18.990
+Les objectifs de ce cours sont les suivants.
+
+6
+00:00:20.090 --> 00:00:23.090
+Donner la définition de la génétique des populations.
+
+7
+00:00:24.210 --> 00:00:28.510
+Être capable d'estimer la fréquence génique et
+
+8
+00:00:28.510 --> 00:00:29.310
+génotypique.
+
+9
+00:00:30.310 --> 00:00:33.510
+Donner la définition et les conditions nécessaires de
+
+10
+00:00:33.510 --> 00:00:34.990
+la loi de Hardy-Winberg.
+
+11
+00:00:35.730 --> 00:00:40.270
+Connaître les applications médicales de la loi de
+
+12
+00:00:40.270 --> 00:00:41.590
+Hardy et Weinberg.
+
+13
+00:00:42.730 --> 00:00:47.110
+Donner la définition de la consanguinité, du coefficient
+
+14
+00:00:47.110 --> 00:00:50.630
+de consanguinité et du coefficient de parenté.
+
+15
+00:00:51.910 --> 00:00:56.210
+Être capable de calculer le coefficient de consanguinité
+
+16
+00:00:56.210 --> 00:00:57.190
+et de parenté.
+
+17
+00:00:57.190 --> 00:01:02.190
+Et enfin, citer les effets de la consanguinité.
+
+18
+00:01:06.020 --> 00:01:07.820
+Le plan du cours est le suivant.
+
+19
+00:01:08.560 --> 00:01:13.600
+Après une introduction, on va aborder le chapitre
+
+20
+00:01:13.600 --> 00:01:19.200
+sur l'estimation des fréquences géniques et génotypiques.
+
+21
+00:01:19.890 --> 00:01:24.180
+Par la suite, on abordera la loi de
+
+22
+00:01:24.180 --> 00:01:29.360
+Hardy-Weinberg, y compris la définition, les conditions
+
+23
+00:01:29.360 --> 00:01:33.900
+nécessaires, la démonstration à partir des fréquences alléliques
+
+24
+00:01:33.900 --> 00:01:37.600
+et les applications de cette loi aux maladies
+
+25
+00:01:37.600 --> 00:01:39.000
+autosomiques récessives.
+
+26
+00:01:39.880 --> 00:01:43.320
+Par la suite, on abordera le chapitre sur
+
+27
+00:01:43.320 --> 00:01:48.080
+la consanguinité, y compris la définition, le coefficient
+
+28
+00:01:48.080 --> 00:01:52.660
+de consanguinité, le coefficient de parenté, les effets
+
+29
+00:01:52.660 --> 00:01:57.360
+de la consanguinité, la consanguinité et le conseil
+
+30
+00:01:57.360 --> 00:01:57.960
+génétique.
+
+31
+00:01:58.540 --> 00:02:01.280
+Et enfin, on va terminer ce cours par
+
+32
+00:02:01.280 --> 00:02:02.020
+une conclusion.
+
+33
+00:02:08.560 --> 00:02:12.820
+Lors du cours précédent, à savoir les modes
+
+34
+00:02:12.820 --> 00:02:18.060
+de transmission, on a vu comment les caractères
+
+35
+00:02:18.060 --> 00:02:21.720
+se transmettent d'une génération à l'autre.
+
+36
+00:02:21.720 --> 00:02:25.360
+Je parle des caractères héréditaires monogéniques.
+
+37
+00:02:26.340 --> 00:02:29.880
+Donc, cette étude de la transmission des caractères
+
+38
+00:02:29.880 --> 00:02:32.600
+héréditaires d'une génération à l'autre, c
+
+39
+00:02:32.600 --> 00:02:35.800
+'est ce qu'on appelle la génétique formelle.
+
+40
+00:02:36.480 --> 00:02:41.340
+Alors que la génétique des populations, c'est
+
+41
+00:02:41.340 --> 00:02:46.560
+la discipline qui étudie comment les gènes se
+
+42
+00:02:46.560 --> 00:02:50.500
+répartissent dans les populations et comment ils se
+
+43
+00:02:50.500 --> 00:02:55.660
+transmettent d'une génération à l'autre au
+
+44
+00:02:55.660 --> 00:02:58.340
+sein d'une population concernée.
+
+45
+00:03:02.100 --> 00:03:05.260
+Donc, c'est la finalité de la génétique
+
+46
+00:03:05.260 --> 00:03:11.080
+des populations dans le domaine médical.
+
+47
+00:03:12.900 --> 00:03:17.240
+Elle a un grand intérêt pour la consultation
+
+48
+00:03:17.240 --> 00:03:21.340
+du conseil génétique puisqu'elle permet de calculer
+
+49
+00:03:21.340 --> 00:03:25.600
+les risques de certains mariages pour la descendance.
+
+50
+00:03:26.440 --> 00:03:31.200
+De même, cette génétique des populations permet de
+
+51
+00:03:31.200 --> 00:03:35.920
+définir et d'évaluer une politique de prévention
+
+52
+00:03:35.920 --> 00:03:38.380
+à l'échelle d'une population.
+
+53
+00:03:39.120 --> 00:03:41.720
+À titre d'exemple, le dépistage à la
+
+54
+00:03:41.720 --> 00:03:45.320
+naissance des hétérozygotes ou le dépistage des couples
+
+55
+00:03:45.320 --> 00:03:46.640
+hétérozygotes.
+
+56
+00:03:49.940 --> 00:03:59.430
+Fréquences du génotype, toujours dans les fréquences géniques.
+
+57
+00:04:00.070 --> 00:04:03.990
+La fréquence génique petit p du gène grand
+
+58
+00:04:03.990 --> 00:04:07.610
+A est égale à la fréquence des homozygotes
+
+59
+00:04:07.610 --> 00:04:11.990
+grand A grand A plus la moitié de
+
+60
+00:04:11.990 --> 00:04:15.870
+la fréquence des hétérozygotes grand A petit A.
+
+61
+00:04:16.870 --> 00:04:21.110
+Alors que petit Q c'est la fréquence
+
+62
+00:04:21.110 --> 00:04:24.490
+génique du petit du gène petit A qui
+
+63
+00:04:24.490 --> 00:04:28.290
+est égale à la fréquence des homozygotes petit
+
+64
+00:04:28.290 --> 00:04:30.870
+A petit A qu'on appelle grand Q
+
+65
+00:04:30.870 --> 00:04:38.810
+plus la moitié de la fréquence des hétérozygotes
+
+66
+00:04:38.810 --> 00:04:40.930
+qu'on appelle grand H.
+
+67
+00:04:43.870 --> 00:04:47.490
+Puisque dans la population, prenons une population de
+
+68
+00:04:47.490 --> 00:04:51.790
+100%, donc une population de 100%, on a
+
+69
+00:04:51.790 --> 00:04:56.730
+les homozygotes grand A grand A, les homozygotes
+
+70
+00:04:56.730 --> 00:04:59.830
+petit A petit A et les hétérozygotes grand
+
+71
+00:04:59.830 --> 00:05:00.990
+A petit A.
+
+72
+00:05:01.230 --> 00:05:04.510
+Puisque dans cette population est 100%, donc la
+
+73
+00:05:04.510 --> 00:05:07.810
+fréquence des homozygotes grand A grand A qui
+
+74
+00:05:07.810 --> 00:05:11.490
+est grand P plus la fréquence des homozygotes
+
+75
+00:05:11.490 --> 00:05:13.550
+petit A petit A qui est égale à
+
+76
+00:05:13.550 --> 00:05:16.590
+grand Q plus la fréquence des hétérozygotes grand
+
+77
+00:05:16.590 --> 00:05:18.670
+A petit A qui est égale à H,
+
+78
+00:05:19.210 --> 00:05:21.770
+donc la somme est égale à 100%.
+
+79
+00:05:21.770 --> 00:05:23.790
+Donc 100% c'est égal à 1.
+
+80
+00:05:24.270 --> 00:05:27.230
+Donc il faut retenir que la fréquence des
+
+81
+00:05:27.230 --> 00:05:30.790
+homozygotes grand P plus la fréquence des homozygotes
+
+82
+00:05:30.790 --> 00:05:34.510
+grand Q plus la fréquence des hétérozygotes est
+
+83
+00:05:34.510 --> 00:05:35.870
+égale à 1.
+
+84
+00:05:37.310 --> 00:05:39.930
+Prenons maintenant des exemples.
+
+85
+00:05:40.790 --> 00:05:44.270
+Soit une population de 100 individus.
+
+86
+00:05:45.090 --> 00:05:48.130
+Quand on dit 100 individus, on est des
+
+87
+00:05:48.130 --> 00:05:49.750
+sujets diploïdes.
+
+88
+00:05:50.190 --> 00:05:51.350
+Prenons un gène.
+
+89
+00:05:52.130 --> 00:05:56.150
+Donc, si on prend un gène donné, donc
+
+90
+00:05:56.150 --> 00:05:59.630
+on aura pour ces 100 individus, puisqu'on
+
+91
+00:05:59.630 --> 00:06:02.630
+est des sujets diploïdes, 200 gènes.
+
+92
+00:06:02.770 --> 00:06:05.710
+Pour un locus donné, on aura 200 gènes.
+
+93
+00:06:05.710 --> 00:06:07.610
+N'oubliez pas qu'on est des sujets
+
+94
+00:06:07.610 --> 00:06:08.370
+diploïdes.
+
+95
+00:06:08.870 --> 00:06:12.390
+Pour les gènes situés sur des autosomes, on
+
+96
+00:06:12.390 --> 00:06:13.770
+a deux exemplaires.
+
+97
+00:06:14.170 --> 00:06:17.050
+Un gène d'origine maternelle et un gène
+
+98
+00:06:17.050 --> 00:06:18.230
+d'origine paternelle.
+
+99
+00:06:18.590 --> 00:06:22.150
+Pour un gène donné chez 100 individus, on
+
+100
+00:06:22.150 --> 00:06:24.470
+va parler de 200 gènes.
+
+101
+00:06:24.470 --> 00:06:30.270
+Donc, soit P, la fréquence des homozygotes A,
+
+102
+00:06:30.850 --> 00:06:36.390
+A, qui est égale à 30%.
+
+103
+00:06:36.390 --> 00:06:40.030
+Donc, chez ces 100 individus, on a la
+
+104
+00:06:40.030 --> 00:06:45.270
+fréquence des homozygotes A, A, qui est égale
+
+105
+00:06:45.270 --> 00:06:46.310
+à 30%.
+
+106
+00:06:46.310 --> 00:06:51.570
+Puisque 30 individus sont homozygotes A, A.
+
+107
+00:06:52.500 --> 00:06:56.490
+On a 60 individus parmi ces 100 qui
+
+108
+00:06:56.490 --> 00:06:59.190
+sont héterozygotes A, A.
+
+109
+00:06:59.350 --> 00:07:02.790
+Donc, grand H est égal à 60%.
+
+110
+00:07:02.790 --> 00:07:07.030
+Et 10% de ces 100 individus sont
+
+111
+00:07:07.030 --> 00:07:09.170
+homozygotes A, A.
+
+112
+00:07:09.510 --> 00:07:12.790
+Donc, grand Q est égal à 10%.
+
+113
+00:07:12.790 --> 00:07:15.710
+Comme je viens de l'expliquer, puisque pour
+
+114
+00:07:15.710 --> 00:07:19.410
+un gène donné autosomique, on en a deux
+
+115
+00:07:19.410 --> 00:07:20.170
+exemplaires.
+
+116
+00:07:20.170 --> 00:07:23.890
+Donc, le nombre total de gènes pour ce
+
+117
+00:07:23.890 --> 00:07:27.090
+locus donné dans cette population de 100 individus
+
+118
+00:07:27.090 --> 00:07:30.750
+est de 2 fois 100, qui est égal
+
+119
+00:07:30.750 --> 00:07:31.930
+à 200.
+
+120
+00:07:32.510 --> 00:07:36.010
+Maintenant, quel est le nombre total de gènes
+
+121
+00:07:36.010 --> 00:07:37.290
+grand A?
+
+122
+00:07:37.810 --> 00:07:40.950
+Puisqu'on a des sujets homozygotes, le nombre
+
+123
+00:07:40.950 --> 00:07:42.610
+est de 30.
+
+124
+00:07:43.610 --> 00:07:47.410
+Et puisque c'est des sujets diploïdes.
+
+125
+00:07:47.410 --> 00:07:50.790
+Donc, ça sera 30 fois 2.
+
+126
+00:07:51.130 --> 00:07:51.650
+D'accord?
+
+127
+00:07:52.130 --> 00:07:55.530
+Sans oublier les 60 hétérozygotes.
+
+128
+00:07:55.950 --> 00:07:59.290
+Les 60 hétérozygotes ont un seul exemplaire du
+
+129
+00:07:59.290 --> 00:07:59.810
+grand A.
+
+130
+00:08:00.150 --> 00:08:02.590
+Donc, ça sera 2 fois 30 pour les
+
+131
+00:08:02.590 --> 00:08:05.650
+homozygotes plus les hétérozygotes 60.
+
+132
+00:08:05.930 --> 00:08:07.930
+Donc, ça va faire 120.
+
+133
+00:08:08.470 --> 00:08:13.930
+Donc, on a 120 gènes grand A chez
+
+134
+00:08:13.930 --> 00:08:14.770
+cette population.
+
+135
+00:08:14.770 --> 00:08:19.250
+Donc, comment on va calculer la fréquence génique
+
+136
+00:08:19.250 --> 00:08:20.630
+du gène grand A?
+
+137
+00:08:21.170 --> 00:08:24.650
+C'est le nombre total des gènes grand
+
+138
+00:08:24.650 --> 00:08:27.990
+A, qui est 120, sur le nombre total
+
+139
+00:08:27.990 --> 00:08:30.830
+des gènes pour ce locus là, qui est
+
+140
+00:08:30.830 --> 00:08:31.250
+200.
+
+141
+00:08:31.690 --> 00:08:34.330
+Donc, ça sera 120 sur 200, qui est
+
+142
+00:08:34.330 --> 00:08:38.630
+égal à 60%, qui est 0,6.
+
+143
+00:08:39.549 --> 00:08:42.610
+Maintenant, comment on va calculer le nombre de
+
+144
+00:08:42.610 --> 00:08:43.530
+gènes petit A?
+
+145
+00:08:43.530 --> 00:08:46.710
+Puisqu'on a dit que les homozygotes petit
+
+146
+00:08:46.710 --> 00:08:49.450
+A, petit A, ils sont au nombre de
+
+147
+00:08:49.450 --> 00:08:49.950
+10.
+
+148
+00:08:50.670 --> 00:08:53.010
+Et puisqu'ils sont homozygotes, ça veut dire
+
+149
+00:08:53.010 --> 00:08:55.550
+pour ce gène petit A, ils ont deux
+
+150
+00:08:55.550 --> 00:08:56.230
+exemplaires.
+
+151
+00:08:56.330 --> 00:08:57.610
+Ça sera 2 fois 10.
+
+152
+00:08:57.970 --> 00:09:01.110
+Plus, on a 60 hétérozygotes qui ont un
+
+153
+00:09:01.110 --> 00:09:02.770
+seul exemplaire de petit A.
+
+154
+00:09:03.110 --> 00:09:07.070
+Donc, ça sera 2 fois 10 plus 60
+
+155
+00:09:07.070 --> 00:09:07.910
+petit A.
+
+156
+00:09:08.130 --> 00:09:09.670
+Donc, ça sera 80.
+
+157
+00:09:09.670 --> 00:09:13.610
+Donc, on a 80 exemplaires du gène petit
+
+158
+00:09:13.610 --> 00:09:13.870
+A.
+
+159
+00:09:14.130 --> 00:09:17.050
+Comment on va calculer la fréquence génique du
+
+160
+00:09:17.050 --> 00:09:17.930
+gène petit A?
+
+161
+00:09:18.310 --> 00:09:21.110
+Donc, le nombre total du gène petit A
+
+162
+00:09:21.110 --> 00:09:23.990
+dans cette population, qui est 80, sur le
+
+163
+00:09:23.990 --> 00:09:26.410
+nombre total de gènes pour ce locus là,
+
+164
+00:09:26.430 --> 00:09:27.230
+qui est de 200.
+
+165
+00:09:27.630 --> 00:09:30.310
+Donc, ça sera 80 sur 200, qui est
+
+166
+00:09:30.310 --> 00:09:34.610
+égal à 0,4, qui correspond à 40%.
+
+167
+00:09:35.610 --> 00:09:38.430
+Étant donné que grand P est égal à
+
+168
+00:09:38.430 --> 00:09:43.690
+0,3, comme on l'a calculé, grand
+
+169
+00:09:43.690 --> 00:09:48.010
+Q qui est égal à 0,1, et
+
+170
+00:09:48.010 --> 00:09:52.370
+grand H qui est égal à 0,6.
+
+171
+00:09:53.170 --> 00:09:56.570
+Donc, on peut calculer les fréquences géniques à
+
+172
+00:09:56.570 --> 00:10:00.410
+partir des fréquences génotypiques.
+
+173
+00:10:00.410 --> 00:10:03.250
+Donc, petit P, c'est la fréquence génique
+
+174
+00:10:03.250 --> 00:10:04.350
+du petit A.
+
+175
+00:10:04.890 --> 00:10:08.330
+Donc, la fréquence des homozygotes grand A, grand
+
+176
+00:10:08.330 --> 00:10:13.790
+A, c'est 0,3 plus la moitié
+
+177
+00:10:13.790 --> 00:10:18.350
+des hétérozygotes, des fréquences génotypiques des hétérozygotes.
+
+178
+00:10:18.770 --> 00:10:22.690
+Donc, ça sera 1,5 fois 0,6.
+
+179
+00:10:24.210 --> 00:10:27.670
+Donc, ça sera 0,3 plus 0,3
+
+180
+00:10:27.670 --> 00:10:29.810
+et c'est égal à 0,6.
+
+181
+00:10:30.770 --> 00:10:31.230
+D'accord?
+
+182
+00:10:31.890 --> 00:10:36.270
+Donc, c'est ce qui correspond à ce
+
+183
+00:10:36.270 --> 00:10:37.150
+qu'on a calculé.
+
+184
+00:10:37.610 --> 00:10:39.550
+On va faire la même chose pour la
+
+185
+00:10:39.550 --> 00:10:41.870
+fréquence génique petit Q du petit A.
+
+186
+00:10:42.570 --> 00:10:46.010
+Donc, la fréquence des homozygotes petit A, petit
+
+187
+00:10:46.010 --> 00:10:49.030
+A, elle est de 0,1 plus la
+
+188
+00:10:49.030 --> 00:10:50.030
+moitié des hétérozygotes.
+
+189
+00:10:51.070 --> 00:10:52.890
+Donc, 1,5 fois 0,6, ça sera
+
+190
+00:10:52.890 --> 00:10:56.650
+0,3, 0,1 qui est égal à
+
+191
+00:10:56.650 --> 00:10:57.270
+0,4.
+
+192
+00:10:57.570 --> 00:10:59.310
+C'est ce qui correspond à ce qu
+
+193
+00:10:59.310 --> 00:11:00.330
+'on a calculé.
+
+194
+00:11:00.710 --> 00:11:02.950
+Donc là, c'est une autre façon de
+
+195
+00:11:02.950 --> 00:11:07.850
+démontrer que la fréquence génique d'un gène
+
+196
+00:11:07.850 --> 00:11:12.070
+correspond à la fréquence génotypique des homozygotes plus
+
+197
+00:11:12.070 --> 00:11:15.150
+la moitié de la fréquence génotypique des hétérozygotes.
+
+198
+00:11:18.320 --> 00:11:20.640
+Qu'en est-il de la loi de
+
+199
+00:11:20.640 --> 00:11:22.640
+Hardy-Weinberg?
+
+200
+00:11:23.280 --> 00:11:30.240
+En 1908, Hardy, un mathématicien britannique, et M.
+
+201
+00:11:30.380 --> 00:11:36.660
+Weinberg, un physicien et médecin allemand, parviennent séparément
+
+202
+00:11:36.660 --> 00:11:41.600
+mais simultanément à une même loi théorique selon
+
+203
+00:11:41.600 --> 00:11:47.260
+laquelle la fréquence des génotypes reste constante d
+
+204
+00:11:47.260 --> 00:11:49.280
+'une génération à l'autre.
+
+205
+00:11:52.860 --> 00:11:58.940
+Pour démontrer cette loi de Hardy-Weinberg, on
+
+206
+00:11:58.940 --> 00:12:06.100
+suppose les conditions nécessaires suivantes, à savoir que
+
+207
+00:12:06.100 --> 00:12:10.720
+la dimension de la population étudiée est grande.
+
+208
+00:12:11.640 --> 00:12:15.920
+Donc ça veut dire un effectif illimité et
+
+209
+00:12:15.920 --> 00:12:17.860
+qu'il n'y a pas de migration.
+
+210
+00:12:18.740 --> 00:12:19.580
+Ça d'une part.
+
+211
+00:12:21.040 --> 00:12:26.200
+Deuxième condition, que les mariages s'effectuent au
+
+212
+00:12:26.200 --> 00:12:26.720
+hasard.
+
+213
+00:12:26.880 --> 00:12:28.160
+C'est ce qu'on appelle « pas
+
+214
+00:12:28.160 --> 00:12:29.520
+en mixi ».
+
+215
+00:12:29.520 --> 00:12:32.460
+Ça veut dire que les conjoints ne sont
+
+216
+00:12:32.460 --> 00:12:34.860
+pas apparentés, donc il n'y a pas
+
+217
+00:12:34.860 --> 00:12:40.080
+de consanguinité, et que les unions sont aléatoires,
+
+218
+00:12:40.300 --> 00:12:40.960
+au hasard.
+
+219
+00:12:41.560 --> 00:12:44.940
+Ça veut dire que le choix du conjoint
+
+220
+00:12:44.940 --> 00:12:49.140
+est indépendant du phénotype.
+
+221
+00:12:50.180 --> 00:12:52.540
+Les couples se forment au hasard.
+
+222
+00:12:53.600 --> 00:12:56.800
+Troisième condition nécessaire à la loi de Hardy
+
+223
+00:12:56.800 --> 00:13:00.220
+-Weinberg, il n'y a pas de nouvelle
+
+224
+00:13:00.220 --> 00:13:07.360
+mutation des gènes responsables du caractère étudié ou
+
+225
+00:13:07.360 --> 00:13:12.260
+que le taux de mutation est suffisamment faible
+
+226
+00:13:12.260 --> 00:13:14.560
+pour être négligeable.
+
+227
+00:13:15.400 --> 00:13:20.460
+Dernière condition nécessaire à l'application de la
+
+228
+00:13:20.460 --> 00:13:23.360
+loi de Hardy-Weinberg, c'est qu'il
+
+229
+00:13:23.360 --> 00:13:27.800
+n'y a pas de sélection favorisant ou
+
+230
+00:13:27.800 --> 00:13:34.020
+défavorisant les divers génotypes dont dépendent les différents
+
+231
+00:13:34.020 --> 00:13:36.980
+phénotypes du caractère étudié.
+
+232
+00:13:41.420 --> 00:13:44.340
+Je viens de dire dans la diapositive précédente
+
+233
+00:13:44.340 --> 00:13:48.840
+que parmi les conditions nécessaires à l'application
+
+234
+00:13:48.840 --> 00:13:51.440
+de la loi de Hardy-Weinberg, c'est
+
+235
+00:13:51.440 --> 00:13:54.800
+l'absence de sélection pour tel ou tel
+
+236
+00:13:54.800 --> 00:13:55.960
+caractère.
+
+237
+00:13:57.260 --> 00:13:58.700
+Pourquoi ?
+
+238
+00:13:58.700 --> 00:14:01.400
+Parce que s'il y a une sélection,
+
+239
+00:14:02.400 --> 00:14:07.460
+les fréquences alléliques pourront varier d'une génération
+
+240
+00:14:07.460 --> 00:14:09.260
+à l'autre et on ne peut pas
+
+241
+00:14:09.260 --> 00:14:12.460
+appliquer la loi de Hardy-Weinberg.
+
+242
+00:14:13.460 --> 00:14:19.120
+Donc, la sélection positive de génotypes favorables se
+
+243
+00:14:19.120 --> 00:14:22.840
+traduit souvent dans les populations humaines comme l
+
+244
+00:14:22.840 --> 00:14:25.620
+'élimination de mutations responsables de maladies.
+
+245
+00:14:26.500 --> 00:14:31.160
+De même, de nombreux variants géniques sont avantageux
+
+246
+00:14:31.160 --> 00:14:36.240
+dans un contexte particulier et neutres ou défavorables
+
+247
+00:14:36.240 --> 00:14:38.700
+dans un autre environnement.
+
+248
+00:14:38.700 --> 00:14:42.780
+Les plus simples à visualiser sont les facteurs
+
+249
+00:14:42.780 --> 00:14:45.100
+de résistance aux infections.
+
+250
+00:14:45.760 --> 00:14:50.120
+On va prendre comme exemple deux sélections.
+
+251
+00:14:51.120 --> 00:14:55.840
+C'est les hétérosigotes pour la drépanocytose.
+
+252
+00:14:56.260 --> 00:15:01.020
+La drépanocytose ou l'anémie falciforme est une
+
+253
+00:15:01.020 --> 00:15:08.500
+pathologie sévère, évolutive, autosomique, récessive qui est due
+
+254
+00:15:08.500 --> 00:15:11.420
+à une mutation au niveau du gène de
+
+255
+00:15:11.420 --> 00:15:12.320
+la bétaglobine.
+
+256
+00:15:13.020 --> 00:15:18.120
+Cette mutation consiste en la transversion d'une
+
+257
+00:15:18.120 --> 00:15:22.680
+adénine en thymine en codensis à l'origine
+
+258
+00:15:22.680 --> 00:15:26.120
+de la transformation de l'acide glutamique en
+
+259
+00:15:26.120 --> 00:15:27.300
+valine.
+
+260
+00:15:28.940 --> 00:15:32.280
+Il est à noter que les sujets hétérosigotes
+
+261
+00:15:32.280 --> 00:15:38.620
+pour cette mutation sont relativement résistants au paludisme,
+
+262
+00:15:38.900 --> 00:15:39.480
+la malaria.
+
+263
+00:15:41.580 --> 00:15:46.600
+Leur érythrocyte constitue pour le parasite qui est
+
+264
+00:15:46.600 --> 00:15:53.700
+le plasmodium falciparum responsable du paludisme un environnement
+
+265
+00:15:53.700 --> 00:15:59.160
+moins favorable que ceux des individus homozygotes sains.
+
+266
+00:15:59.160 --> 00:16:03.140
+C'est pourquoi les hétérosigotes souffrent d'une
+
+267
+00:16:03.140 --> 00:16:07.060
+forme moins sévère de la malaria ou même
+
+268
+00:16:07.060 --> 00:16:08.520
+en sont épargnés.
+
+269
+00:16:10.020 --> 00:16:14.620
+La protection contre le paludisme conférée par l
+
+270
+00:16:14.620 --> 00:16:19.920
+'hétérosigocie est un avantage dans les régions impaludées
+
+271
+00:16:19.920 --> 00:16:23.020
+comme vous le voyez sur la carte géographique
+
+272
+00:16:23.020 --> 00:16:23.640
+suivante.
+
+273
+00:16:25.880 --> 00:16:29.860
+Avec une morbidité et une mortalité réduites, les
+
+274
+00:16:29.860 --> 00:16:34.260
+hétérosigotes ont plus de chances de survivre et
+
+275
+00:16:34.260 --> 00:16:35.980
+de pouvoir se reproduire.
+
+276
+00:16:36.340 --> 00:16:39.780
+Donc il y a un avantage sélectif de
+
+277
+00:16:39.780 --> 00:16:46.060
+cette hétérosigocie pour la mutation entraînant la drépanocytose.
+
+278
+00:16:46.660 --> 00:16:50.680
+Ceci explique la fréquence élevée de l'allèle
+
+279
+00:16:50.680 --> 00:16:53.920
+muté observé dans ces régions.
+
+280
+00:16:53.920 --> 00:16:58.560
+Donc la mutation falciforme a pris naissance de
+
+281
+00:16:58.560 --> 00:17:03.720
+manière indépendante au moins dans 4 ou 5
+
+282
+00:17:03.720 --> 00:17:07.839
+régions impaludées différentes et s'est ensuite répandue
+
+283
+00:17:07.839 --> 00:17:09.920
+dans les populations correspondantes.
+
+284
+00:17:10.839 --> 00:17:13.900
+L'anémie falciforme constitue ainsi chez l'homme
+
+285
+00:17:13.900 --> 00:17:18.300
+le meilleur exemple d'un avantage sélectif pour
+
+286
+00:17:18.300 --> 00:17:22.380
+les hétérosigotes pour un allèle muté responsable d
+
+287
+00:17:22.380 --> 00:17:25.339
+'une maladie sévère à l'état homozygote.
+
+288
+00:17:25.720 --> 00:17:28.800
+Là c'est juste pour expliquer une sélection
+
+289
+00:17:28.800 --> 00:17:30.540
+ou un avantage sélectif.
+
+290
+00:17:30.940 --> 00:17:33.520
+Je reviens à la loi de Hardy-Weinberg
+
+291
+00:17:33.520 --> 00:17:36.780
+dont pour appliquer cette loi il ne doit
+
+292
+00:17:36.780 --> 00:17:40.260
+pas y avoir un avantage sélectif pour tel
+
+293
+00:17:40.260 --> 00:17:41.600
+ou tel caractère.
+
+294
+00:17:44.320 --> 00:17:49.600
+Voici un schéma qui récapitule les différentes conditions
+
+295
+00:17:49.600 --> 00:17:53.160
+nécessaires à l'application de la loi de
+
+296
+00:17:53.160 --> 00:17:58.280
+Hardy-Weinberg à savoir une population avec un
+
+297
+00:17:58.280 --> 00:17:59.920
+effectif infini.
+
+298
+00:18:01.040 --> 00:18:04.540
+Les mariages doivent se faire au hasard, pas
+
+299
+00:18:04.540 --> 00:18:07.400
+de panmixie, pas de consanguinité.
+
+300
+00:18:08.200 --> 00:18:10.200
+De même, il ne doit pas y avoir
+
+301
+00:18:10.200 --> 00:18:12.440
+de nouvelles mutations.
+
+302
+00:18:12.440 --> 00:18:15.400
+Et aussi, il ne doit pas y avoir
+
+303
+00:18:15.400 --> 00:18:18.600
+un avantage sélectif du caractère étudié.
+
+304
+00:18:24.570 --> 00:18:30.370
+Pour comment démontrer cette loi de Hardy-Weinberg
+
+305
+00:18:30.370 --> 00:18:35.830
+à partir des fréquences alléliques, on va supposer
+
+306
+00:18:35.830 --> 00:18:41.070
+qu'à la génération N, les fréquences des
+
+307
+00:18:41.070 --> 00:18:44.770
+allèles grand A et petit A sont respectivement
+
+308
+00:18:44.770 --> 00:18:49.830
+petit P et petit Q, sachant que P
+
+309
+00:18:49.830 --> 00:18:52.190
+plus Q est égal à 1 qui est
+
+310
+00:18:52.190 --> 00:18:53.030
+100%.
+
+311
+00:18:53.030 --> 00:18:55.570
+Il s'agit de montrer qu'à la
+
+312
+00:18:55.570 --> 00:18:59.770
+génération suivante qui est N plus 1, ces
+
+313
+00:18:59.770 --> 00:19:05.890
+mêmes fréquences alléliques demeurent inchangées lorsque toutes les
+
+314
+00:19:05.890 --> 00:19:10.070
+conditions nécessaires à la loi de Hardy-Weinberg
+
+315
+00:19:10.070 --> 00:19:11.470
+sont respectées.
+
+316
+00:19:13.990 --> 00:19:16.730
+Quand les fréquences des allèles grand A et
+
+317
+00:19:16.730 --> 00:19:20.510
+petit A à la génération N sont respectivement
+
+318
+00:19:20.510 --> 00:19:24.870
+petit P et petit Q, les fréquences génotypiques
+
+319
+00:19:24.870 --> 00:19:27.870
+à la génération suivante N plus 1 sont
+
+320
+00:19:27.870 --> 00:19:31.510
+respectivement P au carré grand A grand A
+
+321
+00:19:31.510 --> 00:19:35.370
+pour les homozygotes grand A grand A, de
+
+322
+00:19:35.370 --> 00:19:39.870
+PQ grand A petit A pour les hétérozygotes,
+
+323
+00:19:40.270 --> 00:19:42.930
+et Q au carré petit A petit A
+
+324
+00:19:42.930 --> 00:19:48.190
+pour les homozygotes, les homozygotes petit A petit
+
+325
+00:19:48.190 --> 00:19:48.470
+A.
+
+326
+00:19:58.400 --> 00:20:03.360
+On va démontrer la constance des fréquences alléliques
+
+327
+00:20:03.360 --> 00:20:07.040
+lors de génération quand la loi de Hardy
+
+328
+00:20:07.040 --> 00:20:08.900
+-Weinberg est appliquée.
+
+329
+00:20:09.980 --> 00:20:12.280
+Quand les fréquences des allèles grand A et
+
+330
+00:20:12.280 --> 00:20:16.140
+petit A à la génération N sont respectivement
+
+331
+00:20:16.140 --> 00:20:21.240
+petit P et petit Q, les fréquences génotypiques
+
+332
+00:20:21.240 --> 00:20:26.460
+à la génération suivante N plus 1 sont
+
+333
+00:20:26.460 --> 00:20:30.760
+respectivement P au carré grand A grand A.
+
+334
+00:20:31.640 --> 00:20:34.820
+Pour la fréquence des hétérozygotes, c'est de
+
+335
+00:20:34.820 --> 00:20:38.620
+PQ grand A petit A et Q au
+
+336
+00:20:38.620 --> 00:20:40.460
+carré petit A petit A.
+
+337
+00:20:41.500 --> 00:20:44.560
+Les fréquences alléliques à la génération N plus
+
+338
+00:20:44.560 --> 00:20:47.720
+1 ne changent pas par rapport à la
+
+339
+00:20:47.720 --> 00:20:49.660
+génération précédente.
+
+340
+00:20:49.660 --> 00:20:52.900
+En effet, à la génération N plus 1,
+
+341
+00:20:53.980 --> 00:20:57.380
+la fréquence du grand A c'est P
+
+342
+00:20:57.380 --> 00:21:03.680
+au carré, donc la fréquence des homozygotes, plus
+
+343
+00:21:03.680 --> 00:21:05.720
+la moitié des hétérozygotes.
+
+344
+00:21:05.800 --> 00:21:09.040
+La moitié de PQ grand A petit A
+
+345
+00:21:09.040 --> 00:21:10.020
+c'est PQ.
+
+346
+00:21:10.560 --> 00:21:13.220
+Donc on va prendre comme facteur commun P
+
+347
+00:21:13.220 --> 00:21:17.840
+fois entre parenthèses P plus Q, puisqu'on
+
+348
+00:21:17.840 --> 00:21:19.680
+a dit que P plus Q est égal
+
+349
+00:21:19.680 --> 00:21:20.240
+à 1.
+
+350
+00:21:21.240 --> 00:21:21.560
+D'accord?
+
+351
+00:21:22.080 --> 00:21:26.400
+Donc la fréquence du gène grand A reste
+
+352
+00:21:26.400 --> 00:21:27.580
+toujours petit P.
+
+353
+00:21:28.140 --> 00:21:30.740
+La même chose pour la fréquence du petit
+
+354
+00:21:30.740 --> 00:21:31.060
+A.
+
+355
+00:21:31.600 --> 00:21:34.120
+Donc c'est la fréquence des homozygotes qui
+
+356
+00:21:34.120 --> 00:21:37.620
+est Q au carré plus la moitié des
+
+357
+00:21:37.620 --> 00:21:37.940
+hétérozygotes.
+
+358
+00:21:38.500 --> 00:21:41.600
+La moitié de 2PQ c'est PQ.
+
+359
+00:21:41.600 --> 00:21:44.960
+On va prendre comme facteur commun le Q
+
+360
+00:21:44.960 --> 00:21:48.140
+fois entre parenthèses P plus Q.
+
+361
+00:21:48.500 --> 00:21:50.460
+Puisqu'on a dit que P plus Q,
+
+362
+00:21:51.120 --> 00:21:54.200
+donc les deux gènes, constituent 100%.
+
+363
+00:21:54.200 --> 00:21:55.760
+100% c'est 1.
+
+364
+00:21:56.160 --> 00:21:57.940
+Donc P plus Q est égal à 1
+
+365
+00:21:57.940 --> 00:21:58.540
+fois Q.
+
+366
+00:21:59.160 --> 00:22:02.520
+Donc la fréquence du petit A reste petit
+
+367
+00:22:02.520 --> 00:22:02.800
+Q.
+
+368
+00:22:03.080 --> 00:22:05.800
+La fréquence du grand A reste petit P.
+
+369
+00:22:05.800 --> 00:22:10.960
+Par conséquent, dans une population en équilibre palmictique,
+
+370
+00:22:11.440 --> 00:22:14.520
+quand les fréquences alléliques à un locus donné
+
+371
+00:22:14.520 --> 00:22:18.520
+qui a deux allèles grand A, petit A,
+
+372
+00:22:18.820 --> 00:22:23.040
+sont respectivement petit P et petit Q.
+
+373
+00:22:23.400 --> 00:22:26.940
+Les fréquences génotypiques à la même génération sont
+
+374
+00:22:26.940 --> 00:22:30.180
+P au carré grand A, grand A, plus
+
+375
+00:22:30.180 --> 00:22:33.120
+2PQ grand A, petit A, plus Q au
+
+376
+00:22:33.120 --> 00:22:34.540
+carré petit A, petit A.
+
+377
+00:22:34.540 --> 00:22:40.580
+On va démontrer ceci grâce à l'allèle
+
+378
+00:22:40.580 --> 00:22:41.460
+de ce tableau.
+
+379
+00:22:42.320 --> 00:22:46.860
+On va démontrer que les fréquences alléliques à
+
+380
+00:22:46.860 --> 00:22:50.080
+la génération N ne changent pas à la
+
+381
+00:22:50.080 --> 00:22:52.200
+génération suivante, N plus A.
+
+382
+00:22:52.820 --> 00:22:56.680
+On va prendre deux gènes, donc deux allèles
+
+383
+00:22:56.680 --> 00:22:59.540
+plutôt, l'allèle grand A et l'allèle
+
+384
+00:22:59.540 --> 00:23:03.240
+petit A, au niveau des spermatozoïdes ici, et
+
+385
+00:23:03.240 --> 00:23:05.400
+l'allèle, le même allèle, grand A et
+
+386
+00:23:05.400 --> 00:23:08.460
+petit A, au niveau des ovules.
+
+387
+00:23:09.380 --> 00:23:11.840
+Là, c'est lors de la première génération
+
+388
+00:23:11.840 --> 00:23:14.780
+où la fréquence allélique grand A est de
+
+389
+00:23:14.780 --> 00:23:17.600
+l'ordre de 0,7 et la fréquence
+
+390
+00:23:17.600 --> 00:23:19.940
+allélique du gène petit A est de l
+
+391
+00:23:19.940 --> 00:23:21.300
+'ordre de 0,3.
+
+392
+00:23:22.200 --> 00:23:26.760
+Après la réunion des spermatozoïdes avec les ovules,
+
+393
+00:23:26.860 --> 00:23:29.920
+prenons le premier exemple, réunion d'un spermatozoïde
+
+394
+00:23:29.920 --> 00:23:31.960
+avec l'allèle grand A et d'un
+
+395
+00:23:31.960 --> 00:23:34.440
+ovule avec l'allèle grand A, on aura
+
+396
+00:23:34.440 --> 00:23:39.420
+une fréquence de 0,7 fois 0,7
+
+397
+00:23:39.420 --> 00:23:41.020
+qui est de l'ordre de 0,49.
+
+398
+00:23:41.460 --> 00:23:43.480
+S'il y a réunion d'un spermatozoïde
+
+399
+00:23:43.480 --> 00:23:46.180
+porteur de l'allèle grand A avec un
+
+400
+00:23:46.180 --> 00:23:48.620
+ovule porteur de l'allèle petit A, donc
+
+401
+00:23:48.620 --> 00:23:51.220
+ce sera PQ et ce sera 0,7
+
+402
+00:23:51.220 --> 00:23:53.040
+fois 0,3 qui est de l'ordre
+
+403
+00:23:53.040 --> 00:23:53.880
+de 0,21.
+
+404
+00:23:54.680 --> 00:23:58.060
+Si on a une réunion d'un spermatozoïde
+
+405
+00:23:58.060 --> 00:24:00.380
+porteur de l'allèle petit A et d
+
+406
+00:24:00.380 --> 00:24:02.080
+'un ovule porteur de l'allèle grand A,
+
+407
+00:24:02.440 --> 00:24:07.100
+les fréquences alléliques seront de l'ordre de
+
+408
+00:24:07.100 --> 00:24:09.760
+0,7 fois 0,3 qui est de
+
+409
+00:24:09.760 --> 00:24:10.740
+l'ordre de 0,21.
+
+410
+00:24:11.380 --> 00:24:13.420
+Et s'il y a une réunion d
+
+411
+00:24:13.420 --> 00:24:16.560
+'un spermatozoïde porteur de l'allèle petit A
+
+412
+00:24:16.560 --> 00:24:19.280
+avec un ovule porteur de l'allèle petit
+
+413
+00:24:19.280 --> 00:24:22.360
+A, donc ce sera une fréquence allélique de
+
+414
+00:24:22.360 --> 00:24:26.700
+0,3 fois 0,3 qui est de
+
+415
+00:24:26.700 --> 00:24:29.080
+l'ordre de 0,09.
+
+416
+00:24:29.700 --> 00:24:33.160
+En respectant la règle suivante au niveau de
+
+417
+00:24:33.160 --> 00:24:35.160
+la génération N plus 1, puisqu'on a
+
+418
+00:24:35.160 --> 00:24:38.500
+dit dans la diapositive précédente que la fréquence
+
+419
+00:24:38.500 --> 00:24:42.040
+grand A au niveau de la génération N
+
+420
+00:24:42.040 --> 00:24:45.820
+plus 1 est égale à PO carré plus
+
+421
+00:24:45.820 --> 00:24:46.300
+PQ.
+
+422
+00:24:47.700 --> 00:24:52.220
+Donc PO carré c'était 0,49 plus
+
+423
+00:24:52.220 --> 00:24:55.600
+PQ qui est 0,21.
+
+424
+00:24:55.840 --> 00:24:58.200
+Donc la somme sera 0,7.
+
+425
+00:24:58.320 --> 00:25:00.960
+Et vous constatez que la fréquence de l
+
+426
+00:25:00.960 --> 00:25:03.460
+'allèle A au niveau de la génération N
+
+427
+00:25:03.460 --> 00:25:06.060
+plus 1 est restée la même par rapport
+
+428
+00:25:06.060 --> 00:25:07.780
+à la génération N.
+
+429
+00:25:08.040 --> 00:25:10.500
+La même chose pour la fréquence de l
+
+430
+00:25:10.500 --> 00:25:12.400
+'allèle petit A qui est de l'ordre
+
+431
+00:25:12.400 --> 00:25:14.300
+de PO carré plus PQ.
+
+432
+00:25:14.300 --> 00:25:16.440
+PO carré comme on l'a calculé tout
+
+433
+00:25:16.440 --> 00:25:19.680
+à l'heure c'est 0,09 plus
+
+434
+00:25:19.680 --> 00:25:21.760
+PQ qui est de l'ordre de 0
+
+435
+00:25:21.760 --> 00:25:26.040
+,21 qui est dans la somme 0,3.
+
+436
+00:25:26.440 --> 00:25:28.460
+Et encore une fois vous constatez que la
+
+437
+00:25:28.460 --> 00:25:30.980
+fréquence de l'allèle petit A au niveau
+
+438
+00:25:30.980 --> 00:25:34.400
+de la génération N plus 1 est restée
+
+439
+00:25:34.400 --> 00:25:37.820
+constante par rapport à la génération N.
+
+440
+00:25:37.820 --> 00:25:45.800
+Maintenant on va voir l'application de la
+
+441
+00:25:45.800 --> 00:25:49.920
+loi de Hardy et Weinberg aux maladies autosomiques
+
+442
+00:25:49.920 --> 00:25:50.760
+récessives.
+
+443
+00:25:52.000 --> 00:25:55.700
+En effet cette loi permet de calculer la
+
+444
+00:25:55.700 --> 00:25:59.500
+fréquence d'un gène récessif dans une population
+
+445
+00:25:59.500 --> 00:26:02.920
+en équilibre de loi de Hardy et Weinberg.
+
+446
+00:26:03.940 --> 00:26:07.100
+Soit petit P la fréquence du gène grand
+
+447
+00:26:07.100 --> 00:26:10.080
+A et petit Q la fréquence du gène
+
+448
+00:26:10.080 --> 00:26:10.900
+petit A.
+
+449
+00:26:11.780 --> 00:26:14.140
+La fréquence dans la population des personnes petit
+
+450
+00:26:14.140 --> 00:26:19.380
+A, petit A malades qui sont porteurs de
+
+451
+00:26:19.380 --> 00:26:22.840
+l'allèle muté petit A à l'état
+
+452
+00:26:22.840 --> 00:26:25.680
+homozygote est Q au carré.
+
+453
+00:26:26.220 --> 00:26:29.540
+Donc Q au carré est la fréquence des
+
+454
+00:26:29.540 --> 00:26:31.180
+homozygotes malades.
+
+455
+00:26:32.180 --> 00:26:35.300
+Grand R est la fréquence de la maladie
+
+456
+00:26:35.300 --> 00:26:38.620
+dans la population tout en sachant que la
+
+457
+00:26:38.620 --> 00:26:41.160
+fréquence d'une maladie est calculée de la
+
+458
+00:26:41.160 --> 00:26:42.200
+manière suivante.
+
+459
+00:26:42.620 --> 00:26:44.520
+C'est le nombre de cas sur le
+
+460
+00:26:44.520 --> 00:26:45.520
+nombre de naissances.
+
+461
+00:26:46.620 --> 00:26:48.760
+Vous vous rappelez, je vous ai dit que
+
+462
+00:26:48.760 --> 00:26:52.160
+la fréquence des homozygotes malades est de Q
+
+463
+00:26:52.160 --> 00:26:52.700
+au carré.
+
+464
+00:26:53.260 --> 00:26:56.260
+Donc la fréquence de la maladie est égale
+
+465
+00:26:56.260 --> 00:26:58.020
+à Q au carré.
+
+466
+00:26:59.020 --> 00:27:02.340
+Donc si on veut calculer Q, c'est
+
+467
+00:27:02.340 --> 00:27:05.380
+la racine carrée de la fréquence de la
+
+468
+00:27:05.380 --> 00:27:05.820
+maladie.
+
+469
+00:27:06.300 --> 00:27:08.700
+Il suffit de connaître la fréquence de la
+
+470
+00:27:08.700 --> 00:27:15.220
+maladie pour déduire Q, la valeur de Q.
+
+471
+00:27:16.740 --> 00:27:19.740
+Donc la valeur Q c'est la fréquence
+
+472
+00:27:19.740 --> 00:27:23.140
+génique de l'allèle ou la fréquence allélique
+
+473
+00:27:23.140 --> 00:27:24.900
+de l'allèle petit A.
+
+474
+00:27:24.900 --> 00:27:29.400
+La fréquence des personnes hétérozygotes grand A, petit
+
+475
+00:27:29.400 --> 00:27:30.740
+A, comme on l'a dit tout à
+
+476
+00:27:30.740 --> 00:27:33.800
+l'heure, est de l'ordre de 2pq.
+
+477
+00:27:34.480 --> 00:27:37.380
+Il faut savoir que les maladies autosomiques récessives,
+
+478
+00:27:37.500 --> 00:27:40.720
+en général, elles sont rares.
+
+479
+00:27:41.300 --> 00:27:43.240
+Et étant donné que la fréquence de l
+
+480
+00:27:43.240 --> 00:27:46.620
+'allèle grand A est presque égale à 1,
+
+481
+00:27:47.280 --> 00:27:50.800
+puisque l'allèle morbide muté, il est vraiment
+
+482
+00:27:50.800 --> 00:27:51.760
+très rare.
+
+483
+00:27:51.760 --> 00:27:55.340
+Donc sa valeur tombe vers 0.
+
+484
+00:27:56.060 --> 00:28:00.360
+Donc pour m'expliquer, on a deux allèles,
+
+485
+00:28:01.280 --> 00:28:03.400
+petit A et grand A.
+
+486
+00:28:04.300 --> 00:28:07.660
+Donc on a dit que la fréquence génique,
+
+487
+00:28:08.160 --> 00:28:12.600
+petit P plus la fréquence génique petit Q,
+
+488
+00:28:13.020 --> 00:28:15.000
+est égale à 100% qui est de
+
+489
+00:28:15.000 --> 00:28:16.420
+l'ordre de 1.
+
+490
+00:28:16.420 --> 00:28:19.880
+Si on a l'allèle morbide petit Q
+
+491
+00:28:19.880 --> 00:28:23.180
+qui est très rare, donc sa fréquence dans
+
+492
+00:28:23.180 --> 00:28:25.900
+la population va tendre à 0.
+
+493
+00:28:26.300 --> 00:28:29.620
+Donc Q est presque égale à 0 puisque
+
+494
+00:28:29.620 --> 00:28:31.480
+P plus Q est égal à 1.
+
+495
+00:28:31.900 --> 00:28:35.100
+Et si Q tombe vers 0, donc P
+
+496
+00:28:35.100 --> 00:28:36.260
+est égal à 1.
+
+497
+00:28:37.260 --> 00:28:39.860
+Étant donné que la fréquence des hétérozygotes est
+
+498
+00:28:39.860 --> 00:28:42.480
+de l'ordre de 2pq, mais quand l
+
+499
+00:28:42.480 --> 00:28:45.400
+'allèle morbide pour une pathologie autosomique récessive est
+
+500
+00:28:45.400 --> 00:28:51.260
+très rare, donc Q, donc P tombe vers
+
+501
+00:28:51.260 --> 00:28:51.500
+1.
+
+502
+00:28:52.040 --> 00:28:56.160
+Donc 2pq est égal à 2 fois, puisque
+
+503
+00:28:56.160 --> 00:28:58.200
+P, on a dit que c'est égal
+
+504
+00:28:58.200 --> 00:29:00.480
+à 1, donc ça sera 2 fois 1
+
+505
+00:29:00.480 --> 00:29:01.280
+fois Q.
+
+506
+00:29:01.880 --> 00:29:05.020
+Donc la fréquence des hétérozygotes est égale à
+
+507
+00:29:05.020 --> 00:29:06.120
+2Q.
+
+508
+00:29:06.640 --> 00:29:08.220
+Là c'est une question d'examen.
+
+509
+00:29:08.220 --> 00:29:11.440
+Si je vous donne la fréquence de la
+
+510
+00:29:11.440 --> 00:29:16.700
+maladie, vous serez capable de calculer la fréquence
+
+511
+00:29:16.700 --> 00:29:17.620
+des hétérozygotes.
+
+512
+00:29:17.720 --> 00:29:20.020
+Tout simplement, si vous avez la fréquence de
+
+513
+00:29:20.020 --> 00:29:21.920
+la maladie, la fréquence de la maladie est
+
+514
+00:29:21.920 --> 00:29:25.380
+R, elle est égale à Q² qui est
+
+515
+00:29:25.380 --> 00:29:28.920
+la fréquence des personnes petit a petit a.
+
+516
+00:29:29.820 --> 00:29:33.520
+Donc la fréquence des hétérozygotes, ça sera 2Q.
+
+517
+00:29:34.140 --> 00:29:36.000
+Et comment on la calcule Q?
+
+518
+00:29:36.340 --> 00:29:40.840
+C'est la racine carrée de la fréquence
+
+519
+00:29:40.840 --> 00:29:42.080
+de la maladie.
+
+520
+00:29:45.790 --> 00:29:51.230
+Voici des exemples pour calculer la fréquence des
+
+521
+00:29:51.230 --> 00:29:54.550
+hétérozygotes à partir de la fréquence de la
+
+522
+00:29:54.550 --> 00:29:58.270
+maladie autosomique récessive dans une population donnée.
+
+523
+00:29:58.270 --> 00:30:02.650
+On va prendre la fréquence de la phénicétonurie,
+
+524
+00:30:03.130 --> 00:30:07.550
+qui est une aminoacidopathie à transmission autosomique récessive
+
+525
+00:30:07.550 --> 00:30:10.470
+et dont la fréquence de la maladie est
+
+526
+00:30:10.470 --> 00:30:12.130
+de l'ordre de 1 sur 10 000
+
+527
+00:30:12.130 --> 00:30:13.110
+naissances.
+
+528
+00:30:14.270 --> 00:30:17.350
+Vous rappelez, je vous ai dit que la
+
+529
+00:30:17.350 --> 00:30:21.250
+fréquence de la maladie est égale à Q².
+
+530
+00:30:21.990 --> 00:30:24.570
+Donc Q est la racine carrée de la
+
+531
+00:30:24.570 --> 00:30:25.810
+fréquence de la maladie.
+
+532
+00:30:26.550 --> 00:30:30.630
+Donc Q va être la racine carrée de
+
+533
+00:30:30.630 --> 00:30:32.550
+1 sur 10 000 qui est de l
+
+534
+00:30:32.550 --> 00:30:33.670
+'ordre de 1 sur 100.
+
+535
+00:30:34.270 --> 00:30:37.150
+La fréquence des hétérozygotes est de l'ordre
+
+536
+00:30:37.150 --> 00:30:37.990
+de 2PQ.
+
+537
+00:30:38.750 --> 00:30:40.650
+Puisqu'il y a une application de la
+
+538
+00:30:40.650 --> 00:30:42.870
+loi de Hardy-Weinberg pour les maladies autosomiques
+
+539
+00:30:42.870 --> 00:30:46.030
+récessives, on a dit que P tend vers
+
+540
+00:30:46.030 --> 00:30:46.330
+1.
+
+541
+00:30:47.530 --> 00:30:50.670
+Donc la fréquence des hétérozygotes de PQ sera
+
+542
+00:30:50.670 --> 00:30:51.950
+de l'ordre de 2Q.
+
+543
+00:30:51.950 --> 00:30:56.270
+Et donc, puisqu'on connaît la valeur de
+
+544
+00:30:56.270 --> 00:30:59.090
+Q, ça sera 2 fois 1 sur 100.
+
+545
+00:30:59.530 --> 00:31:02.090
+Et donc, vous aurez la fréquence des hétérozygotes
+
+546
+00:31:02.090 --> 00:31:03.410
+qui est de l'ordre de 1 sur
+
+547
+00:31:03.410 --> 00:31:03.830
+50.
+
+548
+00:31:04.430 --> 00:31:06.290
+Vous aurez d'autres, on a en bas
+
+549
+00:31:06.290 --> 00:31:09.210
+dans le tableau ci-dessous, d'autres exemples.
+
+550
+00:31:09.490 --> 00:31:12.110
+On va prendre l'exemple de la mycoviscidose.
+
+551
+00:31:12.910 --> 00:31:16.510
+Donc la fréquence de la maladie R, Q²,
+
+552
+00:31:16.890 --> 00:31:18.630
+est de l'ordre de 1 sur 2500.
+
+553
+00:31:19.490 --> 00:31:22.710
+Donc la fréquence de l'allèle délétère homorbide
+
+554
+00:31:22.710 --> 00:31:25.430
+aux pathologies Q est la racine carrée de
+
+555
+00:31:25.430 --> 00:31:27.210
+1 sur 2500, qui est de l'ordre
+
+556
+00:31:27.210 --> 00:31:28.270
+de 1 sur 50.
+
+557
+00:31:28.670 --> 00:31:32.470
+Donc la fréquence des hétérozygotes, ça sera 2
+
+558
+00:31:32.470 --> 00:31:33.630
+fois Q.
+
+559
+00:31:34.150 --> 00:31:36.090
+Donc ça sera 2 fois 1 sur 50,
+
+560
+00:31:36.410 --> 00:31:37.830
+qui est de l'ordre de 1 sur
+
+561
+00:31:37.830 --> 00:31:38.210
+25.
+
+562
+00:31:38.650 --> 00:31:41.110
+Prenons le dernier exemple, c'est la galactosémie
+
+563
+00:31:41.110 --> 00:31:45.030
+congénitale, qui est également une maladie autosomique récessive.
+
+564
+00:31:45.030 --> 00:31:47.950
+Donc la fréquence de la maladie R, qui
+
+565
+00:31:47.950 --> 00:31:50.250
+est égale à Q², est de 1 sur
+
+566
+00:31:50.250 --> 00:31:51.130
+40000.
+
+567
+00:31:51.390 --> 00:31:53.750
+Donc la fréquence de l'allèle délétère Q
+
+568
+00:31:53.750 --> 00:31:56.370
+est la racine carrée de 1 sur 40000,
+
+569
+00:31:56.490 --> 00:31:58.130
+qui est 1 sur 2000.
+
+570
+00:31:58.350 --> 00:32:01.190
+Donc la fréquence des hétérozygotes 100 de Q,
+
+571
+00:32:01.490 --> 00:32:04.010
+ça sera 2 fois 1 sur 200, qui
+
+572
+00:32:04.010 --> 00:32:05.490
+est 1 sur 100.

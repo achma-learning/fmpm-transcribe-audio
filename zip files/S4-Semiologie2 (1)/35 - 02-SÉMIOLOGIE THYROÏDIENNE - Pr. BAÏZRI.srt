@@ -1,0 +1,2791 @@
+1
+00:00:02,520 --> 00:00:03,120
+Bismillahirrahmanirrahim.
+
+2
+00:00:03,220 --> 00:00:03,960
+Bonjour tout le monde.
+
+3
+00:00:04,980 --> 00:00:08,480
+Alors l'autre fois, on a fait un
+
+4
+00:00:08,480 --> 00:00:12,700
+cours de sémiologie du diabète sucré.
+
+5
+00:00:13,260 --> 00:00:17,820
+Et aujourd'hui, on va attaquer un autre
+
+6
+00:00:17,820 --> 00:00:20,180
+chapitre de la sémiologie.
+
+7
+00:00:20,860 --> 00:00:22,620
+Il s'agit de la sémiologie thérapeutique.
+
+8
+00:00:24,820 --> 00:00:27,820
+Alors, parmi les objectifs de ce cours, c
+
+9
+00:00:27,820 --> 00:00:32,440
+'est d'abord reconnaître un goitre, reconnaître un
+
+10
+00:00:32,440 --> 00:00:34,960
+ondule théroïdien, reconnaître les signes cliniques d'une
+
+11
+00:00:34,960 --> 00:00:40,240
+hyperthéroïdie et également reconnaître les signes cliniques d
+
+12
+00:00:40,240 --> 00:00:41,520
+'une hypothyroïdie.
+
+13
+00:00:43,220 --> 00:00:46,740
+Alors, avant de commencer le cours, j'aimerais
+
+14
+00:00:46,740 --> 00:00:50,440
+juste vous rappeler la régulation de la synthèse
+
+15
+00:00:50,440 --> 00:00:53,060
+et de la sécrétion des hormones théroïdiennes.
+
+16
+00:00:53,360 --> 00:00:57,260
+Comme vous le savez, que ce soit la
+
+17
+00:00:57,260 --> 00:01:00,360
+T4 ou bien la T3, ils sont synthétisés
+
+18
+00:01:00,360 --> 00:01:03,420
+et sécrétés par la glande théroïde sous l
+
+19
+00:01:03,420 --> 00:01:05,840
+'action d'une autre hormone.
+
+20
+00:01:07,140 --> 00:01:09,760
+C'est la TSH qui est sécrétée par
+
+21
+00:01:09,760 --> 00:01:11,560
+l'hypophyse antérieure.
+
+22
+00:01:12,080 --> 00:01:14,560
+Et cette TSH est elle-même sous la
+
+23
+00:01:14,560 --> 00:01:17,100
+dépendance d'un autre facteur, qui est la
+
+24
+00:01:17,100 --> 00:01:20,840
+TRH, et qui est sécrétée au niveau hypothalamique.
+
+25
+00:01:21,420 --> 00:01:24,900
+Et comme vous le savez, ça c'est
+
+26
+00:01:24,900 --> 00:01:28,300
+presque une règle générale en endocrinologie, c'est
+
+27
+00:01:28,300 --> 00:01:31,160
+que chaque fois qu'on a une sécrétion
+
+28
+00:01:31,160 --> 00:01:34,900
+d'une hormone par une glande endocrine périphérique,
+
+29
+00:01:35,040 --> 00:01:36,540
+il y aura ce qu'on appelle un
+
+30
+00:01:36,540 --> 00:01:39,960
+feedback négatif, aussi bien au niveau hypophysaire qu
+
+31
+00:01:39,960 --> 00:01:41,520
+'au niveau hypothalamique.
+
+32
+00:01:42,080 --> 00:01:47,340
+Et cette notion est très importante à comprendre
+
+33
+00:01:47,340 --> 00:01:52,320
+pour qu'on puisse comprendre également les anomalies
+
+34
+00:01:52,320 --> 00:01:55,240
+biologiques et hormonales qu'on peut avoir au
+
+35
+00:01:55,240 --> 00:01:59,100
+cours des thyroïdes, que ce soit l'hypo
+
+36
+00:01:59,100 --> 00:02:00,480
+ou l'hyperthyroïde.
+
+37
+00:02:02,060 --> 00:02:05,240
+Alors on va commencer d'abord par la
+
+38
+00:02:05,240 --> 00:02:06,760
+sémiologie des goitres.
+
+39
+00:02:07,900 --> 00:02:09,500
+Alors c'est quoi un goitre ?
+
+40
+00:02:09,500 --> 00:02:13,640
+Un goitre correspond à une augmentation du volume
+
+41
+00:02:13,640 --> 00:02:14,600
+de la thyroïde.
+
+42
+00:02:14,720 --> 00:02:17,300
+On a deux façons de faire, deux façons
+
+43
+00:02:17,300 --> 00:02:20,500
+pour poser le diagnostic d'un goitre, soit
+
+44
+00:02:20,500 --> 00:02:23,760
+cliniquement lorsque à la palpation la surface de
+
+45
+00:02:23,760 --> 00:02:26,540
+chacun des lobes excède celle de la dernière
+
+46
+00:02:26,540 --> 00:02:29,520
+phalange du pouce du patient, ou bien sur
+
+47
+00:02:29,520 --> 00:02:32,920
+le plan échographique lorsque le volume thyroïdien qui
+
+48
+00:02:32,920 --> 00:02:34,780
+est évalué par la somme de chacun des
+
+49
+00:02:34,780 --> 00:02:41,720
+lobes excède 16 cm³ chez l'adolescent, quand
+
+50
+00:02:41,720 --> 00:02:47,120
+il excède 18 cm³ chez la femme adulte
+
+51
+00:02:47,120 --> 00:02:51,520
+et quand ça dépasse 20 cm³ chez l
+
+52
+00:02:51,520 --> 00:02:51,620
+'homme.
+
+53
+00:02:54,400 --> 00:02:56,400
+Alors les goitres, il faut savoir que les
+
+54
+00:02:56,400 --> 00:02:58,360
+goitres peuvent être congénitaux, c'est-à-dire
+
+55
+00:02:58,360 --> 00:03:03,180
+qu'ils apparaissent à la naissance ou acquis
+
+56
+00:03:03,180 --> 00:03:04,340
+au cours de la vie.
+
+57
+00:03:05,420 --> 00:03:07,380
+Ils peuvent être défus ou localisés.
+
+58
+00:03:08,400 --> 00:03:11,960
+Ils peuvent être normaux, hypo ou hyperfonctionnels, c
+
+59
+00:03:11,960 --> 00:03:14,440
+'est-à-dire avec un état de thyroïde
+
+60
+00:03:14,440 --> 00:03:17,520
+ou bien en hypothyroïde ou bien associé à
+
+61
+00:03:17,520 --> 00:03:18,340
+une hypothyroïde.
+
+62
+00:03:18,760 --> 00:03:20,580
+Ils peuvent être bénins comme ils peuvent être
+
+63
+00:03:20,580 --> 00:03:21,040
+malins.
+
+64
+00:03:22,820 --> 00:03:27,800
+Alors l'histoire naturelle des goitres se constitue
+
+65
+00:03:27,800 --> 00:03:29,560
+fréquemment à la période de l'adolescence.
+
+66
+00:03:31,760 --> 00:03:34,860
+Ces goitres s'accentuent et s'organisent progressivement
+
+67
+00:03:34,860 --> 00:03:37,640
+sous forme d'ondules au fil des années
+
+68
+00:03:37,640 --> 00:03:38,420
+et des décennies.
+
+69
+00:03:39,060 --> 00:03:41,300
+Et puis il faut savoir également que certains
+
+70
+00:03:41,300 --> 00:03:47,920
+facteurs ou bien certaines conditions participent au développement
+
+71
+00:03:47,920 --> 00:03:52,060
+de ces goitres, notamment les grossesses, les stress
+
+72
+00:03:52,060 --> 00:03:55,180
+de la vie et également la carence en
+
+73
+00:03:55,180 --> 00:03:55,460
+iode.
+
+74
+00:03:57,520 --> 00:04:02,600
+Alors sur cette diapo, vous avez un schéma
+
+75
+00:04:02,600 --> 00:04:06,500
+qui montre l'évolution naturelle du goitre simple.
+
+76
+00:04:08,040 --> 00:04:11,180
+Alors au début, c'est la phase de
+
+77
+00:04:11,180 --> 00:04:11,580
+latence.
+
+78
+00:04:12,920 --> 00:04:16,860
+Puis elle sera suivie généralement par une phase
+
+79
+00:04:16,860 --> 00:04:18,700
+de disgrâce esthétique.
+
+80
+00:04:20,420 --> 00:04:24,160
+Après, ça va être un goitre symptomatique, peut
+
+81
+00:04:24,160 --> 00:04:27,400
+-être avec une douleur, une dysphagie, avant d
+
+82
+00:04:27,400 --> 00:04:33,520
+'arriver au stade de complication, en particulier l
+
+83
+00:04:33,520 --> 00:04:35,660
+'apparition de néoplasie au sein de ce goitre.
+
+84
+00:04:36,960 --> 00:04:42,460
+Alors devant tout goitre thyruidien, il faut bien
+
+85
+00:04:42,460 --> 00:04:45,840
+évidemment faire une exploration clinique, en commençant par
+
+86
+00:04:45,840 --> 00:04:50,600
+l'interrogatoire et en précisant en particulier l
+
+87
+00:04:50,600 --> 00:04:50,780
+'âge.
+
+88
+00:04:51,260 --> 00:04:53,500
+Il faut également préciser l'origine géographique.
+
+89
+00:04:53,720 --> 00:04:56,860
+Est-ce que le patient a vécu ou
+
+90
+00:04:56,860 --> 00:04:59,680
+bien vit dans une zone de carence iodée?
+
+91
+00:05:00,360 --> 00:05:02,980
+La présence ou non de pathologies thyruidiennes familiales
+
+92
+00:05:02,980 --> 00:05:05,660
+et en particulier les cancers thyruidiens.
+
+93
+00:05:06,160 --> 00:05:09,440
+Il faut rechercher une notion d'antécédent d
+
+94
+00:05:09,440 --> 00:05:10,620
+'irradiation dans l'enfance.
+
+95
+00:05:12,280 --> 00:05:14,060
+Aussi, il faut voir est-ce qu'il
+
+96
+00:05:14,060 --> 00:05:17,500
+n'y a pas de syndrome compressif chez
+
+97
+00:05:17,500 --> 00:05:23,060
+ce patient sous forme de dysphonie, de dysphagie
+
+98
+00:05:23,060 --> 00:05:24,020
+ou bien de dyspnée.
+
+99
+00:05:25,360 --> 00:05:28,320
+Il faut également rechercher les signes d'hyper
+
+100
+00:05:28,320 --> 00:05:32,020
+ou bien d'hypothyruidie, sans oublier d'évaluer
+
+101
+00:05:32,020 --> 00:05:35,760
+le profil évolutif de ce goitre.
+
+102
+00:05:36,180 --> 00:05:39,360
+Est-ce qu'il est d'apparition récente
+
+103
+00:05:39,360 --> 00:05:43,860
+ou bien il a rapidement augmenté de volume?
+
+104
+00:05:47,160 --> 00:05:51,380
+Après cette anamnèse, on passe bien évidemment à
+
+105
+00:05:51,380 --> 00:05:52,560
+l'examen de la thyruide.
+
+106
+00:05:53,360 --> 00:05:57,420
+En commençant par l'inspection, la tête doit
+
+107
+00:05:57,420 --> 00:06:01,640
+être en discrète extension et on recherche une
+
+108
+00:06:01,640 --> 00:06:05,360
+éventuelle cicatrice, des signes inflammatoires en regard de
+
+109
+00:06:05,360 --> 00:06:08,140
+l'air thyruidien, une thuméfaction qu'on peut
+
+110
+00:06:08,140 --> 00:06:13,680
+voir à l'inspection, une éventuelle circulation collatérale
+
+111
+00:06:13,680 --> 00:06:17,380
+et parfois on a recours à ce qu
+
+112
+00:06:17,380 --> 00:06:19,540
+'on appelle la manœuvre de Pamperton qui est
+
+113
+00:06:19,540 --> 00:06:22,100
+illustrée sur cet diapositif.
+
+114
+00:06:23,860 --> 00:06:25,820
+L'objectif est la recherche de signes de
+
+115
+00:06:25,820 --> 00:06:29,480
+compression veineuse qui vont être démasqués par cette
+
+116
+00:06:29,480 --> 00:06:30,080
+manœuvre.
+
+117
+00:06:30,960 --> 00:06:34,900
+Après l'inspection, il faut faire une palpation
+
+118
+00:06:34,900 --> 00:06:40,820
+de la thyruide et l'examinateur doit se
+
+119
+00:06:40,820 --> 00:06:44,020
+placer en principe derrière le patient et le
+
+120
+00:06:44,020 --> 00:06:47,600
+patient, de préférence, il faut qu'il soit
+
+121
+00:06:47,600 --> 00:06:54,220
+assis sur une chaise, la tête fléchie et
+
+122
+00:06:54,220 --> 00:06:57,320
+généralement on palpe avec la pulpe des doigts,
+
+123
+00:06:57,860 --> 00:07:00,680
+bien sûr sans le pouce, et cette palpation
+
+124
+00:07:00,680 --> 00:07:03,240
+se fait au repos, puis pendant un mouvement
+
+125
+00:07:03,240 --> 00:07:06,960
+de déglutition, en faisant boire le sujet à
+
+126
+00:07:06,960 --> 00:07:11,320
+petite gorgée, tout en sachant que la thyruide
+
+127
+00:07:11,320 --> 00:07:14,120
+est mobile avec les mouvements de déglutition.
+
+128
+00:07:16,000 --> 00:07:18,680
+Au cours de cette palpation, il faut déterminer
+
+129
+00:07:18,680 --> 00:07:21,920
+le volume du couâtre, sa consistance, est-ce
+
+130
+00:07:21,920 --> 00:07:24,340
+qu'il est souple, ferme ou dur, son
+
+131
+00:07:24,340 --> 00:07:28,720
+homogénéité, est-ce qu'il est homogène, défuit,
+
+132
+00:07:29,280 --> 00:07:32,140
+sans formation nodulaire ou bien il y a
+
+133
+00:07:32,140 --> 00:07:36,440
+la présence de formation nodulaire, sa sensibilité, est
+
+134
+00:07:36,440 --> 00:07:38,680
+-ce qu'il est douloureux ou insensible, et
+
+135
+00:07:38,680 --> 00:07:41,500
+également essayer de voir est-ce qu'il
+
+136
+00:07:41,500 --> 00:07:42,680
+est plongeant ou non.
+
+137
+00:07:42,680 --> 00:07:46,340
+Sans oublier de rechercher un éventuel trill, qui
+
+138
+00:07:46,340 --> 00:07:50,640
+est une sensation de frémissement, qu'on peut
+
+139
+00:07:50,640 --> 00:07:54,360
+trouver surtout dans les couâtres vasculaires, dans le
+
+140
+00:07:54,360 --> 00:07:56,040
+cadre de la maladie de base d'eau,
+
+141
+00:07:58,740 --> 00:08:02,120
+sans oublier de rechercher la présence d'éventuelles
+
+142
+00:08:02,120 --> 00:08:07,460
+adénopathies cervicales, et on termine l'examen clinique
+
+143
+00:08:07,460 --> 00:08:10,360
+de la thyruide qui parle d'une auscultation
+
+144
+00:08:10,360 --> 00:08:12,640
+à la recherche d'un souffle vasculaire.
+
+145
+00:08:13,300 --> 00:08:16,280
+Sur cette diapo vous avez deux photos, la
+
+146
+00:08:16,280 --> 00:08:22,140
+photo qui est en haut montre les repères
+
+147
+00:08:22,140 --> 00:08:26,160
+anatomiques pour la palpation de la thyruide, et
+
+148
+00:08:26,160 --> 00:08:28,540
+la photo qui est en bas montre la
+
+149
+00:08:28,540 --> 00:08:31,360
+technique de la palpation et de l'examen
+
+150
+00:08:31,360 --> 00:08:32,720
+de la thyruide.
+
+151
+00:08:33,720 --> 00:08:37,500
+A l'issue de cet examen, on peut
+
+152
+00:08:37,500 --> 00:08:41,120
+classer les couâtres en fonction de la classification
+
+153
+00:08:41,120 --> 00:08:45,780
+OMS. Un couâtre est classé stade 0 quand
+
+154
+00:08:45,780 --> 00:08:48,600
+la thyruide est non palpable ou bien palpable,
+
+155
+00:08:48,840 --> 00:08:51,040
+mais dont les lobes sont de volume inférieur
+
+156
+00:08:51,040 --> 00:08:53,280
+à la phalange distale du poste du sujet
+
+157
+00:08:53,280 --> 00:08:54,380
+examiné.
+
+158
+00:08:56,440 --> 00:09:01,240
+Un couâtre stade 1A correspond à une thyruide
+
+159
+00:09:01,240 --> 00:09:03,860
+nettement palpable et dont les lobes ont un
+
+160
+00:09:03,860 --> 00:09:06,840
+volume supérieur à la phalange distale du poste
+
+161
+00:09:06,840 --> 00:09:09,900
+du sujet examiné, mais non visible lorsque la
+
+162
+00:09:09,900 --> 00:09:10,780
+tête est en extension.
+
+163
+00:09:11,860 --> 00:09:16,280
+Un couâtre stade 1B correspond à une thyruide
+
+164
+00:09:16,280 --> 00:09:18,980
+nettement palpable et dont les lobes ont un
+
+165
+00:09:18,980 --> 00:09:22,420
+volume supérieur à la phalange distale du poste
+
+166
+00:09:22,420 --> 00:09:25,160
+du sujet examiné, mais cette fois-ci visible
+
+167
+00:09:25,160 --> 00:09:27,840
+lorsque la tête est en extension, mais non
+
+168
+00:09:27,840 --> 00:09:29,480
+visible en position normale.
+
+169
+00:09:29,480 --> 00:09:32,280
+Un couâtre stade 2 correspond à une thyruide
+
+170
+00:09:32,280 --> 00:09:34,840
+nettement visible lorsque la tête est en position
+
+171
+00:09:34,840 --> 00:09:38,920
+normale et un couâtre stade 3 correspond à
+
+172
+00:09:38,920 --> 00:09:41,560
+une thyruide volumineuse visible à plus de 5
+
+173
+00:09:41,560 --> 00:09:41,900
+mètres.
+
+174
+00:09:42,660 --> 00:09:46,400
+Et là vous avez des exemples de couâtres.
+
+175
+00:09:46,620 --> 00:09:50,880
+Sur la photo qui est à gauche, il
+
+176
+00:09:50,880 --> 00:09:52,220
+s'agit d'un couâtre stade 2.
+
+177
+00:09:52,820 --> 00:09:54,520
+Sur la photo qui est au milieu, il
+
+178
+00:09:54,520 --> 00:09:57,560
+s'agit d'un couâtre homogène stade 2.
+
+179
+00:09:58,510 --> 00:10:04,520
+Pour la photo qui est à droite, elle
+
+180
+00:10:04,520 --> 00:10:07,280
+correspond à un couâtre nodulaire stade 3.
+
+181
+00:10:10,480 --> 00:10:13,500
+Après l'examen clinique, il faut faire bien
+
+182
+00:10:13,500 --> 00:10:18,260
+évidemment une exploration paraclinique et devant un couâtre
+
+183
+00:10:18,260 --> 00:10:21,180
+d'allure simple, et quand on parle de
+
+184
+00:10:21,180 --> 00:10:22,820
+couâtre d'allure simple c'est que c
+
+185
+00:10:22,820 --> 00:10:25,720
+'est un couâtre qui est défus, homogène, non
+
+186
+00:10:25,720 --> 00:10:28,520
+fonctionnel, non inflammatoire.
+
+187
+00:10:29,140 --> 00:10:31,780
+Et devant ce type de couâtre, on demande
+
+188
+00:10:31,780 --> 00:10:34,380
+généralement deux examens paracliniques.
+
+189
+00:10:34,480 --> 00:10:36,560
+Le premier c'est le dosage de l
+
+190
+00:10:36,560 --> 00:10:42,460
+'ATSH pour s'assurer que ce couâtre revient
+
+191
+00:10:42,460 --> 00:10:45,020
+pour s'assurer de l'état de thyruidie.
+
+192
+00:10:45,760 --> 00:10:48,460
+Et puis le deuxième examen paraclinique c'est
+
+193
+00:10:48,460 --> 00:10:50,480
+une échographie cervicale.
+
+194
+00:10:51,480 --> 00:10:56,220
+Alors l'échographie cervicale, elle va préciser l
+
+195
+00:10:56,220 --> 00:11:01,260
+'échogénicité du couâtre, ses mensurations, et puis elle
+
+196
+00:11:01,260 --> 00:11:05,840
+va rechercher également la présence d'éventuels nodules
+
+197
+00:11:05,840 --> 00:11:10,400
+en précisant leur nombre, leur forme, leur situation,
+
+198
+00:11:10,600 --> 00:11:13,380
+les limites, les classification, également le type de
+
+199
+00:11:13,380 --> 00:11:15,980
+vascularisation au sein de ces nodules.
+
+200
+00:11:15,980 --> 00:11:22,880
+Ces caractéristiques vont nous permettre de classer les
+
+201
+00:11:22,880 --> 00:11:25,920
+nodules en fonction de la classification Eutairades, sans
+
+202
+00:11:25,920 --> 00:11:29,980
+oublier bien évidemment de rechercher des adénopathies à
+
+203
+00:11:29,980 --> 00:11:30,840
+l'échographie.
+
+204
+00:11:32,260 --> 00:11:37,180
+Vous avez là deux images échographiques, en coupe
+
+205
+00:11:37,180 --> 00:11:40,900
+transversale à gauche et en coupe longitudinale à
+
+206
+00:11:40,900 --> 00:11:44,760
+droite, qui montrent la présence de multiples nodules
+
+207
+00:11:44,760 --> 00:11:48,060
+hypoécogènes, hétérogènes d'un couâtre multinodule.
+
+208
+00:11:50,630 --> 00:11:53,650
+Alors si on a un doute sur la
+
+209
+00:11:53,650 --> 00:11:57,550
+présence d'un couâtre plongeant, on peut compléter
+
+210
+00:11:57,550 --> 00:12:01,750
+les explorations soit par une radiographie thoracique de
+
+211
+00:12:01,750 --> 00:12:05,310
+face, soit par une TDM, bien évidemment à
+
+212
+00:12:05,310 --> 00:12:07,350
+la recherche d'une éventuelle déviation tracheale.
+
+213
+00:12:07,350 --> 00:12:09,870
+Comme vous voyez sur cette diapositive, à gauche
+
+214
+00:12:09,870 --> 00:12:13,050
+vous avez une radio-thoracique qui montre un
+
+215
+00:12:13,050 --> 00:12:16,390
+élargissement du médiastin en rapport avec un couâtre
+
+216
+00:12:16,390 --> 00:12:18,630
+plongeant, et à droite vous avez une coupe
+
+217
+00:12:18,630 --> 00:12:22,830
+scanographique montrant un couâtre avec un prolongement dans
+
+218
+00:12:22,830 --> 00:12:25,570
+le médiastin onterosupérieur.
+
+219
+00:12:25,570 --> 00:12:29,190
+A l'issue de cette première phase d
+
+220
+00:12:29,190 --> 00:12:34,670
+'examens cliniques et d'examens paracliniques basés sur
+
+221
+00:12:34,670 --> 00:12:37,070
+le dosage de la TSH et l'échographie,
+
+222
+00:12:37,550 --> 00:12:41,370
+et éventuellement une radio-pulmonaire, voire même une
+
+223
+00:12:41,370 --> 00:12:46,910
+TDM cervico-thoracique, les autres examens complémentaires seront
+
+224
+00:12:46,910 --> 00:12:51,030
+demandés selon l'orientation clinique ou le résultat
+
+225
+00:12:51,030 --> 00:12:52,050
+des examens précédents.
+
+226
+00:12:52,050 --> 00:12:56,350
+Si la TSH revient à normal, on peut
+
+227
+00:12:56,350 --> 00:12:59,870
+compléter le bilan par le dosage des hormones
+
+228
+00:12:59,870 --> 00:13:04,550
+thyroïdiennes périphériques, en particulier la T4 libre et
+
+229
+00:13:04,550 --> 00:13:05,810
+ou la T3 libre.
+
+230
+00:13:06,810 --> 00:13:10,170
+Si on suspecte une thyroïdie auto-immune, dans
+
+231
+00:13:10,170 --> 00:13:12,450
+ce cas on peut compléter le bilan par
+
+232
+00:13:12,450 --> 00:13:17,090
+le dosage des anticorps anti-thyropéroxidase, dit également
+
+233
+00:13:17,090 --> 00:13:20,170
+anticorps anti-TPO, et s'ils sont négatifs,
+
+234
+00:13:20,270 --> 00:13:22,950
+on peut compléter le bilan par les anticorps
+
+235
+00:13:22,950 --> 00:13:27,710
+anti-thyroglobuline, appelés également anticorps anti-TG.
+
+236
+00:13:28,350 --> 00:13:30,750
+Si on est devant une suspicion de maladie
+
+237
+00:13:30,750 --> 00:13:32,490
+de base d'eau, dans ce cas on
+
+238
+00:13:32,490 --> 00:13:35,010
+peut demander les anticorps anti-acétose de la
+
+239
+00:13:35,010 --> 00:13:37,950
+TSH, et puis si on suspecte un cas
+
+240
+00:13:37,950 --> 00:13:43,070
+sino-médulaire, le dosage de la calcitonine est
+
+241
+00:13:43,070 --> 00:13:43,810
+recommandé.
+
+242
+00:13:44,910 --> 00:13:50,470
+Comme autre examen complémentaire, on peut faire une
+
+243
+00:13:50,470 --> 00:13:52,910
+cytoponction éco-guidée d'un ondule thyroïdien suspect
+
+244
+00:13:52,910 --> 00:13:53,610
+de malignité.
+
+245
+00:13:54,310 --> 00:13:59,030
+Cette cytoponction est effectuée à l'aiguille fine.
+
+246
+00:13:59,830 --> 00:14:01,750
+C'est l'examen clé à la condition
+
+247
+00:14:01,750 --> 00:14:04,670
+d'être réalisé avec une technique de prélèvement
+
+248
+00:14:04,670 --> 00:14:06,250
+et de lecture rigoureuse.
+
+249
+00:14:06,250 --> 00:14:11,550
+La scintigraphie thyroïdienne aux techniciens n'est demandée
+
+250
+00:14:11,550 --> 00:14:15,110
+que si on est devant un tableau d
+
+251
+00:14:15,110 --> 00:14:16,360
+'hyperthyroïdie associée.
+
+252
+00:14:18,750 --> 00:14:24,510
+Là vous avez quelques exemples d'aspects scintigraphiques.
+
+253
+00:14:24,770 --> 00:14:27,770
+À gauche vous avez un aspect scintigraphique d
+
+254
+00:14:27,770 --> 00:14:28,910
+'une maladie de base d'eau.
+
+255
+00:14:29,050 --> 00:14:33,230
+Vous voyez l'hyperfixation intense qui intéresse les
+
+256
+00:14:33,230 --> 00:14:33,610
+deux lobes.
+
+257
+00:14:33,610 --> 00:14:36,770
+Au milieu vous avez un aspect scintigraphique d
+
+258
+00:14:36,770 --> 00:14:42,390
+'un goitre multinodulaire toxique avec des nodules dits
+
+259
+00:14:42,390 --> 00:14:44,970
+chauds ou bien toxiques, hyperfixants et d'autres
+
+260
+00:14:44,970 --> 00:14:45,930
+nodules qui sont froids.
+
+261
+00:14:46,670 --> 00:14:50,170
+Et puis sur l'image à droite, vous
+
+262
+00:14:50,170 --> 00:14:52,370
+avez un aspect scintigraphique d'un ondule toxique
+
+263
+00:14:52,370 --> 00:14:56,870
+isolé qui fixe avec extinction du reste du
+
+264
+00:14:56,870 --> 00:14:58,030
+parenchyme thyroïdien.
+
+265
+00:14:58,790 --> 00:15:01,490
+Alors ce qu'il faut retenir au terme
+
+266
+00:15:01,490 --> 00:15:03,730
+de cette première partie, c'est que chez
+
+267
+00:15:03,730 --> 00:15:07,710
+certaines personnes l'anginine, la thyroïde peut être
+
+268
+00:15:07,710 --> 00:15:10,110
+palpable et donner une impression de goitre.
+
+269
+00:15:10,230 --> 00:15:11,670
+C'est la raison pour laquelle il faut
+
+270
+00:15:11,670 --> 00:15:15,670
+généralement compléter par une échographie pour avoir une
+
+271
+00:15:15,670 --> 00:15:19,730
+idée précise sur les mensurations de la thyroïde.
+
+272
+00:15:20,470 --> 00:15:22,830
+Et inversement, l'appréciation clinique d'un goitre
+
+273
+00:15:22,830 --> 00:15:24,810
+est difficile en cas d'obésité.
+
+274
+00:15:24,810 --> 00:15:28,450
+Au terme de cette évaluation clinique et paraclinique,
+
+275
+00:15:29,030 --> 00:15:31,990
+le goitre est dit simple si l'hypertrophie
+
+276
+00:15:31,990 --> 00:15:34,830
+de la thyroïde est diffuse, normofonctionnelle, c'est
+
+277
+00:15:34,830 --> 00:15:37,330
+-à-dire le bilan thyroïdien est strictement normal,
+
+278
+00:15:37,830 --> 00:15:41,790
+non inflammatoire, le bilan immunologique est également normal
+
+279
+00:15:41,790 --> 00:15:43,850
+et non cancéreuse.
+
+280
+00:15:45,350 --> 00:15:51,210
+Après avoir parlé de la sémiologie du goitre,
+
+281
+00:15:51,370 --> 00:15:54,570
+on va passer maintenant à la sémiologie du
+
+282
+00:15:54,570 --> 00:15:59,550
+nodule thyroïdien qui est une situation qui devient
+
+283
+00:15:59,550 --> 00:16:01,330
+de plus en plus fréquente.
+
+284
+00:16:03,590 --> 00:16:07,370
+En rappelant que le nodule correspond à toute
+
+285
+00:16:07,370 --> 00:16:10,490
+hypertrophie localisée de la glande thyroïde, tout à
+
+286
+00:16:10,490 --> 00:16:12,190
+l'heure on a parlé du goitre, c
+
+287
+00:16:12,190 --> 00:16:15,710
+'est une hypertrophie totale et globale de la
+
+288
+00:16:15,710 --> 00:16:17,890
+glande thyroïde, le nodule c'est juste une
+
+289
+00:16:17,890 --> 00:16:21,770
+hypertrophie localisée de la glande thyroïde.
+
+290
+00:16:22,690 --> 00:16:26,050
+Il faut savoir également que la majorité des
+
+291
+00:16:26,050 --> 00:16:28,470
+nodules thyroïdiens sont bénins et constituent la première
+
+292
+00:16:28,470 --> 00:16:32,650
+manifestation d'une dystrophie plurinodulaire et puis les
+
+293
+00:16:32,650 --> 00:16:35,510
+cancers ne sont retrouvés que dans 5%
+
+294
+00:16:35,510 --> 00:16:38,490
+des cas, en principe de très bon pronostic
+
+295
+00:16:38,490 --> 00:16:41,350
+lorsqu'ils sont reconnus, pris en charge et
+
+296
+00:16:41,350 --> 00:16:43,270
+traités à ce stade nodulaire.
+
+297
+00:16:46,110 --> 00:16:50,170
+Bien évidemment, devant tout nodule thyroïdien, il faut
+
+298
+00:16:50,170 --> 00:16:53,210
+faire une évaluation initiale en se basant sur
+
+299
+00:16:53,210 --> 00:16:56,330
+une anamnèse et au cours de cette anamnèse
+
+300
+00:16:56,330 --> 00:17:00,310
+ou bien cet interrogatoire, il faut préciser l
+
+301
+00:17:00,310 --> 00:17:04,190
+'âge et le sexe, puisque un nodule est
+
+302
+00:17:04,190 --> 00:17:07,770
+considéré comme suspect aux deux âges extrêmes et
+
+303
+00:17:07,770 --> 00:17:08,150
+chez l'homme.
+
+304
+00:17:09,089 --> 00:17:13,609
+Il faut également préciser l'origine géographique, c
+
+305
+00:17:13,609 --> 00:17:16,829
+'est la même chose que pour un goitre,
+
+306
+00:17:17,310 --> 00:17:19,710
+voir est-ce que le patient ne vit
+
+307
+00:17:19,710 --> 00:17:21,609
+pas ou bien n'a pas vécu dans
+
+308
+00:17:21,609 --> 00:17:22,849
+une zone de carence lodée.
+
+309
+00:17:23,369 --> 00:17:26,210
+Le mode d'installation est très important devant
+
+310
+00:17:26,210 --> 00:17:28,450
+tout nodule thyroïdien, est-ce que c'est
+
+311
+00:17:28,450 --> 00:17:31,350
+une installation qui est rapide, récente ou bien
+
+312
+00:17:31,350 --> 00:17:33,490
+c'est un nodule qui remonte à plusieurs
+
+313
+00:17:33,490 --> 00:17:36,390
+années ou bien à plusieurs mois.
+
+314
+00:17:36,390 --> 00:17:40,450
+Les signes associés, notamment la douleur, des signes
+
+315
+00:17:40,450 --> 00:17:42,850
+compressifs, des signes de thyrotoxicose.
+
+316
+00:17:43,470 --> 00:17:45,690
+Avoir une idée sur la vitesse d'augmentation
+
+317
+00:17:45,690 --> 00:17:49,370
+de la taille et on considère qu'un
+
+318
+00:17:49,370 --> 00:17:51,630
+nodule est suspect s'il y a eu
+
+319
+00:17:51,630 --> 00:17:55,490
+une augmentation de plus de 20% de
+
+320
+00:17:55,490 --> 00:17:57,710
+son volume ou bien du contexte en un
+
+321
+00:17:57,710 --> 00:17:57,870
+an.
+
+322
+00:17:58,630 --> 00:18:02,070
+Avoir une idée sur les antécédents personnels d
+
+323
+00:18:02,070 --> 00:18:05,330
+'irradiation cervicale pendant l'enfance, sur les antécédents
+
+324
+00:18:05,330 --> 00:18:09,090
+familiaux et en particulier de cancer thyroïdien dans
+
+325
+00:18:09,090 --> 00:18:12,130
+la famille et également rechercher la notion de
+
+326
+00:18:12,130 --> 00:18:13,830
+diarrhée et de flash syndrome.
+
+327
+00:18:14,690 --> 00:18:19,510
+Après cet interrogatoire, il faut faire un examen
+
+328
+00:18:19,510 --> 00:18:23,690
+clinique en précisant le siège de son nodule,
+
+329
+00:18:23,910 --> 00:18:26,830
+sa taille, bien évidemment il faut faire attention
+
+330
+00:18:26,830 --> 00:18:31,030
+au nodule dont la taille dépasse 3 ou
+
+331
+00:18:31,030 --> 00:18:31,750
+4 cm.
+
+332
+00:18:32,230 --> 00:18:34,950
+La consistance de son nodule est très importante
+
+333
+00:18:34,950 --> 00:18:36,750
+à évaluer, est-ce qu'il s'agit
+
+334
+00:18:36,750 --> 00:18:39,650
+d'un nodule qui est mou, élastique, ferme,
+
+335
+00:18:39,770 --> 00:18:41,810
+irrégulier, dur ou pierreux.
+
+336
+00:18:41,810 --> 00:18:46,170
+La mobilité par rapport aux deux plans, rechercher
+
+337
+00:18:46,170 --> 00:18:49,370
+la présence ou non de signes inflammatoires et
+
+338
+00:18:49,370 --> 00:18:51,610
+également rechercher la présence ou non d'adhésion
+
+339
+00:18:51,610 --> 00:18:53,650
+en partie cervicale associée.
+
+340
+00:18:54,190 --> 00:18:56,450
+Et puis à l'issue de cet examen
+
+341
+00:18:56,450 --> 00:19:02,130
+clinique très méthodique, il faut compléter le bilan
+
+342
+00:19:02,130 --> 00:19:05,890
+par une TSH et une psychographie.
+
+343
+00:19:05,890 --> 00:19:10,550
+Alors dans certaines situations cliniques, le contexte oriente
+
+344
+00:19:10,550 --> 00:19:14,430
+déjà vers un diagnostic précis, limitant le recours
+
+345
+00:19:14,430 --> 00:19:15,590
+à d'autres explorations.
+
+346
+00:19:15,590 --> 00:19:22,110
+Ainsi, si on est devant une tumefaction cervicale
+
+347
+00:19:22,110 --> 00:19:24,910
+ou bien tumefaction au sein de la thyroïde
+
+348
+00:19:24,910 --> 00:19:28,290
+d'apparition brutale et douloureuse, il peut s
+
+349
+00:19:28,290 --> 00:19:29,930
+'agir d'hématocènes.
+
+350
+00:19:29,930 --> 00:19:34,210
+Quand on est devant un nodule douloureux associé
+
+351
+00:19:34,210 --> 00:19:35,810
+à une fièvre, il peut s'agir d
+
+352
+00:19:35,810 --> 00:19:38,170
+'une thyroïde subaigüe de deux carpins.
+
+353
+00:19:38,850 --> 00:19:41,970
+Si le nodule est compressif associé à des
+
+354
+00:19:41,970 --> 00:19:44,450
+adénopathies, ça peut s'agir d'un cancer.
+
+355
+00:19:45,650 --> 00:19:47,990
+Aussi, si le nodule est associé à un
+
+356
+00:19:47,990 --> 00:19:52,170
+tableau de thyrotoxicose, très probablement il s'agit
+
+357
+00:19:52,170 --> 00:19:53,910
+d'un nodule toxique.
+
+358
+00:19:54,410 --> 00:19:57,190
+Et puis, si le nodule est associé à
+
+359
+00:19:57,190 --> 00:19:59,290
+des signes d'hypothyroïde, il peut s'agir
+
+360
+00:19:59,290 --> 00:20:00,460
+d'une thyroïde lymphocytaire.
+
+361
+00:20:02,950 --> 00:20:05,870
+Alors, les autres situations qui sont les plus
+
+362
+00:20:05,870 --> 00:20:10,410
+communes, c'est généralement des nodules en apparence
+
+363
+00:20:10,410 --> 00:20:12,570
+isolés, sans signes associés.
+
+364
+00:20:13,670 --> 00:20:16,750
+Je rappelle que la majorité de ces nodules
+
+365
+00:20:16,750 --> 00:20:19,530
+sont bénins, mais il ne faut pas passer
+
+366
+00:20:19,530 --> 00:20:21,290
+à côté d'un éventuel cancer.
+
+367
+00:20:22,570 --> 00:20:30,830
+Et puis, en fonction de l'ATSH, on
+
+368
+00:20:30,830 --> 00:20:33,890
+peut compléter le bilan par d'autres explorations,
+
+369
+00:20:34,030 --> 00:20:37,050
+notamment le bilan immunologique, l'échographie, j'en
+
+370
+00:20:37,050 --> 00:20:38,790
+ai parlé pour avoir une idée sur la
+
+371
+00:20:38,790 --> 00:20:42,750
+classification Eutairades de ces nodules, et ça c
+
+372
+00:20:42,750 --> 00:20:43,530
+'est très important.
+
+373
+00:20:43,530 --> 00:20:47,370
+Actuellement, on ne peut pas suivre ou bien
+
+374
+00:20:47,370 --> 00:20:52,150
+prendre en charge un nodule thyroïdien sans qu
+
+375
+00:20:52,150 --> 00:20:56,430
+'on ait une échographie bien faite qui nous
+
+376
+00:20:56,430 --> 00:20:58,510
+permet d'avoir une idée sur la classification
+
+377
+00:20:58,510 --> 00:21:00,670
+Eutairades de ce nodule.
+
+378
+00:21:01,150 --> 00:21:03,510
+On peut avoir également recours à la cytoponction
+
+379
+00:21:03,510 --> 00:21:05,710
+et également à une scintigraphie.
+
+380
+00:21:05,710 --> 00:21:08,670
+Vous allez voir qu'il y a énormément
+
+381
+00:21:08,670 --> 00:21:14,090
+de choses que j'ai répétées, entre des
+
+382
+00:21:14,090 --> 00:21:16,010
+choses que j'ai dites, j'en ai
+
+383
+00:21:16,010 --> 00:21:20,310
+parlé dans le cours de scéniologie du gouâtre,
+
+384
+00:21:20,410 --> 00:21:21,870
+et là, c'est pratiquement la même chose,
+
+385
+00:21:21,950 --> 00:21:24,930
+parce qu'un gouâtre simple, c'est un
+
+386
+00:21:24,930 --> 00:21:28,510
+gouâtre sans nodule non fonctionnel et non inflammatoire,
+
+387
+00:21:28,690 --> 00:21:31,450
+mais parfois, ce gouâtre simple, au sein de
+
+388
+00:21:31,450 --> 00:21:33,350
+ce gouâtre simple, il peut se développer des
+
+389
+00:21:33,350 --> 00:21:35,690
+nodules, et la conduite à tenir, c'est
+
+390
+00:21:35,690 --> 00:21:35,790
+très important.
+
+391
+00:21:38,550 --> 00:21:42,230
+Ainsi, devant tout nodule thyroïdien en apparence isolé,
+
+392
+00:21:42,370 --> 00:21:44,050
+on demande, comme je l'ai dit tout
+
+393
+00:21:44,050 --> 00:21:46,710
+à l'heure, en premier une TSH, et
+
+394
+00:21:46,710 --> 00:21:51,250
+si la TSH revient basse, il s'agit
+
+395
+00:21:51,250 --> 00:21:54,150
+très probablement d'un nodule hyper fonctionnel, c
+
+396
+00:21:54,150 --> 00:21:56,870
+'est-à-dire un nodule chaud toxique, et
+
+397
+00:21:56,870 --> 00:21:59,330
+dans ce cas, c'est la seule indication
+
+398
+00:21:59,330 --> 00:22:02,150
+pour réaliser une scintigraphie.
+
+399
+00:22:02,150 --> 00:22:04,850
+Si la TSH revient normale, dans ce cas,
+
+400
+00:22:05,470 --> 00:22:07,210
+il peut s'agir d'un nodule bénin
+
+401
+00:22:07,210 --> 00:22:08,750
+comme il peut s'agir d'un cancer,
+
+402
+00:22:09,370 --> 00:22:11,990
+qu'on retrouve dans 5% des cas,
+
+403
+00:22:12,550 --> 00:22:14,830
+et dans ce cas, il faut compléter le
+
+404
+00:22:14,830 --> 00:22:19,190
+bilan par une échographie et éventuellement la cytoponction,
+
+405
+00:22:19,730 --> 00:22:21,390
+plus ou moins la calcitonine.
+
+406
+00:22:21,390 --> 00:22:24,170
+Si la TSH est augmentée, ça veut dire
+
+407
+00:22:24,170 --> 00:22:28,410
+que le patient est en hypothyroïdie, dans ce
+
+408
+00:22:28,410 --> 00:22:32,010
+cas, on complète le bilan par le dosage
+
+409
+00:22:32,010 --> 00:22:37,530
+des anticorps anti-TPO, éventuellement les anticorps anti
+
+410
+00:22:37,530 --> 00:22:43,230
+-TG si les anticorps anti-TPO reviennent négatifs,
+
+411
+00:22:43,550 --> 00:22:46,390
+à la recherche d'une éventuelle thyroïdite.
+
+412
+00:22:49,700 --> 00:22:53,980
+Là, vous avez le score E-thyrase qu
+
+413
+00:22:53,980 --> 00:22:59,880
+'on utilise pour classer les nodules thyroïdiens.
+
+414
+00:23:00,340 --> 00:23:03,380
+Vous voyez qu'on peut avoir des nodules
+
+415
+00:23:03,380 --> 00:23:07,680
+thyroïdiens classés E-thyrade 5 avec au moins
+
+416
+00:23:07,680 --> 00:23:09,040
+un signe de forte suspicion.
+
+417
+00:23:09,040 --> 00:23:17,640
+Vous avez les différentes caractéristiques d'un nodule
+
+418
+00:23:17,640 --> 00:23:19,400
+qui est fortement suspect.
+
+419
+00:23:19,920 --> 00:23:22,540
+Il peut s'agir d'un nodule classé
+
+420
+00:23:22,540 --> 00:23:26,180
+E-thyrade 4, E-thyrade 3 ou E
+
+421
+00:23:26,180 --> 00:23:27,340
+-thyrade 2.
+
+422
+00:23:28,650 --> 00:23:34,130
+Là, vous avez des images qui montrent les
+
+423
+00:23:34,130 --> 00:23:41,430
+différentes caractéristiques faisant suspecter ou faisant classer un
+
+424
+00:23:41,430 --> 00:23:44,470
+nodule E-thyrade 5, comme la forme non
+
+425
+00:23:44,470 --> 00:23:49,150
+ovale, les contours irréguliers, la présence de microcalcifications
+
+426
+00:23:49,150 --> 00:23:52,310
+au sein du nodule et également le caractère
+
+427
+00:23:52,310 --> 00:23:55,470
+hypoécogène très marqué du nodule.
+
+428
+00:23:56,850 --> 00:24:00,410
+Après cette première étape basée sur le dosage
+
+429
+00:24:00,410 --> 00:24:05,270
+de la TSH et l'échographie en précisant
+
+430
+00:24:05,270 --> 00:24:13,670
+le thyrade du nodule, on peut avoir recours
+
+431
+00:24:13,670 --> 00:24:20,710
+à la cytoponction devant un nodule suspect cliniquement
+
+432
+00:24:20,710 --> 00:24:22,190
+et ou échographiquement.
+
+433
+00:24:22,190 --> 00:24:24,790
+Il s'agit d'une étude cytologique à
+
+434
+00:24:24,790 --> 00:24:26,690
+l'aiguille fine qui est l'examen le
+
+435
+00:24:26,690 --> 00:24:27,310
+plus sensible.
+
+436
+00:24:28,450 --> 00:24:30,990
+Comme j'ai dit au début, elle est
+
+437
+00:24:30,990 --> 00:24:34,570
+indispensable pour tous les nodules cliniquement ou échographiquement
+
+438
+00:24:34,570 --> 00:24:35,930
+suspects ou déterminés.
+
+439
+00:24:35,930 --> 00:24:39,430
+Elle permet de reconnaître 50 à 95%
+
+440
+00:24:39,430 --> 00:24:43,490
+des cancers, mais ceci dépend de l'expérience
+
+441
+00:24:43,490 --> 00:24:45,930
+de celui qui va faire la ponction et
+
+442
+00:24:45,930 --> 00:24:48,270
+celui qui va faire la lecture cytologique.
+
+443
+00:24:49,150 --> 00:24:51,590
+Elle contribue à la surveillance des nodules non
+
+444
+00:24:51,590 --> 00:24:52,170
+opérés.
+
+445
+00:24:52,170 --> 00:24:56,070
+La présence des résultats de l'examen cytologique
+
+446
+00:24:56,070 --> 00:24:59,190
+est maintenant codifiée en fonction du référentiel de
+
+447
+00:24:59,190 --> 00:25:01,610
+Bethesda 2017.
+
+448
+00:25:02,330 --> 00:25:06,990
+Chaque classe de ce référentiel fournit une orientation
+
+449
+00:25:06,990 --> 00:25:08,130
+pronostique.
+
+450
+00:25:08,130 --> 00:25:11,850
+Ce qu'il faut retenir, c'est que
+
+451
+00:25:11,850 --> 00:25:13,850
+les nodules thyrodiens sont fréquents.
+
+452
+00:25:14,450 --> 00:25:17,870
+Le risque est heureusement très faible, 5%
+
+453
+00:25:17,870 --> 00:25:20,570
+de risque d'avoir un cancer.
+
+454
+00:25:21,330 --> 00:25:24,610
+Devant tout nodule d'allure isolée, il faut
+
+455
+00:25:24,610 --> 00:25:27,410
+demander d'abord la TSH et l'échographie.
+
+456
+00:25:27,970 --> 00:25:30,990
+Le suivi d'une démarche diagnostique rigoureuse est
+
+457
+00:25:30,990 --> 00:25:33,570
+le meilleur garant pour ne pas passer à
+
+458
+00:25:33,570 --> 00:25:35,630
+côté d'un éventuel cancer.
+
+459
+00:25:37,190 --> 00:25:42,250
+Après avoir parlé des anomalies morphologiques de la
+
+460
+00:25:42,250 --> 00:25:45,610
+thyroïde, notamment les goitres et les nodules, on
+
+461
+00:25:45,610 --> 00:25:49,370
+va aborder un autre chapitre qui va être
+
+462
+00:25:49,370 --> 00:25:54,690
+consacré aux anomalies fonctionnelles et en particulier les
+
+463
+00:25:54,690 --> 00:25:56,250
+hyper- et les hypothyroïdies.
+
+464
+00:25:58,590 --> 00:26:01,890
+On va commencer par la sémiologie des hyperthyroïdies
+
+465
+00:26:01,890 --> 00:26:03,010
+périphériques.
+
+466
+00:26:03,010 --> 00:26:07,630
+Je rappelle que l'hyperthyroïdie périphérique est la
+
+467
+00:26:07,630 --> 00:26:11,850
+conséquence d'une élévation notable des hormones thyroïdiennes,
+
+468
+00:26:12,870 --> 00:26:15,090
+la T4 et la T3.
+
+469
+00:26:15,630 --> 00:26:17,830
+C'est une affection fréquente.
+
+470
+00:26:19,090 --> 00:26:21,850
+A côté des signes d'hyperthyroïdie, qu'on
+
+471
+00:26:21,850 --> 00:26:24,810
+appelle un syndrome thyro-toxicosique ou bien une
+
+472
+00:26:24,810 --> 00:26:27,790
+thyro-toxicose, peuvent se rajouter d'autres signes
+
+473
+00:26:27,790 --> 00:26:29,570
+en rapport avec l'éthiologie.
+
+474
+00:26:30,790 --> 00:26:33,530
+L'intensité des signes dépend de la gravité
+
+475
+00:26:33,530 --> 00:26:35,910
+de l'hyperthyroïdie, de sa durée et du
+
+476
+00:26:35,910 --> 00:26:36,510
+terrain.
+
+477
+00:26:59,570 --> 00:27:03,850
+Ce sont des signes généraux, une thermophobie fréquente
+
+478
+00:27:03,850 --> 00:27:07,330
+associée à une polydipsie conséquente.
+
+479
+00:27:07,830 --> 00:27:11,410
+Les mains sont moites et chaudes et ces
+
+480
+00:27:11,410 --> 00:27:14,190
+signes cliniques sont en rapport avec une production
+
+481
+00:27:14,190 --> 00:27:15,770
+importante de chaleur.
+
+482
+00:27:16,810 --> 00:27:19,890
+En plus des signes généraux, un patient qui
+
+483
+00:27:19,890 --> 00:27:25,450
+est en hyperthyroïdie peut avoir des manifestations cardiovasculaires
+
+484
+00:27:25,450 --> 00:27:27,870
+avec des palpitations au repos.
+
+485
+00:27:28,230 --> 00:27:34,210
+Parfois une tachycardie sinusale qui est permanente, aggravée
+
+486
+00:27:34,210 --> 00:27:35,550
+à l'effort et à l'émotion.
+
+487
+00:27:35,550 --> 00:27:39,590
+Les peaux sont généralement amples et bondissantes.
+
+488
+00:27:40,170 --> 00:27:43,690
+On note aussi une légère élévation de la
+
+489
+00:27:43,690 --> 00:27:46,930
+pression artérielle systolique et parfois un souffle systolique
+
+490
+00:27:46,930 --> 00:27:48,830
+au niveau des grosses artères.
+
+491
+00:27:51,290 --> 00:27:53,850
+En cas d'hyperthyroïdie, on peut avoir également
+
+492
+00:27:53,850 --> 00:27:57,750
+des manifestations digestives avec l'installation d'une
+
+493
+00:27:57,750 --> 00:28:00,650
+diarrhée ou bien disparition d'une constipation chronique
+
+494
+00:28:00,650 --> 00:28:01,170
+connue.
+
+495
+00:28:01,170 --> 00:28:05,670
+Des manifestations neuromusculaires peuvent également se voir au
+
+496
+00:28:05,670 --> 00:28:08,490
+cours d'une hyperthyroïdie avec une amyotrophie des
+
+497
+00:28:08,490 --> 00:28:12,090
+ceintures et des quadriceps, une asthénie musculaire avec
+
+498
+00:28:12,090 --> 00:28:13,430
+difficulté à se relever.
+
+499
+00:28:14,710 --> 00:28:18,390
+Devant tout patient qui présente un syndrome thyro
+
+500
+00:28:18,390 --> 00:28:21,370
+-toxicosique, généralement on recherche le signe du tabouret
+
+501
+00:28:21,370 --> 00:28:25,050
+qui correspond à une manœuvre en demandant au
+
+502
+00:28:25,050 --> 00:28:28,450
+patient de s'accroupir et d'essayer de
+
+503
+00:28:28,450 --> 00:28:31,250
+se relever sans l'aide de ses deux
+
+504
+00:28:31,250 --> 00:28:31,490
+bras.
+
+505
+00:28:32,130 --> 00:28:34,850
+Si le patient réussit à le faire, c
+
+506
+00:28:34,850 --> 00:28:35,090
+'est bon.
+
+507
+00:28:35,710 --> 00:28:37,870
+On peut dire que le signe du tabouret
+
+508
+00:28:37,870 --> 00:28:38,770
+est négatif.
+
+509
+00:28:39,210 --> 00:28:42,070
+S'il n'y arrive pas, le signe
+
+510
+00:28:42,070 --> 00:28:44,130
+du tabouret est considéré comme positif.
+
+511
+00:28:45,550 --> 00:28:49,830
+Toujours en rapport avec les manifestations neuromusculaires, on
+
+512
+00:28:49,830 --> 00:28:52,890
+peut avoir un tremblement d'altitude des extrémités.
+
+513
+00:28:53,350 --> 00:28:55,490
+C'est un tremblement qui est rapide, fin
+
+514
+00:28:55,490 --> 00:28:58,130
+et régulier et qui est très manifeste au
+
+515
+00:28:58,130 --> 00:28:58,670
+niveau des mains.
+
+516
+00:28:58,790 --> 00:29:00,750
+Parfois, il est très discret.
+
+517
+00:29:00,750 --> 00:29:02,790
+On a un recours à ce qu'on
+
+518
+00:29:02,790 --> 00:29:04,730
+appelle le signe du papier.
+
+519
+00:29:06,250 --> 00:29:15,630
+Le patient tend ses deux mains et on
+
+520
+00:29:15,630 --> 00:29:17,830
+pose une feuille de papier sur les deux
+
+521
+00:29:17,830 --> 00:29:17,950
+mains.
+
+522
+00:29:18,410 --> 00:29:20,850
+A travers cette manœuvre, on peut voir s
+
+523
+00:29:20,850 --> 00:29:23,890
+'il y a un tremblement ou non des
+
+524
+00:29:23,890 --> 00:29:24,210
+deux mains.
+
+525
+00:29:25,870 --> 00:29:29,610
+Le patient ou les patients qui ont une
+
+526
+00:29:29,610 --> 00:29:34,730
+hyperthéroïdie peuvent également avoir comme manifestation neuromusculaire une
+
+527
+00:29:34,730 --> 00:29:38,770
+nervosité, une agitation, une insomnie, une irritabilité.
+
+528
+00:29:39,550 --> 00:29:43,190
+Et puis, comme autre manifestation, un patient qui
+
+529
+00:29:43,190 --> 00:29:47,290
+est en hyperthéroïdie peut avoir d'autres signes
+
+530
+00:29:47,290 --> 00:29:51,630
+extra-théroïdiens, en particulier une rétraction de la
+
+531
+00:29:51,630 --> 00:29:55,750
+paupière supérieure, qui est responsable d'une asynergie
+
+532
+00:29:55,750 --> 00:29:56,990
+oculomotrice.
+
+533
+00:29:57,650 --> 00:30:01,970
+Et puis, sans oublier également la présence d
+
+534
+00:30:01,970 --> 00:30:04,670
+'éventuels troubles des règles, d'une dysfonction érexile,
+
+535
+00:30:04,930 --> 00:30:06,630
+une baisse de la libido.
+
+536
+00:30:08,070 --> 00:30:13,030
+Sur cette diapo, vous avez quelques exemples d
+
+537
+00:30:13,030 --> 00:30:17,150
+'ophtalmopathies qu'on peut avoir, qu'on peut
+
+538
+00:30:17,150 --> 00:30:20,150
+voir au cours des hyperthéroïdies.
+
+539
+00:30:21,290 --> 00:30:23,250
+En haut et à gauche, vous avez un
+
+540
+00:30:23,250 --> 00:30:25,950
+éclat de regard avec rétraction palpébrale.
+
+541
+00:30:26,510 --> 00:30:28,890
+En haut et à droite, vous avez une
+
+542
+00:30:28,890 --> 00:30:32,070
+orbitopathie inflammatoire associée à une exophanie.
+
+543
+00:30:32,070 --> 00:30:34,390
+Et en bas et au milieu, vous avez
+
+544
+00:30:34,390 --> 00:30:40,510
+une orbitopathie avec chémosis palpébrale supérieure et intérieure.
+
+545
+00:30:44,790 --> 00:30:48,290
+Devant tout, syndrome thyro-toxicosique ou bien de
+
+546
+00:30:48,290 --> 00:30:52,550
+thyro-toxicose, je rappelle que quand on parle
+
+547
+00:30:52,550 --> 00:30:57,430
+de syndrome thyro-toxicose, c'est sur le
+
+548
+00:30:57,430 --> 00:30:58,270
+plan clinique.
+
+549
+00:30:58,270 --> 00:31:01,710
+Et devant tout syndrome thyro-toxicosique, pour poser
+
+550
+00:31:01,710 --> 00:31:04,590
+le diagnostic d'une hyperthéroïdie, on a besoin
+
+551
+00:31:04,590 --> 00:31:10,130
+de dosages hormonaux, notamment le dosage surtout de
+
+552
+00:31:10,130 --> 00:31:14,050
+la TSH et puis éventuellement qui va être
+
+553
+00:31:14,050 --> 00:31:17,210
+complété par le dosage de la LT4 et
+
+554
+00:31:17,210 --> 00:31:18,490
+ou de la LT3.
+
+555
+00:31:18,490 --> 00:31:22,410
+Et dans le cadre des hyperthéroïdies, pour poser
+
+556
+00:31:22,410 --> 00:31:26,610
+le diagnostic d'une hyperthéroïdie, il faut qu
+
+557
+00:31:26,610 --> 00:31:31,330
+'on ait une TSH basse, parfois très effondrée,
+
+558
+00:31:32,290 --> 00:31:35,730
+en regard ou bien associée à un taux
+
+559
+00:31:35,730 --> 00:31:39,510
+de LT4 élevé et ou de LT3 également
+
+560
+00:31:39,510 --> 00:31:40,050
+élevé.
+
+561
+00:31:40,050 --> 00:31:43,530
+A côté de ces deux signes ou bien
+
+562
+00:31:43,530 --> 00:31:49,210
+de ces deux anomalies hormonales spécifiques, on peut
+
+563
+00:31:49,210 --> 00:31:51,330
+avoir d'autres signes biologiques non spécifiques sous
+
+564
+00:31:51,330 --> 00:31:54,110
+forme d'une leuconotropénie avec une lymphocytose relative,
+
+565
+00:31:54,770 --> 00:31:57,250
+une élévation des enzymes hépatiques, une diminution du
+
+566
+00:31:57,250 --> 00:32:01,830
+cholestérol et des triglycérides, parfois une hypercalcémie modérée
+
+567
+00:32:01,830 --> 00:32:07,810
+et parfois une discrète hyperglycémie mais surtout une
+
+568
+00:32:07,810 --> 00:32:10,030
+aggravation d'un diabète préexistant.
+
+569
+00:32:11,310 --> 00:32:16,710
+Le diagnostic éthiologique généralement se fait en fonction
+
+570
+00:32:16,710 --> 00:32:20,090
+du contexte et il fait appel à l
+
+571
+00:32:20,090 --> 00:32:23,470
+'échographie, la scintigraphie thyruidienne et également le dosage
+
+572
+00:32:23,470 --> 00:32:26,770
+des anticorps, en particulier les anticorps anti-TPO
+
+573
+00:32:26,770 --> 00:32:29,670
+et les anticorps anti-récepteurs de la TSH.
+
+574
+00:32:30,450 --> 00:32:33,110
+Alors ce qu'il faut retenir au terme
+
+575
+00:32:33,110 --> 00:32:35,590
+de cette troisième partie, c'est que le
+
+576
+00:32:35,590 --> 00:32:38,450
+syndrome thyro-toxicosique ou bien thyro-toxicose est
+
+577
+00:32:38,450 --> 00:32:41,770
+la traduction clinique des hyperthyruidies périphériques.
+
+578
+00:32:41,770 --> 00:32:44,850
+Ce syndrome est commun à toutes les éthiologies
+
+579
+00:32:44,850 --> 00:32:45,850
+des hyperthyruidies.
+
+580
+00:32:46,610 --> 00:32:52,930
+Certains signes extrathyruidiens, en particulier les signes ophtalmologiques,
+
+581
+00:32:53,330 --> 00:32:56,330
+peuvent orienter vers l'éthiologie et puis le
+
+582
+00:32:56,330 --> 00:33:00,250
+diagnostic positif repose sur le couple TSH-LT4
+
+583
+00:33:00,250 --> 00:33:01,150
+et ou LT3.
+
+584
+00:33:04,960 --> 00:33:08,940
+Alors l'hypothyruidie c'est l'ensemble des
+
+585
+00:33:08,940 --> 00:33:13,020
+manifestations liées à l'insuffisance, l'imperfection ou
+
+586
+00:33:13,020 --> 00:33:15,420
+la non-utilisation de la sécrétion thyruidienne.
+
+587
+00:33:16,100 --> 00:33:18,100
+Elle est bien évidemment plus courante chez la
+
+588
+00:33:18,100 --> 00:33:20,020
+femme de plus de 50 ans.
+
+589
+00:33:20,920 --> 00:33:24,780
+Sur le plan clinique, les manifestations sont classées
+
+590
+00:33:24,780 --> 00:33:25,860
+en deux catégories.
+
+591
+00:33:27,000 --> 00:33:29,140
+Il y a des signes cutanio-muqueux et
+
+592
+00:33:29,140 --> 00:33:30,940
+des signes d'hypométabolisme.
+
+593
+00:33:31,580 --> 00:33:35,260
+Alors le syndrome cutanio-muqueux correspond à l
+
+594
+00:33:35,260 --> 00:33:40,960
+'infiltration du cutanio-muqueuse qui réalise le tableau
+
+595
+00:33:40,960 --> 00:33:41,680
+de Myxoderm.
+
+596
+00:33:41,680 --> 00:33:45,360
+Elle concerne la peau, les tissus sous-cutanés
+
+597
+00:33:45,360 --> 00:33:47,500
+et les muqueuses et l'effet de substances
+
+598
+00:33:47,500 --> 00:33:50,000
+mycoïdes riches en mycopolysaccharides.
+
+599
+00:33:50,940 --> 00:33:54,280
+Ainsi, on peut avoir chez un patient qui
+
+600
+00:33:54,280 --> 00:33:56,200
+est en hypothyruidie une infiltration de la peau
+
+601
+00:33:56,200 --> 00:34:00,280
+qui devient sèche, pâle ou jaunâtre, squameuse, le
+
+602
+00:34:00,280 --> 00:34:03,180
+visage est arrondi avec les lèvres épaissies, les
+
+603
+00:34:03,180 --> 00:34:08,380
+paupières sont parfois oedématiques, les creux susclaviculaires sont
+
+604
+00:34:08,380 --> 00:34:11,159
+comblés et les mains et les pieds boudinés.
+
+605
+00:34:11,800 --> 00:34:14,860
+Sur le plan des muqueuses, on peut avoir
+
+606
+00:34:14,860 --> 00:34:18,179
+une infiltration des cordes vocales responsables d'une
+
+607
+00:34:18,179 --> 00:34:20,719
+rossité de la voix et des ronflements nocturnes,
+
+608
+00:34:20,900 --> 00:34:25,139
+une hypoacosie secondaire à l'infiltration de la
+
+609
+00:34:25,139 --> 00:34:31,300
+trempe de stache, une macroglossie secondaire à une
+
+610
+00:34:31,300 --> 00:34:33,900
+infiltration de la muqueuse ou bien de la
+
+611
+00:34:33,900 --> 00:34:34,440
+langue.
+
+612
+00:34:36,920 --> 00:34:39,659
+L'infiltration de la face dorsale des mains
+
+613
+00:34:39,659 --> 00:34:43,620
+peut être responsable d'un syndrome du canal
+
+614
+00:34:43,620 --> 00:34:44,139
+carpien.
+
+615
+00:34:45,139 --> 00:34:47,840
+Au niveau du visage, on peut avoir une
+
+616
+00:34:47,840 --> 00:34:51,320
+infiltration pouvant donner un aspect de faciès lunaire
+
+617
+00:34:51,320 --> 00:34:54,540
+et sans oublier les troubles dépannaires sous forme
+
+618
+00:34:54,540 --> 00:34:56,920
+d'une dépilation de la queue des sourcils,
+
+619
+00:34:57,080 --> 00:34:59,540
+des cheveux secs et cassants et parfois une
+
+620
+00:34:59,540 --> 00:35:01,660
+dépilation pubienne et axillaire.
+
+621
+00:35:02,560 --> 00:35:08,360
+Concernant le syndrome d'hypométabolisme, elle se manifeste
+
+622
+00:35:08,360 --> 00:35:11,120
+par un ralentissement global des différentes fonctions de
+
+623
+00:35:11,120 --> 00:35:12,140
+l'organisme.
+
+624
+00:35:12,140 --> 00:35:16,320
+Chez le patient qui est en hypothyroidie, on
+
+625
+00:35:16,320 --> 00:35:19,660
+peut avoir une asthénie physique, intellectuelle et sexuelle,
+
+626
+00:35:19,780 --> 00:35:23,620
+un ralentissement psychomoteur, l'idéation avec des troubles
+
+627
+00:35:23,620 --> 00:35:27,100
+de concentration et une somnolence, parfois une frilosité
+
+628
+00:35:27,100 --> 00:35:32,660
+précoce, une bradycardie associée parfois à une insuffisance
+
+629
+00:35:32,660 --> 00:35:37,300
+coronaire rarement symptomatique ou bien une asthéia diastolique,
+
+630
+00:35:38,060 --> 00:35:42,120
+une constipation et également une diminution de la
+
+631
+00:35:42,120 --> 00:35:42,220
+puissance.
+
+632
+00:35:48,800 --> 00:35:55,010
+En plus des signes cutanium muqueux et des
+
+633
+00:35:55,010 --> 00:35:57,770
+signes ou bien du syndrome d'hypométabolisme, on
+
+634
+00:35:57,770 --> 00:36:01,070
+peut avoir un ralentissement endocrinien dans le cadre
+
+635
+00:36:01,070 --> 00:36:04,910
+des hypothyroidies avec une galactorie qui reste rare
+
+636
+00:36:04,910 --> 00:36:08,770
+et qui se voit généralement quand on a
+
+637
+00:36:08,770 --> 00:36:13,090
+une hyperprolaxinémie en cas d'hypothyroidie primaire profonde.
+
+638
+00:36:13,090 --> 00:36:16,670
+Donc c'est une hyperprolaxinémie secondaire à l
+
+639
+00:36:16,670 --> 00:36:20,250
+'hypothyroidie profonde avec un TSA généralement supérieur à
+
+640
+00:36:20,250 --> 00:36:21,830
+50 mL par litre.
+
+641
+00:36:22,670 --> 00:36:24,490
+Et puis on peut également avoir des troubles
+
+642
+00:36:24,490 --> 00:36:27,370
+des règles sous forme d'oligoménorrhées, de ménorragie,
+
+643
+00:36:27,470 --> 00:36:30,370
+d'anovulation et aussi des troubles de la
+
+644
+00:36:30,370 --> 00:36:30,650
+libido.
+
+645
+00:36:31,470 --> 00:36:35,250
+Là sur cette diapositive vous avez deux photos.
+
+646
+00:36:35,370 --> 00:36:38,610
+La première à gauche qui montre les signes
+
+647
+00:36:38,610 --> 00:36:43,330
+d'infiltration au niveau du visage avec aussi
+
+648
+00:36:43,330 --> 00:36:45,950
+la perte de la queue des sourcils.
+
+649
+00:36:46,490 --> 00:36:49,530
+Et puis à droite vous avez un mixe
+
+650
+00:36:49,530 --> 00:36:52,290
+d'EDEM des pieds.
+
+651
+00:36:52,590 --> 00:36:54,230
+Il faut savoir qu'il y a une
+
+652
+00:36:54,230 --> 00:36:56,750
+différence entre le mixe d'EDEM et l
+
+653
+00:36:56,750 --> 00:36:57,010
+'EDEM.
+
+654
+00:36:58,840 --> 00:37:02,200
+Alors au niveau thyroïdien, en fonction de l
+
+655
+00:37:02,200 --> 00:37:04,280
+'éthiologie, on trouve soit un gout soit à
+
+656
+00:37:04,280 --> 00:37:07,360
+l'inverse une atrophie glandulaire.
+
+657
+00:37:08,000 --> 00:37:13,820
+Et sur le plan paraclinique, la confirmation de
+
+658
+00:37:13,820 --> 00:37:16,120
+l'hyperthyroïdie fait appel au dosage de la
+
+659
+00:37:16,120 --> 00:37:20,140
+TSH qui va revenir élevé en présence d
+
+660
+00:37:20,140 --> 00:37:21,420
+'une hypothyroïdie périphérique.
+
+661
+00:37:21,420 --> 00:37:24,100
+La T4 est abaissée et n'a d
+
+662
+00:37:24,100 --> 00:37:26,000
+'intérêt que d'en évaluer la profondeur.
+
+663
+00:37:26,120 --> 00:37:28,100
+C'est pas la peine de demander le
+
+664
+00:37:28,100 --> 00:37:31,140
+couple TSH T4 devant la suspicion d'une
+
+665
+00:37:31,140 --> 00:37:31,780
+hypothyroïdie.
+
+666
+00:37:32,020 --> 00:37:36,020
+Seule la TSH est largement suffisante, mais généralement
+
+667
+00:37:36,020 --> 00:37:39,340
+on demande aussi la T4 pour avoir une
+
+668
+00:37:39,340 --> 00:37:42,220
+idée sur la profondeur de cette hypothyroïdie.
+
+669
+00:37:43,220 --> 00:37:46,000
+Par contre, dans l'insuffisance thyreotrope, la TSH
+
+670
+00:37:46,000 --> 00:37:48,820
+peut être normale ou basse et la T4
+
+671
+00:37:48,820 --> 00:37:50,820
+libre, en regard, est abaissée.
+
+672
+00:37:52,800 --> 00:37:56,480
+Alors sur le plan biologique, comme signe biologiquement
+
+673
+00:37:56,480 --> 00:37:58,940
+spécifique, il peut y avoir une anémie souvent
+
+674
+00:37:58,940 --> 00:38:05,840
+macrocytaire, une hypercholestérolémie, parfois une hypertriglycéridémie, une
+
+675
+00:38:05,840 --> 00:38:08,640
+hypothalatémie de dilution qui peut être très profonde,
+
+676
+00:38:09,900 --> 00:38:13,500
+et parfois une augmentation des transaminases, et comme
+
+677
+00:38:13,500 --> 00:38:15,000
+j'ai dit tout à l'heure, parfois
+
+678
+00:38:15,000 --> 00:38:18,980
+également, c'est rare, une hyperprolactinémie secondaire, une
+
+679
+00:38:18,980 --> 00:38:21,580
+hypothyroïdie périphérique qui est très profonde.
+
+680
+00:38:21,580 --> 00:38:25,840
+Et on peut avoir également d'autres anomalies
+
+681
+00:38:25,840 --> 00:38:29,960
+paracliniques, comme un microvoltage ou bien un aplatissement,
+
+682
+00:38:30,180 --> 00:38:33,280
+une inversion des entées à l'ECG, et
+
+683
+00:38:33,280 --> 00:38:38,000
+une cardiomégalie par infiltration du péricâtre sur la
+
+684
+00:38:38,000 --> 00:38:41,320
+radio du thorax ou bien l'échographie thoracique
+
+685
+00:38:41,320 --> 00:38:42,680
+cardiaque.
+
+686
+00:38:44,250 --> 00:38:46,550
+Alors à la fin, ce qu'il faut
+
+687
+00:38:46,550 --> 00:38:48,770
+retenir, c'est que le mixe d'œdème
+
+688
+00:38:48,770 --> 00:38:51,790
+putané et ferme ne prend pas le godet,
+
+689
+00:38:52,630 --> 00:38:55,170
+il faut le différencier de l'œdème habituel
+
+690
+00:38:55,170 --> 00:38:58,110
+qui est généralement mou, il prend le godet,
+
+691
+00:38:58,710 --> 00:39:01,410
+la prise de poids modérée observée dans l
+
+692
+00:39:01,410 --> 00:39:03,610
+'hypothyroïdie est due à l'infiltration alors que
+
+693
+00:39:03,610 --> 00:39:08,610
+l'appétit est diminué, et puis à la
+
+694
+00:39:08,610 --> 00:39:12,010
+fin, la confirmation hormonale de l'hypothyroïdie périphérique
+
+695
+00:39:12,010 --> 00:39:15,150
+fait appel à la TSH seule et l
+
+696
+00:39:15,150 --> 00:39:18,550
+'hypothyroïdie centrale nécessite le dosage du couple hormonal
+
+697
+00:39:18,550 --> 00:39:20,550
+TSH et LT4.
+
+698
+00:39:20,810 --> 00:39:22,670
+Je vous remercie pour votre attention.

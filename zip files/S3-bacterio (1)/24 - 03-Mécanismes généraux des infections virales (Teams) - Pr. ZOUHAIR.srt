@@ -1,0 +1,3031 @@
+1
+00:00:11,110 --> 00:00:13,070
+Alors le troisième cours, c'est les mécanismes
+
+2
+00:00:13,070 --> 00:00:14,730
+généraux des infections virales.
+
+3
+00:00:25,200 --> 00:00:28,060
+Alors les mécanismes généraux des infections virales, en
+
+4
+00:00:28,060 --> 00:00:33,160
+fait, on doit d'abord définir l'infection.
+
+5
+00:00:33,300 --> 00:00:35,120
+L'infection virale, c'est quoi en fait
+
+6
+00:00:35,120 --> 00:00:35,980
+?
+
+7
+00:00:35,980 --> 00:00:40,120
+En fait, c'est l'interaction entre deux,
+
+8
+00:00:40,860 --> 00:00:43,520
+le virus et l'organisme, notre organisme et
+
+9
+00:00:43,520 --> 00:00:43,940
+le virus.
+
+10
+00:00:43,940 --> 00:00:46,900
+Mais pour le virus, il a sa virulence,
+
+11
+00:00:47,400 --> 00:00:51,640
+donc il a cette capacité à être pathogène,
+
+12
+00:00:52,040 --> 00:00:55,320
+à être virulent, et la réponse de l
+
+13
+00:00:55,320 --> 00:00:55,420
+'autre.
+
+14
+00:00:55,820 --> 00:00:58,540
+L'autre, notre organisme, comment il va répondre
+
+15
+00:00:58,540 --> 00:00:59,960
+à cette attaque ?
+
+16
+00:01:00,660 --> 00:01:03,480
+Donc c'est en fait cette interaction entre
+
+17
+00:01:03,480 --> 00:01:10,180
+la virulence du virus et la réponse de
+
+18
+00:01:10,180 --> 00:01:10,480
+l'autre.
+
+19
+00:01:10,640 --> 00:01:12,340
+L'autre, c'est notre organisme, c'est
+
+20
+00:01:12,340 --> 00:01:12,500
+nous.
+
+21
+00:01:14,400 --> 00:01:17,980
+Ces deux-là vont interagir, la virulence du
+
+22
+00:01:17,980 --> 00:01:20,720
+virus avec la réponse de l'autre, pour
+
+23
+00:01:20,720 --> 00:01:22,560
+donner ou pas l'infection.
+
+24
+00:01:23,360 --> 00:01:26,720
+Et ça en fait, il ne suffit pas
+
+25
+00:01:26,720 --> 00:01:29,220
+que le virus pénètre dans l'organisme ou
+
+26
+00:01:29,220 --> 00:01:30,520
+qu'il soit en contact avec l'organisme
+
+27
+00:01:30,520 --> 00:01:31,400
+pour qu'il y ait infection.
+
+28
+00:01:31,640 --> 00:01:32,040
+Pas du tout.
+
+29
+00:01:32,580 --> 00:01:35,240
+Il y a des facteurs qui vont définir
+
+30
+00:01:35,240 --> 00:01:37,240
+ou pas le démarrage de l'infection.
+
+31
+00:01:38,780 --> 00:01:41,340
+Et donc, la virulence du virus, elle dépend
+
+32
+00:01:41,340 --> 00:01:42,180
+de quoi ?
+
+33
+00:01:42,180 --> 00:01:44,180
+De la quantité du virus dans l'inoculum.
+
+34
+00:01:44,700 --> 00:01:50,100
+Quantité du virus dans cette quantité qui va
+
+35
+00:01:50,100 --> 00:01:53,180
+infecter, à laquelle notre organisme va être en
+
+36
+00:01:53,180 --> 00:01:53,380
+contact.
+
+37
+00:01:54,540 --> 00:01:56,140
+Est-ce que la concentration est élevée ?
+
+38
+00:01:56,140 --> 00:01:57,560
+Est-ce que la charge est élevée ou
+
+39
+00:01:57,560 --> 00:01:57,980
+pas ?
+
+40
+00:01:57,980 --> 00:01:59,000
+Est-ce que c'est une petite charge,
+
+41
+00:01:59,120 --> 00:01:59,320
+etc.
+
+42
+00:01:59,960 --> 00:02:01,980
+Donc cette virulence, plus bien sûr la charge
+
+43
+00:02:01,980 --> 00:02:04,700
+est élevée, plus la virulence est importante et
+
+44
+00:02:04,700 --> 00:02:06,440
+donc la pathogénicité est importante.
+
+45
+00:02:08,830 --> 00:02:10,510
+Sa voie d'introduction dans l'organisme, par
+
+46
+00:02:10,510 --> 00:02:12,810
+exemple, si on prend un virus de la
+
+47
+00:02:12,810 --> 00:02:16,630
+grippe, ça passe par voie orale, par exemple,
+
+48
+00:02:16,830 --> 00:02:22,270
+je ne sais pas, ou sur la peau,
+
+49
+00:02:22,370 --> 00:02:24,570
+par exemple, il ne va pas pénétrer, d
+
+50
+00:02:24,570 --> 00:02:24,870
+'accord ?
+
+51
+00:02:24,870 --> 00:02:29,150
+Parce qu'il ne trouvera pas les cellules
+
+52
+00:02:29,150 --> 00:02:31,410
+ciblées, qui sont dans l'arbre respiratoire cilié,
+
+53
+00:02:32,330 --> 00:02:32,910
+d'accord ?
+
+54
+00:02:37,320 --> 00:02:39,060
+Donc la voie d'introduction du virus dans
+
+55
+00:02:39,060 --> 00:02:40,380
+l'organisme est importante.
+
+56
+00:02:40,380 --> 00:02:44,600
+Et la vitesse de multiplication.
+
+57
+00:02:45,520 --> 00:02:47,040
+Il y a des virus qui vont prendre
+
+58
+00:02:47,040 --> 00:02:49,440
+40 heures pour faire un seul cycle.
+
+59
+00:02:50,500 --> 00:02:52,660
+Le cycle, quand on parle de cycle, fait
+
+60
+00:02:52,660 --> 00:03:01,790
+l'attachement, pénétration, décapsitation, réplication, traduction, assemblage,
+
+61
+00:03:01,790 --> 00:03:04,170
+maturation, relargage ou libération.
+
+62
+00:03:05,750 --> 00:03:07,910
+Un cycle, ça c'est un cycle de
+
+63
+00:03:07,910 --> 00:03:08,930
+multiplication virale.
+
+64
+00:03:10,880 --> 00:03:13,800
+Et donc il y a toutes ces étapes,
+
+65
+00:03:13,940 --> 00:03:14,720
+il y en a des virus qui le
+
+66
+00:03:14,720 --> 00:03:16,860
+font en deux heures, pour produire des milliers
+
+67
+00:03:16,860 --> 00:03:17,960
+de copies de virus.
+
+68
+00:03:18,900 --> 00:03:19,700
+Il y en a qui le font en
+
+69
+00:03:19,700 --> 00:03:20,340
+40 heures.
+
+70
+00:03:21,660 --> 00:03:23,620
+Et donc celui qui va faire deux heures,
+
+71
+00:03:23,760 --> 00:03:25,000
+ce n'est pas pareil que celui qui
+
+72
+00:03:25,000 --> 00:03:26,040
+va faire 40 heures, parce qu'il y
+
+73
+00:03:26,040 --> 00:03:28,180
+a notre organisme qui se défend, d'accord
+
+74
+00:03:28,180 --> 00:03:28,820
+?
+
+75
+00:03:28,820 --> 00:03:31,180
+Plus il est lent à se multiplier, plus
+
+76
+00:03:31,180 --> 00:03:35,000
+nous avons suffisamment de temps pour que notre
+
+77
+00:03:35,000 --> 00:03:37,980
+organisme s'organise, pour qu'il puisse attaquer
+
+78
+00:03:37,980 --> 00:03:39,860
+et pour répondre à cette attaque.
+
+79
+00:03:39,860 --> 00:03:42,300
+Avant qu'il y ait des milliers ou
+
+80
+00:03:42,300 --> 00:03:43,880
+des millions de copies de virus.
+
+81
+00:03:45,100 --> 00:03:48,200
+Donc la vitesse de multiplication fait partie intégrante
+
+82
+00:03:48,200 --> 00:03:51,100
+de la capacité ou de la virulence de
+
+83
+00:03:51,100 --> 00:03:51,580
+ce virus.
+
+84
+00:03:53,600 --> 00:03:55,660
+Donc la quantité de virus dans l'inoculum,
+
+85
+00:03:55,740 --> 00:03:57,720
+la voie d'introduction dans l'organisme et
+
+86
+00:03:57,720 --> 00:03:58,060
+la vitesse.
+
+87
+00:03:58,280 --> 00:03:59,740
+Ça c'est le premier paramètre qui va
+
+88
+00:03:59,740 --> 00:04:00,840
+conditionner l'infection.
+
+89
+00:04:02,460 --> 00:04:03,740
+Et puis la réponse de l'autre, elle
+
+90
+00:04:03,740 --> 00:04:05,420
+dépend de quoi en fait ?
+
+91
+00:04:05,420 --> 00:04:06,760
+Elle dépend d'abord de l'âge.
+
+92
+00:04:06,760 --> 00:04:09,420
+La réponse d'un nourrissant, ce n'est
+
+93
+00:04:09,420 --> 00:04:11,480
+pas la même chose qu'un sujet jeune,
+
+94
+00:04:11,920 --> 00:04:13,700
+qu'un sujet âgé.
+
+95
+00:04:15,120 --> 00:04:18,480
+Bien sûr que la maturation de l'immunité,
+
+96
+00:04:18,760 --> 00:04:20,480
+enfin il y a beaucoup de paramètres, l
+
+97
+00:04:20,480 --> 00:04:22,500
+'âge, sont intégrés dans l'âge.
+
+98
+00:04:23,300 --> 00:04:23,880
+La nutrition.
+
+99
+00:04:25,520 --> 00:04:30,440
+Alors bien sûr, l'état nutritionnel d'une
+
+100
+00:04:30,440 --> 00:04:34,160
+population est capital pour définir ou pas, bien
+
+101
+00:04:34,160 --> 00:04:36,360
+sûr, la capacité de réponse.
+
+102
+00:04:36,360 --> 00:04:40,620
+Parce que c'est l'alimentation qui est
+
+103
+00:04:40,620 --> 00:04:45,060
+bien sûr importante pour produire les protéines, pour
+
+104
+00:04:45,060 --> 00:04:49,900
+produire suffisamment de choses importantes pour l'organisme,
+
+105
+00:04:50,420 --> 00:04:52,640
+pour la défense de l'organisme.
+
+106
+00:04:52,700 --> 00:04:55,580
+Plus l'état nutritionnel est mauvais, plus la
+
+107
+00:04:55,580 --> 00:04:58,640
+réponse de l'autre est faible.
+
+108
+00:05:01,440 --> 00:05:02,260
+L'état immoral.
+
+109
+00:05:02,900 --> 00:05:05,300
+Pareil aussi, l'état immoral, est-ce que
+
+110
+00:05:05,300 --> 00:05:08,260
+le sujet est immunocompétent ou immunodéprimé ?
+
+111
+00:05:09,040 --> 00:05:10,760
+C'est important, est-ce que le sujet
+
+112
+00:05:10,760 --> 00:05:12,900
+immunocompétent, il a la capacité de produire des
+
+113
+00:05:12,900 --> 00:05:15,740
+anticorps, d'autres qui sont immunodéprimés, ils n
+
+114
+00:05:15,740 --> 00:05:17,600
+'ont pas la capacité de produire des anticorps,
+
+115
+00:05:17,920 --> 00:05:21,040
+et donc ils vont avoir une réponse faible,
+
+116
+00:05:21,380 --> 00:05:23,260
+voire pas de réponse, et donc l'infection
+
+117
+00:05:23,260 --> 00:05:24,240
+s'installe très rapidement.
+
+118
+00:05:26,920 --> 00:05:28,180
+La race, parce qu'il y a des
+
+119
+00:05:28,180 --> 00:05:30,580
+virus qui vont sévir chez certaines races, pas
+
+120
+00:05:30,580 --> 00:05:34,200
+chez d'autres, comme la fièvre jaune en
+
+121
+00:05:34,200 --> 00:05:37,480
+Afrique subsaharienne, par exemple, ou la lancéphalite japonaise,
+
+122
+00:05:37,920 --> 00:05:41,040
+c'est la race jaune, etc., mais ça
+
+123
+00:05:41,040 --> 00:05:45,420
+ne diffuse pas dans les autres parties du
+
+124
+00:05:45,420 --> 00:05:47,320
+globe, mais lorsqu'on va dans cette région,
+
+125
+00:05:47,760 --> 00:05:49,060
+quelle que soit notre race, on peut être
+
+126
+00:05:49,060 --> 00:05:51,620
+infecté, et donc c'est pour ça qu
+
+127
+00:05:51,620 --> 00:05:55,320
+'on considère que c'est une zone géographique
+
+128
+00:05:55,320 --> 00:05:56,060
+beaucoup plus que la race.
+
+129
+00:05:58,400 --> 00:06:00,600
+Malgré le fait que les autres races sont
+
+130
+00:06:00,600 --> 00:06:02,360
+infectées, ils ne diffusent pas dans les autres
+
+131
+00:06:02,360 --> 00:06:03,060
+zones géographiques.
+
+132
+00:06:04,020 --> 00:06:05,340
+Donc il y a une notion raciale aussi
+
+133
+00:06:05,340 --> 00:06:07,740
+par rapport à la réponse de l'hôte
+
+134
+00:06:07,740 --> 00:06:09,980
+pour certains virus.
+
+135
+00:06:10,200 --> 00:06:18,220
+La température extérieure, c'est l'été ou
+
+136
+00:06:18,220 --> 00:06:19,820
+l'hiver, par exemple, il y a des
+
+137
+00:06:19,820 --> 00:06:23,100
+virus qui vont sévir en hiver, ou dans
+
+138
+00:06:23,100 --> 00:06:25,840
+la saison autonome hivernale, par rapport à d
+
+139
+00:06:25,840 --> 00:06:27,180
+'autres qui vont sévir l'été ou le
+
+140
+00:06:27,180 --> 00:06:28,220
+printemps.
+
+141
+00:06:28,720 --> 00:06:33,760
+Les virus respiratoires, en général, la grippe ou
+
+142
+00:06:33,760 --> 00:06:36,620
+entre autres, sévissent particulièrement dans la saison hivernale,
+
+143
+00:06:37,140 --> 00:06:38,060
+par exemple.
+
+144
+00:06:38,680 --> 00:06:43,660
+Donc la température extérieure, c'est un facteur,
+
+145
+00:06:44,000 --> 00:06:46,700
+bien sûr, de réponse de l'hôte aussi.
+
+146
+00:06:52,110 --> 00:06:56,830
+Donc tous ces éléments-là, les facteurs de
+
+147
+00:06:56,830 --> 00:06:58,910
+la virulence avec les facteurs de la réponse
+
+148
+00:06:58,910 --> 00:07:02,210
+de l'hôte, vont interagir pour donner ou
+
+149
+00:07:02,210 --> 00:07:03,110
+pas une infection.
+
+150
+00:07:04,450 --> 00:07:04,870
+Tout ça.
+
+151
+00:07:06,610 --> 00:07:09,230
+La quantité du virus dans l'organisme, la
+
+152
+00:07:09,230 --> 00:07:11,410
+voie d'introduction dans l'organisme, la vitesse
+
+153
+00:07:11,410 --> 00:07:14,050
+de multiplication du virus vont interagir avec l
+
+154
+00:07:14,050 --> 00:07:17,190
+'âge, l'état nutritionnel du patient, est-ce
+
+155
+00:07:17,190 --> 00:07:20,390
+qu'il est immunodéprimé ou pas, la température
+
+156
+00:07:20,390 --> 00:07:21,250
+extérieure, etc.
+
+157
+00:07:33,080 --> 00:07:35,480
+Alors le réservoir, on sait très bien que
+
+158
+00:07:35,480 --> 00:07:37,260
+ça peut être l'homme malade, qui n
+
+159
+00:07:37,260 --> 00:07:39,460
+'est pas malade, qui a une infection inapparente,
+
+160
+00:07:39,540 --> 00:07:41,080
+ça peut être l'animal aussi, ça vous
+
+161
+00:07:41,080 --> 00:07:41,420
+savez.
+
+162
+00:07:42,740 --> 00:07:45,420
+Et donc le virus peut passer directement d
+
+163
+00:07:45,420 --> 00:07:46,640
+'un individu à l'autre ou via le
+
+164
+00:07:46,640 --> 00:07:47,300
+milieu extérieur.
+
+165
+00:07:50,280 --> 00:07:53,520
+Les virus fragiles sont pourvus d'enveloppes, c
+
+166
+00:07:53,520 --> 00:07:56,700
+'est une notion qu'on peut revoir aussi.
+
+167
+00:08:06,460 --> 00:08:08,460
+Donc pour provoquer une maladie, on a bien
+
+168
+00:08:08,460 --> 00:08:10,340
+dit tout à l'heure, il faut que
+
+169
+00:08:10,340 --> 00:08:13,380
+le virus atteigne la porte d'entrée de
+
+170
+00:08:13,380 --> 00:08:13,860
+l'organisme.
+
+171
+00:08:14,000 --> 00:08:15,960
+Trouver les récepteurs, pénétrer, s'y multiplier.
+
+172
+00:08:16,360 --> 00:08:17,240
+On a vu ça déjà.
+
+173
+00:08:20,030 --> 00:08:22,290
+Alors il y a plusieurs voies d'introduction,
+
+174
+00:08:22,610 --> 00:08:24,230
+de pénétration du virus dans l'organisme.
+
+175
+00:08:25,210 --> 00:08:29,770
+Elles sont nombreuses, mais celle qui prédomine c
+
+176
+00:08:29,770 --> 00:08:31,150
+'est les voies respiratoires et les voies digestives.
+
+177
+00:08:31,929 --> 00:08:32,950
+Mais il y a d'autres voies bien
+
+178
+00:08:32,950 --> 00:08:33,110
+sûr.
+
+179
+00:08:33,210 --> 00:08:34,250
+La voie respiratoire.
+
+180
+00:08:45,110 --> 00:08:49,330
+Dans la voie respiratoire, il y a les
+
+181
+00:08:49,330 --> 00:08:52,470
+virus qui vont pénétrer par cette voie, comme
+
+182
+00:08:52,470 --> 00:08:57,030
+le virus de la grippe par exemple, l
+
+183
+00:08:57,030 --> 00:08:59,830
+'influenza virus, ou le rhinovirus, le virus du
+
+184
+00:08:59,830 --> 00:09:04,210
+rhume par exemple, qui vont donner une infection
+
+185
+00:09:04,210 --> 00:09:05,710
+respiratoire localisée.
+
+186
+00:09:07,290 --> 00:09:09,530
+Mais d'autres comme la varicelle, Vouchouika par
+
+187
+00:09:09,530 --> 00:09:14,580
+exemple, ils pénètrent par la voie respiratoire, ou
+
+188
+00:09:14,580 --> 00:09:20,440
+par exemple le virus de la rougeole, il
+
+189
+00:09:20,440 --> 00:09:23,100
+va pénétrer par la voie respiratoire, mais il
+
+190
+00:09:23,100 --> 00:09:25,760
+va donner une infection généralisée à point de
+
+191
+00:09:25,760 --> 00:09:28,040
+départ respiratoire, mais en fait il a d
+
+192
+00:09:28,040 --> 00:09:28,820
+'autres tissus cibles.
+
+193
+00:09:28,920 --> 00:09:29,680
+On va voir par la suite.
+
+194
+00:09:32,080 --> 00:09:44,000
+Donc vous avez ici la multiplication qui va
+
+195
+00:09:44,000 --> 00:09:47,380
+pénétrer dans d'autres cellules à côté, ce
+
+196
+00:09:47,380 --> 00:09:48,640
+qui est à l'origine de la nécrose
+
+197
+00:09:48,640 --> 00:09:50,780
+cellulaire, de l'inflammation, etc.
+
+198
+00:09:50,780 --> 00:09:54,420
+Et donc cette réaction inflammatoire avec une toux,
+
+199
+00:09:54,480 --> 00:09:57,500
+éternuement, pour dégager en fait cet encombrement.
+
+200
+00:10:02,660 --> 00:10:04,620
+D'autres vont diffuser, bien sûr, une fois
+
+201
+00:10:04,620 --> 00:10:06,540
+dans l'arbre respiratoire, ils vont pénétrer par
+
+202
+00:10:06,540 --> 00:10:10,360
+les capillaires lymphatiques vers le gonglion lymphatique, qui
+
+203
+00:10:10,360 --> 00:10:13,520
+va lui permettre de passer dans le torrent
+
+204
+00:10:13,520 --> 00:10:16,120
+sanguin avant d'atteindre les tissus cibles, comme
+
+205
+00:10:16,120 --> 00:10:19,440
+celui de la varicelle ou la rougeole pour
+
+206
+00:10:19,440 --> 00:10:20,300
+la peau par exemple.
+
+207
+00:10:23,600 --> 00:10:25,760
+Ça c'est la première, on a vu
+
+208
+00:10:25,760 --> 00:10:29,380
+la voie de pénétration par voie respiratoire.
+
+209
+00:10:29,760 --> 00:10:35,960
+La voie digestive, après la voie respiratoire, c
+
+210
+00:10:35,960 --> 00:10:37,640
+'est l'une des principales voies de pénétration
+
+211
+00:10:37,640 --> 00:10:42,540
+par l'ingestion de l'eau contaminée ou
+
+212
+00:10:42,540 --> 00:10:43,600
+des aliments contaminés.
+
+213
+00:10:50,640 --> 00:10:52,140
+C'est comme le rotavirus, etc.
+
+214
+00:10:52,140 --> 00:10:55,920
+Donc ça, ça se transmet par les mains
+
+215
+00:10:55,920 --> 00:10:57,300
+sales, etc.
+
+216
+00:10:58,080 --> 00:10:59,840
+Il y a plusieurs virus qui sont transmis
+
+217
+00:10:59,840 --> 00:11:00,820
+par cette voie.
+
+218
+00:11:01,180 --> 00:11:02,600
+Vous avez des exemples, je vous ai laissé
+
+219
+00:11:02,600 --> 00:11:03,160
+des exemples.
+
+220
+00:11:03,480 --> 00:11:04,320
+On n'est pas là en train de
+
+221
+00:11:04,320 --> 00:11:06,440
+refaire les cours, on est en train de
+
+222
+00:11:06,440 --> 00:11:07,680
+passer l'essentiel.
+
+223
+00:11:10,270 --> 00:11:15,510
+La peau est une barrière infranchissable, lorsqu'elle
+
+224
+00:11:15,510 --> 00:11:17,830
+est intacte, bien sûr, elle est infranchissable en
+
+225
+00:11:17,830 --> 00:11:19,830
+général, sauf s'il y a une brèche
+
+226
+00:11:19,830 --> 00:11:20,530
+ou une lésion.
+
+227
+00:11:23,730 --> 00:11:26,210
+Regardez ici par exemple, vous avez plusieurs types.
+
+228
+00:11:27,390 --> 00:11:29,930
+Là, par exemple, la morsure du chien qui
+
+229
+00:11:29,930 --> 00:11:31,670
+peut faire passer le virus de la rage.
+
+230
+00:11:33,250 --> 00:11:36,590
+Les seringues, lorsqu'elles sont contaminées, particulièrement chez
+
+231
+00:11:36,590 --> 00:11:39,770
+les toxicomanes, elles peuvent faire passer l'hépatite
+
+232
+00:11:39,770 --> 00:11:41,570
+B, l'hépatite C, le VIH.
+
+233
+00:11:42,390 --> 00:11:44,730
+Encore les moustiques qui font passer aussi des
+
+234
+00:11:44,730 --> 00:11:47,030
+virus comme les arbovirus, comme le virus de
+
+235
+00:11:47,030 --> 00:11:48,430
+la fièvre jaune, le virus de la dengue
+
+236
+00:11:48,430 --> 00:11:48,950
+par exemple.
+
+237
+00:11:50,350 --> 00:11:52,350
+Et donc la peau est une voie de
+
+238
+00:11:52,350 --> 00:11:56,450
+pénétration lorsqu'elle est altérée, bien évidemment, que
+
+239
+00:11:56,450 --> 00:11:59,230
+ce soit par le moustique, par la seringue,
+
+240
+00:11:59,530 --> 00:12:01,830
+par une morsure, par une lésion, etc.
+
+241
+00:12:07,770 --> 00:12:12,990
+La conjonctive aussi, la voie oculaire, par les
+
+242
+00:12:12,990 --> 00:12:15,890
+instruments ophtalmiques, par les piscines.
+
+243
+00:12:15,970 --> 00:12:17,570
+Il y a même le coronavirus qui peut
+
+244
+00:12:17,570 --> 00:12:19,690
+passer aussi par les conjonctives, c'est important.
+
+245
+00:12:19,690 --> 00:12:21,670
+Ça peut être une voie de pénétration.
+
+246
+00:12:21,830 --> 00:12:24,770
+Lorsqu'on touche le nez ou une zone
+
+247
+00:12:24,770 --> 00:12:26,930
+qui a été contaminée par le coronavirus et
+
+248
+00:12:26,930 --> 00:12:29,570
+on se gratte les yeux, il y a
+
+249
+00:12:29,570 --> 00:12:32,450
+possibilité de faire pénétrer le coronavirus par la
+
+250
+00:12:32,450 --> 00:12:32,950
+conjonctive.
+
+251
+00:12:40,990 --> 00:12:44,750
+Le tractus génital aussi, l'infection sexuellement transmissible
+
+252
+00:12:44,750 --> 00:12:46,670
+à l'HIV, l'hépatite P, etc.
+
+253
+00:12:48,690 --> 00:12:49,670
+Papillomavirus aussi.
+
+254
+00:12:50,230 --> 00:12:52,170
+Il y a même des cas d'hépatite
+
+255
+00:12:52,170 --> 00:12:54,850
+A ou même du zika virus, même si
+
+256
+00:12:54,850 --> 00:12:57,310
+le zika virus est transmis par les moustiques,
+
+257
+00:12:57,830 --> 00:12:59,930
+mais il y a des cas documentés d
+
+258
+00:12:59,930 --> 00:13:01,810
+'infections sexuellement transmissibles.
+
+259
+00:13:07,640 --> 00:13:09,160
+La transmission de la mère à l'enfant,
+
+260
+00:13:09,400 --> 00:13:09,700
+bien sûr.
+
+261
+00:13:10,200 --> 00:13:12,940
+La femme enceinte, bien sûr.
+
+262
+00:13:13,700 --> 00:13:17,380
+Il y a le passage trans-pacentaire, la
+
+263
+00:13:17,380 --> 00:13:20,100
+voie trans-pacentaire qui peut faire passer des
+
+264
+00:13:20,100 --> 00:13:23,980
+virus comme celui de la rubeole, la varicelle,
+
+265
+00:13:24,100 --> 00:13:25,100
+le parvovirus B19.
+
+266
+00:13:25,100 --> 00:13:27,480
+Il y en a même qui peuvent être
+
+267
+00:13:27,480 --> 00:13:30,220
+transmis lors de l'accouchement par voie basse,
+
+268
+00:13:30,960 --> 00:13:33,920
+notamment l'herpès, le VIH, l'hépatite B
+
+269
+00:13:33,920 --> 00:13:35,360
+ou l'hépatite C dans cette situation.
+
+270
+00:13:36,000 --> 00:13:39,680
+Lorsque la patiente est positive au VIH, par
+
+271
+00:13:39,680 --> 00:13:41,480
+exemple, ou à l'herpès ou à l
+
+272
+00:13:41,480 --> 00:13:43,680
+'hépatite B, en général, l'ulcée des aériennes
+
+273
+00:13:43,680 --> 00:13:46,720
+est programmée pour faire éviter la contamination du
+
+274
+00:13:46,720 --> 00:13:47,920
+nouveau-né lors de l'accouchement.
+
+275
+00:13:54,000 --> 00:13:56,020
+Donc une fois qu'il a pénétré dans
+
+276
+00:13:56,020 --> 00:13:57,900
+l'organisme, il va se disséminer.
+
+277
+00:13:59,020 --> 00:14:00,320
+Ça, c'est des exemples.
+
+278
+00:14:00,480 --> 00:14:01,840
+Il y a une période d'incubation.
+
+279
+00:14:02,180 --> 00:14:03,920
+En fait, la période d'incubation, parce qu
+
+280
+00:14:03,920 --> 00:14:05,680
+'une fois que le virus a pénétré dans
+
+281
+00:14:05,680 --> 00:14:07,260
+l'organisme, on ne va pas voir tout
+
+282
+00:14:07,260 --> 00:14:08,540
+de suite les symptômes.
+
+283
+00:14:09,220 --> 00:14:10,960
+Ça prend du temps, ça dépend des virus.
+
+284
+00:14:11,460 --> 00:14:12,200
+Voilà, ça, c'est important.
+
+285
+00:14:12,360 --> 00:14:16,960
+C'est la période entre la pénétration du
+
+286
+00:14:16,960 --> 00:14:20,560
+virus ou l'exposition, notre exposition, l'exposition
+
+287
+00:14:20,560 --> 00:14:22,240
+de notre corps et les premiers signes.
+
+288
+00:14:22,380 --> 00:14:23,380
+Ça, c'est la période d'incubation.
+
+289
+00:14:25,300 --> 00:14:27,460
+Par exemple, le coronavirus.
+
+290
+00:14:28,960 --> 00:14:31,740
+Un sujet est positif, vous êtes en contact
+
+291
+00:14:31,740 --> 00:14:32,820
+avec cette personne.
+
+292
+00:14:35,040 --> 00:14:40,410
+Aujourd'hui, il est positif et contagieux.
+
+293
+00:14:40,670 --> 00:14:42,310
+Aujourd'hui, vous êtes en contact avec lui.
+
+294
+00:14:43,210 --> 00:14:49,410
+Vous n'avez pas, vous avez eu, on
+
+295
+00:14:49,410 --> 00:14:54,970
+va dire, un réflexe qui n'est pas
+
+296
+00:14:54,970 --> 00:14:55,750
+bon.
+
+297
+00:14:56,250 --> 00:14:57,790
+Vous avez enlevé votre masque.
+
+298
+00:14:57,790 --> 00:15:00,470
+Votre masque devant cette personne pour lui parler,
+
+299
+00:15:01,250 --> 00:15:03,330
+ce qui n'est pas recommandé.
+
+300
+00:15:04,450 --> 00:15:06,770
+Et vous avez échangé, vous étiez en contact
+
+301
+00:15:06,770 --> 00:15:07,270
+étroit.
+
+302
+00:15:07,870 --> 00:15:10,450
+Parfois, c'est la famille, c'est naturel.
+
+303
+00:15:11,610 --> 00:15:14,550
+Lorsqu'on est sous un foyer, d'accord,
+
+304
+00:15:14,650 --> 00:15:17,870
+sous le même foyer, vous êtes en contact
+
+305
+00:15:17,870 --> 00:15:19,150
+avec cette personne positive.
+
+306
+00:15:19,690 --> 00:15:21,030
+Ça ne veut pas dire pour autant que
+
+307
+00:15:21,030 --> 00:15:23,310
+si vous faites PCR demain matin, que vous
+
+308
+00:15:23,310 --> 00:15:23,990
+serez positif.
+
+309
+00:15:23,990 --> 00:15:24,270
+Non.
+
+310
+00:15:24,790 --> 00:15:28,770
+Ça, c'est capital important à comprendre.
+
+311
+00:15:29,650 --> 00:15:31,190
+Il y a une période d'incubation.
+
+312
+00:15:31,930 --> 00:15:36,290
+Il faut minimum, ça dépend de la charge,
+
+313
+00:15:36,610 --> 00:15:38,710
+la charge avec laquelle vous avez été en
+
+314
+00:15:38,710 --> 00:15:42,410
+contact, d'accord, et la voie de pénétration
+
+315
+00:15:42,410 --> 00:15:45,850
+du virus, bien sûr, qui est la principale
+
+316
+00:15:45,850 --> 00:15:46,670
+voie respiratoire.
+
+317
+00:15:49,020 --> 00:15:52,020
+Et donc, le virus peut prendre quelques jours,
+
+318
+00:15:52,020 --> 00:15:55,640
+par exemple, trois, quatre, cinq jours, cinq jours
+
+319
+00:15:55,640 --> 00:16:01,060
+pour qu'il apparaisse chez vous, voire jusqu
+
+320
+00:16:01,060 --> 00:16:01,760
+'à 14 jours.
+
+321
+00:16:02,480 --> 00:16:04,360
+On considère que la moyenne générale, c'est
+
+322
+00:16:04,360 --> 00:16:08,180
+sept jours, après un contact étroit avec un
+
+323
+00:16:08,180 --> 00:16:09,180
+individu positif.
+
+324
+00:16:09,980 --> 00:16:12,540
+Ça, c'est la période d'incubation, d
+
+325
+00:16:12,540 --> 00:16:12,660
+'accord ?
+
+326
+00:16:12,660 --> 00:16:13,220
+Monsieur ?
+
+327
+00:16:13,700 --> 00:16:14,260
+Oui ?
+
+328
+00:16:15,620 --> 00:16:17,780
+S'il vous plaît, est-ce que si
+
+329
+00:16:17,780 --> 00:16:20,920
+le virus est en période d'incubation, les
+
+330
+00:16:20,920 --> 00:16:23,480
+tests seront négatifs ?
+
+331
+00:16:23,480 --> 00:16:24,220
+Les ?
+
+332
+00:16:24,220 --> 00:16:25,140
+Les tests.
+
+333
+00:16:25,940 --> 00:16:26,720
+Les tests.
+
+334
+00:16:27,940 --> 00:16:30,240
+Oui, est-ce qu'ils seront négatifs ?
+
+335
+00:16:30,240 --> 00:16:31,840
+Ils seront négatifs, bien évidemment.
+
+336
+00:16:32,800 --> 00:16:34,200
+Bien sûr qu'ils seront négatifs.
+
+337
+00:16:34,660 --> 00:16:35,940
+C'est pour ça que la période d
+
+338
+00:16:35,940 --> 00:16:39,700
+'incubation, c'est la période silencieuse où le
+
+339
+00:16:39,700 --> 00:16:41,480
+virus n'est pas détecté.
+
+340
+00:16:41,480 --> 00:16:44,220
+Mais il est là, dans l'organisme, en
+
+341
+00:16:44,220 --> 00:16:45,080
+train de se répliquer.
+
+342
+00:16:45,820 --> 00:16:47,660
+D'accord ?
+
+343
+00:16:47,660 --> 00:16:48,460
+D'accord, merci.
+
+344
+00:16:49,160 --> 00:16:49,680
+Voilà.
+
+345
+00:16:50,200 --> 00:16:51,960
+Et donc, c'est pour ça qu'on
+
+346
+00:16:51,960 --> 00:16:56,420
+demande aux personnes qui sont positifs, enfin, qui
+
+347
+00:16:56,420 --> 00:16:59,660
+sont en contact étroit avec les sujets positifs,
+
+348
+00:17:00,240 --> 00:17:03,260
+de rester isolées et de refaire une PCR
+
+349
+00:17:03,260 --> 00:17:06,960
+éventuellement, cinq jours après, voire sept jours après.
+
+350
+00:17:08,579 --> 00:17:12,760
+Bien évidemment, si entre J0 ou le J1
+
+351
+00:17:12,760 --> 00:17:14,740
+du contact, le premier jour du contact, et
+
+352
+00:17:14,740 --> 00:17:17,060
+le jour J5, où il va revenir faire
+
+353
+00:17:17,060 --> 00:17:19,599
+la PCR, s'il y a une symptomatologie
+
+354
+00:17:19,599 --> 00:17:21,160
+qui apparaît, il doit se présenter.
+
+355
+00:17:21,579 --> 00:17:22,700
+Parce qu'il se peut que la charge
+
+356
+00:17:22,700 --> 00:17:24,560
+virus soit tellement importante qu'il y a
+
+357
+00:17:24,560 --> 00:17:26,980
+déjà une symptomatologie qui apparaît.
+
+358
+00:17:27,099 --> 00:17:29,580
+Au troisième jour, au quatrième jour, par exemple,
+
+359
+00:17:29,700 --> 00:17:30,200
+au cinquième jour.
+
+360
+00:17:32,520 --> 00:17:34,580
+Monsieur, est-ce qu'en face d'incubation,
+
+361
+00:17:34,580 --> 00:17:36,200
+est-ce que le système immunitaire n'attaque
+
+362
+00:17:36,200 --> 00:17:38,440
+pas le virus ?
+
+363
+00:17:38,440 --> 00:17:39,820
+Pardon ?
+
+364
+00:17:39,820 --> 00:17:41,380
+Au face d'incubation.
+
+365
+00:17:42,060 --> 00:17:42,420
+Oui.
+
+366
+00:17:42,640 --> 00:17:44,120
+Est-ce que le système immunitaire n'attaque
+
+367
+00:17:44,120 --> 00:17:46,080
+pas le virus ?
+
+368
+00:17:47,140 --> 00:17:48,160
+Si, si.
+
+369
+00:17:48,760 --> 00:17:50,140
+C'est-à-dire que le virus, en
+
+370
+00:17:50,140 --> 00:17:54,660
+fait, on est en pleine période d'infection.
+
+371
+00:17:55,420 --> 00:17:56,920
+C'est-à-dire que le virus, il
+
+372
+00:17:56,920 --> 00:17:59,380
+se peut qu'il pénètre et qu'il
+
+373
+00:17:59,380 --> 00:18:01,840
+puisse se multiplier si la charge virale est
+
+374
+00:18:01,840 --> 00:18:02,220
+élevée.
+
+375
+00:18:02,220 --> 00:18:04,500
+C'est pour ça, si la charge virale
+
+376
+00:18:04,500 --> 00:18:04,840
+est élevée.
+
+377
+00:18:04,980 --> 00:18:06,300
+Et la défense immunitaire ne s'est pas
+
+378
+00:18:06,300 --> 00:18:09,560
+bien organisée pour l'attaquer, par exemple, et
+
+379
+00:18:09,560 --> 00:18:11,120
+donc pour réduire l'infection.
+
+380
+00:18:12,560 --> 00:18:14,660
+Et donc cette période d'incubation, en fait,
+
+381
+00:18:15,000 --> 00:18:17,460
+c'est une période qui peut être beaucoup
+
+382
+00:18:17,460 --> 00:18:19,860
+plus longue ou beaucoup moins longue en fonction
+
+383
+00:18:19,860 --> 00:18:23,280
+de la capacité de l'organisme à répandre.
+
+384
+00:18:23,700 --> 00:18:25,920
+Mais en tout cas, lorsque le virus a
+
+385
+00:18:25,920 --> 00:18:28,740
+pénétré, il s'est attaché à la cellule
+
+386
+00:18:28,740 --> 00:18:31,600
+cible et il a pénétré à l'intérieur,
+
+387
+00:18:31,860 --> 00:18:34,760
+il a décapsidé son génome et il a
+
+388
+00:18:34,760 --> 00:18:37,860
+laissé l'ARN virale à l'intérieur de
+
+389
+00:18:37,860 --> 00:18:41,000
+la cellule cible, c'est terminé parce que
+
+390
+00:18:41,000 --> 00:18:43,480
+les anticorneux ne vont pas rentrer à l
+
+391
+00:18:43,480 --> 00:18:44,960
+'intérieur de la cellule cible qui est dans
+
+392
+00:18:44,960 --> 00:18:45,640
+la respiratoire.
+
+393
+00:18:46,020 --> 00:18:47,340
+Lui, il est à l'intérieur, c'est
+
+394
+00:18:47,340 --> 00:18:47,600
+fini.
+
+395
+00:18:47,960 --> 00:18:50,520
+Il va se répliquer en copie, en plusieurs
+
+396
+00:18:50,520 --> 00:18:51,000
+copies.
+
+397
+00:18:51,460 --> 00:18:53,460
+Il va donner l'information génétique pour fabriquer
+
+398
+00:18:53,460 --> 00:18:56,020
+ses enveloppes, ses capsides, etc.
+
+399
+00:18:56,020 --> 00:18:58,240
+Ils vont s'assembler et s'être relargués.
+
+400
+00:18:58,540 --> 00:19:00,440
+Une fois ils sont relargués en milliers de
+
+401
+00:19:00,440 --> 00:19:02,920
+copies, ils vont attaquer d'autres cellules, etc.
+
+402
+00:19:03,640 --> 00:19:07,980
+Bien sûr que la défense s'organise, mais
+
+403
+00:19:07,980 --> 00:19:09,360
+c'est un peu tard, c'est un
+
+404
+00:19:09,360 --> 00:19:10,960
+peu trop tard si le virus a pénétré
+
+405
+00:19:10,960 --> 00:19:12,760
+déjà, d'accord ?
+
+406
+00:19:12,760 --> 00:19:14,060
+Parce qu'il y a déjà ce phénomène
+
+407
+00:19:14,060 --> 00:19:16,140
+de multiplication intracellulaire du virus.
+
+408
+00:19:16,680 --> 00:19:18,300
+Et en fait, ce qui se passe, c
+
+409
+00:19:18,300 --> 00:19:20,560
+'est que pendant cette période, on ne détecte
+
+410
+00:19:20,560 --> 00:19:21,700
+pas parce qu'il n'y a pas
+
+411
+00:19:21,700 --> 00:19:25,140
+suffisamment de virus apparent au niveau du nasopharynx,
+
+412
+00:19:25,260 --> 00:19:29,740
+par exemple, parce que la majorité de ceux
+
+413
+00:19:29,740 --> 00:19:32,240
+qui sont rapidement positifs, c'est ceux qui
+
+414
+00:19:32,240 --> 00:19:33,100
+sont symptomatiques.
+
+415
+00:19:33,500 --> 00:19:35,640
+Ceux qui sont asymptomatiques, en général, on peut
+
+416
+00:19:35,640 --> 00:19:40,240
+bien sûr trouver le virus, mais beaucoup moins
+
+417
+00:19:40,240 --> 00:19:43,740
+que ceux qui sont symptomatiques, qui ont une
+
+418
+00:19:43,740 --> 00:19:47,480
+symptomatologie, parce qu'ils toussent, ils éternuent, et
+
+419
+00:19:47,480 --> 00:19:49,080
+donc ils dégagent un petit peu le virus
+
+420
+00:19:49,080 --> 00:19:51,020
+vers l'extérieur et on peut le retrouver
+
+421
+00:19:51,020 --> 00:19:54,320
+par écouvillonnage nasopharynge, ce qui n'est pas
+
+422
+00:19:54,320 --> 00:19:56,080
+toujours le cas pour les sujets qui ne
+
+423
+00:19:56,080 --> 00:19:57,480
+sont pas symptomatiques, qui n'ont pas de
+
+424
+00:19:57,480 --> 00:20:00,140
+symptomatologie, mais qui peuvent être contagieux, qui sont
+
+425
+00:20:00,140 --> 00:20:03,540
+contagieux aussi, comme, bien sûr, ceux qui sont
+
+426
+00:20:03,540 --> 00:20:04,100
+symptomatiques.
+
+427
+00:20:05,140 --> 00:20:07,880
+Donc la période d'incubation est une période
+
+428
+00:20:07,880 --> 00:20:13,760
+qui est silencieuse, aussi bien cliniquement que de
+
+429
+00:20:13,760 --> 00:20:15,340
+point de vue diagnostique.
+
+430
+00:20:15,340 --> 00:20:19,060
+Et ça, c'est capital pour comprendre, en
+
+431
+00:20:19,060 --> 00:20:23,340
+fait, le problème du coronavirus, parce qu'il
+
+432
+00:20:23,340 --> 00:20:27,140
+y a beaucoup d'asymptomatiques qui circulent, normalement,
+
+433
+00:20:27,220 --> 00:20:28,640
+qui n'ont pas de symptomatologie, et qui
+
+434
+00:20:28,640 --> 00:20:30,490
+sont contagieux, d'accord ?
+
+435
+00:20:32,360 --> 00:20:34,860
+Et il y a, même chez les personnes
+
+436
+00:20:36,300 --> 00:20:41,320
+qui vont devenir symptomatiques, deux jours avant, ils
+
+437
+00:20:41,320 --> 00:20:43,700
+sont déjà contagieux, avant même l'apparition des
+
+438
+00:20:43,700 --> 00:20:44,840
+symptômes.
+
+439
+00:20:44,840 --> 00:20:47,020
+Alors qu'ils étaient en contact avec beaucoup
+
+440
+00:20:47,020 --> 00:20:47,820
+de personnes, etc.
+
+441
+00:20:47,980 --> 00:20:48,840
+Et donc c'est pour ça que le
+
+442
+00:20:48,840 --> 00:20:51,540
+virus n'est pas maîtrisable dans sa diffusion
+
+443
+00:20:51,540 --> 00:20:53,280
+et sa propagation à travers le monde.
+
+444
+00:20:54,780 --> 00:20:56,260
+Bon, on ne va pas s'attarder sur
+
+445
+00:20:56,260 --> 00:20:58,600
+le coronavirus parce qu'on va consacrer un
+
+446
+00:20:58,600 --> 00:21:03,980
+cours entier à ce virus, mais je voulais
+
+447
+00:21:03,980 --> 00:21:05,540
+quand même que vous compreniez un petit peu
+
+448
+00:21:05,540 --> 00:21:08,180
+la période d'incubation qui est une période
+
+449
+00:21:08,180 --> 00:21:09,040
+clé pour le virus.
+
+450
+00:21:09,160 --> 00:21:10,760
+C'est une période clé pour le virus,
+
+451
+00:21:10,860 --> 00:21:14,220
+pour qu'il puisse diffuser et pour s
+
+452
+00:21:14,220 --> 00:21:16,900
+'implanter et se multiplier silencieusement.
+
+453
+00:21:17,180 --> 00:21:18,520
+Bien sûr que l'organisme réagit à l
+
+454
+00:21:18,520 --> 00:21:18,820
+'intérieur.
+
+455
+00:21:19,480 --> 00:21:21,620
+Il y a une bataille avec les facteurs
+
+456
+00:21:21,620 --> 00:21:24,280
+de virulence et les facteurs de réponse de
+
+457
+00:21:24,280 --> 00:21:26,120
+l'autre entre les deux en fonction de
+
+458
+00:21:26,120 --> 00:21:27,720
+l'âge, etc., dont on a parlé.
+
+459
+00:21:28,100 --> 00:21:29,360
+Et c'est ça qui va définir ou
+
+460
+00:21:29,360 --> 00:21:30,860
+pas l'apparition de l'infection.
+
+461
+00:21:33,250 --> 00:21:35,990
+D'ailleurs, c'est pourquoi, parfois, vous avez
+
+462
+00:21:35,990 --> 00:21:37,870
+la maman, elle est positive, le fils est
+
+463
+00:21:37,870 --> 00:21:41,890
+négatif pour le coronavirus, ou l'inverse, au
+
+464
+00:21:41,890 --> 00:21:43,170
+sein de la même famille, alors qu'ils
+
+465
+00:21:43,170 --> 00:21:44,130
+sont ensemble, etc.
+
+466
+00:21:44,910 --> 00:21:46,550
+Et justement, parce qu'il y a cette
+
+467
+00:21:46,550 --> 00:21:48,590
+interaction, il ne suffit pas qu'on soit
+
+468
+00:21:48,590 --> 00:21:50,410
+en contact avec le virus pour faire l
+
+469
+00:21:50,410 --> 00:21:52,650
+'infection, mais il y a d'autres facteurs
+
+470
+00:21:52,650 --> 00:21:55,270
+qui interagissent qui font que celui-là qui
+
+471
+00:21:55,270 --> 00:21:57,470
+dort à côté de l'autre ne développe
+
+472
+00:21:57,470 --> 00:22:00,690
+pas l'infection et les gens ne comprennent
+
+473
+00:22:00,690 --> 00:22:00,830
+pas.
+
+474
+00:22:00,970 --> 00:22:02,910
+En fait, c'est facilement compréhensible lorsqu'on
+
+475
+00:22:02,910 --> 00:22:06,250
+connaît les facteurs de virulence et on connaît
+
+476
+00:22:06,250 --> 00:22:08,810
+les facteurs qui interagissent pour faire l'infection
+
+477
+00:22:08,810 --> 00:22:09,230
+ou pas.
+
+478
+00:22:10,410 --> 00:22:10,710
+Voilà.
+
+479
+00:22:15,140 --> 00:22:17,540
+Donc, vous voyez ici que le rotavirus, par
+
+480
+00:22:17,540 --> 00:22:25,230
+exemple, le rotavirus, là, en rouge, en fait,
+
+481
+00:22:25,310 --> 00:22:26,710
+c'est les périodes d'incubation qui sont
+
+482
+00:22:26,710 --> 00:22:27,090
+variables.
+
+483
+00:22:27,270 --> 00:22:31,210
+En fonction du rotavirus, c'est un virus
+
+484
+00:22:31,210 --> 00:22:34,670
+qui donne des diarrhées virales, des gastroenteries.
+
+485
+00:22:36,050 --> 00:22:38,450
+Bien sûr, dès qu'on a ingéré de
+
+486
+00:22:38,450 --> 00:22:40,510
+l'eau contaminée ou des aliments contaminés par
+
+487
+00:22:40,510 --> 00:22:42,750
+le rotavirus, très rapidement, on a une diarrhée
+
+488
+00:22:42,750 --> 00:22:43,210
+virale.
+
+489
+00:22:43,410 --> 00:22:46,290
+Ça prend 24-48 heures, par exemple, pour
+
+490
+00:22:46,290 --> 00:22:46,890
+l'infection.
+
+491
+00:22:47,250 --> 00:22:48,970
+La grippe, un peu plus, etc.
+
+492
+00:22:49,470 --> 00:22:50,690
+Il y a des virus qui prennent beaucoup
+
+493
+00:22:50,690 --> 00:22:53,350
+plus de temps pour l'apparition de l
+
+494
+00:22:53,350 --> 00:22:55,410
+'infection et donc la période silencieuse est beaucoup
+
+495
+00:22:55,410 --> 00:22:55,870
+plus longue.
+
+496
+00:22:56,730 --> 00:22:58,730
+D'accord ?
+
+497
+00:22:58,730 --> 00:23:00,670
+Donc, chaque virus a sa période d'incubation
+
+498
+00:23:00,670 --> 00:23:01,150
+en général.
+
+499
+00:23:02,130 --> 00:23:04,090
+Et bien sûr, cette période d'incubation est
+
+500
+00:23:04,090 --> 00:23:04,490
+variable.
+
+501
+00:23:04,890 --> 00:23:06,710
+Ce qui est en rose aussi, c'est
+
+502
+00:23:06,710 --> 00:23:09,030
+des variations interindividuelles, c'est d'autres facteurs
+
+503
+00:23:09,030 --> 00:23:10,930
+qui interviennent, mais en rouge, c'est la
+
+504
+00:23:10,930 --> 00:23:13,330
+majorité ou se situe la majorité des périodes
+
+505
+00:23:13,330 --> 00:23:14,510
+d'incubation pour ce virus.
+
+506
+00:23:23,050 --> 00:23:25,850
+Donc, ici, par exemple, l'atteinte des tissus
+
+507
+00:23:25,850 --> 00:23:29,310
+cibles, par exemple la peau, pour le virus
+
+508
+00:23:29,310 --> 00:23:31,390
+de la rougeole ou de la rubeole, qui
+
+509
+00:23:31,390 --> 00:23:34,130
+vont définir les lésions maculopapuleuses.
+
+510
+00:23:34,270 --> 00:23:40,650
+Par exemple, ici, vous avez les éruptions vésiculeuses
+
+511
+00:23:40,650 --> 00:23:44,490
+pour la varicelle, Bouchewika, par exemple, ou des
+
+512
+00:23:44,490 --> 00:23:47,690
+lésions maculopapuleuses, comme pour la rougeole, par exemple.
+
+513
+00:23:51,530 --> 00:23:54,310
+Et donc, le virus peut atteindre, la varicelle
+
+514
+00:23:54,310 --> 00:23:57,590
+va atteindre l'épiderme, c'est la partie
+
+515
+00:23:57,590 --> 00:23:58,870
+cible de la peau.
+
+516
+00:23:59,350 --> 00:24:00,130
+Et donc, c'est pour ça qu'elle
+
+517
+00:24:00,130 --> 00:24:01,070
+va donner des vésicules.
+
+518
+00:24:01,130 --> 00:24:03,630
+La vésicule, comme l'herpès, c'est des
+
+519
+00:24:03,630 --> 00:24:04,750
+lésions vésiculeuses.
+
+520
+00:24:05,210 --> 00:24:08,210
+Par contre, la rougeole, elle ne va pas
+
+521
+00:24:08,210 --> 00:24:09,850
+atteindre l'épiderme, c'est juste au niveau
+
+522
+00:24:09,850 --> 00:24:10,350
+du derme.
+
+523
+00:24:10,790 --> 00:24:11,770
+Et donc, c'est pour ça qu'on
+
+524
+00:24:11,770 --> 00:24:17,890
+va avoir, on va aller directement sur le...
+
+525
+00:24:19,780 --> 00:24:22,660
+Alors, il est où la peau ?
+
+526
+00:24:22,660 --> 00:24:25,400
+Ça doit être là, votre pénétration, c'est
+
+527
+00:24:25,400 --> 00:24:25,680
+ça.
+
+528
+00:24:31,660 --> 00:24:31,920
+Voilà.
+
+529
+00:24:32,580 --> 00:24:34,580
+Vous voyez ici que vous avez l'épiderme
+
+530
+00:24:34,580 --> 00:24:36,740
+en jaune et le derme au-dessous.
+
+531
+00:24:37,260 --> 00:24:38,600
+Et vous avez dans le derme, c'est
+
+532
+00:24:38,600 --> 00:24:40,480
+là où vous avez les capillaires, les vaisseaux,
+
+533
+00:24:42,280 --> 00:24:45,360
+les terminaisons nerveuses, les vaisseaux lymphatiques.
+
+534
+00:24:45,860 --> 00:24:47,300
+Et donc, il y a, par exemple, la
+
+535
+00:24:47,300 --> 00:24:50,820
+varicelle, elle va atteindre, elle va passer au
+
+536
+00:24:50,820 --> 00:24:53,320
+niveau de la peau et elle va aller
+
+537
+00:24:53,320 --> 00:24:55,120
+jusqu'à l'épiderme et elle va donner
+
+538
+00:24:55,120 --> 00:24:55,760
+des vésicules.
+
+539
+00:24:55,760 --> 00:25:00,580
+Alors que pour la rubeole ou, par exemple,
+
+540
+00:25:02,560 --> 00:25:04,660
+la rougeole, elle va s'arrêter au niveau
+
+541
+00:25:04,660 --> 00:25:07,280
+de l'épiderme, au niveau du derme, par
+
+542
+00:25:07,280 --> 00:25:08,800
+exemple, c'est la partie au-dessous.
+
+543
+00:25:09,520 --> 00:25:10,700
+Et c'est là où il va donner
+
+544
+00:25:10,700 --> 00:25:14,740
+cette lésion maculopapuleuse qui apparaît à la surface,
+
+545
+00:25:14,900 --> 00:25:16,900
+qui n'est pas vésiculeuse, à l'inverse
+
+546
+00:25:16,900 --> 00:25:19,340
+de l'herpès ou de la varicelle.
+
+547
+00:25:39,810 --> 00:25:41,990
+Donc, le système nerveux central aussi, on a
+
+548
+00:25:41,990 --> 00:25:44,010
+des virus qui vont donner des méningites, les
+
+549
+00:25:44,010 --> 00:25:47,050
+méningites anterovirus, les méningites orliens, des oréans, par
+
+550
+00:25:47,050 --> 00:25:48,690
+exemple, etc.
+
+551
+00:25:49,410 --> 00:25:51,730
+Les hépatites virales, avec, par exemple, pour le
+
+552
+00:25:51,730 --> 00:25:54,610
+foie, qui est susceptible aussi pour les hépatites,
+
+553
+00:25:54,670 --> 00:25:55,190
+par exemple.
+
+554
+00:25:57,550 --> 00:26:00,230
+Le tissu hématopoïdique, pour l'HIV, par exemple,
+
+555
+00:26:00,330 --> 00:26:02,010
+c'est les lymphocytes T, etc.
+
+556
+00:26:03,150 --> 00:26:05,430
+Et donc, il y a parfois des infections
+
+557
+00:26:05,430 --> 00:26:07,250
+aiguës avec disparition de virus.
+
+558
+00:26:07,390 --> 00:26:08,550
+C'est comme le cas du coronavirus.
+
+559
+00:26:09,070 --> 00:26:11,590
+C'est une infection aiguë résolutive, elle n
+
+560
+00:26:11,590 --> 00:26:13,230
+'est pas chronique, c'est-à-dire que
+
+561
+00:26:13,230 --> 00:26:14,790
+le virus pénètre dans l'organisme, il fait
+
+562
+00:26:14,790 --> 00:26:16,690
+l'infection, il redescend, il disparaît de l
+
+563
+00:26:16,690 --> 00:26:17,030
+'organisme.
+
+564
+00:26:17,590 --> 00:26:19,990
+Bien sûr, ça génère de l'immunité, une
+
+565
+00:26:19,990 --> 00:26:24,390
+réaction immunitaire qui peut protéger vis-à-vis
+
+566
+00:26:24,390 --> 00:26:26,410
+d'une nouvelle infection.
+
+567
+00:26:28,330 --> 00:26:29,750
+Et pour les gens qui ne sont pas,
+
+568
+00:26:30,250 --> 00:26:32,450
+qui n'ont jamais été infectés, on a
+
+569
+00:26:32,450 --> 00:26:36,430
+la chance d'avoir un vaccin ultérieurement, bientôt
+
+570
+00:26:36,430 --> 00:26:37,070
+au Maroc.
+
+571
+00:26:38,910 --> 00:26:41,610
+Il y a des infections chroniques, c'est
+
+572
+00:26:41,610 --> 00:26:43,030
+-à-dire que le virus va pénétrer dans
+
+573
+00:26:43,030 --> 00:26:44,510
+l'organisme et il va rester par la
+
+574
+00:26:44,510 --> 00:26:46,050
+suite en donnant des infections chroniques.
+
+575
+00:26:47,290 --> 00:26:49,810
+Il n'y a pas une résolution définitive,
+
+576
+00:26:49,890 --> 00:26:51,170
+une disparition du virus dans l'organisme.
+
+577
+00:26:51,250 --> 00:26:52,850
+C'est des infections chroniques.
+
+578
+00:26:54,030 --> 00:26:55,970
+Et puis, vous avez des infections récurrentes avec
+
+579
+00:26:55,970 --> 00:26:57,730
+des réactivations, comme l'herpès.
+
+580
+00:26:58,270 --> 00:27:00,250
+A chaque fois, bien sûr, qu'on a
+
+581
+00:27:00,250 --> 00:27:02,830
+une baisse de l'immunité ou un stress,
+
+582
+00:27:03,250 --> 00:27:04,910
+il y a une réapparition de l'herpès.
+
+583
+00:27:05,750 --> 00:27:07,630
+C'est des réinfections, c'est des réactivations,
+
+584
+00:27:07,770 --> 00:27:09,010
+parce que le virus de l'herpès, une
+
+585
+00:27:09,010 --> 00:27:10,190
+fois qu'il pénètre dans l'organisme de
+
+586
+00:27:10,190 --> 00:27:14,110
+l'individu, il va être archivé dans les
+
+587
+00:27:14,110 --> 00:27:15,770
+cibles du cible pendant toute la vie.
+
+588
+00:27:15,890 --> 00:27:16,490
+Et à chaque fois qu'il y a
+
+589
+00:27:16,490 --> 00:27:19,890
+un stress, il est régénéré, il est réactivé.
+
+590
+00:27:21,290 --> 00:27:22,590
+Et puis, il y a des infections lentement
+
+591
+00:27:22,590 --> 00:27:23,470
+progressives.
+
+592
+00:27:27,520 --> 00:27:29,480
+Le virus peut être excrété aussi.
+
+593
+00:27:29,780 --> 00:27:32,280
+L'excrétion, l'élimination du virus peut être
+
+594
+00:27:32,280 --> 00:27:33,700
+une voie de contamination aussi.
+
+595
+00:27:35,020 --> 00:27:37,820
+Comme la toux, l'éternuement, c'est une
+
+596
+00:27:37,820 --> 00:27:39,740
+voie d'élimination du virus mais aussi de
+
+597
+00:27:39,740 --> 00:27:40,300
+contamination.
+
+598
+00:27:41,740 --> 00:27:43,920
+La peau aussi peut être pour les vésicules,
+
+599
+00:27:44,540 --> 00:27:46,900
+les éruptions vésiculeuses, comme l'herpès, par exemple.
+
+600
+00:27:50,180 --> 00:27:52,960
+Le rotavirus dans les selles ou encore l
+
+601
+00:27:52,960 --> 00:27:57,120
+'archivé dans le sperme ou dans le lait
+
+602
+00:27:57,120 --> 00:27:58,440
+maternel aussi.
+
+603
+00:28:00,260 --> 00:28:01,560
+Voilà pour ce cours.
+
+604
+00:28:01,660 --> 00:28:05,560
+On a terminé aujourd'hui par rapport à
+
+605
+00:28:05,560 --> 00:28:07,020
+ce cours.
+
+606
+00:28:16,060 --> 00:28:18,540
+On a vu la structure, la classification du
+
+607
+00:28:18,540 --> 00:28:20,340
+virus, la multiplication du virus, la mécanique générale
+
+608
+00:28:20,340 --> 00:28:21,440
+des infections virales.
+
+609
+00:28:21,800 --> 00:28:23,480
+La prochaine fois, on ne va pas voir
+
+610
+00:28:23,480 --> 00:28:23,980
+demain.
+
+611
+00:28:24,220 --> 00:28:26,120
+C'était prévu demain, mais ce ne sera
+
+612
+00:28:26,120 --> 00:28:26,780
+pas possible.
+
+613
+00:28:27,320 --> 00:28:31,080
+On va essayer de programmer ça ultérieurement.
+
+614
+00:28:31,160 --> 00:28:33,600
+Le vaccin, la chimiothérapie antivirale avec les techniques
+
+615
+00:28:33,600 --> 00:28:36,180
+du diagnostic avant d'entamer la virologie spéciale.
+
+616
+00:28:36,580 --> 00:28:38,440
+La semaine prochaine, j'essaierai de vous donner
+
+617
+00:28:38,440 --> 00:28:41,700
+les supports actualisés de la virologie générale pour
+
+618
+00:28:41,700 --> 00:28:44,080
+vous préparer aux séances interactives.
+
+619
+00:28:44,860 --> 00:28:46,360
+Donc, ne vous inquiétez pas, on va aller
+
+620
+00:28:46,360 --> 00:28:47,220
+doucement et sûrement.
+
+621
+00:28:47,840 --> 00:28:49,100
+D'accord ?
+
+622
+00:28:49,100 --> 00:28:52,200
+Je préfère que vous assistiez aux séances interactives
+
+623
+00:28:52,200 --> 00:28:56,160
+pour que vous compreniez un petit peu ces
+
+624
+00:28:56,160 --> 00:28:59,260
+cours de façon beaucoup plus pédagogique.
+
+625
+00:29:00,520 --> 00:29:02,360
+Est-ce que vous avez des questions ?
+
+626
+00:29:02,360 --> 00:29:03,460
+Ou il y a juste des questions sur
+
+627
+00:29:03,460 --> 00:29:05,520
+le coronavirus qui vous intéressent le plus, je
+
+628
+00:29:05,520 --> 00:29:06,020
+pense ?
+
+629
+00:29:11,210 --> 00:29:12,090
+Monsieur ?
+
+630
+00:29:12,090 --> 00:29:13,610
+Oui ?
+
+631
+00:29:19,090 --> 00:29:21,250
+Je vous entends mal.
+
+632
+00:29:31,790 --> 00:29:33,470
+Je n'ai rien entendu, ça coupe.
+
+633
+00:29:46,460 --> 00:29:49,060
+Chronique, phase terminale, contagieuse.
+
+634
+00:29:49,180 --> 00:29:50,000
+Chronique, phase...
+
+635
+00:29:50,000 --> 00:29:51,020
+J'ai entendu trois fois.
+
+636
+00:29:53,340 --> 00:29:56,170
+Chronique, phase terminale, contagieuse.
+
+637
+00:29:56,660 --> 00:29:57,520
+C'est ce que vous avez dit.
+
+638
+00:30:00,350 --> 00:30:01,330
+Je n'ai rien compris.
+
+639
+00:30:02,070 --> 00:30:05,470
+Vous avez un problème certainement de réseau.
+
+640
+00:30:08,400 --> 00:30:09,820
+Je ne sais pas si vous pouvez écrire
+
+641
+00:30:09,820 --> 00:30:10,520
+le...
+
+642
+00:30:10,520 --> 00:30:18,770
+Je pense que vous pouvez écrire votre message.
+
+643
+00:30:25,690 --> 00:30:27,230
+Est-ce que l'enveloppe est responsable du
+
+644
+00:30:27,230 --> 00:30:29,730
+pouvoir infectieux du virus ?
+
+645
+00:30:32,190 --> 00:30:32,730
+Alors...
+
+646
+00:30:32,730 --> 00:30:35,330
+Est-ce que l'enveloppe est responsable du
+
+647
+00:30:35,330 --> 00:30:37,590
+pouvoir infectieux du virus ?
+
+648
+00:30:37,590 --> 00:30:40,110
+L'enveloppe est responsable du pouvoir infectieux du
+
+649
+00:30:40,110 --> 00:30:41,610
+virus, bien sûr, pour certains virus.
+
+650
+00:30:42,490 --> 00:30:44,650
+S'ils sont enveloppés, d'accord ?
+
+651
+00:30:44,650 --> 00:30:46,530
+Par exemple, le coronavirus, s'il a sur
+
+652
+00:30:46,530 --> 00:30:48,810
+l'enveloppe une...
+
+653
+00:30:50,430 --> 00:30:52,330
+une protéine qui va lui permettre de s
+
+654
+00:30:52,330 --> 00:30:52,690
+'attacher.
+
+655
+00:30:52,890 --> 00:30:54,570
+Et donc, ça rentre dans le pouvoir infectieux
+
+656
+00:30:54,570 --> 00:30:55,050
+du virus.
+
+657
+00:30:56,270 --> 00:30:58,410
+Quoi encore ?
+
+658
+00:30:59,630 --> 00:31:07,630
+Pour l'infection chronique, on est toujours contagieux,
+
+659
+00:31:07,630 --> 00:31:09,290
+même dans la phase constante.
+
+660
+00:31:10,630 --> 00:31:14,630
+Pour l'infection chronique, on est toujours contagieux,
+
+661
+00:31:15,410 --> 00:31:16,830
+même dans la phase constante.
+
+662
+00:31:19,090 --> 00:31:20,030
+Je ne sais pas ce que c'est
+
+663
+00:31:20,030 --> 00:31:21,890
+que la phase constante, mais bon, l'infection
+
+664
+00:31:21,890 --> 00:31:26,610
+chronique, ça dépend de l'infection chronique, de
+
+665
+00:31:26,610 --> 00:31:27,230
+quoi on parle.
+
+666
+00:31:28,570 --> 00:31:29,410
+D'accord ?
+
+667
+00:31:29,410 --> 00:31:30,330
+Est-ce que c'est l'hépatite B,
+
+668
+00:31:30,490 --> 00:31:34,330
+est-ce que c'est l'HIV, ou
+
+669
+00:31:34,330 --> 00:31:35,310
+l'hépatite C, etc.
+
+670
+00:31:35,310 --> 00:31:38,210
+Donc ça, on pourra le traiter par...
+
+671
+00:31:38,210 --> 00:31:39,450
+Enfin, on ne peut pas traiter tous les
+
+672
+00:31:39,450 --> 00:31:41,970
+cas ici, mais on le traitera une fois,
+
+673
+00:31:42,590 --> 00:31:44,490
+donc pour chaque cours, parce qu'on va
+
+674
+00:31:44,490 --> 00:31:46,750
+traiter tous les virus en principe, d'intérêt
+
+675
+00:31:46,750 --> 00:31:47,270
+médical.
+
+676
+00:31:47,470 --> 00:31:49,310
+Alors, quoi encore ici ?
+
+677
+00:31:56,910 --> 00:31:59,290
+Peut-on dire que le porteur sain reste
+
+678
+00:31:59,290 --> 00:32:01,130
+toujours dans la phase d'incubation ?
+
+679
+00:32:01,130 --> 00:32:03,310
+Le porteur sain ?
+
+680
+00:32:04,630 --> 00:32:06,070
+Non, non, non, non.
+
+681
+00:32:06,390 --> 00:32:08,710
+Le porteur sain, le porteur sain, ça dépend,
+
+682
+00:32:08,810 --> 00:32:09,650
+le porteur sain.
+
+683
+00:32:11,330 --> 00:32:13,450
+La notion du porteur sain, on va la
+
+684
+00:32:13,450 --> 00:32:14,350
+traiter par la suite.
+
+685
+00:32:15,830 --> 00:32:18,090
+L'incubation, elle est limitée dans le temps.
+
+686
+00:32:18,870 --> 00:32:19,190
+D'accord ?
+
+687
+00:32:19,190 --> 00:32:21,630
+On ne peut pas être porteur sain tout
+
+688
+00:32:21,630 --> 00:32:24,310
+le temps avec un temps d'incubation indéfini
+
+689
+00:32:24,310 --> 00:32:25,950
+et éternel.
+
+690
+00:32:26,570 --> 00:32:28,830
+Chaque virus a un temps d'incubation entre
+
+691
+00:32:28,830 --> 00:32:31,970
+l'exposition et l'apparition des symptômes.
+
+692
+00:32:32,850 --> 00:32:35,390
+Ce temps d'incubation, il est variable d
+
+693
+00:32:35,390 --> 00:32:37,430
+'un virus à l'autre.
+
+694
+00:32:37,950 --> 00:32:39,010
+Il y en a qui sont très courts,
+
+695
+00:32:39,010 --> 00:32:40,650
+il y en a qui sont beaucoup plus
+
+696
+00:32:40,650 --> 00:32:41,010
+longs.
+
+697
+00:32:41,710 --> 00:32:43,910
+Et en plus, en fonction de la voie
+
+698
+00:32:43,910 --> 00:32:46,110
+d'introduction, il y a des virus qui
+
+699
+00:32:46,110 --> 00:32:48,590
+sont, lorsqu'ils ont une voie localisée, par
+
+700
+00:32:48,590 --> 00:32:50,290
+exemple le rhume, si on est en contact
+
+701
+00:32:50,290 --> 00:32:54,530
+avec quelqu'un qui a le rhinovirus, très
+
+702
+00:32:54,530 --> 00:32:56,110
+rapidement, on est infecté par le rhume.
+
+703
+00:32:56,490 --> 00:32:58,170
+Lorsqu'on est en contact, ça passe par
+
+704
+00:32:58,170 --> 00:33:00,270
+la voie respiratoire, c'est la zone où
+
+705
+00:33:00,270 --> 00:33:02,790
+il doit sévir, c'est là où il
+
+706
+00:33:02,790 --> 00:33:03,910
+va trouver les cellules cibles.
+
+707
+00:33:04,310 --> 00:33:07,890
+Deux jours après, en général, on a 24
+
+708
+00:33:07,890 --> 00:33:09,930
+-48 heures si la charge virale est élevée,
+
+709
+00:33:10,450 --> 00:33:11,810
+on développe l'infection.
+
+710
+00:33:11,910 --> 00:33:13,670
+Le temps d'incubation est court, parce que
+
+711
+00:33:13,670 --> 00:33:15,870
+l'infection est localisée et le contact était
+
+712
+00:33:15,870 --> 00:33:18,370
+rapide et rapproché au niveau de la zone
+
+713
+00:33:18,370 --> 00:33:22,970
+de contamination, au niveau de la région cible.
+
+714
+00:33:24,890 --> 00:33:26,850
+Quelle est la période d'incubation du COVID
+
+715
+00:33:26,850 --> 00:33:28,070
+-19 ?
+
+716
+00:33:28,070 --> 00:33:29,990
+Très bien, du SARS-CoV-2.
+
+717
+00:33:31,510 --> 00:33:33,590
+La COVID-19, c'est la maladie.
+
+718
+00:33:37,470 --> 00:33:39,390
+Le SARS-CoV-2, c'est le virus
+
+719
+00:33:39,390 --> 00:33:41,930
+responsable de la maladie qui est la COVID
+
+720
+00:33:41,930 --> 00:33:44,850
+-19, pour ne pas confondre.
+
+721
+00:33:45,090 --> 00:33:50,110
+Parce que COVID, c'est Coronavirus disease, c
+
+722
+00:33:50,110 --> 00:33:51,030
+'est la maladie.
+
+723
+00:33:51,110 --> 00:33:53,030
+COVID, c'est la maladie, et pas le
+
+724
+00:33:53,030 --> 00:33:53,390
+virus.
+
+725
+00:33:53,650 --> 00:33:54,990
+Le virus, c'est le SARS-CoV-2.
+
+726
+00:33:55,230 --> 00:33:57,450
+Quelle est la période d'incubation du COVID
+
+727
+00:33:57,450 --> 00:33:59,530
+-19 ?
+
+728
+00:33:59,530 --> 00:34:06,790
+En fait, ça va de de 5 jours
+
+729
+00:34:06,790 --> 00:34:08,770
+à 14 jours.
+
+730
+00:34:09,210 --> 00:34:11,610
+En moyenne, la période d'incubation, elle est
+
+731
+00:34:11,610 --> 00:34:13,550
+de 5 à 7 jours.
+
+732
+00:34:13,870 --> 00:34:16,429
+Considère que la majorité des situations qui ont
+
+733
+00:34:16,429 --> 00:34:18,690
+été rencontrées à travers le monde, c'est
+
+734
+00:34:18,690 --> 00:34:19,650
+5 à 7 jours.
+
+735
+00:34:20,270 --> 00:34:22,630
+Mais il y a des cas exceptionnels jusqu
+
+736
+00:34:22,630 --> 00:34:23,889
+'à 14 jours d'incubation.
+
+737
+00:34:36,040 --> 00:34:39,219
+Il faudrait que vous désactivez votre micro.
+
+738
+00:34:40,179 --> 00:34:40,460
+C'est bon.
+
+739
+00:34:43,139 --> 00:34:45,360
+Qu'est-ce qui rend une infection aiguë
+
+740
+00:34:45,360 --> 00:34:46,139
+ou chronique ?
+
+741
+00:34:46,139 --> 00:34:47,600
+Est-ce que c'est en relation avec
+
+742
+00:34:47,600 --> 00:34:49,380
+le type de virus ou bien avec le
+
+743
+00:34:49,380 --> 00:34:51,000
+système immunitaire ?
+
+744
+00:34:51,000 --> 00:34:53,900
+En fait, c'est en relation avec le
+
+745
+00:34:53,900 --> 00:34:54,560
+type de virus.
+
+746
+00:34:56,720 --> 00:34:59,140
+On va voir les types de virus qui
+
+747
+00:34:59,140 --> 00:35:03,440
+sont responsables de l'infection chronique et ceux
+
+748
+00:35:03,440 --> 00:35:05,360
+qui ne le sont pas, bien évidemment, et
+
+749
+00:35:05,360 --> 00:35:05,680
+pourquoi.
+
+750
+00:35:08,350 --> 00:35:09,190
+Alors, quoi encore ?
+
+751
+00:35:09,190 --> 00:35:10,770
+Qu'est-ce qu'il reste à voir
+
+752
+00:35:10,770 --> 00:35:10,970
+?
+
+753
+00:35:11,750 --> 00:35:13,070
+C'est bon, il est 10h32.
+
+754
+00:35:13,790 --> 00:35:15,470
+Je vous souhaite une bonne fin de journée
+
+755
+00:35:15,470 --> 00:35:16,790
+et à la prochaine.
+
+756
+00:35:17,310 --> 00:35:20,450
+On va répondre à vos questions et on
+
+757
+00:35:20,450 --> 00:35:24,170
+essaiera d'aller doucement et sûrement.
+
+758
+00:35:24,170 --> 00:35:25,870
+Ça marche ?

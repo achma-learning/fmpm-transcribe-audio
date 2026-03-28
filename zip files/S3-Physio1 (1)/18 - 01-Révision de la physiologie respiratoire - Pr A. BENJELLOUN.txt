@@ -1,0 +1,471 @@
+Donc, on va commencer, donc je suis professeur Amine Benjeloun, vous le savez ça, les échanges gazeux respiratoires. OK. Alors ça, vous l'avez dans le cours, il faut essayer de le relire et puis essayez d'aller sur Internet si vous n'avez pas compris certaines choses, essayez d'aller sur Internet, il y a beaucoup d'explications, soit en anglais, soit en français.
+
+Alors ça, vous l'avez déjà vu, je pense que même le professeur Bouchnitsov a dû vous l'expliquer. Nous, on se situe au niveau des échanges respiratoires, mon cours, il est à peu près ici. Les échanges respiratoires, c'est-à-dire les échanges gazeux, c'est-à-dire l'oxygène, le passage de l'oxygène des alvéoles vers le sang et le passage du CO2, du sang vers les alvéoles.
+
+Alors ça, ce sont des rappels qui sont essentiels dans mon cours, le professeur Bouchnitsov a dû vous les faire, je vous les ai refait dans mon cours, c'est juste pour vous rappeler, il faut savoir que selon la loi de Boyle-Mariotte, le produit de la pression et du volume, PV, est une constante, ça ne bouge pas, d'accord ? Il faut aussi savoir que le volume est directement proportionnel à la température, ça c'est des notions que vous avez dû voir en terminale, d'accord ? Plus la température augmente, plus le volume augmente, d'accord ? Et plus elle diminue, plus le volume diminue. Alors, la loi d'Avogadro, il y a deux conditions, les conditions standards STPD, c'est-à-dire Standard Temperature Pressure and Dry, ça veut dire une température 0°C sec, il n'y a pas de vapeur d'eau, d'accord ? Il y a d'autres conditions qui sont dans le corps humain, BTPS, c'est-à-dire que c'est saturé en eau et les pressions sont différentes, très bien. La molle d'un gaz parfait occupe exactement 22,4 litres, ils l'ont mesuré par rapport au carbone, 12 grammes de carbone ont un volume de 22,4 litres et c'est au fait exactement 6 10 puissance 23 molécules, c'est ça une molle, c'est 10 puissance 23 molécules, c'est 22,4 litres.
+
+Alors en fonction du gaz, de chaque gaz, par exemple 22,4 litres, 16 grammes d'oxygène, mais elle va être occupée juste par 12 grammes de carbone, parce que ce sont des gaz différents, mais la molle et le volume ne se modifient pas, ils sont immuables, inchangés. Et là c'est la loi des gaz parfaits, vous avez dû voir ça en terminale, PV égale nRT, la pression, le volume, égale à n qui est le nombre de molles du gaz, R la constante des gaz parfaits et T la température du gaz en kelvin, d'accord ? C'est 1°C plus 273. La pression partielle d'un gaz, la loi de Dalton, c'est là, elle est très très importante.
+
+Vous m'entendez toujours ? Très bien, la pression partielle d'un gaz X dans un mélange gazeux, dans un volume, c'est la pression qu'il exercerait s'il occupait seul le volume V. Donc la pression, c'est la pression barométrique qui multiplie sa fraction, son pourcentage en quelque sorte, d'accord ? Ça, c'est dans les conditions STPD, c'est-à-dire sec, il n'y a pas d'eau, d'accord ? FX, c'est la fraction moellaire du gaz dans le mélange gazeux. PB, c'est la pression barométrique, c'est 760 mmHg, d'accord ? Mais dans les conditions BTPS, à l'intérieur du corps, qu'est-ce qu'il faut faire ? Il faut retrancher la pression en eau de la pression barométrique. La pression en eau à 37 degrés, c'est-à-dire la température corporelle, elle est de 47 mmHg.
+
+Dans les conditions BTPS, donc saturée en eau, il faut retrancher la pression en eau pour avoir la vraie pression en fonction de la fraction du gaz. Ça, ce n'est pas très important dans la loi de Henry. Très bien, là on va rentrer dans le vif du sujet.
+
+L'échange d'oxygène et de dioxyde de carbone dans le poumon, il dépend de la ventilation alvéolaire. C'est quoi la ventilation alvéolaire ? C'est l'air qui pénètre à l'intérieur des alvéoles, d'accord ? Elle dépend de la diffusion alvéolocapillaire. Il y a une membrane entre les alvéoles et les capillaires à travers laquelle circulent les gaz.
+
+Et c'est là qu'on va définir la capacité de diffusion. Et puis vous avez la distribution de ventilation et de perfusion, parce que la ventilation et la perfusion sont distribuées différemment selon les zones du poumon. Donc vous avez trois paramètres qu'on va étudier.
+
+Alors là, on rentre dans les choses sérieuses. La ventilation pulmonaire, V0 ou V0e, c'est un débit gazeux, d'accord ? C'est vraiment le volume d'air mobilisé en une minute, c'est-à-dire c'est la quantité d'air que vous respirez, que vous faites rentrer par la bouche ou par le nez en une minute. C'est la mesure à la bouche, d'accord ? Par minute.
+
+C'est le produit du volume courant, c'est quoi le volume courant ? C'est le volume que vous inspirez à chaque respiration, c'est à peu près 500 millilitres, d'accord ? Ce que vous inspirez à chaque respiration, ça s'appelle le volume courant, il est mesuré là encore à la bouche et la ventilation pulmonaire est mesurée à la bouche. La ventilation pulmonaire, c'est un débit, c'est compté par minute et le Vt, le volume courant, c'est en millilitres, d'accord ? C'est en millilitres. Donc ça veut dire quoi ? Que votre ventilation, votre débit gazeux que vous mesurez à la bouche par minute, c'est simplement votre volume courant qui est mesuré à chaque inspiration qui multiplie la fréquence respiratoire.
+
+La fréquence respiratoire, c'est le nombre de cycles par minute, d'accord ? Jusque-là, tout va bien. Tout est mesuré à la bouche. Donc ça, le Vt, volume courant, à chaque respiration et la ventilation pulmonaire, c'est la quantité d'air que vous mobilisez en une minute.
+
+Très bien. Jusque-là, ça va. Mais ce qui nous intéresse, nous, ce n'est pas ça.
+
+Ce qui nous intéresse, c'est le volume alvéolaire et le débit alvéolaire, c'est-à-dire ce qui arrive dans les alvéoles, d'accord ? Mais ça, on ne peut pas le mesurer à la bouche. C'est très difficile. Enfin, on ne peut pas le mesurer dans les alvéoles.
+
+Il faudrait introduire quelque chose et ce n'est pas facile. Donc, on va le déduire. Comment on va le déduire ? Et c'est quoi la différence ? Vous savez qu'à l'intérieur des bronches, il y a ce qu'on appelle l'espace mort.
+
+C'est un espace qui règne dans les voies aériennes. C'est un espace qui ne participe pas aux échanges gazeux, qui va être perdu dans les bronches, dans les voies aériennes. Donc, cet espace mort, il faut qu'on le retranche du volume courant.
+
+Et c'est le Vd, Dead Space. Donc, c'est le volume d'espace mort. Donc, on va le retrancher du volume courant, on va le multiplier par la fréquence respiratoire et on va obtenir le débit alvéolaire réel.
+
+Le débit alvéolaire, c'est vraiment le débit qui va rentrer dans les alvéoles. Il y a une partie qui va être perdue dans les bronches, dans la trachée, et ce qui va rester, c'est le débit alvéolaire. Donc, on le fait en retranchant l'espace mort, le volume d'espace mort qui est à peu près à 150 millilitres, du volume courant.
+
+Donc, vous avez vu que… Si vous pouvez, Monsieur ? Allô ? S'il vous plaît ? Oui. Pour l'espace mort, on peut le calculer ? Oui. Alors, c'est à la suite.
+
+On peut le calculer. Je vais vous montrer comment on le calcule. Je vais vous le montrer rapidement parce que ce n'est pas ce qui est le plus important.
+
+Le plus important, c'est que vous compreniez l'utilité de chaque volume et de chaque débit. Et là, vous voyez que le débit pulmonaire est de 5 à 8 litres. Le débit alvéolaire à 5 litres, il a diminué à cause de l'espace mort.
+
+L'espace mort anatomique, c'est le volume des voies aériennes plus le volume de certaines alvéoles qui ne participent pas aux échanges, mais c'est à peu près la même façon. Alors là, vous voyez, vous avez le volume courant qui est de 500 millilitres et là, vous avez l'espace mort, 150 millilitres. Il ne reste plus que 350 millilitres comme gaz alvéolaire.
+
+D'accord ? Il y a différentes façons de le calculer. Il y a le calcul de l'espace mort anatomique. Là, je vous laisserai voir votre diaporama.
+
+C'est bien expliqué, on le fait avec la fraction expirée en azote. C'est une méthode expérimentale, c'est juste pour que vous compreniez, vous n'êtes pas obligé de retenir ça. Et vous avez l'espace mort physiologique qui est calculé en fonction des fractions expirées de CO2, la fraction alvéolaire, les pressions partielles en CO2, etc.
+
+Il y a une formule mathématique que je vous laisserai après étudier, ce n'est pas le plus important. Le plus important, c'est ça, regardez bien, on a dit que le débit alvéolaire, c'est par minute. C'est vraiment le volume courant auquel on retranche l'espace mort multiplié par la fréquence cardiaque.
+
+Ça veut dire quoi ? Ça veut dire que plus vous allez ventiler rapidement, ça veut dire que plus vous faites de l'exercice, qu'est-ce qui va se passer ? À chaque respiration, vous allez diminuer l'espace mort. Donc, il y a un grand volume qui va être diminué. Pourquoi ? Parce que la fréquence va être élevée et ça veut dire que votre débit alvéolaire, il va diminuer.
+
+Regardez, là, vous voyez le débit ventilatoire, il est à 10 litres et il reste à 10 litres, le débit qu'on mesure à la bouche. Mais au niveau des alvéoles, elles ne vont pas profiter beaucoup si vous accélérez, si vous faites du sport. Regardez, à chaque fois, plus vous augmentez la fréquence, la 10, 20, 40, plus vous augmentez la fréquence, plus le volume courant va diminuer.
+
+En plus, à chaque fois, l'espace mort, il est constant, il est à 200 millilitres. Vous êtes obligé de le diminuer. Donc, votre volume alvéolaire, il va diminuer.
+
+Il va diminuer forcément votre volume alvéolaire. Là, vous êtes à 800, là, on est à 300 si vous ventilez à 20 par minute et là, il n'est plus qu'à 50 parce qu'à chaque fois, votre volume alvéolaire qui est ça, vous retranchez l'espace mort. D'accord ? Et là, si on mesure le débit alvéolaire, là, avec une fréquence à 10 au repos, vous êtes à 8 litres minute.
+
+Mais si vous accélérez, vous êtes à 6 litres minute et si vous accélérez encore plus, vous êtes juste à 2 litres minute. Donc, plus on augmente l'exercice, plus le débit alvéolaire va diminuer et c'est à cause de l'espace mort que vous retranchez à chaque fois. Chez quelqu'un qui est sain, qui n'a pas de problème respiratoire, l'espace mort est constant.
+
+Mais chez les sujets malades, l'espace mort va augmenter en fonction de l'exercice. Bien. Ça, c'est un tableau qu'il faut retenir par cœur.
+
+Oui ? J'ai une question. Si jamais, si on fait beaucoup d'exercices et que justement on hyperventile, est-ce que justement, vu que le volume alvéolaire, il va diminuer, est-ce que ça ne va pas justement nous faire peur de l'oxygène pour la suite ? Non. Pas pour la suite.
+
+Parce que vous allez récupérer tout de suite après et c'est là qu'il y a la capacité d'exercice. Les gens qui sont très, très entraînés, ils vont garder un débit alvéolaire qui est relativement correct. Les gens qui sont entraînés.
+
+Mais quand vous avez un manque d'entraînement, vous avez un débit alvéolaire qui chute. Mais à la récupération, vous allez récupérer votre débit alvéolaire donc il n'y a aucun problème. D'accord ? D'accord.
+
+Merci beaucoup. Donc... Monsieur de Cour. Oui.
+
+Monsieur, est-ce que le volume... Vous avez dit que... J'ai pas fait du sport... Je t'entends mal. Je t'entends très mal. Est-ce que... Est-ce que... Non non, j'entends rien. 
+
+Attends, attends. J'entends rien. Tu peux me… Attends.
+
+Attends, essaie de répéter. Allô ? Allô ? Allô ? Ou alors écris ta question, j'essaie de répondre à la fin. D'accord ? On va continuer. 
+
+Alors, ce tableau est très très important. Regardez bien. Ça, ce sont des conditions BTPS, c'est-à-dire à l'intérieur du corps. 
+
+Et là donc, la pression en O2, elle a été retranchée de la pression barométrique. Regardez. Au niveau du gaz inspiré, là, vous avez l'oxygène qui est à 21%. 
+
+L'air ambiant, il est constitué à 21% d'oxygène. Le CO2, il n'y a pratiquement pas de CO2 dans l'air ambiant. Tout le CO2 qui existe, c'est des déchets. 
+
+C'est ce qu'on expire nous. Ou alors tous les êtres vivants. Ils dégagent le CO2. 
+
+Donc le CO2, c'est un déchet. Ce n'est pas un gaz qu'on respire. Donc la fraction expirée en oxygène, elle est de 17%. 
+
+Ce qui correspond à 120 mm de mercure. Le gaz inspiré à 150 mm de mercure. Le gaz aspiré expire à 120 mm de mercure d'oxygène. 
+
+Le gaz alvéolaire, donc l'oxygène qui existe dans l'alvéole, il est à 14%. Il est donc à 100 mm de mercure. Mais regardez le gaz carbonique. 
+
+On n'inspire pas de gaz carbonique. Le gaz expiré, il est à 3%. Et le gaz alvéolaire, il est à 5% de gaz carbonique. 
+
+3% correspond à 30 mm de mercure. 5% correspond à 40 mm de mercure dans le gaz alvéolaire. Ce sont des chiffres qu'il faut retenir.
+
+Bien. Maintenant c'est la relation entre ventilation alvéolaire et la pression partielle des gaz. Alors là il faut suivre. 
+
+La production de CO2, c'est le débit de CO2 qu'on produit par les alvéoles. C'est le débit alvéolaire multiplié par la fraction alvéolaire en gaz carbonique. C'est ce qu'on vient de voir. 
+
+Donc on va transformer ce débit en pression alvéolaire en CO2. Elle est proportionnelle à la fraction alvéolaire en CO2. Après on va la remplacer dans cette équation. 
+
+Mais regardez, la pression alvéolaire en CO2, c'est la fraction alvéolaire en CO2 qui multiplie la pression barométrique moins 47 mm de mercure. On l'a vu. Donc ça, on va le remplacer ici. 
+
+Et ça devient ça. Donc VCO2 égale débit alvéolaire qui multiplie la pression alvéolaire en CO2 qui multiplie K, qui est une constante. Et on obtient ça. 
+
+Donc la pression alvéolaire en CO2, c'est une constante qui multiplie le débit en CO2 sur le débit alvéolaire. C'est une équation. Pourquoi je vous dis tout ça ? Elle va nous ramener à quoi ? Ça veut dire que si vous augmentez ça, le débit alvéolaire, la capnie va diminuer. 
+
+Mais si vous diminuez ça, le débit alvéolaire, la capnie va augmenter. D'accord ? Donc hyperventilation égale hypocapnie. Hypoventilation égale hypercapnie. 
+
+Et ça, il faut le retenir. C'est à ça que je veux en venir. Parallèlement, pour l'oxygène, la différence entre le volume d'oxygène qui entre dans le poumon par minute, c'est la fraction inspirée en oxygène qui multiplie le débit alvéolaire. 
+
+Et le volume qui en sort, c'est la fraction alvéolaire en oxygène qui multiplie le débit alvéolaire. La différence, c'est la quantité consommée en oxygène. Donc le débit d'oxygène, la quantité consommée en oxygène qui rentre dans les alvéoles, c'est la fraction inspirée qui diminue, moins la fraction alvéolaire en oxygène. 
+
+Donc la fraction alvéolaire en oxygène, c'est la FiO2 moins, donc c'est l'équation. Et après, qu'est-ce qu'on fait ? On va la convertir en pression alvéolaire. Donc la pression alvéolaire en oxygène, c'est la PiO2. 
+
+Donc la pression inspirée en oxygène, moins le débit en oxygène, donc la quantité consommée en oxygène qui diminue le débit alvéolaire. Ça veut dire quoi ? Si vous augmentez ça, vous augmentez ça. C'est mathématique. 
+
+Donc une hyperventilation va entraîner une hyperoxie. Et une hypoventilation va entraîner une hypoxie. Donc retenez, hyperventilation égale hyperoxie, hypocapnie. 
+
+Hypoventilation égale hypercapnie et hypoxie. Regardez ça. Là au repos, vous avez la pression alvéolaire en oxygène qui est de 100 mmHg. 
+
+La PiO2, vous avez une hyperoxie et une hypocapnie parce qu'il y a une hyperventilation. Mais la somme reste constante. Elle est de 140. 
+
+C'est une pathologie, on parle d'effet chimique. Ça c'est le quotient respiratoire, c'est pas très important. Alors on va passer maintenant à la diffusion. 
+
+La diffusion est très importante. La diffusion d'un tissu est régie par la loi de Fick. C'est le débit du gaz. 
+
+Le débit du gaz est proportionnel à quoi ? A la surface du tissu. Plus la surface est grande, plus le débit va augmenter. Il y a plus de surface pour que le gaz passe. 
+
+C'est du mal à passer. C'est proportionnel à l'épaisseur. Si le gradient de pression, la différence de pression entre les deux côtés est grande, le gaz va passer. 
+
+Mais si elle est petite, le gaz va avoir du mal à passer. Donc elle est proportionnelle au gradient de concentration ou de pression et elle est proportionnelle à une constante de diffusion. La constante de diffusion dépend de la solubilité du gaz. 
+
+Plus le gaz est soluble, plus la diffusion est grande. Et plus le point moléculaire est grand, moins elle va diffuser. Donc plus la capacité de diffusion est petite.
+
+Et il faut savoir que le gaz carbonique est 20 fois plus diffusible que l'oxygène. Le gaz carbonique passe 20 fois plus que l'oxygène. Ça c'est à retenir. 
+
+Vous voyez, l'oxygène va passer entre les deux côtés. Là c'est l'alvéole et là c'est le capillaire. Donc plus la surface est grande, plus l'oxygène va mieux diffuser. 
+
+Il aura plus de place pour diffuser. Plus cette épaisseur est petite, plus il va diffuser. Plus elle est grande, plus il aura du mal à diffuser. 
+
+Et là c'est le gradient de pression. Plus le gradient de pression est augmenté, plus l'oxygène va passer. Et plus il est diminué, plus l'oxygène ne va pas passer. 
+
+Regardez, pour l'oxygène c'est la pression alvéolaire, le gradient de pression entre la pression alvéolaire et la pression veineuse pour qu'il puisse passer. Et ce gradient de pression est très élevé parce que c'est 100 mm de mercure dans l'alvéole et c'est juste 40 mm de mercure dans les veines. Donc le gradient est de 60 mm de mercure. 
+
+Et ça, ça va compenser quoi ? Ça va compenser le fait que l'oxygène diffuse moins bien que le gaz carbonique. Par contre le CO2, vous voyez que le gradient de pression entre les veines pulmonaires et l'alvéole, il est très petit, de 16 mm de mercure, pour qu'il passe de l'autre côté des veines vers l'alvéole. Mais il est compensé par quoi ? Par la grande solubilité du gaz carbonique. 
+
+Il est 20 fois plus soluble que l'oxygène, donc il passe plus facilement. Le transit de l'oxygène de l'alvéole vers le capillaire est de 25 millisecondes. Donc il passe très rapidement. 
+
+Au repos, on a 75 millisecondes. Le sang, il diffuse dans le capillaire en 75 millisecondes. Et l'oxygène diffuse en 25 millisecondes. 
+
+Donc on a 50 millisecondes de rapide. Mais ces 50 millisecondes, elles vont être utiles où ça ? Elles ne vont plus exister à l'exercice. À l'exercice, quand le sang va diffuser, il diffuse en 25 millisecondes. 
+
+Et l'oxygène, il passe en 25 millisecondes. Donc c'est juste. Donc quand vous avez un patient qui a un problème de fibrose ou d'emphysème, il y a ce qu'on appelle l'effet temps de contact. 
+
+C'est-à-dire que le sang, il va passer rapidement. Il va passer en 25 millisecondes. Mais l'oxygène, il ne diffuse pas en 25 millisecondes. 
+
+Il lui faut plus de temps pour diffuser parce que le patient est malade. Et c'est comme ça qu'on a une hypoxie. Donc la PO2 va diminuer. 
+
+C'est ce qu'on appelle l'effet temps de contact. C'est-à-dire que le sang n'entre pas en contact suffisamment pour capter l'oxygène dans le capillaire. Donc il y a un paramètre. 
+
+La S, E et D sont difficiles à déterminer. Donc on les appelait DL. C'est la capacité de diffusion d'un gaz. 
+
+Donc le débit des gaz, c'est DL multiplié par P1 moins P2. Alors il est difficile de calculer la diffusion de l'oxygène. Il est très difficile à mesurer. 
+
+Donc qu'est-ce qu'on a fait ? On a mesuré la diffusion de l'oxyde de carbone. Pourquoi l'oxyde de carbone ? Parce qu'il n'y a pas d'oxyde de carbone dans les capillaires. Donc on a juste P1.
+
+On n'a pas besoin de P2. Donc il est facile à calculer. Donc la DLCO, cette capacité de diffusion de l'oxyde de carbone, c'est ce qu'on calcule chez les patients, c'est égal à débit du CO divisé par la pression alvéolaire en CO. 
+
+Vu que P2 n'existe pas, il n'y en a pas, donc c'est P1, DLP1. Donc on a un débit en CO. La DLCO, c'est débit en monoxyde de carbone divisé par la pression alvéolaire en monoxyde de carbone. 
+
+Donc la DLCO normale est de 15 à 17 millilitres et après on déduit la diffusion de l'oxygène en multipliant 1,23 par la DLCO. Donc cette diffusion, ce qu'il faut retenir, c'est que la diffusion est diminuée par la réduction des surfaces de diffusion, quand on en faisait, par un épaississement, donc une augmentation de l'épaisseur par fibrose et par oie alvéolaire et l'altération de la membrane érythrocytaire des globules rouges parce que c'est les globules rouges qui attrapent l'oxygène. Il y a un autre paramètre qui est important, 1 sur diffusion, c'est 1 sur DM, c'est la membrane alvéolocapillaire, le thétase et c'est la réaction avec l'hémoglobine contenue dans le sang vénécapillaire. 
+
+Donc une réduction du sang capillaire peut diminuer la capacité de diffusion. Ça veut dire quoi ? Quand vous avez une anémie, il faut l'ajuster. Quand vous avez une polyglobulie, la diffusion est augmentée. 
+
+Maintenant on va étudier la ventilation perfusion. Il y a une distribution hétérogène dans les différentes parties du poumon, il faut savoir que la ventilation diminue de la base vers les sommets et la perfusion diminue encore plus de la base au sommet. Ça veut dire quoi ? Là vous avez la ventilation, vous avez la base, vous avez les sommets, donc la ventilation diminue de la base vers les sommets et la perfusion aussi diminue de la base vers les sommets.
+
+Et le rapport ventilation sur perfusion augmente de la base vers les sommets. Ça c'est un tableau à retenir. Donc il y a beaucoup d'hétérogénéité entre le rapport de la ventilation sur la perfusion et ce qui fait qu'il y a une différence alvéole-artérielle en oxygène.
+
+Il y a plus d'oxygène dans les alvéoles que dans les artères et cette différence est 5 mm de mercure chez un sujet jeune en bonne santé. Et cette différence augmente avec l'âge, la BPCO, l'asthme et d'autres pathologies. Alors ça veut dire quoi un rapport diminué ou nul ? Ça veut dire que c'est mal perfusé, c'est mal ventilé et bien perfusé.
+
+Et on le voit où ? Dans les chaînes pulmonaires. Les chaînes pulmonaires c'est quand vous avez les alvéoles qui sont bouchées, une pneumonie ou un œdème. Quand elles sont bouchées, elles sont perfusées mais l'oxygène ne passe pas donc c'est un rapport qui est proche de zéro.
+
+Ou alors quand vous avez ce qu'on appelle un champ de droite-gauche, ça veut dire que du sang veineux, vous avez un trou dans le cœur et du sang veineux qui passe dans le sang artérien et il est contaminé. Par contre, un rapport presque à l'infini, ça veut dire que la ventilation est bonne mais la perfusion est nulle, c'est des zones pulmonaires qui ne sont pas perfusées, ça s'appelle l'effet espace mort. L'espace mort physiologique qu'on a au début, il va augmenter, il va se multiplier et c'est ce qu'on voit dans l'ombolie pulmonaire, dans des zones où il n'y a plus de perfusion mais il y a beaucoup de ventilation.
+
+Ça, je vous laisserai réfléchir tranquillement, c'est un peu compliqué donc c'est un petit peu long. Alors regardez, là par exemple, vous avez une alvéole qui est normale, l'oxygène à 100 et le CO2 à 40 mmHg. Là ça passe, tout va bien, vous avez le capillaire qui va capter l'oxygène, qui va rejeter le CO2.
+
+Et là vous avez un shunt, c'est-à-dire que la bronche est bouchée, l'alvéole est bouchée mais bien perfusée. Donc le VA sur Q est diminué, donc l'oxygène est bas mais le CO2 est normal. Mais là vous avez l'inverse, c'est-à-dire que l'alvéole est perméable mais vous avez l'artère, le capillaire qui est bouché.
+
+Donc l'oxygène est très bon mais le CO2 est proche de zéro parce que le capillaire est altéré, il est bouché. Donc le VA sur Q est à l'infini, très très augmenté. Là il est diminué, là augmenté.
+
+Donc je vous invite à réfléchir tranquillement chez vous. Donc quelles sont les sources d'hypoxie ? Vous avez l'hypoventilation alvéolaire pure et là vous avez une hypercapnique qui est associée, on l'a vu tout à l'heure. Les troubles de la diffusion alvéolocapillaire avec l'espicissement de la membrane, c'est une hypoxie qui est aggravée par l'exercice comme dans la fibrose pulmonaire.
+
+Vous avez le shunt vrai ou le shunt droite-gauche qui entraîne une hypoxémie. Le vrai shunt n'est pas corrigé par l'oxygène. L'effet shunt, c'est-à-dire qu'il est bouché un tout petit peu, il est corrigé par l'oxygène.
+
+L'effet shunt dans l'hétérogénéité du VA sur Q, c'est une hypoxémie qui est corrigée par l'oxygène. Et normo-hypocapnie, si vous avez une hypercapnie, c'est une hypoventilation. Normo-capnie, c'est plutôt un effet shunt.
+
+Voilà, donc on va passer au QCM sur ce cours. Est-ce que vous avez des questions avant de passer au QCM ? Allô ? Allô ? Monsieur, c'est quoi la différence entre la perfusion et la ventilation ? Je ne sais pas la différence. La ventilation, c'est ce qui passe dans les alvéoles, c'est ce que vous ventilez.
+
+La perfusion, c'est ce qui passe dans les artères, les capillaires. On a besoin de ventilation et de perfusion, c'est-à-dire que quand vous ventilez, vous avez de l'oxygène qui passe dans les alvéoles. Cet oxygène va ensuite passer dans le sang.
+
+Donc vous avez besoin d'une bonne ventilation et d'une bonne perfusion. D'accord ? Le sang qui passe dans les capillaires. C'est bon ? Oui.
+
+Très bien. Concernant les pressions partielles des gaz, quelles sont les propositions justes ? La pression partielle du CO2 du gaz inspiré est de 30 mmHg. Une hypoventilation alvéolaire donne une hypercapnie.
+
+Une hyperventilation alvéolaire donne une hyperoxie. C'est le sujet sain. La somme PAO2 et PACO2 augmente à l'exercice.
+
+À l'exercice, la PACO2 diminue. Quelles sont les propositions justes ? Hein ? BCE. BCE.
+
+BCE. Parfait. Je ne le liste pas.
+
+D'accord. Une hypoventilation alvéolaire donne une hypercapnie. Une hypoventilation alvéolaire donne une hyperoxie.
+
+C'est le sujet sain. La somme PAO2 et PACO2 est constante. D'accord ? Elle est toujours constante.
+
+Mais à l'exercice, la PACO2 diminue. Parce que la PAO2 augmente. D'accord ? Là, c'est ce qu'on a vu.
+
+Dans le gaz inspiré, il n'y a pas de CO2. Du tout. Et là, vous voyez que la somme est une constante à l'exercice.
+
+Avec diminution de la capnie et augmentation de la pression alvéolaire en oxygène. Parfait. Concernant la ventilation alvéolaire, donc le débit alvéolaire et les pressions partielles des gaz.
+
+Une hypoventilation alvéolaire entraîne une hypocapnie. Une hyperventilation alvéolaire entraîne une hypercapnie. Une hypoventilation alvéolaire entraîne une hypoxie.
+
+Une hyperventilation alvéolaire entraîne une hyperoxie. C'est à peu près la même chose que tout à l'heure. Oui, ça se répète un petit peu.
+
+À l'exercice, la somme PAO2 et PACO2 est constante sur le sujet normal. CDE ? CDE. CDE.
+
+Parfait. Très bien. Donc ça, c'est assimilé.
+
+Concernant la capacité de diffusion du CO, quelles sont les propositions justes ? La DLCO est directement proportionnelle à la surface d'échange. La DLCO est augmentée en cas de polyglobulie. Le COD diffuse mieux que l'O2.
+
+La DLCO est directement proportionnelle à l'épaisseur de diffusion. La DLCO est augmentée en cas de fibrose pulmonaire. AVC ? AVC.
+
+Parfait. Plus la surface d'échange est augmentée, bien sûr, plus la DLCO est augmentée. Donc il y a de globules rouges, plus la DLCO est augmentée.
+
+Bien sûr, le gaz carbonique diffuse mieux que l'oxygène. Et l'épaisseur de diffusion, plus elle est grande, plus la DLCO est diminuée. Comme dans la fibrose pulmonaire.
+
+D'accord ? Vous vous souvenez de ce schéma ? Il faut bien le retenir. Concernant le rapport ventilation-perfusion, quelles sont les propositions justes ? Les sommets pulmonaires sont mieux ventilés que les bases. Les sommets pulmonaires sont moins perfusés que les bases.
+
+Le rapport vers A sur Q augmente du sommet vers la base. L'effet Shunt répond bien à l'oxygène. Le Shunt vrai ne répond pas à l'oxygène.
+
+DE ? Hein ? DE ? Hein ? BDE. BDE. D'accord ? On a dit que les sommets, donc les bases, sont mieux ventilées que les sommets.
+
+Et sont mieux perfusées aussi. D'accord ? Mais le rapport VH sur Q augmente de la base vers les sommets. D'accord ? Donc le rapport VH sur Q augmente de la base vers les sommets.
+
+D'accord ? L'effet Shunt répond bien à l'oxygène. Pourquoi ? Parce que les branches ne sont pas totalement bouchées. D'accord ? Et le Shunt vrai ne répond pas à l'oxygène parce que les alvéoles sont complètement bouchées.
+
+Retenez bien ça. Ok ? Donc la ventilation diminue de la base vers les sommets. Le débit sain diminue de la base vers les sommets, mais le rapport augmente de la base vers les sommets.
+
+Alors ça, ça se complique un petit peu. Ça c'est pour voir si vous avez... Alors ça, il faut des calculs. Un homme de 30 ans en bonne santé présente à l'exercice une fréquence respiratoire à 20 par minute et un débit alvéolaire à 10 litres par minute et un volume courant à 650 millilitres.
+
+D'accord ? Quelles sont les propositions justes ? Alors on va y aller doucement. On va faire des calculs. Alors, le débit alvéolaire il est à 10 litres par minute avec une fréquence à 20.
+
+Donc, l'espace mort il est de combien ? Il faut calculer le volume alvéolaire. D'accord ? Le volume alvéolaire c'est quoi ? C'est le débit alvéolaire qui divise la fréquence respiratoire. C'est combien ? Ce genre de question vous ne l'aurez jamais à l'examen.
+
+Pourquoi ? Parce qu'elle est un petit peu compliquée à calculer mais c'est juste pour que vous puissiez comprendre. Donc, là vous avez 10 000 millilitres. Vous allez diviser par la fréquence qui est à 20.
+
+Donc vous allez obtenir 500 millilitres. 500 millilitres c'est le volume alvéolaire. On est d'accord ? Et donc le VT il a 650 millilitres.
+
+Vous faites 650 moins 500 millilitres. Et vous allez obtenir 550 millilitres d'espace mort. D'accord ? Vous êtes d'accord ou pas ? Allô ? Très bien.
+
+Le débit pulmonaire, on va le calculer par rapport au VT. Le débit pulmonaire il est à la bouche. Et le VT il est à la bouche.
+
+Alors le débit pulmonaire c'est le VT qui multiplie la fréquence respiratoire. Donc c'est 650 qui multiplie 20. C'est combien ? 13 litres par minute.
+
+13 litres. Donc cette proposition elle est fausse. Très bien.
+
+La PO2 va augmenter. Est-ce que la PO2 va augmenter à l'exercice ? Oui, oui, elle va augmenter à l'exercice. La PO2, est-ce qu'elle va diminuer ? Oui.
+
+Est-ce qu'il est en hypoventilation ? Non. Donc c'est A, C, D. Ok ? Bien. On va passer au deuxième cours.
+
+Alors le deuxième cours il est un peu plus facile. Monsieur, j'ai une question pour vous. Oui.
+
+Pourquoi dans la région où le rapport ventilation par perfusion est faible, on y trouve une pression alvéolaire d'oxygène qui est faible, mais qui n'atteint pas une valeur nulle ? Alors attend. Quand vous avez un rapport VA sur Q qui est diminué, qui est juste diminué, c'est un effet chanteur. Ça veut dire que vos bronches ou vos alvéoles ne sont pas complètement bouchées.
+
+Ça veut dire que la ventilation est faible, mais n'est pas nulle. D'accord ? Mais par contre, quand vous avez un poumon blanc par exemple, une grosse pneumopathie, où vos alvéoles sont complètement bouchées, la ventilation est nulle, c'est zéro. D'accord ? Le patient est intubé, ventilé.
+
+D'accord ? Ça dépend de la quantité de ventilation qui passe dans vos alvéoles, la quantité d'air qui passe. Si vous bouchez complètement, c'est zéro. Mais si vous bouchez partiellement, il y a un petit peu d'oxygène qui passe, donc il faut donner beaucoup d'oxygène et le patient va se sentir un petit peu mieux.
+
+Par contre, si c'est complètement bouché, ça ne passera pas. Même si vous donnez de l'oxygène, ça ne passera absolument pas. D'accord ? Est-ce que vous voyez mon diaporama ? Hein ? Allô ? Oui, monsieur, oui.
+
+Très bien. Donc là, c'est la régulation de la ventilation. OK.
+
+Ça, c'est le centre respiratoire. OK. Bon.
+
+Alors, les récepteurs. Vous avez des récepteurs pulmonaires qui sont des récepteurs à l'irritation, des récepteurs alvéolaires et de distension. D'accord ? Ils sont sensibles aux produits chimiques, irritants inhalés, à la congestion vasculaire, comme le delte pulmonaire, et à l'augmentation du volume pulmonaire.
+
+Alors, les récepteurs. Ça, c'est important. Vous avez des chémorécepteurs centraux ou périphériques qui sont sensibles à l'hypoxie, l'hypercapnie et l'acidose.
+
+Donc, c'est la diminution du pH. L'hypercapnie et l'acidose sont liés. C'est à peu près les mêmes stimuli.
+
+Et vous avez des mécanorécepteurs qui sont sensibles à la variation de force et longueur des muscles respiratoires des membres. C'est-à-dire que quand vous avez une distension thoracique, il y a des mécanorécepteurs qui disent « Eh, le thorax, il est trop gros, il faut le diminuer, donc il faut expirer. » Les centres respiratoires.
+
+Alors, il faut savoir que la respiration, c'est un phénomène qui est automatique. D'accord ? Il est automatique, ça veut dire que le cortex cérébral n'a rien à voir avec la respiration. Il peut la contrôler.
+
+Mais s'il contrôlait complètement la respiration, quand on dort, qu'est-ce qui va nous arriver ? Hein ? Qui est-ce qui peut me répondre ? Si c'était le cortex cérébral qui contrôlait la respiration ? On va mourir, justement. Exactement, on va mourir. C'est exactement ça.
+
+On va mourir. Et heureusement, alhamdoulilah, c'est les centres bulboprotubérentiels qui gèrent l'automatisme de la respiration. Alors, les centres bulbaires.
+
+Vous avez les centres bulbaires inspiratoires, c'est le groupe respiratoire dorsal. À retenir. Inspiratoire, c'est le groupe respiratoire dorsal.
+
+Ils stimulent les motoneuroles des muscles inspiratoires, principalement diaphragme, mais augmentent la fréquence. Ils sont inhibés par les mécanorécepteurs sensibles à l'étirement des parois tracheobronchiques via le nerf DIS. Donc, retenez que le nerf DIS va inhiber l'inspiration.
+
+Et le centre pneumotaxique va inhiber l'inspiration. Inspiration qui est induite par le groupe respiratoire dorsal. Ça, c'est des données qu'il faut retenir.
+
+D'accord ? Le nerf DIS inhibe l'inspiration. Et le centre pneumotaxique aussi. Bien.
+
+Le centre bulbaire expiratoire, c'est le groupe respiratoire ventral. Il stimule les motoneuroles des muscles expiratoires. Et il contient un complexe, le complexe Prebotzinger.
+
+C'est probablement un générateur de rythme, mais on ne sait pas trop à quoi il sert. Vous avez le centre protubérantiel. Donc, on a vu les centres bulbaires.
+
+Le centre respiratoire dorsal inspiratoire, qui est inhibé par le nerf DIS, et le nerf pneumotaxique. Et vous avez le centre respiratoire ventral, qui est expiratoire. Vous avez le centre protubérantiel pneumotaxique.
+
+D'accord ? C'est la partie supérieure, en intérieur du pont. Il module l'activité des centres bulbaires. Il inhibe l'inspiration.
+
+Probablement, il inhibe l'inspiration. Donc, retenez que le centre pneumotaxique inhibe l'inspiration. Le centre apnestique maintient l'inspiration.
+
+Probablement, il maintient l'inspiration. Donc, apnestique maintient l'inspiration, pneumotaxique inhibe l'inspiration pour qu'on puisse expirer. Il est stimulé, le centre apnestique, il est stimulé par le nerf VAL.
+
+Regarde. Monsieur ? Oui ? Monsieur, s'il vous plaît, pour le centre apnestique, il est écrit ici qu'il est stimulé par le nerf VAL. Mais il maintient l'inspiration.
+
+Il m'a dit que le nerf VAL inhibe l'inspiration. Non, je n'ai pas dit que le nerf VAL inhibe l'inspiration de façon absolue. Non, il est écrit au niveau.
+
+Ah oui. Donc, il peut stimuler l'inspiration. Le nerf VAL, au fait, il inhibe l'inspiration juste au niveau du groupe respiratoire dorsal.
+
+Ah oui. D'accord ? Mais pas ici. Le nerf VAL, il a différentes fonctions en fonction de là où il se trouve.
+
+D'accord ? Il est vraiment polyvalent. D'accord ? Là, regardez. Le groupe respiratoire dorsal qui est inspiratoire et qui est inhibé par le nerf VAL.
+
+Le centre respiratoire ventral qui est expiratoire. Et là, vous avez le centre apnestique qui maintient l'inspiration. Et pneumotaxie qui inhibe l'inspiration.
+
+D'accord ? Ce n'est pas compliqué. Alors ça, c'est moins important. Le centre cortical sous l'influence de la volonté, il peut contrôler.
+
+D'accord ? Il modifie la ventilation par contrôle des centres bulboprotubérentiels. Le centre reticulum mesencephalique, il contrôle les autres centres. Et puis la moelle épinière, elle reçoit les influx des centres de la respiration.
+
+Vous avez les effecteurs, les muscles inspiratoires, expiratoires. Et puis les muscles des voisins aériens supérieurs. Les muscles des voisins aériens supérieurs qui vont contracter les muscles pharyngés postérieurs quand vous dormez.
+
+Quand vous dormez, le diaphragme va entraîner une inspiration, une dépression. Et si on n'a pas ces muscles qui vont se contracter, ça va entraîner une apnée. C'est ce qui arrive aux gens obèses qui font de l'apnée de sommeil.
+
+Ils ont une hypotonie et ils s'arrêtent de respirer la nuit. Ils sont obligés de se réveiller pour ne pas mourir. L'automatisme respiratoire, vous avez une activation à l'inspiration des neurones inspiratoires du tronc cérébral, contraction des muscles, à l'expiration, un arrêt de la stimulation des neurones inspiratoires et stimulation des neurones expiratoires.
+
+Ce n'est pas compliqué. Les centres respiratoires, là vous avez le nerf phrénique qui va stimuler le diaphragme et vous avez les motoneurones intercostaux. Bien, ça c'est le schéma pour vous illustrer ce qui peut se passer si on sectionne à différents endroits.
+
+On a dit que la moelle épinière elle sert juste à transmettre. Donc si on sectionne ici, au niveau de la moelle épinière, il n'y a plus de respiration. On est d'accord ? Bien.
+
+Si on sectionne là, on va exclure les centres bulbares. D'accord ? Enfin non, on va exclure, pardon, on va exclure les centres protubéranciels, pneumotaxiques et apnostiques. Mais les centres bulbares sont là.
+
+Mais regardez, seulement qu'est-ce qui va se passer ? Les centres bulbares, ils vont inspirer et expirer, mais de façon très irrégulière. D'accord ? Ils ne pourront pas maintenir une inspiration. Pourquoi ? Qu'est-ce qui sert à maintenir l'inspiration ? C'est le centre apnostique.
+
+Vous voyez ce que je veux dire ? Donc là, si on exclut les centres protubéranciels, ici, vous avez une inspiration-expiration, mais très très irrégulière. D'accord ? Là, on va exclure le centre pneumotaxique. Si on exclut le centre pneumotaxique, là vous avez une respiration qui est plus lente.
+
+Parce que le centre pneumotaxique, il stimule l'expiration. Et là, pour peu qu'on sectionne en plus le nerf-vague, vous avez, parce que le nerf-vague, il inhibe l'inspiration. Et là, le centre apnostique, il va maintenir l'inspiration, maintenir, maintenir, maintenir, parce qu'il n'y a plus le nerf-vague.
+
+D'accord ? Et il n'y a plus le centre pneumotaxique. Il n'y a ni le centre pneumotaxique, ni le nerf-vague qui vont pouvoir entraîner l'expiration. Et si vous excluez le centre pneumotaxique, le cortex, là, c'est bon, il n'y a aucun problème.
+
+On respire normalement. Sauf si vous sectionnez le nerf-vague. Là, on va respirer normalement parce que le cortex, il sert juste à contrôler la ventilation de façon volontaire.
+
+Donc retenez, si on sectionne là, il n'y a plus rien, pas de respiration. Mais si vous sectionnez là, la respiration est irrégulière. D'accord ? Ça, ce sont les deux points importants.
+
+Et puis si vous sectionnez là, il ne se passe rien du tout. Retenez surtout ça, ça, et ça. D'accord ? Alors la réponse ventilatoire à l'hypoxie.
+
+Si vous avez une hypoxie, vous avez une hyperventilation réflexe. D'accord ? Ça, c'est les chémorécepteurs. Alors les chémorécepteurs périphériques sont sensibles à l'hypoxie.
+
+Ils sont surtout sensibles à l'hypoxie. Ils sont aussi sensibles à l'hypercapnie, mais de façon moins importante. On va le voir.
+
+Alors ces chémorécepteurs, ils sont situés sur la bifurcation des carotides communes. C'est le corpuscule carotidien et la crosse de l'aorte. C'est le corpuscule aortique.
+
+Les corpuscules aortiques sont en contact avec le nervague, le dys, et le corpuscule carotidien sont en contact avec le glosopharyngeal, le neuf. Ça, c'est à connaître. Vous voyez ? Là, vous avez le nervague qui est en contact avec le glomus aortique et le nerve glosopharyngeal qui est en contact avec le glomus carotidien.
+
+Là, c'est la même chose, c'est juste qu'au niveau aortique, c'est le nerf de Sion. Ça s'appelle le nerf de Sion. Et au niveau carotidien, ça s'appelle le nerf de Hering.
+
+Là, c'est des réponses aux variations de PO2 alvéolaires. Là, vous avez la PO2. Quand elle diminue, vous avez une hyperventilation.
+
+Et surtout, si vous avez une PACO2 qui augmente, si vous avez une PO2 qui diminue, vous avez une hyperventilation, d'autant plus que la PACO2 augmente. Plus elle augmente, vous avez une hyperventilation. Alors, l'hypercapnie.
+
+Normalement, au régime métabolique stable, le débit en CO2 est constant. Quand vous avez une hypercapnie, ça entraîne une hyperventilation pour diminuer cette capnie. Là, l'augmentation de la ventilation, il énerve.
+
+L'hypoxie, l'acidose et les catécholamines augmentent la sensibilité au gaz carbonique. Ça, c'est à retenir. Si vous avez une hypercapnie, mais en plus vous avez une hypoxie, une acidose et de l'exercice, l'adrénaline, vous avez une augmentation de la sensibilité au gaz carbonique et donc une hyperventilation.
+
+La réponse ventilatoire au CO2 est liée aux chémo-récepteurs centraux. Surtout, ils sont stimulés par les ions H+, du liquide céphalo-rachidien et la PACO2 du sang artériel. Donc, c'est au niveau du LCR, c'est vraiment les chémo-récepteurs centraux et un peu moins les chémo-récepteurs périphériques.
+
+C'est une réponse qui est moins puissante, mais plus rapide. Donc, les chémo-récepteurs périphériques sont sensibles à l'hypoxie, mais moins à l'hypercapnie, mais plus rapidement. Les chémo-récepteurs centraux sont juste sensibles à l'hypercapnie et à l'acidose.
+
+À retenir. Là, ça illustre un petit peu ce que je vous ai dit. Vous avez une augmentation de la pression alvéolaire en CO2, donc augmentation de la pression artériolaire.
+
+Là, c'est la diminution du pH et stimulation des chémo-récepteurs périphériques de façon rapide. Et là, augmentation PCO2 dans le LCR, donc diminution du pH dans le LCR et stimulation des chémo-récepteurs centraux et stimulation des centres respiratoires. Donc, vous avez deux voies quand vous avez une hypercapnie.
+
+La voie périphérique et la voie centrale. Là, c'est à peu près la même chose. Et là, quand vous avez une hypercapnie, là vous avez la PCO2 qui augmente, donc vous avez une hyperventilation pour essayer de diminuer.
+
+Et plus vous avez une hypoxie, plus la ventilation va augmenter. Là, vous avez une PAO2 à 110. Là, les ventilations ont déjà augmenté, mais quand vous diminuez encore plus la PAO2 à 37, là, la ventilation va augmenter encore plus.
+
+Donc, à l'exercice, l'hyperventilation peut être expliquée par une augmentation de la production d'acide lactique et une diminution du pH, stimulation des récepteurs musculaires et une augmentation de la vigilance. Ça, c'est des petits trucs à retenir. La stimulation des récepteurs d'irritation par inhalation de produits chimiques entraîne une polypnée, une bronchostriction, une contraction laryngée, une bronchostriction, et elle accompagne la toux en général et la polypnée aussi pour dégager les bronches.
+
+La stimulation des récepteurs alvéolaires par la congestion vasculaire pulmonaire entraîne une tachypnée, une apnée ou une dyspnée. Et la stimulation des récepteurs de distension par augmentation du volume pulmonaire entraîne une inhibition de l'inspiration. C'est ce qu'on appelle le réflexe de Ehrenbrouer.
+
+Là, c'est un schéma qui résume à peu près les chémorécepteurs centraux périphériques. Je vous laisse l'étudier à tête reposée. Là, c'est la même chose.
+
+Ça résume un petit peu tout le cours. Vous avez les chémorécepteurs périphériques qui sont sensibles à l'hypoxie, à l'hypercapnie, à la diminution du pH. Les centraux qui sont juste sensibles au pH et à la CO2.
+
+Vous avez les récepteurs à l'étirement, aux muscles, aux articulations, Vous avez les centres bulbares qui sont inspiratoires et expiratoires. Le centre apnestique qui maintient l'inspiration. Le centre pneumotaxique qui inhibe l'inspiration.
+
+C'est un cours qui n'est pas trop compliqué. On va passer aux questions. Vous êtes toujours là ? Allô ? Oui.
+
+Très bien. Je n'avais peur que vous soyez endormi. Non, ça j'ai déjà fait.
+
+Très bien. Concernant les centres respiratoires, quelles sont les propositions justes ? Le groupe respiratoire dorsal bulbaire est responsable de l'expiration. Le nervague inhibe le groupe respiratoire ventral.
+
+Une section au-dessus de la protubérance affecte la respiration volontaire. Une section de la moelle entraîne un arrêt ventilatoire. Une section entre le bulbe et le pont entraîne une respiration irrégulière.
+
+Réfléchissez bien. CDE ? Une section de la moelle entraîne un arrêt ventilatoire. Une section entre le bulbe et le pont entraîne une respiration régulière.
+
+D'accord ? Très bien. Concernant les chémorécepteurs, quelles sont les propositions justes ? Les chémorécepteurs périphériques sont sensibles à l'hypercapnie. Les chémorécepteurs centraux sont sensibles à la baisse du pH.
+
+Le corpuscule aortique est en contact avec le nervague. L'hypoxie entraîne une sensibilité au CO2. L'exercice diminue la sensibilité au CO2.
+
+ABCD ? Les chémorécepteurs périphériques sont sensibles surtout à l'hypoxie, mais à moindre degré d'hypercapnie. Les chémorécepteurs centraux sont sensibles à la baisse du pH. Le corpuscule est en contact avec le nervague, on l'a vu.
+
+L'hypoxie augmente la sensibilité au CO2. L'exercice augmente la sensibilité au CO2. Il ne la diminue pas.
+
+D'accord ? Concernant les récepteurs pulmonaires, l'inhalation de produits chimiques provoque une tachypnée. Une augmentation du volume pulmonaire inhibe l'expiration. L'inhalation de produits chimiques provoque une bronchodilatation.
+
+Un œdème pulmonaire cardio-génique peut provoquer une apnée. Un réflexe d'airing brouère est déclenché par simulation des récepteurs de distension. ADE ? L'inhalation de produits chimiques provoque une tachypnée.
+
+D'accord ? C'est juste un truc de cours. Il n'y a rien à comprendre. Est-ce qu'il n'y a pas une différence entre polypnée et tachypnée ? C'est intéressant ça.
+
+Vous le verrez. Vous avez un cours de sémiologie, je pense. C'est pour cela que j'ai dit.
+
+Parce qu'on a dans le cours la polypnée et pas la tachypnée. Il y a les deux. Il y a les deux.
+
+La polypnée, c'est une respiration superficielle. La tachypnée c'est une accélération du rythme respiratoire mais la polypnée c'est une accélération avec une respiration superficielle, la tachypnée non. On va le voir demain, vous avez un cours avec moi demain de sémiologie.
+
+Allô ? Oui monsieur. Très bien. Monsieur est-ce que les produits qu'on y a, est-ce qu'ils provoquent les deux, la tachypnée et polypnée ? Ils peuvent oui, tachypnée et polypnée.
+
+D'accord, merci monsieur. Ça dépend en fait de la concentration, plus ils sont concentrés, plus il y a une polypnée. D'accord ? D'accord monsieur.
+
+Une augmentation du volume pulmonaire inhibe l'expiration, c'est faux, elle provoque l'expiration. L'inhalation de produits chimiques provoque une bronchodilatation, c'est faux, il provoque une bronchostriction. Le délai pulmonaire cardiogénique peut provoquer une apnée effectivement et puis le réflexe du Béhring-Bruer est déclenché par la stimulation des récepteurs de distension.
+
+Voilà. Est-ce qu'il y a des questions ? Allô ? Monsieur s'il vous plaît ? Oui. Pourquoi lors de l'exercice on aura une augmentation de sensibilité au CO2 alors qu'on a une hyperventilation ? Quand vous êtes en exercice, si vous n'aviez pas une augmentation de la sensibilité au CO2, vous auriez de gros problèmes respiratoires.
+
+Normalement vous avez une hypercapnie, quand vous avez une hypercapnie, vous avez une hyperventilation. Et cette sensibilité est augmentée plus à l'exercice, elle est beaucoup plus augmentée à l'exercice. D'accord ? Sans l'augmenter à l'exercice, vous auriez de gros problèmes respiratoires, vous auriez une hypercapnie, vous auriez une hypoxie.
+
+D'accord ? Retenez ça comme c'est, comme c'est écrit dans le cours. Allô ? D'accord monsieur, merci. D'autres questions ? Monsieur ? Oui ? S'il vous plaît, j'aimerais bien assimiler l'effet Shunt, si vous pouvez le répéter.
+
+Alors l'effet Shunt, c'est quand tu as une branche qui est bouchée, partiellement. Quand elle est bouchée, l'air, il circule comment ? Il circule mal. D'accord ? Dans cette branche, elle se termine par une alvéole.
+
+En dessous de l'alvéole, qu'est-ce qu'il y a ? Un capillaire. Le capillaire, il vient, il est chargé en sang veineux, qui est riche en gaz carbonique. Ce sang veineux, tu dois le charger en quoi ? En oxygène.
+
+Mais ta branche, elle est bouchée, donc l'oxygène, il va passer mal. Donc le sang veineux, il va prendre un petit peu d'oxygène, mais il ne va pas en prendre beaucoup. Donc il va rester un petit peu veineux.
+
+Mais il est artérien, il est toujours contaminé, donc le rapport entre la ventilation et la perfusion, il est diminué. Donc ta branche, elle est mal ventilée, ton alvéole, elle est mal ventilée, mais bien perfusée. Tu vois, parce que le sang, il circule, mais l'oxygène, il circule mal.
+
+Ça s'appelle un effet Shunt. Si c'était l'inverse, si l'alvéole n'était pas bouchée, mais ton capillaire en dessous de l'alvéole était bouché, c'est l'inverse. C'est l'effet espace mort.
+
+L'air passe, l'air, il passe, mais il n'y a pas de sang pour le recevoir, pour recevoir de l'oxygène. Donc c'est un effet espace mort. Relis bien ton cours, relis-le bien, slide par slide et tu comprendras, incha'Allah.
+
+D'accord? Et n'hésite pas à aller sur les sites Internet. D'accord, merci beaucoup, monsieur. Notre question? Monsieur? Oui? Est-ce que l'utilisation pour longue durée des masques chirurgicaux peut causer une acidose? La grande question.
+
+C'est difficile à dire. C'est très, très difficile à dire. Est-ce que ça peut entraîner? Alors une acidose, tu veux dire respiratoire? Franchement, je ne pense pas.
+
+Honnêtement, je ne pense pas. Si tu as un système respiratoire qui fonctionne bien, tu ne devrais pas avoir d'acidose. Non, non, je ne pense pas.
+
+Non, non. Il faut les utiliser. Bon, de temps en temps, vous les enlevez pour respirer, mais je ne pense pas que ça entraîne une acidose, vraiment.
+
+À mon avis, le risque, le principal risque, c'est de se recontaminer avec ses propres germes quand on respire. Mais au niveau de l'acidose, je ne pense pas. Mais ça, je ne peux pas vous répondre.
+
+Il faut des physiologistes aguerris qui font, qui fassent des expériences. Et personne ne peut vous dire ça juste par raisonnement. C'est très difficile à dire.
+
+Aucune autre question? OK. S'il n'y a pas d'autres questions, je vous souhaite une bonne journée. On se dit à demain, Inshallah.
+
+Je crois que c'est vers 10h30 pour la sémiologie. Invitez vos amis à venir. Ça va être, Inshallah, intéressant.
+
+Il y aura des QCM également et on va essayer de comprendre la physiologie, la sémiologie, pardon. Donc, bonne journée. À demain, Inshallah.
+
+Salaam alaykoum.

@@ -1,0 +1,2775 @@
+1
+00:00:01,160 --> 00:00:05,520
+Enseignement de physiologie endocrinienne, cours de deuxième année.
+
+2
+00:00:07,360 --> 00:00:10,520
+Ce cours va porter sur la physiologie de
+
+3
+00:00:10,520 --> 00:00:14,060
+l'axe thyréotrope ou axe thyrotrope.
+
+4
+00:00:20,120 --> 00:00:23,080
+Donc nous allons aborder ce cours de physiologie
+
+5
+00:00:23,080 --> 00:00:26,720
+à partir d'un cas clinique concret, qui
+
+6
+00:00:26,720 --> 00:00:31,380
+est celui de Mme Halima, une patiente qui
+
+7
+00:00:31,380 --> 00:00:34,500
+nous arrive au service, âgée de 40 ans
+
+8
+00:00:34,500 --> 00:00:39,160
+et originaire de la région montagneuse d'Eytourir.
+
+9
+00:00:39,900 --> 00:00:44,660
+Cette patiente consulte pour un volumineux gouâtre qu
+
+10
+00:00:44,660 --> 00:00:46,060
+'elle a depuis plusieurs années.
+
+11
+00:00:50,920 --> 00:00:55,580
+Alors, quel est l'objectif de Mme Halima
+
+12
+00:00:55,580 --> 00:00:58,300
+en venant vous voir ?
+
+13
+00:00:58,300 --> 00:01:01,000
+C'est certainement de régler son problème de
+
+14
+00:01:01,000 --> 00:01:04,880
+santé et de trouver une solution à cette
+
+15
+00:01:04,880 --> 00:01:07,480
+volumineuse thyroïde, à ce volumineux gouâtre.
+
+16
+00:01:08,660 --> 00:01:12,160
+Nous abordons la physiologie thyroïdienne à partir de
+
+17
+00:01:12,160 --> 00:01:15,300
+ce cas clinique, justement pour vous montrer l
+
+18
+00:01:15,300 --> 00:01:18,200
+'intérêt de la tâche et pourquoi nous faisons
+
+19
+00:01:18,200 --> 00:01:22,820
+ce cours initial, qui vous permettra un peu
+
+20
+00:01:22,820 --> 00:01:25,060
+plus tard de régler le problème de santé
+
+21
+00:01:25,060 --> 00:01:25,920
+de Mme Halima.
+
+22
+00:01:26,680 --> 00:01:31,820
+Donc nous avons présenté un cas pathologique qui
+
+23
+00:01:31,820 --> 00:01:33,120
+est celui d'un gouâtre.
+
+24
+00:01:33,620 --> 00:01:35,760
+Donc pour être en mesure de le traiter,
+
+25
+00:01:36,600 --> 00:01:40,580
+nous devons absolument avoir des notions de base
+
+26
+00:01:40,580 --> 00:01:46,360
+de physiologie, afin d'être à même de
+
+27
+00:01:46,360 --> 00:01:48,620
+régler le problème de santé de cette patiente.
+
+28
+00:01:49,880 --> 00:01:52,160
+Et la question qui se pose à nous
+
+29
+00:01:52,160 --> 00:01:55,080
+maintenant dans cet enseignement est comment fonctionne la
+
+30
+00:01:55,080 --> 00:02:00,580
+glande thyroïde, le fonctionnement normal physiologique, qui va
+
+31
+00:02:00,580 --> 00:02:04,120
+s'appuyer bien sûr sur vos connaissances et
+
+32
+00:02:04,120 --> 00:02:06,300
+sur les connaissances antérieures d'anatomie.
+
+33
+00:02:07,199 --> 00:02:09,000
+Et maintenant ce sera le cours de physiologie
+
+34
+00:02:09,000 --> 00:02:12,200
+pour voir quel est le fonctionnement normal de
+
+35
+00:02:12,200 --> 00:02:17,100
+l'axe thyrotrope, quel est le fonctionnement normal
+
+36
+00:02:17,100 --> 00:02:21,580
+de la glande thyroïdienne, avant de passer aux
+
+37
+00:02:21,580 --> 00:02:23,400
+étapes suivantes.
+
+38
+00:02:25,880 --> 00:02:29,740
+Donc les objectifs pédagogiques de notre cours seront
+
+39
+00:02:29,740 --> 00:02:30,540
+les suivants.
+
+40
+00:02:31,380 --> 00:02:35,300
+D'abord décrire les différentes étapes de synthèse
+
+41
+00:02:35,300 --> 00:02:38,000
+des hormones thyroïdiennes, étape par étape.
+
+42
+00:02:39,660 --> 00:02:43,700
+Citer par la suite les caractéristiques structurelles ou
+
+43
+00:02:43,700 --> 00:02:45,960
+structurelles des hormones thyroïdiennes.
+
+44
+00:02:48,460 --> 00:02:50,460
+Être à même de savoir ou d'identifier
+
+45
+00:02:50,460 --> 00:02:54,380
+les différents mécanismes de la régulation de la
+
+46
+00:02:54,380 --> 00:02:55,160
+fonction thyroïdienne.
+
+47
+00:02:56,500 --> 00:02:59,740
+Connaître le mode d'action de la TSH
+
+48
+00:02:59,740 --> 00:03:02,360
+et son rôle trophique sur la glande thyroïdienne.
+
+49
+00:03:03,600 --> 00:03:07,800
+Et connaître les principaux effets biologiques des hormones
+
+50
+00:03:07,800 --> 00:03:08,160
+thyroïdiennes.
+
+51
+00:03:13,620 --> 00:03:16,520
+Donc cela vous le savez bien, la glande
+
+52
+00:03:16,520 --> 00:03:19,560
+thyroïde est une glande qui est située à
+
+53
+00:03:19,560 --> 00:03:21,720
+la face antérieure du cou sous forme d
+
+54
+00:03:21,720 --> 00:03:24,920
+'un papillon qui est en avant de la
+
+55
+00:03:24,920 --> 00:03:28,740
+trachée, de l'axe aérodigestif du cou, qui
+
+56
+00:03:28,740 --> 00:03:30,940
+s'étale sur l'écartilage trachéo qu'elle
+
+57
+00:03:30,940 --> 00:03:36,400
+épouse, en antérieur et en antérolatéral, et qui
+
+58
+00:03:36,400 --> 00:03:42,580
+comporte deux lobes, deux lobes asymétriques, le lobe
+
+59
+00:03:42,580 --> 00:03:44,660
+droit et le lobe gauche, reliés par un
+
+60
+00:03:44,660 --> 00:03:47,320
+nid, mais avec une petite pyramide de la
+
+61
+00:03:47,320 --> 00:03:49,720
+louette qui est inconstante.
+
+62
+00:03:50,200 --> 00:03:53,900
+C'est important de connaître ce rappel anatomique
+
+63
+00:03:53,900 --> 00:03:56,670
+pour situer exactement la glande thyroïde et pour
+
+64
+00:03:56,670 --> 00:03:59,490
+rappeler les rapports qu'elle peut avoir avec
+
+65
+00:03:59,490 --> 00:04:03,770
+l'axe aérodigestif, et on ne le voit
+
+66
+00:04:03,770 --> 00:04:05,210
+pas ici avec les nez récurrents.
+
+67
+00:04:08,080 --> 00:04:13,060
+Maintenant d'un point de vue histologique, ça
+
+68
+00:04:13,060 --> 00:04:17,320
+c'est un schéma qui nous montre une
+
+69
+00:04:17,320 --> 00:04:23,580
+thyroïde et une petite coupe de thyroïde agrandie
+
+70
+00:04:23,580 --> 00:04:27,320
+et avec une visualisation histologique qui montre l
+
+71
+00:04:27,320 --> 00:04:31,760
+'unité fonctionnelle et l'unité anatomique et fonctionnelle
+
+72
+00:04:31,760 --> 00:04:34,960
+de base de la glande thyroïde représentée par
+
+73
+00:04:34,960 --> 00:04:39,260
+le follicule thyroïdien, d'accord ?
+
+74
+00:04:39,260 --> 00:04:48,940
+Donc chaque follicule thyroïdien est constitué de nombreuses
+
+75
+00:04:48,940 --> 00:04:54,460
+cellules, ces cellules-là qui définissent au centre
+
+76
+00:04:54,460 --> 00:04:56,980
+une colloïde comme vous le voyez.
+
+77
+00:04:57,900 --> 00:05:01,260
+Alors les cellules folliculaires, on peut les appeler
+
+78
+00:05:01,260 --> 00:05:07,060
+cellules vésiculaires ou cellules thyroïdiennes, ce sont ces
+
+79
+00:05:07,060 --> 00:05:10,800
+cellules-là qui fabriquent les hormones thyroïdiennes.
+
+80
+00:05:10,800 --> 00:05:17,180
+Vous pouvez constater qu'entre les follicules thyroïdiennes,
+
+81
+00:05:17,260 --> 00:05:20,520
+il y a une vascularisation très très riche,
+
+82
+00:05:20,980 --> 00:05:22,460
+ce qui est tout à fait normal puisqu
+
+83
+00:05:22,460 --> 00:05:26,460
+'on est dans une glande endocrine et que
+
+84
+00:05:26,460 --> 00:05:32,460
+les sécrétions glandulaires vont se faire via la
+
+85
+00:05:32,460 --> 00:05:35,420
+circulation sanguine et vont être déversées comme on
+
+86
+00:05:35,420 --> 00:05:37,000
+a vu dans le premier cours, dans le
+
+87
+00:05:37,000 --> 00:05:37,260
+sang.
+
+88
+00:05:38,140 --> 00:05:43,300
+Donc nous avons une grande proximité des capillaires
+
+89
+00:05:43,300 --> 00:05:47,220
+et de ces vaisseaux-là intrathyroïdiens qui sont
+
+90
+00:05:47,220 --> 00:05:51,260
+franchement au contact des cellules folliculaires thyroïdiennes.
+
+91
+00:05:53,360 --> 00:05:58,180
+Alors constatez aussi que la forme des follicules
+
+92
+00:05:58,180 --> 00:06:00,420
+est très différente sur les deux follicules que
+
+93
+00:06:00,420 --> 00:06:01,320
+vous voyez ici.
+
+94
+00:06:01,320 --> 00:06:04,180
+Nous avons celui qui est d'en haut
+
+95
+00:06:04,180 --> 00:06:08,320
+qui est beaucoup moins volumineux que l'autre,
+
+96
+00:06:08,440 --> 00:06:10,780
+que le second qui est plus en bas
+
+97
+00:06:11,160 --> 00:06:13,440
+et ceci va être dû à l'activité
+
+98
+00:06:13,440 --> 00:06:15,500
+fonctionnelle du follicule.
+
+99
+00:06:16,180 --> 00:06:20,140
+Lorsqu'il va emmagasiner et stocker les hormones
+
+100
+00:06:20,140 --> 00:06:24,000
+thyroïdiennes dans la colloïde, la colloïde sera plus
+
+101
+00:06:24,000 --> 00:06:27,640
+large et plus volumineuse.
+
+102
+00:06:27,640 --> 00:06:30,280
+Par rapport à un follicule thyroïdien qui n
+
+103
+00:06:30,280 --> 00:06:31,810
+'a pas de réserve en hormones thyroïdiennes.
+
+104
+00:06:32,660 --> 00:06:35,760
+Donc la forme des follicules thyroïdiennes est très
+
+105
+00:06:35,760 --> 00:06:36,360
+différente.
+
+106
+00:06:36,560 --> 00:06:40,830
+Elle peut être sphérique, arrondie, ovalaire, cubique.
+
+107
+00:06:41,300 --> 00:06:43,680
+En fait ça dépend de l'activité fonctionnelle
+
+108
+00:06:43,680 --> 00:06:45,060
+de ce follicule.
+
+109
+00:06:46,700 --> 00:06:50,980
+Alors les thyréocytes ou cellules folliculaires ou cellules
+
+110
+00:06:50,980 --> 00:06:54,920
+vésiculaires de la thyroïde constituent plus de 99
+
+111
+00:06:54,920 --> 00:06:58,340
+% des cellules de la glande thyroïde et
+
+112
+00:06:58,340 --> 00:07:01,480
+vous avez ici les cellules parafolliculaires que vous
+
+113
+00:07:01,480 --> 00:07:05,040
+pouvez constater qui sont au contact du follicule
+
+114
+00:07:05,040 --> 00:07:05,680
+thyroïdien.
+
+115
+00:07:13,620 --> 00:07:17,840
+Maintenant nous allons voir quelles sont les étapes
+
+116
+00:07:17,840 --> 00:07:20,520
+de production des hormones thyroïdiennes.
+
+117
+00:07:21,700 --> 00:07:26,580
+Alors ces étapes sont très importantes à déterminer
+
+118
+00:07:26,580 --> 00:07:31,540
+et le respect de ces étapes-là est
+
+119
+00:07:31,540 --> 00:07:34,580
+indispensable à la production des hormones thyroïdiennes.
+
+120
+00:07:35,300 --> 00:07:38,700
+Donc la biosynthèse des hormones thyroïdiennes va commencer
+
+121
+00:07:38,700 --> 00:07:41,100
+par une première étape essentielle qui est la
+
+122
+00:07:41,100 --> 00:07:42,680
+captation de l'iodure.
+
+123
+00:07:43,140 --> 00:07:45,300
+La captation de l'iodure, nous allons le
+
+124
+00:07:45,300 --> 00:07:49,640
+voir sur un schéma suivant, va se faire
+
+125
+00:07:49,640 --> 00:07:51,580
+au niveau de la cellule thyroïdienne.
+
+126
+00:07:51,580 --> 00:07:55,120
+Je rappelle d'abord la source de l
+
+127
+00:07:55,120 --> 00:07:58,580
+'iodure, elle est alimentaire.
+
+128
+00:07:59,760 --> 00:08:05,400
+Donc les aliments les plus riches en iodure
+
+129
+00:08:05,400 --> 00:08:11,980
+sont les crustacés suivis par les poissons de
+
+130
+00:08:11,980 --> 00:08:15,120
+mer et nous avons également une présence d
+
+131
+00:08:15,120 --> 00:08:19,960
+'iodure dans certains aliments comme les œufs, certains
+
+132
+00:08:19,960 --> 00:08:21,440
+légumes, les laitages.
+
+133
+00:08:21,580 --> 00:08:24,440
+Nous avons également la présence d'iode dans
+
+134
+00:08:24,440 --> 00:08:28,400
+le sel iodé qui enrichit l'iode et
+
+135
+00:08:28,400 --> 00:08:30,840
+qui est mis à la disposition de la
+
+136
+00:08:30,840 --> 00:08:31,460
+population.
+
+137
+00:08:32,840 --> 00:08:36,679
+Les besoins quotidiens pour une personne adulte sont
+
+138
+00:08:36,679 --> 00:08:39,320
+à peu près 150 à 200 microgrammes par
+
+139
+00:08:39,320 --> 00:08:39,679
+jour.
+
+140
+00:08:40,900 --> 00:08:43,580
+Donc l'iode est essentiel à la production
+
+141
+00:08:43,580 --> 00:08:49,500
+d'hormones thyroïdiennes et une alimentation équilibrée va
+
+142
+00:08:49,500 --> 00:08:55,520
+permettre d'apporter ce besoin-là ou de
+
+143
+00:08:55,520 --> 00:08:58,080
+couvrir ce besoin quotidien.
+
+144
+00:08:58,820 --> 00:09:01,000
+C'est pour cela que nous le verrons
+
+145
+00:09:01,000 --> 00:09:04,000
+dans des cours suivants qu'une alimentation équilibrée
+
+146
+00:09:04,000 --> 00:09:09,800
+est absolument indispensable, a de nombreuses fonctions parmi
+
+147
+00:09:09,800 --> 00:09:12,620
+lesquelles il y a la production d'hormones
+
+148
+00:09:12,620 --> 00:09:14,540
+thyroïdiennes et là c'est un exemple où
+
+149
+00:09:14,540 --> 00:09:18,560
+vous voyez que l'iode qui est présent
+
+150
+00:09:18,560 --> 00:09:28,020
+au niveau de différents aliments types alimentaires devra
+
+151
+00:09:28,020 --> 00:09:32,160
+être présent dans une alimentation quotidienne à travers
+
+152
+00:09:32,160 --> 00:09:35,360
+des produits de mer, à travers des protéines
+
+153
+00:09:35,360 --> 00:09:38,660
+ou des produits des laitages, à travers des
+
+154
+00:09:38,660 --> 00:09:41,880
+légumes et c'est absolument indispensable d'avoir
+
+155
+00:09:41,880 --> 00:09:45,160
+cette alimentation équilibrée pour couvrir ce besoin quotidien.
+
+156
+00:09:46,560 --> 00:09:50,600
+Une fois arrivé au contact de la cellule
+
+157
+00:09:50,600 --> 00:09:56,500
+thyroïdienne, nous allons avoir la captation de cette
+
+158
+00:09:56,500 --> 00:09:59,420
+iodure par un symporteur.
+
+159
+00:09:59,420 --> 00:10:04,320
+On va l'appeler symporteur sodium-iode, NIS,
+
+160
+00:10:04,600 --> 00:10:05,820
+on l'appellera NIS.
+
+161
+00:10:06,320 --> 00:10:08,680
+Ce n'est pas un récepteur mais ce
+
+162
+00:10:08,680 --> 00:10:12,980
+sera plutôt un symporteur qui va faire, qui
+
+163
+00:10:12,980 --> 00:10:16,360
+va réaliser le transport de l'iode de
+
+164
+00:10:16,360 --> 00:10:21,340
+la circulation vers la cellule et le faire
+
+165
+00:10:21,340 --> 00:10:22,420
+passer en intrathyroïdien.
+
+166
+00:10:23,420 --> 00:10:27,320
+Donc ce symporteur d'iode ou NIS va
+
+167
+00:10:27,320 --> 00:10:30,760
+être présent au niveau de la membrane basale
+
+168
+00:10:30,760 --> 00:10:33,580
+du thyrocyte qu'on a vu tout à
+
+169
+00:10:33,580 --> 00:10:36,460
+l'heure qui est au contact étroit de
+
+170
+00:10:36,460 --> 00:10:39,220
+deux vaisseaux.
+
+171
+00:10:41,220 --> 00:10:44,920
+Donc par la suite nous avons une deuxième
+
+172
+00:10:44,920 --> 00:10:49,540
+étape, une fois l'iode intégré au sein
+
+173
+00:10:49,540 --> 00:10:54,440
+de la cellule thyroïdienne, nous avons la seconde
+
+174
+00:10:54,440 --> 00:10:57,740
+étape qui sera l'organification de l'iodure
+
+175
+00:10:57,740 --> 00:11:01,540
+qui se fera en intracellulaire.
+
+176
+00:11:01,740 --> 00:11:04,260
+Donc c'est une étape qui est essentielle.
+
+177
+00:11:08,040 --> 00:11:11,820
+Après l'organification de l'iodure, nous avons
+
+178
+00:11:11,820 --> 00:11:13,540
+l'oxydation de l'iodure.
+
+179
+00:11:14,300 --> 00:11:17,460
+Cette oxydation fait appel à une enzyme qui
+
+180
+00:11:17,460 --> 00:11:22,720
+est la thyropéroxidase, TPO, qui est une enzyme
+
+181
+00:11:22,720 --> 00:11:28,680
+essentielle dans la biosynthèse des hormones thyroïdiennes, et
+
+182
+00:11:28,680 --> 00:11:32,120
+donc elle aura d'autres rôles secondairement, le
+
+183
+00:11:32,120 --> 00:11:34,140
+premier étant d'oxyder l'iodure.
+
+184
+00:11:35,160 --> 00:11:37,980
+Donc au-delà de cette troisième étape, nous
+
+185
+00:11:37,980 --> 00:11:42,860
+avons un iodure qui a été incorporé à
+
+186
+00:11:42,860 --> 00:11:44,740
+l'intérieur et intégré à l'intérieur de
+
+187
+00:11:44,740 --> 00:11:51,180
+la cellule, deuxièmement organifié, troisièmement oxydé grâce à
+
+188
+00:11:51,180 --> 00:11:56,960
+cette enzyme thyropéroxidase, et par la suite, toujours
+
+189
+00:11:56,960 --> 00:12:01,240
+la thyropéroxidase va permettre, comme vous le voyez
+
+190
+00:12:01,240 --> 00:12:06,500
+sur les schémas, de lier cette iode, préalablement
+
+191
+00:12:06,500 --> 00:12:13,260
+organifiée et oxydée, aux résidus thyrosiles que vous
+
+192
+00:12:13,260 --> 00:12:14,000
+voyez ici.
+
+193
+00:12:14,000 --> 00:12:19,880
+Donc les résidus thyrosiles vont être liés à
+
+194
+00:12:19,880 --> 00:12:25,340
+l'iode organifié-oxydé, et cette liaison entre
+
+195
+00:12:25,340 --> 00:12:28,540
+l'iode organifié-oxydé et les résidus thyrosiles
+
+196
+00:12:28,540 --> 00:12:30,760
+se fait encore une fois grâce à la
+
+197
+00:12:30,760 --> 00:12:31,160
+thyropéroxidase.
+
+198
+00:12:32,620 --> 00:12:36,680
+Alors lorsqu'un atome diode, un seul, est
+
+199
+00:12:36,680 --> 00:12:40,800
+lié aux résidus thyrosiles, ça constitue, comme vous
+
+200
+00:12:40,800 --> 00:12:43,220
+le voyez, la mono-iodothyrosine.
+
+201
+00:12:44,820 --> 00:12:48,580
+Par contre, lorsque nous avons deux atomes diodes,
+
+202
+00:12:48,940 --> 00:12:52,280
+comme vous pouvez le voir, qui sont liés
+
+203
+00:12:52,280 --> 00:12:57,220
+aux résidus thyrosines, nous allons avoir la diodotyrosine.
+
+204
+00:12:58,760 --> 00:13:02,080
+Donc ce sont des précurseurs d'hormones thyroïdiennes
+
+205
+00:13:02,080 --> 00:13:03,180
+que vous voyez ici.
+
+206
+00:13:03,900 --> 00:13:07,400
+Donc je récapitule, nous avons l'iodure qui
+
+207
+00:13:07,400 --> 00:13:10,140
+a été introduite grâce au nis, qui est
+
+208
+00:13:10,140 --> 00:13:12,620
+le saint porteur, qui a pénétré à l
+
+209
+00:13:12,620 --> 00:13:14,320
+'intérieur de la cellule thyroïdienne.
+
+210
+00:13:14,500 --> 00:13:18,380
+Cette iodure a été organifiée au sein de
+
+211
+00:13:18,380 --> 00:13:18,980
+la cellule.
+
+212
+00:13:19,540 --> 00:13:21,760
+Par la suite, il a été oxydé grâce
+
+213
+00:13:21,760 --> 00:13:25,820
+à la thyropéroxidase, et puis la thyropéroxidase a
+
+214
+00:13:25,820 --> 00:13:29,060
+permis également la liaison de cette iodure, de
+
+215
+00:13:29,060 --> 00:13:32,300
+cette iode oxydée-organifiée, aux résidus thyrosines.
+
+216
+00:13:34,160 --> 00:13:37,040
+Alors je rappelle que dans un cours précédent,
+
+217
+00:13:37,140 --> 00:13:40,280
+nous avons vu que les hormones thyroïdiennes appartenaient
+
+218
+00:13:40,280 --> 00:13:44,600
+au groupe des hormones de type monoaminé, qu
+
+219
+00:13:44,600 --> 00:13:46,580
+'on a vu dans la classification générale des
+
+220
+00:13:46,580 --> 00:13:49,140
+hormones, parce qu'elles étaient constituées à partir
+
+221
+00:13:49,140 --> 00:13:51,360
+d'un seul acide aminé.
+
+222
+00:13:51,720 --> 00:13:55,480
+Et là vous voyez la structure, les précurseurs
+
+223
+00:13:55,480 --> 00:13:57,980
+de la structure finale d'hormones thyroïdiennes.
+
+224
+00:13:57,980 --> 00:14:02,280
+Nous avons ici affaire aux résidus thyrosines à
+
+225
+00:14:02,280 --> 00:14:04,980
+un type unique d'acide aminé qui va
+
+226
+00:14:04,980 --> 00:14:08,100
+être constitutif des hormones thyroïdiennes.
+
+227
+00:14:12,530 --> 00:14:17,790
+Maintenant que les précurseurs sont formés, nous avons
+
+228
+00:14:17,790 --> 00:14:23,150
+du monoyodo thyrosine, de la diodo, et le
+
+229
+00:14:23,150 --> 00:14:27,230
+couplage se fera secondairement de ces précurseurs que
+
+230
+00:14:27,230 --> 00:14:28,090
+nous venons de voir.
+
+231
+00:14:28,090 --> 00:14:32,210
+Alors lorsque le monoyodo se lie à la
+
+232
+00:14:32,210 --> 00:14:38,050
+diodo, nous allons voir se former la triiodothyronine,
+
+233
+00:14:38,290 --> 00:14:39,170
+qui est la T3.
+
+234
+00:14:40,790 --> 00:14:47,090
+Sinon, si deux précurseurs diodothyrosine se lient entre
+
+235
+00:14:47,090 --> 00:14:53,270
+eux, ils vont donner tetraiodothyronine, ou thyroxine, qui
+
+236
+00:14:53,270 --> 00:14:54,170
+est la T4.
+
+237
+00:14:54,170 --> 00:14:58,790
+Donc la différence entre ces deux hormones, T3
+
+238
+00:14:58,790 --> 00:15:04,490
+et T4, va être marquée par le nombre
+
+239
+00:15:04,490 --> 00:15:08,970
+d'iodes constitutifs, puisqu'au niveau de la
+
+240
+00:15:08,970 --> 00:15:13,230
+T3, nous avons 3 iodes, et qu'au
+
+241
+00:15:13,230 --> 00:15:15,310
+niveau de la T4, nous en avons 4.
+
+242
+00:15:17,530 --> 00:15:21,960
+Une fois que ces deux hormones sont formées
+
+243
+00:15:21,960 --> 00:15:29,480
+au sein de la cellule thyroïdienne, la cellule
+
+244
+00:15:29,480 --> 00:15:32,820
+va devoir les stocker et les garder jusqu
+
+245
+00:15:32,820 --> 00:15:34,780
+'à besoin, jusqu'à demande.
+
+246
+00:15:34,780 --> 00:15:40,120
+Et cette réserve d'hormones thyroïdiennes se fera
+
+247
+00:15:40,120 --> 00:15:45,160
+au sein d'une protéine porteuse, qui est
+
+248
+00:15:45,160 --> 00:15:48,420
+la thyroglobuline, qui est produite au sein de
+
+249
+00:15:48,420 --> 00:15:49,660
+la cellule thyroïdienne.
+
+250
+00:15:50,260 --> 00:15:54,260
+La thyroglobuline est donc une protéine porteuse locale.
+
+251
+00:15:55,020 --> 00:15:58,380
+Donc c'est une protéine qui va porter
+
+252
+00:15:58,380 --> 00:16:03,760
+et incorporer ou intégrer les hormones thyroïdiennes formées
+
+253
+00:16:03,760 --> 00:16:07,040
+au niveau de la cellule thyroïdienne, et ce
+
+254
+00:16:07,040 --> 00:16:12,580
+stockage se fera au sein de la colloïde,
+
+255
+00:16:12,780 --> 00:16:14,680
+au centre du follicule thyroïdien.
+
+256
+00:16:18,920 --> 00:16:22,100
+Alors ce schéma le montre bien, donc nous
+
+257
+00:16:22,100 --> 00:16:26,580
+avons une cellule, en fait ce schéma va
+
+258
+00:16:26,580 --> 00:16:34,080
+synthétiser ou résumer plutôt toutes les étapes qu
+
+259
+00:16:34,080 --> 00:16:35,360
+'on vient de voir précédemment.
+
+260
+00:16:35,920 --> 00:16:42,080
+En orange ici sur le pôle basal de
+
+261
+00:16:42,080 --> 00:16:46,860
+la cellule thyroïdienne, nous avons en orange des
+
+262
+00:16:46,860 --> 00:16:47,300
+récepteurs.
+
+263
+00:16:48,040 --> 00:16:52,160
+Des récepteurs membranaires, comme vous le comprenez, qui
+
+264
+00:16:52,160 --> 00:16:58,260
+vont accueillir la TSH qui est ici marquée
+
+265
+00:16:58,260 --> 00:16:59,000
+en vert.
+
+266
+00:16:59,000 --> 00:17:03,359
+La TSH qui va donner l'ordre ou
+
+267
+00:17:03,359 --> 00:17:06,280
+qui va en se fixant sur son récepteur,
+
+268
+00:17:06,700 --> 00:17:11,319
+en se fixant sur son récepteur, la TSH
+
+269
+00:17:11,319 --> 00:17:20,359
+va permettre la stimulation des différentes étapes de
+
+270
+00:17:20,359 --> 00:17:23,380
+production d'hormones thyroïdiennes.
+
+271
+00:17:23,380 --> 00:17:27,119
+Donc le contact de la TSH, qu'on
+
+272
+00:17:27,119 --> 00:17:31,040
+a vu précédemment comme étant une hormone peptidique
+
+273
+00:17:31,040 --> 00:17:35,760
+hypophysaire, se fait à la superficie du thyroïdocyte.
+
+274
+00:17:36,280 --> 00:17:37,280
+Pourquoi ?
+
+275
+00:17:37,280 --> 00:17:40,880
+Parce que la TSH est une hormone peptidique
+
+276
+00:17:40,880 --> 00:17:45,580
+hydrophile, et du coup cette hormone hydrophile libre
+
+277
+00:17:45,580 --> 00:17:49,320
+dans le secteur plasmatique va être l'hypophobe.
+
+278
+00:17:49,320 --> 00:17:53,820
+Du coup le récepteur sur lequel elle se
+
+279
+00:17:53,820 --> 00:17:56,420
+fixe est forcément un récepteur membranaire.
+
+280
+00:17:56,640 --> 00:17:59,840
+Comme vous le voyez ici, une fois fixé
+
+281
+00:17:59,840 --> 00:18:04,540
+sur son récepteur, le signal qui va être
+
+282
+00:18:04,540 --> 00:18:08,780
+donné à la cellule thyroïdienne folliculaire est celui
+
+283
+00:18:08,780 --> 00:18:13,940
+de stimulation des différentes étapes de production des
+
+284
+00:18:13,940 --> 00:18:14,300
+hormones.
+
+285
+00:18:14,300 --> 00:18:18,780
+Donc elle stimule la pénétration de l'iode,
+
+286
+00:18:18,940 --> 00:18:23,500
+de l'iodure, son organification, elle stimule toutes
+
+287
+00:18:23,500 --> 00:18:26,560
+les étapes de production, l'oxydation de l
+
+288
+00:18:26,560 --> 00:18:29,940
+'iode, le couplage oxydatif, la synthèse de la
+
+289
+00:18:29,940 --> 00:18:30,740
+thyroglobuline.
+
+290
+00:18:30,920 --> 00:18:33,020
+Donc elle a un rôle stimulant des différentes
+
+291
+00:18:33,020 --> 00:18:38,300
+étapes de production d'hormones thyroïdiennes.
+
+292
+00:18:47,550 --> 00:18:52,070
+Et voilà, ceci est l'étape finale où
+
+293
+00:18:52,070 --> 00:18:57,110
+nous voyons au niveau de la colloïde le
+
+294
+00:18:57,110 --> 00:19:04,110
+stockage des hormones thyroïdiennes au sein de cette
+
+295
+00:19:04,110 --> 00:19:07,570
+grosse protéine qui est la thyroglobuline, elle-même
+
+296
+00:19:07,570 --> 00:19:10,570
+produite au sein de la cellule thyroïdienne.
+
+297
+00:19:23,910 --> 00:19:31,330
+Après stimulation par l
+
+298
+00:19:31,330 --> 00:19:40,530
+'ATSH, nous avons une production et une stimulation
+
+299
+00:19:40,530 --> 00:19:44,370
+de la libération d'hormones thyroïdiennes stockées et
+
+300
+00:19:44,370 --> 00:19:46,630
+vous voyez qu'au sein de la colloïde,
+
+301
+00:19:46,630 --> 00:19:50,190
+certaines hormones thyroïdiennes ou un petit stock va
+
+302
+00:19:50,190 --> 00:19:56,130
+se détacher de la thyroglobuline et puis traverser
+
+303
+00:19:56,130 --> 00:20:02,410
+à sens contraire la cellule thyroïdienne, partir de
+
+304
+00:20:02,410 --> 00:20:07,230
+la colloïde vers la membrane basale, du pôle
+
+305
+00:20:07,230 --> 00:20:09,510
+apical vers le pôle basale pour qu'il
+
+306
+00:20:09,510 --> 00:20:13,110
+y ait une libération dans la circulation sanguine.
+
+307
+00:20:13,110 --> 00:20:15,790
+Les hormones thyroïdiennes T4 et T3 vont être
+
+308
+00:20:15,790 --> 00:20:18,410
+recueillies par les capillaires qui sont au contact
+
+309
+00:20:18,410 --> 00:20:20,350
+des cellules thyroïdiennes.
+
+310
+00:20:20,350 --> 00:20:26,410
+Donc la synthèse, je récapitule, des hormones thyroïdiennes
+
+311
+00:20:26,410 --> 00:20:30,710
+se fera dans le sens membrane basale, membrane
+
+312
+00:20:30,710 --> 00:20:35,370
+apical et la libération des hormones thyroïdiennes se
+
+313
+00:20:35,370 --> 00:20:38,830
+fera forcément du sens apical vers le sens
+
+314
+00:20:38,830 --> 00:20:43,630
+basale avec une libération dans la circulation de
+
+315
+00:20:43,630 --> 00:20:44,350
+ces hormones.
+
+316
+00:20:44,960 --> 00:20:48,150
+Et vous voyez un grand T4 et c
+
+317
+00:20:48,150 --> 00:20:51,910
+'est écrit en petit T3, la cellule thyroïdienne
+
+318
+00:20:51,910 --> 00:20:56,530
+fabrique beaucoup plus de T4 que de T3,
+
+319
+00:20:56,990 --> 00:21:00,690
+d'accord, donc beaucoup plus de T4 que
+
+320
+00:21:00,690 --> 00:21:01,350
+de T3.
+
+321
+00:21:07,400 --> 00:21:11,420
+Et la structure finale ici des hormones thyroïdiennes
+
+322
+00:21:11,420 --> 00:21:14,540
+est la suivante, vous avez 3 atomes diodes
+
+323
+00:21:14,540 --> 00:21:18,080
+au niveau de la triodothyronine et pour la
+
+324
+00:21:18,080 --> 00:21:22,360
+thyroxine ou la T4, nous avons 4 atomes
+
+325
+00:21:22,360 --> 00:21:26,100
+diodes qui sont liés au résultat du thyrosine.
+
+326
+00:21:28,140 --> 00:21:31,380
+Et ici on rappelle également qu'elles appartiennent
+
+327
+00:21:31,380 --> 00:21:32,720
+à la classe, comme j'ai dit tout
+
+328
+00:21:32,720 --> 00:21:36,560
+à l'heure, monoamine ou monoaminée et qu
+
+329
+00:21:36,560 --> 00:21:39,680
+'elles se différencient par le nombre des atomes
+
+330
+00:21:39,680 --> 00:21:41,220
+diodes qu'elles portent en elles.
+
+331
+00:21:45,670 --> 00:21:51,050
+Les hormones thyroïdiennes en tant qu'hormones monoaminées
+
+332
+00:21:51,050 --> 00:21:57,630
+sont de type hydrophobes, qui dit hydrophobes, dit
+
+333
+00:21:57,630 --> 00:22:00,990
+liaison à une protéine de transport ou à
+
+334
+00:22:00,990 --> 00:22:04,770
+des protéines de transport et dans le cours
+
+335
+00:22:04,770 --> 00:22:07,590
+général d'endocrinologie générale, on a vu qu
+
+336
+00:22:07,590 --> 00:22:09,450
+'il y avait deux types de possibilités de
+
+337
+00:22:09,450 --> 00:22:12,830
+transport, un transport spécifique et un transport non
+
+338
+00:22:12,830 --> 00:22:13,570
+spécifique.
+
+339
+00:22:13,570 --> 00:22:17,210
+Le transport spécifique ici va se faire à
+
+340
+00:22:17,210 --> 00:22:23,050
+travers la thyroxine bendine globuline ou la thyroxine
+
+341
+00:22:23,050 --> 00:22:27,890
+bendine protéine qui va transporter le maximum d
+
+342
+00:22:27,890 --> 00:22:33,070
+'hormones thyroïdiennes et nous avons un transport non
+
+343
+00:22:33,070 --> 00:22:35,770
+spécifique à chaque fois et pour toutes les
+
+344
+00:22:35,770 --> 00:22:38,010
+hormones qui sont représentées par l'albumin.
+
+345
+00:22:39,450 --> 00:22:45,090
+Alors le catabolisme des hormones thyroïdiennes va faire
+
+346
+00:22:45,090 --> 00:22:49,130
+appel à la désiodation, à la conjugaison, désamination
+
+347
+00:22:49,130 --> 00:22:53,050
+et décarboxylation des hormones thyroïdiennes.
+
+348
+00:22:53,530 --> 00:22:57,370
+Sachez également que la demi-vie de la
+
+349
+00:22:57,370 --> 00:22:59,910
+T4 est beaucoup plus grande que celle de
+
+350
+00:22:59,910 --> 00:23:02,270
+la T3, pour la T4 la demi-vie
+
+351
+00:23:02,270 --> 00:23:04,650
+est d'à peu près une semaine et
+
+352
+00:23:04,650 --> 00:23:07,450
+pour la T3 uniquement de 24 heures.
+
+353
+00:23:10,230 --> 00:23:17,490
+Maintenant ces hormones thyroïdiennes formées par la cellule
+
+354
+00:23:17,490 --> 00:23:23,450
+thyroïdienne, thyréocyte ou folliculaire thyroïdienne, suite à une
+
+355
+00:23:23,450 --> 00:23:31,090
+stimulation de la TSH vont être libérées et
+
+356
+00:23:31,090 --> 00:23:36,910
+mises en circulation, dans la circulation sanguine et
+
+357
+00:23:36,910 --> 00:23:38,010
+vont avoir des actions.
+
+358
+00:23:38,010 --> 00:23:42,830
+Donc ces hormones thyroïdiennes vont avoir une action
+
+359
+00:23:42,830 --> 00:23:48,290
+sur différents sites, au niveau de différents organes
+
+360
+00:23:48,290 --> 00:23:49,790
+et systèmes et cellules.
+
+361
+00:23:49,790 --> 00:23:52,750
+Donc ça rejoint ce qui a été vu
+
+362
+00:23:52,750 --> 00:23:57,430
+dans un cours initial d'endocrinologie générale, une
+
+363
+00:23:57,430 --> 00:24:00,950
+hormone quelconque n'a pas un rôle unique
+
+364
+00:24:00,950 --> 00:24:05,270
+mais une hormone peut avoir plusieurs rôles en
+
+365
+00:24:05,270 --> 00:24:08,950
+se liant à différents récepteurs, au niveau de
+
+366
+00:24:08,950 --> 00:24:11,250
+différents sites et ça nous allons le voir
+
+367
+00:24:11,250 --> 00:24:11,890
+tout de suite.
+
+368
+00:24:12,890 --> 00:24:15,630
+Donc on a vu que les hormones thyroïdiennes
+
+369
+00:24:15,630 --> 00:24:21,290
+sont hydrophobes, transportées par des transporteurs spécifiques et
+
+370
+00:24:21,290 --> 00:24:24,590
+non spécifiques et le fait qu'elles soient
+
+371
+00:24:24,590 --> 00:24:31,270
+hydrophobes leur confère la caractéristique d'être lipophiles,
+
+372
+00:24:31,270 --> 00:24:33,370
+c'est-à-dire qu'au niveau de
+
+373
+00:24:33,370 --> 00:24:36,210
+leur site d'action, au niveau de la
+
+374
+00:24:36,210 --> 00:24:39,370
+cellule cible où elles vont exercer leur effet
+
+375
+00:24:39,370 --> 00:24:42,050
+et leur action, cet effet se fera par
+
+376
+00:24:42,050 --> 00:24:47,230
+l'intermédiaire de récepteurs intracellulaires et dans ce
+
+377
+00:24:47,230 --> 00:24:49,890
+cas-là ce sera des récepteurs intranucléaires.
+
+378
+00:24:52,170 --> 00:25:01,130
+Nous le voyons ici, nous avons ici représenté
+
+379
+00:25:01,130 --> 00:25:06,850
+une cellule cible qui va être un site
+
+380
+00:25:06,850 --> 00:25:09,710
+d'action d'une hormone thyroïdienne et elle
+
+381
+00:25:09,710 --> 00:25:12,790
+est reconnaissable par l'existence d'un récepteur.
+
+382
+00:25:12,790 --> 00:25:16,570
+Ce récepteur flotte comme vous le voyez en
+
+383
+00:25:16,570 --> 00:25:22,350
+intracytoplasmique et une fois que les hormones thyroïdiennes
+
+384
+00:25:22,350 --> 00:25:26,710
+représentées en rouge arrivent et qu'elles pénètrent,
+
+385
+00:25:27,190 --> 00:25:31,250
+il va y avoir un déplacement du récepteur
+
+386
+00:25:31,250 --> 00:25:35,270
+au niveau, en position intranucléaire pour qu'il
+
+387
+00:25:35,270 --> 00:25:37,870
+y ait une liaison avec l'hormone.
+
+388
+00:25:39,820 --> 00:25:45,140
+Les hormones thyroïdiennes sont lipophiles, donc elles vont
+
+389
+00:25:45,140 --> 00:25:51,460
+traverser la membrane cellulaire avec facilité, donc elles
+
+390
+00:25:51,460 --> 00:25:54,880
+vont traverser la double couche phospholipidique et vont
+
+391
+00:25:54,880 --> 00:25:58,020
+entrer à la recherche de leur récepteur.
+
+392
+00:26:05,730 --> 00:26:08,610
+Une fois que l'hormone est en lien
+
+393
+00:26:08,610 --> 00:26:11,390
+avec le récepteur, donc il y aura une
+
+394
+00:26:11,390 --> 00:26:19,230
+action, une activation de l'expression du gène,
+
+395
+00:26:19,570 --> 00:26:22,770
+donc de la cellule cible et l'action
+
+396
+00:26:22,770 --> 00:26:31,070
+qui va être une action stimulée par cette
+
+397
+00:26:31,070 --> 00:26:33,870
+réaction va être soit une action positive ou
+
+398
+00:26:33,870 --> 00:26:36,710
+une action négative comme on a vu précédemment
+
+399
+00:26:36,710 --> 00:26:41,250
+et comme vous le voyez ici ce sera
+
+400
+00:26:41,250 --> 00:26:44,130
+une synthèse d'ARN messager donc de protéines
+
+401
+00:26:44,130 --> 00:26:46,410
+et il y aura une expression de la
+
+402
+00:26:46,410 --> 00:26:51,950
+réponse cellulaire, réponse de cette cellule cible à
+
+403
+00:26:51,950 --> 00:26:53,830
+l'action de l'hormone thyroïdienne.
+
+404
+00:26:54,890 --> 00:26:58,270
+Donc suite à la fixation, on a une
+
+405
+00:26:58,270 --> 00:27:01,290
+activation de l'expression du gène, synthèse d
+
+406
+00:27:01,290 --> 00:27:04,690
+'ARN messager et puis une réponse cellulaire qui
+
+407
+00:27:04,690 --> 00:27:08,010
+sera différente en fonction du site d'action
+
+408
+00:27:08,010 --> 00:27:14,430
+qui pourra être cardiaque, cardiomyocytes, vasculaire sur un
+
+409
+00:27:14,430 --> 00:27:19,610
+vaisseau sanguin, au niveau intestinal, neurones, etc.
+
+410
+00:27:19,610 --> 00:27:22,730
+Donc ça peut être, les actions vont être
+
+411
+00:27:22,730 --> 00:27:26,090
+différentes et les réponses cellulaires vont être différentes
+
+412
+00:27:26,090 --> 00:27:29,670
+en fonction de la localisation de cette action
+
+413
+00:27:29,670 --> 00:27:32,230
+et de la réponse attendue par cette cellule.
+
+414
+00:27:34,440 --> 00:27:39,280
+Alors on vient de voir précédemment comment sont
+
+415
+00:27:39,280 --> 00:27:42,780
+fabriquées les hormones thyroïdiennes en citant étape par
+
+416
+00:27:42,780 --> 00:27:45,640
+étape leur production.
+
+417
+00:27:46,860 --> 00:27:50,180
+Nous avons vu comment les hormones thyroïdiennes agissent,
+
+418
+00:27:50,740 --> 00:27:54,300
+par quels moyens elles agissent et en fin
+
+419
+00:27:54,300 --> 00:27:56,600
+de compte nous allons voir les effets biologiques.
+
+420
+00:27:56,600 --> 00:28:00,920
+Alors on commence par un effet très important
+
+421
+00:28:00,920 --> 00:28:03,160
+qui est celui de la croissance et du
+
+422
+00:28:03,160 --> 00:28:03,780
+développement.
+
+423
+00:28:05,880 --> 00:28:08,340
+Donc il faut savoir que les hormones thyroïdiennes
+
+424
+00:28:08,340 --> 00:28:12,300
+vont avoir un rôle très très important déjà
+
+425
+00:28:12,300 --> 00:28:16,800
+en période foetale pour un embryon, durant le
+
+426
+00:28:16,800 --> 00:28:20,000
+premier trimestre, elles vont avoir un rôle de
+
+427
+00:28:20,000 --> 00:28:22,860
+mise en place des connexions neuronales et de
+
+428
+00:28:22,860 --> 00:28:24,580
+myélinisation des axones.
+
+429
+00:28:24,580 --> 00:28:26,600
+Donc c'est très important et c'est
+
+430
+00:28:26,600 --> 00:28:27,620
+un rôle essentiel.
+
+431
+00:28:28,080 --> 00:28:31,900
+Les hormones assurant cette fonction chez le fœtus,
+
+432
+00:28:32,400 --> 00:28:36,340
+les hormones thyroïdiennes du premier trimestre qui assurent
+
+433
+00:28:36,340 --> 00:28:39,440
+cette fonction, qui est la myélinisation des axones
+
+434
+00:28:39,440 --> 00:28:42,760
+et la mise en place de connexions neuronales,
+
+435
+00:28:42,820 --> 00:28:45,140
+qui est essentielle déjà au développement du système
+
+436
+00:28:45,140 --> 00:28:49,720
+nerveux foetal, ces hormones là proviennent de la
+
+437
+00:28:49,720 --> 00:28:50,080
+maman.
+
+438
+00:28:50,080 --> 00:28:54,340
+Donc il faut savoir que durant le premier
+
+439
+00:28:54,340 --> 00:28:58,200
+trimestre, c'est très important cette information, elle
+
+440
+00:28:58,200 --> 00:29:01,280
+est essentielle, les hormones thyroïdiennes du premier trimestre
+
+441
+00:29:01,280 --> 00:29:06,800
+proviennent de la maman, les hormones thyroïdiennes maternelles
+
+442
+00:29:06,800 --> 00:29:12,480
+vont traverser le placenta et avoir des actions
+
+443
+00:29:12,480 --> 00:29:15,140
+sur des récepteurs comme on a vu d
+
+444
+00:29:15,140 --> 00:29:20,060
+'hormones thyroïdiennes intracellulaires du système nerveux foetal.
+
+445
+00:29:20,980 --> 00:29:22,200
+Pourquoi ?
+
+446
+00:29:22,200 --> 00:29:26,840
+Tout simplement parce que la mise en place
+
+447
+00:29:26,840 --> 00:29:34,240
+de l'axe thyréotrope foetale ne sera fonctionnelle
+
+448
+00:29:34,240 --> 00:29:36,960
+qu'à partir de la fin du troisième
+
+449
+00:29:36,960 --> 00:29:39,520
+trimestre, on considère que c'est à partir
+
+450
+00:29:39,520 --> 00:29:45,980
+du troisième mois de grossesse, donc à partir
+
+451
+00:29:45,980 --> 00:29:49,960
+du quatrième mois de grossesse, il sera fonctionnel.
+
+452
+00:29:50,080 --> 00:29:55,480
+En attendant que ce système hypothalamo-hypophyso-thyroïdien
+
+453
+00:29:55,480 --> 00:29:58,480
+soit complètement fonctionnel, c'est-à-dire capable
+
+454
+00:29:58,480 --> 00:30:02,360
+de produire lui-même ses propres hormones thyroïdiennes,
+
+455
+00:30:02,900 --> 00:30:09,480
+la fonction hormonale thyroïdienne sera assurée par les
+
+456
+00:30:09,480 --> 00:30:10,940
+hormones thyroïdiennes de la maman.
+
+457
+00:30:11,960 --> 00:30:15,160
+Ceci nous amène à dire que le statut
+
+458
+00:30:15,160 --> 00:30:18,900
+hormonal thyroïdien normal d'une maman est indispensable,
+
+459
+00:30:19,920 --> 00:30:24,960
+donc on imagine qu'une maman qui souffre
+
+460
+00:30:24,960 --> 00:30:29,760
+d'une hypothyroïdie ne pourra pas offrir à
+
+461
+00:30:29,760 --> 00:30:33,120
+son foetus suffisamment d'hormones thyroïdiennes pour cette
+
+462
+00:30:33,120 --> 00:30:35,380
+fonction-là, pour cette mise en place du
+
+463
+00:30:35,380 --> 00:30:36,420
+système nerveux central.
+
+464
+00:30:37,420 --> 00:30:41,260
+C'est pour cela que le statut hormonal
+
+465
+00:30:41,260 --> 00:30:45,240
+thyroïdien des femmes enceintes est très important à
+
+466
+00:30:45,240 --> 00:30:50,960
+normaliser, à vérifier durant les premières consultations pré
+
+467
+00:30:50,960 --> 00:30:54,420
+-natales en gynécologie ou en médecine générale.
+
+468
+00:30:56,080 --> 00:30:58,460
+Maintenant, une fois qu'on a vu que
+
+469
+00:30:58,460 --> 00:31:01,100
+ces hormones-là avaient un rôle essentiel dans
+
+470
+00:31:01,100 --> 00:31:03,260
+la mise en place du système nerveux central,
+
+471
+00:31:03,860 --> 00:31:07,480
+cette fonction trophique sur le système nerveux va
+
+472
+00:31:07,480 --> 00:31:11,600
+continuer tout au long de la grossesse pour
+
+473
+00:31:11,600 --> 00:31:14,640
+le foetus et ce fera maintenant à partir
+
+474
+00:31:14,640 --> 00:31:17,200
+du quatrième mois de la grossesse, à partir
+
+475
+00:31:17,200 --> 00:31:21,480
+du deuxième trimestre donc, à partir des hormones
+
+476
+00:31:21,480 --> 00:31:24,400
+thyroïdiennes propres du foetus lui-même.
+
+477
+00:31:24,420 --> 00:31:26,640
+qu'il est capable maintenant de produire.
+
+478
+00:31:28,180 --> 00:31:32,260
+Chez l'enfant ou chez l'adulte, les
+
+479
+00:31:32,260 --> 00:31:36,260
+hormones thyroïdiennes vont avoir également un rôle au
+
+480
+00:31:36,260 --> 00:31:38,880
+niveau du système nerveux central.
+
+481
+00:31:39,700 --> 00:31:43,340
+Elles vont avoir un rôle cognitif très important
+
+482
+00:31:43,340 --> 00:31:47,680
+et ça, ça se manifeste lorsqu'en situation
+
+483
+00:31:47,680 --> 00:31:53,520
+d'hypothyroïdie, nous allons avoir une asthénie psychique
+
+484
+00:31:53,520 --> 00:31:57,320
+ou un manque de concentration ou un défaut
+
+485
+00:31:57,320 --> 00:31:58,560
+cognitif.
+
+486
+00:31:59,140 --> 00:32:02,360
+Donc, les hormones thyroïdiennes chez l'enfant et
+
+487
+00:32:02,360 --> 00:32:05,540
+chez l'adulte ont un rôle essentiel au
+
+488
+00:32:05,540 --> 00:32:08,180
+niveau de la concentration, de la cognition.
+
+489
+00:32:10,640 --> 00:32:12,780
+Toujours par rapport à la croissance, mais cette
+
+490
+00:32:12,780 --> 00:32:15,200
+fois-ci au niveau de la croissance osseuse,
+
+491
+00:32:15,680 --> 00:32:18,380
+donc les hormones thyroïdiennes ont un rôle essentiel
+
+492
+00:32:18,380 --> 00:32:20,940
+par rapport à la différenciation et à la
+
+493
+00:32:20,940 --> 00:32:22,140
+maturation osseuse.
+
+494
+00:32:22,320 --> 00:32:25,900
+Elles participent à la croissance osseuse qui n
+
+495
+00:32:25,900 --> 00:32:27,900
+'est pas le propre de l'hormone de
+
+496
+00:32:27,900 --> 00:32:31,300
+croissance et ça, on le verra également plus
+
+497
+00:32:31,300 --> 00:32:34,420
+tard dans le cours sur l'hormone de
+
+498
+00:32:34,420 --> 00:32:34,940
+croissance.
+
+499
+00:32:41,900 --> 00:32:46,020
+Les rôles métaboliques ou le rôle métabolique des
+
+500
+00:32:46,020 --> 00:32:48,900
+hormones thyroïdiennes est très large, on va le
+
+501
+00:32:48,900 --> 00:32:49,320
+voir.
+
+502
+00:32:50,660 --> 00:32:54,960
+Donc, elles participent à l'augmentation du métabolisme
+
+503
+00:32:54,960 --> 00:32:58,300
+de base d'une manière générale, à augmenter
+
+504
+00:32:58,300 --> 00:33:02,120
+la consommation d'oxygène au niveau de différents
+
+505
+00:33:02,120 --> 00:33:07,240
+tissus, à favoriser la production de chaleur par
+
+506
+00:33:07,240 --> 00:33:13,100
+notre corps et donc elles favorisent la thermogénèse.
+
+507
+00:33:14,080 --> 00:33:19,460
+Alors cette fonction est importante et je passe
+
+508
+00:33:19,460 --> 00:33:24,860
+encore une fois sur une application clinique sémiologique.
+
+509
+00:33:25,480 --> 00:33:30,860
+Lorsqu'une personne présente une hyperthyroïdie, cette fonction
+
+510
+00:33:30,860 --> 00:33:35,820
+sur la thermogénèse étant exagérée, la personne va
+
+511
+00:33:35,820 --> 00:33:41,440
+ressentir une thermophobie, un excès de chaleur corporelle,
+
+512
+00:33:41,980 --> 00:33:45,600
+le débouffé de chaleur et inversement, une personne
+
+513
+00:33:45,600 --> 00:33:51,400
+souffrant d'hypothyroïdie ou présentant une hypothyroïdie sera
+
+514
+00:33:51,400 --> 00:33:53,380
+plutôt frileuse et aura froid.
+
+515
+00:33:54,300 --> 00:33:58,560
+Donc le rôle sur le métabolisme basal est
+
+516
+00:33:58,560 --> 00:34:00,760
+celui d'une augmentation de la consommation d
+
+517
+00:34:00,760 --> 00:34:03,740
+'oxygène et de production de chaleur donc thermogénèse.
+
+518
+00:34:04,740 --> 00:34:10,840
+Les hormones thyroïdiennes sont des hormones hyperglycémientes, donc
+
+519
+00:34:10,840 --> 00:34:19,100
+elles participent au métabolisme glucidique, à la stabilité
+
+520
+00:34:19,100 --> 00:34:23,179
+de la glycémie dans un intervalle physiologique normal,
+
+521
+00:34:23,179 --> 00:34:26,360
+en ayant ce rôle hyperglycémien, ce qui ne
+
+522
+00:34:26,360 --> 00:34:29,239
+veut pas dire qu'elles vont être données
+
+523
+00:34:29,239 --> 00:34:33,400
+un diabète ou une hyperglycémie, mais ce rôle
+
+524
+00:34:33,400 --> 00:34:37,400
+hyperglycémien n'est là que pour stabiliser la
+
+525
+00:34:37,400 --> 00:34:41,120
+glycémie dans son intervalle physiologique normal.
+
+526
+00:34:42,340 --> 00:34:47,159
+Pour être hyperglycémientes, elles vont augmenter l'absorption
+
+527
+00:34:47,159 --> 00:34:53,100
+intestinale de glucose, augmenter la glycogénolyse, donc transformation
+
+528
+00:34:53,100 --> 00:34:57,980
+du glycogène en glucose, et diminuer la glycogénogenèse
+
+529
+00:34:57,980 --> 00:35:01,120
+qui est le stockage du glucose sous forme
+
+530
+00:35:01,120 --> 00:35:01,860
+de glycogène.
+
+531
+00:35:01,860 --> 00:35:05,060
+De cette manière-là, elles vont favoriser et
+
+532
+00:35:05,060 --> 00:35:08,720
+permettre de mobiliser du glucose dans la circulation.
+
+533
+00:35:09,560 --> 00:35:15,340
+Elles stimulent également l'utilisation cellulaire de glucose.
+
+534
+00:35:18,200 --> 00:35:21,420
+L'action sur le métabolisme lipidique est un
+
+535
+00:35:21,420 --> 00:35:25,000
+petit peu complexe, parce que les hormones anti
+
+536
+00:35:25,000 --> 00:35:27,840
+-héroïdiennes vont avoir un rôle un peu contradictoire,
+
+537
+00:35:28,480 --> 00:35:31,320
+qui est l'augmentation de synthèse du cholestérol,
+
+538
+00:35:31,680 --> 00:35:34,380
+en même temps qu'elles sont responsables de
+
+539
+00:35:34,380 --> 00:35:39,440
+son hyperexcrétion biliaire et fécale, et elles auront
+
+540
+00:35:39,440 --> 00:35:41,760
+également un rôle d'augmentation de l'oxydation
+
+541
+00:35:41,760 --> 00:35:42,780
+d'acide gras libre.
+
+542
+00:35:42,780 --> 00:35:47,320
+Mais l'effet cumulatif de ces actions un
+
+543
+00:35:47,320 --> 00:35:55,130
+peu opposées sera un effet final hypercholestéroléminant.
+
+544
+00:35:58,490 --> 00:36:05,270
+Sur le métabolisme protéique, les hormones thyroïdiennes vont
+
+545
+00:36:05,270 --> 00:36:12,350
+augmenter la synthèse des protéines, et c'est
+
+546
+00:36:12,350 --> 00:36:17,010
+un effet anabolisant positif, mais ici c'est
+
+547
+00:36:17,010 --> 00:36:20,910
+écrit un effet catabolisant à dose supraphysiologique, c
+
+548
+00:36:20,910 --> 00:36:25,430
+'est-à-dire en situation pathologique, en situation
+
+549
+00:36:25,430 --> 00:36:27,090
+d'hyperthyroïdie.
+
+550
+00:36:27,090 --> 00:36:29,710
+Et là encore, on revient à la sémiologie,
+
+551
+00:36:30,190 --> 00:36:35,050
+en situation d'hyperthyroïdie, il y aura une
+
+552
+00:36:35,050 --> 00:36:38,670
+dégradation des protéines plutôt qu'une synthèse, parce
+
+553
+00:36:38,670 --> 00:36:41,530
+qu'on sera dans un effet inverse de
+
+554
+00:36:41,530 --> 00:36:42,730
+l'effet physiologique.
+
+555
+00:36:42,730 --> 00:36:48,470
+Cet hypercatabolisme qui se voit en hyperthyroïdie va
+
+556
+00:36:48,470 --> 00:36:53,050
+expliquer l'amigrissement très important que connaîtront les
+
+557
+00:36:53,050 --> 00:36:55,570
+personnes qui présentent une hyperthyroïdie.
+
+558
+00:36:56,270 --> 00:36:59,850
+Mais en situation de physiologie, ce sera plutôt
+
+559
+00:36:59,850 --> 00:37:03,110
+une synthèse, une stimulation de la synthèse protéique.
+
+560
+00:37:03,910 --> 00:37:07,930
+Les hormones thyroïdiennes augmentent la filtration glomérulaire et
+
+561
+00:37:07,930 --> 00:37:15,770
+le débit sanguin rénal, elles augmentent la densité
+
+562
+00:37:15,770 --> 00:37:20,070
+osseuse, elles ont un rôle de phosphocalcique positif,
+
+563
+00:37:20,490 --> 00:37:24,010
+mais en situation d'hyperthyroïdie, nous allons avoir
+
+564
+00:37:24,010 --> 00:37:27,150
+une réduction de la densité et une ostéopénie,
+
+565
+00:37:27,570 --> 00:37:28,850
+et ça c'est un effet qui est
+
+566
+00:37:28,850 --> 00:37:31,450
+également non physiologique.
+
+567
+00:37:34,580 --> 00:37:40,020
+L'effet cardiovasculaire est très important, elles vont
+
+568
+00:37:40,020 --> 00:37:45,380
+avoir un effet chronotrope et ionotrope positif, et
+
+569
+00:37:45,380 --> 00:37:48,160
+c'est un effet qui ressemble un peu
+
+570
+00:37:48,160 --> 00:37:50,500
+à celui de l'adrénaline et de la
+
+571
+00:37:50,500 --> 00:37:53,960
+noradrénaline, donc l'effet des catécholamines, l'effet
+
+572
+00:37:53,960 --> 00:37:57,200
+positif des catécholamines sur le muscle cardiaque, sur
+
+573
+00:37:57,200 --> 00:37:58,400
+le cardiomyocyte.
+
+574
+00:37:58,400 --> 00:38:02,100
+Parmi, encore une fois, les symptômes d'hyperthyroïdie,
+
+575
+00:38:02,360 --> 00:38:04,920
+nous allons avoir l'attaquicardie.
+
+576
+00:38:05,040 --> 00:38:09,620
+L'attaquicardie qui est un signe très important
+
+577
+00:38:09,620 --> 00:38:12,160
+qu'on recherche dans les situations d'hyperthyroïdie.
+
+578
+00:38:12,160 --> 00:38:16,200
+Elles ont une action sur le muscle, accélération
+
+579
+00:38:16,200 --> 00:38:21,380
+du tractus digestif et du transit, elles participent
+
+580
+00:38:21,380 --> 00:38:25,240
+donc à un transit positif, et en situation
+
+581
+00:38:25,240 --> 00:38:28,820
+d'hyperthyroïdie, nous allons avoir plutôt une diarrhée,
+
+582
+00:38:29,020 --> 00:38:30,560
+parce qu'il y aura un excédent hormon
+
+583
+00:38:30,560 --> 00:38:33,900
+thyroïdien, et à l'inverse, en situation d
+
+584
+00:38:33,900 --> 00:38:36,860
+'hypothyroïdie, nous allons avoir plutôt une constipation.
+
+585
+00:38:37,560 --> 00:38:41,840
+Les hormones thyroïdiennes participent également à la régulation
+
+586
+00:38:41,840 --> 00:38:44,680
+de l'hématopoïèse et du métabolisme du fer.
+
+587
+00:38:46,060 --> 00:38:49,600
+Après tous ces rôles qu'on a vus,
+
+588
+00:38:49,800 --> 00:38:52,540
+on constate donc que les hormones thyroïdiennes ont
+
+589
+00:38:52,540 --> 00:38:56,840
+un rôle très important dans l'organisme, touchant
+
+590
+00:38:56,840 --> 00:39:02,680
+plusieurs systèmes, une action métabolique, développement, croissance, des
+
+591
+00:39:02,680 --> 00:39:09,760
+effets tissulaires, musculaires, et ça nous montre à
+
+592
+00:39:09,760 --> 00:39:13,820
+quel point ces hormones thyroïdiennes sont importantes pour
+
+593
+00:39:13,820 --> 00:39:15,460
+l'organisme.
+
+594
+00:39:17,420 --> 00:39:23,860
+Maintenant, comment est réglée la fonction thyroïdienne, comment
+
+595
+00:39:23,860 --> 00:39:28,660
+est gérée tout cet axe hypothalamohypophyso-thyroïdien ?
+
+596
+00:39:28,660 --> 00:39:31,100
+Là, on commence par l'étage central, qui
+
+597
+00:39:31,100 --> 00:39:36,280
+est l'étage hypothalamique, hypothalamohypophyzaire, et nous allons
+
+598
+00:39:36,280 --> 00:39:42,680
+avoir une production d'hormones stimulantes hypophysaires, ou
+
+599
+00:39:42,680 --> 00:39:48,120
+TSH, à partir de l'hypophyse, qui est
+
+600
+00:39:48,120 --> 00:39:53,160
+à partir de la cellule thyrotrope hypophysaire, et
+
+601
+00:39:53,160 --> 00:39:55,680
+la TSH va, comme on a vu, on
+
+602
+00:39:55,680 --> 00:39:59,520
+vient de le voir stimuler et contrôler positivement
+
+603
+00:39:59,520 --> 00:40:04,740
+toutes les étapes de fabrication des hormones thyroïdiennes,
+
+604
+00:40:04,740 --> 00:40:08,380
+mais elle a aussi un rôle trophique, un
+
+605
+00:40:08,380 --> 00:40:12,860
+rôle de croissance sur la cellule thyroïdienne, c
+
+606
+00:40:12,860 --> 00:40:15,860
+'est-à-dire qu'un excès de TSH
+
+607
+00:40:15,860 --> 00:40:22,040
+va être responsable d'une situation d'augmentation
+
+608
+00:40:22,040 --> 00:40:26,740
+de taille des cellules thyroïdiennes, et donc de
+
+609
+00:40:26,740 --> 00:40:28,620
+l'apparution d'un goitre, donc elle a
+
+610
+00:40:28,620 --> 00:40:31,980
+un rôle trophique positif et un rôle de
+
+611
+00:40:31,980 --> 00:40:36,040
+stimulation fonctionnelle de l'ensemble de la production
+
+612
+00:40:36,040 --> 00:40:38,460
+des hormones thyroïdiennes.
+
+613
+00:40:39,900 --> 00:40:44,620
+Donc nous voyons ce schéma qui montre clairement
+
+614
+00:40:44,620 --> 00:40:49,900
+la régulation au niveau hypothalamique, où à l
+
+615
+00:40:49,900 --> 00:40:53,180
+'étage hypothalamique est formée la TRH.
+
+616
+00:40:54,360 --> 00:40:59,620
+Cette TRH est un neuropeptide qui provient des
+
+617
+00:40:59,620 --> 00:41:06,960
+neurones appartenant à certains noyaux hypothalamiques, qui est
+
+618
+00:41:06,960 --> 00:41:14,700
+déversée dans le système vasculaire porte hypothalamohypophyzaire, qui
+
+619
+00:41:14,700 --> 00:41:18,940
+va tout au long de la tige être
+
+620
+00:41:18,940 --> 00:41:24,500
+acheminée jusqu'au niveau de l'antéhypophyse, et
+
+621
+00:41:24,500 --> 00:41:28,740
+déversée au niveau de l'antéhypophyse, où la
+
+622
+00:41:28,740 --> 00:41:34,220
+TRH va se fixer sur son récepteur au
+
+623
+00:41:34,220 --> 00:41:38,900
+niveau de la cellule thyrotrope de l'hypophyse.
+
+624
+00:41:40,240 --> 00:41:43,440
+Donc la cellule thyrotrope, à son tour au
+
+625
+00:41:43,440 --> 00:41:47,400
+niveau de l'étage hypothalamique, va produire la
+
+626
+00:41:47,400 --> 00:41:51,460
+TSH, et cette TSH, qui est une hormone
+
+627
+00:41:51,460 --> 00:41:56,800
+peptidique, va aller librement au contact de son
+
+628
+00:41:56,800 --> 00:42:01,380
+récepteur membraneur sur la cellule thyroïdienne, et au
+
+629
+00:42:01,380 --> 00:42:04,620
+niveau de la thyroïde seront fabriqués la T3
+
+630
+00:42:04,620 --> 00:42:09,380
+et la T4, qui auront un effet de
+
+631
+00:42:09,380 --> 00:42:13,300
+feedback ou de rétro contrôle négatif au niveau
+
+632
+00:42:13,300 --> 00:42:15,660
+des deux étages, l'étage hypophysaire et l
+
+633
+00:42:15,660 --> 00:42:16,460
+'étage hypothalamique.
+
+634
+00:42:20,650 --> 00:42:24,330
+Parmi les facteurs de régulation, nous avons bien
+
+635
+00:42:24,330 --> 00:42:27,430
+sûr l'iodure, qui est la matière brute,
+
+636
+00:42:27,590 --> 00:42:29,450
+qui est la matière à partir de laquelle
+
+637
+00:42:29,450 --> 00:42:35,070
+sont produites les hormones thyroïdiennes, et bien sûr
+
+638
+00:42:35,070 --> 00:42:37,070
+en l'absence d'iodes, nous n'allons
+
+639
+00:42:37,070 --> 00:42:41,130
+pas pouvoir produire d'hormones thyroïdiennes, parce qu
+
+640
+00:42:41,130 --> 00:42:45,090
+'elles sont synthétisées principalement à partir de résidus
+
+641
+00:42:45,090 --> 00:42:49,290
+thyrosiles et diodes, et ça peut se voir
+
+642
+00:42:49,290 --> 00:42:52,750
+dans les situations de carence en iodes, et
+
+643
+00:42:52,750 --> 00:42:56,130
+inversement, l'excès d'iodes ou la surcharge
+
+644
+00:42:56,130 --> 00:43:00,050
+en iodes va conduire à une plus grande
+
+645
+00:43:00,050 --> 00:43:04,610
+production d'hormones thyroïdiennes par la cellule.
+
+646
+00:43:04,610 --> 00:43:11,270
+Maintenant, l'état nutritionnel intervient dans la production
+
+647
+00:43:11,270 --> 00:43:17,670
+d'hormones thyroïdiennes, et donc ici nous allons
+
+648
+00:43:17,670 --> 00:43:19,390
+parler de la désiodation.
+
+649
+00:43:20,710 --> 00:43:25,570
+Alors la désiodation est une étape de transformation
+
+650
+00:43:25,570 --> 00:43:29,450
+de la T4 en T3, donc la T4
+
+651
+00:43:29,450 --> 00:43:34,630
+va perdre un atome diode et se transformer
+
+652
+00:43:34,630 --> 00:43:38,110
+en T3, et seule la T3 sera l
+
+653
+00:43:38,110 --> 00:43:40,510
+'hormone active, libre.
+
+654
+00:43:40,510 --> 00:43:44,450
+C'est pour ça que l'hormone essentielle,
+
+655
+00:43:44,750 --> 00:43:46,610
+comme on a vu dans les plaques précédentes
+
+656
+00:43:46,610 --> 00:43:49,990
+produites par la glande thyroïde, est la T4.
+
+657
+00:43:50,510 --> 00:43:53,770
+Donc la cellule thyroïdienne produit beaucoup de T4
+
+658
+00:43:53,770 --> 00:43:58,570
+et peu de T3, tout simplement parce que
+
+659
+00:43:58,570 --> 00:44:01,930
+la T4 est une forme de réserve circulante
+
+660
+00:44:01,930 --> 00:44:02,790
+de la T3.
+
+661
+00:44:02,790 --> 00:44:07,610
+Et si besoin il y a d'actions
+
+662
+00:44:07,610 --> 00:44:12,310
+en hormones thyroïdiennes, et bien la T4 va
+
+663
+00:44:12,310 --> 00:44:17,570
+perdre un iode grâce à la désiodase, et
+
+664
+00:44:17,570 --> 00:44:21,250
+puis se transformer en T3, et c'est
+
+665
+00:44:21,250 --> 00:44:23,810
+cette T3 qui va pénétrer à l'intérieur
+
+666
+00:44:23,810 --> 00:44:24,690
+de la cellule.
+
+667
+00:44:24,690 --> 00:44:27,050
+Donc l'action qu'on a vue en
+
+668
+00:44:27,050 --> 00:44:31,430
+intracellulaire est effectuée par la T3 qui reconnaît
+
+669
+00:44:31,430 --> 00:44:35,590
+son récepteur intracellulaire qui est un récepteur à
+
+670
+00:44:35,590 --> 00:44:35,970
+T3.
+
+671
+00:44:35,970 --> 00:44:39,890
+Maintenant ici dans cette plaque nous voyons que
+
+672
+00:44:39,890 --> 00:44:44,350
+l'état nutritionnel va interagir avec cette désiodation
+
+673
+00:44:44,350 --> 00:44:46,870
+qui est importante et qui est une source
+
+674
+00:44:46,870 --> 00:44:52,790
+qui nous fournit la T3, beaucoup plus que
+
+675
+00:44:52,790 --> 00:44:55,970
+la T3 elle-même produite, celle qui est
+
+676
+00:44:55,970 --> 00:44:57,590
+produite par la glande thyroïdienne.
+
+677
+00:44:57,590 --> 00:45:00,810
+Donc l'origine de la T3 se fait
+
+678
+00:45:00,810 --> 00:45:03,690
+à partir de la T4 circulante, beaucoup plus
+
+679
+00:45:03,690 --> 00:45:07,870
+que celle qui est produite de source par
+
+680
+00:45:07,870 --> 00:45:08,990
+l'hormone thyroïdienne.
+
+681
+00:45:19,960 --> 00:45:24,580
+Alors avec cette dernière plaque nous avons fait
+
+682
+00:45:24,580 --> 00:45:31,260
+le tour de la question de physiologie thyroïdienne.
+
+683
+00:45:32,620 --> 00:45:35,260
+On a vu l'intégralité de l'axe
+
+684
+00:45:35,260 --> 00:45:43,080
+hypothalamo-hypophyso-thyroïdien avec comme premier objectif la
+
+685
+00:45:43,080 --> 00:45:46,820
+définition et la description des étapes de production
+
+686
+00:45:46,820 --> 00:45:48,480
+des hormones thyroïdiennes.
+
+687
+00:45:51,900 --> 00:45:56,240
+Le mode d'action de ces hormones thyroïdiennes
+
+688
+00:45:56,240 --> 00:45:59,760
+qui est un mode qui se fait via
+
+689
+00:45:59,760 --> 00:46:02,400
+un récepteur intracellulaire.
+
+690
+00:46:02,400 --> 00:46:07,880
+Le mode des effets biologiques, les différents effets
+
+691
+00:46:07,880 --> 00:46:11,200
+biologiques qui sont très nombreux des hormones thyroïdiennes
+
+692
+00:46:11,200 --> 00:46:14,000
+et en fin de compte nous avons vu
+
+693
+00:46:14,000 --> 00:46:18,680
+la régulation de l'ensemble de cet axe
+
+694
+00:46:18,680 --> 00:46:21,440
+hypothalamo-hypophyso-thyroïdien.

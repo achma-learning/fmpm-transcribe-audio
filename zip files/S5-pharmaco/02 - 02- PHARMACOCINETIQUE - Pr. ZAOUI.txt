@@ -1,0 +1,521 @@
+(0:00 - 0:18)
+Chers étudiants, nous allons voir aujourd'hui notre deuxième cours qui est la pharmacocinétique. Avant de commencer le cours, je vous poserai une question pour susciter votre réflexion. On administre un antibiotique sous la forme comprimée, c'est-à-dire on va l'administrer par voie orale.
+
+(0:19 - 0:54)
+Un patient traité pour une infection osseuse décrivait le devenir de cet antibiotique dans l'organisme. Donc un médicament qui est administré par voie orale et qui doit arriver au niveau de l'os pour traiter l'infection osseuse. A votre avis, quelles sont les étapes par lesquelles le médicament va passer et après avoir fait son effet, quel est son devenir ? La pharmacocinétique, c'est l'étude du devenir d'un médicament dans l'organisme.
+
+(0:54 - 1:20)
+Qu'est-ce qu'il devient un médicament après son administration ? Quels sont les chemins qu'il suit ? Nous allons étudier dans cette pharmacocinétique les processus d'absorption, de distribution, de métabolisme, d'élimination des principes actifs. Ceci sera détaillé dans le cours. Ce schéma-là montre les étapes de la pharmacocinétique.
+
+(1:20 - 1:40)
+Quand on administre le médicament, que ce soit par voie orale ou par entérale ou autre voie, parce qu'on a plusieurs voies d'administration, il va passer au niveau de la circulation générale. C'est ce qu'on appelle la phase d'absorption. Bien sûr, cette phase-là existe pour les médicaments qui ne sont pas donnés localement.
+
+(1:40 - 2:05)
+Par exemple, si on veut traiter une infection cutanée ou donner un traitement local, il n'y aura pas ce passage au niveau de la circulation générale. Après cette phase d'absorption et après l'arrivée dans la circulation générale, le médicament va se distribuer. Pourquoi ? Parce qu'au niveau de la circulation générale, ce n'est pas son site d'action, ce n'est pas là où il va faire l'effet.
+
+(2:05 - 2:21)
+Il doit partir au niveau du site ou au niveau du tissu où il doit faire son effet. C'est ce qu'on appelle le site d'action et c'est ce qu'on appelle la phase de distribution. Quand il va se distribuer, il va arriver à sa cible.
+
+(2:21 - 2:37)
+Dans l'exemple qu'on a vu, il doit passer au niveau de l'os pour traiter l'infection osseuse. S'il veut traiter un problème au niveau du rein, il doit passer au niveau du rein. S'il veut traiter un problème cérébral, il doit passer au niveau du cerveau.
+
+(2:37 - 2:47)
+Donc c'est la phase de distribution. Quand il va faire son effet, il ne va pas rester tout le temps dans ce tissu. L'organisme doit s'en débarrasser.
+
+(2:48 - 2:59)
+Généralement, il passe au niveau du foie où il sera métabolisé. Ça veut dire qu'il sera transformé en ce qu'on appelle des métabolites. Ces métabolites doivent être éliminés.
+
+(2:59 - 4:03)
+Généralement, il passe au niveau du rein où il y aura une élimination, une excrétion de ces métabolites. Dans ce cours, on va parler de la phase d'absorption, de la phase de distribution, de la phase de métabolisme et de la phase d'élimination. Au terme de ce cours, vous devez être capable de décrire les étapes d'absorption, que ce soit la phase galénique, le franchissement des membranes, le premier passage hépatique, définir le paramètre de biodisponibilité, citer les facteurs influençant l'absorption, citer les interactions au cours de la phase d'absorption, décrire la fixation protéique, décrire la distribution tissulaire, définir le volume de distribution, décrire les réactions enzymatiques du métabolisme, citer les facteurs influençant le métabolisme, décrire les mécanismes d'élimination des médicaments, citer les paramètres d'élimination et citer les facteurs influençant l'élimination.
+
+(4:05 - 4:21)
+On va commencer par la phase d'absorption. Pour faire son action, le médicament doit arriver au niveau de l'organe cible. On a donné des exemples, que ce soit l'os, que ce soit le cerveau, le rein, le cœur.
+
+(4:21 - 5:01)
+L'essentiel, c'est qu'il doit passer au niveau de l'organe où il doit faire son action. Donc, il doit être absorbé, parce que quand il est administré, il n'est pas administré au niveau de cet organe-là, il est administré au niveau d'un site d'administration. Si on donne une injection, peut-être qu'on va donner une injection intramusculaire au niveau du muscle, on va donner le médicament sous forme d'injection intraveineuse au niveau d'une veine, ou le donner sous forme de comprimé par voie orale, on ne le donne pas directement dans l'organe cible.
+
+(5:01 - 5:27)
+Donc, il doit subir une absorption. Qu'est-ce que c'est que l'absorption ? C'est le passage du principe actif de son site d'administration à la circulation générale. Un médicament administré par voie orale, par exemple un comprimé, pour arriver au niveau de la circulation générale, il doit franchir la membrane digestive.
+
+(5:28 - 5:51)
+Est-ce qu'un comprimé tel qu'il est peut franchir la membrane digestive ? Il ne peut pas franchir la membrane digestive vu la taille. C'est un comprimé, il a une taille qui est importante, donc il ne peut pas franchir la membrane digestive tel qu'il est. Pour libérer le principe actif, le comprimé doit se solubiliser.
+
+(5:52 - 6:15)
+Ceci se fait au niveau de la phase galénique, qui est la libération des principes actifs à partir de la forme pharmaceutique. Parce que le comprimé comprend le principe actif, qui est la molécule active, et les excipients, des produits qui peuvent donner au comprimé sa forme et sa taille. Donc on a une solubilisation qui se fait.
+
+(6:17 - 6:44)
+Le principe actif est prêt en ce qui concerne la forme sirop et la formulation effervescente. Un comprimé effervescent, quand on le met dans un verre d'eau, comme dans cette photo-là, il se dissout rapidement et il libère le principe actif rapidement. Mais pour les formulations solides, comme un comprimé, ceci prend un petit peu de temps.
+
+(6:45 - 7:04)
+Donc le comprimé doit se déliter, il perd sa cohésion et son unité. Et le principe actif, qui est la molécule qui nous intéresse pour le traitement, se libère et se solubilise dans l'eau. Dans ce cas-là, elle sera de petite taille et elle sera capable de franchir la membrane digestive.
+
+(7:05 - 7:35)
+Le médicament administré par voie orale, parce qu'on va parler dans la phase d'absorption surtout de la voie orale qui a certaines particularités. Donc le médicament, pour arriver au niveau de la circulation, il doit franchir la couche des antérocytes. La membrane de ces antérocytes, elle est surtout lipidique parce qu'elle comprend une double couche de phospholipides en plus des protéines qu'elle contient et des glucides.
+
+(7:35 - 7:54)
+Mais ce qui nous intéresse, c'est qu'elle est fortement lipidique. Ceci pour vous expliquer que les médicaments qui vont passer d'une façon plus simple et d'une façon passive, ce sont des médicaments qui sont lipophiles. On va parler du premier mécanisme de franchissement des membranes.
+
+(7:54 - 8:16)
+Ici, on parle des membranes digestives, donc des membranes que le principe actif doit franchir pour passer au niveau de la circulation. Le premier mécanisme et le mécanisme le plus prépondérant, c'est la diffusion passive. Le médicament passe passivement à travers cette double couche phospholipidique ou cette membrane sans utiliser les transporteurs.
+
+(8:17 - 8:46)
+Comme on va le voir, sans utiliser de l'énergie, c'est un passage qui est passif. Donc on a dit que c'est un mécanisme prépondérant qui intéresse surtout les substances lipophiles puisqu'on a expliqué que la membrane est surtout lipidique, donc les médicaments lipophiles se solubilisent rapidement au niveau de cette membrane. Les substances qui sont neutres, qui ne sont pas ionisées, sont dans un sens de gradient de concentration.
+
+(8:47 - 9:20)
+C'est-à-dire que les molécules passent du milieu le plus concentré au milieu le moins concentré. Tant qu'ils sont dans un milieu concentré, tant qu'ils sont concentrés par exemple au niveau du liquide digestif, ils vont passer de l'autre côté pour passer à la circulation générale. Ce mode de diffusion ne consomme pas d'énergie, n'est pas saturable parce qu'on n'utilise pas ici la molécule, on n'utilise pas un transporteur pour passer à travers la membrane.
+
+(9:21 - 9:33)
+Il n'y a pas de phénomène de compétition dans ce type de diffusion. On va parler de ces deux notions-là dans le transport actif. Et ça dépend de la taille de la molécule.
+
+(9:33 - 9:57)
+On a dit que la molécule doit être de petite taille pour pouvoir passer à la membrane digestive. Ce schéma montre la diffusion passive. Regardez, les molécules passent passivement, se solubilisent dans la membrane qui est lipidique et passent de l'autre côté sans qu'elles ne prennent un transporteur, sans qu'il n'y ait un obstacle.
+
+(9:57 - 10:22)
+Il suffit qu'elles soient de petite taille, qu'elles aient les conditions déjà citées, qu'elles soient neutres, de petite taille, liposolubles, pour qu'elles passent tranquillement et facilement au niveau de la membrane. Le deuxième mode de franchissement des membranes, c'est le transport actif qui utilise des transporteurs. Je vous ai mis la photo du taxi pour vous rappeler qu'il y a un transporteur dans ce mode de transport.
+
+(10:23 - 10:42)
+La substance qui veut passer par ce mode-là doit avoir une forte affinité pour un système de transport. Ce transport actif nécessite de l'énergie. Comme le taxi nécessite de l'énergie pour se déplacer d'une place à l'autre, ce mode de transport nécessite aussi de l'énergie.
+
+(10:43 - 11:13)
+C'est un mécanisme saturable. Par exemple, si je reviens à l'exemple du taxi, le taxi peut prendre trois places en plus du chauffeur. Donc, quand il a eu ces trois places, il ne peut pas ajouter d'autres places. 
+
+Il est saturé. Il peut avoir lieu à des phénomènes de compétition. Par exemple, une foule de personnes veut monter dans ce taxi.
+
+(11:13 - 11:20)
+Les trois premiers vont monter et prendre leurs places. Les autres vont rester. Il y a une compétition sur les places.
+
+(11:20 - 11:48)
+La même chose pour les molécules qui veulent être transportées par ce transport actif. Dans ce schéma qui montre le mode de transport actif, regardez que pour un transport actif, on a besoin d'un transporteur qui va prendre la molécule d'un côté et va la transporter d'un autre côté. Il y a d'autres modes de franchissement des membranes qui sont moins fréquents que les premiers.
+
+(11:49 - 12:14)
+Par exemple, la diffusion facilitée qui est un mécanisme passif. Tout ce qu'on a dit sur la diffusion passive s'applique ici, mais ce mode utilise des transporteurs. Il y a le transport paracellulaire où les molécules ne passent pas à travers la membrane, mais ils passent entre les cellules et au niveau des jonctions serrées.
+
+(12:15 - 12:35)
+Il y a la pinocytose où il y a une invagination de la membrane qui va entourer la molécule, surtout des molécules de points moléculaires élevés, et qui va la transporter de l'autre côté. Avant de continuer le cours, on va essayer de répondre à cette question. Cochez là où les réponses sont justes.
+
+(12:35 - 12:51)
+La phase galénique est la première phase de l'absorption. Vrai. On a dit que le principe actif doit se solubiliser, doit devenir de très petite taille pour pouvoir franchir la membrane digestive.
+
+(12:52 - 13:07)
+L'absorption d'un médicament ne nécessite pas de franchissement des membranes. Faux. Parce que, généralement, on ne va pas administrer un médicament au niveau de son site d'action.
+
+(13:07 - 13:17)
+Si on cherche une action générale. Donc, le médicament doit franchir des membranes pour arriver au niveau de son site d'action. Y compris des membranes digestives, s'il est donné par voie orale.
+
+(13:18 - 13:31)
+La diffusion passive utilise des transporteurs. Faux. La diffusion passive n'utilise pas des transporteurs.
+
+(13:31 - 13:41)
+Il y a un passage des molécules à travers la membrane. Sans transporteur. Le transport actif peut être saturable.
+
+(13:45 - 13:53)
+Vrai. On a dit que le transport actif utilise des transporteurs. Et ces transporteurs peuvent être saturés.
+
+(13:53 - 14:08)
+Rappelez-vous de la photo du taxi. Le transport passif intéresse surtout les molécules hydrosolubles. Faux.
+
+(14:09 - 14:22)
+On a dit que le transport passif intéresse surtout les molécules liposolubles. Parce que les membranes sont de nature généralement lipidiques. Elles sont lipidiques.
+
+(14:22 - 14:35)
+Donc, les molécules liposolubles se solubilisent dans ces membranes là. Et elles sont transportées. On va parler maintenant d'un paramètre important qui est la biodisponibilité.
+
+(14:36 - 14:48)
+Qui va nous permettre de quantifier l'absorption. Parce que quand on administre un médicament à un sujet. On a besoin de connaître la quantité du médicament qui arrive au niveau de l'organisme de ce sujet là.
+
+(14:49 - 14:59)
+Pour la définition de la biodisponibilité. C'est la fraction de la dose administrée qui parvient dans la circulation. Ici, on a parlé de fraction de la dose.
+
+(14:59 - 15:09)
+Parce que généralement, si on n'administre pas le médicament par voie intraveineuse. On n'a pas toute la dose qui va passer au niveau de la circulation générale. On aura généralement une fraction de la dose.
+
+(15:09 - 15:23)
+On a besoin de connaître et de quantifier cette fraction de la dose. Donc, c'est la fraction de la dose administrée qui parvient dans la circulation. Et la vitesse avec laquelle un médicament apparaît dans la circulation sanguine.
+
+(15:23 - 15:34)
+A partir de son site d'administration. Et on met pour cette biodisponibilité le symbole F. Concernant le paramètre vitesse, il est important. Et on va voir pourquoi il est important.
+
+(15:35 - 15:51)
+Ce qui nous intéresse dans ce schéma, c'est la courbe de l'évolution des concentrations en fonction du temps. C'est cette courbe. C'est un médicament qui est administré par voie orale.
+
+(15:51 - 16:04)
+Lors de la phase de l'absorption, on a les concentrations qui montent au niveau de la circulation générale. Ici, les concentrations du médicament qui augmentent progressivement. Ça augmente, ça augmente, ça augmente.
+
+(16:04 - 16:26)
+Jusqu'à une concentration maximale. Ici, sur le schéma, c'est le médicament qui passe du système digestif à la circulation générale. Quand on atteint une concentration maximale, il y a les autres phases de la pharmacokinétique qui commencent à apparaître.
+
+(16:28 - 16:43)
+C'est la phase de distribution. Le médicament se distribue au niveau des tissus et ses concentrations commencent à diminuer de la circulation générale. Il commence à disparaître de la circulation générale pour rejoindre les tissus.
+
+(16:45 - 17:05)
+Et après son action au niveau des tissus, il commence à s'éliminer de la circulation générale. Ce sont les phases d'élimination qui comprennent la biotransformation et l'élimination qui est généralement rénale. Ce qui nous intéresse, c'est l'air, ce qu'on appelle l'air sous la courbe.
+
+(17:05 - 17:23)
+Cette courbe-là, c'est la courbe de l'évolution des concentrations en fonction du temps. Ce qui nous intéresse, c'est l'air sous cette courbe. C'est ce qui va nous permettre de quantifier la biodisponibilité.
+
+(17:26 - 17:38)
+Je vous ai montré ce qu'est l'air sous la courbe. La biodisponibilité, c'est la comparaison des airs sous la courbe des concentrations en fonction du temps. Je m'explique.
+
+(17:39 - 17:59)
+Quand on veut calculer la biodisponibilité des médicaments administrés par voie orale, on veut quantifier la quantité du médicament qui arrive au niveau de la circulation générale. On doit le faire en comparaison. En comparaison avec une voie de référence.
+
+(17:59 - 18:27)
+On ne peut pas le quantifier comme ça. On doit comparer la quantité du médicament, l'air sous la courbe du médicament administré par voie orale à une autre air sous la courbe, d'une voie qu'on appelle une voie de référence. Pour cette formule-là, F, qui est la biodisponibilité, c'est l'air sous la courbe du médicament administré par voie orale sur l'air sous la courbe du médicament administré par voie intraveineuse.
+
+(18:27 - 18:46)
+Ici, on a fait une comparaison. On n'a pas pu calculer la biodisponibilité sans avoir utilisé une autre voie de référence. Sur ce schéma, il y a les airs sous la courbe des médicaments administrés par différentes voies.
+
+(18:46 - 19:16)
+Par exemple, ici, c'est l'air sous la courbe d'évolution des concentrations en fonction du temps d'un médicament administré par voie intraveineuse. Et ici, c'est l'air sous cette courbe, ce qu'on appelle l'air sous la courbe. Cette courbe en vert, c'est la courbe de l'évolution des concentrations en fonction du temps d'un médicament administré par voie intramusculaire.
+
+(19:17 - 19:35)
+Et ici, c'est l'air sous la courbe. Ce qui est en mauve, c'est la courbe d'évolution des concentrations en fonction du temps d'un médicament administré par voie orale. Ici, c'est l'air sous la courbe.
+
+(19:36 - 20:15)
+Quand on veut calculer la biodisponibilité du médicament administré par voie orale, on doit comparer son air sous la courbe avec un autre air sous la courbe, que ce soit l'air sous la courbe du médicament administré par voie intraveineuse, intramusculaire, sous-cutanée, dans ce schéma-là. Et on va voir comment on appelle chaque biodisponibilité. Quand la voie de référence ou la voie avec laquelle on se compare est la voie intraveineuse, cette biodisponibilité, on l'appelle biodisponibilité absolue.
+
+(20:16 - 20:41)
+Ici, on l'appelle absolue parce qu'on se compare avec la voie où on a 100% de la dose qui arrive au niveau de la circulation générale. Quand la voie de référence est une autre voie, on parle de biodisponibilité relative. Par exemple, on veut étudier la biodisponibilité d'un médicament administré par voie orale.
+
+(20:42 - 21:14)
+On peut utiliser la voie orale qui nous intéresse avec une autre voie qui est intramusculaire. Une voie, par exemple, rectale, sous-cutanée, donc une autre voie avec laquelle on fait une comparaison. Pour l'injection intraveineuse, la biodisponibilité est à 100% parce qu'on administre le médicament directement dans le compartiment sanguin et on a 100% de la dose qui passe dans ce compartiment.
+
+(21:15 - 21:42)
+Pour les autres voies, la biodisponibilité est généralement inférieure à 100% parce qu'il y a ce phénomène de franchissement des membranes. Mais il y a des exemples de médicaments qui sont administrés par voie orale où on trouve 100% de la biodisponibilité. Dans la définition de la biodisponibilité, il y a l'intensité de l'absorption, c'est-à-dire la fraction qui va être absorbée, mais aussi la vitesse qui est un paramètre important, et on va l'expliquer tout de suite.
+
+(21:44 - 21:55)
+Pour montrer l'intérêt de la vitesse, je vous donne un exemple. Par exemple, ce sont trois formulations du même médicament. A, c'est la forme goutte.
+
+(21:56 - 22:09)
+B, c'est la forme gélule. Et C, c'est la forme comprimée. C'est le même principe actif, c'est la même dose, sauf que la formulation A a été changée.
+
+(22:12 - 22:27)
+Pour la formulation A, on voit que le médicament peut être toxique. Pourquoi ? Parce que la vitesse d'absorption, qui est représentée par la Tmax, est rapide. Ici, l'absorption du médicament était rapide.
+
+(22:27 - 22:47)
+On est arrivé à un Tmax, c'est-à-dire le temps où on atteint la concentration maximale rapidement. Le médicament a été absorbé rapidement, donc les concentrations ont dépassé le cieux toxique. Pour la formulation B, l'absorption était bonne, avec un Tmax qui est bien, donc une vitesse qui est bonne.
+
+(22:48 - 23:18)
+Les concentrations sont dans la marge thérapeutique, donc ce médicament va donner l'effet thérapeutique sans beaucoup d'effets indésirables. Pour la formulation C, tellement l'absorption du médicament ou la vitesse d'absorption était lente, qu'on n'est pas arrivé aux concentrations efficaces et que nous sommes restés inférieurs au seuil d'efficacité et que le médicament n'est pas efficace. C'est l'importance d'étudier la vitesse d'absorption des médicaments.
+
+(23:18 - 23:36)
+Ici, c'est le cas d'un même médicament, de la même dose, sauf que les vitesses d'absorption pour chaque formulation diffèrent. Donc, ça retentit sur l'effet du médicament. Nous allons parler maintenant du phénomène de premier passage hépatique.
+
+(23:39 - 23:56)
+Après le franchissement de la membrane digestive, le médicament est transporté par la veine porte au niveau du foie. Ici, on parle d'un médicament administré par voie orale. Une partie de ce médicament sera transformée ou dégradée au niveau du foie.
+
+(23:57 - 24:16)
+Pourquoi on parle de premier passage hépatique ? Parce qu'ici, le médicament n'a pas encore fait son action. Du système digestif, il part directement au niveau du foie où une partie sera dégradée. Ce passage peut être très important pour certains médicaments et il peut être négligeable pour certains médicaments.
+
+(24:17 - 24:41)
+L'essentiel, c'est une transformation du médicament avant qu'il ne fasse son effet au niveau des tissus. Ce premier passage hépatique se fait surtout au niveau du foie mais il peut être fait au niveau d'autres organes comme le poumon, l'estomac et l'intestin. Il peut donner une perte importante du médicament.
+
+(24:41 - 25:00)
+Bien sûr, s'il y a une dégradation importante du médicament, la quantité qui va arriver au niveau de la circulation générale pour faire l'effet sera moindre. On aura une diminution de l'effet thérapeutique. Généralement, ceci va être montré quand on fait les études de pharmacokinétique lors des essais thérapeutiques.
+
+(25:01 - 25:27)
+Quand on fait l'étude de l'absorption, on étudie ce premier passage hépatique et quand on a une perte importante du médicament, on ne peut pas l'utiliser par voie orale et utiliser une autre voie d'administration. Par exemple, la trinitrine qui est utilisée en cardiologie, on la trouve sous forme de patch ou par voie sublinguale. On ne la donne pas par voie orale à cause de ce phénomène de premier passage hépatique qui est important.
+
+(25:27 - 25:53)
+Cela concerne surtout les médicaments liposolubles et ils donnent une variation interindividuelle importante à la réponse aux médicaments. Une dégradation au niveau du foie dépend du système enzymatique et le système enzymatique peut être différent d'une personne à l'autre. Ce qui explique que la réponse aux mêmes médicaments peut être différente d'une personne à l'autre.
+
+(25:56 - 26:09)
+Plusieurs facteurs influencent l'absorption d'un médicament. Il y a la nature du principe actif. Les médicaments qui sont lipophiles et de petite taille franchissent rapidement les membranes et sont absorbés d'une façon importante.
+
+(26:10 - 26:23)
+Il y a la physiologie du tractus gastrointestinal. La majorité des médicaments sont absorbés au niveau de l'intestin parce que ce dernier offre une surface d'échange importante. Il y a le rôle de l'alimentation.
+
+(26:25 - 26:46)
+Pour certains médicaments comme certains antibiotiques, l'absorption est gênée par la prise alimentaire alors que pour d'autres médicaments, l'absorption n'est pas gênée par la prise alimentaire. Il y a aussi le rôle de l'attitude posturale. Si on prend un médicament en position assise, il est mieux absorbé que si on le prend en position allongée.
+
+(26:49 - 27:24)
+Les interactions médicamenteuses au cours de la phase d'absorption peuvent être dues à des variations du pH gastrointestinal. Par exemple, quand on administre les médicaments de nos serres gastro-diodénales, ces médicaments vont augmenter le pH du liquide digestif. Si, en même temps, on administre des médicaments qui sont des acides faibles comme l'aspirine ou d'autres anti-inflammatoires non stéroïdiens, des acides faibles dans un pH qui est basique, ils vont sioniser, ils ne vont plus rester neutres.
+
+(27:24 - 27:53)
+Donc, leur absorption sera modifiée. L'interaction au niveau de la phase d'absorption peut se faire par effet barrière. Si on administre, par exemple, des effets d'éthopique gastrointestinal quand on a une gastrite, par exemple, ces médicaments vont former une sorte de barrière c'est ce trait rouge, entre le liquide digestif qui va contenir les médicaments administrés et entre la paroi digestive.
+
+(27:53 - 28:10)
+Quand on aura cette barrière, l'absorption des médicaments qui sont au niveau du liquide digestif sera faible. Avant de continuer, nous allons faire une petite évaluation. Cochez là où les réponses sont justes.
+
+(28:10 - 28:21)
+La biodisponibilité est un paramètre pour quantifier l'absorption. Vrai. Ce fait toujours en comparaison avec une voie de référence.
+
+(28:24 - 28:33)
+Juste. On a dit que quand la voie de référence est la voie intraveineuse, on parle de biodisponibilité absolue. Et quand c'est une autre voie, on parle de biodisponibilité relative.
+
+(28:35 - 28:56)
+Le premier passage hépatique ne diminue pas la biodisponibilité d'un médicament. Faux. Quand un médicament sera dégradé lors d'un premier passage hépatique, la quantité qui va arriver au niveau de la circulation sanguine sera faible et donc il aura diminué la biodisponibilité de ce médicament.
+
+(28:57 - 29:10)
+Les caractéristiques physico-chimiques peuvent jouer un rôle dans l'absorption d'un médicament. Vrai. On a dit que la lipophilie d'un médicament et sa petite taille augmentent son absorption.
+
+(29:13 - 29:25)
+On arrive aux voies d'administration. On commence par la voie orale, qui est un procédé pratique et confortable pour le malade. Ce n'est pas comme le médicament par voie injectable.
+
+(29:27 - 29:43)
+Les substances qui ne sont pas attaquées et inactivées par le sucre digestif. Parce qu'une substance, quand elle est inactivée par les liquides digestifs, on ne peut pas la donner par voie orale. C'est le cas de la pénicillie G et de l'insuline qui sont données par voie parentérale.
+
+(29:44 - 29:49)
+Il existe plusieurs formes galéniques. Vous trouvez les sirops. Vous trouvez les formes solides.
+
+(29:50 - 30:11)
+Ou on peut trouver les comprimés, qui sont des cylindres qui comprennent un mélange de substances actives. C'est la substance qui va faire l'effet thérapeutique, mais accompagnée d'excitants et d'additifs qui vont donner du goût, de la couleur, de la forme. Ce sont des substances qui accompagnent la substance active, mais qui n'ont pas, généralement, d'activité.
+
+(30:12 - 30:26)
+Il y a des exceptions qui ont des effets notoiris, qui peuvent donner des effets indésirables, mais généralement, ces molécules n'ont pas d'effet thérapeutique. On trouve aussi les dragées. Ce sont des comprimés avec un revêtement.
+
+(30:26 - 30:48)
+Quand on revêt par un revêtement, pour cacher, par exemple, un goût qui est amer ou désagréable, on trouve aussi les gélules qui ont une forme ovale et qui comprennent des substances sous forme de poudre ou de solution. Ce schéma montre ces différentes formes galéniques. Regardez ça.
+
+(30:49 - 30:58)
+C'est le comprimé. On a la gélule. On administre le médicament sous forme solution à soit des gouttes, soit des sirops.
+
+(30:58 - 31:15)
+Et ici, on a le comprimé enrobé. On a utilisé ici l'enrobage pour permettre une libération prolongée du principe actif. Au fur et à mesure que le comprimé circule au niveau du système digestif, il va libérer progressivement le principe actif.
+
+(31:16 - 31:31)
+Ce schéma le montre. Regardez, le principe actif est à l'intérieur et il franchit cette coquille faite par l'enrobage de façon progressive. De ce fait, la libération de ce médicament sera progressive.
+
+(31:34 - 31:43)
+On passe à la voie rectale. Cette voie nous permet d'administrer le médicament pour une action locale ou générale. Une action locale, par exemple, pour traiter des hémorroïdes.
+
+(31:44 - 32:09)
+Et une action générale, par exemple, quand on donne du paracétamol aux enfants par voie rectale, pour eux, comme antipyrétique. On peut administrer par cette voie des substances qui ont un goût ou une odeur désagréable et des substances détruites par le sucre digestif. Son inconvénient, c'est que l'administration répétitive par cette voie peut nous donner une irritation de la muqueuse colique.
+
+(32:12 - 32:35)
+On va parler maintenant de la voie cutanée et de la voie transdermique. La voie cutanée est utilisée pour une action locale quand on veut traiter quelque chose localement au niveau de la peau. Par exemple, une mycose, on la traite par des antimycosiques, une infection par des antibiotiques, une inflammation par des glucocorticoïdes.
+
+(32:36 - 32:55)
+Les effets généraux sont possibles, ils ne sont pas recherchés par cette voie-là et sont considérés comme des effets secondaires. Par la voie transdermique, on cherche une action générale. Cette voie permet le passage du médicament à travers la peau à la circulation générale.
+
+(32:56 - 33:18)
+Elle n'est pas sujette à un effet de premier passage hépatique, donc elle évite un catabolisme hépatique. On peut donner plusieurs types de médicaments par cette voie sous forme de patch. Les oestros progestatifs pour une contraception, la trinitrine pour son effet anti-ongreux et un anthalgique qui est la fentanyl.
+
+(33:20 - 33:53)
+Il faut savoir que la perméabilité de la peau peut changer d'une région à une autre en fonction des conditions. Par exemple, quand on applique le médicament au niveau des aisselles et du scrotum, l'absorption sera plus importante qu'au niveau des autres régions. Quand on augmente la température de la peau par exemple des frictions, on va faire une vasodilatation et il y aura une absorption importante du médicament.
+
+(33:53 - 34:26)
+En fonction de l'état de la peau, bien sûr, une peau qui est lésée par exemple par des brûlures, on a les vaisseaux qui sont à nu et l'absorption du médicament sera importante. L'absorption sera différente en fonction de l'âge. Pour le nouveau né, sa peau absorbe d'une façon plus importante, donc il faut faire attention quand on applique des crèmes ou des peaux matchées le nouveau né, surtout quand on le fait sur de grandes surfaces parce qu'on risque d'être responsable d'effets indésirables du médicament.
+
+(34:27 - 34:50)
+On arrive à la voie intramusculaire. C'est une voie injectable où on peut administrer le médicament au niveau de la masse musculaire, que ce soit de la fesse ou par exemple du deltoïde pour les vaccins. Elle nécessite une rigoureuse stérilité du matériel et des produits parce qu'il y a une effraction de la peau et si les produits qu'on utilise ne sont pas stériles, on risque de provoquer une infection.
+
+(34:50 - 35:13)
+On peut administrer par les voies les solutions aqueuses comme les solutions huileuses à la différence de la voie intraveineuse où on n'administre que les solutions aqueuses. On administre de faibles quantités du médicament. Ce n'est pas une voie destinée par exemple pour une perfusion et on peut donner des médicaments ce qu'on appelle forme retard ou forme à libération prolongée.
+
+(35:13 - 35:47)
+On peut administrer par exemple une injection intramusculaire d'un neuroleptique qui est utilisé pour la schizophrénie sur plusieurs semaines sans l'administrer quotidiennement. Les dangers de la voie intramusculaire, c'est qu'on peut être responsable d'une infection si on ne respecte pas la stérilité du matériel utilisé. L'injection intravasculaire, c'est pourquoi on vous demande de tirer sur le piston de la seringue quand vous injectez pour voir si vous êtes dans le muscle ou dans une veine par exemple.
+
+(35:49 - 36:12)
+Il y a risque d'avoir un hématome qui peut être important surtout si le patient présente des troubles de l'hémostase. Vous pouvez être responsable d'une piqûre d'une aire sciatique si vous ne respectez pas le lieu de l'injection, c'est-à-dire le cadran supéroexterne de la fesse. La voie intraveineuse est aussi une voie injectable.
+
+(36:12 - 36:35)
+On utilise du matériel à usage unique bien sûr qui doit être stérile pour éviter une infection. Le médicament est injecté directement dans une veine ce qui explique la rapidité de l'action parce qu'il n'y aura pas les étapes de l'absorption et de franchissement des membranes qui vont prendre du temps. Donc il y aura une rapidité d'action, c'est une voie d'urgence.
+
+(36:35 - 36:51)
+On ne peut injecter par cette voie que les solutions aqueuses pour ne pas créer des embôles. C'est une voie exacte parce qu'on est directement dans la veine. Toute la dose qu'on va administrer sera au niveau de la veine et c'est une voie qu'on peut contrôler.
+
+(36:52 - 37:14)
+Par exemple si on fait une perfusion et le malade commence à présenter des symptômes d'une allergie ou autre, on peut arrêter la perfusion. La voie intraveineuse présente certains dangers. C'est une voie à proscrire quand on veut donner des solutions huileuses ou des suspensions parce qu'on risque de faire des embôles vasculaires.
+
+(37:15 - 37:34)
+Elle peut donner des hématomes qui peuvent être importants surtout si le malade présente des troubles de l'hémostase. Si on ne respecte pas les conditions de stérilité, on peut être responsable d'une infection chez le patient. Les produits irritants peuvent être responsables de thromboses veineuses.
+
+(37:34 - 37:49)
+C'est pourquoi il faut distinguer entre la voie intramusculaire et la voie intraveineuse quand on veut administrer un médicament. On peut avoir des embôles gazeux. C'est pourquoi on vous demande de chasser les bulles d'air quand vous voulez injecter un médicament.
+
+(37:49 - 38:20)
+Chasser la bulle d'air de la seringue quand vous voulez injecter un médicament. On peut avoir une surcharge vasculaire surtout quand on veut administrer le médicament sous forme d'une perfusion et qu'on n'a pas bien calculé le début. Il y a d'autres voies qu'on peut utiliser à visée locale comme la voie nasale, l'administration du médicament par le nez, oculaire, l'administration du médicament par l'œil, auriculaire par l'oreille et vaginale par le vagin.
+
+(38:21 - 38:52)
+Il faut noter que même si on cherche une action locale, on peut avoir une diffusion au niveau de l'organisme pour avoir une action générale qui n'est pas recherchée en thérapeutique, mais qui est une sorte d'effet indésirable. Ceci a été noté avec les bêtas-bloquants qui ont provoqué des bradycardies chez des sujets âgés quand ils les ont administrés au niveau de l'œil pour traiter une pathologie oculaire. En plus de ces voies, bien sûr, il y a beaucoup d'autres voies qu'on n'a pas citées au niveau du cours.
+
+(38:54 - 39:17)
+Après la phase d'absorption, on passe à la phase de distribution. La phase de distribution, c'est une étape clé pour la pharmacocinétique car la plupart des sites d'action sont tissulaires. Le médicament doit quitter la circulation générale parce qu'il va faire son action au niveau d'un site qui sera généralement tissulaire.
+
+(39:19 - 39:43)
+Dans cette phase de distribution, il y a des échanges entre les tissus et la circulation sanguine qui se font essentiellement par diffusion passive. C'est la même chose qu'on a vu dans la phase d'absorption. La diffusion passive ne demande pas de l'énergie, elle n'est pas saturable, ne donne pas lieu à des phénomènes de compétition concernant les médicaments qui sont liposolubles et de petite taille.
+
+(39:45 - 40:04)
+Il y a une étape lors de la phase de distribution qui est l'étape de la fixation protéique. Quand le médicament est absorbé et il atteint la circulation générale, il ne va pas rester sous forme libre. Généralement, il forme avec une protéine, un complexe.
+
+(40:05 - 40:29)
+Cette protéine est la plupart du temps une albumine et cette fixation est réversible. Le médicament avec la protéine, c'est un complexe qui est considéré comme une réserve de médicaments. Le médicament va circuler attaché à la protéine au niveau de la circulation générale et quand il veut faire son action, il va se libérer de la protéine pour diffuser au niveau des tissus.
+
+(40:29 - 41:14)
+Le médicament, quand il est lié à la protéine, il a un poids moléculaire élevé, donc il ne peut pas diffuser au niveau des tissus parce qu'on a dit que la diffusion, généralement, est sous forme passive et que la molécule doit être de petite taille. Donc, il doit se détacher de la protéine pour avoir une petite taille et diffuser au niveau du tissu pour faire son action. Donc, ici, le médicament, quand il est libre, il peut diffuser au niveau du tissu pour faire son action, mais quand il est attaché à la protéine et quand il va faire former un complexe, il ne peut pas diffuser au niveau de ce tissu.
+
+(41:14 - 41:31)
+Bien sûr, cette fixation, elle est réversible. Il est attaché à la protéine puis il peut être détaché de la protéine. Quand il va atteindre le tissu, le médicament peut agir au niveau cellulaire, soit au niveau membranaire ou à l'intérieur de la cellule.
+
+(41:32 - 41:58)
+Au niveau des membranes, au niveau des récepteurs, par exemple, une action agoniste ou antagoniste. Une action agoniste, c'est-à-dire qu'il va stimuler le récepteur, comme les bêtas de mimétie qui sont utilisées comme des bronchodilatateurs lors de la crise d'asthme ou lors de l'asthme. Ou antagoniste, c'est-à-dire qu'il va inhiber l'action de ce récepteur, par exemple, les bêtas bloqueurs qu'on peut utiliser dans l'hypertension artérielle.
+
+(41:58 - 42:29)
+Il peut agir au niveau membranaire, au niveau des récepteurs, comme il peut agir au niveau d'un système de transport, comme les glucosides cardiaques qui agissent au niveau d'une pompe qui s'appelle NA+, K+, ATPase, et les antagonistes calciques qui agissent au niveau des canaux calciques voltage dépendants. Le médicament peut entrer à l'intérieur de la cellule pour bloquer ou stimuler une enzyme. C'est en fonction de l'action recherchée du médicament.
+
+(42:31 - 42:55)
+Les barrières entre le sang et les tissus sont à considérer dans la phase de distribution parce que les échanges se font à travers ces barrières-là. Et même si elles sont constituées généralement de cellules endothéliales et d'une membrane basale, la barrière a une structure variable selon les régions du corps. Par exemple, si on regarde la barrière au niveau du système nerveux nerveux central, elle est étanche.
+
+(42:55 - 43:24)
+Les cellules endothéliales ont une activité d'endocytose qui est très faible et n'ont pas de pores. Donc le franchissement de cette barrière peut se faire par des molécules qui ont des propriétés particulières. Par exemple, elles sont très liposolubles pour franchir cette membrane-là parce qu'elles n'ont pas d'autre façon de la franchir que de se solubiliser dans les membranes cellulaires pour passer de l'autre côté.
+
+(43:24 - 44:11)
+Ou avoir un système de transport qui est propre comme la L-DOPA qui est utilisée en neurologie pour le traitement du Parkinson, qui a un transporteur spécial au niveau de la membrane cérébrale pour faire son effet. A la différence du système nerveux central qui a une barrière particulière, les médicaments ont plus d'accessibilité au niveau du foie parce qu'entre ces cellules endothéliales on trouve des fenêtres de grande taille. Donc il n'y a pas d'obstacle au passage des substances entre le sang et le foie, ce qui explique en partie la fréquence des atteintes hépatiques médicamenteuses.
+
+(44:11 - 44:37)
+Ce schéma montre la différence entre les barrières qui sont entre le sang et les tissus. On a pris deux exemples, le système nerveux central et le foie. Regardez, le système nerveux central, la barrière est étanche alors qu'au niveau du foie, il y a une barrière où on trouve de grandes fenêtres entre les cellules.
+
+(44:39 - 45:10)
+L'interaction au cours de la phase de distribution peut se faire au niveau de la fixation protéique. On a dit que la majorité des médicaments se fixent sur une protéine au niveau de la circulation sanguine. Quand on va administrer deux médicaments qui se fixent sur la même protéine, on peut avoir des phénomènes de compétition sur les sites de fixation avec une possibilité de l'augmentation de la fraction libre de l'un des deux médicaments.
+
+(45:10 - 47:03)
+Par exemple, on a deux médicaments qui ont des affinités différentes au site de fixation protéique. Celui qui se fixe d'une façon plus importante va détacher l'autre. Le deuxième médicament aura sa fraction libre qui est élevée. 
+
+On a dit que la fraction libre est celle qui diffuse au niveau des tissus. Quand cette fraction libre est anormalement élevée, ça peut engendrer des effets indésirables. C'est le cas des anti-inflammatoires non stéroïdiens quand ils sont administrés avec les anti-vitamines K ou le méthotrexate. 
+
+Ces anti-inflammatoires non stéroïdiens déplacent les anti-vitamines K et le méthotrexate de leur site de fixation protéique et on peut avoir des effets indésirables de ces médicaments. Quand il y a des conséquences cliniques après cette interaction, vous allez le trouver sur le résumé des caractéristiques du produit. Je vous ai mis ce schéma pour vous montrer le phénomène de compétition. 
+
+On a le premier médicament qui est attaché à la protéine au niveau du site de fixation. Quand on administre un deuxième médicament, ce deuxième médicament va déplacer le premier médicament de son site de fixation. Il va se fixer à sa place. 
+
+Le premier médicament, sa fraction libre sera élevée et il peut donner des effets indésirables. Le paramètre pour quantifier la distribution, c'est ce qu'on appelle le volume de distribution. Il va nous donner, à partir de la quantité du médicament dans l'organisme et de la concentration dans la circulation, une idée sur la quantité du médicament qui est au niveau des tissus.
+
+(47:20 - 48:11)
+La connaissance du volume de distribution du médicament a une utilité clinique. Par exemple, quand on a une intoxication par une molécule avec un grand volume de distribution, on sait que l'utilisation de la quantité de médicament dans l'organisme a une utilité clinique. La dialyse est inutile parce qu'elle va éliminer que la quantité du médicament au niveau de la circulation. 
+
+Alors que pour ce médicament, puisqu'il a un volume de distribution augmenté, il sera majoritairement au niveau des tissus. Donc on doit utiliser un autre moyen pour traiter l'intoxication. Après avoir fait son effet au niveau des tissus, la molécule doit quitter l'organisme. 
+
+L'organisme doit s'en débarrasser. Cette molécule passe au niveau du foie pour qu'elle soit transformée. C'est la phase du métabolisme.
+
+(48:13 - 49:12)
+Le métabolisme, c'est la transformation par une réaction enzymatique d'un médicament à un ou plusieurs autres composés actifs ou inactifs. C'est ce qu'on appelle les métabolites. Normalement, on aimerait bien avoir après le métabolisme des métabolites qui sont inactifs comme ça. 
+
+Nous allons éliminer le médicament à cette étape-là. Mais pour certains médicaments, on peut avoir des composés inactifs. Mais en plus de ces composés, on peut avoir des composés actifs. 
+
+Et même pour certaines molécules, par exemple certaines benzodiazépines qu'on utilise pour l'anxiété, ces composés actifs prolongent l'effet du principe actif du médicament initialement donné. Les tissus qui peuvent faire le métabolisme sont le foie, la peau, le poumon, le rein et plusieurs autres organes. Mais on va voir qu'essentiellement, ça se fait au niveau du foie.
+
+(49:14 - 49:26)
+Le métabolisme est essentiellement hépatique pour plusieurs raisons. Premièrement, le foie est bien irrigué. Il reçoit une quantité importante de sang qui va apporter avec elle les médicaments.
+
+(49:26 - 49:55)
+Et si vous vous rappelez, on a dit que la barrière capillaire du foie peut être rapidement franchie par les molécules. Ce qui fait que le foie reçoit des molécules de médicaments sans problème. Et surtout parce que le foie comporte un système enzymatique qui est le système du cytochrome P450 qui est responsable du métabolisme des médicaments.
+
+(49:56 - 50:32)
+Il y a deux types de réactions enzymatiques au niveau du foie. Il y a les réactions de phase 1 qui comportent plusieurs types de réactions comme l'oxydation, réduction, hydrolyse et autres. Et les réactions de phase 2 qui comprennent la glucuro et ou la sulfo conjugaison. 
+
+Un médicament peut être métabolisé par les deux phases. Par exemple, il va passer par la phase 1 puis la phase 2 ou l'une des phases. L'essentiel de ces réactions, l'objectif de ce passage-là, c'est l'augmentation du caractère hydrophile.
+
+(50:33 - 50:54)
+Si vous vous rappelez, on a dit que les médicaments qui circulent au niveau de l'organisme et qui franchissent les membranes surtout par diffusion passive, c'est surtout des molécules qui sont lipophiles. Donc, pour les éliminer de l'organisme, il faut changer leur caractère lipophile à un caractère hydrophile. C'est l'objectif de ces réactions enzymatiques.
+
+(50:55 - 51:22)
+Ça va donner une perte d'activité et ces molécules peuvent être éliminées essentiellement par le rein. Certains facteurs influencent le métabolisme. Ces facteurs concernent surtout les réactions de phase 1 qui présentent les variabilités les plus importantes, ce qui explique que la réponse au médicament peut être différente d'un sujet à l'autre.
+
+(51:23 - 51:47)
+Donc, si on prend par exemple deux ou trois sujets qui prennent le même médicament, on peut avoir une réponse différente chez ces trois sujets du fait d'une variation au niveau du métabolisme du médicament. On va citer dans le cours deux sources de variations. Il y a les variations génétiques et il y a l'induction et l'émission enzymatiques qui sont dues à des interactions médicamenteuses.
+
+(51:48 - 52:00)
+Les variations d'origine génétique peuvent concerner la vitesse du métabolisme. On va citer l'exemple de l'isoniazide. L'isoniazide est métabolisé par des réactions d'acétylation.
+
+(52:01 - 53:14)
+La vitesse de ces réactions d'acétylation est différente d'un sujet à l'autre. De ce fait, pour l'isoniazide, on trouve des sujets qui sont acétyleurs lents, qu'on appelle acétyleurs lents où la réaction d'acétylation se fait lentement. Le métabolisme de l'isoniazide se fait lentement. 
+
+Pour d'autres sujets qui sont appelés acétyleurs rapides, les réactions d'acétylation se font rapidement et le métabolisme de l'isoniazide se fait rapidement. Ceci a des conséquences sur l'efficacité du médicament. Par exemple, pour les acétyleurs lents, la réaction ou le métabolisme de l'isoniazide se fait lentement. 
+
+Donc, on peut avoir une accumulation de l'isoniazide et avoir ses effets secondaires. Pour les acétyleurs rapides, il y a tellement un métabolisme rapide des médicaments qu'on peut tomber dans l'inefficacité du médicament. C'est pourquoi on fait le dosage de l'isoniazide pour déterminer le profil d'acétylation des patients qui le prennent pour adapter la dose pour avoir un bon effet du médicament.
+
+(53:15 - 54:00)
+On passe au deuxième facteur influençant le métabolisme qui est les phénomènes d'induction et d'inhibition enzymatique. On va commencer par l'inhibition enzymatique. L'inhibition enzymatique est d'origine surtout compétitive. 
+
+C'est-à-dire, deux médicaments qui sont métabolisés par la même enzyme vont entrer en compétition au niveau du site enzymatique. On va le voir tout de suite dans le schéma. Certains médicaments connus inhibiteurs enzymatiques, par exemple la cimetidine utilisée en gastroenterologie et l'isoniazide qui est un antituberculeur, sont connus inhibiteurs enzymatiques.
+
+(54:01 - 54:26)
+Quand vous voyez une ordonnance sur laquelle on a prescrit ces médicaments inhibiteurs enzymatiques, il faut penser à la possibilité d'une interaction médicamenteuse. Parce que ces médicaments, s'ils vont prendre la place d'autres médicaments sur le site enzymatique, ils vont éviter leur métabolisme. Ils vont empêcher leur métabolisme et on va avoir des conséquences.
+
+(54:28 - 55:05)
+Cette inhibition enzymatique s'installe rapidement. En moins de 24 heures, on va commencer à voir les résultats de cette interaction médicamenteuse. Ici, c'est l'exemple d'une inhibition enzymatique. 
+
+S, par exemple, c'est un médicament qui est métabolisé par une enzyme. Quand il est seul, il va être métabolisé normalement et on n'aura pas de problème. Mais quand ce médicament est administré en même temps avec un médicament inhibiteur enzymatique, cet inhibiteur enzymatique va prendre sa place.
+
+(55:06 - 55:31)
+Et quand il va prendre sa place, il va empêcher son métabolisme. Donc, ce médicament va s'accumuler. Les conséquences de cette inhibition enzymatique, c'est une élévation rapide de l'intensité des effets du médicament associé à l'inhibiteur enzymatique ou l'apparition de ses effets indésirables.
+
+(55:32 - 55:55)
+Parce que ce médicament qui n'a pas été transformé parce que l'inhibiteur enzymatique a pris sa place va circuler au niveau de l'organisme et il va s'accumuler. Donc, on va voir ses effets s'exagérer et même on peut avoir ses effets indésirables qui vont apparaître. On passe à l'induction enzymatique.
+
+(55:55 - 56:38)
+Ici, à la différence de l'inhibition enzymatique, un médicament inducteur enzymatique, par exemple, certains antiépileptiques comme le phenobarbital, la phenytoïle et la carbamazepine et un antituberculeux comme la rifampicine vont accélérer la synthèse du système enzymatique. S'ils accélèrent la synthèse du système enzymatique et s'ils augmentent le nombre d'enzymes qui métabolisent le médicament associé, ils vont être responsables de l'améluisement progressif des effets thérapeutiques de ce médicament associé. Voici le schéma qui montre l'induction enzymatique.
+
+(56:38 - 57:30)
+Il y a un médicament connu, un inducteur enzymatique, qui va accélérer la synthèse des enzymes. Au lieu d'avoir quelques enzymes qui vont métaboliser un médicament, le nombre d'enzymes qui métabolisent le médicament sera important et on aura l'effet de ce médicament qui va disparaître rapidement par rapport à la normale. C'est un mécanisme lent. 
+
+On doit attendre à peu près une semaine pour voir l'effet de cette association entre un médicament inducteur et un autre médicament. Pourquoi? Parce qu'on doit attendre la production de nouvelles enzymes. On doit tenir compte quand on associe un médicament inducteur enzymatique à un autre médicament.
+
+(57:31 - 57:47)
+On doit tenir compte de cette association et on doit augmenter la dose du médicament induit parce qu'il va être métabolisé rapidement. Donc son effet va disparaître rapidement. Il faut augmenter la dose comme ça on va saturer les enzymes.
+
+(57:47 - 58:18)
+Il y a une partie qui sera métabolisée rapidement et une partie qui va faire l'effet thérapeutique. Autre facteur qui peut influencer le métabolisme c'est l'insuffisance hépatocellulaire au cours de laquelle on peut avoir une réduction de la capacité métabolique du foie et de la capacité enzymatique. Donc il faut tenir compte lorsqu'on prescrit un médicament chez un insuffisant hépatique, il faut voir est-ce qu'on doit adapter la posologie de ce médicament.
+
+(58:19 - 58:46)
+Une fois le médicament est métabolisé, les métabolites doivent être éliminées. C'est la phase d'élimination. Le médicament est éliminé par de nombreuses voies. 
+
+Il y a la voie rénale, la voie métabolique qui est une partie de l'élimination. La voie pulmonaire. Certains produits volatiles comme les anesthésiques généraux sont éliminés essentiellement dans l'air expiré.
+
+(58:46 - 58:57)
+Certains produits sont éliminés dans les sueurs. Beaucoup de médicaments passent dans le lait maternel. Mais l'excrétion rénale et le métabolisme hépatique sont les plus importants.
+
+(58:58 - 59:36)
+Pour l'élimination rénale, il faut savoir que le rein élimine les produits de dégradation ou les métabolites qui sont la conséquence d'un métabolisme hépatique, qui sont produits par le métabolisme hépatique d'un principe actif. Mais aussi le rein peut éliminer des produits intacts, c'est-à-dire le principe actif lui-même. Parce que si la majorité des médicaments sont métabolisés au niveau du foie, certains médicaments ne sont pas métabolisés au niveau du foie et ils sont éliminés directement par le rein, comme les aminosides qui sont éliminés sous forme intacte et sous forme active par le rein.
+
+(59:39 - 59:52)
+On va parler dans la suite de ce cours de l'élimination rénale. La première phase de l'élimination, c'est la filtration glomérulaire. Il faut savoir que l'endothélium capillaire du glomérule ne laisse passer que les molécules de petite masse.
+
+(59:53 - 1:00:10)
+Le passage se fait essentiellement par mécanisme passif, comme tous les passages qu'on a déjà vu. Et ce, la fraction libre circulante est filtrée. Donc la fraction liée à la protéine, puisqu'elle aura une grande masse, ne sera pas filtrée par le glomérule à l'état normal.
+
+(1:00:12 - 1:01:04)
+Le médicament qui arrive à travers l'artériole afférente va être filtré au niveau du glomérule et va passer au niveau de l'urine primitive. C'est un schéma de cette filtration glomérulaire du médicament. Regardez les points qui sont en bleu, ce sont les médicaments. 
+
+Vous voyez que ces médicaments peuvent passer dans l'urine primitive et les protéines vont rester de l'autre côté. Donc les médicaments liés aux protéines ne vont pas passer à travers cette membrane capillaire. Certains médicaments peuvent subir une réabsorption tubulaire après sa filtration glomérulaire et son passage au niveau de l'urine primitive.
+
+(1:01:05 - 1:01:29)
+Certains médicaments peuvent être réabsorbés, c'est-à-dire qu'ils vont passer de la lumière du néphron et de l'urine primitive vers le sang. Cette réabsorption se fait par un mécanisme passif qui dépend du pH des urines. Il concerne les molécules neutres et les molécules liposolubles, c'est-à-dire les molécules non ionisées et les molécules liposolubles.
+
+(1:01:30 - 1:01:49)
+Le pH des urines joue un rôle. Par exemple, si le pH des urines est acide, il va entraver la réabsorption des molécules qui sont des bases faibles parce qu'elles seront ionisées. A l'inverse, si le pH des urines est basique, il va entraver l'absorption des molécules qui sont acides faibles.
+
+(1:01:49 - 1:02:09)
+On peut utiliser cette propriété en thérapeutique en cas de surdosage. Par exemple, pour un médicament qui est un acide, qui est le phénomene barbital, on modifie le pH urinaire en le rendant basique. On administre le bicarbonate de sodium pour accélérer son élimination.
+
+(1:02:10 - 1:02:34)
+Pourquoi ? Parce que lors d'un surdosage, on ne veut pas qu'il y ait une réabsorption de ce phénomène barbital. On veut l'éliminer rapidement. Celui-ci est acide. 
+
+On va rendre le pH urinaire basique. La molécule va devenir ionisée. Il n'y aura pas cette réabsorption par mécanisme passif et la molécule sera éliminée rapidement de l'organisme.
+
+(1:02:36 - 1:03:11)
+Le médicament filtré peut être réabsorbé et se retourner de nouveau au niveau de la circulation sanguine par mécanisme passif. Certains médicaments peuvent subir une sécrétion tubulaire. A la différence de la réabsorption tubulaire qui est un mécanisme passif, la sécrétion tubulaire est un mécanisme actif qui nécessite des transporteurs.
+
+(1:03:12 - 1:03:52)
+Ces transporteurs sont spécifiques à la molécule. Quand on parle de transporteur, on parle de possibilité de saturation de ce transporteur et une possibilité d'une compétition, donc possibilité d'interaction médicamenteuse à ce niveau-là. C'est la sécrétion active qui utilise des transporteurs pour transporter le médicament de la circulation au niveau du tubeux.
+
+(1:03:55 - 1:04:09)
+Deux paramètres sont utilisés pour quantifier l'élimination d'un médicament. Il y a le paramètre de l'acclairance et la demi-vie. L'acclairance, c'est le volume de sang totalement épuré du médicament par unité de temps.
+
+(1:04:10 - 1:04:35)
+Quand cette clairance est élevée, on sait que le médicament est éliminé d'une façon importante de l'organisme. Le deuxième paramètre, c'est la demi-vie. C'est le temps où on a l'élimination de la moitié du médicament, c'est-à-dire le temps où on a la concentration du médicament qui diminue de moitié.
+
+(1:04:36 - 1:04:58)
+Généralement, la majorité du médicament est éliminé après 5 à 7 demi-vies. Ce paramètre de demi-vie, c'est le paramètre le plus courant qu'on décrit dans la pharmacocinétique. Quand vous allez faire les cours de pharmacologie spéciale, lors de la pharmacocinétique, on va vous parler de la demi-vie.
+
+(1:05:01 - 1:05:33)
+Les facteurs qui influencent l'élimination dépendent des mécanismes impliqués. Quand on est dans la filtration glomérulaire, ce qui va influencer l'élimination par filtration glomérulaire, c'est la liaison aux protéines circulantes, puisqu'on a dit que le médicament qui est fortement attaché ou lié à la protéine ne va pas être filtré. Lors de la sécrétion tubulaire, qui est un mécanisme actif et qui utilise des transporteurs, ce qui va influencer l'élimination, c'est la compétition au niveau de ce récepteur.
+
+(1:05:33 - 1:06:14)
+Je cite l'exemple de la compétition entre la pénicillie G et le probénicide au niveau du récepteur qui sécrète la pénicillie G. Ici, c'est une compétition qui est cherchée en thérapeutique, parce que la pénicillie G a une demi-vie qui est courte, elle est rapidement éliminée de l'organisme. Et quand on administre le probénicide, il prend sa place au niveau du récepteur tubulaire et la pénicillie G va rester longtemps au niveau de l'organisme. La réabsorption tubulaire est influencée par le pH urinaire, comme c'est déjà dit, et il y a aussi l'influence de la pathologie sur l'élimination.
+
+(1:06:14 - 1:06:53)
+Par exemple, en cas d'insuffisance rénale, il faut adapter la dose des médicaments qui ont une élimination rénale sous forme inchangée. Pourquoi ? Parce que si on n'adapte pas la dose de ces médicaments, on peut avoir une accumulation de ces derniers, parce que les reins ne les éliminent pas d'une façon adéquate. La connaissance des données pharmacocinétique des médicaments est importante, surtout pour les terrains particuliers, parce qu'elle nous permet de choisir la bonne molécule pour un malade particulier, choisir la bonne voie d'administration et la bonne dose.
+
+(1:06:54 - 1:07:12)
+Et bien sûr, adapter ces doses en fonction de l'état du patient. Un patient qui peut être un sujet âgé, qui peut être un insuffisant hépatique, un insuffisant rénal. Donc, en connaissant la cinétique du médicament, on peut adapter la prescription de ce médicament au terrain.

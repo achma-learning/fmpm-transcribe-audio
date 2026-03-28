@@ -1,0 +1,1031 @@
+(0:00 - 0:46)
+Le cycle cardiaque, voilà, je reprends un peu les diapos du cycle cardiaque, je vais aller vite parce que ce n'est pas… Voilà, vous vous rappelez quand c'est fixé comme objectif d'être capable à la fin de reprendre ce tableau, ce que j'appelais le tableau de Wright. Wright, c'est relativement un nom d'une table, un type de table, donc il a pris le nom et puis c'est probablement même les auteurs qui ont fait ce tableau, ils ont gardé ce nom. Et la même chose, on s'est posé comme objectif d'être capable de reproduire ce schéma tout seul, juste en suivant un peu les différentes explications qu'on s'est fait.
+
+(0:46 - 2:12)
+La même chose pour cette courbe de volume en fonction du temps, et puis la fameuse table Wright qui est, comme je l'ai dit dans la sonorisation, une manière nouvelle pour, disons, montrer l'ensemble du cours du cycle cardiaque sous un schéma avec toutes les données dedans. On verra est-ce qu'il vous convient ou pas. Alors, je dois revenir à la table, finalement, et je dois switcher en même temps entre les questions et l'écran. 
+
+C'est un exercice énorme pour moi. Alors voilà, on commence un dessin en disant que ce qu'on a dit, on va essayer de mettre en place les changements de la pression et du volume en fonction du temps. Je mettrai sur un axe des abscisses le temps. 
+
+Je vais mettre d'abord le volume. J'ai une gomme, heureusement. On met le volume ici, et en ordonnée, on mettra la pression.
+
+(2:13 - 2:34)
+La pression, bien sûr, c'est en une unité millimètre de mercure. Le volume de quoi ? C'est le volume ventriculaire gauche. Donc forcément, c'est le volume qu'atteignent le ventricule ou les ventricules au moment du remplissage et les volumes qu'ils atteignent au moment de l'éjection.
+
+(2:35 - 3:13)
+On sait bien que le coeur, qu'est-ce qu'il fait à longueur du temps ? C'est une pompe cardiaque. Il se remplit et puis il se vide. Donc, phase de remplissage et phase d'éjection qui s'alternent, c'est ça ce qu'on va faire. 
+
+On ne va pas partir de zéro, mais on va partir d'un volume donné minimal. J'espère que dans le cours, vous avez compris que le volume minimal dans le coeur a un nom. C'est le volume télésystolique.
+
+(3:14 - 3:29)
+Le volume à la fin de la systole, c'est-à-dire une fois qu'il a éjecté le maximum qu'il est capable d'éjecter, il garde quand même un volume résiduel. Il se rappelait le volume télésystolique. On part de ce volume-là et on va commencer à remplir.
+
+(3:29 - 4:40)
+Mettons un chiffre là-dessus, on va mettre un volume de 50. Le volume, c'est toujours ici en millilitres. On est en train de remplir le ventricule. 
+
+Pourquoi je suis parti d'un niveau de pression très bas ? Effectivement, pour qu'il y ait un bon remplissage, il faut absolument que le ventricule soit préparé. Ça veut dire quoi préparé ? Ça veut dire qu'il vient de sortir d'une phase de contraction où il était au maximum de sa pression. Pour qu'il se laisse remplir, il faut qu'il soit relâché. 
+
+Relâché, pourquoi encore une fois ? Parce que c'est l'oreillette qui va remplir le ventricule et une oreillette est incapable de remplir un ventricule si le ventricule est encore sous pression. Il va falloir qu'il se relâche un max. D'autant plus que l'oreillette ne peut pas générer une pression élevée à tel point qu'elle puisse dépasser la pression du ventricule gauche.
+
+(4:41 - 5:27)
+En termes simples, si l'oreillette arrive à monter sa pression à 5 mmHg, voire à 10 mmHg, pour qu'elle puisse remplir le ventricule, il faut que le ventricule s'apprête à recevoir le sang. Il faut que sa pression soit inférieure à celle de l'oreillette. Il n'en a pas le choix. 
+
+Il doit baisser sa pression à des valeurs avoisinant le zéro. C'est la raison pour laquelle j'ai mis dans le schéma qu'on va commencer à des niveaux très bas, avoisinant le zéro, pour le ventricule gauche. Si on veut mettre un titre, j'ai oublié de mettre un titre sur ce diagramme qu'on est en train de faire.
+
+(5:27 - 5:59)
+On peut l'appeler la courbe, disons, pression-volume, pression-volume ventriculaire. On est en train d'étudier ce qui se passe dans le ventricule en fonction du temps, en termes de volume et de pression, c'est-à-dire les changements du volume et de la pression de façon simultanée. On a dessiné le ventricule qui est en train de se remplir, de se remplir, de se remplir.
+
+(5:59 - 6:09)
+Heureusement, tant qu'il est en train de se remplir, la pression est toujours basse. Elle est toujours aux alentours de 5, par exemple, elle ne dépasse pas. Là, elle va atteindre, par exemple, 10.
+
+(6:11 - 6:35)
+A la fin du remplissage, elle a dû atteindre une pression finale, la pression à la fin. Cette pression correspond à un volume, le maximum que le ventricule a été capable de recevoir, qui va être, on va mettre un chiffre, on va choisir 120 millilitres. Ce sera le volume télé-diastolique.
+
+(6:36 - 6:47)
+Il a atteint ce chiffre-là. Commence la phase suivante. Qu'est-ce qui suit le remplissage ? La phase qui prépare l'éjection.
+
+(6:47 - 7:04)
+Et qu'est-ce que c'est que la phase qui prépare l'éjection ? C'est la phase de contraction. Pourquoi je l'ai mis comme ça, en droite, verticale ? Parce que dans cette phase, il n'y a pas de changement de volume, donc je n'ai pas besoin de bouger le volume, je reste dans le sens vertical. Mais par contre, il y a un changement de pression.
+
+(7:04 - 7:18)
+La pression monte dans le ventricule jusqu'à atteindre un niveau qui lui permet de dépasser la pression dans l'aorte. Si on est en train de parler du ventricule gauche, ce sera l'aorte. Si on est en train de parler du ventricule droit, ce sera l'artère pulmonaire.
+
+(7:19 - 7:31)
+Jusqu'à dépasser la pression de l'aorte au-dessus de l'artère pulmonaire. Une fois qu'elle la dépasse, commence l'éjection. On arrive par exemple ici.
+
+(7:32 - 7:45)
+Pour le ventricule gauche, je peux rajouter ici ventriculaire gauche, mais la même chose s'applique sur le ventricule droit. On serait à quelque chose comme 120. Je vous expliquerai pourquoi 120 tout à l'heure.
+
+(7:45 - 7:57)
+120 mm de mercure, ça y est, j'ai atteint ça. Je commence l'éjection. L'éjection, pourquoi je la fais dans le sens inverse ? C'est simple, parce que je vais passer d'un volume télidéastronique, un max, vers un volume minimal.
+
+(7:57 - 8:09)
+Je vais éjecter tout ce qui est ici. On va prendre une autre couleur. De là jusque là, ça va être le volume d'éjection.
+
+(8:11 - 8:32)
+Les anglo-saxons l'appellent le « stroke volume ». Il est à combien ici ? Il est à 120 moins 50, ça fait 70 millilitres. Là, on a fait une éjection. Cette éjection, je reviens à la couleur de début.
+
+(8:33 - 8:55)
+Elle se termine avec une pression minimale aussi. Là, j'ai l'état suivant après l'éjection, qui est le remplissage. Mais le remplissage doit être précédé aussi par une préparation, qui est la phase de relaxation isovolumétrique dans laquelle le volume ne change pas.
+
+(8:55 - 9:07)
+C'est pour ça qu'on est en vertical, mais la pression chute d'une valeur très élevée vers des valeurs avoisinant le zéro. Là, je suis à une phase de relaxation. Je peux commencer encore une fois le remplissage.
+
+(9:07 - 9:19)
+Celle-là prend un nom, c'est bien la boucle. Je prends la gomme. C'est bien la boucle de pression volume ventriculaire gauche.
+
+(9:21 - 9:33)
+Qu'est-ce que je peux représenter sur ce schéma ? Beaucoup de choses, énormément de choses. On va travailler sur cette boucle de pression volume pour en sortir énormément de choses. La première, attendez qu'avant de parler de la première, je vois.
+
+(9:34 - 9:48)
+Est-ce que vous avez posé des questions ? Oui, il y en a pas mal. Non, il n'y a pas eu de questions. Très bien.
+
+(9:49 - 10:00)
+Ok. Vous pouvez poser des questions au fur et à mesure, s'il vous plaît. Parce que c'est difficile de ne pas être face à face, de ne pas vous voir.
+
+(10:01 - 10:16)
+Et en même temps, d'expliquer un cours. Croyez-moi, c'est une expérience difficile aussi bien pour vous que pour moi. Donc, on essaie de faire au maximum de la rendre possible.
+
+(10:18 - 10:25)
+Donc, on doit s'entraider. Posez vos questions au fur et à mesure. Je vais certainement trouver le moyen d'y répondre.
+
+(10:27 - 10:33)
+Je vois que ça clique. Il y a déjà peut-être une question qui se pose. Est-ce que le volume d'éjection est toujours égal à 70 ? Non.
+
+(10:33 - 10:38)
+Très bien, très bien. C'est bien que vous posez la question. Ce que je vous dis ici, c'est un ordre approximatif.
+
+(10:39 - 10:49)
+Mais c'est à peu près ce qui se passe. C'est à peu près ça. Vous me dites par exemple, est-ce que la fréquence cardiaque normale est à 70 ? Non.
+
+(10:50 - 11:03)
+Il y a une variable. Mais c'est toujours aux alentours de 60, 70, 70, 15, etc. Il y a des sujets normaux qui ont une fréquence cardiaque au repos à 80, 90.
+
+(11:04 - 11:15)
+Mais on considère que c'est des sujets qui ont une valeur quand même normale, oui, mais haute. Normale, haute. C'est-à-dire qu'on aimerait bien qu'elle soit plutôt vers le milieu, vers 60, 70.
+
+(11:16 - 11:25)
+Et c'est la même chose pour le volume d'éjection. En moyen, c'est 70, mais ça varie. Et avoir plus que 70 n'est pas forcément pathologique.
+
+(11:25 - 11:41)
+Et le but de la manœuvre, le but de toutes ces explications, c'est de vous aider à repérer ce qui est anormal, ce qui est pathologique. Donc revenons sur la boucle pression-volume. Sur la boucle pression-volume, on va avoir besoin de tracer une droite qui est là.
+
+(11:42 - 11:48)
+Vous la voyez. Je peux la prendre en une autre couleur. C'est important de retenir cette droite.
+
+(11:48 - 12:09)
+Elle peut continuer comme ça et à un moment donné, elle va fléchir en haut. Et la réponse, la question qu'il faut se poser, c'est pourquoi elle ne continue pas toute droite ? C'est tout à fait normal si on revient aux lois qu'on a vues ensemble. On a vu une loi dans laquelle on a remarqué que la pression dans le ventricule est générée par quelque chose.
+
+(12:09 - 12:25)
+Cette quelque chose, on l'a appelée la précharge. La précharge. Mon rôle aujourd'hui, c'est entre autres de vous expliquer pourquoi la précharge, je l'ai appelée en même temps le volume télidiastolique.
+
+(12:25 - 12:33)
+Le volume télidiastolique. Je l'ai appelée aussi le volume de remplissage. Je l'ai même appelée aussi le retour veineux.
+
+(12:35 - 12:46)
+Si vous revenez à vos diapositives, vous allez trouver ça. Mais en même temps, on voit le mot charge. Et quand on voit charge, on se dit mais charge, ce n'est pas volume.
+
+(12:47 - 12:57)
+Charge, c'est une notion qui renvoie vers la pression, vers la force. Et pas forcément vers un volume. C'est plutôt une tension.
+
+(12:58 - 13:14)
+Même l'unité de la charge devrait être une unité en newton par exemple par mètre carré. Parce que la pression, c'est bien une force exercée sur une surface donnée. Pourquoi ça ? On l'assimile par la suite.
+
+(13:14 - 13:24)
+Égal veut dire juste une assimilation. On l'assimile à un volume. Toutes ces notions méritent bien sûr une explication en ligne.
+
+(13:25 - 13:41)
+J'essaie d'effacer mais juste pour gagner de la place. On va d'abord finir de travailler sur cette boucle pression volume. Et on reprend la précharge à part, la contractilité à part et la postcharge à part.
+
+(13:42 - 13:53)
+La droite que vous voyez là, elle représente effectivement le comportement du ventricule en fonction des modifications de la charge. Je m'explique. Je peux avoir un ventricule que je remplis.
+
+(13:53 - 14:07)
+Allez, on va partir de 50. Et cette fois-ci je prends une autre couleur, par exemple le bleu. Et je pars de 50 et je le remplis un maximum jusqu'à par exemple à 150, disons.
+
+(14:07 - 14:24)
+Ce qui est particulier, il aurait pu travailler comme ça. Je peux avoir un autre ventricule qui, au lieu d'avoir ça, il a plutôt... Allez, on va prendre une couleur différente. Du jaune, ça va aller.
+
+(14:25 - 14:33)
+Je peux avoir un autre qui a plutôt un comportement différent. Il a sa courbe qui reflète la précharge. Elle est différente.
+
+(14:33 - 14:58)
+C'est celle de droite. A telle façon que si je veux remplir ce ventricule, je vais aller, disons, à la valeur de 150, comme tout à l'heure. Mais qu'est-ce qu'il y a de la différence ? La différence entre 1 et 2, c'est que quand on atteint le volume de 150 ml, dans la courbe en rouge, on a atteint une pression qui dépasse les 10.
+
+(14:58 - 15:14)
+Je crois que si on fait comme ça, on est aux alentours de 12-13 ou même 15 mmHg. Alors que pour la courbe 2, on est encore à des valeurs très basses, moins de 5 mmHg. En quoi ça nous intéresse ? C'est énormément intéressant.
+
+(15:15 - 15:32)
+Regardez, pour le même remplissage, j'ai essayé de remplir un peu plus mon ventricule. Et qu'est-ce qui s'est passé ? Pour le premier, le remplissage a généré une augmentation de la pression. Et c'est quelle pression celle-là ? On a oublié de lui donner un nom tout à l'heure.
+
+(15:33 - 16:05)
+Ça, c'est la pression télédiastolique qui correspond à 15 mmHg. Pour la courbe 2, la pression télédiastolique est égale à moins de 5 mmHg. Pour le même remplissage, j'ai obtenu deux comportements différents.
+
+(16:05 - 16:32)
+L'un a dû finir son remplissage par atteindre une pression télédiastolique plus élevée que la pression télédiastolique qui a atteint le deuxième à la fin du remplissage, pour le même volume. Est-ce que, à partir de cette remarque, je vais conclure que les deux ventricules sont similaires ? Non. Et qu'est-ce qui n'est pas similaire entre eux ? C'est leur comportement à la fin.
+
+(16:32 - 17:13)
+Et qu'est-ce qui détermine pourquoi l'un finit le remplissage en atteignant des pressions télédiastoliques élevées et l'autre non ? Quelle est la différence ? A priori, les qualités de relaxation de l'un ne sont pas celles de l'autre. En termes simples, la courbe en jaune, le ventricule en jaune, c'est un bon ventricule parce qu'il est tellement relâché que même si on le remplit à 150 ml, il ne fait pas monter sa pression télédiastolique. Il est tellement bien relâché, je peux mettre beaucoup de sang dedans et il arrive toujours à garder une pression basse.
+
+(17:13 - 17:27)
+Le deuxième qui est en rouge, à 120 ça allait, à 150 non, la pression a monté. En termes simples, il ne supporte plus. Je ne peux pas aller plus loin.
+
+(17:28 - 17:47)
+Les deux ventricules, si je veux les stresser, entre guillemets, si je veux encore les expérimenter, je vais remplir le deuxième jusqu'à 200, le jaune jusqu'à 200. Le rouge, regardez, attendez, je vais mettre en rouge. Non, pas comme ça.
+
+(17:49 - 18:05)
+Ça ne se passe pas comme ça, ça se passe comme ça à peu près. D'accord ? Je ne suis pas très doué dans le dessin, vous m'excusez. Regardez, je vais avoir une pression toujours basse à 200 pour le jaune.
+
+(18:06 - 18:36)
+Pour le rouge, ça y est, il va atteindre même 30 mmHg. Donc là, la situation... Oui, j'ai noté une question, je vais y répondre après. Alors, toutes ces explications pour vous dire que la courbe, que ce soit en jaune, que ce soit en rouge, c'est exactement la forme de cette courbe qui va refléter sur un boucle pression volume la qualité de la précharge.
+
+(18:37 - 18:56)
+Et vous commencez déjà à sentir une chose. Vous commencez déjà à sentir que la précharge, oui, ça peut être assimilé à un volume. La précharge du ventricule est telle, le volume qu'il est capable de recevoir, le volume télédiastolique est de tel.
+
+(18:56 - 19:27)
+Mais vous sentez en même temps sur cette courbe qu'en fait, puisque pour le même volume, je peux avoir des pressions télédiastoliques différentes, finalement, celle qui représente la précharge réellement, c'est cette droite, et la précharge est influencée par l'histoire de la pression. C'est pour ça que tout à l'heure je vous ai dit la charge, c'est bien une pression, et c'est vrai. Et la preuve est là.
+
+(19:28 - 19:55)
+Et pour finalement bien expliquer tout ça, voilà ce que les scientifiques ont proposé qu'en termes. Premièrement, en physique, la relation pression sur volume elle est appelée élastance. Quand vous entendez maintenant, dorénavant, vous entendez le mot élastance, ça veut dire comment on change la pression en fonction du volume.
+
+(19:57 - 20:14)
+Quelle est l'élastance du ventricule, c'est-à-dire comment on change la pression en fonction du volume. Si j'écris à l'inverse, comment on change le volume par rapport à la pression, je suis en train de parler de ce qu'on appelle la compliance ou la capacitance. Compliance ou capacitance.
+
+(20:15 - 20:27)
+C'est tout à fait différent. Alors, pour vous expliquer cette notion, je reviens à la boucle pression-volume. Je prends un deuxième écran sur lequel je vais travailler, et on revient.
+
+(20:28 - 20:36)
+Voilà. Quelle est la différence entre les deux ? Voilà la différence, vous allez la voir. Là je reprends volume, et là pression.
+
+(20:37 - 21:09)
+D'accord ? Et puis à côté je change, je mets pression, et là je mets volume. D'accord ? Eh bien, j'ai mal fait de prendre le rouge parce que j'en aurais besoin pour les courbes, mais ce n'est pas grave. Je prends un ballon, un ballon, vous voulez le gonfler, et je le compare par rapport à un ballon de Beaudru, le ballon des anniversaires, qu'on utilise pour célébrer un anniversaire.
+
+(21:09 - 21:20)
+Donc les ballons de Beaudru, je commence par le ballon de Beaudru, et je vais lui mettre une couleur bleue. Le ballon de Beaudru, je suis en train de le gonfler. Son volume est en train d'augmenter.
+
+(21:22 - 21:34)
+Il augmente, mais en ayant une pression quand même qui reste faible. Il augmente comme ça. Le ballon de foot, dès que vous voulez commencer à le gonfler, déjà c'est difficile.
+
+(21:34 - 21:53)
+Il va falloir être muni d'une pompe pour pouvoir commencer à gonfler. Et le premier volume que vous mettez dedans, déjà la pression monte. Vous mettez encore, la pression monte. 
+
+Vous mettez encore et la pression monte. Ça n'a rien à voir. Les deux courbes se comportent de façon tout à fait différente.
+
+(21:53 - 22:19)
+J'inverse, si j'inverse, ça va être quoi ? Le rouge, le volume, un peu de volume augmente, et la pression elle est plutôt, la pression monte pour un volume faible. La pression monte, mais toujours pour un volume faible la pression monte énormément, et ça passe comme ça. Pour le ballon de Beaudru, c'est le contraire.
+
+(22:19 - 22:32)
+Je peux mettre un volume assez intéressant sans atteindre une pression élevée. Et ainsi de suite, et comme ça, après il peut éclater. Vous allez me dire, mais c'est juste qu'on a pris les choses et on les a mises à l'envers.
+
+(22:32 - 22:46)
+Oui, mais ça nous aide à utiliser les termes appropriés. Quand j'ai parlé du ballon de Beaudru, dans le corps humain ça correspond aux veines. Ça c'est les veines.
+
+(22:46 - 23:17)
+Et dans le ballon de foot, dans le corps humain, ça correspond aux artères. Ici on va dire qu'une artère, puisque la pression sur volume, puisque la pression sur volume c'est bien l'élastance, on va dire les artères, dans les artères, l'élastance est plus grande, plus élevée que dans les veines. Elle est plus élevée.
+
+(23:19 - 23:31)
+Dans les veines, l'élastance est faible. Dans les veines, je vais plutôt m'intéresser à quoi? Qu'est-ce qui est élevé dans les veines? C'est la compliance. Donc la compliance est plus élevée.
+
+(23:32 - 23:40)
+Il y en a qui parlent aussi de capacitance. Capacitance. Voilà, elle est plus élevée.
+
+(23:42 - 24:03)
+Vous voyez, ces termes sont intéressants dans ce sens-là. Ça nous aide, en inversant les choses, mais ça nous aide finalement à mieux parler ou à caractériser le comportement d'un conduit ou d'une cavité par rapport au changement de pression volume en déterminant deux types finalement. Là, on parle de deux types de vaisseaux.
+
+(24:05 - 24:12)
+Il y a les vaisseaux qui ont une élastance élevée. C'est bien les artères. Et les vaisseaux qui ont plutôt une compliance plus élevée, ce sont bien les veines.
+
+(24:13 - 24:34)
+Et les veines, pourquoi leur compliance nous intéresse? Parce qu'on voit que je n'ai pas besoin de mettre trop de pression dans une veine et je peux avoir un volume plus important. Donc une veine peut se dilater. Se dilater veut dire qu'elle va prendre beaucoup de volume, mais sans risquer de s'éclater.
+
+(24:35 - 24:57)
+Parce que qu'est-ce qui va faire éclater une veine? C'est quand la pression à l'intérieur devient insupportable, très élevée et finit par dépasser la tension pariétale et éclater la veine. Dans la veine, ça ne se passe pas comme ça. Les veines ont une compliance très élevée, capacité de stocker beaucoup de sang parce que leur compliance est élevée.
+
+(24:57 - 25:11)
+Les artères ne sont pas capables de stocker beaucoup de sang. Non, ils n'ont pas cette possibilité parce que le régime de pression est élevé dans les artères. Donc ce qui nous intéresse dans les artères, c'est leur élastance.
+
+(25:12 - 25:24)
+C'est pas leur compliance. La compliance ne nous intéresse pas. Et l'élastance c'est aussi, si dites aussi, il y en a qui peuvent l'assimiler à la distanciabilité si vous voulez.
+
+(25:24 - 25:47)
+Mais bon, je vais laisser la distanciabilité pour après. Donc, intéressez-vous aussi au terme d'élastance. L'élastance, en quoi elle va nous intéresser puisqu'elle ne reflète pas le stockage ? Elle reflète une chose, c'est que ce qui importe dans une artère, c'est la pression avec laquelle le sang passe.
+
+(25:48 - 26:07)
+Et cette pression, elle sera énormément utile pour maintenir une meilleure perfusion, une meilleure perfusion des organes. Pour quelles raisons ? Ça, c'est ce qui va nous expliquer plusieurs équations. L'équation de Poiseuil, on l'a vu, et l'équation de Bernouillet que j'ai évoquée dans l'équation de continuité sans citer le nom.
+
+(26:07 - 26:23)
+J'ai parlé de l'équation de continuité, mais c'est en fait l'équation de Bernouillet modifiée. L'équation de Bernouillet est tellement utilisée dans les fluides qu'il est important qu'on revienne là-dessus. Je reviens à la diapo précédente.
+
+(26:23 - 26:35)
+Je regarde en même temps s'il y a des questions. Non. Il faut absolument que vous me posiez des questions, parce que je dois savoir si je suis toujours sur la même longueur d'onde avec vous.
+
+(26:36 - 27:02)
+On veut comparer maintenant l'élastance, parce que sur ce schéma-là, ce n'est pas l'accompliance qui nous intéresse, c'est l'élastance. Ici, je suis en train de voir l'élastance du ventricule gauche, l'élastance télé-diastolique. L'élastance diastolique ou télé-diastolique qui reflète la précharge.
+
+(27:03 - 27:18)
+Celle-là va refléter effectivement la précharge. L'élastance est différente entre le ventricule en jaune et le ventricule en rouge. Le ventricule en rouge ne se laisse pas remplir facilement.
+
+(27:19 - 27:36)
+En arrivant à un volume, la pression monte. Qu'est-ce que ça veut dire que la pression monte ? Est-ce que le ventricule jaune est bon et mieux que le ventricule rouge ? Non. Le ventricule jaune est effectivement meilleur, son comportement est meilleur que celui du ventricule rouge.
+
+(27:37 - 27:50)
+Le ventricule gauche, à quoi il expose ? C'est très simple. Quand j'essaie de faire augmenter le volume, la pression monte. Cette pression, comme vous le voyez, est insupportable pour le ventricule.
+
+(27:51 - 28:04)
+Au moment du remplissage, je ne peux pas atteindre, par exemple, une pression à 30 ou un truc comme ça. Qu'est-ce qui se passe ? L'oreillette n'arriverait plus à remplir. L'oreillette, comme je l'ai dit tout à l'heure, arrive à 5 ou 10 mm de mercure.
+
+(28:05 - 28:19)
+Dans les situations de difficulté ou d'urgence, elle peut avoisiner les 15 mm, voire un peu plus, jusqu'à 20 mm de mercure. C'est quand même un maximum pour une oreillette. Ce qui veut dire que le remplissage ne va pas se terminer.
+
+(28:20 - 28:35)
+Dès que la pression commence à monter, il arrive, par exemple, à un chiffre aux alentours... J'ai un pointeur ? J'ai un pointeur ? Un pointeur ? Je ne sais plus. Je crois que c'est celui-là. Ah non, ça c'est juste pour poser des points.
+
+(28:38 - 28:50)
+Je me suis trompé. Ce n'est pas un pointeur. Comment je vais retourner ? Non, ce n'est pas comme ça.
+
+(28:51 - 29:01)
+Je vais fermer ça. J'ai perdu sur quoi j'ai travaillé. Non, ce n'est pas ça.
+
+(29:02 - 29:09)
+C'est compliqué. Ça c'est pour passer d'un tableau à l'autre. Ah oui, c'est bon, j'ai retrouvé.
+
+(29:19 - 29:32)
+Je disais que le remplissage va devoir s'arrêter. Dès qu'on avoisine, par exemple, 15 mm de mercure, le remplissage s'arrête. Il s'arrête.
+
+(29:33 - 30:06)
+Il sera incomplet. Si jamais le remplissage se fait, par exemple, de façon rapide, il y a un remplissage rapide, un remplissage diastolique, un remplissage lent, et puis à la fin il y a cette contraction auriculaire qui se fait. Si jamais le remplissage finit par se compléter, ce qui se passe c'est que la pression va monter dans l'oreillette gauche, va sortir de l'ordinaire, je vous ai dit que maximum elle va atteindre 20 mm de mercure, dans des situations pathologiques.
+
+(30:07 - 30:57)
+Si jamais on l'oblige à monter sa pression, l'oreillette ne s'éclate pas, heureusement, mais elle transmet la pression élevée qui règne dedans, dans l'oreillette, vers les veines pulmonaires. Vers les veines pulmonaires, et la pression de remplissage, bon, qu'est-ce qu'il se passe ? Là, je vais changer, je vais aller vers, je vais aller vers, attendez, comment on fait ça ? Je savais tout à l'heure, là j'ai oublié. Ah oui, c'est bon, j'ai retrouvé.
+
+(30:58 - 31:17)
+J'ai déjà une question, qu'est-ce qui laisse un ventricule meilleur qu'un autre ? Oui, c'est important comme question. Monsieur, puisque les veines ont une compliance plus grande, pourrait-on dire qu'elles ont une résistance plus faible ? Attendez, ne mélangez pas les notions. J'essaie de faire les choses doucement.
+
+(31:18 - 31:58)
+La notion de résistance, on y arrivera facilement, en étudiant, aussi bien en partie l'équation de Bernouilli, et surtout quand on verra la loi de Poiseuil, et on comprendra à quoi servent les résistances qui existent sur les artères. C'est bien dans votre question, les veines ont une compliance plus grande, donc elles ont une résistance plus faible. Oui, elles ont une résistance plus faible, mais les résistances dans les artères, et aussi dans les veines, vont servir à autre chose.
+
+(32:00 - 32:34)
+Et la compliance, c'est une propriété essentiellement de la paroi. La paroi se laisse distendre, ou là c'est une paroi, un peu rigide, mais un peu ferme, si vous voulez, qui ne se laisse pas distendre facilement. Gardez toujours à l'esprit l'exemple du ballon de Baudruche, dans lequel la paroi est fine, elle est facile à faire, elle va se dilater très vite.
+
+(32:35 - 32:59)
+Et comparée à la paroi d'un ballon de foot, ou d'un ballon de rugby, là vous avez des parois vraiment très épaisses, ou la paroi d'un pneu de voiture, ça n'a rien à voir. Donc c'est une propriété intrinsèque de la paroi. Les résistances, c'est une autre notion qui sert à déterminer comment l'écoulement va se passer.
+
+(33:00 - 33:27)
+Aujourd'hui on a l'écoulement rapide, faible, et puis est-ce que le débit à travers la veine ou l'artère va être faible ou le plus élevé ? Je suis d'accord avec la conclusion que vous avez faite, les veines ont une compliance élevée, mais ont une résistance faible, mais ça c'est un constat, ce n'est pas une explication. Ce n'est pas parce qu'ils ont une compliance élevée qu'ils ont une résistance faible. C'est juste qu'on a constaté qu'ils sont comme ça.
+
+(33:30 - 34:19)
+La compliance est reliée à la paroi, la même chose que l'élastance, et les résistances sont reliées à autre chose, elles sont reliées à une zone particulière au niveau des hiélamédias, au niveau des artérioles, qui va déterminer le tonus artériel, qui va le faire varier, et ça n'a rien à voir avec la qualité de la paroi, si elle est compliante ou pas. Quelle est la relation entre une augmentation de pression et une impulmonaire ? C'est exactement ce que j'étais en train d'expliquer au Fasch-Britten-Dusselet-Diapo, et je me suis arrêté sur la question, donc je vais continuer. Voilà ce que j'ai voulu reprendre avec vous, la table de Wright.
+
+(34:21 - 34:38)
+Il y a une table pour le cœur droit, une table pour le cœur gauche. Qu'est-ce que vous voyez dans cette table ? Je l'ai gardée telle qu'elle est en anglais, mais je pense que l'anglais ne vous pose aucun problème. On met les différentes phases du cycle cardiaque, de façon résumée, si vous voulez.
+
+(34:38 - 34:53)
+La première phase, la phase 1, vous la voyez, je vais passer en mode diaporama, et je vais prendre le pointeur. Le pointeur, voilà. Dans la phase, il y a la phase de remplissage lent.
+
+(34:53 - 35:16)
+Dans le cas de l'homme, il y a la phase 4, la phase de remplissage rapide. Dans la phase de remplissage lent, il y a la phase de contraction auriculaire. Dans la phase d'éjection, voilà les différentes phases qu'on a. On est d'accord ? Sur ce schéma, qu'est-ce que vous avez ? Vous avez l'oreillette et le ventricule.
+
+(35:16 - 35:22)
+L'oreillette est remplie par la veine cave. Le sang rentre dans l'oreillette. L'oreillette rentre dans le ventricule.
+
+(35:22 - 35:27)
+Il passe dans l'artère pulmonaire. Ça, c'est pour le cœur droit. Pour le cœur gauche, vous savez comment ça se passe.
+
+(35:28 - 35:41)
+Dans le schéma, il était représenté un globule rouge. Le globule rouge, il va représenter le flux du sang. Le globule rouge, c'est un globule rouge qui est plein, qui est vraiment rouge.
+
+(35:41 - 35:49)
+L'autre est un peu rose pour différencier. Le premier remplissage, voilà comment ça se passe. Vous suivez mon pointeur.
+
+(35:49 - 36:00)
+Qu'est-ce que j'ai fait ? Je ne sais pas. Je suis passé. C'est choquant.
+
+(36:04 - 36:18)
+C'est quoi ça ? C'est un cours suivant ou quoi ? Attendez, donnez-moi un moment. Voilà, on a sauté les diapos. D'accord.
+
+(36:20 - 36:25)
+Je reviens. Avec mon pointeur. Je crois que je l'ai toujours.
+
+(36:27 - 36:39)
+Ah oui, j'avais oublié l'autre organe. Là, c'est le cœur droit. On passe avec ce globule rouge qui, cette fois-ci, est coloré en bleu parce que le sang est désoxygéné.
+
+(36:40 - 36:51)
+Il passe comme ça, au deuxième cycle cardiaque où on remplit avec un autre sang. Et ainsi de suite. C'est comme ça que vous allez lire les tables de Wright.
+
+(36:52 - 37:10)
+Dans ces tables, vous avez en même temps une idée moyenne sur la pression. Il y en a un qui gaule claver le câble de façon grosso modo. Qu'est-ce que je fais encore ? La pression est faible, aux alentours de 5 mm du mercure.
+
+(37:10 - 37:42)
+La pression dans l'oreillette droite durant le cycle Campbell, Liani, sur les phases de remplissage ou même dans l'éjection. Qu'est-ce qu'il y a dans l'oreillette droite ? Qu'est-ce qu'on a de la pression, par exemple, de 3, 4, 6 mm ? Il n'y a que 6 mm de mercure. Dans le ventricule gauche, la pression la plus basse est proche de 0. C'est aux alentours de 3. Il n'y a que 4. Et au moment de l'éjection, elle dépasse 6. C'est 25 mm de mercure.
+
+(37:42 - 38:06)
+Elle doit revenir au début du remplissage vers 0. Elle monte au moment de l'éjection jusqu'à 25. Pour l'artère pulmonaire, il y a toujours une pression minimale de 10, 10-12. Au moment de la systole, elle atteint 25, progressivement 23 jusqu'à 10-12.
+
+(38:07 - 38:24)
+Vous voyez, il y a des variations de pression différentes en fonction des cavités. Grosso modo, le changement de pression dans la veine cave ou dans l'oreille droite, c'est presque le même. 5-4, 5-4, 6-6, 6-6, à peu près 5-4.
+
+(38:24 - 38:35)
+Il y a pratiquement les différences de pression qu'il y a dans le gradient. Il n'y a aucun gradient de pression entre la veine cave et l'oreille droite. Elle lèche.
+
+(38:35 - 38:44)
+C'est normal. C'est pratiquement la même pression. Le sang coule de façon fluide de la veine cave vers l'oreille droite.
+
+(38:44 - 38:53)
+C'est la même chose ailleurs. Entre le schéma suivant, les veines pulmonaires jusqu'à l'oreille gauche, c'est la même chose. C'est le même niveau de pression.
+
+(38:54 - 39:09)
+C'est 10-11, 10-11 jusqu'à 14, etc. Il n'y a aucun gradient de pression. La pression qui règne dans l'oreille gauche, c'est exactement la même que la pression dans les veines pulmonaires.
+
+(39:09 - 39:27)
+À tel point qu'il n'y a pas de pression dans les veines pulmonaires, c'est simple. La pression dans les veines pulmonaires, il suffit de connaître la pression dans l'oreille gauche et vice-versa. Je peux faire la même chose pour l'oreille droite.
+
+(39:28 - 39:39)
+Elle est à l'intérieur du cœur. C'est exactement la même pression qu'il y a dans la veine cave. La pression dans la veine cave, c'est la même pression qu'il y a dans les veines jugulaires.
+
+(39:40 - 39:54)
+Il n'y a aucun gradient de pression. Donc, on peut prendre la pression dans la veine jugulaire, ou la pression dans la veine jugulaire. Elle est élevée.
+
+(39:55 - 40:08)
+C'est la même pression qu'il y a dans l'oreille droite. Ce que je suis en train de vous dire, c'est exactement ce qui se faisait depuis de longues années. Pour connaître la pression dans l'oreille droite, les médecins faisaient comme ça.
+
+(40:08 - 40:36)
+Ils mettaient une intranule, une aiguille, si vous voulez, dans la veine jugulaire, parce que la veine jugulaire est assez accessible. Ils mettaient un tube de pitot qui chauffait le sang, une colonne, ça ressemble un peu au thermomètre à mercure. Le thermomètre à mercure, vous voyez que la colonne de mercure monte, monte, monte, monte, etc.
+
+(40:37 - 40:59)
+Elle a 37, elle a 38 degrés, elle a 39, etc. Ils faisaient le même principe en mettant une aiguille et en mettant une sorte de tube gradué. La hauteur que va atteindre la colonne, le sang, le tube, ça reflète à peu près, selon l'équation du Bernoulli, la pression.
+
+(41:00 - 41:18)
+Si on met 4, 5, 6 centimètres dans la colonne, on a l'équation qui correspond à 10, 15 millimètres de mercure, 20, etc. En clinique, on ne fait plus ça. On ne pique plus la veine jugulaire pour connaître la pression.
+
+(41:18 - 41:29)
+On a des moyens plus sophistiqués. Mais en clinique, on utilise la notion qui dit qu'il n'y a pas de gradient de pression entre la veine cave et l'oreille droite. J'insiste beaucoup sur ça.
+
+(41:30 - 41:44)
+En clinique, c'est très simple. Un patient, par exemple, on fait l'inspection de son cou, les veines jugulaires sont dilatées. Une veine dilatée, ce n'est pas normal.
+
+(41:45 - 42:01)
+Les veines dilatées comme ça, ce n'est pas normal. Trop dilatée, ce n'est pas normal. Comme la veine est compliante, elle se laisse distendre quand il y a soit un volume qui tire vers elle, soit elle fait un peu la pression.
+
+(42:02 - 42:20)
+Ce n'est rien. Elle fait la pression, mais quand elle fait la pression, elle est trop amoureuse. Puisqu'elle est compliante, une veine est compliante, le changement de pression s'accompagne plutôt d'un grand changement de volume.
+
+(42:21 - 42:38)
+Alors que l'artère ne fait rien. L'artère, par exemple, quand elle fait la pression, elle est dans le même diamètre. Quand quelqu'un est traité pour une hypertension artérielle, les gens qui disent qu'ils ont des tensions, ils ne voient pas que leurs artères sont gonflées.
+
+(42:39 - 42:49)
+Non. Les artères sont d'aspect normal. Parce que les artères ont une élastance élevée.
+
+(42:50 - 42:56)
+Ils ne se laissent pas distendre. Les veines, non. Les veines, une fois que tu montes un peu la pression, elles se dilatent.
+
+(42:57 - 43:09)
+Il y a de la notion d'hydrostimulant en clinique. On se dit que puisque les veines jugulaires de ce patient sont dilatées, il y a probablement deux raisons. Il y a trop de sang.
+
+(43:10 - 43:23)
+Et donc, il y a quelque chose qui monte la pression. Et c'est surtout ça qui monte la pression dans la veine. Et ça a entraîné quoi ? Ça a entraîné une dilatation des veines.
+
+(43:23 - 43:35)
+Puisqu'on sait que la pression qui enlève les jugulaires, il y a la pression qui enlève la veine cave. Il y a la pression qui enlève l'oreille droite. Donc, on conclut que le problème de le patient, c'est un problème cardiaque.
+
+(43:35 - 43:50)
+Juste en regardant les jugulaires, en regardant des jugulaires dilatés, on se dit ça, ça vient du cœur. C'est une dilatation des veines jugulaires secondaire à un problème de pression élevée dans le cœur. Donc, c'est un problème cardiaque.
+
+(43:50 - 44:04)
+Vous voyez, à partir de notions physiologiques simples, on arrive à comprendre des choses importantes en clinique et même à poser des diagnostics. Et donc, c'était ça. Je termine ça et puis je reviens jeter un coup d'œil sur vos questions.
+
+(44:05 - 44:18)
+Je vous montre comment il faut lire la table de Wright. Donc, il y a l'histoire des pressions que je viens d'expliquer. Pour ce qui est... Alors, j'ai perdu le fil.
+
+(44:18 - 44:27)
+Je m'excuse. Attendez. Voilà.
+
+(44:28 - 44:51)
+La question, c'était quelle est la relation, l'augmentation entre la pression ventricule gauche et le dents pulmonaires. C'est ça ce que je voulais expliquer. Je reviens. 
+
+Je prends le ventricule gauche. Je passe mon mot de diaporama. Voilà. 
+
+Alors, la pression monte dans l'oreillette gauche. On est là. On est bien là. 
+
+On est bien là, ici. Finalement, le pointeur. On est bien là.
+
+(44:53 - 45:20)
+On a dépassé les 14. On est à 20, 25, voire 30. On a mis une trop grande pression. 
+
+Qu'est-ce que vous voyez sur le schéma? Vous voyez que... Vous voyez que la phase de contraction auriculaire, l'oreillette essaie de se contracter pour remplir au maximum le ventricule. Voilà. C'est ce qu'elle est en train de faire.
+
+(45:20 - 45:42)
+Mais, il y a quand même le son dans le ventricule gauche. Il passe ici. D'accord? Mais comme la pression est un peu quand même élevée. 
+
+On n'est pas dans les 5, 10 mm du mercure. On est à 14. Puisqu'il est assez élevé, jusqu'au cas où le surplus de pression remonte dans les veines pulmonaires.
+
+(45:43 - 45:51)
+C'est une sorte de reflux. C'est un reflux. Quand on dit qu'on a un reflux, oui.
+
+(45:53 - 46:38)
+Parce que le son doit toujours partir dans un seul sens. Oui, je suis d'accord. C'est un sens unidirectionnel. 
+
+Et qui détermine le sens unidirectionnel du son dans le coeur? C'est les valves. Où est-ce qu'il y a une valve entre les veines pulmonaires et l'oreillette gauche? Non. Où est-ce qu'il y a une valve entre les veines caves et l'oreillette droite? Non. 
+
+Donc, il est possible d'assister à un reflux du son maintenant de l'oreillette vers soit les veines pulmonaires si on est à gauche, soit les veines caves si on est à droite. C'est possible. Et est-ce qu'en physiologie ça existe? Ça existe tous les jours. 
+
+Chaque fois qu'il y a une phase de contraction auriculaire, la pression bien sûr monte. C'est une phase active. L'oreillette se contracte.
+
+(46:38 - 47:03)
+Elle pousse le maximum de sang vers le ventricule. Mais n'empêche qu'une petite partie va refluer. Et c'est tout à fait physiologique. 
+
+C'est juste une petite partie qui reflue. Ça ne craint rien du tout. D'accord? Maintenant, en situation anormale, il faut que l'élastance ventriculaire télé-diastolique soit anormale.
+
+(47:03 - 47:20)
+Et que la pression télé-diastolique la pression dans l'oreillette devrait monter. La pression de remplissage, la pression télé-diastolique qui enlève le ventricule. Et dans ce cas-là, qu'est-ce qui se passe? Tous les ans, il y a 14 ans.
+
+(47:20 - 47:26)
+Dans les années 30, voire plus. Et il y aura du remplissage qui va se faire. Difficilement.
+
+(47:26 - 47:40)
+Vous l'imaginez. Mais une bonne partie va refluer. Parce que l'oreillette, elle a des difficultés à remplir le ventricule, puisque sa pression télé-diastolique a augmenté.
+
+(47:40 - 47:50)
+Elle a de la facilité de l'autre côté, vers les veines pulmonaires. Elle est plus simple. Et vous savez que le sang qui éclate à la direction où la pression est plus faible.
+
+(47:50 - 48:09)
+Donc, elle a un peu amarré le ventricule. Mais une bonne partie va refluer dans les veines pulmonaires. Une très bonne partie. 
+
+Et ce qui va refluer dans les veines pulmonaires, va faire augmenter davantage la pression dans les veines pulmonaires. Et les veines pulmonaires, si jamais... Le tableau. Le tableau, le tableau.
+
+(48:09 - 48:30)
+Le tableau. Voilà. Le tableau. 
+
+Je vais rajouter un troisième tableau. Troisième. Et ce qui se passe, vous avez votre oreillette gauche qui est là, avec ses veines pulmonaires.
+
+(48:36 - 48:51)
+Voilà. La pression, elle va monter dans l'oreillette et le sang va refluer dans les veines pulmonaires. Le sang qui a reflué, c'est aussi que la pression va monter dans les veines pulmonaires.
+
+(48:53 - 49:02)
+Le chemin des veines pulmonaires. Les veines pulmonaires qui sont dans les poumons. Je vais passer comme ça.
+
+(49:02 - 49:10)
+Je vais dessiner des venules. La même chose ici. Vous avez ça.
+
+(49:12 - 49:18)
+Normalement, les venules, c'est plus petit. Je devrais dessiner encore plus petit. Petits venules, c'est important.
+
+(49:19 - 49:39)
+Je vais la mettre en rouge. Petits capillaires. Bien sûr, je les dessine un peu gros parce que je dessine le mâle et puis l'artériole.
+
+(49:40 - 49:46)
+Il ne faut pas la mettre en bleu. Je n'ai pas eu le choix. Artériole.
+
+(49:47 - 49:55)
+Des capillaires, ça c'est venule. Je crois, pneumo. On est dans les poumons.
+
+(49:56 - 50:10)
+On aimerait bien parler de ce qui se passe dans les poumons. Les capillaires, c'est juste le contact de l'alvéole. Et ça, c'est ça, la membrane alvéolocapillaire.
+
+(50:11 - 50:37)
+Donc, la pression qui est montée dans les veines pulmonaires va être transmise, puisqu'encore une fois, il n'y a pas de gradient de pression. On va mettre les venules au niveau capillaire et là, ça va entraîner une sortie. Une sortie du liquide d'eau, principalement, vers le milieu interstitial.
+
+(50:37 - 51:00)
+Le milieu interstitial pulmonaire est amarré d'eau. Mais l'eau va dépasser vers les alvéoles. Et c'est ça ce qu'on appelle de l'EDEM. 
+
+La loi qui contrôle, ça s'appelle la loi de Starlin appliquée à la microcirculation. Je vais en parler dans la partie vasculaire. Pour l'instant, je vous explique ce qui se passe.
+
+(51:00 - 51:35)
+Je vous explique la relation entre développer de l'EDEM pulmonaire. Pourquoi il y a de l'EDEM ? Parce qu'il y a eu une pression veineuse. Parce qu'il y a eu une pression veineuse élevée qui a entraîné une transudation, une sortie d'eau, de liquide de milieu vasculaire, milieu capillaire vers le milieu interstitial et par la suite, quand la pression est encore plus élevée, il sort vers le milieu alvéolaire et ça donne un EDEM alvéolaire.
+
+(51:36 - 52:00)
+Donc c'est dû à la pression. La pression veineuse élevée, elle est due à quoi ? Elle est due à l'augmentation de la pression dans l'oreillette gauche. Et la pression dans l'oreillette gauche, c'est la pression du ventricule gauche.
+
+(52:02 - 52:10)
+Donc regardez le chemin qu'on a fait. Il y a eu un EDEM pulmonaire et donc il est devenu essoufflé. Les poumons de l'oreillette sont élevés.
+
+(52:11 - 52:32)
+La cause, nous l'avons appris, c'est le cœur. Le ventricule qui ne se distend pas bien, qui n'a pas une élastance télé-diastolique bonne, il génère une pression télé-diastolique, une pression au moment du remplissage élevée. Et cette pression fait monter la pression dans l'oreillette gauche.
+
+(52:33 - 52:38)
+Elle la fait monter dans le ventricule pulmonaire. Elle entraîne un EDEM pulmonaire. Donc l'EDEM est secondaire à un problème cardiaque.
+
+(52:39 - 52:47)
+Alors que si nous avons un problème, il est dans les poumons. Et la cause, nous l'avons appris, c'est dans le cœur. Il faut traiter le cœur pour que l'EDEM disparaisse.
+
+(52:48 - 53:13)
+Donc, la pression télé-diastolique du ventricule gauche doit toujours rester basse. PTDVG est la pression télé-diastolique du ventricule gauche. La pression télé-diastolique du ventricule gauche est l'équivalent de la pression de remplissage du ventricule gauche.
+
+(53:13 - 53:31)
+Je crois que c'est évident pour vous. On est en train de remplir. C'est normal. 
+
+PTDVG, il y a la pression de remplissage. La pression de remplissage du ventricule gauche c'est une pression importante. Il va falloir qu'elle soit toujours basse.
+
+(53:31 - 53:50)
+Il faut qu'elle soit basse. Si elle augmente, je vais revenir. Le ventricule que j'ai mis en rouge, c'est un problème car la pression télé-diastolique du ventricule gauche ou la pression de remplissage est élevée.
+
+(53:51 - 54:06)
+Du coup, il risque de faire de l'œdème pulmonaire alors que celui qui est en jaune est meilleur. Mais ça reflète quoi exactement ? La performance cardiaque. On a bien dit qu'un cœur qui fonctionne bien, c'est un cœur performant.
+
+(54:09 - 54:22)
+Jusqu'ici, je suis en train de parler de la phase du remplissage. Le remplissage, j'ai remarqué finalement à travers ces schémas, qu'il y a deux types. C'est juste pour l'exemple.
+
+(54:22 - 54:50)
+Pour vous montrer que j'ai un ventricule qui, au moment du remplissage, se distend très bien à tel point que sa pression télé-diastolique ne monte pas. La pression de remplissage ne monte pas. J'ai un ventricule qui, dès que je commence à remplir un peu plus, vite fait, sa pression télé-diastolique monte, sa pression de remplissage monte, il ne se laisse pas distendre et donc celui-là risque de faire un nœud d'un pulmonaire.
+
+(54:50 - 55:02)
+J'ai deux types. Je mets une performance, c'est-à-dire un 2L1. La performance, ne vous inquiétez pas, ce n'est pas un terme, c'est juste pour mettre de l'ordre dans ce qu'on dit.
+
+(55:02 - 55:12)
+J'ai mal écrit là. J'ai mal écrit. Performance, c'est une performance diastolique.
+
+(55:17 - 55:29)
+Donc, diastolique, c'est bien diastolique parce qu'on est en train de parler du remplissage. On est dans la diastole, on n'est pas dans la systole. Donc, un ventricule, il a une bonne performance diastolique et une bonne performance systolique.
+
+(55:30 - 55:53)
+Ainsi qu'il y a une bonne performance diastolique, il y a, quand je le remplis, il faut qu'il se laisse distendre. Il faut que sa courbe de la stance télé-diastolique soit une courbe qui est plutôt horizontale, une courbe comme celle de la jaune, mais pas comme celle de la rouge. En pratique, très simple.
+
+(55:54 - 56:18)
+Pour savoir si quelqu'un a un problème de performance diastolique ou là aussi, on l'appelle la fonction diastolique. La fonction diastolique ou la performance diastolique, c'est la même chose. Si quelqu'un a un problème de la fonction diastolique, comme on dit en médecine, il a une dysfonction, parce qu'il y a un problème de fonctionnement, une difficulté, si vous voulez.
+
+(56:19 - 56:31)
+Il a une dysfonction diastolique. Il a un problème de performance diastolique. C'est simple, à 120 ml de remplissage, les deux ventricules sont pareilles.
+
+(56:36 - 56:55)
+Quand on fait un effort, il faut que le débit cardiaque augmente. Et qui dit débit cardiaque augmente, dit volume de remplissage qui augmente. Donc le volume de remplissage va augmenter vite fait, juste suite à l'effort.
+
+(56:55 - 57:22)
+Juste suite à un effort de course sur tapis ou sur vélo, ou sur quelque chose. Les voyants, ils se comportent très bien à l'effort, parce qu'ils ont une performance diastolique bonne. L'autre, il va devenir essoufflé rapidement. 
+
+Pourquoi essoufflé ? Parce qu'il commence à faire de l'œdème dans les poumons. Un œdème interstitiel d'abord. Et ceci à cause de ça.
+
+(57:23 - 57:29)
+C'est la dysfonction diastolique qui est mauvaise. À cause de sa dysfonction diastolique. Je n'ai pas dit que la performance diastolique est mauvaise.
+
+(57:29 - 57:57)
+C'est la capacité du ventricule à se relâcher. Un ventricule qui n'arrive pas à se relâcher bien parce qu'il est rigide, parce qu'il n'y a pas de fibres musculaires, il y a de la fibrose, il y a d'autres substances qui rendent la paroi du ventricule moins distensible, difficilement distensible. La conséquence, c'est que cette paroi ne va pas se distendre.
+
+(57:57 - 58:14)
+Et du coup, maintenant qu'il y a trop de sang, qu'il y a dépassé une certaine quantité, rapidement, la pression va monter. Et on aura des conséquences comme ça. J'espère que j'ai répondu à vos questions.
+
+(58:14 - 58:39)
+Pour passer à l'étape suivante, je vais regarder s'il y en a encore des questions. Attendez. Je ne suis pas encore... Alors... Dites-moi, est-ce que j'ai répondu au fur et à mesure à vos questions, avant de passer aux autres? J'ai bien noté les nouvelles questions.
+
+(58:40 - 58:51)
+S'il y a une HTA, cela ne signifie pas que le patient souffre d'un problème cardiaque. Le problème de l'HTA, je vais y revenir. Seulement en physiologie, qu'est-ce que vous devez connaître? L'HTA est équivalent de post-charge.
+
+(58:52 - 59:10)
+L'HTA, c'est une post-charge. Est-ce que l'augmentation de la pression de l'aorte va induire des oedèmes des membres inférieurs? Alors, les oedèmes des membres inférieurs, ça nous renvoie vers la micro-circulation. Ça nous renvoie vers la loi de Starlin appliquée à la micro-circulation.
+
+(59:11 - 59:19)
+Et, a priori, ça n'a rien à voir avec la pression dans l'aorte. C'est un problème dans les veines. Donc, ce sera la partie vasculaire.
+
+(59:19 - 59:31)
+La réponse est non, mais je vais y arriver. Le problème de performance diastolique peut donner une bradycardie. Écoutez, ne faites pas de mélange entre les termes.
+
+(59:31 - 59:56)
+Performance diastolique, c'est bien la capacité du cœur à se distendre quand on le remplit. Ce qui veut dire que, quelle est sa relation avec la bradycardie? La bradycardie, parce que la bradycardie, où est-ce qu'elle va intervenir, la bradycardie? Elle va intervenir, par exemple, dans le débit cardiaque. Le débit égale le volume éjecté multiplié par la fréquence cardiaque.
+
+(59:57 - 1:00:12)
+Elle va intervenir quand on veut adapter le cœur à l'effort. Le cœur s'accélère. La bradycardie, elle va intervenir, par exemple, dans le système nerveux autonome.
+
+(1:00:12 - 1:00:28)
+Le système nerveux autonome, c'est lui qui régule l'automatisme cardiaque. Il accélère ou il freine le cœur. Vous voyez, la relation entre une fréquence et un autre phénomène, qui est un phénomène de distensibilité myocardique.
+
+(1:00:29 - 1:00:44)
+Non? Comme je l'ai dit, je ne crois pas qu'il y ait une liaison entre deux phénomènes. Quelle est la conséquence si, par exemple, le son reflue vers les 20 caves? Très bonne question, Hamza. Très, très bonne question.
+
+(1:00:45 - 1:01:06)
+Je vais lire la suivante et je te réponds. Pourquoi l'augmentation de pression télé-diastolique du ventricule gauche provoque une augmentation de la pression dans l'oreillette gauche alors qu'on assume... Ah oui, d'accord. Rania, très bonne remarque de ta part.
+
+(1:01:07 - 1:01:17)
+Parce que ça suppose que probablement j'ai passé vite sur une notion. Je vais revenir. Attendez, je vais essayer même de rajouter un quatrième bord.
+
+(1:01:18 - 1:01:35)
+Rania pose la question suivante. Elle n'a pas compris comment j'ai fait pour passer de l'oreillette gauche vers le ventricule gauche. Et j'ai dit que la pression télé-diastolique du ventricule gauche augmente.
+
+(1:01:35 - 1:01:45)
+Maintenant, on a 30 mm de mercure dans l'oreillette droite. Donc, il a augmenté. J'ai expliqué que la pression a augmenté dans l'oreillette gauche.
+
+(1:01:45 - 1:01:52)
+L'oreillette gauche, bien sûr, a augmenté dans les veines pulmonaires. Ce n'est qu'une gomme. Voilà.
+
+(1:01:53 - 1:02:06)
+Elle a augmenté dans les veines pulmonaires. Voilà, elle va monter comme ça. Elle se dit mais j'ai une valve avec une autre couleur vestibule.
+
+(1:02:07 - 1:02:13)
+J'ai une valve ici. Cette valve devrait empêcher que la pression tombe dans l'oreillette gauche. C'est ça, sa question.
+
+(1:02:14 - 1:02:34)
+Mais je crois que c'est oublié qu'on est en train de parler de quelle phase. On est en train de parler de la phase de contraction atriale ou atriale ou auriculaire. Il y a la phase finale du remplissage.
+
+(1:02:34 - 1:02:56)
+On est en train de parler de la phase d'éjection. Contraction isovolumétrique ou éjection. La valve mitrale est fermée ici.
+
+(1:02:59 - 1:03:40)
+Quand le ventricule au moment du remplissage je reprends le noir avant la contraction j'ai un remplissage un remplissage rapide rapide puis lent. Quand le coeur est rempli on va dire que le ventricule devrait se distendre devrait se laisser faire se distendre au maximum. Mais quand on a un volume donné à 120 c'était bien, pas de problème.
+
+(1:03:41 - 1:03:59)
+Quand on est à plus 150, 200 qu'est-ce qu'il s'est avéré? La pression dans le ventricule gauche a augmenté parce qu'il se laisse moins distendre. Très bien. Jette le remplissage difficilement.
+
+(1:04:00 - 1:04:18)
+Jette la phase de contraction atriale. Le ventricule gauche est déjà à une pression d'environ 20-25 voire 30 mètres. L'oreillette devrait compléter l'oreillette doit avoir une pression plus élevée que la PTDVG.
+
+(1:04:18 - 1:04:27)
+C'est là aux alentours de 30. Mais la valve mitrale ne s'est pas fermée. On est encore à cette phase de contraction atriale.
+
+(1:04:27 - 1:04:46)
+La pression de l'oreillette gauche est atteinte à 30 voire plus. Elle est atteinte à quelques millimètres mais elle est vraiment en grande difficulté. L'oreillette a une paroi fine et la pression est très élevée comme les ventricules.
+
+(1:04:48 - 1:05:09)
+Elle essaie de monter la pression en terme de la PTDVG pour remplir pour faire la phase de contraction atriale mais en même temps, comme je vous ai dit, elle trouve des difficultés à remplir le ventricule, elle trouve plus de facilité. Il y a beaucoup de pression qui va monter ici. Toujours la valve.
+
+(1:05:10 - 1:05:45)
+Voilà la réponse à ta question Rania. Si je n'ai pas bien expliqué, vous me le dites et je reprends. Pour notre ami Jacques, la question de tout à l'heure sur est-ce qu'on applique ça aussi sur les ventricules. 
+
+Exactement. Si je prends l'oreillette droite là-bas, ça c'est l'artère pulmonaire. Si je prends l'oreillette droite, l'oreillette droite est connectée aux ventricules.
+
+(1:05:46 - 1:06:14)
+C'est exactement l'exemple que je vous ai cité tout à l'heure. Je vais reprendre les phrases. Si j'ai une pression élevée ici dans le ventricule droit, pression télé-diastolique du ventricule droit élevée, l'oreillette droite dans la phase de contraction atriale, la pression ici va monter et elle va monter vers les ventricules.
+
+(1:06:15 - 1:06:42)
+Du coup, qu'est-ce qui se passe? Dans la ventricule supérieure, elle est reliée à la jugulaire et donc on va voir que la jugulaire va être distendue, elle va être dilatée. Pour la ventricule inférieure, anatomiquement, je vous renvoie vers l'anatomie d'Irla Venkav, si vous voulez la relire. Elle a de grandes relations anatomiques avec le foie.
+
+(1:06:45 - 1:06:59)
+Elle est vraiment pratiquement très connectée avec le foie. Ce qui fait le premier organe dans lequel va refluer le sang va être le foie. Le foie est déjà engorgé de sang et il va se laisser distendre.
+
+(1:07:00 - 1:07:12)
+Je vais mettre en jaune que le foie va prendre de la forme. Il peut prendre plus que ça. Ça s'appelle une hepatomégalie.
+
+(1:07:13 - 1:07:29)
+On est en physiologie. Je ne sais pas les termes de la semiologie, mais je les utilise juste pour vous expliquer. Je ne vais pas vous poser une question sur l'hepatomégalie.
+
+(1:07:30 - 1:07:37)
+Non, ça c'est de la semiologie. Je suis entièrement d'accord. N'empêche que vous devez garder en tête que le foie peut grandir.
+
+(1:07:38 - 1:07:54)
+Cliniquement, en l'examinant, on va chercher ce qu'on appelle une hepatomégalie. Le foie est malade. Comme ça, il a une maladie intrinsèque qui fait qu'il a pris du volume.
+
+(1:07:54 - 1:08:04)
+Là, c'est le cœur qui est responsable, c'est-à-dire le foie. Les poumons n'ont rien. Ils ne sont pas malades.
+
+(1:08:04 - 1:08:22)
+La cause est dans le ventricule gauche. Je vais voir un foie qui a pris du volume. Pourtant, le foie est juste victime. 
+
+Ce n'est pas lui qui est malade. Si je dois traiter, je dois traiter le cœur droit. Comment je vais faire la part des choses ? Écoutez, c'est très simple.
+
+(1:08:22 - 1:08:52)
+On se base sur une notion, encore une fois, tout à fait physique, banale. Je vais appuyer avec la main sur le foie. Quand j'appuie sur le foie, quand il y a de la pression dans le foie, le sang, l'équilibre, le foie, je crée une pression. 
+
+La pression se transmet parce que j'appuie sur les veines, l'équilibre, c'est le foie. Du coup, la pression se transmet, comme il n'y a pas de valve, vers la veine cave inférieure. La veine cave, la pression monte.
+
+(1:08:54 - 1:09:05)
+Or, la pression de l'oreille droite est déjà là. La pression va continuer à monter vers la veine cave supérieure. Et de la veine cave supérieure, la pression va partir de la jugulaire.
+
+(1:09:06 - 1:09:24)
+La jugulaire est déjà dilatée, mais en appuyant sur le foie, qu'est-ce qu'on va remarquer ? J'appuie et je regarde la veine jugulaire. J'appuie sur le foie progressivement et je vois que la jugulaire est déjà dilatée. Elle se dilate encore davantage.
+
+(1:09:25 - 1:09:49)
+Ça y est, c'est la preuve infaillible que ce foie est dilaté à cause du cœur. Je reviens à ma diapo et mes schémas. Je jette un coup de rapide sur les questions et je continue la compression de volume.
+
+(1:09:55 - 1:10:07)
+Oui, il y a une question sur la contractilité. Non, non, non, la performance dépend de la contractilité, bien sûr, bien sûr. Être performant, c'est-à-dire être efficace dans ce que tu dois faire.
+
+(1:10:08 - 1:10:31)
+Le cœur, si tu es performant, il y a deux questions. Est-ce que tu es performant en systole et est-ce que tu es performant en diastole ? Est-ce que dans le remplissage, tu es parfait et dans l'éjection, tu es parfait ? Quand je parle de performance du cœur, c'est une performance globale. C'est une performance à la fois systolique et diastolique.
+
+(1:10:32 - 1:10:53)
+Et donc, quand tu me poses la question la performance dépend de la contractilité, je ne sais pas si c'est une question genre QCM, parce que moi, je déteste ça. Je préfère des questions de compréhension. Mais si par hasard, tu as de la question, des fois, il y a tellement de choses.
+
+(1:10:54 - 1:11:16)
+Problème de formulation, problème de je ne sais quoi. Non, on n'est pas là pour ça. Mais si tu poses la question parce que tu penses, Yasmin, que tu n'arrives pas à faire la différence entre la performance et la contractilité, en disant que la performance dépend de la contractilité, on peut dire que oui.
+
+(1:11:16 - 1:11:30)
+Mais pourquoi ? Parce que là, comme tu dis que la performance n'a pas de relation avec la contractilité, on peut dire que la performance est globale. Elle a une relation avec la systole et avec la diastole. Dans la systole, il y a la contractilité.
+
+(1:11:30 - 1:11:42)
+Donc, si tu veux suivre ce raisonnement, oui, oui, c'est acceptable. Il y a une relation. Si la contractilité est faible, forcément, la performance va être diminuée du cœur.
+
+(1:11:42 - 1:11:52)
+Ça, c'est évident. Mais l'éthique de Souli, parce que tu penses que la performance est plutôt reflétée par la contractilité, je te dis non. La performance est une notion globale.
+
+(1:11:52 - 1:12:04)
+Il y a de la performance aussi bien en systole qu'en diastole. Jusqu'ici, j'ai développé avec vous la performance diastolique. Je l'ai reliée à la notion de pression télé-diastolique du ventricule gauche ou ce qu'on appelle la pression de remplissage.
+
+(1:12:04 - 1:12:21)
+Je vous ai expliqué que ça peut entraîner pour le cœur gauche un nœud d'impulmonaire. Pour le cœur droit, il va falloir des dilatations du foie, des veines jugulaires, etc. Et pour pouvoir traiter le problème cardiaque, il va falloir baisser la pression de remplissage dans les ventricules.
+
+(1:12:23 - 1:12:42)
+Alors, quelles sont les différentes causes du souffle cardiaque ou d'insuffisance cardiaque ? Je vais y arriver. Reflux hépato-jugulaire se traduit aussi par dilatation des veines sucépatiques. Non, mais là, je sors un peu du sujet.
+
+(1:12:43 - 1:13:03)
+Le reflux hépato-jugulaire, c'est un signe de sémiologie. C'est de la sémiologie. Le mot dilatation des veines jugulaires, des veines sucépatiques, SIA, tu es d'accord avec moi, les veines sucépatiques, on n'arrive pas à les voir à l'œil nu.
+
+(1:13:05 - 1:13:13)
+C'est déjà à force du foie ou le foie force l'abdomen. Ce n'est pas évident de voir les veines sucépatiques. Pour les voir, il va falloir utiliser une échographie.
+
+(1:13:14 - 1:13:27)
+L'échographie, la sémiologie, c'est de la clinique. Le reflux hépato-jugulaire, c'est de la clinique. Par contre, dilatation des veines sucépatiques, c'est un signe, c'est un problème anatomique.
+
+(1:13:28 - 1:13:50)
+Les rendez-vous probablement sur un scanner ou sur une échographie, etc. Maintenant, ta question, le reflux peut être secondaire à une dilatation des veines sucépatiques. En tout cas, quand il y a une hyperpression dans le cœur droit, tout se dilate.
+
+(1:13:50 - 1:14:06)
+La veine cave supérieure, la veine cave inférieure, les veines sucépatiques, les jugulaires et le foie avec. Tout. Pas qu'ils se traduisent par l'autre, mais plutôt ça s'accompagne du dilatation des veines jugulaires, des veines sucépatiques.
+
+(1:14:07 - 1:14:15)
+Je reviens au tableau. On doit avancer dans la courbe pression-volume. Je reviens au premier que j'ai dessiné.
+
+(1:14:18 - 1:14:28)
+Je vais effacer pour rendre le tableau un peu plus acceptable. On a terminé la courbe d'élastance télé-diastolique. On en est en large.
+
+(1:14:28 - 1:14:36)
+On a pris beaucoup de temps pour l'expliquer. De là, on a expliqué la notion de la précharge. Je peux revenir encore.
+
+(1:14:37 - 1:14:50)
+Je vais quand même rajouter une notion sur la précharge avant de quitter ce terme. On a pris beaucoup de temps dans le cours sur la précharge. Vous vous rappelez, la loi de Starlin.
+
+(1:14:51 - 1:15:22)
+Comment peut-on mettre en place la loi de Starlin aussi sur l'échéma que je suis en train de faire ? C'est ce que je vais essayer de faire maintenant après avoir nettoyé un petit peu le tableau. La précharge, c'est une pression. Si vous voulez, qu'est-ce qu'il faut mettre ? Il va falloir utiliser la même formule de la loi de la place.
+
+(1:15:23 - 1:15:53)
+Je ne sais pas si vous gardez en tête la relation entre la tension pariétale ou la pression. La tension pariétale, la tension de la paroi et la relation entre la pression. Je vais faire un schéma.
+
+(1:15:54 - 1:16:01)
+Je prends le ventricule. Je l'ai coupé en transverse. Ça, c'est son épaisseur.
+
+(1:16:01 - 1:16:10)
+Désolé. Je vous ai déjà dit que je dessine mal. Encore sur un board numérique, ce n'est pas facile.
+
+(1:16:13 - 1:16:29)
+Il a une certaine épaisseur. Donc, à l'épaisseur, il y aura un nom. Je garde le même nom que j'ai utilisé dans le cours, mais ce n'est pas forcément la même.
+
+(1:16:31 - 1:16:49)
+J'ai utilisé la lettre H. Ça n'a rien de... C'est même un mauvais choix à postériori. H, ce qui signifie hauteur, ça n'a aucun sens. Vous pouvez la changer par épaisseur si vous voulez, mais je pense que vous avez compris ce que je veux dire.
+
+(1:16:50 - 1:17:26)
+On a gardé H. C'était l'épaisseur. En fait, dans la règle qui relie la tension à la pression, le gamma n'a que multiplié le H divisé par deux fois R. Ça, c'est la loi de la place. C'est M. Laplace qui a déterminé ça. 
+
+C'est quoi le R ? Vous partez du centre de ce cercle, de ce sphère, et vous dessinez un rayon. En fait, voilà. Attendez.
+
+(1:17:27 - 1:17:41)
+Seconde, seconde, seconde, seconde... Je reviens. En fait, le R de la loi de la place, c'est pas tellement celui-là. Je vais mettre un grand R si vous voulez.
+
+(1:17:42 - 1:18:04)
+Regardez le petit R. En considérant que le R, le rayon à l'extérieur M. Laplace, c'est le petit R plus H. C'est l'intérieur à l'extérieur. En prenant le rayon M, le M, une petite correction, si vous voulez. Il faut que je crée un peu de place, donc j'enlève Hedi.
+
+(1:18:09 - 1:18:25)
+Pourquoi je vous dessine ça ? Je vous dessine pour que vous compreniez un peu une notion. On l'appelle aussi la tension de la paroi, la tension pariétale en télé-diastole. C'est ce qu'on voit dans les diapos.
+
+(1:18:28 - 1:18:54)
+Quelle est la relation entre celle-là et celle-là ? Je vous explique. Si vous prenez ça, vous pouvez jouer sur le R. Vous pouvez prendre par exemple le volume. Le volume, en considérant le cœur comme une sphère.
+
+(1:18:54 - 1:19:53)
+Vous savez que la sphère formule le R à la puissance 3. Si vous faites ça, on ne va pas faire vraiment des mathématiques, ne vous inquiétez pas. La tension pariétale, je vais la changer par W, si vous voulez. On aura la pression, l'épaisseur, divisé par 2, où le R est R-H R-H R-H R-H R-H R-H R-H Qu'est-ce que j'ai fait ? C'est ça, c'est ce que je voulais.
+
+(1:19:54 - 1:20:12)
+Je voulais remplacer le R ici. Donc, silo, R 4 sur 3 puis R. On n'est pas en train de faire des mathématiques, mais pour faire une démonstration simple. Vous n'aurez pas ça dans l'examen, ne vous inquiétez pas.
+
+(1:20:13 - 1:20:41)
+R à la puissance 3, donc j'ai remplacé le R ici, plus le volume. Qu'est-ce que j'ai fait ? Moi-même, je me suis perdu. Ce que j'ai envie de faire, c'est le R qui est ici, je le remplace par le V. Et pour ça, il fallait d'abord que je commence par le R, où on le coupe, 3 sur 4, puis en bas, et je mets la racine.
+
+(1:20:42 - 1:20:57)
+Voilà, c'est ça ce qu'il fallait écrire. V. Tout ça, je le mets au V. R. D'accord. Tout ça, je vais le prendre, et je le mets ici.
+
+(1:20:57 - 1:21:24)
+Du coup, il va être écrit avec une formule longue, mais ce n'est pas grave. Même si elle est longue, l'essentiel, c'est les chiffres qu'on écrit encore une fois. Mais pour comprendre une chose, regardez, on va dire A, on va dire plus H. Si j'ai mis tous les déterminants, c'est pour voir finalement quelle est la variable la plus importante de la formule qui va me changer la tension pariétale.
+
+(1:21:25 - 1:21:31)
+Je vais la mettre en rouge. Elle a de la tension pariétale. Il y a finalement la précharge.
+
+(1:21:32 - 1:21:45)
+Qu'est-ce qui va la déterminer? Ou est-ce la pression, ou est-ce le P? Oui, vous le voyez. Elle a tiré la pression, elle a tiré la tension pariétale. C'est tout à fait normal.
+
+(1:21:45 - 1:22:03)
+Le H, vous le voyez, l'épaisseur n'est pas une épaisseur énorme. Les variations, un millimètre, deux millimètres, etc. Si on considère que le H ici doit être en centimètres, vous imaginez que l'impact du H ici ne va pas être important.
+
+(1:22:04 - 1:22:09)
+Surtout qu'on est en train de parler du remplissage. Le remplissage, l'épaisseur ne change pas. Qu'est-ce qui change? C'est le rayon.
+
+(1:22:10 - 1:22:18)
+Le ventrille qui est en train de se remplir, c'est le rayon qui va augmenter. Regardons ce que le rayon va vraiment changer. Le rayon ou le volume.
+
+(1:22:18 - 1:22:53)
+Le volume va augmenter, mais le volume ici, vous le voyez, à la racine carrée de 3. À la racine carrée de 3. Donc le changement du volume à la racine carrée de 3 endure la base. Ce qui veut dire que quand il va diminuer, la tension ne risque pas d'augmenter beaucoup. Ce qui va faire changer réellement en télé-diastolique la tension pariétale et donc la précharge, c'est bien la pression.
+
+(1:22:56 - 1:23:16)
+Là, la paroi n'est pas vraiment distensible. Ce qui va vraiment impacter ou modifier la qualité de la précharge, c'est bien la pression de remplissage. C'est une démonstration mathématique de ce que je viens de dire tout à l'heure.
+
+(1:23:17 - 1:23:29)
+C'est la pression télé-diastolique, parce que ce n'est pas tellement le volume. Le volume peut monter à des valeurs élevées et la précharge ne change pas. La pression télé-diastolique ne change pas.
+
+(1:23:29 - 1:23:50)
+Donc c'est très important la pression avec laquelle le cœur se remplit. C'était juste pour démontrer ça. Si vous n'aimez pas des formules mathématiques, ce n'est pas grave. 
+
+Ce n'est pas vraiment le but. Passons à la suivante, le deuxième déterminant, les rois de la contractilité. La compression volume.
+
+(1:23:51 - 1:23:58)
+La gomme n'est pas une gomme extraordinaire. Elle est petite. J'ai une grande, plus grande.
+
+(1:23:59 - 1:24:09)
+Parfait. Là, ça marche. Et on y va.
+
+(1:24:12 - 1:24:37)
+Je crois que je peux, si vous voulez, effacer la partie indigne, pour rendre le schéma un peu plus clair. Pour le jaune, le blanc, pour mettre notre indine. Sur notre compression volume, on continue. 
+
+La courbe télé-diastolique, c'est l'inemne. Il y a la précharge. La deuxième qui va refléter la contractilité, c'est le fossifération.
+
+(1:24:37 - 1:24:49)
+La contractilité, c'est quoi ? Je suis en train de partir. L'éjection. Si le cœur éjecte bien, si il éjecte bien, je peux aller, je prends une autre couleur.
+
+(1:24:50 - 1:24:55)
+Je peux aller là. Là, par exemple. Il a bien éjecté.
+
+(1:24:56 - 1:25:12)
+Si il s'est rempli bien, le remplissage, où l'éjection est bonne, je vais avoir carrément ça. D'accord ? Des choses comme ça. Attendez, je dois corriger.
+
+(1:25:14 - 1:25:21)
+En général, il ne baisse pas. Il reste comme ça, comme ça, etc. Le schéma n'est pas extraordinaire.
+
+(1:25:23 - 1:25:30)
+Le rouge s'arrête là. Le bleu, le noir, pardon, s'arrête là. Etc.
+
+(1:25:31 - 1:25:58)
+En variant l'éjection, ce qu'on a constaté, c'est que le point que je vais obtenir, c'est un point qui correspond au volume télésystolique et à une certaine pression télésystolique. C'est ça ce qui va varier. la première chose, c'est que la contractilité va impacter essentiellement le volume.
+
+(1:25:59 - 1:26:08)
+Il y a un ventricule qui se contracte très bien, ça veut dire qu'il éjecte bien. S'il éjecte bien, je vais achever beaucoup de sang. Donc le volume télésystolique va diminuer.
+
+(1:26:08 - 1:26:59)
+Donc, meilleure contractilité, je passe maintenant à la situation 1, la situation 2, la situation 3. Pour la situation télésystolique, TS, VTS, on a un volume télésystolique en l'air. Et puis on a une pression télésystolique, une pression télésystolique différente, et ainsi de suite. Ensemble, théoriquement, dans la même situation 1, où le cœur maintenant n'est pas très... il n'éjecte pas beaucoup, recours à 120 millilitres, par exemple, où il a éjecté par exemple.
+
+(1:27:02 - 1:27:11)
+Situation 2, il éjecte mieux. Radié, éjecté. Volume 3, situation 3, il est encore plus performant.
+
+(1:27:12 - 1:28:27)
+Il éjecte vraiment presque la totalité, 100 millilitres, et il garde 20 millilitres. Voilà pour un cœur qui est performant. Radié, la volume télésystolique varie. 
+
+En regardant ce qui varie avec la pression, écouter un cœur performant, il risque de... ça dépend. La pression télésystolique, généralement, la pression télésystolique devrait normalement être plus faible. C'est-à-dire qu'un ventricule qui a réussi à éjecter beaucoup, c'est qu'il n'a pas trouvé trop de difficultés devant lui. 
+
+Généralement. Ce qui veut dire que la pression ici, à cette couronne par exemple, pour le premier, on va dire, par exemple, à 120 millimètres de mercure, celui qui a réussi à éjecter les 50, donc, il est monté, il a pu générer une pression suffisante pour éjecter beaucoup de sang, et il a gardé seulement 50. Il termine avec une pression un petit peu plus élevée.
+
+(1:28:27 - 1:28:32)
+Allez, on va mettre 140. Là, il a atteint 150. Un truc comme ça.
+
+(1:28:34 - 1:28:47)
+Moi, si je les dessine sur mon tableau, qu'est-ce que j'aurai ? 50 pour 120. Attendez, 70 pour 120. Donc, il y en a. 70 pour 120.
+
+(1:28:47 - 1:28:55)
+Il y en a. Ce qui veut dire que ça, c'est un autre ventricule. C'est un autre ventricule. 50 pour 140.
+
+(1:28:56 - 1:29:00)
+50 pour 140. Donc, je dois monter ici. 50.
+
+(1:29:01 - 1:29:06)
+Il garde seulement 50. Voilà, je suis ici pour 140. Donc, ça devrait être le noir.
+
+(1:29:07 - 1:29:15)
+Voilà. Et puis, quoi d'autre ? J'ai 20. Donc, je peux atteindre ici.
+
+(1:29:15 - 1:29:29)
+Et j'ai une autre. J'aurai une droite. Vous la voyez ? Je prends une situation différente.
+
+(1:29:30 - 1:29:41)
+Restez avec moi. J'ai plutôt tout à fait l'inverse de ça. C'est-à-dire, pour 70, je garde toujours 120.
+
+(1:29:41 - 1:29:58)
+Je ne change pas la première. Pour 50 ml qui reste, j'imagine que la pression télésistorique n'est pas de 140, mais elle est de 105. 105.
+
+(1:30:00 - 1:30:04)
+Dessinons-la sur le schéma. 105. Donc, c'est à peu près ici.
+
+(1:30:06 - 1:30:14)
+À peu près ici. Et puis, pour l'autre, c'est 90. Alors, pour 20, je vais mettre 90 ici.
+
+(1:30:15 - 1:30:25)
+Qu'est-ce que j'aurai comme droite ? J'aurai cette droite. Attendez, excusez-moi. Patientez.
+
+(1:30:26 - 1:30:35)
+Vous allez voir à quoi je vais arriver. Donc, je vais dessiner une autre droite, finalement. 90.
+
+(1:30:38 - 1:30:42)
+Pour 20. Donc, 90 à peu près ici. Et j'aurai cette droite.
+
+(1:30:43 - 1:31:00)
+À peu près ça. Laquelle de ces deux droites, la noire ou la verte, correspond à la droite de la contractilité ? Et comme c'est des droites de pression-volume, je les appelle aussi élastances. C'est l'élastance, parfaitement l'élastance.
+
+(1:31:00 - 1:31:31)
+Seulement, laquelle correspond à l'élastance systolique ? L'élastance diestolique. C'est l'élastance systolique. Est-ce que c'est la verte ou c'est la noire ? D'ailleurs, je l'ai écrite en noir. 
+
+C'est la noire. C'est celle qui correspond à la contractilité. Contractilité.
+
+(1:31:32 - 1:32:00)
+L'autre, pourquoi la verte ? Pourquoi la verte ne représente pas la contractilité ? Parce que vous voyez dans la verte, oui, on éjecte, mais la pression télésystolique finalement, la verte est plus grande. Elle monte. Le ventricule arrive à éjecter, il est peut-être performant, on est d'accord, mais la pression elle est quand même élevée.
+
+(1:32:00 - 1:32:23)
+Il finit avec une pression élevée. C'est-à-dire qu'il était obligé de monter sa pression de façon importante pour vaincre une pression dans la horte qui est plus élevée et du coup, à la fin de la systole, il garde une pression de 140, 150, 160 des fois, qu'il n'y ait qu'à dire 200, etc. Là, je suis en train de reprendre l'exemple de la question d'un de vos amis tout à l'heure sur l'hypertension artérielle.
+
+(1:32:23 - 1:32:34)
+C'est exactement ça. L'hypertension artérielle, il y a une pression à la télésystole, c'est-à-dire la pression. Le cœur, quand il veut éjecter, il faut qu'il arrive à la vaincre.
+
+(1:32:34 - 1:33:16)
+Donc, le 180, lui, il doit développer plus que 180 pour pouvoir éjecter au moment de la systole. Et donc, finalement, pour le même rendement qu'on a vu maintenant, on va assister à une droite verte, à la droite exactement, à la droite, de couplage, je vais l'expliquer une autre fois si vous voulez, parce qu'il est un peu plus complexe, la droite de couplage ventriculo-artériel, c'est-à-dire, c'est elle qui détermine la relation entre le ventricule et les artères, les gros artères, l'aorte et l'artère pulmonaire. Ventriculo-artériel.
+
+(1:33:16 - 1:33:33)
+Et la droite de couplage ventriculo-artériel, elle correspond à la post-charge. C'est elle qui détermine la post-charge du ventricule. Alors que la noire, c'est bien la contractivité, à tel point que je vais mettre un autre tableau.
+
+(1:33:34 - 1:34:00)
+Oui, c'est ça. À tel point que je peux, en jouant avec la boucle pression-volume, dire, si j'ai un ventricule comme ça, qui arrive à éjecter ça, à de la quantité, c'est un ventricule normal. Si le ventricule est faible, pardon, ça c'est sa droite de l'astence systolique qui correspond à sa contractivité.
+
+(1:34:01 - 1:34:31)
+Sinon, quand il y a de la droite, quand il y a le même ventricule, si j'améliore sa contractivité, il éjecte mieux. Tout ce qui va arriver, c'est qu'il éjecte mieux, mais il va falloir qu'il y ait un volume tel qu'il est systolique, qu'il y ait un volume plus bas. Il va falloir que la droite change, pour avoir, finalement, ça comme boucle pression-volume.
+
+(1:34:32 - 1:35:42)
+Le fait que la droite qu'intègre d'un embed, elle devient plus verticale ou la plus abrupte qu'il y en ait, la pente de la droite de l'astence systolique est devenue plus abrupte ou la plus verticale, l'innotropie ou l'innotropisme a augmenté. C'est ce qu'on appelle un effet. Un effet, c'est-à-dire que si un médicament ou après s'il met le cœur et il a amélioré la contractivité, en changeant la courbe de l'astence systolique, on dit qu'il a un effet inotrope, inotrope positif.
+
+(1:35:45 - 1:36:01)
+Tout à l'heure, votre ami, je ne sais plus qui c'est, il a posé la question à l'insuffisance cardiaque, c'est la même chose. Un ventricule qui n'arrive pas à éjecter, l'éjection, ça peut être ça, ça peut être simplement ça. Je vais prendre une autre couleur.
+
+(1:36:02 - 1:36:33)
+Ça peut être simplement ça, il n'arrive pas à éjecter. Le problème des ventricules, c'est que souvent ils sont dilatés, un volume télé-diastolique assez important, où ils n'arrivent pas à éjecter. Quelle que soit la situation, ce que vous remarquez, c'est que la droite, je reprends le noir, la droite de l'astence n'est plus une droite verticale, elle est plutôt horizontale.
+
+(1:36:34 - 1:36:56)
+Elle a la contractivité à diminuer, alors que tout à l'heure, la contractivité a augmenté. Maintenant, elle est en train de diminuer. Vous voyez la boucle de pression volume quand elle change, elle se déplace, à droite, quand la contractivité n'est pas meilleure.
+
+(1:36:57 - 1:37:07)
+C'est la preuve aussi que la droite est bien et la droite représente la contractivité. Je jette un coup d'œil sur les questions. Depuis un moment, je sens que je parle à moi-même.
+
+(1:37:07 - 1:38:08)
+Qu'est-ce qui se passe ? Dites-moi d'abord, j'ai des messages, la réunion a commencé, de quelle réunion on parle là ? Vous êtes bien avec moi depuis le début ? Répondez-moi s'il vous plaît. Moi, j'ai rien prévu pour après, c'est-à-dire, je ne sais pas quelle heure est-il, mais si vous n'avez pas un autre cours, je peux continuer. Vous voulez qu'on continue ? Très bien.
+
+(1:38:12 - 1:38:42)
+Parfait. Je reviens, il y avait une question avant. La question, c'était quoi ? Est-ce qu'on peut avoir un trou, une perforation au niveau du septembre ? Oui, bien sûr, ça on peut l'avoir, je vais y arriver. 
+
+Et s'il est le cas, quelles sont les variations de pression ? Ah oui, d'accord, pression. Là, on peut dire que la tension c'est le degré d'étirement du ventricule et quelle est la différence entre la tension passive et active ? Très bonne question. Il y avait des blocages ? Ah oui, d'accord.
+
+(1:38:44 - 1:39:01)
+J'espère que ça n'a pas empêché la compréhension de ce que je suis en train d'expliquer. Voilà, j'ai vu pas mal de questions, donc je vais les prendre en considération. Juste, je fais un peu d'ordre dans mon esprit.
+
+(1:39:01 - 1:39:10)
+On a fini la contractivité, je crois que c'est bon. Il n'y a pas grand-chose à rajouter. La relation entre la précharge et la postcharge, on peut la voir tout de suite.
+
+(1:39:12 - 1:39:43)
+Et comme ça, j'explique une des questions qui sont posées. Où est-ce qu'elle est ? C'est là, très bien. Vous avez posé la question sur, est-ce qu'on peut dire que la tension finalement, l'étirement, le degré d'étirement, c'est celui qui reflète la tension. 
+
+En fait, ce qui se passe, c'est que la tension, c'est une propriété intrinsèque de la paroi. Et donc, elle est déterminée. Déterminée par la composition de la paroi.
+
+(1:39:44 - 1:40:10)
+N'empêche que la paroi, elle subit des changements. Vous l'avez compris. Au moment, par exemple, de la relaxation isovolumétrique, la paroi se relâche énormément, donc elle devient pratiquement distensible. 
+
+Et le contraire, au moment de la contraction, la tension est capable de monter sa pression. Et donc, si elle monte la pression, ça veut dire que la tension elle-même est montée. Vous trouverez un peu plus d'explications sur ça, dans le couplage actine-myosine.
+
+(1:40:11 - 1:40:42)
+Et on va y arriver. Mais pour le moment, sachez que M. Starlin, avec sa loi, qu'il a proposée, et qui relie la précharge à la contractilité, son rôle principal, c'était ça. C'est de relier finalement la tension, la même chose, la précharge à la tension.
+
+(1:40:45 - 1:41:01)
+Le schéma mathématique qu'on a utilisé tout à l'heure, c'était juste pour vous montrer la relation. Dans une tension pariétale, que j'ai mise en W, on a fait sortir, comme variable importante, le volume, oui. Le volume, c'est clair.
+
+(1:41:01 - 1:41:33)
+Même s'il est à la racine 3, ce n'est pas grave, parce que les changements du volume et à la racine carré de 3 vont faire que, comme il est en dessous dans le maquin, ça veut dire que ça va s'opérer de façon inverse, c'est-à-dire qu'il augmente et donc la tension pariétale diminue. Mais ici, vous avez la pression. Il faut absolument que le principal déterminant de la tension, ce serait la pression.
+
+(1:41:34 - 1:41:48)
+Il ne faut pas que la tension pariétale monte. Si la tension monte, parce que la paroi est un petit peu rigide ou un truc comme ça, ce n'est pas le volume qui va la changer. Le volume va juste participer à ce qu'elle augmente un peu plus.
+
+(1:41:49 - 1:42:38)
+Mais c'est la pression qui s'exerce sur cette paroi pour que c'est distant qui va certainement déterminer ça. Alors comment ça arrive ? Monsieur Starlin a montré que une paroi qui est comme ça, elle a des ça c'est un ensemble de imaginez que c'est un ensemble de fibres musculaires de sarcomères et qui sont reliées entre eux par les zones que vous connaissez, les zones Z et les desmoses. Quand la paroi, quand ce ventricule se remplit davantage comme ça, ce n'est pas son épaisseur qui va changer, c'est plutôt la distensibilité je vais la mettre en rouge, la distensibilité entre ces différentes fibres musculaires qui va s'installer.
+
+(1:42:40 - 1:56:25)
+Et donc plus il est distensible, plus le retour à une force contractile meilleure va s'opérer. Tout ce qu'il a démontré Monsieur Starlin c'est ça, c'est que je remplis davantage, donc j'augmente le volume j'espère il dit, montrant que en espérant que la tension pariétale ne monte pas parce que la paroi elle est bonne, elle est plus ou moins distensible, elle se laisse distendre mais n'empêche que cette énergie qui va s'accumuler liée à la distension et donc à l'étirement des fibres musculaires va se refléter par une augmentation de la contractilité donc lui il fait le lien entre la précharge et la contractilité il vous dit qu'il faut absolument qu'il y ait une tension à la fin du remplissage qui reste basse on a pris beaucoup de temps pour expliquer cette notion la tension à la fin du remplissage doit rester basse pour qu'il y ait un meilleur remplissage, mais il vous explique que le volume qui va remplir le ventricule va permettre une meilleure contractilité simplement parce qu'il y aura un étirement et cet étirement c'est une sorte d'énergie élastique qui va se traduire par la suite par une énergie cinétique et vous retrouverez l'explication disons physique ou plutôt histologique à ce phénomène au niveau de la relation entre les fibres d'axinimusine que je vais dessiner ici en fait en dessinant ça comme fibre d'actine et à l'intérieur les fibres de myosine c'est une seule avec des têtes les têtes de myosine par exemple qui sont là et de l'autre côté et bien sûr la même chose de l'autre côté en dessinant les choses comme ça je dessine pas bien mais bon et vous savez que la myosine est reliée à la paroi par des fibres qui s'appellent les titines qui la tiennent comme ça et je prends là le rouge et je vais mettre l'actine de l'autre côté mais qu'est-ce que je vais mettre je vais dessiner l'actine avec une sorte pardon, j'ai mal dessiné ici avant la gomme a tout effacé je reprends le noir voilà et je reprends le rouge parce que je voulais mettre la fibre d'actine un peu en haut pour qu'il y ait une sorte de chevauchement mais finalement c'est pas ce que je voulais, mon dieu allez, reprenons en bas l'un passe ici, l'autre passe derrière, voilà, il faut vraiment qu'il soit chevauché, voilà, comme ça pour que ce dessin, compliqué d'ailleurs vous montrez que la fibre d'actine, normalement son but, la fibre de la tête de la myosine son rôle c'est d'aller c'est de venir comme ça venir se fixer sur l'actine et quoi exactement sur l'actine, sur un site de fixation et ce site de fixation on sait qu'il est caché par une molécule qui s'appelle la tropomyosine il va falloir bouger la tropomyosine et avoir la tête la partie de fixation de l'actine ouverte, et pour qu'elle soit ouverte, elle aussi elle a besoin de la troponine qui l'ouvre, et la troponine a besoin de calcium donc vous mettez, il y a toujours une troponine qui est là, je vais la mettre en autre couleur il y a une troponine qui est là qui va mobiliser la tropomyosine l'envoyer et ouvrir le site de fixation de la myosine sur l'actine et pour que la troponine fasse ça il faut qu'elle se lie au calcium il faut qu'il y ait une liaison entre les deux et cette liaison permet d'écarter la tropomyosine d'ouvrir le site de fixation à l'actine et la tête de myosine vient se fixer, et quand elle se fixe qu'est-ce qu'elle fait la tête de myosine elle se courbe et elle fait mobiliser sa tête cette partie qu'on avait besoin, elle bouge elle bouge, elle la fait bouger comme ça, dans ce sens d'accord, et après elle va prendre un autre site de fixation qui attend son tour, qui va lui s'approcher de sa tête et elle va se fixer sur lui une fois et se relâcher, et ainsi de suite pour moi pour que j'ai mesuré pour que je vous ai dessiné ce chevauchement pour vous montrer une fibre musculaire si vous voulez qui est rétractée à tel point que les fibres d'actine chevauchent l'un sur l'autre le chevauchement qu'est-ce qu'il entraîne ? il entraîne un phénomène intéressant c'est que regardez cette tête de myosine là, une, deux et probablement même la troisième il n'arrive pas à se fixer ici ici et ici pourquoi ? parce qu'ils sont cachés par la fibre d'actine qui est chevauchée la même chose vous l'avez ici aussi, pour les trois qui sont ici donc ceci est intéressant dans la mesure où il nous montre que pour pouvoir libérer ça, il va falloir que la cellule soit stretchée il va falloir qu'on stretch la cellule, c'est-à-dire on l'étire davantage je vais effacer ça on l'étire davantage et là vous aurez au milieu votre fibre de myosine, mais cette fois-ci avec une liberté donc il y a beaucoup de têtes de myosine qui seront disponibles pour la contraction je vais revenir à mon schéma voilà, vous voyez donc là, les sites de fixation sont libres les trois et ceci grâce à quoi ? grâce au fait qu'on a créé un étirement ou un allongement de la cellule donc l'étirement finalement comme l'a démontré monsieur Starlin a permis de libérer plus de sites de fixation et du coup je vais avoir plus de ponts actines de myosine 1 et 2 et je vais avoir une meilleure contraction donc si vous avez compris ça je peux passer à l'étape suivante s'il y a des questions est-ce que la droite d'élastance est tracée en reliant le point d'origine au point correspondant au volume télésystolique de quelle droite d'élastance vous parlez parce que vous avez bien vu qu'on a décrit trois droites donc j'ai la droite d'élastance télésystolique je vous ai montré la télésystolique la droite d'élastance ventriculo-artérielle laquelle de ces trois Omar, laquelle de ces trois tu penses qu'elle est reliée au point correspondant au volume télésystolique je te laisse le temps d'écrire ta question de reprendre ta question et on va finir sur notre on va finir sur notre écran oui sur notre écran sur lequel on a vu la table de right donc la table de right je la termine et je vous laisse la reprendre tranquillement à la maison vous avez vu qu'on a fini cette étape où on a montré qu'il y a un reflux et je vais revenir sur le schéma pour vous montrer comment on décrit ça je passe à l'étape de l'éjection vous voyez que le ventricule atteint une pression très élevée et puis quand il éjecte la pression aussi dans l'aorte va augmenter et après on finit par éjecter au-delà de l'aorte donc c'est un joli schéma qui vous permet de reprendre quoi ? Reprendre le jeu ventriculaire pardon le jeu des valves ouvertes, ouvertes et puis fermées et la valve aortique ouverte deuxièmement, il vous permet de voir cette notion de possibilité de reflux dans les veines pulmonaires, troisièmement vous voyez les pressions à la fois dans l'oreillette gauche et dans les veines pulmonaires qui sont presque égales, donc il n'y a pas de gradient de pression entre les deux et puis vous voyez les variations de pression essentiellement dans le ventricule gauche en systole et en diastole et la même chose dans l'aorte donc sur un seul tableau vous avez pratiquement ce qu'on avait représenté ensemble sur cette courbe à laquelle je vais revenir tout de suite voilà, celle-là mais cette courbe simplement de la même façon durant le temps sur la droite du temps et là à la droite de la pression, on représente le changement de pression ventriculaire gauche voilà, en faisant une pression qui va monter lors de la contraction osvolumétrique et puis qui au cours de l'éjection va atteindre un maximum juste pour ouvrir les valves et puis elle atteint une pression télésystolique elle arrive à ouvrir les valves et puis, relaxation et hop, on a un creux et on a besoin d'expliquer ça veut dire quoi ce creux je vais y revenir mais en tout cas vous voyez que la pression a atteint un niveau très bas, de l'ordre de zéro et puis la pression monte un petit peu et puis elle reste stable et une petite augmentation à la fin qui correspond à la contraction auriculaire, c'est exactement ce que vous avez vu dans ce tableau là, vous voyez que la pression était dans le ventricule elle était un peu faible et puis il monte un petit peu de 3 à 4 lors de la contraction auriculaire, donc soit vous utilisez les courbes de pression telles qu'on les a montré sur le diagramme qui relie la pression au temps, soit vous utilisez la table de Wright qui schématise pratiquement tout en même temps Qu'est-ce qu'il y a d'autre oui, je peux terminer avec vous je peux terminer la courbe pression volume en rajoutant 3, 4 points importants si vous n'avez pas de questions, comme ça on aura fait le tour sur les boucles pression volume, et comme ça je vais revenir à la première, je vois qu'il y a beaucoup de choses écrites, je vais effacer le superflu la partie qui ne me qu'on a expliqué largement on va l'effacer voilà on essaie de quand même mettre les choses au propre ici, et on garde une seule courbe pression volume, voilà telle que vous la voyez, je vais reprendre le dessin avec le blanc et on va mettre des points maintenant les droites, c'est bon c'est clair, les droites d'élastance maintenant ce qui m'intéresse c'est de représenter sur la courbe pression volume certains événements du cycle cardiaque le point que j'ai mis A, là par exemple je vais l'appeler le point A Monsieur, on ne vous entend pas

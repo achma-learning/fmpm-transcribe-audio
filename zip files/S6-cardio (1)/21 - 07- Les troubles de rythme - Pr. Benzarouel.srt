@@ -1,0 +1,2563 @@
+1
+00:00:01,220 --> 00:00:04,200
+Les troubles de rythme, ce sera le cours
+
+2
+00:00:04,200 --> 00:00:04,820
+d'aujourd'hui.
+
+3
+00:00:05,600 --> 00:00:07,760
+Quand on dit troubles de rythme, c'est
+
+4
+00:00:07,760 --> 00:00:09,840
+tout ce qui touche au rythme sinusal.
+
+5
+00:00:10,400 --> 00:00:14,760
+Un petit rappel de l'électrophysiologie cardiaque, on
+
+6
+00:00:14,760 --> 00:00:16,960
+sait que normalement l'onde P correspond à
+
+7
+00:00:16,960 --> 00:00:19,860
+la dépolarisation des oreillettes, puis on a le
+
+8
+00:00:19,860 --> 00:00:22,620
+QRS qui correspond à la dépolarisation des ventricules,
+
+9
+00:00:23,040 --> 00:00:26,420
+et puis on a l'espace ST qui
+
+10
+00:00:26,420 --> 00:00:29,580
+correspond à la phase de repolarisation.
+
+11
+00:00:31,830 --> 00:00:33,750
+Toujours dans les rappels, on sait que le
+
+12
+00:00:33,750 --> 00:00:37,470
+nœud sinusal correspond au pacemaker naturel du cœur
+
+13
+00:00:37,470 --> 00:00:39,830
+et que l'influx nerveux est né de
+
+14
+00:00:39,830 --> 00:00:42,630
+manière automatique et spontanée au niveau du nœud
+
+15
+00:00:42,630 --> 00:00:45,950
+sinusal, et de là, il va se propager
+
+16
+00:00:45,950 --> 00:00:48,150
+au niveau de l'ensemble du tissu conductif.
+
+17
+00:00:51,740 --> 00:00:57,620
+L'électrocardiogramme correspond à l'expression électrique de
+
+18
+00:00:57,620 --> 00:00:59,660
+l'activité cardiaque.
+
+19
+00:00:59,660 --> 00:01:05,240
+Nous avons une onde P, un QRS, un
+
+20
+00:01:05,240 --> 00:01:09,220
+espace PR, un segment ST. On a bien
+
+21
+00:01:09,220 --> 00:01:10,380
+dit que l'onde P, c'est la
+
+22
+00:01:10,380 --> 00:01:15,040
+dépolarisation de l'oreillette, l'espace PR étant
+
+23
+00:01:15,040 --> 00:01:23,320
+la conduction des oreillettes vers les ventricules, QRS,
+
+24
+00:01:23,480 --> 00:01:25,720
+c'est la dépolarisation ventriculaire, et l'espace
+
+25
+00:01:25,720 --> 00:01:29,000
+ST, c'est l'étape de repolarisation.
+
+26
+00:01:29,000 --> 00:01:32,700
+Voici à quoi ressemble un ECG normal.
+
+27
+00:01:32,960 --> 00:01:36,100
+Un ECG normal, c'est 12 à 18
+
+28
+00:01:36,100 --> 00:01:36,880
+dérivations.
+
+29
+00:01:39,000 --> 00:01:41,340
+L'onde P, mieux visible en D2 et
+
+30
+00:01:41,340 --> 00:01:41,980
+en V1.
+
+31
+00:01:42,640 --> 00:01:46,200
+Donc voilà les différents incidents enregistrés, l'onde
+
+32
+00:01:46,200 --> 00:01:49,420
+P, le QRS et l'onde T.
+
+33
+00:01:49,920 --> 00:01:51,320
+Où est Q ici ?
+
+34
+00:01:51,320 --> 00:01:52,160
+Il n'y a pas d'onde Q
+
+35
+00:01:52,160 --> 00:01:54,140
+ici parce que l'onde Q, c'est
+
+36
+00:01:54,140 --> 00:01:56,420
+une onde qui est inconstante.
+
+37
+00:01:56,420 --> 00:01:58,420
+On dit toujours que l'onde Q, c
+
+38
+00:01:58,420 --> 00:02:01,520
+'est la première déflexion négative, mais c'est
+
+39
+00:02:01,520 --> 00:02:03,340
+une onde qui est inconstante, donc si je
+
+40
+00:02:03,340 --> 00:02:05,400
+ne la trouve pas, ce n'est pas
+
+41
+00:02:05,400 --> 00:02:05,800
+grave.
+
+42
+00:02:10,300 --> 00:02:13,120
+C'est un aspect d'ECG normal, où
+
+43
+00:02:13,120 --> 00:02:15,780
+chaque onde P est suivie d'un QRS,
+
+44
+00:02:16,100 --> 00:02:18,360
+et chaque QRS est précédé d'une onde
+
+45
+00:02:18,360 --> 00:02:20,420
+P, et c'est la définition d'un
+
+46
+00:02:20,420 --> 00:02:21,960
+rythme sinusale.
+
+47
+00:02:22,820 --> 00:02:25,480
+Toujours dans les définitions, donc le rythme sinusale
+
+48
+00:02:25,480 --> 00:02:28,040
+étant le rythme normal du cœur, donc qui
+
+49
+00:02:28,040 --> 00:02:31,580
+correspond à l'activation physiologique des oreillettes, suivie
+
+50
+00:02:31,580 --> 00:02:33,800
+des ventricules à partir du noeud sinusale.
+
+51
+00:02:34,260 --> 00:02:36,140
+Donc c'est un rythme qui est régulier,
+
+52
+00:02:36,560 --> 00:02:39,560
+compris entre 60 et 80 chez l'adulte
+
+53
+00:02:39,560 --> 00:02:40,780
+au repos.
+
+54
+00:02:41,360 --> 00:02:43,320
+On parle de bradier cardiaque à chaque fois
+
+55
+00:02:43,320 --> 00:02:45,720
+que le rythme cardiaque est lent, inférieur à
+
+56
+00:02:45,720 --> 00:02:49,100
+60 par minute, et une tachycardie quand le
+
+57
+00:02:49,100 --> 00:02:52,280
+rythme cardiaque est rapide, supérieur à 100 par
+
+58
+00:02:52,280 --> 00:02:52,660
+minute.
+
+59
+00:02:54,420 --> 00:02:57,900
+Donc ce qu'on entend par arrhythmie, c
+
+60
+00:02:57,900 --> 00:03:00,420
+'est un rythme cardiaque qui devient irrégulier.
+
+61
+00:03:01,380 --> 00:03:04,180
+Bradique arrhythmie, c'est un rythme à la
+
+62
+00:03:04,180 --> 00:03:05,820
+fois irrégulier et lent.
+
+63
+00:03:06,600 --> 00:03:09,360
+Tachyarrhythmie, rythme irrégulier et rapide.
+
+64
+00:03:09,360 --> 00:03:15,220
+Et Extrasystole, c'est une excitation prématurée, elle
+
+65
+00:03:15,220 --> 00:03:20,500
+peut être ventriculaire comme elle peut être supraventriculaire.
+
+66
+00:03:23,590 --> 00:03:26,270
+Donc ça on a dit Extrasystole, supraventriculaire ou
+
+67
+00:03:26,270 --> 00:03:27,030
+ventriculaire.
+
+68
+00:03:27,490 --> 00:03:30,730
+Maintenant, si je veux classer ces troubles de
+
+69
+00:03:30,730 --> 00:03:33,610
+rythme, on va les classer comme suit.
+
+70
+00:03:33,790 --> 00:03:36,970
+On a les tachycardies supraventriculaires, c'est-à
+
+71
+00:03:36,970 --> 00:03:39,850
+-dire tout ce qui se passe en-dessus
+
+72
+00:03:39,850 --> 00:03:40,870
+des ventricules.
+
+73
+00:03:40,870 --> 00:03:45,530
+Donc on a les tachycardies atriales, tachycystolie atriale,
+
+74
+00:03:45,650 --> 00:03:48,150
+flûteur atrial et fibrillation atriale.
+
+75
+00:03:48,770 --> 00:03:51,710
+Et on a les tachycardies réciproques.
+
+76
+00:03:52,550 --> 00:03:56,110
+Les tachycardies réciproques, elles comprennent deux autres sous
+
+77
+00:03:56,110 --> 00:03:56,350
+-types.
+
+78
+00:03:56,690 --> 00:03:59,590
+La tachycardie intranodale, où le mécanisme est la
+
+79
+00:03:59,590 --> 00:04:00,870
+réentrée intranodale.
+
+80
+00:04:01,350 --> 00:04:04,670
+Et la tachycardie par voie accessoire, où on
+
+81
+00:04:04,670 --> 00:04:08,730
+a un faisceau accessoire par lequel l'influx
+
+82
+00:04:08,730 --> 00:04:09,610
+nerveux passe.
+
+83
+00:04:09,610 --> 00:04:12,090
+Et ne passe pas par les voies de
+
+84
+00:04:12,090 --> 00:04:13,610
+conduction normales.
+
+85
+00:04:16,019 --> 00:04:18,779
+Après, on a les tachycardies de siège ventriculaire.
+
+86
+00:04:19,579 --> 00:04:22,560
+Ça peut être les tachycardies ventriculaires, la fibrillation
+
+87
+00:04:22,560 --> 00:04:26,360
+ventriculaire ou bien les torsades de pointe.
+
+88
+00:04:27,340 --> 00:04:30,340
+À quoi sont dus les troubles de rythme
+
+89
+00:04:30,340 --> 00:04:31,260
+?
+
+90
+00:04:31,260 --> 00:04:33,340
+Sachez que les troubles de rythme peuvent avoir
+
+91
+00:04:33,340 --> 00:04:36,180
+différentes causes et différentes éthiologies.
+
+92
+00:04:36,320 --> 00:04:38,220
+Et parfois des éthiologies intriguées.
+
+93
+00:04:38,220 --> 00:04:39,680
+Je m'explique.
+
+94
+00:04:39,820 --> 00:04:41,700
+Ça peut être en rapport avec un trouble
+
+95
+00:04:41,700 --> 00:04:43,400
+électrolytique.
+
+96
+00:04:43,500 --> 00:04:44,940
+Quand on sait que le potentiel d'action
+
+97
+00:04:44,940 --> 00:04:49,900
+d'un cardiomyocyte fait appel à l'entrée
+
+98
+00:04:49,900 --> 00:04:53,060
+du sodium, la sortie du potassium, fait appel
+
+99
+00:04:53,060 --> 00:04:54,960
+au chlore, fait appel à la pompe NA
+
+100
+00:04:54,960 --> 00:04:56,060
++, K+, ATPase.
+
+101
+00:04:56,400 --> 00:04:57,420
+Et donc à chaque fois qu'on a
+
+102
+00:04:57,420 --> 00:05:01,500
+un déséquilibre électrolytique, on peut assister à un
+
+103
+00:05:01,500 --> 00:05:02,200
+trouble de rythme.
+
+104
+00:05:02,200 --> 00:05:05,580
+Ça peut être causé par des médicaments, notamment
+
+105
+00:05:05,580 --> 00:05:09,100
+des antiarrhythmiques, des médicaments qui allongent l'espace
+
+106
+00:05:09,100 --> 00:05:12,040
+cuté et qui peuvent donner des troubles de
+
+107
+00:05:12,040 --> 00:05:12,330
+rythme.
+
+108
+00:05:13,340 --> 00:05:15,100
+Les anomalies du système nerveux.
+
+109
+00:05:15,820 --> 00:05:18,460
+On a le sympathique et le parasympathique.
+
+110
+00:05:18,560 --> 00:05:24,620
+Le sympathique qui agit via l'adrénaline et
+
+111
+00:05:24,620 --> 00:05:25,500
+la noradrénaline.
+
+112
+00:05:25,560 --> 00:05:27,400
+Et le parasympathique via l'acetylcholine.
+
+113
+00:05:27,400 --> 00:05:32,040
+Donc toute anomalie du système nerveux peut engendrer
+
+114
+00:05:32,040 --> 00:05:33,440
+des troubles de rythme.
+
+115
+00:05:33,600 --> 00:05:34,120
+L'ischémie.
+
+116
+00:05:34,540 --> 00:05:36,860
+Oui, l'ischémie aussi peut donner des troubles
+
+117
+00:05:36,860 --> 00:05:37,280
+de rythme.
+
+118
+00:05:37,600 --> 00:05:38,320
+Comment ?
+
+119
+00:05:38,320 --> 00:05:40,040
+Je viens de vous parler de la pompe
+
+120
+00:05:40,040 --> 00:05:42,320
+NA+, K+, ATPase.
+
+121
+00:05:42,460 --> 00:05:45,280
+Donc elle est consommatrice d'énergie.
+
+122
+00:05:45,600 --> 00:05:47,540
+Et chaque situation d'ischémie, ça peut dire
+
+123
+00:05:47,540 --> 00:05:50,920
+une privation de l'énergie suffisante et on
+
+124
+00:05:50,920 --> 00:05:52,160
+peut avoir des troubles de rythme.
+
+125
+00:05:52,500 --> 00:05:55,640
+Et en dernier lieu, la fonction ventriculaire.
+
+126
+00:05:55,640 --> 00:05:58,120
+Donc quand on a une dégradation de la
+
+127
+00:05:58,120 --> 00:06:01,280
+fonction ventriculaire, notamment dans le cadre des dilatations
+
+128
+00:06:01,280 --> 00:06:04,180
+des ventricules, où on a un remodelage ventriculaire,
+
+129
+00:06:04,520 --> 00:06:09,200
+on a un changement de la texture du
+
+130
+00:06:09,200 --> 00:06:15,060
+ventricule, de la composition des cardiomyocytes et ça
+
+131
+00:06:15,060 --> 00:06:17,400
+peut donner des troubles de rythme aussi.
+
+132
+00:06:23,220 --> 00:06:27,200
+On va détailler dans ce cours la fibrillation
+
+133
+00:06:27,200 --> 00:06:27,840
+atriale.
+
+134
+00:06:27,960 --> 00:06:28,400
+Pourquoi ?
+
+135
+00:06:28,400 --> 00:06:29,540
+Parce qu'étant donné que c'est la
+
+136
+00:06:29,540 --> 00:06:31,640
+rythmie la plus fréquente, elle concerne 2 à
+
+137
+00:06:31,640 --> 00:06:34,480
+4% de la population adulte et 9
+
+138
+00:06:34,480 --> 00:06:37,540
+à 15% des sujets âgés.
+
+139
+00:06:37,900 --> 00:06:41,040
+Elle est classée parmi les tachycardies supraventriculaires et
+
+140
+00:06:41,040 --> 00:06:43,100
+se définit par un rythme cardiaque d'origine
+
+141
+00:06:43,100 --> 00:06:45,040
+auriculaire anarchique.
+
+142
+00:06:45,280 --> 00:06:47,840
+Il n'est pas sinusale, donc secondaire à
+
+143
+00:06:47,840 --> 00:06:51,520
+l'activation autonome de multiples foyers situés dans
+
+144
+00:06:51,520 --> 00:06:52,040
+les oreilles.
+
+145
+00:06:52,040 --> 00:06:54,840
+On a dit que le noeud sinusal était
+
+146
+00:06:54,840 --> 00:06:59,680
+l'origine, le pacemaker naturel, mais à chaque
+
+147
+00:06:59,680 --> 00:07:00,380
+fois je vous dis qu'il y a
+
+148
+00:07:00,380 --> 00:07:03,640
+des foyers qui sont quiessants, qui sont au
+
+149
+00:07:03,640 --> 00:07:04,020
+repos.
+
+150
+00:07:04,580 --> 00:07:07,700
+Dans la fibrillation atriale, ce sont ces foyers
+
+151
+00:07:07,700 --> 00:07:12,120
+quiessants qui constituent des foyers de démarrage d
+
+152
+00:07:12,120 --> 00:07:13,160
+'un influx nerveux.
+
+153
+00:07:13,160 --> 00:07:16,420
+La transmission à travers le noeud oriculo-ventriculaire
+
+154
+00:07:16,420 --> 00:07:19,280
+est également anarchique, ce qui donne un rythme
+
+155
+00:07:19,280 --> 00:07:23,660
+irrégulier, d'où la fibrillation atriale.
+
+156
+00:07:24,240 --> 00:07:27,280
+Voici le cheminement normal d'un influx nerveux.
+
+157
+00:07:27,420 --> 00:07:30,220
+Départ au niveau du noeud sinusal, puis AV,
+
+158
+00:07:30,420 --> 00:07:31,260
+puis le faisceau de l'île.
+
+159
+00:07:32,080 --> 00:07:39,140
+Dans la fibrillation atriale, on a plusieurs petits
+
+160
+00:07:39,140 --> 00:07:42,560
+foyers au niveau des oreillettes qui créent un
+
+161
+00:07:42,560 --> 00:07:44,760
+circuit de réentrée.
+
+162
+00:07:44,980 --> 00:07:48,300
+Ça tourne dans un seul sens, mais plusieurs
+
+163
+00:07:48,300 --> 00:07:49,140
+foyers comme ça.
+
+164
+00:07:50,620 --> 00:07:52,860
+Par la suite, la création de l'influx
+
+165
+00:07:52,860 --> 00:07:57,020
+va traverser le noeud oriculo-ventriculaire de manière
+
+166
+00:07:57,020 --> 00:07:59,320
+irrégulière, donc pas de régularité.
+
+167
+00:08:01,340 --> 00:08:03,600
+Alors, quelles en sont les conséquences?
+
+168
+00:08:04,000 --> 00:08:05,500
+On a d'abord la stagnation de la
+
+169
+00:08:05,500 --> 00:08:12,580
+masse sanguine dans l'oreillette, qui va causer
+
+170
+00:08:12,580 --> 00:08:16,080
+la constitution d'un thrombus, qui sera la
+
+171
+00:08:16,080 --> 00:08:19,580
+cause d'éventuels thrombies ou d'embolies systémiques.
+
+172
+00:08:19,860 --> 00:08:21,000
+Pourquoi la stagnation?
+
+173
+00:08:21,000 --> 00:08:23,240
+Parce qu'on sait que l'oreillette ne
+
+174
+00:08:23,240 --> 00:08:28,060
+va plus se contracter comme elle a l
+
+175
+00:08:28,060 --> 00:08:28,820
+'habitude de faire.
+
+176
+00:08:29,000 --> 00:08:30,320
+On sait qu'il y a toujours le
+
+177
+00:08:30,320 --> 00:08:33,179
+couplage, l'excitation, la contraction, et donc là,
+
+178
+00:08:33,539 --> 00:08:36,520
+ça ne va pas se faire normalement et
+
+179
+00:08:36,520 --> 00:08:38,620
+on aura une stagnation de sang dans l
+
+180
+00:08:38,620 --> 00:08:38,980
+'oreillette.
+
+181
+00:08:39,340 --> 00:08:41,240
+Deuxième conséquence, c'est le risque d'insuffisance
+
+182
+00:08:41,240 --> 00:08:43,940
+cardiaque du fait d'un mauvais remplissage.
+
+183
+00:08:44,020 --> 00:08:46,120
+On sait que la systole atriale, c'est
+
+184
+00:08:46,120 --> 00:08:48,980
+la phase finale du remplissage ventriculaire.
+
+185
+00:08:48,980 --> 00:08:52,620
+Donc si ce remplissage ne se fait pas
+
+186
+00:08:52,620 --> 00:08:57,920
+bien, on aura des signes d'insuffisance cardiaque.
+
+187
+00:08:58,300 --> 00:09:01,780
+Et bien sûr, on aura les causes aussi
+
+188
+00:09:01,780 --> 00:09:04,340
+d'insuffisance cardiaque, c'est le fait que
+
+189
+00:09:04,340 --> 00:09:08,900
+le rythme soit rapide pour ne pas donner
+
+190
+00:09:08,900 --> 00:09:13,020
+des signes d'ischémie myocardique, notamment avec des
+
+191
+00:09:13,020 --> 00:09:15,100
+symptômes comme l'engore.
+
+192
+00:09:17,500 --> 00:09:22,300
+Donc ici, sur ces deux images d'échotransosophagien,
+
+193
+00:09:22,360 --> 00:09:24,720
+vous voyez la présence d'un thrombus dans
+
+194
+00:09:24,720 --> 00:09:26,700
+la première, celle du haut, un thrombus au
+
+195
+00:09:26,700 --> 00:09:28,720
+niveau de l'auricule gauche, et dans la
+
+196
+00:09:28,720 --> 00:09:31,600
+deuxième, un thrombus carrément au niveau flottant, au
+
+197
+00:09:31,600 --> 00:09:34,040
+niveau de l'oreillette, chez un patient qui
+
+198
+00:09:34,040 --> 00:09:36,360
+présente une fibrillation atriale.
+
+199
+00:09:36,620 --> 00:09:39,500
+Le diagnostic positif, donc les signes fonctionnels, ils
+
+200
+00:09:39,500 --> 00:09:40,700
+ne sont pas vraiment spécifiques.
+
+201
+00:09:40,700 --> 00:09:42,440
+Ça peut être une dysnée, ça peut être
+
+202
+00:09:42,440 --> 00:09:44,740
+des palpitations de l'engore, et on a
+
+203
+00:09:44,740 --> 00:09:46,080
+expliqué pourquoi, parce qu'il y a de
+
+204
+00:09:46,080 --> 00:09:49,420
+l'ischémie fonctionnelle par l'attaqué cardique, la
+
+205
+00:09:49,420 --> 00:09:50,780
+syncope, la mort subite.
+
+206
+00:09:51,260 --> 00:09:56,280
+Mais souvent, souvent, la fibrillation atriale va apparaître
+
+207
+00:09:56,280 --> 00:10:01,440
+en cas, par des complications, des accidents thromboemboliques,
+
+208
+00:10:01,920 --> 00:10:05,860
+comme un AVC ischémique, comme une ischémie critique
+
+209
+00:10:05,860 --> 00:10:08,360
+des membres inférieurs, ou bien des signes d
+
+210
+00:10:08,360 --> 00:10:09,400
+'insuffisance cardiaque.
+
+211
+00:10:09,400 --> 00:10:12,860
+Donc l'examen clinique, c'est une étape
+
+212
+00:10:12,860 --> 00:10:15,580
+importante à l'hospital, on trouvera des bruits
+
+213
+00:10:15,580 --> 00:10:17,660
+de cœur qui sont irréguliers.
+
+214
+00:10:17,900 --> 00:10:22,960
+Donc l'électrocardiogramme va objectiver la disparition des
+
+215
+00:10:22,960 --> 00:10:24,580
+ondes P, bien sûr, on n'a plus
+
+216
+00:10:24,580 --> 00:10:27,940
+de rythme sinusal, qui seront remplacées par une
+
+217
+00:10:27,940 --> 00:10:30,160
+prémulation de la ligne de base des ondes
+
+218
+00:10:30,160 --> 00:10:31,740
+F de fibrillation atriale.
+
+219
+00:10:31,740 --> 00:10:35,020
+Ces ondes F irrégulières battent à une fréquence
+
+220
+00:10:35,020 --> 00:10:38,260
+allant de 350 à 600 par minute, une
+
+221
+00:10:38,260 --> 00:10:41,860
+activité particulièrement visible entre des deux, et on
+
+222
+00:10:41,860 --> 00:10:42,280
+fait 1.
+
+223
+00:10:43,420 --> 00:10:45,660
+Les ventriculogrammes, c'est-à-dire les QRS,
+
+224
+00:10:45,920 --> 00:10:48,900
+seront irréguliers, et leur cadence va varier entre
+
+225
+00:10:48,900 --> 00:10:50,360
+120 et 180.
+
+226
+00:10:51,440 --> 00:10:55,100
+Parfois, le halter ECG, donc l'enregistrement de
+
+227
+00:10:55,100 --> 00:10:57,960
+24 heures ou de plus, est intéressant, dans
+
+228
+00:10:57,960 --> 00:10:59,840
+la mesure où on n'arrive pas à
+
+229
+00:10:59,840 --> 00:11:02,880
+objectiver, à diagnostiquer sur l'ECG de surface
+
+230
+00:11:02,880 --> 00:11:04,800
+une fibrillation atriale.
+
+231
+00:11:04,980 --> 00:11:05,820
+Donc c'est le cas, on parle à
+
+232
+00:11:05,820 --> 00:11:08,540
+ce moment-là de fibrillation atriale paroxysique.
+
+233
+00:11:09,480 --> 00:11:12,840
+Donc voici cet électrocardiogramme, vous voyez, on a
+
+234
+00:11:12,840 --> 00:11:17,680
+la trémulation de la ligne isoélectrique, ce sont
+
+235
+00:11:17,680 --> 00:11:20,580
+les ondes F de fibrillation, et on a
+
+236
+00:11:20,580 --> 00:11:23,720
+des QRS qui sont irréguliers.
+
+237
+00:11:23,940 --> 00:11:25,560
+Donc si je veux avoir la fréquence ici,
+
+238
+00:11:25,880 --> 00:11:30,300
+je dois faire la somme de 5 QRS
+
+239
+00:11:30,300 --> 00:11:33,960
+pour avoir une cadence ventriculaire moyenne.
+
+240
+00:11:39,710 --> 00:11:42,250
+Ici encore, vous avez cet ECG qui montre
+
+241
+00:11:42,250 --> 00:11:46,590
+la trémulation de la ligne isoélectrique avec des
+
+242
+00:11:46,590 --> 00:11:48,470
+QRS qui sont irréguliers.
+
+243
+00:11:48,470 --> 00:11:50,950
+Donc c'est le diagnostic de la fibrillation
+
+244
+00:11:50,950 --> 00:11:51,610
+atriale.
+
+245
+00:11:52,090 --> 00:11:54,150
+Pour ce qui est des étiologies, on a
+
+246
+00:11:54,150 --> 00:11:56,130
+les causes cardiaques.
+
+247
+00:11:56,790 --> 00:11:58,930
+Principalement, c'est le rétrécissement mitral.
+
+248
+00:12:00,550 --> 00:12:01,550
+Pourquoi principalement?
+
+249
+00:12:01,590 --> 00:12:03,390
+Vous avez vu le cours sur le rétrécissement
+
+250
+00:12:03,390 --> 00:12:05,650
+mitral, où on a, du fait de la
+
+251
+00:12:05,650 --> 00:12:08,670
+présence de ce barrage mécanique, on aura une
+
+252
+00:12:08,670 --> 00:12:11,270
+distension de l'oreillette gauche.
+
+253
+00:12:11,430 --> 00:12:13,470
+Donc cette distension de l'oreillette gauche va
+
+254
+00:12:13,470 --> 00:12:17,250
+faire le lit de la fibrillation auriculaire.
+
+255
+00:12:17,250 --> 00:12:22,390
+Donc l'hypertension artérielle également, les coronaropathies, mais
+
+256
+00:12:22,390 --> 00:12:26,010
+moins fréquemment, les cardiomyopathies dilatées, les cardiomyopathies
+
+257
+00:12:26,010 --> 00:12:30,150
+obstructives, les péricardies, les cardiopathies congénitales après une
+
+258
+00:12:30,150 --> 00:12:30,930
+chirurgie cardiaque.
+
+259
+00:12:31,210 --> 00:12:34,530
+Donc si vous avez à retenir essentiellement dans
+
+260
+00:12:34,530 --> 00:12:37,750
+les causes cardiaques, c'est le rétrécissement mitral
+
+261
+00:12:37,750 --> 00:12:43,130
+et l'hypertension artérielle, parce que tout le
+
+262
+00:12:43,130 --> 00:12:47,350
+reste, on peut avoir une fibrillation artérielle dans
+
+263
+00:12:47,350 --> 00:12:50,510
+toutes les autres cardiopathies.
+
+264
+00:12:50,650 --> 00:12:51,790
+Et puis il y a les causes extra
+
+265
+00:12:51,790 --> 00:12:57,250
+-cardiaques, comme les atteintes pulmonaires, les BPCO ou
+
+266
+00:12:57,250 --> 00:12:59,150
+dans l'ombo-limonaire.
+
+267
+00:13:00,270 --> 00:13:04,790
+L'hypertiroïsie, oui, l'énolisme et les troubles
+
+268
+00:13:04,790 --> 00:13:08,810
+hydroélectrolytiques, l'anémie ou la fièvre.
+
+269
+00:13:09,310 --> 00:13:11,830
+En ce qui concerne le bilan éthiologique, l
+
+270
+00:13:11,830 --> 00:13:15,110
+'échocardiographie aura pour but de dépister l'éthiologie.
+
+271
+00:13:15,410 --> 00:13:16,610
+Donc par exemple, voir s'il y a
+
+272
+00:13:16,610 --> 00:13:19,230
+un rétrécissement mitral, voir s'il y a
+
+273
+00:13:19,230 --> 00:13:22,090
+une coronaropathie, s'il y a une cardiopathie
+
+274
+00:13:22,090 --> 00:13:22,710
+obstructive.
+
+275
+00:13:23,130 --> 00:13:25,250
+Mais en même temps, elle va viser à
+
+276
+00:13:25,250 --> 00:13:27,430
+chercher s'il y a une complication, notamment
+
+277
+00:13:27,430 --> 00:13:30,750
+la présence d'un thrombus atrial dans l
+
+278
+00:13:30,750 --> 00:13:32,690
+'oreillette, ça on le voit à l'échoqueur,
+
+279
+00:13:32,690 --> 00:13:35,850
+ou bien un thrombus de l'auricule gauche,
+
+280
+00:13:36,070 --> 00:13:37,410
+et ça on le voit à l'aide
+
+281
+00:13:37,410 --> 00:13:39,530
+de l'échographie trans-œsophagienne.
+
+282
+00:13:39,890 --> 00:13:42,310
+On va faire un bilan thyroïdien aussi, par
+
+283
+00:13:42,310 --> 00:13:45,750
+un dosage de TSH, une EFR et des
+
+284
+00:13:45,750 --> 00:13:48,790
+gaz du sang orientés selon les symptômes cliniques
+
+285
+00:13:48,790 --> 00:13:50,570
+du patient et des antécédents.
+
+286
+00:13:50,690 --> 00:13:53,790
+Si c'est un patient tabagique avec tous
+
+287
+00:13:53,790 --> 00:13:56,070
+les signes de BPCO, donc on demande une
+
+288
+00:13:56,070 --> 00:13:57,630
+EFR et des gaz du sang.
+
+289
+00:13:57,630 --> 00:14:00,010
+On peut demander un ionogramme à la recherche
+
+290
+00:14:00,010 --> 00:14:04,030
+de troubles hydroélectrolytiques, notamment les dyscalémies, une NFS
+
+291
+00:14:04,030 --> 00:14:06,230
+pour voir s'il n'y a pas
+
+292
+00:14:06,230 --> 00:14:06,930
+d'années.
+
+293
+00:14:09,310 --> 00:14:11,970
+Alors le traitement, le traitement a pour but
+
+294
+00:14:11,970 --> 00:14:15,710
+de ralentir la fréquence cardiaque, ou de réduire
+
+295
+00:14:15,710 --> 00:14:17,510
+le trouble du rythme.
+
+296
+00:14:17,950 --> 00:14:20,610
+Il vise à prévenir les complications thrombo-emboliques,
+
+297
+00:14:20,690 --> 00:14:21,930
+et bien sûr, à chaque fois qu'une
+
+298
+00:14:21,930 --> 00:14:25,050
+éthiologie est là, il faudrait s'accrocher à
+
+299
+00:14:25,050 --> 00:14:25,550
+la traiter.
+
+300
+00:14:27,820 --> 00:14:30,520
+Alors pour ce qui est du traitement anti
+
+301
+00:14:30,520 --> 00:14:34,620
+-thrombotique, on a à notre disposition un arsenal
+
+302
+00:14:34,620 --> 00:14:35,720
+d'anti-thrombotiques.
+
+303
+00:14:35,840 --> 00:14:38,400
+On a les anti-vitamin K, on a
+
+304
+00:14:38,400 --> 00:14:42,140
+les anti-coagulants oraux directs, et par là,
+
+305
+00:14:42,820 --> 00:14:46,220
+les trois molécules que nous avons au Maroc,
+
+306
+00:14:46,340 --> 00:14:49,020
+on a l'anti-2A, c'est le
+
+307
+00:14:49,020 --> 00:14:53,120
+dabigatran, le Pradaxa, 150 mg en deux prises.
+
+308
+00:14:53,120 --> 00:14:56,600
+On a l'anti-10A, le Ribaroxaban, le
+
+309
+00:14:56,600 --> 00:14:59,780
+Xarelto, 20 mg une prise par jour.
+
+310
+00:15:00,280 --> 00:15:03,560
+Et on a l'Apixaban, l'Elicuisse, 5
+
+311
+00:15:03,560 --> 00:15:05,400
+mg deux fois par jour.
+
+312
+00:15:05,780 --> 00:15:08,460
+Les indications, quand il s'agit d'une
+
+313
+00:15:08,460 --> 00:15:10,340
+effa valvulaire, c'est-à-dire une effa
+
+314
+00:15:10,340 --> 00:15:14,400
+en rapport avec une valvulopathie, toujours anti-coagulé
+
+315
+00:15:14,400 --> 00:15:18,740
+de passant, et toujours avec les anti-vitamin
+
+316
+00:15:18,740 --> 00:15:18,980
+K.
+
+317
+00:15:18,980 --> 00:15:23,040
+Quand on a une effa non valvulaire, la
+
+318
+00:15:23,040 --> 00:15:26,220
+décision d'anti-coaguler le passant va dépendre
+
+319
+00:15:26,220 --> 00:15:30,400
+d'un calcul, d'un score qu'on
+
+320
+00:15:30,400 --> 00:15:35,860
+va obtenir à partir du score CHATS de
+
+321
+00:15:35,860 --> 00:15:37,460
+VAS, qu'on va voir tout de suite.
+
+322
+00:15:37,920 --> 00:15:39,340
+Et bien sûr, si on a une contre
+
+323
+00:15:39,340 --> 00:15:43,260
+-indication au traitement anti-coagulant, on propose une
+
+324
+00:15:43,260 --> 00:15:46,580
+occlusion percutanée de l'auricule gauche.
+
+325
+00:15:46,580 --> 00:15:50,840
+Ce petit appendice à coller à l'oreillette,
+
+326
+00:15:50,980 --> 00:15:53,480
+on va le fermer à l'aide d
+
+327
+00:15:53,480 --> 00:15:55,840
+'une emplade, d'une prothèse qui va fermer
+
+328
+00:15:55,840 --> 00:16:00,240
+et qui va limiter le fait que le
+
+329
+00:16:00,240 --> 00:16:02,760
+thrombus va aller se nicher au niveau de
+
+330
+00:16:02,760 --> 00:16:03,520
+l'auricule gauche.
+
+331
+00:16:04,800 --> 00:16:07,740
+Donc le risque thromboemboli, comme je vous ai
+
+332
+00:16:07,740 --> 00:16:10,000
+dit, quand on est devant une effa non
+
+333
+00:16:10,000 --> 00:16:14,180
+valvulaire, il sera évalué par le score CHATS
+
+334
+00:16:14,180 --> 00:16:15,060
+de VAS.
+
+335
+00:16:15,060 --> 00:16:18,400
+Ce sont des initiales où chaque initiale identifie
+
+336
+00:16:18,400 --> 00:16:19,200
+quelque chose.
+
+337
+00:16:19,660 --> 00:16:23,520
+Donc C pour Congestive Heart Failure, donc on
+
+338
+00:16:23,520 --> 00:16:24,480
+a un score de 1.
+
+339
+00:16:26,340 --> 00:16:28,180
+H pour Hypertension.
+
+340
+00:16:29,120 --> 00:16:32,560
+A pour âge supérieur ou égal à 75
+
+341
+00:16:32,560 --> 00:16:32,980
+ans.
+
+342
+00:16:33,120 --> 00:16:34,140
+D pour le diabète.
+
+343
+00:16:34,600 --> 00:16:38,040
+S pour Stroke, c'est l'accident vasculaire
+
+344
+00:16:38,040 --> 00:16:40,920
+cérébral qui soit définitif ou ischémique.
+
+345
+00:16:40,920 --> 00:16:48,800
+V pour les atteintes vasculaires, donc comme un
+
+346
+00:16:48,800 --> 00:16:51,500
+antécédent d'infarctus du myocarde, une AOMI ou
+
+347
+00:16:51,500 --> 00:16:55,020
+une plaque au niveau aortique.
+
+348
+00:16:56,200 --> 00:16:58,040
+On a un autre A, c'est pour
+
+349
+00:16:58,040 --> 00:17:01,140
+l'âge entre 65 et 74 ans.
+
+350
+00:17:01,460 --> 00:17:03,099
+Donc vous voyez ici quand l'âge est
+
+351
+00:17:03,099 --> 00:17:05,740
+supérieur à 75 ans, c'est un score
+
+352
+00:17:05,740 --> 00:17:06,240
+de 2.
+
+353
+00:17:06,660 --> 00:17:09,000
+Et quand l'âge est entre 65 et
+
+354
+00:17:09,000 --> 00:17:10,900
+74 ans, c'est un score de 1.
+
+355
+00:17:10,900 --> 00:17:13,920
+Et puis enfin, on a le sexe féminin,
+
+356
+00:17:14,520 --> 00:17:16,280
+donc c'est égal à 1.
+
+357
+00:17:16,520 --> 00:17:20,680
+Donc devant chaque patient, je dois calculer le
+
+358
+00:17:20,680 --> 00:17:21,540
+score final.
+
+359
+00:17:21,880 --> 00:17:24,920
+Donc si je suis devant une patiente âgée
+
+360
+00:17:24,920 --> 00:17:27,940
+de 80 ans qui présente une FA non
+
+361
+00:17:27,940 --> 00:17:32,000
+valvulaire et qui est hyper tendue, vous allez
+
+362
+00:17:32,000 --> 00:17:34,740
+me dire qu'elle est hyper tendue.
+
+363
+00:17:34,740 --> 00:17:35,620
+Voici 1.
+
+364
+00:17:36,680 --> 00:17:40,520
+Elle est âgée de 80 ans, donc plus
+
+365
+00:17:40,520 --> 00:17:41,480
+de 75 ans.
+
+366
+00:17:41,720 --> 00:17:42,280
+Donc voici 2.
+
+367
+00:17:42,380 --> 00:17:43,240
+Donc on est à 3.
+
+368
+00:17:43,860 --> 00:17:47,320
+Et elle a le sexe féminin à 4.
+
+369
+00:17:47,640 --> 00:17:50,060
+Donc voilà, on a pu faire son score
+
+370
+00:17:50,060 --> 00:17:51,240
+qui est de 4.
+
+371
+00:17:51,780 --> 00:17:55,900
+A partir de quel score on va anticoaguler,
+
+372
+00:17:56,000 --> 00:17:56,840
+c'est ce qu'on va voir tout
+
+373
+00:17:56,840 --> 00:17:57,080
+de suite.
+
+374
+00:17:57,280 --> 00:18:01,240
+Donc souvenez-vous, FA valvulaire, toujours anticoagulation.
+
+375
+00:18:01,440 --> 00:18:04,540
+Valvular atrial fibrillation, donc c'est oui et
+
+376
+00:18:04,540 --> 00:18:09,060
+toujours avec les antivitamines K.
+
+377
+00:18:09,660 --> 00:18:13,460
+Maintenant pour la FA non valvulaire, donc je
+
+378
+00:18:13,460 --> 00:18:14,520
+calcule le score.
+
+379
+00:18:14,980 --> 00:18:18,320
+Donc si le score est à partir de
+
+380
+00:18:18,320 --> 00:18:20,780
+1, il faudrait que j'anticoagule.
+
+381
+00:18:21,640 --> 00:18:23,840
+S'il est à 0, je ne fais
+
+382
+00:18:23,840 --> 00:18:24,080
+rien.
+
+383
+00:18:24,680 --> 00:18:27,020
+Si à partir de 1, j'anticoagule.
+
+384
+00:18:27,020 --> 00:18:31,760
+Et bien sûr, je vais évaluer toujours le
+
+385
+00:18:31,760 --> 00:18:32,800
+risque hémorragique.
+
+386
+00:18:32,880 --> 00:18:35,040
+Ce risque hémorragique, il est évalué par un
+
+387
+00:18:35,040 --> 00:18:35,740
+autre score.
+
+388
+00:18:36,260 --> 00:18:38,480
+C'est le AAS-BLED.
+
+389
+00:18:38,680 --> 00:18:40,320
+Donc c'est un score du bleeding pour
+
+390
+00:18:40,320 --> 00:18:44,000
+voir le risque hémorragique et qui va dire
+
+391
+00:18:44,000 --> 00:18:47,040
+est-ce qu'on anticoagule ou pas.
+
+392
+00:18:48,020 --> 00:18:50,980
+Donc retenez, quand le score est supérieur ou
+
+393
+00:18:50,980 --> 00:18:53,660
+égal à 1, il faudrait anticoaguler.
+
+394
+00:18:53,660 --> 00:18:57,060
+Maintenant, le choix de la molécule dépendra de
+
+395
+00:18:57,060 --> 00:18:58,660
+plusieurs critères.
+
+396
+00:18:59,520 --> 00:19:02,620
+Est-ce que je choisis un anticoagulant oral
+
+397
+00:19:02,620 --> 00:19:05,860
+direct ou est-ce que je choisis un
+
+398
+00:19:05,860 --> 00:19:07,380
+antivitamine K ?
+
+399
+00:19:07,380 --> 00:19:10,740
+Donc le choix dépendra de plusieurs critères.
+
+400
+00:19:10,900 --> 00:19:14,480
+D'abord la fonction rénale, puis l'âge
+
+401
+00:19:14,480 --> 00:19:16,640
+du patient, puis le coût.
+
+402
+00:19:16,880 --> 00:19:20,040
+On sait que les anticoagulants directs ont un
+
+403
+00:19:20,040 --> 00:19:21,540
+coût très élevé.
+
+404
+00:19:21,540 --> 00:19:23,700
+Donc plusieurs critères entrent en jeu.
+
+405
+00:19:23,820 --> 00:19:25,980
+Mais retenez qu'à partir de 1, supérieur
+
+406
+00:19:25,980 --> 00:19:28,520
+ou égal à 1, il suffit d'avoir
+
+407
+00:19:28,520 --> 00:19:31,980
+que le sexe féminin pour proposer une anticoagulation.
+
+408
+00:19:33,640 --> 00:19:36,600
+La fermeture de l'auricule, voilà le dispositif
+
+409
+00:19:36,600 --> 00:19:39,500
+dans les contre-indications au traitement anticoagulant.
+
+410
+00:19:39,920 --> 00:19:42,280
+Donc on met en place un dispositif d
+
+411
+00:19:42,280 --> 00:19:44,920
+'occlusion où c'est une prothèse qui va
+
+412
+00:19:44,920 --> 00:19:49,740
+complètement fermer l'auricule, le siège de prédilection
+
+413
+00:19:49,740 --> 00:19:50,660
+des thrombies.
+
+414
+00:19:56,310 --> 00:19:59,290
+Les symptômes de l'AFA peuvent être gérés
+
+415
+00:19:59,290 --> 00:20:00,250
+de deux manières.
+
+416
+00:20:00,450 --> 00:20:01,570
+On a deux stratégies.
+
+417
+00:20:02,270 --> 00:20:03,970
+On a parlé de l'anticoagulation.
+
+418
+00:20:04,270 --> 00:20:07,410
+Maintenant, comment on va gérer les symptômes ?
+
+419
+00:20:07,410 --> 00:20:10,050
+On a deux stratégies, soit une stratégie de
+
+420
+00:20:10,050 --> 00:20:12,870
+normalisation du rythme, c'est-à-dire je
+
+421
+00:20:12,870 --> 00:20:18,250
+veux que le rythme redevienne sinusale, ou bien
+
+422
+00:20:18,250 --> 00:20:21,370
+une stratégie de normalisation de la fréquence cardiaque,
+
+423
+00:20:21,370 --> 00:20:23,330
+c'est-à-dire mon but est de
+
+424
+00:20:23,330 --> 00:20:26,250
+ralentir le rythme cardiaque.
+
+425
+00:20:26,570 --> 00:20:29,490
+Comment je vais procéder à ces stratégies ?
+
+426
+00:20:29,490 --> 00:20:33,890
+Donc traitement de l'arythmie, donc réduire l
+
+427
+00:20:33,890 --> 00:20:36,630
+'arythmie, ça veut dire restaurer un rythme sinusale.
+
+428
+00:20:37,130 --> 00:20:38,750
+Comment je peux y arriver ?
+
+429
+00:20:38,750 --> 00:20:42,570
+Donc on a soit la cardioversion, celle-ci
+
+430
+00:20:42,570 --> 00:20:45,690
+peut être médicamenteuse ou bien électrique.
+
+431
+00:20:46,330 --> 00:20:49,590
+Médicamenteuse en ayant recours à plusieurs molécules, donc
+
+432
+00:20:49,590 --> 00:20:53,670
+retenez simplement soit la flécaïne, soit l'amiodarone,
+
+433
+00:20:54,170 --> 00:20:56,670
+ou bien on peut faire une cardioversion électrique
+
+434
+00:20:56,670 --> 00:20:58,370
+à l'aide d'un choc électrique externe.
+
+435
+00:20:59,270 --> 00:21:02,830
+Ça, c'est la première méthode pour obtenir
+
+436
+00:21:02,830 --> 00:21:03,870
+un rythme sinusale.
+
+437
+00:21:04,230 --> 00:21:08,110
+Puis, on peut avoir, restaurer le rythme sinusale
+
+438
+00:21:08,110 --> 00:21:10,710
+à l'aide des stratégies ablatives, donc l
+
+439
+00:21:10,710 --> 00:21:15,690
+'ablation par cathéterisme interventionnel de la fibrillation atriale,
+
+440
+00:21:15,690 --> 00:21:19,390
+notamment la FA paroxystique, mais même la FA
+
+441
+00:21:19,390 --> 00:21:24,770
+permanente, ça permet d'avoir dans certaines situations
+
+442
+00:21:24,770 --> 00:21:27,070
+un rythme sinusale.
+
+443
+00:21:27,230 --> 00:21:29,670
+Donc le choc électrique externe qui est un
+
+444
+00:21:29,670 --> 00:21:32,550
+moyen de cardioversion électrique, donc comme vous voyez
+
+445
+00:21:32,550 --> 00:21:35,430
+ici, donc à l'aide d'un défibrillateur
+
+446
+00:21:35,430 --> 00:21:37,430
+qu'on va régler à 200 joules, et
+
+447
+00:21:37,430 --> 00:21:41,930
+on va délivrer un choc qui va restaurer
+
+448
+00:21:41,930 --> 00:21:43,370
+le rythme sinusale.
+
+449
+00:21:43,370 --> 00:21:47,230
+Alors, quand on est devant quelle cardioversion choisir
+
+450
+00:21:47,230 --> 00:21:47,590
+?
+
+451
+00:21:47,590 --> 00:21:51,410
+Électrique, médicamenteuse, donc devant une instabilité hémodynamique, la
+
+452
+00:21:51,410 --> 00:21:52,430
+question ne se pose pas.
+
+453
+00:21:52,670 --> 00:21:55,030
+Toujours le choc électrique externe parce que c
+
+454
+00:21:55,030 --> 00:21:56,230
+'est rapide et c'est urgent.
+
+455
+00:21:56,690 --> 00:21:58,530
+Si le patient est stable, on va proposer
+
+456
+00:21:58,530 --> 00:22:01,910
+une cardioversion médicamenteuse et le choix de la
+
+457
+00:22:01,910 --> 00:22:05,770
+molécule dépendra de l'existence ou non d
+
+458
+00:22:05,770 --> 00:22:08,390
+'une pathologie sous-jacente.
+
+459
+00:22:08,390 --> 00:22:12,490
+Donc la cardioversion médicamenteuse peut aussi préparer une
+
+460
+00:22:12,490 --> 00:22:13,770
+cardioversion électrique.
+
+461
+00:22:14,790 --> 00:22:17,170
+Bien sûr, il faudrait avant de proposer cette
+
+462
+00:22:17,170 --> 00:22:19,290
+cardioversion, donc on parle d'un patient stable,
+
+463
+00:22:19,790 --> 00:22:21,770
+il faudrait qu'on ait des certaines conditions.
+
+464
+00:22:22,750 --> 00:22:25,350
+Il faudrait que le patient soit sous anticoagulation
+
+465
+00:22:25,350 --> 00:22:28,370
+efficace pendant au moins trois semaines ou bien
+
+466
+00:22:28,370 --> 00:22:32,830
+qu'on fasse une échographie trans-osophagienne au
+
+467
+00:22:32,830 --> 00:22:36,910
+préalable pour éliminer la présence d'un thrombus
+
+468
+00:22:36,910 --> 00:22:38,590
+au niveau de l'auricule.
+
+469
+00:22:39,970 --> 00:22:41,150
+Donc, récapitulons.
+
+470
+00:22:41,290 --> 00:22:45,570
+Patient avec instabilité hémodynamique, choc électrique externe d
+
+471
+00:22:45,570 --> 00:22:45,930
+'urgence.
+
+472
+00:22:46,430 --> 00:22:50,690
+Patient stable, je peux proposer une cardioversion médicamenteuse.
+
+473
+00:22:51,390 --> 00:22:53,950
+Je peux proposer d'abord donner des médicaments
+
+474
+00:22:53,950 --> 00:22:55,590
+au départ et si ça ne marche pas,
+
+475
+00:22:55,630 --> 00:22:57,770
+ça va préparer une cardioversion électrique.
+
+476
+00:22:57,770 --> 00:23:00,690
+Mais à une seule condition, il faudrait que
+
+477
+00:23:00,690 --> 00:23:04,010
+le patient soit bien anticoagulé pendant au moins
+
+478
+00:23:04,010 --> 00:23:06,490
+trois semaines ou bien je suis tenu de
+
+479
+00:23:06,490 --> 00:23:10,270
+faire une échographie trans-osophagienne au préalable.
+
+480
+00:23:12,790 --> 00:23:15,950
+Après, toujours dans la stratégie de restauration d
+
+481
+00:23:15,950 --> 00:23:19,070
+'un rythme sinusale, je vous ai parlé des
+
+482
+00:23:19,070 --> 00:23:24,470
+techniques ablatives qui vont ablater tous les circuits
+
+483
+00:23:24,470 --> 00:23:25,190
+anormaux.
+
+484
+00:23:25,190 --> 00:23:29,970
+Quand on a une FA chronique, on a
+
+485
+00:23:29,970 --> 00:23:30,710
+plusieurs foyers.
+
+486
+00:23:30,890 --> 00:23:34,250
+Donc, on fait une cartographie pour identifier où
+
+487
+00:23:34,250 --> 00:23:37,110
+se trouvent les différents foyers anormaux, les foyers
+
+488
+00:23:37,110 --> 00:23:39,970
+ectopiques et on peut les ablater soit à
+
+489
+00:23:39,970 --> 00:23:42,250
+l'aide du chaud par des cathétères qui
+
+490
+00:23:42,250 --> 00:23:44,370
+délivrent de la chaleur ou bien par la
+
+491
+00:23:44,370 --> 00:23:50,030
+cryoablation, par le refroidissement et la congélation de
+
+492
+00:23:50,030 --> 00:23:52,190
+ces tissus anormaux.
+
+493
+00:23:55,380 --> 00:23:57,660
+Maintenant, c'est la deuxième stratégie.
+
+494
+00:23:58,180 --> 00:24:00,860
+Le choix de ralentir ou diminuer la fréquence
+
+495
+00:24:00,860 --> 00:24:03,780
+cardiaque peut se faire soit par les digitalics,
+
+496
+00:24:03,940 --> 00:24:05,600
+soit par les bêtas bloquants, soit par les
+
+497
+00:24:05,600 --> 00:24:07,420
+inhibiteurs calciques bradycardiques.
+
+498
+00:24:08,700 --> 00:24:10,560
+Quelle stratégie je vais choisir ?
+
+499
+00:24:10,560 --> 00:24:12,340
+Ralentir ou réduire ?
+
+500
+00:24:13,200 --> 00:24:15,880
+Sachez que dans les études, les deux stratégies
+
+501
+00:24:15,880 --> 00:24:16,460
+se valent.
+
+502
+00:24:16,540 --> 00:24:18,200
+Bien sûr, on va dire qu'à chaque
+
+503
+00:24:18,200 --> 00:24:19,980
+fois qu'on retrouve un rythme sinusale, c
+
+504
+00:24:19,980 --> 00:24:22,760
+'est mieux pour le patient, pour les différentes
+
+505
+00:24:22,760 --> 00:24:24,860
+raisons parce que c'est physiologique, on va
+
+506
+00:24:24,860 --> 00:24:27,920
+retrouver une systole atriale, ça améliore le remplissage.
+
+507
+00:24:28,340 --> 00:24:30,920
+Mais sachez qu'à long terme, les deux
+
+508
+00:24:30,920 --> 00:24:32,380
+stratégies se valent.
+
+509
+00:24:32,760 --> 00:24:35,200
+Donc le choix dépendra de l'ancienneté de
+
+510
+00:24:35,200 --> 00:24:35,720
+l'arythmie.
+
+511
+00:24:35,920 --> 00:24:38,440
+Plus on est dans une arythmie ancienne, plus
+
+512
+00:24:38,440 --> 00:24:40,380
+on va plus opter pour la ralentir.
+
+513
+00:24:40,780 --> 00:24:42,540
+De la taille de l'oreillette gauche, plus
+
+514
+00:24:42,540 --> 00:24:45,240
+l'oreillette gauche est dilatée, on a moins
+
+515
+00:24:45,240 --> 00:24:47,980
+de chances de restaurer un rythme sinusale, donc
+
+516
+00:24:47,980 --> 00:24:49,360
+on va opter pour ralentir.
+
+517
+00:24:49,860 --> 00:24:51,680
+Et bien sûr, ça dépend de la cardiopathie
+
+518
+00:24:51,680 --> 00:24:52,360
+sous-jacente.
+
+519
+00:24:52,360 --> 00:24:54,460
+Est-ce qu'on a un RM ?
+
+520
+00:24:54,460 --> 00:24:56,440
+Est-ce qu'on a une coronaropathie ?
+
+521
+00:24:56,440 --> 00:24:58,640
+Donc tout dépendra de l'étiologie.
+
+522
+00:25:01,720 --> 00:25:03,480
+Alors, pour le flotteur atrial.
+
+523
+00:25:03,680 --> 00:25:05,700
+Donc le flotteur atrial, quand on a vu
+
+524
+00:25:05,700 --> 00:25:09,060
+la classification des troubles de rythme supraventriculaire, il
+
+525
+00:25:09,060 --> 00:25:14,140
+fait partie des troubles de rythme supraventriculaire à
+
+526
+00:25:14,140 --> 00:25:15,100
+l'étage atrial.
+
+527
+00:25:15,700 --> 00:25:18,040
+Donc c'est un trouble de rythme auriculaire
+
+528
+00:25:18,040 --> 00:25:21,460
+de haute fréquence, généralement entre 240 et 350.
+
+529
+00:25:22,280 --> 00:25:25,240
+Il est régulier, à la différence de la
+
+530
+00:25:25,240 --> 00:25:28,280
+FH, donc il est régulier, il est monomorphe,
+
+531
+00:25:28,520 --> 00:25:31,540
+et il a une réponse ventriculaire variable, le
+
+532
+00:25:31,540 --> 00:25:34,820
+plus souvent 2.1. Donc le mécanisme, c
+
+533
+00:25:34,820 --> 00:25:37,440
+'est un courant de réentrée tournant dans le
+
+534
+00:25:37,440 --> 00:25:39,760
+sens des aiguilles d'une montre autour des
+
+535
+00:25:39,760 --> 00:25:41,860
+structures anatomiques de l'oreillette droite.
+
+536
+00:25:43,980 --> 00:25:47,720
+Donc voici le circuit de réentrée.
+
+537
+00:25:47,720 --> 00:25:50,720
+Donc c'est un circuit typique.
+
+538
+00:25:51,560 --> 00:25:54,540
+Il peut être, normalement, quand il tourne dans
+
+539
+00:25:54,540 --> 00:26:00,160
+le sens horaire, et l'aspect électrique obtenu,
+
+540
+00:26:00,720 --> 00:26:03,760
+on aura des ondes F de flotteur.
+
+541
+00:26:04,640 --> 00:26:05,280
+On va les voir.
+
+542
+00:26:05,760 --> 00:26:08,100
+Cliniquement, on peut avoir tous les signes, comme
+
+543
+00:26:08,100 --> 00:26:12,160
+la FH, palpitations, syncope, asténie, instabilité hémodynamique.
+
+544
+00:26:12,900 --> 00:26:15,340
+Les ondes dont je vous ai parlé, les
+
+545
+00:26:15,340 --> 00:26:18,080
+ondes F de flotteur, elles sont particulières.
+
+546
+00:26:18,480 --> 00:26:21,200
+Elles ont cet aspect en dents de scie,
+
+547
+00:26:21,340 --> 00:26:24,980
+en toit d'usine, constitué de deux phases,
+
+548
+00:26:25,520 --> 00:26:27,420
+une négative et une positive.
+
+549
+00:26:27,620 --> 00:26:32,940
+Elles ont une ligne ascendante rapide, avec un
+
+550
+00:26:32,940 --> 00:26:37,380
+sommet pointu, suivi d'une ligne descendante qui
+
+551
+00:26:37,380 --> 00:26:40,820
+est plus lente, moins rapide, mais qui n
+
+552
+00:26:40,820 --> 00:26:43,560
+'arrive pas à la ligne isoélectrique.
+
+553
+00:26:43,660 --> 00:26:44,300
+C'est particulier.
+
+554
+00:26:44,300 --> 00:26:46,400
+C'est un aspect en dents de scie,
+
+555
+00:26:47,000 --> 00:26:48,560
+comme les dents d'une scie, ou en
+
+556
+00:26:48,560 --> 00:26:52,280
+toit d'usine, avec une conduction souvent deux
+
+557
+00:26:52,280 --> 00:26:55,480
+pour un, c'est-à-dire une qui
+
+558
+00:26:55,480 --> 00:26:57,060
+est conduite et l'autre qui ne conduit
+
+559
+00:26:57,060 --> 00:26:57,280
+pas.
+
+560
+00:26:59,600 --> 00:27:02,060
+Comment je traite tous les troubles de rythme
+
+561
+00:27:02,060 --> 00:27:02,160
+?
+
+562
+00:27:02,160 --> 00:27:03,520
+À chaque fois qu'on a une instabilité
+
+563
+00:27:03,520 --> 00:27:06,140
+hémodynamique, il faut faire le choc électrique externe.
+
+564
+00:27:07,340 --> 00:27:10,680
+On peut réduire par les antiarrhythmiques, et comme
+
+565
+00:27:10,680 --> 00:27:14,280
+on peut proposer des techniques ablatives, soit par
+
+566
+00:27:14,280 --> 00:27:16,180
+le chaud, par le froid, on les a
+
+567
+00:27:16,180 --> 00:27:19,000
+vus dans la FA, pour ablater le circuit
+
+568
+00:27:19,000 --> 00:27:19,620
+de flotter.
+
+569
+00:27:22,710 --> 00:27:24,630
+Tachycardie jonctionnelle, et là encore on est dans
+
+570
+00:27:24,630 --> 00:27:27,970
+les tachycardies à l'étage supraventriculaire.
+
+571
+00:27:28,370 --> 00:27:32,850
+Rappelez-vous, ce sont les tachycardies réciproques, où
+
+572
+00:27:32,850 --> 00:27:36,430
+les deux mécanismes principaux, soit la présence d
+
+573
+00:27:36,430 --> 00:27:40,010
+'une voie accessoire, ici accessory pathway, donc voie
+
+574
+00:27:40,010 --> 00:27:42,790
+accessoire où l'influx va passer à travers
+
+575
+00:27:42,790 --> 00:27:45,890
+la voie accessoire, et non pas par les
+
+576
+00:27:45,890 --> 00:27:48,570
+voies de conduction normales, ou bien on a
+
+577
+00:27:48,570 --> 00:27:53,770
+les tachycardies réciproques par réentrée intra-nodale, avec
+
+578
+00:27:53,770 --> 00:27:59,030
+ce qu'on appelle un macro-réentré, un
+
+579
+00:27:59,030 --> 00:28:00,950
+grand circuit de réentrée.
+
+580
+00:28:03,060 --> 00:28:05,180
+Cliniquement, ça se traduit par des crises de
+
+581
+00:28:05,180 --> 00:28:08,260
+palpitations à début et fin brusque.
+
+582
+00:28:10,880 --> 00:28:12,920
+Il s'agit sur le plan électrique d
+
+583
+00:28:12,920 --> 00:28:16,140
+'une tachycardie, c'est-à-dire ne dépassant
+
+584
+00:28:16,140 --> 00:28:20,340
+pas 120 ms, on ne voit pas d
+
+585
+00:28:20,340 --> 00:28:23,400
+'endes P, donc les endes P sont rétrogrades,
+
+586
+00:28:23,500 --> 00:28:27,260
+c'est-à-dire elles surviennent après les
+
+587
+00:28:27,260 --> 00:28:29,540
+QRS, et elles sont négatives.
+
+588
+00:28:31,200 --> 00:28:34,520
+Le traitement, instabilité hémodermique, toujours choquer le patient,
+
+589
+00:28:34,920 --> 00:28:36,600
+et puis on peut proposer, parce que ce
+
+590
+00:28:36,600 --> 00:28:38,240
+sont des patients qui s'habituent un peu
+
+591
+00:28:38,240 --> 00:28:40,480
+à leurs symptômes, on peut leur proposer les
+
+592
+00:28:40,480 --> 00:28:41,340
+manœuvres vagales.
+
+593
+00:28:41,340 --> 00:28:43,160
+Alors lesquelles ?
+
+594
+00:28:43,160 --> 00:28:45,220
+Qu'est-ce que je peux proposer ?
+
+595
+00:28:45,220 --> 00:28:51,180
+Soit le patient peut exercer une compression au
+
+596
+00:28:51,180 --> 00:28:55,300
+niveau de ses deux globes auriculaires, peut faire
+
+597
+00:28:55,300 --> 00:29:00,300
+la manœuvre de Valsalva, il peut avaler une
+
+598
+00:29:00,300 --> 00:29:04,440
+gorgée d'eau glacée, ou bien on peut
+
+599
+00:29:04,440 --> 00:29:10,100
+faire un massage sino-carotidien pour favoriser la
+
+600
+00:29:10,100 --> 00:29:13,160
+libération d'acétylcholine, et un point très important,
+
+601
+00:29:13,440 --> 00:29:16,320
+avant de faire le massage, toujours au sculpté
+
+602
+00:29:16,320 --> 00:29:17,400
+pour voir s'il n'y a pas
+
+603
+00:29:17,400 --> 00:29:20,260
+de plaques carotidiennes qui risquent de se détacher.
+
+604
+00:29:20,420 --> 00:29:22,480
+Donc je sculpte les carotides, et puis j
+
+605
+00:29:22,480 --> 00:29:26,280
+'exerce une pression bilatérale sur les carotides, de
+
+606
+00:29:26,280 --> 00:29:29,680
+telle sorte à stimuler la libération de l
+
+607
+00:29:29,680 --> 00:29:30,460
+'acétylcholine.
+
+608
+00:29:31,700 --> 00:29:34,740
+Alors les antiarrhythmiques, ça peut être les bêtas
+
+609
+00:29:34,740 --> 00:29:37,220
+bloquants, je peux donner de la flécaïne, et
+
+610
+00:29:37,220 --> 00:29:39,880
+le traitement radical, c'est l'ablation du
+
+611
+00:29:39,880 --> 00:29:43,720
+circuit anormal de réentrée, ou bien de la
+
+612
+00:29:43,720 --> 00:29:47,760
+voix accessoire, quand les cris sont très fréquents.
+
+613
+00:29:48,440 --> 00:29:51,260
+Puis les tachycardies à l'étage ventriculaire, donc
+
+614
+00:29:51,260 --> 00:29:53,800
+on a la TV, la tachycardie ventriculaire, c
+
+615
+00:29:53,800 --> 00:29:56,720
+'est l'accélération de la fréquence ventriculaire par
+
+616
+00:29:56,720 --> 00:29:59,380
+apparition d'un foyer ventriculaire automatique, c'est
+
+617
+00:29:59,380 --> 00:30:02,060
+une urgence médicale, le risque de fibres glaçons
+
+618
+00:30:02,060 --> 00:30:05,260
+ventriculaires, et donc l'arrêt cardiaque est très
+
+619
+00:30:05,260 --> 00:30:05,840
+menaçant.
+
+620
+00:30:05,840 --> 00:30:08,620
+Donc si mal toléré, donc choc électrique externe
+
+621
+00:30:08,620 --> 00:30:09,440
+en toute urgence.
+
+622
+00:30:10,160 --> 00:30:13,140
+L'aspect électrique est comme suit, donc tachycardie,
+
+623
+00:30:13,280 --> 00:30:16,740
+elle est régulière, avec des QRS larges, autour
+
+624
+00:30:16,740 --> 00:30:19,180
+de 180 à 200.
+
+625
+00:30:19,640 --> 00:30:23,300
+La fibrillation ventriculaire par contre, c'est aussi
+
+626
+00:30:23,300 --> 00:30:25,640
+une urgence extrême, il faut choquer quand on
+
+627
+00:30:25,640 --> 00:30:28,800
+a cet aspect-là, elle a des aspects
+
+628
+00:30:28,800 --> 00:30:32,560
+de QRS larges, mais qui sont irréguliers.
+
+629
+00:30:36,700 --> 00:30:38,560
+On a aussi dans les troubles de rythme,
+
+630
+00:30:38,560 --> 00:30:42,080
+on a les extracistoles, on a les extracistoles
+
+631
+00:30:42,080 --> 00:30:44,940
+qui est une excitation, par définition une excitation
+
+632
+00:30:44,940 --> 00:30:48,620
+prématurée, donc on va avoir un rythme régulier,
+
+633
+00:30:48,860 --> 00:30:51,480
+sinusale, et par moment, on aura un aspect
+
+634
+00:30:51,480 --> 00:30:55,040
+de battement prématuré, comme celui-ci.
+
+635
+00:30:55,480 --> 00:30:57,900
+Donc quand il est fin, donc vous retenez
+
+636
+00:30:57,900 --> 00:30:59,600
+la règle générale, après il y a les
+
+637
+00:30:59,600 --> 00:31:02,920
+finesses de l'interprétation, quand on a un
+
+638
+00:31:02,920 --> 00:31:05,580
+battement prématuré à QRS fin, c'est une
+
+639
+00:31:05,580 --> 00:31:08,980
+extracistole ventriculaire, et quand on a un battement
+
+640
+00:31:08,980 --> 00:31:12,740
+prématuré à QRS large, c'est une extracistole
+
+641
+00:31:12,740 --> 00:31:14,100
+ventriculaire.

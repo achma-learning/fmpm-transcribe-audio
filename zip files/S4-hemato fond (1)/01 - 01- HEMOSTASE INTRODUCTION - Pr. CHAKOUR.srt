@@ -1,0 +1,2575 @@
+1
+00:00:00,980 --> 00:00:04,560
+Bonjour, je m'appelle professeur Chakour, je suis
+
+2
+00:00:04,560 --> 00:00:06,800
+professeur d'hématologie et chef de service d
+
+3
+00:00:06,800 --> 00:00:07,360
+'hématologie.
+
+4
+00:00:09,200 --> 00:00:13,780
+Nous allons démarrer l'hématologie qui comprend trois
+
+5
+00:00:13,780 --> 00:00:15,180
+grands chapitres.
+
+6
+00:00:15,960 --> 00:00:17,380
+Le premier, c'est les moustades.
+
+7
+00:00:18,940 --> 00:00:21,560
+Les deux autres chapitres seront enseignés par deux
+
+8
+00:00:21,560 --> 00:00:22,340
+autres enseignants.
+
+9
+00:00:22,860 --> 00:00:26,960
+Ce sera l'hématologie cellulaire et l'immunohématologie
+
+10
+00:00:26,960 --> 00:00:27,840
+ou transfusion.
+
+11
+00:00:28,780 --> 00:00:33,960
+Nous allons commencer par le premier chapitre, c
+
+12
+00:00:33,960 --> 00:00:35,020
+'est-à-dire les moustades.
+
+13
+00:00:36,240 --> 00:00:40,620
+Nous allons voir qu'il comprend trois grands
+
+14
+00:00:40,620 --> 00:00:41,140
+chapitres.
+
+15
+00:00:41,280 --> 00:00:45,220
+Les moustades primaires, la coagulation et la fibrinolyse.
+
+16
+00:00:46,340 --> 00:00:50,040
+Mais nous allons y associer deux petits chapitres
+
+17
+00:00:50,040 --> 00:00:54,100
+pour introduire, étudier correctement ce qu'on appelle
+
+18
+00:00:54,100 --> 00:01:00,300
+la phase préanalytique et enfin terminer par la
+
+19
+00:01:00,300 --> 00:01:02,360
+surveillance des traitements anticoagulants.
+
+20
+00:01:04,500 --> 00:01:06,320
+Donc, quels sont les objectifs de ce cours
+
+21
+00:01:06,320 --> 00:01:06,690
+?
+
+22
+00:01:07,680 --> 00:01:09,480
+Il faut connaître ces objectifs.
+
+23
+00:01:10,700 --> 00:01:13,320
+Tout d'abord, connaître ce qu'on appelle
+
+24
+00:01:13,320 --> 00:01:15,300
+la phase préanalytique en hémostase.
+
+25
+00:01:15,880 --> 00:01:19,180
+Cette phase préanalytique est primordiale.
+
+26
+00:01:19,700 --> 00:01:22,780
+Au laboratoire, nous avons l'habitude de partager
+
+27
+00:01:22,780 --> 00:01:24,380
+notre travail en trois étapes.
+
+28
+00:01:24,380 --> 00:01:29,320
+La phase préanalytique, depuis l'indication du bilan
+
+29
+00:01:29,320 --> 00:01:31,740
+jusqu'à l'arrivée au laboratoire.
+
+30
+00:01:32,600 --> 00:01:36,680
+Ensuite, la phase analytique qui comprend l'analyse,
+
+31
+00:01:37,100 --> 00:01:38,280
+c'est-à-dire on réalise l'analyse
+
+32
+00:01:38,280 --> 00:01:40,720
+soit manuellement, soit sur automate.
+
+33
+00:01:41,720 --> 00:01:46,140
+Et enfin, la phase préanalytique de validation et
+
+34
+00:01:46,140 --> 00:01:47,680
+de signature de l'examen.
+
+35
+00:01:48,200 --> 00:01:51,380
+Cette phase préanalytique est primordiale en hémostase car
+
+36
+00:01:51,380 --> 00:01:54,920
+70% des anomalies ou des erreurs qui
+
+37
+00:01:54,920 --> 00:01:59,820
+surviennent sont en rapport avec le non-respect
+
+38
+00:01:59,820 --> 00:02:02,380
+des règles de la phase préanalytique.
+
+39
+00:02:03,180 --> 00:02:06,480
+Donc, nous allons étudier un petit chapitre concernant
+
+40
+00:02:06,480 --> 00:02:07,919
+cette phase préanalytique.
+
+41
+00:02:09,340 --> 00:02:12,540
+Ensuite, nous allons voir l'hémostase primaire.
+
+42
+00:02:12,640 --> 00:02:15,000
+L'objectif, c'est de connaître sa physiopathologie
+
+43
+00:02:15,000 --> 00:02:16,260
+et son exploration.
+
+44
+00:02:16,260 --> 00:02:19,420
+Un autre chapitre qui s'appelle la coagulation,
+
+45
+00:02:19,820 --> 00:02:21,620
+physiologie et exploration.
+
+46
+00:02:22,800 --> 00:02:26,520
+La fibrinolyse, connaître la physiologie et son exploration.
+
+47
+00:02:27,140 --> 00:02:31,700
+Et enfin, comment surveiller les traitements anticoagulants.
+
+48
+00:02:32,280 --> 00:02:33,520
+C'est-à-dire quand on donne un
+
+49
+00:02:33,520 --> 00:02:36,280
+traitement au patient, il faut le surveiller, notamment
+
+50
+00:02:36,280 --> 00:02:39,580
+par les hiparines et les antivitamines K, pour
+
+51
+00:02:39,580 --> 00:02:44,240
+connaître l'efficacité et aussi détecter les intolérances.
+
+52
+00:02:46,320 --> 00:02:53,880
+Tout chapitre ou tout enseignement, on n'arrivera
+
+53
+00:02:53,880 --> 00:02:55,680
+jamais à l'assimiler si on ne connaît
+
+54
+00:02:55,680 --> 00:02:56,980
+pas l'intérêt.
+
+55
+00:02:57,420 --> 00:02:59,140
+Pourquoi est-ce qu'on étudie ?
+
+56
+00:02:59,140 --> 00:03:02,580
+On étudie ce chapitre ou ces chapitres.
+
+57
+00:03:03,200 --> 00:03:08,160
+Donc, pour l'hémostase, c'est la fréquence
+
+58
+00:03:08,160 --> 00:03:10,300
+des hémorragies, la fréquence des thromboses.
+
+59
+00:03:10,780 --> 00:03:12,080
+C'est-à-dire qui n'a pas
+
+60
+00:03:12,080 --> 00:03:14,360
+eu affaire à des hémorragies.
+
+61
+00:03:14,360 --> 00:03:16,620
+C'est-à-dire des gens qui saignent
+
+62
+00:03:16,620 --> 00:03:20,620
+après un traumatisme, après un accident de la
+
+63
+00:03:20,620 --> 00:03:24,460
+voie publique, c'est-à-dire une agression
+
+64
+00:03:24,460 --> 00:03:25,760
+en temps de guerre.
+
+65
+00:03:26,240 --> 00:03:29,080
+Donc là, le corps va réagir pour arrêter
+
+66
+00:03:29,080 --> 00:03:29,880
+ces saignements.
+
+67
+00:03:30,980 --> 00:03:33,200
+Sinon, la déperdession du sang risque d'être
+
+68
+00:03:33,200 --> 00:03:34,600
+fatale ou malade.
+
+69
+00:03:35,320 --> 00:03:37,500
+Mais aussi les thromboses.
+
+70
+00:03:37,800 --> 00:03:40,740
+Les thromboses, c'est quand le sang coagule
+
+71
+00:03:40,740 --> 00:03:43,380
+dans une artère ou dans une veine.
+
+72
+00:03:43,380 --> 00:03:45,920
+Il va la boucher soit partiellement, soit totalement.
+
+73
+00:03:46,760 --> 00:03:47,900
+Et c'est une catastrophe.
+
+74
+00:03:48,520 --> 00:03:54,060
+Donc, il faut connaître l'hémostase pour mieux
+
+75
+00:03:54,060 --> 00:03:56,580
+gérer ces hémorragies et ces thromboses.
+
+76
+00:03:57,300 --> 00:03:59,660
+Donc, la gravité de ces pathologies, puisqu'elles
+
+77
+00:03:59,660 --> 00:04:03,200
+peuvent entraîner le pronostic, soit fonctionnel d'un
+
+78
+00:04:03,200 --> 00:04:07,140
+organe, ou même le pronostic vital du patient,
+
+79
+00:04:08,680 --> 00:04:10,860
+d'où le rôle primordial du laboratoire.
+
+80
+00:04:10,860 --> 00:04:14,880
+C'est-à-dire qu'il va intervenir
+
+81
+00:04:14,880 --> 00:04:17,820
+dans la prévention de ces hémorragies.
+
+82
+00:04:19,200 --> 00:04:22,340
+Quand on a ces hémorragies, comment faire le
+
+83
+00:04:22,340 --> 00:04:24,260
+diagnostic ?
+
+84
+00:04:24,260 --> 00:04:26,560
+C'est-à-dire avec le minimum de
+
+85
+00:04:26,560 --> 00:04:29,860
+moyens et un grand bénéfice.
+
+86
+00:04:31,680 --> 00:04:35,320
+Et aussi, il va intervenir dans la surveillance
+
+87
+00:04:35,320 --> 00:04:37,860
+des traitements anticoagulants.
+
+88
+00:04:41,650 --> 00:04:44,790
+Tout d'abord, comment définir l'hémostase ?
+
+89
+00:04:44,790 --> 00:04:47,430
+L'hémostase est défini comme l'ensemble des
+
+90
+00:04:47,430 --> 00:04:54,690
+processus physiologiques intervenants dans la prévention et l
+
+91
+00:04:54,690 --> 00:04:59,430
+'arrêt de l'hémorragie, mais aussi le maintien
+
+92
+00:04:59,430 --> 00:05:02,810
+à l'état fluide du sang à l
+
+93
+00:05:02,810 --> 00:05:03,750
+'intérieur du vaisseau.
+
+94
+00:05:04,470 --> 00:05:06,510
+Donc, la définition est double.
+
+95
+00:05:07,130 --> 00:05:09,250
+Tout d'abord, en cas de lésion, en
+
+96
+00:05:09,250 --> 00:05:12,990
+cas de breche au niveau d'un vaisseau,
+
+97
+00:05:13,630 --> 00:05:16,370
+l'hémostase va intervenir pour arrêter l'hémorragie,
+
+98
+00:05:17,170 --> 00:05:21,170
+pour éviter l'extériorisation du sang, l'extravasation,
+
+99
+00:05:21,890 --> 00:05:22,970
+une perte de sang.
+
+100
+00:05:23,390 --> 00:05:28,780
+Mais aussi, il a un rôle primordial dans
+
+101
+00:05:28,780 --> 00:05:30,760
+le maintien de la fluidité du sang.
+
+102
+00:05:30,860 --> 00:05:33,960
+Donc, le sang doit couler à l'intérieur
+
+103
+00:05:33,960 --> 00:05:35,260
+du vaisseau sans coaguler.
+
+104
+00:05:35,260 --> 00:05:38,980
+Donc, c'est un rôle double primordial.
+
+105
+00:05:41,460 --> 00:05:45,240
+Cette hémostase comprend trois étapes, qu'on appelle
+
+106
+00:05:45,240 --> 00:05:49,100
+l'hémostase primaire, l'hémostase secondaire ou la
+
+107
+00:05:49,100 --> 00:05:51,200
+coagulation, et la fibrinolyse.
+
+108
+00:05:52,000 --> 00:05:57,220
+L'hémostase primaire va entraîner ce qu'on
+
+109
+00:05:57,220 --> 00:05:59,960
+appelle l'agrégation plaquettaire et la formation d
+
+110
+00:05:59,960 --> 00:06:00,880
+'un clou plaquetaire.
+
+111
+00:06:01,080 --> 00:06:03,180
+C'est la première étape qui va essayer
+
+112
+00:06:03,180 --> 00:06:04,900
+d'arrêter le saignement.
+
+113
+00:06:04,900 --> 00:06:09,920
+Il sera ensuite consolidé par la coagulation grâce
+
+114
+00:06:09,920 --> 00:06:12,000
+à la formation d'un réseau de fibrines
+
+115
+00:06:12,000 --> 00:06:16,420
+avec formation du caillot rouge solide qui va
+
+116
+00:06:16,420 --> 00:06:18,460
+maintenir pendant quelques jours le temps de la
+
+117
+00:06:18,460 --> 00:06:19,220
+cicatrisation.
+
+118
+00:06:20,200 --> 00:06:23,860
+Et enfin arrive la fibrinolyse qui va entraîner
+
+119
+00:06:23,860 --> 00:06:25,440
+la dissolution du caillot, c'est-à-dire
+
+120
+00:06:25,440 --> 00:06:30,220
+après cicatrisation, ce caillot doit disparaître et le
+
+121
+00:06:30,220 --> 00:06:31,960
+retour à la circulation normale.
+
+122
+00:06:31,960 --> 00:06:34,540
+Ce sont les trois étapes de l'hémostase.
+
+123
+00:06:37,440 --> 00:06:40,540
+Pour mieux assimiler cette hémostase, c'est-à
+
+124
+00:06:40,540 --> 00:06:42,880
+-dire son exploration, on doit quand même faire
+
+125
+00:06:42,880 --> 00:06:45,600
+un petit rappel sur la simiologie des hémorragies
+
+126
+00:06:45,600 --> 00:06:48,460
+et la simiologie des thromboses.
+
+127
+00:06:49,240 --> 00:06:52,860
+Je ne vais pas vous parler directement des
+
+128
+00:06:52,860 --> 00:06:56,440
+explorations biologiques au laboratoire si vous ne connaissez
+
+129
+00:06:56,440 --> 00:06:59,560
+pas qu'ils sont les principaux signes qui
+
+130
+00:06:59,560 --> 00:07:03,020
+vont attirer l'attention soit du malade, soit
+
+131
+00:07:03,020 --> 00:07:05,880
+du médecin pour réaliser des bilans ensuite.
+
+132
+00:07:06,620 --> 00:07:11,020
+Concernant la simiologie des maladies hémorragiques, tout d
+
+133
+00:07:11,020 --> 00:07:13,980
+'abord un petit rappel physiopathologique.
+
+134
+00:07:15,260 --> 00:07:17,600
+Qu'est-ce qui peut entraîner les saignements
+
+135
+00:07:17,600 --> 00:07:18,760
+?
+
+136
+00:07:18,760 --> 00:07:20,980
+C'est l'atteinte de l'hémostase primaire,
+
+137
+00:07:21,300 --> 00:07:23,060
+l'atteinte de la coagulation, l'atteinte de
+
+138
+00:07:23,060 --> 00:07:24,920
+la fibrinolyse, c'est-à-dire l'atteinte
+
+139
+00:07:24,920 --> 00:07:27,060
+d'une de ces étapes ou l'atteinte
+
+140
+00:07:27,060 --> 00:07:29,580
+de ces deux ou trois étapes risque d
+
+141
+00:07:29,580 --> 00:07:33,300
+'entraîner des hémorragies, donc des pertes sanguines.
+
+142
+00:07:35,400 --> 00:07:38,920
+Et là, il faut qu'il y ait
+
+143
+00:07:38,920 --> 00:07:46,020
+un équilibre entre l'hémostase primaire, la coagulation,
+
+144
+00:07:46,640 --> 00:07:51,800
+qui va former un caillot pour boucher la
+
+145
+00:07:51,800 --> 00:07:55,100
+brèche sanguine d'eau sur le sang à
+
+146
+00:07:55,100 --> 00:07:59,400
+l'extérieur, et la dernière phase qui va
+
+147
+00:07:59,400 --> 00:08:02,340
+dissoudre ce caillot qu'on appelle la fibrinolyse.
+
+148
+00:08:02,700 --> 00:08:05,960
+Donc chacune doit arriver à un moment opportun,
+
+149
+00:08:07,000 --> 00:08:08,680
+sinon, c'est-à-dire par exemple, si
+
+150
+00:08:08,680 --> 00:08:14,020
+la fibrinolyse survient précocement, le patient risque de
+
+151
+00:08:14,020 --> 00:08:14,700
+saigner à nous.
+
+152
+00:08:15,200 --> 00:08:16,200
+Donc il faut qu'il y ait un
+
+153
+00:08:16,200 --> 00:08:20,220
+équilibre entre ces deux premières étapes et la
+
+154
+00:08:20,220 --> 00:08:22,960
+dernière étape qui s'appelle la fibrinolyse.
+
+155
+00:08:24,910 --> 00:08:29,290
+Quelles sont les principales manifestations de ces syndromes
+
+156
+00:08:29,290 --> 00:08:30,750
+hémorragiques ?
+
+157
+00:08:30,750 --> 00:08:31,610
+On va les voir.
+
+158
+00:08:32,530 --> 00:08:36,169
+D'emblée, je vous dis que c'est
+
+159
+00:08:36,169 --> 00:08:36,269
+court.
+
+160
+00:08:36,890 --> 00:08:39,350
+Quand le patient arrive chez le médecin, chez
+
+161
+00:08:39,350 --> 00:08:42,870
+le clinicien, pour se plaindre d'une pathologie
+
+162
+00:08:42,870 --> 00:08:45,850
+ou d'un signe clinique, l'examen de
+
+163
+00:08:45,850 --> 00:08:48,810
+ce patient va passer par trois étapes.
+
+164
+00:08:49,590 --> 00:08:51,890
+Un, le premier, c'est l'interrogatoire.
+
+165
+00:08:51,890 --> 00:08:58,370
+Donc le médecin va demander au clinicien, c
+
+166
+00:08:58,370 --> 00:08:59,950
+'est-à-dire le clinicien va demander au
+
+167
+00:08:59,950 --> 00:09:02,410
+patient, c'est-à-dire de lui raconter,
+
+168
+00:09:02,590 --> 00:09:04,150
+de lui parler de sa pathologie.
+
+169
+00:09:05,090 --> 00:09:06,570
+Il faut qu'il lui explique.
+
+170
+00:09:07,150 --> 00:09:12,870
+Ensuite, le clinicien peut demander des explications plus
+
+171
+00:09:12,870 --> 00:09:17,670
+précises, poser des questions, c'est-à-dire
+
+172
+00:09:17,670 --> 00:09:21,290
+qui vont au but pour éclaircir la situation.
+
+173
+00:09:21,290 --> 00:09:25,370
+Après tout ça, le médecin va faire un
+
+174
+00:09:25,370 --> 00:09:27,110
+examen clinique, c'est-à-dire il va
+
+175
+00:09:27,110 --> 00:09:32,390
+déshabiller le patient et il va examiner l
+
+176
+00:09:32,390 --> 00:09:34,870
+'organe lisé ou la partie lisée du corps
+
+177
+00:09:34,870 --> 00:09:38,130
+et ensuite compléter par un examen général.
+
+178
+00:09:39,210 --> 00:09:42,530
+Et en fonction des éléments donnés fournis par
+
+179
+00:09:42,530 --> 00:09:45,430
+l'interrogatoire et l'examen clinique, le clinicien
+
+180
+00:09:45,430 --> 00:09:52,950
+va prescrire des bilans biologiques pour connaître le
+
+181
+00:09:52,950 --> 00:09:54,650
+diagnostic et affiner le diagnostic.
+
+182
+00:09:55,450 --> 00:10:00,050
+Donc ces éléments vont nous orienter et dire
+
+183
+00:10:00,050 --> 00:10:04,230
+si la maladie est congénitale ou acquise, c
+
+184
+00:10:04,230 --> 00:10:05,370
+'est-à-dire congénitale, est-ce qu'elle
+
+185
+00:10:05,370 --> 00:10:08,310
+est héréditaire ou non, ou acquise au cours
+
+186
+00:10:08,310 --> 00:10:10,710
+de l'évolution avec l'âge.
+
+187
+00:10:12,490 --> 00:10:15,370
+Si la pathologie est aiguë ou chronique, c
+
+188
+00:10:15,370 --> 00:10:17,730
+'est-à-dire la pathologie est apparue à
+
+189
+00:10:17,730 --> 00:10:22,550
+un moment précis, brusquement, ou chronique, c'est
+
+190
+00:10:22,550 --> 00:10:24,350
+-à-dire elle évolue depuis des années, des
+
+191
+00:10:24,350 --> 00:10:27,190
+mois, depuis la naissance, donc c'est la
+
+192
+00:10:27,190 --> 00:10:27,770
+chronicité.
+
+193
+00:10:28,790 --> 00:10:33,230
+Et donc là plusieurs questions doivent être posées
+
+194
+00:10:33,230 --> 00:10:36,270
+aux patients et éclaircir le mode d'apparition.
+
+195
+00:10:37,550 --> 00:10:39,070
+Est-ce que c'est ancien, c'est
+
+196
+00:10:39,070 --> 00:10:44,120
+récent, aigu, chronique, modéré ?
+
+197
+00:10:44,120 --> 00:10:48,380
+Donc le mode d'apparition de cette pathologie,
+
+198
+00:10:49,280 --> 00:10:53,560
+ensuite les localisations, où, par exemple, puisqu'on
+
+199
+00:10:53,560 --> 00:10:55,380
+parle d'hémorragie, est-ce qu'elles sont
+
+200
+00:10:55,380 --> 00:10:58,700
+localisées au niveau d'un seul endroit ou
+
+201
+00:10:58,700 --> 00:11:02,440
+de plusieurs endroits, l'aspect clinique de ces
+
+202
+00:11:02,440 --> 00:11:06,500
+lésions ou de ces saignements, le caractère récidivant,
+
+203
+00:11:06,980 --> 00:11:08,700
+c'est-à-dire est-ce que le
+
+204
+00:11:08,700 --> 00:11:10,880
+patient a eu un seul épisode de ces
+
+205
+00:11:10,880 --> 00:11:13,420
+saignements cliniques, ou est-ce que ça a
+
+206
+00:11:13,420 --> 00:11:14,880
+récidivé, c'est-à-dire il y a
+
+207
+00:11:14,880 --> 00:11:17,540
+eu d'autres étapes, c'est-à-dire
+
+208
+00:11:17,540 --> 00:11:19,740
+le patient a présenté les mêmes signes ou
+
+209
+00:11:19,740 --> 00:11:21,680
+les mêmes soucis de santé avant.
+
+210
+00:11:22,520 --> 00:11:26,740
+Enfin, sans guérir, du fait, est-ce que
+
+211
+00:11:26,740 --> 00:11:29,460
+l'anomalie, est-ce qu'on a les
+
+212
+00:11:29,460 --> 00:11:32,380
+mêmes anomalies, les mêmes signes dans la famille,
+
+213
+00:11:32,860 --> 00:11:37,440
+et donc cela va nous orienter vers un
+
+214
+00:11:37,440 --> 00:11:40,560
+problème familial, un problème congénital.
+
+215
+00:11:40,560 --> 00:11:48,460
+Donc, cet interrogatoire, il aura comme but, c
+
+216
+00:11:48,460 --> 00:11:54,820
+'est de savoir si l'hémorragie était très
+
+217
+00:11:54,820 --> 00:11:58,320
+précoce, dès la chute de l'ombilique, après
+
+218
+00:11:58,320 --> 00:12:00,460
+la naissance, 3-4 jours, il y a
+
+219
+00:12:00,460 --> 00:12:02,740
+eu des hémorragies, ça oriente vers certaines pathologies.
+
+220
+00:12:03,900 --> 00:12:07,960
+Est-ce que le saignement concerne plusieurs territoires,
+
+221
+00:12:08,960 --> 00:12:10,160
+et ça c'est important, c'est-à
+
+222
+00:12:10,160 --> 00:12:13,420
+-dire, quand on a un traumatisme, souvent c
+
+223
+00:12:13,420 --> 00:12:15,320
+'est local, quand il s'agit d'une
+
+224
+00:12:15,320 --> 00:12:18,360
+atteinte d'hémostase primaire, souvent c'est plusieurs
+
+225
+00:12:18,360 --> 00:12:18,980
+territoires.
+
+226
+00:12:20,040 --> 00:12:21,740
+Les antécédents de saignements, c'est-à-dire,
+
+227
+00:12:21,920 --> 00:12:22,960
+vous allez dire, est-ce que c'est
+
+228
+00:12:22,960 --> 00:12:25,180
+le premier saignement, et où est-ce que
+
+229
+00:12:25,180 --> 00:12:27,940
+vous avez eu des saignements avant.
+
+230
+00:12:28,920 --> 00:12:31,780
+Bien sûr, l'hémorragie, est-ce qu'elle
+
+231
+00:12:31,780 --> 00:12:34,220
+est réglementaire au muqueuse, c'est-à-dire,
+
+232
+00:12:34,340 --> 00:12:35,520
+est-ce que c'est sur la peau,
+
+233
+00:12:35,520 --> 00:12:39,840
+ou au niveau des muqueuses digestives ou génitales,
+
+234
+00:12:42,080 --> 00:12:44,300
+est-ce qu'elles sont fréquentes, donc la
+
+235
+00:12:44,300 --> 00:12:48,460
+fréquence ou l'apparition de ces étymoses sont
+
+236
+00:12:48,460 --> 00:12:50,860
+causes apparentes, c'est très important, c'est
+
+237
+00:12:50,860 --> 00:12:52,180
+-à-dire, quand le patient a un problème
+
+238
+00:12:52,180 --> 00:12:56,380
+d'hémostase, il va avoir des saignements sans
+
+239
+00:12:56,380 --> 00:13:00,920
+traumatisme, sans blessure, sans qu'il y ait
+
+240
+00:13:00,920 --> 00:13:03,280
+un coup de poing, sans qu'il y
+
+241
+00:13:03,280 --> 00:13:07,120
+ait un traumatisme, c'est-à-dire, il
+
+242
+00:13:07,120 --> 00:13:09,420
+y a des saignements, donc ça attire l
+
+243
+00:13:09,420 --> 00:13:11,460
+'attention vers l'hémostase.
+
+244
+00:13:11,820 --> 00:13:15,980
+La notion de transfusion sanguine aussi, c'est
+
+245
+00:13:15,980 --> 00:13:18,940
+-à-dire, souvent, on ne passe pas les
+
+246
+00:13:18,940 --> 00:13:21,120
+leçons à quelqu'un s'il n'a
+
+247
+00:13:21,120 --> 00:13:23,520
+pas d'anémie profonde, et donc si le
+
+248
+00:13:23,520 --> 00:13:25,920
+patient vous dit que j'ai été transfusé,
+
+249
+00:13:26,040 --> 00:13:29,420
+il faut se méfier et penser à des
+
+250
+00:13:29,420 --> 00:13:30,340
+problèmes d'hémostase.
+
+251
+00:13:31,360 --> 00:13:34,000
+Un autre élément, c'est-à-dire, quand
+
+252
+00:13:34,000 --> 00:13:36,420
+on fait une ponction veineuse, une injection, souvent
+
+253
+00:13:36,420 --> 00:13:37,820
+le sang s'arrête et c'est fini,
+
+254
+00:13:38,340 --> 00:13:40,700
+mais si le patient commence à saigner au
+
+255
+00:13:40,700 --> 00:13:43,020
+niveau du point d'injection ou de la
+
+256
+00:13:43,020 --> 00:13:46,840
+ponction veineuse 15 minutes après, ça doit attirer
+
+257
+00:13:46,840 --> 00:13:48,720
+notre attention vers un souci d'hémostase.
+
+258
+00:13:50,260 --> 00:13:52,120
+La notion d'une anémie survenant après un
+
+259
+00:13:52,120 --> 00:13:54,440
+saignement, souvent quand on a un saignement minime,
+
+260
+00:13:55,060 --> 00:13:56,960
+ça n'entraîne pas d'anémie, mais par
+
+261
+00:13:56,960 --> 00:14:00,080
+contre, quand le saignement est récidivant et fréquent,
+
+262
+00:14:00,760 --> 00:14:03,220
+on peut avoir une anémie, donc il faut
+
+263
+00:14:03,220 --> 00:14:06,040
+être précis au niveau de ce point.
+
+264
+00:14:11,210 --> 00:14:13,430
+Après l'interrogatoire, bien sûr, il faut passer
+
+265
+00:14:13,430 --> 00:14:16,430
+à l'examen clinique, et donc là, pour
+
+266
+00:14:16,430 --> 00:14:20,850
+l'examen clinique, il faut bien être précis,
+
+267
+00:14:21,070 --> 00:14:21,810
+c'est-à-dire, comme j'ai dit,
+
+268
+00:14:21,890 --> 00:14:26,830
+il faut examiner là où le patient se
+
+269
+00:14:26,830 --> 00:14:27,990
+plaint, c'est-à-dire, il va vous
+
+270
+00:14:27,990 --> 00:14:31,770
+signaler une lésion, mais bien sûr, complété par
+
+271
+00:14:31,770 --> 00:14:34,430
+l'examen complet du malade, et donc là,
+
+272
+00:14:34,670 --> 00:14:36,270
+on aura plusieurs types de saignements.
+
+273
+00:14:36,950 --> 00:14:39,910
+Un, il faut voir si le saignement est
+
+274
+00:14:39,910 --> 00:14:41,430
+externe ou profond.
+
+275
+00:14:42,090 --> 00:14:46,470
+Pour les saignements externes, ils sont cutaneaux muqueux,
+
+276
+00:14:46,630 --> 00:14:49,730
+donc ils touchent la peau ou les muqueuses,
+
+277
+00:14:50,470 --> 00:14:52,850
+donc ils traduisent toujours une anomalie d'hémostase
+
+278
+00:14:52,850 --> 00:14:53,330
+primaire.
+
+279
+00:14:54,710 --> 00:14:57,490
+Donc faites attention, quand vous avez des saignements
+
+280
+00:14:57,490 --> 00:15:00,450
+cutaneaux muqueux, pensez à l'atteinte d'hémostase
+
+281
+00:15:00,450 --> 00:15:00,970
+primaire.
+
+282
+00:15:01,750 --> 00:15:03,650
+Par contre, et là, on va donner des
+
+283
+00:15:03,650 --> 00:15:08,650
+exemples, exemple, les saignements cutaneaux muqueux, l'exemple,
+
+284
+00:15:08,770 --> 00:15:11,050
+c'est le purpura, c'est des éruptions
+
+285
+00:15:11,050 --> 00:15:14,630
+spontanées faites de tâches hémorragiques, ne s'effaçons
+
+286
+00:15:14,630 --> 00:15:17,330
+pas à la vitre pression, donc ils correspondent
+
+287
+00:15:17,330 --> 00:15:19,670
+à une extravasation de sang au niveau du
+
+288
+00:15:19,670 --> 00:15:22,950
+tissu cutané, et donc ils réalisent plusieurs types,
+
+289
+00:15:23,050 --> 00:15:25,010
+on va voir les images après, des pétéchies,
+
+290
+00:15:25,190 --> 00:15:28,410
+petites macules rouges, pourpres, nombreuses, de taille d
+
+291
+00:15:28,410 --> 00:15:31,270
+'une épingle, d'une tête d'épingle, et
+
+292
+00:15:31,270 --> 00:15:35,310
+là, vous voyez, là, on voit sur l
+
+293
+00:15:35,310 --> 00:15:40,210
+'image, les pétéchies, c'est-à-dire ces
+
+294
+00:15:40,210 --> 00:15:43,090
+petites tâches, ça signifie qu'il y a
+
+295
+00:15:43,090 --> 00:15:46,110
+eu une extravasation du sang en dehors des
+
+296
+00:15:46,110 --> 00:15:48,630
+vaisseaux, des petits vaisseaux, et donc il faut
+
+297
+00:15:48,630 --> 00:15:51,890
+penser à l'atteinte de l'hémostase primaire.
+
+298
+00:15:52,990 --> 00:15:56,230
+Ensuite, ils peuvent se traduire par des éclimoses
+
+299
+00:15:57,110 --> 00:16:00,270
+sous forme de placards de taille variable, et
+
+300
+00:16:00,270 --> 00:16:03,150
+donc là, c'est des éclimoses, là, c
+
+301
+00:16:03,150 --> 00:16:06,530
+'est au niveau soleil, périorbitaire, ou au niveau
+
+302
+00:16:06,530 --> 00:16:10,070
+des jambes inférieures, donc ces placards, ils sont
+
+303
+00:16:10,070 --> 00:16:12,290
+nombreux, vous voyez, donc ce n'est pas
+
+304
+00:16:12,290 --> 00:16:15,250
+un petit traumatisme local, donc il faut faire
+
+305
+00:16:15,250 --> 00:16:18,550
+attention et penser à l'atteinte de l
+
+306
+00:16:18,550 --> 00:16:19,130
+'hémostase primaire.
+
+307
+00:16:19,130 --> 00:16:23,290
+L'examen des muqueuses après la peau, donc
+
+308
+00:16:23,290 --> 00:16:26,570
+les muqueuses, vous connaissez déjà la majorité de
+
+309
+00:16:26,570 --> 00:16:28,890
+ces saignements, c'est-à-dire le patient
+
+310
+00:16:28,890 --> 00:16:32,750
+qui a des épistaxis à répétition, épistaxis, c
+
+311
+00:16:32,750 --> 00:16:36,350
+'est des saignements de la muqueuse nasale, des
+
+312
+00:16:36,350 --> 00:16:39,170
+gingivorragies, c'est-à-dire des saignements des
+
+313
+00:16:39,170 --> 00:16:41,430
+gencives, et donc ce n'est pas à
+
+314
+00:16:41,430 --> 00:16:46,010
+cause de petits, de petits, quand on se
+
+315
+00:16:46,010 --> 00:16:48,510
+brosse, parfois, on a des petits saignements, mais
+
+316
+00:16:48,510 --> 00:16:50,210
+pour le patient qui a des problèmes de
+
+317
+00:16:50,210 --> 00:16:54,130
+moustache primaire, il aura des saignements graves, c
+
+318
+00:16:54,130 --> 00:16:57,190
+'est-à-dire des saignements inadaptés avec ce
+
+319
+00:16:57,190 --> 00:16:58,770
+brossage, c'est-à-dire c'est plus
+
+320
+00:16:58,770 --> 00:16:59,550
+grave que ça.
+
+321
+00:17:00,250 --> 00:17:03,290
+Des hémoptisies, c'est des saignements qui proviennent
+
+322
+00:17:03,290 --> 00:17:05,349
+du thorax, c'est-à-dire après un
+
+323
+00:17:05,349 --> 00:17:07,390
+effort de tout, le patient commence à cracher
+
+324
+00:17:07,390 --> 00:17:10,750
+du sang, des saignements de la muqueuse digestive,
+
+325
+00:17:12,750 --> 00:17:15,349
+donc hématémèse, c'est-à-dire après un
+
+326
+00:17:15,349 --> 00:17:18,530
+effort de vomissement, un effort de...
+
+327
+00:17:19,430 --> 00:17:21,990
+c'est-à-dire le patient va projeter
+
+328
+00:17:21,990 --> 00:17:27,270
+du sang avec les aliments, à partir de
+
+329
+00:17:27,270 --> 00:17:27,890
+son estomac.
+
+330
+00:17:28,810 --> 00:17:31,690
+Des mélénas, par contre, ce sont des saignements,
+
+331
+00:17:32,230 --> 00:17:34,270
+par exemple au niveau du tube digestif haut,
+
+332
+00:17:34,490 --> 00:17:36,450
+mais le sang a traversé tous les intestins,
+
+333
+00:17:37,010 --> 00:17:39,830
+et donc ça va apparaître sous forme de
+
+334
+00:17:39,830 --> 00:17:44,290
+sang noirâtre dans les selles, après les toilettes.
+
+335
+00:17:45,110 --> 00:17:48,750
+Par contre, les rectoragies, ce sont des hémorragies
+
+336
+00:17:48,750 --> 00:17:54,190
+basses du tube digestif, elles sont faites de
+
+337
+00:17:54,190 --> 00:17:57,710
+sang rougeâtre qui sort après la selle ou
+
+338
+00:17:57,710 --> 00:18:00,290
+avec la selle, et notamment en cas de
+
+339
+00:18:00,290 --> 00:18:02,830
+cancer, ou en cas d'atteinte du rectum,
+
+340
+00:18:03,530 --> 00:18:05,770
+ou en cas d'hémorroïdes.
+
+341
+00:18:09,500 --> 00:18:12,740
+Hématurie, c'est l'émission de sang avec
+
+342
+00:18:12,740 --> 00:18:15,140
+les urines, et donc le patient va vous
+
+343
+00:18:15,140 --> 00:18:18,660
+dire que j'urine du sang, mes urines
+
+344
+00:18:18,660 --> 00:18:20,200
+sont rougeâtres, foncées.
+
+345
+00:18:20,760 --> 00:18:22,540
+Bien sûr, il faut faire le diagnostic différentiel
+
+346
+00:18:22,540 --> 00:18:25,980
+avec la prise de certains médicaments ou de
+
+347
+00:18:25,980 --> 00:18:28,740
+certains aliments, mais c'est récidivant, ça apparaît
+
+348
+00:18:28,740 --> 00:18:30,860
+à chaque fois, donc il faut penser à
+
+349
+00:18:30,860 --> 00:18:31,580
+l'hémorragie primaire.
+
+350
+00:18:32,460 --> 00:18:35,620
+Hémorragie génitale chez la femme, et notamment les
+
+351
+00:18:35,620 --> 00:18:40,240
+ménorragies, ce sont des règles abondantes, allongées, endurées,
+
+352
+00:18:40,800 --> 00:18:42,460
+c'est-à-dire qu'au lieu de
+
+353
+00:18:42,460 --> 00:18:45,140
+5 jours, ça peut aller jusqu'à 6,
+
+354
+00:18:45,200 --> 00:18:49,200
+7, 8 jours, parfois trop abondantes, ou des
+
+355
+00:18:49,200 --> 00:18:51,720
+métrorragies, c'est des saignements utérins, c'est
+
+356
+00:18:51,720 --> 00:18:54,240
+en dehors des règles, en dehors des cycles
+
+357
+00:18:54,240 --> 00:18:57,400
+menstruels, la patiente commence à saigner, et donc
+
+358
+00:18:57,400 --> 00:19:00,140
+là, il faut penser à l'atteinte de
+
+359
+00:19:00,140 --> 00:19:00,980
+l'hémostase primaire.
+
+360
+00:19:04,210 --> 00:19:06,410
+Et là, on voit les images de cette
+
+361
+00:19:06,410 --> 00:19:08,770
+atteinte des muqueuses, là c'est la muqueuse
+
+362
+00:19:08,770 --> 00:19:13,370
+buccale, avec cet âge rougeâtre, et les hémorragies
+
+363
+00:19:13,370 --> 00:19:16,110
+cutanées, c'est la conjonctivale, c'est au
+
+364
+00:19:16,110 --> 00:19:18,850
+niveau de la conjonctive, ce sont des saignements
+
+365
+00:19:18,850 --> 00:19:21,990
+conjonctivaux qui peuvent attirer l'attention vers l
+
+366
+00:19:21,990 --> 00:19:22,850
+'hémostase primaire aussi.
+
+367
+00:19:23,190 --> 00:19:27,110
+Après les hémorragies cutanées ou muqueuses, parfois le
+
+368
+00:19:27,110 --> 00:19:32,410
+patient présente des hémorragies profondes, profondes, c'est
+
+369
+00:19:32,410 --> 00:19:34,250
+au niveau du thorax, de l'abdomen, des
+
+370
+00:19:34,250 --> 00:19:37,690
+muscles, et donc elles caractérisent les troubles de
+
+371
+00:19:37,690 --> 00:19:38,390
+la coagulation.
+
+372
+00:19:39,570 --> 00:19:42,550
+Donc rappelez-vous, l'hémostase, c'est-à
+
+373
+00:19:42,550 --> 00:19:44,730
+-dire l'hémorragie cutanée ou muqueuse, c'est
+
+374
+00:19:44,730 --> 00:19:50,110
+plutôt l'hémostase primaire, par contre, quand on
+
+375
+00:19:50,110 --> 00:19:52,770
+a des hémorragies profondes, ça oriente vers les
+
+376
+00:19:52,770 --> 00:19:53,750
+troubles de la coagulation.
+
+377
+00:19:54,310 --> 00:19:57,730
+On distingue les hémartroses, c'est-à-dire
+
+378
+00:19:57,730 --> 00:20:02,310
+des saignements intra-articulaires, surtout les articulations qui
+
+379
+00:20:02,310 --> 00:20:06,630
+sont soumises à de grandes pressions, comme les
+
+380
+00:20:06,630 --> 00:20:10,650
+genoux, les poignets, les épaules, et donc quand
+
+381
+00:20:10,650 --> 00:20:15,090
+ça survient chez un petit garçon, au moment
+
+382
+00:20:15,090 --> 00:20:17,230
+de la marche, il faut penser à l
+
+383
+00:20:17,230 --> 00:20:19,790
+'hémophilie et c'est un problème de coagulation.
+
+384
+00:20:22,150 --> 00:20:24,090
+Des hématomes profonds, c'est-à-dire des
+
+385
+00:20:24,090 --> 00:20:26,650
+collections de sons dans l'abdomen, dans le
+
+386
+00:20:26,650 --> 00:20:30,710
+thorax, dans les muscles, donc ça peut aussi
+
+387
+00:20:30,710 --> 00:20:34,150
+orienter vers une atteinte de la coagulation et
+
+388
+00:20:34,150 --> 00:20:36,890
+notamment l'hématome au niveau d'un muscle,
+
+389
+00:20:37,210 --> 00:20:40,930
+au niveau du membre inférieur, l'hématome du
+
+390
+00:20:40,930 --> 00:20:44,950
+psoas, qui peut entraîner des compressions nerveuses, l
+
+391
+00:20:44,950 --> 00:20:47,030
+'hématome du plancher de la bouche, c'est
+
+392
+00:20:47,030 --> 00:20:48,910
+-à-dire au niveau de la bouche, c
+
+393
+00:20:48,910 --> 00:20:52,290
+'est-à-dire parfois, si on a un
+
+394
+00:20:52,290 --> 00:20:56,350
+grand hématome, ça peut bloquer le pharynx et
+
+395
+00:20:56,350 --> 00:20:57,950
+le larynx et ça peut entraîner de l
+
+396
+00:20:57,950 --> 00:20:58,370
+'asphyxie.
+
+397
+00:20:59,630 --> 00:21:01,930
+L'hématome périorbitaire autour de l'œil, ça
+
+398
+00:21:01,930 --> 00:21:03,630
+peut entraîner la perte de la vue, l
+
+399
+00:21:03,630 --> 00:21:06,910
+'ascicité, ou si l'hématome est vraiment important,
+
+400
+00:21:06,910 --> 00:21:08,330
+ça peut entraîner une anémie.
+
+401
+00:21:13,290 --> 00:21:15,830
+La simbiologie des thromboses, donc après les hémorragies,
+
+402
+00:21:16,190 --> 00:21:18,450
+c'est-à-dire les moustaches s'intéressent
+
+403
+00:21:18,450 --> 00:21:21,590
+aussi aux thromboses, donc les problèmes des moustaches
+
+404
+00:21:21,590 --> 00:21:24,170
+peuvent entraîner les thromboses et donc là, vous
+
+405
+00:21:24,170 --> 00:21:25,290
+voyez, c'est-à-dire si du sang
+
+406
+00:21:25,290 --> 00:21:27,690
+coagule à l'intérieur du vaisseau, ce qui
+
+407
+00:21:27,690 --> 00:21:30,530
+est anormal, et donc là, il faut s
+
+408
+00:21:30,530 --> 00:21:33,450
+'enquérir et chercher la cause et donc c
+
+409
+00:21:33,450 --> 00:21:35,390
+'est le rôle des moustaches aussi.
+
+410
+00:21:39,470 --> 00:21:42,950
+Concernant ces thromboses, nous allons voir quelle est
+
+411
+00:21:42,950 --> 00:21:45,190
+la physiopathologie de ces thromboses.
+
+412
+00:21:46,050 --> 00:21:49,950
+Donc monsieur Verchow a étudié la thrombose et
+
+413
+00:21:49,950 --> 00:21:52,510
+donc il a remarqué que quand le patient
+
+414
+00:21:52,510 --> 00:21:56,670
+présente certains éléments, ça entraîne la thrombose et
+
+415
+00:21:56,670 --> 00:22:02,890
+donc ces éléments sont la présence de lésions
+
+416
+00:22:02,890 --> 00:22:06,750
+vasculaires, on va voir les causes, la présence
+
+417
+00:22:06,750 --> 00:22:12,150
+de stases sanguines, présence de stases sanguines, ou
+
+418
+00:22:12,150 --> 00:22:15,030
+encore l'altération de la coagulation, le déficit
+
+419
+00:22:15,030 --> 00:22:17,970
+de certains facteurs de la coagulation.
+
+420
+00:22:18,830 --> 00:22:21,590
+Ces trois éléments constituent la triète de Verchow
+
+421
+00:22:21,590 --> 00:22:25,170
+et sont responsables de l'apparition de thromboses
+
+422
+00:22:25,170 --> 00:22:26,790
+chez le patient.
+
+423
+00:22:31,480 --> 00:22:34,280
+Donc ces thromboses peuvent être en rapport avec
+
+424
+00:22:34,280 --> 00:22:37,020
+l'altération de la paroi vasculaire et donc
+
+425
+00:22:37,020 --> 00:22:40,520
+vous connaissez certains de ces éléments, par exemple
+
+426
+00:22:40,520 --> 00:22:43,940
+les varices au niveau des membres inférieurs chez
+
+427
+00:22:43,940 --> 00:22:48,660
+les gens âgés, c'est-à-dire des
+
+428
+00:22:48,660 --> 00:22:52,640
+veines dilatées au niveau des membres inférieurs, donc
+
+429
+00:22:52,640 --> 00:22:54,240
+ils peuvent favoriser la thrombose.
+
+430
+00:22:54,860 --> 00:22:56,880
+L'athérosclérose, nous allons la voir, c'est
+
+431
+00:22:56,880 --> 00:23:00,140
+la formation d'athéromes sous les artères.
+
+432
+00:23:00,980 --> 00:23:04,700
+Les traumatismes, notamment le cathéterisme, c'est-à
+
+433
+00:23:04,700 --> 00:23:07,520
+-dire le cathéterisme, c'est le fait de
+
+434
+00:23:07,520 --> 00:23:10,100
+passer un cathéter dans une artère ou une
+
+435
+00:23:10,100 --> 00:23:12,820
+veine, ça la traumatise et donc ça peut
+
+436
+00:23:12,820 --> 00:23:14,060
+entraîner des thromboses.
+
+437
+00:23:14,740 --> 00:23:19,500
+Les infections graves, notamment les septicémies, donc ces
+
+438
+00:23:19,500 --> 00:23:22,040
+éléments peuvent activer les moustades primaires et la
+
+439
+00:23:22,040 --> 00:23:25,040
+coagulation et entraîner des thromboses à l'intérieur
+
+440
+00:23:25,040 --> 00:23:25,660
+des vaisseaux.
+
+441
+00:23:26,680 --> 00:23:28,740
+La stase sanguine, par contre, c'est la
+
+442
+00:23:28,740 --> 00:23:32,880
+diminution, peut-être en rapport avec une diminution
+
+443
+00:23:32,880 --> 00:23:35,580
+du débit cardiaque, donc ça survient dans les
+
+444
+00:23:35,580 --> 00:23:38,700
+insuffisances cardiaques et donc il y a un
+
+445
+00:23:38,700 --> 00:23:41,540
+faible débit dans les vaisseaux et donc ça
+
+446
+00:23:41,540 --> 00:23:42,400
+peut coaguler.
+
+447
+00:23:43,100 --> 00:23:46,460
+La compression d'un vaisseau, c'est-à
+
+448
+00:23:46,460 --> 00:23:48,700
+-dire à cause d'un carreau prolongé, à
+
+449
+00:23:48,700 --> 00:23:52,160
+cause d'un plâtre mal fait, donc ça
+
+450
+00:23:52,160 --> 00:23:53,520
+peut entraîner des thromboses.
+
+451
+00:23:54,160 --> 00:23:56,160
+L'allitement, c'est-à-dire un patient
+
+452
+00:23:56,160 --> 00:23:59,340
+en réanimation, un patient âgé, un patient trop
+
+453
+00:23:59,340 --> 00:24:02,660
+malade, qui est cloué à son lit, ça
+
+454
+00:24:02,660 --> 00:24:05,480
+peut entraîner des thromboses, donc il faut y
+
+455
+00:24:05,480 --> 00:24:05,840
+penser.
+
+456
+00:24:06,760 --> 00:24:09,780
+L'immobilisation, c'est-à-dire pour certaines
+
+457
+00:24:09,780 --> 00:24:13,160
+fractures, on est obligé d'immobiliser un membre
+
+458
+00:24:13,160 --> 00:24:16,960
+et donc ça peut entraîner aussi des thromboses.
+
+459
+00:24:17,500 --> 00:24:21,740
+Enfin, la polyglobuline, c'est-à-dire un
+
+460
+00:24:21,740 --> 00:24:23,560
+taux d'hémoglobine trop haut.
+
+461
+00:24:24,160 --> 00:24:26,940
+Normalement, l'hémoglobine, vous allez la voir dans
+
+462
+00:24:26,940 --> 00:24:29,280
+le cours de cytologie, il doit se substituer
+
+463
+00:24:29,280 --> 00:24:32,440
+entre 12 et 18 grammes par décilitre.
+
+464
+00:24:32,440 --> 00:24:36,280
+Dans la polyglobuline, on aura une hémoglobine au
+
+465
+00:24:36,280 --> 00:24:38,660
+-delà de 18, 19, 20, et donc ça
+
+466
+00:24:38,660 --> 00:24:43,440
+entraîne un sang visqueux et un ralentissement, une
+
+467
+00:24:43,440 --> 00:24:46,400
+phase de la circulation du sang, et ça
+
+468
+00:24:46,400 --> 00:24:47,900
+peut entraîner une thrombose.
+
+469
+00:24:49,760 --> 00:24:53,140
+Enfin, le troisième élément, c'est l'altération
+
+470
+00:24:54,170 --> 00:24:57,280
+de l'équilibre de la coagulation, puisqu'on
+
+471
+00:24:57,280 --> 00:24:59,700
+va voir dans le chapitre de coagulation, il
+
+472
+00:24:59,700 --> 00:25:02,580
+y a une cascade de facteurs de coagulation
+
+473
+00:25:02,580 --> 00:25:05,540
+qui vont agir pour former le thrombus rouge,
+
+474
+00:25:06,380 --> 00:25:09,360
+mais il y a des inhibiteurs, des régulateurs,
+
+475
+00:25:09,640 --> 00:25:12,800
+et notamment l'antithrombine, la protéine CS qui
+
+476
+00:25:12,800 --> 00:25:14,260
+régule cette coagulation.
+
+477
+00:25:14,900 --> 00:25:19,100
+Quand ils sont difficilitaires, ça peut entraîner des
+
+478
+00:25:19,100 --> 00:25:20,760
+problèmes de thrombose.
+
+479
+00:25:23,870 --> 00:25:25,590
+Quels sont les facteurs de risque de cette
+
+480
+00:25:25,590 --> 00:25:26,890
+thrombose ?
+
+481
+00:25:26,890 --> 00:25:32,290
+Pour les thromboses artérielles, il y a un
+
+482
+00:25:32,290 --> 00:25:36,250
+atérosclerose, c'est-à-dire que la lumière
+
+483
+00:25:36,250 --> 00:25:37,910
+de l'artère est très forte, et l
+
+484
+00:25:37,910 --> 00:25:38,010
+'arthérosclerose est très forte.
+
+485
+00:25:38,010 --> 00:25:51,130
+Le thétérome est
+
+486
+00:25:51,130 --> 00:25:57,410
+un atérosclérose qui est un atérosclerose qui est
+
+487
+00:25:57,410 --> 00:26:01,350
+un atérosclerose qui est un à sortir et
+
+488
+00:26:01,350 --> 00:26:04,290
+donc il passe, il flotte dans la circulation
+
+489
+00:26:04,290 --> 00:26:06,490
+puisque le sang circule ici et à un
+
+490
+00:26:06,490 --> 00:26:08,850
+certain moment il peut se détacher et donner
+
+491
+00:26:08,850 --> 00:26:10,710
+ce qu'on appelle une embolie pulmonaire.
+
+492
+00:26:10,930 --> 00:26:14,250
+Donc vous voyez le danger de cette athérosclérose,
+
+493
+00:26:14,810 --> 00:26:16,670
+les facteurs de risque c'est l'obésité,
+
+494
+00:26:17,010 --> 00:26:19,730
+quelqu'un qui est très, un trop grand
+
+495
+00:26:19,730 --> 00:26:23,810
+poids, donc un diabétique puisque c'est un
+
+496
+00:26:23,810 --> 00:26:27,430
+facteur de risque aussi de cette athérosclérose, l
+
+497
+00:26:27,430 --> 00:26:31,150
+'hypertension artérielle, le tabac, le tabac c'est
+
+498
+00:26:31,150 --> 00:26:34,110
+quelqu'un qui fume et surtout plus on
+
+499
+00:26:34,110 --> 00:26:37,670
+fume plus le risque augmente, l'âge avancé
+
+500
+00:26:37,670 --> 00:26:40,330
+malheureusement l'âge fait des ravages comme on
+
+501
+00:26:40,330 --> 00:26:43,030
+dit et donc un âge avancé risque, favorise
+
+502
+00:26:43,030 --> 00:26:47,730
+l'athérosclérose, la sédentarité, sédentarité c'est-à
+
+503
+00:26:47,730 --> 00:26:50,450
+-dire les gens qui travaillent peu, qui sont
+
+504
+00:26:50,450 --> 00:26:53,770
+souvent assis et qui ne font pas de
+
+505
+00:26:53,770 --> 00:26:56,450
+sport donc c'est des sédentaires qui sont,
+
+506
+00:26:56,810 --> 00:26:59,510
+qui seront victimes d'athérosclérose.
+
+507
+00:27:00,090 --> 00:27:03,610
+Enfin les perturbations du bilan lipidique notamment l
+
+508
+00:27:03,610 --> 00:27:07,350
+'augmentation du cholestérol ils peuvent être et former
+
+509
+00:27:07,350 --> 00:27:08,890
+un facteur de risque.
+
+510
+00:27:10,390 --> 00:27:14,390
+Concernant les thromboses veineuses donc nous connaissons les
+
+511
+00:27:14,390 --> 00:27:17,670
+facteurs congénitaux dont j'ai parlé c'est
+
+512
+00:27:17,910 --> 00:27:22,750
+un déficit en protéines C, S ou l
+
+513
+00:27:22,750 --> 00:27:28,010
+'antithrombine sont des facteurs héréditaires mais aussi les
+
+514
+00:27:28,010 --> 00:27:31,150
+facteurs acquis c'est-à-dire l'âge
+
+515
+00:27:31,150 --> 00:27:34,830
+avancé, l'antécédent personnel ou familial de thrombose,
+
+516
+00:27:35,410 --> 00:27:37,330
+l'immobilisation dont on a parlé, l'allaitement,
+
+517
+00:27:37,710 --> 00:27:40,470
+les infections graves, les tumeurs solides c'est
+
+518
+00:27:40,470 --> 00:27:42,630
+-à-dire les cancers solides favorisent la thrombose
+
+519
+00:27:42,630 --> 00:27:46,350
+et enfin les grossesses et la prise de
+
+520
+00:27:46,350 --> 00:27:47,890
+stropes progestatives c'est-à-dire il faut
+
+521
+00:27:47,890 --> 00:27:51,230
+connaître le risque et bien sûr les prévenir.
+
+522
+00:27:53,890 --> 00:27:57,550
+Quelles sont les manifestations cliniques de ces thromboses
+
+523
+00:27:57,550 --> 00:27:58,150
+?
+
+524
+00:27:58,150 --> 00:28:01,650
+Concernant les thromboses artérielles là vous connaissez ces
+
+525
+00:28:01,650 --> 00:28:04,230
+exemples sûrement vous les avez entendus l'infarctus
+
+526
+00:28:04,230 --> 00:28:07,110
+du myocarde c'est quand on a une
+
+527
+00:28:07,110 --> 00:28:10,510
+artère c'est-à-dire du myocarde du
+
+528
+00:28:10,510 --> 00:28:13,070
+muscle cardiaque qui est bouché ça donne un
+
+529
+00:28:13,070 --> 00:28:15,850
+infarctus du myocarde c'est des douleurs atroces
+
+530
+00:28:15,850 --> 00:28:20,610
+qui entraînent des lésions graves dans le coeur
+
+531
+00:28:20,610 --> 00:28:24,530
+et qui peuvent arriver parfois à une mort
+
+532
+00:28:24,530 --> 00:28:25,670
+et un décès du patient.
+
+533
+00:28:26,430 --> 00:28:30,750
+Les accidents vasculaires cérébraux thrombotiques donc là c
+
+534
+00:28:30,750 --> 00:28:31,990
+'est-à-dire vous les avez vus sûrement
+
+535
+00:28:31,990 --> 00:28:34,730
+dans votre entourage chez les sujets âgés et
+
+536
+00:28:34,730 --> 00:28:39,210
+ça entraîne des hémiplégies parfois c'est-à
+
+537
+00:28:39,210 --> 00:28:42,650
+-dire ces thromboses quand ils surviennent dans l
+
+538
+00:28:42,650 --> 00:28:45,330
+'oeil ils peuvent entraîner la nécrose de la
+
+539
+00:28:45,330 --> 00:28:50,070
+rétine ou encore quand l'artère rénale est
+
+540
+00:28:50,070 --> 00:28:52,890
+bouchée ça peut entraîner un infarctus rénal c
+
+541
+00:28:52,890 --> 00:28:55,190
+'est-à-dire une destruction du rein ou
+
+542
+00:28:55,190 --> 00:28:59,330
+enfin les thromboses des membres inférieurs c'est
+
+543
+00:28:59,330 --> 00:29:02,830
+-à-dire là vous en connaissez des exemples
+
+544
+00:29:02,830 --> 00:29:03,350
+sûrement.
+
+545
+00:29:05,320 --> 00:29:10,360
+Pour les thromboses veineuses le diagnostic est particulièrement
+
+546
+00:29:10,360 --> 00:29:13,680
+difficile donc souvent ils sont insidieuses au début
+
+547
+00:29:13,680 --> 00:29:15,260
+il n'y a pas de cyniclinique donc
+
+548
+00:29:15,260 --> 00:29:20,560
+ils évoluent à bas bruit donc ensuite arrive
+
+549
+00:29:20,560 --> 00:29:23,420
+le stade de flibites surales débutantes au niveau
+
+550
+00:29:23,420 --> 00:29:27,280
+du membre inférieur des petites douleurs, douleurs à
+
+551
+00:29:27,280 --> 00:29:29,880
+la marche qu'on appelle la claudication intermittente
+
+552
+00:29:29,880 --> 00:29:31,680
+c'est-à-dire le patient marche à
+
+553
+00:29:31,680 --> 00:29:34,440
+un certain moment il a mal au mollet,
+
+554
+00:29:35,200 --> 00:29:37,980
+sensation de douleur d'un membre inférieur et
+
+555
+00:29:37,980 --> 00:29:41,800
+donc là il faut penser à cette thrombose
+
+556
+00:29:41,800 --> 00:29:44,260
+et faire un examen correct.
+
+557
+00:29:44,880 --> 00:29:48,460
+Parfois même le patient a une sensation d
+
+558
+00:29:48,460 --> 00:29:52,000
+'angoisse, une petite fièvre ou son coeur bat
+
+559
+00:29:52,000 --> 00:29:54,940
+rapidement si le poids accélère donc ce sont
+
+560
+00:29:54,940 --> 00:29:57,760
+des signes d'une flibite qui a déjà
+
+561
+00:29:57,760 --> 00:29:58,720
+un peu évolué.
+
+562
+00:30:02,950 --> 00:30:06,610
+Survient ensuite un stade plus avancé et qui
+
+563
+00:30:06,610 --> 00:30:09,090
+est plus dangereux et qu'on appelle le
+
+564
+00:30:09,090 --> 00:30:12,210
+stade de flibmasia alba dolens donc c'est
+
+565
+00:30:12,210 --> 00:30:17,310
+un stade tardif avec des douleurs spontanées, gonflement
+
+566
+00:30:17,310 --> 00:30:23,490
+unilatéral du membre, sensation extrême à la palpation
+
+567
+00:30:23,490 --> 00:30:24,090
+c'est-à-dire qu'on n'arrive
+
+568
+00:30:24,090 --> 00:30:25,750
+pas à toucher ce membre où il y
+
+569
+00:30:25,750 --> 00:30:29,830
+a cette thrombose et ça constitue une urgence
+
+570
+00:30:31,010 --> 00:30:32,850
+médicale car il y a comme j'ai
+
+571
+00:30:32,850 --> 00:30:37,250
+dit le risque de départ d'un embole
+
+572
+00:30:37,250 --> 00:30:38,990
+c'est-à-dire le détachement d'une
+
+573
+00:30:38,990 --> 00:30:42,090
+partie de ce caillot et qui va migrer
+
+574
+00:30:42,090 --> 00:30:47,610
+vers les poumons et entraîner des lésions redoutables
+
+575
+00:30:47,610 --> 00:30:51,430
+chez le patient donc risque immédiat sinon pour
+
+576
+00:30:51,430 --> 00:30:54,590
+les pulmonaires et à long terme c'est
+
+577
+00:30:54,590 --> 00:30:57,530
+-à-dire le patient aura spontanément des douleurs,
+
+578
+00:30:58,250 --> 00:31:01,470
+des crampes, des varices, une amyotrophie c'est
+
+579
+00:31:01,470 --> 00:31:05,510
+-à-dire le membre va devenir plus maigre
+
+580
+00:31:05,510 --> 00:31:07,830
+que l'autre côté donc il faut les
+
+581
+00:31:07,830 --> 00:31:09,270
+prendre au sérieux.
+
+582
+00:31:13,490 --> 00:31:16,230
+Quelles sont les principales techniques en hémostase?
+
+583
+00:31:18,850 --> 00:31:22,790
+Ces techniques sont chronométriques c'est-à-dire
+
+584
+00:31:22,790 --> 00:31:24,990
+on utilise des chronomètres c'est-à-dire
+
+585
+00:31:24,990 --> 00:31:26,910
+soit automatique soit manuelle c'est-à-dire
+
+586
+00:31:26,910 --> 00:31:30,410
+pour certains bilans nous avons aussi des techniques
+
+587
+00:31:30,410 --> 00:31:34,530
+colorométriques et notamment pour l'antithrombine, la protéine
+
+588
+00:31:34,530 --> 00:31:38,510
+CS, les didymères et enfin les techniques immuno
+
+589
+00:31:38,510 --> 00:31:42,790
+- enzymatiques pour la protéine CS et les
+
+590
+00:31:42,790 --> 00:31:43,330
+didymères.
+
+591
+00:31:48,130 --> 00:31:50,610
+Après ces cines cliniques c'est-à-dire
+
+592
+00:31:50,610 --> 00:31:53,370
+nous avons eu les cines cliniques des hémorragies,
+
+593
+00:31:53,830 --> 00:31:57,330
+les cines cliniques des thromboses donc le médecin
+
+594
+00:31:57,330 --> 00:32:01,490
+va demander à faire des explorations, à faire
+
+595
+00:32:01,490 --> 00:32:05,030
+des bilans biologiques et donc quels seront ces
+
+596
+00:32:05,030 --> 00:32:05,350
+bilans?
+
+597
+00:32:06,630 --> 00:32:10,550
+Tout d'abord je le répète on ne
+
+598
+00:32:10,550 --> 00:32:13,010
+demande jamais un bilan si on n'a
+
+599
+00:32:13,010 --> 00:32:16,290
+pas fait un bon interrogatoire, un examen clinique
+
+600
+00:32:16,290 --> 00:32:21,110
+minutieux et ces deux vont orienter quelles explorations
+
+601
+00:32:21,110 --> 00:32:22,510
+biologiques à réaliser.
+
+602
+00:32:23,610 --> 00:32:26,150
+Pour l'hémostase nous avons deux types de
+
+603
+00:32:26,150 --> 00:32:28,730
+tests les tests faits directement sur le malade
+
+604
+00:32:28,730 --> 00:32:30,130
+c'est le temps de signement sûrement on
+
+605
+00:32:30,130 --> 00:32:33,190
+va le faire au cours des tp et
+
+606
+00:32:33,190 --> 00:32:36,150
+des tests faits sur les plasmas du malade
+
+607
+00:32:36,150 --> 00:32:38,310
+c'est-à-dire quand on fait un
+
+608
+00:32:38,310 --> 00:32:40,850
+prélément sanguin pour l'hémostase on va faire
+
+609
+00:32:40,850 --> 00:32:43,350
+les différents tests tp, tca, fibrinogènes et le
+
+610
+00:32:43,350 --> 00:32:43,610
+reste.
+
+611
+00:32:46,340 --> 00:32:48,820
+La phase pré-analytique je l'ai expliqué
+
+612
+00:32:48,820 --> 00:32:50,280
+c'est-à-dire au laboratoire on a
+
+613
+00:32:50,280 --> 00:32:52,620
+trois phases la phase pré-analytique, la phase
+
+614
+00:32:52,620 --> 00:32:55,680
+analytique et la phase post-analytique cette phase
+
+615
+00:32:55,680 --> 00:32:58,360
+pré-analytique en hémostase c'est-à-dire
+
+616
+00:32:58,360 --> 00:33:03,540
+il est responsable de 90% 90%
+
+617
+00:33:03,540 --> 00:33:07,200
+d'anomalies d'erreur en hémostase donc il
+
+618
+00:33:07,200 --> 00:33:11,140
+faut il faut en prendre soin donc il
+
+619
+00:33:11,140 --> 00:33:14,280
+faut respecter ces orientations et donc on va
+
+620
+00:33:14,280 --> 00:33:16,440
+étudier tout un chapitre concernant la phase pré
+
+621
+00:33:16,440 --> 00:33:19,540
+-analytique, ce sera le chapitre suivant donc il
+
+622
+00:33:19,540 --> 00:33:22,500
+faut faire attention il faut la respecter donc
+
+623
+00:33:22,500 --> 00:33:23,880
+on va la voir en détail par la
+
+624
+00:33:23,880 --> 00:33:30,350
+suite quels sont les principaux examens à réaliser
+
+625
+00:33:30,350 --> 00:33:31,330
+c'est-à-dire c'est juste un
+
+626
+00:33:31,330 --> 00:33:34,950
+résumé qui résume les principaux tests à faire
+
+627
+00:33:34,950 --> 00:33:39,110
+en hémostase donc nous avons les tests qui
+
+628
+00:33:39,110 --> 00:33:41,010
+sont faits pour les hémostases primaires pour la
+
+629
+00:33:41,010 --> 00:33:44,890
+coagulation et pour la fibrinolise, quels sont les
+
+630
+00:33:44,890 --> 00:33:48,110
+tests à faire pour les hémostases primaires, le
+
+631
+00:33:48,110 --> 00:33:53,050
+temps de saignement, l'annumération plaquettaire, le fibrinogène
+
+632
+00:33:53,050 --> 00:33:55,110
+et le dosage du facteur de von Wilbrand.
+
+633
+00:33:56,090 --> 00:33:59,250
+Pour la coagulation nous commençons par les tests
+
+634
+00:33:59,250 --> 00:34:03,150
+d'orientation le TP et le TCA, c
+
+635
+00:34:03,150 --> 00:34:04,650
+'est le taux de protrombine, le taux de
+
+636
+00:34:04,650 --> 00:34:08,389
+céphaline avec activateur et ensuite on va compléter
+
+637
+00:34:08,389 --> 00:34:10,370
+par les dosages des facteurs de la coagulation.
+
+638
+00:34:11,389 --> 00:34:15,889
+Enfin pour la fibrinolise, nous utilisons des tests
+
+639
+00:34:15,889 --> 00:34:18,650
+globaux mais qui ne sont pas trop fiables
+
+640
+00:34:18,650 --> 00:34:22,270
+donc on passe directement aux tests indirects qui
+
+641
+00:34:22,270 --> 00:34:27,389
+sont réalisés de façon presque de routine en
+
+642
+00:34:27,389 --> 00:34:31,310
+cas de suspicion de thrombose, ce sont les
+
+643
+00:34:31,310 --> 00:34:34,250
+pdf produits de dégradation de la fibrine et
+
+644
+00:34:34,250 --> 00:34:37,810
+du fibrinogène, les didymers et les complexes solubles.

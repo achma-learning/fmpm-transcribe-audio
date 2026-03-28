@@ -1,0 +1,1863 @@
+1
+00:00:00,460 --> 00:00:02,940
+Bonjour, le cours d'aujourd'hui s'intitule
+
+2
+00:00:02,940 --> 00:00:05,100
+Physiologie de l'équilibre acidobasique.
+
+3
+00:00:05,640 --> 00:00:08,720
+Comme d'habitude, ce cours a un certain
+
+4
+00:00:08,720 --> 00:00:11,840
+nombre d'objectifs pédagogiques que l'étudiant devra
+
+5
+00:00:11,840 --> 00:00:15,940
+être capable d'y répondre à la fin
+
+6
+00:00:15,940 --> 00:00:16,580
+du cours.
+
+7
+00:00:18,580 --> 00:00:20,220
+Tout d'abord, qu'est-ce qu'on
+
+8
+00:00:20,220 --> 00:00:22,560
+veut dire par équilibre acidobasique ?
+
+9
+00:00:22,560 --> 00:00:26,760
+On entend par équilibre acidobasique la régulation précise
+
+10
+00:00:26,760 --> 00:00:30,160
+de la concentration d'ion H+, libre
+
+11
+00:00:30,160 --> 00:00:33,380
+dans le milieu liquide de l'organisme.
+
+12
+00:00:34,800 --> 00:00:37,640
+Pour traiter cette question, le cours sera divisé
+
+13
+00:00:37,640 --> 00:00:39,040
+en trois grandes parties.
+
+14
+00:00:39,440 --> 00:00:43,100
+La première partie, c'est essentiellement pourquoi cette
+
+15
+00:00:43,100 --> 00:00:45,740
+régulation, donc quelle est l'importance de cette
+
+16
+00:00:45,740 --> 00:00:48,480
+régulation de la concentration en ion H+,
+
+17
+00:00:48,480 --> 00:00:52,000
+et ça veut essentiellement dire quelles sont les
+
+18
+00:00:52,000 --> 00:00:54,880
+conséquences des variations des concentrations en ion H+.
+
+19
+00:00:54,880 --> 00:00:58,480
+La deuxième partie, on parlera des sources d
+
+20
+00:00:58,480 --> 00:01:01,080
+'ion H+, dans l'organisme, et finalement,
+
+21
+00:01:01,440 --> 00:01:03,840
+on parlera des lignes de défense de l
+
+22
+00:01:03,840 --> 00:01:06,920
+'organisme contre les changements de la concentration d
+
+23
+00:01:06,920 --> 00:01:07,560
+'ion H+.
+
+24
+00:01:07,560 --> 00:01:09,640
+Et donc, c'est comment est-ce que
+
+25
+00:01:09,640 --> 00:01:13,520
+notre organisme va maintenir cet équilibre acidobasique.
+
+26
+00:01:14,740 --> 00:01:16,560
+Tout d'abord, il y a un certain
+
+27
+00:01:16,560 --> 00:01:19,360
+nombre de prérequis que vous devez connaître.
+
+28
+00:01:20,020 --> 00:01:23,240
+C'est principalement la définition d'un acide,
+
+29
+00:01:23,240 --> 00:01:25,300
+donc il y a les molécules capables de
+
+30
+00:01:25,300 --> 00:01:28,260
+libérer les protons H+, ça permet de
+
+31
+00:01:28,260 --> 00:01:31,080
+distinguer les acides forts et les acides faibles,
+
+32
+00:01:31,760 --> 00:01:33,840
+et il faut aussi préciser que l'acidité
+
+33
+00:01:33,840 --> 00:01:36,580
+d'une solution dépend uniquement des ions H
+
+34
+00:01:36,580 --> 00:01:39,400
++, libres, et non associés à d'autres
+
+35
+00:01:39,400 --> 00:01:40,420
+substances.
+
+36
+00:01:43,280 --> 00:01:45,960
+En contrepartie, il y a également les bases,
+
+37
+00:01:46,100 --> 00:01:47,800
+et les bases sont les molécules qui sont
+
+38
+00:01:47,800 --> 00:01:50,840
+capables d'accepter un proton H+, et
+
+39
+00:01:50,840 --> 00:01:52,840
+là aussi, on distingue les bases fortes et
+
+40
+00:01:52,840 --> 00:01:56,080
+les bases faibles, et de ces deux définitions
+
+41
+00:01:56,080 --> 00:01:59,600
+ressort la définition d'un système tampon qui,
+
+42
+00:01:59,740 --> 00:02:01,900
+lui, est constitué d'une substance qui peut
+
+43
+00:02:01,900 --> 00:02:04,200
+se comporter soit comme un acide, soit comme
+
+44
+00:02:04,200 --> 00:02:06,700
+une base, suivant la concentration d'ion H
+
+45
+00:02:06,700 --> 00:02:09,539
++, dans la solution dans laquelle elle est
+
+46
+00:02:09,539 --> 00:02:10,280
+dissoute.
+
+47
+00:02:11,600 --> 00:02:15,360
+Donc, la deuxième partie de ces prérequis s
+
+48
+00:02:15,360 --> 00:02:18,200
+'intéresse essentiellement au pH, qui n'est rien
+
+49
+00:02:18,200 --> 00:02:20,660
+d'autre que le potentiel hydrogène, qui veut
+
+50
+00:02:20,660 --> 00:02:25,160
+dire, il exprime la concentration en ion H
+
+51
+00:02:25,160 --> 00:02:28,860
++, mais puisque la formule de ce potentiel
+
+52
+00:02:28,860 --> 00:02:31,400
+hydrogène est le logarithme de 1 sur la
+
+53
+00:02:31,400 --> 00:02:34,040
+concentration d'H+, ça veut tout simplement
+
+54
+00:02:34,040 --> 00:02:36,560
+dire, puisque la concentration d'ion H+,
+
+55
+00:02:36,560 --> 00:02:40,160
+est en dénominateur, donc plus cette concentration est
+
+56
+00:02:40,160 --> 00:02:41,900
+forte, plus le pH sera bas.
+
+57
+00:02:44,040 --> 00:02:45,900
+Donc, on définit ce que c'est qu
+
+58
+00:02:45,900 --> 00:02:49,200
+'une neutralité chimique par rapport à la concentration
+
+59
+00:02:49,200 --> 00:02:50,780
+d'ion H+, dans l'eau pure,
+
+60
+00:02:51,160 --> 00:02:53,440
+et cette concentration dans l'eau pure va
+
+61
+00:02:53,440 --> 00:02:54,800
+nous donner un pH à 7.
+
+62
+00:02:55,320 --> 00:02:58,520
+Donc, toute solution dont la concentration d'ion
+
+63
+00:02:58,520 --> 00:03:01,400
+H+, est supérieure à la concentration d
+
+64
+00:03:01,400 --> 00:03:03,280
+'ion H+, dans l'eau pure, aura
+
+65
+00:03:03,280 --> 00:03:07,500
+un pH inférieur à 7 et sera caractérisée
+
+66
+00:03:07,500 --> 00:03:09,060
+comme étant une solution acide.
+
+67
+00:03:09,060 --> 00:03:12,540
+Et inversement, dans les solutions où la concentration
+
+68
+00:03:12,540 --> 00:03:15,020
+d'ion H+, est plus faible que
+
+69
+00:03:15,020 --> 00:03:17,440
+celle dans l'eau pure, le pH sera
+
+70
+00:03:17,440 --> 00:03:20,540
+forcément supérieur à 7, et cette solution sera
+
+71
+00:03:20,540 --> 00:03:22,160
+dite alcaline ou basique.
+
+72
+00:03:23,720 --> 00:03:26,860
+Donc, le pH, la neutralité chimique, c'est
+
+73
+00:03:26,860 --> 00:03:29,300
+un pH qui correspond au pH de l
+
+74
+00:03:29,300 --> 00:03:30,520
+'eau pure, qui est de 7.
+
+75
+00:03:30,860 --> 00:03:33,380
+Mais par contre, dans l'organisme, dans les
+
+76
+00:03:33,380 --> 00:03:37,340
+liquides extracellulaires, le pH est aux alentours de
+
+77
+00:03:37,340 --> 00:03:40,500
+7.40, et c'est cet intervalle entre
+
+78
+00:03:40,500 --> 00:03:43,260
+7.38 et 7.42, puisqu'il y
+
+79
+00:03:43,260 --> 00:03:45,300
+a des variations qui vont se faire en
+
+80
+00:03:45,300 --> 00:03:48,000
+fonction des métabolismes, en fonction de l'activité,
+
+81
+00:03:48,240 --> 00:03:51,380
+donc c'est un intervalle de neutralité physiologique.
+
+82
+00:03:51,660 --> 00:03:53,720
+Donc, on parle d'une neutralité physiologique quand
+
+83
+00:03:53,720 --> 00:03:56,080
+le pH varie entre 7.38 et 7
+
+84
+00:03:56,080 --> 00:03:59,380
+.42. Donc, ce n'est pas le 7,
+
+85
+00:03:59,560 --> 00:04:02,060
+par contre, c'est quand on parlera d
+
+86
+00:04:02,060 --> 00:04:05,700
+'une acidité dans le milieu extracellulaire, quand le
+
+87
+00:04:05,700 --> 00:04:08,800
+pH est inférieur à 7.38. Donc, dans
+
+88
+00:04:08,800 --> 00:04:13,260
+l'expression chimique, un pH à 7.20,
+
+89
+00:04:13,600 --> 00:04:16,779
+c'est un pH qui est supérieur à
+
+90
+00:04:16,779 --> 00:04:18,880
+7, et qui est basique ou alcaline.
+
+91
+00:04:19,060 --> 00:04:22,040
+Par contre, dans le milieu extracellulaire, c'est
+
+92
+00:04:22,040 --> 00:04:27,220
+considéré comme une acidose, puisque la neutralité physiologique
+
+93
+00:04:27,220 --> 00:04:30,960
+des liquides extracellulaires est comprise en 7.38
+
+94
+00:04:30,960 --> 00:04:33,500
+et 7.42. Et il faut savoir qu
+
+95
+00:04:33,500 --> 00:04:35,720
+'un pH inférieur à 7 dans le milieu
+
+96
+00:04:35,720 --> 00:04:39,500
+extracellulaire, ou supérieur à 7.8, est incompatible
+
+97
+00:04:39,500 --> 00:04:40,960
+avec la survie.
+
+98
+00:04:41,940 --> 00:04:45,220
+Donc, ça, c'est la neutralité physiologique dans
+
+99
+00:04:45,220 --> 00:04:47,920
+le liquide extracellulaire du milieu intérieur.
+
+100
+00:04:48,200 --> 00:04:50,020
+Il faut savoir qu'il y a certaines
+
+101
+00:04:50,020 --> 00:04:52,720
+fluides de l'organisme où le pH peut
+
+102
+00:04:52,720 --> 00:04:55,520
+être très variable en fonction de la fonction
+
+103
+00:04:55,520 --> 00:04:57,040
+physiologique de l'organe.
+
+104
+00:04:57,140 --> 00:04:59,280
+Par exemple, au niveau des sécrétions gastriques, le
+
+105
+00:04:59,280 --> 00:05:02,380
+pH peut être égal à 1.
+
+106
+00:05:02,900 --> 00:05:05,700
+Dans le pH urinaire, il est entre 4
+
+107
+00:05:05,700 --> 00:05:07,920
+.5 et 8.5. Ça va dépendre également,
+
+108
+00:05:08,040 --> 00:05:10,260
+là aussi, de la nature de l'excrétion
+
+109
+00:05:10,260 --> 00:05:11,040
+urinaire.
+
+110
+00:05:11,660 --> 00:05:13,940
+Donc, les pH à l'intérieur des cellules
+
+111
+00:05:13,940 --> 00:05:16,740
+seront également variables d'un tissu à l
+
+112
+00:05:16,740 --> 00:05:19,240
+'autre, mais en général, ils sont proches de
+
+113
+00:05:19,240 --> 00:05:19,660
+7.
+
+114
+00:05:22,300 --> 00:05:26,360
+Donc, cet équilibre acido-basique est apprécié par
+
+115
+00:05:26,360 --> 00:05:28,400
+la concentration des protons H+.
+
+116
+00:05:28,400 --> 00:05:31,020
+Il faut savoir que pour avoir un pH
+
+117
+00:05:31,020 --> 00:05:33,740
+entre 7.38 et 7.42, la concentration
+
+118
+00:05:33,740 --> 00:05:36,440
+d'ion H+, elle varie entre 38
+
+119
+00:05:36,440 --> 00:05:37,860
+et 42 nm.
+
+120
+00:05:38,440 --> 00:05:42,540
+Et que, par contre, en intracellulaire, la concentration
+
+121
+00:05:42,540 --> 00:05:46,480
+est très variable de 7.32 et 42
+
+122
+00:05:46,480 --> 00:05:48,400
+nm, ce qui fait que le pH intracellulaire
+
+123
+00:05:48,940 --> 00:05:51,000
+sera variable du pH plasmatique.
+
+124
+00:05:53,100 --> 00:05:55,380
+Donc, pourquoi est-ce que la concentration d
+
+125
+00:05:55,380 --> 00:05:57,720
+'ion H+, est étroitement régulée ?
+
+126
+00:05:57,720 --> 00:06:00,280
+Parce que, tout simplement, il y a une
+
+127
+00:06:00,280 --> 00:06:04,520
+structure tertiaire d'un ensemble de protéines et
+
+128
+00:06:04,520 --> 00:06:08,320
+l'activité de ces protéines est dépendante de
+
+129
+00:06:08,320 --> 00:06:09,520
+leur structure tertiaire.
+
+130
+00:06:09,860 --> 00:06:13,280
+Cette structure tertiaire est maintenue grâce à un
+
+131
+00:06:13,280 --> 00:06:17,220
+pH particulier, grâce à ce pH extracellulaire.
+
+132
+00:06:17,740 --> 00:06:21,520
+Donc, toute modification du pH et donc toute
+
+133
+00:06:21,520 --> 00:06:24,820
+modification des concentrations H+, va entraîner une
+
+134
+00:06:24,820 --> 00:06:27,860
+modification de la structure de ces protéines et
+
+135
+00:06:27,860 --> 00:06:29,800
+forcément de leurs activités.
+
+136
+00:06:30,200 --> 00:06:31,860
+Et parmi ces protéines, on va trouver un
+
+137
+00:06:31,860 --> 00:06:34,040
+grand nombre d'enzymes, on va trouver des
+
+138
+00:06:34,040 --> 00:06:37,700
+canaux membraneurs et on va aussi trouver des
+
+139
+00:06:37,700 --> 00:06:39,080
+protéines transporteuses.
+
+140
+00:06:40,300 --> 00:06:44,200
+L'autre rôle important du pH, c'est
+
+141
+00:06:44,200 --> 00:06:48,400
+que ces modifications vont entraîner des modifications de
+
+142
+00:06:48,400 --> 00:06:51,340
+l'excitabilité neuronale et par conséquent, il y
+
+143
+00:06:51,340 --> 00:06:53,660
+aura des dépressions du système nerveux central en
+
+144
+00:06:53,660 --> 00:06:55,760
+cas d'acidose et en cas d'alkalose,
+
+145
+00:06:56,060 --> 00:06:58,820
+à l'inverse, on peut retrouver une hyper
+
+146
+00:06:58,820 --> 00:07:00,500
+excitabilité neuronale.
+
+147
+00:07:04,350 --> 00:07:06,590
+Donc, le maintien de l'équilibre acido-basique
+
+148
+00:07:06,590 --> 00:07:08,890
+de l'organisme est essentiel à la survie
+
+149
+00:07:08,890 --> 00:07:13,790
+et également, plusieurs réactions enzymatiques dépendent de cette
+
+150
+00:07:13,790 --> 00:07:18,230
+concentration d'H+, du milieu extracellulaire.
+
+151
+00:07:18,530 --> 00:07:21,630
+Donc, cette homéostasie du pH est une des
+
+152
+00:07:21,630 --> 00:07:24,030
+fonctions essentielles de l'organisme.
+
+153
+00:07:25,350 --> 00:07:28,770
+Ces ions H+, qui nécessitent ce contrôle
+
+154
+00:07:28,770 --> 00:07:33,530
+et cette régulation, peuvent venir de plusieurs sources.
+
+155
+00:07:34,150 --> 00:07:39,190
+Ces sources sont essentiellement représentées par la transformation
+
+156
+00:07:39,190 --> 00:07:44,670
+du déchet du travail cellulaire qui est représenté
+
+157
+00:07:44,670 --> 00:07:45,470
+par le CO2.
+
+158
+00:07:45,670 --> 00:07:48,510
+Puisque si on assimile notre organisme à une
+
+159
+00:07:48,510 --> 00:07:52,430
+machine, cette machine va avoir besoin d'un
+
+160
+00:07:52,430 --> 00:07:55,850
+certain nombre de carburants qui sont les sucres,
+
+161
+00:07:55,950 --> 00:07:59,170
+les graisses et elle va utiliser l'oxygène
+
+162
+00:07:59,170 --> 00:08:05,090
+pour transformer tout ce carburant en source d
+
+163
+00:08:05,090 --> 00:08:07,670
+'énergie en utilisant forcément de l'ATP.
+
+164
+00:08:08,290 --> 00:08:10,570
+Ce travail qui sera fourni et qui va
+
+165
+00:08:10,570 --> 00:08:13,950
+permettre de garantir la survie cellulaire, il va
+
+166
+00:08:13,950 --> 00:08:18,470
+forcément engendrer des déchets et qui nécessiteront leur
+
+167
+00:08:18,470 --> 00:08:19,190
+élimination.
+
+168
+00:08:19,190 --> 00:08:23,810
+Le principal déchet de cette combustion est représenté
+
+169
+00:08:23,810 --> 00:08:27,230
+par le CO2 et pour transporter ce CO2,
+
+170
+00:08:27,430 --> 00:08:31,230
+on va le lier à des molécules d
+
+171
+00:08:31,230 --> 00:08:33,669
+'eau pour qu'ils puissent être transportés dans
+
+172
+00:08:33,669 --> 00:08:35,530
+le sang avant d'arriver au niveau de
+
+173
+00:08:35,530 --> 00:08:37,950
+son site d'élimination.
+
+174
+00:08:40,590 --> 00:08:44,230
+Ces ions H+, ils viennent de l
+
+175
+00:08:44,230 --> 00:08:48,250
+'activité métabolique de notre organisme et cette activité
+
+176
+00:08:48,250 --> 00:08:51,690
+métabolique, c'est la majeure partie qui rend
+
+177
+00:08:51,690 --> 00:08:56,110
+les origines de l'acidité qui vient de
+
+178
+00:08:56,110 --> 00:08:59,910
+l'alimentation pratiquement insignifiante puisque c'est une
+
+179
+00:08:59,910 --> 00:09:01,390
+quantité très faible.
+
+180
+00:09:02,010 --> 00:09:07,130
+Cette activité métabolique va d'abord produire ces
+
+181
+00:09:07,130 --> 00:09:10,690
+ions H+, à partir de l'acide
+
+182
+00:09:10,690 --> 00:09:14,830
+carbonique puisque la formation de ce H2CO3 va
+
+183
+00:09:14,830 --> 00:09:16,290
+libérer de l'H+, et de l
+
+184
+00:09:16,290 --> 00:09:17,070
+'HCO3-.
+
+185
+00:09:18,530 --> 00:09:23,210
+Toujours comme activité métabolique, la production d'acide
+
+186
+00:09:23,210 --> 00:09:27,450
+peut venir également de la dégradation d'un
+
+187
+00:09:27,450 --> 00:09:31,010
+certain nombre de nutriments, comme par exemple les
+
+188
+00:09:31,010 --> 00:09:33,750
+protéines qui contiennent des acides et lors de
+
+189
+00:09:33,750 --> 00:09:36,850
+leur dégradation, ça peut libérer des protons H+.
+
+190
+00:09:36,850 --> 00:09:40,970
+L'autre ressource métabolique des ions H+,
+
+191
+00:09:40,970 --> 00:09:42,990
+c'est les métabolismes intermédiaires.
+
+192
+00:09:43,750 --> 00:09:45,530
+C'est par exemple le cas de la
+
+193
+00:09:45,530 --> 00:09:47,750
+production de l'acide lactique qui lui aussi
+
+194
+00:09:47,750 --> 00:09:49,610
+comporte des ions H+.
+
+195
+00:09:50,550 --> 00:09:54,190
+C'est cette réaction appelée équation d'Andersen
+
+196
+00:09:54,190 --> 00:09:57,730
+-Hasselbalch qui est la principale source des ions
+
+197
+00:09:57,730 --> 00:10:00,590
+H+, dans notre organisme, puisque c'est
+
+198
+00:10:00,590 --> 00:10:06,250
+la transformation du CO2 en H2CO3, et puisqu
+
+199
+00:10:06,250 --> 00:10:09,510
+'il va se dissocier dans les liquides du
+
+200
+00:10:09,510 --> 00:10:13,930
+milieu interstitiel en hydrogène et en bicarbonate, c
+
+201
+00:10:13,930 --> 00:10:15,450
+'est l'hydrogène, c'est les ions H
+
+202
+00:10:15,450 --> 00:10:20,170
++, qui vont entraîner les modifications de l
+
+203
+00:10:20,170 --> 00:10:23,750
+'équilibre acido-basique et qu'il faudra contrôler
+
+204
+00:10:23,750 --> 00:10:26,090
+et qu'il faudra réguler de façon très
+
+205
+00:10:26,090 --> 00:10:26,750
+étroite.
+
+206
+00:10:28,970 --> 00:10:33,370
+Cette réaction est importante parce qu'elle va
+
+207
+00:10:33,370 --> 00:10:36,610
+nous permettre de voir que le CO2 qui
+
+208
+00:10:36,610 --> 00:10:40,950
+lui est facilement éliminé par le poumon, l
+
+209
+00:10:40,950 --> 00:10:43,690
+'eau étant facilement éliminée par les reins, mais
+
+210
+00:10:43,690 --> 00:10:45,250
+ceci dit, il y a quand même une
+
+211
+00:10:45,250 --> 00:10:49,010
+production de l'H+, qui reste l
+
+212
+00:10:49,010 --> 00:10:53,790
+'ion, qui peut modifier notre pH du milieu
+
+213
+00:10:53,790 --> 00:10:58,050
+interstitiel, et du coup, toutes les conséquences dont
+
+214
+00:10:58,050 --> 00:11:01,950
+on a parlé au départ de cette hémoïostasie
+
+215
+00:11:02,290 --> 00:11:06,030
+en équilibre acido-basique peut perturber les fonctions
+
+216
+00:11:06,570 --> 00:11:10,370
+enzymatiques, peut perturber les connexions nerveuses, peut également
+
+217
+00:11:10,370 --> 00:11:15,130
+perturber la forme tertiaire de certaines protéines transporteuses
+
+218
+00:11:15,130 --> 00:11:19,050
+et ce qui sous-entend l'importance de
+
+219
+00:11:19,050 --> 00:11:21,690
+cet équilibre acido-basique.
+
+220
+00:11:24,440 --> 00:11:26,680
+Donc, comment s'organise cet équilibre ?
+
+221
+00:11:26,680 --> 00:11:28,800
+Il faut savoir tout d'abord que pour
+
+222
+00:11:28,800 --> 00:11:31,740
+obtenir un équilibre, il faut que les entrées
+
+223
+00:11:31,740 --> 00:11:33,920
+soient égales aux sorties.
+
+224
+00:11:34,300 --> 00:11:37,960
+Les principales entrées sont essentiellement d'origine métabolique,
+
+225
+00:11:37,960 --> 00:11:42,080
+que ce soit la combustion totale avec la
+
+226
+00:11:42,080 --> 00:11:46,840
+production de l'H2CO3, que ce soit les
+
+227
+00:11:46,840 --> 00:11:51,020
+combustions intermédiaires comme l'acide lactique ou les
+
+228
+00:11:51,020 --> 00:11:53,780
+acides cétoniques, ou que ce soit les origines
+
+229
+00:11:53,780 --> 00:11:56,040
+alimentaires comme les acides gras et les acides
+
+230
+00:11:56,040 --> 00:11:56,440
+aminés.
+
+231
+00:11:56,960 --> 00:11:57,960
+Donc ça, c'est les entrées.
+
+232
+00:11:58,360 --> 00:12:01,780
+Pour obtenir un équilibre, il faut que les
+
+233
+00:12:01,780 --> 00:12:05,960
+sorties soient également égales à ces entrées.
+
+234
+00:12:05,960 --> 00:12:08,940
+Et on a vu que selon la fameuse
+
+235
+00:12:08,940 --> 00:12:13,280
+équation, les sorties se feront essentiellement par le
+
+236
+00:12:13,280 --> 00:12:15,800
+poumon, qui va nous éliminer le CO2, et
+
+237
+00:12:15,800 --> 00:12:16,300
+par le rein.
+
+238
+00:12:16,740 --> 00:12:19,680
+Mais entre le site de production et les
+
+239
+00:12:19,680 --> 00:12:21,640
+sites d'élimination, il y a un certain
+
+240
+00:12:21,640 --> 00:12:25,220
+chemin à parcourir, d'où la nécessité d
+
+241
+00:12:25,220 --> 00:12:28,940
+'avoir des systèmes tampons qui vont tamponner cette
+
+242
+00:12:28,940 --> 00:12:31,440
+acidité au niveau de son site de production
+
+243
+00:12:31,960 --> 00:12:33,740
+avant qu'elle n'arrive au niveau du
+
+244
+00:12:33,740 --> 00:12:34,780
+site d'élimination.
+
+245
+00:12:36,640 --> 00:12:40,760
+Cette organisation de cet équilibre acido-basique va
+
+246
+00:12:40,760 --> 00:12:44,000
+se faire par ces trois mécanismes.
+
+247
+00:12:44,060 --> 00:12:46,980
+D'abord le système tampon, ensuite la ventilation,
+
+248
+00:12:47,340 --> 00:12:48,620
+et enfin la régulation rein.
+
+249
+00:12:50,600 --> 00:12:52,920
+Cette chronologie de la mise en œuvre est
+
+250
+00:12:52,920 --> 00:12:55,880
+très importante puisque le système tampon est la
+
+251
+00:12:55,880 --> 00:12:58,220
+première ligne de défense qui va limiter les
+
+252
+00:12:58,220 --> 00:13:01,180
+grandes variations et qui va se faire au
+
+253
+00:13:01,180 --> 00:13:04,000
+niveau du site de production de ces H+.
+
+254
+00:13:05,240 --> 00:13:09,540
+Cela va permettre d'éviter qu'il y
+
+255
+00:13:09,540 --> 00:13:12,520
+ait de grandes perturbations au niveau du liquide
+
+256
+00:13:12,520 --> 00:13:15,460
+interstitiel avant que le poumon et le rein
+
+257
+00:13:15,460 --> 00:13:20,200
+ne prennent en charge cette acidité qui a
+
+258
+00:13:20,200 --> 00:13:21,100
+été produite.
+
+259
+00:13:21,660 --> 00:13:23,940
+La première ligne de défense, c'est les
+
+260
+00:13:23,940 --> 00:13:24,700
+systèmes tampons.
+
+261
+00:13:25,060 --> 00:13:28,760
+Ces systèmes tampons vont protéger nos cellules et
+
+262
+00:13:28,760 --> 00:13:30,660
+ils vont porter les ions H+.
+
+263
+00:13:30,660 --> 00:13:34,280
+Malheureusement, ce système tampon ne peut pas éliminer
+
+264
+00:13:34,280 --> 00:13:35,860
+les ions H+.
+
+265
+00:13:35,860 --> 00:13:40,280
+L'autre limite de ces systèmes tampons, c
+
+266
+00:13:40,280 --> 00:13:43,440
+'est qu'ils sont saturables si les autres
+
+267
+00:13:43,440 --> 00:13:46,160
+mécanismes de défense ne prennent pas le relais,
+
+268
+00:13:46,280 --> 00:13:48,900
+à savoir le poumon et le rein.
+
+269
+00:13:50,020 --> 00:13:55,200
+Le système tampon va se comporter comme étant
+
+270
+00:13:56,100 --> 00:14:00,180
+des bases faibles qui sont représentées par le
+
+271
+00:14:00,180 --> 00:14:04,220
+bicarbonate et les protéines et qui vont accepter
+
+272
+00:14:04,220 --> 00:14:08,060
+ces ions hydrogènes et qui vont se transformer
+
+273
+00:14:08,060 --> 00:14:16,300
+avec des acides forts pour donner cette capacité
+
+274
+00:14:16,300 --> 00:14:19,040
+de tamponner ces ions H+, qui ont
+
+275
+00:14:19,040 --> 00:14:19,980
+été produits.
+
+276
+00:14:21,340 --> 00:14:26,000
+Ils sont très efficaces localement, mais malheureusement leur
+
+277
+00:14:26,000 --> 00:14:28,620
+quantité est limitée et du coup, ils seront
+
+278
+00:14:28,620 --> 00:14:32,440
+vite épuisés si les déchets ne ne seront
+
+279
+00:14:32,440 --> 00:14:36,300
+pas éliminés par le poumon et également par
+
+280
+00:14:36,300 --> 00:14:36,840
+le rein.
+
+281
+00:14:37,420 --> 00:14:41,960
+Comme le montre la fameuse expérience, l'intérêt
+
+282
+00:14:41,960 --> 00:14:44,360
+de ce système tampon, c'est que vous
+
+283
+00:14:44,360 --> 00:14:48,500
+voyez très bien que les variations vont être
+
+284
+00:14:49,460 --> 00:14:54,620
+très minimes, voire inexistantes en présence d'un
+
+285
+00:14:54,620 --> 00:14:55,340
+système tampon.
+
+286
+00:14:56,000 --> 00:14:58,080
+A l'inverse, en son absence, les variations
+
+287
+00:14:58,080 --> 00:14:58,840
+peuvent changer.
+
+288
+00:14:59,420 --> 00:15:03,660
+Le pH peut changer de façon très importante
+
+289
+00:15:03,660 --> 00:15:06,360
+dès qu'on commence à rajouter des ions
+
+290
+00:15:06,360 --> 00:15:07,040
+H+.
+
+291
+00:15:09,140 --> 00:15:11,600
+Il y a différents systèmes tampons dans l
+
+292
+00:15:11,600 --> 00:15:12,140
+'organisme.
+
+293
+00:15:12,480 --> 00:15:14,560
+Bien sûr, en intracellulaire, c'est surtout les
+
+294
+00:15:14,560 --> 00:15:16,100
+protéines et les ions phosphates.
+
+295
+00:15:16,600 --> 00:15:20,580
+En extracellulaire, le principal système tampon est représenté
+
+296
+00:15:20,580 --> 00:15:26,500
+par le bicarbonate qui va prendre en charge
+
+297
+00:15:28,160 --> 00:15:31,580
+ces H+, et qui va protéger le
+
+298
+00:15:31,580 --> 00:15:33,360
+liquide extracellulaire.
+
+299
+00:15:34,280 --> 00:15:36,400
+Il y a également les protéines qui jouent
+
+300
+00:15:36,400 --> 00:15:38,840
+un rôle très important dans le plasma, mais
+
+301
+00:15:38,840 --> 00:15:40,380
+ils sont très peu efficaces.
+
+302
+00:15:40,840 --> 00:15:43,880
+Il faut savoir que les phosphates peuvent également
+
+303
+00:15:43,880 --> 00:15:46,440
+jouer un rôle tampon, mais ils sont très
+
+304
+00:15:46,440 --> 00:15:48,560
+peu abondants dans le plasma, et donc leur
+
+305
+00:15:48,560 --> 00:15:51,560
+contribution au pouvoir tampon du plasma est très
+
+306
+00:15:51,560 --> 00:15:54,480
+faible, mais par contre, en intracellulaire, elles ont
+
+307
+00:15:54,480 --> 00:15:56,640
+un rôle tampon beaucoup plus important.
+
+308
+00:15:57,940 --> 00:16:01,500
+Ce système bicarbonate est le système le plus
+
+309
+00:16:01,500 --> 00:16:02,040
+important.
+
+310
+00:16:02,560 --> 00:16:04,300
+C'est le système qui est très efficace,
+
+311
+00:16:04,880 --> 00:16:08,600
+puisqu'il ne se sature pas, vu qu
+
+312
+00:16:08,600 --> 00:16:10,640
+'il fait partie d'un système ouvert.
+
+313
+00:16:11,240 --> 00:16:13,100
+Je m'explique tout simplement.
+
+314
+00:16:13,480 --> 00:16:16,420
+On revient à notre équation d'Andersen-Asselbach,
+
+315
+00:16:16,560 --> 00:16:18,560
+qui va montrer que c'est un système
+
+316
+00:16:18,560 --> 00:16:21,020
+ouvert du moment où il y a une
+
+317
+00:16:21,020 --> 00:16:22,440
+élimination du CO2.
+
+318
+00:16:22,640 --> 00:16:24,920
+Dès qu'on élimine le CO2, on va
+
+319
+00:16:24,920 --> 00:16:29,680
+régénérer ces bicarbonates qui vont rejouer leur rôle
+
+320
+00:16:29,680 --> 00:16:30,080
+tampon.
+
+321
+00:16:30,440 --> 00:16:32,260
+C'est un système qui est contrôlé par
+
+322
+00:16:32,260 --> 00:16:35,420
+le poumon et son caractère ouvert fait que
+
+323
+00:16:35,420 --> 00:16:38,220
+c'est un système qui est très efficace.
+
+324
+00:16:40,460 --> 00:16:43,580
+Une fois ce système tampon a neutralisé les
+
+325
+00:16:43,580 --> 00:16:45,640
+ions H+, on a dit que c
+
+326
+00:16:45,640 --> 00:16:47,660
+'est vraiment la première ligne de défense mais
+
+327
+00:16:47,660 --> 00:16:49,360
+c'est une première ligne qui a besoin
+
+328
+00:16:49,360 --> 00:16:52,160
+que les autres composantes de défense et d
+
+329
+00:16:52,160 --> 00:16:54,720
+'équilibre acido-basique soient mises en route.
+
+330
+00:16:55,280 --> 00:16:57,940
+Ces composantes sont tout d'abord la composante
+
+331
+00:16:57,940 --> 00:17:01,740
+respiratoire puisque c'est au niveau des poumons
+
+332
+00:17:01,740 --> 00:17:03,880
+que le CO2 sera éliminé.
+
+333
+00:17:05,079 --> 00:17:10,619
+Cette deuxième composante pulmonaire c'est le système
+
+334
+00:17:10,619 --> 00:17:13,060
+de régulation qui va être mis en route
+
+335
+00:17:13,060 --> 00:17:17,420
+pour compenser les défauts de la balance et
+
+336
+00:17:17,420 --> 00:17:21,020
+ce système respiratoire va agir par l'intermédiaire
+
+337
+00:17:21,020 --> 00:17:24,660
+de la ventilation puisqu'il va éliminer les
+
+338
+00:17:24,660 --> 00:17:27,640
+CO2 qui ont été formés et donc éviter
+
+339
+00:17:27,640 --> 00:17:30,380
+la formation d'H+, et maintenir la
+
+340
+00:17:30,380 --> 00:17:32,140
+pression des ions H+, dans le milieu
+
+341
+00:17:32,140 --> 00:17:33,660
+interstitiel constante.
+
+342
+00:17:34,240 --> 00:17:36,360
+C'est une régulation qui est rapide, qui
+
+343
+00:17:36,360 --> 00:17:38,220
+est mise en jeu dans les quelques minutes
+
+344
+00:17:38,220 --> 00:17:43,460
+après les modifications du pH et elle reste
+
+345
+00:17:43,460 --> 00:17:46,100
+optimale entre 12 et 24 heures tant que
+
+346
+00:17:46,100 --> 00:17:49,320
+les modifications sont toujours persistantes.
+
+347
+00:17:49,760 --> 00:17:52,020
+Elle permet d'assurer jusqu'à 75%
+
+348
+00:17:52,020 --> 00:17:54,520
+du déséquilibre acido-basique.
+
+349
+00:17:55,500 --> 00:17:59,220
+Cette régulation pulmonaire se met en route grâce
+
+350
+00:17:59,220 --> 00:18:00,840
+à des chémorécepteurs.
+
+351
+00:18:01,080 --> 00:18:04,020
+Il y a des chémorécepteurs périphériques essentiellement au
+
+352
+00:18:04,020 --> 00:18:07,000
+niveau aortique et carotidien qui sont sensibles à
+
+353
+00:18:07,000 --> 00:18:09,320
+l'augmentation de la concentration d'H+.
+
+354
+00:18:09,320 --> 00:18:11,800
+Et il y a les chémorécepteurs centraux qui,
+
+355
+00:18:11,980 --> 00:18:15,400
+eux, sont sensibles aux modifications de la PCO2
+
+356
+00:18:15,400 --> 00:18:17,580
+puisque l'H+, ne traverse pas la
+
+357
+00:18:17,580 --> 00:18:18,940
+barrière hémato-encéphalique.
+
+358
+00:18:19,020 --> 00:18:22,860
+De toute façon, cette stimulation de ces chémorécepteurs
+
+359
+00:18:22,860 --> 00:18:26,060
+va permettre de répondre à des modifications du
+
+360
+00:18:26,060 --> 00:18:29,360
+pH et du CO2 plasmatique en modifiant la
+
+361
+00:18:29,360 --> 00:18:30,900
+ventilation pulmonaire.
+
+362
+00:18:31,760 --> 00:18:36,960
+Ces centres respiratoires dès qu'ils sont stimulés
+
+363
+00:18:36,960 --> 00:18:41,220
+suite à une détection par ces chémorécepteurs de
+
+364
+00:18:41,220 --> 00:18:43,540
+modifications que ce soit du pH ou de
+
+365
+00:18:43,540 --> 00:18:49,740
+la PCO2, ils vont de façon réflexe stimuler
+
+366
+00:18:49,740 --> 00:18:52,640
+la ventilation pulmonaire de façon à l'adapter
+
+367
+00:18:52,640 --> 00:18:55,140
+aux variations du pH sanguin.
+
+368
+00:19:00,380 --> 00:19:03,580
+La respiration est un des éléments intervenant dans
+
+369
+00:19:03,580 --> 00:19:07,900
+la régulation de la balance acido-basique comme
+
+370
+00:19:07,900 --> 00:19:10,060
+deuxième ligne de défense, mais il faut également
+
+371
+00:19:10,060 --> 00:19:12,980
+savoir que ça peut être un élément perturbateur
+
+372
+00:19:12,980 --> 00:19:16,300
+dans les cas d'hyperventilation ou d'hypoventilation,
+
+373
+00:19:16,740 --> 00:19:18,520
+et dans ce cas, ça peut être à
+
+374
+00:19:18,520 --> 00:19:23,100
+l'origine de perturbations acido-basiques de l
+
+375
+00:19:23,100 --> 00:19:23,460
+'organisme.
+
+376
+00:19:24,360 --> 00:19:27,000
+La troisième ligne de défense est représentée par
+
+377
+00:19:27,000 --> 00:19:27,400
+le rhin.
+
+378
+00:19:28,700 --> 00:19:31,920
+Si les tampons chimiques vont se lier temporairement
+
+379
+00:19:31,920 --> 00:19:33,760
+à un acide en excès, ils n'ont
+
+380
+00:19:33,760 --> 00:19:35,460
+pas la capacité de l'éliminer.
+
+381
+00:19:36,440 --> 00:19:38,920
+Par contre, le rhin, lui, il a la
+
+382
+00:19:38,920 --> 00:19:42,120
+capacité et le pouvoir d'éliminer les acides
+
+383
+00:19:42,120 --> 00:19:43,920
+phosphoriques, sulfuriques, chlorhydriques.
+
+384
+00:19:44,560 --> 00:19:46,540
+L'acide carbonique, quant à lui, il est
+
+385
+00:19:46,540 --> 00:19:48,960
+spécifiquement rejeté par le poumon.
+
+386
+00:19:50,340 --> 00:19:53,520
+Le rhin, il constitue un système de régulation
+
+387
+00:19:53,520 --> 00:19:55,620
+plus lent, mais il est plus durable dans
+
+388
+00:19:55,620 --> 00:19:56,540
+le temps que le poumon.
+
+389
+00:19:57,180 --> 00:20:00,240
+Il peut également réguler la concentration des substances
+
+390
+00:20:00,240 --> 00:20:02,440
+basiques, comme par exemple les bicarbonates.
+
+391
+00:20:02,900 --> 00:20:05,220
+Et le rhin, il va être chargé de
+
+392
+00:20:05,220 --> 00:20:08,500
+réguler la réabsorption et la régénération des bicarbonates
+
+393
+00:20:08,500 --> 00:20:11,160
+avec excrétion des protons, dans le cas d
+
+394
+00:20:11,160 --> 00:20:13,600
+'une tendance vers l'acidose, ou d'éliminer
+
+395
+00:20:13,600 --> 00:20:15,760
+l'excès de bicarbonate et la production de
+
+396
+00:20:15,760 --> 00:20:17,980
+protons, dans le cas d'une tendance vers
+
+397
+00:20:17,980 --> 00:20:18,840
+l'alkalose.
+
+398
+00:20:19,420 --> 00:20:23,200
+C'est ce que montrent ces schémas.
+
+399
+00:20:23,680 --> 00:20:27,740
+Ce qui est sous forme de texte dans
+
+400
+00:20:27,740 --> 00:20:31,740
+ces diapositives, mais c'est essentiellement les schémas
+
+401
+00:20:31,740 --> 00:20:34,480
+que je vais vous montrer, qui montrent comment
+
+402
+00:20:34,480 --> 00:20:37,920
+le rhin intervient dans la régulation du pH
+
+403
+00:20:37,920 --> 00:20:38,600
+plasmatique.
+
+404
+00:20:39,200 --> 00:20:41,680
+En cas d'excès de production d'ion
+
+405
+00:20:41,680 --> 00:20:42,300
+H+.
+
+406
+00:20:42,860 --> 00:20:46,360
+Les H+, ils vont se lier.
+
+407
+00:20:46,820 --> 00:20:50,160
+Il y aura cette équation qui va faire
+
+408
+00:20:50,160 --> 00:20:53,460
+que le CO2 sera éliminé par le poumon.
+
+409
+00:20:54,260 --> 00:20:56,700
+Par contre, le rhin, puisqu'il y a
+
+410
+00:20:56,700 --> 00:20:59,320
+un excès de production d'H+, donc
+
+411
+00:20:59,320 --> 00:21:00,940
+on est dans le cas d'une acidose,
+
+412
+00:21:01,460 --> 00:21:03,820
+le rhin, il va d'une part sécréter
+
+413
+00:21:03,820 --> 00:21:06,500
+ces H+, d'autre part, il va
+
+414
+00:21:06,500 --> 00:21:11,040
+produire les bicarbonates et il va les réabsorber
+
+415
+00:21:11,040 --> 00:21:20,200
+pour favoriser cette amélioration de cette fonction de
+
+416
+00:21:20,200 --> 00:21:23,200
+régulation de cet excès et de cette acidose.
+
+417
+00:21:24,920 --> 00:21:28,220
+Par contre, en cas d'alkalose, on a
+
+418
+00:21:28,220 --> 00:21:30,100
+une baisse des ions H+.
+
+419
+00:21:30,100 --> 00:21:32,900
+Dans ce cas, le rhin, il va sécréter
+
+420
+00:21:32,900 --> 00:21:35,740
+les HCO3, donc il va sécréter les substances
+
+421
+00:21:35,740 --> 00:21:39,320
+basiques, ce qui va entraîner ce qu'on
+
+422
+00:21:39,320 --> 00:21:44,760
+appelle la libération des ions H+.
+
+423
+00:21:44,760 --> 00:21:47,460
+Il y aura une production des ions H
+
+424
+00:21:47,460 --> 00:21:55,240
++, ce qui va rééquilibrer notre concentration en
+
+425
+00:21:55,240 --> 00:21:58,280
+H+, et maintenir notre équilibre acido-basique.
+
+426
+00:22:00,390 --> 00:22:02,470
+Comment est-ce qu'on peut explorer cet
+
+427
+00:22:02,470 --> 00:22:03,970
+équilibre acido-basique ?
+
+428
+00:22:03,970 --> 00:22:07,230
+Le principal examen qui va apprécier l'équilibre
+
+429
+00:22:07,230 --> 00:22:09,010
+acido-basique de l'organisme, c'est le
+
+430
+00:22:09,010 --> 00:22:11,750
+gaz du son artériel, puisqu'il va nous
+
+431
+00:22:11,750 --> 00:22:14,630
+donner le pH, la PO2, la PCO2, le
+
+432
+00:22:14,630 --> 00:22:18,370
+dosage des bicarbonates, le CO2 total, et bien
+
+433
+00:22:18,370 --> 00:22:21,470
+sûr, il va également nous donner le contenu
+
+434
+00:22:21,470 --> 00:22:22,510
+en oxygène.
+
+435
+00:22:24,190 --> 00:22:25,990
+Il y a, comme j'ai dit, plusieurs
+
+436
+00:22:25,990 --> 00:22:28,610
+troubles, qu'ils soient d'origine métabolique ou
+
+437
+00:22:28,610 --> 00:22:29,310
+respiratoire.
+
+438
+00:22:29,950 --> 00:22:32,390
+On peut parler de l'acidose ou de
+
+439
+00:22:32,390 --> 00:22:33,030
+l'alcalose.
+
+440
+00:22:33,790 --> 00:22:37,410
+Quand elle est d'origine métabolique, bien sûr,
+
+441
+00:22:37,490 --> 00:22:38,730
+l'acidose, c'est qu'il y a
+
+442
+00:22:38,730 --> 00:22:41,190
+un excès d'H+, le pH est
+
+443
+00:22:41,190 --> 00:22:44,330
+bas, et le CO3-, quand c'est
+
+444
+00:22:44,330 --> 00:22:45,730
+d'origine métabolique, il est bas.
+
+445
+00:22:45,870 --> 00:22:48,310
+Par contre, quand c'est d'origine respiratoire,
+
+446
+00:22:48,950 --> 00:22:53,930
+la PCO2 peut être élevée, la production d
+
+447
+00:22:53,930 --> 00:22:55,890
+'H+, c'est élevé, le pH, il
+
+448
+00:22:55,890 --> 00:22:57,530
+est bas, et le CO3-, il est
+
+449
+00:22:57,530 --> 00:22:57,810
+élevé.
+
+450
+00:22:57,990 --> 00:23:00,890
+C'est juste pour vous parler que les
+
+451
+00:23:00,890 --> 00:23:03,990
+troubles, que ce soit sous forme d'acidose
+
+452
+00:23:03,990 --> 00:23:05,790
+ou d'alcalose, peuvent être soit d'origine
+
+453
+00:23:05,790 --> 00:23:08,010
+métabolique, soit d'origine respiratoire.
+
+454
+00:23:08,390 --> 00:23:10,790
+Il faut bien distinguer ces deux situations pour
+
+455
+00:23:10,790 --> 00:23:14,250
+pouvoir adapter la prise en charge thérapeutique.
+
+456
+00:23:15,770 --> 00:23:18,130
+Pour finir, le pH de l'organisme est
+
+457
+00:23:18,130 --> 00:23:22,450
+étroitement régulé parce que des modifications importantes peuvent
+
+458
+00:23:22,450 --> 00:23:26,050
+affecter les fonctions des protéines, des canaux membranaires,
+
+459
+00:23:26,150 --> 00:23:26,650
+des enzymes.
+
+460
+00:23:27,190 --> 00:23:29,930
+Donc, cette homéostasie du pH est une des
+
+461
+00:23:29,930 --> 00:23:31,790
+fonctions essentielles à la survie.
+
+462
+00:23:34,850 --> 00:23:37,210
+Et comme on a vu, le maintien de
+
+463
+00:23:37,210 --> 00:23:40,050
+cet équilibre, il est sous la triple dépendance
+
+464
+00:23:40,050 --> 00:23:42,530
+des systèmes tampons de l'organisme, du système
+
+465
+00:23:42,530 --> 00:23:46,450
+respiratoire et enfin du système rénal.
+
+466
+00:23:47,550 --> 00:23:50,410
+Et je vous remercie pour votre attention.

@@ -1,0 +1,3895 @@
+1
+00:00:01,860 --> 00:00:06,700
+Bonjour, nous allons reprendre l'étude de l
+
+2
+00:00:06,700 --> 00:00:07,300
+'hémostase.
+
+3
+00:00:07,960 --> 00:00:11,840
+Nous avions commencé par introduire l'hémostase en
+
+4
+00:00:11,840 --> 00:00:14,880
+parlant de la simbiologie des hémorragies et des
+
+5
+00:00:14,880 --> 00:00:15,540
+thromboses.
+
+6
+00:00:18,120 --> 00:00:21,760
+Et nous avions vu que l'hémostase comprenait
+
+7
+00:00:21,760 --> 00:00:22,620
+trois phases.
+
+8
+00:00:23,320 --> 00:00:28,520
+La phase des hémostases primaires, la deuxième c
+
+9
+00:00:28,520 --> 00:00:30,860
+'est la coagulation et la troisième c'est
+
+10
+00:00:30,860 --> 00:00:31,680
+la fibrinolyse.
+
+11
+00:00:32,440 --> 00:00:36,180
+Et que nous avons aussi insisté sur la
+
+12
+00:00:36,180 --> 00:00:40,220
+phase préanalytique puisqu'elle est à la base
+
+13
+00:00:40,220 --> 00:00:45,220
+de 70% de problèmes et d'erreurs
+
+14
+00:00:45,220 --> 00:00:46,300
+au niveau du laboratoire.
+
+15
+00:00:48,000 --> 00:00:50,020
+Donc aujourd'hui nous allons continuer ce cours
+
+16
+00:00:50,020 --> 00:00:52,740
+en étudiant la coagulation plasmatique.
+
+17
+00:00:55,080 --> 00:00:57,580
+Donc là d'emblée vous voyez un peu
+
+18
+00:00:57,580 --> 00:01:01,840
+les images des gens, c'est-à-dire
+
+19
+00:01:01,840 --> 00:01:07,540
+puisqu'on avait signalé que la coagulation était
+
+20
+00:01:07,540 --> 00:01:09,260
+responsable d'hématomes.
+
+21
+00:01:10,020 --> 00:01:11,740
+Hématomes, c'est-à-dire c'est des
+
+22
+00:01:11,740 --> 00:01:16,160
+hématoses, c'est-à-dire de grands hématomes
+
+23
+00:01:16,160 --> 00:01:19,280
+au niveau des grosses articulations ou au niveau
+
+24
+00:01:19,280 --> 00:01:21,780
+des muscles ou au niveau de l'abdomen.
+
+25
+00:01:21,780 --> 00:01:27,660
+Donc la coagulation est responsable de ces hématomes.
+
+26
+00:01:29,060 --> 00:01:32,000
+Le plan que nous allons adopter sera toujours
+
+27
+00:01:32,000 --> 00:01:32,460
+le même.
+
+28
+00:01:32,960 --> 00:01:36,600
+Après une introduction, nous allons voir la physiologie
+
+29
+00:01:36,600 --> 00:01:40,660
+de la coagulation en étudiant les différents intervenants
+
+30
+00:01:40,660 --> 00:01:44,860
+et leurs régulations, l'exploration biologique de la
+
+31
+00:01:44,860 --> 00:01:49,980
+coagulation et enfin, nous allons voir quelques algorithmes
+
+32
+00:01:49,980 --> 00:01:54,520
+décisionnels en fonction des bilans que nous avons
+
+33
+00:01:54,520 --> 00:01:57,560
+faits, c'est-à-dire des anomalies, c
+
+34
+00:01:57,560 --> 00:01:58,800
+'est-à-dire en cas d'allongement d
+
+35
+00:01:58,800 --> 00:02:00,680
+'un temps de quick, d'un temps de
+
+36
+00:02:00,680 --> 00:02:04,480
+céphalie avec activateur ou d'autres, avant de
+
+37
+00:02:04,480 --> 00:02:04,900
+conclure.
+
+38
+00:02:10,960 --> 00:02:15,300
+Donc la coagulation plasmatique est une cascade de
+
+39
+00:02:15,300 --> 00:02:16,700
+réactions enzymatiques.
+
+40
+00:02:17,700 --> 00:02:25,080
+Après la formation du clou plaquetaire par les
+
+41
+00:02:25,080 --> 00:02:30,520
+moustaches primaires, cette coagulation va intervenir pour consolider
+
+42
+00:02:30,520 --> 00:02:34,080
+ce clou plaquetaire friable, fragile.
+
+43
+00:02:34,940 --> 00:02:38,420
+En transformant le fibrinogène soluble dans le plasma,
+
+44
+00:02:39,220 --> 00:02:40,820
+on fibrine un soluble.
+
+45
+00:02:41,780 --> 00:02:46,080
+Et donc le thrombus blanc plaquetaire va être
+
+46
+00:02:46,080 --> 00:02:52,120
+solide et transformé en thrombus rouge solide, non
+
+47
+00:02:52,120 --> 00:02:54,860
+friable, qui va permettre l'arrêt de l
+
+48
+00:02:54,860 --> 00:02:59,540
+'hémorragie et permettre au corps de réaliser la
+
+49
+00:02:59,540 --> 00:03:03,840
+cicatrisation avant qu'il soit thrombolisé à la
+
+50
+00:03:03,840 --> 00:03:04,000
+fin.
+
+51
+00:03:05,460 --> 00:03:08,620
+Donc ce sont les circonstances d'exploration de
+
+52
+00:03:08,620 --> 00:03:09,240
+la coagulation.
+
+53
+00:03:09,580 --> 00:03:10,760
+Elles sont très variables.
+
+54
+00:03:10,880 --> 00:03:12,040
+Quand est-ce qu'on va demander ces
+
+55
+00:03:12,040 --> 00:03:14,460
+bilans de coagulation?
+
+56
+00:03:14,900 --> 00:03:16,760
+C'est souvent au cours d'un bilan
+
+57
+00:03:16,760 --> 00:03:17,740
+préopératoire.
+
+58
+00:03:18,700 --> 00:03:20,860
+C'est avant que le patient soit opéré.
+
+59
+00:03:21,160 --> 00:03:23,560
+On doit savoir, est-ce que le sang
+
+60
+00:03:23,560 --> 00:03:24,120
+coagule?
+
+61
+00:03:24,120 --> 00:03:27,960
+Car là, si le patient a des problèmes
+
+62
+00:03:27,960 --> 00:03:32,720
+d'hémostase, il risque de saigner à mort
+
+63
+00:03:32,720 --> 00:03:34,040
+après l'intervention.
+
+64
+00:03:34,260 --> 00:03:36,680
+Vous savez que lors des interventions, on ouvre
+
+65
+00:03:36,680 --> 00:03:39,820
+des abdomens, on ouvre les thorax, on fait
+
+66
+00:03:39,820 --> 00:03:41,900
+des coupures.
+
+67
+00:03:42,020 --> 00:03:43,820
+Et donc là, il faut que l'hémostase
+
+68
+00:03:43,820 --> 00:03:45,800
+soit fonctionnelle.
+
+69
+00:03:45,920 --> 00:03:48,660
+Donc il faut quand même vérifier que l
+
+70
+00:03:48,660 --> 00:03:52,900
+'hémostase est normale avant d'intervenir.
+
+71
+00:03:54,120 --> 00:03:58,400
+La deuxième circonstance sont les hémorragies profondes dont
+
+72
+00:03:58,400 --> 00:04:02,140
+on a parlé, hématomes, hématoses, et qui peuvent
+
+73
+00:04:02,140 --> 00:04:06,920
+dans certaines circonstances constituer une urgence vitale.
+
+74
+00:04:07,960 --> 00:04:11,440
+Cette exploration se fait in vitro, c'est
+
+75
+00:04:11,440 --> 00:04:12,860
+-à-dire elle ne se fait pas sur
+
+76
+00:04:12,860 --> 00:04:13,700
+le corps directement.
+
+77
+00:04:14,420 --> 00:04:15,720
+On va faire des prélèvements.
+
+78
+00:04:16,480 --> 00:04:19,640
+Et donc on va commencer toujours par des
+
+79
+00:04:19,640 --> 00:04:24,200
+tests de première intention d'orientation avant de
+
+80
+00:04:24,200 --> 00:04:27,540
+passer au test de seconde intention, c'est
+
+81
+00:04:27,540 --> 00:04:31,020
+-à-dire de confirmation de la cause de
+
+82
+00:04:31,020 --> 00:04:31,520
+l'anomalie.
+
+83
+00:04:35,220 --> 00:04:37,340
+Le premier chapitre que nous allons voir, c
+
+84
+00:04:37,340 --> 00:04:38,820
+'est la physiologie de la coagulation.
+
+85
+00:04:39,660 --> 00:04:43,600
+Physiologie veut dire ce qui se passe normalement
+
+86
+00:04:43,600 --> 00:04:44,340
+dans le corps.
+
+87
+00:04:44,700 --> 00:04:45,540
+C'est ça la physiologie.
+
+88
+00:04:46,800 --> 00:04:49,980
+Physiopathologie veut dire, en cas de pathologie, quelles
+
+89
+00:04:49,980 --> 00:04:51,380
+sont les explications qu'on a.
+
+90
+00:04:51,380 --> 00:04:54,440
+Là on va voir la physiologie normale de
+
+91
+00:04:54,440 --> 00:04:55,120
+la coagulation.
+
+92
+00:04:56,340 --> 00:04:59,120
+Quels sont les éléments qui vont intervenir ?
+
+93
+00:04:59,120 --> 00:05:01,220
+Tout d'abord les éléments cellulaires, et ils
+
+94
+00:05:01,220 --> 00:05:05,920
+sont nombreux, et notamment les cellules endothéliales qui
+
+95
+00:05:05,920 --> 00:05:09,780
+constituent la couche interne des vaisseaux et qui
+
+96
+00:05:09,780 --> 00:05:12,640
+vont exprimer le facteur tissulaire.
+
+97
+00:05:13,860 --> 00:05:15,380
+Il y a aussi les plaquettes qui vont
+
+98
+00:05:15,380 --> 00:05:18,140
+intervenir, mais indirectement.
+
+99
+00:05:18,140 --> 00:05:21,440
+C'est-à-dire, grâce aux phospholipides qui
+
+100
+00:05:21,440 --> 00:05:26,620
+sont à la surface des plaquettes, la coagulation
+
+101
+00:05:26,620 --> 00:05:29,900
+va se faire sur ces phospholipides.
+
+102
+00:05:31,100 --> 00:05:33,740
+Bien sûr, il y a aussi l'immune
+
+103
+00:05:33,740 --> 00:05:38,100
+qui va exprimer le facteur tissulaire et la
+
+104
+00:05:38,100 --> 00:05:40,400
+sécrétion aussi de phospholipides anioniques.
+
+105
+00:05:41,420 --> 00:05:43,660
+D'autres cellules peuvent intervenir, mais de façon
+
+106
+00:05:43,660 --> 00:05:45,220
+trop indirecte.
+
+107
+00:05:47,540 --> 00:05:50,200
+Le deuxième élément, après les éléments cellulaires, ce
+
+108
+00:05:50,200 --> 00:05:51,780
+sont les éléments plasmatiques.
+
+109
+00:05:52,660 --> 00:05:54,460
+Et là, il faut les connaître, ce sont
+
+110
+00:05:54,460 --> 00:05:55,700
+des facteurs de coagulation.
+
+111
+00:05:57,920 --> 00:06:01,240
+Souvent, quand on parle de coagulation, on sous
+
+112
+00:06:01,240 --> 00:06:04,160
+-entend la présence de ces facteurs de coagulation.
+
+113
+00:06:04,860 --> 00:06:06,960
+Vous en avez sûrement entendu, c'est-à
+
+114
+00:06:06,960 --> 00:06:08,880
+-dire dans l'hémophilie, c'est le déficitant
+
+115
+00:06:08,880 --> 00:06:09,520
+facteur 8.
+
+116
+00:06:09,520 --> 00:06:11,720
+Et donc là, en fait, il y en
+
+117
+00:06:11,720 --> 00:06:16,100
+a 13, en plus de la pré-calicrine
+
+118
+00:06:16,100 --> 00:06:18,340
+et le quinonogène de haut point moléculaire.
+
+119
+00:06:19,340 --> 00:06:24,580
+Ils circulent sous deux formes, inactives.
+
+120
+00:06:26,260 --> 00:06:29,080
+C'est-à-dire, ces facteurs sont inactifs
+
+121
+00:06:29,080 --> 00:06:31,120
+dans le corps, ils circulent dans le plasma.
+
+122
+00:06:31,840 --> 00:06:36,220
+Et en cas de blessure, c'est-à
+
+123
+00:06:36,220 --> 00:06:38,120
+-dire si on a besoin d'eux, ils
+
+124
+00:06:38,120 --> 00:06:39,380
+vont être activés.
+
+125
+00:06:40,040 --> 00:06:42,020
+Et donc déjà, pour la nomenclature, quand on
+
+126
+00:06:42,020 --> 00:06:44,120
+parle de facteurs inactifs, on met juste le
+
+127
+00:06:44,120 --> 00:06:44,400
+chiffre.
+
+128
+00:06:44,540 --> 00:06:46,620
+Par exemple, la prothrombine, c'est le 2,
+
+129
+00:06:47,600 --> 00:06:48,720
+donc on va mettre 2.
+
+130
+00:06:49,540 --> 00:06:53,980
+Lorsqu'ils seront activés pour agir et devenir
+
+131
+00:06:53,980 --> 00:06:58,400
+fonctionnels, on va rajouter un petit « ta
+
+132
+00:06:58,400 --> 00:06:58,760
+».
+
+133
+00:06:58,760 --> 00:07:02,160
+Donc c'est le 2A, et là on
+
+134
+00:07:02,160 --> 00:07:03,360
+l'appelle thrombine.
+
+135
+00:07:05,640 --> 00:07:07,880
+Ces facteurs de coagulation, c'est eux qui
+
+136
+00:07:07,880 --> 00:07:11,960
+vont être activés pour transformer le fibrinogène en
+
+137
+00:07:11,960 --> 00:07:12,540
+fibrine.
+
+138
+00:07:14,080 --> 00:07:16,000
+Mais, c'est-à-dire, parfois on a
+
+139
+00:07:16,000 --> 00:07:18,480
+une lésion au niveau d'un organe, au
+
+140
+00:07:18,480 --> 00:07:20,800
+niveau par exemple de la main, et donc
+
+141
+00:07:20,800 --> 00:07:23,160
+il y aura des facteurs de coagulation qui
+
+142
+00:07:23,160 --> 00:07:27,340
+seront activés, mais il y a des facteurs
+
+143
+00:07:27,340 --> 00:07:29,120
+qui resteront au niveau de la plaie, mais
+
+144
+00:07:29,120 --> 00:07:32,780
+d'autres risquent de partir avec la circulation,
+
+145
+00:07:33,060 --> 00:07:35,960
+puisque le sang continue à circuler, et donc
+
+146
+00:07:35,960 --> 00:07:38,980
+ils risquent d'entraîner une coagulation en dehors
+
+147
+00:07:38,980 --> 00:07:40,980
+du point de la lésion, de la plaie.
+
+148
+00:07:41,620 --> 00:07:43,520
+C'est pourquoi il y a des inhibiteurs
+
+149
+00:07:43,520 --> 00:07:44,980
+de la coagulation.
+
+150
+00:07:44,980 --> 00:07:51,820
+Ces inhibiteurs vont bloquer les facteurs activés qui
+
+151
+00:07:51,820 --> 00:07:56,400
+partent en circulation en dehors de la plaie,
+
+152
+00:07:58,060 --> 00:08:00,200
+c'est-à-dire là où doit se
+
+153
+00:08:00,200 --> 00:08:01,080
+faire la coagulation.
+
+154
+00:08:01,680 --> 00:08:03,740
+Donc ces inhibiteurs, c'est l'antithrombine 3,
+
+155
+00:08:03,880 --> 00:08:05,640
+la protéine C et la protéine S.
+
+156
+00:08:06,580 --> 00:08:11,460
+D'autres éléments interviennent dans la coagulation, notamment
+
+157
+00:08:11,460 --> 00:08:13,760
+le calcium et le facteur tissulaire.
+
+158
+00:08:13,760 --> 00:08:16,800
+Vous voyez, j'ai mis facteur 4 et
+
+159
+00:08:16,800 --> 00:08:18,320
+facteur 3 entre parenthèses.
+
+160
+00:08:19,060 --> 00:08:21,740
+On ne les appelle plus facteurs puisqu'au
+
+161
+00:08:21,740 --> 00:08:23,920
+début, on a cru que c'était des
+
+162
+00:08:23,920 --> 00:08:24,280
+facteurs.
+
+163
+00:08:24,520 --> 00:08:27,640
+Au début, quand on a commencé à découvrir
+
+164
+00:08:27,640 --> 00:08:32,260
+grâce aux recherches ces facteurs, ils ont appelé
+
+165
+00:08:32,260 --> 00:08:35,440
+calcium facteur 4, ils ont appelé facteur tissulaire
+
+166
+00:08:35,440 --> 00:08:39,179
+facteur 3, mais là on ne les voit
+
+167
+00:08:39,179 --> 00:08:39,520
+plus.
+
+168
+00:08:39,520 --> 00:08:40,720
+C'est-à-dire qu'on voit 1,
+
+169
+00:08:40,860 --> 00:08:42,440
+2, 5, il n'y a plus ce
+
+170
+00:08:42,440 --> 00:08:43,260
+3 et le 4.
+
+171
+00:08:43,780 --> 00:08:45,760
+En fait, le 4 c'est le calcium,
+
+172
+00:08:45,960 --> 00:08:48,080
+le 3 c'est le tissulaire, et donc
+
+173
+00:08:48,080 --> 00:08:49,720
+ces termes sont bannis.
+
+174
+00:08:53,240 --> 00:08:55,580
+Voilà, c'est-à-dire un tableau explicatif
+
+175
+00:08:55,580 --> 00:08:59,060
+des différents facteurs, et là vous les voyez
+
+176
+00:08:59,060 --> 00:09:02,240
+avec leurs chiffres indicatifs.
+
+177
+00:09:02,880 --> 00:09:04,860
+Là ce sont leurs noms, par exemple le
+
+178
+00:09:04,860 --> 00:09:06,600
+1 c'est le fibrinogène, le 2 c
+
+179
+00:09:06,600 --> 00:09:09,940
+'est la prothrombine, proaxilirine, etc.
+
+180
+00:09:10,800 --> 00:09:13,260
+Là c'est la fonction de ces facteurs,
+
+181
+00:09:14,140 --> 00:09:16,280
+là c'est le lieu de leur synthèse,
+
+182
+00:09:16,880 --> 00:09:18,880
+et vous voyez que la majorité des facteurs
+
+183
+00:09:18,880 --> 00:09:21,100
+sont synthétisés dans le 4.
+
+184
+00:09:22,460 --> 00:09:25,480
+C'est pourquoi, c'est juste une petite
+
+185
+00:09:25,480 --> 00:09:31,020
+explication, souvent quand on a une insuffisance hépatocellulaire,
+
+186
+00:09:31,560 --> 00:09:33,540
+on va doser le facteur 5.
+
+187
+00:09:33,540 --> 00:09:39,860
+C'est-à-dire qu'il y a
+
+188
+00:09:39,860 --> 00:09:44,120
+un souci au niveau du foie, donc c
+
+189
+00:09:44,120 --> 00:09:46,720
+'est un indicateur d'une insuffisance hépatocellulaire.
+
+190
+00:09:48,280 --> 00:09:48,640
+Voilà.
+
+191
+00:09:50,540 --> 00:09:53,880
+Les inhibiteurs sont nommés ici, AT c'est
+
+192
+00:09:53,880 --> 00:09:57,380
+l'antithrombine, protéine C, protéine S, le TFPI,
+
+193
+00:09:57,620 --> 00:09:59,040
+inhibiteur du facteur tissulaire.
+
+194
+00:09:59,040 --> 00:10:00,840
+Donc leurs fonctions.
+
+195
+00:10:01,700 --> 00:10:04,840
+La synthèse, c'est aussi hépatique, sauf pour
+
+196
+00:10:04,840 --> 00:10:06,580
+le TFPI, c'est l'endothélium.
+
+197
+00:10:07,500 --> 00:10:10,220
+Et la distribution au niveau du corps, souvent
+
+198
+00:10:10,220 --> 00:10:11,880
+c'est au niveau du plasma, parfois au
+
+199
+00:10:11,880 --> 00:10:13,940
+niveau des plaquettes, c'est l'endothélium.
+
+200
+00:10:16,870 --> 00:10:19,490
+Comment se déroule la coagulation ?
+
+201
+00:10:19,490 --> 00:10:21,010
+C'est intéressant à connaître.
+
+202
+00:10:21,950 --> 00:10:26,250
+Donc la coagulation, c'est une cascade enzymatique,
+
+203
+00:10:26,530 --> 00:10:27,750
+complexe.
+
+204
+00:10:28,690 --> 00:10:30,010
+On va la voir.
+
+205
+00:10:30,510 --> 00:10:33,390
+C'est une cascade, un élément qui va
+
+206
+00:10:33,390 --> 00:10:37,490
+activer l'autre, et ainsi de suite, jusqu
+
+207
+00:10:37,490 --> 00:10:41,350
+'à ce que la thrombine, c'est la
+
+208
+00:10:41,350 --> 00:10:44,410
+fin de la cascade ici, transforme le fibrinogène
+
+209
+00:10:44,410 --> 00:10:45,830
+soluble, c'est-à-dire il est à
+
+210
+00:10:45,830 --> 00:10:49,310
+l'état soluble, en fibrine insoluble, ce qui
+
+211
+00:10:49,310 --> 00:10:52,910
+se forme de petits cordons très fins qui
+
+212
+00:10:52,910 --> 00:10:57,830
+vont consolider le caillot plaquetaire.
+
+213
+00:10:59,250 --> 00:11:00,930
+Donc il y avait deux concepts avant.
+
+214
+00:11:01,250 --> 00:11:03,910
+Il y a le concept classique avec deux
+
+215
+00:11:03,910 --> 00:11:04,750
+voies d'activation.
+
+216
+00:11:05,950 --> 00:11:07,870
+C'est le concept du L.
+
+217
+00:11:08,850 --> 00:11:12,070
+Il se composait de la voie intrinsèque, appelée
+
+218
+00:11:12,070 --> 00:11:15,730
+aussi voie endogène, et de la voie extrinsèque,
+
+219
+00:11:16,350 --> 00:11:17,670
+appelée aussi exogène.
+
+220
+00:11:17,670 --> 00:11:27,630
+Ce concept est intéressant à connaître in vitro,
+
+221
+00:11:28,050 --> 00:11:29,430
+c'est-à-dire quand on réalise des
+
+222
+00:11:29,430 --> 00:11:32,290
+bilans, on gère, c'est-à-dire on
+
+223
+00:11:32,290 --> 00:11:34,750
+va se connaître un peu là où se
+
+224
+00:11:34,750 --> 00:11:37,830
+trouve le déficit en se basant sur ce
+
+225
+00:11:37,830 --> 00:11:42,530
+concept classique, voie intrinsèque, voie endogène.
+
+226
+00:11:43,710 --> 00:11:48,250
+Et là voilà ce concept classique in vitro.
+
+227
+00:11:49,130 --> 00:11:51,370
+Donc il y a la voie intrinsèque, ça
+
+228
+00:11:51,370 --> 00:11:54,750
+commence par cette voie, c'est-à-dire
+
+229
+00:11:54,750 --> 00:11:57,750
+on les appelle facteurs contacts, le facteur 12,
+
+230
+00:11:57,890 --> 00:12:02,610
+pré-calicrine, kinélogène et endopore moléculaire, qui vont
+
+231
+00:12:02,610 --> 00:12:05,350
+activer le facteur 11, le 9, le 8.
+
+232
+00:12:06,730 --> 00:12:09,830
+Ces facteurs vont agir sur le tronc commun
+
+233
+00:12:09,830 --> 00:12:12,810
+où se trouve le facteur 10, 5 et
+
+234
+00:12:12,810 --> 00:12:16,910
+2, et qui vont entraîner la formation du
+
+235
+00:12:16,910 --> 00:12:19,730
+fibrinogène, la transformation du fibrinogène en fibrine, la
+
+236
+00:12:19,730 --> 00:12:20,530
+fibrinoformation.
+
+237
+00:12:21,210 --> 00:12:23,150
+Il y a aussi la voie extrinsèque, et
+
+238
+00:12:23,150 --> 00:12:25,370
+celle-là commence par le facteur tissulaire et
+
+239
+00:12:25,370 --> 00:12:29,590
+le facteur 7, qui vont agir aussi sur
+
+240
+00:12:29,590 --> 00:12:33,390
+le tronc commun et vont aboutir à la
+
+241
+00:12:33,390 --> 00:12:37,150
+fibrinoformation, la transformation du fibrinogène en fibrine.
+
+242
+00:12:40,630 --> 00:12:44,390
+Le deuxième concept, c'est le concept actuel
+
+243
+00:12:44,390 --> 00:12:45,110
+de la coagulation.
+
+244
+00:12:45,490 --> 00:12:46,950
+J'ai mis quatre croix au plus.
+
+245
+00:12:47,610 --> 00:12:49,010
+C'est ce qui se passe effectivement dans
+
+246
+00:12:49,010 --> 00:12:52,210
+notre corps in vivo, in vivo, c'est
+
+247
+00:12:52,210 --> 00:12:54,490
+-à-dire le réel dans notre corps.
+
+248
+00:12:55,130 --> 00:12:57,190
+Et donc là, le déclenchement de la coagulation
+
+249
+00:12:57,190 --> 00:13:00,730
+se fait selon trois phases, une phase d
+
+250
+00:13:00,730 --> 00:13:04,870
+'initiation, une phase d'amplification et une phase
+
+251
+00:13:04,870 --> 00:13:05,630
+de progression.
+
+252
+00:13:07,430 --> 00:13:11,730
+Donc là, on verra sur les schémas qui
+
+253
+00:13:11,730 --> 00:13:16,210
+vont suivre le rôle central du facteur tissulaire.
+
+254
+00:13:18,590 --> 00:13:21,870
+Et donc, cette voie va aboutir aussi à
+
+255
+00:13:21,870 --> 00:13:23,090
+la fibrinoformation.
+
+256
+00:13:25,560 --> 00:13:27,300
+Donc là, rapidement, on va voir tout ça.
+
+257
+00:13:28,240 --> 00:13:31,380
+Donc, tout commence au niveau, c'est-à
+
+258
+00:13:31,380 --> 00:13:33,860
+-dire par la libération de ce facteur tissulaire,
+
+259
+00:13:34,560 --> 00:13:36,060
+c'est-à-dire lors d'une lésion,
+
+260
+00:13:36,200 --> 00:13:40,920
+d'une coupure, d'un traumatisme, il y
+
+261
+00:13:40,920 --> 00:13:45,600
+a libération de ce facteur tissulaire qui va
+
+262
+00:13:45,600 --> 00:13:48,440
+se lier au facteur 7 actif.
+
+263
+00:13:49,100 --> 00:13:50,740
+J'ouvre une parenthèse ici.
+
+264
+00:13:52,360 --> 00:13:54,040
+J'ai dit tout à l'heure que
+
+265
+00:13:54,040 --> 00:13:58,020
+tous les facteurs circulaient à l'état inactif
+
+266
+00:13:58,020 --> 00:13:59,840
+dans le plasma.
+
+267
+00:14:00,440 --> 00:14:04,580
+Sauf le facteur 7, il circule à l
+
+268
+00:14:04,580 --> 00:14:08,820
+'état actif, mais à 6% environ, à
+
+269
+00:14:08,820 --> 00:14:09,580
+6%.
+
+270
+00:14:09,580 --> 00:14:12,200
+Donc, dès qu'il y a libération de
+
+271
+00:14:12,200 --> 00:14:14,340
+ce facteur tissulaire, une lésion, à cause d
+
+272
+00:14:14,340 --> 00:14:17,820
+'une lésion, il se liera à ces petites
+
+273
+00:14:17,820 --> 00:14:23,220
+quantités du facteur 7 activé qui circulent déjà,
+
+274
+00:14:23,380 --> 00:14:27,220
+c'est comme en garde, c'est comme
+
+275
+00:14:27,220 --> 00:14:28,620
+une sécurité.
+
+276
+00:14:29,450 --> 00:14:31,200
+Il est là, donc il va se lier
+
+277
+00:14:31,200 --> 00:14:34,320
+au facteur 7, ce facteur 7 actif va
+
+278
+00:14:34,320 --> 00:14:38,060
+se lier au facteur tissulaire, et donc il
+
+279
+00:14:38,060 --> 00:14:43,220
+va agir sur le facteur 10, et aussi
+
+280
+00:14:43,220 --> 00:14:49,120
+sur le facteur 9, et par la suite,
+
+281
+00:14:50,560 --> 00:14:54,980
+va agir sur cette voie commune, c'est
+
+282
+00:14:54,980 --> 00:14:57,700
+-à-dire la prothrombinase, ils vont activer le
+
+283
+00:14:57,700 --> 00:15:00,620
+facteur 10 en 10A, le facteur 5 en
+
+284
+00:15:00,620 --> 00:15:04,140
+5A, en plus du calcium et du phospholipide,
+
+285
+00:15:04,660 --> 00:15:07,140
+la réaction va se faire, et on aura
+
+286
+00:15:07,140 --> 00:15:13,440
+la transformation de la prothrombin en thrombin, et
+
+287
+00:15:13,440 --> 00:15:16,800
+donc cette thrombin, cette étape s'appelle la
+
+288
+00:15:16,800 --> 00:15:23,500
+thrombinoformation, et ces quantités de thrombin formées vont
+
+289
+00:15:23,500 --> 00:15:26,860
+agir sur le fibrinogène, c'est la phase
+
+290
+00:15:26,860 --> 00:15:32,680
+de fibrinoformation, et le fibrinogène va être transformé
+
+291
+00:15:32,680 --> 00:15:37,140
+en monomère de fibrin, et là on aura
+
+292
+00:15:37,140 --> 00:15:39,760
+un réseau de fibrin instable.
+
+293
+00:15:40,340 --> 00:15:43,340
+Instable, c'est qu'on aura plein de
+
+294
+00:15:43,340 --> 00:15:46,960
+petites fibres, c'est-à-dire dans ce
+
+295
+00:15:46,960 --> 00:15:51,700
+réseau du caillot plaquettaire, qui sont instables et
+
+296
+00:15:51,700 --> 00:15:56,760
+qui seront stabilisées par le facteur 13, qui
+
+297
+00:15:56,760 --> 00:16:04,000
+va lier des liaisons covalentes entre chaque passage
+
+298
+00:16:04,000 --> 00:16:05,200
+d'une fibre à côté d'une autre,
+
+299
+00:16:05,620 --> 00:16:09,280
+il va mettre une liaison covalente, et tout
+
+300
+00:16:09,280 --> 00:16:12,260
+ça va former la fibrin stable.
+
+301
+00:16:18,240 --> 00:16:26,020
+Donc après la formation de petites quantités de
+
+302
+00:16:26,020 --> 00:16:30,100
+fibrin, c'est ce qu'on a vu
+
+303
+00:16:30,100 --> 00:16:35,760
+sur la plaque précédente, on avait dit qu
+
+304
+00:16:35,760 --> 00:16:37,380
+'il y avait de petites quantités de facteur
+
+305
+00:16:37,380 --> 00:16:41,560
+7 activées qui vont faire aboutir à de
+
+306
+00:16:41,560 --> 00:16:43,320
+petites quantités de fibrin instables.
+
+307
+00:16:43,320 --> 00:16:53,220
+Mais cette prothrombine est transformée en
+
+308
+00:16:53,220 --> 00:16:58,740
+thrombine, il va être comme un détonateur pour
+
+309
+00:16:58,740 --> 00:17:01,880
+le reste de la coagulation, c'est-à
+
+310
+00:17:01,880 --> 00:17:05,520
+-dire qu'il va amplifier la coagulation, cette
+
+311
+00:17:05,520 --> 00:17:10,220
+thrombine va agir sur le facteur 7 à
+
+312
+00:17:10,220 --> 00:17:14,119
+nouveau, sur le facteur 8, sur le fibrinogène,
+
+313
+00:17:14,619 --> 00:17:17,339
+sur le facteur 11, et donc on aura
+
+314
+00:17:17,339 --> 00:17:23,500
+une amplification, il va agir aussi sur le
+
+315
+00:17:23,500 --> 00:17:27,440
+facteur 13, et donc grâce à cette amplification
+
+316
+00:17:27,440 --> 00:17:29,940
+activée, c'est-à-dire c'est un
+
+317
+00:17:29,940 --> 00:17:36,080
+effet rétroactif, on aura formation de grandes quantités
+
+318
+00:17:36,080 --> 00:17:41,520
+de thrombine, et bien sûr cette thrombine va
+
+319
+00:17:41,520 --> 00:17:46,980
+transformer de grandes quantités du fibrinogène en monomères
+
+320
+00:17:46,980 --> 00:17:49,260
+de fibrin qui seront à nouveau stabilisés en
+
+321
+00:17:49,260 --> 00:17:54,220
+fibrin stable, et donc c'est l'étape
+
+322
+00:17:54,220 --> 00:18:00,760
+de la boucle d'amplification et de propagation.
+
+323
+00:18:03,260 --> 00:18:08,480
+On avait parlé aussi de la régulation, donc
+
+324
+00:18:08,480 --> 00:18:16,600
+puisque quand certains facteurs sont activés, certains d
+
+325
+00:18:16,600 --> 00:18:20,940
+'entre eux seront entraînés par la circulation, et
+
+326
+00:18:20,940 --> 00:18:24,500
+donc il faut éviter qu'ils forment des
+
+327
+00:18:24,500 --> 00:18:26,640
+cailloux en dehors de la lesion, c'est
+
+328
+00:18:26,640 --> 00:18:31,520
+pourquoi on a des inhibiteurs de la coagulation,
+
+329
+00:18:32,600 --> 00:18:34,800
+et on a trois systèmes en fait, le
+
+330
+00:18:34,800 --> 00:18:36,980
+système c'est-à-dire l'antithrombine qui
+
+331
+00:18:36,980 --> 00:18:41,900
+va inhiber les facteurs suivants, donc les inhibiteurs
+
+332
+00:18:41,900 --> 00:18:45,880
+vont inhiber les facteurs activés, donc là vous
+
+333
+00:18:45,880 --> 00:18:50,140
+voyez l'antithrombine, il inhibe le facteur 2A,
+
+334
+00:18:50,560 --> 00:18:51,760
+c'est-à-dire la thrombine, il va
+
+335
+00:18:51,760 --> 00:18:55,620
+inhiber le facteur 10A, le facteur 9A, et
+
+336
+00:18:55,620 --> 00:18:57,260
+plus ou moins le facteur 11A.
+
+337
+00:18:58,260 --> 00:19:02,420
+Le système de la protéine CES, il va
+
+338
+00:19:02,420 --> 00:19:07,640
+agir et inhiber le facteur 8 activé et
+
+339
+00:19:07,640 --> 00:19:08,760
+le facteur 5 activé.
+
+340
+00:19:09,200 --> 00:19:12,160
+Le dernier élément inhibiteur, c'est-à-dire
+
+341
+00:19:12,160 --> 00:19:17,040
+l'inhibiteur du facteur tissulaire, FPI, il va
+
+342
+00:19:17,040 --> 00:19:19,860
+inhiber, c'est-à-dire l'activation du
+
+343
+00:19:19,860 --> 00:19:25,980
+10, par le facteur 7, et le facteur
+
+344
+00:19:25,980 --> 00:19:28,900
+7 activé, donc il va inhiber ce complexe.
+
+345
+00:19:30,810 --> 00:19:34,550
+Donc voilà ces schématiques, on va voir le
+
+346
+00:19:34,550 --> 00:19:37,310
+rôle des inhibiteurs, sur quels facteurs ils vont
+
+347
+00:19:37,310 --> 00:19:40,130
+agir, et donc là vous voyez que l
+
+348
+00:19:40,130 --> 00:19:45,870
+'antithrombine va inhiber, on va mettre le pointeur,
+
+349
+00:19:46,530 --> 00:19:50,070
+donc l'antithrombine va inhiber le facteur 2
+
+350
+00:19:50,070 --> 00:19:55,030
+activé, le 10 activé, et le 11 activé.
+
+351
+00:19:57,380 --> 00:19:59,060
+Un tout petit peu, c'est-à-dire
+
+352
+00:19:59,060 --> 00:20:01,820
+une action minime sur le 11 activé, voilà.
+
+353
+00:20:02,720 --> 00:20:06,280
+Par contre la protéine CES, elle va agir
+
+354
+00:20:06,280 --> 00:20:11,580
+et inhiber le facteur 5 activé, et elle
+
+355
+00:20:11,580 --> 00:20:15,180
+va inhiber aussi le facteur 8 activé.
+
+356
+00:20:18,660 --> 00:20:28,960
+Le TFPI va inhiber, donc
+
+357
+00:20:28,960 --> 00:20:35,620
+après la physiologie de la coagulation, nous allons
+
+358
+00:20:35,620 --> 00:20:38,580
+passer à un chapitre hyper intéressant, c'est
+
+359
+00:20:38,580 --> 00:20:41,420
+l'exploration biologique de la coagulation.
+
+360
+00:20:42,660 --> 00:20:46,380
+Et donc là, nous allons voir un peu
+
+361
+00:20:46,380 --> 00:20:48,800
+quels sont les tests avec lesquels nous allons
+
+362
+00:20:48,800 --> 00:20:52,960
+explorer la coagulation en cas d'anomalie, ou
+
+363
+00:20:52,960 --> 00:20:54,480
+en cas de bilan préopératoire.
+
+364
+00:20:55,060 --> 00:20:57,160
+Et donc là j'ai remis en haut
+
+365
+00:20:57,160 --> 00:21:00,870
+l'importance de la phase préanalytique, l'importance
+
+366
+00:21:00,870 --> 00:21:03,470
+de la phase préanalytique à respecter dans cette
+
+367
+00:21:03,470 --> 00:21:05,030
+exploration.
+
+368
+00:21:05,770 --> 00:21:10,590
+Donc les tests de première orientation ou de
+
+369
+00:21:10,590 --> 00:21:16,650
+première intention seront souvent des tests globaux, simples
+
+370
+00:21:16,650 --> 00:21:19,810
+et peu coûteux, et qui vont renseigner globalement
+
+371
+00:21:19,810 --> 00:21:20,650
+sur la coagulation.
+
+372
+00:21:21,410 --> 00:21:22,810
+Et donc ces tests, c'est le TP,
+
+373
+00:21:23,290 --> 00:21:29,270
+tonoprotrombine, le TCA, tonodecéphaline avec activateur, et le
+
+374
+00:21:29,270 --> 00:21:30,130
+fibrinogène.
+
+375
+00:21:30,750 --> 00:21:33,450
+Donc ils vont être demandés au cours d
+
+376
+00:21:33,450 --> 00:21:37,010
+'un bilan préopératoire, au cours d'un dépistage
+
+377
+00:21:37,010 --> 00:21:43,250
+d'anomalie prédisposante ou de saignement, ou suivi
+
+378
+00:21:43,250 --> 00:21:45,210
+thérapeutique des traitements anticoagulants.
+
+379
+00:21:46,130 --> 00:21:47,630
+Donc c'est très important de connaître les
+
+380
+00:21:47,630 --> 00:21:48,070
+indications.
+
+381
+00:21:48,910 --> 00:21:50,570
+Donc bilan préopératoire, c'est l'heure avant
+
+382
+00:21:50,570 --> 00:21:54,630
+d'opérer, il faut quand même voir si
+
+383
+00:21:54,630 --> 00:21:56,510
+l'hémostase est correcte.
+
+384
+00:21:56,510 --> 00:22:00,490
+Bien sûr, si le patient saigne ou il
+
+385
+00:22:00,490 --> 00:22:02,650
+a un facteur de risque, on va aussi
+
+386
+00:22:02,650 --> 00:22:04,390
+faire ces tests.
+
+387
+00:22:04,910 --> 00:22:08,690
+Enfin, quand on donne un traitement, il faut
+
+388
+00:22:08,690 --> 00:22:10,530
+le surveiller, est-ce qu'il est efficace,
+
+389
+00:22:10,690 --> 00:22:11,370
+est-ce qu'il est tolère.
+
+390
+00:22:13,290 --> 00:22:17,250
+Ensuite, en fonction des résultats de ces tests
+
+391
+00:22:17,250 --> 00:22:21,230
+d'orientation, nous allons passer aux tests de
+
+392
+00:22:21,230 --> 00:22:24,430
+seconde intention ou de confirmation, et donc là,
+
+393
+00:22:24,890 --> 00:22:27,690
+on va doser spécifiquement chaque facteur de coagulation
+
+394
+00:22:27,690 --> 00:22:30,890
+en fonction de l'indication, et aussi doser
+
+395
+00:22:30,890 --> 00:22:33,190
+les inhibiteurs de la coagulation quand c'est
+
+396
+00:22:33,190 --> 00:22:37,650
+nécessaire pour identifier la cause de l'anomalie.
+
+397
+00:22:39,270 --> 00:22:43,210
+Les tests de première intention, nous allons commencer
+
+398
+00:22:43,210 --> 00:22:46,890
+bien sûr avec les tests globaux, comme je
+
+399
+00:22:46,890 --> 00:22:51,130
+l'ai signalé, le TPTCF fibrinogène, mais là,
+
+400
+00:22:51,290 --> 00:22:54,530
+il ne faut jamais oublier, c'est-à
+
+401
+00:22:54,530 --> 00:22:57,410
+-dire de jeter un coup d'œil sur
+
+402
+00:22:57,410 --> 00:23:01,650
+l'hémostase primaire, puisqu'on avait dit que
+
+403
+00:23:01,650 --> 00:23:08,050
+la coagulation se passait sur les plaquettes, c
+
+404
+00:23:08,050 --> 00:23:12,390
+'est-à-dire sur les phospholipides plaquettaires.
+
+405
+00:23:13,130 --> 00:23:15,910
+Donc, on va faire ces tests d'orientation
+
+406
+00:23:15,910 --> 00:23:19,770
+de la coagulation, mais jeter un coup d
+
+407
+00:23:19,770 --> 00:23:22,030
+'œil, regarder aussi est-ce que l'hémostase
+
+408
+00:23:22,030 --> 00:23:23,290
+primaire est normale ou non.
+
+409
+00:23:25,990 --> 00:23:28,110
+Le premier test, c'est le test de
+
+410
+00:23:28,110 --> 00:23:34,470
+QUIC, le principe est le suivant, c'est
+
+411
+00:23:34,470 --> 00:23:37,270
+le test de coagulation d'un plasma citraté,
+
+412
+00:23:38,730 --> 00:23:40,710
+recalcifié en présence d'un excès de facteurs
+
+413
+00:23:40,710 --> 00:23:42,590
+tissulaires et de phospholipides.
+
+414
+00:23:43,470 --> 00:23:44,350
+C'est ce qu'on fait un peu
+
+415
+00:23:44,350 --> 00:23:47,050
+au laboratoire, on va mettre le plasma du
+
+416
+00:23:47,050 --> 00:23:51,950
+patient avec la nioplastine et avec les phospholipides
+
+417
+00:23:51,950 --> 00:23:54,450
+et le calcium pour voir si la réaction
+
+418
+00:23:54,450 --> 00:23:55,550
+va se faire ou non.
+
+419
+00:23:56,550 --> 00:23:59,250
+Donc, le test de QUIC est un test
+
+420
+00:23:59,250 --> 00:24:03,190
+d'orientation, de première intention, comme on l
+
+421
+00:24:03,190 --> 00:24:07,090
+'a déjà expliqué, et lui, il va explorer
+
+422
+00:24:07,090 --> 00:24:09,210
+la voie extrinsèque de la coagulation.
+
+423
+00:24:09,410 --> 00:24:12,130
+Vous vous rappelez de ce schéma in vitro
+
+424
+00:24:12,130 --> 00:24:14,530
+que j'ai montré tout à l'heure,
+
+425
+00:24:14,530 --> 00:24:16,950
+où il y avait la voie intrinsèque et
+
+426
+00:24:16,950 --> 00:24:19,410
+la voie extrinsèque, et bien le test de
+
+427
+00:24:19,410 --> 00:24:23,650
+QUIC explore la voie extrinsèque.
+
+428
+00:24:26,120 --> 00:24:28,540
+Quelles sont les indications de ce test de
+
+429
+00:24:28,540 --> 00:24:29,360
+QUIC ?
+
+430
+00:24:29,360 --> 00:24:31,000
+C'est le bilan préopératoire.
+
+431
+00:24:32,060 --> 00:24:34,400
+Une atteinte hépatique, c'est très important, c
+
+432
+00:24:34,400 --> 00:24:36,900
+'est-à-dire qu'on a vu que
+
+433
+00:24:36,900 --> 00:24:42,080
+la majorité des facteurs sont synthétisés dans le
+
+434
+00:24:42,080 --> 00:24:44,360
+foie, donc en cas d'atteinte hépatique, on
+
+435
+00:24:44,360 --> 00:24:46,020
+va faire le test de QUIC, s'il
+
+436
+00:24:46,020 --> 00:24:47,520
+est allongé, on va doser les facteurs.
+
+437
+00:24:48,360 --> 00:24:50,200
+Le bilan du niveau AG, c'est normal,
+
+438
+00:24:51,100 --> 00:24:53,980
+et la surveillance des traitements par anti-vitamine
+
+439
+00:24:53,980 --> 00:24:56,300
+K, on va le voir après, c'est
+
+440
+00:24:56,300 --> 00:24:59,780
+-à-dire le test de QUIC, et bien
+
+441
+00:24:59,780 --> 00:25:02,840
+sûr l'expression des résultats, on va la
+
+442
+00:25:02,840 --> 00:25:04,920
+faire avec ce qu'on appelle l'INR,
+
+443
+00:25:05,020 --> 00:25:06,100
+on va le voir par la suite.
+
+444
+00:25:07,400 --> 00:25:10,720
+Le matériel et les réactifs, on va les
+
+445
+00:25:10,720 --> 00:25:13,180
+voir au cours des TPs, donc on aura
+
+446
+00:25:13,180 --> 00:25:16,260
+besoin d'un bain-marie, de la thromboplastine,
+
+447
+00:25:16,800 --> 00:25:19,620
+d'un tampon de type Kohler, d'un
+
+448
+00:25:19,620 --> 00:25:22,580
+pool de plasmas normaux et de contrôle normal
+
+449
+00:25:22,580 --> 00:25:23,600
+et pathologique.
+
+450
+00:25:24,920 --> 00:25:26,940
+J'insiste d'emblée sur ces contrôles normaux
+
+451
+00:25:26,940 --> 00:25:30,240
+et pathologiques, c'est-à-dire, l'autre
+
+452
+00:25:30,240 --> 00:25:32,460
+fois, j'avais parlé de la phase préanalytique
+
+453
+00:25:32,460 --> 00:25:33,920
+et un peu de tous les soucis de
+
+454
+00:25:33,920 --> 00:25:36,560
+la phase préanalytique, et bien pour la phase
+
+455
+00:25:36,560 --> 00:25:39,220
+analytique, on va réaliser les tests sur des
+
+456
+00:25:39,220 --> 00:25:45,100
+automates, ou même sur des semi-automates, il
+
+457
+00:25:45,100 --> 00:25:50,200
+faut s'entourer de contrôles normaux et pathologiques,
+
+458
+00:25:50,680 --> 00:25:52,820
+c'est-à-dire pour être sûr que
+
+459
+00:25:52,820 --> 00:25:54,420
+les tests que j'ai réalisés pour le
+
+460
+00:25:54,420 --> 00:25:56,600
+malade sont corrects, il faut que j'ai
+
+461
+00:25:56,600 --> 00:26:01,100
+des contrôles à côté qui vont certifier que
+
+462
+00:26:01,100 --> 00:26:04,740
+mes réactions ont été faites dans de bonnes
+
+463
+00:26:04,740 --> 00:26:05,280
+conditions.
+
+464
+00:26:07,540 --> 00:26:09,300
+Donc le mode opératoire, vous allez le voir
+
+465
+00:26:09,300 --> 00:26:13,320
+au TP, c'est juste pour vous donner
+
+466
+00:26:13,320 --> 00:26:13,800
+une idée.
+
+467
+00:26:14,020 --> 00:26:15,460
+Bien sûr, la technique, on va la voir
+
+468
+00:26:15,460 --> 00:26:16,160
+aussi au TP.
+
+469
+00:26:17,860 --> 00:26:19,640
+Et là, à la fin, c'est-à
+
+470
+00:26:19,640 --> 00:26:23,440
+-dire quand on a réalisé le temps de
+
+471
+00:26:23,440 --> 00:26:27,940
+quick, on va le transformer en ce qu
+
+472
+00:26:27,940 --> 00:26:30,280
+'on appelle le taux de protrombine.
+
+473
+00:26:30,820 --> 00:26:33,420
+Donc là, vous voyez le temps de quick
+
+474
+00:26:33,420 --> 00:26:37,480
+en secondes, car souvent, vous allez voir dans
+
+475
+00:26:37,480 --> 00:26:40,260
+les fiches de rendu des résultats, qu'on
+
+476
+00:26:40,260 --> 00:26:42,100
+rend le résultat en temps de quick en
+
+477
+00:26:42,100 --> 00:26:47,800
+secondes, en taux de protrombine en pourcentage, et
+
+478
+00:26:47,800 --> 00:26:51,560
+pour les AVK, la surveillance des AVK, on
+
+479
+00:26:51,560 --> 00:26:53,460
+va exprimer les résultats en INA.
+
+480
+00:26:54,140 --> 00:26:57,020
+Donc, ce qu'on mesure, c'est ça,
+
+481
+00:26:57,400 --> 00:26:59,080
+c'est le temps de quick en secondes.
+
+482
+00:26:59,980 --> 00:27:06,200
+Avant, on traçait la courbe sur un papier
+
+483
+00:27:06,200 --> 00:27:09,560
+millimétré, et donc on faisait, c'est-à
+
+484
+00:27:09,560 --> 00:27:12,620
+-dire, un temps de quick avec un plasma
+
+485
+00:27:12,620 --> 00:27:15,580
+pur à 100%, et on a un temps
+
+486
+00:27:15,580 --> 00:27:19,280
+avec le premier point, on dilue le plasma
+
+487
+00:27:19,280 --> 00:27:21,320
+à 1,5, on a le deuxième point,
+
+488
+00:27:22,820 --> 00:27:25,020
+à 1,3, on a le troisième point,
+
+489
+00:27:25,960 --> 00:27:28,480
+à 1,4, on a le quatrième point,
+
+490
+00:27:29,340 --> 00:27:31,700
+et on trace la courbe de Thivold.
+
+491
+00:27:32,540 --> 00:27:36,800
+Monsieur Thivold, c'est un inventeur, un grand
+
+492
+00:27:36,800 --> 00:27:37,280
+chercheur.
+
+493
+00:27:37,700 --> 00:27:40,380
+Donc, on trace la courbe de Thivold, et
+
+494
+00:27:40,380 --> 00:27:43,820
+donc pour les patients qui vont arriver, je
+
+495
+00:27:43,820 --> 00:27:44,960
+fais le temps, c'est-à-dire, je
+
+496
+00:27:44,960 --> 00:27:46,840
+mesure le temps de quick, par exemple, j
+
+497
+00:27:46,840 --> 00:27:49,520
+'aurai un temps ici, donc pour avoir le
+
+498
+00:27:49,520 --> 00:27:51,880
+TP, donc si j'ai le temps ici,
+
+499
+00:27:52,040 --> 00:27:55,720
+je vais tracer une courbe ici, descendre, et
+
+500
+00:27:55,720 --> 00:28:01,880
+j'aurai pratiquement, par exemple, 39 ici.
+
+501
+00:28:02,380 --> 00:28:05,360
+Donc, si j'ai un temps ici, d
+
+502
+00:28:05,360 --> 00:28:08,240
+'un malade, je vais tracer, tracer, et venir
+
+503
+00:28:08,240 --> 00:28:10,340
+ici pour avoir le TP.
+
+504
+00:28:14,090 --> 00:28:17,690
+Donc, des variations importantes des résultats du TP,
+
+505
+00:28:18,870 --> 00:28:21,850
+rendus en pourcentages, sont observés d'un laboratoire
+
+506
+00:28:21,850 --> 00:28:22,250
+à un autre.
+
+507
+00:28:22,930 --> 00:28:26,030
+Pourquoi les résultats du TP sont différents d
+
+508
+00:28:26,030 --> 00:28:27,070
+'un laboratoire à un autre?
+
+509
+00:28:27,410 --> 00:28:31,070
+Tout simplement, car on utilise des réactifs différents
+
+510
+00:28:31,070 --> 00:28:33,130
+d'un laboratoire à un autre, la myoplastine
+
+511
+00:28:33,130 --> 00:28:35,610
+qu'on achète, elle est fabriquée dans différents
+
+512
+00:28:35,610 --> 00:28:38,990
+laboratoires, et donc parfois, on aura des TP
+
+513
+00:28:38,990 --> 00:28:41,210
+un peu différents d'un laboratoire à un
+
+514
+00:28:41,210 --> 00:28:46,590
+autre, et automatiquement, ça va influencer sur les
+
+515
+00:28:46,590 --> 00:28:48,310
+traitements par les antivitamines K.
+
+516
+00:28:48,910 --> 00:28:49,350
+C'est-à-dire que ce n'est
+
+517
+00:28:49,350 --> 00:28:51,250
+pas parce que j'ai changé de laboratoire
+
+518
+00:28:52,390 --> 00:28:53,990
+que je dois changer de traitement.
+
+519
+00:28:55,150 --> 00:28:57,570
+C'est juste la variation en fonction des
+
+520
+00:28:57,570 --> 00:28:58,110
+réactifs.
+
+521
+00:28:59,010 --> 00:29:02,530
+C'est pourquoi on a essayé de normaliser
+
+522
+00:29:02,530 --> 00:29:08,070
+ces résultats et de calculer un indice qui
+
+523
+00:29:08,070 --> 00:29:12,430
+corrige ces petites différences, c'est-à-dire
+
+524
+00:29:12,430 --> 00:29:14,710
+rendues à cause des réactifs différents.
+
+525
+00:29:15,570 --> 00:29:18,930
+Et donc, on a inventé cette formule qui
+
+526
+00:29:18,930 --> 00:29:22,470
+s'appelle l'INR, International Normalization Ratio, et
+
+527
+00:29:22,470 --> 00:29:24,870
+donc qui se calcule comme ça, le temps
+
+528
+00:29:24,870 --> 00:29:27,270
+de couche du malade sur le temps de
+
+529
+00:29:27,270 --> 00:29:30,770
+couche du témoin, à la puissance EASY, EASY
+
+530
+00:29:30,770 --> 00:29:32,890
+c'est l'indice de sensibilité internationale de
+
+531
+00:29:32,890 --> 00:29:35,010
+la thromboplastine, c'est-à-dire du réactif
+
+532
+00:29:35,010 --> 00:29:37,490
+utilisé, et donc là, c'est-à-dire
+
+533
+00:29:37,490 --> 00:29:40,530
+qu'on corrige les anomalies, les petites différences
+
+534
+00:29:40,530 --> 00:29:41,510
+entre les réactifs.
+
+535
+00:29:42,270 --> 00:29:48,430
+Grâce à cet EASY fourni par la société
+
+536
+00:29:48,430 --> 00:29:50,930
+qui vend le réactif, et donc on aura
+
+537
+00:29:50,930 --> 00:29:55,210
+l'INR, et cet INR, c'est avec
+
+538
+00:29:55,210 --> 00:29:58,270
+lui qu'on va surveiller les traitements par
+
+539
+00:29:58,270 --> 00:30:02,130
+les AVEC, les antivitamins K, et pas par
+
+540
+00:30:02,130 --> 00:30:03,290
+le temps de couche du malade, et non
+
+541
+00:30:03,290 --> 00:30:06,530
+pas par l'ETP.
+
+542
+00:30:07,070 --> 00:30:09,310
+Donc quand je parle de surveillance par les
+
+543
+00:30:09,310 --> 00:30:14,430
+AVEC, pardon, quand je parle de traitement par
+
+544
+00:30:14,430 --> 00:30:18,250
+les AVEC, donc je regarde l'INR et
+
+545
+00:30:18,250 --> 00:30:20,070
+jamais le temps de couche du malade ni
+
+546
+00:30:20,070 --> 00:30:20,510
+l'ETP.
+
+547
+00:30:21,830 --> 00:30:24,050
+Donc comment j'exprime les résultats à la
+
+548
+00:30:24,050 --> 00:30:25,470
+fin ?
+
+549
+00:30:25,470 --> 00:30:29,550
+Je les exprime en temps de couche, donc
+
+550
+00:30:29,550 --> 00:30:31,030
+il est exprimé en secondes.
+
+551
+00:30:32,110 --> 00:30:34,230
+Donc je dis qu'il varie entre 10
+
+552
+00:30:34,230 --> 00:30:37,530
+et 14 secondes, mais en fait, on le
+
+553
+00:30:37,530 --> 00:30:40,550
+compare au témoin, et donc on met le
+
+554
+00:30:40,550 --> 00:30:42,330
+temps de couche du malade sur le temps
+
+555
+00:30:42,330 --> 00:30:44,670
+de couche du témoin, et s'il est
+
+556
+00:30:44,670 --> 00:30:47,750
+supérieur à 1,2, on dit qu'il
+
+557
+00:30:47,750 --> 00:30:48,290
+est allongé.
+
+558
+00:30:49,050 --> 00:30:51,110
+Donc rappelez-vous de ça, c'est-à
+
+559
+00:30:51,110 --> 00:30:53,790
+-dire le temps de couche, il est exprimé
+
+560
+00:30:53,790 --> 00:30:58,250
+en secondes, mais il est comparé au témoin,
+
+561
+00:30:59,190 --> 00:31:02,270
+au témoin qu'on a au laboratoire, et
+
+562
+00:31:02,270 --> 00:31:03,630
+donc on met le temps de couche du
+
+563
+00:31:03,630 --> 00:31:05,510
+malade sur le temps de couche du témoin,
+
+564
+00:31:06,330 --> 00:31:07,910
+et on voit le rapport, quand il est
+
+565
+00:31:07,910 --> 00:31:09,770
+supérieur à 1,2, on va dire qu
+
+566
+00:31:09,770 --> 00:31:10,450
+'il est allongé.
+
+567
+00:31:12,030 --> 00:31:13,410
+J'ai dit aussi qu'il est exprimé
+
+568
+00:31:13,410 --> 00:31:16,530
+en taux de protérombine, en pourcentage, et la
+
+569
+00:31:16,530 --> 00:31:19,710
+valeur normale se situe entre 70 et 100%.
+
+570
+00:31:20,490 --> 00:31:24,810
+Ou encore, en indice normalisé de ratio, l
+
+571
+00:31:24,810 --> 00:31:29,230
+'INR, pour les patients sous traitement AVK, anti
+
+572
+00:31:29,230 --> 00:31:33,010
+-vitamin K, donc la zone thérapeutique est entre
+
+573
+00:31:33,010 --> 00:31:34,070
+2 et 3,5.
+
+574
+00:31:34,850 --> 00:31:38,670
+Donc le patient émis sous AVK, je surveille
+
+575
+00:31:38,670 --> 00:31:40,930
+l'INR, et donc on va le voir
+
+576
+00:31:40,930 --> 00:31:43,290
+après dans le chapitre de surveillance des traitements
+
+577
+00:31:43,290 --> 00:31:46,830
+par anti-vitamin K, lorsque l'INR est
+
+578
+00:31:46,830 --> 00:31:52,870
+inférieur à 2, le patient peut anticoaguler, et
+
+579
+00:31:52,870 --> 00:31:54,630
+donc il peut faire des thromboses.
+
+580
+00:31:56,350 --> 00:31:59,550
+Quand ça dépasse 5, 6 de ce côté,
+
+581
+00:31:59,770 --> 00:32:00,530
+c'est-à-dire que l'INR est
+
+582
+00:32:00,530 --> 00:32:03,950
+très augmenté, le patient risque de faire des
+
+583
+00:32:03,950 --> 00:32:04,810
+hémorragies, c'est-à-dire qu'on a
+
+584
+00:32:04,810 --> 00:32:06,030
+donné trop de traitements.
+
+585
+00:32:06,650 --> 00:32:08,450
+Donc c'est pourquoi le traitement des AVK
+
+586
+00:32:08,450 --> 00:32:12,690
+est un peu spécial, c'est-à-dire
+
+587
+00:32:12,690 --> 00:32:16,590
+qu'il faut avoir une surveillance étroite, et
+
+588
+00:32:16,590 --> 00:32:19,770
+donc à chaque fois, le patient, tous les
+
+589
+00:32:19,770 --> 00:32:22,490
+10 jours, 15 jours, il va faire l
+
+590
+00:32:22,490 --> 00:32:24,790
+'INR, et donc on va voir est-ce
+
+591
+00:32:24,790 --> 00:32:27,510
+qu'il est dans la fourchette entre 2
+
+592
+00:32:27,510 --> 00:32:28,130
+et 3,5.
+
+593
+00:32:28,310 --> 00:32:30,910
+Donc là, il est dans un équilibre où
+
+594
+00:32:30,910 --> 00:32:32,710
+il ne va pas faire de thrombose, il
+
+595
+00:32:32,710 --> 00:32:33,870
+ne va pas faire d'hémorragie.
+
+596
+00:32:35,050 --> 00:32:39,610
+S'il est bas, je vais augmenter les
+
+597
+00:32:39,610 --> 00:32:40,030
+AVK.
+
+598
+00:32:40,030 --> 00:32:44,570
+S'il est trop haut, je baisse, c
+
+599
+00:32:44,570 --> 00:32:46,510
+'est-à-dire la dose, et donc la
+
+600
+00:32:46,510 --> 00:32:50,330
+fourchette thérapeutique correcte se situe entre 2 et
+
+601
+00:32:50,330 --> 00:32:50,790
+3,5.
+
+602
+00:32:51,870 --> 00:32:54,350
+Les variations pathologiques, on peut les déduire.
+
+603
+00:32:55,050 --> 00:32:57,270
+C'est la présence d'un anticoagulant circulant,
+
+604
+00:32:58,110 --> 00:33:02,050
+l'insuffisance hypothociliaire ou le traitement par les
+
+605
+00:33:02,050 --> 00:33:02,470
+AVK.
+
+606
+00:33:03,230 --> 00:33:06,030
+En cas de coagulation intravasculaire disséminée, c'est
+
+607
+00:33:06,030 --> 00:33:07,830
+-à-dire la coagulation que vous allez avoir
+
+608
+00:33:07,830 --> 00:33:11,190
+dans d'autres pathologies, coagulation intravasculaire disséminée.
+
+609
+00:33:11,870 --> 00:33:14,390
+Donc c'est un mécanisme catastrophique, c'est
+
+610
+00:33:14,390 --> 00:33:16,810
+-à-dire qui est déclenché lors de certaines
+
+611
+00:33:16,810 --> 00:33:18,630
+pathologies, notamment les septicémies.
+
+612
+00:33:19,350 --> 00:33:20,910
+Et donc là, il y a une activation
+
+613
+00:33:20,910 --> 00:33:26,570
+de la coagulation, et après, on aura beaucoup
+
+614
+00:33:26,570 --> 00:33:27,390
+de thrombose.
+
+615
+00:33:27,990 --> 00:33:31,910
+Ensuite, les facteurs de coagulation sont trop consommés,
+
+616
+00:33:32,050 --> 00:33:32,990
+on aura des hémorragies.
+
+617
+00:33:32,990 --> 00:33:36,430
+Et donc c'est un patient qui présente
+
+618
+00:33:36,430 --> 00:33:39,470
+des hémorragies, qui présente des thromboses.
+
+619
+00:33:39,590 --> 00:33:42,190
+Donc ce sont des patients qui sont dans
+
+620
+00:33:42,190 --> 00:33:44,550
+un mauvais état et la mortalité est souvent
+
+621
+00:33:44,550 --> 00:33:47,810
+aux environs de 50%.
+
+622
+00:33:47,810 --> 00:33:50,010
+Et le dernier, bien sûr, c'est le
+
+623
+00:33:50,010 --> 00:33:54,050
+déficit constitutionnel ou acquis en facteur de la
+
+624
+00:33:54,050 --> 00:33:57,430
+voie exogène de la coagulation, et qui sont
+
+625
+00:33:57,430 --> 00:34:03,870
+les facteurs 1, 2, 5, 10 et le
+
+626
+00:34:03,870 --> 00:34:04,510
+facteur 7.
+
+627
+00:34:07,080 --> 00:34:08,639
+Donc là, rapidement, c'est juste pour vous
+
+628
+00:34:08,639 --> 00:34:10,000
+expliquer ce temps de quick.
+
+629
+00:34:10,440 --> 00:34:13,440
+Donc il explore toute cette voie, donc la
+
+630
+00:34:13,440 --> 00:34:16,500
+voie extrinsèque où il y a le facteur
+
+631
+00:34:16,500 --> 00:34:16,920
+7.
+
+632
+00:34:17,900 --> 00:34:19,699
+Et bien sûr, il explore aussi toute cette
+
+633
+00:34:19,699 --> 00:34:21,199
+voie commune jusqu'à la fibrille.
+
+634
+00:34:25,800 --> 00:34:28,340
+Le deuxième temps, c'est-à-dire le
+
+635
+00:34:28,340 --> 00:34:31,159
+deuxième examen qu'on réalise pour la surveillance
+
+636
+00:34:31,159 --> 00:34:34,000
+de la coagulation, qui est aussi un test
+
+637
+00:34:34,000 --> 00:34:36,639
+global d'orientation, c'est le temps de
+
+638
+00:34:36,639 --> 00:34:38,340
+syphaline avec activateur.
+
+639
+00:34:39,219 --> 00:34:40,580
+Et donc quand je mets des croix, c
+
+640
+00:34:40,580 --> 00:34:45,440
+'est primordial à connaître.
+
+641
+00:34:46,040 --> 00:34:47,340
+Donc vous voyez ces croix ici.
+
+642
+00:34:48,219 --> 00:34:51,960
+Donc le principe consiste à la coagulation d
+
+643
+00:34:51,960 --> 00:34:55,960
+'un plasma pauvre en plaquettes recalcifiée en présence
+
+644
+00:34:55,960 --> 00:34:59,960
+de phospholipides et d'un activateur, et les
+
+645
+00:34:59,960 --> 00:35:02,520
+activateurs sont soit l'acide élagique, le kaolin
+
+646
+00:35:02,520 --> 00:35:03,540
+ou la silice.
+
+647
+00:35:04,520 --> 00:35:06,380
+Et on va voir un peu à quoi
+
+648
+00:35:06,380 --> 00:35:08,120
+servent ces différents activateurs.
+
+649
+00:35:08,720 --> 00:35:10,600
+Souvent au laboratoire, on utilise la silice.
+
+650
+00:35:12,160 --> 00:35:16,560
+Donc le TCA, lui, il explore la voie
+
+651
+00:35:16,560 --> 00:35:17,140
+endogène.
+
+652
+00:35:17,360 --> 00:35:18,900
+Donc nous avons vu pour le temps de
+
+653
+00:35:18,900 --> 00:35:21,140
+quick qu'il explorait la voie exogène.
+
+654
+00:35:21,860 --> 00:35:25,220
+Le TCA, lui, il explore la voie endogène.
+
+655
+00:35:26,560 --> 00:35:29,680
+Comme le temps de quick, donc ce temps
+
+656
+00:35:29,680 --> 00:35:34,000
+est un test d'orientation de première intention.
+
+657
+00:35:36,380 --> 00:35:39,040
+Quelles sont les indications ?
+
+658
+00:35:39,040 --> 00:35:43,840
+Ce sont le bilan préopératoire, un bilan d
+
+659
+00:35:43,840 --> 00:35:49,320
+'une hémorragie, la surveillance d'une hyparinothérapie curative,
+
+660
+00:35:50,100 --> 00:35:52,020
+c'est-à-dire un patient mis sous
+
+661
+00:35:52,020 --> 00:35:53,900
+hyparine, c'est un anticoagulant.
+
+662
+00:35:53,900 --> 00:35:56,940
+Il faut surveiller par le TCA.
+
+663
+00:35:57,720 --> 00:36:00,200
+Mais aussi la présence d'anticoagulants circulants.
+
+664
+00:36:01,480 --> 00:36:03,100
+On peut déjà l'expliquer ici.
+
+665
+00:36:03,280 --> 00:36:05,420
+C'est-à-dire ces anticoagulants circulants, ce
+
+666
+00:36:05,420 --> 00:36:08,880
+sont des anticorps qui vont inhiber les facteurs
+
+667
+00:36:08,880 --> 00:36:10,760
+dont ils sont acquis, ce n'est pas
+
+668
+00:36:10,760 --> 00:36:14,640
+des déficits génétiques constitutionnels, c'est des maladies
+
+669
+00:36:14,640 --> 00:36:16,580
+acquises qui vont faire qu'il y aura
+
+670
+00:36:16,580 --> 00:36:19,920
+formation d'anticoagulants et qui vont attaquer ces
+
+671
+00:36:19,920 --> 00:36:21,160
+facteurs et vont les inhiber.
+
+672
+00:36:21,160 --> 00:36:24,220
+Donc on va chercher ces anticoagulants circulants, on
+
+673
+00:36:24,220 --> 00:36:25,080
+va voir comment après.
+
+674
+00:36:27,360 --> 00:36:29,660
+Le mode opératoire, comme pour le temps de
+
+675
+00:36:29,660 --> 00:36:31,780
+bruit, on va le voir par la suite
+
+676
+00:36:31,780 --> 00:36:33,400
+dans le TP.
+
+677
+00:36:34,060 --> 00:36:35,780
+Donc c'est comme ça, donc c'est
+
+678
+00:36:35,780 --> 00:36:38,280
+la syphaline, donc c'est toute une procédure
+
+679
+00:36:38,280 --> 00:36:40,140
+à faire au bain-marie.
+
+680
+00:36:41,240 --> 00:36:44,760
+L'expression des résultats pour le TCA, donc
+
+681
+00:36:44,760 --> 00:36:48,480
+lui il est exprimé en secondes par rapport
+
+682
+00:36:48,480 --> 00:36:49,120
+à un témoin.
+
+683
+00:36:50,000 --> 00:36:51,480
+D'accord ?
+
+684
+00:36:51,480 --> 00:36:54,560
+Donc la valeur normale se situe autour du
+
+685
+00:36:54,560 --> 00:36:55,760
+rapport de 1, c'est-à-dire quand
+
+686
+00:36:55,760 --> 00:36:57,020
+on a un patient normal.
+
+687
+00:36:57,860 --> 00:37:00,540
+Donc TCA du malade sur TCA témoin, quand
+
+688
+00:37:00,540 --> 00:37:02,160
+le patient n'a pas de soucis, donc
+
+689
+00:37:02,160 --> 00:37:04,820
+le rapport tourne autour de 1.
+
+690
+00:37:05,460 --> 00:37:07,880
+Par contre, en cas d'allongement du temps
+
+691
+00:37:07,880 --> 00:37:11,080
+de syphaline avec activateur, le TCA, c'est
+
+692
+00:37:11,080 --> 00:37:13,780
+-à-dire que ce TCA devient un peu,
+
+693
+00:37:14,500 --> 00:37:16,340
+c'est-à-dire doit dépasser 6 secondes
+
+694
+00:37:16,340 --> 00:37:16,840
+du témoin.
+
+695
+00:37:16,840 --> 00:37:19,240
+Par exemple, si j'ai un témoin de
+
+696
+00:37:19,240 --> 00:37:22,640
+30 secondes, je dirais que le TCA est
+
+697
+00:37:22,640 --> 00:37:25,960
+allongé quand j'ai un malade qui a
+
+698
+00:37:25,960 --> 00:37:28,380
+un TCA supérieur à 36 secondes.
+
+699
+00:37:29,020 --> 00:37:32,740
+Mais la meilleure, c'est de faire ce
+
+700
+00:37:32,740 --> 00:37:35,460
+rapport, le TCA du malade sur le TCA
+
+701
+00:37:35,460 --> 00:37:38,140
+du témoin, lorsque ce rapport est supérieur à
+
+702
+00:37:38,140 --> 00:37:40,300
+1,2, on va dire que le TCA
+
+703
+00:37:40,300 --> 00:37:42,480
+est allongé.
+
+704
+00:37:43,100 --> 00:37:47,140
+Quels sont les variations pathologiques, pratiquement comme un
+
+705
+00:37:47,140 --> 00:37:48,640
+peu le temps de quick ?
+
+706
+00:37:48,640 --> 00:37:50,720
+C'est la présence d'anticoagulants circulants.
+
+707
+00:37:52,420 --> 00:37:56,000
+Le malade mis sous-hyparine, donc quand on
+
+708
+00:37:56,000 --> 00:37:59,800
+met le malade sous-hyparine, ça va allonger
+
+709
+00:37:59,800 --> 00:38:00,500
+le TCA.
+
+710
+00:38:01,400 --> 00:38:03,740
+Et la zone thérapeutique, c'est-à-dire
+
+711
+00:38:03,740 --> 00:38:05,920
+quand le malade est sous-hyparine non fractionné,
+
+712
+00:38:07,100 --> 00:38:09,460
+la zone thérapeutique, c'est-à-dire le
+
+713
+00:38:09,460 --> 00:38:12,220
+malade est un peu anticoagulé pour ne pas
+
+714
+00:38:12,220 --> 00:38:15,160
+faire de thrombose, donc la zone thérapeutique, c
+
+715
+00:38:15,160 --> 00:38:21,200
+'est un TCA 2 à 3 fois supérieur
+
+716
+00:38:21,200 --> 00:38:21,860
+au témoin.
+
+717
+00:38:24,260 --> 00:38:26,980
+La coagulation intravasculaire disséminée est une cause d
+
+718
+00:38:26,980 --> 00:38:28,160
+'allongement aussi du TCA.
+
+719
+00:38:28,800 --> 00:38:31,860
+Et bien sûr, les déficits constitutionnels auxquels on
+
+720
+00:38:31,860 --> 00:38:35,800
+facture de la voie androgène est commune.
+
+721
+00:38:35,800 --> 00:38:37,640
+Et donc la voie androgène, on l'a
+
+722
+00:38:37,640 --> 00:38:39,380
+vu tout à l'heure, c'est la
+
+723
+00:38:39,380 --> 00:38:42,520
+phase contact pré-calculée, c'est-à-dire
+
+724
+00:38:42,520 --> 00:38:44,320
+qu'il y a une androgène au point
+
+725
+00:38:44,320 --> 00:38:48,100
+moléculaire, le facteur 12, et ces facteurs de
+
+726
+00:38:48,100 --> 00:38:49,540
+la voie androgène, c'est-à-dire encore
+
+727
+00:38:49,540 --> 00:38:52,660
+le 9, le 11, le 9, le 8,
+
+728
+00:38:53,460 --> 00:38:54,460
+et la voie commune.
+
+729
+00:38:59,380 --> 00:39:02,680
+Donc là, c'est un schéma global qui
+
+730
+00:39:02,680 --> 00:39:07,040
+montre que le TCA explore la voie androgène,
+
+731
+00:39:07,200 --> 00:39:08,700
+c'est-à-dire cette voie androgène ici,
+
+732
+00:39:09,020 --> 00:39:11,140
+jusqu'à la formation de la fibrille.
+
+733
+00:39:15,170 --> 00:39:18,090
+Là, c'est un rappel, c'est-à
+
+734
+00:39:18,090 --> 00:39:20,270
+-dire qui montre, c'est-à-dire ce
+
+735
+00:39:20,270 --> 00:39:22,590
+schéma global de la coagulation in vitro.
+
+736
+00:39:22,590 --> 00:39:28,410
+On voit la voie androgène, la voie exogène.
+
+737
+00:39:28,990 --> 00:39:31,430
+Donc cette voie androgène, elle est explorée par
+
+738
+00:39:31,430 --> 00:39:31,990
+le TCA.
+
+739
+00:39:32,850 --> 00:39:35,990
+Cette voie exogène, elle est explorée par le
+
+740
+00:39:35,990 --> 00:39:36,590
+tendu quick.
+
+741
+00:39:37,090 --> 00:39:39,270
+Bien sûr, quand je parle du tendu quick,
+
+742
+00:39:39,390 --> 00:39:42,370
+il explore depuis le facteur 7 jusqu'à
+
+743
+00:39:42,370 --> 00:39:43,970
+la formation de la fibrille.
+
+744
+00:39:44,870 --> 00:39:46,750
+Et quand je parle du TCA, il explore
+
+745
+00:39:46,750 --> 00:39:50,770
+la voie androgène depuis les facteurs contact jusqu
+
+746
+00:39:50,770 --> 00:39:53,390
+'à la formation de la fibrille.
+
+747
+00:39:57,240 --> 00:40:02,680
+Un autre élément qui est utilisé en première
+
+748
+00:40:02,680 --> 00:40:05,420
+intention, c'est le dosage du fibrinogène.
+
+749
+00:40:05,980 --> 00:40:08,360
+Et donc la valeur normale de ce fibrinogène
+
+750
+00:40:08,360 --> 00:40:12,340
+est entre 2 à 4 grammes par litre.
+
+751
+00:40:13,040 --> 00:40:15,200
+Ce sont ces trois éléments un peu d
+
+752
+00:40:15,200 --> 00:40:15,860
+'orientation.
+
+753
+00:40:16,680 --> 00:40:19,320
+Et quand ils sont anormaux, nous allons passer
+
+754
+00:40:19,320 --> 00:40:22,920
+au test spécialisé.
+
+755
+00:40:26,940 --> 00:40:29,840
+Donc, autre bilan, mais là il ne faut
+
+756
+00:40:29,840 --> 00:40:31,020
+pas prendre cette plaque.
+
+757
+00:40:31,460 --> 00:40:32,820
+Vous allez les voir après, c'est-à
+
+758
+00:40:32,820 --> 00:40:34,600
+-dire parfois vous allez entendre parler du tendu
+
+759
+00:40:34,600 --> 00:40:38,680
+thrombine, du tendu reptilase, du tendu well.
+
+760
+00:40:39,020 --> 00:40:40,160
+C'est juste pour lire.
+
+761
+00:40:41,160 --> 00:40:42,280
+C'est-à-dire qu'on les utilise
+
+762
+00:40:42,280 --> 00:40:45,100
+dans des cas particuliers mais exceptionnellement, ce n
+
+763
+00:40:45,100 --> 00:40:46,440
+'est pas la peine de vous casser la
+
+764
+00:40:46,440 --> 00:40:47,020
+tête avec ça.
+
+765
+00:40:48,680 --> 00:40:51,680
+Par contre, avec les tests de confirmation, il
+
+766
+00:40:51,680 --> 00:40:52,360
+faut les connaître.
+
+767
+00:40:52,360 --> 00:40:55,720
+Donc quels sont ces tests de confirmation ?
+
+768
+00:40:55,720 --> 00:40:58,560
+C'est le dosage des facteurs de coagulation.
+
+769
+00:40:59,720 --> 00:41:01,920
+C'est-à-dire quand j'ai un
+
+770
+00:41:01,920 --> 00:41:05,340
+TCA allongé ou un tendu quick allongé, je
+
+771
+00:41:05,340 --> 00:41:10,140
+suis orienté vers un déficit en facteurs.
+
+772
+00:41:10,720 --> 00:41:13,740
+Et donc là, je dois faire le fait,
+
+773
+00:41:14,060 --> 00:41:15,040
+c'est-à-dire je dois doser ces
+
+774
+00:41:15,040 --> 00:41:15,380
+facteurs.
+
+775
+00:41:16,800 --> 00:41:19,540
+Mais il y a un petit souci, je
+
+776
+00:41:19,540 --> 00:41:20,480
+l'explique tout de suite.
+
+777
+00:41:20,480 --> 00:41:24,560
+C'est-à-dire un TCA sera parfois
+
+778
+00:41:24,560 --> 00:41:27,340
+allongé à cause d'un déficit en facteurs,
+
+779
+00:41:28,080 --> 00:41:31,700
+mais peut-être aussi allongé par la présence
+
+780
+00:41:31,700 --> 00:41:33,200
+d'anticoagulants circulants.
+
+781
+00:41:34,900 --> 00:41:39,120
+Donc en cas de déficit en facteurs, j
+
+782
+00:41:39,120 --> 00:41:42,720
+'ai un TCA allongé, je calcule un indice
+
+783
+00:41:42,720 --> 00:41:44,380
+qu'on appelle l'indice de Rosner, on
+
+784
+00:41:44,380 --> 00:41:46,080
+va revenir dessus si vous voulez au cours
+
+785
+00:41:46,080 --> 00:41:47,320
+des séances interactives.
+
+786
+00:41:47,320 --> 00:41:51,400
+Cet indice de Rosner, je le calcule comme
+
+787
+00:41:51,400 --> 00:41:51,760
+suit.
+
+788
+00:41:52,320 --> 00:41:54,720
+TCA, c'est-à-dire un mélange, c
+
+789
+00:41:54,720 --> 00:41:57,600
+'est-à-dire je fais le TCA du
+
+790
+00:41:57,600 --> 00:42:03,160
+malade, je le mélange avec un TCA témoin,
+
+791
+00:42:04,620 --> 00:42:07,580
+moins le TCA du témoin sur le TCA
+
+792
+00:42:07,580 --> 00:42:09,180
+du malade, multiplié par 100.
+
+793
+00:42:09,880 --> 00:42:11,960
+Et donc cette formule, c'est l'indice
+
+794
+00:42:11,960 --> 00:42:16,060
+de Rosner, va me fournir des pourcentages.
+
+795
+00:42:17,320 --> 00:42:20,840
+Si le pourcentage est supérieur à 15%, je
+
+796
+00:42:20,840 --> 00:42:23,240
+vais suspecter la présence d'anticoagulants circulants.
+
+797
+00:42:24,060 --> 00:42:26,200
+Si j'ai un pourcentage entre 12 et
+
+798
+00:42:26,200 --> 00:42:31,220
+15%, il est douteux, quand ce pourcentage est
+
+799
+00:42:31,220 --> 00:42:35,840
+inférieur à 12%, j'ai un déficit en
+
+800
+00:42:35,840 --> 00:42:36,780
+facteurs de coagulation.
+
+801
+00:42:42,440 --> 00:42:46,480
+La même chose, c'est-à-dire si
+
+802
+00:42:46,480 --> 00:42:51,420
+j'ai un facteur de coagulation, c'est
+
+803
+00:42:51,420 --> 00:42:53,120
+-à-dire principe de recherche des facteurs de
+
+804
+00:42:53,120 --> 00:42:55,760
+coagulation, c'est-à-dire quand j'ai
+
+805
+00:42:55,760 --> 00:43:01,500
+ce déficit, je vais doser les principaux facteurs
+
+806
+00:43:01,500 --> 00:43:04,600
+de coagulation suspectés.
+
+807
+00:43:04,800 --> 00:43:05,500
+C'est-à-dire si j'ai un
+
+808
+00:43:05,500 --> 00:43:09,100
+taux de quick allongé, je vais doser ces
+
+809
+00:43:09,100 --> 00:43:12,540
+facteurs, le facteur 7, 10, 5 et 2.
+
+810
+00:43:13,280 --> 00:43:16,880
+Si j'ai un test, c'est-à
+
+811
+00:43:16,880 --> 00:43:22,580
+-dire un TCA allongé, je vais doser surtout
+
+812
+00:43:22,580 --> 00:43:26,760
+les facteurs 9, 8 et 11, notamment quand
+
+813
+00:43:26,760 --> 00:43:28,060
+j'ai un temps de quick normal.
+
+814
+00:43:29,420 --> 00:43:33,440
+Donc en fonction du test allongé, si j
+
+815
+00:43:33,440 --> 00:43:35,220
+'ai un test, un temps de quick allongé,
+
+816
+00:43:35,380 --> 00:43:36,360
+j'ai des facteurs à doser.
+
+817
+00:43:36,360 --> 00:43:39,860
+Quand j'ai un test, un TCA allongé,
+
+818
+00:43:40,260 --> 00:43:43,240
+j'ai les autres facteurs à doser.
+
+819
+00:43:46,400 --> 00:43:48,480
+Concernant les ACC, c'est-à-dire la
+
+820
+00:43:48,480 --> 00:43:51,380
+recherche d'anticoagulants circulants, donc je l'ai
+
+821
+00:43:51,380 --> 00:43:52,720
+mentionné tout à l'heure, c'est-à
+
+822
+00:43:52,720 --> 00:43:55,480
+-dire j'ai un TCA allongé, j'ai
+
+823
+00:43:55,480 --> 00:43:58,220
+deux causes, soit la présence d'un déficit
+
+824
+00:43:58,220 --> 00:44:02,640
+en facteurs, soit c'est un anticoagulant circulant
+
+825
+00:44:02,640 --> 00:44:04,380
+qui a inhibi les facteurs.
+
+826
+00:44:04,380 --> 00:44:07,040
+Donc je fais ce test de correction.
+
+827
+00:44:08,420 --> 00:44:09,880
+Donc c'est quoi le test de correction
+
+828
+00:44:09,880 --> 00:44:10,740
+?
+
+829
+00:44:10,740 --> 00:44:11,940
+C'est-à-dire je prends le plasma
+
+830
+00:44:11,940 --> 00:44:14,660
+du malade, je le rajoute à un plasma
+
+831
+00:44:14,660 --> 00:44:16,000
+du témoin.
+
+832
+00:44:17,060 --> 00:44:20,180
+Si le test se corrige, cela veut dire
+
+833
+00:44:20,180 --> 00:44:21,820
+que c'est un déficit en facteurs.
+
+834
+00:44:22,620 --> 00:44:25,400
+Quand le test ne se corrige pas, ça
+
+835
+00:44:25,400 --> 00:44:29,780
+veut dire que les anticoagulants circulants présents dans
+
+836
+00:44:29,780 --> 00:44:35,280
+le plasma ont aussi bloqué les facteurs à
+
+837
+00:44:35,280 --> 00:44:35,540
+porter.
+
+838
+00:44:36,520 --> 00:44:38,500
+Et pour dire que c'est corrigé ou
+
+839
+00:44:38,500 --> 00:44:41,160
+non pas corrigé, donc je recalcule, c'est
+
+840
+00:44:41,160 --> 00:44:42,640
+la même chose que précédemment.
+
+841
+00:44:43,300 --> 00:44:46,360
+Certains disent Rosner, TCA du malade moins TCA
+
+842
+00:44:46,360 --> 00:44:49,220
+du témoin sur TCA du malade fois 100.
+
+843
+00:44:49,860 --> 00:44:53,300
+Et donc là, j'aurai un pourcentage supérieur
+
+844
+00:44:53,300 --> 00:44:54,080
+à 15%.
+
+845
+00:44:54,080 --> 00:44:55,620
+Donc je vais dire que c'est la
+
+846
+00:44:55,620 --> 00:44:59,600
+présence d'un anticoagulant circulant que je vais
+
+847
+00:44:59,600 --> 00:44:59,960
+chercher.
+
+848
+00:45:00,820 --> 00:45:02,980
+Par contre, tout à l'heure, on avait
+
+849
+00:45:02,980 --> 00:45:06,320
+vu que pour les déficits en facteurs, c
+
+850
+00:45:06,320 --> 00:45:09,780
+'était un indice inférieur à 12%.
+
+851
+00:45:14,870 --> 00:45:17,390
+Ensuite, c'est-à-dire que quand j
+
+852
+00:45:17,390 --> 00:45:21,130
+'ai un anticoagulant circulant, je vais le typer
+
+853
+00:45:21,130 --> 00:45:24,130
+en utilisant des tests un peu spécialisés.
+
+854
+00:45:24,130 --> 00:45:26,830
+C'est le test de venin de vipérusselle
+
+855
+00:45:26,830 --> 00:45:27,670
+diluée.
+
+856
+00:45:28,670 --> 00:45:32,330
+Donc, il détecte les anticoagulants circulants touchant la
+
+857
+00:45:32,330 --> 00:45:33,130
+voie commune.
+
+858
+00:45:38,420 --> 00:45:40,280
+Comme les facteurs, c'est-à-dire parfois
+
+859
+00:45:40,280 --> 00:45:43,940
+je suspecte, c'est-à-dire la présence,
+
+860
+00:45:45,140 --> 00:45:46,200
+c'est-à-dire j'ai un problème
+
+861
+00:45:46,200 --> 00:45:49,280
+d'inhibiteur, je vais les doser, c'est
+
+862
+00:45:49,280 --> 00:45:50,660
+-à-dire on a des moyens pour doser
+
+863
+00:45:50,660 --> 00:45:51,460
+les inhibiteurs.
+
+864
+00:45:51,460 --> 00:45:54,480
+Et donc je vais doser l'antithrombine 3,
+
+865
+00:45:55,160 --> 00:45:58,260
+doser la protéine C et S.
+
+866
+00:46:00,770 --> 00:46:04,150
+La biologie moléculaire pourrait servir dans des laboratoires
+
+867
+00:46:04,150 --> 00:46:08,690
+spécialisés pour rechercher les anomalies génétiques en cause,
+
+868
+00:46:09,270 --> 00:46:11,810
+c'est-à-dire sur toute la mutation
+
+869
+00:46:11,810 --> 00:46:13,090
+du facteur 5 Leiden.
+
+870
+00:46:13,750 --> 00:46:15,910
+Mais c'est-à-dire on peut la
+
+871
+00:46:15,910 --> 00:46:19,210
+rechercher indirectement, c'est-à-dire dans le
+
+872
+00:46:19,210 --> 00:46:22,750
+laboratoire, c'est-à-dire vous aurez à
+
+873
+00:46:22,750 --> 00:46:24,970
+voir ça quand vous passerez dans nos laboratoires.
+
+874
+00:46:29,080 --> 00:46:30,540
+Mesure de l'héparine émise, c'est-à
+
+875
+00:46:30,540 --> 00:46:32,300
+-dire quand le patient est mis sous l
+
+876
+00:46:32,300 --> 00:46:36,800
+'héparine, donc là, c'est-à-dire on
+
+877
+00:46:36,800 --> 00:46:38,460
+a le TCA, comme j'ai dit tout
+
+878
+00:46:38,460 --> 00:46:41,980
+à l'heure, qui va nous renseigner, c
+
+879
+00:46:41,980 --> 00:46:44,260
+'est-à-dire le TCA sera allongé, mais
+
+880
+00:46:44,260 --> 00:46:47,460
+malheureusement, dans les héparines non fractionnées, c'est
+
+881
+00:46:47,460 --> 00:46:50,420
+-à-dire les héparines de bois et de
+
+882
+00:46:50,420 --> 00:46:53,360
+bois pour moléculaire, ce TCA ne sera pas
+
+883
+00:46:53,360 --> 00:46:56,940
+trop allongé, et donc on va mesurer l
+
+884
+00:46:56,940 --> 00:47:00,780
+'activité de l'anti-DSA, et donc cette
+
+885
+00:47:00,780 --> 00:47:06,840
+mesure va m'indiquer est-ce que le
+
+886
+00:47:06,840 --> 00:47:08,920
+patient est bien anticoagulé ou non.
+
+887
+00:47:08,920 --> 00:47:12,220
+Le deuxième test qu'il peut utiliser, c
+
+888
+00:47:12,220 --> 00:47:14,140
+'est la mesure de l'activité anti-DSA.
+
+889
+00:47:19,740 --> 00:47:22,760
+Maintenant, on va voir un peu quelques algorithmes,
+
+890
+00:47:24,180 --> 00:47:26,400
+c'est-à-dire en fonction d'un
+
+891
+00:47:26,400 --> 00:47:28,320
+allongement d'un temps, qu'est-ce que
+
+892
+00:47:28,320 --> 00:47:31,960
+je dois faire, comment je dois raisonner, c
+
+893
+00:47:31,960 --> 00:47:33,780
+'est-à-dire pour chercher quelle pathologie.
+
+894
+00:47:36,720 --> 00:47:39,100
+Donc là, nous allons voir en cas d
+
+895
+00:47:39,100 --> 00:47:46,360
+'allongement isolé du temps de quick, donc en
+
+896
+00:47:46,360 --> 00:47:48,200
+cas d'allongement isolé du temps de quick,
+
+897
+00:47:48,900 --> 00:47:51,100
+nous avions vu que le temps de quick,
+
+898
+00:47:51,380 --> 00:47:54,660
+il explorait cette voie extrinsèque, donc ça va
+
+899
+00:47:54,660 --> 00:47:58,220
+renseigner sur quoi, donc c'est l'atteinte
+
+900
+00:47:58,220 --> 00:48:02,000
+de tous ces facteurs, c'est-à-dire
+
+901
+00:48:02,000 --> 00:48:04,480
+on va le voir rapidement sans trop s
+
+902
+00:48:04,480 --> 00:48:04,900
+'attarder.
+
+903
+00:48:04,900 --> 00:48:07,820
+Donc en cas d'allongement du temps de
+
+904
+00:48:07,820 --> 00:48:10,440
+quick, je vais réaliser, c'est-à-dire
+
+905
+00:48:10,440 --> 00:48:13,820
+le dosage du fibrinogène, du facteur 2, du
+
+906
+00:48:13,820 --> 00:48:15,760
+facteur 5, 7 et 10.
+
+907
+00:48:16,060 --> 00:48:17,360
+Donc ce sont ces facteurs ici.
+
+908
+00:48:18,360 --> 00:48:21,900
+Et donc en fonction, est-ce que certains
+
+909
+00:48:21,900 --> 00:48:24,460
+facteurs sont normaux au BAC, vous les voyez
+
+910
+00:48:24,460 --> 00:48:27,820
+ici, je serais orienté soit vers l'insuissance
+
+911
+00:48:27,820 --> 00:48:32,600
+hypothécaire, soit vers un déficit isolé en facteur
+
+912
+00:48:32,600 --> 00:48:39,300
+7, soit vers un traitement par les antivitamines
+
+913
+00:48:39,300 --> 00:48:39,420
+K.
+
+914
+00:48:44,050 --> 00:48:46,230
+Si j'ai par contre un allongement isolé
+
+915
+00:48:46,230 --> 00:48:53,810
+du TCA, donc là, la même chose, en
+
+916
+00:48:53,810 --> 00:48:57,090
+fonction, c'est-à-dire soit le patient
+
+917
+00:48:57,090 --> 00:49:00,250
+est mis sous épargne, donc là je dois
+
+918
+00:49:00,250 --> 00:49:03,290
+voir si le patient est bien anticoagulant ou
+
+919
+00:49:03,290 --> 00:49:08,350
+non, je fais le test de correction, c
+
+920
+00:49:08,350 --> 00:49:09,730
+'est-à-dire je sais que le patient
+
+921
+00:49:09,730 --> 00:49:11,750
+n'est pas sous épargne, je fais le
+
+922
+00:49:11,750 --> 00:49:16,090
+test de correction, s'il est corrigé, c
+
+923
+00:49:16,090 --> 00:49:19,850
+'est un déficit en facteur de coagulation.
+
+924
+00:49:20,850 --> 00:49:24,350
+S'il n'est pas corrigé, pratiquement, c
+
+925
+00:49:24,350 --> 00:49:25,650
+'est-à-dire on va être orienté vers
+
+926
+00:49:25,650 --> 00:49:29,710
+la présence d'un lupus anticoagulant et donc
+
+927
+00:49:29,710 --> 00:49:33,450
+aller chercher les anticorps, ces ACC, donc on
+
+928
+00:49:33,450 --> 00:49:35,090
+a des tests spécialisés pour le faire.
+
+929
+00:49:40,450 --> 00:49:43,750
+Quand on a un allongement combiné et concomitant
+
+930
+00:49:43,750 --> 00:49:48,010
+du Tenduquic et du TCA, donc là, c
+
+931
+00:49:48,010 --> 00:49:49,090
+'est-à-dire la même chose, donc en
+
+932
+00:49:49,090 --> 00:49:51,290
+fonction, donc là c'est des tableaux qui
+
+933
+00:49:51,290 --> 00:49:55,450
+vont vous aider juste pour vous orienter vers
+
+934
+00:49:55,450 --> 00:49:57,570
+quelle pathologie, c'est-à-dire si ce
+
+935
+00:49:57,570 --> 00:49:58,950
+confie au laboratoire, c'est-à-dire quand
+
+936
+00:49:58,950 --> 00:50:01,470
+on a un allongement d'un temps, on
+
+937
+00:50:01,470 --> 00:50:04,450
+va faire les différents tests et on va
+
+938
+00:50:04,450 --> 00:50:10,090
+être orienté soit vers des déficits isolés, soit
+
+939
+00:50:10,090 --> 00:50:15,830
+vers un traitement par les AVK, soit la
+
+940
+00:50:15,830 --> 00:50:18,610
+présence d'inhibiteurs, c'est-à-dire la
+
+941
+00:50:18,610 --> 00:50:21,350
+présence d'un anticoagulant circulant, soit vers des
+
+942
+00:50:21,350 --> 00:50:25,050
+pathologies graves comme la CIVD ou l'insouciance
+
+943
+00:50:25,050 --> 00:50:26,250
+hépato-cellulaire.
+
+944
+00:50:33,320 --> 00:50:37,440
+Dans d'autres cas, parfois, on aura une
+
+945
+00:50:37,440 --> 00:50:40,460
+baisse isolée du fibrinogène, et donc là ce
+
+946
+00:50:40,460 --> 00:50:42,100
+sont des pathologies qu'on cherche aussi, c
+
+947
+00:50:42,100 --> 00:50:43,580
+'est-à-dire qu'il pourrait s'agir
+
+948
+00:50:43,580 --> 00:50:46,380
+d'une hypo-fibrinogénémie quand le fibrinogène est
+
+949
+00:50:46,380 --> 00:50:48,500
+inférieur à 2 g par litre, la valeur
+
+950
+00:50:48,500 --> 00:50:50,880
+normale c'est entre 2 et 4, soit
+
+951
+00:50:50,880 --> 00:50:54,880
+des dysfibrinogénémies constitutionnelles, c'est-à-dire le
+
+952
+00:50:54,880 --> 00:50:57,520
+taux de fibrinogène est parfois normal, mais il
+
+953
+00:50:57,520 --> 00:51:00,060
+est anormal et donc ça va allonger le
+
+954
+00:51:00,060 --> 00:51:01,380
+TP et le TCA.
+
+955
+00:51:03,720 --> 00:51:07,380
+Donc le TP, le TCA, le fibrinogène, ils
+
+956
+00:51:07,380 --> 00:51:10,160
+sont tous normaux, parfois tous les tests sont
+
+957
+00:51:10,160 --> 00:51:14,800
+normaux, il faut aller chercher la dernière phase
+
+958
+00:51:14,800 --> 00:51:18,760
+de la coagulation, suspecter le déficit en facteur
+
+959
+00:51:18,760 --> 00:51:22,700
+13 qui agit pratiquement en dernier lieu, donc
+
+960
+00:51:22,700 --> 00:51:25,220
+quand tous les tests sont normaux, il ne
+
+961
+00:51:25,220 --> 00:51:28,800
+faut pas hésiter à chercher un problème au
+
+962
+00:51:28,800 --> 00:51:29,920
+niveau du facteur 13.
+
+963
+00:51:31,540 --> 00:51:35,320
+Donc en conclusion, la coagulation, vous voyez que
+
+964
+00:51:35,320 --> 00:51:39,720
+c'est la deuxième phase de l'hémostase
+
+965
+00:51:39,720 --> 00:51:44,040
+qui permet de consolider le flou plaquetaire formé
+
+966
+00:51:44,040 --> 00:51:46,540
+par l'hémostase primaire, donc il y a
+
+967
+00:51:46,540 --> 00:51:49,200
+plein de choses à connaître, les facteurs de
+
+968
+00:51:49,200 --> 00:51:55,440
+coagulation, les inhibiteurs, parfois la présence d'anticoagulants
+
+969
+00:51:55,440 --> 00:52:02,580
+circulants, donc il faut respecter les éléments de
+
+970
+00:52:02,580 --> 00:52:07,420
+la phase pré-analytique et il faut aussi
+
+971
+00:52:07,420 --> 00:52:14,060
+travailler avec méthodologie, avoir une démarche diagnostique et
+
+972
+00:52:14,060 --> 00:52:18,680
+collaborer avec les autres camarades et notamment les
+
+973
+00:52:18,680 --> 00:52:19,180
+cliniciens.
+
+974
+00:52:19,460 --> 00:52:20,100
+Je vous remercie.

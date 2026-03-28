@@ -1,0 +1,1371 @@
+1
+00:00:00,780 --> 00:00:02,640
+Bonjour, donc j'ai l'honneur de vous
+
+2
+00:00:02,640 --> 00:00:04,980
+présenter aujourd'hui ce cours intitulé « Les
+
+3
+00:00:04,980 --> 00:00:06,240
+états de choc ».
+
+4
+00:00:07,610 --> 00:00:10,030
+Les objectifs de ce cours sont de reconnaître
+
+5
+00:00:10,030 --> 00:00:11,950
+un état de choc, de comprendre les mécanismes
+
+6
+00:00:11,950 --> 00:00:16,250
+physiopathologiques, de reconnaître les différents états de choc
+
+7
+00:00:16,250 --> 00:00:19,710
+ainsi que les principes diagnostiques et les modalités
+
+8
+00:00:19,710 --> 00:00:20,450
+thérapeutiques.
+
+9
+00:00:22,190 --> 00:00:24,010
+Comme vous le savez, donc, il s'agit
+
+10
+00:00:24,010 --> 00:00:26,790
+d'une insuffisance de perfusion tissulaire qui entraîne
+
+11
+00:00:27,270 --> 00:00:29,970
+une anoxie cellulaire avec déviation à l'aérobie
+
+12
+00:00:29,970 --> 00:00:33,270
+du métabolisme, avec un défaut de stockage d
+
+13
+00:00:33,270 --> 00:00:36,110
+'ATP nécessaire au fonctionnement cellulaire qui va aboutir
+
+14
+00:00:36,110 --> 00:00:41,110
+à une acidose laxique, avec comme conséquence une
+
+15
+00:00:41,110 --> 00:00:46,490
+lactatémie supérieure ou égale à 2,5 millimoles
+
+16
+00:00:46,490 --> 00:00:47,550
+par litre.
+
+17
+00:00:49,290 --> 00:00:51,390
+La définition d'un état de choc, c
+
+18
+00:00:51,390 --> 00:00:54,930
+'est la survenue d'une hypotension inférieure à
+
+19
+00:00:54,930 --> 00:00:57,110
+90 mmHg ou une baisse d'au moins
+
+20
+00:00:57,110 --> 00:00:59,470
+30% de la pression artérielle chez un
+
+21
+00:00:59,470 --> 00:01:03,050
+hypertendu connu, avec une redistribution de la perfusion
+
+22
+00:01:03,050 --> 00:01:07,150
+aux différents organes qui va entraîner une défaillance
+
+23
+00:01:07,150 --> 00:01:08,130
+multiviscérale.
+
+24
+00:01:09,190 --> 00:01:14,590
+Ce schéma illustre le métabolisme à aérobie avec
+
+25
+00:01:14,590 --> 00:01:16,990
+un stockage d'énergie, comme vous le voyez,
+
+26
+00:01:17,230 --> 00:01:20,510
+donc, l'aboutissement du glucose à l'acide
+
+27
+00:01:20,510 --> 00:01:23,570
+purifique et puis à l'acide lactique et
+
+28
+00:01:23,570 --> 00:01:26,110
+vice-versa, donc l'acide lactique peut donner
+
+29
+00:01:26,110 --> 00:01:26,990
+l'acide purifique.
+
+30
+00:01:27,810 --> 00:01:29,770
+Et dans les états de choc, on a
+
+31
+00:01:29,770 --> 00:01:33,750
+une déviation du métabolisme à aérobie avec comme
+
+32
+00:01:33,750 --> 00:01:37,250
+conséquence un défaut de production d'ATP et
+
+33
+00:01:37,250 --> 00:01:43,830
+comme conséquence une acidose lactique, excès de production
+
+34
+00:01:43,830 --> 00:01:44,770
+lactique.
+
+35
+00:01:45,370 --> 00:01:47,930
+Alors, les déterminants de l'oxygénation tissulaire, c
+
+36
+00:01:47,930 --> 00:01:49,930
+'est, comme vous le savez, la délivrance de
+
+37
+00:01:49,930 --> 00:01:52,350
+l'oxygène de l'environnement, ce fait jusqu
+
+38
+00:01:52,350 --> 00:01:54,470
+'à la mitochondrie, et puis un certain nombre
+
+39
+00:01:54,470 --> 00:01:57,630
+d'étapes interviennent, la convection, la diffusion au
+
+40
+00:01:57,630 --> 00:02:01,550
+niveau pulmonaire, son transport au niveau sanguin, puis
+
+41
+00:02:01,550 --> 00:02:04,270
+sa mise à la disposition des tissus périphériques
+
+42
+00:02:04,270 --> 00:02:07,030
+avec une adéquation entre le besoin métabolique en
+
+43
+00:02:07,030 --> 00:02:08,310
+oxygène et sa consommation.
+
+44
+00:02:08,970 --> 00:02:11,550
+Le transport artériel en oxygène, c'est la
+
+45
+00:02:11,550 --> 00:02:13,630
+quantité d'oxygène délivrée en une minute par
+
+46
+00:02:13,630 --> 00:02:15,990
+le sang artériel polyvasculaire périphérique.
+
+47
+00:02:16,770 --> 00:02:20,290
+L'oxygène est transporté sous deux formes combinées
+
+48
+00:02:20,290 --> 00:02:21,230
+et dissoutes.
+
+49
+00:02:22,730 --> 00:02:26,650
+Ces formules sont intéressantes dans la mesure où
+
+50
+00:02:26,650 --> 00:02:29,910
+le transport artériel est exprimé en millilitres par
+
+51
+00:02:29,910 --> 00:02:33,310
+minute, c'est le débit cardiaque multiplié par
+
+52
+00:02:33,310 --> 00:02:35,190
+le contenu artériel en oxygène polyse.
+
+53
+00:02:36,490 --> 00:02:41,190
+Le débit cardiaque, c'est le volume de
+
+54
+00:02:41,190 --> 00:02:43,170
+sang éjecté par unité de temps.
+
+55
+00:02:43,610 --> 00:02:45,430
+Et le contenu artériel en oxygène, c'est
+
+56
+00:02:45,430 --> 00:02:48,150
+la saturation multipliée par l'hémoglobine par 1
+
+57
+00:02:48,150 --> 00:02:50,630
+,34, tout en sachant que 1,34, c
+
+58
+00:02:50,630 --> 00:02:53,510
+'est le pouvoir exoxyphorique de l'hémoglobine.
+
+59
+00:02:54,110 --> 00:02:56,010
+Et la PO2, c'est la pression partielle
+
+60
+00:02:56,010 --> 00:02:57,790
+de l'oxygène dans le sang artériel qui
+
+61
+00:02:57,790 --> 00:03:00,470
+est aux alentours de 98 mmHg.
+
+62
+00:03:01,370 --> 00:03:03,390
+La consommation d'oxygène, c'est la quantité
+
+63
+00:03:03,390 --> 00:03:05,590
+d'oxygène utilisée par minute par l'ensemble
+
+64
+00:03:05,590 --> 00:03:07,110
+des tissus.
+
+65
+00:03:07,810 --> 00:03:09,830
+Elle est en équilibre avec les besoins métaboliques
+
+66
+00:03:09,830 --> 00:03:10,790
+à l'état normal.
+
+67
+00:03:12,410 --> 00:03:14,650
+L'extraction d'oxygène, c'est le pourcentage
+
+68
+00:03:14,650 --> 00:03:16,930
+du transport artériel d'oxygène qui est effectivement
+
+69
+00:03:16,930 --> 00:03:20,870
+utilisé pour satisfaire les besoins métaboliques et c
+
+70
+00:03:20,870 --> 00:03:27,590
+'est un rapport entre la consommation et le
+
+71
+00:03:27,590 --> 00:03:29,610
+transport artériel d'oxygène.
+
+72
+00:03:30,410 --> 00:03:33,030
+Les déterminants du libido cardiaque, c'est le
+
+73
+00:03:33,030 --> 00:03:35,590
+volume d'éjection systolique à la fréquence cardiaque,
+
+74
+00:03:35,670 --> 00:03:37,810
+donc les facteurs déterminants de la performance, c
+
+75
+00:03:37,810 --> 00:03:39,730
+'est la précharge tout d'abord, c'est
+
+76
+00:03:39,730 --> 00:03:45,390
+le volume télé-diastolique ventriculaire, la contractilité myocardique
+
+77
+00:03:45,390 --> 00:03:48,990
+et puis la postcharge qui est définie par
+
+78
+00:03:48,990 --> 00:03:52,330
+une tension parietale instantanée durant l'éjection ventriculaire
+
+79
+00:03:52,330 --> 00:03:55,050
+et puis la fréquence cardiaque.
+
+80
+00:03:56,270 --> 00:03:59,990
+Le défaut d'oxygénation cellulaire est exprimé par
+
+81
+00:03:59,990 --> 00:04:03,190
+une baisse du transport artériel d'oxygène qui
+
+82
+00:04:03,190 --> 00:04:05,550
+peut être originaire soit d'une diminution du
+
+83
+00:04:05,550 --> 00:04:08,190
+débit cardiaque, d'une diminution de la saturation
+
+84
+00:04:08,190 --> 00:04:10,310
+en oxygène ou bien des anomalies d'hémoglobine,
+
+85
+00:04:10,830 --> 00:04:13,090
+une baisse de l'extraction d'oxygène avec
+
+86
+00:04:13,090 --> 00:04:16,010
+une vasométromotricité anormale, une distribution anormale du débit
+
+87
+00:04:16,010 --> 00:04:19,149
+sanguin ou bien une baisse du transport et
+
+88
+00:04:19,149 --> 00:04:21,330
+de l'extraction de l'oxygène.
+
+89
+00:04:22,910 --> 00:04:26,210
+On distingue ainsi les chocs quantitatifs qui sont
+
+90
+00:04:26,210 --> 00:04:28,570
+exprimés par des anomalies de transport, les chocs
+
+91
+00:04:28,570 --> 00:04:31,570
+distributifs qui sont manifestés par les anomalies de
+
+92
+00:04:31,570 --> 00:04:33,950
+l'extraction et puis les chocs mixtes, c
+
+93
+00:04:33,950 --> 00:04:36,650
+'est-à-dire manifestés par des anomalies de
+
+94
+00:04:36,650 --> 00:04:38,610
+transport et de l'extraction de l'oxygène.
+
+95
+00:04:40,090 --> 00:04:42,670
+Les chocs quantitatifs et tout d'abord le
+
+96
+00:04:42,670 --> 00:04:44,830
+bas débit cardiaque donc qui est manifesté par
+
+97
+00:04:44,830 --> 00:04:48,430
+une diminution du volume d'éjection systolique, une
+
+98
+00:04:48,430 --> 00:04:52,810
+fréquence cardiaque anormale qui peut être soit une
+
+99
+00:04:52,810 --> 00:04:55,350
+hypovolumie absolue ou relative, c'est-à-dire
+
+100
+00:04:55,350 --> 00:04:58,310
+une hémorragie, une déshydratation, une vasoplégie comme dans
+
+101
+00:04:58,310 --> 00:05:01,610
+les chocs mixtes, un état de choc cardiogénique
+
+102
+00:05:01,610 --> 00:05:04,470
+manifesté par des anomalies de la pompe cardiaque
+
+103
+00:05:05,030 --> 00:05:07,290
+au niveau myocardique, soit par une augmentation de
+
+104
+00:05:07,290 --> 00:05:08,850
+la post-charge ou bien une diminution de
+
+105
+00:05:08,850 --> 00:05:09,850
+la pré-charge comme c'est le cas
+
+106
+00:05:09,850 --> 00:05:11,690
+de l'ombolymme pulmonaire massif ou l'infarctus
+
+107
+00:05:11,690 --> 00:05:12,550
+du myographe, etc.
+
+108
+00:05:13,510 --> 00:05:16,450
+On peut avoir également comme choc quantitatif une
+
+109
+00:05:16,450 --> 00:05:19,090
+diminution du contenu artériel de l'oxygène manifesté
+
+110
+00:05:19,090 --> 00:05:20,530
+par une anémie profonde, c'est-à-dire
+
+111
+00:05:20,530 --> 00:05:22,750
+une baisse profonde du taux d'hémoglobine, une
+
+112
+00:05:22,750 --> 00:05:26,430
+intoxication monoxyde de carbone ou bien une hypoxie
+
+113
+00:05:26,430 --> 00:05:27,110
+profonde.
+
+114
+00:05:27,970 --> 00:05:31,350
+Les chocs distributifs se manifestent par des défauts
+
+115
+00:05:31,350 --> 00:05:33,530
+d'extraction périphérique de l'oxygène, à savoir
+
+116
+00:05:33,530 --> 00:05:36,710
+un sepsis sévère, une anérophilaxie manifestée par une
+
+117
+00:05:36,710 --> 00:05:39,610
+redistribution anormale des débits ou bien une diminution
+
+118
+00:05:39,610 --> 00:05:41,430
+du recrutement capillaire.
+
+119
+00:05:42,750 --> 00:05:45,570
+Les mécanismes d'adaptation peuvent être différents selon
+
+120
+00:05:45,570 --> 00:05:46,790
+le type de choc considéré.
+
+121
+00:05:47,370 --> 00:05:48,890
+Face à une diminution du débit cardiaque, l
+
+122
+00:05:48,890 --> 00:05:51,030
+'organisme répond par une augmentation de l'extraction
+
+123
+00:05:51,030 --> 00:05:53,790
+périphérique de l'oxygène et par une redistribution
+
+124
+00:05:53,790 --> 00:05:56,290
+du débit sanguin des circulations cutanistes, planchniques et
+
+125
+00:05:56,290 --> 00:05:59,650
+musculaires vers les circulations cérébrales et cardiaques et
+
+126
+00:05:59,650 --> 00:06:03,170
+une interfonction de mécanismes neurohormonaux, ce qui suppose
+
+127
+00:06:03,170 --> 00:06:07,610
+l'intégrité de la réactivité vasculaire.
+
+128
+00:06:07,890 --> 00:06:10,930
+Les chocs quantitatifs manient en cas de diminution
+
+129
+00:06:10,930 --> 00:06:12,470
+du débit cardiaque, il y a une adaptation
+
+130
+00:06:12,470 --> 00:06:16,530
+neuroadrénergique par une action inotrope vasoconstrictrice.
+
+131
+00:06:16,850 --> 00:06:18,470
+Il faut savoir que le volume d'éjection
+
+132
+00:06:18,470 --> 00:06:20,170
+systolique diminue s'il y a une diminution
+
+133
+00:06:20,170 --> 00:06:23,670
+de la contractilité ou bien de la précharge,
+
+134
+00:06:23,890 --> 00:06:25,710
+donc ça se manifeste par une tachycardie.
+
+135
+00:06:26,370 --> 00:06:29,690
+Les résistances vasculaires systémiques, eux, peuvent augmenter pour
+
+136
+00:06:29,690 --> 00:06:32,010
+maintenir la pression artérielle moyenne et redistribuer le
+
+137
+00:06:32,010 --> 00:06:34,790
+débit cardiaque vers les territoires nobles à faible
+
+138
+00:06:34,790 --> 00:06:39,070
+réserve d'extraction d'oxygène qui se manifeste
+
+139
+00:06:39,070 --> 00:06:42,910
+par une vasoconstriction et donc sur le plan
+
+140
+00:06:42,910 --> 00:06:44,970
+clinique, ça va se manifester par une marbrure
+
+141
+00:06:44,970 --> 00:06:46,310
+et une oligurie.
+
+142
+00:06:47,010 --> 00:06:50,110
+Les chocs distributifs se manifestent par une atteinte
+
+143
+00:06:50,110 --> 00:06:51,610
+du tonus vasomoteur.
+
+144
+00:06:52,770 --> 00:06:57,590
+Les résistances vasculaires systémiques diminuent par le biais
+
+145
+00:06:57,590 --> 00:07:00,250
+des médiateurs inflammatoires et donc on aura une
+
+146
+00:07:00,250 --> 00:07:02,490
+augmentation du débit cardiaque par l'augmentation de
+
+147
+00:07:02,490 --> 00:07:04,910
+la fréquence cardiaque du fait de l'hypovolumie
+
+148
+00:07:04,910 --> 00:07:08,270
+relative de la synthèse d'interleuquines de médiateurs
+
+149
+00:07:08,270 --> 00:07:09,090
+de l'inflammation.
+
+150
+00:07:10,190 --> 00:07:12,650
+Vous aurez donc une hypovolumie avec une atteinte
+
+151
+00:07:12,650 --> 00:07:16,610
+endothéliale, un oedème, des troubles de coagulation, en
+
+152
+00:07:16,610 --> 00:07:20,270
+l'occurrence une coagulation intravasculaire disséminée et puis
+
+153
+00:07:20,270 --> 00:07:21,710
+une obstruction microvasculaire.
+
+154
+00:07:21,970 --> 00:07:24,030
+Les mécanismes d'adaptation mis en jeu ne
+
+155
+00:07:24,030 --> 00:07:26,790
+peuvent pas durer longtemps parce que l'organisme
+
+156
+00:07:26,790 --> 00:07:27,410
+a des limites.
+
+157
+00:07:28,510 --> 00:07:31,470
+Comme vous le voyez sur ce modèle expérimental
+
+158
+00:07:31,470 --> 00:07:34,650
+du choc hémorragique, vous voyez que l'hémorragie
+
+159
+00:07:34,650 --> 00:07:38,170
+c'est le pourcentage de la masse sanguine
+
+160
+00:07:38,170 --> 00:07:43,690
+en perte qui est perdue et donc la
+
+161
+00:07:43,690 --> 00:07:45,410
+pression artérielle s'adapte en deux phases.
+
+162
+00:07:45,510 --> 00:07:46,670
+Vous avez la phase 1 et la phase
+
+163
+00:07:46,670 --> 00:07:48,310
+2, c'est-à-dire la phase, c
+
+164
+00:07:48,310 --> 00:07:50,810
+'est le fameux modèle de Wiger, vous voyez
+
+165
+00:07:50,810 --> 00:07:53,350
+une phase sympato-excitatrice où la pression artérielle
+
+166
+00:07:53,350 --> 00:07:57,390
+s'adapte dans une certaine marge avec une
+
+167
+00:07:57,390 --> 00:08:00,750
+tachycardie, phase sympato-excitatrice, et puis après un
+
+168
+00:08:00,750 --> 00:08:04,290
+certain temps, les mécanismes de défense sont dépassés
+
+169
+00:08:04,290 --> 00:08:07,030
+et on aura une décompensation avec un passage
+
+170
+00:08:07,030 --> 00:08:09,210
+vers la phase 2 et donc on aura
+
+171
+00:08:09,210 --> 00:08:12,110
+une bradycardie qui va annoncer la phase sympato
+
+172
+00:08:12,110 --> 00:08:15,370
+-inhibitrice avec, après, qui va annoncer la phase
+
+173
+00:08:15,370 --> 00:08:18,450
+de défaillance multiviscérale et puis la phase d
+
+174
+00:08:18,450 --> 00:08:19,290
+'arrêt cardiaque.
+
+175
+00:08:20,750 --> 00:08:22,510
+Voilà, ça illustre ce que je viens de
+
+176
+00:08:22,510 --> 00:08:22,750
+dire.
+
+177
+00:08:22,970 --> 00:08:24,670
+Donc la première phase, c'est la phase
+
+178
+00:08:24,670 --> 00:08:29,610
+de choc réversible, donc normalisation après transfusion, et
+
+179
+00:08:29,610 --> 00:08:30,890
+la deuxième phase, c'est la phase de
+
+180
+00:08:30,890 --> 00:08:34,570
+choc irréversible, donc c'est une hypotension après
+
+181
+00:08:34,570 --> 00:08:38,250
+qui persiste malgré la transfusion.
+
+182
+00:08:40,909 --> 00:08:43,010
+Les étiologies du choc cardiogénique, c'est les
+
+183
+00:08:43,010 --> 00:08:46,010
+anomalies de la précharge manifestées par, qui peuvent
+
+184
+00:08:46,010 --> 00:08:48,330
+être diminuées en cas de diminution de la
+
+185
+00:08:48,330 --> 00:08:50,570
+durée de la diastole, en cas de tachycardie,
+
+186
+00:08:50,630 --> 00:08:53,990
+de tachyarrhythmie, une diminution de la distensibilité ventriculaire
+
+187
+00:08:53,990 --> 00:08:56,450
+en cas d'ischémie aiguë, de cardiopathie hypertrophique
+
+188
+00:08:56,450 --> 00:08:59,530
+restrictive, d'augmentation de la pression de l
+
+189
+00:08:59,530 --> 00:09:01,810
+'extraparital en cas de tamponade, et puis l
+
+190
+00:09:01,810 --> 00:09:04,850
+'augmentation en cas d'incompétence valvulaire et de
+
+191
+00:09:04,850 --> 00:09:05,830
+surcharge en volume.
+
+192
+00:09:07,210 --> 00:09:09,770
+On peut avoir une diminution de la contractilité
+
+193
+00:09:09,770 --> 00:09:13,570
+par perte d'un territoire contractile, une infarctice
+
+194
+00:09:13,570 --> 00:09:15,330
+du myocarde ou bien une atteinte diffuse du
+
+195
+00:09:15,330 --> 00:09:16,750
+myocarde en cas de myocardite aiguë.
+
+196
+00:09:17,170 --> 00:09:18,730
+On peut voir également une augmentation de la
+
+197
+00:09:18,730 --> 00:09:21,010
+postcharge avec l'augmentation d'un obstacle à
+
+198
+00:09:21,010 --> 00:09:23,230
+l'éjection ventriculaire en cas d'embolie pulmonaire
+
+199
+00:09:23,230 --> 00:09:26,530
+massive ou de sténose aortique, avec une asynergie
+
+200
+00:09:26,530 --> 00:09:29,050
+de la contraction, et puis une diminution extrême
+
+201
+00:09:29,050 --> 00:09:30,630
+de la fréquence cardiaque en cas de troubles
+
+202
+00:09:30,630 --> 00:09:33,430
+de conduction oculoventriculaire.
+
+203
+00:09:34,390 --> 00:09:36,870
+Sur le profil hémodynamique, on aura une baisse
+
+204
+00:09:36,870 --> 00:09:38,790
+du débit cardiaque, une augmentation des pressions de
+
+205
+00:09:38,790 --> 00:09:40,650
+remplissage, comme c'est le cas de l
+
+206
+00:09:40,650 --> 00:09:43,970
+'œdème pulmonaire, une augmentation des résistances vasculaires systémiques
+
+207
+00:09:43,970 --> 00:09:46,390
+avec une vasoconstriction cutanée.
+
+208
+00:09:47,270 --> 00:09:51,890
+Le choc hypovolymique est la conséquence en général
+
+209
+00:09:51,890 --> 00:09:56,390
+d'une hémorragie extériorisée très importante, qui peut
+
+210
+00:09:56,390 --> 00:09:59,370
+être une spoliation supérieure à 30% de
+
+211
+00:09:59,370 --> 00:10:03,210
+la masse sanguine, une déperdition plasmatique importante extériorisée,
+
+212
+00:10:03,770 --> 00:10:06,770
+tel le cas de brûlure ou de plaies
+
+213
+00:10:06,770 --> 00:10:09,530
+étendues ou non, avec constitution d'un troisième
+
+214
+00:10:09,530 --> 00:10:11,270
+secteur au cours d'écrasement des membres d
+
+215
+00:10:11,270 --> 00:10:14,390
+'œdèmes traumatiques de syndrome pénitentiaire, une déshydratation des
+
+216
+00:10:14,390 --> 00:10:15,690
+aigus graves en l'absence d'apport ou
+
+217
+00:10:15,690 --> 00:10:16,930
+lors d'un excès de perte liquidienne.
+
+218
+00:10:17,070 --> 00:10:18,450
+Sur le profil hémodynamique, on aura un débit
+
+219
+00:10:18,450 --> 00:10:22,550
+cardiaque diminué, des résistances vasculaires systémiques augmentées et
+
+220
+00:10:22,550 --> 00:10:24,890
+des pressions de remplissage qui sont diminuées.
+
+221
+00:10:26,210 --> 00:10:30,010
+Le choc sceptique est en général secondaire à
+
+222
+00:10:30,010 --> 00:10:33,630
+la présence d'une infection dans l'organisme.
+
+223
+00:10:34,330 --> 00:10:36,690
+Comme c'est le modèle expérimental du choc
+
+224
+00:10:36,690 --> 00:10:41,170
+toxinique, qu'on a injecté des polysaccharides provenant
+
+225
+00:10:41,170 --> 00:10:42,890
+de BGL à un lapin avec une réaction
+
+226
+00:10:42,890 --> 00:10:45,270
+inflammatoire manifestée par un SRS, avec une activation
+
+227
+00:10:45,270 --> 00:10:47,630
+du système de défense de l'hôte, un
+
+228
+00:10:47,630 --> 00:10:50,970
+système de défense urale moyennant le complément et
+
+229
+00:10:50,970 --> 00:10:53,870
+la coagulation, un système de défense cellulaire avec
+
+230
+00:10:53,870 --> 00:10:55,790
+libération de médiateurs de l'inflammation tels que
+
+231
+00:10:55,790 --> 00:10:57,710
+le monoxyde d'azote, les dérivés de l
+
+232
+00:10:57,710 --> 00:10:59,870
+'oxygène oxygéné et les cytokines.
+
+233
+00:11:01,390 --> 00:11:04,050
+Sur le plan circulatoire, on aura une instabilité
+
+234
+00:11:04,050 --> 00:11:07,970
+de la pression artérielle, une instabilité hémodynamique avec
+
+235
+00:11:07,970 --> 00:11:09,910
+une situation réversible en 6 à 8 heures
+
+236
+00:11:09,910 --> 00:11:13,850
+si le système immunitaire est non-déficient avec
+
+237
+00:11:13,850 --> 00:11:14,730
+un inoculant faible.
+
+238
+00:11:14,870 --> 00:11:17,150
+Dans le cas contraire, l'état circulatoire comportant
+
+239
+00:11:17,150 --> 00:11:19,030
+une limite pour vos limites par extravasation de
+
+240
+00:11:19,030 --> 00:11:23,490
+liquide extra-vasculaire, une vasoclivie d'intensité croissante
+
+241
+00:11:23,490 --> 00:11:27,170
+et bon grécillement réfractaire vasopresseur et à terme
+
+242
+00:11:27,170 --> 00:11:27,790
+le décès.
+
+243
+00:11:28,230 --> 00:11:30,070
+Sur le plan hémodynamique, on aura un débit
+
+244
+00:11:30,070 --> 00:11:32,070
+cardiaque qui peut être normalement augmenté et puis
+
+245
+00:11:32,070 --> 00:11:35,830
+des résistances vasculaires systémiques qui sont fortement diminuées.
+
+246
+00:11:37,710 --> 00:11:40,830
+Sur le plan physiopathologie du choc septique et
+
+247
+00:11:40,830 --> 00:11:43,770
+réponses inflammatoires pour une infection, on aura comme
+
+248
+00:11:43,770 --> 00:11:46,270
+interface la surface endothéliale, on aura une modification
+
+249
+00:11:46,270 --> 00:11:48,770
+de la physiologie de l'endothélium vasculaire, une
+
+250
+00:11:48,770 --> 00:11:50,670
+activation de la coagulation, une augmentation de la
+
+251
+00:11:50,670 --> 00:11:54,470
+désion leuclocytaire et plaquetaire, une vasoplégie, une diminution
+
+252
+00:11:54,470 --> 00:11:56,770
+de la réponse au médiateur et on peut
+
+253
+00:11:56,770 --> 00:12:01,270
+avoir également une myocardite secondaire à la libération
+
+254
+00:12:01,270 --> 00:12:02,910
+des médiateurs de l'inflammation.
+
+255
+00:12:04,110 --> 00:12:06,470
+Le sepsis grave entraîne une activation de la
+
+256
+00:12:06,470 --> 00:12:10,790
+coagulation, une perte du pouvoir procoagulant et anxiofibrinolytique,
+
+257
+00:12:10,890 --> 00:12:13,370
+une modification du tournage vasomoteur avec comme conséquence
+
+258
+00:12:13,370 --> 00:12:17,390
+l'hyperperméabilité capillaire, un ODM interstitial, ce qui
+
+259
+00:12:17,390 --> 00:12:19,950
+va entraîner des troubles de la microcirculation, une
+
+260
+00:12:19,950 --> 00:12:21,710
+hypoperfusion tissulaire.
+
+261
+00:12:23,190 --> 00:12:26,770
+Les conséquences viscérales du choc sont très importantes
+
+262
+00:12:26,770 --> 00:12:28,770
+dans la mesure où au niveau pulmonaire on
+
+263
+00:12:28,770 --> 00:12:32,070
+peut avoir un ODM lésionnel en conséquence d
+
+264
+00:12:32,070 --> 00:12:35,610
+'un syndrome de détresse respiratoire réduit, une insuffisance
+
+265
+00:12:35,610 --> 00:12:37,270
+à l'aiguille fonctionnelle et organique.
+
+266
+00:12:37,350 --> 00:12:39,430
+Au niveau hépatique, on peut avoir une diminution
+
+267
+00:12:39,430 --> 00:12:41,250
+de la synthèse d'épuration avec chute des
+
+268
+00:12:41,250 --> 00:12:42,570
+facteurs prothrombiniques.
+
+269
+00:12:44,230 --> 00:12:47,130
+Sur le plan digestif, on peut avoir des
+
+270
+00:12:47,130 --> 00:12:49,710
+ulcérations de stress avec hémorragie et des nécroses
+
+271
+00:12:49,710 --> 00:12:50,430
+digestives.
+
+272
+00:12:50,890 --> 00:12:52,530
+On peut avoir également une défaillance cardiaque.
+
+273
+00:12:53,130 --> 00:12:55,290
+Sur le plan cérébral, une hypoxie cérébrale avec
+
+274
+00:12:55,290 --> 00:12:56,450
+troubles de l'état de conscience.
+
+275
+00:12:56,850 --> 00:12:59,430
+Et sur le plan sanguin, une atteinte des
+
+276
+00:12:59,430 --> 00:13:03,330
+trois lignées manifestée par une leucopénie, une throbopénie,
+
+277
+00:13:03,430 --> 00:13:06,150
+voire même dans les cas extrêmes, un syndrome
+
+278
+00:13:06,150 --> 00:13:08,350
+de coagulation intravasculaire dissimulée.
+
+279
+00:13:08,470 --> 00:13:10,070
+Et puis sur le plan métabolisme, on peut
+
+280
+00:13:10,070 --> 00:13:12,130
+avoir une diminution de l'utilisation des glucides
+
+281
+00:13:12,130 --> 00:13:15,570
+et des lipides avec un hypercatabolisme protéique.
+
+282
+00:13:16,770 --> 00:13:19,690
+Le diagnostic se fait sur la clinique, il
+
+283
+00:13:19,690 --> 00:13:21,090
+est basé essentiellement sur la clinique.
+
+284
+00:13:21,190 --> 00:13:21,970
+C'est une grande urgence.
+
+285
+00:13:21,970 --> 00:13:23,490
+Sur le plan biologique, on peut avoir un
+
+286
+00:13:23,490 --> 00:13:26,490
+retentissement de l'état de choc manifesté par
+
+287
+00:13:26,490 --> 00:13:28,650
+l'excès de lactate, de pH, des transaminases,
+
+288
+00:13:28,730 --> 00:13:30,310
+l'altération de la fonction rénale, etc.
+
+289
+00:13:31,010 --> 00:13:33,630
+Sur le plan éthiologique, donc, le terrain est
+
+290
+00:13:33,630 --> 00:13:35,710
+très important, les signes cliniques orientent vers le
+
+291
+00:13:35,710 --> 00:13:37,930
+type de choc, voire donc le choc septique
+
+292
+00:13:37,930 --> 00:13:39,870
+se manifeste par une fièvre ou une hypothermie,
+
+293
+00:13:41,070 --> 00:13:43,190
+le choc cardiogénique se manifeste par des troubles
+
+294
+00:13:43,190 --> 00:13:45,610
+de rythme, des signes d'insuffisance cardiaque droite
+
+295
+00:13:45,610 --> 00:13:49,710
+ou gauche, et l'état de choc hémorragique
+
+296
+00:13:49,710 --> 00:13:51,930
+se manifeste en général secondaire à une fraction
+
+297
+00:13:51,930 --> 00:13:54,650
+des fémures ou vagines adhérentes, le choc anaphylaxique
+
+298
+00:13:54,650 --> 00:13:56,650
+est basé sur le terrain, la présence d
+
+299
+00:13:56,650 --> 00:13:58,350
+'indemnes de gouines, d'une pucure d'insectes
+
+300
+00:13:58,350 --> 00:14:01,110
+ou d'une allergie à la pénicillie.
+
+301
+00:14:04,190 --> 00:14:07,810
+Les impératifs thérapeutiques sont pour objectif de maintenir
+
+302
+00:14:07,810 --> 00:14:10,430
+l'oxygénation tissulaire avec la normalisation du débit
+
+303
+00:14:10,430 --> 00:14:12,910
+cardiaque, en l'occurrence les drogues inotropes, la
+
+304
+00:14:12,910 --> 00:14:15,470
+DOBU et l'adrénaline, lutter contre l'hypovolémie
+
+305
+00:14:15,470 --> 00:14:18,470
+par le remplissage vasculaire, lutter contre l'hypoxémie
+
+306
+00:14:18,470 --> 00:14:21,490
+et la vasoplégie par les drogues vasopressives type
+
+307
+00:14:21,490 --> 00:14:24,350
+l'oradrénaline, c'est la drogue de choix
+
+308
+00:14:24,350 --> 00:14:26,030
+en cas d'état de choc, il faut
+
+309
+00:14:26,030 --> 00:14:29,030
+améliorer la circulation régionale par une immunodialyse, et
+
+310
+00:14:29,030 --> 00:14:30,930
+puis le traitement étiologique est fonction du type
+
+311
+00:14:30,930 --> 00:14:34,250
+de choc donc basé sur l'antibuthérapie, la
+
+312
+00:14:34,250 --> 00:14:37,490
+reperfusion coronaire, la thrombolise, voire même l'administration
+
+313
+00:14:37,490 --> 00:14:39,050
+d'anticoagulants.
+
+314
+00:14:40,450 --> 00:14:44,650
+Voilà un tableau qui illustre les différents effets
+
+315
+00:14:44,650 --> 00:14:47,130
+des différentes drogues anesthésiques, vous voyez que l
+
+316
+00:14:47,130 --> 00:14:51,550
+'oradrénaline possède essentiellement un effet alpha, la dobutamine
+
+317
+00:14:51,550 --> 00:14:56,410
+possède essentiellement un effet bêta, l'adrénaline possède
+
+318
+00:14:56,410 --> 00:14:58,690
+un effet alpha et un effet bêta, la
+
+319
+00:14:58,690 --> 00:15:00,910
+dopamine n'est plus utilisée de nos jours
+
+320
+00:15:00,910 --> 00:15:02,150
+dans les états de choc, et puis l
+
+321
+00:15:02,150 --> 00:15:04,910
+'isoprénaline qui a essentiellement un effet bêta 1
+
+322
+00:15:04,910 --> 00:15:07,990
+tonicardiaque et un effet bêta 2 vasodilatateur.
+
+323
+00:15:09,490 --> 00:15:11,570
+En conclusion, les signes cardiaques ou d'état
+
+324
+00:15:11,570 --> 00:15:14,230
+de choc sont l'agitation, l'attaquipnée, l
+
+325
+00:15:14,230 --> 00:15:17,550
+'attaquicardie, l'oligurie, les marbreux et l'hypotension,
+
+326
+00:15:18,010 --> 00:15:19,750
+on aura une augmentation du taux de lactate,
+
+327
+00:15:19,810 --> 00:15:21,650
+en général de plus de 2 millimoles par
+
+328
+00:15:21,650 --> 00:15:22,010
+litre.
+
+329
+00:15:22,490 --> 00:15:23,670
+En fonction du niveau d'altération de la
+
+330
+00:15:23,670 --> 00:15:26,650
+chaîne de myostasie cardiovasculaire, on distingue les différents
+
+331
+00:15:26,650 --> 00:15:29,830
+états de choc et pour les myocardiogénes distributifs
+
+332
+00:15:29,830 --> 00:15:31,570
+ou bien obstructifs.
+
+333
+00:15:32,410 --> 00:15:34,690
+La principale cause du choc cardiogénique est l
+
+334
+00:15:34,690 --> 00:15:37,210
+'infarctus du myocarde, la principale cause du choc
+
+335
+00:15:37,210 --> 00:15:40,290
+distributif est le choc septique, la principale cause
+
+336
+00:15:40,290 --> 00:15:42,590
+du choc obstructif c'est l'embolie pulmonaire.
+
+337
+00:15:42,810 --> 00:15:45,170
+Le traitement est une extrême urgence, il comporte
+
+338
+00:15:45,170 --> 00:15:47,790
+toujours une oxygénothérapie ou mieux une sous-assistance
+
+339
+00:15:47,790 --> 00:15:49,190
+ventilatoire.
+
+340
+00:15:49,590 --> 00:15:52,030
+Le remplissage vasculaire doit être réalisé sans délai.
+
+341
+00:15:52,470 --> 00:15:53,790
+Le choix de l'introduction d'un logeon
+
+342
+00:15:53,790 --> 00:15:57,870
+inotrempt ou vasoconstricteur dépend du mécanisme éthiologique principal.
+
+343
+00:15:58,390 --> 00:15:59,050
+Je vous remercie.

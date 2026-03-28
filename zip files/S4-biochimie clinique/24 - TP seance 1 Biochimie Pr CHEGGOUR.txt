@@ -1,0 +1,98 @@
+(0:00 - 0:20)
+Bonjour, bienvenue dans cette capsule de la première séance de travaux pratiques de biochimie deuxième année médecine. Nous allons voir ensemble une technique d'analyse qui est quantitative des plus usuelles dans les laboratoires d'analyse médicale. C'est la spectrophotométrie avec une application sur l'exploration biochimique du LCR dans le cas du méningite.
+
+(0:21 - 0:50)
+L'appareil utilisé est un spectrophotomètre dont le principe d'utilisation est simple. On met notre échantillon à analyser qui est sous forme d'une solution diluée dans une cuve en quartz ou en verre, selon qu'on en est respectivement en mode UV ou visible. Placé dans le spectrophotomètre, notre échantillon ici en jaune sera traversé par une lumière émise par la source, traité par un monochromateur et une fois la lumière transmise, la mesure sera donnée par un détecteur.
+
+(0:52 - 1:10)
+Revenons maintenant sur ces trois entités. La source émet une lumière polychromatique avec des ondes de longueurs différentes comme mentionnées avant. Chaque longueur lambda est caractérisée dans le visible par une nuance de couleur allant du violet au rouge.
+
+(1:11 - 1:39)
+Ce fameux lambda est le premier paramètre que l'on règle au niveau du spectrophotomètre avant toute mesure. Dans quel but ? C'est pour permettre au monochromateur de dévier à l'aide d'un prisme un seul rayon monochromatique avec la longueur d'onde spécifiée et qui correspond à une seule nuance de couleur qui va être absorbée au maximum par notre échantillon. On peut se demander comment on détermine les longueurs d'ondes.
+
+(1:40 - 2:06)
+Sachez que pour chaque soluté, la longueur d'onde spécifique est toujours la même. Pour la déterminer, il suffit de faire des mesures des absorbances à plusieurs longueurs d'ondes et de considérer la longueur qui donne une absorbance maximale. L'exemple ici de la bêta-carotène mesurée à de 400 à 500 nm a montré une absorbance maximale à lambda égale à 448 nm.
+
+(2:07 - 2:23)
+Revenons à notre échantillon. Celui-ci sera soumis à un faisceau incident d'intensité I0 qui sera transmis avec une intensité I inférieure à I0. Le rapport I sur I0 est la transmittance.
+
+(2:24 - 2:43)
+Elle est de 100%, c'est-à-dire, elle est égale à 1, quand le milieu est transparent, tel qu'une eau distillée, par exemple, dépourvue de toute solité. Dans ce cas, I sera égale à I0. Par contre, dans un milieu opaque, la lumière incidente sera complètement absorbée par le soluté.
+
+(2:43 - 3:00)
+Il n'y aura pas de rayons transmis et donc la transmittance est alors nulle. L'absorbance est mesurée par le détecteur et il est exprimé par moins logarithme décimal de la transmittance. Voilà pour l'absorbance.
+
+(3:01 - 3:30)
+Mais quel est le rapport avec la concentration en soluté? Eh bien, en pratique, si on mesure les absorbances d'un soluté donné à plusieurs concentrations, la courbe absorbance en fonction des concentrations aura cette allure. Vous pouvez remarquer qu'à une concentration nulle, l'absorbance est nulle, ce qui confirme le cas de la transmittance totale. Et à concentration très élevée, la transmittance est nulle et l'absorbance va tendre vers l'infini.
+
+(3:31 - 3:56)
+Ceci montre bien que la partie prise en compte pour une bonne mesure au spectrophotomètre est bien celle correspondant à la partie présentant une proportionnalité entre l'absorbance et la concentration. Elle est évaluée généralement à des concentrations inférieures à 10-2 mol par litre. Bire un blanc vert en traduit cela par une formule qui porte leur nom, A est égale à εLC.
+
+(3:57 - 4:24)
+Je rappelle ici que l'absorbance, appelée également densité optique, est sans unité. Le ε est un coefficient d'extinction molaire exprimé en mol-1 cm-1 L. L est la distance parcourue par le faisceau à travers l'échantillon qui est généralement de 1 cm, c'est l'épaisseur de la cuve. Le εL reste constant tant que l'on travaille à des dilutions faibles.
+
+(4:25 - 4:51)
+Mais comment calculer la concentration? Pour ne pas avoir à chaque fois à déterminer le ε qui dépend de l'ANDA et également de la température, nous avons deux méthodes. Ou bien on utilise un étalon. Un étalon est un produit fourni par une entité internationale reconnue contenant le même produit à analyser mais à concentration précise et connue.
+
+(4:51 - 5:17)
+Il suffit alors de mesurer son absorbance, A étalon est égal à εLC étalon. De mesurer de la même manière l'absorbance de notre échantillon et par une simple règle de 3, on peut déduire la concentration inconnue de notre échantillon. Ou bien, si on ne dispose pas de l'étalon, on peut préparer nous-même non pas un étalon mais une gamme d'étalonnage.
+
+(5:17 - 5:52)
+Cela consiste à préparer des solutions du même soluté à analyser à des concentrations croissantes, de mesurer leur absorbance, c'est-à-dire de ces solutions-là, de tracer la courbe qui est une droite, absorbance en fonction de concentration et la détermination de la concentration de notre échantillon se fera graphiquement. Nous connaissons bien l'absorbance de notre échantillon. Nous allons faire la projection à partir de la courbe vers l'axe des concentrations et déterminer celle de notre échantillon.
+
+(5:52 - 6:14)
+Rappelez-vous bien que cette loi de Beer-Lambert n'est valable que pour des radiations monochromatiques. Elle ne peut s'appliquer que pour des solutions bien homogènes et surtout bien diluées. Dans le cas contraire, il faut diluer la solution à analyser et ne pas oublier de prendre en compte le facteur de dilution au moment du calcul de la concentration finale.
+
+(6:15 - 6:30)
+Nous allons passer maintenant à l'application clinique. Dans le cas d'une suspicion de la méningite chez un patient, on fait une ponction lombaire. Le LCR récupéré sera alors soumis à plusieurs analyses dont celle biochimique.
+
+(6:31 - 6:59)
+Il ne faut pas oublier l'étude macroscopique. En effet, l'aspect du LCR peut renseigner sur la pathologie jusqu'à un pourcentage assez significatif, notamment pour la méningite bactérienne. Pour l'étude biochimique, nous allons faire uniquement l'analyse de la protéine orachique qui renseigne sur la présence ou non de la méningite et l'analyse de la glucorachie qui nous renseigne sur le type de méningite, à savoir bactérienne ou virale.
+
+(6:59 - 7:20)
+Je vous invite à consulter le protocole de la manipulation sur votre polycopier et à visualiser la manipulation. Pour le protocole de la protéine orachique, c'est bien détaillé sur votre polycope, nous aurons besoin de préparer trois tubes. Un tube blanc, un tube pour l'étalant et un tube pour notre échantillon à analyser.
+
+(7:20 - 8:08)
+Nous aurons besoin du réactif pour déclencher la réaction, à savoir l'acide suprosalicybique, bien sûr l'eau distillée pour le blanc et l'étalant pour le tube d'étalant et notre échantillon SL. Nous allons commencer par, selon le protocole, mettre 2 millilitres d'acide suprosalicybique dans chaque tube. Puis, respectivement, nous allons ajouter 0,5 millilitres de l'eau distillée dans le tube blanc.
+
+(8:28 - 8:56)
+De la même manière, 0,5 millilitres de l'étalant. Il ne faut pas oublier de rincer les pipettes entre chaque utilisation. Et enfin, notre SL.
+
+(9:18 - 9:47)
+Une petite agitation de la sorte sur la pointe des mains. Et nous allons laisser reposer 10 minutes à température... Alors, les 10 minutes passées, passons maintenant à la maison. Nous allons commencer par mettre l'appareil spectrophotomètre à l'encontre d'une bande à papier.
+
+(9:47 - 10:14)
+Ici, pour les protéines, pour la protéorégie photo, on va utiliser 660 nanomètres. L'étape suivante, on va mettre le blanc au niveau de l'appareil. Nous allons remplir ces lieux qui présentent deux passes transparentes et deux passes de pattes pour pouvoir manipuler.
+
+(10:15 - 10:50)
+Donc, on va mettre dans chaque tube une partie de notre blanc. Sans oublier de bien expliquer la paroi transparente pour ne pas avoir d'impecté qui risque d'absorber la lumière. Très bien, donc, une fois enlevé les deux tubes avec la solution du blanc de l'eau distillée et le réactif, on remet l'appareil à zéro.
+
+(10:51 - 11:25)
+Et là, qu'est-ce qu'on fait ? Eh bien, on élimine l'absorbance des réactifs autre que le soluté dont on a besoin. On laisse un tube blanc et on prend l'autre, après avoir rincé et goûté, et on fait passer la solution de l'épargne. On passe pour l'analyse de l'échantillon.
+
+(11:25 - 11:49)
+Pour le calcul, nous allons faire une simple règle de droit. Étant donné qu'on connaît très bien la concentration de l'étalon qui est de 0,5 g par litre, il suffit de faire une règle de droit et d'avoir la concentration en protéines de notre échantillon. Alors, de la même manière que pour la bourrachie, nous avons préparé trois tubes.
+
+(11:49 - 12:05)
+Un tube blanc, un tube étalon et un tube échantillon. Et pour cela, nous aurons besoin d'un réactif propre au glucose et des trois solutés à savoir l'eau distillée, l'étalon et l'échantillon. Donc, on va commencer par mettre le réactif.
+
+(12:20 - 13:15)
+Je repèse 2 millilitres dans chaque tube de réactif. Puis, à l'aide d'une micropipette, nous allons rajouter 20 microlitres respectivement de l'eau distillée, de l'étalon et du échantillon. Alors, les 20 minutes passées, nous allons entamer la mesure.
+
+(13:15 - 13:34)
+Alors déjà, à l'œil bleu, nous pouvons très bien voir la différence de la couleur de notre échantillon. Après, incubation pendant 2 minutes. Alors, on commence par régler la moyenne d'eau appropriée.
+
+(13:35 - 14:10)
+Alors, ici, c'est 500 nanomètres pour la bourrachie. Après avoir passé le blanc à la pâte. On remet l'appareil.
+
+(14:16 - 14:35)
+Puis, on passe à la mesure de notre échantillon. Le liquide s'éteint de bourrachie. Voilà, donc c'est de sa part, la dernière dose.
+
+(14:44 - 14:59)
+Dans notre absorbance. Très bien. Maintenant, on passe au calcul.
+
+(15:00 - 15:28)
+Donc, pour vérifier l'été auparavant, nous avons l'absorbance de l'étalon avec la concentration qui est connue de l'étalon et l'absorbance de notre échantillon avec la concentration que l'échantillon a connue. Nous faisons régler les trois et nous avons nos résultats. Pour l'interprétation des résultats, si on ne considère que ces deux analyses pour l'étude biochimique, je vous laisse commenter cet arbre de décision.
+
+(15:29 - 15:30)
+Merci pour votre attention.

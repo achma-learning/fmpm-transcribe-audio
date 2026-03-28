@@ -1,0 +1,7161 @@
+WEBVTT
+
+1
+00:00:01.280 --> 00:00:04.200
+Aujourd'hui, on va attaquer le avant-dernier
+
+2
+00:00:04.200 --> 00:00:09.080
+cours du programme pour essayer de voir par
+
+3
+00:00:09.080 --> 00:00:10.560
+rapport à des choses qui ne sont pas
+
+4
+00:00:10.560 --> 00:00:13.960
+encore, à mon sens, claires pour vous.
+
+5
+00:00:15.160 --> 00:00:17.140
+Mais sinon, il y a toujours la possibilité
+
+6
+00:00:17.140 --> 00:00:17.960
+de poser des questions.
+
+7
+00:00:17.960 --> 00:00:20.200
+Il me semble qu'il y a des
+
+8
+00:00:20.200 --> 00:00:24.900
+questions qui ont été posées via le Microsoft
+
+9
+00:00:24.900 --> 00:00:25.220
+Team.
+
+10
+00:00:25.480 --> 00:00:26.200
+Jacques, tu vas te filmer.
+
+11
+00:00:28.360 --> 00:00:30.840
+C'est bon ?
+
+12
+00:00:30.840 --> 00:00:34.220
+Alors, le chapitre d'aujourd'hui concerne le
+
+13
+00:00:34.220 --> 00:00:34.980
+système HLA.
+
+14
+00:00:35.860 --> 00:00:38.520
+Alors, je pouvais très bien mettre tout simplement
+
+15
+00:00:38.520 --> 00:00:41.560
+CMH, complexe majoriste de compatibilité.
+
+16
+00:00:41.560 --> 00:00:45.840
+Mais nous, comme on travaille sur l'homme,
+
+17
+00:00:46.580 --> 00:00:48.420
+c'est pourquoi généralement le cours qu'on
+
+18
+00:00:48.420 --> 00:00:50.140
+donne concerne directement le HLA.
+
+19
+00:00:50.320 --> 00:00:53.500
+Parce que le HLA, Human Leukocyte Antigène, c
+
+20
+00:00:53.500 --> 00:00:56.740
+'est tout simplement la forme du CMH de
+
+21
+00:00:56.740 --> 00:00:56.980
+l'homme.
+
+22
+00:00:57.300 --> 00:00:59.620
+Parce que le CMH, c'est comme à
+
+23
+00:00:59.620 --> 00:01:02.240
+toutes les espèces, celui de l'homme s
+
+24
+00:01:02.240 --> 00:01:03.019
+'appelle HLA.
+
+25
+00:01:05.970 --> 00:01:07.090
+C'est bon ?
+
+26
+00:01:07.090 --> 00:01:11.570
+Alors, maintenant, par rapport aux objectifs, je vais
+
+27
+00:01:11.570 --> 00:01:13.630
+y revenir après, en fin de cours, si
+
+28
+00:01:13.630 --> 00:01:17.110
+vous voulez un petit peu préciser les choses
+
+29
+00:01:17.110 --> 00:01:20.170
+qui sont importantes, sur lesquelles il faut peut
+
+30
+00:01:20.170 --> 00:01:21.750
+-être axer.
+
+31
+00:01:22.910 --> 00:01:28.010
+Facilement, les propriétés fondamentales du CMH, la structure
+
+32
+00:01:28.010 --> 00:01:30.590
+et la synthèse et les modalités d'expression
+
+33
+00:01:30.590 --> 00:01:32.490
+qui sont les cellules qui expriment les molécules
+
+34
+00:01:32.490 --> 00:01:32.850
+HLA.
+
+35
+00:01:32.850 --> 00:01:35.490
+Et puis finir avec les fonctions du système
+
+36
+00:01:35.490 --> 00:01:38.190
+HLA pour faire le lien avec les applications
+
+37
+00:01:38.190 --> 00:01:40.010
+cliniques du système HLA.
+
+38
+00:01:41.470 --> 00:01:47.690
+Alors, rapidement, je vais passer à l'introduction.
+
+39
+00:01:48.550 --> 00:01:51.030
+Alors, je commence par dire que le CMH,
+
+40
+00:01:51.070 --> 00:01:53.210
+comme vous le connaissez maintenant, ça s'appelle
+
+41
+00:01:53.210 --> 00:01:55.090
+complexe majoriste de compatibilité.
+
+42
+00:01:55.210 --> 00:01:57.130
+Pourquoi complexe ?
+
+43
+00:01:57.130 --> 00:02:02.450
+Parce qu'il représente le système le plus
+
+44
+00:02:02.450 --> 00:02:04.310
+polymorphique du génome humain.
+
+45
+00:02:04.830 --> 00:02:06.550
+Vous tenez bien cette information ?
+
+46
+00:02:06.550 --> 00:02:09.930
+Cette information, c'est que le système HLA,
+
+47
+00:02:10.490 --> 00:02:13.230
+lorsqu'on regarde les gènes, les allèles qui
+
+48
+00:02:13.230 --> 00:02:16.850
+le composent, ils sont des plus polymorphiques du
+
+49
+00:02:16.850 --> 00:02:17.390
+génome humain.
+
+50
+00:02:17.590 --> 00:02:19.270
+Ça c'est important, c'est pourquoi on
+
+51
+00:02:19.270 --> 00:02:21.550
+l'appelle, il est qualifié de complexe.
+
+52
+00:02:21.550 --> 00:02:24.150
+Deuxièmement, il est majeur parce que vous allez
+
+53
+00:02:24.150 --> 00:02:28.410
+voir à travers son intérêt et son importance
+
+54
+00:02:28.410 --> 00:02:29.870
+dans les réponses immunitaires.
+
+55
+00:02:30.930 --> 00:02:33.570
+Deuxièmement, parce qu'il va conditionner tout ce
+
+56
+00:02:33.570 --> 00:02:34.170
+qui est greffe.
+
+57
+00:02:34.490 --> 00:02:36.850
+À chaque fois qu'on pense greffer un
+
+58
+00:02:36.850 --> 00:02:38.790
+patient, que ce soit par un rang, un
+
+59
+00:02:38.790 --> 00:02:40.970
+organe de façon générale, mais surtout le rang,
+
+60
+00:02:42.310 --> 00:02:45.650
+ou bien la moelle osseuse, ou spécifiquement les
+
+61
+00:02:45.650 --> 00:02:50.470
+cellules souches hématopoétiques, il faut absolument regarder le
+
+62
+00:02:50.470 --> 00:02:52.630
+système HLA entre le donneur et le receveur.
+
+63
+00:02:53.710 --> 00:02:57.550
+Vu l'importance de ce CMH dans la
+
+64
+00:02:57.550 --> 00:02:59.610
+conduite, dans l'acceptation de la greffe, et
+
+65
+00:02:59.610 --> 00:03:04.050
+aussi parce que visiblement le système immunitaire dépend
+
+66
+00:03:04.050 --> 00:03:11.010
+forcément du comportement du CMH pour faire réussir
+
+67
+00:03:11.010 --> 00:03:12.050
+une greffe.
+
+68
+00:03:14.090 --> 00:03:16.910
+Troisièmement, il y a un lien entre la
+
+69
+00:03:16.910 --> 00:03:20.150
+compatibilité, que ce soit tessulaire ou cellulaire, mais
+
+70
+00:03:20.150 --> 00:03:23.250
+généralement on parle d'estocompatibilité, donc ça inclut
+
+71
+00:03:23.250 --> 00:03:24.930
+cellules, tessutes, etc.
+
+72
+00:03:25.210 --> 00:03:28.990
+Bref, cette appellation CMH vient du fait que
+
+73
+00:03:28.990 --> 00:03:30.530
+d'un côté il y a le polymorphisme,
+
+74
+00:03:30.670 --> 00:03:32.670
+de l'autre côté il y a son
+
+75
+00:03:32.670 --> 00:03:36.230
+importance dans les réponses immunitaires qui se traduit
+
+76
+00:03:36.230 --> 00:03:39.770
+par le rôle du CMH dans la gestion
+
+77
+00:03:39.770 --> 00:03:40.390
+des greffes.
+
+78
+00:03:40.390 --> 00:03:43.690
+Et puis parce que tout simplement la compatibilité
+
+79
+00:03:43.690 --> 00:03:46.890
+entre donneur et receveur est fondamentale pour la
+
+80
+00:03:46.890 --> 00:03:48.630
+réussite de cette greffe.
+
+81
+00:03:48.770 --> 00:03:50.830
+Alors je disais que le CMH étant quelque
+
+82
+00:03:50.830 --> 00:03:53.770
+chose de commun à toutes les espèces animales,
+
+83
+00:03:53.970 --> 00:03:56.330
+vous avez ici des exemples, on l'appelle
+
+84
+00:03:56.330 --> 00:04:01.270
+BLA pour la souche bovine, H2 pour la
+
+85
+00:04:01.270 --> 00:04:03.350
+souris, pour l'homme tout simplement on l
+
+86
+00:04:03.350 --> 00:04:05.850
+'appelle human leukocyte antigène.
+
+87
+00:04:05.850 --> 00:04:07.430
+Donc voilà c'est un petit peu la
+
+88
+00:04:07.430 --> 00:04:11.150
+différence, le HLA étant la forme du CMH
+
+89
+00:04:11.150 --> 00:04:12.390
+de l'homme.
+
+90
+00:04:12.890 --> 00:04:16.230
+Alors les fonctions du CMH, vous allez voir,
+
+91
+00:04:16.709 --> 00:04:19.709
+d'abord si je regarde un petit peu
+
+92
+00:04:19.709 --> 00:04:24.290
+l'identité immunologique, on a déjà une identité
+
+93
+00:04:24.290 --> 00:04:26.070
+qui se traduit par les groupes sanguins qu
+
+94
+00:04:26.070 --> 00:04:27.970
+'on porte, le A, le B, le AB,
+
+95
+00:04:28.130 --> 00:04:28.710
+le O, etc.
+
+96
+00:04:28.710 --> 00:04:32.110
+Il s'ajoute à cette identité immunologique ces
+
+97
+00:04:32.110 --> 00:04:33.910
+molécules HLA parce qu'on les porte à
+
+98
+00:04:33.910 --> 00:04:35.570
+la surface de nos cellules ou de nos
+
+99
+00:04:35.570 --> 00:04:35.910
+tissus.
+
+100
+00:04:36.290 --> 00:04:37.550
+Vous allez voir qu'ils sont les cellules
+
+101
+00:04:37.550 --> 00:04:40.230
+qui expriment, du coup ils nous confèrent une
+
+102
+00:04:40.230 --> 00:04:41.070
+sorte d'identité.
+
+103
+00:04:41.270 --> 00:04:42.090
+C'est pourquoi tout à l'heure j
+
+104
+00:04:42.090 --> 00:04:44.630
+'ai dit par rapport à la greffe, il
+
+105
+00:04:44.630 --> 00:04:47.990
+faut regarder l'identité immunologique au phénotype sur
+
+106
+00:04:47.990 --> 00:04:49.790
+la surface des cellules pour décider s'il
+
+107
+00:04:49.790 --> 00:04:51.610
+y a ou pas la possibilité de greffer.
+
+108
+00:04:51.790 --> 00:04:55.030
+Donc c'est une identité immunologique que confère
+
+109
+00:04:55.030 --> 00:04:56.730
+ce CMH aux individus.
+
+110
+00:04:59.430 --> 00:05:02.170
+On va voir, parce que vous avez probablement
+
+111
+00:05:02.170 --> 00:05:05.210
+compris que le HLA va intervenir pour présenter
+
+112
+00:05:05.210 --> 00:05:08.450
+l'antigène à des lymphocytés, donc c'est
+
+113
+00:05:08.450 --> 00:05:11.090
+tout l'importance de ce CMH parce qu
+
+114
+00:05:11.090 --> 00:05:12.570
+'il va conditionner un petit peu l'issue
+
+115
+00:05:12.570 --> 00:05:15.650
+des réponses immunitaires, soit vers une réponse humorale
+
+116
+00:05:15.650 --> 00:05:19.950
+ou une réponse cellulaire qui reflète l'importance
+
+117
+00:05:19.950 --> 00:05:20.690
+de ce CMH.
+
+118
+00:05:21.450 --> 00:05:23.950
+L'intérêt clinique, bien évidemment, à chaque fois
+
+119
+00:05:23.950 --> 00:05:26.010
+qu'on parle de transplantation, de greffe, que
+
+120
+00:05:26.010 --> 00:05:28.850
+ce soit d'organes, de tissus, de cellules,
+
+121
+00:05:29.250 --> 00:05:32.130
+bien évidemment le CMH se positionne en première
+
+122
+00:05:32.130 --> 00:05:34.770
+position pour penser à l'identité et à
+
+123
+00:05:34.770 --> 00:05:36.030
+la possibilité de faire la greffe.
+
+124
+00:05:36.570 --> 00:05:38.610
+Autre que ça, c'est que ce CMH
+
+125
+00:05:38.610 --> 00:05:42.970
+ou la molécule HLA, parfois, prédispose à certaines
+
+126
+00:05:42.970 --> 00:05:43.510
+maladies.
+
+127
+00:05:44.330 --> 00:05:46.450
+On a ce qu'on appelle des molécules
+
+128
+00:05:46.450 --> 00:05:49.170
+HLA qui prédisposent et heureusement aussi on a
+
+129
+00:05:49.170 --> 00:05:51.390
+des molécules HLA qui protègent, ce qu'on
+
+130
+00:05:51.390 --> 00:05:54.410
+appelle HLA protecteur ou HLA prédisposant.
+
+131
+00:05:54.410 --> 00:05:56.330
+On va voir des exemples de maladies dans
+
+132
+00:05:56.330 --> 00:05:59.610
+lesquelles les molécules HLA sont impliquées comme facteurs
+
+133
+00:05:59.610 --> 00:06:03.230
+génétiques qui favorisent la survie de ces maladies.
+
+134
+00:06:03.690 --> 00:06:06.630
+Lorsqu'on regarde le système HLA ou la
+
+135
+00:06:06.630 --> 00:06:09.210
+légène HLA à travers ce qu'on appelle
+
+136
+00:06:09.210 --> 00:06:13.950
+la cartographie, vous avez fait la génétique, la
+
+137
+00:06:13.950 --> 00:06:15.350
+biologie moléculaire, etc.
+
+138
+00:06:15.350 --> 00:06:18.730
+Si vous regardez un chromosome 6, vous avez
+
+139
+00:06:18.730 --> 00:06:23.310
+un bras long, long arm, vous avez un
+
+140
+00:06:23.310 --> 00:06:26.490
+centromérocentre et vous avez un bras court avec
+
+141
+00:06:26.490 --> 00:06:28.230
+le télomère en périphérie.
+
+142
+00:06:28.830 --> 00:06:33.050
+Au niveau du bras court ou du chromosome
+
+143
+00:06:33.050 --> 00:06:35.270
+6, on va retrouver cette région qui va
+
+144
+00:06:35.270 --> 00:06:37.170
+coder les molécules HLA.
+
+145
+00:06:38.010 --> 00:06:43.270
+Lorsqu'on regarde la répartition des régions HLA,
+
+146
+00:06:43.910 --> 00:06:45.770
+les x-zones qui vont coder les molécules
+
+147
+00:06:45.770 --> 00:06:48.390
+HLA, on va se retrouver avec trois régions.
+
+148
+00:06:48.690 --> 00:06:51.630
+Une région qui va coder la classe 1
+
+149
+00:06:51.630 --> 00:06:53.690
+ou les molécules HLA de classe 1.
+
+150
+00:06:54.070 --> 00:06:57.410
+Une région où les x-zones appartiennent à
+
+151
+00:06:57.410 --> 00:07:00.350
+la région qui va coder la région classe
+
+152
+00:07:00.350 --> 00:07:01.870
+2 ou les molécules HLA de classe 2.
+
+153
+00:07:01.870 --> 00:07:05.090
+Et puis entre les deux, vous avez la
+
+154
+00:07:05.090 --> 00:07:07.690
+région qui va coder les molécules HLA de
+
+155
+00:07:07.690 --> 00:07:08.150
+classe 3.
+
+156
+00:07:09.590 --> 00:07:14.510
+Pour finir avec la classe 3, HLA de
+
+157
+00:07:14.510 --> 00:07:16.230
+classe 3 n'intervient pas dans la greffe.
+
+158
+00:07:17.190 --> 00:07:18.190
+Il faut oublier un petit peu d'un
+
+159
+00:07:18.190 --> 00:07:18.430
+côté.
+
+160
+00:07:18.830 --> 00:07:20.710
+Également, il n'intervient pas dans la présentation
+
+161
+00:07:20.710 --> 00:07:21.350
+antigénique.
+
+162
+00:07:22.070 --> 00:07:26.910
+Sauf que cette région contient des x-zones,
+
+163
+00:07:26.990 --> 00:07:30.910
+des loci qui vont coder pour certaines protéines,
+
+164
+00:07:30.910 --> 00:07:31.930
+notamment du complément.
+
+165
+00:07:32.050 --> 00:07:34.490
+Vous retrouvez ici le C4, un facteur B
+
+166
+00:07:34.490 --> 00:07:36.550
+qui appartient également au complément, le C2.
+
+167
+00:07:36.990 --> 00:07:41.170
+Et puis vous avez ici la protéine du
+
+168
+00:07:41.170 --> 00:07:41.910
+choc thermique.
+
+169
+00:07:42.310 --> 00:07:44.030
+Et puis vous avez ici, ça c'est
+
+170
+00:07:44.030 --> 00:07:45.270
+Hsp70.
+
+171
+00:07:45.470 --> 00:07:46.870
+Et puis vous avez également ce qui va
+
+172
+00:07:46.870 --> 00:07:49.330
+coder le TNF, tumor necrosis factor.
+
+173
+00:07:50.570 --> 00:07:53.310
+Voilà, essentiellement, ce sont les régions qui vont
+
+174
+00:07:53.310 --> 00:07:54.310
+coder pour ces protéines.
+
+175
+00:07:54.390 --> 00:07:55.750
+Ça veut dire celles qui interviennent dans l
+
+176
+00:07:55.750 --> 00:07:56.230
+'immunologie.
+
+177
+00:07:56.410 --> 00:07:59.130
+Donc, il y a une fonction, en vrai,
+
+178
+00:07:59.210 --> 00:07:59.850
+en immunologie.
+
+179
+00:07:59.850 --> 00:08:03.290
+Sinon, lorsqu'on étudie le HLA, dans un
+
+180
+00:08:03.290 --> 00:08:06.350
+sens, on va étudier celles qui interviennent dans
+
+181
+00:08:06.350 --> 00:08:08.370
+les réponses immunitaires et dans la gestion des
+
+182
+00:08:08.370 --> 00:08:08.710
+greffes.
+
+183
+00:08:09.030 --> 00:08:11.290
+On va distinguer la région classe 1 et
+
+184
+00:08:11.290 --> 00:08:12.170
+la région classe 2.
+
+185
+00:08:12.550 --> 00:08:14.930
+Alors, au niveau de la région HLA classe
+
+186
+00:08:14.930 --> 00:08:16.690
+1, on va se retrouver avec ce qu
+
+187
+00:08:16.690 --> 00:08:19.490
+'on appelle plusieurs exemples, plusieurs loci.
+
+188
+00:08:19.590 --> 00:08:20.950
+On va parler du coup de loci.
+
+189
+00:08:21.290 --> 00:08:24.590
+Un locus, ou bien des loci, en anglais,
+
+190
+00:08:24.650 --> 00:08:24.910
+loci.
+
+191
+00:08:24.910 --> 00:08:29.230
+Vous avez d'un côté A, B, C,
+
+192
+00:08:29.830 --> 00:08:31.370
+E, F, J.
+
+193
+00:08:31.929 --> 00:08:33.610
+Alors ici, on va les répartir en deux
+
+194
+00:08:33.610 --> 00:08:34.070
+groupes.
+
+195
+00:08:34.330 --> 00:08:35.630
+Vous avez ce qu'on appelle le HLA
+
+196
+00:08:35.630 --> 00:08:39.190
+classe 1 classique et vous avez le HLA
+
+197
+00:08:39.190 --> 00:08:40.870
+classe 1 non classique.
+
+198
+00:08:41.350 --> 00:08:42.350
+Ça veut dire quoi ?
+
+199
+00:08:42.350 --> 00:08:44.830
+Le locus A, le locus B, le locus
+
+200
+00:08:44.830 --> 00:08:49.050
+C sont considérables comme des molécules HLA classiques,
+
+201
+00:08:49.130 --> 00:08:51.010
+ça veut dire majeures, au sein de cette
+
+202
+00:08:51.010 --> 00:08:52.170
+région classe 1.
+
+203
+00:08:52.170 --> 00:08:53.810
+A côté, il y a des loci qui
+
+204
+00:08:53.810 --> 00:08:57.970
+sont dites non classiques, c'est E, le
+
+205
+00:08:57.970 --> 00:08:58.630
+F et le G.
+
+206
+00:08:59.090 --> 00:09:01.410
+Bien sûr, ils ont un rôle à part,
+
+207
+00:09:01.870 --> 00:09:04.010
+mais l'essentiel lorsqu'on parle de la
+
+208
+00:09:04.010 --> 00:09:06.870
+réponse immunitaire, la greffe, on regarde le A,
+
+209
+00:09:07.270 --> 00:09:08.090
+le B et le C.
+
+210
+00:09:08.630 --> 00:09:10.510
+Deuxièmement, par rapport à la région classe E,
+
+211
+00:09:10.670 --> 00:09:13.950
+vous avez ce qu'on appelle des loci
+
+212
+00:09:13.950 --> 00:09:14.310
+aussi.
+
+213
+00:09:14.770 --> 00:09:18.030
+L'essentiel sont DR, DQ et DP.
+
+214
+00:09:18.690 --> 00:09:20.550
+On peut les classer un petit peu en
+
+215
+00:09:20.550 --> 00:09:23.710
+majeurs et mineurs, mais là aussi, en termes
+
+216
+00:09:23.710 --> 00:09:26.790
+de présentation antigénique et de greffe, on regarde
+
+217
+00:09:26.790 --> 00:09:27.170
+les trois.
+
+218
+00:09:27.570 --> 00:09:30.210
+Essentiellement, DR, DQ, un peu moins le DP.
+
+219
+00:09:30.510 --> 00:09:33.330
+Par exemple, le Rhin, si on veut greffer
+
+220
+00:09:33.330 --> 00:09:35.230
+un Rhin, on va regarder le HLA, est
+
+221
+00:09:35.230 --> 00:09:36.590
+-ce que le donneur et le receveur sont
+
+222
+00:09:36.590 --> 00:09:38.830
+compatibles au niveau du HLA, dit le C,
+
+223
+00:09:38.910 --> 00:09:39.510
+DR et DQ.
+
+224
+00:09:39.710 --> 00:09:40.890
+On ne regarde pas le DP, mais pour
+
+225
+00:09:40.890 --> 00:09:44.330
+la moelle osseuse, il est recommandé de regarder
+
+226
+00:09:44.330 --> 00:09:46.050
+aussi le DP, est-ce qu'il est,
+
+227
+00:09:46.070 --> 00:09:48.010
+soi-disant, compatible ou pas.
+
+228
+00:09:48.010 --> 00:09:50.090
+Ça veut dire qu'on raisonne, en termes,
+
+229
+00:09:50.330 --> 00:09:52.690
+est-ce que ce molécule HLA risque d
+
+230
+00:09:52.690 --> 00:09:55.910
+'interférer pour rejeter un greffon ou pas.
+
+231
+00:09:56.470 --> 00:09:59.070
+Je vais revenir après sur le site DM
+
+232
+00:09:59.070 --> 00:10:00.730
+pour vous expliquer son intérêt.
+
+233
+00:10:00.910 --> 00:10:02.790
+Bref, à ce niveau-là, on a déjà
+
+234
+00:10:02.790 --> 00:10:08.390
+distingué HLA classe 1 et HLA classique de
+
+235
+00:10:08.390 --> 00:10:12.030
+la région 2, à savoir DR, DQ et
+
+236
+00:10:12.030 --> 00:10:12.350
+DP.
+
+237
+00:10:13.370 --> 00:10:15.110
+Les autres, je l'ai dit tout à
+
+238
+00:10:15.110 --> 00:10:17.810
+l'heure, ce sont des gènes qui codent
+
+239
+00:10:17.810 --> 00:10:21.190
+pour des molécules du système immunitaire.
+
+240
+00:10:22.090 --> 00:10:25.430
+Maintenant, faisons allusion aux gènes.
+
+241
+00:10:26.190 --> 00:10:28.970
+Pour voir un peu ce qui caractérise ces
+
+242
+00:10:28.970 --> 00:10:31.990
+molécules HLA en termes de gènes codants, on
+
+243
+00:10:31.990 --> 00:10:32.890
+va regarder ici.
+
+244
+00:10:33.470 --> 00:10:35.510
+On est là sur les molécules HLA classe
+
+245
+00:10:35.510 --> 00:10:35.910
+1.
+
+246
+00:10:36.750 --> 00:10:39.170
+La particularité des molécules HLA classe 1, c
+
+247
+00:10:39.170 --> 00:10:41.530
+'est qu'elles sont codées essentiellement par le
+
+248
+00:10:41.530 --> 00:10:42.470
+chromosome 6.
+
+249
+00:10:43.130 --> 00:10:43.930
+C'est ce que je viens de décrire
+
+250
+00:10:43.930 --> 00:10:44.410
+tout à l'heure.
+
+251
+00:10:45.030 --> 00:10:48.410
+Mais il y a l'intervention du chromosome
+
+252
+00:10:48.410 --> 00:10:54.130
+15 uniquement pour produire, coder, réarranger une partie
+
+253
+00:10:54.130 --> 00:10:56.810
+structurelle des molécules HLA qui s'appelle la
+
+254
+00:10:56.810 --> 00:10:58.250
+bêta-2-microglobuline.
+
+255
+00:10:58.790 --> 00:10:59.610
+C'est très important.
+
+256
+00:11:00.030 --> 00:11:01.990
+L'intérêt de cette bêta-2-microglobuline, c
+
+257
+00:11:01.990 --> 00:11:06.910
+'est tout simplement pour participer à la consolidation
+
+258
+00:11:06.910 --> 00:11:10.250
+de la structure de ce trimère qui est
+
+259
+00:11:10.250 --> 00:11:12.530
+la structure principale des molécules HLA classe 1,
+
+260
+00:11:12.950 --> 00:11:16.250
+c'est-à-dire formée d'une chaîne
+
+261
+00:11:16.250 --> 00:11:18.490
+alpha 1, alpha 2 et alpha 3.
+
+262
+00:11:19.090 --> 00:11:21.830
+Lorsqu'on regarde les ixons qui codent pour
+
+263
+00:11:21.830 --> 00:11:24.090
+ce trimère, vous allez voir qu'il y
+
+264
+00:11:24.090 --> 00:11:25.950
+a un ixon 1 jusqu'à 8 et
+
+265
+00:11:25.950 --> 00:11:27.570
+chacun va coder une partie.
+
+266
+00:11:27.770 --> 00:11:30.610
+Alors qu'uniquement la bêta-2-microglobuline se
+
+267
+00:11:30.610 --> 00:11:33.590
+retrouve codée au niveau du chromosome 15.
+
+268
+00:11:33.690 --> 00:11:35.770
+Retenez bien que pour les molécules HLA classe
+
+269
+00:11:35.770 --> 00:11:40.610
+1, elles ne sont pas codées exclusivement par
+
+270
+00:11:40.610 --> 00:11:42.110
+le chromosome 6, mais il y a une
+
+271
+00:11:42.110 --> 00:11:44.190
+partie qui est codée également par le chromosome
+
+272
+00:11:44.190 --> 00:11:44.670
+15.
+
+273
+00:11:45.130 --> 00:11:47.670
+Deuxièmement, pour les molécules HLA classe 2, vous
+
+274
+00:11:47.670 --> 00:11:49.990
+avez ici la structure différente.
+
+275
+00:11:50.310 --> 00:11:52.110
+Vous avez ce qu'on appelle un hétérodimère
+
+276
+00:11:52.110 --> 00:11:53.630
+alpha et bêta.
+
+277
+00:11:54.030 --> 00:11:57.030
+Alpha 1, alpha 2, bêta 1, bêta 2.
+
+278
+00:11:57.390 --> 00:12:00.110
+Vous avez ici les différents ixons qui vont
+
+279
+00:12:00.110 --> 00:12:02.430
+coder aussi bien pour la chaîne alpha que
+
+280
+00:12:02.430 --> 00:12:03.270
+pour la chaîne bêta.
+
+281
+00:12:03.270 --> 00:12:04.870
+C'est xon 1, xon 2, etc.
+
+282
+00:12:05.050 --> 00:12:05.630
+jusqu'à 7.
+
+283
+00:12:05.970 --> 00:12:07.090
+Et vous avez ici, de l'autre côté,
+
+284
+00:12:07.510 --> 00:12:09.850
+la chaîne bêta qui est codée par d
+
+285
+00:12:09.850 --> 00:12:10.350
+'autres ixons.
+
+286
+00:12:10.550 --> 00:12:13.070
+On a plus d'ixons par rapport aux
+
+287
+00:12:13.070 --> 00:12:16.010
+molécules HLA classe 2 comparativement à la molécule
+
+288
+00:12:16.010 --> 00:12:18.870
+HLA classe 1, mais toutes les deux sont
+
+289
+00:12:18.870 --> 00:12:21.270
+codées au niveau du chromosome 6.
+
+290
+00:12:23.070 --> 00:12:25.930
+Les chaînes alpha et bêta sont toutes codées
+
+291
+00:12:25.930 --> 00:12:29.990
+par le chromosome 6 comparativement à la molécule
+
+292
+00:12:29.990 --> 00:12:31.090
+HLA classe 1.
+
+293
+00:12:31.090 --> 00:12:33.990
+Vous avez le nombre d'ixons qui sont
+
+294
+00:12:33.990 --> 00:12:39.430
+beaucoup plus importants également avec cette structure hétérodimérique.
+
+295
+00:12:41.610 --> 00:12:47.070
+Vous avez ici un polymorphisme beaucoup plus important
+
+296
+00:12:47.070 --> 00:12:49.730
+sur les molécules HLA classe 2 que par
+
+297
+00:12:49.730 --> 00:12:51.090
+rapport aux molécules HLA classe 1.
+
+298
+00:12:51.270 --> 00:12:52.930
+Vous avez compris qu'on a plus d
+
+299
+00:12:52.930 --> 00:12:54.830
+'ixons, donc il y a une sorte de
+
+300
+00:12:54.830 --> 00:12:59.090
+plus de diversité par rapport aux allèles qui
+
+301
+00:12:59.090 --> 00:13:01.090
+vont être codées par ces ixons.
+
+302
+00:13:01.210 --> 00:13:04.230
+C'est un peu l'intérêt de la
+
+303
+00:13:04.230 --> 00:13:07.270
+diversité de ces ixons.
+
+304
+00:13:10.530 --> 00:13:14.650
+Parmi les caractéristiques de ces molécules HLA, ce
+
+305
+00:13:14.650 --> 00:13:16.870
+qu'on appelle les propriétés fondamentales, vous avez
+
+306
+00:13:16.870 --> 00:13:17.530
+trois choses.
+
+307
+00:13:17.830 --> 00:13:19.570
+Un, le polymorphisme.
+
+308
+00:13:19.570 --> 00:13:22.290
+Deuxièmement, on va voir comment ils se transmettent
+
+309
+00:13:22.970 --> 00:13:24.310
+par apélotype, etc.
+
+310
+00:13:25.110 --> 00:13:26.690
+Et après on va voir un petit peu
+
+311
+00:13:26.690 --> 00:13:29.570
+quelle est leur modalité d'expression, etc.
+
+312
+00:13:29.750 --> 00:13:33.010
+Le polymorphisme, c'est quoi le polymorphisme ?
+
+313
+00:13:33.010 --> 00:13:34.430
+C'est tout simplement...
+
+314
+00:13:34.430 --> 00:13:36.250
+Je fais, soi-disant, j'extrapole.
+
+315
+00:13:36.690 --> 00:13:40.310
+Vous avez maintenant un malade qui a une
+
+316
+00:13:40.310 --> 00:13:42.870
+maladie X et vous avez une maladie qui
+
+317
+00:13:42.870 --> 00:13:47.790
+peut se manifester par différentes manifestations cliniques chez
+
+318
+00:13:47.790 --> 00:13:51.030
+un individu qui diffère par rapport à un
+
+319
+00:13:51.030 --> 00:13:51.170
+autre.
+
+320
+00:13:51.730 --> 00:13:52.830
+Ça veut dire qu'on a une sorte
+
+321
+00:13:52.830 --> 00:13:55.830
+de polymorphisme clinique qui diffère d'un individu
+
+322
+00:13:55.830 --> 00:13:58.090
+à l'autre pour la même maladie.
+
+323
+00:13:58.730 --> 00:14:00.150
+C'est ce qu'on appelle le polymorphisme
+
+324
+00:14:00.150 --> 00:14:00.810
+clinique.
+
+325
+00:14:00.930 --> 00:14:02.690
+Ça peut être aussi un polymorphisme biologique.
+
+326
+00:14:03.150 --> 00:14:06.270
+Et lorsqu'on parle de polymorphisme génétique, on
+
+327
+00:14:06.270 --> 00:14:08.810
+a plusieurs gènes ou plusieurs allèles.
+
+328
+00:14:09.530 --> 00:14:11.250
+Ça veut dire quoi ?
+
+329
+00:14:11.250 --> 00:14:14.350
+Si je regarde les molécules HLA codées au
+
+330
+00:14:14.350 --> 00:14:18.810
+niveau du locus A, HLA-A, etc., vous
+
+331
+00:14:18.810 --> 00:14:21.310
+avez également d'autres qui codent pour les
+
+332
+00:14:21.310 --> 00:14:24.090
+molécules HLA-B, C, DR, DQ.
+
+333
+00:14:24.190 --> 00:14:26.710
+Ça, c'est déjà un niveau de polymorphisme
+
+334
+00:14:26.710 --> 00:14:29.230
+qui est expliqué par la diversité des gènes.
+
+335
+00:14:29.390 --> 00:14:31.450
+Parce qu'il y a plusieurs exemples qui
+
+336
+00:14:31.450 --> 00:14:34.310
+vont coder pour chaque loci ou chaque locus,
+
+337
+00:14:34.430 --> 00:14:34.670
+etc.
+
+338
+00:14:34.950 --> 00:14:36.770
+Donc il y a déjà un niveau de
+
+339
+00:14:36.770 --> 00:14:39.270
+ce qu'on appelle un polymorphisme polygénique.
+
+340
+00:14:39.810 --> 00:14:42.710
+Deuxièmement, un deuxième niveau de polymorphisme, ça veut
+
+341
+00:14:42.710 --> 00:14:45.250
+dire qu'on a des allèles pour la
+
+342
+00:14:45.250 --> 00:14:49.150
+même spécificité, pour le même locus.
+
+343
+00:14:49.710 --> 00:14:53.750
+On a, par exemple, plusieurs allèles, HLA-010A,
+
+344
+00:14:54.030 --> 00:14:55.930
+0102, 0103, etc.
+
+345
+00:14:56.610 --> 00:14:58.090
+Ça veut dire quoi ?
+
+346
+00:14:58.090 --> 00:15:01.870
+Maintenant, je vais greffer un individu à partir
+
+347
+00:15:01.870 --> 00:15:02.470
+de son frère.
+
+348
+00:15:03.330 --> 00:15:06.110
+Je vais faire le typage HLA pour déterminer
+
+349
+00:15:06.110 --> 00:15:07.190
+ces molécules HLA.
+
+350
+00:15:07.190 --> 00:15:11.470
+Je vais me retrouver, par exemple, le frère
+
+351
+00:15:11.470 --> 00:15:18.370
+A porte des molécules HLA-01, et c
+
+352
+00:15:18.370 --> 00:15:19.490
+'est la même spécificité.
+
+353
+00:15:19.670 --> 00:15:21.370
+Mais son frère, même s'il est identique
+
+354
+00:15:21.370 --> 00:15:25.010
+pour le HLA-A, on va retrouver avec
+
+355
+00:15:25.010 --> 00:15:28.730
+un qui porte le HLA-010A, alors l
+
+356
+00:15:28.730 --> 00:15:30.170
+'autre porte le HLA-0102.
+
+357
+00:15:30.330 --> 00:15:31.110
+Ça veut dire qu'il y a une
+
+358
+00:15:31.110 --> 00:15:33.130
+diversité, même s'ils sont identiques au niveau
+
+359
+00:15:33.130 --> 00:15:34.990
+de la spécificité initiale, qui est le HLA
+
+360
+00:15:34.990 --> 00:15:38.570
+-01A, mais ils se retrouvent au niveau polymorphique
+
+361
+00:15:38.570 --> 00:15:41.450
+HLA différent, au niveau du deuxième allèle, de
+
+362
+00:15:41.450 --> 00:15:43.050
+l'allèle HLA-01 au HLA-02.
+
+363
+00:15:43.630 --> 00:15:44.670
+Ça, c'est ce qu'on appelle le
+
+364
+00:15:44.670 --> 00:15:47.110
+polymorphisme allélique.
+
+365
+00:15:47.490 --> 00:15:49.970
+Après, il y a plusieurs allèles.
+
+366
+00:15:50.070 --> 00:15:51.350
+A chaque fois, on ne cesse pas de
+
+367
+00:15:51.350 --> 00:15:54.630
+découvrir, de mettre en évidence de nouveaux allèles
+
+368
+00:15:54.630 --> 00:15:56.870
+qui expliquent justement ce polymorphisme.
+
+369
+00:15:57.250 --> 00:15:58.770
+Ce polymorphisme, il y a quoi ?
+
+370
+00:15:58.770 --> 00:16:01.310
+Tout simplement, vous avez une variation de séquences
+
+371
+00:16:01.310 --> 00:16:04.390
+d'acides aminés qui vont constituer la structure
+
+372
+00:16:04.390 --> 00:16:05.530
+de ce qu'on appelle les ondes d
+
+373
+00:16:05.530 --> 00:16:09.550
+'ancrage qui expliquent l'interférence, l'interaction de
+
+374
+00:16:09.550 --> 00:16:11.690
+ces molécules HLA avec les peptides antigéniques.
+
+375
+00:16:12.370 --> 00:16:14.690
+Donc, il y a, à travers ces modifications
+
+376
+00:16:14.690 --> 00:16:17.530
+structurelles au niveau de cette zone qu'on
+
+377
+00:16:17.530 --> 00:16:19.790
+appelle zone d'ancrage où s'insèrent les
+
+378
+00:16:19.790 --> 00:16:22.130
+peptides antigéniques, on a une diversité d'acides
+
+379
+00:16:22.130 --> 00:16:24.810
+aminés qui lient tout simplement à ce polymorphisme
+
+380
+00:16:24.810 --> 00:16:25.590
+allélique.
+
+381
+00:16:25.950 --> 00:16:28.790
+Alors, tout simplement aussi, ce polymorphisme est lié
+
+382
+00:16:28.790 --> 00:16:29.390
+à...
+
+383
+00:16:29.910 --> 00:16:32.430
+Lorsqu'on assemble le SI ou la lechaine
+
+384
+00:16:32.430 --> 00:16:34.890
+entre alpha1 d'un côté et bêta2 de
+
+385
+00:16:34.890 --> 00:16:36.410
+l'autre côté ou bien les alpha1 et
+
+386
+00:16:36.410 --> 00:16:39.130
+alpha2, vous avez des enzymes, lorsqu'ils assurent
+
+387
+00:16:39.130 --> 00:16:41.910
+la recombinison entre les différents segments de gènes,
+
+388
+00:16:42.270 --> 00:16:43.690
+il y a cette diversification.
+
+389
+00:16:43.930 --> 00:16:45.590
+C'est comme les gènes des immunoglobulines.
+
+390
+00:16:45.990 --> 00:16:47.570
+Il y a des recombinisons qui font qu
+
+391
+00:16:47.570 --> 00:16:50.930
+'il y a une diversité recombinatoire qui va
+
+392
+00:16:50.930 --> 00:16:52.230
+expliquer ce polymorphisme.
+
+393
+00:16:52.770 --> 00:16:56.870
+Lorsqu'on regarde des exemples de polymorphisme, vous
+
+394
+00:16:56.870 --> 00:16:58.050
+allez voir qu'il y a...
+
+395
+00:16:58.050 --> 00:16:59.850
+Lorsqu'on a commencé à reconnaître le HLA,
+
+396
+00:16:59.850 --> 00:17:03.770
+on a mis en évidence déjà plusieurs allèles.
+
+397
+00:17:04.150 --> 00:17:05.890
+Lorsqu'on s'amuse à voir le nom
+
+398
+00:17:05.890 --> 00:17:08.150
+d'allèle qui était reconnu déjà, on a
+
+399
+00:17:08.150 --> 00:17:11.550
+82 pour le A, 38 pour le C,
+
+400
+00:17:13.030 --> 00:17:14.589
+174 pour le G, etc.
+
+401
+00:17:15.210 --> 00:17:18.050
+Et au fur et à mesure, on découvre
+
+402
+00:17:18.050 --> 00:17:18.930
+qu'il y a...
+
+403
+00:17:18.930 --> 00:17:22.630
+Regardez, on est passé de 174 à 1100
+
+404
+00:17:22.630 --> 00:17:25.930
+dans l'espace pratiquement d'une année et
+
+405
+00:17:25.930 --> 00:17:27.810
+quelques, de 10 ans à peu près.
+
+406
+00:17:29.370 --> 00:17:31.190
+Maintenant, on est à beaucoup plus.
+
+407
+00:17:31.630 --> 00:17:34.670
+Je vous présente par exemple la nomenclature d
+
+408
+00:17:34.670 --> 00:17:37.870
+'IL 2020, on va se retrouver avec pratiquement
+
+409
+00:17:37.870 --> 00:17:40.610
+4000-5000 allèles rien que pour le locus
+
+410
+00:17:40.610 --> 00:17:42.830
+B, et plus encore pour le locus C,
+
+411
+00:17:42.870 --> 00:17:43.130
+etc.
+
+412
+00:17:43.690 --> 00:17:45.570
+Voilà un petit peu ce que veut dire
+
+413
+00:17:45.570 --> 00:17:48.590
+le polymorphisme et quelle est sa traduction d
+
+414
+00:17:48.590 --> 00:17:49.350
+'un point de vue pratique.
+
+415
+00:17:50.390 --> 00:17:52.790
+Alors, pour aller un petit peu...
+
+416
+00:17:52.790 --> 00:17:54.810
+Pas dans le détail, mais lorsqu'on parle
+
+417
+00:17:54.810 --> 00:17:57.690
+de polymorphisme, on regarde ici cette zone d
+
+418
+00:17:57.690 --> 00:17:59.650
+'ancrage dont je viens de parler, la zone
+
+419
+00:17:59.650 --> 00:18:00.210
+d'ancrage.
+
+420
+00:18:00.670 --> 00:18:03.910
+Si je regarde la structure des molécules H
+
+421
+00:18:03.910 --> 00:18:05.890
+à la classe 1, ce trimère, ces points
+
+422
+00:18:05.890 --> 00:18:08.150
+rouges là, c'est eux qui portent les
+
+423
+00:18:08.150 --> 00:18:12.910
+acides aminés, par exemple HLA-0201, vous avez
+
+424
+00:18:12.910 --> 00:18:16.790
+une diversité d'acides aminés qui composent la
+
+425
+00:18:16.790 --> 00:18:20.170
+structure de ces zones d'ancrage qui se
+
+426
+00:18:20.170 --> 00:18:21.770
+traduit par des points rouges ici.
+
+427
+00:18:22.210 --> 00:18:23.770
+C'est là où va s'insérer le
+
+428
+00:18:23.770 --> 00:18:25.890
+peptide antigénique qui va prendre en charge ces
+
+429
+00:18:25.890 --> 00:18:29.150
+molécules HLA pour les présenter à la fucilité.
+
+430
+00:18:29.870 --> 00:18:32.310
+Vous voyez, le placement de ces acides aminés
+
+431
+00:18:32.310 --> 00:18:32.870
+va différer.
+
+432
+00:18:33.210 --> 00:18:34.710
+Cela peut changer d'un côté à l
+
+433
+00:18:34.710 --> 00:18:36.990
+'autre sur cette chaîne polypeptidique, etc.
+
+434
+00:18:37.370 --> 00:18:41.350
+De la même façon, pour le HLA classe
+
+435
+00:18:41.350 --> 00:18:43.710
+2, il y a plus de...
+
+436
+00:18:43.710 --> 00:18:46.330
+Regardez, rien que sur la chaîne bêta, qui
+
+437
+00:18:46.330 --> 00:18:49.110
+est la plus polymorphique, comparativement à la chaîne
+
+438
+00:18:49.110 --> 00:18:51.230
+alpha qui est un peu plus stable, au
+
+439
+00:18:51.230 --> 00:18:53.230
+niveau de la zone bêta, rien qu'elle
+
+440
+00:18:53.230 --> 00:18:56.210
+seule, elle porte plusieurs acides aminés qui sont
+
+441
+00:18:56.210 --> 00:18:59.350
+supérieurs à celui des molécules HLA classe 1.
+
+442
+00:18:59.810 --> 00:19:03.190
+Vous avez donc une diversité plus importante sur
+
+443
+00:19:03.190 --> 00:19:04.670
+le HLA classe 2.
+
+444
+00:19:04.770 --> 00:19:08.290
+Un exemple ici de la diversité avec des
+
+445
+00:19:08.290 --> 00:19:10.470
+acides aminés qui changent d'un côté à
+
+446
+00:19:10.470 --> 00:19:10.690
+l'autre.
+
+447
+00:19:11.170 --> 00:19:14.030
+Voilà ce qu'on appelle le polymorphisme.
+
+448
+00:19:14.470 --> 00:19:17.210
+Deuxièmement, on appelle la transmission par co-dominance.
+
+449
+00:19:17.350 --> 00:19:19.210
+Retenez bien, comme vous le savez très bien,
+
+450
+00:19:19.650 --> 00:19:21.590
+lorsqu'on parle de gènes, lorsqu'on parle
+
+451
+00:19:21.590 --> 00:19:24.070
+de transmission des gènes, vous avez soit une
+
+452
+00:19:24.070 --> 00:19:27.870
+transmission dominante, récessive, ou bien liée à l
+
+453
+00:19:27.870 --> 00:19:28.390
+'X, etc.
+
+454
+00:19:28.970 --> 00:19:30.750
+Alors le HLA se transmet par ce qu
+
+455
+00:19:30.750 --> 00:19:32.750
+'on appelle un principe de co-dominance.
+
+456
+00:19:32.890 --> 00:19:34.750
+Ça veut dire que chacun de nous irrite
+
+457
+00:19:34.750 --> 00:19:39.450
+des molécules HLA de son papa et de
+
+458
+00:19:39.450 --> 00:19:39.670
+sa maman.
+
+459
+00:19:39.870 --> 00:19:41.990
+Forcément, on doit avoir ce qu'on appelle
+
+460
+00:19:42.510 --> 00:19:46.070
+des haplotypes de la maman et des haplotypes
+
+461
+00:19:46.070 --> 00:19:49.470
+de son papa.
+
+462
+00:19:49.550 --> 00:19:50.790
+Je regarde par exemple ici.
+
+463
+00:19:51.650 --> 00:19:52.170
+Regardez.
+
+464
+00:19:52.430 --> 00:19:57.050
+Si je prends celui-là comme l'haplotype
+
+465
+00:19:57.050 --> 00:20:00.070
+de la maman, le locus A, un locus
+
+466
+00:20:00.070 --> 00:20:03.450
+C, un locus B, un locus DR, un
+
+467
+00:20:03.450 --> 00:20:05.830
+locus DQ, un locus DP par exemple.
+
+468
+00:20:05.970 --> 00:20:08.490
+On a 6 loci A qui constituent les
+
+469
+00:20:08.490 --> 00:20:10.770
+molécules HLA, ce qu'on appelle l'haplotype.
+
+470
+00:20:11.150 --> 00:20:13.030
+Ça c'est un haplotype formé de 6
+
+471
+00:20:13.030 --> 00:20:17.170
+loci A, B, C, DR, DQ, DP.
+
+472
+00:20:17.330 --> 00:20:19.350
+De la même façon, l'haplotype paternel, vous
+
+473
+00:20:19.350 --> 00:20:22.970
+avez là aussi A, B, C, DR, DQ
+
+474
+00:20:22.970 --> 00:20:23.630
+et DP.
+
+475
+00:20:24.130 --> 00:20:26.730
+Ça veut dire, au niveau du noyau, au
+
+476
+00:20:26.730 --> 00:20:29.530
+niveau des gènes qui vont coder, à la
+
+477
+00:20:29.530 --> 00:20:31.250
+surface de la cellule qui porte ces molécules
+
+478
+00:20:31.250 --> 00:20:34.410
+HLA, on va retrouver forcément deux loci, un
+
+479
+00:20:34.410 --> 00:20:35.770
+paternel et un maternel.
+
+480
+00:20:35.910 --> 00:20:38.530
+Par exemple, un loci A, si je reprends
+
+481
+00:20:38.530 --> 00:20:40.850
+le A, ici, qui est rouge, on va
+
+482
+00:20:40.850 --> 00:20:43.730
+retrouver le HLA, par exemple A, ici, à
+
+483
+00:20:43.730 --> 00:20:44.170
+ce niveau-là.
+
+484
+00:20:44.490 --> 00:20:48.270
+La cellule doit exprimer forcément deux loci, un
+
+485
+00:20:48.270 --> 00:20:50.910
+d'origine paternelle et un d'origine maternelle.
+
+486
+00:20:51.170 --> 00:20:52.970
+6 loci pour le B, pour le C,
+
+487
+00:20:53.130 --> 00:20:55.310
+pour le DR, pour le DQ et pour
+
+488
+00:20:55.310 --> 00:20:56.270
+le DP.
+
+489
+00:20:56.630 --> 00:20:58.270
+Voilà un petit peu comment ce qu'on
+
+490
+00:20:58.270 --> 00:21:01.670
+appelle la codominance va se traduire au niveau
+
+491
+00:21:01.670 --> 00:21:03.490
+de la surface des cellules qui portent ces
+
+492
+00:21:03.490 --> 00:21:04.130
+molécules HLA.
+
+493
+00:21:05.110 --> 00:21:06.470
+Ça veut dire que lorsque je fais le
+
+494
+00:21:06.470 --> 00:21:08.730
+type HLA à la surface de ces cellules
+
+495
+00:21:08.730 --> 00:21:10.730
+et au niveau du noyau par l'ADN,
+
+496
+00:21:11.130 --> 00:21:15.270
+je vais retrouver forcément deux loci, un paternel
+
+497
+00:21:15.270 --> 00:21:15.930
+et un maternel.
+
+498
+00:21:15.930 --> 00:21:17.070
+C'est ce qu'on appelle le principe
+
+499
+00:21:17.070 --> 00:21:19.350
+de codominance dans la transmission de ces molécules
+
+500
+00:21:19.350 --> 00:21:19.650
+HLA.
+
+501
+00:21:20.550 --> 00:21:25.750
+Puis la troisième propriété fondamentale de ces molécules
+
+502
+00:21:25.750 --> 00:21:28.250
+HLA, c'est qu'elles se transmettent par
+
+503
+00:21:28.250 --> 00:21:28.750
+haplotypes.
+
+504
+00:21:29.110 --> 00:21:31.490
+On ne va jamais transmettre un seul locus.
+
+505
+00:21:33.030 --> 00:21:37.670
+Tout le bloc, tout l'haplotype va de
+
+506
+00:21:37.670 --> 00:21:40.090
+façon, soi-disant, en totalité, en digralité.
+
+507
+00:21:40.450 --> 00:21:43.990
+Alors maintenant, je prends un père et une
+
+508
+00:21:43.990 --> 00:21:47.370
+mère qui vont transmettre à leurs descendants, à
+
+509
+00:21:47.370 --> 00:21:50.570
+leurs enfants, des haplotypes et des molécules HLA.
+
+510
+00:21:50.930 --> 00:21:52.590
+Si on prend l'exemple ici de quatre
+
+511
+00:21:52.590 --> 00:21:54.570
+enfants, regardez un haplotype.
+
+512
+00:21:54.770 --> 00:21:56.750
+Pour simplifier, on n'a pas représenté tous
+
+513
+00:21:56.750 --> 00:21:57.550
+les loci.
+
+514
+00:21:57.990 --> 00:21:59.470
+Le A, le B, le D, R, DQ.
+
+515
+00:22:00.290 --> 00:22:00.870
+C'est de la même façon.
+
+516
+00:22:01.010 --> 00:22:05.170
+Vous avez ici déjà le haplotype A, il
+
+517
+00:22:05.170 --> 00:22:07.450
+est A1, B7, D, R, A, etc.
+
+518
+00:22:08.130 --> 00:22:10.830
+Le 5, celui-là est différent, etc.
+
+519
+00:22:10.970 --> 00:22:12.630
+Vous avez quatre types d'haplotypes.
+
+520
+00:22:12.630 --> 00:22:15.190
+Alors lorsqu'on regarde, par exemple, dans la
+
+521
+00:22:15.190 --> 00:22:17.930
+transmission, vous avez ce père qui va donner
+
+522
+00:22:17.930 --> 00:22:20.650
+son haplotype A au premier enfant.
+
+523
+00:22:20.850 --> 00:22:23.490
+Il va donner un haplotype aussi le même
+
+524
+00:22:23.490 --> 00:22:24.830
+au deuxième enfant.
+
+525
+00:22:25.450 --> 00:22:27.950
+De la même façon, vous avez ici, il
+
+526
+00:22:27.950 --> 00:22:31.730
+va donner l'haplotype B ici, il va
+
+527
+00:22:31.730 --> 00:22:35.090
+transmettre à l'enfant 3 et à l
+
+528
+00:22:35.090 --> 00:22:35.510
+'enfant 4.
+
+529
+00:22:35.910 --> 00:22:38.170
+De la même façon, la maman va donner
+
+530
+00:22:39.010 --> 00:22:42.930
+son haplotype C au premier enfant, et ainsi
+
+531
+00:22:42.930 --> 00:22:43.310
+de suite.
+
+532
+00:22:43.790 --> 00:22:45.430
+Vous avez D qui va partir sur R.
+
+533
+00:22:45.770 --> 00:22:48.470
+Alors, si je vous demande, par exemple, de
+
+534
+00:22:48.470 --> 00:22:53.230
+me dire parmi ces haplotypes chez ces enfants,
+
+535
+00:22:53.710 --> 00:22:55.010
+est-ce qu'il y a une identité
+
+536
+00:22:55.010 --> 00:22:58.810
+ou pas des molécules HLA ou des leucies
+
+537
+00:22:58.810 --> 00:23:00.190
+ou des haplotypes ?
+
+538
+00:23:00.190 --> 00:23:03.130
+Alors, vous allez constater que, par exemple, on
+
+539
+00:23:03.130 --> 00:23:06.630
+peut parler de ce qu'on appelle haploidentique.
+
+540
+00:23:06.930 --> 00:23:08.010
+Ça veut dire quoi ?
+
+541
+00:23:08.010 --> 00:23:09.990
+Vous avez l'enfant 1 et l'enfant
+
+542
+00:23:09.990 --> 00:23:10.250
+2.
+
+543
+00:23:10.850 --> 00:23:12.350
+Ils partagent un haplotype.
+
+544
+00:23:12.950 --> 00:23:15.590
+C'est-à-dire, on retrouve ici l
+
+545
+00:23:15.590 --> 00:23:18.570
+'haplotype A1, P7, etc.
+
+546
+00:23:19.170 --> 00:23:22.050
+avec celui, ils ont le A identique.
+
+547
+00:23:22.170 --> 00:23:23.990
+Donc, ils sont dits haploidentiques parce que l
+
+548
+00:23:23.990 --> 00:23:24.810
+'autre, il est différent.
+
+549
+00:23:25.470 --> 00:23:28.270
+Donc, le C est complètement différent du D.
+
+550
+00:23:28.650 --> 00:23:30.510
+On les appelle haploidentiques, ça veut dire qu
+
+551
+00:23:30.510 --> 00:23:32.610
+'il y a une identité de moitié qu
+
+552
+00:23:32.610 --> 00:23:33.870
+'on appelle haploidentique.
+
+553
+00:23:34.450 --> 00:23:35.910
+Alors, le 2 et le 4, je compare
+
+554
+00:23:35.910 --> 00:23:38.050
+le deuxième enfant et le quatrième enfant.
+
+555
+00:23:38.050 --> 00:23:41.350
+Regardez ici, ils sont complètement identiques.
+
+556
+00:23:41.670 --> 00:23:46.310
+Donc, A1, B7, DR5, DR1, DQ5.
+
+557
+00:23:47.030 --> 00:23:49.630
+Et c'est valable aussi pour l'haplotype
+
+558
+00:23:49.630 --> 00:23:50.190
+D qui est là.
+
+559
+00:23:50.450 --> 00:23:53.050
+Donc, ce sont deux enfants qui sont génoidentiques.
+
+560
+00:23:53.850 --> 00:23:56.350
+Ils ont, soit disant, hérité des haplotypes qui
+
+561
+00:23:56.350 --> 00:23:58.170
+sont complètement identiques.
+
+562
+00:23:58.450 --> 00:24:00.590
+Par contre, le deuxième et le troisième enfant,
+
+563
+00:24:00.770 --> 00:24:02.150
+ils sont complètement différents.
+
+564
+00:24:02.430 --> 00:24:03.610
+Il n'y a rien qui est ensemble.
+
+565
+00:24:03.910 --> 00:24:06.230
+Vous allez constater une particularité ici.
+
+566
+00:24:06.350 --> 00:24:07.590
+Regardez le B7.
+
+567
+00:24:07.590 --> 00:24:12.270
+Par exemple, chez le troisième enfant, vous allez
+
+568
+00:24:12.270 --> 00:24:15.990
+certainement le remarquer, le B7, normalement, au niveau
+
+569
+00:24:15.990 --> 00:24:19.150
+de l'haplotype C, vous savez que, normalement,
+
+570
+00:24:19.190 --> 00:24:21.490
+l'haplotype C, il y a le A3,
+
+571
+00:24:21.870 --> 00:24:24.710
+le B13, il y a le DR13.
+
+572
+00:24:24.770 --> 00:24:25.550
+On ne le retrouve pas ici.
+
+573
+00:24:25.670 --> 00:24:27.050
+On trouve, par contre, le DQ6.
+
+574
+00:24:27.610 --> 00:24:30.230
+Donc, il y a un locus qui est
+
+575
+00:24:30.230 --> 00:24:31.670
+venu...
+
+576
+00:24:31.670 --> 00:24:33.890
+Regardez ici le B7.
+
+577
+00:24:34.590 --> 00:24:35.530
+Il n'était pas là.
+
+578
+00:24:36.290 --> 00:24:36.930
+Et s'est glissé.
+
+579
+00:24:36.930 --> 00:24:37.690
+Normalement, il est là.
+
+580
+00:24:38.210 --> 00:24:39.410
+Il s'est glissé chez le...
+
+581
+00:24:39.410 --> 00:24:41.050
+Soit disons, chez le troisième enfant.
+
+582
+00:24:41.150 --> 00:24:41.810
+Non, l'haplotype C.
+
+583
+00:24:42.650 --> 00:24:44.190
+Ça, c'est au cours de la transmission.
+
+584
+00:24:44.450 --> 00:24:45.950
+Il y a un risque de ce qu
+
+585
+00:24:45.950 --> 00:24:47.590
+'on appelle un déséquilibre de liaison.
+
+586
+00:24:48.050 --> 00:24:48.790
+Crossing over.
+
+587
+00:24:49.130 --> 00:24:50.670
+C'est un phénomène comme ça, on va
+
+588
+00:24:50.670 --> 00:24:53.970
+dire, physiologique, naturel, qui s'opère parfois, qui
+
+589
+00:24:53.970 --> 00:24:57.050
+est de l'ordre de 1%, environ, pour
+
+590
+00:24:57.050 --> 00:24:59.050
+certains leci.
+
+591
+00:24:59.510 --> 00:25:00.470
+Donc, ce qui fait qu'il y a
+
+592
+00:25:00.470 --> 00:25:02.590
+un glissement tout simplement d'un seul locus
+
+593
+00:25:02.590 --> 00:25:05.350
+qui se glisse sur l'autre haplotype, maternelle,
+
+594
+00:25:05.490 --> 00:25:05.690
+etc.
+
+595
+00:25:06.210 --> 00:25:07.050
+Donc, il est là.
+
+596
+00:25:07.930 --> 00:25:10.130
+Il faut prendre en considération ça lorsqu'on
+
+597
+00:25:10.130 --> 00:25:11.770
+interprète les résultats du HLA.
+
+598
+00:25:11.990 --> 00:25:12.970
+Pour vous dire, parfois, ce n'est pas
+
+599
+00:25:12.970 --> 00:25:13.550
+toujours évident.
+
+600
+00:25:14.090 --> 00:25:16.330
+Il faut avoir à l'esprit cette notion
+
+601
+00:25:16.330 --> 00:25:18.510
+de déséquilibre de liaison.
+
+602
+00:25:19.230 --> 00:25:20.550
+Certains vont considérer qu'il y a une
+
+603
+00:25:20.550 --> 00:25:21.230
+erreur de typage.
+
+604
+00:25:21.310 --> 00:25:21.410
+Non.
+
+605
+00:25:22.170 --> 00:25:24.990
+C'est expliqué physiologiquement et naturellement par ce
+
+606
+00:25:24.990 --> 00:25:26.450
+phénomène de ce qu'on appelle le déséquilibre
+
+607
+00:25:26.450 --> 00:25:26.850
+de liaison.
+
+608
+00:25:27.610 --> 00:25:30.670
+Donc, la troisième propriété fondamentale du molécule HLA,
+
+609
+00:25:31.170 --> 00:25:33.390
+il est justement à cette transmission par haplotype.
+
+610
+00:25:33.550 --> 00:25:36.150
+Jamais une molécule HLA toute seule ou là,
+
+611
+00:25:36.550 --> 00:25:39.650
+un locus tout seul va se transmettre.
+
+612
+00:25:40.430 --> 00:25:44.950
+Tout le bloc haplotype part chez la descendance.
+
+613
+00:25:45.550 --> 00:25:48.350
+Maintenant, lorsqu'on va regarder comment, soi-disant,
+
+614
+00:25:48.490 --> 00:25:50.770
+on définit ou là, on reconnaît ou là,
+
+615
+00:25:53.570 --> 00:25:55.830
+quelque part, lorsqu'on attribue les molécules HLA
+
+616
+00:25:55.830 --> 00:25:58.270
+chez un individu qui a reçu ou qui
+
+617
+00:25:58.270 --> 00:26:00.130
+a fait l'objet d'un type HLA,
+
+618
+00:26:00.730 --> 00:26:02.150
+alors soit comme on le fait par une
+
+619
+00:26:02.150 --> 00:26:05.050
+méthode qu'on appelle chirologique, soit qu'on
+
+620
+00:26:05.050 --> 00:26:06.970
+le fait par une méthode de biologie moléculaire.
+
+621
+00:26:07.430 --> 00:26:08.990
+Pourquoi je vous dis ça ?
+
+622
+00:26:08.990 --> 00:26:10.510
+Juste de façon simple parce que vous serez
+
+623
+00:26:10.510 --> 00:26:12.610
+amenés à lire des typages HLA que ce
+
+624
+00:26:12.610 --> 00:26:15.650
+soit pour faire l'association à HLA maladie
+
+625
+00:26:15.650 --> 00:26:17.070
+ou même pour HLA greffe.
+
+626
+00:26:17.830 --> 00:26:20.530
+C'est une curiosité mais quelque part quelque
+
+627
+00:26:20.530 --> 00:26:21.010
+chose de rôti.
+
+628
+00:26:21.550 --> 00:26:24.050
+Alors, si vous regardez un bilan de typage
+
+629
+00:26:24.050 --> 00:26:26.790
+HLA, vous retrouvez, par exemple, c'est écrit
+
+630
+00:26:26.790 --> 00:26:30.250
+A2, ça veut dire que systématiquement, c'est
+
+631
+00:26:30.250 --> 00:26:32.190
+une technique chirologique qui a été employée.
+
+632
+00:26:32.190 --> 00:26:33.770
+Je ne vais pas rentrer dans le détail
+
+633
+00:26:33.770 --> 00:26:35.130
+par rapport à la technique ou à son
+
+634
+00:26:35.130 --> 00:26:37.970
+principe mais bref, retenez que si on écrit
+
+635
+00:26:37.970 --> 00:26:41.490
+comme ça tout court A2, A11, A3, A6,
+
+636
+00:26:41.590 --> 00:26:45.430
+A9, B44, D2, c'est une méthode chirologique
+
+637
+00:26:45.430 --> 00:26:47.550
+qui a été déployée pour faire le typage
+
+638
+00:26:47.550 --> 00:26:49.590
+et la détermination de ces molécules HLA chez
+
+639
+00:26:49.590 --> 00:26:50.650
+un individu.
+
+640
+00:26:51.070 --> 00:26:52.110
+Donc c'est ce qu'on appelle une
+
+641
+00:26:52.110 --> 00:26:53.250
+détermination phénotypique.
+
+642
+00:26:53.490 --> 00:26:55.630
+Vous avez un deuxième niveau qui s'appelle
+
+643
+00:26:55.630 --> 00:26:58.690
+une détermination générique, c'est-à-dire quoi
+
+644
+00:26:58.690 --> 00:26:58.930
+?
+
+645
+00:26:58.930 --> 00:27:01.190
+Je le fais forcément par biologie moléculaire et
+
+646
+00:27:01.190 --> 00:27:02.790
+lorsque j'ai fait la biologie moléculaire, regardez,
+
+647
+00:27:03.290 --> 00:27:06.130
+le même locus s'est écrit ici, A2.
+
+648
+00:27:06.670 --> 00:27:08.810
+Lorsque je fais par biologie moléculaire, je vais
+
+649
+00:27:08.810 --> 00:27:11.030
+rajouter un astérisque avec un 0.
+
+650
+00:27:11.470 --> 00:27:13.430
+0 jusqu'à 9, ça peut être 0
+
+651
+00:27:13.430 --> 00:27:15.330
+,1, 0,2, 0,3, 0,4, 0
+
+652
+00:27:15.330 --> 00:27:16.690
+,5, jusqu'à 0,9.
+
+653
+00:27:17.870 --> 00:27:20.270
+A partir du dixième chiffre, je vais l
+
+654
+00:27:20.270 --> 00:27:21.010
+'écrire A10.
+
+655
+00:27:21.510 --> 00:27:22.890
+On a A11 et A12 ce que vous
+
+656
+00:27:22.890 --> 00:27:23.330
+voyez ici.
+
+657
+00:27:23.730 --> 00:27:25.750
+Donc 0,7 mais par contre il y
+
+658
+00:27:25.750 --> 00:27:26.730
+a B44.
+
+659
+00:27:27.550 --> 00:27:28.490
+Pourquoi ici ?
+
+660
+00:27:28.490 --> 00:27:31.050
+Regardez, vous avez DRB1, DRB1, etc.
+
+661
+00:27:31.630 --> 00:27:32.570
+ou bien DQB1.
+
+662
+00:27:32.870 --> 00:27:33.550
+ADB1, c'est quoi ?
+
+663
+00:27:33.550 --> 00:27:35.930
+C'est tout simplement la chaîne bêta.
+
+664
+00:27:36.490 --> 00:27:37.450
+Tout à l'heure, je vous ai parlé
+
+665
+00:27:37.450 --> 00:27:39.770
+de la structure des molécules HLA.
+
+666
+00:27:40.070 --> 00:27:42.870
+On avait distingué le alpha, etc.
+
+667
+00:27:43.170 --> 00:27:45.670
+pour le A, la molécule HLA classe 1
+
+668
+00:27:45.670 --> 00:27:48.590
+et vous avez le alpha bêta.
+
+669
+00:27:49.050 --> 00:27:52.810
+Donc ADB1, c'est tout simplement la chaîne
+
+670
+00:27:52.810 --> 00:27:55.110
+bêta qui est la polymorphique et c'est
+
+671
+00:27:55.110 --> 00:27:55.850
+elle qui est étudiée.
+
+672
+00:27:56.170 --> 00:27:57.930
+On ne regarde pas la chaîne alpha généralement
+
+673
+00:27:57.930 --> 00:27:59.610
+parce que le polymorphique et le polymorphisme, ce
+
+674
+00:27:59.610 --> 00:28:01.410
+qui est important à considérer, c'est surtout
+
+675
+00:28:01.410 --> 00:28:03.290
+la chaîne bêta qui doit être étudiée parce
+
+676
+00:28:03.290 --> 00:28:05.450
+qu'elle a l'impact sur l'acceptabilité
+
+677
+00:28:05.450 --> 00:28:05.990
+d'une greffe.
+
+678
+00:28:06.390 --> 00:28:08.970
+Donc vous avez ici bêta 1, 02, bêta
+
+679
+00:28:08.970 --> 00:28:12.290
+1, 11, DQB1, 0,5, etc.
+
+680
+00:28:12.810 --> 00:28:15.510
+Ça, c'est la détermination dite générique.
+
+681
+00:28:16.310 --> 00:28:18.110
+Lorsqu'on avance dans l'allélique parce que
+
+682
+00:28:18.110 --> 00:28:19.570
+vous avez compris pourquoi il y a un
+
+683
+00:28:19.570 --> 00:28:23.090
+polymorphisme allélique des fois, il faut regarder les
+
+684
+00:28:23.090 --> 00:28:24.450
+allèles et ce qu'ils sont quantifiés.
+
+685
+00:28:24.690 --> 00:28:26.870
+On va rajouter un autre allèle, 0,1,
+
+686
+00:28:26.910 --> 00:28:27.850
+0,2, et ainsi de suite.
+
+687
+00:28:27.970 --> 00:28:30.270
+Vous avez quelque part comment on fait pour
+
+688
+00:28:30.270 --> 00:28:32.810
+déterminer et pour étudier la compatibilité.
+
+689
+00:28:33.110 --> 00:28:36.270
+Pour la greffe soi-disant de rares organes,
+
+690
+00:28:36.390 --> 00:28:38.510
+c'est suffisant de s'arrêter sur une
+
+691
+00:28:38.510 --> 00:28:39.910
+détermination générique.
+
+692
+00:28:41.250 --> 00:28:44.370
+Et pour la détermination, pour la greffe des
+
+693
+00:28:44.370 --> 00:28:46.530
+cellules souches, des foies, il faut un petit
+
+694
+00:28:46.530 --> 00:28:48.910
+peu, surtout s'il s'agit de greffes,
+
+695
+00:28:48.950 --> 00:28:50.930
+on va dire, non apparentées, entre les frères
+
+696
+00:28:50.930 --> 00:28:52.350
+et soeurs, généralement, on n'est pas obligé
+
+697
+00:28:52.350 --> 00:28:53.750
+d'aller vers l'allélique.
+
+698
+00:28:54.350 --> 00:28:56.610
+On accepte un petit peu juste le générique,
+
+699
+00:28:56.770 --> 00:28:57.310
+il est suffisant.
+
+700
+00:28:57.730 --> 00:29:00.170
+Mais lorsqu'il s'agit de greffer, par
+
+701
+00:29:00.170 --> 00:29:02.430
+exemple, un individu en dehors de la famille,
+
+702
+00:29:02.990 --> 00:29:04.770
+ce qu'on appelle la greffe non apparentée,
+
+703
+00:29:05.350 --> 00:29:08.670
+donc il faut vérifier les allèles, en disant
+
+704
+00:29:08.670 --> 00:29:11.310
+un deuxième niveau qu'on appelle détermination allélique.
+
+705
+00:29:11.410 --> 00:29:12.870
+Voilà un petit peu la nomenclature qui est
+
+706
+00:29:12.870 --> 00:29:16.590
+admise pour déterminer et classer les molécules HLA
+
+707
+00:29:16.590 --> 00:29:19.450
+et pour attribuer le bilan, le résultat d
+
+708
+00:29:19.450 --> 00:29:20.050
+'un bilan HLA.
+
+709
+00:29:21.270 --> 00:29:23.110
+Maintenant, on va voir la structure parce que
+
+710
+00:29:23.110 --> 00:29:24.890
+je vais reprendre quelques éléments que j'ai
+
+711
+00:29:24.890 --> 00:29:26.350
+mentionnés tout à l'heure.
+
+712
+00:29:26.570 --> 00:29:28.230
+Vous avez une structure qui est propre aux
+
+713
+00:29:28.230 --> 00:29:29.410
+molécules HLA classe 1.
+
+714
+00:29:30.190 --> 00:29:32.970
+Ici, regardez, chaîne alpha, vous la reconnaissez avec
+
+715
+00:29:32.970 --> 00:29:34.690
+le trimestre et les domaines alpha 1, alpha
+
+716
+00:29:34.690 --> 00:29:35.390
+2, alpha 3.
+
+717
+00:29:35.550 --> 00:29:36.910
+Ce que vous voyez ici, alpha 1, alpha
+
+718
+00:29:36.910 --> 00:29:37.610
+2, alpha 3.
+
+719
+00:29:37.950 --> 00:29:40.650
+Et vous avez la chaîne fameuse bêta microglobuline
+
+720
+00:29:41.290 --> 00:29:43.290
+qui est codée par le chromosome 6.
+
+721
+00:29:43.750 --> 00:29:46.570
+Alors lorsqu'on regarde les zones de polymorphisme,
+
+722
+00:29:46.850 --> 00:29:48.670
+les acides aminés dont j'ai parlé tout
+
+723
+00:29:48.670 --> 00:29:50.310
+à l'heure, vous avez ici ce qu
+
+724
+00:29:50.310 --> 00:29:51.770
+'on appelle la zone d'ancrage.
+
+725
+00:29:51.890 --> 00:29:52.690
+De quoi ?
+
+726
+00:29:52.690 --> 00:29:53.290
+Des peptides.
+
+727
+00:29:53.290 --> 00:29:55.150
+C'est-à-dire les peptides que vont
+
+728
+00:29:55.150 --> 00:29:57.670
+présenter les molécules HLA à l'infosité vont
+
+729
+00:29:57.670 --> 00:29:58.810
+s'insérer à ce niveau-là.
+
+730
+00:29:59.330 --> 00:30:02.550
+Et du fait du polymorphisme ou des variations
+
+731
+00:30:02.550 --> 00:30:05.310
+en termes de séquences nucléotidiques ou d'acides
+
+732
+00:30:05.310 --> 00:30:07.570
+aminés qui composent ces zones d'ancrage, on
+
+733
+00:30:07.570 --> 00:30:10.970
+aura une diversité de molécules antigéniques, etc., qui
+
+734
+00:30:10.970 --> 00:30:11.870
+vont pouvoir s'insérer.
+
+735
+00:30:12.070 --> 00:30:15.490
+Donc, le choix des peptides à présenter ou
+
+736
+00:30:15.490 --> 00:30:18.830
+à assimiler dépendra justement de la composition de
+
+737
+00:30:18.830 --> 00:30:21.990
+ces zones d'ancrage qui existent au niveau
+
+738
+00:30:21.990 --> 00:30:23.890
+de cette niche et de cette zone des
+
+739
+00:30:23.890 --> 00:30:24.770
+molécules HLA.
+
+740
+00:30:24.990 --> 00:30:26.530
+De l'autre côté, lorsqu'on regarde les
+
+741
+00:30:26.530 --> 00:30:29.030
+molécules HLA classe 2, il y a certes
+
+742
+00:30:29.030 --> 00:30:31.490
+des zones d'ancrage propres à la chaîne
+
+743
+00:30:31.490 --> 00:30:33.810
+alpha, mais surtout sur la chaîne bêta.
+
+744
+00:30:33.930 --> 00:30:34.630
+C'est pourquoi tout à l'heure, je
+
+745
+00:30:34.630 --> 00:30:36.710
+vous ai dit qu'on fait le typage
+
+746
+00:30:37.310 --> 00:30:38.130
+des chaînes bêta.
+
+747
+00:30:38.230 --> 00:30:39.970
+Bien sûr, on fait même l'alpha, mais
+
+748
+00:30:39.970 --> 00:30:42.170
+on ne regarde pas pour décider de la
+
+749
+00:30:42.170 --> 00:30:42.450
+greffe.
+
+750
+00:30:43.050 --> 00:30:44.250
+C'est surtout la chaîne bêta.
+
+751
+00:30:44.350 --> 00:30:48.050
+Vous avez énormément d'emplacements, de séquences d
+
+752
+00:30:48.050 --> 00:30:49.530
+'acides aminés qui fait qu'il y a
+
+753
+00:30:49.530 --> 00:30:52.170
+une diversité sur laquelle cette niche-là serait
+
+754
+00:30:52.170 --> 00:30:54.010
+le plus petit.
+
+755
+00:30:54.230 --> 00:30:56.050
+Voilà un petit peu l'équilibre alpha et
+
+756
+00:30:56.050 --> 00:30:56.310
+bêta.
+
+757
+00:30:56.670 --> 00:30:58.870
+Voilà ce qu'on appelle et en termes
+
+758
+00:30:58.870 --> 00:31:01.230
+d'acides aminés, classe 1, la zone d
+
+759
+00:31:01.230 --> 00:31:02.930
+'ancrage à peu près de 9 acides aminés,
+
+760
+00:31:03.030 --> 00:31:04.670
+alors que pour la classe 2, on peut
+
+761
+00:31:04.670 --> 00:31:07.050
+aller jusqu'à 17 les acides aminés qui
+
+762
+00:31:07.050 --> 00:31:09.970
+composent cette structure ou cette niche des zones
+
+763
+00:31:09.970 --> 00:31:10.430
+d'ancrage.
+
+764
+00:31:10.810 --> 00:31:11.610
+Cela veut dire qu'il y a plus
+
+765
+00:31:11.610 --> 00:31:14.090
+de polymorphismes et plus de possibilités de présenter
+
+766
+00:31:14.090 --> 00:31:18.070
+l'antigène de façon variée à l'infosidité.
+
+767
+00:31:19.310 --> 00:31:20.730
+Maintenant, l'expression par ce qu'on a
+
+768
+00:31:20.730 --> 00:31:22.450
+parlé des gènes qui codent et après on
+
+769
+00:31:22.450 --> 00:31:24.490
+se retrouve avec des molécules de surface ou
+
+770
+00:31:24.490 --> 00:31:25.390
+bien des tissus, etc.
+
+771
+00:31:26.030 --> 00:31:27.950
+Alors c'est important de connaître un petit
+
+772
+00:31:27.950 --> 00:31:30.550
+peu l'essentiel des modalités d'expression des
+
+773
+00:31:30.550 --> 00:31:31.190
+molécules HLA.
+
+774
+00:31:31.610 --> 00:31:34.130
+Premièrement, lorsqu'on regarde l'expression des molécules
+
+775
+00:31:34.130 --> 00:31:36.870
+HLA classe 1, retenez bien que ce sont
+
+776
+00:31:36.870 --> 00:31:40.230
+des molécules qui sont exprimées et qui existent
+
+777
+00:31:40.230 --> 00:31:42.650
+sur toutes les cellules nucléaires humaines.
+
+778
+00:31:43.370 --> 00:31:47.490
+Toutes les cellules qui ont un noyau possèdent
+
+779
+00:31:47.490 --> 00:31:49.470
+systématiquement des molécules HLA classe 1.
+
+780
+00:31:50.010 --> 00:31:52.250
+On parle d'expression ubiquitaire.
+
+781
+00:31:52.770 --> 00:31:55.250
+Bien évidemment, lorsqu'on regarde les autres tissus
+
+782
+00:31:55.250 --> 00:31:57.250
+ou même les cellules, il y a une
+
+783
+00:31:57.250 --> 00:31:59.730
+sorte d'expression qui soit variable en fonction
+
+784
+00:32:00.350 --> 00:32:01.630
+du type de la cellule.
+
+785
+00:32:02.190 --> 00:32:04.090
+On ne les exprime pas tous de la
+
+786
+00:32:04.090 --> 00:32:05.930
+même façon, ces molécules HLA.
+
+787
+00:32:06.370 --> 00:32:09.690
+Donc il y a une variation d'expression
+
+788
+00:32:09.690 --> 00:32:11.170
+en fonction de la nature de la cellule
+
+789
+00:32:11.170 --> 00:32:12.810
+et également de son état d'activation.
+
+790
+00:32:13.370 --> 00:32:15.630
+Plus la cellule est activée, plus elle exprime
+
+791
+00:32:16.790 --> 00:32:19.110
+fortement ces molécules HLA que la cellule.
+
+792
+00:32:19.110 --> 00:32:21.950
+On a retrouvé cette expression des molécules HLA
+
+793
+00:32:21.950 --> 00:32:24.770
+de façon faible au niveau de la péroïde,
+
+794
+00:32:24.870 --> 00:32:28.110
+du pancréas, des muscles cardiaques et apparemment une
+
+795
+00:32:28.110 --> 00:32:29.870
+existence au niveau de la cournée, des neurones,
+
+796
+00:32:29.950 --> 00:32:30.210
+etc.
+
+797
+00:32:30.810 --> 00:32:34.410
+Au niveau des hépatocytes, c'est variable.
+
+798
+00:32:34.630 --> 00:32:37.050
+Parfois c'est faible, parfois absent, etc.
+
+799
+00:32:38.970 --> 00:32:40.810
+Par exemple, tout ça, vous pouvez l'oublier,
+
+800
+00:32:41.010 --> 00:32:42.910
+mais la première notion qu'il faut retenir,
+
+801
+00:32:43.010 --> 00:32:46.090
+c'est que les molécules HLA sont forcément
+
+802
+00:32:46.090 --> 00:32:49.670
+à la surface des cellules nucléaires.
+
+803
+00:32:49.790 --> 00:32:52.050
+Toutes ces cellules nucléaires possèdent des molécules HLA.
+
+804
+00:32:52.250 --> 00:32:54.170
+Deuxièmement, vous avez ici ce qui est important.
+
+805
+00:32:54.910 --> 00:32:58.650
+Je vais maintenant focaliser sur les molécules HLA
+
+806
+00:32:58.650 --> 00:32:58.790
+-G.
+
+807
+00:32:58.890 --> 00:33:01.630
+Rappelez-vous, on l'avait défini comme des
+
+808
+00:33:01.630 --> 00:33:04.190
+molécules HLA non classiques.
+
+809
+00:33:04.950 --> 00:33:08.710
+Le G particulièrement s'exprime au niveau du
+
+810
+00:33:08.710 --> 00:33:10.970
+trophoblast et de la membrane amniotique.
+
+811
+00:33:11.110 --> 00:33:11.950
+Pourquoi ?
+
+812
+00:33:11.950 --> 00:33:13.250
+Vous allez voir la fonction.
+
+813
+00:33:13.810 --> 00:33:16.130
+Ils vont permettre un petit peu de tolérer
+
+814
+00:33:17.230 --> 00:33:20.830
+soi-disant la grandeur Vous avez l'HLA
+
+815
+00:33:21.850 --> 00:33:23.950
+forcément entre le père et la maman.
+
+816
+00:33:24.730 --> 00:33:26.270
+Ce n'est pas toujours le même HLA.
+
+817
+00:33:26.990 --> 00:33:27.600
+C'est la nature.
+
+818
+00:33:28.850 --> 00:33:32.490
+Donc, puisque cette diversité de HLA existe entre
+
+819
+00:33:32.490 --> 00:33:35.370
+les individus, j'imagine que les molécules HLA
+
+820
+00:33:35.370 --> 00:33:38.430
+d'un foetus est différente de la maman
+
+821
+00:33:38.430 --> 00:33:41.730
+qui a, soi-disant, la grandeur.
+
+822
+00:33:41.830 --> 00:33:45.070
+Du coup, si on raisonne l'acceptabilité, on
+
+823
+00:33:45.070 --> 00:33:47.030
+va dire qu'il y a des molécules
+
+824
+00:33:47.030 --> 00:33:47.930
+HLA qui diffèrent.
+
+825
+00:33:48.110 --> 00:33:49.690
+On parle d'une semigraphe, on va dire.
+
+826
+00:33:50.110 --> 00:33:52.150
+Donc, si les molécules HLA ne sont pas
+
+827
+00:33:52.150 --> 00:33:55.210
+identiques, ça veut dire que cette grossesse va
+
+828
+00:33:55.210 --> 00:33:55.910
+être rejetée.
+
+829
+00:33:56.590 --> 00:33:58.450
+C'est d'où l'intérêt de la
+
+830
+00:33:58.450 --> 00:33:59.750
+présence de ces molécules HLA.
+
+831
+00:34:00.030 --> 00:34:04.890
+Ces HLA vont participer à l'acceptabilité, à
+
+832
+00:34:04.890 --> 00:34:09.370
+la tolérance de cette grossesse, on va dire,
+
+833
+00:34:09.469 --> 00:34:11.969
+parce qu'ils sont exprimés correctement sur le
+
+834
+00:34:11.969 --> 00:34:12.429
+trophoblast.
+
+835
+00:34:12.469 --> 00:34:16.429
+Ils ont un rôle donc dans l'acceptabilité
+
+836
+00:34:16.429 --> 00:34:18.989
+et dans la réussite de la grossesse.
+
+837
+00:34:20.670 --> 00:34:22.690
+Alors, par contre, les molécules HLA classe 2,
+
+838
+00:34:22.750 --> 00:34:24.909
+vous allez voir qu'ils ont une distribution
+
+839
+00:34:24.909 --> 00:34:26.610
+qui est restreinte à quoi ?
+
+840
+00:34:26.610 --> 00:34:31.710
+Restreinte aux cellules professionnelles de présentation de l
+
+841
+00:34:31.710 --> 00:34:34.489
+'antigène, les CPA professionnelles, rappelez-vous, les cellules
+
+842
+00:34:34.489 --> 00:34:38.290
+ombritiques, les lymphocytopées, les monocytes macrophages, mais également
+
+843
+00:34:38.290 --> 00:34:39.790
+les cellules épithélial-tymiques.
+
+844
+00:34:39.989 --> 00:34:41.590
+Vous vous rappelez, lorsqu'on avait parlé des
+
+845
+00:34:41.590 --> 00:34:47.070
+cellules, donc, pour assurer la maturation des thémocytes
+
+846
+00:34:47.070 --> 00:34:51.510
+on a besoin absolument pour pouvoir exprimer le
+
+847
+00:34:51.510 --> 00:34:54.489
+CDK-CD8, donc, c'est leur interaction, l
+
+848
+00:34:54.489 --> 00:34:56.290
+'interaction de ces molécules HLA, je veux dire,
+
+849
+00:34:56.610 --> 00:34:59.170
+CDK-CD8 avec les molécules HLA classe 1
+
+850
+00:34:59.170 --> 00:35:01.310
+et classe 2 par les cellules épithélial-tymiques
+
+851
+00:35:01.310 --> 00:35:04.650
+qu'on aura la possibilité d'avancement de
+
+852
+00:35:04.650 --> 00:35:07.950
+la continuité de la maturation de ces thémocytes.
+
+853
+00:35:08.270 --> 00:35:09.170
+Autrement dit, s'il n'y a pas
+
+854
+00:35:09.170 --> 00:35:12.370
+de molécules HLA sur ces cellules épithéliales cortical
+
+855
+00:35:12.370 --> 00:35:14.590
+-tymiques, on n'aura pas la possibilité d
+
+856
+00:35:14.590 --> 00:35:16.870
+'individualiser ce qu'on appelle des thémocytes double
+
+857
+00:35:16.870 --> 00:35:17.610
+positifs.
+
+858
+00:35:17.970 --> 00:35:19.990
+J'avais bien parlé de ça et décrit
+
+859
+00:35:19.990 --> 00:35:22.590
+dans le détail par rapport au processus de
+
+860
+00:35:22.590 --> 00:35:25.230
+maturation centrale des thémocytes.
+
+861
+00:35:26.370 --> 00:35:29.910
+Deuxièmement, troisièmement, on va dire, on a retrouvé
+
+862
+00:35:29.910 --> 00:35:32.490
+aussi la présence des molécules HLA sur les
+
+863
+00:35:32.490 --> 00:35:33.390
+cellules déactivées.
+
+864
+00:35:33.970 --> 00:35:39.050
+Normalement, les lymphocytes ne présentent pas soi-disant
+
+865
+00:35:39.050 --> 00:35:43.350
+de façon normale comme ça, classique, de façon
+
+866
+00:35:43.350 --> 00:35:47.010
+constitutionnelle, spontanée, les molécules HLA classe 2.
+
+867
+00:35:47.130 --> 00:35:48.930
+Mais lorsqu'elles s'activent, elles ont la
+
+868
+00:35:48.930 --> 00:35:51.270
+possibilité de faire apparaître des molécules HLA classe
+
+869
+00:35:51.270 --> 00:35:51.550
+2.
+
+870
+00:35:51.910 --> 00:35:53.850
+Et puis, en dernier, vous avez ce qu
+
+871
+00:35:53.850 --> 00:35:55.930
+'on appelle les cellules endothéliales activées.
+
+872
+00:35:56.890 --> 00:36:00.090
+Alors, les cellules endothéliales activées, pourquoi ?
+
+873
+00:36:00.090 --> 00:36:02.950
+Vous savez que lors d'un passage d
+
+874
+00:36:02.950 --> 00:36:06.610
+'un agent pathogène, on contacte avec les cellules
+
+875
+00:36:06.610 --> 00:36:09.230
+endothéliales d'un vaisseau, il y a parfois
+
+876
+00:36:09.870 --> 00:36:12.070
+sur les migrations des cellules endothéliales, il y
+
+877
+00:36:12.070 --> 00:36:15.190
+a l'accrochage de bactéries ou de virus
+
+878
+00:36:15.190 --> 00:36:16.370
+sur les cellules endothéliales.
+
+879
+00:36:16.550 --> 00:36:17.670
+Et la cellule endothéliale, qu'est-ce qu
+
+880
+00:36:17.670 --> 00:36:18.450
+'elle fait ?
+
+881
+00:36:18.450 --> 00:36:20.530
+Donc, elle participe à la présentation de l
+
+882
+00:36:20.530 --> 00:36:25.090
+'antigène auquel elle est en contact pour alerter
+
+883
+00:36:25.090 --> 00:36:26.610
+le système immunitaire, c'est-à-dire pour
+
+884
+00:36:26.610 --> 00:36:27.430
+alerter les lymphocytes.
+
+885
+00:36:27.690 --> 00:36:30.430
+Donc, elle se comporte comme une cellule présentatrice,
+
+886
+00:36:30.550 --> 00:36:31.530
+on va dire professionnelle.
+
+887
+00:36:32.110 --> 00:36:35.550
+Donc, elle fait apparaître les molécules HLA sur
+
+888
+00:36:35.550 --> 00:36:35.930
+la surface.
+
+889
+00:36:35.930 --> 00:36:38.790
+Il va utiliser des molécules d'adhésion qui
+
+890
+00:36:38.790 --> 00:36:40.170
+vont permettre à cette cellule endothéliale de se
+
+891
+00:36:40.170 --> 00:36:42.790
+comporter comme une cellule présentatrice pour communiquer avec
+
+892
+00:36:42.790 --> 00:36:43.270
+les lymphocytes.
+
+893
+00:36:43.470 --> 00:36:45.710
+D'où l'intérêt de la présence de
+
+894
+00:36:45.710 --> 00:36:48.550
+ces molécules HLA classe 2 sur ces cellules.
+
+895
+00:36:48.990 --> 00:36:51.630
+Par contre, je vous demanderai de retenir les
+
+896
+00:36:51.630 --> 00:36:54.590
+cellules qui expriment ces molécules HLA classe 2
+
+897
+00:36:54.590 --> 00:36:55.790
+parce que c'est facile à retenir.
+
+898
+00:36:56.190 --> 00:36:59.770
+Un, les trois cellules du professionnel, vous avez
+
+899
+00:36:59.770 --> 00:37:03.290
+les cellules épithéliales thymiques verticales, les cellules T
+
+900
+00:37:03.290 --> 00:37:05.250
+-activées et les cellules endothéliales.
+
+901
+00:37:05.710 --> 00:37:07.230
+On a mis en évidence également, ça c
+
+902
+00:37:07.230 --> 00:37:09.070
+'est un détail, vous oubliez, on a mis
+
+903
+00:37:09.070 --> 00:37:11.330
+en évidence la présence de molécules HLA solubles
+
+904
+00:37:11.330 --> 00:37:14.550
+sur plusieurs niveaux, au niveau du sang, les
+
+905
+00:37:14.550 --> 00:37:15.430
+sécrétions, etc.
+
+906
+00:37:16.250 --> 00:37:19.250
+Donc, ils sont, justement, surtout lorsqu'il s
+
+907
+00:37:19.250 --> 00:37:20.550
+'agit d'inflammations, d'infections.
+
+908
+00:37:22.870 --> 00:37:24.990
+quelque part, ils participent aussi à montrer des
+
+909
+00:37:24.990 --> 00:37:28.110
+antigènes dans la circulation des lymphocytes et pour
+
+910
+00:37:28.110 --> 00:37:30.730
+faciliter, soi-disant, le recrutement des lymphocytes et
+
+911
+00:37:30.730 --> 00:37:32.310
+donc, une réponse immunitaire adaptée.
+
+912
+00:37:32.930 --> 00:37:34.370
+Donc, par contre, lorsqu'il s'agit de
+
+913
+00:37:34.370 --> 00:37:37.150
+cancers, les cancers, généralement, ils induisent, ils déplaitent
+
+914
+00:37:37.150 --> 00:37:38.470
+l'expression des molécules HLA.
+
+915
+00:37:38.710 --> 00:37:40.070
+Donc, les cancers, c'est ça.
+
+916
+00:37:40.390 --> 00:37:43.070
+Pour échapper au contrôle du système immunitaire, ils
+
+917
+00:37:43.070 --> 00:37:46.390
+essayent de cacher ou d'empêcher l'expression
+
+918
+00:37:46.390 --> 00:37:49.510
+normale de ces molécules HLA pour dérouter le
+
+919
+00:37:49.510 --> 00:37:51.710
+système immunitaire pour ne pas les contrôler.
+
+920
+00:37:51.850 --> 00:37:53.910
+Ça, c'est une limite un petit peu
+
+921
+00:37:53.910 --> 00:37:55.930
+du système immunitaire par rapport au cancer.
+
+922
+00:37:56.090 --> 00:37:57.370
+C'est pourquoi vous avez des cancers qui
+
+923
+00:37:57.370 --> 00:38:00.990
+évoluent rapidement et ne sont pas toujours contrôlés
+
+924
+00:38:00.990 --> 00:38:03.470
+par les lymphocytes et par le système immunitaire.
+
+925
+00:38:03.670 --> 00:38:04.310
+Il me semble qu'il y a une
+
+926
+00:38:04.310 --> 00:38:04.650
+question.
+
+927
+00:38:05.770 --> 00:38:08.090
+Pour les cellules activées, vous voulez dire les
+
+928
+00:38:08.090 --> 00:38:10.530
+lymphocytes qui sont naïfs ?
+
+929
+00:38:10.530 --> 00:38:11.130
+Oui, tout à fait.
+
+930
+00:38:11.290 --> 00:38:12.790
+Une lymphocyte activée n'est pas une machine
+
+931
+00:38:12.790 --> 00:38:13.170
+naïve.
+
+932
+00:38:13.870 --> 00:38:15.510
+Un lymphocyté, ça veut dire activé, il a
+
+933
+00:38:15.510 --> 00:38:17.610
+déjà reconnu un antigène donc il va s
+
+934
+00:38:17.610 --> 00:38:20.590
+'activer, se différencier en lymphocytes activés, CTL, etc.
+
+935
+00:38:21.450 --> 00:38:22.470
+Donc, c'est ça un petit peu ce
+
+936
+00:38:22.470 --> 00:38:23.570
+qu'on appelle la lymphocyte activée.
+
+937
+00:38:23.850 --> 00:38:25.090
+Une fois qu'il a reconnu l'antigène,
+
+938
+00:38:25.930 --> 00:38:26.190
+c'est ça.
+
+939
+00:38:26.330 --> 00:38:27.850
+Le rôle de ces molécules-là chez la
+
+940
+00:38:27.850 --> 00:38:30.130
+classe Don dans ce cas-là n'est
+
+941
+00:38:30.130 --> 00:38:31.810
+pas très bien connu mais c'est un
+
+942
+00:38:31.810 --> 00:38:33.210
+petit détail on va dire d'immunologie.
+
+943
+00:38:33.630 --> 00:38:34.650
+D'accord ?
+
+944
+00:38:36.670 --> 00:38:37.810
+c'est bon ?
+
+945
+00:38:37.810 --> 00:38:41.370
+Alors, maintenant par rapport à la synthèse, excusez
+
+946
+00:38:41.370 --> 00:38:43.290
+-moi, je vais juste fermer la porte parce
+
+947
+00:38:43.290 --> 00:38:44.530
+qu'il y a un peu de bruit.
+
+948
+00:38:57.710 --> 00:38:58.310
+Comme ça, ça va.
+
+949
+00:38:59.010 --> 00:39:00.510
+J'ai un petit pot avec vous aussi.
+
+950
+00:39:03.310 --> 00:39:05.390
+C'est bon, j'avance ?
+
+951
+00:39:05.390 --> 00:39:05.990
+Monsieur ?
+
+952
+00:39:05.990 --> 00:39:07.050
+Oui ?
+
+953
+00:39:07.050 --> 00:39:08.010
+Monsieur, j'ai une question s'il vous
+
+954
+00:39:08.010 --> 00:39:08.170
+plaît.
+
+955
+00:39:08.530 --> 00:39:08.950
+Allez-y.
+
+956
+00:39:09.370 --> 00:39:12.410
+Monsieur, notre système immunitaire en temps normal, il
+
+957
+00:39:12.410 --> 00:39:13.810
+combat les cellules ?
+
+958
+00:39:13.810 --> 00:39:14.430
+Oui, oui.
+
+959
+00:39:15.530 --> 00:39:17.410
+Le contexte exactement, ils vont lui échapper.
+
+960
+00:39:17.830 --> 00:39:19.110
+Il combat ?
+
+961
+00:39:19.110 --> 00:39:20.470
+Il reconnaît ou il combat ?
+
+962
+00:39:20.470 --> 00:39:21.650
+Je n'ai pas bien compris la question.
+
+963
+00:39:23.950 --> 00:39:25.750
+Ce contexte exactement n'a un concern.
+
+964
+00:39:26.410 --> 00:39:26.970
+Ah d'accord.
+
+965
+00:39:27.470 --> 00:39:29.030
+Écoutez, vous anticipez sur une question.
+
+966
+00:39:31.190 --> 00:39:33.530
+Écoutez, le concern, c'est la quatrième année
+
+967
+00:39:33.530 --> 00:39:34.550
+que vous allez voir ce qu'on appelle
+
+968
+00:39:34.550 --> 00:39:37.530
+un chapitre, l'immunité anti-tumoral.
+
+969
+00:39:38.650 --> 00:39:40.790
+Dans ce cas-là, vous aurez, disons, le
+
+970
+00:39:40.790 --> 00:39:42.950
+détail par rapport au comportement du système immunitaire
+
+971
+00:39:42.950 --> 00:39:43.610
+vis-à-vis du cancer.
+
+972
+00:39:44.370 --> 00:39:46.010
+Regardez ce que je vous ai dit initialement
+
+973
+00:39:46.010 --> 00:39:48.570
+par rapport à l'immunité innée, il y
+
+974
+00:39:48.570 --> 00:39:49.970
+a déjà les cellules NK, il y a
+
+975
+00:39:49.970 --> 00:39:51.590
+l'infosite cytotoxique, etc.
+
+976
+00:39:52.250 --> 00:39:54.970
+Donc les cellules NK, par exemple, elles regardent
+
+977
+00:39:54.970 --> 00:39:56.710
+les molécules H1, est-ce qu'elles sont
+
+978
+00:39:56.710 --> 00:39:59.170
+bien exprimées ou pas par une cellule normale
+
+979
+00:39:59.170 --> 00:39:59.870
+?
+
+980
+00:39:59.870 --> 00:40:01.930
+Ça veut dire que si les cellules NK
+
+981
+00:40:01.930 --> 00:40:03.370
+détectent qu'il y a une absence ou
+
+982
+00:40:03.370 --> 00:40:05.050
+qu'il y a une faible expression des
+
+983
+00:40:05.050 --> 00:40:07.090
+molécules HLA par une cellule, ça veut dire
+
+984
+00:40:07.090 --> 00:40:10.870
+que cette cellule peut potentiellement abriter un cancer.
+
+985
+00:40:11.010 --> 00:40:13.930
+Donc il va détruire cette cellule pour prévenir
+
+986
+00:40:13.930 --> 00:40:14.890
+le développement d'un cancer.
+
+987
+00:40:15.110 --> 00:40:17.290
+Mais c'est un mécanisme parmi d'autres.
+
+988
+00:40:18.230 --> 00:40:19.330
+Après, bien sûr, il y a des cancers
+
+989
+00:40:19.330 --> 00:40:21.130
+qui échappent facilement au système immunitaire.
+
+990
+00:40:22.450 --> 00:40:25.550
+Donc gardez-vous cette question qui mène à
+
+991
+00:40:25.550 --> 00:40:27.790
+un petit peu de curiosité scientifique avec l
+
+992
+00:40:27.790 --> 00:40:29.090
+'ALEC, mais c'est des choses qu'on
+
+993
+00:40:29.090 --> 00:40:30.930
+va devoir expliquer lorsqu'on va aborder ça
+
+994
+00:40:30.930 --> 00:40:33.750
+en quatrième année, lors du chapitre correspondant aux
+
+995
+00:40:33.750 --> 00:40:34.510
+immunopathologies.
+
+996
+00:40:35.750 --> 00:40:38.210
+Après, si vous voulez, on peut laisser les
+
+997
+00:40:38.210 --> 00:40:41.870
+questions à la fin de la présentation et
+
+998
+00:40:41.870 --> 00:40:43.930
+voilà, on peut répondre à vos questions.
+
+999
+00:40:44.830 --> 00:40:47.450
+Bien, alors, je disais que la synthèse, je
+
+1000
+00:40:47.450 --> 00:40:49.470
+ne vais pas m'attarder sur le détail,
+
+1001
+00:40:49.850 --> 00:40:50.950
+mais il faut que vous sachiez qu'est
+
+1002
+00:40:50.950 --> 00:40:53.650
+-ce qui diffère en termes de synthèse des
+
+1003
+00:40:53.650 --> 00:40:55.330
+molécules HLA entre la classe 1 et la
+
+1004
+00:40:55.330 --> 00:40:55.610
+classe 2.
+
+1005
+00:40:56.170 --> 00:40:58.830
+Regardez ici les molécules HLA, vous êtes ici
+
+1006
+00:40:58.830 --> 00:41:03.530
+devant au niveau du réticulant endoplasmique, et vous
+
+1007
+00:41:03.530 --> 00:41:06.550
+avez des gènes qui ont déjà codé, ici
+
+1008
+00:41:06.550 --> 00:41:07.970
+on parle de molécules HLA classe 1, et
+
+1009
+00:41:07.970 --> 00:41:10.450
+l'intervention des chromosomes 6 et du chromosome
+
+1010
+00:41:10.450 --> 00:41:11.450
+15, vous vous rappelez.
+
+1011
+00:41:11.930 --> 00:41:15.970
+Vous avez le trimère avec alpha 1, alpha
+
+1012
+00:41:15.970 --> 00:41:18.230
+2, alpha 3, d'accord, qui est en
+
+1013
+00:41:18.230 --> 00:41:19.590
+premier qui est la boubée.
+
+1014
+00:41:20.230 --> 00:41:23.410
+Donc, à chaque fois que cette molécule HLA
+
+1015
+00:41:23.410 --> 00:41:24.550
+est produite, des gènes qui sont déjà au
+
+1016
+00:41:24.550 --> 00:41:27.470
+niveau de la première chaîne qui est principale,
+
+1017
+00:41:28.050 --> 00:41:31.150
+le trimère, il va s'y associer une
+
+1018
+00:41:31.150 --> 00:41:34.350
+molécule qu'on appelle une molécule chaperon, qu
+
+1019
+00:41:34.350 --> 00:41:35.650
+'on appelle la calnyxine.
+
+1020
+00:41:36.330 --> 00:41:39.210
+Il va s'y associer à ce trimère
+
+1021
+00:41:39.210 --> 00:41:42.970
+alpha pour essayer de permettre de la maturation
+
+1022
+00:41:42.970 --> 00:41:45.950
+en attendant aussi l'arrivée de la deuxième
+
+1023
+00:41:45.950 --> 00:41:48.930
+molécule qui entre dans la structure de ces
+
+1024
+00:41:48.930 --> 00:41:50.870
+molécules HLA classe 1 qui est la beta
+
+1025
+00:41:50.870 --> 00:41:52.870
+2 microglobuline parce qu'elle est produite ailleurs,
+
+1026
+00:41:53.030 --> 00:41:54.490
+c'est-à-dire codée par le chromosome
+
+1027
+00:41:54.490 --> 00:41:55.050
+15.
+
+1028
+00:41:55.670 --> 00:41:59.070
+Vous avez donc ici, la calnyxine va permettre
+
+1029
+00:41:59.070 --> 00:42:04.570
+une étape intermédiaire initiale pour permettre l'assemblage
+
+1030
+00:42:04.570 --> 00:42:06.710
+de la structure alpha 1, alpha 2, alpha
+
+1031
+00:42:06.710 --> 00:42:08.610
+3 avec la beta 2 microglobuline.
+
+1032
+00:42:09.450 --> 00:42:13.090
+Après, cette calnyxine va disparaître et va laisser
+
+1033
+00:42:13.090 --> 00:42:15.610
+la place à un deuxième complexe qu'on
+
+1034
+00:42:15.610 --> 00:42:17.890
+appelle calrétituline tapasine.
+
+1035
+00:42:18.490 --> 00:42:19.210
+C'est ce que vous voyez ici.
+
+1036
+00:42:19.650 --> 00:42:22.590
+Il va s'y associer au, disons, binôme
+
+1037
+00:42:22.590 --> 00:42:25.790
+alpha et beta 2 microglobuline après le clivage
+
+1038
+00:42:25.790 --> 00:42:26.910
+de la calnyxine.
+
+1039
+00:42:27.510 --> 00:42:30.230
+Et après, regardez ici, l'objectif de ces
+
+1040
+00:42:30.230 --> 00:42:32.650
+molécules HLA est pratiquement prêt.
+
+1041
+00:42:33.870 --> 00:42:35.330
+Donc, il faut un peptide.
+
+1042
+00:42:36.170 --> 00:42:37.650
+Les molécules HLA classe 1, on l'a
+
+1043
+00:42:37.650 --> 00:42:41.350
+dit, vont prendre en charge un peptide intracellulaire
+
+1044
+00:42:41.350 --> 00:42:46.410
+soit qui émane d'un pathogène à développement
+
+1045
+00:42:46.410 --> 00:42:49.590
+intracellulaire comme un virus ou une bactérie intracellulaire
+
+1046
+00:42:49.590 --> 00:42:56.270
+ou bien un antigène qui appartient à la
+
+1047
+00:42:56.270 --> 00:42:56.930
+cellule elle-même.
+
+1048
+00:42:57.270 --> 00:42:59.590
+Imaginez que cette cellule maternelle est une cellule
+
+1049
+00:42:59.590 --> 00:43:02.470
+normale qui doit disparaître parce qu'elle a
+
+1050
+00:43:02.470 --> 00:43:03.970
+fini sa demi-vie.
+
+1051
+00:43:04.430 --> 00:43:06.490
+Et pour disparaître, il va tout simplement charger
+
+1052
+00:43:06.490 --> 00:43:10.250
+ses propres protéines, ses propres peptides dans la
+
+1053
+00:43:10.250 --> 00:43:12.090
+molécule HLA classe 1 pour, au moins, montrer
+
+1054
+00:43:12.090 --> 00:43:13.390
+à l'info si c'est toxique.
+
+1055
+00:43:13.510 --> 00:43:14.450
+Donc, il va suivre ce qu'on appelle
+
+1056
+00:43:14.450 --> 00:43:15.090
+de la peptose.
+
+1057
+00:43:15.690 --> 00:43:20.170
+Donc, ici, pour charger le peptide intracellulaire hondo
+
+1058
+00:43:20.170 --> 00:43:23.510
+-antigène sur les molécules HLA qui viennent d
+
+1059
+00:43:23.510 --> 00:43:25.530
+'être synthétisées, on a besoin de ce qu
+
+1060
+00:43:25.530 --> 00:43:27.150
+'on appelle un transporteur de peptides que vous
+
+1061
+00:43:27.150 --> 00:43:27.650
+voyez ici.
+
+1062
+00:43:28.110 --> 00:43:29.730
+Vous avez des peptides qui traînent.
+
+1063
+00:43:30.150 --> 00:43:32.110
+On doit les charger sur les molécules HLA.
+
+1064
+00:43:32.350 --> 00:43:34.030
+On a besoin d'un transporteur de peptides
+
+1065
+00:43:34.030 --> 00:43:34.570
+que vous voyez ici.
+
+1066
+00:43:34.930 --> 00:43:38.470
+Il va tout simplement intégrer ces peptides au
+
+1067
+00:43:38.470 --> 00:43:41.630
+niveau du reticulum endoplasmique pour les insérer sur
+
+1068
+00:43:41.630 --> 00:43:45.650
+la zone d'ancrage de la molécule HLA
+
+1069
+00:43:45.650 --> 00:43:46.050
+classe 1.
+
+1070
+00:43:46.110 --> 00:43:48.690
+Après quoi, ces molécules HLA avec leurs peptides
+
+1071
+00:43:48.690 --> 00:43:52.870
+vont sortir du reticulum endoplasmique, aller se glycosyler
+
+1072
+00:43:52.870 --> 00:43:54.990
+au niveau de l'appareil de Golgi.
+
+1073
+00:43:55.130 --> 00:43:57.690
+Après, ils vont quitter, ils vont voyager pour
+
+1074
+00:43:57.690 --> 00:44:00.050
+aller à la surface de la cellule.
+
+1075
+00:44:00.690 --> 00:44:02.110
+Vous voyez, tout ça est prêt avec l
+
+1076
+00:44:02.110 --> 00:44:02.530
+'antigène.
+
+1077
+00:44:02.770 --> 00:44:03.510
+Qu'est-ce qu'ils attendent ?
+
+1078
+00:44:03.510 --> 00:44:06.950
+Tout simplement un contact avec une lymphocytée si
+
+1079
+00:44:06.950 --> 00:44:08.890
+c'est toxique ou là, un CD8.
+
+1080
+00:44:09.370 --> 00:44:12.190
+Maintenant, pour les molécules HLA classe 2, retenez
+
+1081
+00:44:12.190 --> 00:44:13.570
+bien pour tout à l'heure, ce sont
+
+1082
+00:44:13.570 --> 00:44:16.370
+ce qu'on appelle je reviens les calmyxines
+
+1083
+00:44:17.010 --> 00:44:19.950
+et les complexes reticulum tapasine on les appelle
+
+1084
+00:44:19.950 --> 00:44:21.150
+des molécules chaperons.
+
+1085
+00:44:21.590 --> 00:44:23.430
+D'ailleurs, l'appellation qui l'aurait attribuée,
+
+1086
+00:44:23.870 --> 00:44:25.410
+ce sont des molécules dites chaperons.
+
+1087
+00:44:25.710 --> 00:44:26.370
+D'accord ?
+
+1088
+00:44:27.150 --> 00:44:30.630
+Par rapport aux molécules HLA classe 2, de
+
+1089
+00:44:30.630 --> 00:44:33.090
+la même façon, ce qui diffère bien évidemment,
+
+1090
+00:44:33.210 --> 00:44:35.070
+vous avez reconnu la chaîne alpha et la
+
+1091
+00:44:35.070 --> 00:44:36.450
+chaîne bêta, l'hétérodimère.
+
+1092
+00:44:37.010 --> 00:44:38.370
+Il y a ici le reticulum endoplasmique.
+
+1093
+00:44:39.990 --> 00:44:43.630
+Vous avez ici, rapidement, vous avez une chaîne,
+
+1094
+00:44:43.690 --> 00:44:46.930
+ce qu'on appelle laï, chaîne invariante.
+
+1095
+00:44:47.370 --> 00:44:48.170
+Qu'est-ce qu'il va faire cette
+
+1096
+00:44:48.170 --> 00:44:49.270
+chaîne laï ?
+
+1097
+00:44:49.270 --> 00:44:52.910
+Il va essayer de protéger la niche ou
+
+1098
+00:44:52.910 --> 00:44:54.850
+la zone d'ancrage de ces molécules HLA.
+
+1099
+00:44:55.870 --> 00:44:56.810
+D'accord ?
+
+1100
+00:44:56.810 --> 00:45:00.250
+Alors, pour faire le lien, pour comprendre l
+
+1101
+00:45:00.250 --> 00:45:03.450
+'intérêt de cette chaîne laï, ici, les molécules
+
+1102
+00:45:03.450 --> 00:45:05.050
+HLA classe 2, parce qu'elles doivent prendre
+
+1103
+00:45:05.050 --> 00:45:07.250
+en charge un antigène qui vient de l
+
+1104
+00:45:07.250 --> 00:45:09.450
+'extérieur, un X-antigène.
+
+1105
+00:45:10.170 --> 00:45:12.330
+Donc, il faut protéger la niche pour ne
+
+1106
+00:45:12.330 --> 00:45:15.030
+pas permettre ou là, pour ne pas faire
+
+1107
+00:45:15.030 --> 00:45:17.210
+l'objet d'insertion d'un peptide endogène.
+
+1108
+00:45:17.450 --> 00:45:19.510
+Imaginez qu'il y a des protéines qui
+
+1109
+00:45:19.510 --> 00:45:21.590
+traînent à ce niveau-là, qui appartiennent à
+
+1110
+00:45:21.590 --> 00:45:21.970
+la cellule.
+
+1111
+00:45:22.410 --> 00:45:25.210
+S'ils se chargent par erreur au niveau
+
+1112
+00:45:25.210 --> 00:45:27.470
+de ces molécules HLA ici, donc, ils vont
+
+1113
+00:45:27.470 --> 00:45:29.070
+induire le système immunitaire en erreur.
+
+1114
+00:45:29.250 --> 00:45:30.690
+Parce que le rôle de ces molécules HLA
+
+1115
+00:45:30.690 --> 00:45:34.070
+classe 2, c'est de présenter des antigènes
+
+1116
+00:45:34.070 --> 00:45:36.490
+exogènes à la fossilité CD4.
+
+1117
+00:45:37.070 --> 00:45:39.430
+Donc, vous avez l'association d'une chaîne
+
+1118
+00:45:39.430 --> 00:45:43.710
+laï assez théraudimère au niveau du reticulum endoplasmique.
+
+1119
+00:45:43.890 --> 00:45:46.570
+Après, ces molécules HLA vont passer au niveau
+
+1120
+00:45:46.570 --> 00:45:47.970
+de l'endosome.
+
+1121
+00:45:48.410 --> 00:45:50.770
+Il y a un endosome intra-cytoplasmique.
+
+1122
+00:45:51.430 --> 00:45:54.170
+Au niveau de cet endosome, on va se
+
+1123
+00:45:54.170 --> 00:45:56.870
+retrouver avec une deuxième chaîne qu'on appelle
+
+1124
+00:45:57.850 --> 00:45:58.850
+EM2C classique.
+
+1125
+00:45:59.490 --> 00:46:02.990
+Pardon, EM2C, ça veut dire le compartiment vésiculaire
+
+1126
+00:46:02.990 --> 00:46:06.030
+qui va abriter cette chaîne avec la chaîne
+
+1127
+00:46:06.030 --> 00:46:06.290
+laï.
+
+1128
+00:46:06.570 --> 00:46:07.770
+Après quoi, il y aura ce qu'on
+
+1129
+00:46:07.770 --> 00:46:09.650
+appelle un fond de bruit, s'il vous
+
+1130
+00:46:09.650 --> 00:46:09.810
+plaît.
+
+1131
+00:46:09.890 --> 00:46:11.530
+Quelqu'un qui a activé son micro.
+
+1132
+00:46:12.150 --> 00:46:14.150
+Le micro, s'il vous plaît.
+
+1133
+00:46:17.790 --> 00:46:21.750
+Alors, vous avez ici une deuxième chaîne qu
+
+1134
+00:46:21.750 --> 00:46:24.110
+'on appelle CLIP qui va s'associer à
+
+1135
+00:46:24.110 --> 00:46:25.810
+cette chaîne initialement laï.
+
+1136
+00:46:26.050 --> 00:46:26.690
+D'accord ?
+
+1137
+00:46:26.690 --> 00:46:28.630
+Parce que le CLIP, qu'est-ce qu
+
+1138
+00:46:28.630 --> 00:46:29.590
+'il va faire ?
+
+1139
+00:46:29.590 --> 00:46:32.670
+Il va s'associer initialement à la chaîne
+
+1140
+00:46:32.670 --> 00:46:36.450
+laï, mais après, il va protéger encore la
+
+1141
+00:46:36.450 --> 00:46:39.530
+chaîne laï dans le sion peptidique.
+
+1142
+00:46:39.750 --> 00:46:42.490
+Donc, laï va être associé ou la va
+
+1143
+00:46:42.490 --> 00:46:44.010
+s'associer ou la va être rejointe par
+
+1144
+00:46:44.010 --> 00:46:48.570
+la chaîne CLIP en attendant, justement, de charger
+
+1145
+00:46:48.570 --> 00:46:50.390
+le peptide exogène.
+
+1146
+00:46:50.950 --> 00:46:52.910
+Le peptide exogène est là, il vient d
+
+1147
+00:46:52.910 --> 00:46:54.710
+'arriver parce qu'il y a le relève
+
+1148
+00:46:54.710 --> 00:46:57.230
+d'un pathogène maintenant, une bactérie ou là,
+
+1149
+00:46:57.270 --> 00:46:59.850
+un virus extracellulaire qui vient d'être endocyté.
+
+1150
+00:47:00.290 --> 00:47:02.590
+Il est là, il est dans une vesicule,
+
+1151
+00:47:03.070 --> 00:47:04.470
+ce qu'on appelle endosomale.
+
+1152
+00:47:04.650 --> 00:47:07.850
+Donc, il va se charger sur la niche
+
+1153
+00:47:07.850 --> 00:47:09.870
+et sur la zone d'ancrage.
+
+1154
+00:47:10.710 --> 00:47:13.130
+avant de se charger, il faut qu'on
+
+1155
+00:47:13.130 --> 00:47:17.150
+aille le clivage de cette chaîne CLIP par
+
+1156
+00:47:17.150 --> 00:47:19.410
+une molécule qui s'appelle DM.
+
+1157
+00:47:20.230 --> 00:47:23.390
+DM, rappelez-vous, il fait partie des molécules
+
+1158
+00:47:23.390 --> 00:47:25.910
+ou des loci de la région classe 2.
+
+1159
+00:47:26.610 --> 00:47:27.990
+Ce qu'elle va faire, elle a la
+
+1160
+00:47:27.990 --> 00:47:31.050
+fonction de cliver la chaîne CLIP.
+
+1161
+00:47:31.730 --> 00:47:32.190
+D'accord ?
+
+1162
+00:47:32.190 --> 00:47:36.130
+Et comme ça, lorsque DM clive le CLIP
+
+1163
+00:47:36.670 --> 00:47:39.330
+qui était associé à la chaîne LY, d
+
+1164
+00:47:39.330 --> 00:47:39.790
+'accord ?
+
+1165
+00:47:39.790 --> 00:47:41.950
+Donc on aura, dans ce cas-là, la
+
+1166
+00:47:41.950 --> 00:47:44.910
+possibilité de charger les antigènes exogènes et comme
+
+1167
+00:47:44.910 --> 00:47:47.230
+ça, le HLA avec l'antigène exogène est
+
+1168
+00:47:47.230 --> 00:47:49.610
+chargé dessus et ils vont aussi voyager au
+
+1169
+00:47:49.610 --> 00:47:52.490
+niveau de l'appareil de Golgi et vous
+
+1170
+00:47:52.490 --> 00:47:54.870
+avez donc, après, à la fin, le voyage
+
+1171
+00:47:54.870 --> 00:47:56.890
+de ces molécules HLA classe 2 vers la
+
+1172
+00:47:56.890 --> 00:47:59.890
+surface pour présenter leur peptide à des lymphocytes
+
+1173
+00:47:59.890 --> 00:48:01.370
+TCD4, cette fois-ci.
+
+1174
+00:48:01.430 --> 00:48:02.570
+Tout à l'heure, c'était CD8, maintenant,
+
+1175
+00:48:02.750 --> 00:48:03.890
+c'est CD4.
+
+1176
+00:48:04.270 --> 00:48:06.530
+Voilà un petit peu comment la synthèse de
+
+1177
+00:48:06.530 --> 00:48:08.950
+ces molécules HLA classe 2 est différente de
+
+1178
+00:48:08.950 --> 00:48:12.150
+celle des molécules HLA classe 1 parce qu
+
+1179
+00:48:12.150 --> 00:48:13.930
+'il y a l'intervention de molécules qui
+
+1180
+00:48:13.930 --> 00:48:14.490
+sont différentes.
+
+1181
+00:48:14.610 --> 00:48:17.790
+Retenez bien, LY, puis CLIP, une baie de
+
+1182
+00:48:17.790 --> 00:48:21.070
+CLIP va être clivée par DM et comme
+
+1183
+00:48:21.070 --> 00:48:25.210
+ça, on aura le chargement des peptides exogènes.
+
+1184
+00:48:25.870 --> 00:48:27.970
+Alors, je disais qu'il y a, à
+
+1185
+00:48:27.970 --> 00:48:29.510
+côté de la synthèse, maintenant, on va parler
+
+1186
+00:48:29.510 --> 00:48:31.450
+de la fonction, la défonction.
+
+1187
+00:48:32.150 --> 00:48:34.730
+Alors, c'est facile à retenir, mais il
+
+1188
+00:48:34.730 --> 00:48:35.530
+faut juste comprendre.
+
+1189
+00:48:35.990 --> 00:48:41.270
+Alors, la première fonction des molécules HLA, c
+
+1190
+00:48:41.270 --> 00:48:43.150
+'est qu'elle participe à ce qu'on
+
+1191
+00:48:43.150 --> 00:48:47.410
+appelle la constitution du répertoire de reconnaissance des
+
+1192
+00:48:47.410 --> 00:48:49.890
+lymphocytes T, ou des thémocytes.
+
+1193
+00:48:50.630 --> 00:48:52.410
+Ça veut dire, regardez au niveau d'un
+
+1194
+00:48:52.410 --> 00:48:56.910
+thémus, vous reconnaissez les différentes zones, la zone
+
+1195
+00:48:56.910 --> 00:49:00.910
+corticale, la zone légale, la zone corticomédulaire et
+
+1196
+00:49:00.910 --> 00:49:01.610
+puis la médulaire.
+
+1197
+00:49:02.150 --> 00:49:04.530
+Alors, au niveau de la zone cortico-médulaire,
+
+1198
+00:49:04.870 --> 00:49:07.170
+corticale, je veux dire, j'ai dit tout
+
+1199
+00:49:07.170 --> 00:49:08.450
+à l'heure que les molécules HLA classe
+
+1200
+00:49:08.450 --> 00:49:12.370
+1 doivent être exprimées par les cellules epithéliales
+
+1201
+00:49:12.370 --> 00:49:12.870
+corticales.
+
+1202
+00:49:13.170 --> 00:49:13.850
+Rappelez-vous ça.
+
+1203
+00:49:14.310 --> 00:49:16.770
+Et donc, bien évidemment, on va retrouver aussi
+
+1204
+00:49:16.770 --> 00:49:18.090
+les HLA classe 1 et classe 2.
+
+1205
+00:49:18.910 --> 00:49:22.610
+Et on a aussi, ici, parce que ces
+
+1206
+00:49:22.610 --> 00:49:25.150
+molécules HLA classe 1 vont interférer ou interagir
+
+1207
+00:49:25.650 --> 00:49:29.750
+avec les molécules CDK CD4 et CD8.
+
+1208
+00:49:29.990 --> 00:49:32.650
+CD8 pour les HLA classe 1 et CD4
+
+1209
+00:49:32.650 --> 00:49:33.670
+pour les HLA classe 2.
+
+1210
+00:49:34.190 --> 00:49:38.650
+Donc, cette interaction va faciliter le passage de
+
+1211
+00:49:38.650 --> 00:49:41.270
+ces thémocytes qui étaient initialement double négatifs vers
+
+1212
+00:49:41.270 --> 00:49:42.610
+un stade double positif.
+
+1213
+00:49:42.790 --> 00:49:44.030
+Donc, ils vont participer à ce qu'on
+
+1214
+00:49:44.030 --> 00:49:45.790
+appelle la sélection positive.
+
+1215
+00:49:46.350 --> 00:49:48.270
+Donc, l'existence de ces molécules HLA classe
+
+1216
+00:49:48.270 --> 00:49:50.830
+1 et classe 2 au niveau du cortex,
+
+1217
+00:49:51.310 --> 00:49:54.710
+il y a un rôle dans la sélection
+
+1218
+00:49:54.710 --> 00:49:55.950
+positive des thémocytes.
+
+1219
+00:49:56.370 --> 00:49:59.550
+Après quoi, on va assister aussi à ces
+
+1220
+00:49:59.550 --> 00:50:02.430
+molécules HLA au niveau de la jonction cortico
+
+1221
+00:50:02.430 --> 00:50:05.510
+-modulaire parce que, tout simplement, ils vont participer
+
+1222
+00:50:05.510 --> 00:50:07.310
+au phénomène de sélection négative.
+
+1223
+00:50:07.650 --> 00:50:10.330
+Ils vont présenter les peptides du soie à
+
+1224
+00:50:10.330 --> 00:50:12.590
+des thémocytes CD4 et CD8.
+
+1225
+00:50:13.050 --> 00:50:16.210
+Et si les molécules HLA présentent soit des
+
+1226
+00:50:16.210 --> 00:50:20.110
+cellulophocytes ou des thémocytes reconnus de façon normale
+
+1227
+00:50:20.670 --> 00:50:23.110
+les antigènes du soie qui leur sont présentés
+
+1228
+00:50:23.110 --> 00:50:24.830
+au sein de ces molécules HLA classe 1
+
+1229
+00:50:24.830 --> 00:50:26.230
+et classe 2, dans ce cas-là le
+
+1230
+00:50:26.230 --> 00:50:27.810
+thémocyte va continuer sa maturation.
+
+1231
+00:50:28.330 --> 00:50:33.190
+Donc, pour passer en stade simple positif et
+
+1232
+00:50:33.190 --> 00:50:35.470
+aller vers les organes d'un fluide secondaire,
+
+1233
+00:50:35.570 --> 00:50:35.750
+etc.
+
+1234
+00:50:36.190 --> 00:50:38.610
+Voilà un petit peu le rôle de la
+
+1235
+00:50:38.610 --> 00:50:41.630
+présence de ces molécules HLA aussi bien pour
+
+1236
+00:50:41.630 --> 00:50:44.250
+la sélection positive que pour la sélection négative.
+
+1237
+00:50:44.410 --> 00:50:47.130
+Donc, ils vont intervenir à deux niveaux comme
+
+1238
+00:50:47.130 --> 00:50:51.450
+cellules, comme molécules participant à la sélection positive
+
+1239
+00:50:51.450 --> 00:50:54.130
+et aussi à la sélection négative parce qu
+
+1240
+00:50:54.130 --> 00:50:57.970
+'elles sont exprimées par les éodendritiques et c
+
+1241
+00:50:57.970 --> 00:50:59.550
+'est également les cellules corticales thémiques.
+
+1242
+00:50:59.790 --> 00:51:01.970
+Voilà la première fonction, c'est la constitution
+
+1243
+00:51:01.970 --> 00:51:05.370
+du répertoire des lymphocytes au niveau des thémuses.
+
+1244
+00:51:06.050 --> 00:51:09.630
+Deuxièmement, la présentation des antigènes.
+
+1245
+00:51:10.630 --> 00:51:13.710
+Alors, vous avez maintenant compris que ces molécules
+
+1246
+00:51:13.710 --> 00:51:17.990
+HLA sont indispensables pour activer le système interadaptatif.
+
+1247
+00:51:18.570 --> 00:51:19.290
+Donc, s'il n'y a pas de
+
+1248
+00:51:19.290 --> 00:51:21.010
+molécules HLA, on ne peut pas alerter ou
+
+1249
+00:51:21.010 --> 00:51:22.190
+on ne peut pas activer les antigènes lymphocytes
+
+1250
+00:51:22.190 --> 00:51:25.190
+pour induire soit une réponse humorale soit une
+
+1251
+00:51:25.190 --> 00:51:26.030
+réponse cellulaire.
+
+1252
+00:51:26.650 --> 00:51:28.230
+ce qu'il faut connaître ici, ce qui
+
+1253
+00:51:28.230 --> 00:51:31.890
+fait la différence, vous avez ici, par rapport
+
+1254
+00:51:31.890 --> 00:51:35.710
+aux celles qui présentent les antigènes aux lymphocytes
+
+1255
+00:51:35.710 --> 00:51:38.130
+CD8, ils vont s'occuper de présenter les
+
+1256
+00:51:38.130 --> 00:51:40.950
+antigènes endogènes et on va utiliser ce qu
+
+1257
+00:51:40.950 --> 00:51:43.010
+'on appelle une voie protéiasomique.
+
+1258
+00:51:43.890 --> 00:51:44.790
+Protéiasome, c'est ça.
+
+1259
+00:51:45.130 --> 00:51:47.330
+Vous avez ici une structure qui existe au
+
+1260
+00:51:47.330 --> 00:51:50.830
+niveau du cytoplasme d'une cellule dite CPA.
+
+1261
+00:51:51.630 --> 00:51:54.070
+Alors, cette cellule présente dans les antigènes, elle
+
+1262
+00:51:54.070 --> 00:51:56.210
+va prendre en charge soit un pathogène à
+
+1263
+00:51:56.210 --> 00:51:59.690
+développement intracellulaire type virus ou la bactérie intracellulaire,
+
+1264
+00:51:59.810 --> 00:52:02.670
+etc., soit également des protéines endogènes qui appartiennent
+
+1265
+00:52:02.670 --> 00:52:03.470
+à la cellule elle-même.
+
+1266
+00:52:04.030 --> 00:52:08.150
+Donc, ces antigènes, ils vont être dégradés et
+
+1267
+00:52:08.150 --> 00:52:09.790
+processés à l'aide de ce qu'on
+
+1268
+00:52:09.790 --> 00:52:12.130
+appelle une structure qui s'appelle le protéasome,
+
+1269
+00:52:12.270 --> 00:52:14.610
+d'où l'appellation voie protéiasomique.
+
+1270
+00:52:14.950 --> 00:52:17.190
+Le protéasome va équilibrer ces peptides pour les,
+
+1271
+00:52:17.190 --> 00:52:19.570
+après, les charger au sein de ces molécules
+
+1272
+00:52:19.570 --> 00:52:23.750
+HLA moyennant avec les transportants peptides, etc.
+
+1273
+00:52:24.210 --> 00:52:25.730
+Il va les charger sur les molécules HLA
+
+1274
+00:52:25.730 --> 00:52:28.390
+et ainsi les présenter directement vers un lymphocyte
+
+1275
+00:52:28.390 --> 00:52:28.850
+CD8.
+
+1276
+00:52:28.990 --> 00:52:30.610
+Donc, on a une voie qui est claire
+
+1277
+00:52:30.610 --> 00:52:32.090
+et qui est bien individualisée.
+
+1278
+00:52:32.510 --> 00:52:36.670
+La voie protéiasomique, donc, antigènes, ondogènes, vers les
+
+1279
+00:52:36.670 --> 00:52:38.190
+lymphocytes CD8.
+
+1280
+00:52:38.690 --> 00:52:40.410
+Le deuxième cas de figure, c'est que
+
+1281
+00:52:40.410 --> 00:52:42.330
+vous avez ici, lorsqu'on parle de molécules
+
+1282
+00:52:42.330 --> 00:52:46.090
+HLA classe 2, vous avez ici, on parle
+
+1283
+00:52:46.090 --> 00:52:48.510
+d'antigènes exogènes et leur destinée, c'est
+
+1284
+00:52:48.510 --> 00:52:49.710
+les lymphocytes TCD4.
+
+1285
+00:52:49.930 --> 00:52:51.410
+Cette fois, ils ne vont pas utiliser la
+
+1286
+00:52:51.410 --> 00:52:54.030
+voie protéiasomique mais plutôt la voie ondosomale.
+
+1287
+00:52:54.110 --> 00:52:56.390
+Vous avez une structure qui s'appelle ondosome
+
+1288
+00:52:56.390 --> 00:53:00.190
+qui va s'occuper de dégrader, de processer
+
+1289
+00:53:00.190 --> 00:53:03.170
+l'antigène exogène et donc, il va distinguer
+
+1290
+00:53:03.170 --> 00:53:05.650
+les peptides et ces peptides vont être chargés
+
+1291
+00:53:05.650 --> 00:53:07.750
+sur les molécules HLA classe 2 pour être
+
+1292
+00:53:07.750 --> 00:53:09.570
+reconnus par des lymphocytes TCD4.
+
+1293
+00:53:09.770 --> 00:53:12.570
+Voilà, c'est facile à faire cette orientation
+
+1294
+00:53:12.570 --> 00:53:15.850
+à travers ces molécules HLA classe 2.
+
+1295
+00:53:16.450 --> 00:53:20.370
+Maintenant, notre rôle qui est fondamental des molécules
+
+1296
+00:53:20.370 --> 00:53:24.250
+HLA, vous avez vu dans le chapitre de
+
+1297
+00:53:24.250 --> 00:53:26.850
+l'immunité innée que le CMH classe 1
+
+1298
+00:53:26.850 --> 00:53:29.450
+ou les molécules HLA classe 1 est important
+
+1299
+00:53:29.450 --> 00:53:31.450
+dans ce qu'on appelle l'immunosurveillance.
+
+1300
+00:53:32.250 --> 00:53:33.450
+Ça veut dire quoi ?
+
+1301
+00:53:33.450 --> 00:53:35.370
+Que les cellules NK, tout à l'heure,
+
+1302
+00:53:35.450 --> 00:53:39.210
+votre collègue a suscité l'intérêt par rapport
+
+1303
+00:53:39.210 --> 00:53:40.950
+aux HLA et concernent.
+
+1304
+00:53:41.370 --> 00:53:43.070
+Alors, on a compris que les molécules HLA
+
+1305
+00:53:43.070 --> 00:53:45.850
+exercent une sorte de protection des cellules ou
+
+1306
+00:53:45.850 --> 00:53:47.170
+de surveillance des cellules.
+
+1307
+00:53:47.950 --> 00:53:49.550
+C'est une sorte de tolérance des cellules
+
+1308
+00:53:49.550 --> 00:53:52.710
+normales lorsqu'elles détectent la présence des molécules
+
+1309
+00:53:52.710 --> 00:53:55.390
+HLA sur ces cellules normales.
+
+1310
+00:53:55.510 --> 00:53:57.090
+Autrement dit, s'il n'y a pas
+
+1311
+00:53:57.090 --> 00:54:00.250
+de molécule HLA classe 1 qui sont normalement
+
+1312
+00:54:00.250 --> 00:54:02.670
+exprimées par ces cellules normales, la cellule NK
+
+1313
+00:54:02.990 --> 00:54:06.310
+va s'activer pour détruire cette cellule parce
+
+1314
+00:54:06.310 --> 00:54:08.390
+que cette cellule n'arrive pas à exprimer
+
+1315
+00:54:08.390 --> 00:54:10.350
+des molécules HLA classiques.
+
+1316
+00:54:11.090 --> 00:54:13.370
+Alors, sur le schéma, vous allez comprendre facilement.
+
+1317
+00:54:13.650 --> 00:54:17.690
+Vous avez une cellule cible qui normalement doit
+
+1318
+00:54:17.690 --> 00:54:20.450
+exprimer à sa surface de façon normale un
+
+1319
+00:54:20.450 --> 00:54:24.530
+CMH classe 1 qui va permettre d'interagir
+
+1320
+00:54:24.530 --> 00:54:27.850
+avec des récepteurs inhibiteurs de la cellule NK.
+
+1321
+00:54:28.370 --> 00:54:29.890
+Ça, c'est la situation normale.
+
+1322
+00:54:30.270 --> 00:54:32.710
+Ça veut dire que la cellule NK normalement
+
+1323
+00:54:32.710 --> 00:54:36.510
+pour la maintenir inactive et soi-disant gentille,
+
+1324
+00:54:37.030 --> 00:54:39.130
+etc., s'elle détecte le CMH classe 1
+
+1325
+00:54:39.130 --> 00:54:39.950
+sur une cellule, ça veut dire qu'elle
+
+1326
+00:54:39.950 --> 00:54:41.790
+va considérer cette cellule comme normale.
+
+1327
+00:54:42.510 --> 00:54:45.610
+Si par contre cette cellule n'arrive pas
+
+1328
+00:54:45.610 --> 00:54:50.630
+à exprimer une expression qui est faible à
+
+1329
+00:54:50.630 --> 00:54:54.190
+sa surface, les récepteurs qui vont être soi
+
+1330
+00:54:54.190 --> 00:54:56.850
+-disant désinhibés, il y a un levé d
+
+1331
+00:54:56.850 --> 00:54:59.690
+'inhibition de la cellule NK, donc c'est
+
+1332
+00:54:59.690 --> 00:55:02.790
+les récepteurs activateurs qui vont prendre le dessus
+
+1333
+00:55:02.790 --> 00:55:05.870
+pour permettre l'activation des cellules NK et
+
+1334
+00:55:05.870 --> 00:55:07.390
+dans ce cas-là la cellule NK va
+
+1335
+00:55:07.390 --> 00:55:08.310
+détruire cette cellule.
+
+1336
+00:55:08.690 --> 00:55:12.090
+Voilà comment les cellules NK moyennant les molécules
+
+1337
+00:55:12.090 --> 00:55:14.750
+de CMH classe 1 protègent les cellules de
+
+1338
+00:55:14.750 --> 00:55:14.950
+soi.
+
+1339
+00:55:15.430 --> 00:55:17.370
+Autrement dit, s'il ne détecte pas le
+
+1340
+00:55:17.370 --> 00:55:20.170
+CMH classe 1, il va agir pour détruire.
+
+1341
+00:55:20.170 --> 00:55:21.150
+Ça veut dire que ce sont les cellules
+
+1342
+00:55:21.150 --> 00:55:24.990
+qui sont stressées par une tumeur ou par
+
+1343
+00:55:24.990 --> 00:55:30.050
+un virus, etc., ou autre chose, une modification
+
+1344
+00:55:31.430 --> 00:55:35.050
+par des circonstances physico-chimiques ou nucléaires, ce
+
+1345
+00:55:35.050 --> 00:55:36.510
+sont les cellules qui doivent être éliminées parce
+
+1346
+00:55:36.510 --> 00:55:37.970
+qu'elles n'auront plus la possibilité d
+
+1347
+00:55:37.970 --> 00:55:41.070
+'exprimer normalement ces molécules de classe 1.
+
+1348
+00:55:41.510 --> 00:55:44.870
+Donc voilà la troisième fonction exercée par les
+
+1349
+00:55:44.870 --> 00:55:46.130
+molécules CMH ou HLA.
+
+1350
+00:55:46.970 --> 00:55:49.930
+Je vais finir par parler des applications de
+
+1351
+00:55:49.930 --> 00:55:52.230
+ces molécules HLA ou le CMH.
+
+1352
+00:55:52.690 --> 00:55:55.650
+Vous avez ici, on peut s'arrêter sur
+
+1353
+00:55:55.650 --> 00:56:01.190
+cinq applications principales, de façon générale, mais celles
+
+1354
+00:56:01.190 --> 00:56:02.690
+qui sont les plus principales, vous allez voir
+
+1355
+00:56:02.690 --> 00:56:03.130
+à l'intérêt.
+
+1356
+00:56:03.990 --> 00:56:06.850
+Premièrement, c'est que l'HLA est important
+
+1357
+00:56:06.850 --> 00:56:09.270
+pour gérer une greffe.
+
+1358
+00:56:09.870 --> 00:56:12.950
+Alors il faut regarder justement la compatibilité entre
+
+1359
+00:56:12.950 --> 00:56:14.090
+donneurs et receveurs, etc.
+
+1360
+00:56:14.230 --> 00:56:16.050
+Les exemples que je vous ai donnés par
+
+1361
+00:56:16.050 --> 00:56:19.070
+rapport à la fratrie pour voir lequel du
+
+1362
+00:56:19.070 --> 00:56:21.190
+donneur est compatible avec le receveur, etc.
+
+1363
+00:56:21.810 --> 00:56:23.290
+Donc à chaque fois qu'on veut greffer
+
+1364
+00:56:23.290 --> 00:56:26.090
+un rat ou un organe de façon générale,
+
+1365
+00:56:26.310 --> 00:56:29.390
+surtout le rat, ou bien la moelle osseuse,
+
+1366
+00:56:29.890 --> 00:56:30.710
+il faut...
+
+1367
+00:56:30.710 --> 00:56:32.850
+S'il y a une identité où il
+
+1368
+00:56:32.850 --> 00:56:36.070
+y a une incompatibilité au niveau des molécules
+
+1369
+00:56:36.070 --> 00:56:37.930
+HLA, on s'expose à un rejet.
+
+1370
+00:56:38.350 --> 00:56:40.230
+Il y a des rejets aigus, sur aigus,
+
+1371
+00:56:40.350 --> 00:56:43.210
+il y a chronique, etc., soit cellulaire, soit
+
+1372
+00:56:43.210 --> 00:56:43.590
+hémorroïde.
+
+1373
+00:56:44.310 --> 00:56:46.090
+Bref, donc l'intérêt et les capitales et
+
+1374
+00:56:46.090 --> 00:56:48.090
+fondamentales de ces molécules HLA dans la gestion
+
+1375
+00:56:48.090 --> 00:56:48.650
+des greffes.
+
+1376
+00:56:49.290 --> 00:56:52.330
+Deuxièmement, vous avez l'exposition ou la prédisposition
+
+1377
+00:56:53.110 --> 00:56:54.490
+de ces molécules HLA vis-à-vis de
+
+1378
+00:56:54.490 --> 00:56:55.130
+certaines maladies.
+
+1379
+00:56:55.650 --> 00:56:57.890
+Vous avez certaines allèles ou des molécules HLA
+
+1380
+00:56:57.890 --> 00:57:00.870
+qui exposent à certaines maladies soit inflammatoires, soit
+
+1381
+00:57:00.870 --> 00:57:01.450
+auto-immunes.
+
+1382
+00:57:01.530 --> 00:57:03.650
+Les exemples, vous allez...
+
+1383
+00:57:03.650 --> 00:57:06.350
+Les étudiants, une fois que vous allez passer
+
+1384
+00:57:06.350 --> 00:57:09.170
+en troisième année, vous avez ici une maladie
+
+1385
+00:57:09.170 --> 00:57:10.410
+qui s'appelle la maladie de Behcet.
+
+1386
+00:57:10.630 --> 00:57:12.450
+Behcet ou Behcet, c'est un turc qui
+
+1387
+00:57:12.450 --> 00:57:14.150
+a décrit cette maladie initialement.
+
+1388
+00:57:14.810 --> 00:57:17.290
+Vous avez une grande, une forte association des
+
+1389
+00:57:17.290 --> 00:57:19.270
+molécules HLA B51.
+
+1390
+00:57:20.370 --> 00:57:22.190
+Ça veut dire qu'un individu qui a
+
+1391
+00:57:22.190 --> 00:57:26.070
+des, soi-disant, des symptomatologies de type inflammatoire,
+
+1392
+00:57:26.230 --> 00:57:30.470
+des épillettes, etc., les cliniciens, systématiquement, ils demandent
+
+1393
+00:57:30.470 --> 00:57:32.050
+la recherche de HLA B51.
+
+1394
+00:57:32.290 --> 00:57:33.590
+Ça veut dire qu'il s'est trouvé
+
+1395
+00:57:33.590 --> 00:57:34.590
+un HLA B51.
+
+1396
+00:57:34.770 --> 00:57:36.870
+Pratiquement, c'est un critère qui est important
+
+1397
+00:57:36.870 --> 00:57:38.150
+pour considérer le diagnostic.
+
+1398
+00:57:38.750 --> 00:57:40.570
+Ça ne veut pas dire que si on
+
+1399
+00:57:40.570 --> 00:57:42.530
+a le 51, ça veut dire que ça
+
+1400
+00:57:42.530 --> 00:57:43.630
+peut être un sujet normal.
+
+1401
+00:57:44.270 --> 00:57:46.450
+que je peux avoir un HLA B51 sans
+
+1402
+00:57:46.450 --> 00:57:47.450
+développer un HLA B7.
+
+1403
+00:57:47.650 --> 00:57:49.490
+Mais il y a une forte association.
+
+1404
+00:57:49.870 --> 00:57:52.090
+Le ratio est important entre la population qui
+
+1405
+00:57:52.090 --> 00:57:55.570
+porte le HLA 51 et qui ont la
+
+1406
+00:57:55.570 --> 00:57:57.110
+maladie par rapport à ceux qui portent le
+
+1407
+00:57:57.110 --> 00:57:58.710
+HLA 51 et ceux qui n'ont pas
+
+1408
+00:57:58.710 --> 00:57:59.170
+la maladie.
+
+1409
+00:57:59.610 --> 00:58:01.270
+De la même façon, vous avez une association
+
+1410
+00:58:01.270 --> 00:58:05.770
+très forte entre le HLA B27 et les
+
+1411
+00:58:05.770 --> 00:58:08.470
+spécificités B27 vis-à-vis de la spondyloarthrite
+
+1412
+00:58:08.470 --> 00:58:09.110
+okylosente.
+
+1413
+00:58:09.510 --> 00:58:12.830
+C'est ce que vous avez étudié spondyloarthrite
+
+1414
+00:58:12.830 --> 00:58:15.970
+okylosente ou spondyloarthropathie etc.
+
+1415
+00:58:16.990 --> 00:58:20.010
+En troisième, vous avez également la maladie celiaque,
+
+1416
+00:58:20.110 --> 00:58:21.330
+M.C. maladie celiaque.
+
+1417
+00:58:22.050 --> 00:58:24.190
+Il y a tous les patients celiaques.
+
+1418
+00:58:25.270 --> 00:58:28.850
+97% des patients celiaques ont soit l
+
+1419
+00:58:28.850 --> 00:58:33.670
+'échelon de Q2 essentiellement dans 85% des
+
+1420
+00:58:33.670 --> 00:58:35.310
+cas et dans le reste ils ont l
+
+1421
+00:58:35.310 --> 00:58:38.310
+'échelon de Q2 je veux dire soit de
+
+1422
+00:58:38.310 --> 00:58:39.950
+Q2 essentiellement soit de Q8.
+
+1423
+00:58:40.070 --> 00:58:41.190
+Des fois, ils ont les deux à l
+
+1424
+00:58:41.190 --> 00:58:43.670
+'aide de spécificités soit une des deux.
+
+1425
+00:58:44.550 --> 00:58:46.410
+La présence de ces molécules HLA c'est
+
+1426
+00:58:46.410 --> 00:58:47.870
+un élément du diagnostic.
+
+1427
+00:58:48.010 --> 00:58:48.910
+Ça veut dire quoi ?
+
+1428
+00:58:48.910 --> 00:58:52.490
+Des fois, lorsqu'on a un clinicien un
+
+1429
+00:58:52.490 --> 00:58:56.030
+pédiatre un adulte un interniste je veux dire
+
+1430
+00:58:56.030 --> 00:58:59.590
+qui suspect une maladie celiaque alors si le
+
+1431
+00:58:59.590 --> 00:59:01.230
+tableau clique n'est pas clair par exemple
+
+1432
+00:59:01.230 --> 00:59:03.890
+il pense à éliminer par contre la maladie
+
+1433
+00:59:03.890 --> 00:59:06.010
+celiaque s'il trouve il fait le typage
+
+1434
+00:59:06.010 --> 00:59:07.030
+et s'il ne trouve pas le HLA
+
+1435
+00:59:07.030 --> 00:59:09.110
+de Q2 de Q8 ça veut dire pratiquement
+
+1436
+00:59:09.110 --> 00:59:11.010
+le diagnostic est très peu probable.
+
+1437
+00:59:12.030 --> 00:59:12.790
+Ça veut dire parce qu'il y a
+
+1438
+00:59:12.790 --> 00:59:15.150
+la forte association de ces molécules HLA fait
+
+1439
+00:59:15.150 --> 00:59:18.810
+qu'il y a une grande association.
+
+1440
+00:59:19.390 --> 00:59:22.210
+Ça devient un diagnostic d'élimination.
+
+1441
+00:59:22.570 --> 00:59:25.550
+Dans ce cas-là ces molécules HLA représentent
+
+1442
+00:59:25.550 --> 00:59:28.370
+ils ont une grande valeur ce qu'on
+
+1443
+00:59:28.370 --> 00:59:32.870
+appelle VPM une grande valeur prédictive négative.
+
+1444
+00:59:34.110 --> 00:59:37.710
+Après, vous avez également certains alènes sont rentrés
+
+1445
+00:59:37.710 --> 00:59:40.030
+dans le détail qui prédisposent à l'ALEPRE
+
+1446
+00:59:40.030 --> 00:59:42.170
+à l'hépatite C à l'hépatite B
+
+1447
+00:59:42.170 --> 00:59:43.750
+même à la tuberculose.
+
+1448
+00:59:43.990 --> 00:59:46.370
+Donc ça c'est décrit dans la littérature
+
+1449
+00:59:46.370 --> 00:59:47.650
+et par plusieurs études.
+
+1450
+00:59:48.130 --> 00:59:51.450
+Il y a même des malades certains qui
+
+1451
+00:59:51.450 --> 00:59:54.530
+font plus de personnalité médicamenteuse et ils ont
+
+1452
+00:59:54.530 --> 00:59:57.730
+certaines molécules HLA bon par exemple vous connaissez
+
+1453
+00:59:57.730 --> 01:00:02.570
+le HIV certains patients qui sont HIV positifs
+
+1454
+01:00:02.570 --> 01:00:05.810
+lorsqu'on leur donne le traitement antirétroviral il
+
+1455
+01:00:05.810 --> 01:00:08.250
+y a parmi ces molécules qu'ils prennent
+
+1456
+01:00:09.150 --> 01:00:10.330
+qu'on leur administre il y a ce
+
+1457
+01:00:10.330 --> 01:00:13.310
+qu'on appelle l'anantirétroviral antiprotéase qui s
+
+1458
+01:00:13.310 --> 01:00:14.070
+'appelle Abacavir.
+
+1459
+01:00:14.890 --> 01:00:18.290
+S'ils développent une résistance à l'Abacavir
+
+1460
+01:00:18.290 --> 01:00:20.510
+ça veut dire qu'il faut chercher une
+
+1461
+01:00:20.510 --> 01:00:25.010
+molécule HLA prédisposante qui s'appelle HLA B5701
+
+1462
+01:00:25.010 --> 01:00:26.690
+c'est un détail pour vous dire maintenant
+
+1463
+01:00:26.690 --> 01:00:30.030
+des fois les HLA nous aident beaucoup à
+
+1464
+01:00:30.030 --> 01:00:34.090
+comprendre le rôle dans le système immunitaire et
+
+1465
+01:00:34.090 --> 01:00:36.290
+le rôle dans la société dans la survie
+
+1466
+01:00:36.290 --> 01:00:39.430
+de certaines maladies ou certaines manifestations cliniques.
+
+1467
+01:00:39.830 --> 01:00:42.430
+Vous avez également ce que vous allez voir
+
+1468
+01:00:42.430 --> 01:00:44.010
+en troisième année il y a des dermatoses
+
+1469
+01:00:44.590 --> 01:00:47.750
+des maladies dermatologiques Dress syndrome ou la syndrome
+
+1470
+01:00:47.750 --> 01:00:51.490
+de Johnson Stephen Johnson à chaque fois qu
+
+1471
+01:00:51.490 --> 01:00:53.210
+'ils consomment maintenant qu'on leur donne des
+
+1472
+01:00:53.210 --> 01:00:56.610
+aminopilicidines ou de la karmazazepine ils développent ces
+
+1473
+01:00:56.610 --> 01:00:59.470
+syndromes il faut chercher le HLA qui est
+
+1474
+01:00:59.470 --> 01:01:01.750
+derrière cette susceptibilité à ce qu'on appelle
+
+1475
+01:01:01.750 --> 01:01:03.250
+l'hypersensibilité médicamenteuse.
+
+1476
+01:01:03.650 --> 01:01:04.830
+Bref, pour vous dire qu'il y a
+
+1477
+01:01:05.270 --> 01:01:06.970
+ce qu'on appelle une prédisposition.
+
+1478
+01:01:07.590 --> 01:01:10.570
+Heureusement que c'est rare par rapport au
+
+1479
+01:01:10.570 --> 01:01:12.530
+nombre de maladies qui sont associées à ces
+
+1480
+01:01:12.530 --> 01:01:15.290
+molécules HLA mais le HLA normalement il est
+
+1481
+01:01:15.290 --> 01:01:17.950
+considéré jouer un rôle plutôt protecteur.
+
+1482
+01:01:18.210 --> 01:01:19.650
+C'est pourquoi il y a des HLA
+
+1483
+01:01:19.650 --> 01:01:21.970
+des molécules HLA qui sont protectrices et d
+
+1484
+01:01:21.970 --> 01:01:23.110
+'autres qui sont prédisposantes.
+
+1485
+01:01:23.390 --> 01:01:24.950
+Les exemples que je vous ai cités sont
+
+1486
+01:01:24.950 --> 01:01:25.870
+les plus fréquents.
+
+1487
+01:01:26.330 --> 01:01:28.030
+Puis vous avez le rôle du HLA dans
+
+1488
+01:01:28.030 --> 01:01:31.590
+le cancer vous avez compris que le cancer
+
+1489
+01:01:31.590 --> 01:01:34.610
+généralement pour échapper au système immunitaire qu'est
+
+1490
+01:01:34.610 --> 01:01:35.470
+-ce qu'il fait ?
+
+1491
+01:01:35.470 --> 01:01:37.710
+Il induit la déplétion d'expression des molécules
+
+1492
+01:01:37.710 --> 01:01:38.050
+HLA.
+
+1493
+01:01:38.910 --> 01:01:40.030
+Surtout le A, etc.
+
+1494
+01:01:40.290 --> 01:01:42.830
+Du coup, c'est un moyen d'échappement
+
+1495
+01:01:42.830 --> 01:01:45.210
+et donc pour dire qu'en quoi le
+
+1496
+01:01:45.210 --> 01:01:49.310
+HLA participe à la lutte contre le cancer
+
+1497
+01:01:49.310 --> 01:01:52.150
+moyennant à la correction des cellules NK s
+
+1498
+01:01:52.150 --> 01:01:54.650
+'il est exprimé normalement mais malheureusement le cancer
+
+1499
+01:01:54.650 --> 01:01:56.950
+s'il est méchant donc il va dépléter
+
+1500
+01:01:56.950 --> 01:01:58.470
+les molécules HLA donc il y a une
+
+1501
+01:01:58.470 --> 01:02:02.270
+association une corrélation avec l'expression des molécules
+
+1502
+01:02:02.270 --> 01:02:03.170
+HLA par le cancer.
+
+1503
+01:02:03.950 --> 01:02:06.190
+Troisièmement ou quatrièmement vous avez l'HLA grossesse.
+
+1504
+01:02:06.690 --> 01:02:10.490
+Un petit mot soi-disant l'essentiel de
+
+1505
+01:02:10.490 --> 01:02:12.810
+ce que je voudrais passer comme message à
+
+1506
+01:02:12.810 --> 01:02:15.270
+travers cette association HLA grossesse c'est que
+
+1507
+01:02:15.270 --> 01:02:17.850
+le HLA-GG participe au maintien d'un
+
+1508
+01:02:17.850 --> 01:02:20.910
+état de tolérance de la grossesse tout simplement.
+
+1509
+01:02:21.210 --> 01:02:23.870
+On voit le rôle de HLA surtout pour
+
+1510
+01:02:23.870 --> 01:02:24.370
+la grossesse.
+
+1511
+01:02:24.730 --> 01:02:25.990
+En dernier, vous avez ce qu'on appelle
+
+1512
+01:02:25.990 --> 01:02:27.410
+l'HLA et population.
+
+1513
+01:02:27.410 --> 01:02:30.790
+Vous allez comprendre que puisqu'on parle de
+
+1514
+01:02:30.790 --> 01:02:35.030
+gènes alors si je m'amuse je voudrais
+
+1515
+01:02:35.030 --> 01:02:39.330
+greffer un Marocain je voudrais greffer un Japonais
+
+1516
+01:02:39.330 --> 01:02:40.090
+par un Marocain.
+
+1517
+01:02:40.470 --> 01:02:42.770
+Maintenant il y a un Marocain qui réside
+
+1518
+01:02:42.770 --> 01:02:48.150
+au Japon qui se propose pour donner ses
+
+1519
+01:02:48.150 --> 01:02:51.590
+molécules HLA ses cellules je veux dire à
+
+1520
+01:02:51.590 --> 01:02:52.690
+un Japonais.
+
+1521
+01:02:53.110 --> 01:02:55.370
+Parce que lorsqu'il est à l'éloignement
+
+1522
+01:02:55.370 --> 01:02:59.170
+des populations il y a forcément une diversité
+
+1523
+01:02:59.170 --> 01:03:00.570
+à cause de ce polymorphisme HLA.
+
+1524
+01:03:01.230 --> 01:03:03.450
+C'est très très difficile ou exceptionnel de
+
+1525
+01:03:03.450 --> 01:03:04.710
+trouver des similitudes.
+
+1526
+01:03:05.390 --> 01:03:09.030
+Nous en tant que Marocains généralement les Maghrébins
+
+1527
+01:03:09.030 --> 01:03:12.990
+on partage beaucoup de communautés HLA beaucoup de
+
+1528
+01:03:12.990 --> 01:03:17.170
+similitudes HLA avec l'Europe du Sud par
+
+1529
+01:03:17.170 --> 01:03:20.290
+exemple avec les Espagnols les Italiens les Français
+
+1530
+01:03:20.290 --> 01:03:20.650
+etc.
+
+1531
+01:03:21.210 --> 01:03:22.450
+Généralement c'est ce qu'on appelle la
+
+1532
+01:03:22.450 --> 01:03:24.730
+race casuide parce qu'il y a certainement
+
+1533
+01:03:24.730 --> 01:03:26.030
+des flux migratoires de partout.
+
+1534
+01:03:27.010 --> 01:03:29.970
+Et donc plus on est dans une zone
+
+1535
+01:03:29.970 --> 01:03:33.170
+géographique un peu rapprochée plus on a des
+
+1536
+01:03:33.170 --> 01:03:35.650
+rapprochements des similitudes des molécules HLA.
+
+1537
+01:03:35.770 --> 01:03:38.230
+Plus on s'éloigne plus on a des
+
+1538
+01:03:38.230 --> 01:03:39.610
+diversités des molécules HLA.
+
+1539
+01:03:40.210 --> 01:03:43.450
+C'est pourquoi l'étude peut se baser
+
+1540
+01:03:43.450 --> 01:03:45.030
+sur ces molécules HLA pour étudier un petit
+
+1541
+01:03:45.030 --> 01:03:47.470
+peu même le flux migratoire par exemple un
+
+1542
+01:03:47.470 --> 01:03:50.210
+peuple qui a migré maintenant d'un pays
+
+1543
+01:03:50.850 --> 01:03:52.730
+je ne sais pas en Corée je prends
+
+1544
+01:03:52.730 --> 01:03:54.470
+les exemples des Lémanais lorsqu'il y avait
+
+1545
+01:03:54.470 --> 01:03:57.310
+la guerre civile il y a beaucoup de
+
+1546
+01:03:57.310 --> 01:04:00.170
+flux migratoires vers l'Amérique latine etc ou
+
+1547
+01:04:00.170 --> 01:04:04.090
+même en Afrique subsaharienne etc ils se sont
+
+1548
+01:04:04.090 --> 01:04:04.590
+installés.
+
+1549
+01:04:05.070 --> 01:04:06.470
+Donc avec ça il y a une migration
+
+1550
+01:04:06.470 --> 01:04:07.990
+il y a la descendance il y a
+
+1551
+01:04:07.990 --> 01:04:10.230
+le mixage des populations il y a un
+
+1552
+01:04:10.230 --> 01:04:12.150
+mariage etc donc on se retrouve avec des
+
+1553
+01:04:12.150 --> 01:04:15.430
+molécules HLA partout mais ça dépend aussi justement
+
+1554
+01:04:15.430 --> 01:04:16.730
+du déplacement des populations.
+
+1555
+01:04:17.010 --> 01:04:18.410
+Donc c'est un moyen d'étudier justement
+
+1556
+01:04:18.410 --> 01:04:22.010
+les populations et leurs variations et l'origine
+
+1557
+01:04:22.010 --> 01:04:22.670
+ethnique aussi.
+
+1558
+01:04:23.090 --> 01:04:26.150
+Voilà un petit peu comment le HLA nous
+
+1559
+01:04:26.150 --> 01:04:27.870
+aide un petit peu à déterminer les caractéristiques
+
+1560
+01:04:27.870 --> 01:04:31.090
+des populations en termes de gènes qui caractérisent
+
+1561
+01:04:31.090 --> 01:04:33.590
+justement sur le plan phénotypique avec l'impact
+
+1562
+01:04:33.590 --> 01:04:35.850
+de présence en charge clinique et le grave.
+
+1563
+01:04:36.550 --> 01:04:39.050
+Voilà un petit peu pour finir ma présentation
+
+1564
+01:04:39.730 --> 01:04:45.030
+le CMH HLA étant justement un système qui
+
+1565
+01:04:45.030 --> 01:04:47.410
+est le plus polymorphique qui est très diversifié
+
+1566
+01:04:48.610 --> 01:04:51.310
+donc il va du coup contribuer à l
+
+1567
+01:04:51.310 --> 01:04:54.950
+'hétérogénéité génétique entre les populations et même au
+
+1568
+01:04:54.950 --> 01:04:57.070
+sein de la même population en termes d
+
+1569
+01:04:57.070 --> 01:04:58.730
+'ethnies et de groupes raciales il y a
+
+1570
+01:04:58.730 --> 01:05:03.230
+toujours cette hétérogénéité qui est tantôt bénéfique mais
+
+1571
+01:05:03.230 --> 01:05:05.270
+des fois elle complique la vie pour pouvoir
+
+1572
+01:05:05.270 --> 01:05:07.750
+greffer donc si vous avez une hétérogénéité donc
+
+1573
+01:05:07.750 --> 01:05:09.790
+il est difficile de trouver quelqu'un de
+
+1574
+01:05:09.790 --> 01:05:10.270
+compatible.
+
+1575
+01:05:10.550 --> 01:05:12.970
+Même chez la fratrie on a 25%
+
+1576
+01:05:12.970 --> 01:05:17.210
+de chance de trouver un enfant compatible c
+
+1577
+01:05:17.210 --> 01:05:18.630
+'est-à-dire deux frères et soeurs compatibles
+
+1578
+01:05:18.630 --> 01:05:21.950
+sur quatre on trouve deux ça veut dire
+
+1579
+01:05:21.950 --> 01:05:24.890
+un sur quatre quelque part c'est difficile
+
+1580
+01:05:26.530 --> 01:05:28.810
+sur la base de ces polymorphismes des fois
+
+1581
+01:05:28.810 --> 01:05:31.030
+c'est difficile de trouver facilement des compatibles
+
+1582
+01:05:31.030 --> 01:05:34.050
+donc le rôle dans le système immunitaire est
+
+1583
+01:05:34.050 --> 01:05:36.890
+important pour simuler le HLA et il va
+
+1584
+01:05:36.890 --> 01:05:39.350
+bien évidemment conditionner ce qu'on appelle la
+
+1585
+01:05:39.350 --> 01:05:41.130
+réussite d'une greffe vous savez dans les
+
+1586
+01:05:41.130 --> 01:05:43.430
+greffes on parle de greffe allogénique ça veut
+
+1587
+01:05:43.430 --> 01:05:47.390
+dire des individus de la même espèce pour
+
+1588
+01:05:47.390 --> 01:05:49.170
+la greffe ce qu'on appelle l'autogreffe
+
+1589
+01:05:49.170 --> 01:05:50.950
+vous savez il y a des autogreffes ça
+
+1590
+01:05:50.950 --> 01:05:52.710
+veut dire on prélève les sujets du même
+
+1591
+01:05:52.710 --> 01:05:55.950
+individu on les réinjecte après un traitement spécifique
+
+1592
+01:05:55.950 --> 01:05:57.730
+donc on n'a pas besoin de HLA
+
+1593
+01:05:57.730 --> 01:06:00.890
+bien évidemment mais lorsqu'on greffe un individu
+
+1594
+01:06:00.890 --> 01:06:03.390
+par exemple son frère ou en dehors de
+
+1595
+01:06:03.390 --> 01:06:06.710
+la famille non apparenté donc bien évidemment le
+
+1596
+01:06:06.710 --> 01:06:08.250
+HLA c'est la clé de la réussite
+
+1597
+01:06:08.250 --> 01:06:10.470
+donc le HLA vous avez compris il peut
+
+1598
+01:06:10.470 --> 01:06:13.290
+prédisposer à certaines maladies on a cité des
+
+1599
+01:06:13.290 --> 01:06:16.430
+exemples la SPA la maladie de Célia qui
+
+1600
+01:06:16.430 --> 01:06:19.570
+est autre et pour faire le type A
+
+1601
+01:06:19.570 --> 01:06:22.430
+la greffe etc étudier l'association HLA m
+
+1602
+01:06:22.430 --> 01:06:25.030
+'a dit il faut explorer le HLA pour
+
+1603
+01:06:25.030 --> 01:06:26.630
+explorer il faut des méthodes qui sont très
+
+1604
+01:06:26.630 --> 01:06:30.390
+sophistiquées on en fait au CHU de Marrakech
+
+1605
+01:06:30.390 --> 01:06:31.950
+si vous avez l'occasion de passer au
+
+1606
+01:06:31.950 --> 01:06:34.710
+laboratoire après lors de vos stages on a
+
+1607
+01:06:34.710 --> 01:06:37.850
+des moyens pour faire le type A HLA
+
+1608
+01:06:37.850 --> 01:06:39.850
+classe 1 et classe 2 par les différentes
+
+1609
+01:06:39.850 --> 01:06:42.090
+méthodes qui sont utilisées par le monde d
+
+1610
+01:06:42.090 --> 01:06:44.930
+'accord ça permet d'étudier le type A
+
+1611
+01:06:44.930 --> 01:06:46.570
+B-21 ça c'est des choses très
+
+1612
+01:06:46.570 --> 01:06:50.690
+routinières aussi pour faire la greffe et on
+
+1613
+01:06:50.690 --> 01:06:52.590
+utilise l'HLA chez les donants et recevoir
+
+1614
+01:06:52.590 --> 01:06:54.130
+ainsi de suite voilà un petit peu ce
+
+1615
+01:06:54.130 --> 01:06:56.790
+que j'ai eu comme message à transmettre
+
+1616
+01:06:56.790 --> 01:07:00.030
+par rapport à ce chapitre qui concerne le
+
+1617
+01:07:00.030 --> 01:07:02.630
+CMH je suis ouvert à la discussion pour
+
+1618
+01:07:02.630 --> 01:07:05.090
+s'il y a des questions de l
+
+1619
+01:07:05.090 --> 01:07:20.260
+'audience c'est
+
+1620
+01:07:20.260 --> 01:07:22.060
+bon des questions ?
+
+1621
+01:07:56.210 --> 01:07:57.690
+pas de questions ?
+
+1622
+01:08:00.220 --> 01:08:03.160
+je peux regarder est-ce qu'on va
+
+1623
+01:08:03.160 --> 01:08:06.020
+avoir les mêmes leucus les mêmes leucis codants
+
+1624
+01:08:06.020 --> 01:08:10.820
+pour la chaîne alpha DR DQ DM AB6
+
+1625
+01:08:10.820 --> 01:08:12.920
+sur le chromosome 15 afin de coder pour
+
+1626
+01:08:12.920 --> 01:08:17.439
+la chaîne bétaine oui exact alors pour l
+
+1627
+01:08:17.439 --> 01:08:21.060
+'HLA HLA classe 2 c'est le chromosome
+
+1628
+01:08:21.060 --> 01:08:23.340
+6 et pas le chromosome 15 j'ai
+
+1629
+01:08:23.340 --> 01:08:26.060
+dit tout à l'heure le chromosome 15
+
+1630
+01:08:26.060 --> 01:08:29.720
+n'intervient que pour la bêta 2 microglobuline
+
+1631
+01:08:29.720 --> 01:08:31.640
+c'est-à-dire de la classe 1
+
+1632
+01:08:31.640 --> 01:08:33.260
+pas de la classe 2 vous avez ici
+
+1633
+01:08:33.260 --> 01:08:35.120
+parce que vous avez mentionné DR DQ DM
+
+1634
+01:08:35.520 --> 01:08:40.439
+donc vous avez uniquement le chromosome 6 c
+
+1635
+01:08:40.439 --> 01:08:42.359
+'est bien alors que le chromosome 15 n
+
+1636
+01:08:42.359 --> 01:08:44.399
+'intervient que pour la chaîne bêta parce qu
+
+1637
+01:08:44.399 --> 01:08:45.340
+'il n'y a pas de chaîne bêta
+
+1638
+01:08:45.340 --> 01:08:47.880
+2 microglobuline la chaîne bêta chez la classe
+
+1639
+01:08:47.880 --> 01:08:50.060
+1 est différente on l'appelle bêta 2
+
+1640
+01:08:50.060 --> 01:08:53.960
+microglobuline la chaîne bêta de classe 2 ça
+
+1641
+01:08:53.960 --> 01:08:56.560
+s'appelle la chaîne bêta HLA bêta 1
+
+1642
+01:08:56.560 --> 01:09:03.020
+bêta 2 j'ai pas compris l'intervention
+
+1643
+01:09:03.020 --> 01:09:07.040
+des molécules HLA à la sélection négative alors
+
+1644
+01:09:07.040 --> 01:09:10.880
+à la sélection négative on a dit tout
+
+1645
+01:09:10.880 --> 01:09:14.260
+à l'heure que on avait abordé ça
+
+1646
+01:09:14.260 --> 01:09:17.000
+lors de la maturation de la positivité alors
+
+1647
+01:09:17.000 --> 01:09:20.620
+au niveau de la jonction cortico-modulaire alors
+
+1648
+01:09:20.620 --> 01:09:24.620
+après que les thémocytes ont franchi la première
+
+1649
+01:09:24.620 --> 01:09:27.899
+étape qui est la sélection positive ils viennent
+
+1650
+01:09:28.540 --> 01:09:32.939
+soi-disant au contact des cellulones dendritiques il
+
+1651
+01:09:32.939 --> 01:09:34.520
+y a les cellules dendritiques si c'est
+
+1652
+01:09:34.520 --> 01:09:37.819
+le dendritique via les molécules HLA ils vont
+
+1653
+01:09:37.819 --> 01:09:42.300
+charger les autantigènes qui circulent à ce niveau
+
+1654
+01:09:42.300 --> 01:09:45.880
+-là pour les montrer un thémocyte alors donc
+
+1655
+01:09:45.880 --> 01:09:50.899
+ils vont charger des molécules des autantigènes sur
+
+1656
+01:09:50.899 --> 01:09:55.150
+les molécules HLA classe 1 pour les montrer
+
+1657
+01:09:55.150 --> 01:09:58.570
+un thémocyte CD8+, et des antigènes aussi
+
+1658
+01:09:58.570 --> 01:10:00.110
+sur des molécules HLA classe 2 pour les
+
+1659
+01:10:00.110 --> 01:10:01.610
+montrer un thémocyte CD4+.
+
+1660
+01:10:01.610 --> 01:10:05.870
+Alors si le thémocyte reconnaît son normal ses
+
+1661
+01:10:05.870 --> 01:10:09.470
+autantigènes dans ce cas-là le thémocyte va
+
+1662
+01:10:09.470 --> 01:10:14.030
+continuer sa maturation autrement dit si il le
+
+1663
+01:10:14.030 --> 01:10:17.530
+reconnaît de façon anormale donc il va être
+
+1664
+01:10:17.530 --> 01:10:18.970
+détruit donc c'est ce qu'on appelle
+
+1665
+01:10:18.970 --> 01:10:21.950
+la sélection négative qui va éliminer un clone
+
+1666
+01:10:21.950 --> 01:10:24.650
+de thémocyte qui est potentiellement autoréactif vis-à
+
+1667
+01:10:24.650 --> 01:10:26.630
+-vis des autantigènes que l'on représente par
+
+1668
+01:10:26.630 --> 01:10:28.970
+les molécules HLA donc vous avez un rôle
+
+1669
+01:10:28.970 --> 01:10:31.370
+ici des molécules HLA pour présenter normalement un
+
+1670
+01:10:31.370 --> 01:10:34.350
+autigène du soi à ces thémocytes autrement dit
+
+1671
+01:10:34.350 --> 01:10:35.830
+s'il n'arrive pas à reconnaître normalement
+
+1672
+01:10:35.830 --> 01:10:42.830
+de façon importante agressive donc il va être
+
+1673
+01:10:43.590 --> 01:10:47.490
+détruit les individus généraux identiques signifient qu'on
+
+1674
+01:10:47.490 --> 01:10:51.890
+peut réussir la grève généraux identiques finalement deux
+
+1675
+01:10:51.890 --> 01:10:55.550
+apéritifs c'est les meilleurs candidats mais le
+
+1676
+01:10:55.550 --> 01:10:57.570
+problème c'est qu'il faut en trouver
+
+1677
+01:10:57.570 --> 01:10:59.210
+c'est rare de trouver on va dire
+
+1678
+01:10:59.210 --> 01:11:01.010
+si on a une fratrie où il y
+
+1679
+01:11:01.010 --> 01:11:04.990
+a les nombreuses mieux c'est mieux c
+
+1680
+01:11:04.990 --> 01:11:08.390
+'est pour trouver des des fois même avec
+
+1681
+01:11:08.390 --> 01:11:10.390
+un seul frère c'est on a la
+
+1682
+01:11:10.390 --> 01:11:12.490
+chance de tomber sur celui qui est compatible
+
+1683
+01:11:12.490 --> 01:11:15.110
+évidemment mais la chance va être augmentée lorsqu
+
+1684
+01:11:15.110 --> 01:11:17.490
+'on a une fratrie moins nombreuse malheureusement au
+
+1685
+01:11:17.490 --> 01:11:19.930
+Maroc maintenant vous savez on a le taux
+
+1686
+01:11:19.930 --> 01:11:22.310
+de fricandité qui est de pratiquement 2%
+
+1687
+01:11:22.310 --> 01:11:24.550
+sinon moins donc vous avez de plus en
+
+1688
+01:11:24.550 --> 01:11:26.790
+plus des fratries en nombre réduit donc ça
+
+1689
+01:11:26.790 --> 01:11:29.050
+complique les choses donc il faut envisager peut
+
+1690
+01:11:29.050 --> 01:11:30.190
+-être d'autres pistes c'est-à-dire
+
+1691
+01:11:30.190 --> 01:11:33.290
+chercher des donneurs en dehors de la famille
+
+1692
+01:11:33.970 --> 01:11:36.350
+ça veut dire qu'il faut des fichiers
+
+1693
+01:11:36.350 --> 01:11:37.890
+etc vous savez à l'échelle de l
+
+1694
+01:11:37.890 --> 01:11:39.250
+'Europe aux Etats-Unis c'est ce qu
+
+1695
+01:11:39.250 --> 01:11:41.450
+'on appelle les fichiers de donneurs qu'on
+
+1696
+01:11:41.450 --> 01:11:44.070
+partage maintenant quelqu'un un receveur en Italie
+
+1697
+01:11:44.070 --> 01:11:47.310
+peut aller chercher un donneur en Allemagne ou
+
+1698
+01:11:47.310 --> 01:11:50.090
+en Grande-Bretagne etc c'est les fichiers
+
+1699
+01:11:50.570 --> 01:11:51.970
+ça veut dire il y a des donneurs
+
+1700
+01:11:51.970 --> 01:11:54.170
+des volontaires qui donnent leur c'est les
+
+1701
+01:11:54.170 --> 01:11:56.530
+sujets qui sont typés on fait le typage
+
+1702
+01:11:56.530 --> 01:11:58.510
+on les stocke et chaque fois qu'il
+
+1703
+01:11:58.510 --> 01:12:00.910
+y a quelqu'un un receveur qui cherche
+
+1704
+01:12:00.910 --> 01:12:04.550
+par lequel on cherche un typage particulier ou
+
+1705
+01:12:04.550 --> 01:12:07.190
+il y a des molécules particulières on va
+
+1706
+01:12:07.190 --> 01:12:09.450
+chercher dans le fichier c'est payant c
+
+1707
+01:12:09.450 --> 01:12:11.630
+'est très cher pour pouvoir trouver quelqu'un
+
+1708
+01:12:11.630 --> 01:12:13.190
+qui est compatible voilà un petit peu l
+
+1709
+01:12:13.190 --> 01:12:17.530
+'application une application on va dire clinique qui
+
+1710
+01:12:17.530 --> 01:12:19.510
+montre un petit peu le polymorphisme et l
+
+1711
+01:12:19.510 --> 01:12:23.370
+'intérêt d'avoir aussi le fichier à l
+
+1712
+01:12:23.370 --> 01:12:25.550
+'échelle du Maroc ou du Maghreb ou là
+
+1713
+01:12:25.550 --> 01:12:28.250
+en Afrique mais on a une tendance aussi
+
+1714
+01:12:28.250 --> 01:12:31.070
+à échanger avec les Européens à travers des
+
+1715
+01:12:31.070 --> 01:12:33.610
+sociétés savantes pour pouvoir trouver des individus compatibles
+
+1716
+01:12:33.610 --> 01:12:38.330
+facilement alors les individus génodontiques le HLA solide
+
+1717
+01:12:38.330 --> 01:12:40.870
+seront deux classes les deux vous avez la
+
+1718
+01:12:40.870 --> 01:12:43.310
+possibilité d'avoir le HLA classe 1 ça
+
+1719
+01:12:43.310 --> 01:12:46.810
+veut dire aussi bien 1 et 2 elle
+
+1720
+01:12:46.810 --> 01:12:52.420
+est absolue c'est bon d'autres questions
+
+1721
+01:12:52.420 --> 01:12:53.560
+?
+
+1722
+01:13:17.590 --> 01:13:19.890
+c'est bon on peut dire à demain
+
+1723
+01:13:20.930 --> 01:13:24.610
+demain on va aborder la réponse interadaptative pour
+
+1724
+01:13:24.610 --> 01:13:28.530
+faire le tour et après demain je vous
+
+1725
+01:13:28.530 --> 01:13:29.790
+dirai un petit peu par la suite on
+
+1726
+01:13:29.790 --> 01:13:31.830
+va se mettre d'accord sur une nouvelle
+
+1727
+01:13:31.830 --> 01:13:33.530
+séance qui va permettre un petit peu une
+
+1728
+01:13:33.530 --> 01:13:38.290
+sorte de révision si vous trouvez des exemples
+
+1729
+01:13:38.290 --> 01:13:42.690
+de questions c'est de QCM et après
+
+1730
+01:13:42.690 --> 01:13:44.750
+on va se mettre on peut éventuellement réserver
+
+1731
+01:13:44.750 --> 01:13:47.550
+la séance de révision après un certain délai
+
+1732
+01:13:47.550 --> 01:13:49.650
+tant que vous avez un petit peu vu
+
+1733
+01:13:49.650 --> 01:13:52.210
+l'ensemble des chapitres et dégéré l'ensemble
+
+1734
+01:13:52.210 --> 01:13:55.290
+des informations après dans ce cas là la
+
+1735
+01:13:55.290 --> 01:13:57.330
+séance de révision peut être à la fin
+
+1736
+01:13:57.330 --> 01:14:02.780
+ce sera mieux alors il y a une
+
+1737
+01:14:02.780 --> 01:14:05.480
+question qui vient d'atterrir toutes les cellules
+
+1738
+01:14:05.480 --> 01:14:09.600
+peuvent entamer la voie protéasomique exact comme je
+
+1739
+01:14:09.600 --> 01:14:10.960
+l'ai dit tout à l'heure vous
+
+1740
+01:14:10.960 --> 01:14:13.260
+avez toutes les cellules nucléaires qui possèdent un
+
+1741
+01:14:13.260 --> 01:14:17.080
+noyau vous savez que les globules rouges qui
+
+1742
+01:14:17.080 --> 01:14:19.080
+n'ont pas de noyau etc même sur
+
+1743
+01:14:19.080 --> 01:14:20.100
+les globules rouges on a mis en évidence
+
+1744
+01:14:20.100 --> 01:14:23.400
+apparemment la présence de cellules glycogènes classe 1
+
+1745
+01:14:23.880 --> 01:14:26.240
+mais c'est pas très soi-disant il
+
+1746
+01:14:26.240 --> 01:14:28.240
+n'y a pas de dynamité dessus mais
+
+1747
+01:14:29.240 --> 01:14:32.480
+comme toutes les cellules on va dire ils
+
+1748
+01:14:32.480 --> 01:14:33.760
+ont une demi de vie on va dire
+
+1749
+01:14:33.760 --> 01:14:35.540
+la majorité sur l'organisme ils ont une
+
+1750
+01:14:35.540 --> 01:14:38.960
+demi de vie qui est prédéfilée ça dépend
+
+1751
+01:14:38.960 --> 01:14:41.060
+bien sûr des organes le raisonnement il est
+
+1752
+01:14:41.060 --> 01:14:43.760
+différent lorsqu'on parle des neurones ou autre
+
+1753
+01:14:43.760 --> 01:14:47.360
+alors vous avez ici une cellule qui doit
+
+1754
+01:14:47.360 --> 01:14:51.600
+disparaître donc soit qu'est-ce qu'il
+
+1755
+01:14:51.600 --> 01:14:53.420
+va faire tout simplement à la fin de
+
+1756
+01:14:53.420 --> 01:14:56.960
+sa vie il va catalyser ses protéines il
+
+1757
+01:14:56.960 --> 01:15:01.020
+va les chercher sur les antigènes sur les
+
+1758
+01:15:01.020 --> 01:15:02.780
+molécules HLA pour les montrer à neuf ou
+
+1759
+01:15:02.780 --> 01:15:04.980
+six T c'est toxique CD8 et le
+
+1760
+01:15:04.980 --> 01:15:06.880
+CD8 va tout simplement assurer ce qu'on
+
+1761
+01:15:06.880 --> 01:15:10.460
+appelle la mort programmée avec la peptose c
+
+1762
+01:15:10.460 --> 01:15:10.980
+'est-à-dire c'est une mort qui
+
+1763
+01:15:10.980 --> 01:15:12.840
+est programmée pour la cellule qui est dans
+
+1764
+01:15:12.840 --> 01:15:15.920
+un état physiologique donc c'est une utilisation
+
+1765
+01:15:15.920 --> 01:15:19.560
+de la propriété proteasomique comme le cas aussi
+
+1766
+01:15:19.560 --> 01:15:23.900
+lorsqu'on a un agent pathogène intracellulaire donc
+
+1767
+01:15:23.900 --> 01:15:25.380
+c'est le proteasome qui va prendre en
+
+1768
+01:15:25.380 --> 01:15:28.860
+charge justement ces antigènes intracellulaires pour les charger
+
+1769
+01:15:28.860 --> 01:15:30.800
+sur les molécules HLA et les présenter à
+
+1770
+01:15:30.800 --> 01:15:34.680
+neuf ou six T CD8 Alors quel type
+
+1771
+01:15:34.680 --> 01:15:37.340
+de HLA sur les hémacies ?
+
+1772
+01:15:37.340 --> 01:15:39.900
+Non Hémacies on a mis en évidence les
+
+1773
+01:15:39.900 --> 01:15:41.740
+HLA classe 1 d'accord ?
+
+1774
+01:15:42.560 --> 01:15:44.940
+La classe 2 ça n'existe pas HLA
+
+1775
+01:15:44.940 --> 01:15:46.580
+classe 2 n'existe que sur ce que
+
+1776
+01:15:46.580 --> 01:15:48.860
+j'ai décrit d'accord ?
+
+1777
+01:15:48.860 --> 01:15:52.740
+On a des cellules présentatrices professionnelles des T
+
+1778
+01:15:52.740 --> 01:15:57.000
+activés des cellules pitéocorticales etc ce sont des
+
+1779
+01:15:57.000 --> 01:16:00.180
+cellules qui présentent ces molécules HLA classe 2
+
+1780
+01:16:00.180 --> 01:16:01.400
+pour les hémacies il n'y a que
+
+1781
+01:16:02.260 --> 01:16:04.780
+pas toutes mais apparemment ce n'est pas
+
+1782
+01:16:05.500 --> 01:16:10.360
+tranché la question des HLA sur les hémacies
+
+1783
+01:16:10.360 --> 01:16:11.720
+ce n'est pas tranché il y a
+
+1784
+01:16:11.720 --> 01:16:13.760
+des controverses par rapport à l'existence et
+
+1785
+01:16:13.760 --> 01:16:15.120
+dans la mesure où on a trouvé on
+
+1786
+01:16:15.120 --> 01:16:16.700
+a mis en évidence des molécules HLA même
+
+1787
+01:16:16.700 --> 01:16:19.880
+solubles ça veut dire ils se retrouvent aussi
+
+1788
+01:16:19.880 --> 01:16:21.820
+ils peuvent se retrouver au niveau des hémacies
+
+1789
+01:16:29.340 --> 01:16:30.420
+Bien s'il n'y a plus de
+
+1790
+01:16:30.420 --> 01:16:33.720
+questions à demain Inchallah Au revoir

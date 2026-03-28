@@ -1,0 +1,1947 @@
+1
+00:00:01,290 --> 00:00:04,810
+Bonjour, si vous permettez, on va voir ensemble
+
+2
+00:00:04,810 --> 00:00:10,670
+le dernier cours de neurophysiologie sur le sommeil.
+
+3
+00:00:11,770 --> 00:00:14,530
+Les différents objectifs de ce cours, vous pouvez
+
+4
+00:00:14,530 --> 00:00:15,710
+les voir tranquillement.
+
+5
+00:00:16,910 --> 00:00:19,670
+Donc, le sommeil, c'est un état d
+
+6
+00:00:19,670 --> 00:00:20,950
+'une personne qui dort.
+
+7
+00:00:21,790 --> 00:00:26,150
+C'est un état physiologique, périodique, qui est
+
+8
+00:00:26,150 --> 00:00:28,650
+caractérisé par une suppression de la conscience, mais
+
+9
+00:00:28,650 --> 00:00:29,410
+qui est réversible.
+
+10
+00:00:31,009 --> 00:00:33,670
+Contrairement au coma, où il y a une
+
+11
+00:00:33,670 --> 00:00:37,230
+suppression de la conscience qui est réversible, sauf
+
+12
+00:00:37,230 --> 00:00:40,790
+si on traite la cause de ce coma.
+
+13
+00:00:45,130 --> 00:00:48,990
+Le cycle veille-sommeil, c'est quelque chose
+
+14
+00:00:48,990 --> 00:00:51,030
+de très important dans notre vie.
+
+15
+00:00:51,650 --> 00:00:53,850
+On passe un tiers de notre vie à
+
+16
+00:00:53,850 --> 00:00:56,190
+dormir, à peu près, donc si on a
+
+17
+00:00:56,190 --> 00:01:00,790
+survécu 90 ans, on peut imaginer qu'on
+
+18
+00:01:00,790 --> 00:01:02,090
+a dormi 30 ans.
+
+19
+00:01:03,830 --> 00:01:06,290
+Combien d'heures de sommeil on en a
+
+20
+00:01:06,290 --> 00:01:10,370
+besoin par jour, ça diffère selon les gens.
+
+21
+00:01:11,110 --> 00:01:11,910
+Il y en a qui ont besoin de
+
+22
+00:01:11,910 --> 00:01:12,850
+4 heures, il y en a qui ont
+
+23
+00:01:12,850 --> 00:01:15,310
+besoin de 11 heures, mais en général entre
+
+24
+00:01:15,310 --> 00:01:16,130
+7 et 8 heures.
+
+25
+00:01:17,070 --> 00:01:18,490
+Pourquoi dormons-nous ?
+
+26
+00:01:18,490 --> 00:01:24,270
+C'est une question philosophique, scientifique, il y
+
+27
+00:01:24,270 --> 00:01:28,210
+a beaucoup de raisons, mais le principal c
+
+28
+00:01:28,210 --> 00:01:31,570
+'est pour récupérer, c'est pour éliminer les
+
+29
+00:01:31,570 --> 00:01:35,170
+déchets, les toxiques qui s'accumulent dans le
+
+30
+00:01:35,170 --> 00:01:36,870
+cerveau, dans la journée.
+
+31
+00:01:38,970 --> 00:01:42,210
+Une question encore plus difficile, pourquoi rêvons-nous
+
+32
+00:01:42,210 --> 00:01:42,690
+?
+
+33
+00:01:42,690 --> 00:01:45,270
+Là c'est une question à laquelle il
+
+34
+00:01:45,270 --> 00:01:48,410
+y a beaucoup de débats et de théories,
+
+35
+00:01:48,630 --> 00:01:50,030
+on peut les voir après.
+
+36
+00:01:52,250 --> 00:01:54,150
+Quels sont les mécanismes du sommeil ?
+
+37
+00:01:54,150 --> 00:01:55,250
+On va voir que le sommeil c'est
+
+38
+00:01:55,250 --> 00:01:58,870
+un processus actif, on va voir ensemble quelles
+
+39
+00:01:58,870 --> 00:02:02,150
+sont les structures qui le maintiennent éveillé, et
+
+40
+00:02:02,150 --> 00:02:05,510
+quelles sont les structures qui vont permettre le
+
+41
+00:02:05,510 --> 00:02:06,470
+démarrage du sommeil.
+
+42
+00:02:09,199 --> 00:02:11,360
+On va voir aussi que se passe dans
+
+43
+00:02:11,360 --> 00:02:15,990
+l'organisme quand on dort, surtout selon les
+
+44
+00:02:15,990 --> 00:02:17,610
+phases du sommeil.
+
+45
+00:02:20,190 --> 00:02:22,670
+Donc l'éveil se pose au sommeil par
+
+46
+00:02:22,670 --> 00:02:24,410
+le fait que durant l'éveil on est
+
+47
+00:02:24,410 --> 00:02:26,110
+vigilant, on est mobile, etc.
+
+48
+00:02:26,690 --> 00:02:28,390
+Alors que dans le sommeil on n'a
+
+49
+00:02:28,390 --> 00:02:30,130
+pas de contact avec l'extérieur, on ne
+
+50
+00:02:30,130 --> 00:02:32,430
+reçoit pas les stimulus, on est indifférent au
+
+51
+00:02:32,430 --> 00:02:34,110
+stimulus, on est immobile, etc.
+
+52
+00:02:35,970 --> 00:02:38,430
+Donc on va voir ensemble, la première partie
+
+53
+00:02:38,430 --> 00:02:39,670
+c'est le cycle veille-sommeil.
+
+54
+00:02:41,150 --> 00:02:44,050
+Vous savez que notre cycle veille-sommeil est
+
+55
+00:02:44,050 --> 00:02:46,290
+déterminé par la rotation de la Terre autour
+
+56
+00:02:46,290 --> 00:02:50,370
+d'elle-même, ce qui fait que ça
+
+57
+00:02:50,370 --> 00:02:53,890
+va donner l'alternance entre le jour et
+
+58
+00:02:53,890 --> 00:02:54,210
+la nuit.
+
+59
+00:02:57,770 --> 00:03:01,490
+Le rythme circadien fait partie des rythmes physiologiques
+
+60
+00:03:01,490 --> 00:03:03,270
+humains, il y en a plusieurs.
+
+61
+00:03:03,270 --> 00:03:05,830
+Il y a le rythme veille-sommeil, bien
+
+62
+00:03:05,830 --> 00:03:07,270
+sûr, mais il y a aussi le rythme
+
+63
+00:03:07,270 --> 00:03:12,530
+de température, d'humeur, endocrinien, de la fréquence
+
+64
+00:03:12,530 --> 00:03:13,550
+cardiaque, etc.
+
+65
+00:03:16,760 --> 00:03:20,680
+Les rythmes diffèrent en période selon le type
+
+66
+00:03:20,680 --> 00:03:21,900
+de rythme.
+
+67
+00:03:22,980 --> 00:03:25,960
+Le circadien dure entre 20 et 28 heures.
+
+68
+00:03:26,940 --> 00:03:28,800
+Donc ça diffère selon les gens.
+
+69
+00:03:28,800 --> 00:03:31,480
+Et si on n'est pas exposé au
+
+70
+00:03:31,480 --> 00:03:36,340
+stimulus externe, on peut avoir une perturbation de
+
+71
+00:03:36,340 --> 00:03:38,920
+notre cycle qui va dépasser 24 heures.
+
+72
+00:03:39,980 --> 00:03:43,100
+Le cycle ovarien, vous le connaissez, 28 jours,
+
+73
+00:03:43,760 --> 00:03:44,100
+etc.
+
+74
+00:03:46,360 --> 00:03:47,880
+Vous savez qu'il y a une horloge
+
+75
+00:03:47,880 --> 00:03:48,480
+interne.
+
+76
+00:03:48,580 --> 00:03:51,420
+Cette horloge interne est déterminée par la grande
+
+77
+00:03:51,420 --> 00:03:54,360
+pénialité secrète, la mélatonine, qui est une hormone
+
+78
+00:03:54,360 --> 00:03:57,840
+importante, mais elle est sous le contrôle de
+
+79
+00:03:57,840 --> 00:03:58,260
+l'hépotalamus.
+
+80
+00:03:58,260 --> 00:04:02,380
+L'hépotalamus, c'est le principal chef d
+
+81
+00:04:02,380 --> 00:04:06,280
+'orchestre de l'homéostasie interne et des différents
+
+82
+00:04:06,280 --> 00:04:09,800
+cycles qu'on a dans notre organisme, y
+
+83
+00:04:09,800 --> 00:04:13,140
+compris l'horloge interne du veille-sommeil et
+
+84
+00:04:13,140 --> 00:04:15,220
+la sécrétion au pas de la mélatonine.
+
+85
+00:04:19,940 --> 00:04:23,620
+Qu'est-ce qui détermine ces cycles et
+
+86
+00:04:23,620 --> 00:04:24,600
+ces rythmes circadiens?
+
+87
+00:04:25,160 --> 00:04:27,180
+Il y a des facteurs génétiques et il
+
+88
+00:04:27,180 --> 00:04:28,180
+y a des facteurs extérieurs.
+
+89
+00:04:28,260 --> 00:04:31,300
+Les facteurs génétiques, c'est l'endogène, c
+
+90
+00:04:31,300 --> 00:04:33,260
+'est tout ce qui est intracérébral, ce qu
+
+91
+00:04:33,260 --> 00:04:33,820
+'on vient de voir.
+
+92
+00:04:35,540 --> 00:04:38,680
+Les synchroniseurs externes, c'est la simulation alternante
+
+93
+00:04:38,680 --> 00:04:41,940
+entre le jour et la nuit, comme on
+
+94
+00:04:41,940 --> 00:04:42,780
+l'a vu tout à l'heure.
+
+95
+00:04:43,200 --> 00:04:46,380
+L'alternance entre repas et activités, les horaires
+
+96
+00:04:46,380 --> 00:04:49,540
+du repas, l'environnement social qui détermine qu
+
+97
+00:04:49,540 --> 00:04:51,180
+'il y a des gens qui vont veiller
+
+98
+00:04:51,180 --> 00:04:53,380
+plus la nuit que le jour.
+
+99
+00:04:53,380 --> 00:04:55,100
+Ça dépend des gens.
+
+100
+00:04:58,320 --> 00:05:00,700
+Donc il y a des synchroniseurs sociaux et
+
+101
+00:05:00,700 --> 00:05:05,420
+des synchroniseurs internes qui vont donc donner des
+
+102
+00:05:05,420 --> 00:05:08,180
+horloges internes qui vont varier selon les gens
+
+103
+00:05:08,750 --> 00:05:12,220
+avec des rythmes circadiens et d'autres rythmes
+
+104
+00:05:12,220 --> 00:05:14,580
+qui vont différer encore une fois selon les
+
+105
+00:05:14,580 --> 00:05:14,700
+gens.
+
+106
+00:05:14,860 --> 00:05:18,160
+Mais il y a des normales chez l
+
+107
+00:05:18,160 --> 00:05:20,840
+'être humain qu'il ne faut pas dépasser
+
+108
+00:05:20,840 --> 00:05:22,180
+sinon on va entrer dans ce qui est
+
+109
+00:05:22,180 --> 00:05:22,660
+pathologique.
+
+110
+00:05:24,960 --> 00:05:29,080
+Donc la sécrétion de la mylatonine est très
+
+111
+00:05:29,080 --> 00:05:30,700
+associée à la vision.
+
+112
+00:05:31,620 --> 00:05:34,500
+Donc l'œil, quand il va percevoir la
+
+113
+00:05:34,500 --> 00:05:37,240
+lumière, il va transmettre l'influx nerveux via
+
+114
+00:05:37,240 --> 00:05:38,560
+le nerf optique.
+
+115
+00:05:40,180 --> 00:05:45,260
+Certaines fibres optiques vont quitter le nerf optique
+
+116
+00:05:45,260 --> 00:05:47,140
+et donc vont quitter la voie visuelle qui
+
+117
+00:05:47,140 --> 00:05:49,420
+part vers l'horloge occipitale et ils vont
+
+118
+00:05:49,420 --> 00:05:51,520
+partir vers le noyau suprachiasmatique.
+
+119
+00:05:52,000 --> 00:05:55,080
+Lequel noyau suprachiasmatique sera à l'origine de
+
+120
+00:05:55,080 --> 00:05:57,660
+l'activation de l'épiphyse et de la
+
+121
+00:05:57,660 --> 00:06:01,100
+sécrétion de la mylatonine en début d'obscurité,
+
+122
+00:06:01,220 --> 00:06:02,860
+en début de soirée.
+
+123
+00:06:05,740 --> 00:06:06,860
+J'ai dit tout à l'heure que
+
+124
+00:06:06,860 --> 00:06:08,940
+les besoins physiologiques en sommeil diffèrent selon les
+
+125
+00:06:08,940 --> 00:06:09,140
+gens.
+
+126
+00:06:09,520 --> 00:06:10,980
+La plupart sont entre 7 et 8 heures.
+
+127
+00:06:11,140 --> 00:06:13,860
+Si on fait la somme de 7 et
+
+128
+00:06:13,860 --> 00:06:15,080
+8 heures, on va voir que la plupart
+
+129
+00:06:15,080 --> 00:06:18,040
+des gens, plus de 80% des gens
+
+130
+00:06:18,040 --> 00:06:19,780
+dorent entre 7 et 8 heures.
+
+131
+00:06:22,380 --> 00:06:24,900
+On peut avoir une perturbation de ce rythme
+
+132
+00:06:24,900 --> 00:06:31,720
+circadien à l'occasion d'habitudes sociales, d
+
+133
+00:06:31,720 --> 00:06:35,220
+'exigences de travail, de vol transméridien vers l
+
+134
+00:06:35,220 --> 00:06:35,980
+'est ou vers l'ouest.
+
+135
+00:06:36,840 --> 00:06:39,260
+Mais on va rapidement ajuster en quelques jours
+
+136
+00:06:39,260 --> 00:06:44,100
+nos problèmes de veille et de sommeil et
+
+137
+00:06:44,100 --> 00:06:46,680
+on va s'habituer aux nouvelles horaires.
+
+138
+00:06:47,380 --> 00:06:48,780
+Par exemple, si on part au Japon, on
+
+139
+00:06:48,780 --> 00:06:50,800
+va rapidement, au bout de 2-3 jours,
+
+140
+00:06:50,840 --> 00:06:54,060
+s'habituer aux 9 heures de différence qu
+
+141
+00:06:54,060 --> 00:06:54,540
+'il y a entre eux.
+
+142
+00:06:56,480 --> 00:07:00,420
+Comment se développe le sommeil selon l'âge
+
+143
+00:07:00,420 --> 00:07:01,220
+de la personne?
+
+144
+00:07:02,440 --> 00:07:05,580
+On voit que le nouveau-né dort beaucoup
+
+145
+00:07:05,580 --> 00:07:08,820
+et la plupart se sentent adormis.
+
+146
+00:07:09,160 --> 00:07:12,200
+C'est entrecoupé par de brèves périodes d
+
+147
+00:07:12,200 --> 00:07:18,000
+'éveil où il exige son alimentation, etc.
+
+148
+00:07:18,000 --> 00:07:21,980
+Quand on devient un nourrissant, encore une fois,
+
+149
+00:07:22,160 --> 00:07:23,620
+la plus grande partie c'est pour le
+
+150
+00:07:23,620 --> 00:07:26,520
+sommeil, mais l'éveil devient de plus en
+
+151
+00:07:26,520 --> 00:07:30,620
+plus présent, encore plus chez les 4 ans.
+
+152
+00:07:31,160 --> 00:07:33,280
+Il y a une petite sieste et une
+
+153
+00:07:33,280 --> 00:07:39,300
+grande partie de la nuit où on dort.
+
+154
+00:07:40,220 --> 00:07:45,300
+C'est presque comme l'adulte, une grande
+
+155
+00:07:45,300 --> 00:07:49,760
+période de sommeil durant la nuit, et encore
+
+156
+00:07:49,760 --> 00:07:51,660
+moins chez l'adulte.
+
+157
+00:07:52,140 --> 00:07:53,700
+On voit que l'enfant par rapport à
+
+158
+00:07:53,700 --> 00:07:55,480
+l'adulte a besoin de plus de sommeil,
+
+159
+00:07:55,920 --> 00:07:57,680
+mais de plus en plus on aura moins
+
+160
+00:07:57,680 --> 00:08:01,240
+de périodes de sieste.
+
+161
+00:08:03,300 --> 00:08:05,400
+Quelle est l'architecture du sommeil maintenant?
+
+162
+00:08:05,400 --> 00:08:09,580
+Pour étudier l'architecture du sommeil, on aura
+
+163
+00:08:09,580 --> 00:08:14,860
+besoin d'un polygraphe contenant un électroencéphalographe qui
+
+164
+00:08:14,860 --> 00:08:19,940
+permet d'étudier l'activité électrique corticale, l
+
+165
+00:08:19,940 --> 00:08:24,160
+'électro-oculographe qui étudie l'activité oculaire, l
+
+166
+00:08:24,160 --> 00:08:27,380
+'électromyographe qui permet d'étudier l'activité musculaire.
+
+167
+00:08:27,760 --> 00:08:28,940
+On va le mettre sur le montant.
+
+168
+00:08:30,440 --> 00:08:35,179
+Cela nous a permis de découvrir que le
+
+169
+00:08:35,179 --> 00:08:38,840
+sommeil n'est pas uniforme, ce n'est
+
+170
+00:08:38,840 --> 00:08:40,419
+pas une seule phase, il y a plusieurs
+
+171
+00:08:40,419 --> 00:08:42,240
+phases dans le sommeil, et on découvre qu
+
+172
+00:08:42,240 --> 00:08:44,820
+'il y a principalement deux grandes phases, il
+
+173
+00:08:44,820 --> 00:08:46,260
+y a le sommeil lent et le sommeil
+
+174
+00:08:46,260 --> 00:08:46,900
+paradoxal.
+
+175
+00:08:47,300 --> 00:08:49,100
+Mais le sommeil lent est divisé lui-même
+
+176
+00:08:49,100 --> 00:08:51,860
+en trois phases maintenant, 1, 2 et 3.
+
+177
+00:08:54,860 --> 00:08:57,360
+Chaque fois on va entrer dans le sommeil
+
+178
+00:08:57,360 --> 00:09:00,660
+lent, puis on va passer au sommeil paradoxal,
+
+179
+00:09:00,740 --> 00:09:03,920
+puis revenir vers le sommeil lent, comme on
+
+180
+00:09:03,920 --> 00:09:04,720
+va le voir plus tard.
+
+181
+00:09:05,200 --> 00:09:08,440
+Chaque cycle dure à peu près 1h30 à
+
+182
+00:09:08,440 --> 00:09:11,700
+2h, depuis le début du sommeil lent vers
+
+183
+00:09:11,700 --> 00:09:13,560
+le début du sommeil lent encore une fois.
+
+184
+00:09:17,760 --> 00:09:21,240
+Le sommeil lent est divisé en quatre phases
+
+185
+00:09:21,240 --> 00:09:24,500
+selon la nomenclature ancienne, mais retenez maintenant que
+
+186
+00:09:24,500 --> 00:09:25,860
+c'est trois phases, 1 à 3.
+
+187
+00:09:25,860 --> 00:09:27,960
+On a mélangé le 3 et 4 dans
+
+188
+00:09:27,960 --> 00:09:30,800
+un seul stade qu'on a appelé le
+
+189
+00:09:30,800 --> 00:09:31,340
+3.
+
+190
+00:09:32,160 --> 00:09:35,240
+Puis le paradoxal est caractérisé par REM sleep,
+
+191
+00:09:35,400 --> 00:09:36,080
+c'est quoi REM sleep?
+
+192
+00:09:36,160 --> 00:09:37,640
+C'est Rapid Eye Movement Sleep.
+
+193
+00:09:38,220 --> 00:09:41,500
+C'est un sommeil caractérisé par des mouvements
+
+194
+00:09:41,500 --> 00:09:43,780
+rapides des yeux, alors que le sommeil lent,
+
+195
+00:09:44,080 --> 00:09:46,420
+quand vous observez la personne, il n'y
+
+196
+00:09:46,420 --> 00:09:49,640
+a pas de mouvements horizontaux des yeux, qui
+
+197
+00:09:49,640 --> 00:09:51,480
+sont rapides et horizontaux des yeux.
+
+198
+00:09:53,340 --> 00:09:56,280
+Quand on est éveillé, on a un EG
+
+199
+00:09:56,280 --> 00:10:00,820
+qui a un rythme rapide, on bouge et
+
+200
+00:10:00,820 --> 00:10:01,920
+les yeux bougent aussi.
+
+201
+00:10:02,660 --> 00:10:04,660
+Quand on va entrer au sommeil de plus
+
+202
+00:10:04,660 --> 00:10:07,680
+en plus profond, le rythme devient de plus
+
+203
+00:10:07,680 --> 00:10:12,400
+en plus lent, le EG devient de plus
+
+204
+00:10:12,400 --> 00:10:14,240
+en plus plat, jusqu'à ce qu'il
+
+205
+00:10:14,240 --> 00:10:17,380
+devienne le plus plat au corps du sommeil
+
+206
+00:10:17,380 --> 00:10:18,620
+paradoxal, c'est-à-dire qu'on ne
+
+207
+00:10:18,620 --> 00:10:20,680
+bouge absolument pas au corps du sommeil paradoxal.
+
+208
+00:10:20,680 --> 00:10:25,060
+Et les mouvements des yeux vont devenir erratiques
+
+209
+00:10:25,060 --> 00:10:28,420
+et horizontales au corps du sommeil paradoxal.
+
+210
+00:10:29,120 --> 00:10:31,440
+Quand on finit par le sommeil paradoxal, on
+
+211
+00:10:31,440 --> 00:10:34,200
+va revenir vers le stade 1 du sommeil.
+
+212
+00:10:35,940 --> 00:10:41,160
+Voilà, on est éveillé, on passe en endormissement,
+
+213
+00:10:41,380 --> 00:10:42,560
+puis stade 1.
+
+214
+00:10:42,920 --> 00:10:45,580
+Stade 1 avec un rythme, le stade de
+
+215
+00:10:45,580 --> 00:10:47,900
+l'éveil, on a un rythme de fréquence
+
+216
+00:10:47,900 --> 00:10:49,860
+EG entre 8 et 13.
+
+217
+00:10:49,860 --> 00:10:51,700
+Quand on passe de stade 1 à stade
+
+218
+00:10:51,700 --> 00:10:54,900
+2, ça va devenir 6, 7, 5.
+
+219
+00:10:55,440 --> 00:10:57,700
+Et puis en phase 3, maintenant tout ça,
+
+220
+00:10:57,720 --> 00:10:59,680
+ça s'appelle le 3, on va avoir
+
+221
+00:10:59,680 --> 00:11:05,000
+du rythme lent entre 2 à 4 hertz,
+
+222
+00:11:05,680 --> 00:11:07,900
+2 à 4 cycles par seconde, ce qu
+
+223
+00:11:07,900 --> 00:11:10,120
+'on appelle hertz, qui va devenir prédominant.
+
+224
+00:11:10,740 --> 00:11:12,820
+Et donc quand on finit par le stade
+
+225
+00:11:12,820 --> 00:11:16,700
+4, on va revenir au stade paradoxal, qui
+
+226
+00:11:16,700 --> 00:11:23,580
+a une activité électrique importante, mais une atonie,
+
+227
+00:11:24,160 --> 00:11:26,620
+l'absence de tout mouvement musculaire.
+
+228
+00:11:27,460 --> 00:11:29,820
+Puis après le sommeil paradoxal, on va revenir
+
+229
+00:11:29,820 --> 00:11:32,160
+au stade 1, stade 2, puis on passe
+
+230
+00:11:32,160 --> 00:11:32,460
+comme ça.
+
+231
+00:11:32,880 --> 00:11:34,920
+Vous remarquez qu'au début de la nuit,
+
+232
+00:11:35,320 --> 00:11:38,180
+on a plus besoin de sommeil lent, parce
+
+233
+00:11:38,180 --> 00:11:39,700
+qu'on a plus besoin de récupérer.
+
+234
+00:11:40,240 --> 00:11:43,380
+Après, en fin de nuit, au début du
+
+235
+00:11:43,380 --> 00:11:46,400
+matin, on va avoir du sommeil paradoxal qui
+
+236
+00:11:46,400 --> 00:11:47,880
+va devenir de plus en plus important.
+
+237
+00:11:50,120 --> 00:11:53,260
+C'est pourquoi on pense que la plupart
+
+238
+00:11:53,260 --> 00:11:56,340
+des gens rêvent en fin de nuit, en
+
+239
+00:11:56,340 --> 00:11:58,180
+début de matinée, parce que c'est au
+
+240
+00:11:58,180 --> 00:12:00,380
+cours du sommeil paradoxal qu'on peut rêver,
+
+241
+00:12:00,540 --> 00:12:02,700
+alors que dans le sommeil profond, on ne
+
+242
+00:12:02,700 --> 00:12:03,100
+rêve pas.
+
+243
+00:12:06,020 --> 00:12:08,380
+Au cours du développement de l'être humain,
+
+244
+00:12:08,580 --> 00:12:10,420
+on voit aussi que ces différents stades vont
+
+245
+00:12:10,420 --> 00:12:11,680
+différer.
+
+246
+00:12:12,420 --> 00:12:14,680
+Quand on est un enfant, on passe la
+
+247
+00:12:14,680 --> 00:12:15,800
+plupart du temps à dormir.
+
+248
+00:12:16,680 --> 00:12:19,880
+Et quand on est adulte, jeune, on passe
+
+249
+00:12:19,880 --> 00:12:21,220
+la plupart du temps à réveiller.
+
+250
+00:12:21,480 --> 00:12:23,860
+Il y a surtout du sommeil profond, un
+
+251
+00:12:23,860 --> 00:12:26,680
+peu de sommeil paradoxal.
+
+252
+00:12:28,040 --> 00:12:33,100
+Et quand on devient âgé, on se réveille
+
+253
+00:12:33,100 --> 00:12:33,800
+encore plus.
+
+254
+00:12:34,340 --> 00:12:36,760
+La nuit, on passe plus de sommeil profond,
+
+255
+00:12:36,960 --> 00:12:40,520
+mais entrecoupé par plusieurs périodes de réveil, et
+
+256
+00:12:40,520 --> 00:12:42,360
+puis moins de sommeil paradoxal.
+
+257
+00:12:45,010 --> 00:12:47,250
+Quand on se prive de sommeil, on va
+
+258
+00:12:47,250 --> 00:12:49,110
+avoir des conséquences sur l'être humain.
+
+259
+00:12:49,890 --> 00:12:51,410
+Si c'est moins de 40 heures, on
+
+260
+00:12:51,410 --> 00:12:54,410
+va devenir héritable, trop de concentration, de mémorisation.
+
+261
+00:12:55,070 --> 00:12:58,130
+Mais au-delà de 100 heures de privation
+
+262
+00:12:58,130 --> 00:12:59,910
+de sommeil, on peut devenir psychotique.
+
+263
+00:13:00,330 --> 00:13:04,070
+Mais on va récupérer rapidement quand on dort.
+
+264
+00:13:07,650 --> 00:13:10,210
+Maintenant, si vous permettez, on va voir la
+
+265
+00:13:10,210 --> 00:13:13,870
+neurobiologie du cycle veille-sommeil.
+
+266
+00:13:20,640 --> 00:13:23,880
+La régulation du cycle veille-sommeil répond à
+
+267
+00:13:23,880 --> 00:13:25,440
+deux mécanismes.
+
+268
+00:13:25,500 --> 00:13:29,160
+Le mécanisme circadien, c'est l'horloge biologique
+
+269
+00:13:29,160 --> 00:13:32,700
+dont on a parlé, qui implique la sécrétion
+
+270
+00:13:32,700 --> 00:13:34,220
+de mélatonine la nuit.
+
+271
+00:13:34,980 --> 00:13:37,720
+Et puis l'homéostasie, l'homéostasie interne, c
+
+272
+00:13:37,720 --> 00:13:42,500
+'est-à-dire l'activité, l'énergie physique,
+
+273
+00:13:43,260 --> 00:13:49,280
+les différentes homéostasies, les différentes hormones, substances, l
+
+274
+00:13:49,280 --> 00:13:54,520
+'accumulation de toxiques, de substances oxidantes, etc., dans
+
+275
+00:13:54,520 --> 00:13:55,280
+le cerveau.
+
+276
+00:13:55,300 --> 00:13:57,480
+Tout ça, ça crée de la pression sur
+
+277
+00:13:57,480 --> 00:13:58,200
+le cerveau.
+
+278
+00:13:58,340 --> 00:14:00,520
+Et cette pression augmente, augmente, augmente.
+
+279
+00:14:00,940 --> 00:14:03,120
+Et elle n'a pas de rapport avec
+
+280
+00:14:03,120 --> 00:14:03,820
+le cycle circadien.
+
+281
+00:14:03,820 --> 00:14:07,160
+Elle est exponentielle, elle augmente.
+
+282
+00:14:08,160 --> 00:14:10,540
+Alors que le circadien, la force et la
+
+283
+00:14:10,540 --> 00:14:16,120
+pression exercées par ce mécanisme sur notre envie
+
+284
+00:14:16,120 --> 00:14:19,140
+de dormir, elle est variable selon le cycle
+
+285
+00:14:19,140 --> 00:14:21,800
+circadien, selon la sécrétion de mélatonine, qui est
+
+286
+00:14:21,800 --> 00:14:26,040
+surtout donc maximum au niveau du début de
+
+287
+00:14:26,040 --> 00:14:32,520
+la nuit, minimum au cours de la matinée.
+
+288
+00:14:34,340 --> 00:14:38,280
+Donc maintenant, on va voir ensemble quels sont
+
+289
+00:14:38,280 --> 00:14:42,820
+les mécanismes qui expliquent le sommeil.
+
+290
+00:14:43,140 --> 00:14:44,640
+Ça, c'est une partie très importante.
+
+291
+00:14:48,200 --> 00:14:51,900
+La vision de la lumière va activer le
+
+292
+00:14:51,900 --> 00:14:54,260
+noyau suprachiasmatique, comme on l'a dit, qui
+
+293
+00:14:54,260 --> 00:14:58,220
+va activer la glande pénérale via le système
+
+294
+00:14:58,220 --> 00:14:58,980
+sympathique.
+
+295
+00:14:59,980 --> 00:15:03,980
+Ça va aller vers la corne latérale de
+
+296
+00:15:03,980 --> 00:15:10,200
+la moelle, puis activer la chaîne paravertébrale, qui
+
+297
+00:15:10,200 --> 00:15:15,240
+va donc activer, elle, via un neurone sympathique,
+
+298
+00:15:15,380 --> 00:15:18,480
+ça va activer la glande pénérale et donner
+
+299
+00:15:18,480 --> 00:15:19,680
+la sécrétion de mélatonine.
+
+300
+00:15:20,080 --> 00:15:23,220
+La sécrétion de mélatonine va donc agir sur
+
+301
+00:15:23,220 --> 00:15:25,200
+une structure qu'on va voir plus tard
+
+302
+00:15:25,200 --> 00:15:27,200
+sur l'hépothalamus.
+
+303
+00:15:28,980 --> 00:15:31,620
+Mais avant de voir ça, quelles sont les
+
+304
+00:15:31,620 --> 00:15:33,780
+structures qui nous permettent de rester éveillés ?
+
+305
+00:15:33,780 --> 00:15:35,340
+Il faut savoir que dans le tronc cérébral
+
+306
+00:15:35,340 --> 00:15:38,900
+et dans l'hépothalamus, et aussi dans la
+
+307
+00:15:38,900 --> 00:15:41,620
+partie orbitofrontale, il y a plusieurs noyaux que
+
+308
+00:15:41,620 --> 00:15:42,520
+vous voyez là en jaune.
+
+309
+00:15:42,960 --> 00:15:46,440
+Par exemple, le LDT, qui est un noyau
+
+310
+00:15:46,440 --> 00:15:50,740
+cholinergique, le locus céruleus, qui est un noyau
+
+311
+00:15:50,740 --> 00:15:54,460
+noradénergique, le noyau du raphe, qui est un
+
+312
+00:15:54,460 --> 00:15:55,940
+noyau sérotoninergique.
+
+313
+00:15:56,020 --> 00:15:57,800
+On avait vu son rôle dans la douleur,
+
+314
+00:15:57,800 --> 00:16:00,320
+mais il a aussi un rôle dans la
+
+315
+00:16:00,320 --> 00:16:04,300
+projection sur le cortex cérébral pour garder le
+
+316
+00:16:04,300 --> 00:16:05,260
+cortex éveillé.
+
+317
+00:16:05,980 --> 00:16:08,600
+Il y a la substance noire, par la
+
+318
+00:16:08,600 --> 00:16:08,980
+dopamine.
+
+319
+00:16:09,660 --> 00:16:12,760
+Il y a un noyau estaminergique.
+
+320
+00:16:13,260 --> 00:16:16,800
+Ici, il y a un autre noyau cholinergique,
+
+321
+00:16:17,740 --> 00:16:19,120
+le noyau de Maynard.
+
+322
+00:16:19,540 --> 00:16:22,120
+Tous ces noyaux-là vont avoir des projections
+
+323
+00:16:22,120 --> 00:16:24,700
+diffuses sur le cortex cérébral pour le garder
+
+324
+00:16:24,700 --> 00:16:25,720
+éveillé.
+
+325
+00:16:26,980 --> 00:16:28,920
+Quand on est éveillé.
+
+326
+00:16:30,160 --> 00:16:32,120
+Il y a en plus un noyau très
+
+327
+00:16:32,120 --> 00:16:37,140
+important au niveau de l'hépotalamus, qui sont
+
+328
+00:16:37,140 --> 00:16:40,440
+des noyaux avec des neurones à orexine, qui
+
+329
+00:16:40,440 --> 00:16:43,580
+est un neurotransmetteur qui va se projeter sur
+
+330
+00:16:43,580 --> 00:16:45,020
+les différents noyaux qu'on vient de voir.
+
+331
+00:16:45,460 --> 00:16:47,900
+Il va avoir une action activatrice sur ces
+
+332
+00:16:47,900 --> 00:16:48,200
+noyaux.
+
+333
+00:16:48,660 --> 00:16:51,500
+Son rôle, c'est d'activer l'éveil.
+
+334
+00:16:53,710 --> 00:16:57,250
+Puis, il va y avoir le noyau ventrolatéral
+
+335
+00:16:57,250 --> 00:17:00,050
+préoptique, qui est un noyau qui va être
+
+336
+00:17:00,050 --> 00:17:01,270
+activé par la mélatonine.
+
+337
+00:17:02,170 --> 00:17:04,369
+Une fois activé par la mélatonine, il va
+
+338
+00:17:04,369 --> 00:17:07,390
+aller inhiber le noyau à orexine.
+
+339
+00:17:09,730 --> 00:17:12,329
+Et il va aussi inhiber tous les noyaux
+
+340
+00:17:12,329 --> 00:17:13,510
+qu'on vient de voir précédemment.
+
+341
+00:17:14,230 --> 00:17:18,010
+Les noyaux sérotoninergique, cholinergique, noradénergique, etc.
+
+342
+00:17:18,310 --> 00:17:20,470
+Il va inhiber tous les autres noyaux.
+
+343
+00:17:20,869 --> 00:17:22,150
+Et quand il va inhiber tous les autres
+
+344
+00:17:22,150 --> 00:17:25,230
+noyaux, le cortex va devenir désocié de ses
+
+345
+00:17:25,230 --> 00:17:26,270
+noyaux activateurs.
+
+346
+00:17:26,710 --> 00:17:27,990
+Et donc, il va être sous l'influence
+
+347
+00:17:27,990 --> 00:17:31,630
+du thalamus, qui a des décharges de faible
+
+348
+00:17:31,630 --> 00:17:32,950
+fréquence à 3 Hertz.
+
+349
+00:17:33,310 --> 00:17:35,910
+Ce qui va faire que le cortex cérébral
+
+350
+00:17:35,910 --> 00:17:37,650
+va s'endormir.
+
+351
+00:17:40,870 --> 00:17:43,810
+En plus, ce noyau-là, qu'on a
+
+352
+00:17:43,810 --> 00:17:47,690
+vu tout à l'heure, qui a des
+
+353
+00:17:47,690 --> 00:17:52,850
+projections cholinergiques, va avoir, au cours du sommeil
+
+354
+00:17:52,850 --> 00:17:58,170
+paradoxal, il va se projeter vers la partie
+
+355
+00:17:58,170 --> 00:18:04,850
+ventromédiale du tronc cérébral, du bulbe, et il
+
+356
+00:18:04,850 --> 00:18:07,710
+va donc inhiber les motoneurones alpha.
+
+357
+00:18:08,190 --> 00:18:10,070
+Ce qui va donner cette atonie dont on
+
+358
+00:18:10,070 --> 00:18:11,210
+a parlé tout à l'heure.
+
+359
+00:18:11,510 --> 00:18:15,490
+Donc, certains patients qui ont une dysfonction de
+
+360
+00:18:15,490 --> 00:18:17,910
+ce noyau-là, ce qu'ils vont présenter,
+
+361
+00:18:18,570 --> 00:18:20,670
+c'est des tropes du sommeil paradoxal.
+
+362
+00:18:20,670 --> 00:18:22,870
+C'est-à-dire qu'au sommeil paradoxal,
+
+363
+00:18:22,950 --> 00:18:25,030
+il y a une activité électrique importante, mais
+
+364
+00:18:25,030 --> 00:18:25,670
+il y a une atonie.
+
+365
+00:18:26,130 --> 00:18:27,450
+Mais chez ces patients-là, puisqu'il n
+
+366
+00:18:27,450 --> 00:18:29,750
+'y a pas ce mécanisme inhibiteur sur le
+
+367
+00:18:29,750 --> 00:18:33,070
+motoneurone alpha, le fait que le cortex cérébral
+
+368
+00:18:33,070 --> 00:18:34,450
+est activé en grande...
+
+369
+00:18:35,210 --> 00:18:37,390
+Il y a une activité électrique importante, fait
+
+370
+00:18:37,390 --> 00:18:39,690
+qu'il va y avoir activation des motoneurones
+
+371
+00:18:39,690 --> 00:18:41,670
+alpha et des mouvements au cours du sommeil.
+
+372
+00:18:42,010 --> 00:18:45,150
+C'est les partenaires qui vont se rendre
+
+373
+00:18:45,150 --> 00:18:49,950
+compte et demander aux patients de venir consulter
+
+374
+00:18:49,950 --> 00:18:51,670
+parce qu'au cours de la nuit, il
+
+375
+00:18:51,670 --> 00:18:53,970
+va commencer à crier, à frapper par sa
+
+376
+00:18:53,970 --> 00:18:56,730
+main, par son pied, à se blesser ou
+
+377
+00:18:56,730 --> 00:18:58,410
+à blesser son partenaire.
+
+378
+00:19:00,790 --> 00:19:03,690
+Donc, voilà un résumé des différents mécanismes qu
+
+379
+00:19:03,690 --> 00:19:04,970
+'on vient de voir ensemble.
+
+380
+00:19:07,270 --> 00:19:10,750
+La régulation homeostasique, il va intervenir quand on,
+
+381
+00:19:10,950 --> 00:19:14,510
+par exemple, bien sûr au cours de la
+
+382
+00:19:14,510 --> 00:19:19,250
+journée, on va perturber les différentes homeostasies.
+
+383
+00:19:19,250 --> 00:19:21,610
+Et donc, on a besoin, la nuit, de
+
+384
+00:19:21,610 --> 00:19:23,930
+dormir pour rétablir les équilibres.
+
+385
+00:19:24,410 --> 00:19:26,410
+Parmi les équilibres qu'il faut rétablir, c
+
+386
+00:19:26,410 --> 00:19:28,110
+'est d'éliminer tout ce qui est toxique,
+
+387
+00:19:28,790 --> 00:19:31,010
+de rétablir les équilibres ioniques, etc.
+
+388
+00:19:31,450 --> 00:19:33,010
+Mais si on ne dort pas la nuit,
+
+389
+00:19:33,550 --> 00:19:36,490
+cette pression homeostasique va continuer à grandir.
+
+390
+00:19:37,770 --> 00:19:41,970
+Et le lendemain, vous allez avoir cette pression
+
+391
+00:19:41,970 --> 00:19:45,510
+doublée et non pas diminuée, comme pour la
+
+392
+00:19:45,510 --> 00:19:48,550
+pression du système circadien.
+
+393
+00:19:51,310 --> 00:19:54,050
+Maintenant, on va voir les fonctions physiologiques du
+
+394
+00:19:54,050 --> 00:19:54,670
+sommeil.
+
+395
+00:19:56,010 --> 00:19:58,130
+Le sommeil joue plusieurs rôles.
+
+396
+00:19:58,290 --> 00:20:00,270
+On a vu ensemble qu'il était très
+
+397
+00:20:00,270 --> 00:20:04,250
+important pour rétablir les équilibres, pour rétablir l
+
+398
+00:20:04,250 --> 00:20:08,430
+'énergie, pour se reposer, pour faire reposer les
+
+399
+00:20:08,430 --> 00:20:12,550
+muscles, pour éliminer les déchets aussi.
+
+400
+00:20:12,550 --> 00:20:16,570
+Mais c'est pourquoi il est primordial, même
+
+401
+00:20:16,570 --> 00:20:18,310
+s'il est un peu dangereux pour certains
+
+402
+00:20:18,310 --> 00:20:24,450
+animaux qui peuvent être proies la nuit, quand
+
+403
+00:20:24,450 --> 00:20:29,770
+ils dorment, des autres animaux qui vont les
+
+404
+00:20:29,770 --> 00:20:30,970
+chasser et les manger.
+
+405
+00:20:34,440 --> 00:20:37,340
+Donc, je passe sur cette plaque.
+
+406
+00:20:38,220 --> 00:20:39,580
+Elle reprend ce que je viens de dire.
+
+407
+00:20:41,340 --> 00:20:43,480
+Donc, on pense que le sommeil permet de
+
+408
+00:20:43,480 --> 00:20:49,100
+restaurer l'état physiologique, physique et cognitif des
+
+409
+00:20:49,100 --> 00:20:49,880
+personnes.
+
+410
+00:20:53,060 --> 00:20:56,600
+Il a aussi une fonction de réorganisation synaptique.
+
+411
+00:20:56,760 --> 00:20:58,040
+C'est pourquoi on pense que c'est
+
+412
+00:20:58,040 --> 00:21:00,200
+au cours du sommeil qu'on va donc
+
+413
+00:21:00,200 --> 00:21:03,900
+retenir et consolider les souvenirs.
+
+414
+00:21:05,340 --> 00:21:07,600
+C'est pourquoi, je le dis et je
+
+415
+00:21:07,600 --> 00:21:09,420
+le redis, il faut bien dormir au cours
+
+416
+00:21:09,420 --> 00:21:10,900
+de la période de préparation.
+
+417
+00:21:11,880 --> 00:21:14,660
+La période de préparation, ça commence dès le
+
+418
+00:21:14,660 --> 00:21:17,580
+début, mais surtout en période de préparation, proprement
+
+419
+00:21:17,580 --> 00:21:20,760
+dite, les deux dernières semaines avant les examens.
+
+420
+00:21:20,920 --> 00:21:23,560
+Il faut dormir bien pour pouvoir mémoriser ce
+
+421
+00:21:23,560 --> 00:21:24,960
+qu'on est en train de lire durant
+
+422
+00:21:24,960 --> 00:21:25,520
+la journée.
+
+423
+00:21:28,010 --> 00:21:29,490
+Donc, le sommeil lent, c'est pour la
+
+424
+00:21:29,490 --> 00:21:35,910
+récupération physique, psychique, psychomotrice, élimination des déchets, etc.
+
+425
+00:21:36,390 --> 00:21:39,730
+Le paradoxal, on pense que c'est lui
+
+426
+00:21:39,730 --> 00:21:41,570
+qui est important pour l'apprentissage et la
+
+427
+00:21:41,570 --> 00:21:41,910
+mémoire.
+
+428
+00:21:46,740 --> 00:21:50,720
+Voici ici donc un schéma qui montre les
+
+429
+00:21:50,720 --> 00:21:56,180
+différents changements physiologiques qu'on va avoir au
+
+430
+00:21:56,180 --> 00:21:58,780
+cours du sommeil, comme la diminution de la
+
+431
+00:21:58,780 --> 00:22:01,780
+pression artérielle, de la température, etc.
+
+432
+00:22:04,190 --> 00:22:05,870
+Les règles d'hygiène d'un bon sommeil,
+
+433
+00:22:07,430 --> 00:22:11,230
+je vous laisse voir ces différents conseils qui
+
+434
+00:22:11,230 --> 00:22:13,330
+ne vont pas rentrer dans le cadre de
+
+435
+00:22:13,330 --> 00:22:15,930
+l'examen, mais c'est important pour vous
+
+436
+00:22:15,930 --> 00:22:17,370
+et pour votre préparation.
+
+437
+00:22:22,610 --> 00:22:26,090
+Donc, les troubles du sommeil peuvent être à
+
+438
+00:22:26,090 --> 00:22:28,610
+type d'insomnie, soit d'endormissement, soit au
+
+439
+00:22:28,610 --> 00:22:30,070
+cours de la nuit, on s'est réveillé
+
+440
+00:22:30,070 --> 00:22:32,630
+plusieurs fois, soit un syndrome d'apnée de
+
+441
+00:22:32,630 --> 00:22:35,590
+sommeil, ou surtout chez les patients qui sont
+
+442
+00:22:35,590 --> 00:22:41,190
+obèses et perpendus, ils peuvent présenter un remplement
+
+443
+00:22:41,190 --> 00:22:43,270
+et plusieurs apnées au cours du sommeil qui
+
+444
+00:22:43,270 --> 00:22:46,610
+peuvent dépasser 50 apnées par heure.
+
+445
+00:22:46,610 --> 00:22:48,670
+Et donc, à chaque fois le patient se
+
+446
+00:22:48,670 --> 00:22:52,330
+réveille et ça perturbe son sommeil et ça
+
+447
+00:22:52,330 --> 00:22:54,190
+donne de l'insomnie finalement.
+
+448
+00:22:54,610 --> 00:22:56,190
+Ça donne un patient le lendemain qui est
+
+449
+00:22:56,190 --> 00:22:57,650
+fatigué, il ne sait pas pourquoi il est
+
+450
+00:22:57,650 --> 00:22:59,750
+fatigué, c'est souvent à cause de cette
+
+451
+00:22:59,750 --> 00:23:00,390
+apnée de sommeil.
+
+452
+00:23:01,290 --> 00:23:02,370
+Il y a aussi le syndrome des jambes
+
+453
+00:23:02,370 --> 00:23:04,970
+sans repos, les patients qui ne peuvent pas
+
+454
+00:23:04,970 --> 00:23:06,810
+s'endormir parce qu'ils ont ce besoin
+
+455
+00:23:06,810 --> 00:23:09,890
+de faire bouger les jambes pour diminuer une
+
+456
+00:23:09,890 --> 00:23:13,670
+sensation de paresthésie au niveau des jambes.
+
+457
+00:23:13,670 --> 00:23:20,270
+Et puis les mouvements périodiques des jambes, ça
+
+458
+00:23:20,270 --> 00:23:22,850
+rejoint un peu le syndrome précédemment décrit.
+
+459
+00:23:23,970 --> 00:23:25,930
+Et puis les troubles de comportement somnoparadoxal, je
+
+460
+00:23:25,930 --> 00:23:27,650
+les ai un peu décrits quand j'ai
+
+461
+00:23:27,650 --> 00:23:30,190
+parlé du mécanisme de l'atomie et de
+
+462
+00:23:30,190 --> 00:23:31,430
+ce qui va se passer quand on va
+
+463
+00:23:31,430 --> 00:23:34,930
+avoir une perturbation de cette atomie.
+
+464
+00:23:37,210 --> 00:23:40,770
+Voilà ce schéma qui permet donc de scinder
+
+465
+00:23:40,770 --> 00:23:43,210
+les différents types de troubles en insomnie et
+
+466
+00:23:43,210 --> 00:23:45,630
+en cause d'insomnie, soit une dépression, etc.
+
+467
+00:23:46,530 --> 00:23:49,290
+Les épersomnies qui peuvent être dues à l
+
+468
+00:23:49,290 --> 00:23:49,890
+'apnée de sommeil.
+
+469
+00:23:50,010 --> 00:23:53,110
+L'apnée de sommeil peut engendrer l'insomnie,
+
+470
+00:23:53,330 --> 00:23:55,030
+mais aussi les épersomnies dures.
+
+471
+00:23:56,190 --> 00:23:57,830
+Il y a aussi la narcolepsie et l
+
+472
+00:23:57,830 --> 00:24:00,710
+'épersomnie idiopathique qui peuvent faire en sorte que
+
+473
+00:24:00,710 --> 00:24:02,710
+même si le patient dort très bien la
+
+474
+00:24:02,710 --> 00:24:05,750
+nuit, il a besoin de dormir encore la
+
+475
+00:24:05,750 --> 00:24:10,450
+journée avec des envies qu'il ne peut
+
+476
+00:24:10,450 --> 00:24:14,550
+pas arrêter pour dormir, etc.
+
+477
+00:24:14,850 --> 00:24:15,610
+Et puis il n'y a pas l
+
+478
+00:24:15,610 --> 00:24:18,590
+'insomnie comme le fait de marcher, s'onguler,
+
+479
+00:24:19,350 --> 00:24:21,250
+les terres nocturnes, etc.
+
+480
+00:24:21,930 --> 00:24:24,450
+Donc je vous remercie pour votre attention et
+
+481
+00:24:24,450 --> 00:24:27,390
+on se donne rendez-vous mercredi prochain pour
+
+482
+00:24:27,390 --> 00:24:28,410
+une séance d'ARC.
+
+483
+00:24:29,070 --> 00:24:31,950
+J'espère que vous serez nombreux pour discuter
+
+484
+00:24:31,950 --> 00:24:36,070
+ensemble de différents éléments qui vous posent encore
+
+485
+00:24:36,070 --> 00:24:39,830
+des problèmes pour bien comprendre la neurophysiologie.
+
+486
+00:24:40,010 --> 00:24:40,630
+Je vous remercie.
+
+487
+00:24:40,790 --> 00:24:41,090
+Au revoir.

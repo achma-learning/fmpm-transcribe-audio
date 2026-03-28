@@ -1,0 +1,2107 @@
+1
+00:00:01,540 --> 00:00:06,040
+Bonjour chers étudiants, nous allons voir dans ce
+
+2
+00:00:06,040 --> 00:00:10,180
+cours le retard de croissance staturale.
+
+3
+00:00:12,480 --> 00:00:15,580
+Comment est défini le retard de croissance staturale
+
+4
+00:00:15,580 --> 00:00:16,540
+?
+
+5
+00:00:17,380 --> 00:00:21,940
+C'est une taille inférieure ou égale à
+
+6
+00:00:21,940 --> 00:00:26,160
+moins de TS Ou c'est une taille
+
+7
+00:00:26,160 --> 00:00:30,260
+inférieure à moins de 1,5 TS de
+
+8
+00:00:30,260 --> 00:00:33,120
+la taille cible On va voir comment calculer
+
+9
+00:00:33,120 --> 00:00:36,560
+la taille cible Ou c'est un ralentissement
+
+10
+00:00:36,560 --> 00:00:39,520
+de la vitesse de croissance, soit une cassure
+
+11
+00:00:39,520 --> 00:00:43,400
+ou un éblouissement La vitesse de croissance, c
+
+12
+00:00:43,400 --> 00:00:47,520
+'est le nombre de centimètres pris par an
+
+13
+00:00:47,520 --> 00:00:50,660
+Si il y a un ralentissement de cette
+
+14
+00:00:50,660 --> 00:00:54,560
+vitesse de croissance, ça définit le retard statural
+
+15
+00:00:55,640 --> 00:00:59,620
+La vitesse de croissance dépend de l'âge
+
+16
+00:00:59,620 --> 00:01:03,819
+de l'enfant, on va voir ça Les
+
+17
+00:01:03,819 --> 00:01:05,980
+étiologies du retard statural chez l'enfant sont
+
+18
+00:01:05,980 --> 00:01:09,900
+multiples Le retard statural peut être le premier
+
+19
+00:01:09,900 --> 00:01:14,200
+signe d'une maladie chronique D'où la
+
+20
+00:01:14,200 --> 00:01:18,040
+nécessité de surveiller la croissance de tout enfant
+
+21
+00:01:18,040 --> 00:01:21,900
+et à chaque consultation Le retard statural peut
+
+22
+00:01:21,900 --> 00:01:25,000
+être isolé ou rentré dans un contexte clinique
+
+23
+00:01:25,000 --> 00:01:30,580
+particulier Le diagnostic étiologique repose sur des sites
+
+24
+00:01:30,580 --> 00:01:33,880
+cliniques, l'analyse rigoureuse de la courbe de
+
+25
+00:01:33,880 --> 00:01:37,660
+croissance et l'âge au sein C'est
+
+26
+00:01:37,660 --> 00:01:40,480
+dire que la surveillance de la croissance staturale
+
+27
+00:01:40,480 --> 00:01:43,620
+et pandérale doit faire partie de la surveillance
+
+28
+00:01:43,620 --> 00:01:46,800
+systématique de tout enfant Parce que la croissance
+
+29
+00:01:46,800 --> 00:01:50,440
+staturopandérale de l'enfant peut être la première
+
+30
+00:01:50,440 --> 00:01:54,520
+étape d'entrée à une maladie chronique Et
+
+31
+00:01:54,520 --> 00:02:00,720
+donc cette surveillance nous permettra de dépister une
+
+32
+00:02:00,720 --> 00:02:06,160
+maladie chronique tôt au début On va voir
+
+33
+00:02:06,160 --> 00:02:10,600
+la croissance normale pour comprendre ce que c
+
+34
+00:02:10,600 --> 00:02:14,240
+'est que ce retard de croissance Comment on
+
+35
+00:02:14,240 --> 00:02:16,880
+évalue la croissance d'un enfant ?
+
+36
+00:02:16,880 --> 00:02:19,420
+Comment prendre la taille d'un enfant ?
+
+37
+00:02:20,160 --> 00:02:23,320
+Jusqu'à 100 cm et haut de la
+
+38
+00:02:23,320 --> 00:02:25,500
+naissance à 3 ou 4 ans, il faut
+
+39
+00:02:25,500 --> 00:02:29,180
+mesurer la taille couchée avec une toise horizontale
+
+40
+00:02:29,180 --> 00:02:31,740
+Et à partir de 3 ou 4 ans
+
+41
+00:02:31,740 --> 00:02:35,280
+au 200 cm, on fait la mesure debout,
+
+42
+00:02:35,860 --> 00:02:39,320
+tête fléchie avec une toise murale fixée Et
+
+43
+00:02:39,320 --> 00:02:41,460
+bien sûr rappeler des 4 points d'appui,
+
+44
+00:02:42,020 --> 00:02:45,600
+les talons contre le mur, les fesses, les
+
+45
+00:02:45,600 --> 00:02:49,000
+épaules et l'occépute pour ne pas perdre
+
+46
+00:02:49,000 --> 00:02:52,900
+de centimètre Et conclure à tort que cet
+
+47
+00:02:52,900 --> 00:02:58,100
+enfant présente un retard statural La vitesse de
+
+48
+00:02:58,100 --> 00:03:00,880
+croissance et le nombre de centimètres acquis en
+
+49
+00:03:00,880 --> 00:03:03,880
+une année La taille cible, c'est la
+
+50
+00:03:03,880 --> 00:03:08,060
+moyenne des tailles parentales en centimètres Plus 6
+
+51
+00:03:08,060 --> 00:03:11,320
+,5 chez le garçon et moins 6,5
+
+52
+00:03:11,320 --> 00:03:14,320
+chez la fille On prend le poids de
+
+53
+00:03:14,320 --> 00:03:17,940
+la maman plus le poids du papa On
+
+54
+00:03:17,940 --> 00:03:23,740
+divise par 2 bien sûr et on ajoute
+
+55
+00:03:23,740 --> 00:03:27,060
+6,5 pour dire que c'est la
+
+56
+00:03:27,060 --> 00:03:30,000
+taille cible chez le garçon Et on retranche
+
+57
+00:03:30,000 --> 00:03:32,700
+6,5 pour dire que c'est la
+
+58
+00:03:32,700 --> 00:03:39,470
+taille cible de la fille Le poids doit
+
+59
+00:03:39,470 --> 00:03:46,130
+être mesuré avec une balance enfant déshabillé Et
+
+60
+00:03:46,130 --> 00:03:49,630
+on peut calculer l'indice de masse corporelle
+
+61
+00:03:50,530 --> 00:03:54,130
+Qui est calculé par le poids en kilos
+
+62
+00:03:54,130 --> 00:03:58,370
+divisé par la taille au carré en centimètres
+
+63
+00:03:58,370 --> 00:04:02,090
+L'IMC reflète l'état nutritionnel et la
+
+64
+00:04:02,090 --> 00:04:08,050
+masse grasse Le périmètre crânien mesure le plus
+
+65
+00:04:08,050 --> 00:04:11,290
+grand périmètre céphalique, c'est à dire fronto
+
+66
+00:04:11,290 --> 00:04:14,990
+-occipital On cesse de mesurer le périmètre crânien
+
+67
+00:04:14,990 --> 00:04:17,130
+vers l'âge de 5 ans Parce que
+
+68
+00:04:17,130 --> 00:04:19,570
+la croissance crânienne n'est plus importante, donc
+
+69
+00:04:19,570 --> 00:04:22,410
+le PC ne sert plus à rien Le
+
+70
+00:04:22,410 --> 00:04:26,070
+rapport périmètre braquel sur le périmètre crânien est
+
+71
+00:04:26,070 --> 00:04:28,030
+un bon reflet de l'état nutritionnel chez
+
+72
+00:04:28,030 --> 00:04:30,010
+l'enfant jusqu'à l'âge de 5
+
+73
+00:04:30,010 --> 00:04:33,290
+ans On parle d'un rapport normal si
+
+74
+00:04:33,290 --> 00:04:36,010
+il est supérieur à 0,3 Une dénutrition
+
+75
+00:04:36,010 --> 00:04:38,870
+modérée entre 0,28 et 0,3 Et
+
+76
+00:04:38,870 --> 00:04:42,870
+une dénutrition sévère si le périmètre braquel sur
+
+77
+00:04:42,870 --> 00:04:46,370
+le périmètre crânien est inférieur à 0,28
+
+78
+00:04:49,650 --> 00:04:54,010
+Ce sont des images qui montrent comment on
+
+79
+00:04:54,010 --> 00:05:02,230
+mesure la taille d'un enfant Un petit
+
+80
+00:05:02,230 --> 00:05:05,430
+enfant il faut mesurer la taille couché Un
+
+81
+00:05:05,430 --> 00:05:08,210
+grand enfant il faut mesurer la taille debout
+
+82
+00:05:08,210 --> 00:05:11,870
+avec les 4 points d'appui Les talons,
+
+83
+00:05:12,230 --> 00:05:15,230
+les fesses, les épaules et l'occipite pour
+
+84
+00:05:15,230 --> 00:05:19,570
+ne pas perdre de centimètre Pour le périmètre
+
+85
+00:05:19,570 --> 00:05:25,970
+crânien on mesure le plus grand diamètre fronto
+
+86
+00:05:25,970 --> 00:05:31,070
+-occipital Et pour le périmètre braquel ça met
+
+87
+00:05:31,070 --> 00:05:34,510
+une distance entre le crâne et la cromion
+
+88
+00:05:34,510 --> 00:05:37,950
+Et on le rapporte au périmètre crânien avant
+
+89
+00:05:37,950 --> 00:05:42,090
+l'âge de 5 ans Parce qu'après
+
+90
+00:05:42,090 --> 00:05:44,310
+5 ans c'est plus important de prendre
+
+91
+00:05:44,310 --> 00:05:50,890
+le périmètre crânien Ce sont les courbes de
+
+92
+00:05:50,890 --> 00:05:56,430
+croissance Quand on prend le poids et la
+
+93
+00:05:56,430 --> 00:05:58,030
+taille d'un enfant il faut toujours le
+
+94
+00:05:58,030 --> 00:06:01,570
+rapporter aux courbes de croissance En vert c
+
+95
+00:06:01,570 --> 00:06:08,090
+'est la moyenne de la taille En bleu
+
+96
+00:06:08,090 --> 00:06:10,690
+c'est moins 1 ds et en haut
+
+97
+00:06:10,690 --> 00:06:13,570
+c'est plus 1 ds Ici c'est
+
+98
+00:06:13,570 --> 00:06:16,110
+moins 2 ds et ici c'est plus
+
+99
+00:06:16,110 --> 00:06:19,170
+2 ds On parle d'un retard statural
+
+100
+00:06:19,170 --> 00:06:22,630
+quand on est situé au-dessous de moins
+
+101
+00:06:22,630 --> 00:06:25,450
+2 ds Par exemple un enfant qui grandit
+
+102
+00:06:25,450 --> 00:06:28,870
+ici c'est un retard statural La même
+
+103
+00:06:28,870 --> 00:06:30,450
+chose pour le poids, il y a la
+
+104
+00:06:30,450 --> 00:06:32,510
+moyenne, il y a plus 1 et plus
+
+105
+00:06:32,510 --> 00:06:35,590
+2 et moins 1 et moins 2 Ça
+
+106
+00:06:35,590 --> 00:06:37,730
+c'est la courbe de corpulence chez les
+
+107
+00:06:37,730 --> 00:06:40,450
+garçons de 0 à 18 ans Quand on
+
+108
+00:06:40,450 --> 00:06:43,690
+calcule l'indice de masse corporelle on le
+
+109
+00:06:43,690 --> 00:06:47,890
+rapporte Quand il est en fonction de l
+
+110
+00:06:47,890 --> 00:06:52,770
+'âge il reflète l'état nutritionnel Il peut
+
+111
+00:06:52,770 --> 00:06:55,950
+refléter une insuffisance mondiale comme il peut nous
+
+112
+00:06:55,950 --> 00:07:04,610
+renseigner sur une obésité Comment évolue la croissance
+
+113
+00:07:04,610 --> 00:07:08,290
+de l'enfant ?
+
+114
+00:07:08,290 --> 00:07:10,090
+Vous savez tous qu'il y a des
+
+115
+00:07:10,090 --> 00:07:14,850
+phases de croissance rapide et des phases de
+
+116
+00:07:14,850 --> 00:07:17,610
+croissance lente Il faut les connaître par cœur
+
+117
+00:07:17,610 --> 00:07:20,170
+parce que c'est très très important Et
+
+118
+00:07:20,170 --> 00:07:21,990
+c'est là où change ce qu'on
+
+119
+00:07:21,990 --> 00:07:24,990
+appelle la vitesse de croissance La phase de
+
+120
+00:07:24,990 --> 00:07:29,130
+croissance rapide c'est entre 0 et 4
+
+121
+00:07:29,130 --> 00:07:31,830
+ans C'est une phase de croissance très
+
+122
+00:07:31,830 --> 00:07:37,510
+très importante On est avec 50 cm et
+
+123
+00:07:37,510 --> 00:07:39,810
+on double la taille de naissance à l
+
+124
+00:07:39,810 --> 00:07:42,430
+'âge de 4 ans Si on perd des
+
+125
+00:07:42,430 --> 00:07:45,170
+centimètres entre 0 et 4 ans on risque
+
+126
+00:07:45,170 --> 00:07:49,110
+de ne pas les récupérer par la suite
+
+127
+00:07:49,110 --> 00:07:53,050
+La première année on gagne 25 cm soit
+
+128
+00:07:53,050 --> 00:07:55,030
+75 cm à 1 an C'est des
+
+129
+00:07:55,030 --> 00:07:59,450
+repères importants de croissance Parfois vous êtes dans
+
+130
+00:07:59,450 --> 00:08:00,950
+des petits patelins, vous n'avez pas les
+
+131
+00:08:00,950 --> 00:08:03,030
+courbes de croissance à portée de main Il
+
+132
+00:08:03,030 --> 00:08:05,210
+faut reconnaître ces étapes de croissance et ces
+
+133
+00:08:05,210 --> 00:08:08,850
+repères de croissance Pour pouvoir dépister un problème
+
+134
+00:08:08,850 --> 00:08:11,550
+de croissance chez les enfants qui consultent chez
+
+135
+00:08:11,550 --> 00:08:15,210
+vous La deuxième année on gagne environ 10
+
+136
+00:08:15,210 --> 00:08:18,170
+cm Donc à 2 ans il faut que
+
+137
+00:08:18,170 --> 00:08:21,330
+l'enfant ait une taille de 85 cm
+
+138
+00:08:21,330 --> 00:08:25,150
+La troisième année on gagne 8 cm soit
+
+139
+00:08:25,150 --> 00:08:29,010
+93 cm à 3 ans La quatrième année
+
+140
+00:08:29,010 --> 00:08:34,610
+on gagne 8 cm soit 100 cm à
+
+141
+00:08:34,610 --> 00:08:37,309
+l'âge de 4 ans Après il y
+
+142
+00:08:37,309 --> 00:08:39,130
+a une phase de croissance qui est lente,
+
+143
+00:08:39,330 --> 00:08:42,210
+de 4 ans à la période pubertaire Il
+
+144
+00:08:42,210 --> 00:08:44,390
+y a un ralentissement progressif de la vitesse
+
+145
+00:08:44,390 --> 00:08:48,730
+de croissance Il y a un gain maximal
+
+146
+00:08:48,730 --> 00:08:51,370
+de 5 à 6 cm par an Que
+
+147
+00:08:51,370 --> 00:08:53,890
+ce soit chez l'enfant, le garçon ou
+
+148
+00:08:53,890 --> 00:08:56,550
+la fille Il y a une autre phase
+
+149
+00:08:56,550 --> 00:09:00,190
+de croissance rapide qui est très importante C
+
+150
+00:09:00,190 --> 00:09:03,210
+'est la phase pubertaire On peut gagner 7
+
+151
+00:09:03,210 --> 00:09:06,250
+à 9 cm par an Le gain total
+
+152
+00:09:06,250 --> 00:09:09,970
+moyen est de 24 à 27 cm Sur
+
+153
+00:09:09,970 --> 00:09:13,050
+toute la période pubertaire qui peut aller de
+
+154
+00:09:13,050 --> 00:09:15,770
+3 à 5 ans On peut gagner 24
+
+155
+00:09:15,770 --> 00:09:20,610
+à 27 cm La fin de la croissance
+
+156
+00:09:20,610 --> 00:09:23,930
+est définie par une vitesse de croissance inférieure
+
+157
+00:09:23,930 --> 00:09:28,470
+à 2 cm par an Il y a
+
+158
+00:09:28,470 --> 00:09:30,590
+des enfants qui vont faire la fin de
+
+159
+00:09:30,590 --> 00:09:31,930
+la croissance à l'âge de 16 ans
+
+160
+00:09:31,930 --> 00:09:33,270
+Il y en a d'autres qui peuvent
+
+161
+00:09:33,270 --> 00:09:34,670
+faire ça à l'âge de 18 ans
+
+162
+00:09:34,670 --> 00:09:38,630
+Il est défini par une vitesse de croissance
+
+163
+00:09:38,630 --> 00:09:42,350
+qui ne dépasse plus 2 cm par an
+
+164
+00:09:42,350 --> 00:09:45,450
+Ou un âge osseux supérieur à 15 ans
+
+165
+00:09:45,450 --> 00:09:47,270
+chez la fille et 16 ans chez le
+
+166
+00:09:47,270 --> 00:09:50,910
+garçon Je dis âge osseux et pas âge
+
+167
+00:09:50,910 --> 00:09:57,670
+chronologique C'est un petit rappel de ces
+
+168
+00:09:57,670 --> 00:10:00,430
+étapes importantes de la croissance chez l'enfant
+
+169
+00:10:00,430 --> 00:10:04,830
+Regardez, la vitesse de croissance était énorme chez
+
+170
+00:10:04,830 --> 00:10:08,850
+l'enfant Elle diminue pour s'aligner un
+
+171
+00:10:08,850 --> 00:10:13,250
+petit peu entre 4 et la phase prépubertaire
+
+172
+00:10:14,130 --> 00:10:18,010
+Le début de la puberté, il y a
+
+173
+00:10:18,010 --> 00:10:21,770
+une croissance très rapide avec un pic à
+
+174
+00:10:21,770 --> 00:10:26,410
+la phase pubertaire Il y a un déclin
+
+175
+00:10:26,410 --> 00:10:29,750
+de cette courbe qui va marquer la fin
+
+176
+00:10:29,750 --> 00:10:33,630
+de la croissance Elle est définie par une
+
+177
+00:10:33,630 --> 00:10:37,450
+vitesse de croissance inférieure à 2 cm Ou
+
+178
+00:10:37,450 --> 00:10:40,070
+un âge osseux de 15 ans chez la
+
+179
+00:10:40,070 --> 00:10:41,890
+fille et de 16 ans chez le garçon
+
+180
+00:10:43,780 --> 00:10:47,400
+Comment est la croissance du périmètre crânien ?
+
+181
+00:10:47,400 --> 00:10:50,340
+Elle est indépendante de la taille corporelle Elle
+
+182
+00:10:50,340 --> 00:10:55,140
+est maximale pendant les 3 premières années Puis
+
+183
+00:10:55,140 --> 00:11:00,240
+l'enfant peut gagner 15 cm Puis elle
+
+184
+00:11:00,240 --> 00:11:02,640
+est de 5 à 7 cm jusqu'à
+
+185
+00:11:02,640 --> 00:11:06,200
+l'âge adulte A la naissance, le PC
+
+186
+00:11:06,200 --> 00:11:09,760
+est de 35 cm La première année, l
+
+187
+00:11:09,760 --> 00:11:13,320
+'enfant gagne 12 cm Donc son PC est
+
+188
+00:11:13,320 --> 00:11:16,700
+de 47 cm à la première année Il
+
+189
+00:11:16,700 --> 00:11:19,940
+gagne après 2 cm la deuxième année Et
+
+190
+00:11:19,940 --> 00:11:22,440
+1 cm la troisième année Et à l
+
+191
+00:11:22,440 --> 00:11:25,440
+'âge adulte, il n'a que 55 cm
+
+192
+00:11:25,440 --> 00:11:29,040
+chez la fille et 57 cm chez le
+
+193
+00:11:29,040 --> 00:11:38,160
+garçon La croissance de l'enfant est régulée
+
+194
+00:11:38,160 --> 00:11:46,820
+par plusieurs facteurs Ce sont les facteurs constitutionnels,
+
+195
+00:11:47,800 --> 00:11:52,280
+génétiques ou la structure osseuse et le cartilage
+
+196
+00:11:52,280 --> 00:11:56,520
+de congélaison Quand on a une anomalie osseuse,
+
+197
+00:11:56,780 --> 00:11:58,660
+il y a automatiquement un retentissement sur la
+
+198
+00:11:58,660 --> 00:12:03,140
+croissance Les facteurs énergétiques, quand on a un
+
+199
+00:12:03,140 --> 00:12:09,820
+déficit nutritionnel, il y aura automatiquement une influence
+
+200
+00:12:09,820 --> 00:12:14,140
+sur la croissance L'appareil digestif, l'hépatite,
+
+201
+00:12:14,540 --> 00:12:17,000
+le rénal, le pulmonaire et le cardiaque Toutes
+
+202
+00:12:17,000 --> 00:12:19,460
+les maladies chroniques peuvent retentir sur la croissance
+
+203
+00:12:19,460 --> 00:12:22,360
+Il y a aussi les facteurs endocriniens et
+
+204
+00:12:22,360 --> 00:12:26,200
+les facteurs psychologiques qui retentissent aussi sur la
+
+205
+00:12:26,200 --> 00:12:30,080
+croissance de l'enfant Nous avons vu une
+
+206
+00:12:30,080 --> 00:12:34,080
+croissance normale, comment elle évolue et par quoi
+
+207
+00:12:34,080 --> 00:12:36,800
+elle est régulée Quels sont les facteurs intervenants
+
+208
+00:12:37,280 --> 00:12:39,520
+Maintenant, on va voir le retard de croissance
+
+209
+00:12:40,300 --> 00:12:44,120
+Je vais récapituler la définition qui est Une
+
+210
+00:12:44,120 --> 00:12:50,300
+croissance qui est inférieure à moins de DS
+
+211
+00:12:50,300 --> 00:12:55,200
+des courbes utilisées Ou une taille cible qui
+
+212
+00:12:55,200 --> 00:12:59,000
+est inférieure à moins de DS Ou un
+
+213
+00:12:59,000 --> 00:13:07,760
+infléchissement de la vitesse de croissance Comment on
+
+214
+00:13:07,760 --> 00:13:11,380
+fait le diagnostic éthiologique Bien sûr, une anomalie
+
+215
+00:13:11,380 --> 00:13:14,020
+de la croissance doit faire chercher une éthiologie
+
+216
+00:13:14,020 --> 00:13:16,520
+de cette anomalie de la croissance Il faut
+
+217
+00:13:16,520 --> 00:13:20,040
+commencer par un interrogatoire Il faut commencer par
+
+218
+00:13:20,040 --> 00:13:23,720
+identifier la taille des parents pour apprécier la
+
+219
+00:13:23,720 --> 00:13:26,180
+part des facteurs génétiques Il y a des
+
+220
+00:13:26,180 --> 00:13:31,440
+petites tailles familiales Un retard pubertaire chez l
+
+221
+00:13:31,440 --> 00:13:34,520
+'un des parents évoque soit un retard simple
+
+222
+00:13:34,520 --> 00:13:37,980
+de la puberté Soit un déficit de gonadotropes
+
+223
+00:13:37,980 --> 00:13:42,220
+familiales Un retard de croissance intra-utérin et
+
+224
+00:13:42,220 --> 00:13:46,220
+une prématurité vont retentir sur la croissance de
+
+225
+00:13:46,220 --> 00:13:50,080
+l'enfant Une pathologie neonatale, notamment un hypoglycémie
+
+226
+00:13:50,080 --> 00:13:54,400
+ou un micropénis Font évoquer une anomalie de
+
+227
+00:13:54,400 --> 00:13:56,960
+la synthèse de l'hormone de croissance Les
+
+228
+00:13:56,960 --> 00:14:00,960
+carences nutritionnelles, surtout chez le nourrissant, vont automatiquement
+
+229
+00:14:00,960 --> 00:14:04,020
+retentir sur la croissance Il faut les identifier,
+
+230
+00:14:04,660 --> 00:14:07,220
+les traiter pour améliorer la croissance de l
+
+231
+00:14:07,220 --> 00:14:10,100
+'enfant Il faut chercher la notion d'une
+
+232
+00:14:10,100 --> 00:14:14,800
+maladie chronique, soit personnelle ou familiale Il faut
+
+233
+00:14:14,800 --> 00:14:17,060
+voir le développement psychomoteur parce qu'il y
+
+234
+00:14:17,060 --> 00:14:20,880
+a des anomalies génétiques qui associent problème psychomoteur,
+
+235
+00:14:21,040 --> 00:14:25,040
+anomalies de la croissance et autres anomalies Une
+
+236
+00:14:25,040 --> 00:14:29,120
+crise de corticoïdes ou un contexte psycho-affectif
+
+237
+00:14:29,120 --> 00:14:33,700
+inadéquat qui peut aboutir à un anisme psychosocial
+
+238
+00:14:34,620 --> 00:14:36,560
+A côté de tout ça, il faut chercher
+
+239
+00:14:36,560 --> 00:14:39,880
+les signes fonctionnels accompagnant ce retard de croissance
+
+240
+00:14:39,880 --> 00:14:43,480
+Notamment des céphalées, troubles visuels ou des vomissements
+
+241
+00:14:43,480 --> 00:14:47,400
+qui signifient une hypertension intracrânienne Et qui signifient
+
+242
+00:14:47,400 --> 00:14:49,820
+qu'il y a une anomalie centrale qui
+
+243
+00:14:49,820 --> 00:14:52,780
+a donné ce retentissement sur la croissance Les
+
+244
+00:14:52,780 --> 00:14:55,620
+troubles digestifs, une asthémie qui peut signifier une
+
+245
+00:14:55,620 --> 00:14:57,680
+maladie celiaque Et qu'il y a un
+
+246
+00:14:57,680 --> 00:15:00,260
+important retentissement sur la croissance naturelle de l
+
+247
+00:15:00,260 --> 00:15:04,120
+'enfant Un syndrome polyhéro-polydipsique qui peut nous
+
+248
+00:15:04,120 --> 00:15:07,360
+orienter vers un diabète insipido, une tubulopathie qui
+
+249
+00:15:07,360 --> 00:15:10,800
+a aussi une influence sur la croissance de
+
+250
+00:15:10,800 --> 00:15:17,480
+l'enfant Un examen clinique s'impose pour
+
+251
+00:15:17,480 --> 00:15:19,680
+chercher des éléments en faveur d'une pathologie
+
+252
+00:15:19,680 --> 00:15:24,420
+chronique Notamment un hypocratisme digital, un souffle cardiaque,
+
+253
+00:15:24,960 --> 00:15:28,560
+des signes de carence Il faut voir si
+
+254
+00:15:28,560 --> 00:15:33,240
+le retard staturel est harmonieux ou désharmonieux Quand
+
+255
+00:15:33,240 --> 00:15:36,780
+il est désharmonieux, c'est une maladie osseuse
+
+256
+00:15:36,780 --> 00:15:40,480
+Il faut aussi chercher des signes dysmorphiques, on
+
+257
+00:15:40,480 --> 00:15:42,080
+va le voir dans le syndrome de Turner
+
+258
+00:15:42,080 --> 00:15:44,460
+et le déficit en CH Et d'autres
+
+259
+00:15:44,460 --> 00:15:47,860
+anomalies bien sûr génétiques Chercher des anomalies de
+
+260
+00:15:47,860 --> 00:15:50,160
+l'anime médiane, une fente labiale et ou
+
+261
+00:15:50,160 --> 00:15:54,720
+palatine Une incisive médiane unique, évocatrice d'une
+
+262
+00:15:54,720 --> 00:16:00,620
+anomalie hypothalamide hypophysaire Il faut toujours stadifier la
+
+263
+00:16:00,620 --> 00:16:04,820
+puberté de l'enfant, palper la thyroïde Chercher
+
+264
+00:16:04,820 --> 00:16:08,280
+une adiposité abdominale qui peut nous orienter vers
+
+265
+00:16:08,280 --> 00:16:11,860
+un déficit en CH Et bien sûr, compléter
+
+266
+00:16:11,860 --> 00:16:20,620
+l'examen clinique général, appareil par appareil A
+
+267
+00:16:20,620 --> 00:16:22,940
+côté de l'interrogatoire et de l'examen
+
+268
+00:16:22,940 --> 00:16:27,780
+clinique qui peut nous orienter déjà vers une
+
+269
+00:16:27,780 --> 00:16:30,980
+étiologie de cette anomalie de la croissance Il
+
+270
+00:16:30,980 --> 00:16:34,140
+faut faire une analyse rigoureuse de la courbe
+
+271
+00:16:34,140 --> 00:16:38,020
+de croissance stature pandérale La mesure de la
+
+272
+00:16:38,020 --> 00:16:42,280
+taille seule ne signifie rien Il faut mesurer
+
+273
+00:16:42,280 --> 00:16:45,840
+la taille actuelle et faire une analyse de
+
+274
+00:16:45,840 --> 00:16:49,420
+la courbe pour prédire du caractère normal ou
+
+275
+00:16:49,420 --> 00:16:51,220
+non de la croissance Parce qu'il y
+
+276
+00:16:51,220 --> 00:16:55,160
+a des enfants qui grandissent normalement sous la
+
+277
+00:16:55,160 --> 00:16:58,280
+courbe de 1-2 Et donc si vous
+
+278
+00:16:58,280 --> 00:17:02,560
+trouvez une taille 1-2, un point ponctuel
+
+279
+00:17:02,560 --> 00:17:04,020
+1-2, ça ne veut rien dire Il
+
+280
+00:17:04,020 --> 00:17:07,540
+faut voir si cet enfant a toujours grandi
+
+281
+00:17:07,540 --> 00:17:10,040
+sur la ligne de 1-2 Ça ne
+
+282
+00:17:10,040 --> 00:17:12,500
+signifie pas un retard de croissance et ça
+
+283
+00:17:12,500 --> 00:17:16,480
+ne signifie pas des examens complémentaires pour chercher
+
+284
+00:17:16,480 --> 00:17:19,359
+la cause Mais il faut faire une analyse
+
+285
+00:17:19,359 --> 00:17:22,200
+de la courbe de croissance Qui permet aussi
+
+286
+00:17:22,200 --> 00:17:25,319
+de dater le début du retard de croissance
+
+287
+00:17:25,319 --> 00:17:28,440
+et de calculer la vitesse de croissance Il
+
+288
+00:17:28,440 --> 00:17:32,200
+y a quelques notions qu'on peut tirer
+
+289
+00:17:32,200 --> 00:17:34,080
+de cette analyse de la courbe de croissance
+
+290
+00:17:34,080 --> 00:17:37,200
+Un retard statural avec une vitesse de croissance
+
+291
+00:17:37,200 --> 00:17:41,860
+régulière permet d'identifier une origine génétique et
+
+292
+00:17:41,860 --> 00:17:46,380
+ou constitutionnelle Un retard statural avec un ralentissement
+
+293
+00:17:46,380 --> 00:17:48,860
+de la vitesse de croissance, ce qu'on
+
+294
+00:17:48,860 --> 00:17:51,220
+appelle la cassure de la courbe de croissance
+
+295
+00:17:52,900 --> 00:17:55,680
+Et en l'occurrence une maladie celiaque, je
+
+296
+00:17:55,680 --> 00:17:59,360
+serai preuve du contraire Un retard pandéral puis
+
+297
+00:17:59,360 --> 00:18:02,100
+statural, il faut penser à l'origine énergétique
+
+298
+00:18:02,100 --> 00:18:06,160
+ou nutritionnelle, notamment la maladie celiaque Un retard
+
+299
+00:18:06,160 --> 00:18:09,140
+statural et une prise pandérale, pensez à l
+
+300
+00:18:09,140 --> 00:18:13,760
+'origine endocrinienne En premier l'hypothyroïdie ou l
+
+301
+00:18:13,760 --> 00:18:17,900
+'hypercorticisme ou une origine génétique comme le syndrome
+
+302
+00:18:17,900 --> 00:18:27,820
+de Prader-Willi Regardez sur cette courbe, vous
+
+303
+00:18:27,820 --> 00:18:30,640
+voyez bien que c'est un enfant qui
+
+304
+00:18:30,640 --> 00:18:37,500
+a toujours grandi sur la ligne de moins
+
+305
+00:18:37,500 --> 00:18:42,980
+2 Il fait une petite cassure vers la
+
+306
+00:18:42,980 --> 00:18:45,660
+puberté pour reprendre, c'est ce qu'on
+
+307
+00:18:45,660 --> 00:18:49,560
+appelle un retard simple de puberté Par contre
+
+308
+00:18:49,560 --> 00:18:54,700
+ici, c'est un enfant qui était normal
+
+309
+00:18:54,700 --> 00:18:58,160
+sur la moyenne, la courbe normale Puis à
+
+310
+00:18:58,160 --> 00:19:02,540
+un certain moment, il casse sa croissance Cette
+
+311
+00:19:02,540 --> 00:19:09,280
+courbe nécessite absolument un bilan éthiologique, clinique bien
+
+312
+00:19:09,280 --> 00:19:13,880
+sûr et pas clinique Quels sont les examens
+
+313
+00:19:13,880 --> 00:19:18,580
+complémentaires à demander si on a un retard
+
+314
+00:19:18,580 --> 00:19:20,220
+de croissance ?
+
+315
+00:19:20,220 --> 00:19:22,740
+Il faut toujours demander à un agenceux qui
+
+316
+00:19:22,740 --> 00:19:27,660
+doit rester systématique Tous les autres bilans sont
+
+317
+00:19:27,660 --> 00:19:34,660
+demandés en fonction de l'orientation clinique devant
+
+318
+00:19:34,660 --> 00:19:41,770
+ce retard statural Quelles sont les éthiologies du
+
+319
+00:19:41,770 --> 00:19:44,530
+retard de croissance chez l'enfant ?
+
+320
+00:19:44,530 --> 00:19:46,090
+Je l'ai dit, je le redis, toutes
+
+321
+00:19:46,090 --> 00:19:48,710
+les maladies chroniques et les carences nutritionnelles vont
+
+322
+00:19:48,710 --> 00:19:52,310
+retentir sur la croissance de l'enfant Quand
+
+323
+00:19:52,310 --> 00:19:54,150
+on s'amuse à faire l'âge osseux,
+
+324
+00:19:54,270 --> 00:19:55,590
+on va trouver que l'âge osseux est
+
+325
+00:19:55,590 --> 00:19:57,850
+inférieur à l'âge chronologique Pas très inférieur
+
+326
+00:19:57,850 --> 00:19:59,130
+à l'âge chronologique, mais il est inférieur
+
+327
+00:19:59,130 --> 00:20:02,890
+à l'âge chronologique L'os aussi ne
+
+328
+00:20:02,890 --> 00:20:06,190
+grandit pas et c'est dû à la
+
+329
+00:20:06,190 --> 00:20:08,890
+malabsorption et à la carence Toutes les maladies
+
+330
+00:20:08,890 --> 00:20:15,070
+chroniques, cardiopathiques, pulmonaires, digestives ou hépatiques vont tous
+
+331
+00:20:15,070 --> 00:20:23,530
+retentir sur la croissance Dans les maladies endocriniennes,
+
+332
+00:20:24,070 --> 00:20:27,090
+on trouve que l'âge osseux est très
+
+333
+00:20:27,090 --> 00:20:30,670
+inférieur à l'âge chronologique C'est un
+
+334
+00:20:30,670 --> 00:20:34,410
+symptôme, c'est un signe très important qui
+
+335
+00:20:34,410 --> 00:20:37,830
+nous oriente vers une anomalie endocrinienne Parmi les
+
+336
+00:20:37,830 --> 00:20:40,170
+étiologies, on a d'abord le déficit endormant
+
+337
+00:20:40,170 --> 00:20:43,630
+de croissance C'est un enfant qui va
+
+338
+00:20:43,630 --> 00:20:47,170
+présenter à la période néonatale une hypoglycémie avec
+
+339
+00:20:47,170 --> 00:20:50,610
+un micropénis Il y a un retard de
+
+340
+00:20:50,610 --> 00:20:53,910
+croissance isolé avec une vitesse de croissance qui
+
+341
+00:20:53,910 --> 00:20:58,690
+est ralentie Un faciès poupa avec une cellule
+
+342
+00:20:58,690 --> 00:21:03,710
+nasale marquée, obésité tronculaire et abdominale et un
+
+343
+00:21:03,710 --> 00:21:08,130
+micropénis Le diagnostic se fait par le dosage
+
+344
+00:21:08,130 --> 00:21:12,010
+du taux d'IGF1 qui est bas et
+
+345
+00:21:12,010 --> 00:21:15,350
+un test de stimulation de l'hormone de
+
+346
+00:21:15,350 --> 00:21:18,790
+croissance Pour affirmer le déficit en GH, il
+
+347
+00:21:18,790 --> 00:21:22,530
+faut au moins deux tests positifs Il faut
+
+348
+00:21:22,530 --> 00:21:25,470
+arrêter de demander le dosage de l'hormone
+
+349
+00:21:25,470 --> 00:21:28,090
+de croissance parce que ça ne sert à
+
+350
+00:21:28,090 --> 00:21:30,650
+rien Il faut faire plutôt le test de
+
+351
+00:21:30,650 --> 00:21:36,410
+stimulation de GH Il faut dépister le déficit
+
+352
+00:21:36,410 --> 00:21:39,050
+endormant de croissance par le taux d'IGF1
+
+353
+00:21:39,050 --> 00:21:40,590
+qui est bas C'est un test de
+
+354
+00:21:40,590 --> 00:21:43,130
+dépistage Si on trouve l'IGF1 qui est
+
+355
+00:21:43,130 --> 00:21:47,230
+bas avec ses cimes cliniques, on est orienté
+
+356
+00:21:47,230 --> 00:21:48,490
+vers un déficit endormant de GH qu'on
+
+357
+00:21:48,490 --> 00:21:51,350
+va confirmer par deux tests de stimulation qui
+
+358
+00:21:51,350 --> 00:21:54,570
+sont positifs Ce déficit endormant de GH est
+
+359
+00:21:54,570 --> 00:21:57,490
+traité par l'administration d'hormones de croissance
+
+360
+00:21:57,490 --> 00:22:00,250
+synthétiques jusqu'à la fin de la croissance
+
+361
+00:22:00,250 --> 00:22:04,250
+Et bien sûr, ça doit faire rechercher également
+
+362
+00:22:04,250 --> 00:22:07,610
+une étiologie à ce déficit en GH Le
+
+363
+00:22:07,610 --> 00:22:10,610
+déficit peut être soit primitif ou idiopathique dans
+
+364
+00:22:10,610 --> 00:22:14,950
+70% des cas soit génétique, c'est
+
+365
+00:22:14,950 --> 00:22:18,490
+une anomalie du gène de GH soit malformatif
+
+366
+00:22:18,490 --> 00:22:20,570
+quand il y a une interruption de la
+
+367
+00:22:20,570 --> 00:22:24,550
+tige pituitaire probablement d'origine génétique ou secondaire
+
+368
+00:22:24,550 --> 00:22:28,270
+à une tumeur cérébrale ou un traumatisme crânien
+
+369
+00:22:31,100 --> 00:22:37,040
+La deuxième endocrinopathie, c'est l'hypercorticisme Dans
+
+370
+00:22:37,040 --> 00:22:39,120
+l'hypercorticisme, il y a le syndrome de
+
+371
+00:22:39,120 --> 00:22:42,480
+Cushy Il est exceptionnel chez l'enfant C
+
+372
+00:22:42,480 --> 00:22:44,620
+'est un retard de croissance, vous voyez dans
+
+373
+00:22:44,620 --> 00:22:50,500
+la photo avec une obésité fasciotranculaire, une pilosité
+
+374
+00:22:50,500 --> 00:22:56,040
+excessive, une atrophie musculaire, séborré et acné Le
+
+375
+00:22:56,040 --> 00:22:59,020
+diagnostic se fait par le dosage du cortisol
+
+376
+00:22:59,020 --> 00:23:03,440
+libre urinaire qui montre une disparition du rythme
+
+377
+00:23:03,440 --> 00:23:06,980
+circadien du cortisol et une absence de freinage
+
+378
+00:23:06,980 --> 00:23:11,860
+du cortisol par les tests de stimulation Les
+
+379
+00:23:11,860 --> 00:23:14,860
+étiologies sont en premier les tumeurs de la
+
+380
+00:23:14,860 --> 00:23:19,100
+sérénale et les adenomes épophysaires ACTH ce qu
+
+381
+00:23:19,100 --> 00:23:23,300
+'on appelle la maladie de Cushy Il y
+
+382
+00:23:23,300 --> 00:23:27,020
+a aussi les hypercorticismes hiatrogènes secondaires à l
+
+383
+00:23:27,020 --> 00:23:31,780
+'utilisation très prolongée de la corticothérapie d'où
+
+384
+00:23:31,780 --> 00:23:34,720
+la surveillance de tout enfant qui est sous
+
+385
+00:23:34,720 --> 00:23:37,860
+traitement corticoïde au long cours Il faut surveiller
+
+386
+00:23:37,860 --> 00:23:40,360
+la croissance de cet enfant et dès qu
+
+387
+00:23:40,360 --> 00:23:43,800
+'on dépiste un retard statural ou une cassure
+
+388
+00:23:43,800 --> 00:23:45,940
+de la croissance de cet enfant il faut
+
+389
+00:23:45,940 --> 00:23:49,420
+arrêter la corticothérapie et changer par un autre
+
+390
+00:23:49,420 --> 00:23:51,960
+traitement qui ne retentit pas sur la croissance
+
+391
+00:23:54,300 --> 00:23:57,100
+Une onde de crinopathie aussi qui peut retentir
+
+392
+00:23:57,100 --> 00:23:59,880
+sur la croissance c'est l'hépothyroïdie Rappelez
+
+393
+00:23:59,880 --> 00:24:07,140
+-vous de retard de croissance, obésité, dysmorphie faciale
+
+394
+00:24:07,880 --> 00:24:13,660
+et anomalies osseuses à la radiologie L'hépothyroïdie
+
+395
+00:24:13,660 --> 00:24:17,520
+est une onde de crinopathie très fréquente il
+
+396
+00:24:17,520 --> 00:24:20,560
+faut la chercher devant tout retard de croissance,
+
+397
+00:24:20,880 --> 00:24:25,600
+même isolé chez l'enfant Il y a
+
+398
+00:24:25,600 --> 00:24:31,100
+le retard statural d'origine osseuse Nous avons
+
+399
+00:24:31,100 --> 00:24:35,020
+parlé des maladies chroniques, des ondes de crinopathie
+
+400
+00:24:35,020 --> 00:24:37,920
+Maintenant on va parler du retard statural d
+
+401
+00:24:37,920 --> 00:24:42,020
+'origine osseuse C'est un âge osseux qui
+
+402
+00:24:42,020 --> 00:24:45,940
+est égal à l'âge statural Ca veut
+
+403
+00:24:45,940 --> 00:24:50,740
+dire que l'os mature normalement en fonction
+
+404
+00:24:50,740 --> 00:24:56,960
+de l'âge statural Ce retard d'origine
+
+405
+00:24:56,960 --> 00:25:02,580
+osseuse peut être soit malformatif ou chromosomique Il
+
+406
+00:25:02,580 --> 00:25:05,260
+associe le plus souvent une dysmorphie avec une
+
+407
+00:25:05,260 --> 00:25:09,740
+vitesse de croissance qui est normale Le diagnostic
+
+408
+00:25:09,740 --> 00:25:14,360
+repose sur la radiographie, les anomalies épiphysaires, métaphysaires
+
+409
+00:25:14,360 --> 00:25:17,460
+et les anomalies vertébrales Parmi les pathologies qui
+
+410
+00:25:17,460 --> 00:25:20,660
+peuvent donner ça, c'est les achondroplasies, les
+
+411
+00:25:20,660 --> 00:25:25,980
+dysplasies squelettiques et les pycnodesostoses Pycnodesostose c'est
+
+412
+00:25:25,980 --> 00:25:29,220
+le fameux bout d'air qui a une
+
+413
+00:25:29,220 --> 00:25:32,380
+dysmorphie faciale avec une anomalie de la croissance
+
+414
+00:25:32,380 --> 00:25:35,880
+Mais un âge osseux qui est parfaitement égal
+
+415
+00:25:35,880 --> 00:25:40,820
+à l'âge chronologique Les syndromes malformatifs génétiques
+
+416
+00:25:40,820 --> 00:25:44,200
+peuvent associer un retard statural précoce, un retard
+
+417
+00:25:44,200 --> 00:25:47,300
+mental, dysmorphie de la face et des extrémités
+
+418
+00:25:47,300 --> 00:25:50,440
+Les étiologies sont multiples, il y a le
+
+419
+00:25:50,440 --> 00:25:54,320
+syndrome de Rubinstein, Taibbi, Prader-Willi, Cornelia de
+
+420
+00:25:54,320 --> 00:25:59,240
+Lange Ce sont des anomalies génétiques complexes associées
+
+421
+00:25:59,240 --> 00:26:03,000
+à un retard statural Alors là c'est
+
+422
+00:26:03,000 --> 00:26:07,520
+la chondrodysplasie, regardez, c'est un retard de
+
+423
+00:26:07,520 --> 00:26:09,980
+croissance qui est désharmonieux La tête elle est
+
+424
+00:26:09,980 --> 00:26:13,680
+bien, les membres sont courts, le tronc est
+
+425
+00:26:13,680 --> 00:26:18,240
+bien, mais les membres sont courts Ça c
+
+426
+00:26:18,240 --> 00:26:20,800
+'est une aberration chromosomique, c'est très probablement
+
+427
+00:26:20,800 --> 00:26:28,760
+une mycopolysaccharidose ou une anomalie chromosomique Ça c
+
+428
+00:26:28,760 --> 00:26:31,680
+'est les anomalies osseuses des mycopolysaccharidoses, c'est
+
+429
+00:26:31,680 --> 00:26:36,280
+des anomalies génétiques qui associent aussi une dysmorphie
+
+430
+00:26:36,280 --> 00:26:39,460
+faciale, atteinte d'autres organes, etc.
+
+431
+00:26:40,840 --> 00:26:43,940
+La même chose c'est des mycopolysaccharidoses, il
+
+432
+00:26:43,940 --> 00:26:47,680
+y a plusieurs types de mycopolysaccharidoses Et qui
+
+433
+00:26:47,680 --> 00:26:52,420
+ont comme retentissement important la croissance osseuse et
+
+434
+00:26:52,420 --> 00:26:55,980
+donc la croissance naturelle Il y a aussi
+
+435
+00:26:55,980 --> 00:27:02,340
+les syndromes génétiques, le syndrome de Turner Le
+
+436
+00:27:02,340 --> 00:27:04,860
+syndrome de Turner est évoqué chez la petite
+
+437
+00:27:04,860 --> 00:27:08,020
+fille, on parle de syndrome de Turner chez
+
+438
+00:27:08,020 --> 00:27:09,720
+la fille, on ne parle pas de syndrome
+
+439
+00:27:09,720 --> 00:27:12,220
+de Turner chez le garçon Parce que c
+
+440
+00:27:12,220 --> 00:27:20,460
+'est une anomalie chromosomique 45X0 L'enfant, la
+
+441
+00:27:20,460 --> 00:27:22,680
+fille présente un lymphedome des extrémités à la
+
+442
+00:27:22,680 --> 00:27:25,040
+naissance, un retard de croissance et un syndrome
+
+443
+00:27:25,040 --> 00:27:27,760
+dysmorphique C'est une petite qui va avoir
+
+444
+00:27:27,760 --> 00:27:32,020
+un hypertélorisme, un ptérygiankouli, regardez-le sur la
+
+445
+00:27:32,020 --> 00:27:35,480
+photo Ce qu'on appelle le ptérygiankouli, un
+
+446
+00:27:35,480 --> 00:27:41,200
+cubitus valgus, un écartement memblonaire, thorax bombé, implantation
+
+447
+00:27:41,200 --> 00:27:44,140
+basse des cheveux Parfois on n'a rien
+
+448
+00:27:44,140 --> 00:27:46,680
+de tout ça, on n'a que le
+
+449
+00:27:46,680 --> 00:27:50,460
+retard de croissance isolé chez une petite fille
+
+450
+00:27:50,460 --> 00:27:53,140
+Et quand on fait tout le bilan, on
+
+451
+00:27:53,140 --> 00:27:56,540
+ne trouve rien Il faut faire systématiquement chez
+
+452
+00:27:56,540 --> 00:27:59,400
+toute fille qui a un retard de croissance
+
+453
+00:27:59,400 --> 00:28:03,340
+isolé Il faut faire un karyotype qui va
+
+454
+00:28:03,340 --> 00:28:06,300
+trouver des anomalies du chromosome X en mosaïque
+
+455
+00:28:06,300 --> 00:28:12,340
+Au 45X0, et qui dit syndrome de Turner,
+
+456
+00:28:12,940 --> 00:28:14,980
+dit qu'il y a un déficit de
+
+457
+00:28:14,980 --> 00:28:17,440
+sécrétion de l'hormone de croissance Et le
+
+458
+00:28:17,440 --> 00:28:20,780
+traitement de ce syndrome repose sur l'hormone
+
+459
+00:28:20,780 --> 00:28:25,580
+de croissance avec des oestrogènes pour déclencher la
+
+460
+00:28:25,580 --> 00:28:34,420
+puberté Nous avons vu les
+
+461
+00:28:34,420 --> 00:28:44,440
+maladies chroniques, les anomalies endocriniennes, le
+
+462
+00:28:44,440 --> 00:28:52,500
+retard simple de la puberté, les anomalies génétiques
+
+463
+00:28:52,500 --> 00:28:54,900
+et osseuses Maintenant on va voir les retards
+
+464
+00:28:54,900 --> 00:28:59,480
+staturaux essentiels Dans les retards staturaux essentiels, il
+
+465
+00:28:59,480 --> 00:29:02,080
+y a le retard simple de croissance, c
+
+466
+00:29:02,080 --> 00:29:05,140
+'est un diagnostic d'exclusion La courbe de
+
+467
+00:29:05,140 --> 00:29:08,380
+croissance est proche de la moyenne au début,
+
+468
+00:29:09,160 --> 00:29:15,420
+puis s'infléchit pour atteindre –2 à –3DS
+
+469
+00:29:15,420 --> 00:29:19,760
+Avec un retard pubertaire, l'âge osseux est
+
+470
+00:29:19,760 --> 00:29:22,240
+inférieur à l'âge statural, il y a
+
+471
+00:29:22,240 --> 00:29:26,660
+des antécédents familiaux de courbe de croissance similaire
+
+472
+00:29:26,660 --> 00:29:29,660
+Toute l'exploration est normale, et c'est
+
+473
+00:29:29,660 --> 00:29:32,940
+un enfant qui va rattraper la croissance à
+
+474
+00:29:32,940 --> 00:29:35,760
+l'âge pubertaire On parle d'un retard
+
+475
+00:29:35,760 --> 00:29:41,280
+simple de croissance Il y a la petite
+
+476
+00:29:41,280 --> 00:29:45,600
+taille constitutionnelle ou essentielle, elle est fréquente, la
+
+477
+00:29:45,600 --> 00:29:48,020
+taille des parents est souvent petite dans la
+
+478
+00:29:48,020 --> 00:29:50,720
+moyenne La puberté se produit à l'âge
+
+479
+00:29:50,720 --> 00:29:53,400
+normal, et la taille adulte est petite en
+
+480
+00:29:53,400 --> 00:29:56,080
+rapport avec la taille parentale Par exemple, si
+
+481
+00:29:56,080 --> 00:29:58,140
+on a des grands-parents et des parents
+
+482
+00:29:58,140 --> 00:30:03,240
+qui ont une taille ne dépassant pas entre
+
+483
+00:30:03,240 --> 00:30:06,980
+150 et 160, on est génétiquement programmé à
+
+484
+00:30:06,980 --> 00:30:10,420
+faire aussi une petite taille constitutionnelle, une petite
+
+485
+00:30:10,420 --> 00:30:11,940
+taille à l'âge adulte Il y a
+
+486
+00:30:11,940 --> 00:30:15,200
+aussi le retard de croissance intra-utérin, une
+
+487
+00:30:15,200 --> 00:30:17,320
+taille de naissance qui est définie par une
+
+488
+00:30:17,320 --> 00:30:19,500
+taille de naissance moins de 2DS pour l
+
+489
+00:30:19,500 --> 00:30:23,820
+'âge stationnel Normalement, la taille sont normalisées dans
+
+490
+00:30:23,820 --> 00:30:27,020
+90% des cas dans les 2 ans
+
+491
+00:30:27,020 --> 00:30:30,600
+suivant la naissance Au-delà de 2 ans,
+
+492
+00:30:31,040 --> 00:30:33,440
+il y a peu de chances de rattraper
+
+493
+00:30:33,440 --> 00:30:39,080
+cette taille normale Mais ce qui est important
+
+494
+00:30:39,080 --> 00:30:40,920
+dans le retard de croissance intra-utérin, c
+
+495
+00:30:40,920 --> 00:30:42,940
+'est que la vitesse de croissance est régulière
+
+496
+00:30:42,940 --> 00:30:45,160
+et que la puberté s'effectue à un
+
+497
+00:30:45,160 --> 00:30:47,460
+âge normal D'ailleurs, le retard de croissance
+
+498
+00:30:47,460 --> 00:30:51,840
+intra-utérin constitue une indication à donner très
+
+499
+00:30:51,840 --> 00:30:55,100
+tôt l'hormone de croissance pour pouvoir rattraper
+
+500
+00:30:55,100 --> 00:31:01,580
+cette taille qui était déficitaire à la naissance
+
+501
+00:31:03,200 --> 00:31:05,620
+C'est un tableau qui récapitule un petit
+
+502
+00:31:05,620 --> 00:31:09,620
+peu les différentes éthiologies des retards staturaux.
+
+503
+00:31:09,760 --> 00:31:11,080
+Je vous laisse le soin de le lire
+
+504
+00:31:11,080 --> 00:31:18,720
+tranquillement Et je conclue par dire que le
+
+505
+00:31:18,720 --> 00:31:21,440
+retard statural est un motif très très fréquent
+
+506
+00:31:21,440 --> 00:31:24,820
+de consultation en pédiatrie Il faut d'abord
+
+507
+00:31:24,820 --> 00:31:27,100
+confirmer le retard statural, s'il vous plaît,
+
+508
+00:31:27,800 --> 00:31:30,580
+et évaluer la croissance de l'enfant Parfois,
+
+509
+00:31:31,460 --> 00:31:33,700
+des collègues nous adressent des enfants pour retard
+
+510
+00:31:33,700 --> 00:31:38,280
+statural et quand on prend correctement la taille
+
+511
+00:31:38,280 --> 00:31:39,660
+de l'enfant, on trouve qu'elle est
+
+512
+00:31:39,660 --> 00:31:41,900
+normale et qu'elle est dans les normes
+
+513
+00:31:41,900 --> 00:31:48,420
+Et donc, toujours soufier et vérifier qu'il
+
+514
+00:31:48,420 --> 00:31:51,720
+s'agit effectivement d'un retard statural Quand
+
+515
+00:31:51,720 --> 00:31:54,460
+vous confirmez le retard statural, il faut commencer
+
+516
+00:31:54,460 --> 00:31:59,380
+par une enquête clinique puis paraclinique à la
+
+517
+00:31:59,380 --> 00:32:01,420
+recherche d'une éthiologie de ce retard statural
+
+518
+00:32:01,420 --> 00:32:04,120
+qui sont dominés par les maladies chroniques et
+
+519
+00:32:04,120 --> 00:32:07,100
+la malabsorption Les données de l'examen clinique
+
+520
+00:32:07,100 --> 00:32:08,960
+orientent toujours le bilan paraclinique.
+
+521
+00:32:09,080 --> 00:32:10,520
+On ne peut pas faire tout le bilan
+
+522
+00:32:10,520 --> 00:32:13,060
+Il faut céder aux données de l'examen
+
+523
+00:32:13,060 --> 00:32:16,440
+clinique pour donner le bilan paraclinique Il faut
+
+524
+00:32:16,440 --> 00:32:19,880
+surtout analyser la courbe de croissance parce qu
+
+525
+00:32:19,880 --> 00:32:22,980
+'elle nous donne des renseignements très importants qui
+
+526
+00:32:22,980 --> 00:32:27,800
+peuvent nous orienter vers une éthiologie de ce
+
+527
+00:32:27,800 --> 00:32:29,540
+retard statural Je vous remercie

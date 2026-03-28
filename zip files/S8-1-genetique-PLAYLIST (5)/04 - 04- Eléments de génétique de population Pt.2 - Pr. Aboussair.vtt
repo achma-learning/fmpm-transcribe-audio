@@ -1,0 +1,2737 @@
+WEBVTT
+
+1
+00:00:01.100 --> 00:00:06.020
+Bonjour, on va voir maintenant la deuxième partie
+
+2
+00:00:06.020 --> 00:00:09.420
+du cours sur les éléments du génétique d
+
+3
+00:00:09.420 --> 00:00:09.560
+'épaule.
+
+4
+00:00:10.460 --> 00:00:14.340
+Dans la première partie, on a vu la
+
+5
+00:00:14.340 --> 00:00:16.120
+loi de Hardy-Weinberg.
+
+6
+00:00:16.860 --> 00:00:20.960
+Maintenant, on va attaquer la deuxième partie de
+
+7
+00:00:20.960 --> 00:00:24.040
+ce cours concernant la consanguinité.
+
+8
+00:00:24.580 --> 00:00:27.560
+On va voir ensemble la définition de la
+
+9
+00:00:27.560 --> 00:00:33.740
+consanguinité, comment calculer le coefficient de consanguinité, comment
+
+10
+00:00:33.740 --> 00:00:36.260
+calculer le coefficient de parenté.
+
+11
+00:00:38.490 --> 00:00:41.430
+On va voir ensemble les effets de la
+
+12
+00:00:41.430 --> 00:00:45.510
+consanguinité et l'intérêt du conseil génétique quand
+
+13
+00:00:45.510 --> 00:00:46.950
+il y a une consanguinité.
+
+14
+00:00:50.300 --> 00:00:54.120
+Il faut savoir que les populations humaines connaissent
+
+15
+00:00:54.120 --> 00:00:56.580
+deux types d'écarts à l'apport mixte.
+
+16
+00:00:57.580 --> 00:01:03.060
+En effet, les unions préférentielles entre individus de
+
+17
+00:01:03.060 --> 00:01:05.620
+même phénotype, c'est ce qu'on appelle
+
+18
+00:01:05.620 --> 00:01:11.860
+homogamie, et les unions préférentielles entre apparentés, donc
+
+19
+00:01:11.860 --> 00:01:15.120
+c'est les mariages entre apparentés qu'on
+
+20
+00:01:15.120 --> 00:01:16.940
+appelle consanguinité.
+
+21
+00:01:17.840 --> 00:01:21.180
+Et ces mariages entre apparentés, ça veut dire
+
+22
+00:01:21.180 --> 00:01:25.240
+les individus qui ont au moins un ancêtre
+
+23
+00:01:25.240 --> 00:01:26.100
+en commun.
+
+24
+00:01:27.360 --> 00:01:33.020
+Les unions entre apparentés sont appelées improprement mariage
+
+25
+00:01:33.020 --> 00:01:33.720
+consanguin.
+
+26
+00:01:34.860 --> 00:01:37.680
+Mais il faut savoir que ce sont les
+
+27
+00:01:37.680 --> 00:01:41.260
+enfants nés de cette union entre apparentés qui
+
+28
+00:01:41.260 --> 00:01:43.920
+sont consanguins et n'ont pas les parents
+
+29
+00:01:43.920 --> 00:01:45.540
+et n'ont pas le mariage.
+
+30
+00:01:46.600 --> 00:01:52.340
+Les unions entre apparentés favorisent l'homozygosie chez
+
+31
+00:01:52.340 --> 00:01:57.640
+leurs enfants et par conséquent l'apparition de
+
+32
+00:01:57.640 --> 00:02:02.520
+maladies autozoomiques récessives si eux ou les ancêtres
+
+33
+00:02:02.520 --> 00:02:06.160
+communs sont porteurs d'une mutation délétère à
+
+34
+00:02:06.160 --> 00:02:07.880
+l'état héterozygote.
+
+35
+00:02:09.830 --> 00:02:13.430
+Il est à noter que plusieurs unions entre
+
+36
+00:02:13.430 --> 00:02:18.850
+apparentés ont été interdites par la religion, notamment
+
+37
+00:02:18.850 --> 00:02:26.450
+le christianisme, mais surtout, la consanguinité n'est
+
+38
+00:02:26.450 --> 00:02:30.830
+pas interdite chez tous les chrétiens, mais seulement
+
+39
+00:02:30.830 --> 00:02:36.370
+chez les catholiques romains et les protestants, alors
+
+40
+00:02:36.370 --> 00:02:39.370
+que l'islam n'interdit pas le mariage
+
+41
+00:02:39.370 --> 00:02:40.490
+entre cousins.
+
+42
+00:02:41.100 --> 00:02:47.150
+De même, plusieurs unions entre apparentés ont été
+
+43
+00:02:47.150 --> 00:02:50.610
+interdites par la législation civile.
+
+44
+00:02:51.570 --> 00:02:58.690
+Voici une carte géographique qui montre l'état
+
+45
+00:02:58.690 --> 00:03:01.590
+de la légalité ou de la non-légalité
+
+46
+00:03:01.590 --> 00:03:05.450
+du mariage entre cousins germains dans le monde.
+
+47
+00:03:06.270 --> 00:03:10.570
+Donc les régions en bleu foncé, ça veut
+
+48
+00:03:10.570 --> 00:03:14.610
+dire que ce mariage est autorisé entre cousins
+
+49
+00:03:14.610 --> 00:03:16.270
+au premier degré.
+
+50
+00:03:16.470 --> 00:03:20.290
+Notamment, vous voyez la carte de l'Afrique
+
+51
+00:03:20.290 --> 00:03:20.810
+du Nord.
+
+52
+00:03:21.210 --> 00:03:24.810
+Les mariages entre cousins de premier degré sont
+
+53
+00:03:24.810 --> 00:03:25.450
+autorisés.
+
+54
+00:03:26.790 --> 00:03:31.330
+En orange, la légalité dépend de la religion
+
+55
+00:03:31.330 --> 00:03:32.530
+ou de la culture.
+
+56
+00:03:32.530 --> 00:03:37.310
+Les zones rouges, l'interdiction du mariage, ça
+
+57
+00:03:37.310 --> 00:03:39.730
+veut dire qu'il y a une interdiction
+
+58
+00:03:39.730 --> 00:03:43.630
+du mariage entre cousins au premier degré.
+
+59
+00:03:44.290 --> 00:03:48.190
+Les régions en rose, donc les mariages entre
+
+60
+00:03:48.190 --> 00:03:54.850
+apparentés plutôt cousins premier degré sont interdits sauf
+
+61
+00:03:54.850 --> 00:03:55.530
+exception.
+
+62
+00:03:55.530 --> 00:04:01.010
+En bourdeaux, le mariage entre cousins de premier
+
+63
+00:04:01.010 --> 00:04:04.110
+degré est considéré comme un crime.
+
+64
+00:04:04.690 --> 00:04:07.030
+Et en gris, c'est les régions où
+
+65
+00:04:07.030 --> 00:04:09.670
+il n'y a pas de données disponibles
+
+66
+00:04:09.670 --> 00:04:14.190
+concernant la légalité ou la non-légalité des
+
+67
+00:04:14.190 --> 00:04:16.670
+mariages entre cousins germains.
+
+68
+00:04:20.860 --> 00:04:27.480
+Quand on parle d'inceste, on parle d
+
+69
+00:04:27.480 --> 00:04:32.620
+'inceste devant un mariage qui unit deux enfants
+
+70
+00:04:32.620 --> 00:04:33.480
+de même parent.
+
+71
+00:04:33.680 --> 00:04:35.700
+Par exemple, entre frères et soeurs.
+
+72
+00:04:36.900 --> 00:04:41.560
+Ou ces derniers, donc les parents avec leurs
+
+73
+00:04:41.560 --> 00:04:41.960
+enfants.
+
+74
+00:04:42.780 --> 00:04:44.780
+Par exemple, un père avec sa fille.
+
+75
+00:04:45.780 --> 00:04:50.400
+Ou descendants, par exemple, à mariage entre oncles
+
+76
+00:04:50.400 --> 00:04:51.440
+et nièces.
+
+77
+00:04:51.840 --> 00:04:56.000
+Vous savez que l'islam et la plupart
+
+78
+00:04:56.000 --> 00:05:00.860
+des religions monothéiques ont interdit l'inceste.
+
+79
+00:05:01.340 --> 00:05:03.180
+Et on va comprendre au fur et à
+
+80
+00:05:03.180 --> 00:05:08.240
+mesure de ce cours pourquoi les différentes religions
+
+81
+00:05:08.240 --> 00:05:12.600
+monothéiques ont interdit l'inceste.
+
+82
+00:05:12.600 --> 00:05:18.060
+Et même les lois, les législations civiles interdisent
+
+83
+00:05:18.060 --> 00:05:19.600
+l'inceste.
+
+84
+00:05:23.930 --> 00:05:27.730
+Avant d'aborder la manière de calculer les
+
+85
+00:05:27.730 --> 00:05:31.070
+coefficients de consanguinité, j'aimerais bien vous donner
+
+86
+00:05:31.070 --> 00:05:36.450
+une idée sur le pourcentage de consanguinité dans
+
+87
+00:05:36.450 --> 00:05:36.970
+le monde.
+
+88
+00:05:37.970 --> 00:05:40.990
+Il faut savoir qu'en France, le taux
+
+89
+00:05:40.990 --> 00:05:45.450
+de mariage entre apparentés est inférieur à 1%.
+
+90
+00:05:45.820 --> 00:05:49.710
+Alors que, par exemple, dans les États-Unis,
+
+91
+00:05:50.390 --> 00:05:54.170
+le taux de consanguinité moyen varie entre 1
+
+92
+00:05:54.170 --> 00:05:55.060
+et 4%.
+
+93
+00:05:56.840 --> 00:06:02.920
+Au Maroc, le taux moyen de consanguinité est
+
+94
+00:06:02.920 --> 00:06:07.360
+de 15,25% selon une étude effectuée
+
+95
+00:06:07.360 --> 00:06:08.570
+en 2009.
+
+96
+00:06:08.570 --> 00:06:14.990
+Alors que le mariage entre apparentés est plus
+
+97
+00:06:14.990 --> 00:06:17.930
+élevé, la fréquence de mariage entre apparentés où
+
+98
+00:06:17.930 --> 00:06:20.790
+la consanguinité est élevée, dans les pays du
+
+99
+00:06:20.790 --> 00:06:25.570
+sud, tels que certains pays d'Afrique et
+
+100
+00:06:25.570 --> 00:06:28.770
+l'Inde, qui ont un taux de consanguinité
+
+101
+00:06:28.770 --> 00:06:32.730
+qui varie entre 40 et 49%.
+
+102
+00:06:35.200 --> 00:06:39.960
+Voici un tableau qui montre les résultats des
+
+103
+00:06:39.960 --> 00:06:43.980
+différentes études sur la consanguinité au Maroc.
+
+104
+00:06:44.640 --> 00:06:48.780
+Selon la dernière étude effectuée en 2009, donc
+
+105
+00:06:48.780 --> 00:06:51.580
+c'est une étude nationale, le taux de
+
+106
+00:06:51.580 --> 00:06:54.720
+consanguinité moyen au Maroc est de l'ordre
+
+107
+00:06:54.720 --> 00:06:57.480
+de 15,25%.
+
+108
+00:06:57.480 --> 00:07:00.700
+Mais il faut savoir que ce taux est
+
+109
+00:07:00.700 --> 00:07:04.720
+plus élevé dans les régions rurales et dans
+
+110
+00:07:04.720 --> 00:07:08.380
+le sud marocain, donc c'est le cas,
+
+111
+00:07:09.340 --> 00:07:12.420
+et ce taux peut atteindre jusqu'à 48
+
+112
+00:07:12.420 --> 00:07:19.540
+,1%, notamment dans la vallée d'Azgour, Amzmiz
+
+113
+00:07:19.540 --> 00:07:21.120
+et la province de l'Haus.
+
+114
+00:07:24.220 --> 00:07:28.900
+Voici des exemples d'union entre apparentés.
+
+115
+00:07:29.960 --> 00:07:32.320
+Donc grand 1, c'est une union entre
+
+116
+00:07:32.320 --> 00:07:36.200
+demi-cousins germains, d'accord?
+
+117
+00:07:36.880 --> 00:07:39.580
+Grand 2, c'est une union entre cousins
+
+118
+00:07:39.580 --> 00:07:45.580
+germains, donc soit des cousins maternels ou paternels.
+
+119
+00:07:46.700 --> 00:07:49.360
+En bas, grand 3, il y a une
+
+120
+00:07:49.360 --> 00:07:51.800
+double consanguinité, un double cousin germain.
+
+121
+00:07:52.900 --> 00:07:55.300
+Grand 4, ce sont des cousins inégaux.
+
+122
+00:07:56.100 --> 00:07:59.000
+Grand 4, c'est des cousins issus de
+
+123
+00:07:59.000 --> 00:07:59.420
+germains.
+
+124
+00:07:59.960 --> 00:08:02.580
+On va voir ça en détail lors des
+
+125
+00:08:02.580 --> 00:08:03.580
+slides suivantes.
+
+126
+00:08:08.050 --> 00:08:10.990
+C'est quoi un coefficient de consanguinité?
+
+127
+00:08:12.300 --> 00:08:16.720
+Le coefficient de consanguinité d'un individu, i,
+
+128
+00:08:17.300 --> 00:08:19.280
+c'est ce qu'on appelle f de
+
+129
+00:08:19.280 --> 00:08:24.140
+i, est la probabilité pour que deux gènes
+
+130
+00:08:24.140 --> 00:08:27.500
+homologues pour un locus donné, ça veut dire
+
+131
+00:08:27.500 --> 00:08:30.160
+les deux allèles pour un gène donné, pour
+
+132
+00:08:30.160 --> 00:08:36.299
+un locus donné, soient identiques par descendance mendélienne.
+
+133
+00:08:36.299 --> 00:08:41.740
+C'est-à-dire la probabilité que l
+
+134
+00:08:41.740 --> 00:08:47.960
+'individu reçoive deux allèles identiques, deux copies identiques
+
+135
+00:08:47.960 --> 00:08:52.340
+d'un même gène, d'un ancêtre commun.
+
+136
+00:08:53.300 --> 00:08:57.760
+Si les parents ne sont pas apparentés, donc
+
+137
+00:08:57.760 --> 00:09:01.140
+il n'y a pas de consanguinité, le
+
+138
+00:09:01.140 --> 00:09:05.240
+coefficient de consanguinité de i est égal à
+
+139
+00:09:05.240 --> 00:09:05.600
+zéro.
+
+140
+00:09:07.240 --> 00:09:10.720
+Dans les autres cas, f de i est
+
+141
+00:09:10.720 --> 00:09:15.520
+calculé en fonction des degrés de lien entre
+
+142
+00:09:15.520 --> 00:09:20.300
+l'individu et le ou les ancêtres communs.
+
+143
+00:09:21.280 --> 00:09:24.320
+Et le calcul de ce coefficient de consanguinité
+
+144
+00:09:24.320 --> 00:09:28.560
+se fait par l'équation suivante.
+
+145
+00:09:29.470 --> 00:09:37.140
+En effet, c'est la somme de sigma,
+
+146
+00:09:38.020 --> 00:09:42.360
+c'est la somme, donc n c'est
+
+147
+00:09:42.360 --> 00:09:45.740
+le nombre d'ancêtres communs, donc on va
+
+148
+00:09:45.740 --> 00:09:49.920
+faire ce calcul-là en fonction du nombre
+
+149
+00:09:49.920 --> 00:09:51.140
+d'ancêtres communs.
+
+150
+00:09:51.140 --> 00:09:53.600
+Donc, s'il y a un seul ancêtre
+
+151
+00:09:53.600 --> 00:09:57.700
+commun, n va être égal à 1, comme
+
+152
+00:09:57.700 --> 00:09:59.320
+le schéma à droite.
+
+153
+00:09:59.700 --> 00:10:01.840
+S'il y a deux ancêtres, on va
+
+154
+00:10:01.840 --> 00:10:03.800
+faire la somme pour deux ancêtres.
+
+155
+00:10:04.000 --> 00:10:05.680
+S'il y a trois, c'est pour
+
+156
+00:10:05.680 --> 00:10:07.080
+trois, et ainsi de suite.
+
+157
+00:10:07.560 --> 00:10:11.280
+Donc, ça sera la somme de 1,5
+
+158
+00:10:11.280 --> 00:10:16.720
+à la puissance m plus p plus 1.
+
+159
+00:10:17.180 --> 00:10:18.220
+C'est quoi m?
+
+160
+00:10:18.220 --> 00:10:22.520
+m est le nombre de générations qui relie
+
+161
+00:10:22.520 --> 00:10:26.180
+la mère de i, l'individu, à l
+
+162
+00:10:26.180 --> 00:10:27.600
+'ancêtre commun.
+
+163
+00:10:28.600 --> 00:10:32.560
+p c'est le nombre de générations qui
+
+164
+00:10:32.560 --> 00:10:36.860
+relie le père de l'individu, i, à
+
+165
+00:10:36.860 --> 00:10:38.220
+l'ancêtre commun.
+
+166
+00:10:38.820 --> 00:10:41.280
+Prenons l'exemple à droite.
+
+167
+00:10:41.900 --> 00:10:44.260
+Donc, i en bas, c'est l'individu
+
+168
+00:10:44.260 --> 00:10:48.520
+dont on veut calculer le coefficient de consanguinité.
+
+169
+00:10:49.400 --> 00:10:51.580
+Combien on a d'ancêtres communs ici?
+
+170
+00:10:51.740 --> 00:10:54.720
+On en a un seul, l'arrière-grand
+
+171
+00:10:54.720 --> 00:10:55.800
+-parent, grand A.
+
+172
+00:10:56.180 --> 00:10:59.000
+On a un seul ancêtre commun, donc n
+
+173
+00:10:59.000 --> 00:11:00.460
+est égal à 1.
+
+174
+00:11:01.500 --> 00:11:04.120
+Les parents de i sont p c'est
+
+175
+00:11:04.120 --> 00:11:07.000
+le père, m ici c'est la mère,
+
+176
+00:11:07.120 --> 00:11:08.220
+grand M c'est la mère.
+
+177
+00:11:09.120 --> 00:11:12.680
+Et grand B c'est le grand-parent
+
+178
+00:11:12.680 --> 00:11:15.780
+de i, et grand C c'est le
+
+179
+00:11:15.780 --> 00:11:17.280
+grand-parent de i.
+
+180
+00:11:18.280 --> 00:11:21.020
+Donc, on a dit que c'est la
+
+181
+00:11:21.020 --> 00:11:23.540
+somme de 1,5 à la puissance m
+
+182
+00:11:23.540 --> 00:11:24.720
+plus p plus 1.
+
+183
+00:11:24.960 --> 00:11:27.880
+Là, on a un seul ancêtre commun, donc
+
+184
+00:11:27.880 --> 00:11:31.240
+ça sera 1,5 m, le nombre de
+
+185
+00:11:31.240 --> 00:11:35.260
+générations qui lie la mère de i à
+
+186
+00:11:35.260 --> 00:11:36.100
+l'ancêtre commun.
+
+187
+00:11:36.100 --> 00:11:39.580
+On a combien de générations qui lie M,
+
+188
+00:11:39.800 --> 00:11:42.160
+grand M, la mère de i, à l
+
+189
+00:11:42.160 --> 00:11:44.480
+'ancêtre commun, grand A?
+
+190
+00:11:45.320 --> 00:11:48.880
+On a une génération entre grand M et
+
+191
+00:11:48.880 --> 00:11:52.700
+sa mère grand C, une génération, et une
+
+192
+00:11:52.700 --> 00:11:56.280
+génération entre la grand-mère C et l
+
+193
+00:11:56.280 --> 00:11:57.820
+'ancêtre commun, grand A.
+
+194
+00:11:58.280 --> 00:12:01.660
+Donc, une génération, deux générations, donc m est
+
+195
+00:12:01.660 --> 00:12:02.640
+égal à 2.
+
+196
+00:12:02.640 --> 00:12:07.800
+Maintenant, combien de générations lie le père de
+
+197
+00:12:07.800 --> 00:12:10.360
+i à l'ancêtre commun, grand A?
+
+198
+00:12:10.920 --> 00:12:13.620
+On a une génération entre le père de
+
+199
+00:12:13.620 --> 00:12:16.220
+i, qui est grand P, et son grand
+
+200
+00:12:16.220 --> 00:12:19.640
+-père, qui est grand B, une génération, puis
+
+201
+00:12:19.640 --> 00:12:23.000
+une deuxième génération entre le grand-père de
+
+202
+00:12:23.000 --> 00:12:25.860
+i, grand B, et l'ancêtre commun, grand
+
+203
+00:12:25.860 --> 00:12:27.160
+A, ça veut dire 2.
+
+204
+00:12:27.160 --> 00:12:29.980
+Donc, P est égal à 2, donc quand
+
+205
+00:12:29.980 --> 00:12:32.340
+on va calculer, ça sera 1,5 à
+
+206
+00:12:32.340 --> 00:12:38.080
+la puissance 2, plus 2, plus 1, donc
+
+207
+00:12:38.080 --> 00:12:42.400
+ça sera 1,5 à la puissance 5.
+
+208
+00:12:44.650 --> 00:12:46.250
+Donc, c'est ce qu'on a calculé
+
+209
+00:12:46.250 --> 00:12:46.630
+ici.
+
+210
+00:12:47.890 --> 00:12:51.210
+Donc, 1,5 à la puissance 5, ça
+
+211
+00:12:51.210 --> 00:12:54.330
+sera 1 sur 32.
+
+212
+00:12:57.500 --> 00:13:03.220
+Voici un autre exemple de calcul de coefficient
+
+213
+00:13:03.220 --> 00:13:06.680
+de consanguinité entre cousins germains.
+
+214
+00:13:07.920 --> 00:13:11.660
+Donc, si on prend les personnes de la
+
+215
+00:13:11.660 --> 00:13:15.760
+génération 3, vous voyez le mari et la
+
+216
+00:13:15.760 --> 00:13:19.500
+femme, donc son cousin germain.
+
+217
+00:13:20.040 --> 00:13:24.780
+En fait, leurs deux mères sont des sœurs.
+
+218
+00:13:25.960 --> 00:13:29.500
+Donc, c'est ou les deux gèlins, d
+
+219
+00:13:29.500 --> 00:13:29.820
+'accord?
+
+220
+00:13:30.300 --> 00:13:35.220
+Et ils ont deux ancêtres communs, grand A1,
+
+221
+00:13:35.500 --> 00:13:37.000
+grand A2.
+
+222
+00:13:37.520 --> 00:13:41.320
+Donc là, on va utiliser la même équation,
+
+223
+00:13:41.480 --> 00:13:44.960
+la même formule, la somme de 1,5
+
+224
+00:13:44.960 --> 00:13:47.760
+à la puissance M plus P plus 1,
+
+225
+00:13:47.760 --> 00:13:51.980
+et là, ça sera fait pour l'ancêtre
+
+226
+00:13:51.980 --> 00:13:54.890
+commun A1 et pour l'ancêtre commun A1.
+
+227
+00:13:55.420 --> 00:13:56.600
+Je vais vous montrer comment.
+
+228
+00:13:57.920 --> 00:14:01.240
+Donc, on va calculer d'abord le coefficient
+
+229
+00:14:01.240 --> 00:14:05.020
+de consanguinité par rapport à l'ancêtre commun
+
+230
+00:14:05.020 --> 00:14:07.240
+grand A1.
+
+231
+00:14:07.640 --> 00:14:08.660
+C'est en vert.
+
+232
+00:14:08.660 --> 00:14:12.100
+Donc, ça sera toujours 1,5 à la
+
+233
+00:14:12.100 --> 00:14:14.320
+puissance M plus P plus 1.
+
+234
+00:14:14.840 --> 00:14:19.060
+M, le nombre de générations qui lient la
+
+235
+00:14:19.060 --> 00:14:23.120
+mère de I à l'ancêtre commun A1.
+
+236
+00:14:23.620 --> 00:14:27.620
+Donc, vous voyez en vert, première génération, puis
+
+237
+00:14:27.620 --> 00:14:28.860
+deuxième génération.
+
+238
+00:14:29.580 --> 00:14:32.420
+Donc, il y a deux générations qui lient
+
+239
+00:14:32.420 --> 00:14:34.780
+la mère de I à l'ancêtre commun
+
+240
+00:14:34.780 --> 00:14:35.660
+A1.
+
+241
+00:14:35.660 --> 00:14:38.420
+Donc, M est égal à 2.
+
+242
+00:14:39.100 --> 00:14:42.460
+Combien de générations lient le père de I
+
+243
+00:14:42.460 --> 00:14:45.260
+au premier ancêtre commun A1?
+
+244
+00:14:45.500 --> 00:14:48.760
+Donc, toujours en vert, 1, 2.
+
+245
+00:14:49.220 --> 00:14:51.000
+Donc, P est égal à 2.
+
+246
+00:14:51.240 --> 00:14:53.680
+Donc, ça sera 1,5 à la puissance
+
+247
+00:14:53.680 --> 00:14:55.900
+2 plus 2 plus 1, ça veut dire
+
+248
+00:14:55.900 --> 00:14:58.960
+1,5 à la puissance 5 plus, on
+
+249
+00:14:58.960 --> 00:15:01.660
+doit faire le calcul pour le deuxième ancêtre
+
+250
+00:15:01.660 --> 00:15:02.700
+commun A2.
+
+251
+00:15:02.700 --> 00:15:08.480
+Donc, combien de générations lient la mère de
+
+252
+00:15:08.480 --> 00:15:14.180
+I à l'ancêtre commun grand A, petit
+
+253
+00:15:14.180 --> 00:15:14.520
+2?
+
+254
+00:15:14.780 --> 00:15:21.660
+Donc, en bordeaux, ça sera une génération puis
+
+255
+00:15:21.660 --> 00:15:23.060
+deux générations.
+
+256
+00:15:23.340 --> 00:15:24.560
+Donc, M est égal à 2.
+
+257
+00:15:24.980 --> 00:15:28.600
+Puis combien de générations lient le père de
+
+258
+00:15:28.600 --> 00:15:32.580
+I à l'ancêtre commun grand A, petit
+
+259
+00:15:32.580 --> 00:15:32.680
+2?
+
+260
+00:15:32.700 --> 00:15:35.880
+Donc, une génération entre le père de I
+
+261
+00:15:35.880 --> 00:15:40.860
+et sa grand-mère, puis entre la grand
+
+262
+00:15:40.860 --> 00:15:43.600
+-mère de I et l'arrière-grand-mère.
+
+263
+00:15:44.040 --> 00:15:45.940
+Donc, ça sera deux générations.
+
+264
+00:15:46.140 --> 00:15:48.160
+Donc, ça sera encore 1,5 à la
+
+265
+00:15:48.160 --> 00:15:48.980
+puissance 5.
+
+266
+00:15:49.200 --> 00:15:51.040
+Quand on fait la somme pour les deux
+
+267
+00:15:51.040 --> 00:15:53.540
+ancêtres, ça sera 1,5 à la puissance
+
+268
+00:15:53.540 --> 00:15:56.200
+5 plus 1,5 à la puissance 5,
+
+269
+00:15:56.520 --> 00:16:00.700
+ce qui va faire 1 sur 16.
+
+270
+00:16:00.700 --> 00:16:03.520
+Donc, 1 sur 16, c'est le coefficient
+
+271
+00:16:03.520 --> 00:16:08.050
+de consanguinité entre cousins germains.
+
+272
+00:16:10.760 --> 00:16:15.600
+Maintenant, on va faire le calcul du coefficient
+
+273
+00:16:15.600 --> 00:16:22.660
+de consanguinité entre un oncle et sa nièce.
+
+274
+00:16:23.500 --> 00:16:24.830
+Donc là, c'est un inceste.
+
+275
+00:16:26.260 --> 00:16:29.360
+Donc ici, on a combien d'ancêtres communs?
+
+276
+00:16:30.340 --> 00:16:32.000
+On en a deux.
+
+277
+00:16:32.780 --> 00:16:34.520
+Regardez la génération 1.
+
+278
+00:16:36.480 --> 00:16:40.680
+Donc, on va faire le calcul pour chacun
+
+279
+00:16:40.680 --> 00:16:45.040
+des deux ancêtres communs.
+
+280
+00:16:45.120 --> 00:16:49.060
+Grand A, 1 et grand A, 2.
+
+281
+00:16:49.800 --> 00:16:52.980
+Maintenant, on va faire le calcul pour grand
+
+282
+00:16:52.980 --> 00:16:54.220
+A, 1.
+
+283
+00:16:54.740 --> 00:16:55.600
+Combien?
+
+284
+00:16:56.340 --> 00:16:58.980
+Donc, on va faire, ça va être 1
+
+285
+00:16:58.980 --> 00:17:03.720
+,5 à la puissance m plus p plus
+
+286
+00:17:03.720 --> 00:17:04.040
+1.
+
+287
+00:17:04.720 --> 00:17:09.819
+Combien de générations lie la mère de i
+
+288
+00:17:09.819 --> 00:17:13.980
+à l'ancêtre commun grand A, 1?
+
+289
+00:17:14.420 --> 00:17:17.579
+On va calculer la mère de i à
+
+290
+00:17:17.579 --> 00:17:19.599
+sa mère, 1, 2.
+
+291
+00:17:19.599 --> 00:17:23.380
+Donc, on a deux générations qui lie la
+
+292
+00:17:23.380 --> 00:17:27.300
+mère de i au premier ancêtre commun grand
+
+293
+00:17:27.300 --> 00:17:28.100
+A, 1.
+
+294
+00:17:28.820 --> 00:17:33.200
+Combien de générations lie le père de i
+
+295
+00:17:33.200 --> 00:17:37.160
+à l'ancêtre commun grand A, 1?
+
+296
+00:17:37.660 --> 00:17:39.800
+Ça sera une génération.
+
+297
+00:17:39.800 --> 00:17:43.660
+Donc, ça sera 1,5 à la puissance
+
+298
+00:17:43.660 --> 00:17:45.660
+2 plus 1.
+
+299
+00:17:45.920 --> 00:17:48.720
+Ça veut dire 1,5 à la puissance
+
+300
+00:17:48.720 --> 00:17:49.560
+4 plus.
+
+301
+00:17:50.680 --> 00:17:54.000
+On va calculer pour le deuxième ancêtre commun
+
+302
+00:17:54.000 --> 00:17:56.420
+qui est grand A, 2.
+
+303
+00:17:57.100 --> 00:18:00.440
+Combien de générations lie la mère de i
+
+304
+00:18:00.440 --> 00:18:03.540
+à l'ancêtre commun grand A, 2?
+
+305
+00:18:03.980 --> 00:18:05.680
+Ça sera 1, 2.
+
+306
+00:18:05.680 --> 00:18:09.680
+Combien de générations lie le père de i
+
+307
+00:18:09.680 --> 00:18:12.420
+à l'ancêtre commun grand A, 2?
+
+308
+00:18:12.760 --> 00:18:13.680
+Ça sera 1.
+
+309
+00:18:14.000 --> 00:18:16.220
+Et donc, ça sera 1,5 à la
+
+310
+00:18:16.220 --> 00:18:18.520
+puissance 2 plus 1 plus 1.
+
+311
+00:18:19.000 --> 00:18:22.020
+Ça va faire 1,5 à la puissance
+
+312
+00:18:22.020 --> 00:18:25.060
+4 plus 1,5 à la puissance 4.
+
+313
+00:18:25.280 --> 00:18:28.940
+Donc, ça va faire 1 sur 8.
+
+314
+00:18:38.910 --> 00:18:44.810
+Voici un autre exemple d'union entre apparentés.
+
+315
+00:18:45.170 --> 00:18:48.930
+Mais là, il y a une double consanguinité.
+
+316
+00:18:49.930 --> 00:18:50.770
+D'accord?
+
+317
+00:18:51.010 --> 00:18:53.290
+Donc, combien d'ancêtres communs on a ici?
+
+318
+00:18:54.150 --> 00:19:00.130
+On a A1, A2, A3 et A4.
+
+319
+00:19:00.130 --> 00:19:04.810
+Donc, on doit calculer 1,5 à la
+
+320
+00:19:04.810 --> 00:19:08.290
+puissance 1 plus P plus 1 à 4
+
+321
+00:19:08.290 --> 00:19:10.110
+reprises et faire la somme.
+
+322
+00:19:11.090 --> 00:19:14.550
+Donc, si on va prendre pour l'ancêtre
+
+323
+00:19:14.550 --> 00:19:21.230
+commun A1, combien de générations lie la mère
+
+324
+00:19:21.230 --> 00:19:24.130
+de i à l'ancêtre commun A1?
+
+325
+00:19:24.130 --> 00:19:25.930
+1, 2.
+
+326
+00:19:26.350 --> 00:19:30.210
+Plus combien de générations lie le père de
+
+327
+00:19:30.210 --> 00:19:32.430
+i à l'ancêtre commun A1?
+
+328
+00:19:32.870 --> 00:19:35.590
+Donc, ça sera 1 et 2.
+
+329
+00:19:35.810 --> 00:19:37.610
+Donc, ça sera 1,5 à la puissance
+
+330
+00:19:37.610 --> 00:19:37.930
+5.
+
+331
+00:19:38.290 --> 00:19:39.770
+On va faire la même chose pour l
+
+332
+00:19:39.770 --> 00:19:41.510
+'ancêtre commun A2.
+
+333
+00:19:41.970 --> 00:19:44.950
+Combien de générations lie la mère de i
+
+334
+00:19:44.950 --> 00:19:46.610
+à l'ancêtre commun A2?
+
+335
+00:19:46.730 --> 00:19:48.330
+Vous calculez 1, 2.
+
+336
+00:19:48.770 --> 00:19:51.430
+Le père de i à l'ancêtre commun
+
+337
+00:19:51.430 --> 00:19:52.250
+A2.
+
+338
+00:19:52.250 --> 00:19:53.890
+Ça sera également 2.
+
+339
+00:19:54.090 --> 00:19:56.090
+Donc, ça sera 1,5 à la puissance
+
+340
+00:19:56.090 --> 00:19:57.950
+2 plus 2 plus 1.
+
+341
+00:19:58.450 --> 00:20:00.770
+Donc, 1,5 à la puissance 5 pour
+
+342
+00:20:00.770 --> 00:20:02.050
+l'ancêtre commun A2.
+
+343
+00:20:02.470 --> 00:20:05.610
+La même chose pour l'ancêtre commun A3.
+
+344
+00:20:06.250 --> 00:20:10.430
+Combien de générations lie la mère de i
+
+345
+00:20:10.430 --> 00:20:12.290
+à l'ancêtre commun A3?
+
+346
+00:20:13.050 --> 00:20:15.350
+Donc, vous voyez 1 et 2.
+
+347
+00:20:15.910 --> 00:20:17.070
+Donc, ça sera 1,5.
+
+348
+00:20:19.050 --> 00:20:20.250
+Ça sera 2.
+
+349
+00:20:20.250 --> 00:20:24.850
+Puis, combien de générations lie le père de
+
+350
+00:20:24.850 --> 00:20:26.450
+i à l'ancêtre commun A3?
+
+351
+00:20:27.790 --> 00:20:28.990
+Donc, 1 et 2.
+
+352
+00:20:29.170 --> 00:20:31.410
+Donc, ça sera 1,5 à la puissance
+
+353
+00:20:31.410 --> 00:20:32.970
+2 plus 2 plus 1.
+
+354
+00:20:33.150 --> 00:20:35.310
+Donc, 1,5 à la puissance 5 pour
+
+355
+00:20:35.310 --> 00:20:37.070
+l'ancêtre commun A3.
+
+356
+00:20:37.570 --> 00:20:40.010
+Donc, on va calculer pour l'ancêtre commun
+
+357
+00:20:40.010 --> 00:20:40.750
+A4.
+
+358
+00:20:41.210 --> 00:20:44.510
+Combien de générations lie la mère de i
+
+359
+00:20:44.510 --> 00:20:46.350
+à l'ancêtre commun A4?
+
+360
+00:20:46.430 --> 00:20:47.970
+Ça sera 1, 2.
+
+361
+00:20:48.390 --> 00:20:49.170
+Deux générations.
+
+362
+00:20:50.250 --> 00:20:52.170
+Le père de i à l'ancêtre commun
+
+363
+00:20:52.170 --> 00:20:52.750
+A4.
+
+364
+00:20:53.230 --> 00:20:54.670
+Une génération, deux.
+
+365
+00:20:55.050 --> 00:20:56.970
+Donc, ça sera 1,5 à la puissance
+
+366
+00:20:56.970 --> 00:21:00.490
+5 également pour l'ancêtre commun A4.
+
+367
+00:21:00.830 --> 00:21:02.730
+Donc, ça sera 1,5 à la puissance
+
+368
+00:21:02.730 --> 00:21:04.630
+5 fois 4.
+
+369
+00:21:04.750 --> 00:21:05.830
+Parce que c'est 1,5 à la
+
+370
+00:21:05.830 --> 00:21:07.710
+puissance 5 plus 1,5 à la puissance
+
+371
+00:21:07.710 --> 00:21:09.450
+5 plus 1,5 à la puissance 5
+
+372
+00:21:09.450 --> 00:21:11.530
+plus 1,5 à la puissance 5.
+
+373
+00:21:11.790 --> 00:21:14.230
+Donc, ça sera 1 sur 8.
+
+374
+00:21:14.230 --> 00:21:17.470
+Quand il y avait juste des simples cousins
+
+375
+00:21:17.470 --> 00:21:21.150
+germains, le coefficient de consanguinité était de 1
+
+376
+00:21:21.150 --> 00:21:21.790
+sur 16.
+
+377
+00:21:21.970 --> 00:21:24.330
+Mais quand il y a une double consanguinité
+
+378
+00:21:24.330 --> 00:21:26.830
+de consanguinité, vous voyez.
+
+379
+00:21:27.570 --> 00:21:31.630
+Donc, le coefficient de consanguinité est passé à
+
+380
+00:21:31.630 --> 00:21:33.630
+1 sur 8.
+
+381
+00:21:33.630 --> 00:21:41.360
+Donc, quand il y a une union entre
+
+382
+00:21:41.360 --> 00:21:47.620
+père-fille, le coefficient de consanguinité est très
+
+383
+00:21:47.620 --> 00:21:48.040
+élevé.
+
+384
+00:21:48.660 --> 00:21:50.460
+Elle est de 1 sur 4.
+
+385
+00:21:51.100 --> 00:21:54.800
+Quand il y a un inceste suite à
+
+386
+00:21:54.800 --> 00:21:57.100
+une union entre un oncle et sa nièce,
+
+387
+00:21:58.040 --> 00:22:00.060
+elle est de 1 sur 8.
+
+388
+00:22:00.060 --> 00:22:03.120
+Alors, quand il y a un mariage entre
+
+389
+00:22:03.120 --> 00:22:07.700
+cousins germains, le coefficient de consanguinité est plus
+
+390
+00:22:07.700 --> 00:22:08.140
+faible.
+
+391
+00:22:08.480 --> 00:22:09.660
+Il est de 1 sur 16.
+
+392
+00:22:09.980 --> 00:22:13.720
+Mais quand il y a une double consanguinité,
+
+393
+00:22:13.900 --> 00:22:16.300
+double cousins germains, vous voyez.
+
+394
+00:22:16.480 --> 00:22:21.160
+Le coefficient de consanguinité est élevé.
+
+395
+00:22:21.680 --> 00:22:23.180
+Il est 1 sur 8.
+
+396
+00:22:23.700 --> 00:22:27.080
+Il rejoint celui de l'inceste entre un
+
+397
+00:22:27.080 --> 00:22:29.120
+oncle et sa nièce.
+
+398
+00:22:30.180 --> 00:22:32.640
+Alors, quand on s'éloigne, quand il y
+
+399
+00:22:32.640 --> 00:22:35.540
+a un mariage entre des cousins de deuxième
+
+400
+00:22:35.540 --> 00:22:39.400
+degré, le coefficient de consanguinité va diminuer.
+
+401
+00:22:40.220 --> 00:22:42.120
+Il est de 1 sur 64.
+
+402
+00:22:43.460 --> 00:22:45.640
+Et quand il y a un mariage entre
+
+403
+00:22:45.640 --> 00:22:50.680
+cousins troisième degré, donc il va en s
+
+404
+00:22:50.680 --> 00:22:55.420
+'affaiblissant puisque le coefficient de consanguinité va descendre
+
+405
+00:22:55.420 --> 00:22:58.240
+jusqu'à 1 sur 256.
+
+406
+00:23:01.720 --> 00:23:06.760
+Maintenant, on va passer au coefficient de parenté
+
+407
+00:23:06.760 --> 00:23:07.980
+petit air.
+
+408
+00:23:08.680 --> 00:23:11.620
+Le coefficient de parenté petit air, c'est
+
+409
+00:23:11.620 --> 00:23:16.600
+la probabilité pour deux personnes d'avoir un
+
+410
+00:23:16.600 --> 00:23:21.860
+ou plusieurs gènes en commun provenant d'un
+
+411
+00:23:21.860 --> 00:23:23.440
+même ancêtre.
+
+412
+00:23:24.720 --> 00:23:25.380
+D'accord?
+
+413
+00:23:25.380 --> 00:23:28.760
+Donc là, c'est la probabilité pour deux
+
+414
+00:23:28.760 --> 00:23:32.700
+personnes d'avoir un ou plusieurs gènes en
+
+415
+00:23:32.700 --> 00:23:36.440
+commun provenant d'un même ancêtre.
+
+416
+00:23:36.500 --> 00:23:40.040
+Alors que le coefficient de consanguinité, c'est
+
+417
+00:23:40.040 --> 00:23:43.960
+la probabilité pour que deux allèles d'un
+
+418
+00:23:43.960 --> 00:23:49.380
+gène soient identiques par descendance mendélienne.
+
+419
+00:23:51.770 --> 00:23:53.890
+Le coefficient, il faut savoir que le coefficient
+
+420
+00:23:53.890 --> 00:23:57.470
+de consanguinité d'une personne est toujours la
+
+421
+00:23:57.470 --> 00:24:01.390
+moitié du coefficient de parenté de ses parents.
+
+422
+00:24:01.810 --> 00:24:04.330
+Donc le coefficient de consanguinité f de i
+
+423
+00:24:04.330 --> 00:24:07.630
+est égal à 1 demi le coefficient de
+
+424
+00:24:07.630 --> 00:24:08.170
+parenté.
+
+425
+00:24:08.730 --> 00:24:13.970
+Donc pour calculer le coefficient de parenté, il
+
+426
+00:24:13.970 --> 00:24:16.650
+faut connaître le coefficient de consanguinité.
+
+427
+00:24:17.070 --> 00:24:20.710
+Si f de i est 1 demi r,
+
+428
+00:24:20.830 --> 00:24:23.210
+ça veut dire le coefficient de parenté r
+
+429
+00:24:23.210 --> 00:24:28.330
+est deux fois le coefficient de consanguinité.
+
+430
+00:24:28.810 --> 00:24:33.390
+Il suffit de calculer le coefficient de consanguinité,
+
+431
+00:24:33.670 --> 00:24:38.430
+le multiplier par 2 pour avoir une idée
+
+432
+00:24:38.430 --> 00:24:41.210
+sur le coefficient de parenté.
+
+433
+00:24:41.350 --> 00:24:42.650
+Là, c'est une question d'examen.
+
+434
+00:24:43.950 --> 00:24:48.070
+On va prendre comme exemple le coefficient de
+
+435
+00:24:48.070 --> 00:24:51.370
+parenté petit air de deux cousins germains.
+
+436
+00:24:51.370 --> 00:24:55.090
+Puisque le coefficient de parenté est le double
+
+437
+00:24:55.090 --> 00:24:56.390
+du coefficient de consanguinité.
+
+438
+00:24:57.510 --> 00:24:58.870
+Et puisque je vous ai dit tout à
+
+439
+00:24:58.870 --> 00:25:01.930
+l'heure que le coefficient de consanguinité entre
+
+440
+00:25:01.930 --> 00:25:04.350
+cousins germains est 1 sur 16.
+
+441
+00:25:04.810 --> 00:25:06.770
+C'est un chiffre à retenir par cœur.
+
+442
+00:25:07.390 --> 00:25:09.210
+Donc quel est le coefficient de parenté?
+
+443
+00:25:09.690 --> 00:25:13.670
+Le coefficient de parenté est alors sur 8.
+
+444
+00:25:18.320 --> 00:25:21.820
+Maintenant, quels sont les effets de la consanguinité?
+
+445
+00:25:21.820 --> 00:25:25.940
+Il faut savoir que la consanguinité joue un
+
+446
+00:25:25.940 --> 00:25:31.800
+rôle important dans la manifestation d'affections autosomiques
+
+447
+00:25:31.800 --> 00:25:32.430
+récessives.
+
+448
+00:25:33.480 --> 00:25:38.260
+Car elle se traduit par une augmentation de
+
+449
+00:25:38.260 --> 00:25:42.780
+la proportion relative des homozygotes pour l'allèle
+
+450
+00:25:42.780 --> 00:25:45.180
+pathologique ou l'allèle délétère.
+
+451
+00:25:45.180 --> 00:25:48.680
+L'effet de la consanguinité est des temps
+
+452
+00:25:48.680 --> 00:25:53.480
+plus sensible que la maladie autosomique récessive est
+
+453
+00:25:53.480 --> 00:25:53.780
+rare.
+
+454
+00:25:56.200 --> 00:25:59.000
+La fréquence des héterozygotes est de l'ordre
+
+455
+00:25:59.000 --> 00:26:01.040
+de 1 sur 50.
+
+456
+00:26:02.020 --> 00:26:04.860
+Donc le risque d'avoir un enfant malade
+
+457
+00:26:04.860 --> 00:26:09.000
+si les parents ne sont pas apparentés.
+
+458
+00:26:09.260 --> 00:26:10.900
+Comment on va le calculer?
+
+459
+00:26:11.580 --> 00:26:14.800
+Donc si les parents ne sont pas apparentés,
+
+460
+00:26:15.840 --> 00:26:18.280
+quel est le risque que les deux parents
+
+461
+00:26:18.280 --> 00:26:19.900
+soient héterozygotes?
+
+462
+00:26:20.640 --> 00:26:22.320
+On va prendre par exemple la mère.
+
+463
+00:26:22.780 --> 00:26:24.600
+Le risque qu'elle soit héterozygote, on n
+
+464
+00:26:24.600 --> 00:26:25.220
+'a pas une idée.
+
+465
+00:26:25.760 --> 00:26:27.800
+Donc c'est celui de la population générale
+
+466
+00:26:27.800 --> 00:26:33.480
+1 sur 50 fois le risque que le
+
+467
+00:26:33.480 --> 00:26:36.140
+papa lui aussi soit héterozygote.
+
+468
+00:26:36.220 --> 00:26:38.260
+C'est celui de la population générale qui
+
+469
+00:26:38.260 --> 00:26:39.840
+est 1 sur 50.
+
+470
+00:26:41.820 --> 00:26:46.160
+Fois le risque d'une maladie, le risque
+
+471
+00:26:46.160 --> 00:26:53.020
+que les deux allèles héterozygotes soient transmises à
+
+472
+00:26:53.020 --> 00:26:56.300
+un enfant qui est 25%, qui est 1
+
+473
+00:26:56.300 --> 00:26:56.840
+sur 4.
+
+474
+00:26:57.140 --> 00:26:59.720
+Donc ça sera 1 sur 50 fois 1
+
+475
+00:26:59.720 --> 00:27:02.380
+sur 50 fois 1 sur 4 qui est
+
+476
+00:27:02.380 --> 00:27:05.780
+1 sur 10 000.
+
+477
+00:27:06.720 --> 00:27:09.860
+Donc voici quand les parents ne sont pas
+
+478
+00:27:09.860 --> 00:27:10.560
+apparentés.
+
+479
+00:27:10.720 --> 00:27:12.780
+Il n'y a pas de consanguinité.
+
+480
+00:27:17.320 --> 00:27:22.430
+Maintenant, c'est le même exercice concernant la
+
+481
+00:27:22.430 --> 00:27:27.630
+phénicétonurie quand la fréquence des héterozygotes dans une
+
+482
+00:27:27.630 --> 00:27:29.990
+population est de l'ordre de 1 sur
+
+483
+00:27:29.990 --> 00:27:30.530
+50.
+
+484
+00:27:30.530 --> 00:27:34.430
+Maintenant, quel est le risque d'avoir un
+
+485
+00:27:34.430 --> 00:27:39.370
+enfant malade atteint de la phénicétonurie en cas
+
+486
+00:27:39.370 --> 00:27:43.170
+de mariage entre cousins germains quand ses parents
+
+487
+00:27:43.170 --> 00:27:45.530
+sont cousins germains?
+
+488
+00:27:46.550 --> 00:27:49.870
+Donc on prend par exemple le papa.
+
+489
+00:27:51.110 --> 00:27:54.110
+Le risque qu'il soit héterozygote, on n
+
+490
+00:27:54.110 --> 00:27:54.570
+'a pas d'idée.
+
+491
+00:27:54.890 --> 00:27:57.670
+Donc ça sera celui de la population générale
+
+492
+00:27:57.670 --> 00:27:58.830
+1 sur 50.
+
+493
+00:27:59.770 --> 00:28:03.590
+Mais quel est le risque que sa cousine
+
+494
+00:28:03.590 --> 00:28:07.130
+germaine soit héterozygote comme lui?
+
+495
+00:28:07.750 --> 00:28:12.010
+Donc ça sera le coefficient de parenté 1
+
+496
+00:28:12.010 --> 00:28:12.730
+sur 8.
+
+497
+00:28:13.530 --> 00:28:17.410
+Donc ça sera 1 sur 50 le risque
+
+498
+00:28:17.410 --> 00:28:19.830
+que le papa soit héterozygote.
+
+499
+00:28:21.470 --> 00:28:25.130
+Donc que sa cousine germaine soit héterozygote comme
+
+500
+00:28:25.130 --> 00:28:28.430
+lui, ça sera le coefficient de parenté 1
+
+501
+00:28:28.430 --> 00:28:28.970
+sur 8.
+
+502
+00:28:29.350 --> 00:28:31.130
+Parce que c'est le risque pour que
+
+503
+00:28:31.130 --> 00:28:38.930
+deux personnes soient porteuses des gènes à l
+
+504
+00:28:38.930 --> 00:28:40.070
+'état homozygote.
+
+505
+00:28:40.070 --> 00:28:45.010
+Et le risque que les deux allèles héterozygotes
+
+506
+00:28:45.010 --> 00:28:48.690
+soient transmises à la fois à un enfant
+
+507
+00:28:48.690 --> 00:28:50.410
+qui est de 1 sur 4.
+
+508
+00:28:50.610 --> 00:28:53.470
+Donc ça sera 1 sur 50 fois le
+
+509
+00:28:53.470 --> 00:28:56.010
+coefficient de parenté entre cousins germains qui est
+
+510
+00:28:56.010 --> 00:28:58.570
+de 1 sur 8 fois le risque pour
+
+511
+00:28:58.570 --> 00:29:01.310
+une maladie autosomique récessive qui est 1 sur
+
+512
+00:29:01.310 --> 00:29:01.670
+4.
+
+513
+00:29:02.090 --> 00:29:05.330
+Donc ça sera 1 sur 1600.
+
+514
+00:29:05.330 --> 00:29:09.190
+Regardez la différence avec l'exemple suivant.
+
+515
+00:29:09.650 --> 00:29:12.250
+Quand les parents n'étaient pas apparentés, il
+
+516
+00:29:12.250 --> 00:29:13.790
+n'y avait pas de consanguinité.
+
+517
+00:29:14.190 --> 00:29:16.410
+Le risque d'avoir un enfant malade c
+
+518
+00:29:16.410 --> 00:29:17.650
+'était de 1 sur 10000.
+
+519
+00:29:18.210 --> 00:29:21.470
+Mais il suffit que les parents soient cousins
+
+520
+00:29:21.470 --> 00:29:25.750
+germains pour que ce risque-là augmente à
+
+521
+00:29:25.750 --> 00:29:28.330
+1 sur 1600.
+
+522
+00:29:31.500 --> 00:29:38.480
+Toujours concernant la phénicétonurie, une maladie autosomique récessive
+
+523
+00:29:38.480 --> 00:29:41.660
+dont la fréquence des héterozygotes dans la population
+
+524
+00:29:41.660 --> 00:29:44.000
+générale est de l'ordre de 1 sur
+
+525
+00:29:44.000 --> 00:29:44.560
+50.
+
+526
+00:29:45.080 --> 00:29:48.660
+Maintenant, quel est le risque d'avoir un
+
+527
+00:29:48.660 --> 00:29:55.560
+enfant malade si un héterozygote épouse sa cousine
+
+528
+00:29:55.560 --> 00:29:56.340
+germaine?
+
+529
+00:29:56.340 --> 00:30:01.380
+Donc quelle est la différence avec l'énoncé
+
+530
+00:30:01.380 --> 00:30:02.400
+précédent?
+
+531
+00:30:02.580 --> 00:30:05.460
+Ici on sait que le papa, ou plutôt
+
+532
+00:30:05.460 --> 00:30:07.760
+le mari, est héterozygote.
+
+533
+00:30:08.040 --> 00:30:11.340
+Donc il est à 100% héterozygote.
+
+534
+00:30:12.560 --> 00:30:16.140
+Donc 100% héterozygote ça veut dire 1.
+
+535
+00:30:17.180 --> 00:30:19.280
+On sait qu'il est héterozygote.
+
+536
+00:30:19.380 --> 00:30:22.320
+Il est à 100% héterozygote, ça sera
+
+537
+00:30:22.320 --> 00:30:22.820
+1.
+
+538
+00:30:22.820 --> 00:30:27.160
+Que sa cousine germaine soit héterozygote comme lui,
+
+539
+00:30:27.760 --> 00:30:29.800
+c'est 1 fois 1 sur 8.
+
+540
+00:30:30.160 --> 00:30:31.840
+Donc pour qu'ils soient tous les deux
+
+541
+00:30:31.840 --> 00:30:32.820
+à la fois héterozygote.
+
+542
+00:30:34.180 --> 00:30:37.360
+Et pour que tous les deux transmettent l
+
+543
+00:30:37.360 --> 00:30:41.740
+'allèle héterozygote, alors enfant ça sera le risque
+
+544
+00:30:41.740 --> 00:30:44.080
+d'une maladie autosomique récessive qui est de
+
+545
+00:30:44.080 --> 00:30:46.560
+25% qui est égale à 1 sur
+
+546
+00:30:46.560 --> 00:30:46.920
+4.
+
+547
+00:30:46.920 --> 00:30:51.060
+Donc un héterozygote qui se marie avec sa
+
+548
+00:30:51.060 --> 00:30:55.720
+cousine germaine, donc pour ce cas-là, le
+
+549
+00:30:55.720 --> 00:30:57.900
+risque d'avoir un enfant malade ça sera
+
+550
+00:30:57.900 --> 00:31:00.700
+1 fois 1 sur 8, 1 sur 8
+
+551
+00:31:00.700 --> 00:31:03.680
+fois 1 sur 4 qui est 1 sur
+
+552
+00:31:03.680 --> 00:31:04.020
+32.
+
+553
+00:31:05.200 --> 00:31:07.860
+Et je rappelle encore une fois, 1 sur
+
+554
+00:31:07.860 --> 00:31:11.560
+8 c'est la coefficient de parenté entre
+
+555
+00:31:11.560 --> 00:31:12.820
+cousins germains.
+
+556
+00:31:12.820 --> 00:31:16.260
+Donc vous voyez, on est passé de 1
+
+557
+00:31:16.260 --> 00:31:18.980
+sur 10 000 quand les parents n'étaient
+
+558
+00:31:18.980 --> 00:31:22.380
+pas apparentés et quand les deux, on ne
+
+559
+00:31:22.380 --> 00:31:23.820
+savait pas qu'ils étaient héterozygotes.
+
+560
+00:31:24.640 --> 00:31:27.180
+Mais maintenant que l'un des deux conjoints
+
+561
+00:31:27.180 --> 00:31:30.260
+est héterozygote et qu'il est marié à
+
+562
+00:31:30.260 --> 00:31:33.040
+sa cousine germaine, on est passé à 1.
+
+563
+00:31:34.900 --> 00:31:39.240
+Toujours dans le même cas de la phénylcétonurie.
+
+564
+00:31:40.080 --> 00:31:43.580
+Maintenant, quel est le risque d'avoir un
+
+565
+00:31:43.580 --> 00:31:47.660
+enfant malade si le frère sain d'un
+
+566
+00:31:47.660 --> 00:31:50.580
+malade épouse sa cousine germaine?
+
+567
+00:31:51.600 --> 00:31:53.480
+Je vais vous expliquer autrement.
+
+568
+00:31:54.320 --> 00:31:58.560
+On a un sujet atteint de la phénylcétonurie.
+
+569
+00:31:59.240 --> 00:32:01.480
+Il a un frère sain, le frère de
+
+570
+00:32:01.480 --> 00:32:05.480
+ce malade atteint de la phénylcétonurie va se
+
+571
+00:32:05.480 --> 00:32:07.360
+marier avec sa cousine germaine.
+
+572
+00:32:08.400 --> 00:32:10.860
+Quel est le risque pour ce couple-là
+
+573
+00:32:10.860 --> 00:32:14.900
+du frère sain d'un sujet atteint de
+
+574
+00:32:14.900 --> 00:32:18.380
+la phénylcétonurie qui est marié à sa cousine
+
+575
+00:32:18.380 --> 00:32:21.060
+germaine d'avoir un enfant atteint de la
+
+576
+00:32:21.060 --> 00:32:22.120
+phénylcétonurie?
+
+577
+00:32:23.240 --> 00:32:29.060
+Vous vous rappelez, quand on a un sujet
+
+578
+00:32:29.060 --> 00:32:33.560
+qui est atteint d'une maladie autosomique récessive,
+
+579
+00:32:33.980 --> 00:32:37.680
+ça veut dire que les parents sont obligatoirement
+
+580
+00:32:37.680 --> 00:32:42.040
+héterozygotes, sauf de rares, rares, rares exceptions.
+
+581
+00:32:42.040 --> 00:32:46.160
+Donc, retenons qu'on a un enfant atteint
+
+582
+00:32:46.160 --> 00:32:49.180
+d'une maladie autosomique récessive, donc les parents
+
+583
+00:32:49.180 --> 00:32:51.040
+sont hétérozygotes.
+
+584
+00:32:52.740 --> 00:32:56.480
+Donc, ce sujet dans l'énoncé dont le
+
+585
+00:32:56.480 --> 00:33:00.480
+frère est atteint de la phénylcétonurie, lui, il
+
+586
+00:33:00.480 --> 00:33:04.040
+est sain, phénotypiquement sain.
+
+587
+00:33:06.180 --> 00:33:08.160
+Regardez dans ce schéma-là.
+
+588
+00:33:08.780 --> 00:33:12.620
+Quand les sujets sont phénotypiquement sains, ils ont,
+
+589
+00:33:13.900 --> 00:33:18.180
+dans deux tiers des cas, ils sont hétérozygotes.
+
+590
+00:33:18.920 --> 00:33:21.740
+Et dans un tiers des cas, ils sont
+
+591
+00:33:21.740 --> 00:33:22.900
+homozygotes sains.
+
+592
+00:33:22.900 --> 00:33:26.760
+Donc, le frère sain d'un sujet atteint
+
+593
+00:33:26.760 --> 00:33:29.220
+d'une maladie autosomique récessive, qui est la
+
+594
+00:33:29.220 --> 00:33:31.860
+phénylcétonurie dans ce cas-là, quel est le
+
+595
+00:33:31.860 --> 00:33:33.320
+risque qu'il soit hétérozygote?
+
+596
+00:33:33.480 --> 00:33:36.160
+C'est 2 sur 3.
+
+597
+00:33:37.480 --> 00:33:40.440
+Donc, ce sujet-là, le frère sain d
+
+598
+00:33:40.440 --> 00:33:42.400
+'un malade épouse sa cousine germaine.
+
+599
+00:33:43.240 --> 00:33:46.300
+On a dit que le frère sain d
+
+600
+00:33:46.300 --> 00:33:48.880
+'un malade atteint d'une maladie autosomique récessive
+
+601
+00:33:48.880 --> 00:33:51.340
+a un risque de 2 sur 3 d
+
+602
+00:33:51.340 --> 00:33:51.900
+'être hétérozygote.
+
+603
+00:33:53.200 --> 00:33:55.700
+Quand il est marié à sa cousine germaine,
+
+604
+00:33:55.840 --> 00:33:57.600
+quel est le risque de la cousine germaine
+
+605
+00:33:57.600 --> 00:33:59.920
+d'être hétérozygote comme son mari?
+
+606
+00:34:00.600 --> 00:34:03.320
+C'est le coefficient de parenté, 1 sur
+
+607
+00:34:03.320 --> 00:34:03.640
+8.
+
+608
+00:34:04.340 --> 00:34:09.020
+Et que les deux transmettent les deux allèles
+
+609
+00:34:09.020 --> 00:34:12.179
+hétérozygotes à cet enfant-là, c'est 1
+
+610
+00:34:12.179 --> 00:34:12.780
+sur 4.
+
+611
+00:34:13.120 --> 00:34:16.620
+Donc, ça sera 1 sur 48.
+
+612
+00:34:20.300 --> 00:34:26.900
+Maintenant, quel est l'apport du conseil génétique
+
+613
+00:34:26.900 --> 00:34:31.280
+en cas de présence d'une consanguinité dans
+
+614
+00:34:31.280 --> 00:34:31.900
+une famille?
+
+615
+00:34:33.280 --> 00:34:38.300
+Donc, pour conseiller ou déconseiller un mariage entre
+
+616
+00:34:38.300 --> 00:34:43.139
+apparentés, il est nécessaire d'estimer le risque
+
+617
+00:34:43.139 --> 00:34:48.840
+après une anamnèse génétique, après avoir dessiné l
+
+618
+00:34:48.840 --> 00:34:52.520
+'arme généalogique et après avoir fait une anamnèse
+
+619
+00:34:52.520 --> 00:34:55.320
+qui a pour but de détecter est-ce
+
+620
+00:34:55.320 --> 00:34:58.840
+qu'il y a présence de certaines maladies
+
+621
+00:34:58.840 --> 00:35:03.320
+dont le risque d'apparition de survenus de
+
+622
+00:35:03.320 --> 00:35:06.960
+nouveaux cas est en rapport avec la consanguinité.
+
+623
+00:35:06.960 --> 00:35:10.380
+Ça nous arrive souvent en consultation de génétique
+
+624
+00:35:10.380 --> 00:35:13.460
+d'avoir des demandes de conseil génétique pour
+
+625
+00:35:13.460 --> 00:35:15.840
+des cousins qui s'apprêtent à se marier.
+
+626
+00:35:16.160 --> 00:35:18.080
+C'est en préconceptionnel.
+
+627
+00:35:19.520 --> 00:35:22.480
+Le risque d'un mariage entre apparentés dépend
+
+628
+00:35:22.480 --> 00:35:23.440
+de deux choses.
+
+629
+00:35:23.960 --> 00:35:27.680
+Du degré du lien de parenté, qui est
+
+630
+00:35:27.680 --> 00:35:30.460
+le double du coefficient de consanguinité.
+
+631
+00:35:30.460 --> 00:35:34.560
+Donc, pour déconseiller ou conseiller un mariage entre
+
+632
+00:35:34.560 --> 00:35:37.960
+apparentés, il faut d'abord dessiner l'arme
+
+633
+00:35:37.960 --> 00:35:40.860
+généalogique et calculer le coefficient de consanguinité.
+
+634
+00:35:41.640 --> 00:35:46.140
+Deuxième chose, de l'existence de maladies autosomiques
+
+635
+00:35:46.140 --> 00:35:50.640
+récessives ou multifactorielles dans la famille.
+
+636
+00:35:52.880 --> 00:35:57.060
+Donc, un mariage entre apparentés est jugé à
+
+637
+00:35:57.060 --> 00:36:01.360
+risque si le coefficient de consanguinité est supérieur
+
+638
+00:36:01.360 --> 00:36:02.580
+à 1 sur 16.
+
+639
+00:36:02.880 --> 00:36:04.680
+Ça vous rappelle quoi 1 sur 16?
+
+640
+00:36:04.980 --> 00:36:07.820
+C'est le coefficient de consanguinité entre cousins
+
+641
+00:36:07.820 --> 00:36:08.560
+germains.
+
+642
+00:36:08.900 --> 00:36:12.040
+C'est pour ça que l'islam n
+
+643
+00:36:12.040 --> 00:36:16.920
+'a pas interdit le mariage entre cousins germains.
+
+644
+00:36:16.920 --> 00:36:22.820
+Et on va déconseiller ce mariage à risque
+
+645
+00:36:22.820 --> 00:36:25.680
+si le coefficient est supérieur à 1 sur
+
+646
+00:36:25.680 --> 00:36:31.620
+16 avec coexistence des maladies autosomiques récessives ou
+
+647
+00:36:31.620 --> 00:36:34.100
+certaines maladies multifactorielles.
+
+648
+00:36:34.460 --> 00:36:38.140
+J'insiste que certaines maladies multifactorielles, comme certaines
+
+649
+00:36:38.140 --> 00:36:42.740
+psychoses, le trouble bipolaire maniaque ou dépressif, d
+
+650
+00:36:42.740 --> 00:36:47.320
+'autres maladies multifactorielles, le risque va augmenter en
+
+651
+00:36:47.320 --> 00:36:49.960
+fonction du taux de consanguinité.
+
+652
+00:36:50.380 --> 00:36:53.920
+La même chose que pour les maladies autosomiques
+
+653
+00:36:53.920 --> 00:36:55.100
+récessives.
+
+654
+00:36:56.080 --> 00:36:59.040
+Vous voyez maintenant pourquoi l'inceste a été
+
+655
+00:36:59.040 --> 00:37:03.300
+interdit par les religions monothéites et par plusieurs
+
+656
+00:37:03.300 --> 00:37:05.720
+législations civiles.
+
+657
+00:37:05.800 --> 00:37:08.800
+Parce que le coefficient de consanguinité est supérieur
+
+658
+00:37:08.800 --> 00:37:09.780
+à 1 sur 16.
+
+659
+00:37:09.780 --> 00:37:13.700
+Vous vous rappelez le coefficient de consanguinité entre,
+
+660
+00:37:13.860 --> 00:37:16.720
+quand il y a un mariage, entre un
+
+661
+00:37:16.720 --> 00:37:18.180
+père et sa fille, il est de l
+
+662
+00:37:18.180 --> 00:37:19.300
+'ordre de 1 sur 4.
+
+663
+00:37:19.440 --> 00:37:21.200
+1 sur 4 c'est supérieur à 1
+
+664
+00:37:21.200 --> 00:37:21.700
+sur 16.
+
+665
+00:37:22.040 --> 00:37:23.920
+Quand il y a l'inceste entre un
+
+666
+00:37:23.920 --> 00:37:26.780
+oncle et sa nièce, ou une tante et
+
+667
+00:37:26.780 --> 00:37:28.860
+un neveu, donc qui est de 1 sur
+
+668
+00:37:28.860 --> 00:37:29.060
+8.
+
+669
+00:37:29.180 --> 00:37:31.540
+1 sur 8 est supérieur à 1 sur
+
+670
+00:37:31.540 --> 00:37:31.840
+16.
+
+671
+00:37:31.840 --> 00:37:36.760
+Vous comprenez maintenant pourquoi l'inceste est interdit
+
+672
+00:37:36.760 --> 00:37:41.060
+par les religions et par les législations civiles.
+
+673
+00:37:44.720 --> 00:37:50.660
+Pour conclure, il est important de mémoriser les
+
+674
+00:37:50.660 --> 00:37:54.040
+quatre conditions d'application de la loi de
+
+675
+00:37:54.040 --> 00:37:58.260
+Hardy-Weinberg, et surtout son application pour les
+
+676
+00:37:58.260 --> 00:37:59.920
+maladies autosomiques récessives.
+
+677
+00:38:00.660 --> 00:38:04.760
+Vous devez être capable de calculer la fréquence
+
+678
+00:38:04.760 --> 00:38:08.980
+génique et génotypique, de connaître la définition de
+
+679
+00:38:08.980 --> 00:38:12.340
+la consanguinité, ses effets secondaires et l'intérêt
+
+680
+00:38:12.340 --> 00:38:13.540
+du conseil génétique.
+
+681
+00:38:14.020 --> 00:38:16.560
+De même, vous devez être capable de calculer
+
+682
+00:38:16.560 --> 00:38:21.260
+le coefficient de consanguinité, le coefficient de parenté
+
+683
+00:38:21.260 --> 00:38:25.920
+et leurs applications pour le conseil génétique.
+
+684
+00:38:26.220 --> 00:38:27.960
+Je vous remercie pour votre attention.

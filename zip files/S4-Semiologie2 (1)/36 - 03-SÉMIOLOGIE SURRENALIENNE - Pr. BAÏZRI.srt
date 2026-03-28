@@ -1,0 +1,1895 @@
+1
+00:00:00,650 --> 00:00:02,910
+Bonjour tout le monde.
+
+2
+00:00:03,450 --> 00:00:05,170
+Alors aujourd'hui, je vais vous parler de
+
+3
+00:00:05,170 --> 00:00:08,110
+la sémiologie surrénalienne.
+
+4
+00:00:25,790 --> 00:00:27,870
+Parmi les objectifs de ce cours, c'est
+
+5
+00:00:27,870 --> 00:00:29,890
+d'abord reconnaître les signes cliniques d'une
+
+6
+00:00:29,890 --> 00:00:31,910
+insuffisance surrénalienne chronique.
+
+7
+00:00:33,310 --> 00:00:36,270
+Également reconnaître les signes cliniques d'un hypercorticisme,
+
+8
+00:00:36,370 --> 00:00:38,730
+ou ce qu'on appelle couramment un syndrome
+
+9
+00:00:38,730 --> 00:00:39,890
+de Cushing.
+
+10
+00:00:41,810 --> 00:00:46,050
+Alors je rappelle que les glandes surrénales comprennent
+
+11
+00:00:46,050 --> 00:00:47,060
+deux parties distinctes.
+
+12
+00:00:47,710 --> 00:00:49,830
+Il y a la cortico-surrénale, qui est
+
+13
+00:00:49,830 --> 00:00:52,890
+à l'extérieur, et puis la médulo-surrénale.
+
+14
+00:00:54,070 --> 00:00:57,730
+Alors la cortico-surrénale est elle-même divisée
+
+15
+00:00:57,730 --> 00:01:03,310
+en plusieurs zones qui vont sécréter les minéralocorticoïdes
+
+16
+00:01:03,310 --> 00:01:05,890
+par la zone glomérulée.
+
+17
+00:01:07,170 --> 00:01:09,770
+Le principal hormone, c'est l'aldostérone.
+
+18
+00:01:12,010 --> 00:01:15,090
+Les glucocorticoïdes, et en particulier le cortisol, vont
+
+19
+00:01:15,090 --> 00:01:17,750
+être sécrétés par la fasciculée.
+
+20
+00:01:18,390 --> 00:01:21,010
+Et puis les androgènes, et en particulier le
+
+21
+00:01:21,010 --> 00:01:25,710
+testostérone, vont être synthétisés et sécrétés par la
+
+22
+00:01:25,710 --> 00:01:26,450
+zone reticulée.
+
+23
+00:01:26,990 --> 00:01:29,630
+Par contre, pour la médulo-surrénale, c'est
+
+24
+00:01:29,630 --> 00:01:31,270
+la zone où vient la couche qui est
+
+25
+00:01:31,270 --> 00:01:35,870
+responsable de la sécrétion des catecholamines, en l
+
+26
+00:01:35,870 --> 00:01:38,630
+'occurrence l'adrénaline et la noradrénaline.
+
+27
+00:01:39,650 --> 00:01:45,510
+Je rappelle aussi la régulation de la synthèse
+
+28
+00:01:45,510 --> 00:01:48,070
+et la sécrétion du cortisol, qui est sous
+
+29
+00:01:48,070 --> 00:01:51,630
+l'action d'une autre hormone qui est
+
+30
+00:01:51,630 --> 00:01:55,810
+la CTH, qui est sécrétée par l'antéhypophyse,
+
+31
+00:01:55,810 --> 00:01:59,130
+elle-même sous l'action du CRH, qui
+
+32
+00:01:59,130 --> 00:02:04,450
+est un facteur sécrété par l'hypothalamus.
+
+33
+00:02:05,670 --> 00:02:13,030
+Bien évidemment, toute augmentation du cortisol va entraîner
+
+34
+00:02:13,030 --> 00:02:15,830
+un feedback négatif sur la synthèse et la
+
+35
+00:02:15,830 --> 00:02:18,330
+sécrétion de la CTH, mais également sur la
+
+36
+00:02:18,330 --> 00:02:20,030
+synthèse et la sécrétion du CRH.
+
+37
+00:02:20,030 --> 00:02:26,530
+Et toute baisse du cortisol va entraîner une
+
+38
+00:02:26,530 --> 00:02:29,130
+simulation de la sécrétion de la CTH et
+
+39
+00:02:29,130 --> 00:02:31,350
+aussi du CRH.
+
+40
+00:02:32,650 --> 00:02:37,170
+Alors, une chose très importante à vous rappeler,
+
+41
+00:02:37,330 --> 00:02:39,390
+c'est le rythme circadien de la sécrétion
+
+42
+00:02:39,390 --> 00:02:39,990
+du cortisol.
+
+43
+00:02:40,190 --> 00:02:44,550
+Comme vous le savez, la sécrétion du cortisol
+
+44
+00:02:44,550 --> 00:02:48,990
+suit un rythme circadien, et cette sécrétion est
+
+45
+00:02:48,990 --> 00:02:52,150
+maximale entre 6h et 9h du matin, et
+
+46
+00:02:52,150 --> 00:02:55,830
+elle va être minime aux alentours de minuit.
+
+47
+00:02:57,110 --> 00:02:59,550
+Dans la première partie de ce cours, on
+
+48
+00:02:59,550 --> 00:03:02,050
+va parler d'abord de l'insuffisance surrénalienne.
+
+49
+00:03:07,740 --> 00:03:12,300
+Alors, c'est quoi une insuffisance surrénalienne ?
+
+50
+00:03:12,300 --> 00:03:14,500
+C'est l'ensemble des symptômes en rapport
+
+51
+00:03:14,500 --> 00:03:16,980
+avec une insuffisance de production des hormones du
+
+52
+00:03:16,980 --> 00:03:20,840
+cortex surrénalien, et selon le niveau du trouble
+
+53
+00:03:20,840 --> 00:03:22,920
+ou de l'atteinte, que ce soit surrénalien
+
+54
+00:03:22,920 --> 00:03:27,100
+ou hypophyser, on distingue deux types d'insuffisance
+
+55
+00:03:27,100 --> 00:03:27,580
+surrénale.
+
+56
+00:03:27,780 --> 00:03:33,120
+L'insuffisance surrénale primaire de cause surrénalienne, auquel
+
+57
+00:03:33,120 --> 00:03:35,380
+on réserve le nom généralement de maladie d
+
+58
+00:03:35,380 --> 00:03:38,220
+'Addison, et qui est caractérisée par un déficit
+
+59
+00:03:38,220 --> 00:03:40,840
+qui touche à la fois le cortisol et
+
+60
+00:03:40,840 --> 00:03:41,740
+l'aldostérone.
+
+61
+00:03:42,620 --> 00:03:46,400
+Alors que l'insuffisance surrénale secondaire, dite également
+
+62
+00:03:46,400 --> 00:03:52,220
+HOT, ou insuffisance corticotrope, et les causes sont
+
+63
+00:03:52,220 --> 00:03:54,980
+hypophysères, la plus fréquente étant l'arrêt d
+
+64
+00:03:54,980 --> 00:03:58,340
+'une corticothérapie prolongée, et puis, dans ce cas,
+
+65
+00:03:58,480 --> 00:04:01,960
+la sécrétion d'aldostérone est préservée, expliquant un
+
+66
+00:04:01,960 --> 00:04:06,460
+tableau habituellement moins sévère que celui rencontré dans
+
+67
+00:04:06,460 --> 00:04:08,880
+l'insuffisance surrénale primaire.
+
+68
+00:04:09,920 --> 00:04:13,900
+Alors, sur le plan physiopathologique, dans la maladie
+
+69
+00:04:13,900 --> 00:04:17,500
+d'Addison, les déficits glucos et minérales aux
+
+70
+00:04:17,500 --> 00:04:21,300
+corticoïdes s'expriment cliniquement quand 80 à 90
+
+71
+00:04:21,300 --> 00:04:22,980
+% des surrénales sont détruites.
+
+72
+00:04:23,820 --> 00:04:25,860
+Et dans ce cas, la CTH va augmenter
+
+73
+00:04:25,860 --> 00:04:29,620
+par absence de rétrocontrôle négatif, dont j'ai
+
+74
+00:04:29,620 --> 00:04:32,960
+parlé tout à l'heure, expliquant la mélanodermie,
+
+75
+00:04:33,080 --> 00:04:35,680
+puisque, au niveau des mélanocytes, il y a
+
+76
+00:04:35,680 --> 00:04:37,880
+des récepteurs à la CTH, et qui vont
+
+77
+00:04:37,880 --> 00:04:41,820
+stimuler la sécrétion de la mélanine, et qui
+
+78
+00:04:41,820 --> 00:04:44,160
+est responsable de cette mélanodermie qu'on trouve
+
+79
+00:04:44,160 --> 00:04:49,200
+dans l'insuffisance surrénale périphérique ou bien primaire.
+
+80
+00:04:50,000 --> 00:04:52,480
+En cas de lésion de la commande hypothalamo
+
+81
+00:04:52,480 --> 00:04:56,620
+-hypophysaire, le taux de la CTH est soit
+
+82
+00:04:56,620 --> 00:04:59,140
+bas ou normal, et le teint est pâle.
+
+83
+00:05:00,200 --> 00:05:02,580
+Et dans la corticothérapie prolongée, les signes d
+
+84
+00:05:02,580 --> 00:05:06,560
+'hypercortisolisme contrastent pendant quelques temps avec les signes
+
+85
+00:05:06,560 --> 00:05:07,640
+biologiques déficitaires.
+
+86
+00:05:07,980 --> 00:05:10,560
+Donc ça, c'est une particularité de l
+
+87
+00:05:10,560 --> 00:05:13,720
+'insuffisance corticotrope secondaire à l'arrêt d'une
+
+88
+00:05:13,720 --> 00:05:16,580
+corticothérapie prolongée, c'est que, sur le plan
+
+89
+00:05:16,580 --> 00:05:21,640
+clinique, on a des signes d'hypercortisolisme.
+
+90
+00:05:22,620 --> 00:05:24,700
+C'est un syndrome de Cushing typique, mais
+
+91
+00:05:24,700 --> 00:05:27,580
+qui contraste avec les signes biologiques qui sont
+
+92
+00:05:27,580 --> 00:05:29,600
+en faveur d'une insuffisance surrénale.
+
+93
+00:05:31,140 --> 00:05:35,200
+Sur le plan clinique, il faut bien différencier
+
+94
+00:05:35,200 --> 00:05:39,600
+l'insuffisance surrénalienne liée à une pathologie des
+
+95
+00:05:39,600 --> 00:05:42,840
+glandes surrénales elle-même, c'est-à-dire
+
+96
+00:05:42,840 --> 00:05:46,120
+l'insuffisance surrénale primaire aux maladies d'adhésion,
+
+97
+00:05:46,640 --> 00:05:49,180
+de l'insuffisance corticotrope liée à un manque
+
+98
+00:05:49,180 --> 00:05:49,980
+d'ACTH.
+
+99
+00:05:53,960 --> 00:05:57,020
+On va commencer par l'insuffisance surrénalienne périphérique,
+
+100
+00:05:57,760 --> 00:06:00,520
+au cours de laquelle le patient peut présenter
+
+101
+00:06:00,520 --> 00:06:02,920
+ou avoir une asthémie qui est constante et
+
+102
+00:06:02,920 --> 00:06:06,420
+progressive, d'abord prédominante le soir, et elle
+
+103
+00:06:06,420 --> 00:06:11,640
+touche bientôt l'activité physique, intellectuelle et sexuelle.
+
+104
+00:06:13,040 --> 00:06:15,260
+Il peut y avoir un amaigrissement qui est
+
+105
+00:06:15,260 --> 00:06:18,900
+expliqué par la fuite sodée, l'inhibition de
+
+106
+00:06:18,900 --> 00:06:22,820
+la néoglycogénèse et l'anorexie, et également une
+
+107
+00:06:22,820 --> 00:06:26,680
+hypotension artérielle, qui est elle aussi constante.
+
+108
+00:06:31,150 --> 00:06:34,570
+La mélanodermie est également un signe très évocateur.
+
+109
+00:06:35,950 --> 00:06:39,790
+Cette mélanodermie prédomine généralement sur les zones découvertes
+
+110
+00:06:39,790 --> 00:06:42,870
+de frottement, les plis et les cicatrices récentes,
+
+111
+00:06:42,870 --> 00:06:45,070
+les plis palmar cutanés et la face dorsale
+
+112
+00:06:45,070 --> 00:06:49,270
+des articulations interphalangiennes, ainsi que l'aréole des
+
+113
+00:06:49,270 --> 00:06:51,230
+mains lentes qui est brune, qui devient brune.
+
+114
+00:06:53,010 --> 00:06:55,630
+En plus de la mélanodermie, on peut avoir
+
+115
+00:06:55,630 --> 00:06:59,110
+une pigmentation muqueuse de la cavité buccale sous
+
+116
+00:06:59,110 --> 00:07:02,250
+forme de taches ardoisées du palais et de
+
+117
+00:07:02,250 --> 00:07:05,090
+la face interne des joues, des troubles digestifs
+
+118
+00:07:05,090 --> 00:07:08,350
+sans atype d'anorexie et de constipation, et
+
+119
+00:07:08,350 --> 00:07:11,610
+également on peut avoir même des douleurs abdominales,
+
+120
+00:07:11,610 --> 00:07:13,690
+comme une diarrhée et des vomissements annonçant une
+
+121
+00:07:13,690 --> 00:07:15,510
+décompensation.
+
+122
+00:07:16,930 --> 00:07:21,290
+Concernant l'insuffisance sur un alien secondaire, puisqu
+
+123
+00:07:21,290 --> 00:07:23,190
+'il n'y a pas de perte de
+
+124
+00:07:23,190 --> 00:07:27,970
+sel, car la sécrétion d'aldostérone est préservée
+
+125
+00:07:27,970 --> 00:07:30,270
+et la CTH est basse.
+
+126
+00:07:31,330 --> 00:07:34,270
+Dans ce cas, les signes cliniques sont souvent
+
+127
+00:07:34,270 --> 00:07:37,070
+moins marqués, en particulier la baisse tensionnelle et
+
+128
+00:07:37,070 --> 00:07:37,930
+les troubles digestifs.
+
+129
+00:07:38,310 --> 00:07:40,850
+L'asthémie peut être la seule manifestation clinique.
+
+130
+00:07:40,850 --> 00:07:43,870
+L'état de choc est rare, mais grave.
+
+131
+00:07:44,510 --> 00:07:47,130
+La mélanodermie est remplacée par une pâleur.
+
+132
+00:07:48,470 --> 00:07:50,990
+Parfois, en fonction de l'étiologie, on peut
+
+133
+00:07:50,990 --> 00:07:53,890
+avoir des signes témoignants d'un déficit des
+
+134
+00:07:53,890 --> 00:07:58,870
+autres hormones hypophysaires ou bien un syndrome, un
+
+135
+00:07:58,870 --> 00:08:01,510
+tumorale avec des signes de compressions quiasmatiques et
+
+136
+00:08:01,510 --> 00:08:02,330
+décephalées.
+
+137
+00:08:03,370 --> 00:08:09,630
+Sur cette diapositive, vous avez quelques photos de
+
+138
+00:08:09,630 --> 00:08:11,670
+patients en insuffisance sur un alien.
+
+139
+00:08:11,970 --> 00:08:14,450
+A gauche, vous avez une mélanodermie des plis
+
+140
+00:08:14,450 --> 00:08:14,950
+palmaires.
+
+141
+00:08:15,150 --> 00:08:16,890
+C'est très caractéristique.
+
+142
+00:08:17,450 --> 00:08:21,030
+Sur la photo du milieu, vous avez des
+
+143
+00:08:21,030 --> 00:08:23,750
+taches ardoisées de la muqueuse buccale.
+
+144
+00:08:24,070 --> 00:08:28,010
+A gauche, vous avez deux types d'insuffisance
+
+145
+00:08:28,010 --> 00:08:28,690
+sur un alien.
+
+146
+00:08:29,210 --> 00:08:32,990
+La première, à droite, est une insuffisance sur
+
+147
+00:08:32,990 --> 00:08:34,950
+un alien primaire avec une mélanodermie.
+
+148
+00:08:34,950 --> 00:08:39,409
+La patiente à gauche a une insuffisance corticotrope
+
+149
+00:08:39,409 --> 00:08:43,110
+avec une pâleur à la place de la
+
+150
+00:08:43,110 --> 00:08:43,950
+mélanodermie.
+
+151
+00:08:45,570 --> 00:08:49,830
+Devant la suspicion d'une insuffisance sur un
+
+152
+00:08:49,830 --> 00:08:52,810
+alien, que ce soit d'origine haute ou
+
+153
+00:08:52,810 --> 00:08:58,230
+basse, pour poser le diagnostic positif, on a
+
+154
+00:08:58,230 --> 00:09:02,170
+généralement recours au dosage de la cortisolémie de
+
+155
+00:09:02,170 --> 00:09:07,610
+8 heures et éventuellement le recours à des
+
+156
+00:09:07,610 --> 00:09:09,610
+tests de simulation au synarctène.
+
+157
+00:09:10,710 --> 00:09:15,270
+Dans le cadre d'une insuffisance sur un
+
+158
+00:09:15,270 --> 00:09:17,610
+alien, la cortisolémie revient basse.
+
+159
+00:09:18,350 --> 00:09:20,410
+Si on a un doute, si le taux
+
+160
+00:09:20,410 --> 00:09:23,750
+n'est pas totalement bas, on a recours
+
+161
+00:09:23,750 --> 00:09:26,310
+à un test de simulation qui va montrer
+
+162
+00:09:26,310 --> 00:09:27,830
+une faible réponse.
+
+163
+00:09:27,830 --> 00:09:32,070
+On complète par le dosage de la CTH
+
+164
+00:09:32,070 --> 00:09:35,770
+pour pouvoir préciser le niveau de l'atteinte.
+
+165
+00:09:36,410 --> 00:09:40,070
+Quand la CTH est élevée, il s'agit
+
+166
+00:09:40,070 --> 00:09:43,310
+surtout d'une insuffisance sur un alien primaire.
+
+167
+00:09:43,730 --> 00:09:46,310
+Quand elle est basse, voire même parfois normale,
+
+168
+00:09:46,930 --> 00:09:51,090
+on est devant une insuffisance corticotrope.
+
+169
+00:09:53,460 --> 00:09:58,100
+En plus des signes biologiques qui posent le
+
+170
+00:09:58,100 --> 00:10:01,500
+diagnostic positif, mais également le niveau d'atteinte,
+
+171
+00:10:02,200 --> 00:10:04,240
+on peut avoir des signes biologiques non spécifiques.
+
+172
+00:10:04,940 --> 00:10:07,980
+Sur le plan ionique, on peut avoir un
+
+173
+00:10:07,980 --> 00:10:08,960
+immunogramme qui est normal.
+
+174
+00:10:10,180 --> 00:10:12,480
+Parfois, il peut y avoir une tendance à
+
+175
+00:10:12,480 --> 00:10:15,920
+l'hyponatrémie, à l'hypercaliémie, qui doit faire
+
+176
+00:10:15,920 --> 00:10:18,280
+évoquer le diagnostic, ainsi qu'une fuite sodée
+
+177
+00:10:18,280 --> 00:10:20,260
+avec une atrivurèse augmentée.
+
+178
+00:10:20,920 --> 00:10:23,300
+L'hypoglycémie est rare chez l'adulte, sauf
+
+179
+00:10:23,300 --> 00:10:24,080
+lors des poussées.
+
+180
+00:10:25,000 --> 00:10:29,020
+L'immogramme peut montrer une anémie modérée, une
+
+181
+00:10:29,020 --> 00:10:33,120
+hormochrome, une homocytaire, une leucopénie et parfois une
+
+182
+00:10:33,120 --> 00:10:34,520
+hyperiosinophilie.
+
+183
+00:10:36,460 --> 00:10:40,280
+L'imagerie permet de poser le diagnostic étiologique
+
+184
+00:10:40,280 --> 00:10:42,460
+en localisant les lésions.
+
+185
+00:10:42,680 --> 00:10:46,840
+Généralement, on a recours à un scanner sur
+
+186
+00:10:46,840 --> 00:10:49,380
+un alien ou bien une IRM sur un
+
+187
+00:10:49,380 --> 00:10:49,640
+alien.
+
+188
+00:10:49,640 --> 00:10:53,460
+Et quand il s'agit d'une atteinte
+
+189
+00:10:53,460 --> 00:10:57,840
+centrale, on demande une IRM hypothalamment hypophysée.
+
+190
+00:10:59,240 --> 00:11:05,920
+Là, vous avez des exemples de scanners sur
+
+191
+00:11:05,920 --> 00:11:06,280
+un alien.
+
+192
+00:11:07,320 --> 00:11:13,600
+Pour la photo à gauche qui montre des
+
+193
+00:11:13,600 --> 00:11:16,580
+anomalies en faveur d'une tuberculose sur un
+
+194
+00:11:16,580 --> 00:11:20,120
+alien responsable d'une insuffisance sur un alien.
+
+195
+00:11:20,640 --> 00:11:25,100
+Au milieu, vous avez des glandes sur un
+
+196
+00:11:25,100 --> 00:11:28,680
+alien atrophiques secondaires à une maladie auto-immune
+
+197
+00:11:28,680 --> 00:11:30,680
+ou bien à une atteinte auto-immune dans
+
+198
+00:11:30,680 --> 00:11:35,340
+le cadre d'une poly-endocrinopathie auto-immune.
+
+199
+00:11:35,920 --> 00:11:39,880
+Et à droite, vous avez une destruction des
+
+200
+00:11:39,880 --> 00:11:42,980
+sur-aliens par des métastases bilatérales des sur
+
+201
+00:11:42,980 --> 00:11:45,600
+-aliens responsables également d'une insuffisance sur un
+
+202
+00:11:45,600 --> 00:11:47,320
+alien primaire.
+
+203
+00:11:48,500 --> 00:11:52,580
+Sur cette diapositive, vous avez quelques exemples d
+
+204
+00:11:52,580 --> 00:11:57,140
+'étiologie des insuffisances corticotropes ou bien des insuffisances
+
+205
+00:11:57,140 --> 00:11:58,500
+sur un alien hôte.
+
+206
+00:11:59,300 --> 00:12:02,420
+La première cause, c'est l'arrêt brutale
+
+207
+00:12:02,420 --> 00:12:05,300
+d'une corticothérapie, qu'elle soit prescrite par
+
+208
+00:12:05,300 --> 00:12:07,220
+un médecin ou bien en automédication.
+
+209
+00:12:07,220 --> 00:12:11,120
+L'exemple type, c'est l'utilisation de
+
+210
+00:12:11,120 --> 00:12:16,200
+ce qu'on appelle de la dexaméthasone.
+
+211
+00:12:16,400 --> 00:12:19,700
+C'est un corticoïde très fort qui est
+
+212
+00:12:19,700 --> 00:12:23,080
+largement utilisé par les femmes pour prendre du
+
+213
+00:12:23,080 --> 00:12:23,320
+poids.
+
+214
+00:12:24,440 --> 00:12:28,280
+Et juste après l'arrêt, ces femmes présentent
+
+215
+00:12:28,280 --> 00:12:31,440
+un syndrome de Cushing-Kinnick associé à un
+
+216
+00:12:31,440 --> 00:12:34,380
+bilan hormonal en faveur d'une insuffisance sur
+
+217
+00:12:34,380 --> 00:12:36,140
+un alien hôte.
+
+218
+00:12:36,680 --> 00:12:38,460
+Il y a également la section de la
+
+219
+00:12:38,460 --> 00:12:40,940
+tige pituitaire, comme vous le voyez sur la
+
+220
+00:12:40,940 --> 00:12:42,560
+photo qui est en bas.
+
+221
+00:12:43,000 --> 00:12:47,440
+Et puis, l'insuffisance sur un alien corticotropes
+
+222
+00:12:47,440 --> 00:12:49,360
+peut se voir également en cas de celles
+
+223
+00:12:49,360 --> 00:12:50,400
+thyroxiques vides.
+
+224
+00:12:51,520 --> 00:12:55,640
+Là, vous avez un tableau qui récapitule les
+
+225
+00:12:55,640 --> 00:12:58,860
+différentes manifestations cliniques et biologiques de l'insuffisance,
+
+226
+00:12:58,860 --> 00:13:00,200
+que ce soit de l'insuffisance sur un
+
+227
+00:13:00,200 --> 00:13:03,980
+alien primaire ou bien de l'insuffisance sur
+
+228
+00:13:03,980 --> 00:13:04,940
+un alien secondaire.
+
+229
+00:13:06,040 --> 00:13:09,480
+Concernant l'état général, je rappelle que les
+
+230
+00:13:09,480 --> 00:13:12,420
+signes cliniques sont plus marqués quand il s
+
+231
+00:13:12,420 --> 00:13:15,340
+'agit d'une insuffisance sur un alien primaire.
+
+232
+00:13:17,060 --> 00:13:19,420
+Par contre, pour la peau et les muqueuses,
+
+233
+00:13:19,940 --> 00:13:21,860
+dans l'insuffisance sur un alien primaire, on
+
+234
+00:13:21,860 --> 00:13:25,500
+a une hyperpigmentation, une mélanodermie, alors que dans
+
+235
+00:13:25,500 --> 00:13:28,000
+le cadre d'une insuffisance sur un alien
+
+236
+00:13:28,000 --> 00:13:32,100
+secondaire, on a une pâleur, même sans anémie.
+
+237
+00:13:32,100 --> 00:13:35,480
+Les troubles ioniques, dans le cadre d'une
+
+238
+00:13:35,480 --> 00:13:37,980
+insuffisance sur un alien primaire, on peut avoir
+
+239
+00:13:37,980 --> 00:13:42,100
+une hypercalémie associée à une hyponatrémie parfaite de
+
+240
+00:13:42,100 --> 00:13:45,720
+celles, alors que dans l'insuffisance sur un
+
+241
+00:13:45,720 --> 00:13:48,560
+alien haute, la calémie est normale et l
+
+242
+00:13:48,560 --> 00:13:51,360
+'hyponatrémie, on peut avoir une hyponatrémie de déduction.
+
+243
+00:13:51,360 --> 00:13:58,200
+Et puis, concernant les maladies ou bien les
+
+244
+00:13:58,200 --> 00:14:00,580
+symptômes associés, dans l'insuffisance sur un alien
+
+245
+00:14:00,580 --> 00:14:03,880
+primaire, on peut avoir, quand il s'agit
+
+246
+00:14:03,880 --> 00:14:06,040
+d'une atteinte auto-immune, l'association à
+
+247
+00:14:06,040 --> 00:14:11,000
+d'autres pathologies auto-immunes, comme la thyroïdite
+
+248
+00:14:11,000 --> 00:14:15,620
+auto-immune, le vétiligo, il peut y avoir
+
+249
+00:14:15,620 --> 00:14:19,700
+également une tuberculose, des tumeurs, un syndrome des
+
+250
+00:14:19,700 --> 00:14:25,440
+antiphospholipides, alors que dans le cadre de l
+
+251
+00:14:25,440 --> 00:14:27,760
+'insuffisance sur un alien haute, on peut avoir
+
+252
+00:14:27,760 --> 00:14:31,780
+autres manifestations d'insuffisance hypophysaire, hypogonalisme,
+
+253
+00:14:31,940 --> 00:14:37,200
+hypothyroidisme central, diabète insipide, parfois un syndrome tumoral
+
+254
+00:14:37,200 --> 00:14:39,720
+avec des céphalées et des troubles visuels.
+
+255
+00:14:39,980 --> 00:14:42,280
+Donc, c'est des éléments très importants à
+
+256
+00:14:42,280 --> 00:14:46,740
+connaître pour faire, déjà sur le plan clinique,
+
+257
+00:14:46,940 --> 00:14:51,580
+quelques examens complémentaires standards, pour faire la différence
+
+258
+00:14:51,580 --> 00:14:56,340
+entre une insuffisance sur un alien primaire et
+
+259
+00:14:56,340 --> 00:14:58,520
+une insuffisance sur un alien secondaire.
+
+260
+00:14:59,340 --> 00:15:01,060
+Alors, ce qu'il faut retenir, c'est
+
+261
+00:15:01,060 --> 00:15:03,740
+que la suspicion d'une insuffisance sur un
+
+262
+00:15:03,740 --> 00:15:08,100
+alien, surtout primaire et clinique, le tableau clinique
+
+263
+00:15:08,100 --> 00:15:10,540
+diffère en fonction du niveau de l'atteinte,
+
+264
+00:15:10,620 --> 00:15:13,200
+que ce soit une atteinte sur un alien
+
+265
+00:15:13,200 --> 00:15:14,260
+ou bien centrale.
+
+266
+00:15:14,740 --> 00:15:17,400
+Le diagnostic positif repose sur le dosage de
+
+267
+00:15:17,400 --> 00:15:20,980
+la cortisolémie de 8 heures, associé ou non
+
+268
+00:15:20,980 --> 00:15:23,120
+à un test au synactin, en cas de
+
+269
+00:15:23,120 --> 00:15:26,180
+doute, et puis le bilan éthiologique repose sur
+
+270
+00:15:26,180 --> 00:15:29,480
+le dosage de l'ACTH et également sur
+
+271
+00:15:29,480 --> 00:15:33,540
+l'imagerie, en particulier la TDM sur un
+
+272
+00:15:33,540 --> 00:15:37,460
+alien ou l'IRM hypothalamo-hypophysique.
+
+273
+00:15:39,360 --> 00:15:43,000
+Après l'insuffisance sur un alien qui correspond
+
+274
+00:15:43,000 --> 00:15:48,400
+à un déficit de synthèse et de sécrétion
+
+275
+00:15:48,400 --> 00:15:52,240
+du cortisol, on va passer à l'hypercortisisme
+
+276
+00:15:52,240 --> 00:15:54,740
+qui est à l'inverse de l'ACTH.
+
+277
+00:15:55,660 --> 00:15:58,620
+Alors, c'est quoi un hypercortisisme ou bien
+
+278
+00:15:58,620 --> 00:15:59,560
+un syndrome de Cushy ?
+
+279
+00:15:59,560 --> 00:16:03,360
+C'est l'ensemble des manifestations clinico-biologiques
+
+280
+00:16:03,360 --> 00:16:06,680
+qui résultent de l'augmentation de sécrétion par
+
+281
+00:16:06,680 --> 00:16:11,780
+la zone fasciculée cortico-surénalienne de glycocorticoïdes ou
+
+282
+00:16:11,780 --> 00:16:14,700
+d'une corticothérapie iatrogène.
+
+283
+00:16:16,330 --> 00:16:20,970
+Sur le plan physiopathologique, les signes cliniques d
+
+284
+00:16:20,970 --> 00:16:24,910
+'hypercortisisme sont simplement le reflet de la majoration
+
+285
+00:16:24,910 --> 00:16:26,630
+des actions physiologiques du cortisol.
+
+286
+00:16:27,370 --> 00:16:33,230
+Ainsi, sur le métabolisme glucidique, ça va se
+
+287
+00:16:33,230 --> 00:16:39,230
+traduire par une hyperglycémie, un effet antagoniste à
+
+288
+00:16:39,230 --> 00:16:39,770
+l'insuline.
+
+289
+00:16:39,770 --> 00:16:43,570
+Sur le métabolisme protidique, ça va se traduire
+
+290
+00:16:43,570 --> 00:16:47,710
+par une amyotrophie et parfois par une osteoporose.
+
+291
+00:16:48,190 --> 00:16:52,110
+Et sur le plan du métabolisme lipidique, on
+
+292
+00:16:52,110 --> 00:16:54,690
+aura une modification de la répartition des masses
+
+293
+00:16:54,690 --> 00:16:55,530
+adipeuses.
+
+294
+00:16:56,250 --> 00:16:59,170
+En plus de l'action sur les métabolismes
+
+295
+00:16:59,170 --> 00:17:02,170
+glucidique, protidique et lipidique, il y aura également
+
+296
+00:17:02,170 --> 00:17:06,290
+un effet sur l'équilibre hydro-minéral par
+
+297
+00:17:06,290 --> 00:17:09,050
+une activité minéralo-corticoïde.
+
+298
+00:17:09,050 --> 00:17:11,730
+Ce qui va se traduire par une rétention
+
+299
+00:17:11,730 --> 00:17:13,550
+hydro-sodée et un fil de protation.
+
+300
+00:17:14,470 --> 00:17:17,970
+Et aussi une action sur le système immunitaire
+
+301
+00:17:17,970 --> 00:17:23,650
+qui va se manifester par une lymphopénie et
+
+302
+00:17:23,650 --> 00:17:26,710
+parfois une atrophie des tissus lymphoïdes.
+
+303
+00:17:27,130 --> 00:17:29,710
+Sans oublier la mise en jeu des mécanismes
+
+304
+00:17:29,710 --> 00:17:35,570
+anti-inflammatoires de cet excès de cortisol.
+
+305
+00:17:38,470 --> 00:17:42,070
+Concernant les manifestations cliniques sur le plan fonctionnel,
+
+306
+00:17:42,850 --> 00:17:45,990
+il faut retenir que ce n'est pas
+
+307
+00:17:45,990 --> 00:17:48,250
+la prise de poids qui attire l'attention,
+
+308
+00:17:48,550 --> 00:17:54,290
+mais surtout les modifications morphologiques qui sont installées
+
+309
+00:17:54,290 --> 00:17:54,910
+récemment.
+
+310
+00:17:56,810 --> 00:18:01,570
+On a comme principale modification aux principales manifestations
+
+311
+00:18:01,570 --> 00:18:05,850
+cliniques cette obésité fasciotranculaire qui résulte, comme je
+
+312
+00:18:05,850 --> 00:18:06,650
+l'ai dit tout à l'heure, de
+
+313
+00:18:06,650 --> 00:18:08,810
+l'accumulation de graisse sur la partie supérieure
+
+314
+00:18:08,810 --> 00:18:11,750
+du corps donnant un aspect d'un visage
+
+315
+00:18:11,750 --> 00:18:15,390
+lunaire avec également un comblement des creux, tissus
+
+316
+00:18:15,390 --> 00:18:18,550
+claviculaires et des boules de bichons et un
+
+317
+00:18:18,550 --> 00:18:23,450
+aspect de brosse de bison, contrastant avec une
+
+318
+00:18:23,450 --> 00:18:28,550
+amyotrophie à distribution rhizomédique et au niveau des
+
+319
+00:18:28,550 --> 00:18:28,810
+fesses.
+
+320
+00:18:30,590 --> 00:18:34,930
+Les manifestations cutanées sont également très évocatrices d
+
+321
+00:18:34,930 --> 00:18:37,970
+'un syndrome Cushing ou bien d'un hypercortisisme.
+
+322
+00:18:39,370 --> 00:18:43,450
+On peut avoir une érythrose du visage et
+
+323
+00:18:43,450 --> 00:18:46,550
+du tronc avec une acné, une séborée qui
+
+324
+00:18:46,550 --> 00:18:50,510
+sont associées chez la femme et parfois avec
+
+325
+00:18:50,510 --> 00:18:53,850
+une hypertrichose en général modérée ou à des
+
+326
+00:18:53,850 --> 00:18:57,150
+symptômes d'hyperandrogénie qui se limitent généralement à
+
+327
+00:18:57,150 --> 00:18:58,290
+un ursicisme modéré.
+
+328
+00:18:58,290 --> 00:19:04,430
+Concernant le duvet de la lettre supérieure, les
+
+329
+00:19:04,430 --> 00:19:07,190
+poils avec des poils fins parsemés au niveau
+
+330
+00:19:07,190 --> 00:19:09,850
+du menton et une ébauche de favoris.
+
+331
+00:19:11,370 --> 00:19:15,570
+Toujours sur le plan cutané, parmi les manifestations
+
+332
+00:19:15,570 --> 00:19:20,130
+évocatrices d'un syndrome Cushing, c'est la
+
+333
+00:19:20,130 --> 00:19:25,970
+présence de vergétures traduisant la raréfaction du tissu
+
+334
+00:19:25,970 --> 00:19:28,810
+cellulaire sur le cutané et prédominant au niveau
+
+335
+00:19:28,810 --> 00:19:32,970
+de l'abdomen, des flancs, de la racine
+
+336
+00:19:32,970 --> 00:19:36,210
+des membres et sont caractérisées par leur sensibilité,
+
+337
+00:19:36,610 --> 00:19:40,630
+leur couleur pourpre, leur largeur qui dépasse généralement
+
+338
+00:19:40,630 --> 00:19:43,990
+un centimètre et leur disposition horizontale dans les
+
+339
+00:19:43,990 --> 00:19:46,750
+flancs et à la racine des membres ou
+
+340
+00:19:46,750 --> 00:19:51,250
+à disposition radiaire dans la région mammaire et
+
+341
+00:19:51,250 --> 00:19:52,690
+périambilicale.
+
+342
+00:19:52,790 --> 00:19:56,130
+La fragilité cutanée se traduit par des échymoses,
+
+343
+00:19:56,290 --> 00:19:59,070
+des hématomes et un retard de cicatrisation et
+
+344
+00:19:59,070 --> 00:20:02,890
+ces signes sont sous la dépendance de l
+
+345
+00:20:02,890 --> 00:20:04,070
+'hypercortisolisme.
+
+346
+00:20:06,340 --> 00:20:11,240
+En plus de cette obésité fasciotranculaire et des
+
+347
+00:20:11,240 --> 00:20:16,140
+signes cutanés caractéristiques de l'hypercortisisme, on peut
+
+348
+00:20:16,140 --> 00:20:19,280
+avoir comme autre manifestation clinique une asthémie physique
+
+349
+00:20:19,280 --> 00:20:22,860
+intense qui est le reflet de la myotrophie
+
+350
+00:20:22,860 --> 00:20:25,860
+et comme dans le cas des hyperthyroïdes, on
+
+351
+00:20:25,860 --> 00:20:29,380
+peut avoir un signe du tabouret positif.
+
+352
+00:20:30,340 --> 00:20:34,500
+L'existence de crampes traduit les perturbations hydroélectrolytiques,
+
+353
+00:20:34,640 --> 00:20:36,160
+en particulier l'hypocalémie.
+
+354
+00:20:37,120 --> 00:20:40,200
+Il peut y avoir également une ostéoporose le
+
+355
+00:20:40,200 --> 00:20:43,080
+plus souvent asymptomatique qu'on peut rechercher par
+
+356
+00:20:43,080 --> 00:20:47,360
+une ostéodensitométrie mais parfois responsable de fractures pathologiques
+
+357
+00:20:47,360 --> 00:20:50,500
+volontiers, costales ou vertébrales.
+
+358
+00:20:51,460 --> 00:20:56,280
+Sans oublier également les troubles gonadiques par déficit
+
+359
+00:20:56,280 --> 00:21:01,360
+gonadotropes sous forme de spagnol ménoré, voire un
+
+360
+00:21:01,360 --> 00:21:03,700
+aménoré secondaire, sans bouffer de chaleur chez la
+
+361
+00:21:03,700 --> 00:21:07,180
+femme et on peut également avoir une baisse
+
+362
+00:21:07,180 --> 00:21:09,500
+de la libido ou bien une impuissance chez
+
+363
+00:21:09,500 --> 00:21:09,640
+l'homme.
+
+364
+00:21:10,640 --> 00:21:13,320
+L'asthéia quand elle existe dans le cadre
+
+365
+00:21:13,320 --> 00:21:18,700
+des hyperquantismes elle est généralement modérée et puis
+
+366
+00:21:18,700 --> 00:21:23,740
+on peut également avoir des troubles psychiatriques de
+
+367
+00:21:23,740 --> 00:21:27,500
+nature variable à type d'irritabilité, d'anxiété,
+
+368
+00:21:27,600 --> 00:21:32,760
+d'insomnie nocturne, une tendance dépressive et exceptionnellement
+
+369
+00:21:32,760 --> 00:21:35,260
+un tableau psychiatrique aigu à type de psychose
+
+370
+00:21:35,260 --> 00:21:38,880
+hallucinatoire et tendance suicidaire.
+
+371
+00:21:40,180 --> 00:21:42,760
+Alors sur cette diapo vous avez quelques exemples
+
+372
+00:21:42,760 --> 00:21:49,760
+ou bien quelques photos représentant les manifestations surtout
+
+373
+00:21:49,760 --> 00:21:54,420
+cutanées qu'on peut trouver au cours d
+
+374
+00:21:54,420 --> 00:21:56,760
+'un hyperquantisme ou bien d'un syndrome de
+
+375
+00:21:56,760 --> 00:22:00,560
+Cushing avec les vergétures abdominales et sous-axillaires
+
+376
+00:22:00,560 --> 00:22:02,920
+en haut et à gauche, la bosse de
+
+377
+00:22:02,920 --> 00:22:06,160
+bison, l'aspect de visage du nerf au
+
+378
+00:22:06,160 --> 00:22:08,920
+milieu et également la fragilité cutanée avec les
+
+379
+00:22:08,920 --> 00:22:14,460
+échymoses sur la photo à droite.
+
+380
+00:22:16,140 --> 00:22:19,480
+Un autre moyen de se rappeler des différenciés
+
+381
+00:22:19,480 --> 00:22:23,340
+cliniques qu'on peut trouver au cours des
+
+382
+00:22:23,340 --> 00:22:28,800
+hyperquantismes c'est illustré par cette photo avec
+
+383
+00:22:28,800 --> 00:22:32,900
+les différentes manifestations cliniques en particulier la distribution
+
+384
+00:22:32,900 --> 00:22:39,060
+fasciocranculaire de la graisse, l'erythrose faciale, les
+
+385
+00:22:39,060 --> 00:22:43,340
+vergétures, la fragilité cutanée donc tout est illustré
+
+386
+00:22:43,340 --> 00:22:46,960
+sur cette diapositive.
+
+387
+00:22:48,840 --> 00:22:51,920
+Devant tout syndrome de Cushing clinique il est
+
+388
+00:22:51,920 --> 00:22:57,640
+impératif de le confirmer sur le plan biologique
+
+389
+00:22:58,500 --> 00:23:02,120
+et dans ce cas pour poser le diagnostic
+
+390
+00:23:02,120 --> 00:23:07,200
+positif on fait le dosage du cortisol libre
+
+391
+00:23:07,200 --> 00:23:10,120
+urinaire de 24 heures couplé bien évidemment à
+
+392
+00:23:10,120 --> 00:23:11,800
+la créative urine de 24 heures.
+
+393
+00:23:13,360 --> 00:23:15,780
+On peut également faire le dosage de la
+
+394
+00:23:15,780 --> 00:23:21,880
+cortisolémie sous freinage minute parfois avoir recours au
+
+395
+00:23:21,880 --> 00:23:27,460
+freinage faible et puis on peut également faire
+
+396
+00:23:27,460 --> 00:23:29,980
+un cyclique témoral du cortisol ou bien le
+
+397
+00:23:29,980 --> 00:23:31,720
+dosage du cortisol salivaire de minute.
+
+398
+00:23:32,340 --> 00:23:35,600
+Si ces éléments ou bien ces dosages sont
+
+399
+00:23:35,600 --> 00:23:40,100
+négatifs le diagnostic est écarté s'ils sont
+
+400
+00:23:40,100 --> 00:23:42,560
+discordants il faut les répéter sauf si la
+
+401
+00:23:42,560 --> 00:23:45,640
+clinique est peu évocatrice et s'ils sont
+
+402
+00:23:45,640 --> 00:23:49,220
+positifs le diagnostic d'hypercortisolisme est certain et
+
+403
+00:23:49,220 --> 00:23:52,400
+il faut rechercher la cause en dosant d
+
+404
+00:23:52,400 --> 00:23:55,260
+'abord la CTH pour préciser le niveau de
+
+405
+00:23:55,260 --> 00:23:58,440
+l'atteinte donc si on fait la comparaison
+
+406
+00:23:58,440 --> 00:24:03,620
+avec l'insuffisance surrénalienne c'est pratiquement toujours
+
+407
+00:24:03,620 --> 00:24:07,320
+la même chose donc on fait, on suspecte
+
+408
+00:24:07,320 --> 00:24:09,540
+que ce soit l'insuffisance surrénalienne ou bien
+
+409
+00:24:09,540 --> 00:24:12,580
+le syndrome de Cushing on fait les dosages
+
+410
+00:24:12,580 --> 00:24:15,240
+hormonaux nécessaires donc dans le cadre de l
+
+411
+00:24:15,240 --> 00:24:19,420
+'insuffisance surrénalienne on dose que le cortisol de
+
+412
+00:24:19,420 --> 00:24:22,680
+8 heures éventuellement on peut compléter par un
+
+413
+00:24:22,680 --> 00:24:25,240
+test aux synaptèmes et dans le cadre d
+
+414
+00:24:25,240 --> 00:24:26,720
+'un syndrome de Cushing ou bien d'un
+
+415
+00:24:26,720 --> 00:24:31,960
+hypercortisoisisme on dose le cortisol libre urinaire de
+
+416
+00:24:31,960 --> 00:24:36,020
+24 heures on fait un cyclique témoral du
+
+417
+00:24:36,020 --> 00:24:38,320
+cortisol ou bien un cortisol salivaire de minuit
+
+418
+00:24:38,320 --> 00:24:41,260
+et éventuellement on peut faire un test de
+
+419
+00:24:41,260 --> 00:24:46,940
+freinage de minute si ces éléments sont en
+
+420
+00:24:46,940 --> 00:24:51,260
+faveur d'un hypercortisolisme on complète par le
+
+421
+00:24:51,260 --> 00:24:54,360
+dosage de la CTH pour préciser le niveau
+
+422
+00:24:54,360 --> 00:24:57,960
+de l'atteinte ainsi une concentration de CTH
+
+423
+00:24:57,960 --> 00:25:01,260
+effondrée est en faveur d'un syndrome de
+
+424
+00:25:01,260 --> 00:25:05,180
+Cushing d'origine surrénalienne dit également non CTH
+
+425
+00:25:05,180 --> 00:25:09,320
+dépendant alors que des concentrations de CTH dont
+
+426
+00:25:09,320 --> 00:25:11,560
+les valeurs normales ou élevées sont en faveur
+
+427
+00:25:11,560 --> 00:25:18,360
+d'un hypercortisisme CTH dépendant en plus des
+
+428
+00:25:18,360 --> 00:25:24,360
+dosages hormonaux spécifiques dans le cadre des hypercortisismes
+
+429
+00:25:24,360 --> 00:25:29,340
+d'autres anomalies biologiques non spécifiques peuvent se
+
+430
+00:25:29,340 --> 00:25:31,220
+voir dans le cadre d'un syndrome de
+
+431
+00:25:31,220 --> 00:25:33,940
+Cushing en particulier l'intolérance aux glucides qui
+
+432
+00:25:33,940 --> 00:25:39,420
+est fréquente l'hyperleucocytose à polynucléaire neutrophile avec
+
+433
+00:25:39,420 --> 00:25:43,300
+une lymphopénie relative l'alkalose hypocalémique est parfois
+
+434
+00:25:43,300 --> 00:25:49,940
+rencontrée au cours des hypercortisismes et puis rarement
+
+435
+00:25:49,940 --> 00:25:54,820
+on peut avoir également une hypercalciurie modérée qui
+
+436
+00:25:54,820 --> 00:25:59,100
+est responsable de CTH sur le plan morphologique
+
+437
+00:25:59,100 --> 00:26:02,500
+après avoir posé le diagnostic positif d'un
+
+438
+00:26:02,500 --> 00:26:07,240
+hypercortisolisme et après avoir précisé le niveau de
+
+439
+00:26:07,240 --> 00:26:11,100
+l'atteinte on a recours à l'imagerie
+
+440
+00:26:11,100 --> 00:26:15,580
+qui est indispensable au diagnostic topographique préopératoire et
+
+441
+00:26:15,580 --> 00:26:20,100
+généralement comme pour l'insuffisance surrénalienne que ce
+
+442
+00:26:20,100 --> 00:26:26,560
+soit primaire ou haute on fait appel à
+
+443
+00:26:26,560 --> 00:26:32,100
+un scanner pour les localisations surrénaliennes et à
+
+444
+00:26:32,100 --> 00:26:37,680
+l'IRM pour les localisations hypothalamo-hypophysaires alors
+
+445
+00:26:37,680 --> 00:26:42,920
+là sur ce diapositif vous avez une IRM
+
+446
+00:26:42,920 --> 00:26:47,600
+hypothalamo-hypophysaire qui montre la présence d'un
+
+447
+00:26:47,600 --> 00:26:51,040
+micro adénome corticotropes qui correspond à ce qu
+
+448
+00:26:51,040 --> 00:26:53,260
+'on appelle la maladie de Cushing j'aimerais
+
+449
+00:26:53,260 --> 00:26:57,820
+juste préciser qu'il y a une différence
+
+450
+00:26:57,820 --> 00:27:02,280
+en termes de terminologie une différence entre la
+
+451
+00:27:02,280 --> 00:27:05,040
+maladie de Cushing qui correspond à un micro
+
+452
+00:27:05,040 --> 00:27:08,200
+adénome corticotropes hypothalamo-hypophysaire et le syndrome de
+
+453
+00:27:08,200 --> 00:27:13,380
+Cushing qui correspond aux manifestations cliniques d'un
+
+454
+00:27:13,380 --> 00:27:17,400
+hypercortisisme que ce soit endogène ou bien exogène
+
+455
+00:27:19,580 --> 00:27:23,220
+sur le plan surrénalien là vous avez un
+
+456
+00:27:23,220 --> 00:27:25,600
+exemple d'un adénome cortisolique de la surrénale
+
+457
+00:27:25,600 --> 00:27:28,720
+gauche qui est responsable d'un syndrome de
+
+458
+00:27:28,720 --> 00:27:32,580
+Cushing clinique à la fin de ce cours
+
+459
+00:27:32,580 --> 00:27:35,700
+il faut se rappeler que le syndrome de
+
+460
+00:27:35,700 --> 00:27:38,840
+Cushing ou l'hypercortisisme dans sa forme typique
+
+461
+00:27:38,840 --> 00:27:42,460
+se caractérise par des signes cliniques très spécifiques
+
+462
+00:27:42,460 --> 00:27:46,380
+la distribution fasciotranculaire de la graisse, les signes
+
+463
+00:27:46,380 --> 00:27:50,640
+cutanés et sans oublier les autres signes non
+
+464
+00:27:50,640 --> 00:27:55,140
+spécifiques le diagnostic positif repose sur des dosages
+
+465
+00:27:55,140 --> 00:27:58,260
+hormonaux en particulier le freinage minute, le cortisol
+
+466
+00:27:58,260 --> 00:28:00,440
+de minuit et le cortisol libre linéaire de
+
+467
+00:28:00,440 --> 00:28:03,660
+24 heures il faut également se rappeler que
+
+468
+00:28:03,660 --> 00:28:07,680
+le syndrome de Cushing exogène secondaire à une
+
+469
+00:28:07,680 --> 00:28:13,650
+corticothérapie cliniquement identique au syndrome de Cushing endogène
+
+470
+00:28:14,260 --> 00:28:17,740
+mais contrastant avec une cortisolémie de 8 heures
+
+471
+00:28:17,740 --> 00:28:20,560
+qui est basse et le bilan éthiologique des
+
+472
+00:28:20,560 --> 00:28:23,940
+hypercortisismes repose sur le dosage de l'ACTH
+
+473
+00:28:23,940 --> 00:28:27,600
+et l'imagerie en particulier la TDM surrénalienne
+
+474
+00:28:27,600 --> 00:28:31,200
+et l'IRM hypothalamo-hypophyser

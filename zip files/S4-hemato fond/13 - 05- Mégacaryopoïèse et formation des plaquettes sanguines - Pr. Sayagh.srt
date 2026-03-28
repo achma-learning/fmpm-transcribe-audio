@@ -1,0 +1,1975 @@
+1
+00:00:00,460 --> 00:00:04,160
+Bonjour mes chers étudiants, dans le cadre de
+
+2
+00:00:04,160 --> 00:00:06,060
+la série de cours qu'on a déjà
+
+3
+00:00:06,060 --> 00:00:09,880
+entamé sur l'hématopoïèse, nous allons voir aujourd
+
+4
+00:00:09,880 --> 00:00:12,500
+'hui le dernier cours sur la myelopoïèse qui
+
+5
+00:00:12,500 --> 00:00:16,360
+est la mégakaryopoïèse ou la formation des plaquettes
+
+6
+00:00:16,360 --> 00:00:19,780
+sanguines à partir d'une cellule-souche hématopoétique.
+
+7
+00:00:20,740 --> 00:00:22,680
+Vers la fin de ce cours, vous allez
+
+8
+00:00:22,680 --> 00:00:26,700
+être capable de définir la mégakaryopoïèse, de reconnaître
+
+9
+00:00:26,700 --> 00:00:29,720
+ses compartiments, de décrire sa cinétique et sa
+
+10
+00:00:29,720 --> 00:00:33,240
+régulation, de citer les fonctions principales de la
+
+11
+00:00:33,240 --> 00:00:36,580
+plaquette sanguine, de reconnaître ses moyens d'exploration
+
+12
+00:00:36,580 --> 00:00:39,160
+et de citer quelques applications dans le domaine
+
+13
+00:00:39,160 --> 00:00:39,760
+médical.
+
+14
+00:00:41,140 --> 00:00:43,920
+Nous allons tout d'abord introduire la question.
+
+15
+00:00:45,360 --> 00:00:48,360
+La mégakaryopoïèse correspond à l'ensemble des processus
+
+16
+00:00:48,360 --> 00:00:50,180
+qui concourent à la production de la moelle
+
+17
+00:00:50,180 --> 00:00:52,820
+osseuse et la libération dans le sang périphérique
+
+18
+00:00:52,820 --> 00:00:55,680
+des plaquettes sanguines à partir d'une cellule
+
+19
+00:00:55,680 --> 00:00:57,080
+-souche hématopoétique.
+
+20
+00:00:57,680 --> 00:01:01,240
+La dernière étape de la mégakaryopoïèse correspond en
+
+21
+00:01:01,240 --> 00:01:05,280
+effet à la thrombopoïèse qui est définie par
+
+22
+00:01:05,280 --> 00:01:09,100
+la libération des plaquettes à partir de mégakaryocytes
+
+23
+00:01:09,100 --> 00:01:09,700
+matures.
+
+24
+00:01:11,340 --> 00:01:13,260
+Donc là, vous faites bien la différence entre
+
+25
+00:01:13,260 --> 00:01:16,600
+la mégakaryopoïèse et la thrombopoïèse parce que la
+
+26
+00:01:16,600 --> 00:01:19,320
+mégakaryopoïèse est l'ensemble du processus de production
+
+27
+00:01:19,320 --> 00:01:21,940
+des plaquettes de la cellule-souche hématopoétique à
+
+28
+00:01:21,940 --> 00:01:22,860
+la plaquette mature.
+
+29
+00:01:22,860 --> 00:01:27,000
+La thrombopoïèse, quant à elle, correspond uniquement à
+
+30
+00:01:27,000 --> 00:01:29,040
+la dernière étape qui est celle de la
+
+31
+00:01:29,040 --> 00:01:32,200
+libération des plaquettes à partir des mégakaryocytes matures.
+
+32
+00:01:33,320 --> 00:01:35,420
+A noter que les plaquettes sanguines sont appelées
+
+33
+00:01:35,420 --> 00:01:36,560
+aussi thrombocytes.
+
+34
+00:01:37,460 --> 00:01:39,660
+Ils ont plusieurs rôles chez l'homme et
+
+35
+00:01:39,660 --> 00:01:42,380
+le rôle principal de la plaquette sanguine est
+
+36
+00:01:42,380 --> 00:01:45,300
+donc l'hémostase parce qu'en fait la
+
+37
+00:01:45,300 --> 00:01:48,020
+plaquette sanguine est un acteur cellulaire principal de
+
+38
+00:01:48,020 --> 00:01:49,060
+l'hémostase primaire.
+
+39
+00:01:49,720 --> 00:01:52,560
+Nous allons maintenant passer en revue les compartiments
+
+40
+00:01:52,560 --> 00:01:54,060
+de la mégakaryopoïèse.
+
+41
+00:01:55,200 --> 00:01:57,700
+Revenons maintenant sur le schéma général de l
+
+42
+00:01:57,700 --> 00:02:00,020
+'hématopoïèse qu'on a déjà étudié dans le
+
+43
+00:02:00,020 --> 00:02:00,720
+cours précédent.
+
+44
+00:02:01,280 --> 00:02:04,560
+Alors nous avons la cellule-souche hématopoïétique qui
+
+45
+00:02:04,560 --> 00:02:07,039
+est la cellule-souche totipotente qui va donner
+
+46
+00:02:07,039 --> 00:02:09,100
+d'un côté naissance à la cellule-souche
+
+47
+00:02:09,100 --> 00:02:11,780
+lymphoïde qu'on appelle aussi progéniteur lymphoïde commun.
+
+48
+00:02:12,360 --> 00:02:14,700
+Alors à partir de ce progéniteur lymphoïde commun,
+
+49
+00:02:14,960 --> 00:02:16,900
+il y aura la lymphopoïèse B et la
+
+50
+00:02:16,900 --> 00:02:17,800
+lymphopoïèse D.
+
+51
+00:02:17,800 --> 00:02:19,720
+Donc il y aura la lymphopoïèse.
+
+52
+00:02:20,240 --> 00:02:23,160
+De l'autre côté, la cellule-souche hématopoïdique
+
+53
+00:02:23,160 --> 00:02:27,200
+totipotente donne naissance au progéniteur myéloïde commun qu
+
+54
+00:02:27,200 --> 00:02:29,600
+'on appelle aussi la cellule-souche myéloïde.
+
+55
+00:02:30,420 --> 00:02:33,940
+Alors de cette cellule-souche myéloïde découlent tous
+
+56
+00:02:33,940 --> 00:02:35,740
+les processus de myélopoïèse.
+
+57
+00:02:36,100 --> 00:02:40,700
+Alors la myélopoïèse va inclure l'érythropoïèse étant
+
+58
+00:02:40,700 --> 00:02:42,280
+le deuxième cours qu'on a vu dans
+
+59
+00:02:42,280 --> 00:02:45,060
+cette série de cours qui est la formation
+
+60
+00:02:45,060 --> 00:02:45,940
+des globules rouges.
+
+61
+00:02:45,940 --> 00:02:50,200
+Elle va inclure la granulopoïèse et la monocytopoïèse
+
+62
+00:02:50,200 --> 00:02:53,560
+qui inclut la formation des polynucléaires neutrophiles et
+
+63
+00:02:53,560 --> 00:02:56,200
+osinophiles et basophiles et aussi la formation des
+
+64
+00:02:56,200 --> 00:02:57,640
+monocytes qu'on a déjà vu dans le
+
+65
+00:02:57,640 --> 00:02:58,380
+cours précédent.
+
+66
+00:02:59,100 --> 00:03:03,840
+Et inclut aussi la myélopoïèse, la formation des
+
+67
+00:03:03,840 --> 00:03:05,380
+plaquettes ou ce qu'on appelle aussi la
+
+68
+00:03:05,380 --> 00:03:07,960
+mégakaryopoïèse qu'on va étudier aujourd'hui.
+
+69
+00:03:08,700 --> 00:03:14,340
+Donc nous avons la cellule-souche hématopoïdique totipotente
+
+70
+00:03:14,340 --> 00:03:16,520
+qui va être à l'origine de l
+
+71
+00:03:16,520 --> 00:03:19,380
+'ensemble des processus de formation des cellules sanguines
+
+72
+00:03:19,380 --> 00:03:22,020
+à savoir d'un côté la lymphopoïèse et
+
+73
+00:03:22,020 --> 00:03:25,540
+de l'autre côté la myélopoïèse avec ses
+
+74
+00:03:25,540 --> 00:03:26,240
+cinq lignées.
+
+75
+00:03:28,180 --> 00:03:32,000
+Alors aujourd'hui nous allons voir particulièrement la
+
+76
+00:03:32,000 --> 00:03:33,240
+mégakaryopoïèse.
+
+77
+00:03:33,600 --> 00:03:36,680
+La cellule-souche myéloïde qu'on appelle aussi
+
+78
+00:03:36,680 --> 00:03:41,560
+progéniteur myéloïde commun, le CFUGMM, va donner naissance
+
+79
+00:03:41,560 --> 00:03:44,120
+à un premier progéniteur spécifique de la lignée
+
+80
+00:03:44,120 --> 00:03:46,580
+mégakaryocytaire qui est le BFUMK.
+
+81
+00:03:47,220 --> 00:03:49,840
+Alors le BFUMK va donner naissance à un
+
+82
+00:03:49,840 --> 00:03:53,380
+deuxième progéniteur spécifique de la lignée qui est
+
+83
+00:03:53,380 --> 00:03:55,900
+le CFUMK qui n'est pas schématisé ici
+
+84
+00:03:55,900 --> 00:03:56,720
+sur ce schéma.
+
+85
+00:03:57,760 --> 00:04:00,400
+Et ce CFUMK va donner naissance à un
+
+86
+00:04:00,400 --> 00:04:02,720
+premier précurseur de la lignée qui est le
+
+87
+00:04:02,720 --> 00:04:03,920
+promégakaryoblast.
+
+88
+00:04:03,920 --> 00:04:10,080
+Le promégakaryoblast, ici, n'est pas identifiable morphologiquement.
+
+89
+00:04:10,660 --> 00:04:12,500
+Comme on a déjà vu pour l'ensemble
+
+90
+00:04:12,500 --> 00:04:15,839
+des cellules hématopoïétiques, on avait dit que les
+
+91
+00:04:15,839 --> 00:04:18,180
+précurseurs sont identifiables morphologiquement.
+
+92
+00:04:18,839 --> 00:04:20,860
+Mais là, ça c'est une particularité de
+
+93
+00:04:20,860 --> 00:04:23,180
+la lignée mégakaryoblastique, c'est que le premier
+
+94
+00:04:23,180 --> 00:04:26,940
+précurseur n'est pas identifiable morphologiquement et il
+
+95
+00:04:26,940 --> 00:04:28,560
+s'appelle le promégakaryoblast.
+
+96
+00:04:28,560 --> 00:04:30,940
+Et lui, il va donner naissance bien sûr
+
+97
+00:04:30,940 --> 00:04:34,540
+ensuite à différents précurseurs qui seront cette fois
+
+98
+00:04:34,540 --> 00:04:37,480
+-ci identifiables morphologiquement que nous allons détailler par
+
+99
+00:04:37,480 --> 00:04:37,900
+la suite.
+
+100
+00:04:38,760 --> 00:04:40,920
+Alors le dernier précurseur de la lignée va
+
+101
+00:04:40,920 --> 00:04:43,720
+donner naissance à la cellule mature qui est
+
+102
+00:04:43,720 --> 00:04:44,880
+la plaquette sanguine.
+
+103
+00:04:45,620 --> 00:04:48,660
+Cette plaquette sanguine va être libérée dans la
+
+104
+00:04:48,660 --> 00:04:51,880
+circulation sanguine par différents mécanismes que nous allons
+
+105
+00:04:51,880 --> 00:04:53,220
+aussi détailler par la suite.
+
+106
+00:04:54,220 --> 00:04:57,100
+Alors donc le compartiment des progéniteurs.
+
+107
+00:04:57,660 --> 00:05:00,720
+La cellule souche hématopoïétique donne naissance au progéniteur
+
+108
+00:05:00,720 --> 00:05:03,120
+huméloïde commun, le CFUGEMM.
+
+109
+00:05:03,560 --> 00:05:07,500
+Ce dernier donne naissance au progéniteur BFUMK pour
+
+110
+00:05:07,500 --> 00:05:12,560
+Burst Forming Units Mégakaryocyte, puis au progéniteur CFUMK
+
+111
+00:05:12,560 --> 00:05:15,080
+pour Colony Forming Units Mégakaryocyte.
+
+112
+00:06:36,270 --> 00:06:38,210
+Alors au cours de cette maturation, nous allons
+
+113
+00:06:38,210 --> 00:06:41,890
+assister à différentes modifications morphologiques.
+
+114
+00:06:41,890 --> 00:06:44,710
+Donc déjà il y aura une lobulation, donc
+
+115
+00:06:44,710 --> 00:06:46,910
+il y aura bien sûr une duplication du
+
+116
+00:06:46,910 --> 00:06:49,710
+matériel génétique, mais aussi une lobulation avec une
+
+117
+00:06:49,710 --> 00:06:51,570
+condensation progressive du noyau.
+
+118
+00:06:53,110 --> 00:06:55,650
+Et parallèlement à ceci, il y aura aussi
+
+119
+00:06:55,650 --> 00:06:58,710
+la maturation du cytoplasme qui va passer de
+
+120
+00:06:58,710 --> 00:07:01,690
+la basophilie à l'acidophilie avec formation de
+
+121
+00:07:01,690 --> 00:07:05,870
+granules et formation de récepteurs cytoplasmiques de nature
+
+122
+00:07:05,870 --> 00:07:06,910
+glucoprotéique.
+
+123
+00:07:08,030 --> 00:07:12,450
+Donc ces glycoprotéines et aussi avec ces granules
+
+124
+00:07:12,450 --> 00:07:16,950
+vont en fait constituer les principaux composants des
+
+125
+00:07:16,950 --> 00:07:18,150
+futures plaquettes.
+
+126
+00:07:18,670 --> 00:07:21,570
+Ils vont également jouer un rôle important dans
+
+127
+00:07:21,570 --> 00:07:25,130
+la fonction de la plaquette, notamment son rôle
+
+128
+00:07:25,130 --> 00:07:27,010
+au niveau de l'hémostase, que ce soit
+
+129
+00:07:27,010 --> 00:07:30,050
+l'hémostase primaire, mais aussi son rôle au
+
+130
+00:07:30,050 --> 00:07:31,750
+cours de la coagulation sanguine.
+
+131
+00:07:32,310 --> 00:07:34,590
+Alors nous allons voir ces glycoprotéines et ces
+
+132
+00:07:34,590 --> 00:07:36,010
+granules, de quoi ils sont constitués.
+
+133
+00:07:36,010 --> 00:07:37,750
+Donc nous allons les détailler par la suite.
+
+134
+00:07:38,870 --> 00:07:41,290
+Alors les précurseurs maintenant, donc il y a
+
+135
+00:07:41,290 --> 00:07:42,090
+plusieurs stades.
+
+136
+00:07:42,750 --> 00:07:46,290
+Le promégacarioblaste, comme on a dit non identifiable
+
+137
+00:07:46,290 --> 00:07:51,190
+morphologiquement, suivi de précurseurs identifiables morphologiquement qui
+
+138
+00:07:51,190 --> 00:07:55,950
+sont le mégacarioblaste, suivi du mégacariocyte basophile, du
+
+139
+00:07:55,950 --> 00:08:00,410
+mégacariocyte granuleux et puis du mégacariocyte plaquettogène ou
+
+140
+00:08:00,410 --> 00:08:01,470
+thrombocytogène.
+
+141
+00:08:03,530 --> 00:08:05,690
+Le promégacarioblaste est une cellule qui a perdu
+
+142
+00:08:05,690 --> 00:08:09,050
+complètement son pouvoir de prolifération et c'est
+
+143
+00:08:09,050 --> 00:08:09,930
+là qu'il y aura un début de
+
+144
+00:08:09,930 --> 00:08:10,730
+l'endomitose.
+
+145
+00:08:11,270 --> 00:08:12,390
+C'est une cellule en fait qui a
+
+146
+00:08:12,390 --> 00:08:13,390
+de 2 à 8 n.
+
+147
+00:08:15,210 --> 00:08:19,410
+Le mégacarioblaste, identifiable morphologiquement sur frottis de moelle
+
+148
+00:08:19,410 --> 00:08:23,070
+osseuse, donc à précoloration MGG, à l'examen
+
+149
+00:08:23,070 --> 00:08:24,250
+au microscope optique.
+
+150
+00:08:24,730 --> 00:08:26,030
+Donc c'est une cellule qui a de
+
+151
+00:08:26,030 --> 00:08:28,430
+25 à 30 micromètres de diamètre, qui est
+
+152
+00:08:28,430 --> 00:08:29,570
+de forme irrégulière.
+
+153
+00:08:29,570 --> 00:08:33,770
+Un rapport nucléocytoplasmique élevé, un noyau non segmenté,
+
+154
+00:08:34,270 --> 00:08:36,610
+une chromatine à trame grossière avec 1 à
+
+155
+00:08:36,610 --> 00:08:39,770
+2 nucléoles, un cytoplasme basophile et pas de
+
+156
+00:08:39,770 --> 00:08:40,390
+granulation.
+
+157
+00:08:41,929 --> 00:08:44,490
+Il mature au mégacariocyte basophile qui a une
+
+158
+00:08:44,490 --> 00:08:46,710
+taille de 30 à 40 micromètres de diamètre,
+
+159
+00:08:46,790 --> 00:08:50,650
+un rapport nucléocytoplasmique moins élevé, chromatine grossière sans
+
+160
+00:08:50,650 --> 00:08:53,450
+nucléole visible, un cytoplasme plus abondant que le
+
+161
+00:08:53,450 --> 00:08:57,230
+stade précédent et aussi moins basophile et apparition
+
+162
+00:08:57,230 --> 00:09:01,110
+de premières granulations azurophiles qui vont constituer les
+
+163
+00:09:01,110 --> 00:09:02,850
+futures granules plaquettaires.
+
+164
+00:09:04,510 --> 00:09:07,730
+Ce dernier va donner naissance au mégacariocyte granuleux.
+
+165
+00:09:07,950 --> 00:09:09,110
+Comme son nom l'indique, c'est à
+
+166
+00:09:09,110 --> 00:09:11,190
+ce stade qu'il y aura accumulation des
+
+167
+00:09:11,190 --> 00:09:12,690
+granules cytoplasmiques.
+
+168
+00:09:13,810 --> 00:09:15,850
+Il a une taille de 50 à 80
+
+169
+00:09:15,850 --> 00:09:18,810
+micromètres de diamètre avec une forme irrégulière, un
+
+170
+00:09:18,810 --> 00:09:21,130
+rapport nucléocytoplasmique faible, c'est-à-dire qu
+
+171
+00:09:21,130 --> 00:09:23,190
+'il y a beaucoup plus de cytoplasmes que
+
+172
+00:09:23,190 --> 00:09:25,950
+de noyaux à ce stade, un noyau polylobé,
+
+173
+00:09:26,530 --> 00:09:29,370
+une chromatine condensée en gros filaments, et un
+
+174
+00:09:29,370 --> 00:09:32,410
+cytoplasme à affinité acidophile avec de nombreuses granulations
+
+175
+00:09:32,410 --> 00:09:33,570
+dispersées.
+
+176
+00:09:35,210 --> 00:09:38,050
+Celui-là est suivi du mégacariocyte plaquettogène ou
+
+177
+00:09:38,050 --> 00:09:39,010
+thrombocytogène.
+
+178
+00:09:39,230 --> 00:09:41,450
+Comme son nom l'indique, c'est le
+
+179
+00:09:41,450 --> 00:09:44,210
+mégacariocyte qui va donner naissance aux futures plaquettes.
+
+180
+00:09:44,710 --> 00:09:46,150
+Il a une taille de 40 à 60
+
+181
+00:09:46,150 --> 00:09:49,730
+micromètres de diamètre, un noyau polylobé à chromatine
+
+182
+00:09:49,730 --> 00:09:51,990
+picnotique, c'est une chromatine qui est complètement
+
+183
+00:09:51,990 --> 00:09:55,130
+mature à ce stade, elle devient picnotique, un
+
+184
+00:09:55,130 --> 00:09:58,870
+cytoplasme acidophile avec un processus de fragmentation qu
+
+185
+00:09:58,870 --> 00:10:01,390
+'on appelle aussi émission de pseudopode et duquel
+
+186
+00:10:01,390 --> 00:10:03,270
+les plaquettes commencent déjà à se détacher.
+
+187
+00:10:03,710 --> 00:10:06,890
+On a cette condensation des granulations en amas,
+
+188
+00:10:07,050 --> 00:10:09,210
+les granulations acidophiles qui vont se condenser en
+
+189
+00:10:09,210 --> 00:10:14,310
+amas pour former les ébauches des prochaines plaquettes
+
+190
+00:10:14,310 --> 00:10:18,270
+qui vont se détacher progressivement du cytoplasme du
+
+191
+00:10:18,270 --> 00:10:19,810
+mégacariocyte plaquettogène.
+
+192
+00:10:21,230 --> 00:10:23,930
+On arrive alors maintenant au compartiment des cellules
+
+193
+00:10:23,930 --> 00:10:24,490
+matures.
+
+194
+00:10:24,750 --> 00:10:26,450
+Il y a la plaquette sanguine qui est
+
+195
+00:10:26,450 --> 00:10:28,690
+une cellule anucléée comme on a vu parce
+
+196
+00:10:28,690 --> 00:10:30,210
+que c'est tout simplement un fragment de
+
+197
+00:10:30,210 --> 00:10:31,710
+cytoplasme de mégacariocyte.
+
+198
+00:10:31,870 --> 00:10:34,430
+C'est une cellule anucléée comme on voit
+
+199
+00:10:34,430 --> 00:10:35,190
+sur la photo.
+
+200
+00:10:36,450 --> 00:10:38,710
+Elle est mise en évidence sur frottis sanguins
+
+201
+00:10:38,710 --> 00:10:39,890
+au MGG.
+
+202
+00:10:40,630 --> 00:10:42,090
+On peut aussi les voir bien sûr sur
+
+203
+00:10:42,090 --> 00:10:43,430
+le myelogramme.
+
+204
+00:10:43,930 --> 00:10:45,310
+C'est une cellule, comme on a déjà
+
+205
+00:10:45,310 --> 00:10:46,590
+dit, anucléée.
+
+206
+00:10:47,290 --> 00:10:49,230
+Elle a de 1 à 3 micromètres de
+
+207
+00:10:49,230 --> 00:10:51,790
+diamètre, de forme irrégulière, discoïde.
+
+208
+00:10:52,330 --> 00:10:54,230
+Elle est faite d'un granulomère qu'on
+
+209
+00:10:54,230 --> 00:10:57,310
+appelle aussi le centromère et d'un niallomère
+
+210
+00:10:57,310 --> 00:10:58,370
+qui est à la zone périphérique.
+
+211
+00:10:58,650 --> 00:11:00,770
+Si on regarde bien sur la photo, nous
+
+212
+00:11:00,770 --> 00:11:03,350
+avons là une grande plaquette et une petite
+
+213
+00:11:03,350 --> 00:11:03,930
+plaquette.
+
+214
+00:11:04,610 --> 00:11:07,110
+La grande plaquette, on voit bien au centre
+
+215
+00:11:07,110 --> 00:11:08,350
+qu'il y a un centromère ou un
+
+216
+00:11:08,350 --> 00:11:11,170
+granulomère qui est très riche en granulation et
+
+217
+00:11:11,170 --> 00:11:15,090
+un niallomère périphérique qui est plutôt hialin, qui
+
+218
+00:11:15,090 --> 00:11:16,870
+n'est pas vraiment riche en granulation.
+
+219
+00:11:18,730 --> 00:11:20,790
+À côté, nous avons une petite plaquette.
+
+220
+00:11:21,050 --> 00:11:23,010
+Il faut savoir que les petites plaquettes ou
+
+221
+00:11:23,010 --> 00:11:27,190
+les grandes plaquettes ont absolument la même structure.
+
+222
+00:11:27,870 --> 00:11:30,630
+C'est juste qu'elle est beaucoup plus
+
+223
+00:11:30,630 --> 00:11:32,870
+mise en évidence au niveau des grandes plaquettes.
+
+224
+00:11:34,510 --> 00:11:38,270
+Au niveau de la microscopie électronique, la plaquette
+
+225
+00:11:38,270 --> 00:11:40,710
+est faite d'une membrane plaquettaire qui est
+
+226
+00:11:40,710 --> 00:11:42,930
+constituée d'une bicouche de phospholipides.
+
+227
+00:11:43,330 --> 00:11:44,830
+D'ailleurs, comme toutes les cellules de l
+
+228
+00:11:44,830 --> 00:11:47,150
+'organisme, elles sont constituées d'une bicouche de
+
+229
+00:11:47,150 --> 00:11:47,970
+phospholipides.
+
+230
+00:11:48,770 --> 00:11:52,270
+Dans cette bicouche sont insérées des glycoprotéines membranaires,
+
+231
+00:11:52,790 --> 00:11:54,910
+comme par exemple la glycoproteine 1B.
+
+232
+00:11:55,070 --> 00:11:57,210
+Vous avez déjà vu cette glycoproteine dans le
+
+233
+00:11:57,210 --> 00:11:59,430
+cours de l'hémostase primaire avec le professeur
+
+234
+00:11:59,430 --> 00:11:59,910
+Chacol.
+
+235
+00:11:59,910 --> 00:12:02,790
+Nous avons la glycoproteine 1B qui va jouer
+
+236
+00:12:02,790 --> 00:12:05,810
+un rôle d'adhésion de la plaquette et
+
+237
+00:12:05,810 --> 00:12:08,590
+la glycoproteine 2B3A qui va jouer un rôle
+
+238
+00:12:08,590 --> 00:12:10,310
+dans l'agrégation de la plaquette.
+
+239
+00:12:11,110 --> 00:12:14,130
+À côté de ces glycoproteines, nous avons aussi
+
+240
+00:12:14,130 --> 00:12:16,890
+des granules cytoplasmiques qu'on a déjà vues
+
+241
+00:12:16,890 --> 00:12:17,830
+auparavant.
+
+242
+00:12:18,450 --> 00:12:21,250
+Ces granules cytoplasmiques, de quoi ils sont constitués
+
+243
+00:12:21,250 --> 00:12:21,670
+?
+
+244
+00:12:21,670 --> 00:12:23,610
+Il y a déjà les granules denses qui
+
+245
+00:12:23,610 --> 00:12:26,630
+sont constituées principalement d'ATP, d'adrénaline, de
+
+246
+00:12:26,630 --> 00:12:27,810
+sérotonine et de calcium.
+
+247
+00:12:27,810 --> 00:12:30,170
+On a aussi les granules alpha qui sont
+
+248
+00:12:30,170 --> 00:12:32,070
+très riches en facteurs de la coagulation.
+
+249
+00:12:32,690 --> 00:12:36,470
+Comme vous devez le deviner, ces granules sont
+
+250
+00:12:36,470 --> 00:12:38,830
+très importantes que ce soit pour l'hémostase
+
+251
+00:12:38,830 --> 00:12:41,230
+primaire ou pour la coagulation sanguine.
+
+252
+00:12:42,990 --> 00:12:45,190
+Les constituants internes de la plaquette sont faits
+
+253
+00:12:45,190 --> 00:12:47,230
+aussi de l'isosome, qui sont aussi très
+
+254
+00:12:47,230 --> 00:12:49,930
+riches en enzymes, et de systèmes membranaires.
+
+255
+00:12:50,250 --> 00:12:51,850
+Les systèmes membranaires y sont deux.
+
+256
+00:12:51,950 --> 00:12:53,930
+Il y a donc le système canaliculaire ouvert
+
+257
+00:12:53,930 --> 00:12:55,890
+et le système tubulaire dense.
+
+258
+00:12:56,810 --> 00:13:00,130
+Nous allons maintenant nous arrêter sur les mécanismes
+
+259
+00:13:00,130 --> 00:13:03,330
+de libération des plaquettes dans la circulation sanguine
+
+260
+00:13:03,330 --> 00:13:06,290
+à partir du mégacariocyte mature qui est le
+
+261
+00:13:06,290 --> 00:13:08,010
+mégacariocyte plaquettogène.
+
+262
+00:13:08,610 --> 00:13:10,850
+On a déjà dit que ce processus s
+
+263
+00:13:10,850 --> 00:13:12,870
+'appelle particulièrement la thrombopoïèse.
+
+264
+00:13:13,910 --> 00:13:16,050
+Il y a différents mécanismes qui ont été
+
+265
+00:13:16,050 --> 00:13:19,530
+rapportés dans la littérature qui expliquent cette thrombopoïèse.
+
+266
+00:13:19,530 --> 00:13:23,910
+Tout d'abord, on dit que les mégacariocytes
+
+267
+00:13:23,910 --> 00:13:27,390
+vont émettre des pseudopodes au travers de la
+
+268
+00:13:27,390 --> 00:13:31,570
+monocouche endothéliale du sinus médulaire avec libération de
+
+269
+00:13:31,570 --> 00:13:32,270
+proplaquettes.
+
+270
+00:13:32,890 --> 00:13:35,050
+On avait déjà vu dans le premier cours
+
+271
+00:13:35,050 --> 00:13:37,890
+que la moelle osseuse était un tissu richement
+
+272
+00:13:37,890 --> 00:13:38,810
+vascularisé.
+
+273
+00:13:39,470 --> 00:13:40,950
+Il y a la présence de nombreux sinus
+
+274
+00:13:40,950 --> 00:13:41,550
+médulaires.
+
+275
+00:13:42,070 --> 00:13:45,850
+Les mégacariocytes, après maturation, vont aller migrer dans
+
+276
+00:13:45,850 --> 00:13:46,950
+ces sinus médulaires.
+
+277
+00:13:46,950 --> 00:13:48,710
+Ils vont aller migrer à côté de ces
+
+278
+00:13:48,710 --> 00:13:49,590
+sinus médulaires.
+
+279
+00:13:50,170 --> 00:13:53,610
+Ils vont émettre des pseudopodes cytoplasmiques entre les
+
+280
+00:13:53,610 --> 00:13:57,090
+cellules endothéliales de ces capillaires sanguins.
+
+281
+00:13:58,350 --> 00:14:01,490
+Ces pseudopodes sont appelés des proplaquettes.
+
+282
+00:14:02,730 --> 00:14:04,810
+Les forces de cisaillement, parce qu'il y
+
+283
+00:14:04,810 --> 00:14:07,310
+a la circulation sanguine, les forces de cisaillement
+
+284
+00:14:07,310 --> 00:14:10,210
+qui sont provoquées par la circulation sanguine vont
+
+285
+00:14:10,210 --> 00:14:16,050
+conduire à la libération des plaquettes à partir
+
+286
+00:14:16,050 --> 00:14:17,690
+de ces pseudopodes.
+
+287
+00:14:17,790 --> 00:14:20,270
+Il y aura une fragmentation des pseudopodes membranaires
+
+288
+00:14:20,270 --> 00:14:22,950
+pour la libération de plaquettes dans la circulation.
+
+289
+00:14:24,390 --> 00:14:28,350
+Le deuxième mécanisme qui est décrit rapporte qu
+
+290
+00:14:28,350 --> 00:14:30,970
+'il y aura une migration des mégacariocytes au
+
+291
+00:14:30,970 --> 00:14:33,030
+niveau de la microcirculation pulmonaire.
+
+292
+00:14:33,590 --> 00:14:34,730
+C'est là qu'il y aura une
+
+293
+00:14:34,730 --> 00:14:36,390
+fragmentation du cytoplasme.
+
+294
+00:14:37,270 --> 00:14:39,870
+Le troisième mécanisme rapporté, c'est tout simplement
+
+295
+00:14:39,870 --> 00:14:43,090
+la rupture des mégacariocytes, la rupture du cytoplasme
+
+296
+00:14:43,090 --> 00:14:45,230
+des mégacariocytes au niveau de la moelle osseuse
+
+297
+00:14:45,230 --> 00:14:47,690
+même avant que les plaquettes ne rejoignent la
+
+298
+00:14:47,690 --> 00:14:48,950
+circulation périphérique.
+
+299
+00:14:49,830 --> 00:14:51,970
+Nous allons maintenant dire un mot sur la
+
+300
+00:14:51,970 --> 00:14:53,830
+cinétique de la mégacarioporièse.
+
+301
+00:14:54,810 --> 00:14:57,090
+Il y a trois éléments principaux à retenir.
+
+302
+00:14:57,210 --> 00:14:59,750
+Tout d'abord, c'est que la durée
+
+303
+00:14:59,750 --> 00:15:02,430
+du transit médulaire entre mégacarioblastes et plaquettes est
+
+304
+00:15:02,430 --> 00:15:03,370
+de 8 à 12 jours.
+
+305
+00:15:03,370 --> 00:15:06,510
+Qu'un mégacariocyte va produire entre 2000 à
+
+306
+00:15:06,510 --> 00:15:08,710
+3000 plaquettes et que la durée de vie
+
+307
+00:15:08,710 --> 00:15:10,670
+d'une plaquette au niveau du sang est
+
+308
+00:15:10,670 --> 00:15:11,270
+de 8 jours.
+
+309
+00:15:12,550 --> 00:15:14,570
+Quelles sont les fonctions de la plaquette sanguine
+
+310
+00:15:14,570 --> 00:15:15,750
+?
+
+311
+00:15:15,750 --> 00:15:18,710
+Comme on a déjà vu, les menstaces, notamment
+
+312
+00:15:18,710 --> 00:15:20,690
+les menstaces primaires, elles ont un rôle dans
+
+313
+00:15:20,690 --> 00:15:22,110
+l'adhésion et l'agrégation.
+
+314
+00:15:23,330 --> 00:15:24,710
+Elles ont aussi un rôle au niveau de
+
+315
+00:15:24,710 --> 00:15:28,070
+la coagulation par libération des facteurs de coagulation.
+
+316
+00:15:28,070 --> 00:15:30,370
+La plaquette possède aussi un rôle dans la
+
+317
+00:15:30,370 --> 00:15:33,010
+potentialisation de la réaction inflammatoire.
+
+318
+00:15:33,550 --> 00:15:34,810
+Elle a aussi un rôle dans l'activation
+
+319
+00:15:34,810 --> 00:15:37,850
+des complexes immuns et un rôle également dans
+
+320
+00:15:37,850 --> 00:15:39,850
+la dissémination métastatique.
+
+321
+00:15:40,730 --> 00:15:43,650
+Comment est faite la régulation de la mégacarioporièse
+
+322
+00:15:43,650 --> 00:15:44,070
+?
+
+323
+00:15:44,610 --> 00:15:47,230
+Nous avons en effet une régulation positive et
+
+324
+00:15:47,230 --> 00:15:48,670
+une régulation négative.
+
+325
+00:15:49,210 --> 00:15:51,690
+Commençons tout d'abord par la régulation positive.
+
+326
+00:15:51,690 --> 00:15:55,270
+Le facteur de croissance principal de la lignée
+
+327
+00:15:55,270 --> 00:15:57,890
+mégacariocitaire est la thrombopoïtine.
+
+328
+00:15:59,450 --> 00:16:01,610
+Elle est synthétisée par le foie et elle
+
+329
+00:16:01,610 --> 00:16:04,390
+a une production qui est inversement proportionnelle à
+
+330
+00:16:04,390 --> 00:16:07,310
+la masse plaquettaire circulante et elle a richesse
+
+331
+00:16:07,310 --> 00:16:09,670
+en mégacariocite au niveau de la moelle osseuse.
+
+332
+00:16:10,630 --> 00:16:14,410
+La thrombopoïtine va stimuler la prolifération des progéniteurs
+
+333
+00:16:14,410 --> 00:16:18,070
+mégacariocitaires, le BFUMK et le CFUMK.
+
+334
+00:16:18,070 --> 00:16:20,930
+Elle va aussi stimuler la croissance et la
+
+335
+00:16:20,930 --> 00:16:24,730
+maturation des mégacariocites et du coup une augmentation
+
+336
+00:16:24,730 --> 00:16:26,290
+de la production des plaquettes.
+
+337
+00:16:26,850 --> 00:16:30,750
+A savoir que le domaine actif de la
+
+338
+00:16:30,750 --> 00:16:34,110
+thrombopoïtine possède en fait une homologie structurale avec
+
+339
+00:16:34,110 --> 00:16:35,190
+l'érythropoïtine.
+
+340
+00:16:36,330 --> 00:16:39,590
+D'autres facteurs de croissance stimulent la mégacarioporièse,
+
+341
+00:16:39,690 --> 00:16:42,530
+à savoir l'interleukin 3, l'interleukin 6,
+
+342
+00:16:42,530 --> 00:16:46,930
+le granulocyte monocyte colony stimulating factor et l
+
+343
+00:16:46,930 --> 00:16:47,850
+'érythropoïtine.
+
+344
+00:16:48,110 --> 00:16:51,870
+Ils vont favoriser la prolifération et la maturation
+
+345
+00:16:51,870 --> 00:16:53,110
+des mégacariocites.
+
+346
+00:16:54,310 --> 00:16:56,190
+Bien sûr, il ne faut jamais oublier le
+
+347
+00:16:56,190 --> 00:16:59,450
+rôle du microenvironnement médulaire dans l'hématopoïèse en
+
+348
+00:16:59,450 --> 00:17:02,230
+général et bien sûr dans la mégacariopoïèse en
+
+349
+00:17:02,230 --> 00:17:02,770
+particulier.
+
+350
+00:17:03,829 --> 00:17:05,869
+La régulation négative va se faire par le
+
+351
+00:17:05,869 --> 00:17:09,030
+transforming growth factor qui a un effet direct
+
+352
+00:17:09,030 --> 00:17:11,270
+important sur les progéniteurs, donc qui a un
+
+353
+00:17:11,270 --> 00:17:12,089
+effet inhibiteur.
+
+354
+00:17:12,710 --> 00:17:15,270
+On a aussi le PF4 qui est une
+
+355
+00:17:15,270 --> 00:17:17,530
+chimioquine qui a un effet inhibiteur sur les
+
+356
+00:17:17,530 --> 00:17:20,869
+CFUMK, la thrombine qui a un effet inhibiteur
+
+357
+00:17:20,869 --> 00:17:23,150
+sur la formation des pro-plaquettes et l
+
+358
+00:17:23,150 --> 00:17:26,270
+'interférant alpha qui a un rôle mineur qui
+
+359
+00:17:26,270 --> 00:17:28,790
+va inhiber la prolifération et la maturation des
+
+360
+00:17:28,790 --> 00:17:30,370
+progéniteurs et des précurseurs.
+
+361
+00:17:31,270 --> 00:17:35,650
+Comment peut-on explorer la mégacariopoïèse ?
+
+362
+00:17:35,650 --> 00:17:37,730
+Tout d'abord et tout simplement par la
+
+363
+00:17:37,730 --> 00:17:38,810
+numération des plaquettes.
+
+364
+00:17:39,070 --> 00:17:42,070
+Cette numération peut se faire de façon manuelle
+
+365
+00:17:42,070 --> 00:17:43,090
+ou automatisée.
+
+366
+00:17:43,830 --> 00:17:45,410
+Elle est faite généralement dans le cadre d
+
+367
+00:17:45,410 --> 00:17:47,570
+'un hémogramme et comme on a déjà vu
+
+368
+00:17:47,570 --> 00:17:50,130
+pour les cours précédents, on n'interprète jamais
+
+369
+00:17:50,130 --> 00:17:52,470
+un seul paramètre de l'hémogramme, mais on
+
+370
+00:17:52,470 --> 00:17:54,450
+interprète l'hémogramme dans sa globalité.
+
+371
+00:17:54,450 --> 00:17:56,070
+On va voir le taux de plaquettes, mais
+
+372
+00:17:56,070 --> 00:17:58,570
+aussi les autres paramètres, à savoir l'hémoglobine,
+
+373
+00:17:58,670 --> 00:17:59,330
+les blancs, etc.
+
+374
+00:18:00,710 --> 00:18:03,530
+Cette numération de plaquettes peut être aussi suivie
+
+375
+00:18:03,530 --> 00:18:06,130
+d'un contrôle sur frottis sanguins pour éliminer
+
+376
+00:18:06,130 --> 00:18:08,810
+les fausses thrombopénie par présence d'amaplaquetteurs.
+
+377
+00:18:09,950 --> 00:18:12,050
+Ici, j'aimerais bien vous expliquer une petite
+
+378
+00:18:12,050 --> 00:18:14,190
+notion parce que quand vous allez commencer vos
+
+379
+00:18:14,190 --> 00:18:16,970
+stages dans les services cliniques, vous allez constater
+
+380
+00:18:16,970 --> 00:18:19,010
+que pour certains patients, quand on va trouver
+
+381
+00:18:19,010 --> 00:18:21,870
+une thrombopénie avec présence d'agrégats plaquetteurs sur
+
+382
+00:18:21,870 --> 00:18:26,630
+le frottis sanguin, on va recommander de faire
+
+383
+00:18:26,630 --> 00:18:28,510
+le prélèvement sur un tube citraté.
+
+384
+00:18:29,470 --> 00:18:30,670
+Alors qu'est-ce qui se passe ?
+
+385
+00:18:30,670 --> 00:18:32,790
+Il y a certains patients qui ont ce
+
+386
+00:18:32,790 --> 00:18:34,310
+qu'on appelle une allergie à l'EDTA.
+
+387
+00:18:34,570 --> 00:18:36,450
+C'est-à-dire que si on utilise
+
+388
+00:18:36,450 --> 00:18:39,090
+l'EDTA comme anticoagulant dans le tube de
+
+389
+00:18:39,090 --> 00:18:42,590
+prélèvement, ces patients vont quand même agréger leurs
+
+390
+00:18:42,590 --> 00:18:45,690
+plaquettes et si ces plaquettes sont agrégées, les
+
+391
+00:18:45,690 --> 00:18:47,750
+automates ne peuvent plus les compter.
+
+392
+00:18:47,750 --> 00:18:51,970
+Par conséquent, pour ces patients particulièrement, nous allons
+
+393
+00:18:51,970 --> 00:18:55,090
+refaire l'hémogramme sur un tube citraté pour
+
+394
+00:18:55,090 --> 00:18:58,530
+éviter cette formation d'agrégats plaquetteurs et par
+
+395
+00:18:58,530 --> 00:19:02,250
+conséquent avoir une numération correcte des plaquettes.
+
+396
+00:19:03,630 --> 00:19:05,290
+Il faut savoir que le taux de plaquettes
+
+397
+00:19:05,290 --> 00:19:08,210
+de référence est compris entre 150 et 400
+
+398
+00:19:08,210 --> 00:19:09,150
+gigas par litre.
+
+399
+00:19:10,550 --> 00:19:12,090
+Comme on l'a déjà vu dans la
+
+400
+00:19:12,090 --> 00:19:15,630
+diapo précédente, le frottis sanguin coloré OMGGI va
+
+401
+00:19:15,630 --> 00:19:18,550
+permettre la recherche d'agrégats plaquetteurs pour éliminer
+
+402
+00:19:18,550 --> 00:19:21,930
+une fausse thrombopénie, mais il va aussi permettre
+
+403
+00:19:21,930 --> 00:19:24,030
+l'étude de la morphologie des plaquettes, leur
+
+404
+00:19:24,030 --> 00:19:26,150
+taille, les granulations, etc.
+
+405
+00:19:27,430 --> 00:19:30,690
+Comme moyen d'exploration de l'hémegakaryopoïèse, comme
+
+406
+00:19:30,690 --> 00:19:34,410
+vous pouvez le deviner, on peut aussi réaliser
+
+407
+00:19:34,410 --> 00:19:35,150
+un myologramme.
+
+408
+00:19:35,150 --> 00:19:38,750
+Il sera réalisé en cas de thrombopénie réelle
+
+409
+00:19:38,750 --> 00:19:42,130
+avec une étude cytologique de la moelle osseuse
+
+410
+00:19:43,270 --> 00:19:45,590
+qui va permettre d'une part d'apprécier
+
+411
+00:19:45,590 --> 00:19:48,650
+la richesse de la moelle en mégakaryocytes et
+
+412
+00:19:48,650 --> 00:19:51,310
+d'autre part de réaliser une étude qualitative
+
+413
+00:19:51,310 --> 00:19:55,050
+des mégakaryocytes pour apprécier leur maturation et du
+
+414
+00:19:55,050 --> 00:19:58,910
+coup rechercher par exemple des thrombopathies.
+
+415
+00:19:59,650 --> 00:20:03,170
+On explore aussi la mégakaryopoïèse par la biopsie
+
+416
+00:20:03,170 --> 00:20:06,890
+ostéomédulaire, qu'on appelle brièvement BOM, qui donne
+
+417
+00:20:06,890 --> 00:20:09,130
+une estimation plus précise sur la présence d
+
+418
+00:20:09,130 --> 00:20:10,350
+'un amas de mégakaryocytes.
+
+419
+00:20:11,170 --> 00:20:13,770
+On peut aussi étudier l'ultrastructure plaquettaire en
+
+420
+00:20:13,770 --> 00:20:16,730
+microscopie électronique, donc on peut aller examiner les
+
+421
+00:20:16,730 --> 00:20:20,010
+granules, la membrane et le cytoplasme.
+
+422
+00:20:20,510 --> 00:20:22,690
+Un autre moyen d'exploration est l'étude
+
+423
+00:20:22,690 --> 00:20:24,970
+in vitro au laboratoire des fonctions de la
+
+424
+00:20:24,970 --> 00:20:27,910
+plaquette, qu'on appelle test d'agrégabilité plaquettaire.
+
+425
+00:20:29,090 --> 00:20:31,410
+On peut aussi étudier le rôle dans la
+
+426
+00:20:31,410 --> 00:20:34,250
+coagulation, à savoir l'action pro-coagulante par
+
+427
+00:20:34,250 --> 00:20:34,970
+le PF3.
+
+428
+00:20:36,190 --> 00:20:38,730
+Chez les patients qui ont une suspicion de
+
+429
+00:20:38,730 --> 00:20:41,630
+thrombopénie induite par l'héparine, on peut aller
+
+430
+00:20:41,630 --> 00:20:45,630
+rechercher des antigores anti-PF4 plaquettaires pour justement
+
+431
+00:20:45,630 --> 00:20:49,590
+poser ce diagnostic de thrombopénie induite par l
+
+432
+00:20:49,590 --> 00:20:49,950
+'héparine.
+
+433
+00:20:50,410 --> 00:20:53,090
+Un autre moyen d'exploration de la mégakaryopoïèse
+
+434
+00:20:53,090 --> 00:20:56,130
+est la recherche des récepteurs membranaires par cytométrie
+
+435
+00:20:56,130 --> 00:20:56,530
+en flux.
+
+436
+00:20:58,230 --> 00:21:01,670
+Voyons maintenant quelques applications de la mégakaryopoïèse.
+
+437
+00:21:02,990 --> 00:21:05,230
+Les thrombopénies sont définis par un taux de
+
+438
+00:21:05,230 --> 00:21:07,570
+plaquette inférieur à 150 gigas par litre.
+
+439
+00:21:07,670 --> 00:21:09,690
+Les thrombocytoses sont définis par un taux de
+
+440
+00:21:09,690 --> 00:21:11,870
+plaquette supérieur à 400 gigas par litre.
+
+441
+00:21:13,230 --> 00:21:16,050
+Comme application, nous avons la thrombopénie secondaire à
+
+442
+00:21:16,050 --> 00:21:18,450
+l'insuffisance hépatique par défaut de production de
+
+443
+00:21:18,450 --> 00:21:20,870
+la thrombopoétine, parce qu'on a dit que
+
+444
+00:21:20,870 --> 00:21:24,610
+la thrombopoétine qui est facteur de croissance principal
+
+445
+00:21:24,610 --> 00:21:27,610
+de la mégakaryopoïèse est produite principalement par le
+
+446
+00:21:27,610 --> 00:21:27,870
+foie.
+
+447
+00:21:28,370 --> 00:21:30,350
+En cas d'insuffisance hépatique, on n'est
+
+448
+00:21:30,350 --> 00:21:33,850
+pas étonné si on trouve une thrombopénie périphérique.
+
+449
+00:21:34,770 --> 00:21:37,690
+Le diagnostic des thrombopénies d'origine périphérique par
+
+450
+00:21:37,690 --> 00:21:40,250
+recherche des mégakaryocytes à tous les stades de
+
+451
+00:21:40,250 --> 00:21:43,570
+maturation, recherche de précurseurs au niveau du myelogramme.
+
+452
+00:21:43,770 --> 00:21:45,590
+Quand on a une thrombopénie, pour trancher si
+
+453
+00:21:45,590 --> 00:21:47,490
+c'est une thrombopénie d'origine centrale ou
+
+454
+00:21:47,490 --> 00:21:49,950
+périphérique, on va aller faire un myelogramme.
+
+455
+00:21:50,310 --> 00:21:52,370
+Si sur le myelogramme, on a la présence
+
+456
+00:21:52,370 --> 00:21:54,790
+de mégakaryocytes à tous les stades de maturation,
+
+457
+00:21:55,370 --> 00:21:56,550
+c'est qu'il s'agit d'une
+
+458
+00:21:56,550 --> 00:21:59,450
+thrombopénie périphérique, parce que la moelle produit bien
+
+459
+00:21:59,450 --> 00:22:01,090
+les mégakaryocytes et les plaquettes.
+
+460
+00:22:01,690 --> 00:22:03,230
+Si par contre on a une moelle qui
+
+461
+00:22:03,230 --> 00:22:05,010
+est pauvre en mégakaryocytes, ou qu'on a
+
+462
+00:22:05,010 --> 00:22:09,190
+des mégakaryocytes dystrophiques ou dysplasiques, ça veut dire
+
+463
+00:22:09,190 --> 00:22:11,010
+tout simplement que c'est une thrombopénie qui
+
+464
+00:22:11,010 --> 00:22:12,310
+est plutôt d'origine centrale.
+
+465
+00:22:14,430 --> 00:22:16,650
+Comme autre application, on peut aussi citer le
+
+466
+00:22:16,650 --> 00:22:19,690
+diagnostic de thrombopathie constitutionnelle, comme par exemple la
+
+467
+00:22:19,690 --> 00:22:20,670
+maladie du poule vide.
+
+468
+00:22:21,190 --> 00:22:23,810
+Dans cette maladie du poule vide, les granules
+
+469
+00:22:23,810 --> 00:22:26,270
+denses, il n'y en aura pas beaucoup,
+
+470
+00:22:26,450 --> 00:22:27,970
+donc il y aura un déficit en granules
+
+471
+00:22:27,970 --> 00:22:29,330
+denses au niveau des plaquettes.
+
+472
+00:22:30,910 --> 00:22:35,430
+Conclusion En résumé, la mégakaryopoïèse et l'ensemble
+
+473
+00:22:35,430 --> 00:22:37,530
+des processus qui vont aboutir à la formation
+
+474
+00:22:37,530 --> 00:22:40,490
+des plaquettes sanguines, elle a un rôle primordial
+
+475
+00:22:40,490 --> 00:22:41,490
+dans les mostazes.
+
+476
+00:22:42,170 --> 00:22:44,330
+On a deux progéniteurs spécifiques de la lignée,
+
+477
+00:22:44,430 --> 00:22:48,330
+le BFUMK et le CFUMK, avec cinq précurseurs,
+
+478
+00:22:48,450 --> 00:22:50,590
+dont le premier qui est le mégakaryoblast, qui
+
+479
+00:22:50,590 --> 00:22:52,310
+n'est pas identifiable morphologiquement.
+
+480
+00:22:52,870 --> 00:22:55,050
+Il s'agit de la première particularité de
+
+481
+00:22:55,050 --> 00:22:57,790
+la lignée mégakaryocytaire par rapport aux autres lignées
+
+482
+00:22:57,790 --> 00:22:58,690
+hématopoétiques.
+
+483
+00:23:00,070 --> 00:23:02,370
+Deuxième particularité, c'est la présence d'endomitose,
+
+484
+00:23:02,530 --> 00:23:07,230
+donc cette multiplication du matériel nucléaire, multiplication de
+
+485
+00:23:07,230 --> 00:23:09,910
+l'ADN, mais sans division cellulaire, qu'on
+
+486
+00:23:09,910 --> 00:23:10,970
+appelle l'endomitose.
+
+487
+00:23:11,950 --> 00:23:14,990
+Le facteur de croissance principal et spécifique de
+
+488
+00:23:14,990 --> 00:23:18,130
+la mégakaryopoïèse étant la thrombopoéthie, qui est synthétisée
+
+489
+00:23:18,130 --> 00:23:18,750
+par le foie.
+
+490
+00:23:20,410 --> 00:23:23,110
+L'exploration va se faire principalement par l
+
+491
+00:23:23,110 --> 00:23:26,350
+'hémogramme avec le frottis sanguin et le myelogramme.
+
+492
+00:23:26,790 --> 00:23:28,690
+Il y a plusieurs applications dans le domaine
+
+493
+00:23:28,690 --> 00:23:30,750
+médical dans le cadre de l'exploration des
+
+494
+00:23:30,750 --> 00:23:33,850
+thrombopénie et ou des thrombopathies et des thrombocytoses.

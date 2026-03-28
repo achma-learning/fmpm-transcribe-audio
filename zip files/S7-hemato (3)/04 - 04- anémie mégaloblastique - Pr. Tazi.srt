@@ -1,0 +1,1351 @@
+1
+00:00:00,840 --> 00:00:04,100
+Bonjour, aujourd'hui nous allons voir un cours
+
+2
+00:00:04,100 --> 00:00:11,030
+qui est intitulé Les anémies mégaloblastiques Les anémies
+
+3
+00:00:11,030 --> 00:00:15,590
+macrocytaires carentiales regroupent les anémies dues à une
+
+4
+00:00:15,590 --> 00:00:20,910
+carence en vitamine B12 ou cobalamine et ou
+
+5
+00:00:20,910 --> 00:00:25,570
+en acide folique appelé aussi vitamine B9 Elles
+
+6
+00:00:25,570 --> 00:00:30,130
+s'accompagnent d'une mégaloblastose médulaire Elles doivent
+
+7
+00:00:30,130 --> 00:00:34,150
+être reconnues car elles sont curables et potentiellement
+
+8
+00:00:34,150 --> 00:00:39,670
+responsables dans les formes diagnostiquées tardivement de tableaux
+
+9
+00:00:39,670 --> 00:00:44,930
+hématologiques sévères Elles sont parfois associées à des
+
+10
+00:00:44,930 --> 00:00:50,840
+manifestations neuropsychiatriques graves notamment chez la personne âgée
+
+11
+00:00:52,320 --> 00:00:56,840
+La prévalence de la carence en folate est
+
+12
+00:00:56,840 --> 00:01:01,340
+de 2% dans la population générale Elle
+
+13
+00:01:01,340 --> 00:01:05,120
+est plus importante dans certains contextes comme la
+
+14
+00:01:05,120 --> 00:01:10,600
+malnutrition, l'alcoolisme, les grossesses multiples, la malabsorption
+
+15
+00:01:10,600 --> 00:01:16,120
+digestive et lors de la chimiothérapie anticancéreuse La
+
+16
+00:01:16,120 --> 00:01:20,440
+prévalence des déficits en cobalamine est estimée à
+
+17
+00:01:20,440 --> 00:01:23,720
+15% Elle est beaucoup plus importante chez
+
+18
+00:01:23,720 --> 00:01:28,540
+les sujets âgés Concernant l'acide folique ou
+
+19
+00:01:28,540 --> 00:01:33,360
+la vitamine B9 Un régime alimentaire équilibré apporte
+
+20
+00:01:33,360 --> 00:01:38,200
+environ 500 microgrammes d'acide folique par jour
+
+21
+00:01:38,200 --> 00:01:43,320
+Cette quantité suffit théoriquement pour satisfaire les besoins
+
+22
+00:01:43,320 --> 00:01:48,520
+physiologiques de l'organisme Les folates sont présents
+
+23
+00:01:48,520 --> 00:01:51,520
+en grande quantité dans les légumes verts frais,
+
+24
+00:01:52,180 --> 00:01:56,000
+les fruits secs, les céréales, le foie et
+
+25
+00:01:56,000 --> 00:01:59,220
+le jaune d'œuf L'absorption des folates
+
+26
+00:01:59,220 --> 00:02:03,420
+se fait au niveau biodélogéginal et l'élimination
+
+27
+00:02:03,420 --> 00:02:07,259
+est à la fois biliaire et urinaire Les
+
+28
+00:02:07,259 --> 00:02:13,200
+réserves estimées à 10 jusqu'à 15 mg
+
+29
+00:02:13,200 --> 00:02:18,380
+sont essentiellement hépatiques et suffisantes pour quelques semaines
+
+30
+00:02:18,380 --> 00:02:24,240
+avec un maximum de 4 mois La vitamine
+
+31
+00:02:24,240 --> 00:02:28,940
+B12, quant à elle, est apportée exclusivement par
+
+32
+00:02:28,940 --> 00:02:33,960
+l'alimentation Les besoins journaliers sont estimés entre
+
+33
+00:02:33,960 --> 00:02:38,720
+2 et 5 microgrammes Cette vitamine B12 est
+
+34
+00:02:38,720 --> 00:02:41,920
+présente en grande quantité dans le foie, la
+
+35
+00:02:41,920 --> 00:02:45,100
+viande d'œuf et les poissons Elle se
+
+36
+00:02:45,100 --> 00:02:47,760
+trouve en quantité moindre dans les œufs et
+
+37
+00:02:47,760 --> 00:02:52,080
+les produits laitiers La vitamine B12 est initialement
+
+38
+00:02:52,080 --> 00:02:56,300
+liée à des protéines alimentaires Elle en est
+
+39
+00:02:56,300 --> 00:02:59,480
+dissociée sous l'influence de l'acidité gastrique
+
+40
+00:02:59,480 --> 00:03:05,420
+puis liée à l'lactocorine, glycoprotéine forteuse présente
+
+41
+00:03:05,420 --> 00:03:09,740
+dans les sécrétions salivaires et gastriques Dans le
+
+42
+00:03:09,740 --> 00:03:14,320
+diodéne, ces protéines sont progressivement digérées et la
+
+43
+00:03:14,320 --> 00:03:17,880
+vitamine B12 est alors liée aux facteurs intrinsèques
+
+44
+00:03:17,880 --> 00:03:22,540
+sous l'effet des sécrétions biliaires et pancréatiques
+
+45
+00:03:22,540 --> 00:03:25,780
+Le complexe ainsi formé se lie au niveau
+
+46
+00:03:25,780 --> 00:03:28,880
+de l'illéant terminal à son récepteur, la
+
+47
+00:03:28,880 --> 00:03:33,420
+cubiline et après endocytose, la vitamine B12 est
+
+48
+00:03:33,420 --> 00:03:37,620
+dissociée du facteur intrinsèque et se lie principalement
+
+49
+00:03:37,620 --> 00:03:42,460
+à la transcomvalamine de type 2 Le complexe
+
+50
+00:03:42,460 --> 00:03:47,180
+ainsi formé nommé holotranscovalamine 2 passe dans la
+
+51
+00:03:47,180 --> 00:03:50,720
+circulation sanguine et assure le transport de la
+
+52
+00:03:50,720 --> 00:03:58,370
+vitamine B12 aux cellules tissulaires Donc, quelles sont
+
+53
+00:03:58,370 --> 00:04:02,090
+les conséquences hématologiques et neurologiques des carences vitaminiques
+
+54
+00:04:02,090 --> 00:04:03,010
+?
+
+55
+00:04:03,010 --> 00:04:07,410
+Au plan hématologique, la mégaloblastose médulaire et la
+
+56
+00:04:07,410 --> 00:04:11,890
+macrocytose sanguine sont consécutives aux troubles de synthèse
+
+57
+00:04:11,890 --> 00:04:15,130
+de l'ADN Il est à souligner que
+
+58
+00:04:15,130 --> 00:04:18,390
+ce blocage de la synthèse d'ADN et
+
+59
+00:04:18,390 --> 00:04:22,150
+la synthèse conservée d'ARN sont à l
+
+60
+00:04:22,150 --> 00:04:25,430
+'origine, en dehors de l'anémie, d'un
+
+61
+00:04:25,430 --> 00:04:32,090
+asynchronous nucléocytoplasmique et d'une hématopoïèse inefficace avec
+
+62
+00:04:32,090 --> 00:04:37,150
+avortement intramédulaire Cette dernière est liée à une
+
+63
+00:04:37,150 --> 00:04:42,410
+apoptose érythrocytaire et à une phagocytose médulaire accrue
+
+64
+00:04:42,930 --> 00:04:46,750
+Et la mégaloblastose, sans responsable de tableau clinico
+
+65
+00:04:46,750 --> 00:04:51,710
+-biologique, peut simuler une authentique anémie hémorragique, une
+
+66
+00:04:51,710 --> 00:04:57,810
+microangiopathie thrombotique ou encore une leucose aiguë Concernant
+
+67
+00:04:57,810 --> 00:05:00,810
+les troubles neurologiques, ils sont liés à un
+
+68
+00:05:00,810 --> 00:05:06,930
+trouble de myelinisation par manque de méthionine Le
+
+69
+00:05:06,930 --> 00:05:10,210
+tableau clinique est habituellement fort, il associe pas
+
+70
+00:05:10,210 --> 00:05:14,110
+d'heures, asthénie, quelquefois des troubles digestives ou
+
+71
+00:05:14,110 --> 00:05:17,590
+neurologiques En général, le syndrome anémique est bien
+
+72
+00:05:17,590 --> 00:05:23,070
+supporté Concernant les circonstances de découverte, le début
+
+73
+00:05:23,070 --> 00:05:25,970
+est le plus souvent insidieux Les signes et
+
+74
+00:05:25,970 --> 00:05:30,390
+symptômes d'anémie apparaissent progressivement Parfois, la carence
+
+75
+00:05:30,390 --> 00:05:33,390
+peut être découverte lors d'une complication ou
+
+76
+00:05:33,390 --> 00:05:36,150
+dans le contexte de maladies auto-émues ou
+
+77
+00:05:36,150 --> 00:05:39,090
+lors de la réalisation d'un hémogramme par
+
+78
+00:05:39,090 --> 00:05:42,730
+exemple, ou une autre cause L'anémie se
+
+79
+00:05:42,730 --> 00:05:45,010
+manifeste par une dissonnée d'efforts à l
+
+80
+00:05:45,010 --> 00:05:48,510
+'engord, vertige ou bien du céphalé Elle peut
+
+81
+00:05:48,510 --> 00:05:52,390
+comporter une note hémolithique avec subjecteur qui est
+
+82
+00:05:52,390 --> 00:05:55,270
+due à un catabolisme exagéré de l'hémoglobine
+
+83
+00:05:55,270 --> 00:05:58,450
+lui-même qui est consécutif à un excès
+
+84
+00:05:58,450 --> 00:06:02,510
+d'érythropoïèse inefficace dans la moelle osseuse Une
+
+85
+00:06:02,510 --> 00:06:07,350
+spénomégalie modérée est quelquefois notée Il est important
+
+86
+00:06:07,350 --> 00:06:10,090
+pour le praticien de connaître les différents signes
+
+87
+00:06:10,090 --> 00:06:12,810
+et symptômes extra-hématologiques de la carence en
+
+88
+00:06:12,810 --> 00:06:17,050
+vitamine B12 ou en acylfolique Leur présence permet
+
+89
+00:06:17,050 --> 00:06:19,990
+en effet d'orienter d'emblée le diagnostic
+
+90
+00:06:19,990 --> 00:06:24,470
+vers une éthiologie carencière Les manifestations neurologiques les
+
+91
+00:06:24,470 --> 00:06:27,190
+plus fréquentes sont les polynévrites le plus souvent
+
+92
+00:06:27,190 --> 00:06:31,390
+sensitives, pures à type de paresthésie avec ataxie
+
+93
+00:06:31,390 --> 00:06:34,630
+et signe de Remberg Le tableau de sclérose
+
+94
+00:06:34,630 --> 00:06:37,950
+combinée de moelle est le plus classique Il
+
+95
+00:06:37,950 --> 00:06:41,870
+associe un syndrome cordonal postérieur et un syndrome
+
+96
+00:06:41,870 --> 00:06:45,590
+pyramidal déficitaire marqué en général par un signe
+
+97
+00:06:45,590 --> 00:06:50,890
+de Babinski Une atteinte spinothalamique douloureuse, une ataxie
+
+98
+00:06:50,890 --> 00:06:54,970
+cérébelleuse, une troublesse intérieure ou une érythroptique rétrobulvaire
+
+99
+00:06:54,970 --> 00:07:02,070
+sont également décrites Parfois, une dépression, une psychose
+
+100
+00:07:02,070 --> 00:07:07,410
+ou un trouble du sommeil sont observés Les
+
+101
+00:07:07,410 --> 00:07:10,290
+manifestations carencières liées à l'atteinte de l
+
+102
+00:07:10,290 --> 00:07:14,250
+'épithélium sont dominées par les signes digestifs, la
+
+103
+00:07:14,250 --> 00:07:17,290
+glycératropie de l'inter, c'est la manifestation
+
+104
+00:07:17,290 --> 00:07:21,330
+la plus classique La langue est sèche, dépapillée
+
+105
+00:07:21,330 --> 00:07:25,010
+et lisse avec une gêne douloureuse à l
+
+106
+00:07:25,010 --> 00:07:29,350
+'alimentation Les autres manifestations épithéliales de la carence
+
+107
+00:07:29,350 --> 00:07:33,530
+vitaminique sont les ulcères cutanéomiques récidivantes la tropie
+
+108
+00:07:33,530 --> 00:07:39,330
+vaginale, les infections urogenitales en répétition qui sont
+
+109
+00:07:39,330 --> 00:07:42,410
+liées à une dépaillance de la barrière muqueuse
+
+110
+00:07:42,410 --> 00:07:46,810
+de l'appareil urinaire La carence enfolate au
+
+111
+00:07:46,810 --> 00:07:49,630
+cours de la grossesse peut être associée à
+
+112
+00:07:49,630 --> 00:07:52,330
+une hypotropie fétale ou bien à un spina
+
+113
+00:07:52,330 --> 00:07:57,330
+bifida Un retard de développement psychomoteur, une hypotropie
+
+114
+00:07:57,330 --> 00:08:01,810
+stachyropondéra sont observés chez les enfants qui ont
+
+115
+00:08:01,810 --> 00:08:06,470
+des carences tissulières Une carence profonde en anémie,
+
+116
+00:08:06,750 --> 00:08:10,750
+en vitamine B12 ou bien en folate est
+
+117
+00:08:10,750 --> 00:08:14,370
+souvent associée à une diminution des immunoglobulines sériques
+
+118
+00:08:14,370 --> 00:08:18,570
+dont le taux se normalise après traitement donc
+
+119
+00:08:18,570 --> 00:08:21,730
+c'est le cadre observé lors des déficits
+
+120
+00:08:21,730 --> 00:08:26,990
+immunitaires Une anémie macrocytaire avec un taux de
+
+121
+00:08:26,990 --> 00:08:31,169
+réticulocide diminué est le caractère habituel d'une
+
+122
+00:08:31,169 --> 00:08:34,929
+carence vitaminique donc lors de la réalisation d
+
+123
+00:08:34,929 --> 00:08:37,610
+'un hémograve Le taux de plaquettes et de
+
+124
+00:08:37,610 --> 00:08:41,169
+globules blandes, tropiles et lymphocytes sont souvent diminués
+
+125
+00:08:41,169 --> 00:08:45,010
+essentiellement au cours des carences profondes Donc un
+
+126
+00:08:45,010 --> 00:08:49,290
+réflexe devant toute macrocytose faut toujours commencer par
+
+127
+00:08:49,290 --> 00:08:54,050
+analyser surtout les réticulocytes Donc lors de la
+
+128
+00:08:54,050 --> 00:08:57,010
+réalisation d'un trotille sanguin celui-ci montre
+
+129
+00:08:57,010 --> 00:09:01,010
+des anomalies variées Les anomalies morphologiques des globules
+
+130
+00:09:01,010 --> 00:09:05,990
+rouges associées cohérement une anisocytose, une macro-ovalecytose,
+
+131
+00:09:06,110 --> 00:09:10,270
+une poikylocytose des hématites en forme de poire
+
+132
+00:09:10,270 --> 00:09:14,130
+et souvent des cordes jolies dont de nombreuses
+
+133
+00:09:14,130 --> 00:09:18,370
+hématites témoignant d'un trouble de division cellulaire
+
+134
+00:09:18,370 --> 00:09:21,830
+Une schizocytose aussi, ce sont des hématites fragmentées
+
+135
+00:09:21,830 --> 00:09:25,130
+et souvent présentes notamment dans les carences sévères
+
+136
+00:09:25,130 --> 00:09:29,510
+en vitamine B12 Donc à retenir, l'anémie
+
+137
+00:09:29,510 --> 00:09:33,430
+est macrocytaire lorsque le VGM est supérieur à
+
+138
+00:09:33,430 --> 00:09:37,990
+100 femtolitres et on parle de mégaloblastose quand
+
+139
+00:09:37,990 --> 00:09:42,630
+le VGM est supérieur à 120 femtolitres Donc
+
+140
+00:09:42,630 --> 00:09:46,830
+toujours au niveau du trotille sanguin les polynucléaires
+
+141
+00:09:46,830 --> 00:09:50,870
+sont souvent hyper-segmentés avec un noyau de
+
+142
+00:09:50,870 --> 00:09:54,490
+5 lobes au plus Cette hyper-segmentation des
+
+143
+00:09:54,490 --> 00:09:57,570
+polynucléaires est un signe très précoce de carences
+
+144
+00:09:57,570 --> 00:10:01,570
+vitaminiques apparaissant même avant l'anémie et même
+
+145
+00:10:01,570 --> 00:10:06,510
+avant la macrocytose et pouvant persister plusieurs semaines
+
+146
+00:10:06,510 --> 00:10:12,870
+voire plusieurs mois après le traitement vitaminique Lors
+
+147
+00:10:12,870 --> 00:10:15,950
+de la réalisation du VGM, la moelle osseuse
+
+148
+00:10:15,950 --> 00:10:20,310
+est hyper-cellulaire avec excès d'érythroblastes immatures
+
+149
+00:10:20,310 --> 00:10:22,570
+de grande taille, d'où le nom de
+
+150
+00:10:22,570 --> 00:10:26,830
+mégaloblastes Elles réalisent l'aspect de moelle bleue
+
+151
+00:10:26,830 --> 00:10:32,850
+Les mégaloblastes se caractérisent par un asynchronisme entre
+
+152
+00:10:32,850 --> 00:10:35,910
+la maturation du cytoplasme et celle du noyau
+
+153
+00:10:35,910 --> 00:10:39,610
+En effet, le noyau garde une apparence immature
+
+154
+00:10:39,610 --> 00:10:42,290
+avec une chromatine qui est fine et peu
+
+155
+00:10:42,290 --> 00:10:46,030
+condensée à tous les stades de maturation tandis
+
+156
+00:10:46,030 --> 00:10:50,450
+que la maturation du cytoplasme est normale Les
+
+157
+00:10:50,450 --> 00:10:54,890
+précurseurs de la lignée granulocytaire, ou bien de
+
+158
+00:10:54,890 --> 00:10:57,870
+la lignée granuleuse sont aussi de grande taille,
+
+159
+00:10:58,190 --> 00:11:00,990
+notamment les métamyelocytes et les myelocytes Donc le
+
+160
+00:11:00,990 --> 00:11:04,610
+terme de métamyelocyte géant est utilisé pour les
+
+161
+00:11:04,610 --> 00:11:09,890
+décrire Concernant les dosages vitaminiques, ils sont réalisés
+
+162
+00:11:09,890 --> 00:11:12,350
+dans le sérum pour la vitamine B12 et
+
+163
+00:11:12,350 --> 00:11:14,950
+les folates mais aussi dans les érythrocytes pour
+
+164
+00:11:14,950 --> 00:11:17,670
+les folates On parle de carence en vitamine
+
+165
+00:11:17,670 --> 00:11:21,010
+B12 lorsque la concentration en vitamine B12 érique
+
+166
+00:11:21,010 --> 00:11:25,790
+est inférieure à 200 picogrammes par ml et
+
+167
+00:11:25,790 --> 00:11:27,730
+d'une carence en acide folique si la
+
+168
+00:11:27,730 --> 00:11:31,430
+concentration en acide folique est inférieure à 140
+
+169
+00:11:31,430 --> 00:11:35,070
+nanogrammes par ml Le taux de bulle ruine
+
+170
+00:11:35,070 --> 00:11:38,230
+non conjuguée est élevé Il en est de
+
+171
+00:11:38,230 --> 00:11:40,350
+même pour le taux de LDH sérique qui
+
+172
+00:11:40,350 --> 00:11:43,190
+atteint des valeurs élevées surtout dans les carences
+
+173
+00:11:43,190 --> 00:11:48,690
+profondes en vitamine B12 Donc on arrive au
+
+174
+00:11:48,690 --> 00:11:52,630
+diagnostic différentiel La présence sur un protisanguin d
+
+175
+00:11:52,630 --> 00:11:55,990
+'une anisocytose et surtout d'une macro-ovalocytose
+
+176
+00:11:55,990 --> 00:12:00,210
+ou bien d'une hyperpigmentation des polynucléaires neutrophiles
+
+177
+00:12:00,210 --> 00:12:04,390
+peut orienter le diagnostic vers une origine carentière
+
+178
+00:12:04,390 --> 00:12:07,750
+Il faut retenir que la cause la plus
+
+179
+00:12:07,750 --> 00:12:11,650
+fréquente de macrocytose sans anémie, c'est l
+
+180
+00:12:11,650 --> 00:12:16,470
+'alcoolisme chronique Donc la première étape diagnostique devant
+
+181
+00:12:16,470 --> 00:12:20,470
+une anémie macrocytaire c'est l'élimination des
+
+182
+00:12:20,470 --> 00:12:24,630
+causes évidentes de macrocytose à savoir les hépatopathies
+
+183
+00:12:24,630 --> 00:12:28,610
+chroniques par exemple, l'alcoolisme, l'hypothyroïdie Une
+
+184
+00:12:28,610 --> 00:12:33,410
+insuffisance rénale peut aussi donner une anémie macrocytaire
+
+185
+00:12:33,410 --> 00:12:36,790
+et certaines prises médicamenteuses peuvent s'accompagner d
+
+186
+00:12:36,790 --> 00:12:43,110
+'une macrocytose comme par exemple le méthotrexate, le
+
+187
+00:12:43,110 --> 00:12:50,070
+triméthoprim, l'hydroxyurie et certains médicaments antiépileptiques Par
+
+188
+00:12:50,070 --> 00:12:53,070
+la suite, un taux bas de réticulocyte qui
+
+189
+00:12:53,070 --> 00:12:55,970
+est inférieur à 120 000 permet d'affirmer
+
+190
+00:12:55,970 --> 00:12:59,590
+le caractère central à régénérative de l'anémie
+
+191
+00:12:59,590 --> 00:13:02,210
+macrocytaire Donc il s'agit d'une étape
+
+192
+00:13:02,210 --> 00:13:06,130
+cruciale au diagnostic surtout lorsqu'on sait que
+
+193
+00:13:06,130 --> 00:13:11,590
+dans les anémies mégaloblastiques l'avortement intramédiculaire est
+
+194
+00:13:11,590 --> 00:13:14,350
+classiquement à l'origine d'un syndrome hémolytique
+
+195
+00:13:14,350 --> 00:13:18,550
+qui peut être au premier plan et simuler
+
+196
+00:13:18,550 --> 00:13:23,810
+une authentique anémie hémolytique périphérique Donc à retenir,
+
+197
+00:13:24,030 --> 00:13:29,130
+les anémies macrocytaires par hyperréticulocytose sont observées au
+
+198
+00:13:29,130 --> 00:13:32,530
+cours des poussées d'hémolyse aiguë ou bien
+
+199
+00:13:32,530 --> 00:13:38,310
+après un épisode hémorragique aigu Une anémie macrocytaire
+
+200
+00:13:38,310 --> 00:13:41,150
+peut être révélatrice aussi d'une mylodysplasie d
+
+201
+00:13:41,150 --> 00:13:46,450
+'une aplasie musculaire ou autre hémopathie centrale Donc
+
+202
+00:13:46,450 --> 00:13:50,250
+concernant les mylodysplasies, il faut comprendre ce que
+
+203
+00:13:50,250 --> 00:13:52,690
+ça veut dire Donc ce sont des maladies
+
+204
+00:13:52,690 --> 00:13:55,410
+de la fille souche myéloïde qui entraînent un
+
+205
+00:13:55,410 --> 00:13:59,650
+trouble qualitatif et quantitatif de la production des
+
+206
+00:13:59,650 --> 00:14:04,050
+éléments figurés du sang Elles réalisent une insuffisance
+
+207
+00:14:04,050 --> 00:14:09,530
+médulaire à moelle riche L'anémie macrocytaire arrégénérative
+
+208
+00:14:09,530 --> 00:14:12,750
+est associée à une neutropénie et ou à
+
+209
+00:14:12,750 --> 00:14:18,430
+une thrombopénie Et le myelogramme objective une moitié
+
+210
+00:14:18,430 --> 00:14:22,170
+riche avec des signes de dysmyelopoïèse plus ou
+
+211
+00:14:22,170 --> 00:14:25,830
+moins important, prédominant en général sur une seule
+
+212
+00:14:25,830 --> 00:14:32,290
+lignée Donc attention, un piège Lorsqu'il y
+
+213
+00:14:32,290 --> 00:14:37,490
+a présence d'agglutinines froides celles-ci sont
+
+214
+00:14:37,490 --> 00:14:41,670
+responsables d'une fausse macrocytose puisqu'elle entraîne
+
+215
+00:14:41,670 --> 00:14:45,690
+une agglutination des globules rouges à une température
+
+216
+00:14:45,690 --> 00:14:48,310
+qui est ambiante Et lors de l'annumération,
+
+217
+00:14:48,510 --> 00:14:53,050
+ces agglutinates sont considérées comme des éléments cellulaires
+
+218
+00:14:53,050 --> 00:14:57,310
+isolés D'où une macrocytose importante associée à
+
+219
+00:14:57,310 --> 00:14:58,950
+un nombre de globules rouges qui est bas
+
+220
+00:14:58,950 --> 00:15:01,110
+et un taux d'hémoglobine qui est normal
+
+221
+00:15:01,110 --> 00:15:05,450
+et un TCMH, teneur corpusculaire moyenne d'hémoglobine,
+
+222
+00:15:05,910 --> 00:15:09,750
+très excessif Donc cette agglutination peut être vérifiée
+
+223
+00:15:09,750 --> 00:15:12,790
+au microscope entre lame et lamelle et généralement
+
+224
+00:15:12,790 --> 00:15:15,850
+elle disparaît lorsque le prélèvement et l'annumération
+
+225
+00:15:15,850 --> 00:15:22,320
+sont réalisés à température de 37°C Une fois
+
+226
+00:15:22,320 --> 00:15:26,200
+la carence vitaminique identifiée il importe de compléter
+
+227
+00:15:26,200 --> 00:15:29,500
+le bilan en vue d'aboutir au diagnostic
+
+228
+00:15:29,500 --> 00:15:34,220
+étiologique L'interrogatoire diététique est important pour éliminer
+
+229
+00:15:34,220 --> 00:15:36,640
+une carence d'apport en l'une de
+
+230
+00:15:36,640 --> 00:15:39,680
+ces deux vitamines La malabsorption est la cause
+
+231
+00:15:39,680 --> 00:15:41,940
+la plus fréquente de carences en vitamines B12
+
+232
+00:15:41,940 --> 00:15:45,640
+maladie de Birmer ou autre malabsorption Le diagnostic
+
+233
+00:15:45,640 --> 00:15:48,400
+de cette maladie de Birmer doit comporter une
+
+234
+00:15:48,400 --> 00:15:52,740
+fibroscopie avec biopsie gastrique complétée par la recherche
+
+235
+00:15:52,740 --> 00:15:57,520
+d'anticorps anticellulaires barriétales et antifacteurs intrinsèques dans
+
+236
+00:15:57,520 --> 00:16:00,740
+le sérum et éventuellement par un tubage gastrique
+
+237
+00:16:00,740 --> 00:16:06,900
+pour mesurer la chlorhydrique Donc pour comprendre cette
+
+238
+00:16:06,900 --> 00:16:10,180
+maladie de Birmer la vitamine B12 alimentaire se
+
+239
+00:16:10,180 --> 00:16:13,880
+lie normalement au facteur intrinsèque sécrété par la
+
+240
+00:16:13,880 --> 00:16:16,840
+muqueuse gastrique de la région du findus et
+
+241
+00:16:16,840 --> 00:16:20,280
+présent dans le sucre gastrique Le complexe facteur
+
+242
+00:16:20,280 --> 00:16:24,140
+intrinsèque vitamine B12 est ensuite absorbé au niveau
+
+243
+00:16:24,140 --> 00:16:27,120
+de l'évian La vitamine B12 est stockée
+
+244
+00:16:27,120 --> 00:16:29,260
+au niveau du foie et est capable d
+
+245
+00:16:29,260 --> 00:16:31,500
+'assurer les besoins de l'organisme pendant 3
+
+246
+00:16:31,500 --> 00:16:34,060
+à 4 ans Dans la maladie de Birmer,
+
+247
+00:16:34,220 --> 00:16:37,280
+le déficit en facteur intrinsèque est lié à
+
+248
+00:16:37,280 --> 00:16:42,080
+une gastrite auto-immune avec anticorps antifacteurs intrinsèques
+
+249
+00:16:42,080 --> 00:16:48,440
+et anticorps anticellulaires barriétales gastriques et infiltra l
+
+250
+00:16:48,440 --> 00:16:54,360
+'info plasmocytère Cette maladie de Birmer est une
+
+251
+00:16:54,360 --> 00:16:56,880
+maladie auto-immune qui s'observe au-delà
+
+252
+00:16:56,880 --> 00:16:59,840
+de la cinquantaine chez la femme Elle est
+
+253
+00:16:59,840 --> 00:17:02,560
+souvent associée à de nombreux désordres auto-humains
+
+254
+00:17:02,560 --> 00:17:06,200
+comme le diabète, la dysthyroïdie, le vitigo ou
+
+255
+00:17:06,200 --> 00:17:09,460
+bien le syndrome de Sjögren L'évolution de
+
+256
+00:17:09,460 --> 00:17:11,599
+la maladie est marquée au long cours par
+
+257
+00:17:11,599 --> 00:17:15,500
+le risque de développer des néoplasmes gastriques comme
+
+258
+00:17:15,500 --> 00:17:19,060
+les adénocarcinomes, des lymphomes ou bien des tumeurs
+
+259
+00:17:19,060 --> 00:17:22,460
+carcinoïdes Donc il est recommandé d'effectuer une
+
+260
+00:17:22,460 --> 00:17:28,080
+surveillance endoscopique avec des biopsies multiples chaque 3
+
+261
+00:17:28,080 --> 00:17:33,300
+ans Concernant les carences d'apport et malabsorption
+
+262
+00:17:33,300 --> 00:17:36,680
+en vitamine B12 La carence d'apport se
+
+263
+00:17:36,680 --> 00:17:39,520
+limite à de rares cas de régime d
+
+264
+00:17:39,520 --> 00:17:43,780
+'exclusion stricte de type végétalien Chez l'adulte,
+
+265
+00:17:43,920 --> 00:17:47,640
+les gastrectomies ainsi que les résictions chirurgicales du
+
+266
+00:17:47,640 --> 00:17:51,160
+grain terminal sont les éthiologies classiques de malabsorption
+
+267
+00:17:51,160 --> 00:17:55,440
+de la vitamine B12 L'éthiologie la plus
+
+268
+00:17:55,440 --> 00:18:00,140
+fréquente de malabsorption des covalamines, c'est la
+
+269
+00:18:00,140 --> 00:18:07,440
+pancréatite chronique alcoolique Alors concernant les causes des
+
+270
+00:18:07,440 --> 00:18:10,420
+carences en folate La principale cause, c'est
+
+271
+00:18:10,420 --> 00:18:14,220
+l'insuffisance d'apport alimentaire Les capacités physiologiques
+
+272
+00:18:14,220 --> 00:18:17,480
+de stockage d'acide folique n'assurent plus,
+
+273
+00:18:17,620 --> 00:18:20,060
+en effet, une réserve de 4 mois expliquant
+
+274
+00:18:20,060 --> 00:18:23,140
+l'extrême sensibilité à tout défaut d'apport
+
+275
+00:18:23,140 --> 00:18:26,200
+Les sujets les plus touchés sont les éthioliques
+
+276
+00:18:26,200 --> 00:18:29,680
+chroniques les patients âgés et les femmes enceintes
+
+277
+00:18:29,680 --> 00:18:35,500
+La maladie celiaque, les résictions chirurgicales et la
+
+278
+00:18:35,500 --> 00:18:38,780
+prise de certains médicaments comme le methotrexate, le
+
+279
+00:18:38,780 --> 00:18:43,920
+coprimoxazole sont également des causes classiques de déficit
+
+280
+00:18:43,920 --> 00:18:48,960
+en folate Sur le plan thérapeutique l'erreur
+
+281
+00:18:48,960 --> 00:18:50,800
+à ne pas commettre, c'est de faire
+
+282
+00:18:50,800 --> 00:18:54,300
+transfuser un malade anémique avant d'avoir compris
+
+283
+00:18:54,300 --> 00:18:57,880
+le mécanisme de l'anémie Dans le cadre
+
+284
+00:18:57,880 --> 00:19:02,040
+des anémies macrocytaires carentielles l'urgence transfusionnelle est
+
+285
+00:19:02,040 --> 00:19:04,600
+en général moindre vu que l'anémie est
+
+286
+00:19:04,600 --> 00:19:09,140
+d'installation progressive Chez les sujets âgés parfois
+
+287
+00:19:09,140 --> 00:19:11,680
+il y a un risque de décompensation cardiaque
+
+288
+00:19:11,680 --> 00:19:16,760
+qui nécessite une transfusion en urgence Un réflexe,
+
+289
+00:19:16,860 --> 00:19:19,740
+il est exceptionnel d'avoir à transfuser des
+
+290
+00:19:19,740 --> 00:19:24,320
+anémies mégaloplastiques car elles sont bien supportées En
+
+291
+00:19:24,320 --> 00:19:26,960
+cas de nécessité, par exemple, de souffrance myocardique
+
+292
+00:19:26,960 --> 00:19:31,020
+la transfusion doit se faire très lentement avec
+
+293
+00:19:31,020 --> 00:19:35,680
+l'injection du furosimide en intraveineux car elle
+
+294
+00:19:35,680 --> 00:19:39,140
+est fréquemment mal supportée en raison de la
+
+295
+00:19:39,140 --> 00:19:44,380
+surcharge volumique En dehors de la transfusion la
+
+296
+00:19:44,380 --> 00:19:48,360
+supplémentation vitaminique et le traitement étiologique sont les
+
+297
+00:19:48,360 --> 00:19:51,100
+deux volets essentiels du traitement de fond de
+
+298
+00:19:51,100 --> 00:19:56,260
+toute anémie carentielle En cas de carence par
+
+299
+00:19:56,260 --> 00:19:59,280
+vitamine B12 l'administration se fait par voie
+
+300
+00:19:59,280 --> 00:20:02,960
+intramusculaire Exemple, on donne de l'hydroxo-5
+
+301
+00:20:02,960 --> 00:20:06,100
+-huile une injection par jour pendant une semaine
+
+302
+00:20:06,100 --> 00:20:08,880
+puis une injection par semaine pendant un mois
+
+303
+00:20:08,880 --> 00:20:12,020
+puis une injection par mois à vie Et
+
+304
+00:20:12,020 --> 00:20:15,380
+à retenir que la supplémentation en vitamine B12
+
+305
+00:20:15,380 --> 00:20:21,240
+provoque une coloration rouge des urines En ce
+
+306
+00:20:21,240 --> 00:20:23,820
+qui concerne la carence en acide folique une
+
+307
+00:20:23,820 --> 00:20:25,840
+dose de 1 à 5 mg par jour
+
+308
+00:20:25,840 --> 00:20:28,540
+est nécessaire pour une durée de 3 à
+
+309
+00:20:28,540 --> 00:20:33,040
+6 mois L'hémogramme se normalise généralement entre
+
+310
+00:20:33,040 --> 00:20:36,880
+6 à 8 semaines Enfin, il faut souligner
+
+311
+00:20:36,880 --> 00:20:41,880
+qu'un régime alimentaire quantitativement et qualitativement équilibré
+
+312
+00:20:43,020 --> 00:20:47,040
+reste le seul moyen de prévenir la survenue
+
+313
+00:20:47,040 --> 00:20:52,760
+d'anémies carentielles d'origine nutritionnelle Particulièrement pour
+
+314
+00:20:52,760 --> 00:20:56,100
+la maladie de Birmer une fibroscopie gastrique sera
+
+315
+00:20:56,100 --> 00:21:00,620
+programmée tous les 3 ans pour rechercher un
+
+316
+00:21:00,620 --> 00:21:07,660
+éventuel cancer gastrique Donc, attention L'administration de
+
+317
+00:21:07,660 --> 00:21:10,900
+FOLAC à un patient porteur d'une carence
+
+318
+00:21:10,900 --> 00:21:15,280
+en vitamine B12 peut aggraver les troubles neurologiques
+
+319
+00:21:15,280 --> 00:21:22,420
+et entraîner des dommages neurologiques irréversibles Donc, ce
+
+320
+00:21:22,420 --> 00:21:23,960
+qu'il faut retenir c'est que les
+
+321
+00:21:23,960 --> 00:21:28,240
+anémies macrocytaires carentielles regroupent les anémies dues à
+
+322
+00:21:28,240 --> 00:21:31,280
+une carence en vitamine B12 appelée aussi cobalamine
+
+323
+00:21:31,280 --> 00:21:34,720
+et en acide folique, c'est-à-dire
+
+324
+00:21:34,720 --> 00:21:38,220
+la vitamine B9 Donc, le tableau clinique est
+
+325
+00:21:38,220 --> 00:21:41,020
+pauvre il associe un syndrome anémique des troubles
+
+326
+00:21:41,020 --> 00:21:45,140
+digestifs avec parfois des troubles neurologiques Les anémies
+
+327
+00:21:45,140 --> 00:21:49,760
+macrocytaires carentielles sont caractérisées par une anémie macrocytaire
+
+328
+00:21:49,760 --> 00:21:55,180
+qui est arégénérative associée à une mégaloblastose médulaire
+
+329
+00:21:55,180 --> 00:21:58,880
+lors de la réalisation du myogramme La carence
+
+330
+00:21:58,880 --> 00:22:01,960
+en vitamine B12 ou en FOLAC est confirmée
+
+331
+00:22:01,960 --> 00:22:06,020
+par le dosage vitaminique La maladie de Birmer
+
+332
+00:22:06,020 --> 00:22:08,940
+est une pathologie auto-immune caractérisée par une
+
+333
+00:22:08,940 --> 00:22:13,320
+malabsorption de cette vitamine B12 par tarissement de
+
+334
+00:22:13,320 --> 00:22:17,400
+la sécrétion en facteur intrinsèque et le traitement
+
+335
+00:22:17,400 --> 00:22:20,580
+des anémies carentielles est un traitement qui est
+
+336
+00:22:20,580 --> 00:22:25,260
+très facile Il repose sur la supplémentation vitaminique
+
+337
+00:22:25,260 --> 00:22:28,960
+et entraîne la guérison dans la majorité des
+
+338
+00:22:28,960 --> 00:22:29,140
+cas

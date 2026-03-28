@@ -1,0 +1,2971 @@
+1
+00:00:04,680 --> 00:00:08,140
+Bonjour, on va aborder l'imagerie des tumeurs
+
+2
+00:00:08,140 --> 00:00:09,740
+osseuses malignes.
+
+3
+00:00:11,750 --> 00:00:13,690
+Les objectifs de ce cours, c'est de
+
+4
+00:00:13,690 --> 00:00:15,830
+connaître les critères radiologiques d'une tumeur osseuse
+
+5
+00:00:15,830 --> 00:00:18,070
+maligne, ça c'est très important sur la
+
+6
+00:00:18,070 --> 00:00:18,850
+radiographie standard.
+
+7
+00:00:19,570 --> 00:00:21,590
+Il faut connaître l'âge de survenue, le
+
+8
+00:00:21,590 --> 00:00:24,590
+siège et l'aspect radiologique des principales tumeurs
+
+9
+00:00:24,590 --> 00:00:27,310
+malignes de l'os et bien sûr, à
+
+10
+00:00:27,310 --> 00:00:30,830
+chaque fois qu'on suspecte une tumeur osseuse
+
+11
+00:00:30,830 --> 00:00:33,890
+maligne, il faut connaître le bilan d'extension
+
+12
+00:00:33,890 --> 00:00:35,610
+radiologique de ces tumeurs.
+
+13
+00:00:36,630 --> 00:00:39,830
+Donc on va aborder le plan suivant, après
+
+14
+00:00:39,830 --> 00:00:43,670
+l'introduction, la clinique, des tumeurs osseuses malignes,
+
+15
+00:00:43,850 --> 00:00:46,110
+un rappel histologique et par la suite, on
+
+16
+00:00:46,110 --> 00:00:47,930
+va essayer de voir l'imagerie, donc les
+
+17
+00:00:47,930 --> 00:00:51,510
+éléments de diagnostic positif, le bilan d'extension
+
+18
+00:00:51,510 --> 00:00:54,610
+en imagerie et on va voir les principales
+
+19
+00:00:54,610 --> 00:01:00,450
+tumeurs malignes, primitives, les tumeurs malignes secondaires et
+
+20
+00:01:00,450 --> 00:01:02,030
+par la suite, on va conclure.
+
+21
+00:01:04,960 --> 00:01:07,210
+Les tumeurs osseuses malignes, ils correspondent à 0
+
+22
+00:01:07,210 --> 00:01:09,410
+,5 à 2% de l'ensemble de
+
+23
+00:01:09,410 --> 00:01:10,110
+tous les cancers.
+
+24
+00:01:11,210 --> 00:01:14,070
+Ils sont dominés par les tumeurs osseuses primitives
+
+25
+00:01:14,070 --> 00:01:16,490
+et les tumeurs secondaires, mais les tumeurs secondaires
+
+26
+00:01:16,490 --> 00:01:18,090
+constituent la grande partie.
+
+27
+00:01:20,310 --> 00:01:24,530
+Les tumeurs osseuses malignes constituent 0,5 à
+
+28
+00:01:24,530 --> 00:01:26,450
+2% de l'ensemble des cancers.
+
+29
+00:01:26,710 --> 00:01:29,210
+Ils sont dominés essentiellement par les métastases, par
+
+30
+00:01:29,210 --> 00:01:30,130
+les tumeurs secondaires.
+
+31
+00:01:31,230 --> 00:01:33,630
+Le pronostic en général est mauvais de ces
+
+32
+00:01:33,630 --> 00:01:34,070
+tumeurs.
+
+33
+00:01:35,070 --> 00:01:37,830
+Le diagnostic, il va reposer sur un ensemble
+
+34
+00:01:37,830 --> 00:01:41,970
+d'éléments épidémiologiques, cliniques dans l'âge, la
+
+35
+00:01:41,970 --> 00:01:44,770
+radiologie et bien sûr, le diagnostic final, il
+
+36
+00:01:44,770 --> 00:01:45,930
+est histopathologique.
+
+37
+00:01:47,810 --> 00:01:53,430
+Cliniquement, ces tumeurs peuvent se voir chez les
+
+38
+00:01:53,430 --> 00:01:58,270
+patients jeunes, chez les enfants et lorsqu'on
+
+39
+00:01:58,270 --> 00:02:01,110
+a des tumeurs chez des patients dans l
+
+40
+00:02:01,110 --> 00:02:03,250
+'âge inférieur à 5 ans, c'est beaucoup
+
+41
+00:02:03,250 --> 00:02:03,690
+plus.
+
+42
+00:02:03,690 --> 00:02:09,310
+Les localisations secondaires de neuroblastomes entre 5 et
+
+43
+00:02:09,310 --> 00:02:12,990
+20 ans, c'est essentiellement les ostéosarcomes et
+
+44
+00:02:12,990 --> 00:02:13,850
+les sarcomes de wing.
+
+45
+00:02:14,430 --> 00:02:16,490
+Supérieur à 40 ans et c'est unique,
+
+46
+00:02:16,670 --> 00:02:18,850
+c'est beaucoup plus le candrosarcome et si
+
+47
+00:02:18,850 --> 00:02:21,370
+c'est multiple, c'est les localisations secondaires
+
+48
+00:02:21,370 --> 00:02:22,730
+et le myelône.
+
+49
+00:02:23,610 --> 00:02:26,410
+Les manifestations cliniques des tumeurs osseuses malignes peuvent
+
+50
+00:02:26,410 --> 00:02:28,290
+se manifester sous forme d'une douleur locale,
+
+51
+00:02:29,590 --> 00:02:31,650
+une masse ou une tumefaction des parties molles,
+
+52
+00:02:32,130 --> 00:02:32,670
+la fièvre.
+
+53
+00:02:34,330 --> 00:02:36,710
+Il ne faut pas oublier que normalement la
+
+54
+00:02:36,710 --> 00:02:38,190
+fièvre, il faut qu'on pense à une
+
+55
+00:02:38,190 --> 00:02:39,930
+pathologie infectieuse mais il y a le sarcome
+
+56
+00:02:39,930 --> 00:02:41,430
+de wing qui peut se manifester par un
+
+57
+00:02:41,430 --> 00:02:42,030
+état fébrile.
+
+58
+00:02:43,150 --> 00:02:48,530
+Si le diagnostic se fait tardivement, ces tumeurs
+
+59
+00:02:48,530 --> 00:02:51,190
+peuvent se manifester par une altération de l
+
+60
+00:02:51,190 --> 00:02:51,630
+'état général.
+
+61
+00:02:52,830 --> 00:02:57,050
+Parfois la découverte peut être secondaire à une
+
+62
+00:02:57,050 --> 00:02:58,990
+fracture pathologique suite à un traumatisme.
+
+63
+00:02:59,830 --> 00:03:02,590
+Rarement la découverte est fortuite de ces tumeurs.
+
+64
+00:03:05,940 --> 00:03:10,800
+Le diagnostic positif, le diagnostic final est un
+
+65
+00:03:10,800 --> 00:03:12,400
+diagnostic qui est anatomopathologique.
+
+66
+00:03:12,520 --> 00:03:13,560
+Il ne faut pas oublier que le diagnostic
+
+67
+00:03:13,560 --> 00:03:15,160
+est anatomopathologique.
+
+68
+00:03:16,240 --> 00:03:21,960
+L'imagerie avec le siège et les éléments
+
+69
+00:03:21,960 --> 00:03:24,700
+épidémiologiques et cliniques vont nous orienter.
+
+70
+00:03:24,760 --> 00:03:27,320
+Mais le diagnostic final est anatomopathologique.
+
+71
+00:03:28,280 --> 00:03:31,700
+Cette étude va être faite suite à une
+
+72
+00:03:31,700 --> 00:03:34,360
+biopsie chirurgicale ou sous guidage radiologique.
+
+73
+00:03:35,120 --> 00:03:39,620
+Et bien sûr, même en histopathologie, la confrontation
+
+74
+00:03:39,620 --> 00:03:43,040
+aux éléments cliniques, aux éléments radiologiques, aux éléments
+
+75
+00:03:43,040 --> 00:03:46,300
+anapathes, c'est très important pour le diagnostic
+
+76
+00:03:46,300 --> 00:03:46,740
+final.
+
+77
+00:03:47,320 --> 00:03:49,080
+Et bien sûr, il ne faut pas oublier
+
+78
+00:03:49,080 --> 00:03:52,440
+que la biopsie doit être faite après le
+
+79
+00:03:52,440 --> 00:03:54,900
+bilan d'extension loco-régionale par l'IRM.
+
+80
+00:03:55,040 --> 00:03:56,660
+Parce que si on fait une biopsie et
+
+81
+00:03:56,660 --> 00:03:58,580
+par la suite on va faire l'IRM,
+
+82
+00:03:58,860 --> 00:04:01,420
+on va fausser les résultats de l'IRM.
+
+83
+00:04:03,250 --> 00:04:06,350
+Sur le plan anatomopathologique, on va se référer
+
+84
+00:04:06,350 --> 00:04:11,030
+à la récente classification de WHO, classification of
+
+85
+00:04:11,030 --> 00:04:15,510
+tumors born selon l'OMS.  Les tumeurs secondaires,
+
+86
+00:04:15,910 --> 00:04:17,529
+les métastases osseux sont les plus fréquentes.
+
+87
+00:04:17,529 --> 00:04:19,589
+Par la suite, on a les tumeurs primitives
+
+88
+00:04:19,589 --> 00:04:22,710
+dans les tumeurs cartilagineuses, le chondrosarcome.
+
+89
+00:04:23,090 --> 00:04:25,350
+L'ostéogénique, l'ostéosarcome.
+
+90
+00:04:25,750 --> 00:04:28,410
+Les tumeurs fibreuses dans le fibrosarcome.
+
+91
+00:04:28,450 --> 00:04:30,290
+Il y a les tumeurs hématopoïétiques dans le
+
+92
+00:04:30,290 --> 00:04:30,650
+myelôme.
+
+93
+00:04:30,710 --> 00:04:31,730
+Il y a les tumeurs riches en cellules
+
+94
+00:04:31,730 --> 00:04:34,350
+géantes dans la liste et les langues.
+
+95
+00:04:34,490 --> 00:04:35,230
+Et bien sûr, il ne faut pas oublier
+
+96
+00:04:35,230 --> 00:04:36,470
+le sarcome des huines.
+
+97
+00:04:36,550 --> 00:04:39,690
+On va essayer de voir les principales tumeurs
+
+98
+00:04:39,690 --> 00:04:41,150
+et les tumeurs les plus fréquentes.
+
+99
+00:04:41,930 --> 00:04:45,210
+L'imagerie est très importante pour la prise
+
+100
+00:04:45,210 --> 00:04:47,310
+en charge des tumeurs osseuses malignes.
+
+101
+00:04:48,390 --> 00:04:52,990
+Elle va participer au diagnostic positif de malignité
+
+102
+00:04:52,990 --> 00:04:56,190
+sur les clichés standards, notamment les incidences de
+
+103
+00:04:56,190 --> 00:04:57,210
+face et de profil.
+
+104
+00:04:58,010 --> 00:05:00,570
+Et parfois, si on n'arrive pas à
+
+105
+00:05:00,570 --> 00:05:03,610
+mieux analyser les lésions osseuses en radiographie standard,
+
+106
+00:05:03,870 --> 00:05:05,830
+on peut faire un complément par TDM.
+
+107
+00:05:05,830 --> 00:05:08,150
+Ces éléments vont être fournis, les éléments de
+
+108
+00:05:08,150 --> 00:05:11,050
+malignité, par la radiographie standard et ou la
+
+109
+00:05:11,050 --> 00:05:11,450
+TDM.
+
+110
+00:05:12,010 --> 00:05:14,330
+Le bilan d'extension locorégional, comme on l
+
+111
+00:05:14,330 --> 00:05:17,170
+'a vu, va reposer sur l'IRM.
+
+112
+00:05:17,510 --> 00:05:19,970
+La TDM va être réalisée si on ne
+
+113
+00:05:19,970 --> 00:05:22,650
+dispose pas d'IRM ou s'il y
+
+114
+00:05:22,650 --> 00:05:26,690
+a une contre-indication formelle à l'IRM.
+
+115
+00:05:27,230 --> 00:05:29,350
+Le bilan d'extension à distance, c'est
+
+116
+00:05:29,350 --> 00:05:33,490
+la TDM thoracique, la scintigraphie osseuse et l
+
+117
+00:05:33,490 --> 00:05:34,810
+'échographie abdominale.
+
+118
+00:05:34,810 --> 00:05:40,550
+Et la surveillance post-thérapeutique va être basée
+
+119
+00:05:40,550 --> 00:05:44,650
+essentiellement sur l'IRM et la TDM thoracique.
+
+120
+00:05:46,970 --> 00:05:51,630
+L'imagerie va participer au diagnostic positif, le
+
+121
+00:05:51,630 --> 00:05:53,150
+diagnostic de malignité.
+
+122
+00:05:53,710 --> 00:05:56,810
+Quels sont les critères de malignité sur la
+
+123
+00:05:56,810 --> 00:05:58,890
+radiographie standard et sur la TDM ?
+
+124
+00:05:58,890 --> 00:06:01,970
+Le premier élément, ce sont les modifications structurales
+
+125
+00:06:01,970 --> 00:06:02,250
+de l'os.
+
+126
+00:06:02,250 --> 00:06:05,250
+En général, les tumeurs osseuses malignes vont se
+
+127
+00:06:05,250 --> 00:06:08,390
+manifester sous forme d'une ostéolise géographique à
+
+128
+00:06:08,390 --> 00:06:11,610
+contour mal défini de type 1C, une ostéolise
+
+129
+00:06:11,610 --> 00:06:14,370
+perméative ou une ostéolise mitée.
+
+130
+00:06:15,770 --> 00:06:20,810
+Elle peut se manifester par une condensation ou
+
+131
+00:06:20,810 --> 00:06:22,590
+par un aspect mixte.
+
+132
+00:06:27,480 --> 00:06:30,620
+On peut avoir d'autres éléments sur la
+
+133
+00:06:30,620 --> 00:06:32,500
+radiographie standard et sur la TDM qui vont
+
+134
+00:06:32,500 --> 00:06:37,780
+nous orienter vers le caractère rapide, l'évolution
+
+135
+00:06:37,780 --> 00:06:41,540
+rapide et les signes d'agressivité, comme les
+
+136
+00:06:41,540 --> 00:06:44,840
+limites qui sont imprécises, l'augmentation rapide du
+
+137
+00:06:44,840 --> 00:06:45,440
+volume de tumeur.
+
+138
+00:06:45,600 --> 00:06:51,280
+Si on fait deux radiographies, la destruction et
+
+139
+00:06:51,280 --> 00:06:53,300
+la rupture de la corticale avec l'infiltration
+
+140
+00:06:53,300 --> 00:06:56,800
+des parties molles, la réaction périostée de type
+
+141
+00:06:56,800 --> 00:06:59,400
+maligne et agressive, de type purie, lamellaire et
+
+142
+00:06:59,400 --> 00:07:01,260
+réaction spiculée.
+
+143
+00:07:02,120 --> 00:07:05,020
+Et il ne faut pas oublier que le
+
+144
+00:07:05,020 --> 00:07:10,200
+principal diagnostic différentiel, c'est les infections qu
+
+145
+00:07:10,200 --> 00:07:11,500
+'il ne faut pas omettre.
+
+146
+00:07:11,860 --> 00:07:14,660
+Là, on a un exemple d'une tumeur
+
+147
+00:07:14,660 --> 00:07:18,280
+osseuse maligne qui se manifeste sur la radiographie
+
+148
+00:07:18,280 --> 00:07:21,620
+standard sous forme d'une ostéolise à limites
+
+149
+00:07:21,620 --> 00:07:23,480
+floues de type 1C.
+
+150
+00:07:23,480 --> 00:07:29,060
+Intéressant, l'extrémité inférieure du fémur, donc métaphyso
+
+151
+00:07:29,060 --> 00:07:38,160
+-épiphysaire, avec une réaction périostée discontinue, avec un
+
+152
+00:07:38,160 --> 00:07:39,340
+petit éperon d'occode.
+
+153
+00:07:39,520 --> 00:07:42,920
+On a tous les éléments qui orientent vers
+
+154
+00:07:42,920 --> 00:07:43,580
+la malignité.
+
+155
+00:07:44,340 --> 00:07:47,000
+Le type d'ostéolise et le type de
+
+156
+00:07:47,000 --> 00:07:48,300
+réaction périostée.
+
+157
+00:07:48,300 --> 00:07:55,020
+Un autre exemple de tumeur osseuse maligne, avec
+
+158
+00:07:55,020 --> 00:07:59,480
+une première radiographie qui a été faite le
+
+159
+00:07:59,480 --> 00:08:02,680
+mois de septembre 2015 et le 2e mars
+
+160
+00:08:02,680 --> 00:08:07,100
+2016, parce qu'on a fait tout le
+
+161
+00:08:07,100 --> 00:08:08,540
+bilan et le patient a été perdu, par
+
+162
+00:08:08,540 --> 00:08:10,900
+la suite il est revenu.
+
+163
+00:08:10,900 --> 00:08:14,600
+Devant l'augmentation rapide du processus tumoral, et
+
+164
+00:08:14,600 --> 00:08:17,600
+là on voit l'infiltration des parties molles,
+
+165
+00:08:17,700 --> 00:08:22,000
+l'augmentation rapide, 6 mois, une importante infiltration
+
+166
+00:08:22,000 --> 00:08:22,740
+des parties molles.
+
+167
+00:08:23,380 --> 00:08:25,580
+La tumeur se manifeste sous forme d'une
+
+168
+00:08:25,580 --> 00:08:29,640
+ostéolise de type 1C, avec des limites floues
+
+169
+00:08:29,640 --> 00:08:30,940
+épiphyso-métaphysaire.
+
+170
+00:08:31,120 --> 00:08:34,360
+Donc on a tous les éléments qui orientent
+
+171
+00:08:34,360 --> 00:08:35,919
+vers la malignité.
+
+172
+00:08:37,419 --> 00:08:42,299
+Un autre tumeur maligne qui se manifeste sous
+
+173
+00:08:42,299 --> 00:08:48,360
+forme mixte, lithique, mitée et ostéo-condensante, avec
+
+174
+00:08:48,360 --> 00:08:53,480
+réaction périostée purillamellaire et discontinue, éperon d'occode
+
+175
+00:08:53,480 --> 00:08:56,440
+main et spéculée feu d'herbe, avec une
+
+176
+00:08:56,440 --> 00:08:57,560
+infiltration des parties molles.
+
+177
+00:08:57,700 --> 00:08:59,580
+Donc on a tous les éléments qui orientent
+
+178
+00:08:59,580 --> 00:09:02,160
+vers la malignité et le caractère agressif du
+
+179
+00:09:02,160 --> 00:09:03,020
+processus tumoral.
+
+180
+00:09:05,140 --> 00:09:09,780
+Et bien sûr, comme on a vu, les
+
+181
+00:09:09,780 --> 00:09:11,800
+signes d'agressivité, c'est-à-dire les
+
+182
+00:09:11,800 --> 00:09:14,500
+modifications structurelles de l'os, sous forme d
+
+183
+00:09:14,500 --> 00:09:20,340
+'ostéolise de type 1C, l'ostéolise mitée et
+
+184
+00:09:20,340 --> 00:09:27,220
+perméative, les signes qui vont orienter vers le
+
+185
+00:09:27,220 --> 00:09:30,420
+caractère agressif comme les limites irrégulières, l'infiltration
+
+186
+00:09:30,420 --> 00:09:33,180
+des parties molles, l'augmentation rapide du volume
+
+187
+00:09:33,180 --> 00:09:35,020
+tumoral, et bien sûr on a un autre
+
+188
+00:09:35,020 --> 00:09:37,820
+élément, c'est les réactions périostées qui peuvent
+
+189
+00:09:37,820 --> 00:09:41,620
+être continues, purillamellaires, en bub d'oignon, discontinues,
+
+190
+00:09:42,060 --> 00:09:45,060
+avec un éperon d'occode main, spéculée perpendiculaire,
+
+191
+00:09:45,400 --> 00:09:46,220
+en feu d'herbe.
+
+192
+00:09:48,630 --> 00:09:51,390
+Et là on a quelques exemples qui objectivent
+
+193
+00:09:51,390 --> 00:09:56,110
+ces réactions périostées qui vont témoigner du caractère
+
+194
+00:09:56,110 --> 00:09:59,850
+malin et agressif, avec l'éperon d'occode
+
+195
+00:09:59,850 --> 00:10:04,490
+main sur la première radiographie et la réaction
+
+196
+00:10:04,490 --> 00:10:05,670
+purillamellaire.
+
+197
+00:10:06,990 --> 00:10:10,570
+L'envahissement des parties molles également est un
+
+198
+00:10:10,570 --> 00:10:14,550
+caractère de malignité, c'est le principal signe
+
+199
+00:10:14,550 --> 00:10:16,050
+de malignité parce qu'il témoigne de malignité,
+
+200
+00:10:16,190 --> 00:10:19,230
+il témoigne de l'extension loco-régionale du
+
+201
+00:10:19,230 --> 00:10:20,090
+processus tumoral.
+
+202
+00:10:20,190 --> 00:10:22,650
+C'est un signe tardif, secondaire à la
+
+203
+00:10:22,650 --> 00:10:25,070
+rupture de la corticale, et bien sûr parfois
+
+204
+00:10:25,070 --> 00:10:26,830
+on peut trouver qu'il va se manifester
+
+205
+00:10:26,830 --> 00:10:27,950
+sur la radiographie standard.
+
+206
+00:10:28,290 --> 00:10:30,150
+Pas une densification des parties molles, et parfois
+
+207
+00:10:30,150 --> 00:10:32,890
+on peut trouver des classifications qui peuvent nous
+
+208
+00:10:32,890 --> 00:10:34,930
+orienter vers la nature cartilagineuse.
+
+209
+00:10:36,270 --> 00:10:40,270
+Regardez ici, sur cette radiographie standard de l
+
+210
+00:10:40,270 --> 00:10:43,410
+'extrémité supérieure du fémur, qu'on a vu
+
+211
+00:10:43,410 --> 00:10:46,130
+tout à l'heure avec un processus tumoral
+
+212
+00:10:46,130 --> 00:10:55,970
+métaphysaire, et l
+
+213
+00:10:55,970 --> 00:10:58,150
+'autre exemple qu'on a vu tout à
+
+214
+00:10:58,150 --> 00:11:00,930
+l'heure avec importante infiltration des parties molles.
+
+215
+00:11:03,540 --> 00:11:09,280
+Après avoir analysé tous les éléments qui vont
+
+216
+00:11:09,280 --> 00:11:11,940
+nous orienter vers la radiographie standard et la
+
+217
+00:11:11,940 --> 00:11:14,560
+TDM, qui vont nous orienter vers les signes
+
+218
+00:11:14,560 --> 00:11:19,100
+de malignité, il faut faire une étude globale,
+
+219
+00:11:19,200 --> 00:11:21,540
+une analyse globale, qui va nous orienter vers
+
+220
+00:11:21,540 --> 00:11:23,040
+le diagnostic éthiologique.
+
+221
+00:11:23,200 --> 00:11:25,900
+Et cette orientation diagnostique va se reposer sur
+
+222
+00:11:25,900 --> 00:11:27,140
+l'âge du patient, qu'on a vu
+
+223
+00:11:27,140 --> 00:11:29,260
+un élément qui est très important, sur le
+
+224
+00:11:29,260 --> 00:11:30,620
+nombre de lésions, si c'est une lésion
+
+225
+00:11:30,620 --> 00:11:32,540
+qui est unique, on aura un problème de
+
+226
+00:11:32,540 --> 00:11:34,760
+lésion unique, de diagnostic éthiologique.
+
+227
+00:11:35,280 --> 00:11:37,700
+Si la lésion est multiple en général, il
+
+228
+00:11:37,700 --> 00:11:39,620
+peut s'agir de localisation secondaire, d'une
+
+229
+00:11:39,620 --> 00:11:41,720
+maladie de galère, d'une hémopathie maligne.
+
+230
+00:11:41,720 --> 00:11:43,900
+Le siège, également, est un élément qui est
+
+231
+00:11:43,900 --> 00:11:44,740
+très important.
+
+232
+00:11:44,940 --> 00:11:46,940
+Les oplas et les ocours, c'est essentiellement
+
+233
+00:11:46,940 --> 00:11:49,020
+les chondrosarcomes et les sarcomes d'Ewing.
+
+234
+00:11:49,300 --> 00:11:51,800
+En général, les olons, c'est les ostéosarcomes
+
+235
+00:11:51,800 --> 00:11:52,740
+et les sarcomes d'Ewing.
+
+236
+00:11:53,140 --> 00:11:55,360
+Les épiphyses, le siège épiphysaire, c'est les
+
+237
+00:11:55,360 --> 00:11:57,820
+tumeurs à cellules géantes et les chondrosarcomes.
+
+238
+00:11:58,400 --> 00:12:02,300
+La métaphyse, le siège métaphysaire, c'est l
+
+239
+00:12:02,300 --> 00:12:06,020
+'ostéosarcome, et le siège daphysaire, c'est le
+
+240
+00:12:06,020 --> 00:12:07,240
+sarcome d'Ewing.
+
+241
+00:12:07,660 --> 00:12:09,860
+Donc, le siège est un élément qui est
+
+242
+00:12:09,860 --> 00:12:10,700
+très important.
+
+243
+00:12:10,700 --> 00:12:12,460
+Et bien sûr, il y a d'autres
+
+244
+00:12:12,460 --> 00:12:15,220
+éléments qui vont nous orienter vers l'orientation
+
+245
+00:12:15,220 --> 00:12:16,000
+diagnostique.
+
+246
+00:12:16,460 --> 00:12:20,900
+À côté de l'âge du patient du
+
+247
+00:12:20,900 --> 00:12:23,400
+siège, il y a la matrice tumorale.
+
+248
+00:12:23,700 --> 00:12:26,580
+L'analyse de la matrice est une étape
+
+249
+00:12:26,580 --> 00:12:29,420
+très importante pour l'orientation diagnostique de ces
+
+250
+00:12:29,420 --> 00:12:31,320
+tumeurs malignes et des tumeurs en général.
+
+251
+00:12:31,780 --> 00:12:34,180
+En général, lorsqu'on a des calcifications en
+
+252
+00:12:34,180 --> 00:12:38,040
+plage homogènes, ça va nous orienter vers un
+
+253
+00:12:38,040 --> 00:12:38,700
+stroma osseux.
+
+254
+00:12:38,700 --> 00:12:40,880
+Donc, c'est une tumeur qui est ostéogénique
+
+255
+00:12:40,880 --> 00:12:42,060
+comme l'ostéosarcome.
+
+256
+00:12:42,320 --> 00:12:44,640
+Si on a des calcifications floconneuses, en pop
+
+257
+00:12:44,640 --> 00:12:46,640
+-corn, elle va nous orienter vers un stroma
+
+258
+00:12:46,640 --> 00:12:50,000
+qui est cartilagineux comme le chondrosarcome.
+
+259
+00:12:51,750 --> 00:12:55,450
+Et après avoir bien sûr vu tous ces
+
+260
+00:12:55,450 --> 00:12:59,710
+éléments sur la radiographie standard et ou la
+
+261
+00:12:59,710 --> 00:13:01,870
+TDM, si on fait une TDM, lorsqu'on
+
+262
+00:13:01,870 --> 00:13:09,110
+va soulever cette notion de lésion maligne, de
+
+263
+00:13:09,110 --> 00:13:11,170
+tumeur maligne sur les éléments qu'on a
+
+264
+00:13:11,170 --> 00:13:15,810
+vus, et après avoir fait une étude d
+
+265
+00:13:15,810 --> 00:13:19,750
+'ensemble qui va se baser sur l'âge,
+
+266
+00:13:20,210 --> 00:13:24,010
+sur le siège, la matrice tumorale et les
+
+267
+00:13:24,010 --> 00:13:28,990
+caractères et l'aspect radiologique, on va conclure
+
+268
+00:13:28,990 --> 00:13:29,930
+à une tumeur maligne.
+
+269
+00:13:30,050 --> 00:13:31,550
+Par la suite, il faut qu'on réalise
+
+270
+00:13:31,550 --> 00:13:33,570
+le bilan d'extension loco-régionale.
+
+271
+00:13:33,630 --> 00:13:36,130
+Et on a dit que le bilan d
+
+272
+00:13:36,130 --> 00:13:40,170
+'extension loco-régionale va se baser essentiellement sur
+
+273
+00:13:40,170 --> 00:13:40,670
+l'IRM.
+
+274
+00:13:40,950 --> 00:13:43,370
+La TDM va être réalisée si l'IRM
+
+275
+00:13:43,370 --> 00:13:44,610
+n'est pas disponible ou il y a
+
+276
+00:13:44,610 --> 00:13:46,650
+une contre-indication formelle à l'IRM.
+
+277
+00:13:46,930 --> 00:13:49,170
+Et bien sûr, toujours l'IRM doit être
+
+278
+00:13:49,170 --> 00:13:51,890
+réalisée avant la biopsie pour ne pas fausser
+
+279
+00:13:51,890 --> 00:13:53,310
+les résultats d'IRM.
+
+280
+00:13:54,630 --> 00:13:57,970
+Donc, le bilan d'extension loco-régionale basé
+
+281
+00:13:57,970 --> 00:13:59,050
+sur l'IRM, qu'est-ce qu'il
+
+282
+00:13:59,050 --> 00:14:01,110
+va chercher en premier ?
+
+283
+00:14:01,110 --> 00:14:04,390
+Il va chercher une extension endomédulaire, une extension
+
+284
+00:14:04,390 --> 00:14:05,570
+centraux-médulaire.
+
+285
+00:14:05,930 --> 00:14:08,570
+Ça, c'est très important pour la résection
+
+286
+00:14:08,570 --> 00:14:09,530
+chirurgicale.
+
+287
+00:14:09,930 --> 00:14:12,750
+Donc, il faut qu'on cherche également les
+
+288
+00:14:12,750 --> 00:14:16,810
+skip-metas, c'est-à-dire les localisations
+
+289
+00:14:16,810 --> 00:14:20,290
+secondaires intraosseuses qui vont sauter, donc à distance
+
+290
+00:14:20,290 --> 00:14:21,450
+de la tumeur primitive.
+
+291
+00:14:21,870 --> 00:14:23,510
+À l'IRM, elle prend tout son intérêt.
+
+292
+00:14:24,110 --> 00:14:26,470
+Et la séquence idéale, c'est la séquence
+
+293
+00:14:26,470 --> 00:14:29,510
+T1 en coupe longitudinale.
+
+294
+00:14:30,570 --> 00:14:33,070
+Les autres éléments qu'il faut analyser en
+
+295
+00:14:33,070 --> 00:14:34,670
+IRM, c'est l'extension aux parties moelles.
+
+296
+00:14:34,970 --> 00:14:36,370
+Donc, il faut rechercher une extension vers les
+
+297
+00:14:36,370 --> 00:14:36,870
+parties moelles.
+
+298
+00:14:37,190 --> 00:14:38,410
+Il faut les détailler et les tendons.
+
+299
+00:14:38,910 --> 00:14:41,910
+Il faut rechercher une atteinte vasculos-nerveuse.
+
+300
+00:14:41,990 --> 00:14:42,930
+Ça, c'est un élément qui est très
+
+301
+00:14:42,930 --> 00:14:45,810
+important pour la programmation de l'acte chirurgical.
+
+302
+00:14:45,810 --> 00:14:48,190
+Il faut rechercher une extension vers l'épiphyse,
+
+303
+00:14:48,650 --> 00:14:50,890
+vers le cartilage de conjugaison, s'il n
+
+304
+00:14:50,890 --> 00:14:52,550
+'y a pas de saudure de cartilage de
+
+305
+00:14:52,550 --> 00:14:52,970
+conjugaison.
+
+306
+00:14:53,110 --> 00:14:56,310
+Et bien sûr, une extension intra-articulaire vers
+
+307
+00:14:56,310 --> 00:14:59,310
+l'astinoviale et vers les extrémités osseuses.
+
+308
+00:15:02,110 --> 00:15:06,990
+Ici, on a un exemple d'une IRM
+
+309
+00:15:06,990 --> 00:15:10,150
+qui a été réalisée dans le cadre du
+
+310
+00:15:10,150 --> 00:15:12,170
+bilan d'extension locoregien d'une tumeur osseuse
+
+311
+00:15:12,170 --> 00:15:12,570
+maligne.
+
+312
+00:15:12,570 --> 00:15:16,330
+Et on voit ici la tumeur qui siège
+
+313
+00:15:16,330 --> 00:15:18,890
+la première image qui montre une séquence T1
+
+314
+00:15:18,890 --> 00:15:22,150
+sagittale, avec la tumeur au nippon signal T1
+
+315
+00:15:22,150 --> 00:15:23,930
+qui siège au niveau de l'extrémité supérieure,
+
+316
+00:15:24,030 --> 00:15:26,810
+la métaphyse, l'épiphyse et la métaphyse et
+
+317
+00:15:26,810 --> 00:15:30,850
+la diaphyse supérieure du tibia, avec une infiltration
+
+318
+00:15:30,850 --> 00:15:31,530
+des parties moelles.
+
+319
+00:15:31,830 --> 00:15:34,190
+Et on voit d'autres tumeurs au niveau
+
+320
+00:15:34,190 --> 00:15:37,150
+de la diaphyse en rapport avec l'esquipe
+
+321
+00:15:37,150 --> 00:15:37,890
+métastase.
+
+322
+00:15:37,890 --> 00:15:42,150
+Donc la deuxième image, elle montre l'extension
+
+323
+00:15:42,150 --> 00:15:47,530
+ondomédulaire et l'infiltration des parties moelles.
+
+324
+00:15:50,650 --> 00:15:53,330
+Mais il ne faut pas oublier que l
+
+325
+00:15:53,330 --> 00:15:56,550
+'IRM, certes elle est très intéressante pour le
+
+326
+00:15:56,550 --> 00:15:59,330
+bilan d'extension locoregionale, pour l'infiltration au
+
+327
+00:15:59,330 --> 00:16:03,850
+niveau des parties moelles vasculonerveuses, l'infiltration et
+
+328
+00:16:03,850 --> 00:16:06,710
+l'extension au niveau de l'épiphyse et
+
+329
+00:16:06,710 --> 00:16:10,050
+l'articulation, mais elle reste quand même insuffisante
+
+330
+00:16:10,050 --> 00:16:11,670
+pour l'analyse des calcifications.
+
+331
+00:16:12,210 --> 00:16:15,270
+Elle est très insuffisante pour analyser l'atteinte
+
+332
+00:16:15,270 --> 00:16:17,450
+des corticales et la mise en évidence des
+
+333
+00:16:17,450 --> 00:16:18,250
+réactions périostées.
+
+334
+00:16:18,390 --> 00:16:20,970
+Donc si on veut analyser les corticales, si
+
+335
+00:16:20,970 --> 00:16:23,030
+on veut faire une analyse de la réaction
+
+336
+00:16:23,030 --> 00:16:25,370
+périostée, la TDM prend tout son intérêt.
+
+337
+00:16:26,490 --> 00:16:28,590
+Donc après avoir vu le bilan d'extension
+
+338
+00:16:28,590 --> 00:16:32,310
+locoregionale qui va être réalisé essentiellement par l
+
+339
+00:16:32,310 --> 00:16:35,110
+'IRM, à défaut de la TDM, il y
+
+340
+00:16:35,110 --> 00:16:36,810
+a le bilan d'extension à distance.
+
+341
+00:16:37,430 --> 00:16:39,210
+Le bilan d'extension à distance va reposer
+
+342
+00:16:39,210 --> 00:16:41,010
+essentiellement sur la TDM thoracique.
+
+343
+00:16:41,950 --> 00:16:43,990
+La TDM thoracique lorsqu'on suspecte un sarcombe
+
+344
+00:16:43,990 --> 00:16:47,050
+osseux, c'est une urgence, il faut réaliser
+
+345
+00:16:47,050 --> 00:16:47,690
+cet examen.
+
+346
+00:16:48,270 --> 00:16:51,050
+L'échographie abdominale et la scintigraphie osseuse.
+
+347
+00:16:52,350 --> 00:16:54,930
+Le bilan d'extension à distance, on a
+
+348
+00:16:54,930 --> 00:16:57,650
+dit la TDM thoracique, l'échographie abdominale et
+
+349
+00:16:57,650 --> 00:16:58,830
+la scintigraphie osseuse.
+
+350
+00:16:59,580 --> 00:17:02,210
+Là on a un exemple d'une tumeur
+
+351
+00:17:02,210 --> 00:17:10,690
+osseuse diaphysaire maligne, mixte métaphysodiaphysaire, lithique et
+
+352
+00:17:10,690 --> 00:17:13,890
+ostéocondensante avec une importante infiltration des parties molles.
+
+353
+00:17:14,650 --> 00:17:19,230
+L'IRM montre cette tumeur avec une meilleure
+
+354
+00:17:19,230 --> 00:17:23,349
+visualisation de l'extension, centromédulaire l'extension au
+
+355
+00:17:23,349 --> 00:17:24,250
+niveau des parties molles.
+
+356
+00:17:24,250 --> 00:17:27,730
+Le caractère hétérogène et hémorragique de la tumeur
+
+357
+00:17:27,730 --> 00:17:29,250
+avec l'esquive métastase.
+
+358
+00:17:30,450 --> 00:17:32,210
+Et la TDM thoracique lorsqu'elle a été
+
+359
+00:17:32,210 --> 00:17:34,710
+réalisée lors du bilan initial, elle a trouvé
+
+360
+00:17:34,710 --> 00:17:37,810
+multiples lésions pulmonaires dans le lachet de ballon.
+
+361
+00:17:40,380 --> 00:17:44,380
+Maintenant on va passer aux différents tumeurs malignes
+
+362
+00:17:44,380 --> 00:17:45,240
+primitifs osseuses.
+
+363
+00:17:45,340 --> 00:17:46,980
+Donc on va essayer de voir les principales
+
+364
+00:17:46,980 --> 00:17:48,840
+tumeurs, les tumeurs les plus fréquentes.
+
+365
+00:17:52,740 --> 00:17:55,800
+On a vu tout à l'heure, selon
+
+366
+00:17:55,800 --> 00:17:59,880
+le point de départ de ces tumeurs sur
+
+367
+00:17:59,880 --> 00:18:01,940
+le plan anapathes, il y a les chondrosarcomes,
+
+368
+00:18:01,980 --> 00:18:05,700
+les ostéosarcomes, les fibrosarcomes, les myelômes, le sarcome
+
+369
+00:18:05,700 --> 00:18:07,820
+des Ouïgues, la liste est longue.
+
+370
+00:18:07,940 --> 00:18:11,120
+Mais on va essayer de voir les tumeurs
+
+371
+00:18:11,120 --> 00:18:12,820
+les plus fréquentes et on va commencer par
+
+372
+00:18:12,820 --> 00:18:13,640
+l'ostéosarcome.
+
+373
+00:18:14,460 --> 00:18:19,160
+L'OMS, ils ont classé l'ostéosarcome, il
+
+374
+00:18:19,160 --> 00:18:22,840
+y a plusieurs types, dans l'ostéosarcome conventionnel
+
+375
+00:18:22,840 --> 00:18:23,540
+qui est le plus fréquent.
+
+376
+00:18:23,620 --> 00:18:24,420
+Bien sûr il y en a d'autres
+
+377
+00:18:24,420 --> 00:18:27,780
+comme l'ostéosarcome telangiectasique, à petites cellules, secondaire,
+
+378
+00:18:27,900 --> 00:18:29,020
+parostéale, épirostéale.
+
+379
+00:18:29,380 --> 00:18:32,580
+On va essayer de s'intéresser à l
+
+380
+00:18:32,580 --> 00:18:35,020
+'ostéosarcome conventionnel ou habituel.
+
+381
+00:18:35,900 --> 00:18:38,300
+L'ostéosarcome conventionnel, c'est la deuxième tumeur
+
+382
+00:18:38,300 --> 00:18:40,580
+osseuse primitive la plus fréquente de l'os.
+
+383
+00:18:40,580 --> 00:18:43,960
+Il se voit en général moins de 30
+
+384
+00:18:43,960 --> 00:18:44,140
+ans.
+
+385
+00:18:45,000 --> 00:18:46,660
+Si on le voit chez les patients âgés
+
+386
+00:18:46,660 --> 00:18:49,000
+en général, il va être secondaire à une
+
+387
+00:18:49,000 --> 00:18:50,900
+irradiation dans l'enfance.
+
+388
+00:18:52,580 --> 00:18:55,160
+C'est une tumeur qui se caractérise par
+
+389
+00:18:55,160 --> 00:18:56,920
+une prédominance masculine.
+
+390
+00:18:57,680 --> 00:18:59,940
+Le point de départ de l'ostéosarcome conventionnel,
+
+391
+00:18:59,980 --> 00:19:01,240
+c'est la métaphyse des zones orales.
+
+392
+00:19:01,360 --> 00:19:04,340
+Dans 60% des cas approximativement, il va
+
+393
+00:19:04,340 --> 00:19:05,920
+siéger au niveau du fémur et du tibia
+
+394
+00:19:05,920 --> 00:19:07,940
+et dans 15% des cas au niveau
+
+395
+00:19:07,940 --> 00:19:09,440
+de l'humérus.
+
+396
+00:19:11,060 --> 00:19:14,520
+En imagerie, l'ostéosarcome conventionnel, il va siéger
+
+397
+00:19:14,520 --> 00:19:16,700
+en général le plus souvent près du genou,
+
+398
+00:19:16,960 --> 00:19:17,660
+loin du coude.
+
+399
+00:19:18,640 --> 00:19:20,540
+Le siège métaphysaire est centré.
+
+400
+00:19:21,300 --> 00:19:22,800
+Par la suite, l'évolution va se faire
+
+401
+00:19:22,800 --> 00:19:25,860
+vers la diaphyse, lorsqu'il va augmenter de
+
+402
+00:19:25,860 --> 00:19:27,580
+volume et de taille.
+
+403
+00:19:28,060 --> 00:19:30,400
+La lésion sur le plan radiologique est mixte
+
+404
+00:19:30,400 --> 00:19:31,860
+dans 75% des cas.
+
+405
+00:19:32,380 --> 00:19:33,720
+Elle peut être lithique pure, mais elle est
+
+406
+00:19:33,720 --> 00:19:35,120
+rarement lithique.
+
+407
+00:19:35,120 --> 00:19:40,000
+Et elle peut être ostéocondensante, pure, nuageuse, avec
+
+408
+00:19:40,000 --> 00:19:42,900
+une effitration ostéocondensante des parties molles.
+
+409
+00:19:44,180 --> 00:19:48,300
+L'ostéosarcome conventionnel, il se manifeste par une
+
+410
+00:19:48,300 --> 00:19:50,140
+matrice ossifiante.
+
+411
+00:19:50,280 --> 00:19:51,500
+C'est une tumeur maligne, donc on aura
+
+412
+00:19:51,500 --> 00:19:54,120
+une rupture de la corticale avec une effitration
+
+413
+00:19:54,120 --> 00:19:55,160
+des parties molles.
+
+414
+00:19:56,700 --> 00:19:58,080
+Le périoste, il va réagir.
+
+415
+00:19:58,080 --> 00:19:59,340
+Si c'est une tumeur maligne, on aura
+
+416
+00:19:59,340 --> 00:20:03,840
+des réactions périostées de type urinalmélaire ou éospiculaire.
+
+417
+00:20:04,320 --> 00:20:07,580
+Parfois rempu avec un épreunt de codemains, donc
+
+418
+00:20:07,580 --> 00:20:10,800
+réaction périostée discontinue avec épreunt de codemains.
+
+419
+00:20:11,400 --> 00:20:14,460
+Et on aura bien sûr une effitration des
+
+420
+00:20:14,460 --> 00:20:16,300
+parties molles avec une augmentation de la densité
+
+421
+00:20:16,300 --> 00:20:16,960
+des parties molles.
+
+422
+00:20:17,240 --> 00:20:18,860
+Et parfois on peut trouver au niveau de
+
+423
+00:20:18,860 --> 00:20:21,960
+ces parties molles des calcifications ostéogéniques.
+
+424
+00:20:22,820 --> 00:20:26,460
+On a l'exemple d'un ostéosarcome de
+
+425
+00:20:26,460 --> 00:20:29,400
+l'extrémité inférieure du tibia, donc de siège
+
+426
+00:20:29,400 --> 00:20:36,000
+métaphysodiaphysaire, mixte, mité et ostéocondensant, avec réaction périostée
+
+427
+00:20:36,000 --> 00:20:38,960
+en feu d'herbe, et importante infiltration des
+
+428
+00:20:38,960 --> 00:20:40,720
+parties molles, qu'on voit très bien sur
+
+429
+00:20:40,720 --> 00:20:42,620
+la radiographie standard, mais on voit très bien
+
+430
+00:20:42,620 --> 00:20:44,080
+en IRM.
+
+431
+00:20:45,220 --> 00:20:50,620
+Un autre exemple d'un ostéosarcome métaphysodiaphysaire de
+
+432
+00:20:50,620 --> 00:20:56,800
+l'extrémité inférieure du fémur, lithique, mité et
+
+433
+00:20:56,800 --> 00:21:01,780
+ostéolyse de type 1C, avec réaction périostée discontinue,
+
+434
+00:21:02,240 --> 00:21:03,440
+infiltration des parties molles.
+
+435
+00:21:03,840 --> 00:21:07,580
+L'IRM montre bien ce processus lésionnel, avec
+
+436
+00:21:07,580 --> 00:21:10,480
+l'importante infiltration des parties molles, et elle
+
+437
+00:21:10,480 --> 00:21:13,580
+montre également les ski métastases à distance, qu
+
+438
+00:21:13,580 --> 00:21:15,080
+'on voit très bien en IRM.
+
+439
+00:21:15,420 --> 00:21:16,920
+On y peut signer sur la séquence T1,
+
+440
+00:21:17,000 --> 00:21:19,080
+qui vont se réhausser de manière modérée après
+
+441
+00:21:19,080 --> 00:21:22,020
+injection de produits de contraste.
+
+442
+00:21:22,760 --> 00:21:26,020
+Un autre exemple d'ostéosarcome, cette fois-ci,
+
+443
+00:21:26,440 --> 00:21:28,820
+il est ostéocondensant pur.
+
+444
+00:21:29,560 --> 00:21:31,760
+Le point de départ est métaphysaire avec une
+
+445
+00:21:31,760 --> 00:21:33,860
+extension vers l'épiphyse, donc on a une
+
+446
+00:21:33,860 --> 00:21:38,800
+lésion métaphysoépiphysaire supérieure de l'extrémité supérieure du
+
+447
+00:21:38,800 --> 00:21:41,940
+tibia, ostéocondensante avec une infiltration des parties molles,
+
+448
+00:21:42,380 --> 00:21:44,200
+très dense et nuageuse également.
+
+449
+00:21:46,040 --> 00:21:48,160
+L'essentiel de l'ostéosarcome, c'est une
+
+450
+00:21:48,160 --> 00:21:50,400
+tumeur en général qui se voit chez les
+
+451
+00:21:50,400 --> 00:21:51,960
+patients dans l'âge inférieur à 30 ans.
+
+452
+00:21:52,700 --> 00:21:53,920
+Beaucoup plus, c'est une tumeur qui va
+
+453
+00:21:53,920 --> 00:21:56,320
+siéger au niveau des os lents, de siège
+
+454
+00:21:56,320 --> 00:21:57,240
+métaphysaire.
+
+455
+00:21:57,240 --> 00:22:02,720
+Elle se caractérise dans la forme typique, elle
+
+456
+00:22:02,720 --> 00:22:04,800
+est mixte, mais elle peut être osciflante pure,
+
+457
+00:22:04,900 --> 00:22:06,380
+comme elle peut être lysite pure.
+
+458
+00:22:06,860 --> 00:22:07,840
+Et c'est une tumeur qui va se
+
+459
+00:22:07,840 --> 00:22:10,440
+caractériser par une importante infiltration des parties molles
+
+460
+00:22:10,440 --> 00:22:13,640
+avec une réaction périostée maligne, de type maligne.
+
+461
+00:22:15,320 --> 00:22:17,200
+La deuxième tumeur, c'est le sarcombe des
+
+462
+00:22:17,200 --> 00:22:17,360
+huines.
+
+463
+00:22:18,020 --> 00:22:21,920
+Le sarcombe des huines constitue 6% de
+
+464
+00:22:21,920 --> 00:22:24,480
+l'ensemble des tumeurs osseuses malignes et 3
+
+465
+00:22:24,480 --> 00:22:26,360
+% des cancers pédiatriques.
+
+466
+00:22:26,360 --> 00:22:30,700
+En général, il se voit entre 5 ans
+
+467
+00:22:30,700 --> 00:22:33,480
+et 25 ans et le pic de fréquence
+
+468
+00:22:33,480 --> 00:22:35,760
+est autour de l'âge de 10 ans.
+
+469
+00:22:36,180 --> 00:22:39,200
+C'est une tumeur qui prédomine beaucoup plus
+
+470
+00:22:39,200 --> 00:22:43,360
+chez le sexe masculin.
+
+471
+00:22:44,200 --> 00:22:45,700
+Le siège est ubiquitaire.
+
+472
+00:22:46,820 --> 00:22:48,080
+Lorsqu'il siège au niveau des os lents,
+
+473
+00:22:48,300 --> 00:22:50,080
+il va se localiser essentiellement.
+
+474
+00:22:51,080 --> 00:22:52,500
+Le point de départ, c'est la diaphyse
+
+475
+00:22:52,500 --> 00:22:55,420
+avec une extension possible vers la métaphyse.
+
+476
+00:22:55,420 --> 00:22:57,720
+C'est une tumeur qui est très agressive,
+
+477
+00:22:58,000 --> 00:23:01,880
+qui évolue rapidement et qui est rapidement métastatique.
+
+478
+00:23:04,250 --> 00:23:07,090
+C'est une tumeur sur le plan d
+
+479
+00:23:07,090 --> 00:23:11,230
+'imagerie qui a deux caractéristiques.
+
+480
+00:23:13,580 --> 00:23:17,140
+C'est l'ostéolyse pure.
+
+481
+00:23:17,520 --> 00:23:20,320
+C'est une matrice non ossifiante.
+
+482
+00:23:20,460 --> 00:23:22,540
+En général, elle va se manifester par une
+
+483
+00:23:22,540 --> 00:23:24,920
+ostéolyse géographique à compteur flot, de type 1C,
+
+484
+00:23:25,320 --> 00:23:27,560
+ou une ostéolyse imitée ou perméative.
+
+485
+00:23:27,560 --> 00:23:29,400
+Mais sans calcification, on ne trouve pas de
+
+486
+00:23:29,400 --> 00:23:30,000
+calcification.
+
+487
+00:23:30,600 --> 00:23:32,100
+C'est une tumeur qui évolue lentement.
+
+488
+00:23:32,260 --> 00:23:34,760
+Elle va remplir rapidement la corticale avec une
+
+489
+00:23:34,760 --> 00:23:38,140
+réaction périostée, lamellaire, purée lamellaire, spéculaire.
+
+490
+00:23:39,260 --> 00:23:41,580
+Et on aura une importante départie molle.
+
+491
+00:23:41,720 --> 00:23:43,520
+Dans les wings, en général, on aura une
+
+492
+00:23:43,520 --> 00:23:45,720
+importante infiltration des parties molles.
+
+493
+00:23:46,020 --> 00:23:47,320
+Ça, c'est un élément qui va nous
+
+494
+00:23:47,320 --> 00:23:48,220
+orienter vers les wings.
+
+495
+00:23:48,700 --> 00:23:51,400
+Le caractère de l'ostéolyse pure est l
+
+496
+00:23:51,400 --> 00:23:53,460
+'importante infiltration des parties molles.
+
+497
+00:23:53,460 --> 00:23:56,440
+L'infiltration est précoce et, en général, sans
+
+498
+00:23:56,440 --> 00:23:57,200
+calcification.
+
+499
+00:23:59,550 --> 00:24:01,730
+Le diagnostic différentiel va se faire avec les
+
+500
+00:24:01,730 --> 00:24:03,230
+métastases d'un neuroblastome.
+
+501
+00:24:03,690 --> 00:24:06,870
+Cette tumeur se voit chez les patients jeunes.
+
+502
+00:24:07,850 --> 00:24:10,690
+Le diagnostic peut se faire entre l'ostéosarcombe
+
+503
+00:24:10,690 --> 00:24:13,690
+dans sa forme lithique pure et, bien sûr,
+
+504
+00:24:13,870 --> 00:24:15,030
+l'ostéomyélite également.
+
+505
+00:24:17,360 --> 00:24:18,740
+Là, on a un exemple d'un sarcombe
+
+506
+00:24:18,740 --> 00:24:19,020
+des wings.
+
+507
+00:24:19,020 --> 00:24:20,820
+Regardez le caractère.
+
+508
+00:24:21,280 --> 00:24:25,660
+C'est un sarcombe des wings métaphysodiaphysaire de
+
+509
+00:24:25,660 --> 00:24:27,080
+l'extrémité inférieure du pérone.
+
+510
+00:24:27,180 --> 00:24:31,180
+On voit le caractère lithique pur sans calcification.
+
+511
+00:24:31,760 --> 00:24:33,820
+Importante infiltration des parties molles.
+
+512
+00:24:33,980 --> 00:24:37,480
+Deux caractères qui vont nous orienter vers le
+
+513
+00:24:37,480 --> 00:24:38,060
+sarcombe des wings.
+
+514
+00:24:38,140 --> 00:24:40,540
+Bien sûr, à côté de l'âge jeune
+
+515
+00:24:40,540 --> 00:24:41,160
+de ces patients.
+
+516
+00:24:42,420 --> 00:24:44,420
+Un autre cas d'un sarcombe des wings
+
+517
+00:24:44,420 --> 00:24:50,600
+avec une lésion métodiaphysaire du fémur lithique mitée
+
+518
+00:24:50,600 --> 00:24:54,600
+avec importante infiltration des parties molles.
+
+519
+00:24:56,990 --> 00:25:00,130
+Un autre cas, sarcombe des wings avec, cette
+
+520
+00:25:00,130 --> 00:25:03,290
+fois-ci, les deux sièges diaphysaires du pérone
+
+521
+00:25:03,290 --> 00:25:06,930
+lithique mitée avec réaction périostée.
+
+522
+00:25:06,930 --> 00:25:09,930
+De type plurilamellaire, avec un éperon de corps
+
+523
+00:25:09,930 --> 00:25:13,110
+de main, avec une réaction périostée spéculée, avec
+
+524
+00:25:13,110 --> 00:25:15,510
+une importante infiltration des parties molles.
+
+525
+00:25:17,150 --> 00:25:19,470
+L'essentiel du sarcombe des wings.
+
+526
+00:25:20,630 --> 00:25:21,390
+Qu'est-ce qu'il ne faut pas
+
+527
+00:25:21,390 --> 00:25:22,250
+oublier ?
+
+528
+00:25:22,250 --> 00:25:24,050
+C'est une tumeur qui est très agressive.
+
+529
+00:25:24,210 --> 00:25:26,790
+Et, cette fois, chez les patients jeunes, chez
+
+530
+00:25:26,790 --> 00:25:28,370
+les enfants, chez les adolescents.
+
+531
+00:25:28,990 --> 00:25:30,570
+Le siège est ubiquitaire.
+
+532
+00:25:31,070 --> 00:25:33,650
+Lorsqu'elle va intéresser un os lent, le
+
+533
+00:25:33,650 --> 00:25:35,250
+point de départ va être diaphysaire.
+
+534
+00:25:35,250 --> 00:25:39,350
+Elle se caractérise par une matrice non ossifiante,
+
+535
+00:25:40,610 --> 00:25:46,510
+osteolithique, avec une réaction périostée et importante infiltration
+
+536
+00:25:46,510 --> 00:25:49,270
+des parties molles sans calcification.
+
+537
+00:25:50,590 --> 00:25:54,710
+Après avoir vu l'ostéosarcombe et le sarcombe
+
+538
+00:25:54,710 --> 00:25:56,770
+des wings, on va passer à la troisième
+
+539
+00:25:56,770 --> 00:25:58,650
+tumeur qui est le chondrosarcombe.
+
+540
+00:25:58,930 --> 00:26:02,430
+Le chondrosarcombe est une tumeur d'origine cartilagineuse.
+
+541
+00:26:02,430 --> 00:26:04,010
+Elle peut être primitive, c'est-à-dire
+
+542
+00:26:04,010 --> 00:26:07,130
+qu'elle va se voir sur un os
+
+543
+00:26:07,130 --> 00:26:10,070
+qui est sain, ou elle peut être secondaire
+
+544
+00:26:10,070 --> 00:26:16,470
+à une transformation maligne d'une exostose ou
+
+545
+00:26:16,470 --> 00:26:17,030
+d'un chondrome.
+
+546
+00:26:18,810 --> 00:26:21,630
+Le chondrosarcombe, elle se voit dans 20%
+
+547
+00:26:21,630 --> 00:26:27,990
+des tumeurs malines primitives osseuses.
+
+548
+00:26:27,990 --> 00:26:32,050
+C'est une tumeur de l'adulte et
+
+549
+00:26:32,050 --> 00:26:36,630
+du patient âgé, c'est-à-dire qu
+
+550
+00:26:36,630 --> 00:26:38,010
+'elle se voit entre 40 ans et 70
+
+551
+00:26:38,010 --> 00:26:38,390
+ans.
+
+552
+00:26:38,910 --> 00:26:41,570
+Elle siège préférentiellement au niveau des os plats,
+
+553
+00:26:41,670 --> 00:26:43,490
+mais elle peut siéger également au niveau de
+
+554
+00:26:43,490 --> 00:26:45,970
+la métaphyse des os lents proximants.
+
+555
+00:26:47,010 --> 00:26:51,010
+Le pronocyque est conditionné par les métastases pulmonaires
+
+556
+00:26:51,010 --> 00:26:51,590
+de cette tumeur.
+
+557
+00:26:51,730 --> 00:26:52,810
+Et bien sûr, c'est le cas de
+
+558
+00:26:52,810 --> 00:26:55,010
+l'ostéosarcombe et du sarcombe des wings.
+
+559
+00:26:55,830 --> 00:26:58,610
+En imagerie, elle va se caractériser par une
+
+560
+00:26:58,610 --> 00:27:02,850
+ostéolyse de type 1b, 1c, parfois de type
+
+561
+00:27:02,850 --> 00:27:04,170
+2 ou de type 3.
+
+562
+00:27:05,110 --> 00:27:09,590
+Elle se manifeste par des érosions endostéales, par
+
+563
+00:27:09,590 --> 00:27:11,070
+une rupture de la corticale.
+
+564
+00:27:11,190 --> 00:27:12,630
+Elle peut avoir des réactions périostées de type
+
+565
+00:27:12,630 --> 00:27:15,510
+maligne et agressive, de type spiculé ou lamellaire.
+
+566
+00:27:15,910 --> 00:27:18,750
+Elle peut avoir une infiltration des parties molles.
+
+567
+00:27:18,750 --> 00:27:22,090
+Mais la principale caractéristique en imagerie des chondrosarcombes,
+
+568
+00:27:22,490 --> 00:27:24,870
+c'est la présence de calcifications floconneuses ou
+
+569
+00:27:24,870 --> 00:27:27,330
+harciformes en pop-corn, dites en pop-corn,
+
+570
+00:27:27,490 --> 00:27:28,470
+de type cartilagineuse.
+
+571
+00:27:29,490 --> 00:27:35,290
+Ici, on a une volumineuse tumeur chondroblastombe de
+
+572
+00:27:35,290 --> 00:27:38,190
+l'homoplate droit avec une importante lise et
+
+573
+00:27:38,190 --> 00:27:42,190
+importante calcification et importante infiltration des parties molles.
+
+574
+00:27:43,190 --> 00:27:46,930
+Le chondrosarcombe, c'est une tumeur de l
+
+575
+00:27:46,930 --> 00:27:48,870
+'adulte âgée.
+
+576
+00:27:49,290 --> 00:27:52,570
+C'est une tumeur cartilagineuse qui siège essentiellement
+
+577
+00:27:52,570 --> 00:27:53,370
+au niveau des oplas.
+
+578
+00:27:55,650 --> 00:28:00,470
+Souvent, elle est lithique avec une importante réaction
+
+579
+00:28:00,470 --> 00:28:02,950
+périostée avec une atteinte des parties molles et
+
+580
+00:28:02,950 --> 00:28:05,770
+des calcifications de nature cartilagineuse.
+
+581
+00:28:07,340 --> 00:28:11,060
+On passe à un autre type de tumeur
+
+582
+00:28:11,060 --> 00:28:11,840
+maligne primitif.
+
+583
+00:28:12,220 --> 00:28:13,620
+Et cette fois-ci, c'est le myelôme
+
+584
+00:28:13,620 --> 00:28:14,520
+et le plasmocytome.
+
+585
+00:28:15,380 --> 00:28:18,060
+Ce sont des proliférations d'un clone de
+
+586
+00:28:18,060 --> 00:28:20,480
+plasmocytes anormaux de la moelle osseuse.
+
+587
+00:28:21,040 --> 00:28:24,600
+Si cette prolifération est diffuse, c'est le
+
+588
+00:28:24,600 --> 00:28:25,340
+myelôme.
+
+589
+00:28:25,920 --> 00:28:26,960
+C'est une myopathie maligne.
+
+590
+00:28:28,200 --> 00:28:30,420
+Si cette prolifération est focale, on va parler
+
+591
+00:28:30,420 --> 00:28:31,380
+de plasmocytome.
+
+592
+00:28:31,380 --> 00:28:35,040
+En général, la découverte va se faire d
+
+593
+00:28:35,040 --> 00:28:38,300
+'une manière fortuite par des douleurs osseuses, une
+
+594
+00:28:38,300 --> 00:28:43,300
+anémie, insuffisance rénale, fractures pathologiques, tassement vertébrale.
+
+595
+00:28:43,920 --> 00:28:47,540
+Le diagnostic va se faire sur le myelogramme
+
+596
+00:28:47,540 --> 00:28:49,960
+et l'électrophorese des protéines.
+
+597
+00:28:53,260 --> 00:28:55,680
+L'imagerie, la radiographie standard et ou la
+
+598
+00:28:55,680 --> 00:29:00,020
+TDN, va montrer des lacunes multiples à l
+
+599
+00:29:00,020 --> 00:29:00,820
+'emporte-pièce.
+
+600
+00:29:01,040 --> 00:29:02,480
+Ça, c'est caractéristique du myelôme.
+
+601
+00:29:02,480 --> 00:29:06,180
+Elle va montrer des érosions d'ostée, une
+
+602
+00:29:06,180 --> 00:29:10,220
+ostéopénie diffuse, des lésions qui sont soufflantes.
+
+603
+00:29:10,880 --> 00:29:13,800
+Rarement, on voit des lésions qui sont condensantes.
+
+604
+00:29:15,200 --> 00:29:18,360
+Regardez ici, un patient qui présente un myelôme
+
+605
+00:29:18,360 --> 00:29:18,980
+multiple.
+
+606
+00:29:19,840 --> 00:29:22,420
+Sur la radiographie de crâne, on trouve des
+
+607
+00:29:22,420 --> 00:29:24,420
+lacunes à l'emporte-pièce.
+
+608
+00:29:25,420 --> 00:29:29,100
+Sur la radiographie du bassin, on trouve des
+
+609
+00:29:29,100 --> 00:29:33,580
+lésions lacunaires au niveau du bassin.
+
+610
+00:29:34,040 --> 00:29:35,740
+Et au niveau de l'humérus gauche, on
+
+611
+00:29:35,740 --> 00:29:39,460
+trouve quelques érosions et des encoches endostéales.
+
+612
+00:29:41,440 --> 00:29:44,760
+Un autre cas de myelôme multiple avec des
+
+613
+00:29:44,760 --> 00:29:46,920
+lacunes de la voûte du crâne à l
+
+614
+00:29:46,920 --> 00:29:47,620
+'emporte-pièce.
+
+615
+00:29:49,260 --> 00:29:51,820
+Un autre cas de myelôme multiple avec des
+
+616
+00:29:51,820 --> 00:29:53,540
+lacunes à l'emporte-pièce au niveau des
+
+617
+00:29:53,540 --> 00:29:55,440
+corps vertébraux, qu'on voit très bien sur
+
+618
+00:29:55,440 --> 00:29:59,800
+la radiographie standard et sur le scanner, avec
+
+619
+00:29:59,800 --> 00:30:01,140
+rupture de la corticale par endroit.
+
+620
+00:30:02,740 --> 00:30:04,640
+Un autre cas, cette fois-ci, c'est
+
+621
+00:30:04,640 --> 00:30:08,180
+un plasmocytome de la quatrième vertèbre cervicale, sous
+
+622
+00:30:08,180 --> 00:30:10,640
+forme de lésion lithique, pure soufflante.
+
+623
+00:30:11,340 --> 00:30:13,100
+Donc il y a une destruction totale du
+
+624
+00:30:13,100 --> 00:30:13,960
+corps vertébral.
+
+625
+00:30:15,300 --> 00:30:18,200
+Donc, si on veut récapituler le myelôme multiple,
+
+626
+00:30:18,880 --> 00:30:21,040
+c'est l'apanage des sujets âgés.
+
+627
+00:30:22,200 --> 00:30:23,980
+Le diagnostic, certes, c'est l'imagerie, mais
+
+628
+00:30:23,980 --> 00:30:25,000
+c'est la biologie.
+
+629
+00:30:25,620 --> 00:30:28,400
+Il siège essentiellement au niveau du squelette axial,
+
+630
+00:30:28,880 --> 00:30:30,460
+c'est-à-dire le crâne et le
+
+631
+00:30:30,460 --> 00:30:30,840
+rachis.
+
+632
+00:30:31,480 --> 00:30:34,960
+Il se caractérise par des lacunes à l
+
+633
+00:30:34,960 --> 00:30:35,680
+'emporte-pièce.
+
+634
+00:30:37,100 --> 00:30:39,860
+Il peut se manifester par une déminéralisation diffuse,
+
+635
+00:30:39,860 --> 00:30:42,140
+et parfois, si on a des atteintes au
+
+636
+00:30:42,140 --> 00:30:43,940
+niveau du rachis, on aura des tassements avec
+
+637
+00:30:43,940 --> 00:30:47,160
+des manifestations radiologiques.
+
+638
+00:30:51,790 --> 00:30:57,370
+Après avoir vu les différentes tumeurs osseuses primitives
+
+639
+00:30:57,370 --> 00:30:59,710
+malignes, on va passer au chapitre de localisation
+
+640
+00:30:59,710 --> 00:31:03,190
+secondaire, et ce sont les tumeurs malignes les
+
+641
+00:31:03,190 --> 00:31:03,690
+plus fréquentes.
+
+642
+00:31:03,730 --> 00:31:04,930
+Les tumeurs malignes les plus fréquentes, ce sont
+
+643
+00:31:04,930 --> 00:31:06,690
+les métastases osseuses.
+
+644
+00:31:10,100 --> 00:31:12,980
+Les cancers ostéophiles, ils sont nombreux.
+
+645
+00:31:13,500 --> 00:31:16,200
+Par exemple, on a le poumon, le cancer
+
+646
+00:31:16,200 --> 00:31:19,060
+de prostate, reins, seins, thyroïdes et les mélanomes.
+
+647
+00:31:20,240 --> 00:31:21,600
+Cette diffusion, elle va se faire par voie
+
+648
+00:31:21,600 --> 00:31:22,300
+hématogène.
+
+649
+00:31:22,660 --> 00:31:24,720
+En général, les localisations secondaires par ordre de
+
+650
+00:31:24,720 --> 00:31:26,400
+fréquence, c'est le rachis.
+
+651
+00:31:26,560 --> 00:31:28,360
+Par la suite, on a le bassin, les
+
+652
+00:31:28,360 --> 00:31:31,380
+côtes, les épaules, le crâne, le fémur et
+
+653
+00:31:31,380 --> 00:31:31,940
+l'humérus.
+
+654
+00:31:32,440 --> 00:31:34,600
+Cliniquement, ce sont des douleurs et des tumefactions.
+
+655
+00:31:35,200 --> 00:31:38,680
+Et si ces localisations secondaires siègent au niveau
+
+656
+00:31:38,680 --> 00:31:41,520
+du rachis, on peut avoir une symptomatologie neurologique
+
+657
+00:31:41,520 --> 00:31:42,360
+associée.
+
+658
+00:31:43,420 --> 00:31:48,740
+Les métastases intramédulaires, ils peuvent être, c'est
+
+659
+00:31:48,740 --> 00:31:49,960
+-à-dire au niveau de la moelle osseuse,
+
+660
+00:31:50,040 --> 00:31:51,640
+parfois ils peuvent être infraradiologiques.
+
+661
+00:31:51,860 --> 00:31:53,660
+Et c'est l'intérêt de la scintigraphie
+
+662
+00:31:53,660 --> 00:31:55,960
+osseuse qui va montrer une fixation de ces
+
+663
+00:31:55,960 --> 00:31:56,280
+tumeurs.
+
+664
+00:31:57,260 --> 00:32:00,700
+Donc, il faut faire des clichés standards centrés.
+
+665
+00:32:01,300 --> 00:32:03,500
+Plus ou moins la TDM, ça c'est
+
+666
+00:32:03,500 --> 00:32:04,000
+important.
+
+667
+00:32:04,540 --> 00:32:06,640
+Et l'IRM, elle est essentielle pour le
+
+668
+00:32:06,640 --> 00:32:08,500
+bilan d'extension loco-régionale.
+
+669
+00:32:10,830 --> 00:32:12,890
+On peut avoir des lésions qui sont ostéolithiques.
+
+670
+00:32:14,030 --> 00:32:16,470
+Des métastases ostéolithiques, c'est l'apanage du
+
+671
+00:32:16,470 --> 00:32:19,310
+cancer du sein, reins, poumons et théoïdes.
+
+672
+00:32:20,050 --> 00:32:22,030
+Cette ostéolyse, elle va se manifester comme des
+
+673
+00:32:22,030 --> 00:32:24,290
+géodes à longue porte-pièce, des lacunes à
+
+674
+00:32:24,290 --> 00:32:26,330
+longue porte-pièce, une ostéolyse mitée.
+
+675
+00:32:27,070 --> 00:32:29,330
+On peut avoir des destructions de la corticale.
+
+676
+00:32:29,450 --> 00:32:30,850
+On peut avoir des réactions périostées.
+
+677
+00:32:31,570 --> 00:32:32,530
+En général, il n'y a pas de
+
+678
+00:32:32,530 --> 00:32:34,290
+masse des parties molles, mais on peut trouver,
+
+679
+00:32:34,430 --> 00:32:36,030
+mais c'est rare une infiltration des parties
+
+680
+00:32:36,030 --> 00:32:36,330
+molles.
+
+681
+00:32:36,750 --> 00:32:38,170
+Et ce sont des lésions en général qui
+
+682
+00:32:38,170 --> 00:32:39,910
+sont multiples, mais parfois, elles peuvent être uniques.
+
+683
+00:32:39,910 --> 00:32:42,010
+Parfois, on peut avoir des localisations secondaires, une
+
+684
+00:32:42,010 --> 00:32:43,250
+localisation secondaire unique.
+
+685
+00:32:44,450 --> 00:32:46,130
+Là, on a un exemple d'une métastase
+
+686
+00:32:46,130 --> 00:32:49,910
+ischiopubienne lithique, avec une rupture de la corticale.
+
+687
+00:32:52,740 --> 00:32:55,240
+Les métastases ostéocondensantes, ils sont fréquents, et c
+
+688
+00:32:55,240 --> 00:32:58,620
+'est l'apanage des cancers de prostate.
+
+689
+00:32:58,760 --> 00:33:00,300
+Ils vont nous donner l'aspect de vertèbre
+
+690
+00:33:00,300 --> 00:33:01,560
+d'ivoire, c'est-à-dire une vertèbre
+
+691
+00:33:01,560 --> 00:33:06,060
+qui est ostéocondensée, une vertèbre qui est blanchâtre,
+
+692
+00:33:06,120 --> 00:33:07,520
+une vertèbre d'ivoire.
+
+693
+00:33:08,200 --> 00:33:10,640
+On peut avoir des lésions qui sont niques,
+
+694
+00:33:10,640 --> 00:33:12,980
+c'est-à-dire des métastases lithiques ostéocondensantes,
+
+695
+00:33:13,120 --> 00:33:15,180
+et c'est le cas, par exemple, du
+
+696
+00:33:15,180 --> 00:33:16,580
+sein, du néo de sein.
+
+697
+00:33:18,240 --> 00:33:22,520
+Là, on a un exemple de localisation secondaire,
+
+698
+00:33:22,800 --> 00:33:26,020
+donc mixte, métastase osseuse mixte lithique et ostéocondensante.
+
+699
+00:33:28,210 --> 00:33:31,430
+Un autre cas de métastase osseuse, cette fois
+
+700
+00:33:31,430 --> 00:33:36,050
+-ci lithique, vertébrale et au niveau de l
+
+701
+00:33:36,050 --> 00:33:40,530
+'ischion gauche, avec rupture de la corticale, infiltration
+
+702
+00:33:40,530 --> 00:33:41,170
+des parties molles.
+
+703
+00:33:42,890 --> 00:33:44,370
+Donc, qu'est-ce qu'il faut retenir
+
+704
+00:33:44,370 --> 00:33:46,290
+des localisations secondaires ?
+
+705
+00:33:46,290 --> 00:33:49,070
+Les métastases, ils sont plus fréquents que les
+
+706
+00:33:49,070 --> 00:33:50,630
+tumeurs malignes primitives de l'os.
+
+707
+00:33:51,250 --> 00:33:55,650
+Les cancers ostéophiles sont, c'est le cancer
+
+708
+00:33:55,650 --> 00:33:59,370
+du sein, prostate, poumon, rein, thyroïde et mélanome,
+
+709
+00:33:59,710 --> 00:34:00,730
+par ordre de fréquence.
+
+710
+00:34:01,970 --> 00:34:04,490
+L'ostéolyse est la manifestation la plus fréquente,
+
+711
+00:34:04,570 --> 00:34:06,330
+mais on peut avoir des condensations, et c
+
+712
+00:34:06,330 --> 00:34:09,070
+'est le cas des cancers de prostate au
+
+713
+00:34:09,070 --> 00:34:09,949
+mixte, comme le sein.
+
+714
+00:34:10,730 --> 00:34:14,550
+La scintigraphie, elle est très importante pour détecter
+
+715
+00:34:14,550 --> 00:34:16,969
+ces tumeurs avec une radiographie standard qui est
+
+716
+00:34:16,969 --> 00:34:18,630
+tout à fait normale, une TDM qui est
+
+717
+00:34:18,630 --> 00:34:20,070
+tout à fait normale, donc la scintigraphie, elle
+
+718
+00:34:20,070 --> 00:34:22,310
+est plus sensible pour la détection des localisations
+
+719
+00:34:22,310 --> 00:34:24,110
+secondaires.
+
+720
+00:34:24,610 --> 00:34:28,010
+L'IRN, elle reste très importante pour faire
+
+721
+00:34:28,010 --> 00:34:30,370
+le bilan d'extension loco-régional de ces
+
+722
+00:34:30,370 --> 00:34:30,889
+tumeurs.
+
+723
+00:34:32,290 --> 00:34:34,870
+En conclusion, le cliché standard, comme on l
+
+724
+00:34:34,870 --> 00:34:36,510
+'a vu lors du premier cours de la
+
+725
+00:34:36,510 --> 00:34:38,530
+compétition à tenir devant les lesions osseuses et
+
+726
+00:34:38,530 --> 00:34:40,489
+les tumeurs osseuses bénites, reste l'examen de
+
+727
+00:34:40,489 --> 00:34:42,909
+base, parce que sur la radiographie standard, on
+
+728
+00:34:42,909 --> 00:34:46,710
+va faire d'abord la suspicion de ces
+
+729
+00:34:46,710 --> 00:34:50,690
+tumeurs, on va poser le diagnostic de malignité
+
+730
+00:34:50,690 --> 00:34:52,370
+sur les éléments qu'on a vus tout
+
+731
+00:34:52,370 --> 00:34:56,810
+à l'heure, on va poser un diagnostic
+
+732
+00:34:56,810 --> 00:35:01,790
+éthiologique, et l'analyse, bien sûr, il y
+
+733
+00:35:01,790 --> 00:35:03,730
+a plusieurs éléments, on va se baser bien
+
+734
+00:35:03,730 --> 00:35:05,450
+sûr sur la radiographie standard, on va se
+
+735
+00:35:05,450 --> 00:35:08,550
+baser sur l'âge, sur les éléments épidémiologiques,
+
+736
+00:35:08,650 --> 00:35:11,850
+sur la matrice tumorale qu'on va analyser
+
+737
+00:35:11,850 --> 00:35:15,510
+par la radiographie standard, mais essentiellement par le
+
+738
+00:35:15,510 --> 00:35:16,990
+scanner si on a des difficultés ou si
+
+739
+00:35:16,990 --> 00:35:18,350
+on a des lésions difficiles.
+
+740
+00:35:19,030 --> 00:35:20,790
+L'IRN reste la technique de choix pour
+
+741
+00:35:20,790 --> 00:35:23,610
+l'évaluation de l'extension locale et pour
+
+742
+00:35:23,610 --> 00:35:24,390
+le suivi.
+
+743
+00:35:24,630 --> 00:35:25,310
+Je vous remercie.

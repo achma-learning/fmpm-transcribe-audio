@@ -1,0 +1,3467 @@
+1
+00:00:00,200 --> 00:00:03,380
+Aujourd'hui, on va voir les méningites infectieuses
+
+2
+00:00:03,380 --> 00:00:04,300
+de l'adulte.
+
+3
+00:00:04,920 --> 00:00:06,720
+Les objectifs de ce cours, c'est de
+
+4
+00:00:06,720 --> 00:00:10,140
+pouvoir reconnaître un syndrome méningite devant des éléments
+
+5
+00:00:10,140 --> 00:00:15,980
+fonctionnels et physiques, de déduire ou de suspecter
+
+6
+00:00:15,980 --> 00:00:19,560
+l'agent pathogène responsable d'une méningite en
+
+7
+00:00:19,560 --> 00:00:23,800
+se basant sur les éléments épidémiocliniques, de pouvoir
+
+8
+00:00:23,800 --> 00:00:26,820
+interpréter les données d'une ponction lombaire, reconnaître
+
+9
+00:00:26,820 --> 00:00:30,560
+un LCR normal et un LCR pathologique, de
+
+10
+00:00:30,560 --> 00:00:34,940
+traiter une méningite bactérienne et d'agir, qui
+
+11
+00:00:34,940 --> 00:00:37,500
+sont les mesures à réaliser autour d'un
+
+12
+00:00:37,500 --> 00:00:40,400
+cas de méningite aminengoukou pour éviter l'apparition
+
+13
+00:00:40,400 --> 00:00:41,540
+de cas secondaires.
+
+14
+00:00:42,800 --> 00:00:47,420
+On appelle une méningite infectieuse toute inflammation aiguë,
+
+15
+00:00:47,480 --> 00:00:50,760
+chronique ou récidivante des méninges dues à un
+
+16
+00:00:50,760 --> 00:00:53,100
+agent pathogène qui peut être un virus, une
+
+17
+00:00:53,100 --> 00:00:55,200
+bactérie, un parasite ou un champignon.
+
+18
+00:00:55,780 --> 00:00:58,980
+Les méningites infectieuses constituent une urgence diagnostique et
+
+19
+00:00:58,980 --> 00:01:03,560
+thérapeutique vu le fait que le pronostic vital
+
+20
+00:01:03,560 --> 00:01:06,740
+et fonctionnel est conditionné par la rapidité de
+
+21
+00:01:06,740 --> 00:01:07,640
+la prise en charge.
+
+22
+00:01:08,200 --> 00:01:11,200
+Sur ces diapos, vous avez un rappel anatomique
+
+23
+00:01:11,200 --> 00:01:14,440
+des méninges qui sont constitués de trois enveloppes
+
+24
+00:01:14,440 --> 00:01:18,340
+qui couvrent le système nerveux central englobant le
+
+25
+00:01:18,340 --> 00:01:20,140
+cerveau et la moelle épinière.
+
+26
+00:01:20,660 --> 00:01:23,500
+Vous avez l'enveloppe la plus externe qui
+
+27
+00:01:23,500 --> 00:01:25,880
+vient directement après l'os, que ce soit
+
+28
+00:01:25,880 --> 00:01:28,260
+l'os de crâne ou l'os des
+
+29
+00:01:28,260 --> 00:01:31,460
+vertèbres, c'est la dure mère, c'est
+
+30
+00:01:31,460 --> 00:01:34,720
+le numéro 3, suivi au milieu par l
+
+31
+00:01:34,720 --> 00:01:38,540
+'arachnoïde, le numéro 4 qui retient l'espace
+
+32
+00:01:38,540 --> 00:01:43,900
+sous-arachnoïdien, et le numéro 5, c'est
+
+33
+00:01:43,900 --> 00:01:48,280
+la pie mère qui tapisse directement le système
+
+34
+00:01:48,280 --> 00:01:49,340
+nerveux central.
+
+35
+00:01:50,080 --> 00:01:53,020
+Et ce sont ces trois feuilles-là, en
+
+36
+00:01:53,020 --> 00:01:55,760
+cas d'infection, qui réalisent la méningite.
+
+37
+00:01:56,940 --> 00:02:01,140
+Les étiologies des méningites infectieuses sont variables, elles
+
+38
+00:02:01,140 --> 00:02:05,080
+peuvent être bactériennes, virales, parasitaires ou mycosiques.
+
+39
+00:02:05,080 --> 00:02:06,600
+Dans ce cours-là, on ne va se
+
+40
+00:02:06,600 --> 00:02:10,220
+contenter que des causes bactériennes de l'adulte.
+
+41
+00:02:11,380 --> 00:02:14,080
+La tuberculose qui a été traitée dans les
+
+42
+00:02:14,080 --> 00:02:19,060
+cours précédents va être traitée ultérieurement dans un
+
+43
+00:02:19,060 --> 00:02:20,060
+cours à part.
+
+44
+00:02:24,340 --> 00:02:29,780
+Les principales étiologies des méningites infectieuses sont variables
+
+45
+00:02:29,780 --> 00:02:30,680
+selon l'âge.
+
+46
+00:02:31,140 --> 00:02:33,060
+Ainsi, chez l'adulte et l'enfant de
+
+47
+00:02:33,060 --> 00:02:34,740
+plus de 5 ans, on a les germes
+
+48
+00:02:34,740 --> 00:02:37,540
+les plus fréquemment retrouvés, c'est essentiellement le
+
+49
+00:02:37,540 --> 00:02:41,480
+meningococque, le pneumococque, beaucoup plus rarement la listeria
+
+50
+00:02:41,480 --> 00:02:44,180
+monocytogène qu'on n'arrive pas à confirmer
+
+51
+00:02:44,180 --> 00:02:48,320
+dans notre contexte, c'est presque exceptionnel, et
+
+52
+00:02:48,320 --> 00:02:49,480
+la tuberculose.
+
+53
+00:02:49,940 --> 00:02:51,240
+Mais c'est un cours, comme je dis,
+
+54
+00:02:51,300 --> 00:02:53,020
+qu'on va voir dans un cours à
+
+55
+00:02:53,020 --> 00:02:53,240
+part.
+
+56
+00:02:53,780 --> 00:02:55,480
+Chez le nourrisson et l'enfant de moins
+
+57
+00:02:55,480 --> 00:03:00,300
+de 5 ans, avant la vaccination, l'introduction
+
+58
+00:03:00,300 --> 00:03:05,420
+du vaccin contre l'hémophilus influenzae, ce germe
+
+59
+00:03:05,420 --> 00:03:08,920
+-là était responsable de la majorité des méningites
+
+60
+00:03:08,920 --> 00:03:10,400
+chez l'enfant de moins de 5 ans,
+
+61
+00:03:10,880 --> 00:03:16,340
+qui était responsable même des séquelles neurologiques très
+
+62
+00:03:16,340 --> 00:03:16,660
+importantes.
+
+63
+00:03:17,200 --> 00:03:20,580
+Mais depuis l'introduction du vaccin contre l
+
+64
+00:03:20,580 --> 00:03:23,080
+'hémophilus, il y a eu une baisse très
+
+65
+00:03:23,080 --> 00:03:25,860
+importante des méningites due à ce germe-là.
+
+66
+00:03:25,860 --> 00:03:28,960
+Donc ce qui reste, c'est essentiellement le
+
+67
+00:03:28,960 --> 00:03:33,840
+meningococque, le pneumococque et le Mycobacterium tuberculosis.
+
+68
+00:03:34,420 --> 00:03:36,800
+Chez le nouveau-né, il y a essentiellement
+
+69
+00:03:36,800 --> 00:03:41,640
+le streptococque B et les entérobactéries qui sont
+
+70
+00:03:41,640 --> 00:03:45,160
+dues souvent à une transmission materno-fétale par
+
+71
+00:03:45,160 --> 00:03:47,500
+le passage du nouveau-né dans la filière
+
+72
+00:03:47,500 --> 00:03:49,980
+génitale de la maman lors de l'accouchement.
+
+73
+00:03:49,980 --> 00:03:56,600
+L'hystéria monocytogène est responsable essentiellement lors des
+
+74
+00:03:56,600 --> 00:04:03,120
+infections materno-fétales qui peuvent être responsables des
+
+75
+00:04:03,120 --> 00:04:04,700
+infections chez le nouveau-né.
+
+76
+00:04:06,860 --> 00:04:10,140
+Les modes de contamination des méningites pour aboutir
+
+77
+00:04:10,140 --> 00:04:14,300
+à une méningite sont variables, mais la principale
+
+78
+00:04:14,300 --> 00:04:16,720
+cause, c'est la cause générale, c'est
+
+79
+00:04:16,720 --> 00:04:18,880
+-à-dire le passage d'un germe à
+
+80
+00:04:18,880 --> 00:04:21,820
+partir d'un foyer infectieux qui peut être
+
+81
+00:04:21,820 --> 00:04:24,900
+au niveau du rhinopharynx, qui peut être un
+
+82
+00:04:24,900 --> 00:04:26,900
+pulmonaire ou lointain.
+
+83
+00:04:27,560 --> 00:04:32,720
+Et ce passage-là, il va traverser la
+
+84
+00:04:32,720 --> 00:04:36,240
+barrière hématoménagée pour arriver au niveau des méninges.
+
+85
+00:04:36,800 --> 00:04:39,520
+Il y a aussi la possibilité de transmission
+
+86
+00:04:39,520 --> 00:04:44,000
+materno-fétale ou de contamination d'origine digestive
+
+87
+00:04:44,000 --> 00:04:48,080
+qui est due par l'atteinte par l
+
+88
+00:04:48,080 --> 00:04:48,460
+'hystéria.
+
+89
+00:04:49,840 --> 00:04:52,660
+L'infection des méninges, elle peut être aussi
+
+90
+00:04:52,660 --> 00:04:56,660
+par contiguïté à partir d'un foyer qui
+
+91
+00:04:56,660 --> 00:05:00,640
+est anatomiquement très proche des méninges, à partir
+
+92
+00:05:00,640 --> 00:05:02,780
+d'un foyer ORL, comme l'otite, la
+
+93
+00:05:02,780 --> 00:05:04,640
+sinusite, la mastoïdite.
+
+94
+00:05:05,120 --> 00:05:06,780
+Et dans ce cas-là, les germes en
+
+95
+00:05:06,780 --> 00:05:10,440
+cause sont essentiellement le pneumovoc, les mophulises et
+
+96
+00:05:10,440 --> 00:05:12,020
+même des BGN et des anaïrobés.
+
+97
+00:05:12,840 --> 00:05:15,020
+Ou à partir d'un simple portage, il
+
+98
+00:05:15,020 --> 00:05:17,820
+peut s'agir d'une brèche ostéoméningique congénitale
+
+99
+00:05:17,820 --> 00:05:18,680
+ou acquise.
+
+100
+00:05:19,700 --> 00:05:23,840
+On peut développer des méningites par inoculation directe
+
+101
+00:05:23,840 --> 00:05:25,880
+du germe au niveau du LCR.
+
+102
+00:05:26,540 --> 00:05:28,780
+Et dans ce cas-là, on suspecte essentiellement
+
+103
+00:05:28,780 --> 00:05:32,960
+le staphylococcus aureus et les bacilligrames négatifs.
+
+104
+00:05:32,960 --> 00:05:36,340
+C'est le cas par exemple de l
+
+105
+00:05:36,340 --> 00:05:40,380
+'infection des méninges dans les suites opératoires d
+
+106
+00:05:40,380 --> 00:05:42,600
+'un patient qui est opéré pour une tumeur
+
+107
+00:05:42,600 --> 00:05:44,300
+ou pour un hématome soudural.
+
+108
+00:05:44,800 --> 00:05:45,920
+S'il n'y a pas de respect
+
+109
+00:05:45,920 --> 00:05:49,800
+des règles d'hygiène, on peut inoculer directement
+
+110
+00:05:49,800 --> 00:05:51,760
+le germe au niveau de l'acte chirurgical.
+
+111
+00:05:52,460 --> 00:05:55,740
+Ou bien, lors d'une péridurale aussi, on
+
+112
+00:05:55,740 --> 00:05:59,640
+peut inoculer directement le germe lors de la
+
+113
+00:05:59,640 --> 00:06:01,720
+réalisation de la péridurale.
+
+114
+00:06:01,720 --> 00:06:04,860
+Donc, l'intérêt de l'asepsie rigoureuse lors
+
+115
+00:06:04,860 --> 00:06:07,080
+d'un geste sur le système nerveux central.
+
+116
+00:06:07,380 --> 00:06:14,520
+Cliniquement, comment va se manifester une méningite ?
+
+117
+00:06:14,520 --> 00:06:17,380
+Le maître symptôme des méningites, c'est le
+
+118
+00:06:17,380 --> 00:06:21,080
+syndrome méningite qui est constitué de céphalées intenses,
+
+119
+00:06:21,260 --> 00:06:24,180
+violentes, diffuses en casque, c'est-à-dire
+
+120
+00:06:24,180 --> 00:06:27,360
+touchant la globalité de la tête avec une
+
+121
+00:06:27,360 --> 00:06:28,100
+photophobie.
+
+122
+00:06:28,100 --> 00:06:30,220
+Le patient n'arrive pas à regarder en
+
+123
+00:06:30,220 --> 00:06:34,180
+pleine lumière, il se cache les yeux à
+
+124
+00:06:34,180 --> 00:06:36,360
+cause de cette douleur à l'exposition à
+
+125
+00:06:36,360 --> 00:06:36,820
+la lumière.
+
+126
+00:06:37,260 --> 00:06:39,460
+Il y a des vomissements, des vomissements faciles
+
+127
+00:06:39,460 --> 00:06:41,600
+parce que déjà, en cas de méningite, il
+
+128
+00:06:41,600 --> 00:06:44,380
+y a un syndrome de tension intracrânienne qui
+
+129
+00:06:44,380 --> 00:06:46,300
+n'est pas décompensé.
+
+130
+00:06:46,540 --> 00:06:50,040
+Le syndrome infectieux, vu que c'est une
+
+131
+00:06:50,040 --> 00:06:52,780
+méningite infectieuse, on a de la fièvre élevée,
+
+132
+00:06:53,140 --> 00:06:54,780
+on a la possibilité des frissons.
+
+133
+00:06:55,380 --> 00:06:57,420
+À l'examen clinique, il y a une
+
+134
+00:06:57,420 --> 00:07:01,960
+raideur de la nuque, soit spontanée ou lors
+
+135
+00:07:01,960 --> 00:07:04,320
+de l'examen de la flexion de la
+
+136
+00:07:04,320 --> 00:07:06,440
+nuque, le patient peut venir déjà à la
+
+137
+00:07:06,440 --> 00:07:09,260
+tête rejetée en arrière, déjà à l'inspection,
+
+138
+00:07:09,420 --> 00:07:12,140
+vous la suspectez, ou bien lors de la
+
+139
+00:07:12,140 --> 00:07:13,840
+flexion de la tête, on n'arrive pas
+
+140
+00:07:13,840 --> 00:07:15,620
+à ramener le menton au sternum.
+
+141
+00:07:15,980 --> 00:07:18,660
+Par contre, les mouvements de latéralité à droite
+
+142
+00:07:18,660 --> 00:07:22,320
+ou à gauche, ils sont possibles dans ce
+
+143
+00:07:22,320 --> 00:07:22,600
+cas-là.
+
+144
+00:07:22,600 --> 00:07:25,340
+Le signe de Kernin et de Brzezinski, on
+
+145
+00:07:25,340 --> 00:07:27,540
+va les voir dans les diapositives suivantes.
+
+146
+00:07:28,060 --> 00:07:30,780
+Et devant tout syndrome méningit, il faut savoir
+
+147
+00:07:30,780 --> 00:07:35,200
+chercher obligatoirement les signes de gravité en évaluant
+
+148
+00:07:35,200 --> 00:07:37,940
+l'état neurologique par le score de Glasgow.
+
+149
+00:07:38,240 --> 00:07:39,460
+Est-ce que c'est un patient conscient,
+
+150
+00:07:39,680 --> 00:07:41,260
+c'est un patient combattant?
+
+151
+00:07:41,840 --> 00:07:42,720
+Est-ce qu'il n'y a pas
+
+152
+00:07:42,720 --> 00:07:45,660
+des signes déficitaires, des signes de localisation qui
+
+153
+00:07:45,660 --> 00:07:48,360
+peuvent être rien que l'attente des percrania,
+
+154
+00:07:48,360 --> 00:07:50,200
+ou bien il y a une hémiplégie, une
+
+155
+00:07:50,200 --> 00:07:51,060
+hémiparysie.
+
+156
+00:07:51,880 --> 00:07:54,640
+Il faut évaluer l'état hémodynamique en recherchant
+
+157
+00:07:54,640 --> 00:07:56,240
+un collapsus, des marbreux.
+
+158
+00:07:56,400 --> 00:07:59,300
+Il faut chercher un purpura extensif qui peut
+
+159
+00:07:59,300 --> 00:08:02,720
+faire penser à un purpura fulminans.
+
+160
+00:08:03,080 --> 00:08:04,960
+Donc, ce sont les signes de gravité qu
+
+161
+00:08:04,960 --> 00:08:07,680
+'il faut chercher obligatoirement au moment de l
+
+162
+00:08:07,680 --> 00:08:09,480
+'examen clinique.
+
+163
+00:08:10,440 --> 00:08:14,440
+Alors ici, on a une description du signe
+
+164
+00:08:14,440 --> 00:08:16,300
+de Brzezinski.
+
+165
+00:08:16,300 --> 00:08:20,140
+Sur un malade qui est en décibutus dorsal,
+
+166
+00:08:20,280 --> 00:08:23,760
+on essaye de fléchir la tête sur le
+
+167
+00:08:23,760 --> 00:08:24,140
+corps.
+
+168
+00:08:24,500 --> 00:08:26,680
+Il y a le malade par réflexe, il
+
+169
+00:08:26,680 --> 00:08:29,220
+fléchit ses genoux à cause de la tension
+
+170
+00:08:29,220 --> 00:08:31,919
+des muscles paravertébraux qui fait qu'il est
+
+171
+00:08:31,919 --> 00:08:34,520
+obligé de fléchir les genoux pour soulager ces
+
+172
+00:08:34,520 --> 00:08:38,080
+tensions des muscles paravertébraux et qui est douloureuse.
+
+173
+00:08:38,460 --> 00:08:41,299
+Pour le signe de Koerning, toujours le malade
+
+174
+00:08:41,299 --> 00:08:45,800
+est en décibutus dorsal, les membres inférieurs tendus.
+
+175
+00:08:45,800 --> 00:08:49,800
+On essaye de fléchir les membres inférieurs avec
+
+176
+00:08:49,800 --> 00:08:53,040
+le genou en extension sur le corps.
+
+177
+00:08:53,460 --> 00:08:56,760
+Et le malade, automatiquement, il va fléchir ses
+
+178
+00:08:56,760 --> 00:09:02,260
+genoux pour soulager ces tensions des muscles paravertébraux.
+
+179
+00:09:03,700 --> 00:09:07,560
+Images de Purpura, au niveau de l'abdomen.
+
+180
+00:09:07,620 --> 00:09:10,200
+Le Purpura, c'est une extravasation du son.
+
+181
+00:09:10,920 --> 00:09:13,820
+Il faut savoir les chercher parce que c
+
+182
+00:09:13,820 --> 00:09:19,400
+'est une coloration érythémateuse parfois, même s'il
+
+183
+00:09:19,400 --> 00:09:21,740
+y a nos éblouitres, qui ne disparaît pas
+
+184
+00:09:21,740 --> 00:09:23,860
+à la rétro-pression ou à la vitre
+
+185
+00:09:23,860 --> 00:09:24,380
+-pression.
+
+186
+00:09:24,620 --> 00:09:25,780
+A la rétro, c'est-à-dire qu
+
+187
+00:09:25,780 --> 00:09:28,760
+'on appuie sur la tâche et dès qu
+
+188
+00:09:28,760 --> 00:09:31,080
+'on enlève le doigt, normalement, si c'est
+
+189
+00:09:31,080 --> 00:09:34,320
+un Purpura, malgré le fait que c'est
+
+190
+00:09:34,320 --> 00:09:37,360
+juste après avoir enlevé le doigt, la tâche
+
+191
+00:09:37,360 --> 00:09:37,920
+persiste.
+
+192
+00:09:38,320 --> 00:09:39,820
+Et vitre-pression, c'est-à-dire qu
+
+193
+00:09:39,820 --> 00:09:42,220
+'on peut prendre une bouteille d'eau et
+
+194
+00:09:42,220 --> 00:09:45,980
+un verre, l'appliquer sur la tâche, on
+
+195
+00:09:45,980 --> 00:09:47,900
+arrive quand même à la voir à travers
+
+196
+00:09:47,900 --> 00:09:50,980
+la bouteille ou à travers le verre.
+
+197
+00:09:50,980 --> 00:09:54,740
+Et ça se voit plus fréquemment en cas
+
+198
+00:09:54,740 --> 00:09:59,420
+de meningite, un Meningococque, moins fréquemment avec les
+
+199
+00:09:59,420 --> 00:10:00,380
+autres bactéries.
+
+200
+00:10:01,120 --> 00:10:02,700
+Et il faut qu'à chaque fois qu
+
+201
+00:10:02,700 --> 00:10:06,160
+'on trouve un Purpura, ça oriente plus vers
+
+202
+00:10:06,160 --> 00:10:07,100
+le Meningococque.
+
+203
+00:10:08,080 --> 00:10:10,220
+Et dans ce cas-là, il faut chercher
+
+204
+00:10:10,220 --> 00:10:11,760
+le caractère nicrotique.
+
+205
+00:10:12,100 --> 00:10:15,700
+Parce que l'existence d'un Purpura nicrotique,
+
+206
+00:10:15,760 --> 00:10:18,880
+ça oriente vers un Purpura fulminant.
+
+207
+00:10:18,880 --> 00:10:21,080
+C'est une infection sévère à un Meningococque
+
+208
+00:10:21,080 --> 00:10:23,720
+dont la prise en charge doit être prise
+
+209
+00:10:23,720 --> 00:10:28,960
+avant même d'adresser le patient à l
+
+210
+00:10:28,960 --> 00:10:29,420
+'hôpital.
+
+211
+00:10:29,600 --> 00:10:30,600
+C'est-à-dire qu'il faut lui
+
+212
+00:10:30,600 --> 00:10:32,940
+donner la première dose d'antibiotiques, que ce
+
+213
+00:10:32,940 --> 00:10:34,720
+soit vu dans un cabinet, que ce soit
+
+214
+00:10:34,720 --> 00:10:36,780
+vu dans un centre de santé ou même
+
+215
+00:10:36,780 --> 00:10:38,920
+en consultation à domicile, parce que c'est
+
+216
+00:10:38,920 --> 00:10:42,300
+un état infectieux sévère dont le pronotique dépend
+
+217
+00:10:42,300 --> 00:10:46,060
+de cette prise en charge initiale qui est
+
+218
+00:10:46,060 --> 00:10:48,280
+d'administrer la première dose d'antibiotiques.
+
+219
+00:10:48,700 --> 00:10:51,400
+Et quand on trouve un Purpura schizomalade, il
+
+220
+00:10:51,400 --> 00:10:54,480
+faut le circuler par un vertre ou un
+
+221
+00:10:54,480 --> 00:10:58,080
+stylo pour voir l'évolution de ces tâches
+
+222
+00:10:58,080 --> 00:10:58,320
+-là.
+
+223
+00:10:58,720 --> 00:11:00,760
+Est-ce qu'il augmente de taille?
+
+224
+00:11:00,880 --> 00:11:01,860
+Est-ce qu'il y a l'apparition
+
+225
+00:11:01,860 --> 00:11:04,180
+d'autres tâches purpuriques?
+
+226
+00:11:06,180 --> 00:11:08,940
+Quand on est devant un syndrome meningité fébrile,
+
+227
+00:11:09,060 --> 00:11:11,480
+on suspecte une meningite infectieuse.
+
+228
+00:11:11,480 --> 00:11:14,620
+Et l'examen clé à réaliser en premier
+
+229
+00:11:14,620 --> 00:11:17,360
+pour poser le diagnostic, c'est la ponction
+
+230
+00:11:17,360 --> 00:11:17,940
+lombaire.
+
+231
+00:11:22,030 --> 00:11:26,690
+Mais avant de réaliser toute ponction lombaire, il
+
+232
+00:11:26,690 --> 00:11:28,670
+faut chercher est-ce qu'il n'y
+
+233
+00:11:28,670 --> 00:11:32,510
+a pas de contre-indications empêchant à faire
+
+234
+00:11:32,510 --> 00:11:34,610
+cet examen clé.
+
+235
+00:11:34,610 --> 00:11:39,610
+Les contre-indications de l'APL sont essentiellement
+
+236
+00:11:39,610 --> 00:11:42,350
+les signes de localisation neurologique ou les signes
+
+237
+00:11:42,350 --> 00:11:48,650
+de focalisation neurologique qui se forment d'un
+
+238
+00:11:48,650 --> 00:11:51,430
+déficit neurologique complet ou partiel.
+
+239
+00:11:51,710 --> 00:11:53,410
+Donc ça peut être une atteinte d'hypercrânien,
+
+240
+00:11:53,490 --> 00:11:56,270
+ça peut être une hémiparésie, ça peut être
+
+241
+00:11:56,270 --> 00:11:58,190
+une paralysie d'un membre, ça peut être
+
+242
+00:11:58,190 --> 00:11:59,970
+une simple parésie.
+
+243
+00:11:59,970 --> 00:12:03,150
+Et à chaque fois qu'on a des
+
+244
+00:12:03,150 --> 00:12:06,590
+signes de localisation, il faut suspecter un processus
+
+245
+00:12:06,590 --> 00:12:07,950
+occupant cérébral.
+
+246
+00:12:08,630 --> 00:12:11,550
+Alors ce processus occupant cérébral, ça peut être
+
+247
+00:12:11,550 --> 00:12:15,650
+un infectieux, un abcès ou un tuberculome, comme
+
+248
+00:12:15,650 --> 00:12:18,130
+ça peut être aussi des tumeurs miniles ou
+
+249
+00:12:18,130 --> 00:12:21,410
+malines, ou ça peut être aussi un hématome.
+
+250
+00:12:22,150 --> 00:12:24,830
+Et le risque majeur, c'est d'aboutir
+
+251
+00:12:24,830 --> 00:12:26,390
+à un non-engagement cérébral.
+
+252
+00:12:27,910 --> 00:12:32,150
+La deuxième contre-indication de la réalisation de
+
+253
+00:12:32,150 --> 00:12:35,070
+l'APL, ce sont les troubles de l
+
+254
+00:12:35,070 --> 00:12:35,530
+'hémostase.
+
+255
+00:12:36,090 --> 00:12:40,210
+Soit congénital, soit congénitaux, soit secondaires.
+
+256
+00:12:40,370 --> 00:12:41,610
+Et dans ce cas-là, il suffit de
+
+257
+00:12:41,610 --> 00:12:43,130
+poser la question au malade, est-ce qu
+
+258
+00:12:43,130 --> 00:12:45,190
+'il ne souffre pas, est-ce qu'il
+
+259
+00:12:45,190 --> 00:12:48,970
+ne coagule bien après une plaie, est-ce
+
+260
+00:12:48,970 --> 00:12:50,710
+qu'il ne prend pas un traitement qui
+
+261
+00:12:50,710 --> 00:12:52,750
+risque de perturber l'hémostase.
+
+262
+00:12:53,910 --> 00:12:57,090
+Aussi, troisième contre-indication, c'est l'existence
+
+263
+00:12:57,090 --> 00:12:59,090
+d'une infection à l'endroit de l
+
+264
+00:12:59,090 --> 00:12:59,530
+'APL.
+
+265
+00:12:59,970 --> 00:13:02,550
+Une infection au niveau de la région lombaire
+
+266
+00:13:02,550 --> 00:13:06,310
+qui va contre-indiquer la réalisation de la
+
+267
+00:13:06,310 --> 00:13:09,270
+ponction lombaire, parce qu'on risque d'introduire
+
+268
+00:13:09,270 --> 00:13:11,770
+un germe de cette partie infectée à l
+
+269
+00:13:11,770 --> 00:13:16,590
+'intérieur et être responsable d'une méningite nosocomiale.
+
+270
+00:13:16,590 --> 00:13:21,510
+Et aussi, quatrième contre-indication, c'est l
+
+271
+00:13:21,510 --> 00:13:25,090
+'existence déjà d'un engagement cérébral, c'est
+
+272
+00:13:25,090 --> 00:13:28,410
+comme une midriase unilatérale, un hockey, des troubles
+
+273
+00:13:28,410 --> 00:13:31,170
+ventilatoires, des mouvements d'enroulement ou même une
+
+274
+00:13:31,170 --> 00:13:33,290
+instabilité hémodynamique.
+
+275
+00:13:35,150 --> 00:13:37,210
+La deuxième question qu'il faut se poser
+
+276
+00:13:37,210 --> 00:13:40,030
+avant de réaliser une ponction lombaire, est-ce
+
+277
+00:13:40,030 --> 00:13:41,210
+qu'il n'y a pas ou non
+
+278
+00:13:41,210 --> 00:13:43,110
+des indications au scanner cérébral.
+
+279
+00:13:43,110 --> 00:13:45,870
+Pas toutes les contre-indications de l'APL
+
+280
+00:13:45,870 --> 00:13:51,430
+sont une indication au scanner cérébral, mais il
+
+281
+00:13:51,430 --> 00:13:53,990
+y a quand même certaines contre-indications de
+
+282
+00:13:53,990 --> 00:13:56,490
+l'APL qui peuvent être une indication aussi
+
+283
+00:13:56,490 --> 00:13:57,470
+au scanner cérébral.
+
+284
+00:13:57,970 --> 00:14:01,230
+Parmi ces indications, il y a l'existence
+
+285
+00:14:01,230 --> 00:14:03,430
+de signes de localisation neurologique, c'est-à
+
+286
+00:14:03,430 --> 00:14:06,890
+-dire qu'on suspecte un processus cérébral qui
+
+287
+00:14:06,890 --> 00:14:09,870
+est à l'origine de ces signes de
+
+288
+00:14:09,870 --> 00:14:11,110
+déficit neurologique.
+
+289
+00:14:11,110 --> 00:14:13,430
+Donc il faut faire un scanner dans ce
+
+290
+00:14:13,430 --> 00:14:13,730
+cas-là.
+
+291
+00:14:14,230 --> 00:14:18,530
+Et s'il y a des signes de
+
+292
+00:14:18,530 --> 00:14:20,910
+localisation, on fait un scanner et qu'il
+
+293
+00:14:20,910 --> 00:14:22,690
+n'y a pas de processus, dans ce
+
+294
+00:14:22,690 --> 00:14:25,350
+cas-là, malgré ça, on réalise l'APL
+
+295
+00:14:25,350 --> 00:14:26,950
+d'une manière précautionneuse.
+
+296
+00:14:27,830 --> 00:14:29,730
+Aussi, quand il y a un syndrome d
+
+297
+00:14:29,730 --> 00:14:33,330
+'hypertension intracrânienne, on suspecte un processus, et dans
+
+298
+00:14:33,330 --> 00:14:35,090
+ce cas-là, il faut faire quand même
+
+299
+00:14:35,090 --> 00:14:36,890
+un scanner cérébral.
+
+300
+00:14:36,890 --> 00:14:41,170
+En absence de processus, aussi on peut faire
+
+301
+00:14:41,170 --> 00:14:43,850
+l'APL précautionneuse.
+
+302
+00:14:44,430 --> 00:14:46,630
+Quand il y a des troubles de vigilance
+
+303
+00:14:46,630 --> 00:14:50,350
+avec un score de Glasgow inférieur à 11,
+
+304
+00:14:51,030 --> 00:14:53,030
+aussi c'est une indication au scanner.
+
+305
+00:14:53,210 --> 00:14:53,470
+Pourquoi?
+
+306
+00:14:53,670 --> 00:14:57,250
+Parce que le patient est tellement inconscient qu
+
+307
+00:14:57,250 --> 00:14:59,770
+'on ne peut pas, avec cet état de
+
+308
+00:14:59,770 --> 00:15:01,870
+conscience, évaluer ou non s'il y a
+
+309
+00:15:01,870 --> 00:15:03,250
+des signes de localisation neurologique.
+
+310
+00:15:03,850 --> 00:15:05,670
+Et dans ce cas-là, le scanner devient
+
+311
+00:15:05,670 --> 00:15:06,650
+obligatoire.
+
+312
+00:15:07,830 --> 00:15:10,330
+Quand il y a des crises épileptiques récentes,
+
+313
+00:15:10,410 --> 00:15:12,490
+on court généraliser au focal après l'âge
+
+314
+00:15:12,490 --> 00:15:15,610
+de 5 ans, et seulement si hémicorporel avant
+
+315
+00:15:15,610 --> 00:15:17,430
+cet âge-là.
+
+316
+00:15:18,090 --> 00:15:21,950
+Et parfois, on se trouve dans l'indifficulté
+
+317
+00:15:21,950 --> 00:15:25,050
+de réaliser le scanner dans les médias, malgré
+
+318
+00:15:25,050 --> 00:15:26,090
+qu'il y a l'indication.
+
+319
+00:15:26,090 --> 00:15:28,950
+Alors dans ce cas-là, quand on est
+
+320
+00:15:28,950 --> 00:15:31,750
+dans l'impossibilité de réaliser le scanner, et
+
+321
+00:15:31,750 --> 00:15:33,070
+on ne peut pas le faire parce que
+
+322
+00:15:33,070 --> 00:15:34,910
+le scanner est en panne, parce qu'il
+
+323
+00:15:34,910 --> 00:15:37,030
+n'existe pas dans l'hôpital en cause,
+
+324
+00:15:37,310 --> 00:15:40,590
+parce que le malade doit se déplacer dans
+
+325
+00:15:40,590 --> 00:15:43,170
+un autre hôpital, ou même déplacer dans une
+
+326
+00:15:43,170 --> 00:15:44,310
+autre ville pour le faire.
+
+327
+00:15:44,670 --> 00:15:47,370
+Et quand on est dans la forte suspicion
+
+328
+00:15:47,370 --> 00:15:50,250
+du méningite, pour ne pas retarder la prise
+
+329
+00:15:50,250 --> 00:15:52,590
+en charge du patient, je vous conseille de
+
+330
+00:15:52,590 --> 00:15:55,730
+faire l'isomoculture, de lui mettre une voie
+
+331
+00:15:55,730 --> 00:15:58,430
+veineuse, et d'administrer la première dose d
+
+332
+00:15:58,430 --> 00:15:59,210
+'antibiotiques.
+
+333
+00:15:59,650 --> 00:16:01,890
+Et comme ça, on est tranquille pour la
+
+334
+00:16:01,890 --> 00:16:04,350
+prise en charge, qui ne doit pas être
+
+335
+00:16:04,350 --> 00:16:08,570
+retardée, malgré qu'il est préférable de faire
+
+336
+00:16:08,570 --> 00:16:10,530
+l'APL avant le traitement.
+
+337
+00:16:10,790 --> 00:16:13,090
+Mais quand on est dans l'impossibilité de
+
+338
+00:16:13,090 --> 00:16:16,470
+faire une prise en charge immédiate, rapide, dans
+
+339
+00:16:16,470 --> 00:16:20,550
+ce cas-là, on préfère quand même démarrer
+
+340
+00:16:20,550 --> 00:16:23,970
+l'antibiotérapie en attendant de réaliser le scanner
+
+341
+00:16:23,970 --> 00:16:24,470
+cérébral.
+
+342
+00:16:25,270 --> 00:16:27,930
+Alors avant, on faisait souvent le fondeuil avant
+
+343
+00:16:27,930 --> 00:16:29,910
+de décider de faire l'APL.
+
+344
+00:16:30,150 --> 00:16:31,410
+Mais maintenant, il n'y a plus d
+
+345
+00:16:31,410 --> 00:16:35,870
+'indication à demander obligatoirement un fondeuil avant de
+
+346
+00:16:35,870 --> 00:16:36,650
+réaliser l'APL.
+
+347
+00:16:36,830 --> 00:16:39,350
+Pour deux choses évidentes.
+
+348
+00:16:39,530 --> 00:16:41,550
+D'abord, parce que le fondeuil, il est
+
+349
+00:16:41,550 --> 00:16:43,610
+difficile de réaliser en urgence, il faut qu
+
+350
+00:16:43,610 --> 00:16:49,390
+'il y ait quelqu'un qui a l
+
+351
+00:16:49,390 --> 00:16:50,650
+'expérience de la faire.
+
+352
+00:16:50,950 --> 00:16:52,210
+Souvent, ce n'est pas le cas.
+
+353
+00:16:53,210 --> 00:16:57,790
+En plus, l'odème papillaire qui témoigne de
+
+354
+00:16:57,790 --> 00:17:02,530
+l'odème cérébral, il apparaît souvent tardivement.
+
+355
+00:17:03,010 --> 00:17:04,609
+C'est-à-dire que le malade peut
+
+356
+00:17:04,609 --> 00:17:07,270
+être déjà en odème cérébral, alors que l
+
+357
+00:17:07,270 --> 00:17:09,569
+'examen du fondeuil, il est strictement normal.
+
+358
+00:17:09,569 --> 00:17:14,030
+Donc, cette fausse sécurité peut être un problème.
+
+359
+00:17:14,390 --> 00:17:16,910
+Donc, je récapitule.
+
+360
+00:17:17,510 --> 00:17:20,910
+Devant un syndrome méningite fébrile, on suspecte une
+
+361
+00:17:20,910 --> 00:17:21,770
+méningite infectieuse.
+
+362
+00:17:22,890 --> 00:17:25,829
+L'examen clé pour poser le diagnostic, c
+
+363
+00:17:25,829 --> 00:17:27,250
+'est la ponction lombaire.
+
+364
+00:17:27,550 --> 00:17:30,130
+Mais avant de réaliser la ponction lombaire, il
+
+365
+00:17:30,130 --> 00:17:31,450
+y a deux questions qu'il faut se
+
+366
+00:17:31,450 --> 00:17:31,810
+poser.
+
+367
+00:17:32,350 --> 00:17:34,010
+Y a-t-il ou non des contre
+
+368
+00:17:34,010 --> 00:17:35,810
+-indications à la ponction lombaire?
+
+369
+00:17:35,810 --> 00:17:38,770
+Y a-t-il ou non une indication
+
+370
+00:17:38,770 --> 00:17:41,970
+à réaliser d'abord le scanner, en premier,
+
+371
+00:17:42,250 --> 00:17:44,930
+avant de faire la ponction lombaire?
+
+372
+00:17:45,530 --> 00:17:50,150
+Dans l'impossibilité de réaliser le scanner, dans
+
+373
+00:17:50,150 --> 00:17:55,610
+l'heure suivant l'examen du patient et
+
+374
+00:17:55,610 --> 00:17:59,150
+la suspicion de méningite, il est préférable de
+
+375
+00:17:59,150 --> 00:18:03,570
+réaliser les hémocultures et de donner la première
+
+376
+00:18:03,570 --> 00:18:06,150
+dose d'antibiotiques pour ne pas attarder la
+
+377
+00:18:06,150 --> 00:18:07,750
+prise en charge du patient.
+
+378
+00:18:08,270 --> 00:18:10,130
+Et on peut par la suite envoyer le
+
+379
+00:18:10,130 --> 00:18:13,810
+malade faire le scanner et récupérer par la
+
+380
+00:18:13,810 --> 00:18:16,650
+suite le résultat pour décider est-ce qu
+
+381
+00:18:16,650 --> 00:18:18,430
+'on va faire l'APL ou on ne
+
+382
+00:18:18,430 --> 00:18:19,090
+va pas la faire.
+
+383
+00:18:22,400 --> 00:18:25,460
+Alors, pour réaliser l'APL, on a besoin
+
+384
+00:18:25,460 --> 00:18:29,740
+d'un ensemble de matériel en respectant les
+
+385
+00:18:29,740 --> 00:18:31,160
+étapes de réalisation.
+
+386
+00:18:31,160 --> 00:18:34,800
+Avec détail, on a vu ça dans le
+
+387
+00:18:34,800 --> 00:18:38,740
+cours de ces biologies de la deuxième année.
+
+388
+00:18:39,240 --> 00:18:42,700
+J'insiste sur l'asepsie rigoureuse, sur le
+
+389
+00:18:42,700 --> 00:18:45,420
+fait d'expliquer le geste au malade, sur
+
+390
+00:18:45,420 --> 00:18:49,280
+le fait de remplir correctement les bons examens
+
+391
+00:18:49,280 --> 00:18:54,260
+avec le nom prénom correct, le numéro d
+
+392
+00:18:54,260 --> 00:18:57,980
+'hospitalisation et même les renseignements cliniques pour orienter
+
+393
+00:18:57,980 --> 00:19:00,180
+le biologiste.
+
+394
+00:19:00,180 --> 00:19:01,400
+Ce qui n'est pas une machine, c
+
+395
+00:19:01,400 --> 00:19:03,840
+'est quelqu'un qui doit raisonner avec vous
+
+396
+00:19:03,840 --> 00:19:07,520
+et interpréter les résultats en fonction des renseignements
+
+397
+00:19:07,520 --> 00:19:08,880
+que vous lui donnez.
+
+398
+00:19:11,190 --> 00:19:13,830
+Donc, vous avez ce tableau qui fait la
+
+399
+00:19:13,830 --> 00:19:17,750
+différence entre un LCR normal et un LCR
+
+400
+00:19:17,750 --> 00:19:22,850
+en fonction de l'agent pathogène en cause.
+
+401
+00:19:23,350 --> 00:19:28,810
+Donc, vous avez les méningites purulentes ou bactériennes
+
+402
+00:19:28,810 --> 00:19:30,370
+qu'on va voir dans ce cours-là.
+
+403
+00:19:30,370 --> 00:19:33,250
+Ils ont la caractéristique d'avoir un LCR
+
+404
+00:19:33,250 --> 00:19:38,930
+purulent, franchement purulent, ou même louche, trouble.
+
+405
+00:19:39,210 --> 00:19:42,290
+Parfois même, on peut avoir, dans le cas
+
+406
+00:19:42,290 --> 00:19:46,170
+de méningites bactériennes, un LCR qui est encore
+
+407
+00:19:46,170 --> 00:19:46,750
+clair.
+
+408
+00:19:47,730 --> 00:19:53,410
+Mais au niveau des paramètres chimiques et protéiques,
+
+409
+00:19:53,410 --> 00:19:57,730
+vous avez une glycémie, une glycorachie qui est
+
+410
+00:19:57,730 --> 00:20:00,150
+inférieure à la moitié de la glycémie.
+
+411
+00:20:01,030 --> 00:20:04,470
+Donc, l'intérêt de réaliser aussi une glycémie
+
+412
+00:20:04,470 --> 00:20:07,510
+au même moment que vous réalisez votre panxion
+
+413
+00:20:07,510 --> 00:20:08,070
+lombaire.
+
+414
+00:20:09,530 --> 00:20:12,450
+Dans la méningite bactérienne, le taux d'albumine
+
+415
+00:20:12,450 --> 00:20:13,390
+est élevé.
+
+416
+00:20:13,530 --> 00:20:15,550
+Il dépasse 0,4 g par litre.
+
+417
+00:20:15,670 --> 00:20:17,570
+Il peut atteindre 1 g, 2 g, 3
+
+418
+00:20:17,570 --> 00:20:18,350
+g, même plus.
+
+419
+00:20:19,130 --> 00:20:23,770
+Le nombre de cellules, ils sont très élevés.
+
+420
+00:20:24,650 --> 00:20:28,510
+On a les polynucléaires altérés, d'accord?
+
+421
+00:20:29,330 --> 00:20:32,310
+Et le germe, on peut le retrouver à
+
+422
+00:20:32,310 --> 00:20:33,190
+l'examen direct.
+
+423
+00:20:33,510 --> 00:20:35,970
+Parfois même, on peut ne pas le trouver
+
+424
+00:20:35,970 --> 00:20:38,630
+à l'examen direct et le retrouver à
+
+425
+00:20:38,630 --> 00:20:39,450
+la culture.
+
+426
+00:20:40,450 --> 00:20:42,370
+Parfois même, on peut ne pas trouver du
+
+427
+00:20:42,370 --> 00:20:42,630
+germe.
+
+428
+00:20:42,630 --> 00:20:46,230
+Le patient a reçu un traitement antibiotique avant
+
+429
+00:20:46,230 --> 00:20:49,310
+de réaliser l'APL.
+
+430
+00:20:53,000 --> 00:20:57,960
+D'autres bilans complémentaires sont à réaliser avec
+
+431
+00:20:57,960 --> 00:21:01,500
+la panxion lombaire dans l'anumération formile sanguine,
+
+432
+00:21:01,740 --> 00:21:04,060
+dans laquelle on va assister essentiellement à une
+
+433
+00:21:04,060 --> 00:21:08,320
+hyperleucocytose polynucléaire neutrophile qui va nous permettre aussi
+
+434
+00:21:08,320 --> 00:21:11,260
+de suivre l'évolution favorable biologique.
+
+435
+00:21:11,820 --> 00:21:14,500
+Il faut réaliser les hémocultures parce qu'on
+
+436
+00:21:14,500 --> 00:21:19,100
+a dit que le principal mode de contamination
+
+437
+00:21:19,100 --> 00:21:20,860
+des méninges, c'est la voie sanguine.
+
+438
+00:21:21,500 --> 00:21:24,320
+Donc on peut même isoler le germe.
+
+439
+00:21:24,600 --> 00:21:26,240
+Souvent, on peut isoler le germe dans les
+
+440
+00:21:26,240 --> 00:21:28,520
+hémocultures parce que l'inoculant bactérien, il est
+
+441
+00:21:28,520 --> 00:21:31,100
+beaucoup plus important de le sentir par rapport
+
+442
+00:21:31,100 --> 00:21:33,440
+à l'inoculant bactérien au niveau des méninges.
+
+443
+00:21:33,980 --> 00:21:36,480
+L'ACRP, c'est une protéine de l
+
+444
+00:21:36,480 --> 00:21:41,520
+'inflammation bactérienne et ça nous permet aussi d
+
+445
+00:21:41,520 --> 00:21:45,080
+'interpréter le liquide syphalorachidien quand il n'est
+
+446
+00:21:45,080 --> 00:21:45,820
+pas typique.
+
+447
+00:21:46,180 --> 00:21:48,440
+On peut demander aussi la procalcitonine parce qu
+
+448
+00:21:48,440 --> 00:21:52,580
+'une procalcitonine élevée, ça élimine une cause virale.
+
+449
+00:21:53,200 --> 00:21:55,360
+Il faut demander l'ionogramme sanguin parce qu
+
+450
+00:21:55,360 --> 00:21:57,620
+'avec la meningite, on a souvent une hyponatrémie.
+
+451
+00:21:59,300 --> 00:22:00,900
+On peut demander un bilan rénal.
+
+452
+00:22:01,020 --> 00:22:04,100
+La glycémie est obligatoire parce qu'on en
+
+453
+00:22:04,100 --> 00:22:06,540
+aura besoin pour interpréter la glycorachie.
+
+454
+00:22:06,540 --> 00:22:11,740
+D'autres bilans radiologiques peuvent être réalisés dont
+
+455
+00:22:11,740 --> 00:22:13,720
+la radiothoraxe à la recherche d'un foyer
+
+456
+00:22:13,720 --> 00:22:15,380
+pulmonaire qui est peut-être la porte d
+
+457
+00:22:15,380 --> 00:22:17,960
+'entrée, une radio de sinus pour voir s
+
+458
+00:22:17,960 --> 00:22:19,280
+'il n'y a pas une sinusite qui
+
+459
+00:22:19,280 --> 00:22:21,380
+est peut-être une porte d'entrée, un
+
+460
+00:22:21,380 --> 00:22:23,860
+examen oral à la recherche d'une otite,
+
+461
+00:22:24,060 --> 00:22:25,020
+d'une sinusite.
+
+462
+00:22:25,540 --> 00:22:27,640
+Donc ce bilan-là, c'est un bilan
+
+463
+00:22:27,640 --> 00:22:31,720
+à réaliser au moment de l'appel ou
+
+464
+00:22:31,720 --> 00:22:34,760
+juste après parce qu'il nous permet d
+
+465
+00:22:34,760 --> 00:22:38,220
+'interpréter parfois l'appel quand il n'y
+
+466
+00:22:38,220 --> 00:22:42,460
+a pas de signe très spécifique ou même
+
+467
+00:22:42,460 --> 00:22:49,020
+de poser le diagnostic pour certains bilans comme
+
+468
+00:22:49,020 --> 00:22:51,960
+les hémocultures ou même de chercher un foyer
+
+469
+00:22:51,960 --> 00:22:53,600
+prime.
+
+470
+00:22:54,620 --> 00:22:56,760
+Mais jamais on ne fait ce bilan avant
+
+471
+00:22:56,760 --> 00:22:58,160
+de décider est-ce que je vais faire
+
+472
+00:22:58,160 --> 00:22:58,640
+l'appel.
+
+473
+00:22:58,640 --> 00:23:01,680
+Donc l'appel, c'est toujours un examen
+
+474
+00:23:01,680 --> 00:23:04,460
+clé à réaliser en premier s'il n
+
+475
+00:23:04,460 --> 00:23:06,660
+'y a pas de contre-indication à l
+
+476
+00:23:06,660 --> 00:23:07,640
+'appel et s'il n'y a pas
+
+477
+00:23:07,640 --> 00:23:08,780
+d'indication en scanner.
+
+478
+00:23:09,380 --> 00:23:12,040
+Et bien sûr, il doit être en plus
+
+479
+00:23:12,040 --> 00:23:16,280
+accompagné de ce bilan-là qui peut être
+
+480
+00:23:16,280 --> 00:23:18,580
+un peu élargi en fonction de la situation
+
+481
+00:23:18,580 --> 00:23:19,180
+clinique.
+
+482
+00:23:20,480 --> 00:23:22,340
+On a dit que chez l'adulte, c
+
+483
+00:23:22,340 --> 00:23:27,580
+'est essentiellement les méningites, aminogococque, apneumocoque et alestéria.
+
+484
+00:23:27,580 --> 00:23:31,660
+Donc on va voir maintenant les méningites aminogocque.
+
+485
+00:23:32,080 --> 00:23:37,960
+Donc le aminogococque ou mycéria meningitis, dans les
+
+486
+00:23:37,960 --> 00:23:41,640
+sérogroupes les plus fréquemment impliqués dans la méningite,
+
+487
+00:23:41,780 --> 00:23:43,860
+c'est le A, B, C, W, 135,
+
+488
+00:23:44,280 --> 00:23:45,000
+X et Y.
+
+489
+00:23:45,780 --> 00:23:50,560
+Et c'est un germe qui est strictement
+
+490
+00:23:50,560 --> 00:23:54,260
+humain, dont le réservoir est l'urinopharax de
+
+491
+00:23:54,260 --> 00:23:54,980
+l'homme.
+
+492
+00:23:56,780 --> 00:24:00,100
+L'infection, la méningite aminogoccoque, elle peut survenir
+
+493
+00:24:00,100 --> 00:24:02,920
+à tout âge, mais il y a une
+
+494
+00:24:02,920 --> 00:24:09,860
+prédominance hivernale, le temps et l'hiver.
+
+495
+00:24:10,560 --> 00:24:11,360
+Pourquoi ?
+
+496
+00:24:11,360 --> 00:24:14,580
+Parce que le mynogococque qui est au niveau
+
+497
+00:24:14,580 --> 00:24:17,980
+du rhinopharynx, ce qui va stimuler son passage
+
+498
+00:24:17,980 --> 00:24:20,120
+dans la circulation sanguine, c'est quand il
+
+499
+00:24:20,120 --> 00:24:26,000
+y a toute infection du rhinopharynx, c'est
+
+500
+00:24:26,000 --> 00:24:30,080
+l'exposition au froid, l'exposition aux infections
+
+501
+00:24:30,080 --> 00:24:32,920
+virales qui sont fréquentes en automne et en
+
+502
+00:24:32,920 --> 00:24:35,940
+hiver, d'où l'apparition de cas de
+
+503
+00:24:35,940 --> 00:24:39,820
+myningites aminogococque plus fréquemment pendant cette période.
+
+504
+00:24:40,280 --> 00:24:42,800
+Alors les myningites aminogocque, il peut se voir
+
+505
+00:24:42,800 --> 00:24:47,140
+comme par des cas sporadiques, répartis l'un
+
+506
+00:24:47,140 --> 00:24:52,380
+aux biens sous forme d'épidémie.
+
+507
+00:24:54,440 --> 00:24:57,860
+Pour la répartition de la myningite aminogoccoque, on
+
+508
+00:24:57,860 --> 00:25:01,300
+a cette ceinture africaine de la myningite qui
+
+509
+00:25:01,300 --> 00:25:07,360
+se prolonge du Sénégal à gauche jusqu'à
+
+510
+00:25:07,360 --> 00:25:11,400
+l'Ethiopie à droite, où il y a
+
+511
+00:25:11,400 --> 00:25:13,940
+pas mal de pays qui font partie de
+
+512
+00:25:13,940 --> 00:25:16,240
+cette ceinture ou qui vivent un état d
+
+513
+00:25:16,240 --> 00:25:21,540
+'endémie de myningite permanent avec des poussées épidémiques
+
+514
+00:25:21,540 --> 00:25:26,240
+qu'on voit tout au long de l
+
+515
+00:25:26,240 --> 00:25:26,380
+'année.
+
+516
+00:25:28,760 --> 00:25:31,440
+Donc dans cette diapo-là, vous avez la
+
+517
+00:25:31,440 --> 00:25:35,880
+répartition de cas de myningite aminogococque au Maroc
+
+518
+00:25:35,880 --> 00:25:40,000
+depuis 1982 jusqu'en 2016, et vous voyez
+
+519
+00:25:40,000 --> 00:25:41,560
+qu'on a vécu quand même des cas
+
+520
+00:25:41,560 --> 00:25:45,140
+d'épidémie dans la fin des années 80
+
+521
+00:25:45,140 --> 00:25:49,980
+et début des années 90, puis un état
+
+522
+00:25:49,980 --> 00:25:54,540
+stationnaire vers 400 cas pendant toutes les années
+
+523
+00:25:54,540 --> 00:25:59,860
+90 et jusqu'au début 2000, puis une
+
+524
+00:25:59,860 --> 00:26:04,840
+épidémie en 2006-2007, puis ça reprend, et
+
+525
+00:26:04,840 --> 00:26:05,500
+ainsi de suite.
+
+526
+00:26:06,940 --> 00:26:13,960
+Alors cliniquement, la myningite aminogococque se manifeste par
+
+527
+00:26:13,960 --> 00:26:17,280
+un début rapidement progressif.
+
+528
+00:26:17,980 --> 00:26:20,700
+Le tableau clinique est franc, typique.
+
+529
+00:26:21,420 --> 00:26:23,840
+Les signes de localisation sont très rares.
+
+530
+00:26:24,460 --> 00:26:27,800
+Le purpura est évocateur quand il est extensif,
+
+531
+00:26:28,360 --> 00:26:30,080
+et dans ce cas-là, il faut craindre
+
+532
+00:26:30,080 --> 00:26:31,480
+le purpura fulminans.
+
+533
+00:26:34,080 --> 00:26:37,440
+Et l'APL, quand on la réalise, il
+
+534
+00:26:37,440 --> 00:26:40,980
+y a une myningite pérulante avec hyperalbuminoachie et
+
+535
+00:26:40,980 --> 00:26:42,260
+hypoglycorachie.
+
+536
+00:26:42,740 --> 00:26:46,760
+Donc vous voyez dans les photos suivantes, on
+
+537
+00:26:46,760 --> 00:26:50,060
+a un purpura qu'on arrive à voir
+
+538
+00:26:50,060 --> 00:26:51,520
+à travers un verre.
+
+539
+00:26:51,680 --> 00:26:55,400
+Les deux photos en bas, vous avez quand
+
+540
+00:26:55,400 --> 00:26:58,400
+même un purpura nécrotique, mais très étendu à
+
+541
+00:26:58,400 --> 00:27:01,740
+droite, et le purpura fulminans, il peut même
+
+542
+00:27:01,740 --> 00:27:09,840
+aboutir à des nécroses, des extrémités, même obligeant
+
+543
+00:27:09,840 --> 00:27:12,100
+à aller jusqu'à l'amputation.
+
+544
+00:27:14,440 --> 00:27:16,100
+Alors c'est quoi le purpura fulminans?
+
+545
+00:27:16,200 --> 00:27:19,260
+C'est un purpura fibril qui comporte au
+
+546
+00:27:19,260 --> 00:27:22,820
+moins un élément nécrotique ou équimotique de diamètre
+
+547
+00:27:22,820 --> 00:27:24,640
+supérieur à 3 mm.
+
+548
+00:27:25,460 --> 00:27:28,860
+Et c'est une urgence thérapeutique, parce que
+
+549
+00:27:28,860 --> 00:27:32,100
+c'est un état infectieux sévère, dont la
+
+550
+00:27:32,100 --> 00:27:37,180
+rapidité de la prise en charge peut améliorer
+
+551
+00:27:37,180 --> 00:27:39,620
+le pronostic de cette situation.
+
+552
+00:27:40,260 --> 00:27:42,040
+Et la prise en charge, il doit être
+
+553
+00:27:42,040 --> 00:27:44,020
+même en pré-hospitalière.
+
+554
+00:27:44,200 --> 00:27:45,080
+C'est-à-dire que dès qu'on
+
+555
+00:27:45,080 --> 00:27:48,540
+voit le patient, il faut agir en lui
+
+556
+00:27:48,540 --> 00:27:52,240
+donnant la première dose d'antibiotique avant de
+
+557
+00:27:52,240 --> 00:27:54,740
+l'envoyer à la structure hospitalière la plus
+
+558
+00:27:54,740 --> 00:27:56,780
+proche, parce que c'est cette dose d
+
+559
+00:27:56,780 --> 00:28:00,760
+'antibiotique qui peut sauver le patient.
+
+560
+00:28:01,300 --> 00:28:02,420
+Ce qu'on peut donner, c'est de
+
+561
+00:28:02,420 --> 00:28:06,900
+la lécéphalosporine de troisième génération, ou à défaut,
+
+562
+00:28:07,100 --> 00:28:08,520
+de la moxicéline tout court.
+
+563
+00:28:09,840 --> 00:28:14,200
+Donc ici vous avez un tableau expliquant les
+
+564
+00:28:14,200 --> 00:28:18,700
+modalités d'administration et les posologies.
+
+565
+00:28:18,700 --> 00:28:22,600
+Pour l'adulte, il faut donner un de
+
+566
+00:28:22,600 --> 00:28:27,000
+ces trois antibiotiques, la ceftriaxone ou la cefotaxime
+
+567
+00:28:27,000 --> 00:28:29,700
+ou la moxicéline, à raison d'un gramme,
+
+568
+00:28:29,900 --> 00:28:34,540
+en injection, en intraveineuse, si on a possibilité
+
+569
+00:28:34,540 --> 00:28:38,300
+de les donner en intramusculaire, avant d'envoyer
+
+570
+00:28:38,300 --> 00:28:41,360
+le patient à la structure hospitalière la plus
+
+571
+00:28:41,360 --> 00:28:41,800
+proche.
+
+572
+00:28:41,800 --> 00:28:46,800
+Le traitement de la meningite aminagocoque repose sur
+
+573
+00:28:46,800 --> 00:28:50,140
+l'administration de la céphalosporine de troisième génération
+
+574
+00:28:50,140 --> 00:28:52,800
+en intraveineuse, ou la moxicéline à raison de
+
+575
+00:28:52,800 --> 00:28:54,640
+200 mg par kg par jour.
+
+576
+00:28:55,000 --> 00:28:57,780
+Pour la ceftriaxone, c'est 75 mg par
+
+577
+00:28:57,780 --> 00:28:58,500
+kg par jour.
+
+578
+00:28:59,920 --> 00:29:02,900
+Souvent, l'évolution est favorable, la mortalité peut
+
+579
+00:29:02,900 --> 00:29:04,340
+être de 10 à 15 %.
+
+580
+00:29:04,340 --> 00:29:07,500
+La chose la plus importante dans la meningite
+
+581
+00:29:07,500 --> 00:29:11,340
+aminagocoque, c'est qu'il y a deux
+
+582
+00:29:11,340 --> 00:29:14,880
+conduites à tenir autour de tout cas de
+
+583
+00:29:14,880 --> 00:29:18,560
+meningite aminagocoque pour stopper une épidémie à partir
+
+584
+00:29:18,560 --> 00:29:19,460
+de ce premier cas.
+
+585
+00:29:19,760 --> 00:29:22,860
+La première, c'est une déclaration obligatoire et
+
+586
+00:29:22,860 --> 00:29:25,240
+c'est une déclaration sur papier qu'on
+
+587
+00:29:25,240 --> 00:29:28,760
+doit envoyer par voie administrative, mais aussi c
+
+588
+00:29:28,760 --> 00:29:31,540
+'est une déclaration par téléphone, parce que la
+
+589
+00:29:31,540 --> 00:29:35,120
+prise en charge des cas de l'entourage
+
+590
+00:29:35,120 --> 00:29:37,660
+d'un patient qui fait une meningite aminagocoque
+
+591
+00:29:37,660 --> 00:29:40,620
+doit être dans les médias, dans les premières
+
+592
+00:29:40,620 --> 00:29:43,140
+heures, dans les premiers jours suivant l'apparition
+
+593
+00:29:43,140 --> 00:29:43,920
+de ce cas-là.
+
+594
+00:29:44,740 --> 00:29:49,040
+Et la deuxième chose, c'est la chimioprophylaxie,
+
+595
+00:29:49,620 --> 00:29:53,740
+la prophylaxie contre la meningite aminagocoque, qui contient
+
+596
+00:29:53,740 --> 00:29:56,960
+la chimioprophylaxie, c'est-à-dire administrée aux
+
+597
+00:29:56,960 --> 00:29:59,240
+patients qui ont été en contact de ce
+
+598
+00:29:59,240 --> 00:30:01,860
+patient-là, soit de la rifampicine, qui est
+
+599
+00:30:01,860 --> 00:30:03,580
+le traitement de premier choix au Maroc, à
+
+600
+00:30:03,580 --> 00:30:05,500
+raison de 600 mg deux fois par jour
+
+601
+00:30:05,500 --> 00:30:06,500
+pendant deux jours.
+
+602
+00:30:06,920 --> 00:30:09,320
+Je répète, c'est 600 mg deux fois
+
+603
+00:30:09,320 --> 00:30:12,140
+par jour, c'est la double dose utilisée
+
+604
+00:30:12,140 --> 00:30:14,740
+dans le traitement de la tuberculose.
+
+605
+00:30:14,740 --> 00:30:17,420
+Ou en cas de contre-indication, on peut
+
+606
+00:30:17,420 --> 00:30:20,840
+utiliser l'aspéramicine, c'est une macrolide à
+
+607
+00:30:20,840 --> 00:30:22,620
+raison de 3 millions de fois par jour
+
+608
+00:30:22,620 --> 00:30:25,160
+ici pendant 5 jours.
+
+609
+00:30:25,940 --> 00:30:29,840
+On a la possibilité aussi de donner la
+
+610
+00:30:29,840 --> 00:30:33,220
+vaccination contre les séreotypes A, C, W, 135
+
+611
+00:30:33,220 --> 00:30:33,920
+et Y.
+
+612
+00:30:34,260 --> 00:30:37,080
+Malheureusement, on n'a pas de disponibilité du
+
+613
+00:30:37,080 --> 00:30:40,160
+vaccin contre le meningo B au Maroc.
+
+614
+00:30:40,160 --> 00:30:46,420
+Et parmi la prophylaxie visant à protéger contre
+
+615
+00:30:46,420 --> 00:30:49,320
+la meningite aminagocoque, il y a la vaccination
+
+616
+00:30:49,320 --> 00:30:54,880
+obligatoire chez les voyageurs se rendant à un
+
+617
+00:30:54,880 --> 00:30:59,400
+des pays de la ceinture africaine de Meningocoque,
+
+618
+00:30:59,880 --> 00:31:04,800
+ou bien chez les voyageurs qui partent au
+
+619
+00:31:04,800 --> 00:31:07,560
+pèlerinage ou à l'omra.
+
+620
+00:31:07,560 --> 00:31:09,180
+Pourquoi le pèlerinage?
+
+621
+00:31:09,280 --> 00:31:12,480
+Parce que lors de ce moment de pèlerinage,
+
+622
+00:31:12,620 --> 00:31:14,440
+il y a un influx très important des
+
+623
+00:31:14,440 --> 00:31:24,160
+gens et avec une promiscuité, avec même l
+
+624
+00:31:24,160 --> 00:31:28,640
+'exposition à la climatisation qui fait qu'il
+
+625
+00:31:28,640 --> 00:31:33,120
+y a la possibilité de contamination rhénopharynge par
+
+626
+00:31:33,120 --> 00:31:37,320
+le meningocoque et la possibilité de développer pour
+
+627
+00:31:37,320 --> 00:31:39,840
+les gens qui sont en contact avec un
+
+628
+00:31:39,840 --> 00:31:42,520
+meningocoque nouveau pour lequel on n'a pas
+
+629
+00:31:42,520 --> 00:31:45,620
+des anticorps, peuvent développer une meningite par la
+
+630
+00:31:45,620 --> 00:31:49,620
+suite et peuvent même être responsables d'apparition
+
+631
+00:31:49,620 --> 00:31:56,080
+de meningite aminagocoque après leur retour du pèlerinage
+
+632
+00:31:56,080 --> 00:32:02,500
+et exposer leur famille au risque de développer
+
+633
+00:32:02,500 --> 00:32:04,680
+une meningite aminagocoque.
+
+634
+00:32:07,000 --> 00:32:10,380
+Alors dans la prophylaxie vis-à-vis du
+
+635
+00:32:10,380 --> 00:32:14,380
+meningocoque, je me répète qu'on a deux
+
+636
+00:32:14,380 --> 00:32:21,560
+possibilités, soit on a deux possibilités qui sont
+
+637
+00:32:21,560 --> 00:32:25,640
+la chimioprophylaxie et la vaccination et qu'ils
+
+638
+00:32:25,640 --> 00:32:28,500
+ont deux objectifs, c'est d'éliminer un
+
+639
+00:32:28,500 --> 00:32:35,300
+portage nouvellement acquis autour d'un cas qui
+
+640
+00:32:35,300 --> 00:32:38,400
+a la meningite aminagocoque et de prévenir la
+
+641
+00:32:38,400 --> 00:32:40,340
+diffusion par un porteur sain.
+
+642
+00:32:40,340 --> 00:32:44,780
+Et il faut que j'ouvre une parenthèse,
+
+643
+00:32:45,260 --> 00:32:48,500
+pour les patients qui ont une meningite aminagocoque
+
+644
+00:32:48,500 --> 00:32:51,560
+qui ont été traitées par de l'amoxycéline,
+
+645
+00:32:52,740 --> 00:32:55,760
+ces patients-là, ils ont besoin aussi de
+
+646
+00:32:55,760 --> 00:33:02,000
+prendre une chimioprophylaxie pour traiter le portage rhénopharynge
+
+647
+00:33:02,000 --> 00:33:07,240
+parce que l'amoxycéline, même donnée à une
+
+648
+00:33:07,240 --> 00:33:10,940
+posologie supérieure à 200 mg par kg par
+
+649
+00:33:10,940 --> 00:33:13,720
+jour en intraveineuse, il est capable de traiter
+
+650
+00:33:13,720 --> 00:33:16,160
+la meningite aminagocoque, mais il n'arrive pas
+
+651
+00:33:16,160 --> 00:33:19,820
+à des concentrations suffisantes pour traiter le portage
+
+652
+00:33:19,820 --> 00:33:20,560
+rhénopharynge.
+
+653
+00:33:20,760 --> 00:33:23,320
+Donc un patient qui est guéri risque d
+
+654
+00:33:23,320 --> 00:33:25,960
+'avoir quand même le meningocoque au niveau de
+
+655
+00:33:25,960 --> 00:33:28,860
+son rhénopharynx et de le diffuser dans son
+
+656
+00:33:28,860 --> 00:33:29,440
+entourage.
+
+657
+00:33:29,440 --> 00:33:31,360
+Et dans ce cas-là, ce patient qui
+
+658
+00:33:31,360 --> 00:33:33,960
+a été traité pour une meningite aminagocoque par
+
+659
+00:33:33,960 --> 00:33:38,480
+l'amoxycéline doit aussi prendre la chimioprophylaxie, pas
+
+660
+00:33:38,480 --> 00:33:40,360
+pour être prévenu parce que lui, il a
+
+661
+00:33:40,360 --> 00:33:43,180
+déjà été traité et il a développé des
+
+662
+00:33:43,180 --> 00:33:46,980
+anticorps, mais pour stériliser son rhénopharynx pour ne
+
+663
+00:33:46,980 --> 00:33:48,080
+pas diffuser le meningococque.
+
+664
+00:33:48,360 --> 00:33:50,660
+Par contre, un patient qui a la meningite
+
+665
+00:33:50,660 --> 00:33:56,020
+aminagocoque qui a été traité par les céphalosporins
+
+666
+00:33:56,020 --> 00:34:00,060
+troisième génération injectables, ce traitement-là, il traite
+
+667
+00:34:00,060 --> 00:34:03,780
+et la meningite, il traite aussi le portage
+
+668
+00:34:03,780 --> 00:34:04,920
+et dans ce cas-là, il n'a
+
+669
+00:34:04,920 --> 00:34:06,780
+pas besoin dans ce cas-là d'une
+
+670
+00:34:06,780 --> 00:34:07,639
+chimioprophylaxie.
+
+671
+00:34:07,800 --> 00:34:11,780
+Il ne risque pas de diffuser le meningococque
+
+672
+00:34:11,780 --> 00:34:13,060
+autour de son entourage.
+
+673
+00:34:17,440 --> 00:34:20,940
+Alors l'antibioprophylaxie, il doit être démarré le
+
+674
+00:34:20,940 --> 00:34:23,840
+plus tôt possible, essentiellement dans les 48 heures
+
+675
+00:34:23,840 --> 00:34:28,340
+suivant le diagnostic de la meningite aminagocoque.
+
+676
+00:34:28,340 --> 00:34:29,920
+C'est pour ça qu'on dit que
+
+677
+00:34:29,920 --> 00:34:32,620
+la déclaration doit être faite par téléphone parce
+
+678
+00:34:32,620 --> 00:34:35,500
+que le papier, ça va traîner, ça va
+
+679
+00:34:35,500 --> 00:34:36,900
+demander du temps pour aboutir.
+
+680
+00:34:37,460 --> 00:34:39,820
+Et il n'y a pas intérêt à
+
+681
+00:34:39,820 --> 00:34:44,000
+démarrer cette prophylaxie après 10 jours parce que
+
+682
+00:34:44,000 --> 00:34:47,639
+même si les gens ont été contaminés par
+
+683
+00:34:47,639 --> 00:34:49,800
+le meningococque, ils l'ont acquis au niveau
+
+684
+00:34:49,800 --> 00:34:52,040
+de leur rhinopharynx, au-delà de 10 jours,
+
+685
+00:34:52,179 --> 00:34:55,219
+ils ont déjà soit développé la meningite, soit
+
+686
+00:34:55,219 --> 00:35:00,380
+ils ont déjà développé les anticorps contre ce
+
+687
+00:35:00,380 --> 00:35:01,600
+meningococque.
+
+688
+00:35:03,350 --> 00:35:07,710
+Donc qui va bénéficier de l'antibioprophylaxie, c
+
+689
+00:35:07,710 --> 00:35:10,110
+'est essentiellement les gens qui ont eu un
+
+690
+00:35:10,110 --> 00:35:13,370
+contact très rapproché avec un malade qui a
+
+691
+00:35:13,370 --> 00:35:15,230
+fait une meningite aminagocoque.
+
+692
+00:35:15,230 --> 00:35:17,510
+Quand on dit très rapproché, c'est un
+
+693
+00:35:17,510 --> 00:35:20,550
+contact étroit inférieur à un mètre parce que
+
+694
+00:35:20,550 --> 00:35:26,670
+les gouttelettes qui transmettent le meningococque, ils ne
+
+695
+00:35:26,670 --> 00:35:28,750
+vont pas arriver au-delà d'un mètre
+
+696
+00:35:28,750 --> 00:35:32,150
+vu que c'est une transmission par gouttelette.
+
+697
+00:35:32,670 --> 00:35:34,990
+Donc un contact rapproché dans ce cas-là
+
+698
+00:35:34,990 --> 00:35:37,830
+et il doit être un contact prolongé au
+
+699
+00:35:37,830 --> 00:35:38,630
+-delà de 8 heures.
+
+700
+00:35:38,630 --> 00:35:40,810
+Ou bien s'il y a une exposition
+
+701
+00:35:40,810 --> 00:35:43,310
+directe aux sécrétions de rhopharyngie, c'est comme
+
+702
+00:35:43,310 --> 00:35:44,410
+si c'est quelqu'un qui a fait
+
+703
+00:35:44,410 --> 00:35:48,090
+la bouche-à-bouche lors d'une respiration
+
+704
+00:35:48,090 --> 00:35:49,750
+par bouche-à-bouche ou lors d'une
+
+705
+00:35:49,750 --> 00:35:52,410
+intubation sans prendre les mesures protectrices.
+
+706
+00:35:52,970 --> 00:35:56,190
+Donc ce sont les gens qui répondent à
+
+707
+00:35:56,190 --> 00:35:58,530
+cette définition-là qui doivent bénéficier de l
+
+708
+00:35:58,530 --> 00:36:04,290
+'antibioprophylaxie, mais pas tous les gens se retrouvant
+
+709
+00:36:04,290 --> 00:36:06,950
+dans le service où le malade est hospitalisé
+
+710
+00:36:06,950 --> 00:36:08,730
+parce qu'à chaque fois qu'on a
+
+711
+00:36:08,730 --> 00:36:11,230
+une meningite aminogocco dans le service, il y
+
+712
+00:36:11,230 --> 00:36:13,590
+a tout le monde qui veut prendre la
+
+713
+00:36:13,590 --> 00:36:15,110
+prophylaxie, il y a tout le monde qui
+
+714
+00:36:15,110 --> 00:36:17,090
+veut faire la vaccination.
+
+715
+00:36:18,650 --> 00:36:21,210
+Donc c'est essentiellement les gens qui répondent
+
+716
+00:36:21,210 --> 00:36:24,070
+à ce critère-là qui doivent bénéficier de
+
+717
+00:36:24,070 --> 00:36:25,690
+l'antibioprophylaxie.
+
+718
+00:36:25,690 --> 00:36:29,490
+Donc deuxième germe plus fréquemment rencontré en cas
+
+719
+00:36:29,490 --> 00:36:31,570
+de meningite, c'est le pneumocoque.
+
+720
+00:36:31,730 --> 00:36:34,610
+Alors pneumocoque ou streptocoque pneumoniste, c'est un
+
+721
+00:36:34,610 --> 00:36:38,790
+coxygramme positif à la différence du meningocoque qui
+
+722
+00:36:38,790 --> 00:36:40,490
+est un coxygramme négatif.
+
+723
+00:36:41,610 --> 00:36:45,350
+La transmission et la contamination des méningites se
+
+724
+00:36:45,350 --> 00:36:48,170
+fait par contiguïté ou par voie hématogène à
+
+725
+00:36:48,170 --> 00:36:51,570
+partir d'un foyer ORL.
+
+726
+00:36:51,570 --> 00:36:56,110
+Par voie hématogène, donc à partir d'un
+
+727
+00:36:56,110 --> 00:36:59,310
+foyer lointain qui peut être un foyer pulmonaire.
+
+728
+00:36:59,910 --> 00:37:02,550
+Et il faut chercher essentiellement les signes qui
+
+729
+00:37:02,550 --> 00:37:05,690
+vont orienter vers une meningite à pneumocoque.
+
+730
+00:37:06,110 --> 00:37:08,390
+Essentiellement les patients qui ont déjà fait des
+
+731
+00:37:08,390 --> 00:37:09,990
+méningites bactériennes.
+
+732
+00:37:10,570 --> 00:37:12,770
+Les gens qui ont eu un traumatisme crânien
+
+733
+00:37:12,770 --> 00:37:16,170
+avec la possibilité d'une brèche ostéominingée mettant
+
+734
+00:37:16,170 --> 00:37:20,870
+les méninges en contact des voies aériennes.
+
+735
+00:37:20,870 --> 00:37:23,950
+L'existence d'une immunodépression, les patients qui
+
+736
+00:37:23,950 --> 00:37:25,450
+ont des lymphomas ou des hémopathies.
+
+737
+00:37:25,910 --> 00:37:28,650
+L'existence déjà d'une brèche ostéodurale qui
+
+738
+00:37:28,650 --> 00:37:32,090
+peut être primitive ou congénitale ou qui peut
+
+739
+00:37:32,090 --> 00:37:35,350
+être secondaire, soit suite à un traumatisme crânien
+
+740
+00:37:35,350 --> 00:37:38,650
+ou même suite à un acte chirurgical.
+
+741
+00:37:39,590 --> 00:37:41,790
+Quand il y a aussi des infections des
+
+742
+00:37:41,790 --> 00:37:42,890
+voies aériennes.
+
+743
+00:37:43,170 --> 00:37:44,910
+Donc quand il y a ces critères-là,
+
+744
+00:37:45,170 --> 00:37:48,390
+il faut toujours suspecter plutôt une meningite à
+
+745
+00:37:48,390 --> 00:37:48,910
+pneumocoque.
+
+746
+00:37:48,910 --> 00:37:51,590
+Le tableau clinique de la meningite à pneumocoque,
+
+747
+00:37:51,690 --> 00:37:53,210
+c'est un tableau clinique qui est franc,
+
+748
+00:37:54,190 --> 00:37:56,010
+d'installation rapidement progressive.
+
+749
+00:37:56,630 --> 00:38:00,090
+Il y a souvent, fréquemment, une altération de
+
+750
+00:38:00,090 --> 00:38:01,490
+l'état de conscience et des signes de
+
+751
+00:38:01,490 --> 00:38:02,250
+focalisation.
+
+752
+00:38:02,470 --> 00:38:05,930
+Beaucoup plus fréquemment par rapport à la meningite
+
+753
+00:38:05,930 --> 00:38:07,270
+à pneumocoque.
+
+754
+00:38:07,450 --> 00:38:10,490
+Par contre, le purpura ici, il est rare
+
+755
+00:38:10,490 --> 00:38:12,950
+par rapport à la meningite à pneumocoque.
+
+756
+00:38:13,250 --> 00:38:14,770
+Donc on peut le voir quand même, mais
+
+757
+00:38:14,770 --> 00:38:15,270
+il est rare.
+
+758
+00:38:15,270 --> 00:38:17,610
+La mortalité, elle est élevée, elle est de
+
+759
+00:38:17,610 --> 00:38:18,510
+30%.
+
+760
+00:38:19,270 --> 00:38:22,130
+Ici, vous voyez une lame avec des cocci
+
+761
+00:38:22,130 --> 00:38:24,870
+grains positifs en grains de café.
+
+762
+00:38:27,470 --> 00:38:30,330
+Alors pour le traitement de la meningite à
+
+763
+00:38:30,330 --> 00:38:32,830
+pneumocoque, il se pose le problème de la
+
+764
+00:38:32,830 --> 00:38:34,890
+diminution de la sensibilité du pneumocoque à la
+
+765
+00:38:34,890 --> 00:38:35,610
+pénicillin G.
+
+766
+00:38:36,130 --> 00:38:38,730
+Donc il faut suspecter ces diminutions de la
+
+767
+00:38:38,730 --> 00:38:41,110
+sensibilité dans certains critères.
+
+768
+00:38:41,110 --> 00:38:43,090
+C'est-à-dire la notion d'hospitalisation
+
+769
+00:38:43,090 --> 00:38:46,130
+dans l'année précédant l'épisode de meningite.
+
+770
+00:38:46,510 --> 00:38:51,270
+La notion de prise de bétalactamine dans les
+
+771
+00:38:51,270 --> 00:38:52,990
+3 mois précédant l'épisode.
+
+772
+00:38:53,430 --> 00:38:56,210
+Les âges extrêmes, les enfants et les sujets
+
+773
+00:38:56,210 --> 00:38:56,650
+âgés.
+
+774
+00:38:56,990 --> 00:39:00,310
+L'existence d'infections orales à répétition.
+
+775
+00:39:00,610 --> 00:39:03,650
+Donc tous ces critères doivent faire penser à
+
+776
+00:39:03,650 --> 00:39:06,790
+un pneumocoque de sensibilité diminuée à la pénicillin
+
+777
+00:39:06,790 --> 00:39:06,890
+G.
+
+778
+00:39:06,890 --> 00:39:10,190
+Et le traitement, il repose essentiellement sur les
+
+779
+00:39:10,190 --> 00:39:11,950
+céphalosporines 3ème génération.
+
+780
+00:39:12,210 --> 00:39:16,550
+En commençant par un de ces deux médicaments,
+
+781
+00:39:16,810 --> 00:39:19,010
+soit la cifotaxime à raison de 300 mg
+
+782
+00:39:19,010 --> 00:39:20,070
+par kg par jour.
+
+783
+00:39:20,650 --> 00:39:22,930
+Ou la ceftriaxone à raison de 100 mg
+
+784
+00:39:22,930 --> 00:39:23,950
+par kg par jour.
+
+785
+00:39:24,510 --> 00:39:29,290
+Ça c'est un traitement qui précède le
+
+786
+00:39:29,290 --> 00:39:30,330
+résultat de l'APL.
+
+787
+00:39:30,330 --> 00:39:32,750
+Parce que quand on suspecte de meningite, rien
+
+788
+00:39:32,750 --> 00:39:35,530
+que le fait de voir un LCR trouble,
+
+789
+00:39:35,870 --> 00:39:37,170
+ou bien quand il y a des éléments
+
+790
+00:39:37,170 --> 00:39:39,730
+en faveur de meningite, avant même de recevoir
+
+791
+00:39:39,730 --> 00:39:41,830
+le résultat, il faut déjà commencer le traitement.
+
+792
+00:39:42,210 --> 00:39:44,930
+Donc on commence le traitement par les céphalosporines.
+
+793
+00:39:45,250 --> 00:39:48,890
+Mais dès qu'on récupère l'antibiogramme, s
+
+794
+00:39:48,890 --> 00:39:51,170
+'il est sensible à l'amoxicilline, on peut
+
+795
+00:39:51,170 --> 00:39:53,950
+switcher avec l'amoxicilline.
+
+796
+00:39:53,950 --> 00:39:56,890
+Quand il s'agit d'un pneumocoque totalement
+
+797
+00:39:56,890 --> 00:39:59,730
+résistant au bitalectamine, c'est la place des
+
+798
+00:39:59,730 --> 00:40:00,850
+glycopeptides.
+
+799
+00:40:02,190 --> 00:40:04,150
+Il n'y a pas de place à
+
+800
+00:40:04,150 --> 00:40:06,430
+l'amoxicilline acide clave dans le traitement des
+
+801
+00:40:06,430 --> 00:40:06,930
+meningites.
+
+802
+00:40:07,010 --> 00:40:08,430
+Que ce soit le meningocoque, que ce soit
+
+803
+00:40:08,430 --> 00:40:09,650
+le pneumocoque, que ce soit autre.
+
+804
+00:40:10,070 --> 00:40:12,490
+Parce que l'amoxicilline acide clave, l'acide
+
+805
+00:40:12,490 --> 00:40:14,130
+clave c'est une grosse molécule qui ne
+
+806
+00:40:14,130 --> 00:40:16,030
+traverse pas la barrière hématomeningite.
+
+807
+00:40:17,030 --> 00:40:19,450
+Donc la durée de traitement est de 10
+
+808
+00:40:19,450 --> 00:40:20,290
+à 14 jours.
+
+809
+00:40:20,510 --> 00:40:21,430
+Pourquoi 10-14 ?
+
+810
+00:40:21,430 --> 00:40:23,050
+C'est en fonction de l'évolution clinique.
+
+811
+00:40:23,050 --> 00:40:25,570
+Si le malheur s'améliore rapidement les premiers
+
+812
+00:40:25,570 --> 00:40:27,530
+jours, on peut se contenter de 10 jours.
+
+813
+00:40:27,890 --> 00:40:30,890
+Si l'évolution est traînante, il met du
+
+814
+00:40:30,890 --> 00:40:32,870
+temps, dans ce cas-là, il faut prolonger
+
+815
+00:40:32,870 --> 00:40:33,750
+la durée de traitement.
+
+816
+00:40:34,190 --> 00:40:35,830
+A la différence de la meningite à la
+
+817
+00:40:35,830 --> 00:40:37,410
+meningocoque, il n'y a pas de prophylaxis
+
+818
+00:40:37,410 --> 00:40:40,250
+onco-ondaire en cas de meningite à pneumocoque.
+
+819
+00:40:40,870 --> 00:40:42,610
+Donc on va voir les meningites à l
+
+820
+00:40:42,610 --> 00:40:44,210
+'isteria monocytogène.
+
+821
+00:40:44,270 --> 00:40:47,230
+L'isteria monocytogène, c'est un bacille grain
+
+822
+00:40:47,230 --> 00:40:47,990
+positif.
+
+823
+00:40:47,990 --> 00:40:50,430
+C'est très rare qu'on le voit
+
+824
+00:40:50,430 --> 00:40:53,090
+dans notre contexte.
+
+825
+00:40:54,110 --> 00:40:57,230
+Il survient sur des terrains particuliers, des gens
+
+826
+00:40:57,230 --> 00:41:00,050
+âgés de plus de 50 ans, chez la
+
+827
+00:41:00,050 --> 00:41:02,710
+femme enceinte, quand il y a une immunodépression
+
+828
+00:41:02,710 --> 00:41:04,550
+par une corticothérapie ou un myelôme.
+
+829
+00:41:04,970 --> 00:41:06,830
+Donc c'est dans ces situations-là où
+
+830
+00:41:06,830 --> 00:41:09,150
+il faut penser quand même à la listeriose.
+
+831
+00:41:11,370 --> 00:41:14,830
+L'évolution est progressive des manifestations cliniques par
+
+832
+00:41:14,830 --> 00:41:17,250
+rapport aux deux meningites qu'on vient de
+
+833
+00:41:17,250 --> 00:41:17,550
+voir.
+
+834
+00:41:18,410 --> 00:41:21,910
+C'est l'installation rapidement progressive dans la
+
+835
+00:41:21,910 --> 00:41:22,530
+listeriose.
+
+836
+00:41:23,210 --> 00:41:25,490
+Ça ressemble à la tuberculose et ça évolue
+
+837
+00:41:25,490 --> 00:41:26,550
+beaucoup plus lentement.
+
+838
+00:41:27,250 --> 00:41:29,630
+Il y a des signes de rhombocéphalie, c
+
+839
+00:41:29,630 --> 00:41:31,510
+'est-à-dire des signes d'atteinte du
+
+840
+00:41:31,510 --> 00:41:35,010
+tronc cérébral et des percrania avec un syndrome
+
+841
+00:41:35,010 --> 00:41:38,330
+cérébelleux ou de paralysie d'un ou de
+
+842
+00:41:38,330 --> 00:41:39,450
+plusieurs nerfs craniens.
+
+843
+00:41:39,450 --> 00:41:42,570
+Quand on réalise la panction lambert, on peut
+
+844
+00:41:42,570 --> 00:41:44,810
+trouver une meningite pérulante, comme on peut trouver
+
+845
+00:41:44,810 --> 00:41:47,530
+une meningite lymphocytaire et poglicorachique.
+
+846
+00:41:47,930 --> 00:41:50,590
+Parfois même on peut trouver une formule panachie,
+
+847
+00:41:50,690 --> 00:41:53,090
+c'est-à-dire autant de polynucléaires que
+
+848
+00:41:53,090 --> 00:41:53,810
+de lymphocytes.
+
+849
+00:41:54,130 --> 00:41:57,690
+Le traitement repose sur la amoxicilline à raison
+
+850
+00:41:57,690 --> 00:41:59,550
+de 200 mg par kg par jour ou
+
+851
+00:41:59,550 --> 00:42:03,230
+par voie intraveineuse en 4 à 6 perfusions
+
+852
+00:42:03,230 --> 00:42:06,810
+associées à la gentamicine à raison de 3
+
+853
+00:42:06,810 --> 00:42:08,190
+mg par kg par jour.
+
+854
+00:42:09,750 --> 00:42:13,170
+Pour l'amoxicilline c'est 21 jours, pour
+
+855
+00:42:13,170 --> 00:42:15,570
+la gentamicine c'est à raison de 3
+
+856
+00:42:15,570 --> 00:42:16,370
+à 5 jours.
+
+857
+00:42:17,890 --> 00:42:23,490
+Ici c'est un tableau récapitulatif, devant les
+
+858
+00:42:23,490 --> 00:42:26,250
+tableaux cliniques qu'on a vus jusqu'à
+
+859
+00:42:26,250 --> 00:42:26,570
+maintenant.
+
+860
+00:42:28,530 --> 00:42:31,010
+C'est un traitement probabiliste, c'est-à
+
+861
+00:42:31,010 --> 00:42:32,870
+-dire qu'on le démarre avant même d
+
+862
+00:42:32,870 --> 00:42:35,410
+'avoir le résultat de la panction lambert.
+
+863
+00:42:35,410 --> 00:42:37,490
+En fonction de l'agent pathogène qu'on
+
+864
+00:42:37,490 --> 00:42:40,050
+suspecte, on va donner un traitement.
+
+865
+00:42:43,430 --> 00:42:46,110
+Pour les diapositives suivantes, ce sont des cas
+
+866
+00:42:46,110 --> 00:42:49,370
+cliniques qu'on va voir ensemble au cours
+
+867
+00:42:49,370 --> 00:42:50,790
+du cours magistral.

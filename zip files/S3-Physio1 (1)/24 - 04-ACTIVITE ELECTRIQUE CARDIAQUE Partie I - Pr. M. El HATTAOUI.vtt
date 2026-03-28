@@ -1,0 +1,3221 @@
+WEBVTT
+
+1
+00:00:01.290 --> 00:00:07.910
+Bonjour, chers étudiants, ceci est le cours sur
+
+2
+00:00:07.910 --> 00:00:11.130
+l'activité électrique cardiaque, juste la partie 1.
+
+3
+00:00:11.870 --> 00:00:14.970
+La partie 2 sera traitée dans le cours
+
+4
+00:00:14.970 --> 00:00:16.070
+de demain, inch'Allah.
+
+5
+00:00:21.430 --> 00:00:25.290
+Les objectifs de ce cours seront essentiellement de
+
+6
+00:00:25.290 --> 00:00:29.190
+revoir les potentiels de repos et d'action
+
+7
+00:00:29.190 --> 00:00:33.370
+cellulaire et les différentes phases qui constituent ce
+
+8
+00:00:33.370 --> 00:00:38.090
+potentiel d'action, comprendre les mécanismes qui font
+
+9
+00:00:38.090 --> 00:00:41.010
+que le cœur est un organe automatique et
+
+10
+00:00:41.010 --> 00:00:44.570
+comment l'électricité arrive à se propager à
+
+11
+00:00:44.570 --> 00:00:50.410
+travers un système conductif dédié, et puis connaître
+
+12
+00:00:50.410 --> 00:00:53.870
+la structure ou l'importance aussi essentiellement des
+
+13
+00:00:53.870 --> 00:00:58.730
+canaux ioniques, des co-transporteurs, des transporteurs ioniques
+
+14
+00:00:58.730 --> 00:01:01.630
+et leur rôle dans la jeunesse de l
+
+15
+00:01:01.630 --> 00:01:05.150
+'électrophysiologie cardiaque.
+
+16
+00:01:08.610 --> 00:01:11.230
+À partir de là, ça va nous permettre
+
+17
+00:01:11.230 --> 00:01:15.530
+d'asseoir les principes de la réalisation de
+
+18
+00:01:15.530 --> 00:01:19.950
+l'électrocardiogramme et on fera bien sûr des
+
+19
+00:01:21.970 --> 00:01:26.870
+explications sur la liaison ou la relation entre
+
+20
+00:01:26.870 --> 00:01:29.950
+le potentiel d'action au niveau d'une
+
+21
+00:01:29.950 --> 00:01:34.870
+fibre cardiaque et comment on représente tout ça
+
+22
+00:01:34.870 --> 00:01:38.490
+à l'échelle du cœur entier sur un
+
+23
+00:01:38.490 --> 00:01:39.750
+électrocardiogramme.
+
+24
+00:01:41.270 --> 00:01:43.410
+Bien sûr, par la suite, dans l'ECG,
+
+25
+00:01:43.570 --> 00:01:45.210
+il y a différentes dérivations qu'il faut
+
+26
+00:01:45.210 --> 00:01:48.250
+comprendre comment elles enregistrent et comment on arrive
+
+27
+00:01:48.250 --> 00:01:52.970
+à partir de là, à commencer à interpréter
+
+28
+00:01:52.970 --> 00:01:53.510
+un ECG.
+
+29
+00:01:53.510 --> 00:01:56.490
+Bien sûr, l'interprétation proprement dite sera faite
+
+30
+00:01:56.490 --> 00:01:59.610
+dans le cours de scéniologie cardiovasculaire.
+
+31
+00:01:59.750 --> 00:02:03.390
+Et on finira par le chapitre qu'on
+
+32
+00:02:03.390 --> 00:02:06.690
+a laissé dans la partie du bicardiac et
+
+33
+00:02:06.690 --> 00:02:09.370
+aussi du cycle cardiaque qui est lié à
+
+34
+00:02:09.370 --> 00:02:12.330
+la fréquence cardiaque et sa relation avec le
+
+35
+00:02:12.330 --> 00:02:16.790
+système nerveux autonome pour pouvoir finalement revenir à
+
+36
+00:02:16.790 --> 00:02:18.810
+l'histoire de l'automatisme cardiaque et elle
+
+37
+00:02:18.810 --> 00:02:21.350
+aussi reliée au système nerveux autonome.
+
+38
+00:02:21.470 --> 00:02:25.270
+On regroupe tout ça pour parler de façon
+
+39
+00:02:25.270 --> 00:02:30.710
+définitive du système nerveux autonome et comment il
+
+40
+00:02:30.710 --> 00:02:34.430
+arrive à réguler l'automatisme cardiaque et de
+
+41
+00:02:34.430 --> 00:02:35.630
+là la fréquence cardiaque.
+
+42
+00:02:38.190 --> 00:02:42.850
+Alors oui, bien sûr, la base du fait
+
+43
+00:02:42.850 --> 00:02:44.430
+qu'on s'intéresse à l'activité électrique
+
+44
+00:02:44.790 --> 00:02:46.210
+du cœur, c'est parce que le cœur
+
+45
+00:02:46.210 --> 00:02:47.550
+est un organe automatique.
+
+46
+00:02:47.550 --> 00:02:51.530
+Il arrive à continuer à battre, à travailler
+
+47
+00:02:51.530 --> 00:02:57.890
+tout seul, même en dehors du corps à
+
+48
+00:02:57.890 --> 00:03:01.010
+condition qu'on le garde perfusé, bien sûr,
+
+49
+00:03:01.090 --> 00:03:02.830
+pas de façon indéfinie, mais à un certain
+
+50
+00:03:02.830 --> 00:03:06.530
+temps il arrive à continuer à battre et
+
+51
+00:03:06.530 --> 00:03:10.550
+ceci indépendamment de toute relation avec le système
+
+52
+00:03:10.550 --> 00:03:11.490
+nerveux central.
+
+53
+00:03:12.490 --> 00:03:14.690
+Ce qui veut dire qu'il a son
+
+54
+00:03:14.690 --> 00:03:18.990
+propre système d'automatisme cardiaque qu'on appellera
+
+55
+00:03:18.990 --> 00:03:20.890
+le pacemaker cardiaque.
+
+56
+00:03:21.030 --> 00:03:22.870
+Alors le pacemaker veut dire qu'il y
+
+57
+00:03:22.870 --> 00:03:27.810
+a des cellules organisées en tissu et qui
+
+58
+00:03:27.810 --> 00:03:31.970
+ont la capacité de générer un rythme cardiaque.
+
+59
+00:03:32.110 --> 00:03:35.190
+Ce sera donc regroupé dans le nom de
+
+60
+00:03:35.190 --> 00:03:39.070
+tissu nodal et qui va le différencier de
+
+61
+00:03:39.070 --> 00:03:40.710
+tissu conducteur.
+
+62
+00:03:45.340 --> 00:03:47.300
+Alors bien sûr, il y a du tissu
+
+63
+00:03:47.300 --> 00:03:53.540
+myocardique qui est capable d'être stimulé par
+
+64
+00:03:53.540 --> 00:03:57.800
+un influx électrique et donc de là produire
+
+65
+00:03:57.800 --> 00:04:00.620
+une activité mécanique et il y a du
+
+66
+00:04:00.620 --> 00:04:03.180
+tissu nodal et un tissu conducteur.
+
+67
+00:04:03.380 --> 00:04:07.980
+Dans ce schéma représenté, grosso modo, le tissu
+
+68
+00:04:07.980 --> 00:04:11.780
+nodal est essentiellement représenté par deux nœuds, le
+
+69
+00:04:11.780 --> 00:04:16.160
+nœud sinusal ou le nœud sino-atrial qui
+
+70
+00:04:16.160 --> 00:04:21.540
+est sous forme d'un amas de cellules
+
+71
+00:04:21.540 --> 00:04:24.360
+regroupées à la jonction de la veine clave
+
+72
+00:04:24.360 --> 00:04:27.520
+supérieure et le toit de l'oreillette droite
+
+73
+00:04:28.280 --> 00:04:30.760
+et un deuxième nœud qui est le nœud
+
+74
+00:04:30.760 --> 00:04:36.260
+auriculo-ventriculaire pratiquement à la jonction de la
+
+75
+00:04:36.260 --> 00:04:40.720
+valve tricuspide septale et le septum interauriculaire sur
+
+76
+00:04:40.720 --> 00:04:43.260
+le début du septum interventriculaire.
+
+77
+00:04:43.680 --> 00:04:49.420
+Ce nœud auriculo-ventriculaire ou atrio-ventriculaire se
+
+78
+00:04:49.420 --> 00:04:53.120
+continue par un faisceau qui va par la
+
+79
+00:04:53.120 --> 00:04:55.460
+suite se subdiviser, ce faisceau s'appelle le
+
+80
+00:04:55.460 --> 00:04:58.000
+faisceau du hisse qui va se propager à
+
+81
+00:04:58.000 --> 00:05:00.920
+l'intérieur du septum interventriculaire, en tout cas
+
+82
+00:05:00.920 --> 00:05:06.600
+dans sa partie haute sous aortique et après
+
+83
+00:05:06.600 --> 00:05:10.320
+il bussurque en deux grosses branches, la branche
+
+84
+00:05:10.320 --> 00:05:12.800
+droite et la branche gauche du faisceau du
+
+85
+00:05:12.800 --> 00:05:15.980
+hisse et la branche gauche comme elle va
+
+86
+00:05:15.980 --> 00:05:20.840
+stimuler le ventricule gauche qui est de masse
+
+87
+00:05:20.840 --> 00:05:24.700
+musculaire plus importante et plus développée que la
+
+88
+00:05:24.700 --> 00:05:27.800
+masse musculaire du ventricule droit, donc on va
+
+89
+00:05:27.800 --> 00:05:32.360
+assister à une deuxième subdivision du faisceau du
+
+90
+00:05:32.360 --> 00:05:35.200
+hisse, donc la branche gauche va se subdiviser
+
+91
+00:05:35.200 --> 00:05:41.320
+en deux branches dites la branche antérieure gauche
+
+92
+00:05:41.320 --> 00:05:47.000
+et la branche postérieure gauche et qui vont
+
+93
+00:05:47.000 --> 00:05:49.460
+se terminer à la fin par des ramifications
+
+94
+00:05:49.460 --> 00:05:52.780
+sous forme d'un réseau énorme qui s
+
+95
+00:05:52.780 --> 00:05:55.580
+'appelle les fibres de purkinier et qui vont
+
+96
+00:05:55.580 --> 00:06:00.240
+finalement faire acheminer l'influx électrique jusqu'aux
+
+97
+00:06:00.240 --> 00:06:04.960
+moindres cellules myocardiques, ventriculaires gauche et droite.
+
+98
+00:06:07.630 --> 00:06:09.370
+Sur ce schéma bien sûr on n'a
+
+99
+00:06:09.370 --> 00:06:13.350
+pas représenté un autre faisceau qui fait communiquer
+
+100
+00:06:13.350 --> 00:06:18.230
+l'oreillette droite avec l'oreillette gauche, juste
+
+101
+00:06:18.230 --> 00:06:21.310
+par souci de simplicité mais sachez que l
+
+102
+00:06:21.310 --> 00:06:23.630
+'influx va se propager de proche en proche
+
+103
+00:06:23.630 --> 00:06:27.410
+mais aussi à travers un faisceau ou deux
+
+104
+00:06:27.410 --> 00:06:30.510
+faisceaux supplémentaires qui font communiquer les deux oreilles.
+
+105
+00:06:33.700 --> 00:06:39.020
+Ce tableau est intéressant pas pour apprendre les
+
+106
+00:06:39.020 --> 00:06:42.440
+vitesses de propagation de l'influx électrique à
+
+107
+00:06:42.440 --> 00:06:46.880
+travers le tissu conductif mais plutôt à titre
+
+108
+00:06:46.880 --> 00:06:53.440
+de comparaison entre les différentes vitesses et pour
+
+109
+00:06:53.440 --> 00:06:56.140
+apprendre une chose c'est que si la
+
+110
+00:06:56.140 --> 00:06:58.680
+vitesse par exemple de propagation au travers le
+
+111
+00:06:58.680 --> 00:07:01.780
+noeud sinusale et sinusatriale et de là vers
+
+112
+00:07:01.780 --> 00:07:05.180
+les oreillettes de 1 mètre par seconde, cette
+
+113
+00:07:05.180 --> 00:07:10.800
+même vitesse va être divisée par au moins
+
+114
+00:07:10.800 --> 00:07:14.300
+20 fois quand l'influx arrive au noeud
+
+115
+00:07:14.300 --> 00:07:16.760
+oriculo-ventriculaire et juste après que l'influx
+
+116
+00:07:16.760 --> 00:07:20.000
+dépasse le noeud oriculo-ventriculaire ou atrio-ventriculaire,
+
+117
+00:07:20.640 --> 00:07:25.720
+la vitesse remonte à 100 fois à partir
+
+118
+00:07:25.720 --> 00:07:27.720
+de 0,05 on passe à 5 mètres
+
+119
+00:07:27.720 --> 00:07:30.200
+par seconde à travers le faisceau de Yves
+
+120
+00:07:30.200 --> 00:07:36.700
+pour atteindre extrêmement rapidement toutes les structures qui
+
+121
+00:07:36.700 --> 00:07:40.640
+constituent toutes les parois des ventricules aussi bien
+
+122
+00:07:40.640 --> 00:07:43.920
+droite et gauche au niveau des fibres de
+
+123
+00:07:43.920 --> 00:07:46.480
+purkinier qui par la suite n'a pas
+
+124
+00:07:46.480 --> 00:07:48.940
+besoin d'une vitesse indende parce que la
+
+125
+00:07:48.940 --> 00:07:54.060
+distance est extrêmement courte, la distance à parcourir,
+
+126
+00:07:54.180 --> 00:07:57.740
+les faisceaux des fibres de purkinier sont déjà
+
+127
+00:07:57.740 --> 00:08:01.180
+pratiquement au contact avec toutes les fibres A
+
+128
+00:08:01.180 --> 00:08:05.020
+à laquelle il faut faire acheminer l'influx
+
+129
+00:08:05.020 --> 00:08:08.460
+électrique donc la vitesse de 0,5 mètre
+
+130
+00:08:08.460 --> 00:08:10.020
+par seconde est largement suffisante.
+
+131
+00:08:10.880 --> 00:08:13.800
+Donc ce qu'on va retenir c'est
+
+132
+00:08:13.800 --> 00:08:19.780
+que la vitesse est surtout ralentie, drastiquement ralentie
+
+133
+00:08:19.780 --> 00:08:22.080
+au niveau du noeud oriculo-ventriculaire pour pouvoir
+
+134
+00:08:22.080 --> 00:08:26.380
+par la suite récupérer le retard de l
+
+135
+00:08:26.380 --> 00:08:30.240
+'influx électrique au niveau du noeud oriculo-ventriculaire
+
+136
+00:08:30.240 --> 00:08:32.380
+qu'on appellera de plus en plus le
+
+137
+00:08:32.380 --> 00:08:37.460
+noeud AV, récupérer ce retard une fois on
+
+138
+00:08:37.460 --> 00:08:40.640
+passe le noeud AV dans le faisceau de
+
+139
+00:08:40.640 --> 00:08:42.360
+Yves qui va propager l'influx de façon
+
+140
+00:08:42.360 --> 00:08:43.360
+extrêmement rapide.
+
+141
+00:08:44.420 --> 00:08:45.880
+Donc ce qu'on retient de ce tableau
+
+142
+00:08:45.880 --> 00:08:47.720
+c'est essentiellement le fait qu'il y
+
+143
+00:08:47.720 --> 00:08:51.240
+a une notion de retard ou de retardement
+
+144
+00:08:51.240 --> 00:08:56.560
+physiologique bien sûr de l'influx électrique depuis
+
+145
+00:08:56.560 --> 00:09:00.520
+le noeud sinusale jusqu'au ventricule et ça
+
+146
+00:09:00.520 --> 00:09:02.240
+ça a un sens c'est un objectif
+
+147
+00:09:02.240 --> 00:09:05.120
+bien sûr il va falloir bien sûr pouvoir
+
+148
+00:09:05.120 --> 00:09:09.320
+dépolariser, c'est la première fois que j
+
+149
+00:09:09.320 --> 00:09:11.460
+'utilise ce terme, un influx électrique quand il
+
+150
+00:09:11.460 --> 00:09:15.240
+se propage dans les tissus myocardiques oriculaire ou
+
+151
+00:09:15.240 --> 00:09:18.320
+ventriculaire on dit qu'il va dépolariser les
+
+152
+00:09:18.320 --> 00:09:21.800
+cellules donc une fois la dépolarisation des oreillettes
+
+153
+00:09:21.800 --> 00:09:25.900
+est terminée on passe à la dépolarisation des
+
+154
+00:09:25.900 --> 00:09:29.120
+ventricules, raison pour laquelle il y a ce
+
+155
+00:09:29.120 --> 00:09:31.520
+retard au niveau du noeud oriculo-ventriculaire pour
+
+156
+00:09:31.520 --> 00:09:35.280
+permettre aux oreillettes de se dépolariser et après
+
+157
+00:09:35.280 --> 00:09:41.200
+la dépolarisation réaliser l'activité mécanique qui suit
+
+158
+00:09:41.200 --> 00:09:44.980
+cette activité électrique et après on laisse aussi
+
+159
+00:09:44.980 --> 00:09:47.820
+aux ventricules le temps qui se prépare à
+
+160
+00:09:47.820 --> 00:09:50.700
+l'éjection donc tout ça se passe dans
+
+161
+00:09:50.700 --> 00:09:54.080
+ce retardement au niveau du noeud AV et
+
+162
+00:09:54.080 --> 00:09:56.660
+une fois l'influx dépasse le noeud AV
+
+163
+00:09:56.660 --> 00:09:59.120
+il passe à une grande vitesse vers les
+
+164
+00:09:59.120 --> 00:10:03.380
+ventricules pour les dépolariser presque instantanément aussi bien
+
+165
+00:10:03.380 --> 00:10:05.080
+à droite et à gauche et ceci grâce
+
+166
+00:10:05.080 --> 00:10:07.900
+à la présence de ces deux branches du
+
+167
+00:10:07.900 --> 00:10:09.600
+faisceau de His, la branche droite et la
+
+168
+00:10:09.600 --> 00:10:12.740
+branche gauche et grâce aussi au réseau de
+
+169
+00:10:12.740 --> 00:10:16.160
+Purkinje qui permet d'acheminer l'influx électrique
+
+170
+00:10:16.160 --> 00:10:19.920
+pratiquement en même temps à toutes les régions
+
+171
+00:10:19.920 --> 00:10:23.360
+cardiaques et la dépolarisation des ventricules va se
+
+172
+00:10:23.360 --> 00:10:27.940
+faire en même temps et instantanément pour donner
+
+173
+00:10:27.940 --> 00:10:30.800
+droit à la contraction et à l'éjection
+
+174
+00:10:30.800 --> 00:10:34.920
+ventriculaire de commencer après bien sûr le remplissage
+
+175
+00:10:34.920 --> 00:10:36.200
+qui est ce qui s'est terminé.
+
+176
+00:10:37.360 --> 00:10:43.340
+Là on va revenir vers l'échelle cellulaire
+
+177
+00:10:43.340 --> 00:10:46.400
+au niveau de la cellule myocardique au niveau
+
+178
+00:10:46.400 --> 00:10:53.060
+du sarcomère pour pouvoir étudier comment l'influx
+
+179
+00:10:53.060 --> 00:10:56.060
+électrique va être généré et puis se propager.
+
+180
+00:10:56.220 --> 00:10:59.360
+La première notion importante à savoir c'est
+
+181
+00:10:59.360 --> 00:11:05.280
+que la membrane cytoplasmique du sarcomère du muscle
+
+182
+00:11:05.280 --> 00:11:09.960
+cardiaque de la cellule musculaire cardiaque est chargée
+
+183
+00:11:09.960 --> 00:11:13.500
+de façon différente entre l'intérieur et l
+
+184
+00:11:13.500 --> 00:11:13.840
+'extérieur.
+
+185
+00:11:14.860 --> 00:11:17.540
+Donc il y a plus de charge, il
+
+186
+00:11:17.540 --> 00:11:20.320
+y a des charges électriques différentes entre l
+
+187
+00:11:20.320 --> 00:11:22.000
+'intérieur et l'extérieur ce qui crée une
+
+188
+00:11:22.000 --> 00:11:26.000
+différence de potentiel, une différence de, disons de
+
+189
+00:11:26.000 --> 00:11:28.900
+voltage entre l'intérieur et l'extérieur et
+
+190
+00:11:28.900 --> 00:11:31.680
+ce qu'on appelle un potentiel, un potentiel
+
+191
+00:11:31.680 --> 00:11:32.280
+de membrane.
+
+192
+00:11:33.160 --> 00:11:35.460
+Ce potentiel de membrane qui est une notion
+
+193
+00:11:35.460 --> 00:11:39.800
+électrique, une différence de charge électrique, elle est
+
+194
+00:11:39.800 --> 00:11:44.980
+due elle-même à une différence de concentration
+
+195
+00:11:44.980 --> 00:11:51.800
+chimique entre le milieu intracellulaire et extracellulaire.
+
+196
+00:11:52.460 --> 00:12:00.780
+Un gradient électrique auquel équivaut un gradient chimique.
+
+197
+00:12:01.380 --> 00:12:03.200
+Donc au fur et à mesure on va
+
+198
+00:12:03.200 --> 00:12:06.940
+d'abord décrire ce potentiel de membrane et
+
+199
+00:12:06.940 --> 00:12:09.760
+sa variation et par la suite quels sont
+
+200
+00:12:09.760 --> 00:12:13.940
+les mouvements ioniques qui permettent la réalisation de
+
+201
+00:12:13.940 --> 00:12:16.620
+ce potentiel de membrane et aussi son changement
+
+202
+00:12:16.620 --> 00:12:22.760
+au cours du temps et après bien sûr
+
+203
+00:12:22.760 --> 00:12:28.660
+on va devoir reprendre certains détails dans la
+
+204
+00:12:28.660 --> 00:12:32.160
+partie interactive que je vais essayer de programmer
+
+205
+00:12:32.160 --> 00:12:34.260
+le plus tôt possible.
+
+206
+00:12:35.580 --> 00:12:36.920
+Ce que vous voyez ici c'est un
+
+207
+00:12:36.920 --> 00:12:41.440
+potentiel d'action qui commence d'abord par
+
+208
+00:12:41.440 --> 00:12:47.440
+un trait horizontal qui représente un potentiel de
+
+209
+00:12:47.440 --> 00:12:48.960
+membrane, là vous voyez qu'il y a
+
+210
+00:12:48.960 --> 00:12:52.980
+à peu près dans les moins 90 millivolts,
+
+211
+00:12:53.060 --> 00:12:57.500
+moins 92 jusqu'à même moins 97 millivolts
+
+212
+00:12:57.500 --> 00:13:01.640
+et vous voyez qu'en fonction du temps
+
+213
+00:13:01.640 --> 00:13:05.800
+ce potentiel de membrane il est stable et
+
+214
+00:13:05.800 --> 00:13:12.640
+après un instant T, ce potentiel augmente de
+
+215
+00:13:12.640 --> 00:13:17.140
+façon rapide pour dépasser le zéro, donc pour
+
+216
+00:13:17.140 --> 00:13:22.660
+devenir positif et avoisiner les 10, 20 millivolts
+
+217
+00:13:22.660 --> 00:13:27.440
+voire plus, voire même 30 millivolts et après
+
+218
+00:13:27.440 --> 00:13:31.620
+retourner vers une valeur qui avoisine le zéro
+
+219
+00:13:31.620 --> 00:13:34.920
+et rester plus ou moins stable pendant un
+
+220
+00:13:34.920 --> 00:13:41.080
+certain temps et après revenir progressivement vers le
+
+221
+00:13:41.080 --> 00:13:44.220
+niveau de potentiel de membrane du début qu
+
+222
+00:13:44.220 --> 00:13:46.820
+'on appellera le niveau de potentiel de membrane
+
+223
+00:13:46.820 --> 00:13:52.240
+de repos et donc ce schéma qui représente
+
+224
+00:13:52.240 --> 00:13:55.140
+finalement une variation du potentiel de membrane en
+
+225
+00:13:55.140 --> 00:13:58.340
+fonction du temps c'est bien ce qu
+
+226
+00:13:58.340 --> 00:14:01.480
+'on appelle un potentiel d'action et donc
+
+227
+00:14:01.480 --> 00:14:04.900
+il est logique pour le décrire de le
+
+228
+00:14:04.900 --> 00:14:09.040
+décomposer en plusieurs parties, la partie initiale dans
+
+229
+00:14:09.040 --> 00:14:11.600
+laquelle juste après la phase de repos on
+
+230
+00:14:11.600 --> 00:14:13.740
+appellera la phase zéro et puis une phase
+
+231
+00:14:13.740 --> 00:14:15.640
+1 et puis une phase 2, phase de
+
+232
+00:14:15.640 --> 00:14:17.960
+plateau et puis une phase 3 de retour
+
+233
+00:14:17.960 --> 00:14:19.860
+vers le potentiel de repos et bien sûr
+
+234
+00:14:19.860 --> 00:14:22.340
+le potentiel de repos ou le potentiel de
+
+235
+00:14:22.340 --> 00:14:25.680
+membrane de repos s'appellera la phase 4.
+
+236
+00:16:13.220 --> 00:16:15.540
+Donc c'est important de différencier ces différentes
+
+237
+00:16:15.540 --> 00:16:18.720
+notions, le potentiel de membrane et comment il
+
+238
+00:16:18.720 --> 00:16:21.400
+se constitue, il va nous falloir plusieurs schémas
+
+239
+00:16:21.400 --> 00:16:24.060
+et dessins que je ne pourrais faire que
+
+240
+00:16:24.060 --> 00:16:26.460
+lors d'une séance interactive donc ce sera
+
+241
+00:16:26.460 --> 00:16:29.220
+promis, en tout cas pour l'instant retenez
+
+242
+00:16:29.220 --> 00:16:30.880
+le potentiel de membrane c'est la même
+
+243
+00:16:30.880 --> 00:16:32.920
+chose qu'un potentiel de repos, c'est
+
+244
+00:16:32.920 --> 00:16:36.080
+la même chose qu'un potentiel isoélectrique, puis
+
+245
+00:16:36.080 --> 00:16:38.060
+on a besoin de la notion de potentiel
+
+246
+00:16:38.060 --> 00:16:40.900
+seuil, cette notion veut dire que pour ouvrir
+
+247
+00:16:40.900 --> 00:16:44.600
+certains canaux, par exemple un canal sodique ou
+
+248
+00:16:44.600 --> 00:16:46.740
+un canal calcique, il faut que le potentiel
+
+249
+00:16:46.740 --> 00:16:49.680
+de membrane augmente, c'est à dire passe
+
+250
+00:16:49.680 --> 00:16:53.460
+de valeurs négatives vers des valeurs positives pour
+
+251
+00:16:53.460 --> 00:16:58.040
+pouvoir permettre à ces canaux de s'ouvrir
+
+252
+00:16:58.040 --> 00:17:00.560
+donc ces canaux forcément on peut aussi les
+
+253
+00:17:00.560 --> 00:17:03.960
+appeler des canaux voltage dépendants, c'est à
+
+254
+00:17:03.960 --> 00:17:06.960
+dire ils dépendent d'un certain voltage de
+
+255
+00:17:06.960 --> 00:17:10.200
+la membrane qui est généralement un voltage positif
+
+256
+00:17:10.200 --> 00:17:15.579
+pour pouvoir s'ouvrir et ce potentiel seuil
+
+257
+00:17:15.579 --> 00:17:18.700
+s'applique à la fois à l'ouverture
+
+258
+00:17:18.700 --> 00:17:21.780
+de ces canaux voltage dépendants et à leur
+
+259
+00:17:21.780 --> 00:17:24.359
+fermeture, c'est à dire que ces différents
+
+260
+00:17:24.359 --> 00:17:28.460
+canaux vont travailler, s'ouvrir et se fermer
+
+261
+00:17:28.460 --> 00:17:31.920
+dans un intervalle donné, à partir d'un
+
+262
+00:17:31.920 --> 00:17:34.980
+potentiel seuil ils vont s'ouvrir et arrivé
+
+263
+00:17:34.980 --> 00:17:36.920
+à un autre potentiel ils vont se fermer.
+
+264
+00:17:38.800 --> 00:17:41.080
+Le mot potentiel d'action comme on vient
+
+265
+00:17:41.080 --> 00:17:43.760
+de le représenter, il regroupe les différentes phases
+
+266
+00:17:43.760 --> 00:17:46.320
+de changement du potentiel de membrane en fonction
+
+267
+00:17:46.320 --> 00:17:46.960
+du temps.
+
+268
+00:17:48.680 --> 00:17:52.760
+Alors les canaux ioniques les plus importants représentent
+
+269
+00:17:52.760 --> 00:17:56.120
+en fait les ions les plus importants au
+
+270
+00:17:56.120 --> 00:18:01.520
+niveau cellulaire, je cite le sodium, le calcium,
+
+271
+00:18:02.600 --> 00:18:06.220
+le potassium, ça c'est vraiment les plus
+
+272
+00:18:06.220 --> 00:18:11.180
+importants, le chlore aussi mais le mouvement de
+
+273
+00:18:11.180 --> 00:18:13.900
+ces ions est vraiment le plus important et
+
+274
+00:18:13.900 --> 00:18:15.760
+c'est celui qui va déterminer beaucoup de
+
+275
+00:18:15.760 --> 00:18:19.400
+choses et d'ailleurs on trouve au niveau
+
+276
+00:18:19.400 --> 00:18:22.580
+de la membrane énormément de canaux potassium à
+
+277
+00:18:22.580 --> 00:18:24.560
+la fois lent et rapide, etc.
+
+278
+00:18:25.060 --> 00:18:28.300
+On trouve des canaux calcium qui aussi même
+
+279
+00:18:28.300 --> 00:18:37.240
+la densité dépend de la zone d'intérêt
+
+280
+00:18:37.240 --> 00:18:39.660
+au niveau de la membrane stoplasmique, on verra
+
+281
+00:18:39.660 --> 00:18:42.680
+ça dans le couplage excitation-contraction.
+
+282
+00:18:43.700 --> 00:18:46.180
+Les canaux aussi sodiques qui sont de différents
+
+283
+00:18:46.180 --> 00:18:49.560
+types, les canaux rapides, les canaux lents, leur
+
+284
+00:18:49.560 --> 00:18:53.680
+répartition dépend aussi de type de cellules, est
+
+285
+00:18:53.680 --> 00:18:54.840
+-ce qu'on a des cellules par exemple
+
+286
+00:18:54.840 --> 00:18:58.260
+nodales ou des cellules conductrices ou des cellules
+
+287
+00:18:58.260 --> 00:19:04.260
+musculaires, tout simplement des cellules musculaires qui sont
+
+288
+00:19:04.260 --> 00:19:06.940
+destinées à la contraction.
+
+289
+00:19:08.000 --> 00:19:09.940
+L'essentiel c'est que retenez que pour
+
+290
+00:19:09.940 --> 00:19:14.360
+les principaux ions, sodium, potassium, calcium, il y
+
+291
+00:19:14.360 --> 00:19:21.780
+a des canaux correspondants, des canaux et souvent
+
+292
+00:19:21.780 --> 00:19:25.600
+des canaux voltage dépendants qui vont s'ouvrir
+
+293
+00:19:25.600 --> 00:19:28.880
+et se fermer en fonction de quoi, souvent
+
+294
+00:19:28.880 --> 00:19:34.560
+en fonction du potentiel de membrane.
+
+295
+00:19:35.040 --> 00:19:37.200
+Donc il y a une certaine dépendance du
+
+296
+00:19:37.200 --> 00:19:40.560
+voltage de ces différents canaux, il y a
+
+297
+00:19:40.560 --> 00:19:43.040
+une différence entre les canaux en termes de
+
+298
+00:19:43.040 --> 00:19:44.420
+vitesse d'ouverture, il y en a qui
+
+299
+00:19:44.420 --> 00:19:46.260
+s'ouvrent plus lentement, d'autres plus rapidement.
+
+300
+00:19:47.640 --> 00:19:53.360
+Ces mêmes canaux ils vont déterminer la conductance
+
+301
+00:19:53.360 --> 00:19:57.640
+de la membrane cytoplasmique par rapport à un
+
+302
+00:19:57.640 --> 00:20:00.020
+ion donné, c'est-à-dire que la
+
+303
+00:20:00.020 --> 00:20:02.180
+cellule on va dire elle est perméable ou
+
+304
+00:20:02.180 --> 00:20:06.500
+non à une certaine cellule, mais perméable ne
+
+305
+00:20:06.500 --> 00:20:09.340
+veut pas dire que l'ion arrive à
+
+306
+00:20:09.340 --> 00:20:11.460
+circuler de l'intérieur vers l'extérieur ou
+
+307
+00:20:11.460 --> 00:20:15.400
+vice-versa, il va falloir voir si les
+
+308
+00:20:15.400 --> 00:20:18.600
+canaux correspondants à cet ion sont ouverts ou
+
+309
+00:20:18.600 --> 00:20:20.860
+fermés, s'ils sont ouverts, là on parle
+
+310
+00:20:20.860 --> 00:20:23.400
+d'une certaine conductance, la conductance augmente quand
+
+311
+00:20:23.400 --> 00:20:26.540
+les canaux s'ouvrent, la conductance diminue quand
+
+312
+00:20:26.540 --> 00:20:27.620
+les canaux se ferment.
+
+313
+00:20:32.040 --> 00:20:35.400
+Ainsi a été instauré ce qu'on appelle
+
+314
+00:20:35.400 --> 00:20:37.560
+la théorie ionique, c'est-à-dire que
+
+315
+00:20:37.560 --> 00:20:40.080
+grâce au mouvement des ions de part et
+
+316
+00:20:40.080 --> 00:20:42.760
+d'autre de la membrane cytoplasmique, on a
+
+317
+00:20:42.760 --> 00:20:46.640
+eu un potentiel électrique.
+
+318
+00:20:47.920 --> 00:20:50.740
+Sur ce schéma vous allez retenir bien sûr
+
+319
+00:20:50.740 --> 00:20:54.860
+qu'en intracellulaire, l'ion le plus prépondérant,
+
+320
+00:20:54.960 --> 00:20:58.760
+le plus important c'est le potassium, c
+
+321
+00:20:58.760 --> 00:21:00.960
+'est bien sûr un cation, donc il est
+
+322
+00:21:00.960 --> 00:21:04.420
+chargé positif, et en extracellulaire il est bien
+
+323
+00:21:04.420 --> 00:21:06.980
+sûr moins important.
+
+324
+00:21:08.520 --> 00:21:11.800
+On verra pour l'ordre de grandeur de
+
+325
+00:21:11.800 --> 00:21:15.360
+ces concentrations dans les séances interactives, là j
+
+326
+00:21:15.360 --> 00:21:21.320
+'ai pas voulu vous surcharger avec les chiffres,
+
+327
+00:21:21.700 --> 00:21:24.280
+parce qu'on fera ça en pratique après.
+
+328
+00:21:25.060 --> 00:21:29.000
+Mais déjà vous retenez, la cellule elle a
+
+329
+00:21:29.000 --> 00:21:32.560
+absolument besoin de potassium en intracellulaire de façon
+
+330
+00:21:32.560 --> 00:21:36.800
+prépondérante, plus qu'à l'extérieur, au contraire
+
+331
+00:21:36.800 --> 00:21:40.900
+le calcium il est plus concentré en extracellulaire,
+
+332
+00:21:40.980 --> 00:21:42.100
+ça veut pas dire qu'il n'existe
+
+333
+00:21:42.100 --> 00:21:45.120
+pas en intracellulaire, mais en intracellulaire de façon
+
+334
+00:21:45.120 --> 00:21:48.980
+libre il est faible, mais en intracellulaire emmagasiné
+
+335
+00:21:48.980 --> 00:21:53.680
+dans des récipients qu'on appelle les reticulons
+
+336
+00:21:53.680 --> 00:21:56.840
+sarcoplasmiques, il existe en quantité abondante bien sûr.
+
+337
+00:21:57.940 --> 00:22:00.700
+Mais il n'est pas disponible en intracellulaire
+
+338
+00:22:00.700 --> 00:22:01.600
+sous forme libre.
+
+339
+00:22:02.580 --> 00:22:04.300
+Et puis sur ce schéma ce n'est
+
+340
+00:22:04.300 --> 00:22:06.080
+pas représenté le sodium, mais sachez que le
+
+341
+00:22:06.080 --> 00:22:08.800
+sodium aussi il est pauvre en intracellulaire et
+
+342
+00:22:08.800 --> 00:22:10.400
+il est très riche en extracellulaire.
+
+343
+00:22:11.160 --> 00:22:13.180
+Ainsi on va étudier ce qu'on appelle
+
+344
+00:22:13.180 --> 00:22:22.600
+le potentiel d'équilibre de chaque
+
+345
+00:22:22.600 --> 00:22:24.560
+ion.
+
+346
+00:22:25.120 --> 00:22:28.400
+On aura besoin de l'équation d'Ernest
+
+347
+00:22:28.400 --> 00:22:35.660
+qui est l'équation qui détermine l
+
+348
+00:22:35.660 --> 00:22:42.400
+'équipotence d'un ion et qui va nous
+
+349
+00:22:42.400 --> 00:22:44.500
+déterminer son mouvement, est-ce qu'il devrait
+
+350
+00:22:44.500 --> 00:22:45.700
+sortir ou rentrer.
+
+351
+00:22:45.880 --> 00:22:48.160
+Sachez qu'il y a énormément de canaux
+
+352
+00:22:48.160 --> 00:22:55.020
+et notamment aussi un cotransporteur sodium-potassium extrêmement
+
+353
+00:22:55.020 --> 00:22:56.820
+important pour la cellule.
+
+354
+00:22:57.360 --> 00:22:59.800
+Ce cotransporteur sodium-potassium qu'est-ce qu
+
+355
+00:22:59.800 --> 00:23:00.080
+'il fait?
+
+356
+00:23:00.480 --> 00:23:05.660
+Il fait sortir deux ions de sodium et
+
+357
+00:23:05.660 --> 00:23:08.360
+il fait rentrer trois ions de potassium à
+
+358
+00:23:08.360 --> 00:23:10.180
+l'intérieur de la cellule et il consomme
+
+359
+00:23:10.180 --> 00:23:10.800
+de l'ATP.
+
+360
+00:23:11.260 --> 00:23:13.480
+Il est extrêmement important pour la cellule.
+
+361
+00:23:13.880 --> 00:23:18.120
+Son travail fait enrichir le milieu intracellulaire en
+
+362
+00:23:18.120 --> 00:23:20.720
+potassium et l'appauvrir en sodium.
+
+363
+00:23:20.900 --> 00:23:24.160
+Ainsi vous allez retrouver beaucoup de potassium en
+
+364
+00:23:24.160 --> 00:23:26.200
+intracellulaire et moins en extracellulaire.
+
+365
+00:23:26.800 --> 00:23:28.600
+Et puis il y aura grâce à ça
+
+366
+00:23:28.600 --> 00:23:29.740
+bien sûr une tendance.
+
+367
+00:23:30.340 --> 00:23:36.940
+Les ions de potassium vont vouloir sortir en
+
+368
+00:23:36.940 --> 00:23:38.120
+extracellulaire.
+
+369
+00:23:38.580 --> 00:23:39.000
+Pourquoi?
+
+370
+00:23:39.320 --> 00:23:45.180
+Parce qu'en faisant rentrer des cations en
+
+371
+00:23:45.180 --> 00:23:50.300
+intracellulaire finalement on déséquilibre les charges, on apporte
+
+372
+00:23:50.300 --> 00:23:52.780
+plus de charges positives en intra et donc
+
+373
+00:23:52.780 --> 00:23:54.800
+ils vont vouloir sortir et quand ils vont
+
+374
+00:23:54.800 --> 00:23:56.680
+vouloir sortir il va falloir être sûr que
+
+375
+00:23:56.680 --> 00:23:58.100
+leurs canaux soient ouverts ce qui n'est
+
+376
+00:23:58.100 --> 00:23:58.600
+pas le cas.
+
+377
+00:23:59.320 --> 00:24:01.820
+Donc ils restent en intra, ils font appel
+
+378
+00:24:01.820 --> 00:24:05.440
+à des ions, à des anions qu'ils
+
+379
+00:24:05.440 --> 00:24:07.540
+soient souvent de chlore ou n'importe quelle
+
+380
+00:24:07.540 --> 00:24:13.680
+protéine en intracellulaire chargée négativement va permettre de
+
+381
+00:24:13.680 --> 00:24:16.200
+garder un équilibre mais si on fait rentrer
+
+382
+00:24:16.200 --> 00:24:19.440
+plus de charges positives on va créer un
+
+383
+00:24:19.440 --> 00:24:21.520
+déséquilibre et on dit que la cellule va
+
+384
+00:24:21.520 --> 00:24:26.840
+être plus ou moins chargée positivement en intracellulaire
+
+385
+00:24:26.840 --> 00:24:29.360
+et négativement de l'autre côté de la
+
+386
+00:24:29.360 --> 00:24:29.900
+cellule.
+
+387
+00:24:30.280 --> 00:24:33.220
+Tout ceci nécessite bien sûr des schémas pour
+
+388
+00:24:33.220 --> 00:24:36.140
+mieux comprendre ça et avec l'équation d
+
+389
+00:24:36.140 --> 00:24:39.560
+'Ernest aussi qui mérite quelques calculs qu'on
+
+390
+00:24:39.560 --> 00:24:42.640
+fera ensemble en séance interactive pour mieux comprendre
+
+391
+00:24:42.640 --> 00:24:46.920
+cet équilibre entre la force chimique et la
+
+392
+00:24:46.920 --> 00:24:47.940
+force électrostatique.
+
+393
+00:24:48.160 --> 00:24:50.280
+Pour l'instant sachez que c'est grâce
+
+394
+00:24:50.280 --> 00:24:55.340
+à la différence de gradients chimiques entre l
+
+395
+00:24:55.340 --> 00:24:58.660
+'intra et l'extracellulaire qui est déterminée surtout
+
+396
+00:24:58.660 --> 00:25:01.620
+par le potassium, vous allez me dire pourquoi
+
+397
+00:25:01.620 --> 00:25:04.440
+le potassium, pourquoi pas le calcium ou le
+
+398
+00:25:04.440 --> 00:25:07.940
+sodium, là aussi on va pouvoir l'expliquer
+
+399
+00:25:07.940 --> 00:25:13.260
+par la formule d'Ernest et pouvoir vous
+
+400
+00:25:13.260 --> 00:25:15.680
+expliquer pourquoi c'est le potassium qui va
+
+401
+00:25:15.680 --> 00:25:19.740
+être le liant qui va déterminer le potentiel
+
+402
+00:25:19.740 --> 00:25:20.920
+de membrane de la cellule.
+
+403
+00:25:21.420 --> 00:25:23.580
+Ainsi quand on a un potentiel, disons une
+
+404
+00:25:23.580 --> 00:25:26.600
+différence de gradient ou de force chimique à
+
+405
+00:25:26.600 --> 00:25:29.260
+laquelle va s'opposer une force électrostatique, ils
+
+406
+00:25:29.260 --> 00:25:34.160
+vont finir par s'équilibrer et garder un
+
+407
+00:25:34.160 --> 00:25:38.060
+potentiel de membrane qui est finalement celui du
+
+408
+00:25:38.060 --> 00:25:42.100
+potassium aux alentours de moins 90 millivolts, moins
+
+409
+00:25:42.100 --> 00:25:47.200
+92 millivolts et ainsi la cellule on va
+
+410
+00:25:47.200 --> 00:25:53.220
+dire elle est pratiquement pas ou peu perméable
+
+411
+00:25:53.220 --> 00:25:57.500
+aux autres, calcium et sodium, et plutôt seulement
+
+412
+00:25:57.500 --> 00:25:58.500
+au potassium.
+
+413
+00:26:00.980 --> 00:26:02.920
+Et une fois on a envie de faire
+
+414
+00:26:02.920 --> 00:26:05.280
+entrer du sodium ou du calcium, il faut
+
+415
+00:26:05.280 --> 00:26:07.620
+qu'il y ait un flux électrique qui
+
+416
+00:26:07.620 --> 00:26:11.000
+fasse monter le potentiel de membrane vers des
+
+417
+00:26:11.000 --> 00:26:14.500
+valeurs positives qui vont ouvrir les canaux ioniques
+
+418
+00:26:14.500 --> 00:26:17.720
+voltage dépendants, d'abord sodique et puis calcique
+
+419
+00:26:17.720 --> 00:26:19.600
+et on aura dans ce cas là une
+
+420
+00:26:19.600 --> 00:26:20.880
+dépolarisation de la cellule.
+
+421
+00:26:20.940 --> 00:26:22.720
+Une dépolarisation c'est à dire la cellule
+
+422
+00:26:22.720 --> 00:26:25.580
+ne va pas rester comme ça chargée positivement
+
+423
+00:26:25.580 --> 00:26:27.200
+à l'intérieur et négativement à l'extérieur,
+
+424
+00:26:27.400 --> 00:26:29.620
+les charges vont s'inverser et on aura
+
+425
+00:26:29.620 --> 00:26:31.960
+une dépolarisation c'est à dire on s
+
+426
+00:26:31.960 --> 00:26:35.400
+'est éloigné du potentiel de membrane qui est
+
+427
+00:26:35.400 --> 00:26:38.720
+très négatif et on s'est rapproché d
+
+428
+00:26:38.720 --> 00:26:41.780
+'un niveau de potentiel de membrane, un niveau
+
+429
+00:26:41.780 --> 00:26:44.080
+qui érosionne le zéro voire qui le dépasse
+
+430
+00:26:44.080 --> 00:26:46.440
+ça s'appelle un état de dépolarisation de
+
+431
+00:26:46.440 --> 00:26:46.960
+la cellule.
+
+432
+00:26:47.500 --> 00:26:50.020
+Et cette dépolarisation une fois finie on va
+
+433
+00:26:50.020 --> 00:26:55.380
+revenir grâce aux canaux ioniques notamment potassium et
+
+434
+00:26:55.380 --> 00:26:59.880
+à la pompe Na++ on va revenir à
+
+435
+00:26:59.880 --> 00:27:03.460
+la repolarisation et au potentiel de membrane négatif
+
+436
+00:27:03.460 --> 00:27:05.800
+qui est celui du potassium et ainsi de
+
+437
+00:27:05.800 --> 00:27:05.960
+suite.
+
+438
+00:27:09.230 --> 00:27:14.450
+Ici vous voyez représenter la forme du potentiel
+
+439
+00:27:14.450 --> 00:27:20.970
+d'action des différents disons éléments aux régions
+
+440
+00:27:20.970 --> 00:27:24.090
+cardiaques et notamment des différents constituants du système
+
+441
+00:27:24.090 --> 00:27:27.510
+nodal et conductif.
+
+442
+00:27:27.690 --> 00:27:29.330
+Donc par exemple le nœud sinusal en vert
+
+443
+00:27:29.330 --> 00:27:32.470
+vous voyez que son potentiel de membrane est
+
+444
+00:27:32.470 --> 00:27:38.090
+plutôt triangulaire, le nœud auriculoventriculaire il a aussi
+
+445
+00:27:38.090 --> 00:27:41.530
+une forme triangulaire, le faisceau du hysse il
+
+446
+00:27:41.530 --> 00:27:43.910
+a plutôt une forme quadrangulaire et bien sûr
+
+447
+00:27:43.910 --> 00:27:47.230
+le reste des branches et du tissu musculaire
+
+448
+00:27:47.230 --> 00:27:50.150
+il a une forme clairement quadrangulaire.
+
+449
+00:27:50.150 --> 00:27:53.230
+Quelle est la différence entre un potentiel triangulaire
+
+450
+00:27:53.230 --> 00:27:54.890
+et quadrangulaire ?
+
+451
+00:27:54.890 --> 00:27:58.030
+Je les ai mis ici côte à côte,
+
+452
+00:27:58.530 --> 00:28:01.350
+vous voyez que la phase 0 par exemple
+
+453
+00:28:01.350 --> 00:28:05.230
+qui correspond à l'entrée massive de sodium
+
+454
+00:28:05.230 --> 00:28:08.390
+grâce à l'ouverture des canaux sodiques rapides,
+
+455
+00:28:08.890 --> 00:28:12.910
+on ne la retrouve pas dans le potentiel
+
+456
+00:28:12.910 --> 00:28:13.770
+triangulaire.
+
+457
+00:28:14.430 --> 00:28:15.290
+Qu'est-ce qu'on ne retrouve pas
+
+458
+00:28:15.290 --> 00:28:15.770
+aussi ?
+
+459
+00:28:15.770 --> 00:28:18.390
+On ne retrouve pas la phase 1, donc
+
+460
+00:28:18.390 --> 00:28:22.590
+plus ou moins on n'a pas la
+
+461
+00:28:22.590 --> 00:28:25.930
+phase plateau non plus, la phase 2, mais
+
+462
+00:28:25.930 --> 00:28:28.270
+on a une phase 3 et on a
+
+463
+00:28:28.270 --> 00:28:29.950
+en plus une phase 4 qui est différente,
+
+464
+00:28:30.070 --> 00:28:31.210
+qui n'est pas stable, qui n'est
+
+465
+00:28:31.210 --> 00:28:36.330
+pas isoélectrique mais qui a tendance à augmenter
+
+466
+00:28:36.330 --> 00:28:40.150
+lentement et progressivement et aller de valeurs très
+
+467
+00:28:40.150 --> 00:28:43.070
+négatives vers des valeurs moins négatives.
+
+468
+00:28:44.090 --> 00:28:46.350
+Cette différence est extrêmement importante.
+
+469
+00:28:46.490 --> 00:28:49.990
+Alors la phase 4 qui s'est transformée
+
+470
+00:28:49.990 --> 00:28:51.830
+en une phase qu'on appellera la phase
+
+471
+00:28:51.830 --> 00:28:54.050
+de dépolarisation, parce que c'est bien une
+
+472
+00:28:54.050 --> 00:28:57.010
+dépolarisation, on passe de valeurs très négatives vers
+
+473
+00:28:57.010 --> 00:29:00.390
+des valeurs moins négatives, la phase de dépolarisation
+
+474
+00:29:00.390 --> 00:29:04.770
+diastolique lente, elle est importante pour cellules automatiques
+
+475
+00:29:04.770 --> 00:29:05.930
+parce que s'il n'y avait pas
+
+476
+00:29:05.930 --> 00:29:08.810
+cette phase on n'aurait jamais un potentiel
+
+477
+00:29:08.810 --> 00:29:13.510
+de membrane qui augmente progressivement pour aller vers
+
+478
+00:29:13.510 --> 00:29:17.130
+un potentiel seuil qui va permettre d'ouvrir
+
+479
+00:29:17.130 --> 00:29:21.410
+les canaux calciques et qui vont faire augmenter
+
+480
+00:29:21.410 --> 00:29:24.910
+le voltage encore plus en faisant rentrer énormément
+
+481
+00:29:24.910 --> 00:29:27.930
+d'ion de calcium à l'intérieur de
+
+482
+00:29:27.930 --> 00:29:31.330
+la cellule et donc créer finalement un influx
+
+483
+00:29:31.330 --> 00:29:33.830
+électrique qui par la suite n'aura besoin
+
+484
+00:29:33.830 --> 00:29:37.550
+que de se propager pour aller dépolariser les
+
+485
+00:29:37.550 --> 00:29:40.990
+cellules qui ont un potentiel de membrane quadrangulaire.
+
+486
+00:29:41.210 --> 00:29:43.350
+C'est vraiment important d'avoir cette phase
+
+487
+00:29:43.350 --> 00:29:44.690
+de dépolarisation diastolique lente.
+
+488
+00:29:44.830 --> 00:29:47.090
+Elle est sous la dépendance de canaux qu
+
+489
+00:29:47.090 --> 00:29:48.710
+'on appelle les canaux IF qui sont des
+
+490
+00:29:48.710 --> 00:29:49.590
+canaux sodiclents.
+
+491
+00:29:51.790 --> 00:29:55.090
+Sodiclents ça veut dire simplement ils ont un
+
+492
+00:29:55.090 --> 00:29:58.270
+potentiel seuil de dépolarisation qui est tout à
+
+493
+00:29:58.270 --> 00:30:01.370
+fait très faible et donc grâce à ça
+
+494
+00:30:01.370 --> 00:30:03.490
+ils vont pouvoir se dépolariser de proche en
+
+495
+00:30:03.490 --> 00:30:09.450
+proche facilement et progressivement faire rentrer plus de
+
+496
+00:30:09.450 --> 00:30:12.490
+sodium dans la cellule et donc modifier le
+
+497
+00:30:12.490 --> 00:30:14.490
+potentiel de membrane au fur et à mesure
+
+498
+00:30:14.490 --> 00:30:16.570
+jusqu'à arriver au potentiel seuil des canaux
+
+499
+00:30:16.570 --> 00:30:18.850
+calciques et par la suite les canaux calciques
+
+500
+00:30:18.850 --> 00:30:19.350
+vont s'ouvrir.
+
+501
+00:30:19.810 --> 00:30:22.310
+On n'a pas de phase plateau parce
+
+502
+00:30:22.310 --> 00:30:23.190
+qu'on n'en a pas besoin.
+
+503
+00:30:23.810 --> 00:30:26.750
+La phase plateau sert pour les cellules contractiles
+
+504
+00:30:26.750 --> 00:30:31.370
+pour rester dans un état de dépolarisation maintenue
+
+505
+00:30:31.370 --> 00:30:34.050
+dans le temps, un certain temps et donc
+
+506
+00:30:34.050 --> 00:30:36.430
+permettre à la contraction de durer dans le
+
+507
+00:30:36.430 --> 00:30:38.690
+temps et en même temps d'éviter à
+
+508
+00:30:38.690 --> 00:30:42.710
+la cellule n'importe quelle dépolarisation nouvelle en
+
+509
+00:30:42.710 --> 00:30:43.250
+ce moment là.
+
+510
+00:30:43.450 --> 00:30:44.450
+Parce qu'en ce moment là la cellule
+
+511
+00:30:44.450 --> 00:30:47.450
+travaille, n'a pas besoin de se recontracter
+
+512
+00:30:47.450 --> 00:30:48.570
+alors qu'elle est déjà en phase de
+
+513
+00:30:48.570 --> 00:30:49.070
+contraction.
+
+514
+00:30:49.910 --> 00:30:51.470
+Donc la phase plateau sert à ça alors
+
+515
+00:30:51.470 --> 00:30:52.890
+que pour les cellules automatiques on en a
+
+516
+00:30:52.890 --> 00:30:53.170
+besoin.
+
+517
+00:30:53.810 --> 00:30:56.870
+Dès que le potentiel de membrane a atteint
+
+518
+00:30:56.870 --> 00:31:01.050
+des valeurs positives, l'influx électrique peut revenir
+
+519
+00:31:01.050 --> 00:31:03.530
+à l'état initial et faire propager cet
+
+520
+00:31:03.530 --> 00:31:05.290
+influx de proche en proche vers les cellules
+
+521
+00:31:05.290 --> 00:31:07.590
+qui ont besoin de se dépolariser.
+
+522
+00:31:10.470 --> 00:31:13.670
+Voilà un schéma récapitulatif dans lequel on va
+
+523
+00:31:13.670 --> 00:31:17.250
+voir après chaque phase du potentiel d'action,
+
+524
+00:31:17.510 --> 00:31:21.250
+quels sont les canaux ioniques qui la sous
+
+525
+00:31:21.250 --> 00:31:24.770
+-tendent tout en sachant que les explications notamment
+
+526
+00:31:24.770 --> 00:31:28.550
+de la théorie ionique nécessitent bien sûr une
+
+527
+00:31:28.550 --> 00:31:29.330
+séance interactive.
+
+528
+00:31:35.250 --> 00:31:38.510
+Alors pour les canaux, pour les phases du
+
+529
+00:31:38.510 --> 00:31:40.730
+potentiel d'action, la phase 0, la phase
+
+530
+00:31:40.730 --> 00:31:43.970
+abrupte, elle correspond à l'entrée massive et
+
+531
+00:31:43.970 --> 00:31:46.310
+brutale du sodium et ceci grâce à la
+
+532
+00:31:46.310 --> 00:31:49.650
+présence de canaux rapides, les canaux rapides sodiques.
+
+533
+00:31:49.830 --> 00:31:52.610
+Ces canaux bien sûr sont utiles parce qu
+
+534
+00:31:52.610 --> 00:31:55.330
+'ils vont s'ouvrir immédiatement et puis faire
+
+535
+00:31:55.330 --> 00:31:59.390
+rentrer énormément de sodium en intracellulaire et qui
+
+536
+00:31:59.390 --> 00:32:01.730
+dit rentrer du sodium ça veut dire faire
+
+537
+00:32:01.730 --> 00:32:05.850
+ramener beaucoup de charges positives à l'intérieur
+
+538
+00:32:05.850 --> 00:32:08.650
+de la cellule et donc un peu déséquilibrer
+
+539
+00:32:08.650 --> 00:32:10.090
+le potentiel de membrane, c'est à dire
+
+540
+00:32:10.090 --> 00:32:15.490
+le renvoyer vers des valeurs plus positives.
+
+541
+00:32:15.490 --> 00:32:19.310
+Ceci bien sûr, c'est juste une préparation
+
+542
+00:32:19.310 --> 00:32:23.330
+pour que le potentiel de membrane rentre vers
+
+543
+00:32:23.330 --> 00:32:26.410
+le seuil d'ouverture des canaux calciques, lesquels
+
+544
+00:32:26.410 --> 00:32:30.130
+canaux calciques vont pouvoir s'ouvrir et vont
+
+545
+00:32:30.130 --> 00:32:34.970
+permettre, on va le voir après, aux différents
+
+546
+00:32:34.970 --> 00:32:37.550
+fibres d'actine et myosine de se coupler
+
+547
+00:32:37.550 --> 00:32:38.970
+et de faire démarrer la contraction.
+
+548
+00:32:39.190 --> 00:32:41.950
+Donc c'est vraiment important, cette phase 0,
+
+549
+00:32:42.170 --> 00:32:44.710
+c'est elle qui va initier le potentiel
+
+550
+00:32:44.710 --> 00:32:45.090
+d'action.
+
+551
+00:32:45.290 --> 00:32:48.490
+Pour pouvoir ouvrir ces canaux rapides sodiques, on
+
+552
+00:32:48.490 --> 00:32:51.030
+a besoin d'une charge électrique, on a
+
+553
+00:32:51.030 --> 00:32:53.570
+besoin de quelque chose qui fait monter bien
+
+554
+00:32:53.570 --> 00:32:58.130
+sûr le potentiel de membrane, de le ramener
+
+555
+00:32:58.130 --> 00:33:00.090
+vers au moins une valeur qui soit positive.
+
+556
+00:33:00.850 --> 00:33:03.510
+Et cette charge électrique doit être suffisamment importante
+
+557
+00:33:03.510 --> 00:33:09.350
+pour ouvrir un grand nombre de canaux, pour
+
+558
+00:33:09.350 --> 00:33:12.930
+que l'influx électrique arrive jusqu'aux cellules
+
+559
+00:33:12.930 --> 00:33:13.850
+myocardiques.
+
+560
+00:33:16.360 --> 00:33:20.880
+Une fois on atteint un niveau positif, assez
+
+561
+00:33:20.880 --> 00:33:22.460
+positif bien sûr, il y a une phase
+
+562
+00:33:22.460 --> 00:33:24.800
+de correction qui est la phase 1, qui
+
+563
+00:33:24.800 --> 00:33:27.200
+est finalement comme si c'était un début
+
+564
+00:33:27.200 --> 00:33:29.220
+de repolarisation de la cellule, qu'on appelle
+
+565
+00:33:29.220 --> 00:33:31.460
+un spike, un début de repolarisation qui s
+
+566
+00:33:31.460 --> 00:33:33.340
+'arrête très vite par la phase 2 qui
+
+567
+00:33:33.340 --> 00:33:33.940
+est une phase plateau.
+
+568
+00:33:34.560 --> 00:33:38.460
+Donc certainement, qui est responsable de la reprise
+
+569
+00:33:38.460 --> 00:33:40.960
+ou du retour à la repolarisation, c'est
+
+570
+00:33:40.960 --> 00:33:41.460
+le potassium.
+
+571
+00:33:41.560 --> 00:33:43.680
+Le potassium a envie de revenir, de ramener
+
+572
+00:33:43.680 --> 00:33:46.580
+encore le potentiel vers son niveau d'équilibre,
+
+573
+00:33:46.660 --> 00:33:49.520
+le potentiel de membrane vers moins 90, moins
+
+574
+00:33:49.520 --> 00:33:54.160
+92, voire plus, millivolts.
+
+575
+00:33:54.580 --> 00:33:58.200
+Les canaux potassium s'ouvrent pour faire sortir
+
+576
+00:33:58.200 --> 00:33:59.440
+du potassium à l'extérieur.
+
+577
+00:34:00.080 --> 00:34:03.520
+Donc commence une certaine dépolarisation qui juste après
+
+578
+00:34:03.520 --> 00:34:05.640
+va être stoppée.
+
+579
+00:34:06.520 --> 00:34:10.580
+Les canaux calciques seraient déjà ouverts et quand
+
+580
+00:34:10.580 --> 00:34:14.699
+ils s'ouvrent, ils vont faire rentrer du
+
+581
+00:34:14.699 --> 00:34:15.199
+calcium.
+
+582
+00:34:16.040 --> 00:34:19.360
+Ce calcium va empêcher le travail que font
+
+583
+00:34:19.360 --> 00:34:21.360
+les canaux potassiques.
+
+584
+00:34:21.840 --> 00:34:25.139
+Donc entre les canaux potassiques qui font sortir
+
+585
+00:34:25.139 --> 00:34:27.120
+du potassium et les canaux calciques qui font
+
+586
+00:34:27.120 --> 00:34:29.989
+rentrer du calcium, il restera un équilibre un
+
+587
+00:34:29.989 --> 00:34:32.469
+certain temps, jusqu'à ce que les canaux
+
+588
+00:34:32.469 --> 00:34:37.570
+calciques s'arrêtent de travailler, parce que le
+
+589
+00:34:37.570 --> 00:34:41.270
+calcium aura été recapturé vers le reticulum sarcoplasmique.
+
+590
+00:34:42.030 --> 00:34:46.050
+Les canaux potassiques vont prendre le dessus pour
+
+591
+00:34:46.050 --> 00:34:49.310
+ramener le potentiel de membrane vers la valeur
+
+592
+00:34:49.310 --> 00:34:51.389
+de départ, c'est à dire la valeur
+
+593
+00:34:51.389 --> 00:34:52.070
+très négative.
+
+594
+00:34:52.630 --> 00:34:54.790
+Ainsi la repolarisation est le fait essentiellement de
+
+595
+00:34:54.790 --> 00:34:56.810
+l'augmentation de la conductivité.
+
+596
+00:34:57.170 --> 00:35:01.510
+Il y aura énormément de canaux potassiques qui
+
+597
+00:35:01.510 --> 00:35:04.670
+vont s'ouvrir pour ramener rapidement le potentiel
+
+598
+00:35:04.670 --> 00:35:07.770
+de membrane qui est devenu positif vers des
+
+599
+00:35:07.770 --> 00:35:08.750
+valeurs très négatives.
+
+600
+00:35:08.950 --> 00:35:12.770
+Et aussi grâce à la fameuse pompe NA++ATPS,
+
+601
+00:35:12.950 --> 00:35:16.290
+une pompe extrêmement importante pour la membrane cytoplasmique,
+
+602
+00:35:16.850 --> 00:35:18.850
+parce qu'elle fait très vite rétablir les
+
+603
+00:35:18.850 --> 00:35:21.730
+choses et ramener encore plus de potassium pour
+
+604
+00:35:21.730 --> 00:35:24.370
+la cellule et faire sortir énormément de charges
+
+605
+00:35:24.370 --> 00:35:27.510
+positives, notamment sous forme de sodium vers l
+
+606
+00:35:27.510 --> 00:35:27.910
+'extérieur.
+
+607
+00:35:29.470 --> 00:35:31.670
+Voilà la phase 4, vous la connaissez déjà.
+
+608
+00:35:32.650 --> 00:35:35.410
+Le sodium et le potassium étaient déjà expulsés
+
+609
+00:35:35.410 --> 00:35:37.910
+soit à l'extérieur, soit vers les locations
+
+610
+00:35:37.910 --> 00:35:40.430
+vers les reticulums sarcoplasmiques.
+
+611
+00:35:40.930 --> 00:35:45.650
+L'échange s'est fait aussi grâce aux
+
+612
+00:35:45.650 --> 00:35:50.770
+pompes NA++ATPS pour ramener plus de potassium à
+
+613
+00:35:50.770 --> 00:35:52.270
+l'intérieur de la cellule et la cellule
+
+614
+00:35:52.270 --> 00:35:53.350
+revient.
+
+615
+00:35:54.730 --> 00:35:59.050
+Sur ce schéma, vous voyez représenter la variation
+
+616
+00:35:59.050 --> 00:36:00.110
+de la conductance.
+
+617
+00:36:00.910 --> 00:36:05.570
+JG veut dire la conductance de chaque ion.
+
+618
+00:36:06.030 --> 00:36:09.170
+Vous voyez clairement, quand la conductance des canaux
+
+619
+00:36:09.170 --> 00:36:12.570
+ioniques augmente, le sodium rentre.
+
+620
+00:36:12.690 --> 00:36:13.450
+C'est la phase 0.
+
+621
+00:36:14.450 --> 00:36:17.670
+Après, la conductance des canaux ioniques baisse très
+
+622
+00:36:17.670 --> 00:36:18.010
+rapidement.
+
+623
+00:36:18.730 --> 00:36:20.150
+Ils ne conduisent plus, c'est-à-dire
+
+624
+00:36:20.150 --> 00:36:22.150
+qu'ils ne travaillent plus, ils sont en
+
+625
+00:36:22.150 --> 00:36:25.790
+position inactive et puis ils se ferment, donc
+
+626
+00:36:25.790 --> 00:36:27.510
+ils ne vont plus travailler.
+
+627
+00:36:28.070 --> 00:36:31.890
+Quand par exemple, la conductance des canaux potassiques,
+
+628
+00:36:32.450 --> 00:36:34.610
+vous voyez, elle a à un moment donné
+
+629
+00:36:34.610 --> 00:36:37.570
+baissé, ce qui fait sortir du potassium, mais
+
+630
+00:36:37.570 --> 00:36:41.030
+après rapidement, elle remonte à la phase 3
+
+631
+00:36:41.030 --> 00:36:43.910
+pour faire rentrer beaucoup de potassium à l
+
+632
+00:36:43.910 --> 00:36:45.050
+'intérieur de la cellule.
+
+633
+00:36:45.590 --> 00:36:47.510
+Celle du potassium, vous voyez, elle n'est
+
+634
+00:36:47.510 --> 00:36:49.410
+importante qu'à la phase 2.
+
+635
+00:36:53.890 --> 00:36:56.370
+De ce potentiel d'action découle la notion
+
+636
+00:36:56.370 --> 00:36:59.570
+de période réfractaire, qu'elle soit effective ou
+
+637
+00:36:59.570 --> 00:37:01.650
+relative, ce n'est pas très important.
+
+638
+00:37:02.270 --> 00:37:03.770
+L'essentiel, c'est que vous compreniez qu
+
+639
+00:37:03.770 --> 00:37:06.250
+'une période réfractaire existe.
+
+640
+00:37:06.870 --> 00:37:08.630
+Si vous voyez bien le potentiel d'action,
+
+641
+00:37:08.790 --> 00:37:11.610
+vous comprenez très bien que depuis la phase
+
+642
+00:37:11.610 --> 00:37:12.770
+1 à la phase 2, il y a
+
+643
+00:37:12.770 --> 00:37:14.390
+une bonne partie de la phase 3, disons
+
+644
+00:37:14.390 --> 00:37:15.350
+à peu près la moitié.
+
+645
+00:37:16.210 --> 00:37:18.970
+Durant cette phase-là, la cellule a déjà
+
+646
+00:37:18.970 --> 00:37:23.050
+un niveau de potentiel de membrane qui est
+
+647
+00:37:23.050 --> 00:37:26.930
+assez élevé et qui empêche toute dépolarisation nouvelle
+
+648
+00:37:26.930 --> 00:37:30.010
+de la cellule durant cette phase du potentiel
+
+649
+00:37:30.010 --> 00:37:30.950
+d'action.
+
+650
+00:37:31.810 --> 00:37:33.150
+Et donc, il veut dire que la période
+
+651
+00:37:33.150 --> 00:37:36.370
+et la cellule est tout simplement réfractaire à
+
+652
+00:37:36.370 --> 00:37:37.430
+tout nouveau influx.
+
+653
+00:37:37.590 --> 00:37:40.510
+Ou alors, si on veut la dépolariser, par
+
+654
+00:37:40.510 --> 00:37:43.090
+exemple, quand on est à la phase 3,
+
+655
+00:37:43.230 --> 00:37:45.470
+il va falloir ramener un influx électrique extrêmement
+
+656
+00:37:45.470 --> 00:37:48.850
+élevé, plus élevé que celui d'ordinaire pour
+
+657
+00:37:48.850 --> 00:37:49.950
+pouvoir la dépolariser.
+
+658
+00:37:50.630 --> 00:37:52.930
+Donc, la cellule est dite réfractaire durant cette
+
+659
+00:37:52.930 --> 00:37:53.970
+phase, c'est important.
+
+660
+00:37:54.570 --> 00:37:56.150
+Et si on veut la dépolariser, ce qui
+
+661
+00:37:56.150 --> 00:37:59.290
+permet de protéger la cellule, bien sûr, de
+
+662
+00:37:59.290 --> 00:38:06.150
+nouveaux influx électriques, de nouvelles dépolarisations qui peuvent
+
+663
+00:38:06.150 --> 00:38:10.090
+générer des influx répétés, très rapprochés et donc
+
+664
+00:38:10.090 --> 00:38:12.610
+une tachycardie extrême et qui peut être très
+
+665
+00:38:12.610 --> 00:38:13.450
+délétère pour le cœur.
+
+666
+00:38:13.590 --> 00:38:15.150
+Donc, il est important d'avoir cette période
+
+667
+00:38:15.150 --> 00:38:15.770
+réfractaire.
+
+668
+00:38:16.270 --> 00:38:18.850
+Maintenant, certains influx, des fois, ils peuvent tomber
+
+669
+00:38:18.850 --> 00:38:21.590
+à la phase 3 ou à la fin
+
+670
+00:38:21.590 --> 00:38:23.550
+de la phase 3 et qu'ils soient
+
+671
+00:38:23.550 --> 00:38:26.110
+suffisamment élevés pour dépolariser la cellule alors qu
+
+672
+00:38:26.110 --> 00:38:28.750
+'elle n'a pas encore retrouvé son potentiel
+
+673
+00:38:28.750 --> 00:38:34.210
+de membrane négatif de repos et ceci peut
+
+674
+00:38:34.210 --> 00:38:37.190
+produire des arrhythmies ventriculaires.
+
+675
+00:38:38.410 --> 00:38:40.970
+Donc, la période réfractaire, qu'elle soit absolue
+
+676
+00:38:40.970 --> 00:38:44.610
+ou relative, voici la définition.
+
+677
+00:38:44.830 --> 00:38:45.730
+Ce qui nous intéresse, c'est qu'il
+
+678
+00:38:45.730 --> 00:38:52.050
+est dû à l'inactivation des canaux sodiques
+
+679
+00:38:52.050 --> 00:38:55.310
+et calciques qui ne retrouvent leur disponibilité et
+
+680
+00:38:55.310 --> 00:38:58.710
+qui ne peuvent se dépolariser de nouveau qu
+
+681
+00:38:58.710 --> 00:39:00.790
+'après la fin des phases que j'ai
+
+682
+00:39:00.790 --> 00:39:04.010
+citées, phase 1, phase 2 et début de
+
+683
+00:39:04.010 --> 00:39:04.830
+phase 3.
+
+684
+00:39:08.560 --> 00:39:12.380
+Enfin, et après la dépolarisation de la cellule,
+
+685
+00:39:13.160 --> 00:39:16.000
+s'installe une certaine, c'est comme un
+
+686
+00:39:16.000 --> 00:39:19.580
+dipole qui s'installe et qui va se
+
+687
+00:39:19.580 --> 00:39:26.100
+propager de proche en proche vers le reste
+
+688
+00:39:26.100 --> 00:39:28.600
+de la membrane et d'une cellule vers
+
+689
+00:39:28.600 --> 00:39:32.160
+l'autre à travers les gaps jonctions.
+
+690
+00:39:32.500 --> 00:39:35.760
+On expliquera aussi cette histoire de transfert à
+
+691
+00:39:35.760 --> 00:39:38.480
+travers les gaps jonctions dans la séance interactive,
+
+692
+00:39:38.640 --> 00:39:41.740
+mais déjà sachez que les cellules, c'est
+
+693
+00:39:41.740 --> 00:39:45.220
+comme un syncytium, ils communiquent entre elles à
+
+694
+00:39:45.220 --> 00:39:49.020
+travers beaucoup de zones qu'on appelle les
+
+695
+00:39:49.020 --> 00:39:51.680
+gaps et à travers ces zones, les ions
+
+696
+00:39:51.680 --> 00:39:54.740
+peuvent rentrer et sortir.
+
+697
+00:39:55.180 --> 00:39:57.060
+Donc, le mouvement des ions peut se faire
+
+698
+00:39:57.060 --> 00:39:58.840
+d'une cellule à l'autre et créer
+
+699
+00:39:58.840 --> 00:40:04.780
+un changement des charges électriques et donc créer
+
+700
+00:40:04.780 --> 00:40:08.060
+un dipole qui va se propager lui aussi
+
+701
+00:40:08.060 --> 00:40:09.120
+de proche en proche.
+
+702
+00:40:09.620 --> 00:40:12.060
+Un front de propagation cellulaire qui peut se
+
+703
+00:40:12.060 --> 00:40:15.400
+propager des oreillettes vers les ventricules et de
+
+704
+00:40:15.400 --> 00:40:18.240
+là, on a utilisé ce principe pour mettre
+
+705
+00:40:18.240 --> 00:40:22.760
+en place le rationnel de la réalisation de
+
+706
+00:40:22.760 --> 00:40:24.340
+l'électrocardiogramme.
+
+707
+00:40:24.580 --> 00:40:26.440
+Ainsi, si par exemple, on imagine qu'on
+
+708
+00:40:26.440 --> 00:40:30.160
+a un galvanomètre qui enregistre l'activité électrique
+
+709
+00:40:30.160 --> 00:40:34.140
+au niveau du fibre cardiaque, on peut dire
+
+710
+00:40:34.140 --> 00:40:37.940
+par exemple, de façon schématique, on a considéré
+
+711
+00:40:37.940 --> 00:40:39.780
+qu'à l'extérieur de la cellule, c
+
+712
+00:40:39.780 --> 00:40:41.720
+'est chargé positif et à l'intérieur, chargé
+
+713
+00:40:41.720 --> 00:40:42.260
+négatif.
+
+714
+00:40:42.960 --> 00:40:44.920
+Ça ne veut pas dire qu'il n
+
+715
+00:40:44.920 --> 00:40:46.560
+'y a que des charges positives à l
+
+716
+00:40:46.560 --> 00:40:48.240
+'extérieur et des charges négatives à l'intérieur,
+
+717
+00:40:48.620 --> 00:40:51.780
+loin de là, mais les détails avec les
+
+718
+00:40:51.780 --> 00:40:56.460
+explications sous forme de schéma interactif, on les
+
+719
+00:40:56.460 --> 00:40:56.920
+fera après.
+
+720
+00:40:56.920 --> 00:41:00.160
+L'essentiel, retenez que ça c'est par
+
+721
+00:41:00.160 --> 00:41:02.880
+convention, qu'on s'est mis d'accord,
+
+722
+00:41:03.020 --> 00:41:05.500
+on va mettre plus à l'extérieur et
+
+723
+00:41:05.500 --> 00:41:11.020
+moins à l'intérieur, et ceci, comme je
+
+724
+00:41:11.020 --> 00:41:13.360
+vous l'ai dit, crée un potentiel de
+
+725
+00:41:13.360 --> 00:41:13.540
+membrane.
+
+726
+00:41:13.740 --> 00:41:15.400
+Le potentiel de membrane veut dire qu'il
+
+727
+00:41:15.400 --> 00:41:19.540
+y a un niveau de charge, mais qui
+
+728
+00:41:19.540 --> 00:41:22.300
+reste stable, sur un galvanomètre, ça va être
+
+729
+00:41:22.300 --> 00:41:23.560
+de la valeur de 0.
+
+730
+00:41:26.170 --> 00:41:28.370
+Une fois qu'il y a une inversion
+
+731
+00:41:28.370 --> 00:41:30.350
+des charges entre l'intérieur et l'extérieur,
+
+732
+00:41:30.970 --> 00:41:34.110
+on va avoir un changement, et selon la
+
+733
+00:41:34.110 --> 00:41:36.450
+position du galvanomètre, est-ce qu'il se
+
+734
+00:41:36.450 --> 00:41:39.710
+situe à droite ou à gauche, etc., est
+
+735
+00:41:39.710 --> 00:41:41.670
+-ce qu'il voit les flux électriques se
+
+736
+00:41:41.670 --> 00:41:44.850
+propager, s'éloigner ou se rapprocher, on va
+
+737
+00:41:44.850 --> 00:41:49.250
+avoir une déflexion de la ligne qui était
+
+738
+00:41:49.250 --> 00:41:56.490
+une ligne isoélectrique plate, soit en bas, de
+
+739
+00:41:56.490 --> 00:41:59.690
+façon conventionnelle, on dit que c'est négatif
+
+740
+00:41:59.690 --> 00:42:03.490
+quand l'influx électrique s'éloigne du galvanomètre,
+
+741
+00:42:03.850 --> 00:42:09.590
+ou alors quand il s'en rapproche, la
+
+742
+00:42:09.590 --> 00:42:12.130
+déflexion est plutôt positive, ici on est au
+
+743
+00:42:12.130 --> 00:42:15.090
+milieu, on va dire qu'au début c
+
+744
+00:42:15.090 --> 00:42:19.450
+'est positif, et après quand l'influx dépasse
+
+745
+00:42:19.450 --> 00:42:22.350
+le galvanomètre, c'est comme s'il s
+
+746
+00:42:22.350 --> 00:42:26.010
+'en éloigne, la déflexion va être négative.
+
+747
+00:42:26.150 --> 00:42:27.470
+Donc tout ceci pour vous dire qu'en
+
+748
+00:42:27.470 --> 00:42:30.890
+fonction de la situation, de l'angle de
+
+749
+00:42:30.890 --> 00:42:34.910
+vue, on peut enregistrer le changement de l
+
+750
+00:42:34.910 --> 00:42:38.490
+'activité électrique du cœur, du potentiel électrique du
+
+751
+00:42:38.490 --> 00:42:41.130
+cœur, soit sous forme négative, soit sous forme
+
+752
+00:42:41.130 --> 00:42:44.850
+positive, soit positive ou négative, donc ça dépend
+
+753
+00:42:44.850 --> 00:42:47.150
+de l'angle de vision, de là est
+
+754
+00:42:47.150 --> 00:42:50.050
+sortie la notion de dérivation électrique, qu'on
+
+755
+00:42:50.050 --> 00:42:52.690
+verra dans le cours sur l'électrocardiogramme.
+
+756
+00:42:53.310 --> 00:42:54.850
+Ainsi si vous suivez tout ça, vous allez
+
+757
+00:42:54.850 --> 00:42:59.130
+avoir, selon la dérivation, un enregistrement par exemple
+
+758
+00:42:59.130 --> 00:43:02.970
+comme ça, de dépolarisation, déflexion négative et puis
+
+759
+00:43:02.970 --> 00:43:05.510
+retour à la normale, déflexion positive et puis
+
+760
+00:43:05.510 --> 00:43:07.570
+retour à la normale, ou alors positive et
+
+761
+00:43:07.570 --> 00:43:08.990
+puis négative et puis retour à la normale.
+
+762
+00:43:08.990 --> 00:43:12.530
+Vous voyez pour le même phénomène électrique, plusieurs
+
+763
+00:43:12.530 --> 00:43:17.010
+façons de l'enregistrer, plusieurs images si vous
+
+764
+00:43:17.010 --> 00:43:17.250
+voulez.
+
+765
+00:43:17.730 --> 00:43:19.530
+Ça c'était la phase de dépolarisation et
+
+766
+00:43:19.530 --> 00:43:23.510
+puis la repolarisation peut prendre le chemin inverse
+
+767
+00:43:23.510 --> 00:43:26.130
+pour qu'à la fin vous obtenez quelque
+
+768
+00:43:26.130 --> 00:43:28.910
+chose comme ça, une déflexion négative suivie d
+
+769
+00:43:28.910 --> 00:43:31.970
+'une déflexion positive, ou alors positive suivie de
+
+770
+00:43:31.970 --> 00:43:35.510
+négative ou alors biphasique et puis suivie d
+
+771
+00:43:35.510 --> 00:43:39.170
+'une autre qui est aussi biphasique.
+
+772
+00:43:39.310 --> 00:43:41.570
+Donc pour le même phénomène électrique, pour le
+
+773
+00:43:41.570 --> 00:43:45.050
+même phénomène de dépolarisation et repolarisation, on obtient
+
+774
+00:43:45.050 --> 00:43:49.070
+des images complètement différentes en fonction de la
+
+775
+00:43:49.070 --> 00:43:51.550
+position du galvanomètre ou en fonction de l
+
+776
+00:43:51.550 --> 00:43:54.330
+'électrode exploratrice.
+
+777
+00:44:01.850 --> 00:44:03.490
+Après tout ça, on va le voir sur
+
+778
+00:44:03.490 --> 00:44:05.070
+le CG, mais sachez que c'est comme
+
+779
+00:44:05.070 --> 00:44:06.650
+ça qu'on fait, on sait que l
+
+780
+00:44:06.650 --> 00:44:10.530
+'influx électrique commence de façon pré-dominante au
+
+781
+00:44:10.530 --> 00:44:16.830
+niveau du nœud sinusal qui va lui dépolariser
+
+782
+00:44:16.830 --> 00:44:19.570
+toutes les zones juste à côté et puis
+
+783
+00:44:19.570 --> 00:44:21.970
+par la suite se propager vers les ventricules
+
+784
+00:44:21.970 --> 00:44:27.390
+et dépolariser les oreillettes puis partir dans le
+
+785
+00:44:27.390 --> 00:44:31.710
+système conductif nœud AV et puis faisceau de
+
+786
+00:44:31.710 --> 00:44:33.250
+vis et puis réseau de purcunier et puis
+
+787
+00:44:33.250 --> 00:44:34.770
+dépolariser tous les ventricules.
+
+788
+00:44:35.190 --> 00:44:36.670
+Et pourquoi il y a cet ordre ?
+
+789
+00:44:36.670 --> 00:44:39.930
+Ben tout simplement parce que le nœud sinusal
+
+790
+00:44:39.930 --> 00:44:42.110
+déjà il se dépolarise à une fréquence plus
+
+791
+00:44:42.110 --> 00:44:46.410
+rapide que tout le reste du système électrique
+
+792
+00:44:46.410 --> 00:44:49.010
+et puis une fois il envoie un influx
+
+793
+00:44:49.010 --> 00:44:51.550
+électrique, il dépolarise les régions juste à côté.
+
+794
+00:44:52.150 --> 00:44:54.590
+Grâce à la notion de période réfractaire, ces
+
+795
+00:44:54.590 --> 00:44:55.910
+cellules n'ont plus le droit de se
+
+796
+00:44:55.910 --> 00:44:58.510
+dépolariser d'elles-mêmes et donc ils restent
+
+797
+00:44:58.510 --> 00:45:01.350
+dépolarisés et puis ils retrouvent leur repolarisation.
+
+798
+00:45:01.990 --> 00:45:03.830
+Une fois ils retrouvent leur repolarisation, l'influx
+
+799
+00:45:03.830 --> 00:45:07.130
+électrique revient encore à partir du nœud sinusal
+
+800
+00:45:07.130 --> 00:45:09.670
+pour les dépolariser de nouveau et ainsi de
+
+801
+00:45:09.670 --> 00:45:13.170
+suite le nœud sinusal devient le pacemaker dominant
+
+802
+00:45:13.170 --> 00:45:14.250
+du cœur.
+
+803
+00:45:15.270 --> 00:45:17.470
+Voilà pour la séance d'aujourd'hui, je
+
+804
+00:45:17.470 --> 00:45:20.690
+vous remercie et à la séance de demain
+
+805
+00:45:20.690 --> 00:45:21.030
+chambre.

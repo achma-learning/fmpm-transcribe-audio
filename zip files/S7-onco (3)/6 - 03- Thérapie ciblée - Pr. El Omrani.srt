@@ -1,0 +1,3987 @@
+1
+00:00:01,420 --> 00:00:04,900
+Bonjour tout le monde, notre dernier cours sera
+
+2
+00:00:04,900 --> 00:00:08,400
+une initiation aux thérapies ciblées en cancérologie.
+
+3
+00:00:09,420 --> 00:00:12,080
+Cette terminologie de thérapie ciblée remonte aux années
+
+4
+00:00:12,080 --> 00:00:15,800
+2000 avec le développement de nombreuses molécules différentes
+
+5
+00:00:15,800 --> 00:00:19,280
+des anciennes molécules comme la chimiothérapie classique, sur
+
+6
+00:00:19,280 --> 00:00:21,540
+le plan mécanisme d'action, car elle cible
+
+7
+00:00:21,540 --> 00:00:24,060
+des anomalies moléculaires à l'origine du développement
+
+8
+00:00:24,060 --> 00:00:27,140
+du cancer, mais aussi leur profil de toxicité
+
+9
+00:00:27,140 --> 00:00:30,640
+qui est totalement différent de la chimiothérapie cytotoxique.
+
+10
+00:00:32,900 --> 00:00:35,840
+Pour traiter cette question, on va adopter ce
+
+11
+00:00:35,840 --> 00:00:36,120
+plan.
+
+12
+00:00:36,400 --> 00:00:39,760
+Après une petite introduction et des rappels, on
+
+13
+00:00:39,760 --> 00:00:42,420
+va parler des voies de signalisation intracellulaires et
+
+14
+00:00:42,420 --> 00:00:45,760
+le fonctionnement de la cellule, normales mais aussi
+
+15
+00:00:45,760 --> 00:00:46,520
+pathologiques.
+
+16
+00:00:47,260 --> 00:00:49,320
+On va parler d'un phénomène qui est
+
+17
+00:00:49,320 --> 00:00:51,940
+très important dans la survie du cancer qui
+
+18
+00:00:51,940 --> 00:00:54,460
+est l'ongéogenèse tumorale.
+
+19
+00:00:55,380 --> 00:00:57,760
+Puis on va essayer d'aborder les mécanismes
+
+20
+00:00:57,760 --> 00:01:00,600
+d'action des thérapies ciblées et les différentes
+
+21
+00:01:00,600 --> 00:01:03,360
+cibles qu'on va utiliser pour essayer de
+
+22
+00:01:03,360 --> 00:01:11,000
+contrôler ce processus tumoral, avant d'aborder quelques
+
+23
+00:01:11,000 --> 00:01:17,360
+applications cliniques des thérapies ciblées en routine et
+
+24
+00:01:17,360 --> 00:01:20,200
+quelques perspectives avant de conclure.
+
+25
+00:01:22,440 --> 00:01:25,450
+On a déjà parlé des traitements en cancérologie.
+
+26
+00:01:26,660 --> 00:01:28,840
+Les thérapies ciblées font partie des traitements spécifiques
+
+27
+00:01:28,840 --> 00:01:31,940
+des cancers dont l'action est systémique, comme
+
+28
+00:01:31,940 --> 00:01:34,940
+la chimiothérapie, l'hormonothérapie et l'immunothérapie.
+
+29
+00:01:35,900 --> 00:01:37,300
+Et la question qui se pose est-ce
+
+30
+00:01:37,300 --> 00:01:39,220
+que l'hormonothérapie et l'immunothérapie ne sont
+
+31
+00:01:39,220 --> 00:01:42,780
+pas des thérapies ciblées, car elles ciblent aussi
+
+32
+00:01:42,780 --> 00:01:46,740
+des anomalies moléculaires et des récepteurs pour contrôler
+
+33
+00:01:46,740 --> 00:01:48,080
+la croissance tumorale.
+
+34
+00:01:49,260 --> 00:01:51,180
+Avant les années 2000, l'offre de soins
+
+35
+00:01:51,180 --> 00:01:54,140
+en matière de traitement des cancers était très
+
+36
+00:01:54,140 --> 00:01:56,320
+limitée par le nombre de médicaments disponibles.
+
+37
+00:01:57,220 --> 00:01:59,920
+Mais aussi il fut aléatoire des traitements classiques
+
+38
+00:01:59,920 --> 00:02:02,440
+car on ne disposait pas malheureusement de facteurs
+
+39
+00:02:02,440 --> 00:02:03,620
+prédictifs de réponse.
+
+40
+00:02:04,520 --> 00:02:08,220
+Et associé s'ajoute une toxicité importante qui
+
+41
+00:02:08,220 --> 00:02:10,340
+va limiter l'utilisation de ces traitements.
+
+42
+00:02:10,340 --> 00:02:14,710
+L'arrivée des thérapies ciblées répondit à un
+
+43
+00:02:14,710 --> 00:02:19,350
+besoin réel afin d'augmenter l'efficacité, réduire
+
+44
+00:02:19,350 --> 00:02:22,330
+la toxicité et pourquoi pas guérir le cancer
+
+45
+00:02:22,330 --> 00:02:25,510
+grâce à un traitement multimodal qui regroupe plusieurs
+
+46
+00:02:25,510 --> 00:02:29,490
+armes thérapeutiques, d'autres classes médicamenteuses et d
+
+47
+00:02:29,490 --> 00:02:31,490
+'autres modalités de traitement telles que la chirurgie,
+
+48
+00:02:31,610 --> 00:02:35,230
+la radiothérapie qui ont également connu des progrès
+
+49
+00:02:35,230 --> 00:02:37,290
+notables ces dernières années.
+
+50
+00:02:39,310 --> 00:02:43,790
+Les thérapies ciblées anticancéreuses, appelées aussi biothérapies, sont
+
+51
+00:02:43,790 --> 00:02:46,030
+des médicaments qui visent à bloquer la croissance
+
+52
+00:02:46,030 --> 00:02:49,490
+et ou la propagation des cellules tumorales en
+
+53
+00:02:49,490 --> 00:02:51,670
+s'attaquant spécifiquement à certaines de leurs anomalies.
+
+54
+00:02:53,090 --> 00:02:55,610
+Leur mode d'action principal passe par une
+
+55
+00:02:55,610 --> 00:03:01,130
+inhibition des mécanismes oncogènes avec une spécificité importante
+
+56
+00:03:01,130 --> 00:03:04,370
+pour les cellules cancéreuses et leur microenvironnement.
+
+57
+00:03:05,270 --> 00:03:07,150
+On distingue deux grandes catégories.
+
+58
+00:03:08,030 --> 00:03:10,450
+Les anticorps monoclonaux sont des grosses molécules dont
+
+59
+00:03:10,450 --> 00:03:13,530
+l'action va se faire en extracellulaire, soit
+
+60
+00:03:13,530 --> 00:03:16,130
+au niveau des récepteurs membraneurs ou sur des
+
+61
+00:03:16,130 --> 00:03:18,530
+molécules dans la circulation générale.
+
+62
+00:03:18,530 --> 00:03:22,930
+Et des petites molécules dont l'action est
+
+63
+00:03:22,930 --> 00:03:26,990
+intracellulaire, dont la majorité de ces molécules ont
+
+64
+00:03:26,990 --> 00:03:30,150
+une activité inhibitrice de la tyrosine kinase, mais
+
+65
+00:03:30,150 --> 00:03:33,150
+aussi d'autres cibles moléculaires cétoplasmiques et même
+
+66
+00:03:33,150 --> 00:03:34,610
+nucléaires au niveau de l'ADN.
+
+67
+00:03:36,800 --> 00:03:38,440
+Les cibles d'action de ces traitements sont
+
+68
+00:03:38,440 --> 00:03:41,060
+les mécanismes qui contrôlent la croissance de la
+
+69
+00:03:41,060 --> 00:03:41,860
+cellule cancéreuse.
+
+70
+00:03:41,860 --> 00:03:44,360
+Ils peuvent être des facteurs de croissance, des
+
+71
+00:03:44,360 --> 00:03:47,880
+voies de transduction du céréal cellulaire, mais aussi
+
+72
+00:03:47,880 --> 00:03:50,680
+ils s'intéressent à l'environnement tumoral, le
+
+73
+00:03:50,680 --> 00:03:54,860
+stromatumoral, l'angiogénèse et aussi le système immunitaire.
+
+74
+00:04:00,770 --> 00:04:02,870
+On ne peut pas comprendre les thérapies ciblées
+
+75
+00:04:02,870 --> 00:04:05,470
+sans revenir au premier cycle de médecine pour
+
+76
+00:04:05,470 --> 00:04:09,170
+comprendre le fonctionnement normal équilibré d'une cellule
+
+77
+00:04:09,170 --> 00:04:09,470
+normale.
+
+78
+00:04:09,470 --> 00:04:14,430
+Dans l'altération ou le déséquilibre représentent un
+
+79
+00:04:14,430 --> 00:04:17,190
+des mécanismes de développement du cancer et de
+
+80
+00:04:17,190 --> 00:04:18,269
+la croissance tumoral.
+
+81
+00:04:19,310 --> 00:04:20,350
+Ce qu'on sait, c'est que la
+
+82
+00:04:20,350 --> 00:04:24,050
+croissance cellulaire physiologique est conditionnée par un équilibre
+
+83
+00:04:24,050 --> 00:04:28,190
+entre une activité activatrice de la croissance cellulaire
+
+84
+00:04:28,190 --> 00:04:31,790
+grâce aux activateurs de la prolifération cellulaire et
+
+85
+00:04:31,790 --> 00:04:34,070
+des inhibiteurs d'apoptose au moment programmé de
+
+86
+00:04:34,070 --> 00:04:34,550
+la cellule.
+
+87
+00:04:34,550 --> 00:04:38,590
+Et une activité inhibitrice de la croissance cellulaire
+
+88
+00:04:38,590 --> 00:04:42,030
+grâce aux inhibiteurs de prolifération et des activateurs
+
+89
+00:04:42,030 --> 00:04:47,050
+d'apoptose et donc on va provoquer la
+
+90
+00:04:47,050 --> 00:04:47,650
+mort cellulaire.
+
+91
+00:04:49,910 --> 00:04:51,890
+La croissance tumorale est le résultat d'une
+
+92
+00:04:51,890 --> 00:04:55,290
+activation anormale de certaines protéines qui sera responsable
+
+93
+00:04:55,290 --> 00:04:59,430
+d'une activation d'encogènes, des enco-protéines
+
+94
+00:04:59,430 --> 00:05:02,770
+et une activation des protéines suppresseurs de tumeurs
+
+95
+00:05:02,770 --> 00:05:04,310
+ou anti-encogènes.
+
+96
+00:05:04,310 --> 00:05:09,070
+Dans ce schéma, on voit deux exemples d
+
+97
+00:05:09,070 --> 00:05:12,950
+'une activation d'une protéine suppresseur de tumeurs
+
+98
+00:05:12,950 --> 00:05:18,270
+P53 et l'activation d'un encogène BCNA
+
+99
+00:05:18,270 --> 00:05:21,170
+aux gènes de survie qui va empêcher l
+
+100
+00:05:21,170 --> 00:05:24,410
+'apoptose ou la mort cellulaire programmée.
+
+101
+00:05:27,130 --> 00:05:29,550
+Les mécanismes à l'origine de l'activation
+
+102
+00:05:29,550 --> 00:05:33,710
+anormale des protéines encogènes sont représentés par des
+
+103
+00:05:33,710 --> 00:05:37,050
+anomalies ponctuelles sous forme d'une mutation, une
+
+104
+00:05:37,050 --> 00:05:39,210
+amplification génique qui va augmenter les signaux de
+
+105
+00:05:39,210 --> 00:05:44,430
+prolifération cellulaire, une translocation chromosomique ou même une
+
+106
+00:05:44,430 --> 00:05:47,450
+expression d'encogènes vérales qui sera intégrée dans
+
+107
+00:05:47,450 --> 00:05:50,210
+l'ADN et par conséquence déclencher une activité
+
+108
+00:05:50,210 --> 00:05:52,550
+incontrôlée de division cellulaire.
+
+109
+00:05:52,550 --> 00:05:57,250
+L'activité oncogénique est de caractère dominant et
+
+110
+00:05:57,250 --> 00:05:58,990
+donc il suffit une modification d'un seul
+
+111
+00:05:58,990 --> 00:06:00,950
+allèle pour générer cette activité.
+
+112
+00:06:02,530 --> 00:06:05,550
+A l'opposé, une activation d'hygiène suppresseur
+
+113
+00:06:05,550 --> 00:06:09,890
+de tumeurs est de caractère récessif, ce qui
+
+114
+00:06:09,890 --> 00:06:11,930
+exige une modification au niveau des deux allèles
+
+115
+00:06:11,930 --> 00:06:15,190
+pour altérer cette activité, soit une double déletion
+
+116
+00:06:15,190 --> 00:06:18,650
+génique, soit une mutation avec une déletion génique
+
+117
+00:06:18,650 --> 00:06:19,190
+par exemple.
+
+118
+00:06:21,590 --> 00:06:24,850
+Sur ce schéma, on voit très bien l
+
+119
+00:06:24,850 --> 00:06:29,130
+'équilibre des deux activités oncogènes et anti-oncogènes
+
+120
+00:06:29,130 --> 00:06:32,890
+dans la cellule normale et aussi le grand
+
+121
+00:06:32,890 --> 00:06:35,270
+déséquilibre de la balance en faveur des signaux
+
+122
+00:06:35,270 --> 00:06:38,290
+de prolifération et de multiplication cellulaire dans la
+
+123
+00:06:38,290 --> 00:06:39,970
+cellule cancéreuse.
+
+124
+00:06:42,660 --> 00:06:44,720
+Deuxième point essentiel, c'est que la naissance
+
+125
+00:06:44,720 --> 00:06:47,040
+d'un cancer ou cancérogènes n'est jamais
+
+126
+00:06:47,040 --> 00:06:50,000
+un seul événement, mais c'est un processus
+
+127
+00:06:50,000 --> 00:06:52,820
+qui démarre longtemps avant de devenir un vrai
+
+128
+00:06:52,820 --> 00:06:53,260
+cancer.
+
+129
+00:06:54,260 --> 00:06:56,820
+On passe d'un tissu normal avec des
+
+130
+00:06:56,820 --> 00:06:59,520
+cellules normales à un tissu proche de la
+
+131
+00:06:59,520 --> 00:07:03,080
+normale avec un pourcentage minime de cellules anormales,
+
+132
+00:07:03,440 --> 00:07:06,620
+mais avec toujours un équilibre entre les entrées,
+
+133
+00:07:06,780 --> 00:07:10,100
+c'est-à-dire les naissances ou la
+
+134
+00:07:10,100 --> 00:07:13,840
+division cellulaire, et les sorties ou les pertes
+
+135
+00:07:13,840 --> 00:07:14,680
+ou morts cellulaires.
+
+136
+00:07:15,980 --> 00:07:18,060
+Pour parler d'un cancer vrai, il doit
+
+137
+00:07:18,060 --> 00:07:21,380
+s'agir d'un tissu anormal avec un
+
+138
+00:07:21,380 --> 00:07:24,780
+pourcentage très important de cellules anormales et parmi
+
+139
+00:07:24,780 --> 00:07:28,360
+lesquelles des cellules ayant acquis d'autres pouvoirs,
+
+140
+00:07:28,360 --> 00:07:30,800
+dont la migration au-delà du tissu moral
+
+141
+00:07:30,800 --> 00:07:33,160
+à l'origine de la maladie métastatique.
+
+142
+00:07:34,500 --> 00:07:37,700
+Ce schéma ne montre que le phénotype, l
+
+143
+00:07:37,700 --> 00:07:42,600
+'apparence, mais le plus intéressant pour comprendre les
+
+144
+00:07:42,600 --> 00:07:44,960
+mécanismes d'action des thérapies ciblées est d
+
+145
+00:07:44,960 --> 00:07:48,680
+'aller chercher les anomalies moléculaires, activités enzymatiques,
+
+146
+00:07:49,120 --> 00:07:52,720
+modifications génétiques, simulations exogènes à l'origine de
+
+147
+00:07:52,720 --> 00:07:54,520
+ce phénotype cancéreux.
+
+148
+00:07:57,180 --> 00:08:01,280
+A travers ce schéma, on comprend qu'un
+
+149
+00:08:01,280 --> 00:08:03,800
+cancer n'est que le résultat et l
+
+150
+00:08:03,800 --> 00:08:06,420
+'aboutissement final de l'accumulation de plusieurs altérations
+
+151
+00:08:06,420 --> 00:08:10,140
+génétiques acquises et qui vont être à l
+
+152
+00:08:10,140 --> 00:08:12,600
+'origine de la naissance, mais aussi au développement
+
+153
+00:08:12,600 --> 00:08:16,840
+du processus moral grâce à une potentialisation d
+
+154
+00:08:16,840 --> 00:08:21,920
+'activités oncogéniques et une inhibition d'activités anti
+
+155
+00:08:21,920 --> 00:08:23,060
+-oncogéniques.
+
+156
+00:08:25,260 --> 00:08:27,460
+Ces anomalies moléculaires sont à l'origine de
+
+157
+00:08:27,460 --> 00:08:30,600
+ces caractéristiques acquises par la cellule cancéreuse, au
+
+158
+00:08:30,600 --> 00:08:32,640
+phénotype cancéreux.
+
+159
+00:08:33,200 --> 00:08:35,059
+La première caractéristique, c'est l'échappement à
+
+160
+00:08:35,059 --> 00:08:35,640
+la popptose.
+
+161
+00:08:36,720 --> 00:08:38,179
+On sait qu'il y a plusieurs types
+
+162
+00:08:38,179 --> 00:08:40,900
+de mort cellulaire, dont le vieillissement cellulaire, la
+
+163
+00:08:40,900 --> 00:08:44,580
+microcellulaire, mais surtout la mort programmée d'une
+
+164
+00:08:44,580 --> 00:08:45,540
+cellule ou la popptose.
+
+165
+00:08:46,260 --> 00:08:49,280
+Cette cellule, après un nombre de cycles de
+
+166
+00:08:49,280 --> 00:08:53,280
+division cellulaire, va arrêter sa croissance et va
+
+167
+00:08:53,280 --> 00:08:53,720
+mourir.
+
+168
+00:08:54,660 --> 00:08:58,080
+Mais dans la cellule cancéreuse, c'est le
+
+169
+00:08:58,080 --> 00:08:58,880
+contraire qui va se passer.
+
+170
+00:08:59,500 --> 00:09:00,760
+C'est une cellule qui va échapper à
+
+171
+00:09:00,760 --> 00:09:04,580
+ce phénomène grâce à une anomalie génétique qui
+
+172
+00:09:04,580 --> 00:09:06,640
+va lui confier la survie illimitée.
+
+173
+00:09:06,640 --> 00:09:08,680
+Et c'est pour cela, dans notre dialecte,
+
+174
+00:09:08,780 --> 00:09:13,640
+on appelait le cancer le survivant, en arabe,
+
+175
+00:09:13,800 --> 00:09:15,000
+et je pense que c'est la meilleure
+
+176
+00:09:15,000 --> 00:09:17,480
+description du processus cancéreux.
+
+177
+00:09:18,980 --> 00:09:22,320
+La deuxième caractéristique, c'est le potentiel réplicatif
+
+178
+00:09:22,320 --> 00:09:22,920
+illimité.
+
+179
+00:09:24,520 --> 00:09:25,680
+Cela veut dire que c'est une cellule
+
+180
+00:09:25,680 --> 00:09:29,920
+qui, après chaque division cellulaire, va se préparer
+
+181
+00:09:29,920 --> 00:09:32,800
+à une autre division sans limitation.
+
+182
+00:09:32,800 --> 00:09:38,200
+La troisième caractéristique, c'est l'insensibilité aux
+
+183
+00:09:38,200 --> 00:09:43,740
+signaux antiprolifératifs qui seront modulés ou même inactivés.
+
+184
+00:09:43,900 --> 00:09:46,380
+Et par conséquent, le déséquilibre de la balance
+
+185
+00:09:46,380 --> 00:09:51,200
+est en défaveur de l'activité antiproliférative et
+
+186
+00:09:51,200 --> 00:09:55,040
+en faveur de la croissance tumorale en continuum.
+
+187
+00:09:56,980 --> 00:09:59,340
+La quatrième caractéristique, c'est l'indépendance vis
+
+188
+00:09:59,340 --> 00:10:02,700
+-à-vis des facteurs de croissance cellulaire.
+
+189
+00:10:03,700 --> 00:10:07,480
+Ce qui représente un grand challenge thérapeutique car
+
+190
+00:10:07,480 --> 00:10:11,740
+elle est généralement liée à une résistance au
+
+191
+00:10:11,740 --> 00:10:14,360
+traitement ou ce qu'on appelle un phénomène
+
+192
+00:10:14,360 --> 00:10:16,080
+d'échappement tumoral.
+
+193
+00:10:17,700 --> 00:10:20,120
+Cela veut dire que la cellule va acquérir
+
+194
+00:10:20,120 --> 00:10:24,480
+le pouvoir de satisfaire ses besoins sans faire
+
+195
+00:10:24,480 --> 00:10:29,720
+appel aux mécanismes habituels qui vont stimuler la
+
+196
+00:10:29,720 --> 00:10:30,880
+prolifération cellulaire.
+
+197
+00:10:30,880 --> 00:10:34,820
+L'exemple type, la comparaison entre les tumeurs
+
+198
+00:10:34,820 --> 00:10:36,640
+récepto-hormono-positifs dans le cancer du sein
+
+199
+00:10:36,640 --> 00:10:40,580
+et les tumeurs avec des récepto-hormono-négatifs.
+
+200
+00:10:41,300 --> 00:10:43,080
+Les tumeurs avec des récepto-hormono-négatifs sont
+
+201
+00:10:43,080 --> 00:10:45,560
+des tumeurs qui sont très agressives et qui
+
+202
+00:10:45,560 --> 00:10:50,680
+ont acquis l'autonomie pour proliférer sans besoin
+
+203
+00:10:50,680 --> 00:10:54,580
+de présence de stimulation hormonale.
+
+204
+00:10:54,580 --> 00:10:57,040
+L'autre exemple, c'est le statut race
+
+205
+00:10:57,040 --> 00:11:00,060
+muté dans le cancer colorectal.
+
+206
+00:11:00,740 --> 00:11:05,240
+Avec ou sans facteur de croissance épidermique, ces
+
+207
+00:11:05,240 --> 00:11:08,120
+cellules, quand race est limitée, vont continuer à
+
+208
+00:11:08,120 --> 00:11:11,320
+se multiplier d'une façon qui est continue.
+
+209
+00:11:13,680 --> 00:11:16,480
+La cinquième caractéristique, c'est le pouvoir invasif
+
+210
+00:11:16,480 --> 00:11:20,670
+de la cellule et la possibilité de donner
+
+211
+00:11:20,670 --> 00:11:23,230
+d'autres métastases dans d'autres environnements.
+
+212
+00:11:23,230 --> 00:11:27,730
+D'autres organes, par exemple un cancer avec
+
+213
+00:11:27,730 --> 00:11:29,610
+des métastases pulmonaires ou hépatiques.
+
+214
+00:11:30,470 --> 00:11:33,270
+Et cette cellule cancerose va s'adapter à
+
+215
+00:11:33,270 --> 00:11:36,130
+un autre environnement et va s'échapper même
+
+216
+00:11:36,130 --> 00:11:37,350
+au système immunitaire.
+
+217
+00:11:38,530 --> 00:11:42,150
+Et la dernière caractéristique, c'est l'induction
+
+218
+00:11:42,150 --> 00:11:45,630
+d'une neuroangiogénèse, ça veut dire une formation
+
+219
+00:11:45,630 --> 00:11:48,950
+d'une novelle vascularisation qui va accompagner la
+
+220
+00:11:48,950 --> 00:11:53,330
+croissance tumorale, soit primitive, mais aussi la maladie
+
+221
+00:11:53,330 --> 00:11:54,030
+métastatique.
+
+222
+00:11:54,890 --> 00:11:58,030
+Tout ça pour assurer les apports pour une
+
+223
+00:11:58,030 --> 00:11:59,510
+croissance tumorale sans limite.
+
+224
+00:12:01,460 --> 00:12:07,080
+Sur ce schéma, qui paraît très complexe, on
+
+225
+00:12:07,080 --> 00:12:10,780
+voit quelques exemples de voies de signalisation et
+
+226
+00:12:10,780 --> 00:12:13,620
+de protéines qui contrôlent le phénomène de croissance
+
+227
+00:12:13,620 --> 00:12:14,240
+tumorale.
+
+228
+00:12:16,360 --> 00:12:19,860
+Il y a des voies internes, en intracellulaire,
+
+229
+00:12:20,680 --> 00:12:23,540
+mais aussi des échanges d'informations avec le
+
+230
+00:12:23,540 --> 00:12:24,540
+milieu extracellulaire.
+
+231
+00:12:25,250 --> 00:12:26,840
+Et ce, c'est à travers des récepteurs
+
+232
+00:12:26,840 --> 00:12:30,440
+membranaires ou des molécules qui vont carrément traverser
+
+233
+00:12:30,440 --> 00:12:34,460
+la membrane cétoplasmique pour assurer une activité kinase
+
+234
+00:12:34,460 --> 00:12:36,460
+enzymatique en intracellulaire.
+
+235
+00:12:38,620 --> 00:12:41,380
+Ainsi, on a pu identifier plus de 150
+
+236
+00:12:41,380 --> 00:12:46,020
+oncoprotéines ou oncogènes et plus de 40 gènes
+
+237
+00:12:46,020 --> 00:12:49,820
+suppresseurs du tumeur et qui devaient normalement théoriquement
+
+238
+00:12:49,820 --> 00:12:52,980
+être une cible pour le traitement anticancéreux.
+
+239
+00:12:52,980 --> 00:12:56,980
+Mais malheureusement, peu de molécules ayant montré une
+
+240
+00:12:56,980 --> 00:13:00,160
+efficacité en ciblant ces anomalies moléculaires.
+
+241
+00:13:02,520 --> 00:13:05,000
+On va voir maintenant quelques exemples d'anomalies
+
+242
+00:13:05,000 --> 00:13:07,940
+moléculaires dont le ciblage a permis d'améliorer
+
+243
+00:13:07,940 --> 00:13:10,240
+la prise en charge et le pronostic de
+
+244
+00:13:10,240 --> 00:13:10,960
+certains cancers.
+
+245
+00:13:12,520 --> 00:13:14,520
+Ici, on voit l'une des premières anomalies
+
+246
+00:13:14,520 --> 00:13:17,580
+ayant été ciblées par un anticorps monoclonal, dont
+
+247
+00:13:17,580 --> 00:13:20,440
+certaines formes de cancers du sein, mais aussi
+
+248
+00:13:20,440 --> 00:13:22,320
+de plus en plus de cancers, et notamment
+
+249
+00:13:22,320 --> 00:13:23,860
+le cancer de l'estomac et la vicie.
+
+250
+00:13:25,420 --> 00:13:27,140
+En fait, c'est un récepteur membranaire de
+
+251
+00:13:27,140 --> 00:13:28,760
+la famille de GFR2.
+
+252
+00:13:29,920 --> 00:13:31,700
+Le GFR, ça veut dire Epidermic Large Fracture
+
+253
+00:13:31,700 --> 00:13:35,000
+Receptor, dont l'expression est contrôlée par un
+
+254
+00:13:35,000 --> 00:13:36,720
+oncogène qui s'appelle le RB2.
+
+255
+00:13:38,980 --> 00:13:42,600
+Ce récepteur, il est surexprimé dans 25%
+
+256
+00:13:42,600 --> 00:13:44,400
+des cancers du sein au niveau de la
+
+257
+00:13:44,400 --> 00:13:46,140
+membrane cytoplasmique.
+
+258
+00:13:48,020 --> 00:13:52,200
+Cette surexpression va confier un caractère agressif à
+
+259
+00:13:52,200 --> 00:13:56,100
+cette tumeur avec un potentiel métastatique très important
+
+260
+00:13:56,100 --> 00:13:59,540
+par rapport aux autres formes de cancers qui
+
+261
+00:13:59,540 --> 00:14:01,700
+ne surexpriment pas ce récepteur.
+
+262
+00:14:04,000 --> 00:14:06,960
+Actuellement, on a plusieurs molécules qui contrôlent son
+
+263
+00:14:06,960 --> 00:14:09,600
+activité, dont le trastuzumab.
+
+264
+00:14:11,260 --> 00:14:12,720
+C'est la première molécule qui a été
+
+265
+00:14:12,720 --> 00:14:14,400
+utilisée, c'est un anticorps monoclonal.
+
+266
+00:14:15,020 --> 00:14:18,860
+Mais aussi, actuellement, on a d'autres molécules,
+
+267
+00:14:18,980 --> 00:14:22,880
+notamment le pertuzumab, le DTM1 et l'apatinib.
+
+268
+00:14:23,660 --> 00:14:28,060
+Ce sont des molécules qui vont bloquer, essayer
+
+269
+00:14:28,060 --> 00:14:29,320
+de bloquer ce récepteur.
+
+270
+00:14:29,320 --> 00:14:31,820
+Et ceci a permis de changer carrément le
+
+271
+00:14:31,820 --> 00:14:36,040
+pronostic qui était défavorable de ces formes agressives
+
+272
+00:14:36,040 --> 00:14:40,200
+de cancers du sein surexprimant le récepteur HER2.
+
+273
+00:14:43,930 --> 00:14:46,870
+Deuxième exemple va concerner une voie qui est
+
+274
+00:14:46,870 --> 00:14:50,450
+très intéressante dans le cancer colorectal, mais aussi
+
+275
+00:14:50,450 --> 00:14:52,030
+dans les cancers ORL.
+
+276
+00:14:52,870 --> 00:14:54,290
+C'est la voie de signalisation RAS.
+
+277
+00:14:55,150 --> 00:14:58,550
+En fait, RAS est une protéine cytoplasmique dont
+
+278
+00:14:58,550 --> 00:15:00,590
+l'activité est sous contrôle d'un récepteur
+
+279
+00:15:00,590 --> 00:15:03,490
+membraneur qui s'appelle l'EGFR de type
+
+280
+00:15:03,490 --> 00:15:03,770
+1.
+
+281
+00:15:05,350 --> 00:15:08,570
+Quand l'oncogène, codon, la protéine RAS est
+
+282
+00:15:08,570 --> 00:15:11,890
+mutée, cette voie sera insensible à l'activation
+
+283
+00:15:11,890 --> 00:15:13,610
+antiproliférative.
+
+284
+00:15:14,310 --> 00:15:16,670
+Et par conséquence, le blocage de récepteurs EGFR
+
+285
+00:15:16,670 --> 00:15:20,450
+par un anti-EGFR ne changeant rien de
+
+286
+00:15:20,450 --> 00:15:22,150
+l'activité de cette protéine.
+
+287
+00:15:23,910 --> 00:15:26,790
+Si l'oncogène est non muté, on parle
+
+288
+00:15:26,790 --> 00:15:32,110
+d'une mutation sauvage, son activité dépend de
+
+289
+00:15:32,110 --> 00:15:34,330
+la stimulation de ce récepteur membraneur.
+
+290
+00:15:35,410 --> 00:15:38,430
+Et grâce à un anti-EGFR qui s
+
+291
+00:15:38,430 --> 00:15:42,650
+'appelle le succimab ou le panetimumab, les deux
+
+292
+00:15:42,650 --> 00:15:45,710
+sont des anticorps monoclonaux, on va bloquer ce
+
+293
+00:15:45,710 --> 00:15:49,670
+récepteur sans générer une activité cirrhosine activatrice de
+
+294
+00:15:49,670 --> 00:15:51,690
+la prolifération cellulaire tumorale.
+
+295
+00:15:51,690 --> 00:15:55,230
+Et par conséquence, on va contrôler cette maladie
+
+296
+00:15:55,230 --> 00:15:56,550
+cancéreuse.
+
+297
+00:15:58,830 --> 00:16:01,710
+Avec ces deux molécules, on a l'avantage
+
+298
+00:16:01,710 --> 00:16:06,590
+d'avoir un facteur prédictif de réponse tumorale.
+
+299
+00:16:07,130 --> 00:16:08,670
+Ça veut dire qu'on va les utiliser
+
+300
+00:16:08,670 --> 00:16:12,770
+si on a une mutation du type sauvage
+
+301
+00:16:12,770 --> 00:16:14,750
+du TATURAS.
+
+302
+00:16:17,950 --> 00:16:22,350
+Ici, on a un exemple de cible qui
+
+303
+00:16:22,350 --> 00:16:25,210
+est mutée et inactivée dans plusieurs cancers.
+
+304
+00:16:27,250 --> 00:16:30,630
+Ça s'appelle le P53 qui est une
+
+305
+00:16:30,630 --> 00:16:34,230
+protéine nucléaire et joue un rôle de suppresseur
+
+306
+00:16:34,230 --> 00:16:37,670
+de tumeur avec un effet anti-oncogène.
+
+307
+00:16:39,350 --> 00:16:42,670
+Malheureusement, on n'a pas de médicaments qui
+
+308
+00:16:42,670 --> 00:16:43,550
+ciblent cette protéine.
+
+309
+00:16:44,930 --> 00:16:48,190
+Imaginez qu'on a une molécule qui va
+
+310
+00:16:48,190 --> 00:16:49,390
+modifier son activité.
+
+311
+00:16:50,170 --> 00:16:52,990
+Ça sera théoriquement un traitement efficace pour tous
+
+312
+00:16:52,990 --> 00:16:53,410
+les cancers.
+
+313
+00:16:54,890 --> 00:16:57,990
+Mais en réalité, on a d'autres choses
+
+314
+00:16:57,990 --> 00:16:58,600
+qui se passent.
+
+315
+00:16:59,590 --> 00:17:02,050
+En plus, la cellule cancéreuse est très maligne
+
+316
+00:17:02,050 --> 00:17:05,930
+car elle trouvera d'autres voies saupas pour
+
+317
+00:17:05,930 --> 00:17:07,630
+échapper à son contrôle.
+
+318
+00:17:09,450 --> 00:17:14,849
+Comment une thérapie ciblée va inhibir la transduction
+
+319
+00:17:14,849 --> 00:17:18,650
+des signaux de prolifération cellulaire dans le milieu
+
+320
+00:17:18,650 --> 00:17:21,630
+extracellulaire mais aussi en intracellulaire ?
+
+321
+00:17:22,970 --> 00:17:26,970
+Il faut savoir que la cellule normale et
+
+322
+00:17:26,970 --> 00:17:29,970
+cancéreuse sont en communication continue avec le milieu
+
+323
+00:17:29,970 --> 00:17:30,530
+extérieur.
+
+324
+00:17:30,530 --> 00:17:34,090
+Ils sont à l'aide des récepteurs membranaires
+
+325
+00:17:34,090 --> 00:17:37,690
+dans le GFR par exemple.
+
+326
+00:17:39,670 --> 00:17:43,510
+Ces récepteurs ont une partie qui est extramembranaire
+
+327
+00:17:43,510 --> 00:17:46,410
+qui est en communication directe avec le milieu
+
+328
+00:17:46,410 --> 00:17:54,030
+extracellulaire et une partie intracellulaire qui communique avec
+
+329
+00:17:54,030 --> 00:17:57,750
+le milieu intracellulaire et avec le noyau à
+
+330
+00:17:57,750 --> 00:17:59,070
+travers des voies de signalisation.
+
+331
+00:18:00,290 --> 00:18:06,530
+La stimulation du récepteur par un ligand, une
+
+332
+00:18:06,530 --> 00:18:12,570
+molécule spécifique, EGF, Epidermal Growth Factor ou Vascular
+
+333
+00:18:12,570 --> 00:18:18,270
+Epidermal Growth Factor, va se traduire par une
+
+334
+00:18:18,270 --> 00:18:25,490
+activation tyrosine kinase du fragment intracellulaire.
+
+335
+00:18:27,130 --> 00:18:32,690
+Ceci va déclencher une cascade d'activation, de
+
+336
+00:18:32,690 --> 00:18:38,310
+mutilation au niveau des protéines spécifiques, d'abord
+
+337
+00:18:38,310 --> 00:18:44,230
+dans le cytoplasme, puis dans le noyau, puis
+
+338
+00:18:44,230 --> 00:18:45,250
+au niveau de l'ADN.
+
+339
+00:18:46,250 --> 00:18:51,090
+On parle de voies de signalisation, c'est
+
+340
+00:18:51,090 --> 00:18:55,430
+-à-dire un acheminement d'une information ou
+
+341
+00:18:55,430 --> 00:18:59,790
+d'un ordre du milieu extérieur vers le
+
+342
+00:18:59,790 --> 00:19:00,150
+noyau.
+
+343
+00:19:01,990 --> 00:19:06,470
+Dans la cellule cancéreuse, cette activité est exagérée
+
+344
+00:19:06,470 --> 00:19:11,350
+et va générer des activités de phénomène type
+
+345
+00:19:11,350 --> 00:19:12,350
+cancéreux.
+
+346
+00:19:12,350 --> 00:19:15,750
+Cela veut dire une prolifération illimitée en EGF,
+
+347
+00:19:16,290 --> 00:19:18,270
+effet anti-apoptotique.
+
+348
+00:19:19,570 --> 00:19:22,090
+De ce fait, notre objectif en utilisant des
+
+349
+00:19:22,090 --> 00:19:27,110
+thérapies ciblées est d'arrêter ces voies de
+
+350
+00:19:27,110 --> 00:19:34,540
+signalisation quand elles sont responsables de la croissance
+
+351
+00:19:34,540 --> 00:19:37,840
+des cellules tumorales et ceci à différents niveaux.
+
+352
+00:19:38,790 --> 00:19:44,600
+Soit bloquer le ligand au facteur de croissance,
+
+353
+00:19:44,660 --> 00:19:47,680
+par exemple, au facteur pro-angiogénèse.
+
+354
+00:19:50,480 --> 00:19:56,760
+Bloquer les récepteurs membranaires dans sa forme extra
+
+355
+00:19:56,760 --> 00:20:00,300
+-membranaire, mais aussi avec l'inhibition de la
+
+356
+00:20:00,300 --> 00:20:02,660
+cellulose kinase au niveau de la partie intra
+
+357
+00:20:02,660 --> 00:20:04,080
+-membranaire.
+
+358
+00:20:06,200 --> 00:20:10,960
+Ou aller bloquer les voies de signalisation de
+
+359
+00:20:10,960 --> 00:20:13,380
+transduction du signal en intra-cellulaire.
+
+360
+00:20:15,140 --> 00:20:17,680
+Et pourquoi pas agir au niveau 2, carrément
+
+361
+00:20:17,680 --> 00:20:21,060
+au niveau de l'ADN, pour contrôler définitivement
+
+362
+00:20:21,060 --> 00:20:23,220
+cette activité à travers ce qu'on appelle
+
+363
+00:20:23,220 --> 00:20:24,160
+une thérapie génique.
+
+364
+00:20:26,440 --> 00:20:28,400
+Dans ce schéma, on voit l'exemple de
+
+365
+00:20:28,400 --> 00:20:29,500
+deux voies de signalisation.
+
+366
+00:20:30,740 --> 00:20:32,780
+La voie RAS, RAF, MEC.
+
+367
+00:20:34,320 --> 00:20:37,440
+Et la voie P3K, AKT, MTOR.
+
+368
+00:20:39,620 --> 00:20:42,980
+La première voie, la voie RAS, est très
+
+369
+00:20:42,980 --> 00:20:45,500
+intéressante dans le cancer colorectal.
+
+370
+00:20:46,920 --> 00:20:48,360
+On en a parlé tout à l'heure.
+
+371
+00:20:49,100 --> 00:20:53,660
+Et la voie P3K, AKT, MTOR, qui a
+
+372
+00:20:53,660 --> 00:20:55,760
+un rôle très important dans la neuro-angiogénèse,
+
+373
+00:20:55,780 --> 00:20:59,760
+du moral, dans le cancer, par exemple, du
+
+374
+00:20:59,760 --> 00:20:59,880
+rein.
+
+375
+00:21:06,030 --> 00:21:09,750
+Pour résumer, la transduction du signal sera simulée
+
+376
+00:21:09,750 --> 00:21:12,750
+par des ligands, des facteurs de croissance, par
+
+377
+00:21:12,750 --> 00:21:18,990
+exemple, l'épidémiograftaxe, ou par activité thyrosine kinase
+
+378
+00:21:18,990 --> 00:21:22,370
+en intra-cellulaire, et aussi par des séries
+
+379
+00:21:22,370 --> 00:21:25,650
+de threonine kinase qui regroupent un ensemble de
+
+380
+00:21:25,650 --> 00:21:29,890
+molécules, de protéines kinase et phosphatase, responsables des
+
+381
+00:21:29,890 --> 00:21:33,070
+phénomènes de phosphorylation, et qui sont impliquées dans
+
+382
+00:21:33,070 --> 00:21:36,450
+la transmission des signaux, et contrôlant particulièrement le
+
+383
+00:21:36,450 --> 00:21:37,150
+cycle cellulaire.
+
+384
+00:21:38,290 --> 00:21:41,750
+De ce fait, leurs sous-unités régulatrices et
+
+385
+00:21:41,750 --> 00:21:46,450
+de ciblage constituent des cibles potentielles des thérapeutiques
+
+386
+00:21:46,450 --> 00:21:47,370
+antiprolifératives.
+
+387
+00:21:49,090 --> 00:21:51,530
+La thérapie ciblée va bloquer ces activités par
+
+388
+00:21:51,530 --> 00:21:54,650
+des anticorps monoclonaux, ou des inhibiteurs de la
+
+389
+00:21:54,650 --> 00:22:00,150
+thyrosine kinase, ou des inhibiteurs de les séries
+
+390
+00:22:00,150 --> 00:22:01,230
+de threonine kinase.
+
+391
+00:22:02,350 --> 00:22:05,070
+Et le résultat, en fait, c'est un
+
+392
+00:22:05,070 --> 00:22:10,730
+effet antiprolifératif et simulation de la pauvreté ou
+
+393
+00:22:10,730 --> 00:22:13,290
+de la mort programmée de la cellule.
+
+394
+00:22:17,500 --> 00:22:19,280
+On ne peut pas ne pas parler de
+
+395
+00:22:19,280 --> 00:22:20,960
+l'angiogénèse, qui est un élément qui est
+
+396
+00:22:20,960 --> 00:22:23,580
+très important du processus tumoral, car la cellule
+
+397
+00:22:23,580 --> 00:22:26,180
+cancéreuse ne peut pas survivre en l'absence
+
+398
+00:22:26,180 --> 00:22:30,280
+d'un environnement tumoral favorable, qui est représenté
+
+399
+00:22:30,280 --> 00:22:33,200
+par le stroma tumoral.
+
+400
+00:22:34,280 --> 00:22:35,820
+Ça veut dire que c'est l'ensemble
+
+401
+00:22:35,820 --> 00:22:39,280
+du système conjonctif qui représente le squelette du
+
+402
+00:22:39,280 --> 00:22:41,360
+processus tumoral lors de sa croissance.
+
+403
+00:22:43,120 --> 00:22:45,440
+En ciblant ce stroma tumoral, on peut limiter
+
+404
+00:22:45,440 --> 00:22:48,540
+la croissance tumoral à travers un environnement qui
+
+405
+00:22:48,540 --> 00:22:53,240
+est incompassible, non favorable avec la survie cellulaire.
+
+406
+00:22:54,380 --> 00:22:56,240
+Et l'élément le plus important dans ce
+
+407
+00:22:56,240 --> 00:22:59,360
+stroma, c'est les vaisseaux, car sans eux,
+
+408
+00:23:00,120 --> 00:23:02,140
+pas d'apport, pas d'oxygène, pas d
+
+409
+00:23:02,140 --> 00:23:04,000
+'acide aminé, pas d'échange avec l'environnement
+
+410
+00:23:04,000 --> 00:23:06,340
+extracellulaire et pas d'échange entre la tumeur
+
+411
+00:23:06,340 --> 00:23:08,680
+prémissive et la maladie métastatique.
+
+412
+00:23:10,420 --> 00:23:12,760
+Et surtout, pas de voie pour donner des
+
+413
+00:23:12,760 --> 00:23:13,780
+métastases à distance.
+
+414
+00:23:15,940 --> 00:23:18,340
+C'est dans son intérêt que la cellule
+
+415
+00:23:18,340 --> 00:23:22,120
+tumorale va stimuler la formation d'une nouvelle
+
+416
+00:23:22,120 --> 00:23:29,020
+vascularisation afin d'assurer les ressources nécessaires pour
+
+417
+00:23:29,020 --> 00:23:29,620
+son développement.
+
+418
+00:23:32,100 --> 00:23:34,420
+Et ceci passe schématiquement par deux phases.
+
+419
+00:23:35,720 --> 00:23:38,640
+La première phase est prévasculaire où la tumeur
+
+420
+00:23:38,640 --> 00:23:43,440
+est de petite taille, asymptomatique, non détectable.
+
+421
+00:23:44,140 --> 00:23:45,960
+Et par conséquence, il n'a pas besoin
+
+422
+00:23:45,960 --> 00:23:49,200
+d'autres vaisseaux car les ressources sont assurées
+
+423
+00:23:49,200 --> 00:23:50,420
+par la vascularisation normale.
+
+424
+00:23:52,320 --> 00:23:55,060
+Et la deuxième phase, une phase angiogénique.
+
+425
+00:23:56,180 --> 00:23:57,720
+À ce moment-là, la tumeur a augmenté
+
+426
+00:23:57,720 --> 00:23:58,940
+de taille, de volume.
+
+427
+00:24:00,800 --> 00:24:03,020
+Et aussi, les cellules cancéreuses sont de plus
+
+428
+00:24:03,020 --> 00:24:05,980
+en plus loin de la vascularisation normale avec
+
+429
+00:24:05,980 --> 00:24:09,080
+l'installation d'époxy à l'origine de
+
+430
+00:24:09,080 --> 00:24:11,640
+la formation d'une neuovascularisation.
+
+431
+00:24:15,540 --> 00:24:19,580
+En présence d'une souffrance cellulaire secondaire à
+
+432
+00:24:19,580 --> 00:24:22,900
+des phénomènes d'époxy tumorale des cellules cancéreuses,
+
+433
+00:24:24,720 --> 00:24:27,300
+les cellules cancéreuses et le stroma vont libérer
+
+434
+00:24:27,300 --> 00:24:28,940
+des molécules angiogéniques.
+
+435
+00:24:30,220 --> 00:24:36,360
+Soit le vascular endothélial growth factor, PDGF, platelet
+
+436
+00:24:36,360 --> 00:24:40,740
+growth factor ou d'autres molécules qui vont
+
+437
+00:24:40,740 --> 00:24:43,200
+stimuler l'activité angiogénique.
+
+438
+00:24:43,920 --> 00:24:48,060
+Et qui vont activer les cellules endothéliales en
+
+439
+00:24:48,060 --> 00:24:55,080
+se fixant sur le récepteur VUGFR, PDGFR, FGFR.
+
+440
+00:24:56,560 --> 00:24:58,780
+Ceci sera à l'origine du démarrage de
+
+441
+00:24:58,780 --> 00:25:03,500
+la formation des vaisseaux par une prolifération et
+
+442
+00:25:03,500 --> 00:25:05,460
+une migration des cellules endothéliales.
+
+443
+00:25:06,480 --> 00:25:09,040
+Et à la fin, on aura de nouveaux
+
+444
+00:25:09,040 --> 00:25:09,480
+vaisseaux.
+
+445
+00:25:10,060 --> 00:25:12,460
+C'est le phénomène de la neo-angiogénèse.
+
+446
+00:25:16,640 --> 00:25:19,260
+Mais cette neo-angiogénèse, elle ne ressemble pas
+
+447
+00:25:19,260 --> 00:25:22,720
+à la structure organisée de la vasculation normale
+
+448
+00:25:22,720 --> 00:25:24,920
+car elle est très anarchique.
+
+449
+00:25:25,600 --> 00:25:28,940
+Et même la qualité des néo-vaisseaux n
+
+450
+00:25:28,940 --> 00:25:32,260
+'est pas top car le paroi est très
+
+451
+00:25:32,260 --> 00:25:32,700
+fragile.
+
+452
+00:25:33,340 --> 00:25:35,820
+Ce qui explique la fréquence de phénomènes de
+
+453
+00:25:35,820 --> 00:25:39,200
+nécrose tumorale et d'hémorragie intratumorale dans les
+
+454
+00:25:39,200 --> 00:25:40,080
+sarcomes par exemple.
+
+455
+00:25:43,860 --> 00:25:45,940
+Pour cibler la vascularisation tumorale, il y a
+
+456
+00:25:45,940 --> 00:25:47,320
+deux approches théoriques.
+
+457
+00:25:49,020 --> 00:25:52,580
+Soit on va chercher un effet angiostatique, c
+
+458
+00:25:52,580 --> 00:25:54,220
+'est-à-dire empêcher la formation de nouveaux
+
+459
+00:25:54,220 --> 00:25:58,320
+vaisseaux et le blocage de la croissance tumorale.
+
+460
+00:26:01,120 --> 00:26:04,700
+Ou un effet angiotoxique, ça veut dire qu
+
+461
+00:26:04,700 --> 00:26:07,040
+'on va chercher à détruire les vaisseaux de
+
+462
+00:26:07,040 --> 00:26:09,040
+la tumeur et provoquer une nécrose tumorale.
+
+463
+00:26:09,740 --> 00:26:12,240
+Mais le problème qui se pose, c'est
+
+464
+00:26:12,240 --> 00:26:14,980
+comment les molécules antitoxiques, dans un but thérapeutique
+
+465
+00:26:14,980 --> 00:26:18,420
+qui va être administré, vont accéder aux cellules
+
+466
+00:26:18,420 --> 00:26:19,880
+cancéreuses si on n'a pas de vaisseau.
+
+467
+00:26:20,680 --> 00:26:22,740
+Et aussi pour la radiothérapie qui exige la
+
+468
+00:26:22,740 --> 00:26:26,040
+présence d'oxygène pour avoir un effet anti
+
+469
+00:26:26,040 --> 00:26:26,740
+-tumoral.
+
+470
+00:26:29,300 --> 00:26:31,320
+Sur le plan pratique pour cibler l'angiogénèse,
+
+471
+00:26:31,420 --> 00:26:33,640
+on peut cibler soit des molécules à activité
+
+472
+00:26:33,640 --> 00:26:36,520
+pro-angiogénique qui simulent ou participent à la
+
+473
+00:26:36,520 --> 00:26:38,200
+formation des vaisseaux comme le VEGR.
+
+474
+00:26:39,040 --> 00:26:41,320
+Ou les facteurs du service cellulaire endothélial dont
+
+475
+00:26:41,320 --> 00:26:45,420
+le VEGF ou son récepteur, l'intégrine dont
+
+476
+00:26:45,420 --> 00:26:46,040
+je parle ici.
+
+477
+00:26:47,240 --> 00:26:49,820
+Mais aussi ce qu'on appelle les métalloprothéales
+
+478
+00:26:49,820 --> 00:26:54,000
+qui sont des molécules qui peuvent dégrader toutes
+
+479
+00:26:54,000 --> 00:26:58,380
+les composantes de la matrice extracellulaire et qui
+
+480
+00:26:58,380 --> 00:27:00,120
+sont en général peu exprimées dans les tissus
+
+481
+00:27:00,120 --> 00:27:00,440
+sains.
+
+482
+00:27:01,180 --> 00:27:04,760
+Mais leur expression augmente lors des processus de
+
+483
+00:27:04,760 --> 00:27:07,500
+remodelage tessulaire pathologique.
+
+484
+00:27:07,500 --> 00:27:12,540
+Et dans ces conditions, ces molécules participent à
+
+485
+00:27:12,540 --> 00:27:16,640
+divers phénomènes comme l'angio-angiogénèse, tumoral et
+
+486
+00:27:16,640 --> 00:27:18,520
+la réparation tessulaire.
+
+487
+00:27:21,240 --> 00:27:24,800
+Le nombre et la nature des thérapies ciblées
+
+488
+00:27:24,800 --> 00:27:27,680
+ne cessent d'augmenter avec le temps de
+
+489
+00:27:27,680 --> 00:27:30,140
+les difficultés qu'on a pour avoir une
+
+490
+00:27:30,140 --> 00:27:32,580
+classification qui est pure et homogène.
+
+491
+00:27:33,980 --> 00:27:36,860
+Schématiquement, on peut les classer selon plusieurs manières.
+
+492
+00:27:38,400 --> 00:27:41,060
+D'abord selon le siège de leur cible.
+
+493
+00:27:41,880 --> 00:27:48,320
+On distinguera une activité membranaire, notamment le GFR,
+
+494
+00:27:48,420 --> 00:27:48,880
+l'HER.
+
+495
+00:27:49,960 --> 00:27:55,000
+Ou une activité intracellulaire, l'exemple des inhibiteurs
+
+496
+00:27:55,000 --> 00:27:56,940
+de la thyrosine kinase, les réparateurs de l
+
+497
+00:27:56,940 --> 00:28:00,880
+'ADN, les entiers mTOR.
+
+498
+00:28:03,180 --> 00:28:06,440
+Et troisièmement, quand la cible est aidée en
+
+499
+00:28:06,440 --> 00:28:09,500
+extracellulaire, notamment l'angio-génèse tumoral et l
+
+500
+00:28:09,500 --> 00:28:12,460
+'environnement tumoral dans l'environnement osseux.
+
+501
+00:28:16,010 --> 00:28:18,690
+Mais aussi on peut les classer selon leur
+
+502
+00:28:18,690 --> 00:28:19,090
+nature.
+
+503
+00:28:20,770 --> 00:28:23,510
+Pour les anticorps monoclonaux, qui sont des molécules
+
+504
+00:28:23,510 --> 00:28:26,990
+de haut poids moléculaire et qui agissent à
+
+505
+00:28:26,990 --> 00:28:29,290
+la partie extramembranaire des récepteurs parce qu'ils
+
+506
+00:28:29,290 --> 00:28:31,810
+ne traversent pas la membrane cytoplasmique.
+
+507
+00:28:33,750 --> 00:28:37,150
+Soit sur la partie extramembranaire, mais aussi sur
+
+508
+00:28:37,150 --> 00:28:39,450
+les ligands, ou les facteurs qui vont se
+
+509
+00:28:39,450 --> 00:28:41,070
+fixer au niveau des récepteurs.
+
+510
+00:28:42,090 --> 00:28:44,670
+Donc ces anticorps, on va les reconnaître grâce
+
+511
+00:28:44,670 --> 00:28:46,430
+au suffixe MAP à la fin.
+
+512
+00:28:47,950 --> 00:28:52,590
+Mais selon leur degré d'humanisation, on va
+
+513
+00:28:52,590 --> 00:28:55,130
+utiliser une terminologie internationale.
+
+514
+00:28:56,390 --> 00:29:00,830
+Avec le suffixe MOMAP, ça va concerner les
+
+515
+00:29:00,830 --> 00:29:05,790
+anticorps monoclonaux complètement d'origine mirin, avec un
+
+516
+00:29:05,790 --> 00:29:11,130
+potentiel effet d'antigénicité, des réactions allergiques et
+
+517
+00:29:11,130 --> 00:29:13,130
+même choc anaphylaxique.
+
+518
+00:29:15,790 --> 00:29:19,230
+Après, on a le suffixe XIMAP pour les
+
+519
+00:29:19,230 --> 00:29:22,750
+molécules où le pourcentage d'humanisation atteint 60
+
+520
+00:29:22,750 --> 00:29:23,530
+à 70%.
+
+521
+00:29:25,130 --> 00:29:28,590
+Mais avec une antigénicité moins importante.
+
+522
+00:29:28,730 --> 00:29:30,250
+L'exemple type, c'est le suffixe XIMAP,
+
+523
+00:29:31,310 --> 00:29:32,750
+qui est un anti-OGFR.
+
+524
+00:29:35,010 --> 00:29:37,190
+Et pour les molécules où on a un
+
+525
+00:29:37,190 --> 00:29:41,290
+suffixe XIMAP, l'exemple type, c'est le
+
+526
+00:29:41,290 --> 00:29:42,970
+tracé XIMAP ou le percé XIMAP.
+
+527
+00:29:44,070 --> 00:29:46,630
+Ce sont des molécules qui sont humanisées à
+
+528
+00:29:46,630 --> 00:29:49,030
+90% de sa structure.
+
+529
+00:29:51,250 --> 00:29:55,950
+Et le dernier groupe, c'est quand on
+
+530
+00:29:55,950 --> 00:29:59,750
+a le suffixe de MOMAP, et ça concerne
+
+531
+00:29:59,750 --> 00:30:03,350
+des molécules dont l'origine est humaine et
+
+532
+00:30:03,350 --> 00:30:05,290
+donc pas de problème d'antigénicité.
+
+533
+00:30:06,010 --> 00:30:07,890
+Exemple, le panitumumab.
+
+534
+00:30:09,650 --> 00:30:13,550
+Ces anticorps monoclonaux vont cibler soit des antigènes
+
+535
+00:30:13,550 --> 00:30:16,130
+de surface cellulaire, comme les anti-CD20.
+
+536
+00:30:17,450 --> 00:30:20,970
+Exemple, le retuximab, qui va cibler l'infocyte,
+
+537
+00:30:21,010 --> 00:30:22,130
+dans l'infomaranochkinien.
+
+538
+00:30:23,710 --> 00:30:26,110
+Mais aussi dans le cadre d'immunothérapie avec
+
+539
+00:30:26,110 --> 00:30:30,330
+les anticorps anti-PD1 et les anti-CTLA4.
+
+540
+00:30:31,610 --> 00:30:33,290
+Exemple, l'épi-limumab.
+
+541
+00:30:36,130 --> 00:30:40,090
+Ils peuvent aussi cibler des récepteurs membranéens, activités
+
+542
+00:30:40,090 --> 00:30:42,530
+tyrosine kinase, de la famille de l'OGFR.
+
+543
+00:30:43,430 --> 00:30:45,470
+Et on a ce qu'on appelle les
+
+544
+00:30:45,470 --> 00:30:47,710
+anti-OGFR1.
+
+545
+00:30:49,370 --> 00:30:52,570
+Deux molécules, le cytuximab et le panitumumab.
+
+546
+00:30:53,610 --> 00:30:57,010
+Et les anti-HCO2, dont le tracizumab et
+
+547
+00:30:57,010 --> 00:30:57,650
+le pertizumab.
+
+548
+00:31:00,530 --> 00:31:03,450
+Ces anticorps aussi peuvent cibler le phénomène d
+
+549
+00:31:03,450 --> 00:31:04,510
+'angiogénèse tumorale.
+
+550
+00:31:05,510 --> 00:31:07,350
+Le chef de file, c'est le vivacigimab,
+
+551
+00:31:07,410 --> 00:31:11,370
+qui est un antirmonoclonale, qui va cibler le
+
+552
+00:31:11,370 --> 00:31:13,830
+facteur de croissance endothélien.
+
+553
+00:31:20,270 --> 00:31:26,130
+Sur cette diapositive, on voit le fonctionnement normal
+
+554
+00:31:26,130 --> 00:31:27,750
+d'un récepteur de la famille de l
+
+555
+00:31:27,750 --> 00:31:28,270
+'OGFR.
+
+556
+00:31:30,070 --> 00:31:33,630
+Avec deux parties structurelles.
+
+557
+00:31:34,990 --> 00:31:37,830
+Une partie qui est extra-membranée.
+
+558
+00:31:37,830 --> 00:31:41,630
+Et une partie à activité tyrosine kinase en
+
+559
+00:31:41,630 --> 00:31:44,090
+intra-cellulaire.
+
+560
+00:31:46,290 --> 00:31:49,230
+Normalement, la partie extra-membranée va être assimilée
+
+561
+00:31:49,230 --> 00:31:52,110
+par un ligand, un facteur de croissance épidermique.
+
+562
+00:31:53,530 --> 00:31:56,970
+Qui va générer une activité tyrosine kinase dans
+
+563
+00:31:56,970 --> 00:31:59,970
+sa partie intra-cellulaire.
+
+564
+00:32:00,790 --> 00:32:03,650
+Suite à la simulation des voies de signalisation,
+
+565
+00:32:03,930 --> 00:32:08,230
+on aura une induction de la prolifération tumorale.
+
+566
+00:32:10,070 --> 00:32:12,410
+Simulation de potentiels invasifs.
+
+567
+00:32:13,730 --> 00:32:15,110
+Des phénomènes d'angiogénèse.
+
+568
+00:32:16,890 --> 00:32:21,150
+Ce sont des cellules qui vont acquérir des
+
+569
+00:32:21,150 --> 00:32:23,750
+capacités d'aller se greffer dans d'autres
+
+570
+00:32:23,750 --> 00:32:26,170
+organes et constituer des métastases.
+
+571
+00:32:26,170 --> 00:32:29,230
+Et aussi, on aura une émission de l
+
+572
+00:32:29,230 --> 00:32:29,750
+'apoptose.
+
+573
+00:32:29,990 --> 00:32:33,130
+Donc tous ces signaux sont en faveur de
+
+574
+00:32:33,130 --> 00:32:36,210
+signal prolifératif de la tume.
+
+575
+00:32:39,290 --> 00:32:40,390
+Qu'est-ce qu'on va faire à
+
+576
+00:32:40,390 --> 00:32:42,530
+travers une thérapie ciblée ?
+
+577
+00:32:42,530 --> 00:32:44,030
+Et en l'occurrence, à l'aide d
+
+578
+00:32:44,030 --> 00:32:45,430
+'un anticorps monoclonal.
+
+579
+00:32:46,490 --> 00:32:49,270
+Cet anticorps monoclonal va se fixer au niveau
+
+580
+00:32:49,270 --> 00:32:51,930
+de la partie extra-membranée à la place
+
+581
+00:32:51,930 --> 00:32:52,370
+du ligand.
+
+582
+00:32:53,370 --> 00:32:56,270
+Mais ils ne vont pas générer d'activité
+
+583
+00:32:56,270 --> 00:32:57,190
+tyrosine kinase.
+
+584
+00:32:58,910 --> 00:33:01,170
+Et ceci va se traduire par l'arrêt
+
+585
+00:33:01,170 --> 00:33:10,550
+des différentes activités prolifératives, concession du phénotype cancéreux.
+
+586
+00:33:10,990 --> 00:33:14,290
+Et par conséquent, un contrôle de la prolifération
+
+587
+00:33:14,290 --> 00:33:15,790
+tumorale cancéreuse.
+
+588
+00:33:18,090 --> 00:33:19,710
+L'autre exemple.
+
+589
+00:33:20,870 --> 00:33:23,370
+Donc ici, c'est le phénomène d'angiogénèse
+
+590
+00:33:23,370 --> 00:33:24,030
+tumorale.
+
+591
+00:33:24,910 --> 00:33:28,270
+On va voir que le facteur de croissance
+
+592
+00:33:28,270 --> 00:33:31,270
+endothéliale au VEGF, il va se fixer au
+
+593
+00:33:31,270 --> 00:33:32,030
+niveau du récepteur.
+
+594
+00:33:32,810 --> 00:33:34,130
+Et par la suite, il va stimuler l
+
+595
+00:33:34,130 --> 00:33:35,070
+'activité endothéliale.
+
+596
+00:33:36,690 --> 00:33:39,490
+Le ciblage de cette voie angiogénique, il va
+
+597
+00:33:39,490 --> 00:33:41,030
+se faire à l'aide d'un anticorps
+
+598
+00:33:41,030 --> 00:33:42,850
+monoclonal qui s'appelle le buvacizimab.
+
+599
+00:33:43,730 --> 00:33:45,470
+Et cet anticorps monoclonal ne va pas cibler
+
+600
+00:33:45,470 --> 00:33:47,790
+le récepteur, mais il va cibler le facteur
+
+601
+00:33:47,790 --> 00:33:49,470
+qui est le VEGF.
+
+602
+00:33:49,710 --> 00:33:54,470
+Il va se lier à cette molécule et
+
+603
+00:33:54,470 --> 00:33:56,550
+va l'empêcher de se fixer au niveau
+
+604
+00:33:56,550 --> 00:33:57,170
+du récepteur.
+
+605
+00:33:57,290 --> 00:34:03,850
+Et par conséquent, on va arrêter ce signal
+
+606
+00:34:03,850 --> 00:34:07,710
+de neo-angiogénèse tumorale.
+
+607
+00:34:10,690 --> 00:34:12,690
+Donc à côté de ces grosses molécules qui
+
+608
+00:34:12,690 --> 00:34:14,690
+sont représentées par les anticorps monoclonaux, dont l
+
+609
+00:34:14,690 --> 00:34:19,130
+'activité est extracellulaire, parce qu'ils ne peuvent
+
+610
+00:34:19,130 --> 00:34:21,130
+pas pénétrer en extracellulaire.
+
+611
+00:34:21,850 --> 00:34:23,730
+On a d'autres molécules, des petites molécules
+
+612
+00:34:23,730 --> 00:34:25,210
+à activité intracellulaire.
+
+613
+00:34:26,790 --> 00:34:29,210
+Et dont deux classes thérapeutiques qui occupent une
+
+614
+00:34:29,210 --> 00:34:30,570
+place qui est prépondérante.
+
+615
+00:34:31,570 --> 00:34:33,929
+Les inhibiteurs de la tyrosine kinase, les TKI,
+
+616
+00:34:34,929 --> 00:34:37,290
+qui sont les plus développés et se reconnaissent
+
+617
+00:34:37,290 --> 00:34:40,429
+grâce au suffixe inhib à la fin, comme
+
+618
+00:34:40,429 --> 00:34:42,710
+le sorafinib, le cynishinib.
+
+619
+00:34:43,530 --> 00:34:46,409
+Ces molécules vont inhibir la phosphorylation de la
+
+620
+00:34:46,409 --> 00:34:51,210
+tyrosine kinase, c'est à dire la première
+
+621
+00:34:51,210 --> 00:34:55,110
+étape intracellulaire de la voie de signalisation intracellulaire
+
+622
+00:34:55,110 --> 00:34:57,830
+au niveau de la partie intracellulaire du récepteur
+
+623
+00:34:57,830 --> 00:34:58,610
+membranaire.
+
+624
+00:34:59,970 --> 00:35:03,470
+Ces molécules peuvent être sélectives et par conséquence,
+
+625
+00:35:03,670 --> 00:35:05,610
+ils auront une action qui est monofonctionnelle, ciblant
+
+626
+00:35:05,610 --> 00:35:12,630
+un seul récepteur ou multifonctionnelle, ciblant plusieurs tyrosine
+
+627
+00:35:12,630 --> 00:35:17,470
+kinase, deux récepteurs différents, comme le cynishinib et
+
+628
+00:35:17,470 --> 00:35:18,090
+le sorafinib.
+
+629
+00:35:19,490 --> 00:35:20,970
+Et on peut aussi les classer selon la
+
+630
+00:35:20,970 --> 00:35:23,850
+réversibilité de leur fixation et leur interaction avec
+
+631
+00:35:23,850 --> 00:35:24,370
+la cible.
+
+632
+00:35:25,170 --> 00:35:28,750
+Et on distingue des inhibiteurs réversibles, qui vont
+
+633
+00:35:28,750 --> 00:35:31,370
+se fixer et après ils vont se libérer.
+
+634
+00:35:32,330 --> 00:35:33,890
+Et d'autres molécules qui vont se fixer
+
+635
+00:35:33,890 --> 00:35:36,530
+d'une façon qui est permanente et irréversible.
+
+636
+00:35:37,990 --> 00:35:40,550
+Ces inhibiteurs de la tyrosine kinase peuvent cibler
+
+637
+00:35:40,550 --> 00:35:45,830
+la partie intracellulaire du récepteur, donc une activité
+
+638
+00:35:45,830 --> 00:35:51,670
+angiogénique quand ils vont cibler le VEGFR.
+
+639
+00:35:53,490 --> 00:35:55,250
+C'est l'exemple du cynishinib et le
+
+640
+00:35:55,250 --> 00:35:57,690
+pazopanib dans les tumeurs rénales.
+
+641
+00:35:59,030 --> 00:36:04,770
+Ils peuvent cibler la partie intracellulaire du VEGFR,
+
+642
+00:36:06,230 --> 00:36:09,210
+l'exemple type c'est l'herlotinib et
+
+643
+00:36:09,210 --> 00:36:12,310
+la gifinitinib dans le cancer du poumon.
+
+644
+00:36:14,070 --> 00:36:16,290
+Et ils peuvent aussi cibler la partie intracellulaire
+
+645
+00:36:16,290 --> 00:36:19,210
+de l'HER ou le VEGFR2, comme la
+
+646
+00:36:19,210 --> 00:36:20,430
+patinib dans le cancer du sein.
+
+647
+00:36:21,770 --> 00:36:25,670
+En plus, ils peuvent cibler les anomalies moléculaires
+
+648
+00:36:25,670 --> 00:36:30,210
+cellulaires, comme la patinib dans les tumeurs stromales
+
+649
+00:36:30,210 --> 00:36:31,950
+ou le cichit.
+
+650
+00:36:34,770 --> 00:36:38,270
+Et la deuxième famille à côté de la
+
+651
+00:36:38,270 --> 00:36:42,390
+tyrosine kinase inhibiteur, on a les inhibiteurs mTOR,
+
+652
+00:36:43,950 --> 00:36:45,790
+qui sont des analogues de la rapamycine.
+
+653
+00:36:46,470 --> 00:36:48,450
+Vous savez qu'il est utilisé comme un
+
+654
+00:36:48,450 --> 00:36:51,110
+antirégime en cas de greffe, car il a
+
+655
+00:36:51,110 --> 00:36:53,230
+un effet qui est immunosuppresseur.
+
+656
+00:36:54,530 --> 00:36:58,450
+Et ces molécules vont cibler la protéine mTOR
+
+657
+00:36:58,450 --> 00:37:04,890
+de la voie de signalisation, P3KAKTmTOR, comme on
+
+658
+00:37:04,890 --> 00:37:05,530
+l'a vu tout à l'heure.
+
+659
+00:37:06,330 --> 00:37:07,950
+Et le chef de file, c'est les
+
+660
+00:37:07,950 --> 00:37:08,590
+vérolimus.
+
+661
+00:37:09,370 --> 00:37:11,430
+Tous les molécules vont se terminer par le
+
+662
+00:37:11,430 --> 00:37:12,930
+suffixe emus.
+
+663
+00:37:14,090 --> 00:37:15,910
+Et ils sont utilisés dans le RAS et
+
+664
+00:37:15,910 --> 00:37:17,600
+dans l'infomalane en chikinière.
+
+665
+00:37:21,420 --> 00:37:25,600
+Donc après avoir tout ça, on va essayer
+
+666
+00:37:25,600 --> 00:37:30,940
+de voir quelques applications cliniques sur des cas
+
+667
+00:37:30,940 --> 00:37:34,500
+de cancer où la thérapie ciblée a montré
+
+668
+00:37:34,500 --> 00:37:37,600
+un effet bénéfique pour nos patients.
+
+669
+00:37:39,120 --> 00:37:40,540
+Le premier exemple, c'est le cancer du
+
+670
+00:37:40,540 --> 00:37:43,200
+sein, surexprimant l'HER2NE.
+
+671
+00:37:43,320 --> 00:37:46,340
+On parle de ce récepteur membrané qui est
+
+672
+00:37:46,340 --> 00:37:50,380
+surexprimé dans certains types de cancers.
+
+673
+00:37:52,700 --> 00:37:56,840
+On parle des cancers du sein HER positif.
+
+674
+00:37:57,580 --> 00:37:59,380
+Et on voit que ces récepteurs ne sont
+
+675
+00:37:59,380 --> 00:38:01,780
+qu'au départ un oncogène.
+
+676
+00:38:03,920 --> 00:38:07,560
+Donc après une biopsie, on va faire une
+
+677
+00:38:07,560 --> 00:38:10,360
+méleostochimie, on va chercher ces récepteurs.
+
+678
+00:38:11,400 --> 00:38:14,480
+S'ils sont surexprimés franchement avec ce qu
+
+679
+00:38:14,480 --> 00:38:16,480
+'on appelle trois croix, on n'aura pas
+
+680
+00:38:16,480 --> 00:38:18,140
+besoin de faire une étude moléculaire.
+
+681
+00:38:18,140 --> 00:38:22,060
+Mais si on est devant un doute, on
+
+682
+00:38:22,060 --> 00:38:22,580
+ne sait pas est-ce que c'est
+
+683
+00:38:22,580 --> 00:38:25,340
+amplifié ou non amplifié, c'est représenté par
+
+684
+00:38:25,340 --> 00:38:25,920
+deux croix.
+
+685
+00:38:27,160 --> 00:38:27,920
+À ce moment-là, on va faire ce
+
+686
+00:38:27,920 --> 00:38:30,000
+qu'on appelle une étude FISH ou CISH
+
+687
+00:38:30,000 --> 00:38:30,600
+moléculaire.
+
+688
+00:38:30,680 --> 00:38:32,240
+On va chercher ces protéines codons.
+
+689
+00:38:33,080 --> 00:38:34,900
+On va les compter pour voir est-ce
+
+690
+00:38:34,900 --> 00:38:36,960
+que ce gène est surexprimé ou pas.
+
+691
+00:38:38,060 --> 00:38:41,180
+Donc s'il est surexprimé, c'est un
+
+692
+00:38:41,180 --> 00:38:42,280
+cancer qui est très agressif.
+
+693
+00:38:43,960 --> 00:38:46,920
+Et pour cela, on a actuellement plusieurs molécules
+
+694
+00:38:46,920 --> 00:38:50,220
+qui vont les cibler, ces récepteurs, et qui
+
+695
+00:38:50,220 --> 00:38:54,400
+ont pu modifier le pronostic vital de ces
+
+696
+00:38:54,400 --> 00:38:55,080
+formes de cancer.
+
+697
+00:38:55,960 --> 00:38:57,340
+Parce qu'on a dit que c'est
+
+698
+00:38:57,340 --> 00:38:59,700
+un cancer qui est très agressif, avec une
+
+699
+00:38:59,700 --> 00:39:02,120
+mortalité qui est très importante, avec un potentiel
+
+700
+00:39:02,120 --> 00:39:03,360
+métastatique qui est très important.
+
+701
+00:39:05,440 --> 00:39:07,940
+Et grâce à une molécule qui s'appelle
+
+702
+00:39:07,940 --> 00:39:11,440
+Transgenmab, qui est utilisée en premier et qui
+
+703
+00:39:11,440 --> 00:39:15,400
+va bloquer ce récepteur, on va inactiver ce
+
+704
+00:39:15,400 --> 00:39:20,800
+potentiel agressif métastatique.
+
+705
+00:39:21,860 --> 00:39:24,320
+Grâce à l'inhibition de la progression dans
+
+706
+00:39:24,320 --> 00:39:28,880
+le cycle cellulaire, une suppression de signalisation apoptotique
+
+707
+00:39:28,880 --> 00:39:32,860
+et une activation même immunologique.
+
+708
+00:39:34,240 --> 00:39:37,600
+Ce qui va aider au contrôle de cette
+
+709
+00:39:37,600 --> 00:39:38,100
+maladie.
+
+710
+00:39:39,300 --> 00:39:42,600
+Cette molécule est utilisée dans 15 à 20
+
+711
+00:39:42,600 --> 00:39:44,900
+% des cancers du sein surexprimant lâcheur de
+
+712
+00:39:44,900 --> 00:39:45,140
+noeuds.
+
+713
+00:39:46,280 --> 00:39:50,020
+C'est un anticorps monoclonal, MAP, à la
+
+714
+00:39:50,020 --> 00:39:53,240
+fin, et qui est indiqué dans le cancer
+
+715
+00:39:53,240 --> 00:39:58,260
+du sein, soit en adjuvant ou en non
+
+716
+00:39:58,260 --> 00:39:59,760
+-adjuvant et en métastatique.
+
+717
+00:39:59,760 --> 00:40:01,300
+C'est parmi les rares molécules qui sont
+
+718
+00:40:01,300 --> 00:40:07,280
+utilisées dans les différentes étapes de traitement du
+
+719
+00:40:07,280 --> 00:40:07,700
+cancer.
+
+720
+00:40:09,000 --> 00:40:14,120
+Actuellement, cette thérapie est couplée à d'autres
+
+721
+00:40:14,120 --> 00:40:18,520
+molécules dont le Pertuzimab, qui est aussi utilisé
+
+722
+00:40:18,520 --> 00:40:21,700
+en association avec le Transgenmab en non-adjuvant,
+
+723
+00:40:22,480 --> 00:40:24,380
+en adjuvant et en métastatique.
+
+724
+00:40:24,500 --> 00:40:26,360
+On parle d'un blocage, d'un double
+
+725
+00:40:26,360 --> 00:40:28,720
+blocage du récepteur HUR2.
+
+726
+00:40:30,380 --> 00:40:33,360
+À côté du cancer du sein, cette molécule
+
+727
+00:40:33,360 --> 00:40:35,660
+est aussi utilisée dans le cancer de l
+
+728
+00:40:35,660 --> 00:40:39,060
+'estomac, métastatique, en cas de surexpression de lâcheur
+
+729
+00:40:39,060 --> 00:40:39,340
+de noeuds.
+
+730
+00:40:41,040 --> 00:40:42,380
+Ce n'est pas une molécule qui est
+
+731
+00:40:42,380 --> 00:40:42,800
+anodine.
+
+732
+00:40:44,860 --> 00:40:48,820
+Cela peut causer une toxicité cardiaque, d'où
+
+733
+00:40:48,820 --> 00:40:51,840
+l'intérêt de toujours faire un bilan en
+
+734
+00:40:51,840 --> 00:40:55,200
+pré-traitement avec une étude de la fraction
+
+735
+00:40:55,200 --> 00:40:56,300
+d'éjection ventriculaire.
+
+736
+00:40:56,300 --> 00:40:58,720
+Et en cours de traitement aussi, il faut
+
+737
+00:40:58,720 --> 00:41:01,700
+surveiller cette fraction dans celle des menus.
+
+738
+00:41:02,460 --> 00:41:05,100
+Attention, parfois on est obligé d'arrêter le
+
+739
+00:41:05,100 --> 00:41:09,080
+traitement momentanément en attendant l'amélioration de la
+
+740
+00:41:09,080 --> 00:41:10,680
+fonction cardiaque.
+
+741
+00:41:16,350 --> 00:41:20,590
+Une autre molécule qui va cibler aussi ce
+
+742
+00:41:20,590 --> 00:41:24,410
+récepteur HUR2, mais qui va cibler la partie
+
+743
+00:41:24,410 --> 00:41:26,670
+intracellulaire.
+
+744
+00:41:26,670 --> 00:41:28,990
+C'est une petite molécule qui s'appelle
+
+745
+00:41:28,990 --> 00:41:29,770
+la partie NIP.
+
+746
+00:41:30,750 --> 00:41:33,490
+C'est un inhibiteur de la tyrosine kinase,
+
+747
+00:41:33,690 --> 00:41:34,970
+vous voyez NIP à la fin.
+
+748
+00:41:37,330 --> 00:41:39,910
+Il est indiqué dans le cancer du sein,
+
+749
+00:41:40,710 --> 00:41:45,190
+surexprimant lâcheur de noeuds, après développement d'une
+
+750
+00:41:45,190 --> 00:41:50,990
+résistance au tracézumab, et qui est utilisée en
+
+751
+00:41:50,990 --> 00:41:55,410
+association avec une chimiothérapie qui est la caplicitabine.
+
+752
+00:41:56,670 --> 00:41:59,690
+Donc il a montré une supériorité par rapport
+
+753
+00:41:59,690 --> 00:42:03,770
+aux autres traitements, en cas de résistance au
+
+754
+00:42:03,770 --> 00:42:07,370
+tracézumab, ou au blocage, double blocage, c'est
+
+755
+00:42:07,370 --> 00:42:10,670
+-à-dire tracézumab plus pertuzumab.
+
+756
+00:42:12,410 --> 00:42:14,710
+Donc c'est une petite molécule, c'est
+
+757
+00:42:14,710 --> 00:42:15,890
+un inhibiteur de la tyrosine kinase.
+
+758
+00:42:16,410 --> 00:42:19,370
+Son profil de toxicité, il est représenté par
+
+759
+00:42:19,370 --> 00:42:24,450
+la toxicité cardiaque, mais surtout la fatigue et
+
+760
+00:42:24,450 --> 00:42:25,650
+la diabète.
+
+761
+00:42:27,890 --> 00:42:31,910
+Donc, toujours un bilan cardiaque avant et en
+
+762
+00:42:31,910 --> 00:42:35,350
+cours de traitement pour surveiller la toxicité de
+
+763
+00:42:35,350 --> 00:42:36,310
+ce traitement.
+
+764
+00:42:37,650 --> 00:42:39,510
+L'avantage de cette molécule, c'est qu
+
+765
+00:42:39,510 --> 00:42:41,930
+'elle est une petite molécule et il pénètre
+
+766
+00:42:41,930 --> 00:42:44,810
+la barrière cérébroméningie.
+
+767
+00:42:45,690 --> 00:42:47,990
+Et par conséquent, il a montré une efficacité
+
+768
+00:42:47,990 --> 00:42:50,470
+dans les tumeurs cérébrales.
+
+769
+00:42:51,630 --> 00:42:53,870
+Chose qui n'a pas été montrée avec
+
+770
+00:42:53,870 --> 00:42:56,710
+des anticorps monoclonaux, notamment le tracézumab.
+
+771
+00:42:57,650 --> 00:42:59,170
+Parce que sur le tracézumab, on a des
+
+772
+00:42:59,170 --> 00:43:03,470
+patients qui vont pouvoir développer des métastases cérébrales.
+
+773
+00:43:08,980 --> 00:43:12,040
+Le troisième exemple, ça concerne le cancer du
+
+774
+00:43:12,040 --> 00:43:12,320
+poumon.
+
+775
+00:43:12,700 --> 00:43:15,660
+Donc vous savez qu'on a plusieurs entités
+
+776
+00:43:15,660 --> 00:43:17,640
+épistologiques dans le cancer du poumon.
+
+777
+00:43:17,640 --> 00:43:22,280
+On a les adénocarcinomes, les carcinomes épidermoïdes, les
+
+778
+00:43:22,280 --> 00:43:23,080
+carcinomes à petite cellule.
+
+779
+00:43:24,420 --> 00:43:28,420
+Donc on va s'intéresser surtout aux adénocarcinomes.
+
+780
+00:43:30,600 --> 00:43:32,460
+Et l'étude de la mutation de l
+
+781
+00:43:32,460 --> 00:43:36,460
+'EGFR dans ce type histologique particulier qu'est
+
+782
+00:43:36,460 --> 00:43:38,540
+l'adénocarcinome, elle est importante par rapport aux
+
+783
+00:43:38,540 --> 00:43:39,460
+autres types histologiques.
+
+784
+00:43:40,580 --> 00:43:41,780
+On voit qu'elle est de l'ordre
+
+785
+00:43:41,780 --> 00:43:44,500
+de 20 à 25% versus 2%
+
+786
+00:43:44,500 --> 00:43:46,020
+dans les carcinomes épidermoïdes.
+
+787
+00:43:47,140 --> 00:43:49,520
+Et quand on a une mutation de l
+
+788
+00:43:49,520 --> 00:43:51,380
+'EGFR, quand on parle d'EGFR, donc on
+
+789
+00:43:51,380 --> 00:43:52,540
+a R à la fin, attention c'est
+
+790
+00:43:52,540 --> 00:43:53,160
+un récepteur.
+
+791
+00:43:54,300 --> 00:43:56,180
+Epidermal growth factor récepteur.
+
+792
+00:43:57,120 --> 00:43:59,940
+Quand elle est mutée, c'est une indication
+
+793
+00:43:59,940 --> 00:44:03,920
+à un traitement à base d'inhibition de
+
+794
+00:44:03,920 --> 00:44:04,780
+la tyrosine kinase.
+
+795
+00:44:06,100 --> 00:44:09,560
+Soit l'agifinitinib ou l'irlutinib sont des
+
+796
+00:44:09,560 --> 00:44:10,040
+exemples.
+
+797
+00:44:11,920 --> 00:44:15,740
+Et qui ont montré une efficacité par rapport
+
+798
+00:44:15,740 --> 00:44:19,980
+à la chimiothérapie en cas de maladie pulmonaire
+
+799
+00:44:19,980 --> 00:44:23,340
+métastatique avec mutation de l'EGFR.
+
+800
+00:44:24,080 --> 00:44:25,320
+Donc la mutation de l'EGFR, c'est
+
+801
+00:44:25,320 --> 00:44:29,220
+un facteur prédictif de l'efficacité des anti
+
+802
+00:44:29,220 --> 00:44:32,780
+-EGFR au niveau des cancers pulmonaires.
+
+803
+00:44:34,220 --> 00:44:36,980
+Donc avant les sites moléculaires, on avait quelques
+
+804
+00:44:36,980 --> 00:44:41,700
+critères sur lesquels on se basait pour indiquer
+
+805
+00:44:41,700 --> 00:44:42,220
+ces traitements.
+
+806
+00:44:42,300 --> 00:44:45,740
+Parce qu'on a constaté que le pourcentage
+
+807
+00:44:45,740 --> 00:44:47,680
+de la mutation de l'EGFR est très
+
+808
+00:44:47,680 --> 00:44:50,400
+important quand il s'agit d'un adenocarcinome
+
+809
+00:44:50,400 --> 00:44:55,380
+sur une femme de population asiatique et non
+
+810
+00:44:55,380 --> 00:44:55,920
+tabagique.
+
+811
+00:44:56,520 --> 00:44:58,500
+Quand on a ces critères, on a plus
+
+812
+00:44:58,500 --> 00:45:01,500
+de chances de trouver cette mutation GFR.
+
+813
+00:45:02,780 --> 00:45:06,360
+Et comme toute thérapie ciblée, il a un
+
+814
+00:45:06,360 --> 00:45:07,860
+profit de toxicité qui est particulier.
+
+815
+00:45:09,060 --> 00:45:13,080
+Et pour ces anti-EGFR, on peut avoir
+
+816
+00:45:13,080 --> 00:45:16,600
+des réactions cutanées, notamment de l'acné et
+
+817
+00:45:16,600 --> 00:45:18,560
+une sécheresse cutanée aussi.
+
+818
+00:45:19,980 --> 00:45:21,500
+D'où l'intérêt d'associer des traitements
+
+819
+00:45:21,500 --> 00:45:27,800
+hydratants afin de minimiser cette toxicité.
+
+820
+00:45:30,180 --> 00:45:34,800
+Et parfois, on a même l'obligation de
+
+821
+00:45:34,800 --> 00:45:37,460
+s'adresser à des médecins spécialistes, notamment des
+
+822
+00:45:37,460 --> 00:45:41,960
+dermatologues, pour nous aider pour gérer ces toxicités
+
+823
+00:45:41,960 --> 00:45:43,680
+cutanées et aiguilles.
+
+824
+00:45:45,320 --> 00:45:49,640
+Le quatrième exemple concerne le cancer colorectal et
+
+825
+00:45:49,640 --> 00:45:51,800
+plus spécialement la voie race.
+
+826
+00:45:52,660 --> 00:45:55,540
+On sait que l'oncogène race est connu
+
+827
+00:45:55,540 --> 00:45:56,600
+depuis 1982.
+
+828
+00:45:56,600 --> 00:45:59,220
+Il a un rôle qui est central dans
+
+829
+00:45:59,220 --> 00:46:02,320
+la voie de signalisation race, raf, mec.
+
+830
+00:46:04,320 --> 00:46:06,580
+Cet oncogène est muté dans 40% des
+
+831
+00:46:06,580 --> 00:46:08,880
+cancers colorectal mutastatiques.
+
+832
+00:46:10,040 --> 00:46:11,120
+Et comme il est muté, il a un
+
+833
+00:46:11,120 --> 00:46:13,500
+effet délétère sur l'action d'anticorps anti
+
+834
+00:46:13,500 --> 00:46:14,060
+-EGFR.
+
+835
+00:46:14,880 --> 00:46:18,520
+D'où l'intérêt d'aller chercher cette
+
+836
+00:46:18,520 --> 00:46:21,680
+mutation à travers un génotypage de race.
+
+837
+00:46:22,200 --> 00:46:24,080
+On a le N-race et le K
+
+838
+00:46:24,080 --> 00:46:28,660
+-race, donc on doit avoir le génotype du
+
+839
+00:46:28,660 --> 00:46:29,200
+full race.
+
+840
+00:46:30,600 --> 00:46:34,140
+Et on va indiquer un anti-EGFR, sauf
+
+841
+00:46:34,140 --> 00:46:36,980
+si on n'a pas de mutation race,
+
+842
+00:46:37,580 --> 00:46:39,620
+ou on parle de mutation qui est du
+
+843
+00:46:39,620 --> 00:46:40,240
+type sauvage.
+
+844
+00:46:40,240 --> 00:46:42,340
+Donc quand on n'a pas de mutation,
+
+845
+00:46:43,640 --> 00:46:46,440
+on a un anti-EGFR qui est efficace.
+
+846
+00:46:47,220 --> 00:46:50,520
+On a deux molécules, le cytuximab qui est
+
+847
+00:46:50,520 --> 00:46:53,400
+partiellement humanisé, et le panétumimab qui est totalement
+
+848
+00:46:53,400 --> 00:46:55,180
+humanisé.
+
+849
+00:46:56,780 --> 00:46:59,920
+Et comme tout anti-EGFR, on a des
+
+850
+00:46:59,920 --> 00:47:02,340
+toxicités, surtout avec le cytuximab.
+
+851
+00:47:02,340 --> 00:47:07,440
+Et cette toxicité est de l'ordre cutanée,
+
+852
+00:47:07,780 --> 00:47:10,680
+on peut avoir des raches cutanées, de l
+
+853
+00:47:10,680 --> 00:47:10,940
+'acné.
+
+854
+00:47:12,760 --> 00:47:17,480
+Et c'est un témoin indirect de l
+
+855
+00:47:17,480 --> 00:47:18,700
+'efficacité du traitement.
+
+856
+00:47:19,300 --> 00:47:21,060
+Parce qu'on sait très bien qu'au
+
+857
+00:47:21,060 --> 00:47:22,740
+niveau de la peau, il y a beaucoup
+
+858
+00:47:22,740 --> 00:47:27,840
+de récepteurs, de facteurs de croissance épidermique.
+
+859
+00:47:27,840 --> 00:47:30,000
+Et par conséquence, on aura une action de
+
+860
+00:47:30,000 --> 00:47:32,460
+cytuximab au niveau cutané, qui va se traduire
+
+861
+00:47:32,460 --> 00:47:35,300
+par des lésions cutanées.
+
+862
+00:47:35,840 --> 00:47:38,420
+On peut aussi avoir des histoires hépatiques, des
+
+863
+00:47:38,420 --> 00:47:40,880
+diarrhées, des nausées, des vomissements, qu'on peut
+
+864
+00:47:40,880 --> 00:47:42,840
+gérer par des traitements symptomatiques.
+
+865
+00:47:44,100 --> 00:47:47,680
+Les images de patients qui ont été sous
+
+866
+00:47:47,680 --> 00:47:49,100
+le cytuximab.
+
+867
+00:47:49,940 --> 00:47:52,880
+Et on voit cette hyperpigmentation au niveau de
+
+868
+00:47:52,880 --> 00:47:54,680
+tout le dos, au niveau du visage.
+
+869
+00:47:55,660 --> 00:47:59,360
+Et même en cas d'utilisation du cytuximab
+
+870
+00:47:59,360 --> 00:48:02,460
+dans le cancer, le cancer ORL, on peut
+
+871
+00:48:02,460 --> 00:48:04,500
+avoir une intensification de ces lésions au niveau
+
+872
+00:48:04,500 --> 00:48:07,340
+du champ d'irradiation.
+
+873
+00:48:14,440 --> 00:48:18,560
+Le dernier exemple va s'intéresser au visage
+
+874
+00:48:18,560 --> 00:48:20,340
+de l'angiogénèse tumorale.
+
+875
+00:48:20,340 --> 00:48:21,560
+On a parlé tout à l'heure, on
+
+876
+00:48:21,560 --> 00:48:23,920
+a dit qu'à travers un anticorps monoclonal
+
+877
+00:48:23,920 --> 00:48:25,140
+qui s'appelle le vivaceusimab.
+
+878
+00:48:25,560 --> 00:48:27,200
+On ne va pas viser le récepteur, mais
+
+879
+00:48:27,200 --> 00:48:30,040
+on va viser ce moment là le facteur
+
+880
+00:48:30,040 --> 00:48:33,020
+qui va se fixer au niveau du récepteur
+
+881
+00:48:33,020 --> 00:48:34,340
+pour simuler l'activité angiogénique.
+
+882
+00:48:36,060 --> 00:48:38,700
+Donc, à travers un anticorps monoclonal qui est
+
+883
+00:48:38,700 --> 00:48:41,500
+le vivaceusimab, on va bloquer le facteur.
+
+884
+00:48:42,120 --> 00:48:43,420
+Et par conséquence, on n'aura pas de
+
+885
+00:48:43,420 --> 00:48:45,980
+simulation du récepteur et on va essayer d
+
+886
+00:48:45,980 --> 00:48:49,520
+'arrêter cette neuroangiogénèse tumorale.
+
+887
+00:48:50,720 --> 00:48:52,640
+Dans cette molécule, il est indiqué dans plusieurs
+
+888
+00:48:52,640 --> 00:48:56,420
+cancers, et notamment le cancer colorectal métastatique, le
+
+889
+00:48:56,420 --> 00:48:58,940
+cancer bronchique non-apté cellule, le cancer du
+
+890
+00:48:58,940 --> 00:49:02,340
+sein, le cancer audural, le cancer de codeletterus.
+
+891
+00:49:02,680 --> 00:49:04,840
+Parce que l'angiogénèse, c'est un phénomène
+
+892
+00:49:04,840 --> 00:49:08,060
+qui est très, très important dans le processus
+
+893
+00:49:08,060 --> 00:49:09,560
+tumoral et la croissance tumorale.
+
+894
+00:49:10,100 --> 00:49:11,840
+Mais avant de le prescrire, il faut faire
+
+895
+00:49:11,840 --> 00:49:12,600
+tout un bilan.
+
+896
+00:49:12,600 --> 00:49:14,460
+Donc, on ne va pas le suivre chez
+
+897
+00:49:14,460 --> 00:49:16,660
+des patients qui ont un risque hémorragique élevé,
+
+898
+00:49:17,340 --> 00:49:19,200
+qui ont une fonction rénal altérée avec une
+
+899
+00:49:19,200 --> 00:49:21,760
+protéine urique qui est très élevée, ou un
+
+900
+00:49:21,760 --> 00:49:23,480
+hashtag qui est non contrôlé.
+
+901
+00:49:24,980 --> 00:49:28,040
+Donc, d'où l'intérêt de le prescrire
+
+902
+00:49:28,040 --> 00:49:30,440
+à distance d'un geste chirurgical.
+
+903
+00:49:31,280 --> 00:49:34,340
+Avant ou après, toujours, il faut respecter un
+
+904
+00:49:34,340 --> 00:49:36,140
+délai d'au moins un mois pour ne
+
+905
+00:49:36,140 --> 00:49:37,980
+pas avoir un problème de cicatrisation et risque
+
+906
+00:49:37,980 --> 00:49:40,640
+d'hémorragie et de perforation dû à une
+
+907
+00:49:40,640 --> 00:49:43,880
+mauvaise cicatrisation sous Bivar-Sujima.
+
+908
+00:49:46,380 --> 00:49:49,280
+Le ciblage de l'angiogénèse peut se faire
+
+909
+00:49:49,280 --> 00:49:55,200
+aussi en ciblant la partie intramembranaire des récepteurs,
+
+910
+00:49:55,920 --> 00:49:57,680
+VEGFR ou PDGFR.
+
+911
+00:49:57,680 --> 00:50:00,580
+Et on va utiliser des molécules des inhibiteurs
+
+912
+00:50:00,580 --> 00:50:03,020
+de la tyrosine kinase, comme le sinuthinib ou
+
+913
+00:50:03,020 --> 00:50:05,760
+le sorafinib ou le pazopanib.
+
+914
+00:50:06,860 --> 00:50:08,600
+Donc, ce sont des molécules qu'on utilise
+
+915
+00:50:08,600 --> 00:50:13,240
+dans les cancers durants métastatiques, dans les tumeurs
+
+916
+00:50:13,240 --> 00:50:17,120
+stromales, dans les tumeurs neuroendocrines pour le sinuthinib.
+
+917
+00:50:17,720 --> 00:50:19,080
+Et le sorafinib, on va l'utiliser pour
+
+918
+00:50:19,080 --> 00:50:22,720
+les cancers durants, pour les pathos carcinaux.
+
+919
+00:50:26,180 --> 00:50:30,260
+Et tout en faisant attention à ce profil
+
+920
+00:50:30,260 --> 00:50:33,200
+de toxicité, comme les inhibiteurs de la tyrosine
+
+921
+00:50:33,200 --> 00:50:36,220
+kinase, cutanine, avec le syndrome main-pied, avec
+
+922
+00:50:36,220 --> 00:50:38,180
+des ulcérations, comme on voit dans l'image
+
+923
+00:50:38,180 --> 00:50:40,800
+au niveau des mains et des pieds.
+
+924
+00:50:40,800 --> 00:50:44,020
+On peut avoir aussi des modifications au niveau
+
+925
+00:50:44,020 --> 00:50:46,600
+des cheveux, de la coloration des cheveux.
+
+926
+00:50:48,200 --> 00:50:50,160
+Et il ne faut pas oublier la possibilité
+
+927
+00:50:50,160 --> 00:50:53,700
+d'avoir une hypothyroïdie biologique, de l'intérêt
+
+928
+00:50:53,700 --> 00:50:55,900
+de faire un bilan thyroïdien avant de démarrer
+
+929
+00:50:55,900 --> 00:50:59,540
+ce traitement, un examen de référence pour évaluer
+
+930
+00:50:59,540 --> 00:51:01,120
+cette toxicité.
+
+931
+00:51:03,220 --> 00:51:05,980
+Et pour les inhibiteurs mTOR, on a deux
+
+932
+00:51:05,980 --> 00:51:09,300
+molécules, les virulimus et l'ethum virulimus.
+
+933
+00:51:10,020 --> 00:51:11,800
+Dans le mécanisme d'action, c'est la
+
+934
+00:51:11,800 --> 00:51:14,640
+diminution de la prolifération antimorale et effets antirheogéniques
+
+935
+00:51:14,640 --> 00:51:18,320
+par inhibition de la voie de signalisation mTOR.
+
+936
+00:51:19,720 --> 00:51:21,340
+Ce sont des molécules qui sont indiquées dans
+
+937
+00:51:21,340 --> 00:51:24,220
+les cancers durants métastatiques, dans les tumeurs neuroendocrines,
+
+938
+00:51:25,640 --> 00:51:27,580
+dans les cancers du sein.
+
+939
+00:51:27,580 --> 00:51:29,740
+On associe ça avec une hormonothérapie en cas
+
+940
+00:51:29,740 --> 00:51:33,280
+de résistance à l'hormonothérapie, essentiellement des inhibiteurs
+
+941
+00:51:33,280 --> 00:51:33,980
+d'aromatase.
+
+942
+00:51:36,660 --> 00:51:40,620
+Et ils ont comme toxicité, donc spécifique, c
+
+943
+00:51:40,620 --> 00:51:42,560
+'est d'avoir des mycites et des stomatites.
+
+944
+00:51:43,840 --> 00:51:45,320
+Ce sont des patients qui doivent être bien
+
+945
+00:51:45,320 --> 00:51:48,280
+surveillés avec une bonne hygiène buccodontaire.
+
+946
+00:51:49,210 --> 00:51:53,000
+On peut avoir aussi des pneumopathies non infectieuses
+
+947
+00:51:53,000 --> 00:51:56,440
+qu'il faut aussi surveiller et les traiter
+
+948
+00:51:56,440 --> 00:51:59,960
+symptomatiquement en cas de leur survie.
+
+949
+00:52:05,190 --> 00:52:09,730
+Vous voyez qu'à travers ce secours, que
+
+950
+00:52:09,730 --> 00:52:11,950
+l'arrivée de la thérapie ciblée et des
+
+951
+00:52:11,950 --> 00:52:17,370
+thérapies ciblées a permis de changer le concept
+
+952
+00:52:17,370 --> 00:52:20,470
+et le raisonnement du traitement des cancers.
+
+953
+00:52:21,510 --> 00:52:25,190
+On a passé des traitements qui sont probabilistes,
+
+954
+00:52:25,750 --> 00:52:28,510
+qui sont ici chez tout le monde, à
+
+955
+00:52:28,510 --> 00:52:31,670
+des traitements de plus en plus spécifiques, chez
+
+956
+00:52:31,670 --> 00:52:32,990
+une population bien définie.
+
+957
+00:52:33,930 --> 00:52:35,550
+Et c'est ce qu'on appelle la
+
+958
+00:52:35,550 --> 00:52:39,130
+médecine de précision, ce qu'on appelle aussi
+
+959
+00:52:39,130 --> 00:52:42,690
+le traitement personnalisé et à la carte.
+
+960
+00:52:43,670 --> 00:52:46,190
+Et en espérant que la collaboration des différents
+
+961
+00:52:46,190 --> 00:52:51,930
+traitements, thérapie ciblée, immunothérapie, l'évolution des autres
+
+962
+00:52:51,930 --> 00:52:53,870
+traitements et des autres modalités, notamment en matière
+
+963
+00:52:53,870 --> 00:52:55,730
+de radiothérapie et de la chirurgie.
+
+964
+00:52:56,930 --> 00:52:59,190
+Et à travers surtout une décision qui est
+
+965
+00:52:59,190 --> 00:53:04,750
+collégiale, multidisciplinaire, d'améliorer les efficacités, réduire la
+
+966
+00:53:04,750 --> 00:53:08,750
+toxicité et améliorer la qualité de vie de
+
+967
+00:53:08,750 --> 00:53:09,670
+nos patients.
+
+968
+00:53:12,690 --> 00:53:14,870
+Et pour conclure, il faut dire que c
+
+969
+00:53:14,870 --> 00:53:17,550
+'est vrai que les thérapies ciblées représentent des
+
+970
+00:53:17,550 --> 00:53:23,990
+nouvelles armes thérapeutiques très intéressantes qui vont utiliser
+
+971
+00:53:23,990 --> 00:53:25,550
+des marqueurs prédictifs de réponse.
+
+972
+00:53:26,170 --> 00:53:29,150
+Et par conséquent, leur prescription va être dédiée
+
+973
+00:53:29,150 --> 00:53:33,850
+à des personnes où l'efficacité est importante.
+
+974
+00:53:36,210 --> 00:53:39,630
+L'angiogénèse tumorale est un rôle qui est
+
+975
+00:53:39,630 --> 00:53:43,350
+clé dans la progression tumorale, surtout des tumeurs
+
+976
+00:53:43,350 --> 00:53:44,230
+solides.
+
+977
+00:53:45,610 --> 00:53:47,730
+Et dans le ciblage, il est très important
+
+978
+00:53:47,730 --> 00:53:50,850
+pour limiter la croissance tumorale.
+
+979
+00:53:53,450 --> 00:53:57,250
+Avec ces nouvelles armes thérapeutiques, on a une
+
+980
+00:53:57,250 --> 00:53:58,390
+toxicité qui est nouvelle.
+
+981
+00:53:58,390 --> 00:54:00,050
+Il faut les connaître.
+
+982
+00:54:00,890 --> 00:54:03,670
+Il faut essayer de la gérer en collaboration
+
+983
+00:54:03,670 --> 00:54:06,410
+avec les autres spécialistes d'organes.
+
+984
+00:54:07,930 --> 00:54:09,610
+Ne pas oublier le coût très élevé de
+
+985
+00:54:09,610 --> 00:54:12,750
+ces thérapies ciblées, ce qui représente un fardeau
+
+986
+00:54:12,750 --> 00:54:15,490
+sur le système de santé, de l'intérêt
+
+987
+00:54:15,490 --> 00:54:18,430
+de les bien utiliser, de respecter les indications
+
+988
+00:54:18,430 --> 00:54:22,390
+et penser à l'économie de santé.
+
+989
+00:54:26,200 --> 00:54:29,420
+Ces avancées en biologie moléculaire vont amener ce
+
+990
+00:54:29,420 --> 00:54:30,880
+qu'on appelle, ce qu'on a dit
+
+991
+00:54:30,880 --> 00:54:31,920
+tout à l'heure, c'est la personnalisation
+
+992
+00:54:31,920 --> 00:54:37,580
+des traitements, mais aussi la complexification de la
+
+993
+00:54:37,580 --> 00:54:38,130
+prise en charge thérapeutique.
+
+994
+00:54:39,130 --> 00:54:45,610
+Et la solution, enfin, au début, c'est
+
+995
+00:54:45,610 --> 00:54:49,690
+toujours une prise en charge multidisciplinaire qui est
+
+996
+00:54:49,690 --> 00:54:53,610
+la seule garantie d'une prise en charge
+
+997
+00:54:53,610 --> 00:54:55,610
+efficace.

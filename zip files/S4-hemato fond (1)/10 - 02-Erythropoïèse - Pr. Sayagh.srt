@@ -1,0 +1,1927 @@
+1
+00:00:00,390 --> 00:00:02,810
+Chères étudiantes, chers étudiants, bonjour.
+
+2
+00:00:03,010 --> 00:00:04,750
+Aujourd'hui, nous allons traiter le cours de
+
+3
+00:00:04,750 --> 00:00:06,010
+l'érythropoïèse.
+
+4
+00:00:07,550 --> 00:00:08,950
+Vers la fin de ce cours, vous allez
+
+5
+00:00:08,950 --> 00:00:12,050
+être capables de définir l'érythropoïèse, de décrire
+
+6
+00:00:12,050 --> 00:00:14,630
+les étapes de maturation du globule rouge, de
+
+7
+00:00:14,630 --> 00:00:17,230
+lister les facteurs de régulation et de reconnaître
+
+8
+00:00:17,230 --> 00:00:20,370
+les moyens d'exploration de l'érythropoïèse et
+
+9
+00:00:20,370 --> 00:00:23,730
+de discuter quelques applications médicales de l'érythropoïèse.
+
+10
+00:00:27,520 --> 00:00:29,640
+Commençons tout d'abord par une introduction.
+
+11
+00:00:30,960 --> 00:00:33,460
+L'érythropoïèse est le processus par lequel la
+
+12
+00:00:33,460 --> 00:00:36,160
+moelle osseuse assure la production des globules rouges
+
+13
+00:00:36,160 --> 00:00:38,520
+à partir d'une cellule-souche hématopoétique.
+
+14
+00:00:39,620 --> 00:00:41,700
+Il s'agit d'un processus physiologique de
+
+15
+00:00:41,700 --> 00:00:43,400
+remplacement des globules rouges lisées.
+
+16
+00:00:44,120 --> 00:00:46,240
+Comme on a déjà vu, un globule rouge
+
+17
+00:00:46,240 --> 00:00:48,780
+normal possède une durée de vie de 120
+
+18
+00:00:48,780 --> 00:00:49,260
+jours.
+
+19
+00:00:50,520 --> 00:00:53,280
+Et on note une augmentation de l'érythropoïèse
+
+20
+00:00:53,280 --> 00:00:55,940
+au cours des pertes excessives, en cas d
+
+21
+00:00:55,940 --> 00:00:59,120
+'hémorragie ou d'hémolyse par exemple, ou aussi
+
+22
+00:00:59,120 --> 00:01:01,080
+en cas d'augmentation de besoin, comme par
+
+23
+00:01:01,080 --> 00:01:02,360
+exemple en cas d'hypoxie.
+
+24
+00:01:03,840 --> 00:01:06,080
+Le rôle principal d'un globule rouge est
+
+25
+00:01:06,080 --> 00:01:08,000
+de fixer l'oxygène dans les poumons pour
+
+26
+00:01:08,000 --> 00:01:11,100
+le transporter vers les tissus, et dans le
+
+27
+00:01:11,100 --> 00:01:14,260
+sens inverse, transporter le CO2 produit par le
+
+28
+00:01:14,260 --> 00:01:16,860
+métabolisme tissulaire vers les poumons.
+
+29
+00:01:18,080 --> 00:01:20,200
+Au niveau de la moelle osseuse, l'érythropoïèse
+
+30
+00:01:20,200 --> 00:01:22,120
+résulte en effet de deux événements distincts.
+
+31
+00:01:22,860 --> 00:01:25,080
+Le premier étant l'engagement de la cellule
+
+32
+00:01:25,080 --> 00:01:27,920
+-souche hématopoétique vers la lignée érythroblastique.
+
+33
+00:01:28,560 --> 00:01:32,160
+Et le deuxième étant la maturation par acquisition
+
+34
+00:01:32,160 --> 00:01:35,800
+de caractères morphologiques de la lignée érythroblastique.
+
+35
+00:01:35,920 --> 00:01:38,700
+Donc en gros, la cellule-souche hématopoétique va
+
+36
+00:01:38,700 --> 00:01:41,340
+s'engager, ou bien se différencier dans la
+
+37
+00:01:41,340 --> 00:01:44,460
+lignée érythroblastique, sous l'influence, comme on va
+
+38
+00:01:44,460 --> 00:01:46,060
+le voir par la suite, de facteurs de
+
+39
+00:01:46,060 --> 00:01:47,280
+croissance spécifiques.
+
+40
+00:01:47,800 --> 00:01:49,820
+Et elle va ensuite subir une maturation.
+
+41
+00:01:50,180 --> 00:01:52,180
+Par exemple, il y a l'apparition de
+
+42
+00:01:52,180 --> 00:01:54,500
+l'hémoglobine dans les érythroblastes qui va se
+
+43
+00:01:54,500 --> 00:01:57,240
+manifester par une acidophilie progressive.
+
+44
+00:01:57,600 --> 00:02:00,320
+Donc c'est une maturation par acquisition de
+
+45
+00:02:00,320 --> 00:02:02,880
+caractères morphologiques de la lignée érythroblastique.
+
+46
+00:02:03,760 --> 00:02:06,720
+Passons maintenant au compartiment de l'érythropoïèse.
+
+47
+00:02:07,699 --> 00:02:09,860
+Ici, je vous présente le schéma général de
+
+48
+00:02:09,860 --> 00:02:11,900
+l'hématopoïèse, comme on a déjà vu dans
+
+49
+00:02:11,900 --> 00:02:12,880
+le cours précédent.
+
+50
+00:02:13,680 --> 00:02:16,120
+Nous avons au sommet la cellule-souche hématopoétique,
+
+51
+00:02:16,980 --> 00:02:20,380
+qui va donner naissance au CFUGMN, qui est
+
+52
+00:02:20,380 --> 00:02:23,480
+le progéniteur myéloïde commun.
+
+53
+00:02:23,480 --> 00:02:28,040
+Appelé aussi cellule-souche myéloïde, et qui va
+
+54
+00:02:28,040 --> 00:02:31,960
+donner aussi naissance au progéniteur lymphoïde commun, appelé
+
+55
+00:02:31,960 --> 00:02:33,740
+aussi cellule-souche lymphoïde.
+
+56
+00:02:34,540 --> 00:02:39,360
+Le progéniteur myéloïde commun, CFUGMN, donnera naissance au
+
+57
+00:02:39,360 --> 00:02:44,020
+premier progéniteur érythroblastique précoce, qui est le BFUE,
+
+58
+00:02:44,400 --> 00:02:47,660
+qui donnera à son tour naissance au progéniteur
+
+59
+00:02:47,660 --> 00:02:50,380
+érythroblastique tardif, qui est le CFUE.
+
+60
+00:02:51,340 --> 00:02:54,700
+Le CFUE va donner naissance au premier précurseur,
+
+61
+00:02:54,960 --> 00:02:58,540
+qui est identifiable morphologiquement, à savoir le proérythroblast,
+
+62
+00:02:59,080 --> 00:03:02,400
+qui donnera à son tour naissance à l
+
+63
+00:03:02,400 --> 00:03:07,340
+'érythroblast, basophile, polychromatophile, puis acidophile.
+
+64
+00:03:08,140 --> 00:03:10,860
+L'érythroblast acidophile va expulser son noyau pour
+
+65
+00:03:10,860 --> 00:03:14,760
+donner naissance au réticulocyte, qui mature en globule
+
+66
+00:03:14,760 --> 00:03:17,260
+rouge, appelé aussi érythrocyte ou MAC.
+
+67
+00:03:17,260 --> 00:03:23,110
+Passons maintenant sur les progéniteurs érythroblastiques.
+
+68
+00:03:23,630 --> 00:03:26,730
+Ils sont morphologiquement non identifiables en microscopie.
+
+69
+00:03:26,950 --> 00:03:29,590
+D'ailleurs, comme l'ensemble des progéniteurs de
+
+70
+00:03:29,590 --> 00:03:32,490
+toutes les lignées hématopoétiques, ils vont naître à
+
+71
+00:03:32,490 --> 00:03:34,750
+partir d'une cellule-souche hématopoétique qui donne
+
+72
+00:03:34,750 --> 00:03:39,450
+naissance au progéniteur myéloïde commun, le CFUGMM.
+
+73
+00:03:40,110 --> 00:03:43,210
+Ce dernier va donner naissance au progéniteur commun
+
+74
+00:03:43,210 --> 00:03:48,750
+érythroblastique hémagakaryocitaire, le CFUEMK, suivi par le BFUE,
+
+75
+00:03:49,230 --> 00:03:50,450
+puis par le CFUE.
+
+76
+00:03:51,590 --> 00:03:54,330
+Le BFUE et le CFUE sont engagés de
+
+77
+00:03:54,330 --> 00:03:57,070
+façon irréversible vers la lignée érythroblastique.
+
+78
+00:03:57,510 --> 00:03:59,210
+Cela veut dire qu'un BFUE ou un
+
+79
+00:03:59,210 --> 00:04:01,610
+CFUE ne peut plus faire marche arrière, par
+
+80
+00:04:01,610 --> 00:04:04,750
+exemple, pour donner naissance à un progéniteur mégakaryocitaire
+
+81
+00:04:04,750 --> 00:04:06,850
+ou bien à un progéniteur de la lignée
+
+82
+00:04:06,850 --> 00:04:07,990
+granuleuse neutrophile.
+
+83
+00:04:08,210 --> 00:04:10,550
+C'est un engagement irréversible.
+
+84
+00:04:12,210 --> 00:04:15,750
+Le BFUE est le progéniteur érythroblastique précoce.
+
+85
+00:04:15,750 --> 00:04:18,910
+Il possède uniquement quelques récepteurs de l'érythropoéthine
+
+86
+00:04:19,470 --> 00:04:21,510
+et, par conséquent, il est très peu sensible
+
+87
+00:04:21,510 --> 00:04:22,970
+à ce facteur de croissance.
+
+88
+00:04:23,810 --> 00:04:25,830
+Par contre, il est sensible aux autres facteurs
+
+89
+00:04:25,830 --> 00:04:28,850
+de croissance, à savoir le SCF, l'interleukin
+
+90
+00:04:28,850 --> 00:04:31,290
+3 et le GM-CSF.
+
+91
+00:04:32,350 --> 00:04:34,810
+Le CFUE, quant à lui, est le progéniteur
+
+92
+00:04:34,810 --> 00:04:35,430
+tardif.
+
+93
+00:04:36,470 --> 00:04:39,310
+Il est très dépendant de l'érythropoéthine, possédant
+
+94
+00:04:39,310 --> 00:04:42,170
+plusieurs récepteurs de ce facteur de croissance et
+
+95
+00:04:42,170 --> 00:04:45,290
+il perd complètement sa sensibilité aux autres facteurs
+
+96
+00:04:45,290 --> 00:04:46,050
+de croissance.
+
+97
+00:04:47,290 --> 00:04:49,530
+C'est pourquoi on dit que le CFUE
+
+98
+00:04:49,530 --> 00:04:51,650
+est dépendant de l'érythropoéthine.
+
+99
+00:04:52,870 --> 00:04:55,630
+Passons maintenant aux précurseurs érythroblastiques.
+
+100
+00:04:56,290 --> 00:04:59,010
+Comme l'ensemble des précurseurs hématopoétiques, ils sont
+
+101
+00:04:59,010 --> 00:05:03,510
+morphologiquement identifiables et ils vont subir une maturation
+
+102
+00:05:03,510 --> 00:05:05,810
+progressive qui est spécifique de la lignée.
+
+103
+00:05:06,630 --> 00:05:09,570
+On distingue alors en microscope optique différents stades
+
+104
+00:05:09,570 --> 00:05:12,990
+de maturation, à savoir le proérythroblast, qui est
+
+105
+00:05:12,990 --> 00:05:16,490
+la première cellule identifiable morphologiquement et qui est
+
+106
+00:05:16,490 --> 00:05:18,610
+la cellule la plus immature de la lignée,
+
+107
+00:05:19,290 --> 00:05:22,690
+par l'érythroblast basophile, et on l'appelle
+
+108
+00:05:22,690 --> 00:05:24,810
+basophile parce qu'il a un cytoplasme qui
+
+109
+00:05:24,810 --> 00:05:28,570
+est complètement bleu, basophile, suivi par l'érythroblast
+
+110
+00:05:28,570 --> 00:05:31,970
+polychromatophile qui correspond à l'apparition, ou bien
+
+111
+00:05:31,970 --> 00:05:34,290
+au début de l'apparition, de l'hémoglobine.
+
+112
+00:05:35,210 --> 00:05:37,750
+Cette apparition d'hémoglobine s'accompagne de l
+
+113
+00:05:37,750 --> 00:05:40,510
+'apparition de l'acidophilie au niveau du cytoplasme.
+
+114
+00:05:41,190 --> 00:05:44,370
+L'érythroblast polychromatophile est suivi de l'érythroblast
+
+115
+00:05:44,370 --> 00:05:47,630
+acidophile qui a un cytoplasme qui est complètement
+
+116
+00:05:47,630 --> 00:05:48,890
+acidophile où il n'y a plus de
+
+117
+00:05:48,890 --> 00:05:52,070
+traces de basophilie et ce dernier va expulser
+
+118
+00:05:52,070 --> 00:05:54,210
+son noyau par la suite pour donner naissance
+
+119
+00:05:54,210 --> 00:05:55,470
+au réticulocyte.
+
+120
+00:05:56,370 --> 00:05:58,550
+Nous observons sur ce schéma les différents stades
+
+121
+00:05:58,550 --> 00:06:00,270
+de maturation de l'érythroblast.
+
+122
+00:06:00,670 --> 00:06:03,030
+Nous avons le proérythroblast qui est la première
+
+123
+00:06:03,030 --> 00:06:05,790
+cellule identifiable morphologiquement et qui est la cellule
+
+124
+00:06:05,790 --> 00:06:08,590
+la plus immature de la lignée, suivi de
+
+125
+00:06:08,590 --> 00:06:12,930
+l'érythroblast basophile 1, érythroblast basophile 2, donc
+
+126
+00:06:12,930 --> 00:06:15,990
+on voit que la cellule va maturer de
+
+127
+00:06:15,990 --> 00:06:18,350
+plus en plus en diminuant de taille, et
+
+128
+00:06:18,350 --> 00:06:21,870
+puis suivi de l'érythroblast polychromatophile dans lequel
+
+129
+00:06:21,870 --> 00:06:23,710
+on va voir dans le cytoplasme des traces
+
+130
+00:06:23,710 --> 00:06:26,250
+de basophilie mais aussi des traces d'accumulation
+
+131
+00:06:26,250 --> 00:06:29,170
+de l'hémoglobine qui correspondent à l'acidophilie
+
+132
+00:06:29,170 --> 00:06:32,530
+et ensuite l'érythroblast acidophile qui a un
+
+133
+00:06:32,530 --> 00:06:36,250
+cytoplasme complètement acidophile ressemblant à celui du globule
+
+134
+00:06:36,250 --> 00:06:36,530
+rouge.
+
+135
+00:06:37,650 --> 00:06:40,210
+Il faut noter qu'un proérythroblast a besoin
+
+136
+00:06:40,210 --> 00:06:42,790
+de 4 hématoses pour donner naissance à un
+
+137
+00:06:42,790 --> 00:06:43,730
+réticulocyte.
+
+138
+00:06:44,650 --> 00:06:46,810
+Ceci prend de 5 à 7 jours et
+
+139
+00:06:46,810 --> 00:06:49,530
+que l'évolution du réticulocyte en globule rouge
+
+140
+00:06:49,530 --> 00:06:51,390
+mature prend de 1 à 2 jours.
+
+141
+00:06:51,770 --> 00:06:53,910
+Alors le réticulocyte pour donner le globule rouge
+
+142
+00:06:53,910 --> 00:06:57,090
+mature il va expulser tous les restes de
+
+143
+00:06:57,090 --> 00:06:59,970
+l'ARN résiduels au niveau du cytoplasme.
+
+144
+00:07:01,490 --> 00:07:03,430
+Alors comme on l'a déjà expliqué au
+
+145
+00:07:03,430 --> 00:07:05,990
+cours de cette maturation on va observer une
+
+146
+00:07:05,990 --> 00:07:09,650
+augmentation progressive de l'acidophilie qui vient venir
+
+147
+00:07:09,650 --> 00:07:13,690
+remplacer la basophilie cytoplasmique avec comme on l
+
+148
+00:07:13,690 --> 00:07:15,970
+'observe sur le schéma une diminution de la
+
+149
+00:07:15,970 --> 00:07:17,770
+taille au fur et à mesure.
+
+150
+00:07:18,890 --> 00:07:20,930
+Alors sur cette diapositive je vous fais tout
+
+151
+00:07:20,930 --> 00:07:23,190
+simplement une synthèse de l'ensemble des modifications
+
+152
+00:07:23,190 --> 00:07:26,510
+morphologiques au cours de la maturation érythroblastique.
+
+153
+00:07:27,190 --> 00:07:29,030
+Comme on a déjà vu on va avoir
+
+154
+00:07:29,030 --> 00:07:31,350
+une réduction progressive de la taille cellulaire et
+
+155
+00:07:31,350 --> 00:07:33,850
+de la taille du noyau qui s'accompagne
+
+156
+00:07:33,850 --> 00:07:36,430
+d'une condensation progressive de la chromatine dans
+
+157
+00:07:36,430 --> 00:07:36,970
+le noyau.
+
+158
+00:07:37,570 --> 00:07:39,330
+Le noyau bien sûr qui va rester rond
+
+159
+00:07:39,330 --> 00:07:41,630
+et centrocellulaire tout le stade ou bien tout
+
+160
+00:07:41,630 --> 00:07:43,670
+au long de la maturation parce que la
+
+161
+00:07:43,670 --> 00:07:47,370
+caractéristique morphologique principale des érythroblastes c'est justement
+
+162
+00:07:47,370 --> 00:07:51,010
+la présence de ce noyau rond et centrocellulaire.
+
+163
+00:07:51,790 --> 00:07:53,830
+Alors tout ça va s'accompagner d'une
+
+164
+00:07:53,830 --> 00:07:57,750
+hémoglobinisation progressive du cytoplasme qui est due à
+
+165
+00:07:57,750 --> 00:08:01,610
+la synthèse d'hémoglobine et cette hémoglobinisation va
+
+166
+00:08:01,610 --> 00:08:05,250
+masquer progressivement la basophilie cytoplasmique qui est liée
+
+167
+00:08:05,250 --> 00:08:05,990
+à l'ARN.
+
+168
+00:08:07,630 --> 00:08:10,290
+Nous allons maintenant revenir sur la morphologie des
+
+169
+00:08:10,290 --> 00:08:13,710
+précurseurs érythroblastiques un par an commençons tout d
+
+170
+00:08:13,710 --> 00:08:14,870
+'abord par le pro-érythroblaste.
+
+171
+00:08:15,750 --> 00:08:17,670
+Il s'agit d'une grande cellule de
+
+172
+00:08:17,670 --> 00:08:21,170
+20 à 30 micromètres de diamètre arrondie avec
+
+173
+00:08:21,170 --> 00:08:26,270
+un rapport nucléocytoplasmique élevé un noyau rond centrocellulaire
+
+174
+00:08:26,270 --> 00:08:29,890
+avec chromatine fine nucléolée et un cytoplasme bleu
+
+175
+00:08:29,890 --> 00:08:33,590
+foncé présentant parfois des excroissances cytoplasmiques.
+
+176
+00:08:34,870 --> 00:08:38,390
+L'érythroblaste basophile possède une taille moyenne de
+
+177
+00:08:38,390 --> 00:08:42,610
+15 à 18 micromètres de diamètre avec un
+
+178
+00:08:42,610 --> 00:08:45,730
+noyau rond, toujours centrocellulaire une chromatine qui va
+
+179
+00:08:45,730 --> 00:08:48,310
+commencer à se condenser et un cytoplasme basophile.
+
+180
+00:08:48,890 --> 00:08:51,790
+Alors l'érythroblaste basophile va subir deux divisions
+
+181
+00:08:51,790 --> 00:08:55,410
+successives ou bien deux mitoses successives et du
+
+182
+00:08:55,410 --> 00:08:58,230
+coup on va distinguer deux stades érythroblaste basophile
+
+183
+00:08:58,230 --> 00:08:59,810
+1 et érythroblaste basophile 2.
+
+184
+00:09:00,690 --> 00:09:03,490
+L'érythroblaste polychromatophile possède une taille d'environ
+
+185
+00:09:03,490 --> 00:09:06,910
+15 micromètres de diamètre toujours un noyau rond
+
+186
+00:09:06,910 --> 00:09:10,290
+centrocellulaire avec une chromatine qui se condense de
+
+187
+00:09:10,290 --> 00:09:15,730
+plus en plus et un cytoplasme polychromatophile gris
+
+188
+00:09:16,410 --> 00:09:18,790
+avec des zones bleues et des zones orangées.
+
+189
+00:09:19,970 --> 00:09:22,390
+L'érythroblaste acidophile est une cellule de petite
+
+190
+00:09:22,390 --> 00:09:25,350
+taille d'environ 10 micromètres de diamètre avec
+
+191
+00:09:25,350 --> 00:09:27,730
+un petit noyau rond et une chromatine très
+
+192
+00:09:27,730 --> 00:09:28,310
+condensée.
+
+193
+00:09:29,290 --> 00:09:32,750
+Le cytoplasme est complètement acidophile se rapprochant de
+
+194
+00:09:32,750 --> 00:09:34,050
+celui d'une hémacie.
+
+195
+00:09:35,570 --> 00:09:37,330
+Alors il existe une notion que j'aimerais
+
+196
+00:09:37,330 --> 00:09:39,190
+bien discuter avec vous c'est la notion
+
+197
+00:09:39,190 --> 00:09:40,590
+de l'îlot érythroblastique.
+
+198
+00:09:40,690 --> 00:09:42,770
+C'est quoi un îlot érythroblastique ?
+
+199
+00:09:42,770 --> 00:09:44,670
+C'est en effet l'unité d'organisation
+
+200
+00:09:44,670 --> 00:09:46,730
+des érythroblastes au niveau de la moelle osseuse
+
+201
+00:09:46,730 --> 00:09:49,170
+parce que les érythroblastes ils n'évoluent pas
+
+202
+00:09:49,170 --> 00:09:52,470
+de façon séparée ou de façon individuelle au
+
+203
+00:09:52,470 --> 00:09:53,750
+niveau de la moelle osseuse mais ils vont
+
+204
+00:09:53,750 --> 00:09:56,010
+évoluer sous forme d'îlots érythroblastiques.
+
+205
+00:09:56,930 --> 00:09:58,770
+Ces îlots sont mis en évidence à l
+
+206
+00:09:58,770 --> 00:10:01,330
+'examen de la moelle par biopsie ostéomédulaire mais
+
+207
+00:10:01,330 --> 00:10:03,530
+des fois aussi par le myelogramme et ils
+
+208
+00:10:03,530 --> 00:10:04,930
+sont organisés comme suit.
+
+209
+00:10:06,170 --> 00:10:08,210
+Alors comme sur l'image on va distinguer
+
+210
+00:10:08,210 --> 00:10:10,050
+la présence de 2 ou 3 courants d
+
+211
+00:10:10,050 --> 00:10:12,070
+'érythroblastes qui sont présents à tous les stades
+
+212
+00:10:12,070 --> 00:10:15,650
+de maturation et qui sont regroupés autour d
+
+213
+00:10:15,650 --> 00:10:16,590
+'un histiocyte.
+
+214
+00:10:16,910 --> 00:10:18,330
+C'est quoi le rôle de l'histiocyte
+
+215
+00:10:18,330 --> 00:10:19,030
+au centre ?
+
+216
+00:10:19,030 --> 00:10:20,770
+C'est tout simplement de ramener le fer
+
+217
+00:10:20,770 --> 00:10:23,470
+nécessaire à la synthèse de l'hémoglobine et
+
+218
+00:10:23,470 --> 00:10:26,830
+de phagocyter les noyaux expulsés après maturation des
+
+219
+00:10:26,830 --> 00:10:28,070
+érythroblastes.
+
+220
+00:10:28,490 --> 00:10:30,930
+Donc l'histiocyte son rôle au centre de
+
+221
+00:10:30,930 --> 00:10:34,030
+l'îlot érythroblastique est de ramener les matières
+
+222
+00:10:34,030 --> 00:10:36,310
+nécessaires ou bien les éléments nécessaires à la
+
+223
+00:10:36,310 --> 00:10:40,270
+maturation érythroblastique mais en même temps de phagocyter
+
+224
+00:10:40,270 --> 00:10:41,710
+les déchets de ces érythroblastes.
+
+225
+00:10:43,210 --> 00:10:45,820
+Passons maintenant au dernier compartiment de l'érythropoïèse
+
+226
+00:10:46,510 --> 00:10:48,750
+qui est le compartiment des cellules matures.
+
+227
+00:10:49,210 --> 00:10:51,550
+Alors on distingue d'un côté les réticulocytes
+
+228
+00:10:52,210 --> 00:10:53,950
+qui vont être mis en évidence par une
+
+229
+00:10:53,950 --> 00:10:55,970
+coloration vitale qu'on appelle bleu de crésil
+
+230
+00:10:55,970 --> 00:10:58,690
+brillant qui va mettre en évidence la présence
+
+231
+00:10:58,690 --> 00:10:59,870
+de résidus d'ARN.
+
+232
+00:11:01,410 --> 00:11:04,490
+Après disparition de ces résidus d'ARN le
+
+233
+00:11:04,490 --> 00:11:07,990
+réticulocyte va donner naissance aux globules rouges matures
+
+234
+00:11:07,990 --> 00:11:09,070
+circulant.
+
+235
+00:11:10,610 --> 00:11:13,350
+Au cours de l'érythropoïèse nous distinguons l
+
+236
+00:11:13,350 --> 00:11:16,570
+'installation des antigens de groupe sanguin mais aussi
+
+237
+00:11:16,570 --> 00:11:19,470
+de récepteurs spécifiques de la lignée érythrocytère.
+
+238
+00:11:20,590 --> 00:11:22,770
+Les antigens des groupes sanguins qui sont de
+
+239
+00:11:22,770 --> 00:11:26,670
+nature glycoprotéiques ou glycolipidiques comme on va voir
+
+240
+00:11:26,670 --> 00:11:28,710
+en détail dans le cours suivant sur le
+
+241
+00:11:28,710 --> 00:11:31,830
+globule rouge sont en effet en grand nombre
+
+242
+00:11:31,830 --> 00:11:33,990
+mais les plus immunogènes sont ceux du système
+
+243
+00:11:33,990 --> 00:11:35,830
+ABO et du système Rhesus.
+
+244
+00:11:36,950 --> 00:11:39,970
+Ils ont plusieurs applications en immunohématologie notamment le
+
+245
+00:11:39,970 --> 00:11:42,750
+groupage sanguin et la recherche des agglutinines irrégulières.
+
+246
+00:11:43,390 --> 00:11:45,850
+Nous allons voir tout ceci en détail dans
+
+247
+00:11:45,850 --> 00:11:47,910
+le cours suivant sur le globule rouge.
+
+248
+00:11:48,850 --> 00:11:51,710
+Les récepteurs spécifiques de la lignée érythroblastique sont
+
+249
+00:11:51,710 --> 00:11:54,810
+principalement l'érythropoétine ou bien le récepteur à
+
+250
+00:11:54,810 --> 00:11:58,250
+l'érythropoétine et il a une application diagnostique
+
+251
+00:11:58,250 --> 00:12:01,950
+importante pour le diagnostic de la leucémie aiguë
+
+252
+00:12:01,950 --> 00:12:02,950
+érythroblastique.
+
+253
+00:12:03,790 --> 00:12:06,910
+Nous allons voir maintenant quelques données cinétiques de
+
+254
+00:12:06,910 --> 00:12:07,990
+l'érythropoïèse.
+
+255
+00:12:08,710 --> 00:12:10,510
+On a déjà vu la formation d'un
+
+256
+00:12:10,510 --> 00:12:12,670
+globule rouge à partir d'un pro-érythroblast
+
+257
+00:12:12,670 --> 00:12:14,610
+prend de 5 à 7 jours.
+
+258
+00:12:15,370 --> 00:12:18,070
+Elle va se faire selon 4 mythos successifs.
+
+259
+00:12:18,890 --> 00:12:21,370
+La vitamine B9 et la vitamine B12 sont
+
+260
+00:12:21,370 --> 00:12:25,070
+indispensables à la maturation nucléaire et la vitamine
+
+261
+00:12:25,070 --> 00:12:27,210
+B6 et le fer sont indispensables à la
+
+262
+00:12:27,210 --> 00:12:28,050
+synthèse de lyme.
+
+263
+00:12:28,650 --> 00:12:31,410
+Au stade d'érythroblast acidophile, le noyau étant
+
+264
+00:12:31,410 --> 00:12:34,510
+devenu inutile, il va être expulsé pour donner
+
+265
+00:12:34,510 --> 00:12:36,130
+naissance au réticulocyte.
+
+266
+00:12:38,340 --> 00:12:41,780
+On va observer une acidophilie croissante due à
+
+267
+00:12:41,780 --> 00:12:45,220
+l'augmentation en concentration de l'hémoglobine et
+
+268
+00:12:45,220 --> 00:12:47,860
+à un stade donné de l'évolution nucléaire
+
+269
+00:12:47,860 --> 00:12:51,180
+va correspondre à un stade de différenciation cytoplasmique.
+
+270
+00:12:51,620 --> 00:12:53,640
+Alors la rupture de ce synchronisme entre le
+
+271
+00:12:53,640 --> 00:12:56,140
+cytoplasme et le noyau est toujours pathologique et
+
+272
+00:12:56,140 --> 00:12:58,400
+c'est ce qu'on appelle asynchronisme de
+
+273
+00:12:58,400 --> 00:13:00,320
+maturation nucléo-cytoplasmique.
+
+274
+00:13:01,500 --> 00:13:04,040
+Un globule rouge une fois formé possède une
+
+275
+00:13:04,040 --> 00:13:07,360
+durée de vie physiologique de 120 jours après
+
+276
+00:13:07,360 --> 00:13:09,460
+laquelle il va être lisé et détruit.
+
+277
+00:13:10,320 --> 00:13:13,440
+Nous allons voir maintenant quelques éléments de régulation
+
+278
+00:13:13,440 --> 00:13:14,740
+de l'érythropoïèse.
+
+279
+00:13:15,780 --> 00:13:19,480
+Nous allons discuter les facteurs de croissance hématopoétiques,
+
+280
+00:13:19,960 --> 00:13:23,920
+les facteurs de croissance non spécifiquement hématopoétiques, la
+
+281
+00:13:23,920 --> 00:13:26,180
+place des métaux et des vitamines dans l
+
+282
+00:13:26,180 --> 00:13:29,600
+'érythropoïèse et les inhibiteurs de l'érythropoïèse à
+
+283
+00:13:29,600 --> 00:13:29,880
+la fin.
+
+284
+00:13:31,280 --> 00:13:34,260
+Les facteurs de croissance hématopoétiques se divisent en
+
+285
+00:13:34,260 --> 00:13:35,000
+deux catégories.
+
+286
+00:13:35,140 --> 00:13:37,500
+Nous avons les facteurs de croissance non spécifiques
+
+287
+00:13:37,500 --> 00:13:41,200
+à l'érythropoïèse qui sont le SCF, l
+
+288
+00:13:41,200 --> 00:13:45,120
+'interleukin-3, le GM-CSF, mais aussi l
+
+289
+00:13:45,120 --> 00:13:47,100
+'interleukin-9 et l'interleukin-11.
+
+290
+00:13:48,160 --> 00:13:51,480
+Le facteur de croissance spécifique est l'érythropoétine.
+
+291
+00:13:52,560 --> 00:13:54,800
+Nous allons dire un mot sur l'érythropoétine.
+
+292
+00:13:55,180 --> 00:13:57,580
+Il s'agit d'une glycoprotéine synthétisée par
+
+293
+00:13:57,580 --> 00:14:00,000
+le rhin et il s'agit du facteur
+
+294
+00:14:00,000 --> 00:14:02,620
+de croissance majeur de l'érythropoïèse.
+
+295
+00:14:02,620 --> 00:14:05,380
+Elle exerce son rôle en se liant à
+
+296
+00:14:05,380 --> 00:14:07,640
+son récepteur spécifique qui est l'EPOR.
+
+297
+00:14:08,740 --> 00:14:11,300
+Comme on a déjà vu précédemment, le BFUE
+
+298
+00:14:11,300 --> 00:14:15,140
+possède l'EPOR mais aussi des récepteurs du
+
+299
+00:14:15,140 --> 00:14:18,280
+SCF, de l'interleukin-3 et du GM
+
+300
+00:14:18,280 --> 00:14:18,620
+-CSF.
+
+301
+00:14:19,680 --> 00:14:22,880
+Le CFUE et le proérythroblast quant à eux
+
+302
+00:14:22,880 --> 00:14:25,940
+vont perdre tous les récepteurs des autres facteurs
+
+303
+00:14:25,940 --> 00:14:28,300
+de croissance et ne gardent plus que le
+
+304
+00:14:28,300 --> 00:14:31,400
+récepteur de l'érythropoétine à laquelle ils deviennent
+
+305
+00:14:31,400 --> 00:14:32,100
+indépendants.
+
+306
+00:14:32,860 --> 00:14:35,700
+Cette dépendance va disparaître au stade d'érythroblast
+
+307
+00:14:35,700 --> 00:14:38,400
+basophile parallèlement au début de la synthèse de
+
+308
+00:14:38,400 --> 00:14:39,060
+l'hémoglobine.
+
+309
+00:14:40,160 --> 00:14:42,520
+Nous allons dire un mot sur le fonctionnement
+
+310
+00:14:42,520 --> 00:14:43,640
+de l'érythropoétine.
+
+311
+00:14:44,100 --> 00:14:46,120
+En effet, quand ceci va se fixer à
+
+312
+00:14:46,120 --> 00:14:49,160
+son récepteur, ceci va induire une activation d
+
+313
+00:14:49,160 --> 00:14:53,160
+'une molécule sommembranaire qu'on appelle JAK2 qui
+
+314
+00:14:53,160 --> 00:14:55,940
+va à son tour activer une molécule STAT5.
+
+315
+00:14:56,700 --> 00:15:00,200
+Cette molécule STAT5 va induire la transcription du
+
+316
+00:15:00,200 --> 00:15:03,720
+matériel nucléaire et par conséquent la prolifération des
+
+317
+00:15:03,720 --> 00:15:04,420
+érythroblasts.
+
+318
+00:15:05,280 --> 00:15:07,620
+En effet, la compréhension de ce mécanisme de
+
+319
+00:15:07,620 --> 00:15:11,340
+fonctionnement de l'érythropoétine va permettre de comprendre
+
+320
+00:15:11,340 --> 00:15:14,560
+la physiopathologie d'une pathologie qui est très
+
+321
+00:15:14,560 --> 00:15:17,400
+fréquente en hématologie qui est la polyglobule de
+
+322
+00:15:17,400 --> 00:15:17,820
+Wackes.
+
+323
+00:15:18,200 --> 00:15:19,060
+En fait, qu'est-ce qui va se
+
+324
+00:15:19,060 --> 00:15:19,760
+passer ?
+
+325
+00:15:19,760 --> 00:15:21,660
+Quand on a une mutation au niveau du
+
+326
+00:15:21,660 --> 00:15:25,000
+gène qui code pour la protéine JAK2, cette
+
+327
+00:15:25,000 --> 00:15:28,840
+dernière va être activée de façon infinie même
+
+328
+00:15:28,840 --> 00:15:30,540
+lorsqu'il n'y a pas de fixation
+
+329
+00:15:30,540 --> 00:15:32,480
+de l'érythropoétine sur son récepteur.
+
+330
+00:15:32,620 --> 00:15:34,180
+Il va y avoir une activation de la
+
+331
+00:15:34,180 --> 00:15:38,700
+molécule JAK2 de façon spontanée induisant par conséquent
+
+332
+00:15:39,440 --> 00:15:44,340
+une transcription continue du matériel nucléaire et par
+
+333
+00:15:44,340 --> 00:15:48,000
+conséquent une prolifération de la lignée érythroblastique de
+
+334
+00:15:48,000 --> 00:15:51,260
+façon délimitée ce qui va causer la polyglobule
+
+335
+00:15:51,260 --> 00:15:54,420
+de Wackes qui est une maladie définie par
+
+336
+00:15:54,420 --> 00:15:58,100
+une augmentation importante du nombre de globules rouges.
+
+337
+00:15:59,260 --> 00:16:01,660
+L'érythropoïèse est aussi régulée par des facteurs
+
+338
+00:16:01,660 --> 00:16:04,980
+de croissance qui ne sont pas spécifiquement hématopoétiques.
+
+339
+00:16:05,600 --> 00:16:07,280
+Donc nous avons tout d'abord l'insuline,
+
+340
+00:16:08,080 --> 00:16:12,060
+l'hormone de croissance, les hormones thyroïdiennes, c
+
+341
+00:16:12,060 --> 00:16:15,060
+'est pourquoi justement l'hypothyroïdie est souvent accompagnée
+
+342
+00:16:15,060 --> 00:16:18,020
+d'anémie et le TGF béton.
+
+343
+00:16:19,000 --> 00:16:21,500
+Les métaux et les vitamines possèdent une place
+
+344
+00:16:21,500 --> 00:16:24,440
+primordiale dans l'accomplissement de l'érythropoïèse.
+
+345
+00:16:24,880 --> 00:16:26,780
+Nous avons par exemple le fer et la
+
+346
+00:16:26,780 --> 00:16:28,920
+vitamine B6 qui sont essentielles à la synthèse
+
+347
+00:16:28,920 --> 00:16:29,720
+de l'hémoglobine.
+
+348
+00:16:30,660 --> 00:16:33,700
+Sont aussi importants le cuivre, le cobalt et
+
+349
+00:16:33,700 --> 00:16:36,580
+le zinc qui sont des oligo-éléments.
+
+350
+00:16:37,860 --> 00:16:40,340
+La vitamine B12 et les folates, qu'on
+
+351
+00:16:40,340 --> 00:16:43,660
+appelle aussi vitamine B9, sont indispensables à la
+
+352
+00:16:43,660 --> 00:16:44,700
+synthèse nucléaire.
+
+353
+00:16:45,760 --> 00:16:47,280
+Comme on a déjà vu dans le cours
+
+354
+00:16:47,280 --> 00:16:50,440
+de l'hématopoïèse, les inhibiteurs de l'érythropoïèse
+
+355
+00:16:50,440 --> 00:16:54,180
+sont les cytokines pro-inflammatoires et la cytokine
+
+356
+00:16:54,180 --> 00:16:56,680
+pro-inflammatoire la plus puissante est le facteur
+
+357
+00:16:56,680 --> 00:17:00,400
+de nécrostumoral, le TNF, qui est synthétisé par
+
+358
+00:17:00,400 --> 00:17:01,920
+les macrophages activés.
+
+359
+00:17:03,040 --> 00:17:05,980
+Passons maintenant à l'exploration de l'érythropoïèse.
+
+360
+00:17:06,540 --> 00:17:08,579
+L'hémogramme est en effet le premier examen
+
+361
+00:17:08,579 --> 00:17:11,599
+qu'on prescrit pour explorer l'érythropoïèse et
+
+362
+00:17:11,599 --> 00:17:13,800
+c'est aussi l'examen le plus prescrit
+
+363
+00:17:13,800 --> 00:17:15,619
+en biologie médicale.
+
+364
+00:17:15,700 --> 00:17:17,460
+Il va nous permettre de déterminer le taux
+
+365
+00:17:17,460 --> 00:17:20,260
+d'hémoglobine et les constantes érythrocitaires et aussi
+
+366
+00:17:20,260 --> 00:17:23,060
+le taux des réticulocytes pour savoir, en cas
+
+367
+00:17:23,060 --> 00:17:24,300
+d'anémie par exemple, est-ce que c
+
+368
+00:17:24,300 --> 00:17:26,660
+'est une anémie régénérative ou arégénérative.
+
+369
+00:17:27,520 --> 00:17:29,520
+Bien évidemment, il ne faut jamais oublier d
+
+370
+00:17:29,520 --> 00:17:31,820
+'interpréter l'ensemble des données de l'hémogramme.
+
+371
+00:17:32,220 --> 00:17:33,440
+Donc quoique je sois en train de chercher
+
+372
+00:17:33,440 --> 00:17:35,720
+le taux d'hémoglobine parce que je suspecte
+
+373
+00:17:35,720 --> 00:17:38,300
+une anémie chez mon patient, ceci n'empêche
+
+374
+00:17:38,300 --> 00:17:40,520
+que je dois interpréter l'ensemble des données
+
+375
+00:17:40,520 --> 00:17:42,920
+qui sont fournies par l'hémogramme parce qu
+
+376
+00:17:42,920 --> 00:17:45,340
+'ils peuvent être d'une orientation étiologique qui
+
+377
+00:17:45,340 --> 00:17:46,220
+est très importante.
+
+378
+00:17:46,900 --> 00:17:49,240
+Le myelogramme, quant à lui, va nous permettre
+
+379
+00:17:49,240 --> 00:17:51,960
+de réaliser une étude quantitative et qualitative de
+
+380
+00:17:51,960 --> 00:17:55,420
+la lignée érythroblastique, ainsi que l'examen des
+
+381
+00:17:55,420 --> 00:17:58,200
+autres lignées hématopoétiques, mais aussi la recherche de
+
+382
+00:17:58,200 --> 00:18:01,020
+parasites, comme par exemple le corps de Leishmanie.
+
+383
+00:18:02,120 --> 00:18:05,060
+La biopsie ostéomédulaire va permettre l'étude de
+
+384
+00:18:05,060 --> 00:18:08,140
+l'architecture de la moelle et comme technique
+
+385
+00:18:08,140 --> 00:18:10,620
+de recherche, nous pouvons aussi pratiquer la culture
+
+386
+00:18:10,620 --> 00:18:13,800
+in vitro des progéniteurs érythroblastiques.
+
+387
+00:18:14,460 --> 00:18:17,580
+Nous allons maintenant discuter quelques applications de l
+
+388
+00:18:17,580 --> 00:18:17,820
+'érythropoïèse.
+
+389
+00:18:20,020 --> 00:18:23,720
+Ces applications, nous allons les discuter en revenant
+
+390
+00:18:23,720 --> 00:18:25,280
+sur l'ensemble des éléments qu'on a
+
+391
+00:18:25,280 --> 00:18:26,340
+vu à travers ce cours.
+
+392
+00:18:26,800 --> 00:18:28,400
+On va commencer tout d'abord par l
+
+393
+00:18:28,400 --> 00:18:30,160
+'anémie et l'insuffisance rénale chronique.
+
+394
+00:18:30,360 --> 00:18:34,000
+On a déjà dit que l'érythropoéthine qui
+
+395
+00:18:34,000 --> 00:18:36,380
+est le facteur de croissance spécifique de la
+
+396
+00:18:36,380 --> 00:18:38,620
+lignée érythroblastique, il est synthétisé par le rang.
+
+397
+00:18:39,240 --> 00:18:41,380
+Vous imaginez que quand on a une insuffisance
+
+398
+00:18:41,380 --> 00:18:44,680
+rénale chronique, automatiquement, il y aura une anémie
+
+399
+00:18:44,680 --> 00:18:46,700
+secondaire à cette insuffisance rénale.
+
+400
+00:18:47,940 --> 00:18:50,160
+Nous avons aussi vu l'importance du fer
+
+401
+00:18:50,160 --> 00:18:52,100
+dans la synthèse de l'hémoglobine et par
+
+402
+00:18:52,100 --> 00:18:54,500
+conséquent, la cohérence en fer va donner une
+
+403
+00:18:54,500 --> 00:18:57,760
+anémie fériprive qui est une anémie hypochrome-microcitaire.
+
+404
+00:18:59,080 --> 00:19:01,100
+Nous avons aussi vu l'importance de la
+
+405
+00:19:01,100 --> 00:19:03,960
+vitamine B9 et B12 dans la synthèse nucléaire
+
+406
+00:19:03,960 --> 00:19:05,940
+et par conséquent, quand il y a un
+
+407
+00:19:05,940 --> 00:19:09,360
+manque en vitamine B9 ou B12, automatiquement, il
+
+408
+00:19:09,360 --> 00:19:12,120
+y aura une maturation cytoplasmique mais sans maturation
+
+409
+00:19:12,120 --> 00:19:12,840
+nucléaire.
+
+410
+00:19:13,280 --> 00:19:15,320
+Donc, ce sont des cellules qui vont augmenter
+
+411
+00:19:15,320 --> 00:19:17,720
+de taille sans pouvoir se diviser puisque le
+
+412
+00:19:17,720 --> 00:19:20,060
+noyau n'est pas mature et par conséquent,
+
+413
+00:19:20,140 --> 00:19:21,780
+ça va donner un gigantisme cellulaire.
+
+414
+00:19:21,920 --> 00:19:23,240
+C'est pourquoi on parle dans ce cas
+
+415
+00:19:23,240 --> 00:19:25,340
+d'anémies mégaloblastiques.
+
+416
+00:19:26,480 --> 00:19:29,000
+On a aussi discuté la place des hormones
+
+417
+00:19:29,000 --> 00:19:31,540
+thyruidiennes qui sont des facteurs de croissance non
+
+418
+00:19:31,540 --> 00:19:34,660
+-hématopoétiques de l'érythropoïèse et par conséquent, la
+
+419
+00:19:34,660 --> 00:19:38,100
+carence en ces hormones pourrait être responsable d
+
+420
+00:19:38,100 --> 00:19:38,580
+'une anémie.
+
+421
+00:19:39,920 --> 00:19:41,780
+Comme vous le savez déjà, les patients qui
+
+422
+00:19:41,780 --> 00:19:44,740
+vivent au niveau d'une haute altitude possèdent
+
+423
+00:19:44,740 --> 00:19:47,200
+plus de risque de présenter une polyglobulie parce
+
+424
+00:19:47,200 --> 00:19:49,460
+que tout simplement en haute altitude, il n
+
+425
+00:19:49,460 --> 00:19:52,260
+'y a pas beaucoup d'oxygène et c
+
+426
+00:19:52,260 --> 00:19:54,480
+'est responsable d'une hypoxie qui va provoquer
+
+427
+00:19:54,480 --> 00:19:56,720
+une synthèse de l'érythropoétine par le rein
+
+428
+00:19:56,720 --> 00:19:59,980
+et qui va simuler par conséquent l'érythropoïèse.
+
+429
+00:20:00,980 --> 00:20:02,440
+Quand vous serez par la suite dans votre
+
+430
+00:20:02,440 --> 00:20:04,320
+cabinet, vous allez constater qu'il y a
+
+431
+00:20:04,320 --> 00:20:07,260
+des patients qui vont se présenter avec une
+
+432
+00:20:07,260 --> 00:20:10,300
+anémie fériprive chronique et chez ces patients on
+
+433
+00:20:10,300 --> 00:20:12,360
+peut trouver une thrombocytose qui est secondaire.
+
+434
+00:20:12,880 --> 00:20:15,360
+Alors comment cette thrombocytose est expliquée ?
+
+435
+00:20:15,360 --> 00:20:16,360
+C'est parce que comme on l'a
+
+436
+00:20:16,360 --> 00:20:17,960
+déjà vu sur le schéma de l'érythropoïèse,
+
+437
+00:20:18,900 --> 00:20:22,300
+il y a un précurseur érythroblastique et mégakaryocytaire
+
+438
+00:20:22,300 --> 00:20:25,280
+commun qui est le CFUEMK et par conséquent,
+
+439
+00:20:25,420 --> 00:20:28,920
+la stimulation de l'érythropoïèse va aussi stimuler
+
+440
+00:20:28,920 --> 00:20:32,540
+la mégakaryopoïèse et par conséquent une thrombocytose secondaire.
+
+441
+00:20:33,360 --> 00:20:36,120
+Une autre application qui est aussi d'actualité,
+
+442
+00:20:36,680 --> 00:20:40,220
+c'est la COVID-19 chez laquelle on
+
+443
+00:20:40,220 --> 00:20:42,580
+va trouver des cytopénies chez les patients et
+
+444
+00:20:42,580 --> 00:20:45,440
+parmi les mécanismes qui expliquent ces cytopénies, c
+
+445
+00:20:45,440 --> 00:20:48,040
+'est tout simplement la sécrétion du cytokine pro
+
+446
+00:20:48,040 --> 00:20:50,800
+-inflammatoire comme on a déjà vu qui sont
+
+447
+00:20:50,800 --> 00:20:53,460
+des inhibiteurs de l'hématopoïèse mais aussi des
+
+448
+00:20:53,460 --> 00:20:55,040
+inhibiteurs de l'érythropoïèse.
+
+449
+00:20:56,320 --> 00:20:58,500
+Et comme on a vu déjà précédemment, nous
+
+450
+00:20:58,500 --> 00:21:01,120
+avons la mutation de JAK2 donc la mutation
+
+451
+00:21:01,120 --> 00:21:02,900
+du gène qui code pour la protéine JAK2
+
+452
+00:21:02,900 --> 00:21:06,480
+qui va provoquer une phosphorylation incontrôlée de la
+
+453
+00:21:06,480 --> 00:21:10,520
+molécule STAT5 et par conséquent une activation excessive
+
+454
+00:21:10,520 --> 00:21:13,080
+de l'érythropoïèse, quel que soit le taux
+
+455
+00:21:13,080 --> 00:21:14,380
+de l'érythropoétine.
+
+456
+00:21:15,720 --> 00:21:19,520
+Ceci explique la physiopathologie de la polyglobulie de
+
+457
+00:21:19,520 --> 00:21:19,980
+Wackes.
+
+458
+00:21:21,320 --> 00:21:25,620
+Comme application, nous avons aussi l'incompatibilité transfusionnelle
+
+459
+00:21:25,620 --> 00:21:28,420
+et le diagnostic de la leucémie aiguë érythroblastique
+
+460
+00:21:28,420 --> 00:21:31,740
+comme on a déjà vu précédemment par la
+
+461
+00:21:31,740 --> 00:21:34,800
+recherche d'antigens spécifiques de la lignée érythroblastique
+
+462
+00:21:34,800 --> 00:21:36,180
+par immunophénomtypage.
+
+463
+00:21:40,160 --> 00:21:42,700
+En conclusion, il est important de retenir que
+
+464
+00:21:42,700 --> 00:21:45,040
+l'érythropoïèse est un processus par lequel la
+
+465
+00:21:45,040 --> 00:21:47,200
+moelle osseuse va assurer la production des globules
+
+466
+00:21:47,200 --> 00:21:49,900
+rouges à partir d'une cellule souche hématopoétique
+
+467
+00:21:49,900 --> 00:21:52,140
+et qu'il y a deux événements importants
+
+468
+00:21:52,140 --> 00:21:54,520
+à distinguer, l'engagement et la maturation.
+
+469
+00:21:55,100 --> 00:21:57,560
+Les progéniteurs sont le BFE qui est peu
+
+470
+00:21:57,560 --> 00:21:59,820
+sensible à l'érythropoétine et le CFE qui
+
+471
+00:21:59,820 --> 00:22:01,520
+est dépendant de l'érythropoétine.
+
+472
+00:22:02,560 --> 00:22:04,520
+L'accumulation de l'hémoglobine au fur et
+
+473
+00:22:04,520 --> 00:22:06,480
+à mesure de la maturation des précurseurs est
+
+474
+00:22:06,480 --> 00:22:08,460
+responsable de la pseudophilie progressive.
+
+475
+00:22:09,100 --> 00:22:11,560
+L'exploration de l'érythropoïèse en routine se
+
+476
+00:22:11,560 --> 00:22:15,320
+fait principalement par l'hémogramme et le myelogramme.
+
+477
+00:22:15,460 --> 00:22:16,960
+Et bien sûr, comme on a vu à
+
+478
+00:22:16,960 --> 00:22:20,740
+travers les applications, la compréhension de l'érythropoïèse
+
+479
+00:22:20,740 --> 00:22:24,940
+va permettre de comprendre les différentes pathologies ou
+
+480
+00:22:24,940 --> 00:22:28,100
+bien de comprendre la physiopathologie de différentes maladies
+
+481
+00:22:28,100 --> 00:22:30,480
+qui sont liées aux globules rouges, leur diagnostic
+
+482
+00:22:30,480 --> 00:22:31,240
+et leur traitement.

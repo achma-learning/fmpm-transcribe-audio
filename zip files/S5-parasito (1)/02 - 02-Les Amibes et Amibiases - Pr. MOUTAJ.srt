@@ -1,0 +1,3183 @@
+1
+00:00:01,420 --> 00:00:04,540
+Bienvenue dans ce cours intitulé les amides et
+
+2
+00:00:04,540 --> 00:00:06,020
+les amibiases.
+
+3
+00:00:08,340 --> 00:00:11,000
+Les objectifs qui sont fixés pour ce chapitre
+
+4
+00:00:11,000 --> 00:00:15,420
+est d'étudier l'épidémiologie de l'amibiase,
+
+5
+00:00:16,020 --> 00:00:18,760
+bien sûr en commençant par l'agent pathogène,
+
+6
+00:00:18,860 --> 00:00:22,100
+son cycle de développement, les modalités de la
+
+7
+00:00:22,100 --> 00:00:26,060
+transmission du parasite et sa distribution à travers
+
+8
+00:00:26,060 --> 00:00:26,900
+le monde entier.
+
+9
+00:00:26,900 --> 00:00:31,020
+Et comprendre par la suite les mécanismes physiopathologiques
+
+10
+00:00:32,180 --> 00:00:35,020
+qui nous aident à comprendre un petit peu
+
+11
+00:00:35,020 --> 00:00:39,120
+les conséquences cliniques de l'amibiase, qu'elles
+
+12
+00:00:39,120 --> 00:00:42,800
+soient de localisation intestinale ou même tissulaire.
+
+13
+00:00:43,860 --> 00:00:48,680
+Par la suite, on va essayer d'étudier
+
+14
+00:00:48,680 --> 00:00:51,980
+les examens qui sont utiles et qui sont
+
+15
+00:00:51,980 --> 00:00:55,760
+prescrits selon la forme de l'amibiase pour
+
+16
+00:00:55,760 --> 00:00:57,140
+poser son diagnostic.
+
+17
+00:00:58,020 --> 00:01:02,000
+Ces examens peuvent être d'ordre biologique, de
+
+18
+00:01:02,000 --> 00:01:03,959
+l'imagerie ou de l'endoscopie.
+
+19
+00:01:04,680 --> 00:01:07,440
+Mais surtout, on va se fixer, on va
+
+20
+00:01:07,440 --> 00:01:11,580
+se concentrer sur les examens biologiques, particulièrement parasitologiques.
+
+21
+00:01:12,540 --> 00:01:15,960
+Et puis, on verra un petit peu comment
+
+22
+00:01:15,960 --> 00:01:19,080
+peut-on interpréter les résultats d'un examen
+
+23
+00:01:19,080 --> 00:01:24,280
+parasitologique des selles en fonction du cycle de
+
+24
+00:01:24,280 --> 00:01:27,480
+développement de l'amib et en fonction de
+
+25
+00:01:27,480 --> 00:01:28,480
+son aspect.
+
+26
+00:01:29,820 --> 00:01:31,840
+Et par la suite, vers la fin, on
+
+27
+00:01:31,840 --> 00:01:34,520
+va essayer de faire un petit aperçu sur
+
+28
+00:01:34,520 --> 00:01:39,320
+les principes du traitement anti-amibien en distinguant
+
+29
+00:01:39,320 --> 00:01:41,520
+les anti-amibiens de contact et les anti
+
+30
+00:01:41,520 --> 00:01:42,760
+-amibiens diffusibles.
+
+31
+00:01:43,480 --> 00:01:46,960
+Sans oublier, bien évidemment, le chapitre qui est
+
+32
+00:01:46,960 --> 00:01:50,520
+très important à savoir la prophylaxie et les
+
+33
+00:01:50,520 --> 00:01:53,020
+mesures préventives pour éviter.
+
+34
+00:01:55,100 --> 00:02:00,060
+Pour ce faire, on va commencer par le
+
+35
+00:02:00,060 --> 00:02:01,120
+plan qui est adopté.
+
+36
+00:02:01,200 --> 00:02:03,320
+On va commencer par une introduction, bien sûr,
+
+37
+00:02:04,020 --> 00:02:07,320
+en définissant l'amib et l'amibiase.
+
+38
+00:02:07,320 --> 00:02:09,780
+On va étudier l'agent pathogène, puis son
+
+39
+00:02:09,780 --> 00:02:14,420
+cycle évolutif, lui permettant d'augmenter son nombre
+
+40
+00:02:14,420 --> 00:02:16,420
+et donc sa charge parasitaire.
+
+41
+00:02:17,120 --> 00:02:20,660
+On revue un certain nombre de notions épidémiologiques
+
+42
+00:02:21,250 --> 00:02:27,460
+et puis décliner les aspects, les tableaux cliniques
+
+43
+00:02:27,460 --> 00:02:28,640
+de l'amibiase.
+
+44
+00:02:29,460 --> 00:02:32,200
+Par la suite, on va étudier les outils
+
+45
+00:02:32,200 --> 00:02:36,180
+du diagnostic nous permettant de confirmer une amibiase,
+
+46
+00:02:36,260 --> 00:02:38,540
+quelle qu'elle soit, et puis un petit
+
+47
+00:02:38,540 --> 00:02:40,620
+aperçu sur le traitement avant de conclure.
+
+48
+00:02:43,360 --> 00:02:46,560
+La seule amib pathogène chez l'homme, ce
+
+49
+00:02:46,560 --> 00:02:49,480
+qu'il faut savoir, c'est une amib
+
+50
+00:02:49,480 --> 00:02:53,420
+appelée entaméba histolytica.
+
+51
+00:02:55,480 --> 00:02:57,160
+Mais il ne faut pas oublier qu'il
+
+52
+00:02:57,160 --> 00:03:00,940
+existe d'autres amibs, parasites de l'intestin
+
+53
+00:03:00,940 --> 00:03:03,060
+de l'homme, mais qui ne sont pas
+
+54
+00:03:03,060 --> 00:03:04,840
+vraiment pathogènes.
+
+55
+00:03:05,360 --> 00:03:08,140
+On peut citer à titre d'exemple entaméba
+
+56
+00:03:08,140 --> 00:03:15,260
+couli, entaméba hartmani, entaméba andolémax nanus, entaméba fragilis.
+
+57
+00:03:15,480 --> 00:03:20,860
+Mais pour votre niveau, on va se contenter
+
+58
+00:03:20,860 --> 00:03:26,740
+d'étudier l'amib vraiment pathogène et spécifique
+
+59
+00:03:26,740 --> 00:03:30,480
+de l'homme, à savoir l'entaméba histolytica.
+
+60
+00:03:32,500 --> 00:03:36,700
+L'amibiase, comme introduction, cette maladie parasitaire, appelée
+
+61
+00:03:36,700 --> 00:03:40,480
+également amébose, représente l'une des trois principales
+
+62
+00:03:40,480 --> 00:03:43,880
+maladies parasitaires responsables de décès, de mortalité dans
+
+63
+00:03:43,880 --> 00:03:46,960
+le monde entier, après le paludisme et la
+
+64
+00:03:46,960 --> 00:03:47,500
+bilatios.
+
+65
+00:03:48,320 --> 00:03:50,320
+C'est une parasitose des pays chauds et
+
+66
+00:03:50,320 --> 00:03:55,160
+humides, des zones tropicales et subtropicales.
+
+67
+00:03:55,260 --> 00:03:57,220
+Il existe un peu partout dans les pays
+
+68
+00:03:57,220 --> 00:03:59,540
+africains et même le Maroc.
+
+69
+00:03:59,900 --> 00:04:03,040
+Sa fréquence est liée au niveau de propreté
+
+70
+00:04:03,040 --> 00:04:04,540
+et d'hygiène de la population.
+
+71
+00:04:04,540 --> 00:04:09,560
+Son incidence est intimement liée au péril fécal.
+
+72
+00:04:09,640 --> 00:04:10,740
+C'est quoi le péril fécal?
+
+73
+00:04:10,940 --> 00:04:16,839
+C'est le danger lié aux excréta, lié
+
+74
+00:04:16,839 --> 00:04:21,800
+aux selles, lié à l'élimination des selles
+
+75
+00:04:21,800 --> 00:04:23,620
+un peu n'importe comment.
+
+76
+00:04:24,140 --> 00:04:28,100
+Ce danger est lié à la contamination de
+
+77
+00:04:28,100 --> 00:04:32,420
+l'environnement par les selles contenant des parasites,
+
+78
+00:04:32,420 --> 00:04:34,960
+contenant en général des agents infectieux.
+
+79
+00:04:35,120 --> 00:04:37,140
+Ça peut être des virus, des bactéries, des
+
+80
+00:04:37,140 --> 00:04:39,100
+parasites ou des champignons.
+
+81
+00:04:39,380 --> 00:04:41,400
+Le péril fécal, c'est le danger lié
+
+82
+00:04:41,400 --> 00:04:44,240
+à l'élimination des selles dans la nature,
+
+83
+00:04:44,780 --> 00:04:50,080
+qui risque de contaminer l'herbe, les végétaux,
+
+84
+00:04:50,260 --> 00:04:52,520
+les légumes, mais aussi l'eau.
+
+85
+00:04:52,860 --> 00:04:54,200
+C'est comme ça que l'homme peut
+
+86
+00:04:54,200 --> 00:04:58,480
+être contaminé, un homme sain peut être contaminé
+
+87
+00:04:58,480 --> 00:05:02,080
+lorsqu'il consomme de l'eau ou des
+
+88
+00:05:02,080 --> 00:05:05,860
+végétaux, des légumes qui sont contaminés par des
+
+89
+00:05:05,860 --> 00:05:06,300
+parasites.
+
+90
+00:05:06,920 --> 00:05:09,680
+L'incidence de l'amibiase est liée à
+
+91
+00:05:09,680 --> 00:05:11,980
+ce péril fécal et à l'existence de
+
+92
+00:05:11,980 --> 00:05:13,640
+porteurs asymptomatiques.
+
+93
+00:05:13,800 --> 00:05:15,280
+C'est quoi les porteurs asymptomatiques?
+
+94
+00:05:15,380 --> 00:05:17,520
+Si vous vous souvenez, nous l'avons déjà
+
+95
+00:05:17,520 --> 00:05:22,040
+expliqué à travers les généralités en parasitologie, un
+
+96
+00:05:22,040 --> 00:05:25,640
+porteur asymptomatique ou un porteur sain, c'est
+
+97
+00:05:25,640 --> 00:05:30,520
+un sujet qui héberge le parasite sans faire
+
+98
+00:05:30,520 --> 00:05:34,900
+de maladie parasitaire, mais il héberge le parasite,
+
+99
+00:05:35,640 --> 00:05:38,220
+il va l'éliminer, et en l'éliminant,
+
+100
+00:05:38,400 --> 00:05:44,260
+s'il ne prend pas les mesures adéquates,
+
+101
+00:05:44,400 --> 00:05:47,380
+les précautions, il risque de contaminer d'autres
+
+102
+00:05:47,380 --> 00:05:50,080
+personnes, soit directement, soit indirectement.
+
+103
+00:05:50,520 --> 00:05:52,640
+C'est comme ça que la maladie peut
+
+104
+00:05:52,640 --> 00:05:54,820
+se propager dans la population.
+
+105
+00:05:56,780 --> 00:05:58,320
+Commençons par la définition.
+
+106
+00:05:58,480 --> 00:06:02,180
+L'amibiase est causée par un protozoaire unicellulaire
+
+107
+00:06:02,180 --> 00:06:06,700
+appelé Entamoeba estolytica et qui est dénommé également
+
+108
+00:06:06,700 --> 00:06:08,200
+Entamoeba dysenterie.
+
+109
+00:06:08,520 --> 00:06:12,600
+C'est la seule amib pathogène chez l
+
+110
+00:06:12,600 --> 00:06:12,700
+'homme.
+
+111
+00:06:13,620 --> 00:06:18,020
+Elle se manifeste sur le plan clinique selon
+
+112
+00:06:18,020 --> 00:06:24,300
+deux tableaux principaux, à savoir l'amibiase intestinale
+
+113
+00:06:24,300 --> 00:06:28,200
+aiguë appelée dysenterie amibienne, mais il ne faut
+
+114
+00:06:28,200 --> 00:06:32,680
+pas oublier qu'il existe également une autre
+
+115
+00:06:32,680 --> 00:06:36,640
+entité, c'est l'amibiase tissulaire, et donc
+
+116
+00:06:36,640 --> 00:06:41,880
+l'amibiase qui peut être, qui peut intéresser
+
+117
+00:06:41,880 --> 00:06:45,300
+n'importe quel organe, particulièrement le foie, et
+
+118
+00:06:45,300 --> 00:06:47,540
+on parlera alors de l'amibiase hépato.
+
+119
+00:06:47,720 --> 00:06:49,180
+On va étudier tout à l'heure.
+
+120
+00:06:49,180 --> 00:06:51,080
+L'agent pathogène.
+
+121
+00:06:51,260 --> 00:06:54,660
+Alors actuellement, on distingue deux espèces d'amibes
+
+122
+00:06:54,660 --> 00:06:58,520
+morphologiquement identiques, mais génétiquement différents.
+
+123
+00:06:58,860 --> 00:07:02,980
+Alors là, j'attire votre attention sur la
+
+124
+00:07:02,980 --> 00:07:07,820
+présence, l'existence de deux amibes qui se
+
+125
+00:07:07,820 --> 00:07:10,860
+ressemblent tellement sur le plan morphologique et au
+
+126
+00:07:10,860 --> 00:07:15,440
+microscope, on ne peut pas différencier entre Entamoeba
+
+127
+00:07:15,440 --> 00:07:18,460
+estolytica et Entamoeba dyspar.
+
+128
+00:07:18,460 --> 00:07:21,380
+Mais jusqu'à présent, vous avez bien noté
+
+129
+00:07:21,380 --> 00:07:25,160
+qu'Entamoeba estolytica est l'amibe pathogène, alors
+
+130
+00:07:25,160 --> 00:07:30,060
+qu'Entamoeba dyspar, que je viens de citer
+
+131
+00:07:30,060 --> 00:07:32,620
+maintenant, c'est une amibe qui ne l
+
+132
+00:07:32,620 --> 00:07:34,900
+'est pas, qui n'est pas pathogène, mais
+
+133
+00:07:34,900 --> 00:07:38,940
+elle ressemble tellement sur le plan morphologique à
+
+134
+00:07:38,940 --> 00:07:40,380
+Entamoeba estolytica.
+
+135
+00:07:41,100 --> 00:07:43,540
+Et donc à la suite, on verra comment
+
+136
+00:07:44,300 --> 00:07:47,500
+on va exprimer la présence de l'une
+
+137
+00:07:47,500 --> 00:07:49,280
+ou de l'autre et comment l'incriminer.
+
+138
+00:07:49,580 --> 00:07:51,600
+Mais sur le plan génétique, elles sont complètement
+
+139
+00:07:51,600 --> 00:07:52,580
+différentes l'une de l'autre.
+
+140
+00:07:52,760 --> 00:07:54,400
+Mais au microscope, on ne peut pas différencier
+
+141
+00:07:54,400 --> 00:07:54,960
+entre les deux.
+
+142
+00:07:55,100 --> 00:07:58,740
+Entamoeba estolytica est la forme virulente responsable des
+
+143
+00:07:58,740 --> 00:07:59,860
+formes cliniques graves.
+
+144
+00:08:00,100 --> 00:08:04,020
+Alors qu'Entamoeba dyspar, c'est une amibe
+
+145
+00:08:04,020 --> 00:08:06,700
+non virulente et non pathogène, mais qui est
+
+146
+00:08:06,700 --> 00:08:08,020
+la plus fréquente dans les régions.
+
+147
+00:08:09,420 --> 00:08:13,140
+Sur le plan morphologique, ces deux amibes, Entamoeba
+
+148
+00:08:13,140 --> 00:08:18,460
+estolytica et Entamoeba dyspar, vont se présenter selon
+
+149
+00:08:18,460 --> 00:08:21,040
+deux formes.
+
+150
+00:08:21,140 --> 00:08:26,100
+La forme végétative et le kyste, qui sont
+
+151
+00:08:26,100 --> 00:08:33,280
+pratiquement et morphologiquement très très rapprochés les unes
+
+152
+00:08:33,280 --> 00:08:33,960
+des autres.
+
+153
+00:08:34,919 --> 00:08:39,460
+Donc Entamoeba estolytica et Entamoeba dyspar vont se
+
+154
+00:08:39,460 --> 00:08:42,520
+présenter sous forme de trophozoïde, mais également sous
+
+155
+00:08:42,520 --> 00:08:43,340
+forme de kyste.
+
+156
+00:08:43,340 --> 00:08:48,980
+Alors qu'Entamoeba estolytica, elle a une troisième
+
+157
+00:08:48,980 --> 00:08:54,520
+forme, donc un troisième aspect morphologique, c'est
+
+158
+00:08:54,520 --> 00:08:56,440
+celui de la forme hématophage.
+
+159
+00:08:56,860 --> 00:08:59,780
+Et qui dit hématophage, dit une forme capable
+
+160
+00:08:59,780 --> 00:09:03,080
+de phagociter les globules rouges, d'où son
+
+161
+00:09:03,080 --> 00:09:04,580
+pouvoir pathogène.
+
+162
+00:09:05,000 --> 00:09:08,660
+Et ce pouvoir pathogène est le propre d
+
+163
+00:09:08,660 --> 00:09:10,320
+'Entamoeba estolytica.
+
+164
+00:09:11,240 --> 00:09:14,940
+Pour Entamoeba estolytica et Entamoeba dyspar, il se
+
+165
+00:09:14,940 --> 00:09:16,420
+présente sous forme de trophozoïde.
+
+166
+00:09:16,500 --> 00:09:18,160
+C'est quoi le trophozoïde ?
+
+167
+00:09:18,160 --> 00:09:20,980
+C'est une forme végétative que vous voyez
+
+168
+00:09:20,980 --> 00:09:23,920
+ici sur la photo.
+
+169
+00:09:24,620 --> 00:09:29,520
+Donc c'est une cellule avec une forme
+
+170
+00:09:29,520 --> 00:09:36,320
+globuleuse, mais cette forme va pouvoir se différencier
+
+171
+00:09:36,320 --> 00:09:39,000
+pour nous donner un pseudopode.
+
+172
+00:09:39,000 --> 00:09:45,000
+Donc c'est une cellule avec un endoplasme,
+
+173
+00:09:45,940 --> 00:09:49,300
+c'est ça l'endoplasme, granuleux contenant la
+
+174
+00:09:49,300 --> 00:09:53,900
+vacuole, les amides, l'amidon, les bactéries, mais
+
+175
+00:09:53,900 --> 00:09:55,040
+également le noyau.
+
+176
+00:09:55,700 --> 00:09:59,700
+Et une partie hyaline à l'origine de
+
+177
+00:09:59,700 --> 00:10:02,760
+la formation du pseudopode qui donne à l
+
+178
+00:10:02,760 --> 00:10:10,660
+'amide sa possibilité de se propager selon un
+
+179
+00:10:10,660 --> 00:10:13,800
+mouvement unidirectionnel.
+
+180
+00:10:14,380 --> 00:10:18,560
+Cette forme végétative vivante se déplace, elle est
+
+181
+00:10:18,560 --> 00:10:21,360
+mobile grâce à des pseudopodes, elle mesure 10
+
+182
+00:10:21,360 --> 00:10:24,760
+à 15 microns, et c'est une forme
+
+183
+00:10:24,760 --> 00:10:28,440
+petite, c'est pourquoi on l'appelle forme
+
+184
+00:10:28,440 --> 00:10:29,220
+munita.
+
+185
+00:10:33,040 --> 00:10:37,100
+Le trophozoïde, c'est la forme végétative, se
+
+186
+00:10:37,100 --> 00:10:41,800
+déplaçant grâce à un pseudopode, elle est constituée
+
+187
+00:10:41,800 --> 00:10:45,740
+par un cytoplasme, et le cytoplasme compte l
+
+188
+00:10:45,740 --> 00:10:49,480
+'endoplasme, qui est granuleux, qui contient le noyau,
+
+189
+00:10:49,560 --> 00:10:54,200
+les vacuoles digestives, les débris alimentaires, bactéries, levures,
+
+190
+00:10:54,300 --> 00:10:54,520
+etc.
+
+191
+00:10:54,960 --> 00:10:58,140
+Et l'ectoplasme, c'est la partie hyaline,
+
+192
+00:10:58,360 --> 00:11:02,580
+claire, réfrigérante, qui est à l'origine de
+
+193
+00:11:02,580 --> 00:11:05,600
+la formation d'un semblant de pied.
+
+194
+00:11:05,600 --> 00:11:07,840
+Le pseudopode, c'est un semblant, c'est
+
+195
+00:11:07,840 --> 00:11:10,640
+une structure qui ressemble à un pied, et
+
+196
+00:11:10,640 --> 00:11:15,120
+donc l'amide va se propager, va propulser
+
+197
+00:11:15,120 --> 00:11:21,760
+l'endoplasme granuleux dans l'ectoplasme hyaline, et
+
+198
+00:11:21,760 --> 00:11:24,920
+c'est comme ça qu'il va se
+
+199
+00:11:24,920 --> 00:11:26,940
+propulser en avant, et puis il va se
+
+200
+00:11:26,940 --> 00:11:31,860
+rétracter, puis il fait sortir le pseudopode, il
+
+201
+00:11:31,860 --> 00:11:35,380
+fait propulser son endoplasme, puis il fait sortir
+
+202
+00:11:35,380 --> 00:11:40,520
+une nouvelle fois un nouveau pseudopode pour se
+
+203
+00:11:40,520 --> 00:11:43,320
+propager et se diriger dans une seule direction.
+
+204
+00:11:44,020 --> 00:11:48,020
+Le noyau, comme vous pouvez le voir ici,
+
+205
+00:11:48,480 --> 00:11:51,260
+il est caractérisé par un cariozome central, c
+
+206
+00:11:51,260 --> 00:11:56,160
+'est ça, et d'une chromatine disposée de
+
+207
+00:11:56,160 --> 00:12:01,680
+manière régulière, on liserait en pointillés, en chapelets.
+
+208
+00:12:19,140 --> 00:12:26,340
+Alors, la deuxième forme parasitaire d'Ontaméba estolytica,
+
+209
+00:12:26,960 --> 00:12:29,960
+au même titre qu'Ontaméba dispare, c'est
+
+210
+00:12:29,960 --> 00:12:30,560
+le kyste.
+
+211
+00:12:31,260 --> 00:12:36,240
+Le kyste, c'est une forme sphérique, réfrigérante,
+
+212
+00:12:36,400 --> 00:12:39,280
+incolore, qui est une forme sphérique, entourée de
+
+213
+00:12:39,280 --> 00:12:42,660
+parois minces, il mesure 10 à 15 microns
+
+214
+00:12:42,660 --> 00:12:46,720
+de diamètre, il est doté de 1 à
+
+215
+00:12:46,720 --> 00:12:49,560
+4 noyaux, donc quand il est à 4
+
+216
+00:12:49,560 --> 00:12:54,920
+noyaux, il est mûr, il contient un corps
+
+217
+00:12:54,920 --> 00:12:56,600
+chromatoïde, c'est ce que vous voyez là,
+
+218
+00:12:56,720 --> 00:13:00,200
+mais c'est beaucoup plus clair ici, après
+
+219
+00:13:00,200 --> 00:13:07,140
+coloration, qui est à bout arrondi, et le
+
+220
+00:13:07,140 --> 00:13:13,240
+kyste, il mâture, contient une vacuole, avec un
+
+221
+00:13:13,240 --> 00:13:16,100
+ou deux noyaux, qui sont plus grands.
+
+222
+00:13:17,140 --> 00:13:18,180
+Alors, ce qu'il faut retenir, c'est
+
+223
+00:13:18,180 --> 00:13:20,720
+que ce kyste-là est éliminé avec l
+
+224
+00:13:20,720 --> 00:13:27,970
+'aisselle, il assure la décimination et la propagation
+
+225
+00:13:28,970 --> 00:13:31,090
+de l'infection dans la population.
+
+226
+00:13:31,810 --> 00:13:34,330
+Le kyste, comme son nom l'indique, c
+
+227
+00:13:34,330 --> 00:13:36,850
+'est une forme de résistance et d'infestation,
+
+228
+00:13:36,850 --> 00:13:38,650
+et donc l'élément d'infestation dans l
+
+229
+00:13:38,650 --> 00:13:40,970
+'amygdase, c'est le kyste, et non pas
+
+230
+00:13:40,970 --> 00:13:43,430
+la forme végétative, parce que la forme végétative
+
+231
+00:13:43,430 --> 00:13:47,550
+reste fragile, et elle est facilement détruite.
+
+232
+00:13:49,570 --> 00:13:54,750
+Ontaméba histolytica histolytica, c'est également ontaméba histolytica
+
+233
+00:13:54,750 --> 00:14:00,830
+hématophage, c'est la forme virulente, elle est
+
+234
+00:14:00,830 --> 00:14:05,190
+de taille plus grande, jusqu'à 40 microns,
+
+235
+00:14:05,950 --> 00:14:09,930
+très mobile à l'état frais, grâce au
+
+236
+00:14:09,930 --> 00:14:13,250
+pseudopode toujours, il a le même aspect général
+
+237
+00:14:13,250 --> 00:14:17,610
+de la forme muta, mais en plus, il
+
+238
+00:14:17,610 --> 00:14:22,570
+contient à l'intérieur de son endoplasme, des
+
+239
+00:14:22,570 --> 00:14:25,730
+hématites phagocytées, comme vous pouvez le voir sur
+
+240
+00:14:25,730 --> 00:14:30,130
+la photo, des hématites, voilà, ça c'est
+
+241
+00:14:30,130 --> 00:14:32,130
+le noyau, mais ça c'est des hématites
+
+242
+00:14:32,130 --> 00:14:34,170
+à un nucléaire qui sont phagocytées.
+
+243
+00:14:34,870 --> 00:14:39,290
+Alors, ontaméba histolytica hématophage, sa caractéristique, c'est
+
+244
+00:14:39,290 --> 00:14:42,970
+qu'elle est dotée d'enzymes protéolytiques assurant
+
+245
+00:14:42,970 --> 00:14:46,310
+la pénétration tessulaire, c'est la forme virulente,
+
+246
+00:14:46,470 --> 00:14:50,010
+pathogène, à l'origine de tous les tableaux
+
+247
+00:14:50,010 --> 00:14:53,170
+cliniques qu'on verra tout à l'heure.
+
+248
+00:14:54,950 --> 00:14:59,090
+Alors, sur cette diapositive, vous avez des schémas
+
+249
+00:14:59,090 --> 00:15:02,690
+qui vous montrent des schémas légendaires qui vous
+
+250
+00:15:02,690 --> 00:15:04,510
+montrent un petit peu le détail et les
+
+251
+00:15:04,510 --> 00:15:09,010
+organites qu'on retrouve chez l'AMIP.
+
+252
+00:15:09,250 --> 00:15:14,510
+Voilà, le trophozoïde mobile avec une seule cellule
+
+253
+00:15:14,510 --> 00:15:17,930
+d'une quinzaine voire une vingtaine de microns
+
+254
+00:15:17,930 --> 00:15:22,150
+avec un endoplasme granuleux qui contient le noyau,
+
+255
+00:15:22,610 --> 00:15:25,870
+les débris alimentaires, la partie hyaline à l
+
+256
+00:15:25,870 --> 00:15:27,590
+'origine de la formation du pseudopode.
+
+257
+00:15:27,930 --> 00:15:29,670
+Ça, c'est le prékyste et ça, c
+
+258
+00:15:29,670 --> 00:15:32,830
+'est le kyste mûr à quatre noyaux.
+
+259
+00:15:33,370 --> 00:15:35,470
+Et puis là, vous avez l'ontaméba-histodicyca
+
+260
+00:15:35,470 --> 00:15:40,410
+-histodicyca ou l'ontaméba-histodicyca-hématophage.
+
+261
+00:15:40,530 --> 00:15:42,270
+Donc, quand on répète histodicyca deux fois, ça
+
+262
+00:15:42,270 --> 00:15:43,750
+veut dire que c'est hématophage.
+
+263
+00:15:44,210 --> 00:15:46,030
+Vous voyez qu'il est de plus grande
+
+264
+00:15:46,030 --> 00:15:50,150
+taille, quarantaine de microns, avec un endoplasme qui
+
+265
+00:15:50,150 --> 00:15:52,910
+contient en plus du noyau, des vacuoles, des
+
+266
+00:15:52,910 --> 00:15:55,710
+débris alimentaires, des bactéries, des levures.
+
+267
+00:15:55,870 --> 00:15:57,850
+Il contient des hématites phalcocytes.
+
+268
+00:15:58,610 --> 00:16:04,930
+Bien sûr, cette amibe a un pouvoir envahisseur
+
+269
+00:16:04,930 --> 00:16:10,770
+grâce aux enzymes qui lui permettent de pénétrer
+
+270
+00:16:10,770 --> 00:16:12,390
+les tissus.
+
+271
+00:16:16,150 --> 00:16:17,350
+La biologie de l'amibe.
+
+272
+00:16:17,610 --> 00:16:21,470
+Alors, l'ontaméba-histodicyca se déplace à 37
+
+273
+00:16:21,470 --> 00:16:26,370
+degrés selon des mouvements améboïdes rapides dans une
+
+274
+00:16:26,370 --> 00:16:29,810
+seule direction, unidirectionnelle des formes végétatives.
+
+275
+00:16:30,350 --> 00:16:32,630
+Elle se nourrit par osmose et phalcocytose.
+
+276
+00:16:32,770 --> 00:16:36,270
+L'ontaméba-histodicyca se nourrit de bactéries, de
+
+277
+00:16:36,270 --> 00:16:36,910
+grains d'amidon.
+
+278
+00:16:37,090 --> 00:16:40,130
+L'ontaméba-histodicyca-histodicyca-hématophage, en plus, peut
+
+279
+00:16:40,130 --> 00:16:41,830
+ingérer des globules rouges.
+
+280
+00:16:42,550 --> 00:16:44,250
+J'espère que vous l'avez très bien
+
+281
+00:16:44,250 --> 00:16:44,690
+retenu.
+
+282
+00:16:45,070 --> 00:16:47,770
+Pour la forme munita, donc l'amibe de
+
+283
+00:16:47,770 --> 00:16:51,250
+petite taille, l'ontaméba-histodicyca-munita de petite
+
+284
+00:16:51,250 --> 00:16:53,890
+taille, on va la retrouver à la surface
+
+285
+00:16:53,890 --> 00:16:56,030
+du sécum et à la surface du côlon
+
+286
+00:16:56,030 --> 00:16:56,330
+droit.
+
+287
+00:16:56,690 --> 00:16:58,770
+Alors que les kystes vont se former dans
+
+288
+00:16:58,770 --> 00:17:01,350
+la lumière colique, ils sont éliminés avec l
+
+289
+00:17:01,350 --> 00:17:01,690
+'effet C.
+
+290
+00:17:01,790 --> 00:17:03,589
+Au même titre que la forme munita, tous
+
+291
+00:17:03,589 --> 00:17:06,150
+les deux vont être éliminés avec l'effet
+
+292
+00:17:06,150 --> 00:17:06,250
+C.
+
+293
+00:17:07,190 --> 00:17:10,490
+L'ontaméba-histodicyca-hématophage est très mobile, très
+
+294
+00:17:10,490 --> 00:17:11,050
+agressive.
+
+295
+00:17:11,750 --> 00:17:13,569
+Elle vit chez l'homme dans la paroi
+
+296
+00:17:13,569 --> 00:17:13,990
+colique.
+
+297
+00:17:14,210 --> 00:17:16,810
+À l'intérieur de la paroi colique, elle
+
+298
+00:17:16,810 --> 00:17:19,010
+va s'attaquer à la muqueuse et la
+
+299
+00:17:19,010 --> 00:17:22,030
+sous-muqueuse et dans les tissus également et
+
+300
+00:17:22,030 --> 00:17:24,170
+donc dans n'importe quel organe, tel que
+
+301
+00:17:24,170 --> 00:17:27,190
+le foie, le cerveau, le poumon ou autre.
+
+302
+00:17:27,530 --> 00:17:30,650
+Elle pénètre grâce à des enzymes protéolytiques provoquant
+
+303
+00:17:30,650 --> 00:17:33,270
+des micro-abcès et va se retrouver également
+
+304
+00:17:33,270 --> 00:17:34,650
+dans les celles dysentériques.
+
+305
+00:17:35,030 --> 00:17:38,490
+Alors la forme végétative, les formes végétatives sont
+
+306
+00:17:38,490 --> 00:17:40,890
+fragiles et sont facilement détruites, comme je viens
+
+307
+00:17:40,890 --> 00:17:42,870
+de le dire, alors que les kystes sont
+
+308
+00:17:42,870 --> 00:17:45,830
+les agents infestants.
+
+309
+00:17:45,930 --> 00:17:49,810
+Ce sont des éléments infestants et de résistance
+
+310
+00:17:49,810 --> 00:17:51,710
+et de propagation maladive.
+
+311
+00:17:52,390 --> 00:17:54,770
+Nous arrivons maintenant au cycle évolutif.
+
+312
+00:17:54,870 --> 00:17:56,710
+Le réservoir du parasite n'est autre que
+
+313
+00:17:56,710 --> 00:17:56,950
+l'homme.
+
+314
+00:17:57,490 --> 00:17:59,590
+C'est une lamine, elle est spécifique à
+
+315
+00:17:59,590 --> 00:18:01,090
+l'homme, ne peut se développer, ne peut
+
+316
+00:18:01,090 --> 00:18:03,790
+accomplir son cycle de développement, ne peut se
+
+317
+00:18:03,790 --> 00:18:06,230
+multiplier que chez l'homme, donc c'est
+
+318
+00:18:06,230 --> 00:18:07,570
+un parasite obligatoire.
+
+319
+00:18:07,790 --> 00:18:10,790
+Son cycle est direct, de type monoxyme, un
+
+320
+00:18:10,790 --> 00:18:11,190
+seul autre.
+
+321
+00:18:11,730 --> 00:18:14,710
+L'homme s'infeste et s'infecte, comme
+
+322
+00:18:14,710 --> 00:18:18,490
+vous voulez, en ingérant des kystes mûrs infestants.
+
+323
+00:18:19,110 --> 00:18:21,830
+Alors son cycle de développement, si vous voulez,
+
+324
+00:18:22,050 --> 00:18:29,570
+on peut les subdiviser en deux.
+
+325
+00:18:29,630 --> 00:18:31,070
+Vous avez le cycle non-pathogène.
+
+326
+00:18:31,250 --> 00:18:31,910
+Qu'est-ce que ça veut dire un
+
+327
+00:18:31,910 --> 00:18:32,730
+cycle non-pathogène?
+
+328
+00:18:32,830 --> 00:18:34,090
+Ça veut dire que c'est un cycle
+
+329
+00:18:34,090 --> 00:18:39,890
+qui va nous donner qui va donner à
+
+330
+00:18:39,890 --> 00:18:42,210
+l'amibe la possibilité d'augmenter son nombre,
+
+331
+00:18:42,930 --> 00:18:43,190
+d'accord?
+
+332
+00:18:44,310 --> 00:18:50,350
+Toujours dans la lumière colique, mais sans s
+
+333
+00:18:50,350 --> 00:18:53,170
+'attaquer ni à la muqueuse, ni à la
+
+334
+00:18:53,170 --> 00:18:54,870
+sous-muqueuse, ni aux organes.
+
+335
+00:18:55,450 --> 00:18:57,990
+C'est un cycle permettant à l'amibe
+
+336
+00:18:57,990 --> 00:18:59,770
+uniquement d'augmenter son nombre.
+
+337
+00:19:01,770 --> 00:19:03,750
+Donc c'est ce qu'on appelle l
+
+338
+00:19:03,750 --> 00:19:06,210
+'amibiase infestation ou l'amibiase infection.
+
+339
+00:19:06,530 --> 00:19:06,810
+C'est quoi?
+
+340
+00:19:07,450 --> 00:19:10,890
+C'est lorsque l'homme ingère un kyste
+
+341
+00:19:10,890 --> 00:19:12,010
+mûr à quatre noyaux.
+
+342
+00:19:13,350 --> 00:19:15,810
+Ce kyste résiste au sucre gastrique.
+
+343
+00:19:16,330 --> 00:19:19,810
+Il va se défaire de sa paroi kystique
+
+344
+00:19:19,810 --> 00:19:21,410
+dans la lumière colique, c'est-à-dire
+
+345
+00:19:21,410 --> 00:19:24,170
+qu'il va se libérer, il va libérer
+
+346
+00:19:24,170 --> 00:19:27,610
+une petite amibe à quatre noyaux, un quadranucléaire
+
+347
+00:19:27,610 --> 00:19:29,730
+qui devient mobile, et par la suite, il
+
+348
+00:19:29,730 --> 00:19:32,170
+y aura division des noyaux pour avoir une
+
+349
+00:19:32,170 --> 00:19:33,490
+cellule à huit noyaux.
+
+350
+00:19:33,690 --> 00:19:36,310
+C'est ce qu'on appelle une étape
+
+351
+00:19:36,310 --> 00:19:37,090
+intermédiaire.
+
+352
+00:19:38,250 --> 00:19:39,890
+C'est un niveau intermédiaire.
+
+353
+00:19:41,230 --> 00:19:43,730
+Et puis, à partir de là, chaque noyau
+
+354
+00:19:43,730 --> 00:19:45,210
+va s'entourer d'une petite portion de
+
+355
+00:19:45,210 --> 00:19:47,670
+cytoplasme et d'une petite portion de membrane
+
+356
+00:19:47,670 --> 00:19:50,470
+cytoplasmique pour donner une petite amibe.
+
+357
+00:19:50,690 --> 00:19:52,510
+Et donc, on parle de huit amébules de
+
+358
+00:19:52,510 --> 00:19:54,190
+type immunitaire de petite taille.
+
+359
+00:19:54,890 --> 00:20:00,050
+Et ces petites amibes vont se diviser en
+
+360
+00:20:00,050 --> 00:20:03,270
+deux, divisées en binaires pour augmenter le nombre.
+
+361
+00:20:03,490 --> 00:20:06,370
+Et donc, on aura plusieurs multiplications binaires pour
+
+362
+00:20:06,370 --> 00:20:07,130
+augmenter le nombre.
+
+363
+00:20:07,590 --> 00:20:09,830
+Et puis, après plusieurs cycles de multiplication, l
+
+364
+00:20:09,830 --> 00:20:13,810
+'amibe va s'immobiliser, arrêter de bouger, va
+
+365
+00:20:13,810 --> 00:20:15,570
+s'arrondir et puis s'entourer d'une
+
+366
+00:20:15,570 --> 00:20:17,850
+membrane kystique pour donner lieu à un kyste
+
+367
+00:20:17,850 --> 00:20:20,610
+qui va être éliminé de façon irrégulière avec
+
+368
+00:20:20,610 --> 00:20:21,110
+les sèmes.
+
+369
+00:20:21,550 --> 00:20:23,890
+Et donc, les kystes et les formes végétatives,
+
+370
+00:20:24,270 --> 00:20:26,730
+munita, sont éliminés avec les sèmes.
+
+371
+00:20:27,570 --> 00:20:29,650
+Les kystes, c'est la forme de résistance
+
+372
+00:20:29,650 --> 00:20:32,710
+et de contamination, comme on peut le voir
+
+373
+00:20:32,710 --> 00:20:33,610
+sur ce schéma-là.
+
+374
+00:20:34,090 --> 00:20:35,950
+Et donc, l'homme à l'origine de
+
+375
+00:20:35,950 --> 00:20:38,090
+la consommation de l'eau, contaminé par ces
+
+376
+00:20:38,090 --> 00:20:41,450
+kystes mûres, infestants, ou bien légumes ou fruits,
+
+377
+00:20:42,510 --> 00:20:44,170
+ou même un contact direct par les mains
+
+378
+00:20:44,170 --> 00:20:47,090
+sales, il va ingérer ces kystes qui résistent
+
+379
+00:20:47,090 --> 00:20:48,090
+au sucre gastrique.
+
+380
+00:20:49,250 --> 00:20:51,730
+Mais au niveau du collant, ils vont se
+
+381
+00:20:51,730 --> 00:20:53,670
+dékyster et c'est à ce niveau-là
+
+382
+00:20:53,670 --> 00:20:54,630
+qu'on aura quoi?
+
+383
+00:20:55,030 --> 00:20:59,210
+On aura l'amibe à quatre noyaux, puis
+
+384
+00:20:59,210 --> 00:21:00,290
+à huit noyaux.
+
+385
+00:21:01,190 --> 00:21:01,290
+D'accord?
+
+386
+00:21:01,670 --> 00:21:04,110
+Et à partir de là, l'amibe va
+
+387
+00:21:04,110 --> 00:21:06,450
+libérer huit petites amibes.
+
+388
+00:21:07,150 --> 00:21:09,450
+Huit petites amibes.
+
+389
+00:21:10,570 --> 00:21:13,870
+Huit petites amibes comme celle-ci, qui va
+
+390
+00:21:13,870 --> 00:21:14,850
+augmenter de taille.
+
+391
+00:21:15,290 --> 00:21:15,850
+Elle est mobile.
+
+392
+00:21:16,330 --> 00:21:18,070
+Elle se déplace grâce à son pseudopode.
+
+393
+00:21:18,070 --> 00:21:20,190
+Elle va dans une seule direction, mais chaque
+
+394
+00:21:20,190 --> 00:21:21,890
+amibe va se diviser en deux par une
+
+395
+00:21:21,890 --> 00:21:25,210
+division binaire pour donner plusieurs pour augmenter le
+
+396
+00:21:25,210 --> 00:21:27,990
+nombre, parce qu'augmenter le nombre, ça fait
+
+397
+00:21:27,990 --> 00:21:30,950
+partie de la virulence, mais jusque-là, l
+
+398
+00:21:30,950 --> 00:21:32,070
+'amibe, elle est petite.
+
+399
+00:21:32,310 --> 00:21:33,770
+Elle n'est pas encore dotée d'un
+
+400
+00:21:33,770 --> 00:21:38,250
+protéolytique permettant de s'attaquer au tissu.
+
+401
+00:21:38,590 --> 00:21:40,170
+Et donc, l'amibe ne fait qu'augmenter
+
+402
+00:21:40,170 --> 00:21:40,730
+son nombre.
+
+403
+00:21:41,090 --> 00:21:44,110
+Et après plusieurs cycles, il va s'enkyster
+
+404
+00:21:44,110 --> 00:21:46,030
+pour préserver l'espèce.
+
+405
+00:21:46,590 --> 00:21:47,470
+Donc, il va s'enkyster.
+
+406
+00:21:47,790 --> 00:21:51,550
+Et le tout, amibes de petite taille, c
+
+407
+00:21:51,550 --> 00:21:53,950
+'est-à-dire qu'en taméba, munita et
+
+408
+00:21:53,950 --> 00:21:55,910
+kystes vont être éliminés avec les sels.
+
+409
+00:21:56,230 --> 00:22:00,370
+La maturation de ces kystes se fait dans
+
+410
+00:22:00,370 --> 00:22:01,370
+le milieu extérieur.
+
+411
+00:22:02,430 --> 00:22:04,970
+Donc, les amibes de petite taille et kystes
+
+412
+00:22:04,970 --> 00:22:06,730
+sont éliminés avec les sels.
+
+413
+00:22:07,090 --> 00:22:09,470
+La maturation de ces kystes se fait dans
+
+414
+00:22:09,470 --> 00:22:13,050
+le milieu extérieur selon des conditions de température,
+
+415
+00:22:13,490 --> 00:22:17,270
+d'immunité et de matière organique pour qu
+
+416
+00:22:17,270 --> 00:22:19,610
+'à la suite, il va devenir infestant.
+
+417
+00:22:20,050 --> 00:22:21,870
+Et c'est comme ça qu'un autre
+
+418
+00:22:21,870 --> 00:22:26,130
+individu pourra être contaminé lorsqu'il lui arrive
+
+419
+00:22:26,130 --> 00:22:27,790
+d'ingérer ces kystes infestants.
+
+420
+00:22:28,170 --> 00:22:32,110
+Et donc, vous voyez ici, c'est une
+
+421
+00:22:32,110 --> 00:22:34,690
+étape d'infection ou d'infestation.
+
+422
+00:22:35,750 --> 00:22:37,870
+Donc, l'homme s'infeste par le kyste,
+
+423
+00:22:38,490 --> 00:22:40,530
+mais non pas par les formes végétatives.
+
+424
+00:22:42,410 --> 00:22:46,450
+Ce kyste-là peut être mis en évidence
+
+425
+00:22:46,450 --> 00:22:47,590
+dans le milieu extérieur.
+
+426
+00:22:47,830 --> 00:22:49,330
+C'est pourquoi on met ici D, ça
+
+427
+00:22:49,330 --> 00:22:50,030
+veut dire diagnostic.
+
+428
+00:22:50,250 --> 00:22:56,110
+On peut aller le chercher dans différents milieux.
+
+429
+00:22:56,750 --> 00:22:58,530
+Mais c'est surtout, c'est une étape
+
+430
+00:22:58,530 --> 00:22:58,930
+d'infestation.
+
+431
+00:23:00,010 --> 00:23:01,210
+C'est l'élément infestant.
+
+432
+00:23:01,810 --> 00:23:03,790
+Alors, D, ça veut dire que le diagnostic
+
+433
+00:23:03,790 --> 00:23:07,030
+de l'amibiase contamination de l'amibiase infestation
+
+434
+00:23:07,030 --> 00:23:10,570
+se base sur la recherche des amibes de
+
+435
+00:23:10,570 --> 00:23:14,930
+petite taille, mais également de kystes à quatre
+
+436
+00:23:14,930 --> 00:23:15,410
+noyaux.
+
+437
+00:23:17,770 --> 00:23:20,670
+Maintenant, ça c'est le cycle non pathogène.
+
+438
+00:23:21,090 --> 00:23:22,670
+Il ne faut pas oublier qu'il existe
+
+439
+00:23:22,670 --> 00:23:26,170
+un autre cycle qui est pathogène cette fois
+
+440
+00:23:26,170 --> 00:23:26,410
+-ci.
+
+441
+00:23:26,850 --> 00:23:29,570
+C'est lorsque l'amibe, selon des conditions
+
+442
+00:23:29,570 --> 00:23:31,390
+qu'on va détailler tout de suite, c
+
+443
+00:23:31,390 --> 00:23:35,310
+'est lorsque l'amibe lui arrive d'avoir
+
+444
+00:23:35,310 --> 00:23:38,590
+des conditions favorables et c'est comme ça
+
+445
+00:23:38,590 --> 00:23:40,150
+qu'elle va augmenter sa taille.
+
+446
+00:23:40,710 --> 00:23:44,410
+Il va se doter d'un protéolytique et
+
+447
+00:23:44,410 --> 00:23:46,370
+il va s'attaquer à la muqueuse et
+
+448
+00:23:46,370 --> 00:23:47,790
+la sous-muqueuse colique.
+
+449
+00:23:48,250 --> 00:23:49,730
+Et c'est comme ça qu'elle va
+
+450
+00:23:49,730 --> 00:23:57,630
+opérer des lésions en coup d'angle et
+
+451
+00:23:57,630 --> 00:24:00,770
+par la suite être à l'origine d
+
+452
+00:24:00,770 --> 00:24:06,710
+'une irritation et puis par la suite d
+
+453
+00:24:06,710 --> 00:24:10,930
+'une accélération du transit intestinal et c'est
+
+454
+00:24:10,930 --> 00:24:13,210
+comme ça qu'on aura l'amibiase maladie.
+
+455
+00:24:13,470 --> 00:24:17,530
+On va la discuter dans un petit moment
+
+456
+00:24:17,530 --> 00:24:19,590
+dans les tables cliniques et donc il va
+
+457
+00:24:19,590 --> 00:24:23,850
+s'attaquer à la muqueuse et la sous
+
+458
+00:24:23,850 --> 00:24:27,070
+-muqueuse et la sous-muqueuse colique mais également
+
+459
+00:24:27,070 --> 00:24:32,130
+cet amibe peut forcer les vaisseaux sanguins et
+
+460
+00:24:32,130 --> 00:24:35,790
+les vaisseaux lymphatiques pour aller ou bien par
+
+461
+00:24:35,790 --> 00:24:38,530
+contiguïté pour aller s'attaquer à d'autres
+
+462
+00:24:38,530 --> 00:24:42,710
+organes notamment le foie, le poumon, le cerveau
+
+463
+00:24:42,710 --> 00:24:44,610
+et n'importe quel organe.
+
+464
+00:24:44,730 --> 00:24:46,750
+Et donc vous voyez ici une fois au
+
+465
+00:24:46,750 --> 00:24:52,090
+niveau hépatique pulmonaire ou cérébral, l'amibe va
+
+466
+00:24:52,090 --> 00:24:58,650
+donner des micro-abcès et des lésions de
+
+467
+00:24:58,650 --> 00:25:00,910
+nécrose et l'amibe ne va pas être
+
+468
+00:25:00,910 --> 00:25:01,470
+éliminée.
+
+469
+00:25:01,790 --> 00:25:03,030
+Donc on ne peut pas aller la chercher
+
+470
+00:25:03,650 --> 00:25:10,350
+dans l'aisselle et également elle n'est
+
+471
+00:25:10,350 --> 00:25:11,910
+pas éliminée, on ne peut pas la retrouver
+
+472
+00:25:11,910 --> 00:25:14,050
+dans n'importe quel organe, dans n'importe
+
+473
+00:25:14,050 --> 00:25:17,930
+quel liquide biologique plutôt il faut chercher le
+
+474
+00:25:17,930 --> 00:25:21,050
+moyen un moyen indirect pour la mettre en
+
+475
+00:25:21,050 --> 00:25:24,590
+évidence donc I, étape infectieuse, D, étape diagnostique
+
+476
+00:25:25,050 --> 00:25:30,590
+A, amibiasis d'infection, B, maladie intestinale C,
+
+477
+00:25:30,710 --> 00:25:34,550
+maladie extra-intestinale et donc tessulaire et organique.
+
+478
+00:25:36,070 --> 00:25:39,010
+Le cycle évolutif, donc le cycle pathogène accidentel
+
+479
+00:25:39,010 --> 00:25:41,870
+sous l'influence de facteurs divers tenant à
+
+480
+00:25:41,870 --> 00:25:43,390
+l'hôte et aux parasites, c'est-à
+
+481
+00:25:43,390 --> 00:25:46,090
+-dire que lorsque l'hôte n'est plus
+
+482
+00:25:48,070 --> 00:25:53,250
+en bon état, lorsqu'il est en état
+
+483
+00:25:53,250 --> 00:25:56,750
+d'épuisement physique psychique, lorsqu'il est sous
+
+484
+00:25:56,750 --> 00:25:59,830
+antibiotiques lorsqu'il a une maladie sous-jacente
+
+485
+00:25:59,830 --> 00:26:03,130
+lorsqu'il a une colite inflammatoire ou autre
+
+486
+00:26:03,130 --> 00:26:08,630
+ceci va constituer des conditions favorables et donc
+
+487
+00:26:08,630 --> 00:26:13,490
+des facteurs favorisant le développement et l'envahissement
+
+488
+00:26:13,490 --> 00:26:14,410
+par le parasite.
+
+489
+00:26:15,070 --> 00:26:18,450
+Les formes munitacoliques se transforment cette fois-ci
+
+490
+00:26:18,450 --> 00:26:22,690
+en forme histolytica agressive par accélération des multiplications
+
+491
+00:26:22,690 --> 00:26:24,150
+et augmentation de la taille.
+
+492
+00:26:24,790 --> 00:26:28,090
+La forme histolytica hématophage pénètre dans la soumiqueuse
+
+493
+00:26:28,090 --> 00:26:30,910
+colique et va s'y multiplier et donner
+
+494
+00:26:30,910 --> 00:26:34,010
+des accès puis des foyers de nécrose ce
+
+495
+00:26:34,010 --> 00:26:36,790
+qui est caractérisé par des lésions en coup
+
+496
+00:26:36,790 --> 00:26:39,870
+d'angle ou en bouton de chemise donc
+
+497
+00:26:39,870 --> 00:26:42,690
+vous voyez ici ça c'est une coupe
+
+498
+00:26:42,690 --> 00:26:46,150
+histologique qui nous montre la présence d'amides
+
+499
+00:26:46,150 --> 00:26:49,070
+au niveau de la muqueuse et de la
+
+500
+00:26:49,070 --> 00:26:50,170
+soumiqueuse.
+
+501
+00:26:52,050 --> 00:26:54,350
+Parfois on termine par histolytica, force la paroi
+
+502
+00:26:54,350 --> 00:26:56,110
+des vaisseaux comme je l'ai expliqué tout
+
+503
+00:26:56,110 --> 00:26:58,510
+à l'heure force la paroi des vaisseaux
+
+504
+00:26:58,510 --> 00:27:00,690
+sanguins ou lymphatiques et donne des métastases à
+
+505
+00:27:00,690 --> 00:27:03,830
+localisation extra-colique pour aller atteindre d'autres
+
+506
+00:27:03,830 --> 00:27:07,290
+organes, notamment le poumon le cerveau mais surtout
+
+507
+00:27:07,290 --> 00:27:10,930
+le foie où il y aura la formation
+
+508
+00:27:10,930 --> 00:27:14,030
+de micro-abcès pouvant confluer pour donner un
+
+509
+00:27:14,030 --> 00:27:18,250
+abcès hépatique avec présence de pus de couleur
+
+510
+00:27:18,250 --> 00:27:21,110
+chocolat, c'est ce qui est vraiment caractéristique
+
+511
+00:27:21,110 --> 00:27:22,350
+de l'abcès hépatique.
+
+512
+00:27:22,730 --> 00:27:24,490
+Si l'abcès s'évacue dans la lumière
+
+513
+00:27:24,490 --> 00:27:27,750
+intestinale, on termine par histolytica histolytica c'est
+
+514
+00:27:27,750 --> 00:27:29,770
+-à-dire hématophage va retourner à la forme
+
+515
+00:27:29,770 --> 00:27:33,210
+munita, il peut regresser, faire marche arrière après
+
+516
+00:27:33,210 --> 00:27:35,010
+trois semaines, il y aura la fin de
+
+517
+00:27:35,010 --> 00:27:37,690
+la crise amibienne et l'élimination des kystes
+
+518
+00:27:37,690 --> 00:27:42,030
+avec les cerves Sur le plan épidémiologique l
+
+519
+00:27:42,030 --> 00:27:44,310
+'amibiase est une maladie liée au péril fécal
+
+520
+00:27:44,310 --> 00:27:47,350
+humain sa transmission peut être directe par les
+
+521
+00:27:47,350 --> 00:27:49,650
+mains sales ou de façon indirecte par l
+
+522
+00:27:49,650 --> 00:27:52,110
+'eau et les éléments souillés ou même par
+
+523
+00:27:52,110 --> 00:27:54,750
+les mouches, par des pratiques sexuelles orales et
+
+524
+00:27:54,750 --> 00:27:58,190
+anales perverses qui représentent un facteur de risque
+
+525
+00:27:58,190 --> 00:28:01,270
+de transmission C'est une parasitose cosmopolite qui
+
+526
+00:28:01,270 --> 00:28:03,050
+existe un peu partout dans le monde, mais
+
+527
+00:28:03,050 --> 00:28:05,450
+qui est endémique, qui existe avec une grande
+
+528
+00:28:05,450 --> 00:28:08,510
+incidence dans les pays chauds et humides notamment
+
+529
+00:28:08,510 --> 00:28:11,990
+dans les régions tropicales et subtropicales Sa prévalence
+
+530
+00:28:11,990 --> 00:28:14,570
+mondiale, elle est de 50 millions de cas
+
+531
+00:28:14,570 --> 00:28:17,630
+qui sont enregistrés chaque année mais en Thaméba
+
+532
+00:28:17,630 --> 00:28:20,490
+Dispar, qui est une amib qui lui ressemble,
+
+533
+00:28:21,070 --> 00:28:23,430
+est beaucoup plus grande parce que sa prévalence
+
+534
+00:28:23,430 --> 00:28:27,410
+avoisine 500 millions de porteurs 500 millions chaque
+
+535
+00:28:27,410 --> 00:28:30,510
+année Malheureusement, la mortalité qui est liée à
+
+536
+00:28:30,510 --> 00:28:36,650
+l'amibiase avoisine 40 000 jusqu'à 100
+
+537
+00:28:36,650 --> 00:28:39,990
+000 décès par an et donc c'est
+
+538
+00:28:39,990 --> 00:28:43,630
+quand même l'amibiase représente une maladie parasitaire
+
+539
+00:28:43,630 --> 00:28:47,870
+qui occasionne un taux de morbidité et de
+
+540
+00:28:47,870 --> 00:28:50,430
+mortalité considérable.
+
+541
+00:28:50,870 --> 00:28:57,230
+Cette maladie est fréquente en Afrique Cette cardiographie
+
+542
+00:28:57,230 --> 00:29:01,450
+nous montre la répartition la distribution de l
+
+543
+00:29:01,450 --> 00:29:03,310
+'amibiase à travers le monde ce que vous
+
+544
+00:29:03,310 --> 00:29:08,210
+voyez en rose ou marron clair, ce sont
+
+545
+00:29:08,210 --> 00:29:10,210
+les ondes d'endémie donc vous voyez que
+
+546
+00:29:10,210 --> 00:29:14,450
+l'amibiase existe en Amérique centrale, en Amérique
+
+547
+00:29:14,450 --> 00:29:19,710
+latine au sud de l'Europe, mais surtout
+
+548
+00:29:19,710 --> 00:29:24,250
+en Asie le sud de l'Asie et
+
+549
+00:29:24,250 --> 00:29:26,770
+en Afrique et ce que vous voyez en
+
+550
+00:29:26,770 --> 00:29:29,430
+rouge, ce sont les foyers les principaux foyers
+
+551
+00:29:29,430 --> 00:29:33,190
+endémiques et notamment en Asie, le sud-est
+
+552
+00:29:33,190 --> 00:29:39,310
+asiatique au Moyen-Orient en Afrique tropicale, subtropicale
+
+553
+00:29:39,310 --> 00:29:45,570
+et en Amérique centrale Les facteurs qui prédisposent
+
+554
+00:29:45,570 --> 00:29:49,110
+à l'amibiase alors l'amibiase ce qu
+
+555
+00:29:49,110 --> 00:29:50,850
+'il faut savoir c'est qu'elle dépend
+
+556
+00:29:50,850 --> 00:29:54,550
+de la réceptivité ou de la résistance de
+
+557
+00:29:54,550 --> 00:29:56,290
+l'homme ou bien il est très réceptif,
+
+558
+00:29:56,530 --> 00:29:58,770
+donc il est tellement faible qu'il va
+
+559
+00:29:58,770 --> 00:30:01,450
+accepter d'être envahi, d'être parasité par
+
+560
+00:30:01,450 --> 00:30:04,810
+l'amib ou bien il va ériger une
+
+561
+00:30:04,810 --> 00:30:10,590
+certaine résistance en mettant en route un système
+
+562
+00:30:10,590 --> 00:30:13,750
+immunitaire de défense et ça dépend également de
+
+563
+00:30:13,750 --> 00:30:15,590
+la virulence de la souche amibienne parce que
+
+564
+00:30:15,590 --> 00:30:17,690
+la souche amibienne, ça veut dire que l
+
+565
+00:30:17,690 --> 00:30:19,570
+'amib c'est l'espèce, en tant qu
+
+566
+00:30:19,570 --> 00:30:22,430
+'amib estolicica mais vous avez plusieurs souches comme
+
+567
+00:30:22,430 --> 00:30:26,730
+la souche de la race humaine, donc je
+
+568
+00:30:26,730 --> 00:30:28,090
+fais le parallèle c'est juste pour vous
+
+569
+00:30:28,090 --> 00:30:32,290
+expliquer la race humaine, donc l'homme existe
+
+570
+00:30:32,290 --> 00:30:34,630
+sur tous les continents, mais vous avez la
+
+571
+00:30:34,630 --> 00:30:39,130
+race africaine la race européenne, la race asiatique
+
+572
+00:30:39,690 --> 00:30:39,990
+etc.
+
+573
+00:30:40,370 --> 00:30:42,550
+donc ça vait très bien et donc ce
+
+574
+00:30:42,550 --> 00:30:46,350
+sont des souches, vous avez une souche américaine,
+
+575
+00:30:46,650 --> 00:30:48,650
+souche asiatique, souche africaine ça dépend de la
+
+576
+00:30:48,650 --> 00:30:50,730
+souche amibienne qui circule, donc il y en
+
+577
+00:30:50,730 --> 00:30:54,770
+a qui sont virulentes, moins virulentes ou très
+
+578
+00:30:54,770 --> 00:30:58,450
+virulentes, et ça dépend également des facteurs physiques
+
+579
+00:30:58,450 --> 00:31:02,550
+et psychiques, le climat intervient également parce que
+
+580
+00:31:03,410 --> 00:31:08,030
+le milieu extérieur, donc la température, l'immunité
+
+581
+00:31:08,670 --> 00:31:14,310
+ils sont des facteurs déterminant la maturation des
+
+582
+00:31:14,310 --> 00:31:16,790
+kystes dans le milieu extérieur, et donc c
+
+583
+00:31:16,790 --> 00:31:19,010
+'est pendant l'été que nous retrouvons, que
+
+584
+00:31:19,010 --> 00:31:22,090
+nous diagnostiquons beaucoup plus de cas d'amibiase
+
+585
+00:31:22,090 --> 00:31:24,370
+parce que c'est à ce moment là
+
+586
+00:31:24,370 --> 00:31:26,510
+que les conditions favorables sont perdues.
+
+587
+00:31:27,510 --> 00:31:29,550
+Alors sur le plan clinique on distingue l
+
+588
+00:31:29,550 --> 00:31:33,030
+'amibiase infestation, dite encore l'amibiase infection, elle
+
+589
+00:31:33,030 --> 00:31:35,990
+est due aux formes coliques, c'est à
+
+590
+00:31:35,990 --> 00:31:39,290
+dire les formes végétatives de petite taille, qui
+
+591
+00:31:39,290 --> 00:31:43,430
+colonisent le colon on les retrouve sur la
+
+592
+00:31:43,430 --> 00:31:46,930
+paroi colique, au niveau de la lumière colique
+
+593
+00:31:46,930 --> 00:31:48,670
+et ils sont à leur régime d'une
+
+594
+00:31:48,670 --> 00:31:55,510
+colonisation asymptomatique sans nuisance elle concerne les sujets
+
+595
+00:31:55,510 --> 00:32:00,250
+condamnant porteurs sains, mais attention, il existe la
+
+596
+00:32:00,250 --> 00:32:02,610
+maladie, l'amibiase maladie qui est due aux
+
+597
+00:32:02,610 --> 00:32:05,670
+formes histolytiques pathogènes, provoquant des abcès et des
+
+598
+00:32:05,670 --> 00:32:07,090
+nécroses tessulaires.
+
+599
+00:32:07,650 --> 00:32:11,750
+Alors le passage de l'amibiase infection à
+
+600
+00:32:11,750 --> 00:32:15,050
+l'amibiase maladie dépend des facteurs favorisant qu
+
+601
+00:32:15,050 --> 00:32:17,590
+'on vient de citer, à savoir les facteurs
+
+602
+00:32:17,590 --> 00:32:19,830
+inhérents à l'autre, tels que la fatigue
+
+603
+00:32:19,830 --> 00:32:24,070
+le stress, les maladies intercurrentes les maladies sous
+
+604
+00:32:24,070 --> 00:32:28,410
+-jacentes, et les facteurs dépendant du parasite lui
+
+605
+00:32:28,410 --> 00:32:31,070
+-même, c'est à dire son degré de
+
+606
+00:32:31,070 --> 00:32:33,350
+virulence, son pouvoir pathogène.
+
+607
+00:32:34,930 --> 00:32:38,190
+L'amibiase intestinale donc on distingue l'amibiase
+
+608
+00:32:38,190 --> 00:32:41,790
+intestinale aiguë, tout d'abord, condamnant désentérée amibienne
+
+609
+00:32:41,790 --> 00:32:44,890
+sa durée d'incubation est de quelques semaines
+
+610
+00:32:44,890 --> 00:32:48,770
+voire quelques mois, tout dépend de cette balance
+
+611
+00:32:48,770 --> 00:32:52,470
+entre le pouvoir pathogène de la souche et
+
+612
+00:32:52,470 --> 00:32:55,010
+les moyens de défense de l'hôte, donc
+
+613
+00:32:55,010 --> 00:32:59,010
+l'hôte peut les individus se défendent de
+
+614
+00:32:59,010 --> 00:33:00,870
+manière différente, il y en a qui vont
+
+615
+00:33:00,870 --> 00:33:02,530
+résister tout le temps, ils ne vont pas
+
+616
+00:33:02,530 --> 00:33:04,470
+faire de maladie, et il y en a
+
+617
+00:33:04,470 --> 00:33:06,150
+ceux qui vont faire la maladie au bout
+
+618
+00:33:06,150 --> 00:33:08,430
+d'une semaine alors que d'autres vont
+
+619
+00:33:08,430 --> 00:33:11,510
+résister quelques mois, le temps qu'ils tombent
+
+620
+00:33:11,510 --> 00:33:15,970
+dans un état de faiblesse physique, psychique, etc.
+
+621
+00:33:16,650 --> 00:33:19,710
+Et donc le début est brutal, caractérisé par
+
+622
+00:33:19,710 --> 00:33:25,370
+un syndrome désentérique typique, c'est-à-dire
+
+623
+00:33:25,370 --> 00:33:29,770
+une polyexonération, donc le sujet est tellement irrité
+
+624
+00:33:29,770 --> 00:33:32,390
+qu'il va aller plusieurs fois à la
+
+625
+00:33:32,390 --> 00:33:35,030
+selle, donc une dizaine voire une quinzaine de
+
+626
+00:33:35,030 --> 00:33:38,530
+fois par jour, jusqu'à ce que les
+
+627
+00:33:38,530 --> 00:33:41,910
+besoins, ses besoins n'éliminent plus de sel,
+
+628
+00:33:41,990 --> 00:33:43,070
+et donc à ce moment-là qu'est
+
+629
+00:33:43,070 --> 00:33:43,550
+-ce qu'il va faire?
+
+630
+00:33:43,650 --> 00:33:45,150
+Il va éliminer de la glaire et du
+
+631
+00:33:45,150 --> 00:33:47,590
+sang, et donc il va cracher du sang
+
+632
+00:33:47,590 --> 00:33:49,470
+et de la glaire, on parle alors de
+
+633
+00:33:49,470 --> 00:33:52,850
+crachat rectal, et puis ceci est associé à
+
+634
+00:33:52,850 --> 00:33:56,270
+une fausse sensation, donc d'aller à la
+
+635
+00:33:56,270 --> 00:33:59,550
+selle, mais également à des contractions douloureuses, donc
+
+636
+00:33:59,550 --> 00:34:01,030
+des épreintes et des ténèses.
+
+637
+00:34:02,130 --> 00:34:04,150
+Ceci, il n'est pas associé à de
+
+638
+00:34:04,150 --> 00:34:06,150
+la fièvre, parce qu'en général les sujets
+
+639
+00:34:06,150 --> 00:34:08,250
+ne font pas de fièvre sauf dans le
+
+640
+00:34:08,250 --> 00:34:10,250
+tiers des cas où on peut avoir une
+
+641
+00:34:10,250 --> 00:34:11,850
+petite élévation de température.
+
+642
+00:34:12,250 --> 00:34:14,909
+L'abdomen est sensible, le toucher rectal est
+
+643
+00:34:14,909 --> 00:34:17,590
+douloureux, et l'état général, généralement, est bien
+
+644
+00:34:17,590 --> 00:34:18,570
+conservé au début.
+
+645
+00:34:19,010 --> 00:34:21,250
+Mais l'évolution peut se faire vers une
+
+646
+00:34:21,250 --> 00:34:24,290
+aggravation progressive et parfois avec des phases de
+
+647
+00:34:24,290 --> 00:34:27,750
+rémission, donc le sujet peut guérir de la
+
+648
+00:34:27,750 --> 00:34:31,530
+maladie de façon intermittente, mais les formes atténuantes
+
+649
+00:34:31,530 --> 00:34:32,469
+sont vraiment les mêmes.
+
+650
+00:34:33,510 --> 00:34:35,610
+L'amibiase chronique ce qu'il faut savoir
+
+651
+00:34:35,610 --> 00:34:37,550
+c'est qu'il y a l'amibiase
+
+652
+00:34:37,550 --> 00:34:41,630
+intestinale aiguë, mais cette amibiase peut durer dans
+
+653
+00:34:41,630 --> 00:34:45,010
+le temps avec des épisodes répétés donnant lieu
+
+654
+00:34:45,010 --> 00:34:48,250
+à une colite post-amibienne chronique marquée par
+
+655
+00:34:48,250 --> 00:34:50,510
+des douleurs plus ou moins violentes et des
+
+656
+00:34:50,510 --> 00:34:51,770
+troubles du transit.
+
+657
+00:34:52,150 --> 00:34:55,650
+La surinfection bactérienne est possible bien évidemment entraînant
+
+658
+00:34:55,650 --> 00:34:59,630
+une déshydratation rapide et surtout qui aura des
+
+659
+00:34:59,630 --> 00:35:03,690
+répercussions chez le sujet âgé et chez le
+
+660
+00:35:03,690 --> 00:35:04,330
+petit enfant.
+
+661
+00:35:04,910 --> 00:35:07,450
+Les complications de l'amibiase intestinale bien sûr
+
+662
+00:35:07,450 --> 00:35:10,490
+peuvent avoir lieu à type d'hémorragie digestive
+
+663
+00:35:10,490 --> 00:35:14,210
+malheureusement, à type d'occlusion et perforation intestinale
+
+664
+00:35:14,210 --> 00:35:16,670
+fatale qui peuvent être à l'origine de
+
+665
+00:35:16,670 --> 00:35:22,250
+complications et par la suite un décès.
+
+666
+00:35:23,050 --> 00:35:26,050
+Rarement apparaît une tumeur inflammatoire du côlon, l
+
+667
+00:35:26,050 --> 00:35:27,710
+'amibome, et donc ce qu'il faut savoir
+
+668
+00:35:27,710 --> 00:35:29,430
+c'est qu'on peut avoir une pseudo
+
+669
+00:35:29,430 --> 00:35:33,170
+-tumeur appelée amibome également lorsque l'amibiase évolue
+
+670
+00:35:33,170 --> 00:35:34,130
+chronique.
+
+671
+00:35:34,570 --> 00:35:37,950
+Alors nous arrivons à l'amibiase viscérale il
+
+672
+00:35:37,950 --> 00:35:39,230
+faut rajouter un S bien sûr.
+
+673
+00:35:39,650 --> 00:35:41,710
+Quels sont les signes cliniques de l'amibiase
+
+674
+00:35:41,710 --> 00:35:42,170
+hépatique?
+
+675
+00:35:42,390 --> 00:35:45,070
+Donc on va donner comme exemple l'amibiase
+
+676
+00:35:45,070 --> 00:35:49,250
+hépatique mais on peut avoir l'amibiase intéressant
+
+677
+00:35:49,250 --> 00:35:51,750
+d'autres organes tels que le cerveau, le
+
+678
+00:35:51,750 --> 00:35:57,010
+cœur, le poumon, la rate, etc.
+
+679
+00:35:57,530 --> 00:35:59,090
+Et donc là lorsqu'il s'agit de
+
+680
+00:35:59,090 --> 00:36:03,230
+l'amibiase hépatique, le foie représente ici la
+
+681
+00:36:03,230 --> 00:36:07,110
+principale localisation de l'amibiase extra-intestinale, dite
+
+682
+00:36:07,110 --> 00:36:09,590
+encore l'amibiase tissulaire, mais le poumon, le
+
+683
+00:36:09,590 --> 00:36:12,630
+cerveau et autres organes peuvent être concernés.
+
+684
+00:36:13,170 --> 00:36:17,070
+Les manifestations hépatiques peuvent apparaître plusieurs mois ou
+
+685
+00:36:17,070 --> 00:36:20,010
+même quelques années après la première contamination après
+
+686
+00:36:20,010 --> 00:36:23,070
+un épisode intestinal qui peut passer inaperçu ou
+
+687
+00:36:23,070 --> 00:36:27,970
+bien un épisode d'amibiase intestinale aiguë qui
+
+688
+00:36:27,970 --> 00:36:29,790
+a eu lieu quelques années ou quelques mois
+
+689
+00:36:29,790 --> 00:36:30,310
+auparavant.
+
+690
+00:36:31,010 --> 00:36:33,490
+Et le début donc l'amibiase hépatique peut
+
+691
+00:36:33,490 --> 00:36:37,490
+se développer loin de l'épisode intestinal, ça
+
+692
+00:36:37,490 --> 00:36:38,590
+il faut le savoir, attention.
+
+693
+00:36:39,230 --> 00:36:43,010
+Le début est progressif il coïncide ou comme
+
+694
+00:36:43,010 --> 00:36:45,470
+il peut ne pas coïncider avec un épisode
+
+695
+00:36:45,470 --> 00:36:48,950
+dysentérique il se caractérise par surtout ce qui
+
+696
+00:36:48,950 --> 00:36:51,950
+est ce qui devrait vous pousser à penser
+
+697
+00:36:52,250 --> 00:36:54,690
+à une amibiase hépatique, c'est quoi?
+
+698
+00:36:55,110 --> 00:36:56,690
+C'est des douleurs au niveau de l
+
+699
+00:36:56,690 --> 00:36:59,790
+'hépochondre droit, éradion vers l'épaule, la fièvre
+
+700
+00:36:59,790 --> 00:37:06,710
+précoce avec une hyperlococytose et altération de l
+
+701
+00:37:06,710 --> 00:37:08,810
+'état général avec en plus si vous avez
+
+702
+00:37:08,810 --> 00:37:12,390
+des données comme données épidémiologiques et antécédents pathologiques,
+
+703
+00:37:12,510 --> 00:37:16,730
+une amibiase intestinale Le diagnostic alors ici ça
+
+704
+00:37:16,730 --> 00:37:20,750
+dépend de l'entité devant laquelle on est
+
+705
+00:37:21,890 --> 00:37:23,650
+à laquelle on est confronté.
+
+706
+00:37:24,170 --> 00:37:27,070
+Dans le cas d'une amibiase infestation, amibiase
+
+707
+00:37:27,070 --> 00:37:31,250
+infection alors là le sujet il est colonisé
+
+708
+00:37:31,250 --> 00:37:34,770
+il héberge en Taméba et Stauritica mais uniquement
+
+709
+00:37:34,770 --> 00:37:36,750
+à l'état de Munita, donc il n
+
+710
+00:37:36,750 --> 00:37:40,110
+'est pas encore pathogène, il n'est pas
+
+711
+00:37:40,110 --> 00:37:43,230
+encore devenu pathogène, il va se multiplier et
+
+712
+00:37:43,230 --> 00:37:44,350
+puis il va s'enquister, qu'est-ce
+
+713
+00:37:44,350 --> 00:37:46,030
+qu'on retrouve au niveau des scènes, des
+
+714
+00:37:46,030 --> 00:37:49,890
+quistes et la forme Munita, ok il n
+
+715
+00:37:49,890 --> 00:37:52,430
+'est pas encore hématophage, pour qu'il devienne
+
+716
+00:37:52,430 --> 00:37:54,610
+hématophage, il faut qu'il y ait des
+
+717
+00:37:54,610 --> 00:37:58,470
+facteurs favorisants donc dépendant de l'hôte comme
+
+718
+00:37:58,470 --> 00:38:02,170
+il peut dépendre également de la souche l
+
+719
+00:38:02,170 --> 00:38:05,170
+'amide est pathogène, il a ce pouvoir pathogène
+
+720
+00:38:05,170 --> 00:38:07,090
+mais il ne l'a pas encore exercé
+
+721
+00:38:07,090 --> 00:38:11,990
+maintenant amibiase infestation et si vous voulez le
+
+722
+00:38:11,990 --> 00:38:14,610
+système immunitaire et l'organisme arrivent à se
+
+723
+00:38:14,610 --> 00:38:16,990
+défendre quand même bien comme il se doit
+
+724
+00:38:16,990 --> 00:38:21,250
+mais il va éliminer les quistes et la
+
+725
+00:38:21,250 --> 00:38:25,890
+forme petite Munita avec les scènes par contre
+
+726
+00:38:25,890 --> 00:38:29,030
+quand on est devant un épisode intestinal devant
+
+727
+00:38:29,030 --> 00:38:31,370
+une amibiase intestinale aiguë c'est à dire
+
+728
+00:38:31,370 --> 00:38:34,190
+l'amibiase maladie, qu'est-ce qu'on
+
+729
+00:38:34,190 --> 00:38:36,450
+peut retrouver au niveau des scènes, on peut
+
+730
+00:38:36,450 --> 00:38:39,070
+retrouver des quistes on peut retrouver des formes
+
+731
+00:38:39,070 --> 00:38:43,810
+de petite taille Munita mais ce qui porte
+
+732
+00:38:43,810 --> 00:38:46,030
+le diagnostic c'est la présence dans l
+
+733
+00:38:46,030 --> 00:38:51,210
+'amoeba la histolycica hématophage phagocytone des globules rouges
+
+734
+00:38:51,210 --> 00:38:56,130
+ou bien lorsqu'on trouve des antigènes des
+
+735
+00:38:56,130 --> 00:38:59,110
+coprons antigènes tels que la dysine qu'on
+
+736
+00:38:59,110 --> 00:39:04,070
+peut rechercher par des techniques au laboratoire le
+
+737
+00:39:04,070 --> 00:39:09,930
+diagnostic de l'amibiase maladie localisation extrapolique comme
+
+738
+00:39:09,930 --> 00:39:12,310
+on ne peut pas mettre en évidence le
+
+739
+00:39:12,310 --> 00:39:15,190
+parasite de façon et donc porter le diagnostic
+
+740
+00:39:15,190 --> 00:39:16,990
+de manière directe qu'est-ce qu'il
+
+741
+00:39:16,990 --> 00:39:21,530
+faut faire, il faut réaliser une sérologie à
+
+742
+00:39:21,530 --> 00:39:25,630
+la recherche d'anticorps anti-antamoeba histolycica qui
+
+743
+00:39:25,630 --> 00:39:28,630
+est le seul moyen de diagnostic de façon
+
+744
+00:39:28,630 --> 00:39:31,650
+indirecte lorsque vous avez tous ces éléments qu
+
+745
+00:39:31,650 --> 00:39:34,010
+'on vient de citer notamment dans le cas
+
+746
+00:39:34,010 --> 00:39:37,750
+d'une amibiase hépatique il faut avoir des
+
+747
+00:39:37,750 --> 00:39:39,770
+douleurs au niveau de l'épaule contre droite
+
+748
+00:39:39,770 --> 00:39:46,910
+la fièvre, l'hyperleucocytose et une imagerie en
+
+749
+00:39:46,910 --> 00:39:50,670
+faveur qui représente le diagnostic de présomption qui
+
+750
+00:39:50,670 --> 00:39:54,130
+objectif la présence d'un abcès liquidien et
+
+751
+00:39:54,130 --> 00:39:56,450
+pour étayer le diagnostic il faut rechercher les
+
+752
+00:39:56,450 --> 00:40:02,510
+anticorps anti-antamoeba histolycica le traitement c'est
+
+753
+00:40:02,510 --> 00:40:05,610
+à titre indicatif il existe des amébicides de
+
+754
+00:40:05,610 --> 00:40:08,110
+contact qui sont capables de tuer l'amide
+
+755
+00:40:08,110 --> 00:40:10,590
+qui sont actifs sur les formes Minuta et
+
+756
+00:40:10,590 --> 00:40:14,290
+Léquiste mais vous avez également les amébicides tissulaires
+
+757
+00:40:14,290 --> 00:40:17,750
+capables de tuer cette fois-ci les formes
+
+758
+00:40:17,750 --> 00:40:23,810
+Hématophage le Metronidazole si vous voulez retenir, retenez
+
+759
+00:40:23,810 --> 00:40:26,170
+le Metronidazole comme il a ses noms de
+
+760
+00:40:26,170 --> 00:40:30,610
+flagiles et qui est très utilisé dans le
+
+761
+00:40:30,610 --> 00:40:34,050
+traitement des protéines alors sur le plan prophylactique
+
+762
+00:40:34,050 --> 00:40:37,910
+bien sûr les mesures préventives se déclinent en
+
+763
+00:40:37,910 --> 00:40:40,490
+deux volets, vous avez la prophylactie individuelle qui
+
+764
+00:40:40,490 --> 00:40:43,530
+repose sur les mesures simples d'hygiène alimentaire
+
+765
+00:40:43,530 --> 00:40:45,570
+que vous savez très bien, toilettes des mains,
+
+766
+00:40:45,710 --> 00:40:47,670
+consommation de l'eau potable, lavage soigneux des
+
+767
+00:40:47,670 --> 00:40:50,290
+fruits et légumes sur le plan collectif il
+
+768
+00:40:50,290 --> 00:40:53,710
+faut stériliser le réservoir du parasite en dépistant
+
+769
+00:40:54,370 --> 00:40:57,830
+en réalisant des campagnes de dépistage mais également
+
+770
+00:40:57,830 --> 00:40:59,950
+traiter les malades, surtout traiter les malades et
+
+771
+00:40:59,950 --> 00:41:06,010
+les porteurs sains évacuer veiller à une évacuation
+
+772
+00:41:06,010 --> 00:41:09,890
+contrôlée des sèmes, des excréments, surveiller l'approvisionnement
+
+773
+00:41:09,890 --> 00:41:12,510
+en eau potable et protéger de l'eau
+
+774
+00:41:12,510 --> 00:41:15,650
+potable et bien sûr c'est comme ça
+
+775
+00:41:15,650 --> 00:41:19,470
+qu'on peut éviter de contracter la mybiase,
+
+776
+00:41:20,010 --> 00:41:23,570
+alors sur cette diapositive c'est juste un
+
+777
+00:41:23,570 --> 00:41:26,810
+tableau récapitulatif qui vous montre un petit peu
+
+778
+00:41:26,810 --> 00:41:31,990
+les amides qui sont non pathogènes par opposition
+
+779
+00:41:31,990 --> 00:41:34,230
+à la seule amide pathogène que vous voyez
+
+780
+00:41:34,230 --> 00:41:36,390
+ici, en termes d'estolizica qui est la
+
+781
+00:41:36,390 --> 00:41:39,910
+seule amide pathogène capable de phagocyter des globules
+
+782
+00:41:39,910 --> 00:41:42,290
+rouges, capable de s'attaquer aux organes et
+
+783
+00:41:42,290 --> 00:41:45,070
+aux tissus et là vous avez la forme
+
+784
+00:41:45,070 --> 00:41:51,130
+végétative et le kyste qui sont deux formes
+
+785
+00:41:53,370 --> 00:41:58,650
+du parasite qui peuvent se confondre avec la
+
+786
+00:41:58,650 --> 00:42:02,590
+forme végétative et le kyste disparait.
+
+787
+00:42:02,590 --> 00:42:05,030
+Voilà les autres c'est des amides qu
+
+788
+00:42:05,030 --> 00:42:07,390
+'on peut retrouver au niveau des sèmes et
+
+789
+00:42:07,390 --> 00:42:10,830
+une fois objectivée au niveau des sèmes lors
+
+790
+00:42:10,830 --> 00:42:15,330
+d'une analyse microscopique, ceci est le témoin
+
+791
+00:42:15,330 --> 00:42:19,230
+d'une contamination orophécale donc la présence et
+
+792
+00:42:19,230 --> 00:42:22,610
+signe de la contamination qui est liée au
+
+793
+00:42:22,610 --> 00:42:26,530
+péril fécal donc voilà ici vous avez un
+
+794
+00:42:26,530 --> 00:42:29,410
+lien qui vous permet de voir un film
+
+795
+00:42:29,410 --> 00:42:35,570
+sur Youtube si vous voulez fixer davantage les
+
+796
+00:42:35,570 --> 00:42:36,470
+notions les plus importantes

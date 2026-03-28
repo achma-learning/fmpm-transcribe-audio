@@ -1,0 +1,293 @@
+(0:07 - 0:26)
+Aujourd'hui, nous allons voir un autre chapitre du module des maladies de l'enfant. Ce module de chirurgie pédiatrique, nous allons voir les masses abdominopérviennes de l'enfant. Les masses abdominales de l'enfant sont souvent de découverte fortuite.
+
+(0:27 - 0:59)
+Leur diagnostic étiologique repose sur une évaluation des données cliniques et radiologiques. Il est avant tout nécessaire de préciser la topographie exacte de la tumeur, de la masse, rétropéritonelle, rénale ou extra-rénale, intrapéritonelle, hépatique ou extra-hépatique, ou abdominopérvienne. Donc cette localisation qui oriente déjà le diagnostic est au mieux précisée par une échographie, puis souvent par un IRM ou par un scanner abdominopérvien.
+
+(1:01 - 2:15)
+Les autres explorations sont au mieux menées au centre spécialisé et permettent de poser rapidement le diagnostic étiologique, d'effectuer le bilan d'extension et de caractériser les paramètres biologiques de la masse. La prise en charge des tumeurs ou des masses abdominales de l'enfant est une urgence qui doit être réalisée en concertation polydisciplinaire permettant de planifier les prochaines étapes diagnostiques et thérapeutiques. Pour ce chapitre, les objectifs qui vous sont attribués, c'est que vous devez être en mesure de préciser les particularités des masses abdominopérviennes de l'enfant, d'orienter le diagnostic étiologique d'une masse abdominopérvienne sur les données de la clinique et de l'échographie, de planifier la démarche diagnostique d'une masse abdominale isolée, de préciser les indications des examens complémentaires, d'établir le diagnostic et le pronostic des principales masses abdominopérviennes de l'enfant et enfin d'indiquer les principes du traitement des principales masses abdominopérviennes chez l'enfant.
+
+(2:17 - 2:41)
+Pour ce, nous allons suivre le plan avant. Après l'introduction, nous allons voir quelques généralités avant de voir le diagnostic positif de la masse, puis la démarche diagnostique étiologique, avant de conclure. En guise d'introduction, nous avons déjà un petit peu entamé.
+
+(2:48 - 3:03)
+Une masse abdominale peut être définie comme une augmentation localisée ou généralisée du volume de l'abdomen. Parfois la symptomatologie est pauvre et la découverte est systématique. Les étiologies sont multiples et variées.
+
+(3:04 - 3:29)
+La démarche diagnostique devrait être méthodique pour pouvoir asseoir le diagnostic. Et puis la prise en charge ne se conçoit que dans un cadre multidisciplinaire. Pour ce qui est des généralités, on va voir les généralités et les particularités en même temps parce que, n'oubliez pas, comme objectif, vous devez connaître les particularités des mappes chez l'enfant.
+
+(3:29 - 3:40)
+Il s'agit peut-être d'intra- ou rétro-péritoneal. Lorsqu'on dit intra-péritoneal, on dit soit hépatique, soit extra-hépatique. Rétro-péritoneal, soit rénal, soit extra-rénal.
+
+(3:40 - 3:52)
+Et puis pelvi-abdominal ou pelvien. La nature, on a dit, peut être variée, mais attention, attention, elle est dominée par l'origine tumorale. Chez l'enfant.
+
+(3:52 - 4:07)
+Et peut-être aussi de nature malformative, infectieuse ou traumatique. D'accord? Bien. Alors, parmi les autres particularités des mappes, des masses abdominopelviennes chez l'enfant, c'est qu'il n'y a aucune symptomatologie spécifique.
+
+(4:08 - 4:27)
+D'accord? Et puis, une masse de l'hypocondre droit n'est pas forcément une hépatomégalie. De même, une masse de l'hypocondre gauche n'est pas forcément une splénomégalie. D'accord? Alors, et puis, il n'y a aucune place, contrairement à ce qui se passe chez l'adulte, aucune place à la laparotomie exploratrice.
+
+(4:29 - 4:45)
+D'où l'intérêt de suivre une démarche diagnostique et théologique rigoureuse et méthodique. D'accord? Bien. Alors, pour ce qui est des diagnostics positifs de la masse, il y a certaines circonstances de découverte, de l'augmentation du volume de l'abdomen.
+
+(4:46 - 5:18)
+Parfois, c'est un tableau d'abdomen aigu, soit par rupture tumorale, soit par syndrome occlusif, soit par obstruction des voies urinaires, etc. Parfois, c'est une hématurie qui est le signe d'appel, l'hypertension artérielle, des signes de puberté précoce, et le plus, parfois, la découverte, c'est les fortuités. D'accord? Parfois, on voit les tableaux d'urgence dans lesquels peut s'exprimer une masse abdominale.
+
+(5:18 - 5:36)
+Donc, l'existence de la masse elle-même constitue, nous l'avons dit en guise de préambule tout à l'heure, la découverte d'une masse, c'est une urgence. Ce qui peut s'agir le plus souvent d'une tumeur maligne. D'accord? Donc, rien que la masse en elle-même, elle constitue une urgence diagnostique et thérapeutique.
+
+(5:36 - 5:59)
+D'accord? Parfois, c'est un abdomen lié à un syndrome occlusif, à un syndrome péritoneal, ou à une portion d'annexe. Une tumeur ovarienne peut entraîner la portion de l'ovaire. D'accord? Soit une obstruction des voies urinaires, et puis, parfois, la tumeur est au niveau périnéal.
+
+(5:59 - 6:11)
+C'est comme le cas des teratomes sacro-oxygiens. Nous allons voir tout à l'heure. Alors, la démarche diagnostique et théologique, démarche éthologique, donc, les signes cliniques.
+
+(6:11 - 6:26)
+Alors, la masse abdominale, donc, elle domine en règle le tableau clinique dont elle constitue le principal signe d'appel. Bon, il y a la masse. Et puis, il y a les circonstances classiques de la découverte, comme nous l'avons vu tout de suite.
+
+(6:27 - 6:38)
+Augmentation du volume de l'abdomen, abdomen aiguë, ématuré, hypertension, puberté précoce, parfois, forte huit. Alors, l'examen clinique. Alors, la masse, il faut un examen soigneux et prudent.
+
+(6:38 - 7:11)
+Surtout, n'allez pas toujours palper cette masse parce que vous risquez de rompre une éventuelle tumeur en grevant ainsi le pronostic, etc. D'accord? Alors, cette masse devrait être caractérisée en termes de siège, taille, par mesure des périmètres ombilicals, consistance, mobilité, le caractère unique ou multiple, la surface. Et il faut éliminer une hepatomégalie, une splénomégalie.
+
+(7:12 - 7:34)
+D'accord? Et bien, s'il faudra aussi éliminer quoi? Il peut donner le change avec une masse abdominopérienne, un fécalant, par exemple, ou bien une grossesse chez une adolescente parce qu'il peut y avoir une augmentation du volume de l'abdomen, c'est une éventuelle grossesse. Attention, toujours la puce à l'oreille. D'accord? Alors, le toucher rectal pour les masses pelvi-abdominales.
+
+(7:34 - 7:58)
+Donc, il faut les caractériser en pré-rectal lorsqu'ils sont avant du rectum, en avant du rectum, ou en pré-rectal lorsqu'ils sont derrière le rectum. Et puis, il ne faut pas oublier l'examen de la vulve à la recherche notamment d'une perforation de l'hymen ou bien d'une malformation vaginale notamment de type atrésie. La recherche de signes de compression et ou d'obstruction.
+
+(7:58 - 8:26)
+Donc, certains signes sont évidents, tels la circulation veineuse collatérale, le déplacement de l'ombilique, la varicoselle, la varicoselle étant une dilatation variqueuse des veines spermatiques. D'accord? Un nicteur, le plus souvent cholestatique. D'autres doivent être recherchés, comme l'acide, les signes neurologiques de compression midulaire ou radiculaire et les anomalies du toucher rectal.
+
+(8:29 - 8:57)
+Alors, symptômes d'appels non spécifiques, donc souvent considérés comme banals, ils conduisent à méconnaître la tumeur abdominale. Exemple, examen trop rapide de l'abdomen, enfant non revu et à retarder l'indication des examens complémentaires. Donc, la survenue de douleurs abdominales récidivantes, de sièges constants, surtout latérales, évoque une étiologie organique.
+
+(9:00 - 9:23)
+Il en est de même des troubles digestifs, caractérisés par des alternances de diarrhées et constipations, qui sont les premiers signes habituels d'un lymphomalane au notch kinien. La fièvre peut être d'origine spécifique et en règle modérée, en général 38 degrés Celsius. Elle est plus souvent d'origine infectieuse, surtout en cas de tumeur rétropéritoniel, comprimant les voies urinaires.
+
+(9:24 - 10:18)
+Les douleurs osseuses et articulaires, trop souvent encore qualifiées de douleurs de croissance, peuvent traduire la présence de métastases osseuses et médulaires et conduire à la recherche d'un neuroblastome, par exemple. Les signes d'appel directement liés à la tumeur, il y a l'hématurie, capricieuse, intermittente, est observée dans moins de 20% des néphroblastomes, et les classiques dans la tumeur de Gravitz, est parfois faussement rapportée à une gloméleuro-néphropathie. Une dissurie ou épisode de rétention aiguë d'urine ou des pertes vaginales, une constipation et ou une oncoprésie, une invagination intestinale secondaire, le développement rapide d'adénopathie périphérique ou d'une hepatose plénomégalie, un nicteur rétentionnel.
+
+(10:19 - 10:35)
+Ce sont des signes d'appel directement liés à la tumeur. Des signes endocriniens. On recherchera une tumeur sécrétante, les syndromes paranéoplasiques étant exceptionnels chez l'enfant.
+
+(10:36 - 11:13)
+Une tumeur surrénalienne en cas de virilisation, tel le cortico-sérénaland, de syndrome de Cushing, d'hypertension artérielle dans le phéochromocytome, de diarrhématrise en cas de neuroblastome. Une tumeur ovarienne, tumeur de la granulosa devant une puberté précoce, tumeur pancréatique de type adénome devant une hypoglycémie sévère. Une insuffisance cardiaque peut compliquer le développement rapide d'une tumeur vasculaire du foie chez un petit nourrisson.
+
+(11:17 - 11:45)
+Certains signes d'appel sont dits trompeurs. Les signes neurologiques, syndrome oculo-cérébelo-myoclonique de Keensburne, ataxie myoclonie, mouvement saccadé des globes oculaires, est lié à un neuroblastome dans 50% des cas. Des signes osseo-articulaires, un neuroblastome métastatique peut être révélé par un tableau de polyarthrite et parfois par des tumefactions osseuses unicomultiples.
+
+(11:46 - 12:13)
+L'infiltration de l'orbite réalise le syndrome de Hutchinson. Ce sont des zygémoses, enlorniettes et exorptalmie. Des signes généraux, la pâleur, la fatigue et la fièvre traduisent l'infiltration midulaire d'un neuroblastome ou d'une tumeur mesenchymateuse maligne et peuvent conduire à tort à évoquer une infection grave ou une hémopathie maligne.
+
+(12:14 - 12:42)
+Des nodules socutanés chez un nourrisson de moins d'un an peuvent révéler un neuroblastome parfois dans le cadre d'un syndrome de Pepper. Je rappelle que le syndrome de Pepper est une métastase nodulaire hépatique d'un neuroblastome. Il existe certaines malformations associées et de prédispositions génétiques.
+
+(12:43 - 12:58)
+La myridie, c'est-à-dire l'absence d'iris. L'aniridie congénitale sporadique isolée ou dans le cadre d'un syndrome de Wagre. Le Wagre, c'est pour la tumeur de Wilms.
+
+(12:58 - 13:24)
+La tumeur de Wilms, c'est le nephroblastome. Associé Wilms, tumeur, aniridie, anomalies génitohérinaires et retard mental ou bien dans le cadre du syndrome de Drache associant ambiguïté sexuelle glomérolopathie qui expose au risque de nephroblastome et de gonadoblastome. Des anomalies de croissance, tels le syndrome de Beckwith-Weidmann.
+
+(13:25 - 13:52)
+Il s'agit d'une dysmorphie faciale avec viscéromégalie parfois associée à une hémi-hépertrophie corporelle prédispose au nephroblastome et plus rarement au risque de cortico-sérine à l'homme d'hépatoblastome ou de neuroblastome. La neurofibromatose de type 1 aux maladies de Von Recklinghausen prédispose aux tumeurs, maisons chimateuses, embryonnaires et vasculaires. Ça, c'était les données cliniques.
+
+(13:52 - 14:04)
+Nous allons passer maintenant aux données radiologiques. Alors, les premières radiographies qu'on demande sont les radiographies sans préparation. En l'occurrence, on demandera une radiographie d'abdomen sans préparation de face et de profil.
+
+(14:05 - 14:33)
+Il va situer l'opacité tumorale par rapport à l'estomac aux onces et aux collants, souvent refoulée latéralement et en avant par rapport aux reins dont les contours sont bien visibles chez l'enfant. Des calcifications sont parfois visibles. Alors, philipoudreuse dans le neuroblastome, en coquille d'œuf dans le nephroblastome, en motte dans l'hématome surrénalien, absciforme dans l'occistidatique et organoïde dans les thératomes matures.
+
+(14:33 - 14:47)
+Donc, la structure de ces calcifications va nous orienter vers telle ou telle étiologie. Et ça ne reste que des signes d'orientation sans confirmation aucune. D'accord? Bien.
+
+(14:50 - 15:31)
+En cas d'atteinte lithique osseuse, notamment au niveau des côtes et des pelvis, et au délargissement des trous de conjugaison, le diagnostic de neuroblastome sera rapidement évoqué. La radiographie pulmonaire, quant à elle, s'il est pratiqué d'emblée, elle peut orienter vers une tumeur maligne quand on observe une ou plusieurs images de la ventre par enchimateuse, telle qu'on voit dans les métastases de nephroblastome et de tumeur mesenchimateuse, un épanchement pleural et des adénopathies médicinales telles que l'on voit dans les lymphomes. L'échographie abdominopelvienne, c'est un examen anodin, c'est l'examen de première intention à demander.
+
+(15:31 - 15:55)
+Il va établir ou confirmer le diagnostic d'une masse abdominale, donc va éliminer un fécalon. Donc il y a son contenu liquidien dans les malformations et dans les kystes, solide dans les tumeurs, au mixe dans les thératomes et certains nephroblastomes. Il va également nous aider à préciser le siège intra-rétropéritonial au pelvien avec extension abdominale.
+
+(15:55 - 16:38)
+Il va déterminer l'origine rénale ou extra-rénale d'une masse. Il va préciser les dimensions, les rapports avec les organes, l'extension régionale, donc les tumeurs multiples, les adénopathies, la compression de la veine cave inférieure et de la veine rénale, l'infiltration diffuse au nodulaire du foie, de la rate et des reins. La tomodensitométrie au scanner abdominal, elle complète parfois les données de l'échographie et précise au mieux les rapports avec le voisinage, dépiste mieux les adénopathies loco-régionales et donne un bilan d'extension loco-régionale plus précis que la physique.
+
+(16:39 - 17:07)
+Autres examens pourront éventuellement être demandés. L'imagerie par résonance magnétique NQR abdominal, la scintigraphie à la monoiodobenzylguanidine pour le diagnostic et le bilan d'extension des neuroblastomes et puis la scintigraphie osseuse au technicium 99 pour la recherche des métastases osseuses. Le diagnostic anatomopathologique.
+
+(17:08 - 17:34)
+Donc un prélèvement de silos tumorales est nécessaire dans toute tumeur solide n'ayant pas de marqueur spécifique, sauf dans 95% des néphroblastomes. On n'est pas obligé d'avoir un diagnostic étiologique. Seule l'imagerie précise la nature de la tumeur et on démarre le traitement à la base de l'imagerie dans 95% des cas de néphroblastomes.
+
+(17:34 - 17:50)
+C'est OK pour cette... Bien. Donc en raison des données spécifiques de l'imagerie et de l'extrême rareté des autres tumeurs rénales chez le petit enfant. Une parfaite organisation est nécessaire pour ne pas compromettre les examens utiles au diagnostic et au choix de traitement.
+
+(17:51 - 18:19)
+Donc examens morphologiques classiques, immunohistochimiques, cytogénétiques et congélations pour études ultérieures en biologie moléculaire, tels que l'on fait surtout dans les néphroblastomes. Le matériel d'étude peut provenir de la tumeur primitive, soit la pièce d'exérèse concessée et possible sans mutilation et dans des conditions carcinologiques valables. Toute tumeur doit, a priori, être considérée comme maligne et opérée comme telle.
+
+(18:20 - 18:46)
+Soit, après ponction biopsychotranscutanée, sous contrôle échographique ou scanographique. En cas d'extension tumorale, le diagnostic est facilité par la mise en évidence d'une infiltration midulaire dans un neuroblastome, un lymphome ou un rhabdomyosarcoma. De cellules tumorales dans un liquide d'acide pleural ou le liquide céphalorachidien, tel que l'on voit dans les lymphomes de Burkitt.
+
+(18:47 - 19:18)
+Ou de la ponction et de la biopsie d'un ganglion ou d'un nodule accessible, tel que l'on fait dans le lymphome et le neuroblastome. Alors, pour ce qui est des diagnostics biologiques, certains dosages plasmatiques et surtout urinaires du catecholamine et de l'or métabolique établissent le diagnostic d'un neuroblastome dans 95% des cas. Il s'agit notamment de l'augmentation de la dopamine et de l'acide homovanilique et de l'acide vanillomandilique.
+
+(19:19 - 19:47)
+Donc, l'acide homovanilique et l'acide vanillomandilique. L'élévation du taux plasmatique des alpha-photoprotéines permet de porter le diagnostic des pathoblastomes et plus rarement des pathocarcinomes devant un gros foie tumorale ou de tumeurs germinales d'origine ovarienne rétropéritonielle ou sacrocoxygiennes. Donc, dans ce cas, c'est-à-dire le sacrocoxygien, la sécrétion anormale peut aussi porter sur les bêtas ACG.
+
+(19:50 - 20:44)
+Les dosages hormonaux sont indiqués par la symptomatologie clinique des tumeurs sécrétantes des glandes endocrines. Parfois, on demandera des sérologies parasitaires, notamment didactiques, dans le cadre du diagnostic différentiel et selon la localisation de la tumeur et les antécédents du patient. Alors, au vu de cette démarche, on aura la masse et les foies abdominales et dans ce cas, on devrait préciser c'est les rétropéritonielles ou bien prélevées abdominales et l'on devrait préciser c'est les prérectales ou rétrorectales et bien sûr, la masse et les foies isolées soit avec des signes d'orientation.
+
+(20:45 - 20:57)
+Ok? Alors, les éthiologies des mâts. Donc, nous avons vu les signes d'orientation. Chaque signe devrait éventuellement orienter vers une telle éthiologie.
+
+(20:57 - 21:11)
+Alors, les éthiologies des mâts abdominales viennent chez l'enfant. On va commencer par les mâts rétropéritoniels. Alors, ces mâts rétropéritoniels sont soit d'origine rénale, soit extra-rénale.
+
+(21:11 - 21:38)
+Alors, dans le rein, il y a les tumeurs surtout et parfois certaines malformations. Ok? Tel que les syndromes de jonction avérées avec une énorme distension du bassinet que l'on peut palper à l'examen clinique. Et puis lorsqu'ils sont extra-rénales, c'est surtout le neuroblastome qui peut se développer soit au dépend de la surrénale, soit au dépend des chaînes sympathiques, soit périvasculaires, soit paravertébrales.
+
+(21:38 - 21:58)
+Ok? Donc, ce neuroblastome, il est issu des cellules de la crête neurale. Bien. Donc, nous allons commencer par la tumeur rénale la plus fréquente chez l'enfant, à savoir le néthroblastome, appelé également tumeur de Wilms.
+
+(21:58 - 22:30)
+Alors, c'est une tumeur du blastème rénal fréquente entre 1 et 5 ans, caractérisée par une augmentation rapide du volume tumoral avec risque de rupture. C'est pourquoi nous avons dit tout à l'heure que parmi les circonstances découvertes, il y a l'abdomen aigu par rupture tumorale. Alors, les circonstances découvertes, soit masse abdominale, plus ou moins ématurée, hypertension artérielle, plus rarement astigmée, alteration d'état général, ou tableau d'abdomen aigu par rupture tumorale.
+
+(22:30 - 22:53)
+Alors, il y a certains facteurs ou certains syndromes qui prédisposent au néthroblastome et qui sont liés au gène WT1. Alors, le syndrome de Wagner, qu'on a vu tout à l'heure, associant Wilms, tumeur aniridie, malformation érogénitale, retard mental. Le syndrome de Dennis Drach, associant pseudohermaphrodisme, sclérose mésangiale avec crotté-neurie.
+
+(22:53 - 23:07)
+Le syndrome de Beckwith-Wiedemann, avec hypertrophie, viscéromégalie, macroglossie et hypoglycémie. Et puis, le syndrome de Perlman. Alors, l'imagerie, donc, il faut demander l'échographie abdominale.
+
+(23:08 - 23:32)
+Donc, un bon radiologue pourrait, en l'occurrence, préciser juste à l'échographie l'origine néthroblastomateuse d'une tumeur rénale. Elle est mieux caractérisée surtout par la TDM et le signe capital en imagerie du néthroblastome c'est le signe de l'éperon. Nous allons le voir en image.
+
+(23:34 - 23:57)
+Le néthroblastome réalise une masse intra-rénale solide, parfois kystique, avec de rares calcifications. Et, bien sûr, l'imagerie va étudier ces rapports, va rechercher des adénopathies et va surtout rendre compte de la perméabilité de la veine rénale et de la veine cave inférieure parce qu'ils font partie de la classification. Bien.
+
+(23:57 - 24:03)
+Ça, c'est une tumeur rénale. OK. Le signe.
+
+(24:03 - 24:13)
+Alors, tumeur rénale, réduisons le rang à une simple languette. Ici, elle est supérieure. Ça, c'est la surrénale.
+
+(24:14 - 24:28)
+Une languette. C'est cette tumeur avec cette languette qui donne le signe de l'éperon qui est caractéristique de la tumeur de Wilms en imagerie. D'accord? Bilan d'extension.
+
+(24:28 - 24:44)
+Donc, on fera une radiothorax, une échographie abdominale ou un scanner TAP, c'est-à-dire thoraco-abdominopelvien. Et on insistera surtout sur les thromboses veineuses, notamment de la veine cave inférieure ou de la veine rénale et la recherche de métastases pulmonaires. OK.
+
+(24:44 - 25:01)
+Donc, le traitement. Donc, le traitement, c'est une... C'est une chirurgie en sandwich, c'est-à-dire précédée d'une chimiothérapie première. Et le traitement post-opératoire dépend des données de l'ANAPAT.
+
+(25:02 - 25:27)
+D'accord? Donc, néoadjuvants, sans preuves histologiques, selon la Société Internationale d'Oncologie Pédiatrique, ils font ce qu'on appelle la chimiothérapie sans preuves première. D'accord? Parce que l'école américaine, ils font la chirurgie première. D'accord? Mais nous, on suit l'école de l'ACIOP, donc on fait une chimiothérapie première.
+
+(25:27 - 25:46)
+Et puis, chirurgie, le traitement post-opératoire dépend de ce qu'on va trouver à l'ANAPAT. D'accord? En chirurgie, nous allons faire une néphro-urétérectomie totale élargie. D'accord? Et le pronostic, il est bon pour les stades 1 et 2. Donc, je vous fais grâce d'essayification.
+
+(25:47 - 25:55)
+Ça, c'est une pièce de résection. Donc, c'est une urétéro-néphrectomie totale. D'accord? Donc, c'est une pièce d'exergue.
+
+(25:56 - 26:25)
+Alors, les facteurs de pronostic étant le fait d'être localisé au métastatique, l'âge au-delà de 4 ans, c'est un mauvais pronostic. Et puis, le stade et le gradine histologique lus à l'ANAPAT. Il faut noter que la biopsie pour confirmation histologique est formellement contre-indiquée vu le risque de rupture tumorale qui va surstader la tumeur.
+
+(26:25 - 26:43)
+D'accord? Bien. Nous passons maintenant à la deuxième tumeur rétro-péritoneale et en l'occurrence, le neuroblastom. C'est une tumeur rétro-péritoneale extra-rénale, peu siégée au niveau de la surrénale ou du système sympathique périvasculaire au paravertébral.
+
+(26:44 - 27:01)
+Il survient dans 95% des cas avant l'âge de 8 ans. Il est doué d'un potentiel métastatique très élevé puisque, au diagnostic, 60% des neuroblastomes sont métastatiques. Donc, la présentation clinique, elle est très hétérogène.
+
+(27:01 - 27:31)
+Nous allons voir pourquoi. Alors, cette hétérogénéité de la présentation clinique peut être en rapport soit avec les métastases, donc asthénie ou douleurs osseuses, hepatomégalie, notamment dans le cadre du syndrome de Pepper ou le syndrome de Hutchinson. Le syndrome de Hutchinson, je vous le rappelle, qui sont l'équimose en lorgnettes et l'exophthalmie qui sont en rapport avec une métastase orbitaire du neuroblastom.
+
+(27:31 - 28:49)
+D'accord? Soit en rapport avec la tumeur primitive, donc la masse abdominale peut donner lieu à une compression des organes de voisinage, un syndrome neurologique par compression médulaire, surtout dans les tumeurs en sablier, et un syndrome paranoblasique par sécrétion de VIP, donc vaso-intestinal-peptide, qui peut donner des diarrhées motrices, ou bien un syndrome opso-myoclonique de Kingsbourne. L'imagerie, donc écographie TDM ou IRM, donc une masse extra-rénale solide, exceptionnellement kystique, avec des calcifications fréquentes, et l'imagerie va déterminer ce qu'on appelle les images defined risk factors, donc ce sont des images de risque, donc ce sont des images de risque qui sont données par les radiologues pour donner déjà un pronostic avant le traitement. La confirmation du neuroblastom, c'est le dosage des catécholamines urinaires, et peuvent confirmer l'acide vanillomandilique et l'acide homovanilique.
+
+(28:49 - 29:39)
+La scintigraphie à la monoïeux de benzylguanidine, si négative, donc biopsie pour le diagnostic et la biologie moléculaire, notamment on va chercher le gène N-MYC, d'accord? Le statut N-MYC et la CGH. Alors, bilan d'extension, mylogramme, biopsie osseo-médulaire, écographie abdominale, radiographie TDM thoracique, et parfois scintigraphie osseuse. Pour ce qui est des traitements, chirurgie si la tumeur est extirpable, chimiothérapie puis chirurgie si la tumeur est inextirpable, et puis chimio ou radiothérapie post-opératoire en fonction de l'anapathie.
+
+(29:40 - 30:17)
+Alors, les facteurs de pronostic sont le caractère localisé au métastatique, l'âge, là c'est supérieur ou inférieur à un an, voire 18 mois, la biologie, donc c'est l'expression N-MYC ou CGH. Donc un bon pronostic, le pronostic est bon, c'est-à-dire il y a 90 à 100% de survie si la tumeur est localisée avec un âge inférieur à un an ou un stade 1 est bas risque, N-MYC non amplifié et CGH numérique. Et dans le cas contraire, c'est un mauvais pronostic avec un taux de survie qui est très bas.
+
+(30:19 - 30:50)
+Troisième ordre de masse rétro-péritoniale sont les malformations rénales et surtout les hydronephroses, ou ce qu'on appelle les syndromes de jonction, surtout dans leur caractère historique, avec une distension monstrueuse qui va être palpée. Je vous renvoie au chapitre des héropathies malformatives pour voir le syndrome de jonction. La dysplasie rénale myltochistique dans sa forme tumorale, c'est un rein qui n'est pas fonctionnel du tout.
+
+(30:51 - 31:08)
+Il est réduit à une grappe de kystes qui ne sont pas communiquants entre eux. Et lorsque la forme est pseudo-tumorale, ça requiert l'exérèse chirurgical. Nous passons maintenant aux masses rétro-péritoniales.
+
+(31:08 - 31:49)
+Nous allons commencer par le lymphomala nonotchkinien, qui est une tumeur de la deuxième enfance avec altération de l'état général et qui peut s'exprimer soit par une masse abdominale dure et mobile, soit par des masses multiples, soit par une invagination anticien d'aiguille dite secondaire. L'échographie abdominale va nous montrer une image en pseudorant, et la confirmation se fait par cytoponction de la masse avec études cytologiques. Le traitement, c'est une chimiothérapie, il n'y a pas de place exceptionnellement pour la chirurgie.
+
+(31:50 - 32:11)
+Les tumeurs malignes du foie sont dominées dans l'enfance par l'hépatoblastome. L'hépatoblastome, c'est la tumeur du foie la plus fréquente de l'enfant, mais c'est une tumeur qui survient sur un foie qui est sain, qui n'est pas chirotique. 20 cas par an en France.
+
+(32:11 - 32:25)
+L'âge moyen, c'est 16 mois. Ils touchent plus les garçons que les filles. Prédisposition génétique, notamment au cas de Widman-Biquitt, polypose adénomateuse familiale, ou de prématurité.
+
+(32:26 - 32:51)
+Alors, image préopératoire d'un hépatoblastome. Cliniquement, c'est une masse abdominale avec une hépatome monstrueuse, inondulaire, parfois très douloureuse, avec des vomissements, et parfois un syndrome parléoplasique de type virilisation. Sur le plan biologique, le bilan hépatique est normal.
+
+(32:51 - 33:18)
+Ce sont surtout les alpha-photoprotéines, qui sont très élevées, 10 puissance 4 voire 10 puissance 7 nanogrammes par millilitre, qui vont nous affirmer le diagnostic. Il existe également une thrombocytopénie. La biopsie, on a recours rarement à la biopsie, parce qu'elle n'est pas dénuée de risques, parce qu'il y a également un risque de rupture tumorale.
+
+(33:19 - 33:51)
+Donc, grosse hépatome inondulaire avec élevation des alpha-photoprotéines suffisent à affirmer le diagnostic d'hépatoblastome. Sur le plan radiologique, l'association Echographie, TDM, voire parfois même IRM, va confirmer le siège hépatique de la tumeur et faire la classification prétexte. Tout d'abord, s'agit-il d'une tumeur multifocale, c'est-à-dire qui touche tout le foie, ou bien unifocale ou bifocale.
+
+(33:53 - 34:19)
+La classification prétexte va nous permettre d'instaurer la stratégie thérapeutique pour le foie. Dans ce cas de figure, on fait une chirurgie conservatrice, mais dans les autres cas de figure, il y a nécessité d'une transplantation hépatique. Vous ne pouvez pas toucher cette tumeur sans toucher le pédicule hépatique.
+
+(34:21 - 34:41)
+Bilan d'extension, on va rechercher une thrombose de la reine-porte et des métastases, surtout pulmonaires. Une thrombose portale avec cavernome, et là, des métastases nodulaires pulmonaires. Le traitement, c'est une association chimio-thérapie-chirurgie bien codifiée.
+
+(34:43 - 35:26)
+Deux à trois mois de chimio-thérapie néo-adjuvante, suivi d'une chirurgie, puis d'une chimio-thérapie après la chirurgie. L'hémorragie infantile inique et multinodulaire, ce sont des hémorragies cutanées, fistules portocav-sus-hépatiques, réalisant une insuffisance cardiaque à haut débit, hypertension artérielle pulmonaire et coagulopathie de consommation, évolution par phase de croissance, puis résolution spontanée, parfois nécessité d'une embolisation. Une neuroblastome MS au syndrome de Péper, petite tumeur surénalienne avec une énorme hépatome égalée, allant jusqu'au syndrome de compartiment abdominal.
+
+(35:27 - 35:52)
+Des métastases cutanés se forment de nodules bleuâtres sous-cutanés. Jamais de métastases osseuses, la régression peut être spontanée, parfois nécessité d'une chimio-thérapie, plus ou moins radiothérapie, et il s'agit là d'un bon pronome. Le cystidatique du foie réalise une tumeur cystique parasitaire dû au développement intrahépatique du ténia équinococus granulosis.
+
+(35:54 - 36:17)
+L'hépatome égalée régulière est ferme. L'échographie va nous donner le nombre, le siège et le type selon la classification de RERBI. La TDM est surtout utile pour le type 4. On recherchera d'autres localisations, notamment du poumon, sans oublier de vous dire que la première localisation chez l'enfant n'est pas le foie, c'est le poumon.
+
+(36:18 - 36:35)
+Le traitement étant chirurgical, le meilleur traitement reste la prophylaxie. Pour vous rappeler le cycle parasitaire du ténia équinococus granulosis. Images échographiques d'un cystidatique du foie.
+
+(36:35 - 37:10)
+Images TDM d'un cystidatique du foie. Les masses ovariennes peuvent être découvertes soit au décours de douleurs abdominales chroniques, parfois à la découverte anténatale, la découverte est fortuite dans 11% des cas, parfois elle réalise un syndrome endocrinien, parfois c'est une masse pelvienne, et dans la majorité des cas ce sont des douleurs abdominales aiguës, notamment par torsion de la gonade ou de la torsion d'un cyst. Les examens complémentaires indispensables sont la radiographie d'abdomen sans préparation.
+
+(37:10 - 37:28)
+On recherche des calcifications ou des ossifications. L'échographie, le scanner ou l'IRM abdominal. Maintenant c'est l'IRM qui domine le champ d'exploration radiologique des ovaires.
+
+(37:29 - 38:08)
+Et puis on dosera certains marqueurs tumoraux tels les alpha-photoprotéines et les ACG. La prise en charge en cas d'alpha-photoprotéines ou d'ACG élevé, donc chimie aux premières puis ovariectomie totale, sinon thymorectomie avec conservation ovarienne, surtout si suspicion d'un teratome. Les masses telles élevées abdominales, elles peuvent être soit prérectales, soit rétrorectales, dont les tumeurs préctales, on distingue les tumeurs des sinus héro-génitales, qui peuvent être développées au dépend de la viscine, du vagin ou de la prostate chez le garçon.
+
+(38:09 - 38:27)
+Ils peuvent réaliser une compression physicale et ou rectale, donc vous devinez l'ordre de signes qu'on va trouver chez le patient. Parfois c'est un polype qui est accouché par le vagin. Le bilan échographie, cystographie, tomodensitométrie abdominales.
+
+(38:27 - 38:50)
+La confirmation se fait par biopsie, surtout pour les rhabdomyosarcomes. Le traitement, c'est une association de chimiothérapie et de chirurgie. L'hématocole poste, c'est du liquide qui est accumulé au sein des cavités vaginales et utérines.
+
+(38:51 - 39:09)
+Soit par imperforation de l'hymen, le plus souvent, soit par atrisie vaginale. Donc deux pics de fréquence en période néonatale et à l'approche de la puberté. Il va réaliser une masse hypogastrique qui est pré-rectale lorsqu'on fait le toucher rectal.
+
+(39:09 - 39:23)
+Donc imperforation de l'hymen ou autre malformation telle que l'atrisie vaginale, le traitement, c'est la chirurgie. Donc voilà un bombardement de l'hymen avec une masse hypogastrique, une boussure hypogastrique. C'est celui-là.
+
+(39:27 - 39:48)
+Les masses rétro-rectales sont dominées par le thératome sacro-oxygien qui peut être soit endopelvien, soit exopelvien. Alors l'endopelvien réalisera des signes de compression. C'est une masse qui peut être palpée au niveau de la fesse notamment.
+
+(39:49 - 39:59)
+Le toucher rectal, c'est une masse qui est rétro-rectale. Donc peut-être exopelvien et donc visible depuis la naissance. Donc c'est une masse oxygienne de découverte néonatale.
+
+(40:00 - 40:07)
+Voilà de quoi il s'agit. Un thératome sacro-oxygien. Thératome abdominal.
+
+(40:15 - 40:32)
+Alors si l'on récapitule, une masse abdominale peut être soit abdominale, soit pelvienne. Alors ce qui est abdominal, il est soit rétro-péritoneal, soit intra-péritoneal. Les masses rétro-péritoneales sont dominées par deux tumeurs.
+
+(40:33 - 40:44)
+Il existe bien sûr d'autres idéologies, mais la dominance va pour ces deux tumeurs. C'est elles qui doivent être à l'esprit la première fois. Le néphroblastome et le neuroblastome.
+
+(40:45 - 41:31)
+Les masses intra-péritoneales sont dominées par les lymphomalagnons neugéniens, les cysticides du foie et les tumeurs hépatiques. Les masses pelvi-abdominales ou pelviennes peuvent être pré-rectales, et dans ce cas ce sont les tumeurs du sinus sérogénital ou l'hématocole poste, ou bien peuvent être rétro-rectales, et dans ce cas on pensera au thératome sacro-oxygien et le neuroblastome pelvien. Donc en conclusion, la palpation de l'abdomen doit être systématique lors de l'examen de tout enfant, quel que soit le motif de consultation, et ce pour toutes les raisons qu'on vient de citer, et notamment c'est qu'il n'y a aucune spécificité, aucun signe spécifique des tumeurs abdominales, puisque la découverte le plus souvent se fait de manière fortuite.
+
+(41:32 - 41:33)
+Je vous remercie.

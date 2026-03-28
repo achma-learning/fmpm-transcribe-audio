@@ -1,0 +1,2931 @@
+1
+00:00:01,600 --> 00:00:04,060
+Bonjour, je me présente, je suis professeur Lehtaoui.
+
+2
+00:00:05,240 --> 00:00:07,660
+Alors, on s'est vu dans le cours
+
+3
+00:00:07,660 --> 00:00:11,980
+précédent sur le cycle cardiaque avec lequel on
+
+4
+00:00:11,980 --> 00:00:14,960
+a commencé la partie de la physiologie cardiovasculaire.
+
+5
+00:00:15,400 --> 00:00:20,060
+Alors, comme cheminement logique, on va s'attaquer
+
+6
+00:00:20,060 --> 00:00:22,580
+aujourd'hui au cours du débit cardiaque.
+
+7
+00:00:26,840 --> 00:00:30,920
+Bien sûr, les objectifs de ce cours sont
+
+8
+00:00:30,920 --> 00:00:33,300
+au moins de l'ordre de trois grands
+
+9
+00:00:33,300 --> 00:00:33,880
+chapitres.
+
+10
+00:00:34,480 --> 00:00:36,240
+On va d'abord voir ce que c
+
+11
+00:00:36,240 --> 00:00:38,480
+'est que le débit cardiaque et en même
+
+12
+00:00:38,480 --> 00:00:40,940
+temps comment on le mesure, quelles sont ses
+
+13
+00:00:40,940 --> 00:00:41,400
+variations.
+
+14
+00:00:42,660 --> 00:00:47,840
+Et puis un chapitre important sur les déterminants
+
+15
+00:00:47,840 --> 00:00:49,680
+du débit cardiaque ou ce qu'on peut
+
+16
+00:00:49,680 --> 00:00:54,500
+appeler aussi les éléments ou les facteurs qui
+
+17
+00:00:54,500 --> 00:00:58,780
+vont faire varier ce débit cardiaque et comment
+
+18
+00:00:58,780 --> 00:01:00,260
+le réguler à la fin.
+
+19
+00:01:01,060 --> 00:01:03,400
+Et la régulation, on la verra sous une
+
+20
+00:01:03,400 --> 00:01:07,580
+forme dynamique qu'on appellerait les modifications de
+
+21
+00:01:07,580 --> 00:01:09,300
+la courbe pression volume.
+
+22
+00:01:13,800 --> 00:01:19,120
+Alors, comme élément d'introduction, la définition.
+
+23
+00:01:20,000 --> 00:01:25,600
+Le débit cardiaque se définit par le volume
+
+24
+00:01:25,600 --> 00:01:28,980
+que le cœur est capable d'éjecter en
+
+25
+00:01:28,980 --> 00:01:29,520
+une minute.
+
+26
+00:01:30,020 --> 00:01:32,980
+Voilà, donc c'est une notion de physique
+
+27
+00:01:32,980 --> 00:01:37,700
+très connue et qui, quand on l'applique
+
+28
+00:01:37,700 --> 00:01:41,040
+au cœur, va nous renvoyer vers ce que
+
+29
+00:01:41,040 --> 00:01:44,360
+le cœur est capable en étant une pompe,
+
+30
+00:01:44,360 --> 00:01:47,020
+assimilé à une pompe, qu'est-ce qu
+
+31
+00:01:47,020 --> 00:01:49,320
+'il est capable d'éjecter pendant une minute.
+
+32
+00:01:50,340 --> 00:01:52,140
+Là, on ne fait pas la différence entre
+
+33
+00:01:52,140 --> 00:01:54,880
+le ventricule gauche et le ventricule droit parce
+
+34
+00:01:54,880 --> 00:01:59,780
+qu'on considère que ce que débite le
+
+35
+00:01:59,780 --> 00:02:02,540
+cœur droit est le même que ce que
+
+36
+00:02:02,540 --> 00:02:03,780
+débite le cœur gauche.
+
+37
+00:02:07,190 --> 00:02:10,490
+D'où les caractéristiques premières qu'on peut
+
+38
+00:02:10,490 --> 00:02:11,790
+tirer, c'est qu'il y a une
+
+39
+00:02:11,790 --> 00:02:13,890
+égalité des débits entre le cœur droit et
+
+40
+00:02:13,890 --> 00:02:17,690
+le cœur gauche et au cas où cette
+
+41
+00:02:17,690 --> 00:02:21,350
+égalité n'est plus respectée, notamment en pathologie,
+
+42
+00:02:22,290 --> 00:02:25,210
+on va bien sûr avoir affaire à des
+
+43
+00:02:25,210 --> 00:02:30,710
+défaillances cardiaques, occasionnées par exemple par un débit
+
+44
+00:02:30,710 --> 00:02:34,070
+cardiaque droit plus élevé que le débit du
+
+45
+00:02:34,070 --> 00:02:35,750
+cœur gauche, ce qu'on appelle les situations
+
+46
+00:02:35,750 --> 00:02:40,410
+d'hyperdébit pulmonaire et bien sûr qui vont
+
+47
+00:02:40,410 --> 00:02:44,790
+certainement avoir des conséquences néfastes sur le fonctionnement
+
+48
+00:02:44,790 --> 00:02:45,450
+cardiaque.
+
+49
+00:02:47,340 --> 00:02:50,760
+Deuxième notion importante, c'est que ce débit,
+
+50
+00:02:50,880 --> 00:02:52,000
+ce n'est pas une constante.
+
+51
+00:02:53,360 --> 00:02:56,840
+Le cœur est appelé à s'adapter avec
+
+52
+00:02:56,840 --> 00:02:58,200
+beaucoup de choses.
+
+53
+00:02:58,620 --> 00:03:02,980
+Le premier, c'est l'activité physique du
+
+54
+00:03:02,980 --> 00:03:07,380
+corps et puis d'autres situations physiologiques qui
+
+55
+00:03:07,380 --> 00:03:09,780
+vont l'obliger bien sûr à adapter la
+
+56
+00:03:09,780 --> 00:03:11,080
+quantité de sang qu'il est en train
+
+57
+00:03:11,080 --> 00:03:13,240
+de pomper chaque minute.
+
+58
+00:03:13,680 --> 00:03:16,240
+Donc il est adaptable et on verra comment
+
+59
+00:03:16,240 --> 00:03:17,440
+il s'adapte.
+
+60
+00:03:18,440 --> 00:03:21,620
+Troisième notion aussi qu'on peut tirer de
+
+61
+00:03:21,620 --> 00:03:24,540
+la définition, c'est qu'on parle d
+
+62
+00:03:24,540 --> 00:03:28,600
+'un débit cardiaque en sens global, mais il
+
+63
+00:03:28,600 --> 00:03:31,380
+y a aussi, chaque organe va recevoir une
+
+64
+00:03:31,380 --> 00:03:34,680
+quantité de sang qui lui est réservée ou
+
+65
+00:03:34,680 --> 00:03:38,240
+en fonction de ses besoins, des besoins de
+
+66
+00:03:38,240 --> 00:03:41,700
+l'organe, il va prendre une quantité de
+
+67
+00:03:41,700 --> 00:03:42,720
+sang particulière.
+
+68
+00:03:42,980 --> 00:03:45,590
+Donc on va parler de le débit cardiaque.
+
+69
+00:03:46,580 --> 00:03:47,980
+Il y a le débit cardiaque, mais il
+
+70
+00:03:47,980 --> 00:03:51,560
+y a aussi les différents débits tissulaires qui
+
+71
+00:03:51,560 --> 00:03:56,760
+en augmentant ou en diminuant vont avoir un
+
+72
+00:03:56,760 --> 00:03:58,660
+impact aussi sur le débit cardiaque.
+
+73
+00:03:59,440 --> 00:04:03,620
+Puis une notion qui va nous importer beaucoup
+
+74
+00:04:03,620 --> 00:04:05,940
+dans ce cours, parce qu'elle va nous
+
+75
+00:04:05,940 --> 00:04:10,080
+aider aussi entre autres à calculer, on va
+
+76
+00:04:10,080 --> 00:04:12,160
+le dire après, à calculer le débit cardiaque,
+
+77
+00:04:12,260 --> 00:04:13,760
+c'est la notion du, il y a
+
+78
+00:04:13,760 --> 00:04:18,980
+un seul organe dans le corps qui reçoit
+
+79
+00:04:18,980 --> 00:04:21,160
+la totalité du débit cardiaque.
+
+80
+00:04:21,960 --> 00:04:22,620
+C'est bien les poumons.
+
+81
+00:04:23,300 --> 00:04:26,280
+C'est bien les poumons, alors que par
+
+82
+00:04:26,280 --> 00:04:28,880
+exemple différents organes, les autres, que ce soit
+
+83
+00:04:28,880 --> 00:04:31,700
+le cerveau, la rate, le foie, etc., ils
+
+84
+00:04:31,700 --> 00:04:34,880
+prennent une quantité, prélèvent une quantité du débit
+
+85
+00:04:34,880 --> 00:04:37,540
+cardiaque relative à leur fonctionnement.
+
+86
+00:04:37,660 --> 00:04:40,300
+Par contre, les poumons sont obligés de recevoir
+
+87
+00:04:40,300 --> 00:04:42,980
+tout le débit cardiaque et ça va nous
+
+88
+00:04:42,980 --> 00:04:46,320
+aider pour en tirer deux choses.
+
+89
+00:04:46,440 --> 00:04:49,240
+La première, comme je viens de l'avancer,
+
+90
+00:04:49,860 --> 00:04:51,920
+ça va nous aider dans la méthode de
+
+91
+00:04:51,920 --> 00:04:53,940
+calcul du débit cardiaque et la deuxième, c
+
+92
+00:04:53,940 --> 00:04:58,020
+'est que ça va refléter une certaine particularité
+
+93
+00:04:58,020 --> 00:04:59,280
+de la circulation pulmonaire.
+
+94
+00:04:59,520 --> 00:05:02,760
+Un organe qui reçoit la totalité du débit,
+
+95
+00:05:03,120 --> 00:05:06,120
+la totalité du sang en une minute, va
+
+96
+00:05:06,120 --> 00:05:10,340
+certainement avoir des caractéristiques qui vont lui permettre
+
+97
+00:05:10,340 --> 00:05:12,760
+d'être préparé à recevoir toute cette quantité
+
+98
+00:05:12,760 --> 00:05:13,060
+de sang.
+
+99
+00:05:13,620 --> 00:05:15,660
+Donc, il y aura des particularités qu'on
+
+100
+00:05:15,660 --> 00:05:18,740
+verra de la circulation pulmonaire, notamment en termes
+
+101
+00:05:18,740 --> 00:05:21,460
+de résistance et en termes de compliance artérielle.
+
+102
+00:05:21,960 --> 00:05:23,120
+Tout ça, on va le voir dans la
+
+103
+00:05:23,120 --> 00:05:23,900
+partie vasculaire.
+
+104
+00:05:28,130 --> 00:05:30,730
+Alors, une notion qui va nous suivre le
+
+105
+00:05:30,730 --> 00:05:33,270
+long de ce cours, c'est la notion
+
+106
+00:05:33,270 --> 00:05:36,950
+de, ou plutôt cette équation qui dit le
+
+107
+00:05:36,950 --> 00:05:40,290
+débit cardiaque égale au volume d'éjection systolique,
+
+108
+00:05:40,650 --> 00:05:43,710
+VES, multiplié par la fréquence cardiaque.
+
+109
+00:05:43,890 --> 00:05:45,590
+Alors, c'est simple à comprendre parce que
+
+110
+00:05:45,590 --> 00:05:46,650
+le débit, c'est quoi ?
+
+111
+00:05:46,650 --> 00:05:49,270
+C'est le fruit du travail du cœur
+
+112
+00:05:49,270 --> 00:05:50,490
+en étant une pompe.
+
+113
+00:05:50,910 --> 00:05:53,630
+Donc lui, il va travailler de façon cyclique,
+
+114
+00:05:53,770 --> 00:05:54,670
+comme on l'a vu dans le cours
+
+115
+00:05:54,670 --> 00:05:55,870
+du cycle cardiaque.
+
+116
+00:05:56,510 --> 00:05:58,690
+Et à chaque cycle, il va éjecter une
+
+117
+00:05:58,690 --> 00:06:02,290
+quantité de sang qui va être ici représentée
+
+118
+00:06:02,290 --> 00:06:04,290
+par le volume éjecté, le VES.
+
+119
+00:06:05,030 --> 00:06:07,710
+Le volume qu'il va éjecter pendant un
+
+120
+00:06:07,710 --> 00:06:11,650
+cycle cardiaque, si on le répète, on le
+
+121
+00:06:11,650 --> 00:06:14,190
+multiplie par le nombre de fois que le
+
+122
+00:06:14,190 --> 00:06:17,290
+cœur bat pendant une minute, par conséquent, ça
+
+123
+00:06:17,290 --> 00:06:19,370
+va nous donner le débit, c'est-à
+
+124
+00:06:19,370 --> 00:06:21,810
+-dire finalement ce que le cœur est capable
+
+125
+00:06:21,810 --> 00:06:25,350
+de générer ou de faire circuler comme quantité
+
+126
+00:06:25,350 --> 00:06:26,470
+de sang pendant une minute.
+
+127
+00:06:26,650 --> 00:06:29,270
+Et de là, vous comprenez l'importance de
+
+128
+00:06:29,270 --> 00:06:29,850
+ce cours.
+
+129
+00:06:30,390 --> 00:06:36,390
+Le débit reflète certainement un des reflets importants
+
+130
+00:06:36,390 --> 00:06:38,190
+de la performance cardiaque.
+
+131
+00:06:39,090 --> 00:06:41,030
+En étudiant aujourd'hui le débit cardiaque, en
+
+132
+00:06:41,030 --> 00:06:43,630
+fait, on est en train d'étudier une
+
+133
+00:06:43,630 --> 00:06:47,310
+des caractéristiques de la performance cardiaque, notamment la
+
+134
+00:06:47,310 --> 00:06:48,390
+performance systolique.
+
+135
+00:06:48,930 --> 00:06:52,250
+Un cœur qui a un débit faible, il
+
+136
+00:06:52,250 --> 00:06:56,290
+est certainement moins performant, voire défaillant par rapport
+
+137
+00:06:56,290 --> 00:06:59,470
+à un cœur qui arrive à générer un
+
+138
+00:06:59,470 --> 00:07:01,430
+débit normal, voire élevé.
+
+139
+00:07:01,890 --> 00:07:03,490
+Et un cœur qui arrive à s'adapter
+
+140
+00:07:03,490 --> 00:07:05,910
+en augmentant son débit cardiaque, il est certainement
+
+141
+00:07:05,910 --> 00:07:09,530
+plus performant qu'un cœur qui, au repos,
+
+142
+00:07:09,770 --> 00:07:12,470
+a un débit subnormal, mais qui n'arrive
+
+143
+00:07:12,470 --> 00:07:16,950
+pas à suivre quand on lui demande de
+
+144
+00:07:16,950 --> 00:07:18,910
+générer un débit plus important.
+
+145
+00:07:21,980 --> 00:07:24,180
+Quelles sont les méthodes de mesure du débit
+
+146
+00:07:24,180 --> 00:07:24,820
+cardiaque ?
+
+147
+00:07:24,820 --> 00:07:26,800
+On peut imaginer, à partir de la formule
+
+148
+00:07:26,800 --> 00:07:28,640
+qu'on vient de voir, que c'est
+
+149
+00:07:28,640 --> 00:07:32,680
+très simple de prendre la notion un volume
+
+150
+00:07:32,680 --> 00:07:36,080
+éjecté veut dire la différence entre ce que
+
+151
+00:07:36,080 --> 00:07:39,680
+le cœur a reçu, le volume en diastole,
+
+152
+00:07:39,900 --> 00:07:42,640
+ce qu'on appelle le volume télédiastolique, la
+
+153
+00:07:42,640 --> 00:07:44,960
+différence entre le volume télédiastolique et ce qui
+
+154
+00:07:44,960 --> 00:07:47,000
+reste dans le cœur, parce que tout le
+
+155
+00:07:47,000 --> 00:07:48,420
+sang qui rentre dans le cœur n'est
+
+156
+00:07:48,420 --> 00:07:51,380
+pas totalement éjecté, c'est ce qui reste,
+
+157
+00:07:51,920 --> 00:07:53,100
+qui est le volume télédiastolique.
+
+158
+00:07:53,220 --> 00:07:55,220
+Et la différence entre les deux va nous
+
+159
+00:07:55,220 --> 00:07:57,160
+permettre de calculer le volume éjecté.
+
+160
+00:07:57,600 --> 00:08:00,500
+Dans l'exemple que vous voyez, on a,
+
+161
+00:08:00,700 --> 00:08:03,500
+comme ça, en moyenne, calculé si le cœur
+
+162
+00:08:03,500 --> 00:08:06,800
+reçoit 120 ml et il garde 50 ml
+
+163
+00:08:06,800 --> 00:08:09,140
+à la fin de l'éjection, il a
+
+164
+00:08:09,140 --> 00:08:10,940
+dû éjecter 70 ml.
+
+165
+00:08:11,100 --> 00:08:13,900
+Et si 70 ml, si vous la multipliez
+
+166
+00:08:13,900 --> 00:08:17,180
+par exemple par une fréquence cardiaque de 70
+
+167
+00:08:17,180 --> 00:08:19,280
+battements par minute, vous aurez quelque chose comme
+
+168
+00:08:19,280 --> 00:08:21,640
+4,9 litres, c'est à peu près
+
+169
+00:08:21,640 --> 00:08:22,740
+5 litres par minute.
+
+170
+00:08:22,920 --> 00:08:25,040
+Et c'est ça le débit cardiaque habituel.
+
+171
+00:08:26,160 --> 00:08:28,940
+Alors, la méthode de mesure, on peut tout
+
+172
+00:08:28,940 --> 00:08:32,740
+simplement trouver le moyen pour mesurer le volume
+
+173
+00:08:32,740 --> 00:08:36,400
+du cœur en télédiastole et le volume du
+
+174
+00:08:36,400 --> 00:08:37,419
+cœur en télésistole.
+
+175
+00:08:37,600 --> 00:08:38,820
+On fait après la différence.
+
+176
+00:08:39,919 --> 00:08:42,520
+Pour mesurer le volume, on aura recours à
+
+177
+00:08:42,520 --> 00:08:43,000
+l'imagerie.
+
+178
+00:08:43,600 --> 00:08:47,120
+L'imagerie peut être une imagerie invasive sous
+
+179
+00:08:47,120 --> 00:08:49,660
+rayons X, d'accord?
+
+180
+00:08:50,280 --> 00:08:54,200
+Et les rayons X vont permettre de mesurer,
+
+181
+00:08:54,980 --> 00:08:58,200
+de nous donner une image du ventricule en
+
+182
+00:08:58,200 --> 00:09:00,240
+diastole et en systole, mais à condition de
+
+183
+00:09:00,240 --> 00:09:03,840
+pouvoir opacifier le sang à l'intérieur du
+
+184
+00:09:03,840 --> 00:09:04,300
+ventricule.
+
+185
+00:09:04,420 --> 00:09:06,540
+Et ceci est possible au cours d'un
+
+186
+00:09:06,540 --> 00:09:09,720
+cathéterisme en injectant un produit de contraste qui
+
+187
+00:09:09,720 --> 00:09:12,220
+va rendre le sang plus opaque au passage
+
+188
+00:09:12,220 --> 00:09:14,900
+du rayon X et donc créer le contraste
+
+189
+00:09:14,900 --> 00:09:18,440
+entre l'air dans les poumons et le
+
+190
+00:09:18,440 --> 00:09:20,120
+sang dans les ventricules, ce qui nous permet
+
+191
+00:09:20,120 --> 00:09:26,200
+de tracer une surface du ventricule en télédiastole
+
+192
+00:09:26,200 --> 00:09:27,460
+et puis en télésistole.
+
+193
+00:09:28,220 --> 00:09:31,320
+Et on verra dans une diapo suivante qu
+
+194
+00:09:31,320 --> 00:09:35,060
+'il y a une modélisation mathématique qui permet
+
+195
+00:09:35,060 --> 00:09:38,280
+à partir de la surface de déduire le
+
+196
+00:09:38,280 --> 00:09:38,540
+volume.
+
+197
+00:09:38,780 --> 00:09:40,780
+Ainsi, on peut avoir le volume télédiastolique et
+
+198
+00:09:40,780 --> 00:09:41,460
+télésistolique.
+
+199
+00:09:41,560 --> 00:09:45,440
+De ceci, comme je l'ai dit, le
+
+200
+00:09:45,440 --> 00:09:47,040
+rayon X et l'injection de produits de
+
+201
+00:09:47,040 --> 00:09:49,740
+contraste dans le sang au cours d'un
+
+202
+00:09:49,740 --> 00:09:51,900
+cathéterisme cardiaque, mais aussi on peut le faire,
+
+203
+00:09:52,000 --> 00:09:54,300
+on peut obtenir les mêmes images de façon
+
+204
+00:09:54,300 --> 00:09:58,260
+non-invasive, par exemple en utilisant les ultrasangs
+
+205
+00:09:58,940 --> 00:10:03,660
+au cours d'une échocardiographie ou en utilisant
+
+206
+00:10:03,660 --> 00:10:08,360
+la résonance magnétique au cours d'une IRM
+
+207
+00:10:08,360 --> 00:10:12,920
+cardiaque ou en utilisant aussi le tombeau d
+
+208
+00:10:12,920 --> 00:10:14,980
+'encytométrie, le scanner.
+
+209
+00:10:15,600 --> 00:10:17,460
+Tout cela, ce sont des moyens qui permettent
+
+210
+00:10:17,460 --> 00:10:22,020
+de donner une image qui permet de quantifier
+
+211
+00:10:22,500 --> 00:10:25,620
+les volumes télédiastoliques et les télésistoliques du cœur
+
+212
+00:10:25,620 --> 00:10:27,360
+et de là déduire le débit cardiaque.
+
+213
+00:10:29,940 --> 00:10:34,900
+D'autres méthodes historiques et qui continuent à
+
+214
+00:10:34,900 --> 00:10:38,060
+être utilisées dans des conditions particulières, j'en
+
+215
+00:10:38,060 --> 00:10:38,640
+citerai deux.
+
+216
+00:10:39,880 --> 00:10:41,660
+Il y a le principe de Fick et
+
+217
+00:10:41,660 --> 00:10:42,840
+puis la thermodilution.
+
+218
+00:10:43,740 --> 00:10:47,660
+Pour le principe de Fick, c'était la
+
+219
+00:10:47,660 --> 00:10:48,760
+méthode de référence.
+
+220
+00:10:49,920 --> 00:10:54,020
+Elle nécessite un recours à une salle de
+
+221
+00:10:54,020 --> 00:10:58,240
+cathé et à une mesure des gaz respiratoires
+
+222
+00:10:58,240 --> 00:10:59,500
+par la spirométrie.
+
+223
+00:11:00,440 --> 00:11:01,890
+Et donc, il nécessite une certaine...
+
+224
+00:11:04,140 --> 00:11:06,520
+c'est un geste qui reste invasif, une
+
+225
+00:11:06,520 --> 00:11:09,960
+certaine technicité, mais surtout pour vous, elle nécessite
+
+226
+00:11:09,960 --> 00:11:12,280
+la compréhension de deux notions fondamentales.
+
+227
+00:11:13,040 --> 00:11:16,420
+Pour comprendre le principe de Fick et de
+
+228
+00:11:16,420 --> 00:11:18,640
+mesurer le débit cardiaque, il faut connaître d
+
+229
+00:11:18,640 --> 00:11:20,740
+'abord la notion de DAV, qui est la
+
+230
+00:11:20,740 --> 00:11:22,080
+différence artériovéneuse.
+
+231
+00:11:22,260 --> 00:11:23,860
+On va l'utiliser pour...
+
+232
+00:11:23,860 --> 00:11:25,700
+dans l'équation qui va nous permettre de
+
+233
+00:11:25,700 --> 00:11:26,980
+mesurer le débit cardiaque.
+
+234
+00:11:27,540 --> 00:11:31,200
+Alors, la notion de différence artériovéneuse est simple.
+
+235
+00:11:31,980 --> 00:11:33,560
+C'est que le sang qui arrive vers
+
+236
+00:11:33,560 --> 00:11:36,640
+les poumons à travers les 24 supérieures et
+
+237
+00:11:36,640 --> 00:11:39,740
+inférieures, qu'on appellera le sang vénomélé, ce
+
+238
+00:11:39,740 --> 00:11:41,800
+sang, il est appauvri en oxygène.
+
+239
+00:11:42,080 --> 00:11:46,020
+Par exemple, on trouvera une concentration d'oxygène
+
+240
+00:11:46,020 --> 00:11:47,380
+qui est de l'ordre de 15 ml
+
+241
+00:11:47,380 --> 00:11:49,140
+par tous les 100 ml de sang.
+
+242
+00:11:50,740 --> 00:11:52,960
+Et puis, une fois dans les poumons il
+
+243
+00:11:52,960 --> 00:11:57,020
+est enrichi en sang, il va être dirigé
+
+244
+00:11:57,020 --> 00:11:59,140
+vers le cœur gauche à travers les veines
+
+245
+00:11:59,140 --> 00:11:59,360
+pulmonaires.
+
+246
+00:12:00,260 --> 00:12:02,280
+Et là, le sang qu'on trouvera dans
+
+247
+00:12:02,280 --> 00:12:05,000
+les veines pulmonaires ou dans l'oreillette gauche
+
+248
+00:12:05,000 --> 00:12:07,360
+ou même dans le ventricule gauche, ça va
+
+249
+00:12:07,360 --> 00:12:09,440
+être du sang riche en oxygène.
+
+250
+00:12:10,040 --> 00:12:12,120
+Et si on calcule la concentration, on trouvera
+
+251
+00:12:12,120 --> 00:12:14,720
+par exemple qu'il a gagné de 15
+
+252
+00:12:14,720 --> 00:12:17,740
+ml par 100 ml de sang, il a
+
+253
+00:12:17,740 --> 00:12:21,820
+atteint 19 ml par 100 ml de sang,
+
+254
+00:12:21,920 --> 00:12:22,940
+c'est-à-dire qu'il a gagné
+
+255
+00:12:22,940 --> 00:12:25,980
+une différence de 4 ml par 100 ml
+
+256
+00:12:25,980 --> 00:12:26,380
+de sang.
+
+257
+00:12:27,500 --> 00:12:31,640
+Cette notion de différence artériovéneuse, elle est utile
+
+258
+00:12:35,070 --> 00:12:37,050
+quand on l'associe à la notion de
+
+259
+00:12:37,050 --> 00:12:37,490
+VO2.
+
+260
+00:12:37,770 --> 00:12:41,810
+VO2, c'est tout simplement un paramètre qui
+
+261
+00:12:41,810 --> 00:12:45,770
+reflète la consommation de l'organisme en oxygène.
+
+262
+00:12:47,050 --> 00:12:50,990
+Généralement, je rappelle qu'il arrive dans les
+
+263
+00:12:50,990 --> 00:12:55,030
+poumons et puis à travers les poumons il
+
+264
+00:12:55,030 --> 00:12:56,850
+arrive vers le cœur et puis du cœur,
+
+265
+00:12:56,990 --> 00:12:58,630
+il va être transporté par le sang vers
+
+266
+00:12:58,630 --> 00:13:00,430
+les organes qui vont l'utiliser, entre autres
+
+267
+00:13:00,430 --> 00:13:01,890
+les muscles, etc.
+
+268
+00:13:02,390 --> 00:13:04,410
+Donc là, c'est une chaîne de consommation
+
+269
+00:13:04,410 --> 00:13:07,450
+de l'oxygène qu'on appellera la VO2
+
+270
+00:13:07,450 --> 00:13:12,050
+et qui, comme vous le savez, le corps
+
+271
+00:13:12,050 --> 00:13:15,490
+va utiliser de l'oxygène, mais il va
+
+272
+00:13:15,490 --> 00:13:21,330
+l'utiliser en imprégnant, entre guillemets, en imprégnant
+
+273
+00:13:21,330 --> 00:13:25,050
+le sang de façon continue par de l
+
+274
+00:13:25,050 --> 00:13:25,530
+'oxygène.
+
+275
+00:13:25,770 --> 00:13:28,450
+Le sang est en train de circuler et
+
+276
+00:13:28,450 --> 00:13:30,710
+en même temps il s'enrichit régulièrement en
+
+277
+00:13:30,710 --> 00:13:31,130
+oxygène.
+
+278
+00:13:31,230 --> 00:13:33,210
+Donc il y a un débit d'oxygène
+
+279
+00:13:33,210 --> 00:13:38,930
+aussi, un débit par minute que si on
+
+280
+00:13:38,930 --> 00:13:43,250
+arrive à le déterminer, on saura combien l
+
+281
+00:13:43,250 --> 00:13:46,310
+'organisme a consommé en oxygène pendant une minute
+
+282
+00:13:46,310 --> 00:13:47,910
+et de là, l'idée, c'est que
+
+283
+00:13:47,910 --> 00:13:49,830
+de là on va déduire le calcul du
+
+284
+00:13:49,830 --> 00:13:50,070
+débit.
+
+285
+00:13:51,050 --> 00:13:54,650
+Pour le VO2, ne vous inquiétez pas, il
+
+286
+00:13:54,650 --> 00:13:56,670
+est facile de calculer le débit, il suffit
+
+287
+00:13:56,670 --> 00:14:00,550
+de mettre quelque chose au niveau de l
+
+288
+00:14:00,550 --> 00:14:02,710
+'entrée de l'oxygène dans l'organisme, notamment
+
+289
+00:14:02,710 --> 00:14:04,690
+au niveau de la bouche et du nez
+
+290
+00:14:06,590 --> 00:14:09,170
+et de là, la quantité d'oxygène qui
+
+291
+00:14:09,170 --> 00:14:11,790
+va rentrer, on peut même calculer la quantité
+
+292
+00:14:11,790 --> 00:14:13,710
+de CO2 éliminée, c'est le principe de
+
+293
+00:14:13,710 --> 00:14:16,990
+l'aspérométrie que vous allez voir en pneumologie.
+
+294
+00:14:19,590 --> 00:14:22,430
+Par contre, en utilisant la formule qui dit
+
+295
+00:14:22,430 --> 00:14:27,170
+que le débit d'oxygène qui est rentré,
+
+296
+00:14:27,290 --> 00:14:29,350
+en fait, c'est quoi ?
+
+297
+00:14:29,350 --> 00:14:33,710
+C'est la quantité de sang d'oxygène
+
+298
+00:14:33,710 --> 00:14:38,730
+qui a été dissoute dans le sang et
+
+299
+00:14:38,730 --> 00:14:43,970
+notamment la différence entre le sang vénomélé et
+
+300
+00:14:43,970 --> 00:14:46,090
+le sang artériel, il y a eu une
+
+301
+00:14:46,090 --> 00:14:50,670
+quantité d'oxygène qui est venue enrichir le
+
+302
+00:14:50,670 --> 00:14:50,830
+sang.
+
+303
+00:14:51,650 --> 00:14:55,390
+Cette quantité qui est le DAV est intéressante
+
+304
+00:14:55,390 --> 00:14:58,810
+parce que si on la multiplie par le
+
+305
+00:14:58,810 --> 00:15:01,930
+débit cardiaque, c'est comme si vous prenez
+
+306
+00:15:01,930 --> 00:15:07,110
+une substance dissoute, vous la rapportez à la
+
+307
+00:15:07,110 --> 00:15:10,270
+quantité globale du solvant dans lequel elle était
+
+308
+00:15:10,270 --> 00:15:13,210
+dissoute et de là, vous calculez, vous allez
+
+309
+00:15:13,210 --> 00:15:18,290
+avoir exactement combien de ce solvant a été
+
+310
+00:15:18,290 --> 00:15:18,750
+utilisé.
+
+311
+00:15:18,870 --> 00:15:20,150
+C'est le même principe.
+
+312
+00:15:20,830 --> 00:15:22,590
+Le débit d'oxygène, en fait, ce sera
+
+313
+00:15:22,590 --> 00:15:23,530
+quoi ?
+
+314
+00:15:23,530 --> 00:15:27,670
+Ce sera la quantité qu'on a apporté,
+
+315
+00:15:28,410 --> 00:15:31,510
+disons la concentration, le DAV, qu'on va
+
+316
+00:15:31,510 --> 00:15:37,150
+multiplier par le VO2.
+
+317
+00:15:37,210 --> 00:15:38,330
+En fait, notre but, ce n'est pas
+
+318
+00:15:38,330 --> 00:15:40,110
+de calculer le VO2, mais de dire que,
+
+319
+00:15:40,450 --> 00:15:43,070
+grâce à cette équation, on peut déduire que
+
+320
+00:15:43,070 --> 00:15:46,090
+le débit cardiaque est égal au VO2 divisé
+
+321
+00:15:46,090 --> 00:15:47,290
+par le DAV.
+
+322
+00:15:47,790 --> 00:15:49,450
+Et donc, le VO2, comme je l'ai
+
+323
+00:15:49,450 --> 00:15:51,470
+dit, on peut la mesurer par l'aspirométrie.
+
+324
+00:15:52,110 --> 00:15:55,090
+Le DAV, il suffit de trouver le moyen
+
+325
+00:16:06,310 --> 00:16:08,530
+d'envoyer aussi en analyse pour calculer la
+
+326
+00:16:08,530 --> 00:16:09,090
+concentration.
+
+327
+00:16:09,450 --> 00:16:11,150
+Et de là, on calcule la différence artério
+
+328
+00:16:11,150 --> 00:16:11,470
+-vénus.
+
+329
+00:16:12,030 --> 00:16:13,930
+Alors, bien sûr, pour atteindre l'oreillette gauche
+
+330
+00:16:13,930 --> 00:16:15,570
+et le ventricule gauche, il faut un cathéterisme
+
+331
+00:16:15,570 --> 00:16:16,430
+cardiaque gauche.
+
+332
+00:16:17,050 --> 00:16:19,070
+Pour atteindre le sang vénomélé dans le cœur
+
+333
+00:16:19,070 --> 00:16:21,310
+droit, il faut un cathéterisme cardiaque droit.
+
+334
+00:16:21,910 --> 00:16:24,010
+Donc, vous imaginez que le principe de Fick,
+
+335
+00:16:36,310 --> 00:16:39,290
+c'est un cathéterisme cardiaque gauche pour atteindre
+
+336
+00:16:40,750 --> 00:16:44,030
+l'aorte, l'oreillette gauche ou le ventricule
+
+337
+00:16:44,030 --> 00:16:46,090
+gauche, prélever le sang et l'envoyer pour
+
+338
+00:16:46,090 --> 00:16:46,610
+analyse.
+
+339
+00:16:47,250 --> 00:16:48,630
+Et puis, en même temps, il va falloir,
+
+340
+00:16:48,790 --> 00:16:50,850
+quand on calcule le débit en mettant l
+
+341
+00:16:50,850 --> 00:16:57,030
+'aspirométrie, un masque d'oxygène relié à des
+
+342
+00:16:57,030 --> 00:16:59,910
+capteurs d'oxygène et de CO2 qui permettent
+
+343
+00:16:59,910 --> 00:17:07,390
+de calculer un parayage aussi important.
+
+344
+00:17:08,050 --> 00:17:10,010
+On utiliserait cette méthode que dans des cas
+
+345
+00:17:10,010 --> 00:17:11,869
+particuliers où on a besoin d'une mesure
+
+346
+00:17:11,869 --> 00:17:15,950
+précise du débit cardiaque et surtout, actuellement, c
+
+347
+00:17:15,950 --> 00:17:20,589
+'est utilisé avant transplantation cardiaque, avant certains types
+
+348
+00:17:20,589 --> 00:17:23,829
+de chirurgie cardiaque qui nous obligent à déterminer
+
+349
+00:17:23,829 --> 00:17:25,250
+le débit de façon précise.
+
+350
+00:17:26,329 --> 00:17:29,290
+Voilà, donc, on détermine la consommation par aspirométrie,
+
+351
+00:17:29,690 --> 00:17:32,890
+on détermine le contenu artériel en oxygène par
+
+352
+00:17:32,890 --> 00:17:37,830
+gazométrie au niveau de l'oreillette gauche ou
+
+353
+00:17:37,830 --> 00:17:40,390
+de l'aorte et on détermine le contenu
+
+354
+00:17:40,390 --> 00:17:43,370
+vaineux en oxygène par gazométrie à partir d
+
+355
+00:17:43,370 --> 00:17:44,690
+'un prélèvement de sang au niveau de l
+
+356
+00:17:44,690 --> 00:17:47,170
+'artère pulmonaire ou du ventricule droit ou de
+
+357
+00:17:47,170 --> 00:17:49,430
+l'oreillette droite et on calcule le DAV
+
+358
+00:17:49,430 --> 00:17:52,910
+et à partir de là, on calcule le
+
+359
+00:17:52,910 --> 00:17:53,950
+débit cardiaque.
+
+360
+00:17:57,260 --> 00:18:02,900
+Deuxième méthode de calcul qui est moins compliquée
+
+361
+00:18:02,900 --> 00:18:04,380
+que celle du principe de Fick, c'est
+
+362
+00:18:04,380 --> 00:18:10,920
+la méthode de thermodilution qui permet simplement le
+
+363
+00:18:10,920 --> 00:18:14,760
+fait d'un cathéterisme cardiaque entre guillemets plus
+
+364
+00:18:14,760 --> 00:18:17,740
+léger parce que ça va nécessiter simplement un
+
+365
+00:18:17,740 --> 00:18:22,240
+accès vaineux et puis un cathéter qui va
+
+366
+00:18:22,240 --> 00:18:27,740
+devoir arriver à travers les veines jusqu'à
+
+367
+00:18:27,740 --> 00:18:30,320
+l'oreillette droite, le ventricule droit et l
+
+368
+00:18:30,320 --> 00:18:32,720
+'artère pulmonaire et en le mettant dans l
+
+369
+00:18:32,720 --> 00:18:36,060
+'artère pulmonaire, on peut utiliser le principe de
+
+370
+00:18:36,060 --> 00:18:37,260
+thermodilution pour mesurer.
+
+371
+00:18:39,220 --> 00:18:44,220
+En fait, on a des sondes ou des
+
+372
+00:18:44,220 --> 00:18:50,460
+cathétères particuliers qui ont à leur extrémité une
+
+373
+00:18:50,460 --> 00:18:54,860
+cellule sensible, sensible au changement de la température.
+
+374
+00:18:57,140 --> 00:19:00,260
+Une résistance qui est sensible au changement de
+
+375
+00:19:00,260 --> 00:19:04,580
+température et qui permet, donc une fois par
+
+376
+00:19:04,580 --> 00:19:08,280
+exemple du sang froid passe devant elle, elle
+
+377
+00:19:08,280 --> 00:19:14,040
+va enregistrer la quantité de sang qui passe
+
+378
+00:19:14,040 --> 00:19:17,820
+et plus la température change, elle va changer
+
+379
+00:19:17,820 --> 00:19:20,540
+aussi la quantité qui passe.
+
+380
+00:19:20,660 --> 00:19:22,200
+Ainsi, qu'est-ce qu'on obtient ?
+
+381
+00:19:22,200 --> 00:19:24,340
+Qu'on courbe parce que cette lampe ou
+
+382
+00:19:24,340 --> 00:19:27,100
+cette résistance qui transmet les informations sur le
+
+383
+00:19:27,100 --> 00:19:30,540
+changement de température est reliée à travers le
+
+384
+00:19:30,540 --> 00:19:37,760
+cathéter à, bien sûr, un ordinateur et qui
+
+385
+00:19:37,760 --> 00:19:40,020
+va nous donner la courbe suivante.
+
+386
+00:19:41,020 --> 00:19:41,920
+Le temps T1 sont automatiques.
+
+387
+00:19:42,080 --> 00:19:44,520
+Vous aurez entre le temps T1 et T2.
+
+388
+00:19:45,120 --> 00:19:47,240
+Le temps T1, c'est le temps où
+
+389
+00:19:47,240 --> 00:19:51,140
+on injecte à travers le cathéter une quantité
+
+390
+00:19:51,140 --> 00:19:53,740
+de sérum salé mais qui est très froide
+
+391
+00:19:53,740 --> 00:19:55,900
+à une température de 0°C.
+
+392
+00:19:56,340 --> 00:19:59,000
+On l'injecte, elle arrive directement à travers
+
+393
+00:19:59,000 --> 00:20:11,920
+le cathéter vers l'artère pulmonaire 10
+
+394
+00:20:11,920 --> 00:20:18,420
+mm juste avant cette partie photosensible qui détermine
+
+395
+00:20:18,420 --> 00:20:22,260
+la température et cette quantité va passer par
+
+396
+00:20:22,260 --> 00:20:24,400
+la suite circuler dans l'artère pulmonaire et
+
+397
+00:20:24,400 --> 00:20:29,480
+passe devant la lampe qui mesure le changement
+
+398
+00:20:29,480 --> 00:20:30,280
+de température.
+
+399
+00:20:31,780 --> 00:20:34,380
+Une fois elle passe, il va bien sûr
+
+400
+00:20:34,380 --> 00:20:37,460
+refroidir le sang qui passe à travers cette
+
+401
+00:20:37,460 --> 00:20:42,240
+quantité et on va commencer à obtenir une
+
+402
+00:20:42,240 --> 00:20:45,840
+courbe qui nous montre la quantité de sang
+
+403
+00:20:45,840 --> 00:20:51,280
+qui passe devant la lampe jusqu'à atteindre
+
+404
+00:20:51,280 --> 00:20:53,680
+un maximum, ça veut dire qu'il y
+
+405
+00:20:53,680 --> 00:20:57,480
+a une quantité de sang qui a été
+
+406
+00:20:57,480 --> 00:21:01,280
+refroidie de 37 degrés vers, on ne va
+
+407
+00:21:01,280 --> 00:21:02,820
+pas dire vers 0 degrés parce qu'on
+
+408
+00:21:02,820 --> 00:21:08,500
+a injecté juste 10 ml de sérum stérile
+
+409
+00:21:08,500 --> 00:21:11,800
+froid mais qui se mélange au sang, ça
+
+410
+00:21:11,800 --> 00:21:16,160
+veut dire que la température va descendre progressivement,
+
+411
+00:21:17,200 --> 00:21:21,600
+atteindre un maximum et après le sang commence
+
+412
+00:21:21,600 --> 00:21:25,640
+à se réchauffer et la température commence à
+
+413
+00:21:25,640 --> 00:21:28,460
+revenir à la normale une fois bien sûr
+
+414
+00:21:28,460 --> 00:21:31,500
+la quantité qu'on a injectée est passée
+
+415
+00:21:31,500 --> 00:21:37,200
+pratiquement en grande partie, elle a traversé cette
+
+416
+00:21:37,200 --> 00:21:40,380
+lampe, donc vous imaginez que tout ceci dépend
+
+417
+00:21:40,380 --> 00:21:43,340
+du DB, si le DB cardiaque par exemple
+
+418
+00:21:43,340 --> 00:21:46,420
+est faible, la quantité de sang qui va
+
+419
+00:21:46,420 --> 00:21:49,260
+passer devant la lampe est plus faible et
+
+420
+00:21:49,260 --> 00:21:51,500
+le temps que va mettre le sang pour
+
+421
+00:21:51,500 --> 00:21:53,960
+reprendre sa température à 37 sera un peu
+
+422
+00:21:53,960 --> 00:21:56,120
+plus long, donc vous aurez une courbe plus
+
+423
+00:21:56,120 --> 00:22:00,860
+faible en termes d'amplitude ici mais plus
+
+424
+00:22:00,860 --> 00:22:07,900
+longue dans le temps entre T1 et T2,
+
+425
+00:22:08,460 --> 00:22:10,120
+si bien sûr le DB est plus important,
+
+426
+00:22:10,800 --> 00:22:14,140
+vous aurez une courbe plus ample et puis
+
+427
+00:22:14,140 --> 00:22:19,020
+le retour est plus rapide, donc la courbe
+
+428
+00:22:19,020 --> 00:22:21,100
+va s'adapter en fonction de DB cardiaque
+
+429
+00:22:21,100 --> 00:22:24,780
+mais les mathématiciens nous ont prouvé qu'en
+
+430
+00:22:24,780 --> 00:22:28,100
+calculant l'air sous la courbe, l'intervalle
+
+431
+00:22:28,100 --> 00:22:32,520
+temps vitesse, l'air sous la courbe, son
+
+432
+00:22:32,520 --> 00:22:35,580
+calcul est proportionnel au DB cardiaque de telle
+
+433
+00:22:35,580 --> 00:22:37,840
+façon qu'on a actuellement de façon automatique,
+
+434
+00:22:38,420 --> 00:22:43,580
+il suffit d'injecter cette quantité de 10
+
+435
+00:22:43,580 --> 00:22:47,480
+millilitres de sérum froid à travers le cathéter,
+
+436
+00:22:48,460 --> 00:22:50,240
+on va avoir cette courbe et la courbe
+
+437
+00:22:50,240 --> 00:22:53,200
+automatiquement, l'ordinateur calcule l'air sous la
+
+438
+00:22:53,200 --> 00:22:55,280
+courbe et déduit le DB cardiaque, on a
+
+439
+00:22:55,280 --> 00:22:59,280
+besoin de faire pratiquement aucun calcul, l'avantage
+
+440
+00:22:59,280 --> 00:23:00,660
+de cette méthode c'est qu'elle est
+
+441
+00:23:00,660 --> 00:23:04,600
+entièrement automatisée et nécessite simplement le cathéter que
+
+442
+00:23:04,600 --> 00:23:07,800
+je vous montre, ce cathéter là que vous
+
+443
+00:23:07,800 --> 00:23:10,920
+voyez enroulé et dans lequel il y a
+
+444
+00:23:10,920 --> 00:23:13,980
+une partie, une lumière pour l'injection du
+
+445
+00:23:13,980 --> 00:23:20,140
+sérum physiologique, sérum salé froid et il y
+
+446
+00:23:20,140 --> 00:23:23,040
+a une partie qui est connectée à l
+
+447
+00:23:23,040 --> 00:23:25,500
+'ordinateur et qui va permettre de transmettre les
+
+448
+00:23:25,500 --> 00:23:30,700
+informations à partir de la cellule photosensible ou
+
+449
+00:23:30,700 --> 00:23:34,840
+sensible au changement de température et une autre
+
+450
+00:23:34,840 --> 00:23:36,840
+aussi pour au cas où on a envie
+
+451
+00:23:36,840 --> 00:23:40,840
+de gonfler un ballon parce que ce cathéter
+
+452
+00:23:40,840 --> 00:23:43,220
+va servir au calcul du DB cardiaque mais
+
+453
+00:23:43,220 --> 00:23:45,700
+ça va servir par la suite, on va
+
+454
+00:23:45,700 --> 00:23:48,780
+le voir à la mesure de pression à
+
+455
+00:23:48,780 --> 00:23:52,060
+l'intérieur du ventricule droit, donc ce cathéter
+
+456
+00:23:52,060 --> 00:23:53,760
+porte le nom de celui qu'il a
+
+457
+00:23:53,760 --> 00:23:56,240
+inventé ou des gens qui l'ont inventé,
+
+458
+00:23:56,380 --> 00:23:57,720
+c'est le cathéter de soins à Ganges
+
+459
+00:23:57,720 --> 00:24:00,420
+et ce cathéter il suffit de le passer
+
+460
+00:24:00,420 --> 00:24:01,940
+dans une veine comme je l'ai dit
+
+461
+00:24:01,940 --> 00:24:04,700
+et de le faire circuler jusqu'à l
+
+462
+00:24:04,700 --> 00:24:07,400
+'artère pulmonaire et on aura des calculs automatiques,
+
+463
+00:24:13,160 --> 00:24:16,720
+voilà donc pour les amateurs des mathématiques voilà
+
+464
+00:24:16,720 --> 00:24:18,720
+les formules qu'ils utilisent mais je pense
+
+465
+00:24:18,720 --> 00:24:19,960
+que c'est pas très utile.
+
+466
+00:24:21,380 --> 00:24:24,460
+Alors je reviens sur cette partie pour clore
+
+467
+00:24:24,460 --> 00:24:28,820
+les méthodes de mesure du DB cardiaque, on
+
+468
+00:24:28,820 --> 00:24:30,440
+a parlé de la mètre du principe de
+
+469
+00:24:30,440 --> 00:24:34,080
+Fick, du principe de thermodilution qui sont tous
+
+470
+00:24:34,080 --> 00:24:36,440
+les deux quand même invasifs et puis il
+
+471
+00:24:36,440 --> 00:24:39,280
+y a la méthode volumétrique on va dire
+
+472
+00:24:39,280 --> 00:24:42,480
+qui nécessite tout simplement la mesure directe des
+
+473
+00:24:42,480 --> 00:24:46,860
+volumes télédiastéoliques et télésystoliques soit de façon invasive
+
+474
+00:24:46,860 --> 00:24:51,420
+par cathéterisme cardiaque gauche par exemple comme ici
+
+475
+00:24:51,420 --> 00:24:54,000
+en utilisant les rayons X en salle de
+
+476
+00:24:54,000 --> 00:24:58,180
+cathé ce qu'on appelle une ventriculographie ou
+
+477
+00:24:58,180 --> 00:25:01,440
+alors en utilisant des méthodes non invasives comme
+
+478
+00:25:01,440 --> 00:25:04,480
+je l'ai avancé avant, les ultrasons en
+
+479
+00:25:04,480 --> 00:25:09,120
+utilisant l'éco-cardiographie ou l'IRM en
+
+480
+00:25:09,120 --> 00:25:12,260
+utilisant la résonance magnétique ou en utilisant un
+
+481
+00:25:12,260 --> 00:25:14,020
+scanner cardiaque.
+
+482
+00:25:16,150 --> 00:25:19,470
+Alors en traçant la surface et en rapportant
+
+483
+00:25:19,470 --> 00:25:25,310
+ceci aux axes, grands axes et petits axes,
+
+484
+00:25:26,010 --> 00:25:31,850
+on applique tout simplement une mesure mathématique pour
+
+485
+00:25:31,850 --> 00:25:35,410
+pouvoir déduire le volume et ça c'est
+
+486
+00:25:35,410 --> 00:25:41,850
+des cours de géométrie simple et dur d
+
+487
+00:25:41,850 --> 00:25:44,430
+'accord donc pour nous en pratique on trace
+
+488
+00:25:44,430 --> 00:25:48,570
+la surface on détermine le grand axe et
+
+489
+00:25:48,570 --> 00:25:54,770
+on déduit directement le volume et pour ceux
+
+490
+00:25:54,770 --> 00:25:57,530
+qui veulent comprendre la méthode mathématiquement sachez que
+
+491
+00:25:57,530 --> 00:26:00,890
+c'est la technique de la sommation des
+
+492
+00:26:00,890 --> 00:26:05,110
+différents disques comme ça une disons on a
+
+493
+00:26:06,490 --> 00:26:09,530
+empilé plusieurs disques et quand on les mesure
+
+494
+00:26:09,530 --> 00:26:11,810
+au total c'est à dire en le
+
+495
+00:26:11,810 --> 00:26:14,070
+rapportant aux grands axes ça nous donne le
+
+496
+00:26:14,070 --> 00:26:14,250
+volume.
+
+497
+00:26:17,390 --> 00:26:18,810
+Alors le débit cardiaque est de l'ordre
+
+498
+00:26:18,810 --> 00:26:20,850
+de 5 à 6 litres par minute il
+
+499
+00:26:20,850 --> 00:26:22,430
+est bien sûr variable en fonction de la
+
+500
+00:26:22,430 --> 00:26:24,390
+surface corporelle un enfant c'est pas comme
+
+501
+00:26:24,390 --> 00:26:28,530
+un adulte et même entre l'homme et
+
+502
+00:26:28,530 --> 00:26:30,170
+la femme c'est bien sûr différent et
+
+503
+00:26:30,170 --> 00:26:31,710
+ceci est lié à la surface corporelle.
+
+504
+00:26:32,130 --> 00:26:35,210
+Ainsi on peut calculer aussi un autre indice
+
+505
+00:26:35,210 --> 00:26:37,770
+qui est l'indexe cardiaque qui est tout
+
+506
+00:26:37,770 --> 00:26:39,770
+simplement le débit cardiaque rapporté à la surface
+
+507
+00:26:39,770 --> 00:26:42,890
+corporelle et qui est beaucoup plus stable et
+
+508
+00:26:42,890 --> 00:26:44,170
+qui ne tient pas compte bien sûr par
+
+509
+00:26:44,170 --> 00:26:46,070
+la suite de la surface et 3,3
+
+510
+00:26:46,070 --> 00:26:48,510
+plus ou moins 0,3 litres par minute
+
+511
+00:26:48,510 --> 00:26:49,810
+par mètre carré.
+
+512
+00:26:50,190 --> 00:26:52,030
+Alors le débit cardiaque dépend de beaucoup de
+
+513
+00:26:52,030 --> 00:26:54,450
+choses sur le plan physiologique dépend de la
+
+514
+00:26:54,450 --> 00:26:57,410
+position du corps quand on est allongé c
+
+515
+00:26:57,410 --> 00:26:58,790
+'est pas comme si on est debout quand
+
+516
+00:26:58,790 --> 00:27:01,430
+on est debout le débit a tendance à
+
+517
+00:27:01,430 --> 00:27:05,270
+vouloir diminuer et les moyens de régulation rentrent
+
+518
+00:27:05,270 --> 00:27:06,990
+en jeu pour l'améliorer.
+
+519
+00:27:07,430 --> 00:27:11,390
+L'anxiété augmente le débit cardiaque, l'âge
+
+520
+00:27:11,390 --> 00:27:15,630
+ça dépend plus on avance dans l'âge
+
+521
+00:27:15,630 --> 00:27:19,910
+normalement le débit cardiaque a tendance à diminuer.
+
+522
+00:27:20,770 --> 00:27:22,290
+Le débit chez l'homme est plus élevé
+
+523
+00:27:22,290 --> 00:27:23,130
+que chez la femme.
+
+524
+00:27:23,410 --> 00:27:26,410
+En cas d'anémie le débit cardiaque augmente,
+
+525
+00:27:26,570 --> 00:27:28,710
+en cas d'hypertiruidie il augmente, en cas
+
+526
+00:27:28,710 --> 00:27:31,650
+de grossesse aussi il augmente, en cas de
+
+527
+00:27:31,650 --> 00:27:34,450
+fièvre il augmente et bien sûr en réponse
+
+528
+00:27:34,450 --> 00:27:37,010
+à une activité musculaire le débit cardiaque augmente
+
+529
+00:27:37,010 --> 00:27:38,890
+et dans l'altitude à cause de l
+
+530
+00:27:38,890 --> 00:27:41,310
+'hypoxie il va augmenter.
+
+531
+00:27:47,840 --> 00:27:50,740
+Alors le deuxième volet important de ce cours
+
+532
+00:27:50,740 --> 00:27:53,000
+qu'on va pas aborder en totalité pour
+
+533
+00:27:53,000 --> 00:27:54,680
+ne pas alourdir le cours ce sera dans
+
+534
+00:27:54,680 --> 00:27:58,320
+un deuxième chapitre toujours du débit cardiaque.
+
+535
+00:27:58,460 --> 00:27:59,840
+Aujourd'hui on verra que la partie 1
+
+536
+00:27:59,840 --> 00:28:00,300
+du débit cardiaque.
+
+537
+00:28:01,520 --> 00:28:03,320
+Le deuxième c'est la régulation.
+
+538
+00:28:03,460 --> 00:28:06,480
+Dans la régulation il y a les déterminants
+
+539
+00:28:06,480 --> 00:28:08,520
+du débit cardiaque dans lesquels aussi on va
+
+540
+00:28:08,520 --> 00:28:10,700
+voir pour l'instant que la précharge.
+
+541
+00:28:11,200 --> 00:28:14,920
+Déjà la précharge est un déterminant très important
+
+542
+00:28:14,920 --> 00:28:17,640
+et on laissera les autres déterminants pour le
+
+543
+00:28:17,640 --> 00:28:18,560
+cours prochain.
+
+544
+00:28:19,800 --> 00:28:21,540
+Alors l'histoire de la précharge c'est
+
+545
+00:28:21,540 --> 00:28:21,780
+quoi?
+
+546
+00:28:22,360 --> 00:28:25,480
+C'est simplement ce qui va déterminer un
+
+547
+00:28:25,480 --> 00:28:27,500
+des déterminants du débit cardiaque c'est ce
+
+548
+00:28:27,500 --> 00:28:28,600
+qui remplit le coeur.
+
+549
+00:28:28,780 --> 00:28:30,860
+Un coeur pour qu'il éjecte il faut
+
+550
+00:28:30,860 --> 00:28:32,680
+qu'il se remplisse et la qualité du
+
+551
+00:28:32,680 --> 00:28:36,160
+remplissage va déterminer certainement le débit qu'il
+
+552
+00:28:36,160 --> 00:28:36,900
+va envoyer.
+
+553
+00:28:37,420 --> 00:28:40,320
+Et sur ce schéma vous voyez pratiquement représenter
+
+554
+00:28:40,320 --> 00:28:41,440
+tous les déterminants.
+
+555
+00:28:42,240 --> 00:28:44,800
+La quantité de sang qui rentre dans le
+
+556
+00:28:44,800 --> 00:28:45,920
+coeur c'est la précharge.
+
+557
+00:28:46,540 --> 00:28:49,300
+Et puis le muscle lui-même, sa qualité
+
+558
+00:28:49,300 --> 00:28:52,480
+en termes de contractilité, s'il est fort
+
+559
+00:28:52,480 --> 00:28:54,380
+il va éjecter mieux, s'il est faible
+
+560
+00:28:54,380 --> 00:28:55,200
+il va éjecter moins.
+
+561
+00:28:55,340 --> 00:28:57,800
+Donc la contractilité va jouer un rôle aussi
+
+562
+00:28:57,800 --> 00:28:59,040
+dans le débit cardiaque.
+
+563
+00:28:59,580 --> 00:29:02,700
+Et après il y aura la post-charge,
+
+564
+00:29:02,880 --> 00:29:04,440
+c'est à dire l'ensemble des résistances
+
+565
+00:29:04,440 --> 00:29:07,000
+qui vont s'opposer à cette éjection.
+
+566
+00:29:07,320 --> 00:29:10,520
+Et enfin le nombre de fois que le
+
+567
+00:29:10,520 --> 00:29:12,740
+coeur bat c'est à dire la fréquence
+
+568
+00:29:12,740 --> 00:29:14,560
+cardiaque va être aussi indéterminant.
+
+569
+00:29:17,970 --> 00:29:20,990
+Alors pour s'attarder sur le débit sur
+
+570
+00:29:20,990 --> 00:29:22,010
+la précharge.
+
+571
+00:29:22,530 --> 00:29:24,830
+La précharge elle représente quoi?
+
+572
+00:29:24,970 --> 00:29:26,330
+On a dit de façon simple c'est
+
+573
+00:29:26,330 --> 00:29:27,730
+la quantité de son qui rentre.
+
+574
+00:29:28,430 --> 00:29:30,810
+Donc c'est bien le retour veineux.
+
+575
+00:29:31,070 --> 00:29:33,630
+Le son veineux revient vers le coeur à
+
+576
+00:29:33,630 --> 00:29:35,470
+travers les 24 supérieures et inférieures.
+
+577
+00:29:36,330 --> 00:29:38,190
+Donc si on fait la somme du son
+
+578
+00:29:38,190 --> 00:29:39,850
+qui vient à travers la 24 supérieures et
+
+579
+00:29:39,850 --> 00:29:42,290
+inférieures on aura le retour veineux qui arrive
+
+580
+00:29:42,290 --> 00:29:45,210
+vers le coeur à chaque cycle cardiaque et
+
+581
+00:29:45,210 --> 00:29:47,770
+vous la multipliez par exemple par la fréquence
+
+582
+00:29:47,770 --> 00:29:50,550
+cardiaque vous aurez la quantité en 8 minutes.
+
+583
+00:29:51,950 --> 00:29:55,550
+C'est finalement le retour veineux, la quantité
+
+584
+00:29:55,550 --> 00:29:56,950
+de son qui arrive vers par exemple l
+
+585
+00:29:56,950 --> 00:29:59,070
+'oreillette droite qui va déterminer la quantité de
+
+586
+00:29:59,070 --> 00:30:01,670
+son qui va rentrer dans le ventricule droit
+
+587
+00:30:01,670 --> 00:30:02,270
+par exemple.
+
+588
+00:30:02,470 --> 00:30:05,210
+Donc ça va être, le retour veineux va
+
+589
+00:30:05,210 --> 00:30:07,610
+être égal pratiquement au volume télé-diastolique.
+
+590
+00:30:07,930 --> 00:30:11,610
+Donc la précharge peut être représentée par le
+
+591
+00:30:11,610 --> 00:30:14,730
+retour veineux, peut être représentée par le volume
+
+592
+00:30:14,730 --> 00:30:16,830
+tout simplement télé-diastolique c'est à dire
+
+593
+00:30:16,830 --> 00:30:21,510
+de combien on va remplir ce ventricule au
+
+594
+00:30:21,510 --> 00:30:23,410
+maximum du remplissage c'est à dire à
+
+595
+00:30:23,410 --> 00:30:25,510
+la fin du remplissage.
+
+596
+00:30:28,000 --> 00:30:34,550
+Et puis on peut aussi sortir de la
+
+597
+00:30:34,550 --> 00:30:39,890
+notion de volume et dire que la tension
+
+598
+00:30:39,890 --> 00:30:42,250
+pariétale en fin de diastole est un élément
+
+599
+00:30:42,250 --> 00:30:44,930
+important mais pour la comprendre cette notion on
+
+600
+00:30:44,930 --> 00:30:45,930
+va la laisser jusqu'à ce qu'on
+
+601
+00:30:45,930 --> 00:30:48,830
+arrive à la notion jusqu'à ce qu
+
+602
+00:30:48,830 --> 00:30:52,090
+'on ait fini avec les autres déterminants et
+
+603
+00:30:52,090 --> 00:30:55,310
+qu'on ait représenté la compression volume pour
+
+604
+00:30:55,310 --> 00:30:57,410
+que vous compreniez l'importance aussi de la
+
+605
+00:30:57,410 --> 00:30:59,410
+tension pariétale en fin du diastole.
+
+606
+00:30:59,430 --> 00:31:01,370
+Rappelez-vous simplement que dans le cycle cardiaque
+
+607
+00:31:01,370 --> 00:31:03,470
+on avait dit que pour avoir un bon
+
+608
+00:31:03,470 --> 00:31:06,950
+remplissage il faut préparer cette étape par une
+
+609
+00:31:06,950 --> 00:31:08,810
+étape préalable qui est l'étape de la
+
+610
+00:31:08,810 --> 00:31:11,530
+relaxation osévolumétrique et dont le but c'est
+
+611
+00:31:11,530 --> 00:31:14,090
+d'atteindre une tension très faible, une pression
+
+612
+00:31:14,090 --> 00:31:18,210
+très faible voire qui avoisine le zéro au
+
+613
+00:31:18,210 --> 00:31:19,210
+début du remplissage.
+
+614
+00:31:19,770 --> 00:31:22,350
+Au cours du remplissage il faut que cette
+
+615
+00:31:22,350 --> 00:31:23,670
+pression reste faible.
+
+616
+00:31:24,490 --> 00:31:29,390
+Si elle augmente rapidement ça va conditionner certainement
+
+617
+00:31:29,390 --> 00:31:31,970
+le volume télé-diastolique ou la quantité de
+
+618
+00:31:31,970 --> 00:31:33,490
+sang qui va rentrer dans le ventricule ou
+
+619
+00:31:33,490 --> 00:31:34,550
+tout simplement la précharge.
+
+620
+00:31:37,300 --> 00:31:40,940
+Deuxième notion importante, la précharge finalement si on
+
+621
+00:31:40,940 --> 00:31:42,460
+l'a assimilé au retour veineux donc on
+
+622
+00:31:42,460 --> 00:31:44,580
+peut l'assimiler aussi à la volumie, à
+
+623
+00:31:44,580 --> 00:31:47,080
+la quantité de sang qui circule dans quelqu
+
+624
+00:31:47,080 --> 00:31:48,420
+'un qui est en train de saigner par
+
+625
+00:31:48,420 --> 00:31:50,740
+exemple il perd du sang donc le retour
+
+626
+00:31:50,740 --> 00:31:52,960
+veineux va être faible et forcément la précharge
+
+627
+00:31:52,960 --> 00:31:54,080
+va diminuer.
+
+628
+00:31:54,280 --> 00:31:56,480
+Donc il y a une relation entre la
+
+629
+00:31:56,480 --> 00:31:58,880
+précharge et la volumie qu'elle soit volumie
+
+630
+00:31:58,880 --> 00:32:01,200
+vraie ou volumie relative.
+
+631
+00:32:01,480 --> 00:32:02,800
+On l'expliquera après.
+
+632
+00:32:03,940 --> 00:32:06,820
+Maintenant il est fondamental de connaître la loi
+
+633
+00:32:06,820 --> 00:32:07,760
+de Frank Starlin.
+
+634
+00:32:09,740 --> 00:32:13,580
+Frank Starlin a fait des études qui ont
+
+635
+00:32:13,580 --> 00:32:17,840
+permis de mieux comprendre la précharge et comment
+
+636
+00:32:17,840 --> 00:32:20,200
+elle est, comment elle varie.
+
+637
+00:32:20,360 --> 00:32:23,060
+C'est important de connaître le dispositif de
+
+638
+00:32:23,060 --> 00:32:23,500
+Starlin.
+
+639
+00:32:23,540 --> 00:32:24,600
+C'est vrai qu'elle a fait un
+
+640
+00:32:24,600 --> 00:32:28,560
+dispositif sur des animaux pour permettre de comprendre
+
+641
+00:32:28,560 --> 00:32:32,500
+comment il varie en mettant, en laissant le
+
+642
+00:32:32,500 --> 00:32:37,520
+coeur battre et en injectant directement dans leur
+
+643
+00:32:37,520 --> 00:32:40,880
+veine cave une quantité de liquide au fur
+
+644
+00:32:40,880 --> 00:32:44,360
+et à mesure et en regardant de l
+
+645
+00:32:44,360 --> 00:32:48,360
+'autre côté bien sûr la quantité de liquide
+
+646
+00:32:48,360 --> 00:32:51,580
+qu'il déverse dans les veines caves vous
+
+647
+00:32:51,580 --> 00:32:56,380
+le savez va passer à travers l'artère
+
+648
+00:32:56,380 --> 00:32:58,460
+pulmonaire vers les poumons qui va l'enrichir
+
+649
+00:32:58,460 --> 00:33:01,540
+et puis à travers les veines pulmonaires vers
+
+650
+00:33:01,540 --> 00:33:03,200
+le coeur gauche et il y aura un
+
+651
+00:33:03,200 --> 00:33:04,500
+retour de sang dans l'aorte.
+
+652
+00:33:05,120 --> 00:33:07,660
+Donc lui il détermine la quantité qu'il
+
+653
+00:33:07,660 --> 00:33:10,340
+met dans le coeur droit et en même
+
+654
+00:33:10,340 --> 00:33:13,500
+temps de l'autre côté il voit il
+
+655
+00:33:13,500 --> 00:33:16,480
+a mis en place un dispositif qui permet
+
+656
+00:33:16,480 --> 00:33:20,160
+de calculer même la contractilité du coeur c
+
+657
+00:33:20,160 --> 00:33:22,760
+'est à dire en le mettant comme ici
+
+658
+00:33:22,760 --> 00:33:26,460
+dans un autour d'un liquide le coeur
+
+659
+00:33:26,460 --> 00:33:28,780
+quand il bouge il fait bouger le liquide
+
+660
+00:33:28,780 --> 00:33:31,620
+donc fait bouger la colonne qui est là
+
+661
+00:33:31,620 --> 00:33:33,560
+et qui va permettre de faire bouger une
+
+662
+00:33:33,560 --> 00:33:40,600
+aiguille qui enregistre finalement la quantité ou la
+
+663
+00:33:40,600 --> 00:33:44,220
+force de la contractilité cardiaque.
+
+664
+00:33:44,700 --> 00:33:49,800
+Ainsi sur des éléments d'abord isolés type
+
+665
+00:33:49,800 --> 00:33:52,060
+de fibres cardiaques et puis sur le coeur
+
+666
+00:33:52,060 --> 00:33:57,620
+entier elle a pu déterminer une relation entre
+
+667
+00:33:57,620 --> 00:34:00,660
+la longueur des fibres cardiaques et la tension
+
+668
+00:34:00,660 --> 00:34:03,500
+pariétale et sur le coeur entier vous pouvez
+
+669
+00:34:03,500 --> 00:34:06,820
+changer le terme longueur par volume par le
+
+670
+00:34:06,820 --> 00:34:11,400
+volume du sang ou le volume ventriculaire et
+
+671
+00:34:11,400 --> 00:34:15,060
+la tension qui est générée par le coeur.
+
+672
+00:34:16,040 --> 00:34:18,699
+Plus on va regarder que la courbe qui
+
+673
+00:34:18,699 --> 00:34:24,460
+est qui est jaune plus le plus le
+
+674
+00:34:24,460 --> 00:34:28,920
+coeur s'allonge plus les fibres cardiaques s
+
+675
+00:34:28,920 --> 00:34:33,760
+'allongent plus la tension pariétale augmente et donc
+
+676
+00:34:33,760 --> 00:34:36,020
+plus l'éjection est importante.
+
+677
+00:34:39,409 --> 00:34:41,090
+Voilà la courbe qu'on obtient à la
+
+678
+00:34:41,090 --> 00:34:43,530
+fin donc on peut faire le test juste
+
+679
+00:34:43,530 --> 00:34:47,409
+sur une fibre plus en l'allonge on
+
+680
+00:34:47,409 --> 00:34:49,449
+voit qu'elle est capable de générer une
+
+681
+00:34:49,449 --> 00:34:53,750
+force plus importante et monsieur Starlin a prouvé
+
+682
+00:34:53,750 --> 00:34:59,090
+qu'à l'échelle du coeur entier ça
+
+683
+00:34:59,090 --> 00:35:02,730
+se confirme c'est à dire plus on
+
+684
+00:35:02,730 --> 00:35:05,470
+remplit le coeur plus ces fibres vont s
+
+685
+00:35:05,470 --> 00:35:08,330
+'étirer et plus ils s'étirent plus leur
+
+686
+00:35:08,330 --> 00:35:09,950
+force contractile augmente.
+
+687
+00:35:10,430 --> 00:35:16,120
+Voilà et de là par exemple on peut
+
+688
+00:35:16,120 --> 00:35:18,780
+faire une relation entre le volume qui rentre
+
+689
+00:35:18,780 --> 00:35:20,420
+dans le coeur et la pression qu'il
+
+690
+00:35:20,420 --> 00:35:21,460
+est capable de générer.
+
+691
+00:35:22,320 --> 00:35:23,320
+Ici c'est ce qu'on appelle la
+
+692
+00:35:23,320 --> 00:35:25,020
+courbe pression volume et on va en voir
+
+693
+00:35:25,020 --> 00:35:25,780
+juste une partie.
+
+694
+00:35:26,440 --> 00:35:31,440
+Regardez par exemple la boucle en bleu la
+
+695
+00:35:31,440 --> 00:35:34,200
+boucle en bleu c'est simple vous voyez
+
+696
+00:35:34,200 --> 00:35:38,140
+qu'en bas on a en part d
+
+697
+00:35:38,140 --> 00:35:43,260
+'un volume de 50 millilitres en remplissant le
+
+698
+00:35:43,260 --> 00:35:46,120
+coeur la tension n'augmente pas en remplissant
+
+699
+00:35:46,120 --> 00:35:49,520
+en remplissant jusqu'à atteindre 150 ml elle
+
+700
+00:35:49,520 --> 00:35:52,600
+a augmenté un petit peu et à 150
+
+701
+00:35:52,600 --> 00:35:56,600
+ml on a atteint le volume télé-diastolique.
+
+702
+00:35:57,220 --> 00:35:59,520
+Suite à ça il y aura la partie
+
+703
+00:35:59,520 --> 00:36:02,460
+réservée à la contraction ésovolumétrique et puis un
+
+704
+00:36:02,460 --> 00:36:07,240
+éjection de sang donc qui va passer de
+
+705
+00:36:07,240 --> 00:36:10,440
+150 vers un volume résuel de 50 ml.
+
+706
+00:36:11,080 --> 00:36:15,520
+Ce qui importe dans ce schéma là c
+
+707
+00:36:15,520 --> 00:36:19,640
+'est de dire que quand vous augmentez le
+
+708
+00:36:19,640 --> 00:36:22,040
+volume de remplissage par exemple vous passez à
+
+709
+00:36:22,040 --> 00:36:25,940
+la courbe en rouge vous atteignez 130 et
+
+710
+00:36:25,940 --> 00:36:28,520
+bien forcément la quantité éjectée va être plus
+
+711
+00:36:28,520 --> 00:36:32,000
+importante alors que qui si le coeur se
+
+712
+00:36:32,000 --> 00:36:35,880
+remplit peu par exemple la courbe en vert
+
+713
+00:36:35,880 --> 00:36:39,040
+se remplit à 70 ml à la quantité
+
+714
+00:36:39,040 --> 00:36:41,580
+qui va éjecter va être plus faible donc
+
+715
+00:36:41,580 --> 00:36:46,460
+effectivement la variation de la précharge va retentir
+
+716
+00:36:46,460 --> 00:36:49,020
+sur la quantité de sang qui est éjecté.
+
+717
+00:36:52,440 --> 00:36:54,500
+Donc le mécanisme de Frank Starling permet d
+
+718
+00:36:54,500 --> 00:36:56,420
+'adapter le débit cardiaque au retour veineux et
+
+719
+00:36:56,420 --> 00:36:57,660
+d'ailleurs c'est le mécanisme qui nous
+
+720
+00:36:57,660 --> 00:37:01,360
+permet de comprendre comment le débit cardiaque droit
+
+721
+00:37:01,360 --> 00:37:03,020
+est égal au débit cardiaque gauche.
+
+722
+00:37:03,100 --> 00:37:05,620
+En fait lorsque le ventricule gauche pompe de
+
+723
+00:37:05,620 --> 00:37:09,220
+façon excessive le retour veineux devient plus important
+
+724
+00:37:09,220 --> 00:37:11,560
+dans le ventricule droit et de là s
+
+725
+00:37:11,560 --> 00:37:13,920
+'en suit une augmentation télé-diastolique de la
+
+726
+00:37:13,920 --> 00:37:16,080
+longueur des fibres du coeur droit et donc
+
+727
+00:37:16,080 --> 00:37:17,880
+une augmentation de sang débit qui va lui
+
+728
+00:37:17,880 --> 00:37:21,180
+permettre d'égaliser avec le débit du coeur
+
+729
+00:37:21,180 --> 00:37:21,640
+gauche.
+
+730
+00:37:22,380 --> 00:37:24,720
+Voilà pour la première partie du cours du
+
+731
+00:37:24,720 --> 00:37:25,900
+débit cardiaque.
+
+732
+00:37:26,760 --> 00:37:29,460
+Merci de votre attention et on continuera la
+
+733
+00:37:29,460 --> 00:37:31,380
+deuxième partie dans le cours prochain.

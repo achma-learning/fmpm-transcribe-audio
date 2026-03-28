@@ -1,0 +1,1795 @@
+1
+00:00:01,029 --> 00:00:02,210
+Bonjour tout le monde.
+
+2
+00:00:02,690 --> 00:00:04,510
+Aujourd'hui, on va voir la mémoire.
+
+3
+00:00:05,590 --> 00:00:09,450
+On va voir ensemble quelques rappels de ce
+
+4
+00:00:09,450 --> 00:00:11,550
+que vous avez déjà vu l'année dernière
+
+5
+00:00:11,550 --> 00:00:12,830
+en neuropsychologie.
+
+6
+00:00:13,730 --> 00:00:16,030
+Et puis on va voir quelques mécanismes fondamentaux
+
+7
+00:00:16,030 --> 00:00:18,590
+expliquant donc comment est-ce qu'on arrive
+
+8
+00:00:18,590 --> 00:00:20,390
+à mémoriser les souvenirs.
+
+9
+00:00:21,710 --> 00:00:24,050
+C'est un sujet très complexe.
+
+10
+00:00:24,210 --> 00:00:26,010
+On ne va pas voir beaucoup de choses.
+
+11
+00:00:26,810 --> 00:00:28,090
+On va juste voir ce qu'on a
+
+12
+00:00:28,090 --> 00:00:33,050
+pu découvrir quelques-uns des éléments qu'on
+
+13
+00:00:33,050 --> 00:00:35,310
+a pu découvrir sur ce qui se passe
+
+14
+00:00:35,310 --> 00:00:38,270
+au niveau des neurones quand on mémorise un
+
+15
+00:00:38,270 --> 00:00:39,050
+nouveau souvenir.
+
+16
+00:00:42,560 --> 00:00:45,420
+Voici là les objectifs de ce cours.
+
+17
+00:00:48,880 --> 00:00:52,420
+Donc, l'apprentissage et la mémoire, c'est
+
+18
+00:00:52,420 --> 00:00:54,920
+des processus qui sont fondamentaux pour l'être
+
+19
+00:00:54,920 --> 00:00:55,320
+humain.
+
+20
+00:00:56,440 --> 00:00:57,980
+On dit qu'on est sa mémoire, c
+
+21
+00:00:57,980 --> 00:01:01,200
+'est-à-dire que la personnalité est construite
+
+22
+00:01:01,200 --> 00:01:04,980
+à partir des différents souvenirs qu'on a
+
+23
+00:01:04,980 --> 00:01:07,340
+de soi-même, c'est-à-dire ses
+
+24
+00:01:07,340 --> 00:01:13,920
+convictions, ses expériences, les choses qu'on aime,
+
+25
+00:01:13,980 --> 00:01:15,360
+qu'on n'aime pas, les gens qui
+
+26
+00:01:15,360 --> 00:01:17,080
+sont proches de nous, les gens qui ne
+
+27
+00:01:17,080 --> 00:01:17,920
+le sont pas.
+
+28
+00:01:18,480 --> 00:01:20,460
+Et donc, quand on commence à perdre la
+
+29
+00:01:20,460 --> 00:01:22,520
+mémoire, on commence à perdre une partie de
+
+30
+00:01:22,520 --> 00:01:22,720
+soi.
+
+31
+00:01:23,780 --> 00:01:25,240
+Il y a différents types de mémoires.
+
+32
+00:01:25,340 --> 00:01:26,620
+On va les revoir ensemble.
+
+33
+00:01:27,620 --> 00:01:34,300
+Nos connaissances ont beaucoup évolué dernièrement, notamment grâce
+
+34
+00:01:34,300 --> 00:01:36,420
+à l'arrivée de la biologie moléculaire.
+
+35
+00:01:37,880 --> 00:01:41,740
+La mémoire, c'est un sujet important en
+
+36
+00:01:41,740 --> 00:01:45,920
+neurophysiologie, en physiologie parce qu'en pathologie, c
+
+37
+00:01:45,920 --> 00:01:47,800
+'est très souvent atteint.
+
+38
+00:01:48,720 --> 00:01:50,680
+Et très souvent, donc, on va avoir des
+
+39
+00:01:50,680 --> 00:01:52,920
+patients qui ont des troubles de la mémoire
+
+40
+00:01:52,920 --> 00:01:54,640
+dans différentes pathologies.
+
+41
+00:01:54,640 --> 00:01:59,860
+Il y a différents mécanismes qui sont découverts
+
+42
+00:02:00,160 --> 00:02:04,800
+concernant la physiologie et aussi la physiopathologie, ce
+
+43
+00:02:04,800 --> 00:02:11,020
+qui amène à des espoirs thérapeutiques concernant ces
+
+44
+00:02:11,020 --> 00:02:11,340
+patients.
+
+45
+00:02:11,500 --> 00:02:14,800
+Malheureusement, on est toujours loin de proposer des
+
+46
+00:02:14,800 --> 00:02:20,400
+traitements efficaces pour arrêter la neurodégénérescence aboutissant à
+
+47
+00:02:20,400 --> 00:02:23,780
+l'amnésie, surtout chez les patients Alzheimer, etc.
+
+48
+00:02:27,070 --> 00:02:29,810
+Maintenant, on va voir ensemble les types de
+
+49
+00:02:29,810 --> 00:02:30,230
+mémoire.
+
+50
+00:02:31,810 --> 00:02:35,530
+On a vu l'année dernière, en psychologie,
+
+51
+00:02:36,510 --> 00:02:40,510
+que lorsqu'on reçoit un stimulus, le stimulus
+
+52
+00:02:40,510 --> 00:02:42,650
+passe dans la mémoire sensorielle, c'est-à
+
+53
+00:02:42,650 --> 00:02:49,090
+-dire dans les appareils sensoriels, oreilles, œil, peau,
+
+54
+00:02:49,350 --> 00:02:49,590
+etc.
+
+55
+00:02:52,130 --> 00:02:56,490
+Ce stimulus, si on n'y fait pas
+
+56
+00:02:56,490 --> 00:03:00,690
+très attention, il va être rapidement négligé.
+
+57
+00:03:01,590 --> 00:03:04,410
+Mais si on juge que ce stimulus est
+
+58
+00:03:04,410 --> 00:03:07,330
+important pour nous, on va y faire attention
+
+59
+00:03:07,330 --> 00:03:09,730
+et il va entrer dans la mémoire à
+
+60
+00:03:09,730 --> 00:03:10,110
+court terme.
+
+61
+00:03:10,790 --> 00:03:13,510
+On va travailler, on va utiliser ce stimulus
+
+62
+00:03:13,510 --> 00:03:16,650
+pour travailler, par exemple, on va nous donner
+
+63
+00:03:16,650 --> 00:03:19,410
+un numéro de téléphone, on va le mémoriser,
+
+64
+00:03:19,610 --> 00:03:21,450
+on va le transcrire dans une feuille ou
+
+65
+00:03:21,450 --> 00:03:25,670
+bien sur notre téléphone, puis on va, encore
+
+66
+00:03:25,670 --> 00:03:26,410
+une fois, l'oublier.
+
+67
+00:03:27,810 --> 00:03:31,210
+Si on nous dit que ce stimulus, donc
+
+68
+00:03:31,210 --> 00:03:34,370
+ce souvenir, cette information est capitale et qu
+
+69
+00:03:34,370 --> 00:03:37,250
+'on doit la mémoriser à long terme parce
+
+70
+00:03:37,250 --> 00:03:39,170
+qu'on en aura besoin demain, par exemple,
+
+71
+00:03:39,310 --> 00:03:41,210
+si on vous dit ce numéro de téléphone,
+
+72
+00:03:41,370 --> 00:03:42,870
+vous devez le retenir, parce que si vous
+
+73
+00:03:42,870 --> 00:03:44,190
+ne le retenez pas, vous allez perdre, par
+
+74
+00:03:44,190 --> 00:03:44,970
+exemple, le désir.
+
+75
+00:03:45,850 --> 00:03:50,470
+Vous allez chercher des moyens pour l'encoder.
+
+76
+00:03:51,150 --> 00:03:53,670
+L'encoder, c'est-à-dire le mémoriser
+
+77
+00:03:53,670 --> 00:03:54,370
+à long terme.
+
+78
+00:03:55,450 --> 00:03:59,070
+Une fois qu'on aura utilisé ce souvenir,
+
+79
+00:03:59,630 --> 00:04:01,610
+par exemple, dans un jour, dans une année,
+
+80
+00:04:03,130 --> 00:04:07,190
+progressivement, il va commencer à être oublié, remplacé
+
+81
+00:04:07,190 --> 00:04:08,450
+par d'autres souvenirs.
+
+82
+00:04:09,410 --> 00:04:13,250
+Toutefois, notre inconscient garde toujours des traces de
+
+83
+00:04:13,250 --> 00:04:15,089
+ce qu'on a oublié consciemment.
+
+84
+00:04:15,450 --> 00:04:18,089
+L'inconscient a des capacités de mémorisation qui
+
+85
+00:04:18,089 --> 00:04:19,670
+sont très, très énormes.
+
+86
+00:04:21,340 --> 00:04:24,560
+Donc, la mémoire sensorielle, elle est très courte.
+
+87
+00:04:25,720 --> 00:04:27,880
+C'est juste la perception, quelque chose est
+
+88
+00:04:27,880 --> 00:04:29,960
+passé devant nous, on a entendu quelque chose,
+
+89
+00:04:30,080 --> 00:04:31,760
+mais on ne se rappelle même pas c
+
+90
+00:04:31,760 --> 00:04:33,640
+'est quoi, mais on sait que quelque chose
+
+91
+00:04:33,640 --> 00:04:34,520
+est passé devant nous.
+
+92
+00:04:35,600 --> 00:04:37,340
+La mémoire à court terme, c'est la
+
+93
+00:04:37,340 --> 00:04:38,140
+mémoire du travail.
+
+94
+00:04:39,180 --> 00:04:41,720
+Elle est inférieure à une minute et demie.
+
+95
+00:04:42,780 --> 00:04:45,280
+On va stocker des informations dont on aura
+
+96
+00:04:45,280 --> 00:04:48,720
+besoin pour travailler pour une durée très limitée.
+
+97
+00:04:50,820 --> 00:04:53,340
+Puis, la mémoire à long terme, c'est
+
+98
+00:04:53,340 --> 00:04:56,180
+les informations qui sont stockées plus ou moins
+
+99
+00:04:56,180 --> 00:04:58,380
+longtemps selon nos besoins.
+
+100
+00:04:59,140 --> 00:04:59,720
+Et puis, l'oubli.
+
+101
+00:04:59,860 --> 00:05:02,380
+L'oubli, c'est un processus physiologique important
+
+102
+00:05:02,380 --> 00:05:06,000
+pour mémoriser d'autres souvenirs.
+
+103
+00:05:06,620 --> 00:05:08,940
+Si il est excessif, ça devient pathologique.
+
+104
+00:05:09,460 --> 00:05:10,460
+C'est ce qu'on appelle l'amnésie.
+
+105
+00:05:13,860 --> 00:05:16,180
+La première classification qu'on a, c'est
+
+106
+00:05:16,180 --> 00:05:17,220
+une classification temporelle.
+
+107
+00:05:18,220 --> 00:05:22,340
+Maintenant, on va faire une classification plus qualitative
+
+108
+00:05:22,340 --> 00:05:24,900
+de la mémoire, et on la dévise en
+
+109
+00:05:24,900 --> 00:05:26,460
+explicite et en implicite.
+
+110
+00:05:26,960 --> 00:05:29,060
+La mémoire explicite, c'est tout ce qu
+
+111
+00:05:29,060 --> 00:05:34,380
+'on peut expliciter, extérioriser, exprimer, et on la
+
+112
+00:05:34,380 --> 00:05:36,020
+dévise en épisodique, c'est tout ce qui
+
+113
+00:05:36,020 --> 00:05:39,460
+est souvenir concernant le soi, concernant moi-même,
+
+114
+00:05:40,160 --> 00:05:43,080
+mes informations, les choses que j'ai apprises,
+
+115
+00:05:43,720 --> 00:05:46,400
+comme l'heure à laquelle je dois partir
+
+116
+00:05:46,400 --> 00:05:50,220
+à l'école, au travail, les noms des
+
+117
+00:05:50,220 --> 00:05:53,300
+gens que je connais, les noms des structures
+
+118
+00:05:53,300 --> 00:05:56,160
+qui constituent l'organisme humain, etc.
+
+119
+00:05:56,440 --> 00:05:59,540
+Tout ça, je peux l'exprimer avec détail
+
+120
+00:05:59,540 --> 00:06:01,460
+et je peux savoir quand est-ce que
+
+121
+00:06:01,460 --> 00:06:02,480
+je l'ai appris et où.
+
+122
+00:06:03,140 --> 00:06:07,920
+La sémantique, c'est aussi explicité, mais c
+
+123
+00:06:07,920 --> 00:06:10,740
+'est la mémoire de la culture générale.
+
+124
+00:06:10,740 --> 00:06:12,700
+Je ne sais pas exactement quand est-ce
+
+125
+00:06:12,700 --> 00:06:14,300
+que j'ai appris que Paris, par exemple,
+
+126
+00:06:14,420 --> 00:06:17,120
+c'est la capitale de la France, que
+
+127
+00:06:17,120 --> 00:06:20,260
+le Maroc se trouve en Afrique, etc.
+
+128
+00:06:21,220 --> 00:06:23,640
+La mémoire procédurale, de l'autre côté, c
+
+129
+00:06:23,640 --> 00:06:26,360
+'est une mémoire des habiletés motrices.
+
+130
+00:06:26,960 --> 00:06:30,980
+Comment est-ce que j'apprends à conduire
+
+131
+00:06:30,980 --> 00:06:34,580
+une bicyclette, une voiture, à nager, à marcher,
+
+132
+00:06:35,100 --> 00:06:37,460
+à marcher sur une corde, etc.
+
+133
+00:06:37,460 --> 00:06:41,460
+Tout ça, c'est de la mémoire procédurale.
+
+134
+00:06:47,400 --> 00:06:50,500
+Maintenant, si vous permettez, on va voir ensemble
+
+135
+00:06:50,500 --> 00:06:52,800
+la localisation de la mémoire.
+
+136
+00:06:52,960 --> 00:06:55,400
+Elle se localise où exactement ?
+
+137
+00:06:58,820 --> 00:07:02,340
+Dans le siècle dernier, on ne savait pas
+
+138
+00:07:02,340 --> 00:07:05,420
+exactement où se trouvaient les différents types de
+
+139
+00:07:05,420 --> 00:07:05,780
+mémoire.
+
+140
+00:07:05,780 --> 00:07:10,220
+Quelle structure du cerveau, ce temps, quel type
+
+141
+00:07:10,220 --> 00:07:10,740
+de mémoire.
+
+142
+00:07:12,080 --> 00:07:15,800
+Mais grâce à une complication qu'on a
+
+143
+00:07:15,800 --> 00:07:19,220
+vue chez un patient, un fameux patient qu
+
+144
+00:07:19,220 --> 00:07:22,160
+'on a appelé HM, on a pu comprendre
+
+145
+00:07:22,160 --> 00:07:22,960
+beaucoup de choses.
+
+146
+00:07:24,200 --> 00:07:26,420
+Aussi grâce à l'expérimentation et au progrès
+
+147
+00:07:26,420 --> 00:07:27,320
+de l'image.
+
+148
+00:07:29,710 --> 00:07:32,550
+Le patient HM, c'était un patient qui
+
+149
+00:07:32,550 --> 00:07:39,750
+présentait une épilepsie temporale qui était résistante au
+
+150
+00:07:39,750 --> 00:07:40,590
+traitement médical.
+
+151
+00:07:41,330 --> 00:07:44,510
+Et leurs médecins traitants ont pensé à enlever
+
+152
+00:07:44,510 --> 00:07:48,410
+la partie interne du long temporal qui était
+
+153
+00:07:48,410 --> 00:07:49,770
+à l'origine de l'épilepsie.
+
+154
+00:07:49,910 --> 00:07:51,890
+Mais ils ont fait ça de façon bilatérale.
+
+155
+00:07:52,730 --> 00:07:56,070
+Donc, ils n'ont pas compris que ça
+
+156
+00:07:56,070 --> 00:07:58,350
+pouvait avoir des conséquences dramatiques.
+
+157
+00:07:59,170 --> 00:08:00,890
+Les conséquences, c'est que le patient ne
+
+158
+00:08:00,890 --> 00:08:02,270
+présentait plus d'épilepsie.
+
+159
+00:08:02,270 --> 00:08:03,810
+Il était guéri de son épilepsie.
+
+160
+00:08:04,650 --> 00:08:07,510
+Mais il était devenu incapable de retenir de
+
+161
+00:08:07,510 --> 00:08:08,250
+nouveaux souvenirs.
+
+162
+00:08:08,390 --> 00:08:12,590
+Par exemple, on lui dit « Demain, tu
+
+163
+00:08:12,590 --> 00:08:15,610
+vas te présenter pour le rendez-vous X.
+
+164
+00:08:16,510 --> 00:08:17,930
+» Quand « demain » vient, il ne
+
+165
+00:08:17,930 --> 00:08:21,030
+sait pas quand il y a donné un
+
+166
+00:08:21,030 --> 00:08:21,470
+rendez-vous.
+
+167
+00:08:21,670 --> 00:08:22,810
+Il ne se rappelle même pas d'une
+
+168
+00:08:22,810 --> 00:08:25,950
+conversation, de la conversation qu'il a eue
+
+169
+00:08:26,710 --> 00:08:28,630
+dans laquelle on lui dit qu'il y
+
+170
+00:08:28,630 --> 00:08:29,750
+a un rendez-vous XY.
+
+171
+00:08:31,309 --> 00:08:33,330
+Il va vous rencontrer, il va vous dire
+
+172
+00:08:33,330 --> 00:08:34,750
+« Bonjour, je me présente.
+
+173
+00:08:35,049 --> 00:08:37,330
+» Quelques minutes après, il va recommencer à
+
+174
+00:08:37,330 --> 00:08:38,750
+vous dire « Bonjour, je m'appelle.
+
+175
+00:08:38,990 --> 00:08:40,929
+» Il va oublier qu'il était en
+
+176
+00:08:40,929 --> 00:08:41,650
+train de vous parler.
+
+177
+00:08:42,630 --> 00:08:49,070
+Donc, la mémoire entérograde chez lui était altérée.
+
+178
+00:08:49,130 --> 00:08:52,470
+La mémoire entérograde, c'est les nouveaux souvenirs,
+
+179
+00:08:52,570 --> 00:08:54,930
+la capacité à mémoriser de nouveaux souvenirs.
+
+180
+00:08:55,830 --> 00:08:58,950
+Ça, c'était altéré chez ce patient HMV.
+
+181
+00:09:06,090 --> 00:09:10,910
+L'histoire du patient HMV nous a fait
+
+182
+00:09:10,910 --> 00:09:13,710
+comprendre que cette partie interne du lobe temporal,
+
+183
+00:09:13,910 --> 00:09:17,270
+qu'on appelle l'hippocampe, était capitale pour
+
+184
+00:09:17,270 --> 00:09:19,050
+la mémorisation de nouveaux souvenirs.
+
+185
+00:09:20,610 --> 00:09:22,950
+Retenez que la mémoire déclarative, c'est-à
+
+186
+00:09:22,950 --> 00:09:27,430
+-dire retenir de nouveaux souvenirs, ça doit démarrer
+
+187
+00:09:27,430 --> 00:09:27,730
+ici.
+
+188
+00:09:28,310 --> 00:09:30,370
+Après, quand les souvenirs sont bien consolidés, ils
+
+189
+00:09:30,370 --> 00:09:32,930
+vont partir dans des aires corticales diffuses.
+
+190
+00:09:34,990 --> 00:09:37,410
+En général, on pense que ça part vers
+
+191
+00:09:37,410 --> 00:09:39,810
+les aires occipitotemporaux paréétales.
+
+192
+00:09:40,490 --> 00:09:41,690
+C'est là où il y a des
+
+193
+00:09:41,690 --> 00:09:46,350
+nouveaux réseaux qui sont créés pour être à
+
+194
+00:09:46,350 --> 00:09:48,310
+la base d'un souvenir particulier.
+
+195
+00:09:52,490 --> 00:09:56,390
+Donc, si on enlève cette partie-là, on
+
+196
+00:09:56,390 --> 00:09:58,290
+ne va pas pouvoir retenir de nouveaux souvenirs,
+
+197
+00:09:58,290 --> 00:10:00,810
+mais les souvenirs qu'on a déjà consolidés
+
+198
+00:10:00,810 --> 00:10:04,290
+et qui sont déjà dans le cortex temporoparétoxypital
+
+199
+00:10:05,170 --> 00:10:06,490
+ne vont pas être perdus.
+
+200
+00:10:06,650 --> 00:10:09,210
+On va juste perdre les souvenirs qui sont
+
+201
+00:10:09,210 --> 00:10:12,850
+en train d'être consolidés encore ici, donc
+
+202
+00:10:12,850 --> 00:10:14,070
+après trois mois.
+
+203
+00:10:15,150 --> 00:10:16,790
+Et les nouveaux souvenirs, on ne peut pas
+
+204
+00:10:16,790 --> 00:10:17,650
+les mémoriser.
+
+205
+00:10:20,260 --> 00:10:25,460
+Le lobe de l'hippocampe, le lobule de
+
+206
+00:10:25,460 --> 00:10:29,100
+l'hippocampe, il va jouer son rôle de
+
+207
+00:10:29,100 --> 00:10:34,340
+consolidation en connexion et en collaboration avec d
+
+208
+00:10:34,340 --> 00:10:38,240
+'autres structures, notamment le corps mammilaire à travers
+
+209
+00:10:38,240 --> 00:10:42,940
+le trigone, le corps mammilaire et le noyau
+
+210
+00:10:42,940 --> 00:10:46,020
+antérieur du thalamus à travers le vaisseau de
+
+211
+00:10:46,020 --> 00:10:51,840
+Victasir, le noyau antérieur du thalamus avec le
+
+212
+00:10:51,840 --> 00:10:55,160
+lobule ou le cortex singulaire qui est la
+
+213
+00:10:55,160 --> 00:11:01,820
+partie interne du lobe temporal frontal et parital.
+
+214
+00:11:02,500 --> 00:11:05,400
+Et puis l'information va revenir à l
+
+215
+00:11:05,400 --> 00:11:08,480
+'hippocampe via le lobe para-hippocampe.
+
+216
+00:11:09,980 --> 00:11:11,680
+C'est ce qu'on appelle le circuit
+
+217
+00:11:11,680 --> 00:11:14,360
+de Parpèze qui est un circuit fermé qui
+
+218
+00:11:14,360 --> 00:11:18,500
+va faire circuler l'information des milliers de
+
+219
+00:11:18,500 --> 00:11:20,800
+fois pour qu'elle soit consolidée.
+
+220
+00:11:23,300 --> 00:11:27,440
+Dans ce type de mémoire, l'amygdale joue
+
+221
+00:11:27,440 --> 00:11:29,560
+un rôle important, ce noyau-là que vous
+
+222
+00:11:29,560 --> 00:11:35,380
+voyez, surtout si les souvenirs sont associés à
+
+223
+00:11:35,380 --> 00:11:36,480
+une charge émotionnelle.
+
+224
+00:11:36,580 --> 00:11:40,180
+Par exemple, si on vous dit que quelqu
+
+225
+00:11:40,180 --> 00:11:42,720
+'un de cher est mort, vous n'allez
+
+226
+00:11:42,720 --> 00:11:44,380
+pas l'oublier dans une heure, vous allez
+
+227
+00:11:44,380 --> 00:11:45,440
+le retenir pour la vie.
+
+228
+00:11:45,440 --> 00:11:46,200
+Pourquoi?
+
+229
+00:11:46,380 --> 00:11:48,280
+Parce que ce genre de souvenir est associé
+
+230
+00:11:48,280 --> 00:11:49,940
+à une grande charge émotionnelle.
+
+231
+00:11:50,700 --> 00:11:53,440
+Si un cours est associé à une charge
+
+232
+00:11:53,440 --> 00:11:55,800
+émotionnelle parce que le prof vous a humilié,
+
+233
+00:11:55,960 --> 00:12:00,040
+vous a fait comprendre que vous êtes excellent,
+
+234
+00:12:00,540 --> 00:12:03,860
+que vous avez associé ce cours à une
+
+235
+00:12:03,860 --> 00:12:07,220
+belle charge émotionnelle ou à une mauvaise charge
+
+236
+00:12:07,220 --> 00:12:11,500
+émotionnelle, donc ce souvenir va être retenu plus
+
+237
+00:12:11,500 --> 00:12:13,900
+rapidement, plus efficacement et plus longtemps.
+
+238
+00:12:14,640 --> 00:12:15,760
+C'est ça le rôle de l'amygdale.
+
+239
+00:12:17,120 --> 00:12:18,720
+Qu'en est-il de la mémoire non
+
+240
+00:12:18,720 --> 00:12:20,480
+déclarative, la mémoire procédurale?
+
+241
+00:12:21,060 --> 00:12:24,600
+On pense que la mémoire procédurale est surtendue
+
+242
+00:12:24,600 --> 00:12:27,220
+par les noyaux gris centraux et le cervelet
+
+243
+00:12:27,220 --> 00:12:33,300
+qui vont retenir progressivement comment mieux faire un
+
+244
+00:12:33,300 --> 00:12:36,440
+geste, par exemple la natation, marcher sur une
+
+245
+00:12:36,440 --> 00:12:37,040
+corde, etc.
+
+246
+00:12:37,300 --> 00:12:38,860
+Donc ce sont des habiletés qu'on apprend
+
+247
+00:12:38,860 --> 00:12:41,160
+et qui ne peuvent pas être explicites.
+
+248
+00:12:43,560 --> 00:12:46,220
+Maintenant on va voir ensemble quelques bases biologiques
+
+249
+00:12:46,220 --> 00:12:46,880
+de la mémoire.
+
+250
+00:12:49,000 --> 00:12:51,700
+Pour étudier les bases biologiques de la mémoire,
+
+251
+00:12:52,560 --> 00:12:55,840
+on a choisi un animal qui a un
+
+252
+00:12:55,840 --> 00:12:58,560
+petit système nerveux de grands neurones, un réseau
+
+253
+00:12:58,560 --> 00:13:01,900
+neuronal simple fait de 2 à 3 neurones
+
+254
+00:13:01,900 --> 00:13:04,680
+maximum et une génétique qui est simple.
+
+255
+00:13:05,480 --> 00:13:08,040
+Pour ça, on a trouvé que les impertébrés
+
+256
+00:13:08,040 --> 00:13:13,920
+sont les meilleurs êtres vivants pour pouvoir étudier
+
+257
+00:13:13,920 --> 00:13:15,600
+l'apprentissage de la mémoire.
+
+258
+00:13:17,400 --> 00:13:19,820
+Dans ce cas de figure, la plésie était
+
+259
+00:13:19,820 --> 00:13:22,760
+le champion pour étudier la mémoire.
+
+260
+00:13:25,380 --> 00:13:31,480
+Les travaux de Kendall ont permis de comprendre
+
+261
+00:13:31,480 --> 00:13:34,160
+beaucoup de choses sur les mécanismes de la
+
+262
+00:13:34,160 --> 00:13:34,540
+mémoire.
+
+263
+00:13:35,580 --> 00:13:38,740
+L'habituation, le fait de s'habituer à
+
+264
+00:13:38,740 --> 00:13:40,700
+stimuler ce qui n'est pas non-susceptible
+
+265
+00:13:40,700 --> 00:13:43,040
+et de le négliger, c'est aussi de
+
+266
+00:13:43,040 --> 00:13:43,440
+la mémoire.
+
+267
+00:13:43,580 --> 00:13:46,780
+C'est un type de mémoire non-déclarative.
+
+268
+00:13:47,680 --> 00:13:51,840
+Dans ce cas de figure, on a le
+
+269
+00:13:51,840 --> 00:13:55,080
+siphon, c'est la peau de l'animal.
+
+270
+00:13:55,700 --> 00:13:58,260
+On a une afférence sensitive, on a une
+
+271
+00:13:58,260 --> 00:13:59,980
+afférence motrice, et on a le muscle.
+
+272
+00:14:00,520 --> 00:14:03,840
+Quand on stimule le siphon par de l
+
+273
+00:14:03,840 --> 00:14:08,360
+'eau, il va y avoir un neurone afférent
+
+274
+00:14:08,360 --> 00:14:14,020
+qui va stimuler, ce qui va aboutir à
+
+275
+00:14:14,020 --> 00:14:18,900
+la contraction du muscle et à la protection
+
+276
+00:14:18,900 --> 00:14:21,260
+de la partie vulnérable de l'animal.
+
+277
+00:14:22,200 --> 00:14:26,640
+Si on poursuit cette stimulation en utilisant ce
+
+278
+00:14:26,640 --> 00:14:28,900
+système, il va y avoir un équilibre.
+
+279
+00:14:29,560 --> 00:14:35,640
+Si ce système est excité seulement par le
+
+280
+00:14:35,640 --> 00:14:37,680
+neurone afférent qui n'est pas non-susceptible,
+
+281
+00:14:38,240 --> 00:14:45,480
+il va donc perdre de son efficacité.
+
+282
+00:14:46,060 --> 00:14:48,860
+Il va y avoir moins de neurotransmetteurs qui
+
+283
+00:14:48,860 --> 00:14:52,640
+seront transmis et libérés.
+
+284
+00:14:52,640 --> 00:14:54,720
+Il n'y aura pas de contraction aussi
+
+285
+00:14:54,720 --> 00:14:56,920
+vigoureuse qu'au début.
+
+286
+00:14:59,020 --> 00:15:01,260
+Qu'en est-il du conditionnement classique ?
+
+287
+00:15:01,260 --> 00:15:07,100
+Quand on va associer un stimulus qui n
+
+288
+00:15:07,100 --> 00:15:09,560
+'est pas conditionnel à un stimulus conditionnel.
+
+289
+00:15:10,320 --> 00:15:13,420
+Par exemple, le stimulus conditionnel, c'est la
+
+290
+00:15:13,420 --> 00:15:13,820
+cloche.
+
+291
+00:15:14,180 --> 00:15:16,480
+La cloche ne peut pas donner à elle
+
+292
+00:15:16,480 --> 00:15:18,520
+seule de la salivation chez le chien.
+
+293
+00:15:18,520 --> 00:15:21,040
+Par contre, la viande est capable à elle
+
+294
+00:15:21,040 --> 00:15:22,840
+seule de faire saliver le chien.
+
+295
+00:15:24,780 --> 00:15:26,940
+Mais si on fait une expérience où on
+
+296
+00:15:26,940 --> 00:15:29,440
+associe d'abord la cloche puis tout de
+
+297
+00:15:29,440 --> 00:15:35,860
+suite après la viande, l'animal va comprendre
+
+298
+00:15:36,230 --> 00:15:39,140
+que la cloche sonne l'arrivée de la
+
+299
+00:15:39,140 --> 00:15:39,420
+viande.
+
+300
+00:15:39,760 --> 00:15:41,460
+Une fois qu'on sonne la cloche, même
+
+301
+00:15:41,460 --> 00:15:45,160
+en absence de viande, l'animal va devenir
+
+302
+00:15:45,160 --> 00:15:46,800
+conditionné et il va saliver.
+
+303
+00:15:47,620 --> 00:15:53,420
+Comment expliquer ces mécanismes de conditionnement ?
+
+304
+00:15:53,420 --> 00:15:57,080
+Toujours en revenant vers la plaisie, on a
+
+305
+00:15:57,080 --> 00:16:02,920
+essayé de simuler le siphon mais aussi de
+
+306
+00:16:02,920 --> 00:16:07,180
+simuler cette fois la queue de l'animal
+
+307
+00:16:07,180 --> 00:16:09,500
+avec un choc électrique.
+
+308
+00:16:10,200 --> 00:16:13,140
+Le choc électrique est un stimulus inconditionnel.
+
+309
+00:16:13,140 --> 00:16:15,060
+À chaque fois qu'on a un choc
+
+310
+00:16:15,060 --> 00:16:16,580
+électrique, il va y avoir une contraction.
+
+311
+00:16:16,880 --> 00:16:17,780
+Il n'y a pas d'habituation.
+
+312
+00:16:18,560 --> 00:16:22,380
+Par contre, l'eau n'est pas nociceptive.
+
+313
+00:16:22,480 --> 00:16:26,080
+C'est un stimulus conditionnel et il ne
+
+314
+00:16:26,080 --> 00:16:33,800
+peut aboutir à la contraction de la partie
+
+315
+00:16:33,800 --> 00:16:36,960
+vulnérable de l'animal de façon vigoureuse et
+
+316
+00:16:36,960 --> 00:16:43,180
+continue et longue dans le temps que si
+
+317
+00:16:43,180 --> 00:16:46,680
+on associe ce stimulus à un choc électrique
+
+318
+00:16:46,680 --> 00:16:49,500
+comme pour le chien, ce qu'on a
+
+319
+00:16:49,500 --> 00:16:51,220
+fait avec la cloche et la viande.
+
+320
+00:16:52,160 --> 00:16:54,420
+Comment peut-on expliquer ça ?
+
+321
+00:16:55,000 --> 00:16:59,940
+Là, c'est le schéma antérieur qu'on
+
+322
+00:16:59,940 --> 00:17:05,740
+a vu, une afférence, un motoneurone de contraction.
+
+323
+00:17:06,540 --> 00:17:09,380
+Mais cette fois-ci, on va ajouter le
+
+324
+00:17:09,380 --> 00:17:14,859
+stimulus inconditionnel à travers un neurone aussi afférent
+
+325
+00:17:14,859 --> 00:17:16,359
+mais non susceptif.
+
+326
+00:17:16,839 --> 00:17:20,900
+Ce neurone va se faire synapse avec le
+
+327
+00:17:20,900 --> 00:17:26,180
+neurone afférent du premier stimulus.
+
+328
+00:17:28,640 --> 00:17:32,140
+Ce qu'on peut remarquer là, c'est
+
+329
+00:17:32,140 --> 00:17:36,060
+que si on stimule seulement le choc électrique,
+
+330
+00:17:36,060 --> 00:17:39,920
+le neurone associé au choc électrique, il va
+
+331
+00:17:39,920 --> 00:17:43,160
+y avoir sécrétion de sérotonine qui va activer
+
+332
+00:17:43,160 --> 00:17:46,000
+une protéine G et la protéine G va
+
+333
+00:17:46,000 --> 00:17:50,760
+activer une enzyme qui est un second messager.
+
+334
+00:17:51,600 --> 00:17:53,240
+Ça, c'est la première situation.
+
+335
+00:17:54,000 --> 00:17:57,340
+Deuxième situation, si on stimule ce neurone afférent
+
+336
+00:17:59,300 --> 00:18:02,920
+qui ramène l'information non susceptive, il va
+
+337
+00:18:02,920 --> 00:18:05,360
+y avoir ouverture de ce canal et l
+
+338
+00:18:05,360 --> 00:18:06,600
+'entrée de Ca2+.
+
+339
+00:18:06,600 --> 00:18:09,160
+L'entrée de Ca2+, elle aussi, va
+
+340
+00:18:09,160 --> 00:18:13,320
+stimuler cet enzyme, la dieniciclase, et la synthèse
+
+341
+00:18:13,320 --> 00:18:15,140
+d'une quantité faible d'AMPC-Clé.
+
+342
+00:18:15,540 --> 00:18:19,000
+Maintenant, si on associe les deux, si on
+
+343
+00:18:19,000 --> 00:18:23,800
+active le neurone non suscepteur et le neurone
+
+344
+00:18:23,800 --> 00:18:25,460
+non suscepteur en même temps, ce qui va
+
+345
+00:18:25,460 --> 00:18:28,300
+arriver, il va y avoir une potentialisation des
+
+346
+00:18:28,300 --> 00:18:29,900
+effets sur la dieniciclase.
+
+347
+00:18:30,000 --> 00:18:31,800
+Le fait qu'il y ait le calcium
+
+348
+00:18:31,800 --> 00:18:34,840
+plus l'activation de la protéine G au
+
+349
+00:18:34,840 --> 00:18:37,180
+même temps sur la dieniciclase fait que la
+
+350
+00:18:37,180 --> 00:18:40,220
+dieniciclase va devenir hyperactive et va synthétiser énormément
+
+351
+00:18:40,220 --> 00:18:40,960
+d'AMPC-Clé.
+
+352
+00:18:41,820 --> 00:18:44,900
+Synthétiser énormément d'AMPC-Clé, ça veut dire
+
+353
+00:18:44,900 --> 00:18:48,920
+rendre cette synapse plus forte et avoir une
+
+354
+00:18:48,920 --> 00:18:53,060
+réaction plus forte, plus étendue dans le temps.
+
+355
+00:18:54,840 --> 00:18:57,680
+Maintenant, concernant les vertébrés comme les êtres humains,
+
+356
+00:18:59,060 --> 00:19:02,000
+quels sont les mécanismes qui permettent de comprendre
+
+357
+00:19:04,580 --> 00:19:07,440
+comment se fait la mémorisation à long terme.
+
+358
+00:19:08,380 --> 00:19:10,020
+Ce qu'on a déjà appris avec les
+
+359
+00:19:10,020 --> 00:19:12,020
+invertébrés, c'est que la mémoire et l
+
+360
+00:19:12,020 --> 00:19:15,700
+'apprentissage peuvent résulter de modifications synaptiques simples.
+
+361
+00:19:17,040 --> 00:19:20,120
+Les modifications synaptiques sont causées par la convection
+
+362
+00:19:20,120 --> 00:19:22,400
+de signaux neuraux en second messager comme on
+
+363
+00:19:22,400 --> 00:19:23,580
+l'a vu avec l'AMPC-Clé.
+
+364
+00:19:25,460 --> 00:19:27,840
+La mémoire peut aussi, ça on ne l
+
+365
+00:19:27,840 --> 00:19:31,640
+'a pas vu, être due à des modifications
+
+366
+00:19:31,640 --> 00:19:32,800
+des protéines synaptiques.
+
+367
+00:19:33,260 --> 00:19:34,980
+Parce que l'AMPC-Clé, s'il est
+
+368
+00:19:34,980 --> 00:19:37,720
+synthétisé en grande quantité, il peut avoir des
+
+369
+00:19:37,720 --> 00:19:40,540
+actions qui peuvent aller jusqu'à la transcription
+
+370
+00:19:40,540 --> 00:19:42,940
+génique et la quantité de protéines qui est
+
+371
+00:19:42,940 --> 00:19:46,260
+traduite et qui est synthétisée par la suite
+
+372
+00:19:46,260 --> 00:19:48,600
+au niveau de la synapse.
+
+373
+00:19:50,080 --> 00:19:52,440
+Parmi les protéines qui peuvent être synthétisées au
+
+374
+00:19:52,440 --> 00:19:54,460
+niveau de la synapse, c'est bien sûr
+
+375
+00:19:54,460 --> 00:19:58,780
+les canaux qui reçoivent les neurotransmetteurs.
+
+376
+00:19:59,720 --> 00:20:02,500
+Que ce soit des protéines canaux, protéines G,
+
+377
+00:20:02,500 --> 00:20:06,840
+que ce soit des protéines réceptrices comme la
+
+378
+00:20:06,840 --> 00:20:09,080
+protéine G ou bien des protéines réceptrices comme
+
+379
+00:20:09,080 --> 00:20:10,680
+les protéines canaux.
+
+380
+00:20:13,890 --> 00:20:16,470
+L'un des mécanismes les plus connus de
+
+381
+00:20:16,470 --> 00:20:18,670
+la mémoire déclarative chez l'être humain et
+
+382
+00:20:18,670 --> 00:20:22,610
+les vertébrés, c'est la dépression et la
+
+383
+00:20:22,610 --> 00:20:24,150
+potentialisation à long terme.
+
+384
+00:20:24,730 --> 00:20:27,450
+On a vu un peu la potentialisation à
+
+385
+00:20:27,450 --> 00:20:30,290
+long terme au niveau de la douleur neuropathique
+
+386
+00:20:30,290 --> 00:20:31,630
+donc ça me permet d'être un peu
+
+387
+00:20:31,630 --> 00:20:32,230
+plus rapide.
+
+388
+00:20:32,790 --> 00:20:34,090
+C'est à peu près les mêmes mécanismes
+
+389
+00:20:34,090 --> 00:20:35,610
+que pour la douleur neuropathique.
+
+390
+00:20:36,910 --> 00:20:38,410
+Là c'est un schéma juste pour vous
+
+391
+00:20:38,410 --> 00:20:41,390
+montrer l'épocampe de l'être humain.
+
+392
+00:20:41,870 --> 00:20:43,010
+On passe sur ce schéma.
+
+393
+00:20:44,530 --> 00:20:46,570
+Juste pour vous dire que la potentialisation à
+
+394
+00:20:46,570 --> 00:20:48,230
+long terme comme pour la douleur neuropathique, c
+
+395
+00:20:48,230 --> 00:20:51,550
+'est que lorsqu'on a un excès de
+
+396
+00:20:51,550 --> 00:20:57,030
+simulation d'un neurone épocampique avec un autre
+
+397
+00:20:57,030 --> 00:20:59,290
+neurone épocampique, ce qui va se passer c
+
+398
+00:20:59,290 --> 00:21:01,170
+'est qu'on va activer à la fois
+
+399
+00:21:01,170 --> 00:21:05,610
+les récepteurs du glutamate qui sont de type
+
+400
+00:21:05,610 --> 00:21:07,290
+AMPA mais aussi de type NMDA.
+
+401
+00:21:08,030 --> 00:21:10,410
+Le fait qu'on active NMDA va faire
+
+402
+00:21:10,410 --> 00:21:14,890
+qu'on va externaliser les récepteurs AMPA en
+
+403
+00:21:14,890 --> 00:21:17,350
+grande quantité ce qui va faire que cette
+
+404
+00:21:17,350 --> 00:21:19,310
+synapse va devenir plus forte.
+
+405
+00:21:19,750 --> 00:21:21,530
+Je vous renvoie vers le cas de la
+
+406
+00:21:21,530 --> 00:21:22,070
+douleur neuropathique.
+
+407
+00:21:22,070 --> 00:21:23,590
+C'est exactement les mêmes mécanismes.
+
+408
+00:21:24,050 --> 00:21:26,230
+Potentialisation à long terme veut dire que cette
+
+409
+00:21:26,230 --> 00:21:29,070
+synapse va devenir plus forte parce que la
+
+410
+00:21:29,070 --> 00:21:32,310
+surface synaptique va devenir plus grande avec plus
+
+411
+00:21:32,310 --> 00:21:36,750
+de récepteurs qui sont disponibles pour le neurotransmetteur.
+
+412
+00:21:41,130 --> 00:21:43,270
+Le contraire peut aussi être vrai.
+
+413
+00:21:43,990 --> 00:21:46,290
+Dans la dépression à long terme, le fait
+
+414
+00:21:46,290 --> 00:21:48,490
+qu'il y ait moins de glutamate va
+
+415
+00:21:48,490 --> 00:21:54,430
+faire qu'on va faire activer ce NMDA
+
+416
+00:21:54,430 --> 00:21:57,090
+avec une petite entrée de CA2+, ce
+
+417
+00:21:57,090 --> 00:21:59,870
+qui fait que la petite quantité de CA2
+
+418
+00:21:59,870 --> 00:22:01,910
++, qui entre, fait que cette fois les
+
+419
+00:22:01,910 --> 00:22:06,330
+récepteurs vont être internalisés et non pas externalisés,
+
+420
+00:22:06,610 --> 00:22:08,590
+ce qui va rendre cette synapse moins forte.
+
+421
+00:22:08,690 --> 00:22:09,910
+C'est la dépression à long terme.
+
+422
+00:22:10,430 --> 00:22:13,050
+Ce schéma montre ce que je viens de
+
+423
+00:22:13,050 --> 00:22:13,330
+dire.
+
+424
+00:22:13,790 --> 00:22:15,710
+La quantité de CA2+, qui entre, parce
+
+425
+00:22:15,710 --> 00:22:18,090
+qu'elle est grande, va activer des protéines
+
+426
+00:22:18,090 --> 00:22:23,930
+kinases et donner l'externalisation des protéines APA.
+
+427
+00:22:24,270 --> 00:22:26,310
+Par contre, une petite quantité de CA2+,
+
+428
+00:22:26,310 --> 00:22:30,850
+va activer les protéines phosphatases et internaliser les
+
+429
+00:22:30,850 --> 00:22:33,270
+protéines APA.
+
+430
+00:22:36,270 --> 00:22:44,010
+La mémoire peut être atteinte dans différentes situations
+
+431
+00:22:44,010 --> 00:22:44,810
+pathologiques.
+
+432
+00:22:46,790 --> 00:22:48,990
+La plus importante à connaître, c'est l
+
+433
+00:22:48,990 --> 00:22:50,410
+'Alzheimer, mais il y en a d'autres.
+
+434
+00:22:50,610 --> 00:22:52,810
+On va les voir en pathologie ensemble avec
+
+435
+00:22:52,810 --> 00:22:57,210
+nos collègues neurologues.
+
+436
+00:22:58,010 --> 00:23:02,770
+Et puis, le vieillissement normal, c'est cette
+
+437
+00:23:02,770 --> 00:23:07,090
+perte physiologique de la mémoire qu'on va
+
+438
+00:23:07,090 --> 00:23:10,050
+avoir avec l'âge, des souvenirs qu'on
+
+439
+00:23:10,050 --> 00:23:13,210
+va oublier, une capacité de mémorisation qui va
+
+440
+00:23:13,210 --> 00:23:14,170
+devenir plus faible.
+
+441
+00:23:14,690 --> 00:23:17,650
+Ça dépend de chacun, de la physiologie de
+
+442
+00:23:17,650 --> 00:23:17,970
+chacun.
+
+443
+00:23:18,350 --> 00:23:20,850
+Ça dépend de l'effort physique et de
+
+444
+00:23:20,850 --> 00:23:23,550
+l'effort mental que chacun avait l'habitude
+
+445
+00:23:23,550 --> 00:23:25,650
+d'avoir durant sa vie.
+
+446
+00:23:26,270 --> 00:23:27,910
+Si on est d'un certain niveau athlétique
+
+447
+00:23:28,730 --> 00:23:32,290
+et intellectuel, on va avoir tendance à retarder
+
+448
+00:23:32,290 --> 00:23:33,210
+ce vieillissement normal.
+
+449
+00:23:34,010 --> 00:23:35,470
+Je vous remercie pour votre attention.

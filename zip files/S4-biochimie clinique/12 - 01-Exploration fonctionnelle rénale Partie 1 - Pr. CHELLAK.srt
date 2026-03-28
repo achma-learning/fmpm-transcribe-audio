@@ -1,0 +1,2623 @@
+1
+00:00:00,390 --> 00:00:03,790
+Aujourd'hui, on va étudier l'exploration fonctionnelle
+
+2
+00:00:03,790 --> 00:00:07,109
+rénale et ses principaux dysfonctionnements en biochimie clinique.
+
+3
+00:00:07,810 --> 00:00:10,350
+Dans une première partie, on va se limiter
+
+4
+00:00:10,350 --> 00:00:16,530
+à la fonction glomerulaire pour voir en seconde
+
+5
+00:00:16,530 --> 00:00:21,590
+partie l'exploration de la fonction tubulaire et
+
+6
+00:00:21,590 --> 00:00:23,350
+les principaux dysfonctionnements.
+
+7
+00:00:24,370 --> 00:00:26,810
+En guise d'introduction, les altérations de la
+
+8
+00:00:26,810 --> 00:00:30,570
+fonction glomerulaire peuvent être réversibles, c'est-à
+
+9
+00:00:30,570 --> 00:00:34,770
+-dire qu'on peut corriger les dysfonctionnements rénaux
+
+10
+00:00:34,770 --> 00:00:40,070
+ou bien irréversibles lorsque les dommages produits sont
+
+11
+00:00:40,070 --> 00:00:41,070
+irréparables.
+
+12
+00:00:41,850 --> 00:00:45,110
+Ces altérations sont dues à des causes parfois
+
+13
+00:00:45,110 --> 00:00:45,910
+pré-rénales.
+
+14
+00:00:46,350 --> 00:00:47,850
+Dans la majorité des cas, on va trouver
+
+15
+00:00:47,850 --> 00:00:49,970
+des maladies chroniques telles que le diabète et
+
+16
+00:00:49,970 --> 00:00:53,070
+les maladies cardiovasculaires ou bien elles vont être
+
+17
+00:00:53,070 --> 00:00:58,070
+le retentissement de situations pathologiques surtout aiguës telles
+
+18
+00:00:58,070 --> 00:01:00,150
+que la pancréatite ou le choc septique.
+
+19
+00:01:01,610 --> 00:01:04,690
+Les causes peuvent être d'origine rénale.
+
+20
+00:01:04,890 --> 00:01:06,970
+On va trouver des pathologies telles que l
+
+21
+00:01:06,970 --> 00:01:10,710
+'hypoplasie ou des glomerulopathies qui se voient surtout
+
+22
+00:01:10,710 --> 00:01:14,810
+chez l'enfant, parfois des tubulopathies et on
+
+23
+00:01:14,810 --> 00:01:17,370
+peut avoir également des causes post-rénales telles
+
+24
+00:01:17,370 --> 00:01:19,170
+que des malformations au niveau de l'arbre
+
+25
+00:01:19,170 --> 00:01:21,570
+urinaire qui se voient surtout également chez l
+
+26
+00:01:21,570 --> 00:01:24,090
+'enfant ou bien la présence d'un obstacle
+
+27
+00:01:24,090 --> 00:01:27,230
+qui va empêcher l'écoulement normal des urines
+
+28
+00:01:27,230 --> 00:01:29,090
+et ça se voit lorsqu'il y a
+
+29
+00:01:29,090 --> 00:01:31,770
+présence de calculs rénaux, ce qu'on appelle
+
+30
+00:01:31,770 --> 00:01:35,090
+la litiase rénale ou une hypertrophie de la
+
+31
+00:01:35,090 --> 00:01:38,030
+prostate qui peut être d'origine bénigne ou
+
+32
+00:01:38,030 --> 00:01:38,830
+maligne.
+
+33
+00:01:39,870 --> 00:01:43,090
+Donc au niveau du laboratoire de biologie médicale,
+
+34
+00:01:43,590 --> 00:01:46,090
+l'exploration de la fonction rénale est très
+
+35
+00:01:46,090 --> 00:01:49,590
+courante avec un panel des examens qui est
+
+36
+00:01:49,590 --> 00:01:50,390
+très très large.
+
+37
+00:01:50,390 --> 00:01:53,370
+En pratique, on peut déjà commencer par faire
+
+38
+00:01:53,370 --> 00:01:56,670
+une recherche de protéinerie au niveau urinaire et
+
+39
+00:01:56,670 --> 00:01:59,190
+donc ça permet de faire un dépistage d
+
+40
+00:01:59,190 --> 00:02:00,210
+'une atteinte rénale.
+
+41
+00:02:00,570 --> 00:02:02,250
+C'est très très très important de le
+
+42
+00:02:02,250 --> 00:02:05,150
+faire, même chez un patient qui ne présente
+
+43
+00:02:05,150 --> 00:02:06,770
+aucune symptomatologie.
+
+44
+00:02:07,150 --> 00:02:10,410
+Donc lors d'une visite médicale, il est
+
+45
+00:02:10,410 --> 00:02:15,010
+préférable de faire quand même ce dépistage de
+
+46
+00:02:15,010 --> 00:02:16,630
+recherche de protéinerie.
+
+47
+00:02:17,550 --> 00:02:20,270
+Donc au niveau du laboratoire et surtout au
+
+48
+00:02:20,270 --> 00:02:22,370
+niveau sanguin, on va pratiquer le dosage de
+
+49
+00:02:22,370 --> 00:02:24,430
+la créatinine, de l'urée plasmatique.
+
+50
+00:02:25,050 --> 00:02:26,790
+On peut faire également la mesure de l
+
+51
+00:02:26,790 --> 00:02:29,650
+'osmolalité et une estimation de débit de filtration
+
+52
+00:02:29,650 --> 00:02:33,530
+glomerulaire à travers la concentration de la créatinine.
+
+53
+00:02:34,070 --> 00:02:36,790
+Donc parfois on est amené à utiliser le
+
+54
+00:02:36,790 --> 00:02:40,170
+sang et les urines pour déterminer l'ionogramme
+
+55
+00:02:40,170 --> 00:02:41,330
+sanguin et urinaire.
+
+56
+00:02:42,110 --> 00:02:44,170
+Donc on fait le dosage de la protéinerie
+
+57
+00:02:44,170 --> 00:02:45,270
+et de l'albuminurie.
+
+58
+00:02:45,270 --> 00:02:47,490
+On peut faire également la mesure du débit
+
+59
+00:02:47,490 --> 00:02:51,310
+de filtration glomerulaire et une étude qualitative des
+
+60
+00:02:51,310 --> 00:02:54,810
+protéines urinaires qui va nous renseigner sur le
+
+61
+00:02:54,810 --> 00:02:57,690
+mécanisme de production de cette protéinerie qui est
+
+62
+00:02:57,690 --> 00:02:58,410
+anormale.
+
+63
+00:02:59,070 --> 00:03:01,290
+En cas de besoin, on va faire une
+
+64
+00:03:01,290 --> 00:03:04,550
+évaluation plus précise en demandant d'autres explorations
+
+65
+00:03:04,550 --> 00:03:07,010
+qui vont nous permettre d'affiner le diagnostic.
+
+66
+00:03:08,710 --> 00:03:11,230
+Donc les objectifs fixés pour ce chapitre, c
+
+67
+00:03:11,230 --> 00:03:13,970
+'est de citer les paramètres à mettre en
+
+68
+00:03:13,970 --> 00:03:16,250
+œuvre pour explorer la fonction glomerulaire et la
+
+69
+00:03:16,250 --> 00:03:19,430
+fonction tubulaire en précisant leurs conditions préanalytiques.
+
+70
+00:03:20,050 --> 00:03:23,010
+Retenir les valeurs physiologiques pour les paramètres courants
+
+71
+00:03:23,010 --> 00:03:24,830
+tels que l'urée, la créatinine, le débit
+
+72
+00:03:24,830 --> 00:03:28,570
+de filtration glomerulaire, la protéinerie et l'albuminurie.
+
+73
+00:03:29,050 --> 00:03:32,170
+Il faut savoir calculer le débit urinaire, le
+
+74
+00:03:32,170 --> 00:03:35,530
+débit de filtration glomerulaire de la créatinine et
+
+75
+00:03:35,530 --> 00:03:38,010
+identifier son unité.
+
+76
+00:03:38,010 --> 00:03:42,030
+Savoir calculer l'acclairance de la créatinine estimée
+
+77
+00:03:42,030 --> 00:03:45,090
+par la formule de Cockcroft et Gold et
+
+78
+00:03:45,090 --> 00:03:48,260
+donc interpréter la valeur de la créatinine.
+
+79
+00:03:49,070 --> 00:03:51,830
+Savoir différencier une insuffisance rénale organique d'une
+
+80
+00:03:51,830 --> 00:03:55,790
+insuffisance rénale fonctionnelle à travers le calcul du
+
+81
+00:03:55,790 --> 00:03:59,350
+rapport créatinine urinaire sur créatinine plasmatique.
+
+82
+00:04:00,050 --> 00:04:02,550
+Savoir identifier les autres formules qui estiment le
+
+83
+00:04:02,550 --> 00:04:04,270
+débit de filtration glomerulaire.
+
+84
+00:04:04,270 --> 00:04:08,030
+Savoir reconnaître les deux principaux profils de l
+
+85
+00:04:08,030 --> 00:04:09,970
+'électrophorese des protéines urinaires.
+
+86
+00:04:10,730 --> 00:04:14,430
+Identifier l'intérêt d'une électrophorese associée à
+
+87
+00:04:14,430 --> 00:04:16,620
+une minuflexation des protéines urinaires.
+
+88
+00:04:16,970 --> 00:04:19,310
+Définir le syndrome néphrotique.
+
+89
+00:04:19,490 --> 00:04:23,070
+Et enfin savoir préciser la simbiologie biochimique des
+
+90
+00:04:23,070 --> 00:04:25,450
+insuffisances rénales aiguës et des insuffisances rénales.
+
+91
+00:04:26,350 --> 00:04:29,670
+Au sommaire de ce chapitre, après quelques rappels,
+
+92
+00:04:29,850 --> 00:04:32,890
+on va entamer l'étude des paramètres biochimiques
+
+93
+00:04:32,890 --> 00:04:35,750
+de la fonction rénale au niveau du laboratoire
+
+94
+00:04:35,750 --> 00:04:40,270
+de biochimie et on terminera par les principaux
+
+95
+00:04:40,270 --> 00:04:41,510
+dysfonctionnements rénaux.
+
+96
+00:04:43,880 --> 00:04:46,460
+Alors comme prérequis pour ce chapitre de l
+
+97
+00:04:46,460 --> 00:04:51,240
+'exploration rénale, il faut prendre connaissance de votre
+
+98
+00:04:51,240 --> 00:04:53,920
+cours de la physiologie rénale avec ses composantes
+
+99
+00:04:53,920 --> 00:04:56,380
+en ce qui concerne la fonction glomerulaire et
+
+100
+00:04:56,380 --> 00:04:59,760
+la fonction tubulaire et leurs facteurs de régulation.
+
+101
+00:05:01,720 --> 00:05:04,680
+Donc généralement et globalement, le rat va avoir
+
+102
+00:05:04,680 --> 00:05:06,000
+trois principales fonctions.
+
+103
+00:05:06,540 --> 00:05:08,300
+Il va jouer un rôle très très important
+
+104
+00:05:08,300 --> 00:05:13,420
+dans le maintien de l'homéostasie hydroélectrolytique, puisqu
+
+105
+00:05:13,420 --> 00:05:17,980
+'il va participer activement dans l'équilibre hydroélectrolytique.
+
+106
+00:05:18,120 --> 00:05:20,580
+Il est le site d'action de deux
+
+107
+00:05:20,580 --> 00:05:22,800
+hormones qui vont jouer un rôle très très
+
+108
+00:05:22,800 --> 00:05:26,240
+important dans cet équilibre hydroélectrolytique, qui sont l
+
+109
+00:05:26,240 --> 00:05:28,960
+'hormone antidiurétique et l'aldosterone.
+
+110
+00:05:28,960 --> 00:05:34,020
+Également dans l'équilibre acido-basique, il va
+
+111
+00:05:34,020 --> 00:05:36,540
+permettre à l'organisme de se débarrasser de
+
+112
+00:05:36,540 --> 00:05:39,300
+tous les toxiques et les déchets, en particulier
+
+113
+00:05:39,300 --> 00:05:42,800
+les déchets du métabolisme azoté, en éliminant deux
+
+114
+00:05:42,800 --> 00:05:45,180
+composants qui sont l'urée et l'acide
+
+115
+00:05:45,180 --> 00:05:45,560
+urique.
+
+116
+00:05:47,120 --> 00:05:49,080
+Le rein va jouer également le rôle d
+
+117
+00:05:49,080 --> 00:05:52,760
+'une glande endocrine, puisqu'il va permettre une
+
+118
+00:05:52,760 --> 00:05:55,600
+régulation de la pression artérielle à travers le
+
+119
+00:05:55,600 --> 00:05:57,360
+système rénine angiotensif.
+
+120
+00:05:57,360 --> 00:06:02,200
+En sécrétant l'arénine, il va activer la
+
+121
+00:06:02,200 --> 00:06:05,100
+production de l'angiotensine 2, qui est un
+
+122
+00:06:05,100 --> 00:06:07,560
+puissant vasoconstricteur, et en même temps qui va
+
+123
+00:06:07,560 --> 00:06:10,020
+stimuler la sécrétion de l'aldosterone.
+
+124
+00:06:10,860 --> 00:06:15,140
+Il va également participer au métabolisme phosphocalcique via
+
+125
+00:06:15,140 --> 00:06:18,380
+la production de la vitamine T3, donc il
+
+126
+00:06:18,380 --> 00:06:21,640
+va permettre l'hydroxylation en position 1 du
+
+127
+00:06:21,640 --> 00:06:30,060
+25-hydroxycholécalciférole, lequel un 25-hydroxycholécalciférole va jouer
+
+128
+00:06:30,060 --> 00:06:34,720
+un rôle, surtout dans l'absorption intestinale du
+
+129
+00:06:34,720 --> 00:06:35,060
+calcium.
+
+130
+00:06:36,380 --> 00:06:40,880
+Enfin, le rein va sécréter l'héroïtine, qui
+
+131
+00:06:40,880 --> 00:06:44,660
+est le principal facteur derrière la production des
+
+132
+00:06:44,660 --> 00:06:46,720
+globules rouges, c'est le processus de l
+
+133
+00:06:46,720 --> 00:06:49,100
+'erythropoèse qui s'effectue au niveau de la
+
+134
+00:06:49,100 --> 00:06:49,660
+moelle osseuse.
+
+135
+00:06:50,900 --> 00:06:53,540
+Nous arrivons à l'étude des paramètres biochimiques
+
+136
+00:06:53,540 --> 00:06:56,760
+de la fonction rénale, et on va distinguer
+
+137
+00:06:56,760 --> 00:07:00,400
+entre les marqueurs de la fonction glomérulaire et
+
+138
+00:07:00,400 --> 00:07:03,780
+les marqueurs de la fonction tubulaire.
+
+139
+00:07:13,010 --> 00:07:15,510
+Tout d'abord, l'exploration biochimique rénale est
+
+140
+00:07:15,510 --> 00:07:18,870
+demandée pour un dépistage, c'est-à-dire
+
+141
+00:07:18,870 --> 00:07:22,230
+même chez une personne asymptomatique, on peut faire
+
+142
+00:07:22,230 --> 00:07:25,410
+la demande de certains paramètres.
+
+143
+00:07:25,770 --> 00:07:26,230
+Pourquoi ?
+
+144
+00:07:26,230 --> 00:07:28,990
+Parce qu'une atteinte rénale peut rester longtemps
+
+145
+00:07:28,990 --> 00:07:31,350
+muette avant de se dévoiler par des signes
+
+146
+00:07:31,350 --> 00:07:31,810
+cliniques.
+
+147
+00:07:32,150 --> 00:07:35,570
+On peut également demander cette exploration chaque fois
+
+148
+00:07:35,570 --> 00:07:38,530
+qu'on va suspecter un dysfonctionnement rénal chez
+
+149
+00:07:38,530 --> 00:07:40,290
+une personne à risque, c'est-à-dire
+
+150
+00:07:40,290 --> 00:07:44,210
+qui présente soit des signes cliniques révélateurs, soit
+
+151
+00:07:44,210 --> 00:07:47,950
+une pathologie qui peut avoir un retentissement néfaste
+
+152
+00:07:47,950 --> 00:07:49,830
+sur le fonctionnement rénal.
+
+153
+00:07:50,430 --> 00:07:52,570
+Donc une pathologie rénale, c'est une atteinte
+
+154
+00:07:52,570 --> 00:07:55,950
+spécifique de la fonction glomérulaire et ou tubulaire,
+
+155
+00:07:55,950 --> 00:07:59,690
+sachant que les désordres tubulaires isolés sont relativement
+
+156
+00:07:59,690 --> 00:08:00,030
+rares.
+
+157
+00:08:01,470 --> 00:08:03,970
+Il faut savoir également que l'insuffisance rénale,
+
+158
+00:08:03,990 --> 00:08:06,870
+que ce soit aiguë ou chronique, est définie
+
+159
+00:08:06,870 --> 00:08:09,810
+comme une perte globale des fonctions des néphrons
+
+160
+00:08:09,810 --> 00:08:14,950
+qui constituent les éléments excréteurs rénaux.
+
+161
+00:08:16,970 --> 00:08:19,170
+Une chose à retenir, c'est que le
+
+162
+00:08:19,170 --> 00:08:22,210
+processus de filtration étant essentiel dans la formation
+
+163
+00:08:22,210 --> 00:08:24,690
+des urines, les tests de la fonction glomérulaire
+
+164
+00:08:24,690 --> 00:08:27,410
+sont presque toujours requis dans l'exploration et
+
+165
+00:08:27,410 --> 00:08:29,370
+la prise en charge de toute maladie rénale.
+
+166
+00:08:29,810 --> 00:08:32,429
+C'est-à-dire même en suspectant une
+
+167
+00:08:32,429 --> 00:08:36,830
+tubulopathie, on va quand même aller évaluer la
+
+168
+00:08:36,830 --> 00:08:40,630
+fonction glomérulaire avant de voir ce qui se
+
+169
+00:08:40,630 --> 00:08:43,670
+passe au niveau de la fonction tubulaire.
+
+170
+00:08:49,300 --> 00:08:51,260
+Donc nous allons commencer par les marqueurs de
+
+171
+00:08:51,260 --> 00:08:52,420
+la fonction glomérulaire.
+
+172
+00:08:52,560 --> 00:08:53,640
+Il faut savoir qu'il y a des
+
+173
+00:08:53,640 --> 00:08:56,800
+marqueurs qui sont couramment utilisés et des marqueurs
+
+174
+00:08:56,800 --> 00:08:58,100
+qui sont moins usuels.
+
+175
+00:08:58,640 --> 00:09:01,000
+Parmi les marqueurs usuels, on va trouver la
+
+176
+00:09:01,000 --> 00:09:03,320
+recherche et le dosage de la protéinerie et
+
+177
+00:09:03,320 --> 00:09:06,220
+de l'albuminerie, la détermination de la créatinine,
+
+178
+00:09:06,340 --> 00:09:09,160
+le débit de filtration glomérulaire qui peut être
+
+179
+00:09:09,160 --> 00:09:12,860
+soit mesuré, soit estimé, la détermination également de
+
+180
+00:09:12,860 --> 00:09:15,020
+l'urée et de l'acide urique, et
+
+181
+00:09:15,020 --> 00:09:18,480
+à côté on va avoir des examens qui
+
+182
+00:09:18,480 --> 00:09:21,340
+sont demandés dans certaines situations, tels que l
+
+183
+00:09:21,340 --> 00:09:24,880
+'électrophorese et l'immunofixation des protéines urinaires.
+
+184
+00:09:25,340 --> 00:09:28,180
+D'autres sont moins utilisés parce qu'ils
+
+185
+00:09:28,180 --> 00:09:29,920
+sont un petit peu coûteux, tels que la
+
+186
+00:09:29,920 --> 00:09:33,880
+cystatine C et le ENGAL, l'Eutrophile Gelatinase
+
+187
+00:09:33,880 --> 00:09:35,480
+Associated Lipocalline.
+
+188
+00:09:35,920 --> 00:09:38,460
+Donc une chose que je veux préciser ici,
+
+189
+00:09:38,640 --> 00:09:41,000
+c'est que parmi ces marqueurs de la
+
+190
+00:09:41,000 --> 00:09:43,600
+fonction glomérulaire, il existe des marqueurs qui peuvent
+
+191
+00:09:43,600 --> 00:09:45,820
+évaluer également la fonction tubulaire.
+
+192
+00:09:46,280 --> 00:09:48,140
+C'est l'exemple de la protéinerie et
+
+193
+00:09:48,140 --> 00:09:51,700
+de l'albuminerie, également de l'urée et
+
+194
+00:09:51,700 --> 00:09:56,500
+de l'acide urique, et enfin l'électrophorese
+
+195
+00:09:56,500 --> 00:09:58,620
+et l'immunofixation des protéines urinaires.
+
+196
+00:10:01,120 --> 00:10:03,660
+Alors le premier marqueur de la fonction glomérulaire
+
+197
+00:10:03,660 --> 00:10:05,480
+c'est la protéinerie, donc je ne vais
+
+198
+00:10:05,480 --> 00:10:07,180
+pas m'étaler là-dessus parce que vous
+
+199
+00:10:07,180 --> 00:10:10,380
+avez tout un chapitre sur les protéineries, il
+
+200
+00:10:10,380 --> 00:10:15,600
+faut juste savoir qu'une protéinerie peut exister,
+
+201
+00:10:15,760 --> 00:10:17,520
+c'est-à-dire qu'on a une
+
+202
+00:10:17,520 --> 00:10:20,760
+protéinerie physiologique dès lors que sa concentration n
+
+203
+00:10:20,760 --> 00:10:22,980
+'excède pas 150 mg par 24 heures.
+
+204
+00:10:23,200 --> 00:10:25,700
+On va parler de protéinerie pathologique lorsqu'elle
+
+205
+00:10:25,700 --> 00:10:28,340
+va dépasser 150 mg par 24 heures.
+
+206
+00:10:31,030 --> 00:10:32,730
+Alors là je vous ai mis quelques slides
+
+207
+00:10:32,730 --> 00:10:35,070
+qui vont vous rafraîchir la mémoire à propos
+
+208
+00:10:35,070 --> 00:10:39,710
+des conditions préanalytiques, comment faire la recherche en
+
+209
+00:10:39,710 --> 00:10:44,610
+utilisant des bandelettes réactives, et les limites de
+
+210
+00:10:44,610 --> 00:10:47,330
+l'utilisation de ces bandelettes puisqu'il va
+
+211
+00:10:47,330 --> 00:10:50,370
+exister des faux positifs et des faux négatifs.
+
+212
+00:10:50,570 --> 00:10:52,630
+L'essentiel c'est que lorsqu'on a
+
+213
+00:10:52,630 --> 00:10:56,770
+détecté une protéinerie qui s'avère positive, on
+
+214
+00:10:56,770 --> 00:11:00,650
+va faire impérativement un dosage au laboratoire, donc
+
+215
+00:11:00,650 --> 00:11:03,410
+ce dosage qui va être beaucoup plus précis
+
+216
+00:11:03,410 --> 00:11:05,910
+que la recherche à la bandelette réactive.
+
+217
+00:11:07,330 --> 00:11:09,570
+Le principe de dosage est basé surtout sur
+
+218
+00:11:09,570 --> 00:11:13,550
+des techniques colorimétriques et il faut également souligner
+
+219
+00:11:13,550 --> 00:11:17,550
+que ces dosages vont permettre de doser toutes
+
+220
+00:11:17,550 --> 00:11:19,830
+les protéines qui existent dans les urines.
+
+221
+00:11:21,570 --> 00:11:24,270
+Le deuxième macro de la fonction glomérulaire c
+
+222
+00:11:24,270 --> 00:11:27,290
+'est l'albuminerie qui signe la présence d
+
+223
+00:11:27,290 --> 00:11:29,470
+'une atteinte glomérulaire même en absence d'une
+
+224
+00:11:29,470 --> 00:11:31,050
+protéinerie positive.
+
+225
+00:11:32,630 --> 00:11:38,050
+Donc le dosage va cibler surtout la molécule
+
+226
+00:11:38,050 --> 00:11:39,950
+de l'albumine, donc c'est un dosage
+
+227
+00:11:39,950 --> 00:11:43,770
+qui est basé sur une technique immunochimique, immunoturbidimétrique
+
+228
+00:11:43,770 --> 00:11:47,370
+ou immunonéphilimétrique et les valeurs de référence vont
+
+229
+00:11:47,370 --> 00:11:50,410
+être variables entre 15 à 30 mg par
+
+230
+00:11:50,410 --> 00:11:52,850
+24 heures si bien sûr on a réussi
+
+231
+00:11:52,850 --> 00:11:55,530
+à collecter correctement les urines de 24 heures.
+
+232
+00:11:56,010 --> 00:11:59,910
+Actuellement, vu ces contraintes et toutes les erreurs
+
+233
+00:11:59,910 --> 00:12:02,530
+qui entachent le recueil des urines de 24
+
+234
+00:12:02,530 --> 00:12:05,690
+heures, on va préférer la détermination du ratio
+
+235
+00:12:05,690 --> 00:12:08,410
+albuminerie sur créatine inurie.
+
+236
+00:12:09,330 --> 00:12:12,070
+A partir de la détermination de l'albuminerie
+
+237
+00:12:12,070 --> 00:12:15,350
+de 24 heures ou de ce ratio albuminerie
+
+238
+00:12:15,350 --> 00:12:19,850
+sur créatine inurie, on va définir trois stades.
+
+239
+00:12:20,410 --> 00:12:23,170
+Le premier stade on va parler d'albuminerie
+
+240
+00:12:23,170 --> 00:12:27,230
+physiologique optimale lorsque l'albuminerie n'excède pas
+
+241
+00:12:27,230 --> 00:12:29,590
+15 mg par 24 heures ou le ratio
+
+242
+00:12:29,590 --> 00:12:32,690
+est inférieur à 1,13 mg par mmol.
+
+243
+00:12:32,690 --> 00:12:36,610
+On va parler d'albuminerie physiologique normale haute
+
+244
+00:12:36,610 --> 00:12:41,090
+lorsque l'albuminerie varie entre 15 à 30
+
+245
+00:12:41,090 --> 00:12:43,910
+mg par 24 heures ou lorsque le ratio
+
+246
+00:12:43,910 --> 00:12:47,010
+se situe entre 1,13 à 3,4
+
+247
+00:12:47,010 --> 00:12:48,150
+mg par mmol.
+
+248
+00:12:49,090 --> 00:12:53,610
+L'albuminerie est dite microalbuminerie aux pathologiques de
+
+249
+00:12:53,610 --> 00:12:57,830
+faible débit lorsqu'elle est située entre 30
+
+250
+00:12:57,830 --> 00:13:00,630
+à 300 mg par 24 heures ou lorsque
+
+251
+00:13:00,630 --> 00:13:03,870
+le ratio varie entre 3,4 à 34
+
+252
+00:13:03,870 --> 00:13:05,230
+mg par mmol.
+
+253
+00:13:05,750 --> 00:13:08,950
+Au niveau du stade 3, on va parler
+
+254
+00:13:08,950 --> 00:13:12,950
+de macroalbuminerie lorsque l'albuminerie est supérieure à
+
+255
+00:13:12,950 --> 00:13:15,770
+300 mg par 24 heures ou lorsque le
+
+256
+00:13:15,770 --> 00:13:21,030
+ratio est situé entre 34 et 226 mg
+
+257
+00:13:21,030 --> 00:13:22,230
+par mmol.
+
+258
+00:13:22,730 --> 00:13:25,270
+Et au-delà de 226 mg par mmol,
+
+259
+00:13:25,370 --> 00:13:27,650
+on va parler carrément de syndrome néphrotique.
+
+260
+00:13:28,310 --> 00:13:31,190
+Le troisième paramètre qui va évaluer la fonction
+
+261
+00:13:31,190 --> 00:13:32,630
+glomerulaire, c'est la créatine.
+
+262
+00:13:32,890 --> 00:13:34,990
+C'est un produit de déshydratation de la
+
+263
+00:13:34,990 --> 00:13:38,910
+créatine musculaire et sa production journalière est quasiment
+
+264
+00:13:38,910 --> 00:13:41,330
+constante puisqu'elle ne dépend que de la
+
+265
+00:13:41,330 --> 00:13:42,630
+masse musculaire de l'individu.
+
+266
+00:13:43,290 --> 00:13:45,950
+La créatine est intéressante dans la mesure où
+
+267
+00:13:45,950 --> 00:13:47,790
+elle va renseigner sur l'intégrité de la
+
+268
+00:13:47,790 --> 00:13:50,850
+fonction glomerulaire puisque c'est une substance qui
+
+269
+00:13:50,850 --> 00:13:52,690
+filtre librement.
+
+270
+00:13:53,190 --> 00:13:55,450
+Elle est non réabsorbée et non sécrétée très
+
+271
+00:13:55,450 --> 00:13:57,950
+légèrement au niveau des tubes contournés proximales.
+
+272
+00:13:58,370 --> 00:14:01,410
+Pour faire la détermination de la créatine, on
+
+273
+00:14:01,410 --> 00:14:05,090
+va faire un prélèvement sanguin en utilisant soit
+
+274
+00:14:05,090 --> 00:14:06,270
+le sérum soit le plasma.
+
+275
+00:14:06,990 --> 00:14:09,470
+Pour faire la créatine urine, on va faire
+
+276
+00:14:09,470 --> 00:14:10,730
+un prélèvement urinaire.
+
+277
+00:14:11,010 --> 00:14:13,210
+On va collecter les urines de 24 heures
+
+278
+00:14:13,210 --> 00:14:16,870
+ou bien utiliser un échantillon lorsqu'il y
+
+279
+00:14:16,870 --> 00:14:19,210
+a une contrainte à collecter les urines de
+
+280
+00:14:19,210 --> 00:14:20,310
+24 heures.
+
+281
+00:14:23,160 --> 00:14:25,820
+Le dosage est basé sur des techniques colorimétriques
+
+282
+00:14:25,820 --> 00:14:28,880
+dites déjà faites qui sont les plus répandues
+
+283
+00:14:28,880 --> 00:14:31,100
+au niveau des laboratoires mais qui sont sujettes
+
+284
+00:14:31,100 --> 00:14:32,500
+quand même à des imperférences.
+
+285
+00:14:33,040 --> 00:14:35,860
+Le principe c'est qu'en présence de
+
+286
+00:14:35,860 --> 00:14:39,000
+l'acide pécrique, la créatine en milieu alcalin
+
+287
+00:14:39,000 --> 00:14:41,720
+va donner naissance à un complexe rouge-oranger
+
+288
+00:14:41,720 --> 00:14:45,460
+dont la densité optique va augmenter proportionnellement à
+
+289
+00:14:45,460 --> 00:14:48,360
+la concentration de la créatine à une longueur
+
+290
+00:14:48,360 --> 00:14:49,660
+d'onde de 500 nanomètres.
+
+291
+00:14:50,720 --> 00:14:53,160
+Donc à côté de ces techniques colorimétriques, on
+
+292
+00:14:53,160 --> 00:14:55,580
+a des techniques enzymatiques qui sont plus spécifiques
+
+293
+00:14:55,580 --> 00:14:59,320
+mais comme elles sont onéreuses et sont peu
+
+294
+00:14:59,320 --> 00:15:01,620
+utilisées par les laboratoires, on va distinguer les
+
+295
+00:15:01,620 --> 00:15:04,900
+deux méthodes soit à la créatine inase soit
+
+296
+00:15:04,900 --> 00:15:06,880
+à la créatine desaminase.
+
+297
+00:15:07,820 --> 00:15:10,300
+Donc les valeurs de référence de la créatine
+
+298
+00:15:10,300 --> 00:15:12,960
+inase varient en fonction du sexe puisque chez
+
+299
+00:15:12,960 --> 00:15:15,080
+l'homme on va trouver des valeurs un
+
+300
+00:15:15,080 --> 00:15:17,680
+peu plus élevées de 60 à 120 micromoles
+
+301
+00:15:17,680 --> 00:15:21,460
+par litre, chose qui est évidente puisque l
+
+302
+00:15:21,460 --> 00:15:24,240
+'homme a une masse musculaire plus développée que
+
+303
+00:15:24,240 --> 00:15:24,720
+chez la femme.
+
+304
+00:15:25,220 --> 00:15:26,820
+Chez la femme on va trouver 50 à
+
+305
+00:15:26,820 --> 00:15:28,480
+90 micromoles par litre.
+
+306
+00:15:28,480 --> 00:15:31,320
+Donc au niveau urinaire, on a une concentration
+
+307
+00:15:31,320 --> 00:15:34,180
+variable de 8 à 16 millimoles par 24
+
+308
+00:15:34,180 --> 00:15:34,980
+heures.
+
+309
+00:15:35,380 --> 00:15:38,440
+Attention, il faut savoir que certains médicaments comme
+
+310
+00:15:38,440 --> 00:15:42,100
+l'asimétidine qui est un antihistaminique utilisé comme
+
+311
+00:15:42,100 --> 00:15:44,800
+anti-ulcéreux ou la tréméthoprime qui est un
+
+312
+00:15:44,800 --> 00:15:47,900
+antibiotique vont inhiber la sécrétion tubulaire de la
+
+313
+00:15:47,900 --> 00:15:51,540
+créatine in et entraîner une augmentation de ces
+
+314
+00:15:51,540 --> 00:15:55,040
+concentrations sanguines sans qu'il y ait une
+
+315
+00:15:55,040 --> 00:15:57,160
+répercussion sur la fonction glomerulaire.
+
+316
+00:15:58,400 --> 00:16:00,960
+L'intérêt de la détermination de la créatine
+
+317
+00:16:00,960 --> 00:16:03,240
+in urinaire et sanguine, c'est qu'on
+
+318
+00:16:03,240 --> 00:16:07,840
+va pouvoir déterminer le ratio créatine in urinaire
+
+319
+00:16:08,240 --> 00:16:11,120
+sur créatine in plasmatique qui va nous renseigner
+
+320
+00:16:11,120 --> 00:16:13,400
+sur l'origine de l'insuffisance rénale, est
+
+321
+00:16:13,400 --> 00:16:14,940
+-ce que c'est organique lorsque le rapport
+
+322
+00:16:14,940 --> 00:16:16,440
+est inférieur à 30, c'est-à-dire
+
+323
+00:16:16,440 --> 00:16:19,820
+que le problème provient des reins eux-mêmes
+
+324
+00:16:19,820 --> 00:16:21,380
+ou bien est-ce que c'est une
+
+325
+00:16:21,380 --> 00:16:24,160
+insuffisance rénale fonctionnelle lorsque le rapport est supérieur
+
+326
+00:16:24,160 --> 00:16:26,080
+à 30 et dans ce cas on va
+
+327
+00:16:26,080 --> 00:16:28,420
+suspecter une cause plutôt pré-rénale.
+
+328
+00:16:29,720 --> 00:16:32,300
+Le débit de filtration glomerulaire est un paramètre
+
+329
+00:16:32,300 --> 00:16:34,800
+d'une grande importance dans l'évaluation de
+
+330
+00:16:34,800 --> 00:16:37,760
+la fonction glomerulaire puisque c'est lorsqu'il
+
+331
+00:16:37,760 --> 00:16:39,880
+est abaissé que l'on va pouvoir définir
+
+332
+00:16:39,880 --> 00:16:41,700
+la présence d'une insuffisance rénale.
+
+333
+00:16:42,780 --> 00:16:47,480
+Ce débit est, pour l'évaluer, presque égal
+
+334
+00:16:47,480 --> 00:16:49,220
+à la clairance d'une substance qui est
+
+335
+00:16:49,220 --> 00:16:51,800
+librement filtrée, non réabsorbée et non sécrétée.
+
+336
+00:16:52,320 --> 00:16:54,920
+Sachant que, par définition, la clairance c'est
+
+337
+00:16:54,920 --> 00:16:57,360
+le volume virtuel du plasma totalement épuré d
+
+338
+00:16:57,360 --> 00:16:59,660
+'une substance en une minute et l'est
+
+339
+00:16:59,660 --> 00:17:01,440
+exprimée en millilitres par minute.
+
+340
+00:17:01,700 --> 00:17:04,720
+Donc la formule correspondante de la clairance c
+
+341
+00:17:04,720 --> 00:17:06,960
+'est U fois V sur P, sachant que
+
+342
+00:17:06,960 --> 00:17:09,000
+U c'est la concentration urinaire de la
+
+343
+00:17:09,000 --> 00:17:11,780
+substance en question en millimoles par litre, P
+
+344
+00:17:11,780 --> 00:17:13,760
+c'est la concentration plasmatique de la même
+
+345
+00:17:13,760 --> 00:17:16,180
+substance en millimoles par litre et V c
+
+346
+00:17:16,180 --> 00:17:18,480
+'est le débit urinaire en millilitres par minute.
+
+347
+00:17:19,000 --> 00:17:21,859
+Donc si une personne urine 1,5 litre
+
+348
+00:17:21,859 --> 00:17:25,280
+par 24 heures, son débit sera égal à
+
+349
+00:17:25,280 --> 00:17:28,100
+1 500 millilitres divisé par 24 heures multiplié
+
+350
+00:17:28,100 --> 00:17:30,680
+par 60, ça va nous donner une valeur
+
+351
+00:17:30,680 --> 00:17:33,200
+de 1,04 millilitres par minute.
+
+352
+00:17:36,090 --> 00:17:37,910
+Donc pour la mesure du débit de filtration
+
+353
+00:17:37,910 --> 00:17:41,110
+glomerulaire, il faut déterminer la clairance de substances
+
+354
+00:17:41,110 --> 00:17:45,270
+qui répondent aux critères de filtration libre au
+
+355
+00:17:45,270 --> 00:17:48,210
+niveau du glomerule, non réabsorption et non sécrétion
+
+356
+00:17:48,210 --> 00:17:49,810
+par les tubules.
+
+357
+00:17:50,330 --> 00:17:52,350
+Donc la méthode de référence c'est de
+
+358
+00:17:52,350 --> 00:17:55,310
+prendre des substances exogènes comme l'inuline, les
+
+359
+00:17:55,310 --> 00:17:57,750
+produits de contraste IOD ou le DTA marqué
+
+360
+00:17:57,750 --> 00:18:00,950
+au crème 51, sauf que pour l'utilisation
+
+361
+00:18:00,950 --> 00:18:06,410
+de ces produits là, il faut hospitaliser le
+
+362
+00:18:06,410 --> 00:18:08,690
+patient, ça a un coût et il faut
+
+363
+00:18:08,690 --> 00:18:12,570
+que le laboratoire dispose de techniques capables de
+
+364
+00:18:12,570 --> 00:18:15,990
+doser et de suivre l'élimination de ces
+
+365
+00:18:15,990 --> 00:18:17,110
+produits dans les urines.
+
+366
+00:18:17,710 --> 00:18:20,610
+Donc on va opter plus pour une substance
+
+367
+00:18:20,610 --> 00:18:23,090
+endogène qui est la créatinine dont la détermination
+
+368
+00:18:23,090 --> 00:18:26,630
+est facile et qui est dont le dosage
+
+369
+00:18:26,630 --> 00:18:29,350
+est très répandu dans les laboratoires.
+
+370
+00:18:30,880 --> 00:18:33,300
+Pourquoi on va préférer la détermination du débit
+
+371
+00:18:33,300 --> 00:18:37,560
+de filtration glomerulaire à travers la clairance de
+
+372
+00:18:37,560 --> 00:18:39,080
+la créatinine ?
+
+373
+00:18:39,080 --> 00:18:43,660
+Parce que ce schéma montre l'évolution de
+
+374
+00:18:43,660 --> 00:18:46,120
+la créatinine en fonction du débit de filtration
+
+375
+00:18:46,120 --> 00:18:49,640
+glomerulaire ici en abscisse et on voit très
+
+376
+00:18:49,640 --> 00:18:54,080
+parfaitement que cette bande haut qui correspond à
+
+377
+00:18:54,080 --> 00:18:57,700
+la variation de la créatinine dans la fourchette
+
+378
+00:18:57,700 --> 00:19:00,500
+de la normale, on peut avoir une diminution
+
+379
+00:19:00,500 --> 00:19:04,440
+de la filtration glomerulaire alors que la créatinine
+
+380
+00:19:04,440 --> 00:19:09,580
+rentre totalement dans cette fourchette dans cet intervalle
+
+381
+00:19:09,580 --> 00:19:10,320
+de référence.
+
+382
+00:19:10,500 --> 00:19:13,380
+Donc on peut avoir une créatinine qui est
+
+383
+00:19:13,380 --> 00:19:16,520
+parfaitement normale avec un débit de filtration glomerulaire
+
+384
+00:19:16,520 --> 00:19:19,340
+qui commence déjà à baisser, c'est surtout
+
+385
+00:19:19,340 --> 00:19:21,560
+par rapport à cet intervalle qui est compris
+
+386
+00:19:21,560 --> 00:19:22,860
+entre ces deux flèches rouges.
+
+387
+00:19:24,560 --> 00:19:26,900
+Donc pour mesurer la clairance de la créatinine
+
+388
+00:19:26,900 --> 00:19:29,680
+on va faire la détermination au niveau sanguin
+
+389
+00:19:29,680 --> 00:19:32,900
+et urinaire et on va juste appliquer la
+
+390
+00:19:32,900 --> 00:19:34,660
+formule de la clairance de la créatinine.
+
+391
+00:19:34,780 --> 00:19:37,220
+Donc les valeurs de référence ça varie entre
+
+392
+00:19:37,220 --> 00:19:40,980
+105 à 135 ml par minute.
+
+393
+00:19:41,740 --> 00:19:44,200
+Cette valeur est à interpréter en fonction de
+
+394
+00:19:44,200 --> 00:19:46,320
+la masse musculaire et du volume de distribution
+
+395
+00:19:46,320 --> 00:19:49,060
+du patient donc s'il présente des œdèmes
+
+396
+00:19:49,060 --> 00:19:52,640
+ou une acide et dans ce cas il
+
+397
+00:19:52,640 --> 00:19:54,920
+faut corriger par rapport à la surface corporelle
+
+398
+00:19:54,920 --> 00:19:55,880
+de ce patient.
+
+399
+00:19:57,040 --> 00:19:58,860
+Donc il faut savoir qu'on ne peut
+
+400
+00:19:58,860 --> 00:20:02,500
+pas poser le diagnostic d'une insuffisance rénale
+
+401
+00:20:02,500 --> 00:20:06,180
+sans avoir déterminé le débit de filtration glomerulaire.
+
+402
+00:20:06,800 --> 00:20:09,660
+Donc on suppose que supérieur à 80 ml
+
+403
+00:20:09,660 --> 00:20:13,160
+par minute la fonction rénale est normale et
+
+404
+00:20:13,160 --> 00:20:15,900
+on considère qu'entre 60 et 80 ml
+
+405
+00:20:15,900 --> 00:20:17,860
+par minute il y a absence de signe
+
+406
+00:20:17,860 --> 00:20:20,680
+clinique et on considère que l'insuffisance rénale
+
+407
+00:20:20,680 --> 00:20:21,300
+est légère.
+
+408
+00:20:21,900 --> 00:20:24,540
+Entre 59 et 30 ml par minute l
+
+409
+00:20:24,540 --> 00:20:28,200
+'insuffisance rénale est modérée et entre 29 et
+
+410
+00:20:28,200 --> 00:20:30,660
+10 ml par minute l'insuffisance rénale est
+
+411
+00:20:30,660 --> 00:20:31,560
+dite sévère.
+
+412
+00:20:32,220 --> 00:20:34,520
+Et moins de 10 ml par minute l
+
+413
+00:20:34,520 --> 00:20:37,760
+'insuffisance rénale est dite terminale et dans ce
+
+414
+00:20:37,760 --> 00:20:41,080
+cas ça nécessite une épuration extra-rénale ou
+
+415
+00:20:41,080 --> 00:20:42,680
+une transplantation rénale.
+
+416
+00:20:44,040 --> 00:20:45,760
+Ce que l'on fait la plupart du
+
+417
+00:20:45,760 --> 00:20:47,000
+temps c'est que l'on va déterminer
+
+418
+00:20:47,000 --> 00:20:49,580
+l'agréance de la créatinine de manière indirecte,
+
+419
+00:20:49,760 --> 00:20:51,040
+c'est-à-dire à travers de formules
+
+420
+00:20:51,040 --> 00:20:53,120
+de calcul en se basant uniquement sur la
+
+421
+00:20:53,120 --> 00:20:56,260
+détermination de la créatinine émise et pourquoi ?
+
+422
+00:20:56,260 --> 00:20:59,080
+Parce que généralement la collecte des urines est
+
+423
+00:20:59,080 --> 00:21:01,560
+toujours entachée d'erreurs et donc on va
+
+424
+00:21:01,560 --> 00:21:05,040
+avoir du mal à avoir une évaluation précise
+
+425
+00:21:05,040 --> 00:21:06,440
+de la clairance de la créatinine.
+
+426
+00:21:06,900 --> 00:21:09,520
+Donc on a essayé d'élaborer des formules
+
+427
+00:21:09,520 --> 00:21:13,080
+de calcul, la première en tenant compte d
+
+428
+00:21:13,080 --> 00:21:14,900
+'autres paramètres tels que l'âge, le sexe,
+
+429
+00:21:15,020 --> 00:21:17,540
+parfois le poids ou l'origine ethnique et
+
+430
+00:21:17,540 --> 00:21:19,460
+la première qui a été élaborée c'est
+
+431
+00:21:19,460 --> 00:21:22,160
+la formule de Cockcroft et Gault à gauche.
+
+432
+00:21:22,800 --> 00:21:24,900
+Donc d'après cette formule la clairance de
+
+433
+00:21:24,900 --> 00:21:27,420
+la créatinine est égale à 140 mollages en
+
+434
+00:21:27,420 --> 00:21:30,320
+année que multiplie par le poids en kilogrammes
+
+435
+00:21:30,320 --> 00:21:34,220
+que divise la concentration de la créatinine sérique
+
+436
+00:21:34,220 --> 00:21:38,240
+en micromolles par litre que multiplie un facteur
+
+437
+00:21:38,240 --> 00:21:38,760
+petit a.
+
+438
+00:21:39,420 --> 00:21:41,100
+Donc petit a est égale à 1,23
+
+439
+00:21:41,540 --> 00:21:43,280
+quand il s'agit d'un homme, elle
+
+440
+00:21:43,280 --> 00:21:45,280
+est égale à 1,04 quand il s
+
+441
+00:21:45,280 --> 00:21:51,180
+'agit d'une femme avec avec la limite
+
+442
+00:21:51,180 --> 00:21:54,860
+que cette formule va surestimer la valeur de
+
+443
+00:21:54,860 --> 00:21:58,600
+la clairance de la créatinine quand il y
+
+444
+00:21:58,600 --> 00:22:01,680
+a présence d'un surpoids elle va sous
+
+445
+00:22:01,680 --> 00:22:04,520
+-estimer cette valeur par contre quand il s
+
+446
+00:22:04,520 --> 00:22:07,180
+'agit d'une personne âgée en plus elle
+
+447
+00:22:07,180 --> 00:22:09,240
+ne va pas tenir compte de l'origine
+
+448
+00:22:09,240 --> 00:22:10,920
+ethnique de la personne.
+
+449
+00:22:12,320 --> 00:22:15,960
+Donc une deuxième méthode a été une formule
+
+450
+00:22:15,960 --> 00:22:19,400
+qui a été élaborée dite de MDR, dépour
+
+451
+00:22:19,400 --> 00:22:24,000
+modification of the diet in adrenal disease donc
+
+452
+00:22:24,000 --> 00:22:27,260
+qui a été élaborée en 2000 cette formule
+
+453
+00:22:27,260 --> 00:22:31,220
+va calculer le débit de filtration glomerulaire selon
+
+454
+00:22:31,220 --> 00:22:36,540
+175 multiplié par la concentration plasmatique de la
+
+455
+00:22:36,540 --> 00:22:40,440
+créatinine multiplié par 0,013 à la puissance
+
+456
+00:22:40,440 --> 00:22:44,100
+moins 1,113 que multiplie l'âge à
+
+457
+00:22:44,100 --> 00:22:48,180
+la puissance moins 0,203 sachant que dans
+
+458
+00:22:48,180 --> 00:22:50,660
+cette formule la créatinine plasmatique est exprimée en
+
+459
+00:22:50,660 --> 00:22:54,340
+micromolles par litre la valeur obtenue doit être
+
+460
+00:22:54,340 --> 00:22:57,420
+encore multipliée par 0,742 s'il s
+
+461
+00:22:57,420 --> 00:23:01,280
+'agit d'une femme ou par 1,212
+
+462
+00:23:01,280 --> 00:23:02,980
+s'il s'agit d'un sujet afro
+
+463
+00:23:02,980 --> 00:23:03,700
+-américain.
+
+464
+00:23:04,120 --> 00:23:05,800
+L'inconvénient pour cette formule c'est qu
+
+465
+00:23:05,800 --> 00:23:10,000
+'elle a été élaborée surtout chez des insuffisants
+
+466
+00:23:10,000 --> 00:23:13,580
+rénaux et donc elle va sous-estimer la
+
+467
+00:23:13,580 --> 00:23:15,860
+valeur du débit de filtration glomerulaire chez les
+
+468
+00:23:15,860 --> 00:23:18,000
+individus normaux.
+
+469
+00:23:18,320 --> 00:23:20,320
+En plus c'est une formule qui est
+
+470
+00:23:20,320 --> 00:23:22,420
+assez compliquée et donc on ne peut pas
+
+471
+00:23:22,420 --> 00:23:24,620
+la faire à la main et ça nécessite
+
+472
+00:23:24,620 --> 00:23:26,380
+obligatoirement une calculatrice.
+
+473
+00:23:27,820 --> 00:23:31,200
+Pour pallier aux limites des deux premières équations,
+
+474
+00:23:31,380 --> 00:23:36,180
+une dernière formule a été élaborée qui inclut
+
+475
+00:23:36,180 --> 00:23:38,200
+un plus grand nombre d'individus dont les
+
+476
+00:23:38,200 --> 00:23:39,780
+personnes à fonctions rénales normales.
+
+477
+00:23:39,960 --> 00:23:42,180
+Il s'agit de l'équation CKD-EPI
+
+478
+00:23:42,180 --> 00:23:46,960
+pour Chronic Kidney Disease Epidemiology Collaboration.
+
+479
+00:23:47,960 --> 00:23:52,280
+Cette formule est un petit peu plus compliquée
+
+480
+00:23:52,280 --> 00:23:55,720
+et va faire intervenir d'autres facteurs c
+
+481
+00:23:55,720 --> 00:23:57,760
+'est à dire qu'elle va varier en
+
+482
+00:23:57,760 --> 00:24:03,000
+fonction de l'âge du sexe et elle
+
+483
+00:24:03,000 --> 00:24:05,920
+va tenir compte également de l'origine ethnique
+
+484
+00:24:05,920 --> 00:24:06,760
+de la personne.
+
+485
+00:24:08,260 --> 00:24:10,600
+Selon cette formule, l'acclairance de la créatinine
+
+486
+00:24:10,600 --> 00:24:13,600
+est de 141 à la puissance petit a
+
+487
+00:24:13,600 --> 00:24:17,040
+multiplié par un minimum de la créatinine plasmatique
+
+488
+00:24:17,040 --> 00:24:19,900
+sur un facteur k à la puissance a
+
+489
+00:24:19,900 --> 00:24:22,880
+multiplié par le maximum de la créatinine plasmatique
+
+490
+00:24:22,880 --> 00:24:25,560
+sur un facteur k à la puissance moins
+
+491
+00:24:25,560 --> 00:24:28,940
+1,209 que multiplié 0,999 à la
+
+492
+00:24:28,940 --> 00:24:29,680
+puissance h.
+
+493
+00:24:29,680 --> 00:24:33,660
+Donc la condition pour l'application de cette
+
+494
+00:24:33,660 --> 00:24:35,620
+formule, c'est que la créatinine plasmatique doit
+
+495
+00:24:35,620 --> 00:24:39,280
+nécessairement être déterminée par une technique enzymatique et
+
+496
+00:24:39,280 --> 00:24:41,120
+exprimée en micromolles par litre.
+
+497
+00:24:41,660 --> 00:24:43,060
+Donc le petit a est égal à moins
+
+498
+00:24:43,060 --> 00:24:47,020
+0,329 chez la femme, elle est égale
+
+499
+00:24:47,020 --> 00:24:50,160
+à moins 0,411 chez l'homme et
+
+500
+00:24:50,160 --> 00:24:53,300
+le résultat trouvé est à multiplier par 1
+
+501
+00:24:53,300 --> 00:24:55,340
+,108 s'il s'agit d'une femme
+
+502
+00:24:55,340 --> 00:24:59,440
+ou par 1,159 s'il s'agit
+
+503
+00:24:59,440 --> 00:25:02,020
+d'un patient afro-américain.
+
+504
+00:25:02,600 --> 00:25:05,240
+Le facteur k est égal à 62 chez
+
+505
+00:25:05,240 --> 00:25:07,680
+la femme, k est égal à 80 chez
+
+506
+00:25:07,680 --> 00:25:12,620
+l'homme et avec une précision, c'est
+
+507
+00:25:12,620 --> 00:25:16,540
+que si le rapport créatinine plasmatique sur k
+
+508
+00:25:16,540 --> 00:25:19,980
+est inférieur à 1, dans ce cas l
+
+509
+00:25:19,980 --> 00:25:23,740
+'autre rapport va devenir égal à 1 et
+
+510
+00:25:23,740 --> 00:25:26,540
+si par contre le rapport de créatinine plasmatique
+
+511
+00:25:26,540 --> 00:25:29,200
+sur le facteur k est supérieur à 1
+
+512
+00:25:29,200 --> 00:25:32,100
+cette fois-ci la formule va être simplifiée
+
+513
+00:25:32,100 --> 00:25:34,360
+et donc ce rapport-là va devenir égal
+
+514
+00:25:34,360 --> 00:25:34,980
+à 1.
+
+515
+00:25:37,880 --> 00:25:41,460
+Donc le cinquième marqueur de la fonction glomerulaire
+
+516
+00:25:41,460 --> 00:25:44,100
+cellulaire, c'est un produit de réaction de
+
+517
+00:25:44,100 --> 00:25:46,160
+désalimination des acides aminés qui va se faire
+
+518
+00:25:46,160 --> 00:25:49,360
+surtout au niveau hépatique, il va filtrer au
+
+519
+00:25:49,360 --> 00:25:51,740
+niveau du glomerule mais il est réabsorbé au
+
+520
+00:25:51,740 --> 00:25:55,240
+niveau tubulaire par un processus de diffusion passif
+
+521
+00:25:55,780 --> 00:25:58,520
+donc l'urée est souvent utilisée comme indice
+
+522
+00:25:58,520 --> 00:26:00,900
+de la fonction glomerulaire mais malheureusement elle est
+
+523
+00:26:00,900 --> 00:26:04,760
+moins précise que la créatinine Némi, quoique son
+
+524
+00:26:04,760 --> 00:26:07,180
+augmentation est plus précoce et plus sensible que
+
+525
+00:26:07,180 --> 00:26:10,800
+la créatinine surtout dans l'insuffisance rénale aiguë
+
+526
+00:26:10,800 --> 00:26:13,500
+et dans l'insuffisance rénale fonctionnelle on va
+
+527
+00:26:13,500 --> 00:26:18,280
+assister à une augmentation proportionnellement plus importante de
+
+528
+00:26:18,280 --> 00:26:21,420
+l'urée par rapport à celle de la
+
+529
+00:26:21,420 --> 00:26:22,400
+créatinine.
+
+530
+00:26:23,100 --> 00:26:25,380
+Donc les valeurs de référence c'est 2
+
+531
+00:26:25,380 --> 00:26:28,400
+,5 à 7,5 millimoles par litre au
+
+532
+00:26:28,400 --> 00:26:31,420
+niveau du sérum et 250 à 500 millimoles
+
+533
+00:26:31,420 --> 00:26:33,280
+par 24 heures au niveau urinaire.
+
+534
+00:26:34,400 --> 00:26:37,720
+Sa concentration malheureusement elle va être sujette à
+
+535
+00:26:37,720 --> 00:26:40,480
+des variations, elle va augmenter avec la ration
+
+536
+00:26:40,480 --> 00:26:44,140
+protéique alimentaire, elle va augmenter également dans tous
+
+537
+00:26:44,140 --> 00:26:47,080
+les états hypercataboliques et en cas de déshydratation.
+
+538
+00:26:47,940 --> 00:26:51,300
+Sa concentration par contre elle va diminuer avec
+
+539
+00:26:51,300 --> 00:26:55,460
+la ration protéique alimentaire lorsqu'elle est insuffisante
+
+540
+00:26:55,460 --> 00:26:57,880
+et en cas d'insuffisance hépatique.
+
+541
+00:26:58,540 --> 00:27:00,540
+L'acide urique est de moins en moins
+
+542
+00:27:00,540 --> 00:27:03,960
+utilisé comme marqueur de la fonction glomerulaire quoique
+
+543
+00:27:03,960 --> 00:27:06,780
+l'insuffisance rénale reste la première cause d
+
+544
+00:27:06,780 --> 00:27:08,720
+'augmentation de l'acide urique plasmatique qu'on
+
+545
+00:27:08,720 --> 00:27:09,600
+appelle uricémie.
+
+546
+00:27:10,300 --> 00:27:14,440
+Cette augmentation quand même qui reste peu sensible
+
+547
+00:27:14,440 --> 00:27:18,020
+et peu spécifique puisque l'uricémie peut se
+
+548
+00:27:18,020 --> 00:27:21,020
+voir augmenter lors d'autres situations pathologiques telles
+
+549
+00:27:21,020 --> 00:27:24,060
+que la goutte, le syndrome myeloprolifératif, le syndrome
+
+550
+00:27:24,060 --> 00:27:26,320
+de l'issue morale, la toxémie gravidique ou
+
+551
+00:27:26,320 --> 00:27:28,580
+la prise de pyrazinamide qui est un médicament
+
+552
+00:27:28,580 --> 00:27:29,640
+anti-tubercule.
+
+553
+00:27:30,520 --> 00:27:33,380
+Donc nous arrivons au marqueur peu usuel de
+
+554
+00:27:33,380 --> 00:27:36,280
+la fonction glomerulaire qui revêt un grand intérêt,
+
+555
+00:27:36,840 --> 00:27:39,820
+surtout l'électrophorese et l'immunofixation des protéines
+
+556
+00:27:39,820 --> 00:27:43,560
+urinaires qui consistent en une étude qualitative qui
+
+557
+00:27:43,560 --> 00:27:49,760
+va permettre de différencier entre les différents mécanismes
+
+558
+00:27:49,760 --> 00:27:51,620
+de la protéine urique.
+
+559
+00:27:53,810 --> 00:27:56,570
+Donc l'électrophorese va permettre la séparation des
+
+560
+00:27:56,570 --> 00:27:59,850
+différentes fractions des protéines urinaires qui est basée
+
+561
+00:27:59,850 --> 00:28:03,450
+sur leur charge électrique et on va distinguer
+
+562
+00:28:03,450 --> 00:28:06,030
+principalement deux profils.
+
+563
+00:28:06,850 --> 00:28:09,790
+Donc celui d'une protéine uricellective là on
+
+564
+00:28:09,790 --> 00:28:12,590
+va détecter une fraction correspondante à l'albumine
+
+565
+00:28:12,590 --> 00:28:16,270
+et d'autres fractions qui vont correspondre aux
+
+566
+00:28:16,270 --> 00:28:19,090
+petites protéines telles que la transférine ou l
+
+567
+00:28:19,090 --> 00:28:23,010
+'alpha 1 microglobuline comme ça paraît sur le
+
+568
+00:28:23,010 --> 00:28:23,290
+schéma.
+
+569
+00:28:24,030 --> 00:28:26,330
+Donc deuxième type de protéine urine c'est
+
+570
+00:28:26,330 --> 00:28:28,430
+une protéine urine non sélective et là on
+
+571
+00:28:28,430 --> 00:28:31,070
+va détecter et l'albumine en plus des
+
+572
+00:28:31,070 --> 00:28:34,910
+petites protéines et la présence anormale des immunoglobulines
+
+573
+00:28:34,910 --> 00:28:38,610
+qui sont des macroprotéines donc anormalement qui n
+
+574
+00:28:38,610 --> 00:28:41,370
+'existent jamais dans les urines.
+
+575
+00:28:42,310 --> 00:28:44,910
+Donc comme ça paraît sur le schéma donc
+
+576
+00:28:44,910 --> 00:28:49,570
+on va retrouver ce pic correspondant à l
+
+577
+00:28:49,570 --> 00:28:53,270
+'albumine, les autres petites protéines et la présence
+
+578
+00:28:53,270 --> 00:28:55,670
+anormale de ces immunoglobulines.
+
+579
+00:28:56,830 --> 00:29:00,710
+Donc l'immunofixation ça vient après avoir fait
+
+580
+00:29:00,710 --> 00:29:05,750
+l'électrophorese et donc ça va encore apporter
+
+581
+00:29:05,750 --> 00:29:09,570
+des précisions sur le mécanisme de la protéine
+
+582
+00:29:09,570 --> 00:29:13,970
+urine donc on va après séparation de protéines
+
+583
+00:29:13,970 --> 00:29:16,110
+par électrophorese, on va utiliser ce qu'on
+
+584
+00:29:16,110 --> 00:29:19,010
+appelle des antiserum, ce sont des anticorps spécifiques
+
+585
+00:29:19,010 --> 00:29:22,510
+qui vont être dirigés vers différentes protéines que
+
+586
+00:29:22,510 --> 00:29:24,650
+l'on va retrouver dans les urines soit
+
+587
+00:29:24,650 --> 00:29:28,270
+normalement soit pathologiquement et qui vont se révéler
+
+588
+00:29:28,270 --> 00:29:30,070
+par l'apparition de bandes plus ou moins
+
+589
+00:29:30,070 --> 00:29:35,070
+denses donc différents profils possibles et l'intérêt
+
+590
+00:29:35,070 --> 00:29:37,310
+c'est de classer le type de protéinerie
+
+591
+00:29:37,310 --> 00:29:41,730
+et de différencier entre une protéinerie glomérulaire et
+
+592
+00:29:41,730 --> 00:29:45,250
+dans ce cas la réaction avec les antiserum
+
+593
+00:29:45,250 --> 00:29:47,370
+elle va être positive avec l'albumine, la
+
+594
+00:29:47,370 --> 00:29:50,870
+macroglobuline et l'immunoglobuline et dans ce cas
+
+595
+00:29:50,870 --> 00:29:54,930
+on va suspecter une protéinerie d'origine rénale
+
+596
+00:29:54,930 --> 00:29:58,050
+et donc après une altération de la membrane
+
+597
+00:29:58,050 --> 00:30:04,110
+glomérulaire donc d'une protéinerie d'origine tubulaire
+
+598
+00:30:04,110 --> 00:30:05,690
+et dans ce cas la réaction va être
+
+599
+00:30:05,690 --> 00:30:08,170
+positive avec les petites protéines telles que le
+
+600
+00:30:08,170 --> 00:30:12,010
+retinol banding protéine, la bêta 2 microglobuline l
+
+601
+00:30:12,010 --> 00:30:14,990
+'alpha 1 microglobuline et dans ce cas on
+
+602
+00:30:14,990 --> 00:30:19,130
+va suspecter un trouble dans la réabsorption tubulaire
+
+603
+00:30:19,130 --> 00:30:21,670
+donc on va considérer également que c'est
+
+604
+00:30:21,670 --> 00:30:25,270
+une protéinerie d'origine rénale donc la protéinerie
+
+605
+00:30:25,270 --> 00:30:28,050
+mixte lorsqu'on a présence de protéines d
+
+606
+00:30:28,050 --> 00:30:30,570
+'origine glomérulaire et de protéines d'origine tubulaire
+
+607
+00:30:30,570 --> 00:30:34,650
+et donc on va toujours suspecter une atteinte
+
+608
+00:30:34,650 --> 00:30:37,050
+au niveau rénal.
+
+609
+00:30:38,210 --> 00:30:41,470
+Donc une protéinerie édite de surcharge lorsque la
+
+610
+00:30:41,470 --> 00:30:44,330
+réaction positive avec les antiserum c'est fait
+
+611
+00:30:44,330 --> 00:30:47,750
+avec les chaînes légères libres donc kappa et
+
+612
+00:30:47,750 --> 00:30:52,630
+lambda qui sont qui survient lorsqu'il y
+
+613
+00:30:52,630 --> 00:30:55,070
+a une surproduction de ces chaînes légères par
+
+614
+00:30:55,070 --> 00:30:58,510
+exemple lors du myelôme multiple ou lors du
+
+615
+00:30:58,510 --> 00:31:01,670
+myelôme multiple à chaînes légères donc on peut
+
+616
+00:31:01,670 --> 00:31:04,950
+également avoir une protéinerie par sécrétion lorsque la
+
+617
+00:31:04,950 --> 00:31:08,190
+réaction positive est faite avec la protéine de
+
+618
+00:31:08,190 --> 00:31:11,250
+tam-orsval la protéine de tam-orsval c
+
+619
+00:31:11,250 --> 00:31:14,770
+'est une protéine qui provient du tractus urinaire
+
+620
+00:31:14,770 --> 00:31:20,030
+et donc qui peut lors de lésion de
+
+621
+00:31:20,030 --> 00:31:23,370
+ce tractus urinaire se retrouver dans les urines
+
+622
+00:31:23,370 --> 00:31:26,130
+et donc on va parler plutôt de protéinerie
+
+623
+00:31:26,130 --> 00:31:30,370
+par sécrétion à partir des résultats de l
+
+624
+00:31:30,370 --> 00:31:33,790
+'immunofixation on va pouvoir classer les protéineries en
+
+625
+00:31:33,790 --> 00:31:36,910
+une protéinerie physiologique donc tout à fait normale
+
+626
+00:31:36,910 --> 00:31:39,450
+lorsqu'il y a absence de réaction positive
+
+627
+00:31:39,450 --> 00:31:43,070
+avec les protéines glomérulaires et tubulaires on va
+
+628
+00:31:43,070 --> 00:31:46,190
+parler de protéinerie pré-rénale lorsqu'il s
+
+629
+00:31:46,190 --> 00:31:49,130
+'agit d'une protéinerie par surcharge une protéinerie
+
+630
+00:31:49,130 --> 00:31:51,350
+rénale lorsqu'il s'agit d'une protéinerie
+
+631
+00:31:51,350 --> 00:31:55,710
+glomérulaire ou tubulaire et une protéinerie post-rénale
+
+632
+00:31:55,710 --> 00:31:58,130
+lorsqu'il s'agit d'une protéinerie par
+
+633
+00:31:58,130 --> 00:31:59,390
+sécrétion c'est-à-dire qu'on va
+
+634
+00:31:59,390 --> 00:32:02,930
+retrouver la glycoprotéine de tam-orsval dans les
+
+635
+00:32:02,930 --> 00:32:07,310
+urines les autres marqueurs de la fonction glomérulaire
+
+636
+00:32:07,310 --> 00:32:10,150
+sont malheureusement très peu utilisés pourquoi ?
+
+637
+00:32:10,150 --> 00:32:12,450
+parce qu'ils sont un peu coûteux et
+
+638
+00:32:12,450 --> 00:32:14,210
+donc ils n'ont pas trouvé en pratique
+
+639
+00:32:14,210 --> 00:32:16,770
+une utilisation importante.
+
+640
+00:32:17,070 --> 00:32:18,630
+Il s'agit de la cystatine C qui
+
+641
+00:32:18,630 --> 00:32:21,010
+est un petit peptide de 13 kilos d
+
+642
+00:32:21,010 --> 00:32:22,970
+'altan qui existe au niveau de toutes les
+
+643
+00:32:22,970 --> 00:32:26,310
+cellules nucléaires sa concentration ne varie avec aucun
+
+644
+00:32:26,310 --> 00:32:29,090
+processus pathologique c'est un marqueur de l
+
+645
+00:32:29,090 --> 00:32:33,010
+'altération de la fonction glomérulaire et il présente
+
+646
+00:32:33,010 --> 00:32:34,910
+l'avantage d'être plus sensible que la
+
+647
+00:32:34,910 --> 00:32:39,670
+créatine le deuxième marqueur c'est le neutrophile
+
+648
+00:32:39,670 --> 00:32:42,110
+gélatinase associé à l'hypocaline c'est une
+
+649
+00:32:42,110 --> 00:32:45,570
+glycoprotéine de 25 kilos d'altan qui existe
+
+650
+00:32:45,570 --> 00:32:48,770
+surtout au niveau des polynucléaires neutrophiles c'est
+
+651
+00:32:48,770 --> 00:32:51,190
+un marqueur de la gravité de l'insuffisance
+
+652
+00:32:51,190 --> 00:32:57,870
+rénale, sa concentration augmente avec la diminution du
+
+653
+00:32:57,870 --> 00:33:00,690
+débit de filtration glomérulaire et lorsqu'il y
+
+654
+00:33:00,690 --> 00:33:05,370
+a une inflammation locale cette élévation est plus
+
+655
+00:33:05,370 --> 00:33:07,990
+précoce et plus spécifique que la créatine surtout
+
+656
+00:33:07,990 --> 00:33:09,650
+dans l'insuffisance rénale aiguë

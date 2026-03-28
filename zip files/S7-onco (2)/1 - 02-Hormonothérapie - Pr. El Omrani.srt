@@ -1,0 +1,5451 @@
+1
+00:00:01,800 --> 00:00:04,660
+Bonjour tout le monde, donc aujourd'hui on
+
+2
+00:00:04,660 --> 00:00:06,740
+va traiter la question de l'hormonothérapie en
+
+3
+00:00:06,740 --> 00:00:07,560
+cancérologie.
+
+4
+00:00:08,260 --> 00:00:11,680
+C'est notre deuxième question après le traitement
+
+5
+00:00:11,680 --> 00:00:14,100
+de la douleur et la dernière question sera
+
+6
+00:00:14,100 --> 00:00:16,740
+bien sûr le traitement des thérapies cycliques en
+
+7
+00:00:16,740 --> 00:00:17,480
+cancérologie.
+
+8
+00:00:19,880 --> 00:00:23,720
+Donc pour traiter cette question, on va adopter
+
+9
+00:00:23,720 --> 00:00:25,240
+le plan suivant.
+
+10
+00:00:25,240 --> 00:00:30,440
+Donc après l'introduction sur la définition de
+
+11
+00:00:30,440 --> 00:00:32,620
+la manipulation hormonale ou de l'hormonothérapie en
+
+12
+00:00:32,620 --> 00:00:36,280
+cancérologie, on va faire un petit rappel historique
+
+13
+00:00:36,280 --> 00:00:41,820
+sur le développement des moyens thérapeutiques concernant l
+
+14
+00:00:41,820 --> 00:00:46,000
+'hormonothérapie utilisée en cancérologie, puis un rappel physiologique
+
+15
+00:00:46,000 --> 00:00:52,380
+qui paraît essentiel pour comprendre les différents niveaux
+
+16
+00:00:52,380 --> 00:00:55,080
+d'action d'hormonothérapie en cancérologie.
+
+17
+00:00:55,840 --> 00:00:58,640
+Puis on va traiter les différents mécanismes d
+
+18
+00:00:58,640 --> 00:01:02,980
+'hormonothérapie qui sont généralement schématiquement représentés par trois
+
+19
+00:01:02,980 --> 00:01:08,120
+grands mécanismes d'hormonothérapie suppressive, additive et inhibitrice.
+
+20
+00:01:08,940 --> 00:01:11,020
+Puis on va traiter les modalités de l
+
+21
+00:01:11,020 --> 00:01:13,500
+'hormonothérapie, c'est-à-dire l'administration d
+
+22
+00:01:13,500 --> 00:01:17,680
+'hormonothérapie, comment ça se fait en pratique.
+
+23
+00:01:19,140 --> 00:01:22,980
+Et bien sûr, on doit traiter les mécanismes
+
+24
+00:01:22,980 --> 00:01:25,600
+de résistance à l'hormonothérapie, pour vous le
+
+25
+00:01:25,600 --> 00:01:30,100
+savir, après, durant toute l'hormonothérapie, le souci
+
+26
+00:01:30,100 --> 00:01:33,620
+du thérapeute, c'est toujours l'échappement hormonal
+
+27
+00:01:33,620 --> 00:01:35,620
+à cette hormonothérapie.
+
+28
+00:01:36,220 --> 00:01:37,940
+Donc avant de conclure, bien sûr, on va
+
+29
+00:01:37,940 --> 00:01:43,520
+poser certaines indications d'hormonothérapie en cancérologie pour
+
+30
+00:01:43,520 --> 00:01:46,280
+les cancers les plus fréquents hormonaux sensibles.
+
+31
+00:01:50,760 --> 00:01:53,980
+Les traitements médicamenteux en cancérologie sont proposés en
+
+32
+00:01:53,980 --> 00:01:57,120
+général, soit en exclusif, quand il s'agit
+
+33
+00:01:57,120 --> 00:01:59,800
+d'une maladie métastatique, et dans la plupart
+
+34
+00:01:59,800 --> 00:02:02,960
+des cas, c'est un traitement palliatif où
+
+35
+00:02:02,960 --> 00:02:05,760
+ils sont administrés en complément à la chirurgie
+
+36
+00:02:05,760 --> 00:02:08,680
+ou à la radiothérapie et ceci dans un
+
+37
+00:02:08,680 --> 00:02:09,759
+but curatif.
+
+38
+00:02:11,400 --> 00:02:14,840
+Les traitements médicamenteux systémiques comprennent la chimiothérapie
+
+39
+00:02:14,840 --> 00:02:18,500
+cétotoxique qui vise à détruire les cellules cancéreuses
+
+40
+00:02:18,500 --> 00:02:21,340
+grâce à un néphi tumoricide et ceci dans
+
+41
+00:02:21,340 --> 00:02:22,860
+l'ensemble du corps.
+
+42
+00:02:23,740 --> 00:02:26,520
+L'hormonothérapie, notre sujet d'aujourd'hui, est
+
+43
+00:02:26,520 --> 00:02:29,540
+aussi un traitement systémique qui agit également dans
+
+44
+00:02:29,540 --> 00:02:30,600
+l'ensemble du corps.
+
+45
+00:02:31,360 --> 00:02:33,820
+Son mécanisme d'action est différent de la
+
+46
+00:02:33,820 --> 00:02:37,520
+chimiothérapie car il a un néphi cétostatique et
+
+47
+00:02:37,520 --> 00:02:39,960
+non tumoricide, ça veut dire qu'il va
+
+48
+00:02:39,960 --> 00:02:43,180
+empêcher la division cellulaire et la croissance tumorale.
+
+49
+00:02:45,280 --> 00:02:48,280
+Tous les cancers ne sont pas hormonosensibles et
+
+50
+00:02:48,280 --> 00:02:51,340
+par conséquence, la prescription va intéresser uniquement les
+
+51
+00:02:51,340 --> 00:02:57,840
+cancers hormonosensibles ou hormonodépendants ayant des récepteurs hormonaux
+
+52
+00:02:57,840 --> 00:03:01,260
+dont la présence garantit généralement un effet thérapeutique.
+
+53
+00:03:01,860 --> 00:03:04,000
+On parle d'un facteur prédictif de réponse
+
+54
+00:03:04,000 --> 00:03:06,160
+au traitement hormonal, c'est-à-dire qu
+
+55
+00:03:06,160 --> 00:03:09,060
+'on va prescrire quand on a un facteur
+
+56
+00:03:09,060 --> 00:03:11,740
+prédictif qui va nous garantir la réponse à
+
+57
+00:03:11,740 --> 00:03:14,300
+ce traitement et dans l'absence, bien sûr,
+
+58
+00:03:14,540 --> 00:03:18,700
+ça ne va pas donner de résultat de
+
+59
+00:03:18,700 --> 00:03:20,920
+l'hormonothérapie sans le prescrire dans ce genre
+
+60
+00:03:20,920 --> 00:03:21,440
+de cancer.
+
+61
+00:03:22,460 --> 00:03:25,260
+Parmi les cancers hormonosensibles ou le traitement hormonal
+
+62
+00:03:25,260 --> 00:03:29,540
+a montré son efficacité, on trouve le cancer
+
+63
+00:03:29,540 --> 00:03:31,660
+du sein, le cancer de la prostate, le
+
+64
+00:03:31,660 --> 00:03:33,120
+cancer de l'endomètre, le cancer de la
+
+65
+00:03:33,120 --> 00:03:35,740
+cirrhouïde et vous le savez, ce sont des
+
+66
+00:03:35,740 --> 00:03:37,880
+organes dont la croissance et le fonctionnement normal
+
+67
+00:03:37,880 --> 00:03:40,560
+passent par un contrôle de l'axe hypothalamo
+
+68
+00:03:40,560 --> 00:03:41,580
+-épiphysien.
+
+69
+00:03:42,400 --> 00:03:45,280
+L'objectif de l'hormonothérapie est de manipuler
+
+70
+00:03:45,280 --> 00:03:49,120
+cette activité hormonale à différents niveaux en défaveur
+
+71
+00:03:49,120 --> 00:03:52,240
+de l'activité de la cellule cancéreuse et
+
+72
+00:03:52,240 --> 00:03:53,060
+sa croissance.
+
+73
+00:03:55,960 --> 00:04:00,640
+Cette manipulation hormonale adoptera deux stratégies principales.
+
+74
+00:04:00,640 --> 00:04:03,540
+La stratégie inhibitrice, c'est-à-dire qu
+
+75
+00:04:03,540 --> 00:04:06,720
+'on va bloquer la sécrétion de l'hormone
+
+76
+00:04:06,720 --> 00:04:10,440
+endogène et arrêter la stimulation des récepteurs dont
+
+77
+00:04:10,440 --> 00:04:14,200
+l'activation stimulera la prolifération cellulaire.
+
+78
+00:04:15,440 --> 00:04:17,880
+La deuxième stratégie, c'est de bloquer les
+
+79
+00:04:17,880 --> 00:04:20,880
+récepteurs par des molécules ayant une activité anti
+
+80
+00:04:20,880 --> 00:04:23,260
+-hormonale, c'est-à-dire les anti-hormones
+
+81
+00:04:23,260 --> 00:04:25,900
+qui vont se fixer sur les récepteurs hormonaux
+
+82
+00:04:25,900 --> 00:04:29,220
+mais qui ne génèrent pas d'activité stimulatrice
+
+83
+00:04:29,220 --> 00:04:30,260
+de la division cellulaire.
+
+84
+00:04:32,020 --> 00:04:33,500
+Cette hormonothérapie, c'est un traitement qui est
+
+85
+00:04:33,500 --> 00:04:36,520
+efficace, c'est la première thérapie ciblée.
+
+86
+00:04:37,260 --> 00:04:39,020
+Il a l'avantage d'être facile à
+
+87
+00:04:39,020 --> 00:04:42,920
+administrer et qui se fait généralement en ambulatoire
+
+88
+00:04:42,920 --> 00:04:46,860
+sans nécessité d'hospitalisation avec un profil de
+
+89
+00:04:46,860 --> 00:04:49,280
+toxicité qui est très différent de la chimiothérapie
+
+90
+00:04:49,280 --> 00:04:51,080
+et qu'on connaît et qu'on arrive
+
+91
+00:04:51,080 --> 00:04:52,540
+à gérer efficacement.
+
+92
+00:04:53,920 --> 00:04:57,880
+Pour le traitement hormonal de première génération, le
+
+93
+00:04:57,880 --> 00:05:01,600
+cours était un grand avantage mais actuellement, avec
+
+94
+00:05:01,600 --> 00:05:03,800
+des molécules de dernière génération qui vont cibler
+
+95
+00:05:03,800 --> 00:05:08,880
+les mécanismes de résistance à l'hormonothérapie ou
+
+96
+00:05:08,880 --> 00:05:11,220
+au échappement hormonal, le cours malheureusement est de
+
+97
+00:05:11,220 --> 00:05:12,580
+plus en plus cher.
+
+98
+00:05:14,000 --> 00:05:15,620
+A l'opposé de la chimiothérapie, l'effet
+
+99
+00:05:15,620 --> 00:05:19,280
+cytostatique de l'hormonothérapie demande plus de temps
+
+100
+00:05:19,280 --> 00:05:21,200
+pour montrer un effet thérapeutique.
+
+101
+00:05:21,880 --> 00:05:23,860
+Si pour cela, on ne va pas choisir
+
+102
+00:05:23,860 --> 00:05:26,280
+ce traitement, si on a besoin, par exemple,
+
+103
+00:05:26,380 --> 00:05:29,280
+d'une action rapide devant une tumeur agressive
+
+104
+00:05:29,280 --> 00:05:32,820
+et très rapidement évolutive, par exemple un cancer
+
+105
+00:05:32,820 --> 00:05:34,700
+du sein inflammatoire, on ne va pas le
+
+106
+00:05:34,700 --> 00:05:38,500
+traiter par l'hormonothérapie, la chimiothérapie sera notre
+
+107
+00:05:38,500 --> 00:05:39,500
+premier choix.
+
+108
+00:05:42,000 --> 00:05:43,680
+Donc, le trait inconvénient, c'est le phénomène
+
+109
+00:05:43,680 --> 00:05:44,740
+d'échappement hormonal.
+
+110
+00:05:44,740 --> 00:05:47,780
+Donc, l'échappement hormonal, ça veut dire qu
+
+111
+00:05:47,780 --> 00:05:51,840
+'après une efficacité initiale, plus ou moins longue,
+
+112
+00:05:51,920 --> 00:05:54,660
+la cellule cancéreuse va développer une résistance à
+
+113
+00:05:54,660 --> 00:05:57,800
+l'action du traitement hormonal, de la manipulation
+
+114
+00:05:57,800 --> 00:06:00,840
+hormonale et pour cela, elle va mobiliser plusieurs
+
+115
+00:06:00,840 --> 00:06:05,860
+mécanismes de résistance qui vont représenter un challenge
+
+116
+00:06:05,860 --> 00:06:08,600
+pour les chercheurs afin de les connaître d
+
+117
+00:06:08,600 --> 00:06:12,660
+'abord, puis agir sur ces mécanismes de résistance
+
+118
+00:06:12,660 --> 00:06:15,820
+pour prolonger l'effet thérapeutique et retarder le
+
+119
+00:06:15,820 --> 00:06:18,240
+recours à la chimiothérapie.
+
+120
+00:06:21,260 --> 00:06:23,800
+L'utilisation de la manipulation hormonale pour le
+
+121
+00:06:23,800 --> 00:06:25,520
+traitement du cancer est très ancienne.
+
+122
+00:06:26,400 --> 00:06:28,220
+C'est la première thérapie ciblée, comme je
+
+123
+00:06:28,220 --> 00:06:29,720
+l'ai dit tout à l'heure, des
+
+124
+00:06:29,720 --> 00:06:32,300
+cancers et qui a été utilisée initialement sans
+
+125
+00:06:32,300 --> 00:06:35,740
+aucun facteur prédictif de réponse, mais simplement sur
+
+126
+00:06:35,740 --> 00:06:37,700
+la base d'observations cliniques.
+
+127
+00:06:38,420 --> 00:06:41,060
+La découverte de l'effet de cette thérapie
+
+128
+00:06:41,060 --> 00:06:45,580
+remonte à 1896 par le docteur Georges Besson
+
+129
+00:06:45,580 --> 00:06:49,740
+qui a constaté que la castration chirurgicale, c
+
+130
+00:06:49,740 --> 00:06:53,200
+'est-à-dire une variectomie bilatérale, modifie l
+
+131
+00:06:53,200 --> 00:06:55,860
+'évolution du cancer du sein à travers une
+
+132
+00:06:55,860 --> 00:06:58,120
+observation d'une femme jeune de 33 ans
+
+133
+00:06:58,120 --> 00:07:01,600
+en activité génitale, bien sûr, et qui avait
+
+134
+00:07:01,600 --> 00:07:04,980
+un cancer mammaire localement avancé et qui a
+
+135
+00:07:04,980 --> 00:07:07,680
+subi, comme traitement, une castration chirurgicale.
+
+136
+00:07:09,500 --> 00:07:11,340
+Donc après 4 mois de la castration, il
+
+137
+00:07:11,340 --> 00:07:12,700
+y avait une disparition du sein de l
+
+138
+00:07:12,700 --> 00:07:13,380
+'occurrence régionale.
+
+139
+00:07:14,240 --> 00:07:18,660
+Ça explique l'effet tardif de l'hormonothérapie
+
+140
+00:07:18,660 --> 00:07:22,360
+et après une évolution de 4 ans, malheureusement
+
+141
+00:07:22,360 --> 00:07:24,700
+la patiente est décédée suite à une évolution
+
+142
+00:07:24,700 --> 00:07:29,420
+métastatique et ça explique le phénomène d'échappement
+
+143
+00:07:29,420 --> 00:07:30,020
+hormonal.
+
+144
+00:07:34,000 --> 00:07:37,360
+45 ans après, le docteur Charles Higgins a
+
+145
+00:07:37,360 --> 00:07:40,040
+montré le même effet dans le cancer de
+
+146
+00:07:40,040 --> 00:07:43,460
+la prostate métastatique à travers une série de
+
+147
+00:07:43,460 --> 00:07:47,820
+21 cas ayant eu une orchidectomie ou administration
+
+148
+00:07:47,820 --> 00:07:50,800
+d'estrogènes et ceci a pu améliorer les
+
+149
+00:07:50,800 --> 00:07:56,220
+douleurs osseuses dans ce cancer métastatique.
+
+150
+00:07:57,800 --> 00:08:00,080
+Parmi les 21 cas, il y avait 8
+
+151
+00:08:00,080 --> 00:08:04,460
+répondeurs et 4 ont survécu 12 ans, ce
+
+152
+00:08:04,460 --> 00:08:06,220
+qui n'est pas rien pour un cancer
+
+153
+00:08:06,220 --> 00:08:09,200
+métastatique dont le principe était péjoratif en l
+
+154
+00:08:09,200 --> 00:08:10,540
+'absence de moyens thérapeutiques.
+
+155
+00:08:13,000 --> 00:08:14,900
+Ces résultats posent le problème de la résistance
+
+156
+00:08:14,900 --> 00:08:18,040
+primaire au traitement hormonal, ce sont la population
+
+157
+00:08:18,040 --> 00:08:20,080
+qui n'a pas répondu dès le départ
+
+158
+00:08:20,080 --> 00:08:22,180
+et ceci est dû soit à une tumeur
+
+159
+00:08:22,180 --> 00:08:26,160
+indifférenciée, un type histologique qui est particulier, qui
+
+160
+00:08:26,160 --> 00:08:28,180
+ne va pas répondre et qui seront responsables
+
+161
+00:08:28,180 --> 00:08:30,680
+de l'échec thérapeutique et ceci est généralement
+
+162
+00:08:30,680 --> 00:08:33,380
+lié à l'absence de récepteurs hormonaux.
+
+163
+00:08:35,000 --> 00:08:36,780
+Et sur la base de ce travail, ce
+
+164
+00:08:36,780 --> 00:08:39,440
+monsieur a eu le prix Nobel de médecine.
+
+165
+00:08:39,919 --> 00:08:43,080
+Vous voyez que la facilité à ce moment
+
+166
+00:08:43,080 --> 00:08:46,820
+doit avoir le prix Nobel de médecine à
+
+167
+00:08:46,820 --> 00:08:48,260
+travers une série de 21 cas.
+
+168
+00:08:53,530 --> 00:08:55,850
+En 1930, l'effet de la radiothérapie sur
+
+169
+00:08:55,850 --> 00:08:58,830
+les ovaires a permis d'assurer une castration
+
+170
+00:08:58,830 --> 00:09:02,050
+non chirurgicale peu coûteuse mais avec un effet
+
+171
+00:09:02,050 --> 00:09:04,770
+plus retardé, 3 à 6 mois, à l
+
+172
+00:09:04,770 --> 00:09:07,490
+'opposé de l'ablation chirurgicale qui est immédiate.
+
+173
+00:09:08,890 --> 00:09:10,910
+La toxicité tardive de la radiothérapie et l
+
+174
+00:09:10,910 --> 00:09:13,790
+'apparition d'autres modalités de castration a diminué
+
+175
+00:09:13,790 --> 00:09:16,570
+les indications de cette modalité thérapeutique.
+
+176
+00:09:19,810 --> 00:09:21,830
+En 1966, qui est une date qui est
+
+177
+00:09:21,830 --> 00:09:23,890
+très importante dans l'histoire du cancer du
+
+178
+00:09:23,890 --> 00:09:26,530
+sein, c'est la découverte du tamoxifène qui
+
+179
+00:09:26,530 --> 00:09:31,490
+était destiné initialement pour un effet contraceptif, ce
+
+180
+00:09:31,490 --> 00:09:34,730
+qui n'a jamais été démontré, mais son
+
+181
+00:09:34,730 --> 00:09:38,950
+affinité aux récepteurs hormonaux et son activité anti
+
+182
+00:09:38,950 --> 00:09:41,890
+-ostrogénique a motivé son utilisation et fait de
+
+183
+00:09:41,890 --> 00:09:44,050
+cette molécule jusqu'à maintenant un traitement de
+
+184
+00:09:44,050 --> 00:09:47,970
+référence dans le cancer du sein hormono-sensible.
+
+185
+00:09:51,310 --> 00:09:53,950
+En 1970, c'était l'année de la
+
+186
+00:09:53,950 --> 00:09:57,750
+découverte de la première molécule, la tryptoridine qui
+
+187
+00:09:57,750 --> 00:10:01,310
+est une analogue de LHRH, hormone normalement sécrétée
+
+188
+00:10:01,310 --> 00:10:03,910
+par l'hypothalamus, qu'on va dire appel
+
+189
+00:10:03,910 --> 00:10:06,930
+sur l'axe hypothalamo-hypophysaire, et dont l
+
+190
+00:10:06,930 --> 00:10:11,150
+'administration assure une castration médicale non chirurgicale et
+
+191
+00:10:11,150 --> 00:10:12,830
+non irradiante.
+
+192
+00:10:14,070 --> 00:10:16,530
+Le problème de la variabilité de la réponse
+
+193
+00:10:16,530 --> 00:10:18,930
+à l'hormonothérapie a été clarifié avec la
+
+194
+00:10:18,930 --> 00:10:24,230
+découverte des récepteurs hormonaux en 1976, qui ont
+
+195
+00:10:24,230 --> 00:10:28,350
+remplacé les critères cliniques d'hormonothérapie et d
+
+196
+00:10:28,350 --> 00:10:34,410
+'hormonodépendance, qui ont été représentés par le délai
+
+197
+00:10:34,410 --> 00:10:37,830
+de rechute qui est lent, l'évolutivité lente
+
+198
+00:10:37,830 --> 00:10:38,990
+de la maladie, c'est-à-dire une
+
+199
+00:10:38,990 --> 00:10:43,210
+maladie qui est non agressive et de caractère
+
+200
+00:10:43,210 --> 00:10:44,810
+différencié en termes de pathologie.
+
+201
+00:10:46,670 --> 00:10:52,290
+La sensibilité tumorale peut être importante jusqu'à
+
+202
+00:10:52,290 --> 00:10:55,870
+avoir une remission complète ou partielle en rapport
+
+203
+00:10:55,870 --> 00:11:00,510
+avec une hétérogénité tumorale, ça veut dire plusieurs
+
+204
+00:11:00,510 --> 00:11:04,550
+composantes, une composante hormonosensible et une composante
+
+205
+00:11:04,550 --> 00:11:09,410
+hormonoresistance, ou carrément une résistance primaire avec des
+
+206
+00:11:09,410 --> 00:11:12,570
+tumeurs très indifférenciés et dont l'abnutrition cellulaire
+
+207
+00:11:12,570 --> 00:11:15,230
+est totalement indépendante de l'action hormonale.
+
+208
+00:11:16,430 --> 00:11:17,830
+C'est pour cela la présence des récepteurs
+
+209
+00:11:17,830 --> 00:11:21,230
+hormonaux était représentée comme un facteur réductif de
+
+210
+00:11:21,230 --> 00:11:23,890
+réponse, mais aussi pronostic.
+
+211
+00:11:24,590 --> 00:11:26,650
+Un cancer du sein avec des récepteurs hormonaux
+
+212
+00:11:26,650 --> 00:11:28,850
+positifs sont des tumeurs généralement de réponse pronostique
+
+213
+00:11:28,850 --> 00:11:31,090
+par rapport à des récepteurs hormonaux qui sont
+
+214
+00:11:31,090 --> 00:11:32,190
+négatifs.
+
+215
+00:11:36,280 --> 00:11:38,680
+Donc, on ne peut pas parler du traitement
+
+216
+00:11:38,680 --> 00:11:40,660
+hormonale sans comprendre l'activité de l'axe
+
+217
+00:11:40,660 --> 00:11:41,920
+hypothalamo-hépophyseur.
+
+218
+00:11:42,640 --> 00:11:45,120
+Comme vous le saviez, le hypothalamus est un
+
+219
+00:11:45,120 --> 00:11:48,920
+centre nerveux intégrateur et régulateur de plusieurs fonctions,
+
+220
+00:11:49,980 --> 00:11:53,200
+très important et qui a une fonction bien
+
+221
+00:11:53,200 --> 00:11:54,120
+sûr endocrine.
+
+222
+00:11:55,000 --> 00:11:58,580
+Il est fortement connecté par un système neurologique
+
+223
+00:11:58,580 --> 00:12:02,480
+à la post-hépophyse, responsable de la sécrétion
+
+224
+00:12:02,480 --> 00:12:05,540
+de neurohormones dans l'ADH, l'antidiurétique hormone,
+
+225
+00:12:06,680 --> 00:12:09,560
+et par un réseau vasculaire à l'antihépophyse
+
+226
+00:12:09,560 --> 00:12:12,540
+qui contrôle d'autres glandes endocrines, la thyroïde,
+
+227
+00:12:12,640 --> 00:12:15,680
+les surinales, les glandes mammaires et les gonades.
+
+228
+00:12:19,310 --> 00:12:22,870
+La connexion de l'hypothalamus à la post
+
+229
+00:12:22,870 --> 00:12:25,450
+-hépophyse se fait par l'intermédiaire du neurone
+
+230
+00:12:25,450 --> 00:12:28,810
+hypothalamique qui va libérer les neurohormones dans la
+
+231
+00:12:28,810 --> 00:12:32,730
+circulation sanguine au niveau de la neuro-hépophyse
+
+232
+00:12:32,730 --> 00:12:34,510
+ou la post-hépophyse.
+
+233
+00:12:36,970 --> 00:12:40,670
+A l'opposé, la connexion avec l'antihépophyse
+
+234
+00:12:40,670 --> 00:12:44,030
+se fait par deux réseaux capillaires qui sont
+
+235
+00:12:44,030 --> 00:12:47,850
+reliés par la veine-porte hypothalamo-hépophyseur et
+
+236
+00:12:47,850 --> 00:12:49,230
+ce sont les cellules endocrines de l'ADH
+
+237
+00:12:49,610 --> 00:12:52,810
+qui vont libérer les différentes hormones dans la
+
+238
+00:12:52,810 --> 00:12:55,810
+circulation générale sous contrôle de l'activité hypothalamique.
+
+239
+00:13:00,470 --> 00:13:03,250
+Donc ici, on voit les différentes fonctions de
+
+240
+00:13:03,250 --> 00:13:05,730
+la régulation de l'axe hypothalamo-hépophyseur.
+
+241
+00:13:06,450 --> 00:13:09,250
+C'est la neuro-hépophyse qui va contrôler
+
+242
+00:13:09,250 --> 00:13:12,750
+l'activité rénale par l'antidiurétique hormone qui
+
+243
+00:13:12,750 --> 00:13:16,750
+régule la duresse, le cétocine qui participe bien
+
+244
+00:13:16,750 --> 00:13:20,190
+sûr dans l'accrochement avec les contractions utérines
+
+245
+00:13:20,190 --> 00:13:22,550
+et aussi au niveau de la lactation.
+
+246
+00:13:23,450 --> 00:13:25,850
+Alors que l'ADN-hépophyse, il va contrôler
+
+247
+00:13:25,850 --> 00:13:28,430
+plusieurs organes dont la thyroïde grâce au TSH,
+
+248
+00:13:28,990 --> 00:13:31,410
+la surinale grâce à la CTH, les gonades
+
+249
+00:13:31,410 --> 00:13:33,430
+grâce au FSH et l'H et aussi
+
+250
+00:13:33,430 --> 00:13:35,110
+les glandes mammaires.
+
+251
+00:13:37,850 --> 00:13:40,650
+Nous allons nous intéresser surtout à l'axe
+
+252
+00:13:40,650 --> 00:13:44,630
+hypothalamo-hépophyseur gonadique qui est organisé comme vous
+
+253
+00:13:44,630 --> 00:13:47,090
+le voyez sur la diapositive en trois étages.
+
+254
+00:13:47,090 --> 00:13:49,630
+Le premier, c'est le hypothalamus qui va
+
+255
+00:13:49,630 --> 00:13:55,750
+sécréter du gonadolibérin, GnRH et le deuxième niveau
+
+256
+00:13:55,750 --> 00:13:58,090
+représenté par l'antihépophyse qui va sécréter les
+
+257
+00:13:58,090 --> 00:14:02,950
+hormones gonadotropes, FSH et LH et le troisième
+
+258
+00:14:02,950 --> 00:14:05,470
+niveau, c'est la sécrétion des hormones gonadiques
+
+259
+00:14:05,470 --> 00:14:08,270
+par les gonades suite à leur assimilation par
+
+260
+00:14:08,270 --> 00:14:09,230
+FSH et LH.
+
+261
+00:14:10,110 --> 00:14:14,150
+Ces hormones gonadiques auront par la suite un
+
+262
+00:14:14,150 --> 00:14:17,490
+effet de rétro-contrôle négatif au niveau de
+
+263
+00:14:17,490 --> 00:14:19,030
+l'hépophyse et l'hypothalamus, c'est un
+
+264
+00:14:19,030 --> 00:14:21,930
+système de régulation et auront aussi une action
+
+265
+00:14:21,930 --> 00:14:25,170
+activatrice sur les récepteurs hormonaux au niveau des
+
+266
+00:14:25,170 --> 00:14:26,510
+organes cibles.
+
+267
+00:14:29,410 --> 00:14:32,290
+Voilà un schéma général expliquant le contrôle de
+
+268
+00:14:32,290 --> 00:14:35,190
+l'activité hormonale gonadique par l'hypothalamus et
+
+269
+00:14:35,190 --> 00:14:38,490
+l'hypophyse et aussi un exemple de l
+
+270
+00:14:38,490 --> 00:14:41,230
+'action des hormones gonadiques dans les organes cibles
+
+271
+00:14:41,230 --> 00:14:44,090
+hormonaux dépendants, que ce soit chez la femme
+
+272
+00:14:44,090 --> 00:14:45,810
+et la prostate chez l'homme.
+
+273
+00:14:49,290 --> 00:14:51,950
+Chez la femme, on voit qu'il y
+
+274
+00:14:51,950 --> 00:14:55,630
+a deux sources de production des oestrogènes, la
+
+275
+00:14:55,630 --> 00:14:57,330
+première est la plus importante chez la femme,
+
+276
+00:14:57,410 --> 00:15:01,670
+l'anxiété génitale représentée par les ovaires, soit
+
+277
+00:15:01,670 --> 00:15:04,390
+95% des oestrogènes au niveau de l
+
+278
+00:15:04,390 --> 00:15:07,230
+'organisme et l'autre voie, c'est la
+
+279
+00:15:07,230 --> 00:15:09,470
+voie surinalienne qui produit des androgènes sous contrôle
+
+280
+00:15:09,470 --> 00:15:12,570
+de CTH et ces androgènes vont être transformés
+
+281
+00:15:12,570 --> 00:15:16,070
+en oestrogènes au niveau des tissus périphériques, cette
+
+282
+00:15:16,070 --> 00:15:18,570
+voie ne produit que 5% des oestrogènes
+
+283
+00:15:18,570 --> 00:15:20,790
+chez la femme en anxiété génitale alors qu
+
+284
+00:15:20,790 --> 00:15:23,510
+'il est la voie principale chez les femmes
+
+285
+00:15:24,090 --> 00:15:26,150
+menopausées car les ovaires à ce moment-là
+
+286
+00:15:26,150 --> 00:15:28,250
+n'ont plus d'activité endocrine.
+
+287
+00:15:28,910 --> 00:15:31,670
+Pour cela, le traitement hormonal est différent entre
+
+288
+00:15:31,670 --> 00:15:34,330
+la femme en anxiété génitale qui va s
+
+289
+00:15:34,330 --> 00:15:37,830
+'intéresser à cette activité ovarienne alors que chez
+
+290
+00:15:37,830 --> 00:15:40,470
+la femme menopausée, on va agir sur l
+
+291
+00:15:40,470 --> 00:15:42,310
+'activité surinalienne.
+
+292
+00:15:45,050 --> 00:15:46,770
+Quel est le mécanisme d'action des hormones,
+
+293
+00:15:47,210 --> 00:15:51,770
+des stéroïdes au niveau de la cellule, après
+
+294
+00:15:51,990 --> 00:15:56,450
+avoir pénétré dans la cellule, les stéroïdes seront
+
+295
+00:15:56,450 --> 00:15:59,910
+transportés dans le noyau par un récepteur cétosolique
+
+296
+00:15:59,910 --> 00:16:05,670
+intracellulaire spécifique puis au niveau du noyau, on
+
+297
+00:16:05,670 --> 00:16:09,590
+aura l'activation de la transcription de l
+
+298
+00:16:09,590 --> 00:16:14,090
+'ADN avec stimulation de la prolifération cellulaire.
+
+299
+00:16:14,090 --> 00:16:20,870
+J'insiste que le récepteur est sans cétosolique
+
+300
+00:16:20,870 --> 00:16:23,490
+intracellulaire.
+
+301
+00:16:26,680 --> 00:16:31,520
+La stimulation du testicule par LH stimule la
+
+302
+00:16:31,520 --> 00:16:32,880
+formation de la testostérone.
+
+303
+00:16:33,940 --> 00:16:37,260
+Cette testostérone, elle sera transformée dans la cellule
+
+304
+00:16:37,260 --> 00:16:41,020
+prostatique par 5-alpha-héductase et l'enzyme
+
+305
+00:16:41,020 --> 00:16:42,840
+en dihydrotestostérone.
+
+306
+00:16:43,620 --> 00:16:46,840
+Et la dihydrotestostérone va se fixer au niveau
+
+307
+00:16:46,840 --> 00:16:50,100
+du récepteur d'androgène, toujours en intracellulaire, donc
+
+308
+00:16:50,100 --> 00:16:52,160
+c'est un récepteur qui est cétosolique aussi
+
+309
+00:16:52,160 --> 00:16:55,340
+et qui va transporter la molécule dans le
+
+310
+00:16:55,340 --> 00:16:57,760
+noyau pour déclencher le processus de la prolifération
+
+311
+00:16:57,760 --> 00:16:58,900
+cellulaire.
+
+312
+00:17:00,020 --> 00:17:01,860
+Il ne faut pas oublier aussi la voie
+
+313
+00:17:01,860 --> 00:17:03,960
+surinalienne qui donne naissance à des androgènes qui
+
+314
+00:17:03,960 --> 00:17:06,380
+vont subir les mêmes modifications qu'au niveau
+
+315
+00:17:06,380 --> 00:17:08,359
+de la cellule prostatique.
+
+316
+00:17:11,550 --> 00:17:14,430
+Dans cette diapositive, on a deux schémas qui
+
+317
+00:17:14,430 --> 00:17:16,730
+vont expliquer l'action des hormones sur les
+
+318
+00:17:16,730 --> 00:17:18,910
+cellules normales et les cellules anormales mammaires.
+
+319
+00:17:20,170 --> 00:17:22,550
+La stimulation continue des cellules normales va générer
+
+320
+00:17:22,550 --> 00:17:23,810
+une multiplication cellulaire.
+
+321
+00:17:24,069 --> 00:17:26,510
+Initialement, on va donner naissance à des cellules
+
+322
+00:17:26,510 --> 00:17:30,330
+qui se ressemblent à la cellule mère, donc
+
+323
+00:17:30,330 --> 00:17:31,510
+c'est des cellules normales.
+
+324
+00:17:31,830 --> 00:17:33,490
+Mais si on a une anomalie de l
+
+325
+00:17:33,490 --> 00:17:36,690
+'ADN, une mutation par exemple, la stimulation va
+
+326
+00:17:36,690 --> 00:17:39,370
+donner naissance à des cellules anormales dont les
+
+327
+00:17:39,370 --> 00:17:42,470
+caractéristiques ou le phénotype dépendra du niveau bien
+
+328
+00:17:42,470 --> 00:17:43,590
+sûr de l'anomalie de l'ADN.
+
+329
+00:17:45,130 --> 00:17:48,810
+Deuxième schéma explique l'action des hormones au
+
+330
+00:17:48,810 --> 00:17:51,590
+niveau des cellules mutantes, donc ils ont déjà
+
+331
+00:17:51,590 --> 00:17:54,990
+acquis des caractéristiques ou des phénotypes particuliers par
+
+332
+00:17:54,990 --> 00:17:58,310
+rapport à la cellule normale et ceci va
+
+333
+00:17:58,310 --> 00:18:00,790
+continuer à donner naissance à des cellules anormales
+
+334
+00:18:00,790 --> 00:18:03,630
+et même une aggravation par l'accumulation de
+
+335
+00:18:03,630 --> 00:18:05,810
+la charge mutationnée au niveau des cellules qui
+
+336
+00:18:05,810 --> 00:18:09,270
+peuvent être aussi cancéreuses.
+
+337
+00:18:10,550 --> 00:18:13,310
+Maintenant, on va aborder les mécanismes de l
+
+338
+00:18:13,310 --> 00:18:16,690
+'hormonothérapie en commençant par l'hormonothérapie suppressive.
+
+339
+00:18:18,950 --> 00:18:22,910
+Le but de cette hormonothérapie suppressive ou subtractive
+
+340
+00:18:22,910 --> 00:18:26,110
+est de pratiquer une suppression de la sécrétion
+
+341
+00:18:26,110 --> 00:18:28,970
+des hormones gonadiques, ça veut dire les oestrogènes
+
+342
+00:18:28,970 --> 00:18:30,150
+et la testostérone.
+
+343
+00:18:31,170 --> 00:18:35,150
+Ceci peut être obtenu par une méthode physique
+
+344
+00:18:35,150 --> 00:18:35,710
+ou médicale.
+
+345
+00:18:36,830 --> 00:18:40,690
+Pour la castration physique chez la femme, c
+
+346
+00:18:40,690 --> 00:18:44,570
+'est une ovariectomie bilatérale, c'est la première
+
+347
+00:18:44,570 --> 00:18:46,470
+hormonothérapie qui a été utilisée dans l'histoire
+
+348
+00:18:46,470 --> 00:18:47,990
+du traitement hormonal du cancer.
+
+349
+00:18:48,890 --> 00:18:51,730
+C'est la méthode la plus utilisée, car
+
+350
+00:18:51,730 --> 00:18:54,490
+elle est facile, rapide, avec peu de complications
+
+351
+00:18:54,490 --> 00:18:57,990
+et surtout, c'est un traitement immédiat avec
+
+352
+00:18:57,990 --> 00:19:00,290
+une chute de taux des oestrogènes dans le
+
+353
+00:19:00,290 --> 00:19:04,850
+sang rapide et par conséquence, un effet aussi
+
+354
+00:19:04,850 --> 00:19:05,710
+bénéfique rapide.
+
+355
+00:19:06,810 --> 00:19:09,190
+La deuxième méthode, c'est la castration radique.
+
+356
+00:19:09,870 --> 00:19:12,530
+Elle consiste à administrer 12 à 15 grès
+
+357
+00:19:12,530 --> 00:19:15,830
+sur le pelvis pour supprimer l'activité endocrine
+
+358
+00:19:15,830 --> 00:19:16,390
+des ovaires.
+
+359
+00:19:18,070 --> 00:19:19,990
+Cette technique est de moins en moins utilisée,
+
+360
+00:19:21,190 --> 00:19:23,650
+elle est réservée aux patients non opérables, qui
+
+361
+00:19:23,650 --> 00:19:27,890
+refusent les autres modalités de castration, car elle
+
+362
+00:19:27,890 --> 00:19:30,370
+pose le problème des complications tardives des radiations,
+
+363
+00:19:30,490 --> 00:19:33,850
+notamment le risque de cancer d'utérus secondaire,
+
+364
+00:19:33,970 --> 00:19:36,230
+surtout si la patiente aura du tamoxyfène.
+
+365
+00:19:38,590 --> 00:19:42,150
+Aussi, le délai est plus long pour avoir
+
+366
+00:19:42,150 --> 00:19:44,810
+un effet biologique de castration par rapport à
+
+367
+00:19:44,810 --> 00:19:48,410
+la chirurgie, sans oublier la complexité de la
+
+368
+00:19:48,410 --> 00:19:50,930
+technique, car comme vous le savez, les ovaires
+
+369
+00:19:50,930 --> 00:19:53,930
+sont des organes mobiles dans le pelvis et
+
+370
+00:19:53,930 --> 00:19:55,510
+on peut rater la cible si on ne
+
+371
+00:19:55,510 --> 00:19:58,470
+maîtrise pas la technique des radiations.
+
+372
+00:20:01,550 --> 00:20:06,630
+Comme la chirurgie, la castration radique est définitive,
+
+373
+00:20:06,870 --> 00:20:08,350
+donc on ne peut pas la proposer en
+
+374
+00:20:08,350 --> 00:20:10,870
+adjuvant, mais surtout en métastatique après une discussion
+
+375
+00:20:10,870 --> 00:20:14,190
+avec la patiente avant de procéder.
+
+376
+00:20:15,290 --> 00:20:18,370
+Les effets indésirables sont ceux d'une menopause
+
+377
+00:20:18,370 --> 00:20:20,670
+précoce, c'est-à-dire des bouffées de
+
+378
+00:20:20,670 --> 00:20:24,610
+chaleur, la crise de poids, la stéoporose précoce,
+
+379
+00:20:25,510 --> 00:20:29,330
+la sécheresse vaginale, le risque d'adhéron, et
+
+380
+00:20:29,330 --> 00:20:31,690
+ne pas oublier aussi les troubles psychologiques, notamment
+
+381
+00:20:31,690 --> 00:20:35,190
+la fréquence de dépression dans ces cas.
+
+382
+00:20:38,150 --> 00:20:41,290
+Cette castration est proposée chez les femmes, bien
+
+383
+00:20:41,290 --> 00:20:44,770
+sûr, en activité génitale avec des récepteurs, avec
+
+384
+00:20:44,770 --> 00:20:47,370
+des cancers du sein qui ont des récepteurs
+
+385
+00:20:47,370 --> 00:20:48,710
+hormonaux qui sont positifs.
+
+386
+00:20:50,870 --> 00:20:54,790
+Une attention particulière aux patientes qui ont une
+
+387
+00:20:54,790 --> 00:20:57,050
+améliorée de longue durée pour la chimiothérapie, car
+
+388
+00:20:57,050 --> 00:20:59,970
+la castration aussi peut être un effet indésirable
+
+389
+00:20:59,970 --> 00:21:00,970
+de la chimiothérapie.
+
+390
+00:21:01,250 --> 00:21:06,590
+Par conséquent, il faut confirmer que la patiente
+
+391
+00:21:06,590 --> 00:21:08,030
+n'est pas en menopause avant de lui
+
+392
+00:21:08,030 --> 00:21:11,970
+proposer une castration, soit clinique, mais aussi par
+
+393
+00:21:11,970 --> 00:21:13,750
+le dosage hormonal.
+
+394
+00:21:18,660 --> 00:21:21,080
+Chez l'homme, la castration physique est essentiellement
+
+395
+00:21:21,080 --> 00:21:23,760
+chirurgicale, car c'est facile, avec des organes
+
+396
+00:21:23,760 --> 00:21:26,460
+accessibles et plus économiques que la castration médicale.
+
+397
+00:21:27,680 --> 00:21:30,140
+Elle consiste en une orchidectomie, ou le plus
+
+398
+00:21:30,140 --> 00:21:31,500
+souvent, une pelpictomie.
+
+399
+00:21:32,720 --> 00:21:34,460
+Ça veut dire qu'on va enlever juste
+
+400
+00:21:34,460 --> 00:21:38,280
+le tissu responsable de l'activité endocrine des
+
+401
+00:21:38,280 --> 00:21:41,160
+testicules et conserver la coque pour ne pas
+
+402
+00:21:41,160 --> 00:21:43,280
+toucher à l'image corporelle du patient.
+
+403
+00:21:44,680 --> 00:21:47,140
+Le résultat est l'arrêt de la sécrétion
+
+404
+00:21:47,140 --> 00:21:49,040
+des androgènes par les testicules, avec une chute
+
+405
+00:21:49,040 --> 00:21:52,180
+brutale de la testostérone limite, et donc un
+
+406
+00:21:52,180 --> 00:21:56,800
+effet bénéfique rapide sur les signes d'évolution
+
+407
+00:21:56,800 --> 00:21:57,400
+du cancer.
+
+408
+00:21:59,240 --> 00:22:00,860
+Il ne faut pas oublier aussi la voie
+
+409
+00:22:00,860 --> 00:22:04,040
+accessoire au niveau, sur une alienne qui continue
+
+410
+00:22:04,040 --> 00:22:04,880
+à être fonctionnelle.
+
+411
+00:22:07,340 --> 00:22:09,880
+Les radiations testiculaires ne se font pas, car
+
+412
+00:22:09,880 --> 00:22:12,940
+elle est complexe et surtout non efficace.
+
+413
+00:22:14,740 --> 00:22:17,860
+Les effets secondaires sont représentés par les bouffées
+
+414
+00:22:17,860 --> 00:22:21,200
+de chaleur, l'hypogonadisme, et bien souvent une
+
+415
+00:22:21,200 --> 00:22:22,820
+perte de la libido et l'impuissance.
+
+416
+00:22:24,240 --> 00:22:26,360
+Le patient doit être informé de ces effets,
+
+417
+00:22:26,560 --> 00:22:30,220
+indésirables, car ça peut être une source de
+
+418
+00:22:30,220 --> 00:22:31,990
+troubles psychologiques qui sont très importants.
+
+419
+00:22:33,850 --> 00:22:38,350
+Cette castration est irréversible et peut être proposée
+
+420
+00:22:38,350 --> 00:22:40,990
+aux patients ayant un cancer de prostate métastatique,
+
+421
+00:22:41,090 --> 00:22:43,350
+c'est contre-indication au refus d'une
+
+422
+00:22:43,350 --> 00:22:45,150
+castration médicale.
+
+423
+00:22:48,310 --> 00:22:50,990
+Sur ce schéma, on voit l'effet de
+
+424
+00:22:50,990 --> 00:22:53,410
+la castration sur le tissu prostatique.
+
+425
+00:22:54,630 --> 00:22:59,010
+Après la suppression de la sécrétion gonadique de
+
+426
+00:22:59,010 --> 00:23:01,410
+la testostérone au niveau des testicules, malgré la
+
+427
+00:23:01,410 --> 00:23:06,870
+simulation par le LHFSH sécrétée par l'hypophyse,
+
+428
+00:23:06,950 --> 00:23:09,450
+on n'aura pas de sécrétion de testostérone
+
+429
+00:23:09,450 --> 00:23:13,830
+par les testicules, avec une chute rapide après
+
+430
+00:23:13,830 --> 00:23:17,610
+la castration, avec un taux qui sera inférieur
+
+431
+00:23:17,610 --> 00:23:19,910
+à 0,2 nanogrammes par immunité en 12
+
+432
+00:23:19,910 --> 00:23:23,230
+heures, pas comme les autres méthodes, et notamment
+
+433
+00:23:23,230 --> 00:23:25,190
+la castration médicale.
+
+434
+00:23:26,830 --> 00:23:31,850
+Et cette chute de la testostérone immune, par
+
+435
+00:23:31,850 --> 00:23:33,470
+l'effet, comme on l'a dit tout
+
+436
+00:23:33,470 --> 00:23:36,570
+à l'heure, cétostatique, va retentir sur le
+
+437
+00:23:36,570 --> 00:23:41,950
+volume prostatique, surtout au niveau, au dépend des
+
+438
+00:23:41,950 --> 00:23:46,130
+cellules bien différenciées exprimant les récepteurs hormonaux à
+
+439
+00:23:46,130 --> 00:23:46,930
+la testostérone.
+
+440
+00:23:48,050 --> 00:23:49,630
+Donc, très important, ce n'est pas comme
+
+441
+00:23:49,630 --> 00:23:51,690
+le cancer du sein, dans le cancer de
+
+442
+00:23:51,690 --> 00:23:55,010
+la prostate, le taux de positivité, la fréquence
+
+443
+00:23:55,010 --> 00:23:58,330
+de positivité des récepteurs hormonaux, il est très
+
+444
+00:23:58,330 --> 00:23:59,690
+très important, c'est pour cela qu'on
+
+445
+00:23:59,690 --> 00:24:02,890
+ne va pas chercher la présence de ces
+
+446
+00:24:02,890 --> 00:24:06,190
+récepteurs hormonaux, mais on va prescrire l'hormonothérapie
+
+447
+00:24:06,190 --> 00:24:09,250
+de façon qui est systématique.
+
+448
+00:24:10,470 --> 00:24:11,950
+Et vous voyez aussi qu'il y a
+
+449
+00:24:11,950 --> 00:24:16,530
+toujours cette voie secondaire qui reste fonctionnelle au
+
+450
+00:24:16,530 --> 00:24:19,950
+niveau surinalien, et qu'on peut bloquer, et
+
+451
+00:24:19,950 --> 00:24:22,610
+le fait de la bloquer, on va parler
+
+452
+00:24:22,610 --> 00:24:24,950
+de ce qu'on appelle une castration, ou
+
+453
+00:24:24,950 --> 00:24:27,510
+un blocage androgynique, pardon, complet.
+
+454
+00:24:30,590 --> 00:24:33,350
+Le deuxième mécanisme d'hormonothérapie suppressive, c'est
+
+455
+00:24:33,350 --> 00:24:37,310
+la frénation de l'axe hypothalamo-épophysaire par
+
+456
+00:24:37,310 --> 00:24:41,510
+l'administration continue des analogues LHRH exogènes.
+
+457
+00:24:42,570 --> 00:24:45,870
+Le résultat, ce sera une saturation des récepteurs
+
+458
+00:24:45,870 --> 00:24:50,970
+épophysaires avec une chute de sécrétion de LHFSH,
+
+459
+00:24:51,650 --> 00:24:53,210
+et par conséquence, une chute de la sécrétion
+
+460
+00:24:53,210 --> 00:24:56,410
+des hormones gonadiques par les testicules et les
+
+461
+00:24:56,410 --> 00:24:56,730
+ovaires.
+
+462
+00:24:58,470 --> 00:25:03,350
+Il faut savoir que les cellules endocrines de
+
+463
+00:25:03,350 --> 00:25:05,490
+l'antépophyse sont très sensibles à la sécrétion
+
+464
+00:25:05,490 --> 00:25:09,270
+pulsative de LHRH par l'hypothalamus, et la
+
+465
+00:25:09,270 --> 00:25:12,670
+libération continue des analogues LHRH exogènes va supprimer
+
+466
+00:25:12,670 --> 00:25:17,290
+cette pulsacidité avec un effet plateau, et ceci
+
+467
+00:25:17,290 --> 00:25:19,590
+à l'origine de l'effet biologique de
+
+468
+00:25:19,590 --> 00:25:20,190
+la castration.
+
+469
+00:25:22,150 --> 00:25:24,470
+Le même mécanisme est utilisé chez la femme
+
+470
+00:25:24,470 --> 00:25:26,470
+dans le cancer du sein, comme chez l
+
+471
+00:25:26,470 --> 00:25:30,430
+'homme dans le cancer de la prostate, et
+
+472
+00:25:30,430 --> 00:25:33,210
+le fait d'arrêter l'administration des analogues
+
+473
+00:25:33,210 --> 00:25:36,270
+de LHRH, ça va enlever l'effet de
+
+474
+00:25:36,270 --> 00:25:39,730
+castration, car c'est une castration qui est
+
+475
+00:25:39,730 --> 00:25:40,430
+réversible.
+
+476
+00:25:41,630 --> 00:25:45,830
+Donc cette castration, elle n'a pas d
+
+477
+00:25:45,830 --> 00:25:50,090
+'action sur la deuxième fois de la sécrétion
+
+478
+00:25:50,090 --> 00:25:53,070
+des androgènes ou des oestrogènes par la voie
+
+479
+00:25:53,070 --> 00:25:54,010
+sur un alien.
+
+480
+00:25:58,230 --> 00:26:00,310
+Les molécules utilisées pour l'affirmation de l
+
+481
+00:26:00,310 --> 00:26:03,590
+'axe hypothalamo-hypophysaire, qui sont disponibles au Maroc,
+
+482
+00:26:03,670 --> 00:26:07,970
+sont représentées par trois molécules, la treptoryline, la
+
+483
+00:26:07,970 --> 00:26:13,850
+gozireline et la loproryline, et sont utilisées dans
+
+484
+00:26:13,850 --> 00:26:16,670
+le cancer de la prostate et dans le
+
+485
+00:26:16,670 --> 00:26:19,710
+cancer du sein chez la femme non-ménopausée
+
+486
+00:26:19,710 --> 00:26:21,770
+avec des récepteurs hormonaux positifs.
+
+487
+00:26:23,530 --> 00:26:26,310
+Donc ce sont des injections, soit scrutinées, soit
+
+488
+00:26:26,310 --> 00:26:29,910
+intramusculaires, qui sont administrées d'une façon régulière
+
+489
+00:26:29,910 --> 00:26:33,130
+pour maintenir l'effet plateau, soit mensuel, soit
+
+490
+00:26:33,130 --> 00:26:36,210
+trimestriel, ou même semestriel pour la treptoryline.
+
+491
+00:26:38,550 --> 00:26:41,450
+La durée du traitement et de la castration,
+
+492
+00:26:41,670 --> 00:26:44,590
+donc elle dépend bien sûr des indications thérapeutiques.
+
+493
+00:26:45,310 --> 00:26:46,750
+Est-ce qu'on est devant un adjuvant,
+
+494
+00:26:47,350 --> 00:26:49,350
+à l'exemple, où la durée est généralement
+
+495
+00:26:49,830 --> 00:26:52,570
+limitée, ou en cas de maladie métastatique où
+
+496
+00:26:52,570 --> 00:26:54,610
+l'administration est continue.
+
+497
+00:26:58,680 --> 00:27:00,340
+On a dit tout à l'heure que
+
+498
+00:27:00,340 --> 00:27:03,020
+les cellules hypophysaires sont sensibles à la plus
+
+499
+00:27:03,020 --> 00:27:05,680
+facilité de la sécrétion de LHRH par l
+
+500
+00:27:05,680 --> 00:27:06,280
+'hypothalamus.
+
+501
+00:27:07,100 --> 00:27:11,400
+Ça veut dire que durant la première administration
+
+502
+00:27:11,400 --> 00:27:16,000
+exogène des analogues de LHRH, on aura un
+
+503
+00:27:16,000 --> 00:27:18,280
+pic de taux de LHRH dans la circulation
+
+504
+00:27:18,280 --> 00:27:25,360
+sanguine et une sécrétion initiale exagérée de FSHRH
+
+505
+00:27:25,360 --> 00:27:26,480
+par l'hypophyse.
+
+506
+00:27:27,820 --> 00:27:29,840
+Ceci à l'origine d'un syndrome, ce
+
+507
+00:27:29,840 --> 00:27:33,280
+qu'on appelle le FLARAP syndrome, qui est
+
+508
+00:27:33,280 --> 00:27:35,980
+secondaire à une sécrétion importante de la testostérone,
+
+509
+00:27:37,060 --> 00:27:41,640
+qui survient aux environs du 7e jour après
+
+510
+00:27:41,640 --> 00:27:45,960
+la première administration des analogues de LHRH, et
+
+511
+00:27:45,960 --> 00:27:50,100
+ceci, il peut aggraver la symptomatologie des patients.
+
+512
+00:27:50,980 --> 00:27:53,800
+Par exemple, un cancer de la prostate métastatique
+
+513
+00:27:53,800 --> 00:27:56,860
+au niveau osseux, au niveau du rachis, il
+
+514
+00:27:56,860 --> 00:28:03,000
+peut générer une compression midulaire par cet effet
+
+515
+00:28:03,000 --> 00:28:03,380
+FLARAP.
+
+516
+00:28:04,260 --> 00:28:07,920
+Donc, on est devant une obligation d'associer
+
+517
+00:28:07,920 --> 00:28:12,920
+un antiandrogène périphérique pendant au moins un à
+
+518
+00:28:12,920 --> 00:28:16,740
+deux mois afin de moduler cet effet pour
+
+519
+00:28:16,740 --> 00:28:20,100
+bloquer les récepteurs périphériques au niveau des organes
+
+520
+00:28:20,100 --> 00:28:20,440
+cibles.
+
+521
+00:28:21,340 --> 00:28:24,280
+Juste le temps pour avoir un effet plateau
+
+522
+00:28:24,280 --> 00:28:28,320
+et avoir l'effet biologique de la castration.
+
+523
+00:28:31,530 --> 00:28:35,050
+Donc, après le premier temps qui correspond à
+
+524
+00:28:35,050 --> 00:28:37,310
+une exagération de la sécrétion des hormones gonadiques
+
+525
+00:28:37,310 --> 00:28:42,490
+suite à une stimulation exagérée par LHFSH, sécrétée
+
+526
+00:28:42,490 --> 00:28:46,810
+par l'hypophyse secondaire à une administration très
+
+527
+00:28:46,810 --> 00:28:51,970
+importante de LHRH, on aura l'effet biologique
+
+528
+00:28:51,970 --> 00:28:53,930
+de la castration.
+
+529
+00:28:54,930 --> 00:28:58,310
+Cela veut dire qu'on aura une diminution
+
+530
+00:28:58,310 --> 00:29:02,210
+de la sécrétion de LSHH et une hypothérophétie
+
+531
+00:29:02,210 --> 00:29:06,650
+circulaire avec une réduction du taux de la
+
+532
+00:29:06,650 --> 00:29:11,990
+testostérone dans la circulation sanguine et l'effet
+
+533
+00:29:11,990 --> 00:29:14,970
+sur les organes cibles, notamment la prostate, avec
+
+534
+00:29:14,970 --> 00:29:18,090
+une diminution du volant prostatique ou dépend des
+
+535
+00:29:18,090 --> 00:29:23,150
+cellules prostatiques tumorales surexprimant les récepteurs hormones.
+
+536
+00:29:24,870 --> 00:29:29,830
+Donc, après l'hormonothérapie suppressive, on passera à
+
+537
+00:29:29,830 --> 00:29:31,390
+l'hormonothérapie additive.
+
+538
+00:29:32,350 --> 00:29:33,450
+Donc, ça veut dire qu'on va administrer
+
+539
+00:29:33,450 --> 00:29:37,570
+des hormones pour avoir un effet thérapeutique.
+
+540
+00:29:39,550 --> 00:29:40,450
+Qu'est-ce que c'est que l
+
+541
+00:29:40,450 --> 00:29:42,210
+'hormonothérapie additive?
+
+542
+00:29:42,210 --> 00:29:46,650
+Donc, ça correspond à une administration d'hormones
+
+543
+00:29:46,650 --> 00:29:51,510
+pour bloquer ou diminuer la sécrétion des hormones
+
+544
+00:29:51,510 --> 00:29:52,270
+stimulantes.
+
+545
+00:29:52,790 --> 00:29:55,530
+On va utiliser un effet qui est antagoniste.
+
+546
+00:29:57,070 --> 00:29:59,590
+Premier exemple, c'est le traitement par les
+
+547
+00:29:59,590 --> 00:30:04,010
+oestrogènes qui va agir par un système de
+
+548
+00:30:04,010 --> 00:30:09,590
+rétro contrôle négatif, inhibition de la sécrétion, des
+
+549
+00:30:09,590 --> 00:30:12,590
+effets SHLH, suite à une augmentation du taux
+
+550
+00:30:12,590 --> 00:30:15,790
+des oestrogènes dans la circulation sanguine, suite à
+
+551
+00:30:15,790 --> 00:30:17,410
+l'administration exogène des oestrogènes.
+
+552
+00:30:18,150 --> 00:30:21,670
+Donc, ceci est utilisé dans le cancer de
+
+553
+00:30:21,670 --> 00:30:25,630
+la prostate, mais dans des indications qui sont
+
+554
+00:30:25,630 --> 00:30:29,150
+très restreintes et de plus en plus abandonnées
+
+555
+00:30:29,150 --> 00:30:32,370
+parce qu'on a d'autres modalités thérapeutiques,
+
+556
+00:30:32,370 --> 00:30:34,750
+mais c'est très important de comprendre le
+
+557
+00:30:34,750 --> 00:30:38,730
+mécanisme qu'on va utiliser pour avoir un
+
+558
+00:30:38,730 --> 00:30:39,590
+effet thérapeutique.
+
+559
+00:30:40,610 --> 00:30:44,830
+Donc, les complications de cette hormonothérapie ou ce
+
+560
+00:30:44,830 --> 00:30:46,810
+traitement par les oestrogènes, donc ce sont les
+
+561
+00:30:46,810 --> 00:30:53,030
+infarctus 2004, la maladie thromboembolique, la gynecomastie et
+
+562
+00:30:53,030 --> 00:30:55,130
+aussi la modification de la répartition des graisses.
+
+563
+00:30:57,130 --> 00:30:59,550
+La contre-indication, c'est le cancer du
+
+564
+00:30:59,550 --> 00:30:59,670
+sein.
+
+565
+00:30:59,670 --> 00:31:02,190
+On ne va pas traiter le cancer du
+
+566
+00:31:02,190 --> 00:31:03,030
+sein par les oestrogènes.
+
+567
+00:31:04,550 --> 00:31:08,530
+Ici, sur cette diapositive, on voit le mécanisme
+
+568
+00:31:08,530 --> 00:31:11,530
+de l'action des oestrogènes au niveau de
+
+569
+00:31:11,530 --> 00:31:12,290
+l'hépotalamus.
+
+570
+00:31:12,670 --> 00:31:16,630
+Donc, l'augmentation du taux des oestrogènes dans
+
+571
+00:31:16,630 --> 00:31:20,470
+la circulation sanguine va réduire l'activité de
+
+572
+00:31:20,470 --> 00:31:23,570
+l'hépotalamus et de l'hépophyse et par
+
+573
+00:31:23,570 --> 00:31:28,450
+conséquence, une diminution du taux de la testostérone
+
+574
+00:31:28,450 --> 00:31:32,990
+au niveau du sang et l'effet résultant,
+
+575
+00:31:33,550 --> 00:31:36,050
+c'est un effet thérapeutique avec une diminution
+
+576
+00:31:36,050 --> 00:31:39,870
+toujours du volume de la prostate.
+
+577
+00:31:40,810 --> 00:31:46,610
+Donc, le deuxième exemple de l'hormonothérapie additive
+
+578
+00:31:46,610 --> 00:31:49,850
+par un mécanisme antagoniste, c'est l'utilisation
+
+579
+00:31:49,850 --> 00:31:54,110
+des androgènes, notamment le mythyl testostérone.
+
+580
+00:31:54,990 --> 00:31:57,790
+Donc, le mécanisme d'action, comme les oestrogènes,
+
+581
+00:31:58,390 --> 00:32:00,550
+on va avoir une diminution de la sécrétion
+
+582
+00:32:00,550 --> 00:32:03,150
+des FSHLH par rétrocontrôle négatif au niveau de
+
+583
+00:32:03,150 --> 00:32:06,930
+l'hépotalamus et suite à cette diminution de
+
+584
+00:32:06,930 --> 00:32:09,330
+la sécrétion des FSHLH, on aura bien sûr
+
+585
+00:32:09,330 --> 00:32:11,410
+une diminution de la sécrétion des oestrogènes par
+
+586
+00:32:11,410 --> 00:32:13,210
+les ovaires.
+
+587
+00:32:14,610 --> 00:32:16,010
+Deuxième mécanisme, c'est l'utilisation de la
+
+588
+00:32:16,010 --> 00:32:18,230
+synthèse des récepteurs oestrogènes.
+
+589
+00:32:19,790 --> 00:32:22,170
+Donc, les androgènes, ils peuvent être utilisés dans
+
+590
+00:32:22,170 --> 00:32:28,010
+le cancer du sein chez la femme âgée.
+
+591
+00:32:29,930 --> 00:32:35,670
+Les complications d'utilisation des androgènes, donc, elles
+
+592
+00:32:35,670 --> 00:32:37,970
+vont donner des signes de virilisation, de la
+
+593
+00:32:37,970 --> 00:32:42,210
+maladie thromboembolique, mais il faut savoir que c
+
+594
+00:32:42,210 --> 00:32:45,290
+'est aussi un traitement actuellement qui est abandonné
+
+595
+00:32:45,290 --> 00:32:48,330
+du fait de ces complications, mais aussi parce
+
+596
+00:32:48,330 --> 00:32:50,710
+qu'on a d'autres modalités thérapeutiques à
+
+597
+00:32:50,710 --> 00:32:53,010
+proposer pour le cancer du sein.
+
+598
+00:32:54,490 --> 00:32:56,590
+Le troisième et le dernier exemple de l
+
+599
+00:32:56,590 --> 00:32:59,810
+'hormonothérapie additive parifiée antagoniste, c'est l'utilisation
+
+600
+00:32:59,810 --> 00:33:04,870
+des progestatifs qui vont interagir avec les récepteurs
+
+601
+00:33:04,870 --> 00:33:08,610
+des hormones stéroïdiennes et aussi, ils vont inhiber
+
+602
+00:33:08,610 --> 00:33:11,970
+la sécrétion de LH-RH par l'ultracontrôle
+
+603
+00:33:11,970 --> 00:33:12,670
+négatif.
+
+604
+00:33:13,790 --> 00:33:16,350
+Ainsi, ils vont avoir un effet anti-ostrogénique
+
+605
+00:33:16,350 --> 00:33:18,090
+et anti-odrogénique.
+
+606
+00:33:19,930 --> 00:33:24,530
+Donc, les indications de cette hormonothérapie par les
+
+607
+00:33:24,530 --> 00:33:26,350
+progestatifs, c'est surtout le cancer de l
+
+608
+00:33:26,350 --> 00:33:31,070
+'endomètre où il garde une place, mais sur
+
+609
+00:33:31,070 --> 00:33:32,650
+le plan théorique, ils peuvent être utilisés dans
+
+610
+00:33:32,650 --> 00:33:34,770
+le cancer du sein ou le cancer de
+
+611
+00:33:34,770 --> 00:33:36,150
+la prostate.
+
+612
+00:33:37,710 --> 00:33:40,470
+Les complications de cette hormonothérapie sont comme les
+
+613
+00:33:40,470 --> 00:33:43,310
+stéroïdes, la prise de poids, la maladie thromboembolique,
+
+614
+00:33:44,310 --> 00:33:46,430
+le risque d'HTA et aussi le syndrome
+
+615
+00:33:46,430 --> 00:33:48,710
+de rétention et de ressauter.
+
+616
+00:33:52,370 --> 00:33:55,470
+Deuxième type d'hormonothérapie additive, c'est l
+
+617
+00:33:55,470 --> 00:33:57,370
+'hormonothérapie parifiée agoniste.
+
+618
+00:33:58,090 --> 00:34:00,590
+L'exemple type ici, c'est d'utiliser
+
+619
+00:34:00,590 --> 00:34:03,390
+des hormones thyroïdiennes, l'ivothyroxine.
+
+620
+00:34:06,730 --> 00:34:11,170
+Donc, on va utiliser leur mécanisme freinateur de
+
+621
+00:34:11,170 --> 00:34:12,510
+la sécrétion de la TSH.
+
+622
+00:34:14,230 --> 00:34:16,610
+Ce sont des médicaments qui sont utilisés par
+
+623
+00:34:16,610 --> 00:34:21,969
+voie orale et leur effet va être suivi
+
+624
+00:34:21,969 --> 00:34:25,030
+par le dosage de TSH ultrasensibles.
+
+625
+00:34:26,449 --> 00:34:29,050
+Donc, ce sont des médicaments qui sont généralement
+
+626
+00:34:29,050 --> 00:34:33,130
+bien tolérés si, bien sûr, on respecte les
+
+627
+00:34:33,130 --> 00:34:34,929
+indications thérapeutiques.
+
+628
+00:34:36,330 --> 00:34:41,210
+Donc, deux indications majeures des hormones thyroïdiennes, soit
+
+629
+00:34:41,210 --> 00:34:46,929
+comme traitement successif après une thyroïdotomie totale, donc
+
+630
+00:34:46,929 --> 00:34:52,170
+pour pallier un hypothyroïdé diatrogène et on peut
+
+631
+00:34:52,170 --> 00:34:54,909
+l'utiliser aussi comme traitement freinateur de la
+
+632
+00:34:54,909 --> 00:34:58,010
+TSH en cas de cancer de la thyroïde
+
+633
+00:34:58,490 --> 00:34:59,530
+bien différencié.
+
+634
+00:35:01,870 --> 00:35:04,290
+Donc, les objectifs de l'utilisation des hormones
+
+635
+00:35:04,290 --> 00:35:10,550
+thyroïdiennes, quels seront différents selon l'objectif?
+
+636
+00:35:11,130 --> 00:35:15,570
+Si on a comme objectif un traitement successif,
+
+637
+00:35:16,510 --> 00:35:17,710
+ça veut dire qu'on doit avoir un
+
+638
+00:35:17,710 --> 00:35:21,550
+taux de TSH dans le sang qui avoisine
+
+639
+00:35:21,550 --> 00:35:22,910
+les valeurs normales.
+
+640
+00:35:23,930 --> 00:35:25,670
+Par contre, si on voulait ce qu'on
+
+641
+00:35:25,670 --> 00:35:27,670
+appelle un traitement freinateur et notamment de le
+
+642
+00:35:27,670 --> 00:35:30,070
+conserver en différence de la thyroïde, on doit
+
+643
+00:35:30,070 --> 00:35:33,250
+avoir un taux de TSH qui est élevé
+
+644
+00:35:33,870 --> 00:35:39,570
+pour avoir aussi un TSH effondré et réduire
+
+645
+00:35:39,570 --> 00:35:43,250
+l'assimilation des cellules tumorales par le TSH.
+
+646
+00:35:44,170 --> 00:35:46,150
+Ce sont des traitements qui sont utilisés avec
+
+647
+00:35:46,150 --> 00:35:49,050
+une prise quotidienne, surtout le matin à jeun
+
+648
+00:35:49,050 --> 00:35:52,450
+et sont très sensibles en matière d'association
+
+649
+00:35:52,450 --> 00:35:54,310
+médicamenteuse et à l'alimentation.
+
+650
+00:35:54,470 --> 00:35:55,890
+C'est pour cela qu'il faut respecter,
+
+651
+00:35:56,510 --> 00:36:00,450
+attendre au moins une demi-heure après leur
+
+652
+00:36:00,450 --> 00:36:00,930
+prise.
+
+653
+00:36:03,110 --> 00:36:05,870
+Leur demi-vie est généralement 6 à 7
+
+654
+00:36:05,870 --> 00:36:06,130
+jours.
+
+655
+00:36:09,090 --> 00:36:11,430
+Le troisième type d'hormonothérapie additive, c'est
+
+656
+00:36:11,430 --> 00:36:13,170
+l'hormonothérapie compétitive.
+
+657
+00:36:13,270 --> 00:36:15,590
+L'exemple type, c'est l'utilisation du
+
+658
+00:36:15,590 --> 00:36:16,290
+tamoxifène.
+
+659
+00:36:17,490 --> 00:36:19,070
+Le tamoxifène, c'est une molécule qui a
+
+660
+00:36:19,070 --> 00:36:23,610
+été découverte dans un but d'effet contraceptif,
+
+661
+00:36:24,470 --> 00:36:26,370
+chose qui n'a jamais été démontrée.
+
+662
+00:36:26,630 --> 00:36:28,810
+Par contre, elle a montré un effet bénéfique
+
+663
+00:36:28,810 --> 00:36:31,350
+pour le traitement du cancer du sein et
+
+664
+00:36:31,350 --> 00:36:34,470
+jusqu'à maintenant, elle représente une molécule de
+
+665
+00:36:34,470 --> 00:36:36,050
+référence dans le traitement hormonal.
+
+666
+00:36:37,350 --> 00:36:39,350
+C'est une molécule qui est de nature
+
+667
+00:36:39,350 --> 00:36:44,190
+ostrogénique, mais qui a été dénaturée et qui
+
+668
+00:36:44,190 --> 00:36:47,170
+a perdu cette activité ostrogénique au niveau des
+
+669
+00:36:47,170 --> 00:36:50,090
+récepteurs aux oestrogènes.
+
+670
+00:36:51,630 --> 00:36:54,630
+Donc, il va agir par compétitivité avec les
+
+671
+00:36:54,630 --> 00:36:57,510
+oestrogènes au niveau de leur récepteur cellulaire avec
+
+672
+00:36:57,510 --> 00:36:58,990
+une affinité qui est plus importante.
+
+673
+00:37:00,450 --> 00:37:02,790
+Et comme effet thérapeutique, il aura un effet
+
+674
+00:37:02,790 --> 00:37:04,210
+cétostatique, ça veut dire qu'il va bloquer
+
+675
+00:37:04,210 --> 00:37:06,250
+les cellules en phase G1 et on n
+
+676
+00:37:06,250 --> 00:37:09,830
+'aura pas l'effet oestrogénique résultant à l
+
+677
+00:37:09,830 --> 00:37:12,870
+'activité ou à la simulation des récepteurs hormonaux
+
+678
+00:37:12,870 --> 00:37:13,690
+par les oestrogènes.
+
+679
+00:37:15,570 --> 00:37:17,370
+Donc, c'est une molécule qu'on va
+
+680
+00:37:17,370 --> 00:37:20,050
+utiliser dans le cancer du sein avec des
+
+681
+00:37:20,050 --> 00:37:24,510
+récepteurs hormonaux positifs, une dose journalière administrée de
+
+682
+00:37:24,510 --> 00:37:27,470
+20 mg par jour et la durée de
+
+683
+00:37:27,470 --> 00:37:30,150
+traitement, bien sûr, ça dépend de l'indication
+
+684
+00:37:30,150 --> 00:37:34,290
+thérapeutique, 5 ans à 10 ans en adjuvant
+
+685
+00:37:34,290 --> 00:37:38,770
+et jusqu'à progression en toxicité en cas
+
+686
+00:37:38,770 --> 00:37:40,670
+de maladie métastatique.
+
+687
+00:37:41,810 --> 00:37:44,550
+Donc, on a dit que de nature, c
+
+688
+00:37:44,550 --> 00:37:46,750
+'est une molécule ostrogénique qui a été dénaturée.
+
+689
+00:37:46,970 --> 00:37:48,950
+Malheureusement, il a gardé des complications et des
+
+690
+00:37:48,950 --> 00:37:52,610
+effets indésirables des oestrogènes, notamment la maladie thromboembolique,
+
+691
+00:37:53,530 --> 00:37:56,490
+l'hydropsychologique, notamment la dépression.
+
+692
+00:37:56,490 --> 00:38:01,030
+On peut avoir aussi d'autres tumeurs, notamment
+
+693
+00:38:01,030 --> 00:38:06,810
+les palatones, sans oublier le risque de cancer
+
+694
+00:38:06,810 --> 00:38:08,070
+de l'endomètre.
+
+695
+00:38:08,830 --> 00:38:10,110
+Donc, les patientes qui ont un cancer du
+
+696
+00:38:10,110 --> 00:38:12,470
+sein qui sont sous tamoxyphènes, ils doivent être
+
+697
+00:38:12,470 --> 00:38:15,930
+suivis de façon régulière avec des échographies pour
+
+698
+00:38:15,930 --> 00:38:18,610
+chercher une augmentation de l'épaisseur de l
+
+699
+00:38:18,610 --> 00:38:23,330
+'endomètre ou à l'occasion de métrométhoragie sous
+
+700
+00:38:23,330 --> 00:38:24,190
+tamoxyphènes.
+
+701
+00:38:24,590 --> 00:38:29,690
+Donc, il faut bilanter et craindre une dégénérescence
+
+702
+00:38:29,690 --> 00:38:32,410
+au niveau de l'endomètre.
+
+703
+00:38:36,300 --> 00:38:40,800
+Donc, sur cette diapositive, on voit cet effet
+
+704
+00:38:40,800 --> 00:38:41,920
+compétitif.
+
+705
+00:38:42,520 --> 00:38:45,080
+Ça veut dire qu'une molécule de tamoxyphènes
+
+706
+00:38:45,080 --> 00:38:47,720
+en présence d'autres molécules d'oestrogènes, il
+
+707
+00:38:47,720 --> 00:38:49,280
+va agir par compétitivité.
+
+708
+00:38:49,280 --> 00:38:52,420
+Il va se fixer au niveau du récepteur
+
+709
+00:38:52,420 --> 00:38:58,400
+des oestrogènes sans générer une activité oestrogénique et
+
+710
+00:38:58,400 --> 00:39:01,780
+notamment de prolifération cellulaire.
+
+711
+00:39:02,560 --> 00:39:05,040
+Donc, le fait qu'une molécule de tamoxyphènes
+
+712
+00:39:05,040 --> 00:39:08,420
+va se fixer au niveau du récepteur ne
+
+713
+00:39:08,420 --> 00:39:11,060
+va pas générer une activité oestrogénique et par
+
+714
+00:39:11,060 --> 00:39:13,340
+conséquence, on aura un effet thérapeutique, c'est
+
+715
+00:39:13,340 --> 00:39:17,060
+-à-dire l'arrêt de la prolifération cellulaire.
+
+716
+00:39:18,480 --> 00:39:21,260
+Donc, on voit ici l'action qui est
+
+717
+00:39:21,260 --> 00:39:25,840
+très différente de tamoxyphènes au niveau de la
+
+718
+00:39:25,840 --> 00:39:30,300
+cellule mammaire par rapport à la cellule au
+
+719
+00:39:30,300 --> 00:39:31,200
+niveau de l'hétérus.
+
+720
+00:39:32,460 --> 00:39:34,520
+Donc, on voit le fait que le récepteur
+
+721
+00:39:34,520 --> 00:39:37,300
+est bloqué par du tamoxyphènes au niveau de
+
+722
+00:39:37,300 --> 00:39:39,960
+la cellule mammaire ne va pas générer de
+
+723
+00:39:39,960 --> 00:39:44,120
+message de prolifération cellulaire et par conséquence, on
+
+724
+00:39:44,120 --> 00:39:46,440
+aura un contrôle de la maladie cancéreuse en
+
+725
+00:39:46,440 --> 00:39:50,460
+exprimant le récepteur hormono en administrant du tamoxyphènes.
+
+726
+00:39:51,140 --> 00:39:53,800
+Par contre, la même molécule au niveau des
+
+727
+00:39:53,800 --> 00:39:58,540
+récepteurs oestrogéniques au niveau de l'hétérus, on
+
+728
+00:39:58,540 --> 00:40:02,880
+aura une même activité oestrogénique et notamment une
+
+729
+00:40:02,880 --> 00:40:07,080
+prolifération cellulaire, ce qui explique le risque de
+
+730
+00:40:07,080 --> 00:40:10,120
+cancer de l'endomètre avec du tamoxyphènes.
+
+731
+00:40:11,620 --> 00:40:14,680
+Deuxième exemple de l'hormonothérapie compétitive, c'est
+
+732
+00:40:14,680 --> 00:40:19,040
+l'utilisation des androgènes, des entiers androgènes, pardon,
+
+733
+00:40:19,740 --> 00:40:21,840
+pour le cancer de la prostate.
+
+734
+00:40:22,780 --> 00:40:27,060
+Alors, ces entiers androgènes dont l'acétate de
+
+735
+00:40:27,060 --> 00:40:31,500
+la ciprothérone, flutamide, bicalutamide, ce sont des molécules
+
+736
+00:40:31,500 --> 00:40:35,360
+qui vont prévenir l'interaction de l'hydrotestostérone
+
+737
+00:40:35,360 --> 00:40:39,060
+avec les récepteurs aux androgènes.
+
+738
+00:40:39,500 --> 00:40:43,360
+Par conséquence, on aura un blocage de récepteurs
+
+739
+00:40:43,360 --> 00:40:49,640
+sans générer une activité androgénique et par le
+
+740
+00:40:49,640 --> 00:40:52,900
+mécanisme, comme le tamoxyphènes, on aura un effet
+
+741
+00:40:52,900 --> 00:40:54,020
+antiprolifératif.
+
+742
+00:40:55,220 --> 00:40:57,980
+Donc, les indications des entiers androgènes, c'est
+
+743
+00:40:57,980 --> 00:41:00,800
+le cancer de la prostate.
+
+744
+00:41:01,500 --> 00:41:03,960
+Il est utilisé soit en monothérapie, soit en
+
+745
+00:41:03,960 --> 00:41:06,820
+association avec les analoges de LHRH pour obtenir
+
+746
+00:41:06,820 --> 00:41:09,440
+ce qu'on appelle un blocage androgénique complet
+
+747
+00:41:09,440 --> 00:41:13,100
+et pour prévenir la phase, le premier temps
+
+748
+00:41:13,100 --> 00:41:16,480
+d'administration des analogues de LHRH, notamment le
+
+749
+00:41:16,480 --> 00:41:17,360
+FLARAP.
+
+750
+00:41:18,220 --> 00:41:21,460
+Ces effets indésirables, c'est comme les entiers
+
+751
+00:41:21,460 --> 00:41:25,960
+androgènes, vous faites chaleur, la diminution de libido.
+
+752
+00:41:28,580 --> 00:41:32,540
+Donc, voilà, sur ce schéma, on voit le
+
+753
+00:41:32,540 --> 00:41:36,940
+mécanisme de l'utilisation des entiers androgènes périphériques
+
+754
+00:41:36,940 --> 00:41:41,240
+au niveau des organes cibles, exemple ici, la
+
+755
+00:41:41,240 --> 00:41:41,780
+prostate.
+
+756
+00:41:42,500 --> 00:41:46,560
+Donc, les récepteurs seront bloqués contre la testostérone
+
+757
+00:41:46,560 --> 00:41:50,820
+sécrétée par les testicules mais aussi par la
+
+758
+00:41:50,820 --> 00:41:52,460
+voie sur une alienne.
+
+759
+00:41:52,460 --> 00:41:57,240
+Et si on bloque la voie testiculaire et
+
+760
+00:41:57,240 --> 00:42:01,120
+on ajoute des entiers androgènes périphériques, on va
+
+761
+00:42:01,120 --> 00:42:03,440
+réaliser ce qu'on appelle le blocage androgénique
+
+762
+00:42:03,440 --> 00:42:04,940
+qui est complet.
+
+763
+00:42:07,560 --> 00:42:10,660
+Donc, le dernier mécanisme, après l'hormonothérapie suppressive
+
+764
+00:42:10,660 --> 00:42:14,960
+et l'hormonothérapie additive, on va aborder l
+
+765
+00:42:14,960 --> 00:42:16,300
+'hormonothérapie inhibitrice.
+
+766
+00:42:17,600 --> 00:42:18,320
+Qu'est-ce que c'est que l
+
+767
+00:42:18,320 --> 00:42:19,480
+'hormonothérapie inhibitrice?
+
+768
+00:42:20,700 --> 00:42:24,060
+Donc, cette hormonothérapie inhibitrice, elle va s'intéresser
+
+769
+00:42:24,060 --> 00:42:26,780
+à cette voie secondaire qui est la voie
+
+770
+00:42:26,780 --> 00:42:29,380
+sur une alienne et plus spécialement à une
+
+771
+00:42:29,380 --> 00:42:31,820
+enzyme qui s'appelle l'aromatase, cette enzyme
+
+772
+00:42:31,820 --> 00:42:34,960
+qui est responsable de la transformation des androgènes
+
+773
+00:42:34,960 --> 00:42:38,220
+en oestrogènes dans les tissus périphériques.
+
+774
+00:42:39,400 --> 00:42:41,620
+Donc, la première molécule qui a été utilisée,
+
+775
+00:42:41,680 --> 00:42:44,360
+c'est l'amino glutotimide, c'est un
+
+776
+00:42:44,360 --> 00:42:47,620
+électrode aromatase de première génération et qui a
+
+777
+00:42:47,620 --> 00:42:52,440
+été utilisé initialement pour ses propriétés anticonvulcevantes, sauf
+
+778
+00:42:52,440 --> 00:42:55,880
+qu'il y avait quelques cas d'insuffisance
+
+779
+00:42:55,880 --> 00:42:58,480
+sur une alienne chez ces patients où la
+
+780
+00:42:58,480 --> 00:42:59,660
+molécule a été utilisée.
+
+781
+00:43:00,620 --> 00:43:05,580
+Et en 1969, on l'a essayé dans
+
+782
+00:43:05,580 --> 00:43:09,940
+le cancer du sein et qui a montré
+
+783
+00:43:09,940 --> 00:43:14,480
+certaines réponses objectives dans le cancer du sein
+
+784
+00:43:14,480 --> 00:43:16,280
+localement avancé.
+
+785
+00:43:17,160 --> 00:43:19,780
+Donc, cette molécule, elle va agir au niveau
+
+786
+00:43:19,780 --> 00:43:23,700
+de la surinale, mais aussi, elle va agir
+
+787
+00:43:23,700 --> 00:43:29,180
+au niveau des tissus périphériques en inhibitant l
+
+788
+00:43:29,180 --> 00:43:33,420
+'aromatase et arrêter la sécrétion des stéroïdes.
+
+789
+00:43:34,080 --> 00:43:36,140
+Donc, la première action, c'est au niveau
+
+790
+00:43:36,140 --> 00:43:38,780
+sur une alienne, donc c'est une molécule
+
+791
+00:43:38,780 --> 00:43:42,540
+qui va bloquer la stérogénèse sur une alienne
+
+792
+00:43:42,540 --> 00:43:44,200
+et va réaliser ce qu'on appelle une
+
+793
+00:43:44,200 --> 00:43:49,700
+surinalectomie chimique avec chute de la formation de
+
+794
+00:43:49,700 --> 00:43:52,780
+l'aldostérone, de la cortisone et des oestrogènes.
+
+795
+00:43:55,020 --> 00:43:58,880
+Et pour pallier cette sécrétion élevée d'ACTH
+
+796
+00:43:58,880 --> 00:44:01,580
+par la baisse du taux de cortisolimine, on
+
+797
+00:44:01,580 --> 00:44:07,020
+est obligé d'associer de l'hydrocortisone en
+
+798
+00:44:07,020 --> 00:44:09,420
+concomitant à l'administration d'une aminogluté chimique.
+
+799
+00:44:11,140 --> 00:44:15,020
+Deuxième mécanisme d'action, c'est que cette
+
+800
+00:44:15,020 --> 00:44:18,500
+molécule, elle va inhiber cette aromatase et par
+
+801
+00:44:18,500 --> 00:44:20,980
+conséquent, elle va arrêter la transformation dans les
+
+802
+00:44:20,980 --> 00:44:25,020
+tissus périphériques, notamment tumoral, de la transformation des
+
+803
+00:44:25,020 --> 00:44:28,300
+androgènes en oestrogènes.
+
+804
+00:44:30,600 --> 00:44:32,700
+Donc, elle est utilisée dans le cancer adjusté
+
+805
+00:44:32,700 --> 00:44:34,640
+à la femme myeloposée parce qu'elle s
+
+806
+00:44:34,640 --> 00:44:37,300
+'intéresse à cette fois secondaire surinalienne et elle
+
+807
+00:44:37,300 --> 00:44:38,980
+est utilisée aussi dans le cancer de la
+
+808
+00:44:38,980 --> 00:44:39,520
+prostate.
+
+809
+00:44:40,020 --> 00:44:41,700
+Et parmi les effets indésirables, si l'insuffisance
+
+810
+00:44:41,700 --> 00:44:45,520
+surinalienne, donc il faut toujours associer avec cette
+
+811
+00:44:45,520 --> 00:44:48,920
+molécule de l'hydrocortisone.
+
+812
+00:44:50,820 --> 00:44:53,560
+Actuellement, on a d'autres molécules qui sont
+
+813
+00:44:53,560 --> 00:44:56,220
+sélectives, on va en parler par la suite.
+
+814
+00:44:59,120 --> 00:45:01,240
+Donc sur ce schéma, on voit l'action
+
+815
+00:45:01,240 --> 00:45:04,360
+de cette molécule, l'aminoglute chimique, dans l
+
+816
+00:45:04,360 --> 00:45:06,900
+'exemple de cancer de la prostate.
+
+817
+00:45:07,460 --> 00:45:09,640
+L'administration de cette molécule va réaliser ce
+
+818
+00:45:09,640 --> 00:45:13,720
+qu'on appelle une suranélectomie chimique.
+
+819
+00:45:15,120 --> 00:45:17,040
+Donc, elle va arrêter la formation des trois
+
+820
+00:45:17,040 --> 00:45:20,180
+axes, notamment la formation de l'altostérone qui
+
+821
+00:45:20,180 --> 00:45:23,380
+est une hormone dont l'action est très
+
+822
+00:45:23,380 --> 00:45:24,980
+importante dans l'équilibre hydro-sodé.
+
+823
+00:45:25,620 --> 00:45:28,140
+Aussi, la formation du cortisol, comme vous le
+
+824
+00:45:28,140 --> 00:45:30,340
+savez, le cortisol est aussi une hormone stéroïdienne
+
+825
+00:45:30,340 --> 00:45:33,300
+qui a un rôle dans l'équilibre du
+
+826
+00:45:33,300 --> 00:45:37,000
+glycose dans le sang et aussi la formation
+
+827
+00:45:37,300 --> 00:45:38,520
+de la stéroïdogenèse.
+
+828
+00:45:40,320 --> 00:45:43,000
+Donc, je vous rappelle aussi que les hormones
+
+829
+00:45:43,000 --> 00:45:49,100
+stéroïdiennes sont représentées par la testostérone, l'estradiol,
+
+830
+00:45:49,540 --> 00:45:52,700
+la progestérone et l'hydrocortisone, alors que les
+
+831
+00:45:52,700 --> 00:45:54,740
+autres hormones de l'axe protonatement hypophysiaire, notamment
+
+832
+00:45:54,740 --> 00:45:56,960
+les hormones stéroïdiennes, l'ACTH, l'LH, l
+
+833
+00:45:56,960 --> 00:46:00,580
+'FSH, le TSH, ce sont des molécules non
+
+834
+00:46:00,580 --> 00:46:03,220
+stéroïdiennes et dont l'action se fait à
+
+835
+00:46:03,220 --> 00:46:05,820
+travers des récepteurs membranaires, alors que pour les
+
+836
+00:46:05,820 --> 00:46:08,840
+autres hormones stéroïdiennes, l'action se fait à
+
+837
+00:46:08,840 --> 00:46:13,640
+travers un récepteur qui est en intra-cellulaire.
+
+838
+00:46:14,420 --> 00:46:16,400
+Donc, à côté de cette action au niveau
+
+839
+00:46:16,400 --> 00:46:20,040
+de la suranale, action non sélective parce qu
+
+840
+00:46:20,040 --> 00:46:22,000
+'il va intéresser les trois axes, il y
+
+841
+00:46:22,000 --> 00:46:25,540
+a aussi l'action au niveau de cet
+
+842
+00:46:25,540 --> 00:46:26,880
+enzyme qui est l'inhibition de l'aromatase
+
+843
+00:46:26,880 --> 00:46:29,220
+et l'inhibition de l'aromatase va arrêter
+
+844
+00:46:29,220 --> 00:46:32,440
+la transformation des androgènes en oestrogènes dans les
+
+845
+00:46:32,440 --> 00:46:37,160
+tissus périphériques et les tissus tumours.
+
+846
+00:46:42,610 --> 00:46:45,510
+Un autre schéma plus explicite qui vous montre
+
+847
+00:46:45,510 --> 00:46:49,230
+les trois axes, en plus de l'action
+
+848
+00:46:49,230 --> 00:46:50,910
+au niveau de l'inhibition de l'aromatase,
+
+849
+00:46:51,670 --> 00:46:54,730
+donc on voit ici l'arrêt de la
+
+850
+00:46:54,730 --> 00:46:58,570
+formation de l'aldostérone, l'arrêt de la
+
+851
+00:46:58,570 --> 00:47:01,890
+formation de la clostrostérone et l'arrêt de
+
+852
+00:47:01,890 --> 00:47:07,290
+la formation des estrogènes, et aussi la transformation
+
+853
+00:47:07,290 --> 00:47:11,470
+de l'aldostérone en estradiol et l'arrêté
+
+854
+00:47:11,470 --> 00:47:14,910
+par inhibition de l'aromatase, donc c'est
+
+855
+00:47:14,910 --> 00:47:17,610
+une action qui est non sélective de ce
+
+856
+00:47:17,610 --> 00:47:21,270
+médicament et qui a empêché de continuer à
+
+857
+00:47:21,270 --> 00:47:24,110
+l'utiliser, comme vous le savez, sur une
+
+858
+00:47:24,110 --> 00:47:27,130
+maladie qui peut être mortelle.
+
+859
+00:47:31,030 --> 00:47:34,990
+Les inhibiteurs d'aromatase et les molécules de
+
+860
+00:47:34,990 --> 00:47:37,490
+deuxième génération, on en a plusieurs, l'examestin,
+
+861
+00:47:37,590 --> 00:47:40,370
+l'anastrozole, l'ultrazole, ce sont des médicaments
+
+862
+00:47:40,370 --> 00:47:44,310
+qui ont une activité qui est sélective, donc
+
+863
+00:47:44,310 --> 00:47:49,650
+ils vont inhiber cet enzyme spécifiquement et ainsi
+
+864
+00:47:49,650 --> 00:47:52,850
+on aura une préservation de la synthèse des
+
+865
+00:47:52,850 --> 00:47:57,230
+clortyphoïdes et l'arrêt de la transformation de
+
+866
+00:47:57,230 --> 00:48:01,150
+la clostrostérone des androgènes en estrogènes et c
+
+867
+00:48:01,150 --> 00:48:02,450
+'est l'effet qui est recherché dans le
+
+868
+00:48:02,450 --> 00:48:05,490
+cancer du sein chez la femme ménopausée.
+
+869
+00:48:05,650 --> 00:48:07,490
+Donc ces molécules sont actuellement utilisées dans le
+
+870
+00:48:07,490 --> 00:48:09,630
+cancer du sein chez la femme ménopausée, soit
+
+871
+00:48:09,630 --> 00:48:12,410
+en adjuvant, soit au cas de maladie métastatique
+
+872
+00:48:12,410 --> 00:48:13,510
+ou localement avancée.
+
+873
+00:48:14,050 --> 00:48:16,590
+La dose, elle dépend de la molécule, la
+
+874
+00:48:16,590 --> 00:48:19,810
+durée, elle dépend des indications thérapeutiques et les
+
+875
+00:48:19,810 --> 00:48:22,150
+effets indésirables de ces molécules sont représentés généralement
+
+876
+00:48:22,150 --> 00:48:26,150
+par des troubles osteoarticulaires représentés par l'ostéoporose
+
+877
+00:48:26,150 --> 00:48:30,010
+et aussi des troubles de métabolisme épidique avec
+
+878
+00:48:30,010 --> 00:48:32,230
+des hyperclostérolimes.
+
+879
+00:48:32,930 --> 00:48:34,470
+Il y a l'intérêt de faire un
+
+880
+00:48:34,470 --> 00:48:40,170
+bilan osteoarticulaire, notamment l'ostéodoncytométrie, un bilan biologique
+
+881
+00:48:40,170 --> 00:48:43,270
+et un bilan, c'est-à-dire un
+
+882
+00:48:43,270 --> 00:48:47,070
+bilan épidique avant d'indiquer, c'est de
+
+883
+00:48:47,070 --> 00:48:47,830
+commencer ce traitement.
+
+884
+00:48:49,870 --> 00:48:53,390
+Donc sur ce schéma, on voit cette action
+
+885
+00:48:53,390 --> 00:48:54,410
+qui est sélective.
+
+886
+00:48:55,770 --> 00:48:58,430
+Donc on va empêcher la formation des estrogènes
+
+887
+00:48:58,430 --> 00:49:01,450
+et de l'ostradiol par transformation de la
+
+888
+00:49:01,450 --> 00:49:02,650
+testostérone en l'ostradiol.
+
+889
+00:49:02,990 --> 00:49:04,710
+Par contre, on ne va pas toucher à
+
+890
+00:49:04,710 --> 00:49:06,570
+la formation de l'aldostérone et de la
+
+891
+00:49:06,570 --> 00:49:07,810
+corticostérone.
+
+892
+00:49:08,210 --> 00:49:09,350
+Donc c'est une action qui est sélective
+
+893
+00:49:09,350 --> 00:49:12,070
+et on n'a pas besoin d'associer
+
+894
+00:49:12,070 --> 00:49:15,690
+du corticoïde avec l'administration de ces médicaments.
+
+895
+00:49:15,970 --> 00:49:18,090
+Ce sont des médicaments qui sont utilisés par
+
+896
+00:49:18,090 --> 00:49:22,950
+voie orale, incomprimés par jour, comme je l
+
+897
+00:49:22,950 --> 00:49:24,250
+'ai dit tout à l'heure, chez les
+
+898
+00:49:24,250 --> 00:49:25,630
+femmes ménopausées.
+
+899
+00:49:26,330 --> 00:49:28,330
+Mais attention, on peut aussi utiliser chez la
+
+900
+00:49:28,330 --> 00:49:34,850
+femme non-ménopausée à condition d'associer une
+
+901
+00:49:34,850 --> 00:49:39,910
+castration chimique ou chirurgicale chez ces femmes qui
+
+902
+00:49:39,910 --> 00:49:41,230
+sont initialement non-ménopausées.
+
+903
+00:49:44,290 --> 00:49:46,150
+Donc sur ce tableau, on voit le profil
+
+904
+00:49:46,150 --> 00:49:51,090
+de toxicité des inuptions d'aromatase et celles
+
+905
+00:49:51,090 --> 00:49:51,930
+du tamoxifène.
+
+906
+00:49:52,610 --> 00:49:54,390
+Et on voit qu'avec les inuptions d
+
+907
+00:49:54,390 --> 00:49:58,230
+'aromatase, on a plus d'événements cardiovasculaires, plus
+
+908
+00:49:58,230 --> 00:50:00,850
+de complications osteoarticulaires avec des fractures, de l
+
+909
+00:50:00,850 --> 00:50:01,530
+'ostéoporose.
+
+910
+00:50:02,150 --> 00:50:04,370
+Alors qu'avec le tamoxifène, on a plus
+
+911
+00:50:04,370 --> 00:50:07,850
+de thrombose vineuse, cancer de l'endomètre.
+
+912
+00:50:08,050 --> 00:50:08,570
+C'est-à-dire que ce sont des
+
+913
+00:50:08,570 --> 00:50:12,030
+éléments, les mêmes effets indésirables des oestrogènes.
+
+914
+00:50:13,030 --> 00:50:16,370
+Et par ailleurs, on a une fréquence qui
+
+915
+00:50:16,370 --> 00:50:20,270
+se ressemble pour les accidents vasculo-cérébraux, le
+
+916
+00:50:20,270 --> 00:50:23,870
+second cancer et le décès sans rechute.
+
+917
+00:50:25,390 --> 00:50:29,730
+Donc après avoir traité les mécanismes d'hormonothérapie
+
+918
+00:50:29,730 --> 00:50:33,250
+en cancérologie, on va s'attaquer aux modalités
+
+919
+00:50:33,250 --> 00:50:36,430
+d'hormonothérapie en cancérologie.
+
+920
+00:50:37,930 --> 00:50:41,290
+Donc comment on va utiliser cette hormonothérapie ?
+
+921
+00:50:41,290 --> 00:50:44,590
+D'abord, cette hormonothérapie peut être utilisée soit
+
+922
+00:50:44,590 --> 00:50:47,130
+en hormonothérapie ou en association.
+
+923
+00:50:48,350 --> 00:50:50,970
+L'exemple de traitement hormonal en hormonothérapie, c
+
+924
+00:50:50,970 --> 00:50:53,410
+'est le traitement dans le cancer du sein
+
+925
+00:50:53,410 --> 00:50:54,470
+en adjuvant.
+
+926
+00:50:55,090 --> 00:50:56,910
+Chez la femme en activité génétale, on va
+
+927
+00:50:56,910 --> 00:50:58,050
+utiliser le tamoxifène.
+
+928
+00:50:58,630 --> 00:51:00,590
+Et chez la femme menopausée, on va utiliser
+
+929
+00:51:00,590 --> 00:51:03,130
+des injecteurs d'aromatase en hormonothérapie.
+
+930
+00:51:03,910 --> 00:51:05,890
+Aussi, dans le cancer de la prostate, on
+
+931
+00:51:05,890 --> 00:51:09,310
+peut utiliser des analoges de LHRH en adjuvant
+
+932
+00:51:09,310 --> 00:51:11,590
+en hormonothérapie.
+
+933
+00:51:13,550 --> 00:51:16,470
+L'hormonothérapie peut être aussi utilisée en association
+
+934
+00:51:16,470 --> 00:51:19,450
+avec d'autres molécules.
+
+935
+00:51:21,110 --> 00:51:22,710
+Dans le cancer de la prostate, par exemple,
+
+936
+00:51:22,830 --> 00:51:25,150
+on va associer des analogues de LHRH et
+
+937
+00:51:25,150 --> 00:51:29,430
+des antihydrogènes périphériques pour essayer de prévenir le
+
+938
+00:51:29,430 --> 00:51:33,070
+phénomène de flare-up ou utiliser pour avoir
+
+939
+00:51:33,070 --> 00:51:35,770
+ce qu'on appelle un blocage androgénique complet.
+
+940
+00:51:37,050 --> 00:51:39,310
+Et dans le cancer du sein, chez la
+
+941
+00:51:39,310 --> 00:51:41,170
+femme, par exemple, en activité génétale où on
+
+942
+00:51:41,170 --> 00:51:43,090
+veut potentielliser l'effet du tamoxifène, on va
+
+943
+00:51:43,090 --> 00:51:47,410
+l'associer aussi à une castration médicale.
+
+944
+00:51:47,950 --> 00:51:50,270
+Donc, on aura l'association du tamoxifène avec
+
+945
+00:51:50,270 --> 00:51:51,590
+les analogues de LHRH.
+
+946
+00:51:52,350 --> 00:51:53,910
+Et chez les patientes qui vont, par exemple,
+
+947
+00:51:54,050 --> 00:51:57,310
+progresser sur le tamoxifène, on va remplacer par
+
+948
+00:51:57,310 --> 00:52:00,050
+les injections d'aromatase, mais toujours en association
+
+949
+00:52:00,050 --> 00:52:03,710
+avec la castration chez la femme jeune.
+
+950
+00:52:07,640 --> 00:52:09,800
+Donc, l'hormonothérapie peut être aussi associée à
+
+951
+00:52:09,800 --> 00:52:11,160
+une chemothérapie.
+
+952
+00:52:12,500 --> 00:52:15,120
+Un exemple typique sur le cancer de la
+
+953
+00:52:15,120 --> 00:52:17,500
+prostate métastatique, on va associer des analogues de
+
+954
+00:52:17,500 --> 00:52:20,860
+LHRH qui vont assurer la castration et le
+
+955
+00:52:20,860 --> 00:52:21,600
+docetaxel.
+
+956
+00:52:22,260 --> 00:52:24,940
+Cette association, il a permis d'avoir des
+
+957
+00:52:24,940 --> 00:52:27,180
+meilleurs résultats par rapport à la castration seule.
+
+958
+00:52:28,400 --> 00:52:31,620
+Deuxième association possible, c'est l'association avec
+
+959
+00:52:31,620 --> 00:52:32,580
+une thérapie ciblée.
+
+960
+00:52:33,680 --> 00:52:35,700
+Exemple type, c'est aussi le cancer du
+
+961
+00:52:35,700 --> 00:52:35,940
+sein.
+
+962
+00:52:36,300 --> 00:52:39,840
+On va associer l'hormonothérapie à du trastuzumab
+
+963
+00:52:39,840 --> 00:52:41,780
+si on a une surexpression de la chute
+
+964
+00:52:41,780 --> 00:52:42,220
+de noeud.
+
+965
+00:52:42,980 --> 00:52:45,520
+Ou on va associer, par exemple, l'exemestin
+
+966
+00:52:45,520 --> 00:52:47,280
+à l'ivirolimus.
+
+967
+00:52:47,960 --> 00:52:50,320
+C'est un inhibiteur de mTOR et qui
+
+968
+00:52:50,320 --> 00:52:53,680
+a montré sa supériorité par rapport à un
+
+969
+00:52:53,680 --> 00:52:56,100
+inhibiteur d'aromatase en cas d'échappement à
+
+970
+00:52:56,100 --> 00:52:58,040
+une première ligne à base d'inhibiteur d
+
+971
+00:52:58,040 --> 00:52:58,580
+'aromatase.
+
+972
+00:53:00,700 --> 00:53:04,380
+L'hormonothérapie peut aussi être intégrée dans un
+
+973
+00:53:04,380 --> 00:53:08,500
+traitement multimodal en association avec la radiothérapie.
+
+974
+00:53:09,220 --> 00:53:10,400
+L'exemple, c'est le cancer de la
+
+975
+00:53:10,400 --> 00:53:10,700
+prostate.
+
+976
+00:53:11,400 --> 00:53:14,860
+On va associer la castration avec la radiothérapie
+
+977
+00:53:14,860 --> 00:53:18,080
+et on va maintenir le traitement par castration
+
+978
+00:53:18,080 --> 00:53:20,540
+pour une durée plus ou moins longue selon
+
+979
+00:53:20,540 --> 00:53:22,640
+le groupe à risque de cancer de la
+
+980
+00:53:22,640 --> 00:53:22,940
+prostate.
+
+981
+00:53:26,050 --> 00:53:28,770
+Pour les modalités d'administration de l'hormonothérapie,
+
+982
+00:53:29,370 --> 00:53:30,470
+il faut savoir que c'est un traitement
+
+983
+00:53:30,470 --> 00:53:32,310
+qui est efficace et qui est actuellement utilisé
+
+984
+00:53:32,310 --> 00:53:36,030
+dans les différentes phases de traitement du cancer.
+
+985
+00:53:36,910 --> 00:53:39,690
+On peut l'utiliser en adjuvant, en adjuvant
+
+986
+00:53:39,690 --> 00:53:41,450
+et aussi en palliatif.
+
+987
+00:53:42,050 --> 00:53:43,530
+Donc, en adjuvant, ça veut dire qu'on
+
+988
+00:53:43,530 --> 00:53:45,450
+va commencer par une hormonothérapie en attendant un
+
+989
+00:53:45,450 --> 00:53:46,350
+traitement loco-regional.
+
+990
+00:53:47,190 --> 00:53:48,950
+L'exemple, c'est le cancer de la
+
+991
+00:53:48,950 --> 00:53:49,350
+prostate.
+
+992
+00:53:49,770 --> 00:53:51,850
+Donc, avant la radiothérapie, on va utiliser cette
+
+993
+00:53:51,850 --> 00:53:54,470
+hormonothérapie un à deux mois avant de commencer
+
+994
+00:53:54,470 --> 00:53:55,590
+la radiothérapie.
+
+995
+00:53:56,310 --> 00:53:58,410
+Dans le cancer du sein, quand il s
+
+996
+00:53:58,410 --> 00:54:00,150
+'agit d'un cancer qui est non agressif,
+
+997
+00:54:00,850 --> 00:54:04,770
+on peut commencer avec des récepteurs hormonaux fortement
+
+998
+00:54:04,770 --> 00:54:07,150
+positifs et un cancer de bon pronostic.
+
+999
+00:54:07,610 --> 00:54:10,890
+Donc, on va commencer par une hormonothérapie et
+
+1000
+00:54:10,890 --> 00:54:14,030
+après une réponse, on va adresser la patiente
+
+1001
+00:54:14,030 --> 00:54:14,770
+pour la chirurgie.
+
+1002
+00:54:16,170 --> 00:54:19,750
+Donc, la stratégie adjuvante, donc en adjuvant le
+
+1003
+00:54:19,750 --> 00:54:22,470
+traitement à ce moment là, après un traitement
+
+1004
+00:54:22,470 --> 00:54:24,690
+loco-regional qui peut être soit la chirurgie,
+
+1005
+00:54:25,210 --> 00:54:27,010
+soit la radiothérapie.
+
+1006
+00:54:27,610 --> 00:54:29,710
+L'exemple, c'est le cancer du sein.
+
+1007
+00:54:29,990 --> 00:54:32,310
+Quand on a des récepteurs hormonaux positifs, on
+
+1008
+00:54:32,310 --> 00:54:35,930
+va indiquer systématiquement après la chirurgie une hormonothérapie
+
+1009
+00:54:35,930 --> 00:54:41,870
+selon le statut ménopausé ou non de la
+
+1010
+00:54:41,870 --> 00:54:42,230
+patiente.
+
+1011
+00:54:42,330 --> 00:54:44,590
+On va choisir entre les récepteurs aromatase et
+
+1012
+00:54:44,590 --> 00:54:45,590
+le tamoxyphère.
+
+1013
+00:54:46,310 --> 00:54:48,510
+Dans le cancer de la prostate, aussi après
+
+1014
+00:54:48,510 --> 00:54:50,930
+la radiothérapie, si on est devant un groupe
+
+1015
+00:54:50,930 --> 00:54:54,050
+à risque intermédiaire ou un groupe à haut
+
+1016
+00:54:54,050 --> 00:54:57,590
+risque, on va maintenir la hormonothérapie après la
+
+1017
+00:54:57,590 --> 00:54:59,470
+fin de la radiothérapie.
+
+1018
+00:54:59,470 --> 00:55:03,250
+Et en cas d'une stratégie palliative, dans
+
+1019
+00:55:03,250 --> 00:55:09,430
+le cadre d'un cancer métastatique, l'hormonothérapie,
+
+1020
+00:55:09,690 --> 00:55:12,070
+elle peut être aussi utilisée dans des cancers
+
+1021
+00:55:12,070 --> 00:55:15,730
+qui ne sont pas agressifs, aussi métastatiques et
+
+1022
+00:55:15,730 --> 00:55:17,410
+aussi symptomatiques.
+
+1023
+00:55:17,890 --> 00:55:19,590
+Donc, on a le temps de proposer un
+
+1024
+00:55:19,590 --> 00:55:25,210
+traitement hormonal et qui est un traitement qui
+
+1025
+00:55:25,210 --> 00:55:28,630
+est efficace et qui maintient une qualité de
+
+1026
+00:55:28,630 --> 00:55:31,810
+vie par rapport à la chimiothérapie.
+
+1027
+00:55:33,850 --> 00:55:35,890
+Donc, on ne peut pas parler du traitement
+
+1028
+00:55:35,890 --> 00:55:38,610
+hormonal sans parler des phénomènes d'échappement hormonal
+
+1029
+00:55:38,610 --> 00:55:40,150
+ou de résistance au traitement.
+
+1030
+00:55:41,570 --> 00:55:43,710
+Donc, le médecin quand il va prescrire son
+
+1031
+00:55:43,710 --> 00:55:45,690
+traitement hormonal, il doit bien sûr être informé
+
+1032
+00:55:45,690 --> 00:55:47,950
+et le patient aussi qu'après un certain
+
+1033
+00:55:47,950 --> 00:55:49,610
+temps, plus ou moins, de contrôle de la
+
+1034
+00:55:49,610 --> 00:55:53,570
+maladie, on va avoir une progression qui est
+
+1035
+00:55:53,570 --> 00:55:56,990
+secondaire à un développement de résistance contre le
+
+1036
+00:55:56,990 --> 00:55:57,510
+traitement.
+
+1037
+00:55:57,890 --> 00:55:59,550
+Donc, on a deux types de résistance.
+
+1038
+00:55:59,850 --> 00:56:03,690
+La résistance primaire qui est liée à l
+
+1039
+00:56:03,690 --> 00:56:04,910
+'absence des récepteurs hormonaux.
+
+1040
+00:56:05,090 --> 00:56:06,370
+On parle des récepteurs hormonaux négatifs.
+
+1041
+00:56:06,930 --> 00:56:07,490
+À ce moment-là, il n'y a
+
+1042
+00:56:07,490 --> 00:56:09,570
+pas d'indication à prescrire un traitement hormonal.
+
+1043
+00:56:10,230 --> 00:56:12,090
+Exemple type, dans le cancer du sein, quand
+
+1044
+00:56:12,090 --> 00:56:14,350
+les récepteurs hormonaux sont négatifs, il n'y
+
+1045
+00:56:14,350 --> 00:56:16,670
+a pas d'indication de proposer une hormone
+
+1046
+00:56:16,670 --> 00:56:20,170
+thérapie, ni tamoxifène, ni l'hydrodiarmatase, ni castration.
+
+1047
+00:56:21,210 --> 00:56:23,410
+La résistance qui nous intéresse, nous aussi, c
+
+1048
+00:56:23,410 --> 00:56:25,610
+'est cette résistance acquise qui va se développer
+
+1049
+00:56:25,610 --> 00:56:26,770
+en cours de traitement.
+
+1050
+00:56:27,470 --> 00:56:28,790
+Donc, la cellule cancéreuse n'est pas bête,
+
+1051
+00:56:28,870 --> 00:56:29,890
+c'est comme aussi la bactérie.
+
+1052
+00:56:30,450 --> 00:56:32,710
+Elle va lutter contre l'antibiotérapie.
+
+1053
+00:56:33,250 --> 00:56:35,070
+La cellule cancéreuse, elle va chercher d'autres
+
+1054
+00:56:35,070 --> 00:56:39,570
+mécanismes afin d'échapper au contrôle réalisé par
+
+1055
+00:56:39,570 --> 00:56:42,130
+le traitement hormonal, ou par la chimiothérapie, ou
+
+1056
+00:56:42,130 --> 00:56:43,890
+par la thérapie ciblée.
+
+1057
+00:56:44,410 --> 00:56:47,210
+Donc, le médecin doit être informé et préparé
+
+1058
+00:56:47,210 --> 00:56:50,190
+pour proposer un traitement alternatif, en cas de
+
+1059
+00:56:50,190 --> 00:56:53,350
+progression de la maladie, sous traitement hormonal.
+
+1060
+00:56:53,870 --> 00:56:56,550
+Cette cellule cancéreuse, elle va utiliser plusieurs mécanismes.
+
+1061
+00:56:56,790 --> 00:57:00,350
+Donc, on a quelques exemples pour expliquer ces
+
+1062
+00:57:00,350 --> 00:57:01,730
+phénomènes de résistance acquises.
+
+1063
+00:57:02,450 --> 00:57:04,490
+D'abord, c'est la question d'accessibilité.
+
+1064
+00:57:04,490 --> 00:57:05,970
+Quand on n'a pas une vasculation qui
+
+1065
+00:57:05,970 --> 00:57:08,870
+est normale, qui est régulière, qui va assurer
+
+1066
+00:57:08,870 --> 00:57:11,790
+l'arrivée du traitement au sein de la
+
+1067
+00:57:11,790 --> 00:57:15,130
+tumeur, ce sera bien sûr une résistance à
+
+1068
+00:57:15,130 --> 00:57:17,310
+l'action de cette molécule.
+
+1069
+00:57:18,070 --> 00:57:21,810
+Deuxième mécanisme, c'est que la cellule, elle
+
+1070
+00:57:21,810 --> 00:57:24,250
+va diminuer les échanges avec le milieu extérieur
+
+1071
+00:57:24,250 --> 00:57:28,610
+pour diminuer l'entrée du traitement hormonal et
+
+1072
+00:57:28,610 --> 00:57:33,470
+augmenter la sortie afin de réduire l'activité
+
+1073
+00:57:33,470 --> 00:57:36,630
+et le contrôle réalisés par ce traitement hormonal.
+
+1074
+00:57:37,190 --> 00:57:41,310
+Troisième mécanisme, c'est que cette cellule va
+
+1075
+00:57:41,310 --> 00:57:47,790
+essayer de faire des réactions, des réactions enzymatiques
+
+1076
+00:57:47,790 --> 00:57:53,690
+au niveau intracellulaire pour baisser l'activité et
+
+1077
+00:57:53,690 --> 00:57:58,310
+augmenter l'inactivation à travers des modifications qui
+
+1078
+00:57:58,310 --> 00:58:01,650
+vont être réalisées au sein de cette molécule
+
+1079
+00:58:01,650 --> 00:58:03,410
+utilisée comme traitement hormonal.
+
+1080
+00:58:04,850 --> 00:58:07,470
+L'avant-dernier exemple, c'est l'altération
+
+1081
+00:58:07,470 --> 00:58:08,130
+de la cible.
+
+1082
+00:58:08,950 --> 00:58:09,750
+Ça veut dire quoi?
+
+1083
+00:58:09,850 --> 00:58:12,350
+Ça veut dire que cette cellule aura la
+
+1084
+00:58:12,350 --> 00:58:15,870
+capacité d'altérer la configuration de la cible
+
+1085
+00:58:15,870 --> 00:58:20,150
+pour être incompatible avec la fixation de cette
+
+1086
+00:58:20,150 --> 00:58:22,950
+molécule qu'on a utilisée comme traitement hormonal.
+
+1087
+00:58:23,550 --> 00:58:25,690
+Et le dernier exemple, c'est l'augmentation
+
+1088
+00:58:25,690 --> 00:58:27,910
+de l'expression des récepteurs hormonaux.
+
+1089
+00:58:27,910 --> 00:58:31,190
+Ça veut dire qu'en présence de la
+
+1090
+00:58:31,190 --> 00:58:34,890
+molécule thérapeutique, il y aura plein de récepteurs
+
+1091
+00:58:34,890 --> 00:58:39,510
+hormonaux pour aussi l'hormone qui va assurer
+
+1092
+00:58:39,510 --> 00:58:42,650
+le signal de la prolifération cellulaire et la
+
+1093
+00:58:42,650 --> 00:58:44,790
+croissance tumorale.
+
+1094
+00:58:45,070 --> 00:58:46,510
+Donc voilà, c'est une cellule qui est
+
+1095
+00:58:46,510 --> 00:58:47,070
+intelligente.
+
+1096
+00:58:47,430 --> 00:58:49,970
+Il va s'échapper après un temps plus
+
+1097
+00:58:49,970 --> 00:58:51,850
+ou moins long à l'action de traitement
+
+1098
+00:58:51,850 --> 00:58:52,330
+hormonal.
+
+1099
+00:58:52,330 --> 00:58:54,830
+Et notre rôle, et le rôle des chercheurs,
+
+1100
+00:58:55,310 --> 00:58:57,470
+est de chercher ces mécanismes de résistance et
+
+1101
+00:58:57,470 --> 00:59:00,210
+comment on peut les contrôler aussi pour continuer
+
+1102
+00:59:00,210 --> 00:59:02,930
+à avoir l'effet thérapeutique et retarder au
+
+1103
+00:59:02,930 --> 00:59:06,030
+maximum le recours à la chimiothérapie.
+
+1104
+00:59:09,310 --> 00:59:13,390
+Donc sur cette diapositive, on voit une courbe
+
+1105
+00:59:13,390 --> 00:59:17,430
+de dosage de PSA chez un patient ayant
+
+1106
+00:59:17,430 --> 00:59:19,870
+un cancer de la prostate et qui est
+
+1107
+00:59:19,870 --> 00:59:21,610
+sur traitement hormonal.
+
+1108
+00:59:21,610 --> 00:59:26,130
+Donc on voit qu'après la castration, on
+
+1109
+00:59:26,130 --> 00:59:34,050
+aura une chute de PSA, un chiffre qui
+
+1110
+00:59:34,050 --> 00:59:34,530
+est très bas.
+
+1111
+00:59:34,870 --> 00:59:36,290
+Ici, on a ce qu'on appelle le
+
+1112
+00:59:36,290 --> 00:59:37,430
+nadir, c'est-à-dire le taux le
+
+1113
+00:59:37,430 --> 00:59:38,790
+plus bas de PSA sur traitement.
+
+1114
+00:59:40,090 --> 00:59:42,090
+Et après une durée plus ou moins longue,
+
+1115
+00:59:42,570 --> 00:59:44,310
+on a la possibilité d'avoir une augmentation
+
+1116
+00:59:44,310 --> 00:59:48,670
+qui est très rapide, linéaire de PSA.
+
+1117
+00:59:48,670 --> 00:59:52,030
+Confermons qu'il s'agit d'une récidive,
+
+1118
+00:59:52,890 --> 00:59:55,490
+en l'occurrence une récidive biologique, parce qu
+
+1119
+00:59:55,490 --> 00:59:58,830
+'elle est liée à l'augmentation de PSA.
+
+1120
+00:59:59,830 --> 01:00:03,210
+Donc cette augmentation de PSA, elle est liée
+
+1121
+01:00:03,210 --> 01:00:08,730
+au développement de résistance par les cellules cancéreuses
+
+1122
+01:00:08,730 --> 01:00:11,830
+qui étaient contrôlées durant cette période.
+
+1123
+01:00:11,830 --> 01:00:14,230
+Et le fait qu'il a développé des
+
+1124
+01:00:14,230 --> 01:00:16,650
+mécanismes de résistance, il va échapper au traitement
+
+1125
+01:00:16,650 --> 01:00:20,750
+hormonal et il va continuer à se proliférer,
+
+1126
+01:00:20,850 --> 01:00:21,470
+à se multiplier.
+
+1127
+01:00:22,090 --> 01:00:23,950
+Et après un certain temps de résistance biologique,
+
+1128
+01:00:24,070 --> 01:00:26,610
+on aura des manifestations cliniques de la progression
+
+1129
+01:00:26,610 --> 01:00:28,210
+de la maladie.
+
+1130
+01:00:29,650 --> 01:00:32,190
+Donc si on n'a pas eu cette
+
+1131
+01:00:32,190 --> 01:00:36,050
+récidive, regardez la finalité de la courbe.
+
+1132
+01:00:36,050 --> 01:00:37,990
+Donc on voit qu'on a une période
+
+1133
+01:00:37,990 --> 01:00:41,990
+de contrôle, mais après on va avoir une
+
+1134
+01:00:41,990 --> 01:00:44,750
+augmentation qui est très progressive, très longue de
+
+1135
+01:00:44,750 --> 01:00:47,050
+la courbe de PSA.
+
+1136
+01:00:48,730 --> 01:00:49,590
+Ça reflète quoi ?
+
+1137
+01:00:49,590 --> 01:00:51,730
+Ça reflète qu'il y a au sein
+
+1138
+01:00:51,730 --> 01:00:55,990
+de ce cancer quelques cellules qui sont indépendantes
+
+1139
+01:00:55,990 --> 01:00:57,490
+de l'action des hormones.
+
+1140
+01:00:58,630 --> 01:01:01,410
+Ce sont des cellules qui sont dormantes, qui
+
+1141
+01:01:01,410 --> 01:01:03,570
+vont se multiplier d'une façon qui est
+
+1142
+01:01:03,570 --> 01:01:04,130
+progressive.
+
+1143
+01:01:04,130 --> 01:01:08,690
+Et ça reflète qu'au sein du cancer,
+
+1144
+01:01:08,930 --> 01:01:10,990
+il y a plusieurs types de cellules.
+
+1145
+01:01:11,730 --> 01:01:15,450
+Les cellules qui sont dépendantes, hormonaux sensibles et
+
+1146
+01:01:15,450 --> 01:01:17,770
+les cellules qui ne sont pas dépendantes, qui
+
+1147
+01:01:17,770 --> 01:01:20,190
+ne sont pas hormonaux sensibles et qui vont
+
+1148
+01:01:20,190 --> 01:01:26,410
+continuer à se multiplier à une fréquence plus
+
+1149
+01:01:26,410 --> 01:01:29,670
+ou moins importante selon le pourcentage de ces
+
+1150
+01:01:29,670 --> 01:01:32,130
+cellules au sein du tissu cancer.
+
+1151
+01:01:35,630 --> 01:01:38,850
+Donc c'est pour cela, quand on a
+
+1152
+01:01:38,850 --> 01:01:41,990
+par exemple un cancer de la prostate et
+
+1153
+01:01:41,990 --> 01:01:44,950
+on aura une progression de la maladie, on
+
+1154
+01:01:44,950 --> 01:01:46,890
+sait très bien qu'il y aura toujours
+
+1155
+01:01:46,890 --> 01:01:49,770
+de la maladie hormonaux sensibles et de la
+
+1156
+01:01:49,770 --> 01:01:52,490
+maladie hormonaux résistantes.
+
+1157
+01:01:52,490 --> 01:01:57,130
+Mais on doit toujours maintenir ce traitement hormonal,
+
+1158
+01:01:57,390 --> 01:01:59,830
+notamment la castration, et on va essayer d
+
+1159
+01:01:59,830 --> 01:02:02,830
+'ajouter d'autres médicaments pour essayer de contrôler
+
+1160
+01:02:02,830 --> 01:02:07,910
+16 populations résistantes au traitement hormonal.
+
+1161
+01:02:10,520 --> 01:02:14,800
+Maintenant on va parler de certaines indications de
+
+1162
+01:02:14,800 --> 01:02:16,780
+l'hormonothérapie dans les cancers les plus fréquents,
+
+1163
+01:02:17,060 --> 01:02:18,520
+notamment le cancer du sein et le cancer
+
+1164
+01:02:18,520 --> 01:02:19,780
+de la prostate.
+
+1165
+01:02:32,080 --> 01:02:34,280
+Le premier cancer, on a plus de choix
+
+1166
+01:02:34,280 --> 01:02:36,460
+de traitement hormonal sur le cancer du sein.
+
+1167
+01:02:37,800 --> 01:02:40,820
+Le traitement hormonal n'est prescrit sauf si
+
+1168
+01:02:40,820 --> 01:02:43,960
+on a des récepteurs hormonaux positifs, soit de
+
+1169
+01:02:43,960 --> 01:02:45,880
+l'oestrogène, soit de la progestérone.
+
+1170
+01:02:46,680 --> 01:02:47,880
+Mais si on a des récepteurs hormonaux qui
+
+1171
+01:02:47,880 --> 01:02:50,400
+sont négatifs, attention, il n'y a pas
+
+1172
+01:02:50,400 --> 01:02:52,540
+d'indication à prescrire un traitement hormonal.
+
+1173
+01:02:52,540 --> 01:02:55,560
+Cette hormonothérapie est utilisée en cas de maladie
+
+1174
+01:02:55,560 --> 01:02:59,580
+métastatique en adjuvant et en adjuvant.
+
+1175
+01:03:01,100 --> 01:03:05,800
+Chez la femme en activité génitale, la première
+
+1176
+01:03:05,800 --> 01:03:09,060
+ligne d'hormonothérapie de maladie métastatique, on va
+
+1177
+01:03:09,060 --> 01:03:13,260
+proposer du tamoxyfène, qui peut être associé à
+
+1178
+01:03:13,260 --> 01:03:17,540
+une castration chirurgicale ou médicale.
+
+1179
+01:03:17,540 --> 01:03:22,740
+On peut aussi utiliser, en cas de progression
+
+1180
+01:03:22,740 --> 01:03:28,380
+sur le tamoxyfène, une injection d'aromatase associée
+
+1181
+01:03:28,380 --> 01:03:30,960
+à un analogue de LH-RH.
+
+1182
+01:03:32,060 --> 01:03:34,300
+Ça veut dire que le tamoxyfène peut être
+
+1183
+01:03:34,300 --> 01:03:36,900
+prescrit seul chez une femme en activité génitale,
+
+1184
+01:03:37,680 --> 01:03:41,040
+mais les injections d'aromatase doivent être obligatoirement
+
+1185
+01:03:41,040 --> 01:03:44,540
+associées à une castration médicale ou chirurgicale.
+
+1186
+01:03:44,540 --> 01:03:47,000
+En deuxième ligne, en cas de progression de
+
+1187
+01:03:47,000 --> 01:03:48,100
+la maladie sur le tamoxyfène.
+
+1188
+01:03:49,420 --> 01:03:53,800
+Chez la femme ménopausée, il est recommandé de
+
+1189
+01:03:53,800 --> 01:03:56,200
+commencer par toujours l'injection d'aromatase parce
+
+1190
+01:03:56,200 --> 01:03:57,400
+que c'est la voie sur une alien
+
+1191
+01:03:57,400 --> 01:04:03,500
+qui est dominante et la voie ovarienne est
+
+1192
+01:04:03,500 --> 01:04:04,400
+inexistante.
+
+1193
+01:04:05,280 --> 01:04:08,340
+En deuxième ligne, comme on a vu qu
+
+1194
+01:04:08,340 --> 01:04:10,600
+'on a plusieurs molécules, on peut aussi changer
+
+1195
+01:04:10,600 --> 01:04:12,860
+la molécule, passer à une autre injection d
+
+1196
+01:04:12,860 --> 01:04:15,420
+'aromatase, soit l'hétrozole, soit l'anastrozole, soit
+
+1197
+01:04:15,420 --> 01:04:16,060
+l'hexaméstal.
+
+1198
+01:04:17,320 --> 01:04:19,360
+Mais vous voyez que dans la première ligne
+
+1199
+01:04:19,360 --> 01:04:20,660
+et dans la deuxième ligne, on a toujours
+
+1200
+01:04:20,660 --> 01:04:22,460
+le choix du tamoxyfène.
+
+1201
+01:04:23,420 --> 01:04:26,880
+Oui, le tamoxyfène est efficace chez la femme
+
+1202
+01:04:26,880 --> 01:04:29,620
+ménopausée, mais aussi chez la femme en activité
+
+1203
+01:04:29,620 --> 01:04:30,180
+génitale.
+
+1204
+01:04:30,880 --> 01:04:31,680
+Pourquoi ?
+
+1205
+01:04:31,680 --> 01:04:32,860
+Parce que comme on a vu tout à
+
+1206
+01:04:32,860 --> 01:04:35,200
+l'heure que le tamoxyfène est un anti
+
+1207
+01:04:35,200 --> 01:04:37,640
+-oestrogène périphérique.
+
+1208
+01:04:38,100 --> 01:04:39,440
+C'est une molécule qui va se fixer
+
+1209
+01:04:39,440 --> 01:04:42,880
+au niveau des récepteurs sans générer d'activité
+
+1210
+01:04:42,880 --> 01:04:46,040
+de prolifération cellulaire.
+
+1211
+01:04:46,840 --> 01:04:49,200
+Et les récepteurs hormonaux, ils sont existants chez
+
+1212
+01:04:49,200 --> 01:04:52,240
+la femme ménopausée comme chez la femme jeune.
+
+1213
+01:04:54,080 --> 01:04:56,040
+Donc, c'est un traitement qui sera efficace
+
+1214
+01:04:56,040 --> 01:04:57,260
+sur les deux catégories.
+
+1215
+01:04:57,320 --> 01:04:59,920
+Sauf que l'injection d'aromatase chez la
+
+1216
+01:04:59,920 --> 01:05:04,160
+femme ménopausée, c'est à dire l'effet
+
+1217
+01:05:04,160 --> 01:05:07,520
+bénéfique, est plus important avec l'injection d
+
+1218
+01:05:07,520 --> 01:05:09,240
+'aromatase qu'avec le tamoxyfène.
+
+1219
+01:05:09,960 --> 01:05:11,060
+Mais si on n'a pas la possibilité
+
+1220
+01:05:11,060 --> 01:05:12,640
+de prescrire de l'injection d'aromatase, soit
+
+1221
+01:05:12,640 --> 01:05:16,740
+par contre-indication, par exemple, on a la
+
+1222
+01:05:16,740 --> 01:05:20,620
+possibilité d'administrer du tamoxyfène.
+
+1223
+01:05:22,500 --> 01:05:24,640
+Cette injection d'aromatase, elle peut être aussi
+
+1224
+01:05:24,640 --> 01:05:29,740
+associée à une thérapie ciblée qui est l
+
+1225
+01:05:29,740 --> 01:05:32,460
+'injection de mTOR, des voronimus, en cas de
+
+1226
+01:05:32,460 --> 01:05:33,760
+progression de la maladie sur l'injection d
+
+1227
+01:05:33,760 --> 01:05:34,300
+'aromatase.
+
+1228
+01:05:34,860 --> 01:05:38,440
+C'est une association qui cible un mécanisme
+
+1229
+01:05:38,440 --> 01:05:41,260
+de résistance et qui peut être efficace chez
+
+1230
+01:05:41,260 --> 01:05:41,980
+certains patients.
+
+1231
+01:05:43,720 --> 01:05:45,780
+Sans oublier qu'on a actuellement de nouvelles
+
+1232
+01:05:45,780 --> 01:05:48,260
+molécules, notamment le fulvistran.
+
+1233
+01:05:49,580 --> 01:05:51,740
+C'est une molécule qui va agir par
+
+1234
+01:05:51,740 --> 01:05:54,640
+compressivité et qui a une affinité qui est
+
+1235
+01:05:54,640 --> 01:05:58,600
+plus importante au récepteur oestrogénique par rapport au
+
+1236
+01:05:58,600 --> 01:06:00,340
+tamoxyfène, par rapport à l'oestrogène.
+
+1237
+01:06:01,420 --> 01:06:02,740
+Et il a l'avantage qu'il n
+
+1238
+01:06:02,740 --> 01:06:05,200
+'a pas d'activité agoniste partielle comme le
+
+1239
+01:06:05,200 --> 01:06:05,840
+tamoxyfène.
+
+1240
+01:06:05,840 --> 01:06:09,180
+Et le troisième effet, c'est une molécule
+
+1241
+01:06:09,180 --> 01:06:12,360
+qui va agir sur l'expression des récepteurs
+
+1242
+01:06:12,360 --> 01:06:16,200
+oestrogènes en diminuant leur nombre et par conséquence
+
+1243
+01:06:16,200 --> 01:06:20,040
+diminuer l'effet oestrogénique au niveau de cette
+
+1244
+01:06:20,040 --> 01:06:21,300
+cellule cancéreuse.
+
+1245
+01:06:25,270 --> 01:06:27,030
+Toujours dans le cancer du sein et en
+
+1246
+01:06:27,030 --> 01:06:28,250
+situation adjuvante.
+
+1247
+01:06:29,850 --> 01:06:32,790
+Chez la patiente sans activité génétale, on va
+
+1248
+01:06:32,790 --> 01:06:39,330
+proposer du tamoxyfène ou une association castration médicale,
+
+1249
+01:06:39,370 --> 01:06:41,090
+tamoxyfène ou inhibiteur d'aromatase.
+
+1250
+01:06:42,550 --> 01:06:44,490
+Chez les patientes à haut risque de récidive
+
+1251
+01:06:44,490 --> 01:06:44,870
+métastatique.
+
+1252
+01:06:46,130 --> 01:06:47,250
+Mais la règle, c'est de commencer par
+
+1253
+01:06:47,250 --> 01:06:47,990
+le tamoxyfène.
+
+1254
+01:06:49,670 --> 01:06:52,990
+La durée de traitement est variable, ça peut
+
+1255
+01:06:52,990 --> 01:06:55,910
+être 5 jusqu'à 10 ans.
+
+1256
+01:06:56,530 --> 01:07:00,430
+Pour les patientes ménopausées, le premier choix, ce
+
+1257
+01:07:00,430 --> 01:07:02,290
+sont les inhibiteurs d'aromatase.
+
+1258
+01:07:03,490 --> 01:07:05,490
+Et la durée en adjuvant, c'est entre
+
+1259
+01:07:05,490 --> 01:07:07,130
+5 à 7 ans et demi.
+
+1260
+01:07:09,390 --> 01:07:13,070
+Il faut savoir aussi que le tamoxyfène, il
+
+1261
+01:07:13,070 --> 01:07:15,970
+a aussi une action préventive en matière de
+
+1262
+01:07:15,970 --> 01:07:19,010
+risque de récidive dans le sein traité, en
+
+1263
+01:07:19,010 --> 01:07:20,010
+cas de traitement conservateur.
+
+1264
+01:07:20,410 --> 01:07:22,850
+Mais aussi dans le cancer du sein contralatéral,
+
+1265
+01:07:23,290 --> 01:07:26,610
+il est absolument utilisé dans certains pays comme
+
+1266
+01:07:26,610 --> 01:07:28,950
+traitement préventif chez les patientes ayant un cancer
+
+1267
+01:07:28,950 --> 01:07:31,450
+du sein réceptor hormonal positif.
+
+1268
+01:07:33,390 --> 01:07:37,270
+Pour le cancer de la prostate, l'hormonothérapie
+
+1269
+01:07:37,270 --> 01:07:40,010
+est utilisée dans le cas d'un traitement
+
+1270
+01:07:40,010 --> 01:07:43,230
+multimodal, en cas de maladie non métastatique.
+
+1271
+01:07:44,550 --> 01:07:46,730
+Cette hormonothérapie, c'est à la base une
+
+1272
+01:07:46,730 --> 01:07:50,690
+castration médicale par des analogues de LH-RH
+
+1273
+01:07:50,690 --> 01:07:55,630
+qui sont utilisés selon le groupe à risque.
+
+1274
+01:07:55,930 --> 01:07:57,630
+On a trois groupes à risque, le groupe
+
+1275
+01:07:57,630 --> 01:08:00,110
+à faible risque, le groupe intermédiaire et le
+
+1276
+01:08:00,110 --> 01:08:00,730
+groupe à haut risque.
+
+1277
+01:08:00,730 --> 01:08:03,530
+L'hormonothérapie est associée à la radiothérapie et
+
+1278
+01:08:03,530 --> 01:08:06,870
+prolongée pour une durée de 18 à 36
+
+1279
+01:08:06,870 --> 01:08:09,330
+mois pour le groupe à haut risque et
+
+1280
+01:08:09,330 --> 01:08:12,010
+de 6 mois pour le groupe intermédiaire.
+
+1281
+01:08:15,130 --> 01:08:17,770
+En cas de maladie métastatique, la castration est
+
+1282
+01:08:17,770 --> 01:08:19,090
+toujours de mise dans le cancer de la
+
+1283
+01:08:19,090 --> 01:08:22,729
+prostate, soit castration médicale ou chirurgicale.
+
+1284
+01:08:24,069 --> 01:08:28,770
+Selon le profil des patients, cette castration doit
+
+1285
+01:08:28,770 --> 01:08:31,970
+être associée soit à une chimiothérapie, parce que
+
+1286
+01:08:31,970 --> 01:08:34,970
+la chimiothérapie à base de taxanes avec la
+
+1287
+01:08:34,970 --> 01:08:36,990
+castration est supérieure par rapport à la castration,
+
+1288
+01:08:38,010 --> 01:08:40,430
+ou à une chimiothérapie de deuxième génération.
+
+1289
+01:08:40,430 --> 01:08:46,750
+On a deux molécules qui sont très importantes,
+
+1290
+01:08:46,870 --> 01:08:49,750
+qui ont permis d'améliorer le pronostic de
+
+1291
+01:08:49,750 --> 01:08:51,850
+cette maladie métastatique.
+
+1292
+01:08:52,950 --> 01:08:54,310
+Jusqu'à maintenant, on n'avait pas beaucoup
+
+1293
+01:08:54,310 --> 01:08:58,830
+de molécules à proposer après le traitement hormonal.
+
+1294
+01:09:00,410 --> 01:09:02,130
+Actuellement, on a de plus en plus de
+
+1295
+01:09:02,130 --> 01:09:05,470
+molécules qui vont cibler des mécanismes de résistance
+
+1296
+01:09:05,470 --> 01:09:08,630
+et d'échappement pour essayer de contrôler cette
+
+1297
+01:09:08,630 --> 01:09:10,470
+maladie cancéreuse agressive.
+
+1298
+01:09:11,590 --> 01:09:13,770
+Donc, on a deux molécules de deuxième génération,
+
+1299
+01:09:13,930 --> 01:09:15,770
+l'abiraterone, qui est un inhibiteur de la
+
+1300
+01:09:15,770 --> 01:09:20,430
+biosynthèse des androgènes, qui va inhiber deux enzymes
+
+1301
+01:09:20,430 --> 01:09:24,470
+sélectives, la 17-alpha-hydrolase et la 16
+
+1302
+01:09:24,470 --> 01:09:28,210
+-17-20-liase, au niveau testiculaire, surénaliale, mais
+
+1303
+01:09:28,210 --> 01:09:30,750
+aussi au niveau des tissus tumoroprostatiques.
+
+1304
+01:09:31,490 --> 01:09:33,470
+Et la deuxième molécule, c'est l'inzalutamide.
+
+1305
+01:09:33,890 --> 01:09:34,930
+C'est une molécule qui a une meilleure
+
+1306
+01:09:34,930 --> 01:09:37,010
+sélectivité au niveau des récepteurs aux androgènes.
+
+1307
+01:09:37,010 --> 01:09:38,330
+Elle va bloquer ces récepteurs.
+
+1308
+01:09:39,430 --> 01:09:42,830
+Elle va diminuer l'expression, comme le fluvistran,
+
+1309
+01:09:42,910 --> 01:09:45,130
+des récepteurs aux androgènes dans les cellules tumorales.
+
+1310
+01:09:45,229 --> 01:09:47,050
+Et bien sûr, l'accessibilité de ces récepteurs
+
+1311
+01:09:47,050 --> 01:09:51,609
+aux androgènes sécrétés dans la circulation.
+
+1312
+01:09:53,149 --> 01:09:55,010
+Et elle a l'avantage de ne pas
+
+1313
+01:09:55,010 --> 01:09:59,850
+avoir un effet agoniste attribué à cette molécule.
+
+1314
+01:10:03,100 --> 01:10:05,820
+Dans le cancer de l'endomètre, il n
+
+1315
+01:10:05,820 --> 01:10:07,180
+'y a pas d'indication à proposer une
+
+1316
+01:10:07,180 --> 01:10:09,860
+hormone thérapie en traitement adjuvant.
+
+1317
+01:10:10,400 --> 01:10:13,320
+Par contre, en situation métastatique, en cas de
+
+1318
+01:10:13,320 --> 01:10:16,220
+récepteurs hormonopositifs et en cas de contre-indication
+
+1319
+01:10:16,220 --> 01:10:20,960
+à une chimiothérapie, on peut proposer des progestatifs
+
+1320
+01:10:20,960 --> 01:10:24,600
+ou des tamoxifènes comme traitement hormonal de ces
+
+1321
+01:10:24,600 --> 01:10:25,540
+cancers de l'endomètre.
+
+1322
+01:10:26,920 --> 01:10:29,060
+Pour conclure, je dirais que l'hormone thérapie,
+
+1323
+01:10:29,240 --> 01:10:30,000
+c'est vrai, c'est un traitement qui
+
+1324
+01:10:30,000 --> 01:10:30,580
+est ancien.
+
+1325
+01:10:31,680 --> 01:10:33,180
+Mais aussi, c'est un traitement qui est
+
+1326
+01:10:33,180 --> 01:10:35,580
+efficace, dont les cancers hormonaux dépendent.
+
+1327
+01:10:37,300 --> 01:10:38,880
+Les récepteurs hormonaux, c'est un élément qui
+
+1328
+01:10:38,880 --> 01:10:41,200
+est très important pour la décision thérapeutique, parce
+
+1329
+01:10:41,200 --> 01:10:43,820
+que c'est un facteur prédictif de réponse.
+
+1330
+01:10:44,180 --> 01:10:45,260
+On ne peut pas prescrire d'un traitement
+
+1331
+01:10:45,260 --> 01:10:49,660
+hormonal sans récepteurs hormonaux positifs.
+
+1332
+01:10:50,020 --> 01:10:51,700
+Mais aussi, c'est un facteur de bon
+
+1333
+01:10:51,700 --> 01:10:53,300
+pronostic parce que ça signifie qu'il s
+
+1334
+01:10:53,300 --> 01:10:55,960
+'agit d'un tumeur qui est bien différencié.
+
+1335
+01:10:56,860 --> 01:11:00,220
+Le profil de toxicité, du fait que c
+
+1336
+01:11:00,220 --> 01:11:02,860
+'est un traitement historique qui est utilisé dans
+
+1337
+01:11:02,860 --> 01:11:05,860
+plusieurs indications, donc le profil de toxicité, il
+
+1338
+01:11:05,860 --> 01:11:08,500
+est connu, il est gérable par rapport aux
+
+1339
+01:11:08,500 --> 01:11:10,080
+nouvelles thérapies ciblées.
+
+1340
+01:11:10,200 --> 01:11:12,300
+On a de nouvelles toxicités qu'on ne
+
+1341
+01:11:12,300 --> 01:11:14,060
+connaît pas et qu'on doit apprendre à
+
+1342
+01:11:14,060 --> 01:11:14,420
+les gérer.
+
+1343
+01:11:16,200 --> 01:11:19,440
+Et actuellement, on a plusieurs nouvelles molécules qui
+
+1344
+01:11:19,440 --> 01:11:22,900
+vont cibler les mécanismes de résistance.
+
+1345
+01:11:22,900 --> 01:11:25,320
+Et comme la chimiothérapie, actuellement, on a une
+
+1346
+01:11:25,320 --> 01:11:27,500
+thérapie de première ligne, de deuxième ligne, de
+
+1347
+01:11:27,500 --> 01:11:28,200
+troisième ligne.
+
+1348
+01:11:29,000 --> 01:11:32,700
+Et sans oublier les associations entre l'hormonothérapie
+
+1349
+01:11:32,700 --> 01:11:33,780
+et d'autres hormonothérapies.
+
+1350
+01:11:33,900 --> 01:11:35,360
+L'hormonothérapie avec des thérapies ciblées.
+
+1351
+01:11:36,300 --> 01:11:39,680
+Tout ça a fait que ce traitement a
+
+1352
+01:11:39,680 --> 01:11:45,020
+pu améliorer le pronostic de ces cancers hormonaux
+
+1353
+01:11:45,020 --> 01:11:49,800
+dépendants et surtout améliorer la qualité de vie
+
+1354
+01:11:49,800 --> 01:11:53,680
+des patients et prolonger l'effet thérapeutique et
+
+1355
+01:11:53,680 --> 01:11:58,260
+retarder le recours au traitement classique, notamment la
+
+1356
+01:11:58,260 --> 01:11:59,260
+chimiothérapie.
+
+1357
+01:11:59,900 --> 01:12:03,080
+Il faut savoir que ce cours va sûrement
+
+1358
+01:12:03,080 --> 01:12:06,020
+changer parce qu'actuellement, on a d'autres
+
+1359
+01:12:06,020 --> 01:12:11,080
+associations qui ont permis d'améliorer de façon
+
+1360
+01:12:11,080 --> 01:12:15,120
+spectaculaire les résultats thérapeutiques, notamment par exemple dans
+
+1361
+01:12:15,120 --> 01:12:15,960
+le cancer du sein.
+
+1362
+01:12:16,680 --> 01:12:18,040
+Donc c'est à suivre.
+
+1363
+01:12:18,560 --> 01:12:19,320
+Et je vous remercie.

@@ -1,0 +1,823 @@
+1
+00:00:01,610 --> 00:00:05,610
+Les tumeurs ovariennes, cours destiné aux étudiants de
+
+2
+00:00:05,610 --> 00:00:06,410
+cinquième année de médecine.
+
+3
+00:00:10,000 --> 00:00:11,800
+Pour ce cours, nous allons adopter le plan
+
+4
+00:00:11,800 --> 00:00:12,100
+suivant.
+
+5
+00:00:13,520 --> 00:00:15,620
+Après une brève introduction, nous allons parler des
+
+6
+00:00:15,620 --> 00:00:17,600
+éléments anatomopathologiques et épidémiologiques.
+
+7
+00:00:18,300 --> 00:00:20,940
+Nous allons aborder l'étude clinique et paraclinique.
+
+8
+00:00:21,700 --> 00:00:24,080
+Et puis, nous finirons par parler des complications
+
+9
+00:00:24,080 --> 00:00:26,540
+du lent d'extension à certification du cancer
+
+10
+00:00:26,540 --> 00:00:28,740
+de l'Obert, ainsi que le traitement des
+
+11
+00:00:28,740 --> 00:00:31,259
+tumeurs ovariennes, avant de finir par l'évolution
+
+12
+00:00:31,259 --> 00:00:31,940
+à la prognostique.
+
+13
+00:00:33,700 --> 00:00:35,920
+En guise d'introduction, on peut dire que
+
+14
+00:00:35,920 --> 00:00:39,760
+les tumeurs ovariennes représentent des processus prolifératifs des
+
+15
+00:00:39,760 --> 00:00:41,960
+tissus ovariens, qu'ils soient primitifs ou secondaires,
+
+16
+00:00:42,400 --> 00:00:44,360
+bénins ou malins, solides ou kystiques.
+
+17
+00:00:45,200 --> 00:00:48,540
+Nous excluons de ce cours les kystes ovariens
+
+18
+00:00:48,540 --> 00:00:49,080
+fonctionnels.
+
+19
+00:00:49,960 --> 00:00:52,160
+Il faut savoir que les tumeurs bénines sont
+
+20
+00:00:52,160 --> 00:00:55,220
+les plus fréquentes, que le cancer ovarien reste
+
+21
+00:00:55,220 --> 00:00:56,960
+rare, mais il est de mauvais pronostic.
+
+22
+00:00:57,520 --> 00:01:01,480
+Le traitement des tumeurs ovariennes est la chirurgie
+
+23
+00:01:01,480 --> 00:01:02,740
+dans la plupart du temps.
+
+24
+00:01:05,070 --> 00:01:08,870
+Sur le plan anatomopathologique, nous utilisons la classification
+
+25
+00:01:08,870 --> 00:01:11,350
+de l'OMS, qui distingue les tumeurs épithéliales
+
+26
+00:01:11,350 --> 00:01:12,270
+des tumeurs non-épithéliales.
+
+27
+00:01:13,270 --> 00:01:15,470
+Les tumeurs épithéliales étant les plus fréquentes, elles
+
+28
+00:01:15,470 --> 00:01:17,350
+peuvent être bénines, malines ou borderlines.
+
+29
+00:01:18,710 --> 00:01:20,830
+Parmi ces tumeurs épithéliales, on distingue les tumeurs
+
+30
+00:01:20,830 --> 00:01:25,770
+séreuses, mucineuses, endométrioïdes, acellules claires, les tumeurs de
+
+31
+00:01:25,770 --> 00:01:29,990
+Brunner, les tumeurs mixtes épithéliales, les tumeurs épidermoïdes
+
+32
+00:01:29,990 --> 00:01:32,070
+et finalement les carcinomes indifférenciés.
+
+33
+00:01:34,820 --> 00:01:36,820
+En ce qui concerne les tumeurs épithéliales de
+
+34
+00:01:36,820 --> 00:01:38,600
+l'ovaire, nous distinguons les tumeurs germinales et
+
+35
+00:01:38,600 --> 00:01:40,340
+les tumeurs décredensexuelles du stromogonadique.
+
+36
+00:01:40,720 --> 00:01:43,260
+Les tumeurs germinales étant représentées par les séminomes,
+
+37
+00:01:43,400 --> 00:01:46,400
+le choriocarcinome, les tumeurs du sinus endodermique, les
+
+38
+00:01:46,400 --> 00:01:48,020
+polyembryomes et les thératomes.
+
+39
+00:01:49,500 --> 00:01:51,900
+Les tumeurs décredensexuelles du stromogonadique sont représentées par
+
+40
+00:01:51,900 --> 00:01:53,880
+les tumeurs de la granulosa, les tumeurs fibro
+
+41
+00:01:53,880 --> 00:01:57,080
+-técale, les tumeurs de sertolilédique ainsi que les
+
+42
+00:01:57,080 --> 00:01:57,280
+gynandroblastomes.
+
+43
+00:01:57,280 --> 00:02:03,270
+Sur le plan épidémiologique, par rapport à la
+
+44
+00:02:03,270 --> 00:02:05,910
+fréquence du cancer de l'ovaire, en France
+
+45
+00:02:05,910 --> 00:02:08,310
+il y a 4400 nouveaux cas par an
+
+46
+00:02:08,310 --> 00:02:10,490
+responsables de 3200 décès.
+
+47
+00:02:12,010 --> 00:02:13,930
+Le cancer de l'ovaire concerne principalement la
+
+48
+00:02:13,930 --> 00:02:15,990
+femme de plus de 45 ans et il
+
+49
+00:02:15,990 --> 00:02:17,170
+est rare chez la femme jeune.
+
+50
+00:02:17,870 --> 00:02:19,530
+Il constitue la cinquième cause de mortalité chez
+
+51
+00:02:19,530 --> 00:02:20,210
+la femme en France.
+
+52
+00:02:22,420 --> 00:02:24,820
+Les facteurs de risque du cancer de l
+
+53
+00:02:24,820 --> 00:02:28,240
+'ovaire sont représentés par des facteurs hormonaux tels
+
+54
+00:02:28,240 --> 00:02:30,600
+que la nulliparité, l'infertilité et l'âge
+
+55
+00:02:30,600 --> 00:02:31,820
+tardif de la première grossesse.
+
+56
+00:02:32,800 --> 00:02:35,640
+Des facteurs héréditaires tels que les antécédents personnels
+
+57
+00:02:35,640 --> 00:02:37,740
+ou familiaux du cancer du sein, de l
+
+58
+00:02:37,740 --> 00:02:38,900
+'ovaire, de l'endomètre ou du colon.
+
+59
+00:02:39,960 --> 00:02:42,760
+Et certains syndromes héréditaires à transmission autonomique dominante
+
+60
+00:02:42,760 --> 00:02:46,020
+tels que l'imitation du gène BRCA1 ou
+
+61
+00:02:46,020 --> 00:02:48,440
+2 et le syndrome de Lynch.
+
+62
+00:02:49,120 --> 00:02:52,800
+Les facteurs environnementaux sont représentés essentiellement par le
+
+63
+00:02:52,800 --> 00:02:54,580
+tabac et l'antécédent d'irradiation.
+
+64
+00:02:57,440 --> 00:03:00,360
+Sur le plan clinique, les tumeurs ovariennes peuvent
+
+65
+00:03:00,360 --> 00:03:02,760
+être de découverte fortuite ou suite à des
+
+66
+00:03:02,760 --> 00:03:03,240
+complications.
+
+67
+00:03:04,300 --> 00:03:06,680
+Mais le plus souvent, les patientes vont consulter
+
+68
+00:03:06,680 --> 00:03:08,780
+pour un syndrome tumeur ascétique ou un syndrome
+
+69
+00:03:08,780 --> 00:03:09,460
+endocrinique.
+
+70
+00:03:10,400 --> 00:03:12,480
+Le syndrome tumeur ascétique va être responsable de
+
+71
+00:03:12,480 --> 00:03:14,520
+douleurs abdominales, une augmentation du volume de l
+
+72
+00:03:14,520 --> 00:03:17,260
+'abdomen avec une altération de l'état général
+
+73
+00:03:17,260 --> 00:03:18,500
+ainsi que les signes de compression.
+
+74
+00:03:19,260 --> 00:03:22,620
+Pour le syndrome endocrinien, certains tumeurs peuvent être
+
+75
+00:03:22,620 --> 00:03:24,720
+masculinisantes et d'autres féminisantes.
+
+76
+00:03:27,330 --> 00:03:30,330
+Sur le plan de l'examen physique, le
+
+77
+00:03:30,330 --> 00:03:34,050
+plus souvent, les tumeurs ovariennes vont se présenter
+
+78
+00:03:34,050 --> 00:03:38,290
+comme étant des masses abdominopelviennes ou simplement des
+
+79
+00:03:38,290 --> 00:03:41,950
+masses latéro-utérines associées à de l'acide.
+
+80
+00:03:45,430 --> 00:03:48,230
+Sur le plan paraclinique, l'échographie abdominale et
+
+81
+00:03:48,230 --> 00:03:49,910
+endovaginale représente l'examen clé.
+
+82
+00:03:51,010 --> 00:03:53,850
+Elle va d'abord calculer la taille de
+
+83
+00:03:53,850 --> 00:03:57,130
+la masse, étudier sa structure, est-ce qu
+
+84
+00:03:57,130 --> 00:04:00,490
+'elle est liquidienne, solide ou mixte, voir les
+
+85
+00:04:00,490 --> 00:04:04,350
+limites, la notion d'unir ou bilatéralité, étudier
+
+86
+00:04:04,350 --> 00:04:07,030
+la paroi, la présence de septum et la
+
+87
+00:04:07,030 --> 00:04:09,870
+présence de papilles, la présence ou non d
+
+88
+00:04:09,870 --> 00:04:11,910
+'acide et voir la vascularisation endoplaire.
+
+89
+00:04:13,290 --> 00:04:15,769
+Les signes en faveur de la malignité qu
+
+90
+00:04:15,769 --> 00:04:17,890
+'on peut relever à l'échographie sont en
+
+91
+00:04:17,890 --> 00:04:22,070
+général la structure solidoclistique de la masse, la
+
+92
+00:04:22,070 --> 00:04:25,650
+paroi irrégulière, la présence de chlorosomes épaisse et
+
+93
+00:04:25,650 --> 00:04:27,910
+irrégulière, la présence de végétation qu'elle soit
+
+94
+00:04:27,910 --> 00:04:30,550
+endo- ou exoclistique, la notion de bilatéralité
+
+95
+00:04:30,550 --> 00:04:31,670
+et la présence d'acide.
+
+96
+00:04:34,510 --> 00:04:37,610
+Les marqueurs tumoraux ont essentiellement une valeur d
+
+97
+00:04:37,610 --> 00:04:38,130
+'orientation.
+
+98
+00:04:38,870 --> 00:04:43,550
+Pour les tumeurs épithéliales, nous utiliserons certainement le
+
+99
+00:04:43,550 --> 00:04:45,250
+CA125 et le CA19-9.
+
+100
+00:04:45,850 --> 00:04:48,190
+Mais pour les tumeurs non-épithéliales, l'alpha
+
+101
+00:04:48,190 --> 00:04:50,490
+-photoprotéine, l'HCG et l'LDH.
+
+102
+00:04:51,070 --> 00:04:53,650
+Ces marqueurs vont servir essentiellement pour le suivi
+
+103
+00:04:53,650 --> 00:04:54,390
+post-thérapeutique.
+
+104
+00:04:56,970 --> 00:04:59,750
+L'imagerie peut être complétée soit par une
+
+105
+00:04:59,750 --> 00:05:02,450
+tomodensitométrie ou une imagerie par résonance magnétique.
+
+106
+00:05:03,350 --> 00:05:08,530
+Ces deux dernières vont essentiellement servir à localiser
+
+107
+00:05:08,530 --> 00:05:13,550
+exactement la tumeur, ses rapports avec les organes
+
+108
+00:05:13,550 --> 00:05:15,670
+de voisinage, la présence ou non de carcinose
+
+109
+00:05:15,670 --> 00:05:18,930
+péritoniale et voir s'il y a une
+
+110
+00:05:18,930 --> 00:05:20,130
+atteinte bronchulinaire associée.
+
+111
+00:05:22,800 --> 00:05:25,860
+L'imagerie peut être complétée par une celluloscopie,
+
+112
+00:05:28,000 --> 00:05:29,780
+surtout lorsqu'on a un doute sur l
+
+113
+00:05:29,780 --> 00:05:32,260
+'opérabilité de la patiente par rapport aux données
+
+114
+00:05:32,260 --> 00:05:32,800
+de l'imagerie.
+
+115
+00:05:33,560 --> 00:05:38,540
+Cette dernière permettra de visualiser la masse, faire
+
+116
+00:05:38,540 --> 00:05:41,740
+un bilan d'extension complet, viscérale et péritoniale,
+
+117
+00:05:42,340 --> 00:05:45,280
+ainsi que la sadification, et permettre de biopsier
+
+118
+00:05:45,280 --> 00:05:46,740
+pour la confirmation histologique.
+
+119
+00:05:48,880 --> 00:05:50,780
+Comme on l'avait souligné, les tumeurs ovariennes
+
+120
+00:05:50,780 --> 00:05:53,000
+peuvent être découvertes à la suite de complications.
+
+121
+00:05:54,000 --> 00:05:57,060
+Ces complications peuvent être soit une torsion, la
+
+122
+00:05:57,060 --> 00:05:59,040
+torsion est un début brutal en général avec
+
+123
+00:05:59,040 --> 00:06:00,940
+des douleurs intenses associées à des nausées ou
+
+124
+00:06:00,940 --> 00:06:01,320
+vomissements.
+
+125
+00:06:01,320 --> 00:06:04,480
+À l'examen, on retrouve une défense avec
+
+126
+00:06:04,480 --> 00:06:06,280
+une masse pelvienne fixée.
+
+127
+00:06:07,540 --> 00:06:10,180
+L'infection aussi est redoutée, elle a le
+
+128
+00:06:10,180 --> 00:06:12,040
+même tableau dans un contexte infectieux.
+
+129
+00:06:12,980 --> 00:06:16,620
+Les tumeurs peuvent se remplir ou peuvent y
+
+130
+00:06:16,620 --> 00:06:19,520
+avoir des hémorragies intratumorales qui vont entraîner un
+
+131
+00:06:19,520 --> 00:06:21,260
+tableau de péritonite aiguë.
+
+132
+00:06:22,180 --> 00:06:24,360
+Les patientes avec un cancer de l'ovaire
+
+133
+00:06:24,360 --> 00:06:27,880
+peuvent être dénutries avec une altération de l
+
+134
+00:06:27,880 --> 00:06:28,320
+'état général.
+
+135
+00:06:28,820 --> 00:06:30,620
+Et puis ces tumeurs, lorsqu'elles sont volumineuses,
+
+136
+00:06:31,140 --> 00:06:33,500
+peuvent comprimer la vécie entraînant des signes urinaires
+
+137
+00:06:33,500 --> 00:06:37,680
+tels que l'uréthrohydronéphrose et la polyurie, ou
+
+138
+00:06:37,680 --> 00:06:40,300
+des signes de compression digestif entraînant des troubles
+
+139
+00:06:40,300 --> 00:06:41,660
+du transit et une constipation.
+
+140
+00:06:44,490 --> 00:06:46,190
+Lorsqu'on redoute un cancer de l'ovaire,
+
+141
+00:06:47,110 --> 00:06:49,730
+la seule façon de le stadifier est la
+
+142
+00:06:49,730 --> 00:06:50,350
+laparotomie.
+
+143
+00:06:50,350 --> 00:06:54,970
+Celle-ci est basée essentiellement sur la cytologie
+
+144
+00:06:54,970 --> 00:06:58,530
+péritoniale, la présence ou non d'atteintes péritoniales
+
+145
+00:06:58,530 --> 00:07:02,130
+avec le taille des implants et puis la
+
+146
+00:07:02,130 --> 00:07:03,510
+présence ou non d'atteintes ganglionaires.
+
+147
+00:07:04,730 --> 00:07:07,390
+Sur le plan thérapeutique, la chirurgie constitue le
+
+148
+00:07:07,390 --> 00:07:11,250
+gold standard, le standard dans le traitement des
+
+149
+00:07:11,250 --> 00:07:13,450
+tumeurs de l'ovaire et la laparotomie.
+
+150
+00:07:13,450 --> 00:07:15,550
+Cette laparotomie est en général médienne.
+
+151
+00:07:15,730 --> 00:07:18,410
+Elle permettra à l'exploration, à réaliser des
+
+152
+00:07:18,410 --> 00:07:20,490
+gestes d'exérès, que ce soit une gistectomie,
+
+153
+00:07:21,030 --> 00:07:24,450
+une ovaectomie, une anexectomie, ou carrément un traitement
+
+154
+00:07:24,450 --> 00:07:28,230
+radical avec une hystérectomie totale, avec homantectomie et
+
+155
+00:07:28,230 --> 00:07:32,750
+curage, plus ou moins des gestes extra-pelviens,
+
+156
+00:07:32,830 --> 00:07:34,130
+notamment sur l'étage abdominal.
+
+157
+00:07:35,230 --> 00:07:38,150
+Pour les tumeurs bénignes, le gold standard est
+
+158
+00:07:38,150 --> 00:07:38,600
+la cellulochirurgie.
+
+159
+00:07:38,600 --> 00:07:43,640
+Les traitements adjuvants tels que la chimiothérapie et
+
+160
+00:07:43,640 --> 00:07:45,820
+la radiothérapie sont réservés essentiellement aux cancers de
+
+161
+00:07:45,820 --> 00:07:46,100
+l'ovaire.
+
+162
+00:07:46,780 --> 00:07:48,680
+La radiothérapie va être utilisée surtout en cas
+
+163
+00:07:48,680 --> 00:07:52,240
+de séminome, qui sont radiosensibles, et la chimiothérapie,
+
+164
+00:07:52,840 --> 00:07:54,680
+dans les autres cas, surtout sur les tumeurs
+
+165
+00:07:54,680 --> 00:07:57,680
+epithéliales, où le protocole standard est l'association
+
+166
+00:07:57,680 --> 00:07:59,980
+de cisplatine ou carboplatine avec les taxanes.
+
+167
+00:08:02,450 --> 00:08:06,210
+Sur le plan des indications, schématiquement, pour les
+
+168
+00:08:06,210 --> 00:08:09,510
+tumeurs bénignes, il faut privilégier le traitement conservateur,
+
+169
+00:08:09,750 --> 00:08:12,530
+sauf si la femme est âgée, surtout par
+
+170
+00:08:12,530 --> 00:08:13,190
+la paroscopie.
+
+171
+00:08:13,950 --> 00:08:16,790
+Pour les tumeurs malignes, le traitement conservateur va
+
+172
+00:08:16,790 --> 00:08:19,450
+être réservé aux stades débutants, notamment le stade
+
+173
+00:08:19,450 --> 00:08:21,530
+1A, chez la femme jeune nullipare.
+
+174
+00:08:22,170 --> 00:08:23,850
+Pour les autres cas, un traitement radical est
+
+175
+00:08:23,850 --> 00:08:24,310
+souhaitable.
+
+176
+00:08:25,010 --> 00:08:27,690
+Pour tous les stades avancés, le traitement est
+
+177
+00:08:27,690 --> 00:08:30,350
+radical, avec un début de clinique chirurgical complet
+
+178
+00:08:30,350 --> 00:08:32,230
+associé à la chimiothérapie.
+
+179
+00:08:35,299 --> 00:08:36,960
+Les facteurs pronostiques du cancer de l'ovaire
+
+180
+00:08:36,960 --> 00:08:38,919
+sont essentiellement représentés par l'âge de la
+
+181
+00:08:38,919 --> 00:08:42,380
+patiente, le volume du reliquat tumoral, le type
+
+182
+00:08:42,380 --> 00:08:44,600
+et le grade histologique, le stade de la
+
+183
+00:08:44,600 --> 00:08:46,960
+figue, et l'état général de la patiente.
+
+184
+00:08:49,460 --> 00:08:50,960
+Après un traitement d'un cancer de l
+
+185
+00:08:50,960 --> 00:08:53,360
+'ovaire, la surveillance est essentiellement clinique.
+
+186
+00:08:54,240 --> 00:08:55,340
+Elle est faite tous les 3 mois pendant
+
+187
+00:08:55,340 --> 00:08:57,140
+2 ans, tous les 6 mois pendant 3
+
+188
+00:08:57,140 --> 00:08:58,080
+ans, puis tous les ans.
+
+189
+00:08:58,700 --> 00:09:00,500
+Le CA 125 peut être demandé tous les
+
+190
+00:09:00,500 --> 00:09:03,180
+6 mois, et en cas d'augmentation, on
+
+191
+00:09:03,180 --> 00:09:05,500
+complétera par une tomodensitométrie.
+
+192
+00:09:06,300 --> 00:09:08,580
+Le pronostic du cancer de l'ovaire est
+
+193
+00:09:08,580 --> 00:09:11,140
+mauvais pour les stades avancés, ne dépassant pas
+
+194
+00:09:11,140 --> 00:09:11,820
+les 15%.
+
+195
+00:09:11,820 --> 00:09:15,820
+Pour les stades débutants, il peut atteindre 80
+
+196
+00:09:15,820 --> 00:09:17,520
+-90% de survie à 5 ans.
+
+197
+00:09:18,980 --> 00:09:20,700
+Pour conclure, on peut dire que les tumeurs
+
+198
+00:09:20,700 --> 00:09:22,340
+ovariennes regroupent des pathologies diverses.
+
+199
+00:09:23,220 --> 00:09:24,700
+Les masses ovariennes chez la femme jeune sont
+
+200
+00:09:24,700 --> 00:09:27,240
+les plus souvent bénignes, et le cancer de
+
+201
+00:09:27,240 --> 00:09:28,560
+l'ovaire est à redouter chez la femme
+
+202
+00:09:28,560 --> 00:09:28,860
+âgée.
+
+203
+00:09:30,220 --> 00:09:32,080
+Le cancer de l'ovaire est malheureusement de
+
+204
+00:09:32,080 --> 00:09:35,360
+mauvais pronostics, et la chirurgie reste le gold
+
+205
+00:09:35,360 --> 00:09:38,580
+standard dans le traitement des tumeurs ovariennes organiques.
+
+206
+00:09:41,230 --> 00:09:41,930
+Je vous remercie.

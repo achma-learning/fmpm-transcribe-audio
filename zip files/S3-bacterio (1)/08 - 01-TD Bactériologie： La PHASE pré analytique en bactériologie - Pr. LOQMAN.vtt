@@ -1,0 +1,789 @@
+WEBVTT
+
+1
+00:00:01.029 --> 00:00:05.350
+Bonjour, cette séance de travaux dirigée porte sur
+
+2
+00:00:05.350 --> 00:00:07.690
+la phase préanalytique en bactériologie.
+
+3
+00:00:12.480 --> 00:00:15.460
+Nous allons traiter les différentes étapes de la
+
+4
+00:00:15.460 --> 00:00:20.500
+phase préanalytique en bactériologie, définir les informations que
+
+5
+00:00:20.500 --> 00:00:24.080
+doit comporter la prescription médicale d'une analyse,
+
+6
+00:00:25.840 --> 00:00:29.200
+connaître les conditions nécessaires à respecter pour l
+
+7
+00:00:29.200 --> 00:00:35.040
+'exécution d'un prélèvement bactériologique et enfin, nous
+
+8
+00:00:35.040 --> 00:00:39.140
+allons voir les éléments qui peuvent fausser un
+
+9
+00:00:39.140 --> 00:00:40.800
+résultat bactériologique.
+
+10
+00:00:41.540 --> 00:00:45.900
+L'objectif principal des analyses en bactériologie est
+
+11
+00:00:45.900 --> 00:00:48.680
+d'évoluer et d'identifier les micro-organismes
+
+12
+00:00:48.680 --> 00:00:52.700
+pathogènes et de mesurer leur sensibilité aux antibiotiques.
+
+13
+00:00:53.400 --> 00:00:55.940
+Le GBA a défini ces analyses comme un
+
+14
+00:00:55.940 --> 00:01:00.000
+ensemble d'étapes successives allant du prélèvement de
+
+15
+00:01:00.000 --> 00:01:03.019
+l'échantillon biologique jusqu'à la remise des
+
+16
+00:01:03.019 --> 00:01:03.560
+résultats.
+
+17
+00:01:04.099 --> 00:01:08.760
+La qualité de ces résultats dépend ainsi étroitement
+
+18
+00:01:08.760 --> 00:01:12.900
+de celles des phases préanalytiques et analytiques ainsi
+
+19
+00:01:12.900 --> 00:01:14.860
+que la phase post-analytique.
+
+20
+00:01:16.160 --> 00:01:20.520
+La figure suivante illustre le cheminement ou la
+
+21
+00:01:20.520 --> 00:01:25.020
+chronologie de l'analyse depuis le patient jusqu
+
+22
+00:01:25.020 --> 00:01:27.640
+'à l'interprétation des résultats.
+
+23
+00:01:28.380 --> 00:01:33.640
+La phase préanalytique comprend plusieurs étapes dont la
+
+24
+00:01:33.640 --> 00:01:37.960
+séquence et la coordination doivent être sans faille.
+
+25
+00:01:38.800 --> 00:01:40.940
+Il s'agit en effet d'une phase
+
+26
+00:01:40.940 --> 00:01:44.320
+critique pour laquelle le choix de l'échantillon
+
+27
+00:01:44.320 --> 00:01:48.480
+et de ses modalités de prélèvement, de transport
+
+28
+00:01:48.480 --> 00:01:52.380
+et de conservation doivent être de qualité optimale.
+
+29
+00:01:53.080 --> 00:01:56.300
+Dans le cas contraire, les résultats des analyses
+
+30
+00:01:56.300 --> 00:01:59.500
+risquent de n'avoir aucune utilité clinique.
+
+31
+00:02:00.360 --> 00:02:03.900
+J'insiste aussi sur la traçabilité dans le
+
+32
+00:02:03.900 --> 00:02:07.660
+respect de la confidentialité qui est une des
+
+33
+00:02:07.660 --> 00:02:12.100
+garanties des démarches effectuées par les professionnels de
+
+34
+00:02:12.100 --> 00:02:12.400
+santé.
+
+35
+00:02:15.700 --> 00:02:20.020
+La figure 2 montre les principales étapes du
+
+36
+00:02:20.020 --> 00:02:20.800
+préanalytique.
+
+37
+00:02:21.700 --> 00:02:25.600
+Nous allons détailler les éléments de cette phase
+
+38
+00:02:25.600 --> 00:02:31.700
+un par un, à savoir la prescription médicale,
+
+39
+00:02:32.700 --> 00:02:37.820
+l'exécution du prélèvement, bien évidemment les conditions
+
+40
+00:02:37.820 --> 00:02:42.340
+de transport et de conservation et enfin les
+
+41
+00:02:42.340 --> 00:02:46.060
+modalités de réception du prélèvement au laboratoire.
+
+42
+00:02:49.000 --> 00:02:52.280
+La première étape consiste à la prescription médicale.
+
+43
+00:02:52.820 --> 00:02:56.720
+Elle permet le dialogue et la communication entre
+
+44
+00:02:56.720 --> 00:02:59.400
+le clinicien et le biologiste.
+
+45
+00:03:00.520 --> 00:03:06.880
+L'analyse microbiologique doit être prescrite explicitement sur
+
+46
+00:03:06.880 --> 00:03:11.060
+l'ordonnance selon la nomenclature des actes de
+
+47
+00:03:11.060 --> 00:03:12.780
+biologie médicale.
+
+48
+00:03:14.570 --> 00:03:17.850
+Le prescripteur, son nom, sa qualité et la
+
+49
+00:03:17.850 --> 00:03:21.850
+manière de le contacter doivent être clairement identifiés.
+
+50
+00:03:22.710 --> 00:03:26.430
+Il doit mentionner l'identité du patient, nom,
+
+51
+00:03:26.670 --> 00:03:28.690
+prénom, sexe, date de naissance.
+
+52
+00:03:30.110 --> 00:03:34.230
+Le prescripteur doit préciser la recherche de micro
+
+53
+00:03:34.230 --> 00:03:35.850
+-organismes particuliers.
+
+54
+00:03:35.850 --> 00:03:40.230
+Il doit mentionner également la nature des manifestations
+
+55
+00:03:40.230 --> 00:03:45.270
+pathologiques, le site d'élisions infectieuses et leur
+
+56
+00:03:45.270 --> 00:03:46.550
+date d'apparition.
+
+57
+00:03:48.270 --> 00:03:52.010
+Il doit préciser éventuellement l'état physiologique du
+
+58
+00:03:52.010 --> 00:03:55.990
+malade et l'existence d'infections associées telles
+
+59
+00:03:55.990 --> 00:03:59.530
+que l'intolérance aux produits utilisés pour le
+
+60
+00:03:59.530 --> 00:04:05.750
+prélèvement, une allergie aux antibiotiques, sont aussi utiles
+
+61
+00:04:05.750 --> 00:04:08.670
+à préciser l'éventualité d'un six jours
+
+62
+00:04:08.670 --> 00:04:12.790
+dans un pays endémique et le risque d
+
+63
+00:04:12.790 --> 00:04:16.870
+'infection ou de colonisation par un agent potentiellement
+
+64
+00:04:16.870 --> 00:04:21.210
+épidémique ou résistant aux agents thérapeutiques.
+
+65
+00:04:22.170 --> 00:04:26.410
+Ces renseignements contribuent au choix des techniques de
+
+66
+00:04:26.410 --> 00:04:29.870
+prélèvement et d'analyse et la prévention des
+
+67
+00:04:29.870 --> 00:04:33.530
+incidents liés à la nature des prélèvements ainsi
+
+68
+00:04:33.530 --> 00:04:36.210
+qu'à la limitation des risques de la
+
+69
+00:04:36.210 --> 00:04:36.870
+dissémination.
+
+70
+00:04:40.660 --> 00:04:48.680
+Le tableau suivant détaille l'ensemble de ces
+
+71
+00:04:48.680 --> 00:04:51.540
+renseignements avec leurs intérêts.
+
+72
+00:04:53.400 --> 00:04:56.340
+Il y a des prélèvements à visée diagnostique
+
+73
+00:04:56.340 --> 00:04:58.820
+et d'autres à visée épidémiologique.
+
+74
+00:04:58.820 --> 00:05:02.900
+Les prélèvements à visée diagnostique cherchent le diagnostic
+
+75
+00:05:02.900 --> 00:05:06.500
+par exemple d'une infection, le diagnostic étiologique
+
+76
+00:05:06.500 --> 00:05:09.960
+d'un syndrome infectieux ou le choix et
+
+77
+00:05:09.960 --> 00:05:12.720
+le suivi d'un traitement anti-infectieux.
+
+78
+00:05:13.540 --> 00:05:17.740
+Alors que les prélèvements à visée épidémiologique, ils
+
+79
+00:05:17.740 --> 00:05:19.960
+s'intéressent à l'épidémiologie d'un patient
+
+80
+00:05:19.960 --> 00:05:23.380
+ou d'un service, la recherche des bactéries
+
+81
+00:05:23.380 --> 00:05:30.580
+nominément désignées comme des bactéries multi-résistantes Voilà
+
+82
+00:05:30.580 --> 00:05:34.260
+un exemple des prélèvements à visée épidémiologique.
+
+83
+00:05:37.350 --> 00:05:40.150
+Le prélèvement d'un produit pathologique est un
+
+84
+00:05:40.150 --> 00:05:42.570
+acte-clé de la phase préanalytique.
+
+85
+00:05:43.410 --> 00:05:47.710
+Il doit respecter le processus infectieux ou pathologique
+
+86
+00:05:47.710 --> 00:05:50.710
+de la zone anatomique prélevée.
+
+87
+00:05:51.330 --> 00:05:55.090
+De plus, il doit conserver la viabilité des
+
+88
+00:05:55.090 --> 00:05:58.570
+bactéries pour les échantillons destinés à la culture,
+
+89
+00:05:58.570 --> 00:06:04.370
+l'antigénicité pour les examens microscopiques par immunofluorescence
+
+90
+00:06:04.370 --> 00:06:09.790
+et conserver les molécules spécifiquement recherchées comme les
+
+91
+00:06:09.790 --> 00:06:12.310
+acides nucléiques, l'ADN et l'ARN.
+
+92
+00:06:15.350 --> 00:06:18.970
+Le prélèvement doit être effectué au début du
+
+93
+00:06:18.970 --> 00:06:20.550
+processus infectieux.
+
+94
+00:06:21.510 --> 00:06:27.490
+Avant l'administration d'agents antimicrobiens, les répétitions
+
+95
+00:06:27.490 --> 00:06:32.510
+des prélèvements sont recommandées surtout lorsqu'il s
+
+96
+00:06:32.510 --> 00:06:36.630
+'agit d'une charge bactérienne faible ou variable
+
+97
+00:06:36.630 --> 00:06:39.630
+dans le temps comme pour la recherche par
+
+98
+00:06:39.630 --> 00:06:43.430
+exemple des mycobactéries ou leurs décepticides.
+
+99
+00:06:46.000 --> 00:06:49.620
+Les sites anatomiques appropriés sont généralement les plus
+
+100
+00:06:49.620 --> 00:06:54.200
+proches du foyer infectieux et des localisations secondaires
+
+101
+00:06:54.200 --> 00:06:57.660
+ou bien ceux qui constituent la porte d
+
+102
+00:06:57.660 --> 00:07:01.840
+'entrée, les voies d'excrétion ou d'évacuation
+
+103
+00:07:01.840 --> 00:07:05.160
+de l'infection comme les festules et le
+
+104
+00:07:05.160 --> 00:07:05.520
+drainage.
+
+105
+00:07:09.570 --> 00:07:13.790
+Le matériel du prélèvement doit être stérile, à
+
+106
+00:07:13.790 --> 00:07:16.830
+usage unique, étanche et non périmée.
+
+107
+00:07:16.830 --> 00:07:21.510
+A noter aussi que chaque récipient doit être
+
+108
+00:07:21.510 --> 00:07:26.150
+identifié par une étiquette comportant le nom, le
+
+109
+00:07:26.150 --> 00:07:28.370
+prénom et la date de naissance du malade
+
+110
+00:07:28.370 --> 00:07:31.750
+ainsi que la date, l'heure, la nature
+
+111
+00:07:31.750 --> 00:07:33.570
+et le site de prélèvement.
+
+112
+00:07:34.810 --> 00:07:37.990
+Il existe un très grand nombre de méthodes
+
+113
+00:07:37.990 --> 00:07:38.910
+de prélèvement.
+
+114
+00:07:39.890 --> 00:07:43.730
+Lorsque les visions infectieuses sont profondes et que
+
+115
+00:07:43.730 --> 00:07:48.190
+leur pronostic est sévère, le prélèvement invasif le
+
+116
+00:07:48.190 --> 00:07:52.190
+plus proche du foyer infectieux et comportant peu
+
+117
+00:07:52.190 --> 00:07:55.690
+de risques de contamination sera le plus approprié.
+
+118
+00:07:56.770 --> 00:08:01.270
+Les prélèvements par écovillonnage sont des techniques utilisées
+
+119
+00:08:01.270 --> 00:08:04.730
+au niveau des plaies, les muqueuses, les cavités.
+
+120
+00:08:05.490 --> 00:08:09.350
+Cependant, on récolte un peu de volume d
+
+121
+00:08:09.350 --> 00:08:09.910
+'échantillons.
+
+122
+00:08:10.670 --> 00:08:13.270
+Il faut noter aussi que si on vise
+
+123
+00:08:13.270 --> 00:08:17.770
+la recherche des bactéries anaïrobies strictes, les échantillons
+
+124
+00:08:17.770 --> 00:08:24.010
+doivent immédiatement conditionner en évitant tout contact avec
+
+125
+00:08:24.010 --> 00:08:24.770
+l'air.
+
+126
+00:08:30.550 --> 00:08:34.630
+Il faut noter aussi que des précautions particulières
+
+127
+00:08:34.630 --> 00:08:38.429
+doivent être prises pour éviter la contamination des
+
+128
+00:08:38.429 --> 00:08:41.230
+prélèvements par des bactéries et par une grande
+
+129
+00:08:41.230 --> 00:08:43.450
+variété de micro-organismes comme le seau.
+
+130
+00:08:43.450 --> 00:08:48.150
+Les procédés de décontamination de surface comportent soit
+
+131
+00:08:48.150 --> 00:08:51.530
+le simple rinçage avec du sérum physiologique stérile,
+
+132
+00:08:52.230 --> 00:08:55.010
+soit l'utilisation sur la peau ou même
+
+133
+00:08:55.010 --> 00:08:58.410
+sur une muqueuse d'une solution antiseptique.
+
+134
+00:08:59.090 --> 00:09:04.390
+Mais il faut éliminer ce produit après avec
+
+135
+00:09:04.390 --> 00:09:07.790
+du sérum physiologique stérile afin de ne pas
+
+136
+00:09:07.790 --> 00:09:11.630
+inhiber la culture des bactéries pathogènes.
+
+137
+00:09:13.450 --> 00:09:16.010
+Voilà l'exemple de quelques prélèvements.
+
+138
+00:09:16.570 --> 00:09:19.670
+Le prélèvement urinaire chez la femme et chez
+
+139
+00:09:19.670 --> 00:09:22.070
+l'homme à travers des sangles urinaires.
+
+140
+00:09:22.850 --> 00:09:27.790
+La procédure de prélèvement direct des flacons d
+
+141
+00:09:27.790 --> 00:09:28.490
+'hémoculture.
+
+142
+00:09:30.170 --> 00:09:30.890
+Le cul.
+
+143
+00:09:31.990 --> 00:09:32.770
+Les fonctions.
+
+144
+00:09:34.450 --> 00:09:38.370
+Donc à noter que chaque prélèvement a ses
+
+145
+00:09:38.370 --> 00:09:42.690
+spécificités et il faut les bien respecter.
+
+146
+00:09:42.690 --> 00:09:47.960
+En règle générale, les bactéries ne résistent pas
+
+147
+00:09:47.960 --> 00:09:51.020
+à la dissication et au froid, en particulier
+
+148
+00:09:51.020 --> 00:09:53.520
+lorsque de petits volumes sont prélevés.
+
+149
+00:09:54.400 --> 00:09:57.580
+Les petits échantillons et les biopsies doivent être
+
+150
+00:09:57.580 --> 00:10:01.140
+assuminés en 15 à 30 minutes au laboratoire.
+
+151
+00:10:02.320 --> 00:10:05.580
+Les autres prélèvements ont moins de 2 heures
+
+152
+00:10:05.580 --> 00:10:09.580
+avec la recommandation d'utilisation des milieux de
+
+153
+00:10:09.580 --> 00:10:13.380
+transport afin de préserver la survie des micro
+
+154
+00:10:13.380 --> 00:10:14.300
+-organismes.
+
+155
+00:10:15.480 --> 00:10:18.940
+La sécurité pendant le transfert des échantillons doit
+
+156
+00:10:18.940 --> 00:10:23.800
+être respectée car tout produit pathologique doit être
+
+157
+00:10:23.800 --> 00:10:28.320
+considéré comme potentiellement infectieux et donc dangereux.
+
+158
+00:10:29.160 --> 00:10:32.640
+Tout récipient doit être fermé hermétiquement pour ne
+
+159
+00:10:32.640 --> 00:10:36.380
+pas contaminer l'extérieur des flacons ou des
+
+160
+00:10:36.380 --> 00:10:36.640
+tubes.
+
+161
+00:10:36.640 --> 00:10:40.860
+Il ne faut pas transporter une seringue avec
+
+162
+00:10:40.860 --> 00:10:41.620
+son aiguille.
+
+163
+00:10:42.260 --> 00:10:45.080
+Celle-ci doit être retirée grâce à un
+
+164
+00:10:45.080 --> 00:10:46.580
+dispositif de sécurité.
+
+165
+00:10:49.920 --> 00:10:52.800
+Nous devons éviter trois choses.
+
+166
+00:10:53.620 --> 00:10:59.660
+Le traitement avec des antibiotiques, la contamination par
+
+167
+00:10:59.660 --> 00:11:04.280
+la flore endogène et un transport inapproprié des
+
+168
+00:11:04.280 --> 00:11:04.800
+prélèvements.
+
+169
+00:11:05.600 --> 00:11:08.940
+Les situations qui peuvent justifier le refus d
+
+170
+00:11:08.940 --> 00:11:12.800
+'une analyse concernent les échantillons non étiquetés ou
+
+171
+00:11:12.800 --> 00:11:18.160
+improprement étiquetés, les échantillons reçus dans des récipients
+
+172
+00:11:18.160 --> 00:11:24.700
+endommagés et non étanches, des échantillons visiblement contaminés,
+
+173
+00:11:25.620 --> 00:11:29.600
+des échantillons reçus au-delà des délais maximaux
+
+174
+00:11:29.600 --> 00:11:34.400
+recommandés, des échantillons pas conservés dans des conditions
+
+175
+00:11:34.400 --> 00:11:41.320
+recommandées, des échantillons inappropriés aux analyses prescrites et
+
+176
+00:11:41.320 --> 00:11:45.400
+des échantillons multiples dans un délai très court
+
+177
+00:11:45.400 --> 00:11:46.540
+non justifié.
+
+178
+00:11:48.980 --> 00:11:51.960
+En général, les conditions liées aux modalités de
+
+179
+00:11:51.960 --> 00:11:56.400
+prélèvement, de transport et de conservation sont préjudiciables
+
+180
+00:11:56.400 --> 00:11:59.700
+à la sécurité de l'analyse et aussi
+
+181
+00:11:59.700 --> 00:12:01.620
+à la validité des résultats.
+
+182
+00:12:01.620 --> 00:12:06.520
+Bien sûr, l'analyse d'échantillons non représentatifs
+
+183
+00:12:06.520 --> 00:12:12.540
+du processus infectieux génère des résultats inappropriés, conduisant
+
+184
+00:12:12.540 --> 00:12:15.240
+à des erreurs de diagnostic et à des
+
+185
+00:12:15.240 --> 00:12:16.780
+traitements inadaptés.
+
+186
+00:12:17.580 --> 00:12:20.860
+Le résultat sera rendu toujours avec une mention
+
+187
+00:12:20.860 --> 00:12:23.820
+« résultats sous réserve ».
+
+188
+00:12:24.460 --> 00:12:28.680
+En conclusion, la rédaction de la prescription, l
+
+189
+00:12:28.680 --> 00:12:32.620
+'exécution des prélèvements ainsi que la conservation et
+
+190
+00:12:32.620 --> 00:12:36.380
+le transport de l'échantillon sont les grandes
+
+191
+00:12:36.380 --> 00:12:40.720
+étapes préanalytiques qui peuvent influencer la qualité des
+
+192
+00:12:40.720 --> 00:12:41.240
+résultats.
+
+193
+00:12:41.940 --> 00:12:46.300
+De plus, les renseignements administratifs et cliniques, ainsi
+
+194
+00:12:46.300 --> 00:12:49.920
+que les données sur les circonstances du prélèvement
+
+195
+00:12:49.920 --> 00:12:54.940
+sont absolument nécessaires pour réaliser une analyse bactériologique
+
+196
+00:12:54.940 --> 00:12:55.960
+de qualité.
+
+197
+00:12:55.960 --> 00:12:59.100
+Je vous remercie de votre attention.

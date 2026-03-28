@@ -1,0 +1,2571 @@
+1
+00:00:00,520 --> 00:00:03,540
+Bonjour, donc aujourd'hui on va voir les
+
+2
+00:00:03,540 --> 00:00:06,520
+insuffisances respiratoires aiguës.
+
+3
+00:00:11,540 --> 00:00:13,940
+Les objectifs de ce cours est de connaître
+
+4
+00:00:13,940 --> 00:00:17,400
+les conséquences physiopathologiques, savoir diagnostiquer une insuffisance
+
+5
+00:00:17,400 --> 00:00:22,760
+respiratoire aiguë, connaître les principales idéologies, connaître les
+
+6
+00:00:22,760 --> 00:00:26,820
+principes de prise en charge, connaître quelques indications
+
+7
+00:00:26,820 --> 00:00:30,900
+de la ventilation non invasive et invasive, et
+
+8
+00:00:30,900 --> 00:00:33,320
+puis à la fin on va vous présenter
+
+9
+00:00:33,320 --> 00:00:37,640
+un syndrome de détresse respiratoire aiguë, le SDR1,
+
+10
+00:00:38,260 --> 00:00:41,380
+qu'on rencontre au niveau de la réanimation.
+
+11
+00:00:42,180 --> 00:00:45,640
+Tout d'abord, l'insuffisance respiratoire aiguë est
+
+12
+00:00:45,640 --> 00:00:51,400
+défini comme un syndrome avec une altération aiguë
+
+13
+00:00:51,400 --> 00:00:53,840
+de l'hématose en rapport avec une défaillance
+
+14
+00:00:53,840 --> 00:00:58,440
+d'un ou plusieurs composants du système respiratoire,
+
+15
+00:00:58,960 --> 00:01:01,960
+ce qui peut concerner les voies aériennes, le
+
+16
+00:01:01,960 --> 00:01:07,820
+parenchyme pulmonaire, les plèvres, les vaisseaux, les muscles
+
+17
+00:01:07,820 --> 00:01:11,500
+respiratoires ou la commande respiratoire.
+
+18
+00:01:12,500 --> 00:01:19,740
+On distingue les insuffisances respiratoires hypoxymiques, dites de
+
+19
+00:01:19,740 --> 00:01:22,740
+type 1, qui sont définies par une pression
+
+20
+00:01:22,740 --> 00:01:30,600
+partielle en oxygène au niveau artériel inférieur à
+
+21
+00:01:30,600 --> 00:01:35,020
+60 mmHg, et les insuffisances respiratoires aiguës hypercapniques
+
+22
+00:01:35,020 --> 00:01:40,220
+de type 2, qui sont définies par une
+
+23
+00:01:40,220 --> 00:01:44,260
+pression partielle en dioxyde de carbone dans le
+
+24
+00:01:44,260 --> 00:01:48,160
+sang artériel supérieur à 45, associée à une
+
+25
+00:01:48,160 --> 00:01:54,640
+chute du pH sanguin, traduisant une acidose respiratoire.
+
+26
+00:01:55,760 --> 00:02:00,940
+Cette définition est une définition pratique, elle repose
+
+27
+00:02:00,940 --> 00:02:03,700
+sur la mesure des gaz du sang artériel,
+
+28
+00:02:03,880 --> 00:02:08,800
+mais elle est restrictive puisqu'elle exclut les
+
+29
+00:02:08,800 --> 00:02:17,020
+hypoxies tissulaires sans hypoxie, et les hypoxies tissulaires
+
+30
+00:02:17,020 --> 00:02:18,900
+avec hypoxie.
+
+31
+00:02:26,000 --> 00:02:33,360
+Les hypoxies tissulaires avec hypoxie sont liées à
+
+32
+00:02:33,360 --> 00:02:36,360
+un défaut du transport artériel ou à une
+
+33
+00:02:36,360 --> 00:02:41,340
+altération de la respiration cellulaire, et on ne
+
+34
+00:02:41,340 --> 00:02:45,660
+peut les détecter qu'indirectement par le dosage
+
+35
+00:02:45,660 --> 00:02:46,260
+des lactates.
+
+36
+00:02:47,960 --> 00:02:49,940
+Ils sont liés à une altération, comme on
+
+37
+00:02:49,940 --> 00:02:53,100
+l'a dit, du transport en oxygène, qui
+
+38
+00:02:53,100 --> 00:02:55,020
+va toucher donc l'hémoglobine en cas d
+
+39
+00:02:55,020 --> 00:02:59,360
+'anémie, d'intoxication au monoxyde de carbone et
+
+40
+00:02:59,360 --> 00:03:01,240
+dans les états de choc, ou à une
+
+41
+00:03:01,240 --> 00:03:03,440
+altération de la respiration cellulaire, c'est le
+
+42
+00:03:03,440 --> 00:03:07,880
+cas de l'intoxication au cyanure ou des
+
+43
+00:03:07,880 --> 00:03:09,500
+sepsis graves.
+
+44
+00:03:09,500 --> 00:03:20,520
+Les hypoxies sans hypoxie tissulaires, ils
+
+45
+00:03:20,520 --> 00:03:22,720
+sont liés à une obstruction des voies aériennes
+
+46
+00:03:22,720 --> 00:03:26,020
+supérieures de la trachée ou des branches.
+
+47
+00:03:26,820 --> 00:03:29,080
+On peut les rencontrer dans les détresses respiratoires
+
+48
+00:03:29,080 --> 00:03:33,660
+aiguës psychogènes et dans le syndrome d'hyperventilation.
+
+49
+00:03:33,660 --> 00:03:35,940
+C'est une entité qu'on appelle les
+
+50
+00:03:35,940 --> 00:03:39,940
+détresses respiratoires aiguës, qui peut être sans hypoxie
+
+51
+00:03:39,940 --> 00:03:42,960
+et sans hypoxie tissulaire.
+
+52
+00:03:47,550 --> 00:03:49,030
+On va voir la physiopathologie.
+
+53
+00:03:50,670 --> 00:03:53,550
+Comme on l'a dit, l'insuffisance respiratoire
+
+54
+00:03:53,550 --> 00:03:57,030
+aiguë est définie par une altération aiguë de
+
+55
+00:03:57,030 --> 00:03:57,650
+l'hématose.
+
+56
+00:03:57,750 --> 00:04:02,410
+La teinte peut être en rapport avec une
+
+57
+00:04:02,410 --> 00:04:04,530
+défaillance d'un ou de plusieurs composants du
+
+58
+00:04:04,530 --> 00:04:05,130
+système respiratoire.
+
+59
+00:04:05,870 --> 00:04:09,310
+La teinte peut être liée à une atteinte
+
+60
+00:04:09,310 --> 00:04:12,290
+de la fonction d'échange pulmonaire, à une
+
+61
+00:04:12,290 --> 00:04:14,670
+atteinte de la pompe pulmonaire ou à une
+
+62
+00:04:14,670 --> 00:04:15,769
+anomalie du transport.
+
+63
+00:04:17,490 --> 00:04:21,570
+Pour la fonction d'échange pulmonaire, rappelez-vous
+
+64
+00:04:21,570 --> 00:04:24,270
+de vos cours de physiologie.
+
+65
+00:04:28,190 --> 00:04:32,370
+On distingue l'effet chante et l'effet
+
+66
+00:04:32,370 --> 00:04:33,490
+espace mort.
+
+67
+00:04:35,370 --> 00:04:38,710
+Dans l'effet chante, il s'agit là
+
+68
+00:04:38,710 --> 00:04:42,930
+d'un défaut de ventilation avec un rapport
+
+69
+00:04:42,930 --> 00:04:45,970
+ventilation-perfusion qui est inférieur à 1.
+
+70
+00:04:46,770 --> 00:04:49,310
+Et dans l'effet espace mort, il s
+
+71
+00:04:49,310 --> 00:04:52,110
+'agit d'un défaut de perfusion avec un
+
+72
+00:04:52,110 --> 00:04:55,130
+rapport ventilation-perfusion supérieur à 1.
+
+73
+00:04:55,130 --> 00:04:58,350
+Dans l'effet chante, il résulte de zones
+
+74
+00:04:58,350 --> 00:05:01,450
+où la ventilation est faible ou absente par
+
+75
+00:05:01,450 --> 00:05:04,330
+rapport à la perfusion, avec un rapport ventilation
+
+76
+00:05:04,330 --> 00:05:09,330
+-perfusion inférieur à 1 ou proche de 0.
+
+77
+00:05:10,930 --> 00:05:14,090
+Les causes principales sont les athélectasies, l'épinomopathie
+
+78
+00:05:14,090 --> 00:05:14,950
+et l'œdème pulmonaire.
+
+79
+00:05:14,950 --> 00:05:19,790
+L'hypoxémie n'est pas ou partiellement corrigée
+
+80
+00:05:19,790 --> 00:05:22,770
+par l'oxygène de thérapie et l'hypoxémie
+
+81
+00:05:22,770 --> 00:05:25,610
+est responsable dans cette situation d'une hyperventilation
+
+82
+00:05:25,610 --> 00:05:29,750
+réactionnelle qui empêche l'installation de l'hypercapnie.
+
+83
+00:05:29,750 --> 00:05:34,210
+Dans l'effet espace mort, il résulte de
+
+84
+00:05:34,210 --> 00:05:36,850
+zones où la perfusion est faible ou nulle
+
+85
+00:05:36,850 --> 00:05:40,310
+par rapport à la ventilation, avec un rapport
+
+86
+00:05:40,310 --> 00:05:43,790
+ventilation-perfusion supérieur à 1.
+
+87
+00:05:43,830 --> 00:05:47,390
+Les causes principales sont l'hypovolémie, l'embolie
+
+88
+00:05:47,390 --> 00:05:50,550
+pulmonaire, l'insuffisance cardiaque et dans ce cas
+
+89
+00:05:50,550 --> 00:05:55,350
+aussi l'hypoxémie responsable d'une hyperventilation réactionnelle
+
+90
+00:05:55,350 --> 00:05:58,550
+qui va empêcher l'installation de l'hypercapnie.
+
+91
+00:05:59,750 --> 00:06:05,010
+On distingue aussi l'échinte cardiovasculaire extra-pulmonaire
+
+92
+00:06:05,010 --> 00:06:08,590
+le plus fréquent et l'ouverture de foramen
+
+93
+00:06:08,590 --> 00:06:13,330
+ovale qui reste perméable, qu'on peut rencontrer
+
+94
+00:06:13,330 --> 00:06:16,870
+dans le cœur pulmonaire aigu et en cas
+
+95
+00:06:16,870 --> 00:06:20,610
+de ventilation mécanique en pression positive.
+
+96
+00:06:20,610 --> 00:06:27,930
+Une petite parenthèse concernant le calcul du gradient
+
+97
+00:06:27,930 --> 00:06:30,190
+capillaire en oxygène.
+
+98
+00:06:30,930 --> 00:06:35,630
+La différence alvéolo-artérielle en oxygène est égale
+
+99
+00:06:35,630 --> 00:06:39,070
+à la pression alvéolaire en oxygène moins la
+
+100
+00:06:39,070 --> 00:06:41,290
+pression artérielle en oxygène.
+
+101
+00:06:41,370 --> 00:06:45,330
+Toutes ces données, on peut les avoir à
+
+102
+00:06:45,330 --> 00:06:47,110
+travers la gazométrie qui va nous donner la
+
+103
+00:06:47,110 --> 00:06:48,450
+pression artérielle en oxygène.
+
+104
+00:06:48,450 --> 00:06:52,550
+Et on peut estimer la pression alvéolaire en
+
+105
+00:06:52,550 --> 00:06:53,810
+oxygène par la formule.
+
+106
+00:06:54,850 --> 00:06:57,670
+Donc la pression alvéolaire en oxygène est égale
+
+107
+00:06:57,670 --> 00:07:01,690
+à la différence entre la pression barométrique qui
+
+108
+00:07:01,690 --> 00:07:05,230
+est égale à 760 mmHg au niveau de
+
+109
+00:07:05,230 --> 00:07:08,810
+la mer et la pression partielle en vapeur
+
+110
+00:07:08,810 --> 00:07:13,210
+d'eau qui est égale à 47 mmHg
+
+111
+00:07:13,210 --> 00:07:15,310
+à 37°.
+
+112
+00:07:15,310 --> 00:07:19,530
+Multiplié par la FeO2 qu'on peut calculer
+
+113
+00:07:19,530 --> 00:07:23,070
+qui est égale à 0,21 en air
+
+114
+00:07:23,070 --> 00:07:29,310
+ambiant moins le rapport pression alvéolaire en CO2
+
+115
+00:07:29,310 --> 00:07:32,310
+sur le quotient respiratoire.
+
+116
+00:07:32,850 --> 00:07:36,530
+Alors la valeur du quotient respiratoire est assumée
+
+117
+00:07:36,530 --> 00:07:38,230
+à 0,8.
+
+118
+00:07:40,210 --> 00:07:45,870
+Et la PaCO2, la pression alvéolaire en dioxyde
+
+119
+00:07:45,870 --> 00:07:49,490
+de carbone est approchée par la valeur de
+
+120
+00:07:49,490 --> 00:07:54,530
+la pression partielle du dioxyde de carbone au
+
+121
+00:07:54,530 --> 00:07:57,210
+niveau artériel, au niveau du sang artériel.
+
+122
+00:07:57,210 --> 00:08:01,030
+Donc la valeur normale du gradient alvéolocapillaire est
+
+123
+00:08:01,030 --> 00:08:04,710
+égale à l'âge en année plus 10,
+
+124
+00:08:05,430 --> 00:08:06,790
+le tout sur 4.
+
+125
+00:08:07,370 --> 00:08:10,030
+Donc il augmente avec l'âge.
+
+126
+00:08:15,020 --> 00:08:21,280
+6 mécanismes sont impliqués dans l'hypoxémie.
+
+127
+00:08:21,920 --> 00:08:27,920
+La réduction de la pression inspirée en oxygène.
+
+128
+00:08:29,960 --> 00:08:33,440
+Le shunt droit à gauche, vrai.
+
+129
+00:08:34,179 --> 00:08:38,159
+L'effet shunt par inadéquation des rapports ventilation
+
+130
+00:08:38,159 --> 00:08:39,000
+perfusion.
+
+131
+00:08:39,799 --> 00:08:41,600
+Le trouble de la diffusion.
+
+132
+00:08:42,530 --> 00:08:48,480
+L'hypoventilation alvéolaire et la réduction de la
+
+133
+00:08:48,480 --> 00:08:51,940
+saturation en oxygène du sang veineux mêlé.
+
+134
+00:08:52,400 --> 00:08:58,280
+Le calcul du gradient capillaire en oxygène permet
+
+135
+00:08:58,280 --> 00:09:02,340
+d'identifier lorsqu'il est normal une hypoventilation
+
+136
+00:09:02,340 --> 00:09:05,980
+alvéolaire isolée et d'orienter le diagnostic étiologique
+
+137
+00:09:05,980 --> 00:09:07,460
+d'une hypoxémie.
+
+138
+00:09:07,460 --> 00:09:10,140
+Mais il nécessite la connaissance de la fraction
+
+139
+00:09:10,140 --> 00:09:14,140
+inspirée en oxygène comme on vient de le
+
+140
+00:09:14,140 --> 00:09:14,560
+voir.
+
+141
+00:09:20,480 --> 00:09:23,720
+Vous pouvez voir sur ce tableau que la
+
+142
+00:09:23,720 --> 00:09:27,720
+réduction de la pression inspirée en oxygène est
+
+143
+00:09:27,720 --> 00:09:29,300
+rencontrée dans les altitudes.
+
+144
+00:09:30,000 --> 00:09:33,920
+Le passage du sang veineux dans la circulation
+
+145
+00:09:33,920 --> 00:09:36,540
+artérielle, on peut le rencontrer dans les cardiopathies.
+
+146
+00:09:36,540 --> 00:09:40,560
+Le SDRA, les condensations pulmonaires, les fistules artérioles
+
+147
+00:09:40,560 --> 00:09:41,540
+veineuses pulmonaires.
+
+148
+00:09:42,880 --> 00:09:47,940
+Donc l'effet shunt dans les BPCO, le
+
+149
+00:09:47,940 --> 00:09:49,180
+SDRA et les pulmonopathies.
+
+150
+00:09:49,400 --> 00:09:51,920
+Les troubles de la diffusion par altération de
+
+151
+00:09:51,920 --> 00:09:54,940
+la membrane alvéolocapillaire, on peut les rencontrer dans
+
+152
+00:09:54,940 --> 00:09:56,900
+les fibroses pulmonaires et dans le SDRA.
+
+153
+00:09:57,460 --> 00:10:00,220
+L'hypoventilation alvéolaire par réduction de la ventilation
+
+154
+00:10:00,220 --> 00:10:03,500
+alvéolaire dans les cas d'atteinte de la
+
+155
+00:10:03,500 --> 00:10:04,820
+commande, dans les comas.
+
+156
+00:10:04,820 --> 00:10:09,260
+Les exacerbations de BPCO et l'asthme, les
+
+157
+00:10:09,260 --> 00:10:10,780
+pathologies neuromusculaires.
+
+158
+00:10:12,940 --> 00:10:18,140
+Le syndrome obésité et hypoventilation, la syphoscoliose.
+
+159
+00:10:18,660 --> 00:10:21,640
+Et puis donc la réduction de la SVO2.
+
+160
+00:10:22,600 --> 00:10:25,080
+Donc on peut la rencontrer dans la baisse
+
+161
+00:10:25,080 --> 00:10:27,640
+du débit cardiaque dans les anémies.
+
+162
+00:10:28,600 --> 00:10:30,960
+Et dans les situations où la consommation d
+
+163
+00:10:30,960 --> 00:10:31,820
+'oxygène augmente.
+
+164
+00:10:37,540 --> 00:10:43,780
+Et pour le diagnostic, dans les cas de
+
+165
+00:10:43,780 --> 00:10:47,160
+réduction de la pression inspirée en oxygène, le
+
+166
+00:10:47,160 --> 00:10:48,540
+rapport il est normal.
+
+167
+00:10:49,320 --> 00:10:52,820
+Ce rapport il est augmenté dans les shunt
+
+168
+00:10:52,820 --> 00:10:55,940
+droite gauche, quand il y a un effet
+
+169
+00:10:55,940 --> 00:11:00,220
+shunt et dans le trouble de la diffusion.
+
+170
+00:11:00,820 --> 00:11:05,960
+Donc le rapport il est normal dans les
+
+171
+00:11:05,960 --> 00:11:08,820
+hypoventilations alvéolaires.
+
+172
+00:11:10,940 --> 00:11:14,500
+Et dans les cas de réduction de la
+
+173
+00:11:14,500 --> 00:11:15,020
+SVO2.
+
+174
+00:11:15,540 --> 00:11:20,400
+Donc la SVO2 est inférieure à 65 dans
+
+175
+00:11:20,400 --> 00:11:24,200
+le sang artériel prélevé par le cathéterisme.
+
+176
+00:11:28,170 --> 00:11:30,690
+Et on va le voir dans la suite
+
+177
+00:11:30,690 --> 00:11:34,830
+du cours comme quoi la détresse respiratoire aiguë
+
+178
+00:11:34,830 --> 00:11:38,350
+est un tableau qui est purement clinique.
+
+179
+00:11:39,250 --> 00:11:43,410
+Qui peut mettre en jeu le pronostic vital.
+
+180
+00:11:43,410 --> 00:11:49,930
+Et que le diagnostic éthiologique repose sur un
+
+181
+00:11:49,930 --> 00:11:58,210
+certain nombre d'éléments liés à la lamnaise,
+
+182
+00:11:58,470 --> 00:12:01,330
+à l'examen clinique, à quelques examens complémentaires.
+
+183
+00:12:02,030 --> 00:12:05,950
+Pour trouver l'éthiologie parce que le traitement
+
+184
+00:12:05,950 --> 00:12:08,250
+il est à la fois symptomatique mais il
+
+185
+00:12:08,250 --> 00:12:12,890
+faut traiter toujours l'éthiologie.
+
+186
+00:12:14,350 --> 00:12:18,790
+L'atteinte de la fonction de la pompe
+
+187
+00:12:18,790 --> 00:12:19,590
+pulmonaire.
+
+188
+00:12:21,790 --> 00:12:26,690
+Donc il peut être soit primitive avec une
+
+189
+00:12:26,690 --> 00:12:29,150
+atteinte de la commande respiratoire ou une atteinte
+
+190
+00:12:29,150 --> 00:12:31,650
+neuromusculaire respiratoire.
+
+191
+00:12:31,930 --> 00:12:35,070
+Donc on a vu les éthiologies dans les
+
+192
+00:12:35,070 --> 00:12:37,470
+comas, dans les maladies neuromusculaires.
+
+193
+00:12:38,230 --> 00:12:41,270
+Ou secondaire donc à la fatigue des muscles
+
+194
+00:12:41,270 --> 00:12:42,250
+respiratoires.
+
+195
+00:12:42,250 --> 00:12:47,090
+Troisième éthiologie, les anomalies du transport de l
+
+196
+00:12:47,090 --> 00:12:47,930
+'oxygène.
+
+197
+00:12:49,790 --> 00:12:53,270
+Donc toute baisse du transport atériel en oxygène.
+
+198
+00:12:55,310 --> 00:12:59,910
+Puisque la composante essentielle du transport est dédiée
+
+199
+00:12:59,910 --> 00:13:00,770
+à l'hémoglobine.
+
+200
+00:13:01,600 --> 00:13:03,530
+Donc ça peut se voir dans les anémies,
+
+201
+00:13:03,730 --> 00:13:07,570
+dans les intoxications OCO, dans les intoxications Océanures.
+
+202
+00:13:08,510 --> 00:13:13,490
+Va retentir sur le transport en oxygène.
+
+203
+00:13:15,690 --> 00:13:18,210
+Comment faire le diagnostic d'une insuffisance respiratoire
+
+204
+00:13:18,210 --> 00:13:22,150
+aiguë ?
+
+205
+00:13:22,150 --> 00:13:24,710
+Donc l'interrogatoire quand il est possible avec
+
+206
+00:13:24,710 --> 00:13:27,650
+l'examen clinique permet d'asseoir un diagnostic.
+
+207
+00:13:27,650 --> 00:13:30,570
+Bon l'interrogatoire va permettre de voir les
+
+208
+00:13:30,570 --> 00:13:32,750
+circonstances de survenue, le mode de début.
+
+209
+00:13:33,410 --> 00:13:34,230
+Est-ce qu'il est brutal, est-ce
+
+210
+00:13:34,230 --> 00:13:35,690
+qu'il est progressif ?
+
+211
+00:13:35,690 --> 00:13:37,330
+Y a-t-il une association d'autres
+
+212
+00:13:37,330 --> 00:13:40,830
+syndromes, notamment l'atout, les explorations, les amortisies.
+
+213
+00:13:41,670 --> 00:13:43,850
+L'existence d'épisodes antérieurs.
+
+214
+00:13:44,490 --> 00:13:47,670
+L'existence d'un handicap respiratoire chronique.
+
+215
+00:13:48,750 --> 00:13:51,670
+L'existence d'une pathologie associée, notamment une
+
+216
+00:13:51,670 --> 00:13:52,930
+science cardiaque.
+
+217
+00:13:53,370 --> 00:13:54,390
+Les traitements suivis.
+
+218
+00:13:54,390 --> 00:13:56,790
+L'activité professionnelle.
+
+219
+00:13:56,990 --> 00:13:58,430
+Le contexte socio-familial.
+
+220
+00:13:59,790 --> 00:14:02,570
+Donc qui peuvent orienter le diagnostic.
+
+221
+00:14:04,250 --> 00:14:09,370
+Et il permet de qualifier la dyspnée.
+
+222
+00:14:10,650 --> 00:14:12,370
+Quel type de dyspnée.
+
+223
+00:14:12,710 --> 00:14:14,130
+Mesurer la fréquence respiratoire.
+
+224
+00:14:14,470 --> 00:14:16,050
+Rechercher les causes évidentes.
+
+225
+00:14:16,370 --> 00:14:18,110
+Une obstruction des voies aériennes supérieures.
+
+226
+00:14:18,890 --> 00:14:20,410
+Une obstruction bronchique.
+
+227
+00:14:22,190 --> 00:14:28,390
+Des indicateurs en faveur d'un étanchement pleural
+
+228
+00:14:28,390 --> 00:14:29,930
+ou liquédien à l'examen.
+
+229
+00:14:31,590 --> 00:14:33,690
+Des condensations pulmonaires.
+
+230
+00:14:34,250 --> 00:14:36,210
+L'existence d'athélectasie, d'anthisème.
+
+231
+00:14:36,850 --> 00:14:39,510
+L'insurance cardiaque droite.
+
+232
+00:14:40,370 --> 00:14:42,950
+Et d'évaluer la fonction neuromusculaire.
+
+233
+00:14:44,350 --> 00:14:46,230
+Alors quels sont les signes de détresse respiratoire
+
+234
+00:14:46,230 --> 00:14:46,630
+?
+
+235
+00:14:46,630 --> 00:14:47,570
+Vous les connaissez.
+
+236
+00:14:48,490 --> 00:14:50,890
+La dyspnée avec des signes de gravité quand
+
+237
+00:14:50,890 --> 00:14:53,730
+il y a une polypnée qui dépasse les
+
+238
+00:14:53,730 --> 00:14:55,670
+30 cycles par minute.
+
+239
+00:14:55,970 --> 00:14:58,290
+Ou une bradypnée avec un risque d'arrêt
+
+240
+00:14:58,290 --> 00:15:00,170
+respiratoire imminent.
+
+241
+00:15:00,810 --> 00:15:03,870
+L'existence de signes de lutte qui reflètent
+
+242
+00:15:03,870 --> 00:15:06,410
+une augmentation anormale du travail respiratoire.
+
+243
+00:15:06,650 --> 00:15:09,910
+Avec un tirage qui met en jeu les
+
+244
+00:15:09,910 --> 00:15:11,790
+muscles inspiratoires accessoires.
+
+245
+00:15:12,650 --> 00:15:15,170
+Avec contraction des muscles cervicaux.
+
+246
+00:15:15,310 --> 00:15:19,450
+Une dépression inspiratoire susternale et sousternale.
+
+247
+00:15:20,070 --> 00:15:23,590
+Le signe de Campbell qui est un engouffrement
+
+248
+00:15:23,590 --> 00:15:26,350
+inspiratoire de la trachée extratoracique.
+
+249
+00:15:27,150 --> 00:15:32,930
+Ou une contraction expiratoire des muscles abdominaux.
+
+250
+00:15:34,590 --> 00:15:37,090
+Toujours dans les signes de détresse respiratoire.
+
+251
+00:15:37,090 --> 00:15:43,270
+Des signes de fatigue ventilatoire par défaillance neuromusculaire
+
+252
+00:15:43,270 --> 00:15:44,850
+du système respiratoire.
+
+253
+00:15:44,990 --> 00:15:46,610
+Avec des signes d'hypercapnie, on va les
+
+254
+00:15:46,610 --> 00:15:47,290
+voir tout à l'heure.
+
+255
+00:15:48,350 --> 00:15:54,210
+Une respiration paradoxale avec une dépression inspiratoire du
+
+256
+00:15:54,210 --> 00:15:55,370
+creux épigastrique.
+
+257
+00:15:56,030 --> 00:16:01,970
+Et un synchronisme thoracobdominal traduisant une défaillance diaphragmatique.
+
+258
+00:16:01,970 --> 00:16:05,650
+La difficulté de tousser et de parler qui
+
+259
+00:16:05,650 --> 00:16:09,130
+traduit une baisse du débit expiratoire dans les
+
+260
+00:16:09,130 --> 00:16:10,430
+voies aériennes.
+
+261
+00:16:10,610 --> 00:16:13,870
+Et le pot paradoxal que vous connaissez qu
+
+262
+00:16:13,870 --> 00:16:15,590
+'on a vu dans l'asthme aigu grave.
+
+263
+00:16:17,050 --> 00:16:21,310
+Les signes d'hypoxémie, des extrémités bleuâtres avec
+
+264
+00:16:21,310 --> 00:16:22,990
+des neutrinos des extrémités.
+
+265
+00:16:23,950 --> 00:16:26,470
+Voir des troubles de conscience qui peuvent aller
+
+266
+00:16:26,470 --> 00:16:29,650
+jusqu'au coma et à l'arrêt respiratoire.
+
+267
+00:16:29,650 --> 00:16:33,410
+Les signes d'hypercapnie avec des céphalées.
+
+268
+00:16:34,470 --> 00:16:36,770
+Astérixis ou flapping tremor.
+
+269
+00:16:37,690 --> 00:16:39,410
+Somnolence jusqu'au coma.
+
+270
+00:16:39,610 --> 00:16:40,930
+Désorientation, confusion.
+
+271
+00:16:41,870 --> 00:16:44,730
+HTA, basse de dilatation cutanée.
+
+272
+00:16:45,290 --> 00:16:49,170
+Et l'hyperclinique qui associe des sueurs, hypercigalorée,
+
+273
+00:16:49,890 --> 00:16:50,450
+encombrement.
+
+274
+00:16:51,910 --> 00:16:54,650
+Alors les éléments paracliniques simples à SpO2.
+
+275
+00:16:55,210 --> 00:16:58,010
+La saturation percutanée en oxygène.
+
+276
+00:16:58,010 --> 00:17:01,410
+L'hydrogène inférieur à 90 oriente vers une
+
+277
+00:17:01,410 --> 00:17:03,130
+assurance respiratoire aiguë.
+
+278
+00:17:03,430 --> 00:17:07,109
+Il peut être normal dans la détresse respiratoire
+
+279
+00:17:07,109 --> 00:17:10,050
+aiguë sans hypoxie tissulaire.
+
+280
+00:17:10,670 --> 00:17:13,490
+Les gaz du sang artériel permettent, comme on
+
+281
+00:17:13,490 --> 00:17:15,790
+l'a vu, d'orienter vers le type
+
+282
+00:17:15,790 --> 00:17:17,270
+de détresse respiratoire aiguë.
+
+283
+00:17:18,190 --> 00:17:21,490
+Les éléments qui traduisent la gravité, c'est
+
+284
+00:17:21,490 --> 00:17:24,970
+l'hypoxémie avec une période inférieure à 60.
+
+285
+00:17:24,970 --> 00:17:30,330
+L'hypercapnie supérieure à 45 avec une acidose
+
+286
+00:17:30,330 --> 00:17:31,210
+respiratoire.
+
+287
+00:17:32,010 --> 00:17:35,150
+Et l'élévation des lactates, la radiothoracique de
+
+288
+00:17:35,150 --> 00:17:35,530
+face.
+
+289
+00:17:37,630 --> 00:17:40,910
+On va voir que, donc, dans un algorithme,
+
+290
+00:17:41,390 --> 00:17:45,190
+comment la radiothoraxe peut orienter le diagnostic.
+
+291
+00:17:45,330 --> 00:17:48,210
+L'électrocardiogramme à la recherche d'arrhythmie, de
+
+292
+00:17:48,210 --> 00:17:51,810
+troubles de repolarisation, qui oriente vers un œdème
+
+293
+00:17:51,810 --> 00:17:54,870
+aigu du poumon ou une embolie pulmonaire.
+
+294
+00:17:56,310 --> 00:17:59,950
+L'annumération formule, une anémie qui oriente vers
+
+295
+00:17:59,950 --> 00:18:02,270
+une détresse liée à une hypoxie tissulaire.
+
+296
+00:18:03,790 --> 00:18:07,270
+La polyglobulie qui oriente vers une détresse respiratoire
+
+297
+00:18:07,270 --> 00:18:09,050
+avec une insuffisance respiratoire chronique.
+
+298
+00:18:09,550 --> 00:18:12,850
+L'hyperleucocytose ou la leucopénie qui oriente vers
+
+299
+00:18:12,850 --> 00:18:13,450
+une infection.
+
+300
+00:18:14,410 --> 00:18:17,370
+La thrombopénie qui oriente vers une détresse respiratoire
+
+301
+00:18:17,370 --> 00:18:18,710
+secondaire à un sepsis.
+
+302
+00:18:19,730 --> 00:18:23,570
+Les biomarqueurs, donc, une élévation des troponines du
+
+303
+00:18:23,570 --> 00:18:26,350
+BNP ou du pro-BNP oriente vers un
+
+304
+00:18:26,350 --> 00:18:27,490
+OAP cardiogénique.
+
+305
+00:18:28,130 --> 00:18:31,930
+Et une augmentation de la procalcitonine oriente vers
+
+306
+00:18:31,930 --> 00:18:34,370
+une pathologie infectieuse.
+
+307
+00:18:34,990 --> 00:18:38,110
+Des prélèvements microbiologiques en cas de suspicion d
+
+308
+00:18:38,110 --> 00:18:38,610
+'infection.
+
+309
+00:18:39,690 --> 00:18:43,770
+L'échodoplaire cardiaque, donc, un examen très intéressant
+
+310
+00:18:43,770 --> 00:18:48,250
+qui permet le diagnostic, donc, d'une élévation
+
+311
+00:18:48,250 --> 00:18:50,630
+des pressions de remplissage au niveau du ventricule
+
+312
+00:18:50,630 --> 00:18:53,950
+gauche en cas d'œdème aigu du poumon.
+
+313
+00:18:54,770 --> 00:18:58,130
+Qui permet aussi le diagnostic des situations de
+
+314
+00:18:58,130 --> 00:19:01,970
+cœur pulmonaire aigu avec une dilatation du ventricule
+
+315
+00:19:01,970 --> 00:19:04,990
+droit, des troubles de la cinétique septale et
+
+316
+00:19:04,990 --> 00:19:07,830
+une hypertension artérielle pulmonaire qui oriente vers une
+
+317
+00:19:07,830 --> 00:19:12,810
+embolie pulmonaire ou une détresse respiratoire aiguë sur
+
+318
+00:19:12,810 --> 00:19:16,110
+un suivant respiratoire chronique ou un syndrome de
+
+319
+00:19:16,110 --> 00:19:19,110
+détresse respiratoire aigu de réanimation.
+
+320
+00:19:19,270 --> 00:19:21,990
+Le scalaire thoracique qui permet de rechercher une
+
+321
+00:19:21,990 --> 00:19:22,910
+embolie pulmonaire.
+
+322
+00:19:23,710 --> 00:19:27,670
+Donc, le diagnostic étiologique d'une atteinte paranchimateuse.
+
+323
+00:19:28,450 --> 00:19:30,910
+Le scalaire cervical en cas de suspicion d
+
+324
+00:19:30,910 --> 00:19:32,710
+'une obstruction des voies aériennes supérieures.
+
+325
+00:19:33,090 --> 00:19:35,410
+Et puis, la fibroscopie branchique qui permet de
+
+326
+00:19:35,410 --> 00:19:39,330
+réaliser des prélèvements et de faire le diagnostic
+
+327
+00:19:39,330 --> 00:19:42,990
+étiologique d'une obstruction des voies aériennes.
+
+328
+00:19:43,350 --> 00:19:46,210
+Vous voyez que tous ces examens, donc, ils
+
+329
+00:19:46,210 --> 00:19:51,350
+doivent être orientés par l'anamnèse et l
+
+330
+00:19:51,350 --> 00:19:56,670
+'examen clinique pour asseoir rapidement un diagnostic et
+
+331
+00:19:56,670 --> 00:19:58,110
+traiter l'étiologie.
+
+332
+00:19:59,790 --> 00:20:03,870
+Voilà, donc, toujours la prise en charge doit
+
+333
+00:20:03,870 --> 00:20:06,330
+être immédiate et symptomatique.
+
+334
+00:20:06,330 --> 00:20:09,650
+L'oxygène de thérapie doit être administrée en
+
+335
+00:20:09,650 --> 00:20:13,710
+cas de détresse respiratoire avec comme objectif une
+
+336
+00:20:13,710 --> 00:20:16,010
+saturation qui dépasse 90%.
+
+337
+00:20:16,010 --> 00:20:19,850
+Poser une volvénose périphérique et monitorer le patient.
+
+338
+00:20:20,250 --> 00:20:23,910
+Donc, en cas de détresse respiratoire aiguë, la
+
+339
+00:20:23,910 --> 00:20:25,170
+première question à se poser est-ce qu
+
+340
+00:20:25,170 --> 00:20:27,310
+'il y a une obstruction des voies aériennes
+
+341
+00:20:27,310 --> 00:20:27,890
+supérieures.
+
+342
+00:20:28,430 --> 00:20:29,930
+Donc, s'il y a une obstruction des
+
+343
+00:20:29,930 --> 00:20:33,590
+voies aériennes supérieures, il y a la manœuvre
+
+344
+00:20:33,590 --> 00:20:40,730
+d'Emlich qu'on peut commencer si le
+
+345
+00:20:40,730 --> 00:20:43,350
+patient ne peut pas tousser tout seul et
+
+346
+00:20:43,350 --> 00:20:44,710
+enlever le corps étranger.
+
+347
+00:20:45,650 --> 00:20:49,230
+Donc, la radio de thorax, lorsqu'elle est
+
+348
+00:20:49,230 --> 00:20:54,710
+normale, faire des gaz du sang pour voir
+
+349
+00:20:54,710 --> 00:20:56,310
+la PO2 et les bicarbonates.
+
+350
+00:20:56,310 --> 00:21:00,010
+Et là, donc, on va, s'ils sont
+
+351
+00:21:00,010 --> 00:21:02,750
+normaux ou diminués, ça peut se voir dans
+
+352
+00:21:02,750 --> 00:21:04,830
+les situations d'asthme aiguë grave, dans les
+
+353
+00:21:04,830 --> 00:21:10,890
+embolies ou dans les atteintes neuromusculaires au respiratoire.
+
+354
+00:21:11,070 --> 00:21:13,950
+Lorsque la radio, elle est anormale, il peut
+
+355
+00:21:13,950 --> 00:21:19,930
+s'agir d'anomalies pleurales, d'athélectasie ou
+
+356
+00:21:19,930 --> 00:21:21,150
+d'anomalies parenchymateuses.
+
+357
+00:21:21,730 --> 00:21:23,430
+Dans les anomalies pleurales, donc ça peut être
+
+358
+00:21:23,430 --> 00:21:26,010
+un épanchement pleural compressif ou un pneumothorax.
+
+359
+00:21:26,330 --> 00:21:29,030
+Pour les anomalies parenchymateuses, ça peut être une
+
+360
+00:21:29,030 --> 00:21:31,730
+pneumopathie, un oedème aigu du poumon ou une
+
+361
+00:21:31,730 --> 00:21:33,550
+exacerbation de pneumopathie.
+
+362
+00:21:34,050 --> 00:21:37,290
+On revient donc à la radio thoracique.
+
+363
+00:21:38,270 --> 00:21:43,550
+Pour la radio thoracique, il peut s'agir,
+
+364
+00:21:43,870 --> 00:21:46,070
+comme on a dit, d'une pathologie pleurale,
+
+365
+00:21:46,210 --> 00:21:48,810
+donc un pneumothorax ou un épanchement pleural ou
+
+366
+00:21:48,810 --> 00:21:50,250
+d'une atteinte parenchymateuse.
+
+367
+00:21:50,250 --> 00:21:54,290
+Donc ça peut être une pathologie interstitielle, un
+
+368
+00:21:54,290 --> 00:21:57,610
+SDRA, une pneumopathie infectieuse, un OAP ou une
+
+369
+00:21:57,610 --> 00:21:58,170
+athélectasie.
+
+370
+00:21:58,590 --> 00:22:01,410
+Alors dans la situation où la radio, elle
+
+371
+00:22:01,410 --> 00:22:05,710
+est claire, la différence alvéole artérielle en oxygène
+
+372
+00:22:05,710 --> 00:22:09,410
+est-elle anormale?
+
+373
+00:22:09,790 --> 00:22:11,090
+Dans ce cas, il ne faut pas penser
+
+374
+00:22:11,090 --> 00:22:14,810
+à une embolie pulmonaire ou à une exacerbation
+
+375
+00:22:14,810 --> 00:22:16,350
+de BPCO ou un asthme.
+
+376
+00:22:16,350 --> 00:22:20,870
+Et lorsqu'elle est normale, en fonction de
+
+377
+00:22:20,870 --> 00:22:25,850
+la PACO2, si la PACO2 est élevée, donc
+
+378
+00:22:25,850 --> 00:22:28,850
+ça peut être soit un coma, une atteinte
+
+379
+00:22:28,850 --> 00:22:33,050
+thoracique partielle, une pathologie non musculaire ou un
+
+380
+00:22:33,050 --> 00:22:34,710
+syndrome d'obésité ventilation.
+
+381
+00:22:35,390 --> 00:22:38,750
+Et lorsque la PACO2 n'est pas élevée,
+
+382
+00:22:40,330 --> 00:22:42,440
+donc ça peut s'agir d'un asthme,
+
+383
+00:22:42,440 --> 00:22:50,560
+une détresse respiratoire aiguë non hypoxymique ou une
+
+384
+00:22:50,560 --> 00:22:55,880
+détresse respiratoire aiguë avec hypoxie tissulaire.
+
+385
+00:22:57,820 --> 00:23:02,320
+Donc la radio thorax permet d'orienter le
+
+386
+00:23:02,320 --> 00:23:05,920
+diagnostic avec les éléments de l'anamnèse et
+
+387
+00:23:05,920 --> 00:23:08,700
+de l'examen clinique et bien sûr la
+
+388
+00:23:08,700 --> 00:23:10,040
+gazométrie si besoin.
+
+389
+00:23:12,440 --> 00:23:16,480
+Les détresses respiratoires aiguës peuvent être classées en
+
+390
+00:23:16,480 --> 00:23:19,120
+4 groupes en fonction de la présence d
+
+391
+00:23:19,120 --> 00:23:22,440
+'une hypoxémie isolée, d'une hypercapnie, d'une
+
+392
+00:23:22,440 --> 00:23:25,140
+hypoxie tissulaire ou de leur absence.
+
+393
+00:23:26,460 --> 00:23:31,420
+Ces phénomènes peuvent toutefois être associés dans le
+
+394
+00:23:31,420 --> 00:23:33,720
+cas de choc sceptique, dans les pneumopathies, dans
+
+395
+00:23:33,720 --> 00:23:38,310
+les intellectazies compliquant une maladie neuromusculaire.
+
+396
+00:23:38,310 --> 00:23:44,350
+Par ailleurs, il faut toujours rechercher un facteur
+
+397
+00:23:44,350 --> 00:23:51,790
+de décompensation au cours des détresses respiratoires aiguës,
+
+398
+00:23:52,450 --> 00:23:59,190
+hypercapniques, que ce soit un sepsis respiratoire, une
+
+399
+00:23:59,190 --> 00:24:04,450
+embolie pulmonaire, une insuffisance cardiaque, une atélectasie, un
+
+400
+00:24:04,450 --> 00:24:12,690
+pneumothorax, un mépenchement ou un contexte post-opératoire
+
+401
+00:24:12,690 --> 00:24:16,010
+qui peut décompenser une détresse respiratoire.
+
+402
+00:24:20,230 --> 00:24:23,930
+Connaître les principes de prise en charge.
+
+403
+00:24:25,770 --> 00:24:29,590
+La prise en charge doit être immédiate.
+
+404
+00:24:30,710 --> 00:24:34,870
+Donc devant une détresse respiratoire aiguë, il faut
+
+405
+00:24:34,870 --> 00:24:38,470
+appeler de l'aide, appeler le SAMU, libérer
+
+406
+00:24:38,470 --> 00:24:40,650
+les voies aériennes supérieures si besoin.
+
+407
+00:24:41,490 --> 00:24:44,550
+Un nettoyage de la bouche aux doigts est
+
+408
+00:24:44,550 --> 00:24:46,490
+à éviter pour ne pas aggraver une situation.
+
+409
+00:24:47,270 --> 00:24:50,810
+Et lorsqu'il s'agit donc d'un
+
+410
+00:24:50,810 --> 00:24:53,890
+corps étranger, soit que le patient peut tousser
+
+411
+00:24:53,890 --> 00:24:57,470
+pour éliminer le corps étranger, soit qu'il
+
+412
+00:24:57,470 --> 00:25:00,090
+faut mettre cinq claques, puis la manœuvre d
+
+413
+00:25:00,090 --> 00:25:00,510
+'Emlich.
+
+414
+00:25:01,010 --> 00:25:03,430
+L'oxygénothérapie aux masques à haute concentration.
+
+415
+00:25:03,430 --> 00:25:05,390
+L'objectif est d'avoir une saturation au
+
+416
+00:25:05,390 --> 00:25:09,570
+-delà de 90 mmHg, de 90%.
+
+417
+00:25:10,330 --> 00:25:12,630
+La pose de voies veineuses périphériques.
+
+418
+00:25:13,210 --> 00:25:16,350
+Monitorer le patient et traiter l'étiologie si
+
+419
+00:25:16,350 --> 00:25:17,590
+elle est évidente.
+
+420
+00:25:18,390 --> 00:25:23,890
+Donc les diurétiques, les bronchodilatateurs pour l'asthme.
+
+421
+00:25:25,970 --> 00:25:29,050
+Au niveau hospitalier, l'hospitalisation soit au soin
+
+422
+00:25:29,050 --> 00:25:32,290
+intensif, soit en réanimation en fonction de la
+
+423
+00:25:32,290 --> 00:25:35,030
+gravité, toujours l'apport de l'oxygène.
+
+424
+00:25:35,290 --> 00:25:37,230
+Donc l'oxygénothérapie est très importante.
+
+425
+00:25:38,170 --> 00:25:40,170
+On va voir les indications de la ventilation
+
+426
+00:25:40,170 --> 00:25:44,710
+non-invasive ou de l'intubation avec ventilation
+
+427
+00:25:44,710 --> 00:25:46,030
+invasive.
+
+428
+00:25:46,590 --> 00:25:48,990
+Et puis le traitement de l'étiologique et
+
+429
+00:25:48,990 --> 00:25:50,370
+des facteurs de décompensation.
+
+430
+00:25:52,130 --> 00:25:56,290
+Donc l'oxygénothérapie permet l'enrichissement en oxygène,
+
+431
+00:25:58,010 --> 00:26:02,030
+qui peut aller jusqu'à 100%.
+
+432
+00:26:02,800 --> 00:26:05,850
+Et l'objectif est de prévenir et de
+
+433
+00:26:05,850 --> 00:26:08,810
+traiter les hypoximies, quelle que soit l'étiologie.
+
+434
+00:26:09,750 --> 00:26:12,810
+Les indications, c'est toutes les hypoxies, quand
+
+435
+00:26:12,810 --> 00:26:16,050
+la saturation est inférieure à 90%.
+
+436
+00:26:16,050 --> 00:26:20,190
+Donc une saturation inférieure à 90% correspond
+
+437
+00:26:20,190 --> 00:26:22,430
+à peu près à une période inférieure à
+
+438
+00:26:22,430 --> 00:26:23,650
+60 mmHg.
+
+439
+00:26:26,310 --> 00:26:29,810
+Donc l'oxygène peut être apporté soit par
+
+440
+00:26:29,810 --> 00:26:33,350
+des lunettes, soit par un masque simple, soit
+
+441
+00:26:33,350 --> 00:26:36,710
+par un masque à haute concentration, soit par
+
+442
+00:26:36,710 --> 00:26:43,970
+une interface pour oxygénothérapie à haut débit, ou
+
+443
+00:26:43,970 --> 00:26:49,150
+par des interfaces pour la ventilation non-invasive.
+
+444
+00:26:49,490 --> 00:26:53,950
+Ici vous avez la valve de Bosignac pour
+
+445
+00:26:53,950 --> 00:26:56,410
+la ventilation non-invasive.
+
+446
+00:26:57,790 --> 00:27:00,250
+Alors, quelles sont les indications de la ventilation
+
+447
+00:27:00,250 --> 00:27:01,730
+mécanique ?
+
+448
+00:27:01,730 --> 00:27:06,730
+Donc, en bref, c'est lorsque la ventilation
+
+449
+00:27:06,730 --> 00:27:11,190
+non-invasive a une place très intéressante actuellement
+
+450
+00:27:12,010 --> 00:27:15,530
+dans les unités de soins intensifs, de cardiologie
+
+451
+00:27:15,530 --> 00:27:17,930
+et de pneumologie.
+
+452
+00:27:19,070 --> 00:27:21,970
+Ils sont indiqués dans les cas d'OAP,
+
+453
+00:27:21,970 --> 00:27:24,510
+d'odènes aiguës du poumon, des exacerbations de
+
+454
+00:27:24,510 --> 00:27:27,330
+BPCO avec acidoses respiratoires.
+
+455
+00:27:28,310 --> 00:27:31,390
+Dans les détresses respiratoires aiguës chez les patients
+
+456
+00:27:31,390 --> 00:27:34,930
+qui sont immunodéprimés, il faut privilégier la ventilation
+
+457
+00:27:34,930 --> 00:27:35,610
+non-invasive.
+
+458
+00:27:36,530 --> 00:27:39,750
+Et aussi dans le contexte post-opératoire, on
+
+459
+00:27:39,750 --> 00:27:43,170
+utilise la ventilation non-invasive pour les hypoxies
+
+460
+00:27:43,170 --> 00:27:44,330
+post-opératoires.
+
+461
+00:27:45,410 --> 00:27:49,370
+La ventilation mécanique est réservée aux patients qui
+
+462
+00:27:49,370 --> 00:27:52,370
+présentent des troubles de conscience, des signes d
+
+463
+00:27:52,370 --> 00:27:56,910
+'épuisement musculaire, à l'échec de la ventilation
+
+464
+00:27:56,910 --> 00:28:03,330
+non-invasive et aux états de choc incontrôlés
+
+465
+00:28:03,330 --> 00:28:06,030
+et dans quelques situations d'apnée et de
+
+466
+00:28:06,030 --> 00:28:08,050
+troubles du rythme ventilatoire.
+
+467
+00:28:09,690 --> 00:28:14,370
+Alors, on va passer à un syndrome qui
+
+468
+00:28:14,370 --> 00:28:16,910
+est rencontré en milieu de réanimation, qui est
+
+469
+00:28:16,910 --> 00:28:20,650
+le syndrome de détresse respiratoire aiguë.
+
+470
+00:28:21,230 --> 00:28:25,110
+Donc, le syndrome de détresse respiratoire aiguë, il
+
+471
+00:28:25,110 --> 00:28:27,870
+se manifeste comme une détresse respiratoire aiguë, mais
+
+472
+00:28:27,870 --> 00:28:30,410
+il est la conséquence d'une lésion de
+
+473
+00:28:30,410 --> 00:28:32,170
+la membrane alvéolocapillaire.
+
+474
+00:28:33,030 --> 00:28:35,030
+Il s'agit là donc d'un syndrome
+
+475
+00:28:36,210 --> 00:28:38,810
+qui est à l'origine d'une augmentation
+
+476
+00:28:38,810 --> 00:28:42,650
+de la perméabilité et d'un œdème pulmonaire
+
+477
+00:28:42,650 --> 00:28:45,550
+lésionnel qui s'oppose point par point à
+
+478
+00:28:45,550 --> 00:28:48,270
+l'œdème aiguë du poumon hémodynamique.
+
+479
+00:28:49,150 --> 00:28:52,630
+La mortalité reste élevée, entre 30 et 50
+
+480
+00:28:52,630 --> 00:28:56,430
+%, et n'est pas liée à la
+
+481
+00:28:56,430 --> 00:29:00,030
+détresse respiratoire, mais plutôt à la défaillance multiviscérale
+
+482
+00:29:01,070 --> 00:29:07,790
+en lien avec la cause du SDR. L
+
+483
+00:29:07,790 --> 00:29:10,430
+'atteinte de la membrane alvéolocapillaire est la conséquence
+
+484
+00:29:10,430 --> 00:29:13,750
+d'une agression pulmonaire qui constitue un facteur
+
+485
+00:29:13,750 --> 00:29:16,910
+de risque du SDR. L'agression pulmonaire, elle
+
+486
+00:29:16,910 --> 00:29:21,190
+peut être directe, agression épithéliale pulmonaire par un
+
+487
+00:29:21,190 --> 00:29:25,350
+facteur provenant des phrasées aériennes, donc ça peut
+
+488
+00:29:25,350 --> 00:29:27,290
+se voir dans l'épinémpathie, l'inhalation de
+
+489
+00:29:27,290 --> 00:29:31,030
+liquide gastrique, les traumatismes thoraciques, les noyades, les
+
+490
+00:29:31,030 --> 00:29:35,250
+lésions induites par la ventilation, ou indirecte, agression
+
+491
+00:29:35,250 --> 00:29:39,090
+endothéliale par un facteur provenant de la circulation
+
+492
+00:29:39,090 --> 00:29:39,730
+pulmonaire.
+
+493
+00:29:40,710 --> 00:29:45,390
+Les facteurs sont nombreux, mais les causes infectieuses
+
+494
+00:29:45,390 --> 00:29:47,650
+sont de loin les plus fréquentes, donc le
+
+495
+00:29:47,650 --> 00:29:50,990
+sepsis extra-respiratoire, mais on peut le voir
+
+496
+00:29:50,990 --> 00:29:55,410
+dans les polytraumatismes, dans la transfusion, le TRALI,
+
+497
+00:29:55,570 --> 00:29:58,590
+donc Transfusion Related Acute Lung Injury, dans les
+
+498
+00:29:58,590 --> 00:30:02,930
+situations de brûlure, la pancréatite aiguë, le choc
+
+499
+00:30:02,930 --> 00:30:07,450
+non-cardiogénique, les embolies graisseuses qui se voient
+
+500
+00:30:07,450 --> 00:30:10,370
+dans les cas de fractures désolantes chez les
+
+501
+00:30:10,370 --> 00:30:16,250
+sujets jeunes, généralement, les intrusifications médicamenteuses, la
+
+502
+00:30:16,250 --> 00:30:19,510
+circulation extracorporelle, donc les causes sont nombreuses, on
+
+503
+00:30:19,510 --> 00:30:20,590
+en a cité quelques-unes.
+
+504
+00:30:22,570 --> 00:30:26,410
+Alors les lésions histologiques, il peut s'agir,
+
+505
+00:30:26,810 --> 00:30:29,970
+donc, c'est une agression de la membrane
+
+506
+00:30:29,970 --> 00:30:37,610
+alvéolocapillaire, qui va entraîner des troubles de la
+
+507
+00:30:37,610 --> 00:30:44,250
+perméabilité de la barrière alvéocapillaire, des infiltrats, comme
+
+508
+00:30:44,250 --> 00:30:46,410
+vous le voyez sur le schéma, par des
+
+509
+00:30:46,410 --> 00:30:51,590
+cellules mononucléaires, une réaction inflammatoire pulmonaire, une atteinte
+
+510
+00:30:51,590 --> 00:30:56,810
+de la micro-circulation, une inactivation du surfactant,
+
+511
+00:30:57,050 --> 00:31:00,410
+et comme conséquence, une dysfonction de la résorption
+
+512
+00:31:00,410 --> 00:31:04,430
+de l'œdème pulmonaire, avec un retentissement, donc,
+
+513
+00:31:04,590 --> 00:31:06,010
+sur l'hématose.
+
+514
+00:31:06,990 --> 00:31:09,450
+Les conséquences, donc, sur le poumon, vous le
+
+515
+00:31:09,450 --> 00:31:15,390
+voyez, donc, sur ce scanner, où on voit,
+
+516
+00:31:15,450 --> 00:31:19,270
+donc, que il y a une réduction du
+
+517
+00:31:19,270 --> 00:31:22,250
+poumon qui est aéré, une réduction importante du
+
+518
+00:31:22,250 --> 00:31:23,930
+volume pulmonaire aéré, c'est ce qu'on
+
+519
+00:31:23,930 --> 00:31:27,130
+appelle le baby link, donc le poumon, c
+
+520
+00:31:27,130 --> 00:31:32,230
+'est un poumon qui réduit, donc, c'est
+
+521
+00:31:32,230 --> 00:31:34,790
+comme le poumon d'un adulte devient comme
+
+522
+00:31:34,790 --> 00:31:36,710
+le poumon d'un enfant.
+
+523
+00:31:38,010 --> 00:31:41,570
+L'échinte intra-pulmonaire, car le sang va
+
+524
+00:31:41,570 --> 00:31:44,250
+passer à travers le poumon sans être oxygéné,
+
+525
+00:31:44,390 --> 00:31:47,250
+donc rappelez-vous de l'échinte, l'administration
+
+526
+00:31:47,250 --> 00:31:51,290
+de l'oxygène seul, donc, est souvent peu
+
+527
+00:31:51,290 --> 00:31:55,390
+efficace, il faut améliorer aussi la réouverture des
+
+528
+00:31:55,390 --> 00:31:59,150
+alvéoles par l'utilisation de la ventilation mécanique
+
+529
+00:31:59,150 --> 00:32:04,650
+et de la pression expiratoire positive sous ventilation
+
+530
+00:32:04,650 --> 00:32:07,870
+mécanique et, donc, l'atteinte va entraîner une
+
+531
+00:32:07,870 --> 00:32:10,150
+diminution de la compliance du poumon qui devient
+
+532
+00:32:10,150 --> 00:32:13,910
+rigide et, comme conséquence, il y a une
+
+533
+00:32:13,910 --> 00:32:17,550
+hypertension artérielle pulmonaire qui est la conséquence de
+
+534
+00:32:17,550 --> 00:32:21,570
+la vasoconstriction pulmonaire hypoxique, mais aussi des thromboses
+
+535
+00:32:21,570 --> 00:32:22,530
+capillaires.
+
+536
+00:32:24,890 --> 00:32:29,530
+Ceci nous amène à la définition du syndrome
+
+537
+00:32:29,530 --> 00:32:32,370
+de détresse respiratoire qui a été revu en
+
+538
+00:32:32,370 --> 00:32:38,370
+2016 et, actuellement, les critères diagnostiques sont définis
+
+539
+00:32:38,370 --> 00:32:44,450
+par un début, apparition aiguë de symptômes respiratoires,
+
+540
+00:32:45,030 --> 00:32:47,330
+au maximum une semaine après la survenue d
+
+541
+00:32:47,330 --> 00:32:50,490
+'un facteur déclenchant habituel du SDR1.
+
+542
+00:32:51,010 --> 00:32:54,650
+Donc l'imagerie, la radiographie du thorax standard
+
+543
+00:32:54,650 --> 00:32:57,710
+ou le scanner thoracique, qu'est-ce qu
+
+544
+00:32:57,710 --> 00:32:58,190
+'ils montrent ?
+
+545
+00:32:58,190 --> 00:33:02,090
+Ils montrent les opacités pulmonaires bilatérales non complètement
+
+546
+00:33:02,090 --> 00:33:05,170
+expliquées par un épanchement pulmonaire ou une atélectasie
+
+547
+00:33:05,170 --> 00:33:07,710
+ou des nodules pulmonaires.
+
+548
+00:33:08,290 --> 00:33:11,970
+L'origine de l'œdème pulmonaire, donc, c
+
+549
+00:33:11,970 --> 00:33:16,290
+'est une détresse respiratoire non complètement expliquée par
+
+550
+00:33:16,290 --> 00:33:19,990
+une défaillance cardiaque ou une augmentation de la
+
+551
+00:33:19,990 --> 00:33:20,490
+volémie.
+
+552
+00:33:21,770 --> 00:33:26,370
+Une échographie cardiaque, elle est repise pour éliminer
+
+553
+00:33:26,370 --> 00:33:31,710
+les pathologies, donc si aucun facteur de risque
+
+554
+00:33:31,710 --> 00:33:33,730
+de SDR1 n'est identifié.
+
+555
+00:33:34,950 --> 00:33:38,490
+Et, donc, l'hypoxémie, elle est présente avec
+
+556
+00:33:38,490 --> 00:33:42,410
+un rapport PO2 sur FeO2 inférieur à 300
+
+557
+00:33:42,410 --> 00:33:47,670
+mm de mercure sous ventilation mécanique, donc non
+
+558
+00:33:47,670 --> 00:33:50,570
+invasive ou invasive.
+
+559
+00:33:52,690 --> 00:33:58,410
+Donc, 4 critères, le début, moins d'une
+
+560
+00:33:58,410 --> 00:34:02,090
+semaine après la survenue d'un facteur de
+
+561
+00:34:02,090 --> 00:34:06,450
+risque avec des symptômes respiratoires, l'imagerie qui
+
+562
+00:34:06,450 --> 00:34:13,949
+montre une opacité bilatérale, OAP non cardiogénique et
+
+563
+00:34:13,949 --> 00:34:17,330
+une hypoxémie définie par un rapport PO2 sur
+
+564
+00:34:17,330 --> 00:34:20,170
+FeO2 inférieur ou égal à 300 mm de
+
+565
+00:34:20,170 --> 00:34:20,570
+mercure.
+
+566
+00:34:22,489 --> 00:34:25,690
+Alors, les stades de gravité, on distingue les
+
+567
+00:34:25,690 --> 00:34:31,070
+SDR allégés définis par une PO2 sur FeO2
+
+568
+00:34:31,070 --> 00:34:36,530
+entre 200 et 300, en administrant une PEP
+
+569
+00:34:36,530 --> 00:34:38,949
+qui est supérieure ou égale à 5 mm
+
+570
+00:34:38,949 --> 00:34:44,030
+de mercure, modérée avec un rapport entre 100
+
+571
+00:34:44,030 --> 00:34:49,530
+et 200 et sévère lorsque ce rapport est
+
+572
+00:34:49,530 --> 00:34:52,250
+inférieur ou égal à 100 mm de mercure.
+
+573
+00:34:55,750 --> 00:34:59,930
+Le traitement, il est éthiologique et il va
+
+574
+00:34:59,930 --> 00:35:01,290
+dépendre de la cause, mais il y a
+
+575
+00:35:01,290 --> 00:35:05,790
+aussi, donc, la ventilation mécanique, des traitements adjuvants
+
+576
+00:35:05,790 --> 00:35:10,110
+comme le déquibultus ventral, la sédation, l'analgésie,
+
+577
+00:35:10,210 --> 00:35:11,010
+l'actuarisation.
+
+578
+00:35:13,110 --> 00:35:16,350
+Les traitements de l'hypoxémie réfractaire, on va
+
+579
+00:35:16,350 --> 00:35:19,230
+donc juste les citer, le monoxyde d'azote
+
+580
+00:35:19,230 --> 00:35:23,830
+inhalé et l'ECMO qui est une méthode
+
+581
+00:35:23,830 --> 00:35:26,930
+d'assistance circulatoire et respiratoire.
+
+582
+00:35:28,550 --> 00:35:31,050
+Donc la ventilation mécanique, donc l'objectif, c
+
+583
+00:35:31,050 --> 00:35:31,510
+'est quoi ?
+
+584
+00:35:31,510 --> 00:35:33,750
+Donc c'est d'avoir une saturation entre
+
+585
+00:35:33,750 --> 00:35:37,290
+88 et 95 % et de prévenir la
+
+586
+00:35:37,290 --> 00:35:40,990
+survenue de lésions pulmonaires induites par la ventilation
+
+587
+00:35:40,990 --> 00:35:44,030
+mécanique, notamment ce qu'on appelle les barotraumatismes
+
+588
+00:35:44,030 --> 00:35:46,910
+liés à la pression qui peuvent entraîner un
+
+589
+00:35:46,910 --> 00:35:53,950
+pelomotorax ou des lésions de volotraumatismes liées au
+
+590
+00:35:53,950 --> 00:35:54,330
+volume.
+
+591
+00:35:55,110 --> 00:35:57,130
+Les principes, c'est quoi ?
+
+592
+00:35:57,130 --> 00:35:58,970
+C'est de limiter la surdistension par des
+
+593
+00:35:58,970 --> 00:36:02,970
+petits volumes à 6 millilitres par kilo, une
+
+594
+00:36:02,970 --> 00:36:04,810
+pression de plateau qui ne dépasse pas 30
+
+595
+00:36:04,810 --> 00:36:06,150
+centimètres d'eau.
+
+596
+00:36:07,490 --> 00:36:11,250
+Et ceci pour éviter le collapsus alvéolaire et
+
+597
+00:36:11,250 --> 00:36:15,150
+de recruter le maximum d'alvéoles en utilisant
+
+598
+00:36:16,610 --> 00:36:23,030
+donc une pression expiratoire positive, la BEP et
+
+599
+00:36:23,030 --> 00:36:24,130
+des manœuvres de recrutement.
+
+600
+00:36:24,130 --> 00:36:27,010
+On peut parler de ça lors des séances
+
+601
+00:36:27,010 --> 00:36:28,030
+interactives.
+
+602
+00:36:29,010 --> 00:36:30,770
+Ce n'est pas l'objectif de ce
+
+603
+00:36:30,770 --> 00:36:31,090
+cours.
+
+604
+00:36:32,570 --> 00:36:37,510
+Sachez que la ventilation mécanique est un outil
+
+605
+00:36:39,750 --> 00:36:42,610
+intéressant dans le SDA mais il ne faut
+
+606
+00:36:42,610 --> 00:36:44,750
+pas rentrer dans les détails.
+
+607
+00:36:47,090 --> 00:36:50,870
+La sédation analgésique est indiquée dans les formes
+
+608
+00:36:50,870 --> 00:36:53,930
+modérées les plus hypoxéniques.
+
+609
+00:36:54,510 --> 00:36:57,750
+La sédation utilise un hypnotique et l'analgésie
+
+610
+00:36:57,750 --> 00:36:58,790
+utilise un hypnotisme.
+
+611
+00:36:59,470 --> 00:37:04,170
+Le traitement adjuvant, la curarisation pendant quelques jours
+
+612
+00:37:04,170 --> 00:37:05,450
+peut être intéressante.
+
+613
+00:37:05,550 --> 00:37:08,450
+Le dicubitus ventral, on va le voir, est
+
+614
+00:37:08,450 --> 00:37:11,770
+indiqué dans les formes les plus graves avec
+
+615
+00:37:11,770 --> 00:37:14,110
+une période sur effet O2 inférieure à 100.
+
+616
+00:37:14,730 --> 00:37:16,770
+Il a un effet bénéfique sur l'oxygénation
+
+617
+00:37:16,770 --> 00:37:19,910
+et la mortalité.
+
+618
+00:37:21,450 --> 00:37:26,970
+Là vous voyez un scanner en position de
+
+619
+00:37:26,970 --> 00:37:29,830
+dicubitus dorsal et l'autre pour le même
+
+620
+00:37:29,830 --> 00:37:34,990
+patient en dicubitus ventral et ça permet d
+
+621
+00:37:34,990 --> 00:37:36,050
+'améliorer la ventilation.
+
+622
+00:37:36,330 --> 00:37:38,410
+Vous voyez que il y a un recrutement
+
+623
+00:37:38,410 --> 00:37:42,230
+des bases quand on passe de la position
+
+624
+00:37:42,230 --> 00:37:44,230
+dorsale à la position ventrale, il y a
+
+625
+00:37:44,230 --> 00:37:47,110
+une amélioration de la ventilation des zones postérieures
+
+626
+00:37:47,110 --> 00:37:49,870
+et par conséquent une amélioration du rapport ventilation
+
+627
+00:37:49,870 --> 00:37:53,010
+-perfusion et du drainage branchique.
+
+628
+00:37:54,550 --> 00:37:57,210
+Enfin, les traitements de l'hypoxémie, il y
+
+629
+00:37:57,210 --> 00:37:58,450
+a l'homéoxyde d'azote inhalé.
+
+630
+00:37:58,990 --> 00:38:02,450
+C'est un vasodilatateur sélectif au niveau des
+
+631
+00:38:02,450 --> 00:38:08,190
+zones où ce gaz arrive au niveau des
+
+632
+00:38:08,190 --> 00:38:11,090
+alvéoles ventilées et ça permet de diminuer la
+
+633
+00:38:11,090 --> 00:38:13,850
+perfusion pulmonaire des zones qui sont mal ventilées
+
+634
+00:38:13,850 --> 00:38:17,150
+et de diminuer le shunt intrapulmonaire et d
+
+635
+00:38:17,150 --> 00:38:20,130
+'améliorer l'oxygénation mais il n'a pas
+
+636
+00:38:20,130 --> 00:38:24,170
+montré d'impact sur la mortalité.
+
+637
+00:38:24,510 --> 00:38:27,750
+Il est indiqué dans les hypoxies mirefractaires et
+
+638
+00:38:27,750 --> 00:38:30,810
+dans l'hypertension artérielle pulmonaire sévère.
+
+639
+00:38:31,450 --> 00:38:33,770
+Pour l'ecmo, donc l'ecmo est vénovéneuse,
+
+640
+00:38:33,870 --> 00:38:36,970
+il est utilisé comme technique de sauvetage quand
+
+641
+00:38:36,970 --> 00:38:42,850
+le traitement est maximal avec persistance d'une
+
+642
+00:38:42,850 --> 00:38:43,330
+hypoxie.
+
+643
+00:38:43,670 --> 00:38:44,490
+Je vous remercie.

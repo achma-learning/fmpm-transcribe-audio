@@ -1,0 +1,3791 @@
+1
+00:00:03,140 --> 00:00:09,780
+Bonjour, nous entamons, suite au cours des généralités,
+
+2
+00:00:09,960 --> 00:00:12,980
+notre cours sur le diabète de type 2.
+
+3
+00:00:13,780 --> 00:00:15,540
+Comme je vous ai dit, c'est le
+
+4
+00:00:15,540 --> 00:00:19,380
+diabète le plus fréquent de tous les diabètes.
+
+5
+00:00:19,900 --> 00:00:21,860
+On a dit dans le cours des généralités
+
+6
+00:00:21,860 --> 00:00:23,500
+qu'il n'existe pas un seul diabète,
+
+7
+00:00:23,600 --> 00:00:26,620
+mais plusieurs diabètes et que le diabète de
+
+8
+00:00:26,620 --> 00:00:32,700
+type 2 constitue le diabète le plus prédominant.
+
+9
+00:00:35,630 --> 00:00:39,810
+Le diabète de type 2 constitue 80%
+
+10
+00:00:39,810 --> 00:00:41,150
+des diabètes.
+
+11
+00:00:42,650 --> 00:00:44,950
+C'est une entité hétérogène.
+
+12
+00:00:47,070 --> 00:00:50,190
+Et dans les signes cliniques, dans le tableau
+
+13
+00:00:50,190 --> 00:00:53,590
+clinique, on note l'importance de l'hérédité,
+
+14
+00:00:53,590 --> 00:00:55,630
+souvent chez les diabétiques de type 2.
+
+15
+00:00:56,250 --> 00:00:58,730
+L'hérédité diabétique est positive chez les parents
+
+16
+00:00:58,730 --> 00:00:59,850
+ou la famille.
+
+17
+00:01:01,230 --> 00:01:05,070
+On retrouve l'obésité, on retrouve l'âge
+
+18
+00:01:05,070 --> 00:01:09,050
+et on retrouve l'évolutivité de la maladie.
+
+19
+00:01:09,550 --> 00:01:11,330
+Ça veut dire quoi l'évolutivité de la
+
+20
+00:01:11,330 --> 00:01:11,710
+maladie?
+
+21
+00:01:11,830 --> 00:01:13,990
+C'est que dans ce type de diabète,
+
+22
+00:01:14,830 --> 00:01:16,970
+contrairement au diabète qu'on va voir, surtout
+
+23
+00:01:16,970 --> 00:01:20,550
+le diabète de type 1, on peut découvrir
+
+24
+00:01:20,550 --> 00:01:24,330
+le diabète à un stade évolutif ou évoluer
+
+25
+00:01:24,330 --> 00:01:27,150
+de la maladie au stade des complications dégénératives.
+
+26
+00:01:28,890 --> 00:01:33,570
+Les mécanismes physiopathologiques du diabète de type 2,
+
+27
+00:01:34,590 --> 00:01:36,730
+les plus communs, les plus classiques sont l
+
+28
+00:01:36,730 --> 00:01:38,430
+'insulinorésistance et l'insulinopénie.
+
+29
+00:01:38,570 --> 00:01:40,250
+Vous les connaissez, on en a parlé.
+
+30
+00:01:41,090 --> 00:01:46,050
+Mais, mais, mais, mais, il existe de nouveaux
+
+31
+00:01:46,050 --> 00:01:50,930
+mécanismes physiopathologiques qu'on va étayer dans ce
+
+32
+00:01:50,930 --> 00:01:51,230
+cours.
+
+33
+00:01:51,970 --> 00:01:55,070
+Donc il y a l'effet incrésime dont
+
+34
+00:01:55,070 --> 00:01:57,670
+j'ai parlé les deux dernières années.
+
+35
+00:01:58,850 --> 00:02:02,770
+Mais il y a un nouveau mécanisme physiopathologique.
+
+36
+00:02:03,730 --> 00:02:07,449
+Donc je vais en parler pour la première
+
+37
+00:02:07,449 --> 00:02:11,870
+fois lors de ce cours qui est le
+
+38
+00:02:11,870 --> 00:02:16,510
+mécanisme lié à la régulation rénale, le rôle
+
+39
+00:02:16,510 --> 00:02:20,170
+du rein dans la physiopathologie du type 2.
+
+40
+00:02:21,170 --> 00:02:27,410
+Donc j'espère que vous serez attentifs aux
+
+41
+00:02:27,410 --> 00:02:31,770
+nouvelles notions qui seront citées dans ce cours.
+
+42
+00:02:33,740 --> 00:02:38,200
+Lors de ce cours, on va parler de
+
+43
+00:02:38,200 --> 00:02:40,460
+l'épidémiologie du diabète de type 2, surtout
+
+44
+00:02:40,460 --> 00:02:41,120
+au Maroc.
+
+45
+00:02:42,260 --> 00:02:46,240
+On va étayer les mécanismes physiopathologiques et cette
+
+46
+00:02:46,240 --> 00:02:48,940
+année, c'est exceptionnel, donc on va, en
+
+47
+00:02:48,940 --> 00:02:52,640
+plus des mécanismes physiopathologiques classiques que vous connaissez,
+
+48
+00:02:52,760 --> 00:02:57,040
+c'est l'insulinorésistance et l'insulinopénie, on
+
+49
+00:02:57,040 --> 00:02:58,520
+va traiter les nouveaux mécanismes.
+
+50
+00:02:59,380 --> 00:03:03,780
+L'effet incrétine dont j'ai parlé lors
+
+51
+00:03:03,780 --> 00:03:07,880
+du cours des deux années dernières, mais on
+
+52
+00:03:07,880 --> 00:03:12,240
+va parler d'un nouveau mécanisme physiopathologique qui
+
+53
+00:03:12,240 --> 00:03:14,300
+est le rôle du rein dans la physiopathologie
+
+54
+00:03:14,300 --> 00:03:16,000
+du diabète de type 2, qui est la
+
+55
+00:03:16,000 --> 00:03:20,460
+nouvelle cible thérapeutique actuellement dans le monde de
+
+56
+00:03:20,460 --> 00:03:21,360
+la diabétologie.
+
+57
+00:03:22,320 --> 00:03:24,420
+Donc, notion très importante.
+
+58
+00:03:26,020 --> 00:03:29,660
+Ensuite, on va parler de la présentation clinique
+
+59
+00:03:29,660 --> 00:03:30,860
+du diabète de type 2.
+
+60
+00:03:31,040 --> 00:03:35,120
+Et là, je vais anticiper et souligner l
+
+61
+00:03:35,120 --> 00:03:42,040
+'importance de savoir que le diabète de type
+
+62
+00:03:42,040 --> 00:03:46,560
+2 est une maladie insidieuse, asymptomatique, qui peut
+
+63
+00:03:46,560 --> 00:03:49,420
+se révéler d'emblée lors des complications dégénératives.
+
+64
+00:03:50,390 --> 00:03:56,340
+Et bien sûr, on va finir avec l
+
+65
+00:03:56,340 --> 00:04:00,880
+'exploration tant clinique que paraclinique d'un diabétique
+
+66
+00:04:00,880 --> 00:04:01,600
+de type 2.
+
+67
+00:04:07,970 --> 00:04:11,370
+Les chiffres dont on a parlé au cours
+
+68
+00:04:11,370 --> 00:04:15,750
+des généralités, c'est les chiffres du diabète
+
+69
+00:04:15,750 --> 00:04:16,410
+de type 2.
+
+70
+00:04:17,250 --> 00:04:21,070
+Donc, les chiffres qui sont publiés par le
+
+71
+00:04:21,070 --> 00:04:23,390
+ministère de la Santé et par l'IDF
+
+72
+00:04:23,390 --> 00:04:27,210
+ou l'OMS dont on a parlé, concernent
+
+73
+00:04:27,210 --> 00:04:29,270
+principalement le diabète de type 2 parce que
+
+74
+00:04:29,270 --> 00:04:30,870
+le diabète de type 2, c'est le
+
+75
+00:04:30,870 --> 00:04:31,710
+plus fréquent.
+
+76
+00:04:33,130 --> 00:04:34,930
+Le diabète de type 2, c'est un
+
+77
+00:04:34,930 --> 00:04:39,710
+indicateur de la prévalence mondiale du diabète.
+
+78
+00:04:40,690 --> 00:04:42,750
+Donc, les chiffres que je vous ai annoncés
+
+79
+00:04:42,750 --> 00:04:47,290
+au cours des généralités, ce sont les chiffres
+
+80
+00:04:47,290 --> 00:04:49,230
+qui intéressent le diabète de type 2.
+
+81
+00:04:49,430 --> 00:04:50,910
+Et je vous ai mis un chiffre par
+
+82
+00:04:50,910 --> 00:04:53,330
+rapport à l'incidence du diabète de type
+
+83
+00:04:53,330 --> 00:04:53,590
+1.
+
+84
+00:04:54,290 --> 00:04:56,370
+C'était, je pense, 3 700 nouveaux cas
+
+85
+00:04:56,370 --> 00:05:00,270
+au Maroc pendant l'année de la publication
+
+86
+00:05:00,270 --> 00:05:01,150
+des chiffres.
+
+87
+00:05:02,780 --> 00:05:07,440
+Alors, je vous rappelle que la prévalence mondiale
+
+88
+00:05:07,440 --> 00:05:10,940
+est de 463 millions jusqu'à l'update,
+
+89
+00:05:11,100 --> 00:05:16,060
+la mise à jour récente, que l'augmentation
+
+90
+00:05:16,060 --> 00:05:21,860
+sera explosive, donc l'incidence va doubler dans
+
+91
+00:05:21,860 --> 00:05:23,000
+les décennies à venir.
+
+92
+00:05:23,820 --> 00:05:25,580
+C'est un problème majeur de santé publique
+
+93
+00:05:25,580 --> 00:05:26,160
+au Maroc.
+
+94
+00:05:26,780 --> 00:05:29,900
+10,6% de la population générale sont
+
+95
+00:05:29,900 --> 00:05:30,580
+diabétiques.
+
+96
+00:05:30,580 --> 00:05:36,420
+Et quand on voit la prévalence par âge,
+
+97
+00:05:36,920 --> 00:05:40,840
+lorsque vous prenez la population marocaine de plus
+
+98
+00:05:40,840 --> 00:05:42,620
+de 40 ans, vous tombez sur un chiffre
+
+99
+00:05:42,620 --> 00:05:45,280
+de 11,5% de diabétiques de type
+
+100
+00:05:45,280 --> 00:05:45,460
+2.
+
+101
+00:05:45,460 --> 00:05:48,540
+Et bien sûr, je vous rappelle qu'on
+
+102
+00:05:48,540 --> 00:05:52,840
+fait partie de la région Afrique, donc Nord
+
+103
+00:05:52,840 --> 00:05:55,860
+-Afrique, Moyen-Middle-Est, ça s'appelle la
+
+104
+00:05:55,860 --> 00:05:56,480
+région MENA.
+
+105
+00:05:57,060 --> 00:06:01,080
+Et cette région MENA, Nord-Afrique, Moyen-Middle
+
+106
+00:06:01,080 --> 00:06:04,940
+-Est, on fait partie des régions les plus
+
+107
+00:06:04,940 --> 00:06:08,800
+touchées par l'augmentation de la prévalence et
+
+108
+00:06:08,800 --> 00:06:09,720
+de l'incidence du diabète.
+
+109
+00:06:11,480 --> 00:06:14,520
+Quels sont les mécanismes physiopathologiques?
+
+110
+00:06:14,740 --> 00:06:16,240
+Je vous ai dit qu'on va voir
+
+111
+00:06:16,240 --> 00:06:19,120
+les classiques et les plus récents.
+
+112
+00:06:22,360 --> 00:06:25,120
+Déjà, il y a les facteurs environnementaux et
+
+113
+00:06:25,120 --> 00:06:27,580
+on a souligné lors de la slide d
+
+114
+00:06:27,580 --> 00:06:29,460
+'introduction l'importance de l'hérédité.
+
+115
+00:06:30,240 --> 00:06:32,700
+La majorité des patients diabétiques de type 2
+
+116
+00:06:32,700 --> 00:06:35,980
+ont un parent diabétique de type 2.
+
+117
+00:06:37,720 --> 00:06:42,380
+Plus j'ai un membre de la famille
+
+118
+00:06:42,380 --> 00:06:45,360
+diabétique de type 2, surtout au niveau des
+
+119
+00:06:45,360 --> 00:06:49,860
+parents et de la famille des oncles-tantes
+
+120
+00:06:49,860 --> 00:06:53,640
+premier degré, j'ai un risque de 20
+
+121
+00:06:53,640 --> 00:06:55,860
+% plus élevé d'avoir un diabète.
+
+122
+00:06:57,420 --> 00:07:00,440
+Chez les jumeaux monozygotes, la concordance est de
+
+123
+00:07:00,440 --> 00:07:01,880
+100%.
+
+124
+00:07:01,880 --> 00:07:05,940
+Donc d'avoir un DT2 et un diabétique
+
+125
+00:07:05,940 --> 00:07:07,340
+de type 2 au cours de sa vie.
+
+126
+00:07:10,310 --> 00:07:14,930
+L'obésité est un facteur de risque important,
+
+127
+00:07:15,890 --> 00:07:19,410
+en plus de l'hérédité, parce que l
+
+128
+00:07:19,410 --> 00:07:24,070
+'obésité abdominale concourt à l'insulin résistance et
+
+129
+00:07:24,070 --> 00:07:25,070
+ça c'est prouvé.
+
+130
+00:07:25,070 --> 00:07:27,990
+C'est par le biais d'une sécrétion
+
+131
+00:07:27,990 --> 00:07:31,170
+excessive des hormones et des peptides de l
+
+132
+00:07:31,170 --> 00:07:37,230
+'insulino-résistance, principalement le TNF-alpha, donc les
+
+133
+00:07:37,230 --> 00:07:39,710
+peptides de l'inflammation, TNF-alpha et l
+
+134
+00:07:39,710 --> 00:07:44,590
+'interleukine, et surtout l'hormone résistine qui ont
+
+135
+00:07:44,590 --> 00:07:48,930
+un effet délétère sur l'insulino-résistance et
+
+136
+00:07:48,930 --> 00:07:52,510
+sur la sensibilité des tissus cibles à l
+
+137
+00:07:52,510 --> 00:07:52,930
+'insuline.
+
+138
+00:07:56,970 --> 00:08:00,430
+Lorsque j'ai une obésité viscérale, surtout l
+
+139
+00:08:00,430 --> 00:08:04,650
+'obésité viscérale, j'ai une lipolyse accrue, une
+
+140
+00:08:04,650 --> 00:08:08,390
+insulino-résistance accrue, j'ai une inondation de
+
+141
+00:08:08,390 --> 00:08:10,930
+mon foie avec les acides gras libres, qui
+
+142
+00:08:10,930 --> 00:08:15,890
+constituent le substrat de la néoglucogénèse hépatique aussi.
+
+143
+00:08:16,370 --> 00:08:20,350
+De part, j'ai une sécrétion par le
+
+144
+00:08:20,350 --> 00:08:23,070
+tissu adipe d'hormones et de peptides de
+
+145
+00:08:23,070 --> 00:08:26,910
+l'insulino-résistance et j'ai ma graisse
+
+146
+00:08:26,910 --> 00:08:32,309
+viscérale qui constitue un stock indélébile permanent qui
+
+147
+00:08:32,309 --> 00:08:34,830
+inonde le foie d'acides gras qui seront
+
+148
+00:08:34,830 --> 00:08:38,289
+utilisés dans la fabrication du glucose par le
+
+149
+00:08:38,289 --> 00:08:38,750
+foie.
+
+150
+00:08:40,380 --> 00:08:43,680
+Les mécanismes physiopathologiques classiques, donc on a dit
+
+151
+00:08:43,680 --> 00:08:45,880
+l'insulino-résistance qui se définit par la
+
+152
+00:08:45,880 --> 00:08:49,380
+nécessité d'une sure sécrétion de l'insuline
+
+153
+00:08:49,380 --> 00:08:57,880
+pour obtenir une réponse et un effet normal
+
+154
+00:08:57,880 --> 00:08:59,320
+à l'hormone.
+
+155
+00:09:00,040 --> 00:09:01,300
+Ça veut dire quoi?
+
+156
+00:09:02,120 --> 00:09:06,000
+Ça veut dire que pour avoir le même
+
+157
+00:09:06,000 --> 00:09:10,120
+taux de baisse de glycémie suite à la
+
+158
+00:09:10,120 --> 00:09:13,300
+sécrétion d'insuline, chez les patients insulino-résistants,
+
+159
+00:09:13,480 --> 00:09:16,660
+il faut une hyper-sécrétion plus importante de
+
+160
+00:09:16,660 --> 00:09:17,400
+l'insuline.
+
+161
+00:09:18,040 --> 00:09:18,800
+Est-ce que c'est clair?
+
+162
+00:09:21,520 --> 00:09:22,880
+Je réexplique.
+
+163
+00:09:23,960 --> 00:09:27,020
+En cas d'insulino-résistance, ça veut dire
+
+164
+00:09:27,020 --> 00:09:29,980
+une résistance ou un défaut d'action d
+
+165
+00:09:29,980 --> 00:09:30,360
+'insuline.
+
+166
+00:09:30,860 --> 00:09:35,180
+Pour avoir la même baisse du taux de
+
+167
+00:09:35,180 --> 00:09:37,880
+la glycémie chez une personne normale non insulino
+
+168
+00:09:37,880 --> 00:09:41,340
+-résistante, chez la personne insulino-résistante, il faut
+
+169
+00:09:41,340 --> 00:09:43,480
+une sure sécrétion de l'insuline.
+
+170
+00:09:43,480 --> 00:09:48,280
+Ça s'appelle un hyper-insulinisme compensateur.
+
+171
+00:09:51,160 --> 00:09:55,960
+Ça concerne les tissus cibles de la glucorégulation
+
+172
+00:09:55,960 --> 00:09:57,340
+qui sont le foie, le muscle et le
+
+173
+00:09:57,340 --> 00:09:58,060
+tissu adipe.
+
+174
+00:09:58,960 --> 00:10:01,920
+Au niveau du foie, ça se traduit par
+
+175
+00:10:01,920 --> 00:10:04,840
+une moindre capacité de l'insuline à bloquer,
+
+176
+00:10:05,840 --> 00:10:09,280
+à arrêter la production du glucose par le
+
+177
+00:10:09,280 --> 00:10:09,580
+foie.
+
+178
+00:10:10,880 --> 00:10:15,220
+Du coup, on a une néoglucogénèse excessive, donc
+
+179
+00:10:15,220 --> 00:10:19,500
+une surproduction du glucose par le foie.
+
+180
+00:10:21,830 --> 00:10:26,930
+Et comme je vous ai dit, lorsque cette
+
+181
+00:10:26,930 --> 00:10:29,550
+insulino-résistance est souvent associée à une obésité
+
+182
+00:10:29,550 --> 00:10:34,130
+viscérale, qui, de par la sécrétion de la
+
+183
+00:10:34,130 --> 00:10:37,010
+résistine et des facteurs inflammatoires de l'insulino
+
+184
+00:10:37,010 --> 00:10:41,230
+-résistance, va fournir des acides gras massivement qui
+
+185
+00:10:41,230 --> 00:10:45,710
+influencent la sensibilité à l'insuline, qui vont
+
+186
+00:10:45,710 --> 00:10:49,910
+inonder la veine-porte et qui vont fournir
+
+187
+00:10:49,910 --> 00:10:53,430
+les substrats énergétiques nécessaires à la néoglucogénèse par
+
+188
+00:10:53,430 --> 00:10:53,770
+le foie.
+
+189
+00:10:59,220 --> 00:11:02,420
+Alors, je souligne ici le rôle important du
+
+190
+00:11:02,420 --> 00:11:05,380
+tissu adipe dans ce mécanisme d'insulino-résistance.
+
+191
+00:11:06,260 --> 00:11:09,020
+Je rappelle, c'est hyper important, je fais
+
+192
+00:11:09,020 --> 00:11:10,840
+des répétitions, mais c'est capital.
+
+193
+00:11:11,620 --> 00:11:14,280
+Le tissu adipe chez les diabétiques de type
+
+194
+00:11:14,280 --> 00:11:17,980
+2 secrète les adipokéines, secrète la résistine qui
+
+195
+00:11:17,980 --> 00:11:20,780
+inhibe la voie de signalisation de l'insuline,
+
+196
+00:11:20,780 --> 00:11:30,460
+qui diminue la captation du muscle du glucose,
+
+197
+00:11:31,140 --> 00:11:37,760
+qui va inonder le foie par des acides
+
+198
+00:11:37,760 --> 00:11:41,140
+gras libres qui vont constituer le substrat énergétique
+
+199
+00:11:41,140 --> 00:11:43,780
+de la néoglucogénèse.
+
+200
+00:11:46,480 --> 00:11:51,780
+Donc, comme vous le voyez sur cette slide,
+
+201
+00:11:55,690 --> 00:12:01,230
+le tissu adipe secrète les adipokéines, secrète l
+
+202
+00:12:01,230 --> 00:12:06,540
+'acide gras, inhibe l'oxydation du glucose au
+
+203
+00:12:06,540 --> 00:12:11,020
+niveau musculaire et la captation du glucose, inonde
+
+204
+00:12:11,020 --> 00:12:13,900
+le foie d'acides gras et stimule la
+
+205
+00:12:13,900 --> 00:12:15,620
+néoglucogénèse hépatique.
+
+206
+00:12:20,520 --> 00:12:25,060
+Vous avez au tout début une hyper-sécrétion
+
+207
+00:12:25,060 --> 00:12:25,820
+de l'insuline.
+
+208
+00:12:26,420 --> 00:12:28,060
+Regardez la courbe de Stanley.
+
+209
+00:12:28,600 --> 00:12:33,020
+Vous avez une augmentation importante de la sécrétion
+
+210
+00:12:33,020 --> 00:12:33,560
+d'insuline.
+
+211
+00:12:33,700 --> 00:12:37,140
+Cela s'appelle un hyper-insulinisme compensateur à
+
+212
+00:12:37,140 --> 00:12:41,900
+l'insulino-résistance avant de commencer à décroître,
+
+213
+00:12:42,820 --> 00:12:46,060
+à diminuer par apoptose de la cellule bêta
+
+214
+00:12:46,060 --> 00:12:46,900
+-pancréatique.
+
+215
+00:12:51,200 --> 00:12:53,980
+Là aussi, dans l'insulino-pénie, je retrouve
+
+216
+00:12:53,980 --> 00:12:58,260
+le malheur causé par l'obésité viscérale.
+
+217
+00:12:58,920 --> 00:13:02,820
+Il faut savoir que l'inondation aussi des
+
+218
+00:13:02,820 --> 00:13:08,440
+acides gras libres vont avoir un effet lipotoxique.
+
+219
+00:13:09,370 --> 00:13:15,080
+Ils vont concourir à la désensibilisation des canaux
+
+220
+00:13:15,080 --> 00:13:20,860
+potassiques, à la réduction de l'expression des
+
+221
+00:13:20,860 --> 00:13:23,640
+glutes, des récepteurs du glucose.
+
+222
+00:13:24,920 --> 00:13:28,600
+Ils vont inhiber la sécrétion d'insuline.
+
+223
+00:13:28,840 --> 00:13:30,440
+C'est une anomalie fonctionnelle.
+
+224
+00:13:31,660 --> 00:13:34,900
+De plus, l'accumulation des triglycérides et des
+
+225
+00:13:34,900 --> 00:13:40,280
+acides gras en intracellulaire va tuer, va concourir
+
+226
+00:13:40,280 --> 00:13:42,300
+à l'apoptose des cellules bêta-pancréatiques.
+
+227
+00:13:42,300 --> 00:13:45,040
+C'est un effet fonctionnel indirect, mais aussi
+
+228
+00:13:45,040 --> 00:13:47,360
+un effet lipotoxique direct.
+
+229
+00:13:47,360 --> 00:13:53,060
+On retrouve à chaque fois le rôle de
+
+230
+00:13:53,060 --> 00:13:57,320
+l'obésité viscérale dans la physiopathologie du diabète
+
+231
+00:13:57,320 --> 00:13:58,460
+de type 2, que ce soit dans l
+
+232
+00:13:58,460 --> 00:14:00,520
+'insulino-résistance ou dans l'insulino-pénie.
+
+233
+00:14:07,020 --> 00:14:09,820
+Il faut savoir aussi qu'il existe des
+
+234
+00:14:09,820 --> 00:14:12,680
+prédispositions génétiques à avoir des altérations de l
+
+235
+00:14:12,680 --> 00:14:15,720
+'insulino-sécrétion, surtout lorsque j'ai des mutations
+
+236
+00:14:15,720 --> 00:14:17,960
+du gène qui codent pour la glucoclinase.
+
+237
+00:14:17,960 --> 00:14:20,880
+Dans le premier cours, je vous ai montré
+
+238
+00:14:20,880 --> 00:14:24,840
+le schéma d'insulino-sécrétion et de glucorégulation.
+
+239
+00:14:25,480 --> 00:14:29,080
+Vous avez vu l'importance et le rôle
+
+240
+00:14:29,080 --> 00:14:32,120
+clé de la glucoclinase qui est déclenchée dans
+
+241
+00:14:32,120 --> 00:14:32,680
+la synthèse.
+
+242
+00:14:32,800 --> 00:14:35,360
+Elle est rapidement déclenchée dès que le sucre,
+
+243
+00:14:35,580 --> 00:14:41,160
+la molécule du glucose, se place ou s
+
+244
+00:14:41,160 --> 00:14:42,880
+'accroche à son récepteur, le glute.
+
+245
+00:14:44,400 --> 00:14:47,940
+La glucoclinase est une enzyme qui catalyse la
+
+246
+00:14:47,940 --> 00:14:51,380
+phosphorylation du glucose en G6P, phosphate.
+
+247
+00:14:52,940 --> 00:14:56,040
+C'est une étape clé préalable à son
+
+248
+00:14:56,040 --> 00:14:57,780
+effet insulino-sécréteur.
+
+249
+00:14:59,380 --> 00:15:04,620
+Lorsque j'ai des mutations génétiques qui concernent
+
+250
+00:15:04,620 --> 00:15:08,280
+ce gène de glucoclinase ou qui concernent le
+
+251
+00:15:08,280 --> 00:15:10,620
+nombre des transporteurs des glutes, j'ai des
+
+252
+00:15:10,620 --> 00:15:14,340
+prédispositions génétiques à avoir un diabète de type
+
+253
+00:15:14,340 --> 00:15:14,500
+2.
+
+254
+00:18:52,270 --> 00:18:54,770
+Je résume l'évolution naturelle du diabète de
+
+255
+00:18:54,770 --> 00:18:57,170
+type 2 avec les deux premiers mécanismes classiques
+
+256
+00:18:57,170 --> 00:18:58,270
+physiopathologiques.
+
+257
+00:18:58,270 --> 00:19:02,150
+Au tout début de la découverte du diagnostic,
+
+258
+00:19:02,330 --> 00:19:04,890
+regardez la ligne médiane, signe le diagnostic.
+
+259
+00:19:06,090 --> 00:19:11,970
+Des années avant, l'insulino-sécrétion est augmentée,
+
+260
+00:19:12,170 --> 00:19:15,070
+ce qu'on appelle l'hyperinsulinisme, dû à
+
+261
+00:19:15,070 --> 00:19:16,750
+l'insulino-résistance.
+
+262
+00:19:16,870 --> 00:19:20,330
+Cela s'appelle un hyperinsulinisme compensateur.
+
+263
+00:19:20,330 --> 00:19:25,470
+Jusque là, lorsque la sécrétion d'insuline suit
+
+264
+00:19:25,470 --> 00:19:29,430
+la courbe de l'insulino-résistance, les glycémies
+
+265
+00:19:29,430 --> 00:19:30,350
+restent normales.
+
+266
+00:19:30,570 --> 00:19:33,550
+Mais à un certain moment, les cellules bêta
+
+267
+00:19:33,550 --> 00:19:34,190
+se fatiguent.
+
+268
+00:19:34,290 --> 00:19:36,910
+Rappelez-vous l'exemple des ouvriers qui travaillent
+
+269
+00:19:36,910 --> 00:19:40,210
+24 sur 24 pendant des années à l
+
+270
+00:19:40,210 --> 00:19:40,550
+'usine.
+
+271
+00:19:40,670 --> 00:19:43,630
+Ils vont crever, ils vont se fatiguer.
+
+272
+00:19:44,070 --> 00:19:45,530
+Il y aura une apoptose de la cellule
+
+273
+00:19:45,530 --> 00:19:48,430
+bêta, une baisse de l'insulino-sécrétion.
+
+274
+00:19:48,430 --> 00:19:51,010
+Et c'est au moment où l'insulino
+
+275
+00:19:51,010 --> 00:19:54,770
+-sécrétion ne va plus compenser le degré d
+
+276
+00:19:54,770 --> 00:19:56,670
+'insulino-résistance, c'est là où on aura
+
+277
+00:19:56,670 --> 00:19:59,110
+la déclaration du diabète.
+
+278
+00:19:59,590 --> 00:20:04,190
+Au fil des années, des années après, regardez,
+
+279
+00:20:04,630 --> 00:20:07,350
+l'insulino-sécrétion va plus ou moins s
+
+280
+00:20:07,350 --> 00:20:07,690
+'annuler.
+
+281
+00:20:08,710 --> 00:20:09,770
+Cela veut dire quoi ?
+
+282
+00:20:09,770 --> 00:20:12,530
+Cela veut dire que pour un DT2, à
+
+283
+00:20:12,530 --> 00:20:13,990
+un certain moment de sa vie, de l
+
+284
+00:20:13,990 --> 00:20:16,930
+'évolution, rappelez-vous la définition, on a parlé
+
+285
+00:20:16,930 --> 00:20:19,630
+d'évolutivité, à un certain moment de l
+
+286
+00:20:19,630 --> 00:20:22,310
+'évolution de sa maladie, cela veut dire 10
+
+287
+00:20:22,310 --> 00:20:24,570
+ans ou 15 ans après la découverte de
+
+288
+00:20:24,570 --> 00:20:28,750
+son diabète, on peut arriver au stade, comme
+
+289
+00:20:28,750 --> 00:20:33,250
+chez le DT1, de l'insulino pénitotal et
+
+290
+00:20:33,250 --> 00:20:35,670
+donc le recours à l'insulino-thérapie.
+
+291
+00:20:37,070 --> 00:20:42,230
+Les mécanismes récents, on va voir l'effet
+
+292
+00:20:42,230 --> 00:20:43,990
+incrétine et le rôle du rein.
+
+293
+00:20:44,290 --> 00:20:47,910
+L'effet incrétine, c'est quoi ?
+
+294
+00:20:47,910 --> 00:20:50,270
+L'effet incrétine déjà, il est dû à
+
+295
+00:20:50,270 --> 00:20:53,270
+deux principales peptides, ça s'appelle le GLP1,
+
+296
+00:20:53,370 --> 00:20:57,370
+Glucagon-like peptide 1, et le GIP, c
+
+297
+00:20:57,370 --> 00:21:00,730
+'est le Glucose Dependent Insulinotropique Polypeptide.
+
+298
+00:21:01,530 --> 00:21:07,670
+Ces deux principales incrétines sont sécrétées par l
+
+299
+00:21:07,670 --> 00:21:09,970
+'hyléon et le jugenum, donc le GLP1 est
+
+300
+00:21:09,970 --> 00:21:12,330
+sécrété par les cellules L de l'hyléon,
+
+301
+00:21:13,530 --> 00:21:15,930
+et il agit au niveau des cellules bêta
+
+302
+00:21:15,930 --> 00:21:18,750
+et alpha, il agit au niveau du système
+
+303
+00:21:18,750 --> 00:21:23,430
+digestif, il a des récepteurs oscinerveux, pulmonaires et
+
+304
+00:21:23,430 --> 00:21:24,110
+cardiaques.
+
+305
+00:21:26,180 --> 00:21:29,160
+Ensuite, le GIP est sécrété par les cellules
+
+306
+00:21:29,160 --> 00:21:33,580
+K du jugenum, son site d'action principal,
+
+307
+00:21:33,700 --> 00:21:36,280
+c'est les cellules bêta pancréatiques et les
+
+308
+00:21:36,280 --> 00:21:40,060
+cellules adipocitaires, et son action est bien sûr
+
+309
+00:21:40,060 --> 00:21:41,700
+médiée par un récepteur.
+
+310
+00:21:42,860 --> 00:21:46,500
+Le GLP1, c'est le principal peptide qui
+
+311
+00:21:46,500 --> 00:21:50,800
+est responsable de cet effet incrétine, et c
+
+312
+00:21:50,800 --> 00:21:55,000
+'est la cible des nouvelles thérapeutiques anti-diabétiques,
+
+313
+00:21:55,080 --> 00:21:56,500
+on va le voir en lent et en
+
+314
+00:21:56,500 --> 00:21:58,560
+large la synthèse thérapeutique, incha'Allah.
+
+315
+00:21:59,780 --> 00:22:02,740
+C'est quoi le problème de ce GLP1
+
+316
+00:22:02,740 --> 00:22:06,180
+et de ces incrétines, de ces polypeptides ?
+
+317
+00:22:06,180 --> 00:22:08,960
+C'est que ces polypeptides sécrétés par l
+
+318
+00:22:08,960 --> 00:22:13,360
+'hyléon et le jugenum sont rapidement dégradés par
+
+319
+00:22:13,360 --> 00:22:16,640
+une enzyme qui s'appelle la DPP4, qui
+
+320
+00:22:16,640 --> 00:22:19,460
+rend leur demi-vie très courte, à peine
+
+321
+00:22:19,460 --> 00:22:20,260
+de deux minutes.
+
+322
+00:22:22,220 --> 00:22:24,180
+Vous allez voir pourquoi on parle de ces
+
+323
+00:22:24,180 --> 00:22:27,980
+détails, c'est important pour comprendre la physiopathologie
+
+324
+00:22:27,980 --> 00:22:33,160
+et par la suite les domaines de développement
+
+325
+00:22:33,160 --> 00:22:35,500
+des thérapeutiques anti-diabétiques.
+
+326
+00:22:39,450 --> 00:22:41,670
+L'effet incrétine, c'est quoi ?
+
+327
+00:22:41,670 --> 00:22:44,150
+Comment on l'a découvert ?
+
+328
+00:22:44,150 --> 00:22:49,450
+On l'a découvert quand on a fait
+
+329
+00:22:49,450 --> 00:22:54,070
+une expérience sur un chien, donc la première
+
+330
+00:22:54,070 --> 00:22:57,550
+expérience a été réalisée sur le chien, où
+
+331
+00:22:57,550 --> 00:23:02,230
+on a donné au même chien du glucose
+
+332
+00:23:02,230 --> 00:23:05,470
+par voie orale, la même dose en fait,
+
+333
+00:23:05,950 --> 00:23:07,970
+par voie orale et la même dose par
+
+334
+00:23:07,970 --> 00:23:09,050
+voie intraveineuse.
+
+335
+00:23:10,910 --> 00:23:16,810
+La même dose du glucose est donnée dans
+
+336
+00:23:16,810 --> 00:23:21,130
+les mêmes circonstances, par exemple un jeun, donc
+
+337
+00:23:21,130 --> 00:23:24,450
+un jour on lui a donné une quantité
+
+338
+00:23:24,450 --> 00:23:27,210
+X de glucose, tantôt par voie orale, tantôt
+
+339
+00:23:27,210 --> 00:23:31,310
+par voie intraveineuse.
+
+340
+00:23:31,410 --> 00:23:32,970
+Et qu'est-ce qu'on a remarqué
+
+341
+00:23:32,970 --> 00:23:34,550
+?
+
+342
+00:23:36,440 --> 00:23:43,080
+On a remarqué que la sécrétion, donc déjà
+
+343
+00:23:43,080 --> 00:23:47,380
+la glycémie, que le glucose soit donné par
+
+344
+00:23:47,380 --> 00:23:49,340
+voie orale ou par voie intraveineuse, on savait
+
+345
+00:23:49,340 --> 00:23:54,020
+très bien que la totalité du glucose ingéré
+
+346
+00:23:54,020 --> 00:23:55,000
+est absorbée.
+
+347
+00:23:55,780 --> 00:24:02,020
+Alors, la glycémie, le taux de glycémie et
+
+348
+00:24:02,020 --> 00:24:04,100
+l'évolution de la glycémie, donc sur le
+
+349
+00:24:04,100 --> 00:24:09,140
+premier schéma sur votre gauche, c'est presque
+
+350
+00:24:09,140 --> 00:24:10,080
+les mêmes chiffres.
+
+351
+00:24:10,560 --> 00:24:14,620
+Regardez, c'est deux lignes tout à fait
+
+352
+00:24:14,620 --> 00:24:16,060
+superposables.
+
+353
+00:24:16,680 --> 00:24:19,080
+Que le glucose soit donné par voie orale
+
+354
+00:24:19,080 --> 00:24:21,740
+ou par voie intraveineuse.
+
+355
+00:24:22,300 --> 00:24:24,060
+Mais le problème, c'est que quand on
+
+356
+00:24:24,060 --> 00:24:27,100
+a fait des dosages du peptide C, le
+
+357
+00:24:27,100 --> 00:24:28,680
+peptide C, c'est comme si on dosait
+
+358
+00:24:28,680 --> 00:24:29,260
+l'insuline.
+
+359
+00:24:30,080 --> 00:24:31,680
+Donc le peptide C, c'est la partie
+
+360
+00:24:31,680 --> 00:24:36,380
+coupée de l'insuline, donc du passage de
+
+361
+00:24:36,380 --> 00:24:38,380
+l'après-insuline à l'insuline définitive.
+
+362
+00:24:39,000 --> 00:24:40,640
+Donc quand on dose le peptide C, c
+
+363
+00:24:40,640 --> 00:24:42,260
+'est comme si on dosait l'insuline émie.
+
+364
+00:24:43,180 --> 00:24:48,340
+Alors, si on donne le glucose par voie
+
+365
+00:24:48,340 --> 00:24:52,320
+orale, regardez, c'est la courbe en vert,
+
+366
+00:24:53,180 --> 00:24:57,460
+on a une insulinosécrition beaucoup plus importante, très
+
+367
+00:24:57,460 --> 00:25:03,360
+très importante, si on compare le taux d
+
+368
+00:25:03,360 --> 00:25:06,780
+'insuline qui est sécrétée suite à l'injection
+
+369
+00:25:06,780 --> 00:25:08,580
+du glucose en intraveineux.
+
+370
+00:25:08,580 --> 00:25:13,640
+Alors que si logiquement, essayez de réfléchir logiquement,
+
+371
+00:25:14,340 --> 00:25:16,440
+si je donne du glucose par voie intraveineuse
+
+372
+00:25:16,440 --> 00:25:20,640
+logiquement, je vais me dire, je vais automatiquement
+
+373
+00:25:20,640 --> 00:25:22,900
+avoir une réponse, une élévation de la glycémie
+
+374
+00:25:22,900 --> 00:25:25,420
+plus importante, et avoir une réponse d'insuline
+
+375
+00:25:25,420 --> 00:25:27,340
+beaucoup plus rapide et beaucoup plus importante, parce
+
+376
+00:25:27,340 --> 00:25:29,080
+que la voie parentérale est plus rapide et
+
+377
+00:25:29,080 --> 00:25:29,720
+plus efficace.
+
+378
+00:25:29,820 --> 00:25:31,960
+Et bien non, la réponse est non.
+
+379
+00:25:33,420 --> 00:25:36,540
+Donc la courbe du glucose est superposable, elle
+
+380
+00:25:36,540 --> 00:25:40,300
+met l'insulinosécrition, quand je donne du sucre
+
+381
+00:25:40,300 --> 00:25:43,560
+par voie orale, je provoque une insulinosécrition beaucoup
+
+382
+00:25:43,560 --> 00:25:46,560
+plus importante que si je le donne par
+
+383
+00:25:46,560 --> 00:25:48,740
+voie veineuse.
+
+384
+00:25:50,200 --> 00:25:54,120
+Et bien, la différence, regardez, sur votre schéma,
+
+385
+00:25:54,340 --> 00:25:57,960
+sur la droite de votre slide, le schéma
+
+386
+00:25:57,960 --> 00:26:01,060
+sous la courbe en gris, qui est délimité
+
+387
+00:26:01,060 --> 00:26:05,200
+entre la ligne verte et la ligne orange,
+
+388
+00:26:05,200 --> 00:26:07,100
+ça s'appelle l'effet incrétine.
+
+389
+00:26:08,120 --> 00:26:09,140
+C'est la différence.
+
+390
+00:26:09,400 --> 00:26:11,340
+Elle est définie par la différence de sécrétion
+
+391
+00:26:11,340 --> 00:26:14,940
+de l'insuline après une charge orale ou
+
+392
+00:26:14,940 --> 00:26:16,360
+intraveineuse du glucose.
+
+393
+00:26:16,560 --> 00:26:18,160
+J'espère que c'est clair.
+
+394
+00:26:19,000 --> 00:26:20,820
+Donc essayez, si vous n'avez pas trop
+
+395
+00:26:20,820 --> 00:26:24,600
+saisi ce mécanisme, essayez de me poser des
+
+396
+00:26:24,600 --> 00:26:27,390
+questions lors des séances interactives.
+
+397
+00:26:27,960 --> 00:26:29,800
+Je crois que j'étais claire, mais si
+
+398
+00:26:29,800 --> 00:26:32,300
+vous avez d'autres questions, préparez-les pour
+
+399
+00:26:32,300 --> 00:26:33,460
+les séances interactives.
+
+400
+00:26:33,580 --> 00:26:39,490
+C'est quoi les particularités de cet effet
+
+401
+00:26:39,490 --> 00:26:41,470
+incrétine?
+
+402
+00:26:42,010 --> 00:26:45,410
+L'effet incrétine, c'est une action glucodépendante.
+
+403
+00:26:45,550 --> 00:26:46,550
+C'est hyper important.
+
+404
+00:26:46,690 --> 00:26:46,930
+Pourquoi?
+
+405
+00:26:47,670 --> 00:26:50,990
+Parce qu'avec cet effet incrétine, je dépends
+
+406
+00:26:50,990 --> 00:26:52,470
+du sucre, du taux de sucre.
+
+407
+00:26:53,110 --> 00:26:55,730
+Si j'ai une élévation de la glycémie,
+
+408
+00:26:56,610 --> 00:26:59,630
+dès que le glucose est en contact du
+
+409
+00:26:59,630 --> 00:27:01,850
+tube digestif et que la glycémie commence à
+
+410
+00:27:01,850 --> 00:27:04,370
+monter, j'ai la stimulation de cet effet
+
+411
+00:27:04,370 --> 00:27:05,410
+incrétine.
+
+412
+00:27:05,490 --> 00:27:08,570
+Mais si j'ai des personnes âgées, la
+
+413
+00:27:08,570 --> 00:27:11,790
+sécrétion du GLP1 est absente.
+
+414
+00:27:12,310 --> 00:27:13,530
+C'est pour ça que je l'appelle
+
+415
+00:27:13,530 --> 00:27:14,870
+action glucodépendante.
+
+416
+00:27:15,010 --> 00:27:18,050
+C'est quoi la retombée de cette notion
+
+417
+00:27:18,050 --> 00:27:19,370
+que je viens de vous expliquer?
+
+418
+00:27:19,490 --> 00:27:23,250
+C'est que, avec le GLP1, avec l
+
+419
+00:27:23,250 --> 00:27:25,570
+'effet incrétine, avec le GIP, je n'ai
+
+420
+00:27:25,570 --> 00:27:26,670
+pas d'hypoglycémie.
+
+421
+00:27:27,370 --> 00:27:29,850
+C'est des rômes glucodépendants.
+
+422
+00:27:32,930 --> 00:27:35,930
+Alors, le plus important et le plus intéressant,
+
+423
+00:27:37,350 --> 00:27:39,910
+c'est que l'effet incrétine rend compte
+
+424
+00:27:39,910 --> 00:27:41,530
+de 60 à 80%.
+
+425
+00:27:41,530 --> 00:27:43,670
+Il est responsable de 80% de l
+
+426
+00:27:43,670 --> 00:27:44,850
+'insulino-sécrétion prendiale.
+
+427
+00:27:45,390 --> 00:27:47,570
+Et rappelez-vous sur les slides avant, tout
+
+428
+00:27:47,570 --> 00:27:47,910
+est lié.
+
+429
+00:27:48,010 --> 00:27:49,170
+Je vous dis que tout est lié.
+
+430
+00:27:49,930 --> 00:27:53,770
+L'anomalie précoce, l'anomalie fonctionnelle, qualitative de
+
+431
+00:27:53,770 --> 00:27:57,190
+l'insulino-sécrétion chez le diabétique de type
+
+432
+00:27:57,190 --> 00:28:02,530
+2, c'est l'absence du pic postprendial
+
+433
+00:28:02,530 --> 00:28:03,330
+de l'insuline.
+
+434
+00:28:03,790 --> 00:28:07,510
+Et bien, cet effet incrétine explique ceci.
+
+435
+00:28:08,030 --> 00:28:09,790
+L'altération de l'effet incrétine chez le
+
+436
+00:28:09,790 --> 00:28:12,610
+diabétique de type 2 rend compte de l
+
+437
+00:28:12,610 --> 00:28:15,610
+'anomalie du pic d'insulino-sécrétion postprendiale.
+
+438
+00:28:16,550 --> 00:28:20,030
+Et en plus, le GLP1 inhibe la libération
+
+439
+00:28:20,030 --> 00:28:21,730
+du glucagon par la cellule alpha.
+
+440
+00:28:22,330 --> 00:28:23,790
+Il a aussi d'autres effets.
+
+441
+00:28:23,790 --> 00:28:26,490
+Vous vous rappelez, je vous ai dit que
+
+442
+00:28:26,490 --> 00:28:29,610
+le GLP1 a des récepteurs digestifs au niveau
+
+443
+00:28:29,610 --> 00:28:32,490
+de l'estomac, au niveau du cerveau, au
+
+444
+00:28:32,490 --> 00:28:33,370
+niveau du coeur.
+
+445
+00:28:34,650 --> 00:28:37,090
+Et l'effet ne se limite pas à
+
+446
+00:28:37,090 --> 00:28:38,110
+la glucorégulation.
+
+447
+00:28:38,670 --> 00:28:41,830
+Il va me donner un effet saciétogène qui
+
+448
+00:28:41,830 --> 00:28:44,090
+va ralentir la vidange gastrique, qui va inhiber
+
+449
+00:28:44,090 --> 00:28:46,550
+la sécrétion de l'acide gastrique et qui
+
+450
+00:28:46,550 --> 00:28:48,450
+va inhiber la motricité gastrique.
+
+451
+00:28:48,610 --> 00:28:51,910
+En inhibant la motricité gastrique, on va diminuer
+
+452
+00:28:51,910 --> 00:28:53,590
+la vidange gastrique et il y aura une
+
+453
+00:28:53,590 --> 00:28:56,450
+sensation de saciété prolongée parce que l'estomac
+
+454
+00:28:56,450 --> 00:28:59,010
+va se remplir mais ne va pas se
+
+455
+00:28:59,010 --> 00:28:59,790
+vider rapidement.
+
+456
+00:29:00,170 --> 00:29:03,530
+Donc, il y aura un effet saciétogène prolongé.
+
+457
+00:29:07,750 --> 00:29:11,250
+Alors, je vous ai dit aussi, rappelez-vous,
+
+458
+00:29:11,510 --> 00:29:13,990
+une notion très importante de cet enzyme.
+
+459
+00:29:14,550 --> 00:29:16,310
+On ne l'a pas cité pour vous
+
+460
+00:29:16,310 --> 00:29:18,830
+encombrer l'esprit, mais il faut que vous
+
+461
+00:29:18,830 --> 00:29:21,450
+sachiez que cet enzyme qui va me dégrader
+
+462
+00:29:21,450 --> 00:29:27,650
+le GLP1 actif et qui va diminuer sa
+
+463
+00:29:27,650 --> 00:29:31,810
+demi-vie à 1 à 2 minutes, cet
+
+464
+00:29:31,810 --> 00:29:36,310
+enzyme est la cible du développement des traitements
+
+465
+00:29:36,310 --> 00:29:38,230
+à effet incrétine.
+
+466
+00:29:38,610 --> 00:29:40,790
+Donc, je vais donner des médicaments.
+
+467
+00:29:41,430 --> 00:29:44,330
+Si je veux traiter et viser cet effet
+
+468
+00:29:44,330 --> 00:29:46,690
+incrétine dans la physiopathologie du diabète de type
+
+469
+00:29:46,690 --> 00:29:47,610
+2, qu'est-ce que je fais?
+
+470
+00:29:48,440 --> 00:29:52,150
+Soit je vais donner le GLP1 actif pharmaceutique,
+
+471
+00:29:53,230 --> 00:29:57,150
+soit je vais donner tout simplement des médicaments
+
+472
+00:29:57,150 --> 00:29:58,730
+qui vont bloquer cet enzyme.
+
+473
+00:29:58,890 --> 00:30:02,110
+En bloquant cet enzyme, je vais prolonger la
+
+474
+00:30:02,110 --> 00:30:06,430
+demi-vie de mon GLP1 et j'aurai
+
+475
+00:30:06,430 --> 00:30:10,110
+une alginosecrétion plus importante prolongée dans le temps.
+
+476
+00:30:11,510 --> 00:30:12,670
+J'espère que c'est clair.
+
+477
+00:30:16,620 --> 00:30:20,140
+Donc, la physiopathologie, c'est qu'on a
+
+478
+00:30:20,140 --> 00:30:22,240
+remarqué que cet effet, il est diminué chez
+
+479
+00:30:22,240 --> 00:30:23,980
+le diabétique de type 2, ce qui explique
+
+480
+00:30:23,980 --> 00:30:28,640
+les phénomènes quantitatifs de l'insulosecrétion au cours
+
+481
+00:30:28,640 --> 00:30:29,840
+du diabète de type 2.
+
+482
+00:30:30,600 --> 00:30:32,620
+Donc, je vous ai dit que cette action,
+
+483
+00:30:32,760 --> 00:30:35,020
+regardez, suivez-moi sur la slide.
+
+484
+00:30:35,640 --> 00:30:38,660
+Ces incrétines sont sécrétées dès que la glycémie
+
+485
+00:30:38,660 --> 00:30:40,440
+commence à dépasser 1 g dès que le
+
+486
+00:30:40,440 --> 00:30:44,100
+bol alimentaire touche le tissu digestif.
+
+487
+00:30:44,100 --> 00:30:46,580
+Ils vont aller se fixer sur la cellule
+
+488
+00:30:46,580 --> 00:30:50,840
+bêta, stimuler la sécrétion de l'insuline et
+
+489
+00:30:50,840 --> 00:30:53,040
+inhiber celle du glucagon.
+
+490
+00:30:55,630 --> 00:31:00,010
+Deuxième mécanisme hyper important, hyper important à connaître,
+
+491
+00:31:00,670 --> 00:31:03,110
+et c'est un nouveau mécanisme que je
+
+492
+00:31:03,110 --> 00:31:06,290
+développe dans mon cours pour la première fois.
+
+493
+00:31:06,690 --> 00:31:09,530
+Donc, j'ai parlé des thérapeutiques, ça s
+
+494
+00:31:09,530 --> 00:31:11,330
+'appelle les inhibiteurs des JLT2.
+
+495
+00:31:11,810 --> 00:31:13,130
+J'en ai parlé dans le cours de
+
+496
+00:31:13,130 --> 00:31:15,510
+synthèse, mais le développement du rôle de rein
+
+497
+00:31:15,510 --> 00:31:17,270
+dans la physiopathologie, c'est la première fois
+
+498
+00:31:17,270 --> 00:31:20,990
+que je parle de ce mécanisme dans le
+
+499
+00:31:20,990 --> 00:31:21,930
+cours de pathologie.
+
+500
+00:31:22,870 --> 00:31:24,930
+Donc, s'il vous plaît, suivez avec moi.
+
+501
+00:31:26,630 --> 00:31:29,130
+Alors, il faut savoir que le rein joue
+
+502
+00:31:29,130 --> 00:31:32,190
+un rôle extrêmement important dans le métabolisme du
+
+503
+00:31:32,190 --> 00:31:32,690
+glucose.
+
+504
+00:31:33,950 --> 00:31:34,990
+Par quels mécanismes ?
+
+505
+00:31:34,990 --> 00:31:40,650
+Premièrement, on nous a toujours expliqué que la
+
+506
+00:31:40,650 --> 00:31:43,870
+totalité du glucose, vous vous rappelez de cette
+
+507
+00:31:43,870 --> 00:31:47,370
+phrase, la totalité du glucose filtré est réabsorbée
+
+508
+00:31:47,370 --> 00:31:49,330
+au niveau du rein par le tube proximal.
+
+509
+00:31:49,650 --> 00:31:50,930
+Donc déjà, il y a le rôle de
+
+510
+00:31:50,930 --> 00:31:53,310
+filtration et de réabsorption.
+
+511
+00:31:57,270 --> 00:32:02,850
+Et il y a en fait, cette filtration
+
+512
+00:32:02,850 --> 00:32:06,270
+et réabsorption du glucose, elle est médiée par
+
+513
+00:32:06,270 --> 00:32:10,030
+des récepteurs qui s'appellent les LGLT2.
+
+514
+00:32:13,330 --> 00:32:19,190
+Ces récepteurs-là sont devenus une cible pharmacologique
+
+515
+00:32:19,190 --> 00:32:21,990
+potentielle pour traiter le diabète de type 2.
+
+516
+00:32:23,590 --> 00:32:25,770
+C'est un mécanisme d'action unique qui
+
+517
+00:32:25,770 --> 00:32:28,090
+est indépendant de l'insuline.
+
+518
+00:32:29,530 --> 00:32:30,230
+D'accord ?
+
+519
+00:32:30,230 --> 00:32:33,630
+Et on a remarqué qu'en visant ce
+
+520
+00:32:33,630 --> 00:32:38,130
+mécanisme rénal, de la réabsorption rénale, en modifiant
+
+521
+00:32:38,130 --> 00:32:42,330
+la réabsorption rénale du glucose, on gagne sur
+
+522
+00:32:42,330 --> 00:32:45,570
+les taux de glycémie, mais on fait perdre
+
+523
+00:32:45,570 --> 00:32:48,970
+du poids, on fait baisser la pression artérielle,
+
+524
+00:32:49,070 --> 00:32:52,170
+parce que la réabsorption du glucose au niveau
+
+525
+00:32:52,170 --> 00:32:58,870
+du rein est concomitante à l'élimination du
+
+526
+00:32:58,870 --> 00:32:59,330
+sodium.
+
+527
+00:32:59,750 --> 00:33:02,970
+Donc on a d'autres effets pléotropes qui
+
+528
+00:33:02,970 --> 00:33:07,110
+ont été gagnés en utilisant cette voie.
+
+529
+00:33:10,850 --> 00:33:16,890
+Alors, il faut dire que sur ces slides,
+
+530
+00:33:17,110 --> 00:33:20,810
+cette slide explique de façon claire le rôle
+
+531
+00:33:20,810 --> 00:33:24,010
+central du rein dans la glucorégulation.
+
+532
+00:33:25,130 --> 00:33:30,230
+Alors un mécanisme très important, je pense que
+
+533
+00:33:30,230 --> 00:33:32,170
+vous l'avez déjà vu en physiologie, mais
+
+534
+00:33:32,170 --> 00:33:34,870
+auquel on ne prête pas un grand intérêt,
+
+535
+00:33:35,050 --> 00:33:37,530
+c'est qu'en plus de la filtration
+
+536
+00:33:37,530 --> 00:33:41,090
+rénale du glucose, qui est chiffrée entre 160
+
+537
+00:33:41,090 --> 00:33:44,190
+et 180 grammes de glucose par jour, donc
+
+538
+00:33:44,190 --> 00:33:45,950
+on nous a toujours dit que la totalité
+
+539
+00:33:45,950 --> 00:33:49,630
+du glucose filtré est réabsorbée, et que dès
+
+540
+00:33:49,630 --> 00:33:52,490
+qu'on dépasse 180 grammes de glucose, le
+
+541
+00:33:52,490 --> 00:33:55,070
+glucose se retrouve dans les urines.
+
+542
+00:33:55,990 --> 00:33:58,770
+Donc cette filtration constitue 30% de l
+
+543
+00:33:58,770 --> 00:34:01,610
+'énergie quotidienne, donc c'est hyper important.
+
+544
+00:34:02,990 --> 00:34:05,670
+Ensuite il faut savoir que le rein fabrique
+
+545
+00:34:05,670 --> 00:34:09,310
+du sucre, fabrique du glucose.
+
+546
+00:34:09,750 --> 00:34:14,110
+Le rein produit 15 à 25 grammes de
+
+547
+00:34:14,110 --> 00:34:17,230
+glucose à jeun.
+
+548
+00:34:17,510 --> 00:34:20,429
+Il est responsable de la glycémie à jeun.
+
+549
+00:34:21,370 --> 00:34:23,929
+Et que le rein va fabriquer du glucose
+
+550
+00:34:23,929 --> 00:34:25,130
+en postprandial.
+
+551
+00:34:25,190 --> 00:34:28,350
+La production rénale postprandiale est chiffrée entre 35
+
+552
+00:34:28,350 --> 00:34:28,949
+et 55.
+
+553
+00:34:32,540 --> 00:34:34,360
+De ce fait, le rein joue un rôle
+
+554
+00:34:34,360 --> 00:34:38,580
+central qui a été longtemps négligé, en diabétologie.
+
+555
+00:34:40,040 --> 00:34:45,139
+On faisait attention juste à la glucosurie, au
+
+556
+00:34:45,139 --> 00:34:46,520
+syndrome polyurique, etc.
+
+557
+00:34:46,719 --> 00:34:48,880
+Mais on ne faisait pas attention au rôle
+
+558
+00:34:48,880 --> 00:34:53,139
+métabolique du rein, concernant la glucorégulation.
+
+559
+00:34:53,840 --> 00:34:58,660
+La réabsorption du glucose à travers le rein
+
+560
+00:34:58,660 --> 00:35:00,820
+se fait au niveau de tubules transporteurs qui
+
+561
+00:35:00,820 --> 00:35:02,080
+s'appellent SGLT.
+
+562
+00:35:07,240 --> 00:35:12,460
+Et sur cette slide, vous voyez que ce
+
+563
+00:35:12,460 --> 00:35:14,580
+rôle est crucial.
+
+564
+00:35:15,940 --> 00:35:18,780
+Je vous ai dit que le rein va
+
+565
+00:35:18,780 --> 00:35:23,140
+fabriquer le sucre, le glucose, tant à jeun
+
+566
+00:35:23,140 --> 00:35:26,400
+que en postprandial, et qu'il constitue 25%,
+
+567
+00:35:26,400 --> 00:35:30,360
+ce qui n'est pas négligeable.
+
+568
+00:35:31,300 --> 00:35:34,960
+Le quart du glucose total sécrété est sécrété
+
+569
+00:35:34,960 --> 00:35:37,320
+par la zone corticale rénale.
+
+570
+00:35:39,420 --> 00:35:45,060
+La zone corticale va sécréter le glucose par
+
+571
+00:35:45,060 --> 00:35:45,400
+le rein.
+
+572
+00:35:46,720 --> 00:35:49,840
+C'est la zone médulaire qui utilise le
+
+573
+00:35:49,840 --> 00:35:55,260
+glucose à fin énergétique, qui constitue 10%
+
+574
+00:35:55,260 --> 00:35:56,020
+du glucose.
+
+575
+00:35:56,920 --> 00:36:02,040
+Donc grossièrement, si on fait 25-10, c
+
+576
+00:36:02,040 --> 00:36:05,000
+'est parce que 25% du glucose total
+
+577
+00:36:05,000 --> 00:36:07,240
+est sécrété par la zone corticale rénale.
+
+578
+00:36:08,180 --> 00:36:09,880
+Mais par contre, la zone médulaire du rein
+
+579
+00:36:09,880 --> 00:36:12,440
+va utiliser 10% du glucose à des
+
+580
+00:36:12,440 --> 00:36:14,120
+fins énergétiques.
+
+581
+00:36:14,500 --> 00:36:18,360
+Donc si on soustrait, on a 15%
+
+582
+00:36:18,360 --> 00:36:21,220
+des fluctuations glycémiques qui sont dues au rein.
+
+583
+00:36:21,480 --> 00:36:24,840
+Tout simplement, si on veut banaliser la phrasologie.
+
+584
+00:36:25,800 --> 00:36:29,920
+Le souci, c'est que chez le diabétique,
+
+585
+00:36:30,240 --> 00:36:31,720
+ce chiffre n'est plus valable.
+
+586
+00:36:32,280 --> 00:36:33,780
+Et je vais vous expliquer comment.
+
+587
+00:36:34,760 --> 00:36:37,260
+Tout ceci pour vous expliquer le rôle du
+
+588
+00:36:37,260 --> 00:36:39,580
+rein dans la physiopathologie du diabète de type
+
+589
+00:36:39,580 --> 00:36:39,760
+2.
+
+590
+00:36:42,130 --> 00:36:47,190
+Alors, chez le diabétique de type 2, en
+
+591
+00:36:47,190 --> 00:36:50,590
+fait, on a une élévation du seuil rénal
+
+592
+00:36:50,590 --> 00:36:52,930
+de la réabsorption du glucose.
+
+593
+00:36:53,450 --> 00:36:55,390
+Comment ?
+
+594
+00:36:56,050 --> 00:36:58,130
+Avant de vous lire la slide, je vais
+
+595
+00:36:58,130 --> 00:36:59,490
+vous expliquer ce mécanisme.
+
+596
+00:37:00,150 --> 00:37:01,770
+Pour moi, c'est le plus important.
+
+597
+00:37:03,270 --> 00:37:05,950
+Quand le rein reçoit plus que de 1
+
+598
+00:37:05,950 --> 00:37:08,150
+,80 g de glucose par jour.
+
+599
+00:37:09,110 --> 00:37:13,010
+Donc par exemple, admettons que chaque jour, j
+
+600
+00:37:13,010 --> 00:37:16,210
+'ai des glycémies moyennes de 2,5-3
+
+601
+00:37:16,210 --> 00:37:16,510
+g.
+
+602
+00:37:16,950 --> 00:37:18,030
+Qu'est-ce qui va se passer ?
+
+603
+00:37:18,030 --> 00:37:20,410
+Il y aura un recrutement massif des récepteurs.
+
+604
+00:37:20,410 --> 00:37:22,530
+Il y aura une production et un recrutement
+
+605
+00:37:22,530 --> 00:37:25,070
+massif des récepteurs et gel T2.
+
+606
+00:37:25,690 --> 00:37:27,230
+Une augmentation massive.
+
+607
+00:37:27,570 --> 00:37:32,490
+Un recrutement massif pour essayer de minimiser l
+
+608
+00:37:32,490 --> 00:37:34,570
+'excrétion du glucose dans les urines.
+
+609
+00:37:34,930 --> 00:37:36,410
+Donc, qu'est-ce qui se passe ?
+
+610
+00:37:36,970 --> 00:37:39,330
+Il y a une augmentation du seuil rénal
+
+611
+00:37:39,330 --> 00:37:40,310
+de réabsorption.
+
+612
+00:37:40,610 --> 00:37:42,650
+Donc, il y a une réabsorption plus importante.
+
+613
+00:37:43,390 --> 00:37:46,330
+Le seuil chez le diabétique commence à 2
+
+614
+00:37:46,330 --> 00:37:46,810
+,20 g.
+
+615
+00:37:48,310 --> 00:37:52,630
+Alors, quelles sont les anomalies au niveau rénal
+
+616
+00:37:52,630 --> 00:37:55,410
+dans la physiopathologie du diabète de type 2
+
+617
+00:37:55,410 --> 00:37:55,810
+?
+
+618
+00:37:56,310 --> 00:37:58,650
+Alors, dans le rein du diabétique, il y
+
+619
+00:37:58,650 --> 00:38:00,670
+a une augmentation de l'utilisation du glucose
+
+620
+00:38:00,670 --> 00:38:01,350
+2 à 3 fois.
+
+621
+00:38:01,410 --> 00:38:04,370
+Bien sûr, une surconsommation pour essayer de réduire.
+
+622
+00:38:04,910 --> 00:38:07,570
+Une augmentation de la néoglucogénèse rénale.
+
+623
+00:38:08,010 --> 00:38:11,250
+Donc, c'est comme les mécanismes physiopathologiques de
+
+624
+00:38:11,250 --> 00:38:11,810
+la néoglucogénèse.
+
+625
+00:38:12,630 --> 00:38:15,050
+L'inondation par les substrats, etc.
+
+626
+00:38:15,050 --> 00:38:16,530
+Donc, à 300%.
+
+627
+00:38:17,050 --> 00:38:20,370
+Une augmentation de la réabsorption rénale du glucose.
+
+628
+00:38:21,410 --> 00:38:22,070
+Pourquoi ?
+
+629
+00:38:22,070 --> 00:38:24,190
+Parce qu'on a une augmentation de 20
+
+630
+00:38:24,190 --> 00:38:27,090
+% du transport maximal du glucose par recrutement
+
+631
+00:38:27,090 --> 00:38:29,930
+massif par les récepteurs SGLT2.
+
+632
+00:38:30,870 --> 00:38:33,470
+Et bien sûr, une augmentation du seuil rénal
+
+633
+00:38:33,470 --> 00:38:36,050
+de réabsorption du glucose à 2,20 g.
+
+634
+00:38:36,090 --> 00:38:38,890
+C'est une manière d'adapter le rein
+
+635
+00:38:38,890 --> 00:38:42,990
+et le corps à cette hyperglycémie chronique.
+
+636
+00:38:42,990 --> 00:38:46,010
+Bien sûr, tout ça est dû principalement à
+
+637
+00:38:46,010 --> 00:38:48,050
+l'amplification de l'expression du gène du
+
+638
+00:38:48,050 --> 00:38:49,930
+SGLT2, comme je vous ai dit.
+
+639
+00:38:50,550 --> 00:38:51,870
+Donc, cette plaque, s'il vous plaît.
+
+640
+00:38:52,270 --> 00:38:58,430
+Je voudrais que vous compreniez les informations citées
+
+641
+00:38:58,430 --> 00:38:59,130
+sur cette plaque.
+
+642
+00:38:59,270 --> 00:39:03,550
+Parce qu'elles sont vraiment importantes à saisir
+
+643
+00:39:03,550 --> 00:39:06,790
+pour la compréhension du cours.
+
+644
+00:39:06,790 --> 00:39:12,610
+Et aussi pour comprendre les nouvelles thérapeutiques antidiabétiques
+
+645
+00:39:12,610 --> 00:39:16,310
+qui se basent justement sur l'effet rénal
+
+646
+00:39:16,310 --> 00:39:18,330
+dans la physiopathologie du diabète de type 2.
+
+647
+00:39:22,480 --> 00:39:24,880
+Alors, cette slide va résumer tout ce que
+
+648
+00:39:24,880 --> 00:39:25,300
+j'ai dit.
+
+649
+00:39:27,060 --> 00:39:31,520
+C'est le rôle du rein dans la
+
+650
+00:39:31,520 --> 00:39:33,820
+génèse ou dans la physiopathologie du diabète de
+
+651
+00:39:33,820 --> 00:39:34,260
+type 2.
+
+652
+00:39:35,260 --> 00:39:42,400
+On a une surproduction du sucre, la néoglycogénèse
+
+653
+00:39:42,400 --> 00:39:43,720
+rénale qui est augmentée.
+
+654
+00:39:44,860 --> 00:39:48,240
+J'ai un seuil rénal qui est augmenté
+
+655
+00:39:48,240 --> 00:39:49,600
+chez le diabétique de type 2.
+
+656
+00:39:50,240 --> 00:39:53,080
+J'ai un recrutement massif, une surexpression des
+
+657
+00:39:53,080 --> 00:39:54,140
+gènes SGLT2.
+
+658
+00:39:55,120 --> 00:39:59,480
+Et une augmentation de la réabsorption rénale du
+
+659
+00:39:59,480 --> 00:40:00,040
+glucose.
+
+660
+00:40:02,610 --> 00:40:05,630
+Alors, c'est quoi la retombée pratique?
+
+661
+00:40:05,790 --> 00:40:07,970
+Toujours, je vous réfère à la retombée pratique.
+
+662
+00:40:08,450 --> 00:40:11,610
+C'est quoi la retombée pratique de ce
+
+663
+00:40:11,610 --> 00:40:14,510
+cours, de ce mécanisme?
+
+664
+00:40:14,690 --> 00:40:19,070
+C'est que les chercheurs ont pensé à
+
+665
+00:40:19,070 --> 00:40:20,750
+bloquer ces récepteurs.
+
+666
+00:40:21,470 --> 00:40:24,130
+Donc, en bloquant ces récepteurs SGLT2, qu'est
+
+667
+00:40:24,130 --> 00:40:24,570
+-ce qu'on fait?
+
+668
+00:40:25,710 --> 00:40:27,410
+On bloque la réabsorption.
+
+669
+00:40:28,450 --> 00:40:29,190
+Donc, qu'est-ce qu'on fait?
+
+670
+00:40:29,190 --> 00:40:31,670
+On fait comme une dialyse du sucre.
+
+671
+00:40:32,110 --> 00:40:33,350
+On élimine dans les urines.
+
+672
+00:40:33,510 --> 00:40:34,450
+On bloque la réabsorption.
+
+673
+00:40:34,610 --> 00:40:36,810
+Donc, les gens pissent le glucose.
+
+674
+00:40:37,810 --> 00:40:39,770
+Donc, on va diminuer la charge de la
+
+675
+00:40:39,770 --> 00:40:42,110
+glycémie en pissant le maximum de glucose.
+
+676
+00:40:42,270 --> 00:40:46,490
+En bloquant la réabsorption, on baisse la glycémie
+
+677
+00:40:46,490 --> 00:40:47,290
+automatiquement.
+
+678
+00:40:47,470 --> 00:40:49,930
+Et c'est la nouvelle cible thérapeutique pour
+
+679
+00:40:49,930 --> 00:40:50,950
+le diabète de type 2.
+
+680
+00:40:54,990 --> 00:40:56,770
+Comment se présente le diabète de type 2
+
+681
+00:40:56,770 --> 00:40:57,370
+cliniquement?
+
+682
+00:41:01,120 --> 00:41:03,680
+La gravité du diabète de type 2, comme
+
+683
+00:41:03,680 --> 00:41:05,440
+je vous ai dit dans les définitions, c
+
+684
+00:41:05,440 --> 00:41:09,560
+'est que c'est une pathologie évolutive, insidieuse,
+
+685
+00:41:09,760 --> 00:41:12,280
+qui peut être asymptomatique et révéler d'emblée
+
+686
+00:41:12,280 --> 00:41:14,300
+au stade de complications dégénératives.
+
+687
+00:41:15,020 --> 00:41:18,460
+Dans 21%, on va la découvrir à l
+
+688
+00:41:18,460 --> 00:41:22,280
+'occasion de complications graves rétiniennes, comme une hémorragie
+
+689
+00:41:22,280 --> 00:41:26,120
+du vitré, comme une rétinopathie proliférante sévère.
+
+690
+00:41:26,120 --> 00:41:28,540
+Dans 12% des cas, au stade de
+
+691
+00:41:28,540 --> 00:41:31,440
+néphropathie diabétique avec microalbumurie élevée.
+
+692
+00:41:32,140 --> 00:41:34,300
+Dans 20% des cas, suite à des
+
+693
+00:41:34,300 --> 00:41:37,560
+complications macrovasculaires, macroangiopathiques.
+
+694
+00:41:37,760 --> 00:41:39,220
+Et dans 12% des cas, suite à
+
+695
+00:41:39,220 --> 00:41:42,160
+une neuropathie diabétique hyperalgique.
+
+696
+00:41:43,200 --> 00:41:47,160
+S'il vous plaît, je voudrais que vous
+
+697
+00:41:47,160 --> 00:41:52,180
+notiez deux chiffres, s'il vous plaît, puisque
+
+698
+00:41:52,180 --> 00:41:55,080
+c'est des chiffres hyper importants sur la
+
+699
+00:41:55,080 --> 00:41:58,160
+pratique quotidienne en diabétologie.
+
+700
+00:41:58,480 --> 00:42:01,160
+C'est le chiffre de révélation du diabète
+
+701
+00:42:01,160 --> 00:42:04,000
+de type 2 suite aux complications rétiniennes, 21%.
+
+702
+00:42:04,000 --> 00:42:08,380
+Donc déjà, on nous appelle dans un cinquième
+
+703
+00:42:08,380 --> 00:42:11,640
+des cas, chez des patients non connus diabétiques,
+
+704
+00:42:12,160 --> 00:42:17,780
+en ophtalmologie, pour traiter ou équilibrer le diabète
+
+705
+00:42:17,780 --> 00:42:21,360
+chez des personnes qui vont d'emblée présenter
+
+706
+00:42:21,360 --> 00:42:24,800
+des hémorragies du vitré ou des cécités.
+
+707
+00:42:25,740 --> 00:42:28,360
+Donc, c'est un chiffre à garder en
+
+708
+00:42:28,360 --> 00:42:29,200
+tête, s'il vous plaît.
+
+709
+00:42:30,140 --> 00:42:31,420
+Donc, je peux poser la question.
+
+710
+00:42:32,000 --> 00:42:36,660
+Donc, rétinopathie diabétique peut être révélatrice dans un
+
+711
+00:42:36,660 --> 00:42:39,700
+cinquième des cas ou dans 21% des
+
+712
+00:42:39,700 --> 00:42:39,880
+cas.
+
+713
+00:42:40,000 --> 00:42:40,600
+C'est important.
+
+714
+00:42:41,660 --> 00:42:43,260
+Autre chiffre à garder en mémoire, c'est
+
+715
+00:42:43,260 --> 00:42:44,620
+celui de la macroangiopathie.
+
+716
+00:42:44,620 --> 00:42:47,960
+Donc, on a déjà parlé dans les cours
+
+717
+00:42:47,960 --> 00:42:51,220
+précédents sur l'exemple du patient avec infarctus.
+
+718
+00:42:51,780 --> 00:42:57,320
+Donc, un syndrome coronaire, une anomalie macroangiopathique peut
+
+719
+00:42:57,320 --> 00:42:59,820
+révéler le diabète dans 20% des cas.
+
+720
+00:43:04,540 --> 00:43:06,240
+Donc, du coup, le diabète de type 2
+
+721
+00:43:06,240 --> 00:43:10,460
+est asymptomatique, souvent de découverte fortuite sur un
+
+722
+00:43:10,460 --> 00:43:11,900
+examen systématique.
+
+723
+00:43:13,530 --> 00:43:17,250
+Il peut aussi être découvert à l'occasion
+
+724
+00:43:17,250 --> 00:43:22,830
+d'une décompensation hyperglycémique symptomatique, essentiellement faite par
+
+725
+00:43:22,830 --> 00:43:24,590
+le syndrome polyhéropolydépsique.
+
+726
+00:43:25,390 --> 00:43:27,990
+Le plus souvent, il s'agit de gens
+
+727
+00:43:27,990 --> 00:43:30,070
+qui sont âgés de plus de 40 ans,
+
+728
+00:43:30,210 --> 00:43:32,930
+sédentaires, qui ont des antécédents familiaux.
+
+729
+00:43:33,190 --> 00:43:34,750
+Vous vous rappelez, on a souligné l'intérêt
+
+730
+00:43:34,750 --> 00:43:36,090
+de l'irrégulité positive.
+
+731
+00:43:37,690 --> 00:43:39,490
+Des gens qui ont des antécédents personnels de
+
+732
+00:43:39,490 --> 00:43:41,350
+diabète gestationnel ou de macrosomie.
+
+733
+00:43:41,350 --> 00:43:46,290
+Donc, surtout lorsque je pose la question chez
+
+734
+00:43:46,290 --> 00:43:49,890
+une patiente diabétique de type 2, je pose
+
+735
+00:43:49,890 --> 00:43:52,590
+la question juste pour essayer de dater.
+
+736
+00:43:52,750 --> 00:43:54,690
+Parce que le souci dans le diabète de
+
+737
+00:43:54,690 --> 00:43:56,690
+type 2, c'est de dater le début
+
+738
+00:43:56,690 --> 00:43:57,350
+du diabète.
+
+739
+00:43:58,930 --> 00:44:01,430
+Donc, je lui pose la question pour essayer
+
+740
+00:44:01,430 --> 00:44:04,470
+de voir quand est-ce qu'on commençait
+
+741
+00:44:04,470 --> 00:44:06,450
+les anomalies de la glucorégulation.
+
+742
+00:44:06,450 --> 00:44:09,370
+On lui dit, elle est une patiente qui
+
+743
+00:44:09,370 --> 00:44:12,490
+est déjà 50 ans, qui n'a plus
+
+744
+00:44:12,490 --> 00:44:13,890
+ses règles, qui est ménopausée.
+
+745
+00:44:14,630 --> 00:44:16,830
+On va lui dire, et dans vos grossesses
+
+746
+00:44:16,830 --> 00:44:18,010
+antérieures, est-ce qu'il y a eu
+
+747
+00:44:18,010 --> 00:44:18,750
+des gros bébés?
+
+748
+00:44:19,090 --> 00:44:20,710
+Et donc, si on nous dit, elle nous
+
+749
+00:44:20,710 --> 00:44:24,690
+dit, oui, lors des deux, je cite ça
+
+750
+00:44:24,690 --> 00:44:25,970
+à titre d'exemple, bien sûr.
+
+751
+00:44:26,630 --> 00:44:29,550
+Lors de mes deux derniers accouchements sur mes
+
+752
+00:44:29,550 --> 00:44:31,830
+quatre enfants, les deux derniers étaient gros, ils
+
+753
+00:44:31,830 --> 00:44:35,370
+pesaient plus de 4,5 kg ou 4
+
+754
+00:44:35,370 --> 00:44:35,810
+kg.
+
+755
+00:44:36,290 --> 00:44:39,270
+Je me dis, eh bien, déjà, donc ces
+
+756
+00:44:39,270 --> 00:44:45,790
+anomalies commencent déjà lors de la troisième grossesse,
+
+757
+00:44:45,910 --> 00:44:46,330
+par exemple.
+
+758
+00:44:46,490 --> 00:44:47,250
+C'est ça l'impact.
+
+759
+00:44:48,630 --> 00:44:52,070
+Souvent, on a un syndrome métabolique associé, surtout
+
+760
+00:44:52,070 --> 00:44:55,790
+secondaire à l'obésité abdominale, l'HTA et
+
+761
+00:44:55,790 --> 00:44:56,670
+la dyslépidémie.
+
+762
+00:44:59,180 --> 00:45:00,980
+Comment explorer un diabète de type 2?
+
+763
+00:45:02,360 --> 00:45:05,700
+Donc, les examens complémentaires à la découverte.
+
+764
+00:45:06,920 --> 00:45:11,240
+Bien sûr, si je découvre devant des signes
+
+765
+00:45:11,240 --> 00:45:14,660
+cliniques ou devant une hyperglycémie ponctuelle au milieu
+
+766
+00:45:14,660 --> 00:45:17,080
+de la journée, je dois compléter, bien sûr,
+
+767
+00:45:17,120 --> 00:45:20,200
+par une glycémie agent, une hémoglobine glycée, des
+
+768
+00:45:20,200 --> 00:45:23,340
+bandelettes urinaires, un bilan métabolique complet, à savoir
+
+769
+00:45:23,340 --> 00:45:28,260
+le bilan lipidique, LDL cholestérol, HDL cholestérol, triglycérides.
+
+770
+00:45:28,760 --> 00:45:31,600
+Je dois d'emblée, d'emblée, chez un
+
+771
+00:45:31,600 --> 00:45:37,040
+DT2, donc évaluer le bilan dégénératif, les complications
+
+772
+00:45:37,040 --> 00:45:39,400
+dégénératives, à savoir le fond de l'œil,
+
+773
+00:45:39,480 --> 00:45:42,880
+la microalbuminurie de 24 heures, la créatinine, le
+
+774
+00:45:42,880 --> 00:45:45,600
+CG au repos ou à l'effort, l
+
+775
+00:45:45,600 --> 00:45:49,980
+'échodoplaire artériel des membres inférieurs et des transsupra
+
+776
+00:45:49,980 --> 00:45:50,440
+-aortiques.
+
+777
+00:45:50,580 --> 00:45:52,420
+Lorsque j'ai, bien sûr, l'échodoplaire, je
+
+778
+00:45:52,420 --> 00:45:54,160
+ne vais pas le faire systématiquement, je le
+
+779
+00:45:54,160 --> 00:45:56,100
+fais sur les terrains vasculaires.
+
+780
+00:45:56,100 --> 00:45:57,800
+Par exemple, quelqu'un qui est venu avec
+
+781
+00:45:57,800 --> 00:46:01,240
+un syndrome coronaire, qui présente une artériopathie obliterante
+
+782
+00:46:01,240 --> 00:46:02,220
+des membres inférieurs.
+
+783
+00:46:03,420 --> 00:46:06,000
+Donc, l'échodoplaire, je ne vais pas le
+
+784
+00:46:06,000 --> 00:46:07,000
+faire systématiquement.
+
+785
+00:46:07,280 --> 00:46:09,500
+Mais le fond de l'œil, la microalbuminurie
+
+786
+00:46:09,500 --> 00:46:11,740
+de 24 heures et le CG, je vais
+
+787
+00:46:11,740 --> 00:46:13,900
+le faire systématiquement dès la découverte.
+
+788
+00:46:13,960 --> 00:46:14,220
+Pourquoi?
+
+789
+00:46:14,860 --> 00:46:18,500
+Parce que, rappelez-vous la slide précédente, jusqu
+
+790
+00:46:18,500 --> 00:46:20,680
+'à 21% des cas, on a des
+
+791
+00:46:20,680 --> 00:46:22,560
+complications qui sont révélatrices.
+
+792
+00:46:22,560 --> 00:46:25,660
+Contrairement à ce qu'on va voir pour
+
+793
+00:46:25,660 --> 00:46:26,800
+le diabétique de type 2.
+
+794
+00:46:31,510 --> 00:46:34,730
+Le but des examens complémentaires, c'est de
+
+795
+00:46:34,730 --> 00:46:37,950
+prévenir ou ralentir la progression des complications micro
+
+796
+00:46:37,950 --> 00:46:39,910
+et macro-angiopathiques.
+
+797
+00:46:40,950 --> 00:46:42,770
+Les moyens, bien sûr, on l'a dit,
+
+798
+00:46:42,910 --> 00:46:45,350
+on va doser la glycémie agent et l
+
+799
+00:46:45,350 --> 00:46:49,630
+'hémoglobine glycée, qui va être capitale pour le
+
+800
+00:46:49,630 --> 00:46:52,710
+suivi et l'efficacité thérapeutique.
+
+801
+00:46:53,870 --> 00:46:55,970
+Le rythme, c'est que je vais la
+
+802
+00:46:55,970 --> 00:46:58,630
+réaliser 2 à 3 mois si le diabète
+
+803
+00:46:58,630 --> 00:46:59,230
+est stable.
+
+804
+00:47:00,890 --> 00:47:04,590
+Et des fois, quand le diabète est instable,
+
+805
+00:47:04,690 --> 00:47:06,790
+je peux raccourcir la durée à 2 mois.
+
+806
+00:47:09,620 --> 00:47:13,720
+Les objectifs glycémiques en termes d'hémoglobine glycée
+
+807
+00:47:13,720 --> 00:47:15,420
+sont individualisés.
+
+808
+00:47:16,640 --> 00:47:19,520
+Généralement, on parle d'un objectif à 7%,
+
+809
+00:47:19,520 --> 00:47:23,540
+mais ça dépend aussi des terrains.
+
+810
+00:47:25,140 --> 00:47:27,420
+Le terrain, c'est le terrain du patient.
+
+811
+00:47:29,740 --> 00:47:32,980
+Je serai amené à élever les objectifs glycémiques
+
+812
+00:47:32,980 --> 00:47:34,940
+si j'ai un terrain fragile comme le
+
+813
+00:47:34,940 --> 00:47:36,900
+sujet âgé insuffisant rénal, parce qu'il y
+
+814
+00:47:36,900 --> 00:47:38,000
+a le risque d'hypoglycémie.
+
+815
+00:47:38,460 --> 00:47:41,800
+Donc, je peux tolérer des glycémies plus élevées.
+
+816
+00:47:41,880 --> 00:47:43,580
+Par exemple, à 7,5 ou 8.
+
+817
+00:47:44,320 --> 00:47:47,060
+Je peux être plus stricte chez la patiente
+
+818
+00:47:47,060 --> 00:47:47,620
+enceinte.
+
+819
+00:47:48,660 --> 00:47:52,020
+Donc, tout ça pour savoir que les objectifs
+
+820
+00:47:52,020 --> 00:47:53,780
+glycémiques ne sont pas les mêmes chez tout
+
+821
+00:47:53,780 --> 00:47:54,100
+le monde.
+
+822
+00:47:58,740 --> 00:47:59,860
+Ce que j'étais en train de vous
+
+823
+00:47:59,860 --> 00:48:04,520
+dire, c'est que l'objectif grossier consensuel
+
+824
+00:48:04,520 --> 00:48:07,400
+chez la majorité des gens, c'est d
+
+825
+00:48:07,400 --> 00:48:10,240
+'avoir une hémoglobine inférieure ou égale à 7%.
+
+826
+00:48:11,380 --> 00:48:15,480
+Quand cet objectif est atteint chez la plupart
+
+827
+00:48:15,480 --> 00:48:17,800
+des gens, on ne va pas modifier le
+
+828
+00:48:17,800 --> 00:48:20,260
+traitement, sauf bien sûr si j'ai des
+
+829
+00:48:20,260 --> 00:48:21,980
+effets secondaires ou une intolérance.
+
+830
+00:48:23,000 --> 00:48:26,500
+Et que si le chiffre dépasse 7,5,
+
+831
+00:48:27,280 --> 00:48:32,900
+sur deux hémoglobines successives, je suis obligée de
+
+832
+00:48:32,900 --> 00:48:36,600
+changer ou d'ajuster le traitement, parce que,
+
+833
+00:48:38,160 --> 00:48:42,920
+vu ces chiffres, il est considéré comme inefficace.
+
+834
+00:48:44,060 --> 00:48:46,840
+Entre 7 et 7,5, je ne vais
+
+835
+00:48:46,840 --> 00:48:47,900
+pas changer de traitement.
+
+836
+00:48:48,000 --> 00:48:48,380
+Pourquoi ?
+
+837
+00:48:48,380 --> 00:48:51,640
+Parce que je me dis, en agissant sur
+
+838
+00:48:51,640 --> 00:48:55,760
+la diététique, sur la nutrition, sur le poids
+
+839
+00:48:55,760 --> 00:48:58,180
+de la personne, sur l'activité physique, je
+
+840
+00:48:58,180 --> 00:49:01,580
+peux arriver rapidement à 7% sans changer
+
+841
+00:49:01,580 --> 00:49:04,000
+les thérapeutiques.
+
+842
+00:49:04,000 --> 00:49:11,260
+L'autosurveillance glycémique chez les patients diabétiques n
+
+843
+00:49:11,260 --> 00:49:13,740
+'est pas recommandée tous les jours chez les
+
+844
+00:49:13,740 --> 00:49:16,540
+patients qui sont non-traités par insulin, mais
+
+845
+00:49:16,540 --> 00:49:21,300
+on aime bien voir chez les personnes diabétiques
+
+846
+00:49:21,300 --> 00:49:24,360
+en consultation une idée sur le nictémaire, comment
+
+847
+00:49:24,360 --> 00:49:25,260
+ils passent leur journée.
+
+848
+00:49:25,720 --> 00:49:26,800
+Est-ce qu'ils montent plus tôt la
+
+849
+00:49:26,800 --> 00:49:27,720
+glycémie âge 1 ?
+
+850
+00:49:27,720 --> 00:49:28,780
+Est-ce qu'ils montent plus tôt la
+
+851
+00:49:28,780 --> 00:49:30,520
+glycémie postprandiale ?
+
+852
+00:49:30,520 --> 00:49:31,760
+Est-ce qu'ils sont au plus tôt
+
+853
+00:49:31,760 --> 00:49:32,700
+le matin ?
+
+854
+00:49:32,700 --> 00:49:34,300
+Est-ce qu'ils sont au plus tôt
+
+855
+00:49:34,300 --> 00:49:35,160
+la nuit ?
+
+856
+00:49:35,160 --> 00:49:38,080
+C'est hyper important pour nous aider à
+
+857
+00:49:38,080 --> 00:49:42,240
+ajuster le traitement thérapeutique.
+
+858
+00:49:45,780 --> 00:49:49,260
+Les objectifs glycémiques idéaux, je parle bien sûr
+
+859
+00:49:49,260 --> 00:49:50,920
+de la population générale, je ne me parle
+
+860
+00:49:50,920 --> 00:49:52,520
+pas des cas spéciaux dont j'ai parlé
+
+861
+00:49:52,520 --> 00:49:54,080
+tout à l'heure, du sujet âgé, de
+
+862
+00:49:54,080 --> 00:49:54,840
+la femme enceinte.
+
+863
+00:49:55,500 --> 00:49:58,760
+Grossièrement, les objectifs glycémiques clés, c'est avoir
+
+864
+00:49:58,760 --> 00:50:00,560
+une glycémie âge 1 entre 0,8 et
+
+865
+00:50:00,560 --> 00:50:05,160
+1,20, avoir une glycémie postprandiale entre 1
+
+866
+00:50:05,160 --> 00:50:09,640
+,20 et 1,80, et atteindre une hémoglobine
+
+867
+00:50:09,640 --> 00:50:12,540
+inférieure ou égale, je dis bien inférieure ou
+
+868
+00:50:12,540 --> 00:50:13,840
+égale à 7%.
+
+869
+00:50:16,190 --> 00:50:19,290
+Je vous ai résumé en pratique ce qu
+
+870
+00:50:19,290 --> 00:50:24,130
+'on fait, le bilan à effectuer tous les
+
+871
+00:50:24,130 --> 00:50:25,710
+3 mois et une fois par an.
+
+872
+00:50:25,710 --> 00:50:29,190
+Donc on a tous les 3 mois de
+
+873
+00:50:29,190 --> 00:50:33,310
+sclébène, on fait des bilans pour évaluation de
+
+874
+00:50:33,310 --> 00:50:37,010
+l'efficacité thérapeutique, mais une fois par an,
+
+875
+00:50:37,310 --> 00:50:38,610
+on fait ce qu'on appelle le bilan
+
+876
+00:50:38,610 --> 00:50:42,470
+dégénératif à la recherche et au dépistage des
+
+877
+00:50:42,470 --> 00:50:45,470
+complications dégénératives.
+
+878
+00:50:45,950 --> 00:50:48,450
+Donc vous avez sur ce tableau le détail
+
+879
+00:50:48,450 --> 00:50:52,250
+des explorations qu'on fait en pratique.
+
+880
+00:50:52,250 --> 00:50:55,430
+Devant un diabétique de type 2, en examen
+
+881
+00:50:55,430 --> 00:50:58,610
+clinique, je dois rechercher les paramètres anthropométriques, à
+
+882
+00:50:58,610 --> 00:51:01,190
+savoir le poids, la taille, l'IMC, chiffrer
+
+883
+00:51:01,190 --> 00:51:04,710
+la tension artérielle, examiner les pieds, palper les
+
+884
+00:51:04,710 --> 00:51:07,830
+poux à la recherche de complications macrongéopathiques de
+
+885
+00:51:07,830 --> 00:51:10,590
+réduction des peaux, surtout en périphérique au niveau
+
+886
+00:51:10,590 --> 00:51:15,910
+des membres inférieurs, rechercher les réflexes ostéotandineux pour
+
+887
+00:51:15,910 --> 00:51:20,830
+dépister la neuropathie, rechercher le souffle abdominaux, fémuraux
+
+888
+00:51:20,830 --> 00:51:22,950
+et carotidien dans le cadre de dépistage de
+
+889
+00:51:22,950 --> 00:51:27,630
+la macrongéopathie, on va rechercher une hypotension orthostatique
+
+890
+00:51:27,630 --> 00:51:29,090
+dans le cadre de la recherche de la
+
+891
+00:51:29,090 --> 00:51:32,650
+neuropathie diabétique autonome, on verra en détail dans
+
+892
+00:51:32,650 --> 00:51:36,630
+le cours complications, et puis on va examiner
+
+893
+00:51:36,630 --> 00:51:38,210
+la bouche et la sphère ORL.
+
+894
+00:51:40,560 --> 00:51:43,840
+Les examens paracliniques, on a dit l'hémoglobine
+
+895
+00:51:43,840 --> 00:51:46,120
+glyquée, l'ECG au repos, et bien sûr,
+
+896
+00:51:46,220 --> 00:51:47,480
+c'est le cardiologue qui va nous dire
+
+897
+00:51:47,480 --> 00:51:49,240
+la nécessité ou pas d'un ECG à
+
+898
+00:51:49,240 --> 00:51:52,540
+l'effort, un fond de l'œil, un
+
+899
+00:51:52,540 --> 00:51:55,620
+bilan lipidique, un bilan rénal avec une créatinémie
+
+900
+00:51:55,620 --> 00:51:59,020
+et une protéinurie ou microalbumurie de 24 heures.
+
+901
+00:52:03,350 --> 00:52:05,590
+Et donc, comme je vous ai dit, il
+
+902
+00:52:05,590 --> 00:52:08,390
+faut essayer toujours devant un diabétique de type
+
+903
+00:52:08,390 --> 00:52:11,010
+de découverte récente de conduire une anamnèse du
+
+904
+00:52:11,010 --> 00:52:16,490
+diabète très pointue pour essayer de dater le
+
+905
+00:52:16,490 --> 00:52:16,970
+diabète.
+
+906
+00:52:16,970 --> 00:52:18,550
+Donc, on s'est dit, on a toujours
+
+907
+00:52:18,550 --> 00:52:19,310
+des retards.
+
+908
+00:52:20,550 --> 00:52:23,710
+Vous allez voir sur la slide des découvertes
+
+909
+00:52:23,710 --> 00:52:26,470
+lors des complications, à gauche, si vous revenez
+
+910
+00:52:26,470 --> 00:52:28,930
+sur cette slide, vous allez voir qu'en
+
+911
+00:52:28,930 --> 00:52:31,250
+moyenne, sur la courbe, on a en moyenne
+
+912
+00:52:31,250 --> 00:52:35,290
+entre 6,5 et 7 ans de retard
+
+913
+00:52:35,290 --> 00:52:37,370
+depuis la découverte du diabète jusqu'à sa
+
+914
+00:52:37,370 --> 00:52:37,970
+révélation.
+
+915
+00:52:40,090 --> 00:52:43,810
+Donc, on doit rechercher les signes en rapport
+
+916
+00:52:43,810 --> 00:52:47,510
+avec un diabète secondaire pour éliminer une cause
+
+917
+00:52:47,510 --> 00:52:56,930
+secondaire qui pourrait conclure à une cause guérissable.
+
+918
+00:52:57,210 --> 00:53:01,650
+Par exemple, je dois rechercher les signes d
+
+919
+00:53:01,650 --> 00:53:07,810
+'hypercorticisme pour éliminer un diabète secondaire endocrinien.
+
+920
+00:53:08,370 --> 00:53:10,110
+Si il s'agit d'un adénome sur
+
+921
+00:53:10,110 --> 00:53:13,410
+un alien sécrétant le cortisol, en enlevant cet
+
+922
+00:53:13,410 --> 00:53:16,390
+adénome chirurgicalement, je peux guérir le diabète.
+
+923
+00:53:16,950 --> 00:53:17,250
+D'accord?
+
+924
+00:53:17,770 --> 00:53:21,230
+Donc, toujours, lors de la première consultation, il
+
+925
+00:53:21,230 --> 00:53:22,770
+faut que j'examine bien mon malade.
+
+926
+00:53:23,490 --> 00:53:24,970
+Je dois dater le diabète.
+
+927
+00:53:24,970 --> 00:53:30,870
+Je dois éliminer les signes en rapport avec
+
+928
+00:53:30,870 --> 00:53:32,130
+un diabète secondaire.
+
+929
+00:53:32,950 --> 00:53:37,830
+Donc, pour tous, je dois rechercher les antécédents
+
+930
+00:53:37,830 --> 00:53:41,270
+médicaux, les traitements en cours, chercher une corticothérapie,
+
+931
+00:53:41,750 --> 00:53:44,990
+la prise d'un interférent, d'un immunosuppresseur.
+
+932
+00:53:45,610 --> 00:53:48,070
+Je dois rechercher les antécédents familiaux coronariens.
+
+933
+00:53:48,070 --> 00:53:52,070
+Je dois donc rechercher une hypertension artérielle, une
+
+934
+00:53:52,070 --> 00:53:52,810
+dyslépidémie.
+
+935
+00:53:53,070 --> 00:53:55,470
+Je dois chercher les habitudes alimentaires.
+
+936
+00:53:55,930 --> 00:53:57,990
+Je dois checker l'activité physique parce que,
+
+937
+00:53:58,070 --> 00:53:59,670
+je vous ai dit, la diète, vous allez
+
+938
+00:53:59,670 --> 00:54:01,970
+voir sur le cours nutrition et diabète.
+
+939
+00:54:02,870 --> 00:54:06,270
+Donc, la diète est importante.
+
+940
+00:54:06,570 --> 00:54:13,050
+Elle me fait réduire de 0,5%
+
+941
+00:54:13,050 --> 00:54:15,730
+le taux d'hémoglobine glycée et l'activité
+
+942
+00:54:15,730 --> 00:54:18,110
+physique aussi.
+
+943
+00:54:18,870 --> 00:54:21,230
+Et bien sûr, il faut établir un diagnostic
+
+944
+00:54:21,230 --> 00:54:22,010
+éducatif.
+
+945
+00:54:22,250 --> 00:54:25,090
+Il faut essayer d'éduquer votre patient sur
+
+946
+00:54:25,090 --> 00:54:27,070
+les croyances sur le diabète, essayer de les
+
+947
+00:54:27,070 --> 00:54:30,530
+corriger et, bien sûr, lui inculquer les conseils
+
+948
+00:54:30,530 --> 00:54:31,110
+qu'il faut.

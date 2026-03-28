@@ -1,0 +1,1391 @@
+1
+00:00:00,460 --> 00:00:03,080
+Aujourd'hui, on va aborder le deuxième cours
+
+2
+00:00:03,080 --> 00:00:04,840
+qui est le syndrome de masse rénale.
+
+3
+00:00:06,220 --> 00:00:08,060
+Les objectifs de ce cours.
+
+4
+00:00:09,060 --> 00:00:11,500
+Au bout de ce cours, l'étudiant doit
+
+5
+00:00:11,500 --> 00:00:14,340
+être capable de définir l'apport et les
+
+6
+00:00:14,340 --> 00:00:16,940
+limites de techniques d'imagerie dans le syndrome
+
+7
+00:00:16,940 --> 00:00:20,580
+de masse rénale, définir le syndrome de masse
+
+8
+00:00:20,580 --> 00:00:22,860
+rénale à l'échographie et de préciser l
+
+9
+00:00:22,860 --> 00:00:26,040
+'apport de l'imagerie dans le diagnostic éthiologique
+
+10
+00:00:26,040 --> 00:00:26,940
+des masses rénales.
+
+11
+00:00:28,160 --> 00:00:31,060
+Pour cela, on va aborder le plan suivant,
+
+12
+00:00:31,220 --> 00:00:34,900
+donc toujours une introduction suivie par la clinique,
+
+13
+00:00:35,920 --> 00:00:39,400
+les moyens d'exploration radiologique et puis les
+
+14
+00:00:39,400 --> 00:00:40,860
+diagnostics éthiologiques.
+
+15
+00:00:41,040 --> 00:00:42,060
+Avant de conclure.
+
+16
+00:00:45,130 --> 00:00:47,820
+La problématique du syndrome de masse rénale, c
+
+17
+00:00:47,820 --> 00:00:52,460
+'est de distinguer entre un kyste ou un
+
+18
+00:00:52,460 --> 00:00:56,280
+cancer rénal et là, l'échographie trouve tout
+
+19
+00:00:56,280 --> 00:01:00,160
+son intérêt, notamment quand elle est couplée au
+
+20
+00:01:00,160 --> 00:01:00,480
+Doppler.
+
+21
+00:01:01,700 --> 00:01:04,840
+La tomodensitométrie est réservée au cas où le
+
+22
+00:01:04,840 --> 00:01:07,680
+diagnostic est difficile ou en cas de tumeur
+
+23
+00:01:07,680 --> 00:01:11,140
+de petite taille inférieure à 3 centimètres ou
+
+24
+00:01:11,140 --> 00:01:13,000
+dans le cadre du bilan d'extension de
+
+25
+00:01:13,000 --> 00:01:15,660
+masse de nature solide ou mixte.
+
+26
+00:01:16,480 --> 00:01:18,080
+L'IRM, quant à elle, a une bonne
+
+27
+00:01:18,080 --> 00:01:22,780
+résolution spatiale et elle permet de faire l
+
+28
+00:01:22,780 --> 00:01:25,600
+'extension, le diagnostic d'une extension veineuse de
+
+29
+00:01:25,600 --> 00:01:28,400
+cancer d'urin vers la veine rénale ou
+
+30
+00:01:28,400 --> 00:01:29,680
+la veine cave inférieure.
+
+31
+00:01:30,400 --> 00:01:35,020
+Des panxions biopsies rénales peuvent être réalisées par
+
+32
+00:01:35,020 --> 00:01:38,940
+guidage échographique ou scanographique si le diagnostic est
+
+33
+00:01:38,940 --> 00:01:39,380
+incertain.
+
+34
+00:01:41,710 --> 00:01:43,250
+Alors, quel est le rôle de l'imagerie?
+
+35
+00:01:43,890 --> 00:01:46,710
+L'imagerie permet de faire le diagnostic positif,
+
+36
+00:01:47,550 --> 00:01:49,950
+de donner les éthiologies d'une masse rénale,
+
+37
+00:01:50,230 --> 00:01:52,050
+de faire le bilan d'extension en cas
+
+38
+00:01:52,050 --> 00:01:55,830
+de cancer rénal, d'assurer la surveillance post
+
+39
+00:01:55,830 --> 00:01:59,690
+-thérapeutique et enfin de guider des panxions biopsies
+
+40
+00:01:59,690 --> 00:02:00,150
+rénales.
+
+41
+00:02:01,310 --> 00:02:05,610
+Cliniquement, une masse rénale se manifeste le plus
+
+42
+00:02:05,610 --> 00:02:08,590
+fréquemment par l'hématurie, qui est en général
+
+43
+00:02:08,590 --> 00:02:12,910
+une hématurie totale, par des douleurs lombaires, une
+
+44
+00:02:12,910 --> 00:02:15,370
+masse lombaire, un contact lombaire.
+
+45
+00:02:16,150 --> 00:02:18,710
+Également, on peut avoir un varicocèle du côté
+
+46
+00:02:18,710 --> 00:02:22,370
+gauche, de la fièvre, des douleurs osseuses ou
+
+47
+00:02:22,370 --> 00:02:25,530
+carrément la masse rénale peut être asymptomatique.
+
+48
+00:02:27,690 --> 00:02:30,810
+Pour les moyens d'exploration, l'échodoplaire est
+
+49
+00:02:30,810 --> 00:02:32,570
+réalisé en première intention.
+
+50
+00:02:33,930 --> 00:02:37,310
+Cet échodoplaire permet la distinction entre les masses
+
+51
+00:02:37,310 --> 00:02:38,770
+kystiques et les masses solides.
+
+52
+00:02:39,830 --> 00:02:41,730
+Alors, la sémiologie de base d'une masse
+
+53
+00:02:41,730 --> 00:02:42,250
+rénale.
+
+54
+00:02:44,130 --> 00:02:46,650
+Et tout d'abord, une masse donne une
+
+55
+00:02:46,650 --> 00:02:49,790
+déformation du contour rénal à l'échographie.
+
+56
+00:02:50,530 --> 00:02:53,470
+Elle peut donner une augmentation globale ou localisée
+
+57
+00:02:53,470 --> 00:02:56,750
+du volume du rein, une modification de l
+
+58
+00:02:56,750 --> 00:02:57,790
+'écostructure du rein.
+
+59
+00:02:58,850 --> 00:03:01,150
+Elle donne aussi le signe de l'éperon
+
+60
+00:03:01,150 --> 00:03:06,590
+qui signale la situation rénale d'une masse
+
+61
+00:03:06,590 --> 00:03:10,410
+et le refoulement des structures vasculaires.
+
+62
+00:03:10,670 --> 00:03:11,850
+Et là, c'est le rôle du Doppler.
+
+63
+00:03:12,550 --> 00:03:15,290
+Et en dernier, un syndrome de masse rénale
+
+64
+00:03:15,290 --> 00:03:18,850
+donne une compression des organes de voisinage.
+
+65
+00:03:20,470 --> 00:03:23,170
+Sur cette image, vous avez une déformation du
+
+66
+00:03:23,170 --> 00:03:23,930
+contour du rein.
+
+67
+00:03:25,250 --> 00:03:27,910
+Là, vous avez une modification de la structure
+
+68
+00:03:27,910 --> 00:03:28,370
+du rein.
+
+69
+00:03:29,050 --> 00:03:31,430
+Vous avez des masses rénales hyper écogènes comme
+
+70
+00:03:31,430 --> 00:03:33,610
+le montre la flèche jaune et blanche.
+
+71
+00:03:34,650 --> 00:03:37,430
+Ici, vous avez une augmentation globale du volume
+
+72
+00:03:37,430 --> 00:03:37,950
+rénal.
+
+73
+00:03:39,570 --> 00:03:41,010
+Et là, on a le signe de l
+
+74
+00:03:41,010 --> 00:03:42,950
+'éperon qui est sous forme d'un triangle
+
+75
+00:03:42,950 --> 00:03:47,430
+qui signifie le parenchyme rénal normal qui entoure
+
+76
+00:03:47,430 --> 00:03:49,550
+la masse rénale au centre.
+
+77
+00:03:50,330 --> 00:03:54,990
+Le Doppler permet de voir le refoulement des
+
+78
+00:03:54,990 --> 00:03:58,330
+structures vasculaires autour de cette masse hypo écogène
+
+79
+00:03:58,330 --> 00:03:59,250
+au centre du rein.
+
+80
+00:04:00,530 --> 00:04:04,070
+Bien sûr, une masse rénale donne une compression
+
+81
+00:04:04,070 --> 00:04:05,870
+des organes de voisinage.
+
+82
+00:04:06,170 --> 00:04:08,650
+Ici, une masse du rein droit avec compression
+
+83
+00:04:08,650 --> 00:04:09,190
+du foie.
+
+84
+00:04:11,010 --> 00:04:14,850
+Deuxièmement, l'échographie nous renseigne sur la nature
+
+85
+00:04:14,850 --> 00:04:15,510
+de la masse.
+
+86
+00:04:15,950 --> 00:04:18,130
+Quand il s'agit d'un cas simple,
+
+87
+00:04:18,230 --> 00:04:20,910
+normalement, c'est une masse à contenu anécogène
+
+88
+00:04:20,910 --> 00:04:23,630
+qui donne un renforcement postérieur et qui a
+
+89
+00:04:23,630 --> 00:04:27,270
+une paroi fine avec des contours réguliers et
+
+90
+00:04:27,270 --> 00:04:28,910
+sans vascularisation au Doppler.
+
+91
+00:04:29,570 --> 00:04:32,050
+Lorsque ces signes sont rassemblés à l'échographie,
+
+92
+00:04:32,390 --> 00:04:35,090
+aucune autre investigation n'est indiquée.
+
+93
+00:04:35,990 --> 00:04:40,150
+Ici, un kyste anécogène du pôle inférieur du
+
+94
+00:04:40,150 --> 00:04:42,850
+rein avec une paroi fine et des contours
+
+95
+00:04:42,850 --> 00:04:45,810
+réguliers et regardez en arrière du kyste le
+
+96
+00:04:45,810 --> 00:04:46,910
+renforcement postérieur.
+
+97
+00:04:48,550 --> 00:04:55,110
+Les kystes atypiques sont diagnostiqués quand le contenu
+
+98
+00:04:55,110 --> 00:04:57,770
+du kyste est écogène, quand il y a
+
+99
+00:04:57,770 --> 00:05:00,210
+des cloisons intrakystiques et quand on a un
+
+100
+00:05:00,210 --> 00:05:03,490
+épicissement de la paroi, des calcifications de la
+
+101
+00:05:03,490 --> 00:05:06,250
+paroi ou carrément des végétations intrakystiques.
+
+102
+00:05:06,870 --> 00:05:09,410
+Et là, il faut compléter l'examen par
+
+103
+00:05:09,410 --> 00:05:11,410
+d'autres explorations qu'on verra par la
+
+104
+00:05:11,410 --> 00:05:11,730
+suite.
+
+105
+00:05:13,290 --> 00:05:16,850
+Quant aux masses solides qui peuvent être malines
+
+106
+00:05:16,850 --> 00:05:19,790
+ou bénines, ils ont à l'échographie une
+
+107
+00:05:19,790 --> 00:05:22,230
+écostructure hypo ou hyper écogène.
+
+108
+00:05:22,770 --> 00:05:25,930
+Ils peuvent être homogènes ou hétérogènes, mais sans
+
+109
+00:05:25,930 --> 00:05:29,510
+renforcement postérieur, avec des contours nets ou flous,
+
+110
+00:05:30,070 --> 00:05:32,110
+une vascularisation intratumorale.
+
+111
+00:05:32,590 --> 00:05:34,270
+Et là, tout l'intérêt du scanner pour
+
+112
+00:05:34,270 --> 00:05:35,770
+le bilan lésionnel précis.
+
+113
+00:05:37,670 --> 00:05:40,290
+Ici, vous avez un syndrome de masse polaire
+
+114
+00:05:40,290 --> 00:05:44,150
+supérieure du rein droit, une masse d'écostructure
+
+115
+00:05:44,150 --> 00:05:45,990
+tissulaire avec des contours réguliers.
+
+116
+00:05:49,680 --> 00:05:51,900
+Pour les masses mixtes, en général, ils ont
+
+117
+00:05:51,900 --> 00:05:55,280
+une écostructure hétérogène, des limites discontinues.
+
+118
+00:05:56,140 --> 00:05:58,380
+Le renforcement postérieur, cette fois ci, est moins
+
+119
+00:05:58,380 --> 00:06:00,940
+marqué que pour les masses purement liquidiennes.
+
+120
+00:06:01,680 --> 00:06:03,280
+Il peut s'agir d'un kystre manié,
+
+121
+00:06:03,460 --> 00:06:06,060
+d'un cancer nécrosé, d'un abcès rénal
+
+122
+00:06:06,060 --> 00:06:06,920
+ou d'un hématome.
+
+123
+00:06:07,300 --> 00:06:08,860
+Et là aussi, l'intérêt de faire un
+
+124
+00:06:08,860 --> 00:06:09,160
+scanner.
+
+125
+00:06:10,840 --> 00:06:13,340
+Le deuxième examen dans l'exploration des masses
+
+126
+00:06:13,340 --> 00:06:17,140
+rénales et la tomodensitométrie, cet examen permet de
+
+127
+00:06:17,140 --> 00:06:19,840
+faire une étude morphologique précise de la masse.
+
+128
+00:06:20,340 --> 00:06:22,680
+Il permet aussi de différencier les kystres des
+
+129
+00:06:22,680 --> 00:06:23,460
+masses solides.
+
+130
+00:06:24,240 --> 00:06:26,760
+Il permet de prédire l'origine bénigne ou
+
+131
+00:06:26,760 --> 00:06:28,700
+maligne de la masse et à la fois
+
+132
+00:06:28,700 --> 00:06:31,040
+de faire le bilan d'extension loco régionale
+
+133
+00:06:31,040 --> 00:06:31,800
+et à distance.
+
+134
+00:06:32,680 --> 00:06:35,120
+Le principe de cet examen, c'est de
+
+135
+00:06:35,120 --> 00:06:38,280
+savoir la densité de la masse avant et
+
+136
+00:06:38,280 --> 00:06:40,240
+après injection de produits de contraste.
+
+137
+00:06:41,460 --> 00:06:43,880
+Ces indications, ce sont les tumeurs solides à
+
+138
+00:06:43,880 --> 00:06:46,660
+l'échographie et les masses dont la nature
+
+139
+00:06:46,660 --> 00:06:48,420
+n'a pu être formellement précisée à l
+
+140
+00:06:48,420 --> 00:06:50,300
+'échographie, notamment les masses mixtes.
+
+141
+00:06:52,000 --> 00:06:54,280
+Pour les kystres simples, en scanner, ce sont
+
+142
+00:06:54,280 --> 00:06:57,660
+des masses qui sont arrondies, bien limitées, avec
+
+143
+00:06:57,660 --> 00:06:59,740
+une paroi fine et une densité qui est
+
+144
+00:06:59,740 --> 00:07:02,880
+liquidienne entre 0 et 20 unités Hansfield.
+
+145
+00:07:03,680 --> 00:07:06,180
+Ces masses kystiques, bien sûr, sont non modifiées
+
+146
+00:07:06,180 --> 00:07:08,440
+par l'injection de produits de contraste.
+
+147
+00:07:09,120 --> 00:07:11,920
+L'indication du scanner, ce sont les kystres
+
+148
+00:07:11,920 --> 00:07:14,340
+atypiques qu'on a déjà détaillés à l
+
+149
+00:07:14,340 --> 00:07:15,360
+'échographie.
+
+150
+00:07:17,370 --> 00:07:20,390
+Ici, une image purement kystique de la lèvre
+
+151
+00:07:20,390 --> 00:07:24,010
+postérieure du rein droit qui ne séroyose pas
+
+152
+00:07:24,010 --> 00:07:25,990
+après injection de produits de contraste et qui
+
+153
+00:07:25,990 --> 00:07:30,550
+refoule les piélons et les cavités piélo-calicielle
+
+154
+00:07:30,550 --> 00:07:32,350
+sur l'image d'en bas à droite.
+
+155
+00:07:33,770 --> 00:07:37,410
+Ici, vous avez une polykystose rénale bilatérale.
+
+156
+00:07:38,770 --> 00:07:40,930
+Là, vous avez un kystre atypique à l
+
+157
+00:07:40,930 --> 00:07:41,550
+'échographie.
+
+158
+00:07:41,750 --> 00:07:44,350
+Quand on fait le scanner, remarquez la paroi
+
+159
+00:07:44,350 --> 00:07:47,150
+de ce kystre qui est épaissie irrégulière, qui
+
+160
+00:07:47,150 --> 00:07:50,450
+séroyose après injection de produits de contraste et
+
+161
+00:07:50,450 --> 00:07:54,070
+qui infiltre la graisse périrénale et le fascia
+
+162
+00:07:54,070 --> 00:07:56,210
+aux alentours.
+
+163
+00:07:57,690 --> 00:07:59,990
+Quant aux masses solides, sur le scanner, ils
+
+164
+00:07:59,990 --> 00:08:03,250
+ont une densité tissulaire entre 30 et 40
+
+165
+00:08:03,250 --> 00:08:04,330
+unités Hansfield.
+
+166
+00:08:04,950 --> 00:08:07,930
+Elles sont hétérogènes et elles séroyosent après injection
+
+167
+00:08:07,930 --> 00:08:08,830
+de contraste.
+
+168
+00:08:09,770 --> 00:08:12,270
+Sur ces images, vous avez sur le rein
+
+169
+00:08:12,270 --> 00:08:14,910
+droit une masse qui est isodense et qui
+
+170
+00:08:14,910 --> 00:08:18,270
+séroyose de façon hétérogène après contraste et qui
+
+171
+00:08:18,270 --> 00:08:19,970
+est le siège de nécrose centrale.
+
+172
+00:08:22,210 --> 00:08:24,070
+Sur cette image là, c'est une énorme
+
+173
+00:08:24,070 --> 00:08:28,690
+masse du rein gauche qui, de nature tissulaire,
+
+174
+00:08:28,770 --> 00:08:31,789
+qui séroyose de façon hétérogène par le contraste
+
+175
+00:08:31,789 --> 00:08:34,070
+et qui est le siège de nécrose centrale.
+
+176
+00:08:35,950 --> 00:08:38,990
+Cette masse présente une extension à la veine
+
+177
+00:08:38,990 --> 00:08:40,630
+rénale et aux îles.
+
+178
+00:08:43,020 --> 00:08:45,120
+Le troisième examen, c'est l'imagerie par
+
+179
+00:08:45,120 --> 00:08:46,260
+résonance magnétique.
+
+180
+00:08:46,800 --> 00:08:49,960
+Quant au kyste simple, ils sont en hyposignale
+
+181
+00:08:49,960 --> 00:08:52,720
+T1, hypersignale T2 et ne se modifient pas
+
+182
+00:08:52,720 --> 00:08:54,660
+après injection de produits de contraste.
+
+183
+00:08:56,040 --> 00:08:58,420
+Comme sur cette image à gauche, l'image,
+
+184
+00:08:58,420 --> 00:09:01,440
+l'image kystique du rein droit est en
+
+185
+00:09:01,440 --> 00:09:06,400
+hyposignale T1, à droite, donc une volumineuse masse
+
+186
+00:09:06,400 --> 00:09:08,840
+kystique qui est en hypersignale T2.
+
+187
+00:09:08,960 --> 00:09:11,080
+Remarquez également la présence d'un micro kyste
+
+188
+00:09:11,080 --> 00:09:13,700
+sur le rein contralatéral qui est en hypothéa,
+
+189
+00:09:13,860 --> 00:09:16,380
+hyper T2, comme le montrent les deux flèches
+
+190
+00:09:16,380 --> 00:09:17,680
+bleues et blanches.
+
+191
+00:09:18,720 --> 00:09:20,720
+Les masses solides sur l'IRM sont en
+
+192
+00:09:20,720 --> 00:09:25,660
+hyposignale T1, en hypersignale T2 et présentent un
+
+193
+00:09:25,660 --> 00:09:28,960
+rayassement de signal après injection de gadolinium.
+
+194
+00:09:31,230 --> 00:09:34,130
+Alors, le quatrième examen est l'arbre urinaire
+
+195
+00:09:34,130 --> 00:09:35,030
+sans préparation.
+
+196
+00:09:35,230 --> 00:09:40,250
+Cet examen trouve ses indications donc de moins
+
+197
+00:09:40,250 --> 00:09:41,530
+en moins utilisées.
+
+198
+00:09:41,890 --> 00:09:44,310
+Mais si réalisé, ce qui peut nous montrer
+
+199
+00:09:44,310 --> 00:09:46,050
+dans le cadre d'un syndrome de masse,
+
+200
+00:09:46,170 --> 00:09:47,950
+c'est une déformation des contours du rein,
+
+201
+00:09:48,510 --> 00:09:51,670
+une brosselure, une soufflure, une augmentation diffuse de
+
+202
+00:09:51,670 --> 00:09:54,270
+la taille du rein, un effacement des contours
+
+203
+00:09:54,270 --> 00:09:57,770
+du rein, des bords externes du psoas, un
+
+204
+00:09:57,770 --> 00:10:00,910
+refoulement des clartés digestives et des calcifications en
+
+205
+00:10:00,910 --> 00:10:02,290
+projection de l'air rénal.
+
+206
+00:10:06,670 --> 00:10:09,910
+L'urographie intraveineuse est moins utilisée, de moins
+
+207
+00:10:09,910 --> 00:10:10,990
+en moins utilisée.
+
+208
+00:10:11,710 --> 00:10:15,150
+Elle prouve pratiquement son indication réduit à un
+
+209
+00:10:15,150 --> 00:10:20,270
+cliché d'arbre urinaire sans préparation post-uroscanaire
+
+210
+00:10:20,270 --> 00:10:22,330
+avec injection de produits de contraste.
+
+211
+00:10:22,810 --> 00:10:25,290
+La sémiologie de base d'un syndrome de
+
+212
+00:10:25,290 --> 00:10:29,810
+masse rénale allurographie intraveineuse montre une déformation des
+
+213
+00:10:29,810 --> 00:10:32,090
+contours du rein qui peut être localisé ou
+
+214
+00:10:32,090 --> 00:10:35,810
+diffuse, une déformation des cavités piélocalicielles à type
+
+215
+00:10:35,810 --> 00:10:40,710
+de refoulement, écrasement, étirement ou carrément une amputation
+
+216
+00:10:40,710 --> 00:10:44,750
+ou dernièrement, une déformation du tiers supérieur de
+
+217
+00:10:44,750 --> 00:10:45,290
+l'urterre.
+
+218
+00:10:51,420 --> 00:10:54,020
+Remarquez à droite comme à gauche une masse
+
+219
+00:10:54,020 --> 00:10:56,980
+qui refoule à gauche le pied long vers
+
+220
+00:10:56,980 --> 00:11:00,280
+le haut et les cavités piélocalicielles vers l
+
+221
+00:11:00,280 --> 00:11:00,720
+'extérieur.
+
+222
+00:11:01,080 --> 00:11:03,400
+A droite, le rein droit, syndrome de masse
+
+223
+00:11:03,400 --> 00:11:07,120
+médiorénale refoule les cavités piélocalicielles de part et
+
+224
+00:11:07,120 --> 00:11:07,400
+d'autre.
+
+225
+00:11:10,380 --> 00:11:13,520
+Les limites de l'urographie intraveineuse ne permettent
+
+226
+00:11:13,520 --> 00:11:16,260
+pas de savoir la nature kystique ou solide
+
+227
+00:11:16,260 --> 00:11:18,700
+de la masse et les masses de moins
+
+228
+00:11:18,700 --> 00:11:20,800
+de 3 centimètres ne sont pas détectées.
+
+229
+00:11:22,180 --> 00:11:25,320
+Les autres examens pour l'exploration d'un
+
+230
+00:11:25,320 --> 00:11:28,160
+syndrome de masse rénale sont l'artériographie, qui
+
+231
+00:11:28,160 --> 00:11:31,540
+est exceptionnellement réalisée à but diagnostique et qui
+
+232
+00:11:31,540 --> 00:11:34,880
+trouve son indication à visée thérapeutique lorsqu'on
+
+233
+00:11:34,880 --> 00:11:38,200
+veut faire une embolisation d'une masse vasculaire.
+
+234
+00:11:39,480 --> 00:11:45,120
+La radiologie interventionnelle trouve ses indications lorsqu'il
+
+235
+00:11:45,120 --> 00:11:47,380
+s'agit de kyst atypique ou quand il
+
+236
+00:11:47,380 --> 00:11:50,880
+s'agit de lésions infectieuses, des lésions secondaires,
+
+237
+00:11:50,960 --> 00:11:53,740
+notamment les métastases et les lymphomes ou lorsqu
+
+238
+00:11:53,740 --> 00:11:56,300
+'il s'agit de volumineuses masses rétropéritoniales d
+
+239
+00:11:56,300 --> 00:11:57,500
+'origine indéterminée.
+
+240
+00:11:57,920 --> 00:12:00,400
+Et dans ces cas là, on aura recours
+
+241
+00:12:00,400 --> 00:12:02,520
+à des biopsies, à des drainages.
+
+242
+00:12:04,540 --> 00:12:07,040
+Le diagnostic éthiologique des masses rénales.
+
+243
+00:12:07,280 --> 00:12:08,580
+Tout d'abord, il y a les masses
+
+244
+00:12:08,580 --> 00:12:09,160
+kystiques.
+
+245
+00:12:10,160 --> 00:12:12,660
+De ce fait, il faut savoir la classification
+
+246
+00:12:12,660 --> 00:12:14,260
+de bosniaque.
+
+247
+00:12:14,260 --> 00:12:16,640
+Le type 1, ce sont des kysts simples
+
+248
+00:12:16,640 --> 00:12:20,460
+bénins dont le contenu est liquidien pur, la
+
+249
+00:12:20,460 --> 00:12:23,780
+paroi fine et les contours sont réguliers et
+
+250
+00:12:23,780 --> 00:12:24,780
+sans vascularisation.
+
+251
+00:12:28,030 --> 00:12:30,570
+Le type 2, ce sont des kysts atypiques
+
+252
+00:12:30,570 --> 00:12:32,630
+bénins, mais remaniés.
+
+253
+00:12:33,390 --> 00:12:35,510
+A l'imagerie, ce sont des kysts hyper
+
+254
+00:12:35,510 --> 00:12:39,850
+denses, sièges parfois de cloison, de calcification, mais
+
+255
+00:12:39,850 --> 00:12:42,190
+fines et sans vascularisation.
+
+256
+00:12:43,550 --> 00:12:46,110
+Le type 3, ce sont des kysts, cette
+
+257
+00:12:46,110 --> 00:12:47,130
+fois-ci, suspects.
+
+258
+00:12:47,670 --> 00:12:49,770
+Ce sont en général des kysts unis au
+
+259
+00:12:49,770 --> 00:12:54,210
+multiloculé, à limite irrégulière, avec une paroi des
+
+260
+00:12:54,210 --> 00:12:57,510
+cloisons et des calcifications épaisses, mais régulières.
+
+261
+00:12:58,250 --> 00:13:00,270
+La paroi et les cloisons sont cette fois
+
+262
+00:13:00,270 --> 00:13:03,530
+-ci vascularisés, comme le montrent l'image, les
+
+263
+00:13:03,530 --> 00:13:04,410
+deux images d'en bas.
+
+264
+00:13:06,090 --> 00:13:09,310
+Le type 4 correspond à un cancer kystique.
+
+265
+00:13:10,070 --> 00:13:12,170
+L'image, c'est en général une partie
+
+266
+00:13:12,170 --> 00:13:13,210
+de l'organisme qui a une masse unie
+
+267
+00:13:13,210 --> 00:13:15,930
+au multiloculé, qui est le siège de végétation,
+
+268
+00:13:16,110 --> 00:13:18,270
+comme le montrent l'image, les deux images
+
+269
+00:13:18,270 --> 00:13:20,230
+d'en bas, qui est le siège de
+
+270
+00:13:20,230 --> 00:13:23,530
+paroi, de cloison et de calcification épaisse et
+
+271
+00:13:23,530 --> 00:13:28,010
+irrégulière, et parfois siège également de végétation, de
+
+272
+00:13:28,010 --> 00:13:31,450
+paroi et des cloisons vascularisés, comme le montre
+
+273
+00:13:31,450 --> 00:13:33,330
+l'image en bas et à droite.
+
+274
+00:13:38,170 --> 00:13:40,310
+Quant aux masses solides, on distingue les tumeurs
+
+275
+00:13:40,310 --> 00:13:41,510
+malignes primitives.
+
+276
+00:13:42,110 --> 00:13:44,370
+Les plus fréquentes sont le carcinome rénal à
+
+277
+00:13:44,370 --> 00:13:47,190
+cellules claires et le néphroblastome chez l'enfant
+
+278
+00:13:47,190 --> 00:13:48,330
+ou tumeur de Wilms.
+
+279
+00:13:48,890 --> 00:13:51,070
+Là, le scanner permet de faire le diagnostic
+
+280
+00:13:51,070 --> 00:13:52,470
+et le bilan d'extension.
+
+281
+00:13:53,430 --> 00:13:56,150
+Sur ces images, vous pouvez voir sur le
+
+282
+00:13:56,150 --> 00:13:59,990
+rein gauche, en rond du slide, le rein
+
+283
+00:13:59,990 --> 00:14:04,270
+gauche et le siège, le processus tumoral hétérogène.
+
+284
+00:14:04,750 --> 00:14:07,950
+La même chose en bas, une énorme masse
+
+285
+00:14:07,950 --> 00:14:10,590
+de nature mixte qui est le siège de
+
+286
+00:14:10,590 --> 00:14:13,310
+microcalcification avec le signe de l'éperon.
+
+287
+00:14:20,630 --> 00:14:23,590
+Deuxièmement, les tumeurs malignes secondaires, c'est une
+
+288
+00:14:23,590 --> 00:14:25,830
+atteinte bilatérale et multiple.
+
+289
+00:14:26,390 --> 00:14:28,710
+Ça peut, il peut s'agir de métastases,
+
+290
+00:14:28,850 --> 00:14:31,230
+notamment dans le cadre de cancer branchique, de
+
+291
+00:14:31,230 --> 00:14:33,910
+cancer du sein, du colon ou dans le
+
+292
+00:14:33,910 --> 00:14:34,750
+cadre de mélanome.
+
+293
+00:14:35,330 --> 00:14:37,890
+Ça peut également, il peut également s'agir
+
+294
+00:14:37,890 --> 00:14:41,190
+de lymphome en cas d'atteinte rénale et
+
+295
+00:14:41,190 --> 00:14:41,970
+ganglionnaire.
+
+296
+00:14:43,770 --> 00:14:46,890
+Ici, donc, dans le cadre de lymphome, une
+
+297
+00:14:46,890 --> 00:14:50,830
+atteinte rénale bilatérale sous forme d'un nodule
+
+298
+00:14:50,830 --> 00:14:53,350
+dans le cadre de lymphome.
+
+299
+00:14:54,490 --> 00:14:57,310
+Pour les tumeurs bénignes, on distingue les angiomes
+
+300
+00:14:57,310 --> 00:15:01,250
+iodipomes, ces tumeurs qui sont caractérisés par la
+
+301
+00:15:01,250 --> 00:15:03,670
+présence d'une composante graisseuse, qui est très
+
+302
+00:15:03,670 --> 00:15:05,330
+importante pour le diagnostic.
+
+303
+00:15:06,150 --> 00:15:08,730
+A l'échographie, ce sont des masses hypérécogènes
+
+304
+00:15:08,730 --> 00:15:09,470
+homogènes.
+
+305
+00:15:10,110 --> 00:15:12,590
+Sur le scanner, le contenu graisseux est en
+
+306
+00:15:12,590 --> 00:15:15,390
+général à une densité de moins 50 unités
+
+307
+00:15:15,390 --> 00:15:18,270
+ansfield et à l'IRM, le contenu graisseux
+
+308
+00:15:18,270 --> 00:15:20,210
+est en hypersignal T1 et T2.
+
+309
+00:15:20,930 --> 00:15:23,270
+La deuxième tumeur bénigne fréquente, c'est l
+
+310
+00:15:23,270 --> 00:15:23,990
+'encocytome.
+
+311
+00:15:24,130 --> 00:15:27,150
+Il est caractérisé par la présence de cicatrices
+
+312
+00:15:27,150 --> 00:15:30,510
+centrales étoilées et qui donne cet aspect en
+
+313
+00:15:30,510 --> 00:15:32,690
+rayon de roue après injection de produits de
+
+314
+00:15:32,690 --> 00:15:33,410
+contraste.
+
+315
+00:15:35,110 --> 00:15:37,250
+Ici, à gauche, une échographie qui montre une
+
+316
+00:15:37,250 --> 00:15:42,130
+image rénale hypérécogène et sur le scanner complémentaire,
+
+317
+00:15:42,170 --> 00:15:44,350
+l'image de droite, c'est remarqué le
+
+318
+00:15:44,350 --> 00:15:47,270
+contenu graisseux de cette masse qui est typique
+
+319
+00:15:47,270 --> 00:15:48,990
+d'angiomiolypome.
+
+320
+00:15:50,010 --> 00:15:54,070
+Ici, vous avez l'aspect classique en scanner
+
+321
+00:15:54,070 --> 00:15:56,670
+en haut et à l'IRM, T1 et
+
+322
+00:15:56,670 --> 00:15:58,290
+T2 sur les deux images en bas.
+
+323
+00:15:58,390 --> 00:16:00,450
+L'aspect, notez l'aspect en rayon de
+
+324
+00:16:00,450 --> 00:16:02,790
+roue après injection de produits de contraste et
+
+325
+00:16:02,790 --> 00:16:06,250
+la cicatrice centrale caractéristique de l'encocytome.
+
+326
+00:16:08,030 --> 00:16:11,710
+Troisièmement, les masses mixtes peuvent avoir une origine
+
+327
+00:16:11,710 --> 00:16:14,330
+infectieuse, notamment dans le cadre de l'absédurin,
+
+328
+00:16:14,330 --> 00:16:17,610
+du kyste parasitaire hidatique et dans la pyrénée
+
+329
+00:16:17,610 --> 00:16:18,790
+frite, ce dos tumorale.
+
+330
+00:16:19,810 --> 00:16:22,210
+Quant à l'origine traumatique, on peut avoir
+
+331
+00:16:22,210 --> 00:16:23,350
+les hématomes rénales.
+
+332
+00:16:27,780 --> 00:16:30,640
+Ici, vous avez à gauche une image qui
+
+333
+00:16:30,640 --> 00:16:32,980
+sticke à parois calcifiées d'urin droit qui
+
+334
+00:16:32,980 --> 00:16:35,420
+est en rapport avec un kyste hidatique d
+
+335
+00:16:35,420 --> 00:16:35,860
+'urin droit.
+
+336
+00:16:36,860 --> 00:16:39,060
+Sur la deuxième image de droite, vous avez
+
+337
+00:16:39,060 --> 00:16:42,580
+des collections rénales qui correspondent à un absédurin.
+
+338
+00:16:43,460 --> 00:16:47,000
+En conclusion, devant une masse rénale, l'échographie
+
+339
+00:16:47,000 --> 00:16:49,140
+rénale est l'examen à réaliser en première
+
+340
+00:16:49,140 --> 00:16:49,700
+intention.
+
+341
+00:16:50,480 --> 00:16:52,360
+Le scanner est réalisé en cas de doute
+
+342
+00:16:52,360 --> 00:16:54,740
+diagnostique ou dans le cadre du bilan d
+
+343
+00:16:54,740 --> 00:16:55,340
+'extension.
+
+344
+00:16:56,080 --> 00:16:57,580
+L'IRM, quant à elle, elle a une
+
+345
+00:16:57,580 --> 00:16:59,500
+meilleure caractérisation lésionnelle.
+
+346
+00:17:00,120 --> 00:17:02,460
+L'arbre urinaire sans préparation et l'urographie
+
+347
+00:17:02,460 --> 00:17:03,780
+intraveineuse n'ont pas d'intérêt.
+
+348
+00:17:04,040 --> 00:17:04,720
+Je vous remercie.

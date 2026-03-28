@@ -1,0 +1,804 @@
+(0:00 - 0:20)
+Par rapport à la présence, comme nous sommes dans une séance TPTD, alors normalement, la présence est obligatoire. Alors, normalement, on doit enregistrer l'ensemble des participants. La liste va être enregistrée pour la comparer par rapport à ce qui nous est fourni de la part du service d'écore-examen.
+
+(0:21 - 0:54)
+S'il y a des collègues qui, pour une raison, je ne sais pas, qui ne sont pas présents, il faut qu'ils se manifestent pour qu'on les prenne en considération. Zia, on est d'accord ? Alors, deuxièmement, alors, normalement, je vous enverrai un support. À la fin de la séance, on va vous donner un support PDF où il y a un peu l'essentiel du contenu de cette séance.
+
+(0:54 - 1:05)
+Vous allez consulter, mais vous allez suivre un peu la présentation. Il y a des cas cliniques sur lesquels on va travailler ensemble. Et vous aurez le support après qui va vous permettre de préparer l'examen.
+
+(1:08 - 1:35)
+C'est bon ? Alors, là aussi, avant de commencer, comme il y aura des questions, réponses, etc., on va vous poser des questions par rapport à certains cas cliniques. On va utiliser le forum pour discuter, pour voir un peu, disons, vos propositions, etc., et pour pouvoir communiquer. On ne peut pas, malheureusement, communiquer de façon directe en utilisant le micro avec tout le monde parce qu'on a vu le nombre.
+
+(1:35 - 1:59)
+Et du coup, on va utiliser un petit peu le chat pour pouvoir communiquer. Zia, on va attendre un petit peu vos réponses, et ça nous permettra un petit peu de raisonner pour pouvoir savoir si, disons, la consigne est bien claire par rapport à des réponses justes ou pas, etc. Zia ? Les réactions immunitaires de l'organisme et leurs appliqués.
+
+(2:10 - 2:48)
+C'est bon, je pense qu'il y a... Alors, avant de commencer, je tiens à vous présenter ma collègue, Dr Hazim Raja, qui est professeure assistante à la faculté, professeure assistante d'immunologie, nouvellement recrutée au niveau de la fac, qui va m'accompagner. On va tous ensemble, soi-disant, encadrer cette séance. On peut commencer, du coup, Zia ? Alors, comme vous avez vu, l'intitulé de la DTP, c'est autour des applications médicales des réactions antigénes-anticorps.
+
+(2:48 - 3:11)
+C'est-à-dire, autour d'un chapitre qui s'appelle antigènes-anticorps, on va sélectionner certaines techniques qui ont une grande portée pratique. Elles sont très utilisées dans différents laboratoires pour faire des diagnostics pour beaucoup de maladies. Vous allez voir que ce sont des techniques qui sont très simples à concevoir du point de vue principe, mais d'une grande utilité pour le raisonnement clinique.
+
+(3:12 - 3:25)
+Vous êtes pratiquement à la veille des stages hospitaliers. C'est une préparation à votre exercice en tant que médecin. Du coup, il y a des choses qui vont vous servir durant votre carrière.
+
+(3:25 - 3:41)
+C'est pourquoi on a choisi un petit peu l'essentiel. On ne va pas rentrer dans le détail de l'immunologie, mais essentiellement des techniques, on va dire, basiques. Alors, pour commencer, je laisserai le choix à ma collègue d'intervenir à chaque fois qu'il y a le juge nécessaire de compléter des informations.
+
+(3:42 - 3:51)
+Et après, on va échanger autour de l'ensemble du contenu de la présentation. Alors, on va devoir passer en mode plein écran. Bien.
+
+(3:53 - 4:23)
+Pour introduire ce TD, des choses que vous connaissez certainement. Lorsqu'on parle de réaction antigène-anticorps, vous avez tout simplement une interaction entre un épitope, qui est tout simplement une composante d'un antigène, et qui va être interceptée ou reconnue par un anticorps via ce qu'on appelle le paratope, la zone qui est dite variable ou hypervariable. Donc, cette interaction va aboutir à la formation d'animaux complexes ou aux réactions antigène-anticorps.
+
+(4:23 - 4:41)
+Ce que vous voyez ici sur le schéma, vous avez une surface antigénique d'une molécule qui va porter plusieurs épitopes. Un épitope, par exemple, va être reconnu par un anticorps via justement ce site dit paratope. Donc, sur cette base, on a... Monsieur, excusez-moi.
+
+(4:41 - 4:55)
+Oui. Mon sapin est bloqué sur le premier. Le sang, il y a un positif qui ne passe pas.
+
+(4:58 - 5:05)
+Dites-moi. C'est bon, ça passe ? Oui, monsieur. C'est bon.
+
+(5:05 - 5:40)
+On a dit qu'un épitope va être fixé ou reconnu par un paratope d'anticorps, ce qui va permettre justement de développer beaucoup de techniques immunologiques, qu'on appelle aussi des méthodes immunologiques, qui vont permettre justement de mettre en évidence la présence, via cette réaction antigène-anticorps, la présence d'un anticorps ou d'un antigène. Ça dépend de ce qu'on cherche. Après, on a pu, grâce à ça, développer soit des méthodes qualitatives qui puissent répandre, soit disons en termes de positifs ou négatifs, un anticorps ou un antigène.
+
+(5:40 - 5:51)
+Ça dépend de ce qu'on cherche. Si on cherche un anticorps, on va mettre un antigène qui lui est spécifique. Inversement, si on a besoin d'identifier un antigène, on va le mettre en contact d'un anticorps spécifique.
+
+(5:51 - 6:01)
+C'est ce qu'on appelle une méthode qualitative. Une méthode qualitative, il vous permet justement de dire positif ou négatif. Après, lorsqu'on a besoin de quantifier un antigène ou un anticorps, on va l'appeler une méthode quantitative.
+
+(6:02 - 6:26)
+Vous allez facilement imaginer que toute méthode quantitative est d'emblée qualitative, parce qu'on va quantifier ce qui existe ou pas, ce qui existe généralement, et toute méthode qualitative n'est pas forcément quantitative. Il y a des applications, on a des diagnostics qui nécessitent uniquement une approche qualitative, et d'autres qui nécessitent les deux. Du coup, souvent on a besoin aussi de quantifier l'anticorps ou l'antigène.
+
+(6:26 - 6:43)
+Vous allez imaginer que ces réactions antigène-anticorps, ces méthodes vont pouvoir aider à faire beaucoup de diagnostics pour beaucoup de maladies, notamment en immunohématologie. Vous allez voir des exemples. En infectiologie, beaucoup d'infections, ce qu'on appelle le séro-diagnostic, etc.
+
+(6:43 - 7:07)
+Et puis en auto-immunité, d'autres. On a choisi ces trois applications sur lesquelles on va travailler ensemble pour vous montrer l'utilité de ces réactions antigène-anticorps et ces techniques immunologiques. Alors, pour essayer de... On va switcher sur un autre support.
+
+(7:17 - 7:54)
+C'est bon, c'est bon. C'est le bon. Est-ce que je peux faire ? Je ne sais pas si vous visualisez.
+
+(7:58 - 8:20)
+Hein ? C'est bon. Dr Hazim va vous lire un petit peu l'énoncé du cas clinique, de l'abonnée de clinique, et on vous donne un petit moment pour pouvoir réfléchir sur le cas clinique. Oui, bonsoir.
+
+(8:20 - 8:45)
+Le premier cas clinique, c'est un nouveau-né, deuxième d'une fratrie de deux, hospitalisé en néonatologie pour anémie, Icter et splénovingalie. Dans quel est le diagnostic le plus probable à évoquer ? Visualisez les réponses. On va attendre un petit peu pour voir vos réponses.
+
+(8:45 - 9:30)
+Vous pouvez écrire vos réponses sur le chat, si vous avez une idée déjà. Je sais que ça va vous paraître un peu difficile, mais vous allez voir que ce n'est pas tellement... On va essayer de résonner ensemble pour pouvoir avancer chuchouièrement dans la démarche. Je vous ai demandé un petit peu comment vous allez procéder pour, soi-disant, clarifier la situation de cet enfant en utilisant l'immunologie.
+
+(9:35 - 10:08)
+Là, un bilan, il y a des techniques immunologiques. Déjà, c'est un nouveau-né, deuxième d'une fratrie de deux, c'est-à-dire qu'on a déjà eu une grossesse menée à terme, hémolyse, oui ? Alors, drépanocytose... Vous êtes un peu allé loin. La drépanocytose, on est dans la discussion éthiologique, dans la cause.
+
+(10:09 - 10:23)
+Maintenant, il faut commencer par essayer de décrire un petit peu, éventuellement, l'origine. De façon réelle, c'est biologique, on va dire. La description à travers les symptômes que vous avez, essayez de résonner sur la nature, ou là, la cause.
+
+(10:27 - 10:51)
+Unémie hémolytique de quelle origine ? Auto-immune. Oui, vous avez raison. Dès qu'il a une cause auto-immune, c'est possible.
+
+(10:52 - 11:00)
+Est-ce qu'il y a d'autres causes de cette anémie, de cette lise des globules rouges ? Vous avez tous parlé de l'hémolyse. L'hémolyse, c'est la lise des globules rouges. On est d'accord.
+
+(11:02 - 11:30)
+Anémie hémolytique, c'est bien. Il y a une proposition par rapport à l'auto-immunité. Est-ce qu'il y aurait d'autres origines, d'autres causes de cette lise des globules rouges ? La maman est en résus négatif.
+
+(11:30 - 11:58)
+Là, vous êtes en train d'expliquer le mécanisme. Donc, ça va être une anémie hémolytique. Pourquoi vous évoquez le résus d'emblée ? Qu'est-ce qui vous fait dire le résus ? Schéma ? C'est une éventualité, c'est ça ? Vous êtes un petit peu sur la bonne piste.
+
+(11:58 - 12:27)
+Dites-nous comment vous allez résonner pour rattacher cette lise des globules rouges au résus. Pour vous aider un petit peu, ok. Vous êtes ici devant un nouveau-né.
+
+(12:35 - 13:27)
+Gardez votre micro. Quelqu'un a son micro activé, s'il vous plaît ? Si je vous pose la question, vous avez ici une triade, anémie, ictère, splino-mygalie. Quel est le trait, soit disant, le dénominateur coma entre ces trois symptômes ? L'hémoglobine.
+
+(13:27 - 13:42)
+Qu'est-ce qu'il y a de cette hémoglobine ? L'hémoglobine vous permet de définir l'anémie. Vous avez une diminution de l'hémoglobine. Ça va vous donner une anémie.
+
+(13:42 - 13:49)
+Là, c'est une traduction de l'anémie. On est d'accord. Mais ça n'explique pas, soit disant, si on veut être réussi.
+
+(13:50 - 13:54)
+C'est un autre raisonnement. On a trois symptômes. Anémie, ictère, splino-mygalie.
+
+(13:54 - 14:03)
+Qu'est-ce qu'il y a de commun ? Là, ce sont des symptômes qui sont complètement dissociés. Chacun pour son compte. Deux cents.
+
+(14:07 - 14:14)
+Lise de l'hémoglobine donne plus l'HEM à l'origine de la vulgarité. Ali, c'est bien. On a une lise de l'hémoglobine.
+
+(14:15 - 14:46)
+C'est-à-dire de ? De l'HEM, c'est ça ? C'est pas clair, votre réponse, Ali ? Vous voulez dire... Donne plus l'HEM. Vous pouvez clarifier votre réponse, Ali ? Il y a une autre réponse à la leucémie. On va y revenir après.
+
+(14:48 - 15:06)
+Apparemment... Dans l'ictère, c'est problème dans le foie. Forcément, on ne peut pas rattacher l'ictère toujours à un problème empathique. Dans l'ictère, il peut y avoir plusieurs origines.
+
+(15:06 - 15:29)
+Par exemple, il peut y avoir une affection sévère qui s'accompagne d'une anémie avec les aiguilles rouges. C'est une anémie qui, en dehors, dans l'origine, est extra-hépatique. Ici, il faut rester dans le contexte de ce qu'on a comme renseignements cliniques.
+
+(15:32 - 15:49)
+Dans la leucémie, non. Il n'y a pas suffisamment d'éléments qui vous permettent d'évoquer la leucémie. Si vous voulez raisonner, par exemple, dans la leucémie, il y a hépatose, splénomégalie, adénopathie.
+
+(15:49 - 16:05)
+On ne vous a pas donné tout ça. Il faut essayer de rester dans le contexte de votre vignette clinique. Ali, vous avez évoqué tout à l'heure l'HEM.
+
+(16:05 - 16:24)
+L'hémolyse de l'hémoglobine donne plus d'HEM à l'origine de la bilirubine. Il y a peut-être un message, apparemment. Alors, qui va ? L'hémolyse par les macrophages donne plus d'HEM qui sera transformée en bilirubine au niveau de la rate.
+
+(16:27 - 16:46)
+Destruction excessive de l'hémoglobine, des globules rouges, explique l'hyperproduction de la bilirubine, provoquant ainsi un hectare d'origine et un hectare extra-hépatique. Destruction de plusieurs globules rouges qui donnent plus d'HEM qui vont se transformer en bilirubine. Vous approchez, vous voyez ? La dernière proposition de Sarah.
+
+(16:47 - 17:09)
+Finalement, lorsqu'on regarde l'hémoglobine, normalement, c'est l'HEM. Lorsqu'il y a une destruction de l'HEM, ça finit par donner de la bilirubine. Et quel type de bilirubine s'associe à l'hémolyse des globules rouges ? S'il vous plaît, n'utilisez que le chat, s'il vous plaît.
+
+(17:10 - 17:43)
+Désactivez vos micros. C'est la bilirubine ? C'est libre la non conjuguer ? Non conjuguer ? C'est bon, c'est bon, je pense que c'est là. Bien, on est d'accord.
+
+(17:43 - 18:32)
+C'est une bilirubine ? Moi je conjugue ou la non conjuguer ? C'est une bilirubine. Ok, on avance. En tout cas, vous avez pu faire le lien entre l'anémie et l'héctare, c'est bien.
+
+(18:33 - 19:15)
+Alors la splinomégalie, comment pouvons-nous l'intégrer dans cette hémolyse ? Avec la liste des globules rouges, héctare. Est-ce qu'il y a une explication ? En attendant, il y a une réponse par rapport à l'hémolyse, à l'origine de l'hémolyse, l'origine auto-immune. Alors la rate est un filtre de sang, donc la grande liste des hémoglobines donne plus de déchets, ce qui peut expliquer la splinomégalie.
+
+(19:16 - 19:38)
+Bien, je pense que vous avez acquis la formulation des outils que vous utilisez pour décrire. Je ne suis pas très hémiologique. Je pense qu'on a vu dans le cours des organes linfouides, la rate, on a dit que c'est un organe hémolymphatique qui épure le sang.
+
+(19:39 - 20:02)
+Donc il a cette responsabilité d'épurer le sang, c'est bien des débris cellulaires, des émacs complexes, c'est un filtre qui épure le sang. Et donc, on a ici tout simplement, la rate a un rôle d'épuration, c'est très bien, vous l'avez dit, il ressort dans les réponses d'Asya, de Mehdi, etc. C'est bien.
+
+(20:03 - 20:31)
+Alors pour simplifier un petit peu, on a ici une destruction énorme des globules rouges, qui fait qu'il y a tout simplement des globules rouges, des débris de cellules mortes, et qui vont s'accumuler. La rate ne pourra pas tout éliminer, donc il y a une accumulation des débris des globules rouges lésés au niveau de la rate. C'est ce qu'on appelle une séquestration des débris des globules rouges lésés au niveau de la rate.
+
+(20:31 - 20:46)
+Donc il dépasse la capacité d'épuration et va finir par développer une spline omégale. C'est bien. Donc vous êtes un petit peu dans la même... Finalement, on a pu rattacher soi-disant la spline omégale à l'anémie aliquitermsienne.
+
+(20:47 - 21:06)
+On est donc du coup dans le cadre d'une anémie hémolithique. Après, lorsqu'on retourne un petit peu vers les autres mots-clés de cette vignette clé, on a dit qu'il y a... C'est un nouveau-né qui est deuxième d'une fratrie de deux. Ça veut dire que son frère ou sa soeur est indemne.
+
+(21:08 - 21:24)
+C'est un deuxième qui est touché par cette maladie. Pourquoi, à votre avis, votre collègue de tout à l'heure avait évoqué l'éventualité d'anticorps qui attaquent le rhesus. C'est ça, je pense, ce que j'ai bien retenu.
+
+(21:26 - 21:51)
+Parce qu'il avait dit que la maman résiste négatif. Et du coup, il y a des anticorps antirhesus de la mère qui vont attaquer le rhesus positif du nouveau-né. Vous êtes d'accord, j'imagine ? Est-ce qu'il y a des personnes qui ne sont pas d'accord ? Donc le silence, ça veut dire que vous êtes d'accord.
+
+(21:54 - 22:09)
+Il y a d'autres messages ? Incompatibilité rhesus. Très bien. Donc on parle ici d'une incompatibilité rhesus.
+
+(22:09 - 22:38)
+Ça veut dire le rhesus... La maman réagit à un rhesus. Si la maman était rhesus positif, est-ce qu'il y aurait un problème de ce sens ? J'imagine que non, n'est-ce pas ? Très bien. Donc la seule situation où on a ce conflit immunologique qui porte sur le rhesus, c'est lorsque la maman est rhesus négatif et le bébé est rhesus positif.
+
+(22:38 - 22:54)
+Ça veut dire que le papa est rhesus positif. Et comme le rhesus est un antigène de transmission dominante, autosomique dominante, donc il va s'exprimer même s'il est hétérozygote. La formation, vous la connaissez, j'imagine.
+
+(22:55 - 24:01)
+Donc qu'est-ce qui se passe ? On a une maman qui se sensibilise vis-à-vis des antigènes du rhesus du bébé, donc il va développer des anticorps. Alors est-ce que, par exemple, il y a de l'incompatibilité où la manifestation, où là ce que vous voyez ici comme complication peut se voir chez le premier enfant ? Non. Pourquoi, à votre avis, ou là, je pose la question d'une autre façon, est-ce que c'est possible d'avoir le premier enfant qui soit touché par cette incompatibilité photomaternelle rhesus avec, soi-disant, des complications pareilles comme ce qu'on a décrit ? Vous avez tous dit non.
+
+(24:01 - 24:18)
+Moi je dirais que oui. Mais il y a des situations, on peut avoir une situation qui touche, pareil, qui touche le premier enfant, si, par exemple, la maman a fait une fausse couche. Si vous avez une fausse couche, vous avez souvent un curtage.
+
+(24:19 - 25:22)
+Lors du curtage, il y a des débris placentaires avec un rhesus positif et on touche l'éturus de la maman, etc. Et du coup, vous avez les possibilités de mélange du sang du fœtus, etc. de ces débris avec celui de la maman. 
+
+Et donc la maman risque d'être sensibilisée pour le rhesus. C'est pourquoi il ne faut pas raisonner enfant, il faut raisonner grossesse. Si vous avez un tableau clinique pareil chez un nouveau-né, chez un premier, il faut interroger la maman est-ce qu'elle n'a pas fait une fausse couche, avant d'écarter cette hypothèse. 
+
+Parce que normalement, logiquement, on n'a pas à avoir des manifestations pareilles chez le premier enfant sauf s'il s'agit d'une circonstance qui a sensibilisé la maman, notamment le cas de fausse couche. Ça peut être autre chose mais en tout cas, on vous rassure la circonstance la plus pourvoyeuse de cette incompatibilité, de cette expression chez le premier enfant. Vous avez retenu d'abord l'essentiel.
+
+(25:23 - 26:48)
+Maintenant, pourquoi on est arrivé jusque là, à votre avis ? Pourquoi on se retrouve c'est des choses qu'on ne doit pas voir normalement. Une incompatibilité, c'est pas un état de maladie en quelque sorte. Qu'est-ce qui fait qu'on est arrivé jusque là, on a un deuxième enfant qui a une maladie qu'on devait éviter, qu'on devait prévenir avant qu'il s'installe. 
+
+Vous avez une idée ? Alors, pour vous taquiner un petit peu, c'est tout simplement vous êtes en coloire, mais c'est probablement un médecin, un médecin généraliste, un interne, j'imagine qu'un gynéco ne va pas faire une chose pareille, qui a oublié tout simplement de demander un groupage sanguin chez la femme enceinte initialement. C'est pourquoi lorsque vous allez commencer votre pratique, parmi les bilans qu'on demande systématiquement chez une femme enceinte au premier trimestre, il y a le groupage sanguin. Avec ça, il y a aussi les sérologies des hépatites B, des hépatites C, et même le VIH.
+
+(26:48 - 27:13)
+La sérologie de la toxoplasmose, la rubiole, la syphilis, tout ça, on le fait systématiquement. Mais lorsqu'on demande le groupage, c'est pas... C'est comme quelqu'un, il demande le groupage après ses goûts de l'érable, il va lui dire le jour où vous allez venir à coucher, il se peut que vous ayez besoin d'être transfusé, etc. Vous allez perdre vos goûts de sang, vous allez finir avec l'anémie, donc le groupage va vous servir.
+
+(27:14 - 27:30)
+Non. Donc c'est un groupage qu'on demande avec l'arrière-pensée de chercher s'il y a un résus négatif. Et si il y a un résus négatif, qu'est-ce qu'on doit faire à votre avis ? Si la maman, c'est une femme enceinte au premier trimestre, il y a un résus négatif.
+
+(27:43 - 27:52)
+Ali propose d'injecter du plasma. Très fort, c'est Ali. On va injecter un résus positif.
+
+(27:52 - 28:07)
+Il faut la sensibiliser. Donc vous allez effectivement induire l'incompatibilité chez le premier enfant. C'est ça, c'est magnifique.
+
+(28:08 - 28:34)
+Excusez-moi, on est entre collègues maintenant, on vous considère comme des médecins déjà, même si c'est un peu prématuré, voilà qui nous viennent pour communiquer de façon ouverte. Alors j'attends d'autres propositions. Je vais peut-être retourner vers, je pense, qui avait évoqué le résus initialement ? Il y avait beaucoup de gens.
+
+(28:35 - 29:08)
+Il y avait Khaled, il y avait aussi Rabaji Raba Rijwana ou Rijawana. Shaima aussi. Dites-nous, qu'est-ce que vous demandez à une femme enceinte au premier trimestre, le groupage et les résus négatifs ? Qu'est-ce que vous faites ? Donnez des immunosuppresseurs, doit vérifier Sarah, il a trouvé, vous avez gagné.
+
+(29:09 - 29:28)
+Sarah El Ghatri a dit, il faut, on doit vérifier le résus du père tout simplement. Bravo Sarah ! Le raisonnement simple, c'est ça. Autrement dit, si par exemple, on ne fait pas le geste, on ne vérifie pas le résus du papa, on passe à côté et on va se retrouver avec des cas pareils.
+
+(29:30 - 29:48)
+Donc, le message à retenir, c'est une mère résus négatif doit absolument faire l'objet d'un complément de bilan, tout simplement en faisant le groupage du père. Du mari, je veux dire. Ziane, on est d'accord ? Amine aussi.
+
+(29:49 - 29:58)
+Donc, avec les immunosuppresseurs, résus, on est un petit peu loin. Bien. Maintenant, on va avancer.
+
+(29:59 - 30:37)
+On a retenu qu'il y a probablement un conflit immunologique entre le résus du bébé avec celui de la maman, dans la mesure où le résus de la maman est négatif et le papa est résus positif avec du coup un fœtus résus positif, d'accord ? Alors, on a dit que cela va entraîner une hémolyse parce que les anticorps de la maman vont attaquer les globules rouges du deuxième fœtus. Donc, malheureusement, le deuxième enfant va naître avec toutes ces problématiques. C'est trop tard, ça.
+
+(30:37 - 31:28)
+Si on a un enfant qui a tout ce tableau clinique, il n'y a rien à faire. Il y a, certes, des approches thérapeutiques. Il y a les sanguinotransfusions, il y a le plasma et tout ça, mais c'est trop tard. 
+
+Ce sont des séquelles qui sont énormément lourdes. Donc, on va avancer du coup pour faire... On a parlé du groupage, on a parlé du résus, etc. On va essayer de voir un peu quelles sont les techniques, parce que dans l'énoncé du cas clinique, vous avez le diagnostic le plus probable, vous l'avez fait, le bilan immunologique qu'il faut faire, aussi bien lorsqu'on pense au groupage et également lorsqu'on a un cas pareil pour lequel on a besoin de détailler le diagnostic, la méthode à utiliser, qu'est-ce qu'on doit prescrire chez la maman ou chez le nouveau-né, etc.
+
+(31:29 - 31:43)
+Pour vous rappeler un petit peu tout ça, il faut que vous compreniez un petit peu les méthodes. Vous avez ici la première technique qui est utilisée qui va permettre un petit peu de faire beaucoup de choses. C'est ce qu'on appelle les techniques d'agglutination.
+
+(31:43 - 32:09)
+L'agglutination, comme son nom l'indique, c'est tout simplement formation d'amas ou d'agrégats de cellules ou de particules, lorsque on met à côté, au-dessus des anticorps. Vous avez ici un anticorps antiglobule rouge, antigène exprimé par le globule rouge. Avec un bras il accroche une cellule, avec l'autre il va accrocher l'autre cellule.
+
+(32:09 - 32:25)
+On va faire pareil, les autres anticorps vont finir par avoir un piége à âge de cellules par ces anticorps. Ce sont des anticorps dits agglutinants qui vont donner cette agglutination. On a généralement deux types d'agglutination, directe et indirecte.
+
+(32:26 - 34:04)
+Maintenant si je vous pose la question quelle est la différence entre agglutination directe et indirecte, c'est bon vous avez une réponse ? Une proposition ? Aucune ? On va voir. Directe avec le globule rouge par exemple, bien, ok. C'est possible, oui.
+
+(34:06 - 34:27)
+Ce que vous avez évoqué c'est possible parce que lorsqu'on a par exemple des situations de indirecte par l'intermédiaire, l'indirecte peut être couplée à un support. Bref, on avance. Directe tout simplement, on a ici des anticorps qui reconnaissent directement les antigènes à la surface du globule rouge.
+
+(34:27 - 35:06)
+Si je veux identifier par exemple les antigènes de ce globule rouge, par exemple les groupes sanguins, j'applique une agglutination directe et je pourrais déterminer le groupage sanguin. Des fois aussi, on le fait in vitro dans le laboratoire, des fois vous avez des personnes on a des enfants, on a des personnes malades qui ont des anticorps fixés in vivo. Ils ont une maladie auto-immune ou là le cas par exemple des anticorps antérésus, ils se fixent sur le globule rouge in vivo, ça veut dire à l'état soi-disant viable et après on va les mettre en évidence dans tous les cas après au laboratoire.
+
+(35:06 - 35:23)
+C'est toujours une agglutination directe parce que ça nous permet de chercher l'antigène ou l'anticorps directement à la surface du globule rouge. Indirect ça veut dire qu'on est amené à chercher les anticorps pas sur les globules rouges mais plutôt au niveau du plasma ou du sérum. C'est ça la différence.
+
+(35:25 - 36:07)
+Alors vous savez l'orézus ? Alors vous avez ici je reviendrai sur vos réponses après. Alors en termes d'orézus, vous avez ici chacun de nos soit de groupe A, de groupe B, de groupe AB, etc. Le groupe O ne possède pas d'antigène donc celui qui est groupe AB il a des antigènes A et des antigènes B. Et en même temps il a dans son plasma Monsieur, est-ce qu'on n'arrive pas à voir les diapos ? Pardon ? On ne voit pas les diapos.
+
+(36:23 - 36:53)
+Une minute s'il vous plaît. Est-ce que c'est bon maintenant ? Est-ce que c'est... Est-ce qu'on va pouvoir voir la présentation maintenant ? Oui monsieur, c'est bon. Parfait.
+
+(36:54 - 37:36)
+Désolé. Alors on a dit tout à l'heure qu'on a en fonction de notre groupe sanguin des antigènes différents etc. A, B ou AB. 
+
+On a systématiquement au niveau de notre plasma des antigènes B lorsqu'on est de groupe A, des antigènes A lorsqu'on est de groupe B pas d'antigènes lorsqu'on est AB et on a des antigènes A et des antigènes B lorsqu'on est de groupe O. Les anticorps que vous voyez ici, on les appelle généralement des anticorps où on a des agglutinines régulières. Elles sont régulièrement présentes en fonction du groupe sanguin de chacun de nous. Avec ça, on a aussi à la surface de nos globules rouges, on a un système rhesus ou autre.
+
+(37:37 - 37:46)
+C'est ce qu'on appelle un phénotype rhesus. Il est de différentes sortes. On a également un système qu'on appelle KIL, des antigènes CAL, du PHI, KID, MNS, etc.
+
+(37:46 - 38:30)
+D'ailleurs, par rapport au rhesus, on a ce qu'on appelle un rhesus majeur. Vous avez ici le rhesus RH1. On a aussi d'autres phénotypes rhesus. 
+
+Par exemple, rhesus RH2, RH4, RH3, RH5, etc. Par exemple ici, si je suis rhesus négatif pour le C, si je suis C minuscule, ça veut dire que je suis RH4. Je suis négatif pour ce phénotype particulier de rhesus. 
+
+Quelqu'un qui est positif, il est RH2, ça veut dire qu'il est en C majuscule. C'est pareil pour le E. Vous voyez ici, E minuscule, c'est un rhesus négatif. De même, il est rhesus positif, E RH3.
+
+(38:31 - 39:00)
+Ça veut dire quoi ? Si j'administre, par exemple, à quelqu'un qui est C minuscule, qui est RH4, un rhesus majuscule, c'est-à-dire un C majuscule qui est RH2, le rhesus négatif qui est le RH4 va développer des anticorps anti-RH2. Mais ce sont des choses qui apparaissent lorsqu'il y a un événement immunisant. Lorsqu'il y a, par exemple, une transfusion ou autre chose, on fait apparaître ce qu'on appelle des agglutinines irrégulières.
+
+(39:01 - 39:12)
+Retenez bien la notion. C'est valable aussi pour le kill, pour le défi, etc. C'est des choses que vous allez voir en immunologie biologique cette année, j'imagine.
+
+(39:13 - 41:32)
+Vous allez avoir dans le détail un petit peu cette... Retenez bien, le rhesus, on va y revenir après, on a besoin d'un rhesus RH1 et surtout le rhesus, l'autre phénotype qui est associé au rhesus. Donc chacun de nous peut avoir un phénotype particulier et on va voir l'impact de tout cela. Maintenant, pour faire le groupage sanguin, regardez ici, on a besoin d'utiliser une agglutination directe. 
+
+Ca veut dire quoi ? Si je veux savoir si mon individu est de groupe A, je vais rajouter tout simplement des anticorps anti-A. Donc s'il y a une agglutination, ça veut dire qu'il y a l'antigène A, donc ça me permet de dire que ce patient est de groupe A. Si je rajoute des anti-B et s'il y a anti-A et anti-B, j'aurai une agglutination aussi bien avec les anticorps anti-A qu'avec les anti-B. Donc chaque fois que je rajoute des anticorps agglutinants, anticorps anti-A anti-B, j'aurai une agglutination qui va m'indiquer qu'on croit. 
+
+Si je n'ai pas d'agglutination, ça veut dire que mon individu chez qui je détermine le groupage sanguin par exemple, il est de groupe O. C'est le rhesus O2, c'est A, B, c'est uniquement O, A. Avec les anticorps anti-A, ça veut dire qu'il est A. Vous avez un petit peu le principe de l'agglutination directe. En terme d'application de cette technique d'agglutination, vous avez compris que c'est ce qui va nous permettre de savoir le groupage sanguin à béaux et l'orésus. C'est ce qu'on a dit. 
+
+J'imagine que vous en avez besoin tout à l'heure lorsqu'on avait demandé quel test immunologique chez le nouveau-né. Il fallait déterminer le groupe sanguin Déjà au premier trimestre, mais maintenant chez ce nouveau-né qui n'avait pas bénéficié d'un groupage par la maman, on se retrouve avec des complications. Un, le groupage sanguin. 
+
+Deuxièmement, je l'ai dit tout à l'heure, on a besoin parfois de chercher des anticorps qui se retrouvent sur les globules rouges parce qu'il est malade. Normalement, on n'est pas censé avoir des anticorps in vivo sur les globules rouges. Si on a des anticorps in vivo, ça veut dire que c'est un état anormal.
+
+(41:33 - 41:47)
+Soit l'oresus, soit une maladie auto-immune. Parmi vous, il y a quelqu'un qui avait évoqué tout à l'heure l'origine auto-immune. Vous pouvez l'intégrer dans un autre contexte parce qu'ici, c'est tellement précis, vous avez un deuxième enfant, etc.
+
+(41:48 - 42:04)
+La vignette clinique vous oriente vers la cause, l'origine de ces témoignages, etc. Ici, on met en évidence des antigènes. Ici, on va mettre en évidence aussi, par la même technique d'agglutination directe, des anticorps fixés sur les globules rouges.
+
+(42:04 - 42:16)
+C'est ce qu'on va appeler tout simplement un test de COMPS direct. A chaque fois que vous entendez parler du COMPS direct, il ne cherche pas les antigènes, il cherche les anticorps. On va voir tout à l'heure.
+
+(42:16 - 42:37)
+Après, la troisième indication, ça peut aussi être en infectiologie, au cours de la syphilis, la grippe, beaucoup de maladies. Par exemple, si j'ai une agglutination d'une bactérie, ça veut dire que j'ai des anticorps chez l'individu qui est infecté par cette bactérie, etc. Pour la grippe aussi, comme virus, etc.
+
+(42:38 - 42:54)
+Vous voyez, des techniques très simples et qui permettent justement de mettre en évidence certaines maladies. On y met l'immatologie et même l'infectiologie. Alors, s'il n'y a pas de questions, on va avancer un petit peu dans la discussion des principes du test.
+
+(42:55 - 43:08)
+Après, on va revenir sur le cas clinique. Le COMPS direct, j'ai dit par définition, permet de rechercher des anticorps fixés à la surface du globule rouge d'un patient qui est malade. Le principe est simple.
+
+(43:09 - 43:30)
+On va tout simplement prélever l'individu chez qui je cherche des anticorps, soit en térésus, soit des autres anticorps. J'ai besoin de globules rouges pour savoir s'il y a dessus des anticorps qui se sont fixés sur des antigènes portés dessus par ce globule rouge. Ce sont des anticorps qui sont normalement non-agglutinants.
+
+(43:31 - 43:51)
+Pour savoir s'il y a ou pas des anticorps, je rajouterai des anticorps anti-anticorps. Donc, s'il y a une agglutination, je conclurai qu'il y a un test de COMPS positif. Un test de COMPS positif peut signifier soit un anticorps en térésus, soit des autres anticorps.
+
+(43:51 - 44:03)
+Généralement, c'est ça. Là, parfois, ça peut être des hétéro-anticorps. Parfois, des médicaments, leur métabolique, peuvent interférer avec le globule rouge et appeler des anticorps.
+
+(44:03 - 44:14)
+Ce ne sont pas des hétéro-anticorps, mais des hétéro-anticorps qui se fixent sur les globules rouges. De la même façon, j'aurais un test de COMPS positif. Lorsque l'on réalise ce test de COMPS positif, regardez ici le tube.
+
+(44:15 - 44:28)
+Si vous voyez bien, on a des globules rouges qui sont accrochées par les anticorps. Ils flottent un petit peu à la surface du tube. S'ils étaient libres, s'il n'y avait pas d'anticorps, il n'y aurait pas d'agglutination.
+
+(44:28 - 44:46)
+On aurait tout simplement des globules rouges sédimentés au fond du tube. Maintenant, il y a un accrochage des agrégats de globules rouges parce qu'il y a des anticorps qui témoignent qu'ils ont piégé et donc qui donnent une agglutination positive. Ce COMPS direct, on va voir qu'il a des indications.
+
+(44:47 - 45:17)
+La première, faisons le lien avec notre cas clinique de tout à l'heure, pour mettre en évidence l'incompatibilité photomaternelle rhesus. Cela veut dire que la maman avait produit des anticorps qu'on appelle des allopourquoi, parce qu'on est chez deux individus de la même espèce. Des anticorps produits par la maman qui vont aller attaquer la suffixie sur le globule rouge du fœtus.
+
+(45:18 - 46:00)
+Donc le nouveau-né va naître avec une maladie hemolytique du nouveau-né. Deuxièmement, c'est possible aussi, c'est rare, Lorsqu'il y a l'incompatibilité ABO, c'est-à-dire que la maman est A et le bébé est B, donc il y a la possibilité d'avoir un conflit rhesus entre le A et le O. C'est rare, mais le plus important, le plus fréquent, l'inéluctable de la systématique, c'est la compatibilité rhesus. Tout à l'heure je disais que ça peut être des auto-anticorps, qu'on va appeler anémie hemolytique, c'est-à-dire l'hémolyse des globules rouges qui va générer de l'anémie, mais d'origine auto-immune.
+
+(46:01 - 46:31)
+Tout simplement, le globule rouge a modifié, il a fait apparaître des new auto-antigènes. Ce sont des clones B qui produisent des auto-anticorps qui vont se fixer sur les globules rouges. En dernier, vous avez parfois aussi des médicaments qui, lorsqu'ils sont métabolisés par le foie, interfèrent avec les antigènes des globules rouges et peuvent faire fixer des anticorps, etc., anti-médicaments qui vont améliorer la destruction des globules rouges.
+
+(46:31 - 46:52)
+Si vous voulez savoir pourquoi il y a une liste des globules rouges ou par quel mécanisme, c'est tout simplement lorsque l'anticorps se fixe sur le globule rouge, vous avez un aimant complexe. La réaction antigène-anticorps sur le globule rouge induit l'activation du système du complément. Rappelez-vous, la voie classique du complément s'active à chaque fois qu'il y a des aimants complexes.
+
+(46:52 - 47:27)
+Le complexe aimant active le complément par voie classique, formation des complexes d'attaque membranelle, et vous avez donc la liste des globules rouges. Cela peut aussi être une phagocytose, c'est-à-dire que vous avez ce qu'on appelle le phénomène de CDCC, lorsque soit le C3B, où il y a le récepteur au complément, va ramener la plaquette, ou l'anticorps même va ramener la plaquette, le globule rouge je veux dire, au contact du phagocyte qui va détruire. Donc vous avez soit la destruction par les compléments, soit par les phagocytes.
+
+(47:27 - 47:58)
+Voilà d'un point de vue mécanisme qui a abouti à la destruction du globule rouge. Alors par rapport à la compatibilité, pour faire le point, sur le mécanisme, il y a certainement parmi vous ceux qui ont décrit un peu le mécanisme. On a une mère qui est résus négatif, exception en fait de, tout à l'heure on a dit, s'il y avait une fausse couche, on l'oublie, c'est un cas qu'il faut toujours avoir à l'esprit.
+
+(47:59 - 48:33)
+La maman résus négatif, le félicitant résus positif, au cours de la première grossesse, il n'y a rien. Tout simplement, lorsque la maman accouche, au cours de l'accouchement, même s'il s'agit d'une césarienne, il y a très très souvent, pratiquement de façon constante, il y a un mélange du sang maternel et fœtal qui fait que les globules rouges de la maman, je veux dire du bébé, vont passer chez la maman. Donc c'est après, au cours de l'accouchement, la première grossesse a eu son problème.
+
+(48:33 - 48:57)
+Et la maman, au cours, après l'accouchement, il va commencer à se sensibiliser à ce résus, il va développer des anticorps. Au cours de la deuxième grossesse, ces anticorps vont traverser le placenta de façon normale, ce sont des égégés qui vont traverser le placenta, ils vont attaquer le deuxième fœtus. Donc on va finir par avoir des anticorps antégesus, la liste des globules rouges.
+
+(48:57 - 49:41)
+Maintenant, est-ce qu'il y a un moyen de prévenir cette maladie ? Je vais attendre votre réponse. Qu'est-ce qu'on fait ? Est-ce qu'il y a un moyen d'empêcher, soi-disant, cette conséquence qui est dramatique ? J'attends votre réponse, vous y êtes ? Voilà vos réponses. Alors, Mahdi propose un vaccin anti-D avant la première... On ne parle pas de vaccin ici, c'est Mahdi.
+
+(49:42 - 49:55)
+Vaccin, c'est... Vous avez fait l'immunologie, vaccin, on administre normalement des antigènes. On n'administre pas des anticorps. Pour parler de vaccination, c'est une administration d'antigènes.
+
+(49:55 - 50:04)
+Mahdi est par définition. On peut l'appeler la sérothérapie, etc. lorsqu'on admire des anticorps, etc.
+
+(50:05 - 50:42)
+On doit injecter des anticorps anti-D quelques heures après la fin de sa première grossesse pour éviter que les prochains enfants... Vous avez dit après la fin de sa première grossesse. Ce n'est pas précis ? Monsieur William, Dean William, à la fin de la troisième trimestre, vous voulez dire, par exemple ? Alors, qu'est-ce qu'on fait ? Anticorps anti-Rhesus. Mzian, vous avez... D'accord.
+
+(50:43 - 50:49)
+Il m'a dit oui, des anticorps anti-Rhesus. Vous avez corrigé. Utilisez des immunosuppresseurs.
+
+(50:50 - 51:07)
+Je ne suis pas d'accord. Si vous administrez des immunosuppresseurs à la femme enceinte ou bien à une femme qui a accouché, c'est très grave. Une femme qui vient d'accoucher, ce qui est appelé les immunosuppresseurs, vous allez la tuer.
+
+(51:09 - 51:16)
+72 heures après le contact sanguin. 72 heures, on va revoir. 72 heures, c'est trop tard.
+
+(51:19 - 51:47)
+Vous tournez autour, mais le délai, le moment d'injection n'est pas juste. William, vous avez dit entre parenthèses accouchement. Qu'est-ce que vous voulez dire avant 72 heures ou bien il faut attendre 72 heures ? J'imagine que vous voulez dire avant, parce que vous avez mis entre parenthèses l'accouchement.
+
+(51:47 - 52:20)
+Ça veut dire au moment de l'accouchement. Après l'accouchement, c'est ça ? Les autres, qu'est-ce que vous en pensez ? Anticorps anti-Rhesus pour éviter la mère d'avoir fabriqué, d'accord. Oui, d'accord aussi.
+
+(52:21 - 52:29)
+Il y a une réponse ici. Celle de William, aussi des anticorps. Il faut être précis.
+
+(52:30 - 52:47)
+Il faut injecter, mais quand ? C'est très important. Vous avez ici la réponse. Il faut administrer des anticorps anti-Rhesus immédiatement après l'accouchement.
+
+(52:48 - 52:58)
+Après le premier, pas le deuxième, etc. Si ce n'est pas fait au cours du premier accouchement, c'est trop tard. C'est au cours du premier.
+
+(52:58 - 53:11)
+On va répéter aussi au cours des deuxièmes. Chaque fois qu'il y a un accouchement, il faut faire les anti-D. Les anti-D vont permettre de liser les globules rouges parce qu'elles portent des Rhesus avant que ce Rhesus arrive chez la maman.
+
+(53:12 - 53:25)
+Parce qu'une fois la maman est sensibilisée par le Rhesus, c'est trop tard. Il y aura des cellules mémoires. Même si vous administrez ce que vous voulez comme anticorps même, ça va être difficile et trop tard.
+
+(53:25 - 53:34)
+Donc il faut les administrer de façon très précoce. Pas avant, mais immédiatement. Maximum 48-72 heures.
+
+(53:35 - 53:43)
+Mais déjà 72 heures, on est un peu dans le retard. Deuxième. On retourne vers le cas clinique pour faire le point.
+
+(53:44 - 54:01)
+Le diagnostic, vous l'avez bien dit, c'est une incompatibilité photomaternelle Rhesus. Mais avant cela, il faut dire que nous sommes devant une anémie hémolithique chez un deuxième enfant, etc. et qui est liée à une incompatibilité photomaternelle.
+
+(54:01 - 55:17)
+Le bilan immunologique, qu'est-ce qu'il faut demander ? A votre avis, qu'est-ce qu'il faut demander ? A mon avis, le groupage sanguin d'abord. Il faut être sûr, parce qu'on ne connaissait pas l'histoire. Avant, il faut faire le groupage sanguin chez la maman et le bébé, le nouveau-né.
+
+(55:17 - 55:38)
+Deuxièmement, qu'est-ce qu'on va faire pour confirmer notre diagnostic ? Il se peut qu'on ait, par exemple, une interférence avec des médicaments. La maman a consommé des médicaments au cours de la grossesse. Ou là, il y a une cause infectieuse qui ne ressort pas dans la vie clinique.
+
+(55:44 - 56:34)
+Par quoi peut-on confirmer cette incompatibilité photomaternelle Rhesus ? Il y a-t-il des propositions ? Tester le Rhesus du nouveau-né ? C'est ce qu'on a dit tout à l'heure, il faut le groupage sanguin Rhesus. Test d'agglutination de quoi ? Vous, en tant que médecin, vous n'allez pas prescrire la test d'agglutination. Il faut être précis.
+
+(56:35 - 57:25)
+C'est-vous des tests d'agglutination ? Il y en a plusieurs. Sérologie de quoi ? Dites-moi. Alors, en cas de prise de médicaments, on peut faire un test toxique ? Non, ici, on n'est pas dans les médicaments.
+
+(57:28 - 57:40)
+Rechercher des anticorps ? Alors, sérologie, EGG. Non, on n'a pas... EGG quoi ? Il faut être précis. Donc, si vous écrivez dans l'ordonnance, sérologie, recherche EGG, je ne sais pas.
+
+(57:40 - 57:46)
+Donc, c'est incomplet. Le laboratoire ne va rien comprendre. Recherche des anticorps en Thérésus chez le nouveau-né.
+
+(57:47 - 58:08)
+C'est bien ? Chez le nouveau-né. Alors, par quelle technique ? Il s'appelle comment le test qui permet de chercher des anticorps en Thérésus ? Comment on va attendre l'appelé ? Test de Combs direct. Tout à fait.
+
+(58:08 - 58:21)
+Le test de Combs direct chez le nouveau-né. Donc, on a fait le groupage chez les deux. Après, pour chercher... Parce que par définition, on a dit que le Combs direct permet de chercher des anticorps en Thérésus.
+
+(58:21 - 58:38)
+Ça veut dire fixer sur le globule rouge directement. On va les trouver chez le nouveau-né. Est-ce qu'il y a quelque chose qu'on peut faire chez la maman ? Parce qu'on a deux parties.
+
+(58:39 - 58:59)
+La maman et le nouveau-né. Donc, on a besoin aussi d'un test de... d'un test d'agglutination indirect, qu'on va appeler tout simplement un Combs indirect. Parce que l'agglutination indirect, le Combs indirect, va nous permettre de chercher des anticorps au niveau du plasme, dans le sérum.
+
+(59:01 - 59:09)
+Voilà. D'un côté, on cherche les anticorps sur le globule rouge. De l'autre côté, on cherche les anticorps circulant chez la maman, c'est-à-dire au niveau du plasme.
+
+(59:09 - 59:40)
+Vous êtes d'accord ? C'est comme ça qu'on va confronter les deux résultats. Et on va avoir tout le reste de la possibilité de faire une agglutination indirecte. Voilà ! D'un côté, il y a un test de... … de l'agglutination indirecte, et du retracement de l'agglutination indirecte, et du retracement du comble du plasme à l'horizon.
+
+(59:40 - 1:00:40)
+On va voir comment on peut faire ça. Et d'un autre côté, il y a un test de l'agglutination... de l'agglutination indirecte... C'est un patient qui a été déjà transfusé, c'est-à-dire c'est un premier épisode immunisant et qui va être candidat à une deuxième transfusion. Qu'est-ce qu'on va demander avant cette deuxième transfusion ? Est-ce que vous avez des idées ? Alors à votre avis, en faisant nos liens, en restant toujours dans les groupes sanguins, dont le rhizus, etc.
+
+(1:00:43 - 1:02:20)
+Et vous avez aussi deuxième transfusion. Pourquoi on a choisi de dire deuxième transfusion ? Est-ce qu'il y a un risque lorsqu'on transfuse quelqu'un ? Chez n'importe quel individu, qu'est-ce qu'il peut générer ? Est-ce qu'il peut faire apparaître des anticorps ou qu'il type, par exemple ? Pas de proposition ? Pour essayer de faciliter la tâche, tout à l'heure on a dit, je vais revenir un peu en arrière, lorsqu'on avait parlé du groupe à sanguins, on a dit qu'il y a aussi, on a dit qu'ici, regardez, en fonction du phénotype rhizus d'un individu, quelqu'un qui est rhizus négatif dans le phénotype autre que rhizus majeur, RH1 ou D, si je transfuse quelqu'un qui est rhizus négatif, c'est-à-dire C minuscule, je lui donne par exemple un RH2, il va développer des anti-RH2. Celui-ci, le RH5, va développer des anti-RH3.
+
+(1:02:20 - 1:02:49)
+Il se sensibilise par rapport à ses antigènes rhizus qu'il n'avait pas, donc il risque d'apparaître au cours d'une première transfusion. Et si je le transfuse de nouveau, une deuxième ou la troisième ou la une fois, donc il risque d'avoir ces anticorps qui provoqueraient un accident transfusionnel qui peut être mortel. C'est pourquoi il faut chercher ces anticorps qui risquent d'apparaître de façon irrégulière, qu'on appelle des aglutinines irrégulières.
+
+(1:02:49 - 1:03:08)
+Si, par exemple, celui qui a été transfusé a développé des anti-RH2, ce sont des anti-RH2 qui sont dites aglutinines irrégulières. C'est extrêmement important. Ça peut être aussi les antikyles ou les anti-MS, MS du fil, etc.
+
+(1:03:09 - 1:03:42)
+C'est très important de connaître ces anticorps. Pourquoi ? Vous savez, la transfusion sanguine étant un acte purement médical, uniquement le médecin qui a le droit de prescrire une transfusion sanguine, bien évidemment, et avant de prescrire, il faut absolument qu'elle vérifie si, au cours de la première transfusion, elle n'avait pas développé des anticorps anti-Rh2, ou bien des aglutinines irrégulières. C'est l'omis de demander ces aglutinines irrégulières.
+
+(1:03:42 - 1:04:00)
+Donc, que le malade, le patient transfusé ait fait un accident, parfois ça peut être mortel, il risque d'être traduit en justice. Si on ne trouve pas des traces dans le dossier qui n'avaient pas demandé ce test, il est obligatoire. Ça coûte très cher.
+
+(1:04:01 - 1:04:08)
+Ce sont des choses qui sont extrêmement importantes. Ils ont une portée médico-légale. C'est une responsabilité qui est lourde.
+
+(1:04:09 - 1:04:31)
+Pour essayer de raisonner sur ce qu'on appelle les aglutinines irrégulières, on va parler de l'agglutination indirecte, qu'on va appeler tout simplement COMPS indirect. Vous avez ici l'explication. On a la description dans le texte.
+
+(1:04:31 - 1:04:44)
+Sur le schéma, on a la figure. Tout à l'heure, on disait que le COMPS direct permet de chercher les anticorps sur le globule rouge. Le COMPS indirect vise à chercher des anticorps au niveau du plasma.
+
+(1:04:52 - 1:05:34)
+J'avance ? J'avance ? Hein ? Il y a des noms ? Il me semble que non. Si vous voulez, il me semble qu'il y a quelqu'un. C'est bon ? Gardez vos micros éteints, s'il vous plaît.
+
+(1:05:35 - 1:06:13)
+Je disais que le COMPS indirect consiste à chercher des anticorps au niveau du plasma. Pour le faire, on va tout simplement les mettre au contact du globule rouge qui sont lavés pour éviter les interférences avec les propres antigènes du globule rouge, notamment de ABO, etc. Lorsqu'on va les mettre au contact, le globule rouge étant facilement sensibilisé par ces anticorps non agglutinants, ils vont s'accrocher sur ce globule rouge.
+
+(1:06:13 - 1:06:29)
+C'est l'étape de sensibilisation. Lorsqu'on va chercher des anticorps agglutinants, si on a une agglutination, ça veut dire indirectement qu'il y avait des anticorps. S'il n'y a pas d'agglutination, on n'a pas d'anticorps initialement.
+
+(1:06:30 - 1:06:43)
+C'est un test de COMPS négatif. Voilà comment on réalise ce test de COMPS indirect. Les deux principales indications sont d'abord la recherche d'agglutinines irrégulières.
+
+(1:06:44 - 1:07:00)
+C'est ce que je viens d'expliquer. Ce sont des anticorps qui apparaissent après une transfusion sanguine ou après un autre événement. La grossesse peut parfois les faire apparaître ou une infection virale.
+
+(1:07:00 - 1:07:19)
+Il y a plusieurs circonstances. Une greffe peut faire apparaître ces anticorps agglutinants irréguliers, les anti-RH4, les anti-RH3, les anti-RH5, etc. C'est ce qu'il faut chercher de façon indispensable avant toute deuxième ou troisième transfusion.
+
+(1:07:21 - 1:07:58)
+En faisant le lien avec le premier cas clinique de tout à l'heure, si on a une suspicion d'incompatibilité photomaternelle, Rhesus, on avait cherché le COMPS direct chez le nouveau-né, il faut compléter par le COMPS indirect chez la maman. Comme ça vous allez faire le lien et confirmer votre diagnostic. Le COMPS indirect nous a permis d'un côté de chercher les agglutinants irréguliers lors d'une transfusion, et deuxièmement, si on a un cas de suspicion d'incompatibilité photomaternelle, on va compléter par rechercher les anticorps circulants au niveau du plasma de la maman.
+
+(1:08:00 - 1:08:10)
+Pour retourner vers le cas clinique, vous avez les réponses. Le test, c'est quoi ? C'est le COMPS indirect. Deuxièmement, le principe, vous l'avez bien décrit.
+
+(1:08:10 - 1:08:46)
+Quand on vous interroge sur le principe ou bien les tests, normalement, les examens portent généralement sur la description du principe d'un test ou bien sur les indications, et comme ça peut transiter un cas clinique comme celui-là, le dernier, sur lesquels vous allez penser et réfléchir. On vous laisse un petit peu pour le troisième cas clinique. Le troisième cas clinique, vous suspectez une syphilis chez un patient.
+
+(1:08:52 - 1:09:30)
+Quels sont les tests qui vont être utiles au diagnostic sérologique pour diagnostiquer la syphilis chez ce patient ? Vous connaissez j'imagine la syphilis ? La syphilis, vous connaissez ce que c'est déjà ? C'est une... On va voir ce que vous avez. Vous avez dit test TPH à VDRL ilisant. D'accord.
+
+(1:09:30 - 1:09:40)
+TPH à VDRL. D'accord. La syphilis, c'est tout simplement une infection sexuellement transmissible.
+
+(1:09:40 - 1:10:03)
+C'est-à-dire que la syphilis, elle est liée à quoi ? A une bactérie, ce qu'on appelle tréponema pallidum, ou bien une tréponematose. Quand on dit tréponema pallidum, vous avez ici deux termes. Tréponem, c'est le genre, et l'espèce, c'est pallidum.
+
+(1:10:03 - 1:10:24)
+La syphilis humaine est causée par le pallidum. Vous avez d'autres espèces qui vont causer la syphilis chez les animaux, les bovins, autres. La notion de la tréponema, c'est par rapport à une famille de tréponèmes, ou bien de spiroquettes.
+
+(1:10:24 - 1:10:58)
+En tout cas, si on veut chercher cette syphilis chez quelqu'un qui est suspect, on va faire des tests qui sont basés sur ce qu'on appelle l'agglutination artificielle. Tout à l'heure, lorsqu'on avait parlé de l'agglutination directe ou indirecte, vous avez constaté qu'on a utilisé des globules rouges qui participent dans ces réactions à travers leurs antigens. C'est une agglutination qui est un peu active, dans laquelle le globule rouge est actif, il participe dans la réaction.
+
+(1:10:58 - 1:11:23)
+Ici, on peut utiliser des supports sur lesquels on va fixer des antigens. Ces supports sont soit des particules inertes, latex, gélatine, ou bien des hémacies. On peut travailler sur des hémacies pour les rendre neutres, et fixer dessus ce qu'on veut comme antigens.
+
+(1:11:23 - 1:11:45)
+Les hémacies peuvent être, grâce à des agents de couplage, l'acide tannique ou le tannage, les rendre un peu neutres. On peut les utiliser comme support car ils fixent facilement les antigens. Pour la syphilis, il faut demander généralement deux tests.
+
+(1:11:45 - 1:11:58)
+C'est obligatoire de demander le TPHA et le VDRL. Le TPHA, les deux sont utilisés. Il y a d'autres tests, mais on ne va pas travailler dessus.
+
+(1:11:59 - 1:12:34)
+Vous allez voir en dermatologie, on fait de l'indication plutôt. Le test TPHA, c'est quoi ? Tréponema pallidum, ou bien un test d'agglutination des hémacies, concernant le tréponema pallidum. On va tout simplement prendre des antigens tréponémiques, c'est-à-dire extrait des tréponèmes, pas forcément des pallidums, qu'on va fixer sur des hémacies formelées, tannées, etc.
+
+(1:12:35 - 1:13:17)
+Ce sont des hémacies neutres sur lesquelles on fixe des antigens. Lorsqu'on réalise le test, ce TPHA, on a regardé si, par exemple, on dépose plusieurs sérums, ou il y a un seul sérum sur plusieurs pouies. Si je prends plusieurs sérums, par exemple, plusieurs patients, vous allez voir qu'il y a, en termes de positivité et de négativité, le pouet 1. Lorsqu'on a dit que la glutination par des anticorps permet d'avoir des globules rouges qui flottent, qui restent piégées par les anticorps, c'est le cas ici.
+
+(1:13:17 - 1:13:40)
+Vous avez le pouet 1, le pouet 2, le pouet 3, jusqu'au pouet 5, vous avez ici la glutination positive. Par contre, le pouet 5, 6, 7 et 8, vous avez des hématites qui s'illimentent au fond du pouet, ça veut dire qu'ils sont libres. Ils n'ont pas été accrochés par des anticorps.
+
+(1:13:40 - 1:13:57)
+Le 6, le 7 et le 8 sont négatifs, alors que du pouet 1 jusqu'au 5, vous avez une positivité du test TPHA qui témoigne de la présence. On va voir après si c'est suffisant ou pas. On a dit qu'il faut combiner les deux.
+
+(1:13:59 - 1:14:27)
+Lorsque TPHA est positif, vraisemblablement, à moins que des exceptions prêtes, parfois on peut avoir des faux positifs, mais c'est rare. Vous avez donc une positivité de TPHA et on va compléter par le VDRL pour pouvoir raisonner. Le VDRL, c'est quoi ? Au lieu d'utiliser des antigènes tryphonimiques, on va utiliser des antigènes cardio-lépidiques.
+
+(1:14:27 - 1:15:22)
+Pourquoi cardio-lépidiques ? On a à la surface de nos cellules de façon générale des lépides. Ce sont des phospholépides sombranaires. On a dit tout à l'heure que le VDRL, on a à la surface de nos cellules ce qu'on appelle des antigènes lépidiques où on a des phospholépides membranaires.
+
+(1:15:25 - 1:15:37)
+Ce sont des antigènes qu'on fixe sur des grandes cellules. Vous allez voir qu'ils sont non-spécifiques. Ça veut dire quoi ? Parce qu'ils se retrouvent chez les cellules humaines.
+
+(1:15:37 - 1:15:56)
+Si je dépose des anticorps anti-cardio-lépines, j'aurai des réactions croisées avec d'autres cellules humaines. Pas forcément de la syphilis. Ils sont présents chez les tryphonèmes mais également sur nos cellules humaines.
+
+(1:15:58 - 1:16:06)
+Si j'ai uniquement un VDRL positif, ça veut dire que j'ai des anticorps anti-cardio-lépidiques. Du coup, il faut chercher autre chose. C'est pas la syphilis.
+
+(1:16:08 - 1:16:26)
+Généralement, les anti-cardio-lépines sont générées par des anticorps associés à des maladies comme le lupus ou les syndromes des antiphospholépides. Vous avez un malade chez qui vous suspectez d'avoir une syphilis. Vous faites le test VDRL-TPHA.
+
+(1:16:27 - 1:16:43)
+Vous avez un TPHA qui est négatif. Vous avez uniquement le VDRL. Vous allez dire à un interniste de chercher une maladie auto-immune à moins que vous soyez vous-même un spécialiste dans ce sens.
+
+(1:16:44 - 1:17:06)
+Vous allez chercher une maladie auto-immune parce que dans le lupus, parmi les critères diagnostiques, on parle de la fausse sérologie syphilitique. La fausse sérologie syphilitique, c'est-à-dire uniquement le VDRL positif, est un critère de cette maladie qu'on appelle le lupus. Retenez bien la notion.
+
+(1:17:06 - 1:17:24)
+VDRL tout seul, c'est pratiquement pas la syphilis. Mais si vous avez un TPHA tout seul positif, il faut faire attention. Si je vous pose la question, est-ce que c'est positif ou pas ? Il faut regarder la cinétique des anticorps.
+
+(1:17:24 - 1:17:39)
+Quelqu'un qui a une syphilis, d'abord il fait apparaître le TPHA, ce positif en premier. Au bout d'une semaine, jusqu'à deux semaines, on va trouver le VDRL qui est positif. Il va développer des anticorps anti-cardiolipidiques.
+
+(1:17:40 - 1:18:07)
+Si je tombe dans la période où il n'y a que des anticorps antithrombolimiques, il y a une syphilis débutante, mais il n'y a pas le VDRL. Vous êtes dans le doute ? Soit vous avez la possibilité de demander un test qu'on appelle le FTA ou le Nelson, ce sont des tests difficiles à pratiquer, ils ne sont pas disponibles dans tous les laboratoires. Sinon vous allez attendre.
+
+(1:18:07 - 1:18:28)
+Je préfère que vous contrôlez ce prélèvement à TPHA-VDRL dans une ou deux semaines pour savoir si le VDRL est positif. Vous allez pouvoir poser le diagnostic tranquillement. Si c'est le TPHA, vous allez résonner sur autre chose.
+
+(1:18:28 - 1:18:48)
+Soit une syphilis débutante, soit la syphilis ancienne. Quelqu'un qui a fait une syphilis fait apparaître en premier le TPHA, après le VDRL avec un décalage d'une à deux semaines. Lorsqu'on traite cette syphilis, le VDRL va se négativer en premier et le TPHA va rester longtemps.
+
+(1:18:49 - 1:19:04)
+Parfois même le TPHA reste pratiquement à vie, mais avec de faibles titres. Il ne faut pas être étonné de garder quelques traces de TPHA positif. Cela peut être une syphilis récente ou ancienne, soit traité ou non.
+
+(1:19:05 - 1:19:21)
+Quelqu'un qui a fait une syphilis et qui est passé inaperçu, il a spontanément guéri, il va garder des traces de TPHA, mais pas de VDRL. Voilà comment on raisonne. Il y a aussi une troisième possibilité.
+
+(1:19:22 - 1:19:28)
+On a déjà compté trois. TPHA VDRL positif, c'est la syphilis. TPHA récente, lorsqu'il est seul.
+
+(1:19:29 - 1:19:51)
+Ou bien la syphilis ancienne. Ou bien si vous avez une réaction croisée avec les autres tréponèmes. Quelqu'un qui travaille dans un fermier, il manipule les vaches, il a probablement été sensibilisé à des contacts avec les antigènes des autres tréponèmes.
+
+(1:19:52 - 1:20:10)
+Il peut avoir une sérologie TPHA positif liée à une autre espèce que le panidome. Il faut interroger l'origine du patient, son métier, etc. Il y a aussi le faux TPHA au cours de la grossesse.
+
+(1:20:10 - 1:20:32)
+C'est rare, mais c'est possible. C'est pourquoi il faut interpréter les résultats avec beaucoup de prudence. On a dit tout à l'heure que vis-à-vis d'une femme en 5e trimestre, on demande le groupage sanguin, la sérologie d'oxyplasmosis, la séphilis, l'hépatite B, l'hépatite C, tout cela va servir à quelque chose.
+
+(1:20:32 - 1:20:49)
+Vous risquez de tomber sur un TPHA positif et vous le contrôlez au bout de 15 jours. Il n'y a pas de contexte de fermier ou de contact avec les vaches. Si vous pouvez raisonner, vous allez probablement dire que c'est un faux TPHA.
+
+(1:20:49 - 1:21:05)
+Ce sont des choses pratiques. Vous risquez de ne pas les lire dans les bouquins, mais c'est de la pratique. C'est le fruit de notre expérience à travers le temps pour pouvoir raisonner devant des cas particuliers comme celui-là.
+
+(1:21:07 - 1:21:19)
+La séphilis, vous allez l'étudier en 3e année en dermatologie. On va revenir sur tout ce qui est clinique et en confrontation avec les données de la psychologie. Il nous reste une chose.
+
+(1:21:19 - 1:21:33)
+Lorsqu'on fait le diagnostic de la séphilis, il faut finir par le titrage. On est dans l'aspect qualitatif mais aussi quantitatif. Le titre est très important.
+
+(1:21:34 - 1:22:00)
+Pour déterminer le titre d'une infection, il va vous informer sur le degré de l'infection, s'il est intense ou pas. Si vous trouvez des anticorps à titre très élevé, ça veut dire que l'infection est assez... en termes de gravité, il y a un degré d'infectivité liée à la bactérie. Deuxièmement, le fait de titrer les anticorps va vous permettre de suivre votre malade.
+
+(1:22:00 - 1:22:24)
+Aujourd'hui, il a un titre à 1 sur 2 de 1 500 à 256 000 mais si vous traitez, il doit diminuer le titre jusqu'à la négativité. C'est pourquoi le titrage est très important. Pour le titrage, on va vous l'expliquer.
+
+(1:22:25 - 1:22:41)
+Lorsque vous recevez un titrage d'une infection, notamment pour les bactéries ou les virus, vous allez comprendre comment on le fait. C'est très simple. Pour le premier puits, on commence toujours par un seuil de détection.
+
+(1:22:42 - 1:23:04)
+Le seuil de détection de la séphilis, c'est généralement 1 huitième. 1 sur 8, c'est le seuil qui permet de dire positif ou négatif. Lorsqu'on va déposer des gouttes d'une certaine quantité de ce sérum sur plusieurs puits, on ne sait pas exactement combien il a de titre.
+
+(1:23:04 - 1:23:14)
+A chaque fois, en passant d'un puits à l'autre, on va multiplier par un facteur de dilution. Par exemple, le puits 2, on va diluer le sérum. On multiplie par 1 demi.
+
+(1:23:14 - 1:23:23)
+Je vais multiplier 1 huitième par 1 demi. Il va me donner 1 seizième, s'il reste positif. Je vais continuer à multiplier par 1 demi.
+
+(1:23:23 - 1:23:33)
+Je vais diluer ce sérum à 1 quart. J'aurai 1 demi, 1 quart, etc. Ici, j'aurai 1 sur 32.
+
+(1:23:33 - 1:23:40)
+J'ai multiplié par un facteur de 1 demi. 1 seizième fois 2, c'est 1 trente-deuxième. 1 soixante-quatrième, 1 cent-vingt-huitième.
+
+(1:23:41 - 1:23:56)
+Si c'est positif, par exemple, le puits 6, on va dire 1 sur 256, etc. C'est comme ça qu'on définit le titre. Le titre de l'anticorps correspond à l'inverse de la dilution du dernier puits ayant une agglutination.
+
+(1:23:56 - 1:24:05)
+Ici, c'est 1 sur 128e. Voilà comment on fait le titrage du TPHA. C'est pareil pour le VDRL.
+
+(1:24:05 - 1:24:18)
+Pour les autres tests d'agglutination, il faut toujours faire le titrage. L'agglutination, on fait avec cette optique en multipliant par un facteur de 1 demi chaque fois. Voilà comment on fait le test de la syphilis.
+
+(1:24:18 - 1:24:30)
+On a les principaux tests de la syphilis. Il y a d'autres tests qu'on ne va pas pouvoir vous expliquer parce qu'ils sont beaucoup plus compliqués et ne sont pas de pratique quotidienne fréquente. C'est l'appannage de certains laboratoires.
+
+(1:24:30 - 1:24:40)
+Vous avez compris, le test, c'est TPHA-VDRL. L'interprétation des résultats, vous l'avez compris. On a les deux positifs, c'est la syphilis.
+
+(1:24:40 - 1:24:54)
+Le VDRL seul, c'est uniquement autre chose. Une maladie auto-immune, etc. On a généralement l'hépuce, la syndrome des antipousses folipides, les antichorontifus folipides tout court.
+
+(1:24:55 - 1:25:22)
+Si on est devant un TPHA positif seul, les situations, vous devez les connaître. Soit une syphilis récente, il faut contrôler ou demander un autre test complémentaire pour trancher. C'est bon.
+
+(1:25:27 - 1:25:59)
+On avance. Le quatrième cas clinique, devant un accident d'exposition au sang faisant craindre une contamination par le VIH. Quelle serait la conduite à tenir ? Donc accident d'exposition au sang, c'est une exposition à du sang directement ou bien un liquide biologique qui est contaminé par le sang.
+
+(1:26:18 - 1:29:14)
+Alors on va voir un petit peu vos réponses. Alors faisant craindre une contamination par le VIH, c'est-à-dire que la source de la contamination n'est pas encore confirmée. Juste il y a quelques réponses tout à l'heure. 
+
+On a des questions. Le test qui se négative le premier après l'administration du traitement. Exact, c'est le VIH qui se négative. 
+
+Donc le VIH se positive en dernier après le TPHA et se négative le premier après le traitement. Alors comment expliquer les faux positifs en cas de grossesse ? Une bonne idée. Bonne question. 
+
+Je ne pourrais pas vous répondre avec exactitude. Donc il y a probablement des... En cas de grossesse, retenez bien, on ne peut pas tout expliquer. Il y a souvent des perturbations, soi-disant des éléments biologiques. 
+
+Par exemple, beaucoup de paramètres biochimiques, hématologiques qui sont perturbés et il est difficile de tout expliquer. Donc ce n'est pas forcément des réactions croisées avec les antigènes très polémiques. Non, il y a des choses que je pourrais pas répondre. 
+
+D'accord. Traitement préventif du VIH. Alors il y a... Alors c'est une plaie qu'il faut nettoyer. 
+
+Donc on va passer à l'étape du nettoyage, parce que bien sûr, si c'est une plaie, lorsqu'on a un contact, il faut nettoyer pendant au moins dix minutes. Si c'est un contact avec des mycotiques, il faut aussi nettoyer. Il faut mettre un antiseptique. 
+
+Donc il faut d'abord s'assurer du statut sérologique du patient source. Est-ce que c'est un patient qui est positif ou négatif pour le VIH ? Et bien sûr, d'autres infections. Notamment, oui, vous avez par exemple Ali, l'hépatite B, l'hépatite C. Donc il faut tester le patient source. 
+
+Qu'est-ce qu'on va faire ? Excusez-moi juste par rapport à la prophylaxie. On imagine que les situations de l'exposition au sang, on peut extrapoler, c'est pour faire le lien avec les accidents d'exposition sexuelle, retenez bien. Parce qu'avec les accidents d'exposition au sang, ça concerne tout le monde.
+
+(1:29:15 - 1:34:07)
+Ça peut être d'abord vous, qui sont dans le secteur médical ou la de soins. Tout le monde est concerné. Depuis le chirurgien, le médecin, l'infirmier, la zone de service, l'exter parce qu'il est là. 
+
+Par exemple, un jour, j'essaie de caricater le suivant, vous êtes dans votre premier stage d'exter par exemple, vous êtes dans un service de chirurgie, vous êtes très actif, il y a l'aide opératoire qui ne vient pas, on vous dit il y a un exter qui est très bien, il va me faire l'aide opératoire. La première fois, vous allez paniquer un petit peu, vous touchez l'arbre de pistolet, vous vous faites piquer ou là, il sera parfois, vous voulez injecter une injection quelque soit et vous vous faites piquer. C'est très important. 
+
+Là, vous êtes en train de manipuler par exemple un tube, soit vous voulez le rebouchonner ou l'ouvrir pour je ne sais pas quoi. Et après, il y a une clavousture du sang sur le visage, ce qui est plus grave encore. Donc, il y a des mesures de la désinfection initiale après l'exposition, il est capital pour la suite. 
+
+Si par exemple, on ne fait pas des gestes de première attention d'urgence, carrément, on s'expose à un risque énorme. Donc, c'est extrêmement important de faire les mesures. Ça peut être le cas par exemple, vous êtes en groupe en temps d'exter, un qui s'expose, celui qui s'est exposé, il va paniquer, il ne va pas savoir, mais c'est à vous maintenant, le groupe, de le ramener, d'enrobiner pour un rinçage massif abondant, soit de l'eau abondante lorsqu'il s'agit du muqueuse, les conjonctives, soit s'il s'agit d'une plaie, il faut bien nettoyer avec l'eau de Javel diluée ou bien la solution d'Aka. 
+
+C'est extrêmement important le geste. Deuxièmement, il faut résoudre de façon un peu méthodique. Il vous est demandé de structurer vos réponses. 
+
+Comment ? Vous êtes devant quelqu'un qui s'est exposé, mais comme a dit ma collègue, il y a d'abord une personne source. On peut l'appeler exposant, mais bon, le terme exposant, ce n'est pas adapté. Une personne source versus une personne exposée. 
+
+Donc, vous avez ici deux situations. Le souci, c'est quoi ? J'ai quelqu'un qui s'est fait piquer, mais on ne sait jamais est-ce qu'avec la personne source, il y a un VIH positif, etc. Qu'est-ce que je fais ? Je vais essayer d'avoir la personne source pour la prélever. 
+
+C'est extrêmement important. Par exemple, imaginons que vous la prélevez et il se trouve que c'est une personne qui est positive, un VIH positif. Qu'est-ce qu'on va faire ? Alors, il y a quelqu'un qui a proposé le test ILISA, c'est ça ? Sarah ? Ilisa ? C'est tout ? D'abord, est-ce qu'on doit tester les deux ou l'un seul ? C'est sûr que pour la personne source, obligatoirement, si on a la positive de la voix, il faut le prélever. 
+
+Deuxièmement, est-ce que la personne exposée, il y a quelque chose à faire en termes de test ? Tester les deux. Pourquoi on teste la personne exposée ? J'imagine que je l'ai exposée aujourd'hui, j'ai fait le test. Normalement, il n'y a pas de raison qu'il y ait n'importe quel agent pathogène au premier contact. 
+
+Ce n'est pas aujourd'hui que je vais faire apparaître des antigènes ou des anticorps. Il faut ce qu'on appelle, après une période d'incubation, la période sérologique où il y a VIH, on peut détecter les antigènes au bout de 5, 3, en fonction de la méthode qu'on va utiliser. Biologie moléculaire, ça peut être de précoce, de jour. 
+
+Après, les antigènes, il faut, je veux dire, les IgM, par exemple, il faut les, au moins, 5, 7 jours. Les IgG, il faut attendre 2 semaines, 3 semaines. Il faut se positionner dans un raisonnement, on va dire, réponse immunitaire pour pouvoir planifier les tests que vous allez faire. 
+
+Alors on a dit, tester l'exposée, c'est la source positive. D'accord. Pour vérifier s'il a effectivement été contaminé après une période de temps déterminée. 
+
+On a de le temps, on va essayer de nous aider un petit peu. Je vous ai aidé chez Chuiyao au raisonnement sur la base des réactions immunitaires. Bien.
+
+(1:34:07 - 1:34:17)
+Alors on va essayer d'avancer un petit peu. Alors normalement, il faut tester également l'exposée. Pourquoi ? Vous risquez d'avoir quelqu'un qui est VIH qui ne connaît pas.
+
+(1:34:18 - 1:34:47)
+Il ne sait pas qu'il a un VIH, une infection VIH, je veux dire, parce que VIH, dans des années, on peut être asymptomatique. Donc, il faut éliminer, est-ce que cet individu n'est pas déjà, il ne connaît pas son statut ? Ou bien, j'exagère un peu, c'est quelqu'un qui est un peu malade, etc. et sait qu'il est VIH positif, il a monté une histoire, je ne sais pas, un scénario, pour monter un dossier d'accident de travail.
+
+(1:34:48 - 1:39:11)
+Oubliez ça, je le dirais à l'entraîneuse, 10 fois. C'est pourquoi les recommandations, les guidelines de testing des personnes exposées, il faut systématiquement tester les deux. Tester les deux, par quels moyens ? En parlant du VIH, il y a le test rapide. 
+
+Le plus simple, c'est le test. S'il vous plaît, il y a quelqu'un ? Tenez vos micros. C'est bon, c'est clair. 
+
+Donc, la honteuse, c'est quoi ? C'est d'avoir quelqu'un qui s'est fait piquer par une personne source positive et qui va laisser un petit peu avec un risque important pour la personne exposée. C'est pourquoi il faut tester, avoir la personne source au maximum, si possible. Alors, si la personne source est positive, qu'est-ce qu'on fait ? Il y a ce qu'on appelle l'évaluation du risque. 
+
+On a dit tout à l'heure, il faut les infecter. L'évaluation du risque de contamination, c'est l'affaire un petit peu de spécialistes, ça veut dire, ils vont évaluer un petit peu, est-ce que les muqueuses ont été touchées ? Par exemple, tout à l'heure, je vous ai dit les clavosures du sang, c'est un risque important. S'il y a une plaie ou pas ? De toute façon, si vous faites, il y a du sang sur la peau intacte, vous avez lavé rapidement, vous interrogez quelqu'un qui s'est exposé, il n'y a pas de risque, en principe, il est très faible. 
+
+Pourquoi ? Parce que si on veut traiter, il y a un traitement prophylactique anti-village, c'est pratiquement le même schéma qu'on administre, plus ou moins, qu'on administre aux personnes qui sont porteurs de l'infection village, mais dans une période assez limitée, qui ne dépasse pas généralement 6 semaines jusqu'à 3 mois. Vous voyez, il y a un protocole, mais pour l'administrer, il faut qu'il soit bien indiqué. Ils le fassent par une étape initiale qui s'appelle l'évaluation du risque. 
+
+Après, on va décider de traiter. Mais si on veut traiter, normalement, c'est l'urgence, il ne faut pas dépasser 6 heures. Si on dépasse 6 heures après l'exposition, c'est trop tard, parce qu'avant 6 heures, on a la possibilité de neutraliser le virus avant qu'il pénètre dans les cellules et qu'il se cache quelque part. 
+
+Vous voyez, c'est extrêmement important de faire tout ça de façon très méthodique, mais en sachant comment le procéder. On a testé s'il y a un risque élevé ou bien on ne connaît pas la personne source. Il y a un risque élevé, la personne source, on ne peut pas la connaître. 
+
+Malheureusement, vous avez trouvé, il s'est fait piquer par une aiguille, mais jeter quelque part, on ne connaît pas. Ou bien, ça peut être un agent de service, il est en train de ramasser les aiguilles. Ça peut être le cas aussi même dans la rue, les ibois, quelqu'un fou qui se drogue, il jette des seringues par terre. 
+
+Ça peut être nos enfants aussi qui jouent au football ou je ne sais pas, ils marchent sur une seringue. Donc, si vous avez un doute sur l'exposition VIACH, il faut prendre les choses au sérieux. Donc, il faut au moins faire ce qui doit se faire avant de, soi-disant, de clore le dossier. 
+
+Donc, on a dit et maintenant on va passer au test. Par quoi faut-il tester ? Vous avez dit, je pense, il y a une réponse. Alors, j'ai l'impression que c'est très bien. 
+
+D'ailleurs, on a la question de Diane, la question de Ariane, Sonia. Vous avez soulevé la question, les questions qui sont pertinentes. On va essayer de les répondre, d'accord ? Le délai, disons, dans les médias, et donc, combien de temps ? Dans les médias, déjà pour statuer, est-ce que le patient présente déjà une l'infection au VIH ultérieure, et par la suite, je pense à S6, c'est ça pour la sixième semaine.
+
+(1:39:18 - 1:41:37)
+On va essayer d'adopter un raisonnement scientifique parce que vous imaginez, on va lire les autres questions, après on va essayer de synthétiser, si après avoir pris le traitement, la personne exposée de vous qui n'est pas contaminée, y a-t-il des conséquences ? Alors la question, parce que dans votre question, il y a deux composantes, le risque, l'objectif c'est d'empêcher la pénétration du VIH, de l'infection réelle de la personne exposée. Maintenant pour être sûr, on ne peut infirmer ou éliminer la prochaine infection qu'au bout de deux mois normalement, le VIH c'est un peu particulier, on peut avoir la séropositivité ou la séro-conversion dans des délais un peu logiques, on va dire théoriques, les antigènes au bout de 7 jours, les anticorps au bout de 2 semaines, 3 semaines, mais pour éliminer le risque de façon définitive, c'est au bout de la sérologie, dernière sérologie, faites à deux mois, d'accord ? Vous voyez c'est un petit peu, c'est des guidelines, parce qu'il y a des atypies aussi par rapport au VIH, et si le risque est élevé, on commence par traitement même avant la confirmation du diagnostic. Il ne faut pas attendre la confirmation, vous voulez dire la confirmation de la personne source, parce que la confirmation de la personne source, qu'est-ce qu'il faut faire ? On fait un test rapide tout simplement, au jour, au moment de l'exposition, on va chercher le sang, prélever la personne source et la personne exposée, on fait un test rapide VIH, dans l'immédiat, mais après si la personne source est positive, donc on va focaliser sur la personne exposée. 
+
+Il y a un test rapide qui se fait immédiatement pour éliminer déjà une infection ancienne qui est méconnue. Deuxièmement, il va garder le souci parce que même s'il est même traité, on a jugé qu'il faut traiter, on leur administre un traitement antirétroviral, mais il y a toujours un risque à ce que, soi-disant, le VIH arrive à échapper, donc à pénétrer dans les cellules, à contaminer l'individu. Donc, qu'est-ce qu'il faut faire ? Il faut le suivre dans le temps, jusqu'à deux mois, mais entre les deux, il faut faire, par exemple, une sirologie G7, par exemple, on peut le faire.
+
+(1:41:39 - 1:42:08)
+Au moins à 15 jours, on a la chance d'avoir les antigènes et les anticorps, mais à 7 jours, on peut avoir des antigènes, un P24 qui est suppositif, et à 15 jours, on a déjà des anticorps, théoriquement. Normalement, les anticorps pour le VIH, 2-3 semaines, suffisant pour avoir des anticorps. Mais pour éliminer, il faut contrôler, il faut faire une dernière sirologie, normalement, à deux mois.
+
+(1:42:09 - 1:42:43)
+La dernière qui doit être faite pour éliminer le doute. Voilà un petit peu comment on procède pour essayer de résonner. Alors, pour vous expliquer tout ça, vous avez ici le test rapide, on a dit qu'il faut faire les deux. 
+
+Le test rapide, c'est la personne sourde, c'est la personne exposée. Vous connaissez le test rapide, c'est très simple. Normalement, il est conçu pour dépister aussi bien la souche HIV 1 que 2. On a besoin d'une bande contrôle, et vous avez ici la bande qui est témoin de la positivité.
+
+(1:42:43 - 1:43:25)
+Si la bande contrôle ne sort pas, ça veut dire que le test n'est pas valide. Donc, il faut avoir un négatif, et là, il y a une bande de contrôle toute seule, et un positif, la bande de contrôle et la bande de positivité, d'accord ? Et puis, vous avez donc, après, on va procéder à ce qui est beaucoup plus, on va dire, sensible, parce que le test rapide, quand même, il manque de sensibilité, on peut rater jusqu'à 5% des cas. Du coup, même si on fait le test rapide, et si il est négatif, il vaut mieux faire l'élisa derrière, parce que c'est très sensible, comme ça, vous aurez la certitude de ne pas passer à côté.
+
+(1:43:26 - 1:43:42)
+Je laisse Dr Hazi vous expliquer le principe de l'élisa. Alors, le principe général est identique en fonction de ce qu'on recherche, qui sont fixés sur une base solide. Ça peut être une micro-plaque ou une viandine.
+
+(1:43:43 - 1:44:03)
+On va commencer par la suite du sérum du patient, qui contient l'anticorps ou bien l'antigène recherché. On va effectuer un lavage pour éliminer l'excédent qui n'a pas été fixé, d'anticorps ou bien d'antigène. Et pour révéler la formation du complexe humain, c'est-à-dire la réaction antigène-anticorps, on va ajouter ce qu'on appelle un conjugué.
+
+(1:44:03 - 1:44:16)
+Le conjugué, ce sont des anticorps, soit anti-anticorps, lorsqu'on recherche des anticorps ou bien anti-antigènes. Ils sont marqués par une enzyme. Cette enzyme peut être une peroxidase ou une phosphatase alcaline.
+
+(1:44:17 - 1:44:33)
+Donc on va effectuer un deuxième lavage pour éliminer l'excédent de conjugué qui n'a pas été fixé. Et par la suite, on va ajouter le substrat de l'enzyme du conjugué. Ce substrat, c'est une substance qui est chromogène, c'est-à-dire qui va donner une coloration.
+
+(1:44:34 - 1:44:59)
+À la base, elle est incolore et elle va être convertie en produit coloré sous l'action de l'enzyme, indiquant ainsi la formation du complexe humain, du complexe antigène-anticorps. Donc le produit de la réaction, qui est un produit normalement coloré, il va être lu par spectrophotométrie et on aura le résultat sous forme d'absorbance. C'est la densité opique.
+
+(1:45:06 - 1:45:29)
+Normalement, lorsqu'on parle de tests d'ELISA, il en existe 4 types, mais on va s'arrêter sur l'essentiel. Si on veut chercher des antigènes, tout à l'heure on a dit que le patient s'est exposé, on veut accélérer le processus de dépistage, on peut utiliser des antigènes, détecter les antigènes. Le principe d'ELISA-DIREX permet justement de chercher les antigènes.
+
+(1:45:29 - 1:45:52)
+On dépose le sérum du patient et on rajoute un conjugué qui permet justement de se fixer sur les antigènes spécifiques. Et on va faire la même façon, le lavage, etc. Le principe d'ELISA-DIREX, tout à l'heure, on a besoin de chercher les anticorps, il y a déjà des antigènes fixés sur le support, le sérum est là, et puis le conjugué.
+
+(1:45:52 - 1:46:11)
+Le reste, on ne va pas vous casser la tête, sandwich, etc. On a un anticorps fixé sur le support, initialement, on dépose un sérum qui contient soit des antigènes ou même des anticorps qui sont accrochés dans le cadre d'un sandwich par des anticorps de type conjugué, etc. Ou la compétition, c'est un détail.
+
+(1:46:12 - 1:46:49)
+En tout cas, pour vous, l'ELISA-DIREX, l'ELISA-DIREX, pour rester dans la problématique de notre cas tout à l'heure. L'ELISA étant une technique très très sensible, c'est pourquoi tout à l'heure on a dit qu'ils vont mieux compléter par l'ELISA pour ne pas rater la chance, la possibilité d'avoir une infection VIH ou autre aussi. Malheureusement, lorsqu'on est très sensible, une technique peut manquer de spécificité parce qu'il peut dépister n'importe quoi, des réactions croisées, avec d'autres choses qui ne sont pas forcément liées à l'infection VIH ou autre.
+
+(1:46:50 - 1:47:13)
+Donc il faut passer par un test de confirmation pour ne pas prendre le risque d'erreur. Il faut compléter par un test de confirmation, si valable pour le VIH, si valable pour les tests de l'hépatite C. On a besoin parfois d'utiliser des tests de biologie moléculaire, etc. Voilà un petit peu l'ELISA pour que vous vous rappelez de l'essentiel.
+
+(1:47:14 - 1:47:44)
+Alors le test de confirmation de l'infection VIH ? Pour les tests d'ELISA, dans le cadre du VIH, si on fait un test rapide, on a besoin de confirmer, quel que soit le résultat du test rapide, on a besoin de confirmer par l'ELISA. Et puis le résultat de l'ELISA a besoin d'être confirmé par ce qu'on appelle le Western Blot. Donc c'est une méthode immuno-enzymatique comme l'ELISA, mais là le support c'est sur des bandelettes de nitrocellulose.
+
+(1:47:45 - 1:48:03)
+Donc elle nécessite une première étape de migration électrophoretique des composants du VIH. Donc les composants, c'est ce qui est écrit, les GP160, GP120. Et puis par la suite, on va ajouter le sérum du patient et on va ajouter un conjugué.
+
+(1:48:03 - 1:48:34)
+Et le résultat sera sous forme de bandelettes colorées. Donc le résultat qu'on a sur la présentation, c'est qu'on a un patient qui présente une bandelette au niveau des antigènes GP160, GP120 et au niveau de la bandelette P24. Donc c'est un patient qui est positif parce qu'il a nécessité d'avoir deux antigènes de l'enveloppe et un antigène GAG, donc c'est le P24.
+
+(1:48:36 - 1:49:04)
+Généralement, ça c'est les guidelines, les recommandations de l'OMR, CDSA, ATLAS par exemple. Ils exigent d'avoir au moins les deux bandelettes, une de membrane, une de structure, etc. Évidemment, ça dépend des profils des patients. 
+
+Il y a des patients qui ont positif tous, ils ont tous les anticorps, un ou bien ils ont parmi ces anticorps-là, ils ont certains. Ça veut dire des anticorps antidérigés contre P66, contre P41, etc. Tout dépend un petit peu du profil des patients.
+
+(1:49:04 - 1:49:53)
+En tout cas, le recours à la confirmation est obligatoire pour l'infection VIH. Vous avez compris qu'on croit qu'il faut passer par une étape de confirmation, c'est bon ? Pour récapituler, on revient au cas clinique de totaleur, on va attendre votre réponse pour nous dire ce que vous avez retenu de tout ça. Dites-nous, quelqu'un qui peut récapituler un petit peu l'ensemble des étapes ? On a dit qu'il faut tester la personne source et la personne exposée par un test rapide VIH.
+
+(1:49:54 - 1:50:28)
+Après, bien évidemment, l'étape où on a la désinfection, ça on a bouclé avec. Donc après, c'est le test rapide pour cette source exposée, magnifique. Alors, si on a un test positif chez la personne source, il faut absolument, dans les 6 heures, retenez bien, 6 heures après l'exposition, et après avoir évalué le risque, le risque d'exposition s'avère à travers l'évaluation qu'il est indispensable d'administrer un traitement antirétroviral à la personne exposée.
+
+(1:50:28 - 1:50:48)
+Il faut le faire, à vous, dans un délai de 6 heures. Donc, c'est un traitement qui est administré par, généralement, des médecins référents, soit au niveau du CHU, soit au niveau des autres centres qui prennent en charge le VHAL, les CLC, etc. Et en tout cas, il y a des points où il y a des médecins référents qu'on peut consulter, même 24 sur 24.
+
+(1:50:49 - 1:51:18)
+Le médecin à l'interne de garde, où vous êtes dans n'importe quelle structure, où vous êtes confronté à une situation pareille, il faut avoir les coordonnées d'une personne, d'un spécialiste référent, qui va vous indiquer, parce que c'est lui qui a le traitement, généralement, le traitement antirétroviral n'est disponible que dans certaines structures, donc il y a des médecins responsables. Ils vont évaluer le risque en consultation avec vous, et vous allez administrer le traitement antirétroviral dans les délais qui sont nécessaires. Sinon, c'est trop tard.
+
+(1:51:19 - 1:52:19)
+Alors, même si vous administrez le traitement, le risque est toujours possible, donc il faut compléter par la surveillance, c'est-à-dire par des tests. On a fait le test sérologique, le test rapide, on va le compléter par l'ILISA, la personne exposée, après on va, c'est l'ILISA, généralement, pas avant 7 jours, et puis au bout de 15 jours, 3 semaines, un deuxième test d'ILISA, et puis le dernier va être fait à 2 mois. Ça c'est une chose que vous allez revoir aussi en infectiologie, avec les infectiologues, et donc ils vont vous réexpliquer un petit peu l'ensemble de ces étapes, et il se peut que, par exemple, il y a des choses qui changent, etc., par rapport au délai, mais nous, l'essentiel pour nous, c'est de vous, soi-disant, de vous dire un peu l'essentiel, parce que vous allez entamer vos stages, et vous êtes, comme nous, exposés, et ça peut être le cas aussi lorsqu'on se remet ça, et on viendra vous consulter pour ça.
+
+(1:52:19 - 1:52:40)
+Il faut que vous ayez des éléments de réponse par rapport à l'ensemble de ces étapes que vous devez respecter pour ne pas exposer des personnes. Là, vous les prenez en charge de façon, on va dire, non adaptée. Voilà le message clé qu'on a voulu transmettre à travers cette Zooka Clinique.
+
+(1:52:40 - 1:53:24)
+Maintenant, on va voir s'il n'y a pas des questions relativement à cette Zooka Clinique, ou bien à l'ensemble. Très bien, je vois qu'il y a des gens qui participent très activement. Bravo, c'est bon ? Bien, alors, je rappelle qu'on va devoir imprimer la liste des présents, et la présence au TPTD, on l'a dit que c'est obligatoire, ça veut dire que la note d'évaluation va prendre en considération votre présence.
+
+(1:53:25 - 1:53:42)
+Donc, il y aura l'examen TPTD, et il y aura une autre aussi qui va inclure la présence. On ne va pas vous dire quel est le varème, mais vous le saurez après. D'accord ? Parce que j'ai vu qu'il y a quand même des absents.
+
+(1:53:48 - 1:53:59)
+On est à peu près à 200 personnes, alors qu'on est censé avoir 219, ce qui n'est pas normal. S'il vous plaît, vous restez, parce qu'on va juste imprimer la liste des présents. On va l'enregistrer.
+
+(1:55:35 - 1:55:41)
+C'est bon, merci beaucoup pour votre présence. S'il y a d'autres questions en attendant, avant de vous quitter...

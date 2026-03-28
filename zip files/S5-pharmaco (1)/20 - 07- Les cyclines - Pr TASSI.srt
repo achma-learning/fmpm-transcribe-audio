@@ -1,0 +1,443 @@
+1
+00:00:01,800 --> 00:00:04,840
+Bonjour, l'accord d'aujourd'hui est intitulé
+
+2
+00:00:04,840 --> 00:00:05,660
+lecycline.
+
+3
+00:00:07,760 --> 00:00:10,980
+Les objectifs c'est de pouvoir expliquer le
+
+4
+00:00:10,980 --> 00:00:13,120
+mode d'action, de définir le spectre d
+
+5
+00:00:13,120 --> 00:00:16,140
+'action et les indications, de faire une prescription
+
+6
+00:00:16,140 --> 00:00:18,820
+de lecycline, de chercher les contre-indications et
+
+7
+00:00:18,820 --> 00:00:21,040
+de reconnaître les effets secondaires.
+
+8
+00:00:23,490 --> 00:00:25,830
+Lecycline est une classe d'antibiotiques qui est
+
+9
+00:00:25,830 --> 00:00:27,250
+connue depuis les années 60.
+
+10
+00:00:27,630 --> 00:00:30,150
+Il a largement été utilisé dans les années
+
+11
+00:00:30,150 --> 00:00:32,750
+60-70, ce qui a fait qu'il
+
+12
+00:00:32,750 --> 00:00:35,650
+y a eu une émergence de nombreuses résistances,
+
+13
+00:00:36,050 --> 00:00:38,710
+ce qui a abouti à la restriction de
+
+14
+00:00:38,710 --> 00:00:41,470
+leurs indications et aussi le fait qu'ils
+
+15
+00:00:41,470 --> 00:00:44,010
+sont peu testés sur les galeries d'antibiotiques.
+
+16
+00:00:45,350 --> 00:00:48,030
+Trois générations de lecycline existent.
+
+17
+00:00:48,610 --> 00:00:53,910
+Les premiers lecycline sont la tetracycline, l'oxytetracycline
+
+18
+00:00:53,910 --> 00:00:56,290
+utilisée en années 50.
+
+19
+00:00:56,890 --> 00:01:02,550
+La deuxième génération qui regroupe la plupart des
+
+20
+00:01:02,550 --> 00:01:03,010
+lecycline.
+
+21
+00:01:04,010 --> 00:01:07,950
+Et la troisième génération qu'on appelle glycycline
+
+22
+00:01:07,950 --> 00:01:13,110
+dans la tigrycycline commercialisée sur le nom de
+
+23
+00:01:13,110 --> 00:01:14,090
+tigacyl.
+
+24
+00:01:17,140 --> 00:01:21,000
+Lecycline sont des antibiotiques bactériostatiques.
+
+25
+00:01:21,600 --> 00:01:23,780
+Ils agissent par l'inhibition de la synthèse
+
+26
+00:01:23,780 --> 00:01:27,200
+protéique en interagissant avec la sous-unité 30S
+
+27
+00:01:27,200 --> 00:01:28,020
+du ribosome.
+
+28
+00:01:28,800 --> 00:01:31,220
+Ainsi, ils déforment le site A du ribosome
+
+29
+00:01:31,220 --> 00:01:34,820
+et empêchent l'alignement de l'ARNT avec
+
+30
+00:01:34,820 --> 00:01:37,780
+le cordon correspondant de l'ARN messager.
+
+31
+00:01:40,690 --> 00:01:43,650
+Vous voyez ici le mode d'action des
+
+32
+00:01:43,650 --> 00:01:44,090
+lecycline.
+
+33
+00:01:44,570 --> 00:01:47,250
+On a la rupture de l'interaction codon
+
+34
+00:01:47,250 --> 00:01:50,070
+-anticodon entre l'ARNT et l'ARN messager.
+
+35
+00:01:52,790 --> 00:01:56,370
+Différents mécanismes de résistance aux lecycline existent et
+
+36
+00:01:56,370 --> 00:01:57,750
+peuvent même se cumuler.
+
+37
+00:01:58,190 --> 00:02:00,230
+On a la protection du ribosome, qui est
+
+38
+00:02:00,230 --> 00:02:02,570
+le site d'action des lecycline, les flux
+
+39
+00:02:02,570 --> 00:02:05,250
+et même la modification enzymatique.
+
+40
+00:02:07,389 --> 00:02:09,530
+Comme on a dit au début du cours,
+
+41
+00:02:09,710 --> 00:02:13,450
+les lecycline sont des antibiotiques bactériostatiques.
+
+42
+00:02:13,970 --> 00:02:15,930
+Ils ont un large spectre d'action, une
+
+43
+00:02:15,930 --> 00:02:19,070
+excellente absorption intestinale, mais qui peut être diminuée
+
+44
+00:02:19,070 --> 00:02:21,870
+par les antiacides et le calcium, ce qui
+
+45
+00:02:21,870 --> 00:02:24,010
+fait qu'il ne faut pas les administrer
+
+46
+00:02:24,010 --> 00:02:26,990
+simultanément pour avoir une meilleure action des lecycline.
+
+47
+00:02:27,570 --> 00:02:30,210
+Ce sont des antibiotiques qui diffusent bien au
+
+48
+00:02:30,210 --> 00:02:32,870
+niveau intra- et extracellulaire, sauf au niveau
+
+49
+00:02:32,870 --> 00:02:35,530
+du liquide syphalorachidien et des articulations, ce qui
+
+50
+00:02:35,530 --> 00:02:37,970
+fait que ce ne sont pas des antibiotiques
+
+51
+00:02:37,970 --> 00:02:41,430
+à donner en cas d'infection méningée et
+
+52
+00:02:41,430 --> 00:02:42,190
+articulaire.
+
+53
+00:02:42,650 --> 00:02:45,490
+Ils sont peu ou pas métabolisés et ils
+
+54
+00:02:45,490 --> 00:02:48,910
+sont éliminés dans la bile, les fesses et
+
+55
+00:02:48,910 --> 00:02:49,650
+les urines.
+
+56
+00:02:52,720 --> 00:02:57,520
+Les lecycline agissent essentiellement sur les germes intracellulaires,
+
+57
+00:02:57,780 --> 00:03:01,880
+comme le brucilla, chlamydiae, mycoplasme, orioplasme, aussi la
+
+58
+00:03:01,880 --> 00:03:04,340
+rickettia, coccylla burnitii.
+
+59
+00:03:04,340 --> 00:03:07,880
+Ils agissent aussi sur l'heptospéra, sur le
+
+60
+00:03:07,880 --> 00:03:12,040
+fébrillon cholérique, le mycocardia, sur les mycobactéries atypiques,
+
+61
+00:03:12,160 --> 00:03:15,720
+les mycobactéries léprées, le mycobactérium lépré, et sur
+
+62
+00:03:15,720 --> 00:03:17,720
+le plasmodium falciparum.
+
+63
+00:03:19,560 --> 00:03:22,460
+En première intention, les lecycline peuvent être indiqués
+
+64
+00:03:22,460 --> 00:03:24,760
+en traitement de l'acné, de la brucellose,
+
+65
+00:03:25,280 --> 00:03:27,960
+des infections genitales à chlamydiae et orioplasme, de
+
+66
+00:03:27,960 --> 00:03:30,840
+la fièvre Q, de la fièvre botanose méditerranéenne
+
+67
+00:03:30,840 --> 00:03:32,900
+due à la rickettia coulnorée, qui est aussi
+
+68
+00:03:32,900 --> 00:03:36,260
+un germe intracellulaire, et la prophylaxie du paludisme
+
+69
+00:03:36,260 --> 00:03:37,780
+à plasmodium falciparum.
+
+70
+00:03:41,430 --> 00:03:45,210
+Autres indications thérapeutiques de la doxycycline et de
+
+71
+00:03:45,210 --> 00:03:48,650
+la minocycline sont possibles, comme le traitement de
+
+72
+00:03:48,650 --> 00:03:50,850
+la maladie de Lyme en dehors des atteintes
+
+73
+00:03:50,850 --> 00:03:56,750
+neuromélangées, les infections après morsure d'animals, yersenia,
+
+74
+00:03:57,110 --> 00:03:59,500
+l'acné vulgaire, les pneumopathies à germes atypiques,
+
+75
+00:04:00,310 --> 00:04:03,110
+le traitement du paludisme à plasmodium falciparum, et
+
+76
+00:04:03,110 --> 00:04:05,470
+en deuxième intention, pour le traitement de la
+
+77
+00:04:05,470 --> 00:04:07,590
+léptospirose, la syphilis et la lèpre.
+
+78
+00:04:09,270 --> 00:04:12,370
+Comme effet indésirable, on peut citer la dyschromie,
+
+79
+00:04:12,470 --> 00:04:15,130
+qui est une coloration anormale, au fond c
+
+80
+00:04:15,130 --> 00:04:18,390
+'est des dents, une hypoplasie dentaire, et cela
+
+81
+00:04:18,390 --> 00:04:20,350
+survient chez l'enfant de moins de 8
+
+82
+00:04:20,350 --> 00:04:22,290
+ans s'il est traité par l'acycline.
+
+83
+00:04:22,570 --> 00:04:25,030
+On a aussi une photosensibilité, c'est pour
+
+84
+00:04:25,030 --> 00:04:27,030
+ça que les patients traités par l'acycline
+
+85
+00:04:27,030 --> 00:04:31,030
+ne doivent pas s'exposer au soleil, les
+
+86
+00:04:31,030 --> 00:04:33,770
+troubles vestibulaires aiguës, un type de vertige et
+
+87
+00:04:33,770 --> 00:04:36,370
+d'ataxie, et les troubles digestifs, comme les
+
+88
+00:04:36,370 --> 00:04:38,790
+nausées et les vomissements, à cause de la
+
+89
+00:04:38,790 --> 00:04:42,870
+déséquilibre de la flore intestinale, des épigastralgies, et
+
+90
+00:04:42,870 --> 00:04:45,510
+aussi des ulcérations oesophagiennes, c'est pour ça
+
+91
+00:04:45,510 --> 00:04:49,370
+qu'il est conseillé, quand on prend un
+
+92
+00:04:49,370 --> 00:04:51,570
+comprimé d'acycline, de le boire avec une
+
+93
+00:04:51,570 --> 00:04:55,030
+quantité d'eau suffisante, pour éviter à ce
+
+94
+00:04:55,030 --> 00:04:57,050
+qu'il s'élimente au niveau de l
+
+95
+00:04:57,050 --> 00:04:59,810
+'oesophage, et aussi de le prendre loin du
+
+96
+00:04:59,810 --> 00:05:03,390
+moment d'aller dormir, pour qu'il ne
+
+97
+00:05:03,390 --> 00:05:05,210
+se dépose pas sur l'oesophage.
+
+98
+00:05:08,450 --> 00:05:12,630
+Dans ces dépositifs-là, on retrouve la dyschromie
+
+99
+00:05:12,630 --> 00:05:15,670
+due à la prise d'acycline, avec cette
+
+100
+00:05:15,670 --> 00:05:17,770
+coloration brunâtre dedans.
+
+101
+00:05:19,430 --> 00:05:22,410
+Les contre-indications, on a essentiellement l'enfant
+
+102
+00:05:22,410 --> 00:05:24,210
+de moins de 8 ans, en cas de
+
+103
+00:05:24,210 --> 00:05:26,770
+grossesse et d'allaitement, les patients qui s
+
+104
+00:05:26,770 --> 00:05:29,850
+'exposent au soleil, en cas d'insuffisance hépatique
+
+105
+00:05:29,850 --> 00:05:32,550
+et rénale, une allergie connue au d'acycline,
+
+106
+00:05:32,550 --> 00:05:36,230
+il faut prendre les précautions en évitant l
+
+107
+00:05:36,230 --> 00:05:39,710
+'administration concomitante de calcium, d'aluminium, de magnésium
+
+108
+00:05:39,710 --> 00:05:41,990
+et d'antiacide avec l'acycline, vu qu
+
+109
+00:05:41,990 --> 00:05:46,290
+'il diminue leur absorption digestive, de faire des
+
+110
+00:05:46,290 --> 00:05:49,030
+prises orales au cours des repas, et de
+
+111
+00:05:49,030 --> 00:05:50,830
+ne pas s'exposer au soleil.

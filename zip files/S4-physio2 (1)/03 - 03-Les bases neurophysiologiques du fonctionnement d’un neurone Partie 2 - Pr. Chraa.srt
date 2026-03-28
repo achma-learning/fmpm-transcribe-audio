@@ -1,0 +1,3791 @@
+1
+00:00:01,350 --> 00:00:06,510
+Bonjour, on va continuer sur nos cours de
+
+2
+00:00:06,510 --> 00:00:07,290
+neurophysiologie.
+
+3
+00:00:08,350 --> 00:00:12,710
+Aujourd'hui on va finir notre cours sur
+
+4
+00:00:12,710 --> 00:00:16,270
+les bases neurophysiologiques du fonctionnement du neurone.
+
+5
+00:00:17,370 --> 00:00:21,170
+On avait vu la dernière fois comment est
+
+6
+00:00:21,170 --> 00:00:22,950
+-ce que le potentiel d'action est créé,
+
+7
+00:00:23,150 --> 00:00:24,210
+comment il est conduit.
+
+8
+00:00:25,050 --> 00:00:26,850
+Aujourd'hui on va voir comment il est
+
+9
+00:00:26,850 --> 00:00:30,310
+transmis d'un neurone à un autre, ou
+
+10
+00:00:30,310 --> 00:00:35,010
+bien d'un neurone à des fibres musculaires.
+
+11
+00:00:38,000 --> 00:00:40,000
+Donc c'est ce qu'on appelle la
+
+12
+00:00:40,000 --> 00:00:41,560
+neurotransmission synaptique.
+
+13
+00:00:46,220 --> 00:00:49,000
+Je vous rappelle ici le neurone A, le
+
+14
+00:00:49,000 --> 00:00:49,520
+neurone B.
+
+15
+00:00:50,820 --> 00:00:55,020
+Quand le neurone A crée le potentiel d
+
+16
+00:00:55,020 --> 00:00:56,760
+'action au niveau du cône d'implantation, il
+
+17
+00:00:56,760 --> 00:01:00,500
+va le transmettre par les mécanismes de conduction
+
+18
+00:01:00,500 --> 00:01:01,520
+qu'on a vus ensemble.
+
+19
+00:01:02,240 --> 00:01:05,580
+Puis la finalité c'est de transmettre l
+
+20
+00:01:05,580 --> 00:01:06,740
+'information à notre neurone.
+
+21
+00:01:07,380 --> 00:01:09,420
+Si le neurone garde l'information juste pour
+
+22
+00:01:09,420 --> 00:01:11,340
+lui, ce n'est pas intéressant pour le
+
+23
+00:01:11,340 --> 00:01:11,980
+système nerveux.
+
+24
+00:01:12,140 --> 00:01:13,940
+Il faut que l'information passe depuis ce
+
+25
+00:01:13,940 --> 00:01:16,920
+neurone à notre neurone dans le cadre d
+
+26
+00:01:16,920 --> 00:01:21,420
+'un circuit neuronal, ou bien à une fibre
+
+27
+00:01:21,420 --> 00:01:25,160
+musculaire dans la jonction non musculaire pour pouvoir
+
+28
+00:01:25,160 --> 00:01:26,220
+contracter le muscle.
+
+29
+00:01:26,600 --> 00:01:34,780
+Ou bien dans certaines situations c'est entre
+
+30
+00:01:34,780 --> 00:01:37,800
+le neurone et une glande.
+
+31
+00:01:39,400 --> 00:01:43,000
+Donc cette connexion on appelle ça synapse.
+
+32
+00:01:43,740 --> 00:01:45,520
+Et cette synapse peut se faire entre l
+
+33
+00:01:45,520 --> 00:01:47,140
+'axone et les dendrites.
+
+34
+00:01:47,700 --> 00:01:48,780
+C'est le cas le plus fréquent.
+
+35
+00:01:49,720 --> 00:01:52,640
+Ça peut se faire entre l'axone écocellulaire
+
+36
+00:01:52,640 --> 00:01:55,700
+directement, ce qu'on appelle l'axo somatique.
+
+37
+00:01:56,600 --> 00:01:57,540
+C'est l'axo dendritique.
+
+38
+00:01:59,060 --> 00:02:02,680
+Et ça peut être enfin ce forme d
+
+39
+00:02:02,680 --> 00:02:06,580
+'une connexion axo-axonique pour contrôler directement un
+
+40
+00:02:06,580 --> 00:02:06,980
+axone.
+
+41
+00:02:07,740 --> 00:02:09,880
+Donc ce neurone là, il va contrôler cet
+
+42
+00:02:09,880 --> 00:02:13,760
+axone, soit pour potentialiser cet axone ou bien
+
+43
+00:02:13,760 --> 00:02:14,380
+pour l'inhiber.
+
+44
+00:02:16,580 --> 00:02:20,440
+Et sur le schéma à droite, on voit
+
+45
+00:02:20,440 --> 00:02:24,260
+que ces connexions peuvent se faire de différentes
+
+46
+00:02:24,260 --> 00:02:24,660
+façons.
+
+47
+00:02:25,360 --> 00:02:27,020
+D'accord ?
+
+48
+00:02:27,020 --> 00:02:27,900
+Différentes organisations.
+
+49
+00:02:28,880 --> 00:02:32,440
+Une organisation simple, comme vous le voyez ici.
+
+50
+00:02:33,220 --> 00:02:37,380
+Ou bien sur le même élément postsynaptique, on
+
+51
+00:02:37,380 --> 00:02:40,080
+peut avoir deux branchements du même neurone qui
+
+52
+00:02:40,080 --> 00:02:43,200
+vont entrer en synapse avec cet élément.
+
+53
+00:02:44,240 --> 00:02:50,600
+On peut avoir une grande surface du neurone
+
+54
+00:02:50,600 --> 00:02:53,900
+présynaptique qui va englober l'ensemble du corps
+
+55
+00:02:53,900 --> 00:02:55,520
+cellulaire du deuxième neurone.
+
+56
+00:02:56,600 --> 00:02:58,400
+Ça suit notre situation possible.
+
+57
+00:02:59,300 --> 00:03:00,600
+D'accord ?
+
+58
+00:03:00,600 --> 00:03:02,460
+Ou bien plusieurs connexions.
+
+59
+00:03:03,660 --> 00:03:06,280
+L'axone qui peut entrer en connexion avec
+
+60
+00:03:06,280 --> 00:03:09,280
+plusieurs dendrites comme vous pouvez le voir ici.
+
+61
+00:03:10,230 --> 00:03:15,040
+Différentes dispositions, mais la finalité c'est qu
+
+62
+00:03:15,040 --> 00:03:16,360
+'il va y avoir une transmission.
+
+63
+00:03:21,380 --> 00:03:28,060
+Donc la neurotransmission dans le système nerveux se
+
+64
+00:03:28,060 --> 00:03:31,120
+fait grâce à deux mécanismes principaux qui sont
+
+65
+00:03:31,120 --> 00:03:35,120
+la neurotransmission chimique et la neurotransmission électrique.
+
+66
+00:03:35,940 --> 00:03:41,160
+Dans notre système nerveux des humains, la neurotransmission
+
+67
+00:03:41,160 --> 00:03:43,120
+chimique c'est la neurotransmission prédominante.
+
+68
+00:03:44,380 --> 00:03:46,340
+C'est elle qui est la plus répandue.
+
+69
+00:03:47,020 --> 00:03:49,140
+La neurotransmission synaptique, on va la voir plus
+
+70
+00:03:49,140 --> 00:03:50,140
+tard et on va en discuter.
+
+71
+00:03:51,200 --> 00:03:52,980
+Ça veut dire quoi une neurotransmission chimique ?
+
+72
+00:03:52,980 --> 00:03:54,140
+Ça veut dire qu'il y a un
+
+73
+00:03:54,140 --> 00:03:59,500
+contact entre les deux neurones, mais pas de
+
+74
+00:03:59,500 --> 00:04:00,160
+continuité.
+
+75
+00:04:00,160 --> 00:04:02,920
+Donc il doit y avoir un espace, ce
+
+76
+00:04:02,920 --> 00:04:06,340
+qu'on appelle une fonte synaptique, entre les
+
+77
+00:04:06,340 --> 00:04:06,840
+deux neurones.
+
+78
+00:04:13,820 --> 00:04:16,500
+Le fait qu'il n'y a pas
+
+79
+00:04:16,500 --> 00:04:19,940
+de connexion directe entre les deux neurones fait
+
+80
+00:04:19,940 --> 00:04:22,320
+qu'il doit y avoir un agent qui
+
+81
+00:04:22,320 --> 00:04:24,540
+va transmettre l'information depuis le neurone A
+
+82
+00:04:24,540 --> 00:04:25,760
+au neurone B.
+
+83
+00:04:26,380 --> 00:04:27,860
+C'est des molécules chimiques qu'on a
+
+84
+00:04:27,860 --> 00:04:30,740
+découvertes et qu'on appelle les neuromédiateurs ou
+
+85
+00:04:30,740 --> 00:04:31,280
+bien les neurotransmetteurs.
+
+86
+00:04:35,460 --> 00:04:39,600
+Donc là c'est l'exemple, vous le
+
+87
+00:04:39,600 --> 00:04:41,120
+voyez ici, c'est l'exemple d'une
+
+88
+00:04:41,120 --> 00:04:42,500
+synapse chimique.
+
+89
+00:04:43,400 --> 00:04:46,700
+On a fait un agrandissement de cette connexion
+
+90
+00:04:46,700 --> 00:04:48,180
+qu'on a ici entre le neurone A
+
+91
+00:04:48,180 --> 00:04:48,960
+et le neurone B.
+
+92
+00:04:49,700 --> 00:04:53,000
+Et en faisant un agrandissement, on a vu
+
+93
+00:04:53,000 --> 00:04:58,560
+que la synapse comprend un élément présynaptique et
+
+94
+00:04:58,560 --> 00:04:59,540
+un élément postsynaptique.
+
+95
+00:04:59,600 --> 00:05:00,540
+Entre les deux, il y a une fonte
+
+96
+00:05:00,540 --> 00:05:01,180
+synaptique.
+
+97
+00:05:01,180 --> 00:05:04,900
+Et vous voyez que dans l'élément présynaptique,
+
+98
+00:05:05,020 --> 00:05:06,880
+il y a des vesicules comme des saccules
+
+99
+00:05:06,880 --> 00:05:10,760
+qui contiennent les neurotransmetteurs dont on a parlé.
+
+100
+00:05:13,280 --> 00:05:18,220
+Cette neurotransmission chimique, cette synapse chimique, comme vous
+
+101
+00:05:18,220 --> 00:05:21,280
+pouvez le voir, les deux neurones ne sont
+
+102
+00:05:21,280 --> 00:05:23,860
+pas directement en contact.
+
+103
+00:05:24,560 --> 00:05:25,460
+Ils ne se touchent pas.
+
+104
+00:05:26,100 --> 00:05:27,680
+Il y a une fonte qui est certes
+
+105
+00:05:27,680 --> 00:05:29,560
+très petite, mais ça fait qu'il y
+
+106
+00:05:29,560 --> 00:05:30,240
+a un espace.
+
+107
+00:05:30,980 --> 00:05:34,500
+C'est une neurotransmission rapide, mais relativement moins
+
+108
+00:05:34,500 --> 00:05:36,820
+rapide que la neurotransmission électrique.
+
+109
+00:05:42,380 --> 00:05:48,000
+Cette neurotransmission permet donc une transmission juste depuis
+
+110
+00:05:48,000 --> 00:05:50,140
+l'élément présynaptique vers l'élément postsynaptique.
+
+111
+00:05:50,760 --> 00:05:52,900
+Comme on va le voir dans les électriques,
+
+112
+00:05:53,000 --> 00:05:53,520
+ce n'est pas le cas.
+
+113
+00:05:53,800 --> 00:05:57,200
+On peut avoir une transmission bidirectionnelle.
+
+114
+00:06:02,150 --> 00:06:04,450
+On va voir ensemble la physiologie de la
+
+115
+00:06:04,450 --> 00:06:04,890
+synapse.
+
+116
+00:06:05,210 --> 00:06:07,970
+Ce sont des éléments qui sont très importants
+
+117
+00:06:07,970 --> 00:06:08,450
+qu'on va voir.
+
+118
+00:06:08,550 --> 00:06:11,690
+L'objectif est de comprendre comment l'influx
+
+119
+00:06:11,690 --> 00:06:17,670
+nerveux qui vient du neurone A va créer
+
+120
+00:06:17,670 --> 00:06:24,490
+un potentiel électrique dans le neurone 2.
+
+121
+00:06:25,590 --> 00:06:29,670
+Ça, c'est une schématisation d'une synapse
+
+122
+00:06:29,670 --> 00:06:31,970
+qui montre l'élément présynaptique et l'élément
+
+123
+00:06:31,970 --> 00:06:32,750
+postsynaptique.
+
+124
+00:06:33,290 --> 00:06:35,410
+Les éléments les plus importants, c'est l
+
+125
+00:06:35,410 --> 00:06:36,690
+'arrivée du potentiel d'action.
+
+126
+00:06:36,910 --> 00:06:37,970
+C'est ce qu'on appelle dans la
+
+127
+00:06:37,970 --> 00:06:39,470
+transmission électrique l'influx nerveux.
+
+128
+00:06:40,650 --> 00:06:43,130
+Les autres éléments importants, c'est les vésicules
+
+129
+00:06:43,130 --> 00:06:43,590
+synaptiques.
+
+130
+00:06:43,750 --> 00:06:48,710
+C'est des saccules qui contiennent les neurotransmetteurs.
+
+131
+00:06:48,710 --> 00:06:51,050
+Il y a une zone active qui n
+
+132
+00:06:51,050 --> 00:06:52,930
+'est pas bien schématisée là, mais c'est
+
+133
+00:06:52,930 --> 00:06:55,510
+la zone où on va avoir un contact,
+
+134
+00:06:56,110 --> 00:06:59,490
+une fusion entre les saccules, les vésicules et
+
+135
+00:06:59,490 --> 00:07:01,690
+la membrane présynaptique.
+
+136
+00:07:02,630 --> 00:07:05,270
+On doit avoir les neurotransmetteurs aussi qui sont
+
+137
+00:07:05,270 --> 00:07:09,350
+des facteurs déterminants pour la physiologie de la
+
+138
+00:07:09,350 --> 00:07:09,770
+synapse.
+
+139
+00:07:09,770 --> 00:07:12,550
+Il y a la fonte synaptique dans laquelle
+
+140
+00:07:12,550 --> 00:07:16,250
+on va trouver des enzymes qui permettent donc
+
+141
+00:07:16,250 --> 00:07:20,690
+de la dégradation des neurotransmetteurs quand ils vont
+
+142
+00:07:20,690 --> 00:07:23,230
+faire leur fonction.
+
+143
+00:07:24,250 --> 00:07:26,510
+On va avoir aussi, c'est pas schématisé
+
+144
+00:07:26,510 --> 00:07:30,030
+ici, mais les astrocytes dont on a parlé,
+
+145
+00:07:30,310 --> 00:07:32,410
+vous avez compris qu'ils ont un rôle
+
+146
+00:07:32,410 --> 00:07:34,930
+important dans la régulation de la neurotransmission synaptique.
+
+147
+00:07:36,030 --> 00:07:38,330
+Sur l'élément post-synaptique, on a les
+
+148
+00:07:38,330 --> 00:07:41,670
+récepteurs qui sont des éléments importants, donc qui
+
+149
+00:07:41,670 --> 00:07:44,530
+vont recevoir le neurotransmetteur et on va voir
+
+150
+00:07:44,530 --> 00:07:48,650
+quelles conséquences cela aura sur l'élément post
+
+151
+00:07:48,650 --> 00:07:49,250
+-synaptique.
+
+152
+00:07:50,310 --> 00:07:54,810
+Et puis au niveau de l'élément post
+
+153
+00:07:54,810 --> 00:08:00,110
+-synaptique, on va avoir un potentiel post-synaptique
+
+154
+00:08:00,110 --> 00:08:01,710
+qui va se créer, qui va se transformer
+
+155
+00:08:01,710 --> 00:08:04,040
+par la suite en un influx nerveux.
+
+156
+00:08:08,420 --> 00:08:11,100
+Donc on va voir ensemble les étapes de
+
+157
+00:08:11,100 --> 00:08:12,020
+la neurotransmission.
+
+158
+00:08:12,280 --> 00:08:14,380
+En bref, les grandes étapes, c'est l
+
+159
+00:08:14,380 --> 00:08:18,380
+'entrée de calcium, la fusion des vesicules avec
+
+160
+00:08:18,380 --> 00:08:24,320
+la membrane présynaptique, la libération des neurotransmetteurs, l
+
+161
+00:08:24,320 --> 00:08:27,300
+'adhésion aux récepteurs et un certain nombre de
+
+162
+00:08:27,300 --> 00:08:32,320
+conséquences que cela va avoir sur la cellule
+
+163
+00:08:32,320 --> 00:08:33,220
+post-synaptique.
+
+164
+00:08:33,220 --> 00:08:36,720
+Exemple ici, c'est un exemple de récepteur
+
+165
+00:08:36,720 --> 00:08:38,539
+qu'on va agrandir et en fait c
+
+166
+00:08:38,539 --> 00:08:39,740
+'est un récepteur canal.
+
+167
+00:08:40,100 --> 00:08:43,620
+Une fois que le neurotransmetteur va s'attacher
+
+168
+00:08:43,620 --> 00:08:46,800
+au récepteur, le récepteur qui est au repos
+
+169
+00:08:46,800 --> 00:08:49,880
+est comme ça, c'est-à-dire que
+
+170
+00:08:49,880 --> 00:08:52,240
+c'est un canal fermé au repos.
+
+171
+00:08:52,240 --> 00:08:53,600
+Mais une fois qu'il y a une
+
+172
+00:08:53,600 --> 00:08:57,900
+fusion avec le neurotransmetteur, ça change la conformation
+
+173
+00:08:57,900 --> 00:09:03,340
+tridimensionnelle du récepteur qui va devenir ouvert et
+
+174
+00:09:03,340 --> 00:09:06,180
+laisser entrer des ions, comme le Na+,
+
+175
+00:09:06,180 --> 00:09:08,400
+K+, Ca++, etc.
+
+176
+00:09:09,700 --> 00:09:11,860
+Donc l'objectif par la suite c'est
+
+177
+00:09:11,860 --> 00:09:15,780
+de comprendre comment est-ce que ces différentes
+
+178
+00:09:15,780 --> 00:09:16,920
+étapes vont se dérouler.
+
+179
+00:09:21,370 --> 00:09:29,010
+Donc on va voir ici sur les différentes
+
+180
+00:09:29,010 --> 00:09:34,030
+diapositives qui vont suivre les différentes étapes essentielles
+
+181
+00:09:34,030 --> 00:09:34,990
+pour ceci.
+
+182
+00:09:36,390 --> 00:09:39,850
+La première étape, c'est l'arrivée du
+
+183
+00:09:39,850 --> 00:09:40,670
+potentiel d'action.
+
+184
+00:09:41,810 --> 00:09:44,310
+L'arrivée du potentiel d'action au niveau
+
+185
+00:09:44,310 --> 00:09:48,650
+du breton synaptique fait que les canaux Ca++
+
+186
+00:09:48,650 --> 00:09:50,510
+qui étaient fermés vont s'ouvrir.
+
+187
+00:09:52,790 --> 00:09:56,050
+Je vous rappelle que le Ca++ est concentré
+
+188
+00:09:56,050 --> 00:09:59,390
+au milieu extérieur plus qu'au milieu intérieur.
+
+189
+00:09:59,910 --> 00:10:02,710
+Je vous renvoie vers le cours précédent.
+
+190
+00:10:02,710 --> 00:10:05,350
+De ce fait, une fois que les canaux
+
+191
+00:10:05,350 --> 00:10:12,090
+Ca++ sont ouverts par des gradients de concentration,
+
+192
+00:10:12,930 --> 00:10:17,410
+surtout de concentration et aussi des gradients électriques,
+
+193
+00:10:17,530 --> 00:10:19,370
+mais surtout de concentration, il va y avoir
+
+194
+00:10:19,370 --> 00:10:20,870
+une entrée massive de Ca++.
+
+195
+00:10:21,690 --> 00:10:25,850
+Cette entrée massive de Ca++ va faire que
+
+196
+00:10:25,850 --> 00:10:32,010
+les vésicules vont fusionner avec la membrane présynaptique.
+
+197
+00:10:35,910 --> 00:10:39,550
+La fusion des vésicules avec la membrane présynaptique
+
+198
+00:10:39,550 --> 00:10:40,970
+va faire qu'il y aura une libération
+
+199
+00:10:40,970 --> 00:10:45,670
+des neurotransmetteurs.
+
+200
+00:10:46,990 --> 00:10:49,190
+On va voir ensemble par la suite pourquoi
+
+201
+00:10:49,190 --> 00:10:51,670
+l'entrée de Ca++ est déterminante.
+
+202
+00:10:51,810 --> 00:10:53,730
+C'est une condition obligatoire pour la fusion
+
+203
+00:10:53,730 --> 00:10:57,350
+des vésicules avec les membranes présynaptiques.
+
+204
+00:10:58,850 --> 00:11:00,610
+En fait, quand il y aura la fusion,
+
+205
+00:11:01,030 --> 00:11:03,750
+ces deux membranes vont fusionner et il va
+
+206
+00:11:03,750 --> 00:11:08,790
+y avoir une disparition de la partie centrale,
+
+207
+00:11:08,870 --> 00:11:11,030
+comme vous le voyez ici, et une continuité
+
+208
+00:11:11,030 --> 00:11:15,270
+entre cette membrane et la membrane des vésicules.
+
+209
+00:11:15,270 --> 00:11:18,090
+Ce qui fait que le contenu des vésicules
+
+210
+00:11:18,090 --> 00:11:19,870
+sera libéré dans la fonte synaptique.
+
+211
+00:11:25,000 --> 00:11:27,580
+Une fois que le neurotransmetteur diffuse dans la
+
+212
+00:11:27,580 --> 00:11:30,100
+fonte synaptique, il va donc activer les récepteurs
+
+213
+00:11:30,100 --> 00:11:30,960
+postsynaptiques.
+
+214
+00:11:35,400 --> 00:11:39,840
+Quand le récepteur est activé par le neurotransmetteur,
+
+215
+00:11:40,360 --> 00:11:41,660
+comme on a dit, il va y avoir
+
+216
+00:11:41,660 --> 00:11:44,560
+par exemple ici dans l'exemple du récepteur
+
+217
+00:11:44,560 --> 00:11:48,200
+canal, l'ouverture de ce récepteur canal et
+
+218
+00:11:48,200 --> 00:11:51,500
+l'entrée de Ca++, Na++, K++, etc.
+
+219
+00:11:52,220 --> 00:11:54,440
+CL-, la sortie de CL-, l
+
+220
+00:11:54,440 --> 00:11:55,740
+'entrée de CL-, etc.
+
+221
+00:11:56,460 --> 00:11:59,620
+Donc différentes possibilités qui vont donner lieu à
+
+222
+00:11:59,620 --> 00:12:00,660
+différentes conséquences.
+
+223
+00:12:04,130 --> 00:12:08,920
+En fait, le récepteur, c'est un récepteur
+
+224
+00:12:08,920 --> 00:12:12,540
+qui peut être un récepteur canal ou bien
+
+225
+00:12:12,540 --> 00:12:15,260
+un récepteur couplé à une protéine qu'on
+
+226
+00:12:15,260 --> 00:12:17,580
+appelle un récepteur métabotrope.
+
+227
+00:12:18,340 --> 00:12:21,380
+Il est souvent lié à une protéine ubiquitaire
+
+228
+00:12:21,380 --> 00:12:26,700
+qu'on appelle la protéine G et cette
+
+229
+00:12:26,700 --> 00:12:28,660
+protéine G est la capitale.
+
+230
+00:12:29,520 --> 00:12:31,560
+On va la voir plus en détail par
+
+231
+00:12:31,560 --> 00:12:31,960
+la suite.
+
+232
+00:12:33,960 --> 00:12:37,020
+Concernant les récepteurs canaux, comme j'ai dit,
+
+233
+00:12:37,380 --> 00:12:41,080
+ça dépend de la nature des récepteurs.
+
+234
+00:12:41,160 --> 00:12:43,120
+Ça peut être des récepteurs canaux qui laissent
+
+235
+00:12:43,120 --> 00:12:44,820
+entrer Na+.
+
+236
+00:12:44,820 --> 00:12:49,000
+Donc dans ce cas, ça va dépolariser la
+
+237
+00:12:49,000 --> 00:12:49,460
+cellule.
+
+238
+00:12:49,940 --> 00:12:53,220
+Ça peut être des canaux qui laissent sortir
+
+239
+00:12:53,220 --> 00:12:54,400
+K+.
+
+240
+00:12:54,400 --> 00:12:57,060
+Ça c'est hyperpolarisant.
+
+241
+00:12:57,620 --> 00:12:59,880
+Ça peut être des canaux qui laissent entrer
+
+242
+00:12:59,880 --> 00:13:01,700
+CL- qui est plus concentré à l
+
+243
+00:13:01,700 --> 00:13:02,100
+'extérieur.
+
+244
+00:13:02,440 --> 00:13:03,920
+Donc ça va être hyperpolarisant.
+
+245
+00:13:04,260 --> 00:13:07,300
+Ça va ramener des ions négatifs et donc
+
+246
+00:13:07,300 --> 00:13:12,520
+dans ce cas, ça va rendre la cellule
+
+247
+00:13:12,520 --> 00:13:15,480
+encore plus hyperpolarisée.
+
+248
+00:13:16,840 --> 00:13:19,240
+C'est ce qu'on appelle l'hyperpolarisation.
+
+249
+00:13:25,030 --> 00:13:29,910
+Donc si c'est un récepteur qui laisse
+
+250
+00:13:29,910 --> 00:13:31,950
+entrer Na+, par exemple, c'est ce
+
+251
+00:13:31,950 --> 00:13:35,530
+qu'on appelle une neurotransmission excitatrice et un
+
+252
+00:13:35,530 --> 00:13:36,970
+neuromédiateur excitateur.
+
+253
+00:13:37,730 --> 00:13:43,430
+Par exemple, l'archétype est le glutamate.
+
+254
+00:13:43,770 --> 00:13:46,250
+Le glutamate, quand il va s'attacher à
+
+255
+00:13:46,250 --> 00:13:48,990
+son récepteur, par exemple le récepteur AMPA, ça
+
+256
+00:13:48,990 --> 00:13:51,370
+va être associé à l'ouverture de ce
+
+257
+00:13:51,370 --> 00:13:53,590
+récepteur canal et à l'entrée de Na+.
+
+258
+00:13:53,590 --> 00:13:55,950
+Na+, ramène avec lui des charges positives,
+
+259
+00:13:56,130 --> 00:13:57,690
+donc ça va dépolariser la cellule.
+
+260
+00:13:58,030 --> 00:13:59,550
+En fait, ça ne la dépolarise pas complètement,
+
+261
+00:14:00,110 --> 00:14:02,450
+mais ça la rend un peu moins négative
+
+262
+00:14:02,450 --> 00:14:03,930
+qu'au repos.
+
+263
+00:14:04,370 --> 00:14:05,670
+C'est ce qu'on appelle un potentiel
+
+264
+00:14:05,670 --> 00:14:07,230
+postsynaptique excitateur.
+
+265
+00:14:07,630 --> 00:14:09,410
+On a vu ça la dernière fois, on
+
+266
+00:14:09,410 --> 00:14:10,630
+le voit plus en détail maintenant.
+
+267
+00:14:12,290 --> 00:14:15,950
+Si le neuromédiateur est inhibiteur, par exemple le
+
+268
+00:14:15,950 --> 00:14:19,210
+GABA, le GABA, quand il va s'attacher
+
+269
+00:14:19,210 --> 00:14:22,090
+à son récepteur, son récepteur est en fait
+
+270
+00:14:22,090 --> 00:14:26,530
+de type récepteur canal spécifique à Cl-.
+
+271
+00:14:26,890 --> 00:14:30,770
+Et quand Cl- entre, suivant son gradient
+
+272
+00:14:30,770 --> 00:14:35,890
+de concentration, et non pas électrique, il va
+
+273
+00:14:35,890 --> 00:14:38,750
+ramener avec lui des charges négatives qui vont
+
+274
+00:14:38,750 --> 00:14:42,430
+rendre la cellule encore plus polarisée.
+
+275
+00:14:42,430 --> 00:14:44,430
+C'est ce qu'on appelle l'hyperpolarisation,
+
+276
+00:14:45,150 --> 00:14:48,050
+et ce potentiel s'appelle un potentiel postsynaptique
+
+277
+00:14:48,050 --> 00:14:49,150
+inhibiteur.
+
+278
+00:14:53,270 --> 00:14:57,070
+On va parler maintenant de l'intégration synaptique.
+
+279
+00:14:58,110 --> 00:15:03,330
+L'intégration synaptique, c'est la somme des
+
+280
+00:15:03,330 --> 00:15:08,810
+différents PPSE, potentiel postsynaptique excitateur, et PPSI, potentiel
+
+281
+00:15:08,810 --> 00:15:13,070
+postsynaptique inhibiteur, la somme de tout ça dans
+
+282
+00:15:13,070 --> 00:15:14,430
+le corps cellulaire.
+
+283
+00:15:14,430 --> 00:15:17,330
+Vous pouvez imaginer que le corps cellulaire reçoit
+
+284
+00:15:17,330 --> 00:15:20,330
+plusieurs dendrites, et chaque dendrite est relié à
+
+285
+00:15:20,330 --> 00:15:23,130
+des cellules, et donc à un système, un
+
+286
+00:15:23,130 --> 00:15:24,590
+circuit neuronal différent.
+
+287
+00:15:25,490 --> 00:15:27,070
+Il y a des cellules qui peuvent être
+
+288
+00:15:27,070 --> 00:15:31,090
+reliées à 2, 3, 4 systèmes neuronaux.
+
+289
+00:15:31,410 --> 00:15:34,070
+Par exemple, elles peuvent être reliées à un
+
+290
+00:15:34,070 --> 00:15:39,090
+système dopaminergique, un système glutamatergique, GABAergique, cholinergique,
+
+291
+00:15:39,470 --> 00:15:40,570
+sérotoninergique, etc.
+
+292
+00:15:40,570 --> 00:15:44,450
+Et chaque type de neurotransmission ramène avec elle
+
+293
+00:15:44,450 --> 00:15:47,370
+soit des PPSE, soit des PPSI.
+
+294
+00:15:47,750 --> 00:15:50,490
+Le rôle du corps cellulaire, c'est de
+
+295
+00:15:50,490 --> 00:15:51,970
+faire la somme de tout ça, la somme
+
+296
+00:15:51,970 --> 00:15:54,010
+temporelle et spatiale.
+
+297
+00:15:54,010 --> 00:15:56,850
+Ce qui va aboutir soit à la fin
+
+298
+00:15:56,850 --> 00:15:58,890
+à un potentiel positif ou pas.
+
+299
+00:15:59,110 --> 00:15:59,790
+On va voir ça.
+
+300
+00:16:02,320 --> 00:16:05,840
+On a donné ici deux exemples, donc trois
+
+301
+00:16:05,840 --> 00:16:06,280
+exemples.
+
+302
+00:16:07,120 --> 00:16:11,660
+Le neurone postsynaptique est relié à trois neurones
+
+303
+00:16:11,660 --> 00:16:12,280
+A, B et C.
+
+304
+00:16:13,160 --> 00:16:15,960
+A et B sont excitateurs, alors que A
+
+305
+00:16:15,960 --> 00:16:19,200
+et C sont excitateurs, alors que B est
+
+306
+00:16:19,200 --> 00:16:19,880
+inhibiteur.
+
+307
+00:16:20,560 --> 00:16:25,400
+Donc quand on va avoir une situation où
+
+308
+00:16:25,400 --> 00:16:27,680
+A et C sont ceux qui vont être
+
+309
+00:16:27,680 --> 00:16:30,140
+activés, dans le corps cellulaire, ça va donner
+
+310
+00:16:30,140 --> 00:16:34,260
+un potentiel postsynaptique excitateur d'une grande taille
+
+311
+00:16:34,260 --> 00:16:36,160
+par rapport à A seul ou bien C
+
+312
+00:16:36,160 --> 00:16:36,540
+seul.
+
+313
+00:16:37,000 --> 00:16:38,860
+Peut-être que ce A et C, en
+
+314
+00:16:38,860 --> 00:16:40,980
+se réunissant, ça va atteindre le seuil de
+
+315
+00:16:40,980 --> 00:16:43,380
+dépolarisation dont on a parlé la dernière fois,
+
+316
+00:16:43,980 --> 00:16:46,400
+alors que A seul était insuffisant ou bien
+
+317
+00:16:46,400 --> 00:16:47,500
+C seul était insuffisant.
+
+318
+00:16:48,440 --> 00:16:52,280
+Bien peut-être A était suffisant, mais C
+
+319
+00:16:52,280 --> 00:16:53,240
+seul ne l'est pas.
+
+320
+00:16:53,240 --> 00:16:56,300
+Mais supposons que le seuil c'était là,
+
+321
+00:16:56,680 --> 00:16:58,940
+à ce niveau, ni A, ni C n
+
+322
+00:16:58,940 --> 00:16:59,400
+'y arrivent.
+
+323
+00:16:59,700 --> 00:17:02,840
+Mais en faisant la somme de A et
+
+324
+00:17:02,840 --> 00:17:05,339
+C, on arrive au potentiel seuil et on
+
+325
+00:17:05,339 --> 00:17:06,839
+a une dépolarisation.
+
+326
+00:17:07,359 --> 00:17:09,060
+Si on n'arrive pas au potentiel seuil,
+
+327
+00:17:09,500 --> 00:17:11,240
+on ne va pas avoir de création d
+
+328
+00:17:11,240 --> 00:17:12,300
+'un flux nerveux à ce niveau.
+
+329
+00:17:13,040 --> 00:17:14,700
+Et donc il n'y a pas d
+
+330
+00:17:14,700 --> 00:17:15,880
+'information qui est transmise.
+
+331
+00:17:16,040 --> 00:17:16,640
+Et s'il n'y a pas d
+
+332
+00:17:16,640 --> 00:17:18,060
+'information qui est transmise, on n'a pas
+
+333
+00:17:18,060 --> 00:17:19,280
+de signal, on n'a rien.
+
+334
+00:17:19,900 --> 00:17:21,960
+Par contre, si on stimule A et B
+
+335
+00:17:21,960 --> 00:17:25,000
+en même temps, peut-être que A était
+
+336
+00:17:25,000 --> 00:17:27,319
+capable de créer un potentiel parce que ça
+
+337
+00:17:27,319 --> 00:17:30,020
+atteint le seuil, mais en y rajoutant B,
+
+338
+00:17:30,480 --> 00:17:35,320
+ça donne un potentiel synaptique qui est certes
+
+339
+00:17:35,320 --> 00:17:38,020
+excitateur, mais qui est un peu loin du
+
+340
+00:17:38,020 --> 00:17:40,060
+seuil de dépolarisation.
+
+341
+00:17:40,500 --> 00:17:42,400
+Ce qui fait que A et B sont
+
+342
+00:17:42,400 --> 00:17:45,080
+incapables de donner un potentiel.
+
+343
+00:17:45,080 --> 00:17:47,020
+Ça aussi ça peut être une information.
+
+344
+00:17:47,500 --> 00:17:50,560
+Le fait d'empêcher A de fonctionner.
+
+345
+00:17:51,040 --> 00:17:52,620
+Je vous donne l'exemple de la douleur.
+
+346
+00:17:52,740 --> 00:17:56,100
+On peut avoir deux neurones, un qui transmet
+
+347
+00:17:56,100 --> 00:17:58,480
+la douleur, l'autre qui essaie de diminuer
+
+348
+00:17:58,480 --> 00:17:59,000
+la douleur.
+
+349
+00:17:59,440 --> 00:18:01,660
+Et si A et B fonctionnent tous les
+
+350
+00:18:01,660 --> 00:18:03,540
+deux, on ne va pas avoir de douleur
+
+351
+00:18:03,540 --> 00:18:04,720
+qui va être transmise.
+
+352
+00:18:05,040 --> 00:18:06,680
+Par contre A seul, on va avoir de
+
+353
+00:18:06,680 --> 00:18:07,020
+douleur.
+
+354
+00:18:07,160 --> 00:18:09,780
+Donc si on détruit B et on laisse
+
+355
+00:18:09,780 --> 00:18:11,400
+A fonctionner seul, ça va donner de la
+
+356
+00:18:11,400 --> 00:18:11,700
+douleur.
+
+357
+00:18:11,700 --> 00:18:12,940
+Ça c'est un exemple qu'on va
+
+358
+00:18:12,940 --> 00:18:15,640
+voir plus en détail par la suite dans
+
+359
+00:18:15,640 --> 00:18:17,100
+un prochain cours.
+
+360
+00:18:18,900 --> 00:18:21,120
+Si A, B et C fonctionnent, ça va
+
+361
+00:18:21,120 --> 00:18:23,140
+donner un potentiel qui est comme ça, moins
+
+362
+00:18:23,140 --> 00:18:25,500
+grand que celui-là, plus grand que celui
+
+363
+00:18:25,500 --> 00:18:25,660
+-là.
+
+364
+00:18:25,760 --> 00:18:27,020
+Peut-être que ça va atteindre ou pas
+
+365
+00:18:27,020 --> 00:18:27,580
+le seuil.
+
+366
+00:18:28,640 --> 00:18:31,060
+Donc ça dépend des cas, ça dépend de
+
+367
+00:18:31,060 --> 00:18:34,560
+l'amplitude de ce PSE.
+
+368
+00:18:35,300 --> 00:18:36,300
+Est-ce que c'est une amplitude qui
+
+369
+00:18:36,300 --> 00:18:38,140
+atteint le seuil ou pas, ce qui va
+
+370
+00:18:38,140 --> 00:18:40,140
+ou pas aboutir à un potentiel d'action.
+
+371
+00:18:40,840 --> 00:18:42,840
+L'essentiel c'est que tout ça se
+
+372
+00:18:42,840 --> 00:18:44,500
+fait dans le corps cellulaire.
+
+373
+00:18:44,640 --> 00:18:46,900
+C'est le corps cellulaire qui va faire
+
+374
+00:18:46,900 --> 00:18:51,980
+la somme de tous les potentiels qui émanent
+
+375
+00:18:51,980 --> 00:18:54,900
+de tous les neurones qui sont connectés à
+
+376
+00:18:54,900 --> 00:18:55,360
+ce neurone.
+
+377
+00:18:56,340 --> 00:18:59,980
+Et je rappelle que les dendrites et les
+
+378
+00:18:59,980 --> 00:19:01,740
+corps cellulaires ne sont pas capables de créer
+
+379
+00:19:01,740 --> 00:19:03,560
+un potentiel d'action parce qu'il n
+
+380
+00:19:03,560 --> 00:19:05,040
+'y a pas assez de CA de plus,
+
+381
+00:19:05,320 --> 00:19:07,640
+de canaux NA+, pardon.
+
+382
+00:19:08,460 --> 00:19:11,140
+Et donc la création du potentiel d'action
+
+383
+00:19:11,140 --> 00:19:12,820
+se fait dans le cône d'implantation.
+
+384
+00:19:17,650 --> 00:19:19,390
+Maintenant pour les synapses électriques.
+
+385
+00:19:21,680 --> 00:19:27,140
+Les synapses électriques, vous voyez que c'est
+
+386
+00:19:27,140 --> 00:19:31,140
+des connexions comme des gaps junction.
+
+387
+00:19:31,820 --> 00:19:33,700
+C'est des connexions étroites.
+
+388
+00:19:35,060 --> 00:19:39,580
+Et les membranes des deux neurones deviennent très
+
+389
+00:19:39,580 --> 00:19:43,440
+très rapprochées de telle façon que les protéines
+
+390
+00:19:43,440 --> 00:19:47,700
+transmembranaires, on va agrandir cette image, on voit
+
+391
+00:19:47,700 --> 00:19:49,260
+que là c'est la membrane pré et
+
+392
+00:19:49,260 --> 00:19:52,260
+la membrane postsynaptique et là c'est la
+
+393
+00:19:52,260 --> 00:19:56,080
+protéine transmembranaire de la membrane présynaptique et ça
+
+394
+00:19:56,080 --> 00:19:59,800
+c'est la protéine transmembranaire de l'autre
+
+395
+00:19:59,800 --> 00:20:02,080
+cellule.
+
+396
+00:20:02,620 --> 00:20:07,460
+Ces deux protéines vont s'adhérer et vont
+
+397
+00:20:07,460 --> 00:20:10,660
+devenir un seul continuum qui va créer un
+
+398
+00:20:10,660 --> 00:20:15,460
+tunnel qui connecte les deux cytosoles, le cytosole
+
+399
+00:20:15,460 --> 00:20:17,940
+de la cellule A et de la cellule
+
+400
+00:20:17,940 --> 00:20:18,160
+B.
+
+401
+00:20:18,540 --> 00:20:21,300
+Ce qui fait que tout changement électrique à
+
+402
+00:20:21,300 --> 00:20:23,580
+ce niveau est ressenti à ce niveau et
+
+403
+00:20:23,580 --> 00:20:25,680
+vice versa, tout changement à ce niveau est
+
+404
+00:20:25,680 --> 00:20:26,620
+ressenti à ce niveau.
+
+405
+00:20:26,760 --> 00:20:30,020
+Donc il y a une connexion électrique et
+
+406
+00:20:30,020 --> 00:20:31,980
+une transmission bilatérale.
+
+407
+00:20:32,360 --> 00:20:35,920
+C'est plus rapide que la transmission chimique
+
+408
+00:20:35,920 --> 00:20:39,280
+parce qu'il n'y a pas de
+
+409
+00:20:39,280 --> 00:20:42,780
+visicules synaptiques, il n'y a pas de
+
+410
+00:20:42,780 --> 00:20:44,880
+neurotransmetteurs, il n'y a pas de récepteurs.
+
+411
+00:20:45,020 --> 00:20:46,980
+Donc tout ça, ça prend du temps alors
+
+412
+00:20:46,980 --> 00:20:49,080
+que là c'est très rapide, c'est
+
+413
+00:20:49,080 --> 00:20:51,540
+les changements électriques, c'est des ions qui
+
+414
+00:20:51,540 --> 00:20:51,780
+vont.
+
+415
+00:20:52,440 --> 00:20:55,560
+S'il y a ici de la positivité,
+
+416
+00:20:56,040 --> 00:20:58,800
+en fait la positivité c'est des ions,
+
+417
+00:20:59,020 --> 00:21:01,920
+c'est des électrons, l'électron peut rapidement
+
+418
+00:21:01,920 --> 00:21:04,900
+être attiré par la positivité d'ici et
+
+419
+00:21:04,900 --> 00:21:06,880
+créer de la positivité aussi ici.
+
+420
+00:21:07,360 --> 00:21:09,540
+Cette positivité peut atteindre le seuil et déclencher
+
+421
+00:21:09,540 --> 00:21:11,000
+un potentiel d'action, etc.
+
+422
+00:21:14,960 --> 00:21:18,760
+Maintenant qu'on a fini avec la neurotransmission
+
+423
+00:21:18,760 --> 00:21:24,720
+chimique, donc les différents synapses chimiques électriques, on
+
+424
+00:21:24,720 --> 00:21:26,800
+va passer au neurotransmetteur.
+
+425
+00:21:27,480 --> 00:21:29,500
+Je vous rappelle donc les étapes de la
+
+426
+00:21:29,500 --> 00:21:32,900
+neurotransmission chimique qui est une partie importante de
+
+427
+00:21:32,900 --> 00:21:34,740
+cette première partie qu'on vient de voir.
+
+428
+00:21:36,220 --> 00:21:38,840
+L'arrivée du potentiel d'action déclenche l
+
+429
+00:21:38,840 --> 00:21:41,620
+'ouverture des canaux CA2+, l'entrée des
+
+430
+00:21:41,620 --> 00:21:43,780
+canaux CA2+, va faire que les vésicules
+
+431
+00:21:43,780 --> 00:21:48,360
+peuvent adhérer à la membrane présynaptique.
+
+432
+00:21:48,800 --> 00:21:50,500
+En absence de CA2+, on ne peut
+
+433
+00:21:50,500 --> 00:21:53,460
+pas avoir d'adhésion des vésicules à la
+
+434
+00:21:53,460 --> 00:21:54,560
+membrane présynaptique.
+
+435
+00:21:55,120 --> 00:21:55,620
+Pourquoi ?
+
+436
+00:21:55,620 --> 00:21:58,600
+Pour plus de détails, on peut voir ça
+
+437
+00:21:58,600 --> 00:21:59,300
+plus tard.
+
+438
+00:22:00,200 --> 00:22:01,760
+L'essentiel c'est qu'une fois qu
+
+439
+00:22:01,760 --> 00:22:03,580
+'il y a adhésion entre les vésicules et
+
+440
+00:22:03,580 --> 00:22:09,160
+les membranes présynaptiques, il va y avoir une
+
+441
+00:22:09,160 --> 00:22:18,220
+exocytose des neurotransmetteurs, lesquels vont rejoindre la fonte
+
+442
+00:22:18,220 --> 00:22:22,260
+synaptique et se connecter aux récepteurs postsynaptiques.
+
+443
+00:22:22,900 --> 00:22:26,060
+Une fois que les récepteurs postsynaptiques sont activés,
+
+444
+00:22:26,060 --> 00:22:30,900
+ça va déclencher soit une ouverture des canaux,
+
+445
+00:22:31,540 --> 00:22:34,820
+s'ils sont des récepteurs canaux, soit une
+
+446
+00:22:34,820 --> 00:22:37,020
+activation de la protéine G, qui est une
+
+447
+00:22:37,020 --> 00:22:40,000
+protéine ubiquitaire, je pense que vous l'avez
+
+448
+00:22:40,000 --> 00:22:40,540
+déjà vue.
+
+449
+00:22:41,320 --> 00:22:45,080
+Sinon, on va la voir dans une diapositive
+
+450
+00:22:45,080 --> 00:22:45,720
+ultérieure.
+
+451
+00:22:47,000 --> 00:22:50,360
+Alors maintenant, on commence les neurotransmetteurs.
+
+452
+00:22:51,580 --> 00:22:54,220
+Il y a plus de 100 substances qui
+
+453
+00:22:54,220 --> 00:22:56,440
+sont considérées comme des neurotransmetteurs.
+
+454
+00:22:57,120 --> 00:22:59,640
+On les classifie en trois grandes catégories.
+
+455
+00:23:00,560 --> 00:23:06,140
+Les amines biogènes, comme la dopamine, la succuline,
+
+456
+00:23:06,320 --> 00:23:09,440
+la sérotonine, le glutamate, etc.
+
+457
+00:23:09,800 --> 00:23:11,820
+Pardon, dopamine, etc.
+
+458
+00:23:12,880 --> 00:23:16,180
+Et bien, ou bien les acides aminés, les
+
+459
+00:23:16,180 --> 00:23:18,670
+acides aminés comme le glutamate, le GABA et
+
+460
+00:23:18,670 --> 00:23:21,770
+le glycine, ou bien de grandes molécules, c
+
+461
+00:23:21,770 --> 00:23:25,510
+'est des petites protéines, comme l'endorphine, comme
+
+462
+00:23:25,510 --> 00:23:31,050
+l'enkephaline, comme le CCK, le colistocinine, le
+
+463
+00:23:31,050 --> 00:23:31,410
+VIP.
+
+464
+00:23:31,910 --> 00:23:33,070
+Ce sont des molécules que vous avez vu
+
+465
+00:23:33,070 --> 00:23:35,470
+en physiologie gastrique.
+
+466
+00:23:36,650 --> 00:23:39,550
+Les statines, les somatostatines, etc.
+
+467
+00:23:39,730 --> 00:23:40,890
+Ce sont des molécules que vous avez vu
+
+468
+00:23:40,890 --> 00:23:42,230
+avec le professeur Aubin.
+
+469
+00:23:44,290 --> 00:23:47,250
+L'information importante, c'est que les amines
+
+470
+00:23:47,250 --> 00:23:50,130
+et les acides aminés sont de petites molécules,
+
+471
+00:23:51,530 --> 00:23:54,870
+plus une neurotransmetteur, et donc ils sont synthétisés
+
+472
+00:23:54,870 --> 00:23:57,390
+dans les boutons synaptiques, c'est-à-dire
+
+473
+00:23:57,390 --> 00:24:00,650
+à la terminaison nerveuse, en présence d'enzymes
+
+474
+00:24:00,650 --> 00:24:02,930
+qui, eux, les enzymes viennent du corps cellulaire.
+
+475
+00:24:04,010 --> 00:24:07,530
+Alors que pour les peptides, ils sont synthétisés
+
+476
+00:24:07,530 --> 00:24:09,950
+plutôt dans le corps cellulaire, puis transportés par
+
+477
+00:24:09,950 --> 00:24:13,030
+transport actionnel en térogrades, comme on a vu
+
+478
+00:24:13,030 --> 00:24:15,330
+dans un cours antérieur.
+
+479
+00:24:16,870 --> 00:24:21,650
+Donc une fois que les neurotransmetteurs sont synthétisés
+
+480
+00:24:21,650 --> 00:24:24,310
+dans le corps cellulaire, ou bien dans la
+
+481
+00:24:24,310 --> 00:24:28,730
+terminaison nerveuse, ils vont rejoindre des vesicules, des
+
+482
+00:24:28,730 --> 00:24:30,990
+saccules, qui vont les stocker en attendant leur
+
+483
+00:24:30,990 --> 00:24:31,650
+utilisation.
+
+484
+00:24:35,550 --> 00:24:38,510
+Donc la libération des neurotransmetteurs, c'est ça
+
+485
+00:24:38,510 --> 00:24:40,970
+ce qu'on a dit tout à l
+
+486
+00:24:40,970 --> 00:24:42,390
+'heure, qu'on va détailler un peu plus.
+
+487
+00:24:42,990 --> 00:24:45,290
+Après l'entrée de CA2+, s'il
+
+488
+00:24:45,290 --> 00:24:47,150
+n'y a pas de CA2+, là
+
+489
+00:24:47,150 --> 00:24:49,550
+on a schématisé les CA2+, ici.
+
+490
+00:24:50,550 --> 00:24:51,830
+Tout à l'heure on les a schématisés
+
+491
+00:24:51,830 --> 00:24:52,070
+ici.
+
+492
+00:24:52,310 --> 00:24:53,990
+Dans l'essentiel, il y a beaucoup de
+
+493
+00:24:53,990 --> 00:24:54,790
+canaux CA2+.
+
+494
+00:24:54,790 --> 00:24:58,330
+L'arrivée du potentiel d'action va faire,
+
+495
+00:24:58,570 --> 00:25:00,410
+ou bien de l'influx nerveux, va faire
+
+496
+00:25:00,410 --> 00:25:02,550
+que les canaux CA2++ vont s'ouvrir.
+
+497
+00:25:03,010 --> 00:25:04,850
+Les canaux CA2++, quand ils vont s'ouvrir,
+
+498
+00:25:04,930 --> 00:25:05,970
+on va voir ici ce qu'il se
+
+499
+00:25:05,970 --> 00:25:06,210
+passe.
+
+500
+00:25:06,970 --> 00:25:10,030
+A droite, si vous voyez à droite, là
+
+501
+00:25:10,030 --> 00:25:12,350
+c'est les vesicules et là c'est
+
+502
+00:25:12,350 --> 00:25:13,690
+la membrane présynaptique.
+
+503
+00:25:14,230 --> 00:25:16,590
+Vous voyez que sur la surface des deux,
+
+504
+00:25:16,690 --> 00:25:19,390
+il y a des protéines qu'on appelle
+
+505
+00:25:19,390 --> 00:25:20,650
+vesnars et tesnars.
+
+506
+00:25:20,730 --> 00:25:22,610
+Vesnar pour vesicule et ça c'est pour
+
+507
+00:25:22,610 --> 00:25:23,210
+la transmission.
+
+508
+00:25:24,390 --> 00:25:26,470
+L'essentiel c'est que ces protéines-là
+
+509
+00:25:26,470 --> 00:25:30,730
+ne peuvent pas adhérer l'une à l
+
+510
+00:25:30,730 --> 00:25:32,690
+'autre que s'il y a CA2+.
+
+511
+00:25:33,190 --> 00:25:35,830
+En absence de CA2+, ces protéines-là
+
+512
+00:25:35,830 --> 00:25:39,390
+qui sont comme des clés et serrures qui
+
+513
+00:25:39,390 --> 00:25:42,330
+peuvent donc faire adhérer cette vesicule à cette
+
+514
+00:25:42,330 --> 00:25:45,530
+membrane, en absence de CA2+, ils sont
+
+515
+00:25:45,530 --> 00:25:48,630
+libres les uns des autres.
+
+516
+00:25:48,630 --> 00:25:51,630
+Mais en présence de CA2+, ils vont
+
+517
+00:25:51,630 --> 00:25:52,490
+pouvoir s'adhérer.
+
+518
+00:25:52,850 --> 00:25:55,270
+Une fois qu'ils adhèrent, ils vont fusionner
+
+519
+00:25:55,270 --> 00:25:58,130
+la membrane de la vesicule avec la membrane
+
+520
+00:25:58,130 --> 00:26:03,690
+présynaptique et ainsi permettre l'exocytose des neurotransmetteurs.
+
+521
+00:26:04,890 --> 00:26:06,990
+Ça c'est des notions très importantes qui
+
+522
+00:26:06,990 --> 00:26:09,490
+peuvent avoir des applications cliniques.
+
+523
+00:26:11,430 --> 00:26:14,410
+En empêchant CA2++ d'entrer, on va donc
+
+524
+00:26:14,410 --> 00:26:18,290
+empêcher la fusion et l'adhésion de ces
+
+525
+00:26:18,290 --> 00:26:20,190
+protéines les unes aux autres et donc on
+
+526
+00:26:20,190 --> 00:26:21,750
+va empêcher la neurotransmission.
+
+527
+00:26:22,370 --> 00:26:24,810
+Ça, ça peut être un syndrome qu'on
+
+528
+00:26:24,810 --> 00:26:26,970
+appelle un syndrome myasthénique présynaptique.
+
+529
+00:26:27,170 --> 00:26:28,530
+On va voir ça plus en détail par
+
+530
+00:26:28,530 --> 00:26:28,850
+la suite.
+
+531
+00:26:32,790 --> 00:26:34,770
+Alors concernant les récepteurs, ça c'est un
+
+532
+00:26:34,770 --> 00:26:36,450
+peu plus de détail concernant les récepteurs.
+
+533
+00:26:36,510 --> 00:26:38,230
+On a dit qu'ils peuvent être des
+
+534
+00:26:38,230 --> 00:26:40,770
+récepteurs canaux comme ici, des récepteurs canaux.
+
+535
+00:26:40,770 --> 00:26:41,910
+Donc une fois qu'il y a le
+
+536
+00:26:41,910 --> 00:26:44,330
+neurotransmetteur, ils vont s'ouvrir et laisser entrer
+
+537
+00:26:44,330 --> 00:26:44,930
+CA2+.
+
+538
+00:26:44,930 --> 00:26:47,410
+Là, ils vont laisser entrer CA2-.
+
+539
+00:26:48,010 --> 00:26:50,850
+Là, c'est l'exemple typique d'un
+
+540
+00:26:50,850 --> 00:26:54,960
+neurotransmetteur, d'un récepteur associé au glutamate.
+
+541
+00:26:55,430 --> 00:26:58,210
+Là, c'est peut-être associé au GABA.
+
+542
+00:26:59,230 --> 00:27:01,630
+Et puis là, vous voyez, donc deuxième type
+
+543
+00:27:01,630 --> 00:27:03,070
+de récepteurs, c'est des récepteurs.
+
+544
+00:27:04,430 --> 00:27:06,850
+C'est des récepteurs ici et ici qui
+
+545
+00:27:06,850 --> 00:27:08,490
+sont couplés à une protéine qu'on appelle
+
+546
+00:27:08,490 --> 00:27:12,490
+la protéine G qui adhère à ce récepteur.
+
+547
+00:27:12,590 --> 00:27:14,330
+Une fois que le récepteur est activé par
+
+548
+00:27:14,330 --> 00:27:16,950
+le neurotransmetteur, ça va activer la protéine G.
+
+549
+00:27:17,530 --> 00:27:19,610
+Et la protéine G, quand elle va être
+
+550
+00:27:19,610 --> 00:27:22,790
+activée, peut-être qu'elle va activer un
+
+551
+00:27:22,790 --> 00:27:25,130
+canal ionique pour l'ouvrir et laisser entrer
+
+552
+00:27:25,130 --> 00:27:26,190
+au sorcier des ions.
+
+553
+00:27:27,110 --> 00:27:29,070
+Et on a compris maintenant que l'entrée
+
+554
+00:27:29,070 --> 00:27:31,570
+au sorcier des ions, ça va être associé
+
+555
+00:27:31,570 --> 00:27:34,650
+à une information, soit PPSE, soit PPSI.
+
+556
+00:27:36,370 --> 00:27:38,590
+Deuxième cas de figure, la protéine G, quand
+
+557
+00:27:38,590 --> 00:27:41,270
+elle est activée, ça va activer des enzymes,
+
+558
+00:27:42,190 --> 00:27:44,270
+un certain nombre d'enzymes et cela sera
+
+559
+00:27:44,270 --> 00:27:45,790
+à l'origine de ce qu'on appelle
+
+560
+00:27:45,790 --> 00:27:46,850
+second messager.
+
+561
+00:27:47,110 --> 00:27:49,970
+Ce second messager, ça peut être le calcium
+
+562
+00:27:49,970 --> 00:27:52,230
+lui-même, ça peut être plusieurs autres molécules
+
+563
+00:27:52,230 --> 00:27:55,570
+qui vont donc donner lieu à des changements,
+
+564
+00:27:56,650 --> 00:27:59,030
+peut-être des changements enzymatiques au niveau de
+
+565
+00:27:59,030 --> 00:28:01,430
+la cellule, des changements au niveau de la
+
+566
+00:28:01,430 --> 00:28:06,470
+transcription, de la traduction, même de la transcription
+
+567
+00:28:06,470 --> 00:28:08,070
+génique.
+
+568
+00:28:09,830 --> 00:28:13,070
+Ce modèle de neurotransmetteur, c'est un modèle
+
+569
+00:28:13,070 --> 00:28:16,290
+qui, avec ses récepteurs liés à la protéine
+
+570
+00:28:16,290 --> 00:28:19,650
+G, ça se passe quand on veut avoir
+
+571
+00:28:19,650 --> 00:28:28,130
+une réaction plus grande et plus étalée dans
+
+572
+00:28:28,130 --> 00:28:28,470
+le temps.
+
+573
+00:28:33,170 --> 00:28:36,730
+Une fois que le neurotransmetteur a fait son
+
+574
+00:28:36,730 --> 00:28:39,070
+rôle, a joué son rôle, il va être
+
+575
+00:28:39,070 --> 00:28:43,010
+soit recapturé par l'élément présynaptique ou bien
+
+576
+00:28:43,010 --> 00:28:48,810
+par l'astrocyte ou bien dégradé, dégradé par
+
+577
+00:28:48,810 --> 00:28:50,670
+des enzymes qui sont dans la fente synaptique
+
+578
+00:28:50,670 --> 00:28:53,890
+et repris, les produits de dégradation vont être
+
+579
+00:28:53,890 --> 00:28:59,470
+repris pour recycler et pour reproduire le neurotransmetteur.
+
+580
+00:28:59,470 --> 00:29:01,850
+L'exemple type, c'est l'acétylcholine qui
+
+581
+00:29:01,850 --> 00:29:05,290
+sera divisé en choline et acétyl et on
+
+582
+00:29:05,290 --> 00:29:06,730
+va récupérer la choline.
+
+583
+00:29:06,850 --> 00:29:07,710
+On va voir ça plus tard.
+
+584
+00:29:11,280 --> 00:29:15,280
+Les différents éléments qui sont capitaux pour qu
+
+585
+00:29:15,280 --> 00:29:19,400
+'il y ait une neurotransmission synaptique sont les
+
+586
+00:29:19,400 --> 00:29:21,860
+enzymes qui permettent la synthèse des neurotransmetteurs.
+
+587
+00:29:21,980 --> 00:29:23,940
+On va voir quelques exemples tout de suite.
+
+588
+00:29:24,660 --> 00:29:28,260
+Les transporteurs vésiculaires, on en a parlé dans
+
+589
+00:29:28,260 --> 00:29:29,620
+le transport actionnel.
+
+590
+00:29:30,600 --> 00:29:32,460
+Les transporteurs neuronaux aussi.
+
+591
+00:29:33,180 --> 00:29:35,880
+Les enzymes de dégradation, on en a parlé
+
+592
+00:29:35,880 --> 00:29:37,420
+un peu mais on va voir avec l
+
+593
+00:29:37,420 --> 00:29:38,360
+'exemple de l'acétylcholine.
+
+594
+00:29:38,480 --> 00:29:40,960
+Les récepteurs canaux ou bien des récepteurs couplés
+
+595
+00:29:40,960 --> 00:29:41,600
+à la protéine G.
+
+596
+00:29:41,680 --> 00:29:44,160
+Les protéines G aussi sont vraiment très importantes.
+
+597
+00:29:44,760 --> 00:29:46,000
+Il y a des canaux ioniques couplés aux
+
+598
+00:29:46,000 --> 00:29:47,860
+protéines G et puis il y a une
+
+599
+00:29:47,860 --> 00:29:50,680
+cascade de second messager aussi qui peut être
+
+600
+00:29:50,680 --> 00:29:52,920
+le cas de figure dans certains synapses.
+
+601
+00:29:57,610 --> 00:30:00,810
+On commence par le premier neurotransmetteur qui a
+
+602
+00:30:00,810 --> 00:30:01,470
+été découvert.
+
+603
+00:30:01,470 --> 00:30:04,530
+L'un des neurotransmetteurs les plus importants, c
+
+604
+00:30:04,530 --> 00:30:05,310
+'est l'acétylcholine.
+
+605
+00:30:05,730 --> 00:30:08,150
+L'acétylcholine joue un rôle très important dans
+
+606
+00:30:08,150 --> 00:30:09,410
+le système nerveux périphérique.
+
+607
+00:30:10,490 --> 00:30:13,330
+C'est ce qui va permettre l'activation
+
+608
+00:30:13,330 --> 00:30:13,870
+des muscles.
+
+609
+00:30:14,630 --> 00:30:16,870
+Donc il joue un rôle important dans la
+
+610
+00:30:16,870 --> 00:30:17,550
+motricité.
+
+611
+00:30:18,570 --> 00:30:21,910
+Et pour ce qui est système nerveux central,
+
+612
+00:30:22,430 --> 00:30:24,030
+il joue un rôle important dans tout ce
+
+613
+00:30:24,030 --> 00:30:29,090
+qui est éveil, mémoire, attention, colère, etc.
+
+614
+00:30:30,510 --> 00:30:33,030
+On va voir aussi que l'acétylcholine joue
+
+615
+00:30:33,030 --> 00:30:35,590
+un rôle important dans le système nerveux autonome
+
+616
+00:30:35,590 --> 00:30:38,930
+pour le parasympathique tout au long du système
+
+617
+00:30:38,930 --> 00:30:43,250
+parasympathique et pour l'élément préganglionnaire.
+
+618
+00:30:43,370 --> 00:30:45,670
+On va voir ça dans un cours ultérieur.
+
+619
+00:30:46,570 --> 00:30:48,650
+À droite, vous voyez le métabolisme de l
+
+620
+00:30:48,650 --> 00:30:49,270
+'acétylcholine.
+
+621
+00:30:50,070 --> 00:30:52,290
+Pour produire de l'acétylcholine, on a besoin
+
+622
+00:30:52,290 --> 00:30:54,130
+de l'acétyltransferase.
+
+623
+00:30:54,130 --> 00:30:57,750
+C'est l'enzyme important qui est nécessaire
+
+624
+00:30:57,750 --> 00:31:00,590
+pour faire adhérer l'acétylcholine à l'acétyl
+
+625
+00:31:00,590 --> 00:31:00,850
+-CoA.
+
+626
+00:31:01,510 --> 00:31:03,710
+Une fois qu'on a ça, on va
+
+627
+00:31:03,710 --> 00:31:05,510
+produire l'acétylcholine et on va le stocker
+
+628
+00:31:05,510 --> 00:31:06,350
+dans des vesicules.
+
+629
+00:31:06,770 --> 00:31:09,630
+Une fois produit, il sera dégradé par l
+
+630
+00:31:09,630 --> 00:31:13,330
+'acétylcholine stérase, en acide acétique et en choline.
+
+631
+00:31:13,830 --> 00:31:17,350
+On récupère la choline pour reproduire l'acétylcholine.
+
+632
+00:31:17,350 --> 00:31:23,110
+C'est un cycle important qui implique deux
+
+633
+00:31:23,110 --> 00:31:27,950
+enzymes importantes, l'acétyltransferase et l'acétylcholine stérase,
+
+634
+00:31:28,950 --> 00:31:31,630
+et qui implique aussi le transporteur de la
+
+635
+00:31:31,630 --> 00:31:38,510
+choline par un transport associé au transport de
+
+636
+00:31:38,510 --> 00:31:39,110
+Na+.
+
+637
+00:31:39,110 --> 00:31:41,250
+S'il n'y a pas de transporteur
+
+638
+00:31:41,250 --> 00:31:44,110
+de choline, parce qu'il y a une
+
+639
+00:31:44,110 --> 00:31:47,450
+anomalie enzymatique qui fait que l'enzyme qui
+
+640
+00:31:47,450 --> 00:31:50,050
+transporte la choline est absent, on va avoir
+
+641
+00:31:50,050 --> 00:31:51,750
+des troubles neurologiques très très graves.
+
+642
+00:31:55,360 --> 00:31:57,920
+La dopamine, c'est une autre molécule très
+
+643
+00:31:57,920 --> 00:31:58,480
+importante.
+
+644
+00:31:59,460 --> 00:32:01,600
+Elle joue un rôle important dans la motricité.
+
+645
+00:32:01,740 --> 00:32:03,020
+On va voir ça quand on va voir
+
+646
+00:32:03,020 --> 00:32:04,580
+les noyaux gris centraux et leur rôle dans
+
+647
+00:32:04,580 --> 00:32:05,720
+la motricité.
+
+648
+00:32:06,960 --> 00:32:09,300
+Ils modulent aussi l'humeur.
+
+649
+00:32:11,000 --> 00:32:13,120
+Elles jouent un rôle important dans le renforcement
+
+650
+00:32:13,120 --> 00:32:14,980
+positif, dans la dépendance.
+
+651
+00:32:15,220 --> 00:32:17,680
+Donc c'est une molécule qui est importante
+
+652
+00:32:17,680 --> 00:32:20,060
+pour la dépression et pour les addictions.
+
+653
+00:32:22,490 --> 00:32:25,590
+La dopamine, elle vient de la thyrosine qui
+
+654
+00:32:25,590 --> 00:32:29,090
+va être transformée en DOPA, en L-DOPA
+
+655
+00:32:29,090 --> 00:32:31,370
+par la thyrosine hydroxylase.
+
+656
+00:32:32,250 --> 00:32:33,950
+Une fois que la L-DOPA est produite,
+
+657
+00:32:34,050 --> 00:32:36,670
+elle sera transformée en dopamine par la DOPA
+
+658
+00:32:36,670 --> 00:32:37,690
+décaboxylase.
+
+659
+00:32:38,410 --> 00:32:40,230
+Et on voit bien que la dopamine, c
+
+660
+00:32:40,230 --> 00:32:42,450
+'est le précurseur de la noradrénaline et de
+
+661
+00:32:42,450 --> 00:32:44,950
+l'adrénaline grâce à d'autres enzymes qui
+
+662
+00:32:44,950 --> 00:32:47,170
+sont importantes dans cette chaîne qu'on voit
+
+663
+00:32:47,170 --> 00:32:47,470
+ici.
+
+664
+00:32:51,250 --> 00:32:54,770
+Le GABA, c'est le principal neurotransmetteur-inhibiteur.
+
+665
+00:32:55,210 --> 00:32:57,310
+Il est très très répandu dans le système
+
+666
+00:32:57,310 --> 00:32:57,710
+nerveux.
+
+667
+00:32:58,430 --> 00:33:02,310
+Il régule plusieurs fonctions corticales.
+
+668
+00:33:02,710 --> 00:33:05,130
+C'est le principal neurotransmetteur utilisé par les
+
+669
+00:33:05,130 --> 00:33:09,290
+interneurones-inhibiteurs tout au long du système nerveux.
+
+670
+00:33:09,290 --> 00:33:11,730
+Il joue un rôle aussi dans la régulation
+
+671
+00:33:11,730 --> 00:33:14,770
+de l'anxiété, mais c'est une molécule
+
+672
+00:33:14,770 --> 00:33:16,650
+prépondérante et très importante.
+
+673
+00:33:16,810 --> 00:33:18,490
+Elle vient du glutamate qui est le principal
+
+674
+00:33:18,490 --> 00:33:19,810
+neurotransmetteur excitateur.
+
+675
+00:33:20,750 --> 00:33:25,250
+Grâce au GABA, l'acide glutamique décaboxylase, il
+
+676
+00:33:25,250 --> 00:33:26,670
+transforme le glutamate en GABA.
+
+677
+00:33:29,750 --> 00:33:34,350
+Le glutamate, effectivement, c'est le principal neurotransmetteur
+
+678
+00:33:34,350 --> 00:33:35,010
+excitateur.
+
+679
+00:33:35,670 --> 00:33:37,670
+Il joue un rôle important dans l'apprentissage
+
+680
+00:33:37,670 --> 00:33:38,330
+et la mémoire.
+
+681
+00:33:39,610 --> 00:33:43,930
+Comme on a dit, le glutamate est excitateur.
+
+682
+00:33:44,430 --> 00:33:47,130
+Il va avoir plusieurs types de récepteurs.
+
+683
+00:33:47,230 --> 00:33:49,350
+Il y a des récepteurs canaux.
+
+684
+00:33:49,470 --> 00:33:50,790
+Il y a des récepteurs couplés à la
+
+685
+00:33:50,790 --> 00:33:51,350
+protéine G.
+
+686
+00:33:52,210 --> 00:33:54,310
+Il y a des récepteurs canaux de différents
+
+687
+00:33:54,310 --> 00:33:54,730
+types.
+
+688
+00:33:55,390 --> 00:33:56,550
+Il y a les AMPA, il y a
+
+689
+00:33:56,550 --> 00:34:00,570
+la glycine, il y a les NMDA.
+
+690
+00:34:00,570 --> 00:34:02,370
+Il y a plusieurs types qui jouent un
+
+691
+00:34:02,370 --> 00:34:11,770
+rôle important dans plusieurs fonctions physiologiques importantes comme
+
+692
+00:34:11,770 --> 00:34:16,730
+la plasticité neuronale, l'apprentissage et la mémoire.
+
+693
+00:34:19,420 --> 00:34:20,699
+On va voir ça dans le cours sur
+
+694
+00:34:20,699 --> 00:34:21,239
+la mémoire.
+
+695
+00:34:23,600 --> 00:34:26,040
+La noradrénaline, on a vu qu'elle vient
+
+696
+00:34:26,040 --> 00:34:27,159
+de la dopamine.
+
+697
+00:34:27,840 --> 00:34:31,040
+Grâce à la dopamine bêta-hydroxylase, elle va
+
+698
+00:34:31,040 --> 00:34:33,360
+transformer la dopamine en noradrénaline.
+
+699
+00:34:34,100 --> 00:34:37,940
+La noradrénaline sera aussi transformée en sacosine.
+
+700
+00:34:38,520 --> 00:34:43,920
+L'adrénaline grâce à la phyntolamine N-méthyltransferase.
+
+701
+00:34:44,139 --> 00:34:45,699
+Vous n'êtes pas obligés de connaître ces
+
+702
+00:34:45,699 --> 00:34:46,080
+enzymes.
+
+703
+00:34:46,840 --> 00:34:49,139
+Je vous donne juste ce schéma pour comprendre
+
+704
+00:34:49,139 --> 00:34:53,900
+comment deviennent ces différents neurotransmetteurs.
+
+705
+00:34:54,540 --> 00:34:58,000
+La noradrénaline est localisée dans le système nerveux
+
+706
+00:34:58,000 --> 00:34:59,500
+central, mais aussi autonome.
+
+707
+00:34:59,500 --> 00:35:02,660
+Dans le système nerveux central, elle est localisée
+
+708
+00:35:02,660 --> 00:35:04,560
+dans certains noyaux du tronc cérébral.
+
+709
+00:35:05,200 --> 00:35:07,360
+Elle joue un rôle important dans l'attention,
+
+710
+00:35:07,880 --> 00:35:11,600
+les émotions, le cycle veille-sommeil, etc.
+
+711
+00:35:13,000 --> 00:35:14,940
+Dans le système nerveux autonome, c'est le
+
+712
+00:35:14,940 --> 00:35:20,140
+principal neurotransmetteur du système nerveux sympathique.
+
+713
+00:35:20,860 --> 00:35:22,560
+On va le voir plus tard.
+
+714
+00:35:24,390 --> 00:35:29,810
+La sérotonine vient, comme vous le voyez ici,
+
+715
+00:35:31,230 --> 00:35:36,070
+du tryptophan qui est transformé en 5-HTP
+
+716
+00:35:36,070 --> 00:35:38,830
+par le tryptophan hydroxylase.
+
+717
+00:35:39,150 --> 00:35:42,010
+Puis le 5-HTP est transformé en sérotonine
+
+718
+00:35:42,010 --> 00:35:45,430
+par le 5-HTP décarboxylase.
+
+719
+00:35:47,970 --> 00:35:50,950
+La sérotonine, comme la dopamine, joue un rôle
+
+720
+00:35:50,950 --> 00:35:54,270
+important dans tout ce qui est humeur.
+
+721
+00:35:55,790 --> 00:35:59,090
+Donc ça a un impact sur la douleur,
+
+722
+00:35:59,430 --> 00:36:03,170
+sur la humeur et donc ça peut donner
+
+723
+00:36:03,170 --> 00:36:03,890
+des dépressions.
+
+724
+00:36:04,310 --> 00:36:06,330
+Et parmi les médicaments les plus utilisés pour
+
+725
+00:36:06,330 --> 00:36:10,170
+contrer la dépression, c'est les inhibiteurs de
+
+726
+00:36:10,170 --> 00:36:11,650
+la dégradation de la sérotonine.
+
+727
+00:36:12,110 --> 00:36:14,690
+On vient de la recapture de sérotonine.
+
+728
+00:36:14,690 --> 00:36:18,370
+Donc on va laisser la sérotonine agir le
+
+729
+00:36:18,370 --> 00:36:20,890
+plus possible et donc ça peut lutter contre
+
+730
+00:36:20,890 --> 00:36:23,390
+la dépression, l'anxiété, etc.
+
+731
+00:36:24,190 --> 00:36:25,990
+Donc il joue un rôle aussi dans tout
+
+732
+00:36:25,990 --> 00:36:28,270
+ce qui est sommeil, température, appétit, etc.
+
+733
+00:36:30,580 --> 00:36:33,100
+Donc on va finir ce cours par des
+
+734
+00:36:33,100 --> 00:36:34,160
+applications cliniques.
+
+735
+00:36:35,160 --> 00:36:36,280
+L'épileptogènese.
+
+736
+00:36:36,280 --> 00:36:40,460
+Donc normalement, en temps normal, j'essaie avec
+
+737
+00:36:40,460 --> 00:36:44,380
+vous de réfléchir sur quelques mécanismes qui peuvent
+
+738
+00:36:44,380 --> 00:36:47,700
+expliquer l'épileptogènese, la douleur neuropathique, etc.
+
+739
+00:36:47,940 --> 00:36:50,920
+Rappelez-vous qu'il faut se dire que
+
+740
+00:36:50,920 --> 00:36:52,700
+c'est des pathologies qui sont associées à
+
+741
+00:36:52,700 --> 00:36:55,240
+un excès de fonction, excès de potentiel d
+
+742
+00:36:55,240 --> 00:36:56,920
+'action, ce qui peut donner un excès de
+
+743
+00:36:56,920 --> 00:36:59,320
+potentiel d'action de façon anormale.
+
+744
+00:37:00,170 --> 00:37:02,820
+Par exemple, c'est quand on a le
+
+745
+00:37:02,820 --> 00:37:06,100
+seuil de dépolarisation qui est très proche du
+
+746
+00:37:06,100 --> 00:37:07,040
+potentiel de repos.
+
+747
+00:37:07,800 --> 00:37:10,080
+Dans ces cas-là, on va avoir rapidement,
+
+748
+00:37:10,560 --> 00:37:14,740
+dans des conditions physiologiques, on va avoir des
+
+749
+00:37:14,740 --> 00:37:18,220
+potentiels d'action qui vont se déclencher suite
+
+750
+00:37:18,220 --> 00:37:21,560
+à des variations physiologiques du potentiel de repos.
+
+751
+00:37:23,280 --> 00:37:27,940
+Regardez sur la diapo, regardez mon curseur.
+
+752
+00:37:28,580 --> 00:37:31,500
+Ça, on vous a montré un schéma où
+
+753
+00:37:31,500 --> 00:37:34,540
+on schématise le potentiel de repos comme ça,
+
+754
+00:37:34,660 --> 00:37:36,100
+linéaire, à –70.
+
+755
+00:37:36,500 --> 00:37:38,540
+En fait, il y a des petites variations
+
+756
+00:37:38,540 --> 00:37:43,900
+oscillatoires, des petites oscillations du potentiel de repos
+
+757
+00:37:43,900 --> 00:37:52,240
+entre –70, entre par exemple –66 et –74
+
+758
+00:37:52,240 --> 00:37:52,960
+par exemple.
+
+759
+00:37:53,320 --> 00:37:54,460
+C'est des variations physiologiques.
+
+760
+00:37:54,700 --> 00:37:57,640
+Ça reste très loin du potentiel seuil qui
+
+761
+00:37:57,640 --> 00:37:59,300
+est à –55 par exemple.
+
+762
+00:37:59,740 --> 00:38:00,820
+Donc ça reste très loin.
+
+763
+00:38:01,240 --> 00:38:03,320
+Mais supposons que ce potentiel seuil qui était
+
+764
+00:38:03,320 --> 00:38:06,880
+à –55 devient à –68.
+
+765
+00:38:07,640 --> 00:38:10,080
+C'est très proche du potentiel de Montbraner,
+
+766
+00:38:10,080 --> 00:38:13,200
+ce qui fait que ces petites variations physiologiques
+
+767
+00:38:13,200 --> 00:38:15,340
+qui sont dues à des canaux de fuite
+
+768
+00:38:15,340 --> 00:38:18,140
+peuvent aboutir à la création d'un potentiel
+
+769
+00:38:18,140 --> 00:38:20,440
+de l'action et ça peut donner entre
+
+770
+00:38:20,440 --> 00:38:22,020
+autres l'épileptogénèse.
+
+771
+00:38:23,000 --> 00:38:26,020
+Supposons aussi que le GABA est déficitaire.
+
+772
+00:38:26,160 --> 00:38:28,760
+Ça peut donner une épileptogénèse parce que le
+
+773
+00:38:28,760 --> 00:38:31,020
+GABA contre le glutamate.
+
+774
+00:38:31,680 --> 00:38:32,420
+Et s'il y a un excès de
+
+775
+00:38:32,420 --> 00:38:35,040
+glutamate aussi, ça peut donner de l'épileptogénèse,
+
+776
+00:38:35,140 --> 00:38:37,360
+un excès de neurotransmission excitatrice.
+
+777
+00:38:39,120 --> 00:38:46,360
+J'ai aussi parlé au cours du cours
+
+778
+00:38:46,360 --> 00:38:53,400
+précédent sur la période réfractaire et j'ai
+
+779
+00:38:53,400 --> 00:38:55,760
+dit que ça empêche le potentiel d'action
+
+780
+00:38:55,760 --> 00:38:56,820
+de revenir en arrière.
+
+781
+00:38:57,340 --> 00:38:59,960
+Parce que supposons qu'on est au niveau
+
+782
+00:38:59,960 --> 00:39:02,100
+du noeud de Ranvier X et on veut
+
+783
+00:39:02,100 --> 00:39:04,180
+aller à un noeud de Ranvier en aval.
+
+784
+00:39:04,920 --> 00:39:07,220
+Si on continue comme ça, ça va créer
+
+785
+00:39:07,220 --> 00:39:08,860
+un seul potentiel d'action qui va arriver
+
+786
+00:39:08,860 --> 00:39:12,500
+vers la terminaison nerveuse.
+
+787
+00:39:13,020 --> 00:39:13,900
+Mais supposons qu'il n'y a pas
+
+788
+00:39:13,900 --> 00:39:16,280
+de période réfractaire, le potentiel d'action va
+
+789
+00:39:16,280 --> 00:39:18,340
+partir certes en aval, mais il va revenir
+
+790
+00:39:18,340 --> 00:39:20,620
+en amont pour créer un nouveau potentiel d
+
+791
+00:39:20,620 --> 00:39:22,980
+'action qui va repartir en aval et revenir
+
+792
+00:39:22,980 --> 00:39:25,160
+en amont pour créer un autre potentiel d
+
+793
+00:39:25,160 --> 00:39:25,340
+'action.
+
+794
+00:39:25,340 --> 00:39:29,280
+Ça va donner un nombre illimité de potentiels
+
+795
+00:39:29,280 --> 00:39:31,460
+d'action, ce qui sera malheureusement à l
+
+796
+00:39:31,460 --> 00:39:33,740
+'origine d'une épilepsie par exemple.
+
+797
+00:39:35,400 --> 00:39:38,660
+Enfin, les perturbations ioniques aussi, ça peut être
+
+798
+00:39:38,660 --> 00:39:42,080
+à l'origine, ça peut être une cause
+
+799
+00:39:42,080 --> 00:39:45,220
+d'épileptogénèse.
+
+800
+00:39:49,160 --> 00:39:51,560
+Je vais vous rappeler, quand on vous a
+
+801
+00:39:51,560 --> 00:39:55,400
+montré les concentrations physiologiques de différents ions, ces
+
+802
+00:39:55,400 --> 00:39:58,400
+concentrations physiologiques font qu'on va avoir des
+
+803
+00:39:58,400 --> 00:40:01,760
+forces de concentration qui sont physiologiques aussi.
+
+804
+00:40:02,200 --> 00:40:05,040
+Mais si on a une perturbation des concentrations,
+
+805
+00:40:05,560 --> 00:40:07,740
+par exemple un excès de Na plus à
+
+806
+00:40:07,740 --> 00:40:14,880
+l'extérieur, ou bien un excès de Ka
+
+807
+00:40:14,880 --> 00:40:16,820
+plus aussi à l'extérieur, ça va être
+
+808
+00:40:16,820 --> 00:40:20,340
+à l'origine de l'entrée par exemple
+
+809
+00:40:20,340 --> 00:40:22,640
+de Na plus en grande quantité à l
+
+810
+00:40:22,640 --> 00:40:22,980
+'intérieur.
+
+811
+00:40:23,240 --> 00:40:24,740
+Donc ces forces qui ont empêché Na plus
+
+812
+00:40:24,740 --> 00:40:28,160
+d'entrer de façon physiologique vont être perturbées.
+
+813
+00:40:29,700 --> 00:40:32,740
+La même chose pour le Ka plus qui
+
+814
+00:40:32,740 --> 00:40:34,360
+est plus concentré à l'intérieur.
+
+815
+00:40:34,640 --> 00:40:39,220
+Ça peut sortir ou entrer et ça peut
+
+816
+00:40:39,220 --> 00:40:41,700
+donc être à l'origine d'une épileptogénèse
+
+817
+00:40:41,700 --> 00:40:44,200
+de la création de potentiels d'action en
+
+818
+00:40:44,200 --> 00:40:45,460
+grande quantité.
+
+819
+00:40:48,560 --> 00:40:52,040
+On avait aussi vu le rôle de l
+
+820
+00:40:52,040 --> 00:40:53,820
+'amyline dans la conduction nerveuse.
+
+821
+00:40:53,920 --> 00:40:57,100
+On a vu que ça permet une transmission
+
+822
+00:40:57,100 --> 00:40:59,120
+plus rapide de l'influx nerveux.
+
+823
+00:40:59,120 --> 00:41:02,400
+Le fait de transmettre l'information par exemple
+
+824
+00:41:02,400 --> 00:41:04,480
+à 100 mètres par seconde, ça aussi en
+
+825
+00:41:04,480 --> 00:41:05,960
+elle-même, c'est une information.
+
+826
+00:41:06,420 --> 00:41:08,460
+Par exemple, il y a certaines régions dans
+
+827
+00:41:08,460 --> 00:41:10,040
+le système nerveux, si on ne transmet pas
+
+828
+00:41:10,040 --> 00:41:16,500
+à 100 mètres par seconde, le circuit ne
+
+829
+00:41:16,500 --> 00:41:18,740
+peut pas être fonctionnel si ça ne fonctionne
+
+830
+00:41:18,740 --> 00:41:20,600
+pas à 100 mètres par seconde.
+
+831
+00:41:20,880 --> 00:41:23,740
+Si ça fonctionne à 1 mètre par seconde,
+
+832
+00:41:23,960 --> 00:41:25,520
+on ne peut pas transmettre l'information de
+
+833
+00:41:25,520 --> 00:41:28,960
+façon correcte et le patient ressentira un déficit
+
+834
+00:41:28,960 --> 00:41:31,780
+visuel, sensitive au moteur, des troubles de l
+
+835
+00:41:31,780 --> 00:41:33,740
+'équilibre, des troubles sphinctériens, etc.
+
+836
+00:41:37,850 --> 00:41:39,290
+C'est ce qu'on peut avoir quand
+
+837
+00:41:39,290 --> 00:41:41,230
+on a par exemple la sclérose en plaques
+
+838
+00:41:41,230 --> 00:41:46,990
+avec une attaque de l'amyline par des
+
+839
+00:41:46,990 --> 00:41:49,590
+anticorps, ou bien par les lymphocytes qui font
+
+840
+00:41:49,590 --> 00:41:50,390
+partie du soin.
+
+841
+00:41:50,630 --> 00:41:53,750
+C'est une maladie qui a un rôle
+
+842
+00:41:53,750 --> 00:41:55,350
+important de la génétique là-dedans.
+
+843
+00:41:55,350 --> 00:41:59,190
+Il y a une dysfonction immunitaire, un dérèglement
+
+844
+00:41:59,190 --> 00:42:00,850
+du système immunitaire qui fait qu'il y
+
+845
+00:42:00,850 --> 00:42:02,010
+a une destruction de l'amyline.
+
+846
+00:42:02,470 --> 00:42:03,990
+Et ça aboutit aux conséquences qu'on vient
+
+847
+00:42:03,990 --> 00:42:04,370
+de voir.
+
+848
+00:42:07,890 --> 00:42:12,910
+Enfin, les syndromes myasthéniques, pour un peu profiter
+
+849
+00:42:12,910 --> 00:42:15,050
+des notions de neurotransmission qu'on a vues,
+
+850
+00:42:15,930 --> 00:42:19,310
+ça c'est un bon exemple, une bonne
+
+851
+00:42:19,310 --> 00:42:20,830
+application de ce qu'on vient de voir.
+
+852
+00:42:22,030 --> 00:42:26,350
+Là, on a schématisé la jonction neuromusculaire entre
+
+853
+00:42:26,350 --> 00:42:27,610
+le neurone et le muscle.
+
+854
+00:42:28,610 --> 00:42:30,150
+Vous voyez qu'il y a une grande
+
+855
+00:42:30,150 --> 00:42:32,530
+surface de neurotransmission.
+
+856
+00:42:33,490 --> 00:42:38,010
+Si cette surface de neurotransmission post-synaptique est
+
+857
+00:42:38,010 --> 00:42:41,510
+attaquée par des anticorps, des autres anticorps qui
+
+858
+00:42:41,510 --> 00:42:43,910
+normalement ne doivent pas être là, ne doivent
+
+859
+00:42:43,910 --> 00:42:46,230
+pas nous attaquer, mais s'ils nous attaquent,
+
+860
+00:42:46,290 --> 00:42:49,330
+ça va détruire les récepteurs qui, vous voyez,
+
+861
+00:42:49,470 --> 00:42:50,730
+sont là en grande quantité.
+
+862
+00:42:51,410 --> 00:42:53,670
+Et ça va même rendre cette surface moins
+
+863
+00:42:53,670 --> 00:42:54,930
+étendue.
+
+864
+00:42:55,490 --> 00:42:58,450
+Et donc, si on compare cette synapse à
+
+865
+00:42:58,450 --> 00:43:01,330
+cette synapse, cette synapse est moins performante.
+
+866
+00:43:01,870 --> 00:43:05,710
+Et donc la neurotransmission sera faible, sera moins
+
+867
+00:43:05,710 --> 00:43:06,150
+forte.
+
+868
+00:43:06,930 --> 00:43:08,990
+Ça c'est l'exemple de la myasthénie
+
+869
+00:43:08,990 --> 00:43:12,390
+auto-immune qui est le syndrome myasthénique le
+
+870
+00:43:12,390 --> 00:43:13,230
+plus fréquent.
+
+871
+00:43:13,230 --> 00:43:17,590
+Mais on peut avoir aussi un blocage de
+
+872
+00:43:17,590 --> 00:43:18,770
+la sécrétion de la cytokine.
+
+873
+00:43:18,910 --> 00:43:20,130
+Et ça aussi, c'est ce qu'on
+
+874
+00:43:20,130 --> 00:43:23,390
+appelle un syndrome myasthénique, mais pré-synaptique, dans
+
+875
+00:43:23,390 --> 00:43:25,950
+lequel on empêche, par exemple, le CA2+,
+
+876
+00:43:25,950 --> 00:43:26,330
+d'entrer.
+
+877
+00:43:27,690 --> 00:43:30,790
+Donc on va empêcher la fusion des vesicules
+
+878
+00:43:30,790 --> 00:43:33,250
+avec l'élément pré-synaptique, la membrane pré
+
+879
+00:43:33,250 --> 00:43:34,770
+-synaptique, etc.
+
+880
+00:43:34,770 --> 00:43:37,390
+Donc ça c'est des exemples qui vous
+
+881
+00:43:37,390 --> 00:43:40,550
+montrent que ce qu'on vient de voir
+
+882
+00:43:40,550 --> 00:43:43,070
+peut être à l'origine de pathologies.
+
+883
+00:43:44,290 --> 00:43:47,650
+Supposons dans ce cas là, qu'on a
+
+884
+00:43:47,650 --> 00:43:50,510
+un patient qui a une myasthénie auto-immune,
+
+885
+00:43:50,630 --> 00:43:52,870
+parmi les solutions qu'on peut donner, c
+
+886
+00:43:52,870 --> 00:43:55,050
+'est d'empêcher la dégradation de la cytokine.
+
+887
+00:43:56,230 --> 00:43:58,130
+Parce que quand on va avoir moins de
+
+888
+00:43:58,130 --> 00:44:01,070
+récepteurs, on va avoir tendance à la compensation
+
+889
+00:44:01,070 --> 00:44:03,850
+par l'élément pré-synaptique en sécrétant plus
+
+890
+00:44:03,850 --> 00:44:04,910
+de la cytokine.
+
+891
+00:44:05,810 --> 00:44:08,370
+Et si on sécrète la cytokine en grande
+
+892
+00:44:08,370 --> 00:44:11,090
+quantité, la cytokine stérile est stupide.
+
+893
+00:44:13,130 --> 00:44:14,370
+Ce n'est pas elle qu'on a
+
+894
+00:44:14,370 --> 00:44:16,170
+besoin de la cytokine, elle va le dégrader.
+
+895
+00:44:16,550 --> 00:44:18,330
+En le dégradant, on n'aura plus de
+
+896
+00:44:18,330 --> 00:44:20,590
+la cytokine, on va avoir un déficit, une
+
+897
+00:44:20,590 --> 00:44:21,350
+fatigabilité.
+
+898
+00:44:22,090 --> 00:44:24,950
+Parmi les méthodes qu'on a trouvées pour
+
+899
+00:44:24,950 --> 00:44:31,650
+traiter cette pathologie, c'est de limiter l
+
+900
+00:44:31,650 --> 00:44:32,950
+'action de la cytokine stérile.
+
+901
+00:44:33,330 --> 00:44:34,910
+Ce qui fait qu'on va rendre la
+
+902
+00:44:34,910 --> 00:44:37,710
+cytokine disponible dans la force synaptique pour agir.
+
+903
+00:44:38,430 --> 00:44:41,510
+Parmi les autres moyens, c'est de partir
+
+904
+00:44:41,510 --> 00:44:45,090
+vers la physiopathologie, d'essayer d'empêcher les
+
+905
+00:44:45,090 --> 00:44:45,990
+anticorps d'attaquer.
+
+906
+00:44:46,730 --> 00:44:49,690
+C'est par des moyens, des immunothérapies, on
+
+907
+00:44:49,690 --> 00:44:52,330
+va parler de ça plus en détail les
+
+908
+00:44:52,330 --> 00:44:55,790
+années prochaines, avec les collègues qui font la
+
+909
+00:44:55,790 --> 00:44:56,250
+pathologie.
+
+910
+00:44:59,510 --> 00:45:04,510
+Enfin, on peut profiter du fait que le
+
+911
+00:45:04,510 --> 00:45:06,770
+système nerveux fonctionne grâce à l'électricité, à
+
+912
+00:45:06,770 --> 00:45:07,590
+la chimie, etc.
+
+913
+00:45:08,310 --> 00:45:10,630
+On a développé des techniques qui permettent d
+
+914
+00:45:10,630 --> 00:45:14,170
+'explorer le système nerveux, y compris les potentiels
+
+915
+00:45:14,170 --> 00:45:17,230
+évoqués visuels, auditifs, somestétiques, moteurs, etc.
+
+916
+00:45:18,050 --> 00:45:21,250
+L'électromyographie, l'électroencéphalographie, tout ça c'est
+
+917
+00:45:21,250 --> 00:45:26,530
+des éléments, des applications qui profitent de ces
+
+918
+00:45:26,530 --> 00:45:30,410
+mécanismes physiologiques de base pour créer des programmes
+
+919
+00:45:30,410 --> 00:45:33,070
+qui permettent de vérifier est-ce que le
+
+920
+00:45:33,070 --> 00:45:34,890
+système fonctionne bien ou pas.
+
+921
+00:45:37,610 --> 00:45:41,690
+Donc je vous remercie énormément pour votre attention,
+
+922
+00:45:42,290 --> 00:45:46,050
+pour votre concentration avec moi.
+
+923
+00:45:47,370 --> 00:45:50,510
+J'invite les gens qui sont plus intéressés
+
+924
+00:45:50,510 --> 00:45:52,470
+par les neurosciences à voir ces deux bouquins,
+
+925
+00:45:52,550 --> 00:45:53,250
+ils sont magnifiques.
+
+926
+00:45:53,850 --> 00:45:55,710
+J'ai fait appel à ces deux bouquins
+
+927
+00:45:55,710 --> 00:45:59,590
+pour la préparation de ces cours, des quatre
+
+928
+00:45:59,590 --> 00:46:02,750
+premiers cours qu'on vient de voir, qu
+
+929
+00:46:02,750 --> 00:46:04,210
+'on a séparés en quatre parties.
+
+930
+00:46:04,930 --> 00:46:07,290
+C'est un seul grand cours en fait
+
+931
+00:46:07,290 --> 00:46:11,430
+que je faisais, qui était réparti en deux
+
+932
+00:46:11,430 --> 00:46:15,250
+grandes parties, l'organisation générale puis les bases
+
+933
+00:46:15,250 --> 00:46:17,170
+neurophysiologiques.
+
+934
+00:46:18,310 --> 00:46:20,370
+Mais là on a séparé en quatre grandes
+
+935
+00:46:20,370 --> 00:46:21,790
+parties parce que c'est de grands cours
+
+936
+00:46:21,790 --> 00:46:24,310
+et vous savez que chaque fois ça prend
+
+937
+00:46:24,310 --> 00:46:26,950
+à peu près 45 minutes pour faire chaque
+
+938
+00:46:26,950 --> 00:46:27,190
+cours.
+
+939
+00:46:27,690 --> 00:46:29,690
+Donc si vous voulez plus de détails, vérifiez
+
+940
+00:46:29,690 --> 00:46:31,170
+ces deux bouquins.
+
+941
+00:46:31,810 --> 00:46:34,190
+Le bouquin de Purvesse est disponible à la
+
+942
+00:46:34,190 --> 00:46:34,650
+faculté.
+
+943
+00:46:35,390 --> 00:46:39,630
+L'autre est disponible en PDF sur internet.
+
+944
+00:46:39,630 --> 00:46:47,330
+Donc vous pouvez aussi les recommander dans les
+
+945
+00:46:47,330 --> 00:46:47,830
+librairies.
+
+946
+00:46:48,350 --> 00:46:50,330
+C'est très facile à acquérir.
+
+947
+00:46:51,270 --> 00:46:52,650
+Je vous remercie et à la prochaine fois.
+
+948
+00:46:53,090 --> 00:46:53,350
+Au revoir.

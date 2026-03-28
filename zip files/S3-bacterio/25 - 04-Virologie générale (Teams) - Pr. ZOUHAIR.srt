@@ -1,0 +1,5135 @@
+1
+00:00:00,260 --> 00:00:01,500
+C'est bon ?
+
+2
+00:00:02,880 --> 00:00:03,660
+Merci beaucoup.
+
+3
+00:00:05,880 --> 00:00:07,119
+Bonjour tout le monde.
+
+4
+00:00:08,700 --> 00:00:10,980
+Vous m'entendez ?
+
+5
+00:00:12,480 --> 00:00:14,420
+Est-ce que je peux les entendre ?
+
+6
+00:00:14,420 --> 00:00:15,219
+Oui, monsieur.
+
+7
+00:00:15,820 --> 00:00:16,640
+Très bien, parfait.
+
+8
+00:00:17,100 --> 00:00:20,120
+D'accord, donc aujourd'hui, ça sera un
+
+9
+00:00:20,120 --> 00:00:21,100
+cours enregistré.
+
+10
+00:00:21,340 --> 00:00:23,560
+En fait, on va voir la majorité des
+
+11
+00:00:23,560 --> 00:00:27,880
+cours de virologie, que ce soit la fondamentale,
+
+12
+00:00:27,940 --> 00:00:29,640
+la virologie générale ou virologie spéciale.
+
+13
+00:00:29,640 --> 00:00:33,180
+Donc, je vais vous mettre à votre disposition
+
+14
+00:00:33,180 --> 00:00:36,880
+ces supports à partir d'aujourd'hui, à
+
+15
+00:00:36,880 --> 00:00:37,700
+la fin de la séance.
+
+16
+00:00:38,240 --> 00:00:41,000
+Donc, virologie générale et virologie spéciale.
+
+17
+00:00:41,060 --> 00:00:42,740
+Les cours que vous voyez maintenant.
+
+18
+00:00:43,720 --> 00:00:45,640
+Et puis, on va essayer de les passer
+
+19
+00:00:45,640 --> 00:00:48,340
+en revue le maximum.
+
+20
+00:00:49,480 --> 00:00:52,700
+Je vais refaire la virologie générale très rapidement
+
+21
+00:00:52,700 --> 00:00:53,700
+parce qu'on a déjà vu.
+
+22
+00:00:54,300 --> 00:00:56,060
+Il y a beaucoup d'étudiants qui demandent
+
+23
+00:00:56,060 --> 00:00:57,420
+la sonorisation des cours.
+
+24
+00:00:57,420 --> 00:00:59,320
+Donc, on va sonoriser.
+
+25
+00:00:59,740 --> 00:01:01,740
+On est en train d'enregistrer maintenant.
+
+26
+00:01:02,420 --> 00:01:05,180
+Et donc, on va revoir certains cours qu
+
+27
+00:01:05,180 --> 00:01:06,900
+'on a déjà vu auparavant, mais un peu
+
+28
+00:01:06,900 --> 00:01:07,580
+plus rapidement.
+
+29
+00:01:08,500 --> 00:01:11,120
+Alors, on va voir la structure et classification
+
+30
+00:01:11,120 --> 00:01:14,480
+des virus, la multiplication des virus à l
+
+31
+00:01:14,480 --> 00:01:17,660
+'échelle intracellulaire, puis les mécanismes généraux des infections
+
+32
+00:01:17,660 --> 00:01:21,240
+virales, c'est-à-dire la définition des
+
+33
+00:01:21,240 --> 00:01:22,300
+infections virales, etc.
+
+34
+00:01:22,300 --> 00:01:27,340
+Les armes que nous possédons actuellement contre les
+
+35
+00:01:27,340 --> 00:01:29,520
+virus, c'est notamment la chimiothérapie, les médicaments,
+
+36
+00:01:29,940 --> 00:01:32,680
+la thérapeutique antivirale, la chimiothérapie antivirale avec les
+
+37
+00:01:32,680 --> 00:01:34,420
+vaccins pour la prévention.
+
+38
+00:01:35,240 --> 00:01:37,520
+Les techniques de diagnostic en virologie qu'on
+
+39
+00:01:37,520 --> 00:01:38,380
+n'a pas encore vues.
+
+40
+00:01:38,660 --> 00:01:41,260
+Et puis, on passera aux familles de virus,
+
+41
+00:01:41,380 --> 00:01:45,060
+notamment les herpès viridés, les virus des hépatites,
+
+42
+00:01:45,140 --> 00:01:46,080
+les virus respiratoires.
+
+43
+00:01:46,180 --> 00:01:47,840
+On va voir le coronavirus aussi, le SARS
+
+44
+00:01:47,840 --> 00:01:51,700
+-CoV-2, les paramyxoviridés, les enterovirus, les picoronaviridés,
+
+45
+00:01:51,800 --> 00:01:53,840
+les virus de la rubéole, les virus de
+
+46
+00:01:53,840 --> 00:01:57,760
+la rage, les virus Ebola, les arbovirus, le
+
+47
+00:01:57,760 --> 00:02:00,500
+zika virus, chikungunya, la dengue, la fièvre jaune,
+
+48
+00:02:00,580 --> 00:02:00,860
+tout ça.
+
+49
+00:02:01,060 --> 00:02:02,580
+On va essayer de le voir très rapidement,
+
+50
+00:02:03,580 --> 00:02:07,979
+et vous aurez un support sous format PowerPoint,
+
+51
+00:02:08,199 --> 00:02:10,940
+que vous pouvez consulter très rapidement dans la
+
+52
+00:02:10,940 --> 00:02:11,460
+plateforme.
+
+53
+00:02:11,980 --> 00:02:12,100
+Voilà.
+
+54
+00:02:13,240 --> 00:02:16,320
+Alors, la classification, on a vu la dernière
+
+55
+00:02:16,320 --> 00:02:20,940
+fois, les virus possèdent un seul type d
+
+56
+00:02:20,940 --> 00:02:23,060
+'acide nucléique, soit de l'ADN, soit de
+
+57
+00:02:23,060 --> 00:02:23,600
+l'ARN.
+
+58
+00:02:23,760 --> 00:02:26,140
+Donc, nous avons toujours un virus ARN ou
+
+59
+00:02:26,140 --> 00:02:27,140
+un virus ADN.
+
+60
+00:02:27,580 --> 00:02:32,680
+Et puis, ils se reproduisent par réplication du
+
+61
+00:02:32,680 --> 00:02:33,080
+génome.
+
+62
+00:02:34,400 --> 00:02:36,280
+Il n'y a pas de croissance, il
+
+63
+00:02:36,280 --> 00:02:38,400
+n'y a pas de division du virus,
+
+64
+00:02:38,600 --> 00:02:42,500
+mais plutôt, c'est une multiplication par réplication.
+
+65
+00:02:42,620 --> 00:02:44,240
+C'est-à-dire que le virus va
+
+66
+00:02:44,240 --> 00:02:46,880
+pénétrer à la chaîne intracellulaire puisqu'il n
+
+67
+00:02:46,880 --> 00:02:52,780
+'a pas d'arsenal enzymatique suffisamment élaboré ou
+
+68
+00:02:52,780 --> 00:02:54,020
+de machinerie de traduction.
+
+69
+00:02:54,360 --> 00:02:56,880
+Donc, il est impératif qu'il soit à
+
+70
+00:02:56,880 --> 00:02:59,220
+l'intérieur d'une cellule pour se reproduire.
+
+71
+00:02:59,620 --> 00:03:02,240
+Et donc, il va utiliser la machinerie de
+
+72
+00:03:02,240 --> 00:03:06,640
+traduction et les enzymes du métabolisme énergétique de
+
+73
+00:03:06,640 --> 00:03:09,840
+la cellule, cibles, pour se répliquer et donc
+
+74
+00:03:09,840 --> 00:03:10,380
+se multiplier.
+
+75
+00:03:10,820 --> 00:03:15,060
+Voilà les trois caractères qui définissent un virus.
+
+76
+00:03:15,060 --> 00:03:18,040
+Un seul type d'acide nucléique, ARN ou
+
+77
+00:03:18,040 --> 00:03:18,620
+ADN.
+
+78
+00:03:19,240 --> 00:03:23,000
+Une reproduction ou une multiplication par réplication du
+
+79
+00:03:23,000 --> 00:03:23,820
+génome.
+
+80
+00:03:24,680 --> 00:03:28,900
+Et puis, un parasitisme intracellulaire obligatoire puisque le
+
+81
+00:03:28,900 --> 00:03:31,840
+virus ne possède pas d'enzyme de métabolisme
+
+82
+00:03:31,840 --> 00:03:33,920
+énergétique ni de machinerie de traduction comme les
+
+83
+00:03:33,920 --> 00:03:34,360
+ribosomes.
+
+84
+00:03:36,260 --> 00:03:38,240
+La différence entre les bactéries et les virus,
+
+85
+00:03:38,320 --> 00:03:39,200
+c'est la taille d'abord.
+
+86
+00:03:39,200 --> 00:03:45,240
+Ils sont dix fois plus petites que les
+
+87
+00:03:45,240 --> 00:03:45,680
+bactéries.
+
+88
+00:03:45,740 --> 00:03:47,240
+Les virus sont plus petits que les bactéries.
+
+89
+00:03:47,320 --> 00:03:48,840
+On ne les voit pas au microscope optique.
+
+90
+00:03:49,080 --> 00:03:51,900
+Donc, on va les détecter autrement.
+
+91
+00:03:52,020 --> 00:03:54,180
+On peut les voir par microscopie électronique, mais
+
+92
+00:03:54,180 --> 00:03:56,020
+c'est l'apanage des laboratoires des centres
+
+93
+00:03:56,020 --> 00:03:56,560
+de recherche.
+
+94
+00:03:57,100 --> 00:03:58,900
+Donc, on ne les possède pas dans les
+
+95
+00:03:58,900 --> 00:04:03,840
+laboratoires de ville et les laboratoires publics aussi,
+
+96
+00:04:04,600 --> 00:04:05,780
+sauf dans les centres de recherche.
+
+97
+00:04:06,640 --> 00:04:09,580
+Les acides nucléaires dont on a parlé, les
+
+98
+00:04:09,580 --> 00:04:11,680
+bactéries possèdent les deux, l'ADN et l
+
+99
+00:04:11,680 --> 00:04:13,380
+'ARN, alors que le virus n'en possède
+
+100
+00:04:13,380 --> 00:04:14,940
+qu'un seul, soit l'ADN, soit l
+
+101
+00:04:14,940 --> 00:04:15,360
+'ARN.
+
+102
+00:04:17,000 --> 00:04:18,540
+Voilà, ça on l'a vu.
+
+103
+00:04:18,980 --> 00:04:21,280
+Le microscope optique, vous allez voir la différence
+
+104
+00:04:21,280 --> 00:04:23,760
+avec le microscope optique par rapport au microscope
+
+105
+00:04:23,760 --> 00:04:29,820
+électronique qui est encombrant, qui prend beaucoup d
+
+106
+00:04:29,820 --> 00:04:33,460
+'espace, qui nécessite des infrastructures adaptées et qui
+
+107
+00:04:33,460 --> 00:04:35,140
+coûte extrêmement cher aussi.
+
+108
+00:04:37,440 --> 00:04:39,280
+Donc, les constituants obligatoires.
+
+109
+00:04:39,380 --> 00:04:42,160
+On a bien dit que le virus est
+
+110
+00:04:42,160 --> 00:04:45,200
+obligatoirement constitué de deux constituants.
+
+111
+00:04:45,620 --> 00:04:47,620
+Le génome, il y a toujours un génome.
+
+112
+00:04:47,840 --> 00:04:48,840
+À chaque fois qu'on va parler du
+
+113
+00:04:48,840 --> 00:04:50,140
+virus, il y a un génome, soit de
+
+114
+00:04:50,140 --> 00:04:51,040
+l'ADN, soit de l'ARN.
+
+115
+00:04:51,740 --> 00:04:54,380
+Et il y a, bien sûr, une capside.
+
+116
+00:04:54,900 --> 00:04:58,520
+À la différence de la bactérie, qui possède
+
+117
+00:04:58,520 --> 00:05:00,840
+parfois une capsule.
+
+118
+00:05:02,400 --> 00:05:04,140
+Ce n'est pas le cas du virus.
+
+119
+00:05:04,260 --> 00:05:05,160
+C'est la capside.
+
+120
+00:05:07,440 --> 00:05:09,220
+La capside, en fait, c'est une coque
+
+121
+00:05:09,220 --> 00:05:12,340
+protéique qui va entourer le virus et qui
+
+122
+00:05:12,340 --> 00:05:15,120
+est capable d'assurer sa protection et sa
+
+123
+00:05:15,120 --> 00:05:16,320
+survie dans le milieu extérieur.
+
+124
+00:05:18,440 --> 00:05:20,440
+Ces deux structures sont toujours obligatoires.
+
+125
+00:05:21,160 --> 00:05:22,120
+À chaque fois qu'on va parler du
+
+126
+00:05:22,120 --> 00:05:24,200
+virus, il y a un génome, ADN ou
+
+127
+00:05:24,200 --> 00:05:26,400
+ARN, et une coque protéique qui l'entoure,
+
+128
+00:05:26,500 --> 00:05:27,540
+qui est la capside.
+
+129
+00:05:28,140 --> 00:05:29,660
+Et puis, il y a certains virus qui
+
+130
+00:05:29,660 --> 00:05:31,820
+sont enveloppés, qui vont avoir une enveloppe en
+
+131
+00:05:31,820 --> 00:05:32,080
+plus.
+
+132
+00:05:32,600 --> 00:05:34,640
+C'est le troisième constituant qui n'est
+
+133
+00:05:34,640 --> 00:05:35,640
+pas toujours présent.
+
+134
+00:05:36,240 --> 00:05:37,740
+Donc, il y a des virus enveloppés et
+
+135
+00:05:37,740 --> 00:05:38,540
+des virus nus.
+
+136
+00:05:41,240 --> 00:05:42,220
+Tout ça, on l'a vu.
+
+137
+00:05:42,740 --> 00:05:45,100
+On a donné des exemples de familles de
+
+138
+00:05:45,100 --> 00:05:47,220
+virus qui sont des virus à ADN.
+
+139
+00:05:47,280 --> 00:05:52,660
+Par exemple, les paruviridés, les herpèsviridés, les adénoviridés
+
+140
+00:05:54,120 --> 00:05:57,060
+ou les hepadnaviridés, comme le virus de l
+
+141
+00:05:57,060 --> 00:05:59,020
+'hépatite B, qui sont des virus à ADN.
+
+142
+00:05:59,220 --> 00:06:01,000
+On a donné des exemples de virus à
+
+143
+00:06:01,000 --> 00:06:06,280
+ARN, les picornaviridés, comme les enterovirus, ou les
+
+144
+00:06:06,280 --> 00:06:08,980
+flaviridés, comme l'hépatite C, qui sont des
+
+145
+00:06:08,980 --> 00:06:11,360
+virus à ARN, comme les virus de la
+
+146
+00:06:11,360 --> 00:06:14,440
+grippe aussi, ou encore le VIH, qui est
+
+147
+00:06:14,440 --> 00:06:16,540
+un virus à ARN, ou le rotavirus aussi,
+
+148
+00:06:17,060 --> 00:06:17,560
+virus à ARN.
+
+149
+00:06:17,600 --> 00:06:19,720
+Les capsides, il y a deux types de
+
+150
+00:06:19,720 --> 00:06:20,220
+symétrie.
+
+151
+00:06:20,680 --> 00:06:23,820
+La symétrie hélicoïdale et symétrie cubique.
+
+152
+00:06:25,680 --> 00:06:29,500
+On a vu que les capsides peuvent avoir
+
+153
+00:06:29,500 --> 00:06:32,440
+deux types de symétrie principalement.
+
+154
+00:06:34,780 --> 00:06:39,480
+La symétrie, les capsides tubulaires, c'est-à
+
+155
+00:06:39,480 --> 00:06:41,260
+-dire sous forme de tube, que vous voyez
+
+156
+00:06:41,260 --> 00:06:44,100
+ici, sous forme de tube.
+
+157
+00:06:47,960 --> 00:06:48,680
+Pardon.
+
+158
+00:06:53,760 --> 00:06:55,740
+Il y a un problème.
+
+159
+00:07:02,840 --> 00:07:05,720
+Vous voyez l'écran toujours ?
+
+160
+00:07:10,480 --> 00:07:11,140
+Oui, monsieur.
+
+161
+00:07:12,160 --> 00:07:14,680
+Vous voyez les capsides maintenant dans votre écran
+
+162
+00:07:14,680 --> 00:07:15,480
+?
+
+163
+00:07:19,360 --> 00:07:20,020
+Oui, monsieur.
+
+164
+00:07:20,700 --> 00:07:21,080
+Parfait.
+
+165
+00:07:21,520 --> 00:07:22,980
+Je ne vois pas dans notre écran.
+
+166
+00:07:25,220 --> 00:07:30,340
+Les capsides que vous voyez ici, les capsides
+
+167
+00:07:32,260 --> 00:07:35,480
+qui sont tubulaires sous forme de tube, à
+
+168
+00:07:35,480 --> 00:07:36,580
+symétrie hélicoïdale.
+
+169
+00:07:36,580 --> 00:07:37,980
+D'accord.
+
+170
+00:07:38,500 --> 00:07:41,520
+Et vous avez, symétrie hélicoïdale sous forme d
+
+171
+00:07:41,520 --> 00:07:41,780
+'hélice.
+
+172
+00:07:42,220 --> 00:07:45,780
+Vous avez encore les virus enveloppés, enfin les
+
+173
+00:07:45,780 --> 00:07:48,360
+virus à capsides tubulaires qui peuvent être enveloppés
+
+174
+00:07:48,360 --> 00:07:49,560
+ou nus parfois.
+
+175
+00:07:50,680 --> 00:07:53,320
+Les capsides icosaïdres et casymétries cubiques qui sont
+
+176
+00:07:53,320 --> 00:07:55,940
+sous forme de cube.
+
+177
+00:07:57,160 --> 00:07:57,540
+Voilà.
+
+178
+00:07:58,220 --> 00:08:00,820
+Et donc, c'est l'icosaïdre.
+
+179
+00:08:00,920 --> 00:08:07,860
+En fait, l'icosaïdre, c'est cette capside
+
+180
+00:08:07,860 --> 00:08:12,160
+qui a cet aspect en cube avec les
+
+181
+00:08:12,160 --> 00:08:14,360
+polyèdres, des sommets, des arêtes, etc.
+
+182
+00:08:14,800 --> 00:08:18,520
+En fait, c'est des protéines qui constituent
+
+183
+00:08:18,520 --> 00:08:20,880
+une coque protéine qui va protéger le génome.
+
+184
+00:08:21,160 --> 00:08:23,940
+Voilà les types de capsides.
+
+185
+00:08:24,320 --> 00:08:25,600
+Et puis, il y a des capsides qui
+
+186
+00:08:25,600 --> 00:08:28,920
+sont mixtes, mais ça, c'est un peu
+
+187
+00:08:28,920 --> 00:08:29,420
+plus rare.
+
+188
+00:08:29,420 --> 00:08:32,200
+Et donc, la classification des virus que nous
+
+189
+00:08:32,200 --> 00:08:34,039
+avons vues la dernière fois, elle se base
+
+190
+00:08:34,039 --> 00:08:36,059
+sur la nature de l'acide nucléique.
+
+191
+00:08:36,179 --> 00:08:36,980
+Est-ce que c'est de l'ADN
+
+192
+00:08:36,980 --> 00:08:39,220
+ou de l'ARN ?
+
+193
+00:08:39,220 --> 00:08:42,280
+Sur la symétrie de la nucléocapside et sur
+
+194
+00:08:42,280 --> 00:08:44,860
+la présence ou l'absence de l'enveloppe.
+
+195
+00:08:54,180 --> 00:08:58,760
+Donc ça, on voit bien la classification qui
+
+196
+00:08:58,760 --> 00:09:04,700
+permet de classer les virus en famille.
+
+197
+00:09:05,740 --> 00:09:06,760
+On va voir la nomenclature.
+
+198
+00:09:06,760 --> 00:09:11,580
+Vous avez les familles, par exemple, qui se
+
+199
+00:09:11,580 --> 00:09:15,520
+terminent par un suffixe viridae, viridae comme RPS
+
+200
+00:09:15,520 --> 00:09:20,060
+viridae, sous-famille virinae, par exemple, ou encore
+
+201
+00:09:22,200 --> 00:09:24,900
+le genre qui se termine par virus, voire
+
+202
+00:09:24,900 --> 00:09:27,180
+par exemple l'espèce, par exemple, le virus
+
+203
+00:09:27,180 --> 00:09:28,280
+de l'Hepsteinpa.
+
+204
+00:09:28,740 --> 00:09:32,080
+Donc, famille, c'est viridae, viridae, sous-famille
+
+205
+00:09:32,080 --> 00:09:33,820
+virinae, par exemple.
+
+206
+00:09:37,600 --> 00:09:40,320
+Donc ça, on a vu les virus enveloppés,
+
+207
+00:09:41,500 --> 00:09:41,740
+etc.
+
+208
+00:09:42,200 --> 00:09:44,520
+Ça, on va passer à l'autre cours,
+
+209
+00:09:46,420 --> 00:09:48,040
+la classification des principales.
+
+210
+00:09:49,700 --> 00:09:51,100
+Donc ça, c'est...
+
+211
+00:10:03,420 --> 00:10:03,720
+Voilà.
+
+212
+00:10:04,340 --> 00:10:06,520
+Quoi encore ?
+
+213
+00:10:06,520 --> 00:10:11,970
+Donc on passe au deuxième cours, la multiplication
+
+214
+00:10:11,970 --> 00:10:12,290
+virale.
+
+215
+00:10:22,310 --> 00:10:27,930
+Alors, le cycle de multiplication, donc on l
+
+216
+00:10:27,930 --> 00:10:29,850
+'a bien dit que les virus se multiplient
+
+217
+00:10:29,850 --> 00:10:31,630
+principalement ...
+
+218
+00:10:38,000 --> 00:10:44,540
+Donc le cycle de multiplication se déroule de
+
+219
+00:10:44,540 --> 00:10:45,180
+cette façon.
+
+220
+00:10:45,540 --> 00:10:48,220
+Il y a des étapes initiales qui nécessitent
+
+221
+00:10:48,220 --> 00:10:50,740
+l'attachement, la pénétration et la décapsitation.
+
+222
+00:10:51,360 --> 00:10:53,420
+Et puis après, quand le virus va pénétrer...
+
+223
+00:10:54,340 --> 00:10:55,260
+Je ne vois pas...
+
+224
+00:10:55,260 --> 00:10:57,320
+Dans notre écran...
+
+225
+00:10:57,320 --> 00:10:58,980
+Il y a un problème...
+
+226
+00:11:01,000 --> 00:11:01,740
+Voilà, c'est bon.
+
+227
+00:11:03,220 --> 00:11:05,040
+Ça s'enregistre toujours ?
+
+228
+00:11:05,040 --> 00:11:05,380
+Parfait.
+
+229
+00:11:05,380 --> 00:11:09,820
+Donc, l'expression et la réplication du génome
+
+230
+00:11:09,820 --> 00:11:13,740
+viral et puis les étapes tardives d'assemblage
+
+231
+00:11:13,740 --> 00:11:14,400
+et de relargage.
+
+232
+00:11:15,860 --> 00:11:21,580
+Donc, pour résumer très rapidement, vous avez ici
+
+233
+00:11:22,540 --> 00:11:25,400
+le virus arrive au niveau de la cellule
+
+234
+00:11:25,400 --> 00:11:27,260
+cible qui est schématisée en noir.
+
+235
+00:11:27,360 --> 00:11:28,360
+C'est très schématique tout ça.
+
+236
+00:11:28,580 --> 00:11:32,100
+Il va s'attacher, il va pénétrer au
+
+237
+00:11:32,100 --> 00:11:33,880
+niveau de la cellule, il va se décapsiter
+
+238
+00:11:33,880 --> 00:11:35,960
+pour libérer le génome et puis il y
+
+239
+00:11:35,960 --> 00:11:38,780
+aura le phénomène de réplication, la transcription, la
+
+240
+00:11:38,780 --> 00:11:41,820
+traduction de protéines et puis toutes ces protéines
+
+241
+00:11:41,820 --> 00:11:45,420
+avec le génome vont s'assembler, vont mûrir,
+
+242
+00:11:45,520 --> 00:11:47,380
+il y aura une opération de maturation avant
+
+243
+00:11:47,380 --> 00:11:51,240
+de libérer...
+
+244
+00:11:51,240 --> 00:11:52,680
+avant, bien sûr, la libération.
+
+245
+00:11:58,870 --> 00:12:00,770
+Alors, on a dit que l'absorption ou
+
+246
+00:12:00,770 --> 00:12:04,170
+l'attachement, c'est la première étape, c
+
+247
+00:12:04,170 --> 00:12:06,970
+'est le premier facteur le plus important parce
+
+248
+00:12:06,970 --> 00:12:08,910
+que en fait, c'est là où le
+
+249
+00:12:08,910 --> 00:12:12,170
+virus va pénétrer et être responsable éventuellement de
+
+250
+00:12:12,170 --> 00:12:12,670
+l'infection.
+
+251
+00:12:13,250 --> 00:12:16,070
+Le premier facteur conditionnant l'entropisme, c'est
+
+252
+00:12:17,310 --> 00:12:19,190
+d'un virus pour une cellule.
+
+253
+00:12:19,630 --> 00:12:22,510
+Voilà, donc ça dépend de pas mal de
+
+254
+00:12:22,510 --> 00:12:25,170
+facteurs, notamment le nombre de molécules réceptrices à
+
+255
+00:12:25,170 --> 00:12:27,050
+la surface de la cellule et puis la
+
+256
+00:12:27,050 --> 00:12:29,410
+concentration relative en virus.
+
+257
+00:12:29,970 --> 00:12:30,310
+D'accord ?
+
+258
+00:12:30,310 --> 00:12:34,390
+Donc il y aura une attirance par interaction
+
+259
+00:12:34,390 --> 00:12:37,750
+électrostatique entre les molécules de surface virale et
+
+260
+00:12:37,750 --> 00:12:38,770
+cellulaire, d'accord ?
+
+261
+00:12:38,770 --> 00:12:39,890
+Pour qu'ils puissent s'attacher.
+
+262
+00:12:40,250 --> 00:12:41,210
+S'il n'y a pas cette étape
+
+263
+00:12:41,210 --> 00:12:43,550
+d'attachement, il n'y aura pas la
+
+264
+00:12:43,550 --> 00:12:45,170
+suite de la multiplication virale, c'est-à
+
+265
+00:12:45,170 --> 00:12:46,810
+-dire la pénétration, etc.
+
+266
+00:12:46,930 --> 00:12:50,150
+Donc il est impératif que le virus retrouve
+
+267
+00:12:50,760 --> 00:12:52,750
+des molécules réceptrices à la surface de la
+
+268
+00:12:52,750 --> 00:12:55,470
+cellule cible qui sont adaptées à sa structure
+
+269
+00:12:55,470 --> 00:12:59,310
+et qui sont adaptées à ces molécules réceptrices.
+
+270
+00:13:00,110 --> 00:13:03,070
+Alors par exemple ici, pour l'HIV, c
+
+271
+00:13:03,070 --> 00:13:05,830
+'est l'HGP, donc les protéines portant des
+
+272
+00:13:05,830 --> 00:13:09,190
+sites spécifiques d'attachement viraux, l'HGP-120,
+
+273
+00:13:09,290 --> 00:13:10,870
+la glycoproteine-120 qui est à la surface
+
+274
+00:13:10,870 --> 00:13:14,030
+du VIH par exemple, ou l'hémagglutinin à
+
+275
+00:13:14,030 --> 00:13:15,410
+la surface du virus de la grippe.
+
+276
+00:13:18,500 --> 00:13:18,980
+D'accord ?
+
+277
+00:13:18,980 --> 00:13:21,100
+Et donc de l'autre côté, l'infocyté,
+
+278
+00:13:21,220 --> 00:13:24,880
+il possède par exemple les CD4, les récepteurs
+
+279
+00:13:24,880 --> 00:13:27,800
+CD4, regardez, on va voir ça par la
+
+280
+00:13:27,800 --> 00:13:28,000
+suite.
+
+281
+00:13:28,580 --> 00:13:32,720
+Donc les cellules infocytées vont présenter des molécules
+
+282
+00:13:32,720 --> 00:13:35,920
+réceptrices à leur surface, notamment les CD4 qui
+
+283
+00:13:35,920 --> 00:13:38,640
+elles, vont être bien sûr à l'origine
+
+284
+00:13:38,640 --> 00:13:41,320
+de l'attachement avec le VIH à travers
+
+285
+00:13:41,320 --> 00:13:42,120
+la GP-120.
+
+286
+00:13:45,760 --> 00:13:46,940
+Donc après l'attachement, il y a la
+
+287
+00:13:46,940 --> 00:13:48,540
+pénétration du virus, on a vu ça, les
+
+288
+00:13:48,540 --> 00:13:51,740
+trois mécanismes, la translocation virale, on a vu
+
+289
+00:13:51,740 --> 00:13:55,140
+aussi la fusion, c'est le cas ici
+
+290
+00:13:55,140 --> 00:13:59,460
+par exemple du VIH, vous voyez ici la
+
+291
+00:13:59,460 --> 00:14:04,600
+cellule l'infocyté que vous voyez ici et
+
+292
+00:14:04,600 --> 00:14:07,440
+puis le VIH arrive lorsqu'il va rencontrer
+
+293
+00:14:08,460 --> 00:14:11,060
+cette cellule cible, il va s'y attacher
+
+294
+00:14:11,060 --> 00:14:14,800
+bien sûr via les CD4 et donc la
+
+295
+00:14:14,800 --> 00:14:17,040
+GP-120 que vous voyez ici en bleu,
+
+296
+00:14:19,390 --> 00:14:23,290
+donc va permettre l'attachement du virus à
+
+297
+00:14:23,290 --> 00:14:25,490
+la cellule cible via les CD4 et puis
+
+298
+00:14:25,490 --> 00:14:27,750
+il y aura une fusion et une pénétration
+
+299
+00:14:27,750 --> 00:14:28,250
+par la suite.
+
+300
+00:14:28,970 --> 00:14:31,950
+Donc la pénétration se fait par trois mécanismes,
+
+301
+00:14:32,130 --> 00:14:36,090
+on a bien vu la pénétration par translocation,
+
+302
+00:14:36,930 --> 00:14:41,140
+par endocytose, par fusion aussi.
+
+303
+00:14:51,360 --> 00:14:54,040
+La décapsidation, le génome va être libéré de
+
+304
+00:14:54,040 --> 00:14:57,680
+sa capside pour se répliquer bien sûr et
+
+305
+00:14:57,680 --> 00:14:58,300
+transcrire.
+
+306
+00:14:58,880 --> 00:15:00,320
+Donc il y aura une dégradation de la
+
+307
+00:15:00,320 --> 00:15:02,180
+capside et une libération du génome à l
+
+308
+00:15:02,180 --> 00:15:03,040
+'intérieur de la cellule cible.
+
+309
+00:15:06,910 --> 00:15:07,750
+Et puis il y aura l'étape de
+
+310
+00:15:07,750 --> 00:15:11,330
+réplication qui est la duplication du matériel génétique
+
+311
+00:15:11,330 --> 00:15:14,970
+qui porte l'information génétique du virus et
+
+312
+00:15:14,970 --> 00:15:17,050
+donc ils vont être répliqués en plusieurs copies,
+
+313
+00:15:17,170 --> 00:15:18,690
+en milliers de copies parfois à l'intérieur
+
+314
+00:15:18,690 --> 00:15:19,330
+d'une cellule.
+
+315
+00:15:20,330 --> 00:15:22,150
+A la fin il y aura cette étape
+
+316
+00:15:22,150 --> 00:15:24,110
+de maturation, d'assemblage et de libération.
+
+317
+00:15:25,850 --> 00:15:28,150
+Donc les protéines de structure vont s'assembler
+
+318
+00:15:28,990 --> 00:15:32,370
+et puis il y aura l'assemblage.
+
+319
+00:15:32,670 --> 00:15:35,810
+Regardez ici par exemple le nombre de virus
+
+320
+00:15:35,810 --> 00:15:37,730
+qu'on retrouve à la surface d'une
+
+321
+00:15:37,730 --> 00:15:39,950
+cellule cible, ça en microscopie électronique c'est
+
+322
+00:15:39,950 --> 00:15:43,170
+une photo réelle il y a des centaines
+
+323
+00:15:43,610 --> 00:15:47,250
+de virus qui sont bien sûr libérés à
+
+324
+00:15:47,250 --> 00:15:49,410
+la surface de la cellule pour envahir d
+
+325
+00:15:49,410 --> 00:15:51,070
+'autres cellules cibles.
+
+326
+00:15:52,620 --> 00:15:54,420
+Libération par bourgeonnement pour le VIH.
+
+327
+00:15:59,670 --> 00:16:01,490
+Voilà ça on a expliqué la dernière fois.
+
+328
+00:16:01,630 --> 00:16:06,260
+On va passer au troisième cours les mécanismes
+
+329
+00:16:06,260 --> 00:16:07,920
+généraux des infections virales.
+
+330
+00:16:19,440 --> 00:16:21,920
+On en a parlé la dernière fois l
+
+331
+00:16:21,920 --> 00:16:24,560
+'infection virale elle se définit par en fait
+
+332
+00:16:24,560 --> 00:16:26,380
+c'est la conséquence de l'interaction entre
+
+333
+00:16:26,380 --> 00:16:29,040
+la virulence du virus de l'agent infectieux
+
+334
+00:16:29,040 --> 00:16:29,960
+et la réponse de l'autre.
+
+335
+00:16:30,700 --> 00:16:32,120
+Donc pour avoir une infection il y a
+
+336
+00:16:32,120 --> 00:16:35,260
+beaucoup de facteurs qui vont interagir notamment la
+
+337
+00:16:35,260 --> 00:16:38,660
+réponse de notre organisme par rapport au virus
+
+338
+00:16:38,660 --> 00:16:39,540
+et sa virulence.
+
+339
+00:16:40,280 --> 00:16:43,080
+Tous ces facteurs vont interagir pour donner ou
+
+340
+00:16:43,080 --> 00:16:44,840
+pas l'infection virale.
+
+341
+00:16:44,980 --> 00:16:46,520
+Il ne suffit pas d'être en contact
+
+342
+00:16:46,520 --> 00:16:49,300
+avec le virus ou en contact avec un
+
+343
+00:16:49,300 --> 00:16:54,020
+sujet positif pour développer l'infection.
+
+344
+00:16:54,020 --> 00:16:55,580
+Il y a beaucoup de facteurs qui vont
+
+345
+00:16:55,580 --> 00:16:57,800
+interagir pour donner l'infection.
+
+346
+00:16:58,120 --> 00:16:59,800
+C'est pour ça que dans les situations
+
+347
+00:16:59,800 --> 00:17:01,980
+par exemple du coronavirus vous avez des sujets
+
+348
+00:17:01,980 --> 00:17:05,380
+qui vivent sous le même toit et un
+
+349
+00:17:05,380 --> 00:17:07,060
+est négatif et l'autre est positif.
+
+350
+00:17:08,819 --> 00:17:10,200
+Ça ne veut pas dire même s'il
+
+351
+00:17:10,200 --> 00:17:11,880
+y a un contact étroit c'est parce
+
+352
+00:17:11,880 --> 00:17:13,020
+qu'il y a beaucoup de facteurs qui
+
+353
+00:17:13,020 --> 00:17:13,540
+vont agir.
+
+354
+00:17:13,900 --> 00:17:14,680
+On va aller voir lesquels.
+
+355
+00:17:15,180 --> 00:17:17,240
+D'abord la quantité du virion dans l
+
+356
+00:17:17,240 --> 00:17:18,920
+'inoculum c'est à dire la quantité, la
+
+357
+00:17:18,920 --> 00:17:22,000
+concentration du virus qu'on va recevoir.
+
+358
+00:17:22,720 --> 00:17:25,700
+Plus l'inoculum est important, plus le risque
+
+359
+00:17:25,700 --> 00:17:27,720
+de contamination est plus grand.
+
+360
+00:17:28,540 --> 00:17:30,240
+Plus c'est l'inverse, plus le risque
+
+361
+00:17:30,240 --> 00:17:31,660
+de contamination est faible.
+
+362
+00:17:32,560 --> 00:17:33,200
+Ça c'est important.
+
+363
+00:17:33,660 --> 00:17:36,820
+Deuxième chose, la voie d'introduction pour les
+
+364
+00:17:36,820 --> 00:17:39,400
+virus respiratoires par exemple la grippe ou le
+
+365
+00:17:39,400 --> 00:17:41,700
+coronavirus il faut que ça pénètre par les
+
+366
+00:17:41,700 --> 00:17:42,500
+voies respiratoires.
+
+367
+00:17:42,980 --> 00:17:43,860
+Voilà, ça c'est important.
+
+368
+00:17:45,120 --> 00:17:49,020
+Il suffit si on ingère par voie digestible
+
+369
+00:17:49,020 --> 00:17:50,920
+le virus de la grippe il n'y
+
+370
+00:17:50,920 --> 00:17:53,320
+aura pas d'infection parce qu'il ne
+
+371
+00:17:53,320 --> 00:17:55,280
+va pas retrouver les cellules cibles, ça se
+
+372
+00:17:55,280 --> 00:17:57,400
+trouve au niveau des voies respiratoires et pas
+
+373
+00:17:57,400 --> 00:17:58,480
+au niveau digestif.
+
+374
+00:17:58,560 --> 00:17:59,640
+On parle du virus de la grippe par
+
+375
+00:17:59,640 --> 00:17:59,880
+exemple.
+
+376
+00:18:00,580 --> 00:18:03,280
+Et donc la voie d'introduction du virus
+
+377
+00:18:03,280 --> 00:18:07,380
+est importante pour qu'il y ait ou
+
+378
+00:18:07,380 --> 00:18:08,500
+pas l'infection.
+
+379
+00:18:11,020 --> 00:18:13,060
+La vitesse de multiplication il y a des
+
+380
+00:18:13,060 --> 00:18:15,420
+virus qui vont à l'intérieur de la
+
+381
+00:18:15,420 --> 00:18:19,380
+cellule ils vont prendre de 2h à 4h
+
+382
+00:18:19,380 --> 00:18:23,140
+pour se multiplier en milliers de copies et
+
+383
+00:18:23,140 --> 00:18:26,340
+ressortir de la cellule et envahir d'autres
+
+384
+00:18:26,340 --> 00:18:27,040
+cellules.
+
+385
+00:18:27,560 --> 00:18:29,600
+Ça prend parfois 2 à 4h pour certaines
+
+386
+00:18:29,600 --> 00:18:29,940
+familles.
+
+387
+00:18:30,620 --> 00:18:33,280
+Pour d'autres ça prend 20h 22h.
+
+388
+00:18:33,940 --> 00:18:36,680
+Et donc ça dépend du virus combien d
+
+389
+00:18:36,680 --> 00:18:39,180
+'heures pour faire tout un cycle de multiplication.
+
+390
+00:18:39,580 --> 00:18:45,640
+C'est-à-dire attachement, pénétration décapsidation réplication
+
+391
+00:18:47,700 --> 00:18:50,860
+assemblage maturation et libération.
+
+392
+00:18:51,740 --> 00:18:56,440
+Voilà les étapes de multiplication intracellulaire des virus.
+
+393
+00:18:57,540 --> 00:19:00,140
+Et donc toutes ces étapes se déroulent en
+
+394
+00:19:00,140 --> 00:19:00,560
+un temps.
+
+395
+00:19:00,840 --> 00:19:03,180
+En un certain temps tout dépend des virus.
+
+396
+00:19:03,500 --> 00:19:04,180
+Il y en a qui le font en
+
+397
+00:19:04,180 --> 00:19:04,900
+2 à 4h.
+
+398
+00:19:05,440 --> 00:19:07,340
+D'autres virus d'autres familles le font
+
+399
+00:19:07,340 --> 00:19:08,420
+en 20h par exemple.
+
+400
+00:19:11,070 --> 00:19:12,750
+La réponse de l'autre elle dépend de
+
+401
+00:19:12,750 --> 00:19:13,070
+quoi ?
+
+402
+00:19:13,070 --> 00:19:13,950
+Elle dépend de l'âge.
+
+403
+00:19:14,070 --> 00:19:16,510
+Un sujet âgé ce n'est pas la
+
+404
+00:19:16,510 --> 00:19:19,110
+même chose qu'un nourrissant ou qu'un
+
+405
+00:19:19,110 --> 00:19:19,730
+sujet jeune.
+
+406
+00:19:20,490 --> 00:19:23,250
+Donc l'âge aussi est un facteur important
+
+407
+00:19:23,250 --> 00:19:26,350
+qui témoigne de la maturité, de l'immunité
+
+408
+00:19:26,350 --> 00:19:26,810
+etc.
+
+409
+00:19:28,810 --> 00:19:32,610
+La nutrition, l'état nutritionnel aussi parce que
+
+410
+00:19:32,610 --> 00:19:34,690
+bien sûr il y a des infections qui
+
+411
+00:19:34,690 --> 00:19:37,670
+vont sévir principalement dans les milieux précaires où
+
+412
+00:19:37,670 --> 00:19:40,330
+l'alimentation est insuffisante, où il y a
+
+413
+00:19:40,330 --> 00:19:42,470
+une malnutrition par exemple, dans des pays du
+
+414
+00:19:42,470 --> 00:19:44,930
+tiers monde en particulier, par rapport aux autres
+
+415
+00:19:44,930 --> 00:19:48,190
+pays où l'hygiène et la nutrition sont
+
+416
+00:19:48,190 --> 00:19:51,250
+beaucoup plus importantes et beaucoup plus élevées.
+
+417
+00:19:51,410 --> 00:19:54,430
+L'état humoral, l'état immunitaire un sujet
+
+418
+00:19:54,430 --> 00:19:58,850
+immunocompétent va agir mieux par rapport à un
+
+419
+00:19:58,850 --> 00:20:01,670
+sujet immunodéprimé où l'infection peut s'installer
+
+420
+00:20:01,670 --> 00:20:03,230
+très rapidement parce qu'il n'y a
+
+421
+00:20:03,230 --> 00:20:04,830
+pas de réaction immunitaire adaptée.
+
+422
+00:20:05,930 --> 00:20:07,430
+La race parfois, il y a des virus
+
+423
+00:20:07,430 --> 00:20:10,430
+on a dit qui sévissent dans certaines races
+
+424
+00:20:10,430 --> 00:20:11,510
+et pas chez d'autres.
+
+425
+00:20:11,610 --> 00:20:14,750
+Par exemple la fièvre jaune en Afrique subsaharienne,
+
+426
+00:20:15,310 --> 00:20:18,690
+l'encéphalite japonaise en Asie qu'on ne
+
+427
+00:20:18,690 --> 00:20:20,490
+retrouve pas dans les autres pays ou chez
+
+428
+00:20:20,490 --> 00:20:21,030
+d'autres races.
+
+429
+00:20:22,170 --> 00:20:25,590
+La température extérieure bien sûr, on a bien
+
+430
+00:20:25,590 --> 00:20:31,550
+dit, la saison autonome hivernale bien sûr donne
+
+431
+00:20:31,550 --> 00:20:35,550
+l'opportunité à des virus respiratoires beaucoup plus
+
+432
+00:20:35,550 --> 00:20:39,410
+que la saison printanière ou la saison estivale
+
+433
+00:20:39,410 --> 00:20:40,830
+l'été ou le printemps.
+
+434
+00:20:40,830 --> 00:20:42,950
+Donc il y aura deux types de saisons
+
+435
+00:20:42,950 --> 00:20:45,030
+enfin deux grandes, il y a quatre saisons
+
+436
+00:20:45,030 --> 00:20:48,950
+mais deux, et il y aura une double
+
+437
+00:20:48,950 --> 00:20:51,790
+saison où on va voir l'automne-hiver,
+
+438
+00:20:52,030 --> 00:20:54,810
+on va voir des virus respiratoires et le
+
+439
+00:20:54,810 --> 00:20:58,850
+printemps-été on va voir d'autres virus
+
+440
+00:20:58,850 --> 00:20:59,450
+qui vont sévir.
+
+441
+00:21:00,570 --> 00:21:03,770
+Donc tous ces éléments-là, la quantité du
+
+442
+00:21:03,770 --> 00:21:06,130
+virus dans l'inoculum, la voie d'introduction
+
+443
+00:21:06,130 --> 00:21:08,430
+dans l'organisme, la vitesse de multiplication du
+
+444
+00:21:08,430 --> 00:21:11,770
+virus, l'âge de l'individu, l'état
+
+445
+00:21:11,770 --> 00:21:15,810
+nutritionnel, son état humoral, sa race, la température
+
+446
+00:21:15,810 --> 00:21:18,710
+de son environnement, tous ces éléments vont interagir
+
+447
+00:21:18,710 --> 00:21:20,590
+pour donner ou pas l'infection, c'est
+
+448
+00:21:20,590 --> 00:21:22,590
+très important, il ne suffit pas d'être
+
+449
+00:21:22,590 --> 00:21:24,530
+en contact avec un virus ou un sujet
+
+450
+00:21:24,530 --> 00:21:27,690
+positif pour devenir positif et pour être contaminé
+
+451
+00:21:27,690 --> 00:21:28,690
+et pour faire l'infection.
+
+452
+00:21:32,470 --> 00:21:34,450
+Donc on en a parlé, le réservoir ça
+
+453
+00:21:34,450 --> 00:21:35,550
+peut être l'homme, ça peut être l
+
+454
+00:21:35,550 --> 00:21:38,550
+'animal, ça peut être l'homme asymptomatique, ça
+
+455
+00:21:38,550 --> 00:21:40,970
+peut être d'ailleurs le problème du coronavirus,
+
+456
+00:21:41,650 --> 00:21:44,010
+c'est que plus de 50% des
+
+457
+00:21:44,010 --> 00:21:46,870
+individus sont asymptomatiques et ils restent contagieux.
+
+458
+00:21:48,710 --> 00:21:50,550
+Malheureusement, c'est en fait la source de
+
+459
+00:21:50,550 --> 00:21:53,070
+la problématique de la propagation de ce virus.
+
+460
+00:21:56,890 --> 00:22:00,330
+Voilà, on a vu tout ça, les voies
+
+461
+00:22:00,330 --> 00:22:08,120
+de pénétration, le tractus respiratoire, le tractus digestif,
+
+462
+00:22:08,260 --> 00:22:11,800
+donc les voies principales de pénétration de virus,
+
+463
+00:22:12,000 --> 00:22:13,780
+on en a vu les virus respiratoires, les
+
+464
+00:22:13,780 --> 00:22:18,020
+virus digestifs comme le rotavirus et les rotavirus,
+
+465
+00:22:18,800 --> 00:22:24,480
+les enterovirus par exemple, l'hépatite A, l
+
+466
+00:22:24,480 --> 00:22:27,700
+'hépatite E, les virus de transmission féco-oral,
+
+467
+00:22:27,800 --> 00:22:32,720
+oro-fécale, la transmission respiratoire pour les virus
+
+468
+00:22:32,720 --> 00:22:35,300
+comme la grippe, le virus respiratoire syncytial, les
+
+469
+00:22:35,300 --> 00:22:38,160
+oreillons, la rougeole, la varicelle, elle se transmet
+
+470
+00:22:38,160 --> 00:22:42,380
+aussi par voie respiratoire, le coronavirus aussi, la
+
+471
+00:22:42,380 --> 00:22:47,400
+peau, elle est infranchissable quand elle est intacte,
+
+472
+00:22:47,540 --> 00:22:49,440
+mais dès qu'il y a une lésion
+
+473
+00:22:49,440 --> 00:22:51,860
+ou une effraction par des seringues par exemple
+
+474
+00:22:51,860 --> 00:22:54,960
+ce que vous voyez ici, chez les toxicomanes,
+
+475
+00:22:55,500 --> 00:22:59,440
+des seringues contaminées, on peut être contaminé par
+
+476
+00:22:59,440 --> 00:23:01,660
+le VIH, l'hépatite B ou l'hépatite
+
+477
+00:23:01,660 --> 00:23:06,040
+C, pour les morsures de chiens par exemple,
+
+478
+00:23:06,200 --> 00:23:07,640
+lorsqu'on est mordu, la peau est intacte,
+
+479
+00:23:07,680 --> 00:23:10,440
+mais lorsqu'on est mordu par un chien
+
+480
+00:23:10,440 --> 00:23:13,820
+enragé, on peut être contaminé par le virus
+
+481
+00:23:13,820 --> 00:23:16,240
+de la rage qui est une encéphalite mortelle.
+
+482
+00:23:17,460 --> 00:23:19,120
+Les arbovirus en fait, ce sont des virus
+
+483
+00:23:19,120 --> 00:23:22,800
+qui sont transmis par des arthropodes comme les
+
+484
+00:23:22,800 --> 00:23:26,160
+moustiques qui peuvent bien sûr en sucçant le
+
+485
+00:23:26,160 --> 00:23:29,840
+sang transmettre les virus, c'est des arbovirus
+
+486
+00:23:29,840 --> 00:23:31,720
+comme la fièvre jaune, comme la dengue, comme
+
+487
+00:23:31,720 --> 00:23:33,140
+le zika virus, on va voir ça par
+
+488
+00:23:33,140 --> 00:23:33,440
+la suite.
+
+489
+00:23:37,820 --> 00:23:39,880
+Les gens qui ont conjonctivite virale aussi, la
+
+490
+00:23:39,880 --> 00:23:42,540
+conjonctive peut être une voie de transmission comme
+
+491
+00:23:42,540 --> 00:23:45,400
+le tractus génital, les infections sexuellement transmissibles, on
+
+492
+00:23:45,400 --> 00:23:49,960
+les a vu, la transmission verticale de la
+
+493
+00:23:49,960 --> 00:23:50,960
+mère à l'enfant aussi.
+
+494
+00:23:57,420 --> 00:23:59,320
+Alors après bien sûr, il y a les
+
+495
+00:23:59,320 --> 00:24:03,120
+incubations, l'incubation c'est le temps entre
+
+496
+00:24:03,120 --> 00:24:06,180
+l'exposition et l'apparition des premiers signes
+
+497
+00:24:06,180 --> 00:24:09,580
+cliniques, s'ils apparaissent, parce que parfois le
+
+498
+00:24:09,580 --> 00:24:12,900
+sujet est asymptomatique, mais lorsque il y a
+
+499
+00:24:12,900 --> 00:24:15,640
+cette période, elle est variable en fonction des
+
+500
+00:24:15,640 --> 00:24:17,720
+virus, en fonction de la charge du virus,
+
+501
+00:24:18,020 --> 00:24:18,220
+etc.
+
+502
+00:24:18,940 --> 00:24:20,800
+Et donc vous voyez ici que par exemple
+
+503
+00:24:20,800 --> 00:24:24,840
+le rotavirus a une durée d'incubation, elle
+
+504
+00:24:24,840 --> 00:24:26,160
+est très rapide parce qu'il est ingéré
+
+505
+00:24:26,160 --> 00:24:27,500
+par voie digestible et c'est là où
+
+506
+00:24:27,500 --> 00:24:30,480
+il va retrouver les séducibles et donc il
+
+507
+00:24:30,480 --> 00:24:33,020
+va être à l'origine des gastroenterites ou
+
+508
+00:24:33,020 --> 00:24:33,740
+diarrhées virales.
+
+509
+00:24:34,860 --> 00:24:38,040
+La grippe aussi, la durée est plus courte,
+
+510
+00:24:38,180 --> 00:24:39,760
+quelques jours, 2-3 jours.
+
+511
+00:24:41,000 --> 00:24:44,160
+Et puis vous voyez qu'on peut aller
+
+512
+00:24:44,160 --> 00:24:48,300
+jusqu'à 100 jours, voire 200 jours pour
+
+513
+00:24:48,300 --> 00:24:49,480
+certains virus.
+
+514
+00:24:50,520 --> 00:24:52,960
+Voilà, donc 2 mois, 3 mois à plus.
+
+515
+00:24:53,740 --> 00:24:58,240
+Le coronavirus, c'est plutôt, on considère que
+
+516
+00:24:58,240 --> 00:25:01,860
+la durée d'incubation elle est de 5
+
+517
+00:25:01,860 --> 00:25:04,920
+jours en moyenne, 7 jours en général, et
+
+518
+00:25:04,920 --> 00:25:07,600
+ça peut aller jusqu'à 14 jours, exceptionnellement.
+
+519
+00:25:07,960 --> 00:25:09,820
+En général, c'est une moyenne d'incubation
+
+520
+00:25:09,820 --> 00:25:10,820
+de 5 à 7 jours.
+
+521
+00:25:10,960 --> 00:25:13,520
+Donc on peut être en contact avec un
+
+522
+00:25:13,520 --> 00:25:16,480
+sujet positif aujourd'hui et ne développer les
+
+523
+00:25:16,480 --> 00:25:18,900
+symptômes que 5 jours après.
+
+524
+00:25:19,380 --> 00:25:22,440
+Et donc être négatif entre cette période d
+
+525
+00:25:22,440 --> 00:25:27,060
+'incubation, être négatif par les techniques PCR éventuellement.
+
+526
+00:25:27,520 --> 00:25:28,820
+On peut le détecter au bout de 3
+
+527
+00:25:28,820 --> 00:25:32,620
+jours, 2 jours avant l'apparition de la
+
+528
+00:25:32,620 --> 00:25:37,580
+symptomatologie lorsque, bien sûr, une symptomatologie s'installe.
+
+529
+00:25:37,580 --> 00:25:40,020
+Ça c'est un élément important à souligner.
+
+530
+00:25:41,360 --> 00:25:45,180
+Parce que parfois, le sujet contact d'un
+
+531
+00:25:45,180 --> 00:25:49,140
+sujet positif au coronavirus viennent faire leur PCR
+
+532
+00:25:49,140 --> 00:25:51,800
+le jour même ou le lendemain lorsqu'ils
+
+533
+00:25:51,800 --> 00:25:57,140
+savent, lorsqu'ils ont su que leur cas
+
+534
+00:25:57,140 --> 00:25:59,260
+a été positif et la PCR est négative
+
+535
+00:25:59,260 --> 00:26:00,500
+alors qu'il est en temps d'incubation.
+
+536
+00:26:01,020 --> 00:26:04,820
+Va falloir revenir 5 jours après pour confirmer
+
+537
+00:26:04,820 --> 00:26:06,320
+ou pas la contamination.
+
+538
+00:26:06,580 --> 00:26:07,720
+Et ça c'est un élément important.
+
+539
+00:26:07,720 --> 00:26:11,960
+Alors, la peau aussi, on en a parlé.
+
+540
+00:26:13,140 --> 00:26:18,780
+Les éruptions maculopapuleuses ou encore les éruptions vesiculeuses
+
+541
+00:26:18,780 --> 00:26:19,760
+comme la varicelle.
+
+542
+00:26:20,660 --> 00:26:23,260
+Les éruptions maculopapuleuses comme la rougeole par exemple.
+
+543
+00:26:29,430 --> 00:26:31,930
+Le système nerveux central peut être aussi une
+
+544
+00:26:31,930 --> 00:26:34,690
+cible comme le foie pour les hépatites virales.
+
+545
+00:26:35,470 --> 00:26:39,410
+C'est hématopoïétique aussi mais ça peut être
+
+546
+00:26:39,410 --> 00:26:41,070
+une cible par exemple les érythroblastes.
+
+547
+00:26:41,070 --> 00:26:44,150
+Les cellules mères des globules rouges par le
+
+548
+00:26:44,150 --> 00:26:45,430
+virus P19 par exemple.
+
+549
+00:26:48,040 --> 00:26:48,200
+Voilà.
+
+550
+00:26:51,920 --> 00:26:52,860
+Ça on a vu.
+
+551
+00:26:53,980 --> 00:27:00,300
+Et donc on passe maintenant au vaccin.
+
+552
+00:27:09,780 --> 00:27:12,540
+Alors les vaccins, bien sûr que pourquoi on
+
+553
+00:27:12,540 --> 00:27:14,660
+va parler des vaccins parce que ça reste
+
+554
+00:27:14,660 --> 00:27:17,280
+une arbre redoutable contre les infections, les maladies
+
+555
+00:27:17,280 --> 00:27:17,900
+infectieuses.
+
+556
+00:27:18,820 --> 00:27:21,280
+Bien sûr c'est un sujet d'actualité
+
+557
+00:27:21,280 --> 00:27:24,300
+aujourd'hui particulièrement pour le coronavirus puisqu'on
+
+558
+00:27:24,300 --> 00:27:29,680
+attend bien sûr la vaccination qui est en
+
+559
+00:27:29,680 --> 00:27:33,880
+cours de production voire en cours d'acheminement
+
+560
+00:27:34,660 --> 00:27:37,000
+et donc bientôt dans quelques jours voire quelques
+
+561
+00:27:37,000 --> 00:27:41,540
+semaines la population marocaine va bien sûr être
+
+562
+00:27:41,540 --> 00:27:44,040
+vaccinée contre le coronavirus.
+
+563
+00:27:44,620 --> 00:27:46,180
+On l'espère très bien parce que ça
+
+564
+00:27:46,180 --> 00:27:49,800
+reste une arme très efficace contre la propagation
+
+565
+00:27:49,800 --> 00:27:52,760
+du virus pour que les gens redeviennent, que
+
+566
+00:27:52,760 --> 00:27:54,340
+la vie redevienne normale.
+
+567
+00:27:56,000 --> 00:27:59,120
+Alors d'abord les vaccins en général ça
+
+568
+00:27:59,120 --> 00:28:01,180
+sauve 2 millions d'individus par an.
+
+569
+00:28:01,400 --> 00:28:02,480
+Ça c'est un élément important.
+
+570
+00:28:02,600 --> 00:28:04,020
+Il y a des réticences vaccinales, il y
+
+571
+00:28:04,020 --> 00:28:07,780
+a des hésitations vaccinales parce que ce qui
+
+572
+00:28:07,780 --> 00:28:09,940
+circule dans les réseaux sociaux est une catastrophe.
+
+573
+00:28:10,460 --> 00:28:11,420
+Il ne faut pas croire à tout ce
+
+574
+00:28:11,420 --> 00:28:11,780
+qu'on dit.
+
+575
+00:28:12,840 --> 00:28:15,900
+Les vaccins ont fait disparaître beaucoup de maladies
+
+576
+00:28:15,900 --> 00:28:16,580
+infectieuses.
+
+577
+00:28:17,720 --> 00:28:18,100
+D'accord ?
+
+578
+00:28:18,100 --> 00:28:19,560
+Ça c'est un élément important.
+
+579
+00:28:19,560 --> 00:28:22,040
+Les vaccins sont très efficaces.
+
+580
+00:28:22,340 --> 00:28:24,700
+Il y a parfois un risque mais le
+
+581
+00:28:24,700 --> 00:28:26,160
+bénéfice est considérable.
+
+582
+00:28:26,920 --> 00:28:29,180
+Il y a un rapport bénéfice-risque mais
+
+583
+00:28:29,180 --> 00:28:32,360
+le bénéfice est tellement important pour la population
+
+584
+00:28:32,360 --> 00:28:33,340
+qu'il faut se vacciner.
+
+585
+00:28:34,640 --> 00:28:36,820
+Ça sauve chaque année 2 millions de vaccins.
+
+586
+00:28:37,140 --> 00:28:38,680
+D'ailleurs on ne se vaccine pas pour
+
+587
+00:28:38,680 --> 00:28:39,140
+soi-même.
+
+588
+00:28:39,600 --> 00:28:40,700
+Les gens se trempent.
+
+589
+00:28:40,840 --> 00:28:43,820
+Ils croient que s'ils refusent de se
+
+590
+00:28:43,820 --> 00:28:46,080
+vacciner c'est parce qu'ils ne souhaitent
+
+591
+00:28:46,080 --> 00:28:47,700
+pas être vaccinés c'est pour qu'ils
+
+592
+00:28:47,700 --> 00:28:48,600
+ne soient pas contaminés.
+
+593
+00:28:49,400 --> 00:28:51,380
+On se vaccine pour soi-même et pour
+
+594
+00:28:51,380 --> 00:28:51,880
+les autres.
+
+595
+00:28:52,640 --> 00:28:54,260
+Parce que si on ne se vaccine pas
+
+596
+00:28:54,260 --> 00:28:57,180
+et qu'on se contamine, on contamine les
+
+597
+00:28:57,180 --> 00:28:57,460
+autres.
+
+598
+00:28:57,760 --> 00:28:59,280
+C'est très important à souligner.
+
+599
+00:28:59,740 --> 00:29:01,560
+On ne se vaccine pas uniquement pour soi
+
+600
+00:29:01,560 --> 00:29:01,780
+-même.
+
+601
+00:29:02,120 --> 00:29:03,600
+Ce n'est pas un choix individuel.
+
+602
+00:29:03,720 --> 00:29:04,900
+C'est un choix collectif.
+
+603
+00:29:08,740 --> 00:29:10,120
+C'est quoi un vaccin ?
+
+604
+00:29:10,120 --> 00:29:13,700
+C'est une préparation antigénique des dérivés d
+
+605
+00:29:13,700 --> 00:29:17,740
+'un agent pathogène spécifique capable c'est une
+
+606
+00:29:17,740 --> 00:29:21,900
+définition très importante à souligner, capable d'induire
+
+607
+00:29:21,900 --> 00:29:24,560
+chez un sujet réceptif il faut que le
+
+608
+00:29:24,560 --> 00:29:29,400
+sujet soit réceptif une réaction immunitaire protectrice contre
+
+609
+00:29:29,400 --> 00:29:30,260
+cet agent pathogène.
+
+610
+00:29:30,740 --> 00:29:33,620
+Un vaccin c'est une préparation antigénique on
+
+611
+00:29:33,620 --> 00:29:36,560
+va voir les types de vaccins dérivés d
+
+612
+00:29:36,560 --> 00:29:40,680
+'un agent pathogène capable d'induire de provoquer
+
+613
+00:29:40,680 --> 00:29:43,480
+chez un sujet qui va la recevoir qui
+
+614
+00:29:43,480 --> 00:29:46,840
+est réceptif et qui est capable d'induire
+
+615
+00:29:46,840 --> 00:29:51,960
+une réaction immunitaire protectrice contre cet agent pathogène.
+
+616
+00:29:52,820 --> 00:29:54,320
+Il y a une infection mutérielle.
+
+617
+00:29:58,570 --> 00:30:02,210
+Donc en fait la vaccination réalise une immunoprophylaxie
+
+618
+00:30:02,210 --> 00:30:04,590
+active qui est en fait une protection qui
+
+619
+00:30:04,590 --> 00:30:06,150
+est différée c'est-à-dire lorsque l
+
+620
+00:30:06,150 --> 00:30:07,550
+'on se vaccine aujourd'hui on ne se
+
+621
+00:30:07,550 --> 00:30:09,650
+protège pas, on n'est pas protégé aujourd
+
+622
+00:30:09,650 --> 00:30:09,890
+'hui.
+
+623
+00:30:10,170 --> 00:30:11,750
+Ça prend du temps pour le développer les
+
+624
+00:30:11,750 --> 00:30:12,190
+anticorps.
+
+625
+00:30:12,490 --> 00:30:15,190
+Donc c'est une protection différée dans le
+
+626
+00:30:15,190 --> 00:30:17,110
+temps elle va arriver par la suite, dans
+
+627
+00:30:17,110 --> 00:30:19,330
+15 jours dans 3 semaines, etc.
+
+628
+00:30:19,550 --> 00:30:21,870
+quand on va développer les anticorps après la
+
+629
+00:30:21,870 --> 00:30:24,930
+vaccination et qui est durable dans le temps
+
+630
+00:30:24,930 --> 00:30:26,950
+c'est ce qui est souhaité par la
+
+631
+00:30:26,950 --> 00:30:31,550
+vaccination par contre l'inverse, la séroprévention c
+
+632
+00:30:31,550 --> 00:30:34,770
+'est-à-dire lorsqu'on va administrer ou
+
+633
+00:30:34,770 --> 00:30:40,770
+injecter des immunoglobulines déjà prêtes déjà fabriquées on
+
+634
+00:30:40,770 --> 00:30:42,430
+va les injecter c'est pour une réaction
+
+635
+00:30:42,430 --> 00:30:47,090
+immédiate mais transitoire elle va disparaître, elle va
+
+636
+00:30:47,090 --> 00:30:50,350
+agir rapidement comme le sérum anti-tétanique par
+
+637
+00:30:50,350 --> 00:30:50,670
+exemple.
+
+638
+00:30:51,190 --> 00:30:55,230
+C'est une séroprévention par des immunoglobulines humaines
+
+639
+00:30:55,230 --> 00:30:56,770
+d'accord ?
+
+640
+00:30:56,770 --> 00:30:57,750
+Ce n'est pas la même chose que
+
+641
+00:30:57,750 --> 00:30:58,330
+la vaccination.
+
+642
+00:30:58,870 --> 00:31:01,990
+La vaccination elle va provoquer une réaction différée
+
+643
+00:31:01,990 --> 00:31:07,400
+dans le temps mais qui est durable alors
+
+644
+00:31:07,400 --> 00:31:10,160
+vous avez deux grands types de vaccins.
+
+645
+00:31:10,300 --> 00:31:12,040
+Les vaccins vivants Atenus, c'est-à-dire
+
+646
+00:31:12,040 --> 00:31:15,240
+à base de virus vivants, d'agents pathogènes
+
+647
+00:31:15,240 --> 00:31:19,800
+vivants qui vont induire une protection immunitaire proche
+
+648
+00:31:19,800 --> 00:31:22,300
+de celle qui succède à une infection naturelle
+
+649
+00:31:22,300 --> 00:31:27,080
+c'est comme si on va être infecté
+
+650
+00:31:27,080 --> 00:31:30,340
+naturellement sauf qu'on va recevoir dans le
+
+651
+00:31:30,340 --> 00:31:33,140
+vaccin un virus vivant mais dans la virulence
+
+652
+00:31:33,140 --> 00:31:35,500
+est atténué de telle manière à ce qu
+
+653
+00:31:35,500 --> 00:31:39,200
+'on fasse une infection pas une infection une
+
+654
+00:31:39,200 --> 00:31:43,100
+réaction immunitaire comme celle d'une infection naturelle
+
+655
+00:31:43,100 --> 00:31:44,980
+au prix d'une infection asymptomatique c'est
+
+656
+00:31:44,980 --> 00:31:47,200
+comme si on faisait une infection asymptomatique ou
+
+657
+00:31:47,200 --> 00:31:50,520
+à peine apparente ça c'est la vaccination
+
+658
+00:31:50,520 --> 00:31:53,340
+par les vaccins vivants atténués ce qui n
+
+659
+00:31:53,340 --> 00:31:54,740
+'est pas le cas pour le vaccin du
+
+660
+00:31:54,740 --> 00:31:58,060
+coronavirus qu'on va recevoir incessamment les vaccins
+
+661
+00:31:58,060 --> 00:32:01,760
+inertes sont capables de provoquer après plusieurs doses
+
+662
+00:32:01,760 --> 00:32:04,580
+parce que le vaccin vivant à base de
+
+663
+00:32:04,580 --> 00:32:07,600
+virus vivant il va se répliquer donc il
+
+664
+00:32:07,600 --> 00:32:09,920
+y aura une réaction immunitaire au fur et
+
+665
+00:32:09,920 --> 00:32:12,540
+à mesure on n'a pas toujours besoin
+
+666
+00:32:12,540 --> 00:32:15,580
+d'un rappel ce qui n'est pas
+
+667
+00:32:15,580 --> 00:32:20,720
+le cas des vaccins inertes qui vont nécessiter
+
+668
+00:32:20,720 --> 00:32:26,180
+plusieurs doses ou un rappel au moins alors
+
+669
+00:32:26,180 --> 00:32:28,380
+les vaccins inertes il y a les vaccins
+
+670
+00:32:28,380 --> 00:32:31,680
+inactivés complets c'est à dire que le
+
+671
+00:32:31,680 --> 00:32:36,100
+vaccin va être bien sûr à base de
+
+672
+00:32:36,100 --> 00:32:37,900
+bactéries par exemple lorsqu'il s'agit d
+
+673
+00:32:37,900 --> 00:32:42,580
+'un vaccin antibactérien ou de virus qui vont
+
+674
+00:32:42,580 --> 00:32:46,440
+être bien sûr tués par la chaleur, ce
+
+675
+00:32:46,440 --> 00:32:48,180
+n'est pas vivant on ne parle pas
+
+676
+00:32:48,180 --> 00:32:51,260
+de virus vivant ou de bactéries vivantes on
+
+677
+00:32:51,260 --> 00:32:54,040
+va tuer cet agent pathogène par la chaleur,
+
+678
+00:32:54,180 --> 00:32:56,840
+par le hormone par la bêta propiolactone il
+
+679
+00:32:56,840 --> 00:32:58,720
+y a des technologies qui permettent de les
+
+680
+00:32:58,720 --> 00:33:02,500
+tuer et de garder cette immunogénicité c'est
+
+681
+00:33:02,500 --> 00:33:06,000
+à dire ces protéines qui vont lorsqu'on
+
+682
+00:33:06,000 --> 00:33:11,080
+va administrer aux patients une réaction immunitaire protectrice
+
+683
+00:33:11,080 --> 00:33:15,100
+par la suite il y a parfois on
+
+684
+00:33:15,100 --> 00:33:18,820
+peut prendre une partie du virus une fraction
+
+685
+00:33:18,820 --> 00:33:22,360
+antigénique ou de la bactérie de la capsule
+
+686
+00:33:22,360 --> 00:33:24,480
+par exemple la capsule c'est la bactérie
+
+687
+00:33:25,280 --> 00:33:30,760
+des toxines détoxifiées des protéines aussi des protéines
+
+688
+00:33:30,760 --> 00:33:36,360
+membranaires de l'enveloppe virale par exemple et
+
+689
+00:33:36,360 --> 00:33:38,280
+donc pour ça il y a plusieurs technologies
+
+690
+00:33:38,780 --> 00:33:40,560
+comme le passage cellulaire en série c'est
+
+691
+00:33:40,560 --> 00:33:42,280
+à dire par exemple on va épuiser le
+
+692
+00:33:42,280 --> 00:33:47,040
+virus pour les virus vivants atténuer sa virulence
+
+693
+00:33:47,040 --> 00:33:48,880
+on va le faire passer en plusieurs séries
+
+694
+00:33:48,880 --> 00:33:51,240
+en culture cellulaire c'est à dire on
+
+695
+00:33:51,240 --> 00:33:53,740
+va prendre le surnageant on va le récupérer
+
+696
+00:33:53,740 --> 00:33:56,080
+plein de virus et on va le remettre
+
+697
+00:33:56,080 --> 00:33:58,120
+dans une autre lignée cellulaire il va encore
+
+698
+00:33:58,120 --> 00:34:01,020
+s'adapter il va muter pour se répliquer
+
+699
+00:34:01,800 --> 00:34:04,380
+parce que il va faire un effort et
+
+700
+00:34:04,380 --> 00:34:06,680
+tout ça et donc il va changer l
+
+701
+00:34:06,680 --> 00:34:09,699
+'information génétique pour se répliquer parce que c
+
+702
+00:34:09,699 --> 00:34:11,380
+'est une nouvelle lignée cellulaire à laquelle il
+
+703
+00:34:11,380 --> 00:34:12,860
+doit s'adapter et donc on va faire
+
+704
+00:34:12,860 --> 00:34:15,780
+cette opération à plusieurs reprises sur plusieurs lignées
+
+705
+00:34:16,420 --> 00:34:19,440
+et donc à la fin on va on
+
+706
+00:34:19,440 --> 00:34:22,480
+va avoir un virus qui est largement atténué
+
+707
+00:34:22,480 --> 00:34:25,679
+qui est toujours intact qui est toujours vivant
+
+708
+00:34:25,679 --> 00:34:28,239
+mais qui n'est plus virulent c'est
+
+709
+00:34:28,239 --> 00:34:31,400
+ça le but recherché par les vaccins à
+
+710
+00:34:31,400 --> 00:34:34,440
+base de virus vivants atténués donc il y
+
+711
+00:34:34,440 --> 00:34:36,040
+a cette technologie de passe à cellulaire en
+
+712
+00:34:36,040 --> 00:34:38,120
+série il y a parfois le changement de
+
+713
+00:34:38,120 --> 00:34:40,020
+température c'est une technologie qu'on peut
+
+714
+00:34:40,020 --> 00:34:41,480
+c'est à dire il est à 37
+
+715
+00:34:41,480 --> 00:34:43,659
+degrés c'est la température optimale on le
+
+716
+00:34:43,659 --> 00:34:45,719
+laisse se multiplier après on change de température
+
+717
+00:34:45,719 --> 00:34:47,920
+à 33 degrés il va souffrir, il va
+
+718
+00:34:47,920 --> 00:34:51,800
+muter et donc pour se répliquer ces mutations
+
+719
+00:34:51,800 --> 00:34:55,219
+vont affaiblir sa virulence il y a le
+
+720
+00:34:55,219 --> 00:34:58,220
+réassortiment génétique et on peut même utiliser des
+
+721
+00:34:58,220 --> 00:35:01,520
+virus non pathogènes chez l'animal chez l
+
+722
+00:35:01,520 --> 00:35:03,300
+'homme comme le virus de la vaccine qui
+
+723
+00:35:03,300 --> 00:35:08,540
+a permis d'éradiquer la variole donc les
+
+724
+00:35:08,540 --> 00:35:14,460
+réponses immunitaires on en a parlé regardez ici
+
+725
+00:35:14,460 --> 00:35:18,200
+le vaccin vivant atténué une injection initiale après
+
+726
+00:35:18,200 --> 00:35:20,060
+il y a une amplification de la dose
+
+727
+00:35:20,060 --> 00:35:23,400
+injectée et donc une réaction immunitaire alors que
+
+728
+00:35:23,400 --> 00:35:25,400
+pour le vaccin inactivé il prend une première
+
+729
+00:35:25,400 --> 00:35:28,480
+injection et une deuxième voire une deuxième par
+
+730
+00:35:28,480 --> 00:35:30,220
+exemple celui du coronavirus qu'on va recevoir
+
+731
+00:35:30,220 --> 00:35:32,220
+au Maroc il va falloir faire un rappel
+
+732
+00:35:32,740 --> 00:35:34,660
+parce que c'est un vaccin inactivé ce
+
+733
+00:35:34,660 --> 00:35:36,140
+n'est pas un virus vivant c'est
+
+734
+00:35:36,140 --> 00:35:41,160
+un vaccin inactivé il y a beaucoup de
+
+735
+00:35:41,160 --> 00:35:43,280
+facteurs qui influencent la réponse immunitaire l'âge
+
+736
+00:35:43,280 --> 00:35:46,360
+bien sûr la réaction chez l'enfant chez
+
+737
+00:35:46,360 --> 00:35:47,960
+le nourrissant c'est pas la même qu
+
+738
+00:35:47,960 --> 00:35:51,360
+'un sujet âgé etc les déficits immunitaires un
+
+739
+00:35:51,360 --> 00:35:54,460
+sujet immunodéprimé est-ce qu'il est utile
+
+740
+00:35:54,460 --> 00:35:57,480
+de le vacciner est-ce qu'il va
+
+741
+00:35:57,480 --> 00:35:59,400
+développer une réaction immunitaire plus qu'un déficit
+
+742
+00:35:59,400 --> 00:36:01,900
+immunitaire c'est important les facteurs génétiques il
+
+743
+00:36:01,900 --> 00:36:04,040
+y a des variations inter-individuelles qui font
+
+744
+00:36:04,040 --> 00:36:07,660
+que certains réagissent positivement à la vaccination d
+
+745
+00:36:07,660 --> 00:36:11,370
+'autres non mais c'est très rare les
+
+746
+00:36:11,370 --> 00:36:16,290
+effets indésirables etc contraindications il y a plusieurs
+
+747
+00:36:16,290 --> 00:36:18,670
+vaccins donc il y a une nouvelle approche
+
+748
+00:36:18,670 --> 00:36:21,790
+vaccinale les vaccins à base de peptides synthétiques
+
+749
+00:36:21,790 --> 00:36:24,770
+ça existe déjà à base d'antigènes viraux
+
+750
+00:36:24,770 --> 00:36:27,970
+à base de virus trombinants vivants il y
+
+751
+00:36:27,970 --> 00:36:31,350
+a à base d'ADNU carrément on met
+
+752
+00:36:31,350 --> 00:36:33,350
+des vaccins à base d'ADNU ou encore
+
+753
+00:36:33,350 --> 00:36:36,030
+à base de plantes transgéniques comme le vaccin
+
+754
+00:36:36,030 --> 00:36:40,170
+qui a été testé chez les singes dans
+
+755
+00:36:40,170 --> 00:36:43,290
+une banane transgénique où il y avait des
+
+756
+00:36:43,290 --> 00:36:50,730
+protéines qui codent bien sûr des protéines de
+
+757
+00:36:50,730 --> 00:36:55,450
+l'antigène HPS donc et puis ça a
+
+758
+00:36:55,450 --> 00:37:00,010
+suscité une réaction immunitaire chez les singes et
+
+759
+00:37:00,010 --> 00:37:02,590
+ça a développé des anticorps des plantes transgéniques
+
+760
+00:37:02,590 --> 00:37:05,270
+peut-être qu'éventuellement un jour ou l
+
+761
+00:37:05,270 --> 00:37:08,130
+'autre on va avoir des vaccins à base
+
+762
+00:37:08,130 --> 00:37:10,450
+de bananes transgéniques il suffit de manger une
+
+763
+00:37:10,450 --> 00:37:12,530
+banane pour être vacciné ou une tomate pour
+
+764
+00:37:12,530 --> 00:37:15,050
+être vacciné on l'espère bien un jour
+
+765
+00:37:15,050 --> 00:37:16,710
+mais c'est des technologies qui sont en
+
+766
+00:37:16,710 --> 00:37:19,150
+cours de développement à base de plantes transgéniques
+
+767
+00:37:19,650 --> 00:37:21,470
+ce qui est en train de se développer
+
+768
+00:37:21,470 --> 00:37:23,590
+actuellement qui a été développé depuis 5 ans
+
+769
+00:37:23,590 --> 00:37:25,790
+pour le virus du VIH pour l'hépatite
+
+770
+00:37:25,790 --> 00:37:28,950
+C pour les herpès aussi mais ça n
+
+771
+00:37:28,950 --> 00:37:33,370
+'a pas encore abouti pour ces vaccins à
+
+772
+00:37:33,370 --> 00:37:36,890
+base d'ARN le fast-track pour le
+
+773
+00:37:36,890 --> 00:37:39,390
+coronavirus l'a permis très rapidement d'ailleurs
+
+774
+00:37:40,470 --> 00:37:43,190
+ces vaccins à base d'ARN comme celui
+
+775
+00:37:43,190 --> 00:37:47,010
+de Pfizer ou de Moderna ils sont en
+
+776
+00:37:47,010 --> 00:37:51,530
+cours de production actuellement et ils sont apparus
+
+777
+00:37:51,530 --> 00:37:54,330
+bien avant celui du VIH ou de l
+
+778
+00:37:54,330 --> 00:37:55,970
+'hépatite C ou de l'herpès qui était
+
+779
+00:37:55,970 --> 00:38:00,470
+5 ans auparavant en cours de recherche et
+
+780
+00:38:00,470 --> 00:38:05,050
+donc la nécessité planétaire d'avoir cette technologie
+
+781
+00:38:05,050 --> 00:38:09,690
+à disposition fait que le coronavirus bien sûr
+
+782
+00:38:09,690 --> 00:38:12,570
+a eu plus de succès très rapidement puisque
+
+783
+00:38:12,570 --> 00:38:16,130
+la recherche a avancé très rapidement par rapport
+
+784
+00:38:16,130 --> 00:38:18,450
+aux autres vaccins donc il y a des
+
+785
+00:38:18,450 --> 00:38:21,030
+vaccins à base d'ARN ce n'est
+
+786
+00:38:21,030 --> 00:38:24,070
+pas le chinois que nous allons recevoir c
+
+787
+00:38:24,070 --> 00:38:26,050
+'est celui de Pfizer ou de Moderna par
+
+788
+00:38:26,050 --> 00:38:28,150
+exemple et donc c'est une technologie qui
+
+789
+00:38:28,150 --> 00:38:33,290
+est sûre qui est intéressante qui a produit
+
+790
+00:38:33,290 --> 00:38:37,170
+des vaccins efficaces aussi en tout cas les
+
+791
+00:38:37,170 --> 00:38:41,450
+volontaires qui ont été vaccinés jusqu'à maintenant,
+
+792
+00:38:41,970 --> 00:38:43,850
+il y a quelques mois n'ont pas
+
+793
+00:38:43,850 --> 00:38:46,050
+développé de toxicité ni de problèmes de faits
+
+794
+00:38:46,050 --> 00:38:48,210
+indésirables et en plus il y a une
+
+795
+00:38:48,210 --> 00:38:53,070
+réaction immunitaire adaptée et protectrice contre l'infection
+
+796
+00:38:53,070 --> 00:38:54,590
+au coronavirus et ça c'est un élément
+
+797
+00:38:54,590 --> 00:38:58,670
+important alors, la chimiothérapie antivirale s'il vous
+
+798
+00:38:58,670 --> 00:39:03,450
+plaît monsieur pour l'efficacité des deux vaccins
+
+799
+00:39:05,910 --> 00:39:08,110
+vivant athénio et le vaccin inert est-ce
+
+800
+00:39:08,110 --> 00:39:08,890
+qu'elle est la même ou il y
+
+801
+00:39:08,890 --> 00:39:10,670
+a une différence ?
+
+802
+00:39:12,090 --> 00:39:14,070
+l'efficacité en fait l'objectif il est
+
+803
+00:39:14,070 --> 00:39:15,750
+le même l'objectif il est le même
+
+804
+00:39:15,750 --> 00:39:18,990
+c'est de produire des anticorps protecteurs ultérieurement
+
+805
+00:39:18,990 --> 00:39:22,410
+contre une éventuelle infection l'objectif il est
+
+806
+00:39:22,410 --> 00:39:23,930
+le même c'est de produire des anticorps
+
+807
+00:39:23,930 --> 00:39:25,910
+au niveau de notre organisme qu'ils soient
+
+808
+00:39:25,910 --> 00:39:28,670
+vivants ce qui est la différence pour les
+
+809
+00:39:28,670 --> 00:39:31,230
+virus vivants atténués pour les vaccins à base
+
+810
+00:39:31,230 --> 00:39:33,430
+de virus vivants atténués ça ne nécessite pas
+
+811
+00:39:33,430 --> 00:39:35,430
+des rappels parce qu'en fait il y
+
+812
+00:39:35,430 --> 00:39:38,350
+a une réplication et une amplification et donc
+
+813
+00:39:38,350 --> 00:39:42,130
+cette amplification et cette multiplication du virus vivant
+
+814
+00:39:42,130 --> 00:39:44,110
+atténu à l'intérieur de l'organisme produit
+
+815
+00:39:44,110 --> 00:39:46,070
+au fur et à mesure une réaction immunitaire
+
+816
+00:39:46,070 --> 00:39:50,470
+par contre lorsqu'on a une dose de
+
+817
+00:39:51,590 --> 00:39:54,190
+vaccin inactivé en fait la réaction immunitaire va
+
+818
+00:39:54,190 --> 00:39:58,390
+se produire par rapport à cette quantité et
+
+819
+00:39:58,390 --> 00:40:00,250
+donc il y a une mémoire immunologique par
+
+820
+00:40:00,250 --> 00:40:01,890
+la suite il faut faire un rappel pour
+
+821
+00:40:01,890 --> 00:40:04,090
+que la réaction immunitaire soit beaucoup plus adaptée
+
+822
+00:40:04,090 --> 00:40:05,730
+et beaucoup plus importante et c'est là
+
+823
+00:40:05,730 --> 00:40:09,390
+où on sera ultérieurement protégé donc l'objectif
+
+824
+00:40:09,390 --> 00:40:12,390
+il est le même les doses sont différentes
+
+825
+00:40:12,390 --> 00:40:19,330
+les technologies sont différentes d'accord ?
+
+826
+00:40:19,330 --> 00:40:24,430
+Merci monsieur Parfait, alors en chimiothérapie antivirale aussi
+
+827
+00:40:24,910 --> 00:40:27,590
+donc en fait c'est vous avez les
+
+828
+00:40:27,590 --> 00:40:33,390
+antiviraux les antiviraux en fait qui sont pas
+
+829
+00:40:33,390 --> 00:40:36,990
+très nombreux mais ça existe, il y a
+
+830
+00:40:36,990 --> 00:40:40,130
+des antiviraux qui sont c'est pas comme
+
+831
+00:40:40,130 --> 00:40:44,450
+les antibiotiques que vous voyez dans les pharmacies
+
+832
+00:40:44,450 --> 00:40:47,890
+qui sont beaucoup plus nombreux les antiviraux sont
+
+833
+00:40:47,890 --> 00:40:51,650
+un peu plus chers, moins disponibles pour certaines
+
+834
+00:40:51,650 --> 00:40:56,790
+pathologies et donc c'est des en fait
+
+835
+00:40:56,790 --> 00:41:01,370
+c'est des virus statiques la plupart des
+
+836
+00:41:01,370 --> 00:41:04,370
+antiviraux sont virus statiques c'est pas des
+
+837
+00:41:04,370 --> 00:41:08,250
+virucides et donc c'est important de le
+
+838
+00:41:08,250 --> 00:41:09,610
+signer pourquoi ?
+
+839
+00:41:09,610 --> 00:41:14,070
+Parce qu'ils agissent au niveau alors attendez
+
+840
+00:41:20,250 --> 00:41:22,690
+parce qu'ils agissent, ils vont inhiber la
+
+841
+00:41:22,690 --> 00:41:26,430
+réplication des virus donc ils vont agir uniquement
+
+842
+00:41:26,430 --> 00:41:29,650
+sur les virus en réplication d'accord ?
+
+843
+00:41:29,650 --> 00:41:31,150
+Et donc c'est des virus statiques qui
+
+844
+00:41:31,150 --> 00:41:34,250
+vont arrêter la réplication et donc par contre
+
+845
+00:41:34,250 --> 00:41:38,030
+ils vont pas tuer les virus et ça
+
+846
+00:41:38,030 --> 00:41:39,530
+c'est important donc lorsqu'on arrête la
+
+847
+00:41:39,530 --> 00:41:41,630
+réplication bien sûr on arrête l'infection et
+
+848
+00:41:41,630 --> 00:41:44,310
+donc forcément par la suite l'immunité va
+
+849
+00:41:44,310 --> 00:41:47,250
+prendre le relais pour détruire le reste des
+
+850
+00:41:47,250 --> 00:41:50,010
+virus, c'est important donc les antiviraux existants
+
+851
+00:41:50,010 --> 00:41:52,070
+sont des substances, ne sont pas des substances
+
+852
+00:41:52,070 --> 00:41:55,090
+virucides mais des inhibiteurs de la réplication et
+
+853
+00:41:55,090 --> 00:41:57,730
+ils sont le problème des antivirus, ils sont
+
+854
+00:41:57,730 --> 00:41:59,530
+inactifs sur les virus qui y sont, c
+
+855
+00:41:59,530 --> 00:42:01,130
+'est à dire les virus qui sont archivés
+
+856
+00:42:01,130 --> 00:42:04,550
+sous forme d'ADN ou d'ARN au
+
+857
+00:42:04,550 --> 00:42:07,170
+niveau des cellules cibles donc les antiviraux ne
+
+858
+00:42:07,170 --> 00:42:09,090
+sont pas efficaces sur ces virus qui sont
+
+859
+00:42:09,090 --> 00:42:12,230
+à l'intérieur des cellules d'accord, la
+
+860
+00:42:12,230 --> 00:42:15,770
+majorité vont inhiber les enzymes spécifiques, on va
+
+861
+00:42:15,770 --> 00:42:18,430
+voir lesquels il y a les antiseptiques aussi
+
+862
+00:42:18,430 --> 00:42:21,430
+alors les antiseptiques, par exemple les antiseptiques ou
+
+863
+00:42:21,430 --> 00:42:26,090
+les désinfectants comme l'eau de Javel les
+
+864
+00:42:26,090 --> 00:42:28,590
+aldéhydes le glutaraldéhyde, l'alcool à 70 etc,
+
+865
+00:42:29,530 --> 00:42:32,370
+ils ont une bonne efficacité sur les virus
+
+866
+00:42:32,370 --> 00:42:35,170
+particulièrement les virus enveloppés mais aussi sur des
+
+867
+00:42:35,170 --> 00:42:38,890
+bactéries donc l'eau de Javel il détruit
+
+868
+00:42:38,890 --> 00:42:40,190
+pas mal de virus il détruit d'ailleurs
+
+869
+00:42:40,190 --> 00:42:44,530
+le coronavirus c'est important comme les solutions
+
+870
+00:42:44,530 --> 00:42:49,040
+hydroalcooliques les antiviraux, on a bien dit qu
+
+871
+00:42:49,040 --> 00:42:53,540
+'en fait la réponse clinique dépend de beaucoup
+
+872
+00:42:53,540 --> 00:42:55,400
+de paramètres, de 3 acteurs de la chimiothérapie,
+
+873
+00:42:55,480 --> 00:43:00,460
+le patient donc sa réaction avec le virus
+
+874
+00:43:00,460 --> 00:43:02,640
+la réponse de l'autre par rapport au
+
+875
+00:43:02,640 --> 00:43:04,660
+virus la virulence du virus et l'antiviral
+
+876
+00:43:04,660 --> 00:43:07,740
+l'efficacité de l'antiviral bien sûr ces
+
+877
+00:43:07,740 --> 00:43:10,600
+facteurs vont interagir pour donner une réponse clinique
+
+878
+00:43:10,600 --> 00:43:14,400
+favorable ou pas par exemple on donne ici
+
+879
+00:43:14,400 --> 00:43:17,880
+l'exemple de la chimiothérapie antivirale, antirétrovirale pour
+
+880
+00:43:17,880 --> 00:43:20,180
+les rétrovirus, ça vous allez le voir par
+
+881
+00:43:20,180 --> 00:43:22,560
+la suite comme les inhibiteurs de l'inverse
+
+882
+00:43:22,560 --> 00:43:29,300
+-encryptase les inhibiteurs de fusion etc, les inhibiteurs
+
+883
+00:43:29,300 --> 00:43:31,280
+de la prothèse, c'est pas l'objectif
+
+884
+00:43:31,280 --> 00:43:34,220
+d'aujourd'hui, mais regardez ici par exemple
+
+885
+00:43:34,220 --> 00:43:39,160
+la majorité des antiviraux que vous avez ici
+
+886
+00:43:39,160 --> 00:43:43,180
+comme la cyclovir, la ZT le 3TC etc
+
+887
+00:43:43,180 --> 00:43:48,320
+vont bien sûr aboutir à l'inhibition de
+
+888
+00:43:48,320 --> 00:43:51,380
+l'ADN polymérase virale pour arrêter la réplication
+
+889
+00:43:52,690 --> 00:44:04,340
+voilà rapidement on va passer au diagnostic virologique
+
+890
+00:44:09,620 --> 00:44:19,590
+le diagnostic virologique alors on va voir les
+
+891
+00:44:19,590 --> 00:44:22,690
+techniques très rapidement les techniques de diagnostic virologique
+
+892
+00:44:22,690 --> 00:44:25,490
+qu'on n'utilise pas principalement au laboratoire
+
+893
+00:44:26,190 --> 00:44:29,830
+et donc qui visent à détecter, quantifier et
+
+894
+00:44:29,830 --> 00:44:35,670
+identifier les étiologies virales d'accord et donc
+
+895
+00:44:35,670 --> 00:44:41,100
+le choix de la technique dépend du virus
+
+896
+00:44:41,100 --> 00:44:46,460
+recherché ça c'est un élément important on
+
+897
+00:44:46,460 --> 00:44:49,880
+a deux catégories de technologies en fait dans
+
+898
+00:44:49,880 --> 00:44:51,880
+le diagnostic virologique de façon générale il y
+
+899
+00:44:51,880 --> 00:44:53,160
+a le diagnostic direct c'est à dire
+
+900
+00:44:53,160 --> 00:44:56,420
+on va chercher le virus lui même ou
+
+901
+00:44:56,420 --> 00:44:59,460
+l'un de ses composants directement ou le
+
+902
+00:44:59,460 --> 00:45:01,800
+diagnostic indirect qui est le séro-diagnostic on
+
+903
+00:45:01,800 --> 00:45:04,720
+va rechercher une réaction immunitaire de notre organisme
+
+904
+00:45:04,720 --> 00:45:05,560
+c'est à dire on ne va pas
+
+905
+00:45:05,560 --> 00:45:08,200
+chercher le virus mais on va chercher les
+
+906
+00:45:08,200 --> 00:45:11,540
+anticorps que nous allons développer au contact du
+
+907
+00:45:11,540 --> 00:45:13,280
+virus d'accord et donc ça c'est
+
+908
+00:45:13,280 --> 00:45:16,420
+un diagnostic indirect c'est le séro-diagnostic
+
+909
+00:45:16,420 --> 00:45:19,180
+par rapport au diagnostic direct on va chercher
+
+910
+00:45:19,180 --> 00:45:20,800
+le virus lui même ou l'un de
+
+911
+00:45:20,800 --> 00:45:23,880
+ses composants comme le génome ou des protéines
+
+912
+00:45:29,410 --> 00:45:34,390
+donc ça vous allez lire tranquillement la nature
+
+913
+00:45:34,390 --> 00:45:37,190
+et la chronologie des prélèvements parce que la
+
+914
+00:45:37,190 --> 00:45:39,690
+chronologie du prélèvement est importante le choix du
+
+915
+00:45:39,690 --> 00:45:43,590
+site du prélèvement c'est extrêmement important quel
+
+916
+00:45:43,590 --> 00:45:46,670
+type de prélèvement le médecin ou le clinicien
+
+917
+00:45:46,670 --> 00:45:48,610
+il doit savoir quel type de prélèvement il
+
+918
+00:45:48,610 --> 00:45:50,730
+doit faire lorsqu'il suspect une infection virale
+
+919
+00:45:50,730 --> 00:45:52,970
+quel type de virus où est-ce qu
+
+920
+00:45:52,970 --> 00:45:55,250
+'on peut le chercher par quelle technique tous
+
+921
+00:45:55,250 --> 00:45:59,870
+ces éléments sont très importants pour faire un
+
+922
+00:45:59,870 --> 00:46:01,970
+bon prélèvement et donc il faut recueillir le
+
+923
+00:46:01,970 --> 00:46:03,730
+maximum de cellules parce que le virus est
+
+924
+00:46:03,730 --> 00:46:07,410
+intracellulaire obligatoire et donc il faut recueillir des
+
+925
+00:46:07,410 --> 00:46:10,590
+cellules riches en virus on donne l'exemple
+
+926
+00:46:10,590 --> 00:46:13,310
+ici du zika virus il faut comprendre aussi
+
+927
+00:46:13,310 --> 00:46:15,990
+la cinétique des marqueurs de l'infection comme
+
+928
+00:46:15,990 --> 00:46:17,810
+par exemple ici pour le zika virus vous
+
+929
+00:46:17,810 --> 00:46:20,870
+voyez ici que à l'apparition des symptômes
+
+930
+00:46:20,870 --> 00:46:24,330
+à J0 donc deux jours avant il y
+
+931
+00:46:24,330 --> 00:46:26,350
+a déjà le virus dans le sang on
+
+932
+00:46:26,350 --> 00:46:29,130
+peut le retrouver jusqu'à J3 et donc
+
+933
+00:46:29,130 --> 00:46:32,550
+au-delà du J3 même s'il y
+
+934
+00:46:32,550 --> 00:46:34,110
+a encore l'infection chez l'individu on
+
+935
+00:46:34,110 --> 00:46:35,730
+ne peut pas le trouver dans le sang
+
+936
+00:46:35,730 --> 00:46:37,310
+et ça c'est un élément important le
+
+937
+00:46:37,310 --> 00:46:39,430
+zika virus ne se retrouve pas si le
+
+938
+00:46:39,430 --> 00:46:41,770
+patient arrive aujourd'hui vous dis j'avais
+
+939
+00:46:41,770 --> 00:46:50,230
+la symptomatologie à commencer le jeudi dernier ça
+
+940
+00:46:50,230 --> 00:46:53,550
+veut dire ça fait une semaine 7 jours
+
+941
+00:46:53,550 --> 00:46:56,250
+on ne va pas demander on ne va
+
+942
+00:46:56,250 --> 00:47:00,210
+pas demander la recherche du virus dans le
+
+943
+00:47:00,210 --> 00:47:01,850
+sang parce qu'il n'y est plus
+
+944
+00:47:01,850 --> 00:47:04,430
+par contre on peut le rechercher dans les
+
+945
+00:47:04,430 --> 00:47:06,830
+urines parce que la virulerie elle existe jusqu
+
+946
+00:47:06,830 --> 00:47:12,070
+'à J10 on peut demander les JGM et
+
+947
+00:47:12,070 --> 00:47:14,170
+éventuellement les JGG parce que les JGG on
+
+948
+00:47:14,170 --> 00:47:18,630
+peut le trouver que c'est négatif et
+
+949
+00:47:18,630 --> 00:47:20,750
+donc il faut comprendre d'abord la chronologie
+
+950
+00:47:20,750 --> 00:47:26,330
+de l'infection pour pouvoir choisir le bon
+
+951
+00:47:26,330 --> 00:47:37,260
+prélèvement et la bonne technique éteignez
+
+952
+00:47:37,260 --> 00:47:41,520
+votre micro s'il vous plaît alors la
+
+953
+00:47:41,520 --> 00:47:46,880
+conservation et transport des échantillons préserver la qualité
+
+954
+00:47:46,880 --> 00:47:50,120
+du prélèvement c'est important pour le transport
+
+955
+00:47:50,120 --> 00:47:53,780
+dans des milieux adaptés donc c'est des
+
+956
+00:47:53,780 --> 00:47:57,680
+étapes capitales pour que le résultat ça affecte
+
+957
+00:47:57,680 --> 00:48:00,020
+le résultat si on a en fait un
+
+958
+00:48:00,020 --> 00:48:03,100
+bon prélèvement on le transporte correctement il est
+
+959
+00:48:03,100 --> 00:48:04,500
+à l'abri de la chaleur il est
+
+960
+00:48:04,500 --> 00:48:06,980
+bien conservé on peut avoir un bon résultat
+
+961
+00:48:06,980 --> 00:48:12,940
+sinon c'est l'inverse les méthodes de
+
+962
+00:48:12,940 --> 00:48:14,700
+diagnostic il y a la culture cellulaire, la
+
+963
+00:48:14,700 --> 00:48:17,820
+microscopie électronique la détection d'antigènes viraux les
+
+964
+00:48:17,820 --> 00:48:20,520
+techniques de biologie moléculaire alors la technique de
+
+965
+00:48:20,520 --> 00:48:22,660
+référence c'est la culture cellulaire parce que
+
+966
+00:48:22,660 --> 00:48:26,320
+ça nous permet de cultiver le virus et
+
+967
+00:48:26,320 --> 00:48:28,740
+de voir le virus vivant après on fait
+
+968
+00:48:28,740 --> 00:48:30,940
+ce qu'on veut sauf que c'est
+
+969
+00:48:30,940 --> 00:48:33,280
+laborieux ça prend du temps et on ne
+
+970
+00:48:33,280 --> 00:48:35,400
+peut pas l'utiliser dans le diagnostic de
+
+971
+00:48:35,400 --> 00:48:45,310
+routine alors la
+
+972
+00:48:45,310 --> 00:48:48,550
+culture virale in vivo vous avez la culture
+
+973
+00:48:48,550 --> 00:48:51,630
+virale in vivo ou par exemple dans les
+
+974
+00:48:51,630 --> 00:48:54,490
+oeufs de poules embryonnais ou chez les animaux
+
+975
+00:48:54,490 --> 00:48:58,510
+comme les souriceaux ou les souris donc les
+
+976
+00:48:58,510 --> 00:49:00,290
+oeufs de poules embryonnais pour la production de
+
+977
+00:49:00,290 --> 00:49:03,130
+vaccins de la grippe par exemple on utilise
+
+978
+00:49:03,130 --> 00:49:07,130
+les oeufs de poules embryonnais pour fabriquer le
+
+979
+00:49:07,130 --> 00:49:10,450
+vaccin de la grippe in vitro on va
+
+980
+00:49:10,450 --> 00:49:15,630
+utiliser des lignées cellulaires comme les cellules MRC5
+
+981
+00:49:15,630 --> 00:49:17,630
+ou les cellules HEP2, ce sont des lignées
+
+982
+00:49:17,630 --> 00:49:19,930
+cellulaires qui peuvent être d'origine humaine ou
+
+983
+00:49:19,930 --> 00:49:25,650
+animale ça c'est pas l'objectif du
+
+984
+00:49:25,650 --> 00:49:27,170
+cours mais sachez qu'il y a des
+
+985
+00:49:27,170 --> 00:49:29,550
+cellules qui sont adaptées à des virus mais
+
+986
+00:49:29,550 --> 00:49:34,320
+pas pour d'autres donc on va inoculer
+
+987
+00:49:34,320 --> 00:49:37,060
+le virus dans votre prélèvement on va l
+
+988
+00:49:37,060 --> 00:49:39,920
+'inoculer au laboratoire sur des cellules qui sont
+
+989
+00:49:39,920 --> 00:49:44,220
+produites quotidiennement elles doivent rester viables donc on
+
+990
+00:49:44,220 --> 00:49:46,780
+les met en condition dans les conditions de
+
+991
+00:49:46,780 --> 00:49:51,820
+viabilité à 37° avec 95% d'humidité
+
+992
+00:49:51,820 --> 00:49:54,800
+5% de CO2 ça c'est important
+
+993
+00:49:54,800 --> 00:49:57,360
+et puis après on inocule l'échantillon avec
+
+994
+00:49:57,360 --> 00:50:00,360
+le virus et lorsqu'il y a bien
+
+995
+00:50:00,360 --> 00:50:02,660
+sûr une réplication lorsqu'il existe le virus
+
+996
+00:50:02,660 --> 00:50:04,880
+dans votre échantillon il y a un développement
+
+997
+00:50:04,880 --> 00:50:08,440
+d'un effet cytopathogène la réplication d'un
+
+998
+00:50:08,440 --> 00:50:10,500
+effet cytopathique on va retrouver c'est le
+
+999
+00:50:10,500 --> 00:50:13,840
+CP qui est parfois caractéristique à certains virus
+
+1000
+00:50:14,980 --> 00:50:17,700
+regardez ici par exemple l'aspect sur les
+
+1001
+00:50:17,700 --> 00:50:19,900
+cellules épithéliales de reins de chien les cellules
+
+1002
+00:50:19,900 --> 00:50:25,820
+MDCK on va inoculer un échantillon suspect de
+
+1003
+00:50:25,820 --> 00:50:28,400
+grippe et lorsque vous avez cet aspect en
+
+1004
+00:50:28,400 --> 00:50:30,780
+général c'est en faveur de la présence
+
+1005
+00:50:30,780 --> 00:50:36,360
+du virus de la grippe pour faire une
+
+1006
+00:50:36,360 --> 00:50:39,180
+coloration par la suite il y a les
+
+1007
+00:50:39,180 --> 00:50:42,140
+mécaniques de séroneutralisation on en a parlé aussi
+
+1008
+00:50:43,700 --> 00:50:46,420
+donc en fait on va neutraliser le sérum
+
+1009
+00:50:47,020 --> 00:50:52,000
+en fonction des cellules vous avez l'émaglutination
+
+1010
+00:50:52,000 --> 00:50:56,740
+l'inhibition de l'émaglutination par exemple ça
+
+1011
+00:50:56,740 --> 00:50:58,780
+c'est une technologie qu'on utilise dans
+
+1012
+00:50:58,780 --> 00:51:00,700
+les virus qui ripot par exemple mais ça
+
+1013
+00:51:00,700 --> 00:51:05,390
+c'est un peu plus laborieux après la
+
+1014
+00:51:05,390 --> 00:51:07,790
+culture séduire il y a la microscopie électronique
+
+1015
+00:51:10,570 --> 00:51:14,950
+ça s'utilise dans les centres de recherche
+
+1016
+00:51:14,950 --> 00:51:18,990
+en particulier ça a permis de révéler de
+
+1017
+00:51:18,990 --> 00:51:21,150
+nombreux virus comme le rotavirus que vous voyez
+
+1018
+00:51:21,150 --> 00:51:24,690
+ici en balle de golf par exemple l
+
+1019
+00:51:24,690 --> 00:51:26,470
+'inconvénient c'est le coût élevé et l
+
+1020
+00:51:26,470 --> 00:51:30,010
+'entretien difficile et ça nécessite des prélèvements riches
+
+1021
+00:51:30,010 --> 00:51:34,970
+en virus la détection d'antigènes viraux c
+
+1022
+00:51:34,970 --> 00:51:36,430
+'est la mise en évidence d'une réaction
+
+1023
+00:51:36,430 --> 00:51:41,810
+antigène-anticorps, on va mettre des anticorps pour
+
+1024
+00:51:41,810 --> 00:51:46,550
+chercher des antigènes d'accord par immunofluorescence dans
+
+1025
+00:51:46,550 --> 00:51:51,810
+un microscope à fluorescence par exemple ou par
+
+1026
+00:51:51,810 --> 00:51:57,120
+hallucination latex par exemple les techniques de biologie
+
+1027
+00:51:57,120 --> 00:52:02,560
+moléculaire donc on va s'intéresser principalement à
+
+1028
+00:52:02,560 --> 00:52:03,680
+la PCR parce qu'il y a beaucoup
+
+1029
+00:52:03,680 --> 00:52:06,660
+de techniques de biologie moléculaire mais la PCR
+
+1030
+00:52:06,660 --> 00:52:10,480
+qu'on utilise actuellement c'est une hybridisation
+
+1031
+00:52:10,480 --> 00:52:14,120
+avec amplification la PCR c'est quoi en
+
+1032
+00:52:14,120 --> 00:52:16,320
+fait c'est la Polymerase Chain Reaction la
+
+1033
+00:52:16,320 --> 00:52:24,500
+réaction de polymérisation en chaîne et qui utilise
+
+1034
+00:52:24,500 --> 00:52:26,640
+d'abord on va extraire on va prendre
+
+1035
+00:52:26,640 --> 00:52:28,600
+dans le virus l'échantillon on va le
+
+1036
+00:52:28,600 --> 00:52:31,620
+prendre dans des conditions de sécurité et on
+
+1037
+00:52:31,620 --> 00:52:34,000
+va extraire l'acide nucléique, par exemple pour
+
+1038
+00:52:34,000 --> 00:52:35,880
+le coronavirus c'est de l'ARN on
+
+1039
+00:52:35,880 --> 00:52:39,460
+va détruire l'enveloppe et la capside pour
+
+1040
+00:52:39,460 --> 00:52:41,820
+mettre en évidence l'ARN et après on
+
+1041
+00:52:41,820 --> 00:52:44,520
+va faire la PCR avant de faire la
+
+1042
+00:52:44,520 --> 00:52:46,960
+PCR on va faire une rétro-transcription c
+
+1043
+00:52:46,960 --> 00:52:48,740
+'est à dire parce que la PCR s
+
+1044
+00:52:48,740 --> 00:52:50,880
+'adresse uniquement à l'ADN ou des ADN
+
+1045
+00:52:50,880 --> 00:52:54,260
+complémentaires on amplifie de l'ADN on n
+
+1046
+00:52:54,260 --> 00:52:56,340
+'amplifie pas de l'ARN par contre si
+
+1047
+00:52:56,340 --> 00:52:59,560
+on a un virus de l'ARN on
+
+1048
+00:52:59,560 --> 00:53:01,780
+va d'abord rétro-transcrire si on a
+
+1049
+00:53:01,780 --> 00:53:05,880
+12 copies si on a 12 copies d
+
+1050
+00:53:05,880 --> 00:53:08,460
+'ARN on va rétro-transcrire en 12 copies
+
+1051
+00:53:08,460 --> 00:53:11,840
+par exemple si l'opération est bien réussie
+
+1052
+00:53:12,480 --> 00:53:15,920
+après ces copies d'ADN ou d'ADN
+
+1053
+00:53:15,920 --> 00:53:19,660
+complémentaires on va les amplifier en millions de
+
+1054
+00:53:19,660 --> 00:53:23,780
+copies c'est la PCR la PCR se
+
+1055
+00:53:23,780 --> 00:53:25,600
+déroule en trois étapes, il y a l
+
+1056
+00:53:25,600 --> 00:53:28,140
+'étape de dénaturation, l'étape d'hybridation et
+
+1057
+00:53:28,140 --> 00:53:32,260
+la polymérisation ou l'élongation d'accord regardez
+
+1058
+00:53:32,260 --> 00:53:35,260
+ici on va mettre à 95 degrés on
+
+1059
+00:53:35,260 --> 00:53:38,620
+va dénaturer l'ADN donc ces ponts de
+
+1060
+00:53:38,620 --> 00:53:44,540
+disulfure qui lient l'ADN par exemple vont
+
+1061
+00:53:44,540 --> 00:53:48,780
+être dissociés à une température élevée à 95
+
+1062
+00:53:48,780 --> 00:53:52,020
+degrés c'est la première étape du cycle
+
+1063
+00:53:52,020 --> 00:53:55,280
+de la PCR qui est la dénaturation suivie
+
+1064
+00:53:55,280 --> 00:53:57,960
+d'une hybridation donc on va utiliser des
+
+1065
+00:53:57,960 --> 00:54:01,240
+amorces spécifiques ou des centres spécifiques qui vont
+
+1066
+00:54:01,240 --> 00:54:08,300
+nous permettre d'identifier la séquence cible on
+
+1067
+00:54:08,300 --> 00:54:11,320
+a bien sûr chaque virus à ses amorces
+
+1068
+00:54:11,320 --> 00:54:14,140
+et ses centres spécifiques ça c'est important
+
+1069
+00:54:14,140 --> 00:54:16,560
+parce qu'il y a des régions qui
+
+1070
+00:54:16,560 --> 00:54:20,740
+sont spécifiques à une succession d'acides nucléiques
+
+1071
+00:54:20,740 --> 00:54:23,820
+qui est spécifique à certains virus qu'on
+
+1072
+00:54:23,820 --> 00:54:25,200
+ne retrouve pas chez d'autres ce qui
+
+1073
+00:54:25,200 --> 00:54:27,280
+fait la particularité de la PCR c'est
+
+1074
+00:54:27,280 --> 00:54:29,440
+l'utilisation de ces amorces et ces centres
+
+1075
+00:54:29,440 --> 00:54:32,100
+qui sont spécifiques, qui vont s'hybrider c
+
+1076
+00:54:32,100 --> 00:54:34,660
+'est l'étape d'hybridation on va faire
+
+1077
+00:54:34,660 --> 00:54:37,980
+descendre la température entre 55 et 60 degrés
+
+1078
+00:54:38,740 --> 00:54:44,320
+pour permettre l'hybridation de ces amorces et
+
+1079
+00:54:44,320 --> 00:54:47,420
+de ces centres et puis il y aura
+
+1080
+00:54:47,420 --> 00:54:49,380
+l'attaque polymérale ce qui va venir, regardez
+
+1081
+00:54:52,160 --> 00:54:56,940
+compléter l'ADN complémentaire compléter le brin en
+
+1082
+00:54:56,940 --> 00:54:59,560
+mettant les acides nucléiques de façon complémentaire, si
+
+1083
+00:54:59,560 --> 00:55:00,780
+c'est un A elle va mettre le
+
+1084
+00:55:00,780 --> 00:55:01,900
+T, si c'est un G elle va
+
+1085
+00:55:01,900 --> 00:55:03,620
+mettre le C, si c'est un C
+
+1086
+00:55:03,620 --> 00:55:05,220
+elle va mettre le G, si c'est
+
+1087
+00:55:05,220 --> 00:55:06,820
+un T elle va mettre le A, etc.
+
+1088
+00:55:07,520 --> 00:55:09,480
+C'est une enzyme, c'est l'attaque
+
+1089
+00:55:09,480 --> 00:55:14,220
+polymérase c'est une enzyme qui va polymériser
+
+1090
+00:55:14,680 --> 00:55:16,420
+et c'est ça c'est la troisième
+
+1091
+00:55:16,420 --> 00:55:19,180
+étape c'est la polymérisation, donc vous avez
+
+1092
+00:55:19,180 --> 00:55:24,720
+la dénaturation l'hybridation et l'élongation ou
+
+1093
+00:55:24,720 --> 00:55:27,360
+la polymérisation donc ces trois étapes, ça fait
+
+1094
+00:55:27,360 --> 00:55:29,240
+un seul cycle de PCR, ce qu'on
+
+1095
+00:55:29,240 --> 00:55:33,840
+en fait 40 à 44 cycles par PCR
+
+1096
+00:55:33,840 --> 00:55:38,180
+ça prend 1h30 à 2h ça dépend du
+
+1097
+00:55:38,180 --> 00:55:44,430
+cycle et donc à la fin pour la
+
+1098
+00:55:44,430 --> 00:55:48,410
+PCR si on commence par un brin après
+
+1099
+00:55:48,410 --> 00:55:53,450
+un cycle regardez 95° on descend deuxièmement à
+
+1100
+00:55:53,450 --> 00:55:57,030
+56°, on remonte à 72°, c'est un
+
+1101
+00:55:57,030 --> 00:56:01,290
+cycle donc à la fin on va à
+
+1102
+00:56:01,290 --> 00:56:03,490
+partir d'un brin, on va avoir 2
+
+1103
+00:56:03,490 --> 00:56:05,390
+brins, et à partir de 2 brins dans
+
+1104
+00:56:05,390 --> 00:56:08,270
+le troisième cycle, on va avoir 4 et
+
+1105
+00:56:08,270 --> 00:56:11,830
+à partir de 8 à partir de 8,
+
+1106
+00:56:11,910 --> 00:56:14,750
+on va avoir 16 jusqu'à 44 cycles
+
+1107
+00:56:14,750 --> 00:56:17,190
+par exemple, ça fait 2 à la puissance
+
+1108
+00:56:17,190 --> 00:56:19,930
+N cycles si c'est 40 cycles, c
+
+1109
+00:56:19,930 --> 00:56:22,070
+'est 2 à la puissance 40 donc à
+
+1110
+00:56:22,070 --> 00:56:23,650
+la fin c'est ce qu'on va
+
+1111
+00:56:23,650 --> 00:56:29,110
+avoir comme chiffre comme bien sûr le nombre
+
+1112
+00:56:29,110 --> 00:56:33,870
+de copies d'ADN et bien sûr cette
+
+1113
+00:56:33,870 --> 00:56:36,270
+sonde où il y a une fluorescence va
+
+1114
+00:56:36,270 --> 00:56:37,930
+au fur et à mesure, à chaque cycle
+
+1115
+00:56:39,450 --> 00:56:42,470
+va émettre une fluorescence au niveau du cycle
+
+1116
+00:56:42,470 --> 00:56:44,830
+2, cycle 3, cycle 4 ce n'est
+
+1117
+00:56:44,830 --> 00:56:47,330
+qu'à partir d'un certain nombre de
+
+1118
+00:56:47,330 --> 00:56:49,830
+cycles 16ème cycle, c'est lorsque la charge
+
+1119
+00:56:49,830 --> 00:56:52,490
+est élevée, 18ème cycle on va avoir un
+
+1120
+00:56:52,490 --> 00:56:55,110
+signal qui va apparaître donc en fait, c
+
+1121
+00:56:55,110 --> 00:56:56,690
+'est pour ça qu'on appelle ça une
+
+1122
+00:56:56,690 --> 00:56:59,310
+PCR en temps réel parce qu'on peut
+
+1123
+00:56:59,310 --> 00:57:02,310
+voir la fluorescence en temps réel avant même
+
+1124
+00:57:02,310 --> 00:57:04,030
+la fin du cycle, on peut détecter un
+
+1125
+00:57:04,030 --> 00:57:17,180
+positif lorsque la charge est élevée c
+
+1126
+00:57:17,180 --> 00:57:22,850
+'est la PCR en temps réel donc il
+
+1127
+00:57:22,850 --> 00:57:24,210
+y a plusieurs types de sondes, ce n
+
+1128
+00:57:24,210 --> 00:57:25,950
+'est pas la peine de retenir tout ça,
+
+1129
+00:57:26,610 --> 00:57:28,690
+les étapes d'extraction qui peuvent être manuelles
+
+1130
+00:57:28,690 --> 00:57:31,830
+ou automatisées ces étapes d'extraction permettent de
+
+1131
+00:57:31,830 --> 00:57:35,870
+liser le virus bien évidemment de digérer l
+
+1132
+00:57:35,870 --> 00:57:41,450
+'ARN pour prendre l'ARN bien sûr faire
+
+1133
+00:57:41,450 --> 00:57:44,030
+des lavages à travers des centrifugations et éluer
+
+1134
+00:57:44,030 --> 00:57:50,770
+après le génome purifié donc on prépare un
+
+1135
+00:57:50,770 --> 00:57:54,030
+mix dans une salle de mix ça demande
+
+1136
+00:57:54,030 --> 00:58:00,850
+des infrastructures adaptées un habillage adapté pour qu
+
+1137
+00:58:00,850 --> 00:58:03,310
+'il n'y ait pas de contamination ça
+
+1138
+00:58:03,310 --> 00:58:05,450
+c'est un élément important à souligner c
+
+1139
+00:58:05,450 --> 00:58:09,370
+'est pour ça que ce n'est pas
+
+1140
+00:58:09,370 --> 00:58:11,010
+n'importe quel laboratoire qui peut faire la
+
+1141
+00:58:11,010 --> 00:58:14,470
+PCR il faut des infrastructures il faut de
+
+1142
+00:58:14,470 --> 00:58:27,710
+la formation et il faut du matériel donc
+
+1143
+00:58:27,710 --> 00:58:30,030
+après il y a l'interprétation des résultats
+
+1144
+00:58:30,030 --> 00:58:31,230
+il y a ce qu'on appelle la
+
+1145
+00:58:31,230 --> 00:58:34,210
+validation technique donc il faut vérifier les bonnes
+
+1146
+00:58:34,210 --> 00:58:35,790
+conditions de la réalisation de l'analyse la
+
+1147
+00:58:35,790 --> 00:58:40,330
+conformité du prélèvement, du stockage le lot des
+
+1148
+00:58:40,330 --> 00:58:42,610
+réactifs etc...
+
+1149
+00:58:42,610 --> 00:58:44,390
+le bon fonctionnement des équipes au cours de
+
+1150
+00:58:44,390 --> 00:58:46,670
+l'analyse le contrôle de qualité ça c
+
+1151
+00:58:46,670 --> 00:58:48,850
+'est les validations techniques on ne donne pas
+
+1152
+00:58:48,850 --> 00:58:50,630
+un résultat comme ça il y a une
+
+1153
+00:58:50,630 --> 00:58:52,670
+validation technique qui est réalisée par le technicien
+
+1154
+00:58:52,670 --> 00:58:54,830
+et une validation biologique qui est réalisée par
+
+1155
+00:58:54,830 --> 00:58:58,470
+le biologiste on va voir le biologiste est
+
+1156
+00:58:58,470 --> 00:59:01,150
+là pour voir la conformité de l'examen
+
+1157
+00:59:01,150 --> 00:59:03,550
+par rapport à la demande initiale à la
+
+1158
+00:59:03,550 --> 00:59:07,290
+cohérence entre les résultats le résultat actuel et
+
+1159
+00:59:07,290 --> 00:59:12,430
+les antécédents biologiques les renseignements cliniques on discute
+
+1160
+00:59:12,430 --> 00:59:14,590
+avec le clinicien bien sûr pour trouver des
+
+1161
+00:59:14,590 --> 00:59:17,830
+solutions et des réponses adaptées par rapport à
+
+1162
+00:59:17,830 --> 00:59:24,510
+l'analyse et donc il y a une
+
+1163
+00:59:24,510 --> 00:59:27,930
+discussion le résultat négatif n'exclut pas toujours
+
+1164
+00:59:27,930 --> 00:59:29,190
+l'infection parce qu'il y a parfois
+
+1165
+00:59:29,190 --> 00:59:30,970
+des durées d'incubation par rapport à la
+
+1166
+00:59:30,970 --> 00:59:40,130
+méthode utilisée etc...
+
+1167
+00:59:40,890 --> 00:59:44,950
+après bien sûr les techniques directes il y
+
+1168
+00:59:44,950 --> 00:59:48,190
+a les techniques indirectes c'est la sérologie,
+
+1169
+00:59:48,310 --> 00:59:50,430
+c'est la détection des marqueurs immunologiques spécifiques
+
+1170
+00:59:51,130 --> 00:59:53,170
+de l'organisme et donc c'est une
+
+1171
+00:59:53,170 --> 00:59:55,090
+réaction, on va aller chercher des anticorps de
+
+1172
+00:59:55,090 --> 00:59:57,810
+type IgG, de type IgM voire de type
+
+1173
+00:59:57,810 --> 01:00:02,010
+IgA par exemple on fait ça bien sûr
+
+1174
+01:00:02,010 --> 01:00:03,810
+chez les femmes enceintes pour la rubéole pour
+
+1175
+01:00:03,810 --> 01:00:06,610
+voir le statut immunitaire du patient pour voir
+
+1176
+01:00:06,610 --> 01:00:09,410
+une infection récente en cherchant les IgM avec
+
+1177
+01:00:09,410 --> 01:00:15,850
+les IgG ou la séro conversion lorsque il
+
+1178
+01:00:15,850 --> 01:00:17,630
+y a un virage des anticorps de deux
+
+1179
+01:00:17,630 --> 01:00:19,690
+sérums à deux à trois semaines d'intervalle
+
+1180
+01:00:20,610 --> 01:00:22,730
+donc il y a beaucoup d'applications pour
+
+1181
+01:00:22,730 --> 01:00:29,730
+les sérologies pour le coronavirus ça sert principalement
+
+1182
+01:00:29,730 --> 01:00:32,070
+pour voir si on a déjà une infection
+
+1183
+01:00:32,070 --> 01:00:34,650
+ou pas on peut l'utiliser pour l
+
+1184
+01:00:34,650 --> 01:00:37,710
+'infection récente mais ça prête à confusion c
+
+1185
+01:00:37,710 --> 01:00:40,130
+'est la PCR qui est préconisée ou les
+
+1186
+01:00:40,130 --> 01:00:42,870
+tests antigéniques aussi qui sont en train d
+
+1187
+01:00:42,870 --> 01:00:45,610
+'être implantés à travers le monde on va
+
+1188
+01:00:45,610 --> 01:00:48,710
+voir ça dans le cours des coronavirus la
+
+1189
+01:00:48,710 --> 01:00:52,080
+prochaine fois il y a les techniques d
+
+1190
+01:00:52,080 --> 01:00:54,800
+'agglutination par exemple pour les virus qui sont
+
+1191
+01:00:54,800 --> 01:00:59,080
+émaglutinants comme le virus de la grippe comme
+
+1192
+01:00:59,080 --> 01:01:03,800
+le virus de la rubéole qui ont cet
+
+1193
+01:01:03,800 --> 01:01:07,740
+aspect d'émaglutination comme les adénovirus donc on
+
+1194
+01:01:07,740 --> 01:01:12,780
+va inhiber l'émaglutination il y a l
+
+1195
+01:01:12,780 --> 01:01:15,620
+'agglutination par latex il y a les techniques
+
+1196
+01:01:15,620 --> 01:01:17,280
+de fixation du complément qu'on n'utilise
+
+1197
+01:01:17,280 --> 01:01:23,260
+plus il y a les techniques immuno-enzymatiques
+
+1198
+01:01:25,380 --> 01:01:34,340
+avec les techniques immunofluorescences ou les techniques immuno
+
+1199
+01:01:34,340 --> 01:01:37,600
+-enzymatiques comme l'ELISA par exemple donc on
+
+1200
+01:01:37,600 --> 01:01:41,320
+prend un support avec un antigène viral et
+
+1201
+01:01:41,320 --> 01:01:43,300
+on prend le sérum du patient que vous
+
+1202
+01:01:43,300 --> 01:01:46,520
+voyez ici en jaune s'il présente des
+
+1203
+01:01:46,520 --> 01:01:48,160
+anticorps, s'il y a des anticorps contre
+
+1204
+01:01:48,160 --> 01:01:50,220
+le virus on va les mettre en évidence
+
+1205
+01:01:50,220 --> 01:01:55,920
+à travers un deuxième anticorps marqué soit avec
+
+1206
+01:01:55,920 --> 01:01:58,120
+un fluorophore qui va être excité par les
+
+1207
+01:01:58,120 --> 01:02:00,480
+ultraviolets et donner une fluorescence qu'on peut
+
+1208
+01:02:00,480 --> 01:02:05,360
+regarder par microscopie à fluorescence c'est la
+
+1209
+01:02:05,360 --> 01:02:09,160
+première situation et on peut utiliser des techniques
+
+1210
+01:02:10,040 --> 01:02:14,440
+radio-immunologiques avec des anticorps marqués par des
+
+1211
+01:02:14,440 --> 01:02:17,180
+atomes radioactifs et donc on doit utiliser un
+
+1212
+01:02:17,180 --> 01:02:19,220
+compteur de radioactivité, c'est rare ce sont
+
+1213
+01:02:19,220 --> 01:02:22,740
+des centres spécialisés qui font ça ce qui
+
+1214
+01:02:22,740 --> 01:02:25,440
+est utilisé le plus en dehors de l
+
+1215
+01:02:25,440 --> 01:02:28,560
+'immunofluorescence, c'est les techniques immuno-enzymatiques ou
+
+1216
+01:02:28,560 --> 01:02:32,400
+les techniques de chimie-luminescence ou d'électrochimie
+
+1217
+01:02:32,400 --> 01:02:36,420
+-luminescence par exemple où on va utiliser bien
+
+1218
+01:02:36,420 --> 01:02:41,220
+sûr des anticorps des antiglobulines qui vont se
+
+1219
+01:02:41,220 --> 01:02:43,520
+diriger contre les anticorps qu'on retrouve dans
+
+1220
+01:02:43,520 --> 01:02:46,760
+les sérums du patient et donc par exemple
+
+1221
+01:02:46,760 --> 01:02:52,600
+une réaction enzymatique à travers un substrat incolore
+
+1222
+01:02:52,600 --> 01:02:56,720
+qui va devenir coloré s'il est présent
+
+1223
+01:02:57,380 --> 01:03:00,940
+avec la réaction du substrat avec l'enzyme
+
+1224
+01:03:00,940 --> 01:03:03,400
+ça on peut le détecter par la suite
+
+1225
+01:03:03,400 --> 01:03:05,960
+l'intensité de la coloration on peut même
+
+1226
+01:03:05,960 --> 01:03:13,560
+quantifier par la suite regardez ici l'intensité
+
+1227
+01:03:13,560 --> 01:03:17,400
+on peut mesurer la densité optique du microplax
+
+1228
+01:03:17,400 --> 01:03:20,020
+chaque puits est un individu, est un patient
+
+1229
+01:03:20,020 --> 01:03:23,420
+et donc on peut mesurer en fonction de
+
+1230
+01:03:23,420 --> 01:03:26,110
+la densité optique l'importance de l'infection
+
+1231
+01:03:29,360 --> 01:03:32,080
+il y a d'autres techniques comme le
+
+1232
+01:03:32,080 --> 01:03:34,180
+western blot qu'on va voir, le VIH
+
+1233
+01:03:34,180 --> 01:03:39,200
+voilà donc on a fini les cours de
+
+1234
+01:03:39,200 --> 01:03:43,680
+virologie générale et donc on va alors il
+
+1235
+01:03:43,680 --> 01:03:45,980
+est quelle heure il est 10h19 on ne
+
+1236
+01:03:45,980 --> 01:03:52,400
+pourra pas voir aujourd'hui les cours les
+
+1237
+01:03:52,400 --> 01:03:56,380
+cours de virologie systématique, on va les commencer
+
+1238
+01:03:56,380 --> 01:03:58,680
+la prochaine fois de façon enregistrée de toute
+
+1239
+01:03:58,680 --> 01:04:01,000
+façon ce cours là cette séance elle est
+
+1240
+01:04:01,000 --> 01:04:06,360
+enregistrée on va vous la la présenter dans
+
+1241
+01:04:06,360 --> 01:04:10,540
+la plateforme tout à l'heure donc vous
+
+1242
+01:04:10,540 --> 01:04:12,600
+pouvez la récupérer on fera la même chose
+
+1243
+01:04:12,600 --> 01:04:15,700
+pour la virologie systématique la prochaine fois lorsqu
+
+1244
+01:04:15,700 --> 01:04:18,140
+'on va commencer les familles de virus voilà,
+
+1245
+01:04:18,340 --> 01:04:20,420
+est-ce que vous avez des questions ?
+
+1246
+01:04:20,420 --> 01:04:21,180
+Monsieur ?
+
+1247
+01:04:21,880 --> 01:04:23,720
+Monsieur, s'il vous plaît pour le dernier
+
+1248
+01:04:23,720 --> 01:04:28,160
+cours de diagnostic à propos des diapos ou
+
+1249
+01:04:28,160 --> 01:04:31,400
+bien des parties que vous avez dépassées est
+
+1250
+01:04:31,400 --> 01:04:32,300
+-ce qu'on n'est pas censé les
+
+1251
+01:04:32,300 --> 01:04:33,540
+avoir ?
+
+1252
+01:04:33,540 --> 01:04:35,980
+Non, vous devez les lire c'est très
+
+1253
+01:04:35,980 --> 01:04:39,980
+bien expliqué là-dedans d'accord, mais j
+
+1254
+01:04:39,980 --> 01:04:42,100
+'ai insisté sur les choses, les messages qui
+
+1255
+01:04:42,100 --> 01:04:46,140
+sont importants Monsieur ?
+
+1256
+01:04:46,140 --> 01:04:47,520
+Oui ?
+
+1257
+01:04:47,520 --> 01:04:48,420
+S'il vous plaît, est-ce qu'on
+
+1258
+01:04:48,420 --> 01:04:51,800
+peut avoir les cours sous forme de PDF
+
+1259
+01:04:51,800 --> 01:04:55,200
+ou PowerPoint pour pouvoir lire ?
+
+1260
+01:04:55,200 --> 01:05:00,360
+Alors les cours non sonorisés vous allez les
+
+1261
+01:05:00,360 --> 01:05:04,280
+avoir tout de suite la virologie générale et
+
+1262
+01:05:04,280 --> 01:05:06,100
+la virologie systématique, tous les cours vous allez
+
+1263
+01:05:06,100 --> 01:05:09,160
+les avoir aujourd'hui mais ils ne sont
+
+1264
+01:05:09,160 --> 01:05:11,840
+pas sonorisés n'écrivez pas encore que les
+
+1265
+01:05:11,840 --> 01:05:13,420
+cours que nous avons reçus ne sont pas
+
+1266
+01:05:13,420 --> 01:05:15,340
+sonorisés d'accord ?
+
+1267
+01:05:15,340 --> 01:05:17,600
+Dites-le à vos représentants, ça ne sert
+
+1268
+01:05:17,600 --> 01:05:20,220
+à rien parce qu'on va sonoriser les
+
+1269
+01:05:20,220 --> 01:05:22,560
+cours interactifs c'est là que c'est
+
+1270
+01:05:22,560 --> 01:05:24,920
+important parce que c'est interactif, on peut
+
+1271
+01:05:24,920 --> 01:05:26,900
+poser des questions on peut répondre, etc.
+
+1272
+01:05:27,580 --> 01:05:29,860
+Donc là, aujourd'hui, nous avons fait toute
+
+1273
+01:05:29,860 --> 01:05:33,480
+la virologie générale en séance interactive qui est
+
+1274
+01:05:33,480 --> 01:05:35,760
+sonorisée qu'on va mettre dans la plateforme
+
+1275
+01:05:35,760 --> 01:05:38,400
+pour les cours de la prochaine fois on
+
+1276
+01:05:38,400 --> 01:05:40,520
+va faire un cours interactif on va passer
+
+1277
+01:05:40,520 --> 01:05:42,720
+en revue ce que je vais vous mettre
+
+1278
+01:05:42,720 --> 01:05:45,760
+à disposition à partir d'aujourd'hui en
+
+1279
+01:05:45,760 --> 01:05:48,980
+cours non sonorisés dans la plateforme mais on
+
+1280
+01:05:48,980 --> 01:05:51,700
+va le faire en interactif d'accord ?
+
+1281
+01:05:51,700 --> 01:05:54,380
+D'accord, merci beaucoup monsieur Est-ce que
+
+1282
+01:05:54,380 --> 01:05:56,440
+vous avez d'autres questions ?
+
+1283
+01:06:11,130 --> 01:06:12,370
+C'est bon ?
+
+1284
+01:06:12,370 --> 01:06:13,450
+Donc on va arrêter

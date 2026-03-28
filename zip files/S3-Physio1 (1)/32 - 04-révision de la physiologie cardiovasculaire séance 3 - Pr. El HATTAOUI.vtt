@@ -1,0 +1,9373 @@
+WEBVTT
+
+1
+00:00:01.260 --> 00:00:03.800
+On va la concentrer cette fois-ci sur
+
+2
+00:00:03.800 --> 00:00:08.120
+la partie hémodynamique cardiaque.
+
+3
+00:00:09.100 --> 00:00:11.760
+Aujourd'hui, on va commencer par la première
+
+4
+00:00:11.760 --> 00:00:12.120
+notion.
+
+5
+00:00:12.260 --> 00:00:13.440
+Vous vous rappelez, dans le cours, on avait
+
+6
+00:00:13.440 --> 00:00:15.180
+parlé de l'équation de continuité.
+
+7
+00:00:16.960 --> 00:00:18.880
+Je vais plutôt la développer un peu plus
+
+8
+00:00:18.880 --> 00:00:22.060
+en mettant l'équation du Bernoulli, qui nous
+
+9
+00:00:22.060 --> 00:00:23.540
+apporte encore plus d'éléments.
+
+10
+00:00:25.740 --> 00:00:27.420
+Est-ce que vous voyez le tableau ?
+
+11
+00:00:27.420 --> 00:00:28.880
+Oui, j'ai bien compris le mot.
+
+12
+00:00:30.600 --> 00:00:34.440
+Selon l'équation du Bernoulli, elle est importante
+
+13
+00:00:34.440 --> 00:00:35.860
+parce qu'elle nous permet de dire que
+
+14
+00:00:35.860 --> 00:00:41.840
+dans un tube donné, l'énergie totale d
+
+15
+00:00:41.840 --> 00:00:45.600
+'un liquide en mouvement, en fait, elle est
+
+16
+00:00:45.600 --> 00:00:47.320
+partagée en trois types d'énergie.
+
+17
+00:00:47.580 --> 00:00:49.360
+Il y a la pression, il y a
+
+18
+00:00:49.360 --> 00:00:53.420
+l'énergie potentielle, et il y a l
+
+19
+00:00:53.420 --> 00:00:54.960
+'énergie, bien sûr, cinétique.
+
+20
+00:00:54.960 --> 00:00:58.260
+L'énergie avec laquelle, je vais passer ça,
+
+21
+00:01:00.660 --> 00:01:02.260
+l'énergie cinétique.
+
+22
+00:01:11.700 --> 00:01:13.500
+Là, c'est intéressant parce que ça va
+
+23
+00:01:13.500 --> 00:01:15.500
+vous donner une idée sur ce qui nous
+
+24
+00:01:15.500 --> 00:01:16.020
+intéresse.
+
+25
+00:01:16.520 --> 00:01:18.640
+L'énergie cinétique, bien sûr, vous le savez
+
+26
+00:01:18.640 --> 00:01:23.100
+déjà, c'est N2 sur la vitesse du
+
+27
+00:01:23.100 --> 00:01:25.100
+son au carré, puis l'énergie potentielle, c
+
+28
+00:01:25.100 --> 00:01:28.040
+'est tout ce qui est Rho, H, SG.
+
+29
+00:01:29.300 --> 00:01:31.600
+Mais pour une hauteur donnée, c'est-à
+
+30
+00:01:31.600 --> 00:01:33.560
+-dire quand on a un patient en position
+
+31
+00:01:33.560 --> 00:01:36.760
+horizontale, on peut éliminer la hauteur et finalement
+
+32
+00:01:36.760 --> 00:01:38.480
+on peut se passer de l'énergie potentielle.
+
+33
+00:01:38.600 --> 00:01:39.640
+Et qu'est-ce qu'on retient ?
+
+34
+00:01:39.640 --> 00:01:42.160
+Que l'énergie d'un liquide, elle est
+
+35
+00:01:42.160 --> 00:01:44.380
+déterminée par la pression avec laquelle il s
+
+36
+00:01:44.380 --> 00:01:46.160
+'écoule et sa vitesse.
+
+37
+00:01:46.440 --> 00:01:48.380
+Voilà pourquoi je vous ai montré l'équation
+
+38
+00:01:48.380 --> 00:01:48.980
+du Bernoulli.
+
+39
+00:01:48.980 --> 00:01:52.760
+Et plus intéressant, c'est que quand un
+
+40
+00:01:52.760 --> 00:01:55.500
+liquide s'écoule généralement selon une différence de
+
+41
+00:01:55.500 --> 00:01:58.120
+pression, c'est-à-dire, on va effacer
+
+42
+00:01:58.120 --> 00:02:03.180
+ça, c'est-à-dire finalement entre un
+
+43
+00:02:03.180 --> 00:02:05.920
+point A et un point B d'un
+
+44
+00:02:05.920 --> 00:02:06.540
+tube donné.
+
+45
+00:02:07.880 --> 00:02:11.690
+Je vais effacer le tableau.
+
+46
+00:02:12.830 --> 00:02:14.790
+Entre un point A et un point B.
+
+47
+00:02:19.010 --> 00:02:21.610
+Imaginez qu'à l'entrée, vous avez une
+
+48
+00:02:21.610 --> 00:02:23.590
+pression A et à la sortie, vous avez
+
+49
+00:02:23.590 --> 00:02:24.570
+une pression B.
+
+50
+00:02:25.190 --> 00:02:27.230
+Selon l'équation du Bernoulli qui vous dit
+
+51
+00:02:27.230 --> 00:02:29.290
+que l'énergie se conserve.
+
+52
+00:02:30.190 --> 00:02:33.710
+Donc si l'écoulement se fait d'un
+
+53
+00:02:33.710 --> 00:02:35.910
+gradient de pression élevé disons à l'entrée,
+
+54
+00:02:36.030 --> 00:02:40.210
+on est à 90 mmHg et le son
+
+55
+00:02:40.210 --> 00:02:42.410
+va s'écouler vers l'endroit B où
+
+56
+00:02:42.410 --> 00:02:44.770
+la pression est plus basse, à 70 mmHg.
+
+57
+00:02:45.630 --> 00:02:48.210
+Si par hasard la pression est plus basse,
+
+58
+00:02:49.030 --> 00:02:52.390
+forcément selon l'équation de Bernoulli, la pression
+
+59
+00:02:52.390 --> 00:02:55.090
+en A est plus élevée que la pression
+
+60
+00:02:55.090 --> 00:02:55.530
+en B.
+
+61
+00:02:55.630 --> 00:02:58.710
+Si vous voulez avoir la même énergie totale,
+
+62
+00:02:58.790 --> 00:03:00.890
+vous devez avoir une énergie cinétique en B
+
+63
+00:03:00.890 --> 00:03:01.890
+plus élevée qu'en A.
+
+64
+00:03:02.290 --> 00:03:03.850
+C'est-à-dire finalement la vitesse B
+
+65
+00:03:03.850 --> 00:03:05.850
+est plus importante que la vitesse en A.
+
+66
+00:03:06.470 --> 00:03:08.010
+Ce qui vous donne quoi ?
+
+67
+00:03:08.010 --> 00:03:09.850
+Ce qui vous donne que la vitesse va
+
+68
+00:03:09.850 --> 00:03:10.410
+augmenter.
+
+69
+00:03:10.410 --> 00:03:13.370
+Et ceci arrive quand on a par exemple
+
+70
+00:03:13.370 --> 00:03:15.230
+un tube comme ça et on a une
+
+71
+00:03:15.230 --> 00:03:18.450
+sténose qui s'est installée en un point
+
+72
+00:03:18.450 --> 00:03:18.770
+B.
+
+73
+00:03:19.910 --> 00:03:22.950
+Cette sténose va entraîner une chute de la
+
+74
+00:03:22.950 --> 00:03:24.830
+pression et donc au lieu d'avoir 90
+
+75
+00:03:24.830 --> 00:03:28.430
+ici, on va à 70 et automatiquement la
+
+76
+00:03:28.430 --> 00:03:30.830
+vitesse du son va augmenter au niveau de
+
+77
+00:03:30.830 --> 00:03:31.410
+la sténose.
+
+78
+00:03:31.650 --> 00:03:33.130
+C'est la manière avec laquelle on se
+
+79
+00:03:33.130 --> 00:03:35.810
+détermine et on calcule les sténoses actuellement.
+
+80
+00:03:35.810 --> 00:03:38.570
+En basant sur le Doppler, il suffit de
+
+81
+00:03:38.570 --> 00:03:40.830
+calculer la vitesse entre un point A et
+
+82
+00:03:40.830 --> 00:03:41.390
+un point B.
+
+83
+00:03:41.570 --> 00:03:43.590
+Et s'il s'élève, ça témoigne certainement
+
+84
+00:03:43.590 --> 00:03:46.290
+d'une diminution du diamètre.
+
+85
+00:03:46.770 --> 00:03:52.390
+Diminution du diamètre et puis chuter le niveau
+
+86
+00:03:52.390 --> 00:03:52.810
+de pression.
+
+87
+00:03:53.430 --> 00:03:55.110
+C'est bon ?
+
+88
+00:03:55.110 --> 00:03:59.230
+Dans le cours, vous avez eu l'équivalent
+
+89
+00:03:59.230 --> 00:04:01.030
+de l'équation de Bernoulli qui était l
+
+90
+00:04:01.030 --> 00:04:02.250
+'équation de continuité.
+
+91
+00:04:03.310 --> 00:04:06.350
+Je vais effacer le tableau ou alors on
+
+92
+00:04:06.350 --> 00:04:07.690
+peut prendre une autre page.
+
+93
+00:04:13.250 --> 00:04:15.529
+Dans l'équation de continuité, vous aviez à
+
+94
+00:04:15.529 --> 00:04:16.510
+peu près la même chose.
+
+95
+00:04:16.649 --> 00:04:18.810
+Ici, j'ai parlé de l'énergie totale
+
+96
+00:04:18.810 --> 00:04:19.470
+qui se conserve.
+
+97
+00:04:20.329 --> 00:04:22.250
+Dans l'équation de continuité, vous avez eu
+
+98
+00:04:22.250 --> 00:04:24.330
+une conservation du débit.
+
+99
+00:04:27.100 --> 00:04:29.580
+Donc le débit en A va être égal
+
+100
+00:04:29.580 --> 00:04:30.560
+au débit en B.
+
+101
+00:04:30.560 --> 00:04:32.700
+Le débit, on peut le décliner de deux
+
+102
+00:04:32.700 --> 00:04:33.040
+façons.
+
+103
+00:04:33.420 --> 00:04:35.360
+Dans le cours du cycle cardiaque, je vous
+
+104
+00:04:35.360 --> 00:04:37.060
+ai montré que le débit se calcule par
+
+105
+00:04:37.060 --> 00:04:40.280
+le volume éjecté que multiplie la fréquence cardiaque.
+
+106
+00:04:40.840 --> 00:04:43.780
+Mais dans un conduit, dans un vaisseau, plutôt
+
+107
+00:04:43.780 --> 00:04:46.260
+on le calcule simplement par le volume du
+
+108
+00:04:46.260 --> 00:04:48.360
+son qui traverse un diamètre de section d
+
+109
+00:04:48.360 --> 00:04:48.740
+'un vaisseau.
+
+110
+00:04:48.900 --> 00:04:51.720
+Donc finalement, ça va être la vitesse avec
+
+111
+00:04:51.720 --> 00:04:55.600
+laquelle le son passe que multiplie l'air
+
+112
+00:04:55.600 --> 00:04:57.980
+ou la surface, l'air en A.
+
+113
+00:04:57.980 --> 00:05:00.700
+Vous allez avoir exactement la même chose en
+
+114
+00:05:00.700 --> 00:05:02.660
+A et en B, c'est-à-dire
+
+115
+00:05:02.660 --> 00:05:04.520
+la vitesse que multiplie l'air en B.
+
+116
+00:05:05.860 --> 00:05:07.540
+Ça revient à ce qu'on vient de
+
+117
+00:05:07.540 --> 00:05:09.720
+dire, c'est-à-dire que si vous
+
+118
+00:05:09.720 --> 00:05:15.580
+avez une sténose ici, ça va diminuer l
+
+119
+00:05:15.580 --> 00:05:19.340
+'air en B, et pour conserver le même
+
+120
+00:05:19.340 --> 00:05:20.960
+débit, la vitesse doit augmenter.
+
+121
+00:05:22.580 --> 00:05:25.320
+C'est la même formule, mais en fait,
+
+122
+00:05:25.580 --> 00:05:28.400
+au vrai, c'était l'équivalence de Bernouillet
+
+123
+00:05:28.400 --> 00:05:30.120
+à partir de laquelle on a déduit l
+
+124
+00:05:30.120 --> 00:05:31.860
+'équivalence de continuité.
+
+125
+00:05:33.260 --> 00:05:34.160
+C'est bon ?
+
+126
+00:05:37.230 --> 00:05:40.150
+Alors ça d'une part, ce que j
+
+127
+00:05:40.150 --> 00:05:41.950
+'ai envie que vous ne mélangez pas dans
+
+128
+00:05:41.950 --> 00:05:44.570
+le cours de l'hémodynamique cardiaque, c'est
+
+129
+00:05:44.570 --> 00:05:45.530
+les notions suivantes.
+
+130
+00:05:45.930 --> 00:05:46.890
+Je sais que vous allez avoir beaucoup de
+
+131
+00:05:46.890 --> 00:05:49.570
+formules, mais en tout cas, il ne faut
+
+132
+00:05:49.570 --> 00:05:51.230
+absolument pas faire le mélange.
+
+133
+00:05:51.710 --> 00:05:55.330
+Quand on parle de pression artérielle, on va
+
+134
+00:05:55.330 --> 00:06:00.750
+absolument devoir la différencier du débit artériel, la
+
+135
+00:06:00.750 --> 00:06:04.310
+différencier de la notion de vitesse avec laquelle
+
+136
+00:06:04.310 --> 00:06:06.750
+le son s'écoule, la différencier par la
+
+137
+00:06:06.750 --> 00:06:09.410
+suite de la notion, alors vous avez la
+
+138
+00:06:09.410 --> 00:06:13.830
+pression, le débit, la vitesse et les résistances.
+
+139
+00:06:16.210 --> 00:06:18.750
+Ce sont des notions fondamentales qui vont changer
+
+140
+00:06:18.750 --> 00:06:21.530
+à chaque fois et qui vont nous permettre
+
+141
+00:06:21.530 --> 00:06:24.250
+de comprendre beaucoup de phénomènes dans la circulation
+
+142
+00:06:24.250 --> 00:06:24.890
+artérielle.
+
+143
+00:06:25.390 --> 00:06:28.250
+Exemple, avant de développer un peu plus ça,
+
+144
+00:06:28.830 --> 00:06:31.350
+on va parler d'organes qui sont vascularisés
+
+145
+00:06:31.350 --> 00:06:32.570
+avec une résistance faible.
+
+146
+00:06:32.830 --> 00:06:34.950
+Par exemple, le cerveau doit être vascularisé avec
+
+147
+00:06:34.950 --> 00:06:38.030
+une résistance faible, alors que dans les muscles,
+
+148
+00:06:38.510 --> 00:06:40.130
+la résistance doit être plus élevée.
+
+149
+00:06:41.190 --> 00:06:42.330
+Ça veut dire quoi ?
+
+150
+00:06:42.330 --> 00:06:44.830
+Ça veut dire qu'on doit décliner toutes
+
+151
+00:06:44.830 --> 00:06:47.670
+les formules de l'hémodynamique qui nous permettent
+
+152
+00:06:47.670 --> 00:06:48.430
+de comprendre ça.
+
+153
+00:06:48.950 --> 00:06:50.390
+On a vu tout à l'heure l
+
+154
+00:06:50.390 --> 00:06:52.790
+'équation du Bernouillet et l'équation de continuité.
+
+155
+00:06:53.490 --> 00:06:54.630
+Il y a une autre formule qu'il
+
+156
+00:06:54.630 --> 00:06:57.670
+faut connaître absolument qui relie la pression artérielle,
+
+157
+00:06:57.730 --> 00:06:59.570
+la résistance et le débit, qui dit que
+
+158
+00:06:59.570 --> 00:07:02.750
+la pression est le produit du débit qui
+
+159
+00:07:02.750 --> 00:07:03.850
+multiplie la résistance.
+
+160
+00:07:05.390 --> 00:07:07.890
+Donc automatiquement, la pression qui règne à l
+
+161
+00:07:07.890 --> 00:07:09.530
+'intérieur d'un vaisseau, c'est-à-dire
+
+162
+00:07:09.530 --> 00:07:12.970
+qui s'exerce finalement sur les parois de
+
+163
+00:07:12.970 --> 00:07:15.470
+ce vaisseau, elle va être dépendante de deux
+
+164
+00:07:15.470 --> 00:07:16.010
+paramètres.
+
+165
+00:07:16.010 --> 00:07:18.950
+Un des paramètres importants, c'est les résistances.
+
+166
+00:07:20.210 --> 00:07:25.630
+Les résistances, donc, finalement, comme si je dessine
+
+167
+00:07:25.630 --> 00:07:28.350
+une main ici, je ne dessine pas très
+
+168
+00:07:28.350 --> 00:07:30.430
+bien, mais bon, et vous avez un liquide
+
+169
+00:07:30.430 --> 00:07:32.770
+qui veut s'écouler, il rentre avec une
+
+170
+00:07:32.770 --> 00:07:35.470
+pression donnée, mais si je le gêne au
+
+171
+00:07:35.470 --> 00:07:38.410
+point B, je crée une résistance à son
+
+172
+00:07:38.410 --> 00:07:38.890
+écoulement.
+
+173
+00:07:39.410 --> 00:07:41.450
+Pour pouvoir vaincre ceci, il va falloir que
+
+174
+00:07:41.450 --> 00:07:43.110
+la pression augmente, et l'équation me le
+
+175
+00:07:43.110 --> 00:07:43.270
+dit.
+
+176
+00:07:43.270 --> 00:07:45.990
+Elle me dit que la pression égale le
+
+177
+00:07:45.990 --> 00:07:47.270
+débit qui est multiplié par la résistance.
+
+178
+00:07:47.350 --> 00:07:49.230
+Si vous voulez maintenir le même débit, il
+
+179
+00:07:49.230 --> 00:07:51.410
+va falloir que les résistances...
+
+180
+00:07:51.910 --> 00:07:54.190
+Si les résistances augmentent et vous voulez maintenir
+
+181
+00:07:54.190 --> 00:07:55.530
+le même débit, il faut que la pression
+
+182
+00:07:55.530 --> 00:07:55.850
+monte.
+
+183
+00:07:56.670 --> 00:07:58.610
+Et donc, si vous voulez, c'est un
+
+184
+00:07:58.610 --> 00:08:01.770
+premier moyen qui vous explique la situation pathologique
+
+185
+00:08:01.770 --> 00:08:03.090
+de l'hypertension artérielle.
+
+186
+00:08:03.470 --> 00:08:06.490
+Je peux avoir une hypertension artérielle simplement par
+
+187
+00:08:06.490 --> 00:08:09.690
+élévation, soit des résistances, soit des débits, et
+
+188
+00:08:09.690 --> 00:08:11.170
+dans l'exemple que je vous ai montré
+
+189
+00:08:11.170 --> 00:08:13.290
+ici, c'était les résistances.
+
+190
+00:08:13.450 --> 00:08:16.890
+Sur l'arbre artériel, où se situent exactement
+
+191
+00:08:16.890 --> 00:08:18.550
+les résistances ?
+
+192
+00:08:18.550 --> 00:08:20.970
+Alors ça, ça me ramène au cours de
+
+193
+00:08:20.970 --> 00:08:21.690
+la dernière fois.
+
+194
+00:08:21.850 --> 00:08:24.590
+Vous vous rappelez, on a comparé l'élastance
+
+195
+00:08:24.590 --> 00:08:25.650
+avec l'accompliance.
+
+196
+00:08:26.150 --> 00:08:27.710
+Je prends une autre couleur, le blanc, ça
+
+197
+00:08:27.710 --> 00:08:28.150
+passe mieux.
+
+198
+00:08:29.530 --> 00:08:32.030
+Vous vous rappelez qu'on avait dessiné une
+
+199
+00:08:32.030 --> 00:08:34.770
+courbe qui relie le volume à la pression.
+
+200
+00:08:36.450 --> 00:08:38.169
+Je vous ai dit que dans les veines,
+
+201
+00:08:38.809 --> 00:08:40.090
+j'aurais une droite comme ça.
+
+202
+00:08:40.909 --> 00:08:44.310
+Ça veut dire que le volume augmente, mais
+
+203
+00:08:44.310 --> 00:08:46.050
+pour une pression qui n'augmente pas beaucoup.
+
+204
+00:08:47.250 --> 00:08:51.340
+Et ça, on l'a appelé, on ne
+
+205
+00:08:51.340 --> 00:08:53.180
+l'a pas appelé élastance, parce que ce
+
+206
+00:08:53.180 --> 00:09:06.480
+qui nous intéresse dans les veines, c
+
+207
+00:09:06.480 --> 00:09:07.060
+'est l'inverse.
+
+208
+00:09:07.820 --> 00:09:09.600
+C'est de mettre le volume ici et
+
+209
+00:09:09.600 --> 00:09:11.320
+la pression ici et d'avoir une droite
+
+210
+00:09:11.320 --> 00:09:11.780
+comme ça.
+
+211
+00:09:12.500 --> 00:09:13.840
+Donc ce qui nous intéresse, c'est plutôt
+
+212
+00:09:13.840 --> 00:09:14.540
+là.
+
+213
+00:09:15.740 --> 00:09:21.800
+Compliance des veines, leur capacité à se distendre,
+
+214
+00:09:21.900 --> 00:09:24.740
+et on l'a appelé aussi la capacitance.
+
+215
+00:09:27.160 --> 00:09:28.260
+Et c'est ce qui explique une notion
+
+216
+00:09:28.260 --> 00:09:33.420
+très importante, puisque les veines se distendent facilement,
+
+217
+00:09:34.480 --> 00:09:37.040
+ils emmagasinent à peu près 80% du
+
+218
+00:09:37.040 --> 00:09:38.200
+volume sanguin.
+
+219
+00:09:38.780 --> 00:09:45.440
+Alors que pour les artères, vous allez avoir
+
+220
+00:09:45.440 --> 00:09:46.380
+une droite comme ça.
+
+221
+00:09:46.680 --> 00:09:49.060
+C'est à dire pour une modification pas
+
+222
+00:09:49.060 --> 00:09:51.100
+très importante du volume, vous avez une augmentation
+
+223
+00:09:51.100 --> 00:09:52.440
+de la pression assez élevée.
+
+224
+00:09:53.660 --> 00:09:55.560
+Et donc forcément, la paroi des artères doit
+
+225
+00:09:55.560 --> 00:09:57.760
+être différente de celle des veines, et aussi
+
+226
+00:09:57.760 --> 00:10:00.440
+la caractéristique qui va différencier les artères des
+
+227
+00:10:00.440 --> 00:10:01.220
+veines doit être différente.
+
+228
+00:10:01.740 --> 00:10:05.000
+Donc la relation pression sur volume va déterminer
+
+229
+00:10:05.000 --> 00:10:06.940
+ce qu'on a appelé l'élastance.
+
+230
+00:10:08.160 --> 00:10:11.520
+On va l'appeler aussi, dans le jargon,
+
+231
+00:10:12.440 --> 00:10:14.060
+la distensibilité.
+
+232
+00:10:14.620 --> 00:10:15.860
+Mais je vais vous dire quelle est la
+
+233
+00:10:15.860 --> 00:10:16.660
+différence entre les deux.
+
+234
+00:10:17.560 --> 00:10:18.820
+Et pour ce qui m'intéresse ici, l
+
+235
+00:10:18.820 --> 00:10:20.920
+'élastance c'est pour la pression sur le
+
+236
+00:10:20.920 --> 00:10:21.960
+volume pour les artères.
+
+237
+00:10:23.120 --> 00:10:24.680
+Et donc les artères, à cause de cette
+
+238
+00:10:24.680 --> 00:10:27.780
+élastance, ils contiennent à peu près, ils restent
+
+239
+00:10:27.780 --> 00:10:29.860
+20% du volume sanguin, moi je mettrais
+
+240
+00:10:29.860 --> 00:10:31.560
+15% parce que les 5% qui
+
+241
+00:10:31.560 --> 00:10:33.620
+restent, on va les retrouver dans les vaisseaux
+
+242
+00:10:33.620 --> 00:10:33.940
+lymphatiques.
+
+243
+00:10:33.940 --> 00:10:43.520
+Alors ces notions sont très importantes.
+
+244
+00:10:44.320 --> 00:10:46.160
+Elles vont nous ramener à la notion suivante.
+
+245
+00:10:47.980 --> 00:10:56.060
+Si je prends le cœur, et je prends
+
+246
+00:10:56.060 --> 00:11:04.020
+la circulation aortique, je prends l'aorte comme
+
+247
+00:11:04.020 --> 00:11:12.730
+ça, en train d'éjecter, à la sortie
+
+248
+00:11:12.730 --> 00:11:16.210
+de l'aorte, au début de l'aorte,
+
+249
+00:11:16.250 --> 00:11:17.910
+à la sortie du ventricule gauche, le sang
+
+250
+00:11:17.910 --> 00:11:19.470
+va sortir avec une pression donnée.
+
+251
+00:11:21.210 --> 00:11:23.650
+Et cette pression va permettre de propager le
+
+252
+00:11:23.650 --> 00:11:24.730
+sang dans l'aorte.
+
+253
+00:11:25.850 --> 00:11:27.190
+J'aurai deux cas de figure.
+
+254
+00:11:27.430 --> 00:11:29.810
+Le premier, j'ai une aorte comme ça,
+
+255
+00:11:31.230 --> 00:11:32.870
+qui ne se distend pas.
+
+256
+00:11:34.570 --> 00:11:36.750
+Donc si je prends la relation pression volume,
+
+257
+00:11:36.750 --> 00:11:40.850
+je vais trouver que pour un volume éjecté
+
+258
+00:11:40.850 --> 00:11:43.710
+dans l'aorte X, la pression, par exemple,
+
+259
+00:11:43.870 --> 00:11:45.090
+monte de façon importante.
+
+260
+00:11:45.650 --> 00:11:46.610
+L'artère est rigide.
+
+261
+00:11:48.370 --> 00:11:51.230
+Et je prends en bas un autre exemple
+
+262
+00:11:51.230 --> 00:11:54.670
+de cœur, mais cette fois-ci avec une
+
+263
+00:11:54.670 --> 00:11:57.490
+aorte qui est souple, qui est dispensable.
+
+264
+00:11:58.750 --> 00:12:00.110
+Et donc à chaque fois que j'ai
+
+265
+00:12:00.110 --> 00:12:03.930
+une systole, je prends le rouge, chaque fois
+
+266
+00:12:03.930 --> 00:12:06.490
+que j'ai une systole, l'artère arrive
+
+267
+00:12:06.490 --> 00:12:07.270
+à faire comme ça.
+
+268
+00:12:12.540 --> 00:12:13.040
+Pourquoi ?
+
+269
+00:12:13.040 --> 00:12:16.480
+Parce que sa compliance, son élastance, par exemple,
+
+270
+00:12:19.340 --> 00:12:21.540
+est plus importante que celle à côté.
+
+271
+00:12:21.680 --> 00:12:23.680
+Et donc elle permet de se distendre un
+
+272
+00:12:23.680 --> 00:12:23.800
+peu.
+
+273
+00:12:24.140 --> 00:12:25.140
+Elle n'est pas très élevée.
+
+274
+00:12:25.920 --> 00:12:26.960
+Elle est moins élevée.
+
+275
+00:12:27.200 --> 00:12:28.020
+Je vais la mettre comme ça.
+
+276
+00:12:29.340 --> 00:12:30.500
+Et donc elle arrive à se distendre.
+
+277
+00:12:30.680 --> 00:12:31.780
+Qu'est-ce que ça change selon l
+
+278
+00:12:31.780 --> 00:12:33.940
+'équation du Bernouilli qu'on a vue au
+
+279
+00:12:33.940 --> 00:12:36.060
+début, avec laquelle j'ai commencé ?
+
+280
+00:12:36.060 --> 00:12:38.660
+Vous savez que l'écoulement correspond à trois
+
+281
+00:12:38.660 --> 00:12:39.240
+types d'énergie.
+
+282
+00:12:39.820 --> 00:12:41.960
+Moi, j'enlève l'énergie, comme je vous
+
+283
+00:12:41.960 --> 00:12:43.100
+ai dit, l'énergie potentielle.
+
+284
+00:12:43.220 --> 00:12:45.040
+Je vais garder l'énergie cinétique.
+
+285
+00:12:46.900 --> 00:12:49.160
+Et une deuxième énergie, qui est la pression.
+
+286
+00:12:49.660 --> 00:12:51.440
+Donc je vais dire qu'ici, j'ai
+
+287
+00:12:51.440 --> 00:12:54.740
+une pression donnée avec laquelle le sang va
+
+288
+00:12:54.740 --> 00:12:55.300
+circuler.
+
+289
+00:12:56.200 --> 00:12:58.040
+Et en bas, la même chose.
+
+290
+00:12:59.440 --> 00:13:01.200
+D'accord ?
+
+291
+00:13:01.200 --> 00:13:04.260
+Et puis je prends une autre couleur pour
+
+292
+00:13:04.260 --> 00:13:07.960
+dessiner l'énergie cinétique.
+
+293
+00:13:08.520 --> 00:13:09.740
+Donc le sang doit circuler.
+
+294
+00:13:18.390 --> 00:13:19.190
+Alors qu'est-ce qui se passe ?
+
+295
+00:13:19.190 --> 00:13:21.810
+Quelle est la différence entre les deux ?
+
+296
+00:13:21.810 --> 00:13:24.250
+C'est que ici, vous avez une artère
+
+297
+00:13:24.250 --> 00:13:26.010
+qui n'est pas distensible.
+
+298
+00:13:26.810 --> 00:13:29.510
+Ici, j'ai l'impression qu'une partie
+
+299
+00:13:29.510 --> 00:13:33.790
+de l'énergie cinétique s'est transformée en
+
+300
+00:13:33.790 --> 00:13:38.670
+une autre énergie qu'on va appeler, qu
+
+301
+00:13:38.670 --> 00:13:40.210
+'on va lui donner un autre nom, l
+
+302
+00:13:40.210 --> 00:13:41.470
+'énergie élastique.
+
+303
+00:13:46.250 --> 00:13:47.290
+Elastique pourquoi ?
+
+304
+00:13:47.290 --> 00:13:49.430
+Parce que ça nous renvoie à l'élasticité
+
+305
+00:13:49.430 --> 00:13:50.410
+de l'artère.
+
+306
+00:13:51.570 --> 00:13:54.570
+Et donc finalement, cette énergie, la pression va
+
+307
+00:13:54.570 --> 00:13:58.050
+prendre une partie, parce que c'est une
+
+308
+00:13:58.050 --> 00:14:00.170
+énergie qui est venue de l'énergie cinétique.
+
+309
+00:14:00.870 --> 00:14:04.810
+Je vais pouvoir diminuer un petit peu de
+
+310
+00:14:04.810 --> 00:14:09.590
+la pression dans l'artère pour la transformer,
+
+311
+00:14:11.990 --> 00:14:14.750
+pour finalement la mettre dans l'énergie cinétique.
+
+312
+00:14:15.430 --> 00:14:18.510
+C'est ça, dans l'énergie élastique.
+
+313
+00:14:18.610 --> 00:14:19.650
+Et comme il n'y a pas de
+
+314
+00:14:19.650 --> 00:14:22.510
+distensibilité dans le premier vaisseau, en gros, il
+
+315
+00:14:22.510 --> 00:14:28.090
+est rigide, je vais avoir aucune énergie élastique.
+
+316
+00:14:28.230 --> 00:14:30.850
+Donc mon énergie de pression va être la
+
+317
+00:14:30.850 --> 00:14:31.050
+même.
+
+318
+00:14:31.530 --> 00:14:33.190
+Qu'est-ce que vous remarquez ?
+
+319
+00:14:33.190 --> 00:14:35.150
+Ici, si la pression dans l'artère est
+
+320
+00:14:35.150 --> 00:14:39.130
+à 100, par exemple, 100 mmHg, parce qu
+
+321
+00:14:39.130 --> 00:14:41.550
+'une partie s'est transformée en énergie élastique,
+
+322
+00:14:42.050 --> 00:14:43.530
+en haut, elle va rester à 160.
+
+323
+00:14:46.530 --> 00:14:49.710
+La première conséquence d'une diminution de l
+
+324
+00:14:49.710 --> 00:14:54.130
+'élasticité artérielle, c'est que la pression artérielle,
+
+325
+00:14:54.170 --> 00:14:55.670
+et là on est en systole, donc on
+
+326
+00:14:55.670 --> 00:14:59.050
+peut l'appeler la pression artérielle systolique, va
+
+327
+00:14:59.050 --> 00:15:00.690
+être de plus en plus élevée dans les
+
+328
+00:15:00.690 --> 00:15:03.470
+artères rigides que dans les artères souples.
+
+329
+00:15:06.320 --> 00:15:09.620
+La deuxième conséquence, on va la voir en
+
+330
+00:15:09.620 --> 00:15:12.880
+diastole, si je garde le même schéma, et
+
+331
+00:15:12.880 --> 00:15:17.000
+cette fois-ci j'enlève la systolique, qu
+
+332
+00:15:17.000 --> 00:15:18.160
+'est-ce qu'il se passe ?
+
+333
+00:15:18.160 --> 00:15:22.520
+En diastole, la valve va se fermer, la
+
+334
+00:15:22.520 --> 00:15:24.880
+valve qui vient sur se fermer, il y
+
+335
+00:15:24.880 --> 00:15:27.920
+aura une pression minimale qui va rester dans
+
+336
+00:15:27.920 --> 00:15:32.420
+la worthe, elle va être avec une pression
+
+337
+00:15:32.420 --> 00:15:32.980
+plus faible.
+
+338
+00:15:33.960 --> 00:15:36.280
+Et bien sûr, une énergie cinétique, oui, il
+
+339
+00:15:36.280 --> 00:15:37.440
+y aura un écoulement, mais qui n'est
+
+340
+00:15:37.440 --> 00:15:38.860
+pas très important.
+
+341
+00:15:39.280 --> 00:15:42.200
+Donc mettons ici, je ne sais pas moi,
+
+342
+00:15:42.260 --> 00:15:44.120
+70 mm d'ouverture qu'il reste.
+
+343
+00:15:45.840 --> 00:15:48.080
+Pour le cas de l'artère qui est
+
+344
+00:15:48.080 --> 00:15:50.660
+souple, je vais avoir ce qu'on appelle
+
+345
+00:15:50.660 --> 00:15:54.720
+une restitution, je vais mettre le 1, je
+
+346
+00:15:54.720 --> 00:15:57.080
+vais avoir cette énergie qui s'est emmagasinée
+
+347
+00:15:57.080 --> 00:16:00.960
+dans la paroi, énergie élastique, va se transformer
+
+348
+00:16:00.960 --> 00:16:03.380
+en une énergie cinétique, parce qu'elle va
+
+349
+00:16:03.380 --> 00:16:07.240
+être restituée, c'est exactement le phénomène de
+
+350
+00:16:07.240 --> 00:16:07.820
+l'élastique.
+
+351
+00:16:08.280 --> 00:16:11.400
+Vous tirez sur les vaisseaux, et rapidement, les
+
+352
+00:16:11.400 --> 00:16:13.800
+vaisseaux vont par la suite se restituer, et
+
+353
+00:16:13.800 --> 00:16:17.940
+reprendre ou retransformer l'énergie qui les a
+
+354
+00:16:17.940 --> 00:16:19.500
+distendus en une énergie inverse.
+
+355
+00:16:20.080 --> 00:16:23.140
+Donc je vais avoir une bonne cinétique, mais
+
+356
+00:16:23.140 --> 00:16:27.740
+aussi une pression artérielle diastolique, une pression, attendez,
+
+357
+00:16:27.900 --> 00:16:33.000
+la gomme, pression diastolique, qui est un peu
+
+358
+00:16:33.000 --> 00:16:39.600
+plus élevée, parce qu'à la pression habituelle,
+
+359
+00:16:40.140 --> 00:16:46.060
+c'est rajouté la pression nouvelle, l'énergie
+
+360
+00:16:46.060 --> 00:16:47.700
+de pression nouvelle qui est venue de la
+
+361
+00:16:47.700 --> 00:16:49.760
+transformation de l'énergie élastique qui s'est
+
+362
+00:16:49.760 --> 00:16:52.600
+emmagasinée dans la paroi lors de l'éjection.
+
+363
+00:16:53.060 --> 00:16:54.400
+Je rêve, c'est dans le 90.
+
+364
+00:16:55.080 --> 00:16:57.840
+Donc le constat que je vais avoir, regardez,
+
+365
+00:16:58.360 --> 00:17:01.020
+si vous faites la différence, je vais reprendre
+
+366
+00:17:01.020 --> 00:17:03.260
+la pression systolique, ça c'est la diastolique,
+
+367
+00:17:03.720 --> 00:17:05.740
+dans les deux cas c'est la diastolique,
+
+368
+00:17:06.720 --> 00:17:09.000
+mais si vous reprenez les deux, la systolique
+
+369
+00:17:09.000 --> 00:17:10.480
+de tout à l'heure était à 160,
+
+370
+00:17:11.500 --> 00:17:15.180
+la diastolique ici était à 100, bon, elle
+
+371
+00:17:15.180 --> 00:17:20.880
+est à 100, là on dirait 80, et
+
+372
+00:17:20.880 --> 00:17:22.819
+là on va la mettre habituellement à 120.
+
+373
+00:17:23.599 --> 00:17:26.760
+Donc 100 ce n'est pas très exact,
+
+374
+00:17:27.620 --> 00:17:28.320
+mettons 120.
+
+375
+00:17:29.440 --> 00:17:30.540
+Pour faire quoi ?
+
+376
+00:17:30.540 --> 00:17:32.540
+Je vais m'intéresser à la différence entre
+
+377
+00:17:32.540 --> 00:17:32.860
+les deux.
+
+378
+00:17:33.260 --> 00:17:34.400
+La différence, c'est-à-dire que je
+
+379
+00:17:34.400 --> 00:17:38.440
+prends la systolique moins la diastolique, et ça,
+
+380
+00:17:38.640 --> 00:17:39.860
+elle a un nom, on l'appelle la
+
+381
+00:17:39.860 --> 00:17:40.640
+pression pulsée.
+
+382
+00:17:41.720 --> 00:17:43.480
+La pression pulsée, qu'est-ce que je
+
+383
+00:17:43.480 --> 00:17:44.460
+vais avoir ?
+
+384
+00:17:44.460 --> 00:17:48.220
+160 moins 70, ça va me faire quelque
+
+385
+00:17:48.220 --> 00:17:52.600
+chose comme, allez, 60, 90, il y a
+
+386
+00:17:52.600 --> 00:17:56.120
+même du mercure, alors qu'en bas, je
+
+387
+00:17:56.120 --> 00:17:58.520
+vais 120 moins 80, ça en fait 40.
+
+388
+00:17:59.820 --> 00:18:01.240
+Donc qu'est-ce que vous remarquez ?
+
+389
+00:18:01.240 --> 00:18:02.080
+Deux conséquences.
+
+390
+00:18:02.820 --> 00:18:04.560
+Quand l'élastique, et tout ceci on l
+
+391
+00:18:04.560 --> 00:18:06.560
+'a obtenu à partir, bien sûr après, à
+
+392
+00:18:06.560 --> 00:18:09.020
+partir de l'écosystème, on a compris que,
+
+393
+00:18:10.600 --> 00:18:12.720
+quand l'artère est rigide, c'est-à
+
+394
+00:18:12.720 --> 00:18:15.920
+-dire son élastance, elle est malheureusement élevée, donc
+
+395
+00:18:15.920 --> 00:18:18.820
+la rigidité artérielle est plus élevée, vous allez
+
+396
+00:18:18.820 --> 00:18:21.760
+avoir à la fois une pression artérielle systolique
+
+397
+00:18:21.760 --> 00:18:25.240
+plus importante, donc la systolique est plus élevée,
+
+398
+00:18:25.640 --> 00:18:28.480
+et aussi la pression pulsée est plus élevée.
+
+399
+00:18:29.240 --> 00:18:31.460
+A tel point qu'il suffit maintenant de
+
+400
+00:18:31.460 --> 00:18:35.420
+juste prendre la pression artérielle du patient, et
+
+401
+00:18:35.420 --> 00:18:39.920
+ça va me refléter l'état de l
+
+402
+00:18:39.920 --> 00:18:42.000
+'aorte, est-ce qu'elle est rigide, peu
+
+403
+00:18:42.000 --> 00:18:43.560
+rigide, ou est-ce qu'elle est souple
+
+404
+00:18:43.560 --> 00:18:43.820
+?
+
+405
+00:18:43.820 --> 00:18:47.960
+C'est un moyen simple, sans être obligé
+
+406
+00:18:47.960 --> 00:18:50.400
+d'aller faire des cathétérismes ou des examens
+
+407
+00:18:51.100 --> 00:18:51.740
+invasifs.
+
+408
+00:18:52.460 --> 00:18:55.660
+Cliniquement, je peux déjà retirer des notions importantes
+
+409
+00:18:55.660 --> 00:18:59.020
+juste en voyant le niveau de pression systolique
+
+410
+00:18:59.380 --> 00:19:01.880
+et en calculant la pression pulsée.
+
+411
+00:19:02.220 --> 00:19:04.980
+Donc la pression pulsée est corrélée à la
+
+412
+00:19:04.980 --> 00:19:08.520
+rigidité artérielle et l'élévation isolée de la
+
+413
+00:19:08.520 --> 00:19:11.660
+pression systolique, encore une fois, selon l'équation
+
+414
+00:19:11.660 --> 00:19:15.300
+de Berglier, elle est aussi corrélée à une
+
+415
+00:19:15.300 --> 00:19:17.720
+augmentation de la rigidité artérielle.
+
+416
+00:19:22.120 --> 00:19:23.180
+Voilà pour ces notions.
+
+417
+00:19:31.850 --> 00:19:39.740
+Il y a un autre principe qu'il
+
+418
+00:19:39.740 --> 00:19:41.300
+faut connaître, c'est qu'on a dit
+
+419
+00:19:41.300 --> 00:19:49.660
+que la pression artérielle, l'écoulement sanguin, il
+
+420
+00:19:49.660 --> 00:19:54.080
+est à la fois, on va sortir la
+
+421
+00:19:54.080 --> 00:19:59.020
+notion, il est laminaire et aussi l'écoulement
+
+422
+00:19:59.020 --> 00:20:03.480
+sanguin, c'est vrai, au niveau de la
+
+423
+00:20:03.480 --> 00:20:08.420
+horte, il est pulsatif, mais au niveau des
+
+424
+00:20:08.420 --> 00:20:11.800
+capillaires et des artérioles, des petits vaisseaux, il
+
+425
+00:20:11.800 --> 00:20:12.580
+est continu.
+
+426
+00:20:13.680 --> 00:20:16.040
+On ne peut pas quand même imaginer que
+
+427
+00:20:16.040 --> 00:20:19.340
+le sang dans la horte évolue comme ça
+
+428
+00:20:19.340 --> 00:20:23.900
+par pulsation, laquelle va se transmettre le long
+
+429
+00:20:23.900 --> 00:20:28.600
+de la horte vers les gros vaisseaux, les
+
+430
+00:20:28.600 --> 00:20:31.600
+grosses artères comme l'artère radiale, cubitale, fémorale,
+
+431
+00:20:31.700 --> 00:20:31.920
+etc.
+
+432
+00:20:32.700 --> 00:20:35.140
+Et j'arrive aux artérioles et à partir
+
+433
+00:20:35.140 --> 00:20:35.620
+des...
+
+434
+00:20:35.620 --> 00:20:37.960
+Je vais faire des biches en question pour
+
+435
+00:20:37.960 --> 00:20:38.780
+que vous me suivez.
+
+436
+00:20:40.000 --> 00:20:42.560
+Et j'arrive ici par exemple au niveau
+
+437
+00:20:42.560 --> 00:20:45.000
+des artérioles et à partir des artérioles encore
+
+438
+00:20:45.000 --> 00:20:47.600
+une fois, j'aurai des capillaires.
+
+439
+00:20:47.960 --> 00:20:49.540
+Je ne peux pas imaginer que le même
+
+440
+00:20:49.540 --> 00:20:55.480
+régime pulsatif se transmet jusqu'aux capillaires.
+
+441
+00:20:55.720 --> 00:20:57.160
+Les capillaires, je peux les mettre en rouge.
+
+442
+00:21:03.500 --> 00:21:04.660
+Pour quelles raisons ?
+
+443
+00:21:04.660 --> 00:21:06.840
+Parce que quand même, si une pulsation arrive
+
+444
+00:21:06.840 --> 00:21:09.680
+au niveau des capillaires, elle va certainement l
+
+445
+00:21:09.680 --> 00:21:10.020
+'éclater.
+
+446
+00:21:11.540 --> 00:21:13.200
+Donc il faut que l'écoulement au niveau
+
+447
+00:21:13.200 --> 00:21:15.140
+des capillaires, au niveau de la micro-circulation,
+
+448
+00:21:15.340 --> 00:21:16.600
+soit un écoulement qui est continu.
+
+449
+00:21:17.560 --> 00:21:19.520
+Alors comment passe-t-on d'un écoulement
+
+450
+00:21:19.520 --> 00:21:22.700
+pulsatif à un écoulement continu ?
+
+451
+00:21:23.320 --> 00:21:25.900
+Alors les vaisseaux, les organes ont besoin d
+
+452
+00:21:25.900 --> 00:21:28.340
+'être perfusés en permanence, donc ils ont besoin
+
+453
+00:21:28.340 --> 00:21:31.300
+au moins d'une composante continue.
+
+454
+00:21:32.480 --> 00:21:34.020
+Peut-être avec des vagues au cours de
+
+455
+00:21:34.020 --> 00:21:36.020
+la systole, mais il faut une composante continue.
+
+456
+00:21:36.920 --> 00:21:37.860
+Ça, c'est ce qu'on appelle le
+
+457
+00:21:37.860 --> 00:21:40.120
+principe de Windkessel.
+
+458
+00:21:41.760 --> 00:21:43.660
+Ça, c'est un principe qui est appliqué
+
+459
+00:21:43.660 --> 00:21:45.180
+notamment chez les pompiers.
+
+460
+00:21:47.780 --> 00:21:49.840
+C'est un principe simple et qui est
+
+461
+00:21:49.840 --> 00:21:52.280
+dû d'ailleurs à cette élasticité artérielle.
+
+462
+00:21:53.620 --> 00:21:55.200
+C'est le principe qui consiste à ce
+
+463
+00:21:55.200 --> 00:21:57.680
+que quand j'ai une pompe qui entraîne
+
+464
+00:21:57.680 --> 00:22:00.500
+des pulsations, quand j'ai une pompe qui
+
+465
+00:22:00.500 --> 00:22:04.480
+envoie des pulsations, cette pompe doit être dotée
+
+466
+00:22:04.480 --> 00:22:07.600
+en même temps d'un système qui emmagasine
+
+467
+00:22:07.600 --> 00:22:09.920
+une partie de l'énergie de la pression,
+
+468
+00:22:10.400 --> 00:22:10.920
+si vous voulez.
+
+469
+00:22:12.980 --> 00:22:15.700
+J'imagine qu'ici j'ai...
+
+470
+00:22:15.700 --> 00:22:17.300
+Ça, c'est chez les pompiers, un domaine
+
+471
+00:22:17.300 --> 00:22:17.800
+de système.
+
+472
+00:22:18.580 --> 00:22:21.140
+J'ai ici un piston et j'ai
+
+473
+00:22:21.140 --> 00:22:23.060
+ici une cavité où il y a de
+
+474
+00:22:23.060 --> 00:22:23.380
+l'air.
+
+475
+00:22:24.760 --> 00:22:28.300
+Le sang qui passe ici crée une énergie
+
+476
+00:22:28.300 --> 00:22:29.920
+qui va pousser sur les pistons.
+
+477
+00:22:30.340 --> 00:22:32.260
+Ça va comprimer l'air qui est là.
+
+478
+00:22:34.320 --> 00:22:36.840
+Et une fois la pulsation se termine, l
+
+479
+00:22:36.840 --> 00:22:38.740
+'air comprimé n'est plus sous compression.
+
+480
+00:22:38.740 --> 00:22:44.180
+Il repousse les pistons et le liquide continue
+
+481
+00:22:44.180 --> 00:22:46.680
+à couler même après l'éjection.
+
+482
+00:22:47.420 --> 00:22:49.900
+Ceci se retrouve où, chez l'être humain
+
+483
+00:22:49.900 --> 00:22:50.180
+?
+
+484
+00:22:50.180 --> 00:22:52.560
+Il se retrouve essentiellement, comme je vous l
+
+485
+00:22:52.560 --> 00:22:54.560
+'ai dit, dans l'artère qui est distensible.
+
+486
+00:22:55.480 --> 00:22:58.580
+Une artère distensible, c'est une artère qui
+
+487
+00:22:58.580 --> 00:23:01.180
+à la fois à chaque systole va se
+
+488
+00:23:01.180 --> 00:23:05.640
+dilater, et à la diastole va restituer cette
+
+489
+00:23:05.640 --> 00:23:09.380
+énergie et ça va se transformer en une
+
+490
+00:23:09.380 --> 00:23:12.640
+nouvelle énergie cinétique qui va permettre de maintenir
+
+491
+00:23:12.640 --> 00:23:19.520
+une pression entre les éjections, de transformer le
+
+492
+00:23:19.520 --> 00:23:21.320
+système pulsatif en un système continu.
+
+493
+00:23:25.740 --> 00:23:27.820
+Alors, qu'est-ce qu'il nous reste
+
+494
+00:23:27.820 --> 00:23:28.580
+?
+
+495
+00:23:28.580 --> 00:23:31.620
+On a parlé de l'effet de Windkessel.
+
+496
+00:23:33.460 --> 00:23:34.300
+Il y a une question.
+
+497
+00:23:39.250 --> 00:23:40.890
+Alors, qu'est-ce qui rigidifie les artères
+
+498
+00:23:40.890 --> 00:23:40.990
+?
+
+499
+00:23:40.990 --> 00:23:43.070
+Parfait, j'étais sur le point.
+
+500
+00:23:52.440 --> 00:23:53.520
+Très bonne question.
+
+501
+00:23:54.560 --> 00:23:56.720
+Avec laquelle je voulais enchaîner, c'est de
+
+502
+00:23:56.720 --> 00:23:58.840
+faire la différence entre la paroi d'une
+
+503
+00:23:58.840 --> 00:23:59.960
+artère et la paroi d'une veine.
+
+504
+00:24:00.080 --> 00:24:01.600
+On va dessiner tout ça ensemble.
+
+505
+00:24:02.700 --> 00:24:05.080
+Comme j'aimerais bien garder la couleur rouge
+
+506
+00:24:05.080 --> 00:24:07.000
+pour les artères, on va faire comme ça.
+
+507
+00:24:07.960 --> 00:24:12.520
+On va dessiner une artère en diamètre transverse.
+
+508
+00:24:12.520 --> 00:24:13.500
+Qu'est-ce que vous voyez ?
+
+509
+00:24:13.500 --> 00:24:16.440
+Vous voyez ici ce que j'appelle...
+
+510
+00:24:16.440 --> 00:24:18.340
+Je vais faire les deux à la fois
+
+511
+00:24:18.340 --> 00:24:19.280
+pour en finir.
+
+512
+00:24:20.580 --> 00:24:22.900
+Ça, c'est les deux limitantes élastiques, les
+
+513
+00:24:22.900 --> 00:24:25.080
+limitantes élastiques internes et externes.
+
+514
+00:24:25.500 --> 00:24:26.900
+Et en jaune...
+
+515
+00:24:26.900 --> 00:24:34.040
+Je vais mettre ici la couche interne qu
+
+516
+00:24:34.040 --> 00:24:35.760
+'on appelle de plusieurs noms.
+
+517
+00:24:36.720 --> 00:24:38.600
+On l'appelle l'intima et on l
+
+518
+00:24:38.600 --> 00:24:41.780
+'appelle aussi l'endothélium vasculaire ou la couche
+
+519
+00:24:41.780 --> 00:24:45.760
+endothéliale qui est une simple couche de cellules
+
+520
+00:24:47.300 --> 00:24:49.660
+endothéliales qui ont des fonctions très importantes pour
+
+521
+00:24:49.660 --> 00:24:51.380
+les artères parce qu'elles permettent de les
+
+522
+00:24:51.380 --> 00:24:57.380
+relâcher, de libérer des substances comme le monoxyde
+
+523
+00:24:57.380 --> 00:24:59.900
+d'azote, comme la prostacytlie, etc.
+
+524
+00:25:00.580 --> 00:25:03.880
+Ça permet de réguler, entre autres, ils ont
+
+525
+00:25:03.880 --> 00:25:07.140
+aussi des fonctions sur la coagulation sanguine, mais
+
+526
+00:25:07.140 --> 00:25:07.860
+ce n'est pas le moment d'en
+
+527
+00:25:07.860 --> 00:25:08.080
+parler.
+
+528
+00:25:09.300 --> 00:25:11.600
+En dessous de l'intima, il y a
+
+529
+00:25:11.600 --> 00:25:14.040
+une limitante élastique interne en dessous de laquelle,
+
+530
+00:25:14.180 --> 00:25:15.520
+vous savez, il y a la média.
+
+531
+00:25:15.720 --> 00:25:17.380
+Je ne sais pas quelle couleur je vais
+
+532
+00:25:17.380 --> 00:25:17.720
+mettre.
+
+533
+00:25:18.500 --> 00:25:20.220
+Mais la média, vous savez qu'elle est
+
+534
+00:25:20.220 --> 00:25:25.680
+essentiellement constituée de cellules musculaires lisses.
+
+535
+00:25:26.000 --> 00:25:28.300
+C'est peut-être l'occasion aussi pour
+
+536
+00:25:28.300 --> 00:25:29.520
+qu'on rappelle tout à l'heure la
+
+537
+00:25:29.520 --> 00:25:32.480
+différence entre les muscles lisses et les muscles
+
+538
+00:25:32.480 --> 00:25:33.200
+squelettiques.
+
+539
+00:25:33.200 --> 00:25:42.060
+Et après cette média, vous avez la limitante
+
+540
+00:25:42.060 --> 00:25:44.760
+élastique externe qui serait simplement l'adventice.
+
+541
+00:25:44.980 --> 00:25:46.280
+On va rappeler plutôt l'adventice.
+
+542
+00:25:46.860 --> 00:25:49.200
+Et au niveau de l'adventice, vous avez
+
+543
+00:25:49.200 --> 00:25:54.820
+bien sûr les vaisseaux qui vont vasculariser l
+
+544
+00:25:54.820 --> 00:25:56.920
+'artère parce que l'artère a besoin de
+
+545
+00:25:56.920 --> 00:26:00.780
+réseaux qui la vascularisent et ne se nourrit
+
+546
+00:26:00.780 --> 00:26:03.780
+pas directement des flux sanguins qui la traversent
+
+547
+00:26:03.780 --> 00:26:06.300
+mais plutôt à partir de ces vaisseaux qui
+
+548
+00:26:06.300 --> 00:26:08.800
+sont dans l'adventice et qui s'appellent
+
+549
+00:26:08.800 --> 00:26:12.060
+les vasavasaurins.
+
+550
+00:26:19.550 --> 00:26:22.050
+Et puis au niveau de l'adventice, vous
+
+551
+00:26:22.050 --> 00:26:28.950
+avez aussi des terminaisons nerveuses qui vont venir
+
+552
+00:26:28.950 --> 00:26:34.030
+assurer la régulation nerveuse de la vasomotricité d
+
+553
+00:26:34.030 --> 00:26:34.470
+'un vaisseau.
+
+554
+00:26:34.990 --> 00:26:36.890
+Donc ça c'est la paroi de l
+
+555
+00:26:36.890 --> 00:26:37.410
+'artère.
+
+556
+00:26:38.410 --> 00:26:41.450
+La veine a pratiquement la même chose sauf
+
+557
+00:26:41.450 --> 00:26:46.350
+que la veine a un intima, pas la
+
+558
+00:26:46.350 --> 00:26:47.830
+peine de reprendre les choses comme tout à
+
+559
+00:26:47.830 --> 00:26:50.390
+l'heure, elle a une média mais la
+
+560
+00:26:50.390 --> 00:26:52.770
+média est beaucoup plus fine donc ça va
+
+561
+00:26:52.770 --> 00:26:55.630
+être probablement deux couches pas plus et puis
+
+562
+00:26:55.630 --> 00:26:56.630
+vous avez l'adventice.
+
+563
+00:26:57.270 --> 00:26:58.170
+Donc c'est à peu près la même
+
+564
+00:26:58.170 --> 00:27:00.870
+chose, ce qui les différencie c'est que
+
+565
+00:27:00.870 --> 00:27:03.350
+l'intima des artères est plus épaisse que
+
+566
+00:27:03.350 --> 00:27:05.330
+celle des veines et dans les veines il
+
+567
+00:27:05.330 --> 00:27:07.970
+y a moins de fibres musculaires lisses et
+
+568
+00:27:07.970 --> 00:27:09.470
+puis dans les veines aussi, on a vu
+
+569
+00:27:09.470 --> 00:27:13.450
+dans le cours précédent, on a une structure
+
+570
+00:27:13.450 --> 00:27:15.090
+qu'on ne trouve jamais dans les artères
+
+571
+00:27:15.090 --> 00:27:19.210
+qui s'appelle les valvules.
+
+572
+00:27:19.210 --> 00:27:22.150
+Alors justement ce qui va différencier l'histoire
+
+573
+00:27:22.150 --> 00:27:24.430
+de la compliance et de l'élastance entre
+
+574
+00:27:24.430 --> 00:27:26.670
+l'artère et la veine, c'est essentiellement
+
+575
+00:27:26.670 --> 00:27:31.290
+cette média, une média riche en cellules musculaires
+
+576
+00:27:31.290 --> 00:27:36.970
+lisses va certainement entraîner une certaine rigidité à
+
+577
+00:27:36.970 --> 00:27:40.910
+la paroi des artères mais il n'y
+
+578
+00:27:40.910 --> 00:27:43.030
+a pas que les cellules musculaires lisses si
+
+579
+00:27:43.030 --> 00:27:51.490
+je peux permettre une couleur différente je te
+
+580
+00:27:51.490 --> 00:27:53.490
+prends ça par exemple, il n'y a
+
+581
+00:27:53.490 --> 00:27:54.550
+pas que ça, il y a à l
+
+582
+00:27:54.550 --> 00:27:56.410
+'intérieur je n'ai pas pris finalement le
+
+583
+00:27:56.410 --> 00:28:01.990
+rouge à l'intérieur vous avez aussi des
+
+584
+00:28:01.990 --> 00:28:07.530
+fibres d'élastine les fibres d'élastine vous
+
+585
+00:28:07.530 --> 00:28:09.830
+avez des fibres musculaires lisses et l'intima
+
+586
+00:28:09.830 --> 00:28:11.990
+un petit peu développée qui va donner l
+
+587
+00:28:11.990 --> 00:28:17.270
+'élastance à l'artère mais l'artère reste
+
+588
+00:28:17.270 --> 00:28:19.610
+quand même souple elle a une certaine distanciabilité
+
+589
+00:28:19.610 --> 00:28:22.690
+grâce à la présence de fibres d'élastine
+
+590
+00:28:22.690 --> 00:28:28.400
+ils vont s'étirer vous allez trouver le
+
+591
+00:28:28.400 --> 00:28:37.380
+ratio entre les cellules musculaires lisses le ratio
+
+592
+00:28:37.380 --> 00:28:40.260
+au niveau des artères et les différences de
+
+593
+00:28:40.260 --> 00:28:42.100
+celui des veines au niveau des veines vous
+
+594
+00:28:42.100 --> 00:28:45.240
+avez beaucoup de fibres d'élastine peu de
+
+595
+00:28:45.240 --> 00:28:51.120
+cellules musculaires lisses donc le vaisseau il est
+
+596
+00:28:51.120 --> 00:28:55.600
+très compliant et aussi on dit il a
+
+597
+00:28:55.600 --> 00:29:00.860
+une capacitance très importante donc il peut se
+
+598
+00:29:00.860 --> 00:29:08.060
+distendre sans problème par contre les artères c
+
+599
+00:29:08.060 --> 00:29:10.560
+'est tout à fait différent le ratio est
+
+600
+00:29:10.560 --> 00:29:12.260
+un peu différent de telle façon que l
+
+601
+00:29:12.260 --> 00:29:14.080
+'élastance est un petit peu augmentée donc il
+
+602
+00:29:14.080 --> 00:29:18.240
+supporte la pression comment l'artère devient rigide
+
+603
+00:29:18.240 --> 00:29:18.460
+?
+
+604
+00:29:18.460 --> 00:29:22.300
+en changeant les fibres élastiques je vais changer
+
+605
+00:29:22.300 --> 00:29:24.760
+les fibres élastiques et je vais mettre à
+
+606
+00:29:24.760 --> 00:29:31.460
+leur place une couleur je vais mettre à
+
+607
+00:29:31.460 --> 00:29:41.310
+leur place d'autres fibres qui cette fois
+
+608
+00:29:41.310 --> 00:29:43.110
+-ci vont être des fibres de collagène donc
+
+609
+00:29:43.110 --> 00:29:45.690
+j'enlève l'élastine ou je raréfie l
+
+610
+00:29:45.690 --> 00:29:47.630
+'élastine et je mets à sa place des
+
+611
+00:29:47.630 --> 00:29:50.850
+fibres de collagène je vais mettre du calcium
+
+612
+00:29:50.850 --> 00:29:53.910
+beaucoup de calcium à l'intérieur de la
+
+613
+00:29:53.910 --> 00:29:58.250
+cellule de la média ça va m'entraîner
+
+614
+00:29:58.250 --> 00:30:00.830
+une rigidité supplémentaire de l'artère qui devient
+
+615
+00:30:00.830 --> 00:30:06.230
+moins distensible donc le vieillissement des artères est
+
+616
+00:30:06.230 --> 00:30:10.430
+essentiellement lié à l'accumulation davantage de fibres
+
+617
+00:30:10.430 --> 00:30:13.710
+de collagène et moins d'élastine et probablement
+
+618
+00:30:13.710 --> 00:30:17.710
+même une certaine raréfication aux atrophies des cellules
+
+619
+00:30:17.710 --> 00:30:20.930
+musculaires lisses ceci aboutit à l'augmentation de
+
+620
+00:30:20.930 --> 00:30:28.210
+la rigidité artérée alors la pression pulsée augmente
+
+621
+00:30:28.210 --> 00:30:32.790
+avec l'âge absolument et pourquoi elle augmente
+
+622
+00:30:32.790 --> 00:30:33.510
+avec l'âge ?
+
+623
+00:30:33.510 --> 00:30:36.050
+parce que la rigidité artérée augmente le fait
+
+624
+00:30:36.050 --> 00:30:37.930
+que les artères lissures ont des branches ça
+
+625
+00:30:37.930 --> 00:30:38.790
+veut dire qu'il y a une variation
+
+626
+00:30:38.790 --> 00:30:41.610
+de la pression je vais revenir à ça
+
+627
+00:30:41.610 --> 00:30:48.090
+tout de suite ce dessin on peut mettre
+
+628
+00:30:48.090 --> 00:30:49.930
+à un autre tableau ce dessin on l
+
+629
+00:30:49.930 --> 00:30:55.030
+'a dépassé notre ami nous présente quelque chose
+
+630
+00:30:55.030 --> 00:30:58.050
+d'intéressant il nous demande de voir quand
+
+631
+00:30:58.050 --> 00:31:03.170
+l'onde pulsatile se propage il arrive à
+
+632
+00:31:03.170 --> 00:31:06.330
+un moment donné notamment sur une bifurcation aussi
+
+633
+00:31:06.330 --> 00:31:10.190
+importante que la bifurcation iliaque il arrive que
+
+634
+00:31:10.190 --> 00:31:11.930
+l'onde, c'est un phénomène classique en
+
+635
+00:31:11.930 --> 00:31:14.510
+physique l'onde qui est arrivée ici va
+
+636
+00:31:14.510 --> 00:31:16.890
+par la suite se réfléchir ou revenir en
+
+637
+00:31:16.890 --> 00:31:20.850
+arrière et quand on a un enregistreur de
+
+638
+00:31:20.850 --> 00:31:22.830
+la pression ou de la courbe de pression
+
+639
+00:31:22.830 --> 00:31:24.250
+dans l'aort ça va être comme ça,
+
+640
+00:31:24.870 --> 00:31:27.790
+la pression monte et puis elle commence à
+
+641
+00:31:27.790 --> 00:31:30.570
+redescendre ça elle monte jusqu'à atteindre le
+
+642
+00:31:30.570 --> 00:31:34.870
+maximum de l'éjection et puis elle commence
+
+643
+00:31:34.870 --> 00:31:37.870
+à diminuer pour revenir à la pression minimale
+
+644
+00:31:37.870 --> 00:31:40.870
+qui est la pression diastolique la pression de
+
+645
+00:31:40.870 --> 00:31:45.070
+la diastole or, qu'est-ce qui se
+
+646
+00:31:45.070 --> 00:31:47.310
+passe quand on enregistre la pression, on trouve
+
+647
+00:31:47.310 --> 00:31:49.850
+qu'elle est comme ça elle a une
+
+648
+00:31:49.850 --> 00:31:52.390
+petite onde ici qu'on appelle l'onde
+
+649
+00:31:52.390 --> 00:31:57.410
+d'icote et qui est expliquée par en
+
+650
+00:31:57.410 --> 00:31:59.350
+fait la somme, si je la décline, c
+
+651
+00:31:59.350 --> 00:32:05.840
+'est plutôt la somme de deux ondes et
+
+652
+00:32:05.840 --> 00:32:11.220
+ça, ça va donner la forme suivante c
+
+653
+00:32:11.220 --> 00:32:18.240
+'est que ça va donner ça donc j
+
+654
+00:32:18.240 --> 00:32:21.040
+'ai un sommet lié à la première éjection
+
+655
+00:32:21.040 --> 00:32:23.740
+et j'ai un deuxième sommet qui est
+
+656
+00:32:23.740 --> 00:32:28.440
+lié à l'éjection précédente qui a envoyé
+
+657
+00:32:28.440 --> 00:32:30.600
+une onde qui est arrivée jusqu'à une
+
+658
+00:32:30.600 --> 00:32:35.900
+zone importante pour que la réflexion de l
+
+659
+00:32:35.900 --> 00:32:38.260
+'onde se fasse et l'onde réfléchit elle
+
+660
+00:32:38.260 --> 00:32:43.660
+revient avec ça et donc il se propage
+
+661
+00:32:44.260 --> 00:32:45.720
+donc c'est un phénomène tout à fait
+
+662
+00:32:45.720 --> 00:32:48.140
+physiologique, classique il n'y a rien, c
+
+663
+00:32:48.140 --> 00:32:51.080
+'est comme si vous parliez vous êtes parti
+
+664
+00:32:52.940 --> 00:32:55.440
+dans une zone de montagne et vous arrivez
+
+665
+00:32:55.440 --> 00:32:57.520
+à voir votre écho vous parlez et le
+
+666
+00:32:57.520 --> 00:33:01.060
+son de vos paroles revient vous l'entendez
+
+667
+00:33:01.060 --> 00:33:03.540
+on enregistre la même chose mais ce qui
+
+668
+00:33:03.540 --> 00:33:07.500
+nous intéresse en physiologie c'est quand on
+
+669
+00:33:07.500 --> 00:33:10.640
+voit une disparition de cette onde on voit
+
+670
+00:33:10.640 --> 00:33:15.060
+une courbe de la onde qui est comme
+
+671
+00:33:15.060 --> 00:33:17.860
+ça ça s'explique comment ?
+
+672
+00:33:17.860 --> 00:33:19.480
+c'est toujours dans le contexte de la
+
+673
+00:33:19.480 --> 00:33:24.060
+rigidité on a une onde première et la
+
+674
+00:33:24.060 --> 00:33:26.220
+deuxième onde au lieu qu'elle vient ici
+
+675
+00:33:26.220 --> 00:33:29.940
+l'onde réfléchie, elle va tomber exactement sur
+
+676
+00:33:29.940 --> 00:33:32.340
+l'autre du coup je vais avoir la
+
+677
+00:33:32.340 --> 00:33:35.100
+somme de celle-là avec l'autre et
+
+678
+00:33:35.100 --> 00:33:38.060
+je vais avoir une grande onde avec bien
+
+679
+00:33:38.060 --> 00:33:41.660
+sûr une systolie qui devient une pression systolique
+
+680
+00:33:41.660 --> 00:33:44.100
+qui devient élevée et une pression diastolique qui
+
+681
+00:33:44.100 --> 00:33:46.800
+reste ici donc l'écart entre les deux
+
+682
+00:33:46.800 --> 00:33:49.740
+se creuse on l'a appelé la pression
+
+683
+00:33:49.740 --> 00:33:53.100
+pulsée la pression pulsée devient plus élevée et
+
+684
+00:33:53.100 --> 00:33:55.680
+là encore vous avez un autre témoin de
+
+685
+00:33:55.680 --> 00:33:58.580
+la rigidité artérielle c'est la disparition de
+
+686
+00:33:58.580 --> 00:34:04.760
+la dicrote pourquoi les deux ondes incidentes c
+
+687
+00:34:04.760 --> 00:34:10.340
+'est celle-là et la réfléchie vont se
+
+688
+00:34:10.340 --> 00:34:16.120
+superposer pour finalement majorer la pression artérielle majorer
+
+689
+00:34:16.120 --> 00:34:19.040
+la pression artérielle systolique c'est parce que
+
+690
+00:34:19.040 --> 00:34:23.139
+l'onde réfléchie a dû revenir très vite
+
+691
+00:34:23.139 --> 00:34:29.060
+avec une vitesse élevée pour atteindre le moment
+
+692
+00:34:29.060 --> 00:34:31.840
+de l'éjection suivante et se superposer avec
+
+693
+00:34:31.840 --> 00:34:34.800
+l'onde incidente ce qui fait que la
+
+694
+00:34:34.800 --> 00:34:38.699
+vitesse de retour de l'onde réfléchie a
+
+695
+00:34:38.699 --> 00:34:40.900
+augmenté c'est encore une fois la rigidité
+
+696
+00:34:40.900 --> 00:34:43.440
+artérielle c'est dire que la rigidité artérielle
+
+697
+00:34:43.440 --> 00:34:47.560
+finalement me fait augmenter la pression artérielle systolique
+
+698
+00:34:47.560 --> 00:34:52.280
+me fait augmenter la pression pulsée me fait
+
+699
+00:34:52.280 --> 00:34:57.100
+disparaître la dicrote l'onde dicrote aortique elle
+
+700
+00:34:57.100 --> 00:35:04.920
+disparaît et enfin elle augmente la vitesse de
+
+701
+00:35:04.920 --> 00:35:09.640
+conduction des ondes dans les vaisseaux en clinique
+
+702
+00:35:09.640 --> 00:35:11.020
+on lui donne un nom on l'appelle
+
+703
+00:35:11.020 --> 00:35:17.280
+la vitesse de l'onde de poux la
+
+704
+00:35:17.280 --> 00:35:19.080
+vitesse de l'onde de poux va être
+
+705
+00:35:19.080 --> 00:35:23.580
+augmentée et d'ailleurs c'est ce qui
+
+706
+00:35:23.580 --> 00:35:28.160
+fait que les organes vont être vite détériorés
+
+707
+00:35:29.260 --> 00:35:31.440
+ils vieillissent plus vite parce qu'ils vont
+
+708
+00:35:31.440 --> 00:35:35.360
+suivre une pression systolique de perfusion élevée et
+
+709
+00:35:35.360 --> 00:35:38.000
+aussi la vitesse avec laquelle le sang vient
+
+710
+00:35:38.000 --> 00:35:41.580
+elle est élevée l'onde se transmet plus
+
+711
+00:35:41.580 --> 00:35:45.780
+vite elle va se transmettre avec une amplitude
+
+712
+00:35:45.780 --> 00:35:49.100
+plus importante très vite vers les organes imaginez
+
+713
+00:35:49.100 --> 00:35:56.080
+des organes importants comme les reins le cerveau,
+
+714
+00:35:56.400 --> 00:36:00.840
+les yeux des organes fragiles s'ils sont
+
+715
+00:36:00.840 --> 00:36:03.560
+perfusés avec une pression élevée et une vitesse
+
+716
+00:36:03.560 --> 00:36:10.320
+augmentée ils se détériorent plus vite ils vieillissent
+
+717
+00:36:10.320 --> 00:36:12.280
+plus vite c'est la raison pour laquelle
+
+718
+00:36:12.280 --> 00:36:14.700
+la pression artérielle elle détériore le cerveau des
+
+719
+00:36:14.700 --> 00:36:19.380
+gens elle leur entraîne une insuffisance rénale qui
+
+720
+00:36:19.380 --> 00:36:23.060
+aboutit finalement à la tiérise elle altère la
+
+721
+00:36:23.060 --> 00:36:28.400
+vision il y a beaucoup de diminutions de
+
+722
+00:36:28.400 --> 00:36:29.980
+baisse de la qualité visuelle à cause de
+
+723
+00:36:29.980 --> 00:36:33.640
+la pression artérielle ça reste une maladie grave
+
+724
+00:36:33.640 --> 00:36:37.040
+par les conséquences à long terme sur les
+
+725
+00:36:37.040 --> 00:36:44.930
+organes nobles je vais regarder s'il y
+
+726
+00:36:44.930 --> 00:36:48.510
+a des questions très bien pour l'instant
+
+727
+00:36:48.510 --> 00:36:51.690
+on peut avancer si vous avez des questions,
+
+728
+00:36:51.970 --> 00:36:58.110
+posez-les je vais regarder l'écran on
+
+729
+00:36:58.110 --> 00:37:00.870
+était dans les lois de l'hémodynamique on
+
+730
+00:37:00.870 --> 00:37:03.370
+a parlé de l'équation de Bernoulli l
+
+731
+00:37:03.370 --> 00:37:07.010
+'équation de continuité et une troisième équation importante
+
+732
+00:37:07.010 --> 00:37:12.130
+à connaître qui est la loi de Poiseuil
+
+733
+00:37:17.920 --> 00:37:20.800
+la loi de Poiseuil elle nous dit que
+
+734
+00:37:20.800 --> 00:37:22.960
+le plus important dans la loi de Poiseuil
+
+735
+00:37:22.960 --> 00:37:23.860
+c'est que M.
+
+736
+00:37:23.920 --> 00:37:28.520
+Poiseuil a étudié l'écoulement des liquides et
+
+737
+00:37:28.520 --> 00:37:31.220
+la difficulté avec laquelle ils vont s'écouler
+
+738
+00:37:31.220 --> 00:37:34.560
+et finalement il a fait sortir une loi
+
+739
+00:37:34.560 --> 00:37:37.860
+qui détermine quels sont les éléments ou les
+
+740
+00:37:37.860 --> 00:37:40.580
+variables qui vont faire varier une résistance à
+
+741
+00:37:40.580 --> 00:37:45.780
+l'écoulement alors ces éléments sont d'ailleurs
+
+742
+00:37:45.780 --> 00:37:49.200
+déjà lui je vais commencer par ça vous
+
+743
+00:37:49.200 --> 00:37:53.200
+vous rappelez dans l'électricité il y avait
+
+744
+00:37:53.200 --> 00:37:55.240
+la loi d'Ohm la loi d'Ohm
+
+745
+00:37:55.240 --> 00:37:59.420
+fait la même chose elle relie l'intensité
+
+746
+00:37:59.420 --> 00:38:02.760
+d'un courant à la tension du courant
+
+747
+00:38:02.760 --> 00:38:08.760
+à la résistance à travers une diode par
+
+748
+00:38:08.760 --> 00:38:11.220
+exemple si on applique la loi d'Ohm
+
+749
+00:38:11.660 --> 00:38:13.160
+à l'être humain ça va être la
+
+750
+00:38:13.160 --> 00:38:16.900
+même chose la pression égale le débit l
+
+751
+00:38:16.900 --> 00:38:20.660
+'intensité de l'électricité qui multiplie les résistances
+
+752
+00:38:20.660 --> 00:38:25.900
+et la pression c'est la tension c
+
+753
+00:38:25.900 --> 00:38:28.080
+'est la même chose la pression égale le
+
+754
+00:38:28.080 --> 00:38:30.800
+débit multipliée par les résistances vous mettez comme
+
+755
+00:38:30.800 --> 00:38:33.220
+ça les résistances donc c'est une pression
+
+756
+00:38:33.220 --> 00:38:39.240
+sur un débit monsieur Poiseuil a ajouté à
+
+757
+00:38:39.240 --> 00:38:41.060
+cette formule, une formule intéressante c'est qu
+
+758
+00:38:41.060 --> 00:38:45.480
+'il a trouvé que les variables dont dépendent
+
+759
+00:38:45.480 --> 00:38:56.890
+ces résistances c'est essentiellement ça c'est
+
+760
+00:38:56.890 --> 00:39:03.750
+un chiffre 8 là vous avez la viscosité
+
+761
+00:39:03.750 --> 00:39:06.930
+vous avez la longueur et vous avez un
+
+762
+00:39:06.930 --> 00:39:12.330
+pi et le rayon le rayon de section
+
+763
+00:39:12.850 --> 00:39:20.290
+le rayon du vaisseau la longueur du vaisseau
+
+764
+00:39:20.290 --> 00:39:24.430
+monsieur Poiseuil l'a appliqué dans l'hydraulique
+
+765
+00:39:24.430 --> 00:39:29.970
+en général mais nous en physiologie humaine si
+
+766
+00:39:29.970 --> 00:39:31.910
+on veut appliquer la loi de Poiseuil la
+
+767
+00:39:31.910 --> 00:39:34.710
+longueur nous intéresse pas parce que la longueur
+
+768
+00:39:34.710 --> 00:39:38.750
+du vaisseau n'augmente pas non, ça n
+
+769
+00:39:38.750 --> 00:39:40.350
+'arrive pas ce qui fait que c'est
+
+770
+00:39:40.350 --> 00:39:43.670
+pas une variable qui va rester fixe la
+
+771
+00:39:43.670 --> 00:39:47.790
+viscosité oui, elle change plus la viscosité augmente
+
+772
+00:39:47.790 --> 00:39:52.790
+plus les résistances à l'écoulement augmentent mais
+
+773
+00:39:52.790 --> 00:39:59.110
+heureusement que les vaisseaux ne se conduisent pas
+
+774
+00:39:59.110 --> 00:40:05.250
+comme les vaisseaux ne se conduisent pas comme
+
+775
+00:40:05.250 --> 00:40:08.550
+les tuyaux, comme les tubes parce que le
+
+776
+00:40:08.550 --> 00:40:12.050
+sang est généralement un petit peu visqueux il
+
+777
+00:40:12.050 --> 00:40:13.610
+y a beaucoup de globules rouges, de globules
+
+778
+00:40:13.610 --> 00:40:16.550
+blancs, des protéines, etc et leur cheminement à
+
+779
+00:40:16.550 --> 00:40:17.890
+l'intérieur de l'artère n'est pas
+
+780
+00:40:17.890 --> 00:40:19.910
+si fluide que ça c'est pas de
+
+781
+00:40:19.910 --> 00:40:22.810
+l'eau qui passe mais heureusement que les
+
+782
+00:40:22.810 --> 00:40:25.210
+vaisseaux ont un endothélium et l'endothélium il
+
+783
+00:40:25.210 --> 00:40:27.450
+permet de relâcher un petit peu les vaisseaux
+
+784
+00:40:27.970 --> 00:40:31.590
+et donc finalement de s'adapter à la
+
+785
+00:40:31.590 --> 00:40:35.190
+viscosité sanguine donc vraiment dans des situations très
+
+786
+00:40:35.190 --> 00:40:39.030
+pathologiques où la viscosité augmente de façon importante
+
+787
+00:40:39.030 --> 00:40:40.470
+c'est là où on aura des résistances
+
+788
+00:40:40.470 --> 00:40:44.290
+élevées c'est pas une variable qui détermine
+
+789
+00:40:44.290 --> 00:40:48.990
+les résistances donc en physiologie humaine qu'est
+
+790
+00:40:48.990 --> 00:40:50.050
+-ce qu'on tire de la loi de
+
+791
+00:40:50.050 --> 00:40:51.190
+Poiseuil ?
+
+792
+00:40:51.190 --> 00:40:52.310
+la longueur ?
+
+793
+00:40:52.310 --> 00:40:56.110
+Non la viscosité est pas vraiment sur les
+
+794
+00:40:56.110 --> 00:40:59.450
+résistances et qu'il nous reste simplement le
+
+795
+00:40:59.450 --> 00:41:02.390
+R à la puissance 4 donc les résistances
+
+796
+00:41:02.390 --> 00:41:10.450
+sont proportionnellement inversement proportionnelles à la puissance 4
+
+797
+00:41:10.450 --> 00:41:14.650
+du rayon remarquez un rayon par exemple qui
+
+798
+00:41:14.650 --> 00:41:19.370
+était de 2 mm et qui par une
+
+799
+00:41:19.370 --> 00:41:23.270
+vasoconstriction artérielle et vous rappelez-vous la vasoconstriction
+
+800
+00:41:23.270 --> 00:41:28.530
+est liée essentiellement à la média et entre
+
+801
+00:41:28.530 --> 00:41:31.790
+les artères les gros artères et les artérioles
+
+802
+00:41:31.790 --> 00:41:33.930
+la différence c'est que ici c'est
+
+803
+00:41:33.930 --> 00:41:40.350
+l'intima la média est beaucoup plus épaisse
+
+804
+00:41:41.070 --> 00:41:43.950
+beaucoup plus épaisse que même dans les artères
+
+805
+00:41:43.950 --> 00:41:49.010
+de gros calibre d'accord ?
+
+806
+00:41:49.010 --> 00:41:51.170
+une média qui est très développée et une
+
+807
+00:41:51.170 --> 00:41:57.290
+innervation qui est assez développée donc qui permet
+
+808
+00:41:57.290 --> 00:42:03.030
+de contrôler de façon continue la vasomotricité donc
+
+809
+00:42:03.030 --> 00:42:05.250
+il suffit que la média qui est bien
+
+810
+00:42:05.250 --> 00:42:09.010
+développée se contracte un peu et donc le
+
+811
+00:42:09.010 --> 00:42:11.050
+vaisseau va diminuer de calibre et au lieu
+
+812
+00:42:11.050 --> 00:42:12.990
+d'avoir par exemple 2 mm il va
+
+813
+00:42:12.990 --> 00:42:15.670
+avoir 1 mm donc ça veut dire quoi
+
+814
+00:42:15.670 --> 00:42:16.130
+?
+
+815
+00:42:16.130 --> 00:42:17.490
+ça veut dire qu'il s'est réduit
+
+816
+00:42:17.490 --> 00:42:24.090
+de 50% donc là cette réduction vous
+
+817
+00:42:24.090 --> 00:42:27.510
+la mettez à la puissance 4 d'accord
+
+818
+00:42:27.510 --> 00:42:28.390
+?
+
+819
+00:42:28.390 --> 00:42:33.430
+vous diminuez de moitié donc c'est ça
+
+820
+00:42:33.430 --> 00:42:36.270
+1 sur 2 à la puissance 4 c
+
+821
+00:42:36.270 --> 00:42:38.510
+'est comme si vous avez augmenté les résistances
+
+822
+00:42:39.650 --> 00:42:42.990
+2 puissance 4 ça veut dire 1 sur
+
+823
+00:42:42.990 --> 00:42:45.730
+16 et vous mettez 16 fois vous les
+
+824
+00:42:45.730 --> 00:42:52.660
+avez multipliées par 16 fois une simple réduction
+
+825
+00:42:52.660 --> 00:42:56.320
+de moitié augmente les résistances de façon importante
+
+826
+00:42:56.320 --> 00:42:58.200
+et l'inverse aussi c'est vrai quand
+
+827
+00:42:58.200 --> 00:43:01.640
+vous augmentez le diamètre juste un petit peu
+
+828
+00:43:01.640 --> 00:43:04.260
+de 2 mm vous passez par exemple à
+
+829
+00:43:04.260 --> 00:43:09.500
+vous rajoutez 1 mm vous allez augmenter vous
+
+830
+00:43:09.500 --> 00:43:12.440
+allez relâcher les vaisseaux de façon extraordinaire de
+
+831
+00:43:12.440 --> 00:43:15.940
+très petites variations ont une conséquence importante sur
+
+832
+00:43:15.940 --> 00:43:20.630
+le niveau des résistances donc ça c'est
+
+833
+00:43:20.630 --> 00:43:24.410
+extrêmement important de savoir que les résistances siègent
+
+834
+00:43:24.410 --> 00:43:29.390
+essentiellement ou les déterminer essentiellement par les artérioles
+
+835
+00:43:29.390 --> 00:43:32.710
+grâce à leur médiatique bien développée et que
+
+836
+00:43:32.710 --> 00:43:39.490
+les petits changements de rayons des artérioles ont
+
+837
+00:43:39.490 --> 00:43:43.570
+un changement au niveau des résistances n'empêche
+
+838
+00:43:43.570 --> 00:43:46.330
+que les gros vaisseaux quand ils deviennent rigides
+
+839
+00:43:46.330 --> 00:43:48.890
+là ils commencent à participer aussi à la
+
+840
+00:43:48.890 --> 00:43:52.210
+résistance artérielle mais pas au début, au début
+
+841
+00:43:52.210 --> 00:43:55.390
+quand ils sont souples le principal endroit où
+
+842
+00:43:55.390 --> 00:43:57.610
+la résistance existe c'est essentiellement au niveau
+
+843
+00:43:57.610 --> 00:44:00.850
+des artérioles et donc si moi je veux
+
+844
+00:44:00.850 --> 00:44:04.230
+baisser la pression artérielle d'un ballade je
+
+845
+00:44:04.230 --> 00:44:07.350
+vais essentiellement regarder soit je baisse le débit
+
+846
+00:44:07.790 --> 00:44:10.310
+soit je baisse les résistances baisser le débit
+
+847
+00:44:10.310 --> 00:44:13.670
+on essaie au maximum d'éviter sauf si
+
+848
+00:44:13.670 --> 00:44:15.450
+on a la preuve que le débit est
+
+849
+00:44:15.450 --> 00:44:17.650
+déjà très élevé et il va falloir le
+
+850
+00:44:17.650 --> 00:44:22.680
+ramener à un débit normal alors on utilise
+
+851
+00:44:22.680 --> 00:44:25.520
+des molécules qui vont baisser les résistances la
+
+852
+00:44:25.520 --> 00:44:27.760
+résistance vous voyez très bien je vais aller
+
+853
+00:44:27.760 --> 00:44:33.000
+directement sur la paroi musculaire lisse des artérioles
+
+854
+00:44:33.000 --> 00:44:38.760
+et essentiellement sur les nerfs qui l'inervent
+
+855
+00:44:38.760 --> 00:44:43.700
+et je vais par exemple bloquer bloquer l
+
+856
+00:44:43.700 --> 00:44:45.880
+'inervation je sais que les systèmes sympathiques par
+
+857
+00:44:45.880 --> 00:44:49.400
+exemple ils stimulent les canaux calciques l'ouverture
+
+858
+00:44:49.400 --> 00:44:51.480
+des canaux calciques au niveau des fibres musculaires
+
+859
+00:44:51.480 --> 00:44:54.300
+lisses et l'ouverture des canaux calciques apporte
+
+860
+00:44:54.300 --> 00:44:56.760
+plus de calcium dans les cellules et ce
+
+861
+00:44:56.760 --> 00:45:00.380
+calcium bien sûr va permettre la contraction donc
+
+862
+00:45:00.380 --> 00:45:02.940
+moi si je bloque les canaux calciques je
+
+863
+00:45:02.940 --> 00:45:05.620
+vais avoir moins de calcium disponible pour la
+
+864
+00:45:05.620 --> 00:45:09.500
+contraction et donc une relaxation c'est à
+
+865
+00:45:09.500 --> 00:45:14.100
+dire une diminution de ce diamètre par exemple
+
+866
+00:45:14.100 --> 00:45:20.440
+donner un bloqueur un médicament bloqueur des canaux
+
+867
+00:45:20.440 --> 00:45:28.000
+calciques peut parfaitement me faire cet effet et
+
+868
+00:45:28.000 --> 00:45:30.240
+l'inverse est vrai aussi si quelqu'un
+
+869
+00:45:30.240 --> 00:45:33.560
+a une pression trop basse il est en
+
+870
+00:45:33.560 --> 00:45:35.700
+train de saigner il a perdu beaucoup de
+
+871
+00:45:35.700 --> 00:45:40.380
+sang, son débit a diminué c'est le
+
+872
+00:45:40.380 --> 00:45:46.100
+débit qui diminue la pression diminue l'organisme
+
+873
+00:45:46.100 --> 00:45:49.440
+déjà essaie de maintenir cette pression de perfusion
+
+874
+00:45:49.440 --> 00:45:51.300
+en augmentant ses résistances comment ?
+
+875
+00:45:51.300 --> 00:45:53.980
+en faisant une vasoconstriction mais s'il n
+
+876
+00:45:53.980 --> 00:45:56.400
+'arrive pas en attendant de régler le problème
+
+877
+00:45:56.400 --> 00:46:00.560
+de l'hémorragie on peut utiliser des médicaments
+
+878
+00:46:00.560 --> 00:46:03.480
+qui vont stimuler les canaux calciques et donc
+
+879
+00:46:03.480 --> 00:46:07.600
+ils vont entraîner une vasoconstriction supplémentaire on donnera
+
+880
+00:46:07.600 --> 00:46:11.560
+par exemple de l'adrénaline qui va stimuler
+
+881
+00:46:13.400 --> 00:46:16.880
+et entraîner une vasoconstriction des artérioles et donc
+
+882
+00:46:16.880 --> 00:46:19.560
+l'air va augmenter et va maintenir une
+
+883
+00:46:19.560 --> 00:46:24.260
+pression vous savez que maintenir une pression c
+
+884
+00:46:24.260 --> 00:46:25.760
+'est important parce que c'est avec la
+
+885
+00:46:25.760 --> 00:46:28.060
+pression que les organes sont perfusés encore une
+
+886
+00:46:28.060 --> 00:46:30.460
+fois le sang s'écoule d'un endroit
+
+887
+00:46:30.460 --> 00:46:32.220
+où la pression est élevée vers un endroit
+
+888
+00:46:32.220 --> 00:46:34.300
+où la pression est faible si la pression
+
+889
+00:46:34.300 --> 00:46:36.660
+vient de chuter le sang ne passe pas
+
+890
+00:46:37.480 --> 00:46:38.480
+d'accord ?
+
+891
+00:46:38.480 --> 00:46:41.220
+il ne passe pas ou il diminue énormément
+
+892
+00:46:41.220 --> 00:46:45.640
+l'organe va souffrir il va subir une
+
+893
+00:46:45.640 --> 00:46:51.700
+hystémie ok pour cette notion ?
+
+894
+00:46:51.700 --> 00:46:53.460
+il y a des questions ?
+
+895
+00:46:53.460 --> 00:46:54.340
+non ?
+
+896
+00:46:54.340 --> 00:47:03.330
+on passe à la notion suivante je crois
+
+897
+00:47:03.330 --> 00:47:09.790
+que pour les lois de l'hémodynamique il
+
+898
+00:47:09.790 --> 00:47:13.350
+vous reste simplement la loi qui s'appelle
+
+899
+00:47:13.350 --> 00:47:16.290
+le nombre de Reynolds je vous ai dit
+
+900
+00:47:16.290 --> 00:47:18.470
+qu'il va falloir qu'on voit un
+
+901
+00:47:18.470 --> 00:47:20.950
+peu le flux laminaire un flux laminaire c
+
+902
+00:47:20.950 --> 00:47:24.510
+'est des globules rouges qui circulent avec une
+
+903
+00:47:24.510 --> 00:47:27.410
+épaisse vitesse à tel point qu'on n
+
+904
+00:47:27.410 --> 00:47:28.830
+'a pas de friction on n'a pas
+
+905
+00:47:28.830 --> 00:47:30.870
+de déperdition d'énergie on n'a pas
+
+906
+00:47:30.870 --> 00:47:35.630
+de frottement contre la parole généralement un écoulement
+
+907
+00:47:35.630 --> 00:47:38.870
+sanguin c'est un écoulement laminaire avec des
+
+908
+00:47:38.870 --> 00:47:44.150
+vitesses maximales au centre et qui diminue proportionnellement
+
+909
+00:47:44.150 --> 00:47:47.070
+vers les paroles mais si jamais j'ai
+
+910
+00:47:47.070 --> 00:47:49.270
+un flux turbulent les globules rouges vont partir
+
+911
+00:47:49.270 --> 00:47:51.890
+dans tous les sens et donc ça va
+
+912
+00:47:51.890 --> 00:47:55.590
+créer malheureusement une déperdition de l'énergie cinétique
+
+913
+00:47:55.590 --> 00:47:58.750
+qui va se transformer en une énergie de
+
+914
+00:47:58.750 --> 00:48:03.770
+frottement en une énergie vibratoire mécanique qui va
+
+915
+00:48:03.770 --> 00:48:07.230
+faire vibrer la paroi et quand elle fait
+
+916
+00:48:07.230 --> 00:48:10.110
+vibrer la paroi si vous avez un stéthoscope
+
+917
+00:48:10.110 --> 00:48:12.150
+vous allez entendre un son donc je peux
+
+918
+00:48:12.150 --> 00:48:15.090
+avoir ce qu'on appelle un souffle pourquoi
+
+919
+00:48:15.090 --> 00:48:16.190
+un souffle ?
+
+920
+00:48:16.190 --> 00:48:18.990
+parce que le flux commence à générer un
+
+921
+00:48:18.990 --> 00:48:21.410
+bruit un bruit qu'on appellera un souffle
+
+922
+00:48:21.410 --> 00:48:27.670
+dû à cette déperdition d'énergie passer d
+
+923
+00:48:27.670 --> 00:48:30.650
+'un flux laminaire vers un flux turbulent il
+
+924
+00:48:30.650 --> 00:48:31.790
+est déterminé par quoi ?
+
+925
+00:48:31.790 --> 00:48:33.890
+il est déterminé par le nombre de Reynolds
+
+926
+00:48:33.890 --> 00:48:36.730
+monsieur Reynolds a déterminé un chiffre à lui
+
+927
+00:48:36.730 --> 00:48:39.070
+qui s'appelle le nombre de Reynolds et
+
+928
+00:48:39.070 --> 00:48:40.750
+le nombre de Reynolds vous avez dans le
+
+929
+00:48:40.750 --> 00:48:45.490
+cours ils sont essentiellement dépendants de plusieurs variables
+
+930
+00:48:47.370 --> 00:48:51.450
+dont les plus importantes c'est je n
+
+931
+00:48:51.450 --> 00:48:52.550
+'ai pas la formule en tête et je
+
+932
+00:48:52.550 --> 00:48:54.050
+ne vous demande jamais de la prendre par
+
+933
+00:48:54.050 --> 00:48:57.930
+coeur mais simplement vous allez voir dans les
+
+934
+00:48:57.930 --> 00:49:00.590
+diapos c'est dépendant du rayon par exemple
+
+935
+00:49:01.810 --> 00:49:04.710
+dépendant aussi de la viscosité la viscosité elle
+
+936
+00:49:04.710 --> 00:49:09.050
+était en bas la viscosité comme ça elle
+
+937
+00:49:09.050 --> 00:49:12.470
+était en bas de telle façon que quand
+
+938
+00:49:12.470 --> 00:49:17.630
+la viscosité diminue quand la viscosité diminue le
+
+939
+00:49:17.630 --> 00:49:20.250
+nombre de Reynolds augmente et quand le nombre
+
+940
+00:49:20.250 --> 00:49:24.970
+de Reynolds dépasse un chiffre mathématiquement déterminé de
+
+941
+00:49:24.970 --> 00:49:27.330
+2000 ça veut dire que le flux va
+
+942
+00:49:27.330 --> 00:49:30.050
+devenir turbulent dans quelle situation clinique on voit
+
+943
+00:49:30.050 --> 00:49:31.110
+ça ?
+
+944
+00:49:31.110 --> 00:49:32.870
+quand est-ce que la viscosité diminue ?
+
+945
+00:49:32.870 --> 00:49:34.290
+c'est par exemple quand on a une
+
+946
+00:49:34.290 --> 00:49:39.150
+anémie ça fait diminuer le nombre de globules
+
+947
+00:49:39.150 --> 00:49:41.490
+rouges dans le sang ça diminue l'hématocrite
+
+948
+00:49:41.490 --> 00:49:45.270
+et donc diminue la viscosité sanguine quand vous
+
+949
+00:49:45.270 --> 00:49:47.850
+avez une hypoprosidémie c'est la même chose
+
+950
+00:49:47.850 --> 00:49:50.510
+donc là le flux devient turbulent et vous
+
+951
+00:49:50.510 --> 00:49:53.170
+allez entendre des souffles et ces souffles là
+
+952
+00:49:53.170 --> 00:49:58.310
+ne sont absolument pas pathologiques c'est simplement
+
+953
+00:49:58.310 --> 00:50:00.770
+lié à la viscosité qui est diminuée vous
+
+954
+00:50:00.770 --> 00:50:02.930
+pouvez avoir aussi le débit le débit aussi
+
+955
+00:50:02.930 --> 00:50:06.690
+il fait augmenter le nombre de Reynolds donc
+
+956
+00:50:06.690 --> 00:50:09.930
+une femme enceinte qui voit son débit cardiaque
+
+957
+00:50:09.930 --> 00:50:14.610
+se tripler par exemple c'est une femme
+
+958
+00:50:14.610 --> 00:50:18.470
+qui va certainement avoir un nombre de Reynolds
+
+959
+00:50:18.470 --> 00:50:22.050
+élevé donc on va avoir un souffle on
+
+960
+00:50:22.050 --> 00:50:24.150
+peut entendre le souffle au niveau du cœur
+
+961
+00:50:24.150 --> 00:50:25.650
+mais ça ne veut pas dire qu'il
+
+962
+00:50:25.650 --> 00:50:27.990
+est cardiaque c'est simplement un souffle lié
+
+963
+00:50:27.990 --> 00:50:30.870
+à l'augmentation du débit quand le débit
+
+964
+00:50:30.870 --> 00:50:33.290
+va revenir à la normale le souffle va
+
+965
+00:50:33.290 --> 00:50:38.790
+disparaître mais surtout dans la formule de Reynolds
+
+966
+00:50:40.190 --> 00:50:43.550
+ça c'est des phénomènes physiologiques il y
+
+967
+00:50:43.550 --> 00:50:46.210
+a aussi le rayon on retrouve le rayon
+
+968
+00:50:46.210 --> 00:50:51.720
+de la même façon et on trouve une
+
+969
+00:50:51.720 --> 00:50:53.960
+notion aussi claire c'est vrai qu'elle
+
+970
+00:50:53.960 --> 00:50:55.640
+est dépendante du débit c'est la notion
+
+971
+00:50:55.640 --> 00:51:01.400
+de vitesse la vitesse aussi quand elle s
+
+972
+00:51:01.400 --> 00:51:03.800
+'accélère soit à cause du débit soit à
+
+973
+00:51:03.800 --> 00:51:08.560
+cause d'autres raisons par exemple comme je
+
+974
+00:51:08.560 --> 00:51:11.040
+vous ai montré tout à l'heure comme
+
+975
+00:51:11.040 --> 00:51:13.060
+je vous ai montré une sténose d'une
+
+976
+00:51:13.060 --> 00:51:16.260
+artère je vous ai dit que si j
+
+977
+00:51:16.260 --> 00:51:22.260
+'ai une sténose ici soit en appliquant les
+
+978
+00:51:22.260 --> 00:51:26.020
+concentres bernouillers ou les concentres continuités pour garder
+
+979
+00:51:26.020 --> 00:51:27.920
+le même débit je vais avoir des vitesses
+
+980
+00:51:27.920 --> 00:51:31.480
+élevées ici la vitesse qui augmente va entraîner
+
+981
+00:51:31.480 --> 00:51:32.920
+cliniquement quoi ?
+
+982
+00:51:32.920 --> 00:51:37.360
+va entraîner un flux turbulent et donc un
+
+983
+00:51:37.360 --> 00:51:44.440
+flux turbulent et donc je vais avoir un
+
+984
+00:51:44.440 --> 00:51:48.940
+souffle et donc c'est le principe de
+
+985
+00:51:48.940 --> 00:51:52.000
+l'auscultation des vaisseaux c'est pour ça
+
+986
+00:51:52.000 --> 00:51:55.400
+qu'on demande d'ausculter les vaisseaux notamment
+
+987
+00:51:55.400 --> 00:51:57.340
+les vaisseaux qui sont accessibles à l'auscultation
+
+988
+00:51:57.340 --> 00:51:59.480
+on met le stéthoscope dessus normalement on ne
+
+989
+00:51:59.480 --> 00:52:01.240
+doit rien entendre si on entend un souffle
+
+990
+00:52:01.240 --> 00:52:03.160
+sur un vaisseau ça veut dire que le
+
+991
+00:52:03.160 --> 00:52:05.380
+flux est turbulent et s'il est turbulent
+
+992
+00:52:05.380 --> 00:52:08.760
+c'est a priori une sténose parce que
+
+993
+00:52:08.760 --> 00:52:10.540
+la sténose augmente la vitesse et on sait
+
+994
+00:52:10.540 --> 00:52:12.820
+pourquoi elle a augmenté selon les concentres continuités
+
+995
+00:52:14.390 --> 00:52:17.350
+je vais profiter de cette notion pour enchaîner
+
+996
+00:52:17.350 --> 00:52:21.810
+avec le principe de sphygmomanométrie je prends un
+
+997
+00:52:21.810 --> 00:52:25.170
+tableau le principe de sphygmomanométrie c'est quoi
+
+998
+00:52:25.170 --> 00:52:26.490
+?
+
+999
+00:52:40.050 --> 00:52:44.170
+ça c'est tiré de la notion de
+
+1000
+00:52:44.170 --> 00:52:51.630
+monsieur Korotkov qui nous a permis avec cette
+
+1001
+00:52:51.630 --> 00:52:57.070
+méthode de mesurer la pression artérielle de façon
+
+1002
+00:52:57.070 --> 00:53:04.050
+non invasive alors c'est comment ?
+
+1003
+00:53:04.050 --> 00:53:06.230
+il a imaginé qu'on peut prendre le
+
+1004
+00:53:06.230 --> 00:53:11.520
+bras de quelqu'un et vous savez qu
+
+1005
+00:53:11.520 --> 00:53:16.620
+'à l'intérieur vous avez bien sûr le
+
+1006
+00:53:16.620 --> 00:53:19.360
+muscle qui est le biceps qui est là
+
+1007
+00:53:20.980 --> 00:53:25.360
+avec le triceps derrière et vous aurez en
+
+1008
+00:53:25.360 --> 00:53:28.680
+blanc pas forcément, je n'ai pas le
+
+1009
+00:53:28.680 --> 00:53:32.580
+choix vous avez l'artère peut-être qu
+
+1010
+00:53:32.580 --> 00:53:37.100
+'on va la dessiner mieux vous avez l
+
+1011
+00:53:37.100 --> 00:53:39.300
+'artère qui est là et qui est l
+
+1012
+00:53:39.300 --> 00:53:43.280
+'artère émerale il dit qu'en mettant un
+
+1013
+00:53:43.280 --> 00:53:47.260
+brassard autour de ce vaisseau si j'arrive
+
+1014
+00:53:47.260 --> 00:53:50.420
+à mettre un brassard ici une poche gonflable
+
+1015
+00:53:52.440 --> 00:53:54.900
+dans laquelle je contrôle le niveau de pression
+
+1016
+00:53:54.900 --> 00:53:57.660
+si je gonfle cette poche, la poche va
+
+1017
+00:53:57.660 --> 00:54:01.580
+exercer une pression sur le muscle biceps et
+
+1018
+00:54:01.580 --> 00:54:04.880
+bien sûr sur le bras en entier et
+
+1019
+00:54:04.880 --> 00:54:07.680
+cette pression sera transmise à l'artère émerale
+
+1020
+00:54:07.680 --> 00:54:10.060
+et l'artère émerale qui était comme ça
+
+1021
+00:54:10.060 --> 00:54:14.560
+va voir son diamètre se réduire il va
+
+1022
+00:54:14.560 --> 00:54:21.400
+se réduire jusqu'à pratiquement se fermer au
+
+1023
+00:54:21.400 --> 00:54:24.620
+niveau de la compression l'artère sera fermée
+
+1024
+00:54:24.620 --> 00:54:29.040
+si l'artère est fermée je vais simplement
+
+1025
+00:54:29.040 --> 00:54:32.680
+regarder le niveau de pression dans la pochette
+
+1026
+00:54:32.680 --> 00:54:39.340
+la pression C par exemple alors qu'ici
+
+1027
+00:54:39.340 --> 00:54:42.260
+quand elle a commencé à se comprimer on
+
+1028
+00:54:42.260 --> 00:54:44.260
+a atteint la pression B et au début
+
+1029
+00:54:44.260 --> 00:54:47.080
+on avait une pression basse la pression A
+
+1030
+00:54:47.880 --> 00:54:50.440
+au début on a commencé à gonfler et
+
+1031
+00:54:50.440 --> 00:54:53.860
+on était à 20 mmHg on a atteint
+
+1032
+00:54:53.860 --> 00:54:56.840
+par exemple 90 mmHg l'artère commence à
+
+1033
+00:54:56.840 --> 00:55:01.500
+se gonfler et on a atteint 140 mmHg
+
+1034
+00:55:01.500 --> 00:55:06.400
+l'artère s'est complètement coller on a
+
+1035
+00:55:06.400 --> 00:55:08.640
+dépassé la pression qui règne à l'intérieur
+
+1036
+00:55:08.640 --> 00:55:10.860
+la pression la plus élevée dans une artère
+
+1037
+00:55:10.860 --> 00:55:15.160
+c'est la pression systolique si j'arrive
+
+1038
+00:55:15.160 --> 00:55:16.540
+à la comprimer ça veut dire que j
+
+1039
+00:55:16.540 --> 00:55:19.980
+'ai dépassé l'artère une fois que je
+
+1040
+00:55:19.980 --> 00:55:23.220
+commence à relâcher la pression de la diminuer
+
+1041
+00:55:23.220 --> 00:55:28.600
+légèrement je descends par exemple progressivement à 120
+
+1042
+00:55:28.600 --> 00:55:33.340
+mmHg je commence à entendre un bruit je
+
+1043
+00:55:33.340 --> 00:55:37.300
+mets toujours le stetho si j'entends un
+
+1044
+00:55:37.300 --> 00:55:39.960
+bruit ça veut dire que l'artère est
+
+1045
+00:55:39.960 --> 00:55:42.760
+ouverte elle est un petit peu ouverte mais
+
+1046
+00:55:42.760 --> 00:55:46.080
+pas beaucoup elle est encore comprimée mais il
+
+1047
+00:55:46.080 --> 00:55:47.220
+y a du son qui arrive à passer
+
+1048
+00:55:49.420 --> 00:55:52.200
+selon les continuités qu'on a vu tout
+
+1049
+00:55:52.200 --> 00:55:53.800
+à l'heure il doit passer avec des
+
+1050
+00:55:53.800 --> 00:55:56.540
+vitesses très élevées et les vitesses très élevées
+
+1051
+00:55:56.540 --> 00:55:59.480
+créent un flux turbulent et le flux turbulent
+
+1052
+00:55:59.480 --> 00:56:02.100
+génère un bruit vous entendez le premier bruit
+
+1053
+00:56:02.100 --> 00:56:10.520
+de Korotkoff le premier bruit de Korotkoff ce
+
+1054
+00:56:10.520 --> 00:56:12.740
+premier bruit de Korotkoff dès qu'on l
+
+1055
+00:56:12.740 --> 00:56:14.840
+'entend on sait que l'artère vient d
+
+1056
+00:56:14.840 --> 00:56:18.160
+'être ouverte et qu'à peu près la
+
+1057
+00:56:18.160 --> 00:56:20.780
+pression qui est dans la pochette est la
+
+1058
+00:56:20.780 --> 00:56:23.260
+même que la pression systolique dans l'artère
+
+1059
+00:56:23.260 --> 00:56:27.040
+donc on a déterminé avec cette méthode la
+
+1060
+00:56:27.040 --> 00:56:31.120
+pression artérielle systolique il suffit de continuer à
+
+1061
+00:56:31.120 --> 00:56:33.820
+décomprimer à lever la pression et on va
+
+1062
+00:56:33.820 --> 00:56:37.900
+revenir progressivement vers la situation initiale qu'est
+
+1063
+00:56:37.900 --> 00:56:38.880
+-ce que j'ai mis ?
+
+1064
+00:56:38.880 --> 00:56:40.600
+c'est pas la situation que je cherche
+
+1065
+00:56:40.600 --> 00:56:42.900
+on peut atteindre par exemple un chiffre de
+
+1066
+00:56:42.900 --> 00:56:46.600
+80 mmHg qu'est-ce qui arrive ?
+
+1067
+00:56:46.600 --> 00:56:49.200
+le flux était turbulent, les vitesses étaient très
+
+1068
+00:56:49.200 --> 00:56:51.700
+élevées le son va être intense et le
+
+1069
+00:56:51.700 --> 00:56:54.540
+son que j'entends va diminuer d'intensité
+
+1070
+00:56:54.540 --> 00:56:56.300
+et à un moment donné il va disparaître
+
+1071
+00:56:56.300 --> 00:56:58.040
+quand il disparaît ça veut dire que le
+
+1072
+00:56:58.040 --> 00:57:00.800
+flux est redevenu laminaire et à ce moment
+
+1073
+00:57:00.800 --> 00:57:03.460
+là je regarde mon brassard je regarde le
+
+1074
+00:57:03.460 --> 00:57:05.560
+niveau de pression que j'ai atteint c
+
+1075
+00:57:05.560 --> 00:57:08.180
+'est effectivement la pression minimale qui règne dans
+
+1076
+00:57:08.180 --> 00:57:10.240
+l'artère et c'est la pression artérielle
+
+1077
+00:57:10.240 --> 00:57:14.100
+diastolique donc cette méthode nous permet de calculer
+
+1078
+00:57:14.100 --> 00:57:17.520
+la pression artérielle en exerçant une pression grâce
+
+1079
+00:57:17.520 --> 00:57:21.500
+à une pochette gonflable dans un brassard c
+
+1080
+00:57:21.500 --> 00:57:27.050
+'est clair ?
+
+1081
+00:57:27.050 --> 00:57:28.410
+il y a une question qui nous ramène
+
+1082
+00:57:28.410 --> 00:57:35.010
+au cours précédent pourquoi il y a une
+
+1083
+00:57:35.010 --> 00:57:36.070
+méthode indirecte ?
+
+1084
+00:57:36.070 --> 00:57:38.450
+je réponds à celle là et je reviens
+
+1085
+00:57:38.450 --> 00:57:41.290
+à la question de votre ami pourquoi il
+
+1086
+00:57:41.290 --> 00:57:43.250
+y a une méthode indirecte de mesure ?
+
+1087
+00:57:43.250 --> 00:57:45.150
+la mesure généralement c'est quoi ?
+
+1088
+00:57:46.970 --> 00:57:49.310
+il va falloir qu'elle soit sanglante c
+
+1089
+00:57:49.310 --> 00:57:51.630
+'est à dire rentrer à l'intérieur du
+
+1090
+00:57:51.630 --> 00:57:59.130
+coeur prendre une artère par exemple fémorale et
+
+1091
+00:58:00.700 --> 00:58:05.620
+remonter dans la horte et là vous avez
+
+1092
+00:58:05.620 --> 00:58:13.420
+votre ventricule gauche et votre ventricule droit donc
+
+1093
+00:58:13.420 --> 00:58:16.280
+il suffit de piquer au niveau d'une
+
+1094
+00:58:16.280 --> 00:58:23.660
+artère fémorale et glisser un cathéter et je
+
+1095
+00:58:23.660 --> 00:58:26.120
+le mets dans la horte et le cathéter
+
+1096
+00:58:26.120 --> 00:58:30.060
+à son bout il a un capteur de
+
+1097
+00:58:30.060 --> 00:58:32.960
+pression qui est transmis à une machine et
+
+1098
+00:58:32.960 --> 00:58:35.640
+je vais avoir un calcul de la pression
+
+1099
+00:58:35.640 --> 00:58:41.020
+c'est une méthode sanglante directe mais on
+
+1100
+00:58:41.020 --> 00:58:41.740
+ne va pas à chaque fois qu'on
+
+1101
+00:58:41.740 --> 00:58:44.420
+veut mesurer la pression artérielle faire ça ça
+
+1102
+00:58:44.420 --> 00:58:48.540
+suppose une hospitalisation puisque piquer une artère nécessite
+
+1103
+00:58:48.540 --> 00:58:52.420
+une surveillance donc la solution habituelle c'est
+
+1104
+00:58:52.420 --> 00:58:55.240
+de mesurer de façon indirecte c'est à
+
+1105
+00:58:55.240 --> 00:58:59.680
+dire à travers une pochette qui gonfle dans
+
+1106
+00:58:59.680 --> 00:59:01.980
+laquelle je mets une pression et cette pression
+
+1107
+00:59:01.980 --> 00:59:03.960
+s'exerce sur l'artère de l'extérieur
+
+1108
+00:59:03.960 --> 00:59:06.620
+je mesure de façon indirecte la pression artérielle
+
+1109
+00:59:06.620 --> 00:59:12.020
+on appelle aussi la mesure non invasive alors
+
+1110
+00:59:12.020 --> 00:59:18.520
+que la méthode directe est invasive et du
+
+1111
+00:59:18.520 --> 00:59:20.700
+moment que c'est invasif ça nous permet
+
+1112
+00:59:20.700 --> 00:59:24.680
+aussi de relier ce que je suis en
+
+1113
+00:59:24.680 --> 00:59:28.900
+train de dire à la méthode invasive comment
+
+1114
+00:59:28.900 --> 00:59:33.470
+elle est faite ça me ramène au cours
+
+1115
+00:59:33.470 --> 00:59:40.270
+du cycle cardiaque dans lequel on avait vu
+
+1116
+00:59:40.270 --> 00:59:44.150
+ça on avait vu en fonction de la
+
+1117
+00:59:44.150 --> 00:59:47.290
+pression la pression ici je peux avoir ici
+
+1118
+00:59:47.290 --> 00:59:53.850
+le temps et on avait remarqué ensemble que
+
+1119
+00:59:54.890 --> 00:59:57.630
+la pression dans le ventricule gauche si j
+
+1120
+00:59:57.630 --> 00:59:59.170
+'ai un cathéter que j'ai introduit dans
+
+1121
+00:59:59.170 --> 01:00:04.150
+le ventricule gauche la pression au début est
+
+1122
+01:00:04.150 --> 01:00:10.820
+basse et puis une fois la valve la
+
+1123
+01:00:10.820 --> 01:00:20.400
+valve mitrale se ferme donc fermeture je vais
+
+1124
+01:00:20.400 --> 01:00:25.000
+avoir une phase de contraction on est dans
+
+1125
+01:00:25.000 --> 01:00:29.200
+le ventricule gauche là la pression monte atteint
+
+1126
+01:00:29.200 --> 01:00:34.300
+un sommet et puis la valve va s
+
+1127
+01:00:34.300 --> 01:00:37.460
+'ouvrir c'est la valve ouverture de la
+
+1128
+01:00:37.460 --> 01:00:42.620
+valve aortique et je commence une éjection l
+
+1129
+01:00:42.620 --> 01:00:45.320
+'éjection commence à un niveau de pression elle
+
+1130
+01:00:45.320 --> 01:00:48.280
+essaie d'atteindre un maximum pour que la
+
+1131
+01:00:48.280 --> 01:00:51.940
+pression entre l'aorte et le ventricule gauche
+
+1132
+01:00:51.940 --> 01:00:54.440
+plus je mets de sang dans le ventricule
+
+1133
+01:00:54.440 --> 01:01:00.100
+gauche plus la pression monte dans l'aorte
+
+1134
+01:01:00.100 --> 01:01:01.960
+et donc celle du ventricule gauche doit suivre
+
+1135
+01:01:01.960 --> 01:01:05.420
+elle atteint un maximum et ce maximum va
+
+1136
+01:01:05.420 --> 01:01:08.780
+être où la pression aortique on va le
+
+1137
+01:01:08.780 --> 01:01:12.880
+voir la pression artérielle, systole et puis je
+
+1138
+01:01:12.880 --> 01:01:14.960
+reviens et à un moment donné il y
+
+1139
+01:01:14.960 --> 01:01:20.240
+a fermeture de la valve aortique relaxation et
+
+1140
+01:01:20.240 --> 01:01:22.540
+puis la pression revient à des valeurs basses
+
+1141
+01:01:22.540 --> 01:01:27.940
+et ainsi de suite sur ce schéma je
+
+1142
+01:01:27.940 --> 01:01:30.800
+veux rajouter une autre coupe qui est celle
+
+1143
+01:01:30.800 --> 01:01:33.380
+de l'aorte dans l'aorte la pression
+
+1144
+01:01:33.380 --> 01:01:36.100
+diastolique est là elle continue à se relâcher,
+
+1145
+01:01:36.300 --> 01:01:42.740
+elle est basse une fois l'aorte s
+
+1146
+01:01:42.740 --> 01:01:45.100
+'ouvre la pression monte aussi dans l'aorte
+
+1147
+01:01:45.700 --> 01:01:48.480
+et puis elle descend et après la fermeture
+
+1148
+01:01:48.480 --> 01:01:51.020
+il y a une autre décrote et puis
+
+1149
+01:01:51.020 --> 01:02:00.100
+ça revient la même chose ici si vous
+
+1150
+01:02:00.100 --> 01:02:03.900
+voulez superposer les coups la pression du ventricule
+
+1151
+01:02:03.900 --> 01:02:06.520
+gauche superposer sur la pression de l'aorte
+
+1152
+01:02:06.520 --> 01:02:09.380
+et là on détermine la systolique et la
+
+1153
+01:02:09.380 --> 01:02:15.670
+diastolique encore plus je peux rajouter sur la
+
+1154
+01:02:15.670 --> 01:02:18.630
+même coupe cette fois-ci la pression au
+
+1155
+01:02:18.630 --> 01:02:23.270
+niveau des oreillettes au niveau des oreillettes la
+
+1156
+01:02:23.270 --> 01:02:25.770
+pression est très basse là je suis à
+
+1157
+01:02:25.770 --> 01:02:27.570
+une phase de remplissage c'est la même
+
+1158
+01:02:27.570 --> 01:02:31.410
+chose qu'ici et vous savez qu'il
+
+1159
+01:02:31.410 --> 01:02:33.250
+y a une phase de remplissage rapide une
+
+1160
+01:02:33.250 --> 01:02:35.470
+phase de remplissage longue et puis il y
+
+1161
+01:02:35.470 --> 01:02:38.650
+a une contraction auriculaire au moment de la
+
+1162
+01:02:38.650 --> 01:02:41.810
+contraction auriculaire j'ai quand même une petite
+
+1163
+01:02:41.810 --> 01:02:49.090
+élévation de la pression dans l'oreillette que
+
+1164
+01:02:49.090 --> 01:02:52.910
+je vais appeler A A comme auricule ce
+
+1165
+01:02:52.910 --> 01:02:56.310
+qui veut dire que la pression même dans
+
+1166
+01:02:56.310 --> 01:03:02.270
+le je vais effacer je vais mettre le
+
+1167
+01:03:02.270 --> 01:03:05.570
+rouge même dans le ventricule de tout à
+
+1168
+01:03:05.570 --> 01:03:07.570
+l'heure la pression va monter vous allez
+
+1169
+01:03:07.570 --> 01:03:09.870
+me dire mais les valves pour l'instant
+
+1170
+01:03:09.870 --> 01:03:14.590
+sont ouvertes l'oreillette communique avec le ventricule
+
+1171
+01:03:14.590 --> 01:03:19.130
+et si la pression monte dans l'oreillette
+
+1172
+01:03:19.130 --> 01:03:21.670
+elle monte aussi dans le ventricule je reviens
+
+1173
+01:03:21.670 --> 01:03:25.030
+à ma couleur blanche et je continue avec
+
+1174
+01:03:25.030 --> 01:03:27.210
+moi elle monte parce qu'il y a
+
+1175
+01:03:27.210 --> 01:03:32.130
+une contraction auriculaire elle descend et puis hop
+
+1176
+01:03:32.130 --> 01:03:34.770
+on assiste à un autre phénomène une deuxième
+
+1177
+01:03:34.770 --> 01:03:38.170
+onde qu'on appelle C pourquoi C ?
+
+1178
+01:03:38.170 --> 01:03:40.010
+Je vais effacer une partie ici pour l
+
+1179
+01:03:40.010 --> 01:03:43.990
+'expliquer C ça correspond à contraction contraction de
+
+1180
+01:03:43.990 --> 01:03:44.830
+quoi ?
+
+1181
+01:03:44.830 --> 01:03:51.610
+Si je dessine si je dessine le ventricule
+
+1182
+01:03:51.610 --> 01:03:53.550
+mais cette fois-ci en focalisant sur l
+
+1183
+01:03:53.550 --> 01:03:56.170
+'oreillette gauche regardez ce que vous allez voir
+
+1184
+01:03:56.170 --> 01:03:59.670
+l'oreillette gauche est là, la valve mitrale
+
+1185
+01:03:59.670 --> 01:04:02.570
+et la valve mitrale est reliée à des
+
+1186
+01:04:02.570 --> 01:04:07.210
+cordages et les cordages bien sûr sont reliés
+
+1187
+01:04:07.210 --> 01:04:10.150
+à des piliers et les piliers sont dans
+
+1188
+01:04:10.150 --> 01:04:17.440
+le ventricule gauche en fait quand la valve
+
+1189
+01:04:17.440 --> 01:04:20.860
+se ferme c'est bien cette étape là
+
+1190
+01:04:20.860 --> 01:04:23.440
+on est arrivé là, la valve s'est
+
+1191
+01:04:23.440 --> 01:04:28.100
+fermée pourquoi la pression remonte dans l'oreillette
+
+1192
+01:04:28.100 --> 01:04:31.700
+gauche, le sang continue à couler, celui qui
+
+1193
+01:04:31.700 --> 01:04:35.360
+vient des veines pulmonaires celui qui vient des
+
+1194
+01:04:35.360 --> 01:04:41.320
+veines pulmonaires continue à couler il ne s
+
+1195
+01:04:41.320 --> 01:04:42.560
+'arrête pas, il y a du sang qui
+
+1196
+01:04:42.560 --> 01:04:46.200
+vient seulement ici la contraction dans le ventricule
+
+1197
+01:04:46.200 --> 01:04:48.900
+a commencé et la contraction a commencé j
+
+1198
+01:04:48.900 --> 01:04:53.520
+'aurais dû prendre un autre poseur a commencé
+
+1199
+01:04:53.520 --> 01:04:57.260
+pour éjecter dans la horte mais sous l
+
+1200
+01:04:57.260 --> 01:05:00.440
+'effet de la pression de la contraction isovolumétrique
+
+1201
+01:05:00.440 --> 01:05:03.180
+et puis du début de l'éjection la
+
+1202
+01:05:03.180 --> 01:05:06.120
+pression est montée pour ouvrir la valve vortique
+
+1203
+01:05:06.120 --> 01:05:08.960
+mais en même temps la pression s'exerce
+
+1204
+01:05:09.480 --> 01:05:11.600
+sur la valve mitrale par en bas par
+
+1205
+01:05:11.600 --> 01:05:14.640
+le bas mais heureusement que les valves sont
+
+1206
+01:05:14.640 --> 01:05:18.220
+retenues par les cordages, donc ça pousse sur
+
+1207
+01:05:18.220 --> 01:05:24.140
+les valves, les valves subissent une secousse, ils
+
+1208
+01:05:24.140 --> 01:05:27.740
+sont poussés comme ça, et ce secousse va
+
+1209
+01:05:27.740 --> 01:05:29.480
+se transmettre dans l'oreillette gauche et l
+
+1210
+01:05:29.480 --> 01:05:31.840
+'oreillette gauche va subir une petite élévation de
+
+1211
+01:05:31.840 --> 01:05:34.880
+la pression cette élévation de la pression qui
+
+1212
+01:05:34.880 --> 01:05:38.020
+est écrite par la lettre C, c'est
+
+1213
+01:05:38.020 --> 01:05:41.000
+concomitante à la contraction peut être la contraction
+
+1214
+01:05:41.000 --> 01:05:45.000
+isovolumétrique peut être au début de l'éjection
+
+1215
+01:05:45.000 --> 01:05:46.920
+mais en tout cas elle est là, et
+
+1216
+01:05:46.920 --> 01:05:48.700
+puis la pression chute parce que dès que
+
+1217
+01:05:48.700 --> 01:05:51.080
+la valve aortique s'ouvre toute la pression
+
+1218
+01:05:51.080 --> 01:05:54.180
+est envoyée vers la horte et la tension
+
+1219
+01:05:54.180 --> 01:05:57.340
+sur les valves mitrales baisse donc ça va
+
+1220
+01:05:57.340 --> 01:06:01.940
+baisser mais pas trop baisser parce qu'il
+
+1221
+01:06:01.940 --> 01:06:03.740
+y a toujours du son qui vient dans
+
+1222
+01:06:03.740 --> 01:06:06.580
+l'oreillette gauche donc ça va baisser comme
+
+1223
+01:06:06.580 --> 01:06:08.800
+ça, et puis ça va commencer à remonter
+
+1224
+01:06:08.800 --> 01:06:11.560
+progressivement, pourquoi ça remonte progressivement ?
+
+1225
+01:06:11.560 --> 01:06:12.860
+parce qu'encore une fois il y a
+
+1226
+01:06:12.860 --> 01:06:15.180
+du son qui vient vers l'oreillette et
+
+1227
+01:06:15.180 --> 01:06:17.520
+qui la remplit, et donc qui fait augmenter
+
+1228
+01:06:17.520 --> 01:06:19.840
+son niveau de pression jusqu'à ce qu
+
+1229
+01:06:19.840 --> 01:06:22.620
+'elle atteigne un niveau de pression plus élevé
+
+1230
+01:06:22.620 --> 01:06:25.920
+que celui du ventricule la valve s'ouvre,
+
+1231
+01:06:26.420 --> 01:06:30.600
+et le remplissage reprend le remplissage reprend mais
+
+1232
+01:06:30.600 --> 01:06:34.060
+de façon impulsive il y a une oreillette
+
+1233
+01:06:34.060 --> 01:06:36.500
+qui est remplie, qui attend juste le moment
+
+1234
+01:06:36.500 --> 01:06:37.660
+où la valve s'ouvre, dès qu'elle
+
+1235
+01:06:37.660 --> 01:06:42.200
+s'ouvre elle rentre avec une grande quantité
+
+1236
+01:06:42.200 --> 01:06:44.380
+importante et ça crée une honte qu'on
+
+1237
+01:06:44.380 --> 01:06:47.480
+appelle l'honte V qui juste après diminue
+
+1238
+01:06:47.480 --> 01:06:50.460
+le remplissage rapide et puis le remplissage lent
+
+1239
+01:06:50.460 --> 01:06:55.040
+avec une petite pression basse sur la courbe
+
+1240
+01:06:55.040 --> 01:06:59.480
+auriculaire on décrit essentiellement ces trois accidents on
+
+1241
+01:06:59.480 --> 01:07:02.000
+parle de creux X et Y mais moi
+
+1242
+01:07:02.000 --> 01:07:07.400
+je veux que vous reteniez simplement ces trois
+
+1243
+01:07:07.400 --> 01:07:08.940
+parce qu'ils ont de l'importance et
+
+1244
+01:07:08.940 --> 01:07:10.400
+surtout ce qui est de l'importance c
+
+1245
+01:07:10.400 --> 01:07:13.040
+'est l'onde A sur la courbe de
+
+1246
+01:07:13.040 --> 01:07:15.780
+pression auriculaire qui correspond à la contraction auriculaire
+
+1247
+01:07:15.780 --> 01:07:19.120
+l'onde V qui correspond bien sûr au
+
+1248
+01:07:19.120 --> 01:07:24.520
+début du remplissage et qui est généralement l
+
+1249
+01:07:24.520 --> 01:07:26.820
+'onde V est supérieure à l'onde A
+
+1250
+01:07:28.440 --> 01:07:31.360
+pas beaucoup, un petit peu mais des fois
+
+1251
+01:07:31.360 --> 01:07:35.040
+si elle augmente beaucoup c'est pathologique mais
+
+1252
+01:07:35.040 --> 01:07:36.320
+on ne le verra pas cette année ce
+
+1253
+01:07:36.320 --> 01:07:37.880
+que je vous demande c'est de ce
+
+1254
+01:07:37.880 --> 01:07:40.840
+qui caractérise une courbe auriculaire c'est qu
+
+1255
+01:07:40.840 --> 01:07:43.140
+'elle a des accidents comme ça A, C
+
+1256
+01:07:43.140 --> 01:07:44.820
+et V on n'a pas ça sur
+
+1257
+01:07:44.820 --> 01:07:46.820
+la courbe ventriculaire mais sur la courbe de
+
+1258
+01:07:46.820 --> 01:07:52.190
+la honte je regarde les questions et je
+
+1259
+01:07:52.190 --> 01:08:02.350
+reviens alors la phase A des oreillettes c
+
+1260
+01:08:02.350 --> 01:08:04.670
+'est pas compliqué je vous ai dit que
+
+1261
+01:08:04.670 --> 01:08:06.450
+dans le remplissage revenez au cours du cycle
+
+1262
+01:08:06.450 --> 01:08:12.490
+cardiaque la diastose comporte de remplissage après la
+
+1263
+01:08:12.490 --> 01:08:19.550
+relaxation isovolumétrique vous avez le remplissage rapide donc
+
+1264
+01:08:19.550 --> 01:08:22.910
+le sang rentre avec une grande quantité importante
+
+1265
+01:08:22.910 --> 01:08:26.370
+au niveau du ventricule donc une onde V
+
+1266
+01:08:26.370 --> 01:08:31.050
+une première vague de remplissage et puis un
+
+1267
+01:08:31.050 --> 01:08:33.510
+remplissage lent c'est à dire la première
+
+1268
+01:08:33.510 --> 01:08:36.229
+vague passe et le reste il va s
+
+1269
+01:08:36.229 --> 01:08:39.350
+'écouler directement de l'oreillette vers l'oreillette
+
+1270
+01:08:39.350 --> 01:08:43.250
+vers le ventricule donc vous aurez quelque chose
+
+1271
+01:08:43.250 --> 01:08:46.450
+comme ça un écoulement comme ça et puis
+
+1272
+01:08:46.450 --> 01:08:50.350
+vous avez la phase de contraction auriculaire laquelle
+
+1273
+01:08:50.350 --> 01:08:55.970
+contraction auriculaire qui correspond sur l'ECG vous
+
+1274
+01:08:55.970 --> 01:08:58.450
+vous rappelez quand on a parlé de la
+
+1275
+01:08:58.450 --> 01:09:01.550
+dépolarisation des oreillettes on a dit elle vient
+
+1276
+01:09:01.550 --> 01:09:04.750
+du nœud sinusale vers le nœud auriculo-ventriculaire
+
+1277
+01:09:04.750 --> 01:09:10.229
+et puis vers le ventricule et bien le
+
+1278
+01:09:10.229 --> 01:09:12.149
+nœud sinusale une fois il est dépolarisé il
+
+1279
+01:09:12.149 --> 01:09:15.910
+va dépolariser les oreillettes et vous aurez une
+
+1280
+01:09:15.910 --> 01:09:18.350
+contraction des oreillettes et cette contraction va donner
+
+1281
+01:09:18.350 --> 01:09:22.550
+sur l'ECG une onde P une onde
+
+1282
+01:09:22.550 --> 01:09:25.210
+P ça c'est le phénomène électrique qui
+
+1283
+01:09:25.210 --> 01:09:27.410
+sera suivi d'une contraction des oreillettes qui
+
+1284
+01:09:27.410 --> 01:09:29.510
+est l'onde A et cette onde A
+
+1285
+01:09:29.510 --> 01:09:32.609
+c'est finalement quand l'oreillette se contracte
+
+1286
+01:09:32.609 --> 01:09:34.250
+elle va pousser le sang elle va le
+
+1287
+01:09:34.250 --> 01:09:37.770
+pousser avec une certaine pression donc automatiquement le
+
+1288
+01:09:37.770 --> 01:09:39.130
+niveau de pression dans l'oreillette ne restera
+
+1289
+01:09:39.130 --> 01:09:41.490
+pas comme ça il va augmenter de façon
+
+1290
+01:09:41.490 --> 01:09:45.910
+brutale suite à la contraction et vous revenez
+
+1291
+01:09:45.910 --> 01:09:48.850
+à la normale à la fin de la
+
+1292
+01:09:48.850 --> 01:09:51.350
+contraction et je viens de vous expliquer qu
+
+1293
+01:09:51.350 --> 01:09:54.530
+'il y a une onde supplémentaire qui s
+
+1294
+01:09:54.530 --> 01:09:57.970
+'appelle l'onde C et qui est concomitante
+
+1295
+01:09:57.970 --> 01:10:01.590
+avec la mise en tension des vagues mitrales
+
+1296
+01:10:01.590 --> 01:10:03.350
+lors de la phase de contraction et d
+
+1297
+01:10:03.350 --> 01:10:07.270
+'éjection ventriculaire et ça revient au remplissage c
+
+1298
+01:10:07.270 --> 01:10:12.470
+'est clair ?
+
+1299
+01:10:12.470 --> 01:10:21.020
+c'est parfait ok maintenant on va faire
+
+1300
+01:10:21.020 --> 01:10:23.180
+un saut aussi sur l'histoire de la
+
+1301
+01:10:23.180 --> 01:10:25.460
+postcharge etc pour revenir là dessus parce que
+
+1302
+01:10:25.460 --> 01:10:28.440
+c'est important vous imaginez maintenant avec ce
+
+1303
+01:10:28.440 --> 01:10:30.880
+qu'on a écrit expliquer que la postcharge
+
+1304
+01:10:30.880 --> 01:10:34.260
+pour le ventricule gauche va être essentiellement la
+
+1305
+01:10:34.260 --> 01:10:42.900
+pression artérielle la pression artérielle le ventricule devra
+
+1306
+01:10:42.900 --> 01:10:47.660
+normalement mobiliser beaucoup de pression pour pouvoir vaincre
+
+1307
+01:10:47.660 --> 01:10:49.400
+la pression artérielle donc c'est la première
+
+1308
+01:10:49.400 --> 01:10:52.140
+postcharge n'empêche que la deuxième postcharge va
+
+1309
+01:10:52.140 --> 01:10:57.140
+être les résistances vasculaires périphériques les résistances vasculaires
+
+1310
+01:10:57.140 --> 01:11:03.400
+systémiques si j'ai des résistances élevées les
+
+1311
+01:11:03.400 --> 01:11:05.340
+résistances augmentent la pression tout ça c'est
+
+1312
+01:11:05.340 --> 01:11:08.120
+effectivement relié mais si je veux comme ça
+
+1313
+01:11:08.120 --> 01:11:11.360
+les départager je vais dire la pression oui
+
+1314
+01:11:11.360 --> 01:11:13.060
+c'est une véritable postcharge pour le coeur
+
+1315
+01:11:13.060 --> 01:11:15.940
+et donc ça le gêne et les résistances
+
+1316
+01:11:15.940 --> 01:11:17.600
+aussi font la même chose tout en sachant
+
+1317
+01:11:17.600 --> 01:11:20.380
+que les résistances finissent par augmenter la pression
+
+1318
+01:11:20.380 --> 01:11:24.800
+artérielle sur la courbe pression volume on l
+
+1319
+01:11:24.800 --> 01:11:27.080
+'avait vu comme ça on avait vu une
+
+1320
+01:11:27.080 --> 01:11:37.900
+droite qui reflétait la pression télé-diastolique du
+
+1321
+01:11:37.900 --> 01:11:40.360
+ventricule et donc qui reflétait la pression et
+
+1322
+01:11:40.360 --> 01:11:47.470
+une droite qui reflète l'élastance donc c
+
+1323
+01:11:47.470 --> 01:11:52.290
+'est la pression télé-diastolique du ventricule et
+
+1324
+01:11:52.290 --> 01:11:54.970
+donc qui reflète la contractilité et on l
+
+1325
+01:11:54.970 --> 01:12:03.890
+'a appelé la droite d'élastance ventriculaire et
+
+1326
+01:12:03.890 --> 01:12:09.070
+puis une droite supplémentaire sans la peine de
+
+1327
+01:12:09.070 --> 01:12:11.910
+rentrer dans les détails et qui reflète l
+
+1328
+01:12:11.910 --> 01:12:18.200
+'élastance artérielle donc l'élastance artérielle quand elle
+
+1329
+01:12:18.200 --> 01:12:21.480
+augmente quand l'élastance artérielle augmente imaginez que
+
+1330
+01:12:21.480 --> 01:12:22.880
+tout à l'heure on a parlé de
+
+1331
+01:12:22.880 --> 01:12:24.720
+l'histoire d'une artère qui devient rigide
+
+1332
+01:12:24.720 --> 01:12:27.360
+forcément son élastance augmente ça c'est la
+
+1333
+01:12:27.360 --> 01:12:28.860
+pression pardon et ça c'est le volume
+
+1334
+01:12:30.490 --> 01:12:34.370
+donc une artère dans laquelle la rigidité augmente
+
+1335
+01:12:34.370 --> 01:12:38.290
+forcément la pression va monter donc vous aurez
+
+1336
+01:12:38.290 --> 01:12:42.290
+la même droite je garde la même couleur
+
+1337
+01:12:42.290 --> 01:12:45.430
+mais je la mets en pointillé va être
+
+1338
+01:12:45.430 --> 01:12:49.370
+ici mais votre courbe de pression volume elle
+
+1339
+01:12:49.370 --> 01:12:54.130
+était là votre boucle de pression volume elle
+
+1340
+01:12:54.130 --> 01:12:58.780
+était là si la rigidité, la rigidité qu
+
+1341
+01:12:58.780 --> 01:12:59.980
+'est-ce qu'elle fait ?
+
+1342
+01:12:59.980 --> 01:13:02.900
+la rigidité elle va changer la droite de
+
+1343
+01:13:02.900 --> 01:13:05.700
+l'élastance artérielle donc je vais devoir finir
+
+1344
+01:13:05.700 --> 01:13:08.380
+ici forcément toute la boucle de pression volume
+
+1345
+01:13:08.380 --> 01:13:13.280
+va devoir bouger à droite et être déplacée
+
+1346
+01:13:13.280 --> 01:13:17.540
+même la pression télé-diastolique va changer le
+
+1347
+01:13:17.540 --> 01:13:21.020
+niveau de post-charge qui est là va
+
+1348
+01:13:21.020 --> 01:13:22.220
+être augmenté c'est pour ça que je
+
+1349
+01:13:22.220 --> 01:13:24.520
+vous le dis la post-charge elle est
+
+1350
+01:13:24.520 --> 01:13:26.740
+quand même reliée à la pression artérielle et
+
+1351
+01:13:26.740 --> 01:13:28.280
+donc de la pression elle est reliée finalement
+
+1352
+01:13:28.280 --> 01:13:31.240
+à l'élastance à la rigidité, à l
+
+1353
+01:13:31.240 --> 01:13:35.220
+'élastance musculaire et aussi à la résistance et
+
+1354
+01:13:35.220 --> 01:13:37.680
+sur la compression volume ça ça nous prouve
+
+1355
+01:13:37.680 --> 01:13:41.480
+à cause de cette élastance élevée le coeur
+
+1356
+01:13:41.480 --> 01:13:43.360
+va subir une post-charge, la post-charge
+
+1357
+01:13:43.360 --> 01:13:45.940
+c'est celle-là elle va être plus
+
+1358
+01:13:45.940 --> 01:13:48.120
+importante que celle du début et donc il
+
+1359
+01:13:48.120 --> 01:13:52.120
+va devoir générer une pression une pression télé
+
+1360
+01:13:52.120 --> 01:13:55.260
+-diastolique plus élevée pour pouvoir travailler et cette
+
+1361
+01:13:55.260 --> 01:13:59.940
+pression comment il fait face à cette augmentation
+
+1362
+01:13:59.940 --> 01:14:04.880
+de pression prenez un ventricule en coupe coupe
+
+1363
+01:14:04.880 --> 01:14:07.900
+transverse il y a de la pression dedans
+
+1364
+01:14:09.460 --> 01:14:12.380
+et là c'est le rayon et là
+
+1365
+01:14:12.380 --> 01:14:14.280
+c'est l'épaisseur, l'épaisseur on va
+
+1366
+01:14:14.280 --> 01:14:19.200
+lui donner un chiffre H quand la pression
+
+1367
+01:14:19.200 --> 01:14:26.140
+augmente normalement la paroi subit une sorte de
+
+1368
+01:14:26.140 --> 01:14:31.940
+tension et cette tension tend à disséquer ou
+
+1369
+01:14:31.940 --> 01:14:35.620
+probablement à dichérer ou à rompre le ventricule
+
+1370
+01:14:35.620 --> 01:14:38.720
+mais pourquoi ça n'arrive pas parce que
+
+1371
+01:14:38.720 --> 01:14:42.200
+les cellules musculaires cardiaques qui sont là, en
+
+1372
+01:14:42.200 --> 01:14:45.040
+fait une cellule elle est comme ça, une
+
+1373
+01:14:45.040 --> 01:14:53.060
+cellule musculaire elle est comme ça puis elle
+
+1374
+01:14:53.060 --> 01:14:55.660
+est reliée à une deuxième cellule qui elle
+
+1375
+01:14:55.660 --> 01:15:03.810
+aussi est ainsi de suite les cellules sont
+
+1376
+01:15:03.810 --> 01:15:08.390
+enchevêtrées et au milieu à cette zone là
+
+1377
+01:15:08.390 --> 01:15:11.810
+on a ce qu'on appelle les desmosomes
+
+1378
+01:15:13.490 --> 01:15:17.790
+les desmosomes c'est des zones très intéressantes
+
+1379
+01:15:17.790 --> 01:15:20.810
+à la fois ils permettent de relier les
+
+1380
+01:15:20.810 --> 01:15:25.430
+cellules musculaires entre elles et aussi ils permettent
+
+1381
+01:15:25.430 --> 01:15:28.570
+il y a des ports qui font communiquer
+
+1382
+01:15:28.570 --> 01:15:30.510
+les cellules et donc le sodium et le
+
+1383
+01:15:30.510 --> 01:15:32.650
+calcium peuvent passer d'une cellule à une
+
+1384
+01:15:32.650 --> 01:15:35.250
+autre et donc ça améliore la dépolarisation des
+
+1385
+01:15:35.250 --> 01:15:39.210
+cellules et deuxièmement il permet de tenir les
+
+1386
+01:15:39.210 --> 01:15:42.530
+cellules entre elles c'est un lien important,
+
+1387
+01:15:42.670 --> 01:15:45.630
+très fort de telle façon que quand la
+
+1388
+01:15:45.630 --> 01:15:47.470
+pression s'exerce sur la paroi et elle
+
+1389
+01:15:47.470 --> 01:15:53.250
+veut séparer les cellules les desmosomes exercent une
+
+1390
+01:15:53.250 --> 01:16:02.350
+pression inverse comme ça alors que la pression
+
+1391
+01:16:02.350 --> 01:16:03.670
+je vais la mettre avec la couleur la
+
+1392
+01:16:03.670 --> 01:16:13.330
+pression tente de séparer les cellules les
+
+1393
+01:16:13.330 --> 01:16:17.370
+desmosomes jouent un rôle plutôt à l'inverse
+
+1394
+01:16:17.370 --> 01:16:19.710
+et donc ils permettent de maintenir la cohésion
+
+1395
+01:16:19.710 --> 01:16:22.250
+des cellules donc maintenir une certaine tension pariétale
+
+1396
+01:16:22.250 --> 01:16:27.270
+et monsieur Laplace a étudié cette règle et
+
+1397
+01:16:27.270 --> 01:16:29.910
+il nous a donné la formule qui dit
+
+1398
+01:16:29.910 --> 01:16:39.570
+que normalement la tension pariétale la
+
+1399
+01:16:39.570 --> 01:16:45.250
+tension pariétale est corrélée au rayon et à
+
+1400
+01:16:48.860 --> 01:16:58.900
+la pression la pression que
+
+1401
+01:16:58.900 --> 01:17:03.700
+multiplie le r divisé par deux fois l
+
+1402
+01:17:03.700 --> 01:17:06.620
+'épaisseur qu'est-ce qu'on tire de
+
+1403
+01:17:06.620 --> 01:17:08.920
+cette loi c'est que quand la pression
+
+1404
+01:17:10.500 --> 01:17:16.020
+augmente la tension pariétale augmente mais heureusement qu
+
+1405
+01:17:16.020 --> 01:17:18.140
+'il y a ces desmosomes qui retiennent la
+
+1406
+01:17:18.140 --> 01:17:19.680
+parole pour qu'elle ne se rompe pas
+
+1407
+01:17:19.680 --> 01:17:22.180
+mais en même temps il ne faut pas
+
+1408
+01:17:22.180 --> 01:17:25.320
+que la pression reste trop élevée sur le
+
+1409
+01:17:25.320 --> 01:17:32.160
+ventricule il va falloir qu'il soit renforcé
+
+1410
+01:17:32.160 --> 01:17:35.040
+davantage pour qu'il tienne mieux pour qu
+
+1411
+01:17:35.040 --> 01:17:37.740
+'il soit renforcé ces desmosomes quand ils reçoivent
+
+1412
+01:17:37.740 --> 01:17:42.420
+de la pression de la pression chronique ils
+
+1413
+01:17:42.420 --> 01:17:45.880
+transmettent des signaux vers le noyau des cellules
+
+1414
+01:17:45.880 --> 01:17:48.640
+qui les poussent à se répliquer et donc
+
+1415
+01:17:48.640 --> 01:17:51.340
+entraîner ce qu'on appelle une hypertrophie une
+
+1416
+01:17:51.340 --> 01:17:56.720
+hypertrophie en myocardie et cette hypertrophie qu'est
+
+1417
+01:17:56.720 --> 01:17:58.740
+-ce qu'elle va faire si j'ai
+
+1418
+01:17:58.740 --> 01:18:02.460
+de l'hypertrophie je vais avoir plus de
+
+1419
+01:18:02.460 --> 01:18:05.980
+muscles ici ce qui veut dire un H
+
+1420
+01:18:05.980 --> 01:18:08.960
+plus important et un rayon à l'intérieur
+
+1421
+01:18:09.700 --> 01:18:13.620
+donc le rayon va diminuer et le H
+
+1422
+01:18:13.620 --> 01:18:19.520
+va augmenter alors le H quand il augmente
+
+1423
+01:18:20.420 --> 01:18:23.620
+ça fait diminuer la tension le R quand
+
+1424
+01:18:23.620 --> 01:18:26.020
+il diminue ça fait diminuer la tension donc
+
+1425
+01:18:26.020 --> 01:18:29.620
+la tension sur la paroi va diminuer suite
+
+1426
+01:18:29.620 --> 01:18:31.960
+à l'augmentation de la pression mais ceci
+
+1427
+01:18:31.960 --> 01:18:37.840
+grâce au phénomène d'hypertrophie non ils ne
+
+1428
+01:18:37.840 --> 01:18:39.300
+sont pas à l'origine les desmosomes ne
+
+1429
+01:18:39.300 --> 01:18:40.860
+sont pas à l'origine de la tension
+
+1430
+01:18:40.860 --> 01:18:49.940
+les desmosomes c'est un moyen pour tenir
+
+1431
+01:18:56.580 --> 01:19:02.320
+je vais prendre un ballon de foot un
+
+1432
+01:19:02.320 --> 01:19:03.560
+ballon de foot c'est un moyen pour
+
+1433
+01:19:03.560 --> 01:19:05.260
+tenir il me semble qu'il y a
+
+1434
+01:19:05.260 --> 01:19:07.100
+des pièces géologiques qui ne connaissent pas le
+
+1435
+01:19:07.100 --> 01:19:10.320
+créateur imagine que tu gonfles trop le ballon
+
+1436
+01:19:10.320 --> 01:19:12.460
+tu mets trop de pression dedans à un
+
+1437
+01:19:12.460 --> 01:19:16.040
+moment donné c'est pas facile de faire
+
+1438
+01:19:16.040 --> 01:19:19.160
+éclater un ballon de foot mais s'il
+
+1439
+01:19:19.160 --> 01:19:22.180
+éclate c'est quand les sutures vont éclater
+
+1440
+01:19:23.260 --> 01:19:27.220
+les sutures sont tellement bien fermes qu'elles
+
+1441
+01:19:27.220 --> 01:19:32.320
+tiennent la paroi malgré la pression Le rôle
+
+1442
+01:19:32.320 --> 01:19:34.760
+des desmosomes c'est ça, les cellules vont
+
+1443
+01:19:34.760 --> 01:19:37.720
+tendance à s'étirer et donc à s
+
+1444
+01:19:37.720 --> 01:19:38.920
+'écarter l'une de l'autre et à
+
+1445
+01:19:38.920 --> 01:19:42.440
+se déchirer, mais les desmosomes tiennent les cellules
+
+1446
+01:19:42.440 --> 01:19:44.480
+entre eux et il y a des milliers
+
+1447
+01:19:44.480 --> 01:19:47.580
+de desmosomes et puis les cellules sont disposées
+
+1448
+01:19:47.580 --> 01:19:50.540
+d'une manière extraordinaire qui permet de réparer
+
+1449
+01:19:50.540 --> 01:19:54.120
+l'organisme sur le ventricule et du coup
+
+1450
+01:19:54.120 --> 01:19:57.500
+ça retient la paroi pour qu'il ne
+
+1451
+01:19:57.500 --> 01:20:00.120
+se déchire pas, donc les desmosomes protègent la
+
+1452
+01:20:00.120 --> 01:20:01.100
+paroi de la déchirure.
+
+1453
+01:20:02.800 --> 01:20:06.800
+C'est un moyen de protection et en
+
+1454
+01:20:06.800 --> 01:20:14.840
+attendant que la paroi s'épaissit, vous allez
+
+1455
+01:20:14.840 --> 01:20:19.280
+avoir une tension sur la paroi, donc qu
+
+1456
+01:20:19.280 --> 01:20:27.400
+'est-ce que je veux dire par ça,
+
+1457
+01:20:27.960 --> 01:20:30.480
+je veux dire que c'est le phénomène
+
+1458
+01:20:30.480 --> 01:20:33.560
+qui explique pourquoi le ventricule gauche est plus
+
+1459
+01:20:33.560 --> 01:20:36.080
+épais que le ventricule droit, c'est normal
+
+1460
+01:20:36.080 --> 01:20:39.780
+parce que le ventricule gauche travaille avec un
+
+1461
+01:20:39.780 --> 01:20:41.600
+régime de pression plus élevé que le ventricule
+
+1462
+01:20:41.600 --> 01:20:44.420
+droit, le ventricule droit est architecte et donc
+
+1463
+01:20:44.420 --> 01:20:45.940
+la paroi n'a pas eu besoin de
+
+1464
+01:20:45.940 --> 01:20:48.580
+s'hypertrophier, par contre à gauche elle s
+
+1465
+01:20:48.580 --> 01:20:54.600
+'hypertrophie, n'empêche que de façon erronée, je
+
+1466
+01:20:54.600 --> 01:20:55.740
+ne suis pas en train de vous dire
+
+1467
+01:20:55.740 --> 01:20:59.460
+que physiologiquement la paroi du ventricule gauche est
+
+1468
+01:20:59.460 --> 01:21:01.100
+hypertrophiée, ce n'est pas ce que je
+
+1469
+01:21:01.100 --> 01:21:02.940
+viens de dire, ce que je vous dis
+
+1470
+01:21:02.940 --> 01:21:11.360
+que physiologiquement et normalement, le ventricule gauche est
+
+1471
+01:21:11.360 --> 01:21:21.740
+plus épais que le ventricule droit, physiologiquement,
+
+1472
+01:21:21.920 --> 01:21:23.500
+c'est à dire que l'épaisseur est
+
+1473
+01:21:23.500 --> 01:21:28.360
+généralement de 8 mm, la paroi de l
+
+1474
+01:21:28.360 --> 01:21:31.960
+'épaisseur de 3 mm, ça c'est la
+
+1475
+01:21:31.960 --> 01:21:35.140
+normale, ça ne s'appelle pas hypertrophie, mais
+
+1476
+01:21:35.140 --> 01:21:37.780
+il suffit de vue que la paroi est
+
+1477
+01:21:37.780 --> 01:21:39.120
+plus épaisse que l'autre, oui je suis
+
+1478
+01:21:39.120 --> 01:21:42.620
+d'accord, mais le mot hypertrophie on le
+
+1479
+01:21:42.620 --> 01:21:44.260
+réserve à la pathologie, mais c'est à
+
+1480
+01:21:44.260 --> 01:21:47.420
+la physiologie, donc moi quand je parle d
+
+1481
+01:21:47.420 --> 01:21:50.320
+'hypertrophie du ventricule gauche, c'est quand la
+
+1482
+01:21:50.320 --> 01:21:55.340
+paroi est de 13-14 mm, 15 mm
+
+1483
+01:21:55.340 --> 01:21:58.620
+etc, c'est une paroi hypertrophiée, là je
+
+1484
+01:21:58.620 --> 01:22:00.980
+parle d'hypertrophie du ventricule gauche, je dis
+
+1485
+01:22:00.980 --> 01:22:03.840
+pourquoi il y a une hypertrophie, selon la
+
+1486
+01:22:03.840 --> 01:22:05.420
+loi de la place, c'est parce que
+
+1487
+01:22:05.420 --> 01:22:09.760
+la pression est augmentée, et donc le ventricule
+
+1488
+01:22:09.760 --> 01:22:11.420
+gauche, la pression fait l'effondrement, pourquoi la
+
+1489
+01:22:11.420 --> 01:22:13.740
+pression fait l'effondrement, pourquoi la courbe qui
+
+1490
+01:22:13.740 --> 01:22:16.720
+se trouve ici, au lieu d'avoir une
+
+1491
+01:22:16.720 --> 01:22:22.140
+pression ici, elle fait l'effondrement ici, c
+
+1492
+01:22:22.140 --> 01:22:25.060
+'est parce que le ventricule gauche apparemment, il
+
+1493
+01:22:25.060 --> 01:22:29.260
+subit une contre pression, quand il veut éjecter,
+
+1494
+01:22:29.980 --> 01:22:32.400
+le Kassarouba fait l'éjection, et donc il
+
+1495
+01:22:32.400 --> 01:22:36.580
+a dû augmenter sa pression pour pouvoir éjecter,
+
+1496
+01:22:36.580 --> 01:22:44.340
+le ventricule gauche, il donne, il éjecte, ça
+
+1497
+01:22:44.340 --> 01:22:45.940
+c'est l'oreille gauche, il éjecte dans
+
+1498
+01:22:45.940 --> 01:22:51.780
+l'aorte, ou dans l'aorte, les résistances,
+
+1499
+01:22:52.060 --> 01:22:54.960
+les artérioles et les résistances, donc il y
+
+1500
+01:22:54.960 --> 01:22:58.240
+a des résistances élevées au niveau artériolaire, il
+
+1501
+01:22:58.240 --> 01:23:01.160
+y a une paroi artérielle qui est rigide,
+
+1502
+01:23:01.500 --> 01:23:04.140
+et donc elle fait augmenter la pression, il
+
+1503
+01:23:04.140 --> 01:23:10.300
+est un peu rigide, il ne s'ouvre
+
+1504
+01:23:10.300 --> 01:23:12.740
+pas bien, et donc il essaie de la
+
+1505
+01:23:12.740 --> 01:23:15.540
+vaincre, c'est une sténose pour lui, et
+
+1506
+01:23:15.540 --> 01:23:17.400
+donc pour pouvoir assurer le même débit d
+
+1507
+01:23:17.400 --> 01:23:20.040
+'éjection, il va augmenter la vitesse, et pour
+
+1508
+01:23:20.040 --> 01:23:22.260
+augmenter la vitesse, il augmente sa pression, donc
+
+1509
+01:23:22.260 --> 01:23:23.880
+la pression que tu as faite, c'est
+
+1510
+01:23:23.880 --> 01:23:26.300
+de l'éjecter, en résumé, quand je vois
+
+1511
+01:23:26.300 --> 01:23:28.780
+la pression, quand je vois une hypertrophie du
+
+1512
+01:23:28.780 --> 01:23:30.620
+ventricule gauche, je me dis qu'il y
+
+1513
+01:23:30.620 --> 01:23:37.520
+a une surcharge de pression, et cette surcharge
+
+1514
+01:23:37.520 --> 01:23:44.060
+de pression, les explications, premièrement, obstacle à l
+
+1515
+01:23:44.060 --> 01:23:50.300
+'éjection, certainement l'obstacle au niveau de la
+
+1516
+01:23:50.300 --> 01:23:57.180
+valve aortique, je peux avoir, deuxièmement, une artère
+
+1517
+01:23:57.180 --> 01:24:03.290
+qui est rigide, rigidité de la horte, troisièmement,
+
+1518
+01:24:03.450 --> 01:24:06.670
+je peux avoir des résistances élevées, parce qu
+
+1519
+01:24:06.670 --> 01:24:10.130
+'il y a une HTA, hyperpension artérielle, on
+
+1520
+01:24:10.130 --> 01:24:14.990
+tire ça simplement d'un constat, les oies,
+
+1521
+01:24:15.390 --> 01:24:17.330
+j'ai remarqué une hypertrophie du ventricule gauche,
+
+1522
+01:24:18.250 --> 01:24:20.110
+mais je dis hypertrophie, je t'inquiète pas,
+
+1523
+01:24:20.190 --> 01:24:22.210
+c'est la limite physiologique, la même chose
+
+1524
+01:24:22.210 --> 01:24:23.790
+pour le ventricule droit, il y a une
+
+1525
+01:24:23.790 --> 01:24:25.930
+hypertrophie du ventricule droit quand l'épaisseur dépasse
+
+1526
+01:24:25.930 --> 01:24:27.930
+3, il y a un fil 5, 6,
+
+1527
+01:24:28.010 --> 01:24:31.110
+etc., je parle déjà d'hypertrophie, et je
+
+1528
+01:24:31.110 --> 01:24:32.550
+sais qu'il y a une hypertrophie, ça
+
+1529
+01:24:32.550 --> 01:24:34.770
+veut dire qu'il y a une surcharge
+
+1530
+01:24:34.770 --> 01:24:37.310
+de pression, la pression est élevée dans le
+
+1531
+01:24:37.310 --> 01:24:38.630
+cœur droit, on me dit que j'ai
+
+1532
+01:24:38.630 --> 01:24:41.210
+sur la surcharge de pression, il éjecte dans
+
+1533
+01:24:41.210 --> 01:24:42.890
+l'artère pulmonaire, donc s'il y a
+
+1534
+01:24:42.890 --> 01:24:46.010
+une surcharge de pression, c'est soit la
+
+1535
+01:24:46.010 --> 01:24:50.730
+valve, soit il y a de l'hypertension
+
+1536
+01:24:50.730 --> 01:24:55.010
+artérielle pulmonaire, on l'appelle HTAP, soit les
+
+1537
+01:24:55.010 --> 01:24:57.890
+résistances dans les poumons sont élevées, le même
+
+1538
+01:24:57.890 --> 01:24:59.170
+raisonnement à droite qu'à gauche.
+
+1539
+01:25:06.300 --> 01:25:09.060
+Alors, il nous reste un petit quart d
+
+1540
+01:25:09.060 --> 01:25:14.040
+'heure pour la révision, je vais voir ce
+
+1541
+01:25:14.040 --> 01:25:15.940
+qu'il manque encore, oui, bien sûr, il
+
+1542
+01:25:15.940 --> 01:25:20.020
+manque un chapitre très important, celui de la
+
+1543
+01:25:20.020 --> 01:25:28.880
+régulation de la pression artérielle, ça c'est
+
+1544
+01:25:28.880 --> 01:25:34.040
+extrêmement important, la pression artérielle est régulée de
+
+1545
+01:25:34.040 --> 01:25:38.400
+façon, la pression artérielle ce n'est pas
+
+1546
+01:25:38.400 --> 01:25:41.440
+une constante, c'est quand même la moyenne
+
+1547
+01:25:41.440 --> 01:25:45.780
+et la systolique, la systolique est généralement aux
+
+1548
+01:25:45.780 --> 01:25:49.940
+alentours de 120, on a la diastolique aux
+
+1549
+01:25:49.940 --> 01:25:52.000
+alentours de 80, c'est toujours un millimètre
+
+1550
+01:25:52.000 --> 01:25:54.560
+de vertu, mais ce n'est pas une
+
+1551
+01:25:54.560 --> 01:26:04.260
+constante, sur le nicténaire, la pression artérielle, elle
+
+1552
+01:26:04.260 --> 01:26:06.820
+n'est pas stable, elle varie selon les
+
+1553
+01:26:06.820 --> 01:26:09.940
+circonstances, quand on fait un effort, la pression
+
+1554
+01:26:09.940 --> 01:26:11.720
+artérielle monte un petit peu, on se repose,
+
+1555
+01:26:11.880 --> 01:26:14.120
+elle diminue, on dort, la pression artérielle diminue,
+
+1556
+01:26:14.180 --> 01:26:19.260
+donc elle est régulée, régulée à l'échelle
+
+1557
+01:26:19.260 --> 01:26:21.400
+du corps entier pour qu'elle reste des
+
+1558
+01:26:21.400 --> 01:26:22.480
+valeurs acceptables.
+
+1559
+01:26:23.920 --> 01:26:27.780
+Il y a des moyens qui la régulent
+
+1560
+01:26:27.780 --> 01:26:31.260
+à court terme, à court terme il y
+
+1561
+01:26:31.260 --> 01:26:34.360
+a pratiquement immédiatement, en l'espace de quelques
+
+1562
+01:26:34.360 --> 01:26:39.460
+secondes à minutes, pas plus, où là elle
+
+1563
+01:26:39.460 --> 01:26:43.880
+est régulée à moyen terme, et ça, ça
+
+1564
+01:26:43.880 --> 01:26:48.700
+prend des heures si vous voulez, et à
+
+1565
+01:26:48.700 --> 01:26:50.460
+long terme ça prend des jours.
+
+1566
+01:26:56.670 --> 01:26:57.930
+Il y a plusieurs mécanismes.
+
+1567
+01:26:58.490 --> 01:27:02.790
+Pour le premier mécanisme, à court terme, il
+
+1568
+01:27:02.790 --> 01:27:04.690
+y a des choses très rapides qui permettent
+
+1569
+01:27:04.690 --> 01:27:05.810
+de réguler la pression artérielle.
+
+1570
+01:27:05.910 --> 01:27:07.450
+Or je sais, il y a la formule,
+
+1571
+01:27:07.870 --> 01:27:09.730
+la pression égale débit fois résistance.
+
+1572
+01:27:11.430 --> 01:27:14.350
+Donc, si la pression artérielle augmente, il va
+
+1573
+01:27:14.350 --> 01:27:15.870
+y avoir une personne qui va sortir, elle
+
+1574
+01:27:15.870 --> 01:27:18.970
+va retourner, la pression artérielle est sortie ici,
+
+1575
+01:27:19.470 --> 01:27:22.750
+elle va retourner, elle va être éliminée, soit
+
+1576
+01:27:22.750 --> 01:27:28.270
+par le débit, soit par la résistance, et
+
+1577
+01:27:28.270 --> 01:27:31.710
+l'inverse, si la pression artérielle vient de
+
+1578
+01:27:31.710 --> 01:27:34.170
+diminuer, il va falloir augmenter soit le débit,
+
+1579
+01:27:34.290 --> 01:27:35.030
+soit la résistance.
+
+1580
+01:27:36.010 --> 01:27:37.930
+Le débit, pour l'augmenter, le débit que
+
+1581
+01:27:37.930 --> 01:27:39.490
+vous connaissez, c'est le volume éjecté qui
+
+1582
+01:27:39.490 --> 01:27:41.550
+multiplie la fréquence gardée, ou les résistances.
+
+1583
+01:27:43.370 --> 01:27:46.250
+C'est les artérioles.
+
+1584
+01:27:46.350 --> 01:27:49.930
+Les artérioles, exactement c'est quoi ?
+
+1585
+01:27:49.930 --> 01:27:52.190
+C'est les cellules musculaires lisses.
+
+1586
+01:27:53.410 --> 01:27:56.030
+Elles sont sous la dépendance du système nerveux
+
+1587
+01:27:56.030 --> 01:27:56.690
+autonome.
+
+1588
+01:27:57.210 --> 01:28:01.990
+Il y en a de l'inervation, l
+
+1589
+01:28:01.990 --> 01:28:05.970
+'inervation sympathique et parasympathique.
+
+1590
+01:28:09.780 --> 01:28:13.860
+D'accord, donc sans trop vous surcharger, avec
+
+1591
+01:28:13.860 --> 01:28:16.040
+les récepteurs et leur répartition, il y a
+
+1592
+01:28:16.040 --> 01:28:19.080
+les récepteurs alpha, et les récepteurs beta, les
+
+1593
+01:28:19.080 --> 01:28:22.700
+récepteurs alpha notamment au niveau musculaire, le nicotinamide
+
+1594
+01:28:22.700 --> 01:28:29.040
+qui va recevoir bien sûr une vasoconstriction, mais
+
+1595
+01:28:29.040 --> 01:28:32.860
+ça dépend des artères, des flévins, avec un
+
+1596
+01:28:32.860 --> 01:28:36.300
+autre phénomène, et puis la répartition des récepteurs,
+
+1597
+01:28:36.380 --> 01:28:37.840
+par exemple les récepteurs beta 2 au niveau
+
+1598
+01:28:37.840 --> 01:28:40.500
+musculaire, c'est effectivement quand on les stimule,
+
+1599
+01:28:40.920 --> 01:28:42.520
+ils ont un effet plutôt de relaxation.
+
+1600
+01:28:43.440 --> 01:28:48.040
+Les récepteurs beta 1 au niveau cardiaque, c
+
+1601
+01:28:48.040 --> 01:28:51.500
+'est plutôt pour augmenter la contractilité cardiaque.
+
+1602
+01:28:51.720 --> 01:28:54.480
+Donc sans aller vraiment dans les détails des
+
+1603
+01:28:54.480 --> 01:28:58.420
+différents récepteurs et comment ils sont répartis, parce
+
+1604
+01:28:58.420 --> 01:29:01.040
+qu'il y aura un rappel très probablement
+
+1605
+01:29:01.040 --> 01:29:03.380
+en pharmacologie sur ces notions, et en tout
+
+1606
+01:29:03.380 --> 01:29:04.880
+cas s'il ne l'est pas, en
+
+1607
+01:29:04.880 --> 01:29:06.740
+pathologie en troisième année, on va reprendre les
+
+1608
+01:29:06.740 --> 01:29:07.000
+notions.
+
+1609
+01:29:07.000 --> 01:29:09.560
+Donc ce n'est pas un problème.
+
+1610
+01:29:10.800 --> 01:29:14.320
+C'est sous la dépendance du SNA, et
+
+1611
+01:29:14.320 --> 01:29:16.520
+donc ça doit être rapide.
+
+1612
+01:29:16.740 --> 01:29:18.760
+Madame Dakhlefe, le système nerveux autonome, c'est
+
+1613
+01:29:18.760 --> 01:29:19.060
+rapide.
+
+1614
+01:29:19.180 --> 01:29:22.080
+Je peux dessiner le système nerveux autonome.
+
+1615
+01:29:22.660 --> 01:29:26.920
+Le système nerveux autonome, on va regarder le
+
+1616
+01:29:26.920 --> 01:29:29.440
+cœur, je vais essentiellement m'intéresser à deux
+
+1617
+01:29:29.440 --> 01:29:29.680
+zones.
+
+1618
+01:29:29.780 --> 01:29:33.680
+La wort, notamment la crosse de la wort,
+
+1619
+01:29:33.680 --> 01:29:35.980
+puis vous savez qu'il y a le
+
+1620
+01:29:35.980 --> 01:29:41.360
+TABC qui sort ici, et la carotide primitive
+
+1621
+01:29:41.360 --> 01:29:43.060
+gauche, et puis la soucle aviaire gauche.
+
+1622
+01:29:43.200 --> 01:29:44.460
+J'ai fait une erreur parce que je
+
+1623
+01:29:44.460 --> 01:29:45.740
+n'ai pas dessiné trop bas.
+
+1624
+01:29:46.280 --> 01:29:48.000
+Quand on a la carotide saillée, quand on
+
+1625
+01:29:48.000 --> 01:29:49.220
+se met à la juge, il y a
+
+1626
+01:29:49.220 --> 01:29:51.060
+la carotide interne et externe.
+
+1627
+01:29:51.100 --> 01:29:54.100
+Il y a la bifurcation carotidienne, et au
+
+1628
+01:29:54.100 --> 01:29:56.720
+niveau de la crosse, on a deux zones
+
+1629
+01:29:56.720 --> 01:29:57.680
+de cellules spécialisées.
+
+1630
+01:29:59.440 --> 01:30:01.580
+Elles sont sensibles à la pression, ce sont
+
+1631
+01:30:01.580 --> 01:30:03.680
+les cellules barorécepteurs.
+
+1632
+01:30:06.760 --> 01:30:12.880
+Les barorécepteurs sont reliés à des nerfs, le
+
+1633
+01:30:12.880 --> 01:30:15.960
+nerf de Herring et le nerf de Sion.
+
+1634
+01:30:16.780 --> 01:30:19.300
+Il y a deux nerfs, l'un de
+
+1635
+01:30:19.300 --> 01:30:21.340
+la moelle épinière, l'autre de la bulbe
+
+1636
+01:30:21.340 --> 01:30:22.360
+rachidienne, ici.
+
+1637
+01:30:23.180 --> 01:30:27.160
+Ils font des synapses, des connexions synaptiques, au
+
+1638
+01:30:27.160 --> 01:30:30.460
+niveau de la corne, jusqu'au postérieur de
+
+1639
+01:30:30.460 --> 01:30:31.300
+la moelle épinière.
+
+1640
+01:30:32.180 --> 01:30:35.580
+De là, ils vont communiquer, soit avec le
+
+1641
+01:30:35.580 --> 01:30:40.560
+sympathique, soit avec le nerf vague, le nerf
+
+1642
+01:30:40.560 --> 01:30:41.540
+vague ou le nerf vice.
+
+1643
+01:30:43.220 --> 01:30:46.160
+Il y a aussi un nerf sympathique, qui
+
+1644
+01:30:46.160 --> 01:30:50.260
+énerve le cœur, et le parasympathique, qui énerve
+
+1645
+01:30:50.260 --> 01:30:50.520
+le cœur.
+
+1646
+01:30:50.560 --> 01:30:51.620
+Il y a aussi le sympathique, qui nous
+
+1647
+01:30:51.620 --> 01:30:54.760
+allaitère avec les glandes surrénales, les glandes surrénales
+
+1648
+01:30:54.760 --> 01:30:57.140
+qui sont au-dessus du rein, et il
+
+1649
+01:30:57.140 --> 01:31:00.500
+va les stimuler pour sécréter de l'adrénaline.
+
+1650
+01:31:02.600 --> 01:31:04.780
+Il y a une énervation directe, mais aussi
+
+1651
+01:31:04.780 --> 01:31:07.500
+une énervation à travers les surrénales, en libérant
+
+1652
+01:31:07.500 --> 01:31:08.880
+les catécholènes.
+
+1653
+01:31:10.960 --> 01:31:13.180
+Les informations liquidigées, on peut les mettre au
+
+1654
+01:31:13.180 --> 01:31:16.800
+récepteur, qui sont sous forme de signaux, des
+
+1655
+01:31:16.800 --> 01:31:17.480
+signaux comme ça.
+
+1656
+01:31:17.860 --> 01:31:20.020
+Quand les signaux sont intenses, ça veut dire
+
+1657
+01:31:20.020 --> 01:31:21.080
+que la pression est élevée.
+
+1658
+01:31:21.420 --> 01:31:24.280
+Quand les signaux sont séparés, ça veut dire
+
+1659
+01:31:24.280 --> 01:31:25.140
+que la pression est faible.
+
+1660
+01:31:25.140 --> 01:31:27.940
+Avec l'information liquide qui se transmet sur
+
+1661
+01:31:27.940 --> 01:31:30.080
+le nerf, il a quand les signaux sont
+
+1662
+01:31:30.080 --> 01:31:33.260
+faibles, quand on parle de stimulation, plutôt du
+
+1663
+01:31:33.260 --> 01:31:33.820
+sympathique.
+
+1664
+01:31:33.920 --> 01:31:35.220
+Il a quand le signal est intense, quand
+
+1665
+01:31:35.220 --> 01:31:37.000
+on parle de stimulation, du parasympathique.
+
+1666
+01:31:37.500 --> 01:31:39.280
+C'est comme le frein et l'accélérateur
+
+1667
+01:31:39.280 --> 01:31:42.720
+dans la voiture, ce qui veut dire que
+
+1668
+01:31:42.720 --> 01:31:44.980
+c'est un système, comme il est réflexe,
+
+1669
+01:31:45.160 --> 01:31:48.240
+c'est un système réflexe, il va agir
+
+1670
+01:31:48.240 --> 01:31:52.380
+immédiatement, dans les secondes, au grand maximum dans
+
+1671
+01:31:52.380 --> 01:31:52.760
+les minutes.
+
+1672
+01:31:52.760 --> 01:31:54.740
+C'est un système qui sert à réguler
+
+1673
+01:31:54.740 --> 01:31:57.760
+la pression artérielle de façon quoi ?
+
+1674
+01:31:58.740 --> 01:32:00.020
+De façon rapide.
+
+1675
+01:32:04.540 --> 01:32:06.760
+Qu'est-ce que je vais réguler ?
+
+1676
+01:32:08.060 --> 01:32:09.240
+Résistance ou débit.
+
+1677
+01:32:09.400 --> 01:32:10.520
+Débit, je n'en fais rien.
+
+1678
+01:32:10.940 --> 01:32:13.220
+Volume éjecté que multiplié par la fréquence cardiaque.
+
+1679
+01:32:13.420 --> 01:32:16.060
+Ah tiens, je retrouve déjà la fréquence cardiaque.
+
+1680
+01:32:17.180 --> 01:32:19.000
+Si je retrouve la fréquence cardiaque, je suis
+
+1681
+01:32:19.000 --> 01:32:19.380
+content.
+
+1682
+01:32:19.380 --> 01:32:22.460
+Parce que je sais que le système sympathique
+
+1683
+01:32:22.460 --> 01:32:24.840
+et parasympathique, qu'il me faut le noeud
+
+1684
+01:32:24.840 --> 01:32:30.640
+sinusale, le noeud sinusale, le noeud auriculo-ventriculaire,
+
+1685
+01:32:32.000 --> 01:32:34.300
+qui est une énervation directe, idéalement.
+
+1686
+01:32:34.680 --> 01:32:36.200
+Je prends la couleur qu'il faut.
+
+1687
+01:32:40.960 --> 01:32:41.640
+Voilà, ici.
+
+1688
+01:32:43.600 --> 01:32:45.840
+Et vous vous rappelez ?
+
+1689
+01:32:45.840 --> 01:32:48.980
+On a vu que le système sympathique, sur
+
+1690
+01:32:48.980 --> 01:32:52.460
+les canaux IF, je vous dessine encore le
+
+1691
+01:32:52.460 --> 01:32:58.500
+truc triangulaire, il abrite, je veux accélérer la
+
+1692
+01:32:58.500 --> 01:33:00.660
+fréquence, il suffit d'augmenter la pente, ou
+
+1693
+01:33:00.660 --> 01:33:02.180
+si je veux la ralentir, il suffit de
+
+1694
+01:33:02.180 --> 01:33:03.500
+la prolonger.
+
+1695
+01:33:04.280 --> 01:33:07.060
+Donc, je peux agir, soit en stimulant le
+
+1696
+01:33:07.060 --> 01:33:11.720
+système sympathique, le parasympathique, et donc il va
+
+1697
+01:33:11.720 --> 01:33:14.600
+me donner une bradycardie, ou le sympathique, il
+
+1698
+01:33:14.600 --> 01:33:15.820
+va me donner une tachycardie.
+
+1699
+01:33:16.300 --> 01:33:18.380
+La même chose, les mêmes nerfs, il énerve
+
+1700
+01:33:18.380 --> 01:33:21.920
+le noeud auriculo-ventriculaire, et donc le parasympathique
+
+1701
+01:33:21.920 --> 01:33:24.580
+va augmenter le délai de conduction, et le
+
+1702
+01:33:24.580 --> 01:33:27.360
+blocage auriculo-ventriculaire, il n'a pas l
+
+1703
+01:33:27.360 --> 01:33:30.040
+'influx entre l'oreille et le ventricule, et
+
+1704
+01:33:30.040 --> 01:33:32.180
+le sympathique, plutôt, il va améliorer la conduction,
+
+1705
+01:33:32.380 --> 01:33:33.820
+donc le coeur va s'accélérer plus vite.
+
+1706
+01:33:34.300 --> 01:33:37.260
+Donc j'aurai un effet chronotrope positif, mais
+
+1707
+01:33:37.260 --> 01:33:40.120
+aussi dromotrope D, dromotrope positif.
+
+1708
+01:33:40.720 --> 01:33:44.380
+Bon, chronotrope, dromotrope, vont aider simplement à augmenter
+
+1709
+01:33:44.380 --> 01:33:49.020
+une meilleure fréquence cardiaque, un meilleur remplissage, et
+
+1710
+01:33:49.020 --> 01:33:53.540
+puis, il y a un autre élément, c
+
+1711
+01:33:53.540 --> 01:33:56.600
+'est que pour le reste du ventricule, le
+
+1712
+01:33:56.600 --> 01:33:58.960
+parasympathique va me donner une tachycardie, et donc
+
+1713
+01:33:58.960 --> 01:34:00.880
+il énerve le noeud auriculo-ventriculaire, ça fait
+
+1714
+01:34:00.880 --> 01:34:02.860
+une énervation directe.
+
+1715
+01:34:02.980 --> 01:34:07.080
+Par contre, le sympathique, via l'adrénaline, va
+
+1716
+01:34:07.080 --> 01:34:09.940
+me donner toutes les cellules myocardiques sur le
+
+1717
+01:34:09.940 --> 01:34:12.760
+récepteur bêta 1, et donc il les stimule,
+
+1718
+01:34:12.760 --> 01:34:15.640
+et ça augmente leur contractilité, et donc le
+
+1719
+01:34:15.640 --> 01:34:16.740
+volume éjecté augmente.
+
+1720
+01:34:17.160 --> 01:34:20.540
+Donc le débit là, je stimule le sympathique,
+
+1721
+01:34:20.820 --> 01:34:22.040
+je vais avoir la fréquence qui augmente, et
+
+1722
+01:34:22.040 --> 01:34:23.240
+la contractilité qui augmente.
+
+1723
+01:34:23.760 --> 01:34:25.440
+Il y a aussi le même système sympathique,
+
+1724
+01:34:27.040 --> 01:34:30.100
+les vaisseaux, il y a des résistances.
+
+1725
+01:34:32.580 --> 01:34:35.040
+Donc la régulation à très court terme, elle
+
+1726
+01:34:35.040 --> 01:34:37.760
+est sous la dépense du système sympathique, et
+
+1727
+01:34:37.760 --> 01:34:42.240
+parasympathique, et l'application clinique de cette notion,
+
+1728
+01:34:46.310 --> 01:34:46.710
+c'est-à-dire qu'il y a
+
+1729
+01:34:46.710 --> 01:34:48.090
+des conséquences, je vais revenir à ça, si
+
+1730
+01:34:48.090 --> 01:34:48.550
+j'ai le temps.
+
+1731
+01:34:50.270 --> 01:34:51.730
+La conséquence de ça, c'est quoi?
+
+1732
+01:34:52.450 --> 01:34:54.150
+C'est que...
+
+1733
+01:35:03.850 --> 01:35:06.910
+La conséquence, c'est que maintenant, je passe
+
+1734
+01:35:06.910 --> 01:35:08.850
+du position couchée à la position debout, quand
+
+1735
+01:35:08.850 --> 01:35:11.310
+je me mets dans la position debout, j
+
+1736
+01:35:11.310 --> 01:35:13.810
+'ai un retour veineux vers le cœur qui
+
+1737
+01:35:13.810 --> 01:35:14.430
+est plus faible.
+
+1738
+01:35:15.230 --> 01:35:17.910
+Et donc forcément, le débit va diminuer.
+
+1739
+01:35:18.250 --> 01:35:22.050
+Il va falloir refaire monter la pression artérielle,
+
+1740
+01:35:22.190 --> 01:35:23.510
+et ceci va être fait très vite par
+
+1741
+01:35:23.510 --> 01:35:24.470
+le système sympathique.
+
+1742
+01:35:24.810 --> 01:35:26.110
+Alors que si le sujet est par exemple
+
+1743
+01:35:26.110 --> 01:35:30.630
+âgé, la réponse sympathique est un petit peu
+
+1744
+01:35:30.630 --> 01:35:33.750
+plus lente, et donc ils tardent à égaliser
+
+1745
+01:35:33.750 --> 01:35:36.110
+leur pression, et du coup, ils ont quand
+
+1746
+01:35:36.110 --> 01:35:38.710
+même une petite hypotension, qui va entraîner des
+
+1747
+01:35:38.710 --> 01:35:40.870
+vertiges, et des chutes, même des chutes des
+
+1748
+01:35:40.870 --> 01:35:43.230
+fois, pour l'aide des syncope, juste parce
+
+1749
+01:35:43.230 --> 01:35:44.770
+que le sympathique a tardé un peu à
+
+1750
+01:35:44.770 --> 01:35:45.090
+réagir.
+
+1751
+01:35:47.860 --> 01:35:52.240
+A moyen terme, ce sera le système rhinonjutensile.
+
+1752
+01:35:52.760 --> 01:35:55.460
+Vous avez fait de la physiologie rénale, ou
+
+1753
+01:35:55.460 --> 01:35:56.640
+là vous êtes en train de la faire,
+
+1754
+01:35:56.720 --> 01:35:58.260
+je ne sais pas, mais en tout cas,
+
+1755
+01:35:58.360 --> 01:36:00.100
+dans la physiologie rénale, on va vous parler
+
+1756
+01:36:00.100 --> 01:36:03.340
+de l'appareil juxtaglobérulaire, qui est au niveau
+
+1757
+01:36:03.340 --> 01:36:08.000
+de l'artériole afférente, l'artériole afférente, et
+
+1758
+01:36:08.000 --> 01:36:09.440
+vous avez de l'autre côté l'artériole
+
+1759
+01:36:09.440 --> 01:36:13.080
+efférente, et vous avez ici la capsule de
+
+1760
+01:36:13.080 --> 01:36:16.840
+borane, etc., ça c'est le néphron, et
+
+1761
+01:36:16.840 --> 01:36:18.980
+vous avez les cellules qui sont, se retrouvent
+
+1762
+01:36:18.980 --> 01:36:21.700
+au niveau de l'artériole afférente, qui appartiennent
+
+1763
+01:36:21.700 --> 01:36:24.960
+à l'appareil juxtaglobérulaire, ces cellules sont sensibles
+
+1764
+01:36:24.960 --> 01:36:28.360
+à la rhinine, donc, une fois, ils peuvent
+
+1765
+01:36:28.360 --> 01:36:31.300
+libérer de la rhinine, et cette rhinine, elle
+
+1766
+01:36:31.300 --> 01:36:34.200
+est libérée grâce soit quand la pression dans
+
+1767
+01:36:34.200 --> 01:36:38.560
+l'artériole afférente est diminuée, donc quand il
+
+1768
+01:36:38.560 --> 01:36:40.120
+y a une baisse de la pression artérielle,
+
+1769
+01:36:40.680 --> 01:36:43.960
+quand dans l'appareil autre, qui existe au
+
+1770
+01:36:43.960 --> 01:36:48.920
+niveau du tube contourné distal, la macula densa,
+
+1771
+01:36:49.840 --> 01:36:51.360
+sans qu'il y ait une baisse de
+
+1772
+01:36:51.360 --> 01:36:56.420
+la concentration en sodium, là aussi, elle stimule
+
+1773
+01:36:56.420 --> 01:36:58.520
+la sacration de rhinine, et puis, il y
+
+1774
+01:36:58.520 --> 01:37:00.320
+a le système sympathique lui-même qui vient
+
+1775
+01:37:00.320 --> 01:37:04.420
+avec ses nerfs, stimuler les cellules de l
+
+1776
+01:37:04.420 --> 01:37:08.620
+'appareil juxtaglobérulaire, donc la stimulation sympathique entraîne la
+
+1777
+01:37:08.620 --> 01:37:09.460
+libération de rhinine.
+
+1778
+01:37:10.120 --> 01:37:13.180
+La libération de la rhinine au niveau rénal
+
+1779
+01:37:13.180 --> 01:37:15.280
+va finir par, c'est juste une enzyme,
+
+1780
+01:37:15.720 --> 01:37:18.360
+qui va devoir agir sur une grosse molécule,
+
+1781
+01:37:18.620 --> 01:37:21.320
+grosse molécule très longue, comme ça, avec une
+
+1782
+01:37:21.320 --> 01:37:25.520
+partie assez développée, ici, qui s'appelle l
+
+1783
+01:37:25.520 --> 01:37:31.440
+'angiotensinogène, l'angiotensinogène, mais qui est, avec cette
+
+1784
+01:37:31.440 --> 01:37:34.300
+formule longue et chaîne très longue, elle est
+
+1785
+01:37:34.300 --> 01:37:35.060
+inactive.
+
+1786
+01:37:36.040 --> 01:37:39.600
+La rhinine vient la couper, vient la couper
+
+1787
+01:37:39.600 --> 01:37:41.840
+à ce niveau-là, pour nous donner l
+
+1788
+01:37:41.840 --> 01:37:48.640
+'angiotensin 1, cet angiotensin, angiotensin 1, j'arrive
+
+1789
+01:37:48.640 --> 01:37:51.440
+pas à le prononcer, l'angiotensinogène, il se
+
+1790
+01:37:51.440 --> 01:37:52.780
+trouve au niveau du foie.
+
+1791
+01:37:54.580 --> 01:37:57.940
+Une fois la rhinine libérée, elle va agir
+
+1792
+01:37:57.940 --> 01:38:02.540
+sur l'angiotensinogène pour produire de, bien sûr,
+
+1793
+01:38:02.680 --> 01:38:06.820
+votre angiotensin 1, qui déjà commence à être
+
+1794
+01:38:06.820 --> 01:38:10.900
+efficace, mais encore, il sera bien de la
+
+1795
+01:38:10.900 --> 01:38:16.500
+transformer en l'angiotensin 2, angiotensin 2, grâce
+
+1796
+01:38:16.500 --> 01:38:18.200
+à l'effet de l'enzyme, une autre
+
+1797
+01:38:18.200 --> 01:38:20.680
+enzyme, c'est pas la rhinine cette fois
+
+1798
+01:38:20.680 --> 01:38:21.940
+-ci, c'est l'enzyme de conversion.
+
+1799
+01:38:23.400 --> 01:38:26.340
+L'enzyme de conversion, il est secreté essentiellement
+
+1800
+01:38:26.340 --> 01:38:29.620
+au niveau du poumon, donc l'angiotensine, une
+
+1801
+01:38:29.620 --> 01:38:31.280
+fois elle est libérée, elle a des effets
+
+1802
+01:38:31.280 --> 01:38:33.560
+incroyables sur le corps.
+
+1803
+01:38:34.020 --> 01:38:35.580
+Premier effet, c'est qu'elle est un
+
+1804
+01:38:35.580 --> 01:38:37.660
+puissant vasoconstricteur.
+
+1805
+01:38:38.540 --> 01:38:41.720
+C'est un puissant vasoconstricteur.
+
+1806
+01:38:43.040 --> 01:38:43.680
+Vasoconstricteur.
+
+1807
+01:38:44.980 --> 01:38:48.700
+D'ailleurs, dans le corps, les deux puissants
+
+1808
+01:38:48.700 --> 01:38:52.000
+vasoconstricteurs qui existent, c'est l'angiotensin 2
+
+1809
+01:38:52.000 --> 01:38:57.400
+et, et quoi d'autre, et l'endothélie.
+
+1810
+01:38:58.940 --> 01:39:01.440
+L'angiotensin 2 et l'endothélie.
+
+1811
+01:39:02.400 --> 01:39:05.340
+Et bien sûr, les grands vasodilatateurs dans le
+
+1812
+01:39:05.340 --> 01:39:09.040
+corps, c'est le monoxyde d'azote, la
+
+1813
+01:39:09.040 --> 01:39:14.760
+prostacycline et un certain autre prostaglandine.
+
+1814
+01:39:14.960 --> 01:39:17.440
+La famille des prostaglandines, souvent elle a un
+
+1815
+01:39:17.440 --> 01:39:18.620
+effet vasodilatateur.
+
+1816
+01:39:19.520 --> 01:39:23.660
+L'angiotensine 2 et aussi l'endothélie restent
+
+1817
+01:39:23.660 --> 01:39:26.060
+les puissants vasoconstricteurs qui existent dans l'organisme.
+
+1818
+01:39:26.280 --> 01:39:28.240
+Donc une action directe sur la cellule musculaire
+
+1819
+01:39:28.240 --> 01:39:29.200
+lisse qu'on a vu tout à l
+
+1820
+01:39:29.200 --> 01:39:29.300
+'heure.
+
+1821
+01:39:30.040 --> 01:39:32.000
+Et donc, si je veux baisser la pression
+
+1822
+01:39:32.000 --> 01:39:35.500
+artérielle, il serait peut-être intéressant de bloquer
+
+1823
+01:39:35.500 --> 01:39:38.400
+l'angiotensine 2 ou l'angiotensine 1 ou
+
+1824
+01:39:38.400 --> 01:39:41.280
+l'enzyme de conversion pour empêcher la conversion
+
+1825
+01:39:41.280 --> 01:39:42.980
+ou agir sur la riline, etc.
+
+1826
+01:39:43.720 --> 01:39:46.360
+Sachez pour l'instant que le système rilangiotensine,
+
+1827
+01:39:46.440 --> 01:39:49.000
+grâce à ce phénomène-là, il va permettre
+
+1828
+01:39:49.000 --> 01:39:51.540
+d'entraîner une vasoconstriction de régulée.
+
+1829
+01:39:51.540 --> 01:39:56.780
+Quand la pression artérielle baisse, il fait une
+
+1830
+01:39:56.780 --> 01:39:59.540
+vasoconstriction grâce à la stimulation du système rilangiotensine
+
+1831
+01:40:00.160 --> 01:40:02.360
+et là vous aurez une régulation à moyen
+
+1832
+01:40:02.360 --> 01:40:02.800
+terme.
+
+1833
+01:40:03.560 --> 01:40:05.620
+Ce système ne s'arrête pas là, à
+
+1834
+01:40:05.620 --> 01:40:06.500
+la vasoconstriction.
+
+1835
+01:40:06.720 --> 01:40:10.680
+Il stimule le muscle et le muscle va
+
+1836
+01:40:10.680 --> 01:40:11.660
+s'hypertrophier.
+
+1837
+01:40:13.420 --> 01:40:17.480
+Malheureusement, il entraîne pas simplement une hypertrophie musculaire
+
+1838
+01:40:17.480 --> 01:40:20.740
+mais aussi une hypertrophie et une production exagérée
+
+1839
+01:40:20.740 --> 01:40:23.400
+d'autres substances comme le collagène et le
+
+1840
+01:40:23.400 --> 01:40:25.100
+collagène rend la paroi rigide.
+
+1841
+01:40:25.280 --> 01:40:27.480
+Vous avez posé la question sur quelles sont
+
+1842
+01:40:27.480 --> 01:40:28.860
+les conséquences d'hypertrophie.
+
+1843
+01:40:29.200 --> 01:40:31.360
+C'est un peu long comme chapitre mais
+
+1844
+01:40:31.360 --> 01:40:32.540
+je vous donne simplement des idées.
+
+1845
+01:40:33.040 --> 01:40:34.920
+J'aurai le temps long et en large
+
+1846
+01:40:34.920 --> 01:40:37.420
+pour vous parler des conséquences néfastes de l
+
+1847
+01:40:37.420 --> 01:40:40.720
+'hypertrophie du ventricule gauche en pathologie, quand je
+
+1848
+01:40:40.720 --> 01:40:44.480
+vous traiterai l'hypertension artérielle en troisième année.
+
+1849
+01:40:44.960 --> 01:40:48.460
+Mais simplement, je vous donne maintenant des éléments.
+
+1850
+01:40:49.340 --> 01:40:51.400
+Cette hypertrophie ne sera pas que du musculaire,
+
+1851
+01:40:51.480 --> 01:40:52.520
+ce sera aussi du collagène.
+
+1852
+01:40:52.940 --> 01:40:55.160
+Ça va entraîner une rigidité de la paroi
+
+1853
+01:40:55.160 --> 01:40:56.800
+musculaire et la rigidité n'est pas bonne.
+
+1854
+01:40:56.860 --> 01:40:59.560
+Un muscle cardique doit rester souple.
+
+1855
+01:41:00.500 --> 01:41:02.480
+J'étais en train d'expliquer ça et
+
+1856
+01:41:02.480 --> 01:41:05.080
+je rajoute à l'effet de l'angiotensine
+
+1857
+01:41:05.080 --> 01:41:06.920
+2 qu'il vient aussi au niveau du
+
+1858
+01:41:06.920 --> 01:41:10.000
+tube contourné distal pour libérer la sécrétion de
+
+1859
+01:41:10.000 --> 01:41:12.580
+l'aldostérone et l'aldostérone va réabsorber l
+
+1860
+01:41:12.580 --> 01:41:13.240
+'eau et le sodium.
+
+1861
+01:41:13.720 --> 01:41:16.640
+Donc elle va agir en troisième lieu, c
+
+1862
+01:41:16.640 --> 01:41:20.540
+'est-à-dire à long terme j'aurai
+
+1863
+01:41:20.540 --> 01:41:30.440
+une réabsorption hydro-sondée plus importante grâce
+
+1864
+01:41:30.440 --> 01:41:33.680
+à la fois à l'aldostérone qui va
+
+1865
+01:41:33.680 --> 01:41:36.140
+augmenter et aussi à l'effet de l
+
+1866
+01:41:36.140 --> 01:41:37.640
+'hormone antidiurétique parce qu'il y a une
+
+1867
+01:41:37.640 --> 01:41:39.360
+hormone au niveau du hypothèse qui est sécrétée
+
+1868
+01:41:39.360 --> 01:41:41.420
+et chaque fois qu'il y a une
+
+1869
+01:41:41.420 --> 01:41:45.540
+hypotension, elle est détectée comme une hypovolemie et
+
+1870
+01:41:45.540 --> 01:41:46.360
+donc qu'est-ce qu'elle fait ?
+
+1871
+01:41:46.360 --> 01:41:50.040
+Elle va limiter la diurèse entraîner une réabsorption
+
+1872
+01:41:50.040 --> 01:41:52.420
+au niveau du tube contourné distal et donc
+
+1873
+01:41:52.420 --> 01:41:54.580
+entraîner une réabsorption mais ça, ça demande un
+
+1874
+01:41:54.580 --> 01:41:54.900
+peu de temps.
+
+1875
+01:41:55.380 --> 01:41:59.000
+Donc le rein agit plus ou moins à
+
+1876
+01:41:59.000 --> 01:42:02.560
+long terme le système réellement angiotensique réagit à
+
+1877
+01:42:02.560 --> 01:42:05.060
+un moyen terme et le système sympathique et
+
+1878
+01:42:05.060 --> 01:42:07.200
+parasympathique agit à court terme dans la régulation
+
+1879
+01:42:07.200 --> 01:42:09.340
+de la pression artérielle.
+
+1880
+01:42:12.310 --> 01:42:14.690
+Alors, le lien est simple entre une question
+
+1881
+01:42:14.690 --> 01:42:16.670
+sur l'HTA et prise de sodium.
+
+1882
+01:42:18.550 --> 01:42:20.510
+Le lien, j'aurais aimé que vous le
+
+1883
+01:42:20.510 --> 01:42:21.350
+trouviez vous-même.
+
+1884
+01:42:21.790 --> 01:42:23.370
+Le lien, c'est comme ça, c'est
+
+1885
+01:42:23.370 --> 01:42:23.690
+simple.
+
+1886
+01:42:24.230 --> 01:42:25.530
+C'est la même règle qu'on a
+
+1887
+01:42:25.530 --> 01:42:25.730
+vue.
+
+1888
+01:42:26.390 --> 01:42:28.070
+On a dit la pression égale débit fois
+
+1889
+01:42:28.070 --> 01:42:28.730
+résistance.
+
+1890
+01:42:29.590 --> 01:42:30.370
+Et débrouillez-vous.
+
+1891
+01:42:31.130 --> 01:42:33.790
+Débrouillez-vous, c'est-à-dire chercher qu
+
+1892
+01:42:33.790 --> 01:42:35.010
+'est-ce qui va augmenter la pression.
+
+1893
+01:42:35.610 --> 01:42:38.490
+Si c'est les résistances donc le monsieur
+
+1894
+01:42:38.490 --> 01:42:44.510
+a par exemple une stimulation du système sympathique.
+
+1895
+01:42:44.910 --> 01:42:47.210
+Le sympathique stimule le système réellement angiotensique et
+
+1896
+01:42:47.210 --> 01:42:49.850
+ça entraîne une vasoconstriction.
+
+1897
+01:42:50.290 --> 01:42:51.630
+Il peut y avoir tout simplement de façon
+
+1898
+01:42:51.630 --> 01:42:54.190
+pathologique, je ne sais pas quoi une stimulation
+
+1899
+01:42:54.190 --> 01:42:58.390
+directe du système réellement angiotensique et qui fait
+
+1900
+01:42:58.390 --> 01:43:01.310
+que ça entraîne des résistances un peu plus
+
+1901
+01:43:01.310 --> 01:43:01.630
+élevées.
+
+1902
+01:43:02.350 --> 01:43:05.410
+Il peut s'agir d'une rigidité artérielle.
+
+1903
+01:43:12.390 --> 01:43:15.590
+Pour ce qui est du débit cardiaque, on
+
+1904
+01:43:15.590 --> 01:43:18.130
+a la fréquence cardiaque et le volume éjecté.
+
+1905
+01:43:18.610 --> 01:43:20.430
+Dans quelqu'un qui est tachycarde, qui a
+
+1906
+01:43:20.430 --> 01:43:27.290
+la même chose qu'ici, une hyperactivité sympathique
+
+1907
+01:43:29.880 --> 01:43:34.360
+va forcément avoir une pression artérielle qui augmente.
+
+1908
+01:43:35.420 --> 01:43:38.080
+Et puis le volume éjecté, il dépend du
+
+1909
+01:43:38.080 --> 01:43:39.180
+volume télédiastolique.
+
+1910
+01:43:39.380 --> 01:43:41.060
+Essentiellement du volume télédiastolique.
+
+1911
+01:43:41.620 --> 01:43:44.040
+Donc j'ai une précharge élevée.
+
+1912
+01:43:44.780 --> 01:43:46.940
+Si j'ai une précharge augmentée, je risque
+
+1913
+01:43:46.940 --> 01:43:48.780
+d'avoir une pression artérielle élevée.
+
+1914
+01:43:49.160 --> 01:43:50.120
+Et la précharge, qu'est-ce qui l
+
+1915
+01:43:50.120 --> 01:43:50.620
+'augmente ?
+
+1916
+01:43:50.620 --> 01:43:51.280
+C'est la volumie.
+
+1917
+01:43:51.780 --> 01:43:53.560
+Comment elle augmente ?
+
+1918
+01:43:53.560 --> 01:43:56.600
+Entre autres par la présence de sodium.
+
+1919
+01:43:57.220 --> 01:43:58.560
+Si j'ai plus de sodium, je vais
+
+1920
+01:43:58.560 --> 01:44:00.780
+avoir plus d'eau dans les vaisseaux et
+
+1921
+01:44:00.780 --> 01:44:01.980
+donc la volumie va augmenter.
+
+1922
+01:44:03.000 --> 01:44:06.840
+Consommation excessive de sel augmente la quantité d
+
+1923
+01:44:06.840 --> 01:44:09.580
+'eau dans les vaisseaux, la volumie, la précharge,
+
+1924
+01:44:09.660 --> 01:44:11.340
+le volume éjecté donc le débit et la
+
+1925
+01:44:11.340 --> 01:44:11.680
+pression.
+
+1926
+01:44:12.660 --> 01:44:14.520
+Et ça c'est quelque chose sur lequel
+
+1927
+01:44:14.520 --> 01:44:16.220
+on peut agir en augmentant la durée.
+
+1928
+01:44:16.560 --> 01:44:18.380
+C'est-à-dire que, bien sûr en
+
+1929
+01:44:18.380 --> 01:44:20.580
+suivant un régime, mais aussi en augmentant la
+
+1930
+01:44:20.580 --> 01:44:23.120
+durée, j'élimine avec la durée plus de
+
+1931
+01:44:23.120 --> 01:44:25.020
+sodium dans les urines et donc je vais
+
+1932
+01:44:25.020 --> 01:44:26.760
+avoir une baisse du débit et donc une
+
+1933
+01:44:26.760 --> 01:44:28.340
+baisse de la pression artérielle.
+
+1934
+01:44:31.530 --> 01:44:33.790
+Je crois qu'on va rajouter maximum 5
+
+1935
+01:44:33.790 --> 01:44:35.970
+minutes si vous avez des questions.
+
+1936
+01:44:36.590 --> 01:44:37.990
+Et on n'arrête pas.
+
+1937
+01:44:38.510 --> 01:44:40.390
+Quelles sont les parties, à votre avis, qu
+
+1938
+01:44:40.390 --> 01:44:41.430
+'on n'a pas entendues ?
+
+1939
+01:44:50.530 --> 01:44:52.050
+J'essaie de voir.
+
+1940
+01:44:52.590 --> 01:44:53.590
+J'ai en coté.
+
+1941
+01:44:54.830 --> 01:44:56.090
+Qu'est-ce qu'on a pas vu
+
+1942
+01:44:56.090 --> 01:44:56.430
+?
+
+1943
+01:45:00.060 --> 01:45:04.480
+Oui, on a pas vu un truc important
+
+1944
+01:45:05.360 --> 01:45:07.700
+que je ne peux pas passer sans vous
+
+1945
+01:45:07.700 --> 01:45:08.280
+en parler.
+
+1946
+01:45:08.980 --> 01:45:12.140
+C'est celui de la relation contraction et
+
+1947
+01:45:15.060 --> 01:45:16.020
+stimulation cardiaque.
+
+1948
+01:45:16.680 --> 01:45:18.140
+Et ça nous ramène à parler de la
+
+1949
+01:45:18.140 --> 01:45:21.080
+cellule musculaire lisse, dont le corps, la cellule
+
+1950
+01:45:21.080 --> 01:45:22.920
+musculaire cardiaque.
+
+1951
+01:45:23.900 --> 01:45:27.340
+Dans le corps, vous avez des schémas, qui
+
+1952
+01:45:27.340 --> 01:45:29.560
+sont bien sûr très bien faits, difficile à
+
+1953
+01:45:29.560 --> 01:45:32.020
+reprendre ici, mais on va prendre les particularités.
+
+1954
+01:45:32.660 --> 01:45:34.680
+La cellule musculaire cardiaque, c'est une cellule
+
+1955
+01:45:34.680 --> 01:45:36.220
+qui est striée, vous le savez, parce qu
+
+1956
+01:45:36.220 --> 01:45:38.440
+'il y a des striées d'axines ou
+
+1957
+01:45:38.440 --> 01:45:41.060
+de myosines, comme les cellules musculaires squelettiques.
+
+1958
+01:45:41.200 --> 01:45:43.300
+Donc là, elles ressemblent aux squelettiques.
+
+1959
+01:45:46.210 --> 01:45:49.130
+Mais la cellule musculaire cardiaque, elle a un
+
+1960
+01:45:49.130 --> 01:45:52.490
+comportement involontaire, donc automatique.
+
+1961
+01:45:52.930 --> 01:45:54.470
+Donc à ce niveau-là, elle ressemble à
+
+1962
+01:45:54.470 --> 01:45:57.170
+la cellule lisse, musculaire lisse.
+
+1963
+01:45:58.210 --> 01:46:01.230
+La cellule musculaire cardiaque a au moins un
+
+1964
+01:46:01.230 --> 01:46:07.290
+ou deux noyaux, alors que la musculature squelettique
+
+1965
+01:46:07.290 --> 01:46:10.010
+a plusieurs noyaux, et la cellule lisse a
+
+1966
+01:46:10.010 --> 01:46:10.930
+un seul noyau.
+
+1967
+01:46:12.410 --> 01:46:17.370
+Et puis une particularité importante, c'est le
+
+1968
+01:46:19.230 --> 01:46:22.550
+reticulum sarcoplasmique, il est très riche, très développé
+
+1969
+01:46:23.050 --> 01:46:28.250
+dans la cellule musculaire cardiaque, très développé, avec
+
+1970
+01:46:28.250 --> 01:46:30.450
+beaucoup de citernes qui viennent au contact des
+
+1971
+01:46:30.450 --> 01:46:32.370
+fibres d'axines et de myosines, et les
+
+1972
+01:46:32.370 --> 01:46:34.850
+mitochondries sont très denses.
+
+1973
+01:46:35.790 --> 01:46:38.670
+Mitochondries sont très denses, pourquoi ?
+
+1974
+01:46:38.670 --> 01:46:39.750
+Parce que c'est là où il y
+
+1975
+01:46:39.750 --> 01:46:41.490
+a le système de Krebs, donc là où
+
+1976
+01:46:41.490 --> 01:46:43.230
+il y a la production d'ATP, et
+
+1977
+01:46:43.230 --> 01:46:45.170
+la cellule musculaire cardiaque a besoin de beaucoup
+
+1978
+01:46:45.170 --> 01:46:47.130
+d'ATP, donc forcément elle va être très
+
+1979
+01:46:47.130 --> 01:46:47.430
+riche.
+
+1980
+01:46:47.690 --> 01:46:49.090
+Et puis il y a cette histoire de
+
+1981
+01:46:49.090 --> 01:46:55.210
+desmosomes dont j'ai parlé, desmosomes avec une
+
+1982
+01:46:55.210 --> 01:47:02.910
+forme ce que j'ai dessiné tout à
+
+1983
+01:47:02.910 --> 01:47:04.730
+l'heure, ces lignes comme ça qui diffèrent,
+
+1984
+01:47:06.030 --> 01:47:10.470
+la forme enchevêtrée permet une meilleure résistance de
+
+1985
+01:47:10.470 --> 01:47:13.550
+la part musculaire, et puis une meilleure connexion
+
+1986
+01:47:13.550 --> 01:47:16.370
+des différents cellules, on parle en physiologie de
+
+1987
+01:47:16.370 --> 01:47:17.470
+sensation fonctionnelle.
+
+1988
+01:47:17.850 --> 01:47:18.890
+C'est comme si on a une seule
+
+1989
+01:47:18.890 --> 01:47:21.330
+cellule, mais qui est très bien développée, qui
+
+1990
+01:47:21.330 --> 01:47:24.290
+communique très vite les unes entre les autres.
+
+1991
+01:47:26.130 --> 01:47:28.390
+Cette particularité nous ramène à l'objection suivante,
+
+1992
+01:47:28.530 --> 01:47:32.090
+c'est que la membrane cellulaire de la
+
+1993
+01:47:32.090 --> 01:47:34.430
+cellule cytoplasmique fait rare que des tubules antiane,
+
+1994
+01:47:34.630 --> 01:47:36.870
+c'est des invaginations de la membrane cytoplasmique,
+
+1995
+01:47:37.510 --> 01:47:43.930
+qui viennent au contact de des reticulopsarcoplasmiques qui
+
+1996
+01:47:43.930 --> 01:47:51.830
+est là, et qui eux-mêmes, pardon, qui
+
+1997
+01:47:51.830 --> 01:47:54.690
+sont enchevêtrés pour aller plus loin, et qui
+
+1998
+01:47:54.690 --> 01:48:00.130
+eux-mêmes sont au contact des fibres dactyles
+
+1999
+01:48:00.130 --> 01:48:03.410
+et myosines, les fameux fibres dactyles et myosines
+
+2000
+01:48:03.410 --> 01:48:09.670
+qu'on peut dessiner comme ça, et puis
+
+2001
+01:48:09.670 --> 01:48:11.710
+les têtes de myosines qui sont là, de
+
+2002
+01:48:11.710 --> 01:48:12.350
+part et d'autre.
+
+2003
+01:48:22.030 --> 01:48:23.610
+Ce qui importe à la cellule, c'est
+
+2004
+01:48:23.610 --> 01:48:24.990
+qu'elle a besoin pour qu'il y
+
+2005
+01:48:24.990 --> 01:48:27.490
+ait des ponts entre l'actine et le
+
+2006
+01:48:27.490 --> 01:48:29.950
+myosine qui se créent, parce que finalement, les
+
+2007
+01:48:29.950 --> 01:48:32.190
+têtes de myosines viennent s'accrocher sur les
+
+2008
+01:48:32.190 --> 01:48:34.450
+fibres d'actine et les faire glisser, et
+
+2009
+01:48:34.450 --> 01:48:35.970
+quand ils les font glisser, la cellule se
+
+2010
+01:48:35.970 --> 01:48:36.590
+contracte.
+
+2011
+01:48:37.430 --> 01:48:40.090
+Pour avoir cette possibilité, il faut avoir beaucoup
+
+2012
+01:48:40.090 --> 01:48:42.190
+de ponts actines et myosines qui se font.
+
+2013
+01:48:42.870 --> 01:48:44.990
+Et pour que ça arrive, je vais faire
+
+2014
+01:48:44.990 --> 01:48:47.650
+un résumé du cours, on n'avait pas
+
+2015
+01:48:47.650 --> 01:48:52.590
+exactement aussi bien écrit, de cette façon écrit,
+
+2016
+01:48:52.590 --> 01:48:56.150
+sur Rodiaco, mais je vais faire un résumé
+
+2017
+01:48:56.150 --> 01:48:59.450
+pour avoir un effet inotrope, on va l
+
+2018
+01:48:59.450 --> 01:49:02.630
+'écrire comme ça, inotrope positif, c'est-à
+
+2019
+01:49:02.630 --> 01:49:04.270
+-dire une meilleure contractivité de la cellule.
+
+2020
+01:49:04.870 --> 01:49:10.510
+Il me faut beaucoup, alors, les ponts actines
+
+2021
+01:49:10.510 --> 01:49:18.340
+et myosines doivent être très importants.
+
+2022
+01:49:18.460 --> 01:49:20.500
+Beaucoup de ponts, et quand il y a
+
+2023
+01:49:20.500 --> 01:49:22.020
+beaucoup de ponts qui se font, ça fait
+
+2024
+01:49:22.020 --> 01:49:24.560
+glisser l'actine sur la myosine.
+
+2025
+01:49:25.720 --> 01:49:29.300
+Deuxièmement, pour avoir cette possibilité, il me faut
+
+2026
+01:49:30.600 --> 01:49:31.580
+beaucoup de calcium.
+
+2027
+01:49:33.320 --> 01:49:35.320
+Si je reviens en arrière, au schéma qu
+
+2028
+01:49:35.320 --> 01:49:38.620
+'on a vu, il faut du calcium ici.
+
+2029
+01:49:40.180 --> 01:49:41.200
+Énormément de calcium.
+
+2030
+01:49:45.590 --> 01:49:46.350
+Pourquoi le calcium?
+
+2031
+01:49:46.490 --> 01:49:49.210
+Parce que si je prends une forme, un
+
+2032
+01:49:49.210 --> 01:49:52.310
+dessin un peu plus agrandi, la fibre d
+
+2033
+01:49:52.310 --> 01:49:53.950
+'actine, en fait, elle est à peu près
+
+2034
+01:49:53.950 --> 01:49:54.430
+comme ça.
+
+2035
+01:49:56.780 --> 01:50:00.800
+Et la tête de myosine vient coller comme
+
+2036
+01:50:00.800 --> 01:50:02.040
+ça, la tête de myosine.
+
+2037
+01:50:03.520 --> 01:50:04.820
+Une autre tête ici.
+
+2038
+01:50:06.880 --> 01:50:09.420
+Et pour qu'elle colle, une fois qu
+
+2039
+01:50:09.420 --> 01:50:11.240
+'elle colle, ça s'appelle un pont, le
+
+2040
+01:50:11.240 --> 01:50:13.360
+pont permet de faire bouger, de faire glisser
+
+2041
+01:50:13.360 --> 01:50:15.360
+la fibre d'actine sur la tête de
+
+2042
+01:50:15.360 --> 01:50:15.760
+myosine.
+
+2043
+01:50:16.060 --> 01:50:17.920
+Mais pour y arriver, si on la laisse
+
+2044
+01:50:17.920 --> 01:50:19.200
+comme ça, il y aura tout le temps
+
+2045
+01:50:19.200 --> 01:50:19.680
+des ponts.
+
+2046
+01:50:19.860 --> 01:50:21.460
+La cellule restera tout le temps contractée.
+
+2047
+01:50:21.460 --> 01:50:25.640
+En fait, le contact entre l'actine et
+
+2048
+01:50:25.640 --> 01:50:26.940
+le myosine, il est protégé.
+
+2049
+01:50:27.360 --> 01:50:30.720
+Il est protégé par une fibre qui passe
+
+2050
+01:50:30.720 --> 01:50:31.060
+ici.
+
+2051
+01:50:32.080 --> 01:50:34.860
+Un filament qui s'enroule sur les fibres
+
+2052
+01:50:34.860 --> 01:50:37.080
+d'actine et qui s'appelle la tropomyosine.
+
+2053
+01:50:41.150 --> 01:50:43.890
+Et cette tropomyosine vient donc empêcher la tête
+
+2054
+01:50:43.890 --> 01:50:46.710
+de myosine de rentrer en contact avec la
+
+2055
+01:50:46.710 --> 01:50:47.370
+fibre d'actine.
+
+2056
+01:50:47.810 --> 01:50:48.170
+Très bien.
+
+2057
+01:50:49.030 --> 01:50:50.330
+Mais là, quand on veut que la cellule
+
+2058
+01:50:50.330 --> 01:50:54.030
+se contracte, il faut bien barrer, écarter cette
+
+2059
+01:50:54.030 --> 01:50:56.490
+tropomyosine du site de fixation.
+
+2060
+01:50:57.230 --> 01:50:58.250
+Sinon, ça ne va pas marcher.
+
+2061
+01:50:58.810 --> 01:51:00.750
+Pour le faire, il nous faut la troponine.
+
+2062
+01:51:01.130 --> 01:51:05.010
+Et la troponine, elle a cette forme-là.
+
+2063
+01:51:05.530 --> 01:51:06.750
+Elle a en fait trois unités.
+
+2064
+01:51:07.490 --> 01:51:08.630
+C, I et T.
+
+2065
+01:51:10.150 --> 01:51:12.690
+Et l'unité C, ça fait comme pour
+
+2066
+01:51:12.690 --> 01:51:15.450
+une serrure, par exemple, quand on veut introduire
+
+2067
+01:51:15.450 --> 01:51:19.250
+la clé, ils ont un petit cache qui
+
+2068
+01:51:19.250 --> 01:51:20.110
+les ferme.
+
+2069
+01:51:20.110 --> 01:51:22.710
+C'est ça la troponine.
+
+2070
+01:51:23.090 --> 01:51:24.990
+Et la troponine, il va falloir l'écarter
+
+2071
+01:51:24.990 --> 01:51:27.870
+pour ouvrir, pour qu'elle écarte elle-même
+
+2072
+01:51:27.870 --> 01:51:30.670
+la tropomyosine et le site de fixation de
+
+2073
+01:51:30.670 --> 01:51:31.730
+la tête de myosine à l'actine.
+
+2074
+01:51:33.250 --> 01:51:36.570
+Cette troponine, elle ne bouge pas que si
+
+2075
+01:51:36.570 --> 01:51:37.630
+elle trouve du calcium.
+
+2076
+01:51:37.950 --> 01:51:39.130
+Or, ça ne se passe pas comme ça.
+
+2077
+01:51:39.490 --> 01:51:40.770
+Ça ne se passe pas de façon aussi
+
+2078
+01:51:40.770 --> 01:51:41.090
+simple.
+
+2079
+01:51:42.030 --> 01:51:43.430
+Mais si elle achète, en tout cas, un
+
+2080
+01:51:43.430 --> 01:51:45.310
+million de calcium, elle va bouger.
+
+2081
+01:51:45.910 --> 01:51:46.090
+Non.
+
+2082
+01:51:46.670 --> 01:51:50.110
+Sa sensibilité dépend de la concentration en calcium.
+
+2083
+01:51:50.710 --> 01:51:52.670
+Et si, donc, la concentration de calcium était
+
+2084
+01:51:52.670 --> 01:51:56.330
+élevée, la sensibilité de la troponine au calcium
+
+2085
+01:51:56.330 --> 01:51:57.330
+devient élevée.
+
+2086
+01:51:57.730 --> 01:51:59.770
+Et là, elle va bouger et elle va
+
+2087
+01:51:59.770 --> 01:52:01.810
+effectivement travailler et laisser la tête de myosine
+
+2088
+01:52:01.810 --> 01:52:02.890
+se fixer sur l'actine.
+
+2089
+01:52:03.490 --> 01:52:05.870
+Mais si la concentration en calcium est faible,
+
+2090
+01:52:06.450 --> 01:52:08.270
+on reconnaît quelques molécules qui circulent.
+
+2091
+01:52:08.690 --> 01:52:12.890
+Si la concentration est faible, cette troponine restera
+
+2092
+01:52:12.890 --> 01:52:13.450
+telle qu'elle est.
+
+2093
+01:52:13.570 --> 01:52:14.510
+Elle va fermer le site.
+
+2094
+01:52:14.650 --> 01:52:16.450
+Elle ne va pas laisser la tête de
+
+2095
+01:52:16.450 --> 01:52:18.410
+myosine se fixer sur l'actine.
+
+2096
+01:52:18.910 --> 01:52:20.430
+Un autre élément important, il n'y a
+
+2097
+01:52:20.430 --> 01:52:22.450
+pas que la concentration, il y a aussi
+
+2098
+01:52:22.450 --> 01:52:23.270
+la forme.
+
+2099
+01:52:23.730 --> 01:52:28.670
+La conformation spatiale de la troponine.
+
+2100
+01:52:29.270 --> 01:52:32.810
+La conformation spatiale de la troponine, elle est
+
+2101
+01:52:32.810 --> 01:52:33.970
+comme je l'ai dessinée ici.
+
+2102
+01:52:34.710 --> 01:52:37.890
+Et quand la cellule est étirée, la forme
+
+2103
+01:52:37.890 --> 01:52:38.350
+change.
+
+2104
+01:52:39.390 --> 01:52:41.730
+Et quand elle change, elle devient beaucoup plus
+
+2105
+01:52:41.730 --> 01:52:44.730
+sensible beaucoup plus sensible au calcium.
+
+2106
+01:52:45.870 --> 01:52:47.750
+Quand est-ce que ça arrive ?
+
+2107
+01:52:47.750 --> 01:52:50.410
+C'est quand la cellule je vais faire
+
+2108
+01:52:50.410 --> 01:52:51.310
+un dessin rapide.
+
+2109
+01:52:52.070 --> 01:52:53.370
+Ça ne va pas être très joli mais
+
+2110
+01:52:53.370 --> 01:52:55.170
+juste pour vous montrer.
+
+2111
+01:52:56.110 --> 01:52:57.050
+Là, il y a une cellule qui est
+
+2112
+01:52:57.910 --> 01:52:58.350
+contractée.
+
+2113
+01:53:02.300 --> 01:53:03.780
+Elle est contractée.
+
+2114
+01:53:04.800 --> 01:53:07.800
+Donc, les têtes de myosine elles sont bloquées.
+
+2115
+01:53:08.040 --> 01:53:10.180
+Il y a un chevauchement des fibres d
+
+2116
+01:53:10.180 --> 01:53:11.840
+'actine l'une sur les autres et donc
+
+2117
+01:53:11.840 --> 01:53:12.540
+il y a un blocage.
+
+2118
+01:53:14.990 --> 01:53:17.610
+Maintenant, la cellule je l'étire.
+
+2119
+01:53:17.790 --> 01:53:18.910
+Là, c'est le principe de la loi
+
+2120
+01:53:18.910 --> 01:53:19.410
+de Starlin.
+
+2121
+01:53:19.670 --> 01:53:22.370
+Je vais l'étirer.
+
+2122
+01:53:23.270 --> 01:53:24.970
+Là, c'est notre titine.
+
+2123
+01:53:25.730 --> 01:53:26.690
+Et là, c'est mes têtes.
+
+2124
+01:53:32.620 --> 01:53:33.580
+Je vais l'étirer.
+
+2125
+01:53:33.780 --> 01:53:35.020
+Elle va devenir comme ça.
+
+2126
+01:53:35.880 --> 01:53:42.000
+J'ai largement de quoi fixer les têtes
+
+2127
+01:53:42.000 --> 01:53:43.280
+de myosine à l'actine.
+
+2128
+01:53:44.140 --> 01:53:45.800
+Et encore mieux parce que la troponine a
+
+2129
+01:53:45.800 --> 01:53:47.680
+changé de conformation et est devenue plus sensible
+
+2130
+01:53:47.680 --> 01:53:48.300
+au calcium.
+
+2131
+01:53:48.840 --> 01:53:52.060
+Donc, l'étirement qui extérieure le nombre des
+
+2132
+01:53:52.060 --> 01:53:56.560
+possibilités de liaisons actine et myosine et deuxièmement,
+
+2133
+01:53:57.160 --> 01:53:59.120
+il me change la conformation spatiale de la
+
+2134
+01:53:59.120 --> 01:54:01.780
+troponine qui devient plus sensible au calcium et
+
+2135
+01:54:01.780 --> 01:54:03.120
+donc meilleure contractivité.
+
+2136
+01:54:03.260 --> 01:54:03.980
+C'est ça ce qu'on a vu
+
+2137
+01:54:03.980 --> 01:54:05.680
+dans la loi Starlin, si vous vous rappelez.
+
+2138
+01:54:06.440 --> 01:54:09.300
+Meilleure est la précharge, meilleure est la contractivité.
+
+2139
+01:54:10.320 --> 01:54:11.520
+C'est pour ça que je vous ai
+
+2140
+01:54:11.520 --> 01:54:16.800
+mis calcium, concentration de calcium, et bien sûr,
+
+2141
+01:54:16.980 --> 01:54:25.160
+la conformation, la sensibilité de la troponine au
+
+2142
+01:54:25.160 --> 01:54:28.600
+calcium elle détermine.
+
+2143
+01:54:29.220 --> 01:54:30.500
+Ce qui veut dire que si je veux
+
+2144
+01:54:30.500 --> 01:54:35.320
+avoir une meilleure contractivité, je vais tirer sur
+
+2145
+01:54:35.320 --> 01:54:37.320
+la cellule pour augmenter le nombre de bonds
+
+2146
+01:54:37.320 --> 01:54:38.060
+d'actine et de myosine.
+
+2147
+01:54:38.680 --> 01:54:40.660
+Je vais trouver un moyen pour augmenter la
+
+2148
+01:54:40.660 --> 01:54:43.040
+concentration du calcium en intracellulaire.
+
+2149
+01:54:43.040 --> 01:54:44.980
+Là, j'améliore la sensibilité.
+
+2150
+01:54:45.300 --> 01:54:46.500
+La sensibilité qu'il y a déjà, on
+
+2151
+01:54:46.500 --> 01:54:47.420
+ne peut l'améliorer pas.
+
+2152
+01:54:47.980 --> 01:54:49.920
+Le fait d'étirer la cellule.
+
+2153
+01:54:50.240 --> 01:54:52.660
+Comment je vais améliorer le flux de calcium
+
+2154
+01:54:52.660 --> 01:54:53.560
+dans la cellule ?
+
+2155
+01:54:53.560 --> 01:54:54.140
+J'enlève le schéma.
+
+2156
+01:54:54.800 --> 01:54:55.760
+Je crois, je ne sais plus.
+
+2157
+01:54:57.120 --> 01:54:58.840
+Oui, c'était celui-là.
+
+2158
+01:54:59.520 --> 01:55:00.260
+C'était celui-là.
+
+2159
+01:55:00.780 --> 01:55:01.600
+J'enlève le schéma.
+
+2160
+01:55:02.100 --> 01:55:04.440
+Pour avoir plus de calcium, on sait que
+
+2161
+01:55:04.440 --> 01:55:06.720
+le calcium est en intracellulaire, mais dans les
+
+2162
+01:55:06.720 --> 01:55:10.680
+tubules en T, on a des canons calciques
+
+2163
+01:55:10.680 --> 01:55:14.100
+voltage-dépendants qui sont là qui vont faire
+
+2164
+01:55:14.100 --> 01:55:14.900
+rentrer du calcium.
+
+2165
+01:55:15.020 --> 01:55:15.840
+Quel est le calcium ?
+
+2166
+01:55:16.620 --> 01:55:18.740
+Parce que moi, j'ai besoin de tonnes
+
+2167
+01:55:18.740 --> 01:55:20.740
+de calcium pour que la concentration augmente de
+
+2168
+01:55:20.740 --> 01:55:21.480
+façon importante.
+
+2169
+01:55:22.060 --> 01:55:24.680
+En fait, le calcium qui rentre ici, il
+
+2170
+01:55:24.680 --> 01:55:29.780
+déclenche la sortie du calcium des réservoirs l
+
+2171
+01:55:29.780 --> 01:55:31.640
+'équilibre fluoride cyclosarcoplasmique.
+
+2172
+01:55:32.160 --> 01:55:35.940
+Il ouvre les récepteurs qui s'appellent les
+
+2173
+01:55:35.940 --> 01:55:41.940
+récepteurs RYR2 les récepteurs à la ryanodine la
+
+2174
+01:55:41.940 --> 01:55:45.060
+ryanodine type 2, parce que type 2 il
+
+2175
+01:55:45.060 --> 01:55:48.480
+équilibre le corps humain et qui sont couplés
+
+2176
+01:55:48.480 --> 01:55:49.440
+au phosphor lombant.
+
+2177
+01:55:50.000 --> 01:55:51.940
+Ils sont couplés à une molécule, je vous
+
+2178
+01:55:51.940 --> 01:55:54.940
+montre le détail phosphor lombant, parce que ça
+
+2179
+01:55:54.940 --> 01:55:58.040
+se dit le phosphor lombant est dans un
+
+2180
+01:55:58.040 --> 01:56:01.500
+état déphosphorylé mais le calcium, il le phosphorylé
+
+2181
+01:56:01.500 --> 01:56:04.040
+l'Ottawa, il doit phosphoryler la ryanodine le
+
+2182
+01:56:04.040 --> 01:56:07.220
+résultat, c'est que les récepteurs à la
+
+2183
+01:56:07.220 --> 01:56:09.260
+ryanodine vont s'ouvrir et beaucoup de calcium
+
+2184
+01:56:09.260 --> 01:56:14.320
+va sortir vers le milieu plasmatique et va
+
+2185
+01:56:14.320 --> 01:56:17.160
+être disponible pour les fibres d'actine et
+
+2186
+01:56:17.160 --> 01:56:18.580
+myosine et là vous aurez une contraction.
+
+2187
+01:56:19.440 --> 01:56:22.460
+C'est ça ce qui déclenche une recontractilité
+
+2188
+01:56:22.460 --> 01:56:24.800
+rapide c'est que le calcium qui rentre
+
+2189
+01:56:24.800 --> 01:56:26.860
+va induire la sortie du calcium qui est
+
+2190
+01:56:26.860 --> 01:56:29.220
+emmagasinée dans la cellule et ce principe on
+
+2191
+01:56:29.220 --> 01:56:31.740
+l'appelle le principe de Fabiato il est
+
+2192
+01:56:31.740 --> 01:56:35.660
+très bien décrit et expliqué en détail sur
+
+2193
+01:56:35.660 --> 01:56:38.740
+les diapositives du cours le principe de Fabiato
+
+2194
+01:56:41.650 --> 01:56:44.570
+la même chose à l'étape de la
+
+2195
+01:56:44.570 --> 01:56:46.750
+contraction je peux imaginer l'inverse, c'est
+
+2196
+01:56:46.750 --> 01:56:48.790
+que quand je veux que la cellule se
+
+2197
+01:56:48.790 --> 01:56:53.290
+relâche je vais le recapter vers le risque
+
+2198
+01:56:53.290 --> 01:56:55.270
+de sarcoplasme et cette fois ci ça va
+
+2199
+01:56:55.270 --> 01:56:59.870
+se faire par le système qui va recapter
+
+2200
+01:56:59.870 --> 01:57:02.910
+le calcium vers le risque de sarcoplasme et
+
+2201
+01:57:02.910 --> 01:57:07.450
+le surplus de calcium les paliers qui sortent
+
+2202
+01:57:07.450 --> 01:57:10.370
+à l'extérieur de la cellule à travers
+
+2203
+01:57:10.370 --> 01:57:16.110
+les échangeurs Na+, K+, et les
+
+2204
+01:57:16.110 --> 01:57:21.290
+pompes Na+, calcium vous le savez les
+
+2205
+01:57:21.290 --> 01:57:24.670
+échangeurs, je peux avoir 2 pour 3, etc
+
+2206
+01:57:25.870 --> 01:57:28.010
+je peux échanger il n'y a rien
+
+2207
+01:57:28.010 --> 01:57:31.550
+à dire à la cellule elle va prendre
+
+2208
+01:57:31.550 --> 01:57:36.130
+du sodium le calcium les échangeurs échangent contre
+
+2209
+01:57:36.130 --> 01:57:41.330
+le potassium elle cherche à avoir plus de
+
+2210
+01:57:41.330 --> 01:57:45.190
+potassium donc la phase de relaxation qui va
+
+2211
+01:57:45.190 --> 01:57:47.470
+utiliser tout ce système là va être une
+
+2212
+01:57:47.470 --> 01:57:50.210
+phase aussi bien active que la phase de
+
+2213
+01:57:50.210 --> 01:57:53.550
+contraction et vous remarquez que si jamais je
+
+2214
+01:57:53.550 --> 01:57:56.610
+ralentis la relaxation, je vais laisser plus de
+
+2215
+01:57:56.610 --> 01:57:58.070
+calcium dans la cellule et donc l'effet
+
+2216
+01:57:58.070 --> 01:58:04.330
+inotrope va persister et augmenter alors ça c
+
+2217
+01:58:04.330 --> 01:58:06.850
+'était un point absolument important sur lequel il
+
+2218
+01:58:06.850 --> 01:58:10.830
+fallait qu'on passe alors j'ai dépassé
+
+2219
+01:58:10.830 --> 01:58:15.410
+largement le temps qui m'est imparti je
+
+2220
+01:58:15.410 --> 01:58:20.470
+réponds aux questions qui restent alors les liens
+
+2221
+01:58:20.470 --> 01:58:21.610
+entre l'Einstein et l'April j'ai
+
+2222
+01:58:21.610 --> 01:58:25.230
+répondu est-ce que l'hémodialyse provoque l
+
+2223
+01:58:25.230 --> 01:58:27.810
+'hypotension non l'hémodialyse c'est plutôt l
+
+2224
+01:58:27.810 --> 01:58:30.570
+'hypertension mais c'est une histoire de les
+
+2225
+01:58:30.570 --> 01:58:33.570
+patients qui ont des organes chroniques et qui
+
+2226
+01:58:33.570 --> 01:58:35.190
+arrivent au stade de l'hémodialyse qu'est
+
+2227
+01:58:35.190 --> 01:58:36.310
+-ce qu'on a de la tension élevée
+
+2228
+01:58:36.310 --> 01:58:38.310
+par augmentation de la volumie par ce qu
+
+2229
+01:58:38.310 --> 01:58:42.690
+'on appelle les artères rigides etc mais une
+
+2230
+01:58:42.690 --> 01:58:44.710
+fois qu'on le met dans le circuit
+
+2231
+01:58:44.710 --> 01:58:48.730
+de dialyse on arrive à diminuer sa volumie
+
+2232
+01:58:48.730 --> 01:58:53.150
+par la dialyse et avec le temps la
+
+2233
+01:58:53.150 --> 01:58:55.690
+pression artérielle commence à se normaliser ce qui
+
+2234
+01:58:55.690 --> 01:58:57.270
+veut dire que quand on a un traitement
+
+2235
+01:58:57.270 --> 01:58:59.650
+de l'hypertension artérielle on est amené à
+
+2236
+01:58:59.650 --> 01:59:03.010
+l'arrêter parce que la tension peut arriver
+
+2237
+01:59:04.010 --> 01:59:08.290
+grâce à la dialyse mais surtout grâce à
+
+2238
+01:59:08.290 --> 01:59:10.490
+la dialyse si on arrête la dialyse la
+
+2239
+01:59:10.490 --> 01:59:12.890
+pression va réaugmenter ce qui veut dire que
+
+2240
+01:59:12.890 --> 01:59:15.210
+ça nous amène à plutôt arrêter les anti
+
+2241
+01:59:15.210 --> 01:59:17.550
+-hypertensionnateurs ou à les diminuer à l'échec
+
+2242
+01:59:17.550 --> 01:59:20.410
+des malades à diminuer leur dose ou carrément
+
+2243
+01:59:20.410 --> 01:59:22.110
+à l'arrêter si on voit que la
+
+2244
+01:59:22.110 --> 01:59:23.650
+tension commence à se normaliser mais ça c
+
+2245
+01:59:23.650 --> 01:59:26.810
+'est une question le phospholamban est couplé au
+
+2246
+01:59:26.810 --> 01:59:31.450
+SRK ou bien à la rianodine 2 qu
+
+2247
+01:59:31.450 --> 01:59:32.610
+'est-ce que vous avez dans le cours
+
+2248
+01:59:32.610 --> 01:59:52.120
+j'ai pas le cours dites
+
+2249
+01:59:52.120 --> 02:00:00.020
+moi est-ce que est-ce que vous
+
+2250
+02:00:00.020 --> 02:00:02.880
+n'arrivez pas à poser des questions en
+
+2251
+02:00:02.880 --> 02:00:04.400
+dehors de la séance parce que de temps
+
+2252
+02:00:04.400 --> 02:00:09.940
+en temps je regarde sur Teams et honnêtement
+
+2253
+02:00:09.940 --> 02:00:11.140
+je ne vois pas de questions je me
+
+2254
+02:00:11.140 --> 02:00:13.220
+dis peut-être qu'il n'arrive pas
+
+2255
+02:00:13.220 --> 02:00:23.620
+à la poser je
+
+2256
+02:00:23.620 --> 02:00:25.500
+vais vous répondre sur le système SRK j
+
+2257
+02:00:25.500 --> 02:00:27.260
+'attends juste votre réponse à cette question parce
+
+2258
+02:00:27.260 --> 02:00:31.840
+qu'elle me paraît fondamentale ce sera cette
+
+2259
+02:00:31.840 --> 02:00:37.180
+séance j'ai programmé seulement 3 séances j
+
+2260
+02:00:37.180 --> 02:00:39.960
+'ai dit à l'un de vos responsables
+
+2261
+02:00:39.960 --> 02:00:43.880
+du BDE que je suis disposé à faire
+
+2262
+02:00:43.880 --> 02:00:47.220
+d'autres séances si bien sûr il y
+
+2263
+02:00:47.220 --> 02:00:51.200
+a des raisons qui le prouvent et l
+
+2264
+02:00:51.200 --> 02:00:52.920
+'une des raisons c'est par exemple avoir
+
+2265
+02:00:52.920 --> 02:00:55.780
+beaucoup de questions sur un point et quand
+
+2266
+02:00:55.780 --> 02:00:57.980
+je vais remarquer que beaucoup posent la question
+
+2267
+02:00:57.980 --> 02:00:59.280
+sur quelque chose et qu'ils n'ont
+
+2268
+02:00:59.280 --> 02:01:01.760
+pas compris je peux organiser une séance pour
+
+2269
+02:01:01.760 --> 02:01:04.540
+ça mais s'il y a quelques-uns
+
+2270
+02:01:04.540 --> 02:01:06.460
+qui posent des questions je vais répondre directement
+
+2271
+02:01:06.460 --> 02:01:08.520
+je vais leur répondre sur leur messagerie directement
+
+2272
+02:01:08.520 --> 02:01:11.120
+et c'est tout donc j'organiserai mais
+
+2273
+02:01:11.120 --> 02:01:13.620
+en fonction de la demande mais je veux
+
+2274
+02:01:13.620 --> 02:01:15.500
+savoir est-ce que vous arrivez tous à
+
+2275
+02:01:15.500 --> 02:01:18.160
+poser des questions pour l'instant j'ai
+
+2276
+02:01:18.160 --> 02:01:21.640
+reçu que des questions des responsables du BDE
+
+2277
+02:01:21.640 --> 02:01:39.370
+vous êtes toujours avec moi j
+
+2278
+02:01:39.370 --> 02:01:41.910
+'attends votre réponse en dehors de la séance
+
+2279
+02:01:41.910 --> 02:01:46.030
+interactive vous pouvez tous poser des questions les
+
+2280
+02:01:46.030 --> 02:01:58.940
+laisser sur la partie conversation très
+
+2281
+02:01:58.940 --> 02:02:00.980
+bien c'est parfait bon maintenant je vais
+
+2282
+02:02:00.980 --> 02:02:04.440
+répondre alors la question c'était est-ce
+
+2283
+02:02:04.440 --> 02:02:08.980
+que le système phospho-lambant est correct oui
+
+2284
+02:02:08.980 --> 02:02:15.200
+tu as raison tu as entièrement raison le
+
+2285
+02:02:15.200 --> 02:02:18.200
+phospho-lambant il est couplé avec le SERCA
+
+2286
+02:02:18.200 --> 02:02:20.240
+il fonctionne avec le SERCA selon le système
+
+2287
+02:02:20.240 --> 02:02:21.880
+de phosphorylation dont je vous ai parlé tout
+
+2288
+02:02:21.880 --> 02:02:24.360
+à l'heure l'aryanodine il n'a
+
+2289
+02:02:24.360 --> 02:02:26.980
+pas besoin de ça une fois il est
+
+2290
+02:02:26.980 --> 02:02:29.700
+stimulé par notre éducation à travers le canot
+
+2291
+02:02:29.700 --> 02:02:32.460
+calcique il s'ouvre j'ai fait un
+
+2292
+02:02:32.460 --> 02:02:34.940
+lapsus vous avez tout à fait raison le
+
+2293
+02:02:34.940 --> 02:02:38.300
+phospho-lambant vous les mettez avec le système
+
+2294
+02:02:38.300 --> 02:02:43.910
+SERCA directement je m'excuse de cette erreur
+
+2295
+02:02:48.900 --> 02:02:50.840
+la régulation à long terme ça veut dire
+
+2296
+02:02:50.840 --> 02:02:52.500
+qu'il reprend plusieurs jours voire plusieurs et
+
+2297
+02:02:52.500 --> 02:02:55.360
+donc c'est en la réserve et comment
+
+2298
+02:02:55.360 --> 02:02:58.460
+tout simplement en contrôlant la volumie il va
+
+2299
+02:02:58.780 --> 02:03:01.820
+avec le temps essayer de rétablir en augmentant
+
+2300
+02:03:01.820 --> 02:03:05.960
+ou en diminuant la volumie il réchauffe la
+
+2301
+02:03:05.960 --> 02:03:08.140
+pression artérielle généralement ça arrive quand la pression
+
+2302
+02:03:08.140 --> 02:03:11.200
+artérielle est élevée elle est élevée il essaie
+
+2303
+02:03:11.200 --> 02:03:16.640
+de répondre en augmentant la duresse ce qui
+
+2304
+02:03:16.640 --> 02:03:19.960
+veut dire que il va freiner la stimulation
+
+2305
+02:03:19.960 --> 02:03:24.620
+du système freiner autant qu'il peut la
+
+2306
+02:03:24.620 --> 02:03:29.000
+stimulation du système rhinangéotensif ce qui fait qu
+
+2307
+02:03:29.000 --> 02:03:31.260
+'il y aura moins de sécrétion d'aldostérone
+
+2308
+02:03:31.260 --> 02:03:35.540
+donc moins de réabsorption moins de réabsorption de
+
+2309
+02:03:35.540 --> 02:03:38.440
+sodium et aussi il y aura freinage de
+
+2310
+02:03:38.440 --> 02:03:41.060
+l'hormone antidiurétique et le résultat mais ça
+
+2311
+02:03:41.060 --> 02:03:44.220
+ça demande du temps le système sympathique qui
+
+2312
+02:03:44.220 --> 02:03:48.580
+agit vite tel le système rhinangéotensif il agit
+
+2313
+02:03:48.580 --> 02:03:49.740
+plus ou moins vite c'est pour ça
+
+2314
+02:03:49.740 --> 02:03:50.900
+qu'on l'a mis à moyen terme
+
+2315
+02:03:50.900 --> 02:03:54.780
+mais le reste l'ADH avoir un résultat
+
+2316
+02:03:54.780 --> 02:03:57.940
+palpable de l'aldostérone sur la duresse ça
+
+2317
+02:03:57.940 --> 02:03:59.940
+demande des jours et c'est pour ça
+
+2318
+02:03:59.940 --> 02:04:01.220
+qu'on a mis ça à long terme
+
+2319
+02:04:01.220 --> 02:04:03.660
+et on l'a finalement comme c'est
+
+2320
+02:04:03.660 --> 02:04:06.260
+l'aldostérone et l'hormone antidiurétique, ça agit
+
+2321
+02:04:06.260 --> 02:04:09.000
+au niveau rénal on a dit l'intervention
+
+2322
+02:04:09.000 --> 02:04:11.120
+du rein sur la régulation de la pression
+
+2323
+02:04:11.120 --> 02:04:16.900
+artérielle intervient à long terme mais tout ça
+
+2324
+02:04:17.420 --> 02:04:24.640
+ça ne prévient pas ça veut dire les
+
+2325
+02:04:24.640 --> 02:04:33.820
+mécanismes de régulation habituelles ont été dépassés et
+
+2326
+02:04:33.820 --> 02:04:38.040
+donc il est dépassé s'installe une hypertension
+
+2327
+02:04:38.040 --> 02:04:39.380
+dans ce cas là qu'est ce qu
+
+2328
+02:04:39.380 --> 02:04:40.800
+'il faut faire il faut la traiter il
+
+2329
+02:04:40.800 --> 02:04:48.390
+faut intervenir ok je vous souhaite bonne chance
+
+2330
+02:04:49.830 --> 02:04:54.090
+j'attends vos questions pour que si jamais
+
+2331
+02:04:54.090 --> 02:04:59.330
+je suis amené à programmer une autre séance
+
+2332
+02:05:00.090 --> 02:05:02.490
+je préfère la faire le plus tôt possible
+
+2333
+02:05:02.490 --> 02:05:05.950
+et non pas le mois de décembre etc
+
+2334
+02:05:06.490 --> 02:05:08.650
+ça va être un peu plus compliqué avec
+
+2335
+02:05:08.650 --> 02:05:10.230
+les autres séances et puis l'approche des
+
+2336
+02:05:10.230 --> 02:05:16.070
+examens donc si vous pouvez essayer de réviser
+
+2337
+02:05:16.070 --> 02:05:18.110
+votre cours et se poser le maximum de
+
+2338
+02:05:18.110 --> 02:05:20.490
+questions et je vais voir en fonction de
+
+2339
+02:05:20.490 --> 02:05:22.270
+ça est-ce que c'est nécessaire d
+
+2340
+02:05:22.270 --> 02:05:24.010
+'organiser si je dois l'organiser j'aimerais
+
+2341
+02:05:24.010 --> 02:05:29.470
+bien d'ici fin novembre le grand maximum
+
+2342
+02:05:29.470 --> 02:05:32.230
+la première semaine de décembre merci à vous
+
+2343
+02:05:32.230 --> 02:05:32.850
+et bonne journée

@@ -1,0 +1,6195 @@
+1
+00:00:00,220 --> 00:00:02,100
+J'espère que vous allez tous bien, et
+
+2
+00:00:02,100 --> 00:00:02,340
+toutes.
+
+3
+00:00:04,640 --> 00:00:07,760
+Je suis heureux de faire cette séance interactive
+
+4
+00:00:07,760 --> 00:00:08,300
+avec vous.
+
+5
+00:00:09,240 --> 00:00:11,140
+Je suis désolé hier, j'ai eu un
+
+6
+00:00:11,140 --> 00:00:13,360
+empêchement, on n'a pas pu la faire.
+
+7
+00:00:14,420 --> 00:00:16,680
+J'espère que vous aurez, vous serez nombreux
+
+8
+00:00:16,680 --> 00:00:22,000
+aujourd'hui avec beaucoup de questions sur ce
+
+9
+00:00:22,000 --> 00:00:24,180
+qu'on vient de, sur ce qu'on
+
+10
+00:00:24,180 --> 00:00:26,320
+a, on n'a pas vu en personne,
+
+11
+00:00:26,500 --> 00:00:29,320
+mais on a déposé des cours sonorisés.
+
+12
+00:00:29,860 --> 00:00:32,900
+J'espère que vous avez eu le temps
+
+13
+00:00:32,900 --> 00:00:35,200
+et la chance de les voir, et que
+
+14
+00:00:35,200 --> 00:00:38,900
+vous avez avec vous beaucoup de questions et
+
+15
+00:00:38,900 --> 00:00:42,200
+d'interrogations à me faire.
+
+16
+00:00:44,040 --> 00:00:46,320
+L'objectif de l'étude de la physiologie,
+
+17
+00:00:46,580 --> 00:00:49,800
+vraiment, c'est de comprendre comment les systèmes
+
+18
+00:00:49,800 --> 00:00:50,380
+fonctionnent.
+
+19
+00:00:50,380 --> 00:00:52,140
+Si on ne comprend pas comment les systèmes
+
+20
+00:00:52,140 --> 00:00:55,620
+fonctionnent, on ne peut pas comprendre comment ils
+
+21
+00:00:55,620 --> 00:00:58,340
+vont mal fonctionner.
+
+22
+00:00:58,720 --> 00:00:59,940
+Comment est-ce qu'on va avoir des
+
+23
+00:00:59,940 --> 00:01:02,180
+dysfonctions, aboutissons à des maladies?
+
+24
+00:01:02,360 --> 00:01:03,540
+Comment est-ce qu'on peut traiter des
+
+25
+00:01:03,540 --> 00:01:03,879
+patients?
+
+26
+00:01:06,920 --> 00:01:08,540
+Le rôle d'un médecin, ce n'est
+
+27
+00:01:08,540 --> 00:01:13,660
+pas juste d'être un technicien, en prescrivant
+
+28
+00:01:13,660 --> 00:01:16,200
+ce qu'il a appris comme étant un
+
+29
+00:01:16,200 --> 00:01:19,340
+médicament qui peut servir pour une indication particulière,
+
+30
+00:01:19,340 --> 00:01:22,740
+il faut qu'il comprenne pourquoi il y
+
+31
+00:01:22,740 --> 00:01:24,900
+a une prise en charge X, pourquoi il
+
+32
+00:01:24,900 --> 00:01:29,140
+y a un médicament Y dans une maladie
+
+33
+00:01:29,140 --> 00:01:30,580
+particulière.
+
+34
+00:01:31,020 --> 00:01:35,940
+Il doit vraiment comprendre, pour pouvoir comprendre comment
+
+35
+00:01:35,940 --> 00:01:38,320
+ça agit, et pourquoi ça n'agit pas
+
+36
+00:01:38,320 --> 00:01:44,720
+des fois, et quelles sont les interactions médicamenteuses,
+
+37
+00:01:44,800 --> 00:01:47,260
+etc., qu'il peut y avoir chez ces
+
+38
+00:01:47,260 --> 00:01:47,520
+patients.
+
+39
+00:01:49,300 --> 00:01:53,800
+Donc, je vais commencer, moi, et après je
+
+40
+00:01:53,800 --> 00:01:55,720
+vais vous demander si vous avez des questions.
+
+41
+00:01:56,460 --> 00:01:59,020
+J'espère que ça sera interactif, ça s
+
+42
+00:01:59,020 --> 00:02:00,700
+'appelle interactif, donc il faut qu'il y
+
+43
+00:02:00,700 --> 00:02:01,700
+ait de l'interactivité.
+
+44
+00:02:03,080 --> 00:02:05,460
+On est ouvert à vos questions.
+
+45
+00:02:07,000 --> 00:02:12,180
+Cette année, donc, on a rajouté quelques plaques
+
+46
+00:02:12,180 --> 00:02:14,940
+par rapport à l'année dernière, concernant les
+
+47
+00:02:14,940 --> 00:02:17,620
+questions, on a essayé de diviser le premier
+
+48
+00:02:17,620 --> 00:02:21,920
+cours en deux cours distincts, le premier concernant
+
+49
+00:02:21,920 --> 00:02:26,020
+les rappels sur les fonctions de différentes parties
+
+50
+00:02:26,020 --> 00:02:28,960
+du système nerveux, et puis la deuxième concernant
+
+51
+00:02:28,960 --> 00:02:31,020
+le neurone lui-même, comment est-ce qu
+
+52
+00:02:31,020 --> 00:02:33,780
+'il fonctionne, sur un plan neurophysiologique basique.
+
+53
+00:02:33,780 --> 00:02:37,420
+Ça, c'est une deuxième partie, pour moi,
+
+54
+00:02:37,560 --> 00:02:43,360
+fondamentale, parce qu'elle explique comment le cerveau
+
+55
+00:02:43,360 --> 00:02:47,640
+fonctionne, le système nerveux fonctionne, et elle explique
+
+56
+00:02:47,640 --> 00:02:51,640
+beaucoup de maladies, y compris l'épilepsie, les
+
+57
+00:02:51,640 --> 00:02:52,280
+myasthénies.
+
+58
+00:02:52,680 --> 00:02:54,540
+Quand je dis les myasthénies, c'est avec
+
+59
+00:02:54,540 --> 00:02:56,000
+S, il n'y a pas la myasthénie,
+
+60
+00:02:56,120 --> 00:02:57,500
+il y a des syndromes myasthéniques.
+
+61
+00:02:59,500 --> 00:03:03,100
+Les sépalées, les épilepsies dont on a parlé,
+
+62
+00:03:03,180 --> 00:03:10,280
+les douleurs neuropathiques, et plusieurs pathologies concernant le
+
+63
+00:03:10,280 --> 00:03:15,100
+développement psychomoteur de l'enfant, le développement mental,
+
+64
+00:03:15,560 --> 00:03:15,760
+etc.
+
+65
+00:03:16,060 --> 00:03:18,580
+Donc, c'est un champ très, très, très
+
+66
+00:03:18,580 --> 00:03:19,740
+vaste.
+
+67
+00:03:20,540 --> 00:03:23,800
+En dehors de tout ce qui est accidents
+
+68
+00:03:23,800 --> 00:03:26,660
+vasculaires cérébraux, qui sont dus à un problème
+
+69
+00:03:26,660 --> 00:03:33,940
+vasculaire, presque toutes les autres maladies neurologiques ont
+
+70
+00:03:33,940 --> 00:03:37,620
+une application, par rapport à ce premier cours
+
+71
+00:03:37,620 --> 00:03:41,120
+qu'on a vu ensemble, concernant les mécanismes
+
+72
+00:03:41,120 --> 00:03:42,500
+de fonctionnement de base.
+
+73
+00:03:43,060 --> 00:03:45,300
+Et il y a dans ce domaine la
+
+74
+00:03:45,300 --> 00:03:49,620
+canalopathie, qui est un domaine très, très vaste,
+
+75
+00:03:49,900 --> 00:03:53,580
+et qui connaît un grand essor actuellement.
+
+76
+00:03:54,560 --> 00:03:58,600
+C'est un domaine dans lequel les différents
+
+77
+00:03:58,600 --> 00:04:00,820
+canaux, et vous connaissez maintenant l'importance des
+
+78
+00:04:00,820 --> 00:04:03,780
+canaux, que ce soit des canaux qui servent
+
+79
+00:04:03,780 --> 00:04:05,740
+à l'entrée ou à la sortie de
+
+80
+00:04:05,740 --> 00:04:10,560
+l'ion, ou bien dans le laxone, ou
+
+81
+00:04:10,560 --> 00:04:13,960
+bien des canaux qui sont des récepteurs aussi,
+
+82
+00:04:14,180 --> 00:04:16,640
+mais des canaux, dont la synapse.
+
+83
+00:04:18,240 --> 00:04:21,780
+C'est vraiment un domaine très, très vaste,
+
+84
+00:04:21,900 --> 00:04:25,740
+et qui connaît donc beaucoup d'applications.
+
+85
+00:04:25,940 --> 00:04:28,380
+Il faut le comprendre pour pouvoir traiter ces
+
+86
+00:04:28,380 --> 00:04:28,680
+patients.
+
+87
+00:04:30,380 --> 00:04:33,440
+D'accord, donc, si vous me permettez, j
+
+88
+00:04:33,440 --> 00:04:36,700
+'aimerais juste faire un petit tour rapide sur
+
+89
+00:04:36,700 --> 00:04:41,860
+les cours qu'on a vus ensemble.
+
+90
+00:04:44,040 --> 00:04:49,100
+Je vais ouvrir le premier cours concernant les
+
+91
+00:04:49,100 --> 00:04:54,200
+fonctions du système nerveux, et je vais partager
+
+92
+00:04:54,200 --> 00:04:54,780
+avec vous.
+
+93
+00:04:55,140 --> 00:04:56,720
+Si vous ne voyez pas le partage, dites
+
+94
+00:04:56,720 --> 00:04:57,800
+-le moi, s'il vous plaît.
+
+95
+00:05:11,920 --> 00:05:12,980
+Vous voyez mon écran?
+
+96
+00:05:14,280 --> 00:05:14,880
+Oui, monsieur.
+
+97
+00:05:16,500 --> 00:05:17,260
+Très bien.
+
+98
+00:05:19,320 --> 00:05:21,980
+Donc, par rapport au premier cours, franchement, je
+
+99
+00:05:21,980 --> 00:05:27,380
+pense que c'est assez clair concernant la
+
+100
+00:05:27,380 --> 00:05:28,140
+première partie.
+
+101
+00:05:29,020 --> 00:05:32,260
+Là, on parle des différentes parties du corps,
+
+102
+00:05:32,580 --> 00:05:34,220
+comme est-ce qu'il est pochampe, qu
+
+103
+00:05:34,220 --> 00:05:35,380
+'est-ce qu'il fait, est-ce qu
+
+104
+00:05:35,380 --> 00:05:38,380
+'il a la formation réciclée au niveau du
+
+105
+00:05:38,380 --> 00:05:41,160
+transcérébral, quel est son rôle, etc.
+
+106
+00:05:41,300 --> 00:05:43,640
+Vous voyez mon curseur?
+
+107
+00:05:46,330 --> 00:05:46,770
+Oui, monsieur.
+
+108
+00:05:47,570 --> 00:05:48,190
+D'accord.
+
+109
+00:05:48,510 --> 00:05:50,750
+Donc, cette partie-là, je pense qu'elle
+
+110
+00:05:50,750 --> 00:05:51,450
+est assez facile.
+
+111
+00:05:51,670 --> 00:05:53,530
+C'est des parties du système nerveux qu
+
+112
+00:05:53,530 --> 00:05:56,810
+'il faut connaître, et il faut savoir quelles
+
+113
+00:05:56,810 --> 00:05:59,490
+sont leurs fonctions, qu'est-ce qu'ils
+
+114
+00:05:59,490 --> 00:06:00,510
+jouent comme rôle.
+
+115
+00:06:01,030 --> 00:06:03,570
+Je pense, souvent, je pose une question par
+
+116
+00:06:03,570 --> 00:06:06,010
+rapport à ça, donc il faut essayer de
+
+117
+00:06:06,010 --> 00:06:08,690
+connaître les différentes parties du système nerveux et
+
+118
+00:06:08,690 --> 00:06:11,350
+leur rôle, ça c'est important, parce qu
+
+119
+00:06:11,350 --> 00:06:14,390
+'une lésion d'une de ces parties va
+
+120
+00:06:14,390 --> 00:06:15,570
+aboutir à quelque chose.
+
+121
+00:06:15,570 --> 00:06:18,210
+Donc, je peux vous demander, une lésion de
+
+122
+00:06:18,210 --> 00:06:21,970
+l'amygdale va aboutir à un trouble moteur,
+
+123
+00:06:22,230 --> 00:06:27,850
+B, à un problème d'absence d'émotivité
+
+124
+00:06:27,850 --> 00:06:32,790
+face à des situations stressantes ou des situations
+
+125
+00:06:32,790 --> 00:06:37,790
+douloureuses, etc.
+
+126
+00:06:38,170 --> 00:06:41,950
+Donc, un patient qui ne va pas ressentir
+
+127
+00:06:41,950 --> 00:06:43,750
+quoi que ce soit, alors qu'il a
+
+128
+00:06:43,750 --> 00:06:47,930
+perdu son fils ou bien son père, son
+
+129
+00:06:47,930 --> 00:06:53,190
+frère, etc., va se manifester par un excès
+
+130
+00:06:53,190 --> 00:06:56,630
+d'agressivité, C, D, va se manifester par
+
+131
+00:06:56,630 --> 00:06:57,630
+une cécité.
+
+132
+00:06:57,970 --> 00:07:00,670
+Donc, c'est ce genre de questions qu
+
+133
+00:07:00,670 --> 00:07:03,670
+'on peut poser par rapport à une structure.
+
+134
+00:07:04,110 --> 00:07:05,870
+Si je vous dis une lésion de cette
+
+135
+00:07:05,870 --> 00:07:07,230
+structure, voilà ce qu'il va donner.
+
+136
+00:07:07,230 --> 00:07:12,450
+Je peux profiter d'une seule question pour
+
+137
+00:07:12,450 --> 00:07:21,350
+voir plusieurs structures concernant le fonctionnement
+
+138
+00:07:21,350 --> 00:07:26,350
+des structures du système nerveux, l'amygdale joue
+
+139
+00:07:26,350 --> 00:07:29,370
+ce rôle, le hippocampe joue ce rôle, etc.
+
+140
+00:07:29,950 --> 00:07:31,870
+Donc, il faut s'attendre à ce genre
+
+141
+00:07:31,870 --> 00:07:34,130
+de questions et l'objectif, c'est vraiment
+
+142
+00:07:34,130 --> 00:07:36,910
+de comprendre et de connaître le rôle de
+
+143
+00:07:36,910 --> 00:07:37,390
+ces structures.
+
+144
+00:07:37,570 --> 00:07:39,330
+Donc, je pense qu'on n'a pas
+
+145
+00:07:39,330 --> 00:07:41,350
+besoin de s'attarder par rapport à cette
+
+146
+00:07:41,350 --> 00:07:43,750
+partie-là parce qu'elle est assez simple,
+
+147
+00:07:44,050 --> 00:07:45,570
+sauf si vous avez des questions par rapport
+
+148
+00:07:45,570 --> 00:07:46,110
+à cette partie.
+
+149
+00:07:46,510 --> 00:07:48,190
+Est-ce que vous avez une question pour
+
+150
+00:07:48,190 --> 00:07:52,930
+cette première partie concernant jusqu'au niveau de
+
+151
+00:07:52,930 --> 00:07:54,510
+l'histologie, avant l'histologie ?
+
+152
+00:08:05,820 --> 00:08:06,140
+Non ?
+
+153
+00:08:06,560 --> 00:08:09,240
+Donc, sinon, je passe.
+
+154
+00:08:11,620 --> 00:08:15,040
+Donc, concernant l'histologie, je pense que vous
+
+155
+00:08:15,040 --> 00:08:17,900
+l'avez déjà vu avec nos collègues histologistes,
+
+156
+00:08:19,140 --> 00:08:21,440
+donc on n'a pas besoin d'y
+
+157
+00:08:21,440 --> 00:08:21,780
+revenir.
+
+158
+00:08:32,820 --> 00:08:36,179
+C'était un système très obscur, il l
+
+159
+00:08:36,179 --> 00:08:37,960
+'est pour certaines questions, il l'est toujours.
+
+160
+00:08:39,200 --> 00:08:40,659
+C'est un système où on ne savait
+
+161
+00:08:40,659 --> 00:08:42,880
+pas comment sont organisées les neurones.
+
+162
+00:08:42,880 --> 00:08:46,900
+Est-ce qu'ils sont organisés en continuum
+
+163
+00:08:46,900 --> 00:08:49,880
+ou est-ce qu'ils sont organisés…
+
+164
+00:08:53,330 --> 00:08:55,210
+Vous ne me voyez pas, n'est-ce
+
+165
+00:08:55,210 --> 00:08:56,050
+pas ?
+
+166
+00:08:58,960 --> 00:08:59,200
+Oui.
+
+167
+00:08:59,520 --> 00:09:01,980
+Vous m'entendez toujours ?
+
+168
+00:09:01,980 --> 00:09:02,400
+Oui.
+
+169
+00:09:04,080 --> 00:09:04,420
+D'accord.
+
+170
+00:09:07,900 --> 00:09:09,920
+Donc, j'ai dit qu'on ne savait
+
+171
+00:09:09,920 --> 00:09:11,860
+pas si c'était un continuum ou s
+
+172
+00:09:11,860 --> 00:09:14,020
+'il y avait une connexion entre les différents
+
+173
+00:09:14,020 --> 00:09:14,440
+neurones.
+
+174
+00:09:15,340 --> 00:09:18,700
+La science a prouvé que l'Ikajal avait
+
+175
+00:09:18,700 --> 00:09:21,780
+raison et que les neurones sont organisés en
+
+176
+00:09:21,780 --> 00:09:25,960
+un réseau interconnecté avec des espaces entre les
+
+177
+00:09:25,960 --> 00:09:28,580
+différents neurones, comme celui-là, le jaune, qui
+
+178
+00:09:28,580 --> 00:09:30,220
+entre en connexion avec le bleu.
+
+179
+00:09:31,180 --> 00:09:37,000
+Donc, c'est très important de savoir que
+
+180
+00:09:37,000 --> 00:09:41,220
+plusieurs pathologies peuvent être liées à des problèmes
+
+181
+00:09:41,220 --> 00:09:43,140
+historiques.
+
+182
+00:09:43,920 --> 00:09:45,240
+S'il vous plaît, il y a quelqu
+
+183
+00:09:45,240 --> 00:09:47,600
+'un qui n'a pas éteint son micro.
+
+184
+00:09:48,920 --> 00:09:49,560
+Ça fait un bruit.
+
+185
+00:09:56,910 --> 00:09:59,350
+S'il vous plaît, quelqu'un doit éteindre
+
+186
+00:09:59,350 --> 00:09:59,950
+son micro.
+
+187
+00:10:04,080 --> 00:10:04,820
+On va voir c'est qui.
+
+188
+00:10:08,060 --> 00:10:09,760
+J'espère que le problème est réglé.
+
+189
+00:10:11,660 --> 00:10:15,660
+Donc, j'ai dit qu'en faisant attention,
+
+190
+00:10:15,760 --> 00:10:20,480
+par exemple, à cette diapositive, regardez ce dendrite.
+
+191
+00:10:20,960 --> 00:10:22,080
+Vous connaissez les dendrites.
+
+192
+00:10:22,080 --> 00:10:24,100
+Vous savez que c'est des prolongements du
+
+193
+00:10:24,100 --> 00:10:26,480
+corps cellulaire qui vont ramener l'information vers
+
+194
+00:10:26,480 --> 00:10:27,000
+le corps cellulaire.
+
+195
+00:10:27,180 --> 00:10:29,780
+Donc, c'est la partie afférente du neurone.
+
+196
+00:10:30,160 --> 00:10:31,940
+Regardez cette architecture en épines.
+
+197
+00:10:32,440 --> 00:10:36,840
+L'architecture en épines, bien organisée avec une
+
+198
+00:10:36,840 --> 00:10:40,340
+forme comme ça qui est bien distincte, ça
+
+199
+00:10:40,340 --> 00:10:43,720
+a une importance et ça a un rôle
+
+200
+00:10:43,720 --> 00:10:48,080
+pour augmenter la surface de transmission et créer
+
+201
+00:10:48,080 --> 00:10:52,040
+des réseaux neuronaux avec plusieurs neurones.
+
+202
+00:10:52,580 --> 00:10:56,420
+Donc, la maturité cérébrale chez l'enfant demande
+
+203
+00:10:56,420 --> 00:10:59,120
+à ce qu'on crée de plus en
+
+204
+00:10:59,120 --> 00:11:02,640
+plus de réseaux neuronaux, de connexions et de,
+
+205
+00:11:03,120 --> 00:11:04,620
+si vous voulez, un réseau neuronal.
+
+206
+00:11:04,800 --> 00:11:07,280
+Je vous rappelle que c'était une suite
+
+207
+00:11:07,280 --> 00:11:09,740
+de neurones qui vont s'agencer et qui
+
+208
+00:11:09,740 --> 00:11:11,960
+vont se connecter, l'un se projette sur
+
+209
+00:11:11,960 --> 00:11:16,360
+l'autre, pour constituer un continuum qu'on
+
+210
+00:11:16,360 --> 00:11:20,280
+appelle un réseau neuronal fait de deux à
+
+211
+00:11:20,280 --> 00:11:21,720
+un millier de neurones.
+
+212
+00:11:22,420 --> 00:11:24,340
+Donc, ça peut être simple comme ça peut
+
+213
+00:11:24,340 --> 00:11:25,460
+être très complexe.
+
+214
+00:11:25,640 --> 00:11:35,840
+Mais pour chaque dendrite, plusieurs
+
+215
+00:11:35,840 --> 00:11:39,520
+épines augmentant la surface de transmission, chaque dendrite
+
+216
+00:11:39,520 --> 00:11:42,620
+peut entrer en connexion avec plusieurs neurones, ce
+
+217
+00:11:42,620 --> 00:11:45,500
+qui montre la complexité du système nerveux, mais
+
+218
+00:11:45,500 --> 00:11:48,820
+aussi l'importance de cette complexité et de
+
+219
+00:11:48,820 --> 00:11:49,800
+cette organisation.
+
+220
+00:11:49,980 --> 00:11:52,040
+Parce que si jamais on a un problème
+
+221
+00:11:52,040 --> 00:11:53,700
+génétique qui fait qu'on ne peut pas
+
+222
+00:11:53,700 --> 00:11:59,860
+avoir cet aspect en épines, malheureusement, le patient
+
+223
+00:11:59,860 --> 00:12:01,920
+va avoir un retard mental.
+
+224
+00:12:02,240 --> 00:12:04,980
+C'est parmi les explications du retard mental.
+
+225
+00:12:04,980 --> 00:12:09,940
+Donc, chez certains patients, petits garçons ou filles,
+
+226
+00:12:10,780 --> 00:12:12,140
+qu'on voit à l'âge de 4
+
+227
+00:12:12,140 --> 00:12:14,580
+-5 ans qui ont un retard mental, on
+
+228
+00:12:14,580 --> 00:12:16,180
+fait l'IRM cérébral.
+
+229
+00:12:16,320 --> 00:12:17,600
+Je vous rappelle que l'IRM cérébral, c
+
+230
+00:12:17,600 --> 00:12:21,800
+'est l'examen le plus performant pour explorer
+
+231
+00:12:21,800 --> 00:12:22,460
+le cerveau.
+
+232
+00:12:22,860 --> 00:12:24,500
+C'est plus performant que le scanner.
+
+233
+00:12:25,940 --> 00:12:27,000
+C'est comme si on a ouvert le
+
+234
+00:12:27,000 --> 00:12:28,100
+cerveau et on est en train de le
+
+235
+00:12:28,100 --> 00:12:29,140
+regarder, en fait.
+
+236
+00:12:30,180 --> 00:12:31,880
+Sur l'IRM, on ne voit rien et
+
+237
+00:12:31,880 --> 00:12:32,580
+on ne comprend pas.
+
+238
+00:12:32,820 --> 00:12:33,620
+On dit qu'il n'y a pas
+
+239
+00:12:33,620 --> 00:12:36,140
+d'accident vasculaire, qu'il n'y a
+
+240
+00:12:36,140 --> 00:12:39,080
+pas de malformations visibles macroscopiquement, qu'il n
+
+241
+00:12:39,080 --> 00:12:42,980
+'y a pas d'hydrocéphalie importante, qu'il
+
+242
+00:12:42,980 --> 00:12:44,660
+n'y a pas de choses qui sont
+
+243
+00:12:44,660 --> 00:12:45,980
+visibles macroscopiquement.
+
+244
+00:12:47,440 --> 00:12:49,220
+L'explication, c'est que ça se passe
+
+245
+00:12:49,220 --> 00:12:53,180
+à un niveau cellulaire, à un niveau de
+
+246
+00:12:53,180 --> 00:12:56,440
+réseau neuronal, qui fait que ces patients-là,
+
+247
+00:12:56,520 --> 00:13:02,240
+malheureusement, ils ont un cerveau qui mal fonctionne,
+
+248
+00:13:02,760 --> 00:13:04,940
+même s'il y a macroscopiquement, on voit
+
+249
+00:13:04,940 --> 00:13:06,580
+que le cerveau est de bonne taille, etc.
+
+250
+00:13:07,460 --> 00:13:09,260
+Donc ça, c'est très important.
+
+251
+00:13:09,360 --> 00:13:11,380
+Le fait de ne pas bien développer des
+
+252
+00:13:11,380 --> 00:13:15,800
+réseaux neuronaux en nombre suffisant et croissant durant
+
+253
+00:13:15,800 --> 00:13:18,780
+la petite enfance peut aboutir à ces retards
+
+254
+00:13:18,780 --> 00:13:19,680
+mentaux, malheureusement.
+
+255
+00:13:20,780 --> 00:13:23,480
+Par rapport à l'axone, c'est très
+
+256
+00:13:23,480 --> 00:13:25,860
+important de comprendre que l'axone, c'est
+
+257
+00:13:25,860 --> 00:13:30,000
+là où commence le potentiel d'action.
+
+258
+00:13:30,620 --> 00:13:32,400
+Vous pouvez me rappeler pourquoi le potentiel d
+
+259
+00:13:32,400 --> 00:13:34,280
+'action ne peut démarrer qu'au niveau de
+
+260
+00:13:34,280 --> 00:13:35,820
+l'axone et ne peut pas démarrer au
+
+261
+00:13:35,820 --> 00:13:38,120
+niveau des dendrites ou bien du corps cellulaire
+
+262
+00:13:40,200 --> 00:13:40,760
+?
+
+263
+00:13:47,260 --> 00:13:49,580
+Parce qu'il est riche en canaux sodiques.
+
+264
+00:13:50,620 --> 00:13:52,780
+Parce qu'il est riche en canaux sodiques
+
+265
+00:13:52,780 --> 00:13:57,860
+et que les corps cellulaires et les dendrites,
+
+266
+00:13:58,840 --> 00:14:01,740
+ils n'ont pas une quantité suffisante de
+
+267
+00:14:01,740 --> 00:14:02,300
+canaux sodiques.
+
+268
+00:14:02,460 --> 00:14:03,880
+Il y en a, mais pas en nombre
+
+269
+00:14:03,880 --> 00:14:04,840
+suffisant.
+
+270
+00:14:05,600 --> 00:14:10,160
+Ça, c'est très important et je vous
+
+271
+00:14:10,160 --> 00:14:11,480
+félicite pour cette réponse.
+
+272
+00:14:13,660 --> 00:14:18,460
+Donc, au niveau du corps cellulaire et au
+
+273
+00:14:18,460 --> 00:14:26,120
+niveau des dendrites, par exemple au niveau de
+
+274
+00:14:26,120 --> 00:14:29,980
+l'axone, comment le potentiel d'action va
+
+275
+00:14:29,980 --> 00:14:33,140
+naître au niveau du corps d'implantation ?
+
+276
+00:14:33,140 --> 00:14:35,580
+Ça va faire marche arrière ou quoi ?
+
+277
+00:14:35,580 --> 00:14:36,220
+Je n'ai pas compris.
+
+278
+00:14:37,800 --> 00:14:40,280
+Si le PPSE naît au niveau de l
+
+279
+00:14:40,280 --> 00:14:41,180
+'axone.
+
+280
+00:14:41,740 --> 00:14:42,560
+Qu'est-ce qui naît au niveau de
+
+281
+00:14:42,560 --> 00:14:43,660
+l'axone ?
+
+282
+00:14:43,660 --> 00:14:44,660
+Le PPSE.
+
+283
+00:14:45,860 --> 00:14:47,280
+Le PPSE ?
+
+284
+00:14:47,280 --> 00:14:47,820
+Oui.
+
+285
+00:14:48,760 --> 00:14:52,820
+Non, le PPSE naît au niveau des dendrites
+
+286
+00:14:52,820 --> 00:14:54,360
+et au niveau du corps cellulaire.
+
+287
+00:14:54,980 --> 00:14:57,000
+S'il va naître au niveau de l
+
+288
+00:14:57,000 --> 00:14:58,740
+'axone, c'est rare, c'est possible.
+
+289
+00:14:59,220 --> 00:15:01,300
+Dans tout ce qui est connexion axo-axonique,
+
+290
+00:15:01,820 --> 00:15:04,300
+c'est une situation rare, mais possible.
+
+291
+00:15:05,160 --> 00:15:06,500
+Dans ce cas, ce n'est pas un
+
+292
+00:15:06,500 --> 00:15:08,720
+PPSE qui va naître, c'est tout de
+
+293
+00:15:08,720 --> 00:15:10,780
+suite le PPSE qui va se transformer.
+
+294
+00:15:11,040 --> 00:15:13,760
+S'il atteint le seuil, il va se
+
+295
+00:15:13,760 --> 00:15:15,040
+transformer en potentiel d'action.
+
+296
+00:15:15,040 --> 00:15:16,980
+Mais ça, c'est une situation rare.
+
+297
+00:15:19,240 --> 00:15:19,440
+Ah bon.
+
+298
+00:15:20,360 --> 00:15:21,280
+Merci beaucoup.
+
+299
+00:15:22,480 --> 00:15:24,360
+Effectivement, le PPSE, c'est ce qu'on
+
+300
+00:15:24,360 --> 00:15:24,900
+va avoir.
+
+301
+00:15:25,120 --> 00:15:30,020
+Le PPSE, c'est une petite variation du
+
+302
+00:15:30,020 --> 00:15:30,480
+potentiel.
+
+303
+00:15:30,600 --> 00:15:32,240
+Je pense qu'on pourra en parler tout
+
+304
+00:15:32,240 --> 00:15:34,820
+à l'heure quand on va parler des
+
+305
+00:15:34,820 --> 00:15:37,680
+mécanismes de base du fonctionnement du neurone.
+
+306
+00:15:38,420 --> 00:15:42,300
+J'aimerais juste insister sur quelque chose d
+
+307
+00:15:42,300 --> 00:15:42,920
+'aussi important.
+
+308
+00:15:43,860 --> 00:15:46,240
+Comme on a vu qu'une anomalie de
+
+309
+00:15:46,240 --> 00:15:51,140
+l'architecture des dendrites avec l'absence d
+
+310
+00:15:51,140 --> 00:15:55,380
+'épines peut aboutir à des retards mentaux, le
+
+311
+00:15:55,380 --> 00:15:57,340
+fait de ne pas avoir un site squelette
+
+312
+00:15:57,340 --> 00:16:00,680
+correct au niveau de l'axone peut aboutir
+
+313
+00:16:00,680 --> 00:16:06,020
+aussi à de la neurodégénérescence.
+
+314
+00:16:06,620 --> 00:16:09,600
+La neurodégénérescence, c'est la mort neuronale programmée
+
+315
+00:16:09,600 --> 00:16:12,060
+qui n'est pas due à un facteur
+
+316
+00:16:12,060 --> 00:16:16,300
+externe comme une époxie, comme une infection, comme
+
+317
+00:16:16,300 --> 00:16:20,020
+une inflammation, comme un accident vasculaire, etc.
+
+318
+00:16:20,820 --> 00:16:25,260
+C'est un neurone qui, malheureusement, le programme
+
+319
+00:16:25,260 --> 00:16:27,780
+génétique fait qu'il n'y a pas
+
+320
+00:16:27,780 --> 00:16:32,080
+de site squelette correct, bien agencé, solide au
+
+321
+00:16:32,080 --> 00:16:32,860
+niveau des axones.
+
+322
+00:16:33,800 --> 00:16:35,020
+Et s'il n'y a pas de
+
+323
+00:16:35,020 --> 00:16:36,700
+site squelette correct au niveau de l'axone,
+
+324
+00:16:36,700 --> 00:16:39,700
+c'est quoi la conséquence ?
+
+325
+00:16:42,260 --> 00:16:43,760
+Il y aura deux conséquences importantes.
+
+326
+00:16:47,920 --> 00:16:48,640
+Pardon ?
+
+327
+00:16:48,640 --> 00:16:50,680
+Le transport axonal sera influencé.
+
+328
+00:16:51,820 --> 00:16:53,460
+Il n'y aura pas de transport axonal,
+
+329
+00:16:53,600 --> 00:16:54,000
+tout à fait.
+
+330
+00:16:54,340 --> 00:16:55,060
+Et s'il n'y a pas de
+
+331
+00:16:55,060 --> 00:16:57,000
+transport axonal, c'est comme si vous receviez
+
+332
+00:16:57,000 --> 00:17:00,380
+pas de l'eau, de la nourriture, de
+
+333
+00:17:00,380 --> 00:17:00,900
+l'oxygène.
+
+334
+00:17:02,140 --> 00:17:03,740
+Donc ça équivaut à ça.
+
+335
+00:17:03,880 --> 00:17:06,560
+Donc la cellule a besoin de transport axonal
+
+336
+00:17:06,560 --> 00:17:11,000
+pour survivre, pour transmettre les différents éléments nécessaires
+
+337
+00:17:11,000 --> 00:17:13,140
+depuis le corps cellulaire vers la terminaison nerveuse
+
+338
+00:17:13,140 --> 00:17:14,339
+et vice-versa.
+
+339
+00:17:14,700 --> 00:17:16,480
+Mais aussi, même le potentiel d'action ne
+
+340
+00:17:16,480 --> 00:17:19,359
+sera pas capable d'être transmis dans ces
+
+341
+00:17:19,359 --> 00:17:22,339
+neurones pathologiques, parce qu'il faut que l
+
+342
+00:17:22,339 --> 00:17:25,460
+'axone reste rigide, reste droit.
+
+343
+00:17:26,000 --> 00:17:30,880
+S'il est frêle, s'il est irrégulier,
+
+344
+00:17:31,360 --> 00:17:33,060
+le potentiel d'action ne va pas se
+
+345
+00:17:33,060 --> 00:17:34,020
+transmettre correctement.
+
+346
+00:17:34,380 --> 00:17:35,920
+Et ça aussi, ça peut provoquer la mort
+
+347
+00:17:35,920 --> 00:17:36,220
+nerveuse.
+
+348
+00:17:37,720 --> 00:17:41,000
+Donc je pense que cette partie-là, c
+
+349
+00:17:41,000 --> 00:17:42,680
+'est pas une partie difficile.
+
+350
+00:17:43,440 --> 00:17:47,720
+Là, pour le transport axonal, j'ai ajouté
+
+351
+00:17:47,720 --> 00:17:50,740
+cette photo que j'ai bien aimée, qui
+
+352
+00:17:50,740 --> 00:17:55,120
+vous montre que le transport axonal utilise le
+
+353
+00:17:55,120 --> 00:18:02,620
+cytoscolette comme autoroute sur laquelle vont se fixer
+
+354
+00:18:02,620 --> 00:18:05,120
+des molécules de transport qui s'appellent les
+
+355
+00:18:05,120 --> 00:18:05,600
+kinésines.
+
+356
+00:18:05,600 --> 00:18:09,440
+Ces molécules de transport ont comme deux pieds
+
+357
+00:18:09,440 --> 00:18:13,660
+collés sur le cytoscolette et une tête qui
+
+358
+00:18:13,660 --> 00:18:17,500
+transporte ou qui porte la vésicule ou bien
+
+359
+00:18:17,500 --> 00:18:18,580
+l'élément à transporter.
+
+360
+00:18:19,140 --> 00:18:21,220
+Ici, on a dessiné une vésicule, mais ça
+
+361
+00:18:21,220 --> 00:18:23,220
+peut être une enzyme, etc.
+
+362
+00:18:24,080 --> 00:18:26,420
+Donc ce qu'il fait, c'est qu
+
+363
+00:18:26,420 --> 00:18:27,340
+'il va marcher.
+
+364
+00:18:28,340 --> 00:18:31,840
+Chaque tête, chaque pied va se détacher de
+
+365
+00:18:31,840 --> 00:18:35,700
+l'axone et va pivoter et arriver en
+
+366
+00:18:35,700 --> 00:18:39,460
+avant du pied d'avant en utilisant de
+
+367
+00:18:39,460 --> 00:18:40,320
+l'énergie, de l'ATP.
+
+368
+00:18:40,460 --> 00:18:42,420
+Une fois qu'il va brûler de l
+
+369
+00:18:42,420 --> 00:18:45,020
+'ATP, ça va propulser ce pied vers l
+
+370
+00:18:45,020 --> 00:18:47,460
+'avant et ça va se faire de la
+
+371
+00:18:47,460 --> 00:18:48,780
+même façon pour l'autre pied, etc.
+
+372
+00:18:49,000 --> 00:18:51,120
+Donc c'est comme s'il marche sur
+
+373
+00:18:51,120 --> 00:18:52,360
+cette autoroute.
+
+374
+00:18:52,920 --> 00:18:54,820
+Et donc si on a un problème d
+
+375
+00:18:54,820 --> 00:18:59,080
+'ATP, d'énergie, le transport axonal est malheureusement
+
+376
+00:18:59,080 --> 00:18:59,760
+perturbé.
+
+377
+00:18:59,760 --> 00:19:06,340
+Donc je ferme la parenthèse sur ce cours
+
+378
+00:19:07,160 --> 00:19:09,420
+pour partir au deuxième cours, que je pense
+
+379
+00:19:09,420 --> 00:19:13,440
+comprendre beaucoup de choses qui nécessitent d'être
+
+380
+00:19:13,440 --> 00:19:14,880
+discutées.
+
+381
+00:19:23,710 --> 00:19:27,190
+J'espère que vous avez bien compris qu
+
+382
+00:19:27,190 --> 00:19:29,090
+'on a tous un potentiel de repos.
+
+383
+00:19:29,590 --> 00:19:31,810
+Un potentiel de repos qui est à peu
+
+384
+00:19:31,810 --> 00:19:33,070
+près à moins 70.
+
+385
+00:19:34,010 --> 00:19:34,670
+D'accord ?
+
+386
+00:19:34,670 --> 00:19:36,150
+On a un potentiel de repos à moins
+
+387
+00:19:36,150 --> 00:19:37,190
+70 à peu près.
+
+388
+00:19:37,690 --> 00:19:39,890
+Ce potentiel de repos est dû au fait
+
+389
+00:19:39,890 --> 00:19:42,810
+qu'il y a une répartition différentielle des
+
+390
+00:19:42,810 --> 00:19:46,090
+différents ions entre le milieu intracellulaire et extracellulaire.
+
+391
+00:19:46,670 --> 00:19:49,250
+Ça c'est parmi les mécanismes.
+
+392
+00:19:49,610 --> 00:19:50,490
+Qu'est-ce qui fait que les ions
+
+393
+00:19:50,490 --> 00:19:53,690
+ont une répartition différentielle différente entre le milieu
+
+394
+00:19:53,690 --> 00:20:00,090
+intracellulaire et extracellulaire ?
+
+395
+00:20:00,090 --> 00:20:02,070
+Vous savez que les ions ont besoin de
+
+396
+00:20:02,070 --> 00:20:04,790
+suivre leurs gradients de concentration.
+
+397
+00:20:05,190 --> 00:20:09,510
+Donc on suppose qu'ils vont être répartis
+
+398
+00:20:09,510 --> 00:20:11,710
+de façon égale entre le milieu intracellulaire et
+
+399
+00:20:11,710 --> 00:20:12,250
+l'extracellulaire.
+
+400
+00:20:12,530 --> 00:20:13,510
+Mais qu'est-ce qui fait que ce
+
+401
+00:20:13,510 --> 00:20:14,830
+n'est pas le cas ?
+
+402
+00:20:18,320 --> 00:20:21,240
+La pompe Na+, K+, ATPase.
+
+403
+00:20:22,660 --> 00:20:23,080
+Très bien.
+
+404
+00:20:24,680 --> 00:20:27,700
+Sur la membrane cellulaire, il y a une
+
+405
+00:20:27,700 --> 00:20:29,840
+protéine très importante qui est la pompe Na
+
+406
+00:20:29,840 --> 00:20:33,480
++, K+, ATPase qui est programmée génétiquement
+
+407
+00:20:33,480 --> 00:20:36,100
+pour faire sortir Na+, et faire entrer
+
+408
+00:20:36,100 --> 00:20:37,140
+K+.
+
+409
+00:20:37,140 --> 00:20:39,580
+Elle fait sortir 2 Na+, elle fait
+
+410
+00:20:39,580 --> 00:20:47,320
+sortir 3 Na+, elle fait entrer 2
+
+411
+00:20:47,320 --> 00:20:51,560
+K+, en utilisant de l'énergie.
+
+412
+00:20:51,780 --> 00:20:52,960
+Elle est programmée pour faire ça.
+
+413
+00:20:54,440 --> 00:20:57,180
+Donc elle fait sortir 3 Na+, elle
+
+414
+00:20:57,180 --> 00:20:58,290
+fait entrer 2 K+.
+
+415
+00:20:59,360 --> 00:21:01,820
+Ce qui fait que K+, va être
+
+416
+00:21:01,820 --> 00:21:04,340
+plus localisé à l'intérieur et Na+,
+
+417
+00:21:04,340 --> 00:21:05,560
+plus localisé à l'extérieur.
+
+418
+00:21:05,560 --> 00:21:08,740
+Donc même s'il y a des canaux
+
+419
+00:21:09,920 --> 00:21:12,740
+pour l'entrée et la sortie de Na
+
+420
+00:21:12,740 --> 00:21:14,880
++, K+, ces canaux sont fermés au
+
+421
+00:21:14,880 --> 00:21:15,160
+repos.
+
+422
+00:21:15,820 --> 00:21:17,820
+C'est aussi parmi les facteurs qui expliquent
+
+423
+00:21:17,820 --> 00:21:20,940
+pourquoi il n'y a pas de perturbations
+
+424
+00:21:20,940 --> 00:21:23,700
+en permanence du potentiel de repos.
+
+425
+00:21:25,450 --> 00:21:28,510
+La membrane aussi empêche la diffusion des ions.
+
+426
+00:21:28,810 --> 00:21:31,190
+C'est un obstacle qui permet de maintenir
+
+427
+00:21:31,190 --> 00:21:32,330
+ce gradient.
+
+428
+00:21:33,450 --> 00:21:38,010
+Les canaux qui sont là, les canaux tunnels
+
+429
+00:21:38,010 --> 00:21:43,970
+pour les différents ions, heureusement, sont tous fermés
+
+430
+00:21:43,970 --> 00:21:45,470
+en permanence, pour la plupart.
+
+431
+00:21:47,950 --> 00:21:51,210
+Toutefois, je l'avais mentionné, il y a
+
+432
+00:21:51,210 --> 00:21:52,150
+des canaux de fuite.
+
+433
+00:21:53,230 --> 00:21:54,470
+C'est-à-dire que si on a
+
+434
+00:21:54,470 --> 00:21:57,830
+un milliard de canaux, 10% vont rester
+
+435
+00:21:57,830 --> 00:21:59,530
+ouverts pour, par exemple, le K+.
+
+436
+00:21:59,530 --> 00:22:03,950
+Et 0,4 pour le Na+.
+
+437
+00:22:03,950 --> 00:22:05,710
+Ce qui fait que K+, il a
+
+438
+00:22:05,710 --> 00:22:10,430
+toujours plus de tendance à sortir que Na
+
+439
+00:22:10,430 --> 00:22:11,270
++, à entrer.
+
+440
+00:22:11,790 --> 00:22:12,950
+Ce qui fait que s'il y a
+
+441
+00:22:12,950 --> 00:22:15,110
+plus de charges qui sortent que de charges
+
+442
+00:22:15,110 --> 00:22:17,270
+qui entrent, on a toujours cette tendance à
+
+443
+00:22:17,270 --> 00:22:20,630
+maintenir le potentiel de repos négatif.
+
+444
+00:22:23,210 --> 00:22:26,050
+Donc ce potentiel qu'on avait dessiné ici,
+
+445
+00:22:27,680 --> 00:22:30,580
+il n'est pas vraiment droit, comme vous
+
+446
+00:22:30,580 --> 00:22:31,160
+le voyez là.
+
+447
+00:22:31,280 --> 00:22:32,920
+Il n'est pas toujours en permanence à
+
+448
+00:22:32,920 --> 00:22:33,500
+moins 70.
+
+449
+00:22:33,860 --> 00:22:36,060
+Il y a de petites variations physiologiques, puis
+
+450
+00:22:36,060 --> 00:22:37,300
+il revient à moins 70.
+
+451
+00:22:38,260 --> 00:22:40,980
+Ces petites variations, elles sont dues à ces
+
+452
+00:22:40,980 --> 00:22:43,120
+canaux de fuite dont on a parlé.
+
+453
+00:22:43,980 --> 00:22:48,820
+Mais heureusement, ça ne touche jamais le potentiel
+
+454
+00:22:48,820 --> 00:22:49,240
+seuil.
+
+455
+00:22:49,860 --> 00:22:53,200
+Ces variations physiologiques sont très petites pour arriver
+
+456
+00:22:53,200 --> 00:22:54,120
+au potentiel seuil.
+
+457
+00:22:56,640 --> 00:23:02,450
+Donc, quelqu'un peut m'expliquer ce qui
+
+458
+00:23:02,450 --> 00:23:04,330
+est à l'origine du potentiel seuil?
+
+459
+00:23:11,800 --> 00:23:13,660
+C'est quoi le seuil d'excitation et
+
+460
+00:23:13,660 --> 00:23:14,440
+qu'est-ce qui est à l'origine
+
+461
+00:23:14,440 --> 00:23:15,460
+du potentiel seuil?
+
+462
+00:23:26,410 --> 00:23:29,270
+La différence de la concentration des ions de
+
+463
+00:23:29,270 --> 00:23:30,270
+part et d'autre de la membrane.
+
+464
+00:23:36,570 --> 00:23:39,010
+Non, ce n'est pas la différence de
+
+465
+00:23:39,010 --> 00:23:40,750
+répartition des ions de part et d'autre
+
+466
+00:23:40,750 --> 00:23:44,470
+de la membrane qui va créer un potentiel
+
+467
+00:23:44,470 --> 00:23:44,950
+seuil.
+
+468
+00:23:44,950 --> 00:23:47,210
+Ça va créer un potentiel de repos.
+
+469
+00:23:48,350 --> 00:23:49,350
+Qu'est-ce qui est à l'origine
+
+470
+00:23:49,350 --> 00:23:50,290
+du potentiel seuil?
+
+471
+00:23:50,370 --> 00:23:53,430
+Il signifie quoi ce potentiel seuil en vrai?
+
+472
+00:23:53,610 --> 00:23:55,150
+Il signifie quoi et qu'est-ce qui
+
+473
+00:23:55,150 --> 00:23:55,710
+le provoque?
+
+474
+00:23:55,890 --> 00:23:56,790
+Qu'est-ce qui est à l'origine
+
+475
+00:23:56,790 --> 00:23:58,330
+de sa création?
+
+476
+00:23:59,590 --> 00:24:01,970
+Je pense que c'est la somme des
+
+477
+00:24:01,970 --> 00:24:05,770
+potentiels excitateurs et inhibiteurs pour atteindre le potentiel
+
+478
+00:24:05,770 --> 00:24:05,990
+seuil.
+
+479
+00:24:06,210 --> 00:24:06,790
+Donc, c'est la somme.
+
+480
+00:24:09,630 --> 00:24:10,630
+Non, pas vraiment.
+
+481
+00:24:10,770 --> 00:24:11,410
+Ce n'est pas la somme.
+
+482
+00:24:12,930 --> 00:24:14,790
+Stimulation du milieu extérieur.
+
+483
+00:24:17,010 --> 00:24:19,730
+Je ne veux pas...
+
+484
+00:24:19,730 --> 00:24:21,690
+Ma question ce n'est pas qu'est
+
+485
+00:24:21,690 --> 00:24:23,610
+-ce qui va ramener le potentiel de repos
+
+486
+00:24:23,610 --> 00:24:25,030
+au potentiel seuil.
+
+487
+00:24:25,230 --> 00:24:26,270
+Ce n'était pas ça ma question.
+
+488
+00:24:26,830 --> 00:24:30,190
+Les canons sont voltage-dépendants.
+
+489
+00:24:31,090 --> 00:24:31,530
+D'accord.
+
+490
+00:24:32,150 --> 00:24:32,510
+Et alors?
+
+491
+00:24:35,980 --> 00:24:38,540
+Ils ne peuvent servir que si le potentiel
+
+492
+00:24:38,540 --> 00:24:41,320
+de la membrane atteint une certaine valeur qui
+
+493
+00:24:41,320 --> 00:24:42,380
+correspond au seuil.
+
+494
+00:24:43,820 --> 00:24:44,640
+Très bien.
+
+495
+00:24:44,980 --> 00:24:45,100
+D'accord.
+
+496
+00:24:45,620 --> 00:24:50,400
+Donc, en fait, chez différentes espèces, il y
+
+497
+00:24:50,400 --> 00:24:51,980
+a les canaux sodiques.
+
+498
+00:24:52,700 --> 00:24:55,960
+Et ces canaux sodiques, c'est une protéine
+
+499
+00:24:55,960 --> 00:25:00,900
+qui était programmée génétiquement pour s'ouvrir à
+
+500
+00:25:00,900 --> 00:25:02,700
+un seuil particulier qui est à peu près
+
+501
+00:25:02,700 --> 00:25:03,460
+au moins 55.
+
+502
+00:25:06,380 --> 00:25:06,900
+Pourquoi?
+
+503
+00:25:07,340 --> 00:25:08,420
+En fait, qu'est-ce qui se passe?
+
+504
+00:25:09,160 --> 00:25:10,300
+Je ne sais pas où est-ce qu
+
+505
+00:25:10,300 --> 00:25:10,880
+'elle est la caméra.
+
+506
+00:25:10,880 --> 00:25:14,540
+Je ne sais pas pourquoi vous pouvez partager.
+
+507
+00:25:16,690 --> 00:25:18,990
+Vous pouvez partager après le partage de votre
+
+508
+00:25:18,990 --> 00:25:19,890
+écran.
+
+509
+00:25:26,080 --> 00:25:28,380
+Je vais arrêter le partage juste pour vous
+
+510
+00:25:28,380 --> 00:25:28,720
+montrer.
+
+511
+00:25:35,950 --> 00:25:39,550
+La protéine, c'est comme une structure qui
+
+512
+00:25:39,550 --> 00:25:40,870
+est tridimensionnelle.
+
+513
+00:25:41,050 --> 00:25:41,150
+D'accord?
+
+514
+00:25:41,790 --> 00:25:44,610
+Elle a une forme tridimensionnelle qui fait que
+
+515
+00:25:44,610 --> 00:25:47,370
+c'est un tunnel fermé au repos.
+
+516
+00:25:48,490 --> 00:25:50,650
+Pourquoi elle est fermée au repos?
+
+517
+00:25:54,450 --> 00:25:55,790
+Pourquoi elle est fermée au repos?
+
+518
+00:25:55,790 --> 00:25:57,810
+Parce que de part et d'autre de
+
+519
+00:25:57,810 --> 00:26:00,810
+la membrane, il y a un potentiel électrique,
+
+520
+00:26:00,930 --> 00:26:03,270
+ce qui fait que ce potentiel électrique, il
+
+521
+00:26:03,270 --> 00:26:08,010
+ferme, il va déformer la membrane, il va
+
+522
+00:26:08,010 --> 00:26:11,010
+déformer la protéine canale et il va la
+
+523
+00:26:11,010 --> 00:26:11,330
+fermer.
+
+524
+00:26:11,670 --> 00:26:12,750
+De part et d'autre, il va s
+
+525
+00:26:12,750 --> 00:26:16,210
+'exercer une force électrique qui va déformer la
+
+526
+00:26:16,210 --> 00:26:16,550
+protéine.
+
+527
+00:26:16,650 --> 00:26:18,670
+Et la protéine elle-même, elle a des
+
+528
+00:26:18,670 --> 00:26:20,430
+charges positives et négatives de part et d
+
+529
+00:26:20,430 --> 00:26:21,850
+'autre, ce qui fait qu'elle va être
+
+530
+00:26:21,850 --> 00:26:25,570
+influencée par le gradient électrique qui est de
+
+531
+00:26:25,570 --> 00:26:26,590
+part et d'autre de la membrane.
+
+532
+00:26:27,110 --> 00:26:29,490
+Ce qui fait que normalement elle était supposée
+
+533
+00:26:29,490 --> 00:26:32,550
+être comme ça, mais vu le potentiel à
+
+534
+00:26:32,550 --> 00:26:35,010
+moins 70 qui est fort, ça déforme la
+
+535
+00:26:35,010 --> 00:26:35,330
+membrane.
+
+536
+00:26:35,970 --> 00:26:38,150
+Elle devient fermée, elle n'est plus ouverte
+
+537
+00:26:38,150 --> 00:26:38,490
+comme ça.
+
+538
+00:26:38,990 --> 00:26:39,750
+Elle est fermée.
+
+539
+00:26:40,890 --> 00:26:43,070
+Et la tendance, elle veut toujours s'ouvrir,
+
+540
+00:26:43,070 --> 00:26:45,690
+mais elle ne peut s'ouvrir que lorsque
+
+541
+00:26:45,690 --> 00:26:49,530
+la différence de force entre le milieu intracellulaire
+
+542
+00:26:49,530 --> 00:26:52,450
+et extracellulaire devient de moins 55.
+
+543
+00:26:52,730 --> 00:26:54,270
+Elle est assez faible à moins 55.
+
+544
+00:26:54,750 --> 00:26:56,470
+Et le programme est génétiquement comme ça, à
+
+545
+00:26:56,470 --> 00:27:04,130
+être rigide à moins 55, à être déformée
+
+546
+00:27:04,890 --> 00:27:07,890
+quand on a une force plus que moins
+
+547
+00:27:07,890 --> 00:27:10,550
+55, moins 60, moins 65, etc.
+
+548
+00:27:10,550 --> 00:27:12,810
+Et ça, c'est très important parce que
+
+549
+00:27:12,810 --> 00:27:15,190
+cette protéine-là, elle peut être mal formée,
+
+550
+00:27:16,190 --> 00:27:17,590
+génétiquement mal formée.
+
+551
+00:27:20,290 --> 00:27:23,990
+Et ça fait qu'elle est plus rigide
+
+552
+00:27:23,990 --> 00:27:25,110
+que normalement.
+
+553
+00:27:25,710 --> 00:27:28,330
+Et donc, elle va s'ouvrir et elle
+
+554
+00:27:28,330 --> 00:27:31,990
+aura tendance à battre cette force électrique de
+
+555
+00:27:31,990 --> 00:27:33,610
+part et d'autre, non pas à moins
+
+556
+00:27:33,610 --> 00:27:36,730
+55, mais juste à moins 65, par exemple,
+
+557
+00:27:37,090 --> 00:27:38,270
+ou bien moins 66.
+
+558
+00:27:38,270 --> 00:27:40,850
+Et ça, c'est pathologique parce que c
+
+559
+00:27:40,850 --> 00:27:43,570
+'est très proche de moins 60.
+
+560
+00:27:43,890 --> 00:27:46,130
+C'est ce qui explique que certains patients
+
+561
+00:27:46,130 --> 00:27:48,810
+ont des épilepsies du fait qu'ils ont
+
+562
+00:27:48,810 --> 00:27:55,250
+une canalopathie type le canal NA+, voltage
+
+563
+00:27:55,250 --> 00:27:59,030
+dépendant, qui a un seuil d'excitation très
+
+564
+00:27:59,030 --> 00:28:02,070
+bas, proche du potentiel de repos.
+
+565
+00:28:03,630 --> 00:28:05,710
+Donc, je repartage mon écran.
+
+566
+00:28:18,080 --> 00:28:20,920
+Donc, si jamais ce potentiel...
+
+567
+00:28:20,920 --> 00:28:22,100
+Vous voyez mon écran, n'est-ce pas?
+
+568
+00:28:27,660 --> 00:28:31,920
+Si ce potentiel seuil est très proche de
+
+569
+00:28:31,920 --> 00:28:34,660
+moins 70, j'avais parlé tout à l
+
+570
+00:28:34,660 --> 00:28:36,140
+'heure de canaux de fils qui font que
+
+571
+00:28:36,140 --> 00:28:39,620
+le potentiel, même au repos, sans stimulation ni
+
+572
+00:28:39,620 --> 00:28:41,420
+rien, il y a de petites variations.
+
+573
+00:28:41,620 --> 00:28:43,780
+Et ces petites variations peuvent toucher le seuil
+
+574
+00:28:43,780 --> 00:28:47,700
+et les canaux vont s'ouvrir et on
+
+575
+00:28:47,700 --> 00:28:49,440
+va aboutir à un potentiel d'action.
+
+576
+00:28:49,840 --> 00:28:52,440
+Et on aboutit à un potentiel d'action
+
+577
+00:28:52,440 --> 00:28:54,360
+dit qu'on va avoir de l'électricité
+
+578
+00:28:54,360 --> 00:28:57,800
+et cette électricité en excès va donner lieu
+
+579
+00:28:57,800 --> 00:28:59,520
+à de l'épilepsie le plus souvent.
+
+580
+00:28:59,780 --> 00:29:02,800
+Donc, la pathologie la plus concernée par ce
+
+581
+00:29:02,800 --> 00:29:07,200
+genre de dysfonctionnement, c'est l'épilepsie.
+
+582
+00:29:11,760 --> 00:29:16,780
+Donc, je pense que c'est clair, ces
+
+583
+00:29:16,780 --> 00:29:17,460
+notions-là.
+
+584
+00:29:27,420 --> 00:29:29,900
+Quelqu'un peut m'expliquer la période réfractaire?
+
+585
+00:29:40,390 --> 00:29:41,950
+Vous pouvez m'expliquer, s'il vous plaît,
+
+586
+00:29:42,230 --> 00:29:44,870
+la période réfractaire, c'est quoi son rôle,
+
+587
+00:29:44,990 --> 00:29:46,110
+etc.?
+
+588
+00:29:49,080 --> 00:29:51,320
+La période réfractaire, monsieur, c'est un temps
+
+589
+00:29:51,320 --> 00:29:53,100
+dans lequel le neurone ne peut pas être
+
+590
+00:29:53,100 --> 00:29:57,020
+stimulé suite à une stimulation antécédente et ce
+
+591
+00:29:57,020 --> 00:29:59,520
+qui permet que le flux du potentiel d
+
+592
+00:29:59,520 --> 00:30:01,240
+'action va être dans un seul sens.
+
+593
+00:30:03,540 --> 00:30:04,520
+Oui, tout à fait.
+
+594
+00:30:05,340 --> 00:30:08,980
+Alors, c'est pas le neurone qui ne
+
+595
+00:30:08,980 --> 00:30:10,340
+peut pas être stimulé.
+
+596
+00:30:13,570 --> 00:30:14,550
+Les canaux.
+
+597
+00:30:15,870 --> 00:30:18,130
+Les canaux NA+, ne peuvent pas s
+
+598
+00:30:18,130 --> 00:30:18,470
+'ouvrir.
+
+599
+00:30:19,930 --> 00:30:20,310
+C'est ça.
+
+600
+00:30:21,390 --> 00:30:24,670
+Ces mêmes canaux, en plus de cette propriété
+
+601
+00:30:24,670 --> 00:30:30,210
+génétique qui leur est transmise de s'ouvrir
+
+602
+00:30:30,210 --> 00:30:33,470
+à moins de 55, ils ont une autre
+
+603
+00:30:33,470 --> 00:30:35,870
+propriété, c'est que s'ils vont s
+
+604
+00:30:35,870 --> 00:30:39,530
+'ouvrir pour donner lieu à un potentiel d
+
+605
+00:30:39,530 --> 00:30:41,770
+'action, ils ont besoin d'à peu près
+
+606
+00:30:41,770 --> 00:30:45,750
+200 millisecondes à 400 millisecondes pour être capable
+
+607
+00:30:45,750 --> 00:30:49,610
+d'être réexcité, réouvert, quand on va atteindre,
+
+608
+00:30:49,770 --> 00:30:52,990
+encore une fois, le potentiel de seuil.
+
+609
+00:30:54,110 --> 00:30:57,030
+Dans le cas d'implantation, par exemple, quand
+
+610
+00:30:57,030 --> 00:30:58,850
+on va avoir le premier potentiel d'action
+
+611
+00:30:58,850 --> 00:31:01,930
+qui va être transmis au premier nœud de
+
+612
+00:31:01,930 --> 00:31:05,870
+renvier suivant, le nœud de renvier suivant, normalement,
+
+613
+00:31:06,270 --> 00:31:09,470
+il va exciter le nœud de renvier, le
+
+614
+00:31:09,470 --> 00:31:11,770
+deuxième nœud de renvier, mais aussi le compte
+
+615
+00:31:11,770 --> 00:31:12,410
+d'implantation.
+
+616
+00:31:12,570 --> 00:31:15,230
+Mais les canaux qui sont dans le compte
+
+617
+00:31:15,230 --> 00:31:18,750
+d'implantation viennent juste d'être ouverts et
+
+618
+00:31:18,750 --> 00:31:21,170
+ne peuvent pas se réouvrir qu'après un
+
+619
+00:31:21,170 --> 00:31:21,630
+certain temps.
+
+620
+00:31:21,750 --> 00:31:23,950
+Ce qui fait que quand ce temps passe,
+
+621
+00:31:23,950 --> 00:31:32,570
+le potentiel d'action sera éloigné du compte
+
+622
+00:31:32,570 --> 00:31:33,790
+d'implantation, ce qui fait que ça ne
+
+623
+00:31:33,790 --> 00:31:35,390
+va pas revenir au compte d'implantation.
+
+624
+00:31:36,350 --> 00:31:37,710
+Et ça, c'est très important parce que,
+
+625
+00:31:37,890 --> 00:31:39,590
+comme ce qu'on a vu tout à
+
+626
+00:31:39,590 --> 00:31:45,830
+l'heure, le fait que la canalopathie programme
+
+627
+00:31:45,830 --> 00:31:50,090
+et génétique comme elle peut donner lieu à
+
+628
+00:31:50,090 --> 00:31:57,970
+un seuil d'ouverture qui est bas, elle
+
+629
+00:31:57,970 --> 00:32:00,530
+peut aussi donner lieu à une absence de
+
+630
+00:32:00,530 --> 00:32:01,450
+période réfractaire.
+
+631
+00:32:01,750 --> 00:32:02,830
+Mais si on a une absence de période
+
+632
+00:32:02,830 --> 00:32:08,230
+réfractaire, ce potentiel d'action va faire des
+
+633
+00:32:08,230 --> 00:32:10,950
+allers-retours entre chaque nœud de renvier et
+
+634
+00:32:10,950 --> 00:32:12,950
+entre les nœuds de renvier, le premier et
+
+635
+00:32:12,950 --> 00:32:14,790
+le compte d'implantation.
+
+636
+00:32:15,350 --> 00:32:16,570
+Ce qui va faire qu'au lieu d
+
+637
+00:32:16,570 --> 00:32:18,930
+'avoir un seul potentiel d'action qui va
+
+638
+00:32:18,930 --> 00:32:24,290
+arriver à la terminaison nerveuse suite au déclenchage
+
+639
+00:32:24,290 --> 00:32:26,590
+d'un potentiel d'action au niveau du
+
+640
+00:32:26,590 --> 00:32:28,730
+compte d'implantation, on va avoir un seul
+
+641
+00:32:28,730 --> 00:32:30,550
+potentiel d'action au niveau du compte d
+
+642
+00:32:30,550 --> 00:32:32,570
+'implantation qui va donner lieu à un nombre
+
+643
+00:32:32,570 --> 00:32:36,670
+illimité, théoriquement illimité, de potentiel d'action au
+
+644
+00:32:36,670 --> 00:32:38,050
+niveau de la terminaison nerveuse.
+
+645
+00:32:38,510 --> 00:32:40,270
+Pourquoi je dis théoriquement ?
+
+646
+00:32:40,270 --> 00:32:42,770
+Parce que vous le savez bien, pour qu
+
+647
+00:32:42,770 --> 00:32:44,070
+'il y ait un potentiel d'action, il
+
+648
+00:32:44,070 --> 00:32:46,070
+faut qu'il y ait un retour des
+
+649
+00:32:46,070 --> 00:32:50,670
+normes, des concentrations entre l'intérieur et l
+
+650
+00:32:50,670 --> 00:32:50,990
+'extérieur.
+
+651
+00:32:51,570 --> 00:32:54,230
+Vous vous rappelez de ça ?
+
+652
+00:32:58,680 --> 00:33:00,440
+Ça, c'est un élément très important.
+
+653
+00:33:00,620 --> 00:33:02,200
+Je reviens vers la plaque.
+
+654
+00:33:03,380 --> 00:33:09,580
+Quand on a un potentiel d'action, on
+
+655
+00:33:09,580 --> 00:33:11,100
+a eu une sortie de NA+, une
+
+656
+00:33:11,100 --> 00:33:13,260
+entrée de K+, ce qui fait qu
+
+657
+00:33:13,260 --> 00:33:17,940
+'à ce moment-là, durant cette période-là,
+
+658
+00:33:19,040 --> 00:33:20,460
+il y a plus de NA+, à
+
+659
+00:33:20,460 --> 00:33:23,000
+l'intérieur, que de K+, à l
+
+660
+00:33:23,000 --> 00:33:24,280
+'intérieur, n'est-ce pas ?
+
+661
+00:33:25,060 --> 00:33:26,620
+Et ça, ce n'est pas physiologique.
+
+662
+00:33:27,400 --> 00:33:30,100
+La physiologie normale dit qu'au repos, il
+
+663
+00:33:30,100 --> 00:33:31,180
+y a plus de NA+, à l
+
+664
+00:33:31,180 --> 00:33:32,840
+'extérieur et plus de K+, à l
+
+665
+00:33:32,840 --> 00:33:33,120
+'intérieur.
+
+666
+00:33:33,500 --> 00:33:35,180
+Mais à la fin du potentiel d'action,
+
+667
+00:33:36,920 --> 00:33:38,480
+à la fin du potentiel d'action, ce
+
+668
+00:33:38,480 --> 00:33:39,100
+n'est pas le cas, n'est-ce
+
+669
+00:33:39,100 --> 00:33:39,400
+pas ?
+
+670
+00:33:45,370 --> 00:33:45,850
+Allô ?
+
+671
+00:33:45,850 --> 00:33:47,410
+Vous êtes toujours là ?
+
+672
+00:33:51,480 --> 00:33:53,020
+Allô ?
+
+673
+00:33:53,020 --> 00:33:54,400
+Vous m'entendez ?
+
+674
+00:33:54,400 --> 00:33:55,640
+Oui, monsieur.
+
+675
+00:33:57,040 --> 00:33:58,100
+Pourquoi ce silence ?
+
+676
+00:33:58,100 --> 00:33:58,720
+Moi, j'ai cru qu'il n'y
+
+677
+00:33:58,720 --> 00:34:00,180
+avait plus personne ou bien qu'il y
+
+678
+00:34:00,180 --> 00:34:01,200
+avait un problème technique.
+
+679
+00:34:02,720 --> 00:34:04,020
+Est-ce que vous comprenez ce que je
+
+680
+00:34:04,020 --> 00:34:04,800
+dis ?
+
+681
+00:34:06,490 --> 00:34:07,290
+Oui, monsieur.
+
+682
+00:34:08,850 --> 00:34:12,190
+À la fin du potentiel d'action, on
+
+683
+00:34:12,190 --> 00:34:13,690
+n'a pas les conditions physiologiques.
+
+684
+00:34:13,730 --> 00:34:15,370
+Les conditions physiologiques, c'est qu'il y
+
+685
+00:34:15,370 --> 00:34:17,969
+a NA+, à l'extérieur et K
+
+686
+00:34:17,969 --> 00:34:18,710
++, à l'intérieur.
+
+687
+00:34:19,110 --> 00:34:20,250
+Mais à la fin, puisqu'il y a
+
+688
+00:34:20,250 --> 00:34:22,330
+une sortie de K+, et une entrée
+
+689
+00:34:22,330 --> 00:34:24,510
+de NA+, on a plus ici, à
+
+690
+00:34:24,510 --> 00:34:27,090
+ce niveau, on a plus de NA+,
+
+691
+00:34:27,090 --> 00:34:29,650
+à l'intérieur, et plus de K+,
+
+692
+00:34:29,650 --> 00:34:30,210
+à l'extérieur.
+
+693
+00:34:32,350 --> 00:34:33,909
+Donc, qu'est-ce qui va se passer
+
+694
+00:34:33,909 --> 00:34:34,449
+?
+
+695
+00:34:34,449 --> 00:34:36,489
+Il va y avoir la pompe NA+,
+
+696
+00:34:36,489 --> 00:34:39,929
+K+, ATPase qui va travailler et qui
+
+697
+00:34:39,929 --> 00:34:41,909
+va faire sortir NA+, et entrer K
+
+698
+00:34:41,909 --> 00:34:43,770
++, pour rétablir les équilibres.
+
+699
+00:34:43,770 --> 00:34:45,590
+Si on ne rétablit pas les équilibres, on
+
+700
+00:34:45,590 --> 00:34:47,429
+ne peut pas avoir un autre potentiel d
+
+701
+00:34:47,429 --> 00:34:48,550
+'action qui va se déclencher.
+
+702
+00:34:49,270 --> 00:34:50,909
+Mais tout ce que je suis en train
+
+703
+00:34:50,909 --> 00:34:52,690
+de décrire, ça se passe très rapidement.
+
+704
+00:34:53,530 --> 00:34:54,850
+Ça se passe très rapidement, c'est-à
+
+705
+00:34:54,850 --> 00:34:58,250
+-dire que en quelques millisecondes, rapidement, le système
+
+706
+00:34:58,250 --> 00:34:58,810
+est rétabli.
+
+707
+00:34:59,130 --> 00:35:00,570
+Les équilibres sont rétablis.
+
+708
+00:35:00,830 --> 00:35:02,210
+Mais ça consomme de l'énergie.
+
+709
+00:35:02,750 --> 00:35:03,810
+Donc, pourquoi j'ai dit tout à l
+
+710
+00:35:03,810 --> 00:35:06,770
+'heure, théoriquement, on va avoir un nombre illimité
+
+711
+00:35:06,770 --> 00:35:09,790
+de potentiel d'action, mais juste théoriquement, parce
+
+712
+00:35:09,790 --> 00:35:12,350
+qu'en vrai, dans la vraie vie, il
+
+713
+00:35:12,350 --> 00:35:14,170
+va y avoir une consommation d'énergie et
+
+714
+00:35:14,170 --> 00:35:15,670
+puis après, il va y avoir une mort
+
+715
+00:35:15,670 --> 00:35:18,310
+neuronale, parce qu'on ne va pas pouvoir
+
+716
+00:35:18,310 --> 00:35:21,890
+trouver de l'énergie pour maintenir un potentiel
+
+717
+00:35:21,890 --> 00:35:22,190
+d'action.
+
+718
+00:35:22,290 --> 00:35:24,450
+On va avoir de l'épuisement, à cause
+
+719
+00:35:24,450 --> 00:35:25,890
+du fait qu'on a consommé de l
+
+720
+00:35:25,890 --> 00:35:26,190
+'énergie.
+
+721
+00:35:27,290 --> 00:35:28,690
+Est-ce que c'est clair ?
+
+722
+00:35:30,840 --> 00:35:31,300
+Oui, monsieur.
+
+723
+00:35:34,410 --> 00:35:36,350
+Est-ce que tout le monde a bien
+
+724
+00:35:36,350 --> 00:35:38,650
+compris les mécanismes de propagation de l'influx
+
+725
+00:35:38,650 --> 00:35:40,150
+nerveux ?
+
+726
+00:35:40,150 --> 00:35:41,130
+Oui, monsieur.
+
+727
+00:35:43,320 --> 00:35:45,720
+D'accord, je passe sur ça.
+
+728
+00:35:47,100 --> 00:35:48,020
+Monsieur, s'il vous plaît.
+
+729
+00:35:50,600 --> 00:35:54,320
+Je voulais vous demander si la période réfractaire
+
+730
+00:35:54,320 --> 00:35:57,000
+elle est pour le neurone tout entier ou
+
+731
+00:35:57,000 --> 00:35:59,760
+bien c'est particulier pour chaque portion du
+
+732
+00:35:59,760 --> 00:36:03,460
+neurone ?
+
+733
+00:36:03,460 --> 00:36:07,180
+La période réfractaire, c'est une caractéristique de
+
+734
+00:36:07,180 --> 00:36:10,600
+tous les canaux au niveau de tous les
+
+735
+00:36:10,600 --> 00:36:12,760
+noeuds de renvier et au niveau du compte
+
+736
+00:36:12,760 --> 00:36:13,420
+d'implantation.
+
+737
+00:36:13,860 --> 00:36:19,440
+C'est une caractéristique de tous les canaux
+
+738
+00:36:19,440 --> 00:36:20,240
+sodiques.
+
+739
+00:36:20,980 --> 00:36:23,580
+Tous, quelle que soit leur localisation.
+
+740
+00:36:24,460 --> 00:36:26,340
+Donc, quand on va avoir un potentiel d
+
+741
+00:36:26,340 --> 00:36:29,400
+'action ici, il va se transmettre ici et
+
+742
+00:36:29,400 --> 00:36:32,420
+ici, il est capable d'activer ici et
+
+743
+00:36:32,420 --> 00:36:32,760
+ici.
+
+744
+00:36:33,240 --> 00:36:36,000
+Mais ici, il y avait juste dans les
+
+745
+00:36:36,000 --> 00:36:38,180
+millisecondes avant, il y avait juste un potentiel
+
+746
+00:36:38,180 --> 00:36:38,540
+d'action.
+
+747
+00:36:38,840 --> 00:36:40,220
+Donc, il ne peut pas revenir parce que
+
+748
+00:36:40,220 --> 00:36:41,680
+les canaux ne peuvent pas s'ouvrir ici.
+
+749
+00:36:42,480 --> 00:36:44,160
+Donc, ça va se transmettre juste à ce
+
+750
+00:36:44,160 --> 00:36:44,320
+niveau.
+
+751
+00:36:44,900 --> 00:36:47,680
+Et puis, à ce niveau, on va avoir
+
+752
+00:36:47,680 --> 00:36:50,580
+un potentiel d'action qui va activer cette
+
+753
+00:36:50,580 --> 00:36:51,440
+zone et cette zone.
+
+754
+00:36:51,820 --> 00:36:54,960
+Mais cette zone ne peut pas créer de
+
+755
+00:36:54,960 --> 00:36:55,920
+potentiel d'action.
+
+756
+00:36:56,240 --> 00:36:58,240
+Donc, il va se transmettre juste dans ce
+
+757
+00:36:58,240 --> 00:36:59,240
+noeud de renvier, etc.
+
+758
+00:37:00,160 --> 00:37:05,020
+Donc, la période réfractaire concerne tous les noeuds
+
+759
+00:37:05,020 --> 00:37:07,180
+de renvier, mais pas tous en même temps,
+
+760
+00:37:07,280 --> 00:37:07,680
+bien sûr.
+
+761
+00:37:09,000 --> 00:37:12,140
+À des millisecondes d'intervalle, si vous voulez.
+
+762
+00:37:12,260 --> 00:37:13,540
+Parce que tout ce qu'on est en
+
+763
+00:37:13,540 --> 00:37:16,040
+train de décrire, c'est vraiment très rapide.
+
+764
+00:37:16,900 --> 00:37:20,360
+On se dit ouverture des canaux, fermeture, etc.
+
+765
+00:37:20,560 --> 00:37:23,620
+Mais tout ça, ça se passe à une
+
+766
+00:37:23,620 --> 00:37:24,980
+vitesse astronomique.
+
+767
+00:37:30,760 --> 00:37:31,520
+Quoi d'autre?
+
+768
+00:37:31,520 --> 00:37:32,880
+Est-ce qu'il y a des notions
+
+769
+00:37:32,880 --> 00:37:34,520
+à vous expliquer?
+
+770
+00:37:34,600 --> 00:37:37,700
+Je pense que les différents mécanismes, les différentes
+
+771
+00:37:37,700 --> 00:37:40,780
+étapes de la transmission synaptique, c'est très
+
+772
+00:37:40,780 --> 00:37:42,600
+facile à comprendre.
+
+773
+00:37:43,580 --> 00:37:47,060
+Je rappelle le rôle important du calcium pour
+
+774
+00:37:47,060 --> 00:37:47,900
+la transmission.
+
+775
+00:37:48,640 --> 00:37:51,000
+Si on bloque l'entrée de calcium, on
+
+776
+00:37:51,000 --> 00:37:53,260
+ne peut plus avoir de transmission parce qu
+
+777
+00:37:53,260 --> 00:37:54,580
+'on ne peut plus avoir de fusion entre
+
+778
+00:37:54,580 --> 00:37:56,560
+les vésicules et la membrane présynaptique.
+
+779
+00:37:56,980 --> 00:37:57,880
+Ça, c'est très important.
+
+780
+00:38:02,900 --> 00:38:04,820
+Je passe sur ça.
+
+781
+00:38:08,020 --> 00:38:11,760
+Vous avez tous compris qu'un neurone, quand
+
+782
+00:38:11,760 --> 00:38:14,320
+il va activer un autre neurone, on ne
+
+783
+00:38:14,320 --> 00:38:16,200
+va pas toujours avoir un PPSE.
+
+784
+00:38:17,960 --> 00:38:19,120
+C'est-à-dire que l'objectif n
+
+785
+00:38:19,120 --> 00:38:20,240
+'est pas toujours la stimulation.
+
+786
+00:38:20,460 --> 00:38:22,080
+L'objectif, ça peut être l'inhibition.
+
+787
+00:38:22,880 --> 00:38:23,820
+Ça dépend de quoi?
+
+788
+00:38:23,820 --> 00:38:26,040
+Ça dépend de beaucoup de choses, y compris,
+
+789
+00:38:26,180 --> 00:38:28,180
+par exemple, quel type de canal on a
+
+790
+00:38:28,180 --> 00:38:28,620
+activé.
+
+791
+00:38:28,780 --> 00:38:29,900
+Est-ce qu'on a activé un canal
+
+792
+00:38:29,900 --> 00:38:31,680
+NA+, et dans ce cas, on va
+
+793
+00:38:31,680 --> 00:38:33,360
+être de l'excitation, ou est-ce qu
+
+794
+00:38:33,360 --> 00:38:34,740
+'on a activé un canal CL-?
+
+795
+00:38:34,780 --> 00:38:37,200
+Je vous rappelle que CL- est localisé
+
+796
+00:38:37,200 --> 00:38:39,760
+plus en extérieur qu'à l'intérieur.
+
+797
+00:38:39,960 --> 00:38:41,100
+Donc, quand il va s'ouvrir, il va
+
+798
+00:38:41,100 --> 00:38:44,280
+y avoir une entrée de charge négative aboutissant
+
+799
+00:38:44,280 --> 00:38:45,720
+à l'hyperpolarisation.
+
+800
+00:38:53,070 --> 00:38:53,710
+S'il vous plaît, monsieur.
+
+801
+00:38:54,970 --> 00:38:58,270
+Qu'est-ce qui va faire que les
+
+802
+00:38:58,270 --> 00:39:01,590
+vésicules synaptiques vont s'écréter des neurones médiateurs
+
+803
+00:39:01,590 --> 00:39:03,330
+excitateurs ou bien inhibiteurs?
+
+804
+00:39:09,300 --> 00:39:10,660
+C'est une très bonne question.
+
+805
+00:39:11,020 --> 00:39:12,140
+Est-ce que quelqu'un peut répondre à
+
+806
+00:39:12,140 --> 00:39:12,580
+cette question?
+
+807
+00:39:24,860 --> 00:39:26,000
+Personne ne connaît la réponse?
+
+808
+00:39:31,920 --> 00:39:34,160
+Je pense que l'arrivée de l'influx
+
+809
+00:39:34,160 --> 00:39:41,440
+nerveux avec l'éducation provoquera la sécrétion des
+
+810
+00:39:41,440 --> 00:39:44,320
+neurones excitateurs et puis après ce sera les
+
+811
+00:39:44,320 --> 00:39:46,360
+neurones inhibiteurs.
+
+812
+00:39:47,680 --> 00:39:47,960
+D'accord.
+
+813
+00:39:48,420 --> 00:39:48,940
+Très bien.
+
+814
+00:39:51,520 --> 00:39:53,080
+Vous savez qu'il y a des réseaux
+
+815
+00:39:53,080 --> 00:39:55,660
+neuronaux et il y a des projections neuronales.
+
+816
+00:39:56,860 --> 00:39:59,280
+Par exemple, supposons qu'il y a trois
+
+817
+00:39:59,280 --> 00:39:59,760
+structures.
+
+818
+00:39:59,980 --> 00:40:01,760
+Il y a la structure A, B et
+
+819
+00:40:01,760 --> 00:40:01,960
+C.
+
+820
+00:40:01,960 --> 00:40:04,140
+La C, c'est la cible.
+
+821
+00:40:04,940 --> 00:40:08,120
+Mais le C reçoit des projections excitatrices de
+
+822
+00:40:08,120 --> 00:40:11,080
+A et il reçoit des projections inhibitrices de
+
+823
+00:40:11,080 --> 00:40:11,280
+B.
+
+824
+00:40:12,120 --> 00:40:13,500
+Les A, c'est parce qu'il reçoit
+
+825
+00:40:13,500 --> 00:40:15,100
+du glutamate et B parce qu'il reçoit
+
+826
+00:40:15,100 --> 00:40:15,520
+du GABA.
+
+827
+00:40:17,580 --> 00:40:23,200
+Est-ce qu'on va sécréter des neurotransmetteurs
+
+828
+00:40:23,200 --> 00:40:24,160
+sur le C?
+
+829
+00:40:24,320 --> 00:40:25,880
+Est-ce que ça va être des neurotransmetteurs
+
+830
+00:40:25,880 --> 00:40:27,160
+excitateurs ou inhibiteurs?
+
+831
+00:40:27,160 --> 00:40:29,400
+Ça dépend de quel réseau on a activé.
+
+832
+00:40:29,580 --> 00:40:31,840
+Si on a activé le réseau AC, ça
+
+833
+00:40:31,840 --> 00:40:32,620
+va être excitateur.
+
+834
+00:40:32,720 --> 00:40:34,260
+Si on a activé le réseau BC, ça
+
+835
+00:40:34,260 --> 00:40:35,160
+va être inhibiteur.
+
+836
+00:40:35,860 --> 00:40:36,480
+Donc, ça dépend.
+
+837
+00:40:37,220 --> 00:40:38,260
+On a besoin de quoi?
+
+838
+00:40:38,400 --> 00:40:40,060
+Est-ce qu'on a besoin d'exciter
+
+839
+00:40:40,060 --> 00:40:41,120
+ou bien d'inhibir?
+
+840
+00:40:41,640 --> 00:40:47,180
+Sachant qu'énormément de choses se passent sous
+
+841
+00:40:47,180 --> 00:40:48,160
+le contrôle génétique.
+
+842
+00:40:49,400 --> 00:40:52,160
+Moi, je ne sais même pas comment ça
+
+843
+00:40:52,160 --> 00:40:52,520
+se passe.
+
+844
+00:40:52,960 --> 00:40:54,300
+J'ai appris ça en médecine.
+
+845
+00:40:54,980 --> 00:40:58,380
+Je ne sais absolument pas que pour pouvoir
+
+846
+00:40:58,380 --> 00:41:02,240
+bouger ma main vers une cible, il faut
+
+847
+00:41:02,240 --> 00:41:05,860
+qu'il y ait une activation des simulateurs,
+
+848
+00:41:05,980 --> 00:41:07,640
+une inhibition des inhibiteurs.
+
+849
+00:41:08,320 --> 00:41:10,360
+Et en même temps, un certain temps, ça
+
+850
+00:41:10,360 --> 00:41:11,280
+va être le contraire.
+
+851
+00:41:12,080 --> 00:41:19,760
+Une projection qui est inhibitrice va devenir excitée.
+
+852
+00:41:20,140 --> 00:41:20,500
+Pourquoi?
+
+853
+00:41:20,720 --> 00:41:21,960
+Parce que j'ai besoin qu'elle soit
+
+854
+00:41:21,960 --> 00:41:23,120
+excitée un certain temps.
+
+855
+00:41:23,620 --> 00:41:24,780
+Et ça se passe à un niveau très
+
+856
+00:41:24,780 --> 00:41:26,800
+inconscient, très rapide.
+
+857
+00:41:27,340 --> 00:41:28,140
+C'est du conscient.
+
+858
+00:41:28,440 --> 00:41:29,640
+C'est moi qui veux le faire.
+
+859
+00:41:30,120 --> 00:41:32,340
+Mais je ne sais pas comment j'utilise
+
+860
+00:41:32,340 --> 00:41:33,440
+mon cerveau pour le faire.
+
+861
+00:41:34,180 --> 00:41:36,220
+Heureusement que je ne peux pas, moi, contrôler
+
+862
+00:41:36,220 --> 00:41:37,660
+tout ça.
+
+863
+00:41:38,100 --> 00:41:41,600
+Je n'ai pas une capacité consciente de
+
+864
+00:41:41,600 --> 00:41:43,320
+contrôler tous les systèmes neuronaux.
+
+865
+00:41:43,740 --> 00:41:45,540
+Heureusement qu'on ne me demande pas de
+
+866
+00:41:45,540 --> 00:41:46,780
+faire ça parce que je ne pourrais pas
+
+867
+00:41:46,780 --> 00:41:47,140
+le faire.
+
+868
+00:41:47,240 --> 00:41:47,940
+C'est impossible.
+
+869
+00:41:50,120 --> 00:41:51,460
+Je donne l'ordre.
+
+870
+00:41:51,580 --> 00:41:52,640
+Je veux faire bouger ma main.
+
+871
+00:41:54,440 --> 00:41:55,960
+Je veux faire bouger ma main.
+
+872
+00:41:56,420 --> 00:41:59,560
+Pour faire bouger ma main, je reviens vers
+
+873
+00:41:59,560 --> 00:42:04,140
+l'écran pour vous montrer.
+
+874
+00:42:08,170 --> 00:42:09,490
+J'ai besoin de faire bouger ma main
+
+875
+00:42:09,490 --> 00:42:12,890
+comme ça, faire une extension, et d'arriver
+
+876
+00:42:12,890 --> 00:42:15,370
+vers le doigt et de m'arrêter à
+
+877
+00:42:15,370 --> 00:42:15,730
+ce niveau.
+
+878
+00:42:16,250 --> 00:42:18,430
+Je fais ce mouvement et j'essaie de
+
+879
+00:42:18,430 --> 00:42:19,730
+m'arrêter à ce niveau.
+
+880
+00:42:19,730 --> 00:42:20,950
+Je ne l'ai pas dépassé.
+
+881
+00:42:21,750 --> 00:42:24,090
+Je suis arrivé exactement à ce niveau.
+
+882
+00:42:24,990 --> 00:42:27,350
+Pour arriver exactement à ce niveau et s
+
+883
+00:42:27,350 --> 00:42:31,290
+'arrêter, je fais exciter d'abord les extenseurs
+
+884
+00:42:31,290 --> 00:42:34,990
+du coude et j'ai inhibé les fléchisseurs
+
+885
+00:42:34,990 --> 00:42:35,470
+du coude.
+
+886
+00:42:36,430 --> 00:42:39,090
+Mais en s'approchant de la cible, je
+
+887
+00:42:39,090 --> 00:42:40,350
+commence à faire le contraire.
+
+888
+00:42:41,030 --> 00:42:43,490
+Ceux qui étaient excités, je vais les inhiber.
+
+889
+00:42:43,750 --> 00:42:45,170
+Et ceux qui étaient inhibés, je vais les
+
+890
+00:42:45,170 --> 00:42:46,790
+exciter pour m'arrêter, pour freiner.
+
+891
+00:42:47,210 --> 00:42:48,490
+Je le fais rapidement.
+
+892
+00:42:48,830 --> 00:42:50,630
+Je ne suis même pas conscient que je
+
+893
+00:42:50,630 --> 00:42:50,950
+le fais.
+
+894
+00:42:52,090 --> 00:42:54,070
+Mais quand j'y réfléchis, je sais que
+
+895
+00:42:54,070 --> 00:42:54,510
+je l'ai fait.
+
+896
+00:42:56,310 --> 00:42:59,330
+Dans ce mouvement, à un certain moment, sur
+
+897
+00:42:59,330 --> 00:43:04,290
+la cible C, j'ai excité le A
+
+898
+00:43:04,290 --> 00:43:05,610
+et j'ai inhibé le B.
+
+899
+00:43:06,050 --> 00:43:07,090
+Mais à un certain moment, j'ai fait
+
+900
+00:43:07,090 --> 00:43:07,530
+le contraire.
+
+901
+00:43:07,650 --> 00:43:08,890
+J'ai excité le B et j'ai
+
+902
+00:43:08,890 --> 00:43:10,330
+inhibé le A.
+
+903
+00:43:12,350 --> 00:43:13,910
+Quel neurotransmetteur est utilisé ?
+
+904
+00:43:13,910 --> 00:43:15,050
+Est-ce que c'est les excitateurs ?
+
+905
+00:43:15,050 --> 00:43:16,010
+Est-ce que c'est les inhibiteurs ?
+
+906
+00:43:16,010 --> 00:43:18,770
+Ça dépend des besoins.
+
+907
+00:43:19,730 --> 00:43:21,070
+Mais je vais aller plus que ça.
+
+908
+00:43:21,770 --> 00:43:27,390
+Un seul neurotransmetteur peut être utilisé pour l
+
+909
+00:43:27,390 --> 00:43:29,930
+'excitation et des fois pour l'inhibition.
+
+910
+00:43:30,010 --> 00:43:31,350
+Ça dépend de son récepteur.
+
+911
+00:43:31,510 --> 00:43:32,790
+C'est ce qu'on va voir avec
+
+912
+00:43:32,790 --> 00:43:35,030
+une plaque intéressante que j'ai mise ce
+
+913
+00:43:35,030 --> 00:43:36,870
+matin pour partager avec vous.
+
+914
+00:43:54,150 --> 00:43:55,010
+Voilà la plaque.
+
+915
+00:43:56,710 --> 00:43:58,110
+Regardez la noradrénaline.
+
+916
+00:43:59,130 --> 00:44:00,590
+Vous voyez bien ma plaque, n'est-ce
+
+917
+00:44:00,590 --> 00:44:01,510
+pas ?
+
+918
+00:44:03,910 --> 00:44:04,890
+Oui, monsieur.
+
+919
+00:44:07,050 --> 00:44:11,170
+La noradrénaline qui est un neurotransmetteur qui peut
+
+920
+00:44:11,170 --> 00:44:13,790
+être des fois excitateur ou des fois inhibiteur.
+
+921
+00:44:14,070 --> 00:44:17,030
+Un seul neurotransmetteur peut avoir les deux actions.
+
+922
+00:44:17,550 --> 00:44:20,450
+Dépendant du réseau neuronal.
+
+923
+00:44:20,650 --> 00:44:22,550
+Est-ce qu'il est impliqué dans un
+
+924
+00:44:22,550 --> 00:44:26,510
+réseau neuronal avec un récepteur couplé à la
+
+925
+00:44:26,510 --> 00:44:30,710
+protéine G qui est excitateur, S, stimulateur ou
+
+926
+00:44:30,710 --> 00:44:33,930
+bien I, protéine G inhibitrice, GI.
+
+927
+00:44:34,950 --> 00:44:38,610
+Quand il va, par exemple, activer la protéine
+
+928
+00:44:38,610 --> 00:44:42,850
+G excitatrice, ça va aboutir à l'activation
+
+929
+00:44:42,850 --> 00:44:47,610
+de la sous-unité alpha qui va activer,
+
+930
+00:44:47,750 --> 00:44:49,710
+par exemple, l'adénine cyclase qui est une
+
+931
+00:44:49,710 --> 00:44:53,110
+enzyme importante pour transformer l'ATP en la
+
+932
+00:44:53,110 --> 00:44:53,670
+MPC-Clic.
+
+933
+00:44:53,930 --> 00:44:56,630
+La MPC-Clic va donc activer la protéine
+
+934
+00:44:56,630 --> 00:44:58,590
+kinase qui dit que la protéine kinase est
+
+935
+00:44:58,590 --> 00:45:00,530
+une simulation de l'activité cellulaire.
+
+936
+00:45:01,710 --> 00:45:05,610
+La même noradrénaline sur un autre récepteur qu
+
+937
+00:45:05,610 --> 00:45:07,810
+'on appelle alpha 2 et non pas le
+
+938
+00:45:07,810 --> 00:45:08,890
+bêta.
+
+939
+00:45:09,430 --> 00:45:11,510
+Quand il va activer l'alpha 2, qu
+
+940
+00:45:11,510 --> 00:45:12,630
+'est-ce qu'il va faire ?
+
+941
+00:45:12,630 --> 00:45:16,290
+Il va activer cette protéine G qui est
+
+942
+00:45:16,290 --> 00:45:16,970
+inhibitrice.
+
+943
+00:45:16,970 --> 00:45:19,330
+Cette protéine G, au lieu d'activer l
+
+944
+00:45:19,330 --> 00:45:21,650
+'adénine cyclase, va l'inhiber, ce qui fait
+
+945
+00:45:21,650 --> 00:45:23,130
+qu'il va y avoir moins d'AMPC
+
+946
+00:45:23,130 --> 00:45:25,730
+-Clic et moins de protéines kinase activées.
+
+947
+00:45:26,450 --> 00:45:32,050
+Vous voyez qu'on peut utiliser différents neurotransmetteurs,
+
+948
+00:45:32,130 --> 00:45:34,790
+excitateurs ou inhibiteurs selon nos besoins, mais aussi
+
+949
+00:45:34,790 --> 00:45:38,070
+le même neurotransmetteur.
+
+950
+00:45:38,270 --> 00:45:40,930
+On peut l'utiliser des fois pour activer
+
+951
+00:45:40,930 --> 00:45:43,710
+l'activité cellulaire ou bien pour l'inhiber.
+
+952
+00:45:43,710 --> 00:45:47,430
+Par exemple, parmi les conséquences de l'activation
+
+953
+00:45:47,430 --> 00:45:51,870
+en activant les récepteurs bêta, c'est de
+
+954
+00:45:51,870 --> 00:45:53,110
+contracter la cellule.
+
+955
+00:45:53,790 --> 00:45:56,410
+En activant l'alpha 2, c'est de
+
+956
+00:45:56,410 --> 00:45:59,970
+décontracter la cellule cardiaque, par exemple.
+
+957
+00:46:02,640 --> 00:46:03,940
+Est-ce que c'est clair, ça ?
+
+958
+00:46:06,460 --> 00:46:07,680
+Oui, monsieur, c'est clair.
+
+959
+00:46:10,440 --> 00:46:12,900
+Je passe sur les autres notions.
+
+960
+00:46:13,420 --> 00:46:14,260
+Je pense que c'est bon.
+
+961
+00:46:17,120 --> 00:46:18,680
+Est-ce que vous avez des questions pour
+
+962
+00:46:18,680 --> 00:46:29,560
+moi par
+
+963
+00:46:29,560 --> 00:46:32,580
+rapport à ce cours et par rapport au
+
+964
+00:46:32,580 --> 00:46:34,140
+cours de la somésthèse ?
+
+965
+00:46:38,010 --> 00:46:44,990
+Monsieur, vous pouvez expliquer les syndromes myasthéniques ?
+
+966
+00:46:44,990 --> 00:46:46,870
+Les syndromes myasthéniques ?
+
+967
+00:46:46,870 --> 00:46:47,530
+Oui, je peux.
+
+968
+00:46:49,050 --> 00:46:53,870
+Je peux le faire par une question d
+
+969
+00:46:53,870 --> 00:46:54,110
+'abord.
+
+970
+00:47:02,340 --> 00:47:04,320
+La question dit, est-ce qu'un syndrome
+
+971
+00:47:04,320 --> 00:47:06,520
+myasthénique peut être dû à un défaut d
+
+972
+00:47:06,520 --> 00:47:10,240
+'entrée des ions calcium dans l'élément présynaptique
+
+973
+00:47:10,240 --> 00:47:10,580
+?
+
+974
+00:47:10,580 --> 00:47:11,540
+Est-ce que vous pensez que c'est
+
+975
+00:47:11,540 --> 00:47:15,550
+juste ou pas ?
+
+976
+00:47:19,680 --> 00:47:21,480
+Pardon ?
+
+977
+00:47:21,480 --> 00:47:22,520
+Je n'ai pas entendu.
+
+978
+00:47:23,340 --> 00:47:26,640
+Est-ce qu'un syndrome myasthénique peut être
+
+979
+00:47:26,640 --> 00:47:28,760
+dû à un défaut d'entrée de calcium
+
+980
+00:47:28,760 --> 00:47:31,520
+dans l'élément présynaptique, oui ou non ?
+
+981
+00:47:32,960 --> 00:47:33,420
+Oui, monsieur.
+
+982
+00:47:34,780 --> 00:47:37,500
+Vous êtes d'accord avec le monsieur ?
+
+983
+00:47:39,700 --> 00:47:41,520
+C'est quoi un syndrome myasthénique ?
+
+984
+00:47:42,320 --> 00:47:45,720
+C'est un défaut de transmission cholinergique entre
+
+985
+00:47:45,720 --> 00:47:53,660
+le neurone et la plaque motrice et la
+
+986
+00:47:53,660 --> 00:47:55,380
+fibre musculaire dans la plaque motrice.
+
+987
+00:47:56,020 --> 00:47:58,240
+C'est grâce à l'astécoline qu'on
+
+988
+00:47:58,240 --> 00:48:01,700
+fait bouger nos muscles et donc pour faire
+
+989
+00:48:01,700 --> 00:48:03,220
+bouger les muscles, on a besoin d'une
+
+990
+00:48:03,220 --> 00:48:06,380
+transmission entre l'élément présynaptique qui est le
+
+991
+00:48:06,380 --> 00:48:08,340
+neurone et l'élément présynaptique qui est la
+
+992
+00:48:08,340 --> 00:48:09,000
+fibre musculaire.
+
+993
+00:48:09,700 --> 00:48:11,460
+Un syndrome myasthénique, c'est tout ce qui
+
+994
+00:48:11,460 --> 00:48:15,280
+peut provoquer l'absence de cette transmission, d
+
+995
+00:48:15,280 --> 00:48:16,240
+'accord ?
+
+996
+00:48:16,240 --> 00:48:18,960
+Donc naturellement, si on n'a pas une
+
+997
+00:48:18,960 --> 00:48:22,040
+entrée de Ca2+, dans l'élément présynaptique,
+
+998
+00:48:22,580 --> 00:48:24,400
+on ne peut pas avoir de fusion entre
+
+999
+00:48:24,400 --> 00:48:27,140
+les vesicules et l'élément présynaptique et donc
+
+1000
+00:48:27,140 --> 00:48:28,960
+on ne peut pas avoir une transmission.
+
+1001
+00:48:29,280 --> 00:48:29,760
+Donc c'est vrai.
+
+1002
+00:48:30,440 --> 00:48:31,840
+Est-ce qu'elle peut être due à
+
+1003
+00:48:31,840 --> 00:48:33,880
+un défaut d'entrée du neurotransmetteur dans les
+
+1004
+00:48:33,880 --> 00:48:35,180
+vesicules présynaptiques ?
+
+1005
+00:48:35,180 --> 00:48:36,260
+Oui ou non ?
+
+1006
+00:48:54,410 --> 00:48:56,710
+Un défaut de sortie ?
+
+1007
+00:49:01,350 --> 00:49:01,690
+Non.
+
+1008
+00:49:02,490 --> 00:49:04,570
+Vous pensez que c'est faux ?
+
+1009
+00:49:06,010 --> 00:49:06,710
+Oui, c'est faux.
+
+1010
+00:49:07,950 --> 00:49:09,270
+Vous êtes tous d'accord que c'est
+
+1011
+00:49:09,270 --> 00:49:10,130
+faux ?
+
+1012
+00:49:18,670 --> 00:49:19,990
+Monsieur, je pense que c'est vrai.
+
+1013
+00:49:21,410 --> 00:49:24,170
+Il ne peut pas rentrer depuis la fente
+
+1014
+00:49:24,170 --> 00:49:25,490
+synaptique jusqu'au vesicule.
+
+1015
+00:49:25,810 --> 00:49:27,430
+Il va rester dans la fente synaptique.
+
+1016
+00:49:28,550 --> 00:49:29,970
+Pardon madame, répète.
+
+1017
+00:49:31,850 --> 00:49:34,530
+Les neurotransmetteurs vont rester dans la fente synaptique
+
+1018
+00:49:34,530 --> 00:49:37,730
+et ne vont pas revenir au vesicule présynaptique.
+
+1019
+00:49:38,490 --> 00:49:40,510
+Donc tu penses que c'est vrai ?
+
+1020
+00:49:40,510 --> 00:49:41,390
+Oui, c'est vrai.
+
+1021
+00:49:43,510 --> 00:49:44,850
+C'est vrai, mais ce n'est pas
+
+1022
+00:49:44,850 --> 00:49:46,330
+la bonne explication.
+
+1023
+00:49:47,070 --> 00:49:50,290
+Vous savez que les neurotransmetteurs sont synthétisés dans
+
+1024
+00:49:50,290 --> 00:49:53,450
+la terminaison nerveuse, n'est-ce pas ?
+
+1025
+00:49:53,450 --> 00:49:55,410
+Pour tout ce qui est neurotransmetteur de petite
+
+1026
+00:49:55,410 --> 00:49:55,710
+taille.
+
+1027
+00:49:55,710 --> 00:49:58,170
+Les acides aminés et les amines.
+
+1028
+00:49:58,790 --> 00:50:00,510
+Pour tout ce qui est neurotransmetteur de grande
+
+1029
+00:50:00,510 --> 00:50:03,890
+taille, ils sont synthétisés dans le corps cellulaire.
+
+1030
+00:50:04,910 --> 00:50:08,070
+Mais concentrons-nous sur les neurotransmetteurs qui sont
+
+1031
+00:50:08,070 --> 00:50:10,550
+synthétisés dans la fente synaptique.
+
+1032
+00:50:11,690 --> 00:50:15,890
+Pas dans la fente synaptique, mais dans la
+
+1033
+00:50:15,890 --> 00:50:17,270
+terminaison nerveuse à ce niveau.
+
+1034
+00:50:18,090 --> 00:50:19,830
+D'accord ?
+
+1035
+00:50:19,830 --> 00:50:21,210
+Vous voyez ma plaque, n'est-ce pas
+
+1036
+00:50:21,210 --> 00:50:21,330
+?
+
+1037
+00:50:21,330 --> 00:50:21,770
+Je pense que vous la voyez.
+
+1038
+00:50:23,390 --> 00:50:27,490
+L'acétylcholine, par exemple, est due à la
+
+1039
+00:50:27,490 --> 00:50:30,590
+combinaison entre choline et acétyl-CoA par la
+
+1040
+00:50:30,590 --> 00:50:32,030
+choline acétyltransferase.
+
+1041
+00:50:32,370 --> 00:50:33,490
+Elle va donner de l'acétylcholine.
+
+1042
+00:50:34,050 --> 00:50:37,610
+Mais si jamais cet acétylcholine n'entre pas
+
+1043
+00:50:37,610 --> 00:50:39,650
+dans le vesicule, s'il y a un
+
+1044
+00:50:39,650 --> 00:50:42,490
+défaut de ce transporteur de l'acétylcholine qui
+
+1045
+00:50:42,490 --> 00:50:45,710
+est sur la membrane vésiculaire, s'il n
+
+1046
+00:50:45,710 --> 00:50:47,690
+'entre pas, il ne peut jamais être sécrété
+
+1047
+00:50:47,690 --> 00:50:49,290
+parce qu'il ne peut pas être sécrété
+
+1048
+00:50:49,290 --> 00:50:49,770
+tout seul.
+
+1049
+00:50:50,310 --> 00:50:53,330
+Il doit être emmagasiné dans la vésicule et
+
+1050
+00:50:53,330 --> 00:50:54,310
+il faut qu'il y ait l'entrée
+
+1051
+00:50:54,310 --> 00:51:00,090
+de calcium pour que cette vésicule fusionne avec
+
+1052
+00:51:00,090 --> 00:51:02,610
+cette membrane pour libérer son contenu.
+
+1053
+00:51:03,150 --> 00:51:03,870
+Donc s'il n'y a pas de
+
+1054
+00:51:03,870 --> 00:51:06,450
+transport de l'acétylcholine dans la vésicule, on
+
+1055
+00:51:06,450 --> 00:51:08,490
+ne peut pas avoir de transmission.
+
+1056
+00:51:08,730 --> 00:51:12,130
+Le syndrome myasthénique peut être dû aussi à
+
+1057
+00:51:12,130 --> 00:51:15,830
+un problème d'entrée d'un neurotransmetteur dans
+
+1058
+00:51:15,830 --> 00:51:16,450
+la vésicule.
+
+1059
+00:51:16,450 --> 00:51:18,910
+D'accord ?
+
+1060
+00:51:19,400 --> 00:51:20,810
+Est-ce qu'il peut être dû à
+
+1061
+00:51:20,810 --> 00:51:23,730
+une élimination rapide de l'acétylcholine dans la
+
+1062
+00:51:23,730 --> 00:51:27,210
+fente synaptique ?
+
+1063
+00:51:30,970 --> 00:51:32,550
+Tout le monde est d'accord que c
+
+1064
+00:51:32,550 --> 00:51:33,290
+'est juste ?
+
+1065
+00:51:42,090 --> 00:51:43,820
+S'il vous plaît, les autres ?
+
+1066
+00:51:59,440 --> 00:52:00,180
+Oui, c'est vrai.
+
+1067
+00:52:02,320 --> 00:52:03,400
+Moi je ne suis pas d'accord que
+
+1068
+00:52:03,400 --> 00:52:04,760
+c'est vrai parce que vous savez que
+
+1069
+00:52:04,760 --> 00:52:07,620
+l'acétylcholine, quand elle va jouer son rôle,
+
+1070
+00:52:07,740 --> 00:52:10,640
+elle est rapidement éliminée dans la fente synaptique.
+
+1071
+00:52:10,640 --> 00:52:12,320
+C'est la physiologie normale.
+
+1072
+00:52:15,020 --> 00:52:17,760
+Une fois qu'elle va jouer son rôle,
+
+1073
+00:52:17,920 --> 00:52:19,640
+elle est rapidement éliminée.
+
+1074
+00:52:21,740 --> 00:52:23,540
+C'est une question un peu difficile, piège,
+
+1075
+00:52:25,100 --> 00:52:27,320
+mais c'est la physiologie normale.
+
+1076
+00:52:28,040 --> 00:52:29,340
+Ce n'est plus un piège maintenant que
+
+1077
+00:52:29,340 --> 00:52:29,860
+je vous le dis.
+
+1078
+00:52:30,860 --> 00:52:33,700
+L'élimination rapide de l'acétylcholine, c'est
+
+1079
+00:52:33,700 --> 00:52:34,660
+une réalité physiologique.
+
+1080
+00:52:36,480 --> 00:52:38,700
+L'acétylcholine stérile, c'est ce qui élimine
+
+1081
+00:52:38,700 --> 00:52:40,220
+l'acétylcholine dans la fente synaptique.
+
+1082
+00:52:40,460 --> 00:52:42,020
+Elle le fait très rapidement, tout le temps,
+
+1083
+00:52:42,480 --> 00:52:43,640
+même en physiologie.
+
+1084
+00:52:44,100 --> 00:52:45,240
+Donc ce n'est pas ce qui explique,
+
+1085
+00:52:46,180 --> 00:52:47,500
+ce n'est pas ce qui va aboutir
+
+1086
+00:52:47,500 --> 00:52:48,540
+à un syndrome myosténique.
+
+1087
+00:52:52,530 --> 00:52:54,590
+La quatrième question, est-ce que ça peut
+
+1088
+00:52:54,590 --> 00:52:56,930
+être dû à un blocage de l'acétylcholestérase,
+
+1089
+00:52:56,990 --> 00:52:58,070
+oui ou non ?
+
+1090
+00:53:02,070 --> 00:53:02,350
+Oui.
+
+1091
+00:53:05,320 --> 00:53:07,600
+Les autres, est-ce que le blocage de
+
+1092
+00:53:07,600 --> 00:53:10,520
+l'acétylcholestérase peut aboutir à un syndrome myosténique
+
+1093
+00:53:10,520 --> 00:53:11,200
+?
+
+1094
+00:53:11,200 --> 00:53:11,740
+Oui.
+
+1095
+00:53:12,040 --> 00:53:13,800
+C'est-à-dire un défaut de transmission
+
+1096
+00:53:13,800 --> 00:53:16,900
+entre le neurone et la fibre musculaire.
+
+1097
+00:53:18,580 --> 00:53:19,340
+Oui, oui.
+
+1098
+00:53:19,740 --> 00:53:19,920
+Non.
+
+1099
+00:53:21,780 --> 00:53:23,600
+Non, moi je suis d'accord plus avec
+
+1100
+00:53:23,600 --> 00:53:24,460
+celui qui a dit non.
+
+1101
+00:53:25,400 --> 00:53:29,280
+Parce que si on bloque l'acétylcholestérase, qu
+
+1102
+00:53:29,280 --> 00:53:29,980
+'est-ce qu'on va faire ?
+
+1103
+00:53:29,980 --> 00:53:31,140
+On va faire en sorte qu'il y
+
+1104
+00:53:31,140 --> 00:53:34,220
+a plus d'acétylcholine disponible dans la synapse
+
+1105
+00:53:34,220 --> 00:53:37,200
+et donc ça va favoriser la transmission, au
+
+1106
+00:53:37,200 --> 00:53:37,520
+contraire.
+
+1107
+00:53:37,520 --> 00:53:40,480
+En fait, le blocage de l'acétylcholestérase, c
+
+1108
+00:53:40,480 --> 00:53:43,080
+'est un traitement d'une forme de syndrome
+
+1109
+00:53:43,080 --> 00:53:46,540
+myosténique qui est la myostémie auto-immune, d
+
+1110
+00:53:46,540 --> 00:53:47,040
+'accord ?
+
+1111
+00:53:47,040 --> 00:53:47,780
+Donc c'est faux.
+
+1112
+00:53:48,500 --> 00:53:49,480
+Pourquoi c'est faux ?
+
+1113
+00:53:49,480 --> 00:53:52,340
+Parce que ça n'aboutit pas à moins
+
+1114
+00:53:52,340 --> 00:53:55,500
+d'acétylcholine, ça aboutit à plus d'acétylcholine.
+
+1115
+00:53:56,080 --> 00:53:57,620
+Est-ce que vous êtes d'accord ?
+
+1116
+00:54:03,980 --> 00:54:04,800
+Oui, bien sûr.
+
+1117
+00:54:06,500 --> 00:54:07,260
+Très bien.
+
+1118
+00:54:07,960 --> 00:54:09,880
+Est-ce qu'en bloquant les récepteurs de
+
+1119
+00:54:09,880 --> 00:54:11,980
+l'acétylcholine, on va créer un syndrome myosténique
+
+1120
+00:54:11,980 --> 00:54:12,780
+?
+
+1121
+00:54:15,500 --> 00:54:17,260
+Oui, tout à fait.
+
+1122
+00:54:18,500 --> 00:54:22,660
+Donc en revenant à cette plaque, tout ce
+
+1123
+00:54:22,660 --> 00:54:26,380
+qui peut provoquer l'absence de transmission et
+
+1124
+00:54:26,380 --> 00:54:28,780
+de réception de l'acétylcholine, par exemple, il
+
+1125
+00:54:28,780 --> 00:54:31,140
+va aboutir à un syndrome myosténique, y compris
+
+1126
+00:54:31,140 --> 00:54:32,920
+le fait qu'il n'y a pas
+
+1127
+00:54:32,920 --> 00:54:38,080
+d'enzyme qui va synthétiser l'acétylcholine, il
+
+1128
+00:54:38,080 --> 00:54:41,860
+n'y a pas de transporteur de l
+
+1129
+00:54:41,860 --> 00:54:44,600
+'acétylcholine, il n'y a pas de fusion
+
+1130
+00:54:44,600 --> 00:54:48,720
+entre la vésicule et l'élément présynaptique parce
+
+1131
+00:54:48,720 --> 00:54:50,560
+qu'il n'y a pas de calcium
+
+1132
+00:54:50,560 --> 00:54:54,060
+qui entre ou bien parce que les protéines
+
+1133
+00:54:54,060 --> 00:54:58,940
+vésiculaires et synaptiques ne sont pas présentes et
+
+1134
+00:54:58,940 --> 00:55:01,200
+il y a un défaut de protéines parce
+
+1135
+00:55:01,200 --> 00:55:07,280
+que l'acétylcholine n'arrive pas à trouver
+
+1136
+00:55:07,280 --> 00:55:09,800
+des récepteurs parce que les récepteurs sont détruits
+
+1137
+00:55:09,800 --> 00:55:12,380
+ou bien bloqués par un antagoniste de l
+
+1138
+00:55:12,380 --> 00:55:13,900
+'acétylcholine, etc.
+
+1139
+00:55:15,680 --> 00:55:18,180
+Donc ne pas avoir de l'acétylcholine, ce
+
+1140
+00:55:18,180 --> 00:55:22,780
+n'est pas une cause de syndrome myosténique,
+
+1141
+00:55:23,020 --> 00:55:24,500
+au contraire, c'est une solution parce qu
+
+1142
+00:55:24,500 --> 00:55:26,240
+'on va maintenir plus d'acétylcholine, on ne
+
+1143
+00:55:26,240 --> 00:55:26,960
+va pas le détruire.
+
+1144
+00:55:28,200 --> 00:55:30,580
+Madame qui a posé la question sur le
+
+1145
+00:55:30,580 --> 00:55:32,060
+syndrome myosténique, est-ce que c'est clair
+
+1146
+00:55:32,060 --> 00:55:32,760
+pour toi maintenant?
+
+1147
+00:55:34,120 --> 00:55:36,020
+Oui, monsieur, maintenant c'est clair.
+
+1148
+00:55:37,320 --> 00:55:37,780
+Très bien.
+
+1149
+00:55:39,060 --> 00:55:41,660
+Alors j'aimerais bien vous poser une question
+
+1150
+00:55:41,660 --> 00:55:48,780
+par rapport au cours de la somésthésie.
+
+1151
+00:55:49,920 --> 00:55:51,640
+Voilà un patient de 40 ans qui se
+
+1152
+00:55:51,640 --> 00:55:53,420
+présente pour des douleurs de l'hémicorps droit
+
+1153
+00:55:54,400 --> 00:55:56,120
+qui est venu depuis 13 mois.
+
+1154
+00:55:58,140 --> 00:55:59,820
+C'est un patient qui vient nous voir
+
+1155
+00:55:59,820 --> 00:56:00,740
+et il nous dit qu'il a des
+
+1156
+00:56:00,740 --> 00:56:02,300
+douleurs de l'hémicorps droit et en faisant
+
+1157
+00:56:02,300 --> 00:56:05,880
+l'examen, rapidement on se rend compte qu
+
+1158
+00:56:05,880 --> 00:56:07,000
+'il n'arrive pas à reconnaître l'objet
+
+1159
+00:56:07,000 --> 00:56:08,740
+qu'on met sur l'hémicorps gauche.
+
+1160
+00:56:09,500 --> 00:56:12,280
+Je mets par exemple un diram sur sa
+
+1161
+00:56:12,280 --> 00:56:13,400
+peau et je lui dis ça c'est
+
+1162
+00:56:13,400 --> 00:56:14,420
+quoi, il n'arrive pas à se dire
+
+1163
+00:56:14,420 --> 00:56:14,820
+c'est quoi.
+
+1164
+00:56:14,820 --> 00:56:17,600
+Je lui donne un diram sur sa main,
+
+1165
+00:56:17,840 --> 00:56:22,420
+sur son torse, sur son ombre inférieure, je
+
+1166
+00:56:22,420 --> 00:56:23,340
+lui dis c'est quoi, il n'arrive
+
+1167
+00:56:23,340 --> 00:56:23,680
+pas.
+
+1168
+00:56:24,300 --> 00:56:26,620
+Je mets deux doigts, combien de doigts, il
+
+1169
+00:56:26,620 --> 00:56:27,200
+ne sait pas.
+
+1170
+00:56:28,100 --> 00:56:31,360
+Je mets du coton, puis je mets mon
+
+1171
+00:56:31,360 --> 00:56:32,460
+doigt, je lui dis est-ce que c
+
+1172
+00:56:32,460 --> 00:56:33,320
+'est du coton, est-ce que c'est
+
+1173
+00:56:33,320 --> 00:56:35,180
+mon doigt, il n'arrive pas à reconnaître
+
+1174
+00:56:35,180 --> 00:56:35,420
+ça.
+
+1175
+00:56:36,440 --> 00:56:37,740
+Du côté gauche.
+
+1176
+00:56:38,820 --> 00:56:40,600
+Et en même temps je mets un tube
+
+1177
+00:56:40,600 --> 00:56:42,800
+chaud et un tube froid sur son corps
+
+1178
+00:56:42,800 --> 00:56:45,380
+et il n'arrive pas à bien reconnaître
+
+1179
+00:56:45,380 --> 00:56:46,760
+est-ce que c'est froid ou chaud,
+
+1180
+00:56:46,940 --> 00:56:47,580
+du côté droit.
+
+1181
+00:56:48,240 --> 00:56:49,720
+Mais il arrive bien à le faire du
+
+1182
+00:56:49,720 --> 00:56:50,240
+côté gauche.
+
+1183
+00:56:51,920 --> 00:56:54,120
+Alors la question, est-ce qu'on a
+
+1184
+00:56:54,860 --> 00:56:56,980
+le système lumbiscale qui est épargné, oui ou
+
+1185
+00:56:56,980 --> 00:56:57,820
+non ?
+
+1186
+00:57:37,660 --> 00:57:40,300
+Vous avez vu le cours sur l'asthmésthésie
+
+1187
+00:57:43,790 --> 00:57:43,990
+?
+
+1188
+00:57:43,990 --> 00:57:44,390
+Oui monsieur.
+
+1189
+00:57:46,330 --> 00:57:47,670
+Monsieur, je pense que ça me dérange.
+
+1190
+00:57:49,270 --> 00:57:51,530
+Est-ce que le système lumbiscale est épargné
+
+1191
+00:57:51,530 --> 00:57:53,430
+ou touché ce patient ?
+
+1192
+00:57:53,430 --> 00:57:55,350
+Oui, il est touché.
+
+1193
+00:57:57,130 --> 00:57:59,810
+Parce qu'il n'arrive pas à discriminer.
+
+1194
+00:58:00,830 --> 00:58:01,530
+Du côté gauche.
+
+1195
+00:58:02,190 --> 00:58:03,690
+Le fait de ne pas reconnaître les objets,
+
+1196
+00:58:03,830 --> 00:58:05,350
+de ne pas dire est-ce qu'on
+
+1197
+00:58:05,350 --> 00:58:08,530
+est touché par un stylo ou bien par
+
+1198
+00:58:08,530 --> 00:58:11,510
+du coton, ça c'est du discriminatif.
+
+1199
+00:58:12,190 --> 00:58:14,090
+Et je vous rappelle que le discriminatif c
+
+1200
+00:58:14,090 --> 00:58:14,510
+'est le lumbiscale.
+
+1201
+00:58:16,090 --> 00:58:17,990
+Donc A, c'est faux.
+
+1202
+00:58:19,030 --> 00:58:20,150
+N'est-ce pas ?
+
+1203
+00:58:24,410 --> 00:58:24,890
+Oui monsieur.
+
+1204
+00:58:26,250 --> 00:58:28,590
+Alors, est-ce que le système extra-lumbiscale
+
+1205
+00:58:28,590 --> 00:58:31,790
+est atteint au niveau de l'hémicorps droit,
+
+1206
+00:58:31,870 --> 00:58:32,970
+oui ou non ?
+
+1207
+00:58:36,200 --> 00:58:36,780
+Oui monsieur.
+
+1208
+00:58:37,900 --> 00:58:39,180
+Tout à fait, parce qu'il n'arrive
+
+1209
+00:58:39,180 --> 00:58:40,900
+pas à reconnaître le chaud et le froid
+
+1210
+00:58:40,900 --> 00:58:41,780
+dans l'hémicorps droit.
+
+1211
+00:58:42,800 --> 00:58:44,660
+Est-ce que le patient a une atteinte
+
+1212
+00:58:44,660 --> 00:58:46,420
+au niveau du pan ?
+
+1213
+00:58:51,960 --> 00:58:53,700
+Monsieur, il ne peut pas reconnaître le chaud
+
+1214
+00:58:53,700 --> 00:58:55,640
+et le froid dans son hémicorps gauche.
+
+1215
+00:58:56,900 --> 00:58:57,980
+Dans l'hémicorps droit.
+
+1216
+00:58:59,440 --> 00:59:02,340
+Il ne reconnaît pas les objets dans l
+
+1217
+00:59:02,340 --> 00:59:04,160
+'hémicorps gauche, c'est-à-dire qu'il
+
+1218
+00:59:04,160 --> 00:59:06,600
+n'arrive pas à discriminer à gauche et
+
+1219
+00:59:06,600 --> 00:59:08,160
+il n'arrive pas à dire est-ce
+
+1220
+00:59:08,160 --> 00:59:09,440
+que c'est froid ou chaud à droite.
+
+1221
+00:59:10,600 --> 00:59:12,600
+Je dirais là du pan droit, pardon.
+
+1222
+00:59:17,130 --> 00:59:17,990
+Est-ce qu'il a une atteinte du
+
+1223
+00:59:17,990 --> 00:59:19,310
+pan droit ?
+
+1224
+00:59:21,330 --> 00:59:22,090
+Si oui, non.
+
+1225
+00:59:22,290 --> 00:59:24,610
+Sinon, pourquoi ?
+
+1226
+00:59:25,190 --> 00:59:26,250
+Si oui, pourquoi ?
+
+1227
+00:59:26,250 --> 00:59:27,610
+Sinon, pourquoi ?
+
+1228
+00:59:28,650 --> 00:59:29,650
+Argumentez-y s'il vous plaît.
+
+1229
+00:59:41,620 --> 00:59:43,680
+Monsieur, ça serait plutôt une atteinte de la
+
+1230
+00:59:43,680 --> 00:59:47,520
+moelle cervicale puisqu'elle peut sentir quelque chose
+
+1231
+00:59:47,520 --> 00:59:48,820
+au-dessus du C4.
+
+1232
+00:59:50,740 --> 00:59:51,380
+D'accord.
+
+1233
+00:59:53,740 --> 00:59:56,000
+Donc, est-ce que le pan peut expliquer
+
+1234
+00:59:56,000 --> 00:59:57,960
+sa symptomatologie ?
+
+1235
+00:59:57,960 --> 01:00:00,540
+Des fois, même si on est à C4,
+
+1236
+01:00:00,840 --> 01:00:02,500
+le patient peut ne pas être précis.
+
+1237
+01:00:03,280 --> 01:00:07,580
+Donc, ce n'est pas vraiment une explication
+
+1238
+01:00:07,580 --> 01:00:09,500
+pourquoi c'est le cervical qui est touché.
+
+1239
+01:00:10,520 --> 01:00:11,580
+Mais pourquoi ?
+
+1240
+01:00:11,580 --> 01:00:13,860
+Donc, pour vous, ce n'est pas le
+
+1241
+01:00:13,860 --> 01:00:14,780
+pan ?
+
+1242
+01:00:17,120 --> 01:00:18,900
+Si c'était le pan, ça serait plutôt
+
+1243
+01:00:18,900 --> 01:00:20,720
+global qu'au-dessus du C4.
+
+1244
+01:00:22,500 --> 01:00:23,300
+Pas global.
+
+1245
+01:00:25,340 --> 01:00:26,920
+Ce ne sera pas dissocié.
+
+1246
+01:00:30,250 --> 01:00:32,050
+Est-ce que vous avez remarqué qu'il
+
+1247
+01:00:32,050 --> 01:00:34,310
+y a une dissociation entre l'atteinte lémniscale
+
+1248
+01:00:34,310 --> 01:00:36,530
+et extra-lémniscale chez ce patient ?
+
+1249
+01:00:50,320 --> 01:00:51,240
+Oui ou non ?
+
+1250
+01:00:57,740 --> 01:00:59,520
+Oui, monsieur, il y a une dissociation.
+
+1251
+01:00:59,520 --> 01:01:04,720
+Parce que le système lémniscal est touché à
+
+1252
+01:01:04,720 --> 01:01:07,140
+gauche et l'extra-lémniscale est touché à
+
+1253
+01:01:07,140 --> 01:01:07,540
+droite.
+
+1254
+01:01:08,540 --> 01:01:09,620
+Donc, il y a une dissociation.
+
+1255
+01:01:10,380 --> 01:01:12,160
+Je vous ai dit dans le cours que
+
+1256
+01:01:12,160 --> 01:01:14,480
+s'il y a une dissociation, l'atteinte
+
+1257
+01:01:14,480 --> 01:01:17,820
+est localisée à quel niveau ?
+
+1258
+01:01:17,820 --> 01:01:18,760
+Les mémoires.
+
+1259
+01:01:20,040 --> 01:01:22,460
+Ça ne peut être que les mémoires, effectivement.
+
+1260
+01:01:23,240 --> 01:01:29,500
+Ça ne peut pas être au-dessus du
+
+1261
+01:01:29,500 --> 01:01:29,600
+C4.
+
+1262
+01:01:29,600 --> 01:01:33,800
+Au-dessus du bulbe, les deux systèmes se
+
+1263
+01:01:33,800 --> 01:01:34,440
+rejoignent.
+
+1264
+01:01:34,840 --> 01:01:37,280
+Par exemple, la sensibilité lémniscale et extra-lémniscale
+
+1265
+01:01:37,280 --> 01:01:39,660
+qui viennent de gauche vont se rejoindre dans
+
+1266
+01:01:39,660 --> 01:01:40,760
+le pan droit.
+
+1267
+01:01:41,600 --> 01:01:43,260
+Donc, si on a une atteinte du pan
+
+1268
+01:01:43,260 --> 01:01:45,040
+droit, ça va se manifester par une atteinte
+
+1269
+01:01:45,040 --> 01:01:46,880
+lémniscale et extra-lémniscale à gauche.
+
+1270
+01:01:47,660 --> 01:01:49,260
+Donc, la réponse C est fausse.
+
+1271
+01:01:50,860 --> 01:01:53,600
+Reste à dire, si c'est une mémoire,
+
+1272
+01:01:53,720 --> 01:01:54,160
+laquelle ?
+
+1273
+01:01:54,160 --> 01:01:55,340
+Est-ce qu'elle est à la droite
+
+1274
+01:01:55,340 --> 01:01:57,060
+ou à la gauche ?
+
+1275
+01:01:59,270 --> 01:02:03,380
+Les mémoires gauches.
+
+1276
+01:02:04,750 --> 01:02:07,450
+Bravo, c'est les mémoires gauches parce que
+
+1277
+01:02:07,450 --> 01:02:11,230
+les lémniscales ne croisent pas au niveau de
+
+1278
+01:02:11,230 --> 01:02:11,550
+la moelle.
+
+1279
+01:02:11,690 --> 01:02:12,810
+Elles restent au même niveau.
+
+1280
+01:02:13,290 --> 01:02:16,890
+Donc, si on a une atteinte lémniscale de
+
+1281
+01:02:16,890 --> 01:02:19,190
+l'hémicorps gauche, c'est la mémoire gauche
+
+1282
+01:02:19,190 --> 01:02:21,830
+qui est atteinte parce que l'information vient
+
+1283
+01:02:21,830 --> 01:02:23,590
+de la gauche et reste dans la gauche.
+
+1284
+01:02:24,150 --> 01:02:32,150
+Par contre, l'information qui vient de tout
+
+1285
+01:02:32,150 --> 01:02:34,470
+ce qui est thermoalgique de gauche va passer
+
+1286
+01:02:34,470 --> 01:02:35,150
+du côté droit.
+
+1287
+01:02:35,430 --> 01:02:38,090
+Donc, il sera épargné de l'hémimoire droite.
+
+1288
+01:02:38,730 --> 01:02:41,570
+C'est plutôt l'information thermoalgique qui vient
+
+1289
+01:02:41,570 --> 01:02:44,250
+de la droite qui va venir dans la
+
+1290
+01:02:44,250 --> 01:02:46,870
+moelle et croiser pour passer dans l'hémimoire
+
+1291
+01:02:46,870 --> 01:02:50,270
+gauche et qui va aboutir à une sensation.
+
+1292
+01:02:50,450 --> 01:02:51,650
+Même si c'est l'hémimoire gauche qui
+
+1293
+01:02:51,650 --> 01:02:54,570
+est atteinte, ça va donner un problème de
+
+1294
+01:02:54,570 --> 01:02:58,710
+douleur à droite et un problème de sensibilité
+
+1295
+01:02:58,710 --> 01:02:59,930
+thermoalgique à droite.
+
+1296
+01:03:01,110 --> 01:03:01,450
+D'accord?
+
+1297
+01:03:01,690 --> 01:03:03,030
+Donc, c'est le genre de questions que
+
+1298
+01:03:03,030 --> 01:03:05,350
+je pourrais vous poser durant l'examen.
+
+1299
+01:03:06,690 --> 01:03:08,430
+Ce sont des questions qui vous montrent l
+
+1300
+01:03:08,430 --> 01:03:12,910
+'importance de connaître les systèmes.
+
+1301
+01:03:13,390 --> 01:03:15,370
+On n'utilise pas tout ça juste pour
+
+1302
+01:03:15,370 --> 01:03:15,890
+ça.
+
+1303
+01:03:16,710 --> 01:03:20,690
+On utilise les systèmes sensitifs, les systèmes moteurs,
+
+1304
+01:03:21,310 --> 01:03:23,450
+les systèmes cérébeux, etc., parce que ça a
+
+1305
+01:03:23,450 --> 01:03:25,190
+une importance, c'est biologique.
+
+1306
+01:03:25,870 --> 01:03:28,230
+Parce que ce genre de patient, quand on
+
+1307
+01:03:28,230 --> 01:03:30,910
+va le recevoir, on va demander une IRM
+
+1308
+01:03:30,910 --> 01:03:32,130
+médulaire cervicale.
+
+1309
+01:03:32,550 --> 01:03:34,390
+On ne va pas demander une IRM médulaire
+
+1310
+01:03:34,390 --> 01:03:39,150
+lombaire ou bien lombo-sacrée ou bien scanner
+
+1311
+01:03:39,150 --> 01:03:42,130
+lombo-sacrée ou bien une IRM encéphalique.
+
+1312
+01:03:42,490 --> 01:03:43,810
+C'est une perce d'argent et d
+
+1313
+01:03:43,810 --> 01:03:44,170
+'énergie.
+
+1314
+01:03:44,750 --> 01:03:46,930
+Le patient va venir vous voir en tant
+
+1315
+01:03:46,930 --> 01:03:49,510
+que médecin, vous voyez ça, vous pensez à
+
+1316
+01:03:49,510 --> 01:03:53,170
+un problème encéphalique, vous demandez le scanner cérébral,
+
+1317
+01:03:53,690 --> 01:03:54,610
+il ne va rien montrer.
+
+1318
+01:03:55,390 --> 01:03:57,590
+Vous allez dire, attention, le scanner ne peut
+
+1319
+01:03:57,590 --> 01:03:58,710
+pas bien montrer les choses.
+
+1320
+01:03:58,810 --> 01:04:00,630
+Je vais demander l'IRM encéphalique.
+
+1321
+01:04:01,050 --> 01:04:03,170
+Vous demandez l'IRM encéphalique, ça ne montre
+
+1322
+01:04:03,170 --> 01:04:03,650
+rien.
+
+1323
+01:04:04,250 --> 01:04:06,090
+Et puis le patient va se lasser de
+
+1324
+01:04:06,090 --> 01:04:07,770
+vous et va partir chez quelqu'un d
+
+1325
+01:04:07,770 --> 01:04:07,890
+'autre.
+
+1326
+01:04:08,690 --> 01:04:10,730
+Et donc vous serez à ses yeux un
+
+1327
+01:04:10,730 --> 01:04:11,670
+médecin incompétent.
+
+1328
+01:04:12,810 --> 01:04:17,030
+Donc il faut bien maîtriser ces bases parce
+
+1329
+01:04:17,030 --> 01:04:18,270
+que c'est ça qui est important pour
+
+1330
+01:04:18,270 --> 01:04:18,510
+vous.
+
+1331
+01:04:19,070 --> 01:04:22,310
+Il faut bien sûr comprendre qu'en médecine,
+
+1332
+01:04:22,470 --> 01:04:23,930
+il y a des choses qui sont connues
+
+1333
+01:04:23,930 --> 01:04:27,130
+malheureusement qui sont un plus.
+
+1334
+01:04:27,810 --> 01:04:30,950
+On ne voit pas vraiment leur application clinique
+
+1335
+01:04:31,450 --> 01:04:33,650
+sauf si on est vraiment un hyper spécialiste
+
+1336
+01:04:33,650 --> 01:04:36,230
+qui va aller dans ce qui est biochimique
+
+1337
+01:04:36,230 --> 01:04:39,830
+de base pour comprendre la pharmacothérapie, etc.
+
+1338
+01:04:39,830 --> 01:04:41,210
+Mais ça, c'est vraiment rare.
+
+1339
+01:04:41,730 --> 01:04:45,770
+Les médecins généralistes, ils voient plus ces problèmes
+
+1340
+01:04:47,330 --> 01:04:52,930
+qui ont un impact dans la dysfonction des
+
+1341
+01:04:52,930 --> 01:04:56,990
+différents organes, tout ce qui est cœur, digestif,
+
+1342
+01:04:57,170 --> 01:04:57,390
+etc.
+
+1343
+01:04:57,470 --> 01:04:59,870
+Il faut comprendre pour pouvoir aider le patient.
+
+1344
+01:05:00,650 --> 01:05:01,870
+C'est la même chose et je viens
+
+1345
+01:05:01,870 --> 01:05:04,230
+de vous prouver que si on ne connaît
+
+1346
+01:05:04,230 --> 01:05:05,970
+pas ça, on ne peut pas aider le
+
+1347
+01:05:05,970 --> 01:05:06,230
+patient.
+
+1348
+01:05:06,230 --> 01:05:08,570
+Comme pour le syndrome myasthénique, si on ne
+
+1349
+01:05:08,570 --> 01:05:11,930
+connaît pas que le fait de bloquer la
+
+1350
+01:05:11,930 --> 01:05:14,690
+cysticônie stérase va aider le patient, on ne
+
+1351
+01:05:14,690 --> 01:05:16,590
+va jamais proposer au patient ce traitement.
+
+1352
+01:05:18,990 --> 01:05:21,410
+En comprenant qu'il y a un problème
+
+1353
+01:05:22,250 --> 01:05:24,690
+dans la myasthénie, je vais vous parler de
+
+1354
+01:05:24,690 --> 01:05:27,190
+la myasthénie auto-immune et ce qui se
+
+1355
+01:05:27,190 --> 01:05:28,490
+passe dans la myasthénie auto-immune.
+
+1356
+01:05:28,670 --> 01:05:32,870
+Si vous permettez, je vais arriver là pour
+
+1357
+01:05:32,870 --> 01:05:35,030
+vous montrer un autre exemple qui montre l
+
+1358
+01:05:35,030 --> 01:05:38,070
+'importance de ce système.
+
+1359
+01:05:38,670 --> 01:05:43,680
+La myasthénie, c'est vers la fin, l
+
+1360
+01:05:43,680 --> 01:05:45,320
+'application clinique, la myasthénie.
+
+1361
+01:05:46,240 --> 01:05:47,000
+Regardez ce schéma.
+
+1362
+01:05:49,940 --> 01:05:52,480
+Ce schéma montre l'exemple de la myasthénie
+
+1363
+01:05:52,480 --> 01:05:56,920
+auto-immune et pas du syndrome myasthénique.
+
+1364
+01:05:57,180 --> 01:05:59,100
+On est plus précis, on va parler de
+
+1365
+01:05:59,100 --> 01:06:00,160
+la myasthénie auto-immune.
+
+1366
+01:06:00,620 --> 01:06:01,380
+Qu'est-ce qui se passe dans la
+
+1367
+01:06:01,380 --> 01:06:03,040
+myasthénie auto-immune ?
+
+1368
+01:06:03,040 --> 01:06:05,300
+Vous voyez la plaque motrice, elle est grande,
+
+1369
+01:06:05,920 --> 01:06:11,480
+de surface grande, avec beaucoup de récepteurs, c
+
+1370
+01:06:11,480 --> 01:06:12,180
+'est très riche.
+
+1371
+01:06:13,260 --> 01:06:15,880
+Mais quand on va avoir la myasthénie auto
+
+1372
+01:06:15,880 --> 01:06:16,960
+-immune, qu'est-ce qui va se passer
+
+1373
+01:06:16,960 --> 01:06:17,520
+?
+
+1374
+01:06:17,520 --> 01:06:19,720
+On va avoir des anticorps qui vont attaquer
+
+1375
+01:06:19,720 --> 01:06:22,900
+ces récepteurs et vont les détruire, ce qui
+
+1376
+01:06:22,900 --> 01:06:25,900
+fait que cette plaque motrice qui était grande
+
+1377
+01:06:25,900 --> 01:06:32,240
+va devenir plus lisse, moins pliée, et donc
+
+1378
+01:06:32,240 --> 01:06:34,580
+moins de récepteurs.
+
+1379
+01:06:36,200 --> 01:06:38,020
+Vous voyez, il y a moins de récepteurs.
+
+1380
+01:06:38,940 --> 01:06:43,900
+Quelle est la réaction de la synapse ?
+
+1381
+01:06:43,900 --> 01:06:46,980
+C'est de synthétiser plus, de sécréter plus
+
+1382
+01:06:46,980 --> 01:06:48,860
+d'acidicoline pour compenser.
+
+1383
+01:06:50,180 --> 01:06:52,200
+Elle, elle voit que la transmission n'est
+
+1384
+01:06:52,200 --> 01:06:57,060
+pas efficace, n'est pas forte, pour compenser,
+
+1385
+01:06:57,060 --> 01:07:00,260
+on va synthétiser plus d'acidicoline.
+
+1386
+01:07:00,920 --> 01:07:02,880
+Mais dans la fonte synapsique, il y a
+
+1387
+01:07:02,880 --> 01:07:04,600
+l'acidicoline stérase, elle est stupide.
+
+1388
+01:07:04,760 --> 01:07:07,760
+Son rôle, elle, c'est juste de dégrader
+
+1389
+01:07:07,760 --> 01:07:08,440
+l'acidicoline.
+
+1390
+01:07:08,900 --> 01:07:11,140
+Donc si on donne une grande quantité, c
+
+1391
+01:07:11,140 --> 01:07:13,340
+'est du gaspillage, parce que cette grande quantité
+
+1392
+01:07:13,340 --> 01:07:18,540
+d'acidicoline va jouer son rôle, bien sûr,
+
+1393
+01:07:18,760 --> 01:07:20,700
+mais rapidement il sera éliminé par l'acidicoline
+
+1394
+01:07:20,700 --> 01:07:21,100
+stérase.
+
+1395
+01:07:21,640 --> 01:07:23,740
+Donc parmi les solutions qu'on a, c
+
+1396
+01:07:23,740 --> 01:07:25,720
+'est d'arrêter cette acidicoline stérase pour qu
+
+1397
+01:07:25,720 --> 01:07:27,420
+'elle ne dégrade pas l'acidicoline.
+
+1398
+01:07:27,560 --> 01:07:29,600
+Comme ça, on a plus d'acidicoline dans
+
+1399
+01:07:29,600 --> 01:07:33,320
+la synapse à être réutilisée et à être
+
+1400
+01:07:33,320 --> 01:07:36,340
+facilement capable de transmettre l'information.
+
+1401
+01:07:37,340 --> 01:07:40,400
+Donc il faut comprendre les bases pour pouvoir
+
+1402
+01:07:40,400 --> 01:07:41,160
+aider les patients.
+
+1403
+01:07:43,380 --> 01:07:44,140
+Est-ce que c'est clair ?
+
+1404
+01:07:44,140 --> 01:07:49,080
+S'il vous plaît, je ne comprends pas
+
+1405
+01:07:49,080 --> 01:07:53,340
+lorsque vous dites que l'acidicoline stérase détruit,
+
+1406
+01:07:53,420 --> 01:07:57,420
+parce que je pensais que l'acidicoline stérase
+
+1407
+01:07:57,420 --> 01:08:01,620
+détruisait l'acidicoline après que l'influx nerveux
+
+1408
+01:08:01,620 --> 01:08:04,780
+a été transmis pour empêcher de toujours exciter
+
+1409
+01:08:04,780 --> 01:08:06,920
+le neurone post...
+
+1410
+01:08:06,920 --> 01:08:08,720
+la synapse post.
+
+1411
+01:08:09,560 --> 01:08:12,260
+C'est tout à fait, et c'est
+
+1412
+01:08:12,260 --> 01:08:13,400
+ce que je viens de dire encore une
+
+1413
+01:08:13,400 --> 01:08:13,860
+fois ici.
+
+1414
+01:08:15,020 --> 01:08:21,060
+Quand cette quantité d'acidicoline est en excès,
+
+1415
+01:08:21,880 --> 01:08:23,899
+elle va exciter ces récepteurs.
+
+1416
+01:08:25,479 --> 01:08:28,120
+Mais rapidement, elle sera dégradée.
+
+1417
+01:08:28,500 --> 01:08:30,140
+Ce qui fait que quand on aura besoin
+
+1418
+01:08:30,140 --> 01:08:33,200
+encore une fois de transmettre, il n'y
+
+1419
+01:08:33,200 --> 01:08:34,040
+aura plus d'acidicoline.
+
+1420
+01:08:34,240 --> 01:08:35,680
+Il faut un peu de temps pour fabriquer
+
+1421
+01:08:35,680 --> 01:08:38,779
+une nouvelle fois l'acidicoline dans l'élément
+
+1422
+01:08:38,779 --> 01:08:39,580
+présynaptique.
+
+1423
+01:08:40,180 --> 01:08:41,560
+Mais si jamais on ne le détruit pas,
+
+1424
+01:08:41,660 --> 01:08:43,720
+on va le réutiliser facilement et plus rapidement.
+
+1425
+01:08:43,720 --> 01:08:47,720
+C'est pourquoi ces patients qui ont la
+
+1426
+01:08:47,720 --> 01:08:49,819
+myasthémie auto-immune, ils n'ont pas de
+
+1427
+01:08:49,819 --> 01:08:50,680
+déficit moteur.
+
+1428
+01:08:50,840 --> 01:08:52,700
+Ils ont une fatigabilité.
+
+1429
+01:08:53,359 --> 01:08:55,880
+Au début, ils ont une force correcte, mais
+
+1430
+01:08:55,880 --> 01:08:58,380
+quand ils font l'effort, ils se fatiguent
+
+1431
+01:08:58,380 --> 01:08:59,880
+et vont avoir un déficit.
+
+1432
+01:09:00,080 --> 01:09:01,939
+Parce qu'il y a une consommation et
+
+1433
+01:09:01,939 --> 01:09:03,819
+une destruction rapide de l'acidicoline.
+
+1434
+01:09:04,640 --> 01:09:05,540
+Est-ce que c'est clair, madame?
+
+1435
+01:09:07,729 --> 01:09:08,189
+Oui, monsieur.
+
+1436
+01:09:08,430 --> 01:09:08,550
+Merci.
+
+1437
+01:09:10,170 --> 01:09:10,649
+De rien.
+
+1438
+01:09:10,810 --> 01:09:11,670
+Est-ce qu'il y a des questions
+
+1439
+01:09:11,670 --> 01:09:12,290
+pour moi?
+
+1440
+01:09:16,290 --> 01:09:17,370
+Monsieur?
+
+1441
+01:09:18,010 --> 01:09:18,569
+Oui.
+
+1442
+01:09:19,149 --> 01:09:21,890
+Concernant la somesthésie, vous avez dit dans votre
+
+1443
+01:09:21,890 --> 01:09:25,450
+cours que pour les récepteurs encapsulés, la vitesse
+
+1444
+01:09:25,450 --> 01:09:28,290
+d'adaptation va être lente.
+
+1445
+01:09:30,710 --> 01:09:34,170
+Par contre, pour le récepteur de Rufini, on
+
+1446
+01:09:34,170 --> 01:09:36,350
+a vu qu'il fait partie des récepteurs
+
+1447
+01:09:36,350 --> 01:09:40,689
+qui sont encapsulés, mais il a une adaptation
+
+1448
+01:09:40,689 --> 01:09:42,069
+qui est donc toujours rapide.
+
+1449
+01:09:42,069 --> 01:09:46,279
+Pour les différents types de récepteurs, par exemple,
+
+1450
+01:09:46,479 --> 01:09:49,359
+les produits de Mestel et les disques de
+
+1451
+01:09:49,359 --> 01:09:52,500
+Merkel, la chance de la consommation est réduite.
+
+1452
+01:09:53,800 --> 01:09:54,600
+Bon, c'est bon.
+
+1453
+01:09:55,080 --> 01:09:55,420
+Désolé.
+
+1454
+01:09:58,820 --> 01:10:02,300
+Alors, les encapsulés, comme vous le voyez là,
+
+1455
+01:10:02,680 --> 01:10:05,260
+ils ont une capacité d'adaptation rapide.
+
+1456
+01:10:06,200 --> 01:10:06,380
+D'accord?
+
+1457
+01:10:07,160 --> 01:10:09,680
+Par contre, ceux qui ne sont pas encapsulés
+
+1458
+01:10:09,680 --> 01:10:10,700
+comme celle-là et celle-là, ils ont
+
+1459
+01:10:10,700 --> 01:10:12,520
+une capacité d'adaptation qui est lente.
+
+1460
+01:10:18,160 --> 01:10:21,340
+Mais pour Rufini, monsieur?
+
+1461
+01:10:22,600 --> 01:10:23,460
+Oui, pour Rufini.
+
+1462
+01:10:24,720 --> 01:10:25,200
+Oui.
+
+1463
+01:10:26,500 --> 01:10:27,840
+C'est quoi la question pour Rufini?
+
+1464
+01:10:28,980 --> 01:10:33,080
+Il fait partie des récepteurs capsulés, mais il
+
+1465
+01:10:33,080 --> 01:10:35,500
+a une vitesse d'adaptation qui est toujours
+
+1466
+01:10:35,500 --> 01:10:35,940
+lente.
+
+1467
+01:10:36,720 --> 01:10:37,820
+C'est pas...
+
+1468
+01:10:37,820 --> 01:10:40,960
+Regardez là, ce récepteur, comment il est encapsulé.
+
+1469
+01:10:41,820 --> 01:10:43,280
+Encapsulé avec plusieurs couches.
+
+1470
+01:10:43,400 --> 01:10:45,800
+Ces couches-là permettent d'absorber l'onde
+
+1471
+01:10:45,800 --> 01:10:50,400
+de choc et d'empêcher, donc, l'élément
+
+1472
+01:10:50,400 --> 01:10:52,540
+central qui, là où il y a les
+
+1473
+01:10:52,540 --> 01:10:55,140
+récepteurs sensibles à l'étirement, ils vont l
+
+1474
+01:10:55,140 --> 01:10:58,460
+'empêcher de sentir le stimulus.
+
+1475
+01:10:58,680 --> 01:11:00,580
+Et donc, ça va avoir une adaptation rapide.
+
+1476
+01:11:00,940 --> 01:11:03,440
+Par contre, celui-là, l'élément central n
+
+1477
+01:11:03,440 --> 01:11:06,120
+'a pas de couches qui le protègent, qui
+
+1478
+01:11:06,120 --> 01:11:09,520
+sont importantes, et facilement, donc, il va continuer
+
+1479
+01:11:09,520 --> 01:11:13,540
+à sentir le stimulus et à ne pas
+
+1480
+01:11:13,540 --> 01:11:16,080
+arrêter la transmission.
+
+1481
+01:11:17,340 --> 01:11:20,660
+Ça me rappelle, donc, ce schéma que j
+
+1482
+01:11:20,660 --> 01:11:23,460
+'ai rajouté cette année qui est intéressant et
+
+1483
+01:11:23,460 --> 01:11:25,360
+qui montre, donc, comment est-ce qu'on
+
+1484
+01:11:25,360 --> 01:11:28,060
+va stimuler par juste le fait de toucher
+
+1485
+01:11:28,060 --> 01:11:30,200
+notre main, pourquoi on va sentir.
+
+1486
+01:11:31,140 --> 01:11:33,780
+Parce que, je pense, j'espère que vous
+
+1487
+01:11:33,780 --> 01:11:36,460
+avez bien compris que ces récepteurs sont comme
+
+1488
+01:11:36,460 --> 01:11:37,600
+des portes.
+
+1489
+01:11:38,080 --> 01:11:40,920
+Et donc, des portes qui sont reliées à
+
+1490
+01:11:40,920 --> 01:11:46,520
+ça, on peut le considérer comme notre main
+
+1491
+01:11:46,520 --> 01:11:48,740
+qui est posée sur cette porte.
+
+1492
+01:11:49,160 --> 01:11:50,580
+Une fois qu'on tire sur notre main,
+
+1493
+01:11:50,700 --> 01:11:52,140
+on va ouvrir la porte et on va
+
+1494
+01:11:52,140 --> 01:11:55,880
+laisser entrer des éléments, des ions qui sont
+
+1495
+01:11:55,880 --> 01:11:57,440
+positifs ou bien négatifs.
+
+1496
+01:11:57,640 --> 01:11:59,900
+La plupart du temps, pour la stimulation, c
+
+1497
+01:11:59,900 --> 01:12:00,360
+'est positif.
+
+1498
+01:12:00,360 --> 01:12:02,000
+Ça doit être des ions qui vont entrer,
+
+1499
+01:12:02,100 --> 01:12:04,180
+qui vont ramener avec eux des charges positives
+
+1500
+01:12:04,180 --> 01:12:05,360
+pour stimuler.
+
+1501
+01:12:07,360 --> 01:12:12,000
+La déformation de la membrane et de l
+
+1502
+01:12:12,000 --> 01:12:17,260
+'environnement extracellulaire ou bien intracellulaire peut aboutir à
+
+1503
+01:12:17,260 --> 01:12:22,360
+un déplacement des protéines extra- ou intracellulaires
+
+1504
+01:12:22,360 --> 01:12:23,960
+aboutissant à la...
+
+1505
+01:12:23,960 --> 01:12:26,300
+Ça, c'est comme une porte.
+
+1506
+01:12:26,420 --> 01:12:27,500
+Il faut la considérer comme une porte.
+
+1507
+01:12:27,500 --> 01:12:29,500
+Quand on tire sur la porte, il va
+
+1508
+01:12:29,500 --> 01:12:29,980
+s'ouvrir.
+
+1509
+01:12:30,380 --> 01:12:32,040
+Et quand on tire pas, il va rester
+
+1510
+01:12:32,040 --> 01:12:32,620
+fermé.
+
+1511
+01:12:34,060 --> 01:12:35,380
+Est-ce que vous avez d'autres questions
+
+1512
+01:12:35,380 --> 01:12:35,780
+pour moi?
+
+1513
+01:12:48,790 --> 01:12:49,150
+Très bien.
+
+1514
+01:12:49,370 --> 01:12:53,970
+Donc, je pense que on va retarder la
+
+1515
+01:12:53,970 --> 01:12:55,530
+deuxième séance interactive.
+
+1516
+01:12:56,250 --> 01:12:58,030
+Je l'avais programmée pour la semaine prochaine,
+
+1517
+01:12:58,550 --> 01:13:01,610
+mais je pense qu'on va la retarder
+
+1518
+01:13:01,610 --> 01:13:04,190
+jusqu'à ce qu'on fasse plus de
+
+1519
+01:13:04,190 --> 01:13:05,370
+cours ensemble.
+
+1520
+01:13:06,950 --> 01:13:09,870
+Hier, je vous ai déposé deux cours que
+
+1521
+01:13:09,870 --> 01:13:11,810
+je n'ai pas pu déposer la semaine
+
+1522
+01:13:11,810 --> 01:13:14,350
+dernière vu le problème technique qu'il y
+
+1523
+01:13:14,350 --> 01:13:14,530
+avait.
+
+1524
+01:13:15,290 --> 01:13:19,670
+J'ai déposé donc la physiologie de la
+
+1525
+01:13:19,670 --> 01:13:23,310
+douleur et j'ai commencé les systèmes sensoriels
+
+1526
+01:13:23,310 --> 01:13:24,030
+par l'audition.
+
+1527
+01:13:25,990 --> 01:13:30,250
+Je vais, par la suite, vous déposer plus
+
+1528
+01:13:30,250 --> 01:13:32,610
+de cours sur tout ce qui est sensoriel.
+
+1529
+01:13:33,190 --> 01:13:35,290
+C'est des cours qui se rapprochent de
+
+1530
+01:13:35,290 --> 01:13:37,390
+tout ce qui est audition, vision, etc.
+
+1531
+01:13:37,950 --> 01:13:41,050
+C'est l'objectif principal sur lequel je
+
+1532
+01:13:41,050 --> 01:13:42,450
+peux poser des questions et je vous le
+
+1533
+01:13:42,450 --> 01:13:44,390
+dis d'emblée, c'est tout ce qui
+
+1534
+01:13:44,390 --> 01:13:46,210
+est transduction du message.
+
+1535
+01:13:46,490 --> 01:13:48,850
+Comprendre comment est-ce qu'on va transformer
+
+1536
+01:13:48,850 --> 01:13:52,470
+un message mécanique comme ici en un message
+
+1537
+01:13:52,470 --> 01:13:54,490
+électrique, un message chimique en un message électrique,
+
+1538
+01:13:54,870 --> 01:13:59,030
+un message photique en un message électrique, un
+
+1539
+01:13:59,030 --> 01:14:01,030
+message sonore en un message électrique, etc.
+
+1540
+01:14:05,130 --> 01:14:07,110
+Donc, vous avez d'autres questions pour moi
+
+1541
+01:14:07,110 --> 01:14:07,930
+?
+
+1542
+01:14:18,010 --> 01:14:19,410
+Si vous n'avez pas d'autres questions,
+
+1543
+01:14:19,530 --> 01:14:20,830
+je vous remercie pour cette séance.
+
+1544
+01:14:21,570 --> 01:14:24,010
+Est-ce que vous pouvez nous laisser votre
+
+1545
+01:14:24,010 --> 01:14:24,950
+e-mail s'il vous plaît, s'il
+
+1546
+01:14:24,950 --> 01:14:27,030
+est possible ?
+
+1547
+01:14:27,030 --> 01:14:27,990
+Mon e-mail, bien sûr.
+
+1548
+01:14:44,820 --> 01:14:45,920
+Bonne chance à tout le monde.
+
+1549
+01:14:48,940 --> 01:14:49,560
+Au revoir.

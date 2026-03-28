@@ -1,0 +1,2107 @@
+1
+00:00:01,540 --> 00:00:04,660
+Bonjour, on va entamer ensemble ce deuxième cours
+
+2
+00:00:04,660 --> 00:00:08,660
+de pharmacologie des anti-infectieux intitulé les bétalactamines,
+
+3
+00:00:08,800 --> 00:00:11,580
+qui constitue la plus ancienne des familles d
+
+4
+00:00:11,580 --> 00:00:13,760
+'antibiotiques et la plus grande aussi.
+
+5
+00:00:16,620 --> 00:00:19,360
+Les objectifs de ce cours, c'est d
+
+6
+00:00:19,360 --> 00:00:21,640
+'être capable d'expliquer le mode d'action
+
+7
+00:00:21,640 --> 00:00:24,360
+des bétalactamines, de définir le spectre d'action
+
+8
+00:00:24,360 --> 00:00:28,240
+et les indications, et de faire aussi une
+
+9
+00:00:28,240 --> 00:00:31,520
+prescription des bétalactamines, de rechercher les contre-indications
+
+10
+00:00:31,520 --> 00:00:34,300
+et de reconnaître les effets secondaires.
+
+11
+00:00:36,800 --> 00:00:39,840
+Les bétalactamines constituent la famille la plus importante
+
+12
+00:00:39,840 --> 00:00:42,700
+des antibiotiques et la plus ancienne.
+
+13
+00:00:44,360 --> 00:00:47,280
+Ils contiennent des molécules qui ont la même
+
+14
+00:00:47,280 --> 00:00:49,380
+structure chimique de base qui est le cycle
+
+15
+00:00:49,380 --> 00:00:52,960
+de bétalactame et il est classé en quatre
+
+16
+00:00:52,960 --> 00:00:56,260
+sous-familles, les pénicillines au pénom, les céphalosporines
+
+17
+00:00:56,260 --> 00:01:00,000
+au cfm, les carbapénèmes, les monobactèmes, ils ont
+
+18
+00:01:00,000 --> 00:01:03,459
+des caractéristiques communes mais ils ont des particularités
+
+19
+00:01:03,459 --> 00:01:05,360
+propres à chaque classe qui fait que les
+
+20
+00:01:05,360 --> 00:01:07,940
+indications sont très différentes d'une classe à
+
+21
+00:01:07,940 --> 00:01:08,360
+une autre.
+
+22
+00:01:20,310 --> 00:01:24,110
+La découverte de la pénicilline était une fortuite
+
+23
+00:01:24,110 --> 00:01:25,110
+coïncidence.
+
+24
+00:01:25,850 --> 00:01:30,610
+Monsieur Flémine Alexandre, qui est un microbiologiste, en
+
+25
+00:01:30,610 --> 00:01:35,190
+rentrant de son congé après avoir laissé ces
+
+26
+00:01:35,190 --> 00:01:37,730
+boîtes de pétri qui contenaient le staphylocoque sur
+
+27
+00:01:37,730 --> 00:01:40,830
+son paillasse de laboratoire et en l'ouvrant,
+
+28
+00:01:41,390 --> 00:01:43,070
+il a trouvé que ces boîtes de pétri
+
+29
+00:01:43,070 --> 00:01:50,030
+étaient contaminées et par la suite, ils étaient
+
+30
+00:01:50,030 --> 00:01:54,450
+contaminés par des champignons de son collègue qui
+
+31
+00:01:54,450 --> 00:01:56,810
+travaillait dans la paillasse juste à côté.
+
+32
+00:01:58,530 --> 00:02:01,370
+En regardant ces boîtes de pétri, il voyait
+
+33
+00:02:01,370 --> 00:02:03,290
+qu'il y avait des allots d'inhibition
+
+34
+00:02:03,290 --> 00:02:06,790
+autour de ces champignons-là qui empêchaient la
+
+35
+00:02:06,790 --> 00:02:09,210
+culture de staphylocoque et il a compris que
+
+36
+00:02:09,210 --> 00:02:13,290
+ces champignons avaient quand même un pouvoir inhibiteur
+
+37
+00:02:13,290 --> 00:02:16,130
+de la culture de staphylocoque et par la
+
+38
+00:02:16,130 --> 00:02:21,390
+suite, ces champignons-là ont été nommés pénicillinium
+
+39
+00:02:21,390 --> 00:02:24,850
+et des années par la suite, on a
+
+40
+00:02:24,850 --> 00:02:29,150
+pu extraire la pénicilline de ce champignon.
+
+41
+00:02:32,410 --> 00:02:36,930
+Cet pénicillinium a servi par la suite à
+
+42
+00:02:36,930 --> 00:02:41,790
+extraire la pénicilline, un antibiotique qui a servi
+
+43
+00:02:41,790 --> 00:02:47,450
+à sauver la vie de plusieurs, de centaines
+
+44
+00:02:47,450 --> 00:02:51,070
+de soldats de la Deuxième Guerre mondiale qui
+
+45
+00:02:51,070 --> 00:02:53,810
+avaient des blessures contaminées.
+
+46
+00:03:24,460 --> 00:03:27,020
+Pour agir, les beta-lactamines ont besoin de
+
+47
+00:03:27,020 --> 00:03:29,020
+se lier à leur cible qui est les
+
+48
+00:03:29,020 --> 00:03:33,240
+protéines de liaison de la pénicilline et par
+
+49
+00:03:33,240 --> 00:03:35,780
+la suite, ils vont inhiber la croissance et
+
+50
+00:03:35,780 --> 00:03:38,200
+l'arrêt de la synthèse de peptidoglycane qui
+
+51
+00:03:38,200 --> 00:03:42,700
+constitue un élément fondamental de la paroi bactérienne
+
+52
+00:03:42,700 --> 00:03:45,640
+qui est nécessaire à la survie des bactéries
+
+53
+00:03:45,640 --> 00:03:48,580
+et s'il y a arrêt de peptidoglycane,
+
+54
+00:03:48,800 --> 00:03:51,200
+arrêt de synthèse de peptidoglycane, il y aura
+
+55
+00:03:51,200 --> 00:03:52,420
+la mort cellulaire.
+
+56
+00:03:53,260 --> 00:03:55,760
+Par contre, pour la résistance, il y a
+
+57
+00:03:55,760 --> 00:03:58,520
+plusieurs moyens qui permettent à une bactérie de
+
+58
+00:03:58,520 --> 00:04:02,580
+devenir résistante, il y a l'imperméabilité, c
+
+59
+00:04:02,580 --> 00:04:04,940
+'est-à-dire que des bactéries qui résistent
+
+60
+00:04:04,940 --> 00:04:07,900
+à la pénétrance des beta-lactamines, donc ils
+
+61
+00:04:07,900 --> 00:04:10,640
+ne peuvent pas atteindre leur cible, il y
+
+62
+00:04:10,640 --> 00:04:14,220
+a les bactéries grammes négatives qui synthétisent des
+
+63
+00:04:14,220 --> 00:04:19,560
+enzymes catabolisant les liaison, les beta-lactamines, les
+
+64
+00:04:19,560 --> 00:04:22,620
+rendant inactifs et il y a la modification
+
+65
+00:04:22,620 --> 00:04:25,180
+de la cible qui est la protéine de
+
+66
+00:04:25,180 --> 00:04:27,820
+liaison à la pénicilline qui est le mode
+
+67
+00:04:27,820 --> 00:04:30,900
+de résistance des bactéries grammes positifs.
+
+68
+00:04:33,900 --> 00:04:39,200
+Alors, pharmacocientiquement, on a l'absorption digestif des
+
+69
+00:04:39,200 --> 00:04:43,720
+beta-lactamines est souvent médiocre et c'est
+
+70
+00:04:43,720 --> 00:04:47,580
+pour ça qu'on a beaucoup de molécules
+
+71
+00:04:47,580 --> 00:04:51,900
+qui existent sous forme injectable, la concentration sérique
+
+72
+00:04:51,900 --> 00:04:54,480
+par voie orale est beaucoup plus inférieure à
+
+73
+00:04:54,480 --> 00:04:58,320
+celle veineuse, la demi-vie d'élimination est
+
+74
+00:04:58,320 --> 00:05:00,740
+courte de 1 à 2 heures sauf pour
+
+75
+00:05:00,740 --> 00:05:02,940
+la septriaxone où on a une demi-vie
+
+76
+00:05:02,940 --> 00:05:07,940
+beaucoup plus élevée, ce qui permet de donner
+
+77
+00:05:07,940 --> 00:05:11,920
+une seule administration pour la septriaxone et plusieurs
+
+78
+00:05:11,920 --> 00:05:16,240
+administrations pour le reste, l'élimination est rénale
+
+79
+00:05:16,240 --> 00:05:19,480
+prédominante sauf pour la septriaxone où on a
+
+80
+00:05:19,480 --> 00:05:23,060
+aussi une élimination biliaire, la diffusion tissulaire est
+
+81
+00:05:23,060 --> 00:05:27,900
+bonne que ce soit dans beaucoup de tissus
+
+82
+00:05:27,900 --> 00:05:29,860
+sauf au niveau du LCR, de l'œil
+
+83
+00:05:29,860 --> 00:05:31,700
+et de la prostate ainsi que de l
+
+84
+00:05:31,700 --> 00:05:34,980
+'os et la diffusion au niveau du LCR
+
+85
+00:05:34,980 --> 00:05:37,740
+varie d'une molécule à l'autre, on
+
+86
+00:05:37,740 --> 00:05:41,200
+a des molécules beta-lactamines qui diffusent dans
+
+87
+00:05:41,200 --> 00:05:43,500
+le liquide sifflé halorachidien et on a d
+
+88
+00:05:43,500 --> 00:05:45,520
+'autres qui ne diffusent pas donc ne permettent
+
+89
+00:05:45,520 --> 00:05:47,440
+pas de traiter une méningite.
+
+90
+00:06:48,280 --> 00:06:52,080
+Sur ce diapositif on a l'odème de
+
+91
+00:06:52,080 --> 00:06:57,320
+couïnque d'un patient, vous voyez ici l
+
+92
+00:06:57,320 --> 00:07:00,920
+'odème des téguments de la face, la tumefaction
+
+93
+00:07:00,920 --> 00:07:05,880
+des paupières, des lèvres et très probablement aussi
+
+94
+00:07:05,880 --> 00:07:09,100
+il y a des queues respiratoires.
+
+95
+00:07:12,140 --> 00:07:15,020
+Ici on a un rash cutanée, vous voyez
+
+96
+00:07:15,020 --> 00:07:19,560
+des lésions maculopapuleuses qui peuvent être généralisées.
+
+97
+00:07:21,300 --> 00:07:26,120
+Sur ce diapositif on voit une manifestation allergique
+
+98
+00:07:26,120 --> 00:07:28,160
+sévère qui est le syndrome de l'ail
+
+99
+00:07:28,160 --> 00:07:33,980
+qui est une épidermolyse et l'extension de
+
+100
+00:07:33,980 --> 00:07:36,180
+lésion détermine est-ce qu'il s'agit
+
+101
+00:07:36,180 --> 00:07:38,420
+d'un syndrome de l'ail ou on
+
+102
+00:07:38,420 --> 00:07:42,060
+a une atteinte qui dépasse les 30 %
+
+103
+00:07:42,060 --> 00:07:45,880
+de la surface corporelle ou dans Stevens-Johnson
+
+104
+00:07:45,880 --> 00:07:49,720
+où l'atteinte est inférieure à 10 %
+
+105
+00:07:49,720 --> 00:07:52,080
+de la surface corporelle.
+
+106
+00:08:15,190 --> 00:08:18,870
+Pour le spectre d'action des pénicillines et
+
+107
+00:08:18,870 --> 00:08:21,830
+le spectre d'action c'est la liste
+
+108
+00:08:21,830 --> 00:08:26,330
+des bactéries auxquelles la pénicilline G et FV
+
+109
+00:08:26,330 --> 00:08:27,230
+sont actives.
+
+110
+00:08:27,650 --> 00:08:30,210
+On a pour les coxygrammes positifs le streptococque,
+
+111
+00:08:30,250 --> 00:08:32,730
+les coxygrammes négatifs on a les céréamines et
+
+112
+00:08:32,730 --> 00:08:33,289
+les gytinides.
+
+113
+00:08:33,770 --> 00:08:36,429
+Les bacillogrammes positifs on a l'hystéria corneae,
+
+114
+00:08:36,510 --> 00:08:41,289
+bactérium, diphtérie, bacillogramme positif et anaerobis stricte comme
+
+115
+00:08:41,289 --> 00:08:42,990
+l'ostridium actinum ici.
+
+116
+00:08:43,430 --> 00:08:45,710
+On a les spiroquettes comme les tryponèmes et
+
+117
+00:08:45,710 --> 00:08:49,410
+la leptospire responsable de la leptospirose qu'on
+
+118
+00:08:49,410 --> 00:08:52,230
+a vu dans le cours de pathologie infectieuse.
+
+119
+00:08:52,690 --> 00:08:55,070
+On a les résistances naturelles c'est-à
+
+120
+00:08:55,070 --> 00:08:59,110
+-dire les bacillogrammes négatifs, les mycobactéries, les germes
+
+121
+00:08:59,110 --> 00:09:03,270
+intracellulaires comme mycoplasme, chlamydiae, ligionelle et rickettsiae qui
+
+122
+00:09:03,270 --> 00:09:06,890
+n'ont pas de paroi bactérienne et on
+
+123
+00:09:06,890 --> 00:09:09,250
+a des résistances acquis c'est-à-dire
+
+124
+00:09:09,250 --> 00:09:10,990
+que ce sont des bactéries qui étaient au
+
+125
+00:09:10,990 --> 00:09:14,110
+début sensibles à la pénicilline et qu'au
+
+126
+00:09:14,110 --> 00:09:15,530
+fur et à mesure ils ont acquis des
+
+127
+00:09:15,530 --> 00:09:18,510
+résistances comme le staphylococque qui a acquis des
+
+128
+00:09:18,510 --> 00:09:21,790
+résistances par la production de pénicillinase et le
+
+129
+00:09:21,790 --> 00:09:24,950
+pneumocoque et le gonocoque par la production de
+
+130
+00:09:24,950 --> 00:09:28,810
+la modification de la protéine de liaison à
+
+131
+00:09:28,810 --> 00:09:29,790
+la pénicilline.
+
+132
+00:09:34,710 --> 00:09:38,470
+Les principales indications thérapeutiques de la pénicilline G,
+
+133
+00:09:38,930 --> 00:09:42,590
+on a la leptospirose, la syphilis, le charbon,
+
+134
+00:09:44,130 --> 00:09:48,150
+les ongines astreptocoques A, le rheumatisme articulaire aigu,
+
+135
+00:09:48,330 --> 00:09:51,530
+les infections aux anaerobes comme l'ostridium perfranges
+
+136
+00:09:51,530 --> 00:09:54,890
+et l'ostridium tétanée responsable du tétanos et
+
+137
+00:09:54,890 --> 00:09:56,210
+l'actinomycose.
+
+138
+00:09:58,330 --> 00:10:02,890
+Passons maintenant à la pénicilline A ou aminopénicilline.
+
+139
+00:10:03,910 --> 00:10:08,470
+Donc la pénicilline A, ils ont une biodisponibilité
+
+140
+00:10:08,470 --> 00:10:11,870
+orale qui est variable entre la moxicilline où
+
+141
+00:10:11,870 --> 00:10:14,030
+il est beaucoup plus supérieur par rapport à
+
+142
+00:10:14,030 --> 00:10:14,790
+l'ampicilline.
+
+143
+00:10:15,190 --> 00:10:17,290
+Ils ont une bonne diffusion tessue d'air
+
+144
+00:10:17,290 --> 00:10:21,210
+et méningée mais cette diffusion est très médiocre
+
+145
+00:10:21,210 --> 00:10:25,230
+pour le tessu prostatique.
+
+146
+00:10:25,710 --> 00:10:30,390
+L'élimination rénale active est majoritaire avec 70
+
+147
+00:10:30,390 --> 00:10:33,870
+% par contre l'élimination biliaire est de
+
+148
+00:10:33,870 --> 00:10:34,750
+15%.
+
+149
+00:10:34,750 --> 00:10:37,390
+Pour le spectre d'action, il y a
+
+150
+00:10:37,390 --> 00:10:42,030
+celui de la pénicilline G qui est tendue
+
+151
+00:10:42,030 --> 00:10:44,270
+à certains bacillus grames négatifs.
+
+152
+00:10:44,970 --> 00:10:51,230
+Donc les aminopénicillines sont détruites par les pénicillinases
+
+153
+00:10:51,230 --> 00:10:53,830
+des staphylocoques et de nombreux BGN, ce qui
+
+154
+00:10:53,830 --> 00:10:55,970
+fait qu'on ne peut pas donner la
+
+155
+00:10:55,970 --> 00:10:58,730
+pénicilline A ou la pénicilline G pour le
+
+156
+00:10:58,730 --> 00:11:00,070
+traitement de staphylocoques.
+
+157
+00:11:00,450 --> 00:11:02,750
+Et pour les germes qui restent sensibles, on
+
+158
+00:11:02,750 --> 00:11:05,550
+a le strepto, l'enterocoque, le pneumocoque, le
+
+159
+00:11:05,550 --> 00:11:07,070
+méningo, l'hystéria.
+
+160
+00:11:07,450 --> 00:11:09,890
+Il existe de plus en plus de résistances
+
+161
+00:11:09,890 --> 00:11:15,590
+par mylidichiacoulis et l'hémophilus influenzae par sécrétion
+
+162
+00:11:15,590 --> 00:11:16,310
+d'enzymes.
+
+163
+00:11:16,530 --> 00:11:20,210
+Pour les germes résistants ou naturellement résistants, on
+
+164
+00:11:20,210 --> 00:11:25,730
+a le groupe KES, Klebsiella enterobacter cerasia, Pseudomonas
+
+165
+00:11:25,730 --> 00:11:30,510
+aeruginosa, Acinetobacter, Bacteroïdes et Staphylocoques.
+
+166
+00:11:30,870 --> 00:11:33,470
+Donc on a de multitude de formes de
+
+167
+00:11:33,470 --> 00:11:34,390
+présentation.
+
+168
+00:11:34,770 --> 00:11:37,790
+On a la forme intraveineuse, la forme intramusculaire,
+
+169
+00:11:39,010 --> 00:11:41,890
+orale, à prendre indépendamment des repas, c'est
+
+170
+00:11:41,890 --> 00:11:43,030
+à dire qu'il n'est pas modifié
+
+171
+00:11:43,030 --> 00:11:44,530
+par la prise alimentaire.
+
+172
+00:11:45,450 --> 00:11:48,550
+Pour les indications de traitement par la pénicilline
+
+173
+00:11:48,550 --> 00:11:51,350
+A, on peut l'utiliser pour le traitement
+
+174
+00:11:51,350 --> 00:11:53,630
+d'une pneumonie apneumocoque à raison de 3
+
+175
+00:11:53,630 --> 00:11:55,410
+grammes pendant 7 jours, s'il n'y
+
+176
+00:11:55,410 --> 00:11:56,810
+a pas de facteur de risque, s'il
+
+177
+00:11:56,810 --> 00:12:00,930
+n'y a pas de gravité et de
+
+178
+00:12:00,930 --> 00:12:01,890
+tards associés.
+
+179
+00:12:02,650 --> 00:12:04,790
+Aussi, on l'utilise dans le traitement des
+
+180
+00:12:04,790 --> 00:12:07,470
+endocardites astreptocoques à raison de 100 à 200
+
+181
+00:12:07,470 --> 00:12:09,410
+mg par kg par jour, plus ou moins
+
+182
+00:12:09,410 --> 00:12:10,170
+laminosides.
+
+183
+00:12:11,070 --> 00:12:13,350
+Le traitement des méningites, que ce soit la
+
+184
+00:12:13,350 --> 00:12:15,690
+listeria, la pneumocoque, qui n'a pas de
+
+185
+00:12:15,690 --> 00:12:18,690
+facteur de risque de sensibilité diminuée à la
+
+186
+00:12:18,690 --> 00:12:22,050
+pénicilline et, en cas de méningocoque sensible, à
+
+187
+00:12:22,050 --> 00:12:24,870
+raison de 200 mg par kg par jour,
+
+188
+00:12:25,330 --> 00:12:27,350
+en 4 à 6 perfusions par jour, pour
+
+189
+00:12:27,350 --> 00:12:29,470
+une durée variable en fonction du germe.
+
+190
+00:12:30,010 --> 00:12:32,330
+On peut l'utiliser aussi pour le traitement
+
+191
+00:12:32,330 --> 00:12:34,970
+de l'éryzipelle dans l'étiologie et des
+
+192
+00:12:34,970 --> 00:12:37,310
+streptococcyx dans la majorité des cas à raison
+
+193
+00:12:37,310 --> 00:12:39,990
+de 3 à 4,5 grammes pendant une
+
+194
+00:12:39,990 --> 00:12:40,950
+durée de 15 jours.
+
+195
+00:12:41,310 --> 00:12:43,430
+Des schémas de durée pour les plus courtes
+
+196
+00:12:43,430 --> 00:12:44,310
+sont utilisés.
+
+197
+00:12:45,390 --> 00:12:48,670
+Aussi, dans le traitement de l'angine streptococcyx
+
+198
+00:12:48,670 --> 00:12:50,670
+à raison de 2 grammes par jour pendant
+
+199
+00:12:50,670 --> 00:12:52,330
+6 jours pour l'adulte.
+
+200
+00:12:52,970 --> 00:12:56,110
+On traite aussi l'hélicobactère pylori qui est
+
+201
+00:12:56,110 --> 00:12:59,870
+une bactérie responsable de la gastrite et de
+
+202
+00:12:59,870 --> 00:13:02,970
+l'ulcère gastrique à raison d'un schéma
+
+203
+00:13:02,970 --> 00:13:06,510
+de 14 jours qui associe 3 antibiotiques, dont
+
+204
+00:13:06,510 --> 00:13:08,750
+la moxicilline, à raison de 2 grammes par
+
+205
+00:13:08,750 --> 00:13:12,290
+jour, donc associé à la claritromicine 1 gramme
+
+206
+00:13:12,290 --> 00:13:14,830
+par jour et la mitronidazole 1 gramme par
+
+207
+00:13:14,830 --> 00:13:17,230
+jour, plus un inhibiteur de la pompe à
+
+208
+00:13:17,230 --> 00:13:17,810
+protons.
+
+209
+00:13:18,210 --> 00:13:21,170
+Et on peut aussi l'utiliser comme prophylaxe
+
+210
+00:13:21,170 --> 00:13:23,510
+de l'endocardite bactérien, comme on veut par
+
+211
+00:13:23,510 --> 00:13:26,790
+exemple faire un geste comme un détartrage pour
+
+212
+00:13:26,790 --> 00:13:29,370
+prévenir l'endocardite chez un patient qui a
+
+213
+00:13:29,370 --> 00:13:31,850
+des facteurs de risque de la développer à
+
+214
+00:13:31,850 --> 00:13:33,810
+raison de 2 grammes en prise unique une
+
+215
+00:13:33,810 --> 00:13:35,710
+heure avant le geste.
+
+216
+00:13:38,000 --> 00:13:40,600
+Maintenant on va voir la pénicilline M qui
+
+217
+00:13:40,600 --> 00:13:43,540
+est une pénicilline qui a une diffusion très
+
+218
+00:13:43,540 --> 00:13:46,080
+faible dans l'œil, le liquide céphalo-rachidien,
+
+219
+00:13:46,200 --> 00:13:49,040
+le tissu cérébral et la prostate, avec une
+
+220
+00:13:49,040 --> 00:13:53,240
+élimination sous forme active uniquement parfois urinaire.
+
+221
+00:13:53,840 --> 00:13:56,460
+Et la pénicilline M, il a une seule
+
+222
+00:13:56,460 --> 00:13:59,500
+indication, c'est le traitement du staphylococque sensible.
+
+223
+00:14:00,040 --> 00:14:01,760
+Et il faut faire très attention parce que
+
+224
+00:14:01,760 --> 00:14:06,100
+le staphylococque il commence à avoir des mutations
+
+225
+00:14:06,100 --> 00:14:08,660
+de protéines de liaison à la pénicilline, avec
+
+226
+00:14:08,660 --> 00:14:12,000
+une résistance dans 30% des cas par
+
+227
+00:14:12,000 --> 00:14:12,960
+ce mécanisme là.
+
+228
+00:14:13,620 --> 00:14:16,620
+Et en cas de staphylococque résistant à la
+
+229
+00:14:16,620 --> 00:14:19,860
+pénicilline, il y aura une résistance à toutes
+
+230
+00:14:19,860 --> 00:14:22,740
+les bétalactamines, c'est à dire que ça
+
+231
+00:14:22,740 --> 00:14:24,860
+ne sert à rien de donner les céphalosporines,
+
+232
+00:14:25,000 --> 00:14:27,200
+ça ne sert à rien de donner les
+
+233
+00:14:27,200 --> 00:14:28,820
+inhibiteurs de bétalactamase.
+
+234
+00:14:29,520 --> 00:14:32,500
+Lorsqu'on est devant un staphylococque résistant à
+
+235
+00:14:32,500 --> 00:14:36,200
+la pénicilline, il faut voir une autre famille
+
+236
+00:14:36,200 --> 00:14:39,100
+d'antibiotiques que les bétalactamines.
+
+237
+00:14:41,570 --> 00:14:45,410
+Ce tableau représente les deux molécules de la
+
+238
+00:14:45,410 --> 00:14:49,230
+pénicilline M, dont l'oxacilline et la gloxacilline.
+
+239
+00:14:49,610 --> 00:14:52,330
+Donc vous voyez que la gloxacilline existe sur
+
+240
+00:14:52,330 --> 00:14:56,570
+plusieurs formes, intraveineuse et pérose, ce qui permet
+
+241
+00:14:56,570 --> 00:15:00,870
+d'avoir plusieurs indications thérapeutiques.
+
+242
+00:15:03,870 --> 00:15:08,030
+Les indications thérapeutiques, on a la possibilité d
+
+243
+00:15:08,030 --> 00:15:10,990
+'utiliser la pénicilline M pour les infections systémiques
+
+244
+00:15:10,990 --> 00:15:13,730
+comme les bactéries immunes, les staphylococci malignes de
+
+245
+00:15:13,730 --> 00:15:17,110
+la face, les endocardites et les osteoarthrites à
+
+246
+00:15:17,110 --> 00:15:20,490
+staphylococci sensibles à la méticilline, ce qu'on
+
+247
+00:15:20,490 --> 00:15:23,670
+dit staphylococci métis, et dans ce cas là
+
+248
+00:15:23,670 --> 00:15:27,470
+on utilise la voie intraveineuse avec de fortes
+
+249
+00:15:27,470 --> 00:15:30,490
+posologies, jusqu'à 200 mg par kg par
+
+250
+00:15:30,490 --> 00:15:34,230
+jour, en plusieurs perfusions par jour, en intraveineuse,
+
+251
+00:15:34,350 --> 00:15:37,850
+en association souvent avec les aminosides ou avec
+
+252
+00:15:37,850 --> 00:15:39,190
+les phosphomycines.
+
+253
+00:15:39,790 --> 00:15:42,570
+Pour les infections cutaniennes non sévères comme l
+
+254
+00:15:42,570 --> 00:15:47,990
+'impetigo, comme le furoncle unique non compliqué, on
+
+255
+00:15:47,990 --> 00:15:50,570
+peut utiliser la forme orale à raison de
+
+256
+00:15:50,570 --> 00:15:52,790
+35 à 50 mg par kg par jour
+
+257
+00:15:52,790 --> 00:15:55,590
+pendant 10 jours, en fonction de l'évolution.
+
+258
+00:15:58,080 --> 00:16:00,620
+Passons à autre famille de pénicillines, c'est
+
+259
+00:16:00,620 --> 00:16:05,540
+les carboxypénicillines et l'uréidopénicilline, ce sont des
+
+260
+00:16:05,540 --> 00:16:09,720
+antibiotiques à usage hospitalier strict et qui ont
+
+261
+00:16:09,720 --> 00:16:13,020
+un spectre d'action commun qui la pénicilline
+
+262
+00:16:13,020 --> 00:16:15,980
+a étendu à d'autres bacillogrammes négatifs dans
+
+263
+00:16:15,980 --> 00:16:20,780
+les entérobactéries, la pseudomonas, et faire attention à
+
+264
+00:16:20,780 --> 00:16:24,020
+ceux qui ont des bactéries producteuses de pédalactamase,
+
+265
+00:16:24,480 --> 00:16:28,080
+on a par exemple la ticarcéline, la ticarpine
+
+266
+00:16:28,080 --> 00:16:31,260
+et la pépéracéline et qui sont des deux
+
+267
+00:16:31,260 --> 00:16:36,840
+molécules à usage intraveineux exclusives, hospitalier, sur des
+
+268
+00:16:36,840 --> 00:16:37,520
+antibiogrammes.
+
+269
+00:16:39,790 --> 00:16:45,710
+Les monobactames, ce sont aussi des molécules qui
+
+270
+00:16:45,710 --> 00:16:50,150
+sont utilisées pour des infections sévères documentées à
+
+271
+00:16:50,150 --> 00:16:55,270
+bacillogrammes négatifs, ils ont un spectre étroit sur
+
+272
+00:16:55,270 --> 00:16:59,690
+les grammes négatifs aïrobis, aucune activité vis-à
+
+273
+00:16:59,690 --> 00:17:02,530
+-vis des grammes positifs ou des anaïrobis, ils
+
+274
+00:17:02,530 --> 00:17:06,790
+ont une association synergique aux aminosides sur pseudomonas
+
+275
+00:17:06,790 --> 00:17:10,170
+aïrogenosa et ce sont des molécules à administrer
+
+276
+00:17:10,170 --> 00:17:13,790
+par voie intraveineuse ou intramusculaire comme l'astriona.
+
+277
+00:17:17,140 --> 00:17:20,260
+Les carbapenem, une autre molécule de pénicilline, il
+
+278
+00:17:20,260 --> 00:17:24,000
+a un spectre d'action très large étendu
+
+279
+00:17:24,000 --> 00:17:28,500
+aux anaïrobis et résiste à la plupart des
+
+280
+00:17:28,500 --> 00:17:29,520
+bétalactamases.
+
+281
+00:17:30,520 --> 00:17:34,480
+Quatre molécules sont disponibles qui existent sous forme
+
+282
+00:17:34,480 --> 00:17:40,440
+parentérale donc avec une administration intraveineuse ou intramusculaire
+
+283
+00:17:41,280 --> 00:17:44,740
+car ils n'ont pas d'absorption intestinale
+
+284
+00:17:44,740 --> 00:17:48,000
+qui est nulle et comme l'imipenem, le
+
+285
+00:17:48,000 --> 00:17:51,260
+méropenem, l'ertapenem et l'orepinem.
+
+286
+00:17:51,580 --> 00:17:54,120
+Ce sont des molécules qui sont destinées à
+
+287
+00:17:54,120 --> 00:17:57,920
+traiter des infections sévères, souvent nosocomiales.
+
+288
+00:18:01,140 --> 00:18:05,920
+Les inhibiteurs des bétalactamases sont des molécules aussi
+
+289
+00:18:05,920 --> 00:18:11,000
+des bétalactamines mais qui ont une faible activité
+
+290
+00:18:11,000 --> 00:18:12,160
+antibactérienne.
+
+291
+00:18:12,700 --> 00:18:14,820
+Par contre, s'ils sont associés à certains
+
+292
+00:18:14,820 --> 00:18:20,960
+bétalactamines, leur activité antibactérienne va être restaurée du
+
+293
+00:18:20,960 --> 00:18:24,280
+fait qu'elle a été hydrolysée par les
+
+294
+00:18:24,280 --> 00:18:27,820
+bétalactamases comme la pénicillinase, la bétalactamase à spectre
+
+295
+00:18:27,820 --> 00:18:28,900
+élargi, BLSE.
+
+296
+00:18:29,600 --> 00:18:33,620
+Il faut savoir que ces inhibiteurs de bétalactamase
+
+297
+00:18:33,620 --> 00:18:37,860
+ne restaurent pas l'activité contre staphylococque, METI
+
+298
+00:18:37,860 --> 00:18:41,900
+-R, ni sur le pneumocoque de sensibilité dénue
+
+299
+00:18:41,900 --> 00:18:43,640
+à la pénicilline parce que vous savez que
+
+300
+00:18:43,640 --> 00:18:46,280
+le pneumocoque, quand il est résistant à la
+
+301
+00:18:46,280 --> 00:18:49,320
+pénicilline, il est résistant par modification de cible
+
+302
+00:18:49,320 --> 00:18:52,320
+et non par production de bétalactamase.
+
+303
+00:18:53,020 --> 00:18:55,260
+Et on a trois molécules, c'est l
+
+304
+00:18:55,260 --> 00:18:59,080
+'acide clavulanique, le tasobactame et le sulbactame.
+
+305
+00:19:02,700 --> 00:19:06,360
+Alors ici, c'est l'effet des bétalactamases.
+
+306
+00:19:06,580 --> 00:19:09,040
+Donc vous voyez ici qu'en absence de
+
+307
+00:19:09,040 --> 00:19:18,660
+bétalactamines, ils sont catalysés par des enzymes qui
+
+308
+00:19:18,660 --> 00:19:21,940
+sont les bétalactamases mais quand ils sont associés
+
+309
+00:19:21,940 --> 00:19:25,820
+aux inhibiteurs de bétalactamines, leur activité est restaurée
+
+310
+00:19:25,820 --> 00:19:29,000
+et ils peuvent se faire lier aux protéines
+
+311
+00:19:29,000 --> 00:19:32,360
+de liaison à la pénicilline pour activer leur
+
+312
+00:19:32,360 --> 00:19:32,680
+rôle.
+
+313
+00:19:34,740 --> 00:19:39,860
+Pour le spectre d'action des inhibiteurs de
+
+314
+00:19:39,860 --> 00:19:43,720
+bétalactamase, ce sont des molécules qui ont une
+
+315
+00:19:43,720 --> 00:19:49,680
+très faible activité antibactérienne mais qui inhibit les
+
+316
+00:19:49,680 --> 00:19:52,160
+bétalactamases, ce qui fait que quand ils sont
+
+317
+00:19:52,160 --> 00:19:55,320
+associés à des bétalactamines, ils restaurent leur activité
+
+318
+00:19:55,320 --> 00:19:56,200
+antibactérienne.
+
+319
+00:19:56,680 --> 00:19:59,040
+Ce sont des molécules qui ne diffusent pas
+
+320
+00:19:59,040 --> 00:20:01,100
+au niveau du liquide céphalo-rachidien, ce qui
+
+321
+00:20:01,100 --> 00:20:04,800
+les rend inefficaces pour le traitement de meningite
+
+322
+00:20:04,800 --> 00:20:07,420
+et qui ont une élimination urinaire sous forme
+
+323
+00:20:07,420 --> 00:20:11,120
+active, ce qui permet de traiter pas mal
+
+324
+00:20:11,120 --> 00:20:14,000
+d'infections urinaires, sauf chez l'homme où
+
+325
+00:20:14,000 --> 00:20:17,360
+ils ne doivent pas être démarrés vu qu
+
+326
+00:20:17,360 --> 00:20:20,140
+'ils ont une très mauvaise diffusion au niveau
+
+327
+00:20:20,140 --> 00:20:20,880
+de la prostate.
+
+328
+00:20:21,520 --> 00:20:23,980
+Et quelques molécules, on a l'amoxicilline associée
+
+329
+00:20:23,980 --> 00:20:26,540
+à l'acide clavulénique, la piperacilline associée au
+
+330
+00:20:26,540 --> 00:20:31,100
+tasobactame et l'ampicilline associée au subbactame.
+
+331
+00:20:35,220 --> 00:20:38,560
+Pour les présentations, on a l'amoxicilline, l
+
+332
+00:20:38,560 --> 00:20:41,840
+'association amoxicilline-acide clavulénique, c'est l'association
+
+333
+00:20:41,840 --> 00:20:46,000
+la plus utilisée en hospitalier et en extra
+
+334
+00:20:46,000 --> 00:20:49,480
+-hospitalier vu le fait qu'il se présente
+
+335
+00:20:49,480 --> 00:20:53,420
+sous plusieurs formes, comprimés, sachets, suspensions buvables et
+
+336
+00:20:53,420 --> 00:20:54,240
+intraveineuses.
+
+337
+00:20:54,820 --> 00:20:58,900
+Par contre, l'ampicilline-subbactame et la ticarcilline
+
+338
+00:20:58,900 --> 00:21:03,780
+-acide clavulénique, ils existent sous forme intramusculaire intraveineuse,
+
+339
+00:21:05,220 --> 00:21:09,400
+les gardant pour un usage exclusivement hospitalier.
+
+340
+00:21:11,000 --> 00:21:16,820
+Quelques exemples de présentation clinique, présentation de molécules
+
+341
+00:21:16,820 --> 00:21:21,620
+inhibiteurs des bétalactamases, donc les trois molécules, ici
+
+342
+00:21:21,620 --> 00:21:25,620
+vous les voyez réparties sur ce tableau-là.
+
+343
+00:21:27,240 --> 00:21:31,140
+Quelques principales indications des inhibiteurs de bétalactamase, dont
+
+344
+00:21:31,140 --> 00:21:34,080
+essentiellement l'amoxicilline, l'acide clavulénique et l
+
+345
+00:21:34,080 --> 00:21:35,420
+'ampicilline-subbactame.
+
+346
+00:21:35,760 --> 00:21:38,280
+On a les infections respiratoires haute-haut-basse
+
+347
+00:21:38,280 --> 00:21:41,120
+dans l'otite, la sinusite, les pneumopathies communautaires
+
+348
+00:21:41,120 --> 00:21:43,720
+avec facteur de risque, mais sans caractéristiques.
+
+349
+00:21:43,900 --> 00:21:48,140
+Les exacerbations bronchopneumopathies obstructives.
+
+350
+00:21:48,680 --> 00:21:51,180
+On a aussi les selpingites et l'endométrite
+
+351
+00:21:51,180 --> 00:21:54,260
+en association avec les cyclines pour pouvoir couvrir
+
+352
+00:21:54,260 --> 00:21:57,200
+les germes intracellulaires, comme la mylée et comme
+
+353
+00:21:57,200 --> 00:21:58,120
+le mycoplasme.
+
+354
+00:21:58,640 --> 00:22:01,780
+On a aussi les abscès, fléguements, les cellulites,
+
+355
+00:22:01,900 --> 00:22:04,280
+les parodentiques, les infections de la peau, des
+
+356
+00:22:04,280 --> 00:22:06,860
+parties molles, l'infection du tube digestif.
+
+357
+00:22:07,480 --> 00:22:09,880
+Pas d'indications en cas d'angine aiguë,
+
+358
+00:22:09,940 --> 00:22:12,760
+vu que l'ithiologie est le streptocoque et
+
+359
+00:22:12,760 --> 00:22:16,780
+l'amoxicilline associée à un inhibiteur de bétalactamase
+
+360
+00:22:16,780 --> 00:22:19,760
+n'a aucun effet supplémentaire sur le streptocoque,
+
+361
+00:22:20,080 --> 00:22:23,440
+sauf les effets secondaires supplémentaires.
+
+362
+00:22:23,860 --> 00:22:26,320
+Et aussi pas d'indications en cas de
+
+363
+00:22:26,320 --> 00:22:30,660
+traitement de bronchite qui est d'origine virale
+
+364
+00:22:30,660 --> 00:22:34,220
+ou de pneumopathie aiguë bactérien chez un sujet
+
+365
+00:22:34,220 --> 00:22:38,600
+sain vu que c'est plutôt le pneumocoque,
+
+366
+00:22:38,800 --> 00:22:40,940
+donc il n'y a pas d'effet
+
+367
+00:22:40,940 --> 00:22:47,480
+supplémentaire d'inhibiteur de bétalactamase sur ce terrain
+
+368
+00:22:47,480 --> 00:22:47,780
+là.
+
+369
+00:22:51,370 --> 00:22:55,330
+Pour la piperacilline et azobactam, c'est essentiellement
+
+370
+00:22:55,330 --> 00:22:59,510
+les infections sévères au milieu hospitalier due à
+
+371
+00:22:59,510 --> 00:23:02,510
+des bactéries grames positives et des bactéries grames
+
+372
+00:23:02,510 --> 00:23:07,090
+négatives producteurs de bétalactamase sensible à cet inhibiteur,
+
+373
+00:23:07,450 --> 00:23:08,730
+sauf en cas de meningite.
+
+374
+00:23:09,830 --> 00:23:12,970
+Aussi pour la ticarciline, acide clavulanique, ce sont
+
+375
+00:23:12,970 --> 00:23:15,950
+des infections sévères à BGN résistantes aux autres
+
+376
+00:23:15,950 --> 00:23:16,870
+bétalactamines.
+
+377
+00:23:17,370 --> 00:23:18,410
+Il n'y a pas de place aux
+
+378
+00:23:18,410 --> 00:23:21,890
+inhibiteurs de bétalactamase pour le traitement des meningites,
+
+379
+00:23:22,010 --> 00:23:24,250
+ils ne diffusent pas la barrière hématoménagée.
+
+380
+00:23:24,690 --> 00:23:26,990
+Et pour les principaux effets secondaires, on a
+
+381
+00:23:26,990 --> 00:23:30,290
+essentiellement les troubles digestifs bénins comme les nausées,
+
+382
+00:23:30,290 --> 00:23:32,710
+vomissements et surtout la diarrhée.
+
+383
+00:23:34,490 --> 00:23:38,930
+Dernière famille de bétalactamines, ce sont les céphalosporines
+
+384
+00:23:38,930 --> 00:23:43,190
+qui ont une formule générale associant l'acide
+
+385
+00:23:43,190 --> 00:23:45,350
+7-aminocéphalosporanique.
+
+386
+00:23:47,130 --> 00:23:52,850
+Et pour leur classification, on va voir que
+
+387
+00:23:52,850 --> 00:23:56,830
+les trois premières générations et on a la
+
+388
+00:23:56,830 --> 00:23:58,030
+quatrième génération.
+
+389
+00:23:58,550 --> 00:24:00,630
+Et les générations, c'est en fonction de
+
+390
+00:24:00,630 --> 00:24:02,650
+leur découverte.
+
+391
+00:24:03,050 --> 00:24:04,750
+Donc on a la première génération, c'est
+
+392
+00:24:04,750 --> 00:24:06,850
+la première qui a été découverte à partir
+
+393
+00:24:06,850 --> 00:24:07,970
+des années 1960.
+
+394
+00:24:09,010 --> 00:24:12,690
+Et on a les céphalosporines première génération, ils
+
+395
+00:24:12,690 --> 00:24:15,670
+ont un spectre de la pénicilline M associée
+
+396
+00:24:15,670 --> 00:24:17,210
+à celui de la pénicilline A.
+
+397
+00:24:17,970 --> 00:24:21,370
+Les céphalosporines deuxième génération, à partir des années
+
+398
+00:24:21,370 --> 00:24:26,330
+70, qui ont le spectre de la première
+
+399
+00:24:26,330 --> 00:24:31,570
+génération, en plus des germes résistants à l
+
+400
+00:24:31,570 --> 00:24:32,530
+'ampicilline.
+
+401
+00:24:32,870 --> 00:24:36,570
+Et les céphalosporines troisième génération, à partir des
+
+402
+00:24:36,570 --> 00:24:39,810
+années 80, qui ont une concentration minimale inhibitrice
+
+403
+00:24:39,810 --> 00:24:43,830
+beaucoup plus faible avec un spectre qui s
+
+404
+00:24:43,830 --> 00:24:48,330
+'élargit à plus de bacilles grammes négatives et
+
+405
+00:24:48,330 --> 00:24:52,510
+dont aussi les antérobactéries multirésistantes.
+
+406
+00:24:52,830 --> 00:24:56,770
+On voit que plus en passant du première
+
+407
+00:24:56,770 --> 00:25:00,230
+génération à la troisième, on a vu le
+
+408
+00:25:00,230 --> 00:25:02,930
+spectre d'action s'élargir à d'autres
+
+409
+00:25:02,930 --> 00:25:07,730
+bactéries visées par les céphalosporines.
+
+410
+00:25:08,630 --> 00:25:15,490
+Cependant, des bactéries restent inactives aux céphalosporines, que
+
+411
+00:25:15,490 --> 00:25:18,650
+ce soit naturellement résistantes comme l'hystéria, comme
+
+412
+00:25:18,650 --> 00:25:22,490
+l'enterococque, comme les germes intracellulaires, mais aussi
+
+413
+00:25:22,490 --> 00:25:25,950
+par acquisition de résistances comme le staphylococque résistant
+
+414
+00:25:25,950 --> 00:25:28,770
+à l'ampicilline et qui, comme j'ai
+
+415
+00:25:28,770 --> 00:25:32,010
+dit au départ, un staphylococque résistant à l
+
+416
+00:25:32,010 --> 00:25:35,130
+'ampicilline, il est résistant à toute la famille
+
+417
+00:25:35,130 --> 00:25:39,350
+des bétalactamines, donc il faut chercher dans d
+
+418
+00:25:39,350 --> 00:25:41,950
+'autres familles pour pouvoir le traiter.
+
+419
+00:25:43,570 --> 00:25:46,490
+Alors ici, selon la classification, on a des
+
+420
+00:25:46,490 --> 00:25:49,390
+molécules appartenant à la première génération, des molécules
+
+421
+00:25:49,390 --> 00:25:52,190
+appartenant à la deuxième et des molécules appartenant
+
+422
+00:25:52,190 --> 00:25:52,890
+à la troisième.
+
+423
+00:25:54,130 --> 00:25:57,650
+Pour les effets indésirables, on a les mêmes
+
+424
+00:25:57,650 --> 00:26:00,970
+manifestations allergiques qu'on peut voir avec la
+
+425
+00:26:00,970 --> 00:26:02,190
+famille des pénicillines.
+
+426
+00:26:03,050 --> 00:26:06,690
+On a des possibilités de réaction croisée avec
+
+427
+00:26:06,690 --> 00:26:08,750
+les pénicillines dans des pourcents des cas, c
+
+428
+00:26:08,750 --> 00:26:10,070
+'est-à-dire que si quelqu'un est
+
+429
+00:26:10,070 --> 00:26:13,190
+allergique, vraiment allergique à la pénicilline, il a
+
+430
+00:26:13,190 --> 00:26:16,690
+un pourcentage de 10% pour être allergique
+
+431
+00:26:16,690 --> 00:26:18,750
+au céphalosporine, ce qui nous laisse quand même
+
+432
+00:26:18,750 --> 00:26:21,310
+la possibilité de traiter quelqu'un allergique à
+
+433
+00:26:21,310 --> 00:26:23,230
+la pénicilline par le céphalosporine.
+
+434
+00:26:23,570 --> 00:26:26,410
+On a aussi la possibilité de manifestations secondaires
+
+435
+00:26:26,410 --> 00:26:31,670
+hématologiques avec leucopénie et thrombopénie et aussi la
+
+436
+00:26:31,670 --> 00:26:36,610
+possibilité des hypoprotrombinémie avec le risque hémorragique.
+
+437
+00:26:40,170 --> 00:26:42,990
+Les contre-indications, on a essentiellement l'allergie
+
+438
+00:26:42,990 --> 00:26:46,030
+au céphalosporine et antécédent d'allergie immédiate à
+
+439
+00:26:46,030 --> 00:26:46,890
+la pénicilline.
+
+440
+00:26:47,730 --> 00:26:50,550
+Il ne faut pas aussi oublier d'adapter
+
+441
+00:26:50,550 --> 00:26:53,890
+la posologie chez l'insuffisant rénal.
+
+442
+00:26:54,670 --> 00:26:58,970
+Des interactions médicamenteuses sont possibles, essentiellement avec les
+
+443
+00:26:58,970 --> 00:27:02,070
+anticoagulants oraux et l'alcool, qui est dû
+
+444
+00:27:02,070 --> 00:27:07,310
+au fait du groupement mythyl-thio-tétrasol avec
+
+445
+00:27:07,310 --> 00:27:09,510
+le risque hémorragique.
+
+446
+00:27:13,170 --> 00:27:16,870
+Passons maintenant à chaque famille, à chaque génération.
+
+447
+00:27:17,330 --> 00:27:20,570
+Pour les céphalosporines de première génération, on a
+
+448
+00:27:20,570 --> 00:27:22,810
+dit que leur spectre d'action associé est
+
+449
+00:27:22,810 --> 00:27:24,530
+celui de la pynie A à la pynie
+
+450
+00:27:24,530 --> 00:27:24,790
+M.
+
+451
+00:27:25,650 --> 00:27:28,930
+Ils ont une diffusion satisfaisante sauf dans le
+
+452
+00:27:28,930 --> 00:27:32,210
+liquide céphalorachidien, donc on n'utilise pas les
+
+453
+00:27:32,210 --> 00:27:35,030
+céphalosporines de première génération pour le traitement de
+
+454
+00:27:35,030 --> 00:27:35,590
+méningite.
+
+455
+00:27:36,310 --> 00:27:40,090
+Quelques molécules comme la céphalotine et la céphachlore.
+
+456
+00:27:41,150 --> 00:27:44,490
+La céphalotine existe en intramusculaire et intraveineux.
+
+457
+00:27:44,670 --> 00:27:48,310
+Il est à usage hospitalier essentiellement pour la
+
+458
+00:27:48,310 --> 00:27:50,970
+prophylaxie chirurgicale.
+
+459
+00:27:52,030 --> 00:27:55,410
+Des indications comme l'infection orale à type
+
+460
+00:27:55,410 --> 00:27:59,790
+d'angine streptococcique, dotite moyenne aiguë, sinusite obronchique,
+
+461
+00:28:00,730 --> 00:28:04,450
+l'antibio-prophylaxe chirurgique essentiellement pour la céphalotine.
+
+462
+00:28:08,000 --> 00:28:12,020
+Les céphalosporines de deuxième génération, leur spectre d
+
+463
+00:28:12,020 --> 00:28:14,420
+'action est un peu supérieur par rapport aux
+
+464
+00:28:14,420 --> 00:28:17,180
+céphalosporines de première génération en s'étendant à
+
+465
+00:28:17,180 --> 00:28:18,380
+d'autres entérobactéries.
+
+466
+00:28:19,040 --> 00:28:21,780
+Pas de diffusion satisfaisante au niveau du liquide
+
+467
+00:28:21,780 --> 00:28:24,380
+céphalorachidien, donc pas d'utilisation en cas de
+
+468
+00:28:24,380 --> 00:28:24,920
+méningite.
+
+469
+00:28:25,320 --> 00:28:28,080
+Pour les indications, ils sont semblables aux céphalosporines
+
+470
+00:28:28,080 --> 00:28:31,540
+de première génération et surtout l'antibio-prophylaxe
+
+471
+00:28:31,540 --> 00:28:32,800
+en cas de chirurgie.
+
+472
+00:28:34,420 --> 00:28:36,280
+Il y a des molécules qui existent par
+
+473
+00:28:36,280 --> 00:28:40,040
+voie intraveineuse ou intramusculaire et per os.
+
+474
+00:28:40,940 --> 00:28:44,380
+Donc c'est un tableau qui représente quelques
+
+475
+00:28:44,380 --> 00:28:51,740
+molécules d'usage de céphalosporines de deuxième génération.
+
+476
+00:28:53,260 --> 00:28:54,000
+Même chose.
+
+477
+00:28:55,600 --> 00:28:58,700
+Alors pour les céphalosporines de troisième génération, on
+
+478
+00:28:58,700 --> 00:29:01,960
+a les céphalosporines de troisième génération orale et
+
+479
+00:29:01,960 --> 00:29:05,240
+on a les céphalosporines de troisième génération injectables.
+
+480
+00:29:05,440 --> 00:29:09,280
+Alors pour les céphalosporines de troisième génération orale,
+
+481
+00:29:09,900 --> 00:29:13,000
+ils résistent mieux à certains beta-lactamases, donc
+
+482
+00:29:13,000 --> 00:29:15,060
+ils sont indiqués dans le traitement de beaucoup
+
+483
+00:29:15,060 --> 00:29:18,200
+d'autres entérobactéries, mais ils sont moins actifs
+
+484
+00:29:18,200 --> 00:29:21,500
+sur le coxygène positif, en particulier le pneumocoque.
+
+485
+00:29:21,640 --> 00:29:22,960
+C'est-à-dire qu'ils ne sont
+
+486
+00:29:22,960 --> 00:29:27,580
+pas utilisés dans le traitement des infections respiratoires,
+
+487
+00:29:28,100 --> 00:29:30,940
+vu qu'ils sont moins actifs sur le
+
+488
+00:29:30,940 --> 00:29:34,480
+pneumocoque, ils restent actifs, beaucoup plus sensibles à
+
+489
+00:29:34,480 --> 00:29:35,500
+la pénicillie.
+
+490
+00:29:36,000 --> 00:29:38,500
+Pour les indications, on a essentiellement les infections
+
+491
+00:29:38,500 --> 00:29:43,580
+non sévères aux orales, bronchite, cystite, pyelonephrite, qui
+
+492
+00:29:43,580 --> 00:29:47,640
+ont un relais à une céphalosporine troisième génération
+
+493
+00:29:47,640 --> 00:29:51,880
+injectable, quelques molécules comme la cifixime et la
+
+494
+00:29:51,880 --> 00:29:53,080
+cifodoxime.
+
+495
+00:29:57,120 --> 00:30:01,620
+Pour les céphalosporines de troisième génération injectables, ils
+
+496
+00:30:01,620 --> 00:30:04,780
+résistent mieux à certains beta-lactamases, donc ils
+
+497
+00:30:04,780 --> 00:30:07,220
+agissent sur plusieurs entérobactéries.
+
+498
+00:30:07,740 --> 00:30:11,020
+Ils ont une activité variable sur le pseudomonas
+
+499
+00:30:11,020 --> 00:30:13,600
+et la cynitobactère selon la molécule.
+
+500
+00:30:13,720 --> 00:30:18,140
+Par exemple, la ceftriaxone et la cifodoxime n
+
+501
+00:30:18,140 --> 00:30:20,720
+'ont aucune action sur le pseudomonas, par contre
+
+502
+00:30:20,720 --> 00:30:23,880
+la ceftazidime a une action sur le pseudomonas.
+
+503
+00:30:24,080 --> 00:30:26,860
+Ils sont actifs sur streptocoque et pneumocoque, même
+
+504
+00:30:26,860 --> 00:30:30,720
+sur le pneumocoque de sensibilité diminuée à la
+
+505
+00:30:30,720 --> 00:30:33,840
+pénicilline, mais ils restent quand même inactifs contre
+
+506
+00:30:33,840 --> 00:30:37,680
+l'isteria enterocoque et les germes intracellulaires.
+
+507
+00:30:37,860 --> 00:30:44,340
+C'est une insensibilité naturelle et ils sont
+
+508
+00:30:45,620 --> 00:30:48,760
+inefficaces sur le staphylocoque résistant à la myticilline
+
+509
+00:30:48,760 --> 00:30:51,360
+par acquisition de résistance.
+
+510
+00:30:52,020 --> 00:30:55,160
+Ils ont une bonne diffusion même dans les
+
+511
+00:30:55,160 --> 00:30:58,700
+méninges, ce qui les rend utilisables en cas
+
+512
+00:30:58,700 --> 00:31:00,840
+de traitement de meningite, à la différence du
+
+513
+00:31:00,840 --> 00:31:02,980
+céphalosporine de troisième génération orale.
+
+514
+00:31:03,620 --> 00:31:06,440
+Ils ont aussi une élimination biliaire importante pour
+
+515
+00:31:06,440 --> 00:31:08,560
+la ceftriaxone et urinaire pour les autres.
+
+516
+00:31:11,250 --> 00:31:15,950
+Les céphalosporines de troisième génération injectables ont essentiellement
+
+517
+00:31:15,950 --> 00:31:19,670
+une utilisation hospitalière, sauf pour la ceftriaxone, parce
+
+518
+00:31:19,670 --> 00:31:22,150
+qu'avec la demi-vie élevée de la
+
+519
+00:31:22,150 --> 00:31:24,910
+ceftriaxone, on peut l'utiliser une seule fois
+
+520
+00:31:24,910 --> 00:31:26,930
+par jour pour avoir un trait musculaire, ce
+
+521
+00:31:26,930 --> 00:31:29,290
+qui est possible en extra-hospitalier.
+
+522
+00:31:29,390 --> 00:31:34,110
+D'autres molécules comme la cifotaxime, la ceftazidime,
+
+523
+00:31:35,050 --> 00:31:39,490
+sont à usage essentiellement hospitalier vu le nombre
+
+524
+00:31:39,490 --> 00:31:42,150
+élevé d'injections qu'il faut réaliser par
+
+525
+00:31:42,150 --> 00:31:42,410
+jour.
+
+526
+00:31:44,030 --> 00:31:45,850
+Et voilà, c'est la fin de ce
+
+527
+00:31:45,850 --> 00:31:46,190
+cours là.

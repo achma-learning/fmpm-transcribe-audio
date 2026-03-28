@@ -1,0 +1,1307 @@
+1
+00:00:01,670 --> 00:00:04,430
+Bonjour, aujourd'hui on va voir le cours
+
+2
+00:00:04,430 --> 00:00:05,150
+de la fièvre.
+
+3
+00:00:06,990 --> 00:00:08,750
+Alors les objectifs de ce cours, c'est
+
+4
+00:00:08,750 --> 00:00:11,350
+de connaître la définition de la fièvre et
+
+5
+00:00:11,350 --> 00:00:13,550
+de l'hyperthermie, faire la différence entre les
+
+6
+00:00:13,550 --> 00:00:16,530
+deux termes, d'expliquer la physiopathologie de la
+
+7
+00:00:16,530 --> 00:00:18,690
+fièvre, de reconnaître les dangers immédiats de la
+
+8
+00:00:18,690 --> 00:00:20,570
+fièvre, d'écrire les modalités de la prise
+
+9
+00:00:20,570 --> 00:00:23,030
+de la température, ainsi que les caractéristiques des
+
+10
+00:00:23,030 --> 00:00:26,890
+thermomètres disponibles, et d'interpréter les différents courbes
+
+11
+00:00:26,890 --> 00:00:29,950
+thermiques et de discerner l'ithiologie d'une
+
+12
+00:00:29,950 --> 00:00:30,310
+fièvre.
+
+13
+00:00:31,110 --> 00:00:33,730
+Alors une fièvre, c'est une élévation de
+
+14
+00:00:33,730 --> 00:00:37,170
+la température centrale dépassant 37,5 le matin
+
+15
+00:00:37,170 --> 00:00:40,150
+et 37,8 le soir, alors que le
+
+16
+00:00:40,150 --> 00:00:42,890
+sujet est au repos depuis plus d'un
+
+17
+00:00:42,890 --> 00:00:45,070
+quart d'heure et agent depuis plus de
+
+18
+00:00:45,070 --> 00:00:45,550
+deux heures.
+
+19
+00:00:46,110 --> 00:00:51,210
+Et selon les sites de température, on a
+
+20
+00:00:51,210 --> 00:00:54,970
+une température supérieure à égal 38 degrés, après
+
+21
+00:00:54,970 --> 00:00:57,530
+un quart d'heure de repos allongé en
+
+22
+00:00:57,530 --> 00:01:02,090
+évaluation rectale ou buccale, et une température supérieure
+
+23
+00:01:02,090 --> 00:01:04,349
+à égal 37,5 après un quart d
+
+24
+00:01:04,349 --> 00:01:07,210
+'heure de repos allongé en évaluation axillaire.
+
+25
+00:01:09,030 --> 00:01:14,750
+Aussi, les conséquences d'un déréglage de thermostat
+
+26
+00:01:14,750 --> 00:01:19,070
+ou d'équilibre thermique qui est déplacé vers
+
+27
+00:01:19,070 --> 00:01:21,450
+le haut, ça peut être aussi la cause
+
+28
+00:01:21,450 --> 00:01:22,890
+d'apparition de fièvre.
+
+29
+00:01:26,330 --> 00:01:30,150
+Alors la fièvre, elle peut être soit isolée
+
+30
+00:01:30,150 --> 00:01:32,750
+ou associée à d'autres signes, c'est
+
+31
+00:01:32,750 --> 00:01:34,490
+pour ça qu'il faut faire un interrogatoire
+
+32
+00:01:34,490 --> 00:01:37,990
+détaillé, écouter les plaintes du patient, réaliser un
+
+33
+00:01:37,990 --> 00:01:39,330
+examen clinique complet.
+
+34
+00:01:40,430 --> 00:01:42,410
+Et selon le mode d'installation et la
+
+35
+00:01:42,410 --> 00:01:44,590
+durée d'évolution, on a soit une fièvre
+
+36
+00:01:44,590 --> 00:01:47,350
+récente qui est moins de cinq jours, soit
+
+37
+00:01:47,350 --> 00:01:51,170
+qu'une fièvre installée qui dépasse cinq jours,
+
+38
+00:01:51,390 --> 00:01:53,910
+ou une fièvre prolongée quand il dépasse 15
+
+39
+00:01:53,910 --> 00:01:56,490
+jours chez l'enfant ou dépasse 21 jours
+
+40
+00:01:56,490 --> 00:01:57,590
+chez l'adulte.
+
+41
+00:01:57,930 --> 00:02:01,170
+Et la fièvre est un symptôme majeur des
+
+42
+00:02:01,170 --> 00:02:05,030
+maladies infectieuses qui permet le diagnostic, la surveillance
+
+43
+00:02:05,030 --> 00:02:07,910
+et même l'évaluation de l'étant.
+
+44
+00:02:09,389 --> 00:02:12,510
+Alors à la différence, une hyperthermie c'est
+
+45
+00:02:12,510 --> 00:02:15,990
+une augmentation de la température corporelle qui peut
+
+46
+00:02:15,990 --> 00:02:18,790
+être due soit à une augmentation de la
+
+47
+00:02:18,790 --> 00:02:22,950
+thermogénèse, soit une augmentation de la température extérieure
+
+48
+00:02:22,950 --> 00:02:26,390
+ou à une diminution de la sudation et
+
+49
+00:02:26,390 --> 00:02:28,810
+ou une insuffisance des apports hydriques.
+
+50
+00:02:28,810 --> 00:02:32,130
+Et dans ce cas-là, le thermostat, à
+
+51
+00:02:32,130 --> 00:02:34,870
+la différence de la fièvre, il est resté
+
+52
+00:02:34,870 --> 00:02:36,530
+au point d'équilibre, donc il n'a
+
+53
+00:02:36,530 --> 00:02:37,590
+pas été modifié.
+
+54
+00:02:41,580 --> 00:02:45,780
+Alors la thermorégulation, c'est la régulation de
+
+55
+00:02:45,780 --> 00:02:49,460
+la fièvre à partir du centre de thermorégulation
+
+56
+00:02:49,460 --> 00:02:53,380
+qui fait un équilibre entre la thermogénèse, c
+
+57
+00:02:53,380 --> 00:02:55,680
+'est-à-dire la production de la température
+
+58
+00:02:55,680 --> 00:02:59,160
+et la déperdition, c'est ce qu'on
+
+59
+00:02:59,160 --> 00:03:01,000
+appelle la thermolyse.
+
+60
+00:03:01,420 --> 00:03:03,800
+C'est grâce à cet équilibre-là qu
+
+61
+00:03:03,800 --> 00:03:06,880
+'on a une température qui est fixe à
+
+62
+00:03:06,880 --> 00:03:07,900
+l'état normal.
+
+63
+00:03:11,130 --> 00:03:14,650
+Des mécanismes d'échange avec le milieu extérieur
+
+64
+00:03:14,650 --> 00:03:20,290
+peuvent faire varier la température ou la perte,
+
+65
+00:03:20,290 --> 00:03:24,230
+comme la conduction qui constitue un transfert de
+
+66
+00:03:24,230 --> 00:03:27,570
+chaleur entre deux objets qui sont en contact
+
+67
+00:03:27,570 --> 00:03:29,290
+direct l'un avec l'autre, c'est
+
+68
+00:03:29,290 --> 00:03:31,810
+-à-dire que, par exemple, si vous êtes
+
+69
+00:03:31,810 --> 00:03:36,410
+assis sur une chaise froide, votre température va
+
+70
+00:03:36,410 --> 00:03:39,810
+passer de votre corps vers la chaise et
+
+71
+00:03:39,810 --> 00:03:42,750
+à un certain moment, la chaise va avoir
+
+72
+00:03:42,750 --> 00:03:45,690
+votre température corporelle.
+
+73
+00:03:47,010 --> 00:03:50,210
+La radiation, c'est une perte ou gain
+
+74
+00:03:50,210 --> 00:03:53,450
+de chaleur sous forme d'ondes infrarouges, ce
+
+75
+00:03:53,450 --> 00:03:55,710
+qu'on appelle l'énergie thermique, qui est
+
+76
+00:03:55,710 --> 00:03:57,610
+due au flux de l'énergie radiante qui
+
+77
+00:03:57,610 --> 00:03:59,970
+va de plus chaud vers le plus froid.
+
+78
+00:04:00,490 --> 00:04:02,710
+Dans ce cas-là, les deux corps ne
+
+79
+00:04:02,710 --> 00:04:04,470
+sont pas collés l'un à l'autre,
+
+80
+00:04:05,590 --> 00:04:06,570
+ils sont éloignés.
+
+81
+00:04:07,150 --> 00:04:09,930
+La convection, c'est l'air chaud qui
+
+82
+00:04:09,930 --> 00:04:11,510
+a tendance à s'élever.
+
+83
+00:04:11,510 --> 00:04:14,750
+L'air réchauffé qui entoure le corps est
+
+84
+00:04:14,750 --> 00:04:18,089
+continuellement remplacé par des molécules d'air plus
+
+85
+00:04:18,089 --> 00:04:20,790
+froid, c'est-à-dire qu'autour d
+
+86
+00:04:20,790 --> 00:04:23,590
+'un corps, il y aura de l'air
+
+87
+00:04:23,590 --> 00:04:26,690
+qui va se réchauffer, remonter pour faire abaisser
+
+88
+00:04:26,690 --> 00:04:28,390
+de l'air froid, qui va se réchauffer
+
+89
+00:04:28,390 --> 00:04:29,750
+et remonter par la suite.
+
+90
+00:04:30,150 --> 00:04:32,830
+L'évaporation, c'est une manière de déperdition
+
+91
+00:04:32,830 --> 00:04:33,550
+de la chaleur.
+
+92
+00:04:33,550 --> 00:04:36,830
+On aura l'eau qui va s'évaporer,
+
+93
+00:04:37,130 --> 00:04:39,190
+car les molécules d'eau absorbent de la
+
+94
+00:04:39,190 --> 00:04:41,210
+chaleur de l'environnement et possèdent assez d
+
+95
+00:04:41,210 --> 00:04:43,390
+'énergie pour s'échapper sous forme de gaz
+
+96
+00:04:43,390 --> 00:04:46,130
+aux endroits où la peau est en contact
+
+97
+00:04:46,130 --> 00:04:46,790
+avec l'air.
+
+98
+00:04:49,000 --> 00:04:52,120
+C'est juste un schéma qui vous explique
+
+99
+00:04:52,120 --> 00:04:56,120
+les différents moyens de déperdition de la chaleur
+
+100
+00:04:56,120 --> 00:04:59,180
+qu'on a expliqué dans la diapo précédente.
+
+101
+00:05:00,220 --> 00:05:03,020
+Alors, comment se fait le contrôle de l
+
+102
+00:05:03,020 --> 00:05:05,740
+'eau myothermie par l'hépotalamus ?
+
+103
+00:05:05,740 --> 00:05:07,940
+On sait très bien que le centre de
+
+104
+00:05:07,940 --> 00:05:11,120
+thermostat est situé au niveau de l'hépotalamus.
+
+105
+00:05:11,620 --> 00:05:15,720
+L'hépotalamus va recevoir de l'information de
+
+106
+00:05:15,720 --> 00:05:22,360
+ses récepteurs périphériques qui viennent de la peau
+
+107
+00:05:22,360 --> 00:05:25,360
+de certains organes, comme le foie et les
+
+108
+00:05:25,360 --> 00:05:29,860
+muscles, soit pour produire de la chaleur ou
+
+109
+00:05:29,860 --> 00:05:32,100
+pour faire perdre de la chaleur.
+
+110
+00:05:32,180 --> 00:05:38,080
+Par exemple, quand il fait froid, il y
+
+111
+00:05:38,080 --> 00:05:41,160
+a vos récepteurs de la peau qui vont
+
+112
+00:05:41,160 --> 00:05:48,180
+sentir le froid, ils vont acheminer l'information
+
+113
+00:05:48,180 --> 00:05:53,980
+vers l'hépotalamus, il va traiter l'information
+
+114
+00:05:53,980 --> 00:05:57,790
+en vous demandant une modification du comportement.
+
+115
+00:05:58,180 --> 00:05:59,580
+C'est ce qui va faire que vous
+
+116
+00:05:59,580 --> 00:06:04,840
+allez vous habiller avec des vêtements chauds et
+
+117
+00:06:04,840 --> 00:06:08,180
+aussi il va envoyer l'information vers vos
+
+118
+00:06:08,180 --> 00:06:09,740
+organes de périphérie.
+
+119
+00:06:09,740 --> 00:06:12,540
+Par exemple, le foie et les muscles pour
+
+120
+00:06:12,540 --> 00:06:14,760
+produire de la chaleur, vous avez tendance à
+
+121
+00:06:14,760 --> 00:06:17,580
+vous contracter, à avoir des frissons pour produire
+
+122
+00:06:17,580 --> 00:06:18,280
+de la chaleur.
+
+123
+00:06:18,720 --> 00:06:21,440
+Et aussi vers votre peau pour lui dire
+
+124
+00:06:21,440 --> 00:06:26,240
+de faire une vasoconstriction pour diminuer la déperdition
+
+125
+00:06:26,240 --> 00:06:28,040
+de la chaleur par votre peau.
+
+126
+00:06:28,360 --> 00:06:30,220
+Et à l'inverse, quand il fait très
+
+127
+00:06:30,220 --> 00:06:33,000
+chaud, la même information est transportée vers votre
+
+128
+00:06:33,000 --> 00:06:36,580
+hépotalamus, il va faire changer votre comportement en
+
+129
+00:06:36,580 --> 00:06:39,340
+vous demandant de moins s'habiller, de se
+
+130
+00:06:39,340 --> 00:06:41,300
+mettre à l'abri de la température, de
+
+131
+00:06:41,300 --> 00:06:45,960
+boire beaucoup d'eau et d'autres réponses
+
+132
+00:06:45,960 --> 00:06:48,940
+vont être acheminées à vos organes.
+
+133
+00:06:48,940 --> 00:06:51,780
+Et comme ça, il y aura une vasodélatation
+
+134
+00:06:51,780 --> 00:06:54,940
+de la peau pour une déperdition maximum de
+
+135
+00:06:54,940 --> 00:06:58,800
+la chaleur vers l'extérieur et c'est
+
+136
+00:06:58,800 --> 00:07:02,040
+comme ça qu'on va maintenir votre température
+
+137
+00:07:02,040 --> 00:07:06,060
+à une valeur normale au niveau de votre
+
+138
+00:07:06,060 --> 00:07:06,420
+corps.
+
+139
+00:07:08,380 --> 00:07:12,980
+Alors comment se fait que la fièvre apparaît?
+
+140
+00:07:13,320 --> 00:07:14,880
+C'est qu'il y a un déséquilibre
+
+141
+00:07:14,880 --> 00:07:18,260
+entre la thermogénèse, la production de la température,
+
+142
+00:07:18,760 --> 00:07:21,880
+une diminution de la thermolyse, c'est-à
+
+143
+00:07:21,880 --> 00:07:25,480
+-dire de la déperdition de la température suite
+
+144
+00:07:25,480 --> 00:07:28,860
+à une dysrégulation du thermostat qui passe de
+
+145
+00:07:28,860 --> 00:07:31,300
+la valeur normale de 37 à une valeur
+
+146
+00:07:31,300 --> 00:07:34,460
+supérieure en fonction de la dysrégulation.
+
+147
+00:07:36,620 --> 00:07:41,520
+Alors prenons ici l'exemple d'une situation
+
+148
+00:07:41,520 --> 00:07:44,260
+où la température va augmenter comme le cas
+
+149
+00:07:44,260 --> 00:07:46,080
+d'une infection où il y aura une
+
+150
+00:07:46,080 --> 00:07:49,880
+activation de pérogènes exogènes, ce sont des pérogènes
+
+151
+00:07:49,880 --> 00:07:53,760
+qui sont produits par l'agent pathogène et
+
+152
+00:07:53,760 --> 00:07:56,980
+qui vont activer les monocytes et les macrophages
+
+153
+00:07:56,980 --> 00:08:00,420
+responsables d'une production de pérogènes ondogènes, ce
+
+154
+00:08:00,420 --> 00:08:04,300
+sont des éléments inflammatoires corporels de notre corps.
+
+155
+00:08:04,460 --> 00:08:07,620
+Alors ces pérogènes exogènes produits par les bactéries
+
+156
+00:08:07,620 --> 00:08:10,680
+et ces pérogènes ondogènes produits par notre corps,
+
+157
+00:08:11,120 --> 00:08:15,440
+ils vont stimuler l'endothélium hypothalamique et par
+
+158
+00:08:15,440 --> 00:08:18,380
+la production de prostaglandine et de l'AMP
+
+159
+00:08:18,380 --> 00:08:21,320
+cyclique, ils vont agir sur l'hypothalamus qui
+
+160
+00:08:21,320 --> 00:08:23,680
+est le centre de thermorégulation et il y
+
+161
+00:08:23,680 --> 00:08:26,740
+aura une dysrégulation du thermostat qui va passer
+
+162
+00:08:26,740 --> 00:08:29,000
+d'une valeur normale de 37 à une
+
+163
+00:08:29,000 --> 00:08:30,060
+valeur supérieure.
+
+164
+00:08:30,060 --> 00:08:31,840
+Et dans ce cas là, il y aura
+
+165
+00:08:31,840 --> 00:08:38,100
+une hyperproduction avec apparition de la fièvre.
+
+166
+00:08:40,370 --> 00:08:45,510
+Alors pour mesurer la température, plusieurs sites sont
+
+167
+00:08:45,510 --> 00:08:49,890
+possibles, mais la mesure de la température doit
+
+168
+00:08:49,890 --> 00:08:54,690
+être fiable, précise et reproductive et la température
+
+169
+00:08:54,690 --> 00:08:57,290
+centrale, il est mieux mesurée par voie interne
+
+170
+00:08:57,290 --> 00:09:00,630
+au niveau de la terre pulmonaire ou en
+
+171
+00:09:00,630 --> 00:09:01,890
+bas de l'osophage, ce qui n'est
+
+172
+00:09:01,890 --> 00:09:05,210
+pas possible dans notre vie courante.
+
+173
+00:09:06,950 --> 00:09:11,650
+Alors d'autres sites qui peuvent donner une
+
+174
+00:09:11,650 --> 00:09:15,350
+température qui s'approche du site central, c
+
+175
+00:09:15,350 --> 00:09:20,050
+'est le site buccal, le site rectal tampanique
+
+176
+00:09:20,050 --> 00:09:23,330
+qui peuvent permettre une mesure fiable car ils
+
+177
+00:09:23,330 --> 00:09:26,370
+sont vascularisés et ils sont isolés de l
+
+178
+00:09:26,370 --> 00:09:30,530
+'extérieur et ne constituent aucun danger pour le
+
+179
+00:09:30,530 --> 00:09:30,850
+patient.
+
+180
+00:09:33,510 --> 00:09:37,150
+Alors dans ce tableau là, on va exposer
+
+181
+00:09:37,150 --> 00:09:41,430
+les différents sites de prise de la température.
+
+182
+00:09:41,910 --> 00:09:43,450
+Donc il y a le site axillaire où
+
+183
+00:09:43,450 --> 00:09:45,630
+on va mettre la pointe du thermomètre dans
+
+184
+00:09:45,630 --> 00:09:48,390
+le creux axillaire avec le coude qui est
+
+185
+00:09:48,390 --> 00:09:49,250
+contre le corps.
+
+186
+00:09:49,890 --> 00:09:51,390
+Mais dans ce cas là, il faut ajouter
+
+187
+00:09:51,390 --> 00:09:54,230
+un degré par rapport à la température qu
+
+188
+00:09:54,230 --> 00:09:56,290
+'on va obtenir sur le thermomètre.
+
+189
+00:09:56,290 --> 00:09:58,630
+Il faut le laisser quand même pendant une
+
+190
+00:09:58,630 --> 00:10:00,930
+durée très suffisante, jusqu'à 10 minutes.
+
+191
+00:10:01,510 --> 00:10:03,630
+C'est une méthode qui est simple, non
+
+192
+00:10:03,630 --> 00:10:06,850
+invasive, mais elle est souvent influencée par la
+
+193
+00:10:06,850 --> 00:10:11,310
+température extérieure et les valeurs obtenues sont plus
+
+194
+00:10:11,310 --> 00:10:13,150
+basses que dans les autres sites de mesure.
+
+195
+00:10:13,650 --> 00:10:15,950
+Et il peut être modifié si le patient
+
+196
+00:10:15,950 --> 00:10:18,230
+est maigre par exemple.
+
+197
+00:10:18,230 --> 00:10:22,810
+La température rectale, il faut introduire le thermomètre
+
+198
+00:10:22,810 --> 00:10:26,130
+jusqu'à 1 et 2 centimètres de la
+
+199
+00:10:26,130 --> 00:10:26,810
+marge anale.
+
+200
+00:10:27,090 --> 00:10:28,550
+Il faut le laisser pendant 3 minutes.
+
+201
+00:10:28,670 --> 00:10:30,370
+C'est une méthode de référence mais elle
+
+202
+00:10:30,370 --> 00:10:33,770
+est très désagréable et n'est pas supportée
+
+203
+00:10:33,770 --> 00:10:36,490
+par les patients avec des risques de traumatismes
+
+204
+00:10:36,490 --> 00:10:38,150
+et d'ulcérations de la marge anale.
+
+205
+00:10:38,650 --> 00:10:40,070
+Et il est contre-indiqué s'il y
+
+206
+00:10:40,070 --> 00:10:41,990
+a eu des lésions locales, s'il s
+
+207
+00:10:41,990 --> 00:10:43,390
+'agit d'un nouveau-né ou si le
+
+208
+00:10:43,390 --> 00:10:45,910
+patient prend des anticoagulants avec le risque de
+
+209
+00:10:45,910 --> 00:10:46,310
+saignement.
+
+210
+00:10:47,890 --> 00:10:51,290
+Le site buccal, c'est-à-dire on
+
+211
+00:10:51,290 --> 00:10:55,190
+va mettre le thermomètre en sublingual et en
+
+212
+00:10:55,190 --> 00:10:58,350
+postérolatéral du frein avec les lèvres fermées.
+
+213
+00:10:58,950 --> 00:11:00,710
+Il faut le laisser pendant 1 minute.
+
+214
+00:11:00,850 --> 00:11:03,870
+C'est une méthode très facilement accessible mais
+
+215
+00:11:03,870 --> 00:11:06,650
+il est influencé quand même par l'air
+
+216
+00:11:06,650 --> 00:11:07,710
+ambiant, c'est pour ça qu'il faut
+
+217
+00:11:07,710 --> 00:11:08,890
+garder la bouche fermée.
+
+218
+00:11:10,290 --> 00:11:15,150
+Aussi, il peut être influencé si on a
+
+219
+00:11:15,150 --> 00:11:19,070
+pris des poissons chauds ou froids avant la
+
+220
+00:11:19,070 --> 00:11:20,270
+prise de la température.
+
+221
+00:11:20,510 --> 00:11:22,130
+Donc, il faut la prendre par cette voie
+
+222
+00:11:22,130 --> 00:11:26,310
+-là, loin de la prise alimentaire ou de
+
+223
+00:11:26,310 --> 00:11:28,030
+la prise de poissons.
+
+224
+00:11:29,270 --> 00:11:32,810
+Le site tympanique, il faut mettre l'embout
+
+225
+00:11:32,810 --> 00:11:36,150
+du thermomètre dans l'axe du conduit auditif
+
+226
+00:11:36,150 --> 00:11:38,090
+externe en face du tympan.
+
+227
+00:11:38,510 --> 00:11:40,030
+Donc, c'est une méthode qui est très
+
+228
+00:11:40,030 --> 00:11:44,950
+rapide, facile et seulement le problème de nourrisson
+
+229
+00:11:44,950 --> 00:11:47,630
+avec le fait qu'il bouge ou le
+
+230
+00:11:47,630 --> 00:11:49,470
+conduit auditif qui ne permet pas.
+
+231
+00:11:50,850 --> 00:11:57,290
+Alors, selon le site, vous avez les plages
+
+232
+00:11:57,290 --> 00:11:58,630
+de température normale.
+
+233
+00:11:58,770 --> 00:12:00,810
+Au niveau central, c'est 36,4 à
+
+234
+00:12:00,810 --> 00:12:01,770
+37,9.
+
+235
+00:12:01,950 --> 00:12:04,170
+Rectal 36,6 à 38.
+
+236
+00:12:04,410 --> 00:12:06,730
+Auriculaire 38,5 à 38.
+
+237
+00:12:07,650 --> 00:12:11,370
+Buccal 35,5 à 37,5 et axillaire
+
+238
+00:12:11,370 --> 00:12:14,530
+de 34,7 à 37,3.
+
+239
+00:12:15,530 --> 00:12:18,290
+Il y a des variations physiologiques de la
+
+240
+00:12:18,290 --> 00:12:21,010
+température qu'il faut prendre en considération.
+
+241
+00:12:21,190 --> 00:12:24,310
+Par exemple, la température est variable entre le
+
+242
+00:12:24,310 --> 00:12:25,170
+matin et le soir.
+
+243
+00:12:25,730 --> 00:12:30,510
+La température peut augmenter aussi de quelques degrés
+
+244
+00:12:30,510 --> 00:12:31,950
+avec les forces.
+
+245
+00:12:32,470 --> 00:12:35,970
+La température est aussi variable au cours du
+
+246
+00:12:35,970 --> 00:12:36,870
+cycle menstruel.
+
+247
+00:12:37,250 --> 00:12:41,890
+Elle augmente de 3 à 4 dixièmes après
+
+248
+00:12:41,890 --> 00:12:42,610
+l'ovulation.
+
+249
+00:12:42,610 --> 00:12:45,810
+Donc, c'est pour ça qu'il faut
+
+250
+00:12:45,810 --> 00:12:49,250
+prendre la température après le repos pour ne
+
+251
+00:12:49,250 --> 00:12:51,950
+pas être influencé par les efforts physiques que
+
+252
+00:12:51,950 --> 00:12:52,550
+vous venez de faire.
+
+253
+00:12:53,650 --> 00:12:57,650
+Cette augmentation au cours du cycle menstruel a
+
+254
+00:12:57,650 --> 00:13:00,950
+permis de choisir le moment opportun pour tomber
+
+255
+00:13:00,950 --> 00:13:01,590
+enceinte.
+
+256
+00:13:02,430 --> 00:13:06,810
+Et aussi, c'est utilisé comme moyen de
+
+257
+00:13:06,810 --> 00:13:10,010
+contraception pour éviter le rapport sexuel au niveau
+
+258
+00:13:10,010 --> 00:13:12,350
+de cette phase d'ovulation pour ne pas
+
+259
+00:13:12,350 --> 00:13:13,170
+tomber enceinte.
+
+260
+00:13:15,820 --> 00:13:20,020
+Pour les thermomètres disponibles, rapidement, on a le
+
+261
+00:13:20,020 --> 00:13:21,380
+thermomètre à cristaux.
+
+262
+00:13:21,640 --> 00:13:23,780
+C'est un thermomètre où on a des
+
+263
+00:13:23,780 --> 00:13:28,220
+casiers qui vont se colorer par la suite
+
+264
+00:13:28,220 --> 00:13:31,200
+avec un emploi facile et sans danger qu
+
+265
+00:13:31,200 --> 00:13:32,700
+'on va appliquer sur le front.
+
+266
+00:13:33,580 --> 00:13:35,840
+Il y a six barres de cristaux liquides
+
+267
+00:13:35,840 --> 00:13:38,740
+qui vont changer de couleur en fonction de
+
+268
+00:13:38,740 --> 00:13:39,740
+la température.
+
+269
+00:13:39,740 --> 00:13:44,320
+Donc, il a une sensibilité faible avec risque
+
+270
+00:13:44,320 --> 00:13:46,740
+aussi de faux positifs et de faux négatifs.
+
+271
+00:13:48,200 --> 00:13:50,340
+C'est à usage unique et jetable par
+
+272
+00:13:50,340 --> 00:13:50,740
+la suite.
+
+273
+00:13:51,340 --> 00:13:54,080
+On a le thermomètre à changement de phase
+
+274
+00:13:54,080 --> 00:13:57,300
+aux matrices de points, donc à usage unique,
+
+275
+00:13:57,780 --> 00:14:00,920
+avec des bandelettes en plastique et 50 points
+
+276
+00:14:00,920 --> 00:14:03,340
+thermosensibles qui vont se colorer du blanc au
+
+277
+00:14:03,340 --> 00:14:05,900
+bleu pour chacun d'eux et allant de
+
+278
+00:14:05,900 --> 00:14:08,620
+35,5 jusqu'à 44,5.
+
+279
+00:14:08,620 --> 00:14:11,260
+Et le site d'utilisation, c'est le
+
+280
+00:14:11,260 --> 00:14:12,440
+site buccal, c'est-à-dire on va
+
+281
+00:14:12,440 --> 00:14:14,520
+mettre le beau au niveau buccal et on
+
+282
+00:14:14,520 --> 00:14:16,740
+va attendre la coloration qui va apparaître par
+
+283
+00:14:16,740 --> 00:14:17,100
+la suite.
+
+284
+00:14:17,680 --> 00:14:20,740
+Alors, le thermomètre électrique, il y a le
+
+285
+00:14:20,740 --> 00:14:23,340
+thermomètre électrique à mettre au niveau axillaire, buccal
+
+286
+00:14:23,340 --> 00:14:24,080
+et rectal.
+
+287
+00:14:24,480 --> 00:14:27,320
+Il y a même l'utilisation de protection
+
+288
+00:14:27,320 --> 00:14:31,180
+à usage unique de la sonde pour l
+
+289
+00:14:31,180 --> 00:14:33,780
+'hygiène et pour qu'on puisse les utiliser
+
+290
+00:14:33,780 --> 00:14:35,740
+sur d'autres patients.
+
+291
+00:14:35,740 --> 00:14:38,480
+Mais quand même, il faut faire très attention
+
+292
+00:14:38,480 --> 00:14:40,940
+à cette hygiène pour éviter le risque d
+
+293
+00:14:40,940 --> 00:14:42,660
+'infection nosocomiale.
+
+294
+00:14:43,020 --> 00:14:46,920
+Ces thermomètres électroniques peuvent se présenter sous forme
+
+295
+00:14:46,920 --> 00:14:51,520
+de sucette pour les bébés et ça permet
+
+296
+00:14:51,520 --> 00:14:55,740
+de mesurer la température supralinguale plutôt que sublinguale.
+
+297
+00:14:56,880 --> 00:15:01,360
+Les thermomètres tampaniques permettent de mesurer le rayonnement
+
+298
+00:15:01,360 --> 00:15:02,720
+infrarouge du tampon.
+
+299
+00:15:02,720 --> 00:15:05,880
+Ils sont faciles, rapides, donc ils ne sont
+
+300
+00:15:05,880 --> 00:15:08,120
+pas influencés par l'existence d'un bouchon
+
+301
+00:15:08,120 --> 00:15:08,900
+de cerf humain.
+
+302
+00:15:09,640 --> 00:15:11,420
+Il y a le thermomètre à gallium.
+
+303
+00:15:11,560 --> 00:15:14,620
+C'est un thermomètre qui nous rappelle le
+
+304
+00:15:14,620 --> 00:15:17,500
+thermomètre à mercure qui ne sont plus disponibles
+
+305
+00:15:17,500 --> 00:15:18,000
+maintenant.
+
+306
+00:15:18,560 --> 00:15:20,520
+Le gallium, c'est un métal liquide.
+
+307
+00:15:22,480 --> 00:15:25,360
+Quand il est exposé à la température ambiante,
+
+308
+00:15:25,540 --> 00:15:26,100
+il est liquide.
+
+309
+00:15:26,100 --> 00:15:30,460
+Il a les mêmes propriétés thermosensibles que le
+
+310
+00:15:30,460 --> 00:15:30,860
+mercure.
+
+311
+00:15:30,980 --> 00:15:33,600
+Il n'est pas toxique pour l'homme
+
+312
+00:15:33,600 --> 00:15:34,460
+et l'environnement.
+
+313
+00:15:35,180 --> 00:15:39,240
+Il est peu coûteux, donc il faut le
+
+314
+00:15:39,240 --> 00:15:42,620
+mettre, respecter la durée d'emplacement et lire
+
+315
+00:15:42,620 --> 00:15:44,940
+par la suite la température après.
+
+316
+00:15:46,340 --> 00:15:49,620
+Le dernier, c'est le thermomètre infrarouge, sans
+
+317
+00:15:49,620 --> 00:15:50,720
+contact, c'est-à-dire qu'il faut
+
+318
+00:15:50,720 --> 00:15:52,280
+le placer en face de la peau.
+
+319
+00:15:52,760 --> 00:15:55,640
+Il permettra de mesurer la température.
+
+320
+00:15:56,080 --> 00:15:57,000
+Dans ce cas-là, il n'y a
+
+321
+00:15:57,000 --> 00:15:58,220
+pas de problème d'hygiène.
+
+322
+00:15:58,600 --> 00:16:02,640
+Il permet aussi la mesure de température en
+
+323
+00:16:02,640 --> 00:16:09,200
+masse, surtout maintenant avec cette épidémie de coronavirus.
+
+324
+00:16:10,560 --> 00:16:14,900
+Lorsque les frontières étaient ouvertes, ça nous permet
+
+325
+00:16:14,900 --> 00:16:18,440
+de prendre à la température de plusieurs voyageurs
+
+326
+00:16:18,440 --> 00:16:21,800
+à la fois sans être exposés et sans
+
+327
+00:16:21,800 --> 00:16:24,840
+problème d'hygiène par la suite.

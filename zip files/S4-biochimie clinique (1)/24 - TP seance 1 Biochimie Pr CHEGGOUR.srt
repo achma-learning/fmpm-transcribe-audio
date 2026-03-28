@@ -1,0 +1,1035 @@
+1
+00:00:00,710 --> 00:00:03,610
+Bonjour, bienvenue dans cette capsule de la première
+
+2
+00:00:03,610 --> 00:00:05,930
+séance de travaux pratiques de biochimie deuxième année
+
+3
+00:00:05,930 --> 00:00:06,450
+médecine.
+
+4
+00:00:06,990 --> 00:00:09,050
+Nous allons voir ensemble une technique d'analyse
+
+5
+00:00:09,050 --> 00:00:11,950
+qui est quantitative des plus usuelles dans les
+
+6
+00:00:11,950 --> 00:00:13,810
+laboratoires d'analyse médicale.
+
+7
+00:00:13,910 --> 00:00:16,650
+C'est la spectrophotométrie avec une application sur
+
+8
+00:00:16,650 --> 00:00:19,510
+l'exploration biochimique du LCR dans le cas
+
+9
+00:00:19,510 --> 00:00:20,210
+du méningite.
+
+10
+00:00:21,310 --> 00:00:23,830
+L'appareil utilisé est un spectrophotomètre dont le
+
+11
+00:00:23,830 --> 00:00:25,630
+principe d'utilisation est simple.
+
+12
+00:00:25,630 --> 00:00:28,730
+On met notre échantillon à analyser qui est
+
+13
+00:00:28,730 --> 00:00:30,830
+sous forme d'une solution diluée dans une
+
+14
+00:00:30,830 --> 00:00:33,690
+cuve en quartz ou en verre, selon qu
+
+15
+00:00:33,690 --> 00:00:35,730
+'on en est respectivement en mode UV ou
+
+16
+00:00:35,730 --> 00:00:36,110
+visible.
+
+17
+00:00:37,110 --> 00:00:40,270
+Placé dans le spectrophotomètre, notre échantillon ici en
+
+18
+00:00:40,270 --> 00:00:43,050
+jaune sera traversé par une lumière émise par
+
+19
+00:00:43,050 --> 00:00:46,650
+la source, traité par un monochromateur et une
+
+20
+00:00:46,650 --> 00:00:48,910
+fois la lumière transmise, la mesure sera donnée
+
+21
+00:00:48,910 --> 00:00:49,770
+par un détecteur.
+
+22
+00:00:51,730 --> 00:00:54,330
+Revenons maintenant sur ces trois entités.
+
+23
+00:00:55,290 --> 00:00:59,470
+La source émet une lumière polychromatique avec des
+
+24
+00:00:59,470 --> 00:01:02,130
+ondes de longueurs différentes comme mentionnées avant.
+
+25
+00:01:02,870 --> 00:01:06,230
+Chaque longueur lambda est caractérisée dans le visible
+
+26
+00:01:06,230 --> 00:01:09,250
+par une nuance de couleur allant du violet
+
+27
+00:01:09,250 --> 00:01:09,870
+au rouge.
+
+28
+00:01:10,850 --> 00:01:13,350
+Ce fameux lambda est le premier paramètre que
+
+29
+00:01:13,350 --> 00:01:15,650
+l'on règle au niveau du spectrophotomètre avant
+
+30
+00:01:15,650 --> 00:01:16,350
+toute mesure.
+
+31
+00:01:17,590 --> 00:01:19,310
+Dans quel but ?
+
+32
+00:01:19,310 --> 00:01:23,030
+C'est pour permettre au monochromateur de dévier
+
+33
+00:01:23,030 --> 00:01:25,190
+à l'aide d'un prisme un seul
+
+34
+00:01:25,190 --> 00:01:28,710
+rayon monochromatique avec la longueur d'onde spécifiée
+
+35
+00:01:28,710 --> 00:01:31,530
+et qui correspond à une seule nuance de
+
+36
+00:01:31,530 --> 00:01:34,230
+couleur qui va être absorbée au maximum par
+
+37
+00:01:34,230 --> 00:01:35,150
+notre échantillon.
+
+38
+00:01:36,310 --> 00:01:38,350
+On peut se demander comment on détermine les
+
+39
+00:01:38,350 --> 00:01:39,050
+longueurs d'ondes.
+
+40
+00:01:39,770 --> 00:01:42,590
+Sachez que pour chaque soluté, la longueur d
+
+41
+00:01:42,590 --> 00:01:44,330
+'onde spécifique est toujours la même.
+
+42
+00:01:44,330 --> 00:01:47,410
+Pour la déterminer, il suffit de faire des
+
+43
+00:01:47,410 --> 00:01:50,370
+mesures des absorbances à plusieurs longueurs d'ondes
+
+44
+00:01:50,370 --> 00:01:52,830
+et de considérer la longueur qui donne une
+
+45
+00:01:52,830 --> 00:01:54,350
+absorbance maximale.
+
+46
+00:01:55,270 --> 00:01:57,690
+L'exemple ici de la bêta-carotène mesurée
+
+47
+00:01:57,690 --> 00:02:00,550
+à de 400 à 500 nm a montré
+
+48
+00:02:00,550 --> 00:02:05,050
+une absorbance maximale à lambda égale à 448
+
+49
+00:02:05,050 --> 00:02:05,670
+nm.
+
+50
+00:02:06,690 --> 00:02:08,389
+Revenons à notre échantillon.
+
+51
+00:02:09,050 --> 00:02:12,010
+Celui-ci sera soumis à un faisceau incident
+
+52
+00:02:12,010 --> 00:02:15,550
+d'intensité I0 qui sera transmis avec une
+
+53
+00:02:15,550 --> 00:02:18,150
+intensité I inférieure à I0.
+
+54
+00:02:19,350 --> 00:02:22,750
+Le rapport I sur I0 est la transmittance.
+
+55
+00:02:23,650 --> 00:02:25,290
+Elle est de 100%, c'est-à-dire,
+
+56
+00:02:25,630 --> 00:02:27,510
+elle est égale à 1, quand le milieu
+
+57
+00:02:27,510 --> 00:02:29,970
+est transparent, tel qu'une eau distillée, par
+
+58
+00:02:29,970 --> 00:02:32,350
+exemple, dépourvue de toute solité.
+
+59
+00:02:33,150 --> 00:02:35,730
+Dans ce cas, I sera égale à I0.
+
+60
+00:02:35,730 --> 00:02:39,550
+Par contre, dans un milieu opaque, la lumière
+
+61
+00:02:39,550 --> 00:02:42,630
+incidente sera complètement absorbée par le soluté.
+
+62
+00:02:43,150 --> 00:02:44,910
+Il n'y aura pas de rayons transmis
+
+63
+00:02:44,910 --> 00:02:48,270
+et donc la transmittance est alors nulle.
+
+64
+00:02:49,450 --> 00:02:52,970
+L'absorbance est mesurée par le détecteur et
+
+65
+00:02:52,970 --> 00:02:56,170
+il est exprimé par moins logarithme décimal de
+
+66
+00:02:56,170 --> 00:02:57,130
+la transmittance.
+
+67
+00:02:58,630 --> 00:03:00,190
+Voilà pour l'absorbance.
+
+68
+00:03:00,590 --> 00:03:02,570
+Mais quel est le rapport avec la concentration
+
+69
+00:03:02,570 --> 00:03:03,390
+en soluté?
+
+70
+00:03:03,390 --> 00:03:06,630
+Eh bien, en pratique, si on mesure les
+
+71
+00:03:06,630 --> 00:03:10,350
+absorbances d'un soluté donné à plusieurs concentrations,
+
+72
+00:03:10,990 --> 00:03:15,210
+la courbe absorbance en fonction des concentrations aura
+
+73
+00:03:15,210 --> 00:03:15,810
+cette allure.
+
+74
+00:03:17,150 --> 00:03:20,490
+Vous pouvez remarquer qu'à une concentration nulle,
+
+75
+00:03:20,590 --> 00:03:23,430
+l'absorbance est nulle, ce qui confirme le
+
+76
+00:03:23,430 --> 00:03:24,770
+cas de la transmittance totale.
+
+77
+00:03:25,310 --> 00:03:28,190
+Et à concentration très élevée, la transmittance est
+
+78
+00:03:28,190 --> 00:03:29,930
+nulle et l'absorbance va tendre vers l
+
+79
+00:03:29,930 --> 00:03:30,230
+'infini.
+
+80
+00:03:31,350 --> 00:03:34,010
+Ceci montre bien que la partie prise en
+
+81
+00:03:34,010 --> 00:03:37,170
+compte pour une bonne mesure au spectrophotomètre est
+
+82
+00:03:37,170 --> 00:03:40,390
+bien celle correspondant à la partie présentant une
+
+83
+00:03:40,390 --> 00:03:43,330
+proportionnalité entre l'absorbance et la concentration.
+
+84
+00:03:44,290 --> 00:03:47,390
+Elle est évaluée généralement à des concentrations inférieures
+
+85
+00:03:47,390 --> 00:03:49,110
+à 10-2 mol par litre.
+
+86
+00:03:50,230 --> 00:03:52,470
+Bire un blanc vert en traduit cela par
+
+87
+00:03:52,470 --> 00:03:54,530
+une formule qui porte leur nom, A est
+
+88
+00:03:54,530 --> 00:03:56,010
+égale à εLC.
+
+89
+00:03:56,870 --> 00:04:00,670
+Je rappelle ici que l'absorbance, appelée également
+
+90
+00:04:00,670 --> 00:04:02,950
+densité optique, est sans unité.
+
+91
+00:04:03,770 --> 00:04:06,250
+Le ε est un coefficient d'extinction molaire
+
+92
+00:04:06,250 --> 00:04:09,310
+exprimé en mol-1 cm-1 L.
+
+93
+00:04:09,850 --> 00:04:12,970
+L est la distance parcourue par le faisceau
+
+94
+00:04:12,970 --> 00:04:15,910
+à travers l'échantillon qui est généralement de
+
+95
+00:04:15,910 --> 00:04:17,829
+1 cm, c'est l'épaisseur de la
+
+96
+00:04:17,829 --> 00:04:18,110
+cuve.
+
+97
+00:04:19,269 --> 00:04:22,050
+Le εL reste constant tant que l'on
+
+98
+00:04:22,050 --> 00:04:23,950
+travaille à des dilutions faibles.
+
+99
+00:04:25,350 --> 00:04:27,730
+Mais comment calculer la concentration?
+
+100
+00:04:28,770 --> 00:04:30,950
+Pour ne pas avoir à chaque fois à
+
+101
+00:04:30,950 --> 00:04:33,930
+déterminer le ε qui dépend de l'ANDA
+
+102
+00:04:33,930 --> 00:04:36,390
+et également de la température, nous avons deux
+
+103
+00:04:36,390 --> 00:04:36,850
+méthodes.
+
+104
+00:04:39,010 --> 00:04:41,030
+Ou bien on utilise un étalon.
+
+105
+00:04:41,610 --> 00:04:43,810
+Un étalon est un produit fourni par une
+
+106
+00:04:43,810 --> 00:04:48,030
+entité internationale reconnue contenant le même produit à
+
+107
+00:04:48,030 --> 00:04:51,150
+analyser mais à concentration précise et connue.
+
+108
+00:04:51,150 --> 00:04:54,670
+Il suffit alors de mesurer son absorbance, A
+
+109
+00:04:54,670 --> 00:04:57,510
+étalon est égal à εLC étalon.
+
+110
+00:04:58,230 --> 00:05:00,830
+De mesurer de la même manière l'absorbance
+
+111
+00:05:00,830 --> 00:05:03,410
+de notre échantillon et par une simple règle
+
+112
+00:05:03,410 --> 00:05:06,370
+de 3, on peut déduire la concentration inconnue
+
+113
+00:05:06,370 --> 00:05:07,190
+de notre échantillon.
+
+114
+00:05:09,480 --> 00:05:11,560
+Ou bien, si on ne dispose pas de
+
+115
+00:05:11,560 --> 00:05:14,140
+l'étalon, on peut préparer nous-même non
+
+116
+00:05:14,140 --> 00:05:16,840
+pas un étalon mais une gamme d'étalonnage.
+
+117
+00:05:16,840 --> 00:05:20,620
+Cela consiste à préparer des solutions du même
+
+118
+00:05:20,620 --> 00:05:24,980
+soluté à analyser à des concentrations croissantes, de
+
+119
+00:05:24,980 --> 00:05:29,320
+mesurer leur absorbance, c'est-à-dire de
+
+120
+00:05:29,320 --> 00:05:31,860
+ces solutions-là, de tracer la courbe qui
+
+121
+00:05:31,860 --> 00:05:35,220
+est une droite, absorbance en fonction de concentration
+
+122
+00:05:35,220 --> 00:05:38,680
+et la détermination de la concentration de notre
+
+123
+00:05:38,680 --> 00:05:41,060
+échantillon se fera graphiquement.
+
+124
+00:05:41,060 --> 00:05:44,660
+Nous connaissons bien l'absorbance de notre échantillon.
+
+125
+00:05:44,960 --> 00:05:47,080
+Nous allons faire la projection à partir de
+
+126
+00:05:47,080 --> 00:05:49,760
+la courbe vers l'axe des concentrations et
+
+127
+00:05:49,760 --> 00:05:51,820
+déterminer celle de notre échantillon.
+
+128
+00:05:52,480 --> 00:05:55,260
+Rappelez-vous bien que cette loi de Beer
+
+129
+00:05:55,260 --> 00:05:58,000
+-Lambert n'est valable que pour des radiations
+
+130
+00:05:58,000 --> 00:05:58,960
+monochromatiques.
+
+131
+00:05:59,940 --> 00:06:01,580
+Elle ne peut s'appliquer que pour des
+
+132
+00:06:01,580 --> 00:06:05,040
+solutions bien homogènes et surtout bien diluées.
+
+133
+00:06:05,040 --> 00:06:07,580
+Dans le cas contraire, il faut diluer la
+
+134
+00:06:07,580 --> 00:06:10,040
+solution à analyser et ne pas oublier de
+
+135
+00:06:10,040 --> 00:06:11,880
+prendre en compte le facteur de dilution au
+
+136
+00:06:11,880 --> 00:06:14,180
+moment du calcul de la concentration finale.
+
+137
+00:06:15,240 --> 00:06:17,560
+Nous allons passer maintenant à l'application clinique.
+
+138
+00:06:18,440 --> 00:06:19,940
+Dans le cas d'une suspicion de la
+
+139
+00:06:19,940 --> 00:06:22,800
+méningite chez un patient, on fait une ponction
+
+140
+00:06:22,800 --> 00:06:23,360
+lombaire.
+
+141
+00:06:24,520 --> 00:06:27,740
+Le LCR récupéré sera alors soumis à plusieurs
+
+142
+00:06:27,740 --> 00:06:30,240
+analyses dont celle biochimique.
+
+143
+00:06:30,840 --> 00:06:34,300
+Il ne faut pas oublier l'étude macroscopique.
+
+144
+00:06:35,220 --> 00:06:38,000
+En effet, l'aspect du LCR peut renseigner
+
+145
+00:06:38,000 --> 00:06:40,920
+sur la pathologie jusqu'à un pourcentage assez
+
+146
+00:06:40,920 --> 00:06:44,200
+significatif, notamment pour la méningite bactérienne.
+
+147
+00:06:44,880 --> 00:06:47,800
+Pour l'étude biochimique, nous allons faire uniquement
+
+148
+00:06:47,800 --> 00:06:50,180
+l'analyse de la protéine orachique qui renseigne
+
+149
+00:06:50,180 --> 00:06:52,740
+sur la présence ou non de la méningite
+
+150
+00:06:52,740 --> 00:06:55,200
+et l'analyse de la glucorachie qui nous
+
+151
+00:06:55,200 --> 00:06:57,740
+renseigne sur le type de méningite, à savoir
+
+152
+00:06:57,740 --> 00:06:58,920
+bactérienne ou virale.
+
+153
+00:06:58,920 --> 00:07:01,480
+Je vous invite à consulter le protocole de
+
+154
+00:07:01,480 --> 00:07:04,480
+la manipulation sur votre polycopier et à visualiser
+
+155
+00:07:04,480 --> 00:07:05,200
+la manipulation.
+
+156
+00:07:06,980 --> 00:07:09,860
+Pour le protocole de la protéine orachique, c
+
+157
+00:07:09,860 --> 00:07:12,040
+'est bien détaillé sur votre polycope, nous aurons
+
+158
+00:07:12,040 --> 00:07:13,860
+besoin de préparer trois tubes.
+
+159
+00:07:14,200 --> 00:07:16,700
+Un tube blanc, un tube pour l'étalant
+
+160
+00:07:16,700 --> 00:07:19,620
+et un tube pour notre échantillon à analyser.
+
+161
+00:07:19,840 --> 00:07:22,420
+Nous aurons besoin du réactif pour déclencher la
+
+162
+00:07:22,420 --> 00:07:26,080
+réaction, à savoir l'acide suprosalicybique, bien sûr
+
+163
+00:07:26,080 --> 00:07:27,800
+l'eau distillée pour le blanc et l
+
+164
+00:07:27,800 --> 00:07:30,340
+'étalant pour le tube d'étalant et notre
+
+165
+00:07:30,340 --> 00:07:31,440
+échantillon SL.
+
+166
+00:07:33,780 --> 00:07:38,920
+Nous allons commencer par, selon le protocole, mettre
+
+167
+00:07:38,920 --> 00:07:43,480
+2 millilitres d'acide suprosalicybique dans chaque tube.
+
+168
+00:07:56,680 --> 00:08:01,840
+Puis, respectivement, nous allons ajouter 0,5 millilitres
+
+169
+00:08:01,840 --> 00:08:08,330
+de l'eau distillée dans le tube blanc.
+
+170
+00:08:28,470 --> 00:08:34,289
+De la même manière, 0,5 millilitres de
+
+171
+00:08:34,289 --> 00:08:34,890
+l'étalant.
+
+172
+00:08:48,610 --> 00:08:50,930
+Il ne faut pas oublier de rincer les
+
+173
+00:08:50,930 --> 00:08:53,590
+pipettes entre chaque utilisation.
+
+174
+00:08:54,530 --> 00:08:55,890
+Et enfin, notre SL.
+
+175
+00:09:18,380 --> 00:09:22,780
+Une petite agitation de la sorte sur la
+
+176
+00:09:22,780 --> 00:09:23,360
+pointe des mains.
+
+177
+00:09:29,620 --> 00:09:34,100
+Et nous allons laisser reposer 10 minutes à
+
+178
+00:09:34,100 --> 00:09:34,460
+température...
+
+179
+00:09:36,480 --> 00:09:39,620
+Alors, les 10 minutes passées, passons maintenant à
+
+180
+00:09:39,620 --> 00:09:40,000
+la maison.
+
+181
+00:09:40,000 --> 00:09:45,100
+Nous allons commencer par mettre l'appareil spectrophotomètre
+
+182
+00:09:45,100 --> 00:09:46,960
+à l'encontre d'une bande à papier.
+
+183
+00:09:47,260 --> 00:09:50,180
+Ici, pour les protéines, pour la protéorégie photo,
+
+184
+00:09:50,520 --> 00:09:53,440
+on va utiliser 660 nanomètres.
+
+185
+00:09:59,790 --> 00:10:04,450
+L'étape suivante, on va mettre le blanc
+
+186
+00:10:04,450 --> 00:10:06,610
+au niveau de l'appareil.
+
+187
+00:10:06,910 --> 00:10:09,710
+Nous allons remplir ces lieux qui présentent deux
+
+188
+00:10:09,710 --> 00:10:12,690
+passes transparentes et deux passes de pattes pour
+
+189
+00:10:12,690 --> 00:10:13,510
+pouvoir manipuler.
+
+190
+00:10:14,570 --> 00:10:18,850
+Donc, on va mettre dans chaque tube une
+
+191
+00:10:18,850 --> 00:10:20,210
+partie de notre blanc.
+
+192
+00:10:23,430 --> 00:10:26,810
+Sans oublier de bien expliquer la paroi transparente
+
+193
+00:10:26,810 --> 00:10:29,150
+pour ne pas avoir d'impecté qui risque
+
+194
+00:10:29,150 --> 00:10:31,890
+d'absorber la lumière.
+
+195
+00:10:40,920 --> 00:10:43,080
+Très bien, donc, une fois enlevé les deux
+
+196
+00:10:43,080 --> 00:10:46,020
+tubes avec la solution du blanc de l
+
+197
+00:10:46,020 --> 00:10:49,220
+'eau distillée et le réactif, on remet l
+
+198
+00:10:49,220 --> 00:10:50,380
+'appareil à zéro.
+
+199
+00:10:51,420 --> 00:10:52,900
+Et là, qu'est-ce qu'on fait
+
+200
+00:10:52,900 --> 00:10:53,400
+?
+
+201
+00:10:53,400 --> 00:10:56,620
+Eh bien, on élimine l'absorbance des réactifs
+
+202
+00:10:56,620 --> 00:10:59,340
+autre que le soluté dont on a besoin.
+
+203
+00:11:06,280 --> 00:11:10,960
+On laisse un tube blanc et on prend
+
+204
+00:11:10,960 --> 00:11:16,320
+l'autre, après avoir rincé et goûté, et
+
+205
+00:11:16,320 --> 00:11:21,220
+on fait passer la solution de l'épargne.
+
+206
+00:11:22,340 --> 00:11:24,740
+On passe pour l'analyse de l'échantillon.
+
+207
+00:11:25,460 --> 00:11:28,320
+Pour le calcul, nous allons faire une simple
+
+208
+00:11:28,320 --> 00:11:29,180
+règle de droit.
+
+209
+00:11:29,600 --> 00:11:31,340
+Étant donné qu'on connaît très bien la
+
+210
+00:11:31,340 --> 00:11:33,760
+concentration de l'étalon qui est de 0
+
+211
+00:11:33,760 --> 00:11:37,240
+,5 g par litre, il suffit de faire
+
+212
+00:11:37,240 --> 00:11:39,260
+une règle de droit et d'avoir la
+
+213
+00:11:39,260 --> 00:11:42,940
+concentration en protéines de notre échantillon.
+
+214
+00:11:44,280 --> 00:11:46,020
+Alors, de la même manière que pour la
+
+215
+00:11:46,020 --> 00:11:48,840
+bourrachie, nous avons préparé trois tubes.
+
+216
+00:11:49,020 --> 00:11:50,920
+Un tube blanc, un tube étalon et un
+
+217
+00:11:50,920 --> 00:11:51,520
+tube échantillon.
+
+218
+00:11:52,020 --> 00:11:53,900
+Et pour cela, nous aurons besoin d'un
+
+219
+00:11:53,900 --> 00:11:58,100
+réactif propre au glucose et des trois solutés
+
+220
+00:11:58,100 --> 00:12:00,700
+à savoir l'eau distillée, l'étalon et
+
+221
+00:12:00,700 --> 00:12:01,340
+l'échantillon.
+
+222
+00:12:01,920 --> 00:12:05,480
+Donc, on va commencer par mettre le réactif.
+
+223
+00:12:19,530 --> 00:12:22,910
+Je repèse 2 millilitres dans chaque tube de
+
+224
+00:12:22,910 --> 00:12:23,510
+réactif.
+
+225
+00:12:48,030 --> 00:12:51,370
+Puis, à l'aide d'une micropipette, nous
+
+226
+00:12:51,370 --> 00:12:55,570
+allons rajouter 20 microlitres respectivement de l'eau
+
+227
+00:12:55,570 --> 00:12:59,290
+distillée, de l'étalon et du échantillon.
+
+228
+00:13:11,020 --> 00:13:14,940
+Alors, les 20 minutes passées, nous allons entamer
+
+229
+00:13:14,940 --> 00:13:15,420
+la mesure.
+
+230
+00:13:15,420 --> 00:13:18,540
+Alors déjà, à l'œil bleu, nous pouvons
+
+231
+00:13:18,540 --> 00:13:21,500
+très bien voir la différence de la couleur
+
+232
+00:13:21,500 --> 00:13:23,760
+de notre échantillon.
+
+233
+00:13:24,220 --> 00:13:26,260
+Après, incubation pendant 2 minutes.
+
+234
+00:13:27,740 --> 00:13:32,760
+Alors, on commence par régler la moyenne d
+
+235
+00:13:32,760 --> 00:13:33,920
+'eau appropriée.
+
+236
+00:13:34,920 --> 00:13:37,080
+Alors, ici, c'est 500 nanomètres pour la
+
+237
+00:13:37,080 --> 00:13:37,880
+bourrachie.
+
+238
+00:13:40,500 --> 00:13:43,540
+Après avoir passé le blanc à la pâte.
+
+239
+00:14:08,800 --> 00:14:10,100
+On remet l'appareil.
+
+240
+00:14:15,570 --> 00:14:20,790
+Puis, on passe à la mesure de notre
+
+241
+00:14:20,790 --> 00:14:21,630
+échantillon.
+
+242
+00:14:29,680 --> 00:14:31,300
+Le liquide s'éteint de bourrachie.
+
+243
+00:14:32,580 --> 00:14:34,480
+Voilà, donc c'est de sa part, la
+
+244
+00:14:34,480 --> 00:14:35,220
+dernière dose.
+
+245
+00:14:44,100 --> 00:14:45,660
+Dans notre absorbance.
+
+246
+00:14:56,340 --> 00:14:57,260
+Très bien.
+
+247
+00:14:57,600 --> 00:14:59,040
+Maintenant, on passe au calcul.
+
+248
+00:14:59,600 --> 00:15:02,800
+Donc, pour vérifier l'été auparavant, nous avons
+
+249
+00:15:02,800 --> 00:15:05,560
+l'absorbance de l'étalon avec la concentration
+
+250
+00:15:05,560 --> 00:15:08,640
+qui est connue de l'étalon et l
+
+251
+00:15:08,640 --> 00:15:12,980
+'absorbance de notre échantillon avec la concentration que
+
+252
+00:15:12,980 --> 00:15:14,000
+l'échantillon a connue.
+
+253
+00:15:14,360 --> 00:15:17,360
+Nous faisons régler les trois et nous avons
+
+254
+00:15:17,360 --> 00:15:18,120
+nos résultats.
+
+255
+00:15:19,320 --> 00:15:22,600
+Pour l'interprétation des résultats, si on ne
+
+256
+00:15:22,600 --> 00:15:24,600
+considère que ces deux analyses pour l'étude
+
+257
+00:15:24,600 --> 00:15:27,960
+biochimique, je vous laisse commenter cet arbre de
+
+258
+00:15:27,960 --> 00:15:28,420
+décision.
+
+259
+00:15:29,140 --> 00:15:30,260
+Merci pour votre attention.

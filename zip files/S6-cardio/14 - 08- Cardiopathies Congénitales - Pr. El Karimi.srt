@@ -1,0 +1,2275 @@
+1
+00:00:00,840 --> 00:00:03,880
+Bonjour chers étudiants, le cours d'aujourd'hui
+
+2
+00:00:03,880 --> 00:00:07,780
+porte sur les cardiopathies congénitales, une entité qui
+
+3
+00:00:07,780 --> 00:00:12,040
+contient une grande diversité pathologique du plus ou
+
+4
+00:00:12,040 --> 00:00:15,480
+moins simple, si l'on ose dire, au
+
+5
+00:00:15,480 --> 00:00:16,420
+plus complexe.
+
+6
+00:00:16,780 --> 00:00:19,440
+Donc pour faire simple, nous allons nous contenter
+
+7
+00:00:19,440 --> 00:00:23,160
+aux cardiopathies les plus fréquentes, notamment l'échinte
+
+8
+00:00:23,160 --> 00:00:26,440
+gauche-droite et la tétralogie de Fallot et
+
+9
+00:00:26,440 --> 00:00:28,360
+la transposition des gros vaisseaux.
+
+10
+00:00:29,760 --> 00:00:33,420
+Les cardiopathies congénitales constituent des maladies de la
+
+11
+00:00:33,420 --> 00:00:36,860
+structure cardiaque existant dès la naissance.
+
+12
+00:00:39,420 --> 00:00:41,540
+D'une manière générale, on peut classer les
+
+13
+00:00:41,540 --> 00:00:47,040
+cardiopathies congénitales en deux entités, les cardiopathies congénitales
+
+14
+00:00:47,040 --> 00:00:48,620
+non cyanogènes, c'est-à-dire qui ne
+
+15
+00:00:48,620 --> 00:00:52,020
+donnent pas de cyanose, et les cardiopathies congénitales
+
+16
+00:00:52,020 --> 00:00:54,440
+cyanogènes qui donnent une cyanose.
+
+17
+00:00:55,200 --> 00:00:56,720
+Il faut savoir qu'on ne peut pas
+
+18
+00:00:56,720 --> 00:01:00,520
+traiter toutes les cardiopathies congénitales dans ce chapitre
+
+19
+00:01:00,520 --> 00:01:03,819
+parce que ça constitue une entité très vaste
+
+20
+00:01:03,819 --> 00:01:04,660
+et très lourde.
+
+21
+00:01:05,000 --> 00:01:07,980
+Donc on va se limiter à traiter des
+
+22
+00:01:07,980 --> 00:01:11,520
+chapitres ou les cardiopathies les plus fréquentes, à
+
+23
+00:01:11,520 --> 00:01:14,620
+savoir l'échinte gauche-droite, la tétralogie de
+
+24
+00:01:14,620 --> 00:01:18,300
+Fallot et la transposition des gros vaisseaux.
+
+25
+00:01:20,570 --> 00:01:22,650
+On commence par l'échinte gauche-droite.
+
+26
+00:01:24,050 --> 00:01:26,610
+Au terme de ce cours, nous devons être
+
+27
+00:01:26,610 --> 00:01:30,050
+capables de classifier l'échinte gauche-droite, de
+
+28
+00:01:30,050 --> 00:01:35,430
+préciser les mécanismes physiopathologiques dans cette entité, de
+
+29
+00:01:35,430 --> 00:01:38,510
+citer les signes fonctionnels retrouvés chez un enfant
+
+30
+00:01:38,510 --> 00:01:42,010
+suivi pour l'échinte gauche-droite ainsi que
+
+31
+00:01:42,010 --> 00:01:44,230
+les signes physiques dans la même situation.
+
+32
+00:01:45,370 --> 00:01:48,430
+Nous devons être capables aussi d'énumérer les
+
+33
+00:01:48,430 --> 00:01:52,330
+résultats des bilans paracliniques demandés chez un enfant
+
+34
+00:01:52,330 --> 00:01:55,210
+suspect d'avoir un échinte gauche-droite.
+
+35
+00:01:55,710 --> 00:01:58,730
+Enfin, nous devons être capables d'énumérer les
+
+36
+00:01:58,730 --> 00:02:03,170
+modalités thérapeutiques chirurgicales proposées chez un enfant suivi
+
+37
+00:02:03,170 --> 00:02:06,710
+pour l'échinte gauche-droite avec retentissement hémodynamique
+
+38
+00:02:06,710 --> 00:02:08,330
+ainsi que leurs indications.
+
+39
+00:02:09,530 --> 00:02:12,270
+Pour traiter cette question, nous allons suivre le
+
+40
+00:02:12,270 --> 00:02:12,930
+plan suivant.
+
+41
+00:02:13,450 --> 00:02:17,530
+D'abord une introduction, un petit aperçu épidémiologique
+
+42
+00:02:17,530 --> 00:02:19,230
+et classification.
+
+43
+00:02:19,810 --> 00:02:22,530
+On va s'étaler sur le mécanisme physiopathologique
+
+44
+00:02:23,310 --> 00:02:25,730
+d'échinte gauche-droite ainsi que sur le
+
+45
+00:02:25,730 --> 00:02:26,950
+diagnostic positif.
+
+46
+00:02:27,390 --> 00:02:29,590
+Après, on va voir l'évolution et complications
+
+47
+00:02:29,590 --> 00:02:31,070
+et on va finir par...
+
+48
+00:02:31,070 --> 00:02:33,070
+Il faut savoir que l'échinte gauche-droite
+
+49
+00:02:33,070 --> 00:02:38,290
+constitue une cardiopathie congénitale cyanogène caractérisée par une
+
+50
+00:02:38,290 --> 00:02:42,310
+communication entre le cœur gauche, où la circulation
+
+51
+00:02:42,310 --> 00:02:45,050
+systémique l'une part, et le cœur droit,
+
+52
+00:02:45,350 --> 00:02:47,710
+ou la circulation pulmonaire, d'autre part.
+
+53
+00:02:48,930 --> 00:02:51,630
+Elles peuvent être isolées ou faire partie d
+
+54
+00:02:51,630 --> 00:02:54,210
+'une cardiopathie beaucoup plus complexe.
+
+55
+00:02:55,830 --> 00:02:59,070
+C'est la cardiopathie la plus fréquente, notamment
+
+56
+00:02:59,070 --> 00:03:03,750
+quand il s'agit de communication interventriculaire, communication
+
+57
+00:03:03,750 --> 00:03:07,390
+interauriculaire et de canal artériel persistant.
+
+58
+00:03:07,390 --> 00:03:13,770
+Les étiologies responsables de ces cardiopathies sont multiples.
+
+59
+00:03:14,290 --> 00:03:17,710
+On peut noter les trisomies 21, les trisomies
+
+60
+00:03:17,710 --> 00:03:21,930
+13, 18, certains anomalies génétiques comme le D
+
+61
+00:03:21,930 --> 00:03:24,650
+-George et puis d'autres étiologies.
+
+62
+00:03:30,060 --> 00:03:33,500
+La classification d'échinte gauche-droite et anatomique
+
+63
+00:03:33,500 --> 00:03:37,240
+est basée sur le niveau du chant.
+
+64
+00:03:37,600 --> 00:03:39,840
+On commence par l'échinte qui se fond
+
+65
+00:03:39,840 --> 00:03:42,800
+au niveau des veines pulmonaires et on trouve
+
+66
+00:03:42,800 --> 00:03:46,180
+le retour des veines pulmonaires anormales partielles, c
+
+67
+00:03:46,180 --> 00:03:48,720
+'est-à-dire une veine ou deux veines
+
+68
+00:03:48,720 --> 00:03:52,900
+pulmonaires qui se jettent au niveau de la
+
+69
+00:03:52,900 --> 00:03:56,200
+veine cave supérieure, dans le cas le plus
+
+70
+00:03:56,200 --> 00:03:56,700
+fréquent.
+
+71
+00:03:57,840 --> 00:04:00,420
+L'échinte à l'étage atriel, on trouve
+
+72
+00:04:00,420 --> 00:04:02,560
+les communications interauriculaires.
+
+73
+00:04:03,360 --> 00:04:06,420
+Dans l'échinte à l'étage ventriculaire, on
+
+74
+00:04:06,420 --> 00:04:09,780
+trouve les communications interventriculaires.
+
+75
+00:04:10,780 --> 00:04:13,780
+Il y a une autre entité qui ressemble
+
+76
+00:04:13,780 --> 00:04:19,040
+à la communication interventriculaire, c'est le canal
+
+77
+00:04:19,040 --> 00:04:20,959
+atrioventriculaire.
+
+78
+00:04:22,400 --> 00:04:25,780
+A l'étage artériel, on trouve le canal
+
+79
+00:04:25,780 --> 00:04:30,840
+artériel persistant ou bien la fenêtre artériopulmonaire.
+
+80
+00:04:35,100 --> 00:04:37,540
+Cette diapositive vous montre le chant à l
+
+81
+00:04:37,540 --> 00:04:39,960
+'étage veineux et atrial.
+
+82
+00:04:40,760 --> 00:04:43,080
+Ici le chant à l'étage atrial, c
+
+83
+00:04:43,080 --> 00:04:45,660
+'est-à-dire au niveau des oreillettes, qui
+
+84
+00:04:45,660 --> 00:04:49,100
+s'appelle communication interauriculaire parce qu'il lie
+
+85
+00:04:49,100 --> 00:04:53,000
+les deux oreillettes droite et gauche.
+
+86
+00:04:54,320 --> 00:04:59,340
+Le retour veineux pulmonaire anormal partiel, donc regardez
+
+87
+00:04:59,340 --> 00:05:02,120
+ici, il y a une veine pulmonaire qui
+
+88
+00:05:02,120 --> 00:05:04,860
+se jette au niveau de la veine cave
+
+89
+00:05:04,860 --> 00:05:05,800
+supérieure.
+
+90
+00:05:10,630 --> 00:05:15,760
+Le chant à l'étage ventriculaire, on trouve
+
+91
+00:05:15,760 --> 00:05:18,200
+les communications interventriculaires.
+
+92
+00:05:18,780 --> 00:05:21,140
+C'est un trou, une communication qui se
+
+93
+00:05:21,140 --> 00:05:24,200
+fait entre les deux ventricules gauche et droite.
+
+94
+00:05:26,380 --> 00:05:31,220
+Le canal atrioventriculaire constitue un chant aussi à
+
+95
+00:05:31,220 --> 00:05:33,400
+l'étage ventriculaire et atrial.
+
+96
+00:05:33,840 --> 00:05:37,200
+C'est une entité beaucoup plus complexe caractérisée
+
+97
+00:05:37,200 --> 00:05:44,120
+par une communication interauriculaire, une communication interventriculaire et
+
+98
+00:05:44,120 --> 00:05:48,200
+une seule valve auriculoventriculaire au lieu d'avoir
+
+99
+00:05:48,200 --> 00:05:51,480
+deux valves distinctes mitraille et tricuspide.
+
+100
+00:05:53,750 --> 00:05:55,570
+On la classe avec le chant à l
+
+101
+00:05:55,570 --> 00:05:59,130
+'étage ventriculaire parce que sur le plan physiopathologique
+
+102
+00:05:59,130 --> 00:06:05,250
+elle est presque identique à la communication interventriculaire.
+
+103
+00:06:07,600 --> 00:06:11,300
+Le chant à l'étage artériel, on trouve
+
+104
+00:06:11,300 --> 00:06:15,780
+le canal artériel persistant, c'est un canal
+
+105
+00:06:15,780 --> 00:06:18,680
+qui relie l'artère pulmonaire et l'aorte
+
+106
+00:06:18,680 --> 00:06:19,820
+au niveau de l'ise.
+
+107
+00:06:22,260 --> 00:06:26,080
+On trouve aussi la fenêtre aortopulmonaire, c'est
+
+108
+00:06:26,080 --> 00:06:30,820
+une communication entre l'aorte ascendante et l
+
+109
+00:06:30,820 --> 00:06:33,540
+'artère pulmonaire, le tronc de l'artère pulmonaire
+
+110
+00:06:33,540 --> 00:06:35,100
+sans qu'il y ait un canal, donc
+
+111
+00:06:35,100 --> 00:06:37,300
+c'est une communication directe, c'est pour
+
+112
+00:06:37,300 --> 00:06:40,940
+ça qu'on appelle une fenêtre aortopulmonaire.
+
+113
+00:06:46,150 --> 00:06:49,170
+Dans le principe général des chants gauche-droite
+
+114
+00:06:49,170 --> 00:06:53,890
+qui est représenté par la communication interventriculaire large,
+
+115
+00:06:54,370 --> 00:06:58,230
+laquelle constitue la forme typique des chants gauche
+
+116
+00:06:58,230 --> 00:07:03,190
+-droite, on trouve un passage du son du
+
+117
+00:07:03,190 --> 00:07:05,730
+côté gauche vers le côté droit, c'est
+
+118
+00:07:05,730 --> 00:07:08,230
+-à-dire du ventricule gauche vers le ventricule
+
+119
+00:07:08,230 --> 00:07:08,690
+droit.
+
+120
+00:07:09,310 --> 00:07:11,990
+Ceci va être responsable d'une dilatation des
+
+121
+00:07:11,990 --> 00:07:15,070
+cavités droites, notamment l'UVD et l'OD,
+
+122
+00:07:15,770 --> 00:07:17,970
+et dans une deuxième étape, il y aura
+
+123
+00:07:17,970 --> 00:07:19,730
+un hyperdébit pulmonaire.
+
+124
+00:07:20,310 --> 00:07:23,630
+Cet hyperdébit pulmonaire va être responsable d'une
+
+125
+00:07:23,630 --> 00:07:27,150
+hypertension artérielle pulmonaire et de l'autre côté,
+
+126
+00:07:27,490 --> 00:07:30,530
+il va être responsable d'une augmentation du
+
+127
+00:07:30,530 --> 00:07:35,750
+retour veineux pulmonaire, lequel va être responsable d
+
+128
+00:07:35,750 --> 00:07:38,350
+'une dilatation des cavités gauches.
+
+129
+00:07:38,890 --> 00:07:41,670
+Donc dans la forme typique des chants gauche
+
+130
+00:07:41,670 --> 00:07:44,470
+-droite, on assiste à une dilatation des cavités
+
+131
+00:07:44,470 --> 00:07:49,490
+droites, on assiste aussi à une hypertension artérielle
+
+132
+00:07:49,490 --> 00:07:52,270
+pulmonaire et on assiste à une dilatation des
+
+133
+00:07:52,270 --> 00:07:53,850
+cavités gauches.
+
+134
+00:07:55,530 --> 00:07:58,310
+Maintenant, il y a une particularité en fonction
+
+135
+00:07:58,310 --> 00:07:59,590
+du siège du chant.
+
+136
+00:08:00,210 --> 00:08:02,770
+Par exemple, dans le chant à l'étage
+
+137
+00:08:02,770 --> 00:08:07,130
+ventriculaire, comme la CIV et le canal atrioventriculaire,
+
+138
+00:08:07,570 --> 00:08:10,810
+tous ces aspects sont présents, c'est-à
+
+139
+00:08:10,810 --> 00:08:13,930
+-dire la dilatation des cavités gauches, la dilatation
+
+140
+00:08:13,930 --> 00:08:18,010
+des cavités droites et l'hypertension artérielle pulmonaire.
+
+141
+00:08:18,630 --> 00:08:19,370
+Pourquoi ?
+
+142
+00:08:19,370 --> 00:08:21,010
+Parce que, comme je l'ai dit, le
+
+143
+00:08:21,010 --> 00:08:24,050
+chant se fait à travers les deux ventricules,
+
+144
+00:08:24,630 --> 00:08:27,090
+donc le son passe du côté gauche du
+
+145
+00:08:27,090 --> 00:08:30,710
+ventricule gauche vers le ventricule droit, donc il
+
+146
+00:08:30,710 --> 00:08:33,730
+va être responsable d'une dilatation des cavités
+
+147
+00:08:33,730 --> 00:08:34,450
+droites.
+
+148
+00:08:34,450 --> 00:08:38,309
+Dans un deuxième temps, on aura un hyperdébut
+
+149
+00:08:38,309 --> 00:08:41,270
+pulmonaire, ce qui va être responsable d'une
+
+150
+00:08:41,270 --> 00:08:43,370
+hypertension artérielle pulmonaire.
+
+151
+00:08:44,150 --> 00:08:47,370
+Après, il y aura une augmentation du retour
+
+152
+00:08:47,370 --> 00:08:54,130
+vénopulmonaire et, par conséquent, on aura une dilatation
+
+153
+00:08:54,130 --> 00:08:58,900
+du ventricule gauche et des cavités gauches d
+
+154
+00:08:58,900 --> 00:08:59,740
+'une manière générale.
+
+155
+00:09:03,290 --> 00:09:05,630
+Dans le chant à l'étage atrial et
+
+156
+00:09:05,630 --> 00:09:09,250
+vénom, comme la communication interauriculaire et le retour
+
+157
+00:09:09,250 --> 00:09:12,230
+vénopulmonaire à normal partiel, il n'y a
+
+158
+00:09:12,230 --> 00:09:14,990
+pas de dilatation des cavités gauches.
+
+159
+00:09:15,270 --> 00:09:15,990
+Pourquoi ?
+
+160
+00:09:15,990 --> 00:09:18,990
+Parce que le son passe de l'oreillette
+
+161
+00:09:18,990 --> 00:09:21,990
+gauche vers l'oreillette droite et on aura
+
+162
+00:09:21,990 --> 00:09:25,910
+une dilatation, bien évidemment, des cavités droites.
+
+163
+00:09:26,450 --> 00:09:28,190
+On aura par la suite un état d
+
+164
+00:09:28,190 --> 00:09:31,130
+'hyperdébut pulmonaire qui va être responsable d'une
+
+165
+00:09:31,130 --> 00:09:37,430
+hypertension artérielle pulmonaire et par la suite une
+
+166
+00:09:37,430 --> 00:09:39,090
+augmentation du retour vénom.
+
+167
+00:09:39,450 --> 00:09:41,830
+Sauf que ce retour vénom, quand il va
+
+168
+00:09:41,830 --> 00:09:47,290
+augmenter, il va passer directement vers les cavités
+
+169
+00:09:47,290 --> 00:09:49,990
+droites parce que la pression au niveau des
+
+170
+00:09:49,990 --> 00:09:52,890
+cavités droites est la plus basse par rapport
+
+171
+00:09:52,890 --> 00:09:54,770
+à celle du ventricule gauche.
+
+172
+00:09:55,170 --> 00:09:58,290
+Donc, d'une manière générale, on n'aura
+
+173
+00:09:58,290 --> 00:10:01,510
+pas de dilatation des cavités gauches.
+
+174
+00:10:05,210 --> 00:10:07,750
+Dans le chant à l'étage artériel, comme
+
+175
+00:10:07,750 --> 00:10:11,450
+le canal artériel persistant et la fenêtre aortopulmonaire,
+
+176
+00:10:11,950 --> 00:10:14,330
+on assiste à une dilatation des cavités gauches,
+
+177
+00:10:14,610 --> 00:10:17,890
+on assiste à une hypertension artérielle pulmonaire, mais
+
+178
+00:10:17,890 --> 00:10:21,730
+les cavités droites sont peu dilatées comparativement à
+
+179
+00:10:21,730 --> 00:10:24,530
+celles gauches.
+
+180
+00:10:24,890 --> 00:10:25,710
+Pourquoi ?
+
+181
+00:10:25,710 --> 00:10:28,450
+Parce que le son court-circuit les cavités
+
+182
+00:10:28,450 --> 00:10:31,110
+droites, il passe à travers le canal directement
+
+183
+00:10:31,110 --> 00:10:34,270
+vers la circulation systémique.
+
+184
+00:10:39,220 --> 00:10:41,780
+Donc, au total, dans le chant à l
+
+185
+00:10:41,780 --> 00:10:44,420
+'étage atriel et vénom, on assiste à une
+
+186
+00:10:44,420 --> 00:10:46,780
+dilatation des cavités droites, mais il n'y
+
+187
+00:10:46,780 --> 00:10:48,740
+a pas de dilatation des cavités gauches.
+
+188
+00:10:49,180 --> 00:10:52,180
+Dans le chant à l'étage ventriculaire, on
+
+189
+00:10:52,180 --> 00:10:55,320
+a une dilatation équilibrée et des cavités gauches
+
+190
+00:10:55,320 --> 00:10:56,580
+et des cavités droites.
+
+191
+00:10:57,080 --> 00:10:59,680
+Dans le chant à l'étage artériel, on
+
+192
+00:10:59,680 --> 00:11:02,260
+a une dilatation des cavités gauches qui est
+
+193
+00:11:02,260 --> 00:11:05,100
+beaucoup plus importante par rapport à celle des
+
+194
+00:11:05,100 --> 00:11:06,280
+cavités droites.
+
+195
+00:11:09,370 --> 00:11:12,130
+Les signes fonctionnels communs pour tous les chants
+
+196
+00:11:12,130 --> 00:11:16,510
+gauches droits sont le retard staturopendéral, la limitation
+
+197
+00:11:16,510 --> 00:11:20,030
+de l'activité physique, les infections pulmonaires à
+
+198
+00:11:20,030 --> 00:11:23,410
+répétition, les dyspnées d'effort qui se traduisent
+
+199
+00:11:23,410 --> 00:11:25,790
+chez le bébé et le nourrisson par les
+
+200
+00:11:25,790 --> 00:11:27,430
+difficultés lors des têtes.
+
+201
+00:11:28,090 --> 00:11:30,090
+Il faut savoir que l'âge d'apparition
+
+202
+00:11:30,090 --> 00:11:32,890
+des symptômes dépend de l'importance et du
+
+203
+00:11:32,890 --> 00:11:33,930
+siège du chant.
+
+204
+00:11:34,170 --> 00:11:37,050
+Plus le chant est important, plus les symptômes
+
+205
+00:11:37,050 --> 00:11:37,950
+sont précoces.
+
+206
+00:11:38,570 --> 00:11:41,990
+De l'autre côté, les chants qui siègent
+
+207
+00:11:41,990 --> 00:11:46,630
+au niveau artériel et ventriculaire sont responsables de
+
+208
+00:11:46,630 --> 00:11:50,010
+symptômes beaucoup plus précoces par rapport aux chants
+
+209
+00:11:50,010 --> 00:11:52,750
+qui siègent à l'étage atrial.
+
+210
+00:11:57,890 --> 00:12:01,830
+En ce qui concerne les signes physiques, pour
+
+211
+00:12:01,830 --> 00:12:04,970
+la communication interauriculaire, il ne donne pas de
+
+212
+00:12:04,970 --> 00:12:05,330
+souffle.
+
+213
+00:12:05,690 --> 00:12:07,810
+Par contre, on peut trouver des signes d
+
+214
+00:12:07,810 --> 00:12:10,730
+'insuffisance cardiaque droite et des signes d'hypertension
+
+215
+00:12:10,730 --> 00:12:12,070
+artérielle pulmonaire.
+
+216
+00:12:12,570 --> 00:12:13,890
+Pourquoi on ne trouve pas de souffle?
+
+217
+00:12:13,970 --> 00:12:16,370
+Parce que la pression entre l'oreillette gauche
+
+218
+00:12:16,370 --> 00:12:19,870
+et l'oreillette droite sont presque identiques, donc
+
+219
+00:12:19,870 --> 00:12:21,210
+il n'y a pas de gradient de
+
+220
+00:12:21,210 --> 00:12:23,090
+pression pour créer un souffle.
+
+221
+00:12:24,810 --> 00:12:27,930
+En ce qui concerne la CIV et le
+
+222
+00:12:27,930 --> 00:12:32,370
+canal atrioventriculaire, on trouve un souffle systolique de
+
+223
+00:12:32,370 --> 00:12:36,490
+CIV au quatrième espace intercostale gauche qui irradie
+
+224
+00:12:36,490 --> 00:12:37,490
+en rayon d'onde.
+
+225
+00:12:38,250 --> 00:12:40,470
+On peut trouver également des signes d'insuffisance
+
+226
+00:12:40,470 --> 00:12:43,390
+cardiaque droite, les signes d'insuffisance cardiaque gauche
+
+227
+00:12:43,390 --> 00:12:46,190
+et les signes d'hypertension artérielle pulmonaire.
+
+228
+00:12:47,310 --> 00:12:50,190
+En ce qui concerne le canal artériel, on
+
+229
+00:12:50,190 --> 00:12:53,170
+trouve un souffle continu en sous clavier gauche.
+
+230
+00:12:53,710 --> 00:12:55,990
+On peut trouver également les signes d'insuffisance
+
+231
+00:12:55,990 --> 00:12:59,930
+cardiaque gauche et des signes d'hypertension artérielle
+
+232
+00:12:59,930 --> 00:13:00,570
+pulmonaire.
+
+233
+00:13:01,210 --> 00:13:03,870
+Les signes d'insuffisance cardiaque droite sont en
+
+234
+00:13:03,870 --> 00:13:09,230
+général nus tardifs par rapport aux signes d
+
+235
+00:13:09,230 --> 00:13:11,110
+'insuffisance cardiaque coche.
+
+236
+00:13:15,620 --> 00:13:20,200
+Plusieurs modifications électriques peuvent être visualisées à l
+
+237
+00:13:20,200 --> 00:13:21,580
+'électrocardiogramme.
+
+238
+00:13:22,360 --> 00:13:26,080
+En cas de communication interauriculaire et retour vénopulmonaire
+
+239
+00:13:26,080 --> 00:13:30,340
+anormale partielle, on trouve une hypertrophie auriculaire droite
+
+240
+00:13:30,340 --> 00:13:33,240
+et une hypertrophie ventriculaire droite.
+
+241
+00:13:33,580 --> 00:13:35,720
+On trouve aussi un bloc de branche droite.
+
+242
+00:13:38,130 --> 00:13:42,990
+Dans la communication interventriculaire et le canal atrioventriculaire
+
+243
+00:13:42,990 --> 00:13:46,430
+complet, on peut trouver une hypertrophie ventriculaire gauche,
+
+244
+00:13:46,750 --> 00:13:51,790
+une hypertrophie ventriculaire droite, une ouriculaire droite et
+
+245
+00:13:51,790 --> 00:13:53,710
+une ouriculaire gauche.
+
+246
+00:13:54,350 --> 00:13:57,850
+En cas de canal artériel ou de fenêtre
+
+247
+00:13:57,850 --> 00:14:02,530
+artériel-ortopulmonaire, on trouve plutôt une hypertrophie ventriculaire
+
+248
+00:14:02,530 --> 00:14:15,400
+gauche, une ouriculaire gauche, La radiographie
+
+249
+00:14:15,400 --> 00:14:20,660
+thoracique peut montrer des signes d'hypertension artérielle
+
+250
+00:14:20,660 --> 00:14:23,880
+pulmonaire, elle peut montrer une augmentation de la
+
+251
+00:14:23,880 --> 00:14:28,120
+vascularisation pulmonaire, et puis à la fin, elle
+
+252
+00:14:28,120 --> 00:14:31,300
+peut montrer une cardiomyogalie au dépend de la
+
+253
+00:14:31,300 --> 00:14:35,560
+cavité qui est dilatée, que ce soit droite
+
+254
+00:14:35,560 --> 00:14:36,320
+ou gauche.
+
+255
+00:14:40,620 --> 00:14:43,020
+L'écho-coeur permet de confirmer le diagnostic,
+
+256
+00:14:44,020 --> 00:14:46,620
+il permet de préciser la localisation et la
+
+257
+00:14:46,620 --> 00:14:53,420
+taille du trou, il cherche les cardiopathies associées,
+
+258
+00:14:53,780 --> 00:14:56,840
+il permet d'évaluer le retentissement sur le
+
+259
+00:14:56,840 --> 00:15:00,820
+coeur, notamment la dilatation des cavités droite et
+
+260
+00:15:00,820 --> 00:15:04,020
+ou gauche, et les signes d'hypertension artérielle
+
+261
+00:15:04,020 --> 00:15:04,960
+pulmonaire.
+
+262
+00:15:08,810 --> 00:15:12,010
+Le cathéterisme cardiaque n'est plus indispensable en
+
+263
+00:15:12,010 --> 00:15:13,990
+raison de la qualité des résultats de l
+
+264
+00:15:13,990 --> 00:15:14,850
+'écho-cardiographie.
+
+265
+00:15:15,440 --> 00:15:19,190
+Ces indications restent limitées en cas de qualité
+
+266
+00:15:19,190 --> 00:15:22,570
+d'imagerie écho-cardiographique médiocre et en cas
+
+267
+00:15:22,570 --> 00:15:23,750
+des ennemis guerres.
+
+268
+00:15:24,530 --> 00:15:27,990
+Je précise que les ennemis guerres constituent un
+
+269
+00:15:27,990 --> 00:15:32,170
+stade avancé d'hypertension artérielle pulmonaire et surtout
+
+270
+00:15:32,170 --> 00:15:35,970
+irréversible, donc c'est un tournant évolutif de
+
+271
+00:15:35,970 --> 00:15:39,740
+la maladie cardiaque.
+
+272
+00:15:41,240 --> 00:15:45,040
+Donc l'échelle de petite taille, l'évolution
+
+273
+00:15:45,040 --> 00:15:47,860
+généralement est bonne, donc on assiste à une
+
+274
+00:15:47,860 --> 00:15:50,600
+bonne tolérance avec une croissance normale de l
+
+275
+00:15:50,600 --> 00:15:53,700
+'enfant, il y a une possibilité de fermeture
+
+276
+00:15:53,700 --> 00:15:56,400
+spontanée avant l'âge de 2 ans, notamment
+
+277
+00:15:56,400 --> 00:16:00,740
+pour les CI vénusculaires, les communications interauriculaires et
+
+278
+00:16:00,740 --> 00:16:02,460
+les petits canals artériels.
+
+279
+00:16:03,880 --> 00:16:07,960
+L'évolution se fait également vers l'endocardite
+
+280
+00:16:07,960 --> 00:16:12,520
+infectieuse, sauf pour la communication interauriculaire qui ne
+
+281
+00:16:12,520 --> 00:16:14,780
+donne jamais d'endocardite infectieuse.
+
+282
+00:16:16,120 --> 00:16:18,880
+Par contre, dans l'échelle large, on peut
+
+283
+00:16:18,880 --> 00:16:22,500
+assister à une insuffisance cardiaque, à des endocardites
+
+284
+00:16:22,500 --> 00:16:26,440
+infectieuses, à une hypertension artérielle pulmonaire, à des
+
+285
+00:16:26,440 --> 00:16:31,020
+troubles de rythme et surtout les enlingueurs, complication
+
+286
+00:16:31,020 --> 00:16:33,620
+qui est très redoutable de la maladie, comme
+
+287
+00:16:33,620 --> 00:16:34,740
+je l'ai dit tout à l'heure,
+
+288
+00:16:35,060 --> 00:16:39,120
+elle traduit un stade irréversible de l'hypertension
+
+289
+00:16:39,120 --> 00:16:44,000
+artérielle pulmonaire et donc un stade dépassé de
+
+290
+00:16:44,000 --> 00:16:44,660
+la chirurgie.
+
+291
+00:16:45,620 --> 00:16:48,220
+En général, elle est tardive en cas de
+
+292
+00:16:48,220 --> 00:16:51,580
+communication interauriculaire et peut se voir jusqu'à
+
+293
+00:16:51,580 --> 00:16:52,540
+l'âge adulte.
+
+294
+00:16:52,860 --> 00:16:55,700
+Par contre, il reste précoce dans les autres
+
+295
+00:16:55,700 --> 00:16:59,280
+chaînes, surtout quand ils sont larges.
+
+296
+00:17:03,170 --> 00:17:06,530
+Les objectifs du traitement des chaînes gauche-droite
+
+297
+00:17:06,530 --> 00:17:10,950
+peuvent être symptomatiques, peuvent être curatifs, à chaque
+
+298
+00:17:10,950 --> 00:17:13,609
+fois c'est possible, comme ils peuvent être
+
+299
+00:17:13,609 --> 00:17:17,030
+palliatifs, surtout quand la cure totale est non
+
+300
+00:17:17,030 --> 00:17:19,849
+réalisable à cause du poids de l'enfant
+
+301
+00:17:19,849 --> 00:17:22,270
+ou à cause de la cardiopathie qui est
+
+302
+00:17:22,270 --> 00:17:23,950
+beaucoup plus complexe.
+
+303
+00:17:27,050 --> 00:17:30,870
+Les moyens dont on dispose, d'abord le
+
+304
+00:17:30,870 --> 00:17:34,550
+traitement médicamenteux, il s'agit du traitement de
+
+305
+00:17:34,550 --> 00:17:39,490
+l'insuffisance cardiaque, notamment les digitalics, les furosémides
+
+306
+00:17:39,490 --> 00:17:42,930
+ou l'asilix et les IEC type cartopril.
+
+307
+00:17:43,390 --> 00:17:46,630
+On dispose aussi du fer et du traitement
+
+308
+00:17:46,630 --> 00:17:49,710
+de l'hypertension artérielle pulmonaire dans les stades
+
+309
+00:17:49,710 --> 00:17:50,410
+avancés.
+
+310
+00:17:54,380 --> 00:17:57,720
+On dispose aussi du traitement interventionnel, il s
+
+311
+00:17:57,720 --> 00:17:59,980
+'agit d'introduction d'un cathéter par voie
+
+312
+00:17:59,980 --> 00:18:04,120
+fémorale ou par voie radiale et la fermeture
+
+313
+00:18:04,120 --> 00:18:08,780
+du canal ou de la communication interauriculaire par
+
+314
+00:18:08,780 --> 00:18:10,720
+une prothèse d'emplats de verre.
+
+315
+00:18:15,600 --> 00:18:18,480
+Le traitement chirurgical des chaînes gauche-droite peut
+
+316
+00:18:18,480 --> 00:18:20,900
+être curatif à chaque fois, c'est possible,
+
+317
+00:18:21,260 --> 00:18:22,740
+comme il peut être palliatif.
+
+318
+00:18:23,160 --> 00:18:25,880
+Le traitement palliatif dont on dispose en cas
+
+319
+00:18:25,880 --> 00:18:28,040
+des chaînes gauche-droite, c'est le cerclage
+
+320
+00:18:28,040 --> 00:18:29,380
+de l'artère pulmonaire.
+
+321
+00:18:29,820 --> 00:18:31,840
+Le principe de ce cerclage, c'est de
+
+322
+00:18:31,840 --> 00:18:34,060
+créer une sténose au niveau de l'artère
+
+323
+00:18:34,060 --> 00:18:37,840
+pulmonaire, ceci va permettre de diminuer le débit
+
+324
+00:18:37,840 --> 00:18:42,340
+pulmonaire et donc d'éviter les hypertensions artérielles
+
+325
+00:18:42,340 --> 00:18:45,380
+pulmonaires qui peuvent aggraver le pronostic de la
+
+326
+00:18:45,380 --> 00:18:45,900
+maladie.
+
+327
+00:18:50,560 --> 00:18:54,000
+On arrive maintenant aux indications thérapeutiques.
+
+328
+00:18:54,980 --> 00:18:56,840
+En ce qui concerne les petites chaînes gauche
+
+329
+00:18:56,840 --> 00:18:59,700
+-droite, en général pas de traitement en dehors
+
+330
+00:18:59,700 --> 00:19:02,500
+de la prophylaxie de l'endocardite infectieuse.
+
+331
+00:19:02,500 --> 00:19:07,120
+Bien évidemment, la communication interauriculaire ne présente pas
+
+332
+00:19:07,120 --> 00:19:09,740
+de risque d'endocardite infectieuse.
+
+333
+00:19:11,900 --> 00:19:15,380
+Quand il s'agit de chartes significatives, on
+
+334
+00:19:15,380 --> 00:19:19,700
+fait appel au traitement médicamenteux, surtout le traitement
+
+335
+00:19:19,700 --> 00:19:23,280
+d'éventuels anémies, traitement de l'insuffisance cardiaque
+
+336
+00:19:23,280 --> 00:19:25,680
+par les diurétiques et les inhibiteurs de l
+
+337
+00:19:25,680 --> 00:19:28,860
+'enzyme de conversion et ceci en attendant la
+
+338
+00:19:28,860 --> 00:19:29,600
+chirurgie.
+
+339
+00:19:29,600 --> 00:19:33,500
+Le traitement de l'hypertension artérielle pulmonaire est
+
+340
+00:19:33,500 --> 00:19:36,060
+préconisé au stade des enlinguerres.
+
+341
+00:19:36,840 --> 00:19:38,900
+Il faut bien noter que la chirurgie est
+
+342
+00:19:38,900 --> 00:19:42,440
+formellement contre-indiquée quand le patient arrive à
+
+343
+00:19:42,440 --> 00:19:44,260
+ce stade des enlinguerres.
+
+344
+00:19:46,920 --> 00:19:50,820
+Le traitement chirurgical ou interventionnel est indiqué si
+
+345
+00:19:50,820 --> 00:19:54,820
+présence de symptômes ou dilatation cavitaire ou hypertension
+
+346
+00:19:54,820 --> 00:19:56,500
+artérielle pulmonaire.
+
+347
+00:19:56,500 --> 00:20:00,580
+Dans les communications interauriculaires, la fermeture est en
+
+348
+00:20:00,580 --> 00:20:02,660
+général tardive et se fait après l'âge
+
+349
+00:20:02,660 --> 00:20:03,560
+de 2 ans.
+
+350
+00:20:04,080 --> 00:20:06,320
+Elle peut se faire par voie percutanée si
+
+351
+00:20:06,320 --> 00:20:08,940
+l'anatomie est favorable ou bien chirurgicale.
+
+352
+00:20:10,560 --> 00:20:15,900
+Dans les communications interventriculaires et le canal atrioventriculaire,
+
+353
+00:20:16,060 --> 00:20:18,760
+on peut proposer la fermeture chirurgicale d'emblée
+
+354
+00:20:18,760 --> 00:20:20,680
+entre l'âge de 3 mois à 6
+
+355
+00:20:20,680 --> 00:20:20,860
+mois.
+
+356
+00:20:20,860 --> 00:20:23,920
+Dans d'autres contextes, parfois on propose le
+
+357
+00:20:23,920 --> 00:20:27,300
+cerclage, surtout quand l'enfant a une hypertension
+
+358
+00:20:27,300 --> 00:20:30,620
+artérielle pulmonaire avec un petit poids ou quand
+
+359
+00:20:30,620 --> 00:20:35,440
+on a des communications interventriculaires mutibles ou quand
+
+360
+00:20:35,440 --> 00:20:38,740
+il y a plusieurs malformations qui contre-indiquent
+
+361
+00:20:38,740 --> 00:20:39,680
+la cure totale.
+
+362
+00:20:40,380 --> 00:20:42,240
+Enfin, quand il s'agit d'un canal
+
+363
+00:20:42,240 --> 00:20:46,320
+artériel, on propose la fermeture percutanée de préférence
+
+364
+00:20:46,320 --> 00:20:48,560
+sinon chirurgicale d'emblée.
+
+365
+00:20:50,730 --> 00:20:57,030
+On commence par l'écheinte gauche-droite, la
+
+366
+00:20:57,030 --> 00:20:59,150
+détransposition des gros vaisseaux.
+
+367
+00:21:00,250 --> 00:21:02,790
+Au terme de ce cours, vous devez être
+
+368
+00:21:02,790 --> 00:21:06,030
+capable de définir la détransposition des gros vaisseaux,
+
+369
+00:21:06,650 --> 00:21:10,810
+d'expliquer son mécanisme physiopathologique, de citer les
+
+370
+00:21:10,810 --> 00:21:14,590
+résultats des examens paracliniques retrouvés chez un nouveau
+
+371
+00:21:14,590 --> 00:21:18,290
+-né admis pour suspicion de détransposition des gros
+
+372
+00:21:18,290 --> 00:21:18,650
+vaisseaux.
+
+373
+00:21:18,650 --> 00:21:22,750
+Enfin, vous devez être capable de préciser la
+
+374
+00:21:22,750 --> 00:21:26,570
+conduite à tenir thérapeutique proposée en urgence dans
+
+375
+00:21:26,570 --> 00:21:29,930
+la détransposition des gros vaisseaux isolés et d
+
+376
+00:21:29,930 --> 00:21:33,270
+'expliquer l'intérêt du diagnostic précoce dans cette
+
+377
+00:21:33,270 --> 00:21:34,050
+situation.
+
+378
+00:21:36,850 --> 00:21:41,050
+La détransposition des gros vaisseaux constitue une cardiopathie
+
+379
+00:21:41,050 --> 00:21:45,170
+congénital-cyanogène caractérisée par la naissance de l
+
+380
+00:21:45,170 --> 00:21:48,450
+'aorte du ventricule droit et de l'artère
+
+381
+00:21:48,450 --> 00:21:50,190
+pulmonaire du ventricule gauche.
+
+382
+00:21:50,970 --> 00:21:53,610
+On note une prédominance masculine.
+
+383
+00:21:54,210 --> 00:21:55,630
+Par ailleurs, il n'y a pas de
+
+384
+00:21:55,630 --> 00:21:56,810
+forme familiale.
+
+385
+00:21:59,970 --> 00:22:03,170
+Sur le plan physiopathologique, on peut décrire deux
+
+386
+00:22:03,170 --> 00:22:03,730
+entités.
+
+387
+00:22:04,310 --> 00:22:07,250
+La première, c'est la détransposition isolée des
+
+388
+00:22:07,250 --> 00:22:07,930
+gros vaisseaux.
+
+389
+00:22:09,070 --> 00:22:13,290
+Dans cette situation, le sang désoxygéné, qui provient
+
+390
+00:22:13,290 --> 00:22:15,750
+de la ventclave inférieure et de la ventclave
+
+391
+00:22:15,750 --> 00:22:19,910
+supérieure, rejoint le ventricule droit, puis la circulation
+
+392
+00:22:19,910 --> 00:22:20,830
+systémique.
+
+393
+00:22:21,430 --> 00:22:25,270
+Cette situation est incompatible avec la vie parce
+
+394
+00:22:25,270 --> 00:22:28,150
+que la circulation systémique va recevoir tout le
+
+395
+00:22:28,150 --> 00:22:29,450
+temps le sang désoxygéné.
+
+396
+00:22:30,450 --> 00:22:34,470
+Heureusement, à la naissance, le canal artériel et
+
+397
+00:22:34,470 --> 00:22:37,750
+ou le foramen ovale sont perméables pour assurer
+
+398
+00:22:37,750 --> 00:22:40,630
+un certain degré d'échange et de mélange.
+
+399
+00:22:41,730 --> 00:22:44,670
+Mais, dans les jours qui suivent, le foramen
+
+400
+00:22:44,670 --> 00:22:47,790
+ovale et le canal artériel se ferment et
+
+401
+00:22:47,790 --> 00:22:50,010
+ils sont responsables du décès s'il n
+
+402
+00:22:50,010 --> 00:22:53,070
+'y a pas d'intervention chirurgicale ou interventionnelle
+
+403
+00:22:53,070 --> 00:22:53,850
+urgente.
+
+404
+00:22:56,450 --> 00:22:58,630
+Dans le deuxième cas de figure, c'est
+
+405
+00:22:58,630 --> 00:23:01,870
+la détransposition des gros vaisseaux associée à une
+
+406
+00:23:01,870 --> 00:23:06,750
+communication interventriculaire ou à une communication interauriculaire ou
+
+407
+00:23:06,750 --> 00:23:08,290
+à un canal artériel large.
+
+408
+00:23:08,950 --> 00:23:12,010
+En général, il est bien toléré grâce au
+
+409
+00:23:12,010 --> 00:23:14,290
+mélange du sang qui se fait entre les
+
+410
+00:23:14,290 --> 00:23:16,450
+deux cavités droite et gauche.
+
+411
+00:23:17,710 --> 00:23:21,190
+Le diagnostic se fait plus tardivement par l
+
+412
+00:23:21,190 --> 00:23:23,650
+'apparition de la cyanose.
+
+413
+00:23:29,530 --> 00:23:32,490
+En ce qui concerne le diagnostic positif des
+
+414
+00:23:32,490 --> 00:23:36,330
+détranspositions isolées des gros vaisseaux, le diagnostic se
+
+415
+00:23:36,330 --> 00:23:38,890
+fait en général à la naissance par une
+
+416
+00:23:38,890 --> 00:23:42,590
+cyanose de révélation néonatale réfractaire à l'oxygène.
+
+417
+00:23:43,250 --> 00:23:46,610
+La respiration et l'auscultation sont normales.
+
+418
+00:23:47,330 --> 00:23:50,250
+L'électrocardiogramme est normal aussi chez le nouveau
+
+419
+00:23:50,250 --> 00:23:50,470
+-né.
+
+420
+00:23:50,890 --> 00:23:53,430
+Plus tard, on peut assister à une hypertrophie
+
+421
+00:23:54,030 --> 00:23:54,770
+ventriculaire droite.
+
+422
+00:23:56,920 --> 00:23:59,600
+La radiographie thoracique, quant à elle, est normale
+
+423
+00:23:59,600 --> 00:24:00,420
+à la naissance.
+
+424
+00:24:01,160 --> 00:24:03,820
+Tardivement, elle prend un aspect typique d'œuf
+
+425
+00:24:03,820 --> 00:24:04,220
+couché.
+
+426
+00:24:04,980 --> 00:24:08,160
+On note également une hypervascularisation pulmonaire.
+
+427
+00:24:12,880 --> 00:24:16,440
+L'échocardiographie constitue un examen clé au diagnostic
+
+428
+00:24:16,440 --> 00:24:19,480
+car il permet d'évaluer le diagnostic positif,
+
+429
+00:24:20,060 --> 00:24:23,640
+il cherche les malformations associées et il évalue
+
+430
+00:24:23,640 --> 00:24:28,360
+le retentissement, notamment l'hypertension artérielle pulmonaire, la
+
+431
+00:24:28,360 --> 00:24:30,160
+dilatation du ventricule droit.
+
+432
+00:24:30,740 --> 00:24:33,360
+Il évalue aussi la fonction ventriculaire gauche.
+
+433
+00:24:37,590 --> 00:24:40,370
+Le diagnostic et le traitement doivent être faits
+
+434
+00:24:40,370 --> 00:24:44,010
+en période néonatale, surtout dans la forme isolée.
+
+435
+00:24:45,030 --> 00:24:49,230
+Dans la détransposition des gros vaisseaux isolés, il
+
+436
+00:24:49,230 --> 00:24:51,890
+faut proposer un raschkind, c'est un geste
+
+437
+00:24:51,890 --> 00:24:56,590
+interventionnel par cathéter pratiqué en urgence pour ouvrir
+
+438
+00:24:56,590 --> 00:24:59,970
+le foramen ovale et pour assurer un mixing.
+
+439
+00:25:00,890 --> 00:25:03,850
+On peut proposer également de la prostaglandine pour
+
+440
+00:25:03,850 --> 00:25:05,930
+maintenir le canal permeable.
+
+441
+00:25:07,430 --> 00:25:09,750
+Ces deux gestes sont suivis par la suite
+
+442
+00:25:09,750 --> 00:25:10,790
+d'une cure totale.
+
+443
+00:25:12,150 --> 00:25:15,250
+Dans la détransposition des gros vaisseaux associés à
+
+444
+00:25:15,250 --> 00:25:20,090
+une communication interauriculaire, une communication interventriculaire ou un
+
+445
+00:25:20,090 --> 00:25:23,470
+canal artériel, la cure totale peut se faire
+
+446
+00:25:23,470 --> 00:25:24,330
+dans le mois.
+
+447
+00:25:29,840 --> 00:25:34,440
+La tétralogie de Fallot Au terme de ce
+
+448
+00:25:34,440 --> 00:25:37,140
+cours, vous devez être capable de définir la
+
+449
+00:25:37,140 --> 00:25:40,160
+tétralogie de Fallot, d'expliquer les données de
+
+450
+00:25:40,160 --> 00:25:43,360
+l'examen clinique retrouvées chez un enfant suivi
+
+451
+00:25:43,360 --> 00:25:44,540
+pour cette entité.
+
+452
+00:25:45,320 --> 00:25:48,320
+Vous devez être capable aussi de citer les
+
+453
+00:25:48,320 --> 00:25:52,080
+résultats des examens paracliniques retrouvés chez un patient
+
+454
+00:25:52,080 --> 00:25:54,620
+ou un enfant plutôt admis pour tétralogie de
+
+455
+00:25:54,620 --> 00:25:57,800
+Fallot et enfin préciser la conduite à tenir
+
+456
+00:25:57,800 --> 00:26:01,900
+thérapeutique proposée chez cet enfant.
+
+457
+00:26:04,940 --> 00:26:09,400
+La tétralogie de Fallot constitue une cardiopathie congénitale
+
+458
+00:26:09,400 --> 00:26:14,100
+cyanogène caractérisée par une aorte à cheval, une
+
+459
+00:26:14,100 --> 00:26:19,380
+hypertrophie ventriculaire droite, une sténose pulmonaire et une
+
+460
+00:26:19,380 --> 00:26:21,580
+communication interventriculaire.
+
+461
+00:26:25,640 --> 00:26:28,780
+C'est une pathologie assez fréquente, elle constitue
+
+462
+00:26:28,780 --> 00:26:31,580
+6% des cardiopathies congénitales.
+
+463
+00:26:32,860 --> 00:26:35,900
+L'étiologie principale est la trisomie 21.
+
+464
+00:26:41,400 --> 00:26:44,940
+Le diagnostic positif se fait suite à des
+
+465
+00:26:44,940 --> 00:26:50,360
+signes fonctionnels, notamment un retard staturopondéral, une cyanose
+
+466
+00:26:50,360 --> 00:26:53,460
+dont l'importance et le degré dépendent du
+
+467
+00:26:53,460 --> 00:26:54,740
+degré de la sténose.
+
+468
+00:26:55,660 --> 00:26:57,860
+Quand on fait face à une sténose sévère,
+
+469
+00:26:58,320 --> 00:27:00,360
+la cyanose paraît dès la naissance.
+
+470
+00:27:01,540 --> 00:27:04,360
+Quand la sténose est moins sévère, la cyanose
+
+471
+00:27:04,360 --> 00:27:05,600
+peut être tardive.
+
+472
+00:27:09,930 --> 00:27:12,370
+Tardivement, chez le grand enfant, on assiste au
+
+473
+00:27:12,370 --> 00:27:12,870
+squatting.
+
+474
+00:27:13,670 --> 00:27:15,610
+C'est un enfant qui adopte une position
+
+475
+00:27:15,610 --> 00:27:19,350
+particulière, il s'accroupit pour augmenter le retour
+
+476
+00:27:19,350 --> 00:27:19,890
+veineux.
+
+477
+00:27:21,190 --> 00:27:23,330
+A la fin, on peut assister aux malaises
+
+478
+00:27:23,330 --> 00:27:26,170
+anoxiques qui se voient dans les sténoses pulmonaires
+
+479
+00:27:26,170 --> 00:27:28,290
+très serrées, surtout infundibulaires.
+
+480
+00:27:30,090 --> 00:27:33,710
+Ces malaises anoxiques surviennent dans un contexte particulier
+
+481
+00:27:33,710 --> 00:27:36,650
+d'énervement, de fièvre, de douleur ou de
+
+482
+00:27:36,650 --> 00:27:37,530
+déshydratation.
+
+483
+00:27:38,570 --> 00:27:41,390
+Ils se traduisent par une tachycardie, puis une
+
+484
+00:27:41,390 --> 00:27:44,330
+majoration de la cyanose, suivie d'une perte
+
+485
+00:27:44,330 --> 00:27:46,170
+de connaissance avec hypotonie.
+
+486
+00:27:47,770 --> 00:27:51,110
+Elle traduit une absence de perfusion pulmonaire, suite
+
+487
+00:27:51,110 --> 00:27:53,470
+à la tachycardie, à la fièvre, à la
+
+488
+00:27:53,470 --> 00:27:57,850
+douleur ou à l'énervement, qui est responsable
+
+489
+00:27:57,850 --> 00:27:59,310
+de ce malaise anoxique.
+
+490
+00:28:01,670 --> 00:28:05,070
+Sur le plan physique, on peut trouver un
+
+491
+00:28:05,070 --> 00:28:07,970
+hypocratisme digital, surtout chez les grands enfants.
+
+492
+00:28:07,970 --> 00:28:10,010
+On trouve aussi la cyanose.
+
+493
+00:28:10,730 --> 00:28:13,630
+La cyanose est un élément important de diagnostic.
+
+494
+00:28:14,350 --> 00:28:16,450
+Sa mesure doit être faite à l'aide
+
+495
+00:28:16,450 --> 00:28:17,570
+d'un saturomètre.
+
+496
+00:28:18,230 --> 00:28:21,170
+En effet, une inspection normale n'élimine pas
+
+497
+00:28:21,170 --> 00:28:22,870
+le diagnostic de la cyanose.
+
+498
+00:28:24,110 --> 00:28:28,390
+Exemple, l'anémie diminue l'aspect physique de
+
+499
+00:28:28,390 --> 00:28:29,070
+la cyanose.
+
+500
+00:28:29,610 --> 00:28:33,510
+Aussi, il existe une zone de désaturation sans
+
+501
+00:28:33,510 --> 00:28:34,090
+cyanose.
+
+502
+00:28:34,770 --> 00:28:37,710
+Cette zone se situe entre 80 et 96
+
+503
+00:28:37,710 --> 00:28:38,750
+%.
+
+504
+00:28:38,750 --> 00:28:42,070
+Autrement dit, quand l'enfant a une saturation
+
+505
+00:28:42,070 --> 00:28:47,290
+entre 80 et 96, on peut trouver une
+
+506
+00:28:47,290 --> 00:28:49,710
+désaturation sans cyanose clinique.
+
+507
+00:28:51,730 --> 00:28:53,750
+Et à la fin, on trouve un souffle
+
+508
+00:28:53,750 --> 00:28:57,430
+systolique de cyanose pulmonaire.
+
+509
+00:29:01,390 --> 00:29:04,110
+Sur le plan électrique, le signe majeur, c
+
+510
+00:29:04,110 --> 00:29:06,150
+'est l'hypertrophie ventriculaire droite.
+
+511
+00:29:06,150 --> 00:29:10,670
+A la radiographie thoracique, on peut noter un
+
+512
+00:29:10,670 --> 00:29:13,370
+aspect typique de la tétralogie de Fallot qui
+
+513
+00:29:13,370 --> 00:29:16,010
+est un aspect de cœur en savon.
+
+514
+00:29:16,810 --> 00:29:19,970
+On trouve aussi une hypovascularisation pulmonaire.
+
+515
+00:29:22,770 --> 00:29:25,730
+L'écho-cœur constitue aussi un examen clé
+
+516
+00:29:25,730 --> 00:29:28,050
+au diagnostic de la tétralogie de Fallot.
+
+517
+00:29:28,810 --> 00:29:30,730
+Elle permet de confirmer le diagnostic.
+
+518
+00:29:30,730 --> 00:29:34,710
+Elle permet de chercher les lésions associées, notamment
+
+519
+00:29:34,710 --> 00:29:39,430
+les communications intervériculaires, un canal artériel, des CIV
+
+520
+00:29:39,430 --> 00:29:42,350
+multiples et des anomalies de naissance des artères
+
+521
+00:29:42,350 --> 00:29:42,990
+coronaires.
+
+522
+00:29:43,490 --> 00:29:46,790
+A noter, ces malformations sont très fréquemment associées
+
+523
+00:29:46,790 --> 00:29:48,350
+à la tétralogie de Fallot.
+
+524
+00:29:52,160 --> 00:29:55,440
+Le cathéterisme n'est pas systématique car l
+
+525
+00:29:55,440 --> 00:29:58,180
+'écho-cardiographie permet dans la majorité des cas
+
+526
+00:29:58,180 --> 00:29:59,840
+de faire le diagnostic.
+
+527
+00:29:59,840 --> 00:30:04,580
+L'indication du cathéterisme cardiaque se limite au
+
+528
+00:30:04,580 --> 00:30:06,960
+cas où on a un doute sur d
+
+529
+00:30:06,960 --> 00:30:10,040
+'autres lésions associées et pour étudier l'arbre
+
+530
+00:30:10,040 --> 00:30:12,900
+pulmonaire quand on a des hypoplasies ou des
+
+531
+00:30:12,900 --> 00:30:15,840
+stérilisations pulmonaires étagées.
+
+532
+00:30:22,420 --> 00:30:24,780
+En ce qui concerne le traitement, on opte
+
+533
+00:30:24,780 --> 00:30:27,800
+pour un traitement médicamenteux, surtout pour le traitement
+
+534
+00:30:27,800 --> 00:30:29,220
+des malaises anoxiques.
+
+535
+00:30:29,220 --> 00:30:32,560
+Au moment de la crise, on peut introduire
+
+536
+00:30:32,560 --> 00:30:35,180
+du Valium avec des pétablocants.
+
+537
+00:30:35,900 --> 00:30:38,280
+En dehors de la crise, on prescrit des
+
+538
+00:30:38,280 --> 00:30:40,340
+pétablocants type un.
+
+539
+00:30:41,040 --> 00:30:43,740
+Un blockardine de 2 mg par kg en
+
+540
+00:30:43,740 --> 00:30:44,780
+2 à 3 prises.
+
+541
+00:30:45,800 --> 00:30:51,740
+Cette présence de malaise anoxique implique une indication
+
+542
+00:30:51,740 --> 00:30:54,080
+chirurgicale en extrême urgence.
+
+543
+00:30:54,080 --> 00:31:00,480
+Le traitement chirurgical de la tetralogytralo peut être
+
+544
+00:31:00,480 --> 00:31:03,940
+curatif avec rétablissement d'une anatomie normale.
+
+545
+00:31:04,720 --> 00:31:07,560
+Il peut être palliatif notamment par le blaloc
+
+546
+00:31:07,560 --> 00:31:09,880
+toxique ou le bitisheft modifié.
+
+547
+00:31:10,840 --> 00:31:14,760
+Ce geste consiste en l'interposition d'un
+
+548
+00:31:14,760 --> 00:31:18,200
+tube protétique entre l'artère sous-clavière et
+
+549
+00:31:18,200 --> 00:31:19,560
+l'artère pulmonaire.
+
+550
+00:31:19,560 --> 00:31:22,220
+L'intérêt c'est d'augmenter le flux
+
+551
+00:31:22,220 --> 00:31:26,640
+sanguin destiné au poumon en attendant la cure
+
+552
+00:31:26,640 --> 00:31:27,320
+totale.
+
+553
+00:31:32,120 --> 00:31:34,140
+Les indications du traitement chirurgical.
+
+554
+00:31:34,760 --> 00:31:38,040
+La cure totale est proposée à chaque fois
+
+555
+00:31:38,040 --> 00:31:40,300
+que c'est possible, généralement entre l'âge
+
+556
+00:31:40,300 --> 00:31:41,480
+de 3 à 6 mois.
+
+557
+00:31:42,200 --> 00:31:45,900
+La cure palliatif est proposée quand le poids
+
+558
+00:31:45,900 --> 00:31:48,140
+de l'enfant ne le permet pas ou
+
+559
+00:31:48,140 --> 00:31:49,960
+quand il y a une contre-indication à
+
+560
+00:31:49,960 --> 00:31:50,680
+la chirurgie.
+
+561
+00:31:51,440 --> 00:31:53,960
+A noter que le traitement palliatif ou le
+
+562
+00:31:53,960 --> 00:31:57,900
+type blaloc toxique peut être proposé dans toutes
+
+563
+00:31:57,900 --> 00:32:02,620
+les cardiopathies mal tolérées présentant une hypovascularisation pulmonaire.
+
+564
+00:32:07,870 --> 00:32:13,050
+En conclusion, les cardiopathies congénitales constituent une entité
+
+565
+00:32:13,050 --> 00:32:13,890
+fréquente.
+
+566
+00:32:14,550 --> 00:32:18,070
+Je souligne l'intérêt du diagnostic néonatal pour
+
+567
+00:32:18,070 --> 00:32:21,430
+assurer une prise en charge précoce des enfants.
+
+568
+00:32:21,430 --> 00:32:24,870
+Je souligne aussi l'intérêt du conseil génétique
+
+569
+00:32:24,870 --> 00:32:26,750
+dans les formes génétiques.

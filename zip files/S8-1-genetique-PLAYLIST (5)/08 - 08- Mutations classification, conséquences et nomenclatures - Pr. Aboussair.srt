@@ -1,0 +1,3587 @@
+1
+00:00:00,780 --> 00:00:04,480
+Bonjour, le cours d'aujourd'hui est intitulé
+
+2
+00:00:04,480 --> 00:00:08,780
+« Les mutations géniques, leurs classifications, conséquences et
+
+3
+00:00:08,780 --> 00:00:09,960
+nomenclatures ».
+
+4
+00:00:10,780 --> 00:00:13,220
+Les objectifs de ce cours sont les suivants.
+
+5
+00:00:13,800 --> 00:00:16,560
+Connaître la définition et la classification des mutations,
+
+6
+00:00:17,360 --> 00:00:20,720
+à savoir les mutations ponctuelles, les gros remaniements
+
+7
+00:00:20,720 --> 00:00:24,000
+géniques et les mutations par expansion des triplés.
+
+8
+00:00:24,000 --> 00:00:27,380
+De même, vous devez être capable de citer
+
+9
+00:00:27,380 --> 00:00:30,300
+les conséquences des mutations délétères et de s
+
+10
+00:00:30,300 --> 00:00:32,540
+'initier à la nomenclature des mutations.
+
+11
+00:00:33,260 --> 00:00:35,160
+Le plan du cours est le suivant.
+
+12
+00:00:35,800 --> 00:00:39,520
+Après une introduction, on va voir ensemble la
+
+13
+00:00:39,520 --> 00:00:41,060
+classification des mutations.
+
+14
+00:00:42,160 --> 00:00:45,120
+Puis, on va détailler les mutations ponctuelles.
+
+15
+00:00:45,500 --> 00:00:47,340
+Ensuite, les gros remaniements.
+
+16
+00:00:48,100 --> 00:00:50,140
+Après, les mutations instables.
+
+17
+00:00:51,000 --> 00:00:54,320
+Après, vous devez être initié à la nomenclature
+
+18
+00:00:54,320 --> 00:00:58,220
+des mutations, surtout les mutations ponctuelles.
+
+19
+00:00:58,320 --> 00:01:00,760
+Et, je vais vous donner un aperçu sur
+
+20
+00:01:00,760 --> 00:01:04,900
+la stratégie du diagnostic moléculaire avant de conclure.
+
+21
+00:01:06,800 --> 00:01:11,180
+Donc, une mutation génique est appelée également «
+
+22
+00:01:11,180 --> 00:01:13,540
+variant » ou « variation » de séquence.
+
+23
+00:01:13,540 --> 00:01:16,100
+C'est tout changement au niveau de la
+
+24
+00:01:16,100 --> 00:01:18,560
+séquence d'ADN qui n'altère pas la
+
+25
+00:01:18,560 --> 00:01:22,720
+structure des chromosomes et sont préjugés de sa
+
+26
+00:01:22,720 --> 00:01:23,660
+pathogénicité.
+
+27
+00:01:24,640 --> 00:01:26,960
+Donc, quand on dit mutation, ça ne veut
+
+28
+00:01:26,960 --> 00:01:34,650
+pas dire forcément une conséquence pathologique.
+
+29
+00:01:35,390 --> 00:01:39,070
+Une mutation peut être pathogène, ça veut dire
+
+30
+00:01:39,070 --> 00:01:42,350
+à l'origine d'une maladie, ou non
+
+31
+00:01:42,350 --> 00:01:44,470
+pathogène, c'est ce qu'on appelle «
+
+32
+00:01:44,470 --> 00:01:47,010
+mutation neutre ».
+
+33
+00:01:47,010 --> 00:01:50,290
+En général, ce sont des accidents de copie
+
+34
+00:01:50,290 --> 00:01:53,770
+des bases puriques et pyrémidiques qui se produisent
+
+35
+00:01:53,770 --> 00:01:56,030
+le plus souvent au cours de la réplication.
+
+36
+00:01:56,530 --> 00:02:02,430
+Ou bien, elles peuvent survenir soit spontanément ou
+
+37
+00:02:02,430 --> 00:02:07,250
+être induites par des agents exogènes chimiques ou
+
+38
+00:02:07,250 --> 00:02:08,050
+physiques.
+
+39
+00:02:09,650 --> 00:02:14,570
+Pour survivre et se reproduire, les individus doivent
+
+40
+00:02:14,570 --> 00:02:16,630
+être génétiquement stables.
+
+41
+00:02:16,630 --> 00:02:21,670
+D'une part, on a des mutations spontanées
+
+42
+00:02:21,670 --> 00:02:26,510
+ou induites, mais il y a plusieurs systèmes
+
+43
+00:02:26,510 --> 00:02:31,370
+de réparation qui scrutent la totalité de notre
+
+44
+00:02:31,370 --> 00:02:35,670
+gênant pour réparer les éventuelles mutations.
+
+45
+00:02:36,890 --> 00:02:40,790
+Quand il y a une réparation, l'individu
+
+46
+00:02:40,790 --> 00:02:42,730
+est génétiquement stable.
+
+47
+00:02:47,200 --> 00:02:51,720
+Donc, ces mutations ou ces variations de séquences,
+
+48
+00:02:52,800 --> 00:02:56,160
+elles ont des avantages à savoir l'évolution
+
+49
+00:02:56,160 --> 00:02:59,940
+et la variabilité génétiques.
+
+50
+00:03:01,220 --> 00:03:02,680
+Elles ont des inconvénients.
+
+51
+00:03:03,300 --> 00:03:06,760
+Ces mutations, quand elles sont pathogènes et ne
+
+52
+00:03:06,760 --> 00:03:09,920
+sont pas réparées par les systèmes de réparation,
+
+53
+00:03:10,340 --> 00:03:13,100
+donc on appelle ça une instabilité, elles pourront
+
+54
+00:03:13,100 --> 00:03:16,100
+être à l'origine de maladies génétiques, de
+
+55
+00:03:16,100 --> 00:03:21,760
+prédispositions au cancer et une susceptibilité à des
+
+56
+00:03:21,760 --> 00:03:23,880
+maladies multifactorielles.
+
+57
+00:03:25,900 --> 00:03:29,920
+Pour les mutations, on a d'une part
+
+58
+00:03:29,920 --> 00:03:34,020
+les mutations ponctuelles et d'autre part les
+
+59
+00:03:34,020 --> 00:03:35,100
+groupes en maniement.
+
+60
+00:03:35,680 --> 00:03:38,280
+C'est quoi une mutation ponctuelle ?
+
+61
+00:03:38,280 --> 00:03:41,180
+C'est une mutation, donc une variation de
+
+62
+00:03:41,180 --> 00:03:45,260
+séquence, qui affecte une base ou quelques bases,
+
+63
+00:03:45,460 --> 00:03:47,060
+un petit nombre de bases qui ne dépassent
+
+64
+00:03:47,060 --> 00:03:47,800
+pas une dizaine.
+
+65
+00:03:48,480 --> 00:03:50,940
+Et ces bases qui sont adjacentes, elles peuvent
+
+66
+00:03:50,940 --> 00:03:53,600
+être à type de substitution, changement d'une
+
+67
+00:03:53,600 --> 00:03:56,140
+base par une autre, une déletion, perte d
+
+68
+00:03:56,140 --> 00:03:57,580
+'une base ou un petit nombre de bases,
+
+69
+00:03:58,020 --> 00:03:59,560
+une insertion, c'est l'ajout d'une
+
+70
+00:03:59,560 --> 00:04:01,420
+base ou un petit nombre de bases.
+
+71
+00:04:02,660 --> 00:04:07,420
+Ces mutations peuvent être somatiques ou germinales.
+
+72
+00:04:07,420 --> 00:04:09,840
+Une mutation somatique, comme ce qu'on a
+
+73
+00:04:09,840 --> 00:04:14,200
+vu en première année de médecine, c'est
+
+74
+00:04:14,200 --> 00:04:15,680
+une mutation acquise.
+
+75
+00:04:16,000 --> 00:04:19,620
+Elle intéresse un clone cellulaire, donc dans un
+
+76
+00:04:19,620 --> 00:04:22,020
+tissu donné ou un nombre de tissus.
+
+77
+00:04:22,940 --> 00:04:24,780
+Elle est acquise, elle n'était pas présente
+
+78
+00:04:24,780 --> 00:04:27,540
+à la naissance et elle ne sera pas
+
+79
+00:04:27,540 --> 00:04:30,540
+transmise à la descendance, donc non héréditaire.
+
+80
+00:04:30,960 --> 00:04:33,980
+Ces mutations somatiques sont acquises, clonales.
+
+81
+00:04:33,980 --> 00:04:39,600
+Alors que les mutations germinales ou constitutionnelles, elles
+
+82
+00:04:39,600 --> 00:04:43,560
+touchent les cellules germinales, elles sont présentes dès
+
+83
+00:04:43,560 --> 00:04:46,260
+la naissance, elles sont transmises à la descendance.
+
+84
+00:04:47,420 --> 00:04:49,040
+Donc voici un schéma.
+
+85
+00:04:49,860 --> 00:04:52,160
+À droite, c'est l'exemple de mutations
+
+86
+00:04:52,160 --> 00:04:55,080
+germinales qui sont présentes dans toutes les cellules
+
+87
+00:04:55,080 --> 00:04:58,660
+de l'organisme et sont transmises à la
+
+88
+00:04:58,660 --> 00:05:02,460
+descendance, donc à l'origine de cas familiaux.
+
+89
+00:05:02,460 --> 00:05:08,000
+Là, c'est une mutation somatique, présente dans
+
+90
+00:05:08,000 --> 00:05:11,200
+un tissu donné, c'est clonale, donc c
+
+91
+00:05:11,200 --> 00:05:15,840
+'est acquise et non transmise à la descendance,
+
+92
+00:05:16,080 --> 00:05:17,140
+c'est non héréditaire.
+
+93
+00:05:20,260 --> 00:05:24,520
+En guise de rappel, ce qu'on a
+
+94
+00:05:24,520 --> 00:05:27,640
+vu en première année, les bases puriques ou
+
+95
+00:05:27,640 --> 00:05:31,700
+les purines, à savoir l'adénine et la
+
+96
+00:05:31,700 --> 00:05:32,500
+guanine.
+
+97
+00:05:32,500 --> 00:05:35,220
+On a d'autre part les bases périmidiques
+
+98
+00:05:35,220 --> 00:05:38,620
+ou les périmidines, à savoir la cytosine et
+
+99
+00:05:38,620 --> 00:05:40,720
+la thymine qui sont présentes dans l'ADN
+
+100
+00:05:41,410 --> 00:05:44,280
+et le racine qui n'est présente que
+
+101
+00:05:44,280 --> 00:05:47,060
+dans la molécule d'ARN.
+
+102
+00:05:47,820 --> 00:05:51,080
+Vous vous rappelez du code génétique, il est
+
+103
+00:05:51,080 --> 00:05:56,160
+constitué de 64 codons pour 20 acides aminés.
+
+104
+00:05:56,620 --> 00:05:59,040
+Donc on a le codon d'initiation, le
+
+105
+00:05:59,040 --> 00:06:01,360
+codon AUG au niveau de l'ARN messager
+
+106
+00:06:01,360 --> 00:06:03,880
+et l'ATG au niveau de l'ADN.
+
+107
+00:06:04,280 --> 00:06:06,200
+On a les codons STOP qui ne codent
+
+108
+00:06:06,200 --> 00:06:10,300
+pour aucun acide aminé, à savoir UAA, UAG
+
+109
+00:06:10,300 --> 00:06:11,660
+et UGR.
+
+110
+00:06:14,480 --> 00:06:19,200
+Donc pour les mutations ponctuelles, elles sont classées
+
+111
+00:06:19,200 --> 00:06:22,600
+en substitution, déletion et insertion.
+
+112
+00:06:23,480 --> 00:06:24,800
+Comme je l'ai dit tout à l
+
+113
+00:06:24,800 --> 00:06:28,260
+'heure, la substitution est le remplacement d'une
+
+114
+00:06:28,260 --> 00:06:30,520
+base nucleotidique par une autre.
+
+115
+00:06:30,520 --> 00:06:33,240
+En haut, vous avez la séquence normale.
+
+116
+00:06:33,800 --> 00:06:37,120
+On a deux cytosines suivies par une thymine.
+
+117
+00:06:37,820 --> 00:06:39,460
+En bas, qu'est-ce qu'on a
+
+118
+00:06:39,460 --> 00:06:39,810
+?
+
+119
+00:06:40,060 --> 00:06:43,200
+On a la substitution de la cytosine par
+
+120
+00:06:43,200 --> 00:06:44,300
+une adénine.
+
+121
+00:06:45,660 --> 00:06:49,680
+Donc ces substitutions sont subdivisées en deux types,
+
+122
+00:06:50,320 --> 00:06:52,660
+les transitions et les transversions.
+
+123
+00:06:53,320 --> 00:06:55,020
+Quand est-ce qu'on parle de transition
+
+124
+00:06:55,020 --> 00:06:55,200
+?
+
+125
+00:06:55,200 --> 00:06:57,340
+On parle de transition quand il y a
+
+126
+00:06:57,340 --> 00:07:01,280
+changement d'une périmidine par une périmidine, ou
+
+127
+00:07:01,280 --> 00:07:03,500
+d'une purine par une purine.
+
+128
+00:07:04,420 --> 00:07:06,940
+Alors qu'on parle de transversion, quand il
+
+129
+00:07:06,940 --> 00:07:08,860
+y a changement d'une périmidine par une
+
+130
+00:07:08,860 --> 00:07:12,240
+périne, ou d'une purine par une périmidine.
+
+131
+00:07:14,800 --> 00:07:17,900
+Donc concernant les déletions.
+
+132
+00:07:18,860 --> 00:07:20,840
+La déletion, c'est la perte d'une
+
+133
+00:07:20,840 --> 00:07:22,880
+base ou un petit nombre de bases.
+
+134
+00:07:22,880 --> 00:07:27,640
+Donc ici, en bas, on a la déletion
+
+135
+00:07:27,640 --> 00:07:29,260
+d'une cytosine.
+
+136
+00:07:31,500 --> 00:07:35,060
+Donc là, c'est un exemple d'une
+
+137
+00:07:35,060 --> 00:07:39,880
+pathologie génétique à transmission autosomique récessive, qui est
+
+138
+00:07:39,880 --> 00:07:43,980
+une myopathie, donc des ceintures, appelée la gamma
+
+139
+00:07:43,980 --> 00:07:45,220
+-sarcoglycanopathie.
+
+140
+00:07:46,140 --> 00:07:49,940
+Et cette pathologie, elle est fréquente au Maroc,
+
+141
+00:07:49,940 --> 00:07:53,760
+et il y a une mutation récurrente maghrébine,
+
+142
+00:07:54,400 --> 00:07:58,860
+qui est la mutation C525 Delté.
+
+143
+00:07:59,200 --> 00:08:02,540
+Ça veut dire la déletion d'une thymine
+
+144
+00:08:02,540 --> 00:08:07,020
+en position 525 de l'ADN codon.
+
+145
+00:08:07,360 --> 00:08:09,300
+Et ceci au niveau de l'oxygène 6
+
+146
+00:08:09,300 --> 00:08:14,420
+du gène de la gamma-sarcoglycan.
+
+147
+00:08:14,900 --> 00:08:17,300
+En haut, vous voyez la séquence normale.
+
+148
+00:08:17,300 --> 00:08:20,440
+Donc ici, on avait 5 thymines.
+
+149
+00:08:20,920 --> 00:08:21,980
+En bas, qu'est-ce qu'on a
+
+150
+00:08:21,980 --> 00:08:22,280
+?
+
+151
+00:08:22,280 --> 00:08:24,760
+On n'a que 4 thymines au lieu
+
+152
+00:08:24,760 --> 00:08:25,920
+de 5.
+
+153
+00:08:26,160 --> 00:08:28,280
+Et là, c'est une mutation à l
+
+154
+00:08:28,280 --> 00:08:29,540
+'état homozygote.
+
+155
+00:08:29,640 --> 00:08:31,780
+Ça veut dire une déletion de la thymine
+
+156
+00:08:31,780 --> 00:08:34,340
+au niveau de l'allèle paternel, une déletion
+
+157
+00:08:34,340 --> 00:08:36,700
+de la thymine au niveau de l'allèle
+
+158
+00:08:36,700 --> 00:08:37,740
+maternel.
+
+159
+00:08:38,419 --> 00:08:41,760
+Puisque c'est une pathologie autosomique récessive.
+
+160
+00:08:43,700 --> 00:08:47,880
+Pour les insertions, c'est l'ajout d
+
+161
+00:08:47,880 --> 00:08:51,440
+'une base ou un petit nombre de bases.
+
+162
+00:08:52,160 --> 00:08:55,140
+Ici, on avait, au niveau de la séquence
+
+163
+00:08:55,140 --> 00:08:56,660
+normale, CCT.
+
+164
+00:08:57,100 --> 00:08:58,960
+Là, qu'est-ce qu'on a ?
+
+165
+00:08:58,960 --> 00:09:02,140
+CTC, ça veut dire l'insertion ou l
+
+166
+00:09:02,140 --> 00:09:05,580
+'ajout d'une thymine entre les deux cytosines.
+
+167
+00:09:07,380 --> 00:09:09,940
+Voici un exemple d'une insertion.
+
+168
+00:09:09,940 --> 00:09:13,080
+Là, c'est une insertion d'une base
+
+169
+00:09:13,080 --> 00:09:16,020
+cytosine, au niveau de l'exemple 13, du
+
+170
+00:09:16,020 --> 00:09:20,560
+gène NF1 à l'origine de neurofibromatose de
+
+171
+00:09:20,560 --> 00:09:21,140
+type A.
+
+172
+00:09:21,760 --> 00:09:24,070
+Donc, voici un herbe généalogique.
+
+173
+00:09:24,740 --> 00:09:27,440
+On a le papa qui est atteint.
+
+174
+00:09:27,480 --> 00:09:29,040
+Il a une insertion.
+
+175
+00:09:29,380 --> 00:09:31,500
+Là, c'est une insertion d'une cytosine
+
+176
+00:09:31,500 --> 00:09:33,000
+à l'état hétérozygote.
+
+177
+00:09:33,140 --> 00:09:36,740
+Parce qu'on a une superposition d'un
+
+178
+00:09:36,740 --> 00:09:40,040
+allèle normal non muté et la superposition avec
+
+179
+00:09:40,040 --> 00:09:44,660
+un allèle muté contenant, là, l'insertion de
+
+180
+00:09:44,660 --> 00:09:45,420
+la cytosine.
+
+181
+00:09:46,200 --> 00:09:48,980
+Donc, l'épouse de ce monsieur a une
+
+182
+00:09:48,980 --> 00:09:50,340
+séquence normale.
+
+183
+00:09:51,120 --> 00:09:54,880
+Ce monsieur a transmis la maladie à sa
+
+184
+00:09:54,880 --> 00:09:56,100
+fille de deux.
+
+185
+00:09:56,480 --> 00:09:58,780
+Et vous voyez, là aussi, il y a
+
+186
+00:09:58,780 --> 00:10:02,120
+l'insertion à l'état hétérozygote, alors que
+
+187
+00:10:02,120 --> 00:10:06,420
+la première fille est indemne comme sa maman.
+
+188
+00:10:06,420 --> 00:10:10,660
+Donc, pour rappel, la neurofibromatose de type A,
+
+189
+00:10:10,960 --> 00:10:14,120
+c'est une pathologie à transmission autosomique dominante.
+
+190
+00:10:14,240 --> 00:10:17,140
+Le risque de transmission de la mutation à
+
+191
+00:10:17,140 --> 00:10:19,120
+la descendance est de l'ordre de 50
+
+192
+00:10:19,120 --> 00:10:21,060
+% pour chaque grossesse.
+
+193
+00:10:22,480 --> 00:10:26,280
+Maintenant, quelles sont les conséquences des mutations ponctuelles?
+
+194
+00:10:26,960 --> 00:10:30,120
+Il faut savoir que les conséquences délétères, ça
+
+195
+00:10:30,120 --> 00:10:32,400
+veut dire à l'origine d'une pathologie,
+
+196
+00:10:32,940 --> 00:10:35,140
+dépendent essentiellement de leur type.
+
+197
+00:10:35,140 --> 00:10:36,820
+Est-ce que c'est une insertion?
+
+198
+00:10:37,180 --> 00:10:38,300
+Est-ce que c'est une substitution?
+
+199
+00:10:38,880 --> 00:10:39,980
+Est-ce que c'est une délétion?
+
+200
+00:10:40,500 --> 00:10:42,320
+Et aussi de leur localisation.
+
+201
+00:10:42,860 --> 00:10:43,820
+Est-ce que c'est au niveau de
+
+202
+00:10:43,820 --> 00:10:44,880
+l'ADN non codant?
+
+203
+00:10:45,260 --> 00:10:46,400
+Est-ce que c'est au niveau de
+
+204
+00:10:46,400 --> 00:10:47,460
+l'ADN codant?
+
+205
+00:10:49,220 --> 00:10:52,840
+Et l'impact fonctionnel, donc les conséquences des
+
+206
+00:10:52,840 --> 00:10:56,480
+mutations ponctuelles, dépendent aussi de l'impact fonctionnel
+
+207
+00:10:56,480 --> 00:10:59,340
+au niveau de l'ARN messager et ou
+
+208
+00:10:59,340 --> 00:11:02,620
+de la protéine codée par le gène muté.
+
+209
+00:11:03,580 --> 00:11:08,620
+Donc, la classification des conséquences des mutations ponctuelles,
+
+210
+00:11:09,680 --> 00:11:14,200
+en fonction de leur effet fonctionnel, sont classées
+
+211
+00:11:14,200 --> 00:11:15,100
+en deux types.
+
+212
+00:11:16,040 --> 00:11:19,340
+Conséquences à type de perte de fonction ou
+
+213
+00:11:19,340 --> 00:11:20,300
+gain de fonction.
+
+214
+00:11:23,190 --> 00:11:27,550
+Concernant la perte de fonction, c'est un
+
+215
+00:11:27,550 --> 00:11:32,090
+effet délétère, pathologique, dû à la diminution ou
+
+216
+00:11:32,090 --> 00:11:36,610
+l'abolition de production de la protéine active,
+
+217
+00:11:36,990 --> 00:11:40,250
+que ce soit sur le plan quantitatif, niveau
+
+218
+00:11:40,250 --> 00:11:43,710
+de synthèse de la protéine, et ou qualitatif,
+
+219
+00:11:43,810 --> 00:11:46,070
+ça veut dire la fonctionnalité de la protéine.
+
+220
+00:11:47,370 --> 00:11:50,350
+Cet effet se manifeste lorsque le niveau résiduel
+
+221
+00:11:50,350 --> 00:11:53,930
+de la protéine fonctionnelle passe au-dessous d
+
+222
+00:11:53,930 --> 00:11:57,590
+'un seuil et constitue la cause majoritaire des
+
+223
+00:11:57,590 --> 00:11:59,330
+maladies récessives.
+
+224
+00:12:00,530 --> 00:12:03,510
+Concernant le gain de fonction, c'est un
+
+225
+00:12:03,510 --> 00:12:07,230
+effet délétère dû à l'acquisition d'une
+
+226
+00:12:07,230 --> 00:12:10,290
+nouvelle fonction qui est délétère pour la seine.
+
+227
+00:12:11,150 --> 00:12:13,170
+Il s'agit donc de la cause majoritaire
+
+228
+00:12:13,170 --> 00:12:15,070
+des maladies dominantes.
+
+229
+00:12:15,850 --> 00:12:18,510
+Habituellement, c'est un effet délétère au niveau
+
+230
+00:12:18,510 --> 00:12:19,790
+de la protéine.
+
+231
+00:12:19,790 --> 00:12:22,210
+Il peut s'agir tout d'abord d
+
+232
+00:12:22,210 --> 00:12:25,410
+'un effet dominant négatif, ça veut dire le
+
+233
+00:12:25,410 --> 00:12:29,610
+produit protéique de l'allèle mutée agit comme
+
+234
+00:12:29,610 --> 00:12:33,430
+antagoniste du produit de l'allèle normale.
+
+235
+00:12:34,370 --> 00:12:37,830
+Une autre possibilité, c'est un effet toxique
+
+236
+00:12:37,830 --> 00:12:42,090
+qui se produit lorsque la mutation conduit à
+
+237
+00:12:42,090 --> 00:12:45,770
+l'acquisition d'une nouvelle fonction cellulaire délétère
+
+238
+00:12:45,770 --> 00:12:48,470
+ou suite à un excès de fonction.
+
+239
+00:12:51,550 --> 00:12:55,630
+Maintenant, quelles sont les conséquences des mutations ponctuelles
+
+240
+00:12:55,630 --> 00:12:57,590
+en fonction de leur localisation?
+
+241
+00:12:58,650 --> 00:13:02,150
+Donc, quelles sont les conséquences quand il s
+
+242
+00:13:02,150 --> 00:13:04,050
+'agit des mutations au niveau de la région
+
+243
+00:13:04,050 --> 00:13:04,470
+codante?
+
+244
+00:13:06,190 --> 00:13:09,660
+Donc, on a une conséquence appelée mutation fourçante,
+
+245
+00:13:11,150 --> 00:13:14,170
+ça veut dire changement d'un acide aminé
+
+246
+00:13:14,170 --> 00:13:15,190
+par un autre.
+
+247
+00:13:15,190 --> 00:13:22,750
+Ici, la substitution de cytosine par une guanine
+
+248
+00:13:22,750 --> 00:13:26,570
+est à l'origine du changement de CCU
+
+249
+00:13:26,570 --> 00:13:29,270
+en CGE, ça veut dire du changement de
+
+250
+00:13:29,270 --> 00:13:33,190
+l'acide aminé proline en acide aminé arginine.
+
+251
+00:13:34,890 --> 00:13:38,810
+Ou bien, une mutation ponctuelle peut être à
+
+252
+00:13:38,810 --> 00:13:41,210
+l'origine d'une mutation non-sens, ça
+
+253
+00:13:41,210 --> 00:13:44,570
+veut dire la création d'un codon STOP,
+
+254
+00:13:44,810 --> 00:13:47,990
+qu'il soit UAA, UAG ou UGA.
+
+255
+00:13:48,510 --> 00:13:51,850
+Ici, la traduction de l'ARN messager va
+
+256
+00:13:51,850 --> 00:13:57,370
+s'arrêter au niveau, donc, de ce codon
+
+257
+00:13:57,370 --> 00:14:02,070
+STOP prématuré et on aura une protéine tranquille
+
+258
+00:14:02,070 --> 00:14:03,170
+non complète.
+
+259
+00:14:04,490 --> 00:14:06,950
+Quand il y a une insertion ou une
+
+260
+00:14:06,950 --> 00:14:10,350
+déletion d'un nom multiple de trois bases,
+
+261
+00:14:11,170 --> 00:14:14,650
+donc, par exemple, l'insertion d'une base,
+
+262
+00:14:14,930 --> 00:14:17,310
+l'insertion de deux bases, la déletion de
+
+263
+00:14:17,310 --> 00:14:19,350
+quatre bases, donc c'est un nom multiple
+
+264
+00:14:19,350 --> 00:14:23,010
+de trois bases, ça va entraîner un décalage
+
+265
+00:14:23,010 --> 00:14:26,130
+dans le cadre de la lecture et ça
+
+266
+00:14:26,130 --> 00:14:27,870
+va être à l'origine d'un arrêt
+
+267
+00:14:27,870 --> 00:14:29,830
+de la traduction.
+
+268
+00:14:31,450 --> 00:14:34,110
+Ou bien, quand on a une insertion ou
+
+269
+00:14:34,110 --> 00:14:36,530
+une déletion d'un multiple de trois bases
+
+270
+00:14:36,530 --> 00:14:40,010
+dans une région codante au nom, on a
+
+271
+00:14:40,010 --> 00:14:43,290
+une perte ou un gain de fonction.
+
+272
+00:14:44,770 --> 00:14:48,310
+Donc, voici l'exemple d'une mutation faux
+
+273
+00:14:48,310 --> 00:14:48,630
+sens.
+
+274
+00:14:49,270 --> 00:14:51,790
+Donc, on va prendre l'exemple de l
+
+275
+00:14:51,790 --> 00:14:55,850
+'anémie falciforme ou la drépanocytose qui est une
+
+276
+00:14:55,850 --> 00:15:02,390
+maladie génétique autosomique récessive qui est due à
+
+277
+00:15:02,390 --> 00:15:07,290
+la mutation, donc, P-glutamine, acide glutamique, cisvaline.
+
+278
+00:15:07,870 --> 00:15:12,110
+Donc, en fait, au niveau de cet acide
+
+279
+00:15:12,110 --> 00:15:16,330
+aminé GHG qui code pour l'acide glutamique,
+
+280
+00:15:17,210 --> 00:15:21,510
+donc, on a cette adénine qui est substituée
+
+281
+00:15:21,510 --> 00:15:23,250
+par une thymine.
+
+282
+00:15:23,250 --> 00:15:26,390
+Donc, la substitution de cette adénine par une
+
+283
+00:15:26,390 --> 00:15:29,930
+thymine sera à l'origine de la transformation
+
+284
+00:15:29,930 --> 00:15:34,570
+de la substitution de l'acide glutamique en
+
+285
+00:15:34,570 --> 00:15:40,390
+valine en position 6 du gène HBB sur
+
+286
+00:15:40,390 --> 00:15:41,990
+le chromosome 11.
+
+287
+00:15:42,370 --> 00:15:44,650
+Il faut savoir que ce gène HBB code
+
+288
+00:15:44,650 --> 00:15:48,130
+pour la chaîne bêta de l'hémoglobine.
+
+289
+00:15:48,930 --> 00:15:54,590
+Donc, cette substitution sera à l'origine, donc,
+
+290
+00:15:54,730 --> 00:15:58,670
+de la formation d'une hémoglobine anormale appelée
+
+291
+00:15:58,670 --> 00:16:00,770
+hémoglobine S.
+
+292
+00:16:01,290 --> 00:16:04,210
+Donc, en fait, cette hémoglobine S a tendance
+
+293
+00:16:04,210 --> 00:16:08,510
+à polymériser lorsque la concentration d'oxygène dans
+
+294
+00:16:08,510 --> 00:16:09,790
+le sang est faible.
+
+295
+00:16:10,450 --> 00:16:13,650
+Et les polymères S, donc, déforment alors les
+
+296
+00:16:13,650 --> 00:16:17,270
+hémacies et leur donnent une forme caractéristique d
+
+297
+00:16:17,270 --> 00:16:21,450
+'ophocie, d'où le nom d'anémie falciforme.
+
+298
+00:16:24,510 --> 00:16:31,590
+Donc, pour les insertions, voici un exemple de
+
+299
+00:16:31,590 --> 00:16:33,650
+décalage du cadre de lecture.
+
+300
+00:16:34,590 --> 00:16:38,370
+Donc, là ici, c'est une déletion de
+
+301
+00:16:38,370 --> 00:16:45,590
+2 thymines en position 798 et 799 du
+
+302
+00:16:45,590 --> 00:16:47,510
+gène Bercin 1.
+
+303
+00:16:47,930 --> 00:16:52,870
+Donc, cette mutation est à l'état hétérozygote.
+
+304
+00:16:52,970 --> 00:16:56,990
+Vous voyez, vous avez un allèle normal avec
+
+305
+00:16:56,990 --> 00:17:00,370
+présence de 3 thymines en haut.
+
+306
+00:17:00,370 --> 00:17:03,250
+Vous voyez en rouge ici, 3 thymines.
+
+307
+00:17:03,770 --> 00:17:05,869
+Et en bas, un autre allèle où il
+
+308
+00:17:05,869 --> 00:17:08,589
+y a juste une seule thymine.
+
+309
+00:17:09,770 --> 00:17:11,970
+Donc là, c'est une mutation à l
+
+310
+00:17:11,970 --> 00:17:13,010
+'état hétérozygote.
+
+311
+00:17:13,089 --> 00:17:15,050
+Vous savez, on est des sujets diploïdes.
+
+312
+00:17:15,450 --> 00:17:18,310
+On a toujours un allèle d'origine maternelle
+
+313
+00:17:18,310 --> 00:17:19,530
+et un allèle paternel.
+
+314
+00:17:20,089 --> 00:17:22,750
+Donc là, c'est une mutation au niveau
+
+315
+00:17:22,750 --> 00:17:25,569
+d'un seul allèle à l'état hétérozygote
+
+316
+00:17:25,569 --> 00:17:27,670
+au niveau du gène Bercin 1 et qui
+
+317
+00:17:27,670 --> 00:17:31,770
+va prédisposer à un cancer du sein et
+
+318
+00:17:31,770 --> 00:17:33,710
+ou de l'ovaire familial.
+
+319
+00:17:35,670 --> 00:17:37,770
+Et là, vous voyez le décalage du cadre
+
+320
+00:17:37,770 --> 00:17:42,270
+de lecture parce qu'on a une superposition
+
+321
+00:17:42,270 --> 00:17:44,330
+d'un allèle normal et d'un allèle
+
+322
+00:17:44,330 --> 00:17:44,730
+muté.
+
+323
+00:17:47,150 --> 00:17:48,850
+Donc là, c'est le cas de tout
+
+324
+00:17:48,850 --> 00:17:50,590
+à l'heure, l'exemple NF1.
+
+325
+00:17:51,530 --> 00:17:55,650
+Pour les autres mutations dans une région codonte,
+
+326
+00:17:55,790 --> 00:17:57,590
+on a des mutations et langage.
+
+327
+00:17:57,590 --> 00:18:00,430
+C'est quoi une mutation et langage ?
+
+328
+00:18:00,430 --> 00:18:06,230
+Vous savez, chaque fois que le ribosome arrive
+
+329
+00:18:06,230 --> 00:18:08,630
+au niveau du codon STOP qui ne code
+
+330
+00:18:08,630 --> 00:18:12,550
+pour aucun acide aminé, la traduction de la
+
+331
+00:18:12,550 --> 00:18:14,630
+RN messager va s'arrêter.
+
+332
+00:18:15,210 --> 00:18:17,670
+Imaginons qu'on a une mutation au niveau
+
+333
+00:18:17,670 --> 00:18:18,810
+d'un codon STOP.
+
+334
+00:18:19,730 --> 00:18:25,010
+Et cette mutation va le transformer en acide
+
+335
+00:18:25,010 --> 00:18:25,930
+aminé.
+
+336
+00:18:25,930 --> 00:18:29,690
+Donc le ribosome ne va pas arrêter la
+
+337
+00:18:29,690 --> 00:18:32,050
+traduction à ce niveau-là.
+
+338
+00:18:32,330 --> 00:18:35,390
+Il va continuer à la traduction jusqu'à
+
+339
+00:18:35,390 --> 00:18:39,790
+rencontrer un nouveau codon STOP.
+
+340
+00:18:40,190 --> 00:18:43,890
+Donc là, on aura des nouveaux acides aminés
+
+341
+00:18:43,890 --> 00:18:47,090
+au niveau de la protéine, des acides aminés
+
+342
+00:18:47,090 --> 00:18:48,050
+supplémentaires.
+
+343
+00:18:48,350 --> 00:18:50,190
+C'est pour ça qu'on appelle ce
+
+344
+00:18:50,190 --> 00:18:53,130
+genre de mutation, mutation et langage.
+
+345
+00:18:53,130 --> 00:18:55,590
+Attention parce qu'on va allonger la protéine
+
+346
+00:18:55,590 --> 00:19:00,490
+initiale par plusieurs acides aminés jusqu'à rencontrer
+
+347
+00:19:00,490 --> 00:19:02,570
+un nouveau codon STOP.
+
+348
+00:19:03,250 --> 00:19:05,210
+Il y a un autre type de mutation
+
+349
+00:19:05,210 --> 00:19:08,810
+qu'on appelle mutation à effet quantitatif.
+
+350
+00:19:08,910 --> 00:19:11,210
+C'est quoi une mutation à effet quantitatif
+
+351
+00:19:11,210 --> 00:19:11,490
+?
+
+352
+00:19:11,490 --> 00:19:13,650
+Vous vous rappelez le cours de première année.
+
+353
+00:19:14,630 --> 00:19:17,190
+Je vous ai dit qu'on a plusieurs
+
+354
+00:19:17,190 --> 00:19:20,910
+promoteurs et les promoteurs à effet différent.
+
+355
+00:19:20,910 --> 00:19:24,990
+Donc effet promoteur qui va entraîner, par exemple,
+
+356
+00:19:25,590 --> 00:19:29,270
+un niveau de transcription élevé, un autre avec
+
+357
+00:19:29,270 --> 00:19:33,430
+un niveau de transcription modéré, un autre avec
+
+358
+00:19:33,430 --> 00:19:35,250
+un niveau de transcription faible.
+
+359
+00:19:35,670 --> 00:19:37,630
+Si on a une mutation au niveau des
+
+360
+00:19:37,630 --> 00:19:42,010
+régions promotrices ou au niveau des régions régulatrices,
+
+361
+00:19:42,350 --> 00:19:44,790
+ça peut augmenter soit la quantité de la
+
+362
+00:19:44,790 --> 00:19:49,250
+transcription, soit diminuer la quantité de la transcription.
+
+363
+00:19:49,250 --> 00:19:51,230
+C'est pour ça qu'on les appelle
+
+364
+00:19:51,230 --> 00:19:53,330
+mutations à effet quantitatif.
+
+365
+00:19:53,450 --> 00:19:55,850
+Si on augmente le taux de transcription, on
+
+366
+00:19:55,850 --> 00:19:58,790
+aura plusieurs molécules d'ARN messager et plusieurs
+
+367
+00:19:58,790 --> 00:20:02,570
+copies de la protéine finale.
+
+368
+00:20:02,890 --> 00:20:05,590
+Si on diminue le taux de transcription, on
+
+369
+00:20:05,590 --> 00:20:09,990
+va diminuer la quantité de la protéine produite.
+
+370
+00:20:13,330 --> 00:20:17,610
+Maintenant, on va aborder les conséquences des mutations
+
+371
+00:20:17,610 --> 00:20:21,490
+ponctuelles qui siègent au niveau des régions consensus
+
+372
+00:20:21,490 --> 00:20:22,530
+d'épissage.
+
+373
+00:20:23,170 --> 00:20:26,490
+Avant de détailler cette partie, je vais faire
+
+374
+00:20:26,490 --> 00:20:27,970
+un rappel sur l'épissage.
+
+375
+00:20:28,350 --> 00:20:30,470
+L'épissage, c'est une phase de maturation
+
+376
+00:20:30,470 --> 00:20:35,730
+de l'ARN messager primaire au prémature au
+
+377
+00:20:35,730 --> 00:20:37,730
+ARN messager mature.
+
+378
+00:20:37,730 --> 00:20:41,610
+Vous vous rappelez, cette maturation comprend l'ajout
+
+379
+00:20:41,610 --> 00:20:44,090
+d'une coiffe métillée en 5' de l
+
+380
+00:20:44,090 --> 00:20:46,870
+'ARN messager, l'ajout d'une queue poly
+
+381
+00:20:46,870 --> 00:20:49,670
+-A en 3' de l'ARN messager, et
+
+382
+00:20:49,670 --> 00:20:50,850
+puis l'épissage.
+
+383
+00:20:51,230 --> 00:20:52,210
+C'est quoi l'épissage?
+
+384
+00:20:52,450 --> 00:20:56,850
+C'est l'élimination des intrants et la
+
+385
+00:20:56,850 --> 00:20:59,090
+réunion des exemples.
+
+386
+00:21:04,170 --> 00:21:07,810
+Toujours dans les conséquences des mutations ponctuelles.
+
+387
+00:21:07,810 --> 00:21:11,470
+Une mutation ponctuelle peut être à l'origine
+
+388
+00:21:11,470 --> 00:21:15,910
+d'une mutation silencieuse, ça veut dire neutre.
+
+389
+00:21:16,350 --> 00:21:18,230
+C'est quoi une mutation silencieuse ou une
+
+390
+00:21:18,230 --> 00:21:19,230
+mutation neutre?
+
+391
+00:21:19,650 --> 00:21:22,150
+C'est un changement au niveau de la
+
+392
+00:21:22,150 --> 00:21:26,390
+séquence d'ADN sans retentissement phénotypique.
+
+393
+00:21:26,890 --> 00:21:30,530
+Donc, c'est un variant non pathogène ou
+
+394
+00:21:30,530 --> 00:21:34,550
+une mutation non pathogène ou non délétère.
+
+395
+00:21:34,550 --> 00:21:38,550
+Quand est-ce que cette mutation sera non
+
+396
+00:21:38,550 --> 00:21:39,350
+pathogène?
+
+397
+00:21:40,030 --> 00:21:42,930
+Quand la mutation siège au niveau de l
+
+398
+00:21:42,930 --> 00:21:44,710
+'ADN non codant.
+
+399
+00:21:45,650 --> 00:21:47,730
+Ou bien, quand il s'agit d'une
+
+400
+00:21:47,730 --> 00:21:49,970
+mutation isosémantique.
+
+401
+00:21:50,350 --> 00:21:53,050
+C'est quoi une mutation isosémantique?
+
+402
+00:21:53,370 --> 00:21:56,230
+Ça veut dire que la mutation ponctuelle n
+
+403
+00:21:56,230 --> 00:21:59,310
+'entraîne pas la signification d'un acide aminé.
+
+404
+00:21:59,310 --> 00:22:04,330
+Prenons l'exemple ici de la phényle halalée
+
+405
+00:22:04,330 --> 00:22:05,110
+EEE.
+
+406
+00:22:05,710 --> 00:22:08,550
+Le changement de E, donc la base flottante
+
+407
+00:22:08,550 --> 00:22:11,230
+en C, ne change pas la signification de
+
+408
+00:22:11,230 --> 00:22:12,190
+l'acide aminé.
+
+409
+00:22:12,510 --> 00:22:13,590
+Du moment qu'il n'y a pas
+
+410
+00:22:13,590 --> 00:22:15,510
+de changement de la signification de l'acide
+
+411
+00:22:15,510 --> 00:22:17,810
+aminé, il n'y aura pas de retentissement
+
+412
+00:22:17,810 --> 00:22:20,390
+sur la fonction de la protéine.
+
+413
+00:22:21,010 --> 00:22:25,410
+Ou bien, quand cette mutation siège au niveau
+
+414
+00:22:25,410 --> 00:22:29,670
+d'un acide aminé, sans grande importance fonctionnelle
+
+415
+00:22:29,670 --> 00:22:31,070
+au niveau de la protéine.
+
+416
+00:22:31,770 --> 00:22:34,110
+Ou bien, quand il s'agit d'une
+
+417
+00:22:34,110 --> 00:22:37,870
+mutation récessive à l'état héterozygote.
+
+418
+00:22:37,990 --> 00:22:39,110
+C'est comme le cas de tout à
+
+419
+00:22:39,110 --> 00:22:40,750
+l'heure de la drépanocytose.
+
+420
+00:22:40,750 --> 00:22:45,650
+Donc si cette mutation-là, le changement d
+
+421
+00:22:45,650 --> 00:22:49,130
+'acide glutamine en position 6 par une valine,
+
+422
+00:22:49,250 --> 00:22:51,490
+si elle est à l'état héterozygote, on
+
+423
+00:22:51,490 --> 00:22:53,670
+n'aura pas de drépanocytose.
+
+424
+00:22:54,110 --> 00:22:56,730
+Donc là, ça sera une mutation silencieuse.
+
+425
+00:23:00,910 --> 00:23:04,690
+Deuxième conséquence des mutations silencieuses.
+
+426
+00:23:05,050 --> 00:23:07,330
+C'est ce qu'on appelle le polymorphisme
+
+427
+00:23:07,330 --> 00:23:08,610
+génétique.
+
+428
+00:23:08,610 --> 00:23:13,270
+Ce polymorphisme génétique est la conséquence importante de
+
+429
+00:23:13,270 --> 00:23:13,950
+ces mutations.
+
+430
+00:23:14,710 --> 00:23:21,310
+Ces variants non pathogènes ou ces mutations silencieuses
+
+431
+00:23:21,310 --> 00:23:25,670
+non pathogènes non délétères, elles ont une fréquence
+
+432
+00:23:25,670 --> 00:23:28,610
+dans la population supérieure à 1%.
+
+433
+00:23:28,610 --> 00:23:31,530
+Il y a deux critères pour parler de
+
+434
+00:23:31,530 --> 00:23:32,770
+polymorphisme génétique.
+
+435
+00:23:33,290 --> 00:23:35,950
+Premier critère, c'est le caractère non pathogène.
+
+436
+00:23:35,950 --> 00:23:41,290
+Deuxième critère pour considérer une mutation silencieuse comme
+
+437
+00:23:41,290 --> 00:23:44,550
+polymorphisme génétique, c'est quand la fréquence dépasse
+
+438
+00:23:44,550 --> 00:23:47,010
+1% de la population.
+
+439
+00:23:47,610 --> 00:23:50,190
+Il y a plusieurs types de polymorphisme génétique.
+
+440
+00:23:50,750 --> 00:23:52,810
+D'une part, il y a le polymorphisme
+
+441
+00:23:52,810 --> 00:23:54,250
+de répétition.
+
+442
+00:23:54,330 --> 00:23:56,590
+Vous vous rappelez l'ADN répété qu'on
+
+443
+00:23:56,590 --> 00:23:58,630
+a vu en première année de médecine.
+
+444
+00:23:58,630 --> 00:24:02,430
+Il y a l'ADN satellite classique dont
+
+445
+00:24:02,430 --> 00:24:05,610
+la taille du motif de base est de
+
+446
+00:24:05,610 --> 00:24:07,630
+100 à 6500 paires de base.
+
+447
+00:24:08,090 --> 00:24:11,210
+Ce motif va se répéter une fois et
+
+448
+00:24:11,210 --> 00:24:13,850
+ce nombre de répétitions va dépendre d'une
+
+449
+00:24:13,850 --> 00:24:14,850
+personne à une autre.
+
+450
+00:24:14,990 --> 00:24:18,030
+C'est ce qui fait notre variabilité génétique.
+
+451
+00:24:18,610 --> 00:24:22,690
+Ou bien l'ADN répété mini satellite dont
+
+452
+00:24:22,690 --> 00:24:25,590
+le motif de répétition est de l'ordre
+
+453
+00:24:25,590 --> 00:24:27,710
+de 10 à 100 paires de base.
+
+454
+00:24:27,710 --> 00:24:30,570
+Et là, le nombre de répétitions, là également,
+
+455
+00:24:30,690 --> 00:24:32,370
+va dépendre d'une personne à une autre.
+
+456
+00:24:32,830 --> 00:24:38,150
+Ou bien les microsatellites dont la taille du
+
+457
+00:24:38,150 --> 00:24:39,890
+motif de répétition est de l'ordre de
+
+458
+00:24:39,890 --> 00:24:42,110
+2 à 10 paires de base.
+
+459
+00:24:42,990 --> 00:24:46,770
+D'autre part, on a le polymorphisme de
+
+460
+00:24:46,770 --> 00:24:50,530
+séquences nucleotidiques bialéliques qu'on appelle SNP.
+
+461
+00:24:50,530 --> 00:24:52,510
+Donc, prenons l'exemple en haut.
+
+462
+00:24:52,610 --> 00:24:55,230
+Par exemple, chez une personne, elle a CG,
+
+463
+00:24:55,670 --> 00:24:59,030
+mais une autre personne, elle a TA.
+
+464
+00:24:59,490 --> 00:25:01,250
+Mais là, c'est un caractère que ce
+
+465
+00:25:01,250 --> 00:25:05,390
+soit CG ou TA, c'est son caractère
+
+466
+00:25:05,390 --> 00:25:06,970
+pathogène.
+
+467
+00:25:07,470 --> 00:25:10,570
+Donc, c'est non pathogène et la fréquence
+
+468
+00:25:10,570 --> 00:25:13,010
+est supérieure à 1%.
+
+469
+00:25:16,510 --> 00:25:20,570
+Maintenant, on va voir les gros remaniements.
+
+470
+00:25:20,570 --> 00:25:23,110
+Vous vous rappelez, au tout début du cours,
+
+471
+00:25:23,250 --> 00:25:26,710
+je vous ai dit que les mutations sont
+
+472
+00:25:26,710 --> 00:25:29,730
+classées en mutations ponctuelles.
+
+473
+00:25:30,230 --> 00:25:32,730
+Donc, touchons une base ou un petit nombre
+
+474
+00:25:32,730 --> 00:25:34,610
+de bases qui ne dépassent pas une dizaine.
+
+475
+00:25:35,330 --> 00:25:38,590
+Et d'autre part, les gros remaniements appelaient
+
+476
+00:25:38,590 --> 00:25:40,750
+également les macrolésions.
+
+477
+00:25:41,690 --> 00:25:44,990
+Les gros remaniements ou les macrolésions, ce sont
+
+478
+00:25:44,990 --> 00:25:48,870
+des lésions de grande taille qui font intervenir
+
+479
+00:25:48,870 --> 00:25:52,630
+plusieurs paires de bases, soit tout un exon,
+
+480
+00:25:53,190 --> 00:25:56,690
+un gène en entier ou plusieurs gènes.
+
+481
+00:25:57,390 --> 00:26:01,030
+Donc, ces lésions de grande taille, macrolésions ou
+
+482
+00:26:01,030 --> 00:26:03,650
+gros remaniements, elles peuvent être à type de
+
+483
+00:26:03,650 --> 00:26:06,250
+duplication, par exemple, duplication d'un exon.
+
+484
+00:26:06,250 --> 00:26:09,230
+On le voit dans certains cas de la
+
+485
+00:26:09,230 --> 00:26:10,510
+myopathie de Duchenne.
+
+486
+00:26:11,450 --> 00:26:16,490
+Les insertions, donc introduction dans un gène d
+
+487
+00:26:16,490 --> 00:26:18,230
+'une séquence génétique mobile.
+
+488
+00:26:19,170 --> 00:26:24,890
+Les inversions, changement d'orientation d'un segment
+
+489
+00:26:24,890 --> 00:26:25,610
+d'ADN.
+
+490
+00:26:26,070 --> 00:26:29,590
+Ou bien des lésions de grande taille comme
+
+491
+00:26:29,590 --> 00:26:31,930
+ce qu'on voit dans la myopathie de
+
+492
+00:26:31,930 --> 00:26:32,390
+Duchenne.
+
+493
+00:26:32,390 --> 00:26:34,970
+On peut avoir, par exemple, la délétion de
+
+494
+00:26:34,970 --> 00:26:37,590
+tout un exon ou de plusieurs exons.
+
+495
+00:26:39,900 --> 00:26:43,640
+Voici un schéma qui montre les différents types
+
+496
+00:26:43,640 --> 00:26:46,260
+de gros remaniements ou macrolésions.
+
+497
+00:26:48,220 --> 00:26:52,620
+Là en plus, ce schéma montre les SNP
+
+498
+00:26:52,620 --> 00:26:58,920
+en haut et les mutations portuelles en bas.
+
+499
+00:26:59,660 --> 00:27:02,500
+B, C, D, E, F, C par rapport
+
+500
+00:27:02,500 --> 00:27:04,100
+aux macrolésions.
+
+501
+00:27:04,340 --> 00:27:06,240
+Que ce soit des délétions, que ce soit
+
+502
+00:27:06,240 --> 00:27:09,960
+des inversions, que ce soit des duplications.
+
+503
+00:27:11,360 --> 00:27:13,280
+Normalement, dans la séquence normale, on avait le
+
+504
+00:27:13,280 --> 00:27:15,100
+gène A, B, C, D.
+
+505
+00:27:15,800 --> 00:27:17,420
+Au niveau du courant B, qu'est-ce
+
+506
+00:27:17,420 --> 00:27:17,780
+qu'on a?
+
+507
+00:27:17,980 --> 00:27:20,140
+On a des lésions du gène C.
+
+508
+00:27:21,040 --> 00:27:23,800
+Au niveau du courant C, on a une
+
+509
+00:27:23,800 --> 00:27:24,340
+inversion.
+
+510
+00:27:24,740 --> 00:27:26,760
+On devait avoir A, B, C.
+
+511
+00:27:27,380 --> 00:27:29,300
+On a une inversion de A, B, C.
+
+512
+00:27:29,440 --> 00:27:31,620
+Une rotation de 180 degrés qui est devenue
+
+513
+00:27:31,620 --> 00:27:33,580
+C, D, A.
+
+514
+00:27:35,280 --> 00:27:38,380
+Au niveau du E, par exemple, on a
+
+515
+00:27:38,380 --> 00:27:41,380
+une duplication du segment A, B, C.
+
+516
+00:27:41,960 --> 00:27:44,600
+Donc dupliquer deux fois A, B, C, A,
+
+517
+00:27:44,660 --> 00:27:45,020
+B, C.
+
+518
+00:27:48,060 --> 00:27:53,620
+Voici un exemple de maladie génétique constitutionnelle du
+
+519
+00:27:53,620 --> 00:27:56,260
+A des gros remaniements par délétions.
+
+520
+00:27:56,260 --> 00:27:58,540
+Ce sont des délétions au niveau du gène
+
+521
+00:27:58,540 --> 00:28:02,040
+D, M, D sur le chromosome X impliqué
+
+522
+00:28:02,040 --> 00:28:05,100
+dans la myopathie de Duchenne-Becker.
+
+523
+00:28:06,760 --> 00:28:09,540
+Ici, c'est une PCR multiplexe.
+
+524
+00:28:09,680 --> 00:28:12,220
+Cela veut dire qu'on va amplifier plusieurs
+
+525
+00:28:12,220 --> 00:28:13,560
+exos à la fois.
+
+526
+00:28:13,960 --> 00:28:17,000
+A droite, vous voyez les noms des exos
+
+527
+00:28:17,000 --> 00:28:17,320
+amplifiés.
+
+528
+00:28:18,060 --> 00:28:22,700
+48, 51, 43, 45, 50, 53, 47, 60,
+
+529
+00:28:23,420 --> 00:28:23,900
+52.
+
+530
+00:28:24,540 --> 00:28:26,420
+Là, il y a plusieurs puits.
+
+531
+00:28:26,700 --> 00:28:29,140
+Pour le premier, on a une bande.
+
+532
+00:28:29,220 --> 00:28:30,620
+Quand il y a une bande, cela veut
+
+533
+00:28:30,620 --> 00:28:32,980
+dire qu'il y a une amplification.
+
+534
+00:28:33,880 --> 00:28:35,480
+Au niveau des puits, il n'y a
+
+535
+00:28:35,480 --> 00:28:36,120
+pas de flèche.
+
+536
+00:28:36,200 --> 00:28:37,260
+Cela veut dire qu'il n'y a
+
+537
+00:28:37,260 --> 00:28:40,160
+pas de délétions au niveau des exos amplifiés.
+
+538
+00:28:40,620 --> 00:28:44,120
+Regardez ici la flèche en haut.
+
+539
+00:28:44,440 --> 00:28:47,120
+Si on compte les puits de 1, 2,
+
+540
+00:28:47,300 --> 00:28:48,680
+3, 4, 5, 6.
+
+541
+00:28:49,360 --> 00:28:50,920
+6 de gauche à droite.
+
+542
+00:28:50,920 --> 00:28:52,860
+Donc, vous voyez, il n'y a pas
+
+543
+00:28:52,860 --> 00:28:56,200
+de bande au niveau de l'exon 48.
+
+544
+00:28:56,600 --> 00:28:57,940
+S'il n'y a pas d'amplification,
+
+545
+00:28:58,120 --> 00:28:59,680
+cela veut dire qu'il y a une
+
+546
+00:28:59,680 --> 00:29:00,200
+délétion.
+
+547
+00:29:00,480 --> 00:29:02,500
+Et là, c'est une délétion de tout
+
+548
+00:29:02,500 --> 00:29:03,120
+un exon.
+
+549
+00:29:03,400 --> 00:29:05,580
+Donc, c'est un grand remaniement.
+
+550
+00:29:06,500 --> 00:29:09,340
+Donc, on a les bondes 51 et 43.
+
+551
+00:29:09,680 --> 00:29:10,820
+Donc, il n'y a pas de délétions.
+
+552
+00:29:11,380 --> 00:29:14,660
+En revanche, on a une délétion de l
+
+553
+00:29:14,660 --> 00:29:16,060
+'exon 45 parce qu'il n'y a
+
+554
+00:29:16,060 --> 00:29:16,740
+pas de bande.
+
+555
+00:29:17,080 --> 00:29:18,540
+L'exon 50, il n'y a pas
+
+556
+00:29:18,540 --> 00:29:18,920
+de bande.
+
+557
+00:29:18,920 --> 00:29:20,060
+L'exon 53, présent.
+
+558
+00:29:20,220 --> 00:29:21,980
+L'exon 47, absent.
+
+559
+00:29:22,580 --> 00:29:24,100
+Donc, là ici, qu'est-ce qu'on
+
+560
+00:29:24,100 --> 00:29:24,800
+a ?
+
+561
+00:29:24,800 --> 00:29:27,300
+Donc, si on regroupe le tout, on a
+
+562
+00:29:27,300 --> 00:29:32,960
+une délétion de l'exon 43, 45, 47,
+
+563
+00:29:33,840 --> 00:29:38,560
+48, 50 et 51.
+
+564
+00:29:38,780 --> 00:29:41,780
+Donc, c'est une grande délétion de l
+
+565
+00:29:41,780 --> 00:29:45,780
+'exon 43 à l'exon 53.
+
+566
+00:29:46,720 --> 00:29:49,440
+Donc, regardons la deuxième flèche.
+
+567
+00:29:50,320 --> 00:29:52,340
+Là, c'est au niveau du puits numéro
+
+568
+00:29:52,340 --> 00:29:55,900
+9.
+
+569
+00:29:56,140 --> 00:29:58,820
+Au niveau du puits 9, on a toutes
+
+570
+00:29:58,820 --> 00:30:01,980
+les bandes sauf la bande du qui correspond
+
+571
+00:30:01,980 --> 00:30:03,040
+à l'exon 60.
+
+572
+00:30:03,180 --> 00:30:05,420
+Cela veut dire que c'est une dystrophie
+
+573
+00:30:05,420 --> 00:30:10,920
+musculaire du chêne bétaire due à une délétion
+
+574
+00:30:10,920 --> 00:30:12,140
+de l'exon 60.
+
+575
+00:30:12,480 --> 00:30:14,500
+Et regardons le dernier puits.
+
+576
+00:30:14,500 --> 00:30:17,460
+Donc là, il n'y a que l
+
+577
+00:30:17,460 --> 00:30:21,860
+'exon 60 et tous les autres exons sont
+
+578
+00:30:21,860 --> 00:30:22,920
+délétés.
+
+579
+00:30:25,760 --> 00:30:28,300
+Un autre exemple de gros remaniement.
+
+580
+00:30:28,400 --> 00:30:30,340
+On a vu l'exemple de délétion.
+
+581
+00:30:31,000 --> 00:30:33,540
+Maintenant, on va voir un gros remaniement par
+
+582
+00:30:33,540 --> 00:30:34,300
+inversion.
+
+583
+00:30:35,190 --> 00:30:38,660
+Il faut savoir que la moitié des hémophilies
+
+584
+00:30:38,660 --> 00:30:44,520
+A sévères est due à une inversion au
+
+585
+00:30:44,520 --> 00:30:47,620
+niveau du gène du facteur 8 de la
+
+586
+00:30:47,620 --> 00:30:49,880
+coagulation, F8C.
+
+587
+00:30:50,980 --> 00:30:54,420
+Une inversion, je le rappelle, c'est la
+
+588
+00:30:54,420 --> 00:30:57,020
+rotation de la séquence d'ADN de 180
+
+589
+00:30:57,020 --> 00:30:57,880
+degrés.
+
+590
+00:30:58,820 --> 00:31:03,640
+Regardez en haut, on a le gène F8C.
+
+591
+00:31:04,800 --> 00:31:07,500
+Donc, au niveau de la région télomérique, qu
+
+592
+00:31:07,500 --> 00:31:07,920
+'est-ce qu'on a?
+
+593
+00:31:08,080 --> 00:31:11,080
+On a des séquences répétées grand A.
+
+594
+00:31:11,700 --> 00:31:13,660
+Donc, on en a deux au niveau du
+
+595
+00:31:13,660 --> 00:31:14,580
+côté télomère.
+
+596
+00:31:15,360 --> 00:31:17,380
+Le 1, ça veut dire l'exon 1.
+
+597
+00:31:18,180 --> 00:31:21,080
+Le 22, ça veut dire l'exon 22.
+
+598
+00:31:21,760 --> 00:31:24,180
+Le 23, ça veut dire l'exon 23.
+
+599
+00:31:24,180 --> 00:31:26,680
+Et entre l'exon 22 et l'exon
+
+600
+00:31:26,680 --> 00:31:31,800
+23, on a une séquence répétée de grand
+
+601
+00:31:31,800 --> 00:31:32,080
+A.
+
+602
+00:31:32,460 --> 00:31:34,740
+Mais regardez l'orientation.
+
+603
+00:31:35,400 --> 00:31:38,840
+Donc là, elle a une orientation inversée des
+
+604
+00:31:38,840 --> 00:31:41,940
+autres séquences AA qui sont à côté du
+
+605
+00:31:41,940 --> 00:31:42,560
+télomère.
+
+606
+00:31:43,880 --> 00:31:48,000
+Donc, comment cette inversion va avoir lieu?
+
+607
+00:31:48,960 --> 00:31:51,060
+Il faut savoir qu'il y a une
+
+608
+00:31:51,060 --> 00:31:55,780
+recombinaison sur la même chromatique.
+
+609
+00:31:56,780 --> 00:32:01,860
+Et cette recombinaison va entraîner un mésappariement.
+
+610
+00:32:02,260 --> 00:32:02,520
+Pourquoi?
+
+611
+00:32:03,620 --> 00:32:06,040
+Parce que là, vous vous rappelez, au niveau
+
+612
+00:32:06,040 --> 00:32:10,140
+des recombinaisons, ça veut dire échange entre régions
+
+613
+00:32:10,140 --> 00:32:14,200
+qui ont la même homologie, la même séquence.
+
+614
+00:32:14,200 --> 00:32:18,520
+Là, c'est motif répété grand A en
+
+615
+00:32:18,520 --> 00:32:20,060
+la même séquence.
+
+616
+00:32:21,200 --> 00:32:25,040
+Donc là, cette séquence A, au niveau du
+
+617
+00:32:25,040 --> 00:32:26,660
+télomère, qu'est-ce qu'elle va faire?
+
+618
+00:32:27,260 --> 00:32:30,540
+Elle va se recombiner avec la séquence A
+
+619
+00:32:30,540 --> 00:32:34,160
+inversée au niveau du latron 22.
+
+620
+00:32:34,900 --> 00:32:37,560
+Chaque fois qu'il y a recombinaison, il
+
+621
+00:32:37,560 --> 00:32:39,780
+y a échange et puis séparation.
+
+622
+00:32:39,780 --> 00:32:42,800
+Et après la séparation, qu'est-ce qu
+
+623
+00:32:42,800 --> 00:32:43,520
+'il va y avoir?
+
+624
+00:32:44,400 --> 00:32:48,040
+Après cet échange, il y aura une inversion.
+
+625
+00:32:48,580 --> 00:32:53,540
+Vous voyez, donc, l'intron 22 sera complètement
+
+626
+00:32:53,540 --> 00:32:55,060
+inversé.
+
+627
+00:32:56,100 --> 00:32:58,840
+Voici un autre schéma qui montre ceci.
+
+628
+00:32:59,600 --> 00:33:02,560
+Donc là, les séquences répétées AA au niveau
+
+629
+00:33:02,560 --> 00:33:05,380
+du télomère et la séquence, donc le motif
+
+630
+00:33:05,380 --> 00:33:08,880
+répété A, de manière inversée au niveau de
+
+631
+00:33:08,880 --> 00:33:09,880
+l'intron 22.
+
+632
+00:33:10,340 --> 00:33:16,120
+Donc, cette recombinaison homologue non allélique parce qu
+
+633
+00:33:16,120 --> 00:33:21,940
+'elle est intrachromosomique entre deux séquences homologues orientées
+
+634
+00:33:21,940 --> 00:33:25,880
+de manière inversée sera à l'origine d
+
+635
+00:33:25,880 --> 00:33:28,720
+'une inversion de l'intron 22.
+
+636
+00:33:30,540 --> 00:33:34,680
+Le rep distal, il va y avoir un
+
+637
+00:33:34,680 --> 00:33:38,260
+échange entre le rep proximal en rouge et
+
+638
+00:33:38,260 --> 00:33:40,680
+le rep distal en mauve.
+
+639
+00:33:41,660 --> 00:33:43,340
+Parce qu'il y a une homologie de
+
+640
+00:33:43,340 --> 00:33:43,860
+séquence.
+
+641
+00:33:44,500 --> 00:33:46,420
+Mais quand il y a l'échange, il
+
+642
+00:33:46,420 --> 00:33:48,340
+doit y avoir une séparation.
+
+643
+00:33:48,840 --> 00:33:50,980
+Après la séparation, qu'est-ce qu'il
+
+644
+00:33:50,980 --> 00:33:51,680
+va y avoir?
+
+645
+00:33:51,680 --> 00:33:55,900
+On va avoir un chromosome qui comprend deux
+
+646
+00:33:55,900 --> 00:34:00,800
+gènes PMP22, donc une duplication, et un autre
+
+647
+00:34:00,800 --> 00:34:07,179
+chromosome qui ne contient pas de gènes PMP22,
+
+648
+00:34:07,380 --> 00:34:11,460
+donc une déletion de tout le gène PMP22.
+
+649
+00:34:12,340 --> 00:34:17,739
+Donc là, ce chromosome qui contient la duplication
+
+650
+00:34:17,739 --> 00:34:21,880
+du PMP22, donc imaginons que c'est un
+
+651
+00:34:21,880 --> 00:34:26,960
+spermatozoïde qui contient cette duplication, donc le zygote
+
+652
+00:34:26,960 --> 00:34:31,440
+qui sera essu de la fécondation par ce
+
+653
+00:34:31,440 --> 00:34:35,900
+spermatozoïde comprenant la duplication va être porteur d
+
+654
+00:34:35,900 --> 00:34:40,460
+'une maladie neurologique qu'on appelle Charcot-Marie
+
+655
+00:34:40,460 --> 00:34:44,659
+-Toute 1A par duplication du gène PMP22.
+
+656
+00:34:44,659 --> 00:34:48,260
+Et l'autre spermatozoïde qui ne comporte pas
+
+657
+00:34:48,260 --> 00:34:52,719
+le gène PMP22, donc après la fécondation, il
+
+658
+00:34:52,719 --> 00:34:55,380
+sera à l'origine d'un zygote porteur
+
+659
+00:34:55,380 --> 00:35:00,720
+d'une maladie neurologique appelée neuropathie héréditaire avec
+
+660
+00:35:00,720 --> 00:35:03,180
+hypersensibilité à la pression.
+
+661
+00:35:03,620 --> 00:35:08,300
+Il s'agit d'une neuropathie récidivante déclenchée
+
+662
+00:35:08,300 --> 00:35:11,180
+par une activité physique mineure.
+
+663
+00:35:12,180 --> 00:35:15,740
+Donc juste pour récapituler, le fait d'avoir
+
+664
+00:35:15,740 --> 00:35:22,280
+deux séquences répétées, donc deux séquences répétées avec
+
+665
+00:35:22,280 --> 00:35:27,500
+homologie de séquences, qui entourent de part et
+
+666
+00:35:27,500 --> 00:35:30,760
+d'autre le gène PMP22 et qui sont
+
+667
+00:35:30,760 --> 00:35:35,120
+espacées de 1,5 Mb, seront à l
+
+668
+00:35:35,120 --> 00:35:39,800
+'origine d'un crossing ovaire inégal suite à
+
+669
+00:35:39,800 --> 00:35:43,160
+un mauvais alignement de ces séquences répétées.
+
+670
+00:35:44,000 --> 00:35:48,760
+Donc la duplication du gène PMP22 sera à
+
+671
+00:35:48,760 --> 00:35:52,140
+l'origine de la maladie de Charcot-Marie
+
+672
+00:35:52,140 --> 00:35:55,760
+-Toute type 1A et la déletion sera à
+
+673
+00:35:55,760 --> 00:36:00,900
+l'origine de l'hypersensibilité à la pression.
+
+674
+00:36:00,900 --> 00:36:04,060
+L'hypersensibilité neurologique à la pression.
+
+675
+00:36:08,750 --> 00:36:11,590
+Voici un autre type de mutation, c'est
+
+676
+00:36:11,590 --> 00:36:14,250
+ce qu'on appelle les mutations instables.
+
+677
+00:36:15,310 --> 00:36:17,190
+C'est quoi une mutation instable?
+
+678
+00:36:17,590 --> 00:36:20,510
+C'est une multiplication en tandem de triples
+
+679
+00:36:20,510 --> 00:36:23,350
+de nucléotides qui sont à l'origine de
+
+680
+00:36:23,350 --> 00:36:28,410
+plusieurs maladies génétiques, en particulier des maladies neurodégénératives.
+
+681
+00:36:29,150 --> 00:36:32,330
+Ce mécanisme explique le phénomène d'anticipation.
+
+682
+00:36:32,850 --> 00:36:34,570
+C'est quoi un phénomène d'anticipation?
+
+683
+00:36:34,570 --> 00:36:35,670
+C'est ce qu'on a vu dans
+
+684
+00:36:35,670 --> 00:36:37,550
+le cours des mots de transmission.
+
+685
+00:36:38,050 --> 00:36:40,170
+C'est que la maladie apparaît de plus
+
+686
+00:36:40,170 --> 00:36:42,330
+en plus précocement.
+
+687
+00:36:43,150 --> 00:36:44,990
+Elle est de plus en plus grave d
+
+688
+00:36:44,990 --> 00:36:47,430
+'une génération à l'autre du fait de
+
+689
+00:36:47,430 --> 00:36:50,530
+l'augmentation du nombre de répétitions.
+
+690
+00:36:51,890 --> 00:36:54,590
+Située sur la seconde troie de la bande
+
+691
+00:36:54,590 --> 00:36:57,290
+7 de la région 2 du bras lent
+
+692
+00:36:57,290 --> 00:37:01,130
+du chromosome X donc contient une partie non
+
+693
+00:37:01,130 --> 00:37:01,630
+codante.
+
+694
+00:37:01,630 --> 00:37:04,450
+Cette partie non codante de l'hexone 1
+
+695
+00:37:04,450 --> 00:37:08,690
+du gène FMR1 contient des triplés CGG.
+
+696
+00:37:09,270 --> 00:37:11,850
+Chez une personne normale, le nombre de répétitions
+
+697
+00:37:11,850 --> 00:37:14,850
+est compris entre 6 à 50.
+
+698
+00:37:15,870 --> 00:37:16,410
+D'accord?
+
+699
+00:37:17,210 --> 00:37:20,790
+Et chez une personne qui a la prémutation,
+
+700
+00:37:21,190 --> 00:37:24,030
+donc qui n'est pas malade, mais le
+
+701
+00:37:24,030 --> 00:37:27,630
+nombre de répétitions est compris entre 55 et
+
+702
+00:37:27,630 --> 00:37:27,990
+200.
+
+703
+00:37:27,990 --> 00:37:30,810
+Donc quand ce nombre de répétitions est compris
+
+704
+00:37:30,810 --> 00:37:33,470
+entre 55 et 200, on dit que la
+
+705
+00:37:33,470 --> 00:37:37,350
+personne est prémutée, mais elle est non malade.
+
+706
+00:37:37,750 --> 00:37:41,550
+Quand ce nombre de répétitions dépasse 200, on
+
+707
+00:37:41,550 --> 00:37:43,510
+passe à la mutation complète.
+
+708
+00:37:44,350 --> 00:37:49,270
+Et en vert, ce sont les guanines précédées
+
+709
+00:37:49,270 --> 00:37:50,850
+de cytosine.
+
+710
+00:37:51,350 --> 00:37:53,890
+En vert, elles ne sont pas méthylées, que
+
+711
+00:37:53,890 --> 00:37:56,590
+ce soit chez un sujet normal ou chez
+
+712
+00:37:56,590 --> 00:37:58,430
+un sujet prémuté.
+
+713
+00:37:58,850 --> 00:38:01,010
+Mais chez un sujet qui est porteur de
+
+714
+00:38:01,010 --> 00:38:03,770
+la mutation complète, vous voyez, tout ce qui
+
+715
+00:38:03,770 --> 00:38:06,470
+est vert devient orange.
+
+716
+00:38:06,870 --> 00:38:09,070
+Ça veut dire qu'il devient méthylé.
+
+717
+00:38:09,470 --> 00:38:11,770
+Et quand on a cette méthylation, le gène
+
+718
+00:38:11,770 --> 00:38:13,570
+FMR1 devient méthylé.
+
+719
+00:38:13,970 --> 00:38:15,950
+Quand il est méthylé, il ne sera pas
+
+720
+00:38:15,950 --> 00:38:18,530
+transcrit en ARN messager, il ne sera pas
+
+721
+00:38:18,530 --> 00:38:20,350
+traduit en protéines.
+
+722
+00:38:20,350 --> 00:38:22,970
+C'est ce qui explique le tableau clinique
+
+723
+00:38:22,970 --> 00:38:24,750
+du syndrome d'X fragile.
+
+724
+00:38:25,990 --> 00:38:29,190
+Voici l'exemple d'autres pathologies dues à
+
+725
+00:38:29,190 --> 00:38:33,070
+des mutations instables qu'on appelle également mutations
+
+726
+00:38:33,070 --> 00:38:37,770
+dynamiques ou expansions de triples, à savoir la
+
+727
+00:38:37,770 --> 00:38:42,250
+dystrophie myotonique de Steinhardt, la choré de Huntington,
+
+728
+00:38:42,970 --> 00:38:47,450
+l'ataxie de Friedreich et certaines ataxies spinocérébelleuses
+
+729
+00:38:47,450 --> 00:38:50,790
+type 1, type 2, type 3 et Machado
+
+730
+00:38:50,790 --> 00:38:51,610
+-Joseph.
+
+731
+00:38:54,050 --> 00:38:58,290
+Maintenant, on va aborder la nomenclature des mutations
+
+732
+00:38:58,290 --> 00:38:59,970
+ou des variations de séquences.
+
+733
+00:39:00,390 --> 00:39:02,570
+Quand on va mettre en évidence une mutation
+
+734
+00:39:02,570 --> 00:39:08,290
+par séquençage, ou une PCR, FR, FLP ou
+
+735
+00:39:08,290 --> 00:39:12,610
+MLPA ou autre, il faut écrire la formule
+
+736
+00:39:12,610 --> 00:39:17,570
+de cette variation de séquence de manière internationale.
+
+737
+00:39:17,850 --> 00:39:21,590
+Donc, il faut suivre une nomenclature internationale pour
+
+738
+00:39:21,590 --> 00:39:24,590
+écrire de la même manière et pour comprendre
+
+739
+00:39:24,590 --> 00:39:27,570
+de la même manière la signification d'une
+
+740
+00:39:27,570 --> 00:39:28,810
+formule d'une mutation.
+
+741
+00:39:30,210 --> 00:39:33,170
+Il est à savoir que la Société de
+
+742
+00:39:33,170 --> 00:39:37,790
+variation du génome humain a établi une nomenclature
+
+743
+00:39:37,790 --> 00:39:41,450
+internationale pour la description des variations de séquences.
+
+744
+00:39:42,130 --> 00:39:45,590
+La plupart des variations nucleotidiques sont rapportées par
+
+745
+00:39:45,590 --> 00:39:48,150
+rapport à la séquence d'ADN codon et
+
+746
+00:39:48,150 --> 00:39:50,430
+par rapport à la séquence protéique.
+
+747
+00:39:51,130 --> 00:39:53,450
+Là, c'est pour les pathologies génétiques humaines.
+
+748
+00:39:53,990 --> 00:39:56,150
+Quand le changement est rapporté par rapport à
+
+749
+00:39:56,150 --> 00:39:59,510
+la séquence d'ADN codon, on utilise ces
+
+750
+00:39:59,510 --> 00:40:00,770
+points, par exemple.
+
+751
+00:40:01,310 --> 00:40:05,590
+Ces points 76A à T, ça veut dire
+
+752
+00:40:05,590 --> 00:40:08,650
+qu'on a une substitution de l'ADN
+
+753
+00:40:08,650 --> 00:40:12,170
+par la thymine en position 76 de l
+
+754
+00:40:12,170 --> 00:40:13,570
+'ADN codon.
+
+755
+00:40:16,270 --> 00:40:18,290
+Si c'est par rapport à l'ADN
+
+756
+00:40:18,290 --> 00:40:20,910
+génomique, donc ça veut dire l'ADN codon
+
+757
+00:40:20,910 --> 00:40:23,350
+et non codon, on va prendre en considération
+
+758
+00:40:23,350 --> 00:40:25,810
+les régions non traduites.
+
+759
+00:40:25,810 --> 00:40:29,970
+En 5 primes, 3 primes UTR, les séquences
+
+760
+00:40:29,970 --> 00:40:32,090
+introniques et les séquences exoniques.
+
+761
+00:40:32,470 --> 00:40:34,210
+Donc on utilise ces points.
+
+762
+00:40:34,690 --> 00:40:38,690
+Par exemple, ces points 76A à T, ça
+
+763
+00:40:38,690 --> 00:40:41,510
+veut dire substitution d'une adénine par une
+
+764
+00:40:41,510 --> 00:40:45,870
+thymine en position 76 de l'ADN génomique.
+
+765
+00:40:46,710 --> 00:40:49,510
+Et donc l'ADN génomique nucléaire.
+
+766
+00:40:50,170 --> 00:40:52,650
+Quand il s'agit de l'ADN mitochondrial,
+
+767
+00:40:52,650 --> 00:40:54,370
+on met un point.
+
+768
+00:40:54,810 --> 00:40:58,830
+Par exemple, un point 8933 T supérieur à
+
+769
+00:40:58,830 --> 00:41:00,570
+C, ça veut dire qu'on a une
+
+770
+00:41:00,570 --> 00:41:03,330
+substitution de la thymine par une cytosine en
+
+771
+00:41:03,330 --> 00:41:07,930
+position 8933 de l'ADN mitochondrial.
+
+772
+00:41:08,810 --> 00:41:10,830
+Si c'est par rapport à la séquence
+
+773
+00:41:10,830 --> 00:41:13,210
+d'ARN, par exemple, la séquence d'un
+
+774
+00:41:13,210 --> 00:41:15,990
+virus ARN, on utilise R points.
+
+775
+00:41:16,310 --> 00:41:19,190
+Par exemple, R point 76 petit a qui
+
+776
+00:41:19,190 --> 00:41:22,110
+devient petit t, ça veut dire une substitution
+
+777
+00:41:22,110 --> 00:41:24,230
+d'une adénine par une thymine en position
+
+778
+00:41:24,230 --> 00:41:26,310
+76 de cet ARN.
+
+779
+00:41:27,050 --> 00:41:29,090
+Et quand c'est rapporté par rapport à
+
+780
+00:41:29,090 --> 00:41:32,310
+la séquence protéine, donc la formule est précédée
+
+781
+00:41:32,310 --> 00:41:33,470
+par P points.
+
+782
+00:41:34,030 --> 00:41:38,150
+Donc par exemple, P points acide glutamique 6
+
+783
+00:41:38,150 --> 00:41:42,250
+valine, ça veut dire substitution de l'acide
+
+784
+00:41:42,250 --> 00:41:46,830
+glutamique par une valine, l'acide aminé valine,
+
+785
+00:41:47,210 --> 00:41:52,210
+en position 6 de la protéine codée par
+
+786
+00:41:52,210 --> 00:41:54,830
+le gène HBB et qui est à l
+
+787
+00:41:54,830 --> 00:41:58,650
+'origine de l'anémie falciforme, la drépanocytose.
+
+788
+00:42:00,510 --> 00:42:01,550
+Voici des exemples.
+
+789
+00:42:02,070 --> 00:42:03,730
+Donc si c'est une substitution, on va
+
+790
+00:42:03,730 --> 00:42:06,810
+prendre des exemples de mutations ponctuelles.
+
+791
+00:42:07,510 --> 00:42:11,410
+Donc les substitutions désignées par le signe supérieur.
+
+792
+00:42:11,410 --> 00:42:16,750
+Par exemple, l'exemple C point 118 grand
+
+793
+00:42:16,750 --> 00:42:18,990
+C supérieur à T.
+
+794
+00:42:19,770 --> 00:42:21,230
+C, ça veut dire, c'est par rapport
+
+795
+00:42:21,230 --> 00:42:22,410
+à l'ADN codon.
+
+796
+00:42:23,970 --> 00:42:27,670
+Donc là, ça veut dire substitution d'une
+
+797
+00:42:27,670 --> 00:42:34,350
+cytosine en thymine en position 118 d'un
+
+798
+00:42:34,350 --> 00:42:34,610
+gène.
+
+799
+00:42:35,770 --> 00:42:39,730
+Là, c'est au niveau d'un exemple.
+
+800
+00:42:39,730 --> 00:42:44,430
+Maintenant, si c'est une anomalie au niveau
+
+801
+00:42:44,430 --> 00:42:46,790
+d'un intron, d'accord?
+
+802
+00:42:47,590 --> 00:42:54,930
+Donc C point 92 plus 2T qui devient
+
+803
+00:42:54,930 --> 00:42:58,530
+C, ça veut dire substitution d'une thymine
+
+804
+00:42:58,530 --> 00:43:03,430
+en cytosine, d'accord?
+
+805
+00:43:04,160 --> 00:43:10,990
+Au niveau du deuxième nucléotide qui suit un
+
+806
+00:43:10,990 --> 00:43:11,790
+exemple.
+
+807
+00:43:14,880 --> 00:43:18,180
+Donc concernant les délétions, elles sont désignées par
+
+808
+00:43:18,180 --> 00:43:19,940
+le signe DEL.
+
+809
+00:43:20,660 --> 00:43:25,040
+Donc par exemple, C point 20 DELA, ça
+
+810
+00:43:25,040 --> 00:43:28,560
+veut dire délétion d'une adénine en position
+
+811
+00:43:28,560 --> 00:43:31,340
+20 de l'ADN codon d'un gène.
+
+812
+00:43:31,340 --> 00:43:40,060
+Deuxième exemple, C point 586-8 591 DEL
+
+813
+00:43:40,060 --> 00:43:43,920
+TGG TCA, ça veut dire délétion de 6
+
+814
+00:43:43,920 --> 00:43:51,900
+bases TGG TCA en position 586, nucléotide 586,
+
+815
+00:43:52,340 --> 00:43:56,580
+au nucléotide 591 de l'ADN codon d
+
+816
+00:43:56,580 --> 00:43:56,980
+'un gène.
+
+817
+00:43:56,980 --> 00:44:02,000
+Concernant les duplications, elles sont désignées par le
+
+818
+00:44:02,000 --> 00:44:03,080
+signe DUP.
+
+819
+00:44:03,540 --> 00:44:08,460
+Par exemple, C point 77-8 79 DUP
+
+820
+00:44:08,460 --> 00:44:14,100
+CTG, ça veut dire duplication des nucléotides en
+
+821
+00:44:14,100 --> 00:44:18,080
+position 77 à 79 de l'ADN codon
+
+822
+00:44:18,080 --> 00:44:19,760
+d'un gène.
+
+823
+00:44:25,810 --> 00:44:29,050
+Concernant la stratégie du diagnostic moléculaire.
+
+824
+00:44:29,050 --> 00:44:34,330
+Pour mettre en évidence les mutations ou variations
+
+825
+00:44:34,330 --> 00:44:37,990
+de séquences, que ce soit des mutations ponctuelles
+
+826
+00:44:37,990 --> 00:44:40,910
+ou de gros remaniements, il y a des
+
+827
+00:44:40,910 --> 00:44:42,770
+techniques spécifiques.
+
+828
+00:44:43,550 --> 00:44:46,390
+Par exemple, pour les mutations ponctuelles, on peut
+
+829
+00:44:46,390 --> 00:44:51,110
+utiliser des PCR RFLP, on peut utiliser un
+
+830
+00:44:51,110 --> 00:44:53,870
+séquençage selon la méthode de Sanger, on peut
+
+831
+00:44:53,870 --> 00:44:55,970
+utiliser le séquençage à haut débit.
+
+832
+00:44:55,970 --> 00:45:01,630
+Concernant les gros remaniements, on peut utiliser soit
+
+833
+00:45:01,630 --> 00:45:05,170
+le Southern Blot, soit la technique MLPA, soit
+
+834
+00:45:05,170 --> 00:45:08,690
+certains séquenceurs à haut débit, les NGS.
+
+835
+00:45:10,770 --> 00:45:15,310
+Maintenant, pour la stratégie du diagnostic moléculaire, il
+
+836
+00:45:15,310 --> 00:45:17,110
+y a soit une stratégie ciblée.
+
+837
+00:45:17,110 --> 00:45:20,870
+Par exemple, si on veut rechercher la mutation
+
+838
+00:45:20,870 --> 00:45:27,370
+acide glutamique 6-valine impliquée dans la drépanocytose,
+
+839
+00:45:27,810 --> 00:45:30,570
+on peut la rechercher de manière ciblée parce
+
+840
+00:45:30,570 --> 00:45:32,950
+que cette mutation est connue et fréquente.
+
+841
+00:45:33,650 --> 00:45:38,170
+Donc, on peut utiliser soit le séquençage par
+
+842
+00:45:38,170 --> 00:45:39,910
+la méthode de Sanger.
+
+843
+00:45:40,830 --> 00:45:43,310
+Soit, par exemple, si c'est une thalassémie,
+
+844
+00:45:43,850 --> 00:45:47,810
+une bêta-thalassémie, on doit étudier la totalité
+
+845
+00:45:47,810 --> 00:45:48,910
+du gène HBB.
+
+846
+00:45:49,430 --> 00:45:52,550
+Donc là, on va faire une étude moléculaire
+
+847
+00:45:52,550 --> 00:45:54,930
+de la totalité de ce gène.
+
+848
+00:45:55,210 --> 00:45:58,370
+On peut utiliser le séquençage de Sanger.
+
+849
+00:45:59,890 --> 00:46:02,770
+Ou bien, on peut utiliser un panel de
+
+850
+00:46:02,770 --> 00:46:06,050
+gènes, ça veut dire étudier l'étude moléculaire
+
+851
+00:46:06,050 --> 00:46:08,330
+de plusieurs gènes à la fois.
+
+852
+00:46:08,330 --> 00:46:12,410
+Par exemple, la prédisposition génétique au cancer du
+
+853
+00:46:12,410 --> 00:46:13,930
+sang et au glos vert.
+
+854
+00:46:14,230 --> 00:46:15,590
+Je vous ai dit que les gènes les
+
+855
+00:46:15,590 --> 00:46:17,490
+plus impliqués, c'est Bersa 1 et Bersa
+
+856
+00:46:17,490 --> 00:46:17,730
+2.
+
+857
+00:46:18,050 --> 00:46:20,130
+Imaginons qu'on a étudié le gène Bersa
+
+858
+00:46:20,130 --> 00:46:23,190
+1 et Bersa 2 par le séquençage à
+
+859
+00:46:23,190 --> 00:46:24,910
+haut débit, on n'a rien trouvé.
+
+860
+00:46:25,310 --> 00:46:27,710
+Il y a un autre panel de 27
+
+861
+00:46:27,710 --> 00:46:31,550
+gènes qui sont impliqués dans cette prédisposition.
+
+862
+00:46:31,550 --> 00:46:35,170
+Donc, on peut faire l'étude moléculaire de
+
+863
+00:46:35,170 --> 00:46:38,510
+ces 27 gènes par les techniques de dernière
+
+864
+00:46:38,510 --> 00:46:41,850
+génération, séquençage à haut débit.
+
+865
+00:46:42,330 --> 00:46:44,490
+Ou bien, par exemple, pour certains cas de
+
+866
+00:46:44,490 --> 00:46:49,770
+syndrome malformatif, de retard mentaux, on a éliminé
+
+867
+00:46:49,770 --> 00:46:53,430
+les syndromes fréquents, mais on doit établir un
+
+868
+00:46:53,430 --> 00:46:53,970
+diagnostic.
+
+869
+00:46:54,550 --> 00:46:57,130
+Dans ce cas-là, on peut utiliser une
+
+870
+00:46:57,130 --> 00:46:58,230
+approche globale.
+
+871
+00:46:58,230 --> 00:47:00,850
+Soit séquençage de tout l'exemple, ça veut
+
+872
+00:47:00,850 --> 00:47:03,550
+dire de toutes les séquences codontes, ou bien
+
+873
+00:47:03,550 --> 00:47:06,230
+un séquençage du génome entier.
+
+874
+00:47:07,030 --> 00:47:09,550
+Et aussi, il y a le diagnostic indirect,
+
+875
+00:47:09,870 --> 00:47:13,390
+utilisé surtout en anténatal, quand on a, par
+
+876
+00:47:13,390 --> 00:47:19,310
+exemple, quand la mutation n'est pas identifiée
+
+877
+00:47:19,310 --> 00:47:22,090
+ou le gène n'est pas encore cloné.
+
+878
+00:47:22,390 --> 00:47:23,650
+C'est ce que je vous ai expliqué
+
+879
+00:47:23,650 --> 00:47:26,290
+lors du cours du diagnostic anténatal.
+
+880
+00:47:27,290 --> 00:47:32,410
+Pour conclure, l'étude des mutations, leur recherche
+
+881
+00:47:32,410 --> 00:47:36,410
+est très importante pour la confirmation du diagnostic
+
+882
+00:47:36,410 --> 00:47:39,370
+des maladies génétiques, ça d'une part.
+
+883
+00:47:39,950 --> 00:47:42,090
+Là, je parle du génome humain.
+
+884
+00:47:43,050 --> 00:47:45,730
+Et aussi, pour tout ce qui est tumorale,
+
+885
+00:47:46,130 --> 00:47:49,210
+la plupart des cancers, dont par exemple les
+
+886
+00:47:49,210 --> 00:47:51,610
+leucénies, je donne toujours l'exemple des leucénies,
+
+887
+00:47:51,610 --> 00:47:54,750
+le fait de déterminer une mutation dans un
+
+888
+00:47:54,750 --> 00:47:57,650
+gène impliqué dans tel ou tel leucémie va
+
+889
+00:47:57,650 --> 00:47:59,850
+évaluer le pronostic.
+
+890
+00:48:00,610 --> 00:48:03,650
+Et aussi, en fonction de la mutation retrouvée,
+
+891
+00:48:03,990 --> 00:48:06,610
+on va instaurer une thérapie ciblée.
+
+892
+00:48:07,590 --> 00:48:11,130
+Concernant les maladies génétiques, le fait de déterminer
+
+893
+00:48:11,130 --> 00:48:13,490
+la mutation, de la trouver, ça confirme le
+
+894
+00:48:13,490 --> 00:48:16,670
+diagnostic, et ça permet d'établir un conseil
+
+895
+00:48:16,670 --> 00:48:20,870
+génétique adéquat et de proposer un diagnostic anténatal
+
+896
+00:48:20,870 --> 00:48:24,310
+au préimplantatoire pour les couples qui le souhaitent.
+
+897
+00:48:24,590 --> 00:48:26,210
+Je vous remercie pour votre attention.

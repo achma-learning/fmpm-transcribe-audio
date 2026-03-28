@@ -1,0 +1,2323 @@
+1
+00:00:01,800 --> 00:00:06,960
+Bonjour chers étudiants, nous voici dans la deuxième
+
+2
+00:00:06,960 --> 00:00:10,300
+partie de l'activité électrique cardiaque.
+
+3
+00:00:13,380 --> 00:00:16,560
+On avait dit qu'on va utiliser l
+
+4
+00:00:16,560 --> 00:00:20,780
+'étude du potentiel d'action et en général
+
+5
+00:00:20,780 --> 00:00:27,400
+de l'activité électrique cellulaire pour la translater
+
+6
+00:00:27,400 --> 00:00:31,820
+à l'échelle du coeur entier et pouvoir
+
+7
+00:00:31,820 --> 00:00:34,260
+enregistrer l'électrocardiogramme.
+
+8
+00:00:34,760 --> 00:00:39,760
+Le principe de l'électrocardiogramme reposait donc sur
+
+9
+00:00:39,760 --> 00:00:44,860
+des électrodes exploratrices qui au moment du potentiel
+
+10
+00:00:44,860 --> 00:00:48,400
+de repos n'enregistrent qu'une activité électrique,
+
+11
+00:00:48,400 --> 00:00:51,000
+donc un tracé isoélectrique ou un tracé plat,
+
+12
+00:00:52,180 --> 00:00:55,580
+et puis quand il y a une dépolarisation
+
+13
+00:00:56,400 --> 00:01:04,500
+selon la direction de l'électrode exploratrice, on
+
+14
+00:01:04,500 --> 00:01:08,500
+aura une déflexion négative ou positive et on
+
+15
+00:01:08,500 --> 00:01:10,540
+va dire le long du cours sur le
+
+16
+00:01:10,540 --> 00:01:14,860
+CG, c'est plutôt selon le sens de
+
+17
+00:01:14,860 --> 00:01:16,040
+la dépolarisation.
+
+18
+00:01:16,040 --> 00:01:18,980
+On aura une déflexion soit positive soit négative
+
+19
+00:01:18,980 --> 00:01:22,480
+et on aura donc un temps de dépolarisation
+
+20
+00:01:22,480 --> 00:01:26,240
+enregistré sous forme de déflexion et un temps
+
+21
+00:01:26,240 --> 00:01:33,960
+de repolarisation sous forme de déflexion.
+
+22
+00:01:35,720 --> 00:01:42,960
+Le CG classiquement comporte des dérivations au niveau
+
+23
+00:01:42,960 --> 00:01:49,660
+des membres donc simplement on met une borne
+
+24
+00:01:49,660 --> 00:01:52,300
+par exemple dans un membre, une borne dans
+
+25
+00:01:52,300 --> 00:01:56,380
+l'autre membre et entre les deux on
+
+26
+00:01:56,380 --> 00:02:00,580
+va avoir une sorte de dipole, donc possibilité
+
+27
+00:02:00,580 --> 00:02:09,280
+d'enregistrer un vecteur cardiaque ou une activité
+
+28
+00:02:09,280 --> 00:02:12,180
+électrique cardiaque qui se propage, on l'appellera
+
+29
+00:02:12,180 --> 00:02:14,600
+dorénavant un vecteur cardiaque.
+
+30
+00:02:14,600 --> 00:02:17,020
+On peut l'enregistrer dans une dérivation qu
+
+31
+00:02:17,020 --> 00:02:21,440
+'on appellera la dérivation D1 qui par convention
+
+32
+00:02:21,440 --> 00:02:26,700
+sera la dérivation qui enregistre entre le membre
+
+33
+00:02:26,700 --> 00:02:30,840
+supérieur droit et le membre supérieur gauche et
+
+34
+00:02:30,840 --> 00:02:33,900
+ainsi de suite D2 entre le membre supérieur
+
+35
+00:02:33,900 --> 00:02:40,760
+droit et la jambe gauche D3 entre le
+
+36
+00:02:40,760 --> 00:02:45,620
+membre supérieur gauche et la jambe gauche et
+
+37
+00:02:45,620 --> 00:02:47,960
+de ces mêmes dérivations il y aura des
+
+38
+00:02:47,960 --> 00:02:53,640
+dérivés de ces dérivations qui sont les dérivations
+
+39
+00:02:53,640 --> 00:02:58,440
+AVR, AVL, AVF, les noms R, L et
+
+40
+00:02:58,440 --> 00:03:01,360
+F c'est right, left and foot ce
+
+41
+00:03:01,360 --> 00:03:04,200
+qui nous fait de trois dérivations principales, on
+
+42
+00:03:04,200 --> 00:03:07,200
+dérive trois autres et au total on aura
+
+43
+00:03:07,200 --> 00:03:10,600
+six dérivations ces six dérivations on les appellera
+
+44
+00:03:10,600 --> 00:03:20,130
+les dérivations périphériques on peut les représenter comme
+
+45
+00:03:20,130 --> 00:03:23,270
+ça sur un triangle sous forme d'axe
+
+46
+00:03:24,030 --> 00:03:27,530
+par exemple pour la dérivation D1 on l
+
+47
+00:03:27,530 --> 00:03:31,370
+'enregistre comme si on l'enregistre sur un
+
+48
+00:03:31,370 --> 00:03:37,590
+axe donc l'idée c'est de prendre
+
+49
+00:03:37,590 --> 00:03:40,290
+la dépolarisation qui vient des oreillettes et qui
+
+50
+00:03:40,290 --> 00:03:43,170
+se propage vers le noeud orygloventriculaire et puis
+
+51
+00:03:43,170 --> 00:03:46,170
+vers les ventricules en passant d'abord par
+
+52
+00:03:46,170 --> 00:03:49,330
+le septum interventriculaire à travers les branches du
+
+53
+00:03:49,330 --> 00:03:51,950
+faisceau de vis et puis en rejoignant toutes
+
+54
+00:03:51,950 --> 00:03:54,450
+les régions cardiaques gauche et droite l'idée
+
+55
+00:03:54,450 --> 00:03:57,090
+c'est de représenter ce franc de dépolarisation
+
+56
+00:03:57,090 --> 00:04:00,610
+progressive depuis le noeud sinusale jusqu'aux différentes
+
+57
+00:04:00,610 --> 00:04:03,990
+régions cardiaques sous forme de vecteur ainsi théoriquement
+
+58
+00:04:03,990 --> 00:04:06,370
+il y a un vecteur pour la dépolarisation
+
+59
+00:04:06,370 --> 00:04:09,530
+des oreillettes droite et gauche et quand on
+
+60
+00:04:09,530 --> 00:04:13,310
+fait leur somme on aura par projection un
+
+61
+00:04:13,310 --> 00:04:16,730
+gros vecteur pour la dépolarisation des deux oreillettes
+
+62
+00:04:16,730 --> 00:04:19,950
+à la fois qui comme vous l'imaginez
+
+63
+00:04:19,950 --> 00:04:23,630
+va par exemple prendre naissance au niveau supérieur
+
+64
+00:04:23,630 --> 00:04:25,370
+droit puisque c'est là où il y
+
+65
+00:04:25,370 --> 00:04:27,930
+a le noeud sinusale il se dirige vers
+
+66
+00:04:27,930 --> 00:04:30,490
+le noeud orygloventriculaire et puis la même chose
+
+67
+00:04:30,490 --> 00:04:33,310
+vous la faites pour la dépolarisation des ventricules
+
+68
+00:04:33,310 --> 00:04:37,550
+d'abord un vecteur de dépolarisation septale qui
+
+69
+00:04:37,550 --> 00:04:39,870
+est dirigé en bas et de droite à
+
+70
+00:04:39,870 --> 00:04:42,830
+gauche et puis un autre gros vecteur qui
+
+71
+00:04:42,830 --> 00:04:45,490
+va dépolariser les ventricules de bas en haut
+
+72
+00:04:45,490 --> 00:04:49,090
+et comme la masse musculaire ventriculaire gauche est
+
+73
+00:04:49,090 --> 00:04:52,610
+plus importante que celle droite grosso modo le
+
+74
+00:04:52,610 --> 00:04:56,250
+vecteur de dépolarisation du ventricule gauche va être
+
+75
+00:04:56,250 --> 00:04:59,470
+plus important en amplitude et en intensité et
+
+76
+00:04:59,470 --> 00:05:03,310
+donc automatiquement si on fait la somme avec
+
+77
+00:05:03,310 --> 00:05:05,710
+la projection des deux vecteurs droite et gauche
+
+78
+00:05:05,710 --> 00:05:09,550
+on aura un gros vecteur de dépolarisation ventriculaire
+
+79
+00:05:09,550 --> 00:05:14,350
+qui se dirige de bas en haut et
+
+80
+00:05:14,350 --> 00:05:17,330
+de droite vers la gauche donc ces différents
+
+81
+00:05:17,330 --> 00:05:22,210
+vecteurs de dépolarisation on devra les représenter comme
+
+82
+00:05:22,210 --> 00:05:25,270
+si on fait leur projection sur des axes
+
+83
+00:05:25,270 --> 00:05:27,870
+et c'est toute l'utilité de ces
+
+84
+00:05:27,870 --> 00:05:33,290
+électrodes exploratrices ils vont nous permettre d'avoir
+
+85
+00:05:33,290 --> 00:05:35,790
+des axes un axe des 1, un axe
+
+86
+00:05:35,790 --> 00:05:38,150
+des 2, un axe des 3 et ainsi
+
+87
+00:05:38,150 --> 00:05:40,510
+de suite et ces axes là on va
+
+88
+00:05:40,510 --> 00:05:46,810
+tout simplement essayer de projeter chaque vecteur de
+
+89
+00:05:46,810 --> 00:05:54,750
+dépolarisation sur ces axes et ça nous permettrait
+
+90
+00:05:54,750 --> 00:05:56,550
+d'avoir ce qu'on appelle l'axe
+
+91
+00:05:56,550 --> 00:05:59,010
+électrique du coeur pouvoir calculer l'axe électrique
+
+92
+00:05:59,010 --> 00:06:02,850
+du coeur alors déjà il y a énormément
+
+93
+00:06:02,850 --> 00:06:04,630
+de calcul ici mais c'est pas très
+
+94
+00:06:04,630 --> 00:06:07,630
+important en pratique ça c'est pour expliquer
+
+95
+00:06:07,630 --> 00:06:12,290
+comment monsieur Bailly a obtenu les axes électriques
+
+96
+00:06:12,290 --> 00:06:15,270
+du coeur et ça permet d'avoir les
+
+97
+00:06:15,270 --> 00:06:18,290
+dérivations d'1, d2, d3 et de là
+
+98
+00:06:18,290 --> 00:06:22,130
+il a pu démontrer qu'il peut avoir
+
+99
+00:06:22,130 --> 00:06:27,630
+des dérivations vr, vl et vf qui ne
+
+100
+00:06:27,630 --> 00:06:32,130
+sont que des résultants de la dépolarisation d1,
+
+101
+00:06:32,170 --> 00:06:35,110
+d2, d3 mais c'est ce qui enrichit
+
+102
+00:06:35,110 --> 00:06:42,010
+quand même l'analyse de la dépolarisation voilà
+
+103
+00:06:43,830 --> 00:06:49,470
+comment on représente les autres dérivations à part
+
+104
+00:06:49,470 --> 00:06:52,210
+les dérivations périphériques qu'on a vu tout
+
+105
+00:06:52,210 --> 00:06:55,270
+à l'heure on peut mettre des électrodes
+
+106
+00:06:55,270 --> 00:06:59,330
+exploratrices cette fois-ci pratiquement au regard du
+
+107
+00:06:59,330 --> 00:07:03,350
+coeur qui vont être disposées sur un plan
+
+108
+00:07:03,350 --> 00:07:09,310
+transverse pour le coeur et qui ont un
+
+109
+00:07:09,310 --> 00:07:16,850
+pôle négatif qui est plutôt calculé au niveau
+
+110
+00:07:16,850 --> 00:07:20,450
+de l'appareil d'électrocardiogramme vous aurez juste
+
+111
+00:07:20,450 --> 00:07:25,050
+une seule borne qui va être déposée de
+
+112
+00:07:25,050 --> 00:07:27,570
+façon comme j'ai dit transversale on aura
+
+113
+00:07:27,570 --> 00:07:30,730
+de v1 jusqu'à v6 6 dérivations que
+
+114
+00:07:30,730 --> 00:07:36,900
+vous voyez sur le schéma à côté sur
+
+115
+00:07:36,900 --> 00:07:40,820
+ce schéma qui sont disposées de façon transverse
+
+116
+00:07:41,940 --> 00:07:44,540
+depuis le paré d'autre du sternum et
+
+117
+00:07:44,540 --> 00:07:47,800
+on avance vers le 4e et 5e espace
+
+118
+00:07:47,800 --> 00:07:51,760
+intercostal jusqu'à la ligne axillaire moyenne vous
+
+119
+00:07:51,760 --> 00:07:54,640
+aurez un ensemble de dérivations au nombre de
+
+120
+00:07:54,640 --> 00:07:58,140
+6 qu'on appellera les dérivations précordiales si
+
+121
+00:07:58,140 --> 00:08:02,540
+on les rajoute aux 6 dérivations périphériques on
+
+122
+00:08:02,540 --> 00:08:13,050
+aura un ECG dit à 12 pistes alors
+
+123
+00:08:13,050 --> 00:08:16,850
+après tout ça voilà ce qu'on obtient
+
+124
+00:08:16,850 --> 00:08:21,250
+sur le plan pratique on va avoir un
+
+125
+00:08:21,250 --> 00:08:24,570
+tracé plat qui ne représente simplement pas d
+
+126
+00:08:24,570 --> 00:08:29,630
+'activité électrique puis juste après une déflexion positive
+
+127
+00:08:30,770 --> 00:08:32,789
+positive en fonction bien sûr de l'onde
+
+128
+00:08:32,789 --> 00:08:35,549
+exploratrice si on se rappelle un peu ce
+
+129
+00:08:35,549 --> 00:08:38,890
+qu'on a dit avant si le front
+
+130
+00:08:38,890 --> 00:08:42,850
+de polarisation vient dans le sens de l
+
+131
+00:08:42,850 --> 00:08:44,810
+'électro-exploratrice il sera positif mais sur 6
+
+132
+00:08:44,810 --> 00:08:45,690
+ce n'est pas le cas il sera
+
+133
+00:08:45,690 --> 00:08:50,410
+négatif ou alors biphasique, positif et négatif en
+
+134
+00:08:50,410 --> 00:08:51,630
+tout cas ici c'est l'exemple d
+
+135
+00:08:51,630 --> 00:08:57,530
+'une dérivation où on a une première déflexion
+
+136
+00:08:57,530 --> 00:09:00,930
+positive et puis un retour à la ligne
+
+137
+00:09:00,930 --> 00:09:03,170
+isoélectrique comme si il n'y a plus
+
+138
+00:09:03,170 --> 00:09:08,410
+d'activité électrique et puis une deuxième déflexion
+
+139
+00:09:08,410 --> 00:09:11,090
+qui est un peu plus complexe dans laquelle
+
+140
+00:09:11,090 --> 00:09:13,170
+il y a une déflexion négative et puis
+
+141
+00:09:13,170 --> 00:09:17,070
+positive et probablement aussi un retour encore vers
+
+142
+00:09:17,070 --> 00:09:19,670
+la négativité ce n'est pas toujours le
+
+143
+00:09:19,670 --> 00:09:23,030
+cas ça peut être déflexion négative positive ça
+
+144
+00:09:23,030 --> 00:09:25,490
+peut être négative positive et négative ça peut
+
+145
+00:09:25,490 --> 00:09:30,270
+être l'inverse positive et négative mais en
+
+146
+00:09:30,270 --> 00:09:32,910
+tout cas ça représente un moment donné de
+
+147
+00:09:32,910 --> 00:09:36,550
+l'activité électrique de la dépolarisation cardiaque où
+
+148
+00:09:36,550 --> 00:09:43,230
+on a disons une dépolarisation assez importante puisqu
+
+149
+00:09:43,230 --> 00:09:45,350
+'elle est très ample comme vous voyez ici
+
+150
+00:09:45,350 --> 00:09:52,310
+et puis qui certainement prend plusieurs sens ce
+
+151
+00:09:52,310 --> 00:09:54,830
+qui veut dire qu'à priori elle représente
+
+152
+00:09:54,830 --> 00:09:59,570
+par exemple pas un seul vecteur mais probablement
+
+153
+00:09:59,570 --> 00:10:03,570
+deux voire plus et puis un retour à
+
+154
+00:10:03,570 --> 00:10:07,790
+la ligne isoélectrique disons un silence pas d
+
+155
+00:10:07,790 --> 00:10:13,910
+'activité électrique ou plutôt pas de front de
+
+156
+00:10:13,910 --> 00:10:18,650
+propagation d'ondes électriques puis on a une
+
+157
+00:10:18,650 --> 00:10:25,390
+onde une déflexion finale et des fois même
+
+158
+00:10:25,390 --> 00:10:32,210
+une autre donc ceci si on le regroupe
+
+159
+00:10:32,210 --> 00:10:37,570
+on va se retrouver avec finalement en se
+
+160
+00:10:37,570 --> 00:10:42,430
+rappelant la dépolarisation cardiaque on va avoir une
+
+161
+00:10:42,430 --> 00:10:46,130
+dépolarisation première qui doit certainement correspondre au vecteur
+
+162
+00:10:46,130 --> 00:10:48,670
+de dépolarisation des oreillettes et on l'appellera
+
+163
+00:10:48,670 --> 00:10:52,870
+l'onde P et puis on aura un
+
+164
+00:10:52,870 --> 00:10:59,750
+complexe qui représente la dépolarisation certainement des ventricules
+
+165
+00:11:00,050 --> 00:11:01,770
+vous savez dans les ventricules on avait dit
+
+166
+00:11:01,770 --> 00:11:04,130
+un vecteur de dépolarisation du septembre et puis
+
+167
+00:11:04,130 --> 00:11:07,670
+du reste des régions cardiaques exemple pour laquelle
+
+168
+00:11:07,670 --> 00:11:09,830
+il est un peu plus complexe et on
+
+169
+00:11:09,830 --> 00:11:12,950
+l'appellera le QRS toutes ces appellations c
+
+170
+00:11:12,950 --> 00:11:16,410
+'est simplement par convention on a pris des
+
+171
+00:11:16,410 --> 00:11:19,670
+lettres de l'alphabet donc PQRS et on
+
+172
+00:11:19,670 --> 00:11:25,010
+termine par une dernière déflexion puisqu'on a
+
+173
+00:11:25,010 --> 00:11:29,110
+terminé la dépolarisation des oreillettes et puis on
+
+174
+00:11:29,110 --> 00:11:31,290
+a terminé la dépolarisation des ventricules il nous
+
+175
+00:11:31,290 --> 00:11:35,150
+reste la repolarisation cette fois-ci la repolarisation
+
+176
+00:11:35,150 --> 00:11:38,710
+représentera la repolarisation des ventricules et non celle
+
+177
+00:11:38,710 --> 00:11:40,710
+des oreillettes parce que celle des oreillettes a
+
+178
+00:11:40,710 --> 00:11:46,190
+dû passer à un moment où la dépolarisation
+
+179
+00:11:46,190 --> 00:11:49,510
+des ventricules est survenue et comme l'ordre
+
+180
+00:11:49,510 --> 00:11:53,150
+de repolarisation des oreillettes est très faible elle
+
+181
+00:11:53,150 --> 00:11:57,350
+a dû ne pas être enregistrée parce que
+
+182
+00:11:57,350 --> 00:12:01,910
+le CG prend à sa place la dépolarisation
+
+183
+00:12:01,910 --> 00:12:03,970
+plus importante des ventricules, donc on la voit
+
+184
+00:12:03,970 --> 00:12:06,510
+pas et il nous reste donc la dépolarisation
+
+185
+00:12:06,510 --> 00:12:12,540
+la repolarisation des ventricules voilà donc entre la
+
+186
+00:12:12,540 --> 00:12:15,660
+dépolarisation des oreillettes et celle des ventricules, il
+
+187
+00:12:15,660 --> 00:12:17,740
+y a un silence, il est certainement dû
+
+188
+00:12:19,140 --> 00:12:24,000
+au fait que le front de propagation de
+
+189
+00:12:24,000 --> 00:12:28,160
+la dépolarisation cardiaque a dû atteindre le nœud
+
+190
+00:12:28,160 --> 00:12:31,700
+auriculaire ventriculaire et pratiquement ralentir énormément, donc
+
+191
+00:12:31,700 --> 00:12:34,300
+pratiquement comme s'il ne se propage pas
+
+192
+00:12:34,300 --> 00:12:36,320
+rappelez-vous le tableau qu'on a vu
+
+193
+00:12:36,320 --> 00:12:37,740
+au début dans lequel on a vu la
+
+194
+00:12:37,740 --> 00:12:40,940
+vitesse de propagation de l'influx électrique au
+
+195
+00:12:40,940 --> 00:12:44,120
+niveau du nœud avait de 0,05 secondes
+
+196
+00:12:44,120 --> 00:12:46,520
+donc pratiquement comme s'il ne ne bouge
+
+197
+00:12:46,520 --> 00:12:49,500
+pas, raison pour laquelle vous n'avez absolument
+
+198
+00:12:51,400 --> 00:12:55,020
+l'électrocardiogramme n'enregistre rien donc ce délai
+
+199
+00:12:55,020 --> 00:12:58,120
+entre l'ANDP et le QRS, on l
+
+200
+00:12:58,120 --> 00:13:01,720
+'appellera le délai auriculo-ventriculaire puis vous avez
+
+201
+00:13:01,720 --> 00:13:04,920
+la dépolarisation du ventricule puis une fois ça
+
+202
+00:13:04,920 --> 00:13:08,580
+se termine plus aucun front de propagation d
+
+203
+00:13:08,580 --> 00:13:10,740
+'aucune activité électrique ne se propage, donc on
+
+204
+00:13:10,740 --> 00:13:13,860
+revient à la ligne isoélectrique et puis la
+
+205
+00:13:13,860 --> 00:13:17,480
+repolarisation ainsi on décrit dans l'ECG plusieurs
+
+206
+00:13:17,480 --> 00:13:20,280
+éléments qu'il va falloir analyser quand on
+
+207
+00:13:20,280 --> 00:13:23,400
+analyse un ECG, on analyse l'ANDP, sa
+
+208
+00:13:23,400 --> 00:13:30,760
+forme son amplitude on analyse la durée du
+
+209
+00:13:30,760 --> 00:13:33,720
+délai auriculo-ventriculaire entre l'ANDP et l
+
+210
+00:13:33,720 --> 00:13:35,860
+'ANDR on l'appellera l'espace PQ ou
+
+211
+00:13:35,860 --> 00:13:41,580
+PR et puis on analyse le QRS aussi
+
+212
+00:13:41,580 --> 00:13:46,720
+bien dans son amplitude dans son sens est
+
+213
+00:13:46,720 --> 00:13:49,240
+-ce qu'il est positif, négatif, négatif ou
+
+214
+00:13:49,240 --> 00:13:52,480
+positif etc, dans sa durée parce que la
+
+215
+00:13:52,480 --> 00:13:56,420
+durée va représenter la durée de dépolarisation donc
+
+216
+00:13:56,420 --> 00:13:58,820
+ça ne devrait pas être long, ça devrait
+
+217
+00:13:58,820 --> 00:14:00,980
+être une durée courte s'il est plus
+
+218
+00:14:00,980 --> 00:14:03,620
+long ça reflète un problème, un retard de
+
+219
+00:14:03,620 --> 00:14:07,880
+conduction intra-ventriculaire et puis on analysera ce
+
+220
+00:14:07,880 --> 00:14:10,420
+segment qu'on appellera le segment entre la
+
+221
+00:14:10,420 --> 00:14:12,740
+fin du QRS donc S jusqu'au début
+
+222
+00:14:12,740 --> 00:14:16,220
+de l'ANDT segment ST dans lequel il
+
+223
+00:14:16,220 --> 00:14:18,860
+ne devrait y avoir aucune activité et s
+
+224
+00:14:18,860 --> 00:14:20,720
+'il y en a une ou si le
+
+225
+00:14:20,720 --> 00:14:24,860
+segment est plus isoélectrique donc il y a
+
+226
+00:14:24,860 --> 00:14:28,620
+un problème qui survient après la dépolarisation des
+
+227
+00:14:28,620 --> 00:14:32,080
+ventricules et puis il y a l'ANDT
+
+228
+00:14:32,080 --> 00:14:34,740
+qui représente la dépolarisation aussi, on l'analysera
+
+229
+00:14:34,740 --> 00:14:35,980
+est-ce qu'elle est normale ou pas
+
+230
+00:14:35,980 --> 00:14:37,840
+est-ce que l'AND est positive ou
+
+231
+00:14:37,840 --> 00:14:46,000
+négative ou pratiquement plate etc Tout ceci toutes
+
+232
+00:14:46,000 --> 00:14:49,140
+ces anémonies c'était juste pour vous expliquer
+
+233
+00:14:49,140 --> 00:14:53,640
+le principe de l'électrocardiogramme on reviendra sur
+
+234
+00:14:53,640 --> 00:14:55,860
+vos questions et si vous demandez plus d
+
+235
+00:14:55,860 --> 00:14:59,060
+'explications encore une fois dans les séances interactives
+
+236
+00:14:59,060 --> 00:15:09,580
+Maintenant en récapitulant le
+
+237
+00:15:10,140 --> 00:15:14,760
+tissu nodal il est spécialisé dans l'automatisme
+
+238
+00:15:14,760 --> 00:15:19,880
+cardiaque il est composé du nœud sino-auriculaire
+
+239
+00:15:19,880 --> 00:15:24,620
+des faisceaux internodaux du nœud auriculo-ventriculaire du
+
+240
+00:15:24,620 --> 00:15:26,840
+faisceau du hélice de sébrange et du cible
+
+241
+00:15:26,840 --> 00:15:32,540
+du purkinier les cellules cardiaques on l'indique
+
+242
+00:15:32,540 --> 00:15:38,360
+façon conventionnelle on va dire ils sont polarisés
+
+243
+00:15:38,360 --> 00:15:41,900
+mais de façon conventionnelle on va dire négativement
+
+244
+00:15:41,900 --> 00:15:50,250
+à l'intérieur positivement à l'extérieur Dans
+
+245
+00:15:50,250 --> 00:15:52,610
+les cellules à réponses rapides on n'est
+
+246
+00:15:52,610 --> 00:15:56,310
+pas dans les automatiques on retrouve les caractéristiques
+
+247
+00:15:56,310 --> 00:16:00,870
+des cellules à potentiel d'action quadrangulaire avec
+
+248
+00:16:00,870 --> 00:16:10,150
+les phases 1, 2, 3 et 4 il
+
+249
+00:16:10,150 --> 00:16:14,230
+faudra se rappeler que les périodes réfractaires c
+
+250
+00:16:14,230 --> 00:16:19,630
+'est des périodes qui soient relatives ou absolues
+
+251
+00:16:19,630 --> 00:16:22,830
+ou effectives, c'est pas très important cette
+
+252
+00:16:22,830 --> 00:16:26,670
+distinction c'est retenir que tous ces ensembles
+
+253
+00:16:26,670 --> 00:16:29,830
+de périodes réfractaires sont finalement le temps qu
+
+254
+00:16:29,830 --> 00:16:32,150
+'il faut pour une cellule pour qu'elle
+
+255
+00:16:33,030 --> 00:16:37,100
+reprenne sa capacité à devenir excitable de nouveau
+
+256
+00:16:37,100 --> 00:16:39,380
+et donc c'est une période où la
+
+257
+00:16:39,380 --> 00:16:42,740
+cellule est protégée contre un nouveau influx électrique
+
+258
+00:16:42,740 --> 00:16:46,460
+qui risque de déclencher une nouvelle excitation et
+
+259
+00:16:46,460 --> 00:16:55,300
+probablement une tachycardie Alors là on va parler
+
+260
+00:16:55,300 --> 00:17:01,820
+du système nerveux autonome lequel système nerveux autonome
+
+261
+00:17:01,820 --> 00:17:07,099
+va permettre de réguler la fréquence cardiaque et
+
+262
+00:17:07,099 --> 00:17:09,300
+réguler, on le verra par la suite la
+
+263
+00:17:09,300 --> 00:17:14,020
+pression artérielle donc dans le système nerveux autonome
+
+264
+00:17:14,020 --> 00:17:17,400
+vous avez un système sympathique et un système
+
+265
+00:17:17,400 --> 00:17:23,599
+parasympathique et ces deux systèmes ont besoin de
+
+266
+00:17:23,599 --> 00:17:28,380
+voies afférentes qui vont ramener l'influx ou
+
+267
+00:17:28,380 --> 00:17:32,480
+l'information vers la moelle épinière ou même
+
+268
+00:17:32,480 --> 00:17:37,200
+vers les centraux supérieurs au niveau du bulbe
+
+269
+00:17:38,060 --> 00:17:41,780
+et par la suite par voie réflexe là
+
+270
+00:17:41,780 --> 00:17:44,700
+c'est schématisé par un ensemble de synapses
+
+271
+00:17:44,700 --> 00:17:46,560
+au niveau de la corde postérieure de la
+
+272
+00:17:46,560 --> 00:17:49,700
+moelle épinière vous aurez une réponse qu'on
+
+273
+00:17:49,700 --> 00:17:52,800
+va obtenir par voie afférente et la voie
+
+274
+00:17:52,800 --> 00:17:55,560
+afférente représentée ici en rouge par le nerf
+
+275
+00:17:55,560 --> 00:18:00,040
+DIFF ou le VAG et une voie afférente
+
+276
+00:18:00,040 --> 00:18:05,140
+représentée autrement par ici le nerf cardiaque bon
+
+277
+00:18:05,140 --> 00:18:07,280
+un nerf cardiaque certes mais vous voyez qu
+
+278
+00:18:07,280 --> 00:18:09,040
+'il transite par la chaîne par exemple d
+
+279
+00:18:09,040 --> 00:18:11,820
+'ionaire et c'est pas mis dans le
+
+280
+00:18:11,820 --> 00:18:14,600
+schéma il y a aussi même une connexion
+
+281
+00:18:14,600 --> 00:18:20,860
+avec la glande surénale pour pouvoir secréter plus
+
+282
+00:18:20,860 --> 00:18:26,680
+de catecholamines qui vont venir agir sur les
+
+283
+00:18:26,680 --> 00:18:31,620
+différentes régions cardiaques en faisant bien sûr le
+
+284
+00:18:31,620 --> 00:18:36,640
+travail du système sympathique donc pour récapituler on
+
+285
+00:18:36,640 --> 00:18:40,940
+aura besoin pour avoir un disons un système
+
+286
+00:18:42,480 --> 00:18:45,620
+nerveux autonome à type d'arc ce qu
+
+287
+00:18:45,620 --> 00:18:48,980
+'on appellera l'arc réflexe on aura besoin
+
+288
+00:18:48,980 --> 00:18:52,800
+de voies afférentes et de voies efférentes et
+
+289
+00:18:52,800 --> 00:18:54,820
+bien sûr à partir des voies afférentes il
+
+290
+00:18:54,820 --> 00:18:57,080
+nous faut des récepteurs le système qui est
+
+291
+00:18:57,080 --> 00:19:01,480
+représenté ici est fait de récepteurs sensibles à
+
+292
+00:19:01,480 --> 00:19:05,540
+la pression donc on a des récepteurs de
+
+293
+00:19:05,540 --> 00:19:10,140
+cellules spécialisés dans la détection de changements de
+
+294
+00:19:10,140 --> 00:19:13,060
+pression qu'on appellera les barreaux récepteurs on
+
+295
+00:19:13,060 --> 00:19:15,920
+le trouve un amas de cellules comme ça
+
+296
+00:19:15,920 --> 00:19:19,720
+au niveau de la bifurcation carotidienne qui soit
+
+297
+00:19:19,720 --> 00:19:22,100
+à droite ou à gauche, on les retrouve
+
+298
+00:19:22,100 --> 00:19:25,280
+aussi au niveau de la paroi de la
+
+299
+00:19:25,280 --> 00:19:28,900
+crosse de la porte au moins ces zones
+
+300
+00:19:28,900 --> 00:19:33,180
+là importantes vont constituer des barreaux récepteurs qui
+
+301
+00:19:33,180 --> 00:19:37,640
+vont surveiller de façon continue les variations de
+
+302
+00:19:37,640 --> 00:19:41,540
+pression et envoyer de façon continue un certain
+
+303
+00:19:41,540 --> 00:19:44,700
+nombre de signaux dont l'intensité augmente ou
+
+304
+00:19:44,700 --> 00:19:46,480
+diminue en fonction bien sûr du changement de
+
+305
+00:19:46,480 --> 00:19:49,600
+la pression ces influx vont être transmis par
+
+306
+00:19:49,600 --> 00:19:52,800
+les voies afférentes par les voies afférentes pardon
+
+307
+00:19:52,800 --> 00:19:55,300
+le nerf de Hering, le nerf de Sillon,
+
+308
+00:19:56,000 --> 00:19:59,780
+arriver au niveau de la moelle épinière et
+
+309
+00:19:59,780 --> 00:20:03,620
+déclencher soit une stimulation du nerf vague, soit
+
+310
+00:20:03,620 --> 00:20:07,560
+une stimulation directe ou via la chimpanzé sympathique
+
+311
+00:20:07,560 --> 00:20:10,380
+ou via la surrénale d'une sécrétion de
+
+312
+00:20:10,380 --> 00:20:21,890
+catéconomie donc de la voie sympathique ceci
+
+313
+00:20:21,890 --> 00:20:27,050
+bien sûr va venir moduler l'automatisme cardiaque
+
+314
+00:20:27,050 --> 00:20:30,650
+le système nerveux autonome, sympathique et parasympathique vont
+
+315
+00:20:30,650 --> 00:20:34,470
+juste moduler l'activité automatique on a vu
+
+316
+00:20:34,470 --> 00:20:37,930
+dans le potentiel d'action notamment le sinusoide
+
+317
+00:20:37,930 --> 00:20:39,870
+et le recul ventriculaire qu'on a des
+
+318
+00:20:39,870 --> 00:20:44,910
+potentiels d'action triangulaires avec une phase 4
+
+319
+00:20:44,910 --> 00:20:47,650
+qui est nommée la phase de polarisation diastolique
+
+320
+00:20:47,650 --> 00:20:49,550
+lente qui est dotée de canaux IF et
+
+321
+00:20:49,550 --> 00:20:53,750
+qui est capable de changer de façon spontanée
+
+322
+00:20:53,750 --> 00:20:58,210
+le potentiel de membrane de valeurs négatives vers
+
+323
+00:20:58,210 --> 00:21:01,910
+des valeurs moins négatives pour pouvoir déclencher l
+
+324
+00:21:01,910 --> 00:21:06,130
+'ouverture de canaux ioniques, voltage dépendants notamment les
+
+325
+00:21:06,130 --> 00:21:07,670
+canaux cathiques, tout ça on l'a vu
+
+326
+00:21:07,670 --> 00:21:09,250
+et c'est ça ce qui sous-tend
+
+327
+00:21:10,110 --> 00:21:13,730
+l'automatisme cardiaque qui rend les cellules cardiaques
+
+328
+00:21:14,250 --> 00:21:16,990
+spécialisées dans l'automatisme des cellules automatiques capables
+
+329
+00:21:16,990 --> 00:21:18,570
+de générer un flux qui va se propager
+
+330
+00:21:18,570 --> 00:21:20,210
+par la suite le long des régions cardiaques.
+
+331
+00:21:21,310 --> 00:21:23,170
+Maintenant on parle de ce qui va moduler
+
+332
+00:21:23,170 --> 00:21:25,590
+cette activité, c'est à dire soit l
+
+333
+00:21:25,590 --> 00:21:28,090
+'accélérer cet automatisme ou plutôt le diminuer.
+
+334
+00:21:28,530 --> 00:21:31,550
+Ce sera le système autonome et donc on
+
+335
+00:21:31,550 --> 00:21:33,830
+va parler d'un effet d'abord chronotrope
+
+336
+00:21:33,830 --> 00:21:37,230
+c'est à dire je vais accélérer la
+
+337
+00:21:37,230 --> 00:21:43,810
+cadence de disons de dépolarisation des cellules et
+
+338
+00:21:43,810 --> 00:21:45,390
+donc qui dit cadence veut dire le nombre
+
+339
+00:21:45,390 --> 00:21:46,950
+de fois par minute, c'est donc 10
+
+340
+00:21:46,950 --> 00:21:49,350
+fréquences cardiaques ou alors je ferai le contraire
+
+341
+00:21:49,350 --> 00:21:52,050
+en diminuant cette fréquence cardiaque.
+
+342
+00:21:52,130 --> 00:21:53,830
+Donc fréquence cardiaque sera remplacée par le mot
+
+343
+00:21:53,830 --> 00:21:56,890
+chronotropie et quand on aura un effet chronotrope
+
+344
+00:21:56,890 --> 00:21:58,530
+négatif c'est à dire en diminuant la
+
+345
+00:21:58,530 --> 00:22:01,230
+fréquence cardiaque quand on a un effet contraire
+
+346
+00:22:02,690 --> 00:22:06,690
+positif donc on va avoir une accélération de
+
+347
+00:22:06,690 --> 00:22:07,990
+la fréquence cardiaque.
+
+348
+00:22:11,830 --> 00:22:16,150
+Les modifications de la fréquence répondent plutôt à
+
+349
+00:22:16,150 --> 00:22:19,790
+un changement de la pente de dépolarisation diastolique
+
+350
+00:22:19,790 --> 00:22:21,230
+on va le voir sur un schéma pour
+
+351
+00:22:21,230 --> 00:22:23,530
+être plus clair mais pour l'instant je
+
+352
+00:22:23,530 --> 00:22:28,230
+signale que le parasympathique va agir via un
+
+353
+00:22:28,230 --> 00:22:30,910
+médiateur qui est l'acétylcholine et donc on
+
+354
+00:22:30,910 --> 00:22:32,990
+va voir bien sûr pour que l'acétylcholine
+
+355
+00:22:32,990 --> 00:22:35,150
+agisse directement au niveau du noeud sinusale, du
+
+356
+00:22:35,150 --> 00:22:37,330
+noeud AV et de la paroi des oreillettes
+
+357
+00:22:37,330 --> 00:22:40,130
+il va falloir que les nerfs ou les
+
+358
+00:22:40,130 --> 00:22:43,370
+ramifications du nerf parasympathique arrivent jusqu'en noeud
+
+359
+00:22:43,370 --> 00:22:46,450
+sinusale noeud AV et éventuellement à la paroi
+
+360
+00:22:46,450 --> 00:22:47,270
+de l'oreillette droite.
+
+361
+00:22:47,530 --> 00:22:52,510
+Donc retenez que le parasympathique innerve dans le
+
+362
+00:22:52,510 --> 00:22:54,390
+coeur que ces zones là.
+
+363
+00:22:54,710 --> 00:22:56,670
+Le parasympathique n'arrive pas par exemple à
+
+364
+00:22:56,670 --> 00:23:01,390
+la paroi des ventricules ni au septum, ni
+
+365
+00:23:01,390 --> 00:23:03,010
+je ne sais pas moi au niveau des
+
+366
+00:23:03,010 --> 00:23:07,690
+valves etc non, c'est essentiellement au niveau
+
+367
+00:23:07,690 --> 00:23:10,290
+du noeud sinusale et le noeud auriculaire et
+
+368
+00:23:10,290 --> 00:23:13,150
+bien sûr accessoirement au niveau de la paroi
+
+369
+00:23:13,150 --> 00:23:18,130
+des oreillettes par contre le parasympathique comme il
+
+370
+00:23:18,130 --> 00:23:22,770
+a, via bien sûr son médiateur qui est
+
+371
+00:23:22,770 --> 00:23:25,910
+la noradrénaline et l'adrénaline qu'on appelle
+
+372
+00:23:25,910 --> 00:23:30,470
+autrement les catécholamines il va pouvoir agir pratiquement
+
+373
+00:23:30,470 --> 00:23:32,370
+dans toutes les régions cardiaques.
+
+374
+00:23:33,050 --> 00:23:37,310
+Parce que ces catécholamines vont devoir interagir avec
+
+375
+00:23:38,590 --> 00:23:44,390
+des récepteurs, des récepteurs bêta des récepteurs alpha
+
+376
+00:23:44,390 --> 00:23:47,150
+et bêta et notamment des récepteurs bêta au
+
+377
+00:23:47,150 --> 00:23:50,170
+niveau du muscle cardiaque qui existe pratiquement dans
+
+378
+00:23:50,170 --> 00:23:53,510
+toutes les cellules myocardiques donc il suffit que
+
+379
+00:23:53,510 --> 00:23:56,210
+l'adrénaline ou la noradrénaline soit libérée dans
+
+380
+00:23:56,210 --> 00:24:00,130
+la circulation sanguine pour aller se fixer sur
+
+381
+00:24:00,130 --> 00:24:07,190
+ces récepteurs et agir par une activité sympathique
+
+382
+00:24:12,290 --> 00:24:15,410
+Ici on va représenter les caractéristiques du système
+
+383
+00:24:15,410 --> 00:24:18,210
+nerveux autonome sur la cellule myocardique sous forme
+
+384
+00:24:18,210 --> 00:24:22,450
+d'un tableau de récapitulation donc vous voyez
+
+385
+00:24:22,450 --> 00:24:24,210
+mis côte à côte l'action de l
+
+386
+00:24:24,210 --> 00:24:27,790
+'acétylcholine qui représente le système parasympathique et l
+
+387
+00:24:27,790 --> 00:24:30,790
+'anoradrénaline qui représente le système sympathique.
+
+388
+00:24:31,330 --> 00:24:33,070
+Là vous voyez par exemple sur les canaux
+
+389
+00:24:33,750 --> 00:24:37,890
+ioniques, le canal sodiclan IF, on voit que
+
+390
+00:24:37,890 --> 00:24:41,170
+l'acétylcholine déprime son action plutôt il diminue
+
+391
+00:24:41,170 --> 00:24:47,570
+le flux entrant sodiclan alors que l'anoradrénaline
+
+392
+00:24:47,570 --> 00:24:48,250
+l'augmente.
+
+393
+00:24:48,470 --> 00:24:50,670
+Et la même chose pour le canal calcique,
+
+394
+00:24:50,830 --> 00:24:52,750
+ce qui fait que la pente de dépolarisation
+
+395
+00:24:52,750 --> 00:24:57,010
+diastolique lente va être moins abrupte avec l
+
+396
+00:24:57,010 --> 00:25:00,950
+'acétylcholine disons plus lente et donc forcément un
+
+397
+00:25:00,950 --> 00:25:04,390
+ralentissement de la fréquence cardiaque directement qu'on
+
+398
+00:25:04,390 --> 00:25:07,290
+appellera une bradycardie alors que l'effet contraire
+
+399
+00:25:07,290 --> 00:25:10,270
+on l'obtient avec l'anoradrénaline Pour ce
+
+400
+00:25:10,270 --> 00:25:15,430
+qui est des canaux potatiques dites acétylcholines dépendants
+
+401
+00:25:15,430 --> 00:25:22,170
+il en existe effectivement, essentiellement au niveau de
+
+402
+00:25:22,970 --> 00:25:26,590
+cellules myocardiques, vous allez voir que l'acétylcholine,
+
+403
+00:25:26,730 --> 00:25:28,950
+notamment au niveau d'une sinusale, auricule ventriculaire,
+
+404
+00:25:29,010 --> 00:25:32,270
+l'acétylcholine va agir sur ces canaux potatiques
+
+405
+00:25:32,270 --> 00:25:35,230
+acétylcholines dépendants en les ouvrant et donc certainement
+
+406
+00:25:35,230 --> 00:25:41,130
+ceci va rendre la cellule encore plus négative
+
+407
+00:25:41,130 --> 00:25:44,270
+qui dit plus négative, donc elle est hyperpolarisée
+
+408
+00:25:45,070 --> 00:25:46,950
+qu'est-ce que ça veut dire hyperpolarisée
+
+409
+00:25:46,950 --> 00:25:48,970
+ça veut dire tout simplement qu'elle est
+
+410
+00:25:48,970 --> 00:25:52,830
+difficilement dépolarisable imaginez qu'on ait par exemple
+
+411
+00:25:52,830 --> 00:25:56,690
+un moins, alors pour le nœud sinusal on
+
+412
+00:25:56,690 --> 00:25:59,690
+va dire que le potentiel de membrane n
+
+413
+00:25:59,690 --> 00:26:02,210
+'est pas le même n'a pas le
+
+414
+00:26:02,210 --> 00:26:05,610
+même niveau de négativité que le potentiel de
+
+415
+00:26:05,610 --> 00:26:07,770
+membrane d'une cellule myocardique à potentiel d
+
+416
+00:26:07,770 --> 00:26:14,110
+'action quadrangulaire je m'explique on a vu
+
+417
+00:26:14,110 --> 00:26:16,130
+que dans la cellule à potentiel d'action
+
+418
+00:26:16,130 --> 00:26:20,470
+quadrangulaire cellules spécialisées pratiquement que dans la contraction
+
+419
+00:26:21,260 --> 00:26:24,870
+le niveau de négativité du potentiel de membrane
+
+420
+00:26:24,870 --> 00:26:28,350
+avoisine les moins 90 mV va être à
+
+421
+00:26:28,350 --> 00:26:32,690
+moins 92 moins 94 etc pour les cellules
+
+422
+00:26:32,690 --> 00:26:36,530
+automatiques le sinusal, le recul ventriculaire probablement quelques
+
+423
+00:26:36,530 --> 00:26:39,550
+cellules du faisceau de His etc vous allez
+
+424
+00:26:39,550 --> 00:26:44,110
+voir que la cellule est automatique donc elle
+
+425
+00:26:44,110 --> 00:26:47,910
+a besoin d'une phase de dépolarisation diastolique
+
+426
+00:26:47,910 --> 00:26:52,390
+lente durant laquelle le potentiel de membrane va
+
+427
+00:26:52,390 --> 00:26:57,030
+devoir être ramené progressivement vers un niveau moins
+
+428
+00:26:57,030 --> 00:27:01,070
+négatif voire un petit peu proche de 0
+
+429
+00:27:01,070 --> 00:27:04,650
+pour ouvrir les canaux calciques et par la
+
+430
+00:27:04,650 --> 00:27:09,190
+suite le potentiel de membrane devient franchement positif
+
+431
+00:27:09,190 --> 00:27:12,390
+donc pour y arriver ces cellules sont déjà
+
+432
+00:27:12,390 --> 00:27:15,370
+préparées en ayant un potentiel de membrane déjà
+
+433
+00:27:15,370 --> 00:27:17,190
+moins négatif c'est à dire qu'il
+
+434
+00:27:17,190 --> 00:27:19,150
+n'est pas à moins 90 au moins
+
+435
+00:27:19,150 --> 00:27:22,370
+92 mV il est déjà à moins 60
+
+436
+00:27:22,370 --> 00:27:25,710
+à peu près d'accord ce qui fait
+
+437
+00:27:25,710 --> 00:27:29,950
+que si l'acétylcholine agit sur ces canaux
+
+438
+00:27:29,950 --> 00:27:33,830
+acétylcholine dépendants, canaux potassiques elle va faire rentrer
+
+439
+00:27:33,830 --> 00:27:36,890
+plus de potassium dans la cellule et donc
+
+440
+00:27:36,890 --> 00:27:42,010
+rendre la cellule encore en ayant un potentiel
+
+441
+00:27:42,010 --> 00:27:45,170
+de membrane encore plus négatif donc finalement hyperpolarisée
+
+442
+00:27:45,170 --> 00:27:50,090
+il dit hyperpolarisée donc très négative dit difficilement
+
+443
+00:27:50,090 --> 00:27:53,110
+ramenable vers des niveaux de potentiel proche de
+
+444
+00:27:53,110 --> 00:27:57,930
+0 donc cellules difficilement dépolarisables voilà l'idée
+
+445
+00:27:57,930 --> 00:28:00,190
+le contraire bien sûr on l'obtient avec
+
+446
+00:28:00,190 --> 00:28:03,310
+l'anoradrénaline mais pas forcément via les canaux
+
+447
+00:28:04,470 --> 00:28:07,950
+acétylcholine dépendants l'anoradrénaline n'agit pas là
+
+448
+00:28:07,950 --> 00:28:12,130
+dessus mais on sait déjà que autrement l
+
+449
+00:28:12,130 --> 00:28:19,270
+'anoradrénaline rend la cellule plus facilement dépolarisable ne
+
+450
+00:28:19,270 --> 00:28:20,470
+serait-ce que parce que la pente de
+
+451
+00:28:20,470 --> 00:28:24,930
+dépolarisation devient abrupte et donc rapidement le potentiel
+
+452
+00:28:24,930 --> 00:28:29,490
+de membrane augmente vers des valeurs avoisinant le
+
+453
+00:28:29,490 --> 00:28:36,430
+0 ou positif alors voilà un schéma qui
+
+454
+00:28:36,430 --> 00:28:40,970
+essaie de expliquer tout ça alors on voit
+
+455
+00:28:40,970 --> 00:28:43,610
+par exemple en noir une situation normale d
+
+456
+00:28:43,610 --> 00:28:46,210
+'un potentiel de membrane triangulaire avec un point
+
+457
+00:28:46,210 --> 00:28:51,210
+de dépolarisation diastolique lente et puis la phase
+
+458
+00:28:51,870 --> 00:28:57,130
+de la phase disons 0 qui est plutôt
+
+459
+00:28:57,130 --> 00:28:59,390
+ici sous la dépendance des canaux calciques et
+
+460
+00:28:59,390 --> 00:29:00,930
+puis il n'y a pas de plateau,
+
+461
+00:29:01,190 --> 00:29:06,050
+retour direct, phase 3 retour direct pour la
+
+462
+00:29:06,050 --> 00:29:11,970
+situation de départ quand le système sympathique stimule
+
+463
+00:29:11,970 --> 00:29:15,250
+cette cellule via l'adrénaline l'anoradrénaline etc.
+
+464
+00:29:15,430 --> 00:29:17,170
+ceci bien sûr via le récepteur notamment le
+
+465
+00:29:17,170 --> 00:29:19,970
+récepteur bêta 1 en agissant sur, en se
+
+466
+00:29:19,970 --> 00:29:25,590
+couplant avec les protéines guanine cyclase vous allez
+
+467
+00:29:25,590 --> 00:29:30,030
+voir une entrée de sodium plus importante donc
+
+468
+00:29:30,030 --> 00:29:35,630
+finalement une augmentation de la conductance des canaux
+
+469
+00:29:35,630 --> 00:29:38,950
+IF et le sodium rentre de façon plus
+
+470
+00:29:38,950 --> 00:29:41,930
+importante et la pente de dépolarisation diastolique lente
+
+471
+00:29:41,930 --> 00:29:45,750
+devient plus abrupte donc on accélère la vitesse
+
+472
+00:29:45,750 --> 00:29:48,630
+de dépolarisation et de là on va avoir
+
+473
+00:29:48,630 --> 00:29:51,430
+un potentiel d'action plus court et donc
+
+474
+00:29:51,430 --> 00:29:54,050
+un nombre de potentiel d'action plus important
+
+475
+00:29:54,050 --> 00:29:56,570
+pendant la minute ce qui veut dire une
+
+476
+00:29:56,570 --> 00:29:58,610
+accélération de la fréquence cardiaque.
+
+477
+00:29:58,990 --> 00:30:00,470
+L'effet inverse on l'obtient avec l
+
+478
+00:30:00,470 --> 00:30:03,310
+'acétylcholine qui à la fois va déprimer les
+
+479
+00:30:03,310 --> 00:30:07,370
+canaux sodiques IF, les canaux calciques mais en
+
+480
+00:30:07,370 --> 00:30:10,410
+même temps elle va pouvoir ouvrir les canaux
+
+481
+00:30:12,730 --> 00:30:18,210
+potassiques acétylcholine indépendant pour finalement hyperpolariser la
+
+482
+00:30:18,210 --> 00:30:24,910
+cellule, augmenter le potentiel seuil pour pouvoir déclencher
+
+483
+00:30:24,910 --> 00:30:27,910
+les cellules deviennent difficiles et donc c'est
+
+484
+00:30:27,910 --> 00:30:31,570
+le potentiel inverse, il y aura un ralentissement
+
+485
+00:30:31,570 --> 00:30:36,190
+de la fréquence cardiaque Donc en résumé la
+
+486
+00:30:36,190 --> 00:30:42,560
+stimulation parasympathique augmente la résistance de l'acétylcholine
+
+487
+00:30:42,560 --> 00:30:44,700
+et donc augmente la conductance de la cellule
+
+488
+00:30:44,700 --> 00:30:50,620
+au potassium donc il y aura un effet
+
+489
+00:30:50,620 --> 00:30:55,160
+chronotrope négatif par démunition de la ponte dépolarisation
+
+490
+00:30:55,160 --> 00:30:59,720
+diastolique lente ça c'est pour l'effet
+
+491
+00:30:59,720 --> 00:31:04,880
+chronotrope j'ajoute aussi deux autres effets pour
+
+492
+00:31:04,880 --> 00:31:07,720
+le système nerveux parasympathique c'est ce qu
+
+493
+00:31:07,720 --> 00:31:10,060
+'on appelle l'effet batmotrope alors déjà on
+
+494
+00:31:10,060 --> 00:31:12,660
+l'explique c'est quoi batmotrope c'est
+
+495
+00:31:12,660 --> 00:31:15,860
+ça c'est relatif à l'excitabilité d
+
+496
+00:31:15,860 --> 00:31:18,900
+'une sinusale au recul ventriculaire, le mot excitabilité
+
+497
+00:31:18,900 --> 00:31:22,040
+il est peut-être nouveau mais il n
+
+498
+00:31:22,040 --> 00:31:24,900
+'est pas si nouveau que ça parce que
+
+499
+00:31:24,900 --> 00:31:26,780
+tout à l'heure je parlais de l
+
+500
+00:31:26,780 --> 00:31:32,100
+'hyperpolarisation ou situation durant laquelle la cellule est
+
+501
+00:31:32,100 --> 00:31:37,260
+difficilement dépolarisable ou la dépolarisation, la cellule moins
+
+502
+00:31:37,260 --> 00:31:42,820
+moins moins ayant un potentiel d'action moins
+
+503
+00:31:42,820 --> 00:31:45,920
+négatif et qu'on va dire partiellement dépolarisée
+
+504
+00:31:45,920 --> 00:31:51,500
+est donc facilement excitable en résumé une cellule
+
+505
+00:31:51,500 --> 00:31:56,300
+hyperpolarisée est difficilement excitable une cellule qui a
+
+506
+00:31:56,300 --> 00:31:59,520
+un potentiel de membrane moins négatif elle est
+
+507
+00:31:59,520 --> 00:32:04,340
+plus facilement excitable donc jouer sur l'excitabilité
+
+508
+00:32:04,340 --> 00:32:07,020
+serait un des rôles aussi du système nerveux
+
+509
+00:32:07,020 --> 00:32:11,760
+autonome et justement le système parasympathique diminue l
+
+510
+00:32:11,760 --> 00:32:15,620
+'excitabilité d'une sinusale au recul ventriculaire mais
+
+511
+00:32:15,620 --> 00:32:16,400
+comment ?
+
+512
+00:32:16,400 --> 00:32:19,800
+en hyperpolarisant la cellule donc on aura un
+
+513
+00:32:19,800 --> 00:32:23,820
+effet batmotrop négatif c'est à dire la
+
+514
+00:32:23,820 --> 00:32:30,300
+cellule on va la rendre moins excitable, j
+
+515
+00:32:30,300 --> 00:32:32,320
+'essaie de vous donner un moyen mnémotechnique pour
+
+516
+00:32:32,320 --> 00:32:34,740
+vous rappeler tout à l'heure on a
+
+517
+00:32:34,740 --> 00:32:36,200
+parlé de la chronotropie, je crois que c
+
+518
+00:32:36,200 --> 00:32:38,160
+'est simple la chronotropie ça renvoie vers le
+
+519
+00:32:38,160 --> 00:32:43,000
+chronomètre donc vers la fréquence cardiaque, le batmotrop
+
+520
+00:32:43,000 --> 00:32:46,380
+renvoie vers la capacité de la cellule à
+
+521
+00:32:46,380 --> 00:32:49,700
+générer d'autres battements mais d'autres battements
+
+522
+00:32:49,700 --> 00:32:53,740
+de façon plus facile c'est à dire
+
+523
+00:32:53,740 --> 00:32:59,580
+entre guillemets une cellule qui est vulnérable exposée
+
+524
+00:32:59,580 --> 00:33:04,460
+facilement à l'augmentation de battements anormaux d
+
+525
+00:33:04,460 --> 00:33:07,260
+'où le terme excitabilité donc si c'est
+
+526
+00:33:07,260 --> 00:33:09,440
+un moyen mnémotechnique qui peut vous aider pour
+
+527
+00:33:09,440 --> 00:33:12,420
+vous rappeler le mot batmotrop, ce serait bien
+
+528
+00:33:13,260 --> 00:33:16,940
+après le mot dromotrop dromotrop par contre c
+
+529
+00:33:16,940 --> 00:33:21,760
+'est un peu difficile dromotrop c'est disons
+
+530
+00:33:21,760 --> 00:33:26,180
+la cellule a une vitesse de transmission, vitesse
+
+531
+00:33:26,180 --> 00:33:34,660
+de conduction, du potentiel d'action plus moins
+
+532
+00:33:34,660 --> 00:33:38,440
+important et donc la cellule c'est vrai
+
+533
+00:33:38,440 --> 00:33:40,380
+elle génère un potentiel d'action mais ce
+
+534
+00:33:40,380 --> 00:33:42,760
+potentiel pour qu'il se transmette pour qu
+
+535
+00:33:42,760 --> 00:33:44,140
+'il se conduit d'une cellule à une
+
+536
+00:33:44,140 --> 00:33:46,480
+autre met un peu plus de temps ça
+
+537
+00:33:46,480 --> 00:33:48,920
+s'appelle l'effet dromotrop négatif.
+
+538
+00:33:54,640 --> 00:33:56,500
+Alors pour le système sympathique ça va être
+
+539
+00:33:56,500 --> 00:33:57,780
+vous l'imaginez l'effet tout à fait
+
+540
+00:33:57,780 --> 00:34:01,260
+contraire donc ici si on fait une analogie
+
+541
+00:34:01,260 --> 00:34:05,460
+par rapport à la voiture le système sympathique
+
+542
+00:34:05,460 --> 00:34:08,520
+serait l'accélérateur et le parasympathique serait le
+
+543
+00:34:08,520 --> 00:34:14,600
+frein le sympathique donc via l'adrénaline et
+
+544
+00:34:14,600 --> 00:34:17,239
+l'anoradrénaline il aura un effet contraire du
+
+545
+00:34:17,239 --> 00:34:20,120
+système parasympathique dans un effet chronotrop positif on
+
+546
+00:34:20,120 --> 00:34:23,820
+augmente la pente de dépolarisation diastolique lente, ceci
+
+547
+00:34:23,820 --> 00:34:27,900
+par amélioration de la conductance des canaux calciques
+
+548
+00:34:27,900 --> 00:34:29,880
+et sodiques et bien sûr une diminution de
+
+549
+00:34:29,880 --> 00:34:30,440
+la conductance.
+
+550
+00:34:33,090 --> 00:34:36,210
+Et puis un effet batmotrop positif c'est
+
+551
+00:34:36,210 --> 00:34:41,750
+l'effet le plus dangereux du système sympathique
+
+552
+00:34:41,750 --> 00:34:43,889
+c'est celui là, c'est rendre la
+
+553
+00:34:43,889 --> 00:34:48,630
+cellule très excitable donc facilement excitable, facilement exposable
+
+554
+00:34:49,120 --> 00:34:54,690
+à des tachycardies inappropriées voire dangereuses et puis
+
+555
+00:34:54,690 --> 00:34:57,770
+l'effet dromotrop positif il est bénéfique parce
+
+556
+00:34:57,770 --> 00:35:00,370
+que où est-ce que vous allez voir
+
+557
+00:35:00,370 --> 00:35:03,870
+l'intérêt de cet effet dromotrop positif c
+
+558
+00:35:03,870 --> 00:35:06,730
+'est essentiellement au niveau du nœud auriculoventriculaire vous
+
+559
+00:35:06,730 --> 00:35:08,850
+savez qu'au niveau du nœud auriculoventriculaire la
+
+560
+00:35:08,850 --> 00:35:11,590
+conduction est très ralentie entre les oreillettes et
+
+561
+00:35:11,590 --> 00:35:14,810
+les ventricules alors quand on fait un effort
+
+562
+00:35:14,810 --> 00:35:16,470
+et on a envie d'accélérer la fréquence
+
+563
+00:35:16,470 --> 00:35:19,650
+cardiaque en fait on a besoin pas simplement
+
+564
+00:35:19,650 --> 00:35:21,750
+d'accélérer la fréquence cardiaque mais aussi d
+
+565
+00:35:21,750 --> 00:35:24,910
+'accélérer aussi bien la vitesse de conduction entre
+
+566
+00:35:24,910 --> 00:35:27,630
+les oreillettes et les ventricules ceci va passer
+
+567
+00:35:27,630 --> 00:35:30,290
+par une amélioration de la vitesse de conduction
+
+568
+00:35:30,290 --> 00:35:32,930
+au niveau du nœud auriculoventriculaire c'est l
+
+569
+00:35:32,930 --> 00:35:36,250
+'effet dromotrop positif donc c'est un effet
+
+570
+00:35:36,250 --> 00:35:38,490
+qui va de pair avec l'augmentation de
+
+571
+00:35:38,490 --> 00:35:44,530
+la fréquence cardiaque voilà on a terminé la
+
+572
+00:35:44,530 --> 00:35:47,170
+partie liée à l'activité électrique du cœur
+
+573
+00:35:47,170 --> 00:35:49,810
+ne serait-ce que la partie dédiée à
+
+574
+00:35:49,810 --> 00:35:52,710
+ce cours sonorisé il va de soi qu
+
+575
+00:35:52,710 --> 00:35:54,030
+'il y a une bonne partie qu'on
+
+576
+00:35:54,030 --> 00:35:58,090
+va reprendre notamment dans la théorie ionique et
+
+577
+00:35:58,090 --> 00:36:01,310
+celle des gradients chimiques etc.
+
+578
+00:36:01,750 --> 00:36:04,530
+et bien sûr quelques explications supplémentaires sur l
+
+579
+00:36:04,530 --> 00:36:08,030
+'ECG qu'on fera dans la séance interactive
+
+580
+00:36:08,850 --> 00:36:15,870
+place maintenant au couplage excitation-contraction dans le
+
+581
+00:36:15,870 --> 00:36:18,930
+cours suivant merci de votre attention

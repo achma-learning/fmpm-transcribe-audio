@@ -1,0 +1,4451 @@
+1
+00:00:45,100 --> 00:00:49,760
+D'abord, on va voir la
+
+2
+00:00:49,760 --> 00:00:59,380
+formule classique.
+
+3
+00:00:59,820 --> 00:01:01,200
+Vous m'avez dit que le débit cardiaque
+
+4
+00:01:01,200 --> 00:01:04,300
+égal le volume éjecté que multiplie la fréquence
+
+5
+00:01:04,300 --> 00:01:04,960
+cardiaque.
+
+6
+00:01:05,380 --> 00:01:07,100
+Et vous vous rappelez qu'on a décliné
+
+7
+00:01:07,100 --> 00:01:10,720
+le volume éjecté par l'équation volume télé
+
+8
+00:01:10,720 --> 00:01:11,300
+diastolique.
+
+9
+00:01:11,680 --> 00:01:12,360
+Donc, on va voir une partie qui concerne
+
+10
+00:01:12,360 --> 00:01:12,460
+le cours du débit cardiaque.
+
+11
+00:01:13,160 --> 00:01:17,060
+Le volume télé-systolique multiplie la fréquence cardiaque.
+
+12
+00:01:17,560 --> 00:01:19,680
+Ainsi, à partir de cette formule, on a
+
+13
+00:01:19,680 --> 00:01:22,080
+dit que le volume télé-diastolique est essentiellement
+
+14
+00:01:22,080 --> 00:01:25,500
+représenté sous la dépendance de la précharge.
+
+15
+00:01:25,760 --> 00:01:27,100
+Hier, on a vu en long et en
+
+16
+00:01:27,100 --> 00:01:29,760
+large que la précharge, quoique c'est une
+
+17
+00:01:29,760 --> 00:01:32,640
+notion qui renvoie vers une notion de pression,
+
+18
+00:01:32,820 --> 00:01:45,400
+pression de remplissage du ventricule gauche ou du
+
+19
+00:01:45,400 --> 00:01:50,100
+ventricule droit selon le ventricule auquel on est
+
+20
+00:01:50,100 --> 00:01:54,420
+en train d'étudier, cette précharge renvoie vers
+
+21
+00:01:54,420 --> 00:01:56,680
+les pressions, renvoie aussi vers tout simplement le
+
+22
+00:01:56,680 --> 00:01:59,240
+volume de remplissage du ventricule gauche, volume télé
+
+23
+00:01:59,240 --> 00:02:01,860
+-diastolique, et finalement, le volume qui remplit, c
+
+24
+00:02:01,860 --> 00:02:03,840
+'est bien le sang qui retourne vers le
+
+25
+00:02:03,840 --> 00:02:06,040
+cœur, donc on peut dire aussi que c
+
+26
+00:02:06,040 --> 00:02:07,780
+'est déterminé par le retour veineux.
+
+27
+00:02:09,699 --> 00:02:11,940
+On a vu toujours à titre de révision
+
+28
+00:02:11,940 --> 00:02:14,480
+que pour les autres déterminants, le volume télé
+
+29
+00:02:14,480 --> 00:02:20,800
+-systolique va dépendre de deux paramètres, la contractilité,
+
+30
+00:02:21,140 --> 00:02:23,440
+quand un cœur se contracte bien, il va
+
+31
+00:02:23,440 --> 00:02:25,720
+éjecter bien et donc le volume résiduel sera
+
+32
+00:02:25,720 --> 00:02:31,820
+faible, et deuxièmement, la post-charge étant l
+
+33
+00:02:31,820 --> 00:02:35,540
+'ensemble des forces ou des obstacles qui s
+
+34
+00:02:35,540 --> 00:02:41,020
+'opposent à l'éjection de l'air, l
+
+35
+00:02:41,020 --> 00:02:45,060
+'ensemble des forces qui s'opposent à l
+
+36
+00:02:45,060 --> 00:02:53,210
+'éjection du ventricule gauche, et puis le deuxième
+
+37
+00:02:53,210 --> 00:02:54,970
+déterminant, c'est la fréquence cardiaque qui, elle,
+
+38
+00:02:55,050 --> 00:02:57,230
+est sous la dépendance du système nerveux autonome.
+
+39
+00:02:58,890 --> 00:03:01,810
+Maintenant, on va insister sur le dernier paramètre,
+
+40
+00:03:01,990 --> 00:03:03,870
+le retour veineux, et voir quels sont les
+
+41
+00:03:03,870 --> 00:03:09,830
+déterminants qui le font changer, tout en sachant
+
+42
+00:03:09,830 --> 00:03:18,510
+que pour les autres, le système La qualité
+
+43
+00:03:18,510 --> 00:03:21,290
+du myocarde, est-ce qu'il se contracte
+
+44
+00:03:21,290 --> 00:03:22,970
+bien ou pas, ça dépend de la qualité
+
+45
+00:03:22,970 --> 00:03:25,610
+du muscle cardiaque, mais ça dépend aussi de
+
+46
+00:03:25,610 --> 00:03:28,070
+la masse, on risque d'avoir par exemple
+
+47
+00:03:28,070 --> 00:03:30,430
+un muscle qui est, une partie du muscle
+
+48
+00:03:30,430 --> 00:03:34,990
+cardiaque qui est nécrosée, donc la masse musculaire
+
+49
+00:03:34,990 --> 00:03:38,830
+participée à la contraction sera diminuée, toujours à
+
+50
+00:03:38,830 --> 00:03:41,310
+cause de cette nécrose musculaire, dans ce cas
+
+51
+00:03:41,310 --> 00:03:42,730
+-là, la contractilité va diminuer.
+
+52
+00:03:43,470 --> 00:03:49,770
+D'autres éléments qui vont déterminer la qualité
+
+53
+00:03:49,770 --> 00:03:54,030
+de la contractilité, peuvent être par exemple, le
+
+54
+00:03:54,030 --> 00:03:56,250
+volume du ventricule gauche, et ça, où est
+
+55
+00:03:56,250 --> 00:03:57,030
+-ce qu'on l'a vu ?
+
+56
+00:03:57,030 --> 00:03:57,970
+On l'a vu dans la loi de
+
+57
+00:03:57,970 --> 00:04:00,590
+Starlin, on a dit que le ventricule gauche,
+
+58
+00:04:00,670 --> 00:04:03,490
+il se dilate, et plus il est étiré,
+
+59
+00:04:04,150 --> 00:04:06,990
+plus il va avoir la capacité de se
+
+60
+00:04:06,990 --> 00:04:07,790
+contracter mieux.
+
+61
+00:04:09,070 --> 00:04:14,490
+Je vais prendre cette notion avec vous juste
+
+62
+00:04:14,490 --> 00:04:17,490
+après, et puis, ce qui peut déterminer aussi
+
+63
+00:04:17,490 --> 00:04:20,610
+la contractilité, c'est aussi le système nerveux
+
+64
+00:04:20,610 --> 00:04:23,210
+sympathique, et ça on le verra, à part
+
+65
+00:04:23,210 --> 00:04:23,630
+aussi.
+
+66
+00:04:28,290 --> 00:04:30,110
+Vous m'entendez toujours ?
+
+67
+00:04:30,110 --> 00:04:32,950
+J'ai ici un message, qu'en quoi
+
+68
+00:04:32,950 --> 00:04:34,530
+la qualité de la connexion n'est pas
+
+69
+00:04:34,530 --> 00:04:34,710
+bonne.
+
+70
+00:04:35,230 --> 00:04:36,870
+Est-ce que vous m'entendez ?
+
+71
+00:04:45,160 --> 00:04:48,860
+Parfait, merci, merci, donc je vais continuer.
+
+72
+00:04:51,360 --> 00:04:53,780
+La post-charge, on ne s'attardera pas
+
+73
+00:04:53,780 --> 00:04:56,200
+beaucoup là-dessus, on la verra essentiellement dans
+
+74
+00:04:56,200 --> 00:04:59,460
+la pression artérielle, en sachant qu'il y
+
+75
+00:04:59,460 --> 00:05:01,460
+a deux éléments qui vont constituer une post
+
+76
+00:05:01,460 --> 00:05:04,840
+-charge importante pour le ventricule, c'est soit
+
+77
+00:05:04,840 --> 00:05:07,480
+la pression qui règne dans les vaisseaux, si
+
+78
+00:05:07,480 --> 00:05:09,300
+on parle du ventricule gauche, on va parler
+
+79
+00:05:09,300 --> 00:05:11,520
+de la pression qui règne dans la horte,
+
+80
+00:05:12,220 --> 00:05:13,320
+donc si la pression dans la horte est
+
+81
+00:05:13,320 --> 00:05:17,300
+élevée, c'est une post-charge élevée Bien
+
+82
+00:05:17,300 --> 00:05:19,360
+sûr, une post-charge peut être représentée tout
+
+83
+00:05:19,360 --> 00:05:23,200
+simplement par la valve, la valve aortique, si
+
+84
+00:05:23,200 --> 00:05:25,580
+elle ne s'ouvre pas bien, elle constitue
+
+85
+00:05:25,580 --> 00:05:28,020
+un obstacle, obstacle à quoi ?
+
+86
+00:05:28,020 --> 00:05:30,680
+Obstacle à l'éjection du ventricule gauche, et
+
+87
+00:05:30,680 --> 00:05:33,020
+auquel cas le ventricule doit fournir un effort
+
+88
+00:05:33,020 --> 00:05:36,340
+important pour vaincre cet obstacle pour pouvoir éjecter,
+
+89
+00:05:36,900 --> 00:05:39,020
+donc c'est un obstacle, c'est une
+
+90
+00:05:39,020 --> 00:05:43,400
+post-charge, c'est une difficulté que le
+
+91
+00:05:43,400 --> 00:05:47,640
+ventricule gauche devra surmonter pour pouvoir assurer une
+
+92
+00:05:47,640 --> 00:05:48,780
+éjection correcte.
+
+93
+00:05:49,580 --> 00:05:51,060
+Donc je peux avoir l'obstacle au niveau
+
+94
+00:05:51,060 --> 00:05:52,580
+de la valve, je peux l'avoir dans
+
+95
+00:05:52,580 --> 00:05:55,040
+la pression qui règne dans la horte, et
+
+96
+00:05:55,040 --> 00:05:58,280
+dans ce cas-là l'hypertension artérielle, la
+
+97
+00:05:58,280 --> 00:06:00,980
+maladie hypertensive, ou je peux l'avoir beaucoup
+
+98
+00:06:00,980 --> 00:06:03,420
+plus en distalité au niveau des artérioles sous
+
+99
+00:06:03,420 --> 00:06:06,980
+forme de résistance artériolaire élevée.
+
+100
+00:06:08,620 --> 00:06:11,700
+Mais avant tout ça, on va plutôt insister
+
+101
+00:06:11,700 --> 00:06:13,520
+sur le retour veineux et quelles sont les
+
+102
+00:06:13,520 --> 00:06:15,060
+déterminants, parce que le retour veineux, comme je
+
+103
+00:06:15,060 --> 00:06:17,540
+viens de le dire, détermine essentiellement la pression.
+
+104
+00:06:17,640 --> 00:06:37,280
+Donc prenons une autre page, voilà,
+
+105
+00:06:37,720 --> 00:06:40,040
+prenons une autre page, le retour veineux il
+
+106
+00:06:40,040 --> 00:06:44,260
+va se faire à travers les veines, j
+
+107
+00:06:44,260 --> 00:06:46,820
+'aurais dû prendre une couleur correspondante bien aux
+
+108
+00:06:46,820 --> 00:06:53,370
+veines, voilà, à travers les veines, donc on
+
+109
+00:06:53,370 --> 00:06:55,590
+imagine qu'on est en train de partir
+
+110
+00:06:55,590 --> 00:07:01,590
+à partir des veines des membres inférieurs, et
+
+111
+00:07:01,590 --> 00:07:05,570
+on arrive ici à la veine cave, qui
+
+112
+00:07:05,570 --> 00:07:08,950
+va recevoir quand même les veines spécépatiques, et
+
+113
+00:07:08,950 --> 00:07:11,530
+puis il va arriver dans l'oreillette droite,
+
+114
+00:07:16,990 --> 00:07:20,170
+vous avez votre ventricule droit, votre artère pulmonaire,
+
+115
+00:07:23,680 --> 00:07:28,870
+et donc ces différentes veines, si on n
+
+116
+00:07:28,870 --> 00:07:30,810
+'a pris que la partie inférieure du corps,
+
+117
+00:07:30,950 --> 00:07:32,570
+ces différentes veines, on sait qu'ils ont
+
+118
+00:07:32,570 --> 00:07:38,810
+des valvules, ces valvules sont dans le sens
+
+119
+00:07:38,810 --> 00:07:41,070
+de la direction, dans le sens de l
+
+120
+00:07:41,070 --> 00:07:45,670
+'écoulement sanguin, et donc ils ont pour rôle
+
+121
+00:07:45,670 --> 00:07:50,630
+d'obliger le sang à remonter dans un
+
+122
+00:07:50,630 --> 00:07:54,210
+seul sens, et de ne pas refluer, ne
+
+123
+00:07:54,210 --> 00:07:58,080
+pas revenir en arrière, ce qui va permettre
+
+124
+00:07:58,080 --> 00:08:01,540
+de pousser ce sang pour qu'il travaille
+
+125
+00:08:01,540 --> 00:08:03,980
+contre la gravité, parce que là on part
+
+126
+00:08:03,980 --> 00:08:06,720
+d'un niveau zéro, et on devra remonter
+
+127
+00:08:06,720 --> 00:08:08,940
+quand même au moins un mètre, un mètre
+
+128
+00:08:08,940 --> 00:08:11,440
+et quelques, en fonction de la taille des
+
+129
+00:08:11,440 --> 00:08:13,560
+personnes, notamment quand on est en position debout,
+
+130
+00:08:14,200 --> 00:08:15,980
+on va s'opposer à la loi de
+
+131
+00:08:15,980 --> 00:08:18,500
+la gravité, ou à l'énergie, dite l
+
+132
+00:08:18,500 --> 00:08:23,120
+'énergie potentielle, c'est lié à la gravité,
+
+133
+00:08:24,060 --> 00:08:25,200
+il va falloir la vaincre.
+
+134
+00:08:27,600 --> 00:08:30,040
+Il y a déjà la différence de pression,
+
+135
+00:08:30,720 --> 00:08:34,200
+la pression veineuse devra être, par rapport à
+
+136
+00:08:34,200 --> 00:08:36,760
+la pression dans l'oreillette droite, un petit
+
+137
+00:08:36,760 --> 00:08:37,480
+peu plus élevée.
+
+138
+00:08:37,720 --> 00:08:41,080
+Généralement, on a une pression, par exemple, de
+
+139
+00:08:41,080 --> 00:08:43,860
+5 voire 6 mm de mercure, voire un
+
+140
+00:08:43,860 --> 00:08:44,340
+peu plus.
+
+141
+00:08:45,860 --> 00:08:48,220
+Dans l'oreillette droite, la pression devra être
+
+142
+00:08:48,220 --> 00:08:51,380
+basse, entre 0 et 3 mm de mercure.
+
+143
+00:08:54,600 --> 00:08:58,020
+En ayant un gradient de pression, le gradient
+
+144
+00:08:58,020 --> 00:09:02,060
+de pression va permettre le gradient de pression,
+
+145
+00:09:02,120 --> 00:09:04,840
+et il est favorable à l'écoulement du
+
+146
+00:09:04,840 --> 00:09:08,180
+sang depuis les veines périphériques jusqu'à l
+
+147
+00:09:08,180 --> 00:09:08,820
+'oreillette droite.
+
+148
+00:09:10,180 --> 00:09:11,500
+Mais vous imaginez que ce n'est pas
+
+149
+00:09:11,500 --> 00:09:13,140
+suffisant, ce n'est pas suffisant parce que
+
+150
+00:09:13,140 --> 00:09:16,280
+ce gradient, lui, il va s'opposer à
+
+151
+00:09:16,280 --> 00:09:18,640
+l'énergie potentielle, à la loi de la
+
+152
+00:09:18,640 --> 00:09:21,600
+gravité, et il va quand même créer une
+
+153
+00:09:21,600 --> 00:09:25,260
+sorte de, il va s'opposer en quelque
+
+154
+00:09:25,260 --> 00:09:27,020
+sorte à l'écoulement sanguin.
+
+155
+00:09:27,020 --> 00:09:28,840
+Donc il va falloir avoir d'autres moyens
+
+156
+00:09:28,840 --> 00:09:31,500
+qui vont aider à ce que la circulation
+
+157
+00:09:31,500 --> 00:09:34,620
+sanguine ou le retour veineux soit meilleur.
+
+158
+00:09:35,220 --> 00:09:38,000
+Ces éléments, c'est eux qu'on va
+
+159
+00:09:38,000 --> 00:09:40,020
+déterminer.
+
+160
+00:09:40,520 --> 00:09:43,320
+Le premier va être le phénomène mécanique, c
+
+161
+00:09:43,320 --> 00:09:45,320
+'est ce qu'on appelle la pompe musculaire.
+
+162
+00:09:47,220 --> 00:09:49,480
+La pompe musculaire joue un rôle important dans
+
+163
+00:09:49,480 --> 00:09:50,480
+le retour veineux.
+
+164
+00:09:51,260 --> 00:09:53,360
+Et c'est quoi la pompe musculaire ?
+
+165
+00:09:53,360 --> 00:09:55,520
+Vous savez que les veines, notamment les veines
+
+166
+00:09:55,520 --> 00:09:57,220
+profondes, là on est en train de parler
+
+167
+00:09:57,220 --> 00:09:59,620
+des veines, c'est des veines profondes.
+
+168
+00:10:03,220 --> 00:10:08,860
+Ces veines profondes sont toujours à l'intérieur
+
+169
+00:10:08,860 --> 00:10:09,640
+du muscle.
+
+170
+00:10:12,560 --> 00:10:14,700
+Le muscle, on peut le mettre en rouge,
+
+171
+00:10:14,880 --> 00:10:16,820
+comme ça, avec ses fibres.
+
+172
+00:10:17,400 --> 00:10:19,880
+Et le muscle, toujours, il a autour de
+
+173
+00:10:19,880 --> 00:10:23,620
+lui une serreuse qui l'enveloppe qui s
+
+174
+00:10:23,620 --> 00:10:24,540
+'appelle l'aponeurose.
+
+175
+00:10:24,540 --> 00:10:28,480
+Et cette aponeurose, généralement, elle est pratiquement inextensible.
+
+176
+00:10:29,440 --> 00:10:31,740
+Et donc, si la pression augmente à l
+
+177
+00:10:31,740 --> 00:10:34,500
+'intérieur du muscle, elle sera à l'intérieur
+
+178
+00:10:34,500 --> 00:10:36,820
+du muscle parce qu'elle est contenue par
+
+179
+00:10:36,820 --> 00:10:37,620
+l'aponeurose.
+
+180
+00:10:37,720 --> 00:10:40,620
+Et justement, quand un muscle se contracte, la
+
+181
+00:10:40,620 --> 00:10:45,520
+pression monte et cette pression sera exercée sur
+
+182
+00:10:45,520 --> 00:10:48,660
+toutes les structures et notamment sur les veines.
+
+183
+00:10:48,660 --> 00:10:50,500
+Les veines, on l'a dit hier, elles
+
+184
+00:10:50,500 --> 00:10:53,720
+ont une compliance importante, donc elles sont facilement
+
+185
+00:10:53,720 --> 00:10:56,320
+compressibles alors que les artères non.
+
+186
+00:10:57,280 --> 00:11:00,920
+Donc, une contraction musculaire entraîne une compression de
+
+187
+00:11:00,920 --> 00:11:03,780
+la veine, mais non pas l'entraînement de
+
+188
+00:11:03,780 --> 00:11:03,880
+l'artère.
+
+189
+00:11:03,880 --> 00:11:04,620
+Parce qu'il n'y a jamais d
+
+190
+00:11:04,620 --> 00:11:07,460
+'une raison ou d'une autre, la pression
+
+191
+00:11:07,460 --> 00:11:09,720
+à l'intérieur du muscle augmente.
+
+192
+00:11:09,720 --> 00:11:11,400
+C'est-à-dire qu'il y a
+
+193
+00:11:11,400 --> 00:11:16,760
+eu un saignement, par exemple, une collection vestigieuse,
+
+194
+00:11:16,960 --> 00:11:20,600
+une collection hématique ou autre à l'intérieur
+
+195
+00:11:20,600 --> 00:11:22,780
+du muscle, ça va créer quoi ?
+
+196
+00:11:22,780 --> 00:11:26,500
+Ça va créer une pression supplémentaire à l
+
+197
+00:11:26,500 --> 00:11:30,560
+'intérieur de la loge aponeurotique et cette pression
+
+198
+00:11:30,560 --> 00:11:33,060
+va s'exercer sur toutes les structures capables
+
+199
+00:11:33,060 --> 00:11:33,880
+d'être comprimées.
+
+200
+00:11:33,880 --> 00:11:36,400
+Ce sera la veine, mais si jamais la
+
+201
+00:11:36,400 --> 00:11:40,700
+pression est très élevée, l'artère, on va
+
+202
+00:11:40,700 --> 00:11:43,740
+dépasser la pression qui règne dans l'artère
+
+203
+00:11:43,740 --> 00:11:45,260
+et l'artère sera aussi comprimée.
+
+204
+00:11:45,380 --> 00:11:47,080
+Dans ce cas-là, on va créer une
+
+205
+00:11:47,080 --> 00:11:50,560
+sorte d'ischémie, on va menacer la viabilité
+
+206
+00:11:50,560 --> 00:11:53,640
+du membre à cause de la compression artérielle.
+
+207
+00:11:54,060 --> 00:11:56,240
+Mais ce qui se passe habituellement, c'est
+
+208
+00:11:56,240 --> 00:12:01,380
+simplement une augmentation légère de la pression à
+
+209
+00:12:01,380 --> 00:12:02,660
+cause de la contraction musculaire.
+
+210
+00:12:02,660 --> 00:12:03,720
+C'est pour ça qu'on parle de
+
+211
+00:12:03,720 --> 00:12:07,580
+pompe musculaire et cette contraction va écraser la
+
+212
+00:12:07,580 --> 00:12:09,900
+veine et non pas l'artère et le
+
+213
+00:12:09,900 --> 00:12:11,920
+sang va devoir, comme si vous appuyez sur
+
+214
+00:12:11,920 --> 00:12:13,880
+une seringue, vous appuyez sur le piston d
+
+215
+00:12:13,880 --> 00:12:17,980
+'une seringue, le sang va être propulsé avec
+
+216
+00:12:17,980 --> 00:12:19,020
+une vitesse plus élevée.
+
+217
+00:12:19,140 --> 00:12:22,680
+Là, vous créez une pression qui va générer
+
+218
+00:12:22,680 --> 00:12:26,100
+une énergie cinétique, laquelle énergie cinétique va s
+
+219
+00:12:26,100 --> 00:12:27,780
+'opposer à votre énergie potentielle.
+
+220
+00:12:27,780 --> 00:12:33,500
+Vous allez pouvoir faire couler le sang un
+
+221
+00:12:33,500 --> 00:12:38,820
+peu plus vite vers le cœur, raison pour
+
+222
+00:12:38,820 --> 00:12:42,740
+laquelle on sait actuellement que le sport, par
+
+223
+00:12:42,740 --> 00:12:47,120
+exemple, les grands sportifs, généralement, ils ont un
+
+224
+00:12:47,120 --> 00:12:50,160
+ventricule droit, un ventricule droit et gauche aussi,
+
+225
+00:12:50,240 --> 00:12:50,960
+qui est dilaté.
+
+226
+00:12:50,960 --> 00:12:52,540
+Pourquoi il est dilaté ?
+
+227
+00:12:52,540 --> 00:12:54,940
+Parce que le long des heures d'entraînement,
+
+228
+00:12:55,540 --> 00:12:58,360
+ils font mobiliser beaucoup de retour vénère vers
+
+229
+00:12:58,360 --> 00:13:00,900
+le cœur, donc la précharge augmente.
+
+230
+00:13:01,400 --> 00:13:03,480
+Et la précharge augmente pendant des heures et
+
+231
+00:13:03,480 --> 00:13:07,260
+des heures et ça fait automatiquement dilater le
+
+232
+00:13:07,260 --> 00:13:07,820
+ventricule.
+
+233
+00:13:09,540 --> 00:13:11,580
+Et si le ventricule est dilaté pendant plusieurs
+
+234
+00:13:11,580 --> 00:13:14,240
+heures, plusieurs jours, etc., il finit par s
+
+235
+00:13:14,240 --> 00:13:16,260
+'habituer à cette dilatation et il reste dilaté.
+
+236
+00:13:16,820 --> 00:13:20,520
+Un des signes pratiquement sûr et certain que
+
+237
+00:13:20,520 --> 00:13:26,600
+l'entraînement est intense et efficace chez les
+
+238
+00:13:26,600 --> 00:13:28,000
+sportifs, c'est quand on voit que leur
+
+239
+00:13:28,000 --> 00:13:28,940
+cœur s'est dilaté.
+
+240
+00:13:29,360 --> 00:13:30,100
+Est-ce que c'est bon ?
+
+241
+00:13:30,100 --> 00:13:31,560
+Bien sûr, c'est une bonne chose puisque
+
+242
+00:13:31,560 --> 00:13:34,300
+le ventricule, en se dilatant, il va se
+
+243
+00:13:34,300 --> 00:13:34,960
+remplir mieux.
+
+244
+00:13:34,960 --> 00:13:36,880
+Et comme hier, je vous ai donné l
+
+245
+00:13:36,880 --> 00:13:39,840
+'exemple d'un sujet normal, en moyenne, il
+
+246
+00:13:39,840 --> 00:13:46,300
+a 120 millilitres de remplissage chez un sportif.
+
+247
+00:13:46,460 --> 00:13:48,040
+Ça peut atteindre même les 200.
+
+248
+00:13:48,760 --> 00:13:50,680
+Il peut passer de 120 millilitres à 200.
+
+249
+00:13:51,920 --> 00:13:55,260
+Et du coup, quel est le résultat ?
+
+250
+00:13:55,260 --> 00:13:57,080
+C'est que pour un sujet sédentaire qui
+
+251
+00:13:57,080 --> 00:13:59,360
+ne fait pas de sport, pour assurer un
+
+252
+00:13:59,360 --> 00:14:04,980
+débit cardiaque aux alentours de 5 litres par
+
+253
+00:14:04,980 --> 00:14:12,620
+minute, il va falloir, pour un volume éjecté
+
+254
+00:14:12,620 --> 00:14:16,000
+en passant de 120 et en éjectant 70
+
+255
+00:14:16,000 --> 00:14:19,700
+millilitres et en garde 50, s'il a
+
+256
+00:14:19,700 --> 00:14:29,320
+un volume éjecté à 70, pour avoir 5
+
+257
+00:14:29,320 --> 00:14:32,260
+litres, il va avoir besoin d'une fréquence
+
+258
+00:14:32,260 --> 00:14:33,240
+cardiaque à 70.
+
+259
+00:14:39,140 --> 00:14:41,980
+Pour un sportif, il a un volume de
+
+260
+00:14:41,980 --> 00:14:42,840
+remplissage à 200.
+
+261
+00:14:42,980 --> 00:14:45,380
+Il devra éjecter plus, c'est-à-dire
+
+262
+00:14:45,380 --> 00:14:49,100
+aux alentours de 150 pour garder 50.
+
+263
+00:14:49,920 --> 00:14:52,840
+Et donc, s'il éjecte 150, il aura
+
+264
+00:14:52,840 --> 00:14:55,300
+besoin d'une fréquence cardiaque grand maximum de
+
+265
+00:14:55,300 --> 00:14:55,740
+40.
+
+266
+00:14:56,040 --> 00:14:58,600
+40 fois 15, ça fait même 6 litres.
+
+267
+00:14:58,900 --> 00:15:01,280
+Il aura même besoin de moins de 40.
+
+268
+00:15:01,280 --> 00:15:03,540
+Ça lui fera 6 litres par minute.
+
+269
+00:15:04,480 --> 00:15:08,280
+Vous voyez, l'avantage de l'entraînement physique,
+
+270
+00:15:08,480 --> 00:15:11,380
+c'est qu'en améliorant la précharge et
+
+271
+00:15:11,380 --> 00:15:16,740
+en créant une sorte de dilatation modérée, j
+
+272
+00:15:16,740 --> 00:15:19,080
+'insiste sur la dilatation modérée du ventricule gauche,
+
+273
+00:15:19,800 --> 00:15:21,760
+les sportifs n'ont pas besoin d'avoir
+
+274
+00:15:21,760 --> 00:15:31,180
+une fréquence cardiaque.
+
+275
+00:15:31,820 --> 00:15:36,540
+Ça, c'est une des conclusions qu'on
+
+276
+00:15:36,540 --> 00:15:39,320
+peut tirer de cette histoire de retour veineux.
+
+277
+00:15:41,200 --> 00:15:44,220
+Aussi, on peut tirer une autre conclusion, c
+
+278
+00:15:44,220 --> 00:15:46,480
+'est que quand quelqu'un fait un malaise
+
+279
+00:15:46,480 --> 00:15:48,900
+et que son débit cardiaque diminue juste parce
+
+280
+00:15:48,900 --> 00:15:50,480
+que le retour veineux n'était pas bon,
+
+281
+00:15:51,220 --> 00:15:54,900
+imaginez que les veines, étant donné qu'ils
+
+282
+00:15:54,900 --> 00:16:01,120
+ont une compliance ou une capacitance importante, pour
+
+283
+00:16:01,120 --> 00:16:03,640
+des raisons pathologiques, ils peuvent se dilater.
+
+284
+00:16:03,800 --> 00:16:05,660
+Et quand ils se dilatent, ils vont stocker
+
+285
+00:16:05,660 --> 00:16:08,840
+le sang et il y aura moins de
+
+286
+00:16:08,840 --> 00:16:09,500
+retour veineux.
+
+287
+00:16:10,200 --> 00:16:11,280
+Je ne veux pas dire qu'il y
+
+288
+00:16:11,280 --> 00:16:13,940
+aura un retour, mais il y aura plutôt…
+
+289
+00:16:13,940 --> 00:16:15,720
+Voilà, je vais le mettre comme ça, en
+
+290
+00:16:15,720 --> 00:16:17,180
+pointillé.
+
+291
+00:16:20,140 --> 00:16:20,960
+Je regarde.
+
+292
+00:16:28,240 --> 00:16:29,420
+Vous m'entendez toujours ?
+
+293
+00:16:29,420 --> 00:16:30,320
+Parce qu'il y a beaucoup de gens
+
+294
+00:16:30,320 --> 00:16:35,960
+qui m'écrivent au micro, vous parlez de…
+
+295
+00:16:47,570 --> 00:16:49,250
+OK, Macron me dit qu'il m'entend.
+
+296
+00:16:49,330 --> 00:16:55,370
+Les autres, vous ne m'entendez pas ?
+
+297
+00:16:59,440 --> 00:17:00,820
+Oui, ça veut dire que vous m'entendez.
+
+298
+00:17:01,120 --> 00:17:01,520
+Très bien.
+
+299
+00:17:01,520 --> 00:17:04,180
+OK, je continue.
+
+300
+00:17:07,119 --> 00:17:11,819
+Donc, je disais que pour certaines situations, les
+
+301
+00:17:11,819 --> 00:17:14,260
+veines peuvent se dilater et donc stocker du
+
+302
+00:17:14,260 --> 00:17:15,579
+sang et il y aura, je l'ai
+
+303
+00:17:15,579 --> 00:17:18,480
+mis en pointillé, moins de retour veineux.
+
+304
+00:17:21,490 --> 00:17:23,750
+Dans ce cas-là, une des solutions simples,
+
+305
+00:17:24,010 --> 00:17:25,589
+c'est les gens qui font ça, on
+
+306
+00:17:25,589 --> 00:17:27,190
+dit qu'ils ont fait un malaise vagal.
+
+307
+00:17:27,190 --> 00:17:31,170
+Une des solutions, c'est de les allonger.
+
+308
+00:17:31,330 --> 00:17:33,870
+Je prends quelqu'un comme ça, le dessine,
+
+309
+00:17:34,710 --> 00:17:37,770
+et allonger par terre et surélever les membres
+
+310
+00:17:37,770 --> 00:17:38,250
+inférieurs.
+
+311
+00:17:38,390 --> 00:17:39,850
+Alors, le fait de les surélever sert à
+
+312
+00:17:39,850 --> 00:17:41,070
+quoi ?
+
+313
+00:17:41,070 --> 00:17:45,270
+Sert à lutter contre la loi de la
+
+314
+00:17:45,270 --> 00:17:47,790
+gravité et d'améliorer le retour veineux en
+
+315
+00:17:47,790 --> 00:17:48,930
+surélevant les membres inférieurs.
+
+316
+00:17:48,930 --> 00:17:50,930
+Et le fait de l'améliorer, vous allez
+
+317
+00:17:50,930 --> 00:17:52,550
+avoir un meilleur retour veineux.
+
+318
+00:17:53,330 --> 00:17:55,950
+Le sang qui est stocké aux membres inférieurs
+
+319
+00:17:55,950 --> 00:17:59,390
+va pouvoir couler plus facilement vers la veine
+
+320
+00:17:59,390 --> 00:18:00,590
+cave et vers l'oreillette droite.
+
+321
+00:18:00,770 --> 00:18:03,490
+Et donc, la pression artérielle va remonter puisque
+
+322
+00:18:03,490 --> 00:18:05,070
+le débit cardiaque va augmenter.
+
+323
+00:18:05,490 --> 00:18:07,230
+Une des autres conclusions.
+
+324
+00:18:08,310 --> 00:18:10,950
+Pour la pompe musculaire, je pense qu'on
+
+325
+00:18:10,950 --> 00:18:13,210
+l'a vu correctement.
+
+326
+00:18:14,050 --> 00:18:16,670
+Le deuxième déterminant, qu'est-ce qui peut
+
+327
+00:18:16,670 --> 00:18:18,990
+aider autre à ce que le retour veineux
+
+328
+00:18:18,990 --> 00:18:20,630
+soit correct ?
+
+329
+00:18:20,630 --> 00:18:23,650
+On arrive à l'étage abdominal.
+
+330
+00:18:24,070 --> 00:18:26,050
+Et puis, on verra pour l'étage au
+
+331
+00:18:26,050 --> 00:18:32,370
+-dessus, qui est l'étage thoracique.
+
+332
+00:18:32,810 --> 00:18:38,690
+À l'étage abdominal, on peut améliorer le
+
+333
+00:18:38,690 --> 00:18:41,530
+retour veineux par un jeu de pression.
+
+334
+00:18:41,530 --> 00:18:47,150
+En fait, quand on fait une inspiration, ce
+
+335
+00:18:47,150 --> 00:18:49,330
+qu'il se passe, c'est que la
+
+336
+00:18:49,330 --> 00:18:59,270
+pression abdominale va devoir augmenter alors que la
+
+337
+00:18:59,270 --> 00:19:04,950
+pression thoracique diminue.
+
+338
+00:19:04,950 --> 00:19:06,170
+Pourquoi elle diminue ?
+
+339
+00:19:06,170 --> 00:19:10,290
+Le thorax prend une amplitude, on dit une
+
+340
+00:19:10,290 --> 00:19:12,950
+ampliation plus importante.
+
+341
+00:19:13,970 --> 00:19:17,330
+Et dans ce cas-là, les poumons trouvent
+
+342
+00:19:17,330 --> 00:19:20,290
+de la place et vont se remplir plus
+
+343
+00:19:20,290 --> 00:19:20,830
+facilement.
+
+344
+00:19:22,150 --> 00:19:23,870
+On le verra pour le cœur.
+
+345
+00:19:23,990 --> 00:19:27,850
+En tout cas, le fait d'inspirer fait
+
+346
+00:19:27,850 --> 00:19:30,110
+baisser la pression en intra-thoracique, ce qui
+
+347
+00:19:30,110 --> 00:19:33,470
+laisse les poumons s'expandre sans problème pour
+
+348
+00:19:33,470 --> 00:19:34,890
+recevoir de l'air.
+
+349
+00:19:35,930 --> 00:19:37,790
+L'inverse se fait au niveau de l
+
+350
+00:19:37,790 --> 00:19:41,350
+'abdomen, puisque la même inspiration va pousser le
+
+351
+00:19:41,350 --> 00:19:42,350
+diaphragme en bas.
+
+352
+00:19:42,350 --> 00:19:45,770
+Quand elle le pousse en bas, comme si
+
+353
+00:19:45,770 --> 00:19:49,390
+on rétrécit la cavité abdominale, ça va entraîner
+
+354
+00:19:49,390 --> 00:19:51,770
+une légère augmentation de la pression.
+
+355
+00:19:53,630 --> 00:19:57,150
+Cette augmentation de la pression va retentir sur
+
+356
+00:19:57,150 --> 00:20:01,770
+les organes malléables qui sont compressibles.
+
+357
+00:20:02,770 --> 00:20:05,510
+Un des organes, bien sûr, c'est la
+
+358
+00:20:05,510 --> 00:20:07,890
+veine, notamment la veine cave.
+
+359
+00:20:07,950 --> 00:20:09,050
+La veine cave, dans ce cas-là, qu
+
+360
+00:20:09,050 --> 00:20:12,110
+'est-ce qu'elle va subir si on
+
+361
+00:20:12,110 --> 00:20:14,550
+la coupe en transverse ?
+
+362
+00:20:14,550 --> 00:20:16,430
+Je prends toujours le bleu.
+
+363
+00:20:17,450 --> 00:20:19,290
+Si je la coupe comme ça en transverse,
+
+364
+00:20:21,620 --> 00:20:27,610
+la veine cave va être en expiration comme
+
+365
+00:20:27,610 --> 00:20:27,830
+ça.
+
+366
+00:20:27,830 --> 00:20:31,370
+Au moment de l'inspiration, dès qu'on
+
+367
+00:20:31,370 --> 00:20:40,510
+fait une inspiration, ce qu'on va voir,
+
+368
+00:20:41,130 --> 00:20:44,230
+c'est que la veine va se collaber.
+
+369
+00:20:44,570 --> 00:20:47,030
+En fait, elle a subi une compression de
+
+370
+00:20:47,030 --> 00:20:49,430
+l'extérieur, de l'intérieur de l'abdomen,
+
+371
+00:20:50,230 --> 00:20:53,010
+une compression qui s'exerce et la veine
+
+372
+00:20:53,010 --> 00:20:53,550
+va se collaber.
+
+373
+00:20:53,550 --> 00:20:59,610
+Comme la veine a des valvules dedans, le
+
+374
+00:20:59,610 --> 00:21:05,790
+sang sera obligé de couler, de circuler plus
+
+375
+00:21:05,790 --> 00:21:10,170
+vite en direction de l'oreillette droite.
+
+376
+00:21:10,550 --> 00:21:13,330
+Ce qui favorise tout ça encore, c'est
+
+377
+00:21:13,330 --> 00:21:15,650
+le fait qu'en intra-abdominal, au moment
+
+378
+00:21:15,650 --> 00:21:17,190
+de l'inspiration, il y a une compression
+
+379
+00:21:17,190 --> 00:21:21,070
+de la veine cave, mais en même temps,
+
+380
+00:21:21,610 --> 00:21:24,670
+en intra-thoracique, la pression a chuté.
+
+381
+00:21:25,130 --> 00:21:26,450
+Et comme elle a chuté, c'est comme
+
+382
+00:21:26,450 --> 00:21:29,750
+l'effet Venturi, ça crée une sorte d
+
+383
+00:21:29,750 --> 00:21:30,790
+'aspiration.
+
+384
+00:21:32,130 --> 00:21:35,810
+La pression baisse, a tendance plutôt à se
+
+385
+00:21:35,810 --> 00:21:38,830
+dilater et en bas, elle est comprimée, en
+
+386
+00:21:38,830 --> 00:21:40,410
+dessous du diaphragme, elle est comprimée.
+
+387
+00:21:40,830 --> 00:21:42,610
+Et donc, ça laisse de la place pour
+
+388
+00:21:42,610 --> 00:21:45,130
+le sang pour qu'il remonte plus facilement
+
+389
+00:21:45,130 --> 00:21:47,150
+et rentre plus facilement dans l'oreillette droite.
+
+390
+00:21:48,390 --> 00:21:53,270
+Ainsi, vous aurez une courbe disant, si on
+
+391
+00:21:53,270 --> 00:21:57,250
+suit par exemple la courbe qui reflète le
+
+392
+00:21:57,250 --> 00:22:00,970
+flux sanguin dans l'oreillette droite, on aura
+
+393
+00:22:00,970 --> 00:22:05,050
+par exemple un remplissage, au moment du remplissage,
+
+394
+00:22:05,210 --> 00:22:08,130
+il y a un flux de sang à
+
+395
+00:22:08,130 --> 00:22:10,310
+l'intérieur, donc il va dans le sens
+
+396
+00:22:10,310 --> 00:22:12,250
+de l'oreillette droite, il rentre, donc on
+
+397
+00:22:12,250 --> 00:22:13,230
+le met en positif.
+
+398
+00:22:15,630 --> 00:22:18,770
+Après, au cours de la contraction auriculaire, rappelez
+
+399
+00:22:18,770 --> 00:22:20,410
+-vous hier ce que j'ai dit, au
+
+400
+00:22:20,410 --> 00:22:23,010
+cours de la contraction de l'oreillette, qu
+
+401
+00:22:23,010 --> 00:22:24,530
+'est-ce qu'il se passe, au cours
+
+402
+00:22:24,530 --> 00:22:26,210
+de la contraction de l'oreillette, il y
+
+403
+00:22:26,210 --> 00:22:29,070
+a un passage de sang dans le ventricule
+
+404
+00:22:29,070 --> 00:22:31,110
+droit, mais aussi un petit reflux dans les
+
+405
+00:22:31,110 --> 00:22:32,570
+veines, dans les veines caves ou les veines
+
+406
+00:22:32,570 --> 00:22:34,630
+pulmonaires, donc on a un petit reflux comme
+
+407
+00:22:34,630 --> 00:22:38,610
+ça, et après il y a une phase
+
+408
+00:22:38,610 --> 00:22:42,910
+de remplissage, au moment de la systole, un
+
+409
+00:22:42,910 --> 00:22:43,930
+autre remplissage, etc.
+
+410
+00:22:45,310 --> 00:22:47,090
+Quand il y a une inspiration, ce qui
+
+411
+00:22:47,090 --> 00:22:48,890
+arrive c'est que le flux qui est
+
+412
+00:22:48,890 --> 00:22:55,960
+rempli va être plus important, et quand il
+
+413
+00:22:55,960 --> 00:23:00,840
+y a une expiration, il diminue, il revient
+
+414
+00:23:00,840 --> 00:23:01,900
+au moins à la normale.
+
+415
+00:23:01,900 --> 00:23:03,840
+C'est ce qu'on appelle les variations
+
+416
+00:23:03,840 --> 00:23:07,680
+respiratoires du flux dans la veine cave.
+
+417
+00:23:07,760 --> 00:23:10,040
+Les variations respiratoires dans le flux dans la
+
+418
+00:23:10,040 --> 00:23:11,380
+veine cave, c'est des variations tout à
+
+419
+00:23:11,380 --> 00:23:16,700
+fait physiologiques, dans le sens où le flux
+
+420
+00:23:16,700 --> 00:23:19,260
+dans la veine cave augmente à l'inspiration
+
+421
+00:23:19,260 --> 00:23:21,600
+et bien sûr revient à la normale à
+
+422
+00:23:21,600 --> 00:23:22,240
+l'expiration.
+
+423
+00:23:22,500 --> 00:23:26,980
+Et donc, cette augmentation à chaque inspiration améliore
+
+424
+00:23:26,980 --> 00:23:27,820
+le retour veineux.
+
+425
+00:23:27,820 --> 00:23:28,460
+C'est pour ça qu'on l'a
+
+426
+00:23:28,460 --> 00:23:32,360
+mis parmi les déterminants, le deuxième déterminant du
+
+427
+00:23:32,360 --> 00:23:32,880
+retour veineux.
+
+428
+00:23:33,000 --> 00:23:35,840
+Quelle est une des applications cliniques de cette
+
+429
+00:23:35,840 --> 00:23:36,280
+notion ?
+
+430
+00:23:36,280 --> 00:23:38,700
+Elle est très simple, c'est que si
+
+431
+00:23:38,700 --> 00:23:42,480
+par exemple une femme enceinte, au troisième trimestre,
+
+432
+00:23:42,660 --> 00:23:44,680
+et à cause de l'utérus gravide qui
+
+433
+00:23:44,680 --> 00:23:46,460
+est beaucoup plus gros, etc.
+
+434
+00:23:47,260 --> 00:23:48,660
+Qu'est-ce qu'on aura si la
+
+435
+00:23:48,660 --> 00:23:51,260
+femme enceinte dort sur le côté droit ?
+
+436
+00:23:51,260 --> 00:23:59,420
+Il arrive des fois que cet utérus gravide
+
+437
+00:23:59,420 --> 00:24:04,260
+va sur le côté droit, va basculer du
+
+438
+00:24:04,260 --> 00:24:07,100
+côté droit bien sûr, et il va comprimer
+
+439
+00:24:07,100 --> 00:24:07,720
+la veine cave.
+
+440
+00:24:07,880 --> 00:24:08,880
+Pourquoi la veine cave ?
+
+441
+00:24:08,880 --> 00:24:10,440
+Parce qu'on sait anatomiquement que la veine
+
+442
+00:24:10,440 --> 00:24:13,980
+cave remonte la chemine à droite de la
+
+443
+00:24:13,980 --> 00:24:14,280
+horte.
+
+444
+00:24:14,620 --> 00:24:17,940
+Donc elle est plutôt sur le versant droit
+
+445
+00:24:17,940 --> 00:24:19,240
+de la colonne vertébrale.
+
+446
+00:24:19,240 --> 00:24:22,500
+Donc elle est facilement compressible par un utérus
+
+447
+00:24:22,500 --> 00:24:26,040
+gravide gros, important, lourd, etc.
+
+448
+00:24:26,840 --> 00:24:31,380
+Cette compression peut être tellement importante qu'elle
+
+449
+00:24:31,380 --> 00:24:35,760
+va supprimer bien sûr cet effet inspiratoire, effet
+
+450
+00:24:35,760 --> 00:24:39,000
+d'amélioration du flux dans la veine cave
+
+451
+00:24:39,000 --> 00:24:41,940
+au moment de l'inspiration, voire même elle
+
+452
+00:24:41,940 --> 00:24:45,360
+va diminuer le flux dans la veine cave.
+
+453
+00:24:45,360 --> 00:24:48,240
+Ceci entraîne une chute du retour veineux et
+
+454
+00:24:48,240 --> 00:24:51,740
+une diminution du débit cardiaque.
+
+455
+00:24:52,060 --> 00:24:56,320
+La femme enceinte se sent gênée, essoufflée.
+
+456
+00:24:58,280 --> 00:25:00,380
+Une fois, on lui conseille de changer la
+
+457
+00:25:00,380 --> 00:25:02,120
+position, de ne plus dormir sur le côté
+
+458
+00:25:02,120 --> 00:25:04,560
+droit, mais plutôt sur le côté gauche.
+
+459
+00:25:04,920 --> 00:25:06,240
+On voit que l'utérus va basculer du
+
+460
+00:25:06,240 --> 00:25:08,220
+côté gauche, va libérer la veine cave, et
+
+461
+00:25:08,220 --> 00:25:09,740
+la veine cave va continuer à avoir un
+
+462
+00:25:09,740 --> 00:25:14,140
+reflux, un flux normal et donc un retour
+
+463
+00:25:14,140 --> 00:25:14,980
+veineux tout à fait normal.
+
+464
+00:25:15,860 --> 00:25:19,640
+Le troisième déterminant, c'est qu'on va
+
+465
+00:25:19,640 --> 00:25:23,420
+voir, pratiquement on a vu deux à la
+
+466
+00:25:23,420 --> 00:25:26,100
+fois dans l'inspiration, la pression abdominale et
+
+467
+00:25:26,100 --> 00:25:27,160
+la pression thoracique.
+
+468
+00:25:28,420 --> 00:25:33,320
+Si on reprend notre diapo, elle résume tout
+
+469
+00:25:33,320 --> 00:25:34,280
+ce que je viens de dire.
+
+470
+00:25:34,280 --> 00:25:41,200
+Quand vous voyez le musculstrié, vous avez, je
+
+471
+00:25:41,200 --> 00:25:45,000
+prends le pointeur, le musculstrié c'est mentionné
+
+472
+00:25:45,000 --> 00:25:49,880
+ici pour faire allusion à la pompe musculaire.
+
+473
+00:25:51,260 --> 00:25:54,580
+Deuxièmement, il y a la pression abdominale ici,
+
+474
+00:25:54,960 --> 00:25:57,180
+et puis la pression intra-thoracique bien sûr
+
+475
+00:25:57,180 --> 00:25:57,780
+qui va avec.
+
+476
+00:25:57,780 --> 00:26:01,780
+Il y a un autre élément, un autre
+
+477
+00:26:01,780 --> 00:26:12,400
+élément important qui se passe, le
+
+478
+00:26:12,400 --> 00:26:13,960
+powerpoint est en train de fermer, je ne
+
+479
+00:26:13,960 --> 00:26:14,520
+sais pas pourquoi.
+
+480
+00:26:17,740 --> 00:26:18,640
+Il m'a bloqué.
+
+481
+00:26:25,070 --> 00:26:27,010
+Je disais, l'autre élément qu'on peut
+
+482
+00:26:27,010 --> 00:26:31,820
+rajouter, qui était sur le schéma, vous l
+
+483
+00:26:31,820 --> 00:26:33,160
+'avez vu, c'est les veines splanchniques.
+
+484
+00:26:33,260 --> 00:26:35,260
+Pourquoi j'ai mis les veines splanchniques ?
+
+485
+00:26:35,260 --> 00:26:35,960
+Parce qu'en fait il y a la
+
+486
+00:26:35,960 --> 00:26:37,300
+notion de redistribution.
+
+487
+00:26:37,300 --> 00:26:44,360
+Alors là, je la rajoute, la redistribution du
+
+488
+00:26:47,840 --> 00:26:55,250
+flux sanguin en fonction des besoins.
+
+489
+00:26:55,830 --> 00:26:56,830
+Je m'explique.
+
+490
+00:26:57,490 --> 00:27:01,430
+Les veines splanchniques, ils peuvent subir une vasoconstriction
+
+491
+00:27:01,430 --> 00:27:03,830
+comme ils peuvent subir une vasodilatation en fonction
+
+492
+00:27:03,830 --> 00:27:04,250
+des besoins.
+
+493
+00:27:04,370 --> 00:27:07,390
+Vous savez, au moment de la digestion, durant
+
+494
+00:27:07,390 --> 00:27:10,390
+la phase juste en postprandiale, après avoir mangé,
+
+495
+00:27:10,510 --> 00:27:12,250
+il y a une phase digestive qui est
+
+496
+00:27:12,250 --> 00:27:14,690
+certainement suivie d'une phase d'absorption et
+
+497
+00:27:14,690 --> 00:27:16,070
+qui nécessite qu'il y ait un flux
+
+498
+00:27:16,070 --> 00:27:20,510
+sanguin suffisamment important dans les veines splanchniques, dans
+
+499
+00:27:20,510 --> 00:27:21,850
+les veines mésentériques, etc.
+
+500
+00:27:22,110 --> 00:27:27,350
+pour assurer cette phase d'absorption intestinale.
+
+501
+00:27:27,350 --> 00:27:29,910
+Pour ceci, il y a, comme on dit,
+
+502
+00:27:30,130 --> 00:27:33,370
+une priorisation du flux sanguin.
+
+503
+00:27:33,630 --> 00:27:38,890
+Le débit sanguin intestinal est priorisé par rapport
+
+504
+00:27:38,890 --> 00:27:40,710
+aux autres organes, par rapport aux organes qui
+
+505
+00:27:40,710 --> 00:27:43,670
+peuvent bien sûr supporter qu'il soit privé,
+
+506
+00:27:43,790 --> 00:27:50,210
+notamment les muscles, la peau, les os, etc.
+
+507
+00:27:51,030 --> 00:27:53,770
+Tout en sachant que le débit sanguin cérébral,
+
+508
+00:27:53,930 --> 00:27:55,430
+là, on doit absolument le préserver.
+
+509
+00:27:58,370 --> 00:28:00,850
+Cette redistribution se fait par un phénomène de
+
+510
+00:28:00,850 --> 00:28:04,130
+vasodilatation, vasodilatation des veines splanchniques, des veines
+
+511
+00:28:04,130 --> 00:28:04,890
+mésentériques.
+
+512
+00:28:05,530 --> 00:28:08,290
+Qui dit vasodilatation, dit que le sang va
+
+513
+00:28:08,290 --> 00:28:11,670
+devoir être plus ou moins stocké, comme ce
+
+514
+00:28:11,670 --> 00:28:14,110
+qu'on a vu dans les membres inférieurs,
+
+515
+00:28:14,670 --> 00:28:19,510
+il va être stocké dans le territoire splanchnique,
+
+516
+00:28:20,090 --> 00:28:22,330
+et donc le retour veineux risque de subir
+
+517
+00:28:22,330 --> 00:28:26,550
+une baisse, une diminution, une légère diminution du
+
+518
+00:28:26,550 --> 00:28:29,450
+retour veineux, qui va se faire sentir par
+
+519
+00:28:29,450 --> 00:28:32,110
+une diminution du débit cardiaque, et probablement même
+
+520
+00:28:32,110 --> 00:28:36,530
+une légère diminution du flux ou du débit
+
+521
+00:28:36,530 --> 00:28:37,530
+sanguin cérébral.
+
+522
+00:28:38,010 --> 00:28:41,410
+Raison pour laquelle, en postprandiale, après avoir mangé,
+
+523
+00:28:41,510 --> 00:28:44,810
+notamment après un repas copieux, on sent une
+
+524
+00:28:44,810 --> 00:28:48,910
+certaine somnolence, on se sent qu'on a
+
+525
+00:28:48,910 --> 00:28:51,170
+envie de dormir, etc., on n'est pas
+
+526
+00:28:51,170 --> 00:28:52,010
+très concentré.
+
+527
+00:28:52,010 --> 00:28:53,770
+Tout ça parce qu'il y a ce
+
+528
+00:28:53,770 --> 00:28:58,170
+phénomène de redistribution, on a privilégié le territoire
+
+529
+00:28:58,170 --> 00:28:59,390
+splanchnique par rapport aux autres.
+
+530
+00:29:00,590 --> 00:29:04,250
+Une fois la phase postprandiale passe, une demi
+
+531
+00:29:04,250 --> 00:29:07,550
+-heure, une heure après, ce phénomène disparaît, il
+
+532
+00:29:07,550 --> 00:29:13,150
+y a une vasoconstriction veineuse, et le retour
+
+533
+00:29:13,150 --> 00:29:15,730
+veineux s'améliore, et la personne ressent qu
+
+534
+00:29:15,730 --> 00:29:19,470
+'elle a repris une certaine vigilance, elle n
+
+535
+00:29:19,470 --> 00:29:20,950
+'est plus sans somnolence, etc.
+
+536
+00:29:20,950 --> 00:29:23,290
+Donc ça vous aide à comprendre ça.
+
+537
+00:29:26,330 --> 00:29:28,090
+Un dernier point, mais je ne vais pas
+
+538
+00:29:28,090 --> 00:29:30,650
+le développer, il est relié à la pression
+
+539
+00:29:30,650 --> 00:29:31,370
+péricardique.
+
+540
+00:29:31,610 --> 00:29:33,350
+Vous le voyez peut-être dans les diapos
+
+541
+00:29:33,350 --> 00:29:37,090
+dans le cours, le rôle de la pression
+
+542
+00:29:37,090 --> 00:29:37,830
+péricardique.
+
+543
+00:29:37,970 --> 00:29:40,050
+Sachez que, de façon simple, je ne vais
+
+544
+00:29:40,050 --> 00:29:42,230
+pas le développer, je prends quand même un
+
+545
+00:29:42,230 --> 00:29:45,170
+écran, un nouveau écran.
+
+546
+00:29:47,510 --> 00:29:55,780
+Le cœur dessiné comme ça, de façon simple,
+
+547
+00:29:56,340 --> 00:29:58,020
+vous savez qu'il est entouré d'un
+
+548
+00:29:58,020 --> 00:30:06,090
+péricarde qui est là, et ce péricarde peut
+
+549
+00:30:06,090 --> 00:30:09,110
+jouer un rôle aussi dans le retour veineux,
+
+550
+00:30:09,250 --> 00:30:10,990
+ou grosso modo dans le remplissage.
+
+551
+00:30:11,770 --> 00:30:15,510
+Normalement, le péricarde est tout à fait presque
+
+552
+00:30:15,510 --> 00:30:17,550
+collé, donc ça c'est un dessin qui
+
+553
+00:30:17,550 --> 00:30:21,250
+n'est pas juste, puisque le péricarde, normalement,
+
+554
+00:30:21,450 --> 00:30:25,880
+il est pratiquement presque collé.
+
+555
+00:30:26,360 --> 00:30:29,760
+Il se comporte de deux feuillets viscéral et
+
+556
+00:30:29,760 --> 00:30:34,220
+pariétal, mais les deux feuillets viscéral et pariétal,
+
+557
+00:30:34,840 --> 00:30:37,060
+il n'y a pratiquement aucun espace entre
+
+558
+00:30:37,060 --> 00:30:37,400
+les deux.
+
+559
+00:30:37,620 --> 00:30:39,600
+Là j'ai exagéré, j'ai mis un
+
+560
+00:30:39,600 --> 00:30:41,680
+espace, mais pratiquement il y a un petit
+
+561
+00:30:41,680 --> 00:30:44,820
+film virtuel, tel point que les deux sont
+
+562
+00:30:44,820 --> 00:30:46,240
+presque l'un sur l'autre.
+
+563
+00:30:46,240 --> 00:30:52,980
+Mais si, de façon pathologique, on voit qu
+
+564
+00:30:54,290 --> 00:30:58,070
+'un liquide s'est développé à l'intérieur
+
+565
+00:30:58,070 --> 00:31:01,990
+du péricarde, par exemple, si je dessine comme
+
+566
+00:31:01,990 --> 00:31:09,160
+ça, s'il y a du liquide, ce
+
+567
+00:31:09,160 --> 00:31:15,200
+liquide va exercer une sorte de pression, une
+
+568
+00:31:15,200 --> 00:31:20,180
+pression, certainement, donc plutôt que de la dessiner
+
+569
+00:31:20,180 --> 00:31:24,430
+à l'extérieur, il fallait que je la
+
+570
+00:31:24,430 --> 00:31:25,270
+mette à l'intérieur.
+
+571
+00:31:26,110 --> 00:31:28,030
+Il y a du liquide, et le liquide
+
+572
+00:31:28,030 --> 00:31:31,790
+va comprimer le cœur, et donc vous aurez
+
+573
+00:31:31,790 --> 00:31:34,210
+plutôt une pression.
+
+574
+00:31:36,830 --> 00:31:40,370
+Et qui va être comprimé plus que l
+
+575
+00:31:40,370 --> 00:31:42,170
+'autre, est-ce que c'est le ventricule
+
+576
+00:31:42,170 --> 00:31:44,450
+gauche ou le ventricule droit ?
+
+577
+00:31:44,450 --> 00:31:46,630
+Vous savez que le régime de pression entre
+
+578
+00:31:46,630 --> 00:31:48,030
+le ventricule gauche et le ventricule droit sont
+
+579
+00:31:48,030 --> 00:31:48,450
+différents.
+
+580
+00:31:49,110 --> 00:31:51,210
+La pression dans le ventricule gauche peut atteindre
+
+581
+00:31:51,210 --> 00:31:53,710
+120 mmHg, voire plus, alors que dans le
+
+582
+00:31:53,710 --> 00:31:55,550
+ventricule droit c'est aux alentours de 25
+
+583
+00:31:55,550 --> 00:31:56,610
+mmHg.
+
+584
+00:31:57,750 --> 00:32:01,270
+Du coup, celui qui va subir en premier
+
+585
+00:32:01,270 --> 00:32:05,790
+la compression sera le ventricule gauche, parce qu
+
+586
+00:32:05,790 --> 00:32:09,710
+'il est facilement compressible, et une fois il
+
+587
+00:32:09,710 --> 00:32:16,750
+est comprimé, et notamment en diastole, même en
+
+588
+00:32:16,750 --> 00:32:18,730
+diastole il sera comprimé, et qu'est-ce
+
+589
+00:32:18,730 --> 00:32:19,970
+qui arrive ?
+
+590
+00:32:19,970 --> 00:32:25,850
+S'il est comprimé, le retour veineux, le
+
+591
+00:32:25,850 --> 00:32:28,730
+remplissage de ce ventricule va trouver des difficultés.
+
+592
+00:32:29,150 --> 00:32:31,130
+Donc il ne va pas réussir à remplir
+
+593
+00:32:31,130 --> 00:32:32,930
+un ventricule, et du coup qu'est-ce
+
+594
+00:32:32,930 --> 00:32:33,690
+qui arrive ?
+
+595
+00:32:33,690 --> 00:32:38,550
+Le remplissage à cause d'un épanchement, c
+
+596
+00:32:38,550 --> 00:32:41,750
+'est-à-dire présence de liquide, un épanchement
+
+597
+00:32:41,750 --> 00:32:49,670
+pélicardique, peut faire un travail qui va être
+
+598
+00:32:49,670 --> 00:32:53,510
+élevé, il y aura une compression ventricule droite,
+
+599
+00:32:54,210 --> 00:32:56,330
+et qui dit compression ventricule droite, diminution du
+
+600
+00:32:56,330 --> 00:32:59,370
+retour veineux, et donc du remplissage.
+
+601
+00:33:00,050 --> 00:33:02,470
+Et du coup, vous aurez un gros problème,
+
+602
+00:33:03,050 --> 00:33:05,630
+bien sûr, de remplissage, et s'il y
+
+603
+00:33:05,630 --> 00:33:08,190
+a un problème de remplissage, il y aura
+
+604
+00:33:08,190 --> 00:33:10,050
+une diminution du débit cardiaque.
+
+605
+00:33:10,050 --> 00:33:12,410
+Pourquoi le débit cardiaque est diminué dans cette
+
+606
+00:33:12,410 --> 00:33:13,430
+situation ?
+
+607
+00:33:13,430 --> 00:33:17,230
+C'est à cause d'une compression au
+
+608
+00:33:17,230 --> 00:33:19,850
+moment de la diastole, au moment du remplissage.
+
+609
+00:33:20,030 --> 00:33:24,310
+La solution, c'est de prendre une seringue,
+
+610
+00:33:24,310 --> 00:33:28,650
+une seringue comme ça, et d'aspirer le
+
+611
+00:33:28,650 --> 00:33:32,130
+liquide, le liquide avec la seringue, le fait
+
+612
+00:33:32,130 --> 00:33:34,490
+de l'aspirer fait baisser la pression en
+
+613
+00:33:34,490 --> 00:33:38,270
+intra-pélicardique, et si la pression diminue, la
+
+614
+00:33:38,270 --> 00:33:41,670
+compression diminue, le retour veineux s'améliore, et
+
+615
+00:33:41,670 --> 00:33:42,590
+le débit cardiaque remonte.
+
+616
+00:33:43,250 --> 00:33:43,730
+C'est le principe.
+
+617
+00:33:44,010 --> 00:33:47,590
+Un dernier point dans le retour veineux, concerne
+
+618
+00:33:47,590 --> 00:33:48,690
+la notion de la volumie.
+
+619
+00:33:48,910 --> 00:33:50,310
+Je vais la mettre dans une plaque à
+
+620
+00:33:50,310 --> 00:33:50,630
+part.
+
+621
+00:33:51,750 --> 00:33:54,770
+La notion de la volumie est fondamentale, parce
+
+622
+00:33:54,770 --> 00:33:57,510
+que finalement, qui dit retour veineux, dit quantité
+
+623
+00:33:57,510 --> 00:33:59,290
+de sang qui revient vers le cœur, parle
+
+624
+00:33:59,290 --> 00:33:59,910
+de volumie.
+
+625
+00:34:00,490 --> 00:34:01,890
+Volumie, c'est le volume du sang.
+
+626
+00:34:02,610 --> 00:34:06,270
+Généralement, ce qui retourne, correspond exactement à ce
+
+627
+00:34:06,270 --> 00:34:07,909
+qui est éjecté, c'est-à-dire 5
+
+628
+00:34:07,909 --> 00:34:08,690
+litres par minute.
+
+629
+00:34:09,389 --> 00:34:13,130
+Or, la volumie peut être une volumie vraie,
+
+630
+00:34:13,570 --> 00:34:15,570
+c'est-à-dire exactement le contenu du
+
+631
+00:34:15,570 --> 00:34:18,310
+sang qu'il y a dans les veines,
+
+632
+00:34:18,610 --> 00:34:21,590
+ou alors, ça peut être une volumie relative.
+
+633
+00:34:21,710 --> 00:34:23,530
+Ça veut dire quoi relative ?
+
+634
+00:34:23,530 --> 00:34:26,830
+C'est simple, vous prenez un litre, par
+
+635
+00:34:26,830 --> 00:34:29,810
+exemple, de sang, vous le mettez dans un
+
+636
+00:34:29,810 --> 00:34:33,989
+litre de n'importe quelle substance, vous la
+
+637
+00:34:33,989 --> 00:34:36,790
+mettez dans un verre, par exemple, comme ça,
+
+638
+00:34:37,510 --> 00:34:40,469
+si vous gardez la même quantité, et que
+
+639
+00:34:40,469 --> 00:34:43,330
+vous la transvasez dans un verre beaucoup plus
+
+640
+00:34:43,330 --> 00:34:46,250
+grand, le 1 litre va être même pas
+
+641
+00:34:46,250 --> 00:34:46,489
+ici.
+
+642
+00:34:47,070 --> 00:34:51,710
+Donc, de façon proportionnelle, ici, le 1 litre
+
+643
+00:34:51,710 --> 00:34:54,389
+occupe pratiquement 50% du verre.
+
+644
+00:34:54,870 --> 00:34:57,250
+Ici, le 1 litre n'occupe peut-être
+
+645
+00:34:57,250 --> 00:34:59,310
+même pas 5 ou 10% du verre.
+
+646
+00:35:00,530 --> 00:35:01,790
+C'est exactement ce qu'on veut dire
+
+647
+00:35:01,790 --> 00:35:04,910
+par la volumie relative, dans une veine donnée,
+
+648
+00:35:05,150 --> 00:35:06,890
+il y a une quantité de sang, il
+
+649
+00:35:06,890 --> 00:35:08,230
+y a une quantité de sang, des globules
+
+650
+00:35:08,230 --> 00:35:11,510
+rouges, si cette veine vient à se dilater,
+
+651
+00:35:12,130 --> 00:35:14,010
+on va avoir une quantité de sang, mais
+
+652
+00:35:14,010 --> 00:35:15,870
+on a l'impression qu'elle est moindre,
+
+653
+00:35:16,510 --> 00:35:20,090
+que la veine est vide, que la veine
+
+654
+00:35:20,090 --> 00:35:21,250
+s'est dilatée.
+
+655
+00:35:21,850 --> 00:35:24,770
+Du coup, quand elle se dilate, le sang
+
+656
+00:35:24,770 --> 00:35:27,310
+va refluer vers les veines, et il va
+
+657
+00:35:27,310 --> 00:35:27,970
+être stocké.
+
+658
+00:35:28,650 --> 00:35:31,210
+Celui qui retourne vers le cœur va être
+
+659
+00:35:31,210 --> 00:35:31,970
+plus faible.
+
+660
+00:35:32,750 --> 00:35:35,310
+Donc, je peux garder les 5 litres, mais
+
+661
+00:35:35,310 --> 00:35:38,170
+en fait, puisque les veines se sont dilatées
+
+662
+00:35:38,170 --> 00:35:40,390
+pour une raison, par exemple, pathologique, une des
+
+663
+00:35:40,390 --> 00:35:42,770
+raisons, je vous donne un exemple, quand on
+
+664
+00:35:42,770 --> 00:35:47,710
+a une grosse chaleur, certaines personnes réagissent par
+
+665
+00:35:48,750 --> 00:35:55,210
+stimuler leur nerf vague, qui va stimuler certains
+
+666
+00:35:55,210 --> 00:36:00,050
+récepteurs, récepteurs alpha, au niveau des veines périphériques,
+
+667
+00:36:00,050 --> 00:36:01,430
+et ça crée une vasodilatation.
+
+668
+00:36:02,270 --> 00:36:04,210
+Donc, si la veine se dilate, se relâche,
+
+669
+00:36:04,310 --> 00:36:06,370
+se dilate, ça veut dire que la veine
+
+670
+00:36:06,370 --> 00:36:08,310
+va être plus grosse par rapport à du
+
+671
+00:36:08,310 --> 00:36:10,390
+sang qui est moindre.
+
+672
+00:36:10,970 --> 00:36:13,230
+On dit que la volume relative va diminuer.
+
+673
+00:36:14,250 --> 00:36:15,770
+Le malade n'a pas perdu du sang,
+
+674
+00:36:16,310 --> 00:36:17,830
+mais c'est juste que le retour veineux
+
+675
+00:36:17,830 --> 00:36:18,490
+va être plus faible.
+
+676
+00:36:19,110 --> 00:36:21,870
+Le contraire de la situation où, effectivement, ce
+
+677
+00:36:21,870 --> 00:36:25,170
+qui revient vers le cœur est faible, quand
+
+678
+00:36:25,170 --> 00:36:26,770
+on perd du sang, quand on a une
+
+679
+00:36:26,770 --> 00:36:31,270
+hémorragie, notamment quand l'hémorragie est importante, imaginez
+
+680
+00:36:31,270 --> 00:36:33,470
+qu'on perd 500 ou 1 litre de
+
+681
+00:36:33,470 --> 00:36:37,330
+sang, c'est grave parce que le cœur
+
+682
+00:36:37,330 --> 00:36:38,390
+n'a pas le temps de s'adapter,
+
+683
+00:36:38,850 --> 00:36:40,010
+et donc il va falloir que sa volume
+
+684
+00:36:40,010 --> 00:36:43,290
+ivraie a baissé, a nettement baissé, et automatiquement
+
+685
+00:36:43,290 --> 00:36:44,570
+le débit cardiaque va diminuer.
+
+686
+00:36:45,230 --> 00:36:46,890
+Et dans ce cas-là, la solution, quand
+
+687
+00:36:46,890 --> 00:36:49,530
+la volume ivraie diminue, c'est qu'il
+
+688
+00:36:49,530 --> 00:36:51,030
+va falloir améliorer la volume.
+
+689
+00:36:51,590 --> 00:36:54,090
+Si, par exemple, c'est une déshydratation, une
+
+690
+00:36:54,090 --> 00:36:59,450
+perte de liquide, d'eau, etc., il va
+
+691
+00:36:59,450 --> 00:37:00,410
+falloir mettre une perfusion.
+
+692
+00:37:00,950 --> 00:37:02,870
+Même s'il s'agit d'un saignement,
+
+693
+00:37:02,970 --> 00:37:05,090
+d'une hémorragie, en attendant d'avoir du
+
+694
+00:37:05,090 --> 00:37:09,970
+sang pour corriger l'hémorragie, on peut remplir
+
+695
+00:37:09,970 --> 00:37:12,770
+les veines par du sérum salé, et le
+
+696
+00:37:12,770 --> 00:37:15,070
+sérum salé est largement suffisant pour améliorer le
+
+697
+00:37:15,070 --> 00:37:19,090
+retour veineux, et voir que la volume augmente,
+
+698
+00:37:19,190 --> 00:37:20,670
+et donc le retour veineux augmente, et le
+
+699
+00:37:20,670 --> 00:37:21,590
+débit cardiaque s'améliore.
+
+700
+00:37:21,590 --> 00:37:24,490
+Alors que dans la situation de volumie relative,
+
+701
+00:37:25,450 --> 00:37:26,890
+la solution est tout à fait différente.
+
+702
+00:37:27,030 --> 00:37:31,230
+Il faut tout simplement faire en sorte, comme
+
+703
+00:37:31,230 --> 00:37:33,850
+si vous transfasiez la quantité de sang qu
+
+704
+00:37:33,850 --> 00:37:35,930
+'il y avait, d'un grand verre vers
+
+705
+00:37:35,930 --> 00:37:36,650
+un petit verre.
+
+706
+00:37:36,770 --> 00:37:39,230
+Finalement, il faut créer une vasoconstriction.
+
+707
+00:37:40,270 --> 00:37:42,270
+La vasoconstriction va régler le problème.
+
+708
+00:37:42,910 --> 00:37:46,250
+Il va falloir donner des médicaments qui ont
+
+709
+00:37:46,250 --> 00:37:48,690
+une action vasoconstrictrice sur les veines, entre autres,
+
+710
+00:37:48,770 --> 00:37:50,470
+par exemple, l'adrénaline.
+
+711
+00:37:50,910 --> 00:37:55,250
+Elle va régler le problème, et le malade
+
+712
+00:37:55,250 --> 00:37:56,610
+va s'en sortir.
+
+713
+00:38:01,320 --> 00:38:03,060
+Alors, tout ce qu'il y a à
+
+714
+00:38:03,060 --> 00:38:04,580
+dire sur le retour veineux, je l'ai
+
+715
+00:38:04,580 --> 00:38:05,160
+terminé.
+
+716
+00:38:06,620 --> 00:38:08,040
+Je ne sais pas si le sang est
+
+717
+00:38:08,040 --> 00:38:08,560
+actif ou non.
+
+718
+00:38:08,660 --> 00:38:09,000
+Est-ce qu'il y a un problème
+
+719
+00:38:09,000 --> 00:38:09,160
+?
+
+720
+00:38:10,560 --> 00:38:10,880
+Non.
+
+721
+00:38:13,330 --> 00:38:15,450
+Ils disent qu'il y a un décalage
+
+722
+00:38:15,450 --> 00:38:16,710
+entre le sang et l'image.
+
+723
+00:38:16,910 --> 00:38:17,950
+Je crois que c'est chez eux, où
+
+724
+00:38:17,950 --> 00:38:18,630
+il y a la connexion.
+
+725
+00:38:21,590 --> 00:38:22,750
+Il y en a qui disent que le
+
+726
+00:38:22,750 --> 00:38:23,570
+sang n'est pas clair.
+
+727
+00:38:25,330 --> 00:38:27,050
+Bon, les penchements.
+
+728
+00:38:28,510 --> 00:38:30,170
+Il y en a qui pensent que...
+
+729
+00:38:30,170 --> 00:38:31,130
+Oui, je ne sais pas.
+
+730
+00:38:32,070 --> 00:38:33,750
+Je crois que ceux qui ont une connexion,
+
+731
+00:38:33,910 --> 00:38:34,570
+peut-être...
+
+732
+00:38:36,470 --> 00:38:39,390
+Mais j'essaie d'aller lentement pour que
+
+733
+00:38:39,390 --> 00:38:40,430
+tout le monde arrive à suivre.
+
+734
+00:38:42,730 --> 00:38:43,670
+Alors, il y a une question.
+
+735
+00:38:43,930 --> 00:38:45,950
+Est-ce que les penchements péricardiques n'influencent
+
+736
+00:38:45,950 --> 00:38:46,650
+pas l'éjection ?
+
+737
+00:38:46,650 --> 00:38:47,390
+Non, non, non.
+
+738
+00:38:48,230 --> 00:38:50,850
+Dans un premier temps, il va gêner le
+
+739
+00:38:50,850 --> 00:38:53,390
+remplissage, parce qu'un ventricule a besoin d
+
+740
+00:38:53,390 --> 00:38:55,490
+'espace pour pouvoir se remplir.
+
+741
+00:38:55,670 --> 00:38:56,490
+Il doit se dilater.
+
+742
+00:38:56,650 --> 00:38:57,810
+Et pour se dilater, il a besoin d
+
+743
+00:38:57,810 --> 00:38:58,110
+'espace.
+
+744
+00:38:58,730 --> 00:39:00,050
+Et s'il y a un penchement tout
+
+745
+00:39:00,050 --> 00:39:03,650
+autour qui le gêne, dans son expansion, c
+
+746
+00:39:03,650 --> 00:39:05,330
+'est d'abord le remplissage qui sera gêné.
+
+747
+00:39:05,570 --> 00:39:06,350
+Ce n'est pas l'éjection.
+
+748
+00:39:10,450 --> 00:39:10,610
+OK.
+
+749
+00:39:10,970 --> 00:39:12,790
+Donc, si on a terminé ça, on va
+
+750
+00:39:12,790 --> 00:39:16,570
+partir maintenant vers la partie activité électrique, si
+
+751
+00:39:16,570 --> 00:39:16,970
+vous voulez.
+
+752
+00:39:17,150 --> 00:39:18,550
+On va changer de chapitre.
+
+753
+00:39:20,030 --> 00:39:23,030
+Et on va maintenant parler de la notion
+
+754
+00:39:23,030 --> 00:39:25,310
+dans une cellule cardiaque.
+
+755
+00:39:26,930 --> 00:39:32,870
+Je vous rappelle la théorie du gradient chimique
+
+756
+00:39:32,870 --> 00:39:36,050
+avec le gradient électrique et comment on arrive
+
+757
+00:39:36,050 --> 00:39:40,830
+à avoir un potentiel de membrane correct, au
+
+758
+00:39:40,830 --> 00:39:41,230
+normal.
+
+759
+00:39:42,450 --> 00:39:45,090
+Et pourquoi c'est le potassium qui détermine
+
+760
+00:39:45,090 --> 00:39:46,270
+le potentiel de repos.
+
+761
+00:39:46,970 --> 00:39:51,830
+On part du principe que le potassium est
+
+762
+00:39:51,830 --> 00:39:55,610
+présent de façon plus importante en intracellulaire plus
+
+763
+00:39:55,610 --> 00:39:56,790
+qu'en extracellulaire.
+
+764
+00:39:57,410 --> 00:39:59,730
+On a par exemple une concentration aux alentours
+
+765
+00:39:59,730 --> 00:40:06,450
+de 5 millimoles par litre en extracellulaire, alors
+
+766
+00:40:06,450 --> 00:40:12,830
+qu'elle est aux alentours de 150 millimoles
+
+767
+00:40:12,830 --> 00:40:15,430
+par litre en intracellulaire.
+
+768
+00:40:15,890 --> 00:40:17,870
+Donc ça, c'est les ions de potassium
+
+769
+00:40:17,870 --> 00:40:22,290
+qui sont des ions du potassium ici, du
+
+770
+00:40:22,290 --> 00:40:23,450
+potassium ici, etc.
+
+771
+00:40:24,390 --> 00:40:26,170
+Et puis moins de potassium à l'extérieur.
+
+772
+00:40:28,130 --> 00:40:32,790
+Pour la neutralité électrique, quand un cation est
+
+773
+00:40:32,790 --> 00:40:38,730
+présent, il est habituellement suivi par l'entrée
+
+774
+00:40:38,730 --> 00:40:41,110
+d'un ion.
+
+775
+00:40:41,490 --> 00:40:44,310
+Et là, l'ion du présent, c'est
+
+776
+00:40:44,310 --> 00:40:44,870
+le chlore.
+
+777
+00:40:45,810 --> 00:40:47,750
+Je vais mettre chlore comme ça en haut,
+
+778
+00:40:48,410 --> 00:40:50,290
+et je vais effacer pour avoir un peu
+
+779
+00:40:50,290 --> 00:40:50,770
+de place.
+
+780
+00:40:52,330 --> 00:40:54,790
+Et donc, vous aurez du chlore négatif.
+
+781
+00:40:55,070 --> 00:40:57,970
+Du chlore négatif, du chlore comme ça négatif.
+
+782
+00:40:58,390 --> 00:40:58,750
+Très bien.
+
+783
+00:41:00,250 --> 00:41:05,770
+Le mouvement, la membrane cytoplasmique, elle est sélective,
+
+784
+00:41:05,890 --> 00:41:08,390
+c'est-à-dire sa perméabilité, elle n
+
+785
+00:41:08,390 --> 00:41:09,930
+'est pas perméable pour tous les ions.
+
+786
+00:41:10,470 --> 00:41:15,690
+Généralement, elle adopte une perméabilité sélective pour les
+
+787
+00:41:15,690 --> 00:41:20,630
+principaux ions, qui sont le potassium, le chlore,
+
+788
+00:41:20,990 --> 00:41:23,390
+le calcium et le sodium.
+
+789
+00:41:26,240 --> 00:41:28,060
+Et pour ça, ça va se faire à
+
+790
+00:41:28,060 --> 00:41:30,840
+travers des canaux.
+
+791
+00:41:34,820 --> 00:41:37,740
+Par exemple, je peux mettre des canaux potassiques.
+
+792
+00:41:40,130 --> 00:41:43,630
+Je peux avoir aussi des échangeurs, un échangeur
+
+793
+00:41:43,630 --> 00:41:45,590
+sodium-potassium.
+
+794
+00:41:48,400 --> 00:41:52,460
+L'échangeur sodium-potassium se fait dans le
+
+795
+00:41:52,460 --> 00:41:58,380
+sens où il fait rentrer trois potassium et
+
+796
+00:41:58,380 --> 00:42:04,660
+fait sortir deux sodium et fait rentrer trois.
+
+797
+00:42:05,140 --> 00:42:08,480
+Il y a aussi un autre échangeur sodium
+
+798
+00:42:08,480 --> 00:42:17,580
+-calcium qui fait sortir du sodium
+
+799
+00:42:17,580 --> 00:42:21,890
+et fait rentrer du calcium ou l'inverse.
+
+800
+00:42:27,910 --> 00:42:30,430
+Tous ces ions et ces canaux permettent de
+
+801
+00:42:30,430 --> 00:42:38,530
+maintenir une certaine en mode avion.
+
+802
+00:42:44,110 --> 00:42:47,770
+C'est-à-dire en fonction de ce
+
+803
+00:42:47,770 --> 00:42:48,990
+que la cellule a besoin.
+
+804
+00:42:49,070 --> 00:42:50,610
+La cellule a besoin d'avoir beaucoup de
+
+805
+00:42:50,610 --> 00:42:53,790
+potassium en intracellulaire, donc elle va être plutôt
+
+806
+00:42:53,790 --> 00:42:57,570
+perméable de façon plus importante aux potassiums par
+
+807
+00:42:57,570 --> 00:42:58,250
+rapport aux autres.
+
+808
+00:43:00,660 --> 00:43:02,800
+Je vous ai dessiné ici qu'il y
+
+809
+00:43:02,800 --> 00:43:18,030
+a une concentration plus importante toujours
+
+810
+00:43:18,030 --> 00:43:19,670
+suivant un lien chimique.
+
+811
+00:43:20,550 --> 00:43:27,010
+Il tente à bouger ou à passer du
+
+812
+00:43:27,010 --> 00:43:29,930
+milieu où la concentration est plus élevée vers
+
+813
+00:43:29,930 --> 00:43:31,550
+le milieu où la concentration est plus faible.
+
+814
+00:43:31,890 --> 00:43:36,450
+Théoriquement, il devrait avoir une sortie importante du
+
+815
+00:43:36,450 --> 00:43:38,610
+potassium vers le milieu extracellulaire.
+
+816
+00:43:39,290 --> 00:43:42,430
+C'est ce qui arrive, mais quand les
+
+817
+00:43:42,430 --> 00:43:47,110
+charges positives sur le potassium sortent, on va
+
+818
+00:43:47,110 --> 00:43:49,870
+laisser plus de charges négatives à l'intérieur.
+
+819
+00:43:50,670 --> 00:43:53,010
+Quand on laisse plus de charges négatives à
+
+820
+00:43:53,010 --> 00:43:54,150
+l'intérieur, qu'est-ce qui se crée
+
+821
+00:43:54,150 --> 00:43:54,290
+?
+
+822
+00:43:54,290 --> 00:43:55,730
+Un gradient.
+
+823
+00:43:56,070 --> 00:43:59,790
+C'est-à-dire la cellule va faire
+
+824
+00:43:59,790 --> 00:44:05,250
+en sorte de faire appel aux ions du
+
+825
+00:44:05,250 --> 00:44:09,910
+gradient et les ionocalités.
+
+826
+00:44:12,050 --> 00:44:21,010
+Elle va les remettre à l'intérieur ou
+
+827
+00:44:21,010 --> 00:44:25,390
+remettre d'autres molécules positives qui vont remplacer
+
+828
+00:44:25,390 --> 00:44:27,330
+le potassium qui est sorti.
+
+829
+00:44:27,490 --> 00:44:29,030
+Or, il se trouve que la cellule est
+
+830
+00:44:29,030 --> 00:44:33,730
+plutôt perméable qu'au potassium.
+
+831
+00:44:34,630 --> 00:44:36,470
+On va créer un gradient.
+
+832
+00:44:36,810 --> 00:44:39,530
+On va créer une sorte de différence de
+
+833
+00:44:39,530 --> 00:44:39,950
+charges.
+
+834
+00:44:40,390 --> 00:44:42,950
+Des charges négatives à l'extérieur et plus
+
+835
+00:44:42,950 --> 00:44:44,590
+de charges positives à l'intérieur.
+
+836
+00:44:46,450 --> 00:44:49,030
+Jusqu'où ces mouvements se passent ?
+
+837
+00:44:49,030 --> 00:44:50,810
+C'est-à-dire, à quel moment le
+
+838
+00:44:50,810 --> 00:44:54,810
+flux sortant du potassium va s'arrêter ?
+
+839
+00:44:54,810 --> 00:44:56,450
+Il va s'arrêter quand on arrive à
+
+840
+00:44:56,450 --> 00:44:59,050
+ce qu'on appelle un potentiel de membrane.
+
+841
+00:44:59,050 --> 00:45:04,770
+Une sorte de potentiel d'équilibre qui fait
+
+842
+00:45:04,770 --> 00:45:11,450
+équilibrer le gradient chimique qui a tendance à
+
+843
+00:45:11,450 --> 00:45:19,270
+faire sortir le potassium et le gradient électrique
+
+844
+00:45:19,270 --> 00:45:25,790
+a tendance plutôt à faire rentrer le potassium.
+
+845
+00:45:26,290 --> 00:45:27,570
+À un moment donné, il y aura une
+
+846
+00:45:27,570 --> 00:45:28,070
+balance.
+
+847
+00:45:28,070 --> 00:45:29,470
+Ça va s'équilibrer.
+
+848
+00:45:29,930 --> 00:45:31,930
+Cet équilibre s'appelle le potentiel.
+
+849
+00:45:32,950 --> 00:45:35,530
+Ça va être au moment où le potentiel
+
+850
+00:45:35,530 --> 00:45:37,330
+de membrane c'est-à-dire la différence
+
+851
+00:45:37,330 --> 00:45:39,830
+de charge entre l'intérieur et l'extérieur
+
+852
+00:45:39,830 --> 00:45:40,650
+de la cellule.
+
+853
+00:45:41,210 --> 00:45:48,280
+Ce potentiel de membrane quand le potentiel de
+
+854
+00:45:48,280 --> 00:45:50,520
+membrane atteint un niveau, c'est une équation
+
+855
+00:45:50,520 --> 00:45:53,280
+qui est physique, qui a été démontrée pour
+
+856
+00:45:53,280 --> 00:45:54,160
+chaque ion.
+
+857
+00:45:54,820 --> 00:45:58,100
+On a un niveau de potentiel qui, quand
+
+858
+00:45:58,100 --> 00:46:01,280
+on l'atteint, l'équilibre se fait entre
+
+859
+00:46:01,280 --> 00:46:03,500
+le gradient chimique et le gradient électrique.
+
+860
+00:46:03,920 --> 00:46:06,380
+Et ça reste comme ça maintenu.
+
+861
+00:46:06,820 --> 00:46:08,360
+Quand il y a une perturbation, c'est
+
+862
+00:46:08,360 --> 00:46:13,060
+-à-dire quand j'injecte par exemple des
+
+863
+00:46:13,060 --> 00:46:15,680
+charges positives à l'intérieur de la cellule,
+
+864
+00:46:16,620 --> 00:46:20,420
+le fait de les injecter va mettre plus
+
+865
+00:46:20,420 --> 00:46:22,460
+de charges positives à l'intérieur de la
+
+866
+00:46:22,460 --> 00:46:26,100
+cellule et donc le potentiel va devenir plutôt
+
+867
+00:46:26,100 --> 00:46:26,840
+positif.
+
+868
+00:46:26,840 --> 00:46:28,680
+Et qu'est-ce qui arrive quand il
+
+869
+00:46:28,680 --> 00:46:29,660
+est devenu plus positif ?
+
+870
+00:46:29,660 --> 00:46:32,980
+Le gradient chimique va prendre le dessus et
+
+871
+00:46:32,980 --> 00:46:35,380
+le flux sortant du potentiel va devenir plus
+
+872
+00:46:35,380 --> 00:46:35,880
+important.
+
+873
+00:46:36,880 --> 00:46:40,040
+Et dans ce cas-là, le gradient va
+
+874
+00:46:40,040 --> 00:46:44,400
+s'équilibrer puisque le gradient électrique va revenir
+
+875
+00:46:44,400 --> 00:46:46,960
+à la valeur plus négative.
+
+876
+00:46:47,140 --> 00:46:47,880
+Vous voyez qu'il y a des charges
+
+877
+00:46:47,880 --> 00:46:48,660
+positives qui sortent.
+
+878
+00:46:49,260 --> 00:46:53,340
+Donc entre la négativité et la positivité et
+
+879
+00:46:53,340 --> 00:46:58,560
+le le potentiel de membrane va baisser, baisser,
+
+880
+00:46:58,660 --> 00:47:01,500
+baisser jusqu'à atteindre encore une fois le
+
+881
+00:47:01,500 --> 00:47:03,660
+potentiel de membrane et les choses s'équilibrent.
+
+882
+00:47:04,160 --> 00:47:05,520
+Donc ça se passe comme ça tout le
+
+883
+00:47:05,520 --> 00:47:05,620
+temps.
+
+884
+00:47:05,720 --> 00:47:08,520
+La cellule fait tout pour qu'elle puisse
+
+885
+00:47:08,520 --> 00:47:10,700
+revenir à son potentiel de membrane.
+
+886
+00:47:11,280 --> 00:47:14,400
+Le potentiel de membrane de chaque ion, il
+
+887
+00:47:14,400 --> 00:47:16,320
+est déterminé chimiquement.
+
+888
+00:47:19,360 --> 00:47:21,640
+On le connaît, on n'a pas besoin
+
+889
+00:47:21,640 --> 00:47:23,140
+de le calculer.
+
+890
+00:47:23,140 --> 00:47:29,300
+Et je vous donne les valeurs généralement retenues.
+
+891
+00:47:29,700 --> 00:47:30,960
+Alors je prends une autre.
+
+892
+00:47:31,600 --> 00:47:34,220
+Le potentiel d'équilibre pour le potassium il
+
+893
+00:47:34,220 --> 00:47:36,480
+est égal à quelque chose comme moins 92
+
+894
+00:47:36,480 --> 00:47:37,260
+millivolts.
+
+895
+00:47:39,930 --> 00:47:42,790
+Et pour le sodium il est aux alentours
+
+896
+00:47:42,790 --> 00:47:46,530
+de 60 millivolts à peu près.
+
+897
+00:47:47,290 --> 00:47:51,750
+Pour le calcium, il est avoisinant les 10
+
+898
+00:47:51,750 --> 00:47:53,470
+-20 millimètres de millivolts.
+
+899
+00:47:53,650 --> 00:47:54,990
+Donc ça c'est positif, ça c'est
+
+900
+00:47:54,990 --> 00:47:55,750
+positif.
+
+901
+00:47:55,750 --> 00:47:57,190
+Et là c'est négatif.
+
+902
+00:47:58,090 --> 00:48:00,270
+Puisque c'est celui qui est négatif et
+
+903
+00:48:00,270 --> 00:48:02,570
+le plus négatif, c'est ce qui fait
+
+904
+00:48:02,570 --> 00:48:04,890
+que le potentiel de membrane de la cellule
+
+905
+00:48:04,890 --> 00:48:07,950
+est déterminé par l'ion potassium et non
+
+906
+00:48:07,950 --> 00:48:08,550
+pas les autres.
+
+907
+00:48:08,730 --> 00:48:10,110
+Ça c'est le potentiel de membrane de
+
+908
+00:48:10,110 --> 00:48:10,470
+la cellule.
+
+909
+00:48:16,050 --> 00:48:17,550
+Des questions là-dessus ?
+
+910
+00:48:25,860 --> 00:48:27,680
+Il y a eu une question sur ce
+
+911
+00:48:27,680 --> 00:48:28,580
+qu'on a vu hier.
+
+912
+00:48:30,640 --> 00:48:35,560
+Pourquoi on assimile la distanciabilité à l'élastance
+
+913
+00:48:35,560 --> 00:48:35,960
+?
+
+914
+00:48:35,960 --> 00:48:37,040
+On ne les assimile pas.
+
+915
+00:48:37,540 --> 00:48:38,760
+Et pas à l'accompliance.
+
+916
+00:48:38,920 --> 00:48:39,720
+Non, ce n'est pas ce que j
+
+917
+00:48:39,720 --> 00:48:39,920
+'ai dit.
+
+918
+00:48:43,510 --> 00:48:50,330
+L'accompliance c'est à peu près la
+
+919
+00:48:50,330 --> 00:48:50,580
+distanciabilité.
+
+920
+00:48:51,430 --> 00:48:52,310
+C'est à peu près la même chose.
+
+921
+00:48:53,190 --> 00:48:56,410
+Pourquoi j'ai utilisé le terme élastance et
+
+922
+00:48:56,410 --> 00:48:58,690
+plutôt proche de distanciabilité ?
+
+923
+00:48:58,690 --> 00:49:03,310
+Simplement pour faire une sorte de simplification des
+
+924
+00:49:03,310 --> 00:49:03,550
+termes.
+
+925
+00:49:03,690 --> 00:49:06,810
+Parce que élastance et compliance ne sont pas
+
+926
+00:49:06,810 --> 00:49:09,130
+des termes du français courant qu'on utilise
+
+927
+00:49:09,130 --> 00:49:09,630
+tout le temps.
+
+928
+00:49:10,630 --> 00:49:13,990
+Quand je dis compliance, j'ai utilisé même
+
+929
+00:49:13,990 --> 00:49:15,150
+le terme capacitance.
+
+930
+00:49:16,010 --> 00:49:17,770
+Compliance de l'artère, c'est-à-dire
+
+931
+00:49:17,770 --> 00:49:19,570
+qu'elle est capable de se dilater.
+
+932
+00:49:20,850 --> 00:49:25,410
+Par contre l'élastance, c'est la cellule,
+
+933
+00:49:25,650 --> 00:49:28,470
+plutôt le conduit ou le vaisseau.
+
+934
+00:49:29,170 --> 00:49:30,590
+Il supporte la pression.
+
+935
+00:49:30,870 --> 00:49:32,330
+Il supporte la pression mais il n'est
+
+936
+00:49:32,330 --> 00:49:33,150
+quand même pas rigide.
+
+937
+00:49:33,950 --> 00:49:36,450
+Donc ça traduit plutôt sa capacité à se
+
+938
+00:49:36,450 --> 00:49:41,190
+distendre légèrement, pas beaucoup, légèrement, sans trop de
+
+939
+00:49:41,190 --> 00:49:42,590
+variation du volume.
+
+940
+00:49:43,030 --> 00:49:44,990
+Pour faire simple, quand il y a trop
+
+941
+00:49:44,990 --> 00:49:47,590
+de variation du volume d'un conduit ou
+
+942
+00:49:47,590 --> 00:49:50,310
+d'un vaisseau, ce qui nous intéresse là,
+
+943
+00:49:50,470 --> 00:49:51,190
+c'est la compliance.
+
+944
+00:49:51,870 --> 00:49:54,530
+On dit que le vaisseau est compliant, il
+
+945
+00:49:54,530 --> 00:49:59,970
+est dilatable, il arrive à se dilater facilement
+
+946
+00:49:59,970 --> 00:50:01,270
+dès qu'on monte un peu la pression.
+
+947
+00:50:02,330 --> 00:50:04,350
+Par contre, dans l'élastance, ce qui nous
+
+948
+00:50:04,350 --> 00:50:08,810
+intéresse, c'est que l'artère, elle supporte
+
+949
+00:50:08,810 --> 00:50:14,110
+la pression mais elle est quand même souple.
+
+950
+00:50:14,510 --> 00:50:16,890
+On dit que l'artère est souple, l
+
+951
+00:50:16,890 --> 00:50:18,370
+'artère est un peu distensible.
+
+952
+00:50:19,390 --> 00:50:21,670
+Quand la pression monte un petit peu, ça
+
+953
+00:50:21,670 --> 00:50:23,850
+ne se traduit pas par une grande augmentation
+
+954
+00:50:23,850 --> 00:50:26,450
+du volume mais plutôt par une légère augmentation
+
+955
+00:50:26,450 --> 00:50:29,670
+du diamètre de l'artère et qui revient
+
+956
+00:50:29,670 --> 00:50:31,770
+juste après quand la pression diminue.
+
+957
+00:50:32,190 --> 00:50:33,910
+C'est plutôt le phénomène qui explique le
+
+958
+00:50:33,910 --> 00:50:34,110
+pot.
+
+959
+00:50:34,430 --> 00:50:35,230
+Pourquoi vous avez un pot?
+
+960
+00:50:36,010 --> 00:50:39,830
+Parce que l'artère, à chaque ondée de
+
+961
+00:50:39,830 --> 00:50:43,150
+sang qui passe, l'artère se dilate légèrement
+
+962
+00:50:43,150 --> 00:50:46,650
+et revient à la taille normale.
+
+963
+00:50:47,210 --> 00:50:49,230
+Donc, l'artère est distensible.
+
+964
+00:50:50,390 --> 00:50:51,090
+Elle est distensible.
+
+965
+00:50:51,730 --> 00:50:53,550
+Je ne suis absolument pas en train de
+
+966
+00:50:53,550 --> 00:50:56,270
+parler d'une grande dilatation parce que quand
+
+967
+00:50:56,270 --> 00:50:58,430
+ça se dilate trop, ce n'est pas
+
+968
+00:50:58,430 --> 00:51:00,290
+du tout la propriété des artères.
+
+969
+00:51:01,030 --> 00:51:02,130
+Là, on parle de compliance.
+
+970
+00:51:02,290 --> 00:51:03,150
+Je sais que c'est des notions de
+
+971
+00:51:03,150 --> 00:51:07,030
+physique un peu abstraites mais vous devez vous
+
+972
+00:51:07,030 --> 00:51:07,630
+y faire.
+
+973
+00:51:08,250 --> 00:51:10,930
+Si la vasoconstriction va améliorer le débit.
+
+974
+00:51:11,750 --> 00:51:13,390
+Je suis en train de lire la question.
+
+975
+00:51:20,610 --> 00:51:21,690
+Je n'arrive plus à la lire.
+
+976
+00:51:30,100 --> 00:51:32,840
+Je n'arrive pas à dérouler les questions.
+
+977
+00:51:33,060 --> 00:51:34,440
+Je lis ceux qui sont suivants.
+
+978
+00:51:35,740 --> 00:51:40,460
+Le potentiel de membrane de repos sera le
+
+979
+00:51:40,460 --> 00:51:43,260
+total de tous ces potentiels de membrane.
+
+980
+00:51:43,760 --> 00:51:44,960
+Très bonne question.
+
+981
+00:51:45,220 --> 00:51:46,080
+Ça, c'est une très bonne question.
+
+982
+00:51:46,680 --> 00:51:50,080
+Je vais enchaîner avec cette question de Ali.
+
+983
+00:51:51,120 --> 00:51:52,180
+Je lis les autres d'abord.
+
+984
+00:51:52,300 --> 00:51:55,200
+Pourquoi le potentiel de membrane est celui du
+
+985
+00:51:55,200 --> 00:51:55,660
+potassium?
+
+986
+00:51:56,320 --> 00:51:57,280
+Je viens de l'expliquer.
+
+987
+00:51:57,960 --> 00:52:00,000
+Alors qu'on en mesure par deux électrodes,
+
+988
+00:52:00,300 --> 00:52:01,000
+ça n'a rien à voir.
+
+989
+00:52:01,540 --> 00:52:03,300
+L'un en intramembranaire et l'autre en
+
+990
+00:52:03,300 --> 00:52:03,620
+extra.
+
+991
+00:52:03,840 --> 00:52:05,180
+Je pense que ça doit inclure tous les
+
+992
+00:52:05,180 --> 00:52:05,420
+ions.
+
+993
+00:52:06,700 --> 00:52:08,040
+C'est ce que je vais expliquer tout
+
+994
+00:52:08,040 --> 00:52:08,380
+à l'heure.
+
+995
+00:52:08,480 --> 00:52:10,240
+Les gens qui ont des problèmes, la connexion
+
+996
+00:52:10,240 --> 00:52:10,760
+est bonne.
+
+997
+00:52:10,920 --> 00:52:14,880
+Si la vasoconstriction va améliorer le débit, si
+
+998
+00:52:14,880 --> 00:52:19,340
+la vasoconstriction va améliorer le débit, ce n
+
+999
+00:52:19,340 --> 00:52:22,020
+'est pas contradictoire avec la loi de Poiseuil.
+
+1000
+00:52:25,000 --> 00:52:29,460
+Alors, ce que j'ai dit, vous l
+
+1001
+00:52:29,460 --> 00:52:31,700
+'avez pris du moment où j'ai parlé
+
+1002
+00:52:31,700 --> 00:52:33,300
+de vasodilatation veineuse.
+
+1003
+00:52:33,540 --> 00:52:35,840
+J'ai dit que la solution, notamment quand
+
+1004
+00:52:35,840 --> 00:52:38,740
+je parlais de la volumie relative, la volumie,
+
+1005
+00:52:38,960 --> 00:52:40,620
+pour que les choses soient claires pour tout
+
+1006
+00:52:40,620 --> 00:52:42,380
+le monde, quand je parle de volumie, c
+
+1007
+00:52:42,380 --> 00:52:43,660
+'est absolument dans les veines.
+
+1008
+00:52:44,020 --> 00:52:44,260
+Pourquoi?
+
+1009
+00:52:45,320 --> 00:52:48,420
+Parce que volumie vraie, volumie relative, ça revient
+
+1010
+00:52:48,420 --> 00:52:50,420
+à dire que le vaisseau dans lequel circule
+
+1011
+00:52:50,420 --> 00:52:52,040
+le sang est un vaisseau qui a une
+
+1012
+00:52:52,040 --> 00:52:53,100
+compliance importante.
+
+1013
+00:52:53,740 --> 00:52:54,960
+C'est que les veines qui ont cette
+
+1014
+00:52:54,960 --> 00:52:55,420
+compliance.
+
+1015
+00:52:55,520 --> 00:52:57,720
+Les veines arrivent à se dilater et donc,
+
+1016
+00:52:57,980 --> 00:53:01,280
+quand ils se dilatent trop, la relation entre
+
+1017
+00:53:01,280 --> 00:53:04,080
+contenant et contenu est perturbée et la volumie
+
+1018
+00:53:04,080 --> 00:53:04,700
+vraie diminue.
+
+1019
+00:53:06,160 --> 00:53:08,120
+La volumie relative diminue.
+
+1020
+00:53:08,760 --> 00:53:10,760
+Et le contraire, bien sûr, quand il y
+
+1021
+00:53:10,760 --> 00:53:11,600
+a une vasoconstriction.
+
+1022
+00:53:12,420 --> 00:53:14,940
+Ce que vous avez dit, il n'y
+
+1023
+00:53:14,940 --> 00:53:19,260
+a plus le nom, ça concerne les artères.
+
+1024
+00:53:20,140 --> 00:53:22,020
+Dans la loi de Poiseuil, etc., ça concerne
+
+1025
+00:53:22,020 --> 00:53:22,520
+les artères.
+
+1026
+00:53:22,880 --> 00:53:25,020
+Là, je parle d'une vasoconstriction de toute
+
+1027
+00:53:25,020 --> 00:53:27,220
+la veine qui va certainement chasser le sang
+
+1028
+00:53:27,220 --> 00:53:30,980
+à travers les valvules dans le sens de
+
+1029
+00:53:30,980 --> 00:53:33,560
+l'écoulement sanguin et donc directement vers la
+
+1030
+00:53:33,560 --> 00:53:34,620
+veine cave et de la veine cave vers
+
+1031
+00:53:34,620 --> 00:53:35,300
+l'oreillette droite.
+
+1032
+00:53:36,380 --> 00:53:38,720
+Donc, ça améliore absolument le retour veineux.
+
+1033
+00:53:39,440 --> 00:53:41,040
+La loi de Poiseuil, ça s'applique sur
+
+1034
+00:53:41,040 --> 00:53:43,540
+les artérioles et sur les résistances qui existent
+
+1035
+00:53:43,540 --> 00:53:44,200
+dans les artères.
+
+1036
+00:53:46,140 --> 00:53:53,300
+Je reviens pour continuer les explications qu'on
+
+1037
+00:53:53,300 --> 00:53:54,140
+a eues ensemble.
+
+1038
+00:53:55,440 --> 00:53:56,000
+À voir.
+
+1039
+00:53:58,960 --> 00:54:00,000
+Une seconde.
+
+1040
+00:54:08,480 --> 00:54:12,620
+Alors, on peut faire des calculs, si vous
+
+1041
+00:54:12,620 --> 00:54:13,720
+voulez, je reviens.
+
+1042
+00:54:14,760 --> 00:54:18,460
+Pour expliquer finalement le potentiel de membrane, j
+
+1043
+00:54:18,460 --> 00:54:20,500
+'ai dit qu'il est déterminé essentiellement par
+
+1044
+00:54:20,500 --> 00:54:21,300
+l'ion potassium.
+
+1045
+00:54:21,520 --> 00:54:22,600
+C'est vrai, vous avez raison.
+
+1046
+00:54:23,680 --> 00:54:25,980
+En réalité, voilà ce qui se passe.
+
+1047
+00:54:26,180 --> 00:54:29,720
+Vous avez une cellule dont la membrane n
+
+1048
+00:54:29,720 --> 00:54:34,000
+'est pas uniquement perméable au potassium, mais il
+
+1049
+00:54:34,000 --> 00:54:36,480
+est perméable au potassium, au sodium.
+
+1050
+00:54:37,340 --> 00:54:40,760
+Attendez, je vais la mettre à côté.
+
+1051
+00:54:41,380 --> 00:54:44,060
+Au sodium, et aussi au calcium, on va
+
+1052
+00:54:44,060 --> 00:54:44,880
+dire, et aux autres.
+
+1053
+00:54:46,680 --> 00:54:50,260
+Mais de façon pas égalitaire, c'est-à
+
+1054
+00:54:50,260 --> 00:54:54,360
+-dire elle va être, par exemple, perméable dans
+
+1055
+00:54:54,360 --> 00:54:59,420
+95%, on va dire, au potassium, là je
+
+1056
+00:54:59,420 --> 00:55:02,760
+mets le chlore, et à 1% pour
+
+1057
+00:55:02,760 --> 00:55:05,260
+le sodium, 2% par exemple ici pour
+
+1058
+00:55:05,260 --> 00:55:08,840
+l'ananas, 2% pour le chlore.
+
+1059
+00:55:09,580 --> 00:55:11,080
+Ce qui fait, si vous faites le calcul,
+
+1060
+00:55:11,200 --> 00:55:12,420
+on n'a pas le temps pour le
+
+1061
+00:55:12,420 --> 00:55:14,820
+faire, mais vous prenez le potentiel de membrane
+
+1062
+00:55:14,820 --> 00:55:20,900
+du potassium, et 0095, vous la multipliez par
+
+1063
+00:55:20,900 --> 00:55:23,200
+moins 92, et ça va vous donner une
+
+1064
+00:55:23,200 --> 00:55:24,840
+valeur, une valeur aux alentours, je ne sais
+
+1065
+00:55:24,840 --> 00:55:27,580
+pas moi, de moins 85, un truc comme
+
+1066
+00:55:27,580 --> 00:55:27,760
+ça.
+
+1067
+00:55:28,740 --> 00:55:32,680
+Pour celui du sodium, vous prenez, voilà, vous
+
+1068
+00:55:32,680 --> 00:55:37,600
+mettez 1 fois le potentiel qui devrait, j
+
+1069
+00:55:37,600 --> 00:55:39,920
+'ai dit tout à l'heure, aux alentours
+
+1070
+00:55:39,920 --> 00:55:41,660
+du 10-20, je crois que j'ai,
+
+1071
+00:55:42,200 --> 00:55:43,920
+je vous ai écrit 60, ah non, oui,
+
+1072
+00:55:44,260 --> 00:55:45,040
+60 c'est beaucoup.
+
+1073
+00:55:49,510 --> 00:55:52,170
+C'est aux alentours de 20-30, on
+
+1074
+00:55:52,170 --> 00:55:54,630
+va mettre 20, le 1% c'est
+
+1075
+00:55:54,630 --> 00:55:57,650
+0,1, multiplié par le 20, et vous
+
+1076
+00:55:57,650 --> 00:55:59,130
+faites la même chose pour le calcium et
+
+1077
+00:55:59,130 --> 00:56:01,290
+pour le chlore, vous vous rendez compte à
+
+1078
+00:56:01,290 --> 00:56:03,210
+la fin que le potentiel qu'on va
+
+1079
+00:56:03,210 --> 00:56:07,230
+calculer ce sera quelque chose comme moins 83
+
+1080
+00:56:07,230 --> 00:56:12,670
+ou 82, donc très proche de moins 85
+
+1081
+00:56:12,670 --> 00:56:14,450
+qui est celle du potassium, c'est la
+
+1082
+00:56:14,450 --> 00:56:15,730
+raison pour laquelle on dit que le potentiel
+
+1083
+00:56:15,730 --> 00:56:19,770
+de membrane est déterminé essentiellement par le sodium,
+
+1084
+00:56:21,570 --> 00:56:23,630
+par l'ion potassium.
+
+1085
+00:56:26,040 --> 00:56:29,160
+On va avancer, donc après la théorie ionique
+
+1086
+00:56:29,160 --> 00:56:32,560
+et l'explication de comment se crée ce
+
+1087
+00:56:32,560 --> 00:56:35,700
+potentiel de membrane, on va dessiner le potentiel
+
+1088
+00:56:35,700 --> 00:56:36,140
+d'action.
+
+1089
+00:56:36,920 --> 00:56:38,680
+Le potentiel d'action, comme vous le savez,
+
+1090
+00:56:40,300 --> 00:56:43,500
+on a trois types, ou plutôt deux types
+
+1091
+00:56:43,500 --> 00:56:45,160
+de potentiel de membrane.
+
+1092
+00:56:45,800 --> 00:56:50,900
+Vous savez qu'on a un potentiel de
+
+1093
+00:56:50,900 --> 00:56:52,980
+membrane triangulaire et quadrangulaire.
+
+1094
+00:56:53,700 --> 00:56:54,980
+Quelle est la différence ?
+
+1095
+00:56:56,320 --> 00:57:03,880
+La différence est simple, je vais la dessiner
+
+1096
+00:57:03,880 --> 00:57:12,960
+d'abord, et en bas, on va dessiner
+
+1097
+00:57:12,960 --> 00:57:13,700
+l'autre potentiel.
+
+1098
+00:57:13,760 --> 00:57:15,100
+Ce potentiel, on a dit que c'est
+
+1099
+00:57:15,100 --> 00:57:19,160
+celui des tissus conductifs qui est représenté par
+
+1100
+00:57:20,400 --> 00:57:24,920
+le nœud sinusal, par le nœud sinusal, ou
+
+1101
+00:57:24,920 --> 00:57:27,780
+la sine auriculaire si vous voulez, le nœud
+
+1102
+00:57:27,780 --> 00:57:32,500
+auriculo-ventriculaire, le faisceau du his, le his,
+
+1103
+00:57:33,840 --> 00:57:35,220
+et bien sûr le reste, c'est-à
+
+1104
+00:57:35,220 --> 00:57:37,260
+-dire le réseau de Purkinier.
+
+1105
+00:57:42,420 --> 00:57:45,860
+Et on a dit que ils ont ce
+
+1106
+00:57:45,860 --> 00:57:50,260
+potentiel-là et ces quatre, ils déterminent, ils
+
+1107
+00:57:50,260 --> 00:57:54,120
+sont capables d'avoir un potentiel de membrane
+
+1108
+00:57:54,120 --> 00:58:01,470
+automatique, mais seulement le nœud sinusal, le nœud
+
+1109
+00:58:01,470 --> 00:58:04,650
+sinusal qui détermine le pacemaker du cœur, qui
+
+1110
+00:58:04,650 --> 00:58:07,670
+est considéré comme le pacemaker du cœur.
+
+1111
+00:58:08,750 --> 00:58:10,610
+Et là, il va falloir qu'on explique
+
+1112
+00:58:10,610 --> 00:58:12,470
+ça, d'accord ?
+
+1113
+00:58:26,520 --> 00:58:27,500
+Ailleurs ?

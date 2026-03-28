@@ -1,0 +1,6991 @@
+1
+00:00:00,920 --> 00:00:02,300
+Bonjour tout le monde.
+
+2
+00:00:02,940 --> 00:00:06,220
+Nous entamons le quatrième cours programmé dans cette
+
+3
+00:00:06,220 --> 00:00:09,200
+année qui concerne l'auto-immunité et les
+
+4
+00:00:09,200 --> 00:00:10,020
+maladies auto-immunes.
+
+5
+00:00:13,840 --> 00:00:17,100
+Alors, en guise d'introduction, l'auto-immunité
+
+6
+00:00:17,100 --> 00:00:19,540
+peut se définir tout simplement par une réaction
+
+7
+00:00:19,540 --> 00:00:24,860
+immunitaire spécifique qui est midiée par soit des
+
+8
+00:00:24,860 --> 00:00:26,640
+lymphocytes B et ou T.
+
+9
+00:00:27,120 --> 00:00:29,360
+Souvent, on pense que l'auto-immunité, c
+
+10
+00:00:29,360 --> 00:00:31,259
+'est lié uniquement à des auto-anticorps, donc
+
+11
+00:00:31,259 --> 00:00:32,100
+à des lymphocytes B.
+
+12
+00:00:33,200 --> 00:00:35,340
+Vous avez aussi les lymphocytes T qui peuvent
+
+13
+00:00:35,340 --> 00:00:35,960
+intervenir.
+
+14
+00:00:36,340 --> 00:00:38,040
+D'ailleurs, elles interviennent dans beaucoup de cas.
+
+15
+00:00:38,640 --> 00:00:41,900
+On peut donc associer les deux dans beaucoup
+
+16
+00:00:41,900 --> 00:00:42,340
+de maladies.
+
+17
+00:00:42,940 --> 00:00:45,320
+Ce sont des lymphocytes T dits auto-réactifs.
+
+18
+00:00:46,260 --> 00:00:48,560
+Lorsqu'ils réagissent, ils ont une action qui
+
+19
+00:00:48,560 --> 00:00:50,760
+cible les antigènes du soin, ce qu'on
+
+20
+00:00:50,760 --> 00:00:52,600
+appelle tout simplement les auto-antigènes.
+
+21
+00:00:52,600 --> 00:00:55,040
+Alors, il faut distinguer deux choses.
+
+22
+00:00:55,520 --> 00:00:57,240
+On a ce qu'on appelle l'auto
+
+23
+00:00:57,240 --> 00:01:00,600
+-immunité physiologique et également l'auto-immunité pathologique.
+
+24
+00:01:01,900 --> 00:01:04,000
+Physiologique, ça veut dire que vous avez une
+
+25
+00:01:04,000 --> 00:01:08,140
+reconnaissance du soin par ces lymphocytes auto-réactifs
+
+26
+00:01:08,140 --> 00:01:12,940
+de certains auto-antigènes, mais sans phénomène délétère
+
+27
+00:01:12,940 --> 00:01:13,880
+vis-à-vis des tissus.
+
+28
+00:01:13,880 --> 00:01:18,960
+C'est fréquent, par exemple, avec l'âge
+
+29
+00:01:18,960 --> 00:01:23,980
+ou lorsqu'on a des infections intercurrentes, subaiguës
+
+30
+00:01:23,980 --> 00:01:25,860
+ou même chroniques qui créent un environnement d
+
+31
+00:01:25,860 --> 00:01:27,600
+'auto-immunité, mais qui est physiologique, qui n
+
+32
+00:01:27,600 --> 00:01:28,260
+'a pas de lendemain.
+
+33
+00:01:29,300 --> 00:01:30,500
+En tout cas, on parle de l'auto
+
+34
+00:01:30,500 --> 00:01:31,720
+-immunité physiologique.
+
+35
+00:01:32,240 --> 00:01:34,520
+Cependant, lorsqu'il y a la concurrence de
+
+36
+00:01:34,520 --> 00:01:38,740
+plusieurs facteurs, cette auto-immunité va aboutir à
+
+37
+00:01:38,740 --> 00:01:41,340
+des lésions, à des situations pathologiques.
+
+38
+00:01:41,340 --> 00:01:44,380
+On va qualifier l'auto-immunité pathologique aboutissant
+
+39
+00:01:44,380 --> 00:01:44,920
+à des maladies.
+
+40
+00:01:46,420 --> 00:01:49,420
+L'intérêt de cette question réside dans le
+
+41
+00:01:49,420 --> 00:01:51,620
+fait que vous allez voir qu'il y
+
+42
+00:01:51,620 --> 00:01:53,820
+a énormément de maladies auto-immunes qui sont
+
+43
+00:01:53,820 --> 00:01:58,680
+répertoriées actuellement, que ce soit des maladies propres
+
+44
+00:01:58,680 --> 00:02:00,780
+à des organes ou des maladies systémiques.
+
+45
+00:02:01,540 --> 00:02:04,820
+Pratiquement, il y a beaucoup de maladies qui
+
+46
+00:02:04,820 --> 00:02:06,200
+sont connues de nos jours.
+
+47
+00:02:06,200 --> 00:02:12,280
+Les marqueurs de cette auto-immunité de beaucoup
+
+48
+00:02:12,280 --> 00:02:14,040
+de maladies vont nous servir pour faire des
+
+49
+00:02:14,040 --> 00:02:19,800
+diagnostics assez précis, soit une sorte de confirmation,
+
+50
+00:02:20,100 --> 00:02:22,280
+mais au moins une aide au diagnostic clinique
+
+51
+00:02:22,280 --> 00:02:25,140
+de beaucoup de maladies.
+
+52
+00:02:26,180 --> 00:02:29,380
+Troisièmement, on a beaucoup de progrès qui ont
+
+53
+00:02:29,380 --> 00:02:33,820
+été observés en rapport avec l'auto-immunité,
+
+54
+00:02:33,940 --> 00:02:36,360
+notamment aussi bien au niveau diagnostique que thérapeutique,
+
+55
+00:02:36,480 --> 00:02:40,760
+avec l'utilisation d'approches immunothérapiques pour traiter
+
+56
+00:02:40,760 --> 00:02:42,140
+beaucoup de maladies auto-immunes.
+
+57
+00:02:43,700 --> 00:02:47,700
+Par rapport aux objectifs de ce cours, je
+
+58
+00:02:47,700 --> 00:02:49,780
+les ai résumés en quatre objectifs principaux.
+
+59
+00:02:49,780 --> 00:02:54,360
+Le premier concerne la description des mécanismes de
+
+60
+00:02:54,360 --> 00:02:56,500
+la tolérance et de la rupture de tolérance
+
+61
+00:02:56,500 --> 00:02:56,820
+au soi.
+
+62
+00:02:57,260 --> 00:03:00,200
+Une étape qui est cruciale pour comprendre comment
+
+63
+00:03:00,200 --> 00:03:02,500
+cette auto-immunité survient et aboutit à des
+
+64
+00:03:02,500 --> 00:03:02,900
+maladies.
+
+65
+00:03:03,680 --> 00:03:06,740
+Les facteurs qui vont rompre cette tolérance au
+
+66
+00:03:06,740 --> 00:03:10,120
+soi vont donc favoriser l'installation des phénomènes
+
+67
+00:03:10,120 --> 00:03:10,900
+d'auto-immunité.
+
+68
+00:03:10,900 --> 00:03:15,420
+Il va falloir distinguer les principales maladies auto
+
+69
+00:03:15,420 --> 00:03:19,160
+-immunes et comment les classifier en termes de
+
+70
+00:03:19,160 --> 00:03:22,300
+spécificité ou non vis-à-vis des organes.
+
+71
+00:03:22,580 --> 00:03:24,820
+On qualifie aussi les maladies non-spécifiques d
+
+72
+00:03:24,820 --> 00:03:25,260
+'organes.
+
+73
+00:03:25,860 --> 00:03:28,720
+Vous avez aussi les modalités d'exploration de
+
+74
+00:03:28,720 --> 00:03:32,340
+ces maladies auto-immunes avec notamment les marqueurs
+
+75
+00:03:32,340 --> 00:03:35,580
+diagnostiques qu'on utilise pour faire des diagnostics.
+
+76
+00:03:36,880 --> 00:03:39,300
+Dans le plan, vous avez ici les principales
+
+77
+00:03:39,300 --> 00:03:42,460
+séquences des paragraphs qui vont être abordés dans
+
+78
+00:03:42,460 --> 00:03:42,840
+ce cours.
+
+79
+00:03:43,380 --> 00:03:46,580
+On va commencer par les mécanismes physiologiques de
+
+80
+00:03:46,580 --> 00:03:49,240
+la tolérance au soi, notamment ceux qui concernent
+
+81
+00:03:49,240 --> 00:03:50,580
+l'lymphocyte T et l'lymphocyte B.
+
+82
+00:03:51,420 --> 00:03:53,260
+Après quoi, on va voir quels sont les
+
+83
+00:03:53,260 --> 00:03:56,360
+mécanismes qui sont responsables ou qui aboutissent à
+
+84
+00:03:56,360 --> 00:03:58,100
+la rupture de la tolérance au soi, en
+
+85
+00:03:58,100 --> 00:03:59,580
+citant les principaux.
+
+86
+00:03:59,580 --> 00:04:04,460
+Puis, on va aborder les phénomènes pathogéniques aussi
+
+87
+00:04:04,460 --> 00:04:06,980
+bien des autres anticorps que des lymphocytes T
+
+88
+00:04:06,980 --> 00:04:07,840
+auto-réactifs.
+
+89
+00:04:09,100 --> 00:04:11,500
+On va voir les facteurs qui favorisent le
+
+90
+00:04:11,500 --> 00:04:14,000
+développement de l'auto-immunité, à savoir les
+
+91
+00:04:14,000 --> 00:04:18,820
+facteurs génétiques, les facteurs immunologiques, les facteurs hormonaux
+
+92
+00:04:18,820 --> 00:04:20,500
+et les facteurs de l'environnement.
+
+93
+00:04:21,520 --> 00:04:24,660
+Après, nous allons distinguer les maladies auto-immunes
+
+94
+00:04:24,660 --> 00:04:27,380
+en deux catégories.
+
+95
+00:04:27,380 --> 00:04:30,180
+Celles qui sont spécifiques d'organes et celles
+
+96
+00:04:30,180 --> 00:04:31,860
+qui sont non spécifiques d'organes, qu'on
+
+97
+00:04:31,860 --> 00:04:33,360
+qualifie aussi de maladies de système.
+
+98
+00:04:34,460 --> 00:04:37,220
+Puis, nous allons nous arrêter sur les principes
+
+99
+00:04:37,220 --> 00:04:40,000
+d'exploration des maladies auto-immunes, en assistant
+
+100
+00:04:40,000 --> 00:04:44,780
+surtout sur l'intérêt clinique des autres anticorps,
+
+101
+00:04:44,980 --> 00:04:46,580
+et comment on les détecte et comment on
+
+102
+00:04:46,580 --> 00:04:48,620
+les identifie de façon générale.
+
+103
+00:04:48,620 --> 00:04:51,760
+Après quoi, nous allons finir par un chapitre
+
+104
+00:04:51,760 --> 00:04:57,740
+réservé aux principales indications, aux approches thérapeutiques en
+
+105
+00:04:57,740 --> 00:04:58,780
+termes de maladies auto-immunes.
+
+106
+00:05:02,710 --> 00:05:06,110
+Pour commencer, nous allons voir ce qui est
+
+107
+00:05:06,110 --> 00:05:08,630
+en rapport avec la tolérance centrale des lymphocytes
+
+108
+00:05:08,630 --> 00:05:08,910
+T.
+
+109
+00:05:09,650 --> 00:05:12,030
+Je vous rappelle ici, à travers un schéma
+
+110
+00:05:12,030 --> 00:05:15,390
+du développement des lymphocytes T au niveau du
+
+111
+00:05:15,390 --> 00:05:18,130
+thymus, à l'étape de thémocyte.
+
+112
+00:05:18,130 --> 00:05:19,990
+Rappelez-vous un petit peu ce qu'on
+
+113
+00:05:19,990 --> 00:05:22,290
+appelle l'étape de sélection positive.
+
+114
+00:05:23,470 --> 00:05:26,970
+Cette sélection positive qui a lieu au niveau
+
+115
+00:05:26,970 --> 00:05:33,810
+de la partie du cortex thémique, qui consiste
+
+116
+00:05:33,810 --> 00:05:38,250
+tout simplement à l'interaction des thémocytes avec
+
+117
+00:05:38,250 --> 00:05:42,970
+les cellules épithéliales corticales, à travers les molécules
+
+118
+00:05:42,970 --> 00:05:44,470
+CMH classe 1 et classe 2.
+
+119
+00:05:45,280 --> 00:05:49,110
+Après que le thémocyte ait réarrangé le gène
+
+120
+00:05:49,110 --> 00:05:52,730
+du TCR, ce qu'on voit ici, l
+
+121
+00:05:52,730 --> 00:05:56,910
+'interaction avec les cellules épithéliales corticales va permettre
+
+122
+00:05:56,910 --> 00:06:02,090
+à ces thémocytes d'exprimer les molécules CD4
+
+123
+00:06:02,090 --> 00:06:05,750
+et CD8 pour devenir des thémocytes double positif.
+
+124
+00:06:05,750 --> 00:06:09,550
+Ils étaient double négatif, donc ils passent à
+
+125
+00:06:09,550 --> 00:06:12,450
+une étape de double positif après l'interaction
+
+126
+00:06:12,450 --> 00:06:14,990
+avec les cellules épithéliales corticales.
+
+127
+00:06:15,510 --> 00:06:18,870
+Dans cette étape, il y a l'élimination
+
+128
+00:06:18,870 --> 00:06:22,050
+des thémocytes qui n'arrivent pas à réarranger
+
+129
+00:06:22,050 --> 00:06:26,350
+leur gène TCR, le TCR, le récepteur, et
+
+130
+00:06:26,350 --> 00:06:29,070
+après ceux qui n'arrivent pas à exprimer
+
+131
+00:06:29,070 --> 00:06:33,010
+les co-récepteurs CD4 et CD8, les clusters
+
+132
+00:06:33,010 --> 00:06:34,910
+de differentiation que vous connaissez très bien.
+
+133
+00:06:34,910 --> 00:06:38,690
+En termes d'auto-immunité, essentiellement, on va
+
+134
+00:06:38,690 --> 00:06:42,570
+regarder l'étape, la zone de la jonction
+
+135
+00:06:42,570 --> 00:06:44,090
+cortico-modulaire que vous voyez ici.
+
+136
+00:06:44,830 --> 00:06:47,390
+Dans cette jonction cortico-modulaire, on a ce
+
+137
+00:06:47,390 --> 00:06:49,610
+qu'on appelle une sélection négative ou une
+
+138
+00:06:49,610 --> 00:06:52,270
+déduction clonale des clones qui sont dites auto
+
+139
+00:06:52,270 --> 00:06:52,910
+-réactifs.
+
+140
+00:06:53,430 --> 00:06:55,970
+C'est-à-dire lorsque des cellules nondritiques
+
+141
+00:06:55,970 --> 00:06:59,070
+ou même des cellules corticales qui interviennent de
+
+142
+00:06:59,070 --> 00:07:03,770
+façon tardive, lorsqu'elles présentent un antigène du
+
+143
+00:07:03,770 --> 00:07:08,250
+soi, ces thémocytes qui sont devenus simple positifs,
+
+144
+00:07:08,330 --> 00:07:11,350
+que ce soit CD4 ou CD8, si le
+
+145
+00:07:11,350 --> 00:07:13,750
+TCR de ces thémocytes est reconnu de façon
+
+146
+00:07:13,750 --> 00:07:17,890
+forte ou faible, donc ces antigènes du soi,
+
+147
+00:07:18,310 --> 00:07:20,770
+ces thémocytes ne vont plus continuer leur survie,
+
+148
+00:07:21,210 --> 00:07:22,870
+donc ils vont subir une déduction clonale.
+
+149
+00:07:22,870 --> 00:07:26,390
+Donc ce sont des lymphocytes qui sont potentiellement,
+
+150
+00:07:26,830 --> 00:07:29,250
+ou des thémocytes potentiellement auto-réactifs qu'il
+
+151
+00:07:29,250 --> 00:07:29,830
+faut éliminer.
+
+152
+00:07:30,170 --> 00:07:31,990
+Donc le système utère procède à leur élimination
+
+153
+00:07:31,990 --> 00:07:34,370
+centrale par ce qu'on appelle un phénomène
+
+154
+00:07:34,370 --> 00:07:36,710
+de déduction clonale.
+
+155
+00:07:36,950 --> 00:07:41,690
+Voilà le principal mécanisme qui contrôle l'auto
+
+156
+00:07:41,690 --> 00:07:44,150
+-immunité des lymphocytes à l'échelle centrale.
+
+157
+00:07:46,010 --> 00:07:47,550
+Donc pour résumer un petit peu ce que
+
+158
+00:07:47,550 --> 00:07:49,550
+j'ai décrit dans la plaque, dans le
+
+159
+00:07:49,550 --> 00:07:53,590
+schéma, donc le cortex thémique, après au niveau
+
+160
+00:07:53,590 --> 00:07:56,650
+de la jonction cortico-modulaire, et on a
+
+161
+00:07:56,650 --> 00:07:59,970
+l'étape de la sélection positive qui consiste
+
+162
+00:07:59,970 --> 00:08:04,890
+à élaborer un thémocyte double positif au prix
+
+163
+00:08:04,890 --> 00:08:07,190
+simple positif, et puis au niveau de la
+
+164
+00:08:07,190 --> 00:08:10,170
+jonction cortico-modulaire, on a ce phénomène de
+
+165
+00:08:10,170 --> 00:08:12,050
+contrôle de l'auto-immunité à l'échelle
+
+166
+00:08:12,050 --> 00:08:14,970
+centrale par l'élimination des clones auto-réactifs
+
+167
+00:08:14,970 --> 00:08:19,050
+qui sont potentiellement auto-réactifs vis-à-vis
+
+168
+00:08:19,050 --> 00:08:20,010
+des antigènes du soin.
+
+169
+00:08:20,410 --> 00:08:22,030
+Ça c'est la première étape de contrôle.
+
+170
+00:08:23,510 --> 00:08:26,210
+Après cette étape de tolérance centrale des lymphocytes,
+
+171
+00:08:26,610 --> 00:08:30,310
+donc les clones de lymphocytes qui éventuellement échappent
+
+172
+00:08:30,310 --> 00:08:32,390
+à la tolérance centrale vont se retrouver face
+
+173
+00:08:32,390 --> 00:08:35,970
+à des phénomènes de contrôle périphérique.
+
+174
+00:08:36,490 --> 00:08:37,490
+C'est ce qu'on appelle la tolérance
+
+175
+00:08:37,490 --> 00:08:38,309
+périphérique.
+
+176
+00:08:38,309 --> 00:08:43,970
+Cette tolérance périphérique consiste en quatre étapes ou
+
+177
+00:08:43,970 --> 00:08:44,500
+quatre mécanismes.
+
+178
+00:08:45,150 --> 00:08:47,090
+Le premier étant l'énergie suivie de la
+
+179
+00:08:47,090 --> 00:08:49,520
+suppression de la régulation par des lymphocytes régulateurs,
+
+180
+00:08:50,510 --> 00:08:52,070
+puis un phénomène qu'on appelle l'apoptose
+
+181
+00:08:52,070 --> 00:08:56,850
+par AICD, ce qu'on appelle la mort
+
+182
+00:08:56,850 --> 00:09:00,190
+cellulaire par activation, et puis vous avez l
+
+183
+00:09:00,190 --> 00:09:01,190
+'ignorance immunologique.
+
+184
+00:09:02,130 --> 00:09:04,890
+Concernant l'énergie, qui est tout simplement l
+
+185
+00:09:04,890 --> 00:09:08,230
+'absence de réponse spécifique à l'antigène, de
+
+186
+00:09:08,230 --> 00:09:11,850
+la lymphocytée notamment, qui est dite réversible à
+
+187
+00:09:11,850 --> 00:09:14,650
+chaque fois qu'on administre l'interlocking 2.
+
+188
+00:09:14,770 --> 00:09:16,110
+Vous savez l'interlocking 2 qui est impliqué
+
+189
+00:09:16,110 --> 00:09:19,090
+dans l'activation physiologique de la lymphocytée.
+
+190
+00:09:19,810 --> 00:09:22,970
+Alors l'énergie peut avoir lieu par deux
+
+191
+00:09:22,970 --> 00:09:26,010
+mécanismes, soit par l'absence du signal de
+
+192
+00:09:26,010 --> 00:09:26,650
+co-stimulation.
+
+193
+00:09:26,790 --> 00:09:30,410
+Rappelez-vous l'activation de la lymphocytée, on
+
+194
+00:09:30,410 --> 00:09:32,470
+l'avait vu dans le cours de physiologie
+
+195
+00:09:32,470 --> 00:09:34,830
+fondamentale, il nécessite deux signaux.
+
+196
+00:09:34,830 --> 00:09:38,170
+Un signal qui consiste à présenter l'antigène
+
+197
+00:09:38,170 --> 00:09:41,770
+par le CMH et qui va être reconnu
+
+198
+00:09:41,770 --> 00:09:42,730
+par le TCR.
+
+199
+00:09:43,370 --> 00:09:45,550
+Deuxièmement, on a le deuxième signal qui est
+
+200
+00:09:45,550 --> 00:09:49,510
+fourni par l'interaction de la molécule CD
+
+201
+00:09:49,510 --> 00:09:54,950
+-BESAT au CD8086 qui va interagir avec la
+
+202
+00:09:54,950 --> 00:09:57,150
+molécule CD28 exprimée par la lymphocytée.
+
+203
+00:09:57,830 --> 00:09:59,390
+Donc si on a l'absence du deuxième
+
+204
+00:09:59,390 --> 00:10:01,190
+signal, il n'y a pas de molécule
+
+205
+00:10:01,190 --> 00:10:02,530
+de co-stimulation ou il y a l
+
+206
+00:10:02,530 --> 00:10:04,850
+'absence de la molécule CD28 sur la lymphocytée.
+
+207
+00:10:05,110 --> 00:10:07,650
+Donc on n'aura pas d'activation de
+
+208
+00:10:07,650 --> 00:10:09,250
+la lymphocytée.
+
+209
+00:10:09,410 --> 00:10:10,370
+Donc c'est un signal off.
+
+210
+00:10:11,170 --> 00:10:13,690
+Deuxième possibilité, s'il y a une inhibition
+
+211
+00:10:13,690 --> 00:10:18,490
+par du CD28, de la molécule CD28 exprimée
+
+212
+00:10:18,490 --> 00:10:22,310
+par la lymphocytée, cette inhibition peut se faire
+
+213
+00:10:22,310 --> 00:10:27,750
+de façon physiologique par un compétiteur qui antagonise
+
+214
+00:10:27,750 --> 00:10:31,190
+le CD28 et qui empêche l'activation de
+
+215
+00:10:31,190 --> 00:10:33,930
+façon physiologique dans le cadre de la régulation
+
+216
+00:10:33,930 --> 00:10:35,730
+de l'homéostasie cellulaire.
+
+217
+00:10:36,190 --> 00:10:38,450
+Soit, lorsqu'on administre un traitement à base
+
+218
+00:10:38,450 --> 00:10:42,250
+de ce TLA4, la cédotoxique de la lymphocytée
+
+219
+00:10:42,250 --> 00:10:44,690
+associée à cette protéine, il va là aussi
+
+220
+00:10:44,690 --> 00:10:46,130
+inhiber ce deuxième signal.
+
+221
+00:10:46,290 --> 00:10:46,910
+Donc en tout cas, il n'y aura
+
+222
+00:10:46,910 --> 00:10:47,590
+pas d'activation.
+
+223
+00:10:47,590 --> 00:10:51,890
+Donc c'est une manière d'inhiber des
+
+224
+00:10:51,890 --> 00:10:54,190
+lymphocytées par un phénomène d'énergie au niveau
+
+225
+00:10:54,190 --> 00:10:55,730
+périphérique.
+
+226
+00:10:56,210 --> 00:11:00,170
+Alors le deuxième mécanisme de la tolérance périphérique,
+
+227
+00:11:00,370 --> 00:11:02,830
+c'est l'immunosuppression ou bien la régulation.
+
+228
+00:11:03,470 --> 00:11:05,770
+Donc vous savez très bien que les lymphocytées
+
+229
+00:11:05,770 --> 00:11:08,890
+sont régulées par des lymphocytérègues.
+
+230
+00:11:08,990 --> 00:11:11,550
+Ces lymphocytérègues possèdent ce qu'on appelle un
+
+231
+00:11:11,550 --> 00:11:15,130
+phénotype, CD25, FOXP3, bref, c'est un détail.
+
+232
+00:11:15,130 --> 00:11:19,190
+Donc ces lymphocytérégulateurs sont caractérisés par leur capacité
+
+233
+00:11:19,190 --> 00:11:22,870
+de produire deux principales cytokines, l'interleukin-10
+
+234
+00:11:22,870 --> 00:11:25,150
+et le TGF-β, qu'on qualifie de
+
+235
+00:11:25,150 --> 00:11:27,450
+cytokines immunosuppressives.
+
+236
+00:11:27,790 --> 00:11:31,110
+Donc ils ont comme action principale l'inhibition
+
+237
+00:11:31,110 --> 00:11:33,550
+de l'interleukin-2, qui est bien sûr
+
+238
+00:11:33,550 --> 00:11:39,550
+une cytokine principale dans l'activation de l
+
+239
+00:11:39,550 --> 00:11:40,090
+'lymphocyté.
+
+240
+00:11:40,910 --> 00:11:45,390
+Donc ces cellules immunosuppressives ou cytérègues vont là
+
+241
+00:11:45,390 --> 00:11:47,210
+aussi bloquer l'activation.
+
+242
+00:11:48,910 --> 00:11:51,750
+Le troisième phénomène de contrôle de l'lymphocyté
+
+243
+00:11:51,750 --> 00:11:54,170
+ou de la tolérance de soi, c'est
+
+244
+00:11:54,170 --> 00:11:56,310
+ce qu'on appelle la déletion clonale périphérique
+
+245
+00:11:56,310 --> 00:11:59,290
+par mort cellulaire.
+
+246
+00:12:00,110 --> 00:12:01,670
+Donc à chaque fois qu'on est face
+
+247
+00:12:01,670 --> 00:12:05,150
+à un antigène persistant, qui persiste et continue
+
+248
+00:12:05,150 --> 00:12:07,750
+à simuler de façon excessive à l'lymphocyté,
+
+249
+00:12:08,270 --> 00:12:10,310
+il y a une sorte de régulation physiologique
+
+250
+00:12:10,310 --> 00:12:15,190
+qui fait que le lymphocyté, entre guillemets, finit
+
+251
+00:12:15,190 --> 00:12:16,030
+par se suicider.
+
+252
+00:12:16,370 --> 00:12:20,870
+Il va subir une apoptose, tout simplement par
+
+253
+00:12:20,870 --> 00:12:22,330
+ce phénomène de ce qu'on appelle l
+
+254
+00:12:22,330 --> 00:12:22,770
+'ICD.
+
+255
+00:12:23,530 --> 00:12:26,110
+Voilà un peu le troisième mécanisme de façon
+
+256
+00:12:26,110 --> 00:12:27,210
+certifiée.
+
+257
+00:12:27,690 --> 00:12:31,030
+Quatrième mécanisme de la tolérance périphérique au lymphocyté,
+
+258
+00:12:31,410 --> 00:12:33,150
+c'est ce qu'on appelle l'ignorance
+
+259
+00:12:33,150 --> 00:12:33,870
+immunologique.
+
+260
+00:12:35,110 --> 00:12:36,850
+L'ignorance, ça veut dire un antigène du
+
+261
+00:12:36,850 --> 00:12:39,250
+soi qui est ignoré par l'lymphocyté.
+
+262
+00:12:39,890 --> 00:12:42,530
+C'est le cas de certains peptides qui
+
+263
+00:12:42,530 --> 00:12:45,130
+sont décryptiques, qui sont quelque part cachés dans
+
+264
+00:12:45,130 --> 00:12:50,430
+des structures protéiques pour lesquelles l'lymphocyté n
+
+265
+00:12:50,430 --> 00:12:50,930
+'a pas accès.
+
+266
+00:12:51,910 --> 00:12:55,190
+Deuxièmement, vous avez les peptides qu'on appelle
+
+267
+00:12:55,190 --> 00:13:00,830
+des antigènes séquestrés dans des sites anatomiques privilégiés.
+
+268
+00:13:01,810 --> 00:13:05,490
+Cette notion de site privilégié, elle est connue
+
+269
+00:13:05,490 --> 00:13:11,630
+pour trois principaux organes, le système nerveux central,
+
+270
+00:13:13,510 --> 00:13:16,190
+la chambre antérieure de l'œil et le
+
+271
+00:13:16,190 --> 00:13:18,130
+testicule, de toute façon, les gonades.
+
+272
+00:13:18,690 --> 00:13:21,490
+Vous avez une sorte de barrière qui fait
+
+273
+00:13:21,490 --> 00:13:25,810
+que les lymphocytés, même s'ils sont autoréactifs,
+
+274
+00:13:26,610 --> 00:13:28,630
+comme ils n'ont pas accès à ces
+
+275
+00:13:28,630 --> 00:13:30,990
+sites anatomiques, donc quelque part, ils les protègent.
+
+276
+00:13:30,990 --> 00:13:33,310
+C'est une sorte de protection, de tolérance
+
+277
+00:13:33,310 --> 00:13:35,330
+au soi vis-à-vis de ces antigènes
+
+278
+00:13:35,330 --> 00:13:38,190
+qui sont dites ignorés ou séquestrés.
+
+279
+00:13:40,090 --> 00:13:44,850
+Pour récapituler l'ensemble de ces phénomènes de
+
+280
+00:13:44,850 --> 00:13:50,190
+tolérance des lymphocytés, vous avez ici, tout à
+
+281
+00:13:50,190 --> 00:13:51,570
+l'heure, on disait que d'un point
+
+282
+00:13:51,570 --> 00:13:54,630
+de vue physiologique au normal, on a à
+
+283
+00:13:54,630 --> 00:13:57,630
+l'lymphocyté, à chaque fois, il reconnaît un
+
+284
+00:13:57,630 --> 00:13:59,950
+antigène du soi, il a besoin de deux
+
+285
+00:13:59,950 --> 00:14:00,350
+signaux.
+
+286
+00:14:01,670 --> 00:14:04,690
+Cette reconnaissance va faire que le lymphocyté va
+
+287
+00:14:04,690 --> 00:14:05,070
+s'activer.
+
+288
+00:14:05,190 --> 00:14:06,850
+Ça, c'est l'état normal des choses.
+
+289
+00:14:08,250 --> 00:14:11,750
+Lorsqu'on a la tolérance au soin, on
+
+290
+00:14:11,750 --> 00:14:13,210
+a plusieurs possibilités.
+
+291
+00:14:13,750 --> 00:14:15,190
+On a ce qu'on appelle l'énergie.
+
+292
+00:14:16,330 --> 00:14:19,910
+L'énergie consiste tout simplement à inhiber le
+
+293
+00:14:19,910 --> 00:14:22,170
+deuxième signal ou bien l'absence du deuxième
+
+294
+00:14:22,170 --> 00:14:25,150
+signal qui est nécessaire à l'activation de
+
+295
+00:14:25,150 --> 00:14:25,670
+l'lymphocyté.
+
+296
+00:14:25,670 --> 00:14:29,690
+Le premier mécanisme de tolérance périphérique, c'est
+
+297
+00:14:29,690 --> 00:14:32,390
+l'absence d'activation par un phénomène d
+
+298
+00:14:32,390 --> 00:14:32,650
+'énergie.
+
+299
+00:14:33,630 --> 00:14:36,570
+Troisièmement, vous avez la suppression, la régulation grâce
+
+300
+00:14:36,570 --> 00:14:41,150
+à ces fameux lymphocytés régulateurs qui produisent deux
+
+301
+00:14:41,150 --> 00:14:43,630
+cytokines principales de régulation, l'interleukin d'Issiot
+
+302
+00:14:43,630 --> 00:14:45,710
+et Chef-Beta qui vont agir sur le
+
+303
+00:14:45,710 --> 00:14:48,490
+deuxième signal essentiellement pour inhiber les lymphocytés.
+
+304
+00:14:48,610 --> 00:14:50,910
+On a aussi l'absence d'activation par
+
+305
+00:14:50,910 --> 00:14:53,430
+un phénomène de régulation.
+
+306
+00:14:53,430 --> 00:14:56,850
+Et puis vous avez aussi la délétion, c
+
+307
+00:14:56,850 --> 00:14:58,830
+'est-à-dire ce qu'on appelle l
+
+308
+00:14:58,830 --> 00:15:03,050
+'AICD, le phénomène de mort cellulaire qui est
+
+309
+00:15:03,050 --> 00:15:04,310
+induite par l'activation.
+
+310
+00:15:04,410 --> 00:15:06,270
+Ça veut dire que la cellule qui est
+
+311
+00:15:06,270 --> 00:15:08,710
+hyperactivée par un antigène persistant va finir par
+
+312
+00:15:08,710 --> 00:15:12,090
+subir l'apoptose en mobilisant ce qu'on
+
+313
+00:15:12,090 --> 00:15:14,250
+appelle les domaines de mort face ligants qui
+
+314
+00:15:14,250 --> 00:15:17,350
+va aboutir à une apoptose physiologique pour réguler
+
+315
+00:15:17,350 --> 00:15:18,990
+les lymphocytés.
+
+316
+00:15:19,430 --> 00:15:21,770
+Et puis vous avez en dernier ce qu
+
+317
+00:15:21,770 --> 00:15:24,550
+'on appelle le phénomène des neurones immunologiques.
+
+318
+00:15:24,950 --> 00:15:26,450
+Ça veut dire que même si on a
+
+319
+00:15:26,450 --> 00:15:29,270
+un lymphocyté autoréactif, il est là, mais il
+
+320
+00:15:29,270 --> 00:15:31,270
+y a une barrière anatomique qui le sépare
+
+321
+00:15:31,270 --> 00:15:33,670
+de ses antigènes du soi et donc auxquels
+
+322
+00:15:33,670 --> 00:15:34,290
+il n'a pas accès.
+
+323
+00:15:34,510 --> 00:15:37,570
+Mais si jamais cette barrière anatomique est rempue,
+
+324
+00:15:37,710 --> 00:15:41,090
+on aura l'accès de ses lymphocytés autoréactifs
+
+325
+00:15:41,090 --> 00:15:43,810
+à ses antigènes du soi et va donc
+
+326
+00:15:43,810 --> 00:15:45,110
+les détruire.
+
+327
+00:15:47,150 --> 00:15:49,250
+Donc ça c'est par rapport aux lymphocytés.
+
+328
+00:15:49,250 --> 00:15:51,470
+Mais qu'en est-il pour les lymphocytes
+
+329
+00:15:51,470 --> 00:15:52,310
+B ?
+
+330
+00:15:52,310 --> 00:15:54,530
+Les lymphocytes B, c'est un peu moins
+
+331
+00:15:54,530 --> 00:15:57,910
+connu par rapport aux mécanismes de tolérance des
+
+332
+00:15:57,910 --> 00:15:58,850
+lymphocytes T.
+
+333
+00:15:59,970 --> 00:16:02,370
+Cette tolérance-là aussi, comme tout à l
+
+334
+00:16:02,370 --> 00:16:05,030
+'heure, est centrale et périphérique, c'est-à
+
+335
+00:16:05,030 --> 00:16:06,430
+-dire au niveau de la moelle osteuse et
+
+336
+00:16:06,430 --> 00:16:09,710
+également au niveau des organes lymphoïdes secondaires.
+
+337
+00:16:10,770 --> 00:16:13,070
+Donc vous avez ici les organes lymphoïdes secondaires.
+
+338
+00:16:13,570 --> 00:16:16,230
+Alors il est cependant moins efficace que celle
+
+339
+00:16:16,230 --> 00:16:17,850
+exercée par les lymphocytes T.
+
+340
+00:16:17,850 --> 00:16:20,550
+Alors pour résumer un petit peu le phénomène
+
+341
+00:16:20,550 --> 00:16:24,150
+de tolérance des lymphocytes B dans une planque,
+
+342
+00:16:24,850 --> 00:16:27,690
+il consiste soit à un phénomène de déletion
+
+343
+00:16:27,690 --> 00:16:29,750
+clonale qu'on appelle aussi l'apoptose.
+
+344
+00:16:30,310 --> 00:16:31,210
+C'est-à-dire à chaque fois que
+
+345
+00:16:31,210 --> 00:16:34,270
+le lymphocyte B est en cours de maturation
+
+346
+00:16:34,270 --> 00:16:36,090
+au niveau de la moelle osteuse, il est
+
+347
+00:16:36,090 --> 00:16:39,690
+face à plusieurs antigènes, on va dire un
+
+348
+00:16:39,690 --> 00:16:43,810
+antigène multivalent, plusieurs peptides à la fois, qui
+
+349
+00:16:43,810 --> 00:16:45,950
+lui sont présentés par la cellule stromale de
+
+350
+00:16:45,950 --> 00:16:47,350
+la moelle osteuse.
+
+351
+00:16:47,830 --> 00:16:51,570
+Donc cette forte avidité qu'aura le lymphocyte
+
+352
+00:16:51,570 --> 00:16:53,370
+B en cours de maturation vis-à-vis
+
+353
+00:16:53,370 --> 00:16:57,470
+de ces antigènes multivalents va finir par détruire
+
+354
+00:16:57,470 --> 00:16:59,690
+ou la éliminer ce lymphocyte B parce que
+
+355
+00:16:59,690 --> 00:17:01,810
+c'est un clone autoréactif.
+
+356
+00:17:02,050 --> 00:17:03,690
+Donc il agit avec forte avidité vis-à
+
+357
+00:17:03,690 --> 00:17:06,069
+-vis des antigènes du soi qui lui sont
+
+358
+00:17:06,069 --> 00:17:08,710
+présentés par la cellule stromale de la moelle
+
+359
+00:17:08,710 --> 00:17:09,130
+osteuse.
+
+360
+00:17:09,250 --> 00:17:10,630
+Deuxièmement, vous avez le phénomène d'énergie.
+
+361
+00:17:11,190 --> 00:17:12,950
+C'est-à-dire là aussi, le clone
+
+362
+00:17:12,950 --> 00:17:16,030
+B, il devient ignorant vis-à-vis des
+
+363
+00:17:16,030 --> 00:17:19,050
+antigènes qui sont plutôt faibles à affinités, etc.,
+
+364
+00:17:19,050 --> 00:17:19,750
+monovalents.
+
+365
+00:17:20,170 --> 00:17:22,050
+Là aussi, chaque fois qu'on a un
+
+366
+00:17:22,050 --> 00:17:25,270
+antigène qui est incapable d'être reconnu correctement,
+
+367
+00:17:25,430 --> 00:17:27,390
+il est faible, il a une faible affinité.
+
+368
+00:17:27,569 --> 00:17:30,550
+Donc du coup, le clone B qui est
+
+369
+00:17:30,550 --> 00:17:32,470
+en rapport avec cet antigène, qui est censé
+
+370
+00:17:32,470 --> 00:17:35,450
+le reconnaître, va disparaître parce que, tout simplement,
+
+371
+00:17:36,050 --> 00:17:38,230
+c'est un risque d'immunité secondaire.
+
+372
+00:17:38,450 --> 00:17:40,150
+Troisièmement, on a ce qu'on appelle un
+
+373
+00:17:40,150 --> 00:17:43,250
+phénomène qui est connu sous le nom récepteur,
+
+374
+00:17:43,470 --> 00:17:44,910
+ou récepteur editing, c'est-à-dire le
+
+375
+00:17:44,910 --> 00:17:48,790
+BCR, qui est le principal mode de mécanisme,
+
+376
+00:17:49,030 --> 00:17:51,890
+je veux dire, de reconnaissance des antigènes, que
+
+377
+00:17:51,890 --> 00:17:53,090
+ce soit du soie ou autre.
+
+378
+00:17:53,630 --> 00:17:56,450
+Donc, le lymphocyte B, pour tolérer le soie,
+
+379
+00:17:56,550 --> 00:17:57,110
+qu'est-ce qu'il fait ?
+
+380
+00:17:57,110 --> 00:18:00,670
+Il va tout simplement faire disparaître ce BCR
+
+381
+00:18:00,670 --> 00:18:01,650
+qui est autoréactif.
+
+382
+00:18:02,070 --> 00:18:05,130
+C'est un effacement du BCR, autoréactif, donc
+
+383
+00:18:05,130 --> 00:18:08,990
+pour faire disparaître l'autoréactivité du lymphocyte B.
+
+384
+00:18:08,990 --> 00:18:11,190
+Voilà un petit peu, on résumait, comment le
+
+385
+00:18:11,190 --> 00:18:15,370
+lymphocyte B arrive à tolérer le soie, soit
+
+386
+00:18:15,370 --> 00:18:17,450
+à l'échelle centrale, soit à l'échelle
+
+387
+00:18:17,450 --> 00:18:18,630
+périphérique.
+
+388
+00:18:20,600 --> 00:18:22,900
+Maintenant, par rapport, on a vu la tolérance,
+
+389
+00:18:23,360 --> 00:18:28,240
+quelles sont les situations dans lesquelles cette tolérance
+
+390
+00:18:28,240 --> 00:18:30,000
+est rompue ?
+
+391
+00:18:30,000 --> 00:18:32,400
+La tolérance, ce soit peut-être rompue à
+
+392
+00:18:32,400 --> 00:18:36,380
+la suite de plusieurs mécanismes ou situations, soit
+
+393
+00:18:36,380 --> 00:18:39,000
+que si l'lymphocyte T ou B reconnaissent
+
+394
+00:18:39,000 --> 00:18:41,820
+des antigènes qui ont été modifiés, et cette
+
+395
+00:18:41,820 --> 00:18:44,980
+modification des autantigènes peut avoir lieu suite à
+
+396
+00:18:44,980 --> 00:18:50,980
+une modification physico-chimique de ces autantigènes, ils
+
+397
+00:18:50,980 --> 00:18:53,080
+vont faire apparaître du coup un nouveau déterminant
+
+398
+00:18:53,080 --> 00:18:55,440
+génique qui va faire appel à des clones
+
+399
+00:18:55,440 --> 00:18:56,740
+autoréactifs.
+
+400
+00:18:57,380 --> 00:18:58,980
+Ou bien, c'est une modification qui est
+
+401
+00:18:58,980 --> 00:19:01,260
+structurelle, qu'on appelle conformationnelle.
+
+402
+00:19:02,120 --> 00:19:05,140
+Vous avez des exemples, on a le cas
+
+403
+00:19:05,140 --> 00:19:07,760
+par exemple d'un médicament, que vous allez
+
+404
+00:19:07,760 --> 00:19:11,740
+pouvoir utiliser, ou bien entendre parler, l'alpha
+
+405
+00:19:11,740 --> 00:19:15,320
+-methyldopa, c'est un traitement antépertenseur qu'on
+
+406
+00:19:15,320 --> 00:19:17,720
+a mis pour certains patients, de moins en
+
+407
+00:19:17,720 --> 00:19:20,440
+moins utilisé, mais il a été prouvé qu
+
+408
+00:19:20,440 --> 00:19:22,220
+'en quoi ce médicament, il est capable d
+
+409
+00:19:22,220 --> 00:19:25,080
+'aller interagir avec les globules rouges ou les
+
+410
+00:19:25,080 --> 00:19:27,620
+antigènes du globule rouge sanguin, et il fait
+
+411
+00:19:27,620 --> 00:19:31,880
+apparaître du coup de nouveaux autantigènes, les anticœurs,
+
+412
+00:19:32,420 --> 00:19:34,480
+et donc ils vont appeler des autanticœurs qui
+
+413
+00:19:34,480 --> 00:19:36,620
+seraient dirigés contre le rhesus.
+
+414
+00:19:36,860 --> 00:19:38,880
+Donc ils vont aboutir à la destruction des
+
+415
+00:19:38,880 --> 00:19:40,880
+globules rouges, et il va finir par aboutir
+
+416
+00:19:40,880 --> 00:19:42,660
+à ce qu'on appelle un ennemi hémolytique
+
+417
+00:19:42,660 --> 00:19:43,420
+auto-immune.
+
+418
+00:19:44,560 --> 00:19:48,340
+Alors voilà un petit peu comment schématiquement, un
+
+419
+00:19:48,340 --> 00:19:52,080
+globule rouge avec des antigènes rhesus qui sont
+
+420
+00:19:52,080 --> 00:19:55,200
+nouvellement apparus, donc vont aller appeler un clone
+
+421
+00:19:55,200 --> 00:19:56,760
+de l'infocyte B qui va produire des
+
+422
+00:19:56,760 --> 00:20:00,460
+autanticœurs, et ces autanticœurs vont justement aboutir à
+
+423
+00:20:00,460 --> 00:20:02,960
+la destruction du globule rouge par l'hys,
+
+424
+00:20:03,080 --> 00:20:06,360
+donc on a une hémolyse bien sûr avec
+
+425
+00:20:06,360 --> 00:20:08,360
+l'anémie derrière, qui est d'origine auto
+
+426
+00:20:08,360 --> 00:20:08,620
+-immune.
+
+427
+00:20:11,210 --> 00:20:14,150
+Deuxièmement, on a ce qu'on appelle une
+
+428
+00:20:14,150 --> 00:20:16,470
+activation des cellules énergiques qu'on a vu
+
+429
+00:20:16,470 --> 00:20:17,030
+tout à l'heure.
+
+430
+00:20:17,990 --> 00:20:21,390
+L'activation de l'infocyte B énergique peut
+
+431
+00:20:21,390 --> 00:20:24,330
+avoir lieu suite à deux phénomènes.
+
+432
+00:20:24,630 --> 00:20:26,050
+Le premier étant ce qu'on appelle le
+
+433
+00:20:26,050 --> 00:20:27,190
+mimétisme moléculaire.
+
+434
+00:20:27,430 --> 00:20:28,850
+Comme vous le connaissez, le mimétisme c'est
+
+435
+00:20:28,850 --> 00:20:32,290
+une sorte de ressemblance entre des structures moléculaires.
+
+436
+00:20:32,290 --> 00:20:35,750
+Donc il est lié tout simplement au fait
+
+437
+00:20:35,750 --> 00:20:38,030
+que le système immunitaire lorsqu'il reconnaît un
+
+438
+00:20:38,030 --> 00:20:40,410
+antigène et celui d'un agent pathogène, qu
+
+439
+00:20:40,410 --> 00:20:44,750
+'il soit viral ou bactérien ou parasitaire, ces
+
+440
+00:20:44,750 --> 00:20:49,770
+antigènes partagent des similitudes moléculaires avec des antigènes
+
+441
+00:20:49,770 --> 00:20:51,650
+du soie, du coup le système immunitaire lorsqu
+
+442
+00:20:51,650 --> 00:20:56,810
+'il réagit va confondre les antigènes microbiens avec
+
+443
+00:20:56,810 --> 00:20:58,550
+les antigènes du soie, donc il risque d
+
+444
+00:20:58,550 --> 00:21:02,310
+'attaquer justement les tissus ou le soie de
+
+445
+00:21:02,310 --> 00:21:03,050
+façon générale.
+
+446
+00:21:03,710 --> 00:21:05,530
+Donc ça a été prouvé au cours de
+
+447
+00:21:05,530 --> 00:21:09,650
+certaines maladies, notamment le diabète au rapport avec
+
+448
+00:21:09,650 --> 00:21:12,570
+un virus Coxsackie B4.
+
+449
+00:21:13,130 --> 00:21:14,590
+Ce virus donc parce qu'il a des
+
+450
+00:21:14,590 --> 00:21:18,410
+similitudes moléculaires avec des cellules l'ingérence de
+
+451
+00:21:18,410 --> 00:21:21,910
+bêta du pancréas, donc du coup la réponse
+
+452
+00:21:21,910 --> 00:21:24,750
+immunitaire va être dirigée aussi bien contre le
+
+453
+00:21:24,750 --> 00:21:28,130
+virus que contre les cellules bêta et donc
+
+454
+00:21:28,130 --> 00:21:30,090
+du coup il est derrière parmi les autres
+
+455
+00:21:30,090 --> 00:21:31,930
+facteurs avec le diabète.
+
+456
+00:21:33,130 --> 00:21:35,150
+Et puis le deuxième cas qui est très
+
+457
+00:21:35,150 --> 00:21:38,050
+connu c'est le rématisme articulé rugueux ce
+
+458
+00:21:38,050 --> 00:21:40,790
+rématisme articulé rugueux on retrouve un peu une
+
+459
+00:21:40,790 --> 00:21:43,850
+similitude là aussi entre des stéréotypes du streptococque
+
+460
+00:21:43,850 --> 00:21:46,430
+avec des antigènes du coeur d'endocarde, ce
+
+461
+00:21:46,430 --> 00:21:49,830
+qui fait que les personnes qui font des
+
+462
+00:21:49,830 --> 00:21:55,670
+angines streptococciques ils font après des attentes articulaires
+
+463
+00:21:55,670 --> 00:21:58,490
+à l'atteinte endocardique qui est tout simplement
+
+464
+00:21:58,490 --> 00:22:02,750
+à la réponse immunitaire dirigée contre ces deux
+
+465
+00:22:02,750 --> 00:22:06,810
+structures qui ont un mimétisme moléculaire donc on
+
+466
+00:22:06,810 --> 00:22:08,330
+a de l'auto-immunité derrière.
+
+467
+00:22:08,870 --> 00:22:09,850
+Deuxièmement on a ce qu'on appelle l
+
+468
+00:22:09,850 --> 00:22:12,570
+'activation polyclonale versus monoclonale vous le connaissez, donc
+
+469
+00:22:12,570 --> 00:22:14,970
+l'activation polyclonale consiste tout simplement à activer
+
+470
+00:22:14,970 --> 00:22:17,430
+plusieurs clones de la phocyté ou de la
+
+471
+00:22:17,430 --> 00:22:17,850
+phocyte B.
+
+472
+00:22:18,070 --> 00:22:22,270
+On a aussi des exemples les patients il
+
+473
+00:22:22,270 --> 00:22:24,470
+a été prouvé qu'en quoi certains patients
+
+474
+00:22:24,470 --> 00:22:28,890
+qui sont sous traitement interférent alpha parce qu
+
+475
+00:22:28,890 --> 00:22:30,310
+'ils ont de l'hépatite C, entre autres
+
+476
+00:22:30,310 --> 00:22:33,830
+parmi les stratégies thérapeutiques qui sont adoptées on
+
+477
+00:22:33,830 --> 00:22:37,670
+a l'activation de la phocyté par l
+
+478
+00:22:37,670 --> 00:22:41,110
+'interférent alpha et qui peut aboutir justement à
+
+479
+00:22:41,110 --> 00:22:46,970
+attaquer le tissus thérapeutique qui a été observé
+
+480
+00:22:46,970 --> 00:22:49,170
+dans à peu près 2 à 10%
+
+481
+00:22:49,170 --> 00:22:51,430
+d'écarts selon les séries.
+
+482
+00:22:51,430 --> 00:22:55,850
+On a aussi un deuxième exemple on a
+
+483
+00:22:55,850 --> 00:22:58,770
+démontré que chez les patients qui sont lupiques
+
+484
+00:23:00,350 --> 00:23:03,070
+qui ont fait des infections virales, notamment Abstract
+
+485
+00:23:03,070 --> 00:23:06,770
+Barbarus cet Abstract Barbarus il a la capacité
+
+486
+00:23:07,150 --> 00:23:12,370
+de générer beaucoup d'interleukins 6 et cet
+
+487
+00:23:12,370 --> 00:23:14,690
+interleukin 6 va activer de façon polyclonale la
+
+488
+00:23:14,690 --> 00:23:18,070
+phocyte B et cette activation polyclonale de la
+
+489
+00:23:18,070 --> 00:23:20,810
+phocyte B va être derrière la production de
+
+490
+00:23:20,810 --> 00:23:23,990
+tanticorps notamment ceux associés au lupus Voilà un
+
+491
+00:23:23,990 --> 00:23:26,290
+peu comment le mémétisme moléculaire et l'activation
+
+492
+00:23:26,290 --> 00:23:30,590
+polyclonale sont responsables de ce phénomène de rupture
+
+493
+00:23:30,590 --> 00:23:34,030
+du soin notamment en activant les lymphocytes dites
+
+494
+00:23:34,030 --> 00:23:39,230
+énergiques initialement Après vous avez le phénomène le
+
+495
+00:23:39,230 --> 00:23:41,730
+troisième phénomène de la rupture de la tolérance
+
+496
+00:23:41,730 --> 00:23:43,610
+au soin qui est la reconnaissance de tantigènes
+
+497
+00:23:43,610 --> 00:23:46,470
+qui sont dites ignorées Tout à l'heure
+
+498
+00:23:46,470 --> 00:23:47,590
+je vous ai expliqué qu'est-ce que
+
+499
+00:23:47,590 --> 00:23:49,470
+c'est que le phénomène où les antigènes
+
+500
+00:23:49,470 --> 00:23:52,310
+ignorés ou bien séquestrés sont situés dans des
+
+501
+00:23:52,310 --> 00:23:55,590
+sites anatomiques auxquels les lymphocytes B ou T
+
+502
+00:23:55,590 --> 00:23:57,430
+n'ont pas accès C'est le cas
+
+503
+00:23:57,430 --> 00:24:00,110
+du système nerveux central notamment de la myéline
+
+504
+00:24:00,110 --> 00:24:03,190
+des cellules gonadiques notamment des testicules et des
+
+505
+00:24:03,190 --> 00:24:05,950
+antigènes du cristallin Voilà sur la figure ici
+
+506
+00:24:05,950 --> 00:24:10,770
+un exemple qui illustre bien ce phénomène de
+
+507
+00:24:10,770 --> 00:24:13,150
+rupture de la tolérance vis-à-vis de
+
+508
+00:24:13,150 --> 00:24:17,070
+certains antigènes Ici vous voyez l'œil un
+
+509
+00:24:17,070 --> 00:24:19,650
+schéma de l'œil et vous avez ici
+
+510
+00:24:20,770 --> 00:24:23,810
+quelque part lorsque par exemple quelqu'un fait
+
+511
+00:24:23,810 --> 00:24:26,310
+un traumatisme d'un œil par exemple droit
+
+512
+00:24:26,310 --> 00:24:29,450
+ou gauche donc ce traumatisme de l'œil
+
+513
+00:24:30,470 --> 00:24:34,850
+qui concerne la chambre antérieure la chambre antérieure
+
+514
+00:24:36,350 --> 00:24:40,030
+contient des antigènes qui sont séquestrés qui n
+
+515
+00:24:40,030 --> 00:24:44,770
+'étaient pas reconnus tolérés par les lymphocytes B
+
+516
+00:24:44,770 --> 00:24:47,170
+ou T etc lorsqu'ils sont libérés dans
+
+517
+00:24:47,170 --> 00:24:49,950
+la circulation ils vont atteindre ils vont être
+
+518
+00:24:49,950 --> 00:24:52,190
+reconnus par des cellules de l'immunité notamment
+
+519
+00:24:52,190 --> 00:24:55,450
+au niveau des organes influides etc et qu
+
+520
+00:24:55,450 --> 00:24:57,390
+'est-ce qu'il fait qu'est-ce
+
+521
+00:24:57,390 --> 00:24:58,430
+qu'il se passe c'est qu'on
+
+522
+00:24:58,430 --> 00:25:04,850
+a une activation des lymphocytes T essentiellement théoréactifs
+
+523
+00:25:04,850 --> 00:25:08,430
+qui vont aller attaquer reconnaître ces antigènes qui
+
+524
+00:25:08,430 --> 00:25:10,430
+étaient ignorés aussi bien de l'œil droit
+
+525
+00:25:10,430 --> 00:25:12,290
+ou de l'œil traumatisé que de l
+
+526
+00:25:12,290 --> 00:25:14,010
+'œil contralatéral c'est ce qu'on appelle
+
+527
+00:25:14,010 --> 00:25:18,450
+le phénomène d'ophtalmie sympathique l'œil contralatéral
+
+528
+00:25:18,450 --> 00:25:20,430
+sympathise avec l'œil traumatisé ce qu'on
+
+529
+00:25:20,430 --> 00:25:23,030
+appelle l'ophtalmie sympathique qui est tout simplement
+
+530
+00:25:23,030 --> 00:25:26,150
+lié à cette reconnaissance d'un antigène qui
+
+531
+00:25:26,150 --> 00:25:28,510
+n'était pas reconnu ou protégé ou toléré
+
+532
+00:25:28,510 --> 00:25:32,390
+initialement voilà un exemple qui illustre cette reconnaissance
+
+533
+00:25:32,690 --> 00:25:35,110
+d'un antigène qui est ignoré ou séquestré
+
+534
+00:25:35,110 --> 00:25:40,390
+dans l'activation des clones auto-réactifs Le
+
+535
+00:25:40,390 --> 00:25:43,590
+quatrième facteur à l'origine de la rupture
+
+536
+00:25:43,590 --> 00:25:46,870
+de la tolérance sourde serait une perturbation éventuelle
+
+537
+00:25:46,870 --> 00:25:51,930
+du réseau édiotypique comme vous le savez on
+
+538
+00:25:51,930 --> 00:25:55,170
+parle de l'édiotypie lorsqu'on est dans
+
+539
+00:25:55,170 --> 00:25:57,870
+la région ou les zones épervariables d'une
+
+540
+00:25:57,870 --> 00:26:00,450
+immunoglobuline ou de l'anticorps de façon générale
+
+541
+00:26:01,610 --> 00:26:05,970
+alors ce réseau édiotypique il est créé par
+
+542
+00:26:05,970 --> 00:26:08,090
+à chaque fois qu'il y a un
+
+543
+00:26:08,090 --> 00:26:12,170
+antigène d'un agent pathogène ou bien même
+
+544
+00:26:12,170 --> 00:26:14,050
+des auto-antigènes bien évidemment lorsqu'on parle
+
+545
+00:26:14,050 --> 00:26:18,030
+d'auto-immunité et dans ces situations où
+
+546
+00:26:18,030 --> 00:26:20,970
+on a un antigène qui est reconnu par
+
+547
+00:26:20,970 --> 00:26:25,430
+un anticorps vous avez donc tout simplement grâce
+
+548
+00:26:25,430 --> 00:26:29,350
+à cette région épervariable donc l'anticorps va
+
+549
+00:26:29,350 --> 00:26:32,650
+reconnaître un antigène et en même temps cette
+
+550
+00:26:32,650 --> 00:26:37,830
+édiotypie qui reconnaît l'antigène initialement microbia ou
+
+551
+00:26:37,830 --> 00:26:41,410
+auto-antigène va pouvoir grâce à ce déterminant
+
+552
+00:26:41,410 --> 00:26:44,830
+édiotypique qui est en quelque sorte un antigène
+
+553
+00:26:45,590 --> 00:26:50,470
+de l'anticorps un déterminant qui définit l
+
+554
+00:26:50,470 --> 00:26:53,050
+'antigénicité de la partie variable de l'anticorps
+
+555
+00:26:53,300 --> 00:26:57,270
+va être reconnu, va induire un anticorps un
+
+556
+00:26:57,270 --> 00:27:00,570
+anticorps 2 de la même façon un anticorps
+
+557
+00:27:00,570 --> 00:27:04,010
+2 va induire un anticorps 3 grâce tout
+
+558
+00:27:04,010 --> 00:27:06,770
+simplement à la reconnaissance de ces édiotypes qui
+
+559
+00:27:06,770 --> 00:27:10,210
+existent au niveau des régions variables donc on
+
+560
+00:27:10,210 --> 00:27:12,890
+a dans un sens une sorte d'activation
+
+561
+00:27:12,890 --> 00:27:16,790
+séquentielle qui va finir par développer plusieurs anticorps,
+
+562
+00:27:16,870 --> 00:27:19,870
+anticorps 1 anticorps 2, anticorps 3, etc et
+
+563
+00:27:19,870 --> 00:27:21,950
+en même temps, chaque anticorps qui est généré,
+
+564
+00:27:22,110 --> 00:27:23,670
+qui est induit par celui qui l'a
+
+565
+00:27:23,670 --> 00:27:26,470
+précédé va essayer d'antagoniser ou d'inhiber
+
+566
+00:27:26,470 --> 00:27:28,530
+celui qui l'a précédé justement, on aura
+
+567
+00:27:28,530 --> 00:27:32,310
+des anticorps 2, anti 1 anticorps 3, anti
+
+568
+00:27:32,310 --> 00:27:34,310
+2, etc c'est ce qu'on appelle
+
+569
+00:27:34,310 --> 00:27:36,390
+un réseau idéotypique ça finit par créer un
+
+570
+00:27:36,390 --> 00:27:38,510
+cercle vicieux dans un sens il y a
+
+571
+00:27:38,510 --> 00:27:41,830
+une activation continue, en même temps chaque anticorps
+
+572
+00:27:41,830 --> 00:27:44,770
+essaye d'inhibir celui qui a été à
+
+573
+00:27:44,770 --> 00:27:47,690
+l'origine de sa genèse de sa production
+
+574
+00:27:48,730 --> 00:27:50,970
+du coup, c'est une réaction en chaîne
+
+575
+00:27:51,550 --> 00:27:54,450
+qui va dans un sens induire plusieurs anticorps,
+
+576
+00:27:54,550 --> 00:27:57,370
+en même temps on a une inhibition rétrograde
+
+577
+00:27:57,370 --> 00:28:00,430
+l'anticorps 1 inhibe l'anticorps 1, l
+
+578
+00:28:00,430 --> 00:28:02,630
+'anticorps 3 inhibe l'anticorps 2, ainsi de
+
+579
+00:28:02,630 --> 00:28:07,350
+suite alors sur cette base ces anticorps là
+
+580
+00:28:07,350 --> 00:28:13,470
+qui sont peuvent être dirigés soit contre des
+
+581
+00:28:13,470 --> 00:28:17,090
+autantigènes, donc on a des autanticorps qui sont
+
+582
+00:28:17,090 --> 00:28:20,410
+produits ou qui vont cibler les autantigènes, ça
+
+583
+00:28:20,410 --> 00:28:23,870
+veut dire la partie idéotypique de cet anticorps
+
+584
+00:28:23,870 --> 00:28:26,850
+on va cibler des autantigènes comme ça peut
+
+585
+00:28:26,850 --> 00:28:31,350
+cibler aussi des autanticorps l'idéotype est dirigé
+
+586
+00:28:31,350 --> 00:28:33,970
+contre l'antigène mais aussi il est dirigé
+
+587
+00:28:33,970 --> 00:28:37,390
+contre l'idéotype d'un autre anticorps si
+
+588
+00:28:37,390 --> 00:28:39,310
+on considère par exemple, je reviens ici au
+
+589
+00:28:39,310 --> 00:28:42,810
+schéma si on considère que l'anticorps 1
+
+590
+00:28:43,610 --> 00:28:47,530
+il est dirigé contre un autantigène donc cet
+
+591
+00:28:47,530 --> 00:28:53,030
+autanticorps il est pathologique et pour inhiber ou
+
+592
+00:28:53,030 --> 00:28:57,190
+pour bloquer casser ce réseau dans un but
+
+593
+00:28:57,190 --> 00:29:02,850
+thérapeutique on peut fabriquer des anticorps anti-idéotypiques
+
+594
+00:29:02,850 --> 00:29:07,090
+des anticorps monoclonaux qui vont aller cibler cette
+
+595
+00:29:07,090 --> 00:29:11,150
+partie épervariable, ces idéotypes pour l'inhiber, et
+
+596
+00:29:11,150 --> 00:29:12,890
+c'est un principe qu'on utilise actuellement
+
+597
+00:29:12,890 --> 00:29:15,330
+pour traiter certaines maladies, voilà un petit peu
+
+598
+00:29:15,330 --> 00:29:19,330
+comment d'abord la perturbation de cette idéotypie
+
+599
+00:29:19,330 --> 00:29:22,870
+qui peut être induite par un autantigène mais
+
+600
+00:29:22,870 --> 00:29:25,790
+en même temps on exploite cette idéotypie ou
+
+601
+00:29:25,790 --> 00:29:30,090
+ce réseau idéotypique pour fabriquer ou pour instaurer
+
+602
+00:29:30,090 --> 00:29:34,030
+une approche immunothérapique à base d'anticorps anti
+
+603
+00:29:34,030 --> 00:29:40,230
+-idéotypiques le cinquième élément, facteur responsable de la
+
+604
+00:29:40,230 --> 00:29:41,650
+rupture de la tolérance aux soins c'est
+
+605
+00:29:41,650 --> 00:29:45,230
+tout simplement une dérégulation du système immunitaire alors
+
+606
+00:29:45,230 --> 00:29:46,830
+le système immunitaire, comme vous le savez, il
+
+607
+00:29:46,830 --> 00:29:50,410
+est régulé par plusieurs facteurs notamment ce qu
+
+608
+00:29:50,410 --> 00:29:52,830
+'on appelle les lymphocytes T régulateurs ou les
+
+609
+00:29:52,830 --> 00:29:59,050
+lymphocytes T immunosuppressifs donc lorsqu'on a une
+
+610
+00:29:59,050 --> 00:30:02,190
+perte ou absence de ces régulateurs ou bien
+
+611
+00:30:02,190 --> 00:30:05,650
+il y a une activation excessive des lymphocytes
+
+612
+00:30:05,650 --> 00:30:08,430
+T helpers qui échappent à cette régulation, on
+
+613
+00:30:08,430 --> 00:30:12,270
+s'expose à la perturbation du système immunitaire
+
+614
+00:30:12,270 --> 00:30:14,790
+comme vous l'avez vu aussi, lorsqu'un
+
+615
+00:30:14,790 --> 00:30:17,310
+lymphocyte B il est hyperactif suite à une
+
+616
+00:30:17,310 --> 00:30:19,330
+activation polyclonale, je l'ai mentionné tout à
+
+617
+00:30:19,330 --> 00:30:21,670
+l'heure lorsqu'on a des, par exemple
+
+618
+00:30:21,670 --> 00:30:26,230
+des cétokines notamment l'interleukine 6 qui peut
+
+619
+00:30:26,230 --> 00:30:28,950
+être libéré suite d'une infection quelconque, qu
+
+620
+00:30:28,950 --> 00:30:31,590
+'elle soit bactérienne ou virale, l'exemple que
+
+621
+00:30:31,590 --> 00:30:32,130
+je vous ai donné tout à l'heure
+
+622
+00:30:32,130 --> 00:30:33,950
+par rapport à l'EBV donc vous avez
+
+623
+00:30:33,950 --> 00:30:38,390
+donc une activation polyclonale qui soit intrinsèque parce
+
+624
+00:30:38,390 --> 00:30:39,610
+qu'il y a de l'interleukine 6
+
+625
+00:30:40,350 --> 00:30:43,190
+générée suite à une circonstance infectieuse ou autre,
+
+626
+00:30:43,790 --> 00:30:46,010
+comme ça peut être aussi une activation polyclonale
+
+627
+00:30:46,010 --> 00:30:49,130
+par des super-antigènes et des infections de
+
+628
+00:30:49,130 --> 00:30:51,390
+façon générale, qu'elles soient virales, bactériennes ou
+
+629
+00:30:51,390 --> 00:30:51,610
+autres.
+
+630
+00:30:52,010 --> 00:30:53,770
+Vous avez aussi donc lorsqu'on a une
+
+631
+00:30:53,770 --> 00:30:56,210
+perte de la balance cétokinique qui devait être
+
+632
+00:30:56,210 --> 00:30:59,690
+maintenue normalement entre le profil T helper A
+
+633
+00:30:59,690 --> 00:31:00,670
+et TH2, etc.
+
+634
+00:31:01,250 --> 00:31:03,890
+Vous avez donc cette balance cétokinique à chaque
+
+635
+00:31:03,890 --> 00:31:06,410
+fois qu'il y a une sorte de
+
+636
+00:31:06,410 --> 00:31:10,050
+prédisposition avec une tendance à un profil plus
+
+637
+00:31:10,050 --> 00:31:11,810
+que l'autre, donc on parle de déséquilibre,
+
+638
+00:31:11,830 --> 00:31:14,550
+et ce déséquilibre cétokinique va être à l
+
+639
+00:31:14,550 --> 00:31:18,470
+'origine de la perturbation et de la rupture
+
+640
+00:31:18,470 --> 00:31:20,910
+de la tolérance immunitaire vis-à-vis des
+
+641
+00:31:20,910 --> 00:31:21,610
+antigènes du soin.
+
+642
+00:31:22,770 --> 00:31:24,750
+Voilà un petit peu comment on peut résumer
+
+643
+00:31:24,750 --> 00:31:27,990
+des situations de dérégulation du système immunitaire qui
+
+644
+00:31:27,990 --> 00:31:29,290
+vont être à l'origine de la rupture
+
+645
+00:31:29,290 --> 00:31:31,150
+de la tolérance vis-à-vis des antigènes
+
+646
+00:31:31,150 --> 00:31:31,530
+du soin.
+
+647
+00:31:32,070 --> 00:31:35,790
+Maintenant, comme deuxième grand chapitre, on va aborder
+
+648
+00:31:35,790 --> 00:31:41,030
+les mécanismes pathologiques ou lésionnels qui accompagnent des
+
+649
+00:31:41,030 --> 00:31:42,010
+maladies auto-immunes.
+
+650
+00:31:42,690 --> 00:31:44,910
+Alors on va voir en premier ceux qui
+
+651
+00:31:44,910 --> 00:31:50,450
+sont en rapport avec on va dire des
+
+652
+00:31:50,450 --> 00:31:52,710
+anti-corps et on va voir aussi la
+
+653
+00:31:52,710 --> 00:31:56,130
+possibilité de mécanismes lésionnels induits par les lymphocytes
+
+654
+00:31:56,130 --> 00:31:57,070
+hétéro-autoréactifs.
+
+655
+00:31:57,650 --> 00:31:59,230
+Alors le premier qui est très connu, on
+
+656
+00:31:59,230 --> 00:32:01,550
+va dire qu'il est facile à assimiler,
+
+657
+00:32:02,410 --> 00:32:05,950
+on a des mécanismes de cétotoxicité qui est
+
+658
+00:32:05,950 --> 00:32:08,750
+médié par les anticorps ou bien le complément.
+
+659
+00:32:09,810 --> 00:32:11,530
+On est face à des auto-anticorps qui
+
+660
+00:32:11,530 --> 00:32:15,170
+sont là, qui vont créer, qui vont aller
+
+661
+00:32:15,170 --> 00:32:18,230
+se fixer sur un auto-antigène et une
+
+662
+00:32:18,230 --> 00:32:20,670
+fois qu'ils vont fixer un antigène, donc,
+
+663
+00:32:21,070 --> 00:32:23,590
+ils peuvent facilement, grâce à leur capacité de
+
+664
+00:32:23,590 --> 00:32:26,170
+cytophilie, que vous connaissez, de se fixer sur
+
+665
+00:32:26,170 --> 00:32:29,410
+des récepteurs cellulaires qui existent sur l'immunité
+
+666
+00:32:29,410 --> 00:32:30,210
+innée ou autre.
+
+667
+00:32:30,530 --> 00:32:33,990
+Vous avez donc ces récepteurs, grâce à ces
+
+668
+00:32:33,990 --> 00:32:37,230
+récepteurs, donc, l'auto-anticorps qui a fixé
+
+669
+00:32:37,230 --> 00:32:42,290
+un antigène va aboutir à ramener par exemple
+
+670
+00:32:42,810 --> 00:32:45,470
+une plaquette ou bien un globule rouge sur
+
+671
+00:32:45,470 --> 00:32:48,270
+lequel ils avaient reconnu, détecté un auto-antigène
+
+672
+00:32:48,270 --> 00:32:52,550
+anormal, donc ils vont le faire détruire par
+
+673
+00:32:52,550 --> 00:32:52,990
+les macrophages.
+
+674
+00:32:53,630 --> 00:32:56,050
+Ou en utilisant tout simplement le récepteur qui
+
+675
+00:32:56,050 --> 00:32:58,550
+est le FC-γ récepteur, ou ça peut
+
+676
+00:32:58,550 --> 00:33:00,550
+être aussi le FC-μ récepteur.
+
+677
+00:33:00,990 --> 00:33:02,170
+Ça, c'est ce qu'on appelle l
+
+678
+00:33:02,170 --> 00:33:06,130
+'ADCC, l'adcétotoxicité cellulaire dépendante des anticorps.
+
+679
+00:33:06,350 --> 00:33:08,890
+Vous avez donc l'adcétotoxicité qui est médiée
+
+680
+00:33:08,890 --> 00:33:09,850
+par le compliment.
+
+681
+00:33:10,350 --> 00:33:12,890
+De la même façon, vous avez donc anticorps,
+
+682
+00:33:12,990 --> 00:33:14,950
+c'est-à-dire auto-anticorps fixés sur
+
+683
+00:33:14,950 --> 00:33:17,470
+l'auto-antigène, ça crée un aimant complexe.
+
+684
+00:33:17,790 --> 00:33:19,270
+Un aimant complexe, qu'est-ce qu'il
+
+685
+00:33:19,270 --> 00:33:19,850
+fait ?
+
+686
+00:33:19,850 --> 00:33:22,870
+Il va induire l'activation du système du
+
+687
+00:33:22,870 --> 00:33:26,690
+compliment qui va, lorsqu'il s'active, aboutir
+
+688
+00:33:26,690 --> 00:33:28,370
+à la formation d'un complexe d'attaque
+
+689
+00:33:28,370 --> 00:33:31,670
+membranaire, notamment par voie classique, parce qu'on
+
+690
+00:33:31,670 --> 00:33:33,530
+parle ici d'un complexe antigène-anticorps, et
+
+691
+00:33:33,530 --> 00:33:36,190
+après, ça va finir par une destruction d
+
+692
+00:33:36,190 --> 00:33:38,670
+'une cellule, notamment les globules rouges, ou bien
+
+693
+00:33:38,670 --> 00:33:42,710
+les plaquettes, ou autres cellules de l'immunité
+
+694
+00:33:42,710 --> 00:33:44,150
+de façon générale, ou les autres cellules de
+
+695
+00:33:44,150 --> 00:33:44,530
+l'organisme.
+
+696
+00:33:44,890 --> 00:33:47,370
+Vous avez donc ici sur la figure des
+
+697
+00:33:47,370 --> 00:33:49,670
+situations où vous avez des anticorps qui se
+
+698
+00:33:49,670 --> 00:33:51,710
+fixent sur des plaquettes ou bien des globules
+
+699
+00:33:51,710 --> 00:33:53,690
+rouges, parce qu'ils ont détecté un auto
+
+700
+00:33:53,690 --> 00:33:58,070
+-antigène, et grâce à leur récepteur FC-γ,
+
+701
+00:33:58,210 --> 00:34:00,010
+ou FC-μ, qui existe sur les macrophages,
+
+702
+00:34:00,630 --> 00:34:03,750
+cet anticorps va ramener les globules rouges, ou
+
+703
+00:34:03,750 --> 00:34:06,850
+bien les plaquettes, au niveau du phagocyte, notamment
+
+704
+00:34:06,850 --> 00:34:09,370
+les poulies nucléaires au macrophage, et après, ils
+
+705
+00:34:09,370 --> 00:34:12,469
+vont le détruire par phagocytose, et après, vous
+
+706
+00:34:12,469 --> 00:34:14,909
+avez la deuxième situation, par activation du système
+
+707
+00:34:14,909 --> 00:34:18,590
+du compliment, l'analyse osmotique de la cellule
+
+708
+00:34:18,590 --> 00:34:20,750
+qui porte des auto-antigènes qui ont été
+
+709
+00:34:20,750 --> 00:34:23,710
+détectés ou reconnus par des auto-anticorps.
+
+710
+00:34:24,070 --> 00:34:24,949
+Voilà un petit peu ce qu'on appelle
+
+711
+00:34:24,949 --> 00:34:28,310
+les phénomènes d'ADCC et de CDCC, qui
+
+712
+00:34:28,310 --> 00:34:31,870
+est responsable de ce qu'on appelle l
+
+713
+00:34:31,870 --> 00:34:34,310
+'anémie hémolithique auto-immune, l'HAI, et également
+
+714
+00:34:34,310 --> 00:34:38,310
+de la thrombopénie, excusez-moi, auto-immune, tout
+
+715
+00:34:38,310 --> 00:34:38,670
+simplement.
+
+716
+00:34:38,870 --> 00:34:40,670
+Voilà, ce sont des choses qui sont décrites,
+
+717
+00:34:40,810 --> 00:34:45,870
+connues, pour expliquer le rôle direct, le rôle
+
+718
+00:34:45,870 --> 00:34:48,690
+pathologique, ou l'effet pathogénique direct des auto
+
+719
+00:34:48,690 --> 00:34:49,190
+-anticorps.
+
+720
+00:34:50,110 --> 00:34:54,770
+Alors, deuxièmement, on a, lorsque là, des aimants
+
+721
+00:34:54,770 --> 00:34:57,890
+complexes formés suite à la fixation d'un
+
+722
+00:34:57,890 --> 00:35:01,390
+anticorps, d'un auto-anticorps, sur un auto
+
+723
+00:35:01,390 --> 00:35:03,810
+-antigène, vous avez donc un complexe aimant qui
+
+724
+00:35:03,810 --> 00:35:04,290
+circule.
+
+725
+00:35:05,390 --> 00:35:07,610
+Lorsqu'il circule, ces complexes aimants, qu'est
+
+726
+00:35:07,610 --> 00:35:07,950
+-ce qu'ils font ?
+
+727
+00:35:07,950 --> 00:35:10,150
+Ils vont aller se fixer sur des vaisseaux
+
+728
+00:35:10,150 --> 00:35:13,170
+et être responsables de vascularites.
+
+729
+00:35:13,490 --> 00:35:15,830
+Vous allez voir en clinique, il y a
+
+730
+00:35:15,830 --> 00:35:19,210
+des vascularites à certains auto-anticorps qu'on
+
+731
+00:35:19,210 --> 00:35:20,450
+appelle des vascularites à honka.
+
+732
+00:35:20,830 --> 00:35:22,750
+Et puis vous avez aussi la fixation de
+
+733
+00:35:22,750 --> 00:35:24,970
+ces aimants complexes au niveau des gloméorhénaux et
+
+734
+00:35:24,970 --> 00:35:27,730
+après, ce qui est associé souvent à un
+
+735
+00:35:27,730 --> 00:35:29,370
+teint lupique rénal.
+
+736
+00:35:29,690 --> 00:35:30,850
+Et puis vous avez aussi, également, ce qu
+
+737
+00:35:30,850 --> 00:35:33,910
+'on appelle les anticorps antirécepteurs.
+
+738
+00:35:34,310 --> 00:35:38,090
+Les anticorps antirécepteurs, on peut en distinguer deux
+
+739
+00:35:38,090 --> 00:35:39,910
+types, ce qu'on appelle des auto-anticorps
+
+740
+00:35:39,910 --> 00:35:42,930
+dits bloquants ou des auto-anticorps qui sont
+
+741
+00:35:42,930 --> 00:35:46,930
+dits stimulants, antagonistes ou bien agonistes.
+
+742
+00:35:47,050 --> 00:35:48,890
+Alors, si je commence par les premiers qui
+
+743
+00:35:48,890 --> 00:35:52,130
+sont des auto-anticorps bloquants, l'exemple de
+
+744
+00:35:52,130 --> 00:35:55,410
+maladie ou le prototype de maladie auto-immune
+
+745
+00:35:55,410 --> 00:35:58,030
+liée à des anticorps ou à des auto
+
+746
+00:35:58,030 --> 00:35:59,590
+-anticorps bloquants, c'est la myasthinie.
+
+747
+00:36:00,310 --> 00:36:02,150
+Je vous rappelle juste des choses que vous
+
+748
+00:36:02,150 --> 00:36:02,850
+connaissez très bien.
+
+749
+00:36:03,750 --> 00:36:06,350
+Dans la myasthinie, on est face à une
+
+750
+00:36:06,350 --> 00:36:09,450
+asthinie musculaire, on est paralysé carrément parce que
+
+751
+00:36:09,450 --> 00:36:15,570
+tout simplement, la synapse neurologique qui doit fonctionner
+
+752
+00:36:15,570 --> 00:36:19,210
+grâce à des récepteurs à la cétylcholine et
+
+753
+00:36:19,210 --> 00:36:21,170
+si vous avez des auto-anticorps qui viennent
+
+754
+00:36:21,170 --> 00:36:24,710
+s'interpeller entre dans cette synapse neurologique, il
+
+755
+00:36:24,710 --> 00:36:26,630
+n'y aura plus d'influx nerveux parce
+
+756
+00:36:26,630 --> 00:36:28,570
+que le récepteur à la cétylcholine est bloqué
+
+757
+00:36:28,570 --> 00:36:31,450
+par des auto-anticorps qui sont antagonistes.
+
+758
+00:36:31,730 --> 00:36:34,630
+Donc, vous n'avez pas de flux, etc.,
+
+759
+00:36:34,630 --> 00:36:36,410
+calcique ou nerveux qui passent.
+
+760
+00:36:36,770 --> 00:36:37,890
+De l'autre côté, vous avez ce qui
+
+761
+00:36:37,890 --> 00:36:41,910
+est anticorps agoniste ou bien stimulant.
+
+762
+00:36:43,010 --> 00:36:44,870
+L'exemple ici le plus connu, c'est
+
+763
+00:36:44,870 --> 00:36:45,650
+la maladie de basse dos.
+
+764
+00:36:45,650 --> 00:36:47,850
+La maladie de basse dos, vous connaissez un
+
+765
+00:36:47,850 --> 00:36:52,670
+petit peu la relation où l'axe hormonal
+
+766
+00:36:53,850 --> 00:36:57,810
+hypothalamo-épiphysaire et également avec son effet sur
+
+767
+00:36:57,810 --> 00:36:59,890
+la théroïde pour sécréter des hormones théroïdiennes.
+
+768
+00:37:00,030 --> 00:37:03,550
+Ça, c'est ce qu'on appelle le
+
+769
+00:37:03,550 --> 00:37:05,870
+fonctionnement physiologique de la glande théroïde.
+
+770
+00:37:06,610 --> 00:37:09,270
+Alors, ici, lorsqu'on a des auto-anticorps
+
+771
+00:37:09,270 --> 00:37:10,670
+au cours de la maladie de basse dos,
+
+772
+00:37:10,790 --> 00:37:11,530
+qu'est-ce qui se passe ?
+
+773
+00:37:11,530 --> 00:37:13,310
+Vous avez donc des anticorps stimulants.
+
+774
+00:37:13,310 --> 00:37:16,770
+Ils viennent se fixer sur le récepteur à
+
+775
+00:37:16,770 --> 00:37:19,310
+la TSH qui est sécrétée par l'hépophyse.
+
+776
+00:37:20,070 --> 00:37:24,490
+Ces auto-anticorps vont aller stimuler ce récepteur
+
+777
+00:37:24,490 --> 00:37:27,930
+et stimuler la théroïde qui va produire une
+
+778
+00:37:27,930 --> 00:37:31,170
+quantité importante d'anticorps d'hormones théroïdiennes.
+
+779
+00:37:31,290 --> 00:37:32,710
+Après, vous avez les perthéroïdies.
+
+780
+00:37:33,230 --> 00:37:35,830
+Voilà un petit peu comment des anticorps peuvent
+
+781
+00:37:35,830 --> 00:37:39,870
+se comporter soit de façon bloquante ou bien
+
+782
+00:37:39,870 --> 00:37:42,910
+de façon stimulante avec deux maladies, deux types
+
+783
+00:37:42,910 --> 00:37:47,090
+de maladies liées à ces deux types d
+
+784
+00:37:47,090 --> 00:37:50,150
+'anticorps qui sont des anticorps qui exercent un
+
+785
+00:37:50,150 --> 00:37:54,170
+effet pathologique ou pathogénique direct sur les tissus.
+
+786
+00:37:55,790 --> 00:37:59,430
+Maintenant qu'on a parlé des lymphocytes B,
+
+787
+00:37:59,590 --> 00:38:03,990
+avec l'effet pathogénique des lymphocytes B via
+
+788
+00:38:03,990 --> 00:38:05,850
+les auto-anticorps, on a aussi la possibilité
+
+789
+00:38:05,850 --> 00:38:09,230
+d'avoir des phénomènes lésionnels induits par les
+
+790
+00:38:09,230 --> 00:38:10,970
+lymphocytes auto-réactifs.
+
+791
+00:38:12,870 --> 00:38:15,850
+Ce n'est pas évident à concevoir.
+
+792
+00:38:16,870 --> 00:38:20,370
+D'abord, on avait initialement pensé que les
+
+793
+00:38:20,370 --> 00:38:23,370
+phénomènes pathologiques seraient uniquement des auto-anticorps.
+
+794
+00:38:23,490 --> 00:38:24,850
+Maintenant qu'on a constaté qu'il y
+
+795
+00:38:24,850 --> 00:38:33,970
+a aussi des infiltrats cellulaires mononucléaires lymphocytaires chez
+
+796
+00:38:33,970 --> 00:38:35,870
+des malades qui portent des maladies auto-immunes,
+
+797
+00:38:35,870 --> 00:38:38,450
+on a compris qu'il y a aussi
+
+798
+00:38:38,450 --> 00:38:42,790
+l'implication des lymphocytes T, cytotoxiques en l
+
+799
+00:38:42,790 --> 00:38:46,470
+'occurrence, soit qui sont associés à l'activation
+
+800
+00:38:46,470 --> 00:38:48,790
+des lymphocytes B, des auto-anticorps, soit qu
+
+801
+00:38:48,790 --> 00:38:53,210
+'ils sont uniquement les seuls responsables de ces
+
+802
+00:38:53,210 --> 00:38:53,810
+maladies.
+
+803
+00:38:53,970 --> 00:38:56,130
+C'est pourquoi dans des exemples de maladies,
+
+804
+00:38:56,550 --> 00:38:59,770
+on a certaines maladies qu'on considère comme
+
+805
+00:38:59,770 --> 00:39:03,630
+des maladies liées à une réponse auto-immune
+
+806
+00:39:03,630 --> 00:39:07,670
+uniquement cellulaire, ou d'autres qui est humorale
+
+807
+00:39:07,670 --> 00:39:10,050
+et où parfois, et c'est souvent le
+
+808
+00:39:10,050 --> 00:39:13,570
+cas, il est mixte avec prédominance d'un
+
+809
+00:39:13,570 --> 00:39:14,890
+bras soit cellulaire ou humoral.
+
+810
+00:39:14,990 --> 00:39:17,510
+En tout cas, cela a été prouvé par
+
+811
+00:39:18,510 --> 00:39:20,710
+l'implication des lymphocytes auto-réactifs a été
+
+812
+00:39:20,710 --> 00:39:23,570
+prouvé expérimentalement au cours du diabète et au
+
+813
+00:39:23,570 --> 00:39:26,230
+cours d'une maladie qu'on appelle encephalomyélite
+
+814
+00:39:26,230 --> 00:39:26,790
+auto-immune.
+
+815
+00:39:28,010 --> 00:39:29,650
+Lorsque l'on a acheté le diabète qu
+
+816
+00:39:29,650 --> 00:39:32,670
+'on appelle de la souris, donc on a
+
+817
+00:39:32,670 --> 00:39:34,970
+constaté justement qu'il y avait bel et
+
+818
+00:39:34,970 --> 00:39:38,250
+bien l'implication des lymphocytes dans la genèse,
+
+819
+00:39:38,950 --> 00:39:43,130
+des dégâts ou des lésions qui intéressent le
+
+820
+00:39:43,130 --> 00:39:44,930
+pancréas ou les cellules bêtas du pancréas.
+
+821
+00:39:45,450 --> 00:39:47,250
+Vous avez aussi cette maladie qu'on appelle
+
+822
+00:39:47,250 --> 00:39:49,970
+encephalomyélite, on l'a constaté parce que lorsqu
+
+823
+00:39:49,970 --> 00:39:54,970
+'on a transféré des lymphocytes d'une souris
+
+824
+00:39:54,970 --> 00:39:59,530
+d'une maman à d'autres animaux sains,
+
+825
+00:39:59,530 --> 00:40:03,230
+on a mis en évidence cette action de
+
+826
+00:40:03,230 --> 00:40:04,450
+lymphocytes auto-réactifs.
+
+827
+00:40:05,330 --> 00:40:08,550
+Sauf que maintenant, l'hypothèse qui persiste et
+
+828
+00:40:08,550 --> 00:40:12,150
+soi-disant les questions qui restent posées est
+
+829
+00:40:12,150 --> 00:40:13,570
+-ce qu'il s'agit de lymphocytes auxiliaires
+
+830
+00:40:14,730 --> 00:40:17,850
+qui va tout simplement aider le lymphocyte B
+
+831
+00:40:17,850 --> 00:40:19,610
+à produire des auto-endicots qu'on connaissait
+
+832
+00:40:19,610 --> 00:40:21,630
+lorsqu'il s'agit de parler des GG.
+
+833
+00:40:22,590 --> 00:40:25,510
+Forcément, le lymphocyte B a besoin de l
+
+834
+00:40:25,510 --> 00:40:26,030
+'aide de lymphocytes.
+
+835
+00:40:26,030 --> 00:40:29,090
+Il faut un lymphocyte helper auxiliaire qui va
+
+836
+00:40:29,090 --> 00:40:31,610
+donner un message ou faciliter la différenciation de
+
+837
+00:40:31,610 --> 00:40:34,490
+ce lymphocyte B, de ce clone auto-réactif.
+
+838
+00:40:35,030 --> 00:40:36,410
+Ou bien est-ce qu'il s'agit
+
+839
+00:40:36,410 --> 00:40:39,630
+tout simplement de lymphocytes effecteurs eux-mêmes, c
+
+840
+00:40:39,630 --> 00:40:41,110
+'est-à-dire de CTL.
+
+841
+00:40:41,650 --> 00:40:43,410
+Il y a toujours cette hypothèse.
+
+842
+00:40:43,790 --> 00:40:45,090
+Dans la mesure où on a mis en
+
+843
+00:40:45,090 --> 00:40:47,930
+évidence l'implication de ces lymphocytes, il y
+
+844
+00:40:47,930 --> 00:40:49,150
+a une certitude qu'on croit que les
+
+845
+00:40:49,150 --> 00:40:53,090
+lymphocytes T sont également impliqués dans la genèse
+
+846
+00:40:53,090 --> 00:40:54,330
+des maladies auto-immunes.
+
+847
+00:40:58,410 --> 00:41:02,230
+Maintenant, une fois qu'on a compris les
+
+848
+00:41:02,230 --> 00:41:04,790
+mécanismes de tolérance du soi, les mécanismes qui
+
+849
+00:41:04,790 --> 00:41:08,530
+rompent cette tolérance du soi, avec aussi un
+
+850
+00:41:08,530 --> 00:41:13,010
+aperçu sur les phénomènes lésionnels qui accompagnent l
+
+851
+00:41:13,010 --> 00:41:16,290
+'auto-immunité avant d'induire des maladies auto
+
+852
+00:41:16,290 --> 00:41:19,230
+-immunes, sachez que lorsqu'on parle de maladies,
+
+853
+00:41:19,350 --> 00:41:20,770
+il y a d'abord des facteurs qui
+
+854
+00:41:20,770 --> 00:41:23,350
+favorisent l'installation de cette auto-immunité.
+
+855
+00:41:24,330 --> 00:41:26,030
+Le message clé, c'est que l'auto
+
+856
+00:41:26,030 --> 00:41:30,750
+-immunité, c'est une situation qui est multifactorielle.
+
+857
+00:41:31,290 --> 00:41:34,270
+Il est multifactoriel parce que d'abord, il
+
+858
+00:41:34,270 --> 00:41:40,350
+y a souvent un polymorphisme génétique ou une
+
+859
+00:41:40,350 --> 00:41:42,290
+prédisposition génétique qui est derrière.
+
+860
+00:41:42,930 --> 00:41:45,790
+Il se traduit par l'association des molécules
+
+861
+00:41:45,790 --> 00:41:46,850
+HLA particulières.
+
+862
+00:41:47,270 --> 00:41:49,050
+D'ailleurs, vous allez voir des exemples dans
+
+863
+00:41:49,050 --> 00:41:50,190
+votre pratique clinique.
+
+864
+00:41:51,050 --> 00:41:56,270
+Le polymorphisme HLA, la diversité de ces molécules
+
+865
+00:41:56,270 --> 00:41:58,650
+HLA serait à l'origine de certaines maladies.
+
+866
+00:41:59,070 --> 00:42:03,170
+Deuxièmement, vous avez aussi des gènes régulateurs de
+
+867
+00:42:03,170 --> 00:42:05,450
+l'auto-immunité qu'on appelle auto-immune
+
+868
+00:42:05,450 --> 00:42:07,710
+regulation ou regulation genes.
+
+869
+00:42:08,130 --> 00:42:11,270
+Ce sont des gènes qui sont là au
+
+870
+00:42:11,270 --> 00:42:13,390
+niveau de nos noyaux pour réguler le système
+
+871
+00:42:13,390 --> 00:42:17,230
+immunitaire et empêcher l'installation ou la survie
+
+872
+00:42:17,230 --> 00:42:18,010
+de la auto-immunité.
+
+873
+00:42:19,170 --> 00:42:21,290
+S'il y a un défaut ou des
+
+874
+00:42:21,290 --> 00:42:24,570
+mutations qui concernent ces gènes, l'individu devient
+
+875
+00:42:24,570 --> 00:42:26,510
+prédisposé à faire de l'auto-immunité.
+
+876
+00:42:26,590 --> 00:42:30,030
+Vous avez aussi certains déficits qui intéressent le
+
+877
+00:42:30,030 --> 00:42:30,870
+système du complément.
+
+878
+00:42:30,950 --> 00:42:34,290
+Le C1q, le C4, le C2 sont des
+
+879
+00:42:34,290 --> 00:42:36,770
+éléments, des composants de la voie classique.
+
+880
+00:42:36,930 --> 00:42:37,570
+A chaque fois qu'il y a un
+
+881
+00:42:37,570 --> 00:42:39,270
+déficit d'un de ces composants, de plusieurs,
+
+882
+00:42:39,750 --> 00:42:40,530
+il y a des maladies.
+
+883
+00:42:40,970 --> 00:42:43,430
+Vous connaissez très bien l'association du déficit
+
+884
+00:42:43,430 --> 00:42:45,750
+de ces éléments à la maladie lupique.
+
+885
+00:42:46,390 --> 00:42:49,450
+Vous avez aussi, à côté du polymorphisme génétique,
+
+886
+00:42:49,630 --> 00:42:51,390
+il y a des facteurs immunologiques dont je
+
+887
+00:42:51,390 --> 00:42:51,950
+viens de parler.
+
+888
+00:42:52,190 --> 00:42:55,110
+Tout ce qui amène à rompre la tolérance
+
+889
+00:42:55,110 --> 00:42:58,450
+au soin, en termes de mémétisme moléculaire, en
+
+890
+00:42:58,450 --> 00:43:00,550
+termes de déséquilibre cytoclinique, etc.
+
+891
+00:43:01,190 --> 00:43:03,290
+Tout ça, ce sont des perturbations du système
+
+892
+00:43:03,290 --> 00:43:07,670
+immunitaire comme facteur qui vont, justement, soi-disant,
+
+893
+00:43:08,450 --> 00:43:10,270
+aboutir à l'installation des phénomènes d'auto
+
+894
+00:43:10,270 --> 00:43:10,650
+-immunité.
+
+895
+00:43:10,890 --> 00:43:12,910
+Vous avez aussi, donc, les facteurs hormonaux.
+
+896
+00:43:13,210 --> 00:43:16,050
+Ainsi pourquoi, vous avez une sorte de prédominance
+
+897
+00:43:16,050 --> 00:43:18,210
+de certaines maladies chez la femme et d
+
+898
+00:43:18,210 --> 00:43:20,590
+'autres qui sont plus fréquentes chez l'homme.
+
+899
+00:43:21,030 --> 00:43:22,210
+Donc, il y a, ça a été mis
+
+900
+00:43:22,210 --> 00:43:25,110
+en évidence, pourquoi les hormones ont un rôle
+
+901
+00:43:25,110 --> 00:43:27,950
+à jouer parmi les autres pour induire de
+
+902
+00:43:27,950 --> 00:43:28,550
+l'auto-immunité.
+
+903
+00:43:29,110 --> 00:43:30,630
+Après, en dernier, vous avez les facteurs de
+
+904
+00:43:30,630 --> 00:43:31,170
+l'environnement.
+
+905
+00:43:32,390 --> 00:43:34,310
+Je vous ai donné l'exemple du virus
+
+906
+00:43:34,310 --> 00:43:38,470
+Kokusaki B4 ou bien d'autres virus associés
+
+907
+00:43:38,470 --> 00:43:39,830
+à d'autres maladies qu'on va peut
+
+908
+00:43:39,830 --> 00:43:40,090
+-être voir.
+
+909
+00:43:40,650 --> 00:43:43,250
+Donc, il y a l'implication de ces
+
+910
+00:43:43,250 --> 00:43:46,450
+facteurs de l'environnement qu'ils soient microbiens,
+
+911
+00:43:46,910 --> 00:43:48,910
+des agents pathogènes, aussi des toxiques.
+
+912
+00:43:49,770 --> 00:43:51,390
+Dans le cas de la sclérodermie, on a
+
+913
+00:43:51,390 --> 00:43:52,970
+mis en évidence qu'il y a un
+
+914
+00:43:52,970 --> 00:43:56,650
+rôle de certains toxiques dans la genèse de
+
+915
+00:43:56,650 --> 00:43:58,130
+la maladie qui est la sclérodermie.
+
+916
+00:43:58,570 --> 00:44:00,010
+Donc, du coup, en tout cas, ces facteurs
+
+917
+00:44:00,010 --> 00:44:02,630
+de l'environnement, souvent ce sont des facteurs
+
+918
+00:44:02,630 --> 00:44:06,390
+déclenchants, des triggers, qui vont après compléter et
+
+919
+00:44:06,390 --> 00:44:10,470
+agir sur l'ensemble de cette prédisposition génétique
+
+920
+00:44:11,650 --> 00:44:16,830
+immunologique et hormonale pour déclencher finalement la maladie
+
+921
+00:44:16,830 --> 00:44:18,190
+ou le phénomène d'auto-immunité.
+
+922
+00:44:18,610 --> 00:44:20,350
+Voilà un petit peu comment on peut résumer
+
+923
+00:44:20,350 --> 00:44:25,650
+facilement les facteurs qui favorisent l'installation de
+
+924
+00:44:25,650 --> 00:44:26,310
+l'auto-immunité.
+
+925
+00:44:30,090 --> 00:44:32,330
+Alors, après avoir évoqué les facteurs, on va
+
+926
+00:44:32,330 --> 00:44:34,970
+maintenant voir comment on classifie les maladies auto
+
+927
+00:44:34,970 --> 00:44:35,230
+-immunes.
+
+928
+00:44:35,550 --> 00:44:36,170
+C'est facile.
+
+929
+00:44:37,130 --> 00:44:39,390
+Il est facile de distinguer deux types de
+
+930
+00:44:39,390 --> 00:44:41,270
+maladies ou deux catégories de maladies auto-immunes.
+
+931
+00:44:42,910 --> 00:44:44,650
+La première étant ce qu'on appelle les
+
+932
+00:44:44,650 --> 00:44:46,530
+maladies spécifiques d'organes et d'autres qu
+
+933
+00:44:46,530 --> 00:44:48,070
+'on appelle non-spécifiques d'organes.
+
+934
+00:44:48,810 --> 00:44:50,530
+Alors, ce qui m'apporte aussi, c'est
+
+935
+00:44:50,530 --> 00:44:52,310
+de savoir que lorsqu'on parle de maladies
+
+936
+00:44:52,310 --> 00:44:54,850
+spécifiques d'organes, vous allez comprendre facilement que
+
+937
+00:44:54,850 --> 00:44:57,730
+ces maladies sont liées à une réponse ou
+
+938
+00:44:57,730 --> 00:44:59,250
+à une réaction auto-immune qui est dirigée
+
+939
+00:44:59,250 --> 00:45:02,450
+contre des autos-antigènes qui sont localisés, ils
+
+940
+00:45:02,450 --> 00:45:03,990
+sont limités à un tissu ou à un
+
+941
+00:45:03,990 --> 00:45:06,130
+organe ou à une cellule, etc.
+
+942
+00:45:06,790 --> 00:45:09,630
+Par contre, celles qui sont dites non-spécifiques,
+
+943
+00:45:09,630 --> 00:45:11,410
+qu'on peut qualifier facilement de maladies de
+
+944
+00:45:11,410 --> 00:45:16,750
+système, alors, elles sont liées au caractère ubiquitaire
+
+945
+00:45:16,750 --> 00:45:19,330
+de l'antigène ou l'antigène du soin
+
+946
+00:45:19,330 --> 00:45:21,110
+qui est ciblé par cette auto-immunité.
+
+947
+00:45:22,210 --> 00:45:25,650
+Vous allez facilement imaginer que des cellules, par
+
+948
+00:45:25,650 --> 00:45:29,270
+exemple, le noyau étant quelque chose qui existe
+
+949
+00:45:29,270 --> 00:45:32,990
+partout, on a donc un facteur qui est
+
+950
+00:45:32,990 --> 00:45:36,790
+l'ADN, par exemple, ou les ribonucléoproteines du
+
+951
+00:45:36,790 --> 00:45:40,070
+noyau, lorsqu'ils sont ciblés, c'est forcément
+
+952
+00:45:40,070 --> 00:45:43,430
+un caractère systémique ou diffus ou bien non
+
+953
+00:45:43,430 --> 00:45:46,330
+-spécifique d'organes qui est derrière l'installation
+
+954
+00:45:46,330 --> 00:45:47,850
+de ces maladies ou qui est associé à
+
+955
+00:45:47,850 --> 00:45:49,770
+ces maladies non-spécifiques d'organes.
+
+956
+00:45:50,470 --> 00:45:53,210
+Alors, des exemples de maladies, en commençant par
+
+957
+00:45:53,210 --> 00:45:56,550
+celles qui sont spécifiques d'organes, on va
+
+958
+00:45:56,550 --> 00:45:58,630
+aller voir qu'il y a pratiquement beaucoup
+
+959
+00:45:58,630 --> 00:46:00,690
+d'organes et de tissus qui peuvent être
+
+960
+00:46:00,690 --> 00:46:02,530
+touchés par l'auto-immunité, le stomache, l
+
+961
+00:46:02,530 --> 00:46:04,790
+'intestin, le foie latéroïde, le pancréas, bref, on
+
+962
+00:46:04,790 --> 00:46:07,170
+a le système nerveux périphérique que vous voyez
+
+963
+00:46:07,170 --> 00:46:11,570
+ici, l'œil, bref, on a carrément l
+
+964
+00:46:11,570 --> 00:46:15,270
+'ensemble de l'organe qui peut être concerné
+
+965
+00:46:15,270 --> 00:46:16,050
+par l'auto-immunité.
+
+966
+00:46:16,150 --> 00:46:17,410
+Après, il y a des exemples de maladies
+
+967
+00:46:17,410 --> 00:46:20,630
+ici, gastrite auto-immune, animée de bière mère,
+
+968
+00:46:21,370 --> 00:46:23,810
+madécéliaque, l'hépatite auto-immune, la cholongite biliaire
+
+969
+00:46:23,810 --> 00:46:26,430
+primitive, maladie de base d'eau, terroïde d
+
+970
+00:46:26,430 --> 00:46:30,270
+'Hachimouto, le diabète, syndrome de Goethe-Pasteur, panfégus,
+
+971
+00:46:30,950 --> 00:46:32,570
+la panféguite bileuse, etc.
+
+972
+00:46:33,250 --> 00:46:34,630
+Ça, ce sont des exemples.
+
+973
+00:46:34,970 --> 00:46:37,150
+À côté, vous avez aussi, au niveau neurologique,
+
+974
+00:46:38,050 --> 00:46:41,070
+en neuro-immunologie, vous allez certainement voir ce
+
+975
+00:46:41,070 --> 00:46:42,730
+qu'on appelle les ganglions neuropathiques.
+
+976
+00:46:43,690 --> 00:46:47,630
+Vous avez donc des anticorps qui ciblent des
+
+977
+00:46:47,630 --> 00:46:50,490
+parties particulières des neurones qu'on appelle les
+
+978
+00:46:50,490 --> 00:46:52,550
+ganglions neurones.
+
+979
+00:46:53,030 --> 00:46:55,590
+Et puis, vous avez aussi la fameuse maladie
+
+980
+00:46:55,590 --> 00:46:57,730
+qui est connue un peu, la neuromédiate optique,
+
+981
+00:46:58,150 --> 00:46:58,370
+etc.
+
+982
+00:46:58,730 --> 00:47:00,210
+Après, de l'autre côté, vous avez les
+
+983
+00:47:00,210 --> 00:47:00,570
+marqueurs.
+
+984
+00:47:01,310 --> 00:47:03,970
+Alors, il y a certes beaucoup d'abréviations
+
+985
+00:47:03,970 --> 00:47:06,110
+dans ces anticorps, de ces marqueurs.
+
+986
+00:47:06,590 --> 00:47:08,370
+Je vais essayer un petit peu de les
+
+987
+00:47:08,370 --> 00:47:08,890
+simplifier.
+
+988
+00:47:09,330 --> 00:47:10,250
+C'est facile un petit peu de faire
+
+989
+00:47:10,250 --> 00:47:10,490
+le lien.
+
+990
+00:47:10,570 --> 00:47:13,990
+Par exemple, APCA, en anglais, ce sont des
+
+991
+00:47:13,990 --> 00:47:16,570
+anticorps contre les cellules pariétal-gastriques.
+
+992
+00:47:17,110 --> 00:47:25,010
+Antibodies, pariétal-cells, anticorps anti-cellules pariétal-gastriques,
+
+993
+00:47:25,830 --> 00:47:27,430
+antifacteurs intrinsèques de cas seules.
+
+994
+00:47:27,790 --> 00:47:29,070
+Vous avez ici, par rapport à la maladie
+
+995
+00:47:29,070 --> 00:47:32,010
+celiaque, généralement, ce qu'on appelle les anticorps
+
+996
+00:47:32,010 --> 00:47:36,750
+anti-transglutaminase tissulaire, ces téchus transglutaminase antibodies.
+
+997
+00:47:37,150 --> 00:47:38,750
+Vous avez un nouveau marqueur qui vient d
+
+998
+00:47:38,750 --> 00:47:43,950
+'apparaître, qu'on appelle les antigliadines diamidées, les
+
+999
+00:47:43,950 --> 00:47:46,050
+peptides gliadines diamidées, en anglais.
+
+1000
+00:47:46,530 --> 00:47:49,710
+Ce sont des diamidated gliadine peptides.
+
+1001
+00:47:51,130 --> 00:47:52,950
+Avant, on utilisait ce qu'on appelle les
+
+1002
+00:47:52,950 --> 00:47:54,030
+anticorps antigliadines.
+
+1003
+00:47:54,130 --> 00:47:58,110
+Maintenant, il y a une version améliorée en
+
+1004
+00:47:58,110 --> 00:47:59,110
+termes de sensibilité.
+
+1005
+00:47:59,230 --> 00:48:01,430
+On a joué sur un facteur qui est
+
+1006
+00:48:01,430 --> 00:48:05,750
+la diamidation des peptides associés à la gliadine.
+
+1007
+00:48:06,010 --> 00:48:09,690
+On les appelle du coup antigliadines, antipeptides de
+
+1008
+00:48:09,690 --> 00:48:11,410
+gliadines diamidées.
+
+1009
+00:48:11,730 --> 00:48:13,870
+Et puis, vous avez les antihondomysiomes.
+
+1010
+00:48:14,510 --> 00:48:15,830
+De l'autre côté, vous avez, par rapport
+
+1011
+00:48:16,810 --> 00:48:20,310
+au marqueur des hépatopathies, que ce soit des
+
+1012
+00:48:20,310 --> 00:48:23,050
+hépatites auto-humines ou la cholongite biliaire primitive,
+
+1013
+00:48:23,050 --> 00:48:26,250
+qu'on appelait avant la cirrhose biliaire primitive.
+
+1014
+00:48:27,110 --> 00:48:29,830
+Ce terme a été abandonné pour parler plutôt
+
+1015
+00:48:29,830 --> 00:48:32,350
+de la cholongite biliaire primitive.
+
+1016
+00:48:32,830 --> 00:48:35,390
+Elles sont associées, ces maladies, la première étant
+
+1017
+00:48:35,390 --> 00:48:40,370
+associée aux anticorps antimusculolis, les antivalsitosoles, c'est
+
+1018
+00:48:40,370 --> 00:48:45,550
+-à-dire le cytoplasme des hépatocytes.
+
+1019
+00:48:46,190 --> 00:48:49,410
+Et puis, vous avez ici un marqueur associé
+
+1020
+00:48:49,410 --> 00:48:51,270
+qu'on cherche généralement lorsqu'on suspecte les
+
+1021
+00:48:51,270 --> 00:48:55,090
+hépatopathies à un antigène soluble du foie, liver,
+
+1022
+00:48:55,490 --> 00:48:58,870
+ou soluble liver antigens, les antimitochondries qu'on
+
+1023
+00:48:58,870 --> 00:49:02,870
+cherche systématiquement lorsqu'on suspecte une cholongite biliaire
+
+1024
+00:49:02,870 --> 00:49:03,290
+primitive.
+
+1025
+00:49:03,950 --> 00:49:05,370
+Alors, par rapport à la terroïde, vous avez
+
+1026
+00:49:05,370 --> 00:49:07,470
+deux sortes de maladies de façon générale qui
+
+1027
+00:49:07,470 --> 00:49:09,770
+sont considérées comme auto-immunes.
+
+1028
+00:49:09,930 --> 00:49:11,950
+L'amadide basse d'eau, dans laquelle on
+
+1029
+00:49:11,950 --> 00:49:14,510
+cherche généralement les anticorps antirécepteurs TSH.
+
+1030
+00:49:14,630 --> 00:49:16,510
+Vous avez compris que, au cours d'amadide
+
+1031
+00:49:16,510 --> 00:49:19,490
+basse d'eau, il y a une activation,
+
+1032
+00:49:19,490 --> 00:49:22,130
+une stimulation du récepteur TSH par les anticorps
+
+1033
+00:49:22,130 --> 00:49:24,910
+antirécepteurs TSH qu'on cherche pour confirmer la
+
+1034
+00:49:24,910 --> 00:49:26,910
+nature auto-immune d'une terroïdite.
+
+1035
+00:49:27,030 --> 00:49:29,270
+Sinon, il y a d'autres origines de
+
+1036
+00:49:29,270 --> 00:49:29,730
+la terroïdite.
+
+1037
+00:49:29,890 --> 00:49:32,670
+Sinon, lorsqu'on a un tableau d'hypo
+
+1038
+00:49:32,670 --> 00:49:35,910
+-terroïdies avec une suspicion de l'auto-immunité
+
+1039
+00:49:35,910 --> 00:49:39,190
+derrière, on cherche les antiteropéroxidases ou bien les
+
+1040
+00:49:39,190 --> 00:49:39,730
+antiteroglobulines.
+
+1041
+00:49:41,330 --> 00:49:44,470
+Et après, dans le diabète, souvent, les cliniciens
+
+1042
+00:49:44,470 --> 00:49:47,130
+ont recours à la recherche d'anticorps anti
+
+1043
+00:49:47,130 --> 00:49:49,880
+-hidrodulinguerase ou bien anti-insuline, anti-GAD-65
+
+1044
+00:49:50,690 --> 00:49:52,310
+ou bien anti-A2, etc.
+
+1045
+00:49:52,530 --> 00:49:53,950
+Vous avez donc un ensemble de marqueurs qui
+
+1046
+00:49:53,950 --> 00:49:55,270
+sont un petit peu de l'ordre spécialisé.
+
+1047
+00:49:55,650 --> 00:49:59,490
+Donc, on cherche pour, justement, discriminer les différents
+
+1048
+00:49:59,490 --> 00:50:01,610
+types de diabète auto-humain.
+
+1049
+00:50:01,810 --> 00:50:03,150
+Et puis, le syndrome de Goodpatchler, qui est
+
+1050
+00:50:03,150 --> 00:50:06,870
+une sorte de vascularite, qui donne généralement une
+
+1051
+00:50:06,870 --> 00:50:10,290
+immaturité plus associée à une hémathémèse.
+
+1052
+00:50:11,350 --> 00:50:13,730
+Deux facteurs ou deux symptômes qui nous poussent
+
+1053
+00:50:13,730 --> 00:50:15,670
+à penser à cette vascularite, dans laquelle on
+
+1054
+00:50:15,670 --> 00:50:16,910
+va chercher ce qu'on appelle les anti
+
+1055
+00:50:16,910 --> 00:50:19,090
+-membranes basales glomerulaires.
+
+1056
+00:50:19,770 --> 00:50:21,370
+Et puis, vous avez le paviguis ou la
+
+1057
+00:50:21,370 --> 00:50:24,530
+paviguis bulleuse, qui sont des dermatoses bulleuses auto
+
+1058
+00:50:24,530 --> 00:50:27,370
+-immunes, dans lesquelles on cherche les anticorps anti
+
+1059
+00:50:27,370 --> 00:50:29,550
+-skin, les anticorps anti-poux.
+
+1060
+00:50:29,830 --> 00:50:32,510
+Vous avez ici les anti-membranes basales épidermiques
+
+1061
+00:50:32,510 --> 00:50:35,910
+et les anticorps anti-substances intercellulaires.
+
+1062
+00:50:36,470 --> 00:50:38,010
+Pour un peu simplifier l'abréviation.
+
+1063
+00:50:38,430 --> 00:50:40,630
+Mali-Dalcin, on a cherché, on a retrouvé
+
+1064
+00:50:40,630 --> 00:50:41,730
+également...
+
+1065
+00:50:41,730 --> 00:50:43,870
+C'est rarement demandé, mais ce sont des
+
+1066
+00:50:43,870 --> 00:50:45,410
+choses auxquelles il faut penser des fois, lorsqu
+
+1067
+00:50:45,410 --> 00:50:47,890
+'on a épuisé toutes les pistes éthiologiques.
+
+1068
+00:50:48,470 --> 00:50:49,730
+Donc, chercher les anticorps surinales.
+
+1069
+00:50:50,570 --> 00:50:51,870
+Deuxièmement, vous avez la myasthénie.
+
+1070
+00:50:52,250 --> 00:50:53,510
+Tout à l'heure, on a dit, donc,
+
+1071
+00:50:53,530 --> 00:50:57,470
+les anticorps bloquants de récepteurs à la cyclicoline.
+
+1072
+00:50:57,990 --> 00:51:00,530
+Les ganglions neuropathiques, lorsqu'il s'agit de
+
+1073
+00:51:00,530 --> 00:51:05,530
+maladies auto-immunes des neurones du système nerveux
+
+1074
+00:51:05,530 --> 00:51:05,930
+périphérique.
+
+1075
+00:51:06,050 --> 00:51:07,110
+Les antigangliosides.
+
+1076
+00:51:07,590 --> 00:51:09,630
+On parle aussi de l'intérêt des anti
+
+1077
+00:51:09,630 --> 00:51:12,290
+-myéline-associated glycoproteins, ce qu'on appelle MAG,
+
+1078
+00:51:12,650 --> 00:51:13,310
+ou MOG aussi.
+
+1079
+00:51:13,810 --> 00:51:16,450
+Bref, vous avez un certain nombre d'éléments,
+
+1080
+00:51:16,810 --> 00:51:18,030
+ou d'anticorps, de marqueurs.
+
+1081
+00:51:18,190 --> 00:51:20,230
+Et puis, vous avez aussi la modérame actuellement,
+
+1082
+00:51:20,910 --> 00:51:22,570
+vu la fréquence un petit peu de plus
+
+1083
+00:51:22,570 --> 00:51:25,150
+en plus importante de cette maladie qu'on
+
+1084
+00:51:25,150 --> 00:51:26,530
+appelle la neuromyélite optique.
+
+1085
+00:51:26,810 --> 00:51:29,810
+On cherche des anticorps anti-animaux, qu'on
+
+1086
+00:51:29,810 --> 00:51:32,090
+appelle aussi des anticorps anti-acroporicates.
+
+1087
+00:51:32,170 --> 00:51:34,250
+Voilà un petit peu pour résumer un certain
+
+1088
+00:51:34,250 --> 00:51:36,410
+nombre de maladies auto-immunes des spécifiques organes,
+
+1089
+00:51:36,530 --> 00:51:38,450
+avec des exemples de maladies.
+
+1090
+00:51:38,750 --> 00:51:42,030
+Aussi, des marqueurs, en termes d'autos-anticorps,
+
+1091
+00:51:42,170 --> 00:51:43,750
+qu'on cherche et qui ont une grande
+
+1092
+00:51:43,750 --> 00:51:48,070
+valeur diagnostique pour faire, justement, le diagnostic de
+
+1093
+00:51:48,070 --> 00:51:48,490
+ces maladies.
+
+1094
+00:51:49,990 --> 00:51:51,110
+Et puis, de l'autre côté, vous avez
+
+1095
+00:51:51,110 --> 00:51:53,050
+ce qui est non-spécifique d'organes.
+
+1096
+00:51:53,370 --> 00:51:54,470
+On a ce qu'on appelle les maladies
+
+1097
+00:51:54,470 --> 00:51:54,910
+de système.
+
+1098
+00:51:55,430 --> 00:51:59,230
+L'exemple, le lupus, la poulature trématoïde, la
+
+1099
+00:51:59,230 --> 00:52:01,790
+sclérodermie, la connectivite mixte, ou ce qu'on
+
+1100
+00:52:01,790 --> 00:52:04,950
+a également appelé syndrome de chartes.
+
+1101
+00:52:04,950 --> 00:52:08,270
+Il y en a plusieurs, soi-disant, catégories
+
+1102
+00:52:08,270 --> 00:52:09,090
+de connectivite mixte.
+
+1103
+00:52:09,150 --> 00:52:11,530
+Bref, ça, vous allez le voir en médecine
+
+1104
+00:52:11,530 --> 00:52:13,130
+interne, avec les internistes.
+
+1105
+00:52:13,530 --> 00:52:15,070
+Et puis, le syndrome de Gougerain-Chougrou que
+
+1106
+00:52:15,070 --> 00:52:19,250
+vous connaissez très bien, dermatomyosite ou polymyosite, les
+
+1107
+00:52:19,250 --> 00:52:23,350
+vascularites, spécifiquement celles qui touchent les pieux vaisseaux,
+
+1108
+00:52:23,410 --> 00:52:27,870
+notamment du rhin, la granulomatose de Wiesner, chorghestrose,
+
+1109
+00:52:27,990 --> 00:52:30,390
+poliogythe microscopique, et puis aussi, vous avez les
+
+1110
+00:52:30,390 --> 00:52:32,650
+maladies thrombo-hormotiques, notamment, ce qu'on appelle
+
+1111
+00:52:32,650 --> 00:52:34,830
+le syndrome des antiphospholipides.
+
+1112
+00:52:35,250 --> 00:52:37,470
+Vous avez ici un certain nombre de marqueurs
+
+1113
+00:52:37,470 --> 00:52:39,390
+là aussi, d'autres anticorps qu'on doit
+
+1114
+00:52:39,390 --> 00:52:42,130
+chercher, qui vont nous aider à faire le
+
+1115
+00:52:42,130 --> 00:52:45,190
+diagnostic avec un peu de certitude, avec beaucoup
+
+1116
+00:52:45,190 --> 00:52:45,890
+d'aisance aussi.
+
+1117
+00:52:46,290 --> 00:52:48,490
+Vous avez donc les anticorps antinucléaires, vous allez
+
+1118
+00:52:48,490 --> 00:52:52,210
+constater qu'on les demande systématiquement, pratiquement, dans
+
+1119
+00:52:52,210 --> 00:52:53,850
+la majorité de ces maladies.
+
+1120
+00:52:54,290 --> 00:52:56,690
+Regardez, les anticorps antinucléaires, aussi bien pour le
+
+1121
+00:52:56,690 --> 00:52:59,550
+lupus que pour, même pour la thrombatoïde, on
+
+1122
+00:52:59,550 --> 00:53:03,790
+en a besoin, la sclérodermie, la connectivite mixte,
+
+1123
+00:53:03,870 --> 00:53:05,550
+bref, dans toutes ces maladies, on a besoin
+
+1124
+00:53:07,090 --> 00:53:09,790
+des anticorps antinucléaires, mais à part les vascularides,
+
+1125
+00:53:10,030 --> 00:53:11,750
+pour bien les maladies thrombo-hormotiques, on n
+
+1126
+00:53:11,750 --> 00:53:12,850
+'en a pas besoin, mais sinon, les autres,
+
+1127
+00:53:13,030 --> 00:53:14,850
+ils sont, quelque part, on a besoin de
+
+1128
+00:53:14,850 --> 00:53:16,310
+chercher les anticorps antinucléaires.
+
+1129
+00:53:16,690 --> 00:53:18,870
+Il y a des anticorps antinucléaires de façon
+
+1130
+00:53:18,870 --> 00:53:20,970
+générale, mais aussi, on va dans la spécificité,
+
+1131
+00:53:21,290 --> 00:53:22,830
+pour chercher des marqueurs qui ont une grande
+
+1132
+00:53:22,830 --> 00:53:27,490
+valeur diagnostic de plus pour le diagnostic.
+
+1133
+00:53:28,010 --> 00:53:31,490
+Vous avez ici les anticorps anti-SM, anti
+
+1134
+00:53:31,490 --> 00:53:34,570
+-Smith, c'est le premier patient lupique chez
+
+1135
+00:53:34,570 --> 00:53:36,650
+qui on a identifié ce type d'anticorps,
+
+1136
+00:53:37,150 --> 00:53:38,530
+du coup, on l'a appelé anti-Smith,
+
+1137
+00:53:38,670 --> 00:53:39,130
+anti-SM.
+
+1138
+00:53:39,610 --> 00:53:42,690
+Vous avez les anticorps antidélinatifs, c'est très
+
+1139
+00:53:42,690 --> 00:53:46,990
+important, comme un élément diagnostic de lupus, les
+
+1140
+00:53:46,990 --> 00:53:51,630
+antidélinatifs EGG, pas IGM, et également les antinucléosomes.
+
+1141
+00:53:51,750 --> 00:53:53,910
+Puis, vous avez, pour la thrombatoïde, on a
+
+1142
+00:53:53,910 --> 00:53:56,070
+besoin, généralement, du facteur hématoïde, des anti-CCP,
+
+1143
+00:53:56,150 --> 00:53:57,590
+aussi des anticorps antinucléaires.
+
+1144
+00:53:58,570 --> 00:54:00,730
+Et puis, vous avez la sclérodermie avec certaines
+
+1145
+00:54:00,730 --> 00:54:03,590
+spécificités qu'on appelle les anti-centromères, les
+
+1146
+00:54:03,590 --> 00:54:06,210
+anti-Scler-70, Scler-70, c'est par
+
+1147
+00:54:06,210 --> 00:54:08,990
+rapport au point moléculaire de ce peptide, qu
+
+1148
+00:54:08,990 --> 00:54:10,790
+'on appelle aussi topoisomérase 1.
+
+1149
+00:54:11,190 --> 00:54:13,670
+D'autres marqueurs qui sont beaucoup plus spécialisés
+
+1150
+00:54:13,670 --> 00:54:16,310
+aussi, les anti-fibrillarines, les anti-aryne-polymérase,
+
+1151
+00:54:16,470 --> 00:54:18,770
+qui sont associés à certaines atteintes d'organes
+
+1152
+00:54:18,770 --> 00:54:20,110
+qu'il faut retrouver.
+
+1153
+00:54:20,270 --> 00:54:22,110
+Donc, on est sûr qu'on est face
+
+1154
+00:54:22,110 --> 00:54:24,110
+à une maladie, une sclérodermie avancée, qu'on
+
+1155
+00:54:24,110 --> 00:54:24,730
+appelle diffuse.
+
+1156
+00:54:24,910 --> 00:54:26,550
+Parce que dans la sclérodermie, vous allez voir
+
+1157
+00:54:26,550 --> 00:54:27,670
+qu'il y a ce qu'on appelle
+
+1158
+00:54:27,670 --> 00:54:30,410
+la sclérodermie limitée et la sclérodermie diffuse.
+
+1159
+00:54:30,570 --> 00:54:32,690
+Du coup, ces marqueurs-là, en fonction de
+
+1160
+00:54:32,690 --> 00:54:34,950
+leur nature, de leur spécificité, on a déjà
+
+1161
+00:54:34,950 --> 00:54:37,950
+une idée sur le pronostic, la gravité de
+
+1162
+00:54:37,950 --> 00:54:39,750
+la maladie, à travers l'organe qui est
+
+1163
+00:54:39,750 --> 00:54:40,070
+touché.
+
+1164
+00:54:40,870 --> 00:54:43,010
+Les connectivités mixtes, vous avez donc, là aussi,
+
+1165
+00:54:43,110 --> 00:54:47,810
+des anticorps antéribonucléoprotéines, des antipolymiosides sclérodermiques, c
+
+1166
+00:54:47,810 --> 00:54:48,990
+'est-à-dire qu'on est dans un
+
+1167
+00:54:48,990 --> 00:54:52,830
+chevauchement entre deux pathologies, autoimmune sclérodermie et polymiosite,
+
+1168
+00:54:52,930 --> 00:54:54,630
+comme ça peut être aussi entre le lupus
+
+1169
+00:54:54,630 --> 00:54:55,870
+et la sclérodermie et autres.
+
+1170
+00:54:56,290 --> 00:54:57,330
+Vous avez donc, bref, c'est ce qu
+
+1171
+00:54:57,330 --> 00:54:58,450
+'on appelle le syndrome de Scharff ou le
+
+1172
+00:54:58,450 --> 00:54:58,870
+chevauchement.
+
+1173
+00:54:59,330 --> 00:55:01,950
+Le syndrome de Goujreau-Chograine, on cherche généralement
+
+1174
+00:55:01,950 --> 00:55:04,430
+deux marqueurs qui ont une grande valeur diagnostique,
+
+1175
+00:55:04,490 --> 00:55:05,730
+les anti-SSA-SSB.
+
+1176
+00:55:06,130 --> 00:55:07,530
+Et puis vous avez les anti...
+
+1177
+00:55:07,530 --> 00:55:09,910
+ce qu'on appelle les anti-Sentitase, les
+
+1178
+00:55:09,910 --> 00:55:10,530
+anti-G01.
+
+1179
+00:55:10,890 --> 00:55:13,530
+Vous avez plusieurs, PLSAT, PL12 et autres.
+
+1180
+00:55:13,910 --> 00:55:15,990
+Et puis les vasculaires, généralement, on ne cherche
+
+1181
+00:55:15,990 --> 00:55:17,990
+pas les anticorps antinucléaires, mais plutôt on cherche
+
+1182
+00:55:17,990 --> 00:55:20,870
+les anticorps dirigés contre le cytoplasme des polynucléaires
+
+1183
+00:55:20,870 --> 00:55:21,450
+neutrophiles.
+
+1184
+00:55:21,870 --> 00:55:22,250
+Pourquoi ?
+
+1185
+00:55:22,250 --> 00:55:24,490
+Parce que les neutrophiles ont été prouvés, ils
+
+1186
+00:55:24,490 --> 00:55:26,670
+sont très très impliqués dans la genèse de
+
+1187
+00:55:26,670 --> 00:55:29,510
+ces vascularites, donc ils libèrent des enzymes lithiques
+
+1188
+00:55:29,510 --> 00:55:31,930
+au contact des vaisseaux, donc il faut chercher
+
+1189
+00:55:31,930 --> 00:55:32,830
+les encas.
+
+1190
+00:55:33,230 --> 00:55:35,430
+Et puis on a besoin aussi, comme les
+
+1191
+00:55:35,430 --> 00:55:36,270
+anticorps que nous avons dit tout à l
+
+1192
+00:55:36,270 --> 00:55:39,010
+'heure, de compléter par certaines spécificités d'autres
+
+1193
+00:55:39,010 --> 00:55:41,550
+anticorps qu'on appelle Proteinase 3 ou bien
+
+1194
+00:55:41,550 --> 00:55:42,710
+Myelopéroxidase.
+
+1195
+00:55:42,810 --> 00:55:44,150
+Ce sont, une fois trouvés, donc on est
+
+1196
+00:55:44,150 --> 00:55:46,230
+quasiment sûr que s'il s'agit d
+
+1197
+00:55:46,230 --> 00:55:49,530
+'une vascularite qui est d'origine auto-immune.
+
+1198
+00:55:49,950 --> 00:55:52,870
+Les antiphospholipides ou le syndrome des antiphospholipides, on
+
+1199
+00:55:52,870 --> 00:55:54,890
+a besoin de chercher à faire un screening,
+
+1200
+00:55:55,590 --> 00:55:58,730
+un dépistage des antiphospholipides de façon globale, mais
+
+1201
+00:55:58,730 --> 00:56:00,190
+on peut se préciser là aussi pour chercher
+
+1202
+00:56:00,190 --> 00:56:04,110
+les anti-bêta de glycoprotéines, les anti-cardiolépines
+
+1203
+00:56:04,110 --> 00:56:05,470
+ou le lupus anticoagulandré.
+
+1204
+00:56:05,550 --> 00:56:07,510
+Vous avez un certain nombre d'éléments qui
+
+1205
+00:56:07,510 --> 00:56:11,090
+vont vous aider à faire le diagnostic et
+
+1206
+00:56:11,090 --> 00:56:12,790
+ou bien l'associer à d'autres critères,
+
+1207
+00:56:13,010 --> 00:56:15,610
+bien sûr cliniques, le diagnostic étant initialement clinique,
+
+1208
+00:56:15,810 --> 00:56:19,210
+principalement clinique, mais ces éléments biologiques et immunologiques
+
+1209
+00:56:19,210 --> 00:56:23,190
+vont aider à instaurer le diagnostic de ces
+
+1210
+00:56:23,190 --> 00:56:25,410
+maladies de façon plus importante.
+
+1211
+00:56:25,850 --> 00:56:29,190
+Alors maintenant, pour rajouter un plus par rapport
+
+1212
+00:56:29,190 --> 00:56:33,310
+à l'intérêt de ces marqueurs, l'intérêt
+
+1213
+00:56:33,310 --> 00:56:35,070
+réside dans le fait que ce sont des
+
+1214
+00:56:35,070 --> 00:56:38,410
+marqueurs qui sont doués d'une grande spécificité.
+
+1215
+00:56:38,850 --> 00:56:40,450
+C'est le cas des anticorps en TSM
+
+1216
+00:56:40,450 --> 00:56:41,850
+dont je vous ai parlé tout à l
+
+1217
+00:56:41,850 --> 00:56:43,390
+'heure, et ils ont été des natifs parce
+
+1218
+00:56:43,390 --> 00:56:45,890
+qu'ils sont très associés au lupus, s
+
+1219
+00:56:45,890 --> 00:56:48,550
+'ils le trouvent dans un contexte clinique évoquant
+
+1220
+00:56:48,550 --> 00:56:51,330
+le lupus, on est quasiment sûr du diagnostic.
+
+1221
+00:56:51,650 --> 00:56:53,630
+Vous avez aussi donc les anticorps anti-sclera
+
+1222
+00:56:53,630 --> 00:56:56,010
+70 dont je viens de parler, et les
+
+1223
+00:56:56,010 --> 00:56:58,910
+anti-centromères, donc il n'y en a
+
+1224
+00:56:58,910 --> 00:56:59,910
+pas d'autres pathologies.
+
+1225
+00:57:00,550 --> 00:57:01,850
+Lorsqu'on a les deux, ou bien un
+
+1226
+00:57:01,850 --> 00:57:04,730
+seul, avec un contexte clinique évocateur, c'est
+
+1227
+00:57:04,730 --> 00:57:05,490
+la sclérodermie.
+
+1228
+00:57:06,490 --> 00:57:08,690
+Vous avez aussi les anticorps, ce qu'on
+
+1229
+00:57:08,690 --> 00:57:10,550
+appelle dirigés contre les peptides, c'est-à
+
+1230
+00:57:10,550 --> 00:57:11,390
+-dire les citrullinés.
+
+1231
+00:57:12,050 --> 00:57:13,350
+Ils sont là aussi, ils ont une grande
+
+1232
+00:57:13,350 --> 00:57:16,050
+valeur diagnostique pour l'arthrite thaumatoïde.
+
+1233
+00:57:16,410 --> 00:57:18,410
+Vous avez aussi les antihylaux de Langerhans, par
+
+1234
+00:57:18,410 --> 00:57:21,750
+rapport au diabète auto-humain, les anticorps théopéroxydase,
+
+1235
+00:57:21,870 --> 00:57:24,690
+théoglobine pour les thérapeutiques auto-immunes, les anticorps
+
+1236
+00:57:24,690 --> 00:57:27,110
+anti-protéinase 3, lorsqu'il s'agit d
+
+1237
+00:57:27,110 --> 00:57:30,610
+'évoquer le diagnostic ou carrément de confirmer, on
+
+1238
+00:57:30,610 --> 00:57:33,410
+va dire, mis à part à côté de
+
+1239
+00:57:33,410 --> 00:57:35,890
+l'histologie, etc., de la clinique, la polylogite
+
+1240
+00:57:35,890 --> 00:57:37,170
+granulomateuse de type Wegener.
+
+1241
+00:57:37,710 --> 00:57:39,290
+Et puis, à côté de ça, vous avez
+
+1242
+00:57:39,290 --> 00:57:43,890
+donc ce caractère diagnostique.
+
+1243
+00:57:44,030 --> 00:57:45,310
+Il y a aussi la capacité ou la
+
+1244
+00:57:45,310 --> 00:57:48,670
+possibilité qu'offrent certains de ces éléments à
+
+1245
+00:57:48,670 --> 00:57:51,010
+suivre certaines maladies.
+
+1246
+00:57:51,090 --> 00:57:54,170
+Par exemple, délinatifs, lorsqu'on traite le malade
+
+1247
+00:57:54,170 --> 00:57:56,750
+qui a un lupus, généralement, on peut suivre
+
+1248
+00:57:56,750 --> 00:57:59,330
+les anticorps, le titre des anticorps anti-délinatifs
+
+1249
+00:57:59,330 --> 00:58:01,950
+pour voir si la maladie évolue bien.
+
+1250
+00:58:02,370 --> 00:58:04,430
+De la même façon, les patients qui ont
+
+1251
+00:58:04,430 --> 00:58:09,690
+une polylogite granulomateuse confirmée, s'ils ont des
+
+1252
+00:58:09,690 --> 00:58:13,110
+anticorps anti-prothélastoïdes nécessairement positifs, on peut suivre
+
+1253
+00:58:13,110 --> 00:58:15,590
+le titre de ces marqueurs, de ces anticorps,
+
+1254
+00:58:15,710 --> 00:58:17,450
+pour voir la guérison.
+
+1255
+00:58:18,170 --> 00:58:21,630
+Et ces anticorps anti-prétroïdes peuvent même prédire
+
+1256
+00:58:22,150 --> 00:58:24,190
+une rechute de cette vascularité.
+
+1257
+00:58:24,290 --> 00:58:25,830
+Voilà un petit peu l'intérêt de ces
+
+1258
+00:58:25,830 --> 00:58:29,870
+marqueurs qui est donc important en clinique.
+
+1259
+00:58:30,230 --> 00:58:32,130
+Et puis, on a à côté de ça,
+
+1260
+00:58:32,190 --> 00:58:33,590
+on a ce qu'on appelle une corrélation
+
+1261
+00:58:33,590 --> 00:58:35,630
+avec différents cliniques particulières, c'est-à-dire
+
+1262
+00:58:35,630 --> 00:58:46,230
+un intérêt de
+
+1263
+00:58:46,230 --> 00:58:49,410
+la maladie, et de l'initiative.
+
+1264
+00:58:49,430 --> 00:58:51,250
+On travaille avec des anticorps qui sont vraiment
+
+1265
+00:58:54,270 --> 00:58:56,710
+potentiellement de trop granule, de très riche quantité.
+
+1266
+00:58:57,410 --> 00:58:59,630
+On a des anticorps les plus limaiteurs.
+
+1267
+00:58:59,730 --> 00:59:03,110
+On a des anticorps les plus limités, du
+
+1268
+00:59:03,110 --> 00:59:06,950
+20% du vaccin, qui témoignent d'une
+
+1269
+00:59:06,950 --> 00:59:09,790
+atteinte rénale et les anti-esclairciations sont généralement
+
+1270
+00:59:09,790 --> 00:59:11,250
+associées à une atteinte respiratoire.
+
+1271
+00:59:11,810 --> 00:59:13,170
+On est quasiment sûr qu'il s'agit
+
+1272
+00:59:13,170 --> 00:59:16,910
+d'une sclérodermie de mauvais pronostic qui est
+
+1273
+00:59:16,910 --> 00:59:19,610
+diffuse avec plusieurs organes qui sont touchés.
+
+1274
+00:59:19,750 --> 00:59:21,570
+Donc, du coup, on a une valeur pronostique
+
+1275
+00:59:21,570 --> 00:59:25,030
+importante attribuée à ces marqueurs, à ces authenticum.
+
+1276
+00:59:25,370 --> 00:59:27,850
+Voilà un petit peu comment on raisonne devant
+
+1277
+00:59:27,850 --> 00:59:30,470
+la suspicion d'un maladie auto-immune et
+
+1278
+00:59:30,470 --> 00:59:32,950
+quel est l'intérêt clinique de ces marqueurs.
+
+1279
+00:59:32,950 --> 00:59:37,410
+Maintenant, comment on va explorer ces anticorps ?
+
+1280
+00:59:37,410 --> 00:59:41,470
+Alors, pour les détecter, on a généralement besoin
+
+1281
+00:59:41,470 --> 00:59:43,950
+d'une double approche.
+
+1282
+00:59:44,310 --> 00:59:47,670
+Une approche qui consiste à dépister ces anticorps,
+
+1283
+00:59:47,770 --> 00:59:50,030
+notamment les anticorps antinucléaires, lorsqu'on est devant
+
+1284
+00:59:50,030 --> 00:59:51,910
+la suspicion d'un maladie système.
+
+1285
+00:59:52,430 --> 00:59:54,330
+Alors, vous avez une étape de dépistage.
+
+1286
+00:59:54,850 --> 00:59:56,710
+Cette étape de dépistage, elle consiste tout simplement
+
+1287
+00:59:56,710 --> 01:00:00,450
+à réaliser un test d'immunofluorescence indirecte.
+
+1288
+01:00:00,450 --> 01:00:03,610
+Sur le prélèvement d'un patient qui a
+
+1289
+01:00:03,610 --> 01:00:06,650
+suspect d'une maladie auto-immune, de système,
+
+1290
+01:00:07,130 --> 01:00:10,270
+on va prélever du sang, du sérum pour
+
+1291
+01:00:10,270 --> 01:00:11,330
+chercher des anticorps.
+
+1292
+01:00:11,450 --> 01:00:15,050
+Le anticorps pour chercher des anticorps antinucléaires de
+
+1293
+01:00:15,050 --> 01:00:15,930
+façon spécifique.
+
+1294
+01:00:16,550 --> 01:00:17,010
+Qu'est-ce qu'on va avoir ?
+
+1295
+01:00:17,010 --> 01:00:19,110
+On a besoin tout simplement de l'âme
+
+1296
+01:00:19,110 --> 01:00:20,130
+ou de tissu.
+
+1297
+01:00:21,390 --> 01:00:26,310
+Alors, une coupe généralement de cellules qui expriment
+
+1298
+01:00:26,310 --> 01:00:29,370
+les antigènes d'intérêt de l'homme.
+
+1299
+01:00:29,370 --> 01:00:33,010
+Alors, on va voir donc, suite à l
+
+1300
+01:00:33,010 --> 01:00:35,150
+'âme, on va déposer le sérum du patient
+
+1301
+01:00:35,950 --> 01:00:39,450
+qui est censé avoir des anticorps, notamment les
+
+1302
+01:00:39,450 --> 01:00:41,830
+anticorps antinucléaires de différentes catégories.
+
+1303
+01:00:42,510 --> 01:00:45,430
+Et on va rajouter sur cet anticorps ce
+
+1304
+01:00:45,430 --> 01:00:46,670
+qu'on appelle un conjugué.
+
+1305
+01:00:47,310 --> 01:00:49,450
+Un deuxième anticorps qui est fixé, cette fois
+
+1306
+01:00:49,450 --> 01:00:51,930
+-ci, au couplet à un fluorochrome qu'on
+
+1307
+01:00:51,930 --> 01:00:52,770
+appelle FITC.
+
+1308
+01:00:53,390 --> 01:00:56,030
+Alors, ce fluorochrome va permettre, une fois qu
+
+1309
+01:00:56,030 --> 01:01:01,350
+'on va incuber avec, soi-disant, l'anticorps
+
+1310
+01:01:01,350 --> 01:01:05,190
+ayant reconnu l'antigène du substrat, on va
+
+1311
+01:01:05,190 --> 01:01:08,850
+le remicroscope grâce à ce fluorochrome et on
+
+1312
+01:01:08,850 --> 01:01:12,370
+va pouvoir individualiser des aspects d'anticorps antinucléaires.
+
+1313
+01:01:12,490 --> 01:01:14,670
+Ici, vous avez l'exemple d'un anticorps
+
+1314
+01:01:14,670 --> 01:01:16,210
+de type homogène.
+
+1315
+01:01:16,690 --> 01:01:18,050
+Tout le noyau, ce que vous voyez ici
+
+1316
+01:01:18,050 --> 01:01:20,710
+au voilet, tout le noyau prépare la fluorescence
+
+1317
+01:01:20,710 --> 01:01:23,110
+qui témoigne de la positivité de ces anticorps
+
+1318
+01:01:23,110 --> 01:01:23,730
+antinucléaires.
+
+1319
+01:01:23,730 --> 01:01:25,270
+Après, on peut avoir plusieurs aspects.
+
+1320
+01:01:25,430 --> 01:01:28,230
+Ça peut être des aspects homogènes, mouchetés ou
+
+1321
+01:01:28,230 --> 01:01:28,510
+autres.
+
+1322
+01:01:28,830 --> 01:01:30,050
+Donc nucléolaires.
+
+1323
+01:01:30,410 --> 01:01:33,750
+Et chaque aspect va orienter le biologiste et
+
+1324
+01:01:33,750 --> 01:01:37,590
+l'immunologiste pour identifier une spécificité.
+
+1325
+01:01:37,730 --> 01:01:40,010
+C'est pourquoi la première étape de dépistage
+
+1326
+01:01:40,010 --> 01:01:41,770
+sera suivie de l'étape de l'identification
+
+1327
+01:01:42,630 --> 01:01:44,290
+de cet anticorps.
+
+1328
+01:01:44,750 --> 01:01:48,870
+Alors, durant cette réalisation de cet anticorps antinucléaire,
+
+1329
+01:01:49,930 --> 01:01:52,850
+il faut tenir en considération trois facteurs ou
+
+1330
+01:01:52,850 --> 01:01:53,390
+trois éléments.
+
+1331
+01:01:54,130 --> 01:01:56,730
+Il faut bien évidemment prendre en considération le
+
+1332
+01:01:56,730 --> 01:01:58,630
+seuil de positivité parce qu'il faut définir
+
+1333
+01:01:58,630 --> 01:01:59,090
+un seuil.
+
+1334
+01:01:59,270 --> 01:02:01,170
+Et ce seuil est généralement variable en fonction
+
+1335
+01:02:01,170 --> 01:02:02,130
+de l'âge.
+
+1336
+01:02:02,550 --> 01:02:05,410
+Le seuil est un peu bas pour l
+
+1337
+01:02:05,410 --> 01:02:07,490
+'enfant et plus élevé ou plus haut pour
+
+1338
+01:02:07,490 --> 01:02:07,990
+l'adulte.
+
+1339
+01:02:08,390 --> 01:02:09,850
+Et il faut regarder l'intensité de la
+
+1340
+01:02:09,850 --> 01:02:10,490
+positivité.
+
+1341
+01:02:11,030 --> 01:02:13,090
+Est-ce que cette fluorescence est significative ou
+
+1342
+01:02:13,090 --> 01:02:13,450
+pas ?
+
+1343
+01:02:13,450 --> 01:02:16,950
+Ce qu'on appelle la relevance clinique de
+
+1344
+01:02:16,950 --> 01:02:18,250
+cette positivité.
+
+1345
+01:02:18,630 --> 01:02:21,450
+Si vous avez des anticorps qui sont à
+
+1346
+01:02:21,450 --> 01:02:24,090
+faible titre, ce n'est pas forcément relevant
+
+1347
+01:02:24,090 --> 01:02:24,340
+cliniquement.
+
+1348
+01:02:25,370 --> 01:02:26,910
+Ils risquent de ne pas avoir une signification
+
+1349
+01:02:26,910 --> 01:02:27,330
+clinique.
+
+1350
+01:02:27,610 --> 01:02:29,550
+Ça peut être tout simplement de l'autonomité
+
+1351
+01:02:29,550 --> 01:02:32,830
+physiologique, comme je l'avais défini dans l
+
+1352
+01:02:32,830 --> 01:02:33,390
+'introduction.
+
+1353
+01:02:34,010 --> 01:02:34,870
+Et puis, vous avez l'aspect.
+
+1354
+01:02:35,210 --> 01:02:38,550
+Après, le troisième élément, lorsqu'on analyse les
+
+1355
+01:02:38,550 --> 01:02:41,890
+anticorps antinucléaires, et l'aspect de la fluorescence
+
+1356
+01:02:41,890 --> 01:02:43,690
+homogène ou jetée ou autre, on va voir
+
+1357
+01:02:43,690 --> 01:02:46,690
+des exemples, va nous orienter vers faciliter la
+
+1358
+01:02:46,690 --> 01:02:49,050
+tâche pour identifier la spécificité parce que les
+
+1359
+01:02:49,050 --> 01:02:50,910
+spécificités sont énormes et nombreuses.
+
+1360
+01:02:51,390 --> 01:02:53,170
+Donc, il faut essayer d'être orienté à
+
+1361
+01:02:53,170 --> 01:02:55,330
+l'étape de dépistage pour pouvoir faciliter la
+
+1362
+01:02:55,330 --> 01:02:56,750
+tâche au niveau de l'identification.
+
+1363
+01:02:57,510 --> 01:03:00,990
+Maintenant, en termes d'orientation, on cherche des
+
+1364
+01:03:00,990 --> 01:03:01,570
+anticorps antinucléaires.
+
+1365
+01:03:02,150 --> 01:03:03,250
+Il y a un seuil qu'on utilise.
+
+1366
+01:03:04,310 --> 01:03:05,850
+Chez l'enfant, on utilise un seuil de
+
+1367
+01:03:05,850 --> 01:03:06,530
+1 sur 80.
+
+1368
+01:03:07,090 --> 01:03:09,390
+Et chez l'adulte, généralement, 1 sur 160.
+
+1369
+01:03:09,690 --> 01:03:10,630
+Déjà, résumé supérieur.
+
+1370
+01:03:11,990 --> 01:03:16,090
+La première visualisation des anticorps antinucléaires, si c
+
+1371
+01:03:16,090 --> 01:03:18,990
+'est négatif, on peut dire qu'il n
+
+1372
+01:03:18,990 --> 01:03:21,730
+'y a pas, à priori, de maladies systémiques.
+
+1373
+01:03:22,010 --> 01:03:25,330
+Sauf, il faut faire attention, si on a
+
+1374
+01:03:25,330 --> 01:03:29,370
+une clinique évocatrice, par exemple, d'un syndrome
+
+1375
+01:03:29,370 --> 01:03:31,530
+de sec, syndrome de gouges rouges aux graines
+
+1376
+01:03:31,530 --> 01:03:33,910
+ou autre, ou bien d'une certaine polymyosite,
+
+1377
+01:03:34,170 --> 01:03:36,550
+on peut avoir des anticorps antinucléaires négatifs, mais
+
+1378
+01:03:36,550 --> 01:03:39,790
+pourtant, on doit chercher, compléter par la recherche
+
+1379
+01:03:39,790 --> 01:03:41,410
+de ce qu'on appelle des antécessares, parce
+
+1380
+01:03:41,410 --> 01:03:43,810
+que les antécessares peuvent ne pas apparaître sur
+
+1381
+01:03:43,810 --> 01:03:44,690
+les anticorps antinucléaires.
+
+1382
+01:03:44,690 --> 01:03:46,290
+C'est un petit peu une seule exception
+
+1383
+01:03:46,290 --> 01:03:48,130
+des anticorps antinucléaires.
+
+1384
+01:03:48,730 --> 01:03:52,330
+Les antécessares et les anticorps GO1, antisynthétase, qui
+
+1385
+01:03:52,330 --> 01:03:55,130
+sont associés à des maladies et dans lesquelles
+
+1386
+01:03:55,130 --> 01:03:57,970
+on peut trouver, dans un pourcentage faible, la
+
+1387
+01:03:57,970 --> 01:03:59,410
+négativité des anticorps antinucléaires.
+
+1388
+01:03:59,570 --> 01:04:01,990
+Sinon, on a les anticorps antinucléaires qui sont
+
+1389
+01:04:01,990 --> 01:04:05,350
+positifs, soit l'aspect, on va dire, plus
+
+1390
+01:04:05,350 --> 01:04:08,190
+ou moins évocateur, il est homogène et va
+
+1391
+01:04:08,190 --> 01:04:09,810
+nous pousser à chercher les anticorps de DNA
+
+1392
+01:04:09,810 --> 01:04:13,570
+natifs pour retenir le lupus, on l'associe
+
+1393
+01:04:13,570 --> 01:04:15,810
+à d'autres critères, soit on a un
+
+1394
+01:04:15,810 --> 01:04:18,790
+aspect qui est assez évocateur dans les centromères.
+
+1395
+01:04:18,910 --> 01:04:20,930
+Il est un des anticorps qu'on peut
+
+1396
+01:04:20,930 --> 01:04:25,410
+facilement identifier déjà à l'étape des minifluorescences.
+
+1397
+01:04:25,710 --> 01:04:28,950
+Il est souvent, mais pratiquement, associé à ce
+
+1398
+01:04:28,950 --> 01:04:30,210
+qu'on appelle le syndrome de Crest.
+
+1399
+01:04:30,770 --> 01:04:33,990
+Crest, c'est un type ou une forme
+
+1400
+01:04:33,990 --> 01:04:35,650
+clinique de la sclérodermie.
+
+1401
+01:04:35,750 --> 01:04:40,830
+Crest pour casinose, rhéno, des similitudes aux oesophagiennes,
+
+1402
+01:04:40,830 --> 01:04:44,630
+pour eux, oesophage, syndactylie et thylogictasie.
+
+1403
+01:04:44,730 --> 01:04:46,650
+C'est un petit peu un prototype, on
+
+1404
+01:04:46,650 --> 01:04:49,310
+va dire, un acronyme d'une forme clinique
+
+1405
+01:04:49,310 --> 01:04:51,950
+de la sclérodermie limitée avec laquelle il y
+
+1406
+01:04:51,950 --> 01:04:55,050
+a les anticentromères qui se caractérisent par un
+
+1407
+01:04:55,050 --> 01:04:57,250
+aspect particulier qu'on peut facilement voir et
+
+1408
+01:04:57,250 --> 01:04:58,450
+pour lequel on n'a pas besoin d
+
+1409
+01:04:58,450 --> 01:05:00,830
+'aller identifier cette spécificité.
+
+1410
+01:05:00,930 --> 01:05:03,050
+Sinon, lorsqu'on a des anticorps de DNA
+
+1411
+01:05:03,050 --> 01:05:05,750
+positifs, mais à part ces deux situations, on
+
+1412
+01:05:05,750 --> 01:05:08,690
+a déjà ce qu'on appelle les anticorps
+
+1413
+01:05:08,690 --> 01:05:11,090
+anti-OCT, qu'on appelle aussi les anti
+
+1414
+01:05:11,090 --> 01:05:15,170
+-NA, les anticorps dirigés contre les antigènes extractibles
+
+1415
+01:05:15,170 --> 01:05:20,070
+d'antigènes, ou bien les anticorps dirigés contre
+
+1416
+01:05:20,070 --> 01:05:21,490
+les antigènes solubles du noyau.
+
+1417
+01:05:22,010 --> 01:05:23,770
+Donc quand c'est des positifs, on va
+
+1418
+01:05:23,770 --> 01:05:26,570
+voir, on va compléter par la recherche des
+
+1419
+01:05:26,570 --> 01:05:28,950
+anti-S, par exemple pour le lupus, les
+
+1420
+01:05:28,950 --> 01:05:31,090
+anti-G1 lorsqu'on suspecte une polymyosite, les
+
+1421
+01:05:31,090 --> 01:05:34,830
+anti-SKAR70 en suspectant la sclérodermie systémique, et
+
+1422
+01:05:34,830 --> 01:05:35,330
+ainsi de suite.
+
+1423
+01:05:35,810 --> 01:05:37,950
+Et si ce dépistage il n'y a
+
+1424
+01:05:37,950 --> 01:05:39,750
+rien et que l'anticorps est à faible
+
+1425
+01:05:39,750 --> 01:05:44,530
+titre, il faut contrôler le bilan et voir
+
+1426
+01:05:44,530 --> 01:05:46,270
+aussi par rapport à la clinique, qu'est
+
+1427
+01:05:46,270 --> 01:05:48,250
+-ce qu'on est par rapport au tableau
+
+1428
+01:05:48,250 --> 01:05:50,870
+clinique et suivre dans le temps.
+
+1429
+01:05:51,410 --> 01:05:53,230
+Voilà un petit peu comment on procède à
+
+1430
+01:05:53,230 --> 01:05:56,830
+la démarche des anticorps anti-nucléaires, d'identification
+
+1431
+01:05:56,830 --> 01:05:57,970
+des anticorps anti-nucléaires.
+
+1432
+01:05:59,170 --> 01:06:00,750
+Maintenant, la deuxième étape, je viens de dire
+
+1433
+01:06:00,750 --> 01:06:02,430
+tout à l'heure, après le dépistage, on
+
+1434
+01:06:02,430 --> 01:06:02,990
+va identifier.
+
+1435
+01:06:03,110 --> 01:06:05,110
+L'identification, je ne vais pas m'attarder
+
+1436
+01:06:05,110 --> 01:06:05,550
+là-dessus.
+
+1437
+01:06:06,370 --> 01:06:09,550
+On a besoin de plusieurs méthodes spécifiques, cette
+
+1438
+01:06:09,550 --> 01:06:11,230
+fois-ci, qui vont nous permettre d'identifier
+
+1439
+01:06:11,230 --> 01:06:12,530
+chaque type d'anticorps.
+
+1440
+01:06:12,830 --> 01:06:14,790
+SM ou RNP ou l'ASSA, etc.
+
+1441
+01:06:15,370 --> 01:06:16,850
+Donc il y a les techniques ILISA, les
+
+1442
+01:06:16,850 --> 01:06:19,830
+techniques immunodote, immunoblote, les techniques de chimie, l
+
+1443
+01:06:19,830 --> 01:06:21,370
+'immunoscence, la fluorométrie, bref.
+
+1444
+01:06:21,830 --> 01:06:23,170
+Il y a énormément de techniques, je ne
+
+1445
+01:06:23,170 --> 01:06:25,110
+vais pas m'attarder, qui permettent justement à
+
+1446
+01:06:25,110 --> 01:06:29,730
+l'immunologiste d'aller justement identifier la spécificité
+
+1447
+01:06:29,730 --> 01:06:31,130
+en fonction de ce qui a été dépisté,
+
+1448
+01:06:31,210 --> 01:06:33,170
+en fonction bien évidemment de la maladie suspectée,
+
+1449
+01:06:33,330 --> 01:06:33,430
+etc.
+
+1450
+01:06:33,790 --> 01:06:35,430
+Voilà un petit peu comment on raisonne devant
+
+1451
+01:06:36,110 --> 01:06:38,770
+la recherche d'anticorps antinucléaires à chaque fois
+
+1452
+01:06:38,770 --> 01:06:39,810
+qu'on suspecte une maladie.
+
+1453
+01:06:40,770 --> 01:06:46,030
+Maintenant, par rapport aux approches thérapeutiques, ou bien,
+
+1454
+01:06:47,590 --> 01:06:50,770
+on va dire quelque part, aux principes thérapeutiques
+
+1455
+01:06:52,350 --> 01:06:55,150
+des maladies auto-immunes, on a, si on
+
+1456
+01:06:55,150 --> 01:06:56,930
+est face à des maladies spécifiques d'organes,
+
+1457
+01:06:57,830 --> 01:07:00,590
+l'objectif initial, c'est d'abord de
+
+1458
+01:07:00,590 --> 01:07:05,490
+corriger les désordres fonctionnels métaboliques qui sont révélateurs
+
+1459
+01:07:05,490 --> 01:07:07,990
+de ces maladies, ou qui sont, quelque part,
+
+1460
+01:07:08,190 --> 01:07:11,310
+représentent un degré d'urgence ou bien un
+
+1461
+01:07:11,310 --> 01:07:14,010
+dysfonctionnement de la maladie.
+
+1462
+01:07:14,510 --> 01:07:15,770
+Du coup, s'il s'agit de diabète,
+
+1463
+01:07:15,870 --> 01:07:18,010
+bien sûr, le traitement, ce n'est pas
+
+1464
+01:07:18,010 --> 01:07:21,390
+le traitement de faim, mais plutôt d'abord,
+
+1465
+01:07:21,830 --> 01:07:24,710
+c'est la correction des déséquilibres qu'elles
+
+1466
+01:07:24,710 --> 01:07:26,990
+soient associées au diabète ou à la théroïdite,
+
+1467
+01:07:27,110 --> 01:07:28,690
+ou bien à l'anémie d'obéissance mère,
+
+1468
+01:07:28,990 --> 01:07:31,550
+donc il faut apporter justement les traitements, on
+
+1469
+01:07:31,550 --> 01:07:34,970
+va dire, symptomatiques, qui ne sont pas forcément
+
+1470
+01:07:34,970 --> 01:07:39,590
+curatifs, ils sont plutôt d'ordre symptomatique, mais
+
+1471
+01:07:39,590 --> 01:07:42,250
+qui vont bien évidemment améliorer le confort et
+
+1472
+01:07:42,250 --> 01:07:45,170
+permettre à une personne malade une vie normale.
+
+1473
+01:07:45,610 --> 01:07:49,530
+Mais sinon, les maladies de système, on est
+
+1474
+01:07:49,530 --> 01:07:51,050
+un petit peu dans ce qui est symptomatique
+
+1475
+01:07:51,050 --> 01:07:52,450
+et aussi de ce qui est un traitement,
+
+1476
+01:07:52,650 --> 01:07:53,830
+on va dire, plus ou moins de fond,
+
+1477
+01:07:54,270 --> 01:07:56,410
+donc il y a un traitement immunosuppresseur qui
+
+1478
+01:07:56,410 --> 01:07:59,710
+se voit administré devant les maladies de système,
+
+1479
+01:07:59,790 --> 01:08:02,290
+l'hépuce ou autre, donc la corticothérapie en
+
+1480
+01:08:02,290 --> 01:08:06,250
+en cours, ou bien les immunosuppresseurs, on peut
+
+1481
+01:08:06,250 --> 01:08:11,690
+aller jusqu'à plusieurs exemples de ces traitements
+
+1482
+01:08:11,690 --> 01:08:16,930
+immunosuppressifs, ils sont nécessaires justement pour prendre en
+
+1483
+01:08:16,930 --> 01:08:18,290
+charge ce type de maladies.
+
+1484
+01:08:18,770 --> 01:08:21,250
+L'immunothérapie proprement parlée, on va voir qu
+
+1485
+01:08:21,250 --> 01:08:24,510
+'il y a des indications, on a recours
+
+1486
+01:08:25,310 --> 01:08:30,910
+parfois à des immunoglobulines intraveineuses avisées immunomodulatrices, pas
+
+1487
+01:08:31,529 --> 01:08:33,029
+substitutives, on va le voir dans le chapitre
+
+1488
+01:08:33,029 --> 01:08:35,670
+de l'immunomodulation, donc on administre l'immunothérapie
+
+1489
+01:08:35,670 --> 01:08:37,170
+dans le cas des maladies auto-immunes parce
+
+1490
+01:08:37,170 --> 01:08:38,750
+qu'il y a de l'inflammation, de
+
+1491
+01:08:38,750 --> 01:08:40,950
+l'auto-immunité, qu'on va pouvoir traiter
+
+1492
+01:08:40,950 --> 01:08:42,950
+grâce à une approche immunothérapique.
+
+1493
+01:08:43,510 --> 01:08:46,569
+Alors pour rappeler le principe d'utilisation de
+
+1494
+01:08:46,569 --> 01:08:49,689
+ces immunoglobulines, comme un exemple, mais il y
+
+1495
+01:08:49,689 --> 01:08:51,370
+a d'autres approches immunothérapiques sur lesquelles je
+
+1496
+01:08:51,370 --> 01:08:53,350
+ne vais pas m'attarder.
+
+1497
+01:08:53,770 --> 01:08:55,130
+Alors vous savez qu'il y a dans
+
+1498
+01:08:55,130 --> 01:08:57,830
+les immunoglobulines, il y a deux composantes, deux
+
+1499
+01:08:57,830 --> 01:09:00,770
+structurelles, la partie FAB et la partie FC.
+
+1500
+01:09:01,390 --> 01:09:03,910
+Alors la partie FAB, ce qui reconnaît l
+
+1501
+01:09:03,910 --> 01:09:05,529
+'antigène et le fixe, et aussi il porte
+
+1502
+01:09:05,529 --> 01:09:10,109
+l'idéotype qui est très importante en fonction
+
+1503
+01:09:10,790 --> 01:09:11,930
+de cet anticorps.
+
+1504
+01:09:12,330 --> 01:09:13,930
+Alors vous avez aussi la partie FC qui
+
+1505
+01:09:13,930 --> 01:09:17,010
+est responsable des différentes, on va dire, fonctions
+
+1506
+01:09:17,010 --> 01:09:19,870
+effectrices, la cytophilie, la fixation du complément, le
+
+1507
+01:09:19,870 --> 01:09:22,370
+catabolisme et le passage transplantaire.
+
+1508
+01:09:22,470 --> 01:09:23,590
+Ce sont des choses que vous connaissez très
+
+1509
+01:09:23,590 --> 01:09:23,770
+bien.
+
+1510
+01:09:24,210 --> 01:09:26,810
+Maintenant lorsqu'on va utiliser ces immunoglobulines et
+
+1511
+01:09:26,810 --> 01:09:29,990
+ces anticorps à visée thérapeutique ou immunothérapique, on
+
+1512
+01:09:29,990 --> 01:09:34,390
+va exploiter donc ces composantes structurales, partie FC
+
+1513
+01:09:34,390 --> 01:09:35,510
+ou bien partie FAB.
+
+1514
+01:09:36,630 --> 01:09:38,210
+Alors si on veut par exemple commencer par
+
+1515
+01:09:38,210 --> 01:09:40,529
+la partie FC qu'on va exploiter à
+
+1516
+01:09:40,529 --> 01:09:43,450
+visée thérapeutique, alors vous vous rappelez que l
+
+1517
+01:09:43,450 --> 01:09:47,050
+'anticorps il a au niveau des cellules de
+
+1518
+01:09:47,050 --> 01:09:50,569
+l'immunité née des récepteurs FC, de l
+
+1519
+01:09:50,569 --> 01:09:53,690
+'immunoglobuline, de l'anticorps de façon générale, macrophages
+
+1520
+01:09:53,690 --> 01:09:54,050
+ou autres.
+
+1521
+01:09:54,610 --> 01:09:56,830
+Alors si on imagine que cet anticorps qui
+
+1522
+01:09:56,830 --> 01:09:58,950
+est en vert ici, il s'agit d
+
+1523
+01:09:58,950 --> 01:09:59,930
+'un auto-anticorps.
+
+1524
+01:10:00,270 --> 01:10:02,630
+Cet anticorps il est impliqué dans l'auto
+
+1525
+01:10:02,630 --> 01:10:04,690
+-immunité parce qu'il vise des plaquettes ou
+
+1526
+01:10:04,690 --> 01:10:05,610
+bien des globules rouges.
+
+1527
+01:10:05,870 --> 01:10:07,930
+Il a détecté un nuo-antigène ou un
+
+1528
+01:10:07,930 --> 01:10:09,610
+auto-antigène de façon générale ce qu'il
+
+1529
+01:10:09,610 --> 01:10:11,970
+va faire, comme il est pathologique ou pathogénique,
+
+1530
+01:10:12,490 --> 01:10:14,630
+il va tout simplement aboutir à la destruction
+
+1531
+01:10:14,630 --> 01:10:19,050
+de cette plaquette ou bien de ce globule
+
+1532
+01:10:19,050 --> 01:10:19,390
+rouge.
+
+1533
+01:10:21,090 --> 01:10:26,110
+Pour empêcher cet anticorps de ramener le globule
+
+1534
+01:10:26,110 --> 01:10:29,030
+rouge et le détruire par le macrophage, lorsqu
+
+1535
+01:10:29,030 --> 01:10:31,550
+'on administre des anticorps, des immunoglobulines, qu'est
+
+1536
+01:10:31,550 --> 01:10:32,310
+-ce qu'on va faire ?
+
+1537
+01:10:32,310 --> 01:10:36,710
+On va tout simplement saturer le fragment FC
+
+1538
+01:10:36,710 --> 01:10:39,910
+on va empêcher la fixation de la partie
+
+1539
+01:10:39,910 --> 01:10:41,730
+FC, de l'auto-anticorps sur la cellule.
+
+1540
+01:10:43,090 --> 01:10:44,790
+Lorsqu'il va ramener la plaquette ou le
+
+1541
+01:10:44,790 --> 01:10:47,990
+globule rouge au contact du phagocyte, il trouvera
+
+1542
+01:10:47,990 --> 01:10:50,610
+déjà des sites, ces récepteurs qui sont saturés
+
+1543
+01:10:50,610 --> 01:10:53,010
+par d'autres anticorps qu'on a administrés,
+
+1544
+01:10:53,870 --> 01:10:57,970
+les HIV, et du coup, il va lâcher
+
+1545
+01:10:57,970 --> 01:10:59,230
+cette plaquette ou ce globule rouge.
+
+1546
+01:10:59,550 --> 01:11:02,230
+C'est une manière d'empêcher la destruction
+
+1547
+01:11:02,230 --> 01:11:04,310
+de ces cellules.
+
+1548
+01:11:04,830 --> 01:11:05,990
+C'est ce qu'il a utilisé pour
+
+1549
+01:11:05,990 --> 01:11:08,630
+traiter justement, c'est validé comme approche thérapeutique,
+
+1550
+01:11:08,630 --> 01:11:11,670
+les cytopiné auto-immunes, que ce soit le
+
+1551
+01:11:11,670 --> 01:11:13,630
+thrombopiné auto-immune ou bien l'anémie hémolytique
+
+1552
+01:11:13,630 --> 01:11:14,710
+auto-immune.
+
+1553
+01:11:14,990 --> 01:11:18,330
+Et puis on peut également utiliser ou exploiter
+
+1554
+01:11:18,330 --> 01:11:20,850
+pas la partie FC uniquement, mais aussi la
+
+1555
+01:11:20,850 --> 01:11:21,430
+partie FAB.
+
+1556
+01:11:22,290 --> 01:11:24,910
+Et si vous avez ici un exemple, sur
+
+1557
+01:11:24,910 --> 01:11:26,530
+la cellule C il y a l'antigène
+
+1558
+01:11:26,530 --> 01:11:30,190
+sur lequel il y a un anticorps fixé,
+
+1559
+01:11:30,350 --> 01:11:33,550
+un autre anticorps, à la suite le complément
+
+1560
+01:11:33,550 --> 01:11:34,590
+va s'activer, etc.
+
+1561
+01:11:34,850 --> 01:11:37,730
+pour aboutir à la destruction à la lésosmothique,
+
+1562
+01:11:37,850 --> 01:11:39,270
+via le complexe d'attaque membranaire.
+
+1563
+01:11:39,750 --> 01:11:42,010
+Cette fois-ci, lorsqu'on admise des anticorps,
+
+1564
+01:11:42,250 --> 01:11:45,610
+des immunoglobulines intraveneuses ou cecutanées, qu'est-ce
+
+1565
+01:11:45,610 --> 01:11:46,510
+qu'on va faire ?
+
+1566
+01:11:46,510 --> 01:11:49,130
+Alors cet anticorps, il va permettre de fixer
+
+1567
+01:11:49,130 --> 01:11:49,670
+le complément.
+
+1568
+01:11:49,970 --> 01:11:51,870
+Donc il va fixer le complément sur la
+
+1569
+01:11:51,870 --> 01:11:52,450
+partie FC.
+
+1570
+01:11:52,970 --> 01:11:55,410
+Le complément ne va plus aller se fixer
+
+1571
+01:11:55,410 --> 01:11:58,030
+sur la partie FC de l'autre anticorps
+
+1572
+01:11:58,030 --> 01:11:59,670
+ayant fixé l'antigène.
+
+1573
+01:11:59,830 --> 01:12:02,730
+Du coup, on va alors empêcher la même
+
+1574
+01:12:02,730 --> 01:12:03,210
+façon.
+
+1575
+01:12:03,210 --> 01:12:07,350
+Le complément ne vient plus se fixer sur
+
+1576
+01:12:07,350 --> 01:12:09,610
+l'autre anticorps, on va donc empêcher la
+
+1577
+01:12:09,610 --> 01:12:10,850
+destruction de cette cible cible.
+
+1578
+01:12:11,190 --> 01:12:12,550
+C'est ce qu'on a utilisé comme
+
+1579
+01:12:12,550 --> 01:12:15,970
+principe aussi pour traiter certaines maladies, notamment la
+
+1580
+01:12:15,970 --> 01:12:16,790
+dermatomyosite.
+
+1581
+01:12:17,270 --> 01:12:20,570
+Comment on exploite ces paramètres ?
+
+1582
+01:12:20,570 --> 01:12:23,550
+Vous avez également là, certaines actions qui sont
+
+1583
+01:12:23,550 --> 01:12:27,450
+midiées par à côté de ce que je
+
+1584
+01:12:27,450 --> 01:12:29,590
+viens de dire, le fragment FAB aussi.
+
+1585
+01:12:30,150 --> 01:12:32,730
+Vous savez donc, dans certaines maladies, notamment, qui
+
+1586
+01:12:32,730 --> 01:12:37,450
+touchent certains fragments de la coagulation, des composants
+
+1587
+01:12:37,450 --> 01:12:39,590
+de la coagulation, le facteur 8 par exemple
+
+1588
+01:12:39,590 --> 01:12:39,870
+ici.
+
+1589
+01:12:41,310 --> 01:12:44,810
+On a des anticorps qui vont détruire ces
+
+1590
+01:12:44,810 --> 01:12:47,730
+composants dans le cadre des syndromes des antiphospholipides
+
+1591
+01:12:47,730 --> 01:12:48,050
+ou autres.
+
+1592
+01:12:48,550 --> 01:12:52,770
+On a des anticorps qui ciblent ces composants
+
+1593
+01:12:52,770 --> 01:12:53,790
+de la coagulation.
+
+1594
+01:12:54,370 --> 01:12:55,410
+Et vous avez donc, lorsqu'on a des
+
+1595
+01:12:55,410 --> 01:12:57,310
+anticorps, qu'est-ce qui se passe ?
+
+1596
+01:12:57,310 --> 01:13:00,210
+On a une sorte d'inhibition de l
+
+1597
+01:13:00,210 --> 01:13:00,750
+'édiotypie.
+
+1598
+01:13:01,670 --> 01:13:03,710
+On va avoir donc la fixation de l
+
+1599
+01:13:03,710 --> 01:13:05,910
+'édiotypie par des anticorps anti-édiotypiques.
+
+1600
+01:13:06,510 --> 01:13:09,790
+Du coup, l'autre anticorps va être inhibé
+
+1601
+01:13:09,790 --> 01:13:12,250
+par l'édiotype d'un autre anticorps qu
+
+1602
+01:13:12,250 --> 01:13:14,090
+'on a administré à base thérapeutique.
+
+1603
+01:13:14,330 --> 01:13:17,430
+Voilà un petit peu comment on prélève, on
+
+1604
+01:13:17,430 --> 01:13:20,630
+empêche, on prévient l'installation d'une maladie
+
+1605
+01:13:20,630 --> 01:13:23,850
+qui est liée à des autres anticorps qui
+
+1606
+01:13:23,850 --> 01:13:26,890
+ciblent justement ces facteurs de la coagulation, qui
+
+1607
+01:13:26,890 --> 01:13:28,330
+ciblent justement le facteur 8.
+
+1608
+01:13:28,550 --> 01:13:31,430
+Donc voilà l'exploitation de l'édiotypie à
+
+1609
+01:13:31,430 --> 01:13:33,850
+travers l'anticorps anti-édiotypique administré.
+
+1610
+01:13:34,570 --> 01:13:36,510
+Et puis vous avez aussi lorsqu'on peut
+
+1611
+01:13:36,510 --> 01:13:39,710
+associer les deux, on exploite aussi bien la
+
+1612
+01:13:39,710 --> 01:13:41,730
+partie C que la partie AB, on a
+
+1613
+01:13:41,730 --> 01:13:45,810
+ici donc des fois par exemple, vous avez
+
+1614
+01:13:45,810 --> 01:13:49,290
+certaines cytokines, des maladies qui lient un excès
+
+1615
+01:13:49,290 --> 01:13:49,990
+de cytokines.
+
+1616
+01:13:50,590 --> 01:13:52,790
+On a ici, les cytokines ont besoin d
+
+1617
+01:13:52,790 --> 01:13:54,310
+'un ligand ou d'un récepteur sur lequel
+
+1618
+01:13:54,310 --> 01:13:55,730
+ils doivent se fixer pour agir.
+
+1619
+01:13:56,230 --> 01:13:57,890
+Et si vous avez ici un anticorps qu
+
+1620
+01:13:57,890 --> 01:14:03,750
+'on administre, il va tout simplement inhiber cette
+
+1621
+01:14:03,750 --> 01:14:07,710
+action de la cytokine comme TNFα ou l
+
+1622
+01:14:07,710 --> 01:14:08,630
+'interleukin 6 etc.
+
+1623
+01:14:09,190 --> 01:14:11,370
+On va donc moduler l'action de ces
+
+1624
+01:14:11,370 --> 01:14:15,590
+cytokines qui sont responsables de l'inflammation élevée
+
+1625
+01:14:15,590 --> 01:14:18,550
+ou de l'état d'hyperinflammation dans certaines
+
+1626
+01:14:18,550 --> 01:14:18,910
+maladies.
+
+1627
+01:14:19,050 --> 01:14:21,790
+Du coup on va inhiber ces cytokines, et
+
+1628
+01:14:21,790 --> 01:14:24,870
+empêcher donc les phénomènes lésionnels associés à cet
+
+1629
+01:14:24,870 --> 01:14:28,070
+état pathologique lié à l'hyperinflammation du fait
+
+1630
+01:14:28,070 --> 01:14:30,050
+de la libération excessive de certains cytokines.
+
+1631
+01:14:30,530 --> 01:14:33,470
+Voilà un petit peu comment on peut empêcher
+
+1632
+01:14:33,470 --> 01:14:36,150
+ou prévenir ou guérir certaines maladies sur la
+
+1633
+01:14:36,150 --> 01:14:40,110
+base d'une approche immunothérapeutique en exploitant justement
+
+1634
+01:14:40,110 --> 01:14:45,210
+ces composants structureaux des immunoglobules notamment la partie
+
+1635
+01:14:45,210 --> 01:14:46,550
+FAB, la partie C ou les deux.
+
+1636
+01:14:47,850 --> 01:14:50,470
+Et puis on a également la possibilité justement
+
+1637
+01:14:50,470 --> 01:14:54,170
+d'intervenir sur les lymphocytes autoréactifs puisqu'on
+
+1638
+01:14:54,170 --> 01:14:57,990
+a identifié également l'action nocive des lymphocytes
+
+1639
+01:14:57,990 --> 01:14:58,250
+T.
+
+1640
+01:14:58,790 --> 01:15:00,930
+Alors cette fois-ci c'est pas facile
+
+1641
+01:15:00,930 --> 01:15:02,230
+mais on va essayer d'un petit peu
+
+1642
+01:15:02,230 --> 01:15:04,530
+simplifier le mécanisme.
+
+1643
+01:15:04,970 --> 01:15:08,110
+Vous savez donc les lymphocytes T peuvent être
+
+1644
+01:15:09,570 --> 01:15:13,210
+autoréactifs par les CTL ou bien on est
+
+1645
+01:15:13,210 --> 01:15:15,810
+dans les lymphocytes B via les lymphocytes T
+
+1646
+01:15:15,810 --> 01:15:16,110
+helper.
+
+1647
+01:15:16,730 --> 01:15:18,870
+Alors l'objectif c'est quoi ?
+
+1648
+01:15:18,870 --> 01:15:21,470
+Lorsque je suis face à un lymphocyte autoréactif
+
+1649
+01:15:21,470 --> 01:15:25,770
+je vais aller le rendre énergique c'est
+
+1650
+01:15:25,770 --> 01:15:27,090
+-à-dire même s'il est face à
+
+1651
+01:15:27,090 --> 01:15:29,230
+notre antigène il est incapable d'agir.
+
+1652
+01:15:29,790 --> 01:15:32,470
+Donc l'objectif c'est d'induire son
+
+1653
+01:15:32,470 --> 01:15:35,030
+énergie ou bien de le tuer, on va
+
+1654
+01:15:35,030 --> 01:15:38,770
+dire, d'induire son apoptose mort programmée ou
+
+1655
+01:15:38,770 --> 01:15:42,790
+bien agir sur son mode de sécrétion le
+
+1656
+01:15:42,790 --> 01:15:44,410
+profil des cytokines qui est secrète.
+
+1657
+01:15:45,010 --> 01:15:46,690
+Je suis par exemple devant une maladie à
+
+1658
+01:15:46,690 --> 01:15:49,810
+prédominance Th2 je vais essayer d'antagoniser par
+
+1659
+01:15:49,810 --> 01:15:52,070
+des profils antagonistes, etc.
+
+1660
+01:15:52,310 --> 01:15:54,110
+Vous voyez, Th1 et inversement.
+
+1661
+01:15:54,470 --> 01:15:58,630
+Ce sont les buts de cette immunothérapie qui
+
+1662
+01:15:58,630 --> 01:15:59,930
+visent les lymphocytes autoréactifs.
+
+1663
+01:16:00,030 --> 01:16:03,750
+Les stratégies sont essentiellement de deux.
+
+1664
+01:16:04,210 --> 01:16:06,610
+Vous avez ce qui permet justement d'induire
+
+1665
+01:16:06,610 --> 01:16:09,110
+l'énergie, maintenant vous avez compris le rôle
+
+1666
+01:16:09,110 --> 01:16:12,690
+du deuxième signal dans l'activation du lymphocyte.
+
+1667
+01:16:13,090 --> 01:16:15,290
+Vous vous rappelez de la molécule CD28 qui
+
+1668
+01:16:15,290 --> 01:16:18,970
+est un élément important, fondamental pour activer la
+
+1669
+01:16:18,970 --> 01:16:21,610
+lymphocytité qui est reconnue à l'antigène, notamment
+
+1670
+01:16:21,610 --> 01:16:22,490
+à l'antantigène.
+
+1671
+01:16:22,950 --> 01:16:25,350
+Si je veux empêcher l'activation d'un
+
+1672
+01:16:25,350 --> 01:16:29,510
+lymphocyté qui deviendra autoréactif ou bien qui va
+
+1673
+01:16:29,510 --> 01:16:33,370
+réagir contre cet antigène, j'administre un compétiteur
+
+1674
+01:16:33,370 --> 01:16:35,910
+de CD28 qui va l'antagoniser à induire
+
+1675
+01:16:35,910 --> 01:16:38,470
+un signal d'énergie de ce lymphocyté.
+
+1676
+01:16:39,050 --> 01:16:40,930
+Et du coup, c'était des thérapeutiques qui
+
+1677
+01:16:40,930 --> 01:16:43,190
+ont marché pour certaines maladies, notamment le lupus
+
+1678
+01:16:43,190 --> 01:16:44,790
+ou ce qu'on appelle la retraite à
+
+1679
+01:16:44,790 --> 01:16:45,730
+la collagène, etc.
+
+1680
+01:16:46,270 --> 01:16:49,010
+Et puis également, je peux aller inhiber ce
+
+1681
+01:16:49,010 --> 01:16:51,410
+qu'on appelle l'idiotypie du TCR.
+
+1682
+01:16:52,270 --> 01:16:56,070
+Pour vous rappeler le lien entre soi-disant
+
+1683
+01:16:56,070 --> 01:16:59,830
+les régions hypervariables, l'idiotypie du TCR c
+
+1684
+01:16:59,830 --> 01:17:02,230
+'est exactement celle qui existe sur les immunoglobulines.
+
+1685
+01:17:02,810 --> 01:17:04,710
+Le TCR c'est un petit peu la
+
+1686
+01:17:04,710 --> 01:17:07,710
+moitié des immunoglobulines, donc il a dans sa
+
+1687
+01:17:07,710 --> 01:17:11,350
+partie variable des zones hypervariables.
+
+1688
+01:17:11,350 --> 01:17:13,230
+Qu'est-ce qu'on fait ?
+
+1689
+01:17:13,230 --> 01:17:16,030
+Lorsqu'on est face à un lymphocyté autoréactif,
+
+1690
+01:17:16,810 --> 01:17:20,970
+on va tout simplement aller inhiber grâce à
+
+1691
+01:17:20,970 --> 01:17:27,090
+des anticorps anti-idiotypiques qui vont aller cibler
+
+1692
+01:17:27,090 --> 01:17:31,490
+les régions hypervariables et ainsi empêcher, en bloquant
+
+1693
+01:17:31,490 --> 01:17:35,370
+le TCR, en agissant sur l'idiotypie du
+
+1694
+01:17:35,370 --> 01:17:39,790
+TCR qui porte cette capacité autoréactive du lymphocyté,
+
+1695
+01:17:39,950 --> 01:17:41,250
+donc en la bloquant.
+
+1696
+01:17:41,410 --> 01:17:44,330
+C'est comme l'inhibition de l'action
+
+1697
+01:17:44,330 --> 01:17:45,790
+des anticorps anti-idiotypiques.
+
+1698
+01:17:46,210 --> 01:17:48,890
+Donc l'inhibition de l'idiotypie du TCR
+
+1699
+01:17:48,890 --> 01:17:52,290
+tout simplement qui est parallèle qui est le
+
+1700
+01:17:52,290 --> 01:17:54,150
+corollaire de celle des anticorps.
+
+1701
+01:17:54,490 --> 01:17:56,210
+Voilà un petit peu comment on peut approcher
+
+1702
+01:17:57,630 --> 01:18:01,710
+l'immunothérapie qui vise les lymphocytés autoréactifs à
+
+1703
+01:18:01,710 --> 01:18:03,090
+côté de celle qui a visé tout à
+
+1704
+01:18:03,090 --> 01:18:05,570
+l'heure les lymphocytes B ou bien les
+
+1705
+01:18:05,570 --> 01:18:06,430
+auto-antibodies.
+
+1706
+01:18:06,430 --> 01:18:09,330
+Pour conclure sur le chapitre d'auto-immunité,
+
+1707
+01:18:10,410 --> 01:18:13,670
+je rappelle que si on connaît bien le
+
+1708
+01:18:13,670 --> 01:18:18,690
+mécanisme de la tolérance au soin, on va
+
+1709
+01:18:18,690 --> 01:18:23,530
+facilement comprendre comment cette rupture de tolérance au
+
+1710
+01:18:23,530 --> 01:18:27,070
+soin est induite ou bien est générée.
+
+1711
+01:18:28,250 --> 01:18:31,650
+On comprend aussi les mécanismes de rupture qui
+
+1712
+01:18:31,650 --> 01:18:32,990
+aboutissent à la rupture de la tolérance au
+
+1713
+01:18:32,990 --> 01:18:33,090
+soin.
+
+1714
+01:18:33,210 --> 01:18:35,930
+On va comprendre comment aussi bien les lymphocytes
+
+1715
+01:18:35,930 --> 01:18:38,710
+T ou les lymphocytes B vont induire des
+
+1716
+01:18:38,710 --> 01:18:42,350
+phénomènes lésionnels que ce soit sur les cellules,
+
+1717
+01:18:42,490 --> 01:18:43,810
+sur les tissus ou les organes.
+
+1718
+01:18:44,670 --> 01:18:46,510
+Et à partir de là, on a à
+
+1719
+01:18:46,510 --> 01:18:49,270
+travers la connaissance de l'antigène qui est
+
+1720
+01:18:49,270 --> 01:18:52,190
+ciblée par cette auto-immunité, qu'il soit
+
+1721
+01:18:52,190 --> 01:18:53,790
+localisé ou bien défuit.
+
+1722
+01:18:54,150 --> 01:18:57,490
+Donc on a défini les maladies auto-immunes
+
+1723
+01:18:57,490 --> 01:19:00,670
+en les classant en maladies spécifiques et non
+
+1724
+01:19:00,670 --> 01:19:04,150
+spécifiques d'organes pour justement pouvoir résonner d
+
+1725
+01:19:04,150 --> 01:19:05,430
+'un point de vue clinique et également sur
+
+1726
+01:19:05,430 --> 01:19:07,830
+le plan immunologique en termes d'exploration.
+
+1727
+01:19:08,550 --> 01:19:10,750
+Alors retenez bien que le diagnostic des maladies
+
+1728
+01:19:10,750 --> 01:19:12,770
+auto-immunes, c'est pas d'abord l
+
+1729
+01:19:12,770 --> 01:19:14,850
+'immunologie ou la biologie, c'est la clinique,
+
+1730
+01:19:15,090 --> 01:19:17,330
+c'est la porte ou la clé diagnostique.
+
+1731
+01:19:17,790 --> 01:19:20,010
+Et après, on a des marqueurs qui sont
+
+1732
+01:19:20,010 --> 01:19:22,770
+doués d'une grande valeur diagnostique en termes
+
+1733
+01:19:22,770 --> 01:19:25,790
+de spécificité ou bien d'une valeur pronostique
+
+1734
+01:19:25,790 --> 01:19:27,290
+parce qu'ils sont associés à des formes
+
+1735
+01:19:27,290 --> 01:19:27,550
+cliniques.
+
+1736
+01:19:27,670 --> 01:19:30,930
+Donc on va les utiliser soit disant en
+
+1737
+01:19:30,930 --> 01:19:33,990
+bonnition pour pouvoir aider au diagnostic de ces
+
+1738
+01:19:33,990 --> 01:19:34,310
+maladies.
+
+1739
+01:19:34,870 --> 01:19:36,210
+Il y a certes, il y a des
+
+1740
+01:19:36,210 --> 01:19:38,930
+indications à l'immunothérapie de plus en plus
+
+1741
+01:19:38,930 --> 01:19:44,110
+larges, représentées par justement les immunoglobulines avec le
+
+1742
+01:19:44,110 --> 01:19:51,050
+rapport immunomodulateur pour traiter la composante inflammatoire et
+
+1743
+01:19:51,050 --> 01:19:54,050
+auto-immune associée à ces maladies auto-immunes.
+
+1744
+01:19:54,530 --> 01:19:56,410
+Et puis on a aussi maintenant à laisser
+
+1745
+01:19:56,410 --> 01:20:00,710
+de nouvelles approches thérapeutiques qui sont basées justement
+
+1746
+01:20:00,710 --> 01:20:01,550
+sur le...
+
+1747
+01:20:01,550 --> 01:20:03,970
+qui ciblent les lymphocytes auto-réactifs à côté
+
+1748
+01:20:03,970 --> 01:20:08,070
+donc des lymphocytes et des auto-anticorps.

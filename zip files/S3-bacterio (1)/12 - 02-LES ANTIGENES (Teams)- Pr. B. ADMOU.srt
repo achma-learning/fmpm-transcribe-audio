@@ -1,0 +1,4655 @@
+1
+00:00:00,030 --> 00:00:02,630
+J'ai cité les capitales par le fait
+
+2
+00:00:02,630 --> 00:00:07,070
+qu'un antigène, parce qu'il est spécifique
+
+3
+00:00:07,070 --> 00:00:09,990
+à un récepteur, qu'il soit un anticorps,
+
+4
+00:00:10,090 --> 00:00:13,010
+une immunoglobine qui a un récepteur, qui se
+
+5
+00:00:13,010 --> 00:00:16,250
+comporte comme un récepteur pour reconnaître, fixer un
+
+6
+00:00:16,250 --> 00:00:18,850
+antigène, est tant spécifique à cet antigène pour
+
+7
+00:00:18,850 --> 00:00:21,230
+pouvoir lui permettre sa fixation dessus.
+
+8
+00:00:21,690 --> 00:00:25,250
+De la même sorte qu'un BCR, un
+
+9
+00:00:25,250 --> 00:00:27,030
+récepteur qui existe au niveau des lymphocytes B
+
+10
+00:00:27,030 --> 00:00:28,710
+et celui qui existe au niveau des lymphocytes
+
+11
+00:00:28,710 --> 00:00:28,870
+T.
+
+12
+00:00:28,870 --> 00:00:31,350
+Donc cette notion d'antigénicité est liée tout
+
+13
+00:00:31,350 --> 00:00:35,370
+simplement à la spécificité structurelle qui permet à
+
+14
+00:00:35,370 --> 00:00:38,430
+un antigène de se fixer sur un immunorécepteur,
+
+15
+00:00:38,910 --> 00:00:40,050
+qu'il soit un anticorps ou qu'il
+
+16
+00:00:40,050 --> 00:00:42,210
+soit un récepteur B ou un récepteur T.
+
+17
+00:00:43,250 --> 00:00:45,470
+Donc, chose importante, c'est que vous avez
+
+18
+00:00:45,470 --> 00:00:48,590
+sur la base de cette antigénicité, on va
+
+19
+00:00:48,590 --> 00:00:50,830
+distinguer, si vous prenez n'importe quelle surface
+
+20
+00:00:50,830 --> 00:00:54,350
+antigénique, ça veut dire une molécule, je vais
+
+21
+00:00:54,350 --> 00:01:00,710
+prendre par exemple un stylo, si je prends
+
+22
+00:01:00,710 --> 00:01:03,269
+un stylo, c'est une molécule, vous avez
+
+23
+00:01:03,269 --> 00:01:07,190
+à sa surface des points dits antigéniques, qu
+
+24
+00:01:07,190 --> 00:01:09,850
+'on va appeler épitopes ou déterminants antigéniques.
+
+25
+00:01:10,010 --> 00:01:11,710
+Donc la surface en elle-même n'est
+
+26
+00:01:11,710 --> 00:01:13,830
+pas totalement antigénique, mais on va distinguer des
+
+27
+00:01:13,830 --> 00:01:17,230
+points qui vont se fixer sur un immunorécepteur.
+
+28
+00:01:17,230 --> 00:01:19,770
+Cette surface antigénique, cet épitope peut être d
+
+29
+00:01:19,770 --> 00:01:22,510
+'origine protéique ou lipidique ou glucidique.
+
+30
+00:01:22,610 --> 00:01:24,490
+Vous avez un petit peu la base de
+
+31
+00:01:24,490 --> 00:01:28,490
+la composition structurelle en termes de protéines, de
+
+32
+00:01:28,490 --> 00:01:29,270
+la glucose, etc.
+
+33
+00:01:29,930 --> 00:01:33,130
+Alors du coup, cet immunorécepteur va pouvoir reconnaître
+
+34
+00:01:33,130 --> 00:01:35,290
+un seul épitope, ce qui est très important.
+
+35
+00:01:36,330 --> 00:01:41,250
+Pour garantir cette spécificité, il faut que l
+
+36
+00:01:41,250 --> 00:01:44,830
+'immunorécepteur puisse reconnaître un déterminant qui est dit
+
+37
+00:01:44,830 --> 00:01:46,450
+un épitope, un seul, pas plus.
+
+38
+00:01:46,450 --> 00:01:48,530
+Parce que s'il y a plusieurs épitopes,
+
+39
+00:01:48,870 --> 00:01:51,870
+plusieurs déterminants antigéniques, après il n'aura pas
+
+40
+00:01:51,870 --> 00:01:54,770
+cette spécificité qui va garantir un type de
+
+41
+00:01:54,770 --> 00:01:58,630
+réponse immunitaire qui soit efficace et qui va
+
+42
+00:01:58,630 --> 00:02:01,710
+cibler par exemple un pathogène, qui soit bactérien,
+
+43
+00:02:01,790 --> 00:02:02,330
+viral, etc.
+
+44
+00:02:02,490 --> 00:02:05,250
+Donc cette notion de cibler un épitope est
+
+45
+00:02:05,250 --> 00:02:08,250
+importante pour pouvoir choisir le type de réponse
+
+46
+00:02:08,250 --> 00:02:11,070
+immunitaire adaptée à ce stimulus antigénique.
+
+47
+00:02:12,670 --> 00:02:14,770
+Du coup, on va pouvoir distinguer ce qu
+
+48
+00:02:14,770 --> 00:02:16,770
+'on appelle un épitope B et un épitope
+
+49
+00:02:16,770 --> 00:02:16,950
+T.
+
+50
+00:02:17,130 --> 00:02:18,630
+Après, c'est facile, un épitope B, ça
+
+51
+00:02:18,630 --> 00:02:19,990
+veut dire qu'il va aller vers un
+
+52
+00:02:19,990 --> 00:02:23,310
+lymphocyte B, vers le récepteur B, au niveau
+
+53
+00:02:23,310 --> 00:02:26,210
+du lymphocyte B, et également un épitope qui
+
+54
+00:02:26,210 --> 00:02:29,310
+est dédié à être reconnu par un lymphocyte,
+
+55
+00:02:29,430 --> 00:02:31,030
+et donc on va l'appeler un épitope
+
+56
+00:02:31,030 --> 00:02:31,230
+T.
+
+57
+00:02:31,770 --> 00:02:34,210
+Donc voilà, un épitope B versus épitope T.
+
+58
+00:02:34,830 --> 00:02:36,930
+Alors lorsqu'on reste sur l'épitope B,
+
+59
+00:02:37,170 --> 00:02:38,550
+regardez ici un lymphocyte B.
+
+60
+00:02:40,430 --> 00:02:41,950
+Lymphocyte B, est-ce que vous arrivez à
+
+61
+00:02:41,950 --> 00:02:46,130
+voir le curseur qui indique le lymphocyte B
+
+62
+00:02:46,130 --> 00:02:46,830
+?
+
+63
+00:02:46,830 --> 00:02:48,710
+Vous le voyez ?
+
+64
+00:02:48,710 --> 00:02:49,850
+Oui, bien sûr, oui.
+
+65
+00:02:49,970 --> 00:02:50,410
+Parfait.
+
+66
+00:02:50,890 --> 00:02:52,050
+Donc vous avez à la surface de l
+
+67
+00:02:52,050 --> 00:02:54,170
+'lymphocyte B, on va retrouver des milliers de
+
+68
+00:02:54,170 --> 00:03:00,090
+récepteurs, BCR, et cette molécule antigénique, cette molécule
+
+69
+00:03:00,090 --> 00:03:03,230
+qui possède des épitopes, va pouvoir se fixer
+
+70
+00:03:03,230 --> 00:03:05,970
+sur le récepteur, le BCR, qui est tout
+
+71
+00:03:05,970 --> 00:03:08,210
+simplement une IgM à la base, donc qui
+
+72
+00:03:08,210 --> 00:03:11,350
+va pouvoir se fixer sur ce bras, des
+
+73
+00:03:11,350 --> 00:03:14,650
+immunoglobulins de BCR, pour pouvoir être reconnu de
+
+74
+00:03:14,650 --> 00:03:18,090
+façon efficace après induire l'activation du lymphocyte
+
+75
+00:03:18,090 --> 00:03:18,330
+B.
+
+76
+00:03:18,650 --> 00:03:20,530
+Donc vous avez ici l'antigène en totalité,
+
+77
+00:03:20,830 --> 00:03:22,890
+et sur cet antigène, on va trouver 10
+
+78
+00:03:22,890 --> 00:03:24,750
+épitopes, donc un seul épitope qui va pouvoir
+
+79
+00:03:24,750 --> 00:03:26,590
+se fixer sur un récepteur.
+
+80
+00:03:27,150 --> 00:03:30,050
+Alors, on qualifie l'épitope B, ceux qui
+
+81
+00:03:30,050 --> 00:03:34,810
+sont généralement solubles, ça c'est une caractéristique,
+
+82
+00:03:34,910 --> 00:03:37,010
+on va dire, pas absolue, pas exclusive au
+
+83
+00:03:37,010 --> 00:03:39,510
+lymphocyte B, mais généralement, ceux qui sont qualifiés
+
+84
+00:03:39,510 --> 00:03:41,870
+d'épitopes B, ils sont de nature native,
+
+85
+00:03:42,270 --> 00:03:43,970
+ils ne sont pas dénaturés, etc., ils sont
+
+86
+00:03:43,970 --> 00:03:47,730
+solubles, et sont souvent, très souvent, soit de
+
+87
+00:03:47,730 --> 00:03:52,470
+type glucidique ou polysaccharidique, avec une composante soit
+
+88
+00:03:52,470 --> 00:03:57,730
+mono-désaccharide ou polysaccharidique, ou parfois des glycoprothées,
+
+89
+00:03:57,730 --> 00:03:59,270
+ça veut dire que vous avez parfois une
+
+90
+00:03:59,270 --> 00:04:02,430
+association d'une composante protéique et glucidique, mais
+
+91
+00:04:02,430 --> 00:04:06,790
+également lépidique, mais généralement, les trois composantes sont
+
+92
+00:04:06,790 --> 00:04:11,290
+là, mais souvent, soit glucidique, soit lépidique.
+
+93
+00:04:11,810 --> 00:04:14,890
+Alors, cette notion de motif à répétition, pourquoi
+
+94
+00:04:14,890 --> 00:04:16,910
+c'est important ?
+
+95
+00:04:16,910 --> 00:04:20,769
+Alors, si je reviens vers le BCR, vous
+
+96
+00:04:20,769 --> 00:04:22,910
+avez ici deux bras, deux bras d'un
+
+97
+00:04:22,910 --> 00:04:26,350
+récepteur, qui est immunoglobuline, IgM, on va le
+
+98
+00:04:26,350 --> 00:04:28,670
+voir après, et normalement, pour permettre une bonne
+
+99
+00:04:28,670 --> 00:04:32,250
+reconnaissance, si vous avez ce point-là, ce
+
+100
+00:04:32,250 --> 00:04:36,330
+type d'épitope, qui se répète, à ce
+
+101
+00:04:36,330 --> 00:04:38,330
+niveau-là, sur la même structure, ça veut
+
+102
+00:04:38,330 --> 00:04:40,050
+dire qu'il est là, ce point, il
+
+103
+00:04:40,050 --> 00:04:43,470
+est là, donc cet antigène va pouvoir être
+
+104
+00:04:43,470 --> 00:04:46,210
+reconnu facilement, parce qu'en se répétant, on
+
+105
+00:04:46,210 --> 00:04:50,570
+va retrouver cette spécificité, qui se répète, et
+
+106
+00:04:50,570 --> 00:04:55,630
+du coup, le récepteur, il sera sûr qu
+
+107
+00:04:55,630 --> 00:04:58,870
+'on parle de la même molécule antigénique, donc
+
+108
+00:04:58,870 --> 00:05:00,430
+qui a les mêmes caractéristiques, donc le fait
+
+109
+00:05:00,430 --> 00:05:02,290
+d'avoir des épitopes qui se répètent va
+
+110
+00:05:02,290 --> 00:05:06,130
+faciliter la fixation sur les deux bras de
+
+111
+00:05:06,130 --> 00:05:07,990
+l'immunoglobuline ici, du BCR, du coup, une
+
+112
+00:05:07,990 --> 00:05:08,890
+bonne reconnaissance.
+
+113
+00:05:09,350 --> 00:05:11,390
+Ça, c'est valable pour le BCR, mais
+
+114
+00:05:11,390 --> 00:05:13,730
+d'ailleurs, c'est pourquoi on le qualifie
+
+115
+00:05:13,730 --> 00:05:16,230
+d'épitope B, parce qu'à travers cette
+
+116
+00:05:16,230 --> 00:05:18,970
+répétition de motifs, donc, il va pouvoir se
+
+117
+00:05:18,970 --> 00:05:23,270
+fixer, et du coup, garantir une bonne reconnaissance,
+
+118
+00:05:23,490 --> 00:05:24,870
+et du coup, l'activation du lymphocyte B.
+
+119
+00:05:25,310 --> 00:05:27,450
+Par contre, l'épitope DCT, donc, il est
+
+120
+00:05:27,450 --> 00:05:29,150
+destiné à être reconnu par le lymphocyte T,
+
+121
+00:05:29,610 --> 00:05:31,290
+ici, vous allez voir, il n'y a
+
+122
+00:05:31,290 --> 00:05:33,150
+pas de reconnaissance directe, on ne va pas
+
+123
+00:05:33,150 --> 00:05:34,690
+voir l'antigène qui va se fixer directement
+
+124
+00:05:34,690 --> 00:05:37,610
+sur le récepteur, mais il faut ce qu
+
+125
+00:05:37,610 --> 00:05:40,190
+'on appelle des cellules présentatrices, il faut qu
+
+126
+00:05:40,190 --> 00:05:43,150
+'il passe par des cellules qui vont s
+
+127
+00:05:43,150 --> 00:05:45,570
+'occuper pour le présenter, le processer, le dégrader,
+
+128
+00:05:45,630 --> 00:05:48,110
+après le charger sur des molécules dites molécules
+
+129
+00:05:48,110 --> 00:05:50,710
+HLA, molécules HLA, ou ce qu'on appelle,
+
+130
+00:05:50,910 --> 00:05:52,330
+je n'en ai parlé la dernière fois,
+
+131
+00:05:52,790 --> 00:05:56,030
+human glycoside antigènes, ou molécules CMH, complexe majeur
+
+132
+00:05:56,030 --> 00:05:58,550
+d'histocompatibilité, ils sont chargés, ils ont un
+
+133
+00:05:58,550 --> 00:06:01,070
+rôle important dans la réponse immunitaire, ils vont,
+
+134
+00:06:01,470 --> 00:06:04,830
+soi-disant, assimiler ces antigènes qui sont dégradés
+
+135
+00:06:04,830 --> 00:06:07,410
+dans le cétoplasme de la cellule présentatrice d
+
+136
+00:06:07,410 --> 00:06:10,510
+'antigènes, ils vont les assimiler, les charger à
+
+137
+00:06:10,510 --> 00:06:13,870
+leur surface, et les transporter en surface de
+
+138
+00:06:13,870 --> 00:06:17,450
+la cellule présentatrice pour le présenter à l
+
+139
+00:06:17,450 --> 00:06:21,250
+'aphocytée, et ce sont exclusivement, je l'insiste
+
+140
+00:06:21,250 --> 00:06:26,090
+dessus, exclusivement des antigènes de nature protéique, c
+
+141
+00:06:26,090 --> 00:06:28,630
+'est-à-dire des polypeptides, donc l'aphocytée
+
+142
+00:06:28,630 --> 00:06:31,690
+ne pourra reconnaître que, retenez bien ça, que
+
+143
+00:06:31,690 --> 00:06:33,710
+des protéines, parce qu'il faut absolument qu
+
+144
+00:06:33,710 --> 00:06:37,250
+'il passe par un processus de dégradation, et
+
+145
+00:06:37,250 --> 00:06:39,890
+les molécules HLA ne peuvent prendre en charge
+
+146
+00:06:39,890 --> 00:06:42,990
+que des protéines, que des peptides, pour les
+
+147
+00:06:42,990 --> 00:06:45,330
+charger sur ces molécules HLA et donc les
+
+148
+00:06:45,330 --> 00:06:46,270
+transporter en surface.
+
+149
+00:06:46,370 --> 00:06:48,810
+Du coup, vous avez des cellules présentatrices, généralement
+
+150
+00:06:48,810 --> 00:06:51,290
+les meilleures cellules qui présentent l'antigène, ce
+
+151
+00:06:51,290 --> 00:06:53,510
+sont la cellule dendritique, vous la connaissez à
+
+152
+00:06:53,510 --> 00:06:58,130
+travers ses prolongements cétoplasmiques, qui sont internalisées à
+
+153
+00:06:58,130 --> 00:07:00,150
+l'antigène virale, par exemple, et elle va
+
+154
+00:07:00,150 --> 00:07:03,210
+être dégradée, vous avez également des antigènes bactériens,
+
+155
+00:07:03,950 --> 00:07:05,910
+phagocytés, vous avez également l'aphocyte B, c
+
+156
+00:07:05,910 --> 00:07:07,150
+'est un peu magique pour l'aphocyte B,
+
+157
+00:07:07,530 --> 00:07:09,430
+elle va se comporter comme une cellule qui
+
+158
+00:07:09,430 --> 00:07:11,670
+va reconnaître, mais elle est capable également de
+
+159
+00:07:11,670 --> 00:07:14,970
+présenter son antigène en se comportant comme une
+
+160
+00:07:14,970 --> 00:07:18,410
+CpA pour présenter son antigène à l'aphocyté.
+
+161
+00:07:18,530 --> 00:07:19,990
+Donc l'ensemble de ces cellules, qu'on
+
+162
+00:07:19,990 --> 00:07:23,730
+appelle CpA, vont aller présenter leur antigène en
+
+163
+00:07:23,730 --> 00:07:27,490
+utilisant ces molécules HLA pour qu'elles soient
+
+164
+00:07:27,490 --> 00:07:31,670
+reconnues par le TCR, d'exemple l'appellation
+
+165
+00:07:31,670 --> 00:07:33,570
+Epitope T, donc le TCR étant exprimé à
+
+166
+00:07:33,570 --> 00:07:34,610
+la surface de l'aphocyté.
+
+167
+00:07:34,910 --> 00:07:35,650
+Vous voyez la différence ?
+
+168
+00:07:35,650 --> 00:07:37,710
+Un Epitope B et un Epitope T, comment
+
+169
+00:07:37,710 --> 00:07:38,790
+il est facile à concevoir.
+
+170
+00:07:39,330 --> 00:07:41,990
+Alors maintenant, lorsqu'on parle de reconnaissance, vous
+
+171
+00:07:41,990 --> 00:07:45,150
+avez ici une reconnaissance par les récepteurs, d
+
+172
+00:07:45,150 --> 00:07:45,350
+'accord ?
+
+173
+00:07:45,350 --> 00:07:48,250
+On a parlé de la distinguer, l'Epitope
+
+174
+00:07:48,250 --> 00:07:49,470
+B et l'Epitope T, on va passer
+
+175
+00:07:49,470 --> 00:07:50,250
+à la reconnaissance.
+
+176
+00:07:50,330 --> 00:07:52,770
+La reconnaissance, regardez ici, l'aphocyte B, en
+
+177
+00:07:52,770 --> 00:07:54,930
+rapport avec toujours la séquence d'Epitope B
+
+178
+00:07:54,930 --> 00:07:57,610
+et BCR, vous avez donc un antigène qui
+
+179
+00:07:57,610 --> 00:08:00,030
+est capable d'être reconnu directement par le
+
+180
+00:08:00,030 --> 00:08:01,510
+BCR et l'aphocyte B.
+
+181
+00:08:01,670 --> 00:08:04,170
+Donc c'est un antigène qui ne nécessite
+
+182
+00:08:04,170 --> 00:08:05,830
+pas de préparation préalable, il n'a pas
+
+183
+00:08:05,830 --> 00:08:07,930
+de dégradation comme tout à l'heure, l
+
+184
+00:08:07,930 --> 00:08:10,210
+'Epitope T, directement il se fixe sur un
+
+185
+00:08:10,210 --> 00:08:10,710
+récepteur.
+
+186
+00:08:11,690 --> 00:08:13,110
+Alors que l'Epitope T, on a dit,
+
+187
+00:08:13,430 --> 00:08:15,510
+il n'y a jamais de reconnaissance directe,
+
+188
+00:08:15,690 --> 00:08:17,370
+il faut absolument d'abord qu'il soit
+
+189
+00:08:17,370 --> 00:08:19,890
+en charge par une CPRA et qu'il
+
+190
+00:08:19,890 --> 00:08:23,990
+soit présenté par des molécules HLA à un
+
+191
+00:08:23,990 --> 00:08:27,770
+TCR, et du coup, nécessiter donc de cette
+
+192
+00:08:27,770 --> 00:08:31,890
+reconnaissance indirecte par le TCR, d'accord ?
+
+193
+00:08:31,890 --> 00:08:34,010
+Vous avez donc, d'un côté, une reconnaissance
+
+194
+00:08:34,010 --> 00:08:35,470
+directe, d'un autre côté, vous avez une
+
+195
+00:08:35,470 --> 00:08:37,090
+reconnaissance indirecte.
+
+196
+00:08:37,250 --> 00:08:38,429
+Ça veut dire, pour l'Epitope B, c
+
+197
+00:08:38,429 --> 00:08:40,350
+'est une reconnaissance directe, pour l'Epitope T,
+
+198
+00:08:40,429 --> 00:08:42,150
+c'est une reconnaissance indirecte qui a fait
+
+199
+00:08:42,150 --> 00:08:43,049
+intervenir deux choses.
+
+200
+00:08:43,230 --> 00:08:46,010
+Un, les CPRA, c'est-à-dire le
+
+201
+00:08:46,010 --> 00:08:49,130
+présent d'antigènes, deuxièmement, les molécules HLA.
+
+202
+00:08:49,350 --> 00:08:51,430
+Et bien évidemment, en nature, on a dit
+
+203
+00:08:51,430 --> 00:08:53,190
+tout à l'heure, l'Epitope T ou
+
+204
+00:08:53,190 --> 00:08:55,890
+le TCR ou le lymphocytée ne peut reconnaître
+
+205
+00:08:55,890 --> 00:08:59,250
+qu'un Epitope de type protéique.
+
+206
+00:08:59,910 --> 00:09:02,030
+Alors que l'Epitope B, il peut être
+
+207
+00:09:02,030 --> 00:09:04,430
+glycidique, lépidique ou parfois glycoprotéique.
+
+208
+00:09:05,090 --> 00:09:07,090
+Alors maintenant, ça c'est ce qu'on
+
+209
+00:09:07,090 --> 00:09:09,930
+appelle l'immunogénicité qui permet justement le choix
+
+210
+00:09:09,930 --> 00:09:12,430
+des antigènes à reconnaître pour les fixer sur
+
+211
+00:09:12,430 --> 00:09:13,110
+un récepteur.
+
+212
+00:09:13,490 --> 00:09:15,330
+Maintenant, on va voir un peu par rapport
+
+213
+00:09:15,330 --> 00:09:18,750
+à la reconnaissance, c'est-à-dire la
+
+214
+00:09:18,750 --> 00:09:21,590
+réponse immunitaire où vient le pouvoir immunogène d
+
+215
+00:09:21,590 --> 00:09:22,090
+'un antigène.
+
+216
+00:09:22,510 --> 00:09:25,450
+Facilement, on qualifie d'un antigène un immunogène
+
+217
+00:09:25,450 --> 00:09:28,590
+tout antigène capable d'endurer une réponse immunitaire.
+
+218
+00:09:29,110 --> 00:09:31,150
+Mais cette réponse immunitaire, on va voir qu
+
+219
+00:09:31,150 --> 00:09:32,590
+'elle dépend de plusieurs facteurs.
+
+220
+00:09:32,850 --> 00:09:34,770
+Je vais passer rapidement sur les choses, on
+
+221
+00:09:34,770 --> 00:09:35,710
+va dire du texte.
+
+222
+00:09:35,850 --> 00:09:37,870
+Alors, vous avez la nature des antigènes, ça
+
+223
+00:09:37,870 --> 00:09:39,770
+peut être des protéines, polyosides, c'est-à
+
+224
+00:09:39,770 --> 00:09:41,490
+-dire les glucides, les lipides et on les
+
+225
+00:09:41,490 --> 00:09:43,470
+classe facilement du plus immunogène.
+
+226
+00:09:43,590 --> 00:09:45,290
+C'est les protéines qui viennent en deuxième
+
+227
+00:09:45,290 --> 00:09:48,770
+lieu, les polyosides et troisièmement, les lipides qui
+
+228
+00:09:48,770 --> 00:09:50,830
+sont rarement ou la faiblement immunogènes.
+
+229
+00:09:51,130 --> 00:09:54,490
+Après, vous avez la deuxième notion importante, qu
+
+230
+00:09:54,490 --> 00:09:57,970
+'un facteur qui intervient dans le pouvoir immunogène
+
+231
+00:09:57,970 --> 00:09:59,270
+d'un antigène, c'est la valence.
+
+232
+00:09:59,670 --> 00:10:01,650
+Vous avez dans la surface, sur la surface
+
+233
+00:10:01,650 --> 00:10:03,650
+d'un antigène, vous avez toujours des points
+
+234
+00:10:03,650 --> 00:10:07,510
+qui représentent la valence des antigènes et plus
+
+235
+00:10:07,510 --> 00:10:09,950
+on a des valences importantes, plus on a
+
+236
+00:10:09,950 --> 00:10:13,370
+la capacité d'endurer une réponse immunitaire.
+
+237
+00:10:13,490 --> 00:10:15,930
+Du coup, lorsqu'on a un antigène, c
+
+238
+00:10:15,930 --> 00:10:17,530
+'est constitué d'un ensemble de valences, on
+
+239
+00:10:17,530 --> 00:10:20,030
+va distinguer, en comparant par exemple un antigène
+
+240
+00:10:20,030 --> 00:10:23,430
+avec 8 valences, avec celui qui a 13
+
+241
+00:10:23,430 --> 00:10:26,870
+valences ou la 5 valences, la différence, soit
+
+242
+00:10:26,870 --> 00:10:30,170
+disant, est importante pour endure une réponse immunitaire.
+
+243
+00:10:30,770 --> 00:10:34,150
+Je cite ça comme notion importante.
+
+244
+00:10:34,870 --> 00:10:38,030
+Il intervient dans certains vaccins, vous savez que,
+
+245
+00:10:38,290 --> 00:10:40,370
+si je prends l'exemple de le vaccin
+
+246
+00:10:40,370 --> 00:10:43,110
+pneumococcique, par exemple, vous savez, le pneumo, vous
+
+247
+00:10:43,110 --> 00:10:45,410
+avez fait la bactérie O, le pneumocoque est
+
+248
+00:10:45,410 --> 00:10:49,410
+un bacillus grain positif et une bactérie qui
+
+249
+00:10:49,410 --> 00:10:52,230
+est méchante, il induit des infections sévères, etc.,
+
+250
+00:10:52,230 --> 00:10:55,750
+sur certaines populations et généralement, il y a
+
+251
+00:10:55,750 --> 00:10:58,210
+beaucoup d'infections pneumococciques, dont certaines sont très
+
+252
+00:10:58,210 --> 00:10:58,510
+sévères.
+
+253
+00:10:58,630 --> 00:11:01,590
+Donc, parmi les solutions, mis à part les
+
+254
+00:11:01,590 --> 00:11:03,750
+traitements antibiotiques, etc., il faut vacciner.
+
+255
+00:11:03,750 --> 00:11:05,390
+Il y a certaines catégories de patients qu
+
+256
+00:11:05,390 --> 00:11:06,050
+'il faut vacciner.
+
+257
+00:11:06,610 --> 00:11:07,690
+D'ailleurs, il est en train d'être,
+
+258
+00:11:07,870 --> 00:11:12,970
+soi-disant, généralisé dans le programme national, ne
+
+259
+00:11:12,970 --> 00:11:14,570
+serait-ce que en privé.
+
+260
+00:11:14,730 --> 00:11:17,390
+Généralement, on recommande le vaccin pneumococcique pour certaines
+
+261
+00:11:17,390 --> 00:11:20,070
+catégories de patients fragiles, etc.
+
+262
+00:11:20,770 --> 00:11:25,370
+Alors, ce vaccin pneumococcique, il est, parce que
+
+263
+00:11:25,370 --> 00:11:29,250
+la nature de la bactérie dans sa surface,
+
+264
+00:11:29,870 --> 00:11:31,630
+il y a très peu de protéines, ou
+
+265
+00:11:31,630 --> 00:11:33,110
+pratiquement pas de protéines.
+
+266
+00:11:33,270 --> 00:11:35,270
+Donc, la majorité, c'est une structure qui
+
+267
+00:11:35,270 --> 00:11:36,410
+est polysaccharidique.
+
+268
+00:11:36,790 --> 00:11:37,330
+Ça veut dire qu'il n'y a
+
+269
+00:11:37,330 --> 00:11:39,930
+que des glucides, parfois des lépides, d'accord
+
+270
+00:11:39,930 --> 00:11:40,310
+?
+
+271
+00:11:40,310 --> 00:11:43,650
+Donc, le fait d'avoir une structure qui
+
+272
+00:11:43,650 --> 00:11:46,770
+est à la base et surtout polysaccharidique, donc
+
+273
+00:11:46,770 --> 00:11:50,710
+il est faiblement immunogène, du coup, il faut
+
+274
+00:11:50,710 --> 00:11:54,610
+trouver une astuce pour, lorsqu'on vaccine avec
+
+275
+00:11:54,610 --> 00:11:59,150
+cet antigène bactérien, il faut assurer qu'on
+
+276
+00:11:59,150 --> 00:12:01,230
+pousse que ce vaccin passe par les anticorps.
+
+277
+00:12:01,610 --> 00:12:04,490
+Un, d'un côté, deuxièmement, il faut que
+
+278
+00:12:04,490 --> 00:12:06,870
+ces anticorps, lorsqu'ils sont induits, qu'ils
+
+279
+00:12:06,870 --> 00:12:08,490
+puissent durer dans le temps.
+
+280
+00:12:08,970 --> 00:12:10,310
+Donc, vous avez deux challenges, deux défis.
+
+281
+00:12:11,010 --> 00:12:13,310
+Donc, on va jouer sur la capacité d
+
+282
+00:12:13,310 --> 00:12:16,750
+'abord immunogène de cet antigène en mutupliant la
+
+283
+00:12:16,750 --> 00:12:17,150
+valence.
+
+284
+00:12:17,330 --> 00:12:19,850
+Comme ça, on a plus d'antigènes, d
+
+285
+00:12:19,850 --> 00:12:23,410
+'épitopes qui vont se présenter à l'infocyte
+
+286
+00:12:23,410 --> 00:12:25,350
+B pour qu'ils soient reconnus pour enduire
+
+287
+00:12:25,350 --> 00:12:26,430
+suffisamment d'anticorps.
+
+288
+00:12:26,770 --> 00:12:29,110
+Mais après, du moment qu'il ne s
+
+289
+00:12:29,110 --> 00:12:30,470
+'agit que de l'infocyte B, on n
+
+290
+00:12:30,470 --> 00:12:32,350
+'a pas l'intervention de l'infocyté parce
+
+291
+00:12:32,350 --> 00:12:33,890
+que c'est un épitope B, du coup,
+
+292
+00:12:34,390 --> 00:12:36,430
+il n'y a pas suffisamment de cellules
+
+293
+00:12:36,430 --> 00:12:37,590
+mémoire où il n'y en a pas.
+
+294
+00:12:37,930 --> 00:12:39,130
+Il y a très peu de cellules mémoire
+
+295
+00:12:39,130 --> 00:12:39,670
+où il n'y en a pas.
+
+296
+00:12:40,010 --> 00:12:41,830
+Donc du coup, c'est un challenge, c
+
+297
+00:12:41,830 --> 00:12:42,170
+'est un défi.
+
+298
+00:12:42,750 --> 00:12:44,750
+Donc, on va devoir faire des rappels.
+
+299
+00:12:45,110 --> 00:12:47,510
+Donc, on vaccine aujourd'hui mais c'est
+
+300
+00:12:47,510 --> 00:12:48,190
+parce qu'il n'y a pas de
+
+301
+00:12:48,190 --> 00:12:49,330
+mémoire immunologique forte.
+
+302
+00:12:49,690 --> 00:12:52,370
+Donc, il va falloir faire des rappels chaque
+
+303
+00:12:52,370 --> 00:12:56,450
+fois pour maintenir cette réponse productrice.
+
+304
+00:12:57,110 --> 00:13:00,130
+Donc, la valance ici intervient.
+
+305
+00:13:00,410 --> 00:13:05,870
+Vous avez des exemples de vaccins sur la
+
+306
+00:13:05,870 --> 00:13:09,730
+valance pour améliorer l'immunogénésité d'un vaccin.
+
+307
+00:13:10,030 --> 00:13:12,670
+En l'occurrence, l'exemple ici, le vaccin
+
+308
+00:13:12,670 --> 00:13:14,090
+dirigé contre le pneumococle.
+
+309
+00:13:14,590 --> 00:13:15,970
+Troisièmement, la taille est facile.
+
+310
+00:13:16,450 --> 00:13:17,990
+La taille des antigènes, plus la taille est
+
+311
+00:13:17,990 --> 00:13:21,090
+importante, plus l'immunogénésité est garantie.
+
+312
+00:13:21,190 --> 00:13:22,470
+C'est pourquoi les protéines, comme ils ont
+
+313
+00:13:22,470 --> 00:13:26,090
+un poids moléculaire assez élevé, quasiment plus de
+
+314
+00:13:26,090 --> 00:13:27,970
+5 kg d'altan, donc ils sont très
+
+315
+00:13:27,970 --> 00:13:28,490
+immunogènes.
+
+316
+00:13:28,750 --> 00:13:30,610
+Deuxièmement, on va voir, on va distinguer ceux
+
+317
+00:13:30,610 --> 00:13:36,130
+qui sont, disons, de nature polysaccharide, je veux
+
+318
+00:13:36,130 --> 00:13:38,550
+dire même lépidique, etc.
+
+319
+00:13:39,390 --> 00:13:41,490
+Ils ont un poids moléculaire faible, mais ils
+
+320
+00:13:41,490 --> 00:13:42,210
+sont immunogènes.
+
+321
+00:13:42,570 --> 00:13:44,870
+Alors, dans la taille, on distingue ce qui
+
+322
+00:13:44,870 --> 00:13:47,210
+est aptène, c'est très important.
+
+323
+00:13:47,610 --> 00:13:50,810
+Par définition, un aptène, c'est des protéines
+
+324
+00:13:50,810 --> 00:13:53,590
+ou des molécules qui ont un poids moléculaire
+
+325
+00:13:53,590 --> 00:13:57,810
+très ferme, qui est inférieur à 1 kg
+
+326
+00:13:57,810 --> 00:14:00,890
+d'altan, et qui, généralement, portent très peu
+
+327
+00:14:00,890 --> 00:14:01,930
+d'hépitopes.
+
+328
+00:14:03,070 --> 00:14:05,470
+Ils sont capables, retenez bien, ils sont capables
+
+329
+00:14:05,470 --> 00:14:06,770
+de se fixer sur un réceptor.
+
+330
+00:14:06,850 --> 00:14:07,830
+Ce sont des antigènes.
+
+331
+00:14:08,330 --> 00:14:09,010
+D'accord ?
+
+332
+00:14:09,010 --> 00:14:11,550
+Ils sont capables de se combiner à un
+
+333
+00:14:11,550 --> 00:14:14,170
+récepteur, mais ils sont incapables d'adopter une
+
+334
+00:14:14,170 --> 00:14:15,070
+réponse immunitaire.
+
+335
+00:14:15,510 --> 00:14:16,590
+C'est ça, la difficulté.
+
+336
+00:14:16,870 --> 00:14:17,970
+Ça veut dire le fait de se fixer
+
+337
+00:14:17,970 --> 00:14:19,570
+sur un récepteur n'est pas suffisant pour
+
+338
+00:14:19,570 --> 00:14:20,770
+garantir une réponse immunitaire.
+
+339
+00:14:20,830 --> 00:14:23,750
+Du coup, parce que leur taille, etc., le
+
+340
+00:14:23,750 --> 00:14:25,950
+fait d'avoir très peu d'hépitopes, donc,
+
+341
+00:14:26,010 --> 00:14:27,630
+quelque part, il y a une limite.
+
+342
+00:14:27,890 --> 00:14:29,910
+Donc, il faut penser à...
+
+343
+00:14:29,910 --> 00:14:31,570
+Parce que si on veut vacciner avec ou
+
+344
+00:14:31,570 --> 00:14:33,890
+là, on cherche à induire une réponse contre
+
+345
+00:14:33,890 --> 00:14:36,210
+un agent pathogène X, donc il faut qu
+
+346
+00:14:36,210 --> 00:14:40,190
+'on puisse associer cytaptème, qui est très peu
+
+347
+00:14:40,190 --> 00:14:41,990
+immunogène ou là, on va dire qui n
+
+348
+00:14:41,990 --> 00:14:43,990
+'est pas du tout immunogène, donc il faut
+
+349
+00:14:43,990 --> 00:14:46,010
+l'associer à une molécule porteuse, c'est
+
+350
+00:14:46,010 --> 00:14:46,790
+-à-dire une protéine.
+
+351
+00:14:47,150 --> 00:14:48,710
+Le fait de l'associer à une protéine
+
+352
+00:14:48,710 --> 00:14:51,550
+porteuse va garantir, justement, la qualité et la
+
+353
+00:14:51,550 --> 00:14:54,130
+capacité de produire ou là, des anticœurs ou
+
+354
+00:14:54,130 --> 00:14:55,450
+là, d'induire une réponse immunitaire de façon
+
+355
+00:14:55,450 --> 00:14:55,950
+générale.
+
+356
+00:14:56,410 --> 00:14:57,770
+Vous voyez ici, dans le schéma, dans la
+
+357
+00:14:57,770 --> 00:14:59,970
+figure, vous avez, si on registre un aptême,
+
+358
+00:15:00,570 --> 00:15:01,490
+une souris, il n'y a pas d
+
+359
+00:15:01,490 --> 00:15:03,830
+'anticœur parce que l'aptême, malgré qu'il
+
+360
+00:15:03,830 --> 00:15:05,350
+se fixe sur un récepteur, il est incapable
+
+361
+00:15:05,350 --> 00:15:06,430
+d'annuler une réponse immunitaire.
+
+362
+00:15:06,750 --> 00:15:08,630
+Par contre, lorsque l'on l'associe à
+
+363
+00:15:08,630 --> 00:15:11,250
+une protéine porteuse, vous avez donc...
+
+364
+00:15:11,250 --> 00:15:11,970
+Nous, on vise quoi ?
+
+365
+00:15:11,970 --> 00:15:13,930
+On vise normalement à induire des anticœurs dirigés
+
+366
+00:15:13,930 --> 00:15:14,550
+contre l'aptême.
+
+367
+00:15:14,750 --> 00:15:17,830
+Mais donc, on va, soi-disant, aider cette
+
+368
+00:15:17,830 --> 00:15:21,970
+souris ou là, cet organe stimulé à induire
+
+369
+00:15:21,970 --> 00:15:24,850
+aussi des anticœurs anti-protéines porteuses et anticœurs
+
+370
+00:15:24,850 --> 00:15:27,430
+anti-aptèmes protéines porteuses parce que nous, on
+
+371
+00:15:27,430 --> 00:15:29,610
+cherche à induire une réponse dirigée contre l
+
+372
+00:15:29,610 --> 00:15:29,870
+'aptême.
+
+373
+00:15:30,030 --> 00:15:34,170
+Du coup, la procédé d'associer une protéine
+
+374
+00:15:34,170 --> 00:15:37,430
+porteuse va garantir ces anticœurs, l'induction de
+
+375
+00:15:37,430 --> 00:15:40,490
+ces anticœurs de façon à cibler les anti
+
+376
+00:15:40,490 --> 00:15:43,450
+-aptèmes et également des anticœurs anti-aptèmes associés
+
+377
+00:15:43,450 --> 00:15:44,610
+à la protéine porteuse.
+
+378
+00:15:44,610 --> 00:15:48,510
+Les anticœurs anti-protéines porteuses, on les utilise
+
+379
+00:15:48,510 --> 00:15:51,750
+juste comme une astuce ou la procédé.
+
+380
+00:15:51,950 --> 00:15:53,390
+Mais on ne va pas les utiliser parce
+
+381
+00:15:53,390 --> 00:15:54,670
+qu'ils ne vont rien protéger parce que
+
+382
+00:15:54,670 --> 00:15:57,050
+nous, on cherche à se protéger contre l
+
+383
+00:15:57,050 --> 00:16:00,130
+'aptême qui n'est pas du tout immunitaire
+
+384
+00:16:00,910 --> 00:16:04,730
+et donc après l'association à une protéine
+
+385
+00:16:04,730 --> 00:16:08,210
+porteuse, on va garantir cette réponse immunitaire.
+
+386
+00:16:08,750 --> 00:16:10,310
+Alors maintenant, la structure.
+
+387
+00:16:10,830 --> 00:16:12,430
+Vous avez fait de la biochimie, vous connaissez
+
+388
+00:16:12,430 --> 00:16:14,030
+très bien la structure des protéines, ça c
+
+389
+00:16:14,030 --> 00:16:15,050
+'est valable pour les protéines.
+
+390
+00:16:15,590 --> 00:16:16,850
+Vous savez qu'il y a quatre types
+
+391
+00:16:16,850 --> 00:16:17,490
+de structures.
+
+392
+00:16:17,870 --> 00:16:18,950
+Il y a ce qu'on appelle une
+
+393
+00:16:18,950 --> 00:16:21,830
+structure primaire et une structure secondaire, percée et
+
+394
+00:16:21,830 --> 00:16:22,330
+quaternaire.
+
+395
+00:16:22,810 --> 00:16:24,270
+Je ne vous apprends rien là-dessus.
+
+396
+00:16:24,910 --> 00:16:26,730
+Mais vous allez voir que si on regarde
+
+397
+00:16:26,730 --> 00:16:30,230
+par exemple une structure primaire, vous avez une
+
+398
+00:16:30,230 --> 00:16:35,990
+séquence d'acides aminés qui se suit sur
+
+399
+00:16:35,990 --> 00:16:39,010
+l'alignement de la structure primaire.
+
+400
+00:16:39,730 --> 00:16:41,530
+Du coup, lorsqu'on a des acides aminés,
+
+401
+00:16:42,070 --> 00:16:44,610
+des épitopes qui sont facilement accessibles, ils vont
+
+402
+00:16:44,610 --> 00:16:46,970
+pouvoir facilement s'accrocher sur un récepteur.
+
+403
+00:16:47,510 --> 00:16:49,050
+Mais lorsqu'on passe à une structure qui
+
+404
+00:16:49,050 --> 00:16:53,430
+est secondaire où il y a un repliement,
+
+405
+00:16:53,570 --> 00:16:54,830
+où il y a des hélices alpha et
+
+406
+00:16:54,830 --> 00:16:57,710
+des feuillets qui se plient, feuillets cassés d
+
+407
+00:16:57,710 --> 00:16:59,550
+'état qu'on appelle, vous avez quelque part
+
+408
+00:16:59,550 --> 00:17:01,650
+des protéines, des acides aminés qui vont de
+
+409
+00:17:01,650 --> 00:17:04,770
+plus en plus se cacher, vont être camouflées
+
+410
+00:17:05,250 --> 00:17:05,970
+dans ces structures.
+
+411
+00:17:06,130 --> 00:17:08,150
+Donc ils ont du mal à accéder facilement
+
+412
+00:17:08,150 --> 00:17:09,670
+à l'immunorécepteur.
+
+413
+00:17:10,089 --> 00:17:12,730
+Donc plus on va vers la structure tertiaire
+
+414
+00:17:12,730 --> 00:17:15,109
+et quaternaire, plus les choses se compliquent dans
+
+415
+00:17:15,109 --> 00:17:17,750
+la mesure où il y a un repliement,
+
+416
+00:17:17,950 --> 00:17:22,609
+il y a un camouflage des épitopes immunodominants,
+
+417
+00:17:22,650 --> 00:17:24,210
+on va dire, dans la structure.
+
+418
+00:17:24,390 --> 00:17:26,589
+Donc il va falloir pour induire, même s
+
+419
+00:17:26,589 --> 00:17:28,670
+'ils sont immunogènes, mais comme ils sont cachés,
+
+420
+00:17:28,750 --> 00:17:34,330
+il va falloir ouvrir cette structure, bénaturer cette
+
+421
+00:17:34,330 --> 00:17:38,190
+protéine pour pouvoir ouvrir la structure protéique et
+
+422
+00:17:38,190 --> 00:17:40,250
+lui permettre d'accéder à l'immunorécepteur.
+
+423
+00:17:40,610 --> 00:17:41,810
+Donc vous avez retenu le message ici.
+
+424
+00:17:42,270 --> 00:17:43,850
+Donc la structure primaire est très simple, plus
+
+425
+00:17:43,850 --> 00:17:46,250
+immunogène, parce qu'il est facilement accessible.
+
+426
+00:17:47,090 --> 00:17:49,010
+Par contre, plus on avance dans la structure
+
+427
+00:17:49,010 --> 00:17:51,470
+très émotionnelle comme ça, qui est compliquée, ça
+
+428
+00:17:51,470 --> 00:17:56,670
+cache les épitopes immunodominants, ils sont cachés, ils
+
+429
+00:17:56,670 --> 00:17:58,770
+sont dits conformationnels, ils se cachent dans la
+
+430
+00:17:58,770 --> 00:18:00,530
+structure tertiaire et quaternaire.
+
+431
+00:18:00,770 --> 00:18:03,130
+Donc il faut une gymnastique de la protéine
+
+432
+00:18:03,130 --> 00:18:05,750
+pour pouvoir lui permettre de s'accrocher sur
+
+433
+00:18:05,750 --> 00:18:06,510
+un immunorécepteur.
+
+434
+00:18:07,150 --> 00:18:08,870
+Alors du coup, on va distinguer ce qu
+
+435
+00:18:08,870 --> 00:18:11,270
+'on appelle l'épitope séquentielle et conformationnelle.
+
+436
+00:18:11,390 --> 00:18:12,490
+Ça rejoint un petit peu ce que je
+
+437
+00:18:12,490 --> 00:18:13,050
+viens de dire.
+
+438
+00:18:13,630 --> 00:18:15,370
+Séquentielle, ça veut dire, vous allez comprendre qu
+
+439
+00:18:15,370 --> 00:18:18,550
+'il y a une séquence continue d'acides
+
+440
+00:18:18,550 --> 00:18:19,990
+aminés sur une protéine.
+
+441
+00:18:20,390 --> 00:18:22,530
+Je vais finir ici en rouge.
+
+442
+00:18:22,830 --> 00:18:25,490
+Alors vous avez par exemple un anticorps et
+
+443
+00:18:25,490 --> 00:18:27,590
+face à lui une protéine avec une structure
+
+444
+00:18:27,590 --> 00:18:31,630
+primaire avec un alignement, une continuité des séquences
+
+445
+00:18:31,630 --> 00:18:32,190
+d'acides aminés.
+
+446
+00:18:32,310 --> 00:18:34,330
+Du coup, l'accès et la fixation sur
+
+447
+00:18:34,330 --> 00:18:35,750
+le récepteur est facile.
+
+448
+00:18:36,130 --> 00:18:39,870
+Par contre, l'épitope conformationnelle, vous avez des
+
+449
+00:18:39,870 --> 00:18:42,270
+acides aminés qui sont discontinus, qui sont cachés
+
+450
+00:18:42,270 --> 00:18:45,570
+dans la structure secondaire, tertiaire et quoi que
+
+451
+00:18:45,570 --> 00:18:45,670
+ce soit.
+
+452
+00:18:45,750 --> 00:18:48,870
+Du coup, ils sont difficilement accessibles.
+
+453
+00:18:49,410 --> 00:18:51,470
+Donc c'est important, vous allez une certaine
+
+454
+00:18:51,470 --> 00:18:58,790
+gymnastique que doit faire un effort de dénaturation
+
+455
+00:18:58,790 --> 00:19:01,090
+de la protéine pour qu'il puisse se
+
+456
+00:19:01,090 --> 00:19:01,970
+fixer sur un récepteur.
+
+457
+00:19:02,070 --> 00:19:03,350
+Pourquoi je dis ça ?
+
+458
+00:19:03,350 --> 00:19:08,710
+Parce que, par exemple, je suis devant un
+
+459
+00:19:08,710 --> 00:19:10,310
+malade qui a une infection.
+
+460
+00:19:11,690 --> 00:19:14,390
+Alors, ce malade qui a une infection, je
+
+461
+00:19:14,390 --> 00:19:17,030
+cherche à voir est-ce que l'organisme
+
+462
+00:19:17,030 --> 00:19:19,790
+de l'individu qui est infecté a des
+
+463
+00:19:19,790 --> 00:19:21,950
+anticorps qui lui permettent à moi, en tant
+
+464
+00:19:21,950 --> 00:19:25,410
+que biologiste, de faire le diagnostic sirologique.
+
+465
+00:19:25,650 --> 00:19:27,410
+Je cherche des anticorps spécifiques.
+
+466
+00:19:28,070 --> 00:19:31,290
+Alors, par exemple, dans mon support que je
+
+467
+00:19:31,290 --> 00:19:35,530
+dois utiliser, je vais déposer mon support sur
+
+468
+00:19:35,530 --> 00:19:38,150
+mon support et mon support est censé contenir
+
+469
+00:19:38,150 --> 00:19:39,150
+des antigènes.
+
+470
+00:19:39,530 --> 00:19:41,990
+C'est des antigènes spécifiques à l'anticorps
+
+471
+00:19:41,990 --> 00:19:44,750
+d'une infection, je ne sais pas, syphilis
+
+472
+00:19:44,750 --> 00:19:47,970
+ou la VIH ou la autre ou la
+
+473
+00:19:47,970 --> 00:19:49,650
+COVID ou SARS-CoV-2, etc.
+
+474
+00:19:50,330 --> 00:19:53,930
+Alors, imaginez-vous que la structure naturelle de
+
+475
+00:19:53,930 --> 00:19:56,450
+ce virus ou de cette bactérie est de
+
+476
+00:19:56,450 --> 00:19:59,310
+nature secondaire ou tertiaire ou quaternaire.
+
+477
+00:20:00,190 --> 00:20:02,590
+Donc, si je ne fais pas attention par
+
+478
+00:20:02,590 --> 00:20:04,970
+exemple à appliquer certaines conditions qui me permettent
+
+479
+00:20:04,970 --> 00:20:07,590
+d'ouvrir la structure de la protéine pour
+
+480
+00:20:07,590 --> 00:20:12,870
+permettre l'accès de ces antigènes à ces
+
+481
+00:20:12,870 --> 00:20:15,630
+anticorps, donc, du coup, je peux passer à
+
+482
+00:20:15,630 --> 00:20:17,450
+côté même s'il y a des anticorps
+
+483
+00:20:17,450 --> 00:20:21,930
+chez l'individu, mais le fait que ne
+
+484
+00:20:21,930 --> 00:20:24,230
+pas avoir respecté la température qu'il faut
+
+485
+00:20:24,230 --> 00:20:27,430
+pour dénaturer la protéine ou bien lui permettre
+
+486
+00:20:27,430 --> 00:20:29,510
+un petit peu d'accéder à l'ensemble
+
+487
+00:20:29,510 --> 00:20:31,410
+des épitopes, donc, du coup, même s'il
+
+488
+00:20:31,410 --> 00:20:32,550
+y a des anticorps, je risque de passer
+
+489
+00:20:32,550 --> 00:20:33,990
+à côté et j'aurai un faux négatif.
+
+490
+00:20:34,730 --> 00:20:36,250
+Donc ça, on en tient compte lorsqu'on
+
+491
+00:20:36,250 --> 00:20:40,030
+fait des manipulations, etc., pour comprendre un petit
+
+492
+00:20:40,030 --> 00:20:43,030
+peu comment cette notion d'épitope conformation est
+
+493
+00:20:43,030 --> 00:20:47,290
+importante à considérer dans la pratique clinique et
+
+494
+00:20:47,290 --> 00:20:47,650
+biologique.
+
+495
+00:20:49,030 --> 00:20:51,890
+Alors, maintenant, le quatrième facteur qui conditionne un
+
+496
+00:20:51,890 --> 00:20:55,070
+petit peu l'immunogénétité, c'est les conditions
+
+497
+00:20:55,070 --> 00:20:55,630
+d'administration.
+
+498
+00:20:55,810 --> 00:20:56,210
+C'est facile.
+
+499
+00:20:57,230 --> 00:20:59,790
+Vous avez une voie parantérale, vous connaissez ce
+
+500
+00:20:59,790 --> 00:21:00,010
+que c'est.
+
+501
+00:21:00,130 --> 00:21:01,090
+Parantérale, ça veut dire tout ce qui est
+
+502
+00:21:01,090 --> 00:21:01,570
+injectable.
+
+503
+00:21:01,910 --> 00:21:05,550
+Lorsque j'injecte par voie intraveineuse dans les
+
+504
+00:21:05,550 --> 00:21:09,770
+veines ou bien intraveineuse, d'accord, j'ai
+
+505
+00:21:09,770 --> 00:21:10,590
+un accès facile.
+
+506
+00:21:10,670 --> 00:21:12,390
+L'antigène, il a un accès facile au
+
+507
+00:21:12,390 --> 00:21:14,550
+sang dans lequel il y a des lymphocytes
+
+508
+00:21:14,550 --> 00:21:17,430
+et des récepteurs qui auront un contact direct
+
+509
+00:21:17,430 --> 00:21:18,690
+facile avec l'antigène.
+
+510
+00:21:19,030 --> 00:21:20,430
+Donc, c'est une voie qui est très
+
+511
+00:21:20,430 --> 00:21:21,010
+immunogène.
+
+512
+00:21:21,010 --> 00:21:23,190
+Par contre, tout ce qui passe par voie
+
+513
+00:21:23,190 --> 00:21:26,270
+muqueuse, c'est-à-dire oral, respiratoire, cutanée,
+
+514
+00:21:26,710 --> 00:21:27,750
+il va prendre plus de temps.
+
+515
+00:21:28,110 --> 00:21:29,170
+D'accord ?
+
+516
+00:21:29,170 --> 00:21:31,890
+Il est certes immunogène, on va dire, mais
+
+517
+00:21:31,890 --> 00:21:35,350
+avec une certaine lenteur, avec un délai, en
+
+518
+00:21:35,350 --> 00:21:37,990
+fait, qui permet d'avoir une réponse immunitaire.
+
+519
+00:21:38,510 --> 00:21:41,230
+Ici, j'ai mis un petit peu des
+
+520
+00:21:41,230 --> 00:21:42,010
+particularités.
+
+521
+00:21:42,430 --> 00:21:44,810
+Par exemple, la voie orale, elle est tolérogène.
+
+522
+00:21:45,610 --> 00:21:46,710
+C'est un risque et un avantage.
+
+523
+00:21:46,990 --> 00:21:51,170
+Ici, un risque tolérogène, ça veut dire parfois,
+
+524
+00:21:51,570 --> 00:21:56,330
+j'ai pu absorber un parasite, mais le
+
+525
+00:21:56,330 --> 00:22:00,230
+système immunitaire, la voie muqueuse, soi-disant, elle
+
+526
+00:22:00,230 --> 00:22:02,110
+essaie de s'adapter un petit peu à
+
+527
+00:22:02,110 --> 00:22:03,050
+ce parasite, etc.
+
+528
+00:22:03,270 --> 00:22:04,590
+Donc, il sort de tolérance.
+
+529
+00:22:04,830 --> 00:22:06,910
+Quelque part, c'est dans le sens négatif.
+
+530
+00:22:07,790 --> 00:22:11,310
+Ce risque tolérogène, il est aussi bénéfique dans
+
+531
+00:22:11,310 --> 00:22:12,030
+certaines situations.
+
+532
+00:22:12,210 --> 00:22:15,190
+Imaginez-vous, par exemple, qu'un nouveau-né
+
+533
+00:22:15,190 --> 00:22:18,250
+ou là-là, un nourrissant auquel on donne
+
+534
+00:22:18,730 --> 00:22:21,610
+des protéines de levage à l'âge de,
+
+535
+00:22:21,610 --> 00:22:23,270
+soi-disant, de 4 mois, de 3 mois.
+
+536
+00:22:23,670 --> 00:22:25,270
+Il va faire de l'allergie.
+
+537
+00:22:25,910 --> 00:22:28,150
+Rapidement, si on lui donne des protéines, il
+
+538
+00:22:28,150 --> 00:22:28,430
+va faire.
+
+539
+00:22:28,770 --> 00:22:30,650
+Mais, c'est pourquoi, d'ailleurs, lorsqu'on
+
+540
+00:22:30,650 --> 00:22:34,710
+a, le pédiatre a produit, soi-disant, l
+
+541
+00:22:34,710 --> 00:22:37,570
+'alimentation, etc., il insiste sur le fait qu
+
+542
+00:22:37,570 --> 00:22:40,030
+'il faut une diversification alimentaire qui est progressive.
+
+543
+00:22:40,270 --> 00:22:42,450
+On ne commence jamais par des protéines, soi
+
+544
+00:22:42,450 --> 00:22:44,330
+-disant, à haut point moléculaire qui sont très
+
+545
+00:22:44,330 --> 00:22:44,890
+immunogènes.
+
+546
+00:22:44,950 --> 00:22:46,950
+Donc, il faut aider ce nouveau-né ou
+
+547
+00:22:46,950 --> 00:22:50,230
+là, ce nourrissant à développer le système immunitaire
+
+548
+00:22:50,230 --> 00:22:51,150
+de façon progressive.
+
+549
+00:22:51,450 --> 00:22:54,390
+Donc, on va introduire de façon ciblée, sélective,
+
+550
+00:22:55,450 --> 00:22:56,830
+soi-disant, certains aliments.
+
+551
+00:22:57,150 --> 00:23:00,690
+Le temps de permettre à cet individu, à
+
+552
+00:23:00,690 --> 00:23:03,590
+cet enfant, de développer la tolérance.
+
+553
+00:23:04,550 --> 00:23:07,150
+Donc, parfois, même si on est tolérant, intolérant,
+
+554
+00:23:07,250 --> 00:23:08,810
+je veux dire, allergique à ces protéines de
+
+555
+00:23:08,810 --> 00:23:11,870
+levage, lorsqu'on les absorbe, les consomme avec
+
+556
+00:23:11,870 --> 00:23:15,570
+des doses plus faibles et progressives, on peut
+
+557
+00:23:15,570 --> 00:23:18,390
+développer la tolérance dans le temps.
+
+558
+00:23:18,950 --> 00:23:20,850
+Vous avez également au barbeau respiratoire, on s
+
+559
+00:23:20,850 --> 00:23:22,970
+'expose à beaucoup d'allergènes aussi.
+
+560
+00:23:23,470 --> 00:23:25,690
+On développe un peu la rhinite, on développe
+
+561
+00:23:25,690 --> 00:23:26,590
+la lase, etc.
+
+562
+00:23:26,930 --> 00:23:28,050
+chez certains individus.
+
+563
+00:23:28,450 --> 00:23:30,030
+Donc, il y a le risque de phénomène
+
+564
+00:23:30,030 --> 00:23:32,750
+d'allergie qui est souvent associé à cette
+
+565
+00:23:32,750 --> 00:23:34,530
+voie respiratoire où on est exposé à l
+
+566
+00:23:34,530 --> 00:23:37,050
+'inhalation de beaucoup de produits, que ce soit
+
+567
+00:23:37,050 --> 00:23:38,910
+des allergènes, que ce soit des toxiques, etc.
+
+568
+00:23:39,410 --> 00:23:41,670
+La voie cutanée, j'ai mis ici une
+
+569
+00:23:41,670 --> 00:23:43,350
+particularité, ce que c'est que le phénomène
+
+570
+00:23:43,350 --> 00:23:46,750
+d'hypersensibilité retardée, dont le terme, on va
+
+571
+00:23:46,750 --> 00:23:48,330
+y revenir, c'est en 4ème année, ça,
+
+572
+00:23:48,330 --> 00:23:51,050
+l'hypersensibilité retardée, ça veut dire quelqu'un
+
+573
+00:23:51,050 --> 00:23:53,150
+qui développe une certaine sensibilité vis-à-vis
+
+574
+00:23:53,150 --> 00:23:55,750
+d'un antigène mais pas dans l'immédiat.
+
+575
+00:23:55,890 --> 00:23:57,450
+Ça veut dire qu'il faut 48 heures,
+
+576
+00:23:57,490 --> 00:23:59,510
+72 heures pour réagir.
+
+577
+00:24:00,390 --> 00:24:01,610
+Ça veut dire, je vous donne un exemple
+
+578
+00:24:01,610 --> 00:24:04,930
+ici, vous avez les gens qui portent soit
+
+579
+00:24:04,930 --> 00:24:06,430
+disons des ceintures où il y a du
+
+580
+00:24:06,430 --> 00:24:10,370
+chrome, qualité chinoise, bon, on se promet, ou
+
+581
+00:24:10,370 --> 00:24:11,490
+il y a des sandales où il y
+
+582
+00:24:11,490 --> 00:24:12,990
+a beaucoup de nickel, etc.
+
+583
+00:24:13,190 --> 00:24:16,590
+ou là, tout simplement, des bijoux de mauvaise
+
+584
+00:24:16,590 --> 00:24:19,770
+qualité qui contiennent beaucoup de chrome ou bien
+
+585
+00:24:19,770 --> 00:24:22,410
+du nickel, surtout du nickel qui sont dites
+
+586
+00:24:22,410 --> 00:24:23,030
+allergisants.
+
+587
+00:24:23,650 --> 00:24:25,350
+Donc, on le met le premier jour, on
+
+588
+00:24:25,350 --> 00:24:25,630
+n'a rien.
+
+589
+00:24:26,190 --> 00:24:29,550
+Mais on commence à se gratter l'ovule
+
+590
+00:24:29,550 --> 00:24:31,390
+de l'oreille à partir de 48 heures,
+
+591
+00:24:31,390 --> 00:24:32,030
+72 heures.
+
+592
+00:24:32,570 --> 00:24:35,090
+Donc, cette réaction, ça fait une réaction d
+
+593
+00:24:35,090 --> 00:24:37,410
+'hypersensibilité retardée parce qu'il a mis du
+
+594
+00:24:37,410 --> 00:24:38,070
+temps à se développer.
+
+595
+00:24:38,150 --> 00:24:38,690
+Pourquoi ?
+
+596
+00:24:39,090 --> 00:24:40,610
+Dans la peau, par exemple, que ce soit
+
+597
+00:24:40,610 --> 00:24:43,110
+une ceinture, la descendale ou bien les levées,
+
+598
+00:24:43,190 --> 00:24:43,810
+c'est la peau.
+
+599
+00:24:44,070 --> 00:24:45,530
+Donc, c'est l'antigène de la peau.
+
+600
+00:24:45,810 --> 00:24:47,990
+on va trouver des cellules qui vont les
+
+601
+00:24:47,990 --> 00:24:50,790
+reconnaître et puis les migrer avec pour les
+
+602
+00:24:50,790 --> 00:24:52,950
+présenter à des lymphocytes au niveau du gonglion
+
+603
+00:24:52,950 --> 00:24:53,410
+lymphatique.
+
+604
+00:24:53,610 --> 00:24:55,210
+Tout ça, ça demande du temps, 48 heures,
+
+605
+00:24:55,270 --> 00:24:55,690
+72 heures.
+
+606
+00:24:55,790 --> 00:24:57,450
+Comme ça, après, on va développer les éléments
+
+607
+00:24:57,450 --> 00:24:59,750
+que ce soit au niveau de l'oreille
+
+608
+00:24:59,750 --> 00:25:01,110
+ou bien au niveau de la peau de
+
+609
+00:25:01,110 --> 00:25:02,050
+façon générale, etc.
+
+610
+00:25:02,210 --> 00:25:04,050
+Vous voyez un petit peu ces particularités de
+
+611
+00:25:04,050 --> 00:25:06,610
+la voie d'introduction de l'antigène qui
+
+612
+00:25:06,610 --> 00:25:09,970
+est importante par rapport à un, à la
+
+613
+00:25:09,970 --> 00:25:12,250
+puissance ou bien au caractère immunogène très fort
+
+614
+00:25:12,250 --> 00:25:12,430
+ou pas.
+
+615
+00:25:12,550 --> 00:25:16,870
+Deuxièmement, au timing de la défection de cette
+
+616
+00:25:16,870 --> 00:25:17,570
+réponse immunitaire.
+
+617
+00:25:18,570 --> 00:25:21,310
+La dose facile, plus on a une dose
+
+618
+00:25:21,310 --> 00:25:23,710
+importante de l'antigène, plus l'antigène est
+
+619
+00:25:23,710 --> 00:25:24,210
+immunogène.
+
+620
+00:25:24,570 --> 00:25:27,850
+Maintenant, les facteurs phylogénétiques ou la phylogénique, vous
+
+621
+00:25:27,850 --> 00:25:28,890
+avez ici la définition.
+
+622
+00:25:29,170 --> 00:25:31,670
+On parle de phylogénie lorsque, quelque part, on
+
+623
+00:25:31,670 --> 00:25:34,030
+compare la relation de parenté en parenté entre
+
+624
+00:25:34,030 --> 00:25:36,510
+les individus et les populations, aussi bien entre
+
+625
+00:25:36,510 --> 00:25:39,150
+les espèces, dans la même espèce que dans
+
+626
+00:25:39,150 --> 00:25:40,630
+les différents espèces.
+
+627
+00:25:40,730 --> 00:25:42,050
+C'est ce qu'on appelle la phylogénie
+
+628
+00:25:42,050 --> 00:25:42,870
+ou la phylogénétique.
+
+629
+00:25:43,030 --> 00:25:44,190
+D'accord ?
+
+630
+00:25:44,190 --> 00:25:48,750
+Vous pouvez facilement imaginer que lorsqu'on injecte
+
+631
+00:25:48,750 --> 00:25:53,910
+des antigènes entre des espèces éloignées, forcément, ce
+
+632
+00:25:53,910 --> 00:25:57,130
+sont des antigènes bien antigènes qui sont étranges
+
+633
+00:25:57,130 --> 00:25:59,530
+et vont facilement induire une réponse très forte.
+
+634
+00:25:59,930 --> 00:26:01,790
+Donc, et plus on s'approche de l
+
+635
+00:26:01,790 --> 00:26:05,270
+'espèce, plus il y a une diminution de
+
+636
+00:26:05,270 --> 00:26:08,130
+la caractérisation du pouvoir immunogène mais il est
+
+637
+00:26:08,130 --> 00:26:11,790
+faible par rapport à celui qui appartient à
+
+638
+00:26:11,790 --> 00:26:12,450
+l'espèce différente.
+
+639
+00:26:12,770 --> 00:26:14,630
+Vous avez une certaine expérience qui a été
+
+640
+00:26:14,630 --> 00:26:15,070
+faite.
+
+641
+00:26:16,010 --> 00:26:19,670
+En injectant, par exemple, des antigènes humains à
+
+642
+00:26:19,670 --> 00:26:21,350
+l'homme lui-même, vous avez, on s
+
+643
+00:26:21,350 --> 00:26:22,670
+'attend à pas de réaction.
+
+644
+00:26:22,970 --> 00:26:24,770
+Mais par contre, plus on s'éloigne, regardez
+
+645
+00:26:24,770 --> 00:26:27,310
+ici, vous savez qu'entre l'homme et
+
+646
+00:26:27,310 --> 00:26:29,970
+le singe, il y a certaines structures qui
+
+647
+00:26:29,970 --> 00:26:31,270
+ont des signes antigéniques.
+
+648
+00:26:31,970 --> 00:26:32,910
+Ça a été démontré.
+
+649
+00:26:33,290 --> 00:26:34,670
+Du coup, il y a plus ou moins,
+
+650
+00:26:35,710 --> 00:26:37,130
+on a dit plus ou moins mais généralement
+
+651
+00:26:37,130 --> 00:26:40,210
+un plus, mais en comparant le degré d
+
+652
+00:26:40,210 --> 00:26:43,290
+'immunogénicité d'un antigène humain chez un lapin
+
+653
+00:26:43,290 --> 00:26:44,710
+ou chez une foule, donc plus on s
+
+654
+00:26:44,710 --> 00:26:47,990
+'éloigne, plus la réponse est importante.
+
+655
+00:26:48,290 --> 00:26:51,150
+Vous allez comprendre à travers ces nombres de
+
+656
+00:26:51,150 --> 00:26:53,410
+croix que j'ai mis ici que facilement,
+
+657
+00:26:53,590 --> 00:26:54,810
+on s'éloigne de l'espace, vous avez
+
+658
+00:26:54,810 --> 00:26:57,330
+donc la puissance ou le pouvoir immunogène qui
+
+659
+00:26:57,330 --> 00:26:58,050
+est très important.
+
+660
+00:26:59,470 --> 00:27:02,250
+Alors, je vais vous expliquer un petit peu
+
+661
+00:27:02,250 --> 00:27:05,130
+quelque chose que certains vous allez entendre parler
+
+662
+00:27:05,130 --> 00:27:07,790
+beaucoup, ce qu'on appelle le super-antigène.
+
+663
+00:27:08,430 --> 00:27:10,970
+Super-antigène, c'est super, c'est-à
+
+664
+00:27:10,970 --> 00:27:12,870
+-dire avec le zorro, je ne sais pas,
+
+665
+00:27:14,030 --> 00:27:15,730
+super, ça veut dire qu'il a quelque
+
+666
+00:27:15,730 --> 00:27:20,070
+part une capacité d'induire une réponse qui
+
+667
+00:27:20,070 --> 00:27:22,690
+est erronée, qui est anormale ou inappropriée.
+
+668
+00:27:23,390 --> 00:27:24,670
+Donc, il se comporte de façon un petit
+
+669
+00:27:24,670 --> 00:27:25,670
+peu...
+
+670
+00:27:27,040 --> 00:27:30,160
+Normalement, un antigène, une fois qu'il est
+
+671
+00:27:30,160 --> 00:27:34,860
+un produit dans un organisme, le système immunitaire
+
+672
+00:27:34,860 --> 00:27:38,160
+par exemple, une cellule, vous avez une cellule
+
+673
+00:27:38,160 --> 00:27:44,080
+présentatrice d'antigène, antigène presenting cell, qui doit
+
+674
+00:27:44,080 --> 00:27:45,740
+présenter son antigène à de la flucidité.
+
+675
+00:27:46,520 --> 00:27:48,080
+Alors, dans la voie normale, vous avez ici
+
+676
+00:27:49,100 --> 00:27:50,860
+des choses sur lesquelles on va revenir après.
+
+677
+00:27:50,960 --> 00:27:52,900
+Vous avez l'hémonuclé de CMH dont je
+
+678
+00:27:52,900 --> 00:27:54,860
+parlais tout à l'heure, HL1, CMH.
+
+679
+00:27:55,260 --> 00:27:57,940
+Vous avez une structure avec des zones constantes,
+
+680
+00:27:57,980 --> 00:28:01,620
+des zones variables, α1, α2, β1, β2, etc.
+
+681
+00:28:02,320 --> 00:28:03,440
+Et vous avez de l'autre côté sur
+
+682
+00:28:03,440 --> 00:28:06,480
+la flucidité un TCR, un récepteur TI, une
+
+683
+00:28:06,480 --> 00:28:07,600
+région constante, une région variable.
+
+684
+00:28:08,080 --> 00:28:09,460
+Vous avez, dans la voie normale, vous avez
+
+685
+00:28:09,460 --> 00:28:12,220
+l'antigène qui vient, il a été processé,
+
+686
+00:28:12,320 --> 00:28:15,440
+dégradé, et assimilé, chargé sur ces molécules pour
+
+687
+00:28:15,440 --> 00:28:17,460
+être reconnu par un TCR.
+
+688
+00:28:17,620 --> 00:28:19,000
+Ça, c'est la voie normale de présentation.
+
+689
+00:28:19,460 --> 00:28:20,940
+Le siteur antigène, lui, il ne connaît pas
+
+690
+00:28:20,940 --> 00:28:22,860
+ça, il ne respecte pas ces lois, cette
+
+691
+00:28:22,860 --> 00:28:23,040
+loi.
+
+692
+00:28:23,320 --> 00:28:28,360
+C'est comme un un voyeur qui vient,
+
+693
+00:28:28,780 --> 00:28:30,080
+au lieu de rentrer par la porte, il
+
+694
+00:28:30,080 --> 00:28:31,840
+rentre par la fenêtre ou par la terrasse,
+
+695
+00:28:31,840 --> 00:28:32,100
+etc.
+
+696
+00:28:32,860 --> 00:28:34,240
+Regardez ici, il n'y a rien.
+
+697
+00:28:34,480 --> 00:28:35,420
+Mais par contre, qu'est-ce qu'il
+
+698
+00:28:35,420 --> 00:28:36,280
+vient faire ?
+
+699
+00:28:36,280 --> 00:28:39,660
+Il vient titiller ou bien, en contact avec
+
+700
+00:28:39,660 --> 00:28:43,920
+soit la chaîne bêta de molécule CMH ou
+
+701
+00:28:43,920 --> 00:28:45,860
+bien avec la zone V bêta, la zone
+
+702
+00:28:45,860 --> 00:28:48,740
+V variable, c'est-à-dire du TCR.
+
+703
+00:28:48,920 --> 00:28:51,460
+Et comme ça, il va stimuler ce récepteur
+
+704
+00:28:51,460 --> 00:28:53,960
+TCR et donc il va le piéger, il
+
+705
+00:28:53,960 --> 00:28:55,520
+va l'induire en erreur comme quoi il
+
+706
+00:28:55,520 --> 00:28:56,220
+y a un antigène.
+
+707
+00:28:56,800 --> 00:28:58,920
+Mais la différence ici, le danger, c'est
+
+708
+00:28:58,920 --> 00:29:00,880
+que dans la mesure où on ne contrôle
+
+709
+00:29:00,880 --> 00:29:04,080
+pas le contenu de cet antigène partout ici,
+
+710
+00:29:04,580 --> 00:29:05,980
+tout est bien défini.
+
+711
+00:29:06,140 --> 00:29:07,340
+Il y a un certain nombre d'acides
+
+712
+00:29:07,340 --> 00:29:08,900
+aminés, d'hépitocres qui est bien défini.
+
+713
+00:29:09,160 --> 00:29:12,260
+Ici, regardez, il peut être géant en termes
+
+714
+00:29:12,260 --> 00:29:14,600
+de structure mais comme il peut contenir beaucoup
+
+715
+00:29:14,600 --> 00:29:16,440
+d'hépitocres, donc du coup, il faut s
+
+716
+00:29:16,440 --> 00:29:18,500
+'attendre à une réponse immunitaire qui est inappropriée.
+
+717
+00:29:18,620 --> 00:29:21,080
+Vous avez donc un largage, une libération de
+
+718
+00:29:21,080 --> 00:29:23,120
+site qui est en quantité excessive.
+
+719
+00:29:23,760 --> 00:29:26,020
+On s'attendra à une réaction inflammatoire exagérée,
+
+720
+00:29:26,140 --> 00:29:26,340
+etc.
+
+721
+00:29:26,960 --> 00:29:29,100
+parce qu'il y a cet antigène n
+
+722
+00:29:29,100 --> 00:29:31,800
+'a pas respecté la voie d'administration normale
+
+723
+00:29:31,800 --> 00:29:32,780
+ou de passage normal.
+
+724
+00:29:33,660 --> 00:29:37,000
+Voilà un petit peu la description de comment
+
+725
+00:29:37,000 --> 00:29:39,780
+ce pur antigène a piégé le système immunitaire.
+
+726
+00:29:40,280 --> 00:29:42,240
+On se fixe sur une partie des molécules
+
+727
+00:29:42,240 --> 00:29:45,040
+CMH ou bien la chaîne Vbeta du TCR.
+
+728
+00:29:45,460 --> 00:29:47,160
+Les exemples sont très multiples.
+
+729
+00:29:48,240 --> 00:29:50,260
+Vous avez, par exemple, ça peut être un
+
+730
+00:29:50,260 --> 00:29:52,320
+staphylococque qui est très connu, le staphylococque.
+
+731
+00:29:52,980 --> 00:29:54,420
+Par exemple, vous avez des...
+
+732
+00:29:54,420 --> 00:29:55,980
+Vous entendez parler, par exemple, de temps en
+
+733
+00:29:55,980 --> 00:29:59,080
+temps des familles, au-delà des gens, un
+
+734
+00:29:59,080 --> 00:30:02,280
+groupe, un comité scolaire, qui font une intoxication
+
+735
+00:30:02,280 --> 00:30:05,180
+alimentaire commune, la collective.
+
+736
+00:30:07,100 --> 00:30:09,640
+Toutes les personnes qui ont consommé le poulet
+
+737
+00:30:09,640 --> 00:30:12,720
+chez les pitachis, dans un resto, etc., ont
+
+738
+00:30:12,720 --> 00:30:13,640
+fait une intoxication.
+
+739
+00:30:13,780 --> 00:30:14,820
+Souvent, ce sont des...
+
+740
+00:30:14,820 --> 00:30:16,880
+Ça va rapidement parce que souvent, il y
+
+741
+00:30:16,880 --> 00:30:20,940
+a des super-antigènes ou des toxines contenus
+
+742
+00:30:20,940 --> 00:30:23,660
+dans ce poulet, etc., qui affectent.
+
+743
+00:30:23,820 --> 00:30:26,080
+Du coup, c'est des toxines au-delà
+
+744
+00:30:26,080 --> 00:30:27,920
+des super-antigènes qui vont, par exemple, soit
+
+745
+00:30:27,920 --> 00:30:30,360
+prendre l'empreinte et ce chemin de présentation
+
+746
+00:30:30,360 --> 00:30:35,680
+antigénique et donc, ça va induire beaucoup d
+
+747
+00:30:35,680 --> 00:30:38,700
+'infections de type intolérance ou, je voudrais dire,
+
+748
+00:30:38,860 --> 00:30:42,120
+des infections soit de type toxique, infection alimentaire
+
+749
+00:30:42,120 --> 00:30:45,660
+ou bien, parfois même de type titanique ou
+
+750
+00:30:45,660 --> 00:30:48,760
+même le virus du VIH, aussi, est capable
+
+751
+00:30:48,760 --> 00:30:52,480
+de piéger le système immunitaire en allant, justement,
+
+752
+00:30:52,600 --> 00:30:55,740
+se fixer sur les hommes du TCR ou
+
+753
+00:30:55,740 --> 00:30:57,900
+du HMR pour induire ou piéger le système
+
+754
+00:30:57,900 --> 00:30:58,260
+immunitaire.
+
+755
+00:30:58,360 --> 00:31:00,040
+Voilà un petit peu la particularité du super
+
+756
+00:31:00,040 --> 00:31:03,120
+-antigène qui fait qu'il piège le système
+
+757
+00:31:03,120 --> 00:31:05,400
+immunitaire facilement et abute des réponses immunitaires qui
+
+758
+00:31:05,400 --> 00:31:07,120
+sont inappropriées et difficiles à contrôler.
+
+759
+00:31:08,060 --> 00:31:10,160
+Alors, on va voir un petit peu les
+
+760
+00:31:10,160 --> 00:31:12,300
+catégories d'antigènes selon les réponses immunitaires.
+
+761
+00:31:14,280 --> 00:31:18,440
+Alors, vous avez ce qu'on avait vu
+
+762
+00:31:18,440 --> 00:31:19,600
+tout à l'heure, on a distingué les
+
+763
+00:31:19,600 --> 00:31:22,920
+épithoptès, les épithoptès, etc., avec l'ensemble des
+
+764
+00:31:22,920 --> 00:31:24,360
+acteurs qui interviennent dans la réponse immunitaire.
+
+765
+00:31:24,440 --> 00:31:26,780
+Maintenant, lorsqu'on regarde le devenir de cet
+
+766
+00:31:26,780 --> 00:31:28,840
+antigène, qu'est-ce qu'il a, son
+
+767
+00:31:28,840 --> 00:31:32,280
+aboutissement, donc, on classe généralement ces antigènes en
+
+768
+00:31:32,280 --> 00:31:34,840
+fonction des réponses immunitaires pour les mieux les
+
+769
+00:31:34,840 --> 00:31:35,240
+comprendre.
+
+770
+00:31:36,080 --> 00:31:38,000
+Donc, on parle du coup de ce qu
+
+771
+00:31:38,000 --> 00:31:41,080
+'on appelle un antigène thymo-dépendant et d
+
+772
+00:31:41,080 --> 00:31:42,540
+'antigène thymo-indépendant.
+
+773
+00:31:43,660 --> 00:31:45,220
+Thymo-dépendant, thymo-indépendant.
+
+774
+00:31:45,320 --> 00:31:46,500
+Pourquoi thymo ?
+
+775
+00:31:46,500 --> 00:31:48,720
+Facilement compréhensible.
+
+776
+00:31:49,200 --> 00:31:51,820
+Alors, thymo, ça veut dire puisque la fluidité
+
+777
+00:31:51,820 --> 00:31:53,620
+se développe pour les neurones du thymus, donc,
+
+778
+00:31:54,380 --> 00:31:56,840
+on peut les appeler antigènes T-dépendants, mais
+
+779
+00:31:56,840 --> 00:31:59,380
+pour être beaucoup plus précis et faire le
+
+780
+00:31:59,380 --> 00:32:01,680
+lien avec les lymphocytes T, le thymus, qui
+
+781
+00:32:01,680 --> 00:32:02,900
+est le seul à se développer au niveau
+
+782
+00:32:02,900 --> 00:32:06,000
+du thymus, donc, on a besoin ou pas
+
+783
+00:32:06,000 --> 00:32:07,140
+de ces lymphocytes T.
+
+784
+00:32:07,500 --> 00:32:10,960
+Si l'antigène pour englourir des anticorps a
+
+785
+00:32:10,960 --> 00:32:13,000
+besoin de l'intervention des lymphocytes T, on
+
+786
+00:32:13,000 --> 00:32:15,280
+va l'appeler thymo-dépendant ou T-dépendant.
+
+787
+00:32:15,660 --> 00:32:17,800
+Si cet antigène est capable à lui seul
+
+788
+00:32:17,800 --> 00:32:19,820
+de stimuler les lymphocytes B et d'englourir
+
+789
+00:32:19,820 --> 00:32:22,920
+des anticorps, on va l'appeler antigène thymo
+
+790
+00:32:22,920 --> 00:32:23,800
+-indépendant.
+
+791
+00:32:24,140 --> 00:32:26,580
+Alors, pour être qualifié ou défini comme antigène
+
+792
+00:32:26,580 --> 00:32:30,200
+thymo-indépendant, donc, il faut absolument avoir l
+
+793
+00:32:30,200 --> 00:32:32,560
+'intervention des lymphocytes T pour collaborer avec les
+
+794
+00:32:32,560 --> 00:32:33,240
+lymphocytes B.
+
+795
+00:32:33,720 --> 00:32:37,620
+Deuxièmement, c'est souvent des antigènes naturels, surtout
+
+796
+00:32:37,620 --> 00:32:40,300
+protéiques, tous les antigènes protéiques, on va dire,
+
+797
+00:32:40,600 --> 00:32:44,220
+quasiment, ils dépendent un petit peu des lymphocytes
+
+798
+00:32:44,220 --> 00:32:45,380
+T parce qu'ils sont capables d'être
+
+799
+00:32:45,380 --> 00:32:46,480
+reconnus par les lymphocytes T.
+
+800
+00:32:46,960 --> 00:32:48,980
+Donc, ce sont des protéines, ils sont capables
+
+801
+00:32:48,980 --> 00:32:51,920
+d'avoir une catabolisation rapide et qui ont
+
+802
+00:32:51,920 --> 00:32:54,160
+des motifs, même s'ils ont des motifs
+
+803
+00:32:54,160 --> 00:32:56,260
+structure différents, peu importe, c'est pas comme
+
+804
+00:32:56,260 --> 00:32:59,020
+l'hépitope B, oui, il faut absolument curer
+
+805
+00:32:59,020 --> 00:33:01,760
+les mêmes hépitopes qui permettent un site antigène
+
+806
+00:33:01,760 --> 00:33:03,100
+de sélection sur le débras.
+
+807
+00:33:03,560 --> 00:33:04,520
+Rappelez-vous, tout à l'heure, je l
+
+808
+00:33:04,520 --> 00:33:06,640
+'ai expliqué sur la surface de lymphocytes B.
+
+809
+00:33:06,760 --> 00:33:08,960
+Ici, même s'il a une structure différente,
+
+810
+00:33:09,560 --> 00:33:14,060
+mais la cellule par rapport à l'antigène
+
+811
+00:33:14,060 --> 00:33:16,180
+qui est indépendant, il va passer par des
+
+812
+00:33:16,180 --> 00:33:18,020
+cellules CpA qui vont le dégrader, ils vont
+
+813
+00:33:18,020 --> 00:33:20,840
+extraire des hépitopes enterrées, des acides aminiques qui
+
+814
+00:33:20,840 --> 00:33:21,620
+sont immunogènes.
+
+815
+00:33:21,920 --> 00:33:24,260
+Du coup, quelle que soit leur structure, même
+
+816
+00:33:24,260 --> 00:33:25,500
+si elle est différente, il y a des
+
+817
+00:33:25,500 --> 00:33:30,360
+protéines, donc, on aura besoin donc, du CpA
+
+818
+00:33:30,360 --> 00:33:32,440
+et de cellules de molécule CMH.
+
+819
+00:33:33,020 --> 00:33:34,540
+Et de l'autre côté, les antigènes qui
+
+820
+00:33:34,540 --> 00:33:37,940
+sont indépendants, ils nécessitent absolument pas l'intervention
+
+821
+00:33:37,940 --> 00:33:38,680
+de lymphocytes T.
+
+822
+00:33:38,780 --> 00:33:41,160
+Donc, la cellule CpA se débrouille tout seul
+
+823
+00:33:41,160 --> 00:33:42,740
+pour produire des anticorps.
+
+824
+00:33:42,920 --> 00:33:46,580
+Ce sont seulement des antigènes catabolismes blancs comme
+
+825
+00:33:46,580 --> 00:33:49,560
+les lipides et plus ou moins les glucides.
+
+826
+00:33:50,160 --> 00:33:51,400
+Et cette fois-ci, on a besoin de
+
+827
+00:33:51,400 --> 00:33:53,880
+cette notion de structure répétitive.
+
+828
+00:33:54,500 --> 00:33:55,920
+Plus on a des motifs qui se répètent
+
+829
+00:33:55,920 --> 00:33:59,240
+sur la surface antigène, rappelez-vous, donc, si
+
+830
+00:33:59,240 --> 00:34:02,020
+l'hépitope A est similaire à l'hépitope
+
+831
+00:34:02,020 --> 00:34:03,820
+B sur la même surface de la molécule,
+
+832
+00:34:04,080 --> 00:34:06,760
+donc, ces deux hépitopes sont identiques et ce
+
+833
+00:34:06,760 --> 00:34:08,659
+qui va se fixer sur le minoréceptor est
+
+834
+00:34:08,659 --> 00:34:09,139
+reconnu.
+
+835
+00:34:09,420 --> 00:34:11,239
+Voilà un petit peu la différence entre un
+
+836
+00:34:11,239 --> 00:34:13,739
+hépitope ou un antigène timo-dépendant et un
+
+837
+00:34:13,739 --> 00:34:15,679
+antigène timo-indépendant.
+
+838
+00:34:16,580 --> 00:34:19,500
+Alors, sur le schéma, si on a un
+
+839
+00:34:19,500 --> 00:34:22,860
+dipendant directement à la surface du lymphocyte B
+
+840
+00:34:22,860 --> 00:34:24,980
+sur le BCR et vous avez donc le
+
+841
+00:34:24,980 --> 00:34:27,020
+lymphocyte B parce que, tout à l'heure,
+
+842
+00:34:27,080 --> 00:34:28,460
+je disais, il faut voir un petit peu
+
+843
+00:34:28,460 --> 00:34:30,080
+le devenir de cette reconnaissance.
+
+844
+00:34:30,460 --> 00:34:33,100
+Vous avez la qualité de la réponse immunitaire
+
+845
+00:34:33,100 --> 00:34:35,199
+face à l'antigène timo-indépendant qui est
+
+846
+00:34:35,199 --> 00:34:37,780
+capable d'être reconnu par le lymphocyte B
+
+847
+00:34:37,780 --> 00:34:41,380
+directement, on aura in fine la production d
+
+848
+00:34:41,380 --> 00:34:44,940
+'anticorps mais uniquement, quasiment, on va dire, pas
+
+849
+00:34:44,940 --> 00:34:46,000
+les seuls, on va voir qu'il y
+
+850
+00:34:46,000 --> 00:34:47,380
+a des études qui ont démontré qu'on
+
+851
+00:34:47,380 --> 00:34:50,340
+peut avoir aussi quelques EGG, mais bon, souvent,
+
+852
+00:34:50,480 --> 00:34:52,020
+très souvent, on n'a que des IgM.
+
+853
+00:34:52,360 --> 00:34:53,960
+Vous savez, dans l'infection, n'importe quelle
+
+854
+00:34:53,960 --> 00:34:57,820
+infection, lorsqu'il y a des anticorps, on
+
+855
+00:34:57,820 --> 00:34:59,200
+n'a pas besoin uniquement d'IgM, on
+
+856
+00:34:59,200 --> 00:35:01,420
+aura besoin aussi d'IgG, des immunoglobulins de
+
+857
+00:35:01,420 --> 00:35:04,100
+type IgG, parfois d'IgA ou d'IgE,
+
+858
+00:35:04,260 --> 00:35:04,360
+etc.
+
+859
+00:35:05,300 --> 00:35:08,040
+face à l'antigène timo-indépendant, le lymphocyte
+
+860
+00:35:08,040 --> 00:35:09,420
+B ne produit que l'IgM.
+
+861
+00:35:10,240 --> 00:35:12,520
+Donc, ça c'est une réponse qui est
+
+862
+00:35:12,520 --> 00:35:15,180
+de type humorale et indépendante.
+
+863
+00:35:16,220 --> 00:35:21,580
+Deuxièmement, lorsqu'on regarde l'antigène timo-dépendant,
+
+864
+00:35:22,260 --> 00:35:23,600
+donc, on a dit qu'il dépend du
+
+865
+00:35:23,600 --> 00:35:26,380
+lymphocyte T, donc, on a besoin d'informer
+
+866
+00:35:27,520 --> 00:35:30,780
+de l'lymphocyte T via des signaux.
+
+867
+00:35:30,960 --> 00:35:32,560
+Vous avez l'antigène qui est reconnu ici
+
+868
+00:35:32,560 --> 00:35:33,720
+à la surface du lymphocyte B.
+
+869
+00:35:34,180 --> 00:35:36,620
+Une fois reconnu, il va d'abord processer,
+
+870
+00:35:36,720 --> 00:35:37,640
+parce qu'on a dit que le lymphocyte
+
+871
+00:35:37,640 --> 00:35:39,180
+B se comporte comme un suivi de son
+
+872
+00:35:39,180 --> 00:35:39,760
+antigène.
+
+873
+00:35:39,920 --> 00:35:42,960
+Donc, il va charger son antigène sur le
+
+874
+00:35:42,960 --> 00:35:46,180
+molécule CMH pour le présenter à un TCR.
+
+875
+00:35:46,540 --> 00:35:48,200
+Et du coup, on a besoin d'un
+
+876
+00:35:48,200 --> 00:35:51,260
+deuxième signal qui permet justement au lymphocyte T
+
+877
+00:35:51,260 --> 00:35:52,880
+de mieux collaborer avec le lymphocyte B.
+
+878
+00:35:53,300 --> 00:35:55,520
+Il va lui envoyer un feedback pour lui
+
+879
+00:35:55,520 --> 00:35:56,580
+permettre de se différencier.
+
+880
+00:35:56,840 --> 00:35:58,900
+Cette fois-ci, lorsque le lymphocyte T intervient,
+
+881
+00:35:59,340 --> 00:36:00,980
+il va permettre au lymphocyte B de se
+
+882
+00:36:00,980 --> 00:36:04,440
+différencier, de produire l'IgM, il va produire
+
+883
+00:36:04,440 --> 00:36:06,120
+également les IgA.
+
+884
+00:36:06,440 --> 00:36:07,860
+Du coup, on a une diversité de la
+
+885
+00:36:07,860 --> 00:36:08,820
+réponse immunitaire.
+
+886
+00:36:09,100 --> 00:36:11,000
+C'est une réponse qui est diversifiée.
+
+887
+00:36:11,340 --> 00:36:12,500
+D'un côté, parce qu'on a plusieurs
+
+888
+00:36:12,500 --> 00:36:13,400
+zootypes en TCR.
+
+889
+00:36:13,880 --> 00:36:15,860
+Deuxièmement, on a aussi les cellules mémoires qui
+
+890
+00:36:15,860 --> 00:36:16,500
+sont très importantes.
+
+891
+00:36:18,080 --> 00:36:19,040
+S'il n'y a pas de cellules
+
+892
+00:36:19,040 --> 00:36:20,300
+mémoires, s'il n'y a pas d
+
+893
+00:36:20,300 --> 00:36:23,160
+'autres zootypes, donc la réponse immunitaire est quelque
+
+894
+00:36:23,160 --> 00:36:24,960
+part limitée dans l'efficacité.
+
+895
+00:36:25,280 --> 00:36:27,640
+Vous avez ici des différences.
+
+896
+00:36:27,780 --> 00:36:29,260
+J'ai cité à titre d'exemple, ici,
+
+897
+00:36:29,860 --> 00:36:32,180
+je reviens sur le polysaccharide bactérien.
+
+898
+00:36:32,600 --> 00:36:35,120
+Le vaccin qui est pneumococcique, je le répète,
+
+899
+00:36:35,440 --> 00:36:36,920
+c'est un antigène qui est indépendant parce
+
+900
+00:36:36,920 --> 00:36:39,720
+qu'il a besoin lorsqu'on l'injecte
+
+901
+00:36:39,720 --> 00:36:40,580
+comme vaccin.
+
+902
+00:36:41,000 --> 00:36:42,460
+Donc, il va y avoir une réponse qui
+
+903
+00:36:42,460 --> 00:36:46,720
+est, disons, essentiellement IgM mais sans cellules de
+
+904
+00:36:46,720 --> 00:36:47,020
+mémoire.
+
+905
+00:36:47,240 --> 00:36:49,020
+Donc, on a besoin de faire des rappels
+
+906
+00:36:49,020 --> 00:36:52,520
+pour, ou bien l'associer à une protéine.
+
+907
+00:36:52,780 --> 00:36:54,200
+Il y a des vaccins en dehors de
+
+908
+00:36:54,200 --> 00:36:56,620
+la valence qu'on accentue, qu'on augmente,
+
+909
+00:36:56,660 --> 00:36:57,720
+on augmente également.
+
+910
+00:36:58,200 --> 00:37:00,420
+On assure, par exemple, on administre un vaccin
+
+911
+00:37:00,420 --> 00:37:02,820
+qui est conjugué à une protéine pour permettre,
+
+912
+00:37:03,020 --> 00:37:05,360
+justement, l'intervention des lymphocytes.
+
+913
+00:37:05,680 --> 00:37:08,880
+Et lorsque l'lymphocyte intervient face à l
+
+914
+00:37:08,880 --> 00:37:11,540
+'antigène, donc on assure la diversité et les
+
+915
+00:37:11,540 --> 00:37:13,240
+cellules de mémoire qui permettent à la réponse
+
+916
+00:37:13,240 --> 00:37:15,180
+immunitaire protectrice de durer dans le temps et
+
+917
+00:37:15,180 --> 00:37:16,000
+d'être efficace aussi.
+
+918
+00:37:17,260 --> 00:37:20,140
+Je voulais parler un petit peu des catégories
+
+919
+00:37:20,140 --> 00:37:23,080
+d'antigènes par rapport aux microbes ou aux
+
+920
+00:37:23,080 --> 00:37:23,980
+pathogènes.
+
+921
+00:37:23,980 --> 00:37:26,240
+Vous savez qu'il y a soit, grosso
+
+922
+00:37:26,240 --> 00:37:30,420
+modo, des antigènes bactériens, verroux, parasitaires, il y
+
+923
+00:37:30,420 --> 00:37:31,460
+a des champignons, etc.
+
+924
+00:37:32,020 --> 00:37:32,920
+Mais bien sûr, il n'y a pas
+
+925
+00:37:32,920 --> 00:37:34,020
+que ça, il y a des antigènes dans
+
+926
+00:37:34,020 --> 00:37:35,860
+l'environnement, ça peut être des toxiques, ça
+
+927
+00:37:35,860 --> 00:37:36,940
+peut être des allergènes, etc.
+
+928
+00:37:37,140 --> 00:37:39,780
+Bref, lorsqu'on reste sur les pathogènes qui
+
+929
+00:37:39,780 --> 00:37:42,100
+est l'essentiel, alors vous avez ici, facilement
+
+930
+00:37:42,100 --> 00:37:43,720
+vous allez dire qu'il y a une
+
+931
+00:37:43,720 --> 00:37:46,060
+diversité de la structure.
+
+932
+00:37:46,260 --> 00:37:47,980
+Vous avez sur la capsule et sur le
+
+933
+00:37:47,980 --> 00:37:50,340
+nombre des composants de la structure bactérienne, des
+
+934
+00:37:50,340 --> 00:37:52,840
+choses que vous avez vu en cours, il
+
+935
+00:37:52,840 --> 00:37:55,560
+y a une richesse en termes de, soit
+
+936
+00:37:55,560 --> 00:37:58,320
+disons, de molécules antigéniques.
+
+937
+00:37:59,060 --> 00:38:04,860
+Vous avez essentiellement des protéines, des glycoprotéines, des
+
+938
+00:38:04,860 --> 00:38:05,420
+lipides, etc.
+
+939
+00:38:05,640 --> 00:38:08,320
+Donc, on peut dire, grosso modo, que les
+
+940
+00:38:08,320 --> 00:38:13,140
+antigènes bactériens sont, c'est diversifié mais surtout,
+
+941
+00:38:13,340 --> 00:38:14,480
+ils sont stables dans le temps.
+
+942
+00:38:15,180 --> 00:38:18,100
+Très peu de bactéries opèrent, soit disons, des
+
+943
+00:38:18,100 --> 00:38:19,040
+mutations, etc.
+
+944
+00:38:19,200 --> 00:38:21,380
+ou des changements structuraux rapidement.
+
+945
+00:38:21,680 --> 00:38:23,160
+Donc, c'est des changements qui s'opèrent
+
+946
+00:38:23,160 --> 00:38:25,240
+peut-être après 5, 10 ans, même plus.
+
+947
+00:38:26,380 --> 00:38:26,480
+Voilà.
+
+948
+00:38:27,360 --> 00:38:29,340
+Donc, du coup, vous avez une certaine stabilité.
+
+949
+00:38:29,460 --> 00:38:31,100
+Ça veut dire, si j'utilise les antigènes
+
+950
+00:38:31,100 --> 00:38:34,120
+bactériens pour vacciner avec, je suis sûr que
+
+951
+00:38:34,120 --> 00:38:36,180
+si les antigènes sont stables, je ne suis
+
+952
+00:38:36,180 --> 00:38:38,820
+pas obligé de changer le vaccin dans une
+
+953
+00:38:38,820 --> 00:38:39,880
+année ou dans deux ans.
+
+954
+00:38:40,380 --> 00:38:42,880
+Par contre, lorsqu'on vient vers les virus,
+
+955
+00:38:43,500 --> 00:38:45,300
+vous avez ici, vous savez que les virus,
+
+956
+00:38:45,480 --> 00:38:48,040
+ce sont des, ils sont très intelligents, on
+
+957
+00:38:48,040 --> 00:38:48,580
+va dire malins.
+
+958
+00:38:49,120 --> 00:38:52,100
+Lorsqu'ils pénètrent dans un organisme, ils vont
+
+959
+00:38:52,100 --> 00:38:54,680
+induire des transformations, des mutations.
+
+960
+00:38:55,340 --> 00:38:56,680
+C'est-à-dire, ils utilisent la machine
+
+961
+00:38:56,680 --> 00:39:01,120
+grille dans une cellulaire pour changer carrément, pour
+
+962
+00:39:01,120 --> 00:39:04,340
+produire leurs propres protéines et les faire un
+
+963
+00:39:04,340 --> 00:39:08,780
+petit peu après, soi-disant véhiculer dans l
+
+964
+00:39:08,780 --> 00:39:10,720
+'organisme pour infecter d'autres cellules.
+
+965
+00:39:11,240 --> 00:39:12,640
+Donc, le fait d'utiliser la machine grille
+
+966
+00:39:12,640 --> 00:39:14,040
+de la cellule, il y a des erreurs
+
+967
+00:39:14,040 --> 00:39:16,060
+de copie d'ADN, etc.
+
+968
+00:39:16,320 --> 00:39:18,280
+Il y a tout le temps des transformations,
+
+969
+00:39:18,540 --> 00:39:20,760
+des mutations qui s'opèrent sur la structure
+
+970
+00:39:20,760 --> 00:39:21,240
+des virus.
+
+971
+00:39:21,240 --> 00:39:23,080
+Vous connaissez les exemples des levièges.
+
+972
+00:39:23,260 --> 00:39:24,520
+Pourquoi on n'a pas juste à présent
+
+973
+00:39:25,180 --> 00:39:27,120
+réussi à produire un vaccin ?
+
+974
+00:39:27,120 --> 00:39:29,900
+Et le challenge qui reste maintenant pour le
+
+975
+00:39:29,900 --> 00:39:32,000
+Covid, vous savez, il y a toujours des
+
+976
+00:39:32,000 --> 00:39:33,100
+questions par rapport à...
+
+977
+00:39:33,100 --> 00:39:34,460
+On n'a pas suffisamment de recul, on
+
+978
+00:39:34,460 --> 00:39:35,360
+n'en a pas encore.
+
+979
+00:39:35,840 --> 00:39:37,240
+Le vaccin, une fois qu'il va être
+
+980
+00:39:37,240 --> 00:39:38,720
+administré, il nous faut du temps pour voir
+
+981
+00:39:38,720 --> 00:39:41,000
+est-ce que ce vaccin va durer, va
+
+982
+00:39:41,000 --> 00:39:43,320
+protéger pendant plus de 6 mois, plus d
+
+983
+00:39:43,320 --> 00:39:43,560
+'une année.
+
+984
+00:39:43,660 --> 00:39:46,620
+Vous avez beaucoup de questions qui restent certaines,
+
+985
+00:39:46,780 --> 00:39:49,460
+mais là, qui sont posées par rapport au
+
+986
+00:39:49,460 --> 00:39:51,660
+devenir de toute vaccination par rapport au virus.
+
+987
+00:39:52,360 --> 00:39:54,160
+Et l'exemple le plus simple, je prends
+
+988
+00:39:54,160 --> 00:39:56,200
+le virus de la grippe.
+
+989
+00:39:56,540 --> 00:40:01,160
+Vous savez, généralement, il faut toujours attendre ce
+
+990
+00:40:01,160 --> 00:40:02,920
+qu'on appelle l'écosystème d'un virus,
+
+991
+00:40:03,020 --> 00:40:04,700
+le virus de la grippe.
+
+992
+00:40:05,080 --> 00:40:07,280
+Vous savez, à la fin de l'ensemble
+
+993
+00:40:07,280 --> 00:40:10,820
+des études des observations qui ont été faites
+
+994
+00:40:11,460 --> 00:40:14,240
+sur l'ensemble d'années mondiales pour dire
+
+995
+00:40:14,240 --> 00:40:15,860
+est-ce que le virus de la grippe
+
+996
+00:40:15,860 --> 00:40:16,520
+a muté ou pas.
+
+997
+00:40:16,960 --> 00:40:18,780
+Pour dire est-ce que le vaccin de
+
+998
+00:40:18,780 --> 00:40:20,300
+l'année dernière va servir pour cette année.
+
+999
+00:40:20,440 --> 00:40:21,500
+Donc du coup, il y a toujours cette
+
+1000
+00:40:21,500 --> 00:40:23,520
+attente pour savoir est-ce qu'il y
+
+1001
+00:40:23,520 --> 00:40:24,900
+a des mutations qui se sont opérées sur
+
+1002
+00:40:24,900 --> 00:40:25,520
+le virus ou pas.
+
+1003
+00:40:26,320 --> 00:40:29,120
+Donc, le message clé de cette description c
+
+1004
+00:40:29,120 --> 00:40:31,060
+'est que vous avez un ensemble de phénomènes
+
+1005
+00:40:31,060 --> 00:40:34,040
+de mutation qui s'opèrent quasiment parfois à
+
+1006
+00:40:34,040 --> 00:40:35,680
+la seconde ou à la minute, à l
+
+1007
+00:40:35,680 --> 00:40:38,200
+'heure ou au mois après qui fait qu
+
+1008
+00:40:38,200 --> 00:40:40,080
+'il y a toujours une résistance à la
+
+1009
+00:40:40,080 --> 00:40:40,780
+réponse immunitaire.
+
+1010
+00:40:40,900 --> 00:40:41,820
+Aujourd'hui, on sait qu'il est efficace
+
+1011
+00:40:41,820 --> 00:40:43,500
+mais on ne sait pas est-ce qu
+
+1012
+00:40:43,500 --> 00:40:45,360
+'il va le faire ou va le garder,
+
+1013
+00:40:45,440 --> 00:40:48,440
+va l'être dans les mois ou les
+
+1014
+00:40:48,440 --> 00:40:49,620
+années qui suivent.
+
+1015
+00:40:50,160 --> 00:40:53,120
+Après, les parasites, j'ai fait la description
+
+1016
+00:40:53,120 --> 00:40:55,340
+des parasites pour dire c'est un peu
+
+1017
+00:40:55,340 --> 00:40:57,420
+particulier, vous allez voir ça en troisième année
+
+1018
+00:40:58,380 --> 00:40:58,820
+probablement.
+
+1019
+00:40:59,220 --> 00:41:00,520
+J'ai pris un exemple ici qui est
+
+1020
+00:41:00,520 --> 00:41:02,540
+très parlant de ce qu'on appelle le
+
+1021
+00:41:02,540 --> 00:41:02,860
+malaria.
+
+1022
+00:41:03,060 --> 00:41:04,700
+Vous connaissez le malaria ou le paludisme.
+
+1023
+00:41:05,440 --> 00:41:07,660
+C'est très fréquent au niveau de l
+
+1024
+00:41:07,660 --> 00:41:08,580
+'Afrique sud-saharienne.
+
+1025
+00:41:09,140 --> 00:41:11,260
+Alors, vous avez ici un exemple d'un
+
+1026
+00:41:11,260 --> 00:41:15,060
+agent du malaria qui s'appelle le plasmodium.
+
+1027
+00:41:15,240 --> 00:41:16,700
+Le plasmodium, il y a plusieurs espèces.
+
+1028
+00:41:16,880 --> 00:41:18,340
+Il y a le plasmodium ovale et le
+
+1029
+00:41:18,340 --> 00:41:18,860
+falciparum.
+
+1030
+00:41:18,920 --> 00:41:21,120
+Le plus dangereux, c'est le falciparum parce
+
+1031
+00:41:21,120 --> 00:41:22,680
+qu'il peindure même ce qu'on appelle
+
+1032
+00:41:22,680 --> 00:41:24,140
+le nouveau paludisme.
+
+1033
+00:41:24,960 --> 00:41:26,520
+Alors, vous savez, si le paludisme c'est
+
+1034
+00:41:26,520 --> 00:41:30,160
+particulier et se transmet par un anophèle ou
+
+1035
+00:41:30,160 --> 00:41:34,460
+une anophèle, cet anophèle, lorsqu'il a le
+
+1036
+00:41:34,460 --> 00:41:38,800
+parasite, le risque c'est de contaminer soi
+
+1037
+00:41:38,800 --> 00:41:39,760
+-disant un être humain.
+
+1038
+00:41:40,160 --> 00:41:42,940
+Alors, vous avez déjà le parasite qui subit
+
+1039
+00:41:42,940 --> 00:41:44,220
+et passe par plusieurs cycles.
+
+1040
+00:41:44,760 --> 00:41:46,980
+Vous avez le parasite lorsqu'il a le
+
+1041
+00:41:46,980 --> 00:41:50,000
+l'anophèle, l'insecte lorsqu'il a le
+
+1042
+00:41:50,000 --> 00:41:50,320
+parasite.
+
+1043
+00:41:50,540 --> 00:41:52,620
+Donc, il y a une sorte d'un
+
+1044
+00:41:52,620 --> 00:41:53,460
+cycle parasitaire.
+
+1045
+00:41:54,160 --> 00:41:55,320
+Il y a l'accouplement, etc.
+
+1046
+00:41:55,500 --> 00:41:58,440
+entre les malsemèles et puis, vous avez un
+
+1047
+00:41:58,440 --> 00:42:02,020
+certain nombre de soi-disant d'antigènes qui
+
+1048
+00:42:02,020 --> 00:42:05,060
+vont soi-disant avoir lieu au niveau de
+
+1049
+00:42:05,060 --> 00:42:08,060
+ce cycle, des zygotes, des oeufs en tout
+
+1050
+00:42:08,060 --> 00:42:08,240
+cas.
+
+1051
+00:42:08,600 --> 00:42:10,580
+Après, vous avez ce qu'on appelle grosso
+
+1052
+00:42:10,580 --> 00:42:12,320
+modo un stade parasitaire.
+
+1053
+00:42:12,400 --> 00:42:14,080
+Vous avez ici un stade parasitaire ou un
+
+1054
+00:42:14,080 --> 00:42:17,840
+skip stage qui va assurer en fait une
+
+1055
+00:42:17,840 --> 00:42:22,580
+certaine diversité des antigènes de ce parasite lui
+
+1056
+00:42:22,580 --> 00:42:22,800
+-même.
+
+1057
+00:42:23,500 --> 00:42:25,640
+Après, lorsque un patient pique et passe cet
+
+1058
+00:42:25,640 --> 00:42:28,320
+anophèle, vous avez donc, une fois que les
+
+1059
+00:42:28,320 --> 00:42:33,780
+antigènes parasitaires sont administrés, vous avez donc un
+
+1060
+00:42:33,780 --> 00:42:35,400
+stade qu'on appelle un stade hépatique.
+
+1061
+00:42:36,300 --> 00:42:38,120
+Le reverse stage ou ce qu'on appelle
+
+1062
+00:42:38,120 --> 00:42:39,640
+un stade qui se donne hépatique.
+
+1063
+00:42:40,100 --> 00:42:41,880
+Je ne vous décris pas le cycle du
+
+1064
+00:42:41,880 --> 00:42:43,280
+parasite mais juste pour vous signaler qu'en
+
+1065
+00:42:43,280 --> 00:42:48,100
+quoi le parasite aussi bien au niveau de
+
+1066
+00:42:48,100 --> 00:42:50,160
+l'insecte ou là au niveau de l
+
+1067
+00:42:50,160 --> 00:42:52,860
+'individu qui est contaminé, qui est piqué par
+
+1068
+00:42:52,860 --> 00:42:56,660
+l'insecte, donc, va avoir un certain nombre
+
+1069
+00:42:56,660 --> 00:42:59,040
+de stades par lesquels le parasite va passer
+
+1070
+00:42:59,040 --> 00:43:00,260
+et lorsqu'il passe d'un stade à
+
+1071
+00:43:00,260 --> 00:43:02,860
+l'autre, il diversifie ses antigènes.
+
+1072
+00:43:03,260 --> 00:43:07,700
+Les antigènes du stade hépatique mérozoïdes, etc.
+
+1073
+00:43:07,960 --> 00:43:11,280
+sont différents de ceux qui vont s'observer
+
+1074
+00:43:11,280 --> 00:43:13,520
+au niveau du stade sanguin, ce qu'on
+
+1075
+00:43:13,520 --> 00:43:15,220
+appelle la schizogonie irétrocitaire.
+
+1076
+00:43:15,340 --> 00:43:17,640
+Vous allez voir qu'il y a mérozoïdes,
+
+1077
+00:43:18,480 --> 00:43:21,800
+schizantrophozoïdes, énormément de stades et avec chaque stade
+
+1078
+00:43:21,800 --> 00:43:23,720
+il y a l'apparition de nouveaux antigènes
+
+1079
+00:43:23,720 --> 00:43:27,120
+ou avec un changement perpétuel de la quantité
+
+1080
+00:43:27,120 --> 00:43:28,840
+d'antigènes qui fait que le système immunitaire
+
+1081
+00:43:28,840 --> 00:43:31,460
+à peine il reconnait un antigène à ce
+
+1082
+00:43:31,460 --> 00:43:34,060
+niveau-là donc le paradigme va changer.
+
+1083
+00:43:34,600 --> 00:43:36,880
+Donc le système immunitaire est quelque part dépassé
+
+1084
+00:43:36,880 --> 00:43:39,300
+par les événements puisqu'il s'adapte un
+
+1085
+00:43:39,300 --> 00:43:41,300
+petit peu à ces antigènes parasitaires qui changent
+
+1086
+00:43:41,300 --> 00:43:42,780
+tout le temps en fonction des stades.
+
+1087
+00:43:42,980 --> 00:43:44,380
+Donc le message qu'il a énoncé ici
+
+1088
+00:43:44,380 --> 00:43:46,020
+c'est que vous avez une variabilité des
+
+1089
+00:43:46,020 --> 00:43:48,460
+antigènes selon les stades pas de façon constante.
+
+1090
+00:43:48,840 --> 00:43:51,000
+Chez les bactéries il y a une diversité
+
+1091
+00:43:51,000 --> 00:43:55,160
+de nature ce sont des antigènes qui varient
+
+1092
+00:43:55,160 --> 00:43:57,520
+tout le temps en fonction du stade sanguin
+
+1093
+00:43:57,520 --> 00:43:58,340
+ou l'hépatite, etc.
+
+1094
+00:43:58,860 --> 00:44:01,820
+Et lorsqu'on parle de variabilité antigène ça
+
+1095
+00:44:01,820 --> 00:44:03,400
+veut dire qu'il y a un échappement
+
+1096
+00:44:03,400 --> 00:44:05,700
+au système immunitaire donc la réponse immunitaire ici
+
+1097
+00:44:05,700 --> 00:44:08,080
+il y a un phénomène même si la
+
+1098
+00:44:08,080 --> 00:44:10,620
+réponse immunitaire butte le paradigme arrive à échapper
+
+1099
+00:44:10,620 --> 00:44:14,340
+donc facilement donc les parasites sont connus par
+
+1100
+00:44:14,340 --> 00:44:17,300
+la capacité de développer ce qu'on appelle
+
+1101
+00:44:17,300 --> 00:44:20,260
+les phénomènes d'échappement à cette réponse immunitaire.
+
+1102
+00:44:20,500 --> 00:44:23,240
+Alors pour conclure sur les antigènes donc on
+
+1103
+00:44:23,240 --> 00:44:24,840
+a dit qu'il y a une molécule
+
+1104
+00:44:24,840 --> 00:44:29,380
+qui dit antigène lorsqu'il se vit donc
+
+1105
+00:44:29,380 --> 00:44:32,820
+il est spécifique lorsqu'il est moyennant à
+
+1106
+00:44:32,820 --> 00:44:36,540
+cette reconnaissance et donc mais après une fois
+
+1107
+00:44:36,540 --> 00:44:39,180
+qu'il est reconnu l'objectif c'est
+
+1108
+00:44:39,180 --> 00:44:41,320
+d'atteindre une réponse immunitaire et qu'on
+
+1109
+00:44:41,320 --> 00:44:44,160
+appelle l'immunogénéité ou le pouvoir immunogène ce
+
+1110
+00:44:44,160 --> 00:44:45,920
+pouvoir immunogène il existe pour de plusieurs facteurs
+
+1111
+00:44:45,920 --> 00:44:48,560
+qu'on a cité la nature la taille
+
+1112
+00:44:48,560 --> 00:44:50,340
+la structure tout ça on a vu dans
+
+1113
+00:44:50,340 --> 00:44:53,260
+le détail et à la base de ce
+
+1114
+00:44:53,260 --> 00:44:54,400
+qu'on va voir après par rapport aux
+
+1115
+00:44:54,400 --> 00:44:56,820
+anticorps parce qu'on va devoir réfléchir sur
+
+1116
+00:44:56,820 --> 00:44:59,240
+quel type d'anticorps va induire un antigène
+
+1117
+00:44:59,240 --> 00:45:00,640
+quel que soit sa nature est-ce qu
+
+1118
+00:45:00,640 --> 00:45:01,760
+'il s'agit d'un anticorps de type
+
+1119
+00:45:01,760 --> 00:45:05,480
+IgG IgA ou IgM et à quelle affinité
+
+1120
+00:45:05,480 --> 00:45:05,800
+etc.
+
+1121
+00:45:06,420 --> 00:45:08,620
+donc cette variabilité des antigènes va conditionner un
+
+1122
+00:45:08,620 --> 00:45:11,960
+petit peu la diversité des anticorps qui vont
+
+1123
+00:45:11,960 --> 00:45:15,260
+être induits par ces antigènes voilà je termine
+
+1124
+00:45:15,260 --> 00:45:18,080
+je ne sais pas si vous voulez des
+
+1125
+00:45:18,080 --> 00:45:20,100
+questions par rapport à ce chapitre ou bien
+
+1126
+00:45:20,100 --> 00:45:23,160
+qu'on avance sur le deuxième qui est
+
+1127
+00:45:23,160 --> 00:45:26,580
+au moins pour traiter quelques aspects par rapport
+
+1128
+00:45:26,580 --> 00:45:28,260
+aux anticorps qu'est-ce que vous en
+
+1129
+00:45:28,260 --> 00:45:43,440
+pensez dites-moi alors
+
+1130
+00:45:43,440 --> 00:45:46,260
+pourquoi les antigènes de haut poids moléculaire sont
+
+1131
+00:45:46,260 --> 00:45:50,080
+immunogènes alors c'est une bonne question un
+
+1132
+00:45:50,080 --> 00:45:51,640
+antigène de haut poids moléculaire ça veut dire
+
+1133
+00:45:51,640 --> 00:45:55,000
+il offre plus d'hépitopes plus de structure
+
+1134
+00:45:55,500 --> 00:45:58,220
+antigénique donc il a il peut si on
+
+1135
+00:45:58,220 --> 00:46:00,020
+rentre en compétition avec un antigène de haut
+
+1136
+00:46:00,020 --> 00:46:02,580
+poids moléculaire donc il est donc du coup
+
+1137
+00:46:02,580 --> 00:46:06,320
+supérieur donc l'immunogénété est tant supérieur est
+
+1138
+00:46:06,320 --> 00:46:08,900
+-ce qu'un antigène signifie l'agent pathogène
+
+1139
+00:46:08,900 --> 00:46:10,900
+ou bien une partie de l'agent pathogène
+
+1140
+00:46:10,900 --> 00:46:14,120
+bon l'antigène c'est valable aux agents
+
+1141
+00:46:14,120 --> 00:46:16,900
+pathogènes comme il s'applique également à différentes
+
+1142
+00:46:16,900 --> 00:46:19,200
+sortes des antigènes de l'environnement ça peut
+
+1143
+00:46:19,200 --> 00:46:23,160
+être un toxique ou là un allergène etc
+
+1144
+00:46:23,160 --> 00:46:26,460
+donc c'est pas spécifique aux agents pathogènes
+
+1145
+00:46:26,460 --> 00:46:28,660
+mais un antigène lorsqu'on parle d'un
+
+1146
+00:46:28,660 --> 00:46:32,580
+agent pathogène c'est une partie effectivement c
+
+1147
+00:46:32,580 --> 00:46:35,700
+'est pas toute la bactérie qui est soi
+
+1148
+00:46:35,700 --> 00:46:38,660
+-disant antigénique on peut trouver des structures d
+
+1149
+00:46:38,660 --> 00:46:40,200
+'hépitopes antigéniques et d'autres qui ne sont
+
+1150
+00:46:40,200 --> 00:46:42,280
+pas antigéniques sur la surface d'un agent
+
+1151
+00:46:42,280 --> 00:46:48,220
+pathogène superantigène est un antigène timodépendant ça c
+
+1152
+00:46:48,220 --> 00:46:50,760
+'est une question un peu une très bonne
+
+1153
+00:46:50,760 --> 00:46:53,660
+question ça dépend de sa structure tout simplement
+
+1154
+00:46:53,660 --> 00:46:55,960
+et pour revenir sur la structure ça peut
+
+1155
+00:46:55,960 --> 00:46:59,700
+être un toxique une toxine je veux dire
+
+1156
+00:46:59,700 --> 00:47:02,380
+qui n'est pas forcément une protéine donc
+
+1157
+00:47:02,380 --> 00:47:05,440
+il peut s'intégrer sur un BFRTCO donc
+
+1158
+00:47:05,440 --> 00:47:07,700
+comme il peut aller titiller le TCR d
+
+1159
+00:47:07,700 --> 00:47:12,440
+'ailleurs généralement les superantigènes sont souvent soi-disant
+
+1160
+00:47:12,440 --> 00:47:14,860
+des protéines donc du coup ils sont plus
+
+1161
+00:47:14,860 --> 00:47:18,240
+timodépendants mais comme ils passent par un chemin
+
+1162
+00:47:18,240 --> 00:47:20,120
+un cheminement de la présentation un peu différent
+
+1163
+00:47:20,120 --> 00:47:23,520
+donc l'appellation timodépendant n'est pas forcément
+
+1164
+00:47:23,520 --> 00:47:25,880
+le cas c'est bon ?

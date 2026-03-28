@@ -1,0 +1,1335 @@
+1
+00:00:04,230 --> 00:00:07,410
+On va voir dans ce cas-là, puisqu
+
+2
+00:00:07,410 --> 00:00:08,470
+'il n'y a pas de question, le
+
+3
+00:00:08,470 --> 00:00:11,750
+deuxième cours, la multiplication intracellulaire des virus.
+
+4
+00:00:22,590 --> 00:00:28,210
+Alors, bien sûr que dans ce cours, on
+
+5
+00:00:28,210 --> 00:00:30,730
+va comprendre un petit peu la multiplication dans
+
+6
+00:00:30,730 --> 00:00:31,310
+la cellule.
+
+7
+00:00:32,250 --> 00:00:33,870
+Après, on va voir les mécanismes généraux des
+
+8
+00:00:33,870 --> 00:00:36,710
+infections virales qui sont extrêmement importants aussi.
+
+9
+00:00:38,870 --> 00:00:42,150
+Donc, pour la multiplication des virus, comme je
+
+10
+00:00:42,150 --> 00:00:46,470
+l'ai bien souligné, c'est que le
+
+11
+00:00:46,470 --> 00:00:48,810
+virus, il n'a pas de machinerie cellulaire,
+
+12
+00:00:48,890 --> 00:00:50,170
+une machinerie énergétique.
+
+13
+00:00:51,010 --> 00:00:52,310
+Il ne l'a pas, donc il est
+
+14
+00:00:52,310 --> 00:00:55,090
+obligé d'aller la chercher dans une cellule.
+
+15
+00:00:55,250 --> 00:00:56,930
+C'est pour ça que le virus, il
+
+16
+00:00:56,930 --> 00:00:59,490
+ne peut se répliquer que lorsqu'il y
+
+17
+00:00:59,490 --> 00:01:00,130
+a des cellules.
+
+18
+00:01:01,170 --> 00:01:02,270
+D'accord ?
+
+19
+00:01:03,709 --> 00:01:05,070
+C'est là où il peut se multiplier.
+
+20
+00:01:06,550 --> 00:01:08,070
+Et donc, qu'est-ce qu'il fait
+
+21
+00:01:08,070 --> 00:01:09,050
+le virus ?
+
+22
+00:01:11,010 --> 00:01:13,950
+La première tâche du virus, c'est qu
+
+23
+00:01:13,950 --> 00:01:18,330
+'il consiste à synthétiser les ARN messagers, les
+
+24
+00:01:18,330 --> 00:01:24,310
+ARN messagers de son information génétique.
+
+25
+00:01:24,550 --> 00:01:28,210
+En fait, il va essayer de produire de
+
+26
+00:01:28,210 --> 00:01:33,950
+nouvelles protéines au niveau de la cellule qu
+
+27
+00:01:33,950 --> 00:01:36,870
+'il va parasiter ou qu'il va infecter.
+
+28
+00:01:38,950 --> 00:01:40,910
+Le problème, c'est quoi ?
+
+29
+00:01:40,910 --> 00:01:43,050
+En fait, c'est que la cellule elle
+
+30
+00:01:43,050 --> 00:01:45,370
+-même, elle a ses ARN messagers pour produire
+
+31
+00:01:45,370 --> 00:01:47,430
+ses cellules, les autres cellules filent.
+
+32
+00:01:47,950 --> 00:01:50,810
+Et donc, il va rentrer en concurrence, ses
+
+33
+00:01:50,810 --> 00:01:54,350
+ARN messagers vont rentrer en concurrence avec les
+
+34
+00:01:54,350 --> 00:01:56,210
+ARN messagers de la cellule elle-même.
+
+35
+00:01:57,170 --> 00:01:59,590
+C'est ça le problème.
+
+36
+00:02:00,930 --> 00:02:04,790
+Et donc finalement, la cellule va s'aider
+
+37
+00:02:04,790 --> 00:02:11,030
+et va produire des centaines, des milliers de
+
+38
+00:02:11,030 --> 00:02:12,710
+virus par cellule.
+
+39
+00:02:12,850 --> 00:02:18,650
+Imaginez, toute sa machinerie, la cellule va à
+
+40
+00:02:20,600 --> 00:02:24,740
+la position du virus qui est assez percutante
+
+41
+00:02:24,740 --> 00:02:28,840
+lorsqu'il a pénétré, et donc vous allez
+
+42
+00:02:28,840 --> 00:02:30,720
+voir les détails par la suite.
+
+43
+00:02:30,900 --> 00:02:33,700
+Donc il va concurrencer les ARN messagers cellulaires,
+
+44
+00:02:33,800 --> 00:02:35,160
+il va produire de nouveaux virus.
+
+45
+00:02:39,550 --> 00:02:41,910
+Donc comme je l'ai bien dit, le
+
+46
+00:02:41,910 --> 00:02:44,190
+virus ne se divise pas, il se réplique
+
+47
+00:02:44,190 --> 00:02:45,570
+à l'intérieur de la cellule.
+
+48
+00:02:52,120 --> 00:02:56,380
+Donc voici les étapes, les principales étapes bien
+
+49
+00:02:56,380 --> 00:02:56,640
+sûr.
+
+50
+00:02:57,140 --> 00:02:59,420
+Vous avez les étapes, les premières étapes, les
+
+51
+00:02:59,420 --> 00:03:02,200
+étapes d'attachement-pénétration, les étapes initiales.
+
+52
+00:03:02,200 --> 00:03:03,640
+C'est-à-dire que le virus, il
+
+53
+00:03:03,640 --> 00:03:05,940
+doit s'attacher d'abord, il doit s
+
+54
+00:03:05,940 --> 00:03:07,900
+'attacher à la cellule.
+
+55
+00:03:11,480 --> 00:03:14,940
+Et pour s'attacher, il doit retrouver des
+
+56
+00:03:14,940 --> 00:03:15,660
+récepteurs.
+
+57
+00:03:19,060 --> 00:03:23,300
+Je vais vous donner un exemple, le virus
+
+58
+00:03:23,300 --> 00:03:25,800
+du VIH, qu'on va voir par la
+
+59
+00:03:25,800 --> 00:03:33,020
+suite, il est transmis par voie parentérale, c
+
+60
+00:03:33,020 --> 00:03:37,780
+'est une infection sexuellement transmissible, et donc les
+
+61
+00:03:37,780 --> 00:03:40,500
+cellules cibles sont des lymphocytes en général, etc.
+
+62
+00:03:41,920 --> 00:03:45,700
+Et donc s'il passe par voie orale,
+
+63
+00:03:45,820 --> 00:03:47,920
+il ne rencontrera pas forcément la cellule cible.
+
+64
+00:03:48,780 --> 00:03:49,200
+D'accord ?
+
+65
+00:03:49,200 --> 00:03:51,940
+Donc il faut impérativement que le virus puisse
+
+66
+00:03:51,940 --> 00:03:56,380
+rencontrer la cellule cible sur laquelle il y
+
+67
+00:03:56,380 --> 00:03:57,060
+a des récepteurs.
+
+68
+00:03:57,440 --> 00:03:58,940
+S'il n'a pas de récepteurs, il
+
+69
+00:03:58,940 --> 00:04:00,940
+ne va pas pénétrer et donc il ne
+
+70
+00:04:00,940 --> 00:04:02,500
+va pas se répliquer et donc il ne
+
+71
+00:04:02,500 --> 00:04:03,640
+va pas donner d'infection.
+
+72
+00:04:04,620 --> 00:04:07,460
+Voilà, ça c'est un élément important, c
+
+73
+00:04:07,460 --> 00:04:09,940
+'est des étapes clés pour le virus pour
+
+74
+00:04:09,940 --> 00:04:12,600
+pouvoir se répliquer et donner l'infection par
+
+75
+00:04:12,600 --> 00:04:12,900
+la suite.
+
+76
+00:04:13,060 --> 00:04:14,780
+On va voir ça dans les mécanismes généraux.
+
+77
+00:04:15,320 --> 00:04:18,459
+Mais on va rester à l'échelle intracellulaire
+
+78
+00:04:18,459 --> 00:04:20,000
+uniquement, à l'échelle d'une cellule, comment
+
+79
+00:04:20,000 --> 00:04:20,680
+ça se passe ?
+
+80
+00:04:20,680 --> 00:04:22,060
+Alors il va s'attacher d'abord dans
+
+81
+00:04:22,060 --> 00:04:23,800
+la cellule, il va pénétrer lorsqu'il va
+
+82
+00:04:23,800 --> 00:04:25,980
+trouver les récepteurs, il va pénétrer et il
+
+83
+00:04:25,980 --> 00:04:26,800
+va se décapsiter.
+
+84
+00:04:26,800 --> 00:04:28,520
+Parce que la capsite c'est une coque
+
+85
+00:04:28,520 --> 00:04:31,340
+protéine qui va protéger le génome et donc
+
+86
+00:04:31,340 --> 00:04:34,780
+il va se décapsiter pour libérer le génome.
+
+87
+00:04:36,300 --> 00:04:37,840
+Libérer le génome à l'intérieur de la
+
+88
+00:04:37,840 --> 00:04:38,600
+cellule, bien évidemment.
+
+89
+00:04:39,960 --> 00:04:41,360
+Et puis une fois que le génome est
+
+90
+00:04:41,360 --> 00:04:46,510
+libéré, ça dépend du virus, est-ce que
+
+91
+00:04:46,510 --> 00:04:48,410
+le génome est un ARN ou de l
+
+92
+00:04:48,410 --> 00:04:50,630
+'ADN, ça dépend du virus, il y a
+
+93
+00:04:50,630 --> 00:04:52,070
+des virus ARN, il y a des virus
+
+94
+00:04:52,070 --> 00:04:56,810
+ADN, et il y aura une synthèse de
+
+95
+00:04:56,810 --> 00:05:00,830
+protéines et une réplication des génomes.
+
+96
+00:05:03,420 --> 00:05:06,500
+Et puis après, cette information génétique qui est
+
+97
+00:05:06,500 --> 00:05:11,200
+dans le génome, elle va être traduite en
+
+98
+00:05:11,200 --> 00:05:13,600
+protéines, pour les protéines de structure, s'il
+
+99
+00:05:13,600 --> 00:05:16,680
+y a une enveloppe à fabriquer, celle de
+
+100
+00:05:16,680 --> 00:05:19,000
+la capsite, s'il y a une enzyme
+
+101
+00:05:19,000 --> 00:05:20,960
+qui va l'accompagner, etc.
+
+102
+00:05:20,960 --> 00:05:23,500
+Et puis le génome, il est produit en
+
+103
+00:05:23,500 --> 00:05:24,280
+copies aussi.
+
+104
+00:05:26,460 --> 00:05:28,100
+Et les étapes tardives, c'est-à-dire
+
+105
+00:05:28,100 --> 00:05:29,580
+que tout ça va s'assembler à l
+
+106
+00:05:29,580 --> 00:05:34,740
+'intérieur de la cellule pour reproduire un nouveau
+
+107
+00:05:34,740 --> 00:05:37,740
+virus, un nouveau variant, qui va être largué
+
+108
+00:05:37,740 --> 00:05:42,240
+par la suite, largué directement de la cellule
+
+109
+00:05:42,240 --> 00:05:44,660
+où ils vont se multiplier à l'intérieur
+
+110
+00:05:44,660 --> 00:05:47,420
+de la cellule en milliers de copies, milliers
+
+111
+00:05:47,420 --> 00:05:48,980
+de virus à l'intérieur de la cellule
+
+112
+00:05:48,980 --> 00:05:50,460
+et qui vont la faire éclater par exemple.
+
+113
+00:05:51,100 --> 00:05:52,820
+Ça c'est le cycle lithique, lorsqu'il
+
+114
+00:05:52,820 --> 00:05:53,800
+y a une lise cellulaire.
+
+115
+00:05:59,530 --> 00:06:03,570
+Très gématiquement, vous avez l'attachement, ici le
+
+116
+00:06:03,570 --> 00:06:07,010
+virus va s'attacher à la cellule, le
+
+117
+00:06:07,010 --> 00:06:11,510
+cible qui est en pénétration, une fois qu
+
+118
+00:06:11,510 --> 00:06:13,810
+'il a pénétré, vous voyez ici, il y
+
+119
+00:06:13,810 --> 00:06:17,490
+a une réplication, il y a une décapsitation
+
+120
+00:06:17,490 --> 00:06:19,050
+d'abord, il va se décapsiter, il va
+
+121
+00:06:19,050 --> 00:06:22,850
+se répliquer, se transcrire et se traduire en
+
+122
+00:06:22,850 --> 00:06:26,390
+protéines, il y aura un assemblage à la
+
+123
+00:06:26,390 --> 00:06:28,290
+fin et puis libération de nouveaux virus.
+
+124
+00:06:31,630 --> 00:06:34,230
+Ça c'est le schéma général de la
+
+125
+00:06:34,230 --> 00:06:38,930
+multiplication virale, attachement, pénétration, réplication, transcription,
+
+126
+00:06:39,110 --> 00:06:47,470
+traduction, pardon, attachement, pénétration, décapsitation, réplication,
+
+127
+00:06:47,470 --> 00:06:51,250
+transcription, traduction, assemblage, maturation et libération.
+
+128
+00:07:08,030 --> 00:07:09,430
+Alors comme je l'ai dit tout à
+
+129
+00:07:09,430 --> 00:07:11,910
+l'heure, le premier facteur important qui va
+
+130
+00:07:11,910 --> 00:07:14,430
+conditionner le tropisme d'un virus pour la
+
+131
+00:07:14,430 --> 00:07:16,510
+cellule, c'est-à-dire l'attachement ou
+
+132
+00:07:16,510 --> 00:07:20,330
+l'interaction entre le virus et la cellule
+
+133
+00:07:20,330 --> 00:07:22,550
+cible, c'est ce facteur d'attachement.
+
+134
+00:07:25,610 --> 00:07:28,770
+Et donc en fait, il y a des
+
+135
+00:07:28,770 --> 00:07:31,930
+facteurs qui vont influencer l'efficacité de l
+
+136
+00:07:31,930 --> 00:07:34,230
+'attachement, c'est le nombre de molécules réceptrices
+
+137
+00:07:34,230 --> 00:07:36,130
+à la surface de la cellule, et puis
+
+138
+00:07:36,130 --> 00:07:39,010
+bien sûr la cellule cible, et vous avez
+
+139
+00:07:39,010 --> 00:07:41,870
+le virus, le nombre de virus, plus on
+
+140
+00:07:41,870 --> 00:07:44,570
+a de virus qui vont arriver, plus on
+
+141
+00:07:44,570 --> 00:07:48,110
+a la chance, enfin le virus a la
+
+142
+00:07:48,110 --> 00:07:51,190
+chance de s'attacher et de se répliquer,
+
+143
+00:07:51,370 --> 00:07:52,970
+de pénétrer et de se répliquer par la
+
+144
+00:07:52,970 --> 00:07:53,110
+cellule.
+
+145
+00:07:54,490 --> 00:07:58,710
+D'accord, donc lorsque la charge du virus
+
+146
+00:07:58,710 --> 00:08:01,410
+qui a contaminé l'individu est importante, le
+
+147
+00:08:01,410 --> 00:08:03,570
+risque de l'infection est beaucoup plus important,
+
+148
+00:08:03,750 --> 00:08:04,230
+c'est normal.
+
+149
+00:08:05,130 --> 00:08:07,990
+Et lorsque le nombre de cellules réceptrices, enfin
+
+150
+00:08:07,990 --> 00:08:11,810
+de molécules réceptrices à la surface de la
+
+151
+00:08:11,810 --> 00:08:17,390
+cellule sont nombreuses, le risque d'attachement est
+
+152
+00:08:17,390 --> 00:08:18,190
+élevé aussi.
+
+153
+00:08:19,030 --> 00:08:20,770
+Et donc tout ça, c'est des éléments
+
+154
+00:08:20,770 --> 00:08:22,850
+importants, c'est le facteur capital au départ
+
+155
+00:08:22,850 --> 00:08:23,610
+pour l'infection.
+
+156
+00:08:27,940 --> 00:08:31,799
+Par exemple, pour l'HIV, le virus de
+
+157
+00:08:31,799 --> 00:08:34,919
+l'immunodéficience humaine, c'est la GP120, la
+
+158
+00:08:34,919 --> 00:08:37,640
+glycoprotéine 120, c'est la protéine de la
+
+159
+00:08:37,640 --> 00:08:39,600
+structure du virus qui va s'attacher en
+
+160
+00:08:39,600 --> 00:08:42,900
+fait, ça c'est les protéines des sites
+
+161
+00:08:42,900 --> 00:08:46,640
+spécifiques virus, sur les virus qui vont s
+
+162
+00:08:46,640 --> 00:08:47,800
+'attacher à la cellule.
+
+163
+00:08:49,470 --> 00:08:51,110
+Par exemple pour le virus de la grippe,
+
+164
+00:08:51,230 --> 00:08:53,290
+c'est l'hémagglutinine, il a une hémagglutinine
+
+165
+00:08:53,290 --> 00:08:58,080
+à la surface de son enveloppe, ou le
+
+166
+00:08:58,080 --> 00:09:00,080
+VIH, il a une glycoprotéine 120, qu'on
+
+167
+00:09:00,080 --> 00:09:00,900
+va voir par la suite.
+
+168
+00:09:03,970 --> 00:09:06,890
+De l'autre côté, sur les cellules, vous
+
+169
+00:09:06,890 --> 00:09:10,070
+avez les lymphocytes et les macrophages, donc c
+
+170
+00:09:10,070 --> 00:09:12,170
+'est les molécules CD4 qui sont à la
+
+171
+00:09:12,170 --> 00:09:14,790
+surface des lymphocytes T qui vont permettre au
+
+172
+00:09:14,790 --> 00:09:16,670
+VIH de s'attacher.
+
+173
+00:09:17,550 --> 00:09:20,010
+Donc le VIH va s'attacher avec les
+
+174
+00:09:20,010 --> 00:09:24,850
+CD4 des lymphocytes T par les GP120, que
+
+175
+00:09:24,850 --> 00:09:26,110
+vous voyez ici en haut.
+
+176
+00:09:34,840 --> 00:09:37,760
+Par exemple, l'influenza virus qui a des
+
+177
+00:09:37,760 --> 00:09:40,760
+hémagglutinines, regardez ici, le virus de la grippe,
+
+178
+00:09:41,580 --> 00:09:44,120
+l'influenza virus qui a une hémagglutinine, c
+
+179
+00:09:44,120 --> 00:09:45,320
+'est elle qui va lui permettre de s
+
+180
+00:09:45,320 --> 00:09:47,040
+'attacher avec quoi ?
+
+181
+00:09:47,040 --> 00:09:50,020
+Avec l'acide sialique qui se trouve sur
+
+182
+00:09:50,020 --> 00:09:51,260
+l'épithélium respiratoire.
+
+183
+00:09:53,060 --> 00:09:54,500
+C'est normal parce que la grippe, elle
+
+184
+00:09:54,500 --> 00:09:58,990
+attaque les voies respiratoires, d'accord ?
+
+185
+00:09:58,990 --> 00:10:03,150
+Donc pour chaque virus, il a ces sites
+
+186
+00:10:03,150 --> 00:10:10,300
+d'attachement qui sont spécifiques à des molécules
+
+187
+00:10:10,300 --> 00:10:13,240
+réceptrices dans la cellule cible, ça c'est
+
+188
+00:10:13,240 --> 00:10:13,840
+la cellule cible.
+
+189
+00:10:17,620 --> 00:10:19,140
+Donc une fois qu'il s'est attaché,
+
+190
+00:10:19,220 --> 00:10:19,920
+il va pénétrer.
+
+191
+00:10:20,240 --> 00:10:22,760
+Il y a trois mécanismes de pénétration, la
+
+192
+00:10:22,760 --> 00:10:27,720
+translocation virale directement ou la fusion de l
+
+193
+00:10:27,720 --> 00:10:31,080
+'enveloppe avec la membrane, comme celle-là par
+
+194
+00:10:31,080 --> 00:10:31,220
+exemple.
+
+195
+00:10:31,220 --> 00:10:34,480
+Donc regardez ici le VIH, vous le voyez
+
+196
+00:10:34,480 --> 00:10:39,580
+ici le VIH, donc il est là avec
+
+197
+00:10:39,580 --> 00:10:42,400
+la GP120, le virus il est en vert
+
+198
+00:10:42,400 --> 00:10:44,820
+avec une glycoprotéine à sa surface, c'est
+
+199
+00:10:44,820 --> 00:10:47,760
+la GP120 que vous voyez ici, la voilà,
+
+200
+00:10:48,360 --> 00:10:52,200
+GP120, elle est liée au virus par la
+
+201
+00:10:52,200 --> 00:10:56,680
+GP41, c'est deux boules, ces deux boules
+
+202
+00:10:56,680 --> 00:10:58,740
+en fait c'est la GP120, c'est
+
+203
+00:10:58,740 --> 00:11:01,320
+une glycoprotéine qui va s'attacher en fait
+
+204
+00:11:01,320 --> 00:11:03,660
+ici ce que vous avez ici en marrant,
+
+205
+00:11:04,280 --> 00:11:08,540
+c'est la lymphocytée avec en bleu ici
+
+206
+00:11:08,540 --> 00:11:14,680
+un, deux, trois, trois molécules CD4 qui sont
+
+207
+00:11:14,680 --> 00:11:18,840
+à la surface de la lymphocytée, d'accord
+
+208
+00:11:18,840 --> 00:11:19,320
+?
+
+209
+00:11:20,100 --> 00:11:21,540
+Alors ce qui va se passer en fait,
+
+210
+00:11:21,880 --> 00:11:24,420
+lorsque le virus va s'approcher, il va
+
+211
+00:11:24,420 --> 00:11:29,720
+reconnaître la cellule cible, en fait c'est
+
+212
+00:11:29,720 --> 00:11:31,340
+pas lui qui va reconnaître, en fait c
+
+213
+00:11:31,340 --> 00:11:34,620
+'est sa GP120, s'il trouve les CD4
+
+214
+00:11:34,620 --> 00:11:37,140
+elle va s'attacher, donc là elle les
+
+215
+00:11:37,140 --> 00:11:40,400
+a reconnus, il y a une interaction, ça
+
+216
+00:11:40,400 --> 00:11:42,160
+il y a un appel entre les deux,
+
+217
+00:11:43,260 --> 00:11:46,380
+une interaction électrostatique et donc il y aura,
+
+218
+00:11:47,920 --> 00:11:52,020
+tac, un attachement, voilà, c'est comme ça
+
+219
+00:11:52,020 --> 00:11:54,840
+que ça se passe la première fois entre
+
+220
+00:11:54,840 --> 00:11:57,120
+le virus et la cellule cible, s'il
+
+221
+00:11:57,120 --> 00:11:59,220
+n'y a pas ces molécules qui sont
+
+222
+00:11:59,220 --> 00:12:02,960
+spécifiques à, ces molécules réceptrices à la surface
+
+223
+00:12:02,960 --> 00:12:05,960
+de la cellule, qui sont spécifiques à une
+
+224
+00:12:05,960 --> 00:12:11,700
+protéine ou à quelque chose, à un site
+
+225
+00:12:11,700 --> 00:12:15,140
+spécifique du virus, il n'y aura pas
+
+226
+00:12:15,140 --> 00:12:19,000
+d'attachement et donc la voie de pénétration
+
+227
+00:12:19,000 --> 00:12:21,260
+du virus est capitale pour qu'il y
+
+228
+00:12:21,260 --> 00:12:23,660
+ait ou pas un attachement et donc une
+
+229
+00:12:23,660 --> 00:12:25,920
+multiplication et donc une infection par la suite.
+
+230
+00:12:29,020 --> 00:12:30,940
+Donc une fois qu'il s'est attaché,
+
+231
+00:12:31,140 --> 00:12:35,820
+il va fusionner, donc il va pénétrer, se
+
+232
+00:12:35,820 --> 00:12:36,780
+décapsider, etc.
+
+233
+00:12:39,760 --> 00:12:42,560
+Il y a aussi la pénétration par endocytose,
+
+234
+00:12:42,660 --> 00:12:44,520
+on l'a vu, c'est important.
+
+235
+00:12:57,100 --> 00:13:00,820
+Décapsidation, donc on a vu la pénétration par,
+
+236
+00:13:01,340 --> 00:13:09,220
+on a vu l'attachement, la pénétration par
+
+237
+00:13:09,220 --> 00:13:16,080
+trois mécanismes, translocation directe ou deuxièmement la fusion
+
+238
+00:13:16,080 --> 00:13:18,540
+avec la membrane plasmique, il y a des
+
+239
+00:13:18,540 --> 00:13:20,900
+virus qui fusionnent, il y en a qui
+
+240
+00:13:20,900 --> 00:13:22,660
+font juste la translocation, il y en a
+
+241
+00:13:22,660 --> 00:13:24,320
+qui font la fusion, comme pour le VIH
+
+242
+00:13:24,320 --> 00:13:26,760
+qui fait la fusion, ou encore qui font
+
+243
+00:13:26,760 --> 00:13:28,580
+l'endocytose, c'est-à-dire une fois
+
+244
+00:13:28,580 --> 00:13:30,840
+qu'ils sont en contact avec le virus,
+
+245
+00:13:30,960 --> 00:13:32,580
+ils sont attachés, il y a une endocytose,
+
+246
+00:13:32,800 --> 00:13:34,620
+il y a un endocyte qui va faire
+
+247
+00:13:34,620 --> 00:13:35,320
+pénétrer le virus.
+
+248
+00:13:35,680 --> 00:13:39,460
+Trois mécanismes de pénétration des virus à l
+
+249
+00:13:39,460 --> 00:13:40,860
+'intérieur des cellules cibles.
+
+250
+00:13:42,360 --> 00:13:44,000
+Donc une fois qu'il a pénétré, il
+
+251
+00:13:44,000 --> 00:13:45,740
+y a une décapsidation, c'est-à-dire
+
+252
+00:13:45,740 --> 00:13:48,000
+la coque protéée qui entoure le génome, elle
+
+253
+00:13:48,000 --> 00:13:52,020
+doit libérer le génome qui est le support
+
+254
+00:13:52,020 --> 00:13:53,880
+de l'information génétique de sa multiplication.
+
+255
+00:14:15,160 --> 00:14:16,560
+Et donc par la suite, il y a
+
+256
+00:14:16,560 --> 00:14:18,740
+une réplication, c'est-à-dire une duplication
+
+257
+00:14:18,740 --> 00:14:22,020
+du matériel génétique, plusieurs copies de cet ARN,
+
+258
+00:14:22,680 --> 00:14:25,340
+et en même temps, cet ARN va servir
+
+259
+00:14:25,340 --> 00:14:28,160
+aussi de l'autre côté, en parallèle, à
+
+260
+00:14:28,160 --> 00:14:32,380
+traduire les protéines structurales et non-structurales, qui
+
+261
+00:14:32,380 --> 00:14:38,280
+vont construire, être à l'origine des enzymes,
+
+262
+00:14:38,440 --> 00:14:41,880
+des protéines, de l'acapside ou de l
+
+263
+00:14:41,880 --> 00:14:43,780
+'enveloppe si le virus s'est enveloppé.
+
+264
+00:14:50,300 --> 00:14:52,040
+Les étapes de maturation.
+
+265
+00:14:53,960 --> 00:14:55,620
+Donc il y a la maturation des protéines
+
+266
+00:14:55,620 --> 00:14:57,300
+virales après traduction, voilà.
+
+267
+00:14:58,480 --> 00:15:00,160
+Tout ça, ça va mûrir par la suite,
+
+268
+00:15:00,280 --> 00:15:03,560
+il faut couper les parties qui ne servent
+
+269
+00:15:03,560 --> 00:15:05,160
+à rien pour le virus, ça c'est
+
+270
+00:15:05,160 --> 00:15:07,080
+les enzymes qui s'en occupent, etc., pour
+
+271
+00:15:07,080 --> 00:15:08,400
+parfaire un petit peu la structure.
+
+272
+00:15:09,100 --> 00:15:13,820
+Et ça, c'est la maturation, donc dans
+
+273
+00:15:13,820 --> 00:15:16,180
+la multiplication virale, il y aura après, une
+
+274
+00:15:16,180 --> 00:15:18,420
+fois que c'est fait, ils vont s
+
+275
+00:15:18,420 --> 00:15:21,960
+'assembler, et s'assembler pour former un virus,
+
+276
+00:15:22,420 --> 00:15:24,400
+voilà, et puis une migration vers l'inside
+
+277
+00:15:24,400 --> 00:15:27,560
+et un largage par la suite vers l
+
+278
+00:15:27,560 --> 00:15:27,880
+'extérieur.
+
+279
+00:15:32,720 --> 00:15:34,620
+Donc l'assemblage peut se faire au niveau
+
+280
+00:15:34,620 --> 00:15:36,620
+du noyau ou au niveau du cytoplasme, ça
+
+281
+00:15:36,620 --> 00:15:39,380
+dépend des virus, chaque virus a ses spécificités
+
+282
+00:15:39,380 --> 00:15:40,040
+par rapport à ça.
+
+283
+00:15:41,320 --> 00:15:46,820
+Regardez ici, un virus enveloppé, libération par bourgeonnement.
+
+284
+00:15:47,580 --> 00:15:50,300
+Vous imaginez si c'est une photo, une
+
+285
+00:15:50,300 --> 00:15:52,220
+vraie photo d'un microscope électronique.
+
+286
+00:15:52,980 --> 00:15:58,060
+Ça c'est un lymphocytée en microscopie électronique,
+
+287
+00:15:58,460 --> 00:16:01,440
+et vous regardez ici le VIH qui sort.
+
+288
+00:16:01,580 --> 00:16:03,020
+Combien de VIH sortent?
+
+289
+00:16:03,700 --> 00:16:05,640
+C'est une petite partie de la cellule.
+
+290
+00:16:06,300 --> 00:16:10,280
+Regardez, vous comptez des centaines et des milliers
+
+291
+00:16:10,280 --> 00:16:15,300
+de virus qui sont produits par cellule, par
+
+292
+00:16:15,300 --> 00:16:17,480
+cellule, vous imaginez.
+
+293
+00:16:20,000 --> 00:16:21,360
+Tout ça c'est des virus à la
+
+294
+00:16:21,360 --> 00:16:28,400
+surface de la cellule cible, et ça c
+
+295
+00:16:28,400 --> 00:16:29,720
+'est naturel, c'est comme ça que ça
+
+296
+00:16:29,720 --> 00:16:30,100
+se passe.
+
+297
+00:16:33,800 --> 00:16:35,900
+Enfin lorsqu'il y a une infection naturelle,
+
+298
+00:16:35,980 --> 00:16:36,480
+une infection.
+
+299
+00:16:37,980 --> 00:16:43,440
+Voilà, réplication, multiplication et bien sûr production de
+
+300
+00:16:43,440 --> 00:16:46,920
+nouveau, libération des nouveaux virus par bourgeonnement.
+
+301
+00:16:58,880 --> 00:17:00,500
+Alors il y a les virus, la libération
+
+302
+00:17:00,500 --> 00:17:04,950
+peut se faire par lise par exemple, elle
+
+303
+00:17:04,950 --> 00:17:07,089
+peut éclater les cellules pour les virus nus
+
+304
+00:17:07,089 --> 00:17:16,589
+par exemple, ou bien sûr ils vont
+
+305
+00:17:16,589 --> 00:17:22,190
+être bourgeonnés aussi et la cellule reste vivante
+
+306
+00:17:22,190 --> 00:17:23,510
+pour perpétuer le cycle.
+
+307
+00:17:39,300 --> 00:17:41,100
+D'accord, d'accord, d'accord.
+
+308
+00:17:42,000 --> 00:17:46,120
+Donc vous voyez ici que, pour résumer un
+
+309
+00:17:46,120 --> 00:17:48,240
+petit peu les interactions entre les virus et
+
+310
+00:17:48,240 --> 00:17:50,480
+la cellule cible, vous avez un virus qui
+
+311
+00:17:50,480 --> 00:17:53,800
+va rencontrer une cellule, s'il ne trouve
+
+312
+00:17:53,800 --> 00:17:58,580
+pas de cellules réceptrices, de molécules réceptrices, il
+
+313
+00:17:58,580 --> 00:18:00,140
+ne va pas se multiplier et le cycle
+
+314
+00:18:00,140 --> 00:18:02,880
+sera avorté, il n'y aura pas de
+
+315
+00:18:02,880 --> 00:18:05,800
+cycle de multiplication virale, c'est ce qu
+
+316
+00:18:05,800 --> 00:18:07,020
+'on appelle un cycle abortif.
+
+317
+00:18:09,160 --> 00:18:11,580
+Il se peut, s'il retrouve la cellule
+
+318
+00:18:11,580 --> 00:18:14,180
+cible, s'il retrouve les molécules réceptrices, il
+
+319
+00:18:14,180 --> 00:18:16,660
+reconnaît cette cellule, il va y avoir un
+
+320
+00:18:16,660 --> 00:18:18,860
+cycle productif qui peut être lithique, c'est
+
+321
+00:18:18,860 --> 00:18:21,160
+à dire qu'il va liser la cellule
+
+322
+00:18:21,160 --> 00:18:23,360
+une fois qu'il y aura multiplication de
+
+323
+00:18:23,360 --> 00:18:24,880
+virus, ou non lithique, c'est à dire
+
+324
+00:18:24,880 --> 00:18:26,620
+qu'il va produire des centaines de milliers
+
+325
+00:18:26,620 --> 00:18:29,440
+de virus sans pour autant s'éclater.
+
+326
+00:18:30,400 --> 00:18:31,820
+Et puis il y a des cycles transformants,
+
+327
+00:18:31,920 --> 00:18:34,480
+on va voir les cycles des virus qui
+
+328
+00:18:34,480 --> 00:18:36,600
+vont transformer l'information génétique de la cellule
+
+329
+00:18:36,600 --> 00:18:38,580
+cible, c'est des virus à l'origine
+
+330
+00:18:38,580 --> 00:18:42,600
+de certains cancers, ou des cycles inductibles comme
+
+331
+00:18:42,600 --> 00:18:43,980
+les herpès feridés par exemple.
+
+332
+00:18:46,320 --> 00:18:49,440
+Voilà pour le cours des multiplications virales, est
+
+333
+00:18:49,440 --> 00:18:51,380
+-ce que vous avez des questions par rapport
+
+334
+00:18:51,380 --> 00:18:54,420
+à ce deuxième sujet ?

@@ -1,0 +1,37 @@
+Bonjour à toutes et à tous, et bienvenue à cette capsule de travaux pratiques de l'Université de Chimie destinée aux étudiants de deuxième année de médecine. Cette capsule est consacrée au dosage du cholestérol, HCl élevé total, ainsi que au dosage des glucides. Pourquoi dose-t-on ces éléments ? C'est pour affiner le diagnostic de ces éléments, ainsi que pour prévenir les maladies carcinogènes.
+
+La première manipulation qu'on va faire est le dosage du cholestérol HCl. Cette manipulation est divisée en deux parties. La première concerne la précipitation des lipoprotéines LDL, VLDL et des thylomucrons.
+
+Pour ceci, on va prélever 0,2 mL du réactif de précipitation, qui est le premier élément du col, et 0,2 mL du sérum. Je prélève 0,2 mL du réactif de précipitation et 0,2 mL du sérum à dose. Ensuite, je vais vortexer pendant 10 secondes et je laisse incuber pendant 5 minutes.
+
+Après, on passe à la phase de centrifugation pendant 10 minutes. La centrifugeuse tourne par 3000 tours par minute. Après 10 minutes, on récupère notre dépendant.
+
+Comme vous voyez ici, on a le surnageant qui contient le cholestérol HCl et un précipité au fond. Le surnageant sera dosé par le réactif du cholestérol. Ce dosage se fait selon une procédure enzymatique.
+
+Je pulte 2 mL du réactif de cholestérol deux fois. A chaque fois, je pulte 1 mL. Là, on a 2 mL du réactif de cholestérol.
+
+Ensuite, je vais pulter 20 mL du surnageant. Et j'ajoute le réactif de cholestérol. Je vortexe pendant 10 secondes.
+
+Puis, je laisse incuber pendant 10 minutes. Après 10 minutes, on mesure l'absorbance de cette solution avec un spectromètre à 500 nanomètres. Le calcul de la concentration du cholestérol HCl se fait par la forme suivante.
+
+La concentration du cholestérol HCl est égale à la concentration de l'éthanol. Mais l'éthanol ne multiplie pas la concentration de l'éthanol. Le tout multiplié par 2, qui est le facteur 2, diminue.
+
+Dans la deuxième manipulation, on va faire le dosage du cholestérol total. Ceci se fait de la même manière que le dosage du cholestérol HCl. Pour cela, on va dupter 2 mL du réactif de cholestérol.
+
+Dans un premier temps, je pulte 1 mL. Et je rajoute 1 mL. Ensuite, je rajoute 20 mL de sérum.
+
+Je vortex 10 secondes. Puis, je laisse incuber pendant 10 minutes. Après 10 minutes, on mesure l'absorbance de cette solution à l'aide d'un spectromètre à une longueur d'angle de 500 nanomètres.
+
+La concentration du cholestérol total est calculée par cette formule. La concentration est égale à la quantité d'échantillons suivant la quantité d'éthanol multipliée par la concentration de l'éthanol. Pour les variations pathologiques, une hypocholestérolémie traduit une insuffisance des patents cellulaires, ou bien une hyperthermémie.
+
+Alors qu'une hypercholestérolémie peut être héréditaire, ou bien acquise, si le cas, du diabète, ou bien d'un syndrome néphrotique. Dans la troisième manipulation, on va faire le dosage des triglycérides. Ce dosage est basé sur la méthode de Fossatini-Princeux, couplée à une réaction de Trigner.
+
+Pour cela, on va prélever 2 mL du réactif des triglycérides. Je vais dupter 1 mL à chaque fois. Je vais refaire une deuxième fois.
+
+Et je rajoute 20 mL du sérum à doser. Je vortex pendant 10 secondes. Et je vais s'occuper pendant 10 minutes.
+
+Après 10 minutes, on mesure l'absorbance de ces solutions, à l'aide de ce spectrophotomètre, à une ordre de 500 nm. La concentration des triglycérides est calculée selon la courbe suivante. La concentration est égale à la densité optique d'échantillon sur la densité optique d'étalat, multipliée par la concentration de l'étalat.
+
+Pour les variations chronologiques, une hypotriglycéridémie traduit une insuffisance hématopoïdinaire, alors qu'une hypertriglycéridémie peut être héréditaire, ou bien acquise sur le cas du diabète, ou bien un syndrome néphrotique. Le calcul de la concentration du cholestérol NBL se fait à partir de la formule suivante. En effet, la concentration du cholestérol NBL est égale à la concentration du cholestérol total, moins la concentration du cholestérol HDL, moins la concentration des triglycérides divisée par 5 lorsque les concentrations sont exprimées en marginaux, ou bien divisée par 1 carré 2 lorsque les concentrations sont exprimées en minimum par mètre.
+
+Et l'augmentation de la concentration du cholestérol LDL représente un risque cardio-masculin. Je vous remercie.

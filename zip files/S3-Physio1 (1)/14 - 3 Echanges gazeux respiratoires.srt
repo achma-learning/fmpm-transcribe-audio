@@ -1,0 +1,3359 @@
+1
+00:00:10,140 --> 00:00:13,320
+Je suis le professeur Amin Ben Jelloun.
+
+2
+00:00:13,400 --> 00:00:17,060
+Je suis pneumologue à l'hôpital militaire.
+
+3
+00:00:18,620 --> 00:00:21,840
+Vous avez une série de cours sur la
+
+4
+00:00:21,840 --> 00:00:23,040
+physiologie respiratoire.
+
+5
+00:00:23,780 --> 00:00:26,040
+Moi, je vais m'occuper des échanges gaz
+
+6
+00:00:26,040 --> 00:00:29,620
+respiratoires et du contrôle de l'élargulation de
+
+7
+00:00:29,620 --> 00:00:30,620
+la ventilation.
+
+8
+00:00:30,620 --> 00:00:34,420
+Le professeur Bouchentouff vous fera le reste des
+
+9
+00:00:34,420 --> 00:00:34,680
+cours.
+
+10
+00:00:35,500 --> 00:00:37,680
+Donc, le cours d'aujourd'hui concerne les
+
+11
+00:00:37,680 --> 00:00:39,460
+échanges gazeux respiratoires.
+
+12
+00:00:41,360 --> 00:00:42,720
+Il y a plusieurs objectifs.
+
+13
+00:00:44,680 --> 00:00:47,800
+Il faut définir d'abord la ventilation alvéolaire
+
+14
+00:00:47,800 --> 00:00:49,460
+et préciser sa valeur normale.
+
+15
+00:00:50,000 --> 00:00:52,360
+Savoir définir le volume d'espace mort, et
+
+16
+00:00:52,360 --> 00:00:53,940
+le calculer éventuellement.
+
+17
+00:00:54,760 --> 00:00:57,680
+Comparer la composition des gaz inspirés et expirés
+
+18
+00:00:57,680 --> 00:00:59,720
+alvéolaires, que ce soit pour l'oxygène ou
+
+19
+00:00:59,720 --> 00:01:00,660
+le gaz carbonique.
+
+20
+00:01:01,180 --> 00:01:04,200
+Décrire la relation ventilation alvéolaire et les pressions
+
+21
+00:01:04,200 --> 00:01:06,780
+partielles en oxygène et en gaz carbonique.
+
+22
+00:01:07,460 --> 00:01:09,880
+Définir la capacité de diffusion d'un gaz.
+
+23
+00:01:10,560 --> 00:01:12,880
+Citer les valeurs normales de la DLCO, les
+
+24
+00:01:12,880 --> 00:01:14,180
+variations pathologiques.
+
+25
+00:01:14,800 --> 00:01:17,840
+Décrire l'évolution des pressions partielles en oxygène
+
+26
+00:01:17,840 --> 00:01:19,660
+et en gaz carbonique du sang veineux vers
+
+27
+00:01:19,660 --> 00:01:20,840
+les capillaires pulmonaires.
+
+28
+00:01:21,800 --> 00:01:24,960
+Décrire la distribution du rapport ventilation sur perfusion
+
+29
+00:01:24,960 --> 00:01:27,220
+dans les régions pulmonaires et son influence sur
+
+30
+00:01:27,220 --> 00:01:28,060
+le sang artériel.
+
+31
+00:01:28,580 --> 00:01:30,660
+Citer les principales causes de l'hypoxémie.
+
+32
+00:01:31,200 --> 00:01:33,220
+Définir le shunt et l'effet espace mort.
+
+33
+00:01:33,780 --> 00:01:35,780
+Ça vous parait un peu difficile, ça parait
+
+34
+00:01:35,780 --> 00:01:36,620
+un peu compliqué.
+
+35
+00:01:37,140 --> 00:01:39,400
+Mais on va essayer de simplifier les choses
+
+36
+00:01:39,400 --> 00:01:40,020
+au maximum.
+
+37
+00:01:43,280 --> 00:01:44,560
+Le plan est le suivant.
+
+38
+00:01:44,680 --> 00:01:46,820
+Une introduction, on va parler de la ventilation
+
+39
+00:01:46,820 --> 00:01:47,620
+alvéolaire.
+
+40
+00:01:47,620 --> 00:01:49,860
+La diffusion alvéolocapillaire.
+
+41
+00:01:49,960 --> 00:01:52,360
+Puis le rapport ventilation et perfusion en forme
+
+42
+00:01:52,360 --> 00:01:52,800
+de complexe.
+
+43
+00:01:54,240 --> 00:01:57,560
+Maintenant on va parler des échanges à proprement
+
+44
+00:01:57,560 --> 00:01:57,860
+parler.
+
+45
+00:01:58,740 --> 00:02:00,760
+Les échanges d'oxygène et de dioxyde de
+
+46
+00:02:00,760 --> 00:02:02,400
+carbone dont le poumon dépend.
+
+47
+00:02:02,900 --> 00:02:06,260
+De la ventilation alvéolaire qui est corrélée aux
+
+48
+00:02:06,260 --> 00:02:07,860
+pressions partielles des gaz, on va le voir.
+
+49
+00:02:08,300 --> 00:02:11,340
+La diffusion alvéolocapillaire qui est corrélée aux gradients
+
+50
+00:02:11,340 --> 00:02:13,300
+de pression de gaz et la capacité de
+
+51
+00:02:13,300 --> 00:02:13,700
+diffusion.
+
+52
+00:02:13,700 --> 00:02:15,620
+C'est la diffusion entre les alvéoles et
+
+53
+00:02:15,620 --> 00:02:16,180
+les capillaires.
+
+54
+00:02:16,300 --> 00:02:17,840
+Elle peut être altérée dans certaines maladies, on
+
+55
+00:02:17,840 --> 00:02:18,220
+va le voir.
+
+56
+00:02:19,000 --> 00:02:22,620
+Et la distribution du rapport ventilation sur perfusion.
+
+57
+00:02:23,580 --> 00:02:26,260
+Vous allez voir que la distribution est hétérogène
+
+58
+00:02:26,260 --> 00:02:28,040
+en fonction des parties du poumon.
+
+59
+00:02:28,160 --> 00:02:29,600
+En fonction des sommets ou des basses.
+
+60
+00:02:31,820 --> 00:02:32,080
+Bien.
+
+61
+00:02:33,180 --> 00:02:34,960
+La ventilation pulmonaire.
+
+62
+00:02:37,140 --> 00:02:40,140
+La ventilation pulmonaire V ou VE.
+
+63
+00:02:41,400 --> 00:02:44,220
+Ou ventilation, on l'appelle aussi ventilation minute.
+
+64
+00:02:44,740 --> 00:02:45,940
+C'est un débit gazeux.
+
+65
+00:02:46,420 --> 00:02:48,300
+C'est en millilitres par minute ou en
+
+66
+00:02:48,300 --> 00:02:49,100
+litres par minute.
+
+67
+00:02:49,620 --> 00:02:51,120
+C'est un débit gazeux qui traduit le
+
+68
+00:02:51,120 --> 00:02:53,360
+volume d'air mobilisé en une minute au
+
+69
+00:02:53,360 --> 00:02:54,140
+cours du cycle ventilatoire.
+
+70
+00:02:54,900 --> 00:02:56,840
+C'est la quantité d'air que vous
+
+71
+00:02:56,840 --> 00:02:59,420
+allez mobiliser lors de l'inspiration ou de
+
+72
+00:02:59,420 --> 00:03:00,120
+l'expiration.
+
+73
+00:03:01,460 --> 00:03:03,160
+C'est le produit du volume courant.
+
+74
+00:03:03,160 --> 00:03:05,620
+Le volume courant, c'est un volume que
+
+75
+00:03:05,620 --> 00:03:07,780
+vous mobilisez dans une seule respiration.
+
+76
+00:03:08,200 --> 00:03:10,120
+A l'inspiration ou à l'expiration.
+
+77
+00:03:10,680 --> 00:03:13,040
+Le volume courant normal pour un être humain
+
+78
+00:03:13,040 --> 00:03:15,600
+adulte est de 500 millilitres.
+
+79
+00:03:16,460 --> 00:03:19,500
+Vous multipliez ce volume courant par la fréquence
+
+80
+00:03:19,500 --> 00:03:20,280
+respiratoire.
+
+81
+00:03:20,500 --> 00:03:21,140
+C'est mathématique.
+
+82
+00:03:21,260 --> 00:03:22,920
+Vous allez obtenir le volume minute.
+
+83
+00:03:23,300 --> 00:03:24,660
+Le débit gazeux.
+
+84
+00:03:24,800 --> 00:03:26,280
+C'est ce qui sort de votre poumon
+
+85
+00:03:26,280 --> 00:03:28,040
+ou qui rentre dans votre poumon.
+
+86
+00:03:28,500 --> 00:03:31,400
+Là, on ne parle pas encore d'alvéole.
+
+87
+00:03:31,400 --> 00:03:33,120
+C'est ce qui sort, ce qui rentre,
+
+88
+00:03:33,220 --> 00:03:33,800
+c'est mécanique.
+
+89
+00:03:34,260 --> 00:03:35,280
+C'est le volume minute.
+
+90
+00:03:35,800 --> 00:03:37,260
+Il est à peu près de 5 à
+
+91
+00:03:37,260 --> 00:03:39,180
+8 litres par minute au repos.
+
+92
+00:03:39,320 --> 00:03:41,680
+Bien entendu, il va augmenter à l'exercice.
+
+93
+00:03:42,200 --> 00:03:44,540
+Très bien, jusque là, c'est compris.
+
+94
+00:03:45,800 --> 00:03:48,420
+Maintenant, on va parler d'une ventilation particulière.
+
+95
+00:03:48,560 --> 00:03:50,660
+C'est la ventilation alvéolaire.
+
+96
+00:03:51,220 --> 00:03:53,380
+Et c'est elle qui est utile dans
+
+97
+00:03:53,380 --> 00:03:53,920
+notre cas.
+
+98
+00:03:54,960 --> 00:03:56,960
+Il y a une différence entre la ventilation
+
+99
+00:03:56,960 --> 00:03:58,500
+minute et la ventilation alvéolaire.
+
+100
+00:03:59,380 --> 00:04:00,500
+C'est quoi cette différence ?
+
+101
+00:04:00,500 --> 00:04:03,420
+La ventilation alvéolaire est un débit gazeux qui
+
+102
+00:04:03,420 --> 00:04:06,400
+est mobilisé dans les sacs alvéolaires et qui
+
+103
+00:04:06,400 --> 00:04:09,040
+participe aux échanges gazeux avec les capillaires pulmonaires.
+
+104
+00:04:10,220 --> 00:04:12,200
+C'est quoi la différence avec la ventilation
+
+105
+00:04:12,200 --> 00:04:13,140
+minute ?
+
+106
+00:04:13,140 --> 00:04:16,480
+Là, il faut retrancher l'espace mort.
+
+107
+00:04:16,880 --> 00:04:17,980
+C'est quoi l'espace mort ?
+
+108
+00:04:17,980 --> 00:04:18,560
+C'est le VD.
+
+109
+00:04:19,040 --> 00:04:21,520
+C'est le volume qui est occupé par
+
+110
+00:04:21,520 --> 00:04:23,020
+les voies aériennes de conduction.
+
+111
+00:04:23,520 --> 00:04:25,560
+Ce volume ne participe pas aux échanges.
+
+112
+00:04:25,560 --> 00:04:31,200
+Pour obtenir la ventilation alvéolaire, on va retrancher
+
+113
+00:04:31,200 --> 00:04:34,620
+le volume de l'espace mort au volume
+
+114
+00:04:34,620 --> 00:04:38,660
+courant pour avoir la vraie ventilation alvéolaire.
+
+115
+00:04:39,240 --> 00:04:42,020
+Elle varie entre 3,5 et 5 litres
+
+116
+00:04:42,020 --> 00:04:42,720
+par minute.
+
+117
+00:04:43,540 --> 00:04:46,100
+Vous voyez qu'elle est inférieure à l
+
+118
+00:04:46,100 --> 00:04:46,200
+'autre.
+
+119
+00:04:46,620 --> 00:04:48,620
+Là, il y a 3 litres qui manquent.
+
+120
+00:04:49,540 --> 00:04:50,920
+Si on suppose que c'est 8 litres
+
+121
+00:04:50,920 --> 00:04:52,600
+par minute pour la ventilation, là, il y
+
+122
+00:04:52,600 --> 00:04:53,460
+a 3 litres qui manquent.
+
+123
+00:04:53,460 --> 00:04:55,260
+Pourquoi il y a 3 litres qui manquent
+
+124
+00:04:55,260 --> 00:04:55,560
+?
+
+125
+00:04:55,560 --> 00:04:57,400
+Parce qu'il y a 150 millilitres qui
+
+126
+00:04:57,400 --> 00:04:58,720
+manquent à chaque respiration.
+
+127
+00:04:59,240 --> 00:05:03,560
+Si vous avez une certaine fréquence respiratoire, à
+
+128
+00:05:03,560 --> 00:05:06,240
+chaque respiration, vous perdez 150 millilitres.
+
+129
+00:05:06,560 --> 00:05:08,720
+Bien sûr, au bout d'une minute, vous
+
+130
+00:05:08,720 --> 00:05:12,320
+allez perdre 3 litres à peu près.
+
+131
+00:05:13,860 --> 00:05:17,560
+La différence entre la ventilation minute et la
+
+132
+00:05:17,560 --> 00:05:20,060
+ventilation alvéolaire, c'est l'espace mort qui
+
+133
+00:05:20,060 --> 00:05:22,060
+est perdu à chaque respiration.
+
+134
+00:05:22,060 --> 00:05:24,240
+C'est un espace mort qui est tout
+
+135
+00:05:24,240 --> 00:05:27,260
+à fait physiologique, mais qui peut augmenter dans
+
+136
+00:05:27,260 --> 00:05:28,140
+certaines pathologies.
+
+137
+00:05:30,910 --> 00:05:33,050
+Le space mort est un volume intégré dans
+
+138
+00:05:33,050 --> 00:05:34,830
+le volume courant, mais il n'atteint pas
+
+139
+00:05:34,830 --> 00:05:35,490
+les alvéoles.
+
+140
+00:05:35,590 --> 00:05:37,050
+Il ne participe pas aux échanges gaz.
+
+141
+00:05:37,470 --> 00:05:39,750
+Il y a deux types d'espace mort.
+
+142
+00:05:40,190 --> 00:05:42,290
+Il y a l'espace mort anatomique, c
+
+143
+00:05:42,290 --> 00:05:43,450
+'est le volume des voies aériennes.
+
+144
+00:05:43,590 --> 00:05:45,590
+Il est de 150 millilitres.
+
+145
+00:05:46,190 --> 00:05:48,790
+Et physiologique, c'est le volume des voies
+
+146
+00:05:48,790 --> 00:05:52,570
+aériennes plus le volume des alvéoles participant aux
+
+147
+00:05:52,570 --> 00:05:52,990
+échanges.
+
+148
+00:05:52,990 --> 00:05:56,310
+Les alvéoles ne participent pas forcément aux échanges.
+
+149
+00:05:56,770 --> 00:05:58,170
+Certaines participent plus que d'autres.
+
+150
+00:05:58,590 --> 00:06:02,070
+Mais il y a une grande différence entre
+
+151
+00:06:02,070 --> 00:06:03,430
+l'anatomique et le physiologique.
+
+152
+00:06:03,630 --> 00:06:04,470
+C'est quelques millilitres.
+
+153
+00:06:04,690 --> 00:06:07,770
+Il y a un seul espace mort.
+
+154
+00:06:08,310 --> 00:06:11,910
+Voilà, ça résume un petit peu ce qu
+
+155
+00:06:11,910 --> 00:06:14,890
+'on a dit sur l'espace mort.
+
+156
+00:06:15,890 --> 00:06:20,890
+Le débit ventilatoire, ou la ventilation minute, c
+
+157
+00:06:20,890 --> 00:06:23,410
+'est le volume courant qui multiplie par la
+
+158
+00:06:23,410 --> 00:06:23,990
+fréquence.
+
+159
+00:06:24,330 --> 00:06:27,930
+Et la ventilation alvéolaire minute, c'est le
+
+160
+00:06:27,930 --> 00:06:30,770
+volume courant auquel vous retranchez l'espace mort
+
+161
+00:06:30,770 --> 00:06:33,150
+qui multiplie la fréquence.
+
+162
+00:06:33,450 --> 00:06:37,090
+Là, vous avez tout le volume courant, c
+
+163
+00:06:37,090 --> 00:06:38,610
+'est à peu près 500 millilitres.
+
+164
+00:06:38,710 --> 00:06:41,310
+De ce volume courant, vous allez enlever 150
+
+165
+00:06:41,310 --> 00:06:43,570
+millilitres qui correspondent à l'espace mort.
+
+166
+00:06:44,550 --> 00:06:46,630
+C'est le volume qui règne au niveau
+
+167
+00:06:46,630 --> 00:06:48,770
+des voies aériennes.
+
+168
+00:06:50,150 --> 00:06:55,470
+Là, vous avez toute cette partie qui représente
+
+169
+00:06:55,470 --> 00:06:57,250
+l'espace mort, de 150 millilitres à peu
+
+170
+00:06:57,250 --> 00:07:00,390
+près, qui ne participe pas aux échanges, contrairement
+
+171
+00:07:00,390 --> 00:07:02,710
+au reste du gaz alvéolaire.
+
+172
+00:07:07,800 --> 00:07:09,240
+Comment on calcule l'espace mort ?
+
+173
+00:07:09,240 --> 00:07:10,520
+Ça, c'est à titre indicatif.
+
+174
+00:07:46,020 --> 00:07:49,460
+Comment on va calculer cet espace mort ?
+
+175
+00:07:53,090 --> 00:07:55,330
+Le principe, c'est qu'on va utiliser
+
+176
+00:07:55,330 --> 00:07:58,950
+l'analyse de l'azote, ou plutôt la
+
+177
+00:07:58,950 --> 00:08:01,250
+fraction expirée en azote.
+
+178
+00:08:01,810 --> 00:08:06,270
+Le principe, on va faire inspirer de l
+
+179
+00:08:06,270 --> 00:08:07,830
+'oxygène pur au patient.
+
+180
+00:08:08,650 --> 00:08:10,770
+Là, vous avez une source d'oxygène.
+
+181
+00:08:11,530 --> 00:08:15,990
+Et on va calculer la délivrance d'azote
+
+182
+00:08:15,990 --> 00:08:16,890
+par le patient.
+
+183
+00:08:17,510 --> 00:08:22,030
+Vous avez besoin de plusieurs appareils.
+
+184
+00:08:22,150 --> 00:08:23,590
+Vous avez tout d'abord besoin d'une
+
+185
+00:08:23,590 --> 00:08:24,490
+source d'oxygène.
+
+186
+00:08:24,490 --> 00:08:27,990
+Vous avez besoin d'un analyseur d'azote.
+
+187
+00:08:28,290 --> 00:08:31,490
+Vous avez besoin d'une valve unidirectionnelle.
+
+188
+00:08:32,610 --> 00:08:35,250
+Vous avez besoin d'un pneumotachographe qui va
+
+189
+00:08:35,250 --> 00:08:38,490
+vous calculer la ventilation minute.
+
+190
+00:08:39,750 --> 00:08:42,210
+Et vous avez un intégrateur.
+
+191
+00:08:45,850 --> 00:08:48,730
+Comment va se passer l'expérience ?
+
+192
+00:08:48,730 --> 00:08:52,590
+Le patient va inhaler de l'oxygène pur.
+
+193
+00:08:55,240 --> 00:08:57,880
+Et puis, il va commencer à expirer.
+
+194
+00:08:57,880 --> 00:09:01,800
+Là, nous sommes au début de l'expiration.
+
+195
+00:09:01,920 --> 00:09:04,580
+Là, c'est l'inhalation d'oxygène.
+
+196
+00:09:05,220 --> 00:09:07,220
+Et là, c'est le début de l
+
+197
+00:09:07,220 --> 00:09:07,720
+'expiration.
+
+198
+00:09:07,960 --> 00:09:10,300
+Là, vous voyez que quand l'expiration commence,
+
+199
+00:09:11,120 --> 00:09:12,420
+il n'y a pas d'azote.
+
+200
+00:09:12,760 --> 00:09:15,320
+L'expiration d'azote est nulle.
+
+201
+00:09:15,540 --> 00:09:17,560
+Et puis, l'azote va commencer à être
+
+202
+00:09:17,560 --> 00:09:23,320
+délivré progressivement jusqu'à atteindre le gaz alvéolaire,
+
+203
+00:09:23,380 --> 00:09:25,560
+la totalité du gaz alvéolaire.
+
+204
+00:09:25,560 --> 00:09:28,360
+Et là, en dessous, vous avez le volume
+
+205
+00:09:28,360 --> 00:09:29,120
+expiré.
+
+206
+00:09:29,640 --> 00:09:31,740
+Vous avez deux courbes qui se superposent.
+
+207
+00:09:32,020 --> 00:09:35,440
+Vous avez la courbe de délivrance d'azote,
+
+208
+00:09:35,520 --> 00:09:36,440
+FEN2.
+
+209
+00:09:36,800 --> 00:09:39,900
+Et vous avez la courbe du volume expiré
+
+210
+00:09:39,900 --> 00:09:40,600
+en millilitres.
+
+211
+00:09:40,700 --> 00:09:42,480
+C'est le volume courant.
+
+212
+00:09:43,500 --> 00:09:46,100
+On va tracer un trait de sorte que
+
+213
+00:09:46,100 --> 00:09:48,080
+cette surface soit égale à cette surface.
+
+214
+00:09:48,180 --> 00:09:50,080
+C'est la surface A, la surface B.
+
+215
+00:09:50,640 --> 00:09:53,160
+Une fois que vous tracez cette droite, vous
+
+216
+00:09:53,160 --> 00:09:56,340
+allez voir sa correspondance au niveau du volume
+
+217
+00:09:56,340 --> 00:09:56,840
+courant.
+
+218
+00:09:57,560 --> 00:10:00,200
+Et ce volume va correspondre à l'espace
+
+219
+00:10:00,200 --> 00:10:04,160
+mort, qui est d'environ 150 millilitres.
+
+220
+00:10:14,760 --> 00:10:18,440
+L'espace mort physiologique, le Vdphi, qui est
+
+221
+00:10:18,440 --> 00:10:21,020
+à peu près égal à l'espace mort
+
+222
+00:10:21,020 --> 00:10:25,000
+anatomique, c'est plutôt une méthode de calcul,
+
+223
+00:10:25,620 --> 00:10:27,320
+plus qu'une mesure.
+
+224
+00:10:28,020 --> 00:10:30,600
+Alors voici quelques termes que vous devez connaître.
+
+225
+00:10:31,240 --> 00:10:33,720
+FeCO2, c'est la fraction expirée de CO2.
+
+226
+00:10:34,520 --> 00:10:37,100
+FaCO2, c'est la fraction alvéolaire de CO2.
+
+227
+00:10:38,380 --> 00:10:41,020
+La PaCO2, c'est la pression partielle de
+
+228
+00:10:41,020 --> 00:10:42,700
+gaz carbonique dans les alvéoles.
+
+229
+00:10:42,800 --> 00:10:45,260
+Et l'autre, a, c'est la pression
+
+230
+00:10:45,260 --> 00:10:47,280
+partielle du gaz carbonique dans les artères.
+
+231
+00:10:49,680 --> 00:10:50,900
+Alors comment on fait ?
+
+232
+00:10:50,900 --> 00:10:52,980
+On part de l'évidence que le CO2
+
+233
+00:10:52,980 --> 00:10:57,240
+expiré vient uniquement du volume d'air alvéolaire.
+
+234
+00:10:57,840 --> 00:10:59,100
+Parce qu'il n'y a pas de
+
+235
+00:10:59,100 --> 00:11:00,020
+CO2 expiré.
+
+236
+00:11:00,020 --> 00:11:01,820
+On n'inspire pas de CO2.
+
+237
+00:11:02,320 --> 00:11:04,440
+Tout le gaz carbonique dans les voies aériennes
+
+238
+00:11:04,900 --> 00:11:07,060
+provient exclusivement de l'expiration.
+
+239
+00:11:07,880 --> 00:11:09,340
+Et il ne provient pas de l'espace
+
+240
+00:11:09,340 --> 00:11:09,660
+mort.
+
+241
+00:11:09,920 --> 00:11:11,680
+Donc on peut écrire que le Vd, qui
+
+242
+00:11:11,680 --> 00:11:14,280
+est le volume courant, qui multiplie la fraction
+
+243
+00:11:14,280 --> 00:11:19,260
+expirée en gaz carbonique, est égale au volume
+
+244
+00:11:19,260 --> 00:11:22,300
+alvéolaire qui multiplie la fraction alvéolaire en gaz
+
+245
+00:11:22,300 --> 00:11:22,660
+carbonique.
+
+246
+00:11:23,520 --> 00:11:25,540
+Nous savons que le Vt, c'est la
+
+247
+00:11:25,540 --> 00:11:28,680
+ventilation alvéolaire, c'est le volume alvéolaire plus
+
+248
+00:11:28,680 --> 00:11:30,440
+l'espace mort.
+
+249
+00:11:30,620 --> 00:11:33,420
+Donc le volume alvéolaire, c'est le volume
+
+250
+00:11:33,420 --> 00:11:35,500
+courant, moins l'espace mort.
+
+251
+00:11:35,600 --> 00:11:37,580
+On va le remplacer dans l'équation.
+
+252
+00:11:37,740 --> 00:11:41,000
+On va aboutir à Vd sur Vt, l
+
+253
+00:11:41,000 --> 00:11:45,600
+'espace mort sur le volume courant, FACO2 alvéolaire
+
+254
+00:11:45,600 --> 00:11:48,140
+en fraction alvéolaire en gaz carbonique, moins la
+
+255
+00:11:48,140 --> 00:11:50,900
+fraction expirée en gaz carbonique sur FA, grand
+
+256
+00:11:50,900 --> 00:11:51,920
+A, CO2.
+
+257
+00:11:52,980 --> 00:11:55,340
+On a vu par l'équation de Bohr
+
+258
+00:11:55,340 --> 00:12:00,820
+que la fraction alvéolaire ou la fraction expirée
+
+259
+00:12:00,820 --> 00:12:05,800
+sont proportionnelles aux pressions partielles.
+
+260
+00:12:06,220 --> 00:12:07,860
+Donc on va les remplacer dans ce rapport.
+
+261
+00:12:08,440 --> 00:12:12,080
+C'est PA, grand A, CO2, moins PECO2
+
+262
+00:12:12,080 --> 00:12:14,180
+sur P, grand A, CO2.
+
+263
+00:12:14,780 --> 00:12:19,080
+Et comme la pression alvéolaire en CO2 est
+
+264
+00:12:19,080 --> 00:12:24,060
+proportionnelle à la pression artérielle en CO2, elles
+
+265
+00:12:24,060 --> 00:12:26,900
+sont pratiquement identiques.
+
+266
+00:12:27,060 --> 00:12:28,300
+Donc on va la remplacer ici.
+
+267
+00:12:29,120 --> 00:12:33,860
+PA, petit a, CO2, moins PECO2 sur PA,
+
+268
+00:12:34,060 --> 00:12:34,520
+CO2.
+
+269
+00:12:34,580 --> 00:12:37,400
+C'est l'espace mort sur Vt.
+
+270
+00:12:37,580 --> 00:12:38,560
+C'est Vd sur Vt.
+
+271
+00:12:38,960 --> 00:12:41,500
+Pour calculer le Vd, il suffit de multiplier
+
+272
+00:12:41,500 --> 00:12:44,880
+le volume courant par ce rapport.
+
+273
+00:12:45,820 --> 00:12:51,960
+Et vous allez retrouver 150 à 200 millilitres.
+
+274
+00:12:56,600 --> 00:13:01,280
+Ceci pour vous donner une idée sur la
+
+275
+00:13:01,280 --> 00:13:05,500
+ventilation minute et la ventilation alvéolaire minute.
+
+276
+00:13:05,880 --> 00:13:08,400
+Ce sont deux choses un peu différentes.
+
+277
+00:13:09,120 --> 00:13:14,180
+Je vais vous illustrer ça par différentes fréquences
+
+278
+00:13:14,180 --> 00:13:16,600
+respiratoires, comment ça se passe par exemple lors
+
+279
+00:13:16,600 --> 00:13:18,080
+de l'exercice physique.
+
+280
+00:13:18,740 --> 00:13:22,000
+Je vous rappelle que le volume alvéolaire minute,
+
+281
+00:13:22,120 --> 00:13:25,620
+le débit alvéolaire, c'est le volume courant
+
+282
+00:13:25,620 --> 00:13:29,040
+moins l'espace mort qui multiplie la fréquence.
+
+283
+00:13:29,260 --> 00:13:29,620
+Très bien.
+
+284
+00:13:30,900 --> 00:13:34,600
+Là, vous avez la ventilation minute, 10 litres,
+
+285
+00:13:35,540 --> 00:13:37,360
+quel que soit l'effort, elle va se
+
+286
+00:13:37,360 --> 00:13:39,820
+maintenir à 10 litres, quel que soit l
+
+287
+00:13:39,820 --> 00:13:41,500
+'effort physique chez un sujet normal.
+
+288
+00:13:43,530 --> 00:13:45,350
+Qu'est-ce qui va varier ?
+
+289
+00:13:45,350 --> 00:13:46,290
+C'est le volume courant.
+
+290
+00:13:47,070 --> 00:13:48,650
+Pourquoi va-t-il varier ce volume courant
+
+291
+00:13:48,650 --> 00:13:48,870
+?
+
+292
+00:13:48,870 --> 00:13:51,690
+Parce que la fréquence respiratoire va varier.
+
+293
+00:13:51,690 --> 00:13:54,290
+Je vous rappelle qu'il faut toujours maintenir
+
+294
+00:13:54,290 --> 00:13:55,350
+le même volume minute.
+
+295
+00:13:56,010 --> 00:13:58,670
+Lorsque votre fréquence au repos est à 10
+
+296
+00:13:58,670 --> 00:14:03,750
+par minute, le VT va se maintenir à
+
+297
+00:14:03,750 --> 00:14:06,390
+1000 pour maintenir 10 litres.
+
+298
+00:14:08,330 --> 00:14:10,650
+Par contre, lorsque vous accélérez un petit peu
+
+299
+00:14:10,650 --> 00:14:14,090
+la fréquence, il faut que le VT diminue
+
+300
+00:14:14,690 --> 00:14:17,050
+pour que le produit fasse toujours 10 litres.
+
+301
+00:14:17,610 --> 00:14:21,350
+Quand vous augmentez encore plus la fréquence, le
+
+302
+00:14:21,350 --> 00:14:24,730
+volume courant va diminuer encore plus pour maintenir
+
+303
+00:14:24,730 --> 00:14:30,410
+toujours le volume minute, la ventilation minute à
+
+304
+00:14:30,410 --> 00:14:30,890
+10 litres.
+
+305
+00:14:31,470 --> 00:14:31,570
+Bien.
+
+306
+00:14:32,490 --> 00:14:34,830
+Là, l'espace mort, vous voyez qu'il
+
+307
+00:14:34,830 --> 00:14:36,650
+se maintient, il est toujours le même.
+
+308
+00:14:36,770 --> 00:14:40,210
+Chez un sujet normal, il sera toujours le
+
+309
+00:14:40,210 --> 00:14:41,810
+même, quel que soit l'effort physique.
+
+310
+00:14:42,530 --> 00:14:44,850
+Dans certaines pathologies, comme la fibrose pulmonaire, il
+
+311
+00:14:44,850 --> 00:14:45,470
+va augmenter.
+
+312
+00:14:45,810 --> 00:14:47,470
+Mais chez le sujet normal, il est normal.
+
+313
+00:14:49,170 --> 00:14:54,610
+Mais là, vous voyez que la ventilation alvéolaire
+
+314
+00:14:54,610 --> 00:14:56,470
+va diminuer à chaque fois.
+
+315
+00:14:57,210 --> 00:14:59,490
+Le volume alvéolaire va diminuer.
+
+316
+00:15:00,030 --> 00:15:01,530
+Pourquoi il va diminuer ?
+
+317
+00:15:01,530 --> 00:15:02,410
+Parce qu'il dépend.
+
+318
+00:15:02,590 --> 00:15:03,890
+Le volume alvéolaire, je vous rappelle, c'est
+
+319
+00:15:03,890 --> 00:15:05,410
+le VT moins VD.
+
+320
+00:15:06,050 --> 00:15:06,930
+Pourquoi il va diminuer ?
+
+321
+00:15:06,930 --> 00:15:09,830
+Parce que vous avez diminué le VT et
+
+322
+00:15:09,830 --> 00:15:13,690
+vous maintenez l'espace mort à la même
+
+323
+00:15:13,690 --> 00:15:14,010
+valeur.
+
+324
+00:15:14,010 --> 00:15:17,950
+Donc, le volume alvéolaire en millilitres va diminuer
+
+325
+00:15:17,950 --> 00:15:18,490
+à chaque fois.
+
+326
+00:15:18,930 --> 00:15:21,750
+Donc, plus vous accélérez, plus le volume alvéolaire
+
+327
+00:15:21,750 --> 00:15:24,850
+va diminuer pour maintenir toujours une ventilation à
+
+328
+00:15:24,850 --> 00:15:25,470
+10 litres minute.
+
+329
+00:15:26,230 --> 00:15:29,290
+Et là, le débit, la ventilation alvéolaire minute
+
+330
+00:15:29,290 --> 00:15:32,750
+va également diminuer parce qu'à chaque fois,
+
+331
+00:15:33,230 --> 00:15:38,070
+à chaque respiration, vous allez enlever 200 millilitres.
+
+332
+00:15:38,370 --> 00:15:41,270
+Et vu que la fréquence respiratoire est élevée,
+
+333
+00:15:41,270 --> 00:15:46,590
+à chaque respiration, dans 40 fois, 200 millilitres,
+
+334
+00:15:46,650 --> 00:15:47,390
+ça fait 8 litres.
+
+335
+00:15:47,490 --> 00:15:51,410
+Donc, vous diminuez, vous enlevez 8 litres à
+
+336
+00:15:51,410 --> 00:15:52,930
+10 litres et vous vous retrouvez avec une
+
+337
+00:15:52,930 --> 00:15:56,310
+ventilation alvéolaire à 2 litres minute.
+
+338
+00:16:01,900 --> 00:16:03,760
+Ça, c'est un tableau à retenir par
+
+339
+00:16:03,760 --> 00:16:04,060
+cœur.
+
+340
+00:16:04,220 --> 00:16:06,220
+C'est les fractions et les pressions partielles
+
+341
+00:16:06,220 --> 00:16:06,640
+des gaz.
+
+342
+00:16:07,480 --> 00:16:09,880
+Dans le gaz inspiré, l'oxygène est à
+
+343
+00:16:09,880 --> 00:16:10,880
+21%.
+
+344
+00:16:10,880 --> 00:16:12,720
+C'est l'air ambiant.
+
+345
+00:16:13,120 --> 00:16:14,480
+L'oxygène est à 21%.
+
+346
+00:16:15,260 --> 00:16:19,480
+Cet oxygène, au gaz expiré, est à 17%.
+
+347
+00:17:33,220 --> 00:17:35,880
+Quelle est la relation entre ventilation alvéolaire et
+
+348
+00:17:35,880 --> 00:17:37,400
+pression partielle des gaz ?
+
+349
+00:17:37,400 --> 00:17:39,140
+D'abord, le gaz carbonique.
+
+350
+00:17:41,840 --> 00:17:45,740
+Dans les alvéoles, la production de CO2, VCO2,
+
+351
+00:17:45,840 --> 00:17:47,620
+c'est le gaz carbonique que vous dégagez
+
+352
+00:17:47,620 --> 00:17:48,740
+au moment de l'expiration.
+
+353
+00:17:49,360 --> 00:17:55,100
+C'est le volume alvéolaire, le débit alvéolaire,
+
+354
+00:17:55,200 --> 00:17:58,320
+qui multiplie la fraction alvéolaire en CO2.
+
+355
+00:17:58,320 --> 00:18:01,040
+Ça, c'est le débit de gaz carbonique.
+
+356
+00:18:01,100 --> 00:18:03,320
+Ça, c'est le débit alvéolaire qui multiplie
+
+357
+00:18:03,320 --> 00:18:05,020
+la fraction alvéolaire en CO2.
+
+358
+00:18:05,380 --> 00:18:06,100
+Jusque-là, ça va.
+
+359
+00:18:07,720 --> 00:18:12,860
+La pression alvéolaire en CO2, pareil, est proportionnelle
+
+360
+00:18:12,860 --> 00:18:15,740
+à la FACO2, comme on l'a vu
+
+361
+00:18:15,740 --> 00:18:17,520
+dans la loi de Dalton.
+
+362
+00:18:17,600 --> 00:18:19,340
+On va transformer cette équation.
+
+363
+00:18:20,020 --> 00:18:22,920
+La pression alvéolaire en CO2, c'est la
+
+364
+00:18:22,920 --> 00:18:25,540
+fraction alvéolaire en CO2 qui multiplie la pression
+
+365
+00:18:25,540 --> 00:18:29,840
+barométrique moins 47 mmHg dans les conditions VTP.
+
+366
+00:18:32,030 --> 00:18:37,050
+Cette équation va se transformer en VCO2 égale
+
+367
+00:18:37,050 --> 00:18:41,770
+BA qui multiplie PACO2 qui multiplie une constante.
+
+368
+00:18:42,250 --> 00:18:44,050
+K est une constante.
+
+369
+00:18:44,810 --> 00:18:48,370
+Donc, la PACO2, la pression alvéolaire en CO2,
+
+370
+00:18:48,950 --> 00:18:52,070
+c'est K qui multiplie le débit en
+
+371
+00:18:52,070 --> 00:18:53,870
+CO2 sur la ventilation alvéolaire.
+
+372
+00:18:54,030 --> 00:18:56,030
+Tout ceci pour aboutir à ça.
+
+373
+00:18:56,030 --> 00:18:57,990
+C'est-à-dire que si vous augmentez
+
+374
+00:18:57,990 --> 00:19:01,950
+la VA, la ventilation alvéolaire, vous allez diminuer
+
+375
+00:19:01,950 --> 00:19:04,570
+la PACO2.
+
+376
+00:19:05,510 --> 00:19:08,210
+Hyperventilation alvéolaire égale hypocapnie.
+
+377
+00:19:08,970 --> 00:19:11,570
+Inversement, quand vous avez une hypoventilation alvéolaire dans
+
+378
+00:19:11,570 --> 00:19:17,290
+certaines pathologies respiratoires, surtout la BPCO, une diminution
+
+379
+00:19:17,290 --> 00:19:22,390
+de cette ventilation alvéolaire, le gaz carbonique ne
+
+380
+00:19:22,390 --> 00:19:23,310
+pourra pas être dégagé.
+
+381
+00:19:23,310 --> 00:19:26,750
+Donc, la PACO2 est augmentée.
+
+382
+00:19:27,110 --> 00:19:28,250
+C'est une hypercapnie.
+
+383
+00:19:28,450 --> 00:19:30,230
+Elle va entraîner une acidose respiratoire.
+
+384
+00:19:32,780 --> 00:19:36,900
+Là, vous voyez, dans les conditions normales, lorsque
+
+385
+00:19:36,900 --> 00:19:41,260
+vous augmentez la ventilation, quand vous avez un
+
+386
+00:19:41,260 --> 00:19:43,360
+métabolisme tissulaire qui augmente au cours de l
+
+387
+00:19:43,360 --> 00:19:46,800
+'exercice, les tissus sont obligés de dégager du
+
+388
+00:19:46,800 --> 00:19:47,600
+gaz carbonique.
+
+389
+00:19:48,100 --> 00:19:52,420
+Donc, la ventilation doit augmenter de façon proportionnelle
+
+390
+00:19:52,420 --> 00:19:56,080
+pour maintenir une PAC, une pression alvéolaire en
+
+391
+00:19:56,080 --> 00:19:57,420
+CO2, constante.
+
+392
+00:19:57,820 --> 00:19:59,580
+Donc, on est obligé d'augmenter la ventilation
+
+393
+00:20:00,150 --> 00:20:03,720
+pour dégager plus de gaz carbonique pour maintenir
+
+394
+00:20:03,720 --> 00:20:06,380
+une bonne pression alvéolaire en CO2.
+
+395
+00:20:06,760 --> 00:20:08,060
+C'est pour ça qu'à l'effort,
+
+396
+00:20:08,760 --> 00:20:13,440
+la PACO2 est constante, voire diminue, pour que
+
+397
+00:20:13,440 --> 00:20:16,300
+les tissus puissent dégager suffisamment de gaz carbonique
+
+398
+00:20:16,300 --> 00:20:18,940
+et maintenir un débit en CO2 constant.
+
+399
+00:20:18,940 --> 00:20:23,840
+Qu'en est-il de l'oxygène ?
+
+400
+00:20:23,840 --> 00:20:26,560
+La différence entre le volume d'oxygène qui
+
+401
+00:20:26,560 --> 00:20:29,140
+entre dans le poumon par minute, c'est
+
+402
+00:20:29,140 --> 00:20:32,500
+la fraction inspirée d'oxygène qui multiplie le
+
+403
+00:20:32,500 --> 00:20:35,460
+débit alvéolaire, et le volume qui en sort,
+
+404
+00:20:36,680 --> 00:20:39,600
+c'est la fraction alvéolaire en oxygène qui
+
+405
+00:20:39,600 --> 00:20:41,960
+multiplie le débit alvéolaire, et le volume consommé.
+
+406
+00:20:42,440 --> 00:20:44,520
+C'est la consommation, c'est le débit
+
+407
+00:20:44,520 --> 00:20:46,120
+en oxygène qu'on consomme.
+
+408
+00:20:46,120 --> 00:20:50,420
+On peut écrire VO2 égale à FIO2 qui
+
+409
+00:20:50,420 --> 00:20:53,680
+multiplie VA moins FAO2 qui multiplie VA.
+
+410
+00:20:55,420 --> 00:21:01,100
+FAO2, c'est la FIO2 moins VO2 sur
+
+411
+00:21:01,100 --> 00:21:01,420
+VA.
+
+412
+00:21:02,140 --> 00:21:05,800
+On va transformer tout ça en pression en
+
+413
+00:21:05,800 --> 00:21:07,060
+rajoutant cette constante.
+
+414
+00:21:08,040 --> 00:21:12,580
+PAO2 égale à PIO2 moins VO2, consommation d
+
+415
+00:21:12,580 --> 00:21:14,620
+'oxygène sur ventilation alvéolaire.
+
+416
+00:21:14,620 --> 00:21:18,100
+Si vous augmentez cette VA, si vous augmentez
+
+417
+00:21:18,100 --> 00:21:22,020
+cette hyperventilation, c'est mathématique, la PAO2 va
+
+418
+00:21:22,020 --> 00:21:22,620
+augmenter.
+
+419
+00:21:22,980 --> 00:21:26,220
+Si vous la diminuez, la PAO2 va diminuer.
+
+420
+00:21:26,480 --> 00:21:31,240
+Une hyperventilation entraîne une hyperoxie, une hypoventilation entraîne
+
+421
+00:21:31,240 --> 00:21:32,740
+une hypoxie.
+
+422
+00:21:34,960 --> 00:21:37,780
+Et là, vous voyez, pareil pour le métabolisme
+
+423
+00:21:37,780 --> 00:21:39,780
+tissulaire, lorsqu'il augmente, il a besoin de
+
+424
+00:21:39,780 --> 00:21:43,320
+plus d'oxygène, donc on doit maintenir une
+
+425
+00:21:43,320 --> 00:21:44,460
+bonne PAO2.
+
+426
+00:21:44,460 --> 00:21:48,900
+Et pour maintenir une bonne PAO2, la ventilation
+
+427
+00:21:48,900 --> 00:21:52,440
+alvéolaire est obligée d'augmenter pour maintenir cette
+
+428
+00:21:52,440 --> 00:21:54,740
+PAO2 pratiquement constante.
+
+429
+00:21:55,740 --> 00:21:58,380
+Elle augmente même à l'exercice, légèrement à
+
+430
+00:21:58,380 --> 00:22:01,760
+l'exercice, pour maintenir une bonne oxygénation tissulaire
+
+431
+00:22:01,760 --> 00:22:03,540
+parce que les tissus ont besoin de plus
+
+432
+00:22:03,540 --> 00:22:05,720
+d'oxygène lorsqu'ils travaillent.
+
+433
+00:22:08,220 --> 00:22:09,020
+Qu'est-ce qui se passe à l
+
+434
+00:22:09,020 --> 00:22:09,480
+'effort ?
+
+435
+00:22:09,480 --> 00:22:13,240
+Là, vous avez au repos une PAO2 qui
+
+436
+00:22:13,240 --> 00:22:15,500
+a 100 mm de mercure, la PACO2 a
+
+437
+00:22:15,500 --> 00:22:16,820
+40 mm de mercure.
+
+438
+00:22:16,940 --> 00:22:19,500
+Quand vous faites un exercice, la PAO2, on
+
+439
+00:22:19,500 --> 00:22:21,500
+l'a vu, elle augmente légèrement à 105
+
+440
+00:22:21,500 --> 00:22:23,000
+mm de mercure.
+
+441
+00:22:23,220 --> 00:22:26,560
+La PACO2 diminue légèrement à 35 mm de
+
+442
+00:22:26,560 --> 00:22:26,900
+mercure.
+
+443
+00:22:27,200 --> 00:22:29,620
+Donc vous avez une légère hypocapnie, une légère
+
+444
+00:22:29,620 --> 00:22:33,840
+hypoxie pour que cette somme soit toujours égale
+
+445
+00:22:33,840 --> 00:22:34,440
+à 140.
+
+446
+00:22:34,660 --> 00:22:36,680
+Donc cette somme est constante.
+
+447
+00:22:37,000 --> 00:22:39,800
+Si vous voyez que cette somme diminue, ça
+
+448
+00:22:39,800 --> 00:22:41,200
+s'appelle un effet Schind.
+
+449
+00:22:41,720 --> 00:22:43,300
+Ça s'appelle un effet Schind et c
+
+450
+00:22:43,300 --> 00:22:43,860
+'est pathologique.
+
+451
+00:22:47,840 --> 00:22:51,600
+On continue dans la relation entre ventilation alvéolaire
+
+452
+00:22:51,600 --> 00:22:52,660
+et pression partielle des gaz.
+
+453
+00:22:52,740 --> 00:22:55,760
+Ça, c'est une petite notion qui ne
+
+454
+00:22:55,760 --> 00:22:57,500
+vous servira pas à grand-chose à votre
+
+455
+00:22:57,500 --> 00:22:57,900
+niveau.
+
+456
+00:22:58,880 --> 00:23:00,340
+C'est ce qu'on appelle la notion
+
+457
+00:23:00,340 --> 00:23:01,580
+de quotient respiratoire.
+
+458
+00:23:02,140 --> 00:23:05,600
+C'est la quantité dégagée de gaz carbonique
+
+459
+00:23:05,600 --> 00:23:07,900
+qui diminue la quantité consommée en oxygène.
+
+460
+00:23:08,180 --> 00:23:09,720
+Ça s'appelle le quotient respiratoire.
+
+461
+00:23:10,100 --> 00:23:11,720
+Il est compris entre 0,7 et 1.
+
+462
+00:23:12,120 --> 00:23:14,660
+Lorsque le quotient respiratoire est élevé, ça veut
+
+463
+00:23:14,660 --> 00:23:17,420
+dire qu'il y a une désadaptation ventilatoire.
+
+464
+00:23:20,500 --> 00:23:25,520
+À présent, nous allons passer à la diffusion
+
+465
+00:23:25,520 --> 00:23:27,280
+alvéolocapillaire.
+
+466
+00:23:29,510 --> 00:23:31,550
+La diffusion d'un gaz à travers un
+
+467
+00:23:31,550 --> 00:23:32,990
+tissu est régie par ce qu'on appelle
+
+468
+00:23:32,990 --> 00:23:33,770
+la loi de Fick.
+
+469
+00:23:34,570 --> 00:23:38,430
+Le débit gazeux est proportionnel à la surface
+
+470
+00:23:38,430 --> 00:23:39,030
+du tissu.
+
+471
+00:23:39,470 --> 00:23:41,690
+Plus une surface est grande, plus le gaz
+
+472
+00:23:41,690 --> 00:23:43,270
+va diffuser, ce qui est normal.
+
+473
+00:23:43,910 --> 00:23:46,430
+Pour la barrière alvéolocapillaire, il est entre 50
+
+474
+00:23:46,430 --> 00:23:48,070
+et 100 m², mais c'est très difficile.
+
+475
+00:23:49,130 --> 00:23:52,050
+Elle est inversement proportionnelle à l'épaisseur.
+
+476
+00:23:53,410 --> 00:23:56,610
+L'épaisseur de la membrane alvéolocapillaire de 0
+
+477
+00:23:56,610 --> 00:23:57,790
+,5 micromètre.
+
+478
+00:23:58,210 --> 00:24:00,950
+Cette épaisseur peut augmenter dans certaines pathologies comme
+
+479
+00:24:00,950 --> 00:24:02,390
+la fibrose pulmonaire.
+
+480
+00:24:03,150 --> 00:24:04,890
+Ce qui est normal, plus une surface est
+
+481
+00:24:04,890 --> 00:24:09,410
+épaisse, moins elle va laisser passer de l
+
+482
+00:24:09,410 --> 00:24:09,890
+'oxygène.
+
+483
+00:24:11,510 --> 00:24:14,230
+Elle est proportionnelle au gradient de concentration ou
+
+484
+00:24:14,230 --> 00:24:14,950
+de pression.
+
+485
+00:24:15,250 --> 00:24:17,050
+Lorsqu'il y a une grande différence de
+
+486
+00:24:17,050 --> 00:24:19,610
+pression, la diffusion va se faire facilement.
+
+487
+00:24:19,950 --> 00:24:21,570
+Lorsqu'il y a un petit gradient de
+
+488
+00:24:21,570 --> 00:24:24,050
+pression, cette diffusion se fera mal.
+
+489
+00:24:24,730 --> 00:24:26,630
+Elle est proportionnelle également à une constante de
+
+490
+00:24:26,630 --> 00:24:27,830
+diffusion, D.
+
+491
+00:24:29,390 --> 00:24:31,850
+Elle est égale à sol sur racine carrée
+
+492
+00:24:31,850 --> 00:24:32,450
+de PM.
+
+493
+00:24:32,670 --> 00:24:34,930
+PM, c'est le poids moléculaire.
+
+494
+00:24:35,090 --> 00:24:37,050
+Sol, c'est la solubilité du gaz dans
+
+495
+00:24:37,050 --> 00:24:37,570
+le liquide.
+
+496
+00:24:38,870 --> 00:24:41,050
+La constante D est 20 fois supérieure pour
+
+497
+00:24:41,050 --> 00:24:42,650
+le CO2 que pour l'oxygène.
+
+498
+00:24:42,650 --> 00:24:45,590
+Donc le CO2 diffuse plus facilement que l
+
+499
+00:24:45,590 --> 00:24:46,090
+'oxygène.
+
+500
+00:24:46,390 --> 00:24:47,110
+Pourquoi ?
+
+501
+00:24:47,110 --> 00:24:49,110
+Parce que le gradient de pression de ce
+
+502
+00:24:49,110 --> 00:24:50,170
+gaz carbonique est faible.
+
+503
+00:24:50,590 --> 00:24:53,950
+Il lui faut une solubilité beaucoup plus grande.
+
+504
+00:24:54,110 --> 00:24:55,650
+Alors que le gradient de pression pour l
+
+505
+00:24:55,650 --> 00:24:56,610
+'oxygène est très grand.
+
+506
+00:24:57,170 --> 00:24:58,930
+Une petite solubilité lui suffit.
+
+507
+00:25:01,040 --> 00:25:03,860
+Là, vous voyez, c'est la surface.
+
+508
+00:25:04,540 --> 00:25:07,060
+Plus cette surface est grande, plus la diffusion
+
+509
+00:25:07,060 --> 00:25:07,740
+va se faire.
+
+510
+00:25:08,140 --> 00:25:08,980
+Ça, c'est l'épaisseur.
+
+511
+00:25:09,080 --> 00:25:12,460
+Plus l'épaisseur est grande, moins la diffusion
+
+512
+00:25:12,460 --> 00:25:13,260
+va se faire.
+
+513
+00:25:13,400 --> 00:25:15,800
+Et ça, c'est la différence entre P2
+
+514
+00:25:15,800 --> 00:25:16,420
+et P1.
+
+515
+00:25:17,700 --> 00:25:18,480
+D'accord ?
+
+516
+00:25:18,480 --> 00:25:19,640
+C'est le gradient de pression.
+
+517
+00:25:19,820 --> 00:25:22,300
+Plus cette pression est grande, plus la diffusion
+
+518
+00:25:22,300 --> 00:25:23,160
+va se faire.
+
+519
+00:25:29,300 --> 00:25:31,300
+La diffusion est facilitée par les gradients de
+
+520
+00:25:31,300 --> 00:25:33,700
+pression partielle d'oxygène et de gaz carbonique
+
+521
+00:25:33,700 --> 00:25:37,700
+entre l'alvéole et le sang veineux mêlés
+
+522
+00:25:37,700 --> 00:25:38,860
+jusqu'à l'équilibre.
+
+523
+00:25:39,200 --> 00:25:41,860
+Pour l'oxygène, vous avez la pression alvéolaire
+
+524
+00:25:41,860 --> 00:25:44,780
+en oxygène moins la pression veineuse en oxygène
+
+525
+00:25:44,780 --> 00:25:47,840
+est de 60 mmHg.
+
+526
+00:25:48,060 --> 00:25:49,940
+C'est pour ça que ça diffuse facilement.
+
+527
+00:25:50,380 --> 00:25:52,600
+Pour le CO2, il est juste de 6
+
+528
+00:25:52,600 --> 00:25:53,620
+mmHg.
+
+529
+00:25:53,760 --> 00:25:56,560
+C'est pour ça que la solubilité du
+
+530
+00:25:56,560 --> 00:25:59,600
+gaz carbonique va compenser ce manque en pression.
+
+531
+00:26:00,600 --> 00:26:02,580
+Le temps de transit est normal.
+
+532
+00:26:02,800 --> 00:26:05,260
+Au repos, il est de 25 millisecondes.
+
+533
+00:26:05,820 --> 00:26:07,700
+Au cours d'un exercice, cette diffusion est
+
+534
+00:26:07,700 --> 00:26:08,240
+maintenue.
+
+535
+00:26:11,000 --> 00:26:15,140
+Là, vous voyez au niveau de la diffusion
+
+536
+00:26:15,140 --> 00:26:16,280
+capillaire.
+
+537
+00:26:16,380 --> 00:26:19,640
+On a dit que l'oxygène avait besoin
+
+538
+00:26:19,640 --> 00:26:24,340
+de 25 millisecondes pour qu'il sature l
+
+539
+00:26:24,340 --> 00:26:24,880
+'hémoglobine.
+
+540
+00:26:25,520 --> 00:26:27,260
+25 millisecondes de transit.
+
+541
+00:26:27,600 --> 00:26:29,740
+Au repos, chez un sujet normal, le transit
+
+542
+00:26:29,740 --> 00:26:31,740
+prend 75 millisecondes.
+
+543
+00:26:32,040 --> 00:26:34,400
+Donc on a 50 millisecondes de RAB parce
+
+544
+00:26:34,400 --> 00:26:37,700
+que l'oxygène sature l'hémoglobine en 25
+
+545
+00:26:37,700 --> 00:26:38,340
+millisecondes.
+
+546
+00:26:38,960 --> 00:26:43,300
+Quand vous faites un effort, le transit est
+
+547
+00:26:43,300 --> 00:26:45,340
+exactement de 25 millisecondes.
+
+548
+00:26:46,120 --> 00:26:49,160
+Donc l'oxygène a juste le temps de
+
+549
+00:26:49,160 --> 00:26:51,400
+saturer l'hémoglobine pendant l'effort.
+
+550
+00:26:51,700 --> 00:26:55,640
+Par contre, chez le sujet anormal, ou fortement
+
+551
+00:26:55,640 --> 00:26:58,300
+anormal, il y a ce qu'on appelle
+
+552
+00:26:58,300 --> 00:26:59,380
+un effet de temps de contact.
+
+553
+00:26:59,500 --> 00:27:00,340
+C'est-à-dire que le temps de
+
+554
+00:27:00,340 --> 00:27:02,940
+contact entre l'hémoglobine et l'oxygène est
+
+555
+00:27:02,940 --> 00:27:08,700
+insuffisant parce que le débit cardiaque est accéléré.
+
+556
+00:27:09,140 --> 00:27:13,040
+La membrane alvéolocapillaire, dans le cas des fibroses
+
+557
+00:27:13,040 --> 00:27:14,360
+pulmonaires, est épaissie.
+
+558
+00:27:14,940 --> 00:27:18,900
+Donc l'oxygène a du mal à passer.
+
+559
+00:27:19,200 --> 00:27:20,600
+Il n'a pas le temps de saturer
+
+560
+00:27:20,600 --> 00:27:21,560
+l'hémoglobine.
+
+561
+00:27:21,640 --> 00:27:22,900
+C'est pour ça que nous avons une
+
+562
+00:27:22,900 --> 00:27:24,120
+hypoxie à l'effort.
+
+563
+00:27:31,100 --> 00:27:33,340
+Comment se mesure la capacité de diffusion ?
+
+564
+00:27:33,340 --> 00:27:38,160
+Dans cette équation, SE, la surface, l'épaisseur
+
+565
+00:27:38,160 --> 00:27:42,280
+et D sont difficiles à déterminer.
+
+566
+00:27:42,940 --> 00:27:45,020
+On va les appeler DL.
+
+567
+00:27:45,700 --> 00:27:47,480
+C'est la capacité de diffusion.
+
+568
+00:27:47,940 --> 00:27:49,940
+Cette équation, on va la simplifier.
+
+569
+00:27:50,500 --> 00:27:53,440
+Le débit gazeux est égal à DL, c
+
+570
+00:27:53,440 --> 00:27:55,920
+'est une constante de diffusion, qui multiplie le
+
+571
+00:27:55,920 --> 00:27:56,880
+gradient de pression.
+
+572
+00:27:59,100 --> 00:28:03,020
+DL, c'est le débit gazeux qui est
+
+573
+00:28:03,020 --> 00:28:05,460
+divisé par le gradient de pression.
+
+574
+00:28:06,200 --> 00:28:09,100
+P2 est difficile à déterminer pour l'oxygène.
+
+575
+00:28:09,600 --> 00:28:12,600
+Donc on va utiliser un gaz qui est
+
+576
+00:28:12,600 --> 00:28:15,620
+le monoxyde de carbone pour lequel la P2
+
+577
+00:28:15,620 --> 00:28:18,080
+est négligeable parce qu'il n'y a
+
+578
+00:28:18,080 --> 00:28:21,540
+pas d'oxyde de carbone dans les capillaires.
+
+579
+00:28:22,320 --> 00:28:24,760
+Il est en quantité vraiment négligeable sauf quand
+
+580
+00:28:24,760 --> 00:28:25,480
+on fume beaucoup.
+
+581
+00:28:26,760 --> 00:28:29,380
+Donc la DLCO va être le débit de
+
+582
+00:28:29,380 --> 00:28:32,920
+CO qui divise la pression alvéolaire en CO.
+
+583
+00:28:33,440 --> 00:28:34,640
+Et ça, c'est pour simplifier.
+
+584
+00:28:35,060 --> 00:28:36,860
+C'est cette DLCO qu'on va déterminer
+
+585
+00:28:37,420 --> 00:28:39,100
+pour voir si le patient n'a pas
+
+586
+00:28:39,100 --> 00:28:40,220
+des troubles de la diffusion.
+
+587
+00:28:46,530 --> 00:28:49,030
+La DLCO est la DLO2 normale chez l
+
+588
+00:28:49,030 --> 00:28:49,210
+'adulte.
+
+589
+00:28:49,270 --> 00:28:51,430
+La DLCO est de 15 à 17 mm
+
+590
+00:28:51,430 --> 00:28:53,910
+par minute et par millimètre de mercure dans
+
+591
+00:28:53,910 --> 00:28:55,650
+les conditions STPD.
+
+592
+00:28:57,670 --> 00:29:00,850
+La DLO2, on multiplie la DLCO par 1
+
+593
+00:29:00,850 --> 00:29:03,210
+,23 et la normale est de 20 ml
+
+594
+00:29:03,210 --> 00:29:06,250
+par minute et par millimètre de mercure.
+
+595
+00:29:08,010 --> 00:29:09,670
+Cette diffusion est diminuée par quoi ?
+
+596
+00:29:09,670 --> 00:29:11,630
+Par la réduction de la surface de diffusion
+
+597
+00:29:11,630 --> 00:29:15,370
+par un épicissement, augmentation de E.
+
+598
+00:29:15,510 --> 00:29:16,690
+Ça, c'est diminution de S.
+
+599
+00:29:16,990 --> 00:29:19,950
+Augmentation de E par fibrose des parois alvéolaires
+
+600
+00:29:19,950 --> 00:29:22,790
+et capillaires comme dans la fibrose pulmonaire ou
+
+601
+00:29:22,790 --> 00:29:25,450
+altération de la membrane érythrocytaire comme dans les
+
+602
+00:29:25,450 --> 00:29:25,810
+animes.
+
+603
+00:29:29,800 --> 00:29:32,280
+Pour être transférée de l'air alvéolaire vers
+
+604
+00:29:32,280 --> 00:29:34,680
+l'hémoglobine, l'oxygène rencontre deux résistances.
+
+605
+00:29:34,680 --> 00:29:38,780
+La membrane alvéolocapillaire M, la réaction avec l
+
+606
+00:29:38,780 --> 00:29:41,820
+'hémoglobine Theta contenue dans le sang véneux capillaire
+
+607
+00:29:41,820 --> 00:29:42,280
+VC.
+
+608
+00:29:42,760 --> 00:29:45,700
+On peut écrire 1 sur diffusion, capacité de
+
+609
+00:29:45,700 --> 00:29:48,280
+diffusion égale à 1 sur DM plus 1
+
+610
+00:29:48,280 --> 00:29:49,960
+sur Theta multiplié par VC.
+
+611
+00:29:50,780 --> 00:29:53,200
+Une réduction du sang capillaire peut diminuer la
+
+612
+00:29:53,200 --> 00:29:54,180
+capacité de diffusion.
+
+613
+00:29:54,380 --> 00:29:55,880
+Pourquoi je vous dis tout ça ?
+
+614
+00:29:55,880 --> 00:29:59,140
+C'est pour corriger, si jamais vous déterminez
+
+615
+00:29:59,140 --> 00:30:02,100
+une capacité de diffusion, il faut la corriger
+
+616
+00:30:02,100 --> 00:30:03,400
+par rapport à l'hémoglobine.
+
+617
+00:30:03,400 --> 00:30:05,920
+Quand vous avez une anémie, vous avez une
+
+618
+00:30:05,920 --> 00:30:07,360
+fausse altération de la diffusion.
+
+619
+00:30:07,640 --> 00:30:10,460
+Si vous explorez votre poumon, vous avez une
+
+620
+00:30:10,460 --> 00:30:13,480
+anémie, elle va vous donner une diffusion basse
+
+621
+00:30:13,480 --> 00:30:14,320
+mais qui est fausse.
+
+622
+00:30:14,620 --> 00:30:16,500
+Donc il faut la corriger par rapport à
+
+623
+00:30:16,500 --> 00:30:17,100
+l'hémoglobine.
+
+624
+00:30:17,440 --> 00:30:18,340
+C'est pour ça que je vous montre
+
+625
+00:30:18,340 --> 00:30:19,080
+tout ceci.
+
+626
+00:30:24,360 --> 00:30:25,780
+Qu'en est-il de la distribution de
+
+627
+00:30:25,780 --> 00:30:27,460
+la ventilation et perfusion ?
+
+628
+00:30:27,460 --> 00:30:29,940
+C'est une distribution hétérogène dans les différentes
+
+629
+00:30:29,940 --> 00:30:30,740
+parties du poumon.
+
+630
+00:30:31,560 --> 00:30:33,980
+Il faut savoir que la ventilation diminue de
+
+631
+00:30:33,980 --> 00:30:35,360
+la base vers les sommets.
+
+632
+00:30:35,360 --> 00:30:38,240
+Les bases sont mieux ventilées que les sommets.
+
+633
+00:30:38,660 --> 00:30:41,920
+La perfusion aussi diminue encore plus que la
+
+634
+00:30:41,920 --> 00:30:43,760
+ventilation de la base au sommet.
+
+635
+00:30:44,080 --> 00:30:48,580
+Les bases sont mieux perfusées que les sommets.
+
+636
+00:30:50,500 --> 00:30:54,540
+Mais le rapport VA sur Q diminue des
+
+637
+00:30:54,540 --> 00:30:56,140
+sommets vers les bases.
+
+638
+00:30:56,780 --> 00:30:57,860
+Il est inverse des autres.
+
+639
+00:31:00,140 --> 00:31:03,900
+Il existe une hétérogénéité de ventilation sur perfusion.
+
+640
+00:31:04,060 --> 00:31:05,200
+C'est-à-dire que tous les poumons,
+
+641
+00:31:05,580 --> 00:31:07,620
+toutes les parties du poumon ne ventilent pas
+
+642
+00:31:07,620 --> 00:31:09,140
+de la même manière et ne perfusent pas
+
+643
+00:31:09,140 --> 00:31:09,800
+de la même manière.
+
+644
+00:31:11,240 --> 00:31:14,600
+Quand vous intégrez toute cette ventilation et perfusion
+
+645
+00:31:14,600 --> 00:31:16,920
+dans les deux poumons, vous allez voir une
+
+646
+00:31:16,920 --> 00:31:20,120
+différence alvéole-artérielle d'oxygène qui est de
+
+647
+00:31:20,120 --> 00:31:21,500
+5 mmHg.
+
+648
+00:31:21,600 --> 00:31:23,760
+C'est pour ça que la pression en
+
+649
+00:31:23,760 --> 00:31:26,100
+oxygène normal dans l'alvéole est de 100
+
+650
+00:31:26,100 --> 00:31:27,200
+mmHg.
+
+651
+00:31:27,620 --> 00:31:29,640
+Mais dans l'artère, elle est juste de
+
+652
+00:31:29,640 --> 00:31:31,320
+95 mmHg.
+
+653
+00:31:31,820 --> 00:31:34,440
+C'est dû à ça, à une hétérogénéité
+
+654
+00:31:34,440 --> 00:31:35,980
+ventilation-perfusion.
+
+655
+00:31:35,980 --> 00:31:38,600
+Cette différence va augmenter avec l'âge et
+
+656
+00:31:38,600 --> 00:31:40,140
+avec la dépression.
+
+657
+00:31:44,710 --> 00:31:47,790
+C'est un schéma de la distribution de
+
+658
+00:31:47,790 --> 00:31:50,670
+la ventilation et de la perfusion au niveau
+
+659
+00:31:50,670 --> 00:31:51,430
+des poumons.
+
+660
+00:31:51,950 --> 00:31:55,570
+Comme vous le voyez, là vous avez la
+
+661
+00:31:55,570 --> 00:31:57,270
+base et là vous avez le sommet.
+
+662
+00:31:57,690 --> 00:32:00,070
+Vous voyez que le débit sanguin, la perfusion
+
+663
+00:32:00,070 --> 00:32:02,390
+diminue de la base vers le sommet.
+
+664
+00:32:02,710 --> 00:32:05,630
+La ventilation diminue également mais de façon moins
+
+665
+00:32:05,630 --> 00:32:07,690
+importante de la base vers le sommet.
+
+666
+00:32:07,690 --> 00:32:10,650
+Donc vous avez un rapport de VA sur
+
+667
+00:32:10,650 --> 00:32:14,730
+Q, ventilation sur perfusion, qui augmente de la
+
+668
+00:32:14,730 --> 00:32:15,670
+base vers le sommet.
+
+669
+00:32:15,990 --> 00:32:17,780
+C'est un schéma à retenir.
+
+670
+00:32:25,860 --> 00:32:29,240
+Le rapport ventilation-perfusion, quand le rapport est
+
+671
+00:32:29,240 --> 00:32:31,180
+presque nul, ça veut dire que c'est
+
+672
+00:32:31,180 --> 00:32:33,480
+mal ventilé et bien perfusé.
+
+673
+00:32:33,840 --> 00:32:34,580
+Ça veut dire qu'il y a une
+
+674
+00:32:34,580 --> 00:32:37,520
+contamination de sang artériel par le sang veineux.
+
+675
+00:32:37,820 --> 00:32:38,840
+Il y a deux mécanismes.
+
+676
+00:32:40,440 --> 00:32:42,100
+Il y a le chintre pulmonaire.
+
+677
+00:32:42,200 --> 00:32:44,300
+Ce sont des alvéoles qui sont complètement bouchées,
+
+678
+00:32:44,820 --> 00:32:47,300
+qui ne sont pas ventilées mais qui sont
+
+679
+00:32:47,300 --> 00:32:50,160
+perfusées dans le dent pulmonaire, dans la pneumonie
+
+680
+00:32:50,160 --> 00:32:51,820
+et d'autres pathologies.
+
+681
+00:32:52,260 --> 00:32:53,560
+Ou alors le chintre droite-gauche.
+
+682
+00:32:53,980 --> 00:32:56,240
+Dans les cardiopathies congénitales, vous avez du sang
+
+683
+00:32:56,240 --> 00:32:59,360
+veineux qui passe de l'oreillette droite ou
+
+684
+00:32:59,360 --> 00:33:01,280
+du ventricule droit vers le cœur gauche.
+
+685
+00:33:01,400 --> 00:33:02,520
+Il va contaminer ce sang.
+
+686
+00:33:03,100 --> 00:33:05,940
+Ça s'appelle un chintre vrai, un chintre
+
+687
+00:33:05,940 --> 00:33:06,840
+droite-gauche.
+
+688
+00:33:07,820 --> 00:33:10,240
+Un rapport presque à l'infini traduit des
+
+689
+00:33:10,240 --> 00:33:11,880
+zones pulmonaires non perfusées.
+
+690
+00:33:12,000 --> 00:33:13,880
+Ça veut dire que la perfusion du cul
+
+691
+00:33:13,880 --> 00:33:16,460
+est presque nulle et la ventilation est élevée.
+
+692
+00:33:16,800 --> 00:33:18,080
+C'est ce qu'on voit dans l
+
+693
+00:33:18,080 --> 00:33:18,900
+'ongolite pulmonaire.
+
+694
+00:33:19,520 --> 00:33:21,960
+Quand vous interrompez une branche de l'artère
+
+695
+00:33:21,960 --> 00:33:24,260
+pulmonaire ou carrément l'artère pulmonaire, le territoire
+
+696
+00:33:24,260 --> 00:33:26,760
+n'est plus perfusé mais il est bien
+
+697
+00:33:26,760 --> 00:33:29,360
+ventilé et c'est l'effet espace mort.
+
+698
+00:33:29,420 --> 00:33:30,780
+L'espace mort dont on a parlé tout
+
+699
+00:33:30,780 --> 00:33:32,640
+à l'heure est augmenté à l'infini.
+
+700
+00:33:33,100 --> 00:33:36,140
+Il peut donner une hypoventilation alvéolaire et un
+
+701
+00:33:36,140 --> 00:33:36,680
+arrêt cardiaque.
+
+702
+00:33:39,650 --> 00:33:42,110
+Alors quel est l'effet de l'hétérogénéité
+
+703
+00:33:42,110 --> 00:33:44,910
+du rapport ventilation sur perfusion sur la formation
+
+704
+00:33:44,910 --> 00:33:46,350
+du sang artériel ?
+
+705
+00:33:46,350 --> 00:33:47,250
+Comme on a dit, il y a une
+
+706
+00:33:47,250 --> 00:33:50,590
+différence entre l'oxygène alvéolaire et l'oxygène
+
+707
+00:33:50,590 --> 00:33:52,350
+artériel de 5 mm de mercure.
+
+708
+00:33:52,430 --> 00:33:53,770
+Pourquoi ?
+
+709
+00:33:53,770 --> 00:33:56,170
+Quand vous avez une région AVA sur Q
+
+710
+00:33:56,170 --> 00:33:57,810
+faible, ça veut dire qu'elle est mal
+
+711
+00:33:57,810 --> 00:33:59,510
+ventilée mais bien perfusée.
+
+712
+00:33:59,710 --> 00:34:03,150
+La PAO2 est diminuée et la CO2 est
+
+713
+00:34:03,150 --> 00:34:03,990
+élevée.
+
+714
+00:34:04,350 --> 00:34:04,590
+D'accord.
+
+715
+00:34:05,610 --> 00:34:07,929
+Quand il y a une région normale, c
+
+716
+00:34:07,929 --> 00:34:08,949
+'est-à-dire que le rapport est égal
+
+717
+00:34:08,949 --> 00:34:11,650
+à 1, toutes les deux sont normales, PAO2
+
+718
+00:34:11,650 --> 00:34:12,590
+et PACO2.
+
+719
+00:34:13,090 --> 00:34:15,489
+Mais quand vous avez une région AVA sur
+
+720
+00:34:15,489 --> 00:34:16,750
+Q élevée, ça veut dire qu'elle est
+
+721
+00:34:16,750 --> 00:34:20,050
+bien ventilée, mal perfusée.
+
+722
+00:34:20,469 --> 00:34:24,570
+La PAO2 est peu élevée et la PACO2
+
+723
+00:34:24,570 --> 00:34:25,310
+est diminuée.
+
+724
+00:34:25,650 --> 00:34:28,090
+Et vous voyez entre la première et la
+
+725
+00:34:28,090 --> 00:34:30,630
+deuxième, PACO2 élevée diminuée.
+
+726
+00:34:31,050 --> 00:34:31,250
+D'accord.
+
+727
+00:34:31,409 --> 00:34:32,750
+Là, c'est un rapport normal.
+
+728
+00:34:33,230 --> 00:34:35,250
+Donc celle-là va compenser celle-là.
+
+729
+00:34:35,250 --> 00:34:37,050
+Mais quand vous voyez la PAO2, là, elle
+
+730
+00:34:37,050 --> 00:34:37,670
+est diminuée.
+
+731
+00:34:38,310 --> 00:34:39,810
+Mais là, elle est peu élevée.
+
+732
+00:34:40,090 --> 00:34:40,830
+Donc c'est pour ça qu'il y
+
+733
+00:34:40,830 --> 00:34:42,489
+a un déficit en oxygène.
+
+734
+00:34:43,230 --> 00:34:46,530
+Si on avait ici PAO2 élevé, il y
+
+735
+00:34:46,530 --> 00:34:48,690
+aurait un équilibre comme pour la PACO2.
+
+736
+00:34:49,010 --> 00:34:50,630
+Mais là, malheureusement, elle est peu élevée.
+
+737
+00:34:51,050 --> 00:34:52,190
+Donc c'est pour ça qu'on a
+
+738
+00:34:52,190 --> 00:34:55,790
+un déficit physiologique en oxygène.
+
+739
+00:34:57,370 --> 00:34:58,410
+Et c'est pour ça que le sang
+
+740
+00:34:58,410 --> 00:35:02,010
+artériel de façon physiologique est hypoxénique, normocap.
+
+741
+00:35:06,400 --> 00:35:10,740
+Ça, c'est un schéma également qui va
+
+742
+00:35:10,740 --> 00:35:13,720
+vous montrer les inégalités ventilation-perfusion.
+
+743
+00:35:14,000 --> 00:35:16,480
+Au milieu, vous avez une ventilation-perfusion qui
+
+744
+00:35:16,480 --> 00:35:17,040
+est normale.
+
+745
+00:35:17,540 --> 00:35:20,260
+Vous avez les capillaires qui sont bien fluides,
+
+746
+00:35:20,420 --> 00:35:21,220
+bien perméables.
+
+747
+00:35:21,320 --> 00:35:23,660
+Vous avez les voies aériennes qui sont perméables.
+
+748
+00:35:23,760 --> 00:35:24,800
+Il n'y a pas de CO2 dans
+
+749
+00:35:24,800 --> 00:35:25,740
+le gaz inspiré.
+
+750
+00:35:26,120 --> 00:35:28,720
+150 mm de mercure pour l'oxygène.
+
+751
+00:35:28,860 --> 00:35:30,580
+Dans les alvéoles, il est à 100 mm
+
+752
+00:35:30,580 --> 00:35:32,220
+de mercure.
+
+753
+00:35:32,420 --> 00:35:33,700
+La CO2 est à 40.
+
+754
+00:35:33,700 --> 00:35:34,780
+Tout va bien.
+
+755
+00:35:34,840 --> 00:35:38,080
+La CO2 dans le sang capillaire va être
+
+756
+00:35:38,080 --> 00:35:39,800
+à 45 mm de mercure.
+
+757
+00:35:39,900 --> 00:35:40,340
+Tout va bien.
+
+758
+00:35:40,900 --> 00:35:42,400
+A gauche, vous avez un shunt.
+
+759
+00:35:42,940 --> 00:35:45,440
+Vous avez des bronches qui sont bouchées.
+
+760
+00:35:46,340 --> 00:35:48,400
+La PAO2 va diminuer.
+
+761
+00:35:48,820 --> 00:35:51,160
+Le gaz carbonique va se maintenir.
+
+762
+00:35:51,520 --> 00:35:54,440
+Là, c'est une diminution du rapport ventilation
+
+763
+00:35:54,440 --> 00:35:55,300
+sur perfusion.
+
+764
+00:35:55,400 --> 00:35:57,260
+La ventilation, là, elle est inhibée.
+
+765
+00:35:57,620 --> 00:35:59,380
+Soit un effet shunt, soit un shunt vrai.
+
+766
+00:36:00,100 --> 00:36:01,420
+A droite, c'est l'inverse.
+
+767
+00:36:01,420 --> 00:36:03,240
+C'est la perfusion qui est interrompue.
+
+768
+00:36:03,300 --> 00:36:05,060
+La ventilation est maintenue.
+
+769
+00:36:05,620 --> 00:36:09,240
+La PAO2 sera à 150 mm de mercure
+
+770
+00:36:09,240 --> 00:36:11,940
+et ça va être un effet espace mort
+
+771
+00:36:11,940 --> 00:36:14,060
+par interruption de la perfusion.
+
+772
+00:36:14,500 --> 00:36:16,280
+Là, c'est un rapport de ventilation sur
+
+773
+00:36:16,280 --> 00:36:19,940
+perfusion qui est à l'infini, qui est
+
+774
+00:36:19,940 --> 00:36:20,840
+très augmenté.
+
+775
+00:36:26,040 --> 00:36:28,920
+Quelles sont les différentes causes de l'hypoxémie
+
+776
+00:36:28,920 --> 00:36:30,040
+?
+
+777
+00:36:30,040 --> 00:36:31,380
+Différentes origines plutôt.
+
+778
+00:36:31,900 --> 00:36:33,120
+Alors, qu'est-ce qu'une hypoxémie d
+
+779
+00:36:33,120 --> 00:36:33,360
+'abord ?
+
+780
+00:36:33,360 --> 00:36:34,980
+C'est une diminution de la PAO2 en
+
+781
+00:36:34,980 --> 00:36:37,720
+dessous de 80 mm de mercure.
+
+782
+00:36:39,820 --> 00:36:41,880
+Vous avez tout d'abord l'hypoventilation alvéolaire
+
+783
+00:36:41,880 --> 00:36:42,340
+pure.
+
+784
+00:36:42,460 --> 00:36:44,480
+Les muscles ne respirent plus.
+
+785
+00:36:44,560 --> 00:36:45,760
+Les alvéoles ne respirent plus.
+
+786
+00:36:45,860 --> 00:36:48,800
+Vous avez une hypercapnie associée à cette hypoxie.
+
+787
+00:36:49,360 --> 00:36:51,060
+Vous avez également les troubles de la diffusion
+
+788
+00:36:51,060 --> 00:36:52,040
+alvéolocapillaire.
+
+789
+00:36:52,100 --> 00:36:53,700
+On les a vus par épicissement de la
+
+790
+00:36:53,700 --> 00:36:53,960
+membrane.
+
+791
+00:36:55,000 --> 00:36:57,680
+Elle va donner une hypoxémie aggravée par l
+
+792
+00:36:57,680 --> 00:36:58,260
+'exercice.
+
+793
+00:36:58,800 --> 00:37:00,020
+Et vous avez le shunt vrai.
+
+794
+00:37:01,340 --> 00:37:03,880
+Le shunt vrai ou le shunt droite-gauche.
+
+795
+00:37:04,160 --> 00:37:07,140
+Le shunt vrai, c'est ce qu'on
+
+796
+00:37:07,140 --> 00:37:09,740
+voit dans les pneumonies sévères lorsque les alvéoles
+
+797
+00:37:09,740 --> 00:37:11,100
+sont complètement comblées.
+
+798
+00:37:11,340 --> 00:37:12,520
+Ça veut dire que l'oxygène ne passe
+
+799
+00:37:12,520 --> 00:37:12,900
+plus.
+
+800
+00:37:13,660 --> 00:37:14,920
+C'est une hypoxémie qui n'est pas
+
+801
+00:37:14,920 --> 00:37:16,320
+corrigée par l'oxygène parce que c'est
+
+802
+00:37:16,320 --> 00:37:17,720
+complètement obstrué.
+
+803
+00:37:18,220 --> 00:37:19,920
+Vous aurez beau donner de l'oxygène, ça
+
+804
+00:37:19,920 --> 00:37:20,800
+ne marchera pas.
+
+805
+00:37:21,240 --> 00:37:23,180
+Et vous aurez une hypocapnie parce que le
+
+806
+00:37:23,180 --> 00:37:25,860
+gaz carbonique se dégage plus facilement que l
+
+807
+00:37:25,860 --> 00:37:26,420
+'oxygène.
+
+808
+00:37:26,760 --> 00:37:28,320
+Une hypocapnie d'hyperventilation.
+
+809
+00:37:30,180 --> 00:37:32,800
+Ce phénomène existe aussi au niveau du shunt
+
+810
+00:37:32,800 --> 00:37:35,200
+droit-gauche qui existe au niveau du cœur
+
+811
+00:37:35,200 --> 00:37:36,580
+dans les malformations cardiaques.
+
+812
+00:37:36,980 --> 00:37:38,320
+Vous avez par exemple un trou dans l
+
+813
+00:37:38,320 --> 00:37:40,780
+'oreillette entre les deux oreillettes ou un trou
+
+814
+00:37:40,780 --> 00:37:42,240
+entre les deux ventricules.
+
+815
+00:37:42,400 --> 00:37:44,760
+Vous avez le sang veineux qui va se
+
+816
+00:37:44,760 --> 00:37:45,980
+mélanger au sang artériel.
+
+817
+00:37:46,120 --> 00:37:48,840
+Vous aurez beau donner de l'oxygène, ça
+
+818
+00:37:48,840 --> 00:37:50,300
+ne compensera pas.
+
+819
+00:37:50,720 --> 00:37:51,680
+Et vous avez l'effet shunt.
+
+820
+00:37:52,100 --> 00:37:55,000
+L'effet shunt, c'est une obstruction partielle
+
+821
+00:37:55,000 --> 00:37:56,380
+des voies aériennes.
+
+822
+00:37:56,920 --> 00:37:58,220
+Il y a encore de l'oxygène qui
+
+823
+00:37:58,220 --> 00:37:58,520
+passe.
+
+824
+00:37:58,520 --> 00:38:01,820
+Donc ce phénomène est corrigé, l'hypoxie est
+
+825
+00:38:01,820 --> 00:38:04,400
+corrigée par l'oxygène.
+
+826
+00:38:04,460 --> 00:38:08,100
+Et vous avez une normale hypocapnie d'hyperventilation
+
+827
+00:38:08,100 --> 00:38:10,660
+et c'est le phénomène le plus fréquent.
+
+828
+00:38:14,180 --> 00:38:16,700
+Donc l'hématose ou l'échange adapté d
+
+829
+00:38:16,700 --> 00:38:18,320
+'oxygène et du gaz carbonique entre l'air
+
+830
+00:38:18,320 --> 00:38:21,180
+ambiant et le poumon est assuré par la
+
+831
+00:38:21,180 --> 00:38:25,380
+ventilation alvéolaire qui est corrélée aux pressions partielles
+
+832
+00:38:25,380 --> 00:38:27,540
+alvéolaires en oxygène et en CO2.
+
+833
+00:38:28,100 --> 00:38:29,880
+Elle est corrélée à la diffusion des gaz
+
+834
+00:38:29,880 --> 00:38:31,940
+entre les alvéoles et les capillaires pulmonaires.
+
+835
+00:38:32,400 --> 00:38:34,520
+Elle dépend des gradions des pressions partielles de
+
+836
+00:38:34,520 --> 00:38:36,220
+gaz et de la capacité de diffusion.
+
+837
+00:38:36,920 --> 00:38:41,060
+Elle dépend également du rapport ventilation perfusion VA
+
+838
+00:38:41,060 --> 00:38:44,360
+sur Q qui se distribue de manière hétérogène
+
+839
+00:38:44,360 --> 00:38:46,420
+dans les différents segments pulmonaires.
+
+840
+00:38:47,240 --> 00:38:47,780
+Je vous remercie.

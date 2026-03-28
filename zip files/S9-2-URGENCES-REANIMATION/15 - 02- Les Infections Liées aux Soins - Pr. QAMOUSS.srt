@@ -1,0 +1,1931 @@
+1
+00:00:00,580 --> 00:00:05,560
+Bonjour mes amis, donc on va présenter aujourd
+
+2
+00:00:05,560 --> 00:00:07,860
+'hui le cours intitulé des infections liées aux
+
+3
+00:00:07,860 --> 00:00:08,140
+soins.
+
+4
+00:00:08,720 --> 00:00:10,680
+C'est une pathologie qui est fréquente en
+
+5
+00:00:10,680 --> 00:00:12,660
+milieu de réanimation comme on va le voir
+
+6
+00:00:13,440 --> 00:00:23,320
+et ça comporte plusieurs entités cliniques et la
+
+7
+00:00:23,320 --> 00:00:26,660
+définition, l'introduction, donc c'est la rançon
+
+8
+00:00:26,660 --> 00:00:29,660
+du développement des techniques médicales, ça comporte une
+
+9
+00:00:29,660 --> 00:00:33,240
+mortalité élevée, un surcoût pour la société et
+
+10
+00:00:33,240 --> 00:00:37,500
+puis le principal facteur de risque, c'est
+
+11
+00:00:37,500 --> 00:00:40,780
+l'émergence de bactéries multirésistantes qui continuent à
+
+12
+00:00:40,780 --> 00:00:45,240
+poser un problème majeur de santé publique concernant
+
+13
+00:00:45,240 --> 00:00:50,960
+la résistance aux antibiotiques et la mauvaise gestion
+
+14
+00:00:50,960 --> 00:00:53,360
+et la mauvaise prescription des antibiotiques, on va
+
+15
+00:00:53,360 --> 00:00:54,180
+le voir tout à l'heure.
+
+16
+00:00:55,040 --> 00:00:57,900
+Alors, chaque année en France, 600 000 à
+
+17
+00:00:57,900 --> 00:00:59,500
+1 000 000 victimes d'infections à l
+
+18
+00:00:59,500 --> 00:01:02,420
+'hôpital, dans 1 000 on meurt, ils sont
+
+19
+00:01:02,420 --> 00:01:05,380
+responsables de millions de journées d'hospitalisation supplémentaires
+
+20
+00:01:05,380 --> 00:01:07,160
+et multiplient par 2 la charge de soins
+
+21
+00:01:07,160 --> 00:01:10,260
+infirmiers, multiplient par 3 la dépense en médicaments
+
+22
+00:01:10,260 --> 00:01:13,300
+et multiplient par 7 les examens médicaux, la
+
+23
+00:01:13,300 --> 00:01:16,320
+prévention est un objectif primordial de santé publique.
+
+24
+00:01:17,680 --> 00:01:20,860
+Une infection associée aux soins, si elle survient
+
+25
+00:01:20,860 --> 00:01:22,940
+au décours d'une prise en charge diagnostique
+
+26
+00:01:22,940 --> 00:01:27,400
+thérapeutique palliative, préventive ou éducative d'un patient,
+
+27
+00:01:27,900 --> 00:01:29,460
+s'il n'était ni présente ni en
+
+28
+00:01:29,460 --> 00:01:31,960
+incubation au début de la prise en charge,
+
+29
+00:01:32,080 --> 00:01:34,520
+comprend l'infection nosocomiale, c'est une infection
+
+30
+00:01:34,520 --> 00:01:36,740
+contractée dans l'établissement.
+
+31
+00:01:38,940 --> 00:01:41,320
+Un délai d'au moins 48 heures est
+
+32
+00:01:41,320 --> 00:01:44,160
+couramment accepté pour définir une infection associée aux
+
+33
+00:01:44,160 --> 00:01:46,700
+soins et pour les infections du site opératoire,
+
+34
+00:01:46,800 --> 00:01:47,940
+un délai de 30 jours.
+
+35
+00:01:48,400 --> 00:01:50,020
+Si on a une mise en place d
+
+36
+00:01:50,020 --> 00:01:53,000
+'un implant ou d'une prothèse, en général,
+
+37
+00:01:53,380 --> 00:01:55,120
+c'est la définition qu'on prend, l
+
+38
+00:01:55,120 --> 00:01:56,600
+'année qui suit l'intervention.
+
+39
+00:01:58,600 --> 00:02:00,800
+Les modes de transmission dans la quasi-totalité
+
+40
+00:02:00,800 --> 00:02:02,720
+des cas, elles sont transmises par les mains,
+
+41
+00:02:02,820 --> 00:02:06,100
+donc elles sont maniportées, soit directement, soit indirectement,
+
+42
+00:02:06,400 --> 00:02:09,699
+à partir d'un réservoir externe, donc par
+
+43
+00:02:09,699 --> 00:02:11,860
+voie aérienne ou un produit contaminé ou à
+
+44
+00:02:11,860 --> 00:02:14,200
+partir d'un malade, donc transmission croisée, c
+
+45
+00:02:14,200 --> 00:02:16,780
+'est le cas le plus fréquent, du personnel
+
+46
+00:02:16,780 --> 00:02:19,320
+soignant, du matériel ou l'air, ou bien
+
+47
+00:02:19,320 --> 00:02:23,140
+un mode de transmission endogène, comme on va
+
+48
+00:02:23,140 --> 00:02:23,900
+le voir tout à l'heure.
+
+49
+00:02:26,140 --> 00:02:28,080
+Alors, les facteurs de risque, c'est l
+
+50
+00:02:28,080 --> 00:02:30,000
+'âge et l'état nutritionnel, donc le sujet
+
+51
+00:02:30,000 --> 00:02:32,820
+âgé, l'état nutritionnel altéré, donc les patients
+
+52
+00:02:32,820 --> 00:02:36,580
+très dénutris, cachectiques, sont des facteurs de risque,
+
+53
+00:02:37,080 --> 00:02:39,460
+les nouveaux procédés invasifs de diagnostic et d
+
+54
+00:02:39,460 --> 00:02:42,860
+'assistance, la pression de sélection des antibiotiques, tout
+
+55
+00:02:42,860 --> 00:02:44,600
+à l'heure, on a dit que la
+
+56
+00:02:44,600 --> 00:02:48,900
+prescription non-raisonnée et non-justifiée d'antibiotiques
+
+57
+00:02:48,900 --> 00:02:52,920
+développe un phénomène de résistance et d'émergence
+
+58
+00:02:52,920 --> 00:02:55,540
+de bactéries multirésistantes qui posent d'énormes problèmes
+
+59
+00:02:55,540 --> 00:02:58,520
+pour la société, et puis la mauvaise gestion
+
+60
+00:02:58,520 --> 00:03:00,560
+de l'hygiène individuelle et ou des locaux.
+
+61
+00:03:03,220 --> 00:03:05,880
+Les germes en cause, en général, c'est
+
+62
+00:03:05,880 --> 00:03:09,420
+l'écologie bactérienne diffère d'un service à
+
+63
+00:03:09,420 --> 00:03:11,920
+l'autre, d'une structure à l'autre,
+
+64
+00:03:12,340 --> 00:03:14,600
+et la flore hospitalière est variable, donc selon
+
+65
+00:03:14,600 --> 00:03:17,100
+les services, selon l'antibiothérapie prescrite, les poussées
+
+66
+00:03:17,100 --> 00:03:17,940
+épidémiques, etc.
+
+67
+00:03:18,620 --> 00:03:22,460
+70 à 80% des infections bactériennes sont
+
+68
+00:03:22,460 --> 00:03:24,840
+causées par le coli, le staph aureus, le
+
+69
+00:03:24,840 --> 00:03:27,900
+piocyanique, le staph coagulase négatif ou bien le
+
+70
+00:03:27,900 --> 00:03:29,900
+clébsiel, 5 à 10% c'est des
+
+71
+00:03:29,900 --> 00:03:32,960
+virus dont les rotavirus, le virus respiratoire sensitiel,
+
+72
+00:03:33,020 --> 00:03:34,920
+l'herpès ou bien le virus de la
+
+73
+00:03:34,920 --> 00:03:37,740
+grippe, rarement les champignons à type d'aspergillus
+
+74
+00:03:37,740 --> 00:03:39,300
+ou de candida.
+
+75
+00:03:42,390 --> 00:03:44,450
+Les germes en cause, c'est souvent des
+
+76
+00:03:44,450 --> 00:03:48,070
+bactéries multirésistantes, voire même parfois deux ou trois
+
+77
+00:03:48,070 --> 00:03:51,590
+germes multirésistants, dont les BGN dans 60%
+
+78
+00:03:51,590 --> 00:03:54,170
+des cas et les coxygrammes positifs dans 30
+
+79
+00:03:54,170 --> 00:03:54,850
+% des cas.
+
+80
+00:03:56,550 --> 00:04:00,330
+Alors, les aspects cliniques et les spécificités, donc
+
+81
+00:04:00,330 --> 00:04:03,490
+en termes de fréquence, c'est surtout les
+
+82
+00:04:03,490 --> 00:04:06,330
+infections urinaires suivies des pneumonies, des infections du
+
+83
+00:04:06,330 --> 00:04:08,950
+site opératoire, des infections sur cathéter, des bactéries
+
+84
+00:04:08,950 --> 00:04:10,470
+mies, et puis comme j'ai dit tout
+
+85
+00:04:10,470 --> 00:04:12,430
+à l'heure, la fréquence est variable selon
+
+86
+00:04:12,430 --> 00:04:13,410
+les services.
+
+87
+00:04:16,360 --> 00:04:19,339
+Les infections urinaires associées aux soins représentent à
+
+88
+00:04:19,339 --> 00:04:22,680
+peu près 40%, essentiellement liées au sondage musical,
+
+89
+00:04:23,140 --> 00:04:25,320
+le plus souvent bénite, mais en prolonge la
+
+90
+00:04:25,320 --> 00:04:27,780
+durée de séjour de 2,4 jours en
+
+91
+00:04:27,780 --> 00:04:30,040
+moyenne, et puis c'est le réservoir de
+
+92
+00:04:30,040 --> 00:04:32,740
+bactéries multirésistantes qui pose un véritable problème de
+
+93
+00:04:32,740 --> 00:04:33,420
+santé publique.
+
+94
+00:04:35,200 --> 00:04:37,000
+Voilà, donc c'est au moins un des
+
+95
+00:04:37,000 --> 00:04:40,680
+signes suivants, fièvre supérieure à 38, impériosité émissionnelle,
+
+96
+00:04:41,120 --> 00:04:44,140
+brûlure, douleurs suspibiennes, en l'absence d'une
+
+97
+00:04:44,140 --> 00:04:46,320
+cause infectieuse ou non, et puis un sondage
+
+98
+00:04:46,320 --> 00:04:49,160
+musical, sans sondage musical, pardon, ni autre abord
+
+99
+00:04:49,160 --> 00:04:51,040
+de l'arbre urinaire, et le co-situerie,
+
+100
+00:04:51,480 --> 00:04:54,400
+uroculture positive et plus de 2 micro-organismes
+
+101
+00:04:54,400 --> 00:04:57,600
+différents avec sondage musical ou autre abord de
+
+102
+00:04:57,600 --> 00:04:59,040
+l'arbre urinaire au cours des 7 jours
+
+103
+00:04:59,040 --> 00:05:01,500
+précédents, uroculture positive ou plus de 2 micro
+
+104
+00:05:01,500 --> 00:05:03,040
+-organismes différents.
+
+105
+00:05:04,960 --> 00:05:09,420
+Alors, les spécificités liées à l'âge, c
+
+106
+00:05:09,420 --> 00:05:11,260
+'est les signes cliniques complémentaires possibles, c'est
+
+107
+00:05:11,260 --> 00:05:13,360
+l'aggravation du statut mental ou de la
+
+108
+00:05:13,360 --> 00:05:15,880
+dépendance avec apparition et ou aggravation d'une
+
+109
+00:05:15,880 --> 00:05:19,040
+incontinence, le tout sans cause retrouvée, et puis
+
+110
+00:05:19,040 --> 00:05:22,820
+la présence de moins 3 des signes suivants
+
+111
+00:05:22,820 --> 00:05:25,120
+ou 2 chez le patient sondé, à savoir
+
+112
+00:05:25,120 --> 00:05:28,340
+la fièvre, le frisson, la tension suspibienne, la
+
+113
+00:05:28,340 --> 00:05:31,340
+brûlure, l'incontinence récente, la dysgérie ou la
+
+114
+00:05:31,340 --> 00:05:33,880
+polacurie, l'aggravation ou la dépendance de l
+
+115
+00:05:33,880 --> 00:05:38,960
+'état mental, les urines purinantes et ou présence
+
+116
+00:05:38,960 --> 00:05:41,000
+de nitrites à la bandelette.
+
+117
+00:05:44,640 --> 00:05:46,540
+Et en microbiologie, qu'est-ce que sont
+
+118
+00:05:46,540 --> 00:05:48,840
+les germes retrouvés, c'est surtout les ontérobactéries,
+
+119
+00:05:49,020 --> 00:05:53,360
+le coli, le piocéanique, le pseudomonas, le staph
+
+120
+00:05:53,360 --> 00:05:54,920
+et autres bactéries négatives.
+
+121
+00:05:55,020 --> 00:05:58,520
+On peut rarement trouver des levures, on a
+
+122
+00:05:58,520 --> 00:06:00,920
+une fréquence élevée de BMR et puis le
+
+123
+00:06:00,920 --> 00:06:03,800
+rôle croissant des levures chez une catégorie de
+
+124
+00:06:03,800 --> 00:06:05,820
+patient bien particulière, on va en parler par
+
+125
+00:06:05,820 --> 00:06:06,160
+la suite.
+
+126
+00:06:08,600 --> 00:06:10,800
+Les facteurs de risque d'une infection urinaire
+
+127
+00:06:10,800 --> 00:06:13,600
+associée aux soins, c'est les facteurs extrinsèques,
+
+128
+00:06:13,680 --> 00:06:15,960
+c'est le sondage urinaire, donc la durée,
+
+129
+00:06:16,080 --> 00:06:18,620
+le type de drainage, les instrumentations, l'endoscopie,
+
+130
+00:06:19,080 --> 00:06:21,700
+et puis les facteurs intrinsèques, le sexe, l
+
+131
+00:06:21,700 --> 00:06:24,520
+'âge, le diabète, l'antibiothérapie préalable et puis
+
+132
+00:06:24,520 --> 00:06:25,780
+la pathologie sous-jacente.
+
+133
+00:06:27,400 --> 00:06:29,900
+Les mécanismes d'acquisition d'une infection urinaire
+
+134
+00:06:29,900 --> 00:06:32,060
+en présence d'une sonde, acquisition lors de
+
+135
+00:06:32,060 --> 00:06:33,520
+la mise en place de la sonde, acquisition
+
+136
+00:06:33,520 --> 00:06:38,040
+par voie endoluminale, extraluminale ou périuretrale ou bien
+
+137
+00:06:38,040 --> 00:06:39,740
+acquisition par voie hématogène.
+
+138
+00:06:41,540 --> 00:06:43,780
+Voilà, sur le schéma, vous voyez donc la
+
+139
+00:06:43,780 --> 00:06:46,500
+colonisation propre d'entrée, soit le méas, soit
+
+140
+00:06:46,500 --> 00:06:48,960
+la jonction sonde-collecteur ou bien le site
+
+141
+00:06:48,960 --> 00:06:50,960
+de drainage du collecteur.
+
+142
+00:06:52,560 --> 00:06:57,560
+Les tableaux cliniques peuvent être très variables, parfois
+
+143
+00:06:57,560 --> 00:06:59,920
+des formes symptomatiques à type de cystite, de
+
+144
+00:06:59,920 --> 00:07:03,580
+prostatite ou de pyelonephrite, d'orchide parfois, parfois
+
+145
+00:07:03,580 --> 00:07:06,560
+complication, donc en stade de complication, un sepsis
+
+146
+00:07:06,560 --> 00:07:13,100
+grave, compliquant une cystite avec un retentissement hémodynamique
+
+147
+00:07:13,100 --> 00:07:14,560
+ou bien un abscérinal.
+
+148
+00:07:16,620 --> 00:07:19,280
+Les pneumopathies nosocomiales, c'est le deuxième site
+
+149
+00:07:19,280 --> 00:07:22,140
+d'infection nosocomiale, 30 à 60% de
+
+150
+00:07:22,140 --> 00:07:25,520
+mortalité, 0,5 à 1% des patients
+
+151
+00:07:25,520 --> 00:07:28,780
+hospitalisés, 6 à 20 fois plus de risque
+
+152
+00:07:28,780 --> 00:07:31,480
+si le patient est sous ventilation mécanique.
+
+153
+00:07:31,620 --> 00:07:35,520
+Pneumopathie acquise après 48 heures d'hospitalisation, bien
+
+154
+00:07:35,520 --> 00:07:35,900
+entendu.
+
+155
+00:07:36,460 --> 00:07:39,380
+Alors, les facteurs de risque ou bien les
+
+156
+00:07:39,380 --> 00:07:41,280
+facteurs pronostiques, c'est l'âge au-delà
+
+157
+00:07:41,280 --> 00:07:43,800
+de 60 ans, le caractère bilatéral de la
+
+158
+00:07:43,800 --> 00:07:46,560
+pneumonie, le terrain sous-jacent précaire, donc c
+
+159
+00:07:46,560 --> 00:07:49,140
+'est les patients en général qui ont un
+
+160
+00:07:49,140 --> 00:07:52,820
+BPS, une bronchopneumopathie chronique obstructive, les patients ayant
+
+161
+00:07:52,820 --> 00:07:55,840
+un poumon ophisémateur, les patients ayant une insuffisance
+
+162
+00:07:55,840 --> 00:07:58,600
+respiratoire, donc c'est des patients fragiles ayant
+
+163
+00:07:58,600 --> 00:08:01,680
+déjà un poumon altéré qui, exposé à la
+
+164
+00:08:01,680 --> 00:08:04,820
+pneumopathie acquise, donc aggrave le pronostic, on aura
+
+165
+00:08:04,820 --> 00:08:08,220
+en général une détresse respiratoire associée, un échec
+
+166
+00:08:08,220 --> 00:08:09,640
+de l'antibiothérapie instaurée.
+
+167
+00:08:10,140 --> 00:08:12,600
+Et là, on note deux germes très fréquents
+
+168
+00:08:12,600 --> 00:08:15,660
+dans nos structures, malheureusement, c'est le biocyanique
+
+169
+00:08:15,660 --> 00:08:17,020
+et l'asymptobactère boumanie.
+
+170
+00:08:17,820 --> 00:08:22,340
+Et puis, cette pneumopathie acquise sous ventilation mécanique
+
+171
+00:08:22,340 --> 00:08:24,320
+peut se compliquer d'un état de choc
+
+172
+00:08:24,320 --> 00:08:26,240
+sceptique au milieu de réanimation.
+
+173
+00:08:28,760 --> 00:08:31,460
+Les micro-organismes responsables, c'est surtout les
+
+174
+00:08:31,460 --> 00:08:34,860
+BGN, dont le pseudomonas dans la moitié des
+
+175
+00:08:34,860 --> 00:08:37,980
+cas, le staphylococque, et puis on peut trouver
+
+176
+00:08:37,980 --> 00:08:41,799
+des agents phalgiques, rarement impliqués, le streptococcnomonie, l
+
+177
+00:08:41,799 --> 00:08:43,440
+'hémophilus, les gionnelles, les virus.
+
+178
+00:08:44,240 --> 00:08:47,060
+Et un fait important, c'est que fréquemment,
+
+179
+00:08:47,180 --> 00:08:49,060
+dans 30 à 40% des cas, on
+
+180
+00:08:49,060 --> 00:08:53,340
+a une flore plurimicrobienne ou bien multimicrobienne.
+
+181
+00:08:56,000 --> 00:08:57,660
+Les germes aux causes sont variables selon la
+
+182
+00:08:57,660 --> 00:09:01,140
+précocité, la maladie sous-jacente, l'intubation tracheale
+
+183
+00:09:01,140 --> 00:09:02,680
+et l'antibiothérapie instaurée.
+
+184
+00:09:06,180 --> 00:09:07,840
+Les facteurs de risque, c'est la durée
+
+185
+00:09:07,840 --> 00:09:09,920
+de la ventilation mécanique en général de plus
+
+186
+00:09:09,920 --> 00:09:12,000
+de 6 jours, les troubles de conscience, les
+
+187
+00:09:12,000 --> 00:09:15,120
+troubles de déglutition avec inhalation, le traumatisme thoracique,
+
+188
+00:09:15,200 --> 00:09:18,440
+l'antibiothérapie antérieure, le decubitus dorsal, le terrain
+
+189
+00:09:18,440 --> 00:09:20,040
+sous-jacent, donc les patients, comme j'ai
+
+190
+00:09:20,040 --> 00:09:23,260
+dit tout à l'heure, tabagiques, dénutris, immunodéprimés,
+
+191
+00:09:23,400 --> 00:09:26,120
+âgés, les maladies respiratoires chroniques sous-jacentes sont
+
+192
+00:09:26,120 --> 00:09:28,140
+des malades des terrains à risque.
+
+193
+00:09:29,920 --> 00:09:32,600
+Le mécanisme d'infection, la contamination de l
+
+194
+00:09:32,600 --> 00:09:36,060
+'oropharynx par les bactéries d'origine digestive, donc
+
+195
+00:09:36,060 --> 00:09:39,860
+à travers les micro-inhalations, les micro-traumatismes,
+
+196
+00:09:40,300 --> 00:09:42,300
+et puis la contamination directe par le matériel
+
+197
+00:09:42,300 --> 00:09:45,520
+de ventilation par une infection de voisinage, et
+
+198
+00:09:45,520 --> 00:09:49,340
+puis rarement une contamination par voie hématogène.
+
+199
+00:09:51,420 --> 00:09:54,640
+Les pneumopathies peuvent être classées en pneumopathie précoce
+
+200
+00:09:54,640 --> 00:09:56,000
+ou bien pneumopathie tardive.
+
+201
+00:09:56,360 --> 00:09:58,540
+Les pneumopathies précoces surviennent en général avant le
+
+202
+00:09:58,540 --> 00:10:01,880
+cinquième jour d'hospitalisation, donc c'est en
+
+203
+00:10:01,880 --> 00:10:04,180
+général dû aux bactéries commensales du malade.
+
+204
+00:10:05,000 --> 00:10:07,900
+Les pneumopathies tardives surviennent après le cinquième jour
+
+205
+00:10:07,900 --> 00:10:10,520
+d'hospitalisation et là on retrouve, on a
+
+206
+00:10:10,520 --> 00:10:12,480
+la chance de retrouver plus de germes mutures
+
+207
+00:10:12,480 --> 00:10:15,500
+résistants, à savoir le pseudomonas, l'asymptobactère, le
+
+208
+00:10:15,500 --> 00:10:20,160
+clébsiel et le staphylococcus aureus, méticillines résistants.
+
+209
+00:10:21,680 --> 00:10:24,460
+Le diagnostic diffère selon un malade intubé ou
+
+210
+00:10:24,460 --> 00:10:24,580
+non.
+
+211
+00:10:24,720 --> 00:10:26,940
+Il faut distinguer une colonisation d'une infection,
+
+212
+00:10:27,320 --> 00:10:29,900
+au général, elle repose sur un faisceau d
+
+213
+00:10:29,900 --> 00:10:33,680
+'arguments clinico-biologiques et bactériologiques, donc on a
+
+214
+00:10:33,680 --> 00:10:36,420
+à faire soit une pneumopathie certaine ou probable,
+
+215
+00:10:36,560 --> 00:10:38,320
+ou bien une pneumopathie possible.
+
+216
+00:10:40,640 --> 00:10:43,360
+Les critères du diagnostic radioclinique, c'est la
+
+217
+00:10:43,360 --> 00:10:45,540
+présence d'un nouvel infiltrat évolutif et au
+
+218
+00:10:45,540 --> 00:10:47,340
+moins deux des signes suivants en absence de
+
+219
+00:10:47,340 --> 00:10:50,600
+tout autre foyer, à savoir la température supérieure
+
+220
+00:10:50,600 --> 00:10:52,720
+à 38°C en absence de tout autre foyer
+
+221
+00:10:52,720 --> 00:10:56,220
+infectieux, la purulence des expectorations, l'augmentation des
+
+222
+00:10:56,220 --> 00:10:58,820
+besoins en oxygène, en l'occurrence la fraction
+
+223
+00:10:58,820 --> 00:11:02,280
+inspirée en oxygène, l'hyperglycocytose supérieure à 10
+
+224
+00:11:02,280 --> 00:11:04,820
+000 ou inférieure à 4 000 par millimètre
+
+225
+00:11:04,820 --> 00:11:05,100
+cube.
+
+226
+00:11:06,600 --> 00:11:10,480
+Les critères du diagnostic microbiologique reposent sur les
+
+227
+00:11:10,480 --> 00:11:13,840
+différents types de prélèvements, les hémocultures systématiques, les
+
+228
+00:11:13,840 --> 00:11:16,680
+prélèvements des voies respiratoires inférieures avant le début
+
+229
+00:11:16,680 --> 00:11:19,460
+des antibiotiques, ça c'est très important pour
+
+230
+00:11:19,460 --> 00:11:22,300
+pouvoir ajuster l'antibiotherapie, et puis la recherche
+
+231
+00:11:22,300 --> 00:11:23,580
+d'antigènes solides.
+
+232
+00:11:25,780 --> 00:11:27,820
+Alors les moyens de diagnostic, c'est ce
+
+233
+00:11:27,820 --> 00:11:30,040
+que vous voyez sur la photo, donc le
+
+234
+00:11:30,040 --> 00:11:34,020
+brossage télescopique protégé, le brossage bronchique ou télescopique
+
+235
+00:11:34,020 --> 00:11:36,900
+protégé, donc le seuil de positivité des cultures
+
+236
+00:11:36,900 --> 00:11:39,520
+est de 10 puissance 3 unités formant colonie
+
+237
+00:11:39,520 --> 00:11:44,820
+par millilitre, cet examen a une sensibilité, une
+
+238
+00:11:44,820 --> 00:11:49,600
+spécificité avoisinant les 70%, le lavage broncho-alvéolaire,
+
+239
+00:11:49,600 --> 00:11:54,240
+donc on aura une absence de cellules épithélienses
+
+240
+00:11:54,240 --> 00:11:56,580
+crômeuses et présence de germes en général du
+
+241
+00:11:56,580 --> 00:11:59,120
+supérieur à 10 puissance 4 unités formant colonie
+
+242
+00:11:59,120 --> 00:12:03,960
+par millilitre, la concordance avec le brossage télescopique
+
+243
+00:12:03,960 --> 00:12:06,660
+protégé est de 90%, et puis l'aspiration
+
+244
+00:12:06,660 --> 00:12:09,800
+endothraquiale avec un seuil de 10 puissance 5,
+
+245
+00:12:09,860 --> 00:12:11,820
+c'est une méthode simple, non invasive, avec
+
+246
+00:12:11,820 --> 00:12:15,560
+une bonne concordance avec le brossage bronchique protégé.
+
+247
+00:12:17,640 --> 00:12:21,000
+L'infection du site opératoire, c'est à
+
+248
+00:12:21,000 --> 00:12:22,760
+peu près 3 à 7% des opérés,
+
+249
+00:12:23,180 --> 00:12:24,980
+elle prolonge la durée de séjour hospitalier de
+
+250
+00:12:24,980 --> 00:12:27,040
+7 jours en moyenne, ils sont classés en
+
+251
+00:12:27,040 --> 00:12:29,400
+deux groupes selon la profondeur de l'infection,
+
+252
+00:12:31,340 --> 00:12:35,880
+alors l'infection superficielle, c'est une infection
+
+253
+00:12:35,880 --> 00:12:38,580
+survenant dans les 30 jours suivant l'intervention
+
+254
+00:12:38,580 --> 00:12:41,000
+et affectant la peau ou les muqueuses des
+
+255
+00:12:41,000 --> 00:12:42,920
+tissus sous-cutanés ou les tissus situés au
+
+256
+00:12:42,920 --> 00:12:45,800
+-dessus de la poneybrose, alors on peut avoir
+
+257
+00:12:45,800 --> 00:12:47,960
+soit un écoulement périllant de l'incision ou
+
+258
+00:12:47,960 --> 00:12:51,560
+bien des micro-organismes associés à des polynucléaires
+
+259
+00:12:51,560 --> 00:12:54,280
+neutrophiles à l'examen direct isolé par culture
+
+260
+00:12:54,280 --> 00:12:57,040
+obtenue de façon aseptique de liquide produit par
+
+261
+00:12:57,040 --> 00:13:00,280
+incision superficielle ou un prélèvement tissulaire.
+
+262
+00:13:01,860 --> 00:13:04,360
+L'infection profonde, c'est une infection survenant
+
+263
+00:13:04,360 --> 00:13:06,280
+dans les 30 jours suivant l'intervention, dans
+
+264
+00:13:06,280 --> 00:13:07,480
+l'année s'il y a mise en
+
+265
+00:13:07,480 --> 00:13:10,260
+place d'un implant, d'une prothèse, d
+
+266
+00:13:10,260 --> 00:13:12,860
+'un matériel prothétique affectant les tissus ou les
+
+267
+00:13:12,860 --> 00:13:16,020
+organes ou l'espace situé au-dessus de
+
+268
+00:13:16,020 --> 00:13:19,740
+la poneybrose de revêtement, alors on peut avoir
+
+269
+00:13:19,740 --> 00:13:22,780
+soit un écoulement périllant provenant d'un drain
+
+270
+00:13:22,780 --> 00:13:25,600
+sous-aponeurotique ou placé dans l'organe ou
+
+271
+00:13:25,600 --> 00:13:27,820
+le site de l'espace, on peut avoir
+
+272
+00:13:27,820 --> 00:13:30,080
+dans le deuxième cas soit une déhiscence spontanée
+
+273
+00:13:30,080 --> 00:13:32,900
+de l'incision ou ouverture par le chirurgien
+
+274
+00:13:32,900 --> 00:13:35,400
+et au moins un des signes suivants, à
+
+275
+00:13:35,400 --> 00:13:37,460
+savoir la fièvre, la douleur localisée ou la
+
+276
+00:13:37,460 --> 00:13:40,220
+sensibilité à la palpation et l'isolement d
+
+277
+00:13:40,220 --> 00:13:42,480
+'un micro-organisme par culture obtenue de façon
+
+278
+00:13:42,480 --> 00:13:46,020
+aseptique d'un prélèvement de l'organe ou
+
+279
+00:13:46,020 --> 00:13:48,560
+du site ou de l'espace aux cultures
+
+280
+00:13:48,560 --> 00:13:49,140
+non faites.
+
+281
+00:13:50,900 --> 00:13:52,820
+Le troisième cas, c'est la présence d
+
+282
+00:13:52,820 --> 00:13:54,980
+'un abcès ou autre signe d'infection observé
+
+283
+00:13:54,980 --> 00:13:58,160
+lors d'une réintervention chirurgicale, d'un examen
+
+284
+00:13:58,160 --> 00:14:00,780
+histopathologique, d'un examen d'imagerie ou d
+
+285
+00:14:00,780 --> 00:14:02,380
+'un acte de radiologie interventionnelle.
+
+286
+00:14:05,320 --> 00:14:07,540
+La présence de pus permet de faire le
+
+287
+00:14:07,540 --> 00:14:09,740
+diagnostic et si l'écoulement est d'allure
+
+288
+00:14:09,740 --> 00:14:12,440
+non-périllante, la présence de polynucléaires neutrophiles en
+
+289
+00:14:12,440 --> 00:14:15,820
+grand nombre confirme le diagnostic dans un délai
+
+290
+00:14:15,820 --> 00:14:18,360
+de 30 jours et puis une année pour
+
+291
+00:14:18,360 --> 00:14:19,940
+la prothèse et l'implant.
+
+292
+00:14:22,200 --> 00:14:23,960
+Les germes en cause, c'est surtout le
+
+293
+00:14:23,960 --> 00:14:27,960
+staph et les entérobactéries, le pseudomonas également peut
+
+294
+00:14:27,960 --> 00:14:30,860
+figurer dans ce genre d'infection, l'enterococque
+
+295
+00:14:30,860 --> 00:14:33,720
+également, les coxygrammes positifs prédominent en cas de
+
+296
+00:14:33,720 --> 00:14:37,420
+chirurgie propre, les bacilligrames négatifs et les anaerobies
+
+297
+00:14:37,420 --> 00:14:39,580
+prédominent en cas de chirurgie digestive.
+
+298
+00:14:42,160 --> 00:14:44,280
+Alors les facteurs favorisants, il y a des
+
+299
+00:14:44,280 --> 00:14:46,420
+facteurs pré, père et post-opératoire.
+
+300
+00:14:46,820 --> 00:14:51,480
+Les facteurs pré-opératoires, alors le rasage c
+
+301
+00:14:51,480 --> 00:14:54,460
+'est un facteur favorisant pour roi parce qu
+
+302
+00:14:54,460 --> 00:14:58,380
+'il crée des micro-traumatismes, le séjour hospitalier
+
+303
+00:14:58,380 --> 00:15:01,440
+prolongé avant l'intervention également, l'absence d
+
+304
+00:15:01,440 --> 00:15:05,360
+'antibio-prophylaxie si indiquée et puis les facteurs
+
+305
+00:15:05,360 --> 00:15:07,900
+pré-opératoires, c'est l'architecture des locaux
+
+306
+00:15:07,900 --> 00:15:11,580
+qui n'est pas conforme, une climatisation ou
+
+307
+00:15:11,580 --> 00:15:14,540
+une stérilisation défectueuse, la durée prolongée de l
+
+308
+00:15:14,540 --> 00:15:18,200
+'intervention, l'utilisation des champs opératoires adhésifs, les
+
+309
+00:15:18,200 --> 00:15:20,680
+moustades incorrectes ou le drainage insuffisant des collections
+
+310
+00:15:20,680 --> 00:15:23,920
+opératoires et puis les facteurs post-opératoires, c
+
+311
+00:15:23,920 --> 00:15:27,360
+'est l'état nutritionnel précaire, l'instrumentation, donc
+
+312
+00:15:27,360 --> 00:15:29,880
+la sonde physicale, cathéter veineux, canules d'intubation,
+
+313
+00:15:30,340 --> 00:15:30,560
+etc.
+
+314
+00:15:33,240 --> 00:15:37,240
+La contamination survient essentiellement en période opératoire du
+
+315
+00:15:37,240 --> 00:15:40,720
+point de vue physiopathologique et les germes proviennent
+
+316
+00:15:40,720 --> 00:15:43,280
+du patient lui-même, soit du site opératoire,
+
+317
+00:15:43,500 --> 00:15:45,260
+soit de la flore cutanée.
+
+318
+00:15:47,760 --> 00:15:51,120
+Cette infection survient en général dans un délai
+
+319
+00:15:51,120 --> 00:15:53,380
+de 5 à 20 jours au post-opératoire
+
+320
+00:15:53,380 --> 00:15:55,500
+et les plus tardifs en cas de présence
+
+321
+00:15:55,500 --> 00:15:56,060
+de prothèse.
+
+322
+00:15:56,140 --> 00:15:57,820
+Le signe le plus constant, c'est les
+
+323
+00:15:57,820 --> 00:15:59,880
+signes inflammatoires au niveau de la cicatrice avec
+
+324
+00:15:59,880 --> 00:16:01,980
+des douleurs à la palpation, des rougeurs, des
+
+325
+00:16:01,980 --> 00:16:04,440
+chaleurs, le diagnostic s'il est survenu d
+
+326
+00:16:04,440 --> 00:16:06,860
+'un écoulement purulent et puis la fièvre, elle
+
+327
+00:16:06,860 --> 00:16:09,460
+est inconstante, elle est fréquente mais elle est
+
+328
+00:16:09,460 --> 00:16:10,100
+inconstante.
+
+329
+00:16:13,060 --> 00:16:15,180
+Pour les infections liées au cathéter, c'est
+
+330
+00:16:15,180 --> 00:16:16,960
+la présence de micro-organismes dans la surface
+
+331
+00:16:16,960 --> 00:16:19,620
+interne ou externe et ou externe du cathéter
+
+332
+00:16:19,620 --> 00:16:22,220
+responsable d'une infection avec présence de pus
+
+333
+00:16:22,220 --> 00:16:24,360
+au point de ponction, donc en général c
+
+334
+00:16:24,360 --> 00:16:27,180
+'est ce qu'on appelle, ça crée un
+
+335
+00:16:27,180 --> 00:16:30,020
+tunnel et on appelle ça une tunélite, le
+
+336
+00:16:30,020 --> 00:16:33,140
+seul signe pathogrammonique de l'infection sur cathéter.
+
+337
+00:16:35,280 --> 00:16:37,920
+Alors la bactériémie liée au cathéter, elle est
+
+338
+00:16:37,920 --> 00:16:40,420
+définie par l'association d'une bactériémie ou
+
+339
+00:16:40,420 --> 00:16:43,440
+phongémie survenant dans les 48 heures encadrant le
+
+340
+00:16:43,440 --> 00:16:47,300
+retrait du cathéter vénocentral, soit une culture positive
+
+341
+00:16:47,300 --> 00:16:49,820
+avec le même micro-organisme sur l'un
+
+342
+00:16:49,820 --> 00:16:55,280
+des prélèvements suivants, soit, prélèvements suivants c'est
+
+343
+00:16:55,280 --> 00:16:56,800
+-à-dire une culture du site d'insertion
+
+344
+00:16:56,800 --> 00:17:00,380
+aux cultures du cathéter vénocentral, soit des hémocultures
+
+345
+00:17:00,380 --> 00:17:03,099
+périphériques et centrales positives au même micro-organisme
+
+346
+00:17:03,099 --> 00:17:07,880
+avec un rapport hémoculture quantitative centrale, hémoculture périphérique
+
+347
+00:17:07,880 --> 00:17:10,240
+supérieur à 5, ou un délai différentiel de
+
+348
+00:17:10,240 --> 00:17:16,119
+positivité des hémocultures centrales par rapport périphérique supérieur
+
+349
+00:17:16,119 --> 00:17:16,500
+à 2.
+
+350
+00:17:21,619 --> 00:17:25,920
+Alors les cathéters vénocentraux, donc c'est, on
+
+351
+00:17:25,920 --> 00:17:29,640
+distingue une infection liée au cathéter central local
+
+352
+00:17:29,640 --> 00:17:32,760
+ou bien général, donc en général local, c
+
+353
+00:17:32,760 --> 00:17:35,220
+'est quand on a une culture supérieure à
+
+354
+00:17:35,220 --> 00:17:38,620
+10 puissance 3 unités formant colonie par millilitre
+
+355
+00:17:38,620 --> 00:17:40,280
+et la purulence de l'orifice d'entrée
+
+356
+00:17:40,280 --> 00:17:42,720
+du cathéter ou une tunélite, donc ça c
+
+357
+00:17:42,720 --> 00:17:45,860
+'est local, général quand on a une culture
+
+358
+00:17:45,860 --> 00:17:48,700
+positive avec le même seuil et une régression
+
+359
+00:17:48,700 --> 00:17:50,600
+totale ou partielle des signes d'infection généraux
+
+360
+00:17:50,600 --> 00:17:53,000
+dans les 48 heures suivant l'ablation du
+
+361
+00:17:53,000 --> 00:17:53,600
+cathéter.
+
+362
+00:17:55,580 --> 00:17:58,860
+Pour les cathéters vénopériphériques, on a une bactérie
+
+363
+00:17:58,860 --> 00:18:01,480
+émilie à un cathéter vénopériphérique quand on a
+
+364
+00:18:01,480 --> 00:18:03,620
+une association d'une bactérie émilie survenant dans
+
+365
+00:18:03,620 --> 00:18:06,160
+les 48 heures suivant le retrait du cathéter
+
+366
+00:18:06,160 --> 00:18:08,140
+vénopériphérique et l'un des éléments suivants, à
+
+367
+00:18:08,140 --> 00:18:11,500
+savoir une culture du cathéter vénopériphérique supérieur à
+
+368
+00:18:11,500 --> 00:18:14,300
+10 puissance 3 unités formant colonie avec le
+
+369
+00:18:14,300 --> 00:18:16,180
+même micro-organisme ou la présence de pus
+
+370
+00:18:16,180 --> 00:18:19,320
+au site d'insertion du cathéter vénopériphérique en
+
+371
+00:18:19,320 --> 00:18:21,340
+l'absence d'une autre porte d'entrée
+
+372
+00:18:21,340 --> 00:18:22,560
+identifiée.
+
+373
+00:18:25,440 --> 00:18:27,640
+En l'absence de bactéries émilies, le diagnostic
+
+374
+00:18:27,640 --> 00:18:31,640
+d'infection liée au cathéter vénopériphérique central ou
+
+375
+00:18:31,640 --> 00:18:34,840
+périphérique repose sur une infection liée au cathéter
+
+376
+00:18:34,840 --> 00:18:37,880
+local avec une culture positive supérieure à 10
+
+377
+00:18:37,880 --> 00:18:40,720
+puissance 3 unités formant colonie ou la présence
+
+378
+00:18:40,720 --> 00:18:42,960
+de pus et puis l'infection liée au
+
+379
+00:18:42,960 --> 00:18:44,700
+cathéter général c'est quand on a une
+
+380
+00:18:44,700 --> 00:18:46,880
+culture positive et une agression totale ou partielle
+
+381
+00:18:46,880 --> 00:18:49,880
+des signes infectieux généraux ou dans les 48
+
+382
+00:18:49,880 --> 00:18:51,860
+heures suivant le retrait du cathéter.
+
+383
+00:18:53,420 --> 00:18:56,720
+Pour les cathéters de longue durée, même définition
+
+384
+00:18:56,720 --> 00:18:59,080
+que les cathéters vénocentraux avec apparition de signes
+
+385
+00:18:59,080 --> 00:19:01,060
+cliniques lors de l'utilisation de lignes véneuses,
+
+386
+00:19:01,140 --> 00:19:03,580
+à savoir le branchement d'une perfusion, elle
+
+387
+00:19:03,580 --> 00:19:06,760
+est hautement prédictive d'infection sur cathéter.
+
+388
+00:19:08,580 --> 00:19:10,840
+La fréquence des bactéries émilies sur cathéter est
+
+389
+00:19:10,840 --> 00:19:12,500
+variable selon le type de cathéter.
+
+390
+00:19:12,620 --> 00:19:14,520
+Elle est de moins de 1% pour
+
+391
+00:19:14,520 --> 00:19:17,280
+les cathéters vénopériphériques et les chambres implantables, de
+
+392
+00:19:17,280 --> 00:19:19,420
+1 à 8% pour les cathéters vénocentraux
+
+393
+00:19:19,420 --> 00:19:26,240
+et 10 à 15% des infections nosocomiales
+
+394
+00:19:26,240 --> 00:19:28,560
+et 20% des bactéries émilies nosocomiales.
+
+395
+00:19:30,320 --> 00:19:32,460
+Les germes onco c'est surtout le staph
+
+396
+00:19:32,460 --> 00:19:39,000
+aureus et les BGN et puis on va
+
+397
+00:19:39,000 --> 00:19:41,380
+finir ce cours par les mesures de prévention
+
+398
+00:19:41,380 --> 00:19:44,480
+qui occupent une place très importante pour les
+
+399
+00:19:44,480 --> 00:19:45,620
+infections liées aux soins.
+
+400
+00:19:46,240 --> 00:19:48,080
+Il y a plusieurs mesures, c'est les
+
+401
+00:19:48,080 --> 00:19:51,640
+mesures insuffitionnelles tout d'abord avec une politique
+
+402
+00:19:52,100 --> 00:19:54,180
+de lutte contre les infections nosocomiales au sein
+
+403
+00:19:54,180 --> 00:19:56,320
+de chaque établissement et là c'est le
+
+404
+00:19:56,320 --> 00:19:58,320
+rôle du clan, le comité de lutte contre
+
+405
+00:19:58,320 --> 00:20:00,540
+l'infection nosocomiale et le comité d'hygiène
+
+406
+00:20:00,540 --> 00:20:03,420
+hospitalière, l'évaluation et l'accréditation dans le
+
+407
+00:20:03,420 --> 00:20:06,840
+domaine du risque infectieux, la surveillance épidémiologique des
+
+408
+00:20:06,840 --> 00:20:09,300
+infections nosocomiales, ça c'est un volet très
+
+409
+00:20:09,300 --> 00:20:13,360
+important pour retrouver l'écologie bactérienne au sein,
+
+410
+00:20:13,880 --> 00:20:20,660
+donc pour caractériser le type de germes et
+
+411
+00:20:20,660 --> 00:20:23,360
+d'écologie bactérienne qui sont présents au sein
+
+412
+00:20:23,360 --> 00:20:26,700
+de la structure, le suivi d'indicateurs microbiologiques
+
+413
+00:20:26,700 --> 00:20:29,640
+à savoir les bactéries multirésistantes qui comme j
+
+414
+00:20:29,640 --> 00:20:32,860
+'ai dit représentent un problème majeur de santé
+
+415
+00:20:32,860 --> 00:20:36,520
+publique et surtout l'émergence de résistance bactérienne
+
+416
+00:20:36,520 --> 00:20:38,720
+qui pose d'énormes problèmes au sein de
+
+417
+00:20:38,720 --> 00:20:40,040
+nos services de réanimation.
+
+418
+00:20:41,820 --> 00:20:44,500
+Et puis les mesures concernant la formation, surtout
+
+419
+00:20:44,500 --> 00:20:46,880
+la formation continue concernant le bon usage des
+
+420
+00:20:46,880 --> 00:20:49,580
+antibiotiques, la formation des médecins, des jeunes médecins,
+
+421
+00:20:49,680 --> 00:20:52,680
+des internes, des résidents concernant le bon usage
+
+422
+00:20:52,680 --> 00:20:55,200
+des antibiotiques, les mesures concernant l'architecture des
+
+423
+00:20:55,200 --> 00:20:57,380
+locaux, les circuits et les matériaux, ça aussi
+
+424
+00:20:57,380 --> 00:20:59,680
+c'est très important, les mesures d'hygiène
+
+425
+00:20:59,680 --> 00:21:01,800
+de base et d'hygiène des soins, les
+
+426
+00:21:01,800 --> 00:21:04,800
+mesures concernant des dispositifs médicaux à savoir le
+
+427
+00:21:04,800 --> 00:21:08,300
+nettoyage, la désinfection et la stérilisation et puis
+
+428
+00:21:08,300 --> 00:21:10,440
+les mesures concernant l'environnement à savoir la
+
+429
+00:21:10,440 --> 00:21:12,700
+maîtrise de la qualité d'air et de
+
+430
+00:21:12,700 --> 00:21:14,500
+l'eau, la maîtrise de l'élimination des
+
+431
+00:21:14,500 --> 00:21:16,380
+déchets et de l'activité des soins, en
+
+432
+00:21:16,380 --> 00:21:18,500
+l'occurrence les déchets hospitaliers qu'on appelle
+
+433
+00:21:18,500 --> 00:21:19,060
+les dâceries.
+
+434
+00:21:21,700 --> 00:21:27,340
+Alors en conclusion, vous avez les mesures préventives
+
+435
+00:21:27,340 --> 00:21:31,360
+en fonction de, c'est-à-dire la
+
+436
+00:21:31,360 --> 00:21:34,240
+tenue du personnel, le lavage des mains, le
+
+437
+00:21:34,240 --> 00:21:36,180
+matériel de soin et puis les soins, donc
+
+438
+00:21:36,180 --> 00:21:38,360
+vous avez un certain nombre de mesures qui
+
+439
+00:21:38,360 --> 00:21:42,740
+doivent être appliquées à chaque, à chaque, à
+
+440
+00:21:42,740 --> 00:21:45,760
+chaque centopôle personnel, donc le masque pour par
+
+441
+00:21:45,760 --> 00:21:48,000
+exemple la tenue du personnel, le surblot stérile
+
+442
+00:21:48,000 --> 00:21:50,380
+ou non, ou non, renouveler toutes les 8
+
+443
+00:21:50,380 --> 00:21:52,680
+heures ou plus, fréquemment s'essuyer, le port
+
+444
+00:21:52,680 --> 00:21:54,460
+de gants à usage unique stérile ou non,
+
+445
+00:21:54,920 --> 00:21:56,240
+pour le lavage des mains c'est très
+
+446
+00:21:56,240 --> 00:21:59,120
+important avec un savon antiseptique à l'entrée
+
+447
+00:21:59,120 --> 00:22:01,500
+et à la sortie, donc ça c'est
+
+448
+00:22:01,500 --> 00:22:05,000
+très important, les surchaussures, le port de surchaussures,
+
+449
+00:22:05,340 --> 00:22:06,880
+pour le matériel de soin il faut utiliser
+
+450
+00:22:06,880 --> 00:22:09,520
+au maximum de l'usage unique stérile ou
+
+451
+00:22:09,520 --> 00:22:13,120
+non, le matériel réutilisable doit être nettoyé, désinfecté,
+
+452
+00:22:13,240 --> 00:22:16,340
+stérilisé tous les jours, ok, et pour les
+
+453
+00:22:16,340 --> 00:22:19,640
+soins doivent être individualisés par malade ou regroupés
+
+454
+00:22:19,640 --> 00:22:20,540
+pour un malade donné.
+
+455
+00:22:22,020 --> 00:22:26,060
+Pour le linge, les pyjamas, les draps et
+
+456
+00:22:26,060 --> 00:22:28,880
+les serviettes, ils doivent avoir un circuit approprié
+
+457
+00:22:28,880 --> 00:22:31,840
+pour le lavage, limiter ou proscrire le port
+
+458
+00:22:31,840 --> 00:22:34,220
+de linge personnel et puis il faut évacuer
+
+459
+00:22:34,220 --> 00:22:37,140
+immédiatement le linge sale, l'alimentation doit être
+
+460
+00:22:37,140 --> 00:22:42,540
+protégée sur prescription médicale, vaisselle stérile, privilégier les
+
+461
+00:22:42,540 --> 00:22:46,100
+aliments en petit conditionnement industriel et unitaire, nettoyer
+
+462
+00:22:46,100 --> 00:22:48,580
+et désinfecter le conditionnement avant d'introduire dans
+
+463
+00:22:48,580 --> 00:22:51,940
+la chambre, il faut proscrire les crudités, le
+
+464
+00:22:51,940 --> 00:22:53,940
+dossier du malade en général doit être laissé
+
+465
+00:22:53,940 --> 00:22:56,280
+à l'extérieur de la chambre, les déplacements
+
+466
+00:22:56,280 --> 00:22:58,960
+des malades doivent être limités, mettre un masque
+
+467
+00:22:58,960 --> 00:23:01,500
+de soin aux patients, informer les brancardiers et
+
+468
+00:23:01,500 --> 00:23:04,440
+les ambulanciers, désinfecter le moyen transport préalable avec
+
+469
+00:23:04,440 --> 00:23:07,900
+un détergent et puis avertir le personnel des
+
+470
+00:23:07,900 --> 00:23:08,760
+services concernés.
+
+471
+00:23:09,840 --> 00:23:12,680
+Alors les visiteurs, là aussi c'est très
+
+472
+00:23:12,680 --> 00:23:15,960
+important, donc il faut limiter le nombre de
+
+473
+00:23:15,960 --> 00:23:18,200
+visiteurs, il faut informer les mesures d'isolement,
+
+474
+00:23:18,980 --> 00:23:21,380
+il faut porter une surblouse, il faut un
+
+475
+00:23:21,380 --> 00:23:23,040
+lavage antiseptique des mains à l'entrée de
+
+476
+00:23:23,040 --> 00:23:25,760
+la chambre, pour les objets personnels il faut
+
+477
+00:23:25,760 --> 00:23:28,480
+alimiter ou proscrire, pour les déchets ne pas
+
+478
+00:23:28,480 --> 00:23:30,220
+stocker dans la chambre, les circuits de déchets
+
+479
+00:23:30,220 --> 00:23:32,400
+d'activité des soins et pour l'entretien
+
+480
+00:23:32,400 --> 00:23:34,520
+de l'environnement, matériel d'entrée aussi réservé
+
+481
+00:23:34,520 --> 00:23:36,640
+à la chambre, à nettoyer et à désinfecter
+
+482
+00:23:36,640 --> 00:23:42,800
+en deux utilisations, entretien quotidien associant obligatoirement détergents
+
+483
+00:23:42,800 --> 00:23:43,080
+et désinfectants.

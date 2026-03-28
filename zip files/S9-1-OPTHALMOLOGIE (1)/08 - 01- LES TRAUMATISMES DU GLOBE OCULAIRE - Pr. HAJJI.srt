@@ -1,0 +1,2663 @@
+1
+00:00:00,330 --> 00:00:02,910
+Bonjour, aujourd'hui on va traiter la première
+
+2
+00:00:02,910 --> 00:00:05,230
+partie du cours sur les traumatismes oculaires.
+
+3
+00:00:07,390 --> 00:00:09,730
+Les objectifs des cours sont comme suivis.
+
+4
+00:00:09,890 --> 00:00:11,890
+C'est d'abord savoir mener un interrogatoire
+
+5
+00:00:11,890 --> 00:00:15,670
+devant un traumatisé oculaire, reconnaître des signes de
+
+6
+00:00:15,670 --> 00:00:19,310
+gravité d'un traumatisme oculaire, comprendre les mécanismes
+
+7
+00:00:19,310 --> 00:00:22,330
+physiopathologiques des contusions et des plaies du globe,
+
+8
+00:00:23,110 --> 00:00:25,970
+identifier les principales lésions observées au cours des
+
+9
+00:00:25,970 --> 00:00:29,230
+contusions et des plaies du globe, savoir éliminer
+
+10
+00:00:29,230 --> 00:00:35,830
+un corps étranger intraoculaire, identifier les éléments pronostiques
+
+11
+00:00:35,830 --> 00:00:39,950
+d'un traumatisme oculaire, gestion en urgence d
+
+12
+00:00:39,950 --> 00:00:43,310
+'un traumatisme de l'œil, stadifier une brûlure
+
+13
+00:00:43,310 --> 00:00:46,410
+oculaire et gérer en urgence une brûlure de
+
+14
+00:00:46,410 --> 00:00:50,390
+l'œil, et énumérer les différentes complications d
+
+15
+00:00:50,390 --> 00:00:53,170
+'un traumatisme oculaire, quelle que soit sa nature.
+
+16
+00:00:56,340 --> 00:00:58,340
+En guise d'introduction, l'œil est l
+
+17
+00:00:58,340 --> 00:00:59,100
+'organe de la vision.
+
+18
+00:01:00,040 --> 00:01:01,760
+Donc un traumatisme de l'œil peut entraîner
+
+19
+00:01:01,760 --> 00:01:04,160
+une perte fonctionnelle et même anatomique de l
+
+20
+00:01:04,160 --> 00:01:04,260
+'œil.
+
+21
+00:01:04,880 --> 00:01:08,320
+Le traumatisme peut avoir plusieurs mécanismes, soit contendants,
+
+22
+00:01:08,620 --> 00:01:10,460
+soit pénétrants et même brûlants.
+
+23
+00:01:11,000 --> 00:01:13,300
+Parfois un avis d'un spécialiste est nécessaire.
+
+24
+00:01:16,320 --> 00:01:18,540
+Sur le plan épidémiologique, on sait que l
+
+25
+00:01:18,540 --> 00:01:20,320
+'homme est le plus fréquemment touché par rapport
+
+26
+00:01:20,320 --> 00:01:20,840
+à la femme.
+
+27
+00:01:21,160 --> 00:01:23,180
+Il faut s'intéresser à l'âge de
+
+28
+00:01:23,180 --> 00:01:24,520
+la personne qui est traumatisée.
+
+29
+00:01:25,120 --> 00:01:27,240
+Il faut savoir que l'enfant, quand il
+
+30
+00:01:27,240 --> 00:01:28,880
+est traumatisé, il y a risque de l
+
+31
+00:01:28,880 --> 00:01:32,040
+'amblyopie, donc la gravité du traumatisme quand il
+
+32
+00:01:32,040 --> 00:01:33,180
+survient chez l'enfant.
+
+33
+00:01:33,180 --> 00:01:35,640
+L'amblyopie, je vous rappelle, c'est un
+
+34
+00:01:35,640 --> 00:01:37,720
+œil qui est anatomiquement sain, mais sur le
+
+35
+00:01:37,720 --> 00:01:39,700
+plan fonctionnel, il est paresseux.
+
+36
+00:01:40,140 --> 00:01:42,340
+Donc l'enfant n'arrive pas à atteindre
+
+37
+00:01:42,340 --> 00:01:45,160
+un 10 sur 10 malgré la correction optique.
+
+38
+00:01:45,660 --> 00:01:49,220
+Dans notre contexte, malheureusement, on trouve toujours l
+
+39
+00:01:49,220 --> 00:01:51,500
+'agent causal, c'est des jeux dangereux d
+
+40
+00:01:51,500 --> 00:01:54,460
+'enfants, des accidents de circulation et des accidents
+
+41
+00:01:54,460 --> 00:01:55,040
+de travail.
+
+42
+00:01:57,790 --> 00:02:00,170
+Donc ici, je vous mets une coupe anatomique
+
+43
+00:02:00,170 --> 00:02:00,610
+de l'œil.
+
+44
+00:02:00,610 --> 00:02:03,910
+Je vous invite à vous référer à vos
+
+45
+00:02:03,910 --> 00:02:05,790
+cours d'anatomie pour plus d'explications.
+
+46
+00:02:06,450 --> 00:02:08,710
+Donc l'œil peut être divisé en deux
+
+47
+00:02:08,710 --> 00:02:11,510
+parties, un contenant et un contenu.
+
+48
+00:02:11,790 --> 00:02:14,190
+Le contenant, c'est la coque corneosclérale, donc
+
+49
+00:02:14,190 --> 00:02:17,070
+la partie toute antérieure qui est la cornée
+
+50
+00:02:17,070 --> 00:02:20,770
+transparente avec toutes les qualités optiques et la
+
+51
+00:02:20,770 --> 00:02:22,310
+partie postérieure qui est la sclère.
+
+52
+00:02:22,930 --> 00:02:26,510
+Donc la partie antérieure de la sclère dans
+
+53
+00:02:26,510 --> 00:02:28,530
+l'insertion à la cornée et la partie
+
+54
+00:02:28,530 --> 00:02:30,850
+postérieure où s'insère le nerf optique.
+
+55
+00:02:31,390 --> 00:02:33,770
+Une autre division, on peut diviser l'œil
+
+56
+00:02:33,770 --> 00:02:37,190
+en deux parties, c'est le segment antérieur
+
+57
+00:02:37,190 --> 00:02:38,270
+et le segment postérieur.
+
+58
+00:02:38,830 --> 00:02:40,590
+Donc le segment antérieur, c'est toute la
+
+59
+00:02:40,590 --> 00:02:43,710
+partie toute antérieure située en avant du cristallin,
+
+60
+00:02:43,910 --> 00:02:45,030
+y compris le cristallin.
+
+61
+00:02:45,330 --> 00:02:47,990
+Donc c'est la cornée, la chambre antérieure,
+
+62
+00:02:48,530 --> 00:02:50,430
+l'iris et le cristallin.
+
+63
+00:02:50,790 --> 00:02:54,010
+Et le segment postérieur, toute la partie située
+
+64
+00:02:54,010 --> 00:02:56,970
+en arrière du cristallin, donc on exclut le
+
+65
+00:02:56,970 --> 00:02:57,470
+cristallin.
+
+66
+00:02:57,470 --> 00:03:00,030
+Donc c'est le vitré, la rétine, la
+
+67
+00:03:00,030 --> 00:03:04,130
+choroïde, donc tout le contenu du segment postérieur.
+
+68
+00:03:07,320 --> 00:03:09,200
+Donc comment on va faire le diagnostic positif
+
+69
+00:03:09,200 --> 00:03:10,800
+d'un traumatisme oculaire ?
+
+70
+00:03:10,800 --> 00:03:11,660
+D'abord, c'est le terrain.
+
+71
+00:03:11,920 --> 00:03:14,200
+Généralement, c'est un patient de sexe masculin,
+
+72
+00:03:14,820 --> 00:03:16,480
+soit suite à une agression, d'un accident
+
+73
+00:03:16,480 --> 00:03:20,380
+de circulation, d'un accident de bricolage, d
+
+74
+00:03:20,380 --> 00:03:22,320
+'un accident de martèlement qui sont très très
+
+75
+00:03:22,320 --> 00:03:24,880
+fréquents dans notre contexte, d'un adulte jeune,
+
+76
+00:03:25,000 --> 00:03:28,140
+donc en pleine activité, qui a besoin de
+
+77
+00:03:28,140 --> 00:03:31,580
+sa vision, de travail, pour ses études.
+
+78
+00:03:32,180 --> 00:03:35,000
+Attention à l'âge pédiatrique, donc je vous
+
+79
+00:03:35,000 --> 00:03:37,820
+rappelle le risque d'ompliopie qui est éminent,
+
+80
+00:03:38,040 --> 00:03:40,520
+qui est un grand risque pour la population
+
+81
+00:03:40,520 --> 00:03:41,240
+pédiatrique.
+
+82
+00:03:41,520 --> 00:03:42,860
+L'ompliopie, c'est un nœud qui est
+
+83
+00:03:42,860 --> 00:03:46,440
+anatomiquement sain, mais sur le plan fonctionnel, c
+
+84
+00:03:46,440 --> 00:03:47,560
+'est une perte visuelle.
+
+85
+00:03:47,720 --> 00:03:48,920
+C'est un enfant qui n'arrive pas
+
+86
+00:03:48,920 --> 00:03:50,520
+à avoir un 10 sur 10 pour sa
+
+87
+00:03:50,520 --> 00:03:50,740
+vision.
+
+88
+00:03:50,740 --> 00:03:52,780
+Donc, il peut avoir un dixième, un trois
+
+89
+00:03:52,780 --> 00:03:54,920
+-dixième, un cinq-dixième, mais pas un 10
+
+90
+00:03:54,920 --> 00:03:55,320
+sur 10.
+
+91
+00:03:56,000 --> 00:03:58,500
+Donc, l'interrogatoire, c'est un élément fondamental.
+
+92
+00:03:58,960 --> 00:04:00,920
+Il faut savoir rassurer et calmer le patient.
+
+93
+00:04:01,160 --> 00:04:03,780
+Donc, quelqu'un qui arrive traumatisé de l
+
+94
+00:04:03,780 --> 00:04:05,160
+'œil, c'est quelqu'un qui est affolé,
+
+95
+00:04:05,620 --> 00:04:07,960
+quel que soit un enfant, un adulte, surtout
+
+96
+00:04:07,960 --> 00:04:10,140
+s'il a une buse de vision, s
+
+97
+00:04:10,140 --> 00:04:11,460
+'il arrive à avoir du sang au niveau
+
+98
+00:04:11,460 --> 00:04:13,560
+de son visage, sur son œil, il est
+
+99
+00:04:13,560 --> 00:04:16,300
+affolé, il a peur de perdre sa vision.
+
+100
+00:04:16,300 --> 00:04:18,920
+Il faut savoir le calmer pour tirer le
+
+101
+00:04:18,920 --> 00:04:24,500
+maximum d'éléments d'interrogatoire, savoir l'interroger
+
+102
+00:04:24,500 --> 00:04:25,820
+sur ses antécédents.
+
+103
+00:04:26,680 --> 00:04:28,240
+Peut-être, c'est un candidat sur l
+
+104
+00:04:28,240 --> 00:04:29,180
+'anesthésie générale.
+
+105
+00:04:29,300 --> 00:04:30,280
+Est-ce qu'elle a déjà reçu une
+
+106
+00:04:30,280 --> 00:04:31,340
+chirurgie dans le passé?
+
+107
+00:04:32,220 --> 00:04:34,760
+Le statut vaccinal tétanique, c'est très important.
+
+108
+00:04:35,420 --> 00:04:38,500
+Le statut vaccinal pour le SAT et pour
+
+109
+00:04:38,500 --> 00:04:38,960
+le VAT.
+
+110
+00:04:39,460 --> 00:04:40,520
+L'heure du dernier repas.
+
+111
+00:04:40,820 --> 00:04:41,740
+Est-ce qu'elle a des allergies?
+
+112
+00:04:42,220 --> 00:04:44,920
+Les antécédents ophtalmologiques, c'est très, très important.
+
+113
+00:04:45,540 --> 00:04:47,560
+Est-ce qu'elle a eu une chirurgie
+
+114
+00:04:47,560 --> 00:04:49,380
+dans le passé sur le même œil?
+
+115
+00:04:49,780 --> 00:04:51,900
+Un œil qui était déjà opéré, c'est
+
+116
+00:04:51,900 --> 00:04:53,900
+un œil qui reste toujours fragile.
+
+117
+00:04:55,060 --> 00:04:56,920
+Peut-être une chirurgie sur une sclère.
+
+118
+00:04:57,060 --> 00:04:59,140
+Une sclère, on se dit qu'elle ne
+
+119
+00:04:59,140 --> 00:05:00,060
+cicatrise jamais.
+
+120
+00:05:00,260 --> 00:05:02,060
+C'est un œil qui reste toujours fragile.
+
+121
+00:05:02,940 --> 00:05:05,040
+Malgré qu'on fait des sutures, on se
+
+122
+00:05:05,040 --> 00:05:06,720
+dit qu'elle n'a jamais cicatrisé.
+
+123
+00:05:07,160 --> 00:05:09,320
+Un coup de bâton sur cet œil, il
+
+124
+00:05:09,320 --> 00:05:10,240
+va éclater cet œil.
+
+125
+00:05:10,240 --> 00:05:11,480
+Une forte myopie.
+
+126
+00:05:11,960 --> 00:05:13,480
+Un œil qui est fort myope, c'est
+
+127
+00:05:13,480 --> 00:05:16,320
+un œil qui est trop grand, trop lent.
+
+128
+00:05:17,020 --> 00:05:18,460
+Donc une sclère qui est trop fine.
+
+129
+00:05:18,940 --> 00:05:22,100
+Un traumatisme parfois minime peut faire éclater cet
+
+130
+00:05:22,100 --> 00:05:22,300
+œil.
+
+131
+00:05:22,460 --> 00:05:23,640
+Donc c'est un éclatement de l'œil,
+
+132
+00:05:23,720 --> 00:05:25,100
+une explosion de cet œil.
+
+133
+00:05:25,560 --> 00:05:28,940
+C'est un terrain de fragilité et c
+
+134
+00:05:28,940 --> 00:05:31,940
+'est un terrain de fort risque de dégâts.
+
+135
+00:05:32,680 --> 00:05:34,420
+Une ombliopie sur le même œil.
+
+136
+00:05:34,980 --> 00:05:37,400
+Donc un traumatisme qui survient sur un œil
+
+137
+00:05:37,400 --> 00:05:39,440
+qui est déjà peu ou malfoyant.
+
+138
+00:05:39,440 --> 00:05:41,980
+Peut-être qu'il est moins grave que
+
+139
+00:05:41,980 --> 00:05:44,720
+sur un œil qui est le plus voyant.
+
+140
+00:05:45,040 --> 00:05:47,860
+Donc si vous imaginez un enfant ou un
+
+141
+00:05:47,860 --> 00:05:50,740
+adulte qui voit peu avec un œil.
+
+142
+00:05:51,020 --> 00:05:53,800
+Et le traumatisme survient sur l'œil, le
+
+143
+00:05:53,800 --> 00:05:54,260
+bon œil.
+
+144
+00:05:54,760 --> 00:05:57,000
+Donc c'est un accident encore plus grave.
+
+145
+00:05:57,260 --> 00:05:58,900
+Ou c'est un patient qui est monophtale.
+
+146
+00:05:59,160 --> 00:06:00,280
+Ça veut dire qu'il a un seul
+
+147
+00:06:00,280 --> 00:06:00,440
+œil.
+
+148
+00:06:00,940 --> 00:06:03,120
+Alors le traumatisme, il est moins grave sur
+
+149
+00:06:03,120 --> 00:06:03,980
+l'œil perdu.
+
+150
+00:06:04,400 --> 00:06:06,140
+Mais il est beaucoup plus grave s'il
+
+151
+00:06:06,140 --> 00:06:07,440
+survient sur le bon œil.
+
+152
+00:06:10,340 --> 00:06:12,740
+Alors il faut s'interroger sur les circonstances
+
+153
+00:06:12,740 --> 00:06:13,360
+de l'accident.
+
+154
+00:06:13,680 --> 00:06:16,200
+Sur la date, sur les heures, le mécanisme.
+
+155
+00:06:16,440 --> 00:06:17,960
+Est-ce que c'est une contusion ?
+
+156
+00:06:17,960 --> 00:06:19,880
+Un coup de bâton ?
+
+157
+00:06:19,880 --> 00:06:21,280
+Une balle ?
+
+158
+00:06:21,280 --> 00:06:22,460
+Alors la taille de la balle c'est
+
+159
+00:06:22,460 --> 00:06:23,300
+très très important.
+
+160
+00:06:23,480 --> 00:06:25,060
+Et on va voir sur le chapitre de
+
+161
+00:06:25,060 --> 00:06:26,960
+contusion pourquoi la taille du ballon elle est
+
+162
+00:06:26,960 --> 00:06:27,520
+très importante.
+
+163
+00:06:28,060 --> 00:06:28,640
+La brûlure.
+
+164
+00:06:29,100 --> 00:06:30,260
+Est-ce qu'elle est physique ?
+
+165
+00:06:30,260 --> 00:06:31,380
+Est-ce qu'elle est chimique ?
+
+166
+00:06:31,380 --> 00:06:32,840
+Et la nature du produit chimique.
+
+167
+00:06:33,260 --> 00:06:34,400
+L'accident de circulation.
+
+168
+00:06:36,140 --> 00:06:38,400
+Est-ce que le patient a été éjecté
+
+169
+00:06:38,400 --> 00:06:40,600
+de sa voiture par exemple ?
+
+170
+00:06:40,600 --> 00:06:42,220
+Parce que l'éclat de verre c'est
+
+171
+00:06:42,220 --> 00:06:42,960
+très dangereux.
+
+172
+00:06:43,140 --> 00:06:44,600
+Parce que le verre il est très tranchant.
+
+173
+00:06:45,360 --> 00:06:46,680
+Un accident professionnel.
+
+174
+00:06:47,280 --> 00:06:49,940
+Généralement c'est des brûlures et projections de
+
+175
+00:06:49,940 --> 00:06:52,220
+produits qui sont très dangereux et très toxiques.
+
+176
+00:06:52,820 --> 00:06:54,700
+Il faut savoir que c'est parfois des
+
+177
+00:06:54,700 --> 00:06:56,260
+produits qui sont à haute concentration.
+
+178
+00:06:56,920 --> 00:06:58,140
+La notion de corps étranger.
+
+179
+00:06:58,320 --> 00:07:00,040
+La projection d'un corps étranger au niveau
+
+180
+00:07:00,040 --> 00:07:00,420
+de l'œil.
+
+181
+00:07:00,420 --> 00:07:03,180
+Et les gestes qui ont été réalisés sur
+
+182
+00:07:03,180 --> 00:07:04,060
+le lieu de l'accident.
+
+183
+00:07:05,480 --> 00:07:06,840
+Les signes reportés par le patient.
+
+184
+00:07:07,100 --> 00:07:08,040
+Est-ce qu'elle a mal ?
+
+185
+00:07:08,040 --> 00:07:09,620
+Est-ce que l'œil pleure ?
+
+186
+00:07:09,620 --> 00:07:10,440
+La photophobie.
+
+187
+00:07:10,640 --> 00:07:11,860
+Ça veut dire que le patient n'arrive
+
+188
+00:07:11,860 --> 00:07:14,020
+pas à ouvrir l'œil en présence de
+
+189
+00:07:14,020 --> 00:07:14,360
+lumière.
+
+190
+00:07:14,860 --> 00:07:15,980
+Est-ce qu'il présente une baisse de
+
+191
+00:07:15,980 --> 00:07:18,240
+l'articulité visuelle ou autre ?
+
+192
+00:07:20,190 --> 00:07:24,190
+L'examen clinique démarre par évaluer les constantes
+
+193
+00:07:24,190 --> 00:07:24,730
+vitales.
+
+194
+00:07:24,950 --> 00:07:26,990
+C'est un intérêt qui est médico-légal.
+
+195
+00:07:27,430 --> 00:07:30,290
+Toujours marqué sur le dossier les constantes médico
+
+196
+00:07:30,290 --> 00:07:30,810
+-légales.
+
+197
+00:07:30,810 --> 00:07:32,210
+Toujours, toujours, toujours.
+
+198
+00:07:32,790 --> 00:07:34,250
+Éliminer une urgence vitale.
+
+199
+00:07:34,810 --> 00:07:36,350
+Un traumatisme neurologique.
+
+200
+00:07:36,470 --> 00:07:37,550
+Un traumatisme viscéral.
+
+201
+00:07:37,630 --> 00:07:38,550
+Traumatisme des membres.
+
+202
+00:07:38,990 --> 00:07:41,150
+Toujours marqué noir sur blanc.
+
+203
+00:07:41,710 --> 00:07:43,310
+C'est médico-légal sur le dossier.
+
+204
+00:07:43,870 --> 00:07:45,830
+Il faut savoir éliminer un polytraumatisé.
+
+205
+00:07:45,990 --> 00:07:47,690
+Peut-être le patient est affolé parce qu
+
+206
+00:07:47,690 --> 00:07:49,010
+'il voit un œil qu'il ne voit
+
+207
+00:07:49,010 --> 00:07:49,490
+pas bien.
+
+208
+00:07:49,910 --> 00:07:51,370
+Peut-être aussi que c'est un traumatisme
+
+209
+00:07:51,370 --> 00:07:53,370
+facial ou un traumatisme neurologique.
+
+210
+00:07:54,070 --> 00:07:57,230
+Donc devant un polytraumatisé, ne pas méconnaître.
+
+211
+00:07:57,470 --> 00:07:59,630
+Il peut s'agir d'un traumatisme ophtalmologique.
+
+212
+00:07:59,630 --> 00:08:03,370
+Aussi, devant un traumatisme ophtalmologique, ne pas méconnaître
+
+213
+00:08:03,370 --> 00:08:04,390
+une urgence vitale.
+
+214
+00:08:04,550 --> 00:08:06,130
+Peut-être aussi que c'est un traumatisme
+
+215
+00:08:06,130 --> 00:08:09,550
+neurologique ou une fracture de fémur ou un
+
+216
+00:08:09,550 --> 00:08:10,530
+traumatisme abdominal.
+
+217
+00:08:11,150 --> 00:08:13,190
+Donc, savoir gérer le tout.
+
+218
+00:08:13,770 --> 00:08:14,850
+Éliminer une urgence vitale.
+
+219
+00:08:16,710 --> 00:08:17,990
+Un polytraumatisé.
+
+220
+00:08:18,310 --> 00:08:20,770
+Mais ne pas négliger une urgence ophtalmologique.
+
+221
+00:08:21,710 --> 00:08:24,910
+L'examen ophtalmologique proprement dit, commence par mesurer
+
+222
+00:08:24,910 --> 00:08:25,850
+l'acuité visuelle.
+
+223
+00:08:25,850 --> 00:08:30,250
+Toujours d'une façon bilatérale, comparative avec la
+
+224
+00:08:30,250 --> 00:08:32,789
+correction du patient s'il porte déjà une
+
+225
+00:08:32,789 --> 00:08:33,210
+correction.
+
+226
+00:08:33,590 --> 00:08:35,330
+Parfois c'est difficile parce que s'il
+
+227
+00:08:35,330 --> 00:08:37,169
+porte déjà une correction, les lunettes sont déjà
+
+228
+00:08:37,169 --> 00:08:37,549
+cassées.
+
+229
+00:08:38,150 --> 00:08:39,890
+Mais toujours la marquer sur le dossier.
+
+230
+00:08:40,470 --> 00:08:42,250
+Elle a un intérêt médico-légal.
+
+231
+00:08:43,090 --> 00:08:46,210
+Par la suite, on évalue l'oculomotricité si
+
+232
+00:08:46,210 --> 00:08:46,970
+c'est possible.
+
+233
+00:08:47,370 --> 00:08:49,210
+Parfois, il y a l'œdème de paupière,
+
+234
+00:08:49,530 --> 00:08:50,630
+il y a la plaie de paupière.
+
+235
+00:08:50,830 --> 00:08:52,690
+Mais si c'est possible, on évalue l
+
+236
+00:08:52,690 --> 00:08:52,930
+'oculomotricité.
+
+237
+00:08:54,050 --> 00:08:56,170
+L'oculomotricité, comme vous le voyez sur le
+
+238
+00:08:56,170 --> 00:08:58,810
+schéma, est évaluée dans les neuf positions du
+
+239
+00:08:58,810 --> 00:08:59,090
+regard.
+
+240
+00:08:59,370 --> 00:09:02,150
+Ici au centre, c'est la position primaire.
+
+241
+00:09:02,330 --> 00:09:02,870
+Droit devant.
+
+242
+00:09:03,650 --> 00:09:04,430
+Vers le haut.
+
+243
+00:09:04,910 --> 00:09:05,830
+En haut à droite.
+
+244
+00:09:06,010 --> 00:09:06,650
+À droite.
+
+245
+00:09:06,790 --> 00:09:07,590
+En bas à droite.
+
+246
+00:09:07,730 --> 00:09:08,150
+En bas.
+
+247
+00:09:08,330 --> 00:09:09,110
+En bas à gauche.
+
+248
+00:09:09,270 --> 00:09:09,670
+À gauche.
+
+249
+00:09:09,810 --> 00:09:10,390
+En haut à gauche.
+
+250
+00:09:10,870 --> 00:09:12,390
+Donc les neuf positions du regard.
+
+251
+00:09:13,150 --> 00:09:15,730
+Et par la suite, on commence par l
+
+252
+00:09:15,730 --> 00:09:18,570
+'examen de l'œil proprement dit.
+
+253
+00:09:18,570 --> 00:09:21,730
+Pour être systématique et ne rien oublier, examinez
+
+254
+00:09:21,730 --> 00:09:24,430
+plan par plan comme si on examine sur
+
+255
+00:09:24,430 --> 00:09:25,630
+le plan anatomique.
+
+256
+00:09:28,560 --> 00:09:30,860
+L'examen des paupières et des annexes va
+
+257
+00:09:30,860 --> 00:09:32,060
+commencer par l'inspection.
+
+258
+00:09:32,240 --> 00:09:34,860
+L'inspection qui va permettre de voir s
+
+259
+00:09:34,860 --> 00:09:36,780
+'il y a un hématome, s'il y
+
+260
+00:09:36,780 --> 00:09:39,420
+a une zone qui est pleuâtre, s'il
+
+261
+00:09:39,420 --> 00:09:41,420
+y a présence d'une plaie assiturée.
+
+262
+00:09:42,180 --> 00:09:44,480
+Et par la suite, la palpation qui va
+
+263
+00:09:44,480 --> 00:09:47,100
+évaluer la présence d'un amphysème suffitané.
+
+264
+00:09:47,100 --> 00:09:49,260
+Comme vous le savez, l'œil est un
+
+265
+00:09:49,260 --> 00:09:52,260
+organe situé à l'intérieur de l'orbite.
+
+266
+00:09:53,360 --> 00:09:55,580
+L'orbite est un cadre osseux qui va
+
+267
+00:09:55,580 --> 00:09:58,440
+le protéger de toutes les parois sur la
+
+268
+00:09:58,440 --> 00:09:59,260
+paroi antérieure.
+
+269
+00:10:00,020 --> 00:10:01,620
+A l'aide de la palpation, on va
+
+270
+00:10:01,620 --> 00:10:03,320
+suivre le cadre orbitaire.
+
+271
+00:10:04,020 --> 00:10:06,600
+A l'aide du pouce, on va suivre
+
+272
+00:10:06,600 --> 00:10:07,260
+le cadre orbitaire.
+
+273
+00:10:08,340 --> 00:10:09,940
+On va le suivre, le suivre, le suivre.
+
+274
+00:10:10,060 --> 00:10:12,300
+Jusqu'ici par exemple, on va trouver un
+
+275
+00:10:12,300 --> 00:10:14,580
+décalage au niveau de la paroi osseuse.
+
+276
+00:10:15,060 --> 00:10:16,160
+C'est une zone qui va être très
+
+277
+00:10:16,160 --> 00:10:16,700
+douloureuse.
+
+278
+00:10:16,700 --> 00:10:19,820
+Et un décalage, donc une solution de la
+
+279
+00:10:19,820 --> 00:10:21,960
+continuité au niveau de cette paroi, qui va
+
+280
+00:10:21,960 --> 00:10:25,640
+témoigner la présence d'une fracture, une solution
+
+281
+00:10:25,640 --> 00:10:28,060
+de la continuité du plancher de l'orbite.
+
+282
+00:10:29,420 --> 00:10:31,920
+Et l'amphysème, pourquoi on aura un amphysème
+
+283
+00:10:31,920 --> 00:10:32,100
+?
+
+284
+00:10:32,100 --> 00:10:34,280
+Parce que l'air va passer du sinus
+
+285
+00:10:34,280 --> 00:10:36,800
+au niveau des plans suffitanés.
+
+286
+00:10:36,800 --> 00:10:42,280
+Donc tout ça doit faire craindre la présence
+
+287
+00:10:42,280 --> 00:10:42,800
+d'une fracture.
+
+288
+00:10:43,260 --> 00:10:46,520
+Donc ça fait appel à une exploration radiologique.
+
+289
+00:10:51,660 --> 00:10:56,660
+Également ici, une petite plaie de paupière qui
+
+290
+00:10:56,660 --> 00:10:58,000
+a été suturée.
+
+291
+00:10:58,160 --> 00:10:59,840
+C'est un objet qui était très pointu,
+
+292
+00:11:00,260 --> 00:11:00,960
+très tranchant.
+
+293
+00:11:01,160 --> 00:11:04,460
+Mais un réflexe, toujours une plaie de paupière.
+
+294
+00:11:04,740 --> 00:11:07,020
+Toujours, toujours explorer l'œil.
+
+295
+00:11:07,020 --> 00:11:08,360
+Parce que c'est un objet qui était
+
+296
+00:11:08,360 --> 00:11:11,400
+très pointu, très tranchant.
+
+297
+00:11:11,760 --> 00:11:12,560
+Mais on ne sait pas, il s'est
+
+298
+00:11:12,560 --> 00:11:13,740
+arrêté à quel niveau ?
+
+299
+00:11:13,740 --> 00:11:15,720
+Au niveau des paupières, c'est un tissu
+
+300
+00:11:15,720 --> 00:11:17,120
+qui est très mou.
+
+301
+00:11:17,680 --> 00:11:19,900
+Donc quand on examine l'œil, c'est
+
+302
+00:11:19,900 --> 00:11:22,360
+une plaie qui est pentiforme au niveau de
+
+303
+00:11:22,360 --> 00:11:22,540
+l'œil.
+
+304
+00:11:22,900 --> 00:11:23,800
+C'est un réflexe.
+
+305
+00:11:24,020 --> 00:11:28,000
+Devant une plaie de paupière, toujours, toujours rechercher
+
+306
+00:11:28,000 --> 00:11:30,260
+une plaie du globe oculaire.
+
+307
+00:11:32,450 --> 00:11:34,250
+Toujours dans le cadre de l'examen des
+
+308
+00:11:34,250 --> 00:11:36,670
+paupières, si on a une plaie de tiers
+
+309
+00:11:36,670 --> 00:11:39,290
+interne des paupières ou de l'angle interne,
+
+310
+00:11:39,450 --> 00:11:42,170
+il faut savoir explorer les voies lacrymales.
+
+311
+00:11:42,290 --> 00:11:43,930
+Donc j'ai emprunté ce schéma, parce qu
+
+312
+00:11:43,930 --> 00:11:45,870
+'il explique bien l'anatomie des voies lacrymales
+
+313
+00:11:45,870 --> 00:11:47,830
+avec ses rapports avec les paupières.
+
+314
+00:11:48,390 --> 00:11:49,630
+Au niveau de l'angle interne, on a
+
+315
+00:11:49,630 --> 00:11:51,670
+les points lacrymaux et on a les canalicules.
+
+316
+00:11:52,230 --> 00:11:54,770
+Donc une plaie de cette région doit faire
+
+317
+00:11:54,770 --> 00:11:57,410
+explorer obligatoirement les voies lacrymales.
+
+318
+00:11:57,870 --> 00:11:59,610
+Donc vous imaginez, si on a une plaie
+
+319
+00:11:59,610 --> 00:12:02,070
+de l'angle ou de tiers interne, une
+
+320
+00:12:02,070 --> 00:12:05,350
+exploration s'avère nécessaire, parce qu'on ne
+
+321
+00:12:05,350 --> 00:12:07,790
+peut pas éliminer une plaie des voies lacrymales
+
+322
+00:12:07,790 --> 00:12:08,310
+à ce niveau.
+
+323
+00:12:09,270 --> 00:12:12,410
+Par la suite, il faut savoir toujours, savoir
+
+324
+00:12:12,410 --> 00:12:14,050
+éverser les paupières, parce qu'on ne peut
+
+325
+00:12:14,050 --> 00:12:16,390
+pas éliminer un petit corps étranger, surtout si
+
+326
+00:12:16,390 --> 00:12:19,610
+le patient rapporte la notion de projection d
+
+327
+00:12:19,610 --> 00:12:21,230
+'un petit corps étranger ou il sent la
+
+328
+00:12:21,230 --> 00:12:22,250
+présence d'un corps étranger.
+
+329
+00:12:22,810 --> 00:12:25,510
+Ici, sur l'œil, on trouve sur la
+
+330
+00:12:25,510 --> 00:12:29,450
+cornée, après une coloration, une petite écorchure, sur
+
+331
+00:12:29,450 --> 00:12:30,510
+la cornée, on ne trouve pas de corps
+
+332
+00:12:30,510 --> 00:12:30,890
+étranger.
+
+333
+00:12:30,890 --> 00:12:32,690
+Mais quand on éverse, il y a une
+
+334
+00:12:32,690 --> 00:12:37,390
+projection d'un petit gain de meule.
+
+335
+00:12:37,810 --> 00:12:38,990
+Donc c'est un corps étranger qui est
+
+336
+00:12:38,990 --> 00:12:43,850
+très fréquent dans notre contexte, surtout pour des
+
+337
+00:12:43,850 --> 00:12:46,490
+gens qui travaillent dans la mécanique, qui ne
+
+338
+00:12:46,490 --> 00:12:48,310
+se protègent pratiquement jamais.
+
+339
+00:12:49,110 --> 00:12:53,550
+Une autre cause ou un autre corps étranger
+
+340
+00:12:53,550 --> 00:12:56,130
+qui est très fréquent chez nous en été,
+
+341
+00:12:56,650 --> 00:13:00,150
+c'est la présence des épines de barbaries.
+
+342
+00:13:00,150 --> 00:13:02,270
+Alors c'est des corps étrangers qui sont
+
+343
+00:13:02,270 --> 00:13:06,430
+très fins, de coloration jaunâtre, et qui s
+
+344
+00:13:06,430 --> 00:13:09,570
+'infectent très fréquemment, ces corps étrangers de nature
+
+345
+00:13:09,570 --> 00:13:11,630
+végétale.
+
+346
+00:13:12,210 --> 00:13:14,190
+Donc il faut faire attention à savoir toujours
+
+347
+00:13:14,190 --> 00:13:16,270
+éverser les paupières à la recherche d'un
+
+348
+00:13:16,270 --> 00:13:16,770
+corps étranger.
+
+349
+00:13:19,380 --> 00:13:21,580
+Par la suite, on passe à l'examen
+
+350
+00:13:21,580 --> 00:13:24,520
+du segment antérieur, l'examen de la conjonctive.
+
+351
+00:13:24,760 --> 00:13:26,720
+Ici, sur la première photo, c'est une
+
+352
+00:13:26,720 --> 00:13:31,520
+photo qui illustre une hémorragie sous-conjonctivale.
+
+353
+00:13:31,520 --> 00:13:34,420
+Ici, c'est une hémorragie sous-conjonctivale qui
+
+354
+00:13:34,420 --> 00:13:35,940
+n'est pas très dense, donc il laisse
+
+355
+00:13:35,940 --> 00:13:39,420
+voir la sclère, qu'on voit ici, qui
+
+356
+00:13:39,420 --> 00:13:40,960
+est intacte, donc il n'y a pas
+
+357
+00:13:40,960 --> 00:13:42,940
+de plaies de sclère.
+
+358
+00:13:43,540 --> 00:13:46,640
+Mais une hémorragie sous-conjonctivale dense doit faire
+
+359
+00:13:46,640 --> 00:13:50,120
+suspecter une plaie de sclère ou une perforation
+
+360
+00:13:50,120 --> 00:13:51,400
+du globe.
+
+361
+00:13:51,640 --> 00:13:54,780
+Donc le réflexe devant une hémorragie sous-conjonctivale
+
+362
+00:13:54,780 --> 00:13:58,140
+dense ou un chémosis post-traumatique, toujours, toujours
+
+363
+00:13:58,140 --> 00:14:01,960
+savoir éliminer une plaie ou une perforation du
+
+364
+00:14:01,960 --> 00:14:03,980
+globe, c'est un réflexe.
+
+365
+00:14:04,040 --> 00:14:08,360
+Alors l'examen de sclère, comme je viens
+
+366
+00:14:08,360 --> 00:14:11,480
+de le dire, toujours se méfier d'une
+
+367
+00:14:11,480 --> 00:14:17,240
+hémorragie sous-conjonctivale ou un chémosis hémorragique et
+
+368
+00:14:17,240 --> 00:14:19,880
+savoir éliminer une plaie de sclère.
+
+369
+00:14:20,200 --> 00:14:23,940
+Chose importante pour les plaies du lymphe ou
+
+370
+00:14:23,940 --> 00:14:25,600
+une plaie sclérale, on va le voir par
+
+371
+00:14:25,600 --> 00:14:27,680
+la suite, pour une plaie au niveau du
+
+372
+00:14:27,680 --> 00:14:31,640
+sclère, savoir mesurer la distance par rapport au
+
+373
+00:14:31,640 --> 00:14:32,080
+lymphe.
+
+374
+00:14:32,480 --> 00:14:34,660
+À plus de 3 mm, attention pour la
+
+375
+00:14:34,660 --> 00:14:37,100
+rétine, parce que je vous rappelle toujours, l
+
+376
+00:14:37,100 --> 00:14:39,800
+'anatomie, c'est au-delà de 3 mm
+
+377
+00:14:39,800 --> 00:14:42,180
+par rapport au lymphe commence l'insertion de
+
+378
+00:14:42,180 --> 00:14:42,760
+la rétine.
+
+379
+00:14:43,340 --> 00:14:45,640
+Donc peut-être une plaie au-delà aura
+
+380
+00:14:45,640 --> 00:14:47,620
+comme conséquence une plaie rétinienne aussi.
+
+381
+00:14:49,960 --> 00:14:52,720
+Alors l'examen de la cornée cherchera une
+
+382
+00:14:52,720 --> 00:14:56,480
+keratite, des écorchures, un ulcère ou la présence
+
+383
+00:14:56,480 --> 00:14:59,020
+d'un corps étranger très très très extrêmement
+
+384
+00:14:59,020 --> 00:15:02,840
+fréquent dans notre contexte et sur la photo
+
+385
+00:15:02,840 --> 00:15:04,720
+on trouve la classique grain de meule.
+
+386
+00:15:06,060 --> 00:15:08,300
+Par la suite, si on trouve une plaie
+
+387
+00:15:08,300 --> 00:15:11,200
+de cornée, il faut préciser des caractéristiques suivantes.
+
+388
+00:15:11,640 --> 00:15:15,860
+Une plaie doit faire préciser la forme, est
+
+389
+00:15:15,860 --> 00:15:17,220
+-ce qu'elle est linéaire, est-ce qu
+
+390
+00:15:17,220 --> 00:15:19,460
+'elle est étoilée, surtout suite à des éclats
+
+391
+00:15:19,460 --> 00:15:21,560
+de verre, parce que l'éclat de verre
+
+392
+00:15:21,560 --> 00:15:24,100
+est très tranchant et donne des ramifications.
+
+393
+00:15:24,820 --> 00:15:25,720
+Et la taille, est-ce que c'est
+
+394
+00:15:25,720 --> 00:15:27,440
+une plaie qui est peintiforme, est-ce que
+
+395
+00:15:27,440 --> 00:15:29,520
+c'est une plaie qui divise par exemple
+
+396
+00:15:30,540 --> 00:15:32,140
+la cornée sur deux, on voit les images
+
+397
+00:15:32,140 --> 00:15:32,680
+par la suite.
+
+398
+00:15:32,860 --> 00:15:34,660
+Aussi le siège, est-ce que c'est
+
+399
+00:15:34,660 --> 00:15:36,740
+une plaie qui est au niveau de l
+
+400
+00:15:36,740 --> 00:15:38,100
+'axe visuel, est-ce que c'est une
+
+401
+00:15:38,100 --> 00:15:39,680
+plaie qui est au niveau du lymphe par
+
+402
+00:15:39,680 --> 00:15:43,240
+exemple, loin de l'axe visuel.
+
+403
+00:15:43,960 --> 00:15:45,480
+Et la profondeur, est-ce que c'est
+
+404
+00:15:45,480 --> 00:15:48,040
+une plaie de pleine épaisseur de la cornée,
+
+405
+00:15:48,040 --> 00:15:50,860
+donc on aura l'issue de l'humeur
+
+406
+00:15:50,860 --> 00:15:54,160
+raqueuse où pas toute la profondeur est touchée,
+
+407
+00:15:54,340 --> 00:15:57,480
+donc moins de conséquences sur l'intérieur de
+
+408
+00:15:57,480 --> 00:15:57,660
+l'œil.
+
+409
+00:15:58,100 --> 00:16:01,020
+La question de profondeur, pour répondre à la
+
+410
+00:16:01,020 --> 00:16:03,140
+question de profondeur, on aura à faire le
+
+411
+00:16:03,140 --> 00:16:03,900
+test de Seydel.
+
+412
+00:16:04,360 --> 00:16:06,120
+C'est un test qui est très très
+
+413
+00:16:06,120 --> 00:16:06,560
+important.
+
+414
+00:16:07,100 --> 00:16:09,820
+Donc on met une goutte d'anesthésique locale
+
+415
+00:16:09,820 --> 00:16:11,920
+et on va appliquer de la fléurécine.
+
+416
+00:16:13,420 --> 00:16:15,220
+Par la suite, on va mettre le patient
+
+417
+00:16:15,220 --> 00:16:16,940
+à la lampe à fence avec projection de
+
+418
+00:16:16,940 --> 00:16:17,680
+la lumière bleue.
+
+419
+00:16:18,580 --> 00:16:20,500
+Et si le test de Seydel est positif,
+
+420
+00:16:20,640 --> 00:16:22,340
+ça veut dire qu'on aura une perforation
+
+421
+00:16:22,340 --> 00:16:23,080
+de la cornée.
+
+422
+00:16:23,520 --> 00:16:26,720
+Donc la fléurécine va être lavée ou diluée
+
+423
+00:16:26,720 --> 00:16:29,480
+par de l'humeur raqueuse qui va sortir
+
+424
+00:16:29,480 --> 00:16:32,380
+de la chambre antérieure comme une traînée ou
+
+425
+00:16:32,380 --> 00:16:32,980
+un tourbillon.
+
+426
+00:16:33,440 --> 00:16:35,340
+Donc fuite de la humeur raqueuse et qui
+
+427
+00:16:35,340 --> 00:16:37,900
+va signifier que la cornée est perforée.
+
+428
+00:16:38,460 --> 00:16:40,200
+Alors un test négatif, ça veut dire qu
+
+429
+00:16:40,200 --> 00:16:41,780
+'il n'y a pas de perforation et
+
+430
+00:16:41,780 --> 00:16:45,320
+la coloration va rester plus ou moins homogène
+
+431
+00:16:45,320 --> 00:16:46,980
+sur la cornée.
+
+432
+00:16:49,020 --> 00:16:50,880
+Après la cornée, on va examiner la chambre
+
+433
+00:16:50,880 --> 00:16:53,460
+antérieure, le contenu et la profondeur.
+
+434
+00:16:53,640 --> 00:16:56,440
+Alors le contenu, on va avoir soit la
+
+435
+00:16:56,440 --> 00:16:58,900
+présence d'un tendal sanguin, présence de quelques
+
+436
+00:16:58,900 --> 00:17:04,140
+cellules sanguines, un tendal inflammatoire, présence d'hypéma
+
+437
+00:17:04,140 --> 00:17:07,440
+comme sur la photo ici, ou présence d
+
+438
+00:17:07,440 --> 00:17:11,260
+'hypopion, soit inflammatoire, soit un début d'infection
+
+439
+00:17:11,260 --> 00:17:13,660
+du long de l'ophtalmie suite à une
+
+440
+00:17:13,660 --> 00:17:15,260
+plaie ou présence d'un corps étranger.
+
+441
+00:17:15,839 --> 00:17:18,680
+Également, il faut évaluer la profondeur de cette
+
+442
+00:17:18,680 --> 00:17:19,460
+chambre antérieure.
+
+443
+00:17:19,920 --> 00:17:21,720
+On va voir les conséquences par la suite.
+
+444
+00:17:22,060 --> 00:17:25,280
+J'ai choisi cette photo pour illustrer un
+
+445
+00:17:25,280 --> 00:17:27,860
+hyphéma total qui a été mal géré au
+
+446
+00:17:27,860 --> 00:17:28,120
+début.
+
+447
+00:17:28,700 --> 00:17:31,440
+Donc un hyphéma total, toute la chambre antérieure
+
+448
+00:17:31,440 --> 00:17:33,880
+est remplie de sang et qui a donné
+
+449
+00:17:33,880 --> 00:17:36,760
+à long terme une complication redoutable qu'on
+
+450
+00:17:36,760 --> 00:17:38,060
+appelle un hématocorne.
+
+451
+00:17:38,180 --> 00:17:41,580
+Donc toute la corne est colorée par du
+
+452
+00:17:41,580 --> 00:17:43,660
+sang, donc coloration brunâtre.
+
+453
+00:17:44,560 --> 00:17:46,620
+Même si on fait maintenant l'évacuation du
+
+454
+00:17:46,620 --> 00:17:48,680
+sang de la chambre antérieure, la coloration de
+
+455
+00:17:48,680 --> 00:17:50,500
+la corne est définitive.
+
+456
+00:17:51,060 --> 00:17:53,040
+Donc il faut redouter la complication qu'on
+
+457
+00:17:53,040 --> 00:17:54,280
+appelle l'hématocorne.
+
+458
+00:18:01,160 --> 00:18:04,360
+Après la corne et la chambre antérieure, on
+
+459
+00:18:04,360 --> 00:18:06,180
+va examiner l'iris et la pupille.
+
+460
+00:18:07,940 --> 00:18:10,120
+Alors l'iris, on peut avoir une rupture
+
+461
+00:18:10,120 --> 00:18:13,640
+du sphincter, une désinsertion de l'iris depuis
+
+462
+00:18:13,640 --> 00:18:16,300
+sa racine qu'on appelle un dialis irien
+
+463
+00:18:16,300 --> 00:18:18,280
+ou une hernie de l'iris à travers
+
+464
+00:18:18,280 --> 00:18:18,840
+une plaie.
+
+465
+00:18:19,380 --> 00:18:21,700
+Une atteinte de la pupille, soit un midriase,
+
+466
+00:18:22,280 --> 00:18:23,740
+soit une déformation pupillaire.
+
+467
+00:18:24,220 --> 00:18:27,500
+Alors l'examen de l'angle iridocornéen, il
+
+468
+00:18:27,500 --> 00:18:30,000
+faut savoir éliminer une plaie du globe avant
+
+469
+00:18:30,000 --> 00:18:31,580
+de poser un verre de contact.
+
+470
+00:18:31,580 --> 00:18:37,320
+Le tonus oculaire, systématique d'emblée, en absence
+
+471
+00:18:37,320 --> 00:18:39,960
+de plaie du globe, il faut éviter de
+
+472
+00:18:39,960 --> 00:18:42,660
+mettre quelque chose de contact en présence d
+
+473
+00:18:42,660 --> 00:18:43,380
+'une plaie de cornée.
+
+474
+00:18:43,960 --> 00:18:46,020
+Il faut éliminer d'abord une plaie de
+
+475
+00:18:46,020 --> 00:18:49,200
+cornée avant de poser un tonomètre de Goldman.
+
+476
+00:18:50,080 --> 00:18:53,200
+Une hypotonie mesurée juste au doigt doit faire
+
+477
+00:18:53,200 --> 00:18:55,440
+suspecter une hypotonie oculaire.
+
+478
+00:18:55,800 --> 00:18:58,540
+Donc je répète, il faut éliminer une plaie
+
+479
+00:18:58,540 --> 00:19:01,700
+de cornée avant de poser un tonomètre de
+
+480
+00:19:01,700 --> 00:19:02,000
+Goldman.
+
+481
+00:19:02,200 --> 00:19:04,720
+Mais une hypotonie déjà mesurée au doigt doit
+
+482
+00:19:04,720 --> 00:19:07,720
+faire suspecter une plaie du globe oculaire.
+
+483
+00:19:08,500 --> 00:19:09,620
+L'examen du cristallin.
+
+484
+00:19:10,060 --> 00:19:11,720
+Le cristallin, c'est un organe qui va
+
+485
+00:19:11,720 --> 00:19:14,180
+nous séparer le segment antérieur et le segment
+
+486
+00:19:14,180 --> 00:19:14,700
+postérieur.
+
+487
+00:19:15,140 --> 00:19:16,380
+C'est un organe qui fait partie du
+
+488
+00:19:16,380 --> 00:19:17,180
+segment antérieur.
+
+489
+00:19:17,880 --> 00:19:19,760
+C'est un organe qui est suspendu dans
+
+490
+00:19:19,760 --> 00:19:22,420
+un plan frontal grâce à la zone nulle
+
+491
+00:19:22,420 --> 00:19:22,780
+de Zin.
+
+492
+00:19:22,780 --> 00:19:28,100
+Toute rupture de cette zone nulle, soit partiellement,
+
+493
+00:19:28,260 --> 00:19:30,340
+soit totalement, va donner un déplacement de ce
+
+494
+00:19:30,340 --> 00:19:30,860
+cristallin.
+
+495
+00:19:31,460 --> 00:19:34,840
+Ce déplacement va donner soit une subluxation, c
+
+496
+00:19:34,840 --> 00:19:37,000
+'est un petit déplacement dans le même plan,
+
+497
+00:19:37,760 --> 00:19:39,480
+et s'il est important, peut donner une
+
+498
+00:19:39,480 --> 00:19:42,760
+diplopie parce qu'une partie de l'œil
+
+499
+00:19:42,760 --> 00:19:45,880
+va regarder avec le cristallin mais l'autre
+
+500
+00:19:45,880 --> 00:19:48,340
+partie de l'œil va regarder à travers
+
+501
+00:19:48,340 --> 00:19:49,780
+une zone où il n'y a pas
+
+502
+00:19:49,780 --> 00:19:50,360
+de cristallin.
+
+503
+00:19:50,360 --> 00:19:53,620
+Donc une diplopie monoculaire avec le même œil.
+
+504
+00:19:53,800 --> 00:19:56,240
+Une partie voit avec le cristallin, mais une
+
+505
+00:19:56,240 --> 00:19:57,760
+partie voit sans cristallin.
+
+506
+00:19:58,960 --> 00:20:01,820
+Parfois douloureuse vu qu'on peut avoir une
+
+507
+00:20:01,820 --> 00:20:02,400
+hypertonie.
+
+508
+00:20:02,840 --> 00:20:04,820
+Carrément, on peut avoir une luxation, soit un
+
+509
+00:20:04,820 --> 00:20:09,420
+déplacement vers l'avant ou vers l'arrière.
+
+510
+00:20:10,000 --> 00:20:12,640
+Une luxation antérieure ou postérieure du cristallin post
+
+511
+00:20:12,640 --> 00:20:13,100
+-traumatique.
+
+512
+00:20:13,620 --> 00:20:16,240
+On peut avoir une cataracte.
+
+513
+00:20:16,240 --> 00:20:17,760
+Le cristallin, c'est un organe qui n
+
+514
+00:20:17,760 --> 00:20:19,200
+'est pas vascularisé et qui n'est pas
+
+515
+00:20:19,200 --> 00:20:21,320
+énervé, mais c'est le seul moyen de
+
+516
+00:20:21,320 --> 00:20:23,680
+sa défense, c'est de se pacifier, donc
+
+517
+00:20:23,680 --> 00:20:24,800
+donner une cataracte.
+
+518
+00:20:25,640 --> 00:20:29,240
+Une rupture de la capsule cristallinienne suite à
+
+519
+00:20:29,240 --> 00:20:31,440
+un traumatisme par un objet tranchant, un coup
+
+520
+00:20:31,440 --> 00:20:33,560
+de couteau, un éclat de verre.
+
+521
+00:20:33,980 --> 00:20:36,740
+Donc une rupture de la capsule cristallinienne avec
+
+522
+00:20:36,740 --> 00:20:38,300
+issue des masses cristalliniennes.
+
+523
+00:20:38,460 --> 00:20:39,980
+Comme vous le savez, tout le contenu du
+
+524
+00:20:39,980 --> 00:20:42,360
+cristallin est antigénique, donc il peut donner une
+
+525
+00:20:42,360 --> 00:20:44,620
+uveïde phago-antigène.
+
+526
+00:20:45,440 --> 00:20:50,420
+Sur des images, ici, un déplacement cristallinien frontal.
+
+527
+00:20:50,720 --> 00:20:53,140
+Donc une grande subluxation cristallinienne.
+
+528
+00:20:53,540 --> 00:20:55,200
+Alors vous imaginez, ce patient peut avoir une
+
+529
+00:20:55,200 --> 00:20:56,800
+diplopie parce qu'une partie de l'œil
+
+530
+00:20:56,800 --> 00:20:59,620
+voit à travers un cristallin, mais l'autre
+
+531
+00:20:59,620 --> 00:21:01,920
+partie, il voit sans cristallin.
+
+532
+00:21:02,540 --> 00:21:05,060
+Ici, c'est une luxation antérieure du cristallin.
+
+533
+00:21:05,480 --> 00:21:08,800
+Ici, c'est la cornée et le cristallin
+
+534
+00:21:08,800 --> 00:21:10,660
+qui est au contact de la cornée.
+
+535
+00:21:10,880 --> 00:21:11,880
+C'est une grande urgence.
+
+536
+00:21:12,260 --> 00:21:14,720
+La luxation antérieure du cristallin, c'est une
+
+537
+00:21:14,720 --> 00:21:15,480
+grande urgence.
+
+538
+00:21:15,680 --> 00:21:17,380
+Il peut donner une hypertonie très importante.
+
+539
+00:21:17,880 --> 00:21:19,660
+Il peut donner des complications cornéennes.
+
+540
+00:21:20,460 --> 00:21:23,300
+Donc la luxation antérieure du cristallin, c'est
+
+541
+00:21:23,300 --> 00:21:25,460
+une complication qu'il faut savoir gérer en
+
+542
+00:21:25,460 --> 00:21:25,840
+urgence.
+
+543
+00:21:26,300 --> 00:21:28,980
+Une autre coupe, une autre image qui donne
+
+544
+00:21:28,980 --> 00:21:31,780
+une luxation antérieure du cristallin.
+
+545
+00:21:31,780 --> 00:21:34,740
+Alors vous voyez un cristallin qui est transparent
+
+546
+00:21:34,740 --> 00:21:37,900
+et à travers la transparence du cristallin, on
+
+547
+00:21:37,900 --> 00:21:39,560
+voit et l'iris et la pipi.
+
+548
+00:21:39,880 --> 00:21:42,920
+C'est une luxation aussi antérieure du cristallin
+
+549
+00:21:42,920 --> 00:21:43,780
+transparent.
+
+550
+00:21:45,580 --> 00:21:47,020
+Donc il faut savoir gérer l'urgence.
+
+551
+00:21:49,400 --> 00:21:51,440
+Après l'examen du segment antérieur, on va
+
+552
+00:21:51,440 --> 00:21:54,120
+passer à l'examen du segment postérieur et
+
+553
+00:21:54,120 --> 00:21:55,300
+examiner d'abord le vitre.
+
+554
+00:21:55,660 --> 00:21:58,760
+Pour pouvoir examiner le segment postérieur, il faut
+
+555
+00:21:58,760 --> 00:22:01,540
+avoir des milieux qui sont transparents.
+
+556
+00:22:02,080 --> 00:22:04,820
+Il faut exiger une dilatation qui est correcte.
+
+557
+00:22:04,920 --> 00:22:05,900
+Donc il faut dilater le patient.
+
+558
+00:22:06,080 --> 00:22:07,900
+Il faut avoir des milieux qui sont transparents.
+
+559
+00:22:08,140 --> 00:22:10,180
+On peut avoir des hémorragies du vitre, de
+
+560
+00:22:10,180 --> 00:22:11,040
+plusieurs causes.
+
+561
+00:22:11,900 --> 00:22:14,500
+Et on doit examiner la rétine.
+
+562
+00:22:14,600 --> 00:22:17,840
+Lorsque le fond d'oeil est accessible, les
+
+563
+00:22:17,840 --> 00:22:18,900
+milieux sont transparents.
+
+564
+00:22:18,960 --> 00:22:21,460
+On peut avoir un oedème du pôle postérieur.
+
+565
+00:22:21,460 --> 00:22:22,640
+C'est un oedème de Berlin.
+
+566
+00:22:23,280 --> 00:22:25,480
+C'est une ischémie du pôle postérieur et
+
+567
+00:22:25,480 --> 00:22:27,480
+seule la macula est rouge cerise.
+
+568
+00:22:27,880 --> 00:22:29,760
+Pourquoi l'ischémie du pôle postérieur?
+
+569
+00:22:29,920 --> 00:22:31,380
+Parce que c'est une ischémie qui est
+
+570
+00:22:31,380 --> 00:22:34,380
+due à la vascularisation rétinienne.
+
+571
+00:22:34,640 --> 00:22:37,240
+Et la macula est vascularisée grâce à la
+
+572
+00:22:37,240 --> 00:22:37,700
+courbite.
+
+573
+00:22:38,280 --> 00:22:40,580
+Donc c'est une macula rouge cerise au
+
+574
+00:22:40,580 --> 00:22:42,200
+milieu d'une ischémie rétinienne.
+
+575
+00:22:42,680 --> 00:22:45,940
+Cela témoigne d'une grande violence du traumatisme.
+
+576
+00:22:46,880 --> 00:22:50,680
+C'est un grand élément de mauvaise pronostique.
+
+577
+00:22:52,180 --> 00:22:54,880
+On peut avoir un oedème périphérique qui peut
+
+578
+00:22:54,880 --> 00:22:56,980
+causer ultérieurement des déchirures rétiniennes.
+
+579
+00:22:57,280 --> 00:23:01,720
+Ici, sur le schéma, une grande déchirure rétinienne.
+
+580
+00:23:01,840 --> 00:23:03,000
+Tout ça, c'est la courbite qui est
+
+581
+00:23:03,000 --> 00:23:03,300
+à nu.
+
+582
+00:23:03,600 --> 00:23:04,680
+Un décollement de rétine.
+
+583
+00:23:04,780 --> 00:23:06,560
+Vous imaginez, c'est une déchirure qui prend
+
+584
+00:23:06,560 --> 00:23:07,800
+la moitié de la rétine.
+
+585
+00:23:08,220 --> 00:23:11,100
+C'est une déchirure géante avec un décollement
+
+586
+00:23:11,100 --> 00:23:11,640
+de rétine.
+
+587
+00:23:12,140 --> 00:23:14,980
+Aussi, c'est un élément de mauvaise pronostique.
+
+588
+00:23:15,280 --> 00:23:17,140
+On peut avoir des hémorragies rétiniennes.
+
+589
+00:23:17,740 --> 00:23:20,980
+Ici, comme je vous ai dit, une déchirure
+
+590
+00:23:20,980 --> 00:23:21,600
+rétinienne.
+
+591
+00:23:21,920 --> 00:23:24,920
+Sur la photo d'à côté, c'est
+
+592
+00:23:24,920 --> 00:23:26,140
+une complication coroïdienne.
+
+593
+00:23:29,360 --> 00:23:30,560
+C'est la rupture de la membrane de
+
+594
+00:23:30,560 --> 00:23:30,820
+Brooke.
+
+595
+00:23:31,480 --> 00:23:34,280
+Malheureusement, la rupture de la membrane de Brooke
+
+596
+00:23:34,280 --> 00:23:36,100
+peut siéger à n'importe quel endroit.
+
+597
+00:23:36,240 --> 00:23:39,000
+Mais ici, malheureusement, il siège au niveau de
+
+598
+00:23:39,000 --> 00:23:39,440
+la macula.
+
+599
+00:23:40,260 --> 00:23:43,080
+Donc le pronostic est franchement réservé chez ce
+
+600
+00:23:43,080 --> 00:23:43,260
+patient.
+
+601
+00:23:44,440 --> 00:23:47,020
+Alors, on peut avoir des atteintes du néroptyque
+
+602
+00:23:47,020 --> 00:23:53,340
+soit immédiatement, le pronostic est réservé, ou ultérieurement
+
+603
+00:23:53,340 --> 00:23:55,800
+par compression du néroptyque.
+
+604
+00:23:55,940 --> 00:24:00,180
+Sur les coupes anatomiques, on sait que le
+
+605
+00:24:00,180 --> 00:24:03,920
+néroptyque siège au niveau du canal osseux.
+
+606
+00:24:04,480 --> 00:24:07,360
+Si on peut avoir, par malchance, un hématome
+
+607
+00:24:07,360 --> 00:24:09,380
+du canal optique, le son qui va se
+
+608
+00:24:09,380 --> 00:24:11,860
+cumuler au fil des heures, donc il va
+
+609
+00:24:11,860 --> 00:24:15,520
+comprimer, soit à cause du sang, soit à
+
+610
+00:24:15,520 --> 00:24:16,580
+cause d'une ischie osseuse.
+
+611
+00:24:17,080 --> 00:24:19,800
+Il va comprimer progressivement le néroptyque, donc il
+
+612
+00:24:19,800 --> 00:24:22,200
+va donner une compression secondaire du néroptyque.
+
+613
+00:24:22,780 --> 00:24:25,820
+Donc la baisse de la vision peut être
+
+614
+00:24:25,820 --> 00:24:28,200
+secondaire à un traumatisme neurologique.
+
+615
+00:24:28,660 --> 00:24:31,240
+Qu'est-ce qu'on peut donner comme
+
+616
+00:24:31,240 --> 00:24:33,960
+exploration paraclinique devant un traumatisme oculaire?
+
+617
+00:24:34,160 --> 00:24:38,220
+Les radiographies standards sont obligatoires si on suspecte
+
+618
+00:24:38,220 --> 00:24:39,700
+une plaie oculaire.
+
+619
+00:24:39,800 --> 00:24:40,020
+Pourquoi?
+
+620
+00:24:40,200 --> 00:24:41,980
+Parce qu'il faut savoir éliminer un corps
+
+621
+00:24:41,980 --> 00:24:43,540
+étranger radio-opaque.
+
+622
+00:24:45,940 --> 00:24:47,380
+Radio-opaque, pourquoi?
+
+623
+00:24:47,540 --> 00:24:49,580
+Parce qu'on peut avoir une épine végétale,
+
+624
+00:24:49,620 --> 00:24:51,060
+par exemple, à l'intérieur de l'œil
+
+625
+00:24:51,060 --> 00:24:53,860
+qui ne sera jamais visible sur une radiographie
+
+626
+00:24:53,860 --> 00:24:54,200
+standard.
+
+627
+00:24:54,700 --> 00:24:56,840
+Donc un corps étranger métal, suite à un
+
+628
+00:24:56,840 --> 00:24:59,240
+martèlement, il peut être visible, mais si on
+
+629
+00:24:59,240 --> 00:25:01,160
+suspecte une épine végétale, il ne sera jamais
+
+630
+00:25:01,160 --> 00:25:01,580
+visible.
+
+631
+00:25:01,580 --> 00:25:05,640
+Donc objectiver le corps étranger et sa localisation,
+
+632
+00:25:05,820 --> 00:25:06,920
+est-ce qu'il est en intra-oculaire
+
+633
+00:25:06,920 --> 00:25:08,140
+ou en intra-orbitaire?
+
+634
+00:25:08,620 --> 00:25:11,300
+Donc on demandera des radiographies face à ces
+
+635
+00:25:11,300 --> 00:25:11,580
+profils.
+
+636
+00:25:12,020 --> 00:25:13,960
+Et si jamais on trouve un corps étranger,
+
+637
+00:25:14,080 --> 00:25:15,340
+il faut compléter par un scanner.
+
+638
+00:25:15,920 --> 00:25:17,900
+Ceci sera demandé dans un centre qui est
+
+639
+00:25:17,900 --> 00:25:18,500
+spécialisé.
+
+640
+00:25:18,920 --> 00:25:21,020
+On fera une échographie oculaire.
+
+641
+00:25:21,520 --> 00:25:24,040
+L'échographie va mieux détailler les structures qui
+
+642
+00:25:24,040 --> 00:25:24,640
+sont oculaires.
+
+643
+00:25:24,980 --> 00:25:27,520
+Un décollement de rétine, une hemorragie de vitreille,
+
+644
+00:25:27,520 --> 00:25:30,520
+donc toutes les structures ondo-oculaires seront mieux
+
+645
+00:25:30,520 --> 00:25:33,160
+visualisées grâce à l'échographie oculaire.
+
+646
+00:25:33,900 --> 00:25:35,600
+Alors ce qu'il faut savoir, c'est
+
+647
+00:25:35,600 --> 00:25:37,980
+que l'IRM est souvent demandé dans un
+
+648
+00:25:37,980 --> 00:25:41,480
+contexte traumatologique, mais il est contre-indiqué en
+
+649
+00:25:41,480 --> 00:25:45,200
+présence d'un corps étranger intra-oculaire.
+
+650
+00:25:46,080 --> 00:25:46,720
+Pourquoi?
+
+651
+00:25:46,860 --> 00:25:48,480
+Parce qu'il risque de mobiliser un corps
+
+652
+00:25:48,480 --> 00:25:49,900
+étranger aimantable.
+
+653
+00:25:51,020 --> 00:25:53,140
+Au terme de cet examen, on doit être
+
+654
+00:25:53,140 --> 00:25:55,660
+capable de classifier ce traumatisme.
+
+655
+00:25:55,660 --> 00:25:56,860
+Est-ce qu'il s'agit d'un
+
+656
+00:25:56,860 --> 00:25:58,780
+traumatisme perforant du globe oculaire?
+
+657
+00:25:58,980 --> 00:26:00,340
+Ça veut dire que le globe est ouvert.
+
+658
+00:26:00,820 --> 00:26:01,740
+Est-ce qu'il s'agit d'un
+
+659
+00:26:01,740 --> 00:26:04,000
+traumatisme non perforant du globe oculaire?
+
+660
+00:26:04,140 --> 00:26:05,360
+Ça veut dire que le globe est fermé.
+
+661
+00:26:05,780 --> 00:26:06,680
+Est-ce qu'il s'agit d'une
+
+662
+00:26:06,680 --> 00:26:07,620
+brûlure oculaire?
+
+663
+00:26:08,100 --> 00:26:10,260
+Je vous donne rendez-vous au prochain cours
+
+664
+00:26:10,260 --> 00:26:12,960
+pour compléter notre conduite à tenir devant un
+
+665
+00:26:12,960 --> 00:26:14,120
+traumatisme oculaire.
+
+666
+00:26:14,340 --> 00:26:15,040
+Je vous remercie.

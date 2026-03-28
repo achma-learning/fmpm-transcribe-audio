@@ -1,0 +1,223 @@
+Bonjour tout le monde, notre dernier cours sera une initiation aux thérapies ciblées en cancérologie. Cette terminologie de thérapie ciblée remonte aux années 2000 avec le développement de nombreuses molécules différentes des anciennes molécules comme la chimiothérapie classique, sur le plan mécanisme d'action, car elle cible des anomalies moléculaires à l'origine du développement du cancer, mais aussi leur profil de toxicité qui est totalement différent de la chimiothérapie cytotoxique. Pour traiter cette question, on va adopter ce plan.
+
+Après une petite introduction et des rappels, on va parler des voies de signalisation intracellulaires et le fonctionnement de la cellule, normales mais aussi pathologiques. On va parler d'un phénomène qui est très important dans la survie du cancer qui est l'ongéogenèse tumorale. Puis on va essayer d'aborder les mécanismes d'action des thérapies ciblées et les différentes cibles qu'on va utiliser pour essayer de contrôler ce processus tumoral, avant d'aborder quelques applications cliniques des thérapies ciblées en routine et quelques perspectives avant de conclure.
+
+On a déjà parlé des traitements en cancérologie. Les thérapies ciblées font partie des traitements spécifiques des cancers dont l'action est systémique, comme la chimiothérapie, l'hormonothérapie et l'immunothérapie. Et la question qui se pose est-ce que l'hormonothérapie et l'immunothérapie ne sont pas des thérapies ciblées, car elles ciblent aussi des anomalies moléculaires et des récepteurs pour contrôler la croissance tumorale.
+
+Avant les années 2000, l'offre de soins en matière de traitement des cancers était très limitée par le nombre de médicaments disponibles. Mais aussi il fut aléatoire des traitements classiques car on ne disposait pas malheureusement de facteurs prédictifs de réponse. Et associé s'ajoute une toxicité importante qui va limiter l'utilisation de ces traitements.
+
+L'arrivée des thérapies ciblées répondit à un besoin réel afin d'augmenter l'efficacité, réduire la toxicité et pourquoi pas guérir le cancer grâce à un traitement multimodal qui regroupe plusieurs armes thérapeutiques, d'autres classes médicamenteuses et d'autres modalités de traitement telles que la chirurgie, la radiothérapie qui ont également connu des progrès notables ces dernières années. Les thérapies ciblées anticancéreuses, appelées aussi biothérapies, sont des médicaments qui visent à bloquer la croissance et ou la propagation des cellules tumorales en s'attaquant spécifiquement à certaines de leurs anomalies. Leur mode d'action principal passe par une inhibition des mécanismes oncogènes avec une spécificité importante pour les cellules cancéreuses et leur microenvironnement.
+
+On distingue deux grandes catégories. Les anticorps monoclonaux sont des grosses molécules dont l'action va se faire en extracellulaire, soit au niveau des récepteurs membraneurs ou sur des molécules dans la circulation générale. Et des petites molécules dont l'action est intracellulaire, dont la majorité de ces molécules ont une activité inhibitrice de la tyrosine kinase, mais aussi d'autres cibles moléculaires cétoplasmiques et même nucléaires au niveau de l'ADN.
+
+Les cibles d'action de ces traitements sont les mécanismes qui contrôlent la croissance de la cellule cancéreuse. Ils peuvent être des facteurs de croissance, des voies de transduction du céréal cellulaire, mais aussi ils s'intéressent à l'environnement tumoral, le stromatumoral, l'angiogénèse et aussi le système immunitaire. On ne peut pas comprendre les thérapies ciblées sans revenir au premier cycle de médecine pour comprendre le fonctionnement normal équilibré d'une cellule normale.
+
+Dans l'altération ou le déséquilibre représentent un des mécanismes de développement du cancer et de la croissance tumoral. Ce qu'on sait, c'est que la croissance cellulaire physiologique est conditionnée par un équilibre entre une activité activatrice de la croissance cellulaire grâce aux activateurs de la prolifération cellulaire et des inhibiteurs d'apoptose au moment programmé de la cellule. Et une activité inhibitrice de la croissance cellulaire grâce aux inhibiteurs de prolifération et des activateurs d'apoptose et donc on va provoquer la mort cellulaire.
+
+La croissance tumorale est le résultat d'une activation anormale de certaines protéines qui sera responsable d'une activation d'encogènes, des enco-protéines et une activation des protéines suppresseurs de tumeurs ou anti-encogènes. Dans ce schéma, on voit deux exemples d'une activation d'une protéine suppresseur de tumeurs P53 et l'activation d'un encogène BCNA aux gènes de survie qui va empêcher l'apoptose ou la mort cellulaire programmée. Les mécanismes à l'origine de l'activation anormale des protéines encogènes sont représentés par des anomalies ponctuelles sous forme d'une mutation, une amplification génique qui va augmenter les signaux de prolifération cellulaire, une translocation chromosomique ou même une expression d'encogènes vérales qui sera intégrée dans l'ADN et par conséquence déclencher une activité incontrôlée de division cellulaire.
+
+L'activité oncogénique est de caractère dominant et donc il suffit une modification d'un seul allèle pour générer cette activité. A l'opposé, une activation d'hygiène suppresseur de tumeurs est de caractère récessif, ce qui exige une modification au niveau des deux allèles pour altérer cette activité, soit une double déletion génique, soit une mutation avec une déletion génique par exemple. Sur ce schéma, on voit très bien l'équilibre des deux activités oncogènes et anti-oncogènes dans la cellule normale et aussi le grand déséquilibre de la balance en faveur des signaux de prolifération et de multiplication cellulaire dans la cellule cancéreuse.
+
+Deuxième point essentiel, c'est que la naissance d'un cancer ou cancérogènes n'est jamais un seul événement, mais c'est un processus qui démarre longtemps avant de devenir un vrai cancer. On passe d'un tissu normal avec des cellules normales à un tissu proche de la normale avec un pourcentage minime de cellules anormales, mais avec toujours un équilibre entre les entrées, c'est-à-dire les naissances ou la division cellulaire, et les sorties ou les pertes ou morts cellulaires. Pour parler d'un cancer vrai, il doit s'agir d'un tissu anormal avec un pourcentage très important de cellules anormales et parmi lesquelles des cellules ayant acquis d'autres pouvoirs, dont la migration au-delà du tissu moral à l'origine de la maladie métastatique.
+
+Ce schéma ne montre que le phénotype, l'apparence, mais le plus intéressant pour comprendre les mécanismes d'action des thérapies ciblées est d'aller chercher les anomalies moléculaires, activités enzymatiques, modifications génétiques, simulations exogènes à l'origine de ce phénotype cancéreux. A travers ce schéma, on comprend qu'un cancer n'est que le résultat et l'aboutissement final de l'accumulation de plusieurs altérations génétiques acquises et qui vont être à l'origine de la naissance, mais aussi au développement du processus moral grâce à une potentialisation d'activités oncogéniques et une inhibition d'activités anti-oncogéniques. Ces anomalies moléculaires sont à l'origine de ces caractéristiques acquises par la cellule cancéreuse, au phénotype cancéreux.
+
+La première caractéristique, c'est l'échappement à la popptose. On sait qu'il y a plusieurs types de mort cellulaire, dont le vieillissement cellulaire, la microcellulaire, mais surtout la mort programmée d'une cellule ou la popptose. Cette cellule, après un nombre de cycles de division cellulaire, va arrêter sa croissance et va mourir.
+
+Mais dans la cellule cancéreuse, c'est le contraire qui va se passer. C'est une cellule qui va échapper à ce phénomène grâce à une anomalie génétique qui va lui confier la survie illimitée. Et c'est pour cela, dans notre dialecte, on appelait le cancer le survivant, en arabe, et je pense que c'est la meilleure description du processus cancéreux.
+
+La deuxième caractéristique, c'est le potentiel réplicatif illimité. Cela veut dire que c'est une cellule qui, après chaque division cellulaire, va se préparer à une autre division sans limitation. La troisième caractéristique, c'est l'insensibilité aux signaux antiprolifératifs qui seront modulés ou même inactivés.
+
+Et par conséquent, le déséquilibre de la balance est en défaveur de l'activité antiproliférative et en faveur de la croissance tumorale en continuum. La quatrième caractéristique, c'est l'indépendance vis-à-vis des facteurs de croissance cellulaire. Ce qui représente un grand challenge thérapeutique car elle est généralement liée à une résistance au traitement ou ce qu'on appelle un phénomène d'échappement tumoral.
+
+Cela veut dire que la cellule va acquérir le pouvoir de satisfaire ses besoins sans faire appel aux mécanismes habituels qui vont stimuler la prolifération cellulaire. L'exemple type, la comparaison entre les tumeurs récepto-hormono-positifs dans le cancer du sein et les tumeurs avec des récepto-hormono-négatifs. Les tumeurs avec des récepto-hormono-négatifs sont des tumeurs qui sont très agressives et qui ont acquis l'autonomie pour proliférer sans besoin de présence de stimulation hormonale.
+
+L'autre exemple, c'est le statut race muté dans le cancer colorectal. Avec ou sans facteur de croissance épidermique, ces cellules, quand race est limitée, vont continuer à se multiplier d'une façon qui est continue. La cinquième caractéristique, c'est le pouvoir invasif de la cellule et la possibilité de donner d'autres métastases dans d'autres environnements.
+
+D'autres organes, par exemple un cancer avec des métastases pulmonaires ou hépatiques. Et cette cellule cancerose va s'adapter à un autre environnement et va s'échapper même au système immunitaire. Et la dernière caractéristique, c'est l'induction d'une neuroangiogénèse, ça veut dire une formation d'une novelle vascularisation qui va accompagner la croissance tumorale, soit primitive, mais aussi la maladie métastatique.
+
+Tout ça pour assurer les apports pour une croissance tumorale sans limite. Sur ce schéma, qui paraît très complexe, on voit quelques exemples de voies de signalisation et de protéines qui contrôlent le phénomène de croissance tumorale. Il y a des voies internes, en intracellulaire, mais aussi des échanges d'informations avec le milieu extracellulaire.
+
+Et ce, c'est à travers des récepteurs membranaires ou des molécules qui vont carrément traverser la membrane cétoplasmique pour assurer une activité kinase enzymatique en intracellulaire. Ainsi, on a pu identifier plus de 150 oncoprotéines ou oncogènes et plus de 40 gènes suppresseurs du tumeur et qui devaient normalement théoriquement être une cible pour le traitement anticancéreux. Mais malheureusement, peu de molécules ayant montré une efficacité en ciblant ces anomalies moléculaires.
+
+On va voir maintenant quelques exemples d'anomalies moléculaires dont le ciblage a permis d'améliorer la prise en charge et le pronostic de certains cancers. Ici, on voit l'une des premières anomalies ayant été ciblées par un anticorps monoclonal, dont certaines formes de cancers du sein, mais aussi de plus en plus de cancers, et notamment le cancer de l'estomac et la vicie. En fait, c'est un récepteur membranaire de la famille de GFR2.
+
+Le GFR, ça veut dire Epidermic Large Fracture Receptor, dont l'expression est contrôlée par un oncogène qui s'appelle le RB2. Ce récepteur, il est surexprimé dans 25% des cancers du sein au niveau de la membrane cytoplasmique. Cette surexpression va confier un caractère agressif à cette tumeur avec un potentiel métastatique très important par rapport aux autres formes de cancers qui ne surexpriment pas ce récepteur.
+
+Actuellement, on a plusieurs molécules qui contrôlent son activité, dont le trastuzumab. C'est la première molécule qui a été utilisée, c'est un anticorps monoclonal. Mais aussi, actuellement, on a d'autres molécules, notamment le pertuzumab, le DTM1 et l'apatinib.
+
+Ce sont des molécules qui vont bloquer, essayer de bloquer ce récepteur. Et ceci a permis de changer carrément le pronostic qui était défavorable de ces formes agressives de cancers du sein surexprimant le récepteur HER2. Deuxième exemple va concerner une voie qui est très intéressante dans le cancer colorectal, mais aussi dans les cancers ORL.
+
+C'est la voie de signalisation RAS. En fait, RAS est une protéine cytoplasmique dont l'activité est sous contrôle d'un récepteur membraneur qui s'appelle l'EGFR de type 1. Quand l'oncogène, codon, la protéine RAS est mutée, cette voie sera insensible à l'activation antiproliférative. Et par conséquence, le blocage de récepteurs EGFR par un anti-EGFR ne changeant rien de l'activité de cette protéine.
+
+Si l'oncogène est non muté, on parle d'une mutation sauvage, son activité dépend de la stimulation de ce récepteur membraneur. Et grâce à un anti-EGFR qui s'appelle le succimab ou le panetimumab, les deux sont des anticorps monoclonaux, on va bloquer ce récepteur sans générer une activité cirrhosine activatrice de la prolifération cellulaire tumorale. Et par conséquence, on va contrôler cette maladie cancéreuse.
+
+Avec ces deux molécules, on a l'avantage d'avoir un facteur prédictif de réponse tumorale. Ça veut dire qu'on va les utiliser si on a une mutation du type sauvage du TATURAS. Ici, on a un exemple de cible qui est mutée et inactivée dans plusieurs cancers.
+
+Ça s'appelle le P53 qui est une protéine nucléaire et joue un rôle de suppresseur de tumeur avec un effet anti-oncogène. Malheureusement, on n'a pas de médicaments qui ciblent cette protéine. Imaginez qu'on a une molécule qui va modifier son activité.
+
+Ça sera théoriquement un traitement efficace pour tous les cancers. Mais en réalité, on a d'autres choses qui se passent. En plus, la cellule cancéreuse est très maligne car elle trouvera d'autres voies saupas pour échapper à son contrôle.
+
+Comment une thérapie ciblée va inhibir la transduction des signaux de prolifération cellulaire dans le milieu extracellulaire mais aussi en intracellulaire ? Il faut savoir que la cellule normale et cancéreuse sont en communication continue avec le milieu extérieur. Ils sont à l'aide des récepteurs membranaires dans le GFR par exemple. Ces récepteurs ont une partie qui est extramembranaire qui est en communication directe avec le milieu extracellulaire et une partie intracellulaire qui communique avec le milieu intracellulaire et avec le noyau à travers des voies de signalisation.
+
+La stimulation du récepteur par un ligand, une molécule spécifique, EGF, Epidermal Growth Factor ou Vascular Epidermal Growth Factor, va se traduire par une activation tyrosine kinase du fragment intracellulaire. Ceci va déclencher une cascade d'activation, de mutilation au niveau des protéines spécifiques, d'abord dans le cytoplasme, puis dans le noyau, puis au niveau de l'ADN. On parle de voies de signalisation, c'est-à-dire un acheminement d'une information ou d'un ordre du milieu extérieur vers le noyau.
+
+Dans la cellule cancéreuse, cette activité est exagérée et va générer des activités de phénomène type cancéreux. Cela veut dire une prolifération illimitée en EGF, effet anti-apoptotique. De ce fait, notre objectif en utilisant des thérapies ciblées est d'arrêter ces voies de signalisation quand elles sont responsables de la croissance des cellules tumorales et ceci à différents niveaux.
+
+Soit bloquer le ligand au facteur de croissance, par exemple, au facteur pro-angiogénèse. Bloquer les récepteurs membranaires dans sa forme extra-membranaire, mais aussi avec l'inhibition de la cellulose kinase au niveau de la partie intra-membranaire. Ou aller bloquer les voies de signalisation de transduction du signal en intra-cellulaire.
+
+Et pourquoi pas agir au niveau 2, carrément au niveau de l'ADN, pour contrôler définitivement cette activité à travers ce qu'on appelle une thérapie génique. Dans ce schéma, on voit l'exemple de deux voies de signalisation. La voie RAS, RAF, MEC.
+
+Et la voie P3K, AKT, MTOR. La première voie, la voie RAS, est très intéressante dans le cancer colorectal. On en a parlé tout à l'heure.
+
+Et la voie P3K, AKT, MTOR, qui a un rôle très important dans la neuro-angiogénèse, du moral, dans le cancer, par exemple, du rein. Pour résumer, la transduction du signal sera simulée par des ligands, des facteurs de croissance, par exemple, l'épidémiograftaxe, ou par activité thyrosine kinase en intra-cellulaire, et aussi par des séries de threonine kinase qui regroupent un ensemble de molécules, de protéines kinase et phosphatase, responsables des phénomènes de phosphorylation, et qui sont impliquées dans la transmission des signaux, et contrôlant particulièrement le cycle cellulaire. De ce fait, leurs sous-unités régulatrices et de ciblage constituent des cibles potentielles des thérapeutiques antiprolifératives.
+
+La thérapie ciblée va bloquer ces activités par des anticorps monoclonaux, ou des inhibiteurs de la thyrosine kinase, ou des inhibiteurs de les séries de threonine kinase. Et le résultat, en fait, c'est un effet antiprolifératif et simulation de la pauvreté ou de la mort programmée de la cellule. On ne peut pas ne pas parler de l'angiogénèse, qui est un élément qui est très important du processus tumoral, car la cellule cancéreuse ne peut pas survivre en l'absence d'un environnement tumoral favorable, qui est représenté par le stroma tumoral.
+
+Ça veut dire que c'est l'ensemble du système conjonctif qui représente le squelette du processus tumoral lors de sa croissance. En ciblant ce stroma tumoral, on peut limiter la croissance tumoral à travers un environnement qui est incompassible, non favorable avec la survie cellulaire. Et l'élément le plus important dans ce stroma, c'est les vaisseaux, car sans eux, pas d'apport, pas d'oxygène, pas d'acide aminé, pas d'échange avec l'environnement extracellulaire et pas d'échange entre la tumeur prémissive et la maladie métastatique.
+
+Et surtout, pas de voie pour donner des métastases à distance. C'est dans son intérêt que la cellule tumorale va stimuler la formation d'une nouvelle vascularisation afin d'assurer les ressources nécessaires pour son développement. Et ceci passe schématiquement par deux phases.
+
+La première phase est prévasculaire où la tumeur est de petite taille, asymptomatique, non détectable. Et par conséquence, il n'a pas besoin d'autres vaisseaux car les ressources sont assurées par la vascularisation normale. Et la deuxième phase, une phase angiogénique.
+
+À ce moment-là, la tumeur a augmenté de taille, de volume. Et aussi, les cellules cancéreuses sont de plus en plus loin de la vascularisation normale avec l'installation d'époxy à l'origine de la formation d'une neuovascularisation. En présence d'une souffrance cellulaire secondaire à des phénomènes d'époxy tumorale des cellules cancéreuses, les cellules cancéreuses et le stroma vont libérer des molécules angiogéniques.
+
+Soit le vascular endothélial growth factor, PDGF, platelet growth factor ou d'autres molécules qui vont stimuler l'activité angiogénique. Et qui vont activer les cellules endothéliales en se fixant sur le récepteur VUGFR, PDGFR, FGFR. Ceci sera à l'origine du démarrage de la formation des vaisseaux par une prolifération et une migration des cellules endothéliales.
+
+Et à la fin, on aura de nouveaux vaisseaux. C'est le phénomène de la neo-angiogénèse. Mais cette neo-angiogénèse, elle ne ressemble pas à la structure organisée de la vasculation normale car elle est très anarchique.
+
+Et même la qualité des néo-vaisseaux n'est pas top car le paroi est très fragile. Ce qui explique la fréquence de phénomènes de nécrose tumorale et d'hémorragie intratumorale dans les sarcomes par exemple. Pour cibler la vascularisation tumorale, il y a deux approches théoriques.
+
+Soit on va chercher un effet angiostatique, c'est-à-dire empêcher la formation de nouveaux vaisseaux et le blocage de la croissance tumorale. Ou un effet angiotoxique, ça veut dire qu'on va chercher à détruire les vaisseaux de la tumeur et provoquer une nécrose tumorale. Mais le problème qui se pose, c'est comment les molécules antitoxiques, dans un but thérapeutique qui va être administré, vont accéder aux cellules cancéreuses si on n'a pas de vaisseau.
+
+Et aussi pour la radiothérapie qui exige la présence d'oxygène pour avoir un effet anti-tumoral. Sur le plan pratique pour cibler l'angiogénèse, on peut cibler soit des molécules à activité pro-angiogénique qui simulent ou participent à la formation des vaisseaux comme le VEGR. Ou les facteurs du service cellulaire endothélial dont le VEGF ou son récepteur, l'intégrine dont je parle ici.
+
+Mais aussi ce qu'on appelle les métalloprothéales qui sont des molécules qui peuvent dégrader toutes les composantes de la matrice extracellulaire et qui sont en général peu exprimées dans les tissus sains. Mais leur expression augmente lors des processus de remodelage tessulaire pathologique. Et dans ces conditions, ces molécules participent à divers phénomènes comme l'angio-angiogénèse, tumoral et la réparation tessulaire.
+
+Le nombre et la nature des thérapies ciblées ne cessent d'augmenter avec le temps de les difficultés qu'on a pour avoir une classification qui est pure et homogène. Schématiquement, on peut les classer selon plusieurs manières. D'abord selon le siège de leur cible.
+
+On distinguera une activité membranaire, notamment le GFR, l'HER. Ou une activité intracellulaire, l'exemple des inhibiteurs de la thyrosine kinase, les réparateurs de l'ADN, les entiers mTOR. Et troisièmement, quand la cible est aidée en extracellulaire, notamment l'angio-génèse tumoral et l'environnement tumoral dans l'environnement osseux.
+
+Mais aussi on peut les classer selon leur nature. Pour les anticorps monoclonaux, qui sont des molécules de haut poids moléculaire et qui agissent à la partie extramembranaire des récepteurs parce qu'ils ne traversent pas la membrane cytoplasmique. Soit sur la partie extramembranaire, mais aussi sur les ligands, ou les facteurs qui vont se fixer au niveau des récepteurs.
+
+Donc ces anticorps, on va les reconnaître grâce au suffixe MAP à la fin. Mais selon leur degré d'humanisation, on va utiliser une terminologie internationale. Avec le suffixe MOMAP, ça va concerner les anticorps monoclonaux complètement d'origine mirin, avec un potentiel effet d'antigénicité, des réactions allergiques et même choc anaphylaxique.
+
+Après, on a le suffixe XIMAP pour les molécules où le pourcentage d'humanisation atteint 60 à 70%. Mais avec une antigénicité moins importante. L'exemple type, c'est le suffixe XIMAP, qui est un anti-OGFR.
+
+Et pour les molécules où on a un suffixe XIMAP, l'exemple type, c'est le tracé XIMAP ou le percé XIMAP. Ce sont des molécules qui sont humanisées à 90% de sa structure. Et le dernier groupe, c'est quand on a le suffixe de MOMAP, et ça concerne des molécules dont l'origine est humaine et donc pas de problème d'antigénicité.
+
+Exemple, le panitumumab. Ces anticorps monoclonaux vont cibler soit des antigènes de surface cellulaire, comme les anti-CD20. Exemple, le retuximab, qui va cibler l'infocyte, dans l'infomaranochkinien.
+
+Mais aussi dans le cadre d'immunothérapie avec les anticorps anti-PD1 et les anti-CTLA4. Exemple, l'épi-limumab. Ils peuvent aussi cibler des récepteurs membranéens, activités tyrosine kinase, de la famille de l'OGFR.
+
+Et on a ce qu'on appelle les anti-OGFR1. Deux molécules, le cytuximab et le panitumumab. Et les anti-HCO2, dont le tracizumab et le pertizumab.
+
+Ces anticorps aussi peuvent cibler le phénomène d'angiogénèse tumorale. Le chef de file, c'est le vivacigimab, qui est un antirmonoclonale, qui va cibler le facteur de croissance endothélien. Sur cette diapositive, on voit le fonctionnement normal d'un récepteur de la famille de l'OGFR.
+
+Avec deux parties structurelles. Une partie qui est extra-membranée. Et une partie à activité tyrosine kinase en intra-cellulaire.
+
+Normalement, la partie extra-membranée va être assimilée par un ligand, un facteur de croissance épidermique. Qui va générer une activité tyrosine kinase dans sa partie intra-cellulaire. Suite à la simulation des voies de signalisation, on aura une induction de la prolifération tumorale.
+
+Simulation de potentiels invasifs. Des phénomènes d'angiogénèse. Ce sont des cellules qui vont acquérir des capacités d'aller se greffer dans d'autres organes et constituer des métastases.
+
+Et aussi, on aura une émission de l'apoptose. Donc tous ces signaux sont en faveur de signal prolifératif de la tume. Qu'est-ce qu'on va faire à travers une thérapie ciblée ? Et en l'occurrence, à l'aide d'un anticorps monoclonal.
+
+Cet anticorps monoclonal va se fixer au niveau de la partie extra-membranée à la place du ligand. Mais ils ne vont pas générer d'activité tyrosine kinase. Et ceci va se traduire par l'arrêt des différentes activités prolifératives, concession du phénotype cancéreux.
+
+Et par conséquent, un contrôle de la prolifération tumorale cancéreuse. L'autre exemple. Donc ici, c'est le phénomène d'angiogénèse tumorale.
+
+On va voir que le facteur de croissance endothéliale au VEGF, il va se fixer au niveau du récepteur. Et par la suite, il va stimuler l'activité endothéliale. Le ciblage de cette voie angiogénique, il va se faire à l'aide d'un anticorps monoclonal qui s'appelle le buvacizimab.
+
+Et cet anticorps monoclonal ne va pas cibler le récepteur, mais il va cibler le facteur qui est le VEGF. Il va se lier à cette molécule et va l'empêcher de se fixer au niveau du récepteur. Et par conséquent, on va arrêter ce signal de neo-angiogénèse tumorale.
+
+Donc à côté de ces grosses molécules qui sont représentées par les anticorps monoclonaux, dont l'activité est extracellulaire, parce qu'ils ne peuvent pas pénétrer en extracellulaire. On a d'autres molécules, des petites molécules à activité intracellulaire. Et dont deux classes thérapeutiques qui occupent une place qui est prépondérante.
+
+Les inhibiteurs de la tyrosine kinase, les TKI, qui sont les plus développés et se reconnaissent grâce au suffixe inhib à la fin, comme le sorafinib, le cynishinib. Ces molécules vont inhibir la phosphorylation de la tyrosine kinase, c'est à dire la première étape intracellulaire de la voie de signalisation intracellulaire au niveau de la partie intracellulaire du récepteur membranaire. Ces molécules peuvent être sélectives et par conséquence, ils auront une action qui est monofonctionnelle, ciblant un seul récepteur ou multifonctionnelle, ciblant plusieurs tyrosine kinase, deux récepteurs différents, comme le cynishinib et le sorafinib.
+
+Et on peut aussi les classer selon la réversibilité de leur fixation et leur interaction avec la cible. Et on distingue des inhibiteurs réversibles, qui vont se fixer et après ils vont se libérer. Et d'autres molécules qui vont se fixer d'une façon qui est permanente et irréversible.
+
+Ces inhibiteurs de la tyrosine kinase peuvent cibler la partie intracellulaire du récepteur, donc une activité angiogénique quand ils vont cibler le VEGFR. C'est l'exemple du cynishinib et le pazopanib dans les tumeurs rénales. Ils peuvent cibler la partie intracellulaire du VEGFR, l'exemple type c'est l'herlotinib et la gifinitinib dans le cancer du poumon.
+
+Et ils peuvent aussi cibler la partie intracellulaire de l'HER ou le VEGFR2, comme la patinib dans le cancer du sein. En plus, ils peuvent cibler les anomalies moléculaires cellulaires, comme la patinib dans les tumeurs stromales ou le cichit. Et la deuxième famille à côté de la tyrosine kinase inhibiteur, on a les inhibiteurs mTOR, qui sont des analogues de la rapamycine.
+
+Vous savez qu'il est utilisé comme un antirégime en cas de greffe, car il a un effet qui est immunosuppresseur. Et ces molécules vont cibler la protéine mTOR de la voie de signalisation, P3KAKTmTOR, comme on l'a vu tout à l'heure. Et le chef de file, c'est les vérolimus. 
+
+Tous les molécules vont se terminer par le suffixe emus. Et ils sont utilisés dans le RAS et dans l'infomalane en chikinière. Donc après avoir tout ça, on va essayer de voir quelques applications cliniques sur des cas de cancer où la thérapie ciblée a montré un effet bénéfique pour nos patients.
+
+Le premier exemple, c'est le cancer du sein, surexprimant l'HER2NE. On parle de ce récepteur membrané qui est surexprimé dans certains types de cancers. On parle des cancers du sein HER positif.
+
+Et on voit que ces récepteurs ne sont qu'au départ un oncogène. Donc après une biopsie, on va faire une méleostochimie, on va chercher ces récepteurs. S'ils sont surexprimés franchement avec ce qu'on appelle trois croix, on n'aura pas besoin de faire une étude moléculaire.
+
+Mais si on est devant un doute, on ne sait pas est-ce que c'est amplifié ou non amplifié, c'est représenté par deux croix. À ce moment-là, on va faire ce qu'on appelle une étude FISH ou CISH moléculaire. On va chercher ces protéines codons.
+
+On va les compter pour voir est-ce que ce gène est surexprimé ou pas. Donc s'il est surexprimé, c'est un cancer qui est très agressif. Et pour cela, on a actuellement plusieurs molécules qui vont les cibler, ces récepteurs, et qui ont pu modifier le pronostic vital de ces formes de cancer.
+
+Parce qu'on a dit que c'est un cancer qui est très agressif, avec une mortalité qui est très importante, avec un potentiel métastatique qui est très important. Et grâce à une molécule qui s'appelle Transgenmab, qui est utilisée en premier et qui va bloquer ce récepteur, on va inactiver ce potentiel agressif métastatique. Grâce à l'inhibition de la progression dans le cycle cellulaire, une suppression de signalisation apoptotique et une activation même immunologique.
+
+Ce qui va aider au contrôle de cette maladie. Cette molécule est utilisée dans 15 à 20% des cancers du sein surexprimant lâcheur de noeuds. C'est un anticorps monoclonal, MAP, à la fin, et qui est indiqué dans le cancer du sein, soit en adjuvant ou en non-adjuvant et en métastatique.
+
+C'est parmi les rares molécules qui sont utilisées dans les différentes étapes de traitement du cancer. Actuellement, cette thérapie est couplée à d'autres molécules dont le Pertuzimab, qui est aussi utilisé en association avec le Transgenmab en non-adjuvant, en adjuvant et en métastatique. On parle d'un blocage, d'un double blocage du récepteur HUR2.
+
+À côté du cancer du sein, cette molécule est aussi utilisée dans le cancer de l'estomac, métastatique, en cas de surexpression de lâcheur de noeuds. Ce n'est pas une molécule qui est anodine. Cela peut causer une toxicité cardiaque, d'où l'intérêt de toujours faire un bilan en pré-traitement avec une étude de la fraction d'éjection ventriculaire.
+
+Et en cours de traitement aussi, il faut surveiller cette fraction dans celle des menus. Attention, parfois on est obligé d'arrêter le traitement momentanément en attendant l'amélioration de la fonction cardiaque. Une autre molécule qui va cibler aussi ce récepteur HUR2, mais qui va cibler la partie intracellulaire.
+
+C'est une petite molécule qui s'appelle la partie NIP. C'est un inhibiteur de la tyrosine kinase, vous voyez NIP à la fin. Il est indiqué dans le cancer du sein, surexprimant lâcheur de noeuds, après développement d'une résistance au tracézumab, et qui est utilisée en association avec une chimiothérapie qui est la caplicitabine.
+
+Donc il a montré une supériorité par rapport aux autres traitements, en cas de résistance au tracézumab, ou au blocage, double blocage, c'est-à-dire tracézumab plus pertuzumab. Donc c'est une petite molécule, c'est un inhibiteur de la tyrosine kinase. Son profil de toxicité, il est représenté par la toxicité cardiaque, mais surtout la fatigue et la diabète.
+
+Donc, toujours un bilan cardiaque avant et en cours de traitement pour surveiller la toxicité de ce traitement. L'avantage de cette molécule, c'est qu'elle est une petite molécule et il pénètre la barrière cérébroméningie. Et par conséquent, il a montré une efficacité dans les tumeurs cérébrales.
+
+Chose qui n'a pas été montrée avec des anticorps monoclonaux, notamment le tracézumab. Parce que sur le tracézumab, on a des patients qui vont pouvoir développer des métastases cérébrales. Le troisième exemple, ça concerne le cancer du poumon.
+
+Donc vous savez qu'on a plusieurs entités épistologiques dans le cancer du poumon. On a les adénocarcinomes, les carcinomes épidermoïdes, les carcinomes à petite cellule. Donc on va s'intéresser surtout aux adénocarcinomes.
+
+Et l'étude de la mutation de l'EGFR dans ce type histologique particulier qu'est l'adénocarcinome, elle est importante par rapport aux autres types histologiques. On voit qu'elle est de l'ordre de 20 à 25% versus 2% dans les carcinomes épidermoïdes. Et quand on a une mutation de l'EGFR, quand on parle d'EGFR, donc on a R à la fin, attention c'est un récepteur.
+
+Epidermal growth factor récepteur. Quand elle est mutée, c'est une indication à un traitement à base d'inhibition de la tyrosine kinase. Soit l'agifinitinib ou l'irlutinib sont des exemples.
+
+Et qui ont montré une efficacité par rapport à la chimiothérapie en cas de maladie pulmonaire métastatique avec mutation de l'EGFR. Donc la mutation de l'EGFR, c'est un facteur prédictif de l'efficacité des anti-EGFR au niveau des cancers pulmonaires. Donc avant les sites moléculaires, on avait quelques critères sur lesquels on se basait pour indiquer ces traitements.
+
+Parce qu'on a constaté que le pourcentage de la mutation de l'EGFR est très important quand il s'agit d'un adenocarcinome sur une femme de population asiatique et non tabagique. Quand on a ces critères, on a plus de chances de trouver cette mutation GFR. Et comme toute thérapie ciblée, il a un profit de toxicité qui est particulier.
+
+Et pour ces anti-EGFR, on peut avoir des réactions cutanées, notamment de l'acné et une sécheresse cutanée aussi. D'où l'intérêt d'associer des traitements hydratants afin de minimiser cette toxicité. Et parfois, on a même l'obligation de s'adresser à des médecins spécialistes, notamment des dermatologues, pour nous aider pour gérer ces toxicités cutanées et aiguilles.
+
+Le quatrième exemple concerne le cancer colorectal et plus spécialement la voie race. On sait que l'oncogène race est connu depuis 1982. Il a un rôle qui est central dans la voie de signalisation race, raf, mec.
+
+Cet oncogène est muté dans 40% des cancers colorectal mutastatiques. Et comme il est muté, il a un effet délétère sur l'action d'anticorps anti-EGFR. D'où l'intérêt d'aller chercher cette mutation à travers un génotypage de race.
+
+On a le N-race et le K-race, donc on doit avoir le génotype du full race. Et on va indiquer un anti-EGFR, sauf si on n'a pas de mutation race, ou on parle de mutation qui est du type sauvage. Donc quand on n'a pas de mutation, on a un anti-EGFR qui est efficace.
+
+On a deux molécules, le cytuximab qui est partiellement humanisé, et le panétumimab qui est totalement humanisé. Et comme tout anti-EGFR, on a des toxicités, surtout avec le cytuximab. Et cette toxicité est de l'ordre cutanée, on peut avoir des raches cutanées, de l'acné.
+
+Et c'est un témoin indirect de l'efficacité du traitement. Parce qu'on sait très bien qu'au niveau de la peau, il y a beaucoup de récepteurs, de facteurs de croissance épidermique. Et par conséquence, on aura une action de cytuximab au niveau cutané, qui va se traduire par des lésions cutanées.
+
+On peut aussi avoir des histoires hépatiques, des diarrhées, des nausées, des vomissements, qu'on peut gérer par des traitements symptomatiques. Les images de patients qui ont été sous le cytuximab. Et on voit cette hyperpigmentation au niveau de tout le dos, au niveau du visage.
+
+Et même en cas d'utilisation du cytuximab dans le cancer, le cancer ORL, on peut avoir une intensification de ces lésions au niveau du champ d'irradiation. Le dernier exemple va s'intéresser au visage de l'angiogénèse tumorale. On a parlé tout à l'heure, on a dit qu'à travers un anticorps monoclonal qui s'appelle le vivaceusimab.
+
+On ne va pas viser le récepteur, mais on va viser ce moment là le facteur qui va se fixer au niveau du récepteur pour simuler l'activité angiogénique. Donc, à travers un anticorps monoclonal qui est le vivaceusimab, on va bloquer le facteur. Et par conséquence, on n'aura pas de simulation du récepteur et on va essayer d'arrêter cette neuroangiogénèse tumorale.
+
+Dans cette molécule, il est indiqué dans plusieurs cancers, et notamment le cancer colorectal métastatique, le cancer bronchique non-apté cellule, le cancer du sein, le cancer audural, le cancer de codeletterus. Parce que l'angiogénèse, c'est un phénomène qui est très, très important dans le processus tumoral et la croissance tumorale. Mais avant de le prescrire, il faut faire tout un bilan.
+
+Donc, on ne va pas le suivre chez des patients qui ont un risque hémorragique élevé, qui ont une fonction rénal altérée avec une protéine urique qui est très élevée, ou un hashtag qui est non contrôlé. Donc, d'où l'intérêt de le prescrire à distance d'un geste chirurgical. Avant ou après, toujours, il faut respecter un délai d'au moins un mois pour ne pas avoir un problème de cicatrisation et risque d'hémorragie et de perforation dû à une mauvaise cicatrisation sous Bivar-Sujima.
+
+Le ciblage de l'angiogénèse peut se faire aussi en ciblant la partie intramembranaire des récepteurs, VEGFR ou PDGFR. Et on va utiliser des molécules des inhibiteurs de la tyrosine kinase, comme le sinuthinib ou le sorafinib ou le pazopanib. Donc, ce sont des molécules qu'on utilise dans les cancers durants métastatiques, dans les tumeurs stromales, dans les tumeurs neuroendocrines pour le sinuthinib.
+
+Et le sorafinib, on va l'utiliser pour les cancers durants, pour les pathos carcinaux. Et tout en faisant attention à ce profil de toxicité, comme les inhibiteurs de la tyrosine kinase, cutanine, avec le syndrome main-pied, avec des ulcérations, comme on voit dans l'image au niveau des mains et des pieds. On peut avoir aussi des modifications au niveau des cheveux, de la coloration des cheveux.
+
+Et il ne faut pas oublier la possibilité d'avoir une hypothyroïdie biologique, de l'intérêt de faire un bilan thyroïdien avant de démarrer ce traitement, un examen de référence pour évaluer cette toxicité. Et pour les inhibiteurs mTOR, on a deux molécules, les virulimus et l'ethum virulimus. Dans le mécanisme d'action, c'est la diminution de la prolifération antimorale et effets antirheogéniques par inhibition de la voie de signalisation mTOR.
+
+Ce sont des molécules qui sont indiquées dans les cancers durants métastatiques, dans les tumeurs neuroendocrines, dans les cancers du sein. On associe ça avec une hormonothérapie en cas de résistance à l'hormonothérapie, essentiellement des inhibiteurs d'aromatase. Et ils ont comme toxicité, donc spécifique, c'est d'avoir des mycites et des stomatites.
+
+Ce sont des patients qui doivent être bien surveillés avec une bonne hygiène buccodontaire. On peut avoir aussi des pneumopathies non infectieuses qu'il faut aussi surveiller et les traiter symptomatiquement en cas de leur survie. Vous voyez qu'à travers ce secours, que l'arrivée de la thérapie ciblée et des thérapies ciblées a permis de changer le concept et le raisonnement du traitement des cancers.
+
+On a passé des traitements qui sont probabilistes, qui sont ici chez tout le monde, à des traitements de plus en plus spécifiques, chez une population bien définie. Et c'est ce qu'on appelle la médecine de précision, ce qu'on appelle aussi le traitement personnalisé et à la carte. Et en espérant que la collaboration des différents traitements, thérapie ciblée, immunothérapie, l'évolution des autres traitements et des autres modalités, notamment en matière de radiothérapie et de la chirurgie.
+
+Et à travers surtout une décision qui est collégiale, multidisciplinaire, d'améliorer les efficacités, réduire la toxicité et améliorer la qualité de vie de nos patients. Et pour conclure, il faut dire que c'est vrai que les thérapies ciblées représentent des nouvelles armes thérapeutiques très intéressantes qui vont utiliser des marqueurs prédictifs de réponse. Et par conséquent, leur prescription va être dédiée à des personnes où l'efficacité est importante.
+
+L'angiogénèse tumorale est un rôle qui est clé dans la progression tumorale, surtout des tumeurs solides. Et dans le ciblage, il est très important pour limiter la croissance tumorale. Avec ces nouvelles armes thérapeutiques, on a une toxicité qui est nouvelle.
+
+Il faut les connaître. Il faut essayer de la gérer en collaboration avec les autres spécialistes d'organes. Ne pas oublier le coût très élevé de ces thérapies ciblées, ce qui représente un fardeau sur le système de santé, de l'intérêt de les bien utiliser, de respecter les indications et penser à l'économie de santé.
+
+Ces avancées en biologie moléculaire vont amener ce qu'on appelle, ce qu'on a dit tout à l'heure, c'est la personnalisation des traitements, mais aussi la complexification de la prise en charge thérapeutique. Et la solution, enfin, au début, c'est toujours une prise en charge multidisciplinaire qui est la seule garantie d'une prise en charge efficace.

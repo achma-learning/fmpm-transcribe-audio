@@ -1,0 +1,2403 @@
+1
+00:00:00,520 --> 00:00:02,380
+Mes chers étudiants, bonjour.
+
+2
+00:00:02,740 --> 00:00:05,680
+Bienvenue à ce dernier cours sur la cytologie
+
+3
+00:00:05,680 --> 00:00:06,620
+hématologique.
+
+4
+00:00:06,940 --> 00:00:10,520
+Nous allons aujourd'hui traiter la lymphopoïèse ou
+
+5
+00:00:10,520 --> 00:00:12,460
+la formation des lymphocytes.
+
+6
+00:00:16,390 --> 00:00:17,850
+Sur ce schéma qu'on a eu l
+
+7
+00:00:17,850 --> 00:00:20,450
+'occasion de voir à plusieurs reprises, nous avons
+
+8
+00:00:20,450 --> 00:00:23,250
+la cellule-souche hématopoétique qui va donner naissance
+
+9
+00:00:23,250 --> 00:00:26,270
+d'un côté à la cellule-souche lymphoïde
+
+10
+00:00:26,270 --> 00:00:28,950
+ou progéniteur lymphoïde commun et de l'autre
+
+11
+00:00:28,950 --> 00:00:32,230
+côté à la cellule-souche myeloïde ou progéniteur
+
+12
+00:00:32,230 --> 00:00:32,950
+myeloïde commun.
+
+13
+00:00:35,190 --> 00:00:38,690
+Aujourd'hui, nous allons traiter cette partie de
+
+14
+00:00:38,690 --> 00:00:42,590
+la lymphopoïèse qui est donc la formation des
+
+15
+00:00:42,590 --> 00:00:46,330
+cellules lymphocytaires B et T matures à partir
+
+16
+00:00:46,330 --> 00:00:48,430
+de la cellule-souche hématopoétique.
+
+17
+00:00:50,470 --> 00:00:52,110
+Vers la fin de ce cours, vous allez
+
+18
+00:00:52,110 --> 00:00:54,910
+être capable de définir la lymphopoïèse et de
+
+19
+00:00:54,910 --> 00:00:57,010
+reconnaître les grands types de lymphocytes.
+
+20
+00:00:57,650 --> 00:00:59,930
+Vous allez être capable de décrire l'origine
+
+21
+00:00:59,930 --> 00:01:03,610
+et la circulation des cellules lymphoïdes, de déterminer
+
+22
+00:01:03,610 --> 00:01:06,510
+les étapes de la lymphopoïèse T et B,
+
+23
+00:01:07,190 --> 00:01:10,010
+de schématiser morphologiquement les petits et les grands
+
+24
+00:01:10,010 --> 00:01:10,280
+lymphocytes.
+
+25
+00:01:11,310 --> 00:01:13,350
+Vous allez aussi être capable de citer les
+
+26
+00:01:13,350 --> 00:01:16,310
+fonctions principales des lymphocytes, ainsi que leur mode
+
+27
+00:01:16,310 --> 00:01:20,770
+d'exploration et de détailler quelques applications dans
+
+28
+00:01:20,770 --> 00:01:21,460
+le domaine médical.
+
+29
+00:01:23,940 --> 00:01:26,040
+Pour ceci, nous allons suivre le plan suivant.
+
+30
+00:01:26,180 --> 00:01:29,180
+Nous allons commencer par une introduction suivie d
+
+31
+00:01:29,180 --> 00:01:31,280
+'un rappel sur les organes lymphoïdes qu'on
+
+32
+00:01:31,280 --> 00:01:33,420
+a déjà vu dans le premier cours sur
+
+33
+00:01:33,420 --> 00:01:34,920
+l'hématopoïèse.
+
+34
+00:01:35,060 --> 00:01:36,700
+Donc, on va juste faire un petit rappel
+
+35
+00:01:36,700 --> 00:01:37,560
+tout bref.
+
+36
+00:01:38,300 --> 00:01:40,100
+Ensuite, nous allons voir l'origine et la
+
+37
+00:01:40,100 --> 00:01:42,080
+circulation des cellules lymphoïdes.
+
+38
+00:01:42,500 --> 00:01:45,800
+Avant d'aller voir en détail la lymphopoïèse
+
+39
+00:01:45,800 --> 00:01:47,400
+T et la lymphopoïèse B.
+
+40
+00:01:48,080 --> 00:01:50,820
+Ensuite, nous allons voir les aspects morphologiques des
+
+41
+00:01:50,820 --> 00:01:56,180
+lymphocytes, les fonctions, leur exploration et quelques applications
+
+42
+00:01:56,180 --> 00:01:57,200
+avant de conclure.
+
+43
+00:01:59,160 --> 00:02:01,180
+Commençons tout d'abord par une introduction.
+
+44
+00:02:03,000 --> 00:02:06,000
+La lymphopoïèse est l'ensemble des mécanismes qui
+
+45
+00:02:06,000 --> 00:02:08,840
+aboutissent à la production des lymphocytes à partir
+
+46
+00:02:08,840 --> 00:02:10,670
+d'une cellule-souche hématopoïdique.
+
+47
+00:02:12,320 --> 00:02:15,440
+Les lymphocytes sont le support cellulaire de la
+
+48
+00:02:15,440 --> 00:02:18,020
+défense immunitaire spécifique, comme vous le savez.
+
+49
+00:02:18,760 --> 00:02:21,460
+Ils constituent entre 25 et 40 % des
+
+50
+00:02:21,460 --> 00:02:23,240
+globules blancs dans le sang périphérique.
+
+51
+00:02:24,120 --> 00:02:25,660
+Ils sont moins de 20 % dans le
+
+52
+00:02:25,660 --> 00:02:27,320
+myelogramme d'un adulte normal.
+
+53
+00:02:29,100 --> 00:02:31,510
+Il existe en effet trois populations lymphocytaires.
+
+54
+00:02:32,480 --> 00:02:35,580
+Nous avons les lymphocytes T qui ont une
+
+55
+00:02:35,580 --> 00:02:37,760
+différenciation dans la moelle osseuse et dans le
+
+56
+00:02:37,760 --> 00:02:38,260
+thymus.
+
+57
+00:02:38,780 --> 00:02:41,080
+Il s'agit d'un lymphocyte immunodépendant impliqué
+
+58
+00:02:41,080 --> 00:02:43,200
+dans l'immunité à médiation cellulaire.
+
+59
+00:02:43,720 --> 00:02:46,560
+Les lymphocytes T vont commencer leur différenciation au
+
+60
+00:02:46,560 --> 00:02:48,340
+niveau de la moelle osseuse et ils vont
+
+61
+00:02:48,340 --> 00:02:51,380
+finir leur différenciation au niveau du thymus, qui
+
+62
+00:02:51,380 --> 00:02:54,780
+est aussi un organe hématopoïdique central.
+
+63
+00:02:55,720 --> 00:02:59,300
+Ensuite, les lymphocytes B vont commencer la différenciation
+
+64
+00:02:59,300 --> 00:02:59,920
+dans la moelle.
+
+65
+00:03:00,020 --> 00:03:01,460
+Ils vont aussi la finir au niveau de
+
+66
+00:03:01,460 --> 00:03:01,860
+la moelle.
+
+67
+00:03:02,480 --> 00:03:04,280
+Il s'agit d'un lymphocyte impliqué dans
+
+68
+00:03:04,280 --> 00:03:06,500
+l'immunité à médiation humorale.
+
+69
+00:03:07,460 --> 00:03:09,480
+Il y a un troisième type de lymphocytes
+
+70
+00:03:09,480 --> 00:03:12,060
+qu'on appelle lymphocytes nuls, non T et
+
+71
+00:03:12,060 --> 00:03:12,460
+non B.
+
+72
+00:03:13,060 --> 00:03:15,920
+Ce sont principalement les lymphocytes natural killer qu
+
+73
+00:03:15,920 --> 00:03:18,540
+'on appelle aussi NK et ils sont impliqués
+
+74
+00:03:18,540 --> 00:03:21,280
+principalement dans l'immunité antihumorale.
+
+75
+00:03:22,840 --> 00:03:25,240
+Nous allons maintenant faire un rappel sur les
+
+76
+00:03:25,240 --> 00:03:26,540
+organes hématopoïdiques.
+
+77
+00:03:27,400 --> 00:03:29,280
+Comme on a déjà vu sur le cours
+
+78
+00:03:29,280 --> 00:03:31,940
+de l'hématopoïèse, il y a deux types
+
+79
+00:03:31,940 --> 00:03:34,620
+d'organes hématopoïdiques qui sont aussi les organes
+
+80
+00:03:34,620 --> 00:03:35,320
+lymphoïdes.
+
+81
+00:03:36,240 --> 00:03:38,540
+Il y a les organes centraux qui sont
+
+82
+00:03:38,540 --> 00:03:41,200
+la moelle osseuse et le thymus et les
+
+83
+00:03:41,200 --> 00:03:43,900
+organes périphériques ou secondaires qui sont la rate,
+
+84
+00:03:44,000 --> 00:03:47,580
+les ganglions lymphatiques et le tissu lymphoïde associé
+
+85
+00:03:47,580 --> 00:03:49,880
+aux muqueuses qu'on appelle aussi malte.
+
+86
+00:03:52,070 --> 00:03:54,170
+Pour la moelle osseuse, nous avons ici le
+
+87
+00:03:54,170 --> 00:03:56,330
+schéma qu'on avait déjà abordé dans le
+
+88
+00:03:56,330 --> 00:03:58,150
+premier cours sur l'hématopoïèse.
+
+89
+00:03:58,150 --> 00:04:00,710
+On a ici la moelle osseuse qui est
+
+90
+00:04:00,710 --> 00:04:01,870
+localisée dans l'os.
+
+91
+00:04:02,130 --> 00:04:04,530
+On voit les détails de cette moelle osseuse
+
+92
+00:04:04,530 --> 00:04:06,590
+dans le carré en bas à gauche.
+
+93
+00:04:07,450 --> 00:04:11,210
+Elle est constituée de niches hématopoïdiques qui sont
+
+94
+00:04:11,210 --> 00:04:13,710
+entourées de micro-environnements médulaires comme on avait
+
+95
+00:04:13,710 --> 00:04:14,750
+déjà bien expliqué.
+
+96
+00:04:16,810 --> 00:04:20,649
+Ces niches hématopoïdiques sont faites d'un ensemble
+
+97
+00:04:20,649 --> 00:04:22,690
+de cellules hématopoïdiques à tous les stades de
+
+98
+00:04:22,690 --> 00:04:24,230
+différenciation et de maturation.
+
+99
+00:04:24,810 --> 00:04:26,450
+On commence tout d'abord par la cellule
+
+100
+00:04:26,450 --> 00:04:29,770
+souche hématopoïdique qui va donner naissance au progéniteur
+
+101
+00:04:29,770 --> 00:04:31,350
+myéloïde commun.
+
+102
+00:04:33,270 --> 00:04:35,210
+Et de l'autre côté, elle va donner
+
+103
+00:04:35,210 --> 00:04:37,350
+naissance au progéniteur lymphoïde commun.
+
+104
+00:04:37,550 --> 00:04:39,290
+C'est cette partie qui nous intéresse aujourd
+
+105
+00:04:39,290 --> 00:04:39,470
+'hui.
+
+106
+00:04:40,070 --> 00:04:42,390
+Nous avons ce progéniteur lymphoïde commun qui va
+
+107
+00:04:42,390 --> 00:04:44,990
+donner naissance au lymphocyte B, au lymphocyte T
+
+108
+00:04:44,990 --> 00:04:47,070
+et au lymphocyte natural killer.
+
+109
+00:04:48,490 --> 00:04:50,850
+La moelle osseuse est le siège de l
+
+110
+00:04:50,850 --> 00:04:54,150
+'hématopoïèse en général, mais aussi de la lymphopoïèse.
+
+111
+00:04:55,100 --> 00:04:57,750
+Il s'agit d'un organe hématopoïdique central
+
+112
+00:04:57,750 --> 00:04:59,910
+et on peut aussi l'appeler un organe
+
+113
+00:04:59,910 --> 00:05:01,170
+lymphoïde central.
+
+114
+00:05:02,750 --> 00:05:07,130
+Le deuxième organe hématopoïdique est le lymphoïde central
+
+115
+00:05:07,130 --> 00:05:11,190
+et le thymus, situé au niveau du médiastin
+
+116
+00:05:11,190 --> 00:05:13,130
+antérosupérieur et antéromoyant.
+
+117
+00:05:14,050 --> 00:05:16,370
+Il s'agit d'un organe encapsulé qui
+
+118
+00:05:16,370 --> 00:05:19,150
+est constitué de deux lobes et chaque lobe
+
+119
+00:05:19,150 --> 00:05:20,610
+contient plusieurs lobules.
+
+120
+00:05:20,610 --> 00:05:24,830
+Il est structuré d'une zone corticale, d
+
+121
+00:05:24,830 --> 00:05:28,030
+'une zone médulaire et de corpuscules de hassales.
+
+122
+00:05:28,650 --> 00:05:31,390
+Le thymus est irrigué par une artère, une
+
+123
+00:05:31,390 --> 00:05:32,610
+veine et des vaisseaux lymphatiques.
+
+124
+00:05:34,030 --> 00:05:36,550
+La lymphopoïèse T va commencer au niveau de
+
+125
+00:05:36,550 --> 00:05:38,810
+la moelle osseuse et va finir au niveau
+
+126
+00:05:38,810 --> 00:05:43,550
+du thymus qui est un organe exclusivement lymphoïde
+
+127
+00:05:43,550 --> 00:05:48,390
+et qui va comporter de façon exclusive la
+
+128
+00:05:48,390 --> 00:05:51,030
+différenciation et la maturation des lymphocytes T.
+
+129
+00:05:51,250 --> 00:05:52,890
+Bien sûr, comme on a déjà dit, les
+
+130
+00:05:52,890 --> 00:05:54,550
+lymphocytes B ne vont pas passer dans le
+
+131
+00:05:54,550 --> 00:05:54,990
+thymus.
+
+132
+00:05:55,510 --> 00:05:57,890
+Ils ont une différenciation et une maturation qui
+
+133
+00:05:57,890 --> 00:05:59,730
+se fait complètement au niveau de la moelle
+
+134
+00:05:59,730 --> 00:06:00,170
+osseuse.
+
+135
+00:06:00,770 --> 00:06:04,250
+Le thymus est un organe exclusif des lymphocytes
+
+136
+00:06:04,250 --> 00:06:04,490
+T.
+
+137
+00:06:05,710 --> 00:06:08,630
+Le premier organe lymphoïde périphérique étant la rate.
+
+138
+00:06:08,630 --> 00:06:11,990
+C'est un organe qui est aussi encapsulé,
+
+139
+00:06:12,210 --> 00:06:15,030
+qui est constitué d'une pulpe rouge au
+
+140
+00:06:15,030 --> 00:06:17,650
+siège des globules rouges principalement et d'une
+
+141
+00:06:17,650 --> 00:06:19,890
+pulpe blanche qui est le siège de lymphocytes
+
+142
+00:06:19,890 --> 00:06:21,570
+B mais aussi de lymphocytes T.
+
+143
+00:06:21,870 --> 00:06:23,170
+Il y a les deux lymphocytes B et
+
+144
+00:06:23,170 --> 00:06:25,910
+lymphocytes T qui vont être situés au niveau
+
+145
+00:06:25,910 --> 00:06:28,510
+de la pulpe blanche, au niveau de la
+
+146
+00:06:28,510 --> 00:06:28,810
+rate.
+
+147
+00:06:29,550 --> 00:06:31,030
+Comme on avait déjà dit, il s'agit
+
+148
+00:06:31,030 --> 00:06:33,290
+d'un organe qui est richement vascularisé et
+
+149
+00:06:33,290 --> 00:06:35,250
+il est irrigué par une artère et une
+
+150
+00:06:35,250 --> 00:06:35,490
+veine.
+
+151
+00:06:36,070 --> 00:06:40,270
+La rate est un organe lymphoïde secondaire ou
+
+152
+00:06:40,270 --> 00:06:40,950
+périphérique.
+
+153
+00:06:41,190 --> 00:06:43,270
+Il faut savoir que la différence principale entre
+
+154
+00:06:43,270 --> 00:06:45,590
+les organes lymphoïdes centraux et les organes lymphoïdes
+
+155
+00:06:45,590 --> 00:06:47,990
+périphériques, c'est qu'au niveau des organes
+
+156
+00:06:47,990 --> 00:06:49,730
+lymphoïdes centraux, il n'y a pas de
+
+157
+00:06:49,730 --> 00:06:50,850
+rencontre avec l'antigène.
+
+158
+00:06:50,970 --> 00:06:52,410
+Il y a juste une différenciation et une
+
+159
+00:06:52,410 --> 00:06:55,570
+maturation des lymphocytes mais sans stimulation antigénique.
+
+160
+00:06:56,810 --> 00:06:59,670
+La stimulation antigénique va se faire au niveau
+
+161
+00:06:59,670 --> 00:07:01,550
+des organes lymphoïdes périphériques.
+
+162
+00:07:01,550 --> 00:07:04,970
+C'est là où les lymphocytes vont entrer
+
+163
+00:07:04,970 --> 00:07:07,650
+en contact avec l'antigène et vont compléter
+
+164
+00:07:07,650 --> 00:07:11,550
+leur maturation pour devenir fonctionnellement matures et pour
+
+165
+00:07:11,550 --> 00:07:14,930
+pouvoir effectuer leur rôle dans l'humanité, que
+
+166
+00:07:14,930 --> 00:07:16,350
+ce soit cellulaire ou humorale.
+
+167
+00:07:17,190 --> 00:07:19,630
+Si on veut le schématiser comme ça, c
+
+168
+00:07:19,630 --> 00:07:22,530
+'est la rate qui est l'organe principal
+
+169
+00:07:22,530 --> 00:07:26,570
+de rencontre entre les lymphocytes et les antigènes.
+
+170
+00:07:27,010 --> 00:07:28,810
+C'est pourquoi il y a certains auteurs
+
+171
+00:07:28,810 --> 00:07:30,710
+qui parlent de gendarmes de l'organisme.
+
+172
+00:07:30,710 --> 00:07:33,390
+Ils décrivent la rate comme étant un gendarme
+
+173
+00:07:33,390 --> 00:07:34,110
+de l'organisme.
+
+174
+00:07:35,490 --> 00:07:38,470
+Les ganglions lymphatiques sont aussi des organes lymphoïdes
+
+175
+00:07:38,470 --> 00:07:40,910
+périphériques dans lesquels il va y avoir rencontre
+
+176
+00:07:40,910 --> 00:07:43,210
+entre l'antigène et les lymphocytes B et
+
+177
+00:07:43,210 --> 00:07:43,370
+T.
+
+178
+00:07:43,890 --> 00:07:45,650
+Il s'agit d'organes capsulés qui sont
+
+179
+00:07:45,650 --> 00:07:47,830
+constitués d'une zone corticale, d'une zone
+
+180
+00:07:47,830 --> 00:07:49,730
+paracorticale et d'une zone médulaire.
+
+181
+00:07:50,250 --> 00:07:52,430
+Au niveau de la zone corticale sont situés
+
+182
+00:07:52,430 --> 00:07:53,190
+les follicules.
+
+183
+00:07:53,570 --> 00:07:56,470
+Ils peuvent être primaires ou secondaires, donc primaires
+
+184
+00:07:56,470 --> 00:07:59,110
+avant stimulation et secondaires après stimulation.
+
+185
+00:07:59,770 --> 00:08:02,610
+Ces follicules sont le siège de lymphocytes B.
+
+186
+00:08:03,330 --> 00:08:06,390
+La zone paracorticale est le siège de lymphocytes
+
+187
+00:08:06,390 --> 00:08:06,710
+T.
+
+188
+00:08:07,310 --> 00:08:09,510
+Et au centre, nous avons une zone médulaire.
+
+189
+00:08:10,870 --> 00:08:14,650
+Le ganglion lymphatique contient des vaisseaux lymphatiques afférents,
+
+190
+00:08:14,750 --> 00:08:17,810
+un vaisseau lymphatique afférent, une artère et une
+
+191
+00:08:17,810 --> 00:08:18,050
+veine.
+
+192
+00:08:20,090 --> 00:08:24,490
+Le tissu lymphoïde périphérique appelé osmase est quantitativement
+
+193
+00:08:24,490 --> 00:08:25,130
+très important.
+
+194
+00:08:25,130 --> 00:08:27,270
+C'est un tissu qui est situé dans
+
+195
+00:08:27,270 --> 00:08:28,950
+toutes les portes d'entrée de l'organisme,
+
+196
+00:08:29,690 --> 00:08:32,490
+à savoir le système digestif, le système respiratoire.
+
+197
+00:08:32,990 --> 00:08:34,890
+Il s'agit de lymphocytes présents sous forme
+
+198
+00:08:34,890 --> 00:08:37,289
+diffuse ou sous forme nodulaire.
+
+199
+00:08:37,929 --> 00:08:40,429
+Passons maintenant à l'origine et la circulation
+
+200
+00:08:40,429 --> 00:08:41,630
+des cellules lymphoïdes.
+
+201
+00:08:43,169 --> 00:08:45,470
+Pour l'origine et la circulation des cellules
+
+202
+00:08:45,470 --> 00:08:47,510
+lymphoïdes, nous allons voir tout d'abord l
+
+203
+00:08:47,510 --> 00:08:50,610
+'origine et la migration initiale des cellules lymphoïdes.
+
+204
+00:08:51,130 --> 00:08:55,650
+Ensuite, nous allons voir la recirculation des cellules
+
+205
+00:08:55,650 --> 00:08:56,990
+lymphoïdes matures.
+
+206
+00:08:58,330 --> 00:09:01,690
+La cellule souche hématopoétique totipotente, comme vous le
+
+207
+00:09:01,690 --> 00:09:03,530
+savez, va donner naissance à la cellule souche
+
+208
+00:09:03,530 --> 00:09:06,310
+lymphoïde qui, à son tour, va donner naissance
+
+209
+00:09:06,310 --> 00:09:07,090
+au pré-B.
+
+210
+00:09:07,730 --> 00:09:10,110
+Le pré-B va subir une différenciation et
+
+211
+00:09:10,110 --> 00:09:12,210
+une maturation dans la moelle pour donner des
+
+212
+00:09:12,210 --> 00:09:13,510
+lymphocytes B matures.
+
+213
+00:09:13,510 --> 00:09:16,990
+Et le pré-T va subir une différenciation
+
+214
+00:09:16,990 --> 00:09:19,730
+et une maturation dans le tumus pour donner
+
+215
+00:09:19,730 --> 00:09:21,230
+des lymphocytes T matures.
+
+216
+00:09:22,490 --> 00:09:25,770
+Ces lymphocytes B et T sont matures, mais
+
+217
+00:09:25,770 --> 00:09:27,270
+fonctionnellement immatures.
+
+218
+00:09:27,470 --> 00:09:29,990
+Ils vont devenir fonctionnellement matures au niveau des
+
+219
+00:09:29,990 --> 00:09:33,010
+organes lymphoïdes secondaires où ils vont entrer en
+
+220
+00:09:33,010 --> 00:09:34,790
+contact avec l'antigène.
+
+221
+00:09:34,790 --> 00:09:38,150
+Ensuite, ils vont gagner la circulation lymphatique pour
+
+222
+00:09:38,150 --> 00:09:40,030
+passer ensuite dans la circulation sanguine.
+
+223
+00:09:41,250 --> 00:09:42,670
+Et on estime qu'au niveau de la
+
+224
+00:09:42,670 --> 00:09:45,510
+circulation sanguine, il y a entre 70 et
+
+225
+00:09:45,510 --> 00:09:48,530
+80 % de lymphocytes B et entre 5
+
+226
+00:09:48,530 --> 00:09:50,190
+et 10 % de lymphocytes T.
+
+227
+00:09:51,530 --> 00:09:54,830
+Ces lymphocytes fonctionnellement matures vont subir une recirculation.
+
+228
+00:09:56,310 --> 00:09:57,370
+En effet, qu'est-ce qui va se
+
+229
+00:09:57,370 --> 00:09:57,690
+passer?
+
+230
+00:09:57,690 --> 00:10:00,370
+Ils vont rejoindre le canal thoracique.
+
+231
+00:10:00,470 --> 00:10:03,270
+Comme vous le savez, le canal thoracique est
+
+232
+00:10:03,270 --> 00:10:05,390
+le vaisseau lymphatique le plus important de l
+
+233
+00:10:05,390 --> 00:10:05,950
+'organisme.
+
+234
+00:10:06,670 --> 00:10:08,630
+Ils vont passer dans le canal thoracique pour
+
+235
+00:10:08,630 --> 00:10:10,590
+rejoindre la circulation générale.
+
+236
+00:10:11,050 --> 00:10:13,530
+Et ceci va leur permettre d'atteindre les
+
+237
+00:10:13,530 --> 00:10:17,750
+organes lymphoïdes périphériques les plus éloignés et par
+
+238
+00:10:17,750 --> 00:10:20,850
+conséquent rencontrer à nouveau d'autres antigènes.
+
+239
+00:10:21,530 --> 00:10:24,730
+Cette rencontre va leur permettre de produire des
+
+240
+00:10:24,730 --> 00:10:27,450
+clones identiques de lymphocytes B et ou de
+
+241
+00:10:27,450 --> 00:10:28,190
+lymphocytes T.
+
+242
+00:10:29,110 --> 00:10:31,670
+Cette recirculation est en effet un phénomène très
+
+243
+00:10:31,670 --> 00:10:34,130
+important parce qu'il va permettre la dispersion
+
+244
+00:10:34,130 --> 00:10:37,250
+dans l'organisme de lymphocytes éduqués qui sont
+
+245
+00:10:37,250 --> 00:10:40,090
+aptes à reconnaître différents types d'antigènes.
+
+246
+00:10:41,390 --> 00:10:44,270
+Maintenant, nous allons voir en détail la lymphopoïèse
+
+247
+00:10:44,270 --> 00:10:44,610
+T.
+
+248
+00:10:45,650 --> 00:10:48,510
+Pour la lymphopoïèse T, nous allons commencer tout
+
+249
+00:10:48,510 --> 00:10:51,430
+d'abord par la cellule souche totipotente qui
+
+250
+00:10:51,430 --> 00:10:53,950
+va donner naissance au progéniteur lymphoïde commun au
+
+251
+00:10:53,950 --> 00:10:55,050
+niveau de la moelle osseuse.
+
+252
+00:10:55,790 --> 00:10:58,210
+Celui-là va quitter aussitôt la moelle osseuse
+
+253
+00:10:58,210 --> 00:11:00,590
+pour partir dans la zone corticale du thumus
+
+254
+00:11:00,590 --> 00:11:03,830
+où il sera appelé prothymosyte ou thymocyte cortical.
+
+255
+00:11:05,590 --> 00:11:08,170
+Ce prothymosyte toujours dans la zone corticale va
+
+256
+00:11:08,170 --> 00:11:10,870
+donner le préthymocyte qu'on appelle aussi thymocyte
+
+257
+00:11:10,870 --> 00:11:11,130
+commun.
+
+258
+00:11:11,130 --> 00:11:14,630
+A ce stade, il y aura apparition concomitante
+
+259
+00:11:14,630 --> 00:11:16,310
+de CD4 et de CD8.
+
+260
+00:11:16,550 --> 00:11:18,070
+Nous allons voir par la suite que ces
+
+261
+00:11:18,070 --> 00:11:20,610
+cellules vont garder ou bien le CD4 ou
+
+262
+00:11:20,610 --> 00:11:21,350
+bien le CD8.
+
+263
+00:11:21,790 --> 00:11:24,190
+Mais à cette étape, ce sont des thymocytes
+
+264
+00:11:24,190 --> 00:11:27,110
+qui vont exprimer de façon concomitante le CD4
+
+265
+00:11:27,110 --> 00:11:28,270
+mais aussi le CD8.
+
+266
+00:11:29,130 --> 00:11:31,110
+Il y aura aussi apparition d'autres marqueurs
+
+267
+00:11:31,110 --> 00:11:33,110
+qui sont le CD7, le CD1 et le
+
+268
+00:11:33,110 --> 00:11:33,330
+CD2.
+
+269
+00:11:34,190 --> 00:11:35,710
+Alors c'est quoi ce CD en fait
+
+270
+00:11:35,710 --> 00:11:37,850
+ou ce qu'on appelle des clusters de
+
+271
+00:11:37,850 --> 00:11:39,170
+différenciation ?
+
+272
+00:11:39,170 --> 00:11:41,290
+Ce sont tout simplement des marqueurs de la
+
+273
+00:11:41,290 --> 00:11:42,190
+membrane des lymphocytes.
+
+274
+00:11:42,350 --> 00:11:45,210
+Ce sont des antigènes membranaires, antigènes qui sont
+
+275
+00:11:45,210 --> 00:11:48,670
+fixés à la membrane, qui font partie de
+
+276
+00:11:48,670 --> 00:11:49,850
+la structure de la membrane.
+
+277
+00:11:50,650 --> 00:11:54,730
+Ces antigènes membranaires sont en fait capables d
+
+278
+00:11:54,730 --> 00:11:57,050
+'être reconnus par des anticorps monoclonaux.
+
+279
+00:11:57,530 --> 00:12:00,770
+Si on utilise des anticorps monoclonaux de commerce,
+
+280
+00:12:01,470 --> 00:12:04,650
+ces anticorps peuvent aller se fixer sur ces
+
+281
+00:12:04,650 --> 00:12:07,470
+antigènes membranaires pour les reconnaître.
+
+282
+00:12:08,250 --> 00:12:11,450
+Ceci a bien sûr une application qui est
+
+283
+00:12:11,450 --> 00:12:12,570
+très importante en pratique.
+
+284
+00:12:12,810 --> 00:12:15,490
+C'est tout simplement la détermination des sous
+
+285
+00:12:15,490 --> 00:12:18,110
+-populations lymphocytaires ou aussi le diagnostic de certaines
+
+286
+00:12:18,110 --> 00:12:20,890
+pathologies relatives aux lymphocytes.
+
+287
+00:12:21,290 --> 00:12:25,910
+Nous avons ces marqueurs de membrane qu'on
+
+288
+00:12:25,910 --> 00:12:30,670
+appelle aussi clusters de différenciation ou marqueurs de
+
+289
+00:12:30,670 --> 00:12:31,470
+différenciation.
+
+290
+00:12:31,650 --> 00:12:32,750
+C'est exactement la même chose.
+
+291
+00:12:33,430 --> 00:12:36,410
+Ces thymocytes vont subir une sélection positive en
+
+292
+00:12:36,410 --> 00:12:38,830
+entrant en contact avec les molécules du CMH
+
+293
+00:12:38,830 --> 00:12:39,610
+1 et 2.
+
+294
+00:12:40,390 --> 00:12:42,270
+Les cellules qui ne peuvent pas entrer en
+
+295
+00:12:42,270 --> 00:12:45,170
+contact avec ces molécules vont tout simplement subir
+
+296
+00:12:45,170 --> 00:12:45,950
+une apoptose.
+
+297
+00:12:46,170 --> 00:12:48,270
+C'est-à-dire que ces lymphocytes vont
+
+298
+00:12:48,270 --> 00:12:52,050
+être conditionnés pour reconnaître les molécules du CMH.
+
+299
+00:12:52,150 --> 00:12:53,890
+S'ils ne peuvent pas reconnaître ces molécules,
+
+300
+00:12:54,230 --> 00:12:55,870
+elles vont être détruites.
+
+301
+00:12:56,130 --> 00:12:57,890
+Donc c'est une sélection positive.
+
+302
+00:12:58,870 --> 00:13:01,590
+Ce thymocyte commun va migrer ensuite dans la
+
+303
+00:13:01,590 --> 00:13:04,490
+zone médulaire du thymus pour devenir un thymocyte
+
+304
+00:13:04,490 --> 00:13:06,150
+mature ou thymocyte médulaire.
+
+305
+00:13:07,030 --> 00:13:09,070
+Il va acquérir d'autres marqueurs.
+
+306
+00:13:09,510 --> 00:13:11,790
+Déjà, il va n'exprimer à ce stade
+
+307
+00:13:11,790 --> 00:13:14,010
+que le CD4 ou bien le CD8.
+
+308
+00:13:14,750 --> 00:13:16,830
+Ensuite, il va exprimer le récepteur de l
+
+309
+00:13:16,830 --> 00:13:18,110
+'antigène qui est le TCR.
+
+310
+00:13:18,810 --> 00:13:21,250
+Il va y avoir disparition du CD1 mais
+
+311
+00:13:21,250 --> 00:13:23,930
+apparition du CD3 marquant la fin de la
+
+312
+00:13:23,930 --> 00:13:24,990
+maturation thymique.
+
+313
+00:13:25,690 --> 00:13:28,370
+Une seconde sélection est faite à ce stade
+
+314
+00:13:28,370 --> 00:13:31,070
+pour éliminer les cellules, cette fois-ci fortement
+
+315
+00:13:31,070 --> 00:13:33,370
+réactives avec les molécules du soie.
+
+316
+00:13:33,910 --> 00:13:36,510
+Les thymocytes vont entrer en contact avec les
+
+317
+00:13:36,510 --> 00:13:40,310
+cellules dendritiques qui sont porteuses des complexes CMH1
+
+318
+00:13:40,310 --> 00:13:41,430
+ou CMH2.
+
+319
+00:13:42,050 --> 00:13:44,010
+S'il y a une forte réaction avec
+
+320
+00:13:44,010 --> 00:13:47,290
+ces molécules, ce sont des thymocytes qui vont
+
+321
+00:13:47,290 --> 00:13:48,250
+subir une apoptose.
+
+322
+00:13:48,250 --> 00:13:49,010
+Pourquoi ?
+
+323
+00:13:49,010 --> 00:13:51,430
+Parce qu'on ne veut pas que ces
+
+324
+00:13:51,430 --> 00:13:56,070
+thymocytes nouvellement produits constituent une menace pour l
+
+325
+00:13:56,070 --> 00:13:56,530
+'organisme.
+
+326
+00:13:56,630 --> 00:13:58,590
+On ne veut pas qu'ils aillent détruire
+
+327
+00:13:58,590 --> 00:14:00,090
+les propres cellules de l'organisme.
+
+328
+00:14:00,550 --> 00:14:01,630
+Normalement, il ne faut pas qu'il y
+
+329
+00:14:01,630 --> 00:14:05,070
+ait une réactivité forte ou bien une affinité
+
+330
+00:14:05,070 --> 00:14:07,730
+forte aux molécules du CMH du soie.
+
+331
+00:14:08,270 --> 00:14:10,190
+Par conséquent, s'il y a une forte
+
+332
+00:14:10,190 --> 00:14:14,450
+interaction avec les molécules du CMH1 ou CMH2,
+
+333
+00:14:15,490 --> 00:14:17,670
+automatiquement ce sont des thymocytes qui vont subir
+
+334
+00:14:17,670 --> 00:14:18,510
+une apoptose.
+
+335
+00:14:18,970 --> 00:14:21,710
+Si par contre l'interaction est faible, ce
+
+336
+00:14:21,710 --> 00:14:23,570
+sont alors les thymocytes qui vont survivre.
+
+337
+00:14:24,750 --> 00:14:27,270
+Ils vont passer ensuite dans la circulation sanguine.
+
+338
+00:14:29,170 --> 00:14:32,350
+Ces lymphocytes vont partir dans la circulation sanguine.
+
+339
+00:14:32,690 --> 00:14:35,410
+Ils sont matures mais fonctionnellement immatures.
+
+340
+00:14:35,550 --> 00:14:37,350
+On les appelle aussi des lymphocytes naïfs.
+
+341
+00:14:37,350 --> 00:14:40,330
+Ils vont partir dans les zones T dépendant
+
+342
+00:14:40,330 --> 00:14:43,390
+des organes lymphoïdes secondaires pour entrer en contact
+
+343
+00:14:43,390 --> 00:14:45,990
+avec l'antigène et pour devenir fonctionnellement matures.
+
+344
+00:14:46,470 --> 00:14:48,990
+Ils vont subir une activation antigénique qui va
+
+345
+00:14:48,990 --> 00:14:51,790
+conduire à l'apparition de marqueurs d'activation
+
+346
+00:14:51,790 --> 00:14:53,830
+qui sont le CD25 et l'HLA classe
+
+347
+00:14:53,830 --> 00:14:54,070
+2.
+
+348
+00:14:54,670 --> 00:14:57,270
+Ensuite, ils vont subir une stimulation antigénique qui
+
+349
+00:14:57,270 --> 00:14:59,470
+va conduire à l'apparition de différentes populations
+
+350
+00:14:59,470 --> 00:15:01,770
+lymphocytaires qui ont différentes fonctions.
+
+351
+00:15:03,150 --> 00:15:06,990
+Ces lymphocytes stimulés sont alors de plusieurs types
+
+352
+00:15:06,990 --> 00:15:08,850
+ou bien ils appartiennent à différentes populations.
+
+353
+00:15:09,470 --> 00:15:12,050
+Nous avons tout d'abord les lymphocytes CD4
+
+354
+00:15:12,050 --> 00:15:15,190
+helpers et les lymphocytes suppresseurs qui entrent dans
+
+355
+00:15:15,190 --> 00:15:16,990
+la régulation de la réponse immune.
+
+356
+00:15:17,410 --> 00:15:22,410
+Nous avons ensuite les lymphocytes CD8 cytotoxiques responsables
+
+357
+00:15:22,410 --> 00:15:25,310
+de la cytotoxicité restreinte et spécifique d'antigènes.
+
+358
+00:15:25,870 --> 00:15:27,450
+Ce sont des effecteurs de l'immunité à
+
+359
+00:15:27,450 --> 00:15:28,550
+médiation cellulaire.
+
+360
+00:15:29,910 --> 00:15:34,470
+Et enfin, nous avons les lymphocytes CD4 mémoires
+
+361
+00:15:34,470 --> 00:15:37,310
+qui sont secrétaires de lymphokines et qui sont
+
+362
+00:15:37,310 --> 00:15:39,510
+effecteurs de l'hypersensibilité retardée.
+
+363
+00:15:40,970 --> 00:15:43,510
+Passons maintenant à la lymphopoïèse B.
+
+364
+00:15:45,130 --> 00:15:48,010
+Pour la lymphopoïèse B, nous avons une première
+
+365
+00:15:48,010 --> 00:15:50,450
+différenciation et maturation au niveau de la moelle
+
+366
+00:15:50,450 --> 00:15:53,850
+osseuse qui est indépendante de toute stimulation antigénique.
+
+367
+00:15:53,850 --> 00:15:56,570
+Et ensuite, nous avons une activation qui est
+
+368
+00:15:56,570 --> 00:15:58,850
+dépendante de l'antigène au niveau des organes
+
+369
+00:15:58,850 --> 00:15:59,850
+lymphocytes secondaires.
+
+370
+00:16:00,490 --> 00:16:02,510
+Nous allons commencer tout d'abord par cette
+
+371
+00:16:02,510 --> 00:16:05,370
+première différenciation au niveau de la moelle osseuse.
+
+372
+00:16:06,150 --> 00:16:08,470
+En effet, sous l'influence du stem cell
+
+373
+00:16:08,470 --> 00:16:11,150
+factor et de l'interleukin 3, la cellule
+
+374
+00:16:11,150 --> 00:16:14,350
+souche hématopoïétique va donner naissance au progéniteur lymphocytes
+
+375
+00:16:14,350 --> 00:16:14,650
+commun.
+
+376
+00:16:15,210 --> 00:16:17,670
+Ce dernier va proliférer sous l'influence de
+
+377
+00:16:17,670 --> 00:16:20,150
+l'interleukin 7 en quatre étapes.
+
+378
+00:16:20,150 --> 00:16:22,510
+Tout d'abord, nous avons le premier stade
+
+379
+00:16:22,510 --> 00:16:24,510
+qui est le stade B1 ou pro-B
+
+380
+00:16:24,510 --> 00:16:27,790
+qui exprime l'HLADR classe 2, le CD19
+
+381
+00:16:27,790 --> 00:16:28,650
+et le CD20.
+
+382
+00:16:29,110 --> 00:16:33,190
+Suivi du stade B2 ou pré-B exprimant
+
+383
+00:16:33,190 --> 00:16:36,090
+l'HLADR classe 2, le CD19, le CD20
+
+384
+00:16:36,090 --> 00:16:38,250
+et en plus le CD10.
+
+385
+00:16:38,250 --> 00:16:43,070
+Ensuite, nous avons le stade B3 ou immature
+
+386
+00:16:43,070 --> 00:16:46,410
+B suivi du stade B4 ou mature B
+
+387
+00:16:46,410 --> 00:16:49,710
+qui exprime l'HLADR classe 2, le CD19,
+
+388
+00:16:49,850 --> 00:16:53,230
+le CD20 mais aussi le CD21 à côté
+
+389
+00:16:53,230 --> 00:16:55,970
+d'une immunoglobuline IgM de surface.
+
+390
+00:16:57,170 --> 00:16:59,810
+Ensuite, ces lymphocytes B vont migrer par voie
+
+391
+00:16:59,810 --> 00:17:03,170
+sanguine pour aller atteindre les zones B dépendantes
+
+392
+00:17:03,170 --> 00:17:05,490
+des organes lymphoïdes périphériques où ils vont entrer
+
+393
+00:17:05,490 --> 00:17:06,790
+en contact avec l'antigène.
+
+394
+00:17:07,910 --> 00:17:10,869
+Selon la nature de l'antigène, les lymphocytes
+
+395
+00:17:10,869 --> 00:17:13,609
+B vont être activés de façon directe ou
+
+396
+00:17:13,609 --> 00:17:13,890
+indirecte.
+
+397
+00:17:14,630 --> 00:17:17,030
+Alors, si les antigènes sont de nature protéique,
+
+398
+00:17:17,150 --> 00:17:19,550
+il va y avoir une intervention des lymphocytes
+
+399
+00:17:19,550 --> 00:17:20,390
+CD4 helper.
+
+400
+00:17:20,730 --> 00:17:23,170
+On avait déjà vu que les lymphocytes CD4
+
+401
+00:17:23,170 --> 00:17:26,750
+helper ont un rôle dans l'immunité par
+
+402
+00:17:26,750 --> 00:17:28,530
+régulation de la réponse immune.
+
+403
+00:17:28,530 --> 00:17:31,510
+Si par contre les antigènes sont de nature
+
+404
+00:17:31,510 --> 00:17:34,090
+glucidolipidique, il va y avoir tout simplement une
+
+405
+00:17:34,090 --> 00:17:37,470
+activation directe des lymphocytes B par les antigènes
+
+406
+00:17:37,470 --> 00:17:37,950
+eux-mêmes.
+
+407
+00:17:38,910 --> 00:17:42,130
+Ces lymphocytes B activés vont se transformer en
+
+408
+00:17:42,130 --> 00:17:46,190
+plasmocytes qui sont des cellules sécrétrices d'anticorps
+
+409
+00:17:46,190 --> 00:17:48,430
+et donc qui sont responsables de l'immunité
+
+410
+00:17:48,430 --> 00:17:51,570
+à médiation humorale et ils vont sécréter un
+
+411
+00:17:51,570 --> 00:17:55,370
+seul type d'immunoglobuline IgM, IgG, IgA, IgE
+
+412
+00:17:55,370 --> 00:17:57,050
+ou bien IgD.
+
+413
+00:17:57,050 --> 00:17:59,350
+Allons maintenant dire un mot sur les autres
+
+414
+00:17:59,350 --> 00:18:01,610
+cellules lymphoïdes non B et non T.
+
+415
+00:18:02,090 --> 00:18:04,390
+Ils ont une suite de toxicités non restreintes
+
+416
+00:18:04,390 --> 00:18:05,210
+et non spécifiques.
+
+417
+00:18:05,450 --> 00:18:09,030
+Ce sont les cellules K, cellules à toxicité
+
+418
+00:18:09,030 --> 00:18:11,410
+non restreinte médiée par les anticorps et les
+
+419
+00:18:11,410 --> 00:18:15,350
+cellules NK, cellules natural killers, qui correspondent morphologiquement
+
+420
+00:18:15,350 --> 00:18:18,510
+aux grands lymphocytes granulaires exprimant le CD16.
+
+421
+00:18:19,930 --> 00:18:23,830
+Ils sont surtout responsables de l'immunité en
+
+422
+00:18:23,830 --> 00:18:24,410
+situ moral.
+
+423
+00:18:25,690 --> 00:18:29,390
+Regardons maintenant les principaux aspects morphologiques des lymphocytes
+
+424
+00:18:29,390 --> 00:18:29,890
+matures.
+
+425
+00:18:30,990 --> 00:18:33,330
+Il existe alors deux types morphologiques pour les
+
+426
+00:18:33,330 --> 00:18:34,210
+lymphocytes normaux.
+
+427
+00:18:34,430 --> 00:18:36,390
+D'une part, nous avons les petits lymphocytes.
+
+428
+00:18:36,590 --> 00:18:38,650
+C'est une cellule au noyau mature et
+
+429
+00:18:38,650 --> 00:18:41,430
+avec un cytoplasme peu abondant.
+
+430
+00:18:41,550 --> 00:18:44,190
+On parle d'un lyserée cytoplasmique, un tout
+
+431
+00:18:44,190 --> 00:18:46,910
+petit cytoplasme légèrement basophile.
+
+432
+00:18:46,910 --> 00:18:51,510
+Il existe aussi de façon physiologique le grand
+
+433
+00:18:51,510 --> 00:18:56,070
+lymphocyte, une cellule relativement plus grande avec un
+
+434
+00:18:56,070 --> 00:18:58,110
+cytoplasme plus abondant.
+
+435
+00:18:58,250 --> 00:19:01,150
+Ce grand lymphocyte peut être des fois granulaire.
+
+436
+00:19:01,430 --> 00:19:04,890
+On l'appelle le GLG pour grand lymphocyte
+
+437
+00:19:04,890 --> 00:19:05,170
+granulaire.
+
+438
+00:19:06,430 --> 00:19:08,910
+Si on regarde de près la structure du
+
+439
+00:19:08,910 --> 00:19:10,710
+petit lymphocyte, il s'agit d'une cellule
+
+440
+00:19:10,710 --> 00:19:13,230
+arrondie de taille légèrement supérieure à celle du
+
+441
+00:19:13,230 --> 00:19:16,070
+némacy, de 8 à 12 micromètres de diamètre.
+
+442
+00:19:16,070 --> 00:19:17,970
+Comme vous le savez, le diamètre moyen d
+
+443
+00:19:17,970 --> 00:19:20,430
+'un némacy normal est de 8 micromètres.
+
+444
+00:19:21,030 --> 00:19:22,950
+Il suffit de comparer la taille du lymphocyte
+
+445
+00:19:22,950 --> 00:19:26,730
+avec celle de l'némacy pour estimer la
+
+446
+00:19:26,730 --> 00:19:27,870
+taille de ce lymphocyte.
+
+447
+00:19:28,850 --> 00:19:31,410
+Il a un rapport nucléosytoplasmique élevé, c'est
+
+448
+00:19:31,410 --> 00:19:33,230
+-à-dire un cytoplasme qui est très fin.
+
+449
+00:19:33,870 --> 00:19:36,730
+Un noyau rond, parfois encoché, avec chromatine très
+
+450
+00:19:36,730 --> 00:19:37,090
+dense.
+
+451
+00:19:37,350 --> 00:19:38,990
+C'est une chromatine mature qui est très
+
+452
+00:19:38,990 --> 00:19:39,290
+dense.
+
+453
+00:19:39,830 --> 00:19:42,970
+Un cytoplasme peu abondant, modérément basophile.
+
+454
+00:19:43,330 --> 00:19:45,310
+On parle de lyserée cytoplasmique.
+
+455
+00:19:46,070 --> 00:19:48,690
+Le grand lymphocyte est de taille relativement plus
+
+456
+00:19:48,690 --> 00:19:49,050
+grande.
+
+457
+00:19:49,430 --> 00:19:52,030
+Il a de 12 à 15 micromètres de
+
+458
+00:19:52,030 --> 00:19:52,330
+diamètre.
+
+459
+00:19:53,030 --> 00:19:55,270
+Un rapport nucléosytoplasmique moins élevé.
+
+460
+00:19:55,470 --> 00:19:57,450
+Un noyau ovalaire ou quadrangulaire.
+
+461
+00:19:57,590 --> 00:19:58,990
+On parle d'un noyau en drapeau.
+
+462
+00:20:00,150 --> 00:20:02,710
+Une chromatine dense avec des craquelures ou des
+
+463
+00:20:02,710 --> 00:20:03,250
+marbrures.
+
+464
+00:20:03,810 --> 00:20:06,790
+Un cytoplasme translucide discrètement bleuté.
+
+465
+00:20:07,370 --> 00:20:11,350
+Elle peut contenir quelques granulations rouges qui définissent
+
+466
+00:20:11,350 --> 00:20:12,870
+le grand lymphocyte granulaire.
+
+467
+00:20:13,830 --> 00:20:16,950
+Quelles sont maintenant les fonctions des lymphocytes ?
+
+468
+00:20:16,950 --> 00:20:20,490
+Tout d'abord, la réponse immunitaire par immunité
+
+469
+00:20:20,490 --> 00:20:21,610
+à médiation cellulaire.
+
+470
+00:20:21,750 --> 00:20:22,930
+Ce sont les lymphocytes T.
+
+471
+00:20:23,370 --> 00:20:26,130
+La réponse immunitaire par immunité à médiation humorale.
+
+472
+00:20:26,470 --> 00:20:27,450
+Ce sont les lymphocytes B.
+
+473
+00:20:27,890 --> 00:20:29,390
+L'activation des macrophages.
+
+474
+00:20:29,490 --> 00:20:32,570
+La défense antitumoral dans laquelle ce sont les
+
+475
+00:20:32,570 --> 00:20:34,490
+lymphocytes natural killer qui sont impliqués.
+
+476
+00:20:34,910 --> 00:20:37,030
+Les fonctions effectrices de l'immunité à médiation
+
+477
+00:20:37,030 --> 00:20:37,670
+cellulaire.
+
+478
+00:20:38,390 --> 00:20:40,090
+C'est en fait le rôle des lymphocytes
+
+479
+00:20:40,090 --> 00:20:41,930
+T qui sont secrétaires de lymphokines.
+
+480
+00:20:42,870 --> 00:20:44,950
+Ils sont entrés dans la régulation de l
+
+481
+00:20:44,950 --> 00:20:47,210
+'activité des lymphocytes B et des lymphocytes T.
+
+482
+00:20:47,330 --> 00:20:48,950
+La régulation de l'hématopoïèse.
+
+483
+00:20:49,370 --> 00:20:51,190
+Le contrôle de la réponse inflammatoire.
+
+484
+00:20:51,770 --> 00:20:54,770
+Et l'hypersensibilité retardée qui implique les lymphocytes
+
+485
+00:20:54,770 --> 00:20:55,890
+T, c'est des quatre helpers.
+
+486
+00:20:57,270 --> 00:20:59,550
+Comment peut-on explorer les lymphocytes et la
+
+487
+00:20:59,550 --> 00:21:00,630
+lymphopoïèse ?
+
+488
+00:21:00,630 --> 00:21:03,490
+L'exploration va se faire principalement par l
+
+489
+00:21:03,490 --> 00:21:05,810
+'hémogramme qui va permettre de déterminer le taux
+
+490
+00:21:05,810 --> 00:21:06,590
+de lymphocytes.
+
+491
+00:21:06,590 --> 00:21:09,370
+En effet, le taux de lymphocytes chez un
+
+492
+00:21:09,370 --> 00:21:12,070
+adulte normal, il se situe entre 1,5
+
+493
+00:21:12,070 --> 00:21:13,290
+et 4 gigas par litre.
+
+494
+00:21:14,090 --> 00:21:16,570
+En-dessus de ce chiffre, on parle d
+
+495
+00:21:16,570 --> 00:21:17,710
+'une hyperlymphocytose.
+
+496
+00:21:18,090 --> 00:21:19,950
+Et en-dessous de ce chiffre, on parle
+
+497
+00:21:19,950 --> 00:21:20,850
+de lymphopigne.
+
+498
+00:21:22,270 --> 00:21:24,130
+Bien sûr, il ne faut jamais oublier qu
+
+499
+00:21:24,130 --> 00:21:26,490
+'on n'interprète jamais un seul paramètre de
+
+500
+00:21:26,490 --> 00:21:26,810
+l'hémogramme.
+
+501
+00:21:27,210 --> 00:21:29,350
+Mais qu'il faut interpréter l'ensemble des
+
+502
+00:21:29,350 --> 00:21:30,710
+paramètres dans leur globalité.
+
+503
+00:21:32,870 --> 00:21:35,150
+Le frottis sanguin va permettre d'étudier la
+
+504
+00:21:35,150 --> 00:21:36,490
+morphologie des lymphocytes.
+
+505
+00:21:36,590 --> 00:21:38,130
+C'est étudier la taille, l'aspect du
+
+506
+00:21:38,130 --> 00:21:40,430
+noyau, la chromatine, la présence ou non de
+
+507
+00:21:40,430 --> 00:21:44,170
+nucléole, mais aussi l'aspect de cytoplasme, sa
+
+508
+00:21:44,170 --> 00:21:46,630
+basophilie, la présence de granulation, etc.
+
+509
+00:21:47,990 --> 00:21:50,130
+C'est à travers le frottis sanguin qu
+
+510
+00:21:50,130 --> 00:21:51,910
+'on va déterminer si on est en présence
+
+511
+00:21:51,910 --> 00:21:55,190
+de lymphocytes normaux, de lymphocytes activés par exemple
+
+512
+00:21:55,190 --> 00:21:57,670
+au cours d'une infection virale, ou même
+
+513
+00:21:57,670 --> 00:22:01,910
+la présence de lymphocytes malins qui sont responsables
+
+514
+00:22:01,910 --> 00:22:03,170
+par exemple de leucémie.
+
+515
+00:22:05,230 --> 00:22:08,530
+Un troisième examen ou exploration, c'est la
+
+516
+00:22:08,530 --> 00:22:10,210
+réaction à la myelopéroxidase.
+
+517
+00:22:10,830 --> 00:22:12,710
+Si vous vous rappelez, quand on avait fait
+
+518
+00:22:12,710 --> 00:22:15,090
+le cours sur la granulopoïèse, on avait dit
+
+519
+00:22:15,090 --> 00:22:18,070
+que la myelopéroxidase est une enzyme spécifique à
+
+520
+00:22:18,070 --> 00:22:19,570
+la lignée granulocytaire.
+
+521
+00:22:20,390 --> 00:22:24,110
+Du coup, la MPO sera négative sur les
+
+522
+00:22:24,110 --> 00:22:25,210
+lymphocytes et les lymphoblastes.
+
+523
+00:22:27,210 --> 00:22:30,490
+Le myelogramme et la biopsie ostéomédulaire vont permettre
+
+524
+00:22:30,490 --> 00:22:32,950
+d'explorer une pathologie maligne.
+
+525
+00:22:33,170 --> 00:22:37,370
+L'immunophénotypage par cytométrie en flux en utilisant
+
+526
+00:22:37,370 --> 00:22:38,790
+les anticorps monoclonaux.
+
+527
+00:22:38,910 --> 00:22:41,130
+On a déjà parlé des anticorps monoclonaux et
+
+528
+00:22:41,130 --> 00:22:43,690
+on a dit qu'ils sont spécifiques à
+
+529
+00:22:43,690 --> 00:22:46,030
+des antigènes de surface des lymphocytes qu'on
+
+530
+00:22:46,030 --> 00:22:48,810
+appelle les clusters de différenciation ou bien les
+
+531
+00:22:48,810 --> 00:22:49,110
+CD.
+
+532
+00:22:50,270 --> 00:22:53,490
+Ces anticorps monoclonaux vont être utilisés pour l
+
+533
+00:22:53,490 --> 00:22:55,910
+'immunophénotypage par une technique qui s'appelle la
+
+534
+00:22:55,910 --> 00:22:56,910
+cytométrie en flux.
+
+535
+00:22:57,850 --> 00:23:00,250
+Ça va nous permettre de déterminer les différentes
+
+536
+00:23:00,250 --> 00:23:01,450
+populations lymphocytaires.
+
+537
+00:23:01,450 --> 00:23:03,810
+Il faut savoir que chez un sujet normal,
+
+538
+00:23:04,330 --> 00:23:06,310
+nous avons 5 à 10 % de lymphocytes
+
+539
+00:23:06,310 --> 00:23:09,250
+B, 70 à 80 % de lymphocytes T
+
+540
+00:23:09,250 --> 00:23:12,050
+et de 5 à 15 % de lymphocytes
+
+541
+00:23:12,050 --> 00:23:13,270
+natural killer.
+
+542
+00:23:14,110 --> 00:23:17,390
+L'exploration de l'hypersensibilité retardée se fait
+
+543
+00:23:17,390 --> 00:23:20,750
+par intradermoréaction à la tuberculine, par exemple.
+
+544
+00:23:21,730 --> 00:23:23,290
+Et il ne faut pas oublier bien sûr
+
+545
+00:23:23,290 --> 00:23:26,590
+la place de la biopsie ganglionaire dans la
+
+546
+00:23:26,590 --> 00:23:30,410
+classification et dans le diagnostic de lymphome, notamment
+
+547
+00:23:30,410 --> 00:23:32,030
+les lymphomes malins et aux tchikiniens.
+
+548
+00:23:33,130 --> 00:23:36,910
+Nous allons maintenant discuter quelques applications médicales de
+
+549
+00:23:36,910 --> 00:23:37,430
+ce cours.
+
+550
+00:23:38,550 --> 00:23:40,870
+Comme on a dit précédemment, les marqueurs de
+
+551
+00:23:40,870 --> 00:23:43,130
+la membrane des lymphocytes ou CD sont reconnus
+
+552
+00:23:43,130 --> 00:23:45,750
+par des anticorps monoclonaux qui sont utilisés ou
+
+553
+00:23:45,750 --> 00:23:47,290
+bien qui sont vendus dans le commerce.
+
+554
+00:23:47,910 --> 00:23:51,190
+Et ceci va nous permettre de diagnostiquer différentes
+
+555
+00:23:51,190 --> 00:23:54,470
+pathologies avec prolifération lymphocytaire, à savoir les lymphomes,
+
+556
+00:23:54,530 --> 00:23:58,570
+les leucémies aiguës, lymphoïdes, mais aussi le syndrome
+
+557
+00:23:58,570 --> 00:23:58,830
+lymphoprolifératif.
+
+558
+00:24:00,130 --> 00:24:04,210
+Alors, les patients splénoctomisés, ce sont des patients
+
+559
+00:24:04,210 --> 00:24:05,830
+qui ont subi une ablation de la rate.
+
+560
+00:24:06,890 --> 00:24:09,310
+Ils vont être donc victimes de plusieurs infections
+
+561
+00:24:09,310 --> 00:24:10,130
+opportunistes.
+
+562
+00:24:10,430 --> 00:24:11,970
+Et comme on avait déjà dit, la rate,
+
+563
+00:24:12,070 --> 00:24:13,530
+c'est un organe influide secondaire qui est
+
+564
+00:24:13,530 --> 00:24:14,110
+très important.
+
+565
+00:24:14,590 --> 00:24:15,670
+Et c'est en fait le gendarme de
+
+566
+00:24:15,670 --> 00:24:16,170
+l'organisme.
+
+567
+00:24:16,310 --> 00:24:18,670
+Donc l'ablation de la rate expose le
+
+568
+00:24:18,670 --> 00:24:21,810
+patient à un risque accru d'infection opportuniste.
+
+569
+00:24:23,070 --> 00:24:25,630
+Le syndrome tumoral, en effet, il est défini
+
+570
+00:24:25,630 --> 00:24:28,070
+en partie par la splénomégalie et la présence
+
+571
+00:24:28,070 --> 00:24:28,890
+d'adénopathie.
+
+572
+00:24:29,670 --> 00:24:32,810
+Et donc la splénomégalie, la rate et les
+
+573
+00:24:32,810 --> 00:24:35,490
+ganglions lymphatiques sont des organes lymphoïdes secondaires.
+
+574
+00:24:36,210 --> 00:24:38,530
+Alors, en cas de syndrome tumoral, quand il
+
+575
+00:24:38,530 --> 00:24:40,370
+y a un syndrome tumoral ou une tumeur
+
+576
+00:24:40,370 --> 00:24:44,970
+qui touche le système hématopoétique et notamment le
+
+577
+00:24:44,970 --> 00:24:47,870
+système lymphoïde, ces ganglions lymphatiques et cette rate
+
+578
+00:24:47,870 --> 00:24:50,570
+vont être extrêmement sollicitées et aussi vont être
+
+579
+00:24:50,570 --> 00:24:55,270
+très infiltrées par des cellules lymphoïdes normaux ou
+
+580
+00:24:55,270 --> 00:24:56,050
+pathologiques.
+
+581
+00:24:56,050 --> 00:24:59,710
+Et par conséquent, ils vont tout simplement augmenter
+
+582
+00:24:59,710 --> 00:25:00,210
+de taille.
+
+583
+00:25:00,650 --> 00:25:03,050
+Donc ça, c'est une autre application de
+
+584
+00:25:03,050 --> 00:25:04,530
+ce cours sur la lymphopoïèse.
+
+585
+00:25:05,970 --> 00:25:09,730
+Conclusion Alors, en conclusion, il faut retenir que
+
+586
+00:25:09,730 --> 00:25:11,990
+la lymphopoïèse est l'ensemble des mécanismes qui
+
+587
+00:25:11,990 --> 00:25:14,190
+aboutissent à la production des lymphocytes à partir
+
+588
+00:25:14,190 --> 00:25:15,170
+d'une cellule souche hématopoétique.
+
+589
+00:25:16,450 --> 00:25:19,190
+Nous distinguons la lymphopoïèse B qui est exclusivement
+
+590
+00:25:19,190 --> 00:25:22,330
+médulaire et la lymphopoïèse T qui commence dans
+
+591
+00:25:22,330 --> 00:25:23,830
+la moelle et termine dans le thumus.
+
+592
+00:25:23,830 --> 00:25:26,970
+Les organes lymphoïdes périphériques sont le site de
+
+593
+00:25:26,970 --> 00:25:28,530
+rencontre avec l'antigène.
+
+594
+00:25:28,790 --> 00:25:30,250
+Donc il va y avoir une activation et
+
+595
+00:25:30,250 --> 00:25:33,290
+stimulation des lymphocytes B et T naïfs.
+
+596
+00:25:33,970 --> 00:25:36,490
+Le rôle principal des lymphocytes étant l'immunité,
+
+597
+00:25:36,710 --> 00:25:38,230
+donc cellulaire et humorale.
+
+598
+00:25:39,010 --> 00:25:41,110
+Et l'exploration se fait principalement par l
+
+599
+00:25:41,110 --> 00:25:43,530
+'hémogramme, le myelogramme et la biopsie ganglionnaire.
+
+600
+00:25:44,890 --> 00:25:47,950
+Et il existe plusieurs applications dans le domaine
+
+601
+00:25:47,950 --> 00:25:48,650
+médical.

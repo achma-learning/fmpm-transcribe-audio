@@ -1,0 +1,1267 @@
+1
+00:00:03,080 --> 00:00:06,560
+Donc, comme promis dans le cours précédent, on
+
+2
+00:00:06,560 --> 00:00:08,860
+va voir le rôle du système extrapyramidate plus
+
+3
+00:00:08,860 --> 00:00:09,420
+en détail.
+
+4
+00:00:10,060 --> 00:00:15,680
+Ici, donc, comment il agit et voir quelques
+
+5
+00:00:15,680 --> 00:00:20,300
+applications importantes qui permettent d'expliquer certaines pathologies
+
+6
+00:00:20,300 --> 00:00:24,820
+fréquentes, notamment le Parkinson et certains mouvements anormaux
+
+7
+00:00:24,820 --> 00:00:27,420
+qui sont, que vous voyez des fois chez
+
+8
+00:00:27,420 --> 00:00:28,060
+certains patients.
+
+9
+00:00:28,060 --> 00:00:31,439
+et ne pas comprendre de quoi ça vient,
+
+10
+00:00:31,600 --> 00:00:33,580
+comment ça se fait que ces gens ont
+
+11
+00:00:33,580 --> 00:00:36,320
+ce genre de mouvements anormaux.
+
+12
+00:00:39,460 --> 00:00:43,840
+Donc, je vais passer rapidement sur l'anatomie.
+
+13
+00:00:45,040 --> 00:00:46,560
+Je pense que vous avez vu ça avec
+
+14
+00:00:46,560 --> 00:00:47,840
+nos collègues neurochirurgiens.
+
+15
+00:00:48,700 --> 00:00:51,040
+Je vais montrer sur un schéma les différentes
+
+16
+00:00:51,040 --> 00:00:57,480
+structures d'intérêt qui sont le thalamus, le
+
+17
+00:00:57,480 --> 00:01:00,920
+noyau ventriculaire qui comprend le palidome du putamen
+
+18
+00:01:00,920 --> 00:01:03,800
+et puis il y a aussi le noyau
+
+19
+00:01:03,800 --> 00:01:04,180
+codé.
+
+20
+00:01:04,940 --> 00:01:09,280
+Le noyau codé avec le putamen représente ce
+
+21
+00:01:09,280 --> 00:01:11,300
+qu'on appelle le striatum.
+
+22
+00:01:12,500 --> 00:01:15,260
+On les associe ensemble, même s'ils sont
+
+23
+00:01:15,260 --> 00:01:18,100
+loin l'un de l'autre, mais on
+
+24
+00:01:18,100 --> 00:01:18,920
+va voir pourquoi.
+
+25
+00:01:22,540 --> 00:01:27,200
+On a vu ensemble qu'au-delà de
+
+26
+00:01:27,200 --> 00:01:31,220
+ces structures centrales, qui sont dans le diocéphale
+
+27
+00:01:31,220 --> 00:01:33,680
+surtout, il y a des voies de sortie
+
+28
+00:01:33,680 --> 00:01:39,280
+qui sont dans le tronc cérébral notamment, à
+
+29
+00:01:39,280 --> 00:01:46,860
+savoir le noyau rouge, le noyau ventriculaire, le
+
+30
+00:01:46,860 --> 00:01:52,540
+noyau reticulaire, le colléculus inférieur et supérieur, supérieur
+
+31
+00:01:52,540 --> 00:01:55,380
+et progrès qui est associé à la vision,
+
+32
+00:01:55,600 --> 00:01:58,280
+inférieur associé à l'audition et le noyau
+
+33
+00:01:58,280 --> 00:01:59,560
+vestibulaire.
+
+34
+00:02:00,060 --> 00:02:02,920
+Ici, on vous dit déjà que le vestibulaire
+
+35
+00:02:02,920 --> 00:02:04,920
+est impliqué dans le contrôle de l'équilibre.
+
+36
+00:02:05,320 --> 00:02:10,000
+Le reticulospinal, à partir du noyau reticulaire important
+
+37
+00:02:10,000 --> 00:02:12,400
+pour le tonus musculaire, la marche et les
+
+38
+00:02:12,400 --> 00:02:14,540
+ajustements posturaux.
+
+39
+00:02:15,260 --> 00:02:19,780
+Le colléculospinal est important pour tout ce qui
+
+40
+00:02:19,780 --> 00:02:22,820
+est contrôle du mouvement de la tête, en
+
+41
+00:02:22,820 --> 00:02:24,920
+réponse au sinus visuel auditif, etc.
+
+42
+00:02:29,240 --> 00:02:31,080
+Donc quelles sont ces structures?
+
+43
+00:02:31,460 --> 00:02:32,900
+On va voir ça sur un schéma.
+
+44
+00:02:33,940 --> 00:02:37,620
+Donc voici un schéma qui montre le cerveau
+
+45
+00:02:37,620 --> 00:02:43,400
+en coupe frontale ou bien coronale.
+
+46
+00:02:44,280 --> 00:02:49,200
+Sur cette coupe, on voit les ventriculatéraux et
+
+47
+00:02:49,200 --> 00:02:55,680
+sous le ventriculatéral, bien individualisé ici, il y
+
+48
+00:02:55,680 --> 00:02:56,540
+a le noyau caudal.
+
+49
+00:02:57,160 --> 00:02:58,780
+Ici, on a le thalamus.
+
+50
+00:03:00,960 --> 00:03:02,780
+Sous le thalamus, il y a l'hépothalamus.
+
+51
+00:03:04,360 --> 00:03:06,780
+Mais ici, il y a une structure importante
+
+52
+00:03:06,780 --> 00:03:11,080
+qui est le noyau sothalamique.
+
+53
+00:03:11,480 --> 00:03:14,780
+Le noyau sothalamique, appelé aussi le cordylus.
+
+54
+00:03:15,800 --> 00:03:18,860
+Et sous le noyau sothalamique, il y a
+
+55
+00:03:18,860 --> 00:03:22,680
+la substance noire.
+
+56
+00:03:22,680 --> 00:03:25,580
+Et ici, pas bien visible, il y a
+
+57
+00:03:25,580 --> 00:03:26,420
+les noyaux rouges.
+
+58
+00:03:26,520 --> 00:03:28,300
+On va les voir sur un autre schéma.
+
+59
+00:03:29,300 --> 00:03:33,440
+De l'autre côté, plus latéralement, il y
+
+60
+00:03:33,440 --> 00:03:34,900
+a le noyau ventriculaire.
+
+61
+00:03:36,040 --> 00:03:38,500
+Et dans le noyau ventriculaire, on a le
+
+62
+00:03:38,500 --> 00:03:41,540
+putamen en dehors, puis on a le palidome.
+
+63
+00:03:41,640 --> 00:03:44,120
+Et le palidome peut lui-même être divisé
+
+64
+00:03:44,120 --> 00:03:46,840
+en palidome externe et palidome interne.
+
+65
+00:03:47,560 --> 00:03:48,120
+D'accord?
+
+66
+00:03:48,760 --> 00:03:53,560
+Donc, pourquoi le putamen, si loin du noyau
+
+67
+00:03:53,560 --> 00:03:58,400
+caudal, est associé l'un à l'autre
+
+68
+00:03:58,400 --> 00:04:01,660
+dans ce qu'on appelle le striatum?
+
+69
+00:04:01,980 --> 00:04:04,620
+Parce qu'ils ont une même origine embryonnaire.
+
+70
+00:04:05,140 --> 00:04:07,100
+Après, ils vont être séparés par la substance
+
+71
+00:04:07,100 --> 00:04:07,600
+blanche.
+
+72
+00:04:08,660 --> 00:04:12,340
+Le putamen va être plus associé anatomiquement au
+
+73
+00:04:12,340 --> 00:04:15,779
+palidome, mais d'un point de vue embryonnaire,
+
+74
+00:04:16,540 --> 00:04:18,300
+il est très associé au palidome.
+
+75
+00:04:18,640 --> 00:04:21,160
+Mais il a la même structure, la même
+
+76
+00:04:21,160 --> 00:04:23,060
+fonction que le noyau caudal.
+
+77
+00:04:23,680 --> 00:04:28,760
+Et même les projections afférentes, on les prend
+
+78
+00:04:28,760 --> 00:04:30,080
+comme une seule entité.
+
+79
+00:04:31,680 --> 00:04:33,600
+Donc, c'est important de connaître ces structures
+
+80
+00:04:33,600 --> 00:04:37,900
+pour comprendre par la suite ce qu'on
+
+81
+00:04:37,900 --> 00:04:39,960
+va décrire, ce qu'on va essayer d
+
+82
+00:04:39,960 --> 00:04:40,600
+'expliquer.
+
+83
+00:04:42,230 --> 00:04:46,770
+Donc, je vais passer sur ces rappels anatomiques,
+
+84
+00:04:46,870 --> 00:04:47,810
+je ne vais pas les détailler.
+
+85
+00:04:48,110 --> 00:04:49,450
+Donc, il y aura plusieurs plaques que je
+
+86
+00:04:49,450 --> 00:04:49,950
+vais sauter.
+
+87
+00:04:50,550 --> 00:04:52,390
+Vous pouvez les voir tranquillement si vous voulez,
+
+88
+00:04:52,510 --> 00:04:55,170
+qui décrivent plus le noyau caudal, le putamen,
+
+89
+00:04:55,670 --> 00:04:56,010
+etc.
+
+90
+00:05:11,540 --> 00:05:15,360
+Ce schéma montre ces différentes structures mieux.
+
+91
+00:05:15,580 --> 00:05:17,680
+Donc, le thalamus, il y a le noyau
+
+92
+00:05:17,680 --> 00:05:18,060
+rouge.
+
+93
+00:05:18,860 --> 00:05:22,300
+Il y a le noyau sothalamique.
+
+94
+00:05:23,040 --> 00:05:25,480
+Et il y a la substance noire.
+
+95
+00:05:26,700 --> 00:05:31,380
+Putamen, palidome externe, palidome interne, noyau caudé.
+
+96
+00:05:36,690 --> 00:05:38,890
+Ici, donc, on voit les noyaux rouges.
+
+97
+00:05:40,030 --> 00:05:41,430
+Et on voit la substance noire.
+
+98
+00:05:41,990 --> 00:05:44,070
+La substance noire va commencer au niveau du
+
+99
+00:05:44,070 --> 00:05:47,390
+mesoencephale et va finir dans le diencephale.
+
+100
+00:05:50,120 --> 00:05:52,820
+Sur une IRM, on voit ces différentes structures
+
+101
+00:05:52,820 --> 00:05:53,240
+aussi.
+
+102
+00:05:53,360 --> 00:05:54,480
+On peut les individualiser.
+
+103
+00:05:54,480 --> 00:06:00,940
+Il y a une convexité vers les ventriculatéraux
+
+104
+00:06:00,940 --> 00:06:04,500
+qui est vraiment caractéristique du noyau caudé.
+
+105
+00:06:05,020 --> 00:06:06,780
+Puis, il y a ici le putamen.
+
+106
+00:06:07,460 --> 00:06:09,020
+Là, il y a le palidome.
+
+107
+00:06:09,740 --> 00:06:11,140
+Et c'est difficile sur l'IRM de
+
+108
+00:06:11,140 --> 00:06:12,530
+différencier entre externe et interne.
+
+109
+00:06:13,180 --> 00:06:14,760
+Il y a ici le thalamus.
+
+110
+00:06:15,580 --> 00:06:18,400
+Et le noyau sothalamique est plus difficile à
+
+111
+00:06:18,400 --> 00:06:19,120
+individualiser.
+
+112
+00:06:22,280 --> 00:06:24,460
+Maintenant, on va voir la circuiterie des noyaux
+
+113
+00:06:24,460 --> 00:06:25,240
+gris centraux.
+
+114
+00:06:25,240 --> 00:06:28,720
+C'est très important et fondamental pour comprendre
+
+115
+00:06:28,720 --> 00:06:29,580
+certaines pathologies.
+
+116
+00:06:32,110 --> 00:06:35,090
+Pour simplifier les différentes relations qu'on a
+
+117
+00:06:35,090 --> 00:06:38,690
+entre ces structures du cortex cérébral, on a
+
+118
+00:06:38,690 --> 00:06:41,930
+ce schéma qui montre que l'axe moteur,
+
+119
+00:06:42,890 --> 00:06:44,150
+d'abord, comme on l'a vu dans
+
+120
+00:06:44,150 --> 00:06:46,910
+le cours précédent, l'axe moteur commence dans
+
+121
+00:06:46,910 --> 00:06:54,650
+les aires prémotrices, dans les aires préfrontales et
+
+122
+00:06:54,650 --> 00:06:55,210
+parietales.
+
+123
+00:06:55,210 --> 00:06:58,630
+Ils vont envoyer l'information au striatum.
+
+124
+00:06:59,210 --> 00:07:00,770
+C'est une information excitatrice.
+
+125
+00:07:01,530 --> 00:07:02,670
+Utilisons le glutamate.
+
+126
+00:07:03,190 --> 00:07:06,350
+Le striatum va par la suite envoyer le
+
+127
+00:07:06,350 --> 00:07:10,290
+GPI, le globus pallidus interne, le palidome interne,
+
+128
+00:07:10,490 --> 00:07:13,190
+soit de façon directe, soit de façon indirecte.
+
+129
+00:07:13,330 --> 00:07:14,810
+S'il envoie de façon directe, c'est
+
+130
+00:07:14,810 --> 00:07:16,290
+ce qu'on appelle la voie directe.
+
+131
+00:07:16,370 --> 00:07:19,190
+Et dans cette voie, le striatum va inhiber
+
+132
+00:07:19,190 --> 00:07:21,430
+le GPI, lequel inhibe le thalamus.
+
+133
+00:07:21,430 --> 00:07:24,090
+Et dans cette voie directe, on voit qu
+
+134
+00:07:24,090 --> 00:07:24,850
+'il y a deux négatifs.
+
+135
+00:07:25,030 --> 00:07:26,930
+Ça fait que c'est une voie directe,
+
+136
+00:07:26,950 --> 00:07:28,270
+la voie directe, excitatrice.
+
+137
+00:07:28,730 --> 00:07:30,630
+Puisque deux négatifs, c'est du positif.
+
+138
+00:07:31,430 --> 00:07:33,230
+A partir du thalamus, bien sûr, on va
+
+139
+00:07:33,230 --> 00:07:36,450
+activer le cortex, surtout le cortex de la
+
+140
+00:07:36,450 --> 00:07:37,410
+frontale ascendante.
+
+141
+00:07:38,450 --> 00:07:41,830
+Donc, quand on veut faire un mouvement, par
+
+142
+00:07:41,830 --> 00:07:46,150
+exemple, extension du coude, on doit activer la
+
+143
+00:07:46,150 --> 00:07:47,390
+voie directe.
+
+144
+00:07:47,390 --> 00:07:50,670
+Pour les agonistes, c'est-à-dire pour
+
+145
+00:07:50,670 --> 00:07:52,630
+les extenseurs.
+
+146
+00:07:53,910 --> 00:07:58,270
+De l'autre côté, le striatum va aussi,
+
+147
+00:07:58,390 --> 00:08:03,330
+donc, entrer en relation avec le GPI indirectement
+
+148
+00:08:03,330 --> 00:08:06,270
+en passant par le GPE et le noyau
+
+149
+00:08:06,270 --> 00:08:06,890
+sothalamique.
+
+150
+00:08:07,570 --> 00:08:13,050
+Ici, le striatum inhibe toujours le GPE, et
+
+151
+00:08:13,050 --> 00:08:15,990
+le GPE inhibe lui aussi le noyau sothalamique.
+
+152
+00:08:15,990 --> 00:08:18,690
+Le noyau sothalamique, son rôle, c'est de
+
+153
+00:08:18,690 --> 00:08:20,330
+toujours exciter le GPI.
+
+154
+00:08:21,010 --> 00:08:22,850
+Et donc, on va revenir au GPI qui
+
+155
+00:08:22,850 --> 00:08:23,790
+inhibe le thalamus.
+
+156
+00:08:24,550 --> 00:08:27,010
+Dans cette voie qu'on appelle indirecte, on
+
+157
+00:08:27,010 --> 00:08:29,970
+a un, deux, puis trois négatifs.
+
+158
+00:08:30,130 --> 00:08:33,950
+Ça fait que c'est une voie inhibitrice.
+
+159
+00:08:34,590 --> 00:08:37,350
+Trois négatifs, c'est négatif, donc c'est
+
+160
+00:08:37,350 --> 00:08:37,990
+inhibiteur.
+
+161
+00:08:39,610 --> 00:08:42,270
+Donc, toujours, je reviens à mon exemple.
+
+162
+00:08:43,049 --> 00:08:44,210
+Extension du coude.
+
+163
+00:08:44,610 --> 00:08:46,330
+Quand je vais faire l'extension du coude,
+
+164
+00:08:46,930 --> 00:08:49,270
+pour que ça soit fait de façon normale,
+
+165
+00:08:49,870 --> 00:08:51,810
+il faut que cette circuiterie entre en jeu.
+
+166
+00:08:52,450 --> 00:08:53,330
+Et qu'est-ce qu'il va faire?
+
+167
+00:08:53,530 --> 00:08:55,350
+Grâce à la voie directe, il va activer
+
+168
+00:08:55,350 --> 00:08:56,630
+les extenseurs.
+
+169
+00:08:57,210 --> 00:08:58,810
+Et grâce à la voie indirecte, il va
+
+170
+00:08:58,810 --> 00:09:00,370
+inhiber les antagonistes.
+
+171
+00:09:01,410 --> 00:09:02,910
+C'est ce qu'on appelle une filtration
+
+172
+00:09:02,910 --> 00:09:04,950
+des mouvements nécessaires.
+
+173
+00:09:05,390 --> 00:09:08,050
+Si on ne fait pas ça, on va
+
+174
+00:09:08,050 --> 00:09:11,250
+avoir un patient qui va activer les agonistes
+
+175
+00:09:11,250 --> 00:09:12,810
+et les antagonistes en même temps.
+
+176
+00:09:13,210 --> 00:09:16,790
+Ça va donner des mouvements anormaux, comme la
+
+177
+00:09:16,790 --> 00:09:17,870
+dystonie, etc.
+
+178
+00:09:18,050 --> 00:09:20,470
+On va voir ça sur TIMSS la prochaine
+
+179
+00:09:20,470 --> 00:09:20,750
+fois.
+
+180
+00:09:23,680 --> 00:09:27,980
+Maintenant qu'on a compris les relations entre
+
+181
+00:09:27,980 --> 00:09:31,680
+les différentes structures, quel est le rôle de
+
+182
+00:09:31,680 --> 00:09:32,700
+la substance noire?
+
+183
+00:09:33,680 --> 00:09:35,840
+La substance noire, c'est très facile.
+
+184
+00:09:36,540 --> 00:09:38,420
+Donc, retenez que ça, c'est la voie
+
+185
+00:09:38,420 --> 00:09:39,860
+directe que l'on vient de voir ensemble.
+
+186
+00:09:39,920 --> 00:09:40,800
+Ça, c'est le thalamus.
+
+187
+00:09:41,480 --> 00:09:43,200
+Là, c'est la voie directe avec 1
+
+188
+00:09:43,200 --> 00:09:44,480
+et 2 négatifs.
+
+189
+00:09:44,660 --> 00:09:46,120
+Donc, c'est positif.
+
+190
+00:09:46,220 --> 00:09:48,180
+Et là, c'est la voie indirecte qui
+
+191
+00:09:48,180 --> 00:09:50,220
+passe 1, 2, puis 3.
+
+192
+00:09:51,580 --> 00:09:54,080
+Négligez les autres flèches.
+
+193
+00:09:54,180 --> 00:09:55,620
+Il y a beaucoup de connexions dont on
+
+194
+00:09:55,620 --> 00:09:56,300
+ne va pas parler.
+
+195
+00:09:57,320 --> 00:10:01,980
+Mais retenez que la substance noire, pars compacta,
+
+196
+00:10:02,820 --> 00:10:06,960
+c'est la substance noire qui est associée
+
+197
+00:10:06,960 --> 00:10:08,080
+au GPI.
+
+198
+00:10:08,560 --> 00:10:10,020
+Mais on ne va pas trop en parler.
+
+199
+00:10:11,400 --> 00:10:14,380
+Revenons à la pars compacta, la partie compacte
+
+200
+00:10:14,380 --> 00:10:15,220
+de la substance noire.
+
+201
+00:10:15,780 --> 00:10:17,620
+Elle va envoyer des projections au striatum, c
+
+202
+00:10:17,620 --> 00:10:19,900
+'est ce qu'on appelle la voie nigrostriée.
+
+203
+00:10:20,480 --> 00:10:24,260
+Et cette voie nigrostriée va entrer en relation
+
+204
+00:10:24,260 --> 00:10:26,680
+avec la voie directe et la voie indirecte
+
+205
+00:10:26,680 --> 00:10:30,440
+via les récepteurs D1 parce qu'il va
+
+206
+00:10:30,440 --> 00:10:34,920
+donner la voie nigrostriée et utilise la dopamine
+
+207
+00:10:34,920 --> 00:10:36,480
+comme le retransmetteur.
+
+208
+00:10:37,200 --> 00:10:39,960
+Via la voie directe, il va activer les
+
+209
+00:10:39,960 --> 00:10:40,360
+D1.
+
+210
+00:10:40,860 --> 00:10:43,460
+Et les D1, leur rôle, c'est d
+
+211
+00:10:43,460 --> 00:10:47,180
+'activer ces projections-là.
+
+212
+00:10:47,820 --> 00:10:55,920
+Donc, en activant les récepteurs D1, la substance
+
+213
+00:10:55,920 --> 00:10:59,980
+noire va activer la voie directe.
+
+214
+00:11:00,100 --> 00:11:02,780
+Il va renforcer la voie directe.
+
+215
+00:11:03,000 --> 00:11:04,980
+Et en même temps, il va envoyer des
+
+216
+00:11:04,980 --> 00:11:08,120
+projections de dopamine énergique qui vont activer les
+
+217
+00:11:08,120 --> 00:11:11,000
+récepteurs D2 et l'activation des récepteurs D2,
+
+218
+00:11:11,180 --> 00:11:12,420
+son rôle, c'est d'inhiber ça.
+
+219
+00:11:14,080 --> 00:11:15,420
+C'est d'inhiber cette projection.
+
+220
+00:11:16,440 --> 00:11:18,720
+Et donc, si on inhibe cette projection, on
+
+221
+00:11:18,720 --> 00:11:19,800
+inhibe un négatif.
+
+222
+00:11:19,800 --> 00:11:22,700
+Ça fait que, finalement, cette voie indirecte devient
+
+223
+00:11:22,700 --> 00:11:24,660
+positive parce qu'on a inhibé ce négatif.
+
+224
+00:11:25,640 --> 00:11:29,780
+Donc, la substance noire a tendance à activer
+
+225
+00:11:29,780 --> 00:11:32,160
+la voie directe et à inhiber la voie
+
+226
+00:11:32,160 --> 00:11:32,860
+indirecte.
+
+227
+00:11:33,320 --> 00:11:37,760
+Donc, finalement, la substance noire a globalement une
+
+228
+00:11:37,760 --> 00:11:42,420
+action simulatrice, facilitatrice sur le mouvement.
+
+229
+00:11:48,020 --> 00:11:49,600
+C'est ce que j'ai expliqué ici.
+
+230
+00:11:49,600 --> 00:11:52,940
+Donc, la voie directe facilitatrice, l'indirecte inhibitrice
+
+231
+00:11:53,720 --> 00:11:56,620
+grâce au double jeu sur les récepteurs de
+
+232
+00:11:56,620 --> 00:11:57,180
+la dopamine.
+
+233
+00:11:57,760 --> 00:12:00,980
+D1 va activer, D2 va inhibir.
+
+234
+00:12:02,800 --> 00:12:05,680
+On va voir maintenant quelques applications cliniques très
+
+235
+00:12:05,680 --> 00:12:07,660
+importantes de ce qu'on vient de voir.
+
+236
+00:12:09,560 --> 00:12:10,840
+Ça, c'est la norme.
+
+237
+00:12:11,820 --> 00:12:13,060
+Il y a un équilibre entre la voie
+
+238
+00:12:13,060 --> 00:12:13,840
+directe et indirecte.
+
+239
+00:12:15,340 --> 00:12:20,000
+Ça va donc privilégier la voie directe pour
+
+240
+00:12:20,000 --> 00:12:23,300
+les muscles agonistes et la voie indirecte pour
+
+241
+00:12:23,300 --> 00:12:24,320
+les muscles antagonistes.
+
+242
+00:12:24,420 --> 00:12:26,900
+Ça va permettre à la personne de faire
+
+243
+00:12:26,900 --> 00:12:29,600
+un mouvement tout à fait normal et physiologique.
+
+244
+00:12:32,520 --> 00:12:35,940
+Supposons maintenant que la substance noire commence à
+
+245
+00:12:35,940 --> 00:12:36,500
+dégénérer.
+
+246
+00:12:37,040 --> 00:12:39,940
+Et donc, ses projections commencent à fiblir.
+
+247
+00:12:40,380 --> 00:12:42,160
+Et donc, il ne va plus activer la
+
+248
+00:12:42,160 --> 00:12:43,080
+voie directe.
+
+249
+00:12:43,500 --> 00:12:44,720
+La voie directe va fiblir.
+
+250
+00:12:44,720 --> 00:12:48,000
+Si la voie directe fiblit, ça va faire
+
+251
+00:12:48,000 --> 00:12:51,160
+que cette inhibition du GPI par le striatum
+
+252
+00:12:51,160 --> 00:12:51,660
+fiblit.
+
+253
+00:12:52,080 --> 00:12:54,180
+Et donc, le GPI va être libéré et
+
+254
+00:12:54,180 --> 00:12:56,920
+va faire son rôle d'inhibir le thalamus.
+
+255
+00:12:57,400 --> 00:13:02,620
+En même temps, cette inhibition de cette flèche,
+
+256
+00:13:03,000 --> 00:13:06,000
+de cette négativité, va aussi fiblir.
+
+257
+00:13:06,540 --> 00:13:10,020
+Et donc, cette flèche qui est négative va
+
+258
+00:13:10,020 --> 00:13:11,000
+devenir plus forte.
+
+259
+00:13:11,000 --> 00:13:14,460
+Et donc, le GPI va être très inhibé.
+
+260
+00:13:14,720 --> 00:13:17,480
+Il ne va plus inhiber le STN, le
+
+261
+00:13:17,480 --> 00:13:18,340
+noyau sothalamique.
+
+262
+00:13:18,860 --> 00:13:20,840
+Si le noyau sothalamique n'est plus inhibé
+
+263
+00:13:20,840 --> 00:13:23,080
+par le GPI, il va être libéré.
+
+264
+00:13:23,620 --> 00:13:26,160
+Et il va trop exciter le GPI.
+
+265
+00:13:26,880 --> 00:13:29,660
+Donc, plus d'inhibition du GPI par la
+
+266
+00:13:29,660 --> 00:13:32,820
+voie directe, trop d'excitation du GPI par
+
+267
+00:13:32,820 --> 00:13:35,400
+la voie indirecte, ça fait que le GPI
+
+268
+00:13:35,400 --> 00:13:37,320
+va devenir hyper fonctionnel.
+
+269
+00:13:37,320 --> 00:13:40,000
+Il va inhiber en trop le thalamus.
+
+270
+00:13:40,300 --> 00:13:41,820
+Ce qui fait que le cortex va être
+
+271
+00:13:41,820 --> 00:13:43,140
+inhibé.
+
+272
+00:13:43,160 --> 00:13:46,720
+C'est pourquoi, chez les patients Parkinsoniens, quand
+
+273
+00:13:46,720 --> 00:13:48,880
+on a une atteinte de la substance noire,
+
+274
+00:13:49,480 --> 00:13:51,120
+ils vont avoir ce qu'on appelle la
+
+275
+00:13:51,120 --> 00:13:52,100
+bradykinésie.
+
+276
+00:13:52,520 --> 00:13:53,500
+Le ralentissement.
+
+277
+00:13:55,020 --> 00:13:57,600
+Quand vous observez un patient Parkinsonien, vous voyez
+
+278
+00:13:57,600 --> 00:14:00,060
+qu'il a une marche à petits pas,
+
+279
+00:14:00,480 --> 00:14:03,320
+il est ralenti, il a une parole monotone,
+
+280
+00:14:03,320 --> 00:14:06,400
+de faible intensité, etc.
+
+281
+00:14:06,800 --> 00:14:07,900
+Donc c'est ce qu'on appelle la
+
+282
+00:14:07,900 --> 00:14:08,520
+bradykinésie.
+
+283
+00:14:08,600 --> 00:14:11,220
+Tous les mouvements qui deviennent lents, rigides, etc.
+
+284
+00:14:13,440 --> 00:14:15,760
+C'est expliqué par ce qu'on vient
+
+285
+00:14:15,760 --> 00:14:16,620
+de voir ici.
+
+286
+00:14:17,340 --> 00:14:18,560
+Puis ils disent que c'est pour Parkinson
+
+287
+00:14:18,560 --> 00:14:19,140
+disease.
+
+288
+00:14:21,990 --> 00:14:25,630
+Maintenant, si on a une atteinte, non pas
+
+289
+00:14:25,630 --> 00:14:27,510
+de la voie directe, mais de la voie
+
+290
+00:14:27,510 --> 00:14:29,390
+indirecte.
+
+291
+00:14:29,770 --> 00:14:32,830
+Par exemple, on a une atteinte du striatum
+
+292
+00:14:33,770 --> 00:14:35,110
+au bien du STM.
+
+293
+00:14:36,150 --> 00:14:37,870
+Quand on a une atteinte du striatum au
+
+294
+00:14:37,870 --> 00:14:39,370
+bien du STM, qu'est-ce que ça
+
+295
+00:14:39,370 --> 00:14:40,170
+va produire?
+
+296
+00:14:40,710 --> 00:14:43,510
+Ça va produire le fait que le STM
+
+297
+00:14:43,510 --> 00:14:44,530
+ne fonctionne pas bien.
+
+298
+00:14:45,030 --> 00:14:46,590
+Il ne fonctionne pas bien, c'est-à
+
+299
+00:14:46,590 --> 00:14:49,110
+-dire il n'excite pas bien le GPI.
+
+300
+00:14:49,590 --> 00:14:51,310
+Et si le GPI n'est pas bien
+
+301
+00:14:51,310 --> 00:14:53,850
+excité, il ne va pas inhiber le thalamus.
+
+302
+00:14:54,250 --> 00:14:55,670
+Et si le thalamus n'est pas inhibé,
+
+303
+00:14:55,670 --> 00:14:57,050
+il va être libéré et il va trop
+
+304
+00:14:57,050 --> 00:14:58,090
+exciter le cortex.
+
+305
+00:14:58,730 --> 00:15:00,270
+Trop exciter le cortex, c'est ce qu
+
+306
+00:15:00,270 --> 00:15:02,590
+'on appelle l'hyperkinesie.
+
+307
+00:15:02,970 --> 00:15:04,830
+C'est le contraire de ce qu'on
+
+308
+00:15:04,830 --> 00:15:07,850
+a vu avec la bradykinesie.
+
+309
+00:15:08,870 --> 00:15:11,650
+Là, c'est la libération et les patients
+
+310
+00:15:11,650 --> 00:15:14,130
+vont commencer à voir des mouvements anormaux qu
+
+311
+00:15:14,130 --> 00:15:17,010
+'on peut voir ensemble sur TIMSS à titre
+
+312
+00:15:17,010 --> 00:15:18,930
+de dystonie, choré, etc.
+
+313
+00:15:22,300 --> 00:15:25,540
+Donc, je vous remercie bien pour votre attention
+
+314
+00:15:25,540 --> 00:15:28,700
+et on va passer tout de suite au
+
+315
+00:15:28,700 --> 00:15:32,360
+dernier chapitre concernant la motricité pour voir ensemble
+
+316
+00:15:32,360 --> 00:15:34,060
+le rôle du cerveau.
+
+317
+00:15:34,160 --> 00:15:34,980
+Je vous remercie.

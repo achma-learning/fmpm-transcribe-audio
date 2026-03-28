@@ -1,0 +1,110 @@
+(0:00 - 0:29)
+Bonjour à toutes, bonjour à tous, je suis Professeur Salama, et nous allons voir aujourd'hui les tumeurs osseuses malignes de l'enfant. Ces tumeurs osseuses, ce sont des proliférations anormales d'une lignée cellulaire, que ces cellules soient situées dans l'os ou à sa surface. Et elles se caractérisent par un développement rapide, un potentiel métastatique, et la capacité de récidiver même lorsqu'elles ont été traitées.
+
+(0:29 - 0:53)
+Elles peuvent être soit primitives, ou secondaires à une tumeur déjà présente à distance. Cette pathologie constitue une urgence à la fois diagnostique et thérapeutique, car elle engage le pronostic vital de nos patients. Le diagnostic doit donc être fait le plus tôt possible, dès la première manifestation de la tumeur.
+
+(0:53 - 1:27)
+Et le premier symptôme à apparaître, c'est la douleur osseuse. Les progrès de l'imagerie ont certes permis une meilleure approche de ces tumeurs, mais la biopsie reste le seul élément pouvant poser le diagnostic de certitude des tumeurs osseuses. Le développement d'une prise en charge pluridisciplinaire spécialisée, avec la possibilité d'une chimiothérapie première, d'une association à une radiothérapie, ont nettement permis d'améliorer le pronostic de nos patients.
+
+(1:28 - 1:54)
+A la fin de cette présentation, vous devriez être capable de nommer les principales tumeurs osseuses malignes de l'enfant et connaître leur site de prédilection. Vous pourrez identifier les signes cliniques évocateurs d'une tumeur maligne, prescrire les examens radiologiques qui permettront d'approcher le diagnostic. Sur ces examens, identifier les signes radiologiques en faveur de la malignité.
+
+(1:55 - 2:14)
+Indiquer une biopsie dans un centre de référence et orienter votre patient vers une prise en charge spécialisée adéquate. Et enfin, être en mesure d'expliquer les principes de prise en charge thérapeutique aux parents de l'enfant. Cette tumeur osseuse reste une entité assez rare.
+
+(2:15 - 2:46)
+Elle ne représente que 5% des cancers de l'enfant et sont majoritairement dominées par les ostéosarcomes et sarcomes des wines qui, à eux seuls, représentent 90% de ces tumeurs osseuses malignes primitives. Leur pic de survenue se situe surtout à partir de l'âge de 10 ans. Donc si on retrouve une tumeur osseuse plus tôt dans l'enfance, surtout avant l'âge de 5 ans, cette tumeur est probablement une métastase d'un cancer qu'il va falloir rechercher.
+
+(2:47 - 3:19)
+Certains facteurs peuvent favoriser la survenue de ces tumeurs, comme l'exposition aux irradiations ou à des agents alquilants. Il existe également une prédisposition génétique à faire ces tumeurs osseuses et des mutations génétiques au niveau des gènes RB1 et P53 ont été retrouvées chez des patients porteurs d'ostéosarcomes. Ces gènes, ce sont des gènes anti-encogènes qui sont impliqués dans la régulation de la prolifération cellulaire.
+
+(3:20 - 3:47)
+Le gène P53 notamment, qui est un gène suppresseur de tumeurs, impliqué dans l'induction de l'apoptose des cellules qui ont subi des dommages génotoxiques. Enfin, la présence de lésions osseuses bénignes préexistantes qui peuvent dégénérer, constitue également un facteur de risque. Maintenant voyons un peu comment se manifeste une tumeur osseuse.
+
+(3:48 - 4:29)
+Tout d'abord, le développement de cellules tumorales au niveau de l'os entraîne une distension périostée, cette petite couche qui entoure l'os, avec stimulation des nerfs de ce périoste, ce qui entraîne l'apparition d'une douleur. Cette douleur, c'est donc le premier signe à apparaître et le maître symptôme de cette pathologie, et c'est à ce stade là que nous devons poser le diagnostic. Ensuite, plus cette tumeur se développe, elle augmente de taille et la prolifération cellulaire va faire apparaître une importante tumefaction.
+
+(4:29 - 5:16)
+A partir de cette tumeur, des petites cellules cancéreuses vont se détacher et vont migrer dans l'organisme, soit juste dans le voisinage de la tumeur ou dans des organes à distance, c'est ce qu'on appelle des métastases. Enfin, les cellules tumorales entraînent un important syndrome inflammatoire avec sécrétion de cytokines et tout cet ensemble va produire une altération de l'état général de notre patient. La nature de ces tumeurs dépend de la lignée cellulaire d'origine et on a vu auparavant que les deux principales tumeurs, c'était l'ostéosarcome et le sarcome des Wings.
+
+(5:16 - 5:40)
+L'ostéosarcome qui prend naissance dans les cellules ostéoblastiques et le sarcome des Wings prend naissance dans le neurohectoderme. Mais on peut également trouver des chondrosarcomes dans l'origine et cartilagineuses ou des fibrosarcomes qui prennent naissance dans le tissu conjonctif. Ces tumeurs osseuses, elles ont des sites de prédilection.
+
+(5:41 - 6:23)
+Ainsi, l'ostéosarcome sera beaucoup plus fréquemment retrouvé autour du genou, au niveau de l'extrémité inférieure du fémur ou l'extrémité supérieure du tibia, alors que le sarcome des Wings aura tendance à se localiser au niveau des oplas, au niveau des côtes ou au niveau des diaphyses des os. Sur le plan clinique, pour ce qui est des circonstances de découverte, le premier symptôme à apparaître et le maître symptôme, c'est la douleur et c'est à ce stade-là que le diagnostic doit être fait. Le patient va décrire cette douleur comme une douleur aiguë mais qui dure, c'est-à-dire qu'elle est intense, d'intensité variable, omniprésente.
+
+(6:23 - 6:53)
+C'est une douleur de fond qui est associée à des accès douloureux paroxystiques. Elle est soit spontanée, de type inflammatoire, ou déclenchée par la mobilisation ou par la palpation, donc une douleur d'allure mécanique. Et il faut aussi savoir qu'il n'y a pas de corrélation entre l'intensité de la douleur et la taille de la tumeur, c'est-à-dire une tumeur de petite taille infraclinique peut entraîner une douleur très vive, très intense.
+
+(6:54 - 7:26)
+Cette douleur, elle se situe le plus souvent au niveau du siège où se trouve la tumeur, mais il faut parfois prêter une attention particulière aux douleurs projetées. Une douleur projetée, c'est quoi ? C'est une tumeur qui va se situer au niveau de l'extrémité supérieure du fémur, mais c'est plus le genou qui va faire mal, c'est le genou qui va souffrir. Et ce type de douleurs projetées, elles ont tendance à faire traîner le diagnostic, à tromper le médecin et à compromettre le pronostic du patient.
+
+(7:28 - 8:12)
+À côté de la douleur, la tumeur peut être malheureusement diagnostiquée plus tardivement, une fois que la tumefaction est installée et déjà visible, ou une fois que la tumefaction produit déjà un effet de masse sur les organes avoisinants. La tumeur peut également être responsable d'une fracture pathologique et enfin être diagnostiquée quand il y a déjà une altération de l'état général du patient. Donc une fois que le patient se présente pour une douleur osseuse, ou s'il se présente malheureusement déjà pour une tumefaction, il ne faudra pas hésiter à explorer cette symptomatologie et à demander un bilan radiologique.
+
+(8:12 - 8:46)
+Le premier examen qui est le plus facile à avoir, peu coûteux, pratiquement toujours disponible, c'est la radiographie standard. Alors sur une radiographie standard, on pourra faire une première appréciation de la taille de la tumeur, de ses limites, voir sa réaction sur les corticales et sur les parties molles avoisinantes. Donc comme vous pouvez le voir sur ce schéma, sur votre droite nous avons une tumeur qui est bénigne, donc cette tumeur a en général une taille assez modérée.
+
+(8:47 - 9:23)
+Elle est limitée par un liseré de condensation, un liseré de sclérose autour, parce que son développement est assez lent et qu'elle laisse le temps à l'os de réagir et de la circonscrire. Et de ce fait, elle n'atteint pas les corticales osseuses et n'envahit pas les parties molles. Contrairement à l'image de gauche, où la tumeur maligne a un développement beaucoup plus important, beaucoup plus rapide, ses limites sont floues, mal limitées, elle envahit les parties molles après avoir détruit la corticale.
+
+(9:24 - 9:57)
+Une fois qu'elle a passé la corticale, à ce moment-là l'os réagit d'une manière bien précise, il se crée une réaction périostée, avec des petites lamelles en bulbe d'oignon qui sont parallèles à l'os. Une fois que ces lamelles sont décollées par la tumeur, elles créent un aspect qu'on appelle un triangle de Kodman, dû au décollement périosté. Une fois dans les parties molles, il apparaît des ossifications qui créent une image en feu d'herbe, car elles sont perpendiculaires à l'os.
+
+(9:58 - 10:51)
+Donc là, sur cette radiographie de face et de profil d'un genou, vous voyez une tumeur qui entraîne une lise osseuse ainsi qu'une ostéocondensation, avec une importante rupture de la corticale, surtout en entéro externe, et une réaction périostée en éperon de Kodman. Sur la radiographie suivante, la tumeur est beaucoup plus ostéocondensante plutôt qu'ostéolithique, avec une réaction périostée en bulbe d'oignon et en feu d'herbe après avoir envahi les parties molles. Comme nous venons de le voir sur les images précédentes, la radiographie standard permet le plus souvent d'identifier la tumeur osseuse et d'apprécier son caractère malin.
+
+(10:51 - 11:42)
+Mais il faut aussi savoir que parfois, une radiographie standard peut se révéler normale alors que le patient se plaint effectivement de douleur. Donc une radiographie standard normale n'élimine pas toujours une tumeur, il faut savoir pousser les investigations un petit peu plus loin et ne pas hésiter éventuellement à avoir recours à un scanner, faire une TDM pour mieux apprécier la structure osseuse et dépister une tumeur qui n'a peut-être pas pu être diagnostiquée sur la radiographie standard. Mais lorsque la radiographie standard a objectivé la présence d'une tumeur osseuse maligne, alors là le meilleur examen pour mieux apprécier les rapports de cette tumeur, c'est une imagerie par résonance magnétique.
+
+(11:42 - 12:39)
+L'IRM va nous donner beaucoup plus précisément les dimensions de cette tumeur, elle va mieux nous montrer les limites de la tumeur et les parties molles qui sont envahies, elle pourra mieux objectiver l'envahissement du pédicule vasculonerveux et surtout elle pourra nous montrer la présence de skip métastases. Ces skip métastases ce sont des petites métastases à distance, c'est-à-dire sur le même segment osseux, ce sont des petites cellules tumorales qui se sont échappées de la tumeur et qui sont restées sur le même segment osseux. Une fois que le diagnostic de tumeur osseuse maligne a été évoqué, nous ne sommes pas en droit d'évoquer un quelconque autre diagnostic jusqu'à être sûr à 100% que ce n'est pas une tumeur maligne.
+
+(12:39 - 13:06)
+Donc il n'y a pas de place à un autre diagnostic différentiel. Il est vrai que beaucoup de pathologies peuvent prendre des aspects trompeurs et que la tumeur osseuse maligne elle aussi peut avoir un aspect trompeur et évoquer autre pathologie. C'est pour ça qu'il faut toujours aller au bout de nos investigations parce que nous n'avons pas le droit de laisser évoluer une tumeur osseuse maligne.
+
+(13:06 - 13:30)
+Il n'y a pas de place au doute. Sur cette radiographie de l'épaule, nous avons une image ostéolithique au niveau de l'extrémité supérieure de l'humérus qui a créé également une fracture pathologique à la jonction diaphyse-métaphyse. Après biopsie, il s'est avéré qu'il s'agissait d'un kyste osseux.
+
+(13:30 - 13:59)
+Sur la radiographie suivante, nous avons l'extrémité inférieure du fémur du petit Hamza à 10 ans qui avait été admis pour une fièvre et impotence fonctionnelles. Et à la radiographie, il y avait cette image lacunaire avec destruction de la corticale. Donc là, on avait hésité, est-ce qu'il s'agit d'une infection osseuse ou bien est-ce qu'il s'agit d'un Starcom D-Wing qui, très souvent, mime une symptomatologie d'infection osseuse.
+
+(13:59 - 14:33)
+Nous n'avons pas hésité en drainant à faire une biopsie osseuse et il s'est avéré que c'était une infection osseuse et non pas une tumeur maligne. Enfin, sur cette dernière radiographie de l'extrémité inférieure du fémur du petit Ryan à 4 ans, nous avons une importante image d'ostéolyse de l'extrémité inférieure du fémur avec des limites relativement nettes. Mais devant le doute diagnostique, nous n'avons pas hésité à demander une IRM pour mieux approcher cette tumeur.
+
+(14:35 - 15:11)
+Sur l'imagerie par résonance magnétique, le constat était beaucoup plus en faveur d'une tumeur maligne avec importante destruction de la corticale et envahissement des parties molles. Mais lorsque nous avons réalisé une biopsie osseuse, il s'est avéré qu'il s'agissait en fait d'une tuberculose ostéoarticulaire. Donc comme nous l'avons dit auparavant, dès que l'on suspecte une tumeur osseuse maligne, il faut aller jusqu'au bout et ne pas laisser de place aux doutes diagnostiques.
+
+(15:11 - 15:38)
+Il s'agit d'une tumeur maligne jusqu'à preuve du contraire, il faut mener les investigations nécessaires, ne pas hésiter à avoir recours à la biopsie. Mais en même temps, comme nous l'avons vu dans les derniers cas, il ne faut pas annoncer de diagnostic sans preuve histologique. Dire à une famille que son enfant est porteur d'une tumeur osseuse maligne va bouleverser leur vie.
+
+(15:39 - 16:17)
+Donc il faut avoir la preuve histologique de ce que l'on dit avant d'annoncer le diagnostic. Pour avoir un diagnostic de certitude, il faut absolument avoir recours à une biopsie osseuse. Une biopsie osseuse c'est quoi? C'est prélever un fragment d'os et l'envoyer à l'anatomo-pathologiste qui va nous dire s'il s'agit d'une tumeur osseuse maligne ou pas et s'il s'agit d'une tumeur osseuse maligne, quel genre de tumeur est-ce.
+
+(16:17 - 16:45)
+Cette biopsie osseuse n'est pas faite n'importe comment ni par n'importe qui, elle doit répondre à des règles strictes pour un résultat optimal. La première des choses c'est que la biopsie doit être faite dans un centre spécialisé qui est habitué à prendre en charge ce type de pathologie. De préférence elle doit être faite par le chirurgien qui va prendre en charge le patient ultérieurement, qui va l'opérer.
+
+(16:47 - 17:26)
+Et enfin cette biopsie doit être faite le plus tôt possible pour ne pas retarder le diagnostic mais il faut veiller à ne la faire qu'après avoir réalisé une IRM car les phénomènes inflammatoires créés par la biopsie vont modifier les images à l'imagerie par résonance magnétique. Et ce n'est qu'après avoir eu la preuve diagnostique, la preuve histologique de cette pathologie que nous pourrons être en mesure d'annoncer le diagnostic aux parents et de démarrer le protocole thérapeutique. Il ne faut jamais démarrer un protocole thérapeutique sans preuve histologique avérée.
+
+(17:26 - 18:14)
+Après avoir obtenu la preuve diagnostique et avant de démarrer un éventuel protocole thérapeutique, nous avons besoin de préciser l'extension tumorale pour mieux adapter notre traitement et poser de meilleures indications thérapeutiques. Comment peut-on préciser cette extension tumorale ? Tout d'abord en réalisant une TDM thoracique pour voir s'il y a des métastases pulmonaires mais également en réalisant une scintigraphie osseuse pour dépister d'éventuelles métastases osseuses à distance. La prise en charge thérapeutique de ces patients est une prise en charge pluridisciplinaire qui doit se faire dans un centre spécialisé.
+
+(18:14 - 18:45)
+Elle implique l'intervention de plusieurs spécialistes, outre l'orthopédiste pédiatre. Il y aura aussi l'oncologue pédiatre, le radiologue, le réanimateur, le pédopsychiatre, ainsi que d'autres spécialités. Les efforts de ces différents intervenants viseront tout d'abord en premier à sauver le patient, sauver la vie du patient, ensuite essayer de sauver le membre du patient.
+
+(18:46 - 19:30)
+Si on arrive à garder le membre, à préserver le membre du patient, que ce soit un membre qui puisse être fonctionnel. Enfin, il ne faut pas oublier également de lutter contre la douleur que va vivre ce patient, que ce soit à la fois la douleur physique mais également la douleur morale. Pour cela, différents moyens s'offrent à nous, à la fois les moyens médicaux, que ce soit la chimiothérapie, les antalgiques pour lutter contre la douleur, la chirurgie qui va intervenir après la chimiothérapie, la radiothérapie qui peut être associée dans certaines indications, la mise en place de prothèses et la psychothérapie qui va accompagner à la fois l'enfant et sa famille.
+
+(19:31 - 19:59)
+Pour ce qui est des indications thérapeutiques, on va essayer de les résumer comme suit. Une chimiothérapie première est toujours systématique. Ensuite, si la tumeur peut être enlevée, nous réaliserons une chirurgie d'herxérès carcinologique, c'est-à-dire qui entre en zone saine qui emporte toute la tumeur et nous l'associerons à une chimiothérapie adjuvante.
+
+(19:59 - 20:40)
+En cas de sarcombe des wings, on pourra également associer une radiothérapie car le sarcombe des wings est une tumeur radiosensible. Et enfin, en cas d'amputation, on n'oubliera pas de confectionner une prothèse pour permettre la déambulation du patient lorsqu'il est du membre inférieur ou d'une prothèse du membre supérieur qui permettra une certaine autonomie de vie pour le patient. Dans le cas où la tumeur est non opérable, qu'elle ne peut pas être réséquée dans des limites carcinologiques, nous aurons recours à un traitement palliatif qui est un traitement d'accompagnement.
+
+(20:40 - 21:46)
+Il s'agit d'une chirurgie de réduction tumorale ou d'une chimiothérapie palliative ainsi que d'une radiothérapie qui permettent de réduire le volume tumorale et de limiter les effets locaux de la tumeur. Enfin, il ne faut pas oublier qu'une des principales sources de souffrance de l'enfant c'est la douleur donc il faut prescrire un traitement antalgique adéquat, offrir à l'enfant et à sa famille un accompagnement psychologique dans le drame qu'il est en train de vivre et lorsque le résultat est favorable et qu'une guérison est atteinte, il ne faut pas oublier la réinsertion scolaire et sociale de l'enfant. Après cette présentation, il faut retenir que les tumeurs osseuses malignes sont une pathologie assez grave qui engage le pronostic vital donc elles doivent être diagnostiquées le plus tôt possible au stade de douleur avant qu'elles ne se compliquent de tumefaction ou qu'elles ne métastasent.
+
+(21:47 - 22:17)
+Un examen simple, la radiographie standard, permet souvent de poser le diagnostic, du moins de l'approcher mais attention aux différents pièges de la radiographie, il faut se souvenir que seule la biopsie permet d'affirmer le diagnostic et à ce moment-là l'enfant sera orienté vers un centre spécialisé où il bénéficiera d'une prise en charge adéquate pour qu'il puisse avoir le meilleur pronostic dans cette pathologie-là.
