@@ -1,4 +1,4 @@
-allow export of all folders with all file format selected x2 times (one with timestamps , one without timestamps)
+it allow export of all folders with all file format selected x2 times (one with timestamps , one without timestamps)
 
 support skipping empty folder
 
