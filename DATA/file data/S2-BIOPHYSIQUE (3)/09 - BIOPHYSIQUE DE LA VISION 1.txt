@@ -1,0 +1,243 @@
+Bonjour, le cours d'aujourd'hui est intitulé biophysique de la vision et l'étude des amétrophies sphériques et non sphériques. Le programme de ce cours, on va entamer les rappels sur l'optique géométrique, l'interaction de la lumière visible avec les objets et avec l'organe récepteur qui est l'œil. On va voir les différences du dioptrique oculaire, le dioptrique c'est le milieu transparent que la lumière traverse pour transporter l'image d'un objet vers le fond de l'œil qui est la rétine et qui est le foyer image.
+
+On va voir les différents types d'anomalies dues à la réfraction et leurs corrections par les vers correcteurs et autres. L'historique de l'optique et de l'étude de l'interaction de la lumière visible avec l'œil qui est la vision est une science très vieille depuis plus de 2000 ans. D'ailleurs, à l'ère des Grecs, il y avait Aristote, Ériclide, Ptolémie, ils ont fait des études sur la réfraction de la lumière, sur les lois de réflexion des rayons lumineux et l'étude de la lumière dans le vide, c'était en 384 jusqu'à 170 avant Jésus Christ.
+
+Puis il y avait Ibn Haytem, c'était en 965 jusqu'à 1039, il étudiait la formation de l'image déjà au niveau de l'œil et le concept de l'image. Au XIIIe siècle, on étudiait les yeux de miroir avec les rayons de lumière et la décomposition de la lumière blanche en arc-en-ciel grâce à des prismes. Au XVIIe siècle, c'est les débats sur la nature ondulaire au corpusculaire de la lumière. 
+
+D'ailleurs, c'est en 1637 que Descartes a posé les lois dioptriques de l'optique. Au XXe siècle, c'est l'ère de la mécanique quantique, de l'électromagnétisme et de l'optique physique. Alors, quelques définitions. 
+
+L'optique, c'est quoi? C'est la science qui étudie les propriétés de la lumière et ses interactions avec la matière. Normalement, la lumière est une onde électromagnétique qui se distingue des autres rayonnements par le fait qu'elle correspond à la zone de sensibilité de l'œil humain, la longueur de 400 à 780 nanomètres, et qui présente les propriétés physiologiques d'être visible. Donc, l'objet n'est perçu que lorsqu'il y a de la lumière. 
+
+En obscurité, on ne peut pas percevoir les objets et la lumière est réfléchie sur ces objets. De cette manière, les images sont transportées sous forme de rayons réfléchis des objets. L'énergie des photons lumineux est faible, donc la lumière visible n'est pas ionisante.
+
+La bande de fréquence des radiations électromagnétiques correspondant à la lumière visible représente un très petit espace, y compris entre 400 et 780 nanomètres. Ils sont situés entre l'ultraviolet et l'infrarouge. Dans un milieu homogène, c'est-à-dire qui est par exemple l'air, et isotrope, la lumière se propage en ligne droite, et le chemin optique a le temps de parcours le plus court.
+
+L'optique, c'est l'étude de l'interaction de la lumière, le signal physique, avec les objets et qui vont réfléchir l'image vers l'organe sensoriel qui est l'œil. L'œil humain est composé de plusieurs milieux transparents. On va voir que, en commençant par la cornée, puis l'humeur aqueuse, l'humeur vitrée, et entre les deux, il y a le cristallin pour que l'image soit focalisée au niveau de la fovea, ou la rétine centrale.
+
+Les lois générales de l'optique géométrique. D'abord le principe c'est que la lumière se propage de manière rectiligne tant qu'il n'y a pas de phénomène de diffraction. Et puis il y a les lois de Descartes qui donnent la direction des rayons moins réfléchis et réfractés sur la surface de séparation de deux milieux homogènes des vis de réfraction N1 et N2.
+
+Les lois de Snell et Descartes. Snell l'anglais et Descartes le français ont étudié pour la physique optique les issues des rayons incidents à travers un diodre. Donc un rayon incident qui va frapper un diodre qui est un milieu transparent séparant deux milieux d'indices de réfraction différents. 
+
+Ce rayon incident va être réfléchi. Et donc le rayon réfléchi et le rayon incident est la normale entre ces deux rayons. Ils sont contenus dans un plan d'incidence. 
+
+En plus que les angles incident et réfléchi sont égaux. Donc dans le schéma Alpha1 égale moins Alpha1 ou Theta1 égale moins Theta2. Également les lois de la réfraction. 
+
+Il s'annonce qu'un angle incident quand il va frapper un diodre va subir une réfraction en fonction de l'indice de réfraction de part et d'autre de cet angle. C'est comme le cas de notre schéma N1 Sin Theta1 égale N2 Sin Theta2 ou N1 Sin Alpha1 égale N2 Sin Alpha2 sur le schéma. Et donc ces lois de réflexion et de réfraction vont être étudiées également au niveau des deux octets de l'œil.
+
+Donc déjà on parlait du paramètre indice de réfraction N. N c'est un rapport de deux vitesses de la lumière qui est égale à C. C'est la vitesse de la lumière dans le vide sur la vitesse de la lumière dans le milieu qu'on veut étudier. Ça peut être l'air, ça peut être l'eau. Et donc ce rapport n'a pas d'unité et il est supérieur à 1 puisque la vitesse de la lumière dans le vide est la plus grande de toutes les vitesses.
+
+Ainsi l'indice de réfraction de l'air est à peu près égal à 1. 1,00029. L'indice de réfraction de l'eau est égal à 1,33. L'indice de réfraction du verre est égal à 1,5. 
+
+Et le plus grand indice qui existe c'est le diamant qui est de 2,5. Donc on voit que la lumière se propage plus lentement dans l'eau que dans l'air. On revient à l'optique géométrique. 
+
+C'est une approximation que l'on suppose lorsque la longueur d'onde du signal qui est la lumière est petite par rapport aux instruments de mesure. La lumière se propage à l'une de manière rectiligne dans un milieu homogène. Les rayons lumineux sont indépendants les uns des autres. 
+
+Dans un milieu homogène, transparent et isotrope, les rayons lumineux sont des lignes droites. Et la surface de séparation des deux milieux d'orient lumineux obéissent aux lois de Snell-Descartes que l'on vient de voir. C'est le principe de retour inverse de la lumière.
+
+C'est quoi un dioptre ? Un dioptre c'est une surface qui sépare deux milieux transparents et homogènes d'indices de réfraction différentes. Il dévide tous les rayons qui ne frappent pas perpendiculairement. La définition d'un système optique. 
+
+Un système optique c'est un ensemble d'un certain nombre de milieux séparés par des dioptres. C'est un dispositif qui assure une correspondance entre un objet et une image. L'axe optique c'est l'axe de symétrie de ce système optique. 
+
+L'œil c'est un système optique puisqu'il est composé de plusieurs milieux transparents et de plusieurs dioptres et qui sépare deux milieux d'indices de réfraction différents qui sont l'air et l'eau à l'intérieur de l'œil. Un dioptre stigmatique est un dioptre qui donne d'un point ou d'un objet ponctuel une image ponctuelle. A tout point de l'espace objet P il correspond d'une façon unique à un point de l'espace image I et il y a le principe de retour inverse de la lumière. 
+
+A tout objet situé en I il correspond une image située en P. Les points P et I sont conjugués l'un de l'autre. Un dioptre sphérique n'est pas stigmatique mais on peut le considérer approximativement comme stigmatique dans le cas où le faisceau incident est très étroit. Il est peu incliné sur le diamètre du dioptre et également peu éloigné de l'axe optique.
+
+C'est les conditions ou les approximations de Gauss qu'on va les appliquer pour les dioptres de l'œil. Les convergences et les divergences de dioptres. Un dioptre convergent en un point situé sur l'axe optique. 
+
+C'est le foyer image FI. Un dioptre concave. Les rayons qui proviennent de l'infini sont diverses et le prolongement des rayons rétractés est dans le foyer image FI qui est virtuel.
+
+La puissance d'un dioptre. Cette notion est très importante dans le cours qui va suivre et il va nous renseigner sur la puissance de chaque dioptre de l'œil en fonction des indices de réfraction et des rayons de courbure de ce dioptre. La puissance d'un dioptre c'est un rapport entre les indices de réfraction de paré d'autre d'un dioptre et le rayon de courbure de ce dioptre en valeur algébrique en mètre.
+
+Pour le rayon de courbure c'est en mètre. Et donc la puissance d'un dioptre ou dioptrie c'est en mètre moins un. Exemple le cas de l'œil qui sépare l'eau et l'air.
+
+Les indices de réfraction n1 pour l'air est égale à 1 et pour l'eau est égale à 1.33 et le cornet c'est le dioptre entre les deux milieux. Selon les valeurs de n1, n2 et r, les dioptres peuvent être convexes ou concaves. Exemple dioptre de l'œil, le rayon de courbure de la cornée est d'à peu près égal à 10 mm.
+
+Et donc la puissance de ce dioptre est entre les milieux aérien et l'air qui est 1 et 1.33. Et donc la puissance de dioptre est de 1.33-1 sur 0.01 qui est 33 dioptrie. Convention pour les physiciens, la lumière vient de moins l'infini vers plus l'infini. Cela veut dire que tout ce qui est en avant du dioptre est négatif et tout ce qui est en arrière du dioptre est positif.
+
+Donc l'espace objet est situé en avant du dioptre, l'espace image est en arrière du dioptre, l'axe optique est orienté dans le sens de propagation de la lumière, c'est à dire du gauche à droite et les distances sont notées algébriquement. Il y a les relations de conjugaison dans un dioptre. La relation de conjugaison dit qu'il y a une loi, c'est la loi de vergence de l'image qui est égale à la vergence de l'objet plus la puissance du dioptre et qui correspond sur le schéma ci-contre.
+
+Lorsqu'on a N2, l'indice de réfraction du milieu derrière le dioptre qui est sur SP1 ou SP', le P' c'est le foyer image, moins N1 sur SP égale la puissance et également on a la puissance égale N2 moins N1 sur SC, le rayon du cordon. Donc on peut faire une égalité entre les deux valeurs N2 SP' moins N1 sur SP égale N2 moins N1 sur SC et elle est égale à la puissance. Donc la puissance d'un dioptre, il peut être convergent quand le rayon du cordon SC est inférieur à 0 et donc la puissance est positive. 
+
+Lorsqu'il est divergent, le dioptre a un rayon du cordon SC qui est inférieur à 0 et donc la puissance est inférieure à 0. La proximité, on va voir que la proximité c'est un point qui est exprimé par l'inverse de la distance le séparant du sommet. Donc le P' c'est un point alors que la proximité c'est 1 sur la distance du point au sommet du dioptre. Donc on va voir que le P' c'est un point qui est en avant de la cornée et qui va renseigner sur les amétrophies de la vision.
+
+Donc la proximité est une puissance et il est en mètre à demoiselle également en dioptrie. La proximité de P égale 1 sur P égale inférieur à 0 et la proximité de FI égale 1 sur F et elle est supérieure à 0. On va voir les lentilles. Donc tout ce qu'on est en train d'étudier, il est appliqué à la vision de l'œil humain.
+
+Donc on a vu les dioptres. Les dioptres, on va voir que c'est les dioptres cornéens, antérieur, postérieur. Et puis les milieux d'indices de réfraction différentes, sigmo-raqueuse, lima, vitrée et l'air.
+
+Et après il y a également les lentilles. Les lentilles c'est le cristallin de l'œil. Donc une lentille est un mythe transparent limité par deux surfaces dont l'une au moins est sphérique.
+
+Alors qu'une lentille elle est dite mince si son épaisseur est plus faible devant son diamètre. Ou la lentille peut être également convergente comme il peut être divergente. Donc on va voir que les rayons qui viennent de l'infini peuvent être réfractés en fonction du type de lentilles et de leur puissance également.
+
+Une lentille convergente, c'est une lentille qui converge le rayon lumineux. Un rayon lumineux qui vient de l'infini va être convergé vers un point Fi tel que la puissance d'X est supérieure à 0. Une lentille divergente c'est une lentille qui va diverger un rayon et la puissance est inférieure à 0. L'association de lentilles, on peut faire associer plusieurs lentilles d'un nombre N qui sont minces et accolées. Les applications des lentilles on va voir qu'on peut les utiliser dans la correction des améthopes de la vision en plaçant les lentilles devant la cornée.
+
+L'équation de conjugaison d'une lentille mince dans un système optique qui est composé par un axe optique, une lentille, un centre optique et un objet. Il va y avoir une projection de cet objet par les rayons lumineux à travers le diode qui est la lentille. L'image est inversée au niveau du point focal.
+
+Et on a la relation de l'émonsuration de l'objet AB et de l'émonsuration de l'image A'B' tel que le grandissement de AB à A'B' sur AB est une valeur constante et qui égale la distance OA' sur OA. Donc c'est l'équation de conjugaison entre l'objet et l'image. Les mouvements relatifs entre l'objet et l'image.
+
+Donc on a la relation N2 sur SP' égale N1 sur SP plus la puissance pour un diode convergent avec une puissance qui est inchangée. Lorsque le point objet B est situé dans l'indice le plus faible, c'est le cas de l'air, il se rapproche du diode S. Son image P' s'éloigne puisqu'on a cette relation N2S' égale N1 sur SP plus la puissance réciproquement. Les dioptriques oculaires sont composés de 4 rayons de curvature, 4 indices de réfraction et 3 épaisseurs.
+
+On va voir élément par élément. L'œil est un petit organe de 7 cm3 et 12 mm de rayon de curvature. Il contient le premier diode qui est exposé au milieu extérieur qui est l'air, c'est la corneille qui a un rayon de 8 mm et il contient un petit diaphragme qui virilise.
+
+La corneille est une membrane qui est transparente et qui est directement en contact avec l'extérieur. Il faut savoir que la corneille est l'organe le plus énervé et il n'est pas vascularisé donc il est nutré à partir de l'humeur aqueuse. L'humeur aqueuse c'est un liquide qui est transparent et qui maintient la pression et la forme globale oculaire.
+
+Son indice de réfraction est celui de l'eau 1,33. L'iris est un diaphragme qui permet de contrôler la quantité de la lumière qui pénètre dans l'œil, c'est un pigment qui donne la couleur de l'œil. La pupille c'est un orifice central de l'iris.
+
+L'iris est composé par des fibres musculaires, circulaires et linéaires qui vont se contracter et se dilater en fonction de la luminosité. Toujours dans la description de l'œil, il y a le cristallin, c'est une lentille qui effectue la mise au point et qui permet d'obtenir la luminosité à toute distance proche de l'œil. Son indice de réfraction est de 1,42 puis il y a l'humeur vitrée.
+
+C'est un liquide gélatineux qui donne à l'œil sa forme et sa consistance. Son indice de réfraction est de 1,33. Enfin on a la rétine, c'est là où il y a le foyer images et c'est la partie sensible de l'œil sur laquelle est détectée l'information lumineuse.
+
+De la rétine, il est acheminé le nerf optique qui est constitué d'environ 1 million de fibres et qui a pour rôle de transmettre l'image rétinienne qui est sous forme de réaction chimique au niveau du photorécepteur vers le cerveau. L'œil schématique et les puissances. Le diotre cornéen antérieur est divergent et a une puissance de 48 dioterie.
+
+C'est le plus puissant diotre de l'œil. Le diotre cornéen postérieur est divergent et a une puissance de moins 6 dioterie. La cornée peut être remplacée par un diotre unique convergent de 42 dioterie plus 48 moins 6 c'est 42 donc la somme de deux puissances.
+
+Les diotres cristalliniens antérieur et postérieur sont convergents mais le rayon de courbure est variable. On va voir qu'ils s'adaptent à la vision à la distance rapprochée à l'œil. On revient sur le different diotre de l'œil qui est composé par le diotre cornéen antérieur dont la puissance est de 48 dioterie.
+
+N2 est l'indice de réfraction de la cornée qui est 1,377. N1 est l'indice de réfraction de l'âme qui est égal à 1. La puissance est N2-N1 donc c'est 1,377-1 sur 7,830-3 mètres ce qui va nous donner la puissance de 48 dioterie. Pour la cornée postérieure, il sépare l'humoracle de la cornée.
+
+Donc la différence entre les deux indices de réfraction N2-N1 est 1,337-1. C'est une valeur négative sur le rayon qui est une valeur positive. Donc on va avoir une puissance négative et donc c'est un diotre qui est divergent.
+
+Le diotre cristallin antérieur c'est un diotre qui sépare le cristallin dont l'indice de réfraction est 1,42 et l'humoracle qui est de l'eau 1,33. Et le rayon de courbure est de 10-10-3 mètres. Et donc le rapport N2-N1 sur R égale 8 dioterie.
+
+Enfin le diotre cristallin postérieur il sépare le vitré ou l'humor vitré du cristallin. Donc la puissance égale N2-N1 donc 1,33-1,4 Mais le rayon il est négatif donc sur 6,7 ce qui va nous donner le 14 diotre. Schématiquement il est donc un ensemble de diotres dont l'iris est un diaphragme qui limite la quantité de la lumière et qui maintient les conditions de Gauss.
+
+La chambre antérieure il contient l'humoracle qui est un milieu physiologiquement transparent homogène et isotrope donc l'indice est celui de l'eau. Et la chambre postérieure il contient le vitré qui est également transparent homogène et isotrope et l'indice de réfraction est celui de l'eau. Donc les images pour être vues nettement elles doivent être formées sur la rétine.
+
+Et la puissance globale au repos de l'œil il est de 60 dioterie plus ou moins 3,7 Le schéma qui est devant nous il montre que pour former une image les rayons vont subir plusieurs réfractions au niveau des différents diotres de l'œil. Et donc le foyer image il est situé au niveau de la fovea ou la rétine centrale qui est composée principalement par des cellules à cônes de la rétine. Alors que la rétine périphérique qui est composée par des cônes et des bâtonnets.
+
+Donc le fonctionnement de la rétine après l'entrée par la cournée de la lumière. Il traverse l'humeur actueuse puis la pipi et au niveau du cristallin il va converger sur la rétine. Donc la rétine qui contient 7 millions de cônes et ils sont responsables de la vision d'une urne du jour et la vision de couleur.
+
+Et qui permet la vision discriminative des détails des objets. Alors que la rétine périphérique on a dit qu'elle est formée par des bâtonnets et qui sont responsables de la vision nocturne qui est une vision déforme tout simplement. Donc le temps de réponse de la traversée de cette lumière vers la rétine est de 2h27 secondes seulement.
+
+Donc ici on montre qu'il y a un spectre de sensibilité au niveau des bâtonnets. Donc les différents milieux transparents de l'oeil étaient étudiés par Monsieur Listig qui va présenter son modèle de l'oeil réduit de Listig. L'oeil réduit de Listig est un schéma de l'oeil qui est assimilé à un système optique constitué d'un diopère sphérique qui est la cournée.
+
+Et d'une lentille mainspile cristalline. Il est constitué de trois diopères. Une diopère cournienne cristalline antérieure et postérieure.
+
+Et qui représente le schéma suivant. Donc la lumière va rentrer de l'extérieur vers l'intérieur de l'oeil. Le sommet de l'oeil est le S1.
+
+Du sommet de l'oeil jusqu'au cristallin. On a une dimension ou une petite distance de 3,6 mm. Puis plus 4 mm c'est la dimension du cristallin.
+
+Plus 17 mm entre le cristallin et la rétine centrale. Donc si on fait la somme on va trouver une valeur à peu près de 24 mm qui est la longueur de l'oeil. Et on va voir que cette longueur est très intéressante du point de vue des amétrophies et des anomalies de la rétraction de l'oeil.
+
+Donc l'oeil du listing il répond à cette loi de N2. C'est à dire une distance de rétraction du milieu de l'oeil. Sur SP' c'est la distance entre le sommet de l'oeil et l'image.
+
+Sur SP' c'est la distance entre le sommet de l'oeil et le point en Z. Qui est égale à une puissance N2-N1 sur SC. Et donc on peut déduire le SP' qui est égale à N2 fois SC sur N2-N1. Et qui est égale à à peu près 22 mm.
+
+Donc c'est la distance focale image entre le sommet et la rétine. Les conditions de dioptrique de vision normale. Normalement une image doit être projetée à travers le milieu transparent de l'oeil.
+
+Au niveau d'un point qui est bien déterminé au niveau de la rétine. L'amétrophie. Un oeil amétrope est un oeil qui est sans défaut visuel.
+
+Donc c'est un oeil normal. L'amétrophie est assurée par les valeurs harmonieuses de la puissance de l'oeil. Dioptrique basal qui est à peu près égale à 60 dioptritus-3.5 Et le diamètre antérieur-postérieur qui est égale à à peu près 22 mm.
+
+Donc un objet ponctuel doit donner une image ponctuelle sur la rétine. C'est ce qu'on appelle le stigmatisme. Et qui répond à l'approximation de Gauss.
+
+Et qui est assuré par la symétrie de révolution des diopthroculaires. Donc les diopthroculaires ont la forme d'un verre de montre. Donc ils ont une symétrie de révolution.
+
+C'est à dire que les rayons de courbure sont les mêmes dans toutes les directions. Donc ceci est surtout vérifié pour les diopthroculaires antérieurs. Le point conjugué de la rétine se trouve au niveau de l'infini.
+
+Et on appelle le point que l'on pourrait m'entendre. C'est le point conjugué de la rétine qui égale l'infini normalement. L'infini c'est 5 m. Et donc la rétine et l'infini sont conjugués l'un de l'autre.
+
+Lorsque ces conditions ne sont pas réalisées. On parle d'une anomalie de la vision ou d'une âme épropre. Donc pour la vision de près on va entamer la notion de l'accommodation.
+
+Donc l'accommodation c'est un phénomène réflexe. Qui permet de conserver une vision nette. Pour tous les points qui sont proches de l'œil.
+
+Le cristallin c'est lui qui va intervenir. Et il va s'adapter en puissance. Entre une puissance minimale qui est dite de repos pour la vision de loin.
+
+Et une puissance maximale dite d'accommodation. Donc pour la vision de loin on a le point de repos. Et pour la vision de près il y a le point d'accommodation.
+
+Ou PPE pour l'accommodation maximale. Donc le schéma il montre que lorsque l'objet est rapproché. Il est projeté derrière la rétine.
+
+Et donc on va le voir sous forme d'image floue au niveau de la rétine. Et le cristallin il va intervenir par le phénomène de l'accommodation. Pour le ramener sur la rétine.
+
+Qui devient une image rétinienne qui est nette. Et donc le cristallin qui est une antibi-convexe. Il est rattaché à l'iris par des fibres ce qu'on appelle des onules de digne.
+
+C'est des petits muscles qui vont contracter ou relâcher le cristallin. Lorsque l'oeil ne s'accommode pas. Ils sont relâchés.
+
+Lors de l'accommodation le cristallin se bombe. Donc le changement de formation du cristallin. Est en fonction de l'accommodation.
+
+Donc le système visuel a la faculté de pouvoir modifier la puissance optique de l'oeil. Par variation de la forme du cristallin. Qui se bombe plus ou moins sous l'action du muscle cilia.
+
+C'est le phénomène d'accommodation. Dont le rôle est de rapprocher le plus possible de la rétine l'image optique d'un point fixe. L'accommodation.
+
+Il y a plusieurs phénomènes qui se réalisent. Ou plusieurs mécanismes. D'abord il y a une modification de la courbure du cristallin.
+
+Surtout la phase antérieure. Il y a l'augmentation de l'indice de réfraction du cristallin. Donc l'étassement des fibres du nucléus.
+
+Il y a une contraction pupillaire. Donc l'humiosis. Et la convergence axiale des deux yeux.
+
+Par réflexe photomoteur sur l'objet observé. Ceci va résulter une fusion cérébrale des images des deux yeux. Et donc quand il y a modification de la courbure du cristallin.
+
+On va avoir une diminution du rayon de courbure. Et donc la puissance va augmenter. Également l'indice de réfraction qui va augmenter.
+
+La puissance également va augmenter. Et l'humiosis va améliorer l'image. Le Pochton Proximum.
+
+Lorsque l'oeil accommode. Il existe une limite au-dessous. C'est à dire entre l'oeil et le point objet le plus proche de l'oeil.
+
+Qui peut former une image distincte ou claire. Et appelé le Pochton Proximum. PP de proximité grand P. Chez l'enfant jeune la distance coronée au PP est d'environ 10 cm.
+
+Puis cette distance augmente avec l'âge. Le Pochton Rémotum c'est le conjugué de la rétine. A travers l'oeil quand celui-ci n'accomode pas.
+
+Donc l'oeil est au repos. Donc c'est le point le plus éloigné que l'oeil puisse voir. Sans mettre en jeu son mécanisme d'accommodation.
+
+L'amplitude d'accommodation. C'est une valeur maximale que peut atteindre l'accommodation. L'amplitude d'accommodation en diopterie est donnée par la relation suivante.
+
+AA égale 1 sur SP. Moins 1 sur SR. C'est à dire 1 sur la distance. Entre le sommet du diopterie.
+
+Et le Pochton Proximum. Moins 1 sur la distance du sommet du diopterie. Et le point de l'objet quand l'oeil n'accomode pas.
+
+L'amplitude diopterie d'accommodation dépend de l'âge. C'est la même pour un oeil normal. Ou pour un oeil myope.
+
+Ou hyper-opique. Il est environ 14 diopterie pour un enfant de 10 ans. Et il diminue jusqu'à 2,5 diopterie pour un adulte de 40 ans.
+
+Donc on voit sur ce tableau qu'avec l'âge. Le Pochton Proximum il s'éloigne du sommet de la cornée. Et il se rapproche au Pochton Remotum.
+
+Et donc l'amplitude d'accommodation il diminue. A l'âge de 10 ans il est maximal. L'amplitude d'accommodation il est à 14 diopterie.
+
+Et le Pochton Proximum il est à 7 cm. Et bien sûr le Pochton Remotum il est à l'infini. Le degré d'accommodation et l'amplitude d'accommodation.
+
+Donc on a dit que l'amplitude d'accommodation c'est la valeur maximale qui peut atteindre le phénomène d'accommodation. C'est une différence qui est positive. Il est extrêmement en diopterie.
+
+Entre la proximité du remotum ça veut dire 1 sur R. Et celle du Proximum 1 sur P. Donc la puissance de repos de l'œil. Pour la vision du loin. Au niveau d'un point PR.
+
+Elle est de 0. Alors que la vision de près. C'est du puissance maximale DM. Et donc la différence entre ces deux puissances c'est l'amplitude d'accommodation.
+
+Qui est égale 1 sur PR. La distance entre PR et PP elle représente le parcours d'accommodation PR. Donc les variations d'accommodation avec l'âge.
+
+Ce diagramme montre les variations d'amplitude d'accommodation. Qui diminuent avec l'âge. On voit qu'ils vont de 11 diopteries à l'âge de 10 ans.
+
+Et qui peuvent descendre jusqu'à 1 diopterie à l'âge de 60 jusqu'à 70 ans. Donc cette diminution de l'amplitude d'accommodation ou de la vision de près. Est appelé le phénomène de presbytie.
+
+Ou la presbytie. Donc la presbytie c'est un trouble de l'accommodation. Le sujet ne peut pas voir nettement les objets proches.
+
+Et donc il est obligé par exemple ce monsieur qui est en train de lire. D'éloigner son journal. Pour mieux voir les caractères des créatures.
+
+La presbytie est donc c'est une perte du pouvoir d'accommodation avec l'âge. Qui survient entre 45 et 50 ans. Et donc c'est une capacité de l'adaptation critique qui diminue avec l'âge.
+
+Et c'est un simple vieillissement physiologique du processus. Le cristalline perd son elasticité en vieillissant. Et donc il va résulter une diminution de l'amplitude d'accommodation.
+
+Et qui se traduit par un éloignement du promptum proximum. Donc c'est le tableau qu'on vient de voir. Et le promptum proximum il s'éloigne de la cornée.
+
+Pardon du sommet de l'oeil. Et donc il se rapproche du promptum remotum. Cette courbe montre que avant 50 ans.
+
+Il y a une zone de vision nette entre 25 et 50 cm du sommet de la cornée. Mais après 50 ans, il y a une perte de vision de près. C'est le phénomène de la preslissie.
+
+Donc la preslissie est une amplitude d'accommodation qui est insuffisante. Et une incapacité du cristallin. Due à un simple vieillissement physiologique du muscle processiliaire.
+
+Et qui ont un effet de diminuer la puissance maximale. Et donc l'amplitude d'accommodation. Le promptum proximum s'éloigne de l'oeil.
+
+Il se rapproche du promptum remotum. Qui devient inchangé. Donc on parle de preslissie dès que l'amplitude d'accommodation est inférieure à 4 dioptrides.
+
+Au moyen à partir de l'âge de 45 ans. Donc la preslissie c'est une perte de pouvoir d'accommodation qui est avec l'âge. Qui peut être corrigée par des demi lentilles.
+
+Pour la vision de près seulement. Et donc la puissance de ces verres. Permet de compenser le degré de preslissie.
+
+Et donc c'est des verres sphériques convergents. Et qui permet de ramener l'amplitude d'accommodation à plus 4 dioptrides. Et donc rapprocher le promptum proximum.
+
+Vers le sommet de la coronée. Donc on n'a pas besoin de corriger la vision de loin. D'un preslissie.
+
+Parce que le sujet peut voir nettement de loin. D'où on peut utiliser des verres émi-neutres. C'est à dire qu'en bas du verre il a une puissance de correction de la preslissie.
+
+Et la moitié supérieure du verre est neutre. Donc la preslissie toujours c'est une difficulté de voir de près. Et la correction des lentilles sphériques convergent selon la règle suivante.
+
+A 50 ans on donne les verres correcteurs de plus 1 dioptride. Et puis on augmente la puissance de la lentille. De plus de 0,5 dioptrides.
+
+Chaque 5 années.

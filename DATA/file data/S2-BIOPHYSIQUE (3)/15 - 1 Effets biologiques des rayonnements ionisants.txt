@@ -1,0 +1,499 @@
+Bonjour tout le monde. Alors, le cours d'aujourd'hui s'appelle « Les effets biologiques des rayonnements ionisants ». Alors, le plan qu'on va suivre ensemble est le suivant. Donc, après la définition de la traduction, on va voir les différentes expressions de la dose.
+
+Donc, déjà, on va parler de différents types de doses. D'accord, la dose absente, la dose équivalente et la dose efficace. On va voir les modes d'action des rayonnements ionisants.
+
+Donc, généralement, ils sont au nombre de deux, des effets directs et indirects. Et par la suite, on va voir les modes d'action à petite échelle et puis on va augmenter progressivement. Donc, d'abord, à l'échelle moléculaire, à un niveau plus haut, les effets à l'échelle cellulaire, encore plus grand, à l'échelle tessulaire et finalement, les effets des rayonnements ionisants sur l'organisme.
+
+Alors, déjà, à propos de la définition de la radiobiologie, ce sont les effets biologiques qui sont provoqués par les rayonnements ionisants sur les tissus qui sont vivants. Ceci découle des moyens de radioprotection parce qu'en connaissant bien sûr les effets, on va pouvoir déterminer les moyens de radioprotection, que ce soit à l'échelle individuelle, à l'échelle des publics ou bien à l'échelle de l'environnement. Et puis, en cas où, donc en cas de radiation, on va savoir dans quel type de rayonnement est responsable et puis donc les mesures nécessaires de radioprotection vis-à-vis de ce type de rayonnement.
+
+D'une manière générale, les rayonnements, ils ont un double intérêt, donc un intérêt diagnostique quand, par exemple, vous voulez faire pour un patient une radiographie du thorax ou un scanner, par exemple, comme ce que vous voyez ici sur l'image, ici ou bien ici, d'accord, ou bien lorsqu'un malade veut faire, par exemple, une imagerie fonctionnelle type scintigraphie ou bien tomographie par émission de positons, comme vous voyez ici. Alors, on va revenir sur la tomographie, sur la scintigraphie dans le cours qui est réservé à ce chapitre-là. Ceci pour le diagnostic.
+
+Pour le thérapeutique, on peut utiliser les rayonnements ionisants, donc à des fins de traitement, soit en matière de radiothérapie externe. Donc, on peut utiliser soit des sources de rayons X, d'accord, pour l'utilisation généralement superficielle ou profonde. On peut utiliser donc la radiothérapie externe, mais à base de cobalt.
+
+C'est ce qu'on appelle la cobaltothérapie, d'accord. Essentiellement dans les cancers de la tête, du cou, du sein et des membres. On peut toujours utiliser la radiothérapie externe, donc à base de neutrons.
+
+C'est ce qu'on appelle la neutrothérapie, essentiellement indiqué dans les sarcomes. Et puis, finalement, on peut utiliser la radiothérapie externe, toujours, en utilisant des protons. C'est ce qu'on appelle donc la protothérapie.
+
+Et cette indication, ou plutôt les indications de cette technique sont les mélanomes et les tumeurs nerveuses. Ceci pour la radiothérapie externe. Pour la radiothérapie interne, nous avons deux méthodes.
+
+Soit des sources non scellées, d'accord, par le cobalt 60 ou par le cysium 137. Soit par la curéthérapie métabolique bêta-moins. Dans le cancer, par exemple, de la thyroïde, on va utiliser l'héliode 131.
+
+Dans certaines formes de cancers avancés du foie, on va utiliser un produit qui s'appelle le lupiodol, qui est marqué à l'héliode 131. Et dans certaines formes de cancers du surrénal, on va utiliser un produit qui s'appelle la mono-iodobenzinguanidine, donc l'IMBG, qu'on va marquer avec l'héliode 131. Donc vous voyez un petit peu les indications en matière de diagnostic et de thérapeutique des rayonnements ionisants.
+
+Alors, maintenant, on peut voir les différentes étapes. Quand un rayonnement incident vient frapper une molécule donnée, il y a plusieurs étapes. La première étape, c'est l'étape physique.
+
+Cette étape physique va se caractériser par deux phénomènes, soit un phénomène d'ionisation, soit un phénomène d'excitation, et ceci selon l'énergie du photon incident. Si, par exemple, l'énergie du photon incident ou bien de l'électron incident est supérieure à l'énergie de liaison de l'électron en question, généralement supérieure à 30 électrons volts, l'électron, il sera éjecté de son siège, d'accord, de son cortège électronique, et dans ce cas, on parle d'ionisation. Généralement, c'est la couche K qui est concernée.
+
+Alors, le deuxième phénomène, celui de l'excitation, c'est quand l'énergie de l'électron incident est inférieure à l'énergie de liaison de l'électron de l'atome. Dans ce cas, l'électron en question sera déplacé vers une couche qui est supérieure, par exemple de K vers L ou bien de L vers M, et dans ce cas, on parle d'excitation et les couches qui sont concernées, généralement les couches qui sont moins liées, donc soit L, soit M. Ceci dit, alors, vous avez remarqué ici pour les couches que chaque couche électronique, d'accord, peut contenir un nombre maximum d'électrons qui est égal à 2N². Ainsi, la couche K peut contenir donc 2 électrons, L8, M18, et ainsi de suite, selon toujours la formule de N².
+
+Après l'étape physique, l'étape moléculaire, ça veut dire que les rayonnements ionisants vont attaquer l'eau, le cétoplasme, la membrane et la diène. À une échelle plus grande, les rayonnements ionisants vont attaquer la cellule, donc ils vont provoquer soit une mort immédiate lorsque la dose est très importante, soit une mort dite méthotique, soit une mort parapopthose. On va voir les détails au fur et à mesure.
+
+À une échelle plus grande, les rayonnements ionisants vont attaquer les tissus, donc il y a deux classes, le tissu qui est bien organisé, ou le tissu compartimental, et le tissu non hiérarchisé ou le tissu non compartimental. Toujours à un niveau plus grand, les rayonnements ionisants vont attaquer l'organisme et selon la cible, soit ainsi on va parler d'effets somatiques, soit une cellule de reproduction, on va parler d'effets génétiques, soit le foetus carrément, et là on va parler d'effets thératogènes. À une échelle plus grande, et généralement dans le cadre d'un accident, les effets biologiques peuvent se traduire à l'échelle de la population.
+
+Les effets biologiques, avant de voir ces effets-là, il faut savoir qu'ils dépendent de plusieurs facteurs. Tout d'abord, le type du rayonnement. Est-ce que c'est un rayonnement du type alpha, bêta, plus ou bêta moins, ou bien un rayonnement du type gamma? Déjà. 
+
+Pourquoi? Parce que les énergies déphèrent selon le type. Par exemple, pour une particule alpha, elle a une énergie comprise entre 4 et 8. Pour une particule de type bêta moins, si je prends l'iode, par exemple 131, son énergie est de 606 keV. On n'est plus du MeV, mais du KeV.
+
+Pour une particule gamma, si je prends, par exemple, les bêta plus, dans le cadre du fluor 18, son énergie est de 511 keV. Déjà, vous voyez que les effets dépendent du type du rayonnement et qui dit type, dit énergie qui est différente. Bien sûr, les parcours seront différents.
+
+Pourquoi? Parce que pour une particule de type alpha, le parcours dans les tissus est inférieur à 1 mm et dans l'air, il est aux alentours de 10 cm. Pour une particule bêta moins, il est de 1 mm dans les tissus mous et environ 1 m dans l'air. Pour le rayonnement du type hexigamma, c'est une distance un peu plus grande, environ 10 cm dans les tissus mous et 10 à 100 m dans l'air.
+
+Voilà. Déjà, le premier facteur, ce sont les caractéristiques des rayonnements ionisants. Après ces caractéristiques-là, ils dépendent également de la composition de l'organisme.
+
+La composition de l'organisme, ça veut dire quoi? Ça veut dire le type de la cellule. Est-ce que c'est une cellule qui est sensible ou pas au rayonnement? On verra ça. Le tissu. 
+
+Il y a des tissus qui sont plus sensibles qu'autres. Bien sûr, il y a le sujet. Le sujet, est-ce que c'est un nourrisson ou bien est-ce que c'est un adulte? Ceci en rapport avec la surface corporelle.
+
+Les différents modes d'irradiation. Les différents modes d'irradiation, c'est très important. Là, on va parler de dose et de débit de dose. 
+
+Quand on parle de débit, c'est en fonction du temps. Après, vous devez savoir que lorsqu'un rayonnement ionisant attaque une molécule, les attentes les plus touchées sont les attentes qui constituent un pourcentage très important à savoir l'attente de carbone, d'oxygène, d'hydrogène et d'azote. Les phénomènes les plus connus à la première étape, ce sont les phénomènes d'excitation et d'immunisation que j'ai déjà expliqués.
+
+Ce sont ces phénomènes-là qui vont entraîner par la suite les effets biologiques qu'on va détailler que ce soit misible lorsque la dose dans laquelle elle dépasse est donnée, soit bénéfique soit d'un traitement, soit d'un diagnostic. C'est l'exemple que j'ai donné pour la radiographie, pour le SCAREN et pour la scientifique. Quelques dates très intéressantes.
+
+Vous devez savoir qu'en 1985 il y a la découverte des radiations ionisantes. Quelques années plus tard, en 1996, il y a la constatation des premières lesions cutanées, radio-induites, qui sont provoquées par les rayonnements ionisants. En 1910, le développement de certains cancers expérimentaux.
+
+Et puis, en 1927, la constatation d'une mutation génétique liée aux rayonnements ionisants. Un petit détail, on va revenir sur le phénomène d'ionisation et d'excitation. Pourquoi ? Parce que c'est très important. 
+
+C'est le premier phénomène qui est constaté lorsque un rayonnement ionisant attaque une molécule donnée de l'organisme. Le phénomène d'ionisation, c'est très simple. C'est lorsque l'énergie est suffisante pour acheter un électron de l'atome.
+
+Ce dernier, comment il sera éjecté ? A son tour, il va créer d'autres ionisations si son énergie est suffisante. Pour le phénomène d'excitation, l'énergie incident est inférieure à l'énergie de liaison. Cette énergie va juste déplacer l'électron à une couche qui est supérieure.
+
+L'atome, par conséquent, devient très instable. Et puis, le dernier phénomène, lorsque l'énergie incident est très inférieure, là, pour exciter l'atome, l'atome en question va avoir son énergie signétique très augmentée, soit par un phénomène de translation, de rotation ou bien de vibration. Là, c'est très important.
+
+Ce sont les différentes expressions de la dose. C'est un schéma qui montre un petit peu les différentes expressions. On va commencer déjà par la source.
+
+La source, généralement, est exprimée en bicréel. C'est une source radioactive qui va émettre un type de rayonnement, que ce soit alpha, bêta, gamma ou autre. Au niveau de l'organisme, la première expression, c'est la dose absorbée qui va s'exprimer en grès.
+
+C'est au niveau de l'organisme. À une échelle plus grande, une autre expression, c'est la dose équivalente. La dose équivalente, c'est quoi ? C'est la dose absorbée qu'on va multiplier par un facteur de pondération radiologique.
+
+Pourquoi cette dose équivalente ? C'est pour faire la différence entre la dangerosité de chaque type de rayonnement. À un stade plus grand, on va parler de doses efficaces. La dose efficace, c'est quoi ? C'est la sommation des doses équivalentes qu'on va multiplier par un autre facteur qui s'appelle le facteur de pondération tissulaire.
+
+Ceci, pour faire la part des choses entre les tissus les plus sensibles. On verra ça en détail dans les diapos suivantes. On va commencer par la dose absorbée.
+
+La dose absorbée, c'est quoi ? C'est l'énergie totale qui est déposée par unité de masse. L'unité sur les grès. Un grès, c'est un joule par kilo.
+
+L'unité, c'est le rad. Un grès est égal à 100 rad. Vous avez une source radioactive qui émet un type de rayonnement donné.
+
+La dose absorbée, c'est l'énergie totale absorbée par unité de masse. La masse qui a reçu le rayonnement en question. L'énergie, ou plutôt l'unité, c'est le grès.
+
+Quelques exemples de doses absorbées. Si quelqu'un, par exemple, fasse une radio dentaire, la dose absorbée moyenne est de 0,2 mg. Si quelqu'un, par exemple, fasse un cliché du thorax, la dose absorbée est de 1 mg.
+
+Une séance de radiothérapie, ça peut augmenter jusqu'à 2 grès. Maintenant, le débit. C'est une notion de dose, mais en fonction du temps.
+
+C'est la dose absorbée par unité de temps. C'est généralement grès par seconde. L'expression suivante, c'est la dose équivalente.
+
+On va introduire le fameux facteur de pondération radiologique. Pourquoi ? Pour faire la part entre les différents types de rayonnement. Ou plutôt, on va les classer en matière de dangerosité.
+
+Il y a certains rayonnements qui sont plus nocifs que d'autres en matière d'irradiation. L'unité, c'est le ci vert. Là, vous avez les différents facteurs de pondération pour les rayonnements.
+
+Par exemple, pour les photons et les électrons, vous avez un facteur qui est égal à 1. Pour les particules alpha, vous avez un facteur qui est égal à 20. Pour les neutrons, c'est en fonction de l'énergie. Sur le graphique, vous constatez que l'énergie de neutrons est à ce niveau-là.
+
+Là, le facteur de pondération est le plus augmenté. Ceci, c'est pour les neutrons qui ont une énergie comprise entre 5F et 2Mv. On peut les bloquer.
+
+Je vais avancer. Ceci concerne le risque d'irradiation ou plutôt de contamination interne. Vous avez les particules alpha qui ont un parcours très court dans la matière qui est d'environ 0,03 mm.
+
+Donc, même pas 1 mm. En termes d'irradiation externe, elle est nulle parce qu'elle a un parcours très faible. En termes de contamination externe, elles sont sans danger.
+
+Par contre, en contamination interne, elles ont un risque très important. Pourquoi? Parce qu'elles sont à l'intérieur. On est dans ce schéma-là.
+
+Le nombre de perdants créés est très important. Ils peuvent aller jusqu'à 4500 perdants créés par micromètre. Voilà.
+
+Ceci pour les particules alpha. On peut appliquer ça pour les particules bêta, pour les particules gamma et pour les neutrons. On va prendre quelques exemples.
+
+Si on prend par exemple un sujet A, un sujet B, un sujet C. On va commencer par le sujet A. S'il reçoit par exemple un rayonnement ionisant avec une dose absorbée de 1 mGy, de quoi? Le rayonnement de type gamma. Je rappelle que le rayonnement gamma, si vous revenez sur les slides précédents, a un facteur de pondération qui est égal à 1. Le sujet B reçoit une irradiation totale, la même dose absorbée 1, mais de neutrons qui ont une énergie de 50 keV. Je rappelle que les neutrons ont une énergie de 50 keV et un facteur de pondération qui est égal à 10.
+
+Les doses équivalentes, c'est quoi? C'est la dose absorbée multipliée par le facteur de pondération radiologique. On va prendre pour le A la dose absorbée, qu'on va multiplier par 1, donc la dose équivalente qui est égale à 1 mSv. Pour la personne B, la dose absorbée qui est égale à 1, multipliée par le facteur de pondération radiologique qui est égal à 10. 
+
+Et là, on est environ avec une dose équivalente, on va se retrouver avec une dose équivalente qui est égale à 10 mSv. Donc, là, la conclusion, c'est quoi? C'est que pour la même dose absorbée, mais avec des rayonnements très différents, la dose équivalente sera très différente. Pourquoi? Parce que les facteurs de pondération de chacun des rayonnements sont différents.
+
+Ceci explique un petit peu la dangerosité des neutrons par rapport aux rayonnements gamma. Avec la même dose. On va passer à la personne C. Supposons qu'elle reçoit les deux, gamma et neutron, avec la même dose.
+
+1 pour les rayonnements gamma et 1 pour les rayonnements neutrons. La dose finale, la sommation, c'est quoi? C'est 1 plus 10, ça fait 11. Ceci conclut, on va conclure de la manière suivante.
+
+D'une part, pour la même dose absorbée, il faut savoir que la dose équivalente est différente en fonction du type de rayonnement. Deux, la sommation de plusieurs rayonnements aura des conséquences en termes de toxicité très importantes, parce qu'il y aura une sommation des différents types de rayonnements et par conséquent, en tenant compte de leurs facteurs de pondération radiologiques. On va passer à la dose, à l'équivalent de la dose engagée.
+
+Ceci en cas d'introduction du radio-élément. La dose équivalente, c'est quoi? C'est la dose équivalente reçue jusqu'à la disparition du radio-élément. La disparition peut se faire de deux manières.
+
+Soit par une décroissance du radio-élément, une décroissance physique. Je prends l'exemple du cyclicium, qui a une durée de vie de six heures. Au bout de six heures, il va disparaître de l'organisme.
+
+Soit par élimination biologique. On va introduire une nouvelle notion, la période biologique. On va expliquer tout ça.
+
+L'équivalent de dose engagée, on peut l'exprimer de différentes manières. Soit par la période physique, soit par la période biologique, soit par la période fictive. La différence entre les trois est la suivante. 
+
+La première, la période physique, c'est le temps nécessaire pour que la moitié des atomes se désintègrent naturellement. Donc, je rappelle la moitié. D'accord? Pour la période biologique, c'est quoi? C'est le temps, toujours la notion de temps, au bout duquel la moitié d'une quantité ingérée ou inhalée, d'accord? Pourquoi ingérée ou inhalée? Parce que le produit, d'accord? Le produit radioactif, d'accord? Ou plutôt la source, d'accord? Peut-être soit ingérée, soit inhalée.
+
+On va prendre des exemples dans les slides suivantes. Alors, la moitié, il sera comment éliminée de l'organisme? Et là, on parle de période biologique. Et la période fictive, bien sûr, c'est l'assommation des deux.
+
+Là, je ferai comme exemple l'iode-131 qui a une période physique, d'accord? De huit jours. Ça veut dire que c'est le temps nécessaire pour que la moitié des atomes se désintègrent, donc les atomes de l'iode 131. Pour la période biologique, il est de 30 jours.
+
+Et pour la période, donc, fictive, c'est 6,3 jours. Alors, la dose efficace. La dose efficace, c'est une expression très importante.
+
+D'accord? Parce que, donc, il va nous renseigner sur la sensibilité des tissus. Alors, on va prendre le même rayonnement, donc un rayonnement du type par exemple bêta, d'accord? Et la même dose absorbée, donc 1 mSv. Mais, en fonction du tissu, d'accord, qui est irradié, d'accord? Donc, le risque sera différent en fonction de tel ou tel organe.
+
+Et cette notion qui est exprimée par cette dose, d'accord, qui s'appelle la dose efficace. Alors, généralement, c'est quoi? C'est la sommation des doses équivalentes qu'on va multiplier par un facteur qui s'appelle le facteur de pondération tissulaire, donc tissulaire relatif à chaque tissu. Son unité, c'est le 6 Hertz.
+
+D'accord? Et il faut savoir que cette dose efficace, alors, il ne s'applique qu'aux effets stochastiques. C'est quoi les effets stochastiques déjà? Il faut savoir que les rayonnements ionisants, donc, ils provoquent deux types d'effets. Soit des effets dits alors, on va écrire peut-être déterministes, soit des effets dits stochastiques.
+
+Quelle est la différence entre les deux? C'est que les effets déterministes, ce sont des effets qui sont obligatoires. Vous avez un rayonnement ionisant avec, donc, une énergie initiale bien déterminée, d'accord? Alors, les conséquences sur l'échelle, sur l'organisme, ils sont obligatoires. Ça veut dire quoi? Ça veut dire qu'il y a un seuil.
+
+Chaque fois que le seuil est dépassé, on va voir ces effets-là. Pour les effets stochastiques, alors, ces effets-là, ils ne sont pas obligatoires. Ça veut dire qu'il y a certaines personnes qui ont développé ces effets-là, d'autres non.
+
+Bien, alors, on va continuer et on va revenir sur ces effets-là dans le cours suivant, qui est celui de la radiopathologie. Mais déjà, sur la dose efficace, on peut dire que c'est une unité de radioprotection qui est destinée à évaluer un risque à long terme. Pourquoi? Parce que les effets déterministes que j'ai expliqués initialement, ce sont des effets à court terme.
+
+Mais par contre, les effets stochastiques, ce sont des effets à court terme. Le risque, c'est quoi? C'est qu'un rayonnement peut toucher soit une cellule somatique, soit une cellule germinale, et le risque, ce sont des effets heréditaires. Bien, là, les faibles doses, on en a déjà parlé, les effets stochastiques, donc ils ne concernent que les faibles doses de rayonnement ionisant. 
+
+Par contre, les effets déterministes, ils concernent donc les fortes doses. Le facteur de pondération du corps entier, alors on va souligner ça, c'est très important. Donc le corps entier, d'accord, donc l'assommation est égale à 1. Alors, on va revenir sur la diapo suivante.
+
+Là, sur le corps entier, donc, sur le corps entier, le facteur de pondération, c'est l'assommation de tous les facteurs de pondération de tous les tissus, qui est égale à 1. Bien, alors la dose équivalente, c'est, pardon, oui, donc la dose équivalente, elle est égale à la dose efficace, qui est égale à 10 millisieverts. Mais par contre, si la même source radioactive, 10, donc, n'est reçue qu'au niveau du poumon. Et je rappelle que le facteur de pondération titulaire dans le poumon, il est égale à combien? Il est égale à 0,12.
+
+Donc c'est 10 fois 0,12 qui est égale à 1 millisievert. Donc les radiations, donc, sont les plus importantes lorsqu'elles concernent tout l'organisme que lorsqu'elles concernent donc une partie de l'organisme. Là, bon, c'est une diapo qui résume un petit peu donc les relations entre les différentes doses.
+
+Là, vous avez donc un générateur. C'est celui, bien sûr, qui contient donc la source radioactive. L'unité, c'est le bicréel, d'accord, ou la curue.
+
+La dose, donc, absorbée, d'accord, son unité, c'est le grès. Vous avez l'ancienne unité qui est le rad, donc en sachant qu'un grès est égal à son rad. Ça, c'est la dose absorbée.
+
+Pour évaluer et faire la différence entre les différents types de rayonnement, on va utiliser, donc, le facteur de pondération radiologique et ceci dans le cadre de la dose équivalente qui est égale à la dose absorbée mutuée par le facteur de pondération radiologique. L'unité, c'est le sivert. L'ancienne unité, c'est le rem.
+
+Et pour voir l'impact sur la personne, on va utiliser, donc, un facteur de pondération titulaire pour calculer la dose efficace qui est égale à la dose équivalente, d'accord, mutuée par ce fameux facteur, unité, c'est le sivert. Bien. Alors là, toujours un exemple typique entre la dose absorbée et la dose équivalente et la dose efficace.
+
+Là, vous avez le nombre de pommes qui tombent, d'accord, c'est à peu près le nombre de rayonnements qu'a reçu l'individu en question. Et il l'exprime en bicrel ou bien curie pour savoir l'énergie absorbée sur le corps, d'accord, on va utiliser le grès. Mais pour voir un petit peu les conséquences de ce type de rayonnement sur l'organisme, on va utiliser le sivert. 
+
+Et là, il est mieux schématisé. On avait le bicrel qui est émis par la sauce en question. Alors, pour calculer la dose absorbée, on va utiliser l'intérêt et le grès. 
+
+Mais pour voir un petit peu les conséquences, on va utiliser le sivert, que ce soit en matière de dose équivalente, qui est également la dose absorbée une fois que ça répond à des rations radiologiques, ou surtout la dose efficace en fonction de chaque tissu qui est touché par le rayonnement en question. Alors maintenant, on va rentrer dans les détails et commencer à voir les modes d'action des rayonnements. Bien.
+
+Là, par exemple, vous avez un rayonnement alors on va un rayonnement donc émis par une sauce, d'accord, et ce rayonnement donc, il a deux effets. Soit un effet direct, soit un effet qui est indirect. Alors, l'effet direct, c'est le transfert de l'énergie, d'accord, sur les molécules de l'atome en question. 
+
+C'est ça l'action directe. Mais par conséquent, il y a un effet indirect qui est prépendurant, d'accord, et qui concerne bien sûr donc soit l'ADN, soit la molécule d'eau. Et cet effet indirect qui va provoquer donc la libération de ce qu'on appelle les radicaux libres, qui sont très toxiques et qui sont responsables des lésions des autres donc des autres produits, donc à savoir l'eau, le cétoplasme, la membrane et surtout l'ADN.
+
+Bien, pour résumer, lorsqu'un rayonnement incident frappe une cellule cible, donc il y a deux actions. Une action directe, d'accord, sur la molécule en question ou la macro, d'accord, et puis une action qui est indirecte, qui est très prépondérante et qui concerne surtout la formation des radicaux libres. On va voir ça en détail.
+
+Alors, sur l'organisme, les molécules les plus touchées sont au nombre de deux. Alors, il y a d'abord la molécule d'eau, d'accord, et il y a l'ADN. Alors, la molécule d'eau, pourquoi? Parce que elle constitue à peu près 70% de notre corps.
+
+Et l'ADN, c'est pour des raisons que vous connaissez tous, c'est le rôle vital de multiplication cellulaire. Bien, ceci à l'échelle moléculaire, donc à l'échelle moléculaire, nous avons vu deux effets qui sont prépondérants. C'est l'action sur la molécule d'eau et l'action sur l'ADN.
+
+Il y a d'autres effets. Il y a l'effet à l'échelle de la cellule, l'effet à l'échelle des tissus et puis un effet général sur l'organisme. Mais, tout d'abord, on va commencer par les effets à l'échelle moléculaire et on va détailler encore plus l'effet direct et indirect. 
+
+Alors, pour l'effet direct, c'est que lorsqu'une molécule en question d'accord, d'un rayonnement ionisant frappe une cible. Alors, cette molécule peut devenir soit ionisée soit excitée. Et le retour à l'état fondamental, il peut se faire soit par l'émission d'un photon de fluorescence que j'ai marqué ici, soit par une rupture des lésions covalentes.
+
+Alors, ceci dit, les radicaux libres, alors, c'est quoi ? C'est un atome ou une molécule dont un électron, d'accord, est non appareillé, est non lié. Ce qui est responsable de l'instabilité et de la réactivité chimique. Ce qui rend donc la toxicité très importante. 
+
+Et surtout, ce sont ces radicaux libres, donc le A et le B, d'accord, qui sont responsables de l'altération indirecte sur les molécules en question. Ceci pour l'effet direct. Pour l'effet indirect, alors, il concerne quoi ? Il concerne donc la décomposition de la molécule d'eau. 
+
+C'est ce qu'on appelle la radiolyse. Alors, la radiolyse ou la décomposition de la molécule d'eau, elle a été mise en évidence en 1901 par Pierre Curie. Elle est causée par les radicaux libres, d'accord.
+
+Pourquoi la molécule d'eau ? Parce que c'est en rapport avec la masse du corps, parce que l'eau représente à peu près 70% de notre corps. Et ces radicaux libres, donc la molécule d'eau, on va la diviser en deux, donc H2O, donc c'est H et OH, c'est ça les radicaux libres. Ils sont très toxiques, d'accord.
+
+Et ce sont eux qui sont à l'origine des lésions au niveau du cytoplasme, au niveau de la membrane et au niveau du nourrisson. Alors, la décomposition de la molécule d'eau par les oxydants, par les radicaux libres qui peuvent être soit un oxydant OH, soit un réducteur, soit un électron solvaté, ce sont ces radicaux libres qui seront responsables des lésions qu'on verra par la suite. Juste une petite information là, vous avez des valeurs, d'accord, que vous devez retenir pour la radiolyse de la molécule d'eau.
+
+Pour ioniser la molécule d'eau, il faut une énergie à peu près de 12,6 électrons volts et pour l'exciter une énergie qui est moins de 16,6 électrons volts. Maintenant, ces radicaux libres le devenir. Il y a trois possibilités.
+
+Soit ils peuvent se recombiner en composants inertes, H plus OH, c'est H2O, HH c'est H2, ça c'est la première possibilité. La deuxième, ils peuvent diffuser et altérer d'autres molécules biologiques. Et puis la troisième possibilité qui est la plus dangereuse, c'est la formation des radicals, le peroxyde R-O-H, d'accord, et le radical H2O étoile, qui sont très oxydants et qui sont responsables de plusieurs dégâts, que ce soit au niveau de la membrane, ou bien des cétoplasmes, ou bien d'une manière générale des concessions de la molécule.
+
+Alors, maintenant, le devenir. Alors le devenir des radicaux libres, il dépend de quoi ? Il dépend de la nature des rayonnements. Donc le transfert, d'accord, parce que pour les particules qui ont un transfert linéaire d'énergie très important, je parle des particules, donc alpha, les protons et les neutrons, la formation des pères d'éons est très importante.
+
+Et par conséquent, la probabilité de formation de ces péroxides, d'accord, et des péroxides, donc, qui sont oxydants, est très élevée. Par contre, pour les rayonnements qui ont un transfert linéaire qui est très faible, pour les électrons et les photons, je rappelle que pour les électrons et pour les photons, alors le transfert linéaire, il est aux alentours de 0,25 à 0,30 keV par micromètre, alors que pour les particules, donc alpha, il est de l'ordre de 150 keV par micromètre. Donc, pour ces particules-là, la probabilité de formation de ces péroxides, il est comment? Il est faible. 
+
+Donc, c'est ça. Donc, il dépend de la nature de rayonnement. Ici, on va revenir, pardon, oui, voilà. 
+
+Ici, d'accord, en absence d'oxygène, donc il n'y aura pas de formation de ces péroxides, ce qui va limiter l'effet des rayonnements ionisants. Mais par contre, pour les tissus qui ont bien vascularisé, donc l'effet, ou plutôt la formation de ces péroxides sera très importante et l'effet des rayonnements ionisants sera très important. Alors, après, vous avez ici, donc, les différentes voilà, schémas. 
+
+Vous avez donc un rayonnement, d'accord, qui va toucher une molécule d'eau. Celle-là, donc, elle va se désintégrer. Donc, elle devient très instable avec les formations de ces péroxides, donc H+, ou H avec l'électron donc, à cœur.
+
+Ils vont se recombiner, mais ces électrons, mais, alors, attendez, ces péroxides, d'accord, ce sont eux qui sont responsables de la majorité des lésions qui sont constatées à l'échelle moléculaire et cellulaire. Donc, un rappel, donc, vous avez une molécule ou plutôt un rayonnement ionisant, que vous voyez là. Donc, il va provoquer une radiolyse de la molécule d'eau avec la formation de radicaux libres que eux, donc, vont attaquer la cellule et surtout l'ADN. 
+
+Ça, c'est pour l'effet indirect. Pour l'effet direct, donc, c'est le rayonnement direct seulement qui va attaquer la membrane, le cytoplasme et l'ADN. Donc, généralement, il y a deux effets. 
+
+Donc, un effet qui est indirect et un effet qui est direct. Et l'effet indirect, c'est par la formation de radicaux libres. Alors, maintenant, donc, on va voir quels sont, donc, les effets à l'échelle de la molécule.
+
+Alors, les premières lésions, ce sont les lésions du cytoplasme. Alors, le cytoplasme, il peut y avoir des lésions des protéines. Donc, des protéines type rupture de lésions SES, des lésions polypeptidiques ou bien des lésions de Vendéoloise. 
+
+Alors, je rappelle, c'est quoi les lésions de Vendéoloise? Ce sont des lésions de type intermoléculaire. Donc, entre les molécules. Voilà. 
+
+Contrairement aux lésions covalentes, qui sont des lésions intramoléculaires. Donc, alors, le rayonnement ionisant, donc, il va détruire ces lésions-là. Et, les conséquences, c'est la déstabilisation de l'architecture de la cellule.
+
+Ça, c'est pour les lésions au niveau des protéines. Alors, pour les lésions des membranes, on peut avoir soit une dégradation des récepteurs, soit une altération des systèmes de transport et de flux, soit un trouble de la mobilité de la cellule, ou de la permeabilité, soit des phénomènes inflammatoires. Et tout ça, bien sûr, comme les premières lésions des protéines, c'est responsable de la déstabilisation de la membrane.
+
+Maintenant, à l'échelle du noyau. Alors, le noyau, donc, c'est le support, donc, il est formé par l'ADN, qui est le support de l'information génétique. Donc, il est formé par une base purique, qui est formée par l'adénine, d'accord, et par la guanine.
+
+Et puis, donc, il est formé aussi par une base périmidique, c'est la thymine et la cétosine, d'accord. Mais également, donc, on va trouver un sucre, d'accord, qui s'appelle le désoxyribose, d'accord, qu'on va trouver là. Et aussi, donc, un radical phosphaté. 
+
+Bien. Les conséquences du rayonnement ionisant, donc, à l'échelle nucléaire, sont très importantes et sont très graves, d'accord. On peut avoir soit une cassure simple, d'accord, soit une lésion double brin, donc les deux, donc le premier et le deuxième, soit une alteration des bases, soit des pontages, soit d'autres lésions.
+
+Alors, pour les cassures d'un simple brin de l'ADN, je rappelle qu'il peut s'agir soit des lésions entre la lésion désoxyribose et la base, donc à ce niveau-là, d'accord, soit des lésions entre la désoxyribose et le phosphate, donc à ce niveau-là. Et je rappelle que ces lésions, elles ne concernent qu'un simple brin. Voilà. 
+
+Et généralement, ces lésions, elles sont communes, elles sont réparables. Par contre, les autres lésions sont généralement non réparables. Et là, je parle des lésions de type double brin, d'accord, je parle des altérations de base, des altérations des sucres et des modifications de la structure de l'ADN.
+
+Alors, pour l'altération de base, on peut avoir quoi ? On peut voir qu'en conséquence des erreurs de lecture du code génétique pour l'altération des sucres, des oxydations ou hydroxylation des sucres, toujours dans les effets des rayonnements ionisants, lorsqu'il attaque l'ADN, on peut avoir ce qu'on appelle des pontages, donc un pont, des lésions, soit entre les brins, donc inter-brin, donc à l'intérieur, ou bien entre deux brins, c'est intra-brin. On peut avoir également des pontages entre le brin et la protéine, c'est le pontage ADN-protéine, ou bien le pontage des chaînes d'ADN, pontage ADN-ADN. Ça, c'est un exemple pour vous donner un petit peu une idée sur les conséquences causées par le rayonnement ionisant.
+
+Par exemple, un électron peut provoquer une cassure, c'est un simple brin, 004, cassure, double brin, donc 0,001 aberration chromosomique, et cet effet, c'est très important, donc il faut noter qu'il est proportionnel à la dose. Plus la dose est très importante, plus les dégâts constatés sont très importants. Un autre élément très important, c'est que la radioactivité naturelle provoque plusieurs dégâts, genre des cassures de double brin, plus de 3000, une dizaine de cassures de double brin, et ainsi de suite.
+
+Mais l'avantage ici, c'est qu'il y a un phénomène physiologique de réparation enzymatique. Voilà. C'est ce qui permet la survie de la cellule et la préservation des fonctions des tissus.
+
+Maintenant, on va voir les différents types de réparation. Lorsqu'un rayonnement ionisant attaque l'ADN, il peut y avoir une action de réparation soit à travers les gaz, soit à travers une excision, ou plutôt le phénomène d'excision rosynthèse, soit une réparation par le phénomène de réparation type réparation post-réplicative, soit une réparation dite réparation SOS. Je rappelle que la première permet une réparation de type réparation fidèle.
+
+Mais pour les trois derniers, c'est une réparation qui est fautive et généralement l'ADN est lésé. Et là, on verra est-ce que la lésion est viable ou pas. Si elle n'est pas viable, c'est la mort de la cellule.
+
+Si elle est viable, c'est une cellule qui sera mutée. Et s'il s'agit d'une cellule qui est somatique, les conséquences, c'est le développement d'une cellule cancéreuse. S'il s'agit d'une cellule qui est germinale, les effets, c'est une anomalie génétique qui va se transmettre à la descendance, à un mode récessif ou dominant, qu'on verra dans les stades suivants.
+
+Alors, l'action d'une légase simple. Ceci concerne quoi ? Concerne les ruptures d'un simple brin, donc un seul. C'est une enzyme qui permet de réparer ces lésions-là, à ce niveau-là.
+
+C'est une enzyme qui est spécifique. D'accord ? C'est une enzyme que disposent les cellules comme moyen de défense et de réparation pour réparer les lésions causées par le rayonnement ionisant. Ceci, c'est l'action de la légase simple qui intervient essentiellement lorsqu'il y a une rupture monobrin.
+
+Je précise, c'est monobrin. Par un processus d'excision resynthèse, il intervient dans les cas suivants. Lorsqu'il y a, par exemple, les altérations de base, lorsqu'il y a des pontages ou des modifications du sucre, lorsqu'il y a des ruptures simples ou double-brin.
+
+Alors, ce processus d'excision resynthèse, il est fait de la manière suivante. La première étape, c'est une étape de reconnaissance. Ça veut dire quoi ? Ça veut dire que il y a une enzyme qui s'appelle l'adéine glycosélase qui va aller faire une première étape de reconnaissance au niveau de la base qui est endommagée.
+
+Pour la deuxième phase, c'est l'excision qui est réalisée par une enzyme qui s'appelle l'endonucléase. Ça veut dire qu'il va retirer cette partie qui est malade et là, il sera remplacé par une enzyme suivante. Maintenant, l'étape suivante, après l'excision, c'est la synthèse de réparation.
+
+Elle est faite par une autre enzyme qui s'appelle l'ADN polymirase qui va réparer la base qui est endommagée. Finalement, la soudure est faite à ce niveau-là par l'enzyme qui s'appelle l'alégase. Je récapitule.
+
+Le processus d'excision-rosynthèse intervient selon 4 étapes. Il y a une étape de reconnaissance, une étape d'excision, une étape de synthèse-réparation et une étape de soudure. Durant chaque étape, il y a une enzyme qui est spécifique.
+
+Pour l'étape par exemple de reconnaissance, il y a l'enzyme glycosylase. Pour l'étape de l'excision, il y a la deuxième enzyme qui s'appelle l'endonucléase. Pour la troisième étape, c'est la polymirase.
+
+Pour la soudure, c'est l'alégase. Comme modèle de réparation en cas de lésion de l'ADN par le rayonnement ionisant, il y a un processus qui s'appelle la réparation SOS. Je rappelle que c'est une réparation qui est mutagène.
+
+Ce n'est pas une réparation qui est fidèle. Celle-là intervient lorsqu'il y a soit plusieurs lésions, soit lorsqu'il y a une phase en phase de réplication, en phase de division cellulaire. C'est une réparation d'urgence.
+
+Il faut savoir que la réparation n'est pas une réparation qui est fidèle. C'est une réparation qui est fautive. La conséquence, c'est une mutation de l'ADN.
+
+La cellule va survivre, mais auprès d'une mutation. Vers quoi ? Vers les cellules phi. C'est ça qui pose problème. 
+
+Parce que ces cellules phi, soit il s'agit d'une cellule somatique, là c'est le développement de cancer, soit une cellule germinale. Là, les conséquences, ce sont les effets héréditaires. H. Bien.
+
+On va continuer. Bien. En explication, la réparation d'urgence, c'est que c'est une réparation qui est mutagène.
+
+Il y a une première étape. Il y a une première étape de reconnaissance. Cette étape-là suit bien sûr le découpage du brin de par les autres que vous voyez là.
+
+Il y a l'excision. Il sera éliminé. Par la suite, l'ADN polymérase va jouer le rôle du complément qui manque.
+
+Ce n'est pas fidèle. C'est une réparation qui est fautive. Vous voyez que les deux brins ne sont pas similaires.
+
+La cellule phi qui va porter bien sûr ce gène-là sera une cellule qui sera mutée. C'est ce que je viens de préciser. S'il s'agit d'une cellule germinale, c'est une cellule qui va très probablement être une cellule cancéreuse.
+
+S'il s'agit d'une cellule germinale, les conséquences sont des effets héréditaires vers la descendance. Autre modèle, c'est la recombinaison post-réplicative. Il faut savoir que c'est une réparation qui intervient lorsque le rayonnement frappe la cellule en phase de réplication, en phase de division.
+
+Et là, les étapes sont les suivantes. Il y a une première étape. À ce niveau-là, vous avez une phase de réplication.
+
+Là, vous avez remarqué aussi que la recombinaison entre les bras, le bras que vous voyez là en bleu, ils vont se croiser pour que finalement le noir que vous voyez là, le bras numéro 2 du premier, va remonter vers le premier. Et puis, les deux bras bleus vont se recombiner à part. C'est une recombinaison également qui va donner naissance à une gêne, plutôt qu'à un ADN qui est muté.
+
+Ce n'est pas une réparation qui est fidèle. Toujours dans les conséquences chromosomesiques des lésions de l'ADN, on trouve l'imitation génique et l'imitation chromosomesique. L'imitation génique, c'est une modification d'un gène de la molécule qui va se traduire par des anomalies génétiques qui sont héréditaires, qui peuvent être soit récessives ou dominantes.
+
+Je précise qu'un processus héréditaire dominant, il intervient lorsque un des deux gènes d'une paire de chromosomes est muté pour que le caractère se manifeste. Pour le porteur de la mutation, le risque de transmettre la maladie à ses descendants est d'environ 50%. Voilà.
+
+Je prends l'exemple comme maladie. Il y a le syndrome de Marfront. Pour la deuxième ou plutôt la deuxième anomalie génétique, c'est l'anomalie génétique qui est dominante. 
+
+Si on parle d'anomalie dominante, alors attendez, peut-être que j'ai inversé. Je vais gommer ça et je vais reprendre. Pour la pathologie le pointeur est là.
+
+Pour la pathologie dominante, il est là. Un des deux gènes d'une paire de chromosomes muté pour le caractère se manifeste. Et pour le risque de transmettre la maladie à ses descendants, là, il est de 50%.
+
+Ceci pour l'anomalie héréditaire dominante. Par contre, pour la forme qui est récessive, donc on parle d'un processus héréditaire récessif lorsque les deux gènes correspondants, deux chromosomes, doivent être mutés pour que le caractère se manifeste. Comme exemple, donc on prend la drépanocétose et la mycoviscidose.
+
+Ceci pour l'imitation génique. Comme autre anomalie chromosomique, en cas d'une irradiation de l'ADN, on peut trouver les mutations chromosomesiques. Les mutations chromosomesiques sont de deux types. 
+
+D'abord, il y a les anapluidies. Alors l'anapluidie, c'est quoi? C'est une anomalie de répartition des deux chromosomes. Lors de la division cellulaire, on distingue deux types.
+
+Il y a l'anapluidie par défaut, donc il y a un chromosome qui manque. On l'appelle aussi la monosomie. Comme exemple, il y a le syndrome de Turner, où un individu de financier féminin n'aura qu'un chromosome sexuel X au lieu de XX.
+
+Il peut s'agir également d'une anapluidie par excès. Là, c'est par défaut. Là, c'est par excès. 
+
+Donc c'est un gain de chromosomes. Mais là, on parle de trisomie. C'est la monosomie et là, de trisomie.
+
+Comme exemple, il y a le syndrome de Klingfelter, donc XXY. Donc il y a un chromosome de plus. Il y a la trisomie 21, ou le syndrome de Down.
+
+Il y a la trisomie 13, ou le syndrome de Pateau. Et puis, il y a la trisomie 18, ou le syndrome d'Hitler. Donc, commutation chromosomique.
+
+Après les anapluidies, il y a le remaniement de structures. Ça veut dire quoi? Ça veut dire que le chromosome va subir des modifications, des déformations dans sa structure. Donc, on peut avoir soit une fusion de chromosomes, qui vont fusionner, donc se souder, soit des translocations, d'accord, donc échanges de segments entre les chromosomes, soit des délétions, donc pertes de segments.
+
+Et quand on parle de pertes, il y a la perte de l'information génétique. Soit des infertions, donc des fragments qui tournent, d'accord. On peut avoir des duplications présentes de deux copies d'une région chromosomique.
+
+Soit des anneaux, soit anneaux centriques, ça veut dire les pertes des extrémités, d'accord. Soit un chromosome qui possède deux centromères. On verra ça en schéma, et là vous allez mieux comprendre. 
+
+Alors là, vous avez un chromosome, ou plutôt les exemples des modifications de structure des chromosomes. Là, un chromosome qui est normal, qui a reçu une irradiation, soit qu'il y a une réparation, d'accord. Et là, vous avez un chromosome qui est en parfait état. 
+
+Généralement, ce sont les chromosomes, ou plutôt les lésions monovales. les anomalies de structure qui sont les plus constatées, c'est la fragmentation, donc vous avez un fragment, un bout. Vous avez les anneaux centriques, d'accord, alors que les extrémités, elles ont disparu.
+
+Vous avez les inversions, donc un changement de positionnement. Vous avez les anneaux dyscentriques, les translocations réciproques et terminales, et puis les insertions. Et là, vous avez les dommages subis par l'ADN.
+
+En fonction du siège d'irradiation causée par le rayonnement incident. Cette diapositive est très importante parce qu'elle va nous renseigner sur la dose émitterie. On peut, si vous voulez, savoir la dose reçue en fonction des anomalies constatées au niveau des chromosomes.
+
+On va faire quoi ? On va étudier les chromosomes en microscopie électronique et voir les anomalies constatées pour pouvoir remettre, ou plutôt remonter à la dose reçue initialement. Alors, comment on va faire ? On va prendre un échantillon de l'infocyte et on va étudier deux éléments très importants. On va étudier le nombre d'anneaux centriques et le nombre de chromosomes qui sont dyscentriques.
+
+Là, vous avez un exemple d'anneau et là, un exemple de chromosomes qui sont dyscentriques. Donc, on va compter. Vous avez ici un, deux, trois dyscentriques et là, vous avez un seul anneau.
+
+En fonction du nombre de ces malformations qui sont constatées en microscopie électronique, on peut remonter à la dose reçue. Ce sont des études qui sont faites et, du coup, on a obtenu cette graphique-là. Là, vous avez la fréquence des anomalies des anneaux centriques et du chromosome qui sont dyscentriques qui sont constatées et là, vous avez la dose des rayonnements gamma.
+
+Vous constatez, on va prendre un exemple simple. Si, par exemple, pour le cysiome, le vert, nous avons constaté pour la fréquence des anomalies dyscentriques et des anneaux centriques, on a une fréquence de 0,8. Donc, on peut directement dire que la dose reçue est de combien ? De 3 grèves. 
+
+Si, par exemple, on prend un deuxième exemple, on prend cette fois-ci le cobalt. Le cobalt-60. Si, par exemple, nous avons constaté une fréquence de ces anomalies-là, les anomalies type anneaux ou bien du chromosome dyscentrique, avec un pourcentage de 1,20.
+
+On peut aller directement pour savoir la dose reçue et on va dire, tiens, la dose reçue est de l'ordre de 5 grèves. Ceci pour le rayonnement gamma. Et cette étude, on peut la faire pour plusieurs radio-éléments, mais il faut savoir que cette étude est faisable.
+
+En prenant un échantillon de l'infocyte, et surtout, on va se concentrer sur les anomalies examinées, à savoir les anneaux centriques et les chromosomes dyscentriques en microscopie électronique. En voyant un petit peu la fréquence, on peut remonter à la dose reçue. Bien.
+
+Après les effets moléculaires, on va augmenter d'échelle et passer à l'échelle cellulaire. Là, les différentes étapes de la cellule, vous avez l'étape ou la phase G1, qui est une phase de préparation. Vous avez la phase S, qui est une phase de réplication.
+
+Et par la suite, vous avez la phase de préméthose et la phase de méthose. Pour la première phase, la radiosensibilité est minimale, G. C'est pareil pour la phase S. Déjà, il faut retenir que pour la phase G et S, la radiosensibilité est minimale. Mais par contre, pour la phase G2 et M, la radiosensibilité est très importante.
+
+Bien. Voilà. C'est une répétition.
+
+Maintenant, conséquences cellulaires d'une irradiation. Il y a deux types de cellules. Il y a les cellules qui sont bien différenciées.
+
+Ce sont les cellules qui sont matures. Ce sont les cellules qui ne se divisent plus. Et là, après une irradiation, les anomalies observées sont de deux types.
+
+Soit une accumulation des métabolites qui sont actives. Là. Soit les pertes de fonction spécifiques de la cellule.
+
+Ceci pour les cellules qui sont matures. Pour les cellules qui se divisent. Les cellules indifférenciées.
+
+Les anomalies constatées sont les suivantes. Donc, on peut avoir soit un retard de méthose, soit un blocage de passage de la phase G1 à la phase S. Ceci en intervenant une protéine qui s'appelle la P53, qui intervient à ce niveau-là. Bien.
+
+Les conséquences sont très importantes. Pour des doses un peu plus grandes, on peut constater soit une mort cellulaire immédiate, pour des doses qui sont très importantes. Soit une mort cellulaire qui est déferrée, c'est-à-dire que la cellule mère est finie de se diviser, mais les effets sont constatés vers les cellules filles.
+
+Ou bien une mort cellulaire programmée. C'est la mort dite par apoptose. Alors, donc, une diapo qui résume un petit peu les effets biologiques à la cellule.
+
+Là, vous avez donc vous avez une radiation qui attaque une cellule qui est normale. Alors, soit la cellule est réparée et du coup il n'y a pas d'effet qui est observé. D'accord.
+
+Soit que la cellule est morte et là, ce sont les effets obligatoires ou les effets que j'ai déjà expliqués, les effets déterministes qui ont un seuil. Donc, il y a la mort cellulaire. Soit la cellule n'est pas morte mais elle arrive à se défendre selon une réparation pas fidèle mais une réparation qui est fautive.
+
+Et dans ce cas, on parle de cellules mutées. Et les conséquences sont les suivantes. Soit que cette cellule arrive à survivre, mais la division sera impossible.
+
+C'est la mort qui est programmée. D'accord. Ou la mort qui est très déférée.
+
+Elle est là. Soit que cette cellule sera éliminée par le système immunitaire qui va rejoindre un effet déterministe. Soit que cette cellule arrive à se diviser mais les effets seront observés très tardivement.
+
+Et là, on parle des effets stochastiques. Et ces effets-là sont les effets génétiques et les effets cancérogènes. Donc là, vous avez les trois possibilités.
+
+Soit une réparation qui est fidèle soit une réparation qui n'est pas fidèle. Et là, vous avez deux possibilités. Soit la mort soit une cellule qui sera mutée et qui va se transmettre soit à la descendance soit à la cellule somatique et qui va causer des cancers par la suite.
+
+Alors justement, on peut voir ces effets-là. Alors déjà, il faut savoir qu'il y a deux types d'effets. Il y a des effets qui sont cibles et des effets qui sont non cibles.
+
+Quelle est la différence entre les deux? C'est que pour les effets cibles, ce sont les effets qui sont constatés sur la cellule. Mais pour les effets non cibles, ce sont les effets qui sont constatés sur les cellules non irradiées, donc les cellules avoisinantes. Donc là, ce sont les effets cibles et là, ce sont les effets non cibles.
+
+Alors sur les cellules irradiées ou les effets cibles, on peut avoir soit une modification létale de l'ADN qui soit responsable soit d'une mort cellulaire immédiate méthodique ou paraporteuse soit des modifications qui sont viables de l'ADN et là, ce sont les effets somatiques et génétiques. Pour les cellules avoisinantes, on peut avoir trois effets. Soit un effet de voisinage de base standard effect, abscobal ou instability génomique.
+
+Alors on va voir maintenant les détails de chaque modification qui est immédiate. C'est que cette mort, elle intervient pour des doses qui sont très faibles et surtout, c'est la descendance qui est touchée, contrairement à la cellule initiale. Le troisième type de mort, c'est la mort paraporteuse qui est dite une mort qui est programmée.
+
+Ça veut dire quoi? Ça veut dire que là, une protéine, c'est la protéine PC-53, d'accord, qui va bloquer à la phase S qui va intervenir à ce niveau-là. Donc, c'est dans le patrimoine génétique donc il y aura une programmation et du coup, il y aura des modifications dans le temps qui vont apparaître. Il y a la condensation, la fragmentation, l'hydrolyse du noyau, la rupture, le mitochondrie, l'initialisation du phospholipide, le bourgeonnement, la formation de corps apoptiques et puis la phagocytose des corps apoptiques par les cellules.
+
+Et ça, vous avez un exemple d'apoptose avec les différentes modifications. Donc, je résume. Après une irradiation à l'échelle cellulaire, il y a trois possibilités de mort.
+
+Soit la mort rapide, lorsque la dose dépasse les centigrailles. Il y a la mort qui est déferrée, qui apparaît dans la descendance lorsque la dose est de quelques centigrailles. Et puis finalement, il y a la mort par apoptose ou mort cellulaire qui est programmée.
+
+Ceci pour les effets cibles. Maintenant, pour les effets sur les cellules avoisinantes. Alors, pour ces effets-là, il faut savoir qu'il y a trois types.
+
+Il y a l'effet de voisinage dit de bystander effects. Là, c'est bien schématisé. Ça veut dire que c'est un effet de proximité.
+
+Ça veut dire qu'il concerne les cellules voisines. Ça veut dire que la cellule initiale qui est irradiée, elle va envoyer des signaux via des médiateurs chimiques et les conséquences c'est la mort cellulaire des cellules voisines. C'est ça l'effet de bystander.
+
+Le deuxième effet, c'est l'effet abscobal. Et là, c'est pas à proximité mais les cellules à distance. Donc le premier, c'est les cellules voisines.
+
+Maintenant, ce sont les cellules à distance via le même mécanisme. Et puis, le troisième effet, c'est l'effet d'instabilité génomique radio-induite. Ça veut dire que c'est un effet qui se produit également à distance et qui va toucher la descendance.
+
+Vous avez une cellule qui est touchée donc elle va se diviser et c'est la descendance qui sera touchée. Alors comment? L'explication, c'est une fragilisation de l'ADN et par conséquent, des cellules filles qui auront un ADN qui est fragile et par conséquent, elles ne peuvent pas maintenir une division qui est normale. Donc trois effets.
+
+Effet d'instabilité génomique de base standard FX et abscobal. Ceci pour les effets non-cibles. Alors, les courbes de Cervi.
+
+Les courbes de Cervi permettent quoi? Elles permettent d'analyser l'évolution de l'effectif d'une population après une irradiation. Alors là, vous avez le taux de Cervi et là, vous avez la dose. Et vous constatez que plus la dose augmente, plus le taux de Cervi diminue.
+
+Vous avez la formule, d'accord, je passe. Et là, vous avez quelques notions très importantes. Vous avez le S, d'accord.
+
+Là, vous avez Tigaral exponentie à moins alpha D. Alpha, c'est 1 sur la dose ou D0. S, c'est quoi? C'est la proportion de cellules survivantes et D0, D37, c'est la dose létale moyenne qui les survivent sur 37% des cellules initiales. Mais ce que vous devez savoir sur cette courbe, c'est que plus la dose augmente, plus le taux de Cervi diminue.
+
+Voilà. Et cette forme, ça s'appelle la courbe de Cervi exponentielle. Ça veut dire que à chaque cellule, il y a un coup qui est porté.
+
+C'est l'hypothèse de cible unique. Ça veut dire que la dose est tellement très forte qu'après avoir touché une cellule, par la suite, il y a la mort qui est instantanée. C'est l'hypothèse de cible unique.
+
+Par la suite, il y a d'autres formes de courbe. Il y a la courbe dite avec épaulement. Avec épaulement, là, vous avez deux explications.
+
+La première explication, c'est que ce que vous voyez là, c'est que il y a l'hypothèse de la cible unique, donc létale, qui est d'emblée à ce niveau-là. La deuxième courbe que vous voyez là, ça veut dire que pour toucher la cellule, il faut plusieurs lésions, donc plusieurs coups qui sont portés. C'est pour cela qu'il est divisé en deux. 
+
+La première portion, attendez, je vais faire le pointeur laser. On va commencer par là. Voilà.
+
+Il y a la première partie que vous voyez là. Et puis, il y a la deuxième partie. C'est celle-là.
+
+Bien. Alors, dans cette première partie, il y a l'hypothèse de la cible unique. Ça veut dire quoi? Ça veut dire que chaque coup, il y a l'autoturvé, donc il va diminuer.
+
+Mais pour la courbe avec épaulement, ça veut dire pour tuer une cellule donnée, il faut un cible, donc il faut porter plusieurs coups. C'est ça l'explication de la courbe de cellule avec épaulement. Ce qu'il faut retenir, c'est que dans cette première phase de courbe, les réparations ne sont pas saturées.
+
+Ça veut dire qu'à chaque coup, il y a des phénomènes de réparation enzymatique qui vont régénérer les cellules. Mais par contre, dans la deuxième phase de courbe, les réparations sont très saturées. Ça veut dire qu'à chaque coup, il y a l'autoturvé qui va diminuer.
+
+Maintenant, les facteurs influents sont la survie de la cellule. On va reprendre une notion très importante qu'on a déjà vue. C'est la TEL, le transfert linéaire d'énergie.
+
+Pour les faibles TEL, la probabilité est faible. Pour les TEL qui sont très élevés, spécialement les particules alpha, qui ont un TEL de 150 keV et une DLE de 4500 keV, la probabilité est très élevée. On va voir ça.
+
+Là, on va prendre les particules alpha. Les particules alpha, le transfert est très important, de 150 keV. Le nombre de paires d'ayant créées est très important.
+
+Aux alentours de 4500 paires d'ayant créées. Les coûts qui sont apportés à la cellule sont très importants. La probabilité que la cellule soit touchée est très élevée.
+
+Par contre, si on prend des rayonnements ionisants qui ont un transfert linéaire d'énergie qui est très faible. Je prends l'exemple des rayonnements du type gamma et des rayonnements du type beta. Ça et ça.
+
+Là, vous constatez que le transfert linéaire est faible. Il est faible. C'est par rapport aux rayonnements alpha.
+
+La probabilité est faible. On va le voir ici. Ici, vous avez les rayonnements, les photons, les électrons, qui ont un faible transfert linéaire d'énergie.
+
+La courbe avec épaulement. Dans un stade initial, il y a des phénomènes de régénération cellulaire. Dans un stade avancé, les phénomènes de réparation sont saturés.
+
+La courbe sera similaire à la suivante. Par contre, ici, la courbe qui est exponentielle, il se voit essentiellement dans les rayonnements qui ont un transfert qui est très élevé. Généralement, ce sont les particules alpha, les neutrons et les protons.
+
+Là, c'est l'hypothèse de cible unique. À chaque coup, il est mort cellulaire. Lorsqu'on trace, on va trouver une courbe exponentielle.
+
+Encore, il y a une notion très importante, c'est l'efficacité biologique relative. Cette efficacité, c'est quoi ? C'est un rapport entre les doses d'un rayonnement de référence, ici, vous avez les neutrons, et d'un rayonnement qui est étudié. Par exemple, ici, le rayonnement du sigma gamma, qui induisent le même effet.
+
+On va voir ça en exemple pour mieux comprendre ça. Vous avez, par exemple, si on prend un rayonnement de type neutrons. Deux grèves de neutrons.
+
+Il est là. Les neutrons sont bleus. On va mettre le pointeur laser.
+
+On va prendre les neutrons, et on va prendre une dose de deux grèves. Après, on va prendre les rayonnements de type gamma, on va prendre une irradiation de quatre grèves. Qu'est-ce que vous constatez ? C'est que pour une survie d'environ dix pour cent, il faut une irradiation gamma de combien ? De quatre.
+
+À ce niveau-là. Et seulement une irradiation de deux grèves pour les neutrons. Pour avoir finalement un taux de survie de dix.
+
+Je vais reprendre ça. Voilà. C'est que pour... Attendez. 
+
+Pointeur laser. Pour un taux de survie de dix pour cent, il faut une irradiation gamma de combien ? De quatre. Et puis, une irradiation de deux grèves pour les neutrons.
+
+Voilà. C'est ça. L'efficacité biologique relative.
+
+C'est un rapport entre les doses d'un rayonnement de référence. On a pris exemple d'un rayonnement gamma et d'un rayonnement étudié. Ce sont les neutrons.
+
+Pour avoir le même effet, le même taux de survie, il nous faut une dose de deux pour les neutrons et une dose de quatre pour les rayonnements gamma. Là, vous avez la dose. Et là, vous avez le taux de survie.
+
+Lorsque la dose est délivrée en une seule fois, vous avez un taux de survie de ce type-là. Mais par contre, lorsqu'elle est délivrée deux fois, vous avez un taux de survie qui est largement supérieur parce que cet intervalle-là, entre les deux, ici, il y a un phénomène de régénération et de réparation automatique. Le deuxième facteur, c'est le débit de dose.
+
+On va prendre de la même manière deux populations, donc P1 et P2. Et du coup, la première, elle va se mettre à une dose D, administrée de manière continue. Il faut souligner le continu.
+
+Et la deuxième, la deuxième population, on va les rallier avec la même dose mais avec un débit qui est très fort. On va constater quoi ? On va constater que le taux de survie dans la première population est largement supérieur au taux de survie dans la deuxième population. Ceci s'explique par le fait suivant. 
+
+Dans la première population, où le débit est très faible, les cellules ont le temps de se réparer, de se régénérer. Il y a un phénomène de réparation des lesions au fur et à mesure de leur réparation et de leur apparition. Par contre, dans la deuxième population où le débit est très fort, les cellules n'ont pas eu le temps de se réparer.
+
+Il y a un phénomène de saturation bien sûr du système de réparation de l'ADN. Voilà. Le débit, c'est ce que je viens de vous expliquer.
+
+Le débit, c'est très important parce que là, vous avez un faible débit de 0 à 0,9. Le taux de survie est très important. Au fur et à mesure qu'on diminue le débit, on constate que le taux de survie diminue en fonction de la dose parce qu'entre les deux, il y a un phénomène de réparation, chose qui n'est pas observable lorsque le débit est très important.
+
+Le cycle, on l'a déjà vu, c'est que durant la phase G1 et S, la radio-sensibilité est minimale. Durant la phase G2 et M, la radio-sensibilité est maximale. L'oxygène, on l'a déjà expliqué, c'est que les cellules qui sont époxiques, le taux, bien sûr, ce sont des cellules qui résistent, mais par contre, les cellules qui sont oxygénées, l'oxygène a agi comme un multiplicateur de doses et du coup, c'est un radio-sensibilisateur.
+
+Le taux de survie est très, en fonction de la dose, vous constatez que le taux de survie est très diminué lorsque les cellules sont très oxygénées par rapport aux cellules qui sont époxiques, qui sont des cellules qui sont radio-résistantes. La dose équivalente, on en a déjà parlé, ça fait intervenir le facteur de pondération radiologique. Je précise que le facteur de pondération radiologique le plus important c'est celui du particule avant.
+
+Le type de la cellule, vous avez les lois de Bergoné et de Trepondo qui disent que plus une cellule est légère, plus elle est peu différenciée, forte en activités méthodiques, plus elle est commune, elle est radio-sensible. De manière générale, il faut retenir que une cellule est d'autant plus radio-sensible lorsqu'elle est jeune, immature, indifférenciée, se multiplie d'une manière rapide. Ceci pour la loi de Bergoné et de Trepondo.
+
+Ils sont peu radio-sensibles. Et puis, il y a le compartiment fonctionnel où les cellules sont radio-résistantes. Comme exemple, il y a les cellules hématopoïétiques, de l'hépitulium, de la peau, des tissus séminifères et du cristallat.
+
+Ce qu'il faut retenir dans le tissu compartimental, c'est que c'est un tissu qui est bien organisé en trois compartiments, souche, maturation et fonctionnel, et la radio-sensibilité en fonction de chaque compartiment. Généralement, c'est le premier compartiment qui est le plus radio-sensible au rayonnement ionisant. Le deuxième tissu, c'est un tissu non compartimental.
+
+Je prends l'exemple du foie et du rein. C'est un tissu à renouvellement qui est lent et la prolifération intervient en fonction de la demande, en cas d'agressions cellulaires. Généralement, ce sont des cellules qui sont radio-résistantes.
+
+Finalement, il y a le tissu statique, c'est comme le système nerveux, où il y a un pôle initial de cellules qui disparaissent sans être remplacées. Généralement, ce sont des cellules qui sont radio-résistantes. Les cellules les plus sensibles et les cellules radio-résistantes, là, vous avez les différentes cellules.
+
+Pour les cellules qui sont sensibles, vous avez la moelle, l'espermatogonie, la mycose intestinale et les cellules basales de l'épiderme. Pour les cellules qui sont radio-résistantes, vous avez les fibroblastes, les neurones, les hépatocytes et les cellules musculaires. Alors ça, on va le voir sur la diapositive suivante ou sur le graphique.
+
+Et vous constatez quoi ? Vous constatez que on va prendre la dose et on va étudier le taux de servus. On constate que les cellules hématopoïdiques qui sont plus radio-sensibles, leur taux de servus avec la même irradiation causée pour les cellules rénales et les cellules intestinales, le taux de servus est très diminué. Pourquoi ? Parce que ce sont des cellules qui sont très radio-sensibles.
+
+Par contre, les cellules rénales qui sont radio-résistantes, ce sont des cellules qui ont un taux de servus qui est largement supérieur aux cellules hématopoïdiques. Pourquoi ? Parce que ce sont des cellules qui sont radio-résistantes. C'est une courbe de servus qui explique un petit peu ce que je viens de vous dire.
+
+La courbe de servus diffère selon le type de la cellule. Est-ce que c'est une cellule radio-sensible ou bien est-ce que c'est une cellule qui est radio-résistante ? Ce qu'il faut retenir, c'est que les cellules dans la moelle osseuse avec l'espermatopomie, ce sont les cellules les plus radio-sensibles où le même type d'irradiation ici va causer plus de dégâts au niveau de ces cellules-là. Un tableau qui montre un petit peu la chronologie des effets biologiques des rayonnements.
+
+Là, vous avez les premiers phénomènes d'excitation et d'ionisation d'expression sur moins 15 secondes et d'expression sur moins 6 secondes. Les premiers effets, ce sont les effets directs et indirects. Par la suite interviennent les effets moléculaires.
+
+Alors, réparation, faut-il, il ne faut pas de réparation, une réparation qui est fidèle, c'est dans les minutes qui suivent. Dans les heures, on peut avoir soit une mort cellulaire qui est contrôlée, c'est la nécrose, soit une mort cellulaire qui est programmée. Dans les jours, les années qui suivent, on peut avoir soit des pathologies tessulaires, soit des anomalies génétiques, on parle de génération, soit développement de cancer.
+
+Ça, c'est une chronologie des effets biologiques des rayonnements ionisants à l'échelle du corps humain. Je vous remercie de votre patience et au prochain cours. Merci.

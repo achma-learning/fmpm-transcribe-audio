@@ -1,0 +1,173 @@
+Bonjour, le cours de ce matin est intitulé les facteurs de déplacement de la matière dans l'organisme humain. Comme introduction, le déplacement des substances et matières dans l'organisme, il se fait par plusieurs mécanismes. Par des forces, des forces type mécaniques, telles que les forces de convection et de déplacement de l'ensemble de la matière au niveau des vaisseaux.
+
+Sanguine, lymphatique, respiratoire, donc de la masse de l'air, et ainsi de suite. Et puis il y a les forces électriques, c'est le cas des déplacements des charges électriques à travers les neurones, à travers les fibres musculaires cardiaques. Et des forces type mécaniques et chimiques, telles que les forces exercées au niveau des synapses par transport de médiateurs chimiques.
+
+En parallèle à ces forces de déplacement, il y a les phénomènes de pression. Donc la pression qui s'exerce sur les fluides. Puis tout ça, il nécessite une consommation d'énergie.
+
+Donc on va voir les notions d'énergie. Donc le travail et l'énergie. Le travail d'une force, c'est un déplacement d'une quantité.
+
+Le travail, ça peut être une quantité de matière, ça peut être une quantité d'électricité dans un champ de force. Et donc le travail égale la force fois les variations du déplacement. Quand la force fait un angle α avec la trajectoire, les variations du travail égalent la force fois les variations du déplacement fois cos α. Lorsque cos α égale 1, donc les variations du travail égalent la force fois les variations du déplacement.
+
+En cas d'un fluide. Le fluide présente plusieurs points d'application. Donc la force, dans ce cas là, est appliquée à plusieurs points, d'où on fait intervenir la notion de surface d'application.
+
+Et la surface d'application est en rapport avec la pression. D'ailleurs la pression égale la force sur la surface. Quand cos α égale 1, dans ce cas là, la relation qu'on a vu dans le travail d'une force, dW égale F fois les variations du déplacement dL, égale la pression fois la surface fois dL.
+
+Et donc la surface fois dL, c'est la variation du volume. D'où les variations du travail d'un fluide égalent les variations d'énergie, égale la pression, fois dW, fois les variations du volume. Son unité c'est le joule au système international.
+
+Les dimensions du travail et le grand M, L²T-2. Donc c'est la masse fois l'accélération, fois la longueur. Et le schéma illustre les variations du volume par une force, au niveau d'un tube ou d'un piston, qui permet de donner une pression ou une compression en fonction des variations du volume.
+
+Et donc la relation entre le travail et l'énergie. Le travail est l'équivalent de l'énergie, sauf pour le signe, il est positif. Quand le travail est positif, dans ce cas là, le travail est monteur.
+
+Et donc l'angle α égale à 0, c'est-à-dire le cos α égale à 1. Et les variations de l'énergie, c'est l'inverse. Donc ΔE est inférieur à 0. Quand ΔE est supérieur à 0, c'est l'inverse. Dans ce cas là, le travail est inférieur à 0. Cela veut dire que l'angle α égale à π, donc égale à moins 1. Et le travail est résistant.
+
+Pour les variations d'énergie d'un fluide, en fonction de la pression, ΔW égale ΔE, donc les variations de travail égale les variations d'énergie, égale moins la pression fois les variations du volume. D'où cette notion de ΔW égale P fois ΔV. Également, il y a les formes d'énergie.
+
+Les différentes formes d'énergie. Il y a les énergies de masse, qui fait intervenir la célérité. D'ailleurs, l'énergie cinétique égale les variations de masse fois c².
+
+C'est la fameuse relation d'Einstein. Il y a l'énergie cinétique qui est égale, dans ce cas là, la vitesse de la particule ou du corps est plus petite par rapport à la célérité de la lumière. Et dans ce cas là, l'énergie cinétique, elle est égale à 1,5 fois la masse fois la vitesse au carré.
+
+L'énergie potentielle et les différences de potentiel. Le travail dans un champ. Un travail étant une différence d'énergie entre deux points A et B. Lorsque le travail de quantité x varie de WA à WB, son énergie va varier d'un travail de W égale la force fois les variations de déplacement, égale fois la quantité x fois z, le champ de ce champ, fois, bien sûr, fois d²L, puisque f égale x fois z. Donc, lors de ce travail, l'énergie de x varie de d²E, qui est égale moins dW.
+
+Donc d²E, ou les variations d'énergie, égale moins les variations de travail, égale moins x fois z fois d²L. Alors là, c'est le travail. Pour la différence d'énergie potentielle.
+
+La différence d'énergie potentielle, lorsqu'x se déplace d'un point A à un point B, les variations d'énergie de x, cette fois-ci, c'est deltaE égale l'intégrale de A à B fois d²E. Et donc, si on veut intégrer les valeurs qu'on a tout à l'heure, donc c'est l'intégrale de la force fois d²L, c'est l'intégrale de A à B de x fois z fois d²L, égale l'énergie B moins l'énergie A. EB moins EA est appelé la différence d'énergie potentielle de x entre A et B. Donc cette valeur, l'énergie potentielle diffère de potentiel. C'est quoi la différence de potentiel ? Donc, le deltaE égale x fois l'intégrale de A à B de z fois les variations de L, égale l'intégrale de A à B. Quand on fait sortir le x, il nous reste la valeur intégrale de A à B. Donc la différence de potentiel de A à B fois z fois d²L est appelée la différence de potentiel.
+
+Donc d²Y égale YA moins YB entre A et B, qui est égal à l'énergie rapportée à une quantité x. Z, donc, c'est le champ de Y de force entre YA moins YB égale EB moins EA sur x. Et pour résumer, l'énergie potentielle d'un système physique est l'énergie liée à une interaction qui a le potentiel de se transformer en d'autres énergies, alors que le potentiel d'un système physique, c'est cette énergie divisée par la quantité. Exemple d'énergie potentielle et de potentiel. L'énergie potentielle est le potentiel de pesanteur.
+
+Dans ce cas, le cas de pesanteur, la quantité en compte, c'est la masse, x égale m, et le champ de pesanteur terrestre, z égale g. Et donc, g étant vertical, le déplacement de dx est aussi vertical. C'est une hauteur h, d'où le potentiel Y égale gh plus une constante. L'énergie potentielle de pesanteur de la masse m, EP égale mg fois h plus une constante.
+
+Le potentiel de pesanteur et l'énergie potentielle de pesanteur en joules dans l'unité du système international sont portés par l'unité de masse, c'est-à-dire le kg. Donc, il s'exprime en joules kg moins 1. L'énergie potentielle et le potentiel électrique cardiaque. La quantité en cause, ici, est la quantité d'électricité qui peut être positive ou négative.
+
+Donc, le potentiel électrique est désigné par un grand V Lorsque la quantité d'électricité Q se déplace entre deux points A et B, entre lesquels il existe une différence de potentiel électrique VA moins VB. L'énergie potentielle électrique de Q varie de delta EP qui est égale à Q fois VB moins VA. Le travail W égale moins delta E égale à Q fois VA moins VB.
+
+VB moins VA égale delta E sur Q. Donc, c'est le potentiel électrique qui est une quantité sur une variation d'énergie sur la quantité. L'unité du système international est le joule coulant moins 1 appelé volt. L'électron volt est l'unité d'énergie très utilisée en physique nucléaire qui est la variation d'énergie d'un électron lorsque celui-ci se déplace d'un point A à un point B entre lesquels il existe une différence de potentiel électrique de 1V.
+
+Delta E égale Q fois VA moins VB égale 1,610-19 J L'énergie égale VA moins VB sur E. L'unité, c'est le volt ou le potentiel électrique égale VA moins VB sur E qui est égale à volt mètre moins 1. Il y a différents types de potentiel électrique. On trouvera le potentiel électrique enregistré au niveau de la région péricardiaque grâce aux électrodes à distance. Donc, c'est le fameux électrocardiogramme.
+
+Pour une charge ponctuelle, le potentiel électrique égale K fois une petite charge Q sur ε fois d² Et pour le dipole, le potentiel électrique égale K fois q fois L cosinus θ sur ε d² Le potentiel électrique nerveux également. On peut donc enregistrer une activité électrique entre la paroi interne et externe du nerf, ce qui représente le potentiel électrique. Donc là, le potentiel électrique représente l'énergie potentielle par unité de charge et on voit que l'atmosphère agit sur les cheveux de cette demoiselle en faisant un phénomène de force électrique.
+
+Alors, l'énergie potentielle est le potentiel chimique d'un gaz parfait. Donc cette fois-ci, l'énergie de compression d'un gaz. Si on a un cylindre de section S, il est fermé par un piston mobile. 
+
+Lorsque le piston se déplace de d²x, le volume du gaz varie de d²v et la variation d'énergie du gaz est d²e égale la force fois d²x égale la surface fois la pression fois d²x égale moins la pression fois d²v. Lorsque la pression du gaz varie de p1 à p2, l'énergie de compression ou de détente est l'intégrale de p1 à p2 moins p fois d les variations de volume. Et dans ce cas là, on va voir les variations de l'énergie égale nRt fois le logarithme néperien de p2 sur p1.
+
+L'énergie potentielle est le potentiel chimique d'un gaz parfait. L'énergie de compression d'un gaz. Donc soit un cylindre de section S fermé par un piston mobile. 
+
+Lorsque le piston se déplace d'une variation de d²x, le volume du gaz y varie également de d²v. Et les variations d'énergie du gaz sont d²e égale la force fois d²x et on a vu que e égale la surface fois la pression fois les variations de d²x égale la pression fois les variations de volume. Donc cela la pression du gaz varie de p1 à p2, l'énergie de compression ou de détente est égale deltaE fois l'intégrale de p1 à p2 fois moins p fois d²v.
+
+Or le volume en cas de gaz parfait, on a dit qu'il est égale nRt sur p, d'où d²v dans ce cas là égale nRt fois d²p sur p² puisque 1 sur p l'intégrale ou le dérivé de 1 sur x égale d²x sur x². Donc deltaE va devenir l'intégrale de p1 à p2 moins la pression fois la valeur de d²v qui est égale moins nRt d²p sur p². Donc on peut simplifier par p, il nous reste l'intégrale de p1 à p2 nRt fois d²p sur p. Or l'intégrale de d²p sur p égale le logarithme néperien de p. Et donc en fin de compte deltaE égale nRt ln de p2 sur p1. 
+
+L'énergie de pression d'un gaz, cette fois-ci, deltaE égale nRt ln de p2 sur p1. Et donc l'énergie égale deltaE égale E2 moins E1. Donc l'énergie égale nRt fois le logarithme néperien de la pression plus une constante. 
+
+Donc la constante est une valeur qui est inconnue. Le potentiel chimique d'un gaz parfait étant l'énergie portée par une unité de quantité. Dans ce cas l'énergie étant l'énergie de pression, E dans la quantité et le nombre de molles de gaz.
+
+Donc le potentiel de pression appelé potentiel chimique mu de gaz parfait est mu égale E sur n. Donc c'est nRt ln de p plus E0 ou une constante sur la quantité de gaz qui est le n. C'est le potentiel chimique. Donc le potentiel chimique en fin de compte égale mu0 qui est une constante plus nRt ln de p. Mu0 on a dit c'est une constante. Et en système international, le potentiel chimique d'un gaz est A pour unité joule par molle. 
+
+Joule molle moins 1. Le potentiel chimique d'un gaz dans un mélange. Dans ce cas là, pour un mélange, chaque gaz il se comporte comme s'il était seul sous sa pression partielle pi. Donc chaque gaz il se trouve à son potentiel chimique mui. 
+
+Donc le potentiel chimique mui égale mu0 Rt ln de pi. Si on pose xi, la fraction molaire du gaz I dans le mélange, et p à la pression de celui-ci, donc la pression partielle on a vu que c'est égale à xi, la fraction molaire fois la pression totale de ce gaz. Et donc le potentiel chimique d'un gaz dans un mélange égale mu0 Rt ln de la pression plus Rt ln de xi. 
+
+Si on développe pi égale xi fois pi. Donc lorsqu'on travaille à une pression constante, Rt lnp est une constante connue. Donc la somme est une constante inconnue. 
+
+D'où on aura le potentiel chimique d'un gaz égale mu0 Rt ln de xi. Mu0 est une constante qui dépend de la pression. Le potentiel chimique en solution cette fois-ci. 
+
+La relation établie par un gaz dans un mélange est valable dans les solutions pour un solvant et un soluteil. Si on pose ns le nombre de solvants et sigma ni le nombre de moles du soluteil. Le potentiel chimique du solvant il vaut, potentiel chimique c'est mu0 plus Rt ln de xs du soluteil.
+
+Et xs donc égale le nombre de moles du soluteil sur le nombre de moles du soluteil plus l'ensemble des moles des particules ou du solvant. Et le potentiel chimique du soluteil il vaut mu0i plus Rt ln de xi. Et donc xi elle va devenir ni sur ns plus sigma ni.
+
+Dans le cas des solutions infiniment diluées, lorsque la solution est très diluée, le nombre de moles du soluteil est négligeable devant le nombre de moles du solvant ns. Donc ns égale le nombre du soluteil ns égale ns plus sigma ni. Et xi égale la fraction molaire égale ni sur ns.
+
+Le volume V de la solution est dû en quasi-totalité au solvant de volume molaire Vs. Donc la concentration d'un soluteil i devient ci égale ni sur ns et Vi égale xi sur Vs. Et donc xi égale ci fois Vs.
+
+Et le potentiel chimique d'un soluteil i est alors mui égale mu0i plus Rt ln de x égale mu0i plus Rt ln de ci Vs. Enfin de compte, le potentiel chimique d'une solution infiniment diluée égale la constante mui0i plus Rt ln de x égale mu0i plus Rt ln de ci Vs. Le potentiel électrochimique, dans ce cas-là, l'ensemble, l'effet du potentiel à la fois chimique et électrique, c'est lorsqu'on considère des ions de même nature i en solution.
+
+Ils sont à une certaine concentration et donc à un potentiel chimique mui. Et ils sont électriquement chargés. Ils se trouvent dans un champ électrique. 
+
+Ils portent une énergie électrique par suite dans un potentiel électrique V. Et dans ce cas-là, les quantités ou le nombre de molles ni portent une énergie totale. L'énergie totale égale l'énergie chimique plus l'énergie électrique. Or l'énergie chimique égale mui, le potentiel chimique, mui fois ni. 
+
+Et l'énergie électrique égale Ec égale le potentiel fois la quantité de charge. Donc le potentiel électrochimique, on va diviser le potentiel électrochimique par la quantité de matière dNi et la quantité d'électricité q. Et donc on va avoir le potentiel électrochimique égale d2e sur d2q, d2e totale sur d2q. Or d2e totale égale le potentiel chimique i d2Ni plus le potentiel électrique fois Zi fois q0 fois d2Ni.
+
+Et le tout sur Zi q0 d2Ni. Et donc ce qui va nous rester c'est le potentiel électrochimique égale le potentiel électrique plus le potentiel chimique sur Zi fois k0. Donc le potentiel électrochimique égale le potentiel chimique plus le potentiel électrique fois Zi fois la charge. 
+
+Et son unité c'est le joule par mol. Ce schéma qui est devant nous, il illustre à la fois le potentiel chimique et le potentiel électrique. Le potentiel chimique c'est les variations de concentration de part et d'autre de la membrane cellulaire.
+
+De point de vue cation, donc ion, sodium et potassium. Et le potentiel électrique c'est également une variation des charges. Le milieu intracellulaire est chargé positivement et le milieu extracellulaire est chargé négativement.
+
+Et l'extracellulaire est chargé positivement. Donc il y a une variation de différence de potentiel. Donc les autres types de facteurs de déplacement de la matière. 
+
+A côté de ces phénomènes de déplacement sous les effets des différents types de force et d'énergie qu'on a vu, il y a d'autres facteurs tels que la viscosité qui interviennent dans le déplacement de la matière au niveau de l'organisme vivant, surtout au niveau des vaisseaux. La viscosité d'abord est définie comme l'ensemble des phénomènes de résistance au mouvement d'un fluide pour un écoulement avec ou sans turbulence. Donc c'est une résistance, c'est une force de résistance.
+
+La viscosité diminue la liberté d'écoulement du fluide et dissipe son énergie. Donc pour mieux illustrer le phénomène de viscosité, on utilise ce schéma qui montre lorsqu'on a deux solides en contraste qui se déplacent à des vitesses différentes. Le premier à une vitesse V1, le deuxième à une vitesse V2 et ils sont en contact l'un avec l'autre à la surface de contact S. Les deux solides exigent une force de frottement qui entraîne une consommation d'énergie sous forme de chaleur.
+
+On va assister à un ralentissement du solide le plus rapide, c'est-à-dire le solide qui a une vitesse plus grande. C'est le solide V1 qui va assister à un ralentissement par phénomène de résistance au déplacement. Pour les fluides, le même phénomène se déroule. 
+
+Ainsi, on va voir qu'il va y avoir des forces de résistance, de frottement entre les particules du fluide, c'est-à-dire que les globules rouges s'enchaînent de sens. Le solide V1 se déplace à des vitesses différentes et les différences de vitesse entre les particules varient progressivement si on va avoir un amplissement des fluides. Celui le plus bas ici a une vitesse plus faible. 
+
+Puis, progressivement, il est augmenté vers le haut. L'origine de la résistance et le coulement, on a dit que c'est la viscosité des fluides, c'est le frottement des fluides qui ont un niveau viscosité qu'on va schématiser par un indice ou un coefficient de viscosité n. Les forces de frottement dues au fluide, c'est la viscosité du fluide qui est considérée comme formée par un amplissement de lame parallèle. On dit que le coulement est laminaire par opposition à le coulement turbulent.
+
+La viscosité représente le frottement qui existe entre les lames et donc si on déplace la lame supérieure à la vitesse V, elle entraîne par frottement la lame voisine à une vitesse V plus une valeur d2V, telle que la vitesse de frottement égale V moins d2V. Pour maintenir la vitesse V, il faut exercer une force F. Pour les effets de cette viscosité, si on a deux plaques A et B, la plaque B a une vitesse VB alors que la plaque A a une vitesse VA égale à 0. Les particules qui sont en contact de A ne se déplacent pas alors que les particules en contact de B se déplacent à la même vitesse que B. Entre A et B, la vitesse du fluide va varier progressivement de VA à VB et il se comporte comme s'il est constitué d'un amplissement de lame parallèle ou de plaque métallique. On parle de phénomène d'amplissement.
+
+Comme relation fondamentale, cette force de frottement ou de viscosité entre deux lames d'un fluide est liée à une loi fondamentale des fluides visqueux qui est une équation d'égalité entre la force de frottement, F, une proportionnalité ou un facteur de coefficient de viscosité n, la surface de contact entre les lames du fluide, la différence de vitesse entre les deux lames, et la distance entre les deux lames. Le rapport d2V sur d2X est appelé gradient de vitesse ou le taux de ciseillement. Donc n qui est la coefficient de viscosité a une dimension de mL-1 et t-1, c'est la masse fois la longueur fois le temps-1.
+
+L'unité de coefficient de viscosité est le kilogramme par mètre seconde moins 1 qu'on appelle le poiseuil. Donc le poiseuil est égal à 1 kg par mètre seconde. Il y a l'unité CGS, c'est le gramme centimètre seconde ou le poise, un poiseuil est égal à 10 poise.
+
+Donc le coefficient de viscosité représente une pression par unité de temps. D'ailleurs la pression a une dimension de la masse fois l'accélération Lt-2. Donc sur la surface en carré, mL-1 par unité fois le temps-1.
+
+Le coefficient de viscosité relative nR est égal au coefficient de viscosité absolue sur le coefficient de viscosité de l'eau à la même température. Il est un rapport sans dimension, sans unité, plus facile à mesurer que la viscosité. Les facteurs qui interviennent dans la modification du coefficient de viscosité.
+
+Premièrement il y a la nature du fluide. Donc un gaz ou un liquide pur, ils ont des viscosités qui diffèrent en fonction de la nature. Ainsi lorsque la température augmente, la viscosité diminue.
+
+Mais il faut toujours préciser la température si on mesure la viscosité. Exemple à 20°C, la viscosité de l'eau est de 10-3 poiseuil. Puis il y a le type de solution.
+
+Il y a les solutions de petites molécules ou de petits ions. Dans ce cas la viscosité dépend de la nature du solvant et des solutés. Et la concentration des solutés.
+
+Et de la température également. Pour les solutions de macromolécules ou de suspensions. Déjà par définition macromolécules, c'est des tailles qui sont inférieures à 10.
+
+Des particules de taille inférieure à 10-8 m. C'est à dire inframicroscopiques. Ils sont invisibles au microscope optique. Alors que les particules en suspension, ils ont la taille supérieure à 10-7 m. C'est à dire qu'ils sont visibles au microscope optique.
+
+C'est surtout donc les protéines. Donc de là, on a une loi qui s'appelle la loi d'Einstein. Et qui dit que le coefficient de viscosité égale le coefficient de viscosité du solvant N0.
+
+Fois 1 plus une constante fois un facteur qui s'appelle le volume relatif. Le volume relatif des macromolécules, par exemple pour une suspension ou des macromolécules, les protéines. Il est égal le volume des macromolécules sur le volume de la solution.
+
+Pour les particules en suspension, c'est le volume des particules en suspension sur le volume de la solution. Et K, il est une constante qui dépend de la forme des macromolécules ou des particules en suspension. On va voir que K augmente avec la dissymétrie.
+
+Ca veut dire que lorsqu'on a des sphères qui ont la même forme, K est égal à 2,6. Et il augmente d'une manière importante lorsque l'on a des macromolécules linéaires supérieures à 1000. Exemple de la viscosité du son.
+
+Le son est une solution composée de suspensions de globules rouges dans un solvant qui est le plasma. Les globules rouges sont symétriques, ils ont une forme sphérique. Leur K est égal à 2,6.
+
+Et le volume relative, on va avoir le volume des globules rouges sur le volume du son total. C'est ce qu'on appelle l'hématocrite. L'hématocrite, on l'utilise dans la numérosité formée sanguine et intervient dans la viscosité du son.
+
+Donc la viscosité du son égale la viscosité du solvant qui est le plasma fois 1 plus 2,6. Puisque K est égal à 2,6 pour les globules rouges fois l'hématocrite. Donc la viscosité du son augmente quand la viscosité du plasma augmente.
+
+Et également quand l'hématocrite augmente lorsqu'on a une polyglobule. Lors d'une baisse de la température, la viscosité augmente. Et ceci entraîne une mauvaise circulation au niveau des extrémités.
+
+Et au niveau également de l'irrigation des organes normaux tels que le cœur, le rein et le cerveau. Et au niveau des périphéries, c'est à dire au niveau des extrémités, on va trouver ce qu'on appelle le phénomène d'engelure. Avec des ischémies des extrémités.
+
+Le cas de la viscosité du plasma, cette fois-ci c'est du son qui est déglobulé. C'est à dire qu'on va enlever les globules rouges par centrifugation. Et on va trouver que le facteur Φ, le volume relatif des macromolécules, Il est en fonction des différentes coefficients de chacune des protéines.
+
+Puisque le plasma contient des protéines. Donc il y a N0 c'est pour l'eau et les petites particules. Et donc la coefficient de viscosité du plasma va être égale à N0 X Φ1 plus K1 plus Φ2 fois K2 plus Φ3 fois K3 et ainsi de suite.
+
+Pour Φ1 et K1, Φ2 et K2 sont les coefficients de chacune des protéines. Donc la viscosité du plasma est essentiellement due aux macromolécules linéaires naturelles. C'est à dire les fibrillons gènes et les α2 globulines.
+
+Où injecter? C'est le cas des dextrans et des gélatines fluides. Donc ici il y a un petit exercice. On ajoute 20 mL de solution isotonique de NaCl à 20 mL de sang.
+
+Quel sens il va varier la coefficient de viscosité du sang? Donc la réponse c'est que d'après la loi d'Einstein, la viscosité du sang diminue. Car l'hématocrite diminue par dilution du sang. Et donc la viscosité du plasma diminue car la concentration des macromolécules diminue.
+
+Et donc le volume relatif des macromolécules diminue. Dans ce cas là, la viscosité va diminuer lorsqu'on va ajouter ou on va perfuser des solutions de chlorure de sodium. Une remarque c'est que le plasma c'est une solution contenant le solvant qu'il y a l'eau et le petit ion Na+, K+, et autres.
+
+Et les macromolécules, les protéines, les α-globulines, les α-bêta, les γ-globulines. Et la viscosité du plasma augmente en cas d'inflammation. Ou lorsqu'il y a une surproduction des macromolécules linéaires.
+
+C'est le cas des infections, des inflammations. D'ailleurs, pendant cette pandémie du coronavirus, on incrimine l'augmentation de la viscosité du sang chez les patients infectés. Et donc ils vont faire ce qu'on appelle des embolies, même des accidents vasculaires cérébrales ou des troubles de vascularisation du muscle cardiaque.
+
+Mais on utilise également ces macromolécules linéaires lorsqu'il y a des brûlures, lorsqu'il y a une perte de solution, c'est les dextrons. Les fluides newtoniens et non-newtoniens. Donc un fluide newtonien, c'est un fluide dont la viscosité ne dépend pas de la vitesse du fluide.
+
+Donc des particules qui constituent le fluide. Exemple, la viscosité de l'eau ne change pas avec la vitesse de découlement de l'eau. Par contre, un fluide non-newtonien, la coefficient de viscosité dépend de la vitesse du fluide.
+
+Ou la vitesse des particules qui constituent le fluide. Donc les fluides comme le sang, c'est un fluide qui est non-newtonien. Et qui contient des particules et des fibres.
+
+Donc ces particules et fibres, ils vont quantisant une vitesse qui est faible. Leur vecteur de vitesse est dispersé. Mais lorsque la vitesse du sang augmente, ils sont orientés dans un même sens.
+
+Donc on parle de fluide non-newtonien. Donc certains fluides contenant des particules qui ont tendance à se glomérer quand la vitesse du fluide est faible ou nulle. Et se dissocier quand la vitesse du fluide s'élève.
+
+Ce sont des fluides non-newtoniens, c'est le cas du sang. Donc le cas des globules rouges en suspension dans le sang est un exemple de fluide non-newtonien. La viscosité du sang varie avec la vitesse de découlement.
+
+Donc ce schéma montre cette orientation des vecteurs de vitesse en fonction de la vitesse du sang. Des éléments figurés du sang. Et je vous remercie.

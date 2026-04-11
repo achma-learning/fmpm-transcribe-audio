@@ -1,0 +1,97 @@
+Bonjour. Dans ce deuxième cours, on va s'intéresser aux bases physiques du scanner. Le cours s'intéressera essentiellement aux constituants du scanner, donc on va détailler de quoi est constitué un scanner.
+
+On va revoir la chaîne de l'image radiologique qu'on a déjà vue, et on va voir d'autres constituants qui sont propres au scanner. Puis, on va s'intéresser à la formation de l'image scanographique. Alors, le scanner, c'est une imagerie, contrairement à la radiographie, c'est une imagerie en 3D, c'est-à-dire tridimensionnelle.
+
+Cette image 3D est obtenue en empilant plusieurs coupes. C'est une technique qui utilise également les rayons X. Elle repose sur la mesure de l'absorption d'un fin faisceau de rayon X par les tissus. Cette mesure se fait point par point au niveau d'une coupe.
+
+Et c'est une technique qui est en train d'être améliorée, qui s'est améliorée assez dans les dernières années, mais toujours en amélioration. A la fin de ce cours, vous devez être capable d'énumérer les principaux constituants d'un scanner, de connaître le principe de fonctionnement d'un scanner hélicoïdal, et de savoir les mécanismes de formation de l'image au scanner. Commençons par un bref historique.
+
+On retiendra trois dates. En 1971, on a réalisé le premier examen tomodocytométrique. Ça concernait un cerveau.
+
+En 1989, la première acquisition hélicoïdale a été réalisée. Et en 1998, on a commencé à faire des acquisitions multicoupes. On va détailler ce que c'est que l'hélicoïdale multicoupe dans le prochain chapitre.
+
+Cet historique nous ramène à parler des générations du scanner. L'acquisition d'une image par un scanner était améliorée au fil du temps. En fait, qu'est-ce qu'on a amélioré ? On a amélioré le mouvement du tube et le nombre de détecteurs et leurs dispositions.
+
+Ce qui nous intéressera ici, c'est la quatrième génération de scanner, ou bien l'image D. En fait, c'est quoi une quatrième génération ? Comme vous pouvez constater sur l'image, c'est un tube à rayons X central, qui tourne, qui subit un mouvement de rotation autour du corps ou bien de l'organe à scanographier. Et autour, il y a une couronne de détecteurs. C'est le cercle qui est enviolé, en périphérique.
+
+Ça nous ramène à parler du scanner hélicoïdal. En fait, comme son nom l'indique, c'est quoi la différence avec une quatrième génération ? Le scanner hélicoïdal est comme la quatrième génération, constituée d'un tube qui tourne autour du patient qui est allongé sur une table et pas d'une seule couronne, mais de plusieurs couronnes de détecteurs. En fait, il est appelé scanner hélicoïdal parce que le tube, lorsqu'il tourne et se met en face des différentes couronnes, une par une, il dessine un mouvement hélicoïdal.
+
+Il y a plusieurs types de scanners hélicoïdaux selon le nombre de couronnes. Il y a des scanners avec 30 couronnes, 64 ou 128 par plus de couronnes. Alors, on passe pour détailler les constituants du scanner.
+
+On va rappeler la chaîne radiologique et de quoi est-ce qu'elle est constituée. Comme on a vu sur le cours précédent, une chaîne radiologique est constituée d'un tube à rayons X qui produit les rayons X, d'un faisceau de rayons X qui, après traverser du corps, va être atténué. Ensuite, on a les détecteurs de rayons X qui vont nous fournir l'image.
+
+Mais j'ai ajouté un élément sur cette chaîne radiologique. Il est toujours présent, même sur une chaîne radiologique de radiographie standard. On n'en a pas parlé l'autre fois, mais c'est l'occasion de se rattraper.
+
+C'est l'alimentation électrique. Parce qu'un tube à rayons X, on a dit, il a une alimentation de sa cathode et il y a une différence de potentiel entre la cathode et la note. Donc, un tube a besoin d'être alimenté électrique.
+
+Le premier constituant du scanner, c'est le générateur qui assure l'alimentation électrique du tube. La pièce maîtresse d'un scanner, c'est le tube à rayons X. Le tube à rayons X du scanner est extrêmement performant. C'est-à-dire qu'il est caractérisé par deux choses.
+
+La première, il doit être capable de produire un faisceau de rayons X homogène, c'est-à-dire d'énergie homogène. Et deuxièmement, il doit être capable de dissiper l'énergie thermique produite lors de la production des rayons X. Car la production de rayons X va générer de l'énergie thermique ou de la chaleur qui doit être dissipée. En fait, si la chaleur n'est pas dissipée, le tube ne va pas pouvoir continuer à tourner.
+
+Et donc, l'appareil va s'arrêter. Un autre constituant, c'est le filtre des rayons X. C'est quoi le filtre ? C'est une lame métallique de faible épaisseur. Ça sert à quoi ? Ça sert à l'obtention d'un spectre de rayonnement étroit.
+
+C'est-à-dire un spectre ou un faisceau de rayons X dont les photons ont la même ou presque la même énergie. Et ça sert à quoi ? Pourquoi c'est intéressant ? Parce que pour bien calculer le coefficient d'absorption, le calculer de façon correcte, il faut que le faisceau de rayons X émis soit un faisceau dont les photons sont de même énergie, c'est-à-dire vont interagir à peu près de la même manière au niveau du corps. Le scanner comporte également une collimation qui a pour objectif de limiter l'épaisseur de cou.
+
+Cette collimation a pour objectif de limiter les rayons X traversant le corps à un fin faisceau d'une épaisseur donnée. C'est le rôle de la collimation primaire. Alors que la collimation secondaire a pour rôle de limiter à un fin faisceau de même épaisseur que la collimation primaire les rayons X qui vont atteindre les détecteurs.
+
+Bien sûr, on a besoin de détecteurs qui permettent de mesurer l'intensité du faisceau de rayons X. Cette mesure se fait à deux niveaux. Elle doit se faire à deux niveaux. Pourquoi ? Parce qu'à la sortie du tube, on doit connaître l'intensité du faisceau incidant sur le corps.
+
+Et à la sortie du patient, on doit connaître l'intensité du faisceau après avoir subi l'atténuation. Comme pour la radiographie standard, pour le scanner, il y a plusieurs types de détecteurs. Et plus on a des détecteurs sensibles, plus on a un scanner plus performant.
+
+Bien sûr, on doit avoir un lit où le patient peut s'allonger et une ganterie qui est une cage métallique qui comporte ou qui abrite la chaîne radiologique, c'est-à-dire tout ce qu'on vient de voir, le tube, la lame ou le filtre, la collimateur et détecteur. En plus, il y a un système qui permet de commander la table et le lit et un système de visualisation des images acquis. Après avoir vu les constituants du scanner, on va passer à la formation de l'image scanographique.
+
+Comment peut-on obtenir une image scanographique ? Les détecteurs vont nous fournir les données concernant l'atténuation du faisceau de rayon X après avoir traversé le corps. Pour transformer ces données en images, on a besoin d'algorithmes. Des algorithmes, qui dit algorithme, veut dire procédé mathématique.
+
+Il n'y a pas un seul algorithme, il y en a plusieurs. Chaque firme ou bien société a son propre algorithme de construction de l'image. Cet algorithme va déterminer d'un côté la qualité de l'image mais également la dose d'irradiation.
+
+Dans ce qui va suivre, on va prendre un modèle simple d'algorithme simple de construction de l'image. Dans ce modèle simplifié, il y a deux grandes étapes. Une première étape où on va s'intéresser à la mesure de l'atténuation et puis les relier aux coordonnées sur le corps et la projection matricielle.
+
+Et une deuxième étape où on va faire la correspondance sur l'échelle du cri. On rappellera l'atténuation du faisceau de rayon X dans le corps. Cette atténuation, comme on a vu sur la radiographie standard, est calculée selon une formule.
+
+On rapporte la différence d'intensité ou de nombre, c'est la même chose, intensité d'un faisceau ou de nombre de photons de ce faisceau, sur le nombre de photons incidents qui est égal à moins mu, qui est le coefficient d'atténuation multiplié par l'épaisseur que les photons ont traversée. Concernons la mesure de l'atténuation. C'est un rappel, on a vu ça sur le cours précédent.
+
+Un faisceau de rayon X, en traversant un objet homogène d'épaisseur X, subit une atténuation. On suppose que l'objet est homogène. La valeur d'atténuation, c'est la soustraction entre l'intensité du faisceau de rayon X avant, c'est-à-dire le I0, et après, c'est-à-dire le I, traversé de l'objet.
+
+En connaissant le I0 et le I, qui sont l'équivalent du n, on peut conclure Amu, qui est le coefficient d'atténuation. Le scanner permet quelque chose qui s'approche du Mu, qui est le coefficient d'absorption. Dans la réalité des choses, l'objet traversé, ou le corps humain, est complexe, est fait de plusieurs structures, et chaque structure a un coefficient d'atténuation propre à elle.
+
+Alors le détecteur va nous fournir le coefficient d'atténuation total de l'ensemble des structures, et pas le coefficient d'atténuation de chacune des structures à part. Là viennent intervenir les algorithmes dont on a parlé. Comment ? Parce qu'en fait, on a le Mu total des endroits traversés par les rayons X au niveau d'une coupe.
+
+Et donc, on n'a pas le détail de chaque point et le Mu qui lui correspond. Et c'est le rôle des algorithmes de reconstruction. Eux, ils peuvent décomposer ou peuvent déduire au niveau d'une coupe la valeur du Mu au niveau de chaque point de cette coupe.
+
+Ces valeurs sont rapportées sur une matrice qui est en fait qu'un tableau constitué de plusieurs petits carrés. Ces carrés, ce qu'on appelle les pixels, correspondent chacun au voxel ou bien à la partie au petit volume examinée au niveau de la tranche, au niveau de la coupe qu'on a examinée par le scanner ou la coupe sur laquelle on a envoyé le faisceau de rayon X. Alors cette matrice est composée de plusieurs lignes, une ligne et une colonne. Le nombre de lignes et de colonnes définissent le nombre de carrés.
+
+Plus on a de lignes et de colonnes, plus on a des carrés et donc plus les carrés sont petits. Et à chaque carré correspond une valeur d'atténuation. On peut vérifier ça sur ces deux images.
+
+La première, on voit un nombre limité de colonnes et de lignes et donc un petit nombre de carrés. Cela a donné une image en marche d'escalier, peu fine. Si on augmente le nombre de colonnes et de lignes, et donc le nombre de carrés ou de pixels, on a une image plus fine.
+
+Ça c'est la même chose lorsqu'on prend des photos avec nos appareils photo. Plus les appareils photo, leur capacité est grande en pixels, plus ils donnent une meilleure résolution. Alors, pour expliquer ce qu'on vient de voir étape par étape, là, on a pris l'exemple d'un scanner cérébral.
+
+On a dit que le scanner c'est une imagerie en coupe. On ne va pas couper le cerveau bien sûr, mais ce qu'on va faire, c'est qu'en envoyant un faisceau de rayon X d'une épaisseur X, là par exemple, regardez le carré, on va sélectionner une seule coupe. Le faisceau de rayon X ne va pénétrer qu'une partie de l'encéphale qui correspond à l'épaisseur de la coupe à l'accoulimation.
+
+On s'intéressera à cette coupe. Le tube va faire une rotation autour de l'encéphale, autour du crâne, et les détecteurs, à chaque fois, vont mesurer les mues. Or, comme on a dit, le mue mesuré, c'est le mue total de l'ensemble des structures traversées par le faisceau de rayon X. On prend, par exemple, le carré qui correspond à mue 4. Il a traversé une partie de l'orbite en avant.
+
+Il a traversé un peu d'os, un peu d'encéphale, un peu d'os en arrière. Il a traversé plusieurs structures d'atténuation, de coefficients d'atténuation différents, mais à la fin, le détecteur va calculer un seul coefficient. C'est le coefficient total de ce qui a été traversé.
+
+Or, on a une couronne de détecteurs. Chaque détecteur va nous donner la valeur d'atténuation qu'il a mesurée, et théoriquement, au total, on aura un cercle de valeurs de mues ou d'atténuations mesurées. Ce cercle peut être transformé en une forme carrée, ce qui va nous donner un tableau.
+
+Les marges du tableau, ce qu'on voit ici en gris, vont contenir les valeurs d'atténuation totale. Donc, il restera l'intérieur du tableau à remplir avec les valeurs d'atténuation en extrapolant ou en déduisant par les algorithmes à partir des valeurs d'atténuation totale les valeurs d'atténuation de chaque point du tableau. En fait, ces algorithmes de reconstruction vont nous permettre de déduire pour chaque petit point, pour chaque carré, une valeur d'atténuation à partir de valeurs d'atténuation totale de chaque ligne et de chaque colonne.
+
+Ça revient comme à colorier. Donc, on a un carré plein de chiffres. On va attribuer une valeur de gris à chaque chiffre.
+
+Par exemple, prenons l'exemple à 0, on va attribuer le noir. À 10, on peut attribuer un gris légèrement foncé. À 100, on peut attribuer du blanc.
+
+Et c'est comme ça qu'on arrive à transformer l'échelle ou la matrice qui est sous forme de chiffres en une image avec l'échelle. C'est ce qu'on voit sur cette image. Par exemple, ils ont attribué le blanc à 12.
+
+À 6, un gris peu foncé. À 3, un gris foncé. À 1, un noir.
+
+À 0. Cette image est également très importante car elle nous permet de reprendre ce qu'on a vu. L'extrapolation et la déduction des valeurs d'atténuation pour chaque voxel ou pour chaque pixel à partir des valeurs d'atténuation totale. Comme vous voyez sur l'image, on a des valeurs d'atténuation totale pour chaque colonne et pour chaque ligne.
+
+Et en ayant ces informations, on a pu déduire pour chaque carré la valeur d'atténuation qui lui correspond à base ou à partir d'algorithmes mathématiques. Comme vous voyez sur la première image, on voit parfaitement bien les pixels. On voit bien qu'on a attribué des valeurs de gris à chaque pixel.
+
+Alors que sur la deuxième image, c'est les algorithmes actuels, c'est les appareils actuels. Cela permet de donner une image plus fine et plus soignée, donc plus facile à intégrer. Sur ce tableau, on a résumé les valeurs d'atténuation pour chacun des constituants du corps.
+
+Par exemple, l'air, moins 1000, c'est quand tu es avec des unités 11 fils. HU, c'est unité 11 fils. Le poumon, moins 700.
+
+La graisse, moins 84. On voit que c'est très élevé au niveau de l'os, plus 700. Et que l'eau est à zéro d'atténuation.
+
+Pour résumer, le scanner comme on vient de le voir, c'est un appareil qui fait appel au rayon X. Donc, on a besoin d'un tube où il comporte un tube de rayon X et des détecteurs. Les détecteurs vont permettre de calculer les coefficients d'atténuation. Ces coefficients d'atténuation vont être extrapolées sur une matrice et puis la matrice va être transformée.

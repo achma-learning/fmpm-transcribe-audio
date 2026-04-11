@@ -1,0 +1,213 @@
+Pourquoi les ultrasons, l'échographie ? Les objectifs de ce cours sont les suivants. On va d'abord définir les caractéristiques de l'onde ultrasonore, puis reconnaître les bases de la formation des ultrasons, indiquer les bases de la transmission des ultrasons dans la matière, étiqueter les différents modes échographiques et décrire la sémiologie échographique élémentaire. Le plan adopté sera le suivant.
+
+Le plan suivra les objectifs, à savoir, après l'introduction, on verra les caractéristiques de l'onde ultrasonore, son interaction avec la matière, sa production, puis les modes, la sémiologie, avant de conclure. Les ultrasons constituent la base de l'échographie. Ce sont des sons dont la fréquence est située au-delà de 20 kHz.
+
+Ce sont des sons inaudibles par l'oreille humaine. La fréquence utilisée dans le diagnostic médical varie de 1 MHz à 20 MHz, le Hertz étant l'unité de mesure de la fréquence. Pour l'histoire, en 1794, Planzani fut le premier à observer le mode de fonctionnement des chauves-souris et soupçonna l'existence des ultrasons en observant leur vol, comment est-ce qu'ils arrivaient à éviter les obstacles et comment est-ce qu'ils arrivaient à attraper leur proie.
+
+Puis, en 1880, les frères Curie découvraient le principe de la piezoélectricité et donc le moyen de produire les ondes ultrasonores. On va y revenir par la suite pour comprendre ce principe. Lors de la Première Guerre mondiale, Langevin découvre que l'homme les utilisait à la détection des sous-marins en plongée.
+
+Comme vous voyez sur l'image, le navire émettait des ondes sonores par le sonar qui, une fois rencontrés le sous-marin, étaient réfléchis et réceptionnés par le navire. La première application médicale fut en 1942 par la recherche d'une déviation des structures médianes intracrâniennes. On va passer à l'onde ultrasonore pour voir sa nature, ses paramètres et comprendre un peu la notion du faisceau ultrasonore.
+
+L'onde ultrasonore est une vibration mécanique qui se propage dans un milieu élastique, qu'il soit solide, liquide ou gazeux. Il s'agit d'une onde de pression longitudinale et le passage de l'onde induit des zones de détente et de compression ce qui va être responsable d'un transfert d'énergie mais sans aucun transport de matière. Souvent ces ondes ultrasonores peuvent être comparées à un ressort ou bien à une corde qu'on lance.
+
+Vous aurez des zones de compression, d'autres de pression normale et puis de dépression, compression, etc. L'onde ultrasonore a plusieurs paramètres à connaître. Tout d'abord une fréquence, puis la période, la longueur d'onde et la célérité ou la vitesse de propagation de l'onde ultrasonore.
+
+Qu'est-ce que c'est que la fréquence ? La fréquence de l'onde ultrasonore, c'est le nombre de cycles vibratoires par seconde. Ce qu'on a dit tout à l'heure, son unité de mesure est exprimée en Hertz. La période, elle, c'est la durée d'un cycle vibratoire.
+
+Donc c'est la durée d'un cycle vibratoire, la période qui est le T, est égale à 1 sur le F. Vous voyez ici. Et la longueur d'onde, c'est la plus courte distance séparant deux points de l'onde strictement identiques à un instant donné. Donc la longueur d'onde est égale au petit c, donc la célérité, sur la fréquence.
+
+Pour ce qui est de la célérité, c'est la vitesse de propagation de l'onde au sein d'un milieu donné. Elle est constante pour chaque milieu et dépend également des caractéristiques du milieu. D'abord de sa compressibilité, c'est-à-dire la capacité du milieu à retrouver sa forme et sa taille d'origine, et sa densité ou la masse volumique, le rho, qui est la proximité des molécules.
+
+Nous avons la formule suivante, le c, qui est la célérité, est égale à 1 sur le racine carrée de la compressibilité fois la masse volumique. Vous n'êtes pas tenus de connaître par cœur toutes les formules, mais au moins il faut connaître le lien entre les différents paramètres. Toujours pour la célérité, on a dit qu'elle était constante pour chaque milieu.
+
+Là, comme vous voyez, il y a plusieurs milieux de propagation, ça peut être l'air, l'eau, les tissus mous ou l'os. Vous voyez que pour chaque milieu, on a une célérité différente. La célérité des tissus mous est arrêtée à 1540 mètres par seconde.
+
+Ce chiffre-là, il est intéressant à retenir, c'est une constante pour les tissus mous. Vous remarquerez que la célérité de l'air et celle de l'os sont très loin l'une de l'autre. La célérité de l'air est très faible, par contre celle de l'os est extrêmement élevée.
+
+L'impédance acoustique, qui n'est pas une caractéristique de l'onde ultrasonore, mais qui est une caractéristique du milieu lui-même. Elle est intimement liée à la vitesse de propagation de l'onde ultrasonore. L'impédance acoustique, qui est le Z, c'est le comportement d'un milieu matériel vis-à-vis des ultrasons.
+
+Elle représente la résistance du milieu à la propagation de l'onde. Elle aussi dépend de la masse volumique et de la compressibilité du milieu. Le petit c, qui est la célérité, est égal au Z sur le rho, ou la masse volumique du milieu.
+
+Je ferme la parenthèse pour cette impédance acoustique, qui n'est pas une caractéristique de l'onde, mais celle du milieu traversé par l'onde ultrasonore. Nous allons passer à la définition d'un faisceau ultrasonore. Le faisceau correspond à plusieurs ondes ultrasonores générées par la sonde, qui vont se déplacer en groupe, sous forme de faisceau, avec des propriétés très spécifiques.
+
+Pour définir la notion du faisceau, il convient de s'intéresser aux différents modes de déplacement possible des ondes dans l'espace. Comme vous voyez sur le dessin, vous avez une propagation qui peut se faire de façon sphérique, une autre de façon plane, ou alors de façon concave, donc là on dit que le faisceau est focalisé, ou alors de façon convexe. On va s'intéresser à quelques-unes de ces formes de propagation du faisceau ultrasonore.
+
+Commençons par le faisceau d'ondes sphériques. L'onde ultrasonore va être émise par une source ponctuelle. Et puis le déplacement va se faire de façon multidirectionnelle.
+
+Ce qui est important à savoir ici, c'est que la dispersion de l'énergie va s'effectuer sur un fond d'onde sphérique et croissant avec la distance à la source. C'est-à-dire que plus on s'éloigne de la source ultrasonore, plus l'intensité est faible. L'énergie, bien entendu, va se répartir sur une surface qui est beaucoup plus grande.
+
+Là, on a plusieurs exemples. Le meilleur serait celui des baffes. Quand vous mettez de la musique et que vous avez une source ponctuelle, le son va se disperser sur un espace qui est assez grand.
+
+Plus on s'éloigne de la source, moins on entend l'importance du son. Deuxième cas de figure, c'est l'onde plane. L'onde plane est caractérisée par un déplacement qui est unidirectionnel et qui est parallèle à l'axe d'émission.
+
+Ici, le front d'onde ne varie plus avec la distance, ce qui va permettre de conserver l'énergie sur une plus grande distance et donc avoir une meilleure pénétration dans le milieu. En réalité, la géométrie du faisceau va dépendre de la distance à laquelle on se place par rapport à la source ainsi que de la forme de ce faisceau. Dans ce cas-là, deux ondes peuvent être différenciées qui vont être définies à partir de la distribution de l'énergie le long de l'axe de propagation.
+
+On va définir le champ proche, qu'on appelle également la zone de Fresnel, et le champ lointain, qu'on appelle la zone de Fraunhofer. Là, vous voyez la différence de géométrie entre ces deux zones. Pour ce qui est de la zone de Fresnel, le champ proche dont on a parlé, c'est la partie la plus utile du faisceau ultrasonore.
+
+Pourquoi ? Parce que toute l'énergie est concentrée dans cette zone qui est cylindrique et où on a un front d'onde qui plane. Son diamètre, le d, est celui de la source. Donc le petit d correspond bien au grand d. Et la longueur de cette zone de Fresnel est définie par cette formule.
+
+Le l, qui est la longueur de la zone de Fresnel, correspond au d², donc diamètre de la source au carré, sur 4 fois la célérité fois la fréquence de l'onde ultrasonore. Le petit d étant bien sûr le même que le grand d. Alors ce qui nous intéresse ici, c'est de prolonger ou augmenter la longueur de la zone de Fresnel. Pour augmenter cette longueur, qu'est-ce qu'il faut faire ? Alors soit il faut augmenter le diamètre de la source, soit il faut augmenter la fréquence.
+
+La deuxième zone, qui est la zone de Fraunhofer, où c'est le champ lointain dont on a parlé, il a une forme qui est conique et donc le faisceau va aller en s'élargissant selon un angle de divergence θ. Cette divergence est inversement proportionnelle à la fréquence et au diamètre de la source. Selon la formule suivante, le sinus de θ, donc cet angle de divergence, est égal à 1,22 fois la célérité, la célérité étant une constance, on l'a dit tout à l'heure, pour chaque milieu, sur le diamètre fois la fréquence. Donc pour diminuer la zone de Fraunhofer, parce que c'est une zone qui est lointaine et qui est moins intéressante, dans le faisceau ultrasonore, pour la diminuer, qu'est-ce qu'il faut faire ? Il faut tout simplement augmenter le diamètre ou la fréquence de l'onde ultrasonore.
+
+Donc les deux paramètres qui vont permettre d'améliorer la géométrie du faisceau ultrasonore sont la fréquence et le diamètre, la fréquence bien sûr de l'onde ultrasonore et le diamètre de la source. Quand ils augmentent, la zone de Fresnel s'allonge et la divergence de la zone de Fraunhofer diminue. Ici vous avez l'exemple sur l'ouverture de la taille par rapport bien sûr au diamètre.
+
+Regardez, plus le diamètre est petit, plus on a une petite zone de Fresnel et un angle de divergence qui est très important. Plus le diamètre de la source augmente, plus on a une zone de Fresnel qui est allongée, qui est intéressante, et plus on a un angle de divergence qui est moindre. Également pour le faisceau, pour l'améliorer, il y a ce qu'on appelle le principe de la focalisation, c'est-à-dire qu'on va essayer de rendre le front d'onde ultrasonore concave vers la région d'intérêt.
+
+La focalisation est une des fonctions de la sonde d'échographie, qu'on va voir par la suite, après qu'elle permette l'émission des ondes ultrasonores sous forme de faisceau. L'intérêt c'est d'améliorer la résolution latérale en obtenant une épaisseur minimale du faisceau ultrasonore. Le principe étant, comme je l'ai dit tout à l'heure, de donner à l'onde un front concave.
+
+Comment ça peut se faire ? Cela est fait grâce à des lentilles de focalisation dans la sonde ou à des procédés électroniques dans la machine. Ceci nous amène à parler de la résolution spatiale. Qu'est-ce que c'est que la résolution ? C'est la plus petite distance entre deux cibles permettant de les distinguer de façon nette.
+
+On a la résolution axielle, c'est-à-dire dans l'axe du faisceau ultrasonore, et la résolution latérale, elle est perpendiculaire à l'axe du faisceau ultrasonore. La résolution axielle augmente avec la fréquence. La résolution latérale est améliorée dans la zone localisée ou focalisée, comme on a dit tout à l'heure.
+
+Voici un schéma. Vous avez une sonde qui va émettre une onde ultrasonore ou un faisceau ultrasonore. La résolution axielle permet de distinguer deux points l'un derrière l'autre dans l'axe du faisceau.
+
+La résolution transversale ou latérale permet de distinguer un point à côté de l'autre. Celle-ci, on l'améliore en augmentant la fréquence de l'onde ultrasonore. Si on met ici un schéma de l'onde ultrasonore, plus on augmente la fréquence, plus il y a des chances de visualiser les deux points distinctement.
+
+Pour la résolution latérale ou transversale, on a parlé de la focalisation de l'onde ultrasonore. Il va y avoir un front concave vers les points, ce qui va permettre de les distinguer tous les deux. On a vu l'onde ultrasonore, ses caractéristiques, la fréquence, la longueur d'onde, la période et la célérité.
+
+On a vu la définition d'un faisceau ultrasonore avec les différentes formes de dispersion de ce faisceau. On a vu la géométrie du faisceau avec la zone de Fresnel et celle de Pronofer, comment les améliorer. On a vu que cela dépendait essentiellement de la fréquence et du diamètre de la source.
+
+Puis on a vu la résolution spatiale, axiale et latérale, avec l'amélioration des deux, soit en augmentant la fréquence pour la résolution axiale, soit en focalisant le faisceau pour la résolution latérale. On passe à l'interaction des ondes ultrasonores avec la matière. L'interaction des ondes avec le milieu traversé va nous amener d'abord à parler de ce milieu, en précisant l'impédance acoustique dont je vous ai parlé déjà tout à l'heure.
+
+On va voir la notion d'interface acoustique avant de voir les différents phénomènes d'interaction de l'onde ultrasonore, c'est-à-dire l'absorption, la transmission, la réflexion, la réfraction puis la diffusion. L'intensité de l'onde ultrasonore diminue au cours de sa propagation. Ce phénomène est appelé atténuation.
+
+Différents mécanismes sont à l'origine de l'atténuation des ondes ultrasonores. Au cours de la propagation dans un milieu homogène, il se passe le phénomène d'absorption, ou alors à l'interface de deux milieux d'impédance acoustique différentes. Qu'est-ce que c'est que l'impédance acoustique ? L'impédance acoustique, c'est une caractéristique propre du milieu de propagation.
+
+Elle correspond à la résistance à la propagation des ultrasons. L'impédance d'un milieu et la célérité des ultrasons dans ce milieu sont liés selon la formule suivante. Z, l'impédance acoustique, est égale à la masse volumique fois la célérité des ultrasons.
+
+Comme le tableau qu'on a vu tout à l'heure pour la célérité des ondes ultrasonores, l'impédance acoustique également va dépendre du milieu de propagation des ultrasons. Lorsqu'une onde ultrasonore se propage dans un milieu homogène, sa célérité dépend uniquement du milieu qui est caractérisé par son impédance Z. Plus l'impédance acoustique est grande, plus la célérité de l'onde ultrasonore est grande. Rappelez-vous tout à l'heure, nous avons vu que la célérité de l'air était la plus basse et celle de l'os était la plus importante.
+
+Pareil pour l'impédance, donc vous voyez si on compare les deux, l'impédance de l'air est très très faible par rapport à l'impédance de l'os ou du squelette. Celle des tissus mous étant moyenne. Donc de là, de la notion d'impédance, va découler la notion d'interface.
+
+Qu'est-ce que c'est qu'une interface ? C'est tout simplement la jonction entre deux milieux d'impédances différentes. Voici l'interface acoustique, c'est la surface de séparation entre deux milieux de Z différents. L'onde entrant en contact avec cette interface va subir de nombreux phénomènes qui, selon leur importance et leur combinaison, vont définir l'image qui va être finalement restituée.
+
+Regardez ici la sonde qui va émettre les ondes ultrasonores. On a une première interface entre le milieu ambiant qui est l'air et le milieu 1. On aura des ondes qui sont émises. Dès qu'elles vont rencontrer une autre interface, c'est-à-dire à la jonction entre le milieu 1 et le milieu 2, on aura une réflexion et puis une transmission.
+
+À chaque fois qu'on a une interface, on va avoir des interactions différentes selon l'importance de ces phénomènes. L'interface caractéristique, elles sont assez nombreuses. Une interface acoustique peut être de forme pleine ou incurvée.
+
+Elle peut avoir une orientation différente par rapport au faisceau ultrasonore. Elle peut être lisse ou rugueuse. Ou alors elle peut être de très petite taille par rapport à la longueur d'onde ultrasonore.
+
+Ce qui est important, c'est la différence d'impédance entre les deux milieux, c'est-à-dire le Z2 moins le Z1. Les interfaces acoustiques entre les tissus mous, par exemple le myocarde et l'endocarde, le foie et le rein, ce sont des tissus mous. Leur impédance acoustique est rapprochée.
+
+La différence ne va pas être énorme. Par contre, il y a des interfaces où la différence d'impédance va être très importante. Notamment, si on prend l'exemple de l'air avec les tissus mous, ou de l'os avec les tissus mous, ou encore mieux, entre l'air et l'os.
+
+Là, on a les deux extrêmes. L'interface entre les deux va être très marquée. La différence d'impédance entre ces deux milieux va être assez importante.
+
+Voilà un schéma. Ici, on a l'importance de la différence entre l'impédance du milieu 2 par rapport au milieu 1. On a la forme. On a dit qu'elle pouvait être arrondie ou plane.
+
+L'orientation. Oblique ou pas. La taille.
+
+Le petit diamètre par rapport à la longueur d'onde. Et la régularité. Lisse ou rugueuse.
+
+Ce sont les différentes caractéristiques des interfaces qui vont expliquer les différents phénomènes d'interaction de l'onde ultrasonore. Il faut bien les connaître. L'absorption, la transmission, la réflexion, la réfraction, puis la diffusion.
+
+On commence par l'absorption qui est décrite par une décroissance exponentielle. Regardez la formule et la figure. Vous voyez que l'intensité de l'absorption des ondes ultrasonores dépend de la distance parcourue dans la matière.
+
+Si on prend l'exemple d'un centimètre, c'est-à-dire qu'au bout d'un centimètre traversé dans la matière, on perd 50% de l'intensité de l'onde ultrasonore. Ce qui est énorme. À un centimètre, on perd 50%.
+
+C'est beaucoup. Une fois arrivé à 4 centimètres, on n'a plus rien. Et là, ce n'est pas possible.
+
+Vous imaginez que pour explorer le corps humain, on a besoin de bien plus de profondeur. Bien sûr, pour visualiser l'abdomen, visualiser le pelvis. D'autant plus qu'il y a des patients qui sont assez corpulents et où on a une masse graisseuse assez importante.
+
+Et donc là, les 4 centimètres ne vont certainement pas suffire. Le coefficient d'absorption est proportionnel au carré de la fréquence ultrasonore. Vous avez l'alpha, qui est le coefficient d'absorption, est égal à k, c'est une constante, fois la fréquence au carré.
+
+Cela veut dire quoi ? Cela veut dire que quand la fréquence augmente, l'absorption également augmente. Et si l'absorption augmente, comme on a dit tout à l'heure, on va rapidement perdre l'intensité et l'énergie de l'onde ultrasonore. Ce qui ne nous intéresse pas vraiment.
+
+Pour améliorer, il faut plutôt baisser la fréquence. Ceci est en train de se contredire avec ce qu'on a dit tout à l'heure pour la géométrie du faisceau ultrasonore. L'importance de cette formule, c'est que pour explorer les régions profondes, telles que l'abdomen par exemple, il est nécessaire d'utiliser des fréquences basses.
+
+On va diminuer la fréquence pour augmenter la profondeur qu'on va explorer. Ceci va nous amener à choisir des sondes selon leur fréquence. L'atténuation dépend de la fréquence et de la longueur d'onde du faisceau ultrasonore.
+
+D'où l'importance de bien choisir la sonde en fonction de l'organe à explorer. En particulier de sa profondeur, sa structure et sa taille. Voici quelques exemples.
+
+On va choisir une sonde avec une fréquence de 3,5 MHz pour une exploration au-delà de 15 cm. Ceci va intéresser l'abdomen et le pelvis. Pour entre 5 et 6 cm de profondeur, on va choisir des sondes de 7,5 MHz.
+
+Ceci est intéressant notamment pour l'exploration de la thyroïde ou des glandes mammaires ou bien des structures articulaires ou musculotendines. Ça c'était pour l'absorption, on a vu l'importance du champ. Donc la réflexion est directement liée à l'impédance acoustique du milieu traversé.
+
+On va définir également le coefficient de réflexion R qui est égal au rapport entre l'énergie transmise et l'énergie réfléchie. C'est-à-dire le R est égal au Z1 moins Z2 sur le Z1 plus Z2 au carré. Cela veut dire que plus la différence d'impédance acoustique entre deux tissus est élevée, plus la réflexion est importante.
+
+On va donner d'autres exemples. Si on va sur l'interface foie-reindroit, on est sur une interface entre deux milieux qui sont rapprochés, c'est les tissus mous. Ici, on aura seulement 6% de l'énergie acoustique incidente qui sera réfléchie vers la source.
+
+Par contre, si on va sur une interface entre deux structures, deux milieux d'impédance acoustique très différentes, là, par exemple, tissus mous et os, on va voir que 40% repartent vers la source. Ce sont des ondes qui seront réfléchies vers la source. Par contre, sur une interface tissus mous et R, on a une différence d'impédance qui est très importante, et donc un coefficient de réflexion qui sera très important.
+
+Et là, la quasi-totalité de l'énergie va être réfléchie. Donc, qu'on ait une absorption maximale, ce n'est pas intéressant, parce qu'on n'aura plus d'ondes transmises pour avoir plus d'informations. Et qu'on ait également une réflexion maximale, ce n'est pas intéressant, parce que là encore, on n'aura pas d'ondes transmises et donc on n'aura pas d'informations au-delà.
+
+Avant, on disait que l'air représentait un barrage pour les ultrasons. Cela est tout simplement lié à l'importance de la différence d'impédance acoustique entre les deux milieux, le premier aérique et le second, par exemple, au niveau des tissus. Ceci, il ne faut pas oublier qu'on avait dit que l'air ambiant, déjà avant de poser la sonde sur la peau du patient, on a un milieu qui correspond à l'air ambiant.
+
+Donc, ceci est très important de savoir que c'est l'intérêt d'utiliser du gel d'échographie entre la peau et la sonde. Cela va être responsable de créer une impédance acoustique intermédiaire entre la peau et l'air ambiant, ce qui va permettre la transmission et une petite réflexion des ondes ultrasonores. Nous avons parlé de l'absorption avec le coefficient d'absorption et son importance par rapport à la fréquence de l'onde ultrasonore.
+
+On a parlé de la réflexion et de la transmission en détaillant le coefficient de réflexion qui est très lié à la différence d'impédance entre deux milieux différents. Et maintenant, on va passer à la troisième interaction qui est la réfraction. La réfraction se produit quand l'interface n'est pas perpendiculaire à l'onde ultrasonore.
+
+Vous voyez l'exemple sur le schéma. Quand l'onde incident arrive vers une interface de façon non perpendiculaire, l'onde réfléchie ne va pas repartir vers la source, mais l'onde réfléchie va aller se disperser avec un ongle qui sera le même que celui par lequel l'onde incident est arrivée vers l'interface. Donc, celle-ci va être l'onde réfléchie qui sera en fait perdue puisqu'on n'aura pas d'information qui va revenir vers la sonde.
+
+Et puis, il y aura une deuxième onde qui va être transmise. Celle-ci aussi va être transmise, mais elle sera déviée par rapport à l'onde incident. C'est ce qu'on appelle l'onde réfractée.
+
+Donc, celle-ci correspond à la réfraction. C'est quand l'interface n'est pas perpendiculaire à l'onde ultrasonore et que l'onde transmise va avancer avec un angle dévié par rapport à celui de l'onde incident. Dernière interaction, c'est la diffusion.
+
+La diffusion se produit lorsque l'interface est de petite taille par rapport à la longueur d'onde. Donc, l'énergie de l'onde ultrasonore, à ce moment-là, va être diffusée un petit peu partout, en avant, en arrière et surtout dans tous les sens. Ceci se produit notamment avec le parenchyme, l'exemple du parenchyme hépatique, avec ces petites composantes qui vont donner un aspect grisâtre au foie.
+
+Voilà, on a fini avec les différents phénomènes d'interaction de l'onde ultrasonore avec le milieu ou avec la matière. On a vu l'absorption, la réflexion et transmission, la réfraction et la diffusion. Maintenant, on va revenir à cette production des ondes ultrasonores.
+
+Comment se fait-elle ? Et là, on va discuter du principe de l'effet piezoélectrique et comment est-ce qu'on obtient les ondes ultrasonores à partir de cet effet. Donc, qu'est-ce que c'est que la piezoélectricité ? C'est la propriété que possèdent certains matériaux, notamment des cristaux, des céramiques ou des composites, soit à se polariser électriquement sous l'action d'une force mécanique, c'est ce qu'on appelle l'effet piezoélectrique direct, ou alors ces matériaux vont se déformer lorsqu'on leur applique un champ électrique. C'est ce qu'on appelle l'effet indirect.
+
+Voilà donc l'effet piezoélectrique. On a dit qu'on prenait un matériau au repos. Si on met dessus une contrainte mécanique, ce matériau va se polariser.
+
+S'il y a une erreur, normalement on devrait avoir un moins et un plus ici. Donc, on va avoir une polarisation. Ou alors, si on met un champ électrique sur ce matériau, il va se déformer.
+
+Donc, ça va dans les deux sens. On a une énergie électrique, une énergie mécanique, une déformation produit une polarisation, et si on met un champ électrique, une polarisation produit une déformation. Donc ça, c'est l'effet piezoélectrique direct et indirect.
+
+Alors, comment ça se passe sur la machine d'échographie ? Comment est-ce qu'on produit ? On recueille les ondes ultrasonores. Sur la machine, il y a un générateur de courant qui va délivrer des impulsions électriques de haute fréquence, entre 2 et 10 MHz, selon les machines et les sondes. Donc, celle-ci va créer une variation d'épaisseur, c'est-à-dire qu'elle va déformer la céramique.
+
+Souvent, c'est la céramique qui est à la surface de la sonde, actuellement, comme matériau piezoélectrique, c'est la céramique. Donc, elle va être responsable, après l'application de ce champ électrique ou de ces impulsions électriques, la céramique à la surface de la sonde va subir une déformation. Alors, comme il y a plusieurs impulsions, on aura plusieurs déformations qui vont créer une vibration mécanique qui sera transmise.
+
+Cette vibration mécanique correspond au fait d'une onde ultrasonore. Si vous vous rappelez, on avait dit dans la définition de l'onde ultrasonore que c'était une vibration mécanique qui se propageait. Donc, c'est-à-dire que la production de l'onde ultrasonore va se faire par effet piezoélectrique indirect, puisque le début, ce sont les impulsions électriques qui vont venir à la surface de la céramique et qui vont la déformer et créer cette vibration mécanique.
+
+Une fois l'onde sort de la sonde, elle va se propager dans les différents milieux, elle va subir les interactions, et on aura une onde qui sera encore réfléchie vers la sonde. Cette onde réfléchie vers la sonde va faire apparaître à la surface de la céramique des différences de potentiel dont la fréquence correspond à celle de l'onde réfléchie. Et là, on va avoir un signal électrique qui va être décodé et qui va nous donner l'information en images.
+
+Voilà ce qui se passe. La production de l'onde ultrasonore commence par l'effet piezoélectrique indirect. Comme on a dit, on aura des impulsions électriques par le générateur qui, à la surface de la sonde, vont la déformer.
+
+Plusieurs déformations vont créer une vibration qui correspond à l'onde ultrasonore. Elle va traverser les différents milieux, puis elle va être réfléchie. Quand elle sera réfléchie, elle viendra à la surface de la sonde.
+
+C'est cette déformation, cette force mécanique qui va polariser, qui va donner un signal électrique. Ça correspond à l'effet piezoélectrique direct. La production de l'onde ultrasonore se fait par effet piezoélectrique indirect.
+
+Et puis le retour et la transformation en signal électrique et en images va se faire par effet piezoélectrique direct. On arrive aux constitutions de l'échographe, de la machine. Comme vous voyez, on a le moniteur ou l'écran.
+
+On a plusieurs boutons de réglage à côté d'un clavier pour écrire les commentaires. On a les sondes échographiques et on a une imprimante pour avoir les images à donner au patient. La sonde échographique, c'est le maillon fort de l'échographe.
+
+C'est la structure sur laquelle il y a ce matériau qui a l'effet piezoélectrique. Comme je vous l'ai dit, c'est souvent la céramique. La sonde échographique a plusieurs fonctions.
+
+La fonction d'émission et de réception des ultrasons. Mais aussi la focalisation du faisceau ultrasonore, comme on a dit tout à l'heure, pour améliorer la résolution latérale. Et puis bien sûr, cette sonde va permettre le balayage de l'espace par le faisceau ultrasonore pour permettre l'exploration de la région anatomique souhaitée.
+
+Le balayage, c'est le fait de faire le va-et-vient, de faire ces mouvements sur toute la surface explorée. Voici la structure interne de la sonde d'échographie. Quel que soit le type de sonde, on a trois éléments principaux qui sont logés dans un boîtier isolant.
+
+On a la céramique, bien sûr avec une couche de protection extérieure. On a l'amortisseur qui va amortir les ondes réfléchies. On a un adaptateur d'impédance qui va protéger le patient et qui va éviter les grandes réflexions.
+
+Bien sûr, le boîtier va protéger le médecin de ses impulsions électriques. Le boîtier protège le médecin. La couche de protection où l'adaptateur va protéger le patient et le cœur de la sonde qui est la céramique avec l'amortisseur des ondes réfléchies.
+
+La sonde est à la fois émettrice et réceptrice. On l'a vu. Elle va transformer l'impulsion électrique en ondes ultrasonores.
+
+Puis, elle va convertir les informations ultrasonores en signaux électriques. On l'appelle un transformateur d'énergie ou bien un transducteur. Il existe plusieurs types de sondes.
+
+On les classe en fonction du procédé utilisé. Il y a les sondes d'avaléage mécanique et les sondes d'avaléage électronique. Les sondes d'avaléage mécanique n'existent plus.
+
+Ce sont des sondes d'avaléage électrique. Elles peuvent être linéaires. On a plusieurs transducteurs de petite dimension placés les uns à côté des autres.
+
+Là, on aura une image sous forme rectangulaire. Ou alors, on a les sondes d'avaléage sectoriel. Là, on a l'excitation des éléments groupe par groupe.
+
+Et là, on aura une image qui est plutôt trapézoïde comme c'est le cas ici. Regardez une sonde d'avaléage linéaire. Regardez l'image correspondante.
+
+Elle est rectangulaire. Et là, avaléage sectoriel. Elle est convexe et nous donne une image trapézoïde.
+
+Les différentes sondes utilisées correspondent à la fréquence centrale du faisceau ultrasonore émis par la sonde. C'est l'élément déterminant de la sonde écographique. Une fréquence élevée va permettre d'améliorer la résolution spatiale.
+
+Mais comme on l'a dit tout à l'heure, on va diminuer la pénétration des ultrasons. Là, vous voyez qu'il y a plusieurs types de sondes. On a les sondes convexes qui sont de 3,5 MHz qui s'utilisent pour les écographies abdominales ou pelviennes, suspibiennes.
+
+On a des sondes linéaires de 7,5 MHz qui sont tissus superficiels. On a des petites sondes, soit cardiaques, soit pédiatriques, donc micro-convexes. Et on a des sondes endocavitaires.
+
+Elles font dans les 10 MHz à peu près. Celles-ci sont utilisées parfois endovaginales ou endorectales pour explorer les organes génitaux internes. Ici, vous avez un tableau qui récapitule les différentes fréquences de sondes avec leur application quotidienne.
+
+Voilà, donc, pour les applications diagnostiques. En échographie, on a plusieurs examens possibles. On peut faire l'échographie abdominale pour explorer l'abdomen, tout l'abdomen ou pelvis.
+
+Ici, on peut faire aussi une échographie thyroïdienne pour visualiser la thyroïde ou les vaisseaux du cou. On peut faire également des échographies oculaires, des échographies mammaires, des échographies musculo-tandineuses, articulaires également. Donc, il y a plusieurs applications diagnostiques, comme on l'a dit, donc l'échographie est un examen aujourd'hui qui est vulgarisé et qui rapporte gros dans le diagnostic des pathologies pour les patients.
+
+Donc, on va s'arrêter là et on va enchaîner dans le prochain cours avec les modes échographiques. Merci.

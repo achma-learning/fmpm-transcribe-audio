@@ -1,0 +1,99 @@
+Bonjour, le cours d'aujourd'hui concerne la deuxième partie du module de biophysique, qui sont les études des milieux intérieurs de l'organisme. Avant d'entamer le premier chapitre des grandeurs extensives et élémentaires dans le milieu intérieur de l'organisme, on va entamer quelques définitions. L'étude de la biophysique est composée de trois grandes parties.
+
+La première partie, c'est ce qu'on a vu dans l'étude des agents physiques sur l'être vivant et ses constituants. Notamment, on a vu l'étude des rayons ionisants sur la matière vivante. Également, l'étude de la lumière visible sur les différents milieux transparents de l'œil jusqu'à la rétine.
+
+Et l'étude des vibrations sonores du son au niveau de l'oreille pour qu'il y ait cette sensation de l'audition. La deuxième partie, c'est l'étude des méthodes et des techniques physiques dans le diagnostic et thérapeutique. Les collègues radiologues ont fait les bases physiques de l'imagerie radiologique, de l'imagerie ultrasonore, du scanner TDM, également l'imagerie scintigraphique.
+
+Et la troisième partie, c'est l'étude des phénomènes physiques chez l'homme. C'est cette dernière partie qu'on va entamer pendant cette chaîne de cours. Donc, il va intéresser tout ce qui est mécanisme à l'intérieur du milieu de l'organisme.
+
+Notamment la circulation sanguine, l'électrocardiogramme, la biophysique de la circulation, l'équilibre acido-asique et autres. La biophysique du milieu intérieur fait intervenir des mesures, notamment des grandeurs. Donc, c'est surtout les grandeurs extensives.
+
+Il y a également les grandeurs intensives. Pour les grandeurs extensives, c'est des grandeurs dont l'additivité a une signification physique. C'est des grandeurs qui caractérisent la quantité, qui peut être la quantité de matière, la quantité d'énergie, la quantité de chaleur, la quantité d'électricité.
+
+Pour les grandeurs intensives, ce sont des grandeurs dont l'additivité n'a pas une signification. On va voir que la somme de deux grandeurs, ou le facteur de deux grandeurs extensives, peut donner une grandeur intensive. Par exemple, la vitesse égale la distance sur le temps.
+
+La distance est une grandeur extensive fois le temps-1, qui est également une grandeur extensive. Alors que la vitesse est une grandeur intensive. Pour les quatre grandeurs extensives qui expriment les autres grandeurs, ce sont la longueur, pour grand M, la masse, le temps et l'intensité électrique I. La relation symbolique d'une grandeur pour les autres grandeurs égale la longueur à la puissance A fois la masse à la puissance B fois le temps à la puissance C fois l'intensité électrique à la puissance D. Donc, ça s'appelle une dimension de grandeur.
+
+Et A, B, C, D sont les nombres antiaux fractionnels. Ils peuvent être égaux à zéro lorsqu'ils n'interviennent pas dans la grandeur. Parfois, la grandeur est son dimension.
+
+Par exemple, l'indice de réfraction égale une vitesse sur une vitesse, donc il est son dimension. Autre exemple, la dimension d'une surface ou d'un rectangle égale la longueur fois la largeur égale L². La dimension de la vitesse égale la distance sur le temps égale LT-1.
+
+Cet exercice va nous donner les dimensions d'une pression. La pression égale la force sur la surface. Et donc, la dimension de la pression égale la dimension de la force sur la dimension de la surface.
+
+Et donc, la force égale la masse fois l'accélération égale les dimensions de la masse fois les dimensions de l'accélération égale MLT-2. Avec M, c'est la grandeur de la masse. Gamma ou A, c'est la grandeur, c'est l'accélération, donc LT-2.
+
+Et finalement, les grandesurs ou les dimensions de la pression égale MLT-2 sur L². Ce qui va nous donner que les dimensions de la pression égale ML-1 et T-2. Dans toute relation physique, il y a homogénéisation de la dimension.
+
+C'est un outil qui permet d'homogénéiser et de vérifier les valeurs finales de toute relation physique. Les unités. Donc, les unités, c'est un ensemble qui est constitué d'un système d'unités.
+
+Par exemple, le système CGS, c'est les sous-unités. Donc, il est fait de la longueur, il y a le centimètre pour la masse, c'est le gramme et le temps et le seconde. Le système officiel ou le système international, il est symbolisé par SI.
+
+On l'appelle le système MKSA, pour M c'est la masse, K c'est le kilogramme, S c'est la surface et A c'est l'ampère. Donc, exemple, la grandeur ML-1 et T-2, il s'agit bien d'une pression. Donc, on va voir que la pression, l'unité dans le système international est PA, c'est le pascal.
+
+Alors que l'unité dans le système CGS est le gramme centimètre moins un seconde moins deux et qui est le DIN. Un DIN par centimètre carré qui est une barille. Une barille est 10 moins un pascal et un mégabarille 10 puissance 6 barille est 10 puissance 6 pascal égale un bar.
+
+Pour la quantité d'électricité, comme définition, l'intensité d'un courant électrique égale les variations ou la quantité d'électricité traversant un conducteur par une unité de temps. Donc, l'unité de temps, c'est le D2T. Et donc, la quantité d'électricité, Q ou D2Q, est le produit de l'intensité par un temps.
+
+Son unité, c'est le courant, un courant qui est égale à 1 ampère fois seconde. Et donc, les dimensions, c'est I fois T. Une petite quantité d'électricité peut être marquée sous forme d'une charge ponctuelle. Si D2Q est dans un grand volume ou dans un petit volume infiniment petit, alors D2V peut être s'assimiler à un petit point, donc D2Q.
+
+Et puis, la notion du dipôle. Le dipôle, c'est deux charges ponctuelles qui sont distinctes d'une longueur. Elles sont de signes opposés.
+
+Un dipôle, il a une charge électrique qui est nulle, donc égale à zéro. Le moment du dipôle, c'est la somme de deux charges. Et donc, l'origine est au milieu du dipôle.
+
+La direction, c'est la droite qui joint la charge négative à la charge positive. Le sens, il est de la charge négative vers la charge positive. Et l'intensité du moment du dipôle est égale à la charge Q fois L fois la longueur.
+
+L'unité du moment du dipôle est le coulomb par un fois mètre. Pour la quantité de matière, la quantité de matière fait intervenir la force qui est appliquée à des systèmes différents et provoquée par les accélérations, qui est l'accélération de pesanteur gamma en général. Donc, la force sur l'accélération égale l'inertie du système, ou qui est égale à la masse du système, l'unité en kilogramme dans le système international.
+
+Donc, cette définition est valable lorsque la vitesse du corps est nulle ou très inférieure à la vitesse de la lumière. C'est le principe de Lavoisier. Donc, la masse est constante.
+
+Le nombre de particules, un nombre très grand de particules, ou molécules, ça peut être molécule, ça peut être ion ou atome, on l'appelle mol. L'unité du système international est le mol. Une mol comprend 6,02 fois 10 puissance 23 particules. 
+
+C'est ce qu'on appelle le nombre d'avogadrons. Osmol, c'est un nombre de particules ou d'ions dissous dont il fait intervenir une solution. Ions, c'est des particules ayant perdu ou gagné un ou plusieurs électrons.
+
+Ils sont électriquement chargés. Donc, on appelle équivalent. Pour les cations, c'est des charges positives. 
+
+Et pour les anions, c'est des charges négatives. Pour les ions monovalents, par exemple, le sodium, c'est un cation qui a perdu un électron. Sa charge, elle est de 1,6 fois 10-19 Coulomb.
+
+Pour le Cl-, c'est un anion qui a gagné un électron. Sa charge, elle est de moins 1,6 fois 10-19 Coulomb. Pour les ions bivalents, par exemple, le calcium, il a perdu deux électrons.
+
+Donc, la charge, ça va être plus 2 fois 1,6 fois 10-19 Coulomb. Pour les sulfates, SO4-, il a gagné deux électrons. Donc, la charge, elle est égale à moins 2 fois 1,6 fois 10-19 Coulomb.
+
+Pour les ions de valence Z, les cations avec perte de Z électrons. Donc, la charge, elle est égale à plus Z fois 1,6 fois 10-19 Coulomb. Pour les anions, il y a le gain de Z électrons. 
+
+Donc, la charge est égale à moins Z fois 1,6 fois 10-19 Coulomb. Un mol d'ion, c'est un mol d'ion de valence Z qui porte la charge. Q égale Z fois 1,6 fois 10-19 Coulomb pour la charge, fois 6,02 fois 10 puissance 23.
+
+C'est le nombre d'amogadrores. Donc, le tout égale au Coulomb. Et donc, si on mesure cette valeur 1,6 fois 10-19 fois 6,02 fois 10-23, elle va nous donner un chiffre de 96,500 Coulomb et qui est le nombre de Faraday.
+
+L'équivalent, c'est une fraction de mol d'ion qui perd Q0. Pour les ions monovalents, une mol égale un équivalent. Pour les ions bivalents, une mol égale deux équivalents.
+
+Pour un ion de Z valence, une mol égale Z équivalent. La concentration et les grandeurs assimilées. Donc, la concentration aux fractions molaires d'abord.
+
+Un système contenant n1 mol de constituant 1, n2 mol de constituant 2. Donc, ni, c'est les mols du constituant i au total. La somme des mols n1, n2 jusqu'à ni, c'est la somme de tous les mols. Et donc, la fraction molaire X de chaque constituant égale, pour le constituant 1 par exemple, égale n1 sur la somme des mols.
+
+Et donc, égale ni ou n1 sur sigma nj. Et pour le constituant i, la fraction molaire X égale ni sur sigma nj. Pour la fraction molaire, c'est un nombre de mols d'un constituant sur le nombre total de mols dans la solution.
+
+Donc, il n'a pas de dimension et il est indépendant de la température et de la pression. La concentration molale ou molalité, il s'utilise pour les solutions uniquement, c'est le nombre de mols ni de soluté i par unité de masse du solvant. Donc, c'est i égale ni sur m. Et les dimensions, c'est le mol par kilogramme ou millimol par kilogramme.
+
+La somme des concentrations molales est appelée osmolalité ou l'unité, c'est millimol par kilo. La concentration molaire, c'est la plus utilisée au milieu médical. On l'appelle également molalité. 
+
+La molalité, c'est le nombre de mols ni de soluté i sur l'unité de volume V de la solution. Donc, c'est i égale un nombre de mols ni sur le volume de la solution. La dimension, c'est n ou mol par litre.
+
+L'unité, donc, c'est mol par litre ou millimol par litre. Et la dimension, c'est mol L à puissance moins 3. La somme des concentrations molaires des différentes solutés constitue l'osmolarité de la solution en millimol par litre. Donc, pour le volume de la solution, il peut varier en fonction de ses constituants.
+
+Le volume libre d'une solution est celui qui intervient dans les phénomènes physico-chimiques de cette solution. Il est donc égal au volume total, au moins le volume dû aux particules du système. Donc, c'est le volume libre pour le déplacement des particules.
+
+Le volume exclu, c'est le volume dû aux particules. En biologie, le solvant, c'est l'eau. Et un litre d'eau égale un kilogramme.
+
+Pour l'eau, la molalité, c'est le nombre de mols par litre de solution. Et la molalité, c'est le nombre de mols par litre d'eau. Pour les solutions contenant de l'eau et des solutés, la différence entre molalité et molalité provient du volume occupé par les solutés.
+
+C'est-à-dire que c'est le volume exclu. Si les concentrations sont faibles, c'est-à-dire que le volume exclu est négligeable. Dans ce cas, le volume libre égale le volume total pour le déplacement des solutés.
+
+Donc les solutions sont dites parfaites. Si les concentrations sont importantes, surtout lorsqu'il y a des macromolécules, des protéines, le volume libre égale le volume total, moins le volume exclu. Et les solutions sont dites réelles.
+
+Donc ici, lorsqu'il y a des petites molécules et des petits ions, la molalité égale la molalité. Lorsqu'on a dans le schéma qui est à gauche, lorsque le volume exclu est négligeable, les macromolécules et les macro-ions vont occuper un volume plus important. Donc on parle de la molalité et des différences de la molalité.
+
+Les concentrations pendérales, la masse des solutés par litre de la solution. Donc c'est la définition. La concentration pendérale égale la masse des solutés sur le volume de la solution.
+
+L'unité, c'est le gramme par litre, ou le milligramme par litre, ou le microgramme par litre. Comme remarque, les concentrations pendérales sont utilisées lorsqu'il est impossible d'utiliser les molles par litre. Dans les dosages de protéines plasmatiques, par exemple, qui est constitué par un mélange de macromolécules de masses molaires différentes.
+
+Et je vous remercie.

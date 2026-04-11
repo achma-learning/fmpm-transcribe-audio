@@ -1,0 +1,49 @@
+Bonjour, donc ce cours intitulé « Les états gazeux » fait suite aux états de la matière du cours « Force et grandeur dérivée » et c'est le troisième chapitre du module biophysique du milieu intérieur de l'organisme. Les états gazeux. Un gaz est constitué d'un ensemble de molécules qui sont éloignées les unes des autres en agitation permanente et désordonnée. 
+
+Pour décrire un gaz, on doit choisir un modèle. C'est le modèle de gaz parfait qui s'applique aux différents gaz de notre organisme, tels que le dioxygène et l'azote, dans les conditions normales de pression et de température, notamment à 0°C et à la pression ambiante. Donc les gaz parfaits, ce sont des molécules très éloignées dans un grand volume et qui sont conditionnées par une température élevée et une pression basse.
+
+La loi des gaz parfaits dépend de quatre paramètres, le volume, la température, la pression et la quantité de moles ou le nombre de moles. L'équation d'état des gaz parfaits en présence d'un gaz suffisamment dilué, le nombre de moles N de ce gaz contenu dans un volume V à la température T et sous une pression P, obéit à l'équation de la loi des gaz parfaits qui est égale à la pression fois le volume égale le nombre de moles N fois R fois T. En médecine, la température est à 37°C et la pression égale 1 atmosphère. Et on admet que tous les gaz sont parfaits.
+
+Donc pour R, c'est la constante des gaz parfaits. Elle est de 8,31 J par mole fois degrés Kelvin. Un degré Kelvin égale 0°C. 
+
+Et quel que soit le gaz parfait, une mole à 0°C sous une atmosphère, ils occupent un volume V de 22,4 litres. La température, elle est constante. On peut écrire que la pression fois le volume, puisque R est une constante, la température, on a dit qu'il va être constante, et le nombre de moles est une constante.
+
+Donc la relation des lois des gaz parfaits, PV, est une constante. C'est ce qu'on appelle la loi de Marriott. Donc les conditions d'expression des volumes gazeux, elles sont exprimées en fonction de la température, de la pression et de la saturation en vapeur d'eau.
+
+On décrit trois états de l'expression des volumes gazeux. Il y a l'état STPD, c'est standard, température, pression, dry. Donc dry, ça veut dire qui n'est pas mélangé à la vapeur d'eau ou sec. 
+
+En anglais, dry, c'est sec. Pour la pression, dans les conditions STPD, la pression est égale à 1 atmosphère. Pour la température, dans les conditions STPD, la température dans ce cas est de 0°C.
+
+Il y a la condition BTPD. Body, c'est B, ça veut dire la température du corps. P, c'est la pression de l'atmosphère où le gaz se trouve. 
+
+S, c'est la saturation en vapeur d'eau. Cette condition, body, température, pression, saturé, c'est les conditions qui existent au milieu, à la proximité de la mer ou lorsqu'il y a de l'humidité. Et puis il y a les conditions ATPS, donc A, c'est ambiant, ça veut dire que c'est la pression et la température ambiante du milieu. 
+
+S, saturé en vapeur d'eau. Ça veut dire qu'il est mesuré, ce sont des mesures qui se font au milieu in vitro, ça veut dire au milieu expérimental. Donc comme exercice d'application à une température de 27°C et une pression de 0,5 atmosphère, le volume d'un gaz est de 10 litres. 
+
+On demande de chercher ce volume dans les conditions standard température, pression, drap. Dans les conditions de STPD, standard température, pression, par définition on a la pression égale à 1 atmosphère et la température égale à 0°C, ça veut dire 0 plus 273°K, égale à 273°K. Donc on doit chercher le volume dans ces conditions. 
+
+Or dans les conditions S, dans les conditions de l'expérience, on a P'V' égale nRT' et PV égale nRT. Or le même nombre de volumes ou le même nombre de molles au niveau des conditions de l'expérience est le même dans les conditions STPD. Donc on fait l'égalisation des deux équations des gaz parfaits, PV égale nRT et P'V' égale nRT'. 
+
+Et on simplifie pour avoir PV sur P'V' égale T sur T'. Donc le volume égale P'V' fois T sur T'. Et on va avoir comme application numérique le volume dans les conditions STPD égale 4,55.
+
+Donc le volume de gaz a diminué de 50% à peu près parce que la pression tout simplement a augmenté du double pour le mélange de gaz parfait. Dans un mélange de gaz parfait, chaque constituant possède une fraction molaire XI. Tandis que la fraction molaire XI égale le nombre de molles de gaz I sur le nombre de molles du mélange.
+
+Soit NI sur sigma NI. C'est à dire la somme des molles des gaz qui sont dans le mélange. Donc la composition d'un gaz en volume. 
+
+Si V1 est le volume occupé par une molle N1 de gaz I sur la pression P. V2 est le volume occupé par un gaz N2 de molle de gaz 2 sous une pression P. VI est également le volume occupé par une molle I de gaz I sous une pression P. Alors on peut faire le rapport qui est VI sur V. C'est à dire le volume occupé par ce gaz I sur le volume total du mélange qui est égal à la fraction molaire. Et donc si on applique la loi de gaz parfait à cette équation. On a pour le gaz I la pression partielle ou la pression du gaz fois le volume I de ce gaz.
+
+Egal le nombre de molles I de ce gaz fois la constante de gaz parfait fois la température. Et donc VI c'est à dire le volume du gaz I égale le nombre de molles I fois la constante de gaz parfait fois T sur P. De même le mélange gazeux P donc la pression du gaz fois le volume égale NRT donc égale le nombre de molles de gaz fois la constante de gaz parfait fois T. Et ce qui va nous donner que le volume V égale NRT sur P. Et donc si on fait le rapport VI sur V égale NI sur N qui est XI qui est la fraction molaire. Et donc ce rapport, bien sûr il n'a pas d'unité, est appelé composition en volume qui est très utilisé en industrie et dans la mesure des gaz.
+
+Puis il y a la notion de pression partielle. Donc si on place dans un volume V uniquement un molle de gaz I à la température T. Il se trouve à une pression P1 égale NRT sur V. Donc R c'est la constante de gaz parfait et T la température. De même pour le gaz II, il se trouve à une pression P2 égale NRT sur V. P3 égale NRT sur V. Donc chacun seul dans le volume V. Donc on aura pour PI, pour un gaz I, PI égale NI RT sur V. Si tous les gaz, cette fois-ci, sont placés simultanément dans un volume V à une température T. Alors la pression qu'on va avoir égale NRT sur V avec le N égale N1 plus N2 jusqu'à NI.
+
+Or PI égale NI RT sur V. Et si on fait le rapport, cette fois-ci de PI sur P, on va avoir NI sur N qui est égal PI sur P. Donc la pression partielle d'un gaz sur la pression totale égale le nombre de molles de ce gaz sur le nombre de molles totale. Donc PI c'est une pression partielle dans le mélange qui aurait ce gaz I s'il occupait seul le volume total. Un deuxième exercice d'application concernant la pression partielle des gaz.
+
+Donc l'analyse de l'air atmosphérique en condition STPD donne une valeur de 20% pour l'oxygène et 80% pour l'azote. On demande de calculer la pression partielle, PI de l'oxygène, au niveau de l'altitude de la mer à 0 m et à l'altitude de 2000 m. Et on donne que la pression à 2000 m est de 595 mm³, soit 79,4 kPa. Donc à une hauteur de 0 m, la pression est d'un atmosphère, la pression atmosphérique.
+
+Et la pression partielle est égale à la fraction molaire fois la pression atmosphérique. Donc elle est de 0,2 fois 1, donc elle est égale à 0,2 atmosphère, qui est à peu près égale à 20 kPa. Pour la hauteur ou l'altitude de 2000 m, la pression est de 596 mm³, soit 79,4 kPa.
+
+Donc c'est la pression atmosphérique. Et d'où la pression de l'oxygène, ça va être 0,2 fois la valeur de 79,4, soit 15,9 kPa. Donc on remarque que la pression de l'oxygène à 2000 m est plus faible qu'à 0 m d'altitude.
+
+Ce qui explique que l'oxygène diminue au niveau des hautes altitudes. D'où le risque d'hypoxie chez les gens qui habitent les montagnes, les plus hautes montagnes. Et ils s'adaptent à cette hypoxie.
+
+Voilà, donc ce cours est fini. Il y a quelques QCM qu'on peut discuter après. Merci.

@@ -1,0 +1,3255 @@
+1
+00:00:01,160 --> 00:00:05,580
+Chers étudiants, nous entamons le dernier chapitre de
+
+2
+00:00:05,580 --> 00:00:09,140
+l'immunopathologie de cette année, un chapitre consacré
+
+3
+00:00:09,140 --> 00:00:10,680
+à l'immunothérapie.
+
+4
+00:01:41,470 --> 00:01:47,510
+L'immunothérapie, appelée également immunohintervention, consiste à intervenir
+
+5
+00:01:47,510 --> 00:01:50,030
+sur le système immunitaire à plusieurs niveaux.
+
+6
+00:01:50,650 --> 00:01:53,450
+Soit pour corriger un état de déficit immunitaire,
+
+7
+00:01:54,770 --> 00:01:56,470
+c'est ce qu'on appelle la substitution,
+
+8
+00:01:57,410 --> 00:02:01,650
+ou le remplacement d'un acteur qui fait
+
+9
+00:02:01,650 --> 00:02:06,810
+défaut, soit pour activer des acteurs du système
+
+10
+00:02:06,810 --> 00:02:12,210
+immunitaire par une vaccination ou une stimulation, soit
+
+11
+00:02:12,210 --> 00:02:16,790
+pour réguler des éléments du système immunitaire qui
+
+12
+00:02:16,790 --> 00:02:18,590
+sont en déséquilibre, c'est ce qu'on
+
+13
+00:02:18,590 --> 00:02:22,410
+appelle l'immunomodulation, soit pour induire un état
+
+14
+00:02:22,410 --> 00:02:25,510
+d'inhibition ou d'immunosuppression.
+
+15
+00:02:25,510 --> 00:02:31,610
+Cette immunothérapie trouve plusieurs indications en pratique clinique.
+
+16
+00:02:32,410 --> 00:02:36,070
+Elle est généralement administrée soit à visée préventive
+
+17
+00:02:36,070 --> 00:02:40,210
+pour prévenir des infections, ou même certains cancers,
+
+18
+00:02:40,370 --> 00:02:43,350
+on verra des exemples, soit à visée thérapeutique
+
+19
+00:02:43,350 --> 00:02:47,970
+pour traiter soit des maladies inflammatoires, des maladies
+
+20
+00:02:47,970 --> 00:02:51,570
+infectieuses, des maladies auto-immunes et également des
+
+21
+00:02:51,570 --> 00:02:52,090
+myoplasies.
+
+22
+00:02:53,060 --> 00:02:54,930
+L'intérêt de ce chapitre est dans le
+
+23
+00:02:54,930 --> 00:02:58,330
+fait que cette immunothérapie est d'abord une
+
+24
+00:02:58,330 --> 00:03:02,210
+nécessité de prise en charge de beaucoup de
+
+25
+00:03:02,210 --> 00:03:03,570
+maladies, d'essais immunitaires.
+
+26
+00:03:04,210 --> 00:03:07,290
+Deuxièmement, elle a démontré son efficacité à travers
+
+27
+00:03:07,290 --> 00:03:10,510
+des études cliniques et prouvées scientifiquement.
+
+28
+00:03:11,490 --> 00:03:16,470
+Troisièmement, il offre également des perspectives prometteuses pour
+
+29
+00:03:16,470 --> 00:03:20,330
+prendre davantage en charge des maladies et d
+
+30
+00:03:20,330 --> 00:03:20,890
+'essais immunitaires.
+
+31
+00:03:22,090 --> 00:03:24,750
+Je vous propose ainsi d'aborder ce chapitre
+
+32
+00:03:24,750 --> 00:03:26,510
+à travers trois axes.
+
+33
+00:03:26,930 --> 00:03:30,190
+Le premier axe sera consacré à la vaccination,
+
+34
+00:03:31,470 --> 00:03:36,090
+en étudiant les réponses immunitaires post-vaccinales et
+
+35
+00:03:36,090 --> 00:03:40,410
+la notion de mémoire immunologique, également la cynique
+
+36
+00:03:40,410 --> 00:03:43,370
+de la réponse humorale post-vaccinale, les mécanismes
+
+37
+00:03:43,370 --> 00:03:47,970
+protecteurs induits selon le type de vaccin, les
+
+38
+00:03:47,970 --> 00:03:51,210
+facteurs qui influencent la réponse post-vaccinale et
+
+39
+00:03:51,210 --> 00:03:54,850
+avec également quelques notes sur les nouvelles approches
+
+40
+00:03:54,850 --> 00:03:56,230
+vaccinales.
+
+41
+00:03:56,770 --> 00:03:59,190
+Comme deuxième axe, nous allons traiter les immunoglobules
+
+42
+00:03:59,190 --> 00:04:03,710
+polyvalentes en abordant les objectifs de leur utilisation
+
+43
+00:04:03,710 --> 00:04:07,690
+et les mécanismes de leurs actions, mais également
+
+44
+00:04:07,690 --> 00:04:09,150
+les indications cliniques.
+
+45
+00:04:09,850 --> 00:04:13,190
+Et en troisième axe, nous traiterons l'immunosuppression,
+
+46
+00:04:14,010 --> 00:04:18,110
+notamment les corticoïdes, les immunosuppresseurs et puis en
+
+47
+00:04:18,110 --> 00:04:20,130
+dernier les anticorps monoclobules.
+
+48
+00:09:12,600 --> 00:09:14,360
+Suite à l'introduction d'un vaccin dans
+
+49
+00:09:14,360 --> 00:09:17,440
+un organisme, on va assister au développement de
+
+50
+00:09:17,440 --> 00:09:21,520
+différentes réponses immunitaires avec une mémoire immunologique.
+
+51
+00:09:22,420 --> 00:09:24,520
+La reconnaissance d'un endogène vaccinal par un
+
+52
+00:09:24,520 --> 00:09:29,060
+lymphocyte B naïf va entraîner l'activation de
+
+53
+00:09:29,060 --> 00:09:32,740
+ce lymphocyte B qui va se différencier en
+
+54
+00:09:32,740 --> 00:09:34,820
+plasmocytes producteurs d'anticorps.
+
+55
+00:09:34,820 --> 00:09:38,820
+Ces anticorps vont devoir subir deux phénomènes importants.
+
+56
+00:09:39,440 --> 00:09:43,380
+Le premier consiste à assurer une maturation d
+
+57
+00:09:43,380 --> 00:09:45,960
+'affinité à travers ce qu'on appelle l
+
+58
+00:09:45,960 --> 00:09:49,080
+'hypermutation somatique, un phénomène qui s'opère au
+
+59
+00:09:49,080 --> 00:09:51,600
+niveau des régions hypervariables des immunoglobulines.
+
+60
+00:09:53,120 --> 00:09:57,380
+Deuxièmement, comme ces anticorps sont initialement de type
+
+61
+00:09:57,380 --> 00:10:00,120
+IgM, ils vont subir un deuxième phénomène qui
+
+62
+00:10:00,120 --> 00:10:03,120
+s'appelle la commutation ésotépique qui consiste tout
+
+63
+00:10:03,120 --> 00:10:06,400
+simplement à convertir l'IgM en d'autres
+
+64
+00:10:06,400 --> 00:10:09,420
+classes, notamment l'IgG et l'IgA.
+
+65
+00:10:10,040 --> 00:10:12,920
+Avec ces plasmocytes producteurs d'anticorps spécifiques, on
+
+66
+00:10:12,920 --> 00:10:15,900
+va assister également à la maturation de lymphocytes
+
+67
+00:10:15,900 --> 00:10:17,740
+B et de plasmocytes mémoires.
+
+68
+00:10:19,600 --> 00:10:24,220
+Souvent, ces antigènes vaccinaux nécessitent également une coopération
+
+69
+00:10:24,220 --> 00:10:26,680
+entre des lymphocytes B et des lymphocytes T,
+
+70
+00:10:27,140 --> 00:10:28,720
+notamment des lymphocytes helper.
+
+71
+00:10:29,410 --> 00:10:32,440
+Ces lymphocytes helper vont, grâce à la coopération
+
+72
+00:10:32,440 --> 00:10:36,360
+entre lymphocytes B et T, assurer ou favoriser
+
+73
+00:10:36,360 --> 00:10:39,360
+ce phénomène de commutation ésotépique dont je viens
+
+74
+00:10:39,360 --> 00:10:39,720
+de parler.
+
+75
+00:10:41,280 --> 00:10:45,360
+Également, certains antigènes vaccinaux vont nécessiter, à côté
+
+76
+00:10:45,360 --> 00:10:48,540
+de la réponse humorale qui est prédominante, une
+
+77
+00:10:48,540 --> 00:10:49,400
+réponse cellulaire.
+
+78
+00:10:50,340 --> 00:10:52,980
+Cette réponse cellulaire sera mediée par des lymphocytes
+
+79
+00:10:52,980 --> 00:10:56,940
+cytotoxiques, appelés CTL, qui vont donc assurer cette
+
+80
+00:10:56,940 --> 00:10:58,840
+branche cellulaire de la réponse immunitaire.
+
+81
+00:11:00,080 --> 00:11:04,340
+À l'image de la réponse mémoire médiée
+
+82
+00:11:04,340 --> 00:11:06,700
+par des lymphocytes B et plasmocytes mémoires, on
+
+83
+00:11:06,700 --> 00:11:09,900
+va assister également à des lymphocytes T mémoires
+
+84
+00:11:09,900 --> 00:11:13,640
+qui vont compléter cette mémoire immunologique nécessaire à
+
+85
+00:11:13,640 --> 00:11:19,900
+maintenir la réponse productrice contre les agents pathogènes
+
+86
+00:11:19,900 --> 00:11:24,400
+pour prévenir une nouvelle infection liée à cet
+
+87
+00:11:24,400 --> 00:11:26,860
+antigène vaccinal initialement administré.
+
+88
+00:12:29,040 --> 00:12:33,580
+Comme la réponse immunitaire post-vaccinale est essentiellement
+
+89
+00:12:33,580 --> 00:12:36,080
+d'ordre humoral, on va voir à travers
+
+90
+00:12:36,080 --> 00:12:41,680
+ce graphique qui dessine la cinétique d'évolution
+
+91
+00:12:41,680 --> 00:12:45,580
+des différents anticorps produits lors de la vaccination,
+
+92
+00:12:46,160 --> 00:12:48,200
+mais également leur concentration.
+
+93
+00:12:48,200 --> 00:12:50,160
+On va voir que lors de la première
+
+94
+00:12:50,160 --> 00:12:52,480
+exposition à cet antigène vaccinal, on va assister
+
+95
+00:12:52,480 --> 00:12:53,980
+à ce qu'on appelle la réponse primaire.
+
+96
+00:12:54,580 --> 00:12:57,540
+Cette réponse primaire fait simplement suite à l
+
+97
+00:12:57,540 --> 00:13:00,280
+'activation des lymphocytes B qui se différencie en
+
+98
+00:13:00,280 --> 00:13:01,740
+plasmocytes producteurs d'IgM.
+
+99
+00:13:02,300 --> 00:13:08,120
+Ces IgM vont diminuer pour disparaître et laisser
+
+100
+00:13:08,120 --> 00:13:11,120
+la face après à l'apparition des IgG
+
+101
+00:13:11,120 --> 00:13:13,760
+ou bien d'autres classes, notamment les IgA,
+
+102
+00:13:13,760 --> 00:13:16,960
+suite à l'application de cette collaboration entre
+
+103
+00:13:16,960 --> 00:13:18,520
+les lymphocytes T et les lymphocytes B, mais
+
+104
+00:13:18,520 --> 00:13:21,900
+également à un début de l'installation de
+
+105
+00:13:21,900 --> 00:13:24,200
+cellules de mémoire immunologique.
+
+106
+00:13:25,020 --> 00:13:27,760
+Lors de la deuxième exposition à l'antigène
+
+107
+00:13:27,760 --> 00:13:30,760
+vaccinal, on va assister à une réponse secondaire.
+
+108
+00:13:31,760 --> 00:13:34,020
+Cette réponse secondaire fait suite à l'activation
+
+109
+00:13:34,020 --> 00:13:38,620
+des lymphocytes T avec cette mémoire immunologique qui
+
+110
+00:13:38,620 --> 00:13:39,180
+s'installe.
+
+111
+00:13:39,180 --> 00:13:42,600
+Cette réponse immunitaire secondaire est caractérisée par le
+
+112
+00:13:42,600 --> 00:13:43,680
+fait qu'elle est 1.
+
+113
+00:13:43,900 --> 00:13:44,800
+précoce 2.
+
+114
+00:13:45,260 --> 00:13:47,260
+durable dans le temps et 3.
+
+115
+00:13:47,260 --> 00:13:47,960
+plus intense.
+
+116
+00:13:48,060 --> 00:13:49,660
+Vous voyez un petit peu le plateau des
+
+117
+00:13:49,660 --> 00:13:50,080
+IgG.
+
+118
+00:13:50,900 --> 00:13:54,840
+Elle est également caractérisée par des immunoglobulins, des
+
+119
+00:13:54,840 --> 00:13:58,040
+anticorps de forte affinité parce qu'il y
+
+120
+00:13:58,040 --> 00:14:00,800
+avait ce phénomène de permutation somatique qui permet
+
+121
+00:14:00,800 --> 00:14:03,480
+aux anticorps d'avoir une meilleure affinité vis
+
+122
+00:14:03,480 --> 00:14:04,580
+-à-vis de l'antigène vaccinal.
+
+123
+00:14:09,030 --> 00:14:11,530
+Un autre aspect qui est aussi important lorsqu
+
+124
+00:14:11,530 --> 00:14:14,450
+'on parle des mécanismes protecteurs, c'est que
+
+125
+00:14:14,450 --> 00:14:16,470
+ces derniers dépendent justement du type de vaccin.
+
+126
+00:14:17,110 --> 00:14:20,410
+Généralement, on distingue plusieurs catégories de vaccins.
+
+127
+00:14:21,090 --> 00:14:23,730
+Vous voyez sur la colonne à gauche, soit
+
+128
+00:14:23,730 --> 00:14:26,270
+des vaccins dits vivants atténués, soit des vaccins
+
+129
+00:14:26,270 --> 00:14:29,970
+dits inertes ou entiers qui sont inactivés, des
+
+130
+00:14:29,970 --> 00:14:32,750
+vaccins à la base de toxines, qu'on
+
+131
+00:14:32,750 --> 00:14:35,450
+appelle des toxoïdes, puis des vaccins dits sous
+
+132
+00:14:35,450 --> 00:14:38,390
+-unités ou des vaccins antigéniques, puis des vaccins
+
+133
+00:14:38,390 --> 00:14:40,390
+de type polysaccharidique, et à la fin des
+
+134
+00:14:40,390 --> 00:14:42,550
+vaccins dits conjugués.
+
+135
+00:14:43,490 --> 00:14:45,730
+Face à chaque catégorie, vous avez un ensemble
+
+136
+00:14:45,730 --> 00:14:48,270
+de pathogènes pour lesquels on vaccine.
+
+137
+00:14:48,910 --> 00:14:51,910
+L'exemple ici des vaccins de type pollu
+
+138
+00:14:51,910 --> 00:14:55,190
+oral ou AOR, ça veut dire rejol, orion,
+
+139
+00:14:55,410 --> 00:14:56,730
+rubiol ou varicel.
+
+140
+00:14:57,070 --> 00:14:59,930
+Ils induisent donc une réponse de type anticorps
+
+141
+00:14:59,930 --> 00:15:02,470
+avec des anticorps neutralisants associés à une réponse
+
+142
+00:15:02,470 --> 00:15:05,450
+de type laplusitaire CD4, CD8.
+
+143
+00:15:05,450 --> 00:15:09,490
+Alors que le vaccin du BCG, c'est
+
+144
+00:15:09,490 --> 00:15:11,550
+quasiment des laplusités CD4.
+
+145
+00:15:12,190 --> 00:15:15,470
+Par contre ici, dans la famille des vaccins
+
+146
+00:15:15,470 --> 00:15:18,250
+dits inactivés, l'hépatite A c'est quasiment
+
+147
+00:15:18,250 --> 00:15:21,510
+uniquement des anticorps dits neutralisants, de la même
+
+148
+00:15:21,510 --> 00:15:24,610
+façon pour les vaccins de type toxoïdes.
+
+149
+00:15:25,350 --> 00:15:27,550
+Vous allez distinguer ici, lorsque j'arrive au
+
+150
+00:15:27,550 --> 00:15:31,310
+niveau des vaccins dits polysaccharidiques, vous avez type
+
+151
+00:15:31,310 --> 00:15:34,910
+pneumocoque, myagocoque, lymophilus, on n'a que des
+
+152
+00:15:34,910 --> 00:15:38,070
+anticorps dits de type opsonisant, dirigés contre la
+
+153
+00:15:38,070 --> 00:15:38,450
+capsule.
+
+154
+00:15:39,070 --> 00:15:40,550
+Il n'y a pas visiblement de mémoire
+
+155
+00:15:40,550 --> 00:15:41,170
+immunologique.
+
+156
+00:15:41,850 --> 00:15:45,290
+Par contre, lorsqu'on conjugue ces vaccins à
+
+157
+00:15:45,290 --> 00:15:49,190
+des protéines, ce sont des vaccins conjugués, on
+
+158
+00:15:49,190 --> 00:15:51,990
+va assister donc certes à des anticorps dits
+
+159
+00:15:51,990 --> 00:15:55,690
+protecteurs de type opsonisant, mais aussi à l
+
+160
+00:15:55,690 --> 00:15:57,290
+'installation d'une réponse mémoire.
+
+161
+00:15:57,290 --> 00:16:00,150
+Voilà un petit peu pour comprendre la différence
+
+162
+00:16:00,150 --> 00:16:04,930
+entre le type de réponse immunitaire protectrice qui
+
+163
+00:16:04,930 --> 00:16:06,950
+est justement conditionné par le type de vaccin
+
+164
+00:16:06,950 --> 00:16:09,190
+et la famille ou la catégorie à laquelle
+
+165
+00:16:09,190 --> 00:16:11,690
+elle appartient, en fonction de l'agent pathogène
+
+166
+00:16:11,690 --> 00:16:13,970
+contre lequel ce vaccin est administré.
+
+167
+00:17:31,990 --> 00:17:34,710
+Afin de mettre encore l'accent sur les
+
+168
+00:17:34,710 --> 00:17:38,090
+particularités de ces vaccins polysaccharidiques, comme vous le
+
+169
+00:17:38,090 --> 00:17:40,550
+savez, les antigènes à la base de polysaccharides,
+
+170
+00:17:40,550 --> 00:17:44,750
+sont directement activés de l'infocyte B et
+
+171
+00:17:44,750 --> 00:17:46,750
+sans avoir recours à l'aide de l
+
+172
+00:17:46,750 --> 00:17:47,350
+'infocyte T.
+
+173
+00:17:48,030 --> 00:17:52,190
+Ils sont dits antigènes timorindépendants, donc lorsqu'ils
+
+174
+00:17:52,190 --> 00:17:54,950
+seront connus par le VCR, ils vont induire
+
+175
+00:17:54,950 --> 00:17:58,170
+l'activation et la différenciation de l'infocyte
+
+176
+00:17:58,170 --> 00:18:04,050
+B en plasmocytes, produisant uniquement des IgM et
+
+177
+00:18:04,050 --> 00:18:08,770
+parfois des IgG2, sans soi-disant aboutir à
+
+178
+00:18:08,770 --> 00:18:10,050
+des cellules mémoires, donc il n'y a
+
+179
+00:18:10,050 --> 00:18:11,270
+pas de mémoire immunologique.
+
+180
+00:18:12,050 --> 00:18:14,710
+Par contre, lorsqu'on les conjugue à une
+
+181
+00:18:14,710 --> 00:18:19,510
+protéine porteuse, ils vont devoir solliciter l'aide
+
+182
+00:18:19,510 --> 00:18:20,910
+de l'infocyte CT4.
+
+183
+00:18:21,870 --> 00:18:26,690
+Ces protéines porteuses vont justement permettre cette collaboration
+
+184
+00:18:26,690 --> 00:18:29,890
+facile avec l'infocyte T, qui va aider
+
+185
+00:18:29,890 --> 00:18:33,090
+à travers des messages cytocliniques, de l'infocyte
+
+186
+00:18:33,090 --> 00:18:35,850
+B à sa différenciation plasmocyte, capable de produire
+
+187
+00:18:35,850 --> 00:18:37,810
+aussi bien des IgM, mais également d'autres
+
+188
+00:18:37,810 --> 00:18:40,130
+classes, en l'occurrence des IgG1 et des
+
+189
+00:18:40,130 --> 00:18:40,570
+IgG3.
+
+190
+00:18:40,750 --> 00:18:43,210
+En même temps, ils vont générer des infocytes
+
+191
+00:18:43,210 --> 00:18:43,770
+mémoires.
+
+192
+00:18:44,650 --> 00:18:49,530
+Pourquoi on conjugue ces antigènes polysaccharides, ces vaccins
+
+193
+00:18:49,530 --> 00:18:54,190
+polysaccharides, parce que certains agents pathogènes sont dits
+
+194
+00:18:54,190 --> 00:18:58,170
+encapsulés, qui ont une capsule riche en polysaccharides,
+
+195
+00:18:58,990 --> 00:19:01,790
+par exemple, le plus fréquentant est le pneumococque,
+
+196
+00:19:01,910 --> 00:19:03,930
+l'hémophilus et le méningococque.
+
+197
+00:19:04,150 --> 00:19:07,390
+Ces agents pathogènes sont capables de provoquer des
+
+198
+00:19:07,390 --> 00:19:10,530
+infections sévères chez le nouveau-né, notamment aux
+
+199
+00:19:10,530 --> 00:19:11,110
+déménagites.
+
+200
+00:19:12,130 --> 00:19:16,230
+Ils confèrent très peu d'immunité chez le
+
+201
+00:19:16,230 --> 00:19:17,050
+nouveau-né vacciné.
+
+202
+00:19:17,190 --> 00:19:18,970
+Du coup, il faut les associer à la
+
+203
+00:19:18,970 --> 00:19:22,570
+conjugaison pour pouvoir protéger cette tranche d'âge
+
+204
+00:19:23,030 --> 00:19:25,210
+contre des infections sévères liées à ces agents
+
+205
+00:19:25,210 --> 00:19:26,310
+pathogènes.
+
+206
+00:20:11,080 --> 00:20:15,120
+D'autre part, certains vaccins nécessitent l'association
+
+207
+00:20:15,120 --> 00:20:15,880
+à des adjuvants.
+
+208
+00:20:16,780 --> 00:20:20,760
+Les adjuvants sont des substances immunostimulantes, des systèmes
+
+209
+00:20:20,760 --> 00:20:25,040
+immunitaires, très utilisées surtout dans les vaccins inactivés,
+
+210
+00:20:25,240 --> 00:20:28,920
+afin d'améliorer leur immunogénicité en retardant leur
+
+211
+00:20:28,920 --> 00:20:32,620
+élimination de l'organisme et en induisant également
+
+212
+00:20:32,620 --> 00:20:36,720
+une réaction inflammatoire locale par activation du macrophage,
+
+213
+00:20:36,720 --> 00:20:41,040
+voire même en induisant un granulone local au
+
+214
+00:20:41,040 --> 00:20:43,580
+site de l'injection du vaccin, comme ils
+
+215
+00:20:43,580 --> 00:20:45,920
+peuvent agir également sur les cellules présentatrices d
+
+216
+00:20:45,920 --> 00:20:49,460
+'antigènes, notamment les macrophages, en stimulant les costumes
+
+217
+00:20:49,460 --> 00:20:51,760
+d'activation des lymphocytes, notamment T.
+
+218
+00:20:52,380 --> 00:20:55,920
+Les plus utilisées depuis des années, ce sont
+
+219
+00:20:55,920 --> 00:20:59,560
+les selles d'aluminium et ces derniers sont
+
+220
+00:20:59,560 --> 00:21:03,140
+capables d'induire une bonne réponse anticorps.
+
+221
+00:21:03,140 --> 00:21:07,040
+Cependant, ces selles d'aluminium sont incriminées dans
+
+222
+00:21:07,040 --> 00:21:09,240
+l'induction de certaines toxicités.
+
+223
+00:21:10,520 --> 00:21:13,600
+Un exemple de toxicité liée à l'utilisation
+
+224
+00:21:13,600 --> 00:21:17,360
+de ces adjuvants à base d'aluminium est
+
+225
+00:21:17,360 --> 00:21:19,240
+une maladie qu'on appelle l'aminophagite à
+
+226
+00:21:19,240 --> 00:21:19,900
+macrophages.
+
+227
+00:21:20,860 --> 00:21:23,720
+C'est pourquoi on a tendance actuellement à
+
+228
+00:21:23,720 --> 00:21:26,520
+les supplanter par d'autres types d'adjuvants
+
+229
+00:21:26,520 --> 00:21:31,040
+non-alumiques, type phosphate de calcium, qui sont
+
+230
+00:21:31,040 --> 00:21:35,900
+couramment utilisés dans le vaccin d'Evteri et
+
+231
+00:21:35,900 --> 00:21:39,160
+Thetanos polio, et d'autres essais aussi, notamment
+
+232
+00:21:39,160 --> 00:21:42,360
+dans les vaccins de la grippe, où on
+
+233
+00:21:42,360 --> 00:21:45,520
+de plus en plus utilise des substances type
+
+234
+00:21:45,520 --> 00:21:47,200
+scalène, liposome, virose.
+
+235
+00:21:51,830 --> 00:21:54,490
+Il y a également lieu de considérer certains
+
+236
+00:21:54,490 --> 00:21:57,570
+facteurs pouvant influencer la qualité de la réponse
+
+237
+00:21:57,570 --> 00:21:59,990
+immunitaire post-vaccinale, notamment au long de l
+
+238
+00:21:59,990 --> 00:22:00,130
+'âge.
+
+239
+00:22:00,990 --> 00:22:03,110
+Ainsi, chez le nouveau-né, la présence d
+
+240
+00:22:03,110 --> 00:22:05,590
+'anticorps maternels peut inhiber la qualité de la
+
+241
+00:22:05,590 --> 00:22:07,250
+réponse immunitaire post-vaccinale.
+
+242
+00:22:07,790 --> 00:22:11,150
+De même, les antigènes à base de polysaccharides
+
+243
+00:22:11,150 --> 00:22:14,250
+sont généralement inefficaces jusqu'à l'âge de
+
+244
+00:22:14,250 --> 00:22:14,610
+2 ans.
+
+245
+00:22:14,950 --> 00:22:17,290
+C'est pourquoi, chez cette tranche d'âge,
+
+246
+00:22:17,350 --> 00:22:20,310
+il est préférable, ou même recommandé, d'utiliser
+
+247
+00:22:20,310 --> 00:22:23,470
+plutôt des vaccins qui sont conjugués.
+
+248
+00:22:24,070 --> 00:22:26,750
+Chez les personnes âgées, où on assiste à
+
+249
+00:22:26,750 --> 00:22:30,530
+un vieillissement du système immunitaire, avec diminution de
+
+250
+00:22:30,530 --> 00:22:32,850
+la réactivité vis-à-vis du vaccin, il
+
+251
+00:22:32,850 --> 00:22:35,990
+y a souvent une diminution des titres d
+
+252
+00:22:35,990 --> 00:22:39,790
+'anticorps protecteurs, ce qui oblige parfois à procéder
+
+253
+00:22:39,790 --> 00:22:42,890
+à une réactivation du système immunitaire par des
+
+254
+00:22:42,890 --> 00:22:44,870
+rappels vaccinaux, parce que c'est nécessaire.
+
+255
+00:22:45,870 --> 00:22:48,630
+Le troisième facteur qui est aussi important, c
+
+256
+00:22:48,630 --> 00:22:51,770
+'est que devant des états de difficultés nucléaires,
+
+257
+00:22:52,190 --> 00:22:56,730
+qui soient héréditaires ou acquis, certains vaccins peuvent
+
+258
+00:22:56,730 --> 00:23:02,470
+être absolument contre-indiqués, ou bien ils doivent
+
+259
+00:23:02,470 --> 00:23:05,570
+être déférés, si le cas des vaccins vivants
+
+260
+00:23:05,570 --> 00:23:06,070
+atténués.
+
+261
+00:23:06,070 --> 00:23:09,590
+Les exemples sont multiples, notamment la rubiole, la
+
+262
+00:23:09,590 --> 00:23:13,690
+varicelle, la rougeole, les orients, l'uruslapolio, vaccins
+
+263
+00:23:13,690 --> 00:23:17,910
+de la fébrule jaune, BCG, qui imposent des
+
+264
+00:23:17,910 --> 00:23:22,030
+précautions strictes d'administration, soit de contre-indication
+
+265
+00:23:22,030 --> 00:23:24,550
+absolue, soit d'administration déférée.
+
+266
+00:23:26,070 --> 00:23:29,030
+En cas de maladies chroniques, notamment en cas
+
+267
+00:23:29,030 --> 00:23:32,330
+d'insuffisance rénale, pathopathie, pneumopathie, cardiopathie ou autre,
+
+268
+00:23:32,330 --> 00:23:38,990
+ces patients, vu leur état clinique, ou le
+
+269
+00:23:38,990 --> 00:23:43,070
+sois-disant déficit immunitaire que ces pathologies peuvent
+
+270
+00:23:43,070 --> 00:23:46,590
+générer, nécessitent d'être vaccinés le plus précocement
+
+271
+00:23:46,590 --> 00:23:50,470
+possible avant l'installation d'un déficit immunitaire
+
+272
+00:23:50,470 --> 00:23:52,250
+qui leur posera un problème.
+
+273
+00:23:52,250 --> 00:23:55,830
+Donc, il est généralement recommandé de les vacciner
+
+274
+00:23:55,830 --> 00:24:00,070
+assez précocement contre la grippe, ou bien contre
+
+275
+00:24:00,070 --> 00:24:03,030
+le pneumococque, le mélingococque, les hépatites virales, afin
+
+276
+00:24:03,030 --> 00:24:05,650
+de les protéger au maximum avant l'installation
+
+277
+00:24:05,650 --> 00:24:07,470
+d'un état de déficit immunitaire.
+
+278
+00:25:36,900 --> 00:25:40,420
+Pour finir avec ces textes de la vaccination,
+
+279
+00:25:41,380 --> 00:25:43,480
+quelques mots sur les nouvelles approches vaccinales.
+
+280
+00:25:44,620 --> 00:25:47,980
+Dites assez approches modernes de vaccination, ils visent
+
+281
+00:25:47,980 --> 00:25:49,520
+essentiellement certains types de cancers.
+
+282
+00:25:50,520 --> 00:25:52,920
+L'exemple le plus connu étant le vaccin
+
+283
+00:25:52,920 --> 00:25:56,320
+dirigé contre le papillomavirus humain, HPV.
+
+284
+00:25:56,620 --> 00:25:59,320
+Comme vous le savez, le HPV est incriminé
+
+285
+00:25:59,320 --> 00:26:01,780
+dans la survenue du cancer de colitéra chez
+
+286
+00:26:01,780 --> 00:26:02,180
+la femme.
+
+287
+00:26:03,080 --> 00:26:04,900
+C'est un cancer virulent induit.
+
+288
+00:26:04,900 --> 00:26:10,920
+Cette vaccination, en utilisant des protéines qui ressemblent
+
+289
+00:26:10,920 --> 00:26:12,660
+ou qui miment les particules virales de l
+
+290
+00:26:12,660 --> 00:26:16,460
+'HPV, qu'on appelle VBL, pour Virus Particles
+
+291
+00:26:16,460 --> 00:26:21,480
+Like, vont être utilisées pour induire la production
+
+292
+00:26:21,480 --> 00:26:23,840
+d'anticorneutralisants vis-à-vis du virus au
+
+293
+00:26:23,840 --> 00:26:26,620
+niveau de la surface de l'épithélium du
+
+294
+00:26:26,620 --> 00:26:26,980
+colitéra.
+
+295
+00:26:27,860 --> 00:26:30,760
+La deuxième approche de vaccination contre le tumor
+
+296
+00:26:30,760 --> 00:26:35,400
+utilise des extraits antigéniques issus d'antigènes associés
+
+297
+00:26:35,400 --> 00:26:38,460
+au tumor, comme les antigènes MAJ, qui sont
+
+298
+00:26:38,460 --> 00:26:40,960
+généralement exprimés par certains types de cancers comme
+
+299
+00:26:40,960 --> 00:26:42,780
+le cancer de la bici ou l'anum
+
+300
+00:26:42,780 --> 00:26:43,100
+autre.
+
+301
+00:26:43,100 --> 00:26:48,380
+L'utilisation de ces extraits antigéniques va permettre
+
+302
+00:26:48,380 --> 00:26:52,760
+de renforcer la réponse immunitaire de l'organisme,
+
+303
+00:26:52,960 --> 00:26:58,540
+surtout de type CTL, pour renforcer les approches
+
+304
+00:26:58,540 --> 00:27:01,940
+thérapeutiques qui sont adoptées pour le traitement de
+
+305
+00:27:01,940 --> 00:27:02,680
+ces types de cancers.
+
+306
+00:27:03,680 --> 00:27:08,520
+La deuxième approche moderne de cette vaccination s
+
+307
+00:27:08,520 --> 00:27:11,480
+'appelle vaccin génique ou vaccin utilisant de l
+
+308
+00:27:11,480 --> 00:27:11,820
+'ADN.
+
+309
+00:27:11,820 --> 00:27:15,760
+Il consiste à introduire dans une cellule un
+
+310
+00:27:15,760 --> 00:27:18,080
+ADN qui va coder pour une protéine antigénique.
+
+311
+00:27:18,860 --> 00:27:25,160
+Cette protéine antigénique va être utilisée pour induire
+
+312
+00:27:25,160 --> 00:27:28,880
+les réponses humorales et cellulaires spécifiques de l
+
+313
+00:27:28,880 --> 00:27:29,780
+'antigène.
+
+314
+00:27:29,880 --> 00:27:35,900
+L'exemple de cette utilisation concerne le virus
+
+315
+00:27:35,900 --> 00:27:36,520
+de l'hépatite virale B.
+
+316
+00:29:46,680 --> 00:29:49,820
+Afin d'illustrer cet exemple d'approche de
+
+317
+00:29:49,820 --> 00:29:54,260
+vaccination génique utilisant l'ADN, je vous propose
+
+318
+00:29:54,260 --> 00:29:59,220
+une figure animée qui va vous décrire les
+
+319
+00:29:59,220 --> 00:30:01,530
+principales étapes de cette approche vaccinale.
+
+320
+00:30:02,360 --> 00:30:05,100
+D'abord, grâce à la technologie de génie
+
+321
+00:30:05,100 --> 00:30:09,240
+génique, le gène de codon pour la protéine
+
+322
+00:30:09,240 --> 00:30:12,640
+antigénique va être intégré dans un plasmide vaccinal
+
+323
+00:30:12,640 --> 00:30:14,580
+qui est considéré comme un vecteur.
+
+324
+00:30:15,400 --> 00:30:19,680
+Une fois injecté dans un organisme, ce plasmide
+
+325
+00:30:19,680 --> 00:30:25,460
+vaccinal va intégrer une cellule, après être transfecté
+
+326
+00:30:25,460 --> 00:30:28,880
+au niveau du noyau, et suite à quoi
+
+327
+00:30:28,880 --> 00:30:31,960
+on va assister à la transcription d'un
+
+328
+00:30:31,960 --> 00:30:40,380
+ARN messager qui va traduire un message protéique.
+
+329
+00:30:40,380 --> 00:30:43,100
+Au niveau du site plasma de la cellule,
+
+330
+00:30:44,540 --> 00:30:50,100
+ces protéines codées vont être dégradées grâce à
+
+331
+00:30:50,100 --> 00:30:52,660
+ce qu'on appelle l'immunoproteasome qui va
+
+332
+00:30:52,660 --> 00:30:55,340
+libérer un certain nombre d'antigènes.
+
+333
+00:30:55,960 --> 00:30:58,460
+Ces antigènes d'intérêt vont d'une part
+
+334
+00:30:58,460 --> 00:31:01,580
+être présentés ou assimilés au sein des molécules
+
+335
+00:31:01,580 --> 00:31:04,860
+CMH classe 1 et d'autre part libérés
+
+336
+00:31:04,860 --> 00:31:07,220
+dans le secteur extracellulaire.
+
+337
+00:31:08,220 --> 00:31:11,860
+Au premier, les molécules CMH classe 1 vont
+
+338
+00:31:11,860 --> 00:31:16,060
+s'occuper de présenter des antigènes peptidiques à
+
+339
+00:31:16,060 --> 00:31:19,340
+des lymphocytes TCD8 et ainsi induire une réponse
+
+340
+00:31:19,340 --> 00:31:23,460
+cellulaire cytotoxique, en même temps des lymphocytes TCD8
+
+341
+00:31:23,460 --> 00:31:23,920
+mémoires.
+
+342
+00:31:24,500 --> 00:31:29,480
+De l'autre côté, ces antigènes solubles dans
+
+343
+00:31:29,480 --> 00:31:32,900
+l'immunextracellulaire vont permettre à des cellules présentant
+
+344
+00:31:32,900 --> 00:31:36,460
+ces antigènes de prendre en charge ces antigènes
+
+345
+00:31:36,460 --> 00:31:41,320
+extracellulaires pour les assimiler à des molécules CMH
+
+346
+00:31:41,320 --> 00:31:43,840
+classe 2 pour les présenter de l'autre
+
+347
+00:31:43,840 --> 00:31:47,000
+côté à des lymphocytes TCD4 et ainsi induire
+
+348
+00:31:47,000 --> 00:31:48,660
+des lymphocytes T mémoires.
+
+349
+00:31:48,900 --> 00:31:52,700
+De l'autre côté, ces antigènes extracellulaires vont
+
+350
+00:31:52,700 --> 00:31:55,700
+servir, grâce à l'intervention de ces lymphocytes
+
+351
+00:31:55,700 --> 00:31:59,340
+TCD4, à l'activation des lymphocytes B pour
+
+352
+00:31:59,340 --> 00:32:02,960
+produire des anticorps grâce à la différenciation des
+
+353
+00:32:02,960 --> 00:32:06,780
+plasmocytes pour les anticorps et également à générer
+
+354
+00:32:06,780 --> 00:32:07,880
+des lymphocytes B mémoires.
+
+355
+00:32:07,980 --> 00:32:12,140
+Comme ça, on a quasiment une contribution aussi
+
+356
+00:32:12,140 --> 00:32:14,300
+bien de l'immunité morale que de l
+
+357
+00:32:14,300 --> 00:32:19,860
+'immunité cellulaire dans cette approche vaccinale qui est
+
+358
+00:32:19,860 --> 00:32:22,900
+adoptée, par exemple, contre le virus de l
+
+359
+00:32:22,900 --> 00:32:23,300
+'hépatite B.
+
+360
+00:32:26,400 --> 00:32:30,660
+Le deuxième axe de ce cours concerne l
+
+361
+00:32:30,660 --> 00:32:33,300
+'utilisation des immunoglobulines polyvalentes.
+
+362
+00:32:33,980 --> 00:32:39,600
+Les immunoglobulines polyvalentes correspondent à des immunoglobulines type
+
+363
+00:32:39,600 --> 00:32:44,340
+polyclonal ou anticorps polyclonaux qui sont issus généralement
+
+364
+00:32:44,340 --> 00:32:48,620
+de plusieurs clones de plasmocytes ayant différents ésotypes,
+
+365
+00:32:48,900 --> 00:32:51,300
+différents aldotypes et différents héliotypes.
+
+366
+00:32:51,300 --> 00:32:53,920
+Elles sont obtenues à partir de plasmas de
+
+367
+00:32:53,920 --> 00:32:56,720
+plusieurs donneurs après des procédés de purification et
+
+368
+00:32:56,720 --> 00:32:57,580
+de concentration.
+
+369
+00:32:58,580 --> 00:33:03,060
+Leur composition est majoritairement faite des GG, donc
+
+370
+00:33:03,060 --> 00:33:05,800
+plus de 95% des cas, avec une
+
+371
+00:33:05,800 --> 00:33:09,640
+distribution similaire de celle de l'homme en
+
+372
+00:33:09,640 --> 00:33:12,500
+termes de ce classe des GG1, GG2, GG3
+
+373
+00:33:12,500 --> 00:33:13,200
+et GG4.
+
+374
+00:33:13,840 --> 00:33:16,980
+Elles comportent également un faible taux d'IGA
+
+375
+00:33:16,980 --> 00:33:17,740
+et d'IGM.
+
+376
+00:33:17,740 --> 00:33:22,220
+Leur mode d'administration se fait majoritairement parfois
+
+377
+00:33:22,220 --> 00:33:25,080
+intraveineuse, mais également parfois sous-cutanée.
+
+378
+00:33:26,460 --> 00:33:29,300
+Les principaux mécanismes d'action de ces immunoglobulines
+
+379
+00:33:29,300 --> 00:33:34,560
+polyvalentes sont illustrés par la figure suivante.
+
+380
+00:33:35,480 --> 00:33:37,780
+Leur action peut s'exercer aussi bien au
+
+381
+00:33:37,780 --> 00:33:39,300
+niveau de l'immunité immune que de l
+
+382
+00:33:39,300 --> 00:33:40,220
+'immunité adaptative.
+
+383
+00:33:40,220 --> 00:33:44,460
+Comme vous allez voir, ces immunoglobulines sont capables
+
+384
+00:33:44,460 --> 00:33:49,500
+de bloquer ou d'inhiber l'activation des
+
+385
+00:33:49,500 --> 00:33:55,100
+récepteurs FC-Gamma, notamment des cellules macrophagiques ou
+
+386
+00:33:55,100 --> 00:33:56,880
+d'autres cellules de l'immunité innée.
+
+387
+00:33:58,780 --> 00:34:02,680
+Deuxièmement, elles sont douées d'une capacité d
+
+388
+00:34:02,680 --> 00:34:08,300
+'inhibition des polyglucanthrophiles, avec en l'occurrence l
+
+389
+00:34:08,300 --> 00:34:13,400
+'inhibition de la production des désidés, notamment d
+
+390
+00:34:13,400 --> 00:34:14,920
+'oxydes nétriques.
+
+391
+00:34:16,860 --> 00:34:21,880
+Ces immunoglobulines neutralisent également les composants activés du
+
+392
+00:34:21,880 --> 00:34:26,139
+complément, comme ils peuvent également neutraliser les autres
+
+393
+00:34:26,139 --> 00:34:29,179
+anticorps dans le cadre des maladies auto-immunes.
+
+394
+00:34:29,179 --> 00:34:34,440
+A côté de ça, les immunoglobulines sont douées
+
+395
+00:34:34,440 --> 00:34:36,340
+d'une capacité modulatrice vis-à-vis des
+
+396
+00:34:36,340 --> 00:34:36,860
+cytokines.
+
+397
+00:34:37,920 --> 00:34:42,460
+Elles inhibent les cytokines dites inflammatoires ou pro
+
+398
+00:34:42,460 --> 00:34:45,699
+-inflammatoires, en l'occurrence l'interleukin A beta,
+
+399
+00:34:45,980 --> 00:34:49,120
+l'interferon Gamma, l'interleukin 17, le TNF
+
+400
+00:34:49,120 --> 00:34:52,420
+alpha et les autres, avec aussi la capacité
+
+401
+00:34:52,420 --> 00:34:58,080
+d'augmenter les cytokines dites anti-inflammatoires, tels
+
+402
+00:34:58,080 --> 00:35:00,880
+que le récepteur de l'interleukin A, qui
+
+403
+00:35:00,880 --> 00:35:04,940
+est une cytokine anti-interleukin A, et également
+
+404
+00:35:04,940 --> 00:35:05,940
+l'interleukin 10.
+
+405
+00:35:06,820 --> 00:35:10,500
+Ces différents effets modulateurs sont généralement utilisés pour
+
+406
+00:35:10,500 --> 00:35:14,800
+traiter certaines maladies inflammatoires et auto-immunes.
+
+407
+00:35:14,800 --> 00:35:21,020
+A partir de ces différents mécanismes d'action
+
+408
+00:35:21,020 --> 00:35:24,740
+décrits dans la figure précédente, on peut voir
+
+409
+00:35:24,740 --> 00:35:28,240
+que les indications des immunoglobulines polyvalentes peuvent se
+
+410
+00:35:28,240 --> 00:35:31,960
+concevoir avec deux objectifs.
+
+411
+00:35:32,920 --> 00:35:37,380
+Le premier objectif étant à visée substitutive, lorsqu
+
+412
+00:35:37,380 --> 00:35:39,080
+'il s'agit de corriger un déficit immoral
+
+413
+00:35:39,080 --> 00:35:43,920
+au cours des déficits immunitaires héréditaires, notamment devant
+
+414
+00:35:43,920 --> 00:35:48,680
+les situations d'un gamma-globulinémie héréditaire, des
+
+415
+00:35:48,680 --> 00:35:52,400
+déficits immunitaires combinés sévères, des déficits immunitaires communs
+
+416
+00:35:52,400 --> 00:35:55,960
+variables qui s'accompagnent généralement d'une hypogammaglobulinémie,
+
+417
+00:35:56,220 --> 00:35:59,440
+soit modérée ou sévère, et également au cours
+
+418
+00:35:59,440 --> 00:36:00,780
+du syndrome de Biscott-Aldrich.
+
+419
+00:36:01,940 --> 00:36:05,960
+Deuxièmement, vous avez les cas d'hypogammaglobulinémie secondaire
+
+420
+00:36:05,960 --> 00:36:10,140
+à des situations pathologiques, telles que la leucémie
+
+421
+00:36:10,140 --> 00:36:11,880
+d'un fouet de chronique, le miel homme,
+
+422
+00:36:12,480 --> 00:36:15,200
+les infections à 5V sur zone après une
+
+423
+00:36:15,200 --> 00:36:18,080
+greffe leumorosaise, et les cas de sida de
+
+424
+00:36:18,080 --> 00:36:18,500
+l'enfant.
+
+425
+00:36:19,000 --> 00:36:23,220
+Ces situations, hormis l'existence d'une hypogammaglobulinémie,
+
+426
+00:36:23,900 --> 00:36:25,760
+il y a souvent des infections récurrentes qui
+
+427
+00:36:25,760 --> 00:36:29,800
+imposent l'utilisation de ces immunoglobulines à visée
+
+428
+00:36:29,800 --> 00:36:31,000
+immunomodulatrice.
+
+429
+00:36:31,980 --> 00:36:37,640
+Justement, cette deuxième indication qui vise l'aspect
+
+430
+00:36:37,640 --> 00:36:43,100
+ou un objectif immunomodulateur, visant la régulation des
+
+431
+00:36:43,100 --> 00:36:46,280
+réponses immunitaires qui sont en déséquilibre, c'est
+
+432
+00:36:46,280 --> 00:36:50,780
+le cas de l'utilisation en infectiologie, dans
+
+433
+00:36:50,780 --> 00:36:55,220
+plusieurs situations, d'infections type tétanique ou deftérique,
+
+434
+00:36:55,660 --> 00:36:58,460
+de rubiole ou de rage, Dans ce cas
+
+435
+00:36:58,460 --> 00:37:01,080
+-là, c'est une utilisation en termes de
+
+436
+00:37:01,080 --> 00:37:05,620
+séroprophylaxie, qui permet justement d'agir sur des
+
+437
+00:37:05,620 --> 00:37:09,220
+agents pathogènes qui sont très dangereux, et l
+
+438
+00:37:09,220 --> 00:37:13,120
+'administration des immunoglobulines polyvalentes permet justement de réguler
+
+439
+00:37:13,120 --> 00:37:19,040
+les réponses immunitaires et de neutraliser les toxines
+
+440
+00:37:19,040 --> 00:37:20,700
+associées à ces agents pathogènes.
+
+441
+00:37:21,400 --> 00:37:24,540
+Deuxième indication en immunomathologie qui est très connue,
+
+442
+00:37:24,540 --> 00:37:27,020
+c'est au cours de l'allo-immunisation
+
+443
+00:37:27,020 --> 00:37:32,020
+antérégis ou d'incompatibilité photomathèque antérégis, on est
+
+444
+00:37:32,020 --> 00:37:35,360
+obligé d'administrer des sérums anti-T antérégis
+
+445
+00:37:35,360 --> 00:37:38,240
+pour prévenir la survenue de cette allo-immunisation
+
+446
+00:37:38,240 --> 00:37:43,560
+qui risque de générer la maladie hémolithique du
+
+447
+00:37:43,560 --> 00:37:43,860
+nouveau-né.
+
+448
+00:37:44,440 --> 00:37:50,060
+La troisième indication qui est dans le cadre
+
+449
+00:37:50,060 --> 00:37:54,220
+de cet objectif immunomodulateur, ce sont les maladies
+
+450
+00:37:54,220 --> 00:37:55,760
+auto-immunes et inflammatoires.
+
+451
+00:37:56,160 --> 00:37:58,680
+La liste est non-exhaustive.
+
+452
+00:37:59,420 --> 00:38:02,680
+Plusieurs maladies justifient l'utilisation de ces immunoglobulines
+
+453
+00:38:02,680 --> 00:38:03,380
+polyvalentes.
+
+454
+00:38:03,540 --> 00:38:07,140
+En premier, la thrombopine auto-immune, la myasthenie,
+
+455
+00:38:07,240 --> 00:38:10,180
+maladie auto-immune aussi, maladies de Kawasaki comme
+
+456
+00:38:10,180 --> 00:38:13,460
+le vascularite, les réactions du griffon contre l
+
+457
+00:38:13,460 --> 00:38:16,800
+'hôte, les poly-radiculonibriques de Guillain-Barré, et
+
+458
+00:38:16,800 --> 00:38:17,300
+ainsi de suite.
+
+459
+00:38:17,300 --> 00:38:21,220
+Les indications sont de plus en plus larges
+
+460
+00:38:21,220 --> 00:38:24,020
+et justifient leur utilisation.
+
+461
+00:38:25,300 --> 00:38:29,000
+Le troisième et dernier axe de cette immunothérapie
+
+462
+00:38:29,000 --> 00:38:31,260
+concerne l'immunosuppression.
+
+463
+00:38:32,840 --> 00:38:37,580
+L'immunothérapie suppressive est fondée sur l'utilisation
+
+464
+00:38:37,580 --> 00:38:39,420
+de principaux traitements suivants.
+
+465
+00:38:40,060 --> 00:38:41,540
+En premier, les corticosteroïdes.
+
+466
+00:38:42,200 --> 00:38:45,040
+Deuxièmement, les médicaments immunosuppresseurs.
+
+467
+00:38:45,040 --> 00:38:48,360
+Et troisièmement, les anticorps monoclonaux.
+
+468
+00:38:49,380 --> 00:38:52,140
+Les médicaments qui sont les plus utilisés en
+
+469
+00:38:52,140 --> 00:38:56,120
+pratique ligne comme immunosuppresseurs sont les corticosteroïdes.
+
+470
+00:38:56,960 --> 00:38:58,920
+Ces derniers sont en effet doués d'une
+
+471
+00:38:58,920 --> 00:39:01,860
+double propriété qui est à la fois immunosuppressive
+
+472
+00:39:01,860 --> 00:39:03,160
+et anti-inflammatoire.
+
+473
+00:39:04,000 --> 00:39:08,560
+Ces médicaments sont capables d'inhiber plusieurs acteurs
+
+474
+00:39:08,560 --> 00:39:10,800
+de l'immunité, à savoir des lapocytes T,
+
+475
+00:39:10,800 --> 00:39:12,980
+des lapocytes B en inhibant la production d
+
+476
+00:39:12,980 --> 00:39:16,680
+'anticorps, également la production de cytokines.
+
+477
+00:39:17,720 --> 00:39:21,220
+Ils inhibent aussi l'activité de cellules macrophagiques
+
+478
+00:39:21,220 --> 00:39:22,480
+et des neutrophiles.
+
+479
+00:39:23,520 --> 00:39:25,680
+Ils inhibent également la production des dérivés de
+
+480
+00:39:25,680 --> 00:39:29,700
+la sédarachidonique en inhibant l'enzyme clé de
+
+481
+00:39:29,700 --> 00:39:32,900
+la synthèse de ces prostaglandines et le quatrième,
+
+482
+00:39:33,000 --> 00:39:35,080
+notamment la phospholipase A2.
+
+483
+00:39:36,500 --> 00:39:40,420
+Troisièmement, vous avez donc l'action inhibitrice sur
+
+484
+00:39:40,420 --> 00:39:43,020
+les protéines et les dérivés d'azote, notamment
+
+485
+00:39:43,020 --> 00:39:48,880
+l'oxyde nétrique, en inhibant la synthèse de
+
+486
+00:39:48,880 --> 00:39:53,360
+ces dérivés d'azote en agissant sur la
+
+487
+00:39:53,360 --> 00:39:54,340
+NO-synthase.
+
+488
+00:39:55,280 --> 00:39:59,300
+Puis en dernier, ces corticosteroïdes sont capables d
+
+489
+00:39:59,300 --> 00:40:01,740
+'induire la puctose des thémocytes et des lapocytes
+
+490
+00:40:01,740 --> 00:40:02,320
+T activés.
+
+491
+00:40:04,100 --> 00:40:08,580
+Puis en deuxième lieu, les molécules dites proprement
+
+492
+00:40:08,580 --> 00:40:14,640
+immunosuppressives, ces derniers sont classés généralement selon leurs
+
+493
+00:40:14,640 --> 00:40:17,720
+modes d'action en six principales catégories.
+
+494
+00:40:18,340 --> 00:40:24,200
+On distingue des molécules antimétabolites, des anticalcinerines, des
+
+495
+00:40:24,200 --> 00:40:29,800
+antimétotiques, des molécules antiprolifératives, ce qu'on appelle
+
+496
+00:40:29,800 --> 00:40:35,440
+des sérums antilymphocytaires, appelés aussi globulines antithémocytes ou
+
+497
+00:40:35,440 --> 00:40:39,160
+ATG ou timoglobulines, et puis en dernier, les
+
+498
+00:40:39,160 --> 00:40:41,220
+inhibiteurs sélectifs de la co-stimulation.
+
+499
+00:42:57,000 --> 00:43:01,860
+Afin d'illustrer l'action des différents immunosuppresseurs
+
+500
+00:43:01,860 --> 00:43:04,720
+sur les cellules de l'immunité, nous allons
+
+501
+00:43:04,720 --> 00:43:08,340
+voir à travers cette figure, en l'occurrence
+
+502
+00:43:08,340 --> 00:43:12,060
+lorsqu'il s'agit d'une communication intercellulaire,
+
+503
+00:43:12,660 --> 00:43:14,080
+qu'il y ait une cellule présentatrice d
+
+504
+00:43:14,080 --> 00:43:17,960
+'antigènes, un lymphocyté, avec les différentes étapes d
+
+505
+00:43:17,960 --> 00:43:21,560
+'activation et de prolifération cellulaire, que ces molécules
+
+506
+00:43:21,560 --> 00:43:25,680
+immunosuppressives, lorsqu'elles sont administrées, agissent à plusieurs
+
+507
+00:43:25,680 --> 00:43:26,040
+niveaux.
+
+508
+00:43:26,680 --> 00:43:29,480
+Un, lorsque l'on administre un sérum antilymphocytaire,
+
+509
+00:43:30,420 --> 00:43:34,100
+qu'on appelle ATG ou timoglobuline, ces molécules
+
+510
+00:43:34,100 --> 00:43:38,000
+agissent au niveau des molécules de surface de
+
+511
+00:43:38,000 --> 00:43:41,720
+l'lymphocyté, en l'occurrence le TCR, les
+
+512
+00:43:41,720 --> 00:43:45,280
+molécules CD28 et également les molécules CMH de
+
+513
+00:43:45,280 --> 00:43:46,720
+la cellule présentatrice d'antigènes.
+
+514
+00:43:47,540 --> 00:43:49,860
+Deuxièmement, on peut agir de façon ciblée à
+
+515
+00:43:49,860 --> 00:43:52,860
+travers les inhibiteurs des signaux de co-stimulation
+
+516
+00:43:52,860 --> 00:43:57,380
+sur la molécule CD80-86 ou la molécule
+
+517
+00:43:57,380 --> 00:43:59,640
+dite B7-1-2.
+
+518
+00:43:59,640 --> 00:44:05,360
+Troisièmement, l'action des immunosuppresseurs peut intéresser la
+
+519
+00:44:05,360 --> 00:44:08,640
+voie du calcium qui est impliqué dans la
+
+520
+00:44:08,640 --> 00:44:11,160
+transduction du signal d'activation de l'lymphocyté
+
+521
+00:44:11,160 --> 00:44:16,220
+en agissant justement sur les calcinerines activées grâce
+
+522
+00:44:16,220 --> 00:44:17,440
+aux anticalcinerines.
+
+523
+00:44:18,700 --> 00:44:21,040
+Quatrièmement, vous avez une action qui s'effectue
+
+524
+00:44:21,040 --> 00:44:25,000
+au niveau du noyau grâce aux molécules dites
+
+525
+00:44:25,000 --> 00:44:29,640
+antiméthotiques et également les corticostéroïdes qui agissent sur
+
+526
+00:44:29,640 --> 00:44:33,440
+l'ADN pour l'inhiber et particulièrement en
+
+527
+00:44:33,440 --> 00:44:35,820
+agissant sur le gène qui va coder pour
+
+528
+00:44:35,820 --> 00:44:38,760
+l'interleukine 2, la cytokine, qui est impliqué
+
+529
+00:44:38,760 --> 00:44:42,360
+dans l'activation et la prolifération de l
+
+530
+00:44:42,360 --> 00:44:42,900
+'lymphocyté.
+
+531
+00:44:43,760 --> 00:44:46,520
+Cinquièmement, vous avez une action qui est dite
+
+532
+00:44:46,520 --> 00:44:51,100
+antiproliférative qui consiste à agir sur le second
+
+533
+00:44:51,100 --> 00:44:53,880
+messager de l'interleukine 2, donc une enzyme
+
+534
+00:44:53,880 --> 00:44:55,980
+qu'on appelle la rapamycine.
+
+535
+00:44:55,980 --> 00:44:59,420
+Donc vous avez les molécules anti-mTOR qui
+
+536
+00:44:59,420 --> 00:45:02,200
+inhibe cette enzyme qui régule la prolifération cellulaire
+
+537
+00:45:02,200 --> 00:45:06,560
+grâce à différentes molécules, en particulier le sirolimus
+
+538
+00:45:06,560 --> 00:45:07,200
+et autres.
+
+539
+00:45:08,000 --> 00:45:11,220
+Puis en dernier, vous avez donc des molécules
+
+540
+00:45:11,220 --> 00:45:16,320
+dites antimétabolites qui agissent sur l'ensemble du
+
+541
+00:45:16,320 --> 00:45:20,680
+métabolisme cellulaire grâce notamment à l'action exercée
+
+542
+00:45:20,680 --> 00:45:25,860
+par l'adatioprime, pour agir au niveau des
+
+543
+00:45:25,860 --> 00:45:28,600
+différents cycles de division cellulaire et de prolifération.
+
+544
+00:45:30,460 --> 00:45:34,800
+Afin de récapituler l'ensemble des mécanismes précédemment
+
+545
+00:45:34,800 --> 00:45:39,620
+décrits, ce tableau rapporte l'ensemble des molécules
+
+546
+00:45:39,620 --> 00:45:42,740
+ou de classes de molécules immunosuppressives utilisées en
+
+547
+00:45:42,740 --> 00:45:46,620
+pratique clinique avec des exemples de médicaments, notamment
+
+548
+00:45:46,620 --> 00:45:52,060
+des exemples d'antimétabolites, d'anti-calcineurines, d
+
+549
+00:45:52,060 --> 00:45:56,820
+'antimétotiques, d'antiprolifératifs ou anti-mTOR, de sérums
+
+550
+00:45:56,820 --> 00:46:03,040
+antilafricitaires et également d'anti-CD8086 comme inhibiteurs
+
+551
+00:46:03,040 --> 00:46:04,480
+des molécules de constimulation.
+
+552
+00:46:05,620 --> 00:46:07,840
+Au milieu, vous avez le principal mécanisme d
+
+553
+00:46:07,840 --> 00:46:10,860
+'action exercé par chacune de ces catégories de
+
+554
+00:46:10,860 --> 00:46:13,920
+molécules et puis à droite, vous avez les
+
+555
+00:46:13,920 --> 00:46:18,120
+indications cliniques qui sont ciblées ou bien parfois
+
+556
+00:46:18,120 --> 00:46:21,100
+communes à plusieurs pathologies.
+
+557
+00:46:21,660 --> 00:46:24,160
+C'est le cas de l'action des
+
+558
+00:46:24,160 --> 00:46:28,080
+antimétabolites pour prévenir le rejet aigu de grèves
+
+559
+00:46:28,080 --> 00:46:31,420
+d'organes, notamment de rares, ou bien au
+
+560
+00:46:31,420 --> 00:46:34,660
+cours des maladies auto-immunes, en deuxième intention
+
+561
+00:46:34,660 --> 00:46:35,400
+en l'occurrence.
+
+562
+00:46:35,600 --> 00:46:39,340
+Puis vous avez également les différentes indications concernant
+
+563
+00:46:39,340 --> 00:46:44,340
+les maladies auto-immunes, certaines indications propres, notamment
+
+564
+00:46:44,340 --> 00:46:48,520
+aux antimétotiques, en dermatologie, en médecine interne, en
+
+565
+00:46:48,520 --> 00:46:52,040
+néphrologie, même en cancérologie aussi, lorsqu'il s
+
+566
+00:46:52,040 --> 00:46:54,820
+'agit d'administrer de l'endoxan dans un
+
+567
+00:46:54,820 --> 00:46:56,160
+schéma thérapeutique particulier.
+
+568
+00:46:56,860 --> 00:47:00,140
+Et vous avez également l'immunosuppression qui est
+
+569
+00:47:00,140 --> 00:47:03,240
+nécessaire, soit disant à gérer, ou bien qui
+
+570
+00:47:03,240 --> 00:47:06,100
+est nécessaire à induire lorsque l'on utilise
+
+571
+00:47:06,100 --> 00:47:09,420
+les sérums antilafricitaires qui est très utilisé, notamment
+
+572
+00:47:09,420 --> 00:47:12,460
+pour le traitement du rejet aigu de grèves
+
+573
+00:47:12,460 --> 00:47:14,800
+d'organes solides, en l'occurrence l'ore.
+
+574
+00:47:18,260 --> 00:47:21,740
+La dernière lignée thérapeutique adoptée dans le cadre
+
+575
+00:47:21,740 --> 00:47:24,660
+de cette immunosuppression est en l'utilisation d
+
+576
+00:47:24,660 --> 00:47:25,540
+'anticorps monoclonaux.
+
+577
+00:47:26,460 --> 00:47:31,080
+Les anticorps monoclonaux correspondent à des anticorps monospécifiques
+
+578
+00:47:31,080 --> 00:47:35,080
+qui appartiennent à la famille de la biothérapie
+
+579
+00:47:35,080 --> 00:47:39,000
+et sont produits par un clone unique de
+
+580
+00:47:39,000 --> 00:47:41,280
+la fossile B, c'est-à-dire qu
+
+581
+00:47:41,280 --> 00:47:45,160
+'ils ont tous le même ézotype, le même
+
+582
+00:47:45,160 --> 00:47:46,980
+anotype et le même édiotype.
+
+583
+00:47:48,280 --> 00:47:52,120
+Donc leur intérêt a été démontré en immunopathologie,
+
+584
+00:47:53,020 --> 00:47:54,900
+mais dans beaucoup de maladies, notamment des maladies
+
+585
+00:47:54,900 --> 00:47:58,400
+auto-immunes, des maladies inflammatoires, en cancérologie et
+
+586
+00:47:58,400 --> 00:47:59,380
+également en infectiologie.
+
+587
+00:49:07,150 --> 00:49:09,490
+Tout d'abord, comment ces anticorps monoclonaux sont
+
+588
+00:49:09,490 --> 00:49:10,590
+produits ?
+
+589
+00:49:10,590 --> 00:49:12,990
+Il faut savoir que la production de ces
+
+590
+00:49:12,990 --> 00:49:16,950
+anticorps a été réalisée grâce à la mise
+
+591
+00:49:16,950 --> 00:49:18,910
+en place d'une technique de Libridon qui
+
+592
+00:49:18,910 --> 00:49:20,870
+a valu à Kohler et Milstein le pré
+
+593
+00:49:20,870 --> 00:49:22,050
+-Nobel en 1975.
+
+594
+00:49:22,590 --> 00:49:25,290
+Le principe de cette technique Libridon consiste à
+
+595
+00:49:25,290 --> 00:49:27,770
+immuniser une souris par des antigènes.
+
+596
+00:49:28,570 --> 00:49:32,950
+Cette immunisation va induire la différenciation de plusieurs
+
+597
+00:49:32,950 --> 00:49:34,610
+clones de la fossile B parmi lesquels on
+
+598
+00:49:34,610 --> 00:49:35,590
+va choisir un clone.
+
+599
+00:49:36,130 --> 00:49:37,990
+Ce clone va être fusionné à une lignée
+
+600
+00:49:37,990 --> 00:49:41,730
+myéloïde, cellule myélôme, qui va conférer à ce
+
+601
+00:49:41,730 --> 00:49:44,770
+clone B un certain degré d'immortalité.
+
+602
+00:49:45,250 --> 00:49:47,010
+C'est ce qu'on appelle justement Libridon,
+
+603
+00:49:47,210 --> 00:49:49,470
+qui émane de la fusion d'un clone
+
+604
+00:49:49,470 --> 00:49:51,130
+de la fossile B et d'une lignée
+
+605
+00:49:51,130 --> 00:49:51,870
+myélômateuse.
+
+606
+00:49:52,770 --> 00:49:56,070
+Après, on va procéder à un clonage de
+
+607
+00:49:56,070 --> 00:50:00,810
+ce Libridon issu de la fusion d'une
+
+608
+00:50:00,810 --> 00:50:02,350
+cellule myélômateuse et d'un clone B.
+
+609
+00:50:02,350 --> 00:50:06,310
+Et le clonage avec sélection de ce clone
+
+610
+00:50:06,310 --> 00:50:10,510
+B, qui prolifère de façon immortelle et continue,
+
+611
+00:50:11,990 --> 00:50:15,170
+va être suivi d'une expansion clonale avec
+
+612
+00:50:15,170 --> 00:50:19,470
+ensuite une purification des anticorps qui sont produits
+
+613
+00:50:19,470 --> 00:50:20,560
+par ce plasmocyte.
+
+614
+00:50:20,970 --> 00:50:24,210
+Et après, on aura un seul clone d
+
+615
+00:50:24,210 --> 00:50:26,690
+'anticorps monoclonaux, comme j'ai dit, qui a
+
+616
+00:50:26,690 --> 00:50:29,610
+le même ésotype, le même allotype et le
+
+617
+00:50:29,610 --> 00:50:30,350
+même édiotype.
+
+618
+00:50:33,090 --> 00:50:36,250
+Selon la composition structurelle de ces anticorps monoclonaux,
+
+619
+00:50:36,330 --> 00:50:39,110
+on va distinguer généralement quatre catégories d'anticorps.
+
+620
+00:50:39,330 --> 00:50:42,070
+Soit ce sont des anticorps complètement d'origine
+
+621
+00:50:42,070 --> 00:50:46,050
+murine, soit ce sont des anticorps chimériques, avec
+
+622
+00:50:46,050 --> 00:50:49,030
+une partie de la souris et une partie
+
+623
+00:50:49,030 --> 00:50:49,390
+de l'homme.
+
+624
+00:50:49,750 --> 00:50:52,870
+Ici, l'exemple de l'anticorps chimérique, dans
+
+625
+00:50:52,870 --> 00:50:55,550
+lequel 25% de la structure appartient à
+
+626
+00:50:55,550 --> 00:50:58,230
+la souris et 75% appartient à l
+
+627
+00:50:58,230 --> 00:50:58,330
+'homme.
+
+628
+00:50:58,330 --> 00:51:00,010
+C'est-à-dire que la partie constante
+
+629
+00:51:00,010 --> 00:51:02,010
+est entièrement d'origine humaine.
+
+630
+00:51:03,210 --> 00:51:06,530
+Troisièmement, vous avez un anticorps dit humanisé, dans
+
+631
+00:51:06,530 --> 00:51:09,670
+lequel 90% de la structure appartient à
+
+632
+00:51:09,670 --> 00:51:11,490
+l'issue de l'homme et 10%
+
+633
+00:51:11,490 --> 00:51:13,750
+appartient uniquement à la souris, c'est-à
+
+634
+00:51:13,750 --> 00:51:16,990
+-dire uniquement les régions hypervariables, qui sont d
+
+635
+00:51:16,990 --> 00:51:17,590
+'origine murine.
+
+636
+00:51:17,930 --> 00:51:18,850
+Et puis à la fin, vous avez un
+
+637
+00:51:18,850 --> 00:51:20,770
+anticorps complètement humain.
+
+638
+00:51:21,650 --> 00:51:24,370
+Pour définir la nomenclature de l'anticorps monoclonal,
+
+639
+00:51:25,010 --> 00:51:26,590
+on regarde deux composantes.
+
+640
+00:51:26,590 --> 00:51:30,510
+On regarde le préfixe et le suffixe.
+
+641
+00:51:31,090 --> 00:51:32,930
+Si je commence par le suffixe, vous avez
+
+642
+00:51:32,930 --> 00:51:36,870
+toujours ce terminisant, mahab, mahab, c'est-à
+
+643
+00:51:36,870 --> 00:51:41,890
+-dire monoclonal antibodé, qui définit justement cette appellation
+
+644
+00:51:41,890 --> 00:51:44,890
+anticorps monoclonale, alors que le préfixe va permettre
+
+645
+00:51:44,890 --> 00:51:46,370
+de nous renseigner sur l'origine.
+
+646
+00:51:47,210 --> 00:51:50,710
+Par exemple, si vous avez mon-mahab, avec
+
+647
+00:51:50,710 --> 00:51:53,910
+l'appellation, comme exemple, c'est-à-dire,
+
+648
+00:51:54,150 --> 00:51:56,490
+c'est un anticorps complètement murain.
+
+649
+00:51:57,070 --> 00:52:00,350
+Les im-mahab, vous avez donc un chimérisme,
+
+650
+00:52:01,410 --> 00:52:03,250
+c'est-à-dire, ce sont des anticorps
+
+651
+00:52:03,250 --> 00:52:03,830
+chimériques.
+
+652
+00:52:04,230 --> 00:52:06,190
+Vous avez des exemples qui sont très utilisés
+
+653
+00:52:06,190 --> 00:52:08,810
+en pratique, le rétuximab ou bien l'infliximab,
+
+654
+00:52:09,410 --> 00:52:11,410
+qui sont tout simplement des anticorps anti-CD20.
+
+655
+00:52:12,030 --> 00:52:13,230
+Vous avez également les im-mahab.
+
+656
+00:52:13,850 --> 00:52:16,810
+Les im-mahab témoignent de la qualité humanisée
+
+657
+00:52:16,810 --> 00:52:17,390
+de ces anticorps.
+
+658
+00:52:18,170 --> 00:52:21,010
+Là aussi, vous avez des exemples, surtout les
+
+659
+00:52:21,010 --> 00:52:22,430
+im-mahab ou nata-les-im-mahab.
+
+660
+00:52:22,750 --> 00:52:24,330
+Et puis à la fin, vous avez l
+
+661
+00:52:24,330 --> 00:52:27,770
+'anticorps complètement humain, qui commence par un préfixe
+
+662
+00:52:27,770 --> 00:52:30,690
+qui est mu-mahab, donc avec des exemples,
+
+663
+00:52:31,430 --> 00:52:32,890
+qui sont là aussi très connus et très
+
+664
+00:52:32,890 --> 00:52:35,990
+utilisés, la dalimu-mahab, qui est l'antithène
+
+665
+00:52:35,990 --> 00:52:36,450
+alpha.
+
+666
+00:52:40,110 --> 00:52:42,370
+À propos des modes d'action des anticorps
+
+667
+00:52:42,370 --> 00:52:46,050
+monoclonaux, on va voir que ces anticorps assurent
+
+668
+00:52:46,050 --> 00:52:50,190
+plusieurs fonctions effectrices, à différents niveaux, et de
+
+669
+00:52:50,190 --> 00:52:51,490
+différentes façons.
+
+670
+00:52:52,350 --> 00:52:55,010
+Vous avez ici, à travers les schémas, en
+
+671
+00:52:55,010 --> 00:52:58,630
+bas, comment ces anticorps monoclonaux peuvent détruire une
+
+672
+00:52:58,630 --> 00:53:01,510
+cellule cible par un simple phénomène d'ADCC,
+
+673
+00:53:01,670 --> 00:53:04,330
+c'est-à-dire une toxicité cellulaire dépendant
+
+674
+00:53:04,330 --> 00:53:06,090
+des anticorps, ou bien du complément qu'on
+
+675
+00:53:06,090 --> 00:53:06,830
+appelle CDCC.
+
+676
+00:53:07,870 --> 00:53:11,410
+Ils sont également capables d'optionniser en entourant,
+
+677
+00:53:12,470 --> 00:53:15,190
+soit disant en cerclant une cellule cible pour
+
+678
+00:53:15,190 --> 00:53:18,750
+la ramener vers une cellule phagocytaire en vue
+
+679
+00:53:18,750 --> 00:53:21,590
+de la détruire par phagocytose.
+
+680
+00:53:22,070 --> 00:53:23,910
+Vous avez donc leur capacité à activer soit
+
+681
+00:53:23,910 --> 00:53:26,730
+le complément ou bien agir sur les signaux
+
+682
+00:53:26,730 --> 00:53:29,390
+de l'apoptose, de la mort cellulaire, pour
+
+683
+00:53:29,390 --> 00:53:30,470
+détruire une cellule cible.
+
+684
+00:53:31,450 --> 00:53:35,610
+Vous avez aussi leur capacité à inhiber, à
+
+685
+00:53:35,610 --> 00:53:40,050
+neutraliser, soit l'interaction d'une cellule, d
+
+686
+00:53:40,050 --> 00:53:42,910
+'un contact cellulaire, en agissant sur des intégrines
+
+687
+00:53:42,910 --> 00:53:46,750
+exprimées par des cellules telles que les monocytes
+
+688
+00:53:46,750 --> 00:53:50,110
+ou bien les polynucléaires, ou bien sur un
+
+689
+00:53:50,110 --> 00:53:52,970
+ligand, son récepteur, lorsqu'il s'agit d
+
+690
+00:53:52,970 --> 00:53:54,810
+'agir sur des facteurs de croissance.
+
+691
+00:53:55,630 --> 00:53:58,090
+C'est l'exemple de certains tumeurs qui
+
+692
+00:53:58,090 --> 00:54:03,000
+expriment des récepteurs, des facteurs de croissance.
+
+693
+00:54:03,750 --> 00:54:06,010
+Donc le principe des anticorps monocloques consiste à
+
+694
+00:54:06,010 --> 00:54:09,270
+inhiber ces facteurs de croissance et leurs ligands
+
+695
+00:54:09,270 --> 00:54:12,750
+afin d'empêcher, de priver ces tumeurs des
+
+696
+00:54:12,750 --> 00:54:14,310
+facteurs de croissance dont il a besoin.
+
+697
+00:54:14,310 --> 00:54:17,510
+Et puis en dernier, vous avez cette capacité
+
+698
+00:54:17,510 --> 00:54:20,290
+d'immunomodulation en bloquant ce qu'on appelle
+
+699
+00:54:20,290 --> 00:54:21,970
+des molécules de co-stimulation, ce qu'on
+
+700
+00:54:21,970 --> 00:54:22,930
+appelle des checkpoints.
+
+701
+00:54:23,630 --> 00:54:26,250
+L'exemple ici qui est utilisé en cancérologie
+
+702
+00:54:26,250 --> 00:54:29,930
+par exemple, comme vous le savez, la cellule
+
+703
+00:54:29,930 --> 00:54:33,530
+tumorale, la capacité, certains cellules tumorales ont la
+
+704
+00:54:33,530 --> 00:54:37,950
+capacité d'inhiber l'action des lymphocytes tissus
+
+705
+00:54:37,950 --> 00:54:38,450
+toxiques.
+
+706
+00:54:39,730 --> 00:54:40,350
+Comment ?
+
+707
+00:54:40,350 --> 00:54:45,230
+Ils vont tout simplement utiliser des checkpoints, ils
+
+708
+00:54:45,230 --> 00:54:45,710
+les bloquent.
+
+709
+00:54:46,990 --> 00:54:49,950
+Et du coup, l'exemple ici de CTLA4
+
+710
+00:54:49,950 --> 00:54:52,630
+qui est une molécule qui utilise le même
+
+711
+00:54:52,630 --> 00:54:57,170
+ligand que le CD28 et l'injection ou
+
+712
+00:54:57,170 --> 00:55:00,110
+l'administration d'anticorps monoclonaux va permettre de
+
+713
+00:55:00,110 --> 00:55:03,010
+lever cette inhibition exercée par la cellule tumorale
+
+714
+00:55:03,630 --> 00:55:08,010
+en bloquant justement ces molécules inhibitrices qui ont
+
+715
+00:55:08,010 --> 00:55:12,870
+une action inhibitrice sur la cellule CD28 par
+
+716
+00:55:12,870 --> 00:55:13,770
+la cellule tumorale.
+
+717
+00:55:14,390 --> 00:55:17,110
+Donc ces anticorps ont des points de contrôle
+
+718
+00:55:17,110 --> 00:55:18,910
+qu'on appelle les anticorps anti-checkpoints.
+
+719
+00:56:26,230 --> 00:56:28,750
+En pratique clinique, les anticorps monoclonaux ont plusieurs
+
+720
+00:56:28,750 --> 00:56:29,370
+indications.
+
+721
+00:56:31,130 --> 00:56:33,770
+Des exemples comme les anticorps anti-TNF-alpha
+
+722
+00:56:33,770 --> 00:56:36,650
+sont utilisés au cours des maladies inflammatoires chroniques
+
+723
+00:56:36,650 --> 00:56:40,450
+et même aiguës, sévères, telles que la poulea
+
+724
+00:56:40,450 --> 00:56:45,190
+sutrimatoïde, l'arthrite juvénile idiopathique, les spondéarthropathies, le
+
+725
+00:56:45,190 --> 00:56:49,630
+rheumatisme psoriatique, les maladies inflammatoires chroniques intestinales et
+
+726
+00:56:49,630 --> 00:56:50,650
+certains chocs septiques.
+
+727
+00:56:51,410 --> 00:56:54,110
+D'autre part, les inhibiteurs de cytokines inflammatoires
+
+728
+00:56:54,110 --> 00:56:57,770
+tels que les NTLA, anti-interleukine 6, sont
+
+729
+00:56:57,770 --> 00:57:00,690
+utilisés aussi au cours des formes systémiques de
+
+730
+00:57:00,690 --> 00:57:03,170
+certaines maladies inflammatoires chroniques et également au cours
+
+731
+00:57:03,170 --> 00:57:05,970
+de certaines maladies dites anti-inflammatoires ou maladies
+
+732
+00:57:05,970 --> 00:57:07,210
+de l'inflammasome.
+
+733
+00:57:07,850 --> 00:57:10,150
+Troisièmement, vous avez une molécule qui est très
+
+734
+00:57:10,150 --> 00:57:12,890
+utilisée, on l'appelle l'oréthuximab, qui cible
+
+735
+00:57:12,890 --> 00:57:15,710
+la molécule CD20, qui caractérise les lymphocytes B,
+
+736
+00:57:16,350 --> 00:57:19,070
+au cours des lymphomes folliculaires qui surexpriment justement
+
+737
+00:57:19,070 --> 00:57:20,550
+cette molécule CD20.
+
+738
+00:57:21,170 --> 00:57:23,250
+Et puis vous avez également des formes sévères
+
+739
+00:57:23,250 --> 00:57:25,670
+et résistantes de l'APR qui sont résistantes
+
+740
+00:57:25,670 --> 00:57:27,610
+aux autres traitements tels que le méthotrexate ou
+
+741
+00:57:27,610 --> 00:57:28,570
+autres immunosuppresseurs.
+
+742
+00:57:29,130 --> 00:57:31,310
+Et puis vous avez l'oréthudiation de plus
+
+743
+00:57:31,310 --> 00:57:33,010
+en plus large en cancérologie.
+
+744
+00:57:33,510 --> 00:57:34,870
+On va voir des exemples et des modes
+
+745
+00:57:34,870 --> 00:57:37,510
+d'action sur la figure suivante.
+
+746
+00:57:39,110 --> 00:57:41,790
+Sur cette figure, vous allez voir des exemples
+
+747
+00:57:41,790 --> 00:57:45,770
+d'anticorps monoclonaux utilisés en cancérologie.
+
+748
+00:57:46,510 --> 00:57:49,750
+Notamment l'exemple ici d'anticorps anti-CD20
+
+749
+00:57:49,750 --> 00:57:54,410
+tel que l'oréthuximab ou d'autres qui
+
+750
+00:57:54,410 --> 00:57:57,910
+ciblent le CD20 au cours des lymphomes nonotchkiniens
+
+751
+00:57:57,910 --> 00:58:00,070
+ou bien au cours de l'anastasie mélaphoïque
+
+752
+00:58:00,070 --> 00:58:00,510
+chronique.
+
+753
+00:58:01,350 --> 00:58:02,870
+Il y a également d'autres qui sont
+
+754
+00:58:02,870 --> 00:58:05,070
+utilisés en cancérologie sain ou bien en cancer
+
+755
+00:58:05,070 --> 00:58:10,970
+gastrique qui ciblent le récepteur HR2, NEU c
+
+756
+00:58:10,970 --> 00:58:13,770
+'est-à-dire le facteur de croissance associé
+
+757
+00:58:13,770 --> 00:58:15,070
+au cancer du sein.
+
+758
+00:58:15,650 --> 00:58:18,130
+Et vous avez également ceux qui ciblent les
+
+759
+00:58:18,130 --> 00:58:21,890
+facteurs de croissance vasculaires, le GFR dans le
+
+760
+00:58:21,890 --> 00:58:25,250
+cancer du coulant, concernant la sphère orale et
+
+761
+00:58:25,250 --> 00:58:29,410
+d'autres également du coulant ou le myelôme
+
+762
+00:58:29,410 --> 00:58:31,630
+qui ciblent justement certaines molécules qu'on appelle
+
+763
+00:58:31,630 --> 00:58:34,950
+SLAM ce sont des molécules de signalisation associées
+
+764
+00:58:34,950 --> 00:58:36,690
+à ce type de cancer.
+
+765
+00:58:37,310 --> 00:58:39,970
+Bref, vous avez beaucoup d'applications d'anticorbonoclones
+
+766
+00:58:39,970 --> 00:58:43,810
+en cancérologie qui ont démontré leur application leur
+
+767
+00:58:43,810 --> 00:58:48,150
+intérêt clinique dans les approches thérapeutiques adoptées pour
+
+768
+00:58:48,150 --> 00:58:50,530
+traiter ce type de cancer.
+
+769
+00:58:51,190 --> 00:58:53,250
+A la fin, pour conclure sur l'ensemble
+
+770
+00:58:53,250 --> 00:58:55,970
+des axes abordés dans ce cours je reviens
+
+771
+00:58:55,970 --> 00:58:59,610
+sur quelques éléments clés pour rappeler que le
+
+772
+00:58:59,610 --> 00:59:02,650
+concept de vaccination est tout simplement l'art
+
+773
+00:59:02,650 --> 00:59:06,010
+d'induire une réponse immunitaire adaptative qui soit
+
+774
+00:59:06,010 --> 00:59:09,950
+protectrice contre un agent pathogène grâce notamment au
+
+775
+00:59:09,950 --> 00:59:11,570
+développement de la mémoire immunologique.
+
+776
+00:59:12,510 --> 00:59:16,850
+La réussite de toute stratégie vaccinale est tributaire
+
+777
+00:59:16,850 --> 00:59:19,370
+de trois principaux paramètres le premier étant le
+
+778
+00:59:19,370 --> 00:59:22,650
+type d'agent pathogène et de son écosystème.
+
+779
+00:59:23,770 --> 00:59:25,330
+Il faut dire que certains agents pathogènes tels
+
+780
+00:59:25,330 --> 00:59:28,250
+que les parasites certains virus et même des
+
+781
+00:59:28,250 --> 00:59:31,810
+bactéries il n'y a pas encore de
+
+782
+00:59:31,810 --> 00:59:34,250
+vaccins qui ont démontré leur efficacité mais leur
+
+783
+00:59:34,250 --> 00:59:34,970
+possibilité.
+
+784
+00:59:35,550 --> 00:59:37,590
+Deuxièmement, vous avez le degré d'immunogénéité du
+
+785
+00:59:37,590 --> 00:59:41,030
+vaccin et puis le système immunitaire de l
+
+786
+00:59:41,030 --> 00:59:44,250
+'ODS il faut absolument être sûr qu'il
+
+787
+00:59:44,250 --> 00:59:45,510
+n'y a pas de déficit immunitaire qui
+
+788
+00:59:45,510 --> 00:59:48,530
+empêche le développement d'une réponse immunitaire post
+
+789
+00:59:48,530 --> 00:59:49,050
+-vaccinale.
+
+790
+00:59:50,610 --> 00:59:53,510
+Deuxièmement, lorsqu'on arrive au niveau des immunoglobulins
+
+791
+00:59:53,510 --> 00:59:57,670
+polyvalents il faut rappeler que grâce à leur
+
+792
+00:59:57,670 --> 01:00:03,110
+potentiel immunomodulateur ces immunoglobulins ont actuellement des indications
+
+793
+01:00:03,110 --> 01:00:06,310
+de plus en plus larges certes à visée
+
+794
+01:00:06,310 --> 01:00:10,450
+substitutive pour corriger un déficit immunitaire et moral
+
+795
+01:00:10,450 --> 01:00:14,530
+mais également au cours des maladies infectieuses inflammatoires
+
+796
+01:00:14,530 --> 01:00:15,590
+et auto-immunes.
+
+797
+01:00:16,390 --> 01:00:19,890
+Et puis en troisième lieu l'immunothérapie suppressive
+
+798
+01:00:19,890 --> 01:00:23,910
+qui est certainement largement utilisée en pratique clinique
+
+799
+01:00:23,910 --> 01:00:27,170
+fait appel à plusieurs molécules notamment les corticoïdes,
+
+800
+01:00:27,310 --> 01:00:31,090
+les immunosuppresseurs et les anticorps monoclonaux et le
+
+801
+01:00:31,090 --> 01:00:33,510
+principe général de cette immunosuppression étant d'inhiber
+
+802
+01:00:33,510 --> 01:00:35,430
+des cellules de l'immunité à différents niveaux.
+
+803
+01:00:37,210 --> 01:00:40,070
+Les anticorps monoclonaux qui font partie de cette
+
+804
+01:00:40,070 --> 01:00:45,610
+appellation biothérapie a actuellement révolutionné le concept d
+
+805
+01:00:45,610 --> 01:00:49,690
+'immunothérapie grâce notamment à leur propriété aussi bien
+
+806
+01:00:49,690 --> 01:00:51,710
+immunosuppressive qu'immunomodulatrice.
+
+807
+01:00:55,900 --> 01:00:59,100
+Cette immunothérapie à base d'anticorps monoclonaux a
+
+808
+01:00:59,100 --> 01:01:04,660
+actuellement plusieurs applications notamment pour traiter ou prévenir
+
+809
+01:01:04,660 --> 01:01:07,680
+les rejets de greffe d'organes et d
+
+810
+01:01:07,680 --> 01:01:11,040
+'homologes pour prendre en charge des maladies inflammatoires
+
+811
+01:01:11,040 --> 01:01:14,240
+et auto-inflammatoires, des maladies infectieuses et également
+
+812
+01:01:14,240 --> 01:01:15,200
+en cancérologie.
+
+813
+01:01:16,400 --> 01:01:19,480
+Sur ce, le cours étant terminé je vous
+
+814
+01:01:19,480 --> 01:01:20,600
+remercie pour votre attention.

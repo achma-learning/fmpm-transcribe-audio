@@ -1,0 +1,1243 @@
+1
+00:00:06,020 --> 00:00:06,900
+Les fluides de l'air sont des fluides
+
+2
+00:00:06,900 --> 00:00:16,730
+de fibrine ou de protéines à l'intérieur.
+
+3
+00:00:16,950 --> 00:00:20,720
+Les fluides tels que le sang, ou le
+
+4
+00:00:20,720 --> 00:00:24,260
+liquide cephalorachidiaire, ou la lymphe, sont des déplacements
+
+5
+00:00:24,260 --> 00:00:27,080
+de ces particules, ou de certaines particules, alors
+
+6
+00:00:27,080 --> 00:00:28,640
+que d'autres restent immobiles.
+
+7
+00:00:30,260 --> 00:00:32,520
+Dans ce cas, on va assister à une
+
+8
+00:00:32,520 --> 00:00:38,160
+résistance de déplacement de ces particules à l
+
+9
+00:00:38,160 --> 00:00:39,740
+'intérieur du fluide.
+
+10
+00:00:40,480 --> 00:00:44,720
+soit un corps solide S qui est en
+
+11
+00:00:44,720 --> 00:00:49,580
+mouvement dans un liquide de viscosité n, il
+
+12
+00:00:49,580 --> 00:00:51,640
+va être soumis à deux forces.
+
+13
+00:00:51,740 --> 00:00:55,660
+Une force motrice F qui va déplacer le
+
+14
+00:00:55,660 --> 00:01:01,300
+solide ou la particule et une force résistante,
+
+15
+00:01:01,640 --> 00:01:03,260
+c'est la résistance au déplacement.
+
+16
+00:01:04,099 --> 00:01:08,100
+Donc cette force de résistance égale une constante
+
+17
+00:01:08,100 --> 00:01:12,520
+K fois la viscosité fois la vitesse.
+
+18
+00:01:14,580 --> 00:01:22,080
+Avec la constante K qui peut prendre des
+
+19
+00:01:22,080 --> 00:01:25,700
+valeurs selon la forme de la particule.
+
+20
+00:01:27,780 --> 00:01:32,200
+Et donc lorsqu'il a une forme de
+
+21
+00:01:32,200 --> 00:01:35,060
+sphère de sphère, dans ce cas-là, la
+
+22
+00:01:35,060 --> 00:01:40,460
+force de résistance égale moins 6pi fois le
+
+23
+00:01:40,460 --> 00:01:44,560
+petit rayon qui est égal à K fois
+
+24
+00:01:44,560 --> 00:01:49,580
+la vitesse de déplacement de cette particule multipliée
+
+25
+00:01:49,580 --> 00:01:52,660
+par le coefficient de viscosité.
+
+26
+00:01:53,980 --> 00:01:58,100
+Donc la migration de ces particules sous l
+
+27
+00:01:58,100 --> 00:02:02,720
+'effet de l'apesanteur est appelée l'accélération.
+
+28
+00:02:04,120 --> 00:02:06,780
+L'accélération est appelée la sédimentation.
+
+29
+00:02:08,280 --> 00:02:11,320
+C'est une migration des particules sous l
+
+30
+00:02:11,320 --> 00:02:13,380
+'effet de l'accélération de l'apesanteur et
+
+31
+00:02:13,380 --> 00:02:14,780
+qui est une cause externe.
+
+32
+00:02:16,840 --> 00:02:19,780
+Donc on peut voir cette expérience que lorsqu
+
+33
+00:02:19,780 --> 00:02:22,580
+'on met du sable ou des particules de
+
+34
+00:02:22,580 --> 00:02:25,660
+sable dans de l'eau, dans un récipient,
+
+35
+00:02:26,920 --> 00:02:32,020
+après un certain moment, les particules qui étaient
+
+36
+00:02:32,020 --> 00:02:37,240
+déplacées d'une manière aléatoire, ils vont se
+
+37
+00:02:37,240 --> 00:02:42,080
+déposer au fond du récipient pour donner un
+
+38
+00:02:42,080 --> 00:02:42,460
+sédiment.
+
+39
+00:02:42,580 --> 00:02:44,040
+C'est ce qu'on appelle la sédimentation.
+
+40
+00:02:44,620 --> 00:02:46,720
+Donc la sédimentation c'est un déplacement sous
+
+41
+00:02:46,720 --> 00:02:49,240
+l'action de l'accélération de l'apesanteur.
+
+42
+00:02:50,100 --> 00:02:52,780
+La vitesse de sédimentation c'est une vitesse
+
+43
+00:02:52,780 --> 00:02:58,120
+qui va mesurer le déplacement de ces particules
+
+44
+00:02:58,120 --> 00:03:00,380
+à l'intérieur d'un fluide tel que
+
+45
+00:03:00,380 --> 00:03:04,780
+les globules rouges lorsqu'ils sont sédimentés au
+
+46
+00:03:04,780 --> 00:03:08,720
+niveau d'un flacon pour donner une sédimentation.
+
+47
+00:03:09,480 --> 00:03:13,840
+Donc la vitesse de sédimentation est calculée d
+
+48
+00:03:13,840 --> 00:03:17,080
+'après les relations qu'on a vues, la
+
+49
+00:03:17,080 --> 00:03:20,160
+loi de Stokes qui dit que la résistance
+
+50
+00:03:20,160 --> 00:03:23,320
+est également 6 pi nR fois la vitesse
+
+51
+00:03:23,320 --> 00:03:28,360
+puisqu'on a pris comme corps de déplacement
+
+52
+00:03:28,360 --> 00:03:29,100
+cette sphère.
+
+53
+00:03:30,300 --> 00:03:32,800
+Et la force motrice c'est la masse
+
+54
+00:03:32,800 --> 00:03:37,600
+fois l'apesanteur moins la masse du liquide
+
+55
+00:03:37,600 --> 00:03:41,820
+ou du volume déplacé fois l'accélération de
+
+56
+00:03:41,820 --> 00:03:42,320
+l'apesanteur.
+
+57
+00:03:42,320 --> 00:03:45,780
+Et donc on peut faire lorsqu'il y
+
+58
+00:03:45,780 --> 00:03:47,840
+a l'équilibre, l'égalité entre les deux
+
+59
+00:03:47,840 --> 00:03:51,580
+forces, on va calculer la vitesse de déplacement
+
+60
+00:03:51,580 --> 00:03:54,640
+de cette sphère qui est égale à 2
+
+61
+00:03:54,640 --> 00:03:57,600
+fois R au carré fois l'accélération de
+
+62
+00:03:57,600 --> 00:04:01,820
+l'apesanteur fois la différence de masse volumique
+
+63
+00:04:01,820 --> 00:04:06,500
+du corps et du liquide sur 9 fois
+
+64
+00:04:06,500 --> 00:04:07,840
+la coefficient de viscosité.
+
+65
+00:04:08,400 --> 00:04:12,720
+Et donc cette vitesse est appelée vitesse de
+
+66
+00:04:12,720 --> 00:04:15,980
+sédimentation et qui applique le milieu biomédical.
+
+67
+00:04:16,420 --> 00:04:21,180
+Donc on utilise la sédimentation globulaire des globules
+
+68
+00:04:21,180 --> 00:04:28,340
+rouges lorsqu'on va les mettre dans des
+
+69
+00:04:28,340 --> 00:04:34,200
+petits tubes gradués et on va calculer la
+
+70
+00:04:34,200 --> 00:04:38,780
+hauteur du plasma débarrassé des globules rouges pendant
+
+71
+00:04:38,780 --> 00:04:39,820
+une durée d'une heure.
+
+72
+00:04:40,520 --> 00:04:45,200
+Et c'est la vitesse de sédimentation qui
+
+73
+00:04:45,200 --> 00:04:49,300
+est très utilisée au milieu médical surtout en
+
+74
+00:04:49,300 --> 00:04:54,820
+rheumatologie, en médecine interne pour mesurer la sédimentation
+
+75
+00:04:54,820 --> 00:04:55,300
+du sang.
+
+76
+00:04:55,700 --> 00:04:59,880
+Et donc la vitesse de sédimentation il est
+
+77
+00:04:59,880 --> 00:05:02,560
+normalement en une heure inférieure à 10 mm.
+
+78
+00:05:04,660 --> 00:05:11,960
+On peut faire une autre mesure de la
+
+79
+00:05:11,960 --> 00:05:13,700
+vitesse de sédimentation après 2 heures.
+
+80
+00:05:14,460 --> 00:05:17,320
+Donc on parle de vitesse de sédimentation de
+
+81
+00:05:17,320 --> 00:05:17,860
+contrôle.
+
+82
+00:05:19,980 --> 00:05:22,820
+Lorsque la vitesse de sédimentation est élevée, on
+
+83
+00:05:22,820 --> 00:05:27,120
+va assister à une accélération ou une augmentation
+
+84
+00:05:27,120 --> 00:05:32,940
+de cette hauteur du plasma qui est débarrassé
+
+85
+00:05:32,940 --> 00:05:33,620
+des globules rouges.
+
+86
+00:05:34,580 --> 00:05:38,980
+Donc pourquoi il y a une augmentation de
+
+87
+00:05:38,980 --> 00:05:40,340
+la vitesse de sédimentation?
+
+88
+00:05:40,800 --> 00:05:44,080
+D'après l'expérience, on a vu que
+
+89
+00:05:44,080 --> 00:05:48,300
+la vitesse de sédimentation est augmentée surtout lorsque
+
+90
+00:05:48,300 --> 00:05:54,020
+le plasma n'est pas normal et le
+
+91
+00:05:54,020 --> 00:05:55,940
+nombre de globules rouges ou des globules rouges
+
+92
+00:05:55,940 --> 00:05:59,020
+surnormaux, c'est-à-dire que le plasma
+
+93
+00:05:59,020 --> 00:06:01,980
+n'est pas normal, ça veut dire qu
+
+94
+00:06:01,980 --> 00:06:06,100
+'il est pathologique et un plasma pathologique, ça
+
+95
+00:06:06,100 --> 00:06:08,280
+veut dire qu'il y a beaucoup de
+
+96
+00:06:08,280 --> 00:06:12,640
+particules ou de fibrines à l'intérieur de
+
+97
+00:06:12,640 --> 00:06:15,980
+ce plasma puisque le plasma contient surtout les
+
+98
+00:06:15,980 --> 00:06:17,840
+produits.
+
+99
+00:06:18,100 --> 00:06:26,500
+Donc un plasma qui est très visqueux, on
+
+100
+00:06:26,500 --> 00:06:29,600
+va dire, et on assiste à une augmentation
+
+101
+00:06:29,600 --> 00:06:32,480
+de la vitesse de sédimentation lorsqu'il y
+
+102
+00:06:32,480 --> 00:06:35,840
+a une augmentation des macromolécules linéaires telles que
+
+103
+00:06:35,840 --> 00:06:38,520
+les fibrines non gènes, les alphas de globuline
+
+104
+00:06:38,520 --> 00:06:45,540
+et le collagène par exemple également et qui
+
+105
+00:06:45,540 --> 00:06:48,580
+sont responsables de l'empilement des globules rouges
+
+106
+00:06:48,580 --> 00:06:52,960
+qui vont sédimenter plus facilement au niveau de
+
+107
+00:06:52,960 --> 00:06:56,740
+la partie inférieure du typion.
+
+108
+00:06:57,500 --> 00:07:03,760
+Deuxième type de facteur de déplacement des particules
+
+109
+00:07:03,760 --> 00:07:06,940
+d'origine externe, il y a l'effet
+
+110
+00:07:06,940 --> 00:07:10,260
+de l'accélération centrifuge ou centrifugation.
+
+111
+00:07:10,920 --> 00:07:14,140
+Donc la centrifugation, c'est une migration sous
+
+112
+00:07:14,140 --> 00:07:18,460
+l'effet d'une accélération centrifuge.
+
+113
+00:07:18,880 --> 00:07:22,240
+On va faire tourner le son qui contient
+
+114
+00:07:22,240 --> 00:07:24,400
+du plasma et des globules rouges à une
+
+115
+00:07:24,400 --> 00:07:28,840
+vitesse angulaire, omega au carré fois R, R
+
+116
+00:07:28,840 --> 00:07:30,940
+c'est le rayon de l'axe de
+
+117
+00:07:30,940 --> 00:07:35,300
+rotation de cet appareil qui va faire tourner
+
+118
+00:07:35,300 --> 00:07:43,000
+le son pour accélérer la sédimentation ou ce
+
+119
+00:07:43,000 --> 00:07:46,240
+qu'on appelle l'accélération de la centrifugation.
+
+120
+00:07:46,440 --> 00:07:51,560
+Donc l'intérêt biomédical de la centrifugation c
+
+121
+00:07:51,560 --> 00:07:53,940
+'est qu'il permet de séparer le plasma
+
+122
+00:07:53,940 --> 00:07:59,220
+des globules rouges dans un temps très bref,
+
+123
+00:07:59,780 --> 00:08:09,640
+donc plus rapidement que la sédimentation par l
+
+124
+00:08:09,640 --> 00:08:11,260
+'accélération de la pesanteur.
+
+125
+00:08:11,960 --> 00:08:17,280
+Également il permet de séparer les urines ou
+
+126
+00:08:17,280 --> 00:08:24,700
+le cul urinaire, surtout lorsqu'il contient des
+
+127
+00:08:24,700 --> 00:08:28,280
+particules visibles au microscope telles que les globules
+
+128
+00:08:28,280 --> 00:08:29,340
+rouges ou les particules.
+
+129
+00:08:29,340 --> 00:08:34,380
+Donc l'appareil utilisé c'est une centrifugeuse
+
+130
+00:08:34,380 --> 00:08:37,799
+qui fait tourner, on met les flacons à
+
+131
+00:08:37,799 --> 00:08:40,940
+l'intérieur de la centrifugeuse et sa rotation
+
+132
+00:08:40,940 --> 00:08:45,600
+va induire une sédimentation des particules.
+
+133
+00:08:46,320 --> 00:08:52,800
+Le troisième mode de sédimentation ou de migration
+
+134
+00:08:52,800 --> 00:08:55,500
+des particules à l'intérieur d'un fluide
+
+135
+00:08:55,500 --> 00:08:58,280
+c'est l'ultracentrifugation, c'est une migration
+
+136
+00:08:58,280 --> 00:09:04,380
+des macromolécules qui va aboutir à une séparation
+
+137
+00:09:04,380 --> 00:09:07,180
+cette fois-ci des protéines à l'intérieur
+
+138
+00:09:07,180 --> 00:09:07,940
+du plan.
+
+139
+00:09:09,080 --> 00:09:12,760
+Le deuxième type de migration des particules chargée
+
+140
+00:09:12,760 --> 00:09:15,260
+cette fois sous l'effet d'un champ
+
+141
+00:09:15,260 --> 00:09:21,160
+électrique qui représente une cause externe toujours.
+
+142
+00:09:22,180 --> 00:09:28,000
+Donc avant d'entamer cette migration il y
+
+143
+00:09:28,000 --> 00:09:30,720
+a les notions de vitesse de la particule
+
+144
+00:09:30,720 --> 00:09:33,720
+chargée donc la migration dans un champ électrique.
+
+145
+00:09:34,000 --> 00:09:35,800
+On a la force d'un champ électrique
+
+146
+00:09:35,800 --> 00:09:39,960
+égale q fois le champ donc c'est
+
+147
+00:09:39,960 --> 00:09:44,480
+la charge fois le champ et la résistance
+
+148
+00:09:44,480 --> 00:09:45,440
+lorsqu'on a vu M.
+
+149
+00:09:45,440 --> 00:09:47,640
+Stokes il a dit qu'il est égale
+
+150
+00:09:47,640 --> 00:09:49,940
+moins k fois n fois la viscosité fois
+
+151
+00:09:49,940 --> 00:09:52,180
+la vitesse donc lorsqu'il y a équilibre
+
+152
+00:09:52,180 --> 00:09:59,100
+ou lorsque la particule il est en état
+
+153
+00:09:59,100 --> 00:10:02,020
+d'équilibre la force de déplacement et la
+
+154
+00:10:02,020 --> 00:10:04,600
+force de résistance sont égaux et donc qe
+
+155
+00:10:04,600 --> 00:10:09,760
+égale moins 7k fois n fois v et
+
+156
+00:10:09,760 --> 00:10:12,860
+donc la vitesse de déplacement égale la charge
+
+157
+00:10:12,860 --> 00:10:19,660
+q fois e sur kn or la charge
+
+158
+00:10:23,880 --> 00:10:26,740
+q sur k fois la viscosité est à
+
+159
+00:10:26,740 --> 00:10:28,760
+peine la mobilité de la particule chargée.
+
+160
+00:10:29,640 --> 00:10:34,300
+Si q est supérieur à 0 alors le
+
+161
+00:10:34,300 --> 00:10:41,220
+potentiel ou la vitesse égale la mobilité fois
+
+162
+00:10:41,220 --> 00:10:43,600
+e si la charge est négative la vitesse
+
+163
+00:10:43,600 --> 00:10:46,560
+de déplacement de la particule égale moins la
+
+164
+00:10:46,560 --> 00:10:49,320
+mobilité fois e donc la mobilité ionique c
+
+165
+00:10:49,320 --> 00:10:54,720
+'est également un élément très utilisé au milieu
+
+166
+00:10:54,720 --> 00:11:00,700
+médical il permet et dépend déjà d'abord
+
+167
+00:11:00,700 --> 00:11:03,860
+de la nature de l'ion et de
+
+168
+00:11:03,860 --> 00:11:08,540
+la viscosité du milieu exemple pour l'ion
+
+169
+00:11:08,540 --> 00:11:10,320
+H plus qui est le plus petit le
+
+170
+00:11:10,320 --> 00:11:12,860
+plus léger il a une mobilité plus importante
+
+171
+00:11:13,560 --> 00:11:19,180
+également pour le H moins de même la
+
+172
+00:11:19,180 --> 00:11:22,380
+mobilité du potentiel et du chlore qui sont
+
+173
+00:11:22,380 --> 00:11:26,620
+ils sont plus rapides mais d'une manière
+
+174
+00:11:26,620 --> 00:11:28,820
+moins importante que le H plus et le
+
+175
+00:11:28,820 --> 00:11:29,200
+H moins.
+
+176
+00:11:29,800 --> 00:11:32,680
+Les macromolécules ils ont une mobilité puisqu'ils
+
+177
+00:11:32,680 --> 00:11:36,260
+sont plus lourds et leur mobilité donc il
+
+178
+00:11:36,260 --> 00:11:38,100
+est plus faible par rapport à l'ion
+
+179
+00:11:38,100 --> 00:11:42,560
+H plus et donc le champ électrique par
+
+180
+00:11:42,560 --> 00:11:45,180
+conséquence permet la séparation des ions en fonction
+
+181
+00:11:45,180 --> 00:11:48,980
+de la mobilité donc on parle de l
+
+182
+00:11:48,980 --> 00:11:50,100
+'électrophorese.
+
+183
+00:11:50,340 --> 00:11:53,500
+L'électrophorese c'est une technique qui permet
+
+184
+00:11:53,500 --> 00:11:59,220
+de séparer les céramiques des différentes vertébrés donc
+
+185
+00:11:59,220 --> 00:12:03,320
+au niveau de l'ombre on utilise l
+
+186
+00:12:03,320 --> 00:12:09,240
+'électrophorese pour dans le diagnostic déjà donc des
+
+187
+00:12:09,240 --> 00:12:19,180
+gammapathies ou des maladies hématologiques donc ici c
+
+188
+00:12:19,180 --> 00:12:22,460
+'est un schéma de l'électrophorese en fonction
+
+189
+00:12:22,460 --> 00:12:25,700
+de placement des particules dans un champ électrique.
+
+190
+00:12:26,660 --> 00:12:30,100
+Le flux des particules dans un champ donc
+
+191
+00:12:30,100 --> 00:12:31,880
+pour une particule on a dit il y
+
+192
+00:12:31,880 --> 00:12:34,240
+a l'électrophorese pour le flux de particules
+
+193
+00:12:34,240 --> 00:12:39,800
+dans un champ électrique c'est le flux
+
+194
+00:12:39,800 --> 00:12:41,420
+de particules chargées c'est le nombre de
+
+195
+00:12:41,420 --> 00:12:46,760
+particules traversant la surface S par unité de
+
+196
+00:12:46,760 --> 00:12:46,980
+temps.
+
+197
+00:12:50,660 --> 00:12:54,560
+Donc le mouvement qui va se réaliser est
+
+198
+00:12:54,560 --> 00:12:57,440
+un mouvement de convection et ça veut dire
+
+199
+00:12:57,440 --> 00:13:00,340
+que le débit égale dv donc la vitesse
+
+200
+00:13:00,340 --> 00:13:02,800
+pardon le volume c'est la variation du
+
+201
+00:13:02,800 --> 00:13:05,780
+volume sur la variation du temps égale la
+
+202
+00:13:05,780 --> 00:13:08,160
+section ou la surface fois la vitesse.
+
+203
+00:13:10,080 --> 00:13:16,340
+Donc on peut multiplier par d2t on va
+
+204
+00:13:16,340 --> 00:13:22,540
+voir que les variations du volume égale la
+
+205
+00:13:22,540 --> 00:13:26,300
+section fois la vitesse fois les variations de
+
+206
+00:13:26,300 --> 00:13:26,540
+temps.
+
+207
+00:13:26,720 --> 00:13:32,080
+Pour l'amégration des particules la concentration égale
+
+208
+00:13:32,080 --> 00:13:35,740
+le nombre de molles par le volume et
+
+209
+00:13:35,740 --> 00:13:44,520
+donc on peut multiplier d2ni par d2v et
+
+210
+00:13:44,520 --> 00:13:48,820
+on va voir d2ni égale ci la concentration
+
+211
+00:13:48,820 --> 00:13:51,500
+fois d2v et d2v on a dit c
+
+212
+00:13:51,500 --> 00:13:54,820
+'est s fois vi fois d2t donc le
+
+213
+00:13:54,820 --> 00:13:59,860
+nombre de particules dans un volume égale d2ni
+
+214
+00:13:59,860 --> 00:14:04,000
+sur d2t c'est is fois la vitesse.
+
+215
+00:14:05,840 --> 00:14:12,160
+Si d2v sur d2x est le gradient de
+
+216
+00:14:12,160 --> 00:14:15,880
+potentiel électrique e c'est un champ électrique
+
+217
+00:14:15,880 --> 00:14:22,930
+v est le potentiel électrique et d2x la
+
+218
+00:14:22,930 --> 00:14:25,710
+distance donc si q il est supérieur à
+
+219
+00:14:25,710 --> 00:14:28,830
+0 alors vi égale la mobilité fois e
+
+220
+00:14:28,830 --> 00:14:34,730
+et le flux égale ci fois s fois
+
+221
+00:14:34,730 --> 00:14:39,750
+u fois e égale ci fois s fois
+
+222
+00:14:39,750 --> 00:14:47,810
+la mobilité fois les variations du potentiel électrique
+
+223
+00:14:47,810 --> 00:14:52,930
+cette fois ci sur les variations de la
+
+224
+00:14:52,930 --> 00:14:57,630
+distance de d2x et inversement si la charge
+
+225
+00:14:57,630 --> 00:14:58,250
+est négative.
+
+226
+00:14:59,450 --> 00:15:04,330
+Donc là on va entamer la migration sous
+
+227
+00:15:04,330 --> 00:15:06,510
+l'effet d'une cause interne c'est
+
+228
+00:15:06,510 --> 00:15:13,590
+à dire à l'intérieur du fluide par
+
+229
+00:15:13,590 --> 00:15:16,470
+opposition aux autres migrations qu'on a vu
+
+230
+00:15:16,470 --> 00:15:20,050
+de l'apesanteur de la centrifugation d'ultracentrifugation
+
+231
+00:15:20,050 --> 00:15:22,070
+et du champ électrique c'est des causes
+
+232
+00:15:22,070 --> 00:15:22,750
+externes.
+
+233
+00:15:23,350 --> 00:15:25,390
+Donc la migration sous l'effet d'une
+
+234
+00:15:25,390 --> 00:15:30,710
+différence de concentration on va voir que la
+
+235
+00:15:30,710 --> 00:15:34,110
+concentration c'est surtout pour les solutions mais
+
+236
+00:15:34,110 --> 00:15:37,950
+elle est appliquée également pour les autres fluides
+
+237
+00:15:37,950 --> 00:15:41,210
+tels que les gaz ou sous l'action
+
+238
+00:15:41,210 --> 00:15:43,090
+de différence de pression donc on parle de
+
+239
+00:15:43,090 --> 00:15:43,830
+la loi de Fick.
+
+240
+00:15:44,530 --> 00:15:50,390
+La loi de Fick intéresse les solutés c
+
+241
+00:15:50,390 --> 00:15:52,610
+'est à dire les petits ions ou les
+
+242
+00:15:52,610 --> 00:15:57,430
+petits électrolytes à travers une membrane de surface
+
+243
+00:15:57,430 --> 00:15:59,690
+S lorsqu'il y a une différence de
+
+244
+00:15:59,690 --> 00:16:03,370
+concentration il y a un déplacement de ces
+
+245
+00:16:03,370 --> 00:16:07,850
+solutés d'un compartiment A1 et d'un
+
+246
+00:16:07,850 --> 00:16:12,950
+compartiment 2 jusqu'à ce qu'il y
+
+247
+00:16:12,950 --> 00:16:15,790
+ait égalité de la concentration entre les deux
+
+248
+00:16:15,790 --> 00:16:16,430
+compartiments.
+
+249
+00:16:17,050 --> 00:16:19,570
+Si on pose la distance entre A et
+
+250
+00:16:19,570 --> 00:16:22,790
+B égale d2x donc la différence de concentration
+
+251
+00:16:22,790 --> 00:16:30,930
+c'est d2c alors le flux égale d2ni
+
+252
+00:16:30,930 --> 00:16:35,130
+le nombre de modes sur d2t égale moins
+
+253
+00:16:35,130 --> 00:16:43,530
+dis donc dis fois le gradient de concentration
+
+254
+00:16:43,530 --> 00:16:47,450
+ou d2ci sur d2x.
+
+255
+00:16:47,850 --> 00:16:50,770
+Alors d2ci sur d2x c'est le gradient
+
+256
+00:16:50,770 --> 00:17:00,690
+de concentration qui est un paramètre
+
+257
+00:17:00,690 --> 00:17:05,410
+très utilisé dans la diffusion, le phénomène de
+
+258
+00:17:05,410 --> 00:17:06,730
+diffusion de la loi de Fick.
+
+259
+00:17:06,730 --> 00:17:10,089
+Ddi c'est la coefficient de diffusion de
+
+260
+00:17:10,089 --> 00:17:19,190
+I qui est en fonction de
+
+261
+00:17:19,190 --> 00:17:24,150
+la coefficient de viscosité et de la nature
+
+262
+00:17:24,150 --> 00:17:27,170
+du ion et également de la température.
+
+263
+00:17:28,330 --> 00:17:30,650
+Donc pour un gaz cette fois-ci donc
+
+264
+00:17:30,650 --> 00:17:34,090
+le gaz également il répond à la loi
+
+265
+00:17:34,090 --> 00:17:41,370
+de Fick qui est le flux d'un
+
+266
+00:17:41,370 --> 00:17:45,250
+gaz à travers une membrane égale d2ni sur
+
+267
+00:17:45,250 --> 00:17:48,790
+d2t égale moins le coefficient de diffusion fois
+
+268
+00:17:48,790 --> 00:17:53,030
+la surface fois d2 la variation donc cette
+
+269
+00:17:53,030 --> 00:17:54,650
+fois-ci c'est la variation de pression
+
+270
+00:17:54,650 --> 00:17:59,210
+sur d2x ou le gradient de pression.
+
+271
+00:18:01,210 --> 00:18:03,910
+Donc à l'état d'issue les molécules
+
+272
+00:18:03,910 --> 00:18:05,670
+de gaz ils se comportent comme n'importe
+
+273
+00:18:05,670 --> 00:18:09,370
+quelle soluté d'où le flux de ces
+
+274
+00:18:09,370 --> 00:18:14,590
+ions égale la concentration fois la surface fois
+
+275
+00:18:14,590 --> 00:18:20,390
+la vitesse de l'ion et il y
+
+276
+00:18:20,390 --> 00:18:24,950
+a égale la coefficient de diffusion fois la
+
+277
+00:18:24,950 --> 00:18:30,070
+surface fois d2ci sur d2x le gradient de
+
+278
+00:18:30,070 --> 00:18:30,710
+concentration.
+
+279
+00:18:31,350 --> 00:18:33,430
+Or la loi de Henry il dit que
+
+280
+00:18:33,430 --> 00:18:39,670
+vi ça veut dire la concentration égale et
+
+281
+00:18:39,670 --> 00:18:44,510
+la coefficient de diffusion fois la pression de
+
+282
+00:18:44,510 --> 00:18:45,130
+ce gaz.
+
+283
+00:18:45,130 --> 00:18:47,590
+Pour une molle un gaz il a 22
+
+284
+00:18:47,590 --> 00:18:51,410
+,4 litres donc pour une molle ci et
+
+285
+00:18:51,410 --> 00:18:54,810
+donc ci ça va devenir vi sur 22
+
+286
+00:18:54,810 --> 00:19:01,630
+,4 on divise par le volume d'une
+
+287
+00:19:01,630 --> 00:19:06,150
+molle il est égale à sipi donc le
+
+288
+00:19:06,150 --> 00:19:09,410
+facteur de diffusion la coefficient de diffusion fois
+
+289
+00:19:09,410 --> 00:19:14,470
+la pression partielle sur 22,4.
+
+290
+00:19:15,130 --> 00:19:21,870
+Donc finalement le flux de la particule est
+
+291
+00:19:21,870 --> 00:19:28,070
+égale à dis fois si fois le gradient
+
+292
+00:19:28,070 --> 00:19:32,270
+de pression sur d2x sur 22,4 pour
+
+293
+00:19:32,270 --> 00:19:35,970
+la coefficient de diffusion de co2 il est
+
+294
+00:19:35,970 --> 00:19:39,130
+25 fois plus grand que la coefficient de
+
+295
+00:19:39,130 --> 00:19:40,990
+diffusion de l'oxygène.
+
+296
+00:19:40,990 --> 00:19:45,410
+D'où on a les accidents d'intoxication
+
+297
+00:19:45,410 --> 00:19:47,710
+par le co2 où le co2 sont plus
+
+298
+00:19:47,710 --> 00:19:50,890
+fréquents et plus grands.
+
+299
+00:19:51,830 --> 00:19:55,390
+Enfin donc la migration des ions sous l
+
+300
+00:19:55,390 --> 00:19:57,350
+'effet à la fois des gradients de concentration
+
+301
+00:19:57,350 --> 00:20:00,210
+et de potentiel électrique.
+
+302
+00:20:01,470 --> 00:20:04,650
+L'ion est ici soumis à un gradient
+
+303
+00:20:04,650 --> 00:20:08,810
+de potentiel électrique et un potentiel chimique donc
+
+304
+00:20:08,810 --> 00:20:12,970
+si l'ion est positif alors la vitesse
+
+305
+00:20:12,970 --> 00:20:19,330
+de la particule va être égale à la
+
+306
+00:20:19,330 --> 00:20:24,890
+mobilité de cette particule fois la différence de
+
+307
+00:20:24,890 --> 00:20:30,090
+potentiel électrique et le potentiel chimique.
+
+308
+00:20:30,090 --> 00:20:35,750
+C'était que d2v sur d2x donc comme
+
+309
+00:20:35,750 --> 00:20:39,170
+ça on a vu ces migrations des particules
+
+310
+00:20:39,170 --> 00:20:44,270
+à l'intérieur d'un fluide et je
+
+311
+00:20:44,270 --> 00:20:44,950
+vous remercie.

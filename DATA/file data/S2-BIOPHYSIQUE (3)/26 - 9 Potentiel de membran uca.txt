@@ -1,0 +1,77 @@
+Bonjour, le cours d'aujourd'hui est intitulé les potentiels de membrane. Donc en introduction, la nature de la membrane et les variables, ainsi que son comportement et de sa fonction vis-à-vis les ions et les molécules, vis-à-vis le transfert ou le transport. Donc le transfert et le transport membrane sont des phénomènes de transport passif ou actif et ils correspondent soit à une migration sous l'effet d'une différence de potentiel chimique, et donc de concentration, une variation de concentration, ou d'un effet, d'une différence de potentiel électrique, donc de potentiel électrique, ou d'une différence de potentiel électrique, ou les deux, à la fois une différence de potentiel chimique et électrique.
+
+Donc pour démarrer ce cours, on va parler sur les différents types de membrane. La membrane d'abord, c'est un dispositif d'espèceur E qui sépare deux milieux différents, milieu intracellulaire et extracellulaire. Les caractéristiques de la membrane, il y a d'abord la mobilité des particules à l'intérieur de la membrane.
+
+Donc une particule, elle peut subir une mobilité plus facile au niveau, à travers la membrane. C'est le cas des ions sodium potassium, du glucose et autres. Et également la coefficient de diffusion.
+
+La coefficient de diffusion égale la mobilité, ou elle égale le potentiel chimique de cet ion, fois la constante de gaz parfait, fois la température en degrés Kelvin. Puis la troisième caractéristique, c'est la perméabilité de la membrane. Il faut noter que la perméabilité de la membrane égale la coefficient de diffusion sur l'épaisseur.
+
+Donc la mobilité, la coefficient de diffusion et la perméabilité de la membrane sont proportionnelles. Et il y a des relations entre les trois caractéristiques. C'est-à-dire lorsque l'on a une grande mobilité, c'est une grande diffusion et une grande perméabilité.
+
+Donc à la membrane cellulaire, une cellule, vu les différents types de membrane, peut-être c'est la membrane de la cellule, ça peut être la membrane du mitochondrie, ça peut être la membrane du noyau de la cellule, des membranes de l'appareil de gongé, et ainsi de suite. Donc les membranes sont complexes et sont constituées, par exemple, pour la membrane cytoplasmique, elle est formée par double couche phospholipidique et intercalée de protéines de transport, des protéines structurelles et des glycoprotéines qui permettent le signal du milieu extérieur vers le milieu intérieur de la cellule. Donc la membrane, elle est primordiale pour la cellule vivante.
+
+Or, on peut avoir des membranes inertes et des membranes vivantes. Pour les membranes inertes, on a ce type de transport ou de transfert, c'est le phénomène de transfert ou de transport passif. C'est un transport qui se fait selon un gradient de concentration et le gradient de potentiel électrique.
+
+Je donne l'exemple de la membrane de dialyse pour l'appareil de dialyse. Et également, il y a les membranes vivantes. Donc les membranes vivantes, on peut assister à un phénomène de transport passif et un transport actif.
+
+Pour les phénomènes de transport actif, on a une amplification du phénomène de transport passif et qui peut s'opposer au phénomène de ce transport. Et il nécessite l'apport d'une énergie qui est la therméne. Les différents types de membranes, donc on a trois types de membranes.
+
+Il y a la membrane hémiperméable ou semiperméable, la membrane de dialyse et la membrane sélective. La membrane hémiperméable ou semiperméable, comme le schéma l'indique, elle est perméable seulement au solvant. Elle n'est pas perméable aux autres particules.
+
+Donc le schéma, il va montrer qu'il y a un déplacement de l'eau pure d'un milieu vers un deuxième milieu où il y a une concentration ou une osmolarité à travers une membrane semiperméable. Donc c'est à ce niveau qu'on peut assister au phénomène d'osmose. La membrane de dialyse, c'est la membrane qui existe au niveau des néphrons rénales.
+
+Elle permet la perméabilité du solvant et des petites molécules ou les petits ions. Donc il ne laisse pas passer les grosses molécules. Donc ce schéma, il montre que cette membrane, il laisse passer l'eau et les petites particules.
+
+Donc c'est une membrane diéguisante. Il ne laisse pas passer les grosses molécules, tels que le globule rouge. D'ailleurs, lorsqu'il y a une lyse ou une destruction de la membrane de dialyse rénale, on va assister à une hématurie.
+
+Et donc il y a le passage des hématites. Et puis la membrane sélective, c'est une membrane qui est perméable à un type d'ion ou de molécule seulement. Les phénomènes passifs et élémentaires.
+
+A travers la membrane, on peut assister à un phénomène de convection saine. Donc on a vu dans les cours précédents que le phénomène de convection, lorsqu'il y a un déplacement de l'ensemble de la matière sous l'effet de la différence de pression. Donc ce schéma, il montre que lorsqu'on a deux compartiments, un et deux, de même composition, donc de même concentration, de nature au plus que du cause.
+
+Et donc il n'y a aucune cause de migration entre les deux compartiments. Donc il n'y a pas de déplacement. A travers une membrane de dialyse.
+
+Si cette fois-ci, on va augmenter la pression au niveau du milieu 1, donc il devient supérieur à celle du milieu 2, donc P1 devient supérieur à P2, il va se produire un flux de solution de 1 vers 2. Ce flux du milieu 1 vers 2, il est en fonction de la surface de ce milieu, et une constante K est la variation de pression entre le milieu 1 et 2. La diffusion simple. La diffusion simple est faite intervenir cette fois-ci par la différence de concentration entre les deux milieux. Donc si on a un milieu A qui contient du glucose, et un milieu B également, avec une concentration différente, le milieu 1 est plus concentré que le milieu 2, on va assister à un déplacement de l'eau et du glucose du milieu 1 vers le milieu 2. Donc la concentration du milieu 1 va diminuer, et celle du milieu 2 va augmenter jusqu'à ce qu'il y ait l'équilibre entre les deux milieux.
+
+Donc c'est le phénomène de diffusion. La valeur du flux de glucose est donnée par la loi de Fick. Le flux de diffusion entre le milieu 1 et le milieu 2, il est égal à 2 fois, elle est égale à la coefficient de diffusion du solutel, qui est le glucose, fois la surface de filtration, fois les variations de concentration entre le milieu 2 et le milieu 1, sur l'épaisseur de la membrane, de la membrane du dialyse, qui laisse passer l'eau et les petites particules.
+
+La diffusion peut se faire pour les gaz, c'est le cas de la diffusion au niveau des alvéoles, également, comme il peut être réalisé au niveau des solutions. Donc pour les gaz, on va seulement faire intervenir la relation de la variation de pression. Au lieu de C2-C1, on a PI2-PI1, et la coefficient de diffusion, on va multiplier également avec la coefficient de solubilité, qui est SI sur 22,4.
+
+Ça c'est pour les gaz dissous, pour les gaz à l'état gazeux, donc la valeur du flux est la même que pour les solutions, sauf qu'on a une variation de pression sur l'épaisseur. Donc ce phénomène de diffusion simple peut être réalisé au niveau des différentes membranes de l'organisme, telles que les glomerules. Les potentiels de membrane.
+
+D'abord le potentiel d'équilibre. On va voir c'est quoi le potentiel d'équilibre, et qu'on va appliquer à deux cas de figure. Le cas d'une membrane perméable à certains ions, et imperméable à d'autres ions.
+
+Le premier exemple, c'est le cas de la membrane perméable à un subtype d'ion, tel que l'ion H+. L'ion H+, est le plus petit ion qui peut exister dans l'organisme. Si on a deux compartiments séparés par une membrane qui ne passait que des ions H+, donc une membrane sélective, et on place une au milieu d'eux, et on place deux solutions de concentration différentes en H+, si on a H1 et la concentration supérieure à H2, alors on va assister à un déplacement d'ion H+.
+
+Les ions H+, qui vont traverser la membrane sélective, ils vont ramener avec eux les ions A-. Or, les ions A- ne peuvent pas traverser la membrane parce qu'elle est sélective pour les ions H+. Et donc la solution 1 devient chargée négativement, puisqu'il y a plus de A-, alors que la solution 2 devient chargée positivement.
+
+Cette différence de charge se produit au niveau des deux versions de la membrane sélective. Donc la diffusion de H+, de 1 vers 2, va s'arrêter, puisque le A- ne peut pas traverser la membrane, et il est accompagné par le H+. Et il va y avoir donc formation d'une couche double électrique responsable de différence de potentiel.
+
+Cette différence de potentiel est appelée le potentiel d'équilibre. C'est une différence de potentiel électrochimique. L'équilibre est réalisé pour H+, lorsque le flux entre le milieu 1 et 2 est égal à 0. Donc on parle d'un potentiel électrochimique.
+
+Milieu 1 égale le potentiel électrochimique du milieu 2. Donc le schéma, il montre cette couche double électrique. De part et d'autre, il y a les ions négatifs et les ions positifs. Le potentiel électrochimique du milieu 1, on peut le schématiser par V1, c'est le potentiel électrique, plus le potentiel chimique mu1 sur ZK0.
+
+Il est égal au potentiel électrochimique de H+, du milieu 2. Donc égal V2 plus le potentiel électrochimique sur ZK0. Et donc on peut après ramener les deux voltages ou les deux potentiels électriques, de part et d'autre, l'égalité qui sont égaux au potentiel électrochimique du milieu 2. Également, la différence sur ZK0. Et on va aboutir enfin de compte à un potentiel d'équilibre, V1-V2, qui est égal à RT, la constante des gaz parfaits, fois la température de l'air qui est vide sur ZK0, fois le logarithme de la concentration de H+, du milieu 2, sur la concentration de H+, du milieu 1. Cette relation est appelée la relation de Nernst, et qui s'applique à tout ion diffusible qui se trouve à l'équilibre.
+
+Donc la relation de Nernst est appliquée dans la mesure du pH des solutions, des différents types de solutions. On peut mesurer le pH du sol, le pH du plasma, le pH des urines, par cet appareil de pHmètre. Le pHmètre est constitué par une électrode de référence et une électrode qui est sélective pour l'ion H+.
+
+Donc il va donner des valeurs de la concentration en H+, et donc le pH. Le deuxième cas de figure, c'est le cas de la membrane perméable aux petits ions et imperméable aux macro-ions, donc les protéines, c'est le phénomène de Donnan. Pour l'effet expérimental de cette membrane perméable aux petits ions et imperméable aux macro-ions, on utilise une membrane vialisante qui sépare deux solutions 1 et 2. Pour la solution 1, elle contient des macro-ions non diffusibles, c'est-à-dire des protéines et des petits ions diffusibles de Na+, Cl-.
+
+Pour la solution 2, elle contient uniquement des ions diffusibles Na+, Cl-. Donc, l'équivalent va se produire avec une inégalité de concentration des ions diffusibles. Entre les milieux 1 et 2, il existe une différence de potentiel.
+
+Donc, la membrane qui est semi-perméable, elle est perméable à Cl- et à Na+. Et donc, après un certain temps, l'équilibre sera atteint avec une égalité entre la concentration de Cl- en 1 et Cl- en 2, et également une égalisation de la concentration de Na+, en 1 et de Na+, en 2. Or, par le phénomène d'électroneutralité, Cl- en 1 égale Na+, en 1 égale à A, et Cl- en 2 égale Na+, en 2 égale à A. Et donc, en fin de compte, on va avoir les concentrations des 4, des 3 ions de Na+, qui sont égaux. Or, quand on ajoute une concentration de protéines de sodium ZNa+, RZ-, on aura Na+, en 1, égale à A, plus la concentration en milieu de sodium, plus la concentration qu'on a ajoutée Zp, qui va être supérieure à la concentration de Na+, en milieu de 2, qui est égale à A. Et donc, il va y avoir une différence de concentration de Na+, entre 1 et 2, ce qui exige un passage de Na+, du milieu 1 vers le milieu 2. Mais, l'électroneutralité, il exige que chaque ion soit accompagné de NaCl-.
+
+Et donc, il va y avoir une diffusion d'une certaine quantité de Cl- de 1 vers 2. Et on va avoir donc un Cl- en 1 qui est égale à A-x, et Cl- en 2 égale à A+, et donc Cl- en 1 va devenir inférieur à Cl- en 2. Ce qui fait apparaître un gradient de concentration Cl- de 2 vers 1 qui s'oppose à cette diffusion de Cl- de 1 vers 2. Il y a deux phénomènes opposés qui se produisent et qui imposent ce qu'on appelle un potentiel d'équilibre entre les deux solutions. Donc, le potentiel d'équilibre, on peut appliquer la relation de Nertz à chaque ion diffusible. Et on va avoir enfin de compte une équation de relation de Donald qui donnera la concentration de Na+, en 1, fois la concentration de Cl- en 1, égale à la concentration de Na+, en 2, fois la concentration de Cl- en 2. C'est la relation de Donald.
+
+Puis, le potentiel de diffusion. Le potentiel de diffusion, il existe lorsque la membrane est inégalement perméable à plusieurs types d'ions. Donc, c'est le cas d'un anion et d'un cation de volubilité différente. 
+
+Par exemple, le Cl- et le Na+. La membrane est inégalement perméable au Na+. Donc, la mobilité ou la perméabilité est plus grande pour le Cl- que le Na+.
+
+De même, on va avoir une formation d'une membrane double couche. Donc, double couche électrique de part et d'autre de la membrane. Donc, cette double couche électrique du membrane qui est diffusible à deux ions de nature différente, c'est à dire un anion et un cation.
+
+C'est intervenir également la loi de Nernst. Et on aura à la fin le potentiel de diffusion V1-V2 égale la mobilité du premier ion moins la mobilité du deuxième ion sur la somme des mobilités, fois RT, fois la constante de gaz par T, fois la température sur K0, fois le logarithme decimal du deuxième ion sur le premier ion. Le cas des deux cations de mobilité différente, c'est le cas du potassium et du sodium.
+
+Donc, on parle toujours du potentiel de diffusion. Donc, je ne demande pas d'apprendre par coeur les équations ou les formules qui sont devant nous, mais de comprendre seulement que lorsqu'il y a un flux d'un cation qui diffère dans la mobilité d'un autre cation, on a ce qu'on appelle une relation. C'est la relation de Goldman qui fait intervenir la mobilité de deux cations et permet également de montrer qu'il y a un potentiel de membrane, qu'on peut le mesurer.
+
+Ce potentiel de membrane, d'ailleurs, on peut le voir lorsqu'on utilise les électrodes. C'est le cas de la fibre nerveuse. Donc, la membrane de la fibre nerveuse qui permet de mesurer la différence de potentiel de part et d'autre de cette fibre nerveuse.
+
+Également, au niveau des cellules viologique, on trouvera toujours qu'il y a une différence de potentiel. Donc, tu as une répartition inégale de charges de part et d'autre dans la membrane cellulaire. Et je vous remercie.

@@ -1,0 +1,1579 @@
+1
+00:00:00,840 --> 00:00:04,460
+Bonjour, le cours d'aujourd'hui est intitulé
+
+2
+00:00:04,460 --> 00:00:06,420
+les potentiels de membrane.
+
+3
+00:00:09,180 --> 00:00:13,980
+Donc en introduction, la nature de la membrane
+
+4
+00:00:13,980 --> 00:00:19,480
+et les variables, ainsi que son comportement et
+
+5
+00:00:19,480 --> 00:00:21,280
+de sa fonction vis-à-vis les ions
+
+6
+00:00:21,280 --> 00:00:25,320
+et les molécules, vis-à-vis le transfert
+
+7
+00:00:25,320 --> 00:00:26,080
+ou le transport.
+
+8
+00:00:26,080 --> 00:00:28,420
+Donc le transfert et le transport membrane sont
+
+9
+00:00:28,420 --> 00:00:32,660
+des phénomènes de transport passif ou actif et
+
+10
+00:00:32,660 --> 00:00:36,200
+ils correspondent soit à une migration sous l
+
+11
+00:00:36,200 --> 00:00:39,240
+'effet d'une différence de potentiel chimique, et
+
+12
+00:00:39,240 --> 00:00:42,740
+donc de concentration, une variation de concentration, ou
+
+13
+00:00:42,740 --> 00:00:45,540
+d'un effet, d'une différence de potentiel
+
+14
+00:00:45,540 --> 00:00:52,800
+électrique, donc de potentiel électrique, ou d'une
+
+15
+00:00:52,800 --> 00:00:59,500
+différence de potentiel électrique, ou les deux, à
+
+16
+00:00:59,500 --> 00:01:01,220
+la fois une différence de potentiel chimique et
+
+17
+00:01:01,220 --> 00:01:01,740
+électrique.
+
+18
+00:01:03,120 --> 00:01:08,660
+Donc pour démarrer ce cours, on va parler
+
+19
+00:01:08,660 --> 00:01:11,000
+sur les différents types de membrane.
+
+20
+00:01:11,000 --> 00:01:14,240
+La membrane d'abord, c'est un dispositif
+
+21
+00:01:14,240 --> 00:01:17,140
+d'espèceur E qui sépare deux milieux différents,
+
+22
+00:01:18,740 --> 00:01:21,140
+milieu intracellulaire et extracellulaire.
+
+23
+00:01:23,690 --> 00:01:26,550
+Les caractéristiques de la membrane, il y a
+
+24
+00:01:26,550 --> 00:01:28,970
+d'abord la mobilité des particules à l
+
+25
+00:01:28,970 --> 00:01:29,850
+'intérieur de la membrane.
+
+26
+00:01:30,490 --> 00:01:34,130
+Donc une particule, elle peut subir une mobilité
+
+27
+00:01:34,130 --> 00:01:39,770
+plus facile au niveau, à travers la membrane.
+
+28
+00:01:39,770 --> 00:01:44,650
+C'est le cas des ions sodium potassium,
+
+29
+00:01:45,850 --> 00:01:47,610
+du glucose et autres.
+
+30
+00:01:48,590 --> 00:01:51,050
+Et également la coefficient de diffusion.
+
+31
+00:01:51,290 --> 00:01:55,470
+La coefficient de diffusion égale la mobilité, ou
+
+32
+00:01:55,470 --> 00:02:03,610
+elle égale le potentiel chimique de cet ion,
+
+33
+00:02:03,610 --> 00:02:07,610
+fois la constante de gaz parfait, fois la
+
+34
+00:02:07,610 --> 00:02:09,110
+température en degrés Kelvin.
+
+35
+00:02:10,370 --> 00:02:13,290
+Puis la troisième caractéristique, c'est la perméabilité
+
+36
+00:02:13,290 --> 00:02:13,750
+de la membrane.
+
+37
+00:02:14,750 --> 00:02:17,250
+Il faut noter que la perméabilité de la
+
+38
+00:02:17,250 --> 00:02:20,970
+membrane égale la coefficient de diffusion sur l
+
+39
+00:02:20,970 --> 00:02:21,470
+'épaisseur.
+
+40
+00:02:22,370 --> 00:02:27,950
+Donc la mobilité, la coefficient de diffusion et
+
+41
+00:02:27,950 --> 00:02:31,770
+la perméabilité de la membrane sont proportionnelles.
+
+42
+00:02:32,590 --> 00:02:34,530
+Et il y a des relations entre les
+
+43
+00:02:34,530 --> 00:02:36,350
+trois caractéristiques.
+
+44
+00:02:36,890 --> 00:02:37,630
+C'est-à-dire lorsque l'on a
+
+45
+00:02:37,630 --> 00:02:40,070
+une grande mobilité, c'est une grande diffusion
+
+46
+00:02:40,070 --> 00:02:42,090
+et une grande perméabilité.
+
+47
+00:02:44,850 --> 00:02:50,050
+Donc à la membrane cellulaire, une cellule, vu
+
+48
+00:02:50,050 --> 00:02:53,730
+les différents types de membrane, peut-être c
+
+49
+00:02:53,730 --> 00:02:55,190
+'est la membrane de la cellule, ça peut
+
+50
+00:02:55,190 --> 00:02:58,810
+être la membrane du mitochondrie, ça peut être
+
+51
+00:02:58,810 --> 00:03:03,490
+la membrane du noyau de la cellule, des
+
+52
+00:03:03,490 --> 00:03:05,010
+membranes de l'appareil de gongé, et ainsi
+
+53
+00:03:05,010 --> 00:03:05,410
+de suite.
+
+54
+00:03:05,530 --> 00:03:11,590
+Donc les membranes sont complexes et sont constituées,
+
+55
+00:03:11,670 --> 00:03:14,470
+par exemple, pour la membrane cytoplasmique, elle est
+
+56
+00:03:14,470 --> 00:03:21,850
+formée par double couche phospholipidique et intercalée de
+
+57
+00:03:21,850 --> 00:03:27,330
+protéines de transport, des protéines structurelles et des
+
+58
+00:03:27,330 --> 00:03:31,970
+glycoprotéines qui permettent le signal du milieu extérieur
+
+59
+00:03:31,970 --> 00:03:33,450
+vers le milieu intérieur de la cellule.
+
+60
+00:03:34,030 --> 00:03:37,170
+Donc la membrane, elle est primordiale pour la
+
+61
+00:03:37,170 --> 00:03:38,630
+cellule vivante.
+
+62
+00:03:40,570 --> 00:03:46,370
+Or, on peut avoir des membranes inertes et
+
+63
+00:03:46,370 --> 00:03:47,570
+des membranes vivantes.
+
+64
+00:03:47,570 --> 00:03:50,310
+Pour les membranes inertes, on a ce type
+
+65
+00:03:50,310 --> 00:03:53,630
+de transport ou de transfert, c'est le
+
+66
+00:03:53,630 --> 00:03:57,330
+phénomène de transfert ou de transport passif.
+
+67
+00:03:58,550 --> 00:03:59,950
+C'est un transport qui se fait selon
+
+68
+00:03:59,950 --> 00:04:05,130
+un gradient de concentration et le gradient de
+
+69
+00:04:05,130 --> 00:04:06,010
+potentiel électrique.
+
+70
+00:04:06,210 --> 00:04:09,030
+Je donne l'exemple de la membrane de
+
+71
+00:04:09,030 --> 00:04:11,630
+dialyse pour l'appareil de dialyse.
+
+72
+00:04:13,010 --> 00:04:19,070
+Et également, il y a les membranes vivantes.
+
+73
+00:04:19,310 --> 00:04:22,190
+Donc les membranes vivantes, on peut assister à
+
+74
+00:04:22,190 --> 00:04:26,510
+un phénomène de transport passif et un transport
+
+75
+00:04:26,510 --> 00:04:26,990
+actif.
+
+76
+00:04:27,730 --> 00:04:31,970
+Pour les phénomènes de transport actif, on a
+
+77
+00:04:31,970 --> 00:04:36,110
+une amplification du phénomène de transport passif et
+
+78
+00:04:36,110 --> 00:04:40,970
+qui peut s'opposer au phénomène de ce
+
+79
+00:04:40,970 --> 00:04:41,510
+transport.
+
+80
+00:04:42,170 --> 00:04:44,290
+Et il nécessite l'apport d'une énergie
+
+81
+00:04:44,290 --> 00:04:45,250
+qui est la therméne.
+
+82
+00:04:47,500 --> 00:04:50,080
+Les différents types de membranes, donc on a
+
+83
+00:04:50,080 --> 00:04:51,160
+trois types de membranes.
+
+84
+00:04:52,600 --> 00:04:55,760
+Il y a la membrane hémiperméable ou semiperméable,
+
+85
+00:04:56,380 --> 00:04:59,580
+la membrane de dialyse et la membrane sélective.
+
+86
+00:05:00,300 --> 00:05:05,620
+La membrane hémiperméable ou semiperméable, comme le schéma
+
+87
+00:05:05,620 --> 00:05:08,120
+l'indique, elle est perméable seulement au solvant.
+
+88
+00:05:09,120 --> 00:05:12,320
+Elle n'est pas perméable aux autres particules.
+
+89
+00:05:13,140 --> 00:05:15,500
+Donc le schéma, il va montrer qu'il
+
+90
+00:05:15,500 --> 00:05:18,360
+y a un déplacement de l'eau pure
+
+91
+00:05:18,360 --> 00:05:24,160
+d'un milieu vers un deuxième milieu où
+
+92
+00:05:24,160 --> 00:05:27,240
+il y a une concentration ou une osmolarité
+
+93
+00:05:27,240 --> 00:05:30,100
+à travers une membrane semiperméable.
+
+94
+00:05:30,300 --> 00:05:31,400
+Donc c'est à ce niveau qu'on
+
+95
+00:05:31,400 --> 00:05:33,960
+peut assister au phénomène d'osmose.
+
+96
+00:05:36,890 --> 00:05:39,010
+La membrane de dialyse, c'est la membrane
+
+97
+00:05:39,010 --> 00:05:44,170
+qui existe au niveau des néphrons rénales.
+
+98
+00:05:45,090 --> 00:05:50,830
+Elle permet la perméabilité du solvant et des
+
+99
+00:05:50,830 --> 00:05:53,250
+petites molécules ou les petits ions.
+
+100
+00:05:53,250 --> 00:05:56,090
+Donc il ne laisse pas passer les grosses
+
+101
+00:05:56,090 --> 00:05:56,590
+molécules.
+
+102
+00:05:56,790 --> 00:05:59,470
+Donc ce schéma, il montre que cette membrane,
+
+103
+00:05:59,550 --> 00:06:02,350
+il laisse passer l'eau et les petites
+
+104
+00:06:02,350 --> 00:06:02,950
+particules.
+
+105
+00:06:03,210 --> 00:06:04,450
+Donc c'est une membrane diéguisante.
+
+106
+00:06:04,590 --> 00:06:06,970
+Il ne laisse pas passer les grosses molécules,
+
+107
+00:06:07,050 --> 00:06:08,030
+tels que le globule rouge.
+
+108
+00:06:09,150 --> 00:06:11,370
+D'ailleurs, lorsqu'il y a une lyse
+
+109
+00:06:11,370 --> 00:06:13,770
+ou une destruction de la membrane de dialyse
+
+110
+00:06:13,770 --> 00:06:17,310
+rénale, on va assister à une hématurie.
+
+111
+00:06:17,790 --> 00:06:19,150
+Et donc il y a le passage des
+
+112
+00:06:19,150 --> 00:06:19,630
+hématites.
+
+113
+00:06:20,750 --> 00:06:23,430
+Et puis la membrane sélective, c'est une
+
+114
+00:06:23,430 --> 00:06:26,070
+membrane qui est perméable à un type d
+
+115
+00:06:26,070 --> 00:06:27,790
+'ion ou de molécule seulement.
+
+116
+00:06:35,120 --> 00:06:37,600
+Les phénomènes passifs et élémentaires.
+
+117
+00:06:41,260 --> 00:06:43,640
+A travers la membrane, on peut assister à
+
+118
+00:06:43,640 --> 00:06:45,440
+un phénomène de convection saine.
+
+119
+00:06:46,000 --> 00:06:47,620
+Donc on a vu dans les cours précédents
+
+120
+00:06:47,620 --> 00:06:49,280
+que le phénomène de convection, lorsqu'il y
+
+121
+00:06:49,280 --> 00:06:50,820
+a un déplacement de l'ensemble de la
+
+122
+00:06:50,820 --> 00:06:56,000
+matière sous l'effet de la différence de
+
+123
+00:06:56,000 --> 00:06:56,420
+pression.
+
+124
+00:06:57,260 --> 00:07:00,700
+Donc ce schéma, il montre que lorsqu'on
+
+125
+00:07:00,700 --> 00:07:04,340
+a deux compartiments, un et deux, de même
+
+126
+00:07:04,340 --> 00:07:10,120
+composition, donc de même concentration, de nature au
+
+127
+00:07:10,120 --> 00:07:10,940
+plus que du cause.
+
+128
+00:07:13,020 --> 00:07:15,300
+Et donc il n'y a aucune cause
+
+129
+00:07:15,300 --> 00:07:18,680
+de migration entre les deux compartiments.
+
+130
+00:07:19,260 --> 00:07:20,540
+Donc il n'y a pas de déplacement.
+
+131
+00:07:21,840 --> 00:07:23,920
+A travers une membrane de dialyse.
+
+132
+00:07:23,920 --> 00:07:28,580
+Si cette fois-ci, on va augmenter la
+
+133
+00:07:28,580 --> 00:07:30,440
+pression au niveau du milieu 1, donc il
+
+134
+00:07:30,440 --> 00:07:33,160
+devient supérieur à celle du milieu 2, donc
+
+135
+00:07:33,160 --> 00:07:36,540
+P1 devient supérieur à P2, il va se
+
+136
+00:07:36,540 --> 00:07:40,220
+produire un flux de solution de 1 vers
+
+137
+00:07:40,220 --> 00:07:40,480
+2.
+
+138
+00:07:42,060 --> 00:07:47,480
+Ce flux du milieu 1 vers 2, il
+
+139
+00:07:47,480 --> 00:07:50,440
+est en fonction de la surface de ce
+
+140
+00:07:50,440 --> 00:07:57,060
+milieu, et une constante K est la variation
+
+141
+00:07:57,060 --> 00:07:58,960
+de pression entre le milieu 1 et 2.
+
+142
+00:08:09,100 --> 00:08:10,900
+La diffusion simple.
+
+143
+00:08:12,760 --> 00:08:15,720
+La diffusion simple est faite intervenir cette fois
+
+144
+00:08:15,720 --> 00:08:18,440
+-ci par la différence de concentration entre les
+
+145
+00:08:18,440 --> 00:08:19,180
+deux milieux.
+
+146
+00:08:20,220 --> 00:08:24,740
+Donc si on a un milieu A qui
+
+147
+00:08:24,740 --> 00:08:32,580
+contient du glucose, et un milieu B également,
+
+148
+00:08:33,100 --> 00:08:36,419
+avec une concentration différente, le milieu 1 est
+
+149
+00:08:36,419 --> 00:08:39,280
+plus concentré que le milieu 2, on va
+
+150
+00:08:39,280 --> 00:08:43,640
+assister à un déplacement de l'eau et
+
+151
+00:08:43,640 --> 00:08:47,160
+du glucose du milieu 1 vers le milieu
+
+152
+00:08:47,160 --> 00:08:47,480
+2.
+
+153
+00:08:48,640 --> 00:08:51,460
+Donc la concentration du milieu 1 va diminuer,
+
+154
+00:08:51,460 --> 00:08:57,320
+et celle du milieu 2 va augmenter jusqu
+
+155
+00:08:57,320 --> 00:08:58,680
+'à ce qu'il y ait l'équilibre
+
+156
+00:08:58,680 --> 00:08:59,600
+entre les deux milieux.
+
+157
+00:09:01,080 --> 00:09:02,940
+Donc c'est le phénomène de diffusion.
+
+158
+00:09:04,400 --> 00:09:08,260
+La valeur du flux de glucose est donnée
+
+159
+00:09:08,260 --> 00:09:09,680
+par la loi de Fick.
+
+160
+00:09:10,780 --> 00:09:13,360
+Le flux de diffusion entre le milieu 1
+
+161
+00:09:13,360 --> 00:09:16,960
+et le milieu 2, il est égal à
+
+162
+00:09:16,960 --> 00:09:22,280
+2 fois, elle est égale à la coefficient
+
+163
+00:09:22,280 --> 00:09:26,200
+de diffusion du solutel, qui est le glucose,
+
+164
+00:09:27,020 --> 00:09:33,820
+fois la surface de filtration, fois les variations
+
+165
+00:09:33,820 --> 00:09:35,780
+de concentration entre le milieu 2 et le
+
+166
+00:09:35,780 --> 00:09:40,000
+milieu 1, sur l'épaisseur de la membrane,
+
+167
+00:09:42,080 --> 00:09:51,560
+de la membrane du dialyse, qui laisse passer
+
+168
+00:09:51,560 --> 00:09:53,220
+l'eau et les petites particules.
+
+169
+00:09:55,120 --> 00:09:57,520
+La diffusion peut se faire pour les gaz,
+
+170
+00:09:57,840 --> 00:09:59,220
+c'est le cas de la diffusion au
+
+171
+00:09:59,220 --> 00:10:06,160
+niveau des alvéoles, également, comme il peut être
+
+172
+00:10:06,160 --> 00:10:07,580
+réalisé au niveau des solutions.
+
+173
+00:10:07,580 --> 00:10:14,300
+Donc pour les gaz, on va seulement faire
+
+174
+00:10:14,300 --> 00:10:17,750
+intervenir la relation de la variation de pression.
+
+175
+00:10:18,220 --> 00:10:20,860
+Au lieu de C2-C1, on a PI2
+
+176
+00:10:20,860 --> 00:10:27,120
+-PI1, et la coefficient de diffusion, on va
+
+177
+00:10:27,120 --> 00:10:31,280
+multiplier également avec la coefficient de solubilité, qui
+
+178
+00:10:31,280 --> 00:10:34,620
+est SI sur 22,4.
+
+179
+00:10:36,260 --> 00:10:38,400
+Ça c'est pour les gaz dissous, pour
+
+180
+00:10:38,400 --> 00:10:44,540
+les gaz à l'état gazeux, donc la
+
+181
+00:10:44,540 --> 00:10:48,120
+valeur du flux est la même que pour
+
+182
+00:10:48,120 --> 00:10:53,360
+les solutions, sauf qu'on a une variation
+
+183
+00:10:53,360 --> 00:10:55,900
+de pression sur l'épaisseur.
+
+184
+00:10:55,900 --> 00:11:01,180
+Donc ce phénomène de diffusion simple peut être
+
+185
+00:11:01,180 --> 00:11:07,580
+réalisé au niveau des différentes membranes de l
+
+186
+00:11:07,580 --> 00:11:10,760
+'organisme, telles que les glomerules.
+
+187
+00:11:12,760 --> 00:11:14,640
+Les potentiels de membrane.
+
+188
+00:11:14,900 --> 00:11:16,480
+D'abord le potentiel d'équilibre.
+
+189
+00:11:18,740 --> 00:11:21,500
+On va voir c'est quoi le potentiel
+
+190
+00:11:21,500 --> 00:11:25,640
+d'équilibre, et qu'on va appliquer à
+
+191
+00:11:25,640 --> 00:11:27,500
+deux cas de figure.
+
+192
+00:11:28,100 --> 00:11:30,540
+Le cas d'une membrane perméable à certains
+
+193
+00:11:30,540 --> 00:11:32,740
+ions, et imperméable à d'autres ions.
+
+194
+00:11:34,600 --> 00:11:37,240
+Le premier exemple, c'est le cas de
+
+195
+00:11:37,240 --> 00:11:39,080
+la membrane perméable à un subtype d'ion,
+
+196
+00:11:39,200 --> 00:11:41,060
+tel que l'ion H+.
+
+197
+00:11:41,600 --> 00:11:43,420
+L'ion H+, est le plus petit
+
+198
+00:11:43,420 --> 00:11:46,220
+ion qui peut exister dans l'organisme.
+
+199
+00:11:46,220 --> 00:11:49,860
+Si on a deux compartiments séparés par une
+
+200
+00:11:49,860 --> 00:11:52,300
+membrane qui ne passait que des ions H
+
+201
+00:11:52,300 --> 00:11:58,220
++, donc une membrane sélective, et on place
+
+202
+00:11:58,220 --> 00:12:02,360
+une au milieu d'eux, et on place
+
+203
+00:12:02,360 --> 00:12:04,900
+deux solutions de concentration différentes en H+,
+
+204
+00:12:04,900 --> 00:12:08,680
+si on a H1 et la concentration supérieure
+
+205
+00:12:08,680 --> 00:12:17,240
+à H2, alors on va assister à un
+
+206
+00:12:17,240 --> 00:12:19,140
+déplacement d'ion H+.
+
+207
+00:12:22,140 --> 00:12:25,800
+Les ions H+, qui vont traverser la
+
+208
+00:12:25,800 --> 00:12:35,240
+membrane sélective, ils vont ramener avec eux les
+
+209
+00:12:35,240 --> 00:12:35,920
+ions A-.
+
+210
+00:12:36,580 --> 00:12:38,580
+Or, les ions A- ne peuvent pas
+
+211
+00:12:38,580 --> 00:12:40,680
+traverser la membrane parce qu'elle est sélective
+
+212
+00:12:40,680 --> 00:12:44,120
+pour les ions H+.
+
+213
+00:12:44,120 --> 00:12:49,480
+Et donc la solution 1 devient chargée négativement,
+
+214
+00:12:49,620 --> 00:12:52,760
+puisqu'il y a plus de A-, alors
+
+215
+00:12:52,760 --> 00:12:55,840
+que la solution 2 devient chargée positivement.
+
+216
+00:12:55,840 --> 00:13:04,320
+Cette différence de charge se produit au niveau
+
+217
+00:13:04,320 --> 00:13:10,760
+des deux versions de la membrane sélective.
+
+218
+00:13:12,040 --> 00:13:15,260
+Donc la diffusion de H+, de 1
+
+219
+00:13:15,260 --> 00:13:19,300
+vers 2, va s'arrêter, puisque le A
+
+220
+00:13:19,300 --> 00:13:23,340
+- ne peut pas traverser la membrane, et
+
+221
+00:13:23,340 --> 00:13:25,600
+il est accompagné par le H+.
+
+222
+00:13:26,380 --> 00:13:28,340
+Et il va y avoir donc formation d
+
+223
+00:13:28,340 --> 00:13:30,920
+'une couche double électrique responsable de différence de
+
+224
+00:13:30,920 --> 00:13:31,540
+potentiel.
+
+225
+00:13:32,300 --> 00:13:37,820
+Cette différence de potentiel est appelée le potentiel
+
+226
+00:13:37,820 --> 00:13:38,580
+d'équilibre.
+
+227
+00:13:39,120 --> 00:13:43,080
+C'est une différence de potentiel électrochimique.
+
+228
+00:13:44,780 --> 00:13:47,640
+L'équilibre est réalisé pour H+, lorsque
+
+229
+00:13:47,640 --> 00:13:50,080
+le flux entre le milieu 1 et 2
+
+230
+00:13:50,080 --> 00:13:50,780
+est égal à 0.
+
+231
+00:13:51,160 --> 00:13:53,760
+Donc on parle d'un potentiel électrochimique.
+
+232
+00:13:55,900 --> 00:13:58,680
+Milieu 1 égale le potentiel électrochimique du milieu
+
+233
+00:13:58,680 --> 00:13:58,980
+2.
+
+234
+00:13:59,700 --> 00:14:06,100
+Donc le schéma, il montre cette couche double
+
+235
+00:14:07,800 --> 00:14:09,300
+électrique.
+
+236
+00:14:12,480 --> 00:14:14,720
+De part et d'autre, il y a
+
+237
+00:14:14,720 --> 00:14:16,580
+les ions négatifs et les ions positifs.
+
+238
+00:14:18,480 --> 00:14:22,340
+Le potentiel électrochimique du milieu 1, on peut
+
+239
+00:14:22,340 --> 00:14:28,300
+le schématiser par V1, c'est le potentiel
+
+240
+00:14:28,300 --> 00:14:32,940
+électrique, plus le potentiel chimique mu1 sur ZK0.
+
+241
+00:14:33,980 --> 00:14:36,800
+Il est égal au potentiel électrochimique de H
+
+242
+00:14:36,800 --> 00:14:40,600
++, du milieu 2.
+
+243
+00:14:40,940 --> 00:14:44,280
+Donc égal V2 plus le potentiel électrochimique sur
+
+244
+00:14:44,280 --> 00:14:45,320
+ZK0.
+
+245
+00:14:45,320 --> 00:14:51,320
+Et donc on peut après ramener les deux
+
+246
+00:14:51,320 --> 00:14:55,240
+voltages ou les deux potentiels électriques, de part
+
+247
+00:14:55,240 --> 00:15:00,140
+et d'autre, l'égalité qui sont égaux
+
+248
+00:15:00,140 --> 00:15:03,940
+au potentiel électrochimique du milieu 2.
+
+249
+00:15:03,940 --> 00:15:05,920
+Également, la différence sur ZK0.
+
+250
+00:15:06,620 --> 00:15:10,160
+Et on va aboutir enfin de compte à
+
+251
+00:15:10,160 --> 00:15:13,200
+un potentiel d'équilibre, V1-V2, qui est
+
+252
+00:15:13,200 --> 00:15:16,440
+égal à RT, la constante des gaz parfaits,
+
+253
+00:15:16,460 --> 00:15:17,780
+fois la température de l'air qui est
+
+254
+00:15:17,780 --> 00:15:22,360
+vide sur ZK0, fois le logarithme de la
+
+255
+00:15:22,360 --> 00:15:30,180
+concentration de H+, du milieu 2, sur
+
+256
+00:15:30,180 --> 00:15:32,880
+la concentration de H+, du milieu 1.
+
+257
+00:15:33,360 --> 00:15:35,440
+Cette relation est appelée la relation de Nernst,
+
+258
+00:15:37,000 --> 00:15:40,880
+et qui s'applique à tout ion diffusible
+
+259
+00:15:40,880 --> 00:15:43,440
+qui se trouve à l'équilibre.
+
+260
+00:15:45,180 --> 00:15:50,460
+Donc la relation de Nernst est appliquée dans
+
+261
+00:15:50,460 --> 00:15:54,160
+la mesure du pH des solutions, des différents
+
+262
+00:15:54,160 --> 00:15:54,960
+types de solutions.
+
+263
+00:15:55,680 --> 00:15:57,000
+On peut mesurer le pH du sol, le
+
+264
+00:15:57,000 --> 00:15:59,900
+pH du plasma, le pH des urines, par
+
+265
+00:15:59,900 --> 00:16:01,800
+cet appareil de pHmètre.
+
+266
+00:16:02,800 --> 00:16:08,940
+Le pHmètre est constitué par une électrode de
+
+267
+00:16:08,940 --> 00:16:14,660
+référence et une électrode qui est sélective pour
+
+268
+00:16:14,660 --> 00:16:15,460
+l'ion H+.
+
+269
+00:16:15,460 --> 00:16:21,540
+Donc il va donner des valeurs de la
+
+270
+00:16:21,540 --> 00:16:24,860
+concentration en H+, et donc le pH.
+
+271
+00:16:26,860 --> 00:16:30,040
+Le deuxième cas de figure, c'est le
+
+272
+00:16:30,040 --> 00:16:32,580
+cas de la membrane perméable aux petits ions
+
+273
+00:16:32,580 --> 00:16:37,820
+et imperméable aux macro-ions, donc les protéines,
+
+274
+00:16:37,920 --> 00:16:38,980
+c'est le phénomène de Donnan.
+
+275
+00:16:40,820 --> 00:16:44,640
+Pour l'effet expérimental de cette membrane perméable
+
+276
+00:16:44,640 --> 00:16:48,780
+aux petits ions et imperméable aux macro-ions,
+
+277
+00:16:48,780 --> 00:16:55,240
+on utilise une membrane vialisante qui sépare deux
+
+278
+00:16:55,240 --> 00:16:56,940
+solutions 1 et 2.
+
+279
+00:16:57,180 --> 00:16:59,420
+Pour la solution 1, elle contient des macro
+
+280
+00:16:59,420 --> 00:17:01,360
+-ions non diffusibles, c'est-à-dire des
+
+281
+00:17:01,360 --> 00:17:05,720
+protéines et des petits ions diffusibles de Na
+
+282
+00:17:05,720 --> 00:17:06,579
++, Cl-.
+
+283
+00:17:08,240 --> 00:17:11,960
+Pour la solution 2, elle contient uniquement des
+
+284
+00:17:11,960 --> 00:17:16,280
+ions diffusibles Na+, Cl-.
+
+285
+00:17:20,000 --> 00:17:28,250
+Donc, l'équivalent va se produire avec une
+
+286
+00:17:28,250 --> 00:17:31,530
+inégalité de concentration des ions diffusibles.
+
+287
+00:17:32,010 --> 00:17:33,890
+Entre les milieux 1 et 2, il existe
+
+288
+00:17:33,890 --> 00:17:35,010
+une différence de potentiel.
+
+289
+00:17:36,630 --> 00:17:45,710
+Donc, la membrane qui est semi-perméable, elle
+
+290
+00:17:45,710 --> 00:17:48,350
+est perméable à Cl- et à Na+.
+
+291
+00:17:49,950 --> 00:17:52,350
+Et donc, après un certain temps, l'équilibre
+
+292
+00:17:52,350 --> 00:17:57,170
+sera atteint avec une égalité entre la concentration
+
+293
+00:17:57,170 --> 00:17:59,490
+de Cl- en 1 et Cl-
+
+294
+00:17:59,490 --> 00:18:04,890
+en 2, et également une égalisation de la
+
+295
+00:18:04,890 --> 00:18:06,950
+concentration de Na+, en 1 et de
+
+296
+00:18:06,950 --> 00:18:08,450
+Na+, en 2.
+
+297
+00:18:09,430 --> 00:18:12,490
+Or, par le phénomène d'électroneutralité, Cl-
+
+298
+00:18:12,490 --> 00:18:15,290
+en 1 égale Na+, en 1 égale
+
+299
+00:18:15,290 --> 00:18:17,370
+à A, et Cl- en 2 égale
+
+300
+00:18:17,370 --> 00:18:19,010
+Na+, en 2 égale à A.
+
+301
+00:18:19,670 --> 00:18:23,230
+Et donc, en fin de compte, on va
+
+302
+00:18:23,230 --> 00:18:30,570
+avoir les concentrations des 4, des 3 ions
+
+303
+00:18:30,570 --> 00:18:37,410
+de Na+, qui sont égaux.
+
+304
+00:18:37,410 --> 00:18:41,170
+Or, quand on ajoute une concentration de protéines
+
+305
+00:18:41,170 --> 00:18:48,330
+de sodium ZNa+, RZ-, on aura
+
+306
+00:18:48,330 --> 00:18:51,070
+Na+, en 1, égale à A, plus
+
+307
+00:18:51,070 --> 00:18:55,230
+la concentration en milieu de sodium, plus la
+
+308
+00:18:55,230 --> 00:19:00,010
+concentration qu'on a ajoutée Zp, qui va
+
+309
+00:19:00,010 --> 00:19:02,570
+être supérieure à la concentration de Na+,
+
+310
+00:19:02,570 --> 00:19:04,710
+en milieu de 2, qui est égale à
+
+311
+00:19:04,710 --> 00:19:04,950
+A.
+
+312
+00:19:06,510 --> 00:19:08,890
+Et donc, il va y avoir une différence
+
+313
+00:19:08,890 --> 00:19:11,390
+de concentration de Na+, entre 1 et
+
+314
+00:19:11,390 --> 00:19:14,090
+2, ce qui exige un passage de Na
+
+315
+00:19:14,090 --> 00:19:16,630
++, du milieu 1 vers le milieu 2.
+
+316
+00:19:17,470 --> 00:19:20,810
+Mais, l'électroneutralité, il exige que chaque ion
+
+317
+00:19:20,810 --> 00:19:22,730
+soit accompagné de NaCl-.
+
+318
+00:19:23,070 --> 00:19:24,590
+Et donc, il va y avoir une diffusion
+
+319
+00:19:24,590 --> 00:19:28,530
+d'une certaine quantité de Cl- de
+
+320
+00:19:28,530 --> 00:19:29,490
+1 vers 2.
+
+321
+00:19:34,200 --> 00:19:36,400
+Et on va avoir donc un Cl-
+
+322
+00:19:36,400 --> 00:19:39,080
+en 1 qui est égale à A-x,
+
+323
+00:19:39,820 --> 00:19:41,640
+et Cl- en 2 égale à A
+
+324
+00:19:41,640 --> 00:19:45,140
++, et donc Cl- en 1 va
+
+325
+00:19:45,140 --> 00:19:47,500
+devenir inférieur à Cl- en 2.
+
+326
+00:19:50,680 --> 00:19:53,660
+Ce qui fait apparaître un gradient de concentration
+
+327
+00:19:53,660 --> 00:19:56,180
+Cl- de 2 vers 1 qui s
+
+328
+00:19:56,180 --> 00:19:58,700
+'oppose à cette diffusion de Cl- de
+
+329
+00:19:58,700 --> 00:19:59,280
+1 vers 2.
+
+330
+00:19:59,380 --> 00:20:01,980
+Il y a deux phénomènes opposés qui se
+
+331
+00:20:01,980 --> 00:20:04,240
+produisent et qui imposent ce qu'on appelle
+
+332
+00:20:04,240 --> 00:20:07,180
+un potentiel d'équilibre entre les deux solutions.
+
+333
+00:20:08,340 --> 00:20:14,480
+Donc, le potentiel d'équilibre, on peut appliquer
+
+334
+00:20:14,480 --> 00:20:18,060
+la relation de Nertz à chaque ion diffusible.
+
+335
+00:20:18,060 --> 00:20:24,420
+Et on va avoir enfin de compte une
+
+336
+00:20:24,420 --> 00:20:29,340
+équation de relation de Donald qui donnera la
+
+337
+00:20:29,340 --> 00:20:31,620
+concentration de Na+, en 1, fois la
+
+338
+00:20:31,620 --> 00:20:34,600
+concentration de Cl- en 1, égale à
+
+339
+00:20:34,600 --> 00:20:37,500
+la concentration de Na+, en 2, fois
+
+340
+00:20:37,500 --> 00:20:39,520
+la concentration de Cl- en 2.
+
+341
+00:20:40,300 --> 00:20:41,560
+C'est la relation de Donald.
+
+342
+00:20:46,880 --> 00:20:49,460
+Puis, le potentiel de diffusion.
+
+343
+00:20:50,480 --> 00:20:53,120
+Le potentiel de diffusion, il existe lorsque la
+
+344
+00:20:53,120 --> 00:20:56,580
+membrane est inégalement perméable à plusieurs types d
+
+345
+00:20:56,580 --> 00:20:56,680
+'ions.
+
+346
+00:20:58,020 --> 00:21:01,420
+Donc, c'est le cas d'un anion
+
+347
+00:21:01,420 --> 00:21:03,720
+et d'un cation de volubilité différente.
+
+348
+00:21:04,180 --> 00:21:07,600
+Par exemple, le Cl- et le Na+.
+
+349
+00:21:08,600 --> 00:21:14,760
+La membrane est inégalement perméable au Na+.
+
+350
+00:21:14,760 --> 00:21:20,480
+Donc, la mobilité ou la perméabilité est plus
+
+351
+00:21:20,480 --> 00:21:23,600
+grande pour le Cl- que le Na+.
+
+352
+00:21:26,440 --> 00:21:31,300
+De même, on va avoir une formation d
+
+353
+00:21:31,300 --> 00:21:35,640
+'une membrane double couche.
+
+354
+00:21:38,740 --> 00:21:48,660
+Donc, double couche électrique de part et d
+
+355
+00:21:48,660 --> 00:21:49,640
+'autre de la membrane.
+
+356
+00:21:55,520 --> 00:22:02,280
+Donc, cette double couche électrique du membrane qui
+
+357
+00:22:02,280 --> 00:22:07,620
+est diffusible à deux ions de nature différente,
+
+358
+00:22:07,880 --> 00:22:08,600
+c'est à dire un anion et un
+
+359
+00:22:08,600 --> 00:22:08,960
+cation.
+
+360
+00:22:10,420 --> 00:22:14,020
+C'est intervenir également la loi de Nernst.
+
+361
+00:22:14,540 --> 00:22:18,180
+Et on aura à la fin le potentiel
+
+362
+00:22:18,180 --> 00:22:22,000
+de diffusion V1-V2 égale la mobilité du
+
+363
+00:22:22,000 --> 00:22:25,000
+premier ion moins la mobilité du deuxième ion
+
+364
+00:22:25,000 --> 00:22:29,900
+sur la somme des mobilités, fois RT, fois
+
+365
+00:22:29,900 --> 00:22:31,740
+la constante de gaz par T, fois la
+
+366
+00:22:31,740 --> 00:22:35,900
+température sur K0, fois le logarithme decimal du
+
+367
+00:22:35,900 --> 00:22:40,160
+deuxième ion sur le premier ion.
+
+368
+00:22:41,320 --> 00:22:43,580
+Le cas des deux cations de mobilité différente,
+
+369
+00:22:43,780 --> 00:22:45,880
+c'est le cas du potassium et du
+
+370
+00:22:45,880 --> 00:22:46,340
+sodium.
+
+371
+00:22:47,120 --> 00:22:50,440
+Donc, on parle toujours du potentiel de diffusion.
+
+372
+00:22:51,380 --> 00:22:57,720
+Donc, je ne demande pas d'apprendre par
+
+373
+00:22:57,720 --> 00:23:05,780
+coeur les équations ou les formules qui sont
+
+374
+00:23:05,780 --> 00:23:10,620
+devant nous, mais de comprendre seulement que lorsqu
+
+375
+00:23:10,620 --> 00:23:14,940
+'il y a un flux d'un cation
+
+376
+00:23:14,940 --> 00:23:19,360
+qui diffère dans la mobilité d'un autre
+
+377
+00:23:19,360 --> 00:23:21,580
+cation, on a ce qu'on appelle une
+
+378
+00:23:21,580 --> 00:23:22,080
+relation.
+
+379
+00:23:22,780 --> 00:23:26,020
+C'est la relation de Goldman qui fait
+
+380
+00:23:26,020 --> 00:23:30,620
+intervenir la mobilité de deux cations et permet
+
+381
+00:23:30,620 --> 00:23:33,140
+également de montrer qu'il y a un
+
+382
+00:23:33,140 --> 00:23:40,100
+potentiel de membrane, qu'on peut le mesurer.
+
+383
+00:23:40,100 --> 00:23:43,740
+Ce potentiel de membrane, d'ailleurs, on peut
+
+384
+00:23:43,740 --> 00:23:50,380
+le voir lorsqu'on utilise les électrodes.
+
+385
+00:23:51,740 --> 00:23:56,000
+C'est le cas de la fibre nerveuse.
+
+386
+00:23:56,080 --> 00:23:58,980
+Donc, la membrane de la fibre nerveuse qui
+
+387
+00:23:58,980 --> 00:24:03,880
+permet de mesurer la différence de potentiel de
+
+388
+00:24:03,880 --> 00:24:05,660
+part et d'autre de cette fibre nerveuse.
+
+389
+00:24:07,040 --> 00:24:14,720
+Également, au niveau des cellules viologique, on trouvera
+
+390
+00:24:14,720 --> 00:24:15,920
+toujours qu'il y a une différence de
+
+391
+00:24:15,920 --> 00:24:16,400
+potentiel.
+
+392
+00:24:16,680 --> 00:24:19,480
+Donc, tu as une répartition inégale de charges
+
+393
+00:24:19,480 --> 00:24:21,340
+de part et d'autre dans la membrane
+
+394
+00:24:21,340 --> 00:24:22,400
+cellulaire.
+
+395
+00:24:23,240 --> 00:24:24,320
+Et je vous remercie.

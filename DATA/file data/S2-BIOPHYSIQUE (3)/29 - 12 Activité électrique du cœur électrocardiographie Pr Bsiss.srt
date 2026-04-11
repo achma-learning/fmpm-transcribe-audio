@@ -1,0 +1,2499 @@
+1
+00:00:02,250 --> 00:00:06,170
+Bonjour, le cours d'aujourd'hui est intitulé
+
+2
+00:00:06,170 --> 00:00:09,570
+Activité électrique du coeur électrocardiographique.
+
+3
+00:00:10,910 --> 00:00:15,129
+Donc, on va voir l'introduction, ce qui
+
+4
+00:00:15,129 --> 00:00:19,130
+concerne l'activité électrique cardiaque, les éléments de
+
+5
+00:00:19,130 --> 00:00:22,990
+l'anatomie et l'histologie du muscle cardiaque,
+
+6
+00:00:23,890 --> 00:00:26,310
+l'électrophysiologie de la cellule cardiaque, les bases
+
+7
+00:00:26,310 --> 00:00:32,770
+physiques de l'électrocardiographie et le tracé ECG,
+
+8
+00:00:33,750 --> 00:00:38,670
+technique d'enregistrement, puis la lecture de l
+
+9
+00:00:38,670 --> 00:00:43,270
+'électrocardiogramme et enfin on va conclure.
+
+10
+00:00:53,520 --> 00:00:58,580
+Donc, en guise d'introduction, le coeur c
+
+11
+00:00:58,580 --> 00:01:00,960
+'est un organe automatique qui donne lieu à
+
+12
+00:01:00,960 --> 00:01:03,800
+des phénomènes électriques, c'est-à-dire des
+
+13
+00:01:03,800 --> 00:01:05,440
+forces électromotrices.
+
+14
+00:01:07,140 --> 00:01:10,100
+Donc, on peut mesurer le signal électrique à
+
+15
+00:01:10,100 --> 00:01:14,060
+l'aide de l'électrocardiogramme qui est un
+
+16
+00:01:14,060 --> 00:01:14,560
+tracé.
+
+17
+00:01:16,640 --> 00:01:18,980
+Après, on peut faire l'étude de la
+
+18
+00:01:18,980 --> 00:01:27,380
+cellule cardiaque qui apporte des renseignements sur la
+
+19
+00:01:27,380 --> 00:01:32,120
+physiopathologie de certains troubles du rythme et les
+
+20
+00:01:32,120 --> 00:01:33,290
+modes d'action de divers drogues.
+
+21
+00:01:34,620 --> 00:01:38,380
+L'électrocardiogramme, il permet de donner une idée
+
+22
+00:01:38,380 --> 00:01:41,620
+de l'ensemble de l'électrophysiologie cardiaque.
+
+23
+00:01:42,640 --> 00:01:46,340
+Il permet de diagnostiquer de nombreux troubles et
+
+24
+00:01:46,340 --> 00:01:50,860
+de suivre leur évolution et puis évaluer l
+
+25
+00:01:50,860 --> 00:01:52,040
+'efficacité du médicament.
+
+26
+00:01:52,040 --> 00:01:55,480
+C'est un exemple qui est anodin, il
+
+27
+00:01:55,480 --> 00:01:59,660
+est non-irradiant et il est facile à
+
+28
+00:01:59,660 --> 00:02:00,140
+réaliser.
+
+29
+00:02:02,940 --> 00:02:03,600
+Définition.
+
+30
+00:02:03,940 --> 00:02:07,919
+L'électrocardiographie est une représentation graphique de l
+
+31
+00:02:07,919 --> 00:02:09,180
+'activité électrique du coeur.
+
+32
+00:02:10,000 --> 00:02:11,120
+Donc, c'est un graphe.
+
+33
+00:02:13,980 --> 00:02:18,850
+L'activité électrique du coeur est liée aux
+
+34
+00:02:18,850 --> 00:02:24,920
+variations du potentiel électrique des cellules spécialisées dans
+
+35
+00:02:24,920 --> 00:02:25,720
+les contractions.
+
+36
+00:02:25,720 --> 00:02:27,200
+C'est une myocyte.
+
+37
+00:02:27,940 --> 00:02:30,460
+Et des cellules spécialisées dans l'automatisme et
+
+38
+00:02:30,460 --> 00:02:31,880
+la conduction des influx.
+
+39
+00:02:32,820 --> 00:02:35,500
+Donc, c'est les cellules des tissus immondables.
+
+40
+00:02:36,420 --> 00:02:38,860
+L'activité électrique du coeur est recueillie par
+
+41
+00:02:38,860 --> 00:02:42,580
+des électrodes qui sont déposées à la surface
+
+42
+00:02:42,580 --> 00:02:44,140
+de la peau.
+
+43
+00:02:44,220 --> 00:02:50,520
+Donc, par phénomène de conduction électrique du tissu
+
+44
+00:02:50,520 --> 00:02:56,920
+de l'organisme, on peut enregistrer un électrocardiogramme
+
+45
+00:02:56,920 --> 00:02:59,820
+qui est le tracé du papier de l
+
+46
+00:02:59,820 --> 00:03:03,240
+'activité électrique du coeur.
+
+47
+00:03:07,260 --> 00:03:10,720
+L'électrocardiographe, c'est l'appareil qui permet
+
+48
+00:03:10,720 --> 00:03:12,740
+de faire l'électrocardiogramme.
+
+49
+00:03:14,120 --> 00:03:17,540
+Il y a également un appareil qui affiche
+
+50
+00:03:17,540 --> 00:03:20,280
+le tracé sur un écran ou un scope,
+
+51
+00:03:20,520 --> 00:03:21,780
+c'est l'électrocardioscope.
+
+52
+00:03:23,350 --> 00:03:27,230
+Donc, le schéma, il montre les différents points
+
+53
+00:03:27,230 --> 00:03:31,830
+dans lesquels on va déposer les électrodes qu
+
+54
+00:03:31,830 --> 00:03:37,430
+'on va recueillir sur un papier millimétré sur
+
+55
+00:03:37,430 --> 00:03:41,270
+l'appareil et on voit le grossissement de
+
+56
+00:03:41,270 --> 00:03:46,810
+cette image ou de ce tracé d'électrocardiogramme.
+
+57
+00:03:47,810 --> 00:03:53,550
+Alors, les rappels anatomiques du tissu myocardique.
+
+58
+00:03:55,660 --> 00:03:59,300
+Le tissu myocardique, il est composé d'un
+
+59
+00:03:59,300 --> 00:04:00,100
+tissu nodal.
+
+60
+00:04:02,750 --> 00:04:08,650
+C'est un tissu où l'influx automatique
+
+61
+00:04:08,650 --> 00:04:12,870
+naît périodiquement à ce niveau.
+
+62
+00:04:12,870 --> 00:04:18,350
+Donc, on peut dénombrer le noeud sinusal au
+
+63
+00:04:18,350 --> 00:04:20,709
+niveau de l'oreillette droite qui est au
+
+64
+00:04:20,709 --> 00:04:23,490
+pied de la ventrave supérieure.
+
+65
+00:04:25,980 --> 00:04:28,740
+Après, l'influx automatique va se propager de
+
+66
+00:04:28,740 --> 00:04:32,420
+proche en proche dans les oreillettes pour passer
+
+67
+00:04:32,420 --> 00:04:39,520
+au niveau du noeud auriculo-ventriculaire ou le
+
+68
+00:04:39,520 --> 00:04:40,260
+noeud de Tavara.
+
+69
+00:04:43,100 --> 00:04:48,880
+Après, il traverse la jonction auriculo-ventriculaire via
+
+70
+00:04:48,880 --> 00:04:54,120
+le tronc du faisceau de His pour cheminer
+
+71
+00:04:54,420 --> 00:04:57,320
+dans le septum interventriculaire via les branches droite
+
+72
+00:04:57,320 --> 00:04:59,300
+et gauche du faisceau de His.
+
+73
+00:05:02,660 --> 00:05:05,900
+Puis, il atteint les cellules myocardiques ventriculaires par
+
+74
+00:05:05,900 --> 00:05:07,240
+le réseau du Purkinje.
+
+75
+00:05:09,020 --> 00:05:13,620
+Donc, on peut remarquer que l'activité électrique
+
+76
+00:05:13,620 --> 00:05:16,280
+des oreillettes et celles des oreillettes ventriculaires sont
+
+77
+00:05:16,280 --> 00:05:17,780
+séparées par un âne en fibres.
+
+78
+00:05:18,620 --> 00:05:20,960
+Donc, l'influx ne peut passer des oreillettes
+
+79
+00:05:20,960 --> 00:05:24,080
+aux ventricules que par le noeud auriculo-ventriculaire.
+
+80
+00:05:29,220 --> 00:05:34,100
+Cette image montre les différentes phases au niveau
+
+81
+00:05:34,100 --> 00:05:39,840
+du noeud sinusal, puis il va vers le
+
+82
+00:05:39,840 --> 00:05:43,020
+noeud auriculo-ventriculaire, puis vers le faisceau de
+
+83
+00:05:43,020 --> 00:05:50,390
+His et l'influx nerveux ou électrique du
+
+84
+00:05:50,390 --> 00:05:50,750
+coeur.
+
+85
+00:05:52,070 --> 00:05:56,230
+Il va se propager au niveau du muscle
+
+86
+00:05:56,230 --> 00:05:59,730
+interventriculaire, puis au niveau du ventricule gauche et
+
+87
+00:05:59,730 --> 00:06:00,530
+du ventricule droit.
+
+88
+00:06:03,430 --> 00:06:09,970
+Histologiquement, le tissu cardiaque est composé de deux
+
+89
+00:06:09,970 --> 00:06:10,970
+types de tissus.
+
+90
+00:06:11,690 --> 00:06:15,030
+Il y a le tissu nodal et il
+
+91
+00:06:15,030 --> 00:06:16,010
+y a le reste du myocarde.
+
+92
+00:06:16,010 --> 00:06:20,430
+Pour le tissu nodal, il est présent au
+
+93
+00:06:20,430 --> 00:06:24,980
+niveau du noeud sinusal, puis au niveau du
+
+94
+00:06:24,980 --> 00:06:28,580
+noeud auriculo-ventriculaire, de tronc et des branches
+
+95
+00:06:28,580 --> 00:06:30,780
+du faisceau de His et du réseau du
+
+96
+00:06:30,780 --> 00:06:31,460
+Purkinje.
+
+97
+00:06:32,560 --> 00:06:34,360
+Il est fait de cellules spécialisées pour l
+
+98
+00:06:34,360 --> 00:06:37,820
+'homéofibrie et leur fonction c'est l'élaboration
+
+99
+00:06:37,820 --> 00:06:42,520
+de l'influx électrique et également la conduction
+
+100
+00:06:42,520 --> 00:06:48,180
+rapide de cet influx ou du courant électrique.
+
+101
+00:06:49,040 --> 00:06:53,840
+Le reste du myocarde est riche en myofibries
+
+102
+00:06:53,840 --> 00:06:54,480
+cardiaques.
+
+103
+00:06:55,960 --> 00:06:58,480
+Leur fonction essentielle c'est la contraction musculaire
+
+104
+00:06:58,480 --> 00:07:01,420
+cardiaque et la propulsion du son.
+
+105
+00:07:02,420 --> 00:07:08,500
+Les myofibries sont situées en position transversale de
+
+106
+00:07:08,500 --> 00:07:12,180
+structure analogue à celle des fibres musculaires squelettiques.
+
+107
+00:07:13,120 --> 00:07:16,160
+Le schéma ci-dessous montre l'histologie des
+
+108
+00:07:16,160 --> 00:07:20,380
+cellules nodales et les cellules myocardiques.
+
+109
+00:07:25,230 --> 00:07:29,790
+L'électrophysiologie de la cellule cardiaque Au niveau
+
+110
+00:07:29,790 --> 00:07:35,660
+d'une cellule excitable telle que la cellule
+
+111
+00:07:35,660 --> 00:07:39,460
+nerveuse ou la cellule cardiaque, le potentiel de
+
+112
+00:07:39,460 --> 00:07:46,560
+repos est recueilli ou c'est le résultat
+
+113
+00:07:46,560 --> 00:07:50,940
+lorsqu'on fait pénétrer des micro-électrodes dans
+
+114
+00:07:50,940 --> 00:07:55,580
+une fibrie cardiaque ou dans une fibre nerveuse.
+
+115
+00:07:56,900 --> 00:08:04,400
+Le résultat est une répartition inégale de chaque
+
+116
+00:08:04,400 --> 00:08:06,560
+ion de part et d'autre de la
+
+117
+00:08:06,560 --> 00:08:06,960
+membrane.
+
+118
+00:08:07,660 --> 00:08:09,480
+C'est ce qu'on appelle le potentiel
+
+119
+00:08:09,480 --> 00:08:10,020
+de repos.
+
+120
+00:08:14,140 --> 00:08:19,640
+La différence entre le potentiel de repos et
+
+121
+00:08:19,640 --> 00:08:25,780
+le potentiel intracellulaire est toujours négative.
+
+122
+00:08:25,780 --> 00:08:29,620
+Le potentiel de repos est un potentiel lorsqu
+
+123
+00:08:29,620 --> 00:08:32,520
+'il n'y a pas de courant ou
+
+124
+00:08:32,520 --> 00:08:35,480
+d'activité électrique, la cellule est au repos.
+
+125
+00:08:36,380 --> 00:08:39,799
+Il est toujours négatif et la cellule nerveuse
+
+126
+00:08:39,799 --> 00:08:42,940
+a un potentiel de repos de moins de
+
+127
+00:08:42,940 --> 00:08:47,740
+70 mV alors que la cellule cardiaque a
+
+128
+00:08:47,740 --> 00:08:50,620
+un potentiel de repos de moins de 90
+
+129
+00:08:50,620 --> 00:08:52,280
+mV.
+
+130
+00:08:52,280 --> 00:08:56,040
+Le chemin illustre les électrodes qui sont pénétrées
+
+131
+00:08:56,040 --> 00:08:58,560
+à l'intérieur de la cellule des micro
+
+132
+00:08:58,560 --> 00:09:03,840
+-électrodes avec une répartition inégale des charges ou
+
+133
+00:09:03,840 --> 00:09:05,100
+des ions de part et d'autre de
+
+134
+00:09:05,100 --> 00:09:05,560
+la membrane.
+
+135
+00:09:06,720 --> 00:09:09,980
+On va voir que cette répartition inégale va
+
+136
+00:09:09,980 --> 00:09:13,980
+constituer ce qu'on appelle un dipole cellulaire.
+
+137
+00:09:15,380 --> 00:09:20,300
+Ici, le potassium est en abondance au niveau
+
+138
+00:09:20,300 --> 00:09:24,260
+intracellulaire par rapport au sodium et inversement, le
+
+139
+00:09:24,260 --> 00:09:27,220
+sodium est le plus prépondérant en extracellulaire.
+
+140
+00:09:28,540 --> 00:09:30,280
+Le potentiel d'action.
+
+141
+00:09:30,910 --> 00:09:36,080
+Au niveau des cellules excitables cardiaques et nerveuses,
+
+142
+00:09:38,470 --> 00:09:44,930
+la répartition ionique peut varier brutalement par des
+
+143
+00:09:44,930 --> 00:09:53,630
+dépolarisations et par des permeabilités transmembranaires, créant une
+
+144
+00:09:53,630 --> 00:09:57,230
+variation de potentiel appelée potentiel d'action.
+
+145
+00:09:58,250 --> 00:10:00,130
+Le potentiel d'action, c'est un phénomène
+
+146
+00:10:00,130 --> 00:10:03,190
+qui se déclenche de façon identique pour un
+
+147
+00:10:03,190 --> 00:10:05,450
+même tissu et qui se transmet de proche
+
+148
+00:10:05,450 --> 00:10:05,930
+en proche.
+
+149
+00:10:07,670 --> 00:10:10,410
+Après, il y a une propagation du potentiel
+
+150
+00:10:10,410 --> 00:10:10,810
+d'action.
+
+151
+00:10:12,790 --> 00:10:15,310
+Ce potentiel d'action est enregistré, c'est
+
+152
+00:10:15,310 --> 00:10:16,810
+le cas de l'électrocardiogramme.
+
+153
+00:10:20,170 --> 00:10:23,850
+Le schéma montre un déclenchement du potentiel d
+
+154
+00:10:23,850 --> 00:10:27,570
+'action lorsqu'il y a un dépassement d
+
+155
+00:10:27,570 --> 00:10:33,840
+'un seuil et la propagation du potentiel d
+
+156
+00:10:33,840 --> 00:10:37,580
+'action sous forme d'un courant de proche
+
+157
+00:10:37,580 --> 00:10:38,120
+en proche.
+
+158
+00:10:40,210 --> 00:10:42,470
+C'est ce qu'on appelle une dépolarisation
+
+159
+00:10:42,470 --> 00:10:48,200
+et un retour à l'état normal, une
+
+160
+00:10:48,200 --> 00:10:49,380
+repolarisation.
+
+161
+00:10:50,460 --> 00:10:53,020
+Le potentiel d'action, il apparaît quand la
+
+162
+00:10:53,020 --> 00:10:56,080
+cellule est dépolarisée au-delà d'un seuil
+
+163
+00:10:56,080 --> 00:10:57,400
+électrique.
+
+164
+00:10:58,740 --> 00:11:07,190
+C'est certains canaux ioniques qui sont sensibles.
+
+165
+00:11:08,830 --> 00:11:13,330
+On les appelle voltages dépendants et qui permettent
+
+166
+00:11:13,330 --> 00:11:14,670
+cette dépolarisation.
+
+167
+00:11:22,530 --> 00:11:26,030
+Le potentiel d'action de la cellule myocardique
+
+168
+00:11:26,030 --> 00:11:30,230
+est un potentiel particulier, c'est un potentiel
+
+169
+00:11:30,230 --> 00:11:31,270
+d'action à plateau.
+
+170
+00:11:31,830 --> 00:11:34,270
+Il est composé par cinq phases.
+
+171
+00:11:35,610 --> 00:11:37,690
+D'abord la phase 0, c'est une
+
+172
+00:11:37,690 --> 00:11:42,550
+dépolarisation rapide avec activation des canaux sodiques.
+
+173
+00:11:43,390 --> 00:11:47,670
+Donc il y a une entrée massive du
+
+174
+00:11:47,670 --> 00:11:50,650
+sodium du milieu extérieur vers le milieu intracellulaire.
+
+175
+00:11:51,960 --> 00:11:57,840
+La phase 1, c'est une repolarisation initiale.
+
+176
+00:11:58,660 --> 00:12:01,680
+Il y aura une inactivation incomplète des canaux
+
+177
+00:12:01,680 --> 00:12:05,160
+sodiques mais il y a un déplacement de
+
+178
+00:12:05,160 --> 00:12:06,220
+l'ion Cl-.
+
+179
+00:12:07,240 --> 00:12:11,600
+Pour la phase 2, c'est une phase
+
+180
+00:12:11,600 --> 00:12:15,800
+où il y a ouverture des canaux à
+
+181
+00:12:15,800 --> 00:12:16,220
+calcium.
+
+182
+00:12:16,220 --> 00:12:22,060
+On parle de plateau courant calcico-sodique lent.
+
+183
+00:12:29,110 --> 00:12:33,450
+La phase 3, c'est une phase de
+
+184
+00:12:33,450 --> 00:12:37,670
+repolarisation avec un courant sortant du potassium.
+
+185
+00:12:39,110 --> 00:12:43,590
+Et également les canaux à calcium se ferment.
+
+186
+00:12:44,450 --> 00:12:46,230
+Pour la phase 4, c'est une phase
+
+187
+00:12:46,230 --> 00:12:50,630
+de retour du potentiel de repos.
+
+188
+00:12:52,150 --> 00:12:55,170
+Donc il y a ouverture partielle des canaux
+
+189
+00:12:55,170 --> 00:12:56,530
+à sodium.
+
+190
+00:13:05,840 --> 00:13:08,100
+Le potentiel d'action de la cellule du
+
+191
+00:13:08,100 --> 00:13:12,260
+tissu nodal est similaire à celle des cellules
+
+192
+00:13:12,260 --> 00:13:13,360
+du tissu myocardique.
+
+193
+00:13:14,200 --> 00:13:15,960
+A quelques exceptions près.
+
+194
+00:13:17,200 --> 00:13:19,100
+C'est également un potentiel d'action à
+
+195
+00:13:19,100 --> 00:13:23,840
+plateau mais le plateau est plus concave ou
+
+196
+00:13:23,840 --> 00:13:25,600
+convex vers le bas.
+
+197
+00:13:26,480 --> 00:13:27,740
+C'est à dire qu'il y a
+
+198
+00:13:27,740 --> 00:13:31,220
+une activation des canaux calciques lents et qui
+
+199
+00:13:31,220 --> 00:13:32,740
+maintient la dépolarisation.
+
+200
+00:13:34,980 --> 00:13:37,480
+Il y a également le potentiel de repos
+
+201
+00:13:37,480 --> 00:13:40,060
+qui décroît avec le temps.
+
+202
+00:13:41,560 --> 00:13:47,120
+Et la dépolarisation spontanée se fait avec une
+
+203
+00:13:47,120 --> 00:13:52,780
+certaine pente de dépolarisation diastolique.
+
+204
+00:13:54,540 --> 00:13:57,800
+Cette dépolarisation diastolique est responsable de l'automatisme
+
+205
+00:13:57,800 --> 00:13:58,760
+de la cellule nodale.
+
+206
+00:13:59,540 --> 00:14:01,600
+Il faut noter que la durée du plateau
+
+207
+00:14:01,600 --> 00:14:09,440
+de dépolarisation des cellules nodales peut être influencée
+
+208
+00:14:09,440 --> 00:14:13,720
+par des éléments tels que le rythme accéléré
+
+209
+00:14:13,720 --> 00:14:15,660
+qui va diminuer cette durée du plateau.
+
+210
+00:14:17,200 --> 00:14:19,500
+Il peut être allongé par l'abaissement de
+
+211
+00:14:19,500 --> 00:14:20,780
+la température et autres.
+
+212
+00:14:25,630 --> 00:14:27,410
+L'activation cardiaque.
+
+213
+00:14:27,970 --> 00:14:34,210
+Après ce phénomène de dépolarisation, il y a
+
+214
+00:14:34,210 --> 00:14:38,870
+une propagation de dépolarisation de proche en proche
+
+215
+00:14:38,870 --> 00:14:40,270
+jusqu'à la repolarisation.
+
+216
+00:14:43,150 --> 00:14:49,030
+Or, la propagation de dépolarisation en repolarisation diffère
+
+217
+00:14:49,030 --> 00:14:51,590
+en fonction des cellules ainsi que de la
+
+218
+00:14:51,590 --> 00:14:52,310
+fibre nerveuse.
+
+219
+00:14:53,030 --> 00:14:55,510
+Les fronts de dépolarisation et de repolarisation se
+
+220
+00:14:55,510 --> 00:15:00,280
+suivent de près au point qu'une partie
+
+221
+00:15:00,280 --> 00:15:06,120
+du nerf peut être déjà polarisée alors que
+
+222
+00:15:06,120 --> 00:15:08,280
+l'autre partie n'est pas encore totalement
+
+223
+00:15:08,280 --> 00:15:08,900
+polarisée.
+
+224
+00:15:13,220 --> 00:15:18,040
+Pour la cellule de la fibre cardiaque, qui
+
+225
+00:15:18,040 --> 00:15:20,600
+diffère du tissu nerveux, les faces de dépolarisation
+
+226
+00:15:20,600 --> 00:15:24,140
+et de repolarisation sont totalement séparées.
+
+227
+00:15:24,260 --> 00:15:27,820
+La fibre se dépolarise entièrement avant que la
+
+228
+00:15:27,820 --> 00:15:29,220
+repolarisation ne débute.
+
+229
+00:15:33,490 --> 00:15:35,710
+Les bases physiques de l'électrocardiogramme.
+
+230
+00:15:36,670 --> 00:15:40,130
+La définition de l'électrocardiogramme est l'enregistrement
+
+231
+00:15:40,130 --> 00:15:42,650
+au cours du temps de l'activité électrique
+
+232
+00:15:42,650 --> 00:15:47,080
+du cœur au moyen d'électrodes généralement placées
+
+233
+00:15:47,080 --> 00:15:48,260
+à la surface du corps.
+
+234
+00:15:49,820 --> 00:15:52,380
+C'est une courbe de variation de potentiel
+
+235
+00:15:52,380 --> 00:15:55,300
+en fonction du temps.
+
+236
+00:15:56,620 --> 00:16:00,880
+Pour l'activation cardiaque normale, on a l
+
+237
+00:16:00,880 --> 00:16:02,760
+'ensemble des cellules des oreilles qui subissent une
+
+238
+00:16:02,760 --> 00:16:09,000
+dépolarisation, qui y synchronent, puis une repolarisation.
+
+239
+00:16:10,200 --> 00:16:16,000
+Après dépolarisation auriculaire, les ventricules subissent une dépolarisation,
+
+240
+00:16:17,970 --> 00:16:21,250
+qui y synchronent également, puis une repolarisation.
+
+241
+00:16:23,200 --> 00:16:26,980
+Avant d'entamer les bases physiques de l
+
+242
+00:16:26,980 --> 00:16:32,560
+'électrocardiogramme, on va étudier quelques rappels sur le
+
+243
+00:16:32,560 --> 00:16:35,620
+potentiel électrique créé par des charges électriques.
+
+244
+00:16:36,620 --> 00:16:39,480
+Quand on a deux charges Q et Q',
+
+245
+00:16:39,480 --> 00:16:46,240
+qui sont deux charges différentes et qui sont
+
+246
+00:16:46,240 --> 00:16:51,620
+séparées par une distance r, ils vont être
+
+247
+00:16:51,620 --> 00:16:57,380
+subis à une force électrique qui est égale
+
+248
+00:16:57,380 --> 00:17:01,240
+à une constante K fois la charge Q
+
+249
+00:17:01,240 --> 00:17:05,380
+fois Q' sur la distance au carré ou
+
+250
+00:17:05,380 --> 00:17:07,440
+le rayon qui est séparé au carré.
+
+251
+00:17:08,440 --> 00:17:13,780
+A travers cette force électrique, on peut déduire
+
+252
+00:17:13,780 --> 00:17:18,940
+le potentiel électrique d'une charge électrique qui
+
+253
+00:17:18,940 --> 00:17:22,079
+est égale à K fois Q sur r.
+
+254
+00:17:23,720 --> 00:17:27,020
+En réalité, on mesure une différence de potentiel
+
+255
+00:17:27,020 --> 00:17:30,740
+entre deux points P1 et P2 lorsqu'on
+
+256
+00:17:30,740 --> 00:17:35,320
+fait l'enregistrement de l'électrocardiographe.
+
+257
+00:17:36,320 --> 00:17:41,820
+En cas d'un dipôle électrique, le potentiel
+
+258
+00:17:41,820 --> 00:17:49,320
+électrique enregistré à une distance r à travers
+
+259
+00:17:49,320 --> 00:17:52,560
+un dipôle électrique qui est constitué par deux
+
+260
+00:17:52,560 --> 00:17:56,840
+charges, K-Q-Q-Q-Q-Q-Q
+
+261
+00:17:56,840 --> 00:18:06,240
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+262
+00:18:06,240 --> 00:18:06,340
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+263
+00:18:06,340 --> 00:18:06,440
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+264
+00:18:06,440 --> 00:18:06,540
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+265
+00:18:06,540 --> 00:18:06,640
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+266
+00:18:06,640 --> 00:18:06,740
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+267
+00:18:06,740 --> 00:18:07,060
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+268
+00:18:07,060 --> 00:18:10,140
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+269
+00:18:10,140 --> 00:18:10,240
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+270
+00:18:10,240 --> 00:18:10,360
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+271
+00:18:10,360 --> 00:18:19,020
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+272
+00:18:19,020 --> 00:18:19,120
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+273
+00:18:19,120 --> 00:18:22,540
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+274
+00:18:44,560 --> 00:18:51,800
+Q-Q-Q-Q-Q-Q-Q-Q
+
+275
+00:18:51,800 --> 00:18:52,260
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+276
+00:18:52,260 --> 00:18:52,360
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+277
+00:18:52,360 --> 00:18:52,460
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+278
+00:18:52,460 --> 00:18:52,560
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+279
+00:18:52,560 --> 00:18:52,660
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+280
+00:18:52,660 --> 00:18:52,760
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+281
+00:18:52,760 --> 00:18:52,860
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+282
+00:18:52,860 --> 00:18:52,960
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+283
+00:18:52,960 --> 00:18:53,060
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+284
+00:18:53,060 --> 00:18:53,160
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+285
+00:18:53,160 --> 00:18:53,260
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+286
+00:18:53,260 --> 00:18:53,360
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+287
+00:18:53,360 --> 00:18:56,650
+-Q-Q-Q-Q-Q-Q-Q Q
+
+288
+00:18:59,240 --> 00:19:17,240
+-Q
+
+289
+00:19:17,240 --> 00:19:26,660
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+290
+00:19:26,660 --> 00:19:26,760
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+291
+00:19:26,760 --> 00:19:26,860
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+292
+00:19:26,860 --> 00:19:26,960
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+293
+00:19:26,960 --> 00:19:27,060
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+294
+00:19:27,060 --> 00:19:27,160
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+295
+00:19:27,160 --> 00:19:27,260
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+296
+00:19:27,260 --> 00:19:28,780
+-Q-Q-Q-Q-Q-Q Q
+
+297
+00:19:32,520 --> 00:19:53,540
+-Q
+
+298
+00:19:53,540 --> 00:19:58,400
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+299
+00:19:58,400 --> 00:19:58,860
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+300
+00:19:58,860 --> 00:19:58,960
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+301
+00:19:58,960 --> 00:19:59,060
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+302
+00:19:59,060 --> 00:19:59,160
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+303
+00:19:59,160 --> 00:19:59,260
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+304
+00:19:59,260 --> 00:20:05,120
+-Q-Q-Q-Q-Q Q
+
+305
+00:20:05,120 --> 00:20:25,380
+-Q
+
+306
+00:20:25,380 --> 00:20:30,400
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+307
+00:20:30,400 --> 00:20:30,500
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+308
+00:20:30,500 --> 00:20:30,600
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+309
+00:20:30,600 --> 00:20:30,700
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+310
+00:20:30,700 --> 00:20:30,800
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+311
+00:20:30,800 --> 00:20:30,900
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+312
+00:20:30,900 --> 00:20:31,000
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+313
+00:20:31,000 --> 00:20:31,100
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+314
+00:20:31,100 --> 00:20:31,200
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+315
+00:20:31,200 --> 00:20:54,290
+-Q Q
+
+316
+00:20:54,290 --> 00:21:00,410
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+317
+00:21:00,410 --> 00:21:00,810
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+318
+00:21:00,810 --> 00:21:00,910
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+319
+00:21:00,910 --> 00:21:01,010
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+320
+00:21:01,010 --> 00:21:01,110
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+321
+00:21:01,110 --> 00:21:01,210
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+322
+00:21:01,210 --> 00:21:25,970
+-Q-Q-Q-Q-Q-Q Q
+
+323
+00:21:25,970 --> 00:21:34,090
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+324
+00:21:34,090 --> 00:21:34,370
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+325
+00:21:34,370 --> 00:21:34,470
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+326
+00:21:34,470 --> 00:21:34,570
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+327
+00:21:34,570 --> 00:21:34,670
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+328
+00:21:34,670 --> 00:21:34,770
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+329
+00:21:34,770 --> 00:21:34,870
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+330
+00:21:34,870 --> 00:21:34,970
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+331
+00:21:38,680 --> 00:21:40,440
+Q
+
+332
+00:21:40,440 --> 00:21:59,800
+-Q
+
+333
+00:22:08,120 --> 00:22:43,090
+-Q-Q
+
+334
+00:22:43,090 --> 00:22:43,190
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+335
+00:22:43,190 --> 00:22:43,290
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+336
+00:22:43,290 --> 00:22:43,390
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+337
+00:22:43,390 --> 00:22:46,630
+Q
+
+338
+00:29:41,990 --> 00:29:56,570
+-Q
+
+339
+00:29:56,570 --> 00:30:06,550
+-Q-Q
+
+340
+00:30:06,550 --> 00:30:08,410
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+341
+00:30:08,410 --> 00:30:10,350
+-Q-Q-Q-Q Q
+
+342
+00:30:10,350 --> 00:30:35,910
+-Q
+
+343
+00:30:35,910 --> 00:30:38,450
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+344
+00:30:38,450 --> 00:30:38,550
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+345
+00:30:38,550 --> 00:30:38,650
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+346
+00:30:38,650 --> 00:30:38,750
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+347
+00:30:38,750 --> 00:30:38,850
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+348
+00:30:38,850 --> 00:30:38,950
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+349
+00:30:38,950 --> 00:30:39,050
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+350
+00:30:39,050 --> 00:30:39,150
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+351
+00:30:39,150 --> 00:30:39,250
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+352
+00:30:39,250 --> 00:30:39,350
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+353
+00:30:39,350 --> 00:30:39,450
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+354
+00:30:39,450 --> 00:30:39,550
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+355
+00:30:39,550 --> 00:30:39,650
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+356
+00:30:39,650 --> 00:30:49,250
+-Q-Q-Q-Q-Q Q
+
+357
+00:30:49,250 --> 00:30:58,150
+-Q-Q-Q
+
+358
+00:30:58,150 --> 00:31:04,710
+-Q-Q-Q-Q-Q
+
+359
+00:31:04,710 --> 00:31:08,190
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+360
+00:31:08,190 --> 00:31:08,290
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+361
+00:31:08,290 --> 00:31:08,390
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+362
+00:31:08,390 --> 00:31:08,490
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+363
+00:31:08,490 --> 00:31:08,590
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+364
+00:31:08,590 --> 00:31:08,690
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+365
+00:31:08,690 --> 00:31:29,710
+-Q-Q-Q Q
+
+366
+00:31:29,710 --> 00:31:37,310
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+367
+00:31:37,310 --> 00:31:37,410
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+368
+00:31:37,410 --> 00:31:37,510
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+369
+00:31:37,510 --> 00:31:37,610
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+370
+00:31:37,610 --> 00:31:37,710
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+371
+00:31:37,710 --> 00:31:37,810
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+372
+00:31:37,810 --> 00:31:38,430
+-Q-Q-Q-Q-Q-Q-Q-Q
+
+373
+00:31:38,450 --> 00:31:42,250
+L'enregistrement ECG se fait sur papier millimétré
+
+374
+00:31:42,250 --> 00:31:45,290
+qui va être déroulé à une vitesse constante
+
+375
+00:31:45,290 --> 00:31:47,250
+de 25 mm par seconde.
+
+376
+00:31:47,950 --> 00:31:51,790
+Sur ce papier millimétré, l'échelle est de
+
+377
+00:31:51,790 --> 00:32:00,710
+0,1 mV pour 1 mm pour les
+
+378
+00:32:00,710 --> 00:32:02,730
+ordonnées, ça veut dire les voltages.
+
+379
+00:32:04,050 --> 00:32:08,750
+Et 1 mm représente 0,04 seconde pour
+
+380
+00:32:08,750 --> 00:32:11,230
+les abscisses, ça veut dire le temps.
+
+381
+00:32:13,250 --> 00:32:16,050
+Les techniques d'enregistrement, donc on a dit
+
+382
+00:32:16,050 --> 00:32:18,530
+qu'il met en place des électrodes qui
+
+383
+00:32:18,530 --> 00:32:19,990
+vont recueillir l'ECG.
+
+384
+00:32:20,590 --> 00:32:25,290
+Les électrodes périphériques, on a trois dérivations unipolaires,
+
+385
+00:32:26,330 --> 00:32:28,510
+VR, VL et VF.
+
+386
+00:32:28,510 --> 00:32:34,220
+VF, c'est l'enregistrement du potentiel de
+
+387
+00:32:34,220 --> 00:32:36,500
+chaque électrode par rapport à un potentiel de
+
+388
+00:32:36,500 --> 00:32:40,900
+référence, VW, pris comme origine.
+
+389
+00:32:41,620 --> 00:32:43,920
+C'est ce qu'on appelle le potentiel
+
+390
+00:32:43,920 --> 00:32:44,980
+central de Wilson.
+
+391
+00:32:45,460 --> 00:32:47,060
+Normalement, il est au niveau du centre du
+
+392
+00:32:47,060 --> 00:32:50,280
+cœur, mais en pratique, c'est au niveau
+
+393
+00:32:50,280 --> 00:32:52,260
+du centre ou au niveau du milieu de
+
+394
+00:32:52,260 --> 00:32:54,020
+l'appareil de mesure.
+
+395
+00:32:55,800 --> 00:32:58,400
+Pour les électrodes qu'on met au niveau
+
+396
+00:32:58,400 --> 00:33:01,020
+des membres, donc on a dit les électrodes
+
+397
+00:33:01,020 --> 00:33:03,340
+périphériques, unipolaires.
+
+398
+00:33:04,660 --> 00:33:06,880
+On va trouver, il y a le VR,
+
+399
+00:33:07,420 --> 00:33:09,780
+R c'est rouge, il est au niveau
+
+400
+00:33:09,780 --> 00:33:11,980
+du bras droit, mais en pratique, c'est
+
+401
+00:33:11,980 --> 00:33:12,880
+au niveau du poignet droit.
+
+402
+00:33:15,820 --> 00:33:25,250
+Pour le VL, c'est l
+
+403
+00:33:25,250 --> 00:33:28,490
+'électrode qu'on va placer au niveau du
+
+404
+00:33:28,490 --> 00:33:33,090
+poignet gauche, il est jaune.
+
+405
+00:33:35,130 --> 00:33:38,750
+Pour le VF, c'est l'électrode qu
+
+406
+00:33:38,750 --> 00:33:40,730
+'on va placer au niveau de la jambe
+
+407
+00:33:40,730 --> 00:33:43,370
+gauche, qui est verte.
+
+408
+00:33:44,680 --> 00:33:46,860
+Donc, VW, j'ai dit que c'est
+
+409
+00:33:46,860 --> 00:33:48,040
+la borne centrale de Wilson.
+
+410
+00:33:51,870 --> 00:33:54,410
+Les autres trois dérivations périphériques, c'est les
+
+411
+00:33:54,410 --> 00:33:55,550
+dérivations bipolaires.
+
+412
+00:33:57,210 --> 00:33:59,770
+Elles représentent D1, D2 et D3, c'est
+
+413
+00:33:59,770 --> 00:34:03,450
+les enregistrements des différences de potentiel entre les
+
+414
+00:34:03,450 --> 00:34:06,090
+trois électrodes prises 2 à 2.
+
+415
+00:34:06,090 --> 00:34:12,989
+D1, c'est la dérivation entre VL et
+
+416
+00:34:12,989 --> 00:34:18,310
+VR, mais bien sûr avec le VW ou
+
+417
+00:34:18,310 --> 00:34:20,070
+l'électrode de Wilson.
+
+418
+00:34:20,989 --> 00:34:23,330
+Le D2, c'est entre VF et VR
+
+419
+00:34:23,330 --> 00:34:27,130
+et D3, c'est entre VF et VL.
+
+420
+00:34:27,810 --> 00:34:32,010
+On va constater que D1 plus D3 égale
+
+421
+00:34:32,010 --> 00:34:36,210
+VF moins VR égale D2.
+
+422
+00:34:37,510 --> 00:34:40,350
+Et pour améliorer la sensibilité de l'enregistrement
+
+423
+00:34:40,350 --> 00:34:43,030
+des électrodes périphériques, on a pris l'habitude
+
+424
+00:34:43,030 --> 00:34:48,170
+d'enregistrer des dérivations AVR, AVL et AVF
+
+425
+00:34:48,170 --> 00:34:50,310
+au lieu de VR, VL et VF.
+
+426
+00:34:50,310 --> 00:34:59,010
+Ces dérivations sont augmentées de 2 tiers ou
+
+427
+00:34:59,010 --> 00:35:02,670
+de 3 fois sur 2 les dérivations ordinaires
+
+428
+00:35:02,670 --> 00:35:04,130
+périphériques.
+
+429
+00:35:05,030 --> 00:35:09,290
+La mise en place des électrodes périphériques au
+
+430
+00:35:09,290 --> 00:35:16,630
+niveau du thorax, c'est les dérivations précordiales.
+
+431
+00:35:16,630 --> 00:35:21,690
+Déjà, on a 6 dérivations précordiales V1, V2,
+
+432
+00:35:21,830 --> 00:35:23,850
+V3, V4, V5 et V6.
+
+433
+00:35:27,810 --> 00:35:31,210
+La règle suivante, c'est que V1 est
+
+434
+00:35:31,210 --> 00:35:35,190
+placé au niveau du quatrième espace intercostal sur
+
+435
+00:35:35,190 --> 00:35:37,010
+le bord droit du sternum.
+
+436
+00:35:37,010 --> 00:35:39,310
+V2 est placé au niveau du quatrième espace
+
+437
+00:35:39,310 --> 00:35:42,710
+intercostal sur le bord gauche du sternum.
+
+438
+00:35:43,050 --> 00:35:45,650
+V3 est à mi-distance entre V2 et
+
+439
+00:35:45,650 --> 00:35:46,150
+V4.
+
+440
+00:35:47,090 --> 00:35:53,350
+V4, V5 et V6 sont situés sur une
+
+441
+00:35:53,350 --> 00:35:58,990
+intersection de la ligne horizontale passant par le
+
+442
+00:35:58,990 --> 00:36:05,870
+cinquième espace intercostal gauche avec la ligne médioclavicular
+
+443
+00:36:05,870 --> 00:36:06,650
+pour V4.
+
+444
+00:36:09,160 --> 00:36:12,280
+La ligne axillaire antérieure pour le V5 et
+
+445
+00:36:12,280 --> 00:36:14,060
+la ligne axillaire moyenne pour le V6.
+
+446
+00:36:15,960 --> 00:36:19,320
+Il faut toujours noter que le patient doit
+
+447
+00:36:19,320 --> 00:36:24,540
+être détendu, il doit se reposer à un
+
+448
+00:36:24,540 --> 00:36:26,720
+certain moment avant la prise de l'ECG
+
+449
+00:36:26,720 --> 00:36:29,700
+pour éviter les contractions musculaires qui vont parasiter
+
+450
+00:36:29,700 --> 00:36:32,580
+l'ECG.
+
+451
+00:36:34,680 --> 00:36:37,350
+L'enregistrement de l'activité électrique du cœur
+
+452
+00:36:37,350 --> 00:36:44,390
+est réalisé grâce à ces 12 dérivations précordiales
+
+453
+00:36:44,390 --> 00:36:44,950
+et périphériques.
+
+454
+00:36:51,000 --> 00:36:54,640
+Chacune de ces électrodes enregistre une partie du
+
+455
+00:36:54,640 --> 00:36:58,000
+cœur selon leur position.
+
+456
+00:36:58,000 --> 00:37:05,950
+L'enregistrement successif est représenté selon des ondes
+
+457
+00:37:05,950 --> 00:37:06,430
+de base.
+
+458
+00:37:07,570 --> 00:37:12,150
+A partir de la dépolarisation auriculaire en allant
+
+459
+00:37:12,150 --> 00:37:16,950
+de P, le ralentissement entre le nœud oriculo
+
+460
+00:37:16,950 --> 00:37:20,710
+-ventriculaire représente l'espace PR.
+
+461
+00:37:20,710 --> 00:37:27,610
+La dépolarisation ventriculaire et la repolarisation auriculaire, c
+
+462
+00:37:27,610 --> 00:37:32,590
+'est-à-dire polyphasique, représentent le complexe QRS.
+
+463
+00:37:33,450 --> 00:37:38,730
+La repolarisation ventriculaire représente le segment ST, allant
+
+464
+00:37:38,730 --> 00:37:39,190
+de T.
+
+465
+00:37:40,390 --> 00:37:43,490
+Le tout est suivi par un repos électrique,
+
+466
+00:37:43,750 --> 00:37:46,450
+c'est la ligne de base iso-électrique.
+
+467
+00:37:58,830 --> 00:38:01,830
+L'interprétation de l'électrocardiogramme.
+
+468
+00:38:03,830 --> 00:38:06,750
+J'ai dit qu'on peut utiliser les
+
+469
+00:38:06,750 --> 00:38:07,330
+deux théories.
+
+470
+00:38:07,530 --> 00:38:13,230
+D'abord, la théorie du dipôle électrique du
+
+471
+00:38:13,230 --> 00:38:13,470
+cœur.
+
+472
+00:38:14,370 --> 00:38:18,390
+C'est cette interprétation qu'on utilise pour
+
+473
+00:38:18,390 --> 00:38:19,870
+les dérivations périphériques.
+
+474
+00:38:19,910 --> 00:38:24,230
+D1, D2, D3 et AVL, AVL et AVF.
+
+475
+00:38:26,330 --> 00:38:31,150
+Cette interprétation de l'ECG représente les variations
+
+476
+00:38:31,150 --> 00:38:34,670
+du vecteur, ce qu'on appelle le vecteur
+
+477
+00:38:34,670 --> 00:38:41,970
+cardiaque, qui représente l'ensemble des cellules cardiaques
+
+478
+00:38:41,970 --> 00:38:44,990
+auriculaire et ventriculaire.
+
+479
+00:38:44,990 --> 00:38:48,490
+Donc, le vecteur cardiaque, c'est un vecteur
+
+480
+00:38:48,490 --> 00:38:57,830
+qui permet de donner les
+
+481
+00:38:57,830 --> 00:39:03,670
+différentes activations des muscles cardiaques.
+
+482
+00:39:04,590 --> 00:39:07,270
+Cette activation, c'est une différence de potentiel
+
+483
+00:39:07,270 --> 00:39:11,110
+en fonction du temps des projections de ce
+
+484
+00:39:11,110 --> 00:39:14,670
+vecteur sur des axes qu'on appelle les
+
+485
+00:39:14,670 --> 00:39:15,690
+six axes de Bailly.
+
+486
+00:39:16,250 --> 00:39:19,870
+D'ailleurs, le schéma représente les axes D1,
+
+487
+00:39:20,070 --> 00:39:21,730
+D2 et D3.
+
+488
+00:39:22,270 --> 00:39:28,370
+Et puis, AVR, AVL et AVF, ce qui
+
+489
+00:39:28,370 --> 00:39:31,110
+va générer l'électrocardiogramme.
+
+490
+00:39:32,810 --> 00:39:38,550
+L'origine du vecteur cardiaque, c'est au
+
+491
+00:39:38,550 --> 00:39:40,490
+niveau du centre électrique du cœur.
+
+492
+00:39:44,370 --> 00:39:48,410
+Donc, l'axe du cœur, c'est un
+
+493
+00:39:48,410 --> 00:39:52,830
+axe du cœur moyen qui représente les différentes
+
+494
+00:39:52,830 --> 00:39:56,910
+activations des cellules myocardiques.
+
+495
+00:40:01,070 --> 00:40:05,390
+Normalement, l'origine, c'est au centre du
+
+496
+00:40:05,390 --> 00:40:05,630
+cœur.
+
+497
+00:40:06,670 --> 00:40:12,830
+Et cet axe du cœur, selon les projections
+
+498
+00:40:12,830 --> 00:40:19,990
+sur les six axes de Bailly, il est
+
+499
+00:40:19,990 --> 00:40:25,690
+situé entre une valeur de moins 30° jusqu
+
+500
+00:40:25,690 --> 00:40:27,490
+'à 90°.
+
+501
+00:40:30,110 --> 00:40:33,210
+Il se dirige vers le bas et à
+
+502
+00:40:33,210 --> 00:40:35,750
+la gauche du malade.
+
+503
+00:40:36,690 --> 00:40:40,210
+Lorsque l'axe du cœur est dévié en
+
+504
+00:40:40,210 --> 00:40:42,150
+dehors de cet intervalle, il n'est pas
+
+505
+00:40:42,150 --> 00:40:42,550
+normal.
+
+506
+00:40:44,150 --> 00:40:46,070
+Les règles de base de la lecture rapide
+
+507
+00:40:46,070 --> 00:40:47,110
+d'un électrocardiogramme.
+
+508
+00:40:49,500 --> 00:40:52,420
+Donc, il faut lire un électrocardiogramme dans l
+
+509
+00:40:52,420 --> 00:40:56,000
+'ordre logique pour repérer toutes les anomalies et
+
+510
+00:40:56,000 --> 00:40:58,100
+pour proposer une synthèse.
+
+511
+00:40:58,100 --> 00:41:02,500
+D'ailleurs, la dépolarisation électrique et la repolarisation,
+
+512
+00:41:02,740 --> 00:41:04,600
+ils se succèdent chronologiquement.
+
+513
+00:41:05,820 --> 00:41:09,400
+Mais également, la repolarisation dépend de la dépolarisation
+
+514
+00:41:09,400 --> 00:41:13,560
+qui dépend de la conduction de la fréquence
+
+515
+00:41:13,560 --> 00:41:16,560
+cardiaque et du rythme cardiaque.
+
+516
+00:41:17,620 --> 00:41:20,120
+Les caractéristiques d'un ECG normal.
+
+517
+00:41:20,900 --> 00:41:24,520
+Normalement, le rythme, il est sinusal, ça veut
+
+518
+00:41:24,520 --> 00:41:25,460
+dire qu'il est accéléré.
+
+519
+00:41:25,600 --> 00:41:28,060
+C'est le rythme que le sinus de
+
+520
+00:41:28,060 --> 00:41:32,140
+Kepler impose au reste du cœur.
+
+521
+00:41:33,480 --> 00:41:36,400
+Et le complexe QRS s'en commandait par
+
+522
+00:41:36,400 --> 00:41:40,060
+les ondes Pei issues de ces sinus.
+
+523
+00:41:43,060 --> 00:41:47,730
+L'onde Pei, elle dure 0,12 secondes.
+
+524
+00:41:48,630 --> 00:41:50,790
+Elle a une amplitude inférieure à 0,25
+
+525
+00:41:50,790 --> 00:41:51,570
+mV.
+
+526
+00:41:51,570 --> 00:41:54,990
+Il est positif et monophasique dans toutes les
+
+527
+00:41:54,990 --> 00:41:58,350
+dérivations sauf la dérivation AVR où il est
+
+528
+00:41:58,350 --> 00:41:58,930
+négatif.
+
+529
+00:41:59,710 --> 00:42:01,550
+AV1, il est biphasique.
+
+530
+00:42:03,150 --> 00:42:05,670
+L'axe du cœur, il est entre 0
+
+531
+00:42:05,670 --> 00:42:06,570
+et 90°.
+
+532
+00:42:08,010 --> 00:42:11,110
+L'espace PR est un espace isoélectrique entre
+
+533
+00:42:11,110 --> 00:42:13,570
+0,12 et 0,20 secondes.
+
+534
+00:42:14,550 --> 00:42:17,630
+Le complexe QRS, il dure moins de 0
+
+535
+00:42:17,630 --> 00:42:18,570
+,11 secondes.
+
+536
+00:42:18,570 --> 00:42:22,310
+Et la repolarisation, c'est le segment ST
+
+537
+00:42:22,310 --> 00:42:27,230
+qui est isoélectrique et qui représente une onde
+
+538
+00:42:27,230 --> 00:42:28,880
+positive et asymétrique.
+
+539
+00:42:31,850 --> 00:42:33,330
+L'analyse du rythme.
+
+540
+00:42:33,830 --> 00:42:37,410
+Le rythme cardiaque, normalement, il est sinusal.
+
+541
+00:42:38,130 --> 00:42:40,350
+L'activité cardiaque est sous le contrôle d
+
+542
+00:42:40,350 --> 00:42:41,470
+'une sinusale.
+
+543
+00:42:42,810 --> 00:42:45,350
+Si le rythme, il est régulier, on peut
+
+544
+00:42:45,350 --> 00:42:46,970
+déterminer une fréquence cardiaque.
+
+545
+00:42:47,700 --> 00:42:56,490
+D'ailleurs, on peut diviser 300 par le
+
+546
+00:42:56,490 --> 00:43:00,690
+nombre de petits carreaux de 5 mm qui
+
+547
+00:43:00,690 --> 00:43:02,330
+séparent deux complexes QRS.
+
+548
+00:43:06,200 --> 00:43:08,840
+Par exemple, ici, il y a 4 carrés
+
+549
+00:43:11,300 --> 00:43:14,280
+entre deux complexes QRS.
+
+550
+00:43:14,400 --> 00:43:17,100
+Donc, la fréquence est de 300 sur 4
+
+551
+00:43:17,100 --> 00:43:19,220
+égale 75 battements par minute.
+
+552
+00:43:24,570 --> 00:43:28,630
+Les troubles de rythme, c'est des troubles
+
+553
+00:43:28,630 --> 00:43:31,090
+de la fréquence et de la régularité des
+
+554
+00:43:31,090 --> 00:43:31,890
+battements cardiaques.
+
+555
+00:43:32,670 --> 00:43:35,690
+Le rythme cardiaque normal, il varie entre 60
+
+556
+00:43:35,690 --> 00:43:37,750
+et 100 pulsations par minute au repos.
+
+557
+00:43:38,930 --> 00:43:45,910
+Exemple, lorsqu'il y a une accélération du
+
+558
+00:43:45,910 --> 00:43:48,970
+rythme auriculaire, on parle d'une fibrillation auriculaire,
+
+559
+00:43:48,970 --> 00:43:52,170
+qui est une désorganisation de la ligne de
+
+560
+00:43:52,170 --> 00:43:54,770
+base de l'ECG avec perte de l
+
+561
+00:43:54,770 --> 00:43:59,790
+'onde P qui est remplacée par des ondes
+
+562
+00:43:59,790 --> 00:44:02,970
+F ou une activité fibrillatoire.
+
+563
+00:44:04,910 --> 00:44:08,170
+Les fibrillations ventriculaires contractiles anarchiques des ventricules
+
+564
+00:44:08,170 --> 00:44:14,570
+également perdent toute efficacité hémodynamique et peuvent donc
+
+565
+00:44:14,570 --> 00:44:20,150
+induire à la mort du patient, sauf une
+
+566
+00:44:20,150 --> 00:44:21,190
+défibrillation rapide.
+
+567
+00:44:23,700 --> 00:44:26,140
+L'axe du coeur, normalement, il est à
+
+568
+00:44:26,140 --> 00:44:34,680
+gauche, lorsqu'il est inférieur à 30, on
+
+569
+00:44:34,680 --> 00:44:36,900
+parle d'une surcharge du ventricule gauche, donc
+
+570
+00:44:36,900 --> 00:44:43,120
+d'une hypertension artérielle lors des maladies valvulaires
+
+571
+00:44:43,120 --> 00:44:46,140
+aortiques et lors des insuffisances mitrales.
+
+572
+00:44:46,140 --> 00:44:48,620
+Lorsque l'axe du coeur est à droite,
+
+573
+00:44:48,880 --> 00:44:57,570
+supérieur à 90, on parle d'une surcharge
+
+574
+00:44:57,570 --> 00:44:59,910
+ventriculaire droite qui peut être due à un
+
+575
+00:44:59,910 --> 00:45:01,030
+rétrécissement mitral.
+
+576
+00:45:02,590 --> 00:45:05,390
+L'analyse de l'amplitude, la durée et
+
+577
+00:45:05,390 --> 00:45:07,590
+la forme des différentes amplitudes P et Q
+
+578
+00:45:07,590 --> 00:45:10,630
+pour l'onde P, la dépolarisation des oréates
+
+579
+00:45:10,630 --> 00:45:15,270
+hypertrophiques, lorsqu'ils présentent une amplitude supérieure à
+
+580
+00:45:15,270 --> 00:45:17,810
+2 mm, on parle d'une hypertrophie aux
+
+581
+00:45:17,810 --> 00:45:18,390
+bifidaires droits.
+
+582
+00:45:19,590 --> 00:45:24,650
+Lorsque l'onde P est supérieure à 8
+
+583
+00:45:24,650 --> 00:45:28,050
+centièmes de seconde ou il est bifide, on
+
+584
+00:45:28,050 --> 00:45:30,030
+parle d'une hypertrophie de l'oréate gauche.
+
+585
+00:45:31,170 --> 00:45:32,190
+Lorsqu'il y a l'absence de l
+
+586
+00:45:32,190 --> 00:45:34,590
+'onde P, c'est une fibrillation auriculaire.
+
+587
+00:45:37,310 --> 00:45:42,710
+Le temps de conduction auriculo-ventriculaire nous permet
+
+588
+00:45:42,710 --> 00:45:45,750
+de parler des blocs auriculo-ventriculaires.
+
+589
+00:45:46,250 --> 00:45:49,710
+Lorsque ce temps est supérieur à 20 centièmes
+
+590
+00:45:49,710 --> 00:45:51,990
+de seconde, c'est un bloc auriculo-ventriculaire
+
+591
+00:45:51,990 --> 00:45:53,510
+de premier degré.
+
+592
+00:45:54,450 --> 00:45:58,990
+Le bloc auriculo-ventriculaire de deuxième degré est
+
+593
+00:45:58,990 --> 00:46:03,050
+plus grave que celui du premier degré.
+
+594
+00:46:04,050 --> 00:46:07,550
+C'est ce qui est montré sur le
+
+595
+00:46:07,550 --> 00:46:09,250
+tracé ECG ci-dessous.
+
+596
+00:46:11,940 --> 00:46:14,800
+Le complexe QRS, lors de la dépolarisation des
+
+597
+00:46:14,800 --> 00:46:23,500
+ventricules, nous indique les blocs de branches.
+
+598
+00:46:24,360 --> 00:46:26,840
+On parle de blocs de branches lorsque la
+
+599
+00:46:26,840 --> 00:46:28,960
+durée du QRS est supérieure à 8 centièmes
+
+600
+00:46:28,960 --> 00:46:29,580
+de seconde.
+
+601
+00:46:29,580 --> 00:46:33,000
+Ce sont les différents types de blocs de
+
+602
+00:46:33,000 --> 00:46:33,320
+branches.
+
+603
+00:46:37,420 --> 00:46:41,760
+L'étude de la repolarisation ventriculaire est mesure
+
+604
+00:46:41,760 --> 00:46:43,300
+de l'espace Qt.
+
+605
+00:46:44,580 --> 00:46:47,900
+L'espace Qt nous renseigne sur la repolarisation
+
+606
+00:46:47,900 --> 00:46:48,700
+du ventricule.
+
+607
+00:46:49,860 --> 00:46:53,380
+Lorsque l'espace Qt est à 36 centièmes
+
+608
+00:46:53,380 --> 00:46:57,340
+de seconde, à un rythme de 75 par
+
+609
+00:46:57,340 --> 00:47:02,820
+minute, c'est une valeur normale.
+
+610
+00:47:04,440 --> 00:47:06,540
+Lorsque l'espace Qt est positif dans toutes
+
+611
+00:47:06,540 --> 00:47:09,840
+les dérivations, sauf AVR, il peut être négatif
+
+612
+00:47:09,840 --> 00:47:18,920
+dans D2 et D3.
+
+613
+00:47:59,220 --> 00:48:03,340
+L'ESG est un outil indispensable à tous
+
+614
+00:48:03,340 --> 00:48:05,300
+les praticiens, quelle que soit sa spécialité.
+
+615
+00:48:05,980 --> 00:48:09,180
+Sa valeur est valide seulement si l'appareil
+
+616
+00:48:09,180 --> 00:48:12,860
+est correctement étalonné et les électrodes correctement positionnées.
+
+617
+00:48:12,860 --> 00:48:19,400
+Les bases physiques de l'électrocardiogramme sont fondamentales,
+
+618
+00:48:19,460 --> 00:48:23,640
+surtout pour avoir un prérequis après la pratique
+
+619
+00:48:23,640 --> 00:48:28,020
+de la clinique cardiaque et des applications en
+
+620
+00:48:28,020 --> 00:48:28,620
+cardiologie.
+
+621
+00:48:30,360 --> 00:48:32,280
+Je vous remercie.
+
+622
+00:48:35,530 --> 00:48:41,310
+Il y a des QCM que l'on
+
+623
+00:48:41,310 --> 00:48:45,310
+peut travailler lors de notre présentiel.
+
+624
+00:48:46,930 --> 00:48:52,110
+Je vous souhaite un bon confinement et au
+
+625
+00:48:52,110 --> 00:48:52,370
+revoir.

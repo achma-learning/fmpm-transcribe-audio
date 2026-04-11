@@ -1,0 +1,5343 @@
+1
+00:00:00,900 --> 00:00:02,020
+Bonjour tout le monde.
+
+2
+00:00:02,880 --> 00:00:05,620
+Après le premier cours sur les effets biologiques
+
+3
+00:00:05,620 --> 00:00:08,260
+des rayonnements ionisants, on va voir aujourd'hui
+
+4
+00:00:08,260 --> 00:00:10,720
+un nouveau cours qui est celui de la
+
+5
+00:00:10,720 --> 00:00:11,480
+radiopathologie.
+
+6
+00:00:11,720 --> 00:00:14,020
+Dans ce cours-là, on va suivre le
+
+7
+00:00:14,020 --> 00:00:14,680
+plan suivant.
+
+8
+00:00:15,360 --> 00:00:17,660
+Après l'introduction, on va voir les deux
+
+9
+00:00:17,660 --> 00:00:22,120
+effets principaux, à savoir les effets déterministes, dans
+
+10
+00:00:22,120 --> 00:00:23,080
+deux cas de situation.
+
+11
+00:00:23,280 --> 00:00:26,200
+La première en cas d'exposition globale du
+
+12
+00:00:26,200 --> 00:00:29,080
+corps humain par les rayonnements ionisants et puis
+
+13
+00:00:29,080 --> 00:00:33,200
+dans un deuxième chapitre, on va voir les
+
+14
+00:00:33,200 --> 00:00:36,880
+effets observés en cas de radio-exposition partielle
+
+15
+00:00:36,880 --> 00:00:37,900
+des rayonnements ionisants.
+
+16
+00:00:38,700 --> 00:00:40,800
+Après, on va voir les effets stochastiques.
+
+17
+00:00:40,920 --> 00:00:42,380
+Ce sont des effets qui sont aléatoires.
+
+18
+00:00:44,520 --> 00:00:47,080
+Et surtout, on va voir les effets à
+
+19
+00:00:47,080 --> 00:00:47,640
+deux échelles.
+
+20
+00:00:47,780 --> 00:00:51,460
+D'abord, sur les cellules somatiques et puis
+
+21
+00:00:51,460 --> 00:00:53,260
+on va voir les effets génétiques.
+
+22
+00:00:54,140 --> 00:00:55,920
+Et puis, avant de conclure, on va voir
+
+23
+00:00:55,920 --> 00:00:56,700
+la chronologie.
+
+24
+00:00:56,700 --> 00:00:59,820
+Cela veut dire qu'après un rayonnement ionisant,
+
+25
+00:01:00,800 --> 00:01:04,640
+en fonction du temps, on va voir la
+
+26
+00:01:04,640 --> 00:01:09,000
+succession des événements de ces effets des rayonnements
+
+27
+00:01:09,000 --> 00:01:10,900
+ionisants sur le corps humain.
+
+28
+00:01:11,680 --> 00:01:16,380
+Alors, en guise d'introduction, je rappelle que
+
+29
+00:01:16,380 --> 00:01:17,940
+la radiopathologie, c'est quoi ?
+
+30
+00:01:17,940 --> 00:01:20,160
+La radiopathologie, c'est une branche de la
+
+31
+00:01:20,160 --> 00:01:23,640
+médecine qui étudie les maladies résultant d'une
+
+32
+00:01:23,640 --> 00:01:28,820
+exposition excessive à des rayonnements ionisants, comme les
+
+33
+00:01:28,820 --> 00:01:33,080
+rayonnements X ou les rayonnements issus de la
+
+34
+00:01:33,080 --> 00:01:35,360
+matière ou des matières radioactives.
+
+35
+00:01:36,220 --> 00:01:39,300
+Et ceci à l'échelle ou plutôt sur
+
+36
+00:01:39,300 --> 00:01:42,940
+l'organisme du corps, sur l'organisme humain.
+
+37
+00:01:44,160 --> 00:01:47,500
+Pour cela, on peut observer deux effets.
+
+38
+00:01:47,920 --> 00:01:50,820
+D'abord, les effets déterministes et les effets
+
+39
+00:01:50,820 --> 00:01:51,660
+stochastiques.
+
+40
+00:01:51,660 --> 00:01:55,300
+Alors, je précise que les premiers, ce sont
+
+41
+00:01:55,300 --> 00:01:56,560
+des effets qui sont obligatoires.
+
+42
+00:01:56,740 --> 00:01:57,540
+Cela veut dire quoi ?
+
+43
+00:01:57,540 --> 00:02:00,640
+Cela veut dire qu'une fois les radiations
+
+44
+00:02:00,640 --> 00:02:02,640
+ont été faites et qu'il y a
+
+45
+00:02:02,640 --> 00:02:05,080
+un seuil qui a été dépassé, donc ces
+
+46
+00:02:05,080 --> 00:02:06,240
+effets deviennent obligatoires.
+
+47
+00:02:06,980 --> 00:02:09,560
+Le deuxième effet, qui est l'effet stochastique,
+
+48
+00:02:11,240 --> 00:02:12,680
+dans ce cas-là, il n'y a
+
+49
+00:02:12,680 --> 00:02:13,320
+pas de seuil.
+
+50
+00:02:14,160 --> 00:02:16,820
+Et dans ce cas, ces effets ne sont
+
+51
+00:02:16,820 --> 00:02:17,500
+pas obligatoires.
+
+52
+00:02:17,500 --> 00:02:20,020
+Cela veut dire que certains patients ou certains
+
+53
+00:02:20,020 --> 00:02:22,600
+malades peuvent développer ces effets, alors que d
+
+54
+00:02:22,600 --> 00:02:22,980
+'autres, non.
+
+55
+00:02:24,080 --> 00:02:26,580
+Quelques rappels de certaines dates historiques.
+
+56
+00:02:27,160 --> 00:02:30,240
+Tout d'abord, en 1904, il y a
+
+57
+00:02:30,240 --> 00:02:34,020
+la constatation des premiers décès suite aux rayonnements
+
+58
+00:02:34,020 --> 00:02:36,400
+ionisants causés par les rayons X.
+
+59
+00:02:37,660 --> 00:02:40,560
+Quelques années plus tard, en 1911, il y
+
+60
+00:02:40,560 --> 00:02:42,480
+a le premier cas de radiolocose.
+
+61
+00:02:42,580 --> 00:02:43,960
+Alors la radiolocose, c'est quoi ?
+
+62
+00:02:43,960 --> 00:02:45,700
+C'est une leucémie qui est provoquée par
+
+63
+00:02:45,700 --> 00:02:46,700
+les radiations ionisantes.
+
+64
+00:02:46,700 --> 00:02:50,440
+Et puis un peu plus tard, en 1966,
+
+65
+00:02:52,040 --> 00:02:56,020
+une expérimentation in vitro qui a montré que
+
+66
+00:02:56,020 --> 00:02:57,900
+suite à une irradiation d'une cellule normale,
+
+67
+00:02:59,320 --> 00:03:01,260
+il y a une transformation de cette dernière
+
+68
+00:03:01,260 --> 00:03:03,140
+en une cellule cancéreuse.
+
+69
+00:03:05,060 --> 00:03:08,440
+Alors ici, avant de commencer, on va voir.
+
+70
+00:03:08,540 --> 00:03:10,760
+Vous avez une irradiation et une lésion de
+
+71
+00:03:10,760 --> 00:03:11,340
+l'ADN.
+
+72
+00:03:11,780 --> 00:03:13,460
+Dans ce cas, il y a les processus
+
+73
+00:03:13,460 --> 00:03:14,920
+de réparation qu'on a vus dans le
+
+74
+00:03:14,920 --> 00:03:16,940
+cours précédent.
+
+75
+00:03:18,780 --> 00:03:21,880
+Et on peut avoir soit une réparation fidèle,
+
+76
+00:03:23,120 --> 00:03:23,960
+et dans ce cas, il n'y a
+
+77
+00:03:23,960 --> 00:03:24,440
+pas d'effet.
+
+78
+00:03:25,780 --> 00:03:27,400
+Alors, ceci, c'est le premier cas de
+
+79
+00:03:27,400 --> 00:03:27,700
+figure.
+
+80
+00:03:28,260 --> 00:03:31,320
+Par contre, on peut avoir les éléments suivants.
+
+81
+00:03:32,480 --> 00:03:34,700
+Soit que la réparation n'est pas fidèle,
+
+82
+00:03:34,780 --> 00:03:36,740
+mais il est fautif, et dans ce cas,
+
+83
+00:03:36,820 --> 00:03:38,520
+il y a la mort de la cellule.
+
+84
+00:03:39,020 --> 00:03:40,220
+Et dans ce cas, on parle des effets
+
+85
+00:03:40,220 --> 00:03:40,410
+obligatoires.
+
+86
+00:03:41,770 --> 00:03:44,350
+Soit que c'est une réparation fautive, soit
+
+87
+00:03:44,350 --> 00:03:45,370
+qu'il n'y a pas de réparation
+
+88
+00:03:45,370 --> 00:03:46,170
+du tout.
+
+89
+00:03:46,850 --> 00:03:48,990
+Ça veut dire lorsqu'il y a des
+
+90
+00:03:48,990 --> 00:03:51,330
+rayonnements avec une énergie qui est très importante,
+
+91
+00:03:51,830 --> 00:03:54,450
+ou lorsque le rayonnement a causé plusieurs dégâts
+
+92
+00:03:54,450 --> 00:03:56,530
+au niveau de l'ADN, que vous voyez
+
+93
+00:03:56,530 --> 00:03:56,790
+là.
+
+94
+00:03:58,810 --> 00:04:03,950
+Alors, dans la réparation fautive, il y a
+
+95
+00:04:03,950 --> 00:04:06,630
+une cellule qui est viable, d'accord, une
+
+96
+00:04:06,630 --> 00:04:08,550
+cellule qui va rester quand même vivante, mais
+
+97
+00:04:08,550 --> 00:04:10,210
+avec des altérations de son ADN.
+
+98
+00:04:10,670 --> 00:04:12,190
+Et dans ce cas, ce sont des effets
+
+99
+00:04:12,190 --> 00:04:17,209
+qui sont aléatoires, qui peuvent se toucher, soit
+
+100
+00:04:17,209 --> 00:04:19,450
+une cellule somatique, soit des effets qui sont
+
+101
+00:04:19,450 --> 00:04:20,589
+génétiques.
+
+102
+00:04:21,350 --> 00:04:22,910
+Ça, c'est un résumé, en fait, de
+
+103
+00:04:22,910 --> 00:04:24,530
+ce chapitre-là, qui est celui de la
+
+104
+00:04:24,530 --> 00:04:25,190
+radiopathologie.
+
+105
+00:04:25,430 --> 00:04:29,850
+Et je rappelle que c'est une science
+
+106
+00:04:29,850 --> 00:04:34,310
+qui étudie les effets, d'accord, qui résultent
+
+107
+00:04:34,310 --> 00:04:37,850
+d'un rayonnement ionisant, ici des matières radioactives,
+
+108
+00:04:37,930 --> 00:04:39,590
+ou bien ici des rayonnements de type X.
+
+109
+00:04:40,330 --> 00:04:40,770
+Bien.
+
+110
+00:04:41,450 --> 00:04:45,510
+Alors, ici, on a les deux effets, donc
+
+111
+00:04:45,510 --> 00:04:46,470
+avec plus de détails.
+
+112
+00:04:47,530 --> 00:04:50,530
+On va commencer par le premier, qui est
+
+113
+00:04:50,530 --> 00:04:51,610
+l'effet déterministe.
+
+114
+00:04:51,710 --> 00:04:54,170
+Alors, on l'appelle effet déterministe, ou bien
+
+115
+00:04:54,170 --> 00:04:57,310
+obligatoire, d'accord, ou bien non stochastique.
+
+116
+00:04:58,350 --> 00:05:00,870
+Je rappelle que la cause, d'accord, de
+
+117
+00:05:00,870 --> 00:05:03,410
+cet effet, il est lié à la mort
+
+118
+00:05:03,410 --> 00:05:03,970
+de la cellule.
+
+119
+00:05:04,110 --> 00:05:07,030
+Ça veut dire que les radiations étaient intenses,
+
+120
+00:05:07,590 --> 00:05:08,850
+et du coup, la cellule n'a pas
+
+121
+00:05:08,850 --> 00:05:10,770
+pu résister à ce rayonnement.
+
+122
+00:05:11,730 --> 00:05:14,630
+Et dans ce cas, les caractéristiques, c'est
+
+123
+00:05:14,630 --> 00:05:17,230
+que cet effet s'observe lorsqu'il y
+
+124
+00:05:17,230 --> 00:05:19,430
+a, d'abord, un seuil.
+
+125
+00:05:20,190 --> 00:05:22,370
+Ça veut dire que lorsque le seuil est
+
+126
+00:05:22,370 --> 00:05:26,290
+très important, l'effet est observé.
+
+127
+00:05:28,130 --> 00:05:30,530
+Ce sont des effets qui sont obligatoires, ce
+
+128
+00:05:30,530 --> 00:05:34,090
+sont des effets qui sont généralement réversibles, ce
+
+129
+00:05:34,090 --> 00:05:36,590
+sont des effets qui sont proportionnels à la
+
+130
+00:05:36,590 --> 00:05:39,030
+dose, ce sont des effets qui sont caractéristiques,
+
+131
+00:05:39,150 --> 00:05:40,990
+et ce sont des effets qui sont précoces.
+
+132
+00:05:41,350 --> 00:05:42,070
+Alors, je m'explique.
+
+133
+00:05:42,650 --> 00:05:43,990
+Donc, le seuil, c'est très important.
+
+134
+00:05:44,070 --> 00:05:44,310
+Pourquoi?
+
+135
+00:05:44,310 --> 00:05:46,870
+Parce que vous voyez ici, sur ce schéma
+
+136
+00:05:46,870 --> 00:05:50,750
+qui est juste à votre droite, que, par
+
+137
+00:05:50,750 --> 00:05:54,990
+exemple, vous avez ici, donc, un seuil, d
+
+138
+00:05:54,990 --> 00:06:01,150
+'accord, qui est là, et si, donc, le
+
+139
+00:06:01,150 --> 00:06:04,050
+seuil ou l'énergie des rayonnements, donc, incident,
+
+140
+00:06:04,210 --> 00:06:05,810
+il est inférieur à ce seuil, d'accord,
+
+141
+00:06:05,910 --> 00:06:06,530
+il n'y a pas d'effet.
+
+142
+00:06:07,110 --> 00:06:10,410
+Mais par contre, chaque fois que le rayonnement
+
+143
+00:06:10,410 --> 00:06:12,670
+dépasse ce seuil, vous avez donc une augmentation
+
+144
+00:06:12,670 --> 00:06:13,750
+des effets.
+
+145
+00:06:14,170 --> 00:06:16,730
+Donc, c'est un effet, donc, à seuil.
+
+146
+00:06:17,290 --> 00:06:19,310
+Ce sont des effets qui sont obligatoires, ça
+
+147
+00:06:19,310 --> 00:06:21,150
+veut dire que, donc, une fois que le
+
+148
+00:06:21,150 --> 00:06:24,730
+seuil a été franchi, donc, les effets, donc,
+
+149
+00:06:24,850 --> 00:06:27,450
+touchent la population qui a été irradiée.
+
+150
+00:06:28,230 --> 00:06:30,910
+Ce sont des effets qui sont généralement réversibles,
+
+151
+00:06:31,210 --> 00:06:33,730
+ça veut dire que, donc, une fois qu
+
+152
+00:06:33,730 --> 00:06:36,330
+'on a arrêté, donc, l'irradiation, donc, on
+
+153
+00:06:36,330 --> 00:06:37,490
+peut revenir, donc, en arrière.
+
+154
+00:06:38,370 --> 00:06:40,370
+Et ce sont des effets qui sont proportionnels
+
+155
+00:06:40,370 --> 00:06:42,110
+à la dose, ceci s'explique par le
+
+156
+00:06:42,110 --> 00:06:43,310
+schéma suivant, d'accord.
+
+157
+00:06:43,310 --> 00:06:45,130
+Chaque fois que la dose, que vous voyez
+
+158
+00:06:45,130 --> 00:06:46,950
+là, d'accord, ça c'est le pourcentage
+
+159
+00:06:46,950 --> 00:06:48,470
+des effets qui sont observés, ça c'est
+
+160
+00:06:48,470 --> 00:06:49,190
+la dose, d'accord.
+
+161
+00:06:49,670 --> 00:06:51,730
+Chaque fois que la dose augmente, alors, l
+
+162
+00:06:51,730 --> 00:06:54,650
+'effet, donc, devient de plus en plus très
+
+163
+00:06:54,650 --> 00:06:55,050
+important.
+
+164
+00:06:55,970 --> 00:06:58,450
+Ce sont des effets qui sont caractéristiques, on
+
+165
+00:06:58,450 --> 00:06:59,890
+verra ça dans les slides suivantes.
+
+166
+00:07:00,610 --> 00:07:01,950
+Et puis, ce sont des effets qui sont
+
+167
+00:07:01,950 --> 00:07:04,610
+précoces ou bien qui surviennent, donc, à moyen
+
+168
+00:07:04,610 --> 00:07:04,950
+terme.
+
+169
+00:07:06,330 --> 00:07:08,430
+Alors, on va prendre, donc, les deux graphiques
+
+170
+00:07:08,430 --> 00:07:10,790
+de droite et on va expliquer tout ça.
+
+171
+00:07:12,270 --> 00:07:14,430
+Là, vous avez, donc, la dose, d'accord,
+
+172
+00:07:14,550 --> 00:07:15,870
+qui est reçue et là c'est la
+
+173
+00:07:15,870 --> 00:07:16,290
+gravité.
+
+174
+00:07:17,250 --> 00:07:21,450
+Donc, vous constatez que lorsque la dose, donc,
+
+175
+00:07:21,490 --> 00:07:23,810
+est inférieure, donc, au seuil, qui est des
+
+176
+00:07:23,810 --> 00:07:25,390
+zéros, donc, il n'y a pas d
+
+177
+00:07:25,390 --> 00:07:26,170
+'effet, d'accord.
+
+178
+00:07:26,490 --> 00:07:27,910
+Donc, la gravité, en quelque sorte, donc, elle
+
+179
+00:07:27,910 --> 00:07:29,310
+est nulle.
+
+180
+00:07:29,690 --> 00:07:32,230
+Mais chaque fois que la dose augmente, d
+
+181
+00:07:32,230 --> 00:07:35,350
+'accord, vous constatez que la gravité, donc, augmente
+
+182
+00:07:35,350 --> 00:07:35,650
+aussi.
+
+183
+00:07:36,050 --> 00:07:41,190
+Donc, ce sont des effets dont les conséquences,
+
+184
+00:07:41,250 --> 00:07:43,690
+donc, sont proportionnelles, en quelque sorte, donc, à
+
+185
+00:07:43,690 --> 00:07:44,090
+la dose.
+
+186
+00:07:44,850 --> 00:07:45,010
+Bien.
+
+187
+00:07:46,750 --> 00:07:48,810
+On va passer au plus tôt.
+
+188
+00:07:48,950 --> 00:07:50,410
+Donc, on va insérer dans le premier et
+
+189
+00:07:50,410 --> 00:07:51,650
+prendre quelques exemples.
+
+190
+00:07:51,790 --> 00:07:53,850
+Alors, là, vous avez deux types, soit un
+
+191
+00:07:53,850 --> 00:07:56,250
+syndrome d'irradiation globale aiguë, ceci est dans
+
+192
+00:07:56,250 --> 00:07:57,630
+le cas d'une radiation de tout le
+
+193
+00:07:57,630 --> 00:08:01,970
+corps, ou bien exemple de brûlure radiologique en
+
+194
+00:08:01,970 --> 00:08:04,250
+cas de radioexposition qui est partielle.
+
+195
+00:08:05,190 --> 00:08:07,870
+Alors, la notion de seuil, alors, c'est
+
+196
+00:08:07,870 --> 00:08:10,670
+très important, elle est là, et on va
+
+197
+00:08:10,670 --> 00:08:12,370
+prendre un exemple très simple, d'accord, vous
+
+198
+00:08:12,370 --> 00:08:14,370
+prenez, donc, de l'eau chaude, d'accord,
+
+199
+00:08:15,350 --> 00:08:17,390
+et puis, vous allez tremper votre main.
+
+200
+00:08:20,530 --> 00:08:23,030
+Lorsque, par exemple, donc, l'eau est froide
+
+201
+00:08:23,030 --> 00:08:24,330
+ou bien tiède, donc, il n'y a
+
+202
+00:08:24,330 --> 00:08:25,830
+pas d'effet, mais lorsque l'eau est
+
+203
+00:08:25,830 --> 00:08:29,590
+très chaude, d'accord, là, donc, la personne
+
+204
+00:08:29,590 --> 00:08:31,929
+qui est radioexposée peut avoir, donc, des brûlures.
+
+205
+00:08:31,929 --> 00:08:34,610
+Et la gravité de ces brûlures, d'accord,
+
+206
+00:08:35,309 --> 00:08:37,630
+elle fonctionne de la température de l'eau
+
+207
+00:08:37,630 --> 00:08:38,150
+chaude.
+
+208
+00:08:38,710 --> 00:08:39,230
+Ok?
+
+209
+00:08:39,929 --> 00:08:40,289
+Bien.
+
+210
+00:08:42,190 --> 00:08:46,870
+Après, donc, on va passer, donc, aux effets.
+
+211
+00:08:47,150 --> 00:08:48,910
+Donc, suivant, alors, on va effacer ça.
+
+212
+00:08:50,510 --> 00:08:54,790
+Alors, là, par exemple, vous avez, alors, attendez,
+
+213
+00:08:55,170 --> 00:08:59,010
+voilà, ce sont des effets qui sont liés
+
+214
+00:08:59,010 --> 00:09:01,070
+à la survie des célèbres qui sont lésés.
+
+215
+00:09:01,070 --> 00:09:01,770
+Ça veut dire quoi?
+
+216
+00:09:01,950 --> 00:09:05,210
+Ça veut dire que les cellules sont irradiées
+
+217
+00:09:05,210 --> 00:09:07,710
+et puis, donc, il y en a certaines
+
+218
+00:09:07,710 --> 00:09:09,590
+qui vont résister, mais d'autres qui sont
+
+219
+00:09:09,590 --> 00:09:10,030
+lésées.
+
+220
+00:09:10,710 --> 00:09:13,470
+Et celles qui sont lésées, donc, vont se
+
+221
+00:09:13,470 --> 00:09:16,230
+développer par la suite, mais le problème, c
+
+222
+00:09:16,230 --> 00:09:18,070
+'est qu'il y a une anomalie, donc,
+
+223
+00:09:18,190 --> 00:09:19,210
+au niveau de leur ADN.
+
+224
+00:09:19,790 --> 00:09:21,670
+Donc, ce sont des cellules qui sont lésées,
+
+225
+00:09:21,790 --> 00:09:23,730
+mais qui restent quand même viables, qui peuvent
+
+226
+00:09:23,730 --> 00:09:24,290
+se diviser.
+
+227
+00:09:24,290 --> 00:09:26,710
+Le problème, c'est que lorsque ces cellules,
+
+228
+00:09:26,850 --> 00:09:29,170
+donc, vont se diviser, donc, les conséquences, c
+
+229
+00:09:29,170 --> 00:09:30,910
+'est qu'elles vont provoquer d'autres pathologies,
+
+230
+00:09:31,530 --> 00:09:33,610
+soit dans la descendance, c'est ce qu
+
+231
+00:09:33,610 --> 00:09:37,810
+'on appelle les effets génétiques, soit sur les
+
+232
+00:09:37,810 --> 00:09:40,390
+cellules somatiques, et ceci en fonction de la
+
+233
+00:09:40,390 --> 00:09:40,630
+dose.
+
+234
+00:09:41,570 --> 00:09:43,750
+Alors, on va commencer par le seuil, déjà.
+
+235
+00:09:44,610 --> 00:09:47,830
+Ce sont des effets où il n'y
+
+236
+00:09:47,830 --> 00:09:48,450
+a pas de seuil.
+
+237
+00:09:48,450 --> 00:09:51,710
+Ça veut dire que, comme vous le voyez
+
+238
+00:09:51,710 --> 00:09:57,130
+ici, on va continuer et on va revenir
+
+239
+00:09:57,130 --> 00:09:59,030
+sur les explications après.
+
+240
+00:10:00,950 --> 00:10:02,470
+Deuxièmement, ce sont des effets qui ne sont
+
+241
+00:10:02,470 --> 00:10:03,730
+pas obligatoires.
+
+242
+00:10:03,890 --> 00:10:05,530
+Ça veut dire que certains sujets peuvent développer
+
+243
+00:10:05,530 --> 00:10:08,010
+ces pathologies, mais d'autres non.
+
+244
+00:10:08,470 --> 00:10:11,710
+Ce sont des effets qui sont irréversibles, d
+
+245
+00:10:11,710 --> 00:10:14,270
+'accord, dont la fréquence est proportionnelle, mais dont
+
+246
+00:10:14,270 --> 00:10:15,530
+la gravité, donc, n'est pas liée à
+
+247
+00:10:15,530 --> 00:10:15,930
+la dose.
+
+248
+00:10:15,930 --> 00:10:18,450
+Et ce sont des effets non caractéristiques, mais
+
+249
+00:10:18,450 --> 00:10:20,430
+surtout, ce sont des effets qui sont très
+
+250
+00:10:20,430 --> 00:10:20,890
+dardifs.
+
+251
+00:10:23,030 --> 00:10:25,930
+Alors, ces effets-là, on va les voir
+
+252
+00:10:25,930 --> 00:10:26,990
+sur le schéma suivant.
+
+253
+00:10:27,930 --> 00:10:29,970
+Alors, la notion de seuil, elle est très
+
+254
+00:10:29,970 --> 00:10:33,550
+importante, c'est que là, il n'y
+
+255
+00:10:33,550 --> 00:10:34,870
+a pas de seuil, comme vous le voyez.
+
+256
+00:10:35,810 --> 00:10:36,370
+Ça veut dire quoi?
+
+257
+00:10:36,850 --> 00:10:39,770
+Ça veut dire que la personne qui éradie,
+
+258
+00:10:39,870 --> 00:10:42,910
+donc, il peut développer, mais il ne va
+
+259
+00:10:42,910 --> 00:10:47,270
+pas se rendre compte de ces anomalies-là.
+
+260
+00:10:48,090 --> 00:10:49,010
+Ce n'est qu'après.
+
+261
+00:10:49,190 --> 00:10:50,170
+C'est pour cela que ce sont des
+
+262
+00:10:50,170 --> 00:10:51,350
+effets qui sont très dardifs.
+
+263
+00:10:52,450 --> 00:10:54,210
+Et vous voyez ici, donc, la dose en
+
+264
+00:10:54,210 --> 00:10:55,290
+fonction de la fréquence.
+
+265
+00:10:56,130 --> 00:10:58,050
+Comparativement, donc, au premier effet, donc, où il
+
+266
+00:10:58,050 --> 00:10:59,770
+y a un seuil, là, donc, une fois
+
+267
+00:10:59,770 --> 00:11:05,270
+que la dose reçue, donc, augmente, alors, la
+
+268
+00:11:05,270 --> 00:11:07,210
+fréquence ou l'apparition de ces effets, donc,
+
+269
+00:11:07,270 --> 00:11:08,990
+ils commencent déjà, donc, avec des doses qui
+
+270
+00:11:08,990 --> 00:11:10,790
+sont très minimes, alors que là, donc, il
+
+271
+00:11:10,790 --> 00:11:11,230
+y a un seuil.
+
+272
+00:11:11,350 --> 00:11:12,930
+Lorsque le seuil, donc, il est inférieur et
+
+273
+00:11:12,930 --> 00:11:14,050
+il n'y a pas d'effet, mais
+
+274
+00:11:14,050 --> 00:11:16,130
+par contre, lorsque le seuil, donc, il est
+
+275
+00:11:16,130 --> 00:11:18,090
+franchi, là, il y a l'apparition de
+
+276
+00:11:18,090 --> 00:11:18,510
+ces effets.
+
+277
+00:11:18,890 --> 00:11:20,150
+Donc, la première notion, donc, il n'y
+
+278
+00:11:20,150 --> 00:11:20,730
+a pas de seuil.
+
+279
+00:11:21,230 --> 00:11:22,790
+Ce sont des effets qui ne sont pas
+
+280
+00:11:22,790 --> 00:11:23,510
+obligatoires.
+
+281
+00:11:23,590 --> 00:11:24,950
+Ça veut dire que toutes les personnes qui
+
+282
+00:11:24,950 --> 00:11:27,250
+sont radio-exposées à ce type de rayonnement,
+
+283
+00:11:28,850 --> 00:11:30,150
+il y en a certaines qui vont développer
+
+284
+00:11:30,150 --> 00:11:31,630
+et d'autres, donc, qui ne vont pas
+
+285
+00:11:31,630 --> 00:11:33,210
+développer ces anomalies-là.
+
+286
+00:11:34,250 --> 00:11:37,110
+Ce sont des effets qui sont généralement irréversibles.
+
+287
+00:11:37,310 --> 00:11:39,250
+Donc, une fois qu'ils ont commencé, alors,
+
+288
+00:11:39,330 --> 00:11:40,790
+vous voyez que la fréquence de ces anomalies,
+
+289
+00:11:40,910 --> 00:11:42,030
+donc, voilà, augmente.
+
+290
+00:11:44,650 --> 00:11:47,090
+La fréquence, elle est proportionnelle, mais la gravité,
+
+291
+00:11:47,330 --> 00:11:49,050
+d'accord, la gravité, donc, elle est stable,
+
+292
+00:11:49,530 --> 00:11:50,930
+d'accord, donc, la gravité n'est pas
+
+293
+00:11:50,930 --> 00:11:51,350
+liée à la dose.
+
+294
+00:11:51,950 --> 00:11:54,210
+Lorsqu'il y a des lésions, donc, elle
+
+295
+00:11:54,210 --> 00:11:54,890
+est définitive.
+
+296
+00:11:55,850 --> 00:11:57,590
+Et puis, ce sont des lésions qui ne
+
+297
+00:11:57,590 --> 00:12:00,690
+sont pas caractéristiques et ce sont des effets,
+
+298
+00:12:00,830 --> 00:12:02,090
+surtout, qui sont très tardifs.
+
+299
+00:12:02,090 --> 00:12:02,590
+Voilà.
+
+300
+00:12:03,430 --> 00:12:05,810
+On a pris l'exemple de deux cas.
+
+301
+00:12:06,050 --> 00:12:07,190
+Donc, il y a l'apparition soit de
+
+302
+00:12:07,190 --> 00:12:11,190
+cancer, lorsque les rayonnements ionisants touchent les cellules
+
+303
+00:12:11,190 --> 00:12:14,190
+somatiques et puis, lorsqu'ils touchent les cellules
+
+304
+00:12:14,190 --> 00:12:15,090
+germinales.
+
+305
+00:12:15,770 --> 00:12:17,730
+Donc, on va voir des effets qui sont
+
+306
+00:12:17,730 --> 00:12:20,530
+génétiques, qui vont se transmettre, donc, à la
+
+307
+00:12:20,530 --> 00:12:21,150
+descendance.
+
+308
+00:12:22,170 --> 00:12:25,950
+Alors, ceci pour un schéma global de ces
+
+309
+00:12:25,950 --> 00:12:28,170
+effets-là, d'accord, et puis, on va
+
+310
+00:12:28,170 --> 00:12:30,470
+voir un petit peu en détail ces effets
+
+311
+00:12:30,470 --> 00:12:30,610
+-là.
+
+312
+00:12:30,610 --> 00:12:35,650
+Alors, pour les effets déterministes, l'effet de
+
+313
+00:12:35,650 --> 00:12:35,990
+seuil.
+
+314
+00:12:37,810 --> 00:12:40,690
+Alors, l'effet de seuil, il faut savoir
+
+315
+00:12:40,690 --> 00:12:43,210
+qu'il se produit à coup sûr quand
+
+316
+00:12:43,210 --> 00:12:45,410
+la dose reçue dépasse une certaine valeur qui
+
+317
+00:12:45,410 --> 00:12:47,790
+est appelée, donc, le descent.
+
+318
+00:12:48,950 --> 00:12:49,150
+Voilà.
+
+319
+00:12:50,930 --> 00:12:53,330
+Là, vous avez la probabilité d'apparition et
+
+320
+00:12:53,330 --> 00:12:54,050
+là, vous avez la dose.
+
+321
+00:12:55,030 --> 00:12:57,170
+Donc, descend, c'est quoi, d'accord?
+
+322
+00:12:57,170 --> 00:13:01,110
+Alors, c'est la probabilité d'observer l
+
+323
+00:13:01,110 --> 00:13:03,050
+'effet à 100% de la population qui
+
+324
+00:13:03,050 --> 00:13:03,950
+est radio-exposée.
+
+325
+00:13:04,590 --> 00:13:08,110
+Et la dose, généralement, qui provoque ça, elle
+
+326
+00:13:08,110 --> 00:13:10,550
+est comprise entre 02 et 03 grèves.
+
+327
+00:13:10,990 --> 00:13:12,750
+Ça, c'est ce qu'on appelle la
+
+328
+00:13:12,750 --> 00:13:15,070
+descente ou la probabilité d'observer l'effet
+
+329
+00:13:15,070 --> 00:13:16,590
+à 100% des personnes qui sont radio
+
+330
+00:13:16,590 --> 00:13:17,070
+-exposées.
+
+331
+00:13:18,250 --> 00:13:21,570
+Et généralement, donc, le seuil initial, c'est
+
+332
+00:13:21,570 --> 00:13:22,730
+D0.
+
+333
+00:13:22,730 --> 00:13:25,030
+Ça veut dire qu'au-dessous de ce
+
+334
+00:13:25,030 --> 00:13:26,030
+seuil, donc, il n'y a pas d
+
+335
+00:13:26,030 --> 00:13:27,930
+'effet, mais chaque fois que ce seuil est
+
+336
+00:13:27,930 --> 00:13:30,650
+dépassé, il y a l'apparition, d'accord,
+
+337
+00:13:30,770 --> 00:13:32,690
+de ces effets-là.
+
+338
+00:13:33,530 --> 00:13:35,130
+Il y a la notion de D50.
+
+339
+00:13:35,810 --> 00:13:36,510
+Ça veut dire quoi?
+
+340
+00:13:36,750 --> 00:13:38,590
+Ça veut dire que la probabilité d'apparition
+
+341
+00:13:38,590 --> 00:13:41,650
+de ces effets est observée chez 50%
+
+342
+00:13:41,650 --> 00:13:43,210
+de la population qui est exposée.
+
+343
+00:13:44,270 --> 00:13:46,830
+Donc, je répète, vous avez le seuil initial
+
+344
+00:13:46,830 --> 00:13:47,510
+qui est D0.
+
+345
+00:13:47,510 --> 00:13:48,710
+Au-dessous, il n'y a pas de
+
+346
+00:13:48,710 --> 00:13:49,050
+seuil.
+
+347
+00:13:50,290 --> 00:13:52,030
+Au-dessus, donc, il y a l'apparition
+
+348
+00:13:52,030 --> 00:13:53,970
+de ces effets-là.
+
+349
+00:13:54,810 --> 00:13:57,070
+Et la gravité, la probabilité, donc, augmente au
+
+350
+00:13:57,070 --> 00:13:58,290
+fur et à mesure que la dose augmente.
+
+351
+00:13:58,750 --> 00:14:00,850
+La D50, c'est la probabilité d'observer
+
+352
+00:14:00,850 --> 00:14:03,510
+ces effets chez à peu près 50%
+
+353
+00:14:03,510 --> 00:14:05,470
+de la population qui est exposée.
+
+354
+00:14:05,910 --> 00:14:09,530
+Et D100, c'est une valeur qui est
+
+355
+00:14:09,530 --> 00:14:10,990
+généralement de 02 à 03.
+
+356
+00:14:11,830 --> 00:14:14,130
+Et c'est la probabilité d'observer l
+
+357
+00:14:14,130 --> 00:14:16,630
+'effet, donc, à 100% de la population.
+
+358
+00:14:16,630 --> 00:14:18,570
+Donc, chaque fois que la personne qui est
+
+359
+00:14:18,570 --> 00:14:22,570
+exposée a reçu une dose comprise entre 02
+
+360
+00:14:22,570 --> 00:14:27,030
+et 03°, l'effet observé est de 100%.
+
+361
+00:14:27,030 --> 00:14:27,310
+Voilà.
+
+362
+00:14:30,610 --> 00:14:35,170
+Et ceci, donc, il est variable, d'accord,
+
+363
+00:14:35,650 --> 00:14:38,230
+en fonction des tissus qui sont radio-exposés.
+
+364
+00:14:38,370 --> 00:14:40,690
+Donc, nous avons vu dans le cours précédent
+
+365
+00:14:40,690 --> 00:14:42,730
+qu'il y a certains tissus qui sont
+
+366
+00:14:42,730 --> 00:14:44,350
+très sensibles et d'autres qui sont moins.
+
+367
+00:14:44,890 --> 00:14:47,350
+Je prends l'exemple des cellules hématopoétiques.
+
+368
+00:14:48,090 --> 00:14:50,150
+Alors, les cellules hématopoétiques, ce sont des cellules
+
+369
+00:14:50,150 --> 00:14:52,510
+qui sont très radio-sensibles, mais par contre,
+
+370
+00:14:52,650 --> 00:14:54,050
+d'autres, donc, le sont moins.
+
+371
+00:14:54,510 --> 00:14:58,550
+Exemple, donc, les tissus, par exemple, des systèmes
+
+372
+00:14:58,550 --> 00:14:59,410
+nerveux.
+
+373
+00:15:01,110 --> 00:15:04,050
+Alors, ce sont des effets, toujours des déterministes,
+
+374
+00:15:04,090 --> 00:15:05,410
+d'accord, qui sont précoces.
+
+375
+00:15:06,370 --> 00:15:08,730
+Donc, ce sont des effets qui se manifestent
+
+376
+00:15:08,730 --> 00:15:11,970
+très précocement dans les heures, d'accord, parfois
+
+377
+00:15:11,970 --> 00:15:13,170
+dans les jours ou dans les mois.
+
+378
+00:15:13,170 --> 00:15:13,730
+Ok.
+
+379
+00:15:14,430 --> 00:15:17,110
+Qui suivent la radio-exposition.
+
+380
+00:15:17,830 --> 00:15:22,810
+Ce sont des effets qui sont obligatoires, qui
+
+381
+00:15:22,810 --> 00:15:24,350
+sont liés, donc, à la mort de la
+
+382
+00:15:24,350 --> 00:15:26,910
+cellule et, généralement, ils sont réversibles, donc, à
+
+383
+00:15:26,910 --> 00:15:28,130
+l'arrêt de l'irradiation.
+
+384
+00:15:29,190 --> 00:15:31,690
+Et puis, vous avez la gravité ici, d
+
+385
+00:15:31,690 --> 00:15:34,070
+'accord, qui est comment, qui est proportionnelle, donc,
+
+386
+00:15:34,070 --> 00:15:35,950
+à la dose lorsqu'elle est élevée.
+
+387
+00:15:37,410 --> 00:15:39,310
+Toujours dans les caractéristiques, donc, il y a
+
+388
+00:15:39,310 --> 00:15:39,810
+deux types.
+
+389
+00:15:39,810 --> 00:15:43,110
+Il y a la radio-exposition globale et
+
+390
+00:15:43,110 --> 00:15:44,490
+la radio-exposition qui est partielle.
+
+391
+00:15:44,590 --> 00:15:46,710
+La différence entre les deux, c'est que
+
+392
+00:15:46,710 --> 00:15:48,150
+le rayonnement et ce qui l'a touché
+
+393
+00:15:48,150 --> 00:15:50,170
+tout le corps ont bien une partie du
+
+394
+00:15:50,170 --> 00:15:50,410
+corps.
+
+395
+00:15:51,270 --> 00:15:53,490
+Je rappelle que le facteur de pondération tessulaire
+
+396
+00:15:53,490 --> 00:15:54,670
+pour tout le corps, il est égal à
+
+397
+00:15:54,670 --> 00:15:54,870
+1.
+
+398
+00:15:55,530 --> 00:15:57,750
+Et puis, donc, en fonction de chaque tissu,
+
+399
+00:15:57,850 --> 00:16:00,330
+de chaque organe, donc, le facteur de pondération
+
+400
+00:16:00,330 --> 00:16:02,790
+tessulaire, donc, il est différent.
+
+401
+00:16:03,510 --> 00:16:07,450
+Et je rappelle que les cellules germinales sont
+
+402
+00:16:07,450 --> 00:16:08,750
+les plus radiosensibles.
+
+403
+00:16:09,270 --> 00:16:11,290
+Donc, deux types, soit une exposition qui est
+
+404
+00:16:11,290 --> 00:16:12,610
+globale, soit qu'elle est partielle.
+
+405
+00:16:13,350 --> 00:16:15,770
+Et pour représenter ces effets-là, on va
+
+406
+00:16:15,770 --> 00:16:17,310
+utiliser, donc, la dose équivalente.
+
+407
+00:16:17,410 --> 00:16:19,050
+Je rappelle que la dose équivalente est égale
+
+408
+00:16:19,050 --> 00:16:19,290
+à quoi?
+
+409
+00:16:19,430 --> 00:16:23,150
+Elle est égale à la dose absorbée, d
+
+410
+00:16:23,150 --> 00:16:24,850
+'accord, qu'on va multiplier par un facteur
+
+411
+00:16:24,850 --> 00:16:28,770
+de pondération radiologique qui va déterminer la dangerosité
+
+412
+00:16:28,770 --> 00:16:29,330
+des rayonnements.
+
+413
+00:16:29,890 --> 00:16:33,070
+Et dans ce contexte-là, je rappelle que
+
+414
+00:16:33,070 --> 00:16:37,010
+les particules les plus irradiantes, en fait, ce
+
+415
+00:16:37,010 --> 00:16:37,970
+sont les particules alpha.
+
+416
+00:16:37,970 --> 00:16:38,330
+Pourquoi?
+
+417
+00:16:39,090 --> 00:16:42,690
+Parce que, donc, le transfert linéaire d'énergie,
+
+418
+00:16:42,830 --> 00:16:43,850
+donc, il est très important.
+
+419
+00:16:44,270 --> 00:16:46,470
+Et par conséquent, ils vont déposer, donc, beaucoup
+
+420
+00:16:46,470 --> 00:16:47,190
+de perdéons.
+
+421
+00:16:47,910 --> 00:16:50,310
+Et généralement, la densité linéaire, elle est de
+
+422
+00:16:50,310 --> 00:16:54,710
+l'ordre de 4500 perdéons créés par micromètre.
+
+423
+00:16:56,610 --> 00:16:58,310
+Alors, j'ai pris ici deux exemples.
+
+424
+00:16:58,430 --> 00:17:01,750
+Vous avez ici, donc, un cas d'épidermite,
+
+425
+00:17:01,930 --> 00:17:04,030
+d'accord, qui est oxydative.
+
+426
+00:17:04,030 --> 00:17:06,730
+Et puis là, donc, un cas de brûlure
+
+427
+00:17:06,730 --> 00:17:09,490
+radiologique qui est causée par le cobalt-60.
+
+428
+00:17:09,950 --> 00:17:12,329
+Donc, deux exemples des effets qui sont déterministes.
+
+429
+00:17:14,630 --> 00:17:19,470
+Alors, on va voir un petit peu cette
+
+430
+00:17:19,470 --> 00:17:22,829
+radioexposition globale qu'on appelle aussi, donc, le
+
+431
+00:17:22,829 --> 00:17:24,609
+mal des rayons ou syndrome d'irradiation aiguë
+
+432
+00:17:24,609 --> 00:17:25,050
+globale.
+
+433
+00:17:26,650 --> 00:17:30,790
+Cette irradiation, généralement, donc, elle touche tous les
+
+434
+00:17:30,790 --> 00:17:31,910
+tissus, d'accord.
+
+435
+00:17:31,910 --> 00:17:35,490
+Et ça a été observé, donc, en 86,
+
+436
+00:17:35,690 --> 00:17:38,370
+d'accord, dans l'accident de Tchernobyl, qui
+
+437
+00:17:38,370 --> 00:17:39,650
+est un accident nucléaire.
+
+438
+00:17:40,330 --> 00:17:42,750
+Et deux éléments qui ressortent, donc, vous avez
+
+439
+00:17:42,750 --> 00:17:47,130
+la D-50-30, d'accord, avec une
+
+440
+00:17:47,130 --> 00:17:47,490
+valeur.
+
+441
+00:17:48,050 --> 00:17:52,590
+Et cette notion qui s'appelle la D
+
+442
+00:17:52,590 --> 00:17:54,690
+-50-30, c'est la dose létale à
+
+443
+00:17:54,690 --> 00:17:58,230
+50%, d'accord, donc, au bout d'une
+
+444
+00:17:58,230 --> 00:17:59,110
+durée de 30 jours.
+
+445
+00:17:59,110 --> 00:18:00,410
+Ça veut dire que c'est la dose
+
+446
+00:18:00,410 --> 00:18:03,110
+qui tue la moitié des individus irradiés dans
+
+447
+00:18:03,110 --> 00:18:05,210
+un délai de un mois.
+
+448
+00:18:05,890 --> 00:18:09,170
+Et cette, donc, dose, elle est égale à
+
+449
+00:18:09,170 --> 00:18:09,390
+combien?
+
+450
+00:18:09,590 --> 00:18:11,230
+Elle est égale à 4, à 4,5
+
+451
+00:18:11,230 --> 00:18:11,890
+siverts.
+
+452
+00:18:12,530 --> 00:18:12,970
+Bien.
+
+453
+00:18:13,450 --> 00:18:15,510
+Et la mort, donc, intervient par trois niveaux.
+
+454
+00:18:16,350 --> 00:18:18,590
+Lorsque la dose, elle est au-delà de
+
+455
+00:18:18,590 --> 00:18:20,490
+10, ou plutôt qu'en présent entre 10
+
+456
+00:18:20,490 --> 00:18:24,210
+et 20 grèves, alors la mort peut survenir
+
+457
+00:18:24,210 --> 00:18:26,830
+par un oedème cérébral aigu, d'accord, dans
+
+458
+00:18:26,830 --> 00:18:28,710
+les quelques heures qui suivent l'irradiation.
+
+459
+00:18:28,710 --> 00:18:30,990
+Lorsque la dose, elle est comprise entre 6
+
+460
+00:18:30,990 --> 00:18:34,990
+et 10, donc, la mort survient par une
+
+461
+00:18:34,990 --> 00:18:37,070
+irradiation ou ce qu'on appelle une radio
+
+462
+00:18:37,070 --> 00:18:38,210
+-humidité intestinale.
+
+463
+00:18:38,870 --> 00:18:40,570
+Et ceci au bout d'une semaine.
+
+464
+00:18:41,190 --> 00:18:43,250
+Mais lorsque la dose est comprise entre 1
+
+465
+00:18:43,250 --> 00:18:44,870
+et 5, d'accord, c'est la place
+
+466
+00:18:44,870 --> 00:18:45,550
+médulaire.
+
+467
+00:18:45,690 --> 00:18:47,230
+Et là, c'est dans plusieurs semaines.
+
+468
+00:18:48,390 --> 00:18:49,110
+Il y a quatre phases.
+
+469
+00:18:49,230 --> 00:18:50,470
+Il y a la phase prodromique, la phase
+
+470
+00:18:50,470 --> 00:18:51,790
+de latence, la phase de l'état et
+
+471
+00:18:51,790 --> 00:18:52,570
+la phase de récupération.
+
+472
+00:18:52,710 --> 00:18:54,630
+Mais la phase de récupération, elle est en
+
+473
+00:18:54,630 --> 00:18:55,270
+fonction de quoi?
+
+474
+00:18:55,270 --> 00:19:02,110
+Elle est en fonction de la notion de
+
+475
+00:19:02,110 --> 00:19:02,510
+seuil.
+
+476
+00:19:03,610 --> 00:19:06,930
+Lorsque le seuil, ou plutôt, la dose reçue
+
+477
+00:19:06,930 --> 00:19:08,790
+est inférieure au seuil, il n'y a
+
+478
+00:19:08,790 --> 00:19:09,230
+pas d'effet.
+
+479
+00:19:09,530 --> 00:19:11,750
+Mais par contre, lorsqu'elle dépasse le seuil,
+
+480
+00:19:12,170 --> 00:19:14,310
+là, on va voir les effets déterministes.
+
+481
+00:19:16,230 --> 00:19:19,710
+Alors, on va effacer tout ça, d'accord.
+
+482
+00:19:20,450 --> 00:19:23,030
+Et puis, on va effacer ça en détail.
+
+483
+00:19:24,810 --> 00:19:26,490
+Donc, la phase initiale.
+
+484
+00:19:26,590 --> 00:19:31,730
+La phase initiale, c'est une phase que
+
+485
+00:19:31,730 --> 00:19:33,730
+vous voyez là, d'accord, où le seuil,
+
+486
+00:19:33,810 --> 00:19:37,890
+généralement, est de 0,7 Gray.
+
+487
+00:19:38,570 --> 00:19:41,270
+Par la suite, vous avez la phase de
+
+488
+00:19:41,270 --> 00:19:41,950
+latence.
+
+489
+00:19:43,370 --> 00:19:47,590
+Et cette phase apparaît pour des doses qui
+
+490
+00:19:47,590 --> 00:19:50,910
+sont comprises entre 6 et 10 Gray.
+
+491
+00:19:52,270 --> 00:19:56,010
+Alors, dans ces deux phases-là, pour la
+
+492
+00:19:56,010 --> 00:19:57,530
+première phase que vous voyez là, c'est
+
+493
+00:19:57,530 --> 00:19:58,970
+la phase prodromique.
+
+494
+00:19:59,970 --> 00:20:01,730
+Donc, il y a des signes généraux, des
+
+495
+00:20:01,730 --> 00:20:04,890
+signes neuro-vegétatifs, des signes généralement digestifs, des
+
+496
+00:20:04,890 --> 00:20:06,650
+nausées et des vomissements et même une diarrhée.
+
+497
+00:20:07,690 --> 00:20:09,150
+Alors, c'est une phase qui est précoce,
+
+498
+00:20:09,550 --> 00:20:11,690
+d'accord, et c'est une phase qui
+
+499
+00:20:11,690 --> 00:20:13,770
+apparaît généralement dans les minutes ou dans les
+
+500
+00:20:13,770 --> 00:20:14,770
+heures qui suivent les radiations.
+
+501
+00:20:15,790 --> 00:20:17,510
+Alors, la phase de latence, vous la voyez
+
+502
+00:20:17,510 --> 00:20:17,930
+ici.
+
+503
+00:20:18,230 --> 00:20:20,070
+C'est une phase qui apparaît dans les
+
+504
+00:20:20,070 --> 00:20:22,330
+jours qui suivent les radiations, pour une radiation
+
+505
+00:20:22,330 --> 00:20:24,110
+généralement inférieure à des Gray.
+
+506
+00:20:25,170 --> 00:20:27,490
+Et c'est une phase qui est courte.
+
+507
+00:20:28,390 --> 00:20:32,110
+Et puis, par la suite, vous avez les
+
+508
+00:20:32,110 --> 00:20:32,690
+autres phases.
+
+509
+00:20:35,320 --> 00:20:42,050
+Alors, vous avez la phase d'état, d
+
+510
+00:20:42,050 --> 00:20:42,250
+'accord.
+
+511
+00:20:43,090 --> 00:20:45,010
+Et cette phase d'état, elle va se
+
+512
+00:20:45,010 --> 00:20:48,130
+manifester par trois syndromes.
+
+513
+00:20:48,130 --> 00:20:51,310
+Donc, d'abord, elle va se manifester par
+
+514
+00:20:51,310 --> 00:20:55,110
+un syndrome intestinal, par un syndrome hématologique et
+
+515
+00:20:55,110 --> 00:20:57,690
+par un syndrome nerveux central.
+
+516
+00:20:58,710 --> 00:20:59,710
+Et c'est ce qu'on voit ici.
+
+517
+00:21:00,170 --> 00:21:02,910
+Donc, voilà les trois syndromes, d'accord, et
+
+518
+00:21:02,910 --> 00:21:04,390
+ceci, c'est durant la phase d'état.
+
+519
+00:21:04,550 --> 00:21:05,790
+Et ceci, en fonction de quoi?
+
+520
+00:21:05,930 --> 00:21:07,610
+En fonction de la dose qui est reçue.
+
+521
+00:21:08,570 --> 00:21:10,950
+Plus la dose est très importante, plus les
+
+522
+00:21:10,950 --> 00:21:12,390
+effets sont très importants.
+
+523
+00:21:12,950 --> 00:21:16,770
+Alors, dans le syndrome intestinal, la personne qui
+
+524
+00:21:16,770 --> 00:21:19,270
+est radiée peut provoquer des signes généraux, genre
+
+525
+00:21:19,270 --> 00:21:23,730
+anorexie, diarrhée, des infections, des hydratations, et même,
+
+526
+00:21:23,770 --> 00:21:25,950
+dans un stade plus avancé, des hémorragies et
+
+527
+00:21:25,950 --> 00:21:26,850
+même des pèvresations.
+
+528
+00:21:27,530 --> 00:21:29,890
+Dans le syndrome hématologique, que vous voyez là,
+
+529
+00:21:30,190 --> 00:21:34,530
+la personne peut présenter des troubles infectieux, troubles
+
+530
+00:21:34,530 --> 00:21:37,330
+de la coagulation et même une anémie.
+
+531
+00:21:37,330 --> 00:21:40,910
+Et dans le syndrome nerveux, là, ce sont
+
+532
+00:21:40,910 --> 00:21:43,330
+des troubles nerveux et même incommuns.
+
+533
+00:21:45,590 --> 00:21:50,450
+Alors, ceci pour les effets déterministes et les
+
+534
+00:21:50,450 --> 00:21:50,970
+quatre phases.
+
+535
+00:21:53,130 --> 00:21:59,350
+Maintenant, est-ce qu'on peut savoir la
+
+536
+00:21:59,350 --> 00:22:03,670
+dose qui a été observée en fonction de
+
+537
+00:22:03,670 --> 00:22:05,530
+la symptomatologie que la personne présente?
+
+538
+00:22:05,530 --> 00:22:07,650
+Oui, on peut.
+
+539
+00:22:07,930 --> 00:22:08,170
+Comment?
+
+540
+00:22:09,130 --> 00:22:12,250
+C'est que, généralement, on va voir la
+
+541
+00:22:12,250 --> 00:22:15,030
+symptomatologie que la personne présente et, du coup,
+
+542
+00:22:15,090 --> 00:22:17,830
+on peut remonter indirectement vers la dose qui
+
+543
+00:22:17,830 --> 00:22:18,970
+a été reçue initialement.
+
+544
+00:22:19,510 --> 00:22:19,910
+Exemple.
+
+545
+00:22:20,610 --> 00:22:23,810
+Lorsque la personne a été radiée et présente
+
+546
+00:22:23,810 --> 00:22:25,730
+soit une asthémie, soit une nausée, soit des
+
+547
+00:22:25,730 --> 00:22:28,530
+vomissements, généralement 3 à 6 heures, on peut
+
+548
+00:22:28,530 --> 00:22:30,650
+dire, tiens, la dose qu'elle a reçue,
+
+549
+00:22:30,850 --> 00:22:32,430
+elle est comprise entre 1 et 2 degrés.
+
+550
+00:22:33,270 --> 00:22:36,270
+Lorsque la personne qui a été radiée présente
+
+551
+00:22:36,270 --> 00:22:39,810
+des anomalies hématologiques, genre lymphopinie, thrombopinie, d'accord,
+
+552
+00:22:39,930 --> 00:22:41,730
+on peut dire, tiens, la dose qu'elle
+
+553
+00:22:41,730 --> 00:22:43,870
+a reçue, elle est comprise entre 2 et
+
+554
+00:22:43,870 --> 00:22:44,150
+4.
+
+555
+00:22:45,610 --> 00:22:47,030
+C'est une dose émitterine, en fait.
+
+556
+00:22:47,730 --> 00:22:50,070
+Alors, le premier cas de figure, c'est
+
+557
+00:22:50,070 --> 00:22:52,970
+en fonction de la dose, on peut dire
+
+558
+00:22:52,970 --> 00:22:56,170
+que la personne va présenter telle ou telle
+
+559
+00:22:56,170 --> 00:22:57,150
+symptomatologie.
+
+560
+00:22:57,150 --> 00:22:58,530
+Maintenant, c'est l'inverse.
+
+561
+00:22:59,030 --> 00:23:01,410
+En sachant les symptomatologies, d'accord, on peut
+
+562
+00:23:01,410 --> 00:23:03,630
+remonter indirectement vers la dose qui a été
+
+563
+00:23:03,630 --> 00:23:06,810
+absorbée par la personne radiée.
+
+564
+00:23:07,310 --> 00:23:11,130
+Lorsque la personne, par exemple, présente des hémoptysies
+
+565
+00:23:11,130 --> 00:23:14,450
+avec mémininsuissance respiratoire aiguë, on peut dire que
+
+566
+00:23:14,450 --> 00:23:17,830
+la dose reçue est comprise entre 8 et
+
+567
+00:23:17,830 --> 00:23:18,150
+15.
+
+568
+00:23:18,150 --> 00:23:21,270
+Donc, c'est une manière de savoir, en
+
+569
+00:23:21,270 --> 00:23:26,990
+quelque sorte, la dose qui a été absorbée
+
+570
+00:23:26,990 --> 00:23:29,630
+par le rayonnement en fonction de la symptomatologie
+
+571
+00:23:29,630 --> 00:23:31,350
+clinique que la personne va présenter.
+
+572
+00:23:33,250 --> 00:23:36,930
+Après, vous avez ici les effets thératogènes des
+
+573
+00:23:36,930 --> 00:23:37,790
+rayonnements ionisants.
+
+574
+00:23:38,150 --> 00:23:41,730
+Alors, les effets thératogènes, c'est en rapport
+
+575
+00:23:41,730 --> 00:23:44,990
+avec le foetus, d'accord, mais généralement, il
+
+576
+00:23:44,990 --> 00:23:51,750
+faut savoir que la fécondation comprend généralement trois
+
+577
+00:23:51,750 --> 00:23:52,250
+périodes.
+
+578
+00:23:53,030 --> 00:23:55,310
+Donc, vous avez une première période qu'on
+
+579
+00:23:55,310 --> 00:23:59,230
+appelle la période de préimplantation qui comprésente 8
+
+580
+00:23:59,230 --> 00:24:01,370
+jours.
+
+581
+00:24:01,630 --> 00:24:04,130
+Et puis, vous avez une période d'organogénèse
+
+582
+00:24:04,130 --> 00:24:05,150
+de 9 à 11 jours.
+
+583
+00:24:05,370 --> 00:24:07,790
+Et puis, finalement, une période dite fœtale.
+
+584
+00:24:08,990 --> 00:24:14,210
+Alors, dans cette classification, il faut savoir que
+
+585
+00:24:14,210 --> 00:24:17,730
+dans la première période de préimplantation, donc, il
+
+586
+00:24:17,730 --> 00:24:19,470
+y a la loi de Tourien qui est
+
+587
+00:24:19,470 --> 00:24:19,690
+là.
+
+588
+00:24:20,130 --> 00:24:21,550
+Ça veut dire que la personne, donc la
+
+589
+00:24:21,550 --> 00:24:24,970
+femme, d'accord, qui est enceinte, soit qu
+
+590
+00:24:24,970 --> 00:24:26,430
+'il peut présenter, soit qu'il ne peut
+
+591
+00:24:26,430 --> 00:24:29,370
+pas présenter, soit qu'il présente, soit qu
+
+592
+00:24:29,370 --> 00:24:30,630
+'il ne présente pas d'effet.
+
+593
+00:24:31,110 --> 00:24:33,550
+Dans la deuxième période, alors, le risque est
+
+594
+00:24:33,550 --> 00:24:34,150
+très important.
+
+595
+00:24:34,430 --> 00:24:36,890
+Ce sont généralement les malformations congénitales.
+
+596
+00:24:37,190 --> 00:24:40,270
+Et puis, dans la troisième période fœtale, donc,
+
+597
+00:24:40,330 --> 00:24:42,450
+le risque des anomalies de développement sont très
+
+598
+00:24:42,450 --> 00:24:42,990
+importants.
+
+599
+00:24:43,690 --> 00:24:45,270
+Je répète, ça veut dire qu'une femme
+
+600
+00:24:45,270 --> 00:24:48,950
+qui est enceinte, d'accord, en fonction du
+
+601
+00:24:48,950 --> 00:24:51,870
+délai de sa grossesse, est-ce qu'elle
+
+602
+00:24:51,870 --> 00:24:57,750
+comprésente 8, est-ce qu'elle comprésente 1
+
+603
+00:24:57,750 --> 00:24:59,550
+et 8 jours, est-ce qu'elle comprésente
+
+604
+00:24:59,550 --> 00:25:01,130
+9 et 60 ou bien au-delà.
+
+605
+00:25:01,790 --> 00:25:03,770
+En fonction de ces délais-là, on peut
+
+606
+00:25:03,770 --> 00:25:07,190
+dire qu'il est le risque couri par
+
+607
+00:25:07,190 --> 00:25:11,370
+le fœtus en fonction de l'irradiation reçue.
+
+608
+00:25:11,910 --> 00:25:15,190
+C'est pour cela que lorsque la personne,
+
+609
+00:25:15,310 --> 00:25:19,410
+donc la femme, irradiée, sache en quelque sorte
+
+610
+00:25:19,410 --> 00:25:21,210
+la dose qu'elle a reçue.
+
+611
+00:25:21,850 --> 00:25:25,150
+Lorsque sa dose est inférieure à 0,05,
+
+612
+00:25:25,350 --> 00:25:27,250
+alors on rassure la dame, ça veut dire
+
+613
+00:25:27,250 --> 00:25:28,830
+qu'il ne se passe rien.
+
+614
+00:25:29,270 --> 00:25:31,430
+Mais par contre, lorsque la dose est comprise
+
+615
+00:25:31,430 --> 00:25:34,950
+entre 0,05 et 0,2, alors il
+
+616
+00:25:34,950 --> 00:25:42,090
+faut discuter avec la mère l'indication de
+
+617
+00:25:42,090 --> 00:25:42,870
+l'avortement.
+
+618
+00:25:42,870 --> 00:25:46,110
+Et lorsque la dose est au-delà de
+
+619
+00:25:46,110 --> 00:25:52,790
+0,2°, dans ce cas, il faut lui
+
+620
+00:25:52,790 --> 00:25:56,490
+conseiller un avortement parce que le risque de
+
+621
+00:25:56,490 --> 00:25:58,590
+ses malformations est très important.
+
+622
+00:26:04,450 --> 00:26:06,850
+Ça veut dire que la personne, il peut
+
+623
+00:26:06,850 --> 00:26:09,230
+présenter un effet comme il ne peut pas
+
+624
+00:26:09,230 --> 00:26:11,090
+présenter cet effet-là.
+
+625
+00:26:11,190 --> 00:26:12,830
+Mais le risque est très important dans les
+
+626
+00:26:12,830 --> 00:26:13,330
+stades suivants.
+
+627
+00:26:15,910 --> 00:26:18,070
+Alors maintenant, une personne qui a été irradiée,
+
+628
+00:26:18,210 --> 00:26:19,990
+comment on peut évaluer la dose absorbée?
+
+629
+00:26:20,070 --> 00:26:22,150
+Nous avons vu que par la clinique, on
+
+630
+00:26:22,150 --> 00:26:24,430
+peut remonter à la dose absorbée en fonction
+
+631
+00:26:24,430 --> 00:26:25,310
+de la symptomatologie.
+
+632
+00:26:25,310 --> 00:26:29,070
+Maintenant, on va voir d'autres moyens.
+
+633
+00:26:29,790 --> 00:26:31,210
+Tout d'abord, on va voir ce qu
+
+634
+00:26:31,210 --> 00:26:32,890
+'on appelle la dosimétrie physique.
+
+635
+00:26:34,010 --> 00:26:36,630
+Par la suite, on va voir l'examen
+
+636
+00:26:36,630 --> 00:26:39,310
+clinique de la victime et puis la dosimétrie
+
+637
+00:26:39,310 --> 00:26:39,730
+biologique.
+
+638
+00:26:39,910 --> 00:26:41,870
+On va commencer par le premier qui est
+
+639
+00:26:41,870 --> 00:26:43,110
+la dosimétrie physique.
+
+640
+00:26:44,110 --> 00:26:48,310
+Cette dosimétrie physique, pour évaluer justement la dose
+
+641
+00:26:48,310 --> 00:26:49,670
+qui a été absorbée par la personne qui
+
+642
+00:26:49,670 --> 00:26:54,470
+a été irradiée, il faut savoir les éléments
+
+643
+00:26:54,470 --> 00:26:54,870
+suivants.
+
+644
+00:26:54,870 --> 00:26:56,990
+Tout d'abord, les caractéristiques de la source.
+
+645
+00:26:57,730 --> 00:26:59,030
+Est-ce que c'est une source scellée
+
+646
+00:26:59,030 --> 00:26:59,550
+ou non?
+
+647
+00:26:59,950 --> 00:27:01,790
+Quelle est la différence entre une source scellée
+
+648
+00:27:01,790 --> 00:27:03,390
+et une source qui n'est pas scellée?
+
+649
+00:27:03,870 --> 00:27:05,330
+Une source scellée, c'est une source qui
+
+650
+00:27:05,330 --> 00:27:06,310
+est encapsulée.
+
+651
+00:27:06,490 --> 00:27:08,610
+Ça veut dire qu'elle est renfermée dans
+
+652
+00:27:08,610 --> 00:27:11,290
+une ou plusieurs enveloppes avec un revêtement qui
+
+653
+00:27:11,290 --> 00:27:11,910
+est étanche.
+
+654
+00:27:13,070 --> 00:27:16,530
+Dans ce cas, le risque d'irradiation est
+
+655
+00:27:16,530 --> 00:27:16,910
+moindre.
+
+656
+00:27:18,270 --> 00:27:21,170
+J'ai pris quelques exemples de films métalliques
+
+657
+00:27:21,170 --> 00:27:22,810
+ou de grains qui sont radioactifs.
+
+658
+00:27:24,290 --> 00:27:26,990
+Pour le radium 226, qui a une période
+
+659
+00:27:26,990 --> 00:27:28,570
+de 1620 ans.
+
+660
+00:27:28,850 --> 00:27:30,830
+Pour le cisium 135, qui a une période
+
+661
+00:27:30,830 --> 00:27:31,930
+de 30 ans à peu près.
+
+662
+00:27:32,530 --> 00:27:35,010
+Pour l'iridium, qui a une période de
+
+663
+00:27:35,010 --> 00:27:36,170
+74 jours.
+
+664
+00:27:36,810 --> 00:27:38,390
+Finalement, pour l'iodine 125, qui a une
+
+665
+00:27:38,390 --> 00:27:39,070
+période de 2 mois.
+
+666
+00:27:41,910 --> 00:27:44,350
+Déjà, dans l'évaluation de la dose qui
+
+667
+00:27:44,350 --> 00:27:47,550
+est absorbée, il faut avoir une information sur
+
+668
+00:27:47,550 --> 00:27:49,230
+les caractéristiques de la source.
+
+669
+00:27:49,770 --> 00:27:51,790
+La première, la nature de la source.
+
+670
+00:27:52,150 --> 00:27:53,610
+Est-ce que c'est une source scellée
+
+671
+00:27:53,610 --> 00:27:55,550
+ou non?
+
+672
+00:27:59,320 --> 00:28:03,560
+Non scellée, le risque est très important.
+
+673
+00:28:03,780 --> 00:28:04,060
+Pourquoi?
+
+674
+00:28:04,520 --> 00:28:05,820
+Parce que c'est une source qui n
+
+675
+00:28:05,820 --> 00:28:07,220
+'est pas encapsulée, qui n'est pas bien
+
+676
+00:28:07,220 --> 00:28:07,640
+fermée.
+
+677
+00:28:09,960 --> 00:28:15,660
+La matière radioactive n'est pas vraiment étanche.
+
+678
+00:28:16,060 --> 00:28:17,900
+Elle peut être administrée par voie orale, par
+
+679
+00:28:17,900 --> 00:28:18,600
+voie injectable.
+
+680
+00:28:20,500 --> 00:28:22,220
+Parfois, c'est par inhalation.
+
+681
+00:28:22,560 --> 00:28:23,940
+Je prends l'exemple du krypton, qui n
+
+682
+00:28:23,940 --> 00:28:24,900
+'est pas mentionné ici.
+
+683
+00:28:25,640 --> 00:28:28,960
+Ces sources peuvent être soit du tychnicium, qui
+
+684
+00:28:28,960 --> 00:28:30,180
+a une période de 6 heures.
+
+685
+00:28:30,400 --> 00:28:31,940
+De l'iodine 131, qui a une période
+
+686
+00:28:31,940 --> 00:28:32,680
+de 8 jours.
+
+687
+00:28:33,160 --> 00:28:34,860
+Du samarium ou de l'éthirium.
+
+688
+00:28:36,480 --> 00:28:39,580
+Déjà, vous avez les caractéristiques de la source.
+
+689
+00:28:39,740 --> 00:28:40,620
+Est-ce que c'est une source qui
+
+690
+00:28:40,620 --> 00:28:42,320
+est scellée ou non?
+
+691
+00:28:42,860 --> 00:28:43,840
+Et ça, c'est très important.
+
+692
+00:28:45,380 --> 00:28:49,880
+Après, il faut avoir une idée sur la
+
+693
+00:28:49,880 --> 00:28:50,560
+distance.
+
+694
+00:28:52,020 --> 00:28:55,320
+La source que vous voyez là est la
+
+695
+00:28:55,320 --> 00:28:55,840
+victime.
+
+696
+00:28:56,940 --> 00:28:58,500
+Est-ce que c'est une distance qui
+
+697
+00:28:58,500 --> 00:28:59,060
+est courte?
+
+698
+00:28:59,420 --> 00:29:00,740
+Est-ce que c'est une distance qui
+
+699
+00:29:00,740 --> 00:29:01,340
+est moyenne?
+
+700
+00:29:01,780 --> 00:29:02,860
+Est-ce que c'est une distance qui
+
+701
+00:29:02,860 --> 00:29:03,400
+est très lente?
+
+702
+00:29:03,400 --> 00:29:03,760
+Pourquoi?
+
+703
+00:29:04,400 --> 00:29:08,060
+Parce que le doublement de distance divise la
+
+704
+00:29:08,060 --> 00:29:10,120
+dose reçue par un chiffre de 4.
+
+705
+00:29:11,040 --> 00:29:12,520
+Et on dit que le double de dose
+
+706
+00:29:12,520 --> 00:29:15,440
+est inversement proportionnel au carré de la distance.
+
+707
+00:29:15,700 --> 00:29:16,240
+Je m'explique.
+
+708
+00:29:16,760 --> 00:29:18,200
+Vous avez une dose initiale.
+
+709
+00:29:19,060 --> 00:29:21,920
+Par exemple, à 1 mètre, vous avez une
+
+710
+00:29:21,920 --> 00:29:23,940
+dose reçue, une dose absorbée de 1 sievert
+
+711
+00:29:23,940 --> 00:29:24,500
+par heure.
+
+712
+00:29:26,000 --> 00:29:28,400
+Si on multiplie la dose par 2, donc
+
+713
+00:29:28,400 --> 00:29:31,340
+à 2 mètres, la dose est divisée par
+
+714
+00:29:31,340 --> 00:29:31,660
+4.
+
+715
+00:29:31,660 --> 00:29:33,760
+Et là, la dose reçue est de 0
+
+716
+00:29:33,760 --> 00:29:34,480
+,25.
+
+717
+00:29:34,960 --> 00:29:37,780
+Donc, la distance source-victime est très importante.
+
+718
+00:29:41,000 --> 00:29:42,980
+Après, il faut savoir la durée de l
+
+719
+00:29:42,980 --> 00:29:43,420
+'exposition.
+
+720
+00:29:43,640 --> 00:29:45,780
+Parce qu'une personne éradiquée pendant une seconde,
+
+721
+00:29:46,160 --> 00:29:47,880
+ce n'est pas la même chose qu
+
+722
+00:29:47,880 --> 00:29:49,500
+'une personne qui a été éradiquée pendant une
+
+723
+00:29:49,500 --> 00:29:49,720
+heure.
+
+724
+00:29:50,680 --> 00:29:52,500
+Et là, c'est la notion de quoi?
+
+725
+00:29:52,920 --> 00:29:53,340
+De DB.
+
+726
+00:29:53,880 --> 00:29:54,880
+C'est en fonction du temps.
+
+727
+00:29:55,440 --> 00:29:56,620
+Et c'est la notion de DB, de
+
+728
+00:29:56,620 --> 00:29:57,280
+dose absorbée.
+
+729
+00:30:00,100 --> 00:30:04,560
+Là, vous avez un graphique qui montre la
+
+730
+00:30:04,560 --> 00:30:10,340
+dose reçue en fonction de la mortalité reçue,
+
+731
+00:30:10,460 --> 00:30:12,400
+ou plutôt causée, par le rayonnement.
+
+732
+00:30:13,420 --> 00:30:19,240
+Et vous voyez que plus la dose reçue
+
+733
+00:30:19,240 --> 00:30:24,000
+est très importante, plus la mortalité causée est
+
+734
+00:30:24,000 --> 00:30:25,200
+également très importante.
+
+735
+00:30:25,200 --> 00:30:27,360
+Donc, à un degré, vous avez ce graphique
+
+736
+00:30:27,360 --> 00:30:27,680
+-là.
+
+737
+00:30:27,840 --> 00:30:29,840
+À un degré, vous avez un taux de
+
+738
+00:30:29,840 --> 00:30:30,880
+mortalité qui est moindre.
+
+739
+00:30:31,500 --> 00:30:32,960
+Et une dose très faible de 0,2,
+
+740
+00:30:32,980 --> 00:30:35,320
+vous avez encore un taux de mortalité qui
+
+741
+00:30:35,320 --> 00:30:35,800
+est inférieur.
+
+742
+00:30:36,260 --> 00:30:40,120
+Donc, plus la dose, ou plutôt le DB
+
+743
+00:30:40,120 --> 00:30:42,480
+de dose est très important, plus le taux
+
+744
+00:30:42,480 --> 00:30:44,460
+de mortalité est très important.
+
+745
+00:30:45,040 --> 00:30:47,700
+Après, il y a une notion très importante
+
+746
+00:30:47,700 --> 00:30:52,460
+qui est le dosimètre.
+
+747
+00:30:54,080 --> 00:30:55,760
+Alors, le dosimètre, c'est quoi?
+
+748
+00:30:56,020 --> 00:30:57,680
+C'est un instrument de mesure qui est
+
+749
+00:30:57,680 --> 00:30:59,980
+utilisé par les personnes qui travaillent sur rayonnement
+
+750
+00:30:59,980 --> 00:31:03,080
+ionisant qui est généralement porté à hauteur de
+
+751
+00:31:03,080 --> 00:31:03,760
+la poitrine.
+
+752
+00:31:04,300 --> 00:31:08,260
+Il permet de mesurer la dose reçue par
+
+753
+00:31:08,260 --> 00:31:08,780
+la personne.
+
+754
+00:31:09,400 --> 00:31:11,920
+Vous voyez ici un chiffre de 0,12
+
+755
+00:31:11,920 --> 00:31:12,980
+µSv par heure.
+
+756
+00:31:14,020 --> 00:31:16,260
+Et ça, c'est très important, parce que
+
+757
+00:31:16,260 --> 00:31:19,020
+grâce à ce dosimètre, on va avoir un
+
+758
+00:31:19,020 --> 00:31:22,100
+affichage direct de la dose reçue par la
+
+759
+00:31:22,100 --> 00:31:22,460
+personne.
+
+760
+00:31:26,040 --> 00:31:30,220
+Après, vous avez les caractéristiques de la source.
+
+761
+00:31:30,760 --> 00:31:32,660
+Le deuxième moyen de savoir la dose absorbée,
+
+762
+00:31:32,800 --> 00:31:33,540
+c'est l'examen clinique.
+
+763
+00:31:33,680 --> 00:31:34,740
+C'est ce que nous avons déjà vu.
+
+764
+00:31:35,560 --> 00:31:38,360
+Ça veut dire qu'en fonction des signes
+
+765
+00:31:38,360 --> 00:31:41,240
+cliniques, on peut remonter à la dose qui
+
+766
+00:31:41,240 --> 00:31:41,920
+a été reçue.
+
+767
+00:31:42,280 --> 00:31:44,560
+Par exemple, si la personne présente un choc
+
+768
+00:31:44,560 --> 00:31:47,620
+avec des convulsions, dans les quelques minutes qui
+
+769
+00:31:47,620 --> 00:31:51,040
+suivent l'irradiation, le taux de la dose
+
+770
+00:31:51,040 --> 00:31:53,580
+absorbée est généralement au-delà de 15°C.
+
+771
+00:31:54,020 --> 00:31:57,200
+Si, par exemple, la personne irradiée présente des
+
+772
+00:31:57,200 --> 00:32:01,500
+signes digestifs, genre vomissements, diarrhées, hémorragies, dans les
+
+773
+00:32:01,500 --> 00:32:04,420
+heures qui suivent l'irradiation, la dose reçue
+
+774
+00:32:04,420 --> 00:32:06,260
+est comprise entre 8 et 12°C.
+
+775
+00:32:06,960 --> 00:32:09,020
+Et si la personne présente des signes qui
+
+776
+00:32:09,020 --> 00:32:14,560
+sont légers, genre nausées et vomissements, dans les
+
+777
+00:32:14,560 --> 00:32:17,800
+8 premiers jours, après une semaine, on va
+
+778
+00:32:17,800 --> 00:32:21,320
+dire que la dose est comprise entre 1
+
+779
+00:32:21,320 --> 00:32:21,860
+et 2°C.
+
+780
+00:32:22,240 --> 00:32:25,760
+Vous voyez qu'on peut faire le chemin
+
+781
+00:32:25,760 --> 00:32:26,200
+inverse.
+
+782
+00:32:26,700 --> 00:32:29,700
+En fonction des doses, on peut dire soit
+
+783
+00:32:29,700 --> 00:32:33,560
+des signes hématologiques, soit des signes digestifs, soit
+
+784
+00:32:33,560 --> 00:32:34,680
+des signes qui sont neurologiques.
+
+785
+00:32:35,140 --> 00:32:36,020
+Là, c'est l'inverse.
+
+786
+00:32:36,280 --> 00:32:38,380
+En fonction des signes cliniques, on peut remonter
+
+787
+00:32:38,380 --> 00:32:39,060
+à la dose.
+
+788
+00:32:41,160 --> 00:32:42,400
+Après, il y a ce qu'on appelle
+
+789
+00:32:42,400 --> 00:32:43,480
+la dosimétrie biologique.
+
+790
+00:32:43,620 --> 00:32:44,500
+Ça veut dire quoi ?
+
+791
+00:32:44,500 --> 00:32:46,500
+Ça veut dire qu'on va faire un
+
+792
+00:32:46,500 --> 00:32:53,040
+bilan, surtout hématologique, par une NFS, une numération
+
+793
+00:32:53,040 --> 00:32:55,560
+formée du sang, toutes les 3 heures, et
+
+794
+00:32:55,560 --> 00:33:00,510
+puis on va suivre l'évolution des lymphocytes.
+
+795
+00:33:01,440 --> 00:33:03,060
+Et c'est très important, parce qu'en
+
+796
+00:33:03,060 --> 00:33:04,620
+fonction de ce graphique-là qu'on va
+
+797
+00:33:04,620 --> 00:33:08,280
+voir, vous avez ici le taux de lymphocytes
+
+798
+00:33:08,280 --> 00:33:08,980
+avec la dose.
+
+799
+00:33:08,980 --> 00:33:16,120
+Et en fonction de l'évolution des lymphocytes,
+
+800
+00:33:16,240 --> 00:33:17,980
+on va dire la dose reçue est telle
+
+801
+00:33:17,980 --> 00:33:18,440
+ou telle.
+
+802
+00:33:18,880 --> 00:33:19,620
+Je m'explique.
+
+803
+00:33:32,050 --> 00:33:34,210
+Généralement, on va voir le taux des lymphocytes,
+
+804
+00:33:34,370 --> 00:33:37,710
+la thrombopinie et la leucropinie, la diminution des
+
+805
+00:33:37,710 --> 00:33:38,490
+globules blancs.
+
+806
+00:33:39,330 --> 00:33:42,730
+Et puis, on va voir s'il y
+
+807
+00:33:42,730 --> 00:33:43,490
+a une anémie ou pas.
+
+808
+00:33:48,130 --> 00:33:51,850
+Dans la diapositive suivante, on va voir ceci
+
+809
+00:33:51,850 --> 00:33:55,130
+en clair.
+
+810
+00:33:55,710 --> 00:33:58,110
+Ça veut dire que l'évolution des lymphocytes
+
+811
+00:33:58,110 --> 00:34:00,330
+va nous renseigner sur la dose qui a
+
+812
+00:34:00,330 --> 00:34:01,670
+été reçue par la personne qui a été
+
+813
+00:34:01,670 --> 00:34:02,150
+radiée.
+
+814
+00:34:02,790 --> 00:34:04,610
+Alors, le deuxième moyen de faire la dosimétrie
+
+815
+00:34:04,610 --> 00:34:09,090
+biologique, c'est en fait la pension médulaire.
+
+816
+00:34:10,250 --> 00:34:12,610
+Et si la personne présente une aplastie, on
+
+817
+00:34:12,610 --> 00:34:16,190
+peut dire que la dose reçue est supérieure
+
+818
+00:34:16,190 --> 00:34:16,710
+à 2°C.
+
+819
+00:34:17,010 --> 00:34:18,590
+On peut faire d'autres bilans, comme le
+
+820
+00:34:18,590 --> 00:34:26,389
+bilan biochimique, le cétogénique, les chromosomes décentriques.
+
+821
+00:34:27,570 --> 00:34:29,889
+Et en fonction du pourcentage de ces anomalies
+
+822
+00:34:29,889 --> 00:34:34,570
+-là, observés sur la graphique, on peut évaluer
+
+823
+00:34:34,570 --> 00:34:35,770
+la dose reçue par la personne.
+
+824
+00:34:36,150 --> 00:34:38,389
+Et puis, finalement, on peut faire un électroencéphalogramme
+
+825
+00:34:38,389 --> 00:34:41,429
+et voir l'altération de l'activité électrique
+
+826
+00:34:41,429 --> 00:34:44,750
+cérébrale en fonction de la dose reçue.
+
+827
+00:34:46,840 --> 00:34:52,840
+Après, là, vous avez l'évolution des éléments
+
+828
+00:34:52,840 --> 00:34:54,960
+sanguins.
+
+829
+00:34:56,660 --> 00:35:00,240
+Et généralement, on va voir l'évolution des
+
+830
+00:35:00,240 --> 00:35:04,080
+plaquettes, de l'hémoglobine, des neutrophiles et des
+
+831
+00:35:04,080 --> 00:35:04,700
+lymphocytes.
+
+832
+00:35:05,900 --> 00:35:08,980
+Et en fonction de l'évolution de ces
+
+833
+00:35:08,980 --> 00:35:10,520
+éléments-là, on peut dire si la dose
+
+834
+00:35:10,520 --> 00:35:13,280
+reçue est de 1°C, de 2°C ou de
+
+835
+00:35:13,280 --> 00:35:13,700
+3°C.
+
+836
+00:35:13,840 --> 00:35:17,240
+Et je rappelle que la NFS doit être
+
+837
+00:35:17,240 --> 00:35:19,780
+répétée toutes les 3 heures.
+
+838
+00:35:20,520 --> 00:35:22,960
+Et en fonction de l'évolution du graphique
+
+839
+00:35:22,960 --> 00:35:25,040
+qu'on va obtenir, on va dire si
+
+840
+00:35:25,040 --> 00:35:26,800
+la dose reçue est de 1°C.
+
+841
+00:35:27,260 --> 00:35:29,860
+Lorsque les chiffres baissent encore plus, on va
+
+842
+00:35:29,860 --> 00:35:31,080
+dire que la dose est de 2°C.
+
+843
+00:35:31,640 --> 00:35:35,600
+Et lorsque les éléments chutent, on peut dire
+
+844
+00:35:35,600 --> 00:35:36,680
+que la dose est de 3°C.
+
+845
+00:35:36,680 --> 00:35:37,680
+Ça veut dire quoi?
+
+846
+00:35:37,840 --> 00:35:39,220
+Ça veut dire qu'en fonction de l
+
+847
+00:35:39,220 --> 00:35:41,600
+'évolution de chaque élément, là, vous avez des
+
+848
+00:35:41,600 --> 00:35:45,020
+graphiques, on peut remonter d'une manière indirecte
+
+849
+00:35:45,020 --> 00:35:47,880
+à la dose reçue par la personne irradiée.
+
+850
+00:35:49,140 --> 00:35:53,580
+Alors, les conséquences d'une diminution des cellules
+
+851
+00:35:53,580 --> 00:35:54,740
+circulantes.
+
+852
+00:35:54,940 --> 00:35:59,680
+Vous avez un taux bas des granulocytes, des
+
+853
+00:35:59,680 --> 00:36:00,660
+globules blancs.
+
+854
+00:36:00,700 --> 00:36:02,320
+Et le risque, là, ce sont les infections.
+
+855
+00:36:03,520 --> 00:36:06,520
+On peut avoir une diminution des plaquettes.
+
+856
+00:36:06,620 --> 00:36:07,960
+Le risque, ce sont les hémorragies.
+
+857
+00:36:08,520 --> 00:36:12,460
+Et puis, finalement, on peut avoir une diminution
+
+858
+00:36:12,460 --> 00:36:16,220
+de l'humo-globule.
+
+859
+00:36:16,460 --> 00:36:17,960
+Et bien sûr, c'est l'anémie qui
+
+860
+00:36:17,960 --> 00:36:19,620
+va se traduire par une pâleur, par de
+
+861
+00:36:19,620 --> 00:36:21,700
+l'astémie et parfois un stade avancé par
+
+862
+00:36:21,700 --> 00:36:22,320
+une dyspnéie.
+
+863
+00:36:25,290 --> 00:36:27,230
+Alors, ceci dans le cadre d'une radio
+
+864
+00:36:27,230 --> 00:36:29,130
+-exposition globale.
+
+865
+00:36:29,370 --> 00:36:31,050
+Maintenant, on va voir le cas de la
+
+866
+00:36:31,050 --> 00:36:32,950
+radio-exposition partielle.
+
+867
+00:36:32,950 --> 00:36:33,630
+Ça veut dire quoi?
+
+868
+00:36:33,810 --> 00:36:35,670
+Ça veut dire que seule une partie du
+
+869
+00:36:35,670 --> 00:36:36,710
+corps qui sera irradiée.
+
+870
+00:36:37,130 --> 00:36:38,750
+Le premier cas, nous avons vu donc les
+
+871
+00:36:38,750 --> 00:36:40,110
+radiations globales.
+
+872
+00:36:40,370 --> 00:36:42,450
+Maintenant, on va voir les radiations juste partielles.
+
+873
+00:36:43,310 --> 00:36:44,970
+L'exemple pris ici, c'est celui de
+
+874
+00:36:44,970 --> 00:36:45,970
+la radiation du thorax.
+
+875
+00:36:49,450 --> 00:36:55,330
+Alors, de la même manière, pour la peau,
+
+876
+00:36:55,750 --> 00:36:57,950
+d'accord, lorsque la dose reçue est de
+
+877
+00:36:57,950 --> 00:37:00,410
+3 grèves, donc la personne va présenter juste
+
+878
+00:37:00,410 --> 00:37:01,670
+un érythème, donc une rougeur.
+
+879
+00:37:03,250 --> 00:37:06,270
+Lorsque la dose reçue est de 5 grèves,
+
+880
+00:37:06,810 --> 00:37:08,410
+donc elle va présenter une épidermite.
+
+881
+00:37:09,070 --> 00:37:13,890
+Lorsque la dose, par exemple, est de 15,
+
+882
+00:37:13,930 --> 00:37:15,830
+elle va présenter une épidermite, mais cette fois
+
+883
+00:37:15,830 --> 00:37:17,330
+-ci qui est excédative, qui n'est pas
+
+884
+00:37:17,330 --> 00:37:17,630
+sèche.
+
+885
+00:37:18,210 --> 00:37:20,510
+Et lorsque la dose est de 25, la
+
+886
+00:37:20,510 --> 00:37:24,690
+personne, ou plutôt le site irradié, va présenter
+
+887
+00:37:24,690 --> 00:37:25,230
+une écrose.
+
+888
+00:37:25,630 --> 00:37:26,630
+Là, vous avez trois exemples.
+
+889
+00:37:26,810 --> 00:37:28,010
+Donc, il y a une radiodermite, d'accord,
+
+890
+00:37:28,110 --> 00:37:28,670
+une écrose.
+
+891
+00:37:29,090 --> 00:37:30,310
+Et pour l'œil qui est juste en
+
+892
+00:37:30,310 --> 00:37:33,610
+bas là, d'accord, la personne peut présenter
+
+893
+00:37:33,610 --> 00:37:34,370
+une cataracte.
+
+894
+00:37:34,910 --> 00:37:36,950
+Et là, vous avez les doses qui peuvent
+
+895
+00:37:36,950 --> 00:37:39,710
+être reçues et provoquer une cataracte en fonction
+
+896
+00:37:39,710 --> 00:37:41,690
+de la nature des rayonnements ionisants.
+
+897
+00:37:41,830 --> 00:37:42,770
+Est-ce que ce sont les neutrons?
+
+898
+00:37:42,910 --> 00:37:44,910
+Et dans ce cas, c'est généralement une
+
+899
+00:37:44,910 --> 00:37:47,150
+dose de 5 grèves qui peut causer une
+
+900
+00:37:47,150 --> 00:37:47,630
+cataracte.
+
+901
+00:37:47,770 --> 00:37:49,250
+Ou bien pour le rayon X, donc une
+
+902
+00:37:49,250 --> 00:37:51,670
+dose de 2 grèves peut causer également une
+
+903
+00:37:51,670 --> 00:37:52,130
+cataracte.
+
+904
+00:37:53,590 --> 00:37:56,670
+Donc, vous voyez que pour chaque organe, vous
+
+905
+00:37:56,670 --> 00:38:01,910
+avez ici les symptomatologies cliniques et cette symptomatologie
+
+906
+00:38:01,910 --> 00:38:05,470
+est en fonction de la dose absorbée.
+
+907
+00:38:07,090 --> 00:38:10,570
+Alors, après, les effets déterministes, on va parler
+
+908
+00:38:10,570 --> 00:38:13,030
+des autres effets, qui sont les effets stochastiques.
+
+909
+00:38:13,150 --> 00:38:14,530
+Alors, je rappelle que ce sont des effets
+
+910
+00:38:14,530 --> 00:38:15,570
+qui sont aléatoires.
+
+911
+00:38:17,470 --> 00:38:19,950
+Et pour la première caractéristique, ce sont des
+
+912
+00:38:19,950 --> 00:38:22,130
+effets qui n'ont pas de seuil.
+
+913
+00:38:22,650 --> 00:38:22,830
+Voilà.
+
+914
+00:38:23,590 --> 00:38:24,750
+Vous voyez ici qu'il n'y a
+
+915
+00:38:24,750 --> 00:38:27,410
+pas de seuil et que la probabilité d
+
+916
+00:38:27,410 --> 00:38:30,090
+'apparition, d'accord, il est lié à la
+
+917
+00:38:30,090 --> 00:38:30,250
+dose.
+
+918
+00:38:30,730 --> 00:38:32,490
+Plus que la dose, elle est très importante,
+
+919
+00:38:32,850 --> 00:38:34,950
+plus l'effet, donc, il survient.
+
+920
+00:38:35,310 --> 00:38:36,210
+Mais il n'y a pas de dose.
+
+921
+00:38:38,150 --> 00:38:40,230
+Généralement, ce sont des effets qui sont liés
+
+922
+00:38:40,230 --> 00:38:40,990
+aux faibles doses.
+
+923
+00:38:41,730 --> 00:38:41,930
+Pourquoi?
+
+924
+00:38:42,490 --> 00:38:44,670
+Parce que pour les effets déterministes, généralement, il
+
+925
+00:38:44,670 --> 00:38:45,570
+y a la notion de seuil.
+
+926
+00:38:46,210 --> 00:38:47,890
+Ce sont des doses qui sont très importantes.
+
+927
+00:38:48,090 --> 00:38:50,210
+Pour que la personne présente ces effets-là,
+
+928
+00:38:50,710 --> 00:38:52,110
+il faut qu'il y ait une dose
+
+929
+00:38:52,110 --> 00:38:55,070
+très importante, d'accord, qui est forte et
+
+930
+00:38:55,070 --> 00:38:56,910
+n'est pas faible et qui dépasse donc
+
+931
+00:38:56,910 --> 00:38:57,830
+un seuil.
+
+932
+00:38:58,250 --> 00:38:59,790
+Parce que moins de ce seuil, il n
+
+933
+00:38:59,790 --> 00:39:00,210
+'y a pas d'effet.
+
+934
+00:39:00,330 --> 00:39:01,570
+Mais au-delà, donc, il y a l
+
+935
+00:39:01,570 --> 00:39:03,170
+'apparition de ces effets déterministes.
+
+936
+00:39:03,610 --> 00:39:05,750
+Là, par conséquent, les effets stochastiques, donc, il
+
+937
+00:39:05,750 --> 00:39:06,430
+n'y a pas de seuil.
+
+938
+00:39:06,930 --> 00:39:08,570
+Et du coup, donc, il y a la
+
+939
+00:39:08,570 --> 00:39:11,250
+sommation, d'accord, des faibles activités reçues par
+
+940
+00:39:11,250 --> 00:39:13,270
+la personne au fur et à mesure et
+
+941
+00:39:13,270 --> 00:39:15,390
+la sommation de ces effets-là qui provoquent,
+
+942
+00:39:15,490 --> 00:39:17,630
+en quelque sorte, donc, l'apparition de ces
+
+943
+00:39:17,630 --> 00:39:17,990
+effets-là.
+
+944
+00:39:18,130 --> 00:39:19,330
+Donc, c'est la sommation, en fait.
+
+945
+00:39:19,670 --> 00:39:20,690
+Donc, il n'y a pas de seuil.
+
+946
+00:39:21,170 --> 00:39:23,510
+Et généralement, ils sont liés, donc, aux faibles
+
+947
+00:39:23,510 --> 00:39:24,310
+doses.
+
+948
+00:39:25,090 --> 00:39:26,830
+Alors, ce sont des effets qui sont aléatoires.
+
+949
+00:39:28,130 --> 00:39:30,510
+Donc, ils n'apparaissent pas chez tous les
+
+950
+00:39:30,510 --> 00:39:32,430
+sujets qui sont radio-exposés.
+
+951
+00:39:33,650 --> 00:39:35,290
+C'est la notion de susceptibilité.
+
+952
+00:39:36,270 --> 00:39:38,550
+Et puis, toujours dans les effets stochastiques, ce
+
+953
+00:39:38,550 --> 00:39:41,190
+sont des effets qui sont très tardifs, voilà,
+
+954
+00:39:41,570 --> 00:39:43,970
+qui apparaissent dans les années ou des années
+
+955
+00:39:43,970 --> 00:39:47,490
+même après l'exposition, voire même chez la
+
+956
+00:39:47,490 --> 00:39:48,150
+descendance.
+
+957
+00:39:48,450 --> 00:39:50,830
+Ceci, lorsqu'ils touchent, donc, les cellules germinales.
+
+958
+00:39:52,750 --> 00:39:55,110
+La fréquence de ces effets, elle est comment?
+
+959
+00:39:55,790 --> 00:39:56,810
+Donc, elle dépend de la dose.
+
+960
+00:39:57,450 --> 00:40:00,030
+Plus la dose est très importante, plus la
+
+961
+00:40:00,030 --> 00:40:00,990
+fréquence est très importante.
+
+962
+00:40:01,110 --> 00:40:02,590
+Mais par contre, la gravité, elle est là.
+
+963
+00:40:03,330 --> 00:40:04,590
+Donc, il ne dépend pas de la dose.
+
+964
+00:40:05,690 --> 00:40:08,150
+Ils sont très graves, d'accord, mais chaque
+
+965
+00:40:08,150 --> 00:40:10,510
+fois que les lésions sont là, donc, généralement,
+
+966
+00:40:10,530 --> 00:40:14,170
+ils sont graves, soit des cancers, soit des
+
+967
+00:40:14,170 --> 00:40:17,190
+effets germinales et d'imitation qui peuvent se
+
+968
+00:40:17,190 --> 00:40:19,830
+transmettre à la descendance selon le mode récessive
+
+969
+00:40:19,830 --> 00:40:22,090
+ou dominant que nous avons vu dans le
+
+970
+00:40:22,090 --> 00:40:23,570
+chapitre précédent.
+
+971
+00:40:26,110 --> 00:40:27,630
+Ce sont des effets qui ne sont pas
+
+972
+00:40:27,630 --> 00:40:28,650
+spécifiques, d'accord?
+
+973
+00:40:28,810 --> 00:40:30,270
+Ce n'est pas comme les effets déterministes.
+
+974
+00:40:30,390 --> 00:40:31,850
+Vous avez une dose et vous avez donc
+
+975
+00:40:31,850 --> 00:40:34,250
+les lésions, comme par exemple la cataraxe pour
+
+976
+00:40:34,250 --> 00:40:36,110
+les neutrons, pour les rayons X, comme la
+
+977
+00:40:36,110 --> 00:40:38,010
+radiodermite, comme la nécrose.
+
+978
+00:40:38,410 --> 00:40:40,750
+Donc, vous avez des doses bien précises.
+
+979
+00:40:40,950 --> 00:40:42,450
+Donc, il faut voir que la personne a
+
+980
+00:40:42,450 --> 00:40:43,350
+reçu la dose, d'accord?
+
+981
+00:40:43,410 --> 00:40:44,790
+Elle va présenter telle ou telle anomalie.
+
+982
+00:40:45,150 --> 00:40:47,190
+Là, ils ne sont pas spécifiques, d'accord?
+
+983
+00:40:47,830 --> 00:40:49,390
+Et généralement, donc, il n'y a pas
+
+984
+00:40:49,390 --> 00:40:51,570
+moyen de déterminer, donc, l'origine radio-induite.
+
+985
+00:40:51,650 --> 00:40:51,830
+Pourquoi?
+
+986
+00:40:52,010 --> 00:40:53,250
+Parce que ce sont des doses qui sont
+
+987
+00:40:53,250 --> 00:40:55,870
+très, très, très faibles, qui sont reçues par
+
+988
+00:40:55,870 --> 00:40:59,010
+la personne irradiée, mais sur une longue durée.
+
+989
+00:40:59,510 --> 00:41:00,610
+Donc, ce n'est pas un truc qui
+
+990
+00:41:00,610 --> 00:41:00,970
+est bref.
+
+991
+00:41:01,430 --> 00:41:03,790
+Donc, généralement, ce sont des effets qui sont
+
+992
+00:41:03,790 --> 00:41:05,790
+très tardifs, qui durent même des années et
+
+993
+00:41:05,790 --> 00:41:08,710
+des années, et qui n'apparaissent que 10,
+
+994
+00:41:08,770 --> 00:41:10,110
+15, 20 et même plus.
+
+995
+00:41:12,210 --> 00:41:13,950
+Bien sûr, 15 ou 20 ans, d'accord?
+
+996
+00:41:14,370 --> 00:41:16,230
+Ce sont des effets qui sont très tardifs.
+
+997
+00:41:16,610 --> 00:41:18,210
+Alors, ces effets-là sont de deux types.
+
+998
+00:41:18,330 --> 00:41:19,270
+Vous avez soit des cancers.
+
+999
+00:41:19,450 --> 00:41:21,650
+Donc, un cancer ne peut pas apparaître après
+
+1000
+00:41:21,650 --> 00:41:23,630
+une irradiation, après un délai d'une semaine,
+
+1001
+00:41:24,030 --> 00:41:27,090
+c'est généralement après plusieurs années, et c
+
+1002
+00:41:27,090 --> 00:41:29,170
+'est pareil pour les effets héréditaires qui apparaissent
+
+1003
+00:41:29,170 --> 00:41:31,310
+généralement dans la descendance.
+
+1004
+00:41:31,830 --> 00:41:34,610
+Alors, la différence entre les deux en fonction
+
+1005
+00:41:34,610 --> 00:41:37,910
+du site ou plutôt la cible de l
+
+1006
+00:41:37,910 --> 00:41:38,330
+'irradiation.
+
+1007
+00:41:38,830 --> 00:41:40,310
+Si la cible, ce sont les cellules somatiques,
+
+1008
+00:41:40,990 --> 00:41:41,250
+d'accord?
+
+1009
+00:41:41,630 --> 00:41:44,430
+Là, on peut avoir des cancers radio-induits.
+
+1010
+00:41:44,870 --> 00:41:47,190
+Mais si la cible d'irradiation est la
+
+1011
+00:41:47,190 --> 00:41:50,110
+cellule germinale, là, on peut parler des effets
+
+1012
+00:41:50,110 --> 00:41:53,350
+héréditaires des effets génétiques.
+
+1013
+00:41:54,070 --> 00:41:58,950
+Et pour mettre un indicateur, là, on va
+
+1014
+00:41:58,950 --> 00:42:00,910
+utiliser non pas la dose équivalente mais la
+
+1015
+00:42:00,910 --> 00:42:02,390
+dose efficace, d'accord?
+
+1016
+00:42:02,650 --> 00:42:04,750
+Qui est équivalent à la dose équivalente multipliée
+
+1017
+00:42:04,750 --> 00:42:07,450
+par un facteur de pondération tissulaire.
+
+1018
+00:42:07,590 --> 00:42:09,710
+Ça veut dire que la radio-sensibilité des
+
+1019
+00:42:09,710 --> 00:42:12,470
+tissus est différente en fonction de l'organe
+
+1020
+00:42:12,470 --> 00:42:13,190
+qui a été irradié.
+
+1021
+00:42:14,230 --> 00:42:17,190
+Généralement, les cellules germinales, d'accord, sont plus
+
+1022
+00:42:17,190 --> 00:42:18,450
+radio-sensibles que d'autres.
+
+1023
+00:42:20,250 --> 00:42:23,190
+Alors, un rappel toujours, pour les deux effets,
+
+1024
+00:42:23,290 --> 00:42:26,890
+vous avez les effets obligatoires qui sont déterministes
+
+1025
+00:42:26,890 --> 00:42:29,070
+et les effets stochastiques qui sont aléatoires.
+
+1026
+00:42:29,870 --> 00:42:31,710
+Là, vous avez une irradiation d'une cellule,
+
+1027
+00:42:32,010 --> 00:42:33,430
+soit qu'il y a une réparation, donc
+
+1028
+00:42:33,430 --> 00:42:34,810
+il n'y a pas d'effet, soit
+
+1029
+00:42:34,810 --> 00:42:37,010
+qu'il y a une mort cellulaire immédiate,
+
+1030
+00:42:37,130 --> 00:42:39,670
+là, on est dans l'effet obligatoire, soit
+
+1031
+00:42:39,670 --> 00:42:40,630
+qu'il y a une cellule qui a
+
+1032
+00:42:40,630 --> 00:42:43,730
+été mutée, mutée, mais qui arrive quand même
+
+1033
+00:42:43,730 --> 00:42:48,030
+à se diviser, d'accord, mais par la
+
+1034
+00:42:48,030 --> 00:42:50,190
+suite ou les suites seront soit une mort
+
+1035
+00:42:50,190 --> 00:42:55,070
+cellulaire déférée, soit par la non-division, soit
+
+1036
+00:42:55,070 --> 00:42:57,170
+par apoptose, là, on est toujours dans les
+
+1037
+00:42:57,170 --> 00:43:00,250
+effets déterministes, soit que la cellule mutée touche
+
+1038
+00:43:00,250 --> 00:43:04,410
+une cellule somatique, d'accord, ou bien une
+
+1039
+00:43:04,410 --> 00:43:06,750
+cellule germinale, là, ce sont les cancers, ce
+
+1040
+00:43:06,750 --> 00:43:09,210
+sont les effets génétiques et là, on parle
+
+1041
+00:43:09,210 --> 00:43:10,170
+des effets stochastiques.
+
+1042
+00:43:11,970 --> 00:43:18,090
+Alors, justement, les effets somatiques, comment, donc on
+
+1043
+00:43:18,090 --> 00:43:19,750
+va s'en renseigner sur cet effet, donc
+
+1044
+00:43:19,750 --> 00:43:22,450
+le premier cas a été testé en 1902,
+
+1045
+00:43:23,550 --> 00:43:27,390
+alors la première étude a été réalisée donc
+
+1046
+00:43:27,390 --> 00:43:29,510
+in vitro, d'accord, donc ils ont pris
+
+1047
+00:43:29,510 --> 00:43:32,010
+une cellule normale, d'accord, qu'ils n
+
+1048
+00:43:32,010 --> 00:43:33,890
+'ont pas irradiée, ils ont constaté que la
+
+1049
+00:43:33,890 --> 00:43:35,710
+division était normale, d'accord, donc il y
+
+1050
+00:43:35,710 --> 00:43:37,230
+a l'apparition, plutôt le développement d'un
+
+1051
+00:43:37,230 --> 00:43:39,470
+tissu qui est sain, mais par contre, donc
+
+1052
+00:43:39,470 --> 00:43:42,110
+ils ont pris en parallèle une cellule normale
+
+1053
+00:43:42,110 --> 00:43:44,070
+qui a été, comment, qui a été irradiée
+
+1054
+00:43:44,710 --> 00:43:46,650
+et là, ils ont constaté que lors de
+
+1055
+00:43:46,650 --> 00:43:48,750
+la descendance, d'accord, donc il y a
+
+1056
+00:43:48,750 --> 00:43:50,830
+une formation d'une tumeur, donc une cellule
+
+1057
+00:43:50,830 --> 00:43:53,630
+normale, donc la première n'a pas été
+
+1058
+00:43:53,630 --> 00:43:55,650
+irradiée, la deuxième qui a été irradiée, et
+
+1059
+00:43:55,650 --> 00:43:59,030
+tout ceci, donc, in vitro, ils ont constaté
+
+1060
+00:43:59,030 --> 00:44:00,270
+que la cellule qui n'a pas été
+
+1061
+00:44:00,270 --> 00:44:01,890
+irradiée, donc il y a eu une division
+
+1062
+00:44:01,890 --> 00:44:03,390
+qui a été normale, mais par contre, la
+
+1063
+00:44:03,390 --> 00:44:05,070
+cellule qui a été irradiée, il y a
+
+1064
+00:44:05,070 --> 00:44:07,070
+eu donc un développement de tumeurs malignes.
+
+1065
+00:44:07,310 --> 00:44:09,930
+Ça, c'est la première source d'informations.
+
+1066
+00:44:10,450 --> 00:44:13,150
+La deuxième source pour l'expérimentation animale, d
+
+1067
+00:44:13,150 --> 00:44:16,290
+'accord, ils ont pris deux lots, deux souris,
+
+1068
+00:44:16,510 --> 00:44:18,790
+d'accord, la première n'a pas été
+
+1069
+00:44:18,790 --> 00:44:20,470
+irradiée, et la deuxième qui a été irradiée,
+
+1070
+00:44:20,570 --> 00:44:22,130
+ils ont constaté que la souris qui a
+
+1071
+00:44:22,130 --> 00:44:24,850
+été irradiée, donc elle a développé ces effets
+
+1072
+00:44:24,850 --> 00:44:27,210
+-là, d'accord, somatiques.
+
+1073
+00:44:28,530 --> 00:44:30,590
+Après, il y a l'enquête épidémiologique.
+
+1074
+00:44:30,750 --> 00:44:31,290
+Ça veut dire quoi?
+
+1075
+00:44:31,450 --> 00:44:32,370
+Ça veut dire qu'on va faire une
+
+1076
+00:44:32,370 --> 00:44:34,450
+étude, mais à l'échelle de la population.
+
+1077
+00:44:35,550 --> 00:44:38,050
+Et pour cela, donc, on va remonter un
+
+1078
+00:44:38,050 --> 00:44:40,890
+petit peu dans l'histoire, et voir dans
+
+1079
+00:44:40,890 --> 00:44:43,550
+une zone qui a été irradiée, généralement, accidentellement,
+
+1080
+00:44:43,690 --> 00:44:46,430
+d'accord, et voir un petit peu la
+
+1081
+00:44:46,430 --> 00:44:47,110
+descendance.
+
+1082
+00:44:47,230 --> 00:44:49,230
+Et voir la descendance, est-ce que les
+
+1083
+00:44:49,230 --> 00:44:51,490
+gens qui habitaient cette région, ils ont développé
+
+1084
+00:44:51,490 --> 00:44:52,950
+une anomalie ou pas.
+
+1085
+00:44:53,690 --> 00:44:56,510
+Et cette expérience a été faite suite à
+
+1086
+00:44:56,510 --> 00:44:57,730
+l'accident qu'il y a eu en
+
+1087
+00:44:57,730 --> 00:45:04,010
+1945, l'accident de Hiroshima, de l'île
+
+1088
+00:45:04,010 --> 00:45:06,350
+Marshall en 1954, et l'accident de Tchernobyl
+
+1089
+00:45:06,350 --> 00:45:07,110
+en 1986.
+
+1090
+00:45:07,550 --> 00:45:08,450
+Ils ont constaté quoi?
+
+1091
+00:45:08,730 --> 00:45:12,790
+Ils ont constaté que il y a, donc,
+
+1092
+00:45:13,550 --> 00:45:17,190
+l'apparition, d'accord, de certains, de développement
+
+1093
+00:45:17,190 --> 00:45:19,370
+de certains cancers, d'accord, en fonction des
+
+1094
+00:45:19,370 --> 00:45:19,810
+années-là.
+
+1095
+00:45:20,390 --> 00:45:20,610
+D'accord?
+
+1096
+00:45:21,110 --> 00:45:23,550
+Ça veut dire que ce sont des enquêtes
+
+1097
+00:45:23,550 --> 00:45:25,310
+épidémiologiques qui duraient dans le temps.
+
+1098
+00:45:25,750 --> 00:45:26,550
+Ils ont pris, donc, il y a une
+
+1099
+00:45:26,550 --> 00:45:28,730
+région qui a été irradiée accidentellement, je prends
+
+1100
+00:45:28,730 --> 00:45:31,450
+l'exemple de Tchernobyl en 1986, et quelques
+
+1101
+00:45:31,450 --> 00:45:33,170
+années après, d'accord, 20-30 ans après,
+
+1102
+00:45:33,170 --> 00:45:35,950
+ils ont retourné dans le même site.
+
+1103
+00:45:36,350 --> 00:45:38,790
+Ils ont constaté que les gens, d'accord,
+
+1104
+00:45:38,910 --> 00:45:42,190
+plutôt la descendance, d'accord, ils ont développé
+
+1105
+00:45:42,190 --> 00:45:45,330
+des anomalies, soit somatiques ou soit génétiques, suite
+
+1106
+00:45:45,330 --> 00:45:46,130
+à cet accident.
+
+1107
+00:45:47,170 --> 00:45:49,570
+Et généralement, c'est un recul très important.
+
+1108
+00:45:49,830 --> 00:45:51,650
+Généralement, c'est entre 30 et 40 ans
+
+1109
+00:45:51,650 --> 00:45:55,310
+pour pouvoir évaluer donc l'effet des rayonnements
+
+1110
+00:45:55,310 --> 00:45:56,630
+ionisants sur la population.
+
+1111
+00:45:56,970 --> 00:46:02,030
+Alors, autre anomalie qui a été constatée du
+
+1112
+00:46:02,030 --> 00:46:05,290
+tumeur cutané, d'accord, des osseux sarcom.
+
+1113
+00:46:05,430 --> 00:46:06,790
+Là, j'ai pris l'exemple de l
+
+1114
+00:46:06,790 --> 00:46:07,910
+'osseux sarcom, d'accord.
+
+1115
+00:46:09,730 --> 00:46:11,590
+Le cancer du poumon, le cancer de la
+
+1116
+00:46:11,590 --> 00:46:13,190
+thyroïde, donc c'est l'accident de Tchernobyl.
+
+1117
+00:46:13,390 --> 00:46:13,610
+Pourquoi?
+
+1118
+00:46:14,690 --> 00:46:17,750
+Parce que, donc, il y a une émission
+
+1119
+00:46:17,750 --> 00:46:20,770
+d'une activité très importante, d'une quantité
+
+1120
+00:46:20,770 --> 00:46:23,230
+très importante d'iode-131.
+
+1121
+00:46:23,530 --> 00:46:25,690
+Et cet iode-131, donc, avec une dose
+
+1122
+00:46:25,690 --> 00:46:28,630
+très importante, il a causé une fréquence très
+
+1123
+00:46:28,630 --> 00:46:30,310
+importante de cancer de la thyroïde chez la
+
+1124
+00:46:30,310 --> 00:46:31,450
+population qui a été irradiée.
+
+1125
+00:46:32,250 --> 00:46:34,630
+Également, des leucémies, et ça ce sont des
+
+1126
+00:46:34,630 --> 00:46:37,170
+effets ou plutôt des cancers qui ont été
+
+1127
+00:46:37,170 --> 00:46:39,510
+donc observés dans la population qui a été
+
+1128
+00:46:39,510 --> 00:46:41,970
+irradiée, mais tout cela donc c'est dans
+
+1129
+00:46:41,970 --> 00:46:45,010
+le cadre des enquêtes qui ont duré quand
+
+1130
+00:46:45,010 --> 00:46:47,230
+même donc un délai très très important entre
+
+1131
+00:46:47,230 --> 00:46:48,270
+30 et 40 ans.
+
+1132
+00:46:50,330 --> 00:46:54,850
+Alors, maintenant, quels sont les facteurs qui influencent
+
+1133
+00:46:54,850 --> 00:46:57,050
+donc l'apparition de cancers ou la radiocancérogènesse?
+
+1134
+00:46:59,210 --> 00:47:01,230
+Tout d'abord, donc, la dose absorbée.
+
+1135
+00:47:02,090 --> 00:47:02,190
+Voilà.
+
+1136
+00:47:02,830 --> 00:47:05,210
+Plus la dose est faible, moins l'apparition
+
+1137
+00:47:05,210 --> 00:47:06,830
+de cancers et vice-versa.
+
+1138
+00:47:07,310 --> 00:47:10,210
+Plus la dose absorbée est très importante, d
+
+1139
+00:47:10,210 --> 00:47:14,850
+'accord, plus le risque de cancérisation augmente.
+
+1140
+00:47:15,330 --> 00:47:16,330
+Ça c'est la dose absorbée.
+
+1141
+00:47:16,710 --> 00:47:20,470
+J'ai pris l'exemple initialement chez une
+
+1142
+00:47:21,910 --> 00:47:28,110
+personne qui reçoit, par exemple, donc, alors un
+
+1143
+00:47:28,110 --> 00:47:31,670
+gré, d'accord, pendant une seconde une personne
+
+1144
+00:47:31,670 --> 00:47:34,170
+qui reçoit donc un gré, d'accord, un
+
+1145
+00:47:34,170 --> 00:47:35,610
+gré comme ça, pendant une heure.
+
+1146
+00:47:36,950 --> 00:47:41,050
+Donc, le risque, d'accord, chez la personne
+
+1147
+00:47:41,050 --> 00:47:43,310
+qui a reçu donc une irradiation très importante,
+
+1148
+00:47:43,530 --> 00:47:46,390
+d'accord, en termes de temps, d'accord,
+
+1149
+00:47:46,470 --> 00:47:49,630
+de débit, donc les effets observés sont très
+
+1150
+00:47:49,630 --> 00:47:51,730
+importants par rapport donc à une personne qui
+
+1151
+00:47:51,730 --> 00:47:53,850
+a reçu donc la même irradiation, d'accord,
+
+1152
+00:47:54,450 --> 00:47:58,990
+mais pendant un délai qui est moins important.
+
+1153
+00:47:59,670 --> 00:48:01,910
+Donc la notion du débit est très importante.
+
+1154
+00:48:03,930 --> 00:48:06,370
+Et que l'effet croît pour le fort
+
+1155
+00:48:06,370 --> 00:48:08,170
+débit chez l'animal, donc ça c'est
+
+1156
+00:48:08,170 --> 00:48:09,630
+dans le cadre de l'expérimentation.
+
+1157
+00:48:11,270 --> 00:48:14,470
+Et puis après il y a la notion
+
+1158
+00:48:15,150 --> 00:48:16,610
+de la nature de rayonnement.
+
+1159
+00:48:16,830 --> 00:48:18,170
+Et quand je parle de la nature de
+
+1160
+00:48:18,170 --> 00:48:24,290
+rayonnement c'est généralement la radiotoxicité qui est
+
+1161
+00:48:24,290 --> 00:48:27,070
+exprimée par le facteur de pondération radiologique.
+
+1162
+00:48:27,530 --> 00:48:30,730
+Et là vous avez donc un tableau qui
+
+1163
+00:48:30,730 --> 00:48:33,710
+montre à peu près les différents facteurs de
+
+1164
+00:48:33,710 --> 00:48:37,670
+pondération radiologique des différents types de rayonnement et
+
+1165
+00:48:37,670 --> 00:48:39,070
+domaines d'énergie.
+
+1166
+00:48:39,570 --> 00:48:46,790
+Par exemple, pour les photons et les électrons,
+
+1167
+00:48:46,930 --> 00:48:48,570
+ils ont un facteur de pondération radiologique qui
+
+1168
+00:48:48,570 --> 00:48:49,890
+est égal à 20, mais par contre pour
+
+1169
+00:48:49,890 --> 00:48:53,830
+les particules alpha, le facteur de pondération radiologique
+
+1170
+00:48:53,830 --> 00:48:54,550
+est très important.
+
+1171
+00:48:55,090 --> 00:48:55,910
+Alors on conclut quoi?
+
+1172
+00:48:56,030 --> 00:48:58,550
+On conclut que l'irradiation par les particules
+
+1173
+00:48:58,550 --> 00:49:03,590
+alpha va causer plus de dégâts qu'une
+
+1174
+00:49:03,590 --> 00:49:07,250
+irradiation similaire en matière de dose et de
+
+1175
+00:49:07,250 --> 00:49:10,090
+débit pour les photons ou pour les électrons.
+
+1176
+00:49:11,610 --> 00:49:15,050
+La nature du tissu, c'est la notion
+
+1177
+00:49:15,050 --> 00:49:18,870
+de radiosensibilité et cette notion fait intervenir la
+
+1178
+00:49:18,870 --> 00:49:21,750
+notion du facteur de pondération tessulaire, ça veut
+
+1179
+00:49:21,750 --> 00:49:25,090
+dire que certains organes sont plus radiosensibles que
+
+1180
+00:49:25,090 --> 00:49:25,450
+d'autres.
+
+1181
+00:49:26,370 --> 00:49:28,810
+Voilà, c'est donc les organes je répète,
+
+1182
+00:49:28,910 --> 00:49:30,730
+les plus radiosensibles ce sont les gonades, les
+
+1183
+00:49:30,730 --> 00:49:32,610
+moins radiosensibles c'est la peau et l
+
+1184
+00:49:32,610 --> 00:49:32,750
+'os.
+
+1185
+00:49:33,430 --> 00:49:35,950
+Et puis les caractéristiques ou les caractères du
+
+1186
+00:49:35,950 --> 00:49:36,890
+sujet qui est exposé.
+
+1187
+00:49:37,130 --> 00:49:41,650
+Donc l'âge, ceci en rapport avec la
+
+1188
+00:49:41,650 --> 00:49:44,430
+surface de la peau, donc le nourrisson avec
+
+1189
+00:49:44,430 --> 00:49:47,230
+la même dose, aura plus de dégâts que
+
+1190
+00:49:47,870 --> 00:49:49,770
+la même irradiation chez un adulte.
+
+1191
+00:49:50,070 --> 00:49:51,470
+Et puis les facteurs génétiques, ça veut dire
+
+1192
+00:49:51,470 --> 00:49:53,270
+que certains sujets vont développer que d'autres,
+
+1193
+00:49:53,390 --> 00:49:55,670
+c'est la notion de susceptibilité individuelle.
+
+1194
+00:49:58,230 --> 00:50:02,110
+Autre facteur de risque, c'est que certains
+
+1195
+00:50:03,370 --> 00:50:10,050
+organes vont développer plutôt seront irradiés plus que
+
+1196
+00:50:10,050 --> 00:50:10,350
+d'autres.
+
+1197
+00:50:11,470 --> 00:50:13,310
+Alors on va prendre un premier exemple de
+
+1198
+00:50:13,310 --> 00:50:13,870
+la thyroïde.
+
+1199
+00:50:14,490 --> 00:50:16,830
+Alors un petit rappel, la thyroïde c'est
+
+1200
+00:50:16,830 --> 00:50:21,750
+une glande qui capte principalement l'iode d
+
+1201
+00:50:21,750 --> 00:50:26,550
+'origine alimentaire et qui va l'utiliser pour
+
+1202
+00:50:26,550 --> 00:50:28,870
+la production des hormones thyroïdiennes, la T3 et
+
+1203
+00:50:28,870 --> 00:50:31,910
+la T4, la thyrosine et la thyroïdothyronine.
+
+1204
+00:50:34,830 --> 00:50:38,570
+Et cette iode provient essentiellement de l'alimentation,
+
+1205
+00:50:38,750 --> 00:50:41,050
+généralement les fruits de mer, le céléodé de
+
+1206
+00:50:41,050 --> 00:50:42,110
+cuisine et les poissons.
+
+1207
+00:50:45,690 --> 00:50:49,230
+Lorsque la personne sera irradiée par l'iode,
+
+1208
+00:50:50,870 --> 00:50:56,150
+puisque la thyroïde c'est une glande qui
+
+1209
+00:50:56,150 --> 00:51:00,830
+constitue une réserve d'iode, la glande thyroïde
+
+1210
+00:51:00,830 --> 00:51:03,310
+sera plus irradiée que les autres organes.
+
+1211
+00:51:03,550 --> 00:51:05,710
+Les effets seront plus observés par la glande
+
+1212
+00:51:05,710 --> 00:51:08,130
+de la thyroïde que les autres organes en
+
+1213
+00:51:08,130 --> 00:51:09,870
+cas d'irradiation par l'iode 131.
+
+1214
+00:51:10,830 --> 00:51:13,810
+Je prends un exemple du radon.
+
+1215
+00:51:14,070 --> 00:51:17,170
+Le radon que vous voyez là c'est
+
+1216
+00:51:17,170 --> 00:51:18,770
+le radon 222.
+
+1217
+00:51:19,690 --> 00:51:22,510
+C'est un gaz radioactif qui se trouve
+
+1218
+00:51:22,510 --> 00:51:23,830
+généralement dans la nature.
+
+1219
+00:51:25,350 --> 00:51:28,150
+Ce gaz-là provient de la désintégration de
+
+1220
+00:51:28,150 --> 00:51:30,030
+l'uranium dans les sols et dans les
+
+1221
+00:51:30,030 --> 00:51:30,350
+roches.
+
+1222
+00:51:31,470 --> 00:51:33,350
+Le risque est qu'il peut être émalé
+
+1223
+00:51:33,350 --> 00:51:38,270
+par la personne et sera atteint par les
+
+1224
+00:51:38,270 --> 00:51:38,670
+poumons.
+
+1225
+00:51:40,070 --> 00:51:42,910
+Une fois arrivé à ce niveau-là, lorsqu
+
+1226
+00:51:42,910 --> 00:51:44,710
+'il a une dose très importante, il peut
+
+1227
+00:51:44,710 --> 00:51:46,210
+provoquer un cancer du poumon.
+
+1228
+00:51:46,790 --> 00:51:49,150
+Vous voyez que la radiosensibilité de chaque radio
+
+1229
+00:51:49,150 --> 00:51:51,790
+-élément dépend de l'organe en question.
+
+1230
+00:51:53,050 --> 00:51:55,690
+Je prends un dernier exemple, celui du strontium
+
+1231
+00:51:55,690 --> 00:51:58,210
+que vous voyez là, le strontium 90.
+
+1232
+00:51:59,090 --> 00:52:00,750
+C'est comme le calcium.
+
+1233
+00:52:01,470 --> 00:52:05,170
+C'est un alcaline octéreux qui est observé
+
+1234
+00:52:05,790 --> 00:52:08,970
+par le type digestive par les mêmes mécanismes
+
+1235
+00:52:08,970 --> 00:52:09,690
+que le calcium.
+
+1236
+00:52:10,550 --> 00:52:13,130
+Après une irradiation, il va aller se localiser
+
+1237
+00:52:13,130 --> 00:52:14,030
+au niveau du squelette.
+
+1238
+00:52:14,350 --> 00:52:17,390
+En cas d'irradiation par le radium, l
+
+1239
+00:52:17,390 --> 00:52:19,550
+'organe le plus touché sera le squelette.
+
+1240
+00:52:19,910 --> 00:52:23,210
+Là vous avez les différents radio-éléments en
+
+1241
+00:52:23,210 --> 00:52:25,190
+cas d'irradiation et les organes les plus
+
+1242
+00:52:26,130 --> 00:52:28,250
+sensibles d'être atteints par le radio-élément.
+
+1243
+00:52:28,950 --> 00:52:31,970
+Pour le strontium, vous avez la thyroïde.
+
+1244
+00:52:32,470 --> 00:52:34,630
+Pour la peau, vous avez le sulfure.
+
+1245
+00:52:35,190 --> 00:52:37,650
+Pour le foie, vous avez le cobalt.
+
+1246
+00:52:37,750 --> 00:52:38,390
+Et ainsi de suite.
+
+1247
+00:52:40,650 --> 00:52:43,090
+Soit récessive, soit dominante.
+
+1248
+00:52:43,790 --> 00:52:46,810
+Bien sûr, le risque va se transmettre à
+
+1249
+00:52:46,810 --> 00:52:46,970
+qui?
+
+1250
+00:52:47,270 --> 00:52:49,230
+À la descendance.
+
+1251
+00:52:50,030 --> 00:52:52,590
+Dans ce cas, il peut toucher soit un
+
+1252
+00:52:52,590 --> 00:52:57,070
+organe, soit un tissu, soit une fonction.
+
+1253
+00:52:57,630 --> 00:52:59,370
+Un organe, c'est comme le cas ici,
+
+1254
+00:52:59,370 --> 00:53:00,790
+une polydactylie.
+
+1255
+00:53:00,950 --> 00:53:03,090
+Vous avez 1, 2, 3, 4, 5, 6,
+
+1256
+00:53:03,150 --> 00:53:03,850
+au lieu de 5.
+
+1257
+00:53:04,370 --> 00:53:05,170
+Soit un tissu.
+
+1258
+00:53:05,470 --> 00:53:06,850
+L'exemple que j'ai pris ici, c
+
+1259
+00:53:06,850 --> 00:53:09,490
+'est la neurofibromatose ou le Tachycaphéolé.
+
+1260
+00:53:10,190 --> 00:53:11,370
+Soit une fonction métabolique.
+
+1261
+00:53:12,550 --> 00:53:14,510
+C'est le cas ici de l'hémochromatose.
+
+1262
+00:53:17,150 --> 00:53:20,690
+La chronologie, avant de finir, vous avez ici
+
+1263
+00:53:20,690 --> 00:53:23,190
+les fractions de secondes, les minutes, les heures,
+
+1264
+00:53:23,250 --> 00:53:24,250
+les jours, et ainsi de suite.
+
+1265
+00:53:25,710 --> 00:53:30,150
+Vous constatez que lorsqu'un rayonnement frappe une
+
+1266
+00:53:30,150 --> 00:53:31,590
+cellule, il y a deux effets.
+
+1267
+00:53:31,750 --> 00:53:34,090
+Il y a des effets directs et indirects.
+
+1268
+00:53:34,570 --> 00:53:36,070
+Les indirects sont les plus graves.
+
+1269
+00:53:36,290 --> 00:53:38,650
+C'est par la formation des radicaux libres.
+
+1270
+00:53:40,460 --> 00:53:42,660
+Les effets directs, bien sûr, c'est l
+
+1271
+00:53:42,660 --> 00:53:45,520
+'atteinte soit moléculaire, de l'ADN, de la
+
+1272
+00:53:45,520 --> 00:53:46,540
+membrane ou des protéines.
+
+1273
+00:53:46,860 --> 00:53:48,540
+Mais ce sont les effets indirects qui vont
+
+1274
+00:53:48,540 --> 00:53:50,320
+causer le plus de dégâts.
+
+1275
+00:53:51,140 --> 00:53:53,960
+Ceux-ci, les secondes qui suivent l'irradiation.
+
+1276
+00:53:54,680 --> 00:53:56,000
+Il y a deux types de réponses.
+
+1277
+00:53:56,080 --> 00:53:57,160
+Une réponse précoce.
+
+1278
+00:53:57,160 --> 00:53:58,420
+Il n'y a pas de réparation.
+
+1279
+00:53:58,620 --> 00:53:59,220
+C'est la nécrose.
+
+1280
+00:53:59,380 --> 00:54:01,200
+Là, on est dans l'effet déterministe.
+
+1281
+00:54:02,220 --> 00:54:04,100
+Soit il y a une réparation, c'est
+
+1282
+00:54:04,100 --> 00:54:05,600
+une survie normale, mais le risque est là.
+
+1283
+00:54:06,200 --> 00:54:07,380
+Lorsqu'il y a une réparation qui est
+
+1284
+00:54:07,380 --> 00:54:12,380
+fautive, il peut atteindre soit une cellule somatique,
+
+1285
+00:54:12,620 --> 00:54:13,880
+c'est l'apparition de cancer, ou une
+
+1286
+00:54:13,880 --> 00:54:14,700
+cellule germinale.
+
+1287
+00:54:15,180 --> 00:54:17,160
+Là, ce sont des anomalies héréditaires.
+
+1288
+00:54:19,500 --> 00:54:21,260
+Dans ces deux cas de figure, on parle
+
+1289
+00:54:21,260 --> 00:54:22,300
+des effets stochastiques.
+
+1290
+00:54:23,020 --> 00:54:24,560
+Par contre, lorsqu'il y a une nécrose,
+
+1291
+00:54:24,600 --> 00:54:26,520
+une mort cellulaire, on est dans les effets
+
+1292
+00:54:26,520 --> 00:54:27,860
+déterministes, à seuil.
+
+1293
+00:54:30,340 --> 00:54:33,780
+Un dernier appel comparatif entre les deux effets.
+
+1294
+00:54:33,880 --> 00:54:35,860
+Les effets déterministes et stochastiques.
+
+1295
+00:54:36,020 --> 00:54:38,640
+Les premiers sont causés par la destruction massive
+
+1296
+00:54:38,640 --> 00:54:39,220
+des cellules.
+
+1297
+00:54:40,160 --> 00:54:41,900
+Il faut savoir qu'il y a la
+
+1298
+00:54:41,900 --> 00:54:44,520
+notion de seuil qui est obligatoire.
+
+1299
+00:54:44,940 --> 00:54:47,100
+Chaque fois que le seuil a été dépassé,
+
+1300
+00:54:47,260 --> 00:54:48,480
+il y a l'apparition de ces effets.
+
+1301
+00:54:49,680 --> 00:54:51,680
+Les pathologies sont diverses en fonction de la
+
+1302
+00:54:51,680 --> 00:54:52,240
+dose reçue.
+
+1303
+00:54:52,420 --> 00:54:54,680
+Le seuil, il est de 0,2 à
+
+1304
+00:54:54,680 --> 00:54:55,400
+0,3°C.
+
+1305
+00:54:55,480 --> 00:54:56,860
+Les manifestations sont précoces.
+
+1306
+00:54:57,720 --> 00:55:00,280
+La gravité et la fréquence dépendent de la
+
+1307
+00:55:00,280 --> 00:55:00,480
+dose.
+
+1308
+00:55:00,780 --> 00:55:03,080
+Plus la dose est très importante, plus la
+
+1309
+00:55:03,080 --> 00:55:05,460
+fréquence d'apparition et la gravité sont très
+
+1310
+00:55:05,460 --> 00:55:05,940
+importantes.
+
+1311
+00:55:06,400 --> 00:55:08,400
+Ce sont des effets qui sont bien décrits.
+
+1312
+00:55:08,840 --> 00:55:12,660
+Vous avez une telle dose, la personne a
+
+1313
+00:55:12,660 --> 00:55:15,220
+reçu une dose X, elle va avoir le
+
+1314
+00:55:15,220 --> 00:55:15,920
+problème suivant.
+
+1315
+00:55:16,660 --> 00:55:19,940
+Elle a reçu une dose Y, et ainsi
+
+1316
+00:55:19,940 --> 00:55:20,300
+de suite.
+
+1317
+00:55:20,400 --> 00:55:22,640
+Ce sont des effets qui sont bien décrits.
+
+1318
+00:55:23,140 --> 00:55:26,640
+Par contre, le problème se pose pour les
+
+1319
+00:55:26,640 --> 00:55:27,880
+effets stochastiques où il n'y a pas
+
+1320
+00:55:27,880 --> 00:55:28,320
+de seuil.
+
+1321
+00:55:29,360 --> 00:55:33,120
+Ils sont causés par les lésions non réparées
+
+1322
+00:55:33,120 --> 00:55:34,960
+de l'ADN qui vont causer des cellules
+
+1323
+00:55:34,960 --> 00:55:36,640
+qui sont viables mais qui sont lésées.
+
+1324
+00:55:37,340 --> 00:55:39,140
+Ce sont des effets qui sont aléatoires.
+
+1325
+00:55:39,660 --> 00:55:41,240
+Cela veut dire que la personne peut développer
+
+1326
+00:55:41,240 --> 00:55:43,840
+comme elle ne peut pas développer ces effets
+
+1327
+00:55:43,840 --> 00:55:44,060
+-là.
+
+1328
+00:55:44,760 --> 00:55:46,560
+Ce sont généralement les cancers et les effets
+
+1329
+00:55:46,560 --> 00:55:49,240
+génétiques qui sont très tardifs dans le temps.
+
+1330
+00:55:49,240 --> 00:55:50,740
+Il n'y a pas de mention de
+
+1331
+00:55:50,740 --> 00:55:51,160
+seuil.
+
+1332
+00:55:51,580 --> 00:55:52,260
+Ils sont tardifs.
+
+1333
+00:55:52,880 --> 00:55:56,160
+La gravité, lorsque ces effets-là sont là,
+
+1334
+00:55:56,860 --> 00:55:58,500
+ils sont graves.
+
+1335
+00:55:59,140 --> 00:56:01,760
+Ce sont des effets qui sont non spécifiques.
+
+1336
+00:56:02,660 --> 00:56:03,680
+Je vous remercie.

@@ -1,0 +1,79 @@
+Ce troisième cours va porter sur les bases physiques de l'imagerie par résonance magnétique. Cette première dépositif montre quelques images d'IRM. La première étant une IRM cérébrale, où le premier rond est l'IRM cérébrale.
+
+En bas et à gauche, une coupe coronale IRM abdominale ou abdopelle. Et celle à droite est une coupe IRM sagittale du genou. Pour faire le cours, on va voir les constituants de l'IRM.
+
+Juste un aperçu sur l'essentiel des constituants, pas tous les constituants. Les étapes de la résonance magnétique nucléaire. Et puis par la suite, on va voir les séquences de base en IRM, c'est-à-dire le T1 et le T2.
+
+Et le signal des tissus en IRM. C'est une imagerie qui n'utilise pas de rayonnement ionisant, c'est pas comme la radiographie ou bien le scanner. Elle utilise pourtant les propriétés magnétiques du corps.
+
+C'est-à-dire qu'on va faire quelques manoeuvres sur le corps, si on veut dire, pour pouvoir dégager une information du corps lui-même qu'on va enregistrer et qui va nous donner une idée des constituants ou de l'état d'un organe au niveau du corps. Le signal dans cette imagerie provient de l'organisme lui-même. Et même si c'est une imagerie qui prend beaucoup de temps pour être réalisée, qui coûte beaucoup d'argent, mais qui reste actuellement très utilisée.
+
+Elle apporte beaucoup pour la médecine en temps actuel. Ce qu'on doit obtenir de ce cours, c'est qu'il faut décrire le principe de production du signal en IRM, reconnaître la différence entre les séquences T1 et T2, c'est quoi une séquence T1, qu'est-ce qu'elle mesure la séquence T1 en quelque sorte et qu'est-ce qu'elle mesure la séquence T2, et puis reconnaître le signal des principaux tissus de l'organisme. De quoi est constitué l'IRM ? Essentiellement deux éléments.
+
+On ne va pas parler de l'ensemble des éléments, mais essentiellement deux éléments, ou deux principaux constituants. La bobine qui produit le champ magnétique principal des éros, qui est dans le sens du corps ou dans la direction du corps, représentée par la grosse flèche rouge, et des antennes qu'on va mettre autour des régions à imager à l'origine du champ B1. On va voir c'est quoi le champ B0 et c'est quoi le champ B1.
+
+Alors quelles sont les étapes du phénomène de résonance magnétique nucléaire ? C'est essentiellement trois étapes. Ce qu'on appelle la polarisation, deuxième étape la résonance, et la troisième étape c'est la relaxation. Avant de commencer les trois étapes, on va voir à l'état de base ce qui se passe.
+
+À l'état de base, l'atome à l'origine du signal qu'on utilise pour le signal, c'est l'atome d'hydrogène. Pourquoi ? Parce qu'il a deux caractéristiques. L'atome est très simple, comme on voit sur la première image, un noyau et un proton.
+
+Ensuite, en plus, cet atome est très représenté au niveau du corps, car il se trouve dans l'eau qui constitue l'essentiel ou une grande proportion du corps humain. Ce qu'il y a comme caractéristiques, l'atome d'hydrogène est fait d'un électron autour d'un proton. Et donc, l'électron étant chargé négativement et le proton positivement, on assimule cet atome d'hydrogène à un aimant, un petit aimant avec un pôle positif et un pôle négatif.
+
+Ces atomes d'hydrogène ou petits aimants ou spins ont deux propriétés à l'état naturel, c'est-à-dire dans le corps, au moment où on parle, on se balade, pas dans l'appareil d'IRM, mais dans le corps à l'état naturel, ils tournent sur eux-mêmes, comme une toupie, et en tournant, chacune des atomes d'hydrogène s'oriente de manière aléatoire, c'est-à-dire ils ne sont pas synchronisés dans leur mouvement, ce qui va arriver lors de la polarisation. Et c'est quoi la polarisation ? La polarisation, c'est le premier phénomène qui se produit lorsqu'on met le corps dans un champ magnétique. Dans ce champ magnétique de l'IRM, un champ magnétique très puissant, B0, ce B0, ce champ magnétique, va interagir avec les spins, qui sont assimilés également à des petits aimants.
+
+Dans ce champ magnétique, ces spins vont tourner autour d'eux-mêmes, ils vont continuer à tourner autour d'eux-mêmes, mais également autour de l'axe B0, ce qu'on appelle ce mouvement de rotation autour de l'axe B0, s'appelle la précession, et s'aligne dans l'axe de B0, il ne reste pas en train de tourner de façon aléatoire, mais il s'aligne. La vitesse de rotation ou de précession autour de B0 va dépendre de la puissance du champ B1. La formule pour exprimer comment cette fréquence dépend de la puissance du champ.
+
+Les spins vont être divisés en deux populations, l'une qui va être orientée dans le sens de B0, ce qu'on appelle les spins parallèles, ce sont la population la plus fréquente qui suit l'axe et le sens de B0, et l'une dans le sens opposé de B0, c'est-à-dire les spins antiparallèles. En disant sens de B0, c'est-à-dire pôle négatif, pôle positif, la plupart des spins vont avoir les pôles négatifs en regard pôle négatif, et pôle positif en regard pôle positif B0, donc ils vont s'orienter dans le sens de B0. On a dit que chacun des petits spins est comme un petit aimant, donc l'ensemble est comme un grand aimant, dont la différence d'énergie est celle représentée par la différence d'énergie entre les spins parallèles, c'est-à-dire orientées dans le sens de B0, et antiparallèles, orientées dans le sens contraire de B0.
+
+Et le gros aimant, représenté par l'ensemble des spins, ou l'ensemble de tous les spins, est proportionnel à B0. Plus B0 est puissant, plus les spins parallèles vont être nombreux. Alors, la deuxième étape, c'est l'étape de résonance.
+
+La résonance étant un phénomène physique. Ici, représenter quelques chaînes de radio, parce que le fait de capter une chaîne radio, par une station radio, ça fait appel à ce phénomène de résonance. En fait, c'est quoi ce phénomène ? Alors, c'est quoi le phénomène de résonance ? C'est une propriété partagée par un très grand nombre d'objets et de systèmes physiques, d'absorber préférentiellement de l'énergie, ou bien d'échanger de l'énergie, généralement sous forme mécanique ou électromagnétique, lorsqu'ils sont soumis à des forces variant périodiquement dans le temps.
+
+C'est-à-dire, si on prend deux choses qui ont le même mouvement de rotation, qui ont une même vitesse de rotation, ou des vitesses de rotation proches, ils peuvent s'échanger entre eux, cette énergie cinétique. De même, c'est l'exemple qu'on a vu pour la radio. La radio se comporte comme un oscillateur, avec une fréquence ajustable.
+
+C'est-à-dire, la station radio va commencer à absorber l'énergie d'une onde électromagnétique, qui a une fréquence donnée, lorsque la fréquence de la radio sera identique à celle de l'onde électromagnétique. C'est-à-dire, chaque chaîne radio a une fréquence. Et lorsqu'on adapte la fréquence de la station radio à cette fréquence de la chaîne radio, elle peut la capter. 
+
+Si on ne l'adapte pas, elle ne va pas pouvoir la capter. C'est le même principe, on va voir son application dans le phénomène de résonance magnétique nucléaire. Alors, c'est le principe physique général de résonance, c'est une répétition.
+
+C'est un phénomène d'échange d'énergie mécanique ou électromagnétique. Mais pour qu'il y ait échange d'énergie entre deux systèmes, ces deux systèmes doivent être en résonance. En résonance, c'est-à-dire qu'ils ont des fréquences proches pour pouvoir échanger de l'énergie.
+
+On va voir comment on va utiliser ça pour lire. Alors, dans un champ magnétique B0, ce champ magnétique B0 est immobile. Et les spins sont orientés dans le sens du champ magnétique B0, la plupart des spins, les spins parallèles.
+
+Si on vient appliquer un deuxième champ magnétique B1, mais dans un plan perpendiculaire à B0, quelles sont les caractéristiques de B1 qu'on va appliquer ? Ce B1 est beaucoup plus faible que B0. D'une part. D'autre part, il tourne. 
+
+C'est ça le plus important. Il tourne autour de B0. B0 est fixe. 
+
+Mais B1, il tourne autour de B0. On va se demander avec quelle vitesse il va tourner autour de B0. C'est ça le point clé.
+
+La vitesse de rotation de B1, pardon, ici je me suis trompé de B1, est égale à la vitesse de précession des spins ou la vitesse de rotation des spins. Et donc, si la vitesse de rotation de B1 et des spins est égale, ils font une rotation avec la même vitesse, ils peuvent s'échanger de l'énergie. Cette échange d'énergie, comment elle va se manifester en IRM ? Avant d'expliquer comment les spins et le champ B0 qu'on a introduit vont s'échanger ou comment le phénomène d'échange d'énergie va se traduire en IRM, on va dire des petites appellations.
+
+Le vecteur ou bien la flèche B0 représente le champ magnétique de l'aimant de l'IRM. Le vecteur B1 représente le champ magnétique qu'on a introduit pour générer le phénomène de résonance. Et le vecteur M représente le champ magnétique produit par les différents spins.
+
+Voilà ce qui va arriver. Le vecteur correspondant aux spins ou représentant les spins va basculer vers le plan de B1 lorsqu'on va appliquer le B1. C'est comme ça que le phénomène de résonance va se traduire.
+
+Au tout début, dans le premier schéma, on a le M qui tourne autour de B0. Lorsqu'on a appliqué le B1, le M va basculer, va rester en train de tourner autour de B0. Même B1, il tourne autour de B0, mais il va tourner autour de B0 dans le même plan, dans un plan où se trouve le B1.
+
+Et c'est ça ce qu'on appelle le phénomène de résonance. Après la phase de polarisation où les spins se sont mis à tourner autour de l'axe de B0, et la phase de résonance où on appliquait un autre champ B1 et les spins ont basculé dans le plan de champ B1, on va voir la troisième phase du phénomène de résonance magnétique nucléaire qui est la relaxation. La relaxation veut dire retour à l'état de base.
+
+Comment on va faire ce retour à l'état de base? On va arrêter le champ magnétique B1. Qu'est-ce qui va arriver lorsqu'on va arrêter le champ magnétique B1? Les spins vont quitter le plan de B1, ce qu'on appelle le plan XY, et reviennent dans l'état d'équilibre parallèle à B0 dans le plan tournant autour de B0 et orienté dans le sens de B0. C'est ce qu'on appelle la relaxation.
+
+Le théma récapitule ce qui va arriver. La première phase où le M qui représente les spins fut déplacé ou basculé du sens de B0 vers le plan XY ou B1, et puis à l'arrêt de B1 où on a le retour du M vers le sens de B0. La relaxation, c'est l'autre phénomène qui se produit lors de la relaxation, c'est que les spins quittent le plan transversal, ou le plan XY ou le plan B1.
+
+La relaxation transversale, c'est le temps nécessaire pour quitter le plan B1. Elle représente ce qu'on va voir, le T2. L'IRM, en fait, le signal recueilli ou l'image recueillie par l'IRM traduit les temps de relaxation au niveau des différents tissus.
+
+Le temps de relaxation transversale et longitudinale. Comment on enregistre le signal ? On fait appel à une bobine. Déjà, cette bobine se trouve dans l'antenne.
+
+On dit la constituante de l'IRM, essentiellement la bobine qui produit le champ B0 et l'antenne. Dans l'antenne, il y a des bobines. Cette bobine, qu'est-ce qu'elle a comme caractéristique ? Elle va induire la création d'un courant électrique lorsqu'il y a des aimants qui se déplacent devant elle.
+
+Dans notre cas, quels sont ces aimants qui se déplacent ? Ce sont les spins. Les spins qui tournent vont induire un courant électrique dans la bobine. Cela permet de produire un courant électrique qui est proportionnel au nombre de spins qui tournent.
+
+C'est quoi la séquence T1 ? La séquence T1 s'intéresse, en quelque sorte, à la mesure du temps de relaxation longitudinal, c'est-à-dire le retour des spins dans l'axe de B0, et le T2, c'est la séquence qui s'intéresse à la mesure du temps de relaxation transverselle ou bien le temps nécessaire au départ des spins du plan de B1 ou du plan XY. Cela schématise un peu ce qu'on vient de voir, le fait de basculer vers le B1 l'ensemble des spins qui sont représentés par la flèche rouge et le fait que cela revient à l'état initial progressivement. En quittant XY, le nombre de spins va diminuer au niveau de XY et il va augmenter au niveau de l'axe Z. Les séquences T1 et T2 sont chiffrées sous forme d'une courbe qui traduit la relaxation des spins dans un tissu.
+
+Les courbes sont caractéristiques d'un tissu. En fait, les attentes d'hydrogène sont les mêmes, mais le temps de relaxation de l'attente d'hydrogène dépend du tissu dans lequel il se trouve. Il ne quitte pas en même temps le plan XY, il quitte de façon différente selon le tissu dans lequel il se trouve et il ne rejoint pas en même temps l'axe Z, mais de façon différente.
+
+Cette vitesse pour la relaxation longitudinale dépend du tissu dans lequel il se trouve. Le temps de relaxation nous donne une information du tissu qui contient les protons. En quelque sorte, les tissus, lorsqu'on dit hyper intense, c'est-à-dire un temps de relaxation rapide, hyper intense T1, par exemple la graisse, elle est hyper intense T1, c'est-à-dire qu'elle rejoint rapidement l'axe longitudinal ou se relaxe longitudinalement de façon rapide et hyper intense T2, elle quitte rapidement l'axe T2.
+
+Si on prend un autre exemple, par exemple l'eau, l'eau est hyper intense T1, c'est-à-dire qu'elle prend beaucoup de temps pour rejoindre, elle est longue ou le temps de relaxation est très long pour rejoindre le temps de relaxation longitudinal, pour rejoindre l'axe longitudinal, pourtant elle est hyper intense en T2, c'est-à-dire qu'elle quitte rapidement le plan XY. L'image finale, c'est une image qui représente la constitution tissulaire de ce qu'on a imagé. L'imagerie par résonance magnétique, par le biais des temps de relaxation, nous permet de reproduire la composition tissulaire de la partie du col imagé.
+
+En conclusion, on va récapituler. Les spines à l'état de base, ils ont un mouvement de rotation autour d'eux-mêmes, ils sont orientés dans différents sens et dans différentes directions. Lorsqu'on applique un champ magnétique B0, ils vont s'orienter selon le sens de ce champ magnétique, ils vont commencer à tourner autour de ce champ magnétique.
+
+Lorsqu'on va produire un champ B1 qui a la même vitesse de rotation que ses spines, ils vont tous s'orienter, ils vont continuer à tourner autour de B0, mais en s'orientant dans le plan de B1, lorsqu'on arrête le B1, c'est là où ça commence, où on commence à avoir le signal, les atomes d'hydrogène vont revenir vers le B0, et c'est ce temps de retour vers B0, le temps nécessaire pour quitter le plan de B1, qui est enregistré sous forme d'un temps de relaxation, et puis transformé sur l'échelle de gris en une image.

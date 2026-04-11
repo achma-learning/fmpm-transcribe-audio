@@ -1,0 +1,1631 @@
+1
+00:00:00,840 --> 00:00:04,100
+Bonjour, nous allons continuer notre cours sur les
+
+2
+00:00:04,100 --> 00:00:05,500
+bases physiques des ultrasons.
+
+3
+00:00:08,360 --> 00:00:10,540
+Nous enchaînons avec les modes échographiques.
+
+4
+00:00:11,400 --> 00:00:13,920
+Donc les modes échographiques, ils sont nombreux.
+
+5
+00:00:15,480 --> 00:00:17,240
+Le premier mode, c'est le mode A,
+
+6
+00:00:18,240 --> 00:00:20,300
+qui va nous permettre d'avoir des courbes
+
+7
+00:00:20,300 --> 00:00:21,000
+d'amplitude.
+
+8
+00:00:21,480 --> 00:00:22,640
+C'est un mode qui est très peu
+
+9
+00:00:22,640 --> 00:00:27,080
+utilisé actuellement, essentiellement par nos amis ophtalmologues, et
+
+10
+00:00:27,080 --> 00:00:29,320
+qui permet une bonne précision pour mesurer la
+
+11
+00:00:29,320 --> 00:00:31,540
+longueur axielle de l'œil.
+
+12
+00:00:31,540 --> 00:00:34,580
+Donc c'est un mode où le faisceau
+
+13
+00:00:34,580 --> 00:00:36,700
+ultrasonore, à chaque fois qu'il va rencontrer
+
+14
+00:00:36,700 --> 00:00:39,740
+une interface, va nous donner un signal sous
+
+15
+00:00:39,740 --> 00:00:42,180
+forme d'amplitude, comme vous voyez sur l
+
+16
+00:00:42,180 --> 00:00:42,480
+'image.
+
+17
+00:00:44,100 --> 00:00:46,000
+Le deuxième mode, c'est le mode B,
+
+18
+00:00:46,440 --> 00:00:47,840
+ou le mode brillance.
+
+19
+00:00:48,400 --> 00:00:52,420
+Et là, chaque point représenté aura un niveau
+
+20
+00:00:52,420 --> 00:00:55,960
+de brillance différent, et donc il sera représenté
+
+21
+00:00:55,960 --> 00:00:58,480
+sur une échelle de gris, sur l'écran
+
+22
+00:00:58,480 --> 00:00:59,280
+d'échographie.
+
+23
+00:01:00,320 --> 00:01:02,840
+Le troisième mode, c'est le mode TM,
+
+24
+00:01:03,160 --> 00:01:04,239
+ou temps-mouvement.
+
+25
+00:01:05,400 --> 00:01:07,140
+Donc il s'agit d'une représentation des
+
+26
+00:01:07,140 --> 00:01:10,680
+variations, dans une seule direction, de la position
+
+27
+00:01:10,680 --> 00:01:12,980
+et de la brillance des échos en fonction
+
+28
+00:01:12,980 --> 00:01:13,640
+du temps.
+
+29
+00:01:14,480 --> 00:01:17,280
+Son intérêt, c'est essentiellement étudier les mouvements
+
+30
+00:01:17,280 --> 00:01:20,000
+des structures écogènes en fonction du temps.
+
+31
+00:01:20,640 --> 00:01:22,640
+Il peut s'agir soit de la paroi
+
+32
+00:01:22,640 --> 00:01:26,280
+des vaisseaux, ou celle des cavités cardiaques, le
+
+33
+00:01:26,280 --> 00:01:30,300
+mouvement des valves cardiaques, ou alors, dernièrement, il
+
+34
+00:01:30,300 --> 00:01:32,380
+est très utilisé dans l'étude de la
+
+35
+00:01:32,380 --> 00:01:34,760
+plèvre, comme vous voyez sur l'image à
+
+36
+00:01:34,760 --> 00:01:35,080
+côté.
+
+37
+00:01:38,020 --> 00:01:40,500
+Le mode Doppler, lui, s'intéresse au mouvement
+
+38
+00:01:40,500 --> 00:01:42,320
+du sang dans la lumière du vaisseau.
+
+39
+00:01:42,800 --> 00:01:44,760
+Il y a plusieurs types Doppler qu'on
+
+40
+00:01:44,760 --> 00:01:46,220
+va détailler par la suite.
+
+41
+00:01:47,740 --> 00:01:50,180
+Plusieurs autres modes échographiques existent.
+
+42
+00:01:50,300 --> 00:01:52,560
+Nous avons également le mode 3D, 4D.
+
+43
+00:01:53,080 --> 00:01:54,800
+Il s'agit d'un mode avec reconstruction
+
+44
+00:01:54,800 --> 00:01:58,700
+des images, essentiellement utilisée en obstétrique, à la
+
+45
+00:01:58,700 --> 00:02:00,400
+recherche de malformations fétales.
+
+46
+00:02:00,880 --> 00:02:04,200
+L'échographie de contraste, c'est un examen
+
+47
+00:02:04,200 --> 00:02:08,600
+échographique, après injection de liquide contenant des microbules
+
+48
+00:02:08,600 --> 00:02:10,760
+de gaz, au même titre qu'on peut
+
+49
+00:02:10,760 --> 00:02:13,180
+faire un scanner ou une IRM après injection
+
+50
+00:02:13,180 --> 00:02:14,040
+de contraste.
+
+51
+00:02:14,180 --> 00:02:17,180
+Il va permettre de rechercher un rehaussement, une
+
+52
+00:02:17,180 --> 00:02:20,080
+hypervascularisation de certaines tumeurs.
+
+53
+00:02:20,080 --> 00:02:27,520
+Le mode élastographique, celui-ci constitue un examen
+
+54
+00:02:27,520 --> 00:02:30,760
+complémentaire de l'échographie qui va étudier le
+
+55
+00:02:30,760 --> 00:02:34,380
+comportement des tissus soumis à une contrainte et
+
+56
+00:02:34,380 --> 00:02:37,580
+qui va permettre d'informer sur la dureté
+
+57
+00:02:37,580 --> 00:02:38,580
+des tissus.
+
+58
+00:02:38,880 --> 00:02:43,020
+Il peut être utilisé en échographie, pour le
+
+59
+00:02:43,020 --> 00:02:45,390
+foie, à la recherche d'une fibrose tissulaire,
+
+60
+00:02:45,390 --> 00:02:49,750
+ou même dans d'autres organes, comme le
+
+61
+00:02:49,750 --> 00:02:52,710
+sein ou la thyroïde, pour caractériser les lésions
+
+62
+00:02:52,710 --> 00:02:53,390
+tissulaires.
+
+63
+00:02:55,640 --> 00:02:58,060
+Nous passons à la sémiologie échographique.
+
+64
+00:02:59,540 --> 00:03:03,140
+Sur l'image finale obtenue sur notre écran,
+
+65
+00:03:03,580 --> 00:03:07,280
+les différentes structures du corps seront rendues sur
+
+66
+00:03:07,280 --> 00:03:09,640
+une échelle de gris qui varie du noir
+
+67
+00:03:09,640 --> 00:03:10,060
+au blanc.
+
+68
+00:03:10,920 --> 00:03:14,160
+Chaque structure possède sa propre faculté à produire
+
+69
+00:03:14,160 --> 00:03:15,780
+un écho, c'est ce qu'on appelle
+
+70
+00:03:15,780 --> 00:03:18,800
+une échogénécité ou une échostructure.
+
+71
+00:03:19,440 --> 00:03:21,280
+Cela, bien sûr, va se faire sur le
+
+72
+00:03:21,280 --> 00:03:21,840
+mode B.
+
+73
+00:03:24,160 --> 00:03:29,220
+Les structures liquidiennes sont généralement noires ou anéchogènes
+
+74
+00:03:29,220 --> 00:03:32,220
+avec un renforcement des échos postérieurs.
+
+75
+00:03:33,060 --> 00:03:36,380
+Ces mêmes liquides peuvent parfois être impurs, contenant
+
+76
+00:03:36,380 --> 00:03:40,260
+de fins échos avec toujours un renforcement postérieur.
+
+77
+00:03:41,800 --> 00:03:45,820
+Les tissus, eux, sont gris, donc avec un
+
+78
+00:03:45,820 --> 00:03:48,540
+gris variable du français vers le clair.
+
+79
+00:03:49,400 --> 00:03:52,060
+Tout ce qui est calcification ou os va
+
+80
+00:03:52,060 --> 00:03:56,500
+avoir un aspect hyper-échogène, hyper-reflexogène, donc
+
+81
+00:03:56,500 --> 00:03:59,240
+blanc, avec un condombre postérieur.
+
+82
+00:04:01,680 --> 00:04:05,520
+Voici un exemple d'un kyste hépatique anéchogène
+
+83
+00:04:05,520 --> 00:04:08,840
+avec renforcement postérieure des échos.
+
+84
+00:04:11,630 --> 00:04:15,550
+Ici, nous voyons des formations tissulaires variables.
+
+85
+00:04:16,550 --> 00:04:19,709
+Certaines sont hyper-échogènes, d'autres sont hétérogènes,
+
+86
+00:04:19,950 --> 00:04:22,610
+mixtes avec des zones hyper- et des
+
+87
+00:04:22,610 --> 00:04:23,950
+zones hypo-échogènes.
+
+88
+00:04:26,550 --> 00:04:30,090
+Le meilleur exemple des structures calciques, c'est
+
+89
+00:04:30,090 --> 00:04:31,410
+les litéases biliaires.
+
+90
+00:04:31,630 --> 00:04:34,190
+On a un environnement qui est anéchogène, qui
+
+91
+00:04:34,190 --> 00:04:36,950
+est noir, au sein duquel on voit cette
+
+92
+00:04:36,950 --> 00:04:41,290
+petite formation hyper-échogène avec un condombre postérieur.
+
+93
+00:04:41,290 --> 00:04:43,610
+Il s'agit donc d'un calcul de
+
+94
+00:04:43,610 --> 00:04:44,730
+la vésicule biliaire.
+
+95
+00:04:47,080 --> 00:04:49,580
+Nous passons au chapitre de l'écho Doppler.
+
+96
+00:04:51,680 --> 00:04:54,940
+Les objectifs sont d'étudier le principe du
+
+97
+00:04:54,940 --> 00:04:58,980
+Doppler, détailler les différents modes Doppler, énumérer les
+
+98
+00:04:58,980 --> 00:05:01,020
+avantages et les limites de chaque mode.
+
+99
+00:05:03,090 --> 00:05:05,850
+Le plan suivra les objectifs, donc on verra
+
+100
+00:05:05,850 --> 00:05:08,850
+le principe du Doppler, les différents systèmes Doppler
+
+101
+00:05:08,850 --> 00:05:11,810
+et les principales indications de l'écho Doppler.
+
+102
+00:05:14,170 --> 00:05:16,350
+L'écho Doppler constitue la méthode de première
+
+103
+00:05:16,350 --> 00:05:18,870
+intention pour l'examenant l'invasif des vaisseaux
+
+104
+00:05:18,870 --> 00:05:20,290
+superficiels et profonds.
+
+105
+00:05:21,010 --> 00:05:24,670
+Ici, nous avons l'exemple de vaisseau jubulocarotidien
+
+106
+00:05:24,670 --> 00:05:27,130
+au niveau de la région cervicale.
+
+107
+00:05:29,230 --> 00:05:32,510
+Sur une échographie hépatique, on voit également les
+
+108
+00:05:32,510 --> 00:05:35,610
+structures vasculaires qui circulent à l'intérieur du
+
+109
+00:05:35,610 --> 00:05:40,390
+parenchyme hépatique, donc des structures canalaires, anéchogènes ou
+
+110
+00:05:40,390 --> 00:05:41,470
+finement échogènes.
+
+111
+00:05:43,990 --> 00:05:47,250
+Sur cette coupe longitudinale passant par la carotide,
+
+112
+00:05:47,250 --> 00:05:50,970
+nous pouvons étudier plusieurs éléments sur le vaisseau
+
+113
+00:05:50,970 --> 00:05:53,890
+carotidien, donc uniquement en mode B.
+
+114
+00:05:54,490 --> 00:05:58,670
+Nous pouvons étudier le diamètre du vaisseau, sa
+
+115
+00:05:58,670 --> 00:06:02,590
+paroi, son contenu, finement échogène.
+
+116
+00:06:03,430 --> 00:06:07,330
+On peut également chercher des calcifications ou chercher
+
+117
+00:06:07,330 --> 00:06:09,390
+un épaississement pariétal.
+
+118
+00:06:10,050 --> 00:06:14,290
+Par contre, nous n'avons aucune information sur
+
+119
+00:06:14,290 --> 00:06:17,450
+le flux sanguin à l'intérieur du vaisseau.
+
+120
+00:06:18,830 --> 00:06:22,950
+En utilisant le Doppler, on peut avoir plusieurs
+
+121
+00:06:22,950 --> 00:06:27,250
+informations, notamment sur le flux, sur les mesures
+
+122
+00:06:27,250 --> 00:06:29,870
+des vitesses circulatoires à l'intérieur du vaisseau
+
+123
+00:06:29,870 --> 00:06:32,370
+et le débit de circulation sanguin.
+
+124
+00:06:35,920 --> 00:06:38,100
+Pour le principe du Doppler, il s'agit
+
+125
+00:06:38,100 --> 00:06:40,140
+d'une modification de la fréquence d'une
+
+126
+00:06:40,140 --> 00:06:42,920
+onde quand elle est réfléchie par une structure
+
+127
+00:06:42,920 --> 00:06:43,560
+en mouvement.
+
+128
+00:06:44,460 --> 00:06:47,140
+L'effet Doppler est utilisé en médecine pour
+
+129
+00:06:47,140 --> 00:06:49,860
+quantifier le mouvement des hémacides dans un vaisseau
+
+130
+00:06:49,860 --> 00:06:50,480
+sanguin.
+
+131
+00:06:51,120 --> 00:06:54,100
+Le meilleur exemple étant celui du bruit de
+
+132
+00:06:54,100 --> 00:06:55,200
+voiture en mouvement.
+
+133
+00:06:57,420 --> 00:06:59,880
+Nous voyons sur ce schéma que quand la
+
+134
+00:06:59,880 --> 00:07:03,640
+voiture est en arrêt, le son émis, ou
+
+135
+00:07:03,640 --> 00:07:06,420
+plutôt la fréquence du son émis, est égale
+
+136
+00:07:06,420 --> 00:07:08,320
+à la fréquence reçue.
+
+137
+00:07:10,410 --> 00:07:12,670
+Par contre, quand la voiture est en mouvement,
+
+138
+00:07:13,170 --> 00:07:16,610
+si elle s'approche de l'observateur, il
+
+139
+00:07:16,610 --> 00:07:19,670
+y a une compression des ondes sonores.
+
+140
+00:07:20,250 --> 00:07:22,450
+Donc la longueur d'onde est plus courte,
+
+141
+00:07:23,010 --> 00:07:25,650
+le son émis est plus aigu, et on
+
+142
+00:07:25,650 --> 00:07:28,710
+voit également que la fréquence reçue est plus
+
+143
+00:07:28,710 --> 00:07:30,630
+élevée que la fréquence émise.
+
+144
+00:07:31,730 --> 00:07:34,890
+Par contre, quand la voiture s'éloigne de
+
+145
+00:07:34,890 --> 00:07:38,630
+l'observateur, il y a une décompression des
+
+146
+00:07:38,630 --> 00:07:42,630
+ondes sonores, la longueur d'onde est plus
+
+147
+00:07:42,630 --> 00:07:46,030
+longue, et donc la fréquence est plus basse.
+
+148
+00:07:49,750 --> 00:07:51,930
+Voici un autre exemple pour comprendre.
+
+149
+00:07:53,350 --> 00:07:55,710
+Si on prend le point B, c'est
+
+150
+00:07:55,710 --> 00:07:58,450
+un point ou une position qui est neutre,
+
+151
+00:07:58,730 --> 00:08:01,190
+la structure n'est pas en mouvement, donc
+
+152
+00:08:01,190 --> 00:08:02,610
+la fréquence ne change pas.
+
+153
+00:08:02,770 --> 00:08:05,290
+La fréquence émise est égale à la fréquence
+
+154
+00:08:05,290 --> 00:08:05,830
+reçue.
+
+155
+00:08:06,370 --> 00:08:08,430
+Donc la différence de fréquence est nulle.
+
+156
+00:08:09,290 --> 00:08:13,350
+Par contre, dans le point A, où la
+
+157
+00:08:13,350 --> 00:08:17,250
+cible s'éloigne, elle est en mouvement, la
+
+158
+00:08:17,250 --> 00:08:20,510
+fréquence reçue est inférieure à la fréquence émise.
+
+159
+00:08:21,090 --> 00:08:24,190
+Donc la variation de fréquence est inférieure à
+
+160
+00:08:24,190 --> 00:08:24,450
+zéro.
+
+161
+00:08:25,310 --> 00:08:28,530
+Par contre, dans le C, quand le point
+
+162
+00:08:28,530 --> 00:08:33,270
+s'approche de la source, la fréquence reçue
+
+163
+00:08:33,270 --> 00:08:35,590
+est supérieure à la fréquence émise.
+
+164
+00:08:35,710 --> 00:08:38,830
+Donc la variation de fréquence est supérieure à
+
+165
+00:08:38,830 --> 00:08:39,030
+zéro.
+
+166
+00:08:39,950 --> 00:08:44,210
+La différence entre la fréquence reçue et la
+
+167
+00:08:44,210 --> 00:08:47,310
+fréquence émise, c'est ce qui constitue la
+
+168
+00:08:47,310 --> 00:08:48,190
+fréquence Doppler.
+
+169
+00:08:51,150 --> 00:08:53,490
+Si on suppose que la cible est mobile
+
+170
+00:08:53,490 --> 00:08:57,010
+dans l'axe du faisceau ultrasonore, la variation
+
+171
+00:08:57,010 --> 00:08:59,930
+de fréquence, ou la fréquence Doppler, est égale
+
+172
+00:08:59,930 --> 00:09:03,190
+à la fréquence reçue moins la fréquence émise.
+
+173
+00:09:03,370 --> 00:09:05,770
+Ce qui est égal à deux fois la
+
+174
+00:09:05,770 --> 00:09:10,450
+fréquence émise fois V sur la célérité.
+
+175
+00:09:11,690 --> 00:09:14,290
+Ce qui nous intéresse, c'est le V.
+
+176
+00:09:14,570 --> 00:09:16,730
+On s'intéresse à la vitesse de déplacement
+
+177
+00:09:16,730 --> 00:09:19,250
+de la cible, en l'occurrence les hémacies
+
+178
+00:09:19,250 --> 00:09:20,390
+en Doppler.
+
+179
+00:09:21,830 --> 00:09:24,110
+Le C, c'est la vitesse de propagation
+
+180
+00:09:24,110 --> 00:09:26,650
+de l'onde ultrasonore dans les tissus biologiques.
+
+181
+00:09:27,570 --> 00:09:28,970
+On a dit que c'était une constante
+
+182
+00:09:28,970 --> 00:09:31,550
+à 1540 ètres par seconde.
+
+183
+00:09:32,130 --> 00:09:34,730
+La fréquence émise, c'est celle de l
+
+184
+00:09:34,730 --> 00:09:35,270
+'échographe.
+
+185
+00:09:39,310 --> 00:09:41,770
+Si la cible est mobile dans un axe
+
+186
+00:09:41,770 --> 00:09:44,330
+qui est différent, et c'est souvent le
+
+187
+00:09:44,330 --> 00:09:48,910
+cas vu l'anatomie vasculaire humaine, la vitesse
+
+188
+00:09:48,910 --> 00:09:51,040
+mesurée est une vitesse qui devient relative.
+
+189
+00:09:51,730 --> 00:09:53,450
+C'est le petit V qui est égal
+
+190
+00:09:53,450 --> 00:09:56,430
+à grand V fois cosinus de θ.
+
+191
+00:09:57,070 --> 00:09:59,310
+θ étant l'angle entre l'axe du
+
+192
+00:09:59,310 --> 00:10:01,950
+faisceau et l'axe du déplacement de la
+
+193
+00:10:01,950 --> 00:10:02,290
+cible.
+
+194
+00:10:02,970 --> 00:10:04,770
+On l'appelle également l'angle Doppler.
+
+195
+00:10:05,930 --> 00:10:09,530
+La valeur de la fréquence Doppler change alors
+
+196
+00:10:09,530 --> 00:10:18,980
+et devient 2 fois la fréquence
+
+197
+00:10:18,980 --> 00:10:22,740
+émise fois V fois le cosinus de θ
+
+198
+00:10:22,740 --> 00:10:26,100
+sur le petit C ou la célérité de
+
+199
+00:10:26,100 --> 00:10:27,040
+l'onde ultrasonore.
+
+200
+00:10:31,320 --> 00:10:33,580
+Vous voyez sur ce schéma que si l
+
+201
+00:10:33,580 --> 00:10:37,820
+'angle θ est égal à 90° le cosinus
+
+202
+00:10:37,820 --> 00:10:41,800
+de 90° étant nul donc la fréquence Doppler
+
+203
+00:10:41,800 --> 00:10:42,810
+sera nulle.
+
+204
+00:10:44,250 --> 00:10:49,430
+Or il faut toujours tendre à avoir un
+
+205
+00:10:49,430 --> 00:10:52,530
+angle qui soit inférieur à 90° pour avoir
+
+206
+00:10:52,530 --> 00:10:53,470
+un signal Doppler.
+
+207
+00:10:56,400 --> 00:11:00,720
+Sur cette image échographique vous voyez que si
+
+208
+00:11:00,720 --> 00:11:06,620
+la sonde est perpendiculaire au membre inférieur le
+
+209
+00:11:06,620 --> 00:11:09,640
+signal Doppler couleur est très faible.
+
+210
+00:11:10,180 --> 00:11:12,700
+Par contre dès qu'on incline le plan
+
+211
+00:11:12,700 --> 00:11:15,180
+de la sonde on a un signal beaucoup
+
+212
+00:11:15,180 --> 00:11:19,380
+plus intéressant qui permet l'interprétation de l
+
+213
+00:11:19,380 --> 00:11:19,700
+'image.
+
+214
+00:11:23,020 --> 00:11:25,680
+Pour faire de l'imagerie échographique en mode
+
+215
+00:11:25,680 --> 00:11:30,300
+B il faut être perpendiculaire à 90° par
+
+216
+00:11:30,300 --> 00:11:34,420
+rapport à la structure étudiée pour avoir une
+
+217
+00:11:34,420 --> 00:11:36,740
+réflexion qui va se faire vers la source
+
+218
+00:11:36,740 --> 00:11:39,060
+et donc vers la sonde échographique.
+
+219
+00:11:39,060 --> 00:11:42,940
+Par contre pour faire une étude Doppler des
+
+220
+00:11:42,940 --> 00:11:46,580
+vaisseaux il faut avoir un angle d'abord
+
+221
+00:11:46,580 --> 00:11:50,200
+du vaisseau qui soit entre 30 et 60°
+
+222
+00:11:50,200 --> 00:11:53,260
+donc s'éloigner le plus de 90° pour
+
+223
+00:11:53,260 --> 00:11:57,160
+pouvoir avoir une fréquence Doppler qui soit donc
+
+224
+00:11:57,160 --> 00:11:58,700
+interprétable.
+
+225
+00:12:01,330 --> 00:12:03,930
+Les différents systèmes Doppler utilisés sont le Doppler
+
+226
+00:12:03,930 --> 00:12:08,050
+continu, le Doppler pulsé le Doppler couleur et
+
+227
+00:12:08,050 --> 00:12:10,690
+le Doppler énergie ou puissance.
+
+228
+00:12:12,070 --> 00:12:17,510
+Le Doppler continu est essentiellement utilisé par les
+
+229
+00:12:17,510 --> 00:12:20,110
+ophtalmologues ou nos amis angiologues.
+
+230
+00:12:21,050 --> 00:12:23,230
+C'est un Doppler qui utilise une sonde
+
+231
+00:12:23,230 --> 00:12:26,530
+crayon une sonde à deux céramiques avec une
+
+232
+00:12:26,530 --> 00:12:30,070
+partie émettrice en continu et une partie qui
+
+233
+00:12:30,070 --> 00:12:31,290
+est réceptrice.
+
+234
+00:12:31,290 --> 00:12:35,210
+Les informations données par ce Doppler vont être
+
+235
+00:12:35,210 --> 00:12:38,770
+sous deux types un signal audio et un
+
+236
+00:12:38,770 --> 00:12:41,430
+tracé analogique mais sans image.
+
+237
+00:12:41,950 --> 00:12:45,630
+Il est surtout appliqué pour les vaisseaux superficiels.
+
+238
+00:12:48,170 --> 00:12:50,690
+Voici le schéma d'un appareil Doppler continu
+
+239
+00:12:50,690 --> 00:12:54,250
+sur la sonde nous avons deux céramiques une
+
+240
+00:12:54,250 --> 00:12:56,790
+partie qui est émettrice et l'autre qui
+
+241
+00:12:56,790 --> 00:12:57,650
+est réceptrice.
+
+242
+00:12:57,650 --> 00:13:01,570
+La machine d'échographie va donner des impulsions,
+
+243
+00:13:01,670 --> 00:13:07,250
+des oscillations variables qui vont traverser la peau,
+
+244
+00:13:07,670 --> 00:13:11,170
+le vaisseau et on aura un retour d
+
+245
+00:13:11,170 --> 00:13:14,830
+'informations vers la portion réceptrice qui sera détectée
+
+246
+00:13:14,830 --> 00:13:18,330
+et représentée sous forme d'un signal sonore
+
+247
+00:13:18,330 --> 00:13:20,730
+ou d'une courbe d'amplitude.
+
+248
+00:13:22,070 --> 00:13:24,710
+Les avantages du Doppler continu c'est qu
+
+249
+00:13:24,710 --> 00:13:26,630
+'il est sensible au flux lent qu'il
+
+250
+00:13:26,630 --> 00:13:28,510
+n'a pas de limite en profondeur et
+
+251
+00:13:28,510 --> 00:13:30,110
+qu'il a un coup peu élevé.
+
+252
+00:13:30,970 --> 00:13:34,470
+Par contre, ses inconvénients c'est que c
+
+253
+00:13:34,470 --> 00:13:36,010
+'est un examen qui n'est pas couplé
+
+254
+00:13:36,010 --> 00:13:36,730
+à l'imagerie.
+
+255
+00:13:37,330 --> 00:13:40,330
+Nous n'avons aucune résolution spatiale et nous
+
+256
+00:13:40,330 --> 00:13:42,390
+ne pouvons pas localiser le signal.
+
+257
+00:13:42,730 --> 00:13:45,990
+Il peut enregistrer plusieurs vaisseaux sur son trajet.
+
+258
+00:13:47,150 --> 00:13:50,550
+Ses domaines d'application sont principalement les vaisseaux
+
+259
+00:13:50,550 --> 00:13:53,250
+superficiels qui sont bien connus comme les artères
+
+260
+00:13:53,250 --> 00:13:55,990
+et les veines des membres ou du cou.
+
+261
+00:13:58,110 --> 00:14:02,990
+On voit sur une sonde échographique les deux
+
+262
+00:14:02,990 --> 00:14:06,490
+transducteurs, le récepteur et l'émetteur.
+
+263
+00:14:09,070 --> 00:14:12,330
+Dès qu'il va rencontrer un vaisseau on
+
+264
+00:14:12,330 --> 00:14:14,190
+va avoir une information.
+
+265
+00:14:14,610 --> 00:14:16,010
+Il peut s'agir d'une artère comme
+
+266
+00:14:16,010 --> 00:14:17,530
+d'une veine.
+
+267
+00:14:18,830 --> 00:14:23,570
+Le Doppler pulsé est très utilisé en pratique
+
+268
+00:14:23,570 --> 00:14:23,910
+courante.
+
+269
+00:14:25,130 --> 00:14:28,890
+Il utilise une seule sonde qui est à
+
+270
+00:14:28,890 --> 00:14:31,970
+la fois émettrice et réceptrice de façon alternative.
+
+271
+00:14:33,010 --> 00:14:35,130
+Il y a le temps d'émission et
+
+272
+00:14:35,130 --> 00:14:36,210
+le temps d'écoute.
+
+273
+00:14:36,910 --> 00:14:40,190
+Le délai entre deux impulsions détermine la fréquence
+
+274
+00:14:40,190 --> 00:14:42,990
+de répétition ou le Pulse Repetition Frequency.
+
+275
+00:14:44,990 --> 00:14:47,950
+Sur le schéma, on voit le vaisseau.
+
+276
+00:14:48,230 --> 00:14:52,190
+On voit la ligne de tir avec la
+
+277
+00:14:52,190 --> 00:14:54,870
+porte et l'axe de l'angle Doppler
+
+278
+00:14:54,870 --> 00:14:57,450
+par rapport à l'axe du vaisseau.
+
+279
+00:14:58,150 --> 00:15:02,930
+Vous voyez le spectre que nous allons obtenir
+
+280
+00:15:02,930 --> 00:15:04,470
+suite à cet examen.
+
+281
+00:15:04,470 --> 00:15:09,490
+Sur l'axe horizontal qui est représenté par
+
+282
+00:15:09,490 --> 00:15:11,850
+le temps et l'axe vertical qui est
+
+283
+00:15:11,850 --> 00:15:14,850
+représenté par l'échelle de fréquence ou de
+
+284
+00:15:14,850 --> 00:15:15,270
+vitesse.
+
+285
+00:15:17,320 --> 00:15:20,480
+Les avantages du Doppler pulsé c'est que
+
+286
+00:15:20,480 --> 00:15:22,060
+c'est un examen qui peut être couplé
+
+287
+00:15:22,060 --> 00:15:24,720
+à l'imagerie en mode B qui va
+
+288
+00:15:24,720 --> 00:15:28,220
+permettre de localiser le signal en profondeur et
+
+289
+00:15:28,220 --> 00:15:31,940
+de sélectionner les vaisseaux à enregistrer permettant ainsi
+
+290
+00:15:31,940 --> 00:15:34,600
+le calcul des vitesses et de débit.
+
+291
+00:15:35,280 --> 00:15:37,360
+Son principal inconvénient c'est qu'il a
+
+292
+00:15:37,360 --> 00:15:39,380
+une faible sensibilité au flux lent.
+
+293
+00:15:41,760 --> 00:15:44,320
+La sémiologie du signal Doppler pulsé peut être
+
+294
+00:15:44,320 --> 00:15:47,460
+de deux types sous forme d'un signal
+
+295
+00:15:47,460 --> 00:15:50,200
+auditif ou d'un signal spectral.
+
+296
+00:15:52,900 --> 00:15:55,780
+Pour l'analyse spectrale, la variation du signal
+
+297
+00:15:55,780 --> 00:15:59,540
+Doppler constitue l'ensemble des globules rouges circulant
+
+298
+00:15:59,540 --> 00:16:01,680
+à l'intérieur du vaisseau.
+
+299
+00:16:03,860 --> 00:16:06,440
+L'analyse du spectre du Doppler pulsé va
+
+300
+00:16:06,440 --> 00:16:10,020
+permettre de définir deux types d'artères, les
+
+301
+00:16:10,020 --> 00:16:14,080
+artères viscérales ou les artères des organes nobles
+
+302
+00:16:14,080 --> 00:16:16,900
+notamment le cerveau, le foie et le rein
+
+303
+00:16:16,900 --> 00:16:20,780
+qui ont une fréquence de basse résistance mais
+
+304
+00:16:20,780 --> 00:16:23,320
+également les artères de membre qui sont des
+
+305
+00:16:23,320 --> 00:16:25,500
+artères de haute résistance.
+
+306
+00:16:26,900 --> 00:16:29,600
+Pour les artères de membre donc les artères
+
+307
+00:16:29,600 --> 00:16:32,200
+de haute résistance elles ont un tracé qui
+
+308
+00:16:32,200 --> 00:16:37,080
+est typiquement triphasique ou biphasique avec comme vous
+
+309
+00:16:37,080 --> 00:16:39,940
+voyez sur le spectre un pic systolique qui
+
+310
+00:16:39,940 --> 00:16:44,060
+est ample bien découpé avec une pente ascendante
+
+311
+00:16:44,060 --> 00:16:47,040
+du pic systolique qui est pratiquement verticale.
+
+312
+00:16:47,200 --> 00:16:49,580
+Un reflux en début de diastole qui est
+
+313
+00:16:49,580 --> 00:16:52,840
+généralement suivi d'un rebond puis une vitesse
+
+314
+00:16:52,840 --> 00:16:55,440
+nulle pendant le reste de la diastole.
+
+315
+00:16:57,580 --> 00:17:00,080
+Pour les artères de basse résistance, il s
+
+316
+00:17:00,080 --> 00:17:03,099
+'agit d'un tracé biphasique avec un pic
+
+317
+00:17:03,099 --> 00:17:07,020
+systolique et une vitesse positive pendant la diastole.
+
+318
+00:17:10,079 --> 00:17:12,060
+Le mode duplex, c'est un mode qui
+
+319
+00:17:12,060 --> 00:17:14,440
+correspond au couplage en temps réel de l
+
+320
+00:17:14,440 --> 00:17:17,240
+'échographie en mode B et du mode Doppler
+
+321
+00:17:17,240 --> 00:17:17,800
+pulsé.
+
+322
+00:17:19,119 --> 00:17:21,500
+Le mode triplex, c'est une acquisition en
+
+323
+00:17:21,500 --> 00:17:23,380
+temps réel d'une image en mode B
+
+324
+00:17:23,380 --> 00:17:27,099
+en mode Doppler couleur avec un enregistrement Doppler
+
+325
+00:17:27,099 --> 00:17:27,660
+pulsé.
+
+326
+00:17:30,400 --> 00:17:32,940
+Pour les flux veineux ils sont plus ou
+
+327
+00:17:32,940 --> 00:17:36,580
+moins continus modulés par les mouvements respiratoires et
+
+328
+00:17:36,580 --> 00:17:39,540
+pour les contractions de l'oreillette droite comme
+
+329
+00:17:39,540 --> 00:17:41,000
+vous voyez sur l'image.
+
+330
+00:17:45,390 --> 00:17:47,510
+On arrive au Doppler couleur, c'est un
+
+331
+00:17:47,510 --> 00:17:50,990
+codage couleur du flux, soit en bleu soit
+
+332
+00:17:50,990 --> 00:17:51,650
+en rouge.
+
+333
+00:17:52,530 --> 00:17:54,910
+Il ne s'agit pas bien sûr de
+
+334
+00:17:54,910 --> 00:17:57,470
+l'artère ou de la veine mais il
+
+335
+00:17:57,470 --> 00:17:59,610
+s'agit plutôt du sens du flux.
+
+336
+00:18:00,850 --> 00:18:03,390
+Donc communément, tout ce qui est rouge c
+
+337
+00:18:03,390 --> 00:18:05,110
+'est le flux qui se rapproche de la
+
+338
+00:18:05,110 --> 00:18:05,410
+centre.
+
+339
+00:18:05,410 --> 00:18:07,930
+Tout ce qui est bleu, ce sont les
+
+340
+00:18:07,930 --> 00:18:09,830
+flux qui s'éloignent de la centre.
+
+341
+00:18:10,810 --> 00:18:14,070
+Le Doppler couleur permet de reconnaître le sens
+
+342
+00:18:14,070 --> 00:18:16,910
+du flux et permet aussi de connaître les
+
+343
+00:18:16,910 --> 00:18:19,550
+vitesses mais avec un calcul qui est semi
+
+344
+00:18:19,550 --> 00:18:23,230
+-quantitatif dépendant de la couleur, est-ce qu
+
+345
+00:18:23,230 --> 00:18:24,490
+'elle est foncée ou est-ce qu'elle
+
+346
+00:18:24,490 --> 00:18:25,490
+est plutôt claire.
+
+347
+00:18:26,410 --> 00:18:28,410
+L'intérêt de ce mode, c'est essentiellement
+
+348
+00:18:28,410 --> 00:18:31,930
+de repérer les vaisseaux dans les zones anatomiques
+
+349
+00:18:31,930 --> 00:18:32,770
+les plus complexes.
+
+350
+00:18:33,770 --> 00:18:37,890
+Vous voyez ici les vaisseaux iliaques examinés en
+
+351
+00:18:37,890 --> 00:18:41,490
+Doppler couleur et vous voyez que quand l
+
+352
+00:18:41,490 --> 00:18:44,350
+'artère est codée en rouge la veine est
+
+353
+00:18:44,350 --> 00:18:47,090
+codée en bleu parce qu'ils ont un
+
+354
+00:18:47,090 --> 00:18:47,910
+sens inverse.
+
+355
+00:18:49,490 --> 00:18:53,670
+Le Doppler puissance ou Doppler énergie le codage
+
+356
+00:18:53,670 --> 00:18:56,190
+se fait par l'intensité du signal et
+
+357
+00:18:56,190 --> 00:18:57,490
+non pas par la fréquence.
+
+358
+00:18:58,190 --> 00:18:59,850
+Il ne dépend pas de la vitesse des
+
+359
+00:18:59,850 --> 00:19:02,490
+globules rouges et donc il est peu sensible
+
+360
+00:19:02,490 --> 00:19:03,130
+au flux.
+
+361
+00:19:03,670 --> 00:19:05,330
+Il ne dépend pas de leur vitesse mais
+
+362
+00:19:05,330 --> 00:19:07,270
+il dépend plutôt de leur nombre et de
+
+363
+00:19:07,270 --> 00:19:08,010
+leur énergie.
+
+364
+00:19:09,230 --> 00:19:11,590
+Dans le Doppler puissance, le codage se fait
+
+365
+00:19:11,590 --> 00:19:13,050
+plutôt en jaune orange.
+
+366
+00:19:13,930 --> 00:19:16,550
+L'intérêt, c'est l'approche morphologique des
+
+367
+00:19:16,550 --> 00:19:20,310
+vaisseaux et la détection de la vascularisation tissulaire
+
+368
+00:19:20,310 --> 00:19:21,250
+et tumorale.
+
+369
+00:19:22,510 --> 00:19:24,930
+Les avantages du Doppler énergie c'est qu
+
+370
+00:19:24,930 --> 00:19:27,710
+'il est complètement indépendant de l'angle et
+
+371
+00:19:27,710 --> 00:19:30,090
+donc il a une meilleure sensibilité au flux
+
+372
+00:19:30,090 --> 00:19:33,550
+lent avec une amélioration de la visualisation des
+
+373
+00:19:33,550 --> 00:19:36,510
+petits vaisseaux intra-parenchimateux.
+
+374
+00:19:36,930 --> 00:19:40,170
+Par contre, ses limites sont la mauvaise résolution
+
+375
+00:19:40,170 --> 00:19:43,970
+temporelle, sa sensibilité au mouvement, même s'il
+
+376
+00:19:43,970 --> 00:19:46,150
+ne s'agit pas forcément de flux sanguin
+
+377
+00:19:46,150 --> 00:19:49,250
+et ne donne aucune information ni sur le
+
+378
+00:19:49,250 --> 00:19:52,310
+sens du flux ni sur les vitesses circulatoires.
+
+379
+00:19:53,450 --> 00:19:56,330
+Nous passons pour voir les principales indications de
+
+380
+00:19:56,330 --> 00:19:59,890
+l'échodoppler, que ça soit en pathologie artérielle,
+
+381
+00:20:00,090 --> 00:20:02,870
+notamment à la recherche de sténose, de plaque
+
+382
+00:20:02,870 --> 00:20:05,890
+d'athérome ou d'anévrisme qui constituent les
+
+383
+00:20:05,890 --> 00:20:07,150
+dilatations vasculaires.
+
+384
+00:20:08,730 --> 00:20:11,730
+Le Doppler est également utilisé en pathologie veineuse
+
+385
+00:20:11,730 --> 00:20:14,190
+à la recherche de thrombose veineuse ou de
+
+386
+00:20:14,190 --> 00:20:17,730
+varice qui constituent une dilatation des structures veineuses.
+
+387
+00:20:19,780 --> 00:20:23,380
+Voici un exemple d'une échographie de l
+
+388
+00:20:23,380 --> 00:20:27,280
+'artère fémorale commune, où vous voyez donc un
+
+389
+00:20:27,280 --> 00:20:32,540
+épaississement avec une plaque d'athérome réduisant partiellement
+
+390
+00:20:32,540 --> 00:20:33,800
+la lumière du vaisseau.
+
+391
+00:20:34,940 --> 00:20:39,960
+Un autre exemple d'une plaque calcifiée responsable
+
+392
+00:20:39,960 --> 00:20:43,580
+d'une importante réduction de la lumière vasculaire
+
+393
+00:20:43,580 --> 00:20:46,500
+avec des turbulences en regard de la zone
+
+394
+00:20:46,500 --> 00:20:47,240
+de sténose.
+
+395
+00:20:47,920 --> 00:20:51,440
+Nous avons un exemple d'anévrisme thrombosé de
+
+396
+00:20:51,440 --> 00:20:53,060
+la horte abdominale.
+
+397
+00:20:54,420 --> 00:20:56,700
+D'autres exemples ici avec une plaque d
+
+398
+00:20:56,700 --> 00:20:59,200
+'athérome sur une artère fémorale mais avec un
+
+399
+00:20:59,200 --> 00:21:01,260
+flux qui reste respecté.
+
+400
+00:21:02,280 --> 00:21:04,640
+En bas vous voyez une thrombose complète de
+
+401
+00:21:04,640 --> 00:21:09,140
+l'artère fémorale et ici vous voyez une
+
+402
+00:21:09,140 --> 00:21:12,500
+sténose de l'artère fémorale avec démodulation du
+
+403
+00:21:12,500 --> 00:21:13,440
+flux en aval.
+
+404
+00:21:16,340 --> 00:21:18,710
+Le Doppler donc est un examen qui est
+
+405
+00:21:18,710 --> 00:21:20,830
+très utilisé en pratique courante.
+
+406
+00:21:21,450 --> 00:21:25,490
+Le mode pulsé est le meilleur permettant d
+
+407
+00:21:25,490 --> 00:21:28,490
+'étudier et de calculer les vitesses circulatoires à
+
+408
+00:21:28,490 --> 00:21:29,530
+l'intérieur des vaisseaux.

@@ -1,0 +1,165 @@
+Bonjour, donc aujourd'hui on va démarrer le cours de biophysique des études de première année médicale. On va faire une revue du programme de ce semestre. Donc, le programme de biophysique.
+
+D'abord, on va entamer les biophysiques des rayonnements, qui va intéresser les rappels élémentaires des rayonnements ionisants, et les transformations radioactives, la cinétique des transformations radioactives, les interactions des rayonnements ionisants avec la matière, les détecteurs des rayonnements ionisants, la radioprotection et les effets biologiques des rayonnements ionisants, et puis l'hygiène et la protection dans l'emploi des rayonnements ionisants. Et on va finir ce cours des rayonnements par l'application médicale des rayonnements ionisants, notamment en médecine nucléaire. Après, il y a une partie de la biophysique sensorielle.
+
+Donc, on va voir la biophysique de la vision, les amyotropies, les troubles de vision, notamment l'amyopie, l'hypermétropie, l'astigmatisme et autres. Et puis la biophysique de l'audition. Une troisième partie concerne la biophysique du milieu intérieur de l'organisme.
+
+Cette partie intéresse la biophysique de la circulation sanguine et de la respiration, la biophysique de l'équilibre acido-basique, donc les régulations physico-chimiques des différentes variations de l'équilibre acido-basique au sein de l'organisme, l'activité électrique du cœur, donc l'électrophysiologie de la cellule myocardique. Et à la fin, on va voir les déplacements libres de la matière, notamment les phénomènes d'osmose et les solutions. Puis on va achever ce programme de biophysique par les bases physiques de l'imagerie médicale que nos collègues radiologues vont effectuer.
+
+Pour la biophysique des rayonnements ionisants, on va avoir des rappels sur la structure de l'atome, puisque c'est l'atome qui est à l'origine de ces rayonnements ionisants. Et puis la structure et les familles nucléaires, la stabilité et les instabilités des noyaux, et les émissions des rayonnements ionisants, puis les unités en physique quantique, et les défauts de masse et l'énergie de liaison. Donc l'objectif de ce cours, c'est de connaître les différentes constituants de l'atome, de différencier entre les noyaux, de l'atome moyen-stable et instable, utiliser les atomes dans le tableau périodique des éléments, et définir la notion d'isotope, isobar et isotope.
+
+Donc, ce premier diapo sur les rayonnements, je le mets exprès pour, déjà pour montrer le rôle de ces savants qui sont devant nous, dans la révolution de la médecine, notamment en imagerie médicale et en radiologie, et bien sûr les autres sciences, telles que les maths, les physiques, la chimie. Donc ici, c'est un groupe, ou c'est le groupe des savants, qui sont groupés dans les conférences de surveil, donc congrès, à Bruxelles, au Belgique. Donc je vais citer, par exemple, ceux qui sont assis, donc le premier c'est Walt Nernst, et donc c'est lui qui a le prix Nobel sur la physico-chimie, et puis il y a Ernst Solvay, c'est lui qui a organisé ces conférences.
+
+Il y a également, on voit donc, Mme Marie Curie, c'est la sondame, d'ailleurs, qui est dans ce groupe de savants, donc depuis 1911, et à côté il y a M. Henri Poincaré, le mathématicien français, et bien sûr c'est l'encadrant de Mme Marie Curie. Ceux qui sont debout, de gauche à droite, on va voir la deuxième personnalité, par exemple M. Max Planck, qui a découvert la constante de Planck, puis on va voir également M. Schumerfeld, qui a découvert la configuration de la tombe stellaire, et puis il y a Ernst Rutherford, donc le quatrième des derniers, et c'est lui qui a découvert la manière de la tombe, puis on va voir, à un moment donné, c'est M. Albert Einstein, et puis on va voir qu'il y a un Français répété par sa recherche dans la zone électromagnétique. Donc ça, c'était déjà des congrès, ou des conférences de 1911, qui ont révolutionné la physique quantique, et c'est eux qui ont adhérit pour la physique récente, ou la physique moderne.
+
+Donc, pour démarrer, d'abord la structure de la matière. La matière est composée par plusieurs molécules. Ces molécules sont constituées par des atomes, et sont liées par des liaisons de covalence.
+
+Il y a trois états de la matière, soit l'état solide, ou l'état liquide ou gazeuse, qui constituent la matière. Normalement, la matière vivante est composée par un nombre limité d'atomes. D'ailleurs, on peut citer l'atome d'oxygène, d'hydrogène, pour la molécule d'eau.
+
+Il y a également l'atome de carbone et d'azote pour les molécules durées. Donc, les différentes configurations et les différentes liaisons vont dicter la structure des molécules qui constituent l'organisme vivant. D'accord.
+
+Donc, le premier savant qui a travaillé sur l'atome, dans la physique moderne ou la physique quantique, c'est M. Thomson, l'anglais qui a découvert l'électron. D'ailleurs, on parle de l'électron de Thomson, et qui lui a donné son nom. Il imagine alors que l'atome, c'est comme un cake.
+
+Un cake au raisin, où les électrons négatifs sont éparpillés dans une matière positive afin de neutraliser l'atome. Donc, c'était une première théorie de l'atome. Et bien sûr, l'atome était invisible, surtout avant cette ère de Thomson.
+
+Mais actuellement, dans la physique moderne, on peut visualiser l'atome grâce au microscope électronique en transmission. Donc, vous voyez, c'est la plus petite partie d'un corps simple qui peut se combiner chimiquement avec un autre. Il est de l'ordre de l'ingström, ingström c'est 10 à la puissance de moins de 10 mètres, ou de fermion, pour le noyau.
+
+Donc, la structure de l'atome, il y a plusieurs modèles, mais le modèle qu'on se propose, c'est l'atome à orbiter d'abord elliptique par Sumerfield, en 1911. Donc, c'est des cortèges elliptiques. Et vous constatez qu'au début, il n'y a pas de noyau.
+
+On n'a que des électrons qui tournent en modèle du système solaire elliptique. Et qui ont des valeurs quantifiées. Donc, c'est Monsieur Scharfeld.
+
+Après, il est venu Monsieur Bohr, c'est un danois. Et c'est lui qui a proposé le schéma des orbites circulaires des électrons. Et il a également mentionné l'émission d'un photon lors du passage d'une orbite à une autre.
+
+Donc, c'est lui qui a posé la théorie de la quantification de l'énergie d'électrons en fonction du niveau ou de la couche atomique. Donc, Monsieur Bohr, en 1913, avait proposé ce modèle d'orbite circulaire. Que nous allons adopter comme schéma simplifié.
+
+Les électrons gravitent sur des orbites dont les rayons ont des valeurs quantifiées. Après, c'est Monsieur Ernest Rutherford. Il a mis en évidence le noyau de l'atome.
+
+Il a parlé également des particules alpha et beta. Il postule une représentation lacunaire de la matière où les électrons sont satellisés autour du noyau chargé positivement. C'est la première découverte du noyau de l'atome.
+
+C'était en 1907, à Montchester. Le noyau est au milieu de l'atome. La représentation planétaire de l'atome c'est des électrons.
+
+Le cas ici, c'est l'atome d'hydrogène qui fait une rotation circulaire autour du noyau. Et donc, l'atome est constitué à la fois par des noyaux et par des électrons. Les noyaux contiennent des protons et des neutrons alors que les électrons sont chargés négativement et gravitent autour du noyau.
+
+La structure de l'atome, c'est ça. Le nombre d'électrons de l'atome varie suivant l'élément considéré. Le numéro atomique de l'élément qui correspond à sa classification, c'est le nombre d'électrons qui est égal au nombre de protons.
+
+Cela représente l'atome d'hydrogène, d'oxygène, de carbone et de l'azote. Il y a cette formule de nombre d'électrons sur chaque orbite. Il est de 2 à la puissance n² soit n, le nombre de la couche électronique.
+
+On constate que le nombre d'électrons diffère d'un atome à un autre et qui donne la structure chimique de l'atome. Ici, il y a des valeurs telles que le diamètre de l'atome est de 10 à la puissance de moins 10 mètres soit, on parle de Lindstrom, le diamètre du noyau est de 10 à la puissance de moins 15 mètres, donc c'est le Fermi. Et le rapport du diamètre de l'atome sur le diamètre du noyau, vous voyez qu'il est de 10 à la puissance 5 fois.
+
+L'atome règne un vide. Vous voyez qu'entre le noyau et le premier électron, il est de 10 à la puissance 5 fois. Si le noyau était à une orange de 3 cm de rayon, alors l'atome aurait un rayon de 3 km.
+
+Pour la masse de l'électron au repos, il est de 9 fois 10 moins 31 kg ou 0.9 fois 10 moins 27 grammes. Et on va voir que l'électron est 1800 fois plus faible que la masse du nucléon. La charge de l'électron est égale à moins 1,6 fois 10 moins 19 coulants, égale moins la charge du proton.
+
+Donc l'atome, c'est un édifice électriquement neutre, dont le nombre d'électrons égale le nombre de protons. Et la masse de l'atome est à peu près concentrée dans la masse du noyau. Pour les niveaux d'énergie atomique, on a dit qu'aux différentes raisons d'origine d'orbite, elles correspondent à différentes énergies.
+
+Donc l'énergie totale d'électrons sur l'orbite, elle diffère en fonction de sa position au niveau de chaque orbite. L'énergie est négative de ces électrons, donc il faut fournir de l'énergie à l'électron pour l'arracher du champ du noyau. Donc ça c'est le modèle de Bohr pour l'atome qu'on a dit qui est sous forme d'orbite circulaire.
+
+Et la disposition des électrons, ils sont en fonction du niveau de chaque orbite. Donc le niveau d'énergie est une quantité utilisée pour décrire les systèmes en mécanique quantique de l'atome. Par exemple, ici la couche K est n égale à 1, la couche L n égale à 2, M n égale à 3, et R n c'est le rayon de l'orbite du rang n. Z c'est le numéro atomique.
+
+La masse de l'électron est de 9 x 10-31 kg, et la charge est de 1,6 x 10-19 coulombs. Donc cette formule qui montre les niveaux ou l'énergie de l'électron au sein de sa position au milieu de la couche, je ne vous demande pas d'apprendre par cœur, mais de comprendre c'est que l'énergie de l'électron est inversement proportionnelle de sur n au carré, n on a dit c'est le niveau d'énergie ou c'est le nombre de la couche, plus elle est profonde, plus l'énergie est très importante. Donc le niveau d'énergie de chaque couche est une notion primordiale dans la physique quantique des atomes.
+
+Par exemple ici, l'atome d'hydrogène, plus on est profond, il faut par exemple ici n égale à 1, donc il faut une énergie de 13,6 électrovolts pour arracher l'électron de la couche n égale à 1. Ce schéma-là montre également les niveaux d'énergie, la signification au milieu du rayonnement médical. Ici le schéma, le premier atome, on a un état fondamental, c'est à dire qu'il n'y a pas d'émission de rayonnement. Lorsqu'un rayon photon vient déplacer un électron à un niveau plus externe, on parle d'un état excité.
+
+L'atome qui est excité va se dés-exciter et il va libérer un photon qui est équivalent au photon initial. Donc il y a un retour à l'état fondamental. Les niveaux d'énergie atomique peuvent être à l'état fondamental, à l'état excité ou à l'état fondamental.
+
+La représentation pour le noyau. Le noyau représente le symbole chimique d'un élément X appelé nucléide. Exemple ici, l'aluminium, le noyau d'aluminium, qui contient 27, c'est le nombre de masses, c'est à dire le nombre de nucléons égale le nombre de neutrons plus le nombre de protons, et le Z c'est le nombre de protons qui est égal au nombre d'électrons.
+
+Le noyau d'un élément chimique est appelé nucléide ou nuclide. On utilise la représentation suivante X, A, Z. A c'est le nombre de masses, Z c'est le nombre atomique et N c'est le nombre de neutrons. Exemple pour l'hydrogène, le nombre de neutrons égale à 1 et le nombre de protons égale à 1. Ici ce tableau montre un peu la différence ou la comparaison entre le neutron et le proton.
+
+Le neutron c'est le grand nombre N, c'est le nombre de neutrons. La masse du neutron égale 1 6 fois 10 moins 27 kg. La masse du neutron égale à peu près la masse du proton, sa charge est nulle.
+
+Et le grand N c'est le nombre de neutrons égale le nombre de masses à moins le nombre de protons. La masse du noyau c'est la masse de l'atome si l'on considère que la masse de l'électron égale à 0. Pour le proton, la masse du proton est à peu près la même que la masse du neutron, il est de 1,6 fois 10 moins 27 kg avec P est le noyau de l'atome d'hydrogène, donc le proton. La masse du proton est 1836 fois plus grande que la masse de l'électron.
+
+La charge élémentaire est positive soit égale à 1,6 fois 10 moins 19 coulombs. Le nombre total de ces nucléons égale à A. Et j'ai dit que le nombre de masses c'est le nombre de protons plus le nombre de neutrons. La masse du proton est 1836 fois, on a dit que c'est presque la même que le neutron.
+
+Donc 1836 fois la masse de l'électron. Ici ce schéma, il va nous montrer que la matière est à l'échelle atomique. Il reine un vide.
+
+Donc la taille entre l'atome et l'électron le plus proche du noyau est le noyau. Il est de 10 à la puissance 5. Donc la quasi-totalité de la masse d'un atome est concentrée dans le noyau. Et on peut comparer la masse du volume d'un centimètre cube.
+
+Donc vous voyez ici le schéma, c'est un dé à coudre rempli d'atomes de fer. Et on peut le remplir par que des noyaux de fer. Donc la masse du dé à coudre est de 1 centimètre cube.
+
+Et qui peut être remplie par 7,8 grammes d'atomes de fer. Donc il faut faire attention, on va différencier entre l'atome et le noyau. Si on place les noyaux de fer à l'intérieur.
+
+Alors on peut mettre 2 fois 10 à la puissance 14 grammes. Soit 200 millions de tonnes de noyaux de fer dans un dé à coudre. Donc ceci dit que la structure de l'atome, il y a du vide.
+
+Si on ne place que les noyaux, c'est ce qui se passe dans l'univers. Par exemple au soleil, il y a une fusion des noyaux. Des noyaux à neutrons.
+
+Donc la matière est très condensée. Et donc il y a une pression très importante. Et une température très importante au niveau du soleil.
+
+Donc c'est cet exemple qui va nous montrer un peu la différence entre la vie sur Terre et la vie dans les étoiles. Donc des exemples des noyaux qu'on utilise. Par exemple il y a 131.
+
+53 on l'utilise dans la radio isotope. Donc 53 protons et 78 neutrons. Le technétium 99M est 43, donc 99M.
+
+C'est à dire qu'il est métastable. Le carbone 12, 6 protons et 6 neutrons. Pour les particules élémentaires, un neutron peut contenir N10.
+
+Le proton c'est P11. L'électron c'est E0. Pour les niveaux d'énergie également, au niveau du noyau.
+
+On peut avoir comme l'atome, il y a l'état fondamental du noyau. Il y a l'état excité. Et il y a l'état métastable.
+
+Par exemple, le molybdenum 9942, on va dire qu'il n'est pas stable. Il va donner du technétium métastable 99M. Donc métastable ça veut dire qu'il a une durée de vie de plusieurs minutes.
+
+Et puis il y a l'état excité, c'est lorsque la durée de vie est de quelques nanosecondes. Donc ici par exemple le technétium 99M a une durée de vie de 6 ans. Les différents groupes de radio-éléments.
+
+On peut donc déchiffrer 4 groupes de radio-éléments. Il y a les isotopes, les isobars, les isotones et les isomers. Pour les isotopes ce sont des nucléides d'un élément chimique qui ont les mêmes propriétés chimiques.
+
+Ça veut dire un Z constant. Donc le Z est constant, le nombre de protons. Mais le nombre de masses A est différent.
+
+Donc N est différent. Par exemple, il y a les isotopes du noyau d'hydrogène. Il y a le deutrium, il y a l'hydrogène et le tritium.
+
+Donc c'est les plus petits atomes de l'univers. Et il y a les isotopes les plus gros presque. C'est l'uranium, l'isotope d'uranium.
+
+Donc l'uranium 23492, l'uranium 23592 et l'uranium 23892. Donc il faut vous remarquer qu'ils ont le même nombre Z qui est égal à 92. Les isobars, c'est lorsque des noyaux ont un nombre de masse A qui est constant, alors que le nombre Z de protons est différent.
+
+Donc on va voir après les transformations isobariques avec une conservation du nombre de masse A. L'exemple c'est le carbone 14, 6 et l'azote 14, 7. Donc ils ont le même nombre de masse A. Ici ce tableau montre quelques isobars qui ont le A, le M, le Th, le P, le N et le V. Mais d'autres radio-éléments qui sont isobars. Les isomers ce sont des noyaux identiques mais du niveau d'énergie différent. Donc exemple on a vu le technétium 99M qui va donner le technétium 99 qui est stable.
+
+Déjà le technétium 99M c'est un noyau qui est métastable, c'est à dire qu'il a une durée de vie qui est petite, de l'ordre de 6 ans. Et le technétium métastable va se transformer en transition isomérique en donnant un rayon moins gamma de 141 kV. Donc ça c'est la réaction qui se tient, la réaction nucléaire du technétium métastable en technétium stable.
+
+Les isotones ont un nombre de neutrons identique et un Z, c'est à dire un nombre de protons qui sont différents. Donc le tableau nous montre des isotones, on parle de N. Ce schéma là il résume un peu. Les isobars qui barrent la lettre A à la fin du terme, ça veut dire qu'ils ont le même A. Les isotones ont le même nombre de neutrons et les isotopes ont le même nombre de protons donc de Z. La dualité entre corpuscules, il y a toujours cette dualité, ça veut dire que l'onde, une énergie électromagnétique, peut donner de la matière, d'ailleurs on va le voir dans la transformation des réactions nucléaires.
+
+Et ceci dit que monsieur Einstein, il a déposé qu'une onde électromagnétique a une énergie E qui est en fonction de la constante de Planck-H qui est 6,34 Joules secondes fois la fréquence du rayonnement. Et il peut être E égale H mu ou HC sur lambda. Les rayonnements électromagnétiques, ce sont des rayonnements qui ont à la fois un champ magnétique et un champ nucléaire.
+
+Ils sont caractérisés par leur énergie. Les rayonnements ionisants ont une énergie très élevée donc ils peuvent ioniser la matière vivante d'où leur danger et leur activité médicale. Ce schéma-là montre les différentes gammes de rayonnements.
+
+Il y a les rayonnements cosmiques, les rayonnements gamma, la radioactivité naturelle, les rayonnements X qui sont ionisants donc très élevés. Vous voyez que la lumière visible a une énergie très faible, et puis il y a les autres rayonnements, les ondes radio, les micro-ondes qui ont des énergies plus faibles. Ce schéma montre un peu les différentes utilités de ces rayonnements ionisants.
+
+Sur la photo au milieu, c'est une scintigraphe qui utilise des rayonnements gamma pour visualiser le squelette d'un patient. C'est ce qu'on appelle la scintigraphe. Cette deuxième photographie, c'est la radiographie du poumon.
+
+Il utilise des rayonnements X. L'autre, en haut à droite, représente l'échographie. C'est par les ultrasons qu'il y a du signal physique. Et puis il y a l'IRM, l'imagerie par résonance magnétique nucléaire, par le signal distinct du noyau d'hydrogène.
+
+Et puis les rayonnements de la lumière visible, on peut les appliquer dans tout ce qui est sang de gastrique, donc c'est des fibres optiques. Quelques grandeurs et mesures à l'échelle atomique. Pour l'organisme, on peut utiliser l'échelle du mètre, du système MKSA, donc mètre, kilogramme, seconde et ampère.
+
+Pour les organes, on utilise les dimensions de distance centimètre, qui est de 10 moins 2 mètres. Pour les molécules, c'est de 10 moins 6 mètres, ça veut dire que c'est le micron. Pour l'atome, on a vu que c'est l'extrême 10 moins 10 mètres.
+
+Et pour le noyau, c'est le fermion, ou le fermier, 10 moins 15 mètres. Pour l'énergie, il y a le joule pour le système MKSA. Et pour le système CGS, c'est l'ERC et l'électrovolte pour la physique quantique.
+
+Un électrovolte égale 1,6 fois 10 moins 19 joules. D'ailleurs, un électrovolte, c'est la force, ou c'est l'énergie, la force de travail ou l'énergie, que fait un électron pour se déplacer dans un champ de différence de potentiel de 1 V. Deux points de vue pour les masses. Il y a le kilogramme pour l'organisme.
+
+Pour les organes, il y a le gramme. Et dans la physique quantique, on a l'unité de masse atomique. Alors, c'est quoi l'unité de masse atomique ? L'unité de masse atomique est définie depuis les années 60.
+
+C'est le douzième de la masse de l'atome. Donc, il faut faire attention, c'est la masse de l'atome du carbone 12. Le carbone 12, il est stable.
+
+Et donc, c'est le douzième de cet atome. Et puisque le carbone 12 contient 12 protons, donc une molle de carbone 12 d'atome, c'est N atomes. N, c'est le nombre d'avogadro.
+
+Et donc, le carbone 12, il a pour masse mollaire 12 grammes, c'est-à-dire la masse d'un atome. On fait la règle de 3 et on va avoir que l'unité de masse atomique, c'est le douzième, c'est 1 sur 12 fois 12. Donc, c'est 1 sur N. N, on a dit, c'est le nombre d'avogadro.
+
+Donc, c'est 1 sur 6,023 fois 10 moins 23 fois 10 puissance 23. Ce qui va nous donner 1,6 fois 10 moins 24 grammes. Et donc, c'est la masse de l'unité de masse atomique, égale 1,6 fois 10 moins 27 kilogrammes.
+
+Le défaut de masse est l'énergie de liaison. Donc, si on sépare les constituants du noyau, c'est-à-dire les protons et les neutrons, on va voir que leur masse est plus lourde que le noyau qui est uni. Et donc, la différence entre ces deux éléments, c'est ce qu'on appelle le défaut de masse ou l'énergie de liaison du noyau.
+
+C'est un exemple. Le noyau d'hélium, deux protons plus deux neutrons. Leur unité de masse atomique est de 4,03. 
+
+Elle est supérieure que la masse du noyau qui est de 4,003. Le tableau de Mendeleïev, c'est un Russe, qui est établi en 1869. Il construit l'ensemble des constituants qui se trouvent sur la Terre.
+
+Ainsi, il souligne la périodicité de leurs propriétés chimiques. C'est le premier tableau de Mendeleïev qui classe les différentes constituants du noyau. Le tableau de Mendeleïev, actualisé, représente les états périodiques des éléments à une température de 0°C et une pression d'une atmosphère.
+
+Pour les gaz qui sont marqués en rouge, des numéros en rouge, par exemple, il y a l'oxygène, le fluor, les gaz rares. Pour tout ce qui est en bleu, chiffré en bleu, c'est des liquides. Et ceux en noir, liquides tels que l'hydrogène.
+
+Ceux en noir, c'est des solides tels que le beryllium, le manésium, le calcium. Et ceux qui sont en trait continu, c'est des éléments primordiaux. Ceux en tiré épais, c'est des produits de désintégration d'autres éléments.
+
+Et ceux qui sont en pointillé clair, c'est des éléments synthétiques artificiels. C'est la légende de ces éléments sur le tableau périodique de Medellín. Ce tableau a reconnu de nombreux réajustements depuis l'or jusqu'à la forme que nous connaissons aujourd'hui.
+
+En 2016, sa forme standard comportait 118 éléments allant de l'hydrogène H1 à l'organe S1. J'ai fini ce cours. Je montre également une deuxième fois cette photo de démarrage.
+
+C'est en 1927, après 16 ans. Vous voyez l'état de ces savants qui ont toujours organisé ces conférences de Solvay à Bruxelles, en Belgique. Vous voyez donc Mme Marie Curie qui a vieilli.
+
+Également M. Einstein qui n'est plus jeune. Je vous remercie.

@@ -1,0 +1,145 @@
+Bonjour, donc le cours d'aujourd'hui est intitulé les forces et les grondeurs qui dérivent des forces et les états de la matière à l'intérieur de l'organisme humain. Donc on va voir les définitions sur les forces à l'intérieur de notre organisme, les différents types de pressions et puis les forces interparticulaires et moléculaires et les états de la matière. La force, comme définition, c'est une grondeur vectorielle qui est mesurable.
+
+Il répond à un point d'application où il est appliqué la force, une intensité de cette force et une direction et un sens. Les dimensions de la force, c'est le grand M fois L fois T-2, donc c'est la masse fois l'accélération. L'unité, c'est le newton, l'unité du système international, c'est le kilogramme fois le mètre fois le seconde moins deux.
+
+La photo en dessous montre la force musculaire qui est une intensité au niveau des tendons des muscles. Le point d'application, c'est l'insertion des muscles et donc c'est cette force qui permet le déplacement de tous les segments de notre squelette. Et bien sûr également les muscles respiratoires et autres.
+
+Donc le champ de force, il dérive des forces. Le champ de force, c'est une région de l'espace où s'exerce une force à distance sans liaison matérielle. Donc le cas du champ magnétique ou du champ terrestre, c'est un champ de force.
+
+Donc soit un point A qui exerce une force sur un point B. Le Z est la force qui s'exerce par une unité de quantité. Par exemple, la masse c'est la quantité de matière de la masse. Et le Z c'est la force ou c'est l'accélération de la pesanteur.
+
+Dans les cas particuliers, il y a le champ de pesanteur. Donc la force égale la masse fois l'accélération de pesanteur. Il y a le champ électrique produit par une charge ponctuelle Q telle que la force égale Q fois E. Et il y a le champ électrique produit par un dipôle QQ'.
+
+D'ailleurs le champ électrique E égale E au niveau du point K plus le champ E au niveau du point Q'. Le champ électrique produit par une charge ponctuelle. Lorsque la charge est placée en un point O. Le champ électrique produit par la charge Q en un point P. Et également de direction au P. D'ailleurs O c'est l'origine.
+
+Le sens de ce champ électrique il va du point de l'origine O vers le point P. Lorsque la charge est positive. Inversement, de P vers O si la charge est négative. Donc toujours la charge il est centrifuge lorsqu'il est positif.
+
+L'intensité de ce champ électrique. D'ailleurs on va le voir dans l'électrocardiogramme ou dans le potentiel électrique du coeur. L'intensité E égale la constante K fois la charge Q sur Epsilon fois OP au carré.
+
+OP c'est la distance qui sépare la charge de l'origine. Ou il sépare l'application du champ de l'origine de la charge. Plus elle est grande plus le champ électrique il est petit.
+
+Puisqu'il est au dénominateur. Le champ électrique produit par un dipole donc c'est la somme. Lorsqu'on a un point P avec une charge plus Q produit un champ d'intensité E1.
+
+Un autre point P le même point. Donc lorsqu'il y a une charge moins Q produit par une intensité E2. Le champ produit par les deux charges c'est un dipole.
+
+E égale E1 plus E2. La pression. C'est quoi la pression ? La pression c'est une force qui est répartie sur une surface S. Elle est définie comme étant la force sur la surface.
+
+Les dimensions de la pression sont la masse fois la longueur moins 1 fois le temps à puissance moins 2. L'unité c'est le kilogramme mètre moins 1 seconde moins 2 ou newton mètre carré. Ou on l'appelle également le pascal. Le pascal c'est l'unité du système international de la pression.
+
+Son unité c'est le kilogramme mètre moins 1 seconde moins 2. Et son dimension c'est ML moins 1 T moins 2. Donc il y a des sous-unités pour la pression. Sur le système CGS. Il y a le bari.
+
+Le bari qui est un gramme fois centimètre moins 1 seconde moins 2. Et on va voir que 1 pascal égale 10 bari. Ou 1 bar égale 10 puissance 5 pascal. Donc la pression à l'échelle vasculaire.
+
+On peut utiliser le millimètre de mercure. Pour l'autor qui est la pression qui induit une dénivellation H égale 1 millimètre dans un manomètre à mercure. Et dont la masse volumique est de 13600 kg par mètre cube.
+
+Donc la loi de la statique des fluides. Il va être appliqué pour les fluides. Donc la pression égale la masse volumique fois l'accélération de la pesanteur fois la hauteur.
+
+Et donc 1 millimètre de mercure égale une pression de 10 moins 3 mètre. C'est du millimètre. Fois la masse volumique du mercure qui est 13600 kg mètre moins 3. Fois l'accélération de pesanteur.
+
+Donc qui est égale à 133,4 pascal. Donc il faut retenir que 1 millimètre de mercure égale 133,4 pascal. Ou à peu près les 4 sur 3 fois 10 puissance de pascal.
+
+Une autre unité de la pression. Il est le centimètre d'eau. Le centimètre d'eau est la pression qui induit une dénivellation d'une hauteur de 1 centimètre dans un manomètre à eau.
+
+Dont la masse volumique est de 1000 kg par mètre cube. C'est la masse volumique de l'eau. Donc un centimètre d'eau va être égal à 10 moins 2 mètre fois 10 à puissance 3 kg fois 10 moins 3. Donc c'est la masse volumique de l'eau.
+
+Fois l'accélération de pesanteur. Donc 1 centimètre d'eau égale 98,1 pascal. Donc on peut arrondir pour donner 1 centimètre d'eau qui est égal à 100 pascal.
+
+Et également il faut noter que l'atmosphère et la valeur de la pression atmosphérique normale au niveau de la mer. C'est à dire à une altitude égale à 0, une atmosphère égale 100 kPa. Là ce tableau schématise un peu les unités de pression.
+
+Donc les unités et les sous-unités. L'élasticité et la tension sont deux autres dérivés de la force. D'ailleurs l'élasticité est une caractéristique de la nature du solide et traduit l'aptitude du solide à se déformer.
+
+Également la tension à l'intérieur d'un vaisseau, généralement les artères, c'est la pression qui règne à l'intérieur des artères. Donc la tension ou elle est égale à la force sur la longueur. L'unité de la tension c'est le newton par mètre.
+
+Donc il y a une relation entre les trois paramètres, pression, élasticité et tension. Par une loi qui s'appelle la loi de la place. Cette loi de la place indique que les variations de la pression ou de la tension, Si on considère un cylindre, c'est le cas des artères de gros calibre tels que l'aorte ou l'aorte ascendante ou les artères carotides.
+
+Les variations de pression d'état P égale la tension. 1 sur R1 plus 1 sur R2 tel que R1 c'est le rayon de la sphère interne du cylindre et le R2 c'est la longueur ou le rayon de longueur de ce cylindre. Et donc les variations de la pression, on a dit, c'est une caractéristique de la tension artérielle.
+
+La pression peut varier en fonction de la courbure et de la membrane élastique du vaisseau. D'ailleurs lorsque la membrane est courbée ou cylindrique et qui contient deux rayons R1 et R2, Les variations de pression selon la loi de la place indiquent que delta P égale T fois 1 sur R1 plus 1 sur R2 tel que T c'est la tension et R1 c'est le rayon interne et externe de l'artère ou de la membrane cylindrique. Pour une artère rectiligne R1 égale R et R2 égale l'infini puisque c'est une droite donc le rayon d'une droite égale l'infini.
+
+Et donc si on revient à la loi de la place on a delta P égale T sur R. Quand delta P est très élevé, ça veut dire qu'il devient supérieur à la pression interne et très supérieur à la pression externe, on parle d'un phénomène d'éclatement ou de rupture de l'artère. Quand delta P est très petite, la pression interne est très petite par rapport à la pression externe, c'est un phénomène de collabage ou un phénomène de collapsus que l'on peut voir lors des états de choc en aphylaxis. Pour le cas de membrane sphérique, R1 égale R2 égale R et donc les variations de pression égale 2 fois la tension sur R. C'est le cas du coeur qui a une forme sphérique.
+
+Donc la pression du son est due à la tension de la paroi et s'il existe une dilatation ventriculaire, le rayon du coeur augmente. Donc pour maintenir une pression donnée dans la cavité, il faut que la tension T de la paroi augmente et le muscle cardiaque doit fournir une énergie plus grande pour maintenir la pression constante. Le dernier exemple est le cas des anévrismes et la loi de la place.
+
+Normalement l'anévrisme est formé généralement au niveau du plafond de la crosse de la horte. Pourquoi le plafond de la crosse de la horte est le point le plus vulnérable ou le plus fragile? D'ailleurs selon la loi de la place, on va trouver que pour cette crosse de la horte, on prend R1, c'est le rayon de corpure de l'artère et R2 de la crosse. Et selon la loi de la place, T égale la pression transmurale fois 1 sur R1 plus 1 sur R1 plus R2.
+
+Et T prime c'est la pression transmurale également sur 1 sur R1 plus 1 sur R2 moins R1. Donc la tension T prime est supérieure à T. Et donc il faut retenir tout simplement que le plancher est plus solide que le plafond. Et les anévrismes se forment au niveau du plafond de la crosse de la horte.
+
+Alors les autres types de forces, les forces intermoleculaires. Les forces intermoleculaires sont des forces de nature essentiellement électrostatiques, c'est à dire à l'échelle atomique. Elles induisent ou induisent une attraction ou une répulsion entre les particules chimiques telles que les atomes et les molécules ou les ions.
+
+Donc ces forces sont en général plus faibles que les forces intermoleculaires qui induisent l'association des atomes dans les molécules. Selon ces forces intermoleculaires, on peut avoir trois états de la matière, l'état solide, l'état liquide et l'état gazeux. Et donc c'est le résultat d'une compétition entre les forces d'attraction et de répulsion entre les atomes et les molécules de la matière.
+
+C'est le cas par exemple de l'eau à l'état solide. C'est la glace à l'état liquide, c'est de l'eau liquide et à l'état de vapeur, c'est les nuages. Donc les forces d'attraction entre les ions répondent à la loi de Coulomb qui dit que la force entre deux charges de nature différente égale une constante K fois la charge K fois Q prime sur sigma D au carré.
+
+D c'est la distance entre les ions. Et le epsilon est élevé pour l'eau et il est basse pour l'alcool. Donc cette notion d'attraction et de répulsion entre les électrolytes est schématisée par les différents types d'électrolytes.
+
+Il y a les électrolytes forts qui se dissocient complètement, c'est le cas de NaCl, de HCl. Il y a donc une dissociation complète avec formation d'ions négatives et d'ions positives qui vont circuler dans un circuit pour allumer la lampe. Les électrolytes faibles ne se dissocient que partiellement et donc la lumière émise par la lampe est plus faible que dans le premier cas.
+
+Alors que les non-électrolytes tels que le CH3, CH2, OH, il n'y a pas de dissociation et donc il n'y a pas de courant et par conséquent la lampe n'est pas allumée. Les forces entre molécules, cette fois-ci qui sont neutres, c'est ce qu'on appelle les forces de Van der Waal. C'est des forces dues à l'intégrité ou l'inégalité de répétition des charges électriques dans la molécule.
+
+Donc les molécules se comportent comme un dipôle électrique, l'attraction d'autres dipôles et la force est très faible, égale à K sur R à la puissance 7. A partir des dipôles, on peut citer trois types de dipôles moléculaires. Il y a les dipôles permanentes qui présentent une répartition des charges qui sont continuellement dissymétriques. Cela veut dire qu'il y a une charge négative et une charge positive continuelles en permanence. 
+
+C'est le cas de la molécule d'eau. Les dipôles induits ou déformables. Lorsqu'il est éloigné de toute charge électrique, il n'y a pas de dipôle, mais lorsqu'il est placé dans un champ électrique, la molécule se transforme en dipôle.
+
+C'est le cas de certains protéines. Lorsqu'on va les mettre dans un champ électrique, ils deviennent un dipôle induit ou déformable. Il y a également les dipôles instantanés.
+
+Ces dipôles instantanés sont le cas de l'atome d'hydrogène qui présente un seul électron et qui tourne autour d'un proton de charge E+. Le dipôle a à chaque instant une position bien déterminée en fonction de la rotation de l'électron autour du proton. Lorsque les forces entre ion et dipôle moléculaires, les ions attirent la paroi du dipôle qui porte la charge opposée à la leur et se trouve entouré d'une ou plusieurs molécules polaires.
+
+C'est le phénomène de solvitation. Lorsqu'on met à l'intérieur de l'eau de NaCl, la nature dipolaire de l'eau, de H2O, il va casser cette molécule de NaCl pour attirer le Na plus vers le sens, le Na plus vers le pôle négatif qui est l'oxygène et le H plus vers le Cl-. C'est le phénomène de solvitation.
+
+Les forces d'éloignement entre les molécules sont des forces de répulsion intermoléculaires qui empêchent l'agglomération des molécules et n'interviennent que si les molécules sont très proches l'une de l'autre. D'ailleurs il y a la force d'agitation thermique, c'est la principale cause des forces d'éloignement par le phénomène d'agitation sous la température. C'est un exemple de l'agitation thermique.
+
+Donc les états de la matière en fonction de la pression et de la température, on peut avoir plusieurs types. On a dit que ce sont les trois états de la matière. Il y a d'abord l'état solide.
+
+L'état solide existe à température basse avec faible agitation thermique. Donc la masse volumique est élevée. Et le volume ne varie pas avec la pression.
+
+C'est à dire que le volume solide est incompressible. Donc V varie peu avec θ, la température, et il procède une forme propre. Pour l'état gazeux, il n'a pas de forme propre.
+
+Le volume diminue avec la baisse de la température. Et les états de gaz sont compressibles. C'est à dire que le volume varie avec la pression.
+
+La masse volumique est très basse. Puisque le volume est élevé, la masse est basse. L'état liquide est un état intermédiaire entre le solide et le liquide.
+
+La masse volumique est élevée. Et le volume varie très peu avec la température. Et le volume ne varie pas avec la pression.
+
+Donc il n'y a pas de forme propre pour le liquide. Il prend la forme du récipient qui le contient. Donc les changements d'état de matière.
+
+D'abord il y a les transformations réciproques solide-liquide. Les solides vont se transformer en état liquide sous une température qui est élevée. Et c'est ce qu'on appelle la température de fusion.
+
+Par exemple l'état de la glace qui va fusionner. Lorsqu'il y a une température qui est supérieure à 0°C pour l'eau. Donc il faut savoir que la fusion va suivre une courbe croissante en fonction de la température.
+
+De l'état de matière. C'est à dire que lorsqu'on a une courbe de variation de la matière. C'est à dire l'état solide.
+
+Donc cette courbe montre que l'état solide lorsqu'on est toujours inférieur à 0°C pour la glace. Et puis après entre à 0°C et baissé il y a les deux formes de la matière solide et liquide. Et puis après il n'y a que l'état liquide.
+
+Le phénomène de congélation ou de solidification c'est lorsqu'il y a une transformation d'un corps d'un état liquide à un état solide. Si on met un liquide dans une enceinte et on fait abaisser la température. Exemple l'eau qui va subir une congélation à 0°C.
+
+Alors on va avoir un phénomène inverse. C'est à dire une surfusion. C'est à dire si on met des aciers ou d'autres électrolytes à l'intérieur de l'eau.
+
+La congélation se fait à une température plus basse. Donc lorsqu'on ajoute ce cristal. Donc la température de congélation de la solution est inférieure à la température de congélation du solvant.
+
+D'où ce phénomène a un intérêt biomédical qu'on va voir. C'est l'abaissement cryoscopique. Donc l'abaissement cryoscopique est utilisé dans la mesure de l'osmolarité ou l'osmolarité des liquides biologiques.
+
+C'est à dire si j'ai un plasma qui est hyper osmolaire. Ou qui contient des cristaux plus en abondance par rapport à un plasma normal. Donc il faut une température plus basse.
+
+Donc une variation de température entre le solvant et la solution c'est le ΔΘ qui s'appelle l'abaissement cryoscopique. Donc l'abaissement cryoscopique est utilisé dans la mesure de l'osmolarité ou l'osmolarité des liquides biologiques. D'ailleurs ΔΘ égale K fois l'osmolarité de la solution.
+
+C'est la loi de Raoult. Pour l'eau on a le K égale 1,86. Donc cet abaissement cryoscopique est d'intérêt biomédical important pour mesurer l'osmolarité ou l'osmolarité du plasma ou des liquides biologiques.
+
+Donc comme exercice si on vous donne l'osmolarité d'un plasma sanguine à chercher avec une température, une variation de l'abaissement cryoscopique où ΔΘ égale 0,63°C. Donc on va avoir que l'osmolarité de cette solution égale ΔΘ sur K égale 0,83 sur 1,86 égale 0,284 qui est 284 mmol par kg. Les autres types de transformation de l'état de la matière.
+
+Donc il y a transformation liquide-vapeur. Il y a deux cas. Donc il y a la vaporisation.
+
+Lorsque le liquide il se transforme en gaz. La vaporisation il se fait par deux phénomènes. L'évaporation ou l'ébullition.
+
+Pour l'évaporation la transformation liquide-gaz se fait de façon lente et progressive. Avec passage de molécules de surface en vapeur sans formation de bulle de vapeur à l'intérieur du liquide. Exemple l'air alvéolaire dans les conditions STPD à 37°C.
+
+L'air il est saturé et il se transforme en vapeur d'eau. Enfin le phénomène d'ébullition. C'est une transformation brutale du liquide, de l'état liquide à l'état gazeux.
+
+Donc c'est la formation de bulle de gaz dans le liquide. Et se fait lorsque la température est très élevée. C'est la température d'ébullition.
+
+Par exemple pour l'eau c'est 100°C et la pression est de 1 atmosphère. Donc la température d'ébullition dépend bien sûr de la nature du liquide et de la pression. Et la liquefaction c'est lorsqu'il y a une transformation du gaz à l'état liquide.
+
+C'est une condensation des gaz. Ceci a un intérêt médical très utilisé au milieu hospitalier. C'est le cas des fluides utilisés en réanimation.
+
+Par exemple des fluides tels que l'oxygène, tel que l'azote et autres. Et donc c'est ici que s'achève ce cours. On a des QCM qu'on peut travailler au fur et à mesure à la fin de la révision du cours.
+
+Et je vous remercie.

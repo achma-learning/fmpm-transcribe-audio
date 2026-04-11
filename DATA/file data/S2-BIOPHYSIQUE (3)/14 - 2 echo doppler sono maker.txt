@@ -1,0 +1,89 @@
+Bonjour, nous allons continuer notre cours sur les bases physiques des ultrasons. Nous enchaînons avec les modes échographiques. Donc les modes échographiques, ils sont nombreux.
+
+Le premier mode, c'est le mode A, qui va nous permettre d'avoir des courbes d'amplitude. C'est un mode qui est très peu utilisé actuellement, essentiellement par nos amis ophtalmologues, et qui permet une bonne précision pour mesurer la longueur axielle de l'œil. Donc c'est un mode où le faisceau ultrasonore, à chaque fois qu'il va rencontrer une interface, va nous donner un signal sous forme d'amplitude, comme vous voyez sur l'image.
+
+Le deuxième mode, c'est le mode B, ou le mode brillance. Et là, chaque point représenté aura un niveau de brillance différent, et donc il sera représenté sur une échelle de gris, sur l'écran d'échographie. Le troisième mode, c'est le mode TM, ou temps-mouvement.
+
+Donc il s'agit d'une représentation des variations, dans une seule direction, de la position et de la brillance des échos en fonction du temps. Son intérêt, c'est essentiellement étudier les mouvements des structures écogènes en fonction du temps. Il peut s'agir soit de la paroi des vaisseaux, ou celle des cavités cardiaques, le mouvement des valves cardiaques, ou alors, dernièrement, il est très utilisé dans l'étude de la plèvre, comme vous voyez sur l'image à côté.
+
+Le mode Doppler, lui, s'intéresse au mouvement du sang dans la lumière du vaisseau. Il y a plusieurs types Doppler qu'on va détailler par la suite. Plusieurs autres modes échographiques existent. 
+
+Nous avons également le mode 3D, 4D. Il s'agit d'un mode avec reconstruction des images, essentiellement utilisée en obstétrique, à la recherche de malformations fétales. L'échographie de contraste, c'est un examen échographique, après injection de liquide contenant des microbules de gaz, au même titre qu'on peut faire un scanner ou une IRM après injection de contraste.
+
+Il va permettre de rechercher un rehaussement, une hypervascularisation de certaines tumeurs. Le mode élastographique, celui-ci constitue un examen complémentaire de l'échographie qui va étudier le comportement des tissus soumis à une contrainte et qui va permettre d'informer sur la dureté des tissus. Il peut être utilisé en échographie, pour le foie, à la recherche d'une fibrose tissulaire, ou même dans d'autres organes, comme le sein ou la thyroïde, pour caractériser les lésions tissulaires.
+
+Nous passons à la sémiologie échographique. Sur l'image finale obtenue sur notre écran, les différentes structures du corps seront rendues sur une échelle de gris qui varie du noir au blanc. Chaque structure possède sa propre faculté à produire un écho, c'est ce qu'on appelle une échogénécité ou une échostructure.
+
+Cela, bien sûr, va se faire sur le mode B. Les structures liquidiennes sont généralement noires ou anéchogènes avec un renforcement des échos postérieurs. Ces mêmes liquides peuvent parfois être impurs, contenant de fins échos avec toujours un renforcement postérieur. Les tissus, eux, sont gris, donc avec un gris variable du français vers le clair.
+
+Tout ce qui est calcification ou os va avoir un aspect hyper-échogène, hyper-reflexogène, donc blanc, avec un condombre postérieur. Voici un exemple d'un kyste hépatique anéchogène avec renforcement postérieure des échos. Ici, nous voyons des formations tissulaires variables.
+
+Certaines sont hyper-échogènes, d'autres sont hétérogènes, mixtes avec des zones hyper- et des zones hypo-échogènes. Le meilleur exemple des structures calciques, c'est les litéases biliaires. On a un environnement qui est anéchogène, qui est noir, au sein duquel on voit cette petite formation hyper-échogène avec un condombre postérieur.
+
+Il s'agit donc d'un calcul de la vésicule biliaire. Nous passons au chapitre de l'écho Doppler. Les objectifs sont d'étudier le principe du Doppler, détailler les différents modes Doppler, énumérer les avantages et les limites de chaque mode.
+
+Le plan suivra les objectifs, donc on verra le principe du Doppler, les différents systèmes Doppler et les principales indications de l'écho Doppler. L'écho Doppler constitue la méthode de première intention pour l'examenant l'invasif des vaisseaux superficiels et profonds. Ici, nous avons l'exemple de vaisseau jubulocarotidien au niveau de la région cervicale.
+
+Sur une échographie hépatique, on voit également les structures vasculaires qui circulent à l'intérieur du parenchyme hépatique, donc des structures canalaires, anéchogènes ou finement échogènes. Sur cette coupe longitudinale passant par la carotide, nous pouvons étudier plusieurs éléments sur le vaisseau carotidien, donc uniquement en mode B. Nous pouvons étudier le diamètre du vaisseau, sa paroi, son contenu, finement échogène. On peut également chercher des calcifications ou chercher un épaississement pariétal.
+
+Par contre, nous n'avons aucune information sur le flux sanguin à l'intérieur du vaisseau. En utilisant le Doppler, on peut avoir plusieurs informations, notamment sur le flux, sur les mesures des vitesses circulatoires à l'intérieur du vaisseau et le débit de circulation sanguin. Pour le principe du Doppler, il s'agit d'une modification de la fréquence d'une onde quand elle est réfléchie par une structure en mouvement.
+
+L'effet Doppler est utilisé en médecine pour quantifier le mouvement des hémacides dans un vaisseau sanguin. Le meilleur exemple étant celui du bruit de voiture en mouvement. Nous voyons sur ce schéma que quand la voiture est en arrêt, le son émis, ou plutôt la fréquence du son émis, est égale à la fréquence reçue.
+
+Par contre, quand la voiture est en mouvement, si elle s'approche de l'observateur, il y a une compression des ondes sonores. Donc la longueur d'onde est plus courte, le son émis est plus aigu, et on voit également que la fréquence reçue est plus élevée que la fréquence émise. Par contre, quand la voiture s'éloigne de l'observateur, il y a une décompression des ondes sonores, la longueur d'onde est plus longue, et donc la fréquence est plus basse.
+
+Voici un autre exemple pour comprendre. Si on prend le point B, c'est un point ou une position qui est neutre, la structure n'est pas en mouvement, donc la fréquence ne change pas. La fréquence émise est égale à la fréquence reçue.
+
+Donc la différence de fréquence est nulle. Par contre, dans le point A, où la cible s'éloigne, elle est en mouvement, la fréquence reçue est inférieure à la fréquence émise. Donc la variation de fréquence est inférieure à zéro.
+
+Par contre, dans le C, quand le point s'approche de la source, la fréquence reçue est supérieure à la fréquence émise. Donc la variation de fréquence est supérieure à zéro. La différence entre la fréquence reçue et la fréquence émise, c'est ce qui constitue la fréquence Doppler.
+
+Si on suppose que la cible est mobile dans l'axe du faisceau ultrasonore, la variation de fréquence, ou la fréquence Doppler, est égale à la fréquence reçue moins la fréquence émise. Ce qui est égal à deux fois la fréquence émise fois V sur la célérité. Ce qui nous intéresse, c'est le V. On s'intéresse à la vitesse de déplacement de la cible, en l'occurrence les hémacies en Doppler.
+
+Le C, c'est la vitesse de propagation de l'onde ultrasonore dans les tissus biologiques. On a dit que c'était une constante à 1540 ètres par seconde. La fréquence émise, c'est celle de l'échographe.
+
+Si la cible est mobile dans un axe qui est différent, et c'est souvent le cas vu l'anatomie vasculaire humaine, la vitesse mesurée est une vitesse qui devient relative. C'est le petit V qui est égal à grand V fois cosinus de θ. θ étant l'angle entre l'axe du faisceau et l'axe du déplacement de la cible. On l'appelle également l'angle Doppler.
+
+La valeur de la fréquence Doppler change alors et devient 2 fois la fréquence émise fois V fois le cosinus de θ sur le petit C ou la célérité de l'onde ultrasonore. Vous voyez sur ce schéma que si l'angle θ est égal à 90° le cosinus de 90° étant nul donc la fréquence Doppler sera nulle. Or il faut toujours tendre à avoir un angle qui soit inférieur à 90° pour avoir un signal Doppler.
+
+Sur cette image échographique vous voyez que si la sonde est perpendiculaire au membre inférieur le signal Doppler couleur est très faible. Par contre dès qu'on incline le plan de la sonde on a un signal beaucoup plus intéressant qui permet l'interprétation de l'image. Pour faire de l'imagerie échographique en mode B il faut être perpendiculaire à 90° par rapport à la structure étudiée pour avoir une réflexion qui va se faire vers la source et donc vers la sonde échographique.
+
+Par contre pour faire une étude Doppler des vaisseaux il faut avoir un angle d'abord du vaisseau qui soit entre 30 et 60° donc s'éloigner le plus de 90° pour pouvoir avoir une fréquence Doppler qui soit donc interprétable. Les différents systèmes Doppler utilisés sont le Doppler continu, le Doppler pulsé le Doppler couleur et le Doppler énergie ou puissance. Le Doppler continu est essentiellement utilisé par les ophtalmologues ou nos amis angiologues.
+
+C'est un Doppler qui utilise une sonde crayon une sonde à deux céramiques avec une partie émettrice en continu et une partie qui est réceptrice. Les informations données par ce Doppler vont être sous deux types un signal audio et un tracé analogique mais sans image. Il est surtout appliqué pour les vaisseaux superficiels.
+
+Voici le schéma d'un appareil Doppler continu sur la sonde nous avons deux céramiques une partie qui est émettrice et l'autre qui est réceptrice. La machine d'échographie va donner des impulsions, des oscillations variables qui vont traverser la peau, le vaisseau et on aura un retour d'informations vers la portion réceptrice qui sera détectée et représentée sous forme d'un signal sonore ou d'une courbe d'amplitude. Les avantages du Doppler continu c'est qu'il est sensible au flux lent qu'il n'a pas de limite en profondeur et qu'il a un coup peu élevé.
+
+Par contre, ses inconvénients c'est que c'est un examen qui n'est pas couplé à l'imagerie. Nous n'avons aucune résolution spatiale et nous ne pouvons pas localiser le signal. Il peut enregistrer plusieurs vaisseaux sur son trajet.
+
+Ses domaines d'application sont principalement les vaisseaux superficiels qui sont bien connus comme les artères et les veines des membres ou du cou. On voit sur une sonde échographique les deux transducteurs, le récepteur et l'émetteur. Dès qu'il va rencontrer un vaisseau on va avoir une information.
+
+Il peut s'agir d'une artère comme d'une veine. Le Doppler pulsé est très utilisé en pratique courante. Il utilise une seule sonde qui est à la fois émettrice et réceptrice de façon alternative.
+
+Il y a le temps d'émission et le temps d'écoute. Le délai entre deux impulsions détermine la fréquence de répétition ou le Pulse Repetition Frequency. Sur le schéma, on voit le vaisseau.
+
+On voit la ligne de tir avec la porte et l'axe de l'angle Doppler par rapport à l'axe du vaisseau. Vous voyez le spectre que nous allons obtenir suite à cet examen. Sur l'axe horizontal qui est représenté par le temps et l'axe vertical qui est représenté par l'échelle de fréquence ou de vitesse.
+
+Les avantages du Doppler pulsé c'est que c'est un examen qui peut être couplé à l'imagerie en mode B qui va permettre de localiser le signal en profondeur et de sélectionner les vaisseaux à enregistrer permettant ainsi le calcul des vitesses et de débit. Son principal inconvénient c'est qu'il a une faible sensibilité au flux lent. La sémiologie du signal Doppler pulsé peut être de deux types sous forme d'un signal auditif ou d'un signal spectral.
+
+Pour l'analyse spectrale, la variation du signal Doppler constitue l'ensemble des globules rouges circulant à l'intérieur du vaisseau. L'analyse du spectre du Doppler pulsé va permettre de définir deux types d'artères, les artères viscérales ou les artères des organes nobles notamment le cerveau, le foie et le rein qui ont une fréquence de basse résistance mais également les artères de membre qui sont des artères de haute résistance. Pour les artères de membre donc les artères de haute résistance elles ont un tracé qui est typiquement triphasique ou biphasique avec comme vous voyez sur le spectre un pic systolique qui est ample bien découpé avec une pente ascendante du pic systolique qui est pratiquement verticale. 
+
+Un reflux en début de diastole qui est généralement suivi d'un rebond puis une vitesse nulle pendant le reste de la diastole. Pour les artères de basse résistance, il s'agit d'un tracé biphasique avec un pic systolique et une vitesse positive pendant la diastole. Le mode duplex, c'est un mode qui correspond au couplage en temps réel de l'échographie en mode B et du mode Doppler pulsé.
+
+Le mode triplex, c'est une acquisition en temps réel d'une image en mode B en mode Doppler couleur avec un enregistrement Doppler pulsé. Pour les flux veineux ils sont plus ou moins continus modulés par les mouvements respiratoires et pour les contractions de l'oreillette droite comme vous voyez sur l'image. On arrive au Doppler couleur, c'est un codage couleur du flux, soit en bleu soit en rouge. 
+
+Il ne s'agit pas bien sûr de l'artère ou de la veine mais il s'agit plutôt du sens du flux. Donc communément, tout ce qui est rouge c'est le flux qui se rapproche de la centre. Tout ce qui est bleu, ce sont les flux qui s'éloignent de la centre.
+
+Le Doppler couleur permet de reconnaître le sens du flux et permet aussi de connaître les vitesses mais avec un calcul qui est semi-quantitatif dépendant de la couleur, est-ce qu'elle est foncée ou est-ce qu'elle est plutôt claire. L'intérêt de ce mode, c'est essentiellement de repérer les vaisseaux dans les zones anatomiques les plus complexes. Vous voyez ici les vaisseaux iliaques examinés en Doppler couleur et vous voyez que quand l'artère est codée en rouge la veine est codée en bleu parce qu'ils ont un sens inverse.
+
+Le Doppler puissance ou Doppler énergie le codage se fait par l'intensité du signal et non pas par la fréquence. Il ne dépend pas de la vitesse des globules rouges et donc il est peu sensible au flux. Il ne dépend pas de leur vitesse mais il dépend plutôt de leur nombre et de leur énergie.
+
+Dans le Doppler puissance, le codage se fait plutôt en jaune orange. L'intérêt, c'est l'approche morphologique des vaisseaux et la détection de la vascularisation tissulaire et tumorale. Les avantages du Doppler énergie c'est qu'il est complètement indépendant de l'angle et donc il a une meilleure sensibilité au flux lent avec une amélioration de la visualisation des petits vaisseaux intra-parenchimateux.
+
+Par contre, ses limites sont la mauvaise résolution temporelle, sa sensibilité au mouvement, même s'il ne s'agit pas forcément de flux sanguin et ne donne aucune information ni sur le sens du flux ni sur les vitesses circulatoires. Nous passons pour voir les principales indications de l'échodoppler, que ça soit en pathologie artérielle, notamment à la recherche de sténose, de plaque d'athérome ou d'anévrisme qui constituent les dilatations vasculaires. Le Doppler est également utilisé en pathologie veineuse à la recherche de thrombose veineuse ou de varice qui constituent une dilatation des structures veineuses. 
+
+Voici un exemple d'une échographie de l'artère fémorale commune, où vous voyez donc un épaississement avec une plaque d'athérome réduisant partiellement la lumière du vaisseau. Un autre exemple d'une plaque calcifiée responsable d'une importante réduction de la lumière vasculaire avec des turbulences en regard de la zone de sténose. Nous avons un exemple d'anévrisme thrombosé de la horte abdominale.
+
+D'autres exemples ici avec une plaque d'athérome sur une artère fémorale mais avec un flux qui reste respecté. En bas vous voyez une thrombose complète de l'artère fémorale et ici vous voyez une sténose de l'artère fémorale avec démodulation du flux en aval. Le Doppler donc est un examen qui est très utilisé en pratique courante.
+
+Le mode pulsé est le meilleur permettant d'étudier et de calculer les vitesses circulatoires à l'intérieur des vaisseaux.

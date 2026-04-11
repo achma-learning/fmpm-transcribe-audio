@@ -1,0 +1,169 @@
+Le cours d'aujourd'hui est intitulé équilibre synovasique dans l'organisme humain. En guise d'introduction, l'équilibre synovasique ou l'homéostasie est une des fonctions essentielles de l'organisme humain qui vise à réguler les variations du pH du plasma. Il faut noter que la concentration d'ions H+, dans l'organisme, est très faible, elle représente 0,00004 mEq par litre.
+
+C'est une valeur infiniment petite par rapport à la concentration des autres cations et ions, tel que le sodium qui représente 135 mEq par litre et le potassium qui représente 5 mMol par litre. Il faut rappeler des notions de base sur les principes de l'acide et des bases. Pour Bronsted, l'acide est une molécule ou un ion ou un radical capable de libérer l'ion H+.
+
+Donc il va donner des protons. Pour la base, c'est une molécule ou un ion, c'est un radical capable de capter l'ion H+. Donc c'est un accepteur de protons.
+
+Dans une solution, tel que le plasma ou le sang, il y a toujours le couple acide et base. D'ailleurs, il y a les cations et les anions, il y a les ions négatifs et les ions positifs. La réaction se fait d'une réaction d'équilibre entre l'acide pour donner une base et un proton H+.
+
+A et B sont dits des acides et des bases conjuguées. Donc c'est des exemples d'acides. Il peut être neutre, comme un HCl.
+
+Il peut être un anion, le CO3H-, il peut être un cation, un H4+. Pour les bases, également, il peut être neutre, tel que l'ammoniaque NH3+, un H+, pour donner un NH4+. Donc ici, la base c'est l'ammoniaque, c'est un H4+.
+
+Et puis, il peut être un anion, tel que le CO3H-. En folie, c'est des molécules qui peuvent être à la fois, jouer un rôle d'acide ou de base, selon le milieu. Exemple, la molécule de PO4H3 ou le phosphate.
+
+Le PO4H3 est un acide qui va se transformer en ion phosphate, PO4H2-+, un H+. Également, l'eau est un ampholyte. Il peut capter un ion H+, et il peut libérer un ion H+.
+
+On les appelle donc des ampholytes ou des amphoteres. On signale également des protéines qui jouent les deux rôles, un rôle acide et un rôle basique. Le pH d'une solution est une expression de la concentration des ions H+, libres dans cette solution.
+
+Donc l'expression pH, c'est le potentiel d'érogène, qui est une mesure de la concentration de l'ion H+. Le pH est également le logarithme décimal de la concentration de H+. C'est à dire que la concentration de H+, est égale à 10 à la puissance moins pH molle par litre.
+
+L'eau pure est généralement très faiblement dissociée. Les molécules de H2O vont donner H3O+, plus 1OH-. Et donc l'eau pure est considérée neutre, car la concentration de H+, égale à celle de la concentration de H-, égale à 10-7 mol par litre.
+
+Donc un pH neutre, c'est un pH qui est égal à 7. Pour un pH inférieur à 7, c'est une solution acide. Si le pH est supérieur à 7, c'est la solution basique. Quelques exemples, les solutions d'urée et du glucose sont une solution neutre.
+
+Donc le pH égale à 7, c'est parce qu'il n'y a pas de libération de H+. La solution de HCl est une solution acide, alors que la solution de NH est une solution basique. La notion de force des acides et des bases.
+
+Donc un acide peut être faible comme il peut être fort, et de même pour les bases. Un acide qui possède un proton, plus facilement il est plus ou moins fort. Et lorsque la base fixe un proton plus ou moins facilement, il est plus ou moins fort.
+
+Donc le couple acide-basique peut être composé d'un acide fort et d'une base faible réciproquement. Donc cette réaction évolue dans les deux sens. Ce qui nous permet d'écrire selon l'équation d'équilibre.
+
+A1H plus A2- peut donner A1- plus A2H. Un acide 1 plus une base 2 va donner une base 1 plus un acide 2. Et donc on peut schématiser tout ça dans une équation de constante d'équilibre égale la base 1. C'est à dire la deuxième partie de cette équation fois l'acide 2 plus l'acide 1 fois la base 2. La constante d'acidité de même. Lorsqu'on met un acide en dissolution dans l'eau.
+
+On va avoir un acide AH plus l'eau plus H2O. Il va nous donner un A- plus H3O+. Donc la constante d'équilibre qui est la constante d'acidité.
+
+Puisque H2O est une constante. Puisque la solution est dédiguée. Donc la constante d'acidité KA est A-H3O+.
+
+Donc on peut définir le pKA qui est moins log de KA. Et donc on revient à la notion qu'un acide est d'autant plus fort que son KA est grand. Et son pKA est négatif au plus petit.
+
+Le cas de l'eau pure. La dissociation est très faible. Donc deux H2O vont nous donner un OH3O+.
+
+Ils auront autant de H plus que de OH moins. Et donc par la suite le KA égale la concentration de H3O+. Par la concentration de H moins.
+
+Égale 10-14 mol carré litre moins 2 à 25°C. Or on a H3O plus égale H moins égale 10-7 mol par litre. Donc on peut convertir au pH.
+
+Le pH c'est moins logarithme de H3O+. Qui est égale à moins log de 10-7 qui est égale à 7 pour l'eau pure. Ceci va nous inciter à parler du mélange d'un acide et d'une base.
+
+Et également des courbes de titrage. Les courbes de titrage ou les courbes de titration. C'est les variations de pH en fonction de l'acidité ou de la basicité de la solution ajoutée.
+
+Ils permettent de doser à partir de la détermination du point d'équivalence d'un acide par une base ou inversement d'une base par un acide. Cette courbe de titrage. Normalement on devrait étudier la courbe de titration dans une séance de travaux pratiques.
+
+Qui permet de faire cette mesure de variation de pH en fonction d'une solution à l'aide d'un pH mètre. Lorsqu'il y a le point d'équivalence sur cette courbe de variation d'une solution après l'ajout d'un acide. Normalement c'est un acide.
+
+Pardon, c'est les variations d'une solution acide quand on fait verser une solution basique. Il va nous donner cette allure de cette courbe. Au début le pH est acide, donc il est inférieur à 2. Et puis après un certain moment il commence à augmenter jusqu'à une valeur qui est le point d'équivalence où il y a autant de mondiants H plus que de OH moins.
+
+A travers cette courbe on peut déduire plusieurs paramètres. Donc on peut déduire d'abord la concentration de la solution inconnue. Au molle par litre ou équivalent par litre.
+
+Et également on peut déduire le pouvoir tampon. C'est quoi le pouvoir tampon d'une solution ? C'est le nombre de molles d'acide ou de base forte ajoutée à une solution tampon pour faire varier le pH d'une unité. Ici le pouvoir tampon on peut le déduire à travers le tracé de la courbe de la tangente au niveau de la zone tampon.
+
+Donc si on revient au pH du son. Le pH du son il est sensiblement constant, il est très constant. D'ailleurs il peut varier entre 7,4 et plus ou moins 0,03 pour le son artériel.
+
+Pour le son veneux il est de 7,35 également plus ou moins 0,03. Et donc le son humain il est neutre. Les autres solutions ou les autres liquides biologiques tels que le liquide céphalo-rachidien.
+
+Le pH il est à 7,30 donc il est presque le même que le pH du son. Pour le pH des cellules il est de 6,80 et il est variable selon les cellules. D'ailleurs c'est le pH idéal qu'il faut mesurer mais vu la difficulté de faire la mesure du pH à l'intérieur de la cellule.
+
+On va faire la mesure du pH du son et on peut extrapoler pour mesurer le pH de la cellule. Il y a d'autres pH de solution tels que les sécrétions gastriques, le sucre gastrique. Il est très acide donc le pH il est égal à 1. Donc le système tampon.
+
+Un système tampon est un système physico-chimique. C'est des substances chimiques qu'on trouve dans le son, dans les liquides biologiques. Et qui amortissent les variations brutales de pH provoquées par l'ajout ou le départ d'ion H+.
+
+Son rôle c'est d'éviter les variations trop importantes de la concentration d'H+. Les constituants d'un système tampon. Il est constitué par un mélange d'un acide et de sa base conjuguée.
+
+Il y a différentes variétés de systèmes tampons. De l'organisme humain au biologique. On a les systèmes tampons fermés et les systèmes tampons ouverts.
+
+Pour les systèmes tampons fermés, la concentration totale est constante. C'est le cas des protéines plasmatiques. Donc il ne varie pas.
+
+Pour le système tampon ouvert, la concentration plasmatique est rapidement modifiée par mélange ou par échange avec l'extérieur. Tel que le bicarbonate et le système bicarbonate, acide carbonique par l'hydratation du gaz carbonique, du CO2. Le pH de l'organisme doit être conservé et gardé dans des concentrations bien constantes à 7,40 ± 0,05.
+
+Ceci est dû au fonctionnement des structures de la cellule. Tel que les protéines intracellulaires, les enzymes et les canaux membranaires qui sont très sensibles au pH. Donc si le pH est modifié, il y a des modifications de la structure tertiaire de ces protéines et donc de leur activité.
+
+Il y a également la modification de l'excitabilité neuronale. Une dépression nerveuse centrale se voit en acidose. Une hyperexcitabilité se voit en alkalose.
+
+Également dans les modifications de la concentration des ions K+, du fait des échanges entre le H+, et le potassium. Lorsqu'il y a une dépression potassium, on peut avoir des troubles d'excitabilité neuronale, cardiaque et lors des déséquilibres potassium. Les variations du pH plasmatique qui surviennent au milieu intérieur de l'organisme d'une manière physiologique, par exemple lors de l'exercice physique ou pathologique.
+
+C'est lors du diabète avec des décompensations acido-cétosiques, lors des diarrhées profuses avec perte d'eau et des électrolytes. Donc en fait le pH inférieur à 7 et supérieur à 7,8 est incompatible avec la vie de l'organisme. C'est pour cela que les tampons de l'organisme permettent d'intervenir pour amortir ces variations brutales.
+
+Donc les différents types de tampons, on a dit qu'il y a les tampons ouverts du son, le tampon carbonique, acide carbonique. Il est un tampon ouvert parce que normalement il y a l'équation où l'acide carbonique se produit à partir de l'association de CO2, gaz carbonique avec le H2O pour donner H2CO3- Et donc au niveau du poumon, le H2CO3- peut également se composer en CO2 plus H2O pour éliminer le CO2. Donc puisque l'équation est une équation d'équivalence, le pH de cette équation est 6,1 plus logarithme de H2CO3- sur la concentration de CO2.
+
+Or, selon la loi de Henry, on peut écrire que la concentration de CO2 est égale à A fois l'APCO2, c'est-à-dire la pression partielle du gaz carbonique. Et par là, on peut dire que le pH est égal à 6,1 plus logarithme de H2CO3- sur l'APCO2. Donc on peut déduire le pH du son à travers ces paramètres tels que la pression partielle de l'oxygène et le A, c'est-à-dire la coefficient de dissolution de CO2, et également de la concentration de H2CO3-.
+
+Cette équation est très utilisée au milieu de réanimation médicale, c'est l'équation de Henderson-Azelbach, qui permet de mesurer l'état acido-vasique des patients hospitalisés en réanimation. Les substances tampons sur cette courbe montrent que, pour le système ouvert, le pouvoir tampon augmente de façon linéaire avec la masse des ions H2CO3-. Cette courbe confirme le rôle de H2CO3- dans le pouvoir tampon du son de l'organisme.
+
+Pour les tampons fermés du son, on a dit, il y a surtout les tampons extracellulaires, tels que les tampons phosphates, acides phosphoriques. Ce sont des tampons que l'on trouve au niveau de l'os. D'ailleurs, lors de l'acidose par insuffisance adrénale, il y a une ostéoporose et libération des phosphates pour juguler cette acidose. 
+
+Il y a des douleurs osseuses également. Les tampons intracellulaires. Le tampon le plus important, c'est le tampon érythrocytère.
+
+Et il y a les tampons protéiques plasmatiques, tels que l'albumine, les alpha, les beta et les gamma-chlorines. C'est des acides aminés qui jouent un rôle de tampon. Ils vont tamponner l'acide.
+
+Donc, on a vu qu'ils peuvent jouer les deux rôles. Ils se forment d'orpholithes ou d'orphothères. Donc, le fonctionnement général de l'équilibre acido-vasique. 
+
+Lors de l'ingestion ou de la production d'acide, le nombre est plus grand en H+, que celui des bases. C'est la règle. Donc, il nécessite ce qui est important de faire une excrétion d'acide de l'organisme.
+
+Donc, l'entrée des acides, on le voit surtout par l'apport alimentaire, tels que les acides aminés, les produits des acides gras ingérés et également par le produit de métabolisme anaérobique. Lors d'un choc cardiogénique ou l'accumulation de l'acide cétonique lors de diabète décompensé. Donc, et également, il y a la source la plus importante, c'est la production de CO2 à travers le métabolisme anaérobique.
+
+Cette formation de la production de CO2 se fait lors du métabolisme. C'est un acide qui dissout dans l'eau et qui va donner les ions bicarbonates ou le H2CO3- qui sont basiques. Et qui peuvent, en fonction de leur emplacement au niveau de la cellule, au milieu périphérique ou centrale, ils peuvent donner H++CO3- soit au niveau rénane ou au niveau des alvéoles pulmonaires.
+
+Pour les entrées des bases, les apports alimentaires et métaboliques sont très limités. Donc, l'essentiel du équilibre acido-asique, il va donc reposer sur l'élimination de l'excès des acides. La régulation de cet équilibre acido-asique, toujours, on a dit, il repose sur trois mécanismes. 
+
+D'abord, l'intervention immédiate des systèmes tampons. Donc, on a vu les systèmes tampons ouverts et fermés. Et le deuxième relais, il est pris par les poumons, par le phénomène de la ventilation et l'élimination de CO2. 
+
+Puis, la troisième ligne de défense, c'est la régulation rénale par l'élimination de H++ et la réabsorption de HCO3-. Donc, le poumon aérien, il est excrète ou il exerce un contrôle du pH à long terme. Donc, ici, ce schéma, il illustre les différents apports ou entrées de H++ dans l'organisme, soit le régime alimentaire, soit le métabolisme aérobique et anaérobique des cellules.
+
+Et, en fin de compte, le plasma du sanguine va avoir un pH qui est stable. Ceci est dû au système tampon HCO3-, protéines, protéinates, hémoglobines, hémoglobinates, phosphates, ammoniaques et autres. Le poumon, il va intervenir par l'élimination de CO2. 
+
+LR1 intervient par l'élimination de H+. Alors, il existe une chronologie de la mise en œuvre de cette régulation de l'équilibre acido-basique. Les systèmes tampons sont la première ligne de dépense qui limite les grandes variations.
+
+Puis, 75 % des perturbations d'équilibre acido-basique sont régulées par la ventilation, une réponse rapide. Puis, les règles prennent en charge le reste de l'équilibre acido-basique, c'est-à-dire les 25 % qui restent. Pour la ventilation pulmonaire, la modification de la ventilation est liée à des modifications métaboliques.
+
+On va trouver les chémorécepteurs aortiques et carotidiennes qui sont sensibilisés par le pH du plasma. Il y a les chémorécepteurs centraux par les variations de PCO2 plasmatiques. Tout cela est un cercle fermé qui va intervenir au niveau du chémorécepteur central, puis agir sur le centre de contrôle respiratoire du bulbe.
+
+Et également au niveau de l'action des neurones somatiques moteurs qui interviennent sur la contractivité musculaire ventilatoire, tel que le diaphragme et les muscles pectoraux. Ce qui va augmenter la fréquence et l'amplitude de la respiration, ce qui va nous conduire à une diminution de PCO2 et à une diminution de H+, donc une augmentation de pH, et ainsi de suite. Donc la courbe ou le cycle est fermé.
+
+C'est ce qui est nécessaire pour la régulation de la ventilation pulmonaire, de l'équilibre acidomasique. Le rein permet ou prend en charge les 25% que le poumon n'a pas effectué en excrétant ou en réabsorbant les ions H+. Et en augmentant ou en diminuant le taux de réabsorption des ions H+.
+
+Les lieux de modification sont au niveau des tuyaux contours néphrons oxymales. Ici c'est un schéma qui montre le glomerule et le néphron. Donc le néphron de l'unité fonctionnelle du rein.
+
+Et l'absorption ou la réabsorption qui se fait au niveau du tube contourné proximal et au niveau du tube collecteur. Ce schéma, c'est un schéma qui est agrandi au niveau des tubes rénaux. Donc on voit la cellule du néphron qui va agir par le biais de l'anhydrase carbonique.
+
+Qui est l'enzyme qui va accélérer la production de H+. A travers l'ion H2CO3- Donc pour donner le HCO3- qui va être réabsorbé au niveau du son. Et les H+, ils vont être éliminés et filtrés au niveau des urines.
+
+De même pour les acides aninés, un H4, l'ammoniate, qui va capter un H+, pour donner un H4 qui va être excrété dans les urines. Donc les reins, ils jouent un rôle primordial dans l'équilibre acido-vasique. D'ailleurs les sujets qui ont une insuffisance rénale, ils font des acidoses métaboliques.
+
+Les troubles de l'équilibre acido-vasique. L'état normal, on a dit, de trois paramètres qu'on peut mesurer dans l'équation de Henderson-Hasselbalch. Qui sont le pSO2, le pH et le HCO3- Donc le pSO2, il a la valeur normale de 40 ± 3 mmHg.
+
+Le pH artériel, il est de 7,4 ± 0,02. Et la concentration de HCO3-, il est de 24 jusqu'à 28 mMol ou mL équivalent par litre. Les états pathologiques.
+
+Lorsque le pSO2, il est augmenté, supérieur à 42 mmHg, on parle d'une hypercapnide. Lorsqu'il est inférieur à 36 mmHg, c'est une hypocapnide. Le CO2, lorsqu'il est très élevé, on parle d'une acidose respiratoire.
+
+Lorsque la concentration est très basse, on parle d'une alcalose respiratoire. Pour les ions HCO3-, lorsqu'ils sont augmentés, c'est l'alcalose métabolique. Lorsqu'ils sont diminués, c'est l'acidose métabolique.
+
+Donc les troubles respiratoires, c'est les anomalies de la concentration de CO2 du tout. C'est-à-dire que le pSO2, il est diminué ou augmenté. Lorsqu'il est diminué, on parle d'un défaut du pSO2, c'est-à-dire l'alcalose respiratoire.
+
+Lorsqu'il est augmenté, le pSO2 supérieur à 42 mmHg, c'est une acidose respiratoire. Les troubles métaboliques, l'anomalie de la concentration en acide fixe. Donc l'excès des acides fixes va donner les acidoses métaboliques.
+
+Le défaut des acides fixes, c'est l'alcalose métabolique. Donc tout ceci, on peut le schématiser sur un diagramme de Davenport. Le diagramme de Davenport, c'est un diagramme qui permet de faire les variations de HCO3 en moins en fonction du pH.
+
+Et en gardant les valeurs constantes de CO2. Donc le point N, c'est le pH normal qui est 7,40. Et également la concentration de HCO3 en moins normale et pSO2 normale.
+
+Tous les autres points correspondent à un trouble de l'équilibre acidosique. Donc ce diagramme de Davenport est utilisé au milieu de réanimation. Et il utilise la formule de Henderson-Azapath, pH est à 6,1 log de HCO3 en moins sur apco2.
+
+Pour se déplacer sur ce diagramme, il faut faire varier la concentration des acides fixes et ou volatiles. Pour les acides volatiles, c'est le pSO2. Et pour les acides fixes, c'est le taux des protéines plasmatiques ou des hémoglobines.
+
+Donc j'ai dit que ce diagramme de Davenport se base sur la relation de Henderson-Azapath. Donc on peut déduire, puisque le pH est à 6,1 log d'HCO3 en moins sur apco2. On peut retirer la concentration de HCO3 en moins égale apco2.
+
+Donc c'est une équation exponentielle. Donc c'est la variation de la concentration du bicarbonate. Une relation exponentielle.
+
+Pour les troubles respiratoires purs, on peut utiliser ce qu'on appelle la courbe de titration. C'est tel qu'on a utilisé lors de la concentration de la base ici en fonction du pH. Donc les variations en fonction des acides et des bases, on peut utiliser les deux courbes.
+
+Donc les lignes Pampon par les courbes de titration. Et les courbes Isobar sur un même diagramme. C'est le diagramme de Davenport.
+
+Donc ce diagramme de Davenport, il va faire mesurer les variations de pH en fonction des valeurs de pco2 bien déterminées, qui sont croissantes d'une valeur normale, 40 mmHg. Donc ils peuvent aller jusqu'à 60 mmHg ou au-dessus de 40 mmHg. Et les déplacements sur la ligne Pampon normale.
+
+Donc le diagramme de Davenport, il est composé en 6 parties. Donc on va trouver l'acidose respiratoire. Donc tout ce qui est inférieur à 7,4 c'est de l'acidose.
+
+D'ailleurs il y a l'acidose respiratoire au-dessus de la ligne Pampon normale. L'acidose métabolique il est au-dessous de la ligne Pampon normale. Et l'acidose mixte lorsqu'il y a une atteinte à la fois respiratoire et métabolique, donc entre les deux.
+
+Pour l'alcalose, tout ce qui est supérieur à 7,4, tout point représenté, ce qui est supérieur ou qui est au-dessus de la ligne Pampon normale, c'est l'alcalose métabolique. Au-dessous c'est l'alcalose respiratoire. Et entre les deux c'est l'alcalose mixte.
+
+Donc ce diagramme de Davenport, c'est un graphique ou c'est un argument utilisé en réanimation et qui permet de suivre les tas acidovasiques des patients surtout en état de choc. Et donc je finis ce cours de l'équilibre acidovasique. Il y a des QCM et des questions qu'on peut faire travailler ensemble.
+
+Inch'Allah et merci.

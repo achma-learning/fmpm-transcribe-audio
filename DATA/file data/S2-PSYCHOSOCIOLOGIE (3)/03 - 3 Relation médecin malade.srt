@@ -1,0 +1,2063 @@
+1
+00:00:01,990 --> 00:00:04,230
+Bonjour, aujourd'hui on va voir la relation
+
+2
+00:00:04,230 --> 00:00:05,130
+médecin-malade.
+
+3
+00:00:08,710 --> 00:00:10,030
+A la fin de ce cours, vous devez
+
+4
+00:00:10,030 --> 00:00:12,190
+être capable de définir la santé selon l
+
+5
+00:00:12,190 --> 00:00:14,690
+'OMS, préciser le rôle et le statut de
+
+6
+00:00:14,690 --> 00:00:17,510
+médecin du malade, citer les types de relations
+
+7
+00:00:17,510 --> 00:00:20,950
+médecin-malade, reconnaître les caractéristiques de cette relation,
+
+8
+00:00:21,550 --> 00:00:24,450
+définir le transfert et le contre-transfert, reconnaître
+
+9
+00:00:24,450 --> 00:00:27,290
+les différents types du contre-transfert et reconnaître
+
+10
+00:00:27,290 --> 00:00:30,770
+l'attitude à avoir devant certaines situations cliniques
+
+11
+00:00:30,770 --> 00:00:31,330
+pratiques.
+
+12
+00:00:32,870 --> 00:00:35,590
+La santé selon l'OMS est définie par
+
+13
+00:00:35,590 --> 00:00:39,030
+un état de complet bien-être physique, mental
+
+14
+00:00:39,030 --> 00:00:42,050
+et social et pas seulement une absence de
+
+15
+00:00:42,050 --> 00:00:44,050
+maladies ou d'infirmités.
+
+16
+00:00:44,690 --> 00:00:45,590
+Il faut les trois.
+
+17
+00:00:46,030 --> 00:00:47,950
+Rappelez-vous, la dernière fois, on a dit
+
+18
+00:00:47,950 --> 00:00:49,990
+qu'il faut prendre le patient dans sa
+
+19
+00:00:49,990 --> 00:00:53,470
+globalité, traiter l'état physique, traiter l'état
+
+20
+00:00:53,470 --> 00:00:55,970
+mental et traiter aussi s'il a des
+
+21
+00:00:55,970 --> 00:01:00,050
+problèmes sociaux, problèmes d'intégration, problèmes d'adaptation
+
+22
+00:01:00,050 --> 00:01:00,370
+sociale.
+
+23
+00:01:01,130 --> 00:01:05,710
+Les droits et les devoirs, ce sont les
+
+24
+00:01:05,710 --> 00:01:10,550
+attentes et les rôles du médecin par rapport
+
+25
+00:01:10,550 --> 00:01:13,270
+au malade ou bien du malade par rapport
+
+26
+00:01:13,270 --> 00:01:13,950
+au médecin.
+
+27
+00:01:16,350 --> 00:01:18,690
+Parmi les droits de malade, il y a
+
+28
+00:01:18,690 --> 00:01:21,910
+l'exemption de la responsabilité face à la
+
+29
+00:01:21,910 --> 00:01:22,350
+maladie.
+
+30
+00:01:23,210 --> 00:01:25,230
+Le malade n'est pas responsable de sa
+
+31
+00:01:25,230 --> 00:01:27,230
+maladie, quelle que soit la maladie.
+
+32
+00:01:27,750 --> 00:01:29,590
+Un diabétique n'est pas responsable de sa
+
+33
+00:01:29,590 --> 00:01:32,230
+maladie, un patient cardiaque n'est pas responsable
+
+34
+00:01:32,230 --> 00:01:34,190
+de la maladie, un patient qui a un
+
+35
+00:01:34,190 --> 00:01:36,170
+HIV n'est pas responsable de sa maladie,
+
+36
+00:01:36,590 --> 00:01:38,370
+un patient qui est addict à l'alcool
+
+37
+00:01:38,370 --> 00:01:40,130
+n'est pas responsable de sa maladie.
+
+38
+00:01:41,190 --> 00:01:43,430
+Le patient aussi a le droit à l
+
+39
+00:01:43,430 --> 00:01:46,090
+'arrêt maladie, il a le droit à l
+
+40
+00:01:46,090 --> 00:01:48,430
+'aide et au droit aux soins.
+
+41
+00:01:48,490 --> 00:01:50,670
+Parmi les obligations du patient, il y a
+
+42
+00:01:50,670 --> 00:01:53,210
+l'obligation de coopérer et l'obligation de
+
+43
+00:01:53,210 --> 00:01:54,210
+désirer guérir.
+
+44
+00:01:54,710 --> 00:01:57,210
+Sauf dans deux cas, bien sûr, c'est
+
+45
+00:01:57,210 --> 00:01:58,490
+le cas des malades mentaux.
+
+46
+00:01:58,490 --> 00:02:00,830
+On sait qu'ils sont inconscients de leur
+
+47
+00:02:00,830 --> 00:02:01,310
+maladie.
+
+48
+00:02:01,730 --> 00:02:03,650
+En général, ils refusent les soins.
+
+49
+00:02:04,050 --> 00:02:05,370
+Il y a aussi le cas des enfants.
+
+50
+00:02:09,250 --> 00:02:13,330
+Parmi les devoirs du médecin, le médecin doit
+
+51
+00:02:13,330 --> 00:02:16,950
+avoir une formation médicale continue, être à jour
+
+52
+00:02:16,950 --> 00:02:21,730
+sur les nouvelles techniques, les nouveaux médicaments à
+
+53
+00:02:21,730 --> 00:02:22,350
+prescrire.
+
+54
+00:02:23,010 --> 00:02:26,150
+Il doit avoir une attitude universaliste par rapport
+
+55
+00:02:26,150 --> 00:02:27,930
+au sexe, à l'âge, à la race
+
+56
+00:02:27,930 --> 00:02:30,730
+et à la religion des patients, ne pas
+
+57
+00:02:30,730 --> 00:02:31,730
+faire de différence.
+
+58
+00:02:32,590 --> 00:02:36,030
+Il doit aussi ne pas profiter du malade.
+
+59
+00:02:36,810 --> 00:02:39,970
+Il doit aussi avoir une neutralité affective tout
+
+60
+00:02:39,970 --> 00:02:41,670
+en gardant une empathie.
+
+61
+00:02:42,210 --> 00:02:43,670
+C'est-à-dire qu'il ne doit
+
+62
+00:02:43,670 --> 00:02:46,670
+pas s'identifier à 100% avec le
+
+63
+00:02:46,670 --> 00:02:46,950
+patient.
+
+64
+00:02:47,470 --> 00:02:49,250
+Il ne doit pas souffrir avec le patient.
+
+65
+00:02:49,410 --> 00:02:51,270
+Si le patient, par exemple, pleure devant lui,
+
+66
+00:02:51,710 --> 00:02:55,070
+souffre devant lui, le médecin ne doit pas
+
+67
+00:02:55,070 --> 00:02:57,730
+souffrir avec le patient.
+
+68
+00:02:57,730 --> 00:03:02,530
+Il doit garder cette neutralité affective tout en
+
+69
+00:03:02,530 --> 00:03:03,470
+étant empathique.
+
+70
+00:03:03,890 --> 00:03:06,470
+L'empathie, c'est la capacité à pouvoir
+
+71
+00:03:06,470 --> 00:03:08,130
+se mettre à la place de l'autre
+
+72
+00:03:08,130 --> 00:03:10,370
+pour comprendre sa souffrance.
+
+73
+00:03:11,210 --> 00:03:13,490
+Bien sûr, il doit y avoir un désintéressement
+
+74
+00:03:13,490 --> 00:03:14,950
+par rapport à l'argent.
+
+75
+00:03:15,550 --> 00:03:17,970
+Les honoraires d'un médecin sont connus.
+
+76
+00:03:18,430 --> 00:03:23,310
+Les médecins doivent respecter ce qui est prescrit.
+
+77
+00:03:26,350 --> 00:03:29,170
+Parmi les devoirs du médecin, c'est le
+
+78
+00:03:29,170 --> 00:03:31,410
+respect du secret professionnel.
+
+79
+00:03:31,730 --> 00:03:34,530
+Il ne doit pas divulguer le secret professionnel
+
+80
+00:03:34,530 --> 00:03:38,670
+à personne, sauf cas exceptionnels.
+
+81
+00:03:39,170 --> 00:03:41,550
+Lorsque c'est demandé par un juge ou
+
+82
+00:03:41,550 --> 00:03:44,550
+bien par un tribunal, bien sûr, on va
+
+83
+00:03:44,550 --> 00:03:47,790
+l'écrire dans un courrier confidentiel.
+
+84
+00:03:48,370 --> 00:03:49,670
+C'est le cas le plus souvent des
+
+85
+00:03:49,670 --> 00:03:51,190
+enfants avec sévices.
+
+86
+00:03:51,670 --> 00:03:54,270
+Des fois, quand on hésite, on va se
+
+87
+00:03:54,270 --> 00:03:56,190
+poser la question où se trouve l'intérêt
+
+88
+00:03:56,190 --> 00:03:56,990
+du malade.
+
+89
+00:04:00,090 --> 00:04:03,110
+Je vous laisse lire le serment d'Hippocrate.
+
+90
+00:04:03,190 --> 00:04:06,190
+Vous allez retrouver des choses qui vont gérer
+
+91
+00:04:06,190 --> 00:04:09,590
+cette relation médecin-malade et la relation entre
+
+92
+00:04:09,590 --> 00:04:10,550
+les médecins aussi.
+
+93
+00:04:23,410 --> 00:04:26,050
+Le médecin, pour avoir une bonne relation avec
+
+94
+00:04:26,050 --> 00:04:29,570
+son malade, doit rester au même niveau scientifique
+
+95
+00:04:29,570 --> 00:04:33,350
+du malade en expliquant par exemple la maladie,
+
+96
+00:04:33,550 --> 00:04:37,510
+en expliquant le traitement et doit respecter le
+
+97
+00:04:37,510 --> 00:04:39,350
+niveau scientifique du malade.
+
+98
+00:04:39,350 --> 00:04:41,890
+On n'explique pas les choses de la
+
+99
+00:04:41,890 --> 00:04:46,130
+même façon à un patient analphabète ou bien
+
+100
+00:04:46,130 --> 00:04:48,150
+qui n'a pas de niveau d'instruction
+
+101
+00:04:48,150 --> 00:04:50,970
+comme un patient qui a par exemple un
+
+102
+00:04:50,970 --> 00:04:52,370
+niveau d'instruction élevé.
+
+103
+00:04:52,870 --> 00:04:56,110
+Donc l'explication, elle doit suivre, aller vers
+
+104
+00:04:56,110 --> 00:04:58,810
+le niveau scientifique du patient.
+
+105
+00:04:59,530 --> 00:05:03,510
+Donc le même niveau affectif, comprendre la souffrance
+
+106
+00:05:03,510 --> 00:05:04,570
+du patient.
+
+107
+00:05:05,490 --> 00:05:10,650
+Niveau juridique, le médecin doit informer le patient
+
+108
+00:05:10,650 --> 00:05:13,350
+sur des risques des fois par rapport à
+
+109
+00:05:13,350 --> 00:05:15,590
+la maladie, par rapport à la non prise
+
+110
+00:05:15,590 --> 00:05:18,390
+de médicaments, par rapport à son comportement.
+
+111
+00:05:22,810 --> 00:05:24,810
+On va parler au niveau de ce cours
+
+112
+00:05:24,810 --> 00:05:28,270
+de deux notions importantes, le transfert et le
+
+113
+00:05:28,270 --> 00:05:29,130
+contre-transfert.
+
+114
+00:05:29,630 --> 00:05:32,410
+Le transfert, c'est l'ensemble des sentiments
+
+115
+00:05:32,410 --> 00:05:35,090
+qu'a le patient envers son soignant.
+
+116
+00:05:35,630 --> 00:05:38,410
+Le contre-transfert, c'est le vécu du
+
+117
+00:05:38,410 --> 00:05:40,730
+soignant envers le patient.
+
+118
+00:05:41,370 --> 00:05:44,930
+Ces deux notions, elles sont gérées par ce
+
+119
+00:05:44,930 --> 00:05:47,730
+qu'on appelle le savoir, le savoir-faire
+
+120
+00:05:47,730 --> 00:05:49,430
+et le savoir-être.
+
+121
+00:05:49,770 --> 00:05:52,990
+Le savoir, c'est les connaissances théoriques que
+
+122
+00:05:52,990 --> 00:05:53,490
+vous avez.
+
+123
+00:05:54,110 --> 00:05:56,930
+Le savoir-faire et le savoir-être, c
+
+124
+00:05:56,930 --> 00:05:59,970
+'est comment vous allez les appliquer, ces connaissances
+
+125
+00:05:59,970 --> 00:06:00,630
+théoriques.
+
+126
+00:06:01,090 --> 00:06:04,530
+C'est votre pratique, comment vous allez examiner
+
+127
+00:06:04,530 --> 00:06:07,050
+le malade, comment vous allez donner l'information
+
+128
+00:06:07,050 --> 00:06:11,830
+au patient, comment vous allez expliquer le diagnostic
+
+129
+00:06:11,830 --> 00:06:15,370
+au patient et comment vous allez prendre soin
+
+130
+00:06:15,370 --> 00:06:16,470
+de votre patient.
+
+131
+00:06:20,880 --> 00:06:26,120
+Selon Hollandaire, la relation médecin-malade est définie
+
+132
+00:06:26,120 --> 00:06:27,980
+par trois types de relations.
+
+133
+00:06:28,400 --> 00:06:31,920
+Le premier, c'est la relation activité-passivité.
+
+134
+00:06:32,740 --> 00:06:35,220
+C'est le modèle mère-nourrisson.
+
+135
+00:06:35,800 --> 00:06:38,820
+Dans ce type de relation, le patient est
+
+136
+00:06:38,820 --> 00:06:46,280
+passif à 100%, la participation du patient est
+
+137
+00:06:46,280 --> 00:06:50,580
+de 0% et le médecin est actif
+
+138
+00:06:50,580 --> 00:06:51,220
+à 100%.
+
+139
+00:06:51,500 --> 00:06:54,200
+C'est le cas des patients comateurs, des
+
+140
+00:06:54,200 --> 00:06:57,040
+patients qui subissent une intervention chirurgicale.
+
+141
+00:06:57,980 --> 00:07:00,500
+Et il y a la relation de guidange
+
+142
+00:07:00,500 --> 00:07:01,340
+-coopération.
+
+143
+00:07:01,840 --> 00:07:03,380
+C'est le modèle parent-enfant.
+
+144
+00:07:03,380 --> 00:07:07,220
+Les parents guident les enfants et les enfants
+
+145
+00:07:07,220 --> 00:07:08,940
+doivent coopérer.
+
+146
+00:07:09,400 --> 00:07:11,140
+C'est le cas des maladies fébriles, les
+
+147
+00:07:11,140 --> 00:07:13,320
+fractures osseuses par exemple.
+
+148
+00:07:13,760 --> 00:07:16,260
+Le médecin va donner des consignes et le
+
+149
+00:07:16,260 --> 00:07:17,780
+malade va suivre ces consignes.
+
+150
+00:07:23,050 --> 00:07:24,890
+Le troisième type de relation, c'est la
+
+151
+00:07:24,890 --> 00:07:28,890
+participation mutuelle et réciproque, 50%, 50%.
+
+152
+00:07:28,890 --> 00:07:30,670
+C'est le modèle adulte-adulte.
+
+153
+00:07:31,110 --> 00:07:33,690
+Ceci, on le trouve dans les maladies chroniques
+
+154
+00:07:33,690 --> 00:07:36,650
+ou bien les réadaptations post-opératoires.
+
+155
+00:07:36,650 --> 00:07:39,310
+Dans ce type de pathologie, des fois, on
+
+156
+00:07:39,310 --> 00:07:40,890
+ne voit le malade que deux fois par
+
+157
+00:07:40,890 --> 00:07:43,410
+an ou bien tous les trois mois, tous
+
+158
+00:07:43,410 --> 00:07:44,110
+les quatre mois.
+
+159
+00:07:44,570 --> 00:07:48,130
+Entre temps, c'est le patient qui fait
+
+160
+00:07:48,130 --> 00:07:49,190
+la prise en charge.
+
+161
+00:07:52,620 --> 00:07:56,280
+Parmi les caractéristiques de cette relation, on note
+
+162
+00:07:56,280 --> 00:07:58,960
+le fait que c'est une relation d
+
+163
+00:07:58,960 --> 00:07:59,640
+'inégalité.
+
+164
+00:08:00,720 --> 00:08:03,220
+Le patient est dans la souffrance, il est
+
+165
+00:08:03,220 --> 00:08:07,420
+affaibli par sa souffrance et le médecin est
+
+166
+00:08:07,420 --> 00:08:08,900
+dans une position de force.
+
+167
+00:08:09,640 --> 00:08:12,060
+Une relation d'attente et d'espérance des
+
+168
+00:08:12,060 --> 00:08:12,640
+deux côtés.
+
+169
+00:08:13,200 --> 00:08:17,000
+Le malade attend la guérison et espère la
+
+170
+00:08:17,000 --> 00:08:17,480
+guérison.
+
+171
+00:08:17,980 --> 00:08:21,440
+Le médecin attend aussi la guérison de son
+
+172
+00:08:21,440 --> 00:08:25,540
+patient et espère l'amélioration de l'état
+
+173
+00:08:25,540 --> 00:08:26,220
+de son patient.
+
+174
+00:08:26,900 --> 00:08:28,720
+C'est une relation de corps comme objet
+
+175
+00:08:28,720 --> 00:08:30,240
+mais qui passe par la parole.
+
+176
+00:08:30,840 --> 00:08:33,000
+C'est le corps qui souffre, mais la
+
+177
+00:08:33,000 --> 00:08:35,360
+parole, c'est ce qu'exprime le patient.
+
+178
+00:08:36,380 --> 00:08:38,419
+Le langage du corps est celui que comprend
+
+179
+00:08:38,419 --> 00:08:40,720
+et accepte le médecin.
+
+180
+00:08:40,960 --> 00:08:43,460
+Le langage du corps est celui que comprend
+
+181
+00:08:43,460 --> 00:08:44,980
+le malade.
+
+182
+00:08:45,500 --> 00:08:47,680
+C'est pour ça que des fois, les
+
+183
+00:08:47,680 --> 00:08:50,040
+malades, quand ils n'arrivent pas à exprimer
+
+184
+00:08:50,040 --> 00:08:54,360
+leur souffrance psychique verbalement, ils vont l'exprimer
+
+185
+00:08:54,360 --> 00:08:57,760
+par le corps, par la somatisation, donc par
+
+186
+00:08:57,760 --> 00:08:59,100
+des signes physiques.
+
+187
+00:08:59,100 --> 00:09:01,800
+Ils vont venir se plaindre de douleurs, par
+
+188
+00:09:01,800 --> 00:09:04,980
+exemple, au niveau abdominal, ou bien par des
+
+189
+00:09:04,980 --> 00:09:07,940
+céphalées, ou bien par des palpitations, ou bien
+
+190
+00:09:07,940 --> 00:09:10,340
+par des gènes respiratoires, parce qu'ils n
+
+191
+00:09:10,340 --> 00:09:13,660
+'arrivent pas à exprimer verbalement et parce qu
+
+192
+00:09:13,660 --> 00:09:16,180
+'ils se disent que le médecin ne comprend
+
+193
+00:09:16,180 --> 00:09:18,200
+que le langage du corps.
+
+194
+00:09:18,580 --> 00:09:22,920
+Donc, ils vont transformer leur souffrance psychique en
+
+195
+00:09:22,920 --> 00:09:26,320
+souffrance corporelle que va comprendre le médecin.
+
+196
+00:09:26,320 --> 00:09:32,120
+La relation thérapeutique-médecin-malade est déterminée par
+
+197
+00:09:32,120 --> 00:09:35,860
+de nombreux facteurs individuels et socio-culturels.
+
+198
+00:09:36,600 --> 00:09:38,700
+De même que le malade réagit à sa
+
+199
+00:09:38,700 --> 00:09:42,200
+maladie en fonction de sa personnalité propre, le
+
+200
+00:09:42,200 --> 00:09:45,180
+médecin réagit face à son malade par des
+
+201
+00:09:45,180 --> 00:09:48,720
+attitudes conscientes et inconscientes en fonction de sa
+
+202
+00:09:48,720 --> 00:09:52,680
+personnalité, de son histoire, ce qui peut infliger
+
+203
+00:09:52,680 --> 00:09:55,700
+le cours de la relation thérapeutique.
+
+204
+00:09:56,380 --> 00:09:58,960
+On va le voir par la suite dans
+
+205
+00:09:58,960 --> 00:10:01,160
+les différents types du contre-transfert.
+
+206
+00:10:04,420 --> 00:10:07,480
+C'est une relation fondamentale fondée sur l
+
+207
+00:10:07,480 --> 00:10:08,060
+'inégalité.
+
+208
+00:10:08,520 --> 00:10:10,780
+La demande du patient le rend passif et
+
+209
+00:10:10,780 --> 00:10:14,200
+dépendant du médecin et sa souffrance le mobilise
+
+210
+00:10:14,200 --> 00:10:15,120
+et le diminue.
+
+211
+00:10:15,760 --> 00:10:17,620
+C'est une relation d'attente et d
+
+212
+00:10:17,620 --> 00:10:18,780
+'espérance mutuelle.
+
+213
+00:10:19,320 --> 00:10:22,000
+Le malade attend la guérison ou au moins
+
+214
+00:10:22,000 --> 00:10:25,700
+le soulagement, le soignant, et attend la reconnaissance
+
+215
+00:10:25,700 --> 00:10:27,900
+de son pouvoir réparateur.
+
+216
+00:10:30,590 --> 00:10:32,290
+C'est une relation où le lien d
+
+217
+00:10:32,290 --> 00:10:34,850
+'échange est avant tout le corps, mais où
+
+218
+00:10:34,850 --> 00:10:36,270
+la parole a sa place.
+
+219
+00:10:36,930 --> 00:10:39,490
+C'est une relation de confiance, comme on
+
+220
+00:10:39,490 --> 00:10:41,070
+a dit, non égalitaire.
+
+221
+00:10:45,740 --> 00:10:49,400
+La théorie psychanalytique dans cette relation a défini
+
+222
+00:10:49,400 --> 00:10:52,380
+le concept de transfert et de contre-transfert.
+
+223
+00:10:53,120 --> 00:10:54,760
+Comme on a dit la dernière fois, le
+
+224
+00:10:54,760 --> 00:10:57,420
+contre-transfert, le transfert c'est une réaction
+
+225
+00:10:57,420 --> 00:11:01,680
+affective, consciente et inconsciente qui prouve le patient
+
+226
+00:11:01,680 --> 00:11:03,400
+à l'égard de son médecin.
+
+227
+00:11:04,040 --> 00:11:06,620
+Donc ça peut être conscient ou inconscient.
+
+228
+00:11:07,580 --> 00:11:10,120
+Le contre-transfert c'est les réactions affectives,
+
+229
+00:11:10,300 --> 00:11:13,520
+conscientes et inconscientes aussi qui prouvent le médecin
+
+230
+00:11:13,520 --> 00:11:14,760
+vis-à-vis de son patient.
+
+231
+00:11:17,540 --> 00:11:20,480
+Ce contre-transfert est très directement lié à
+
+232
+00:11:20,480 --> 00:11:24,240
+la personnalité et à l'histoire du personnel
+
+233
+00:11:24,240 --> 00:11:25,380
+du médecin.
+
+234
+00:11:26,000 --> 00:11:28,300
+Donc ce que vous allez, en tant que
+
+235
+00:11:28,300 --> 00:11:32,400
+médecin, ressentir par rapport à votre patient, ça
+
+236
+00:11:32,400 --> 00:11:36,440
+va être en fonction de votre histoire et
+
+237
+00:11:36,440 --> 00:11:39,120
+en fonction de vos antécédents et en fonction
+
+238
+00:11:39,120 --> 00:11:40,640
+de votre personnalité.
+
+239
+00:11:41,440 --> 00:11:44,400
+Le plus souvent, le contre-transfert est positif.
+
+240
+00:11:44,920 --> 00:11:47,760
+En général, vous allez avoir un contre-transfert
+
+241
+00:11:47,760 --> 00:11:50,180
+positif avec votre patient.
+
+242
+00:11:50,940 --> 00:11:54,000
+Ce contre-transfert positif va permettre une relation
+
+243
+00:11:54,000 --> 00:11:58,380
+médecin-malade de qualité, une empathie du médecin
+
+244
+00:11:58,380 --> 00:12:01,080
+par rapport à son malade et bien sûr,
+
+245
+00:12:01,220 --> 00:12:03,480
+ça va donner une action thérapeutique efficace.
+
+246
+00:12:04,160 --> 00:12:07,020
+Donc il faut un contre-transfert positif.
+
+247
+00:12:11,000 --> 00:12:13,660
+Une relation médecin-malade de qualité signifie que
+
+248
+00:12:13,660 --> 00:12:18,980
+le médecin a un contre-transfert excessivement positif
+
+249
+00:12:19,680 --> 00:12:24,540
+risque de conduire à une identification massive au
+
+250
+00:12:24,540 --> 00:12:28,500
+malade et ou à une perte d'objectivité
+
+251
+00:12:28,500 --> 00:12:29,300
+dans les soins.
+
+252
+00:12:30,280 --> 00:12:32,940
+Si par exemple, vous êtes devant un patient
+
+253
+00:12:33,840 --> 00:12:37,860
+et vous vous identifiez à lui, vous ne
+
+254
+00:12:37,860 --> 00:12:41,740
+pouvez pas prendre des décisions médicales ou bien
+
+255
+00:12:41,740 --> 00:12:44,920
+des décisions correctes pour ce patient.
+
+256
+00:12:45,640 --> 00:12:49,260
+Par exemple, si vous êtes devant un patient,
+
+257
+00:12:49,500 --> 00:12:51,940
+vous le prenez pour votre fils par exemple,
+
+258
+00:12:52,760 --> 00:12:55,880
+là vous ne pouvez pas être objectif pour
+
+259
+00:12:55,880 --> 00:12:57,720
+voir s'il a besoin d'une intervention
+
+260
+00:12:57,720 --> 00:13:00,820
+chirurgicale, s'il a besoin de faire un
+
+261
+00:13:00,820 --> 00:13:04,460
+bilan invasif, s'il a besoin de prendre
+
+262
+00:13:04,460 --> 00:13:07,900
+un traitement lourd, vous ne pouvez pas prendre
+
+263
+00:13:07,900 --> 00:13:08,540
+une décision.
+
+264
+00:13:09,000 --> 00:13:12,000
+Donc il faut toujours garder une certaine distance
+
+265
+00:13:12,000 --> 00:13:15,140
+affective par rapport au patient, ne pas s
+
+266
+00:13:15,140 --> 00:13:20,240
+'identifier massivement au patient pour pouvoir prendre des
+
+267
+00:13:20,240 --> 00:13:21,940
+décisions objectives.
+
+268
+00:13:26,520 --> 00:13:30,020
+Un contre-transfert négatif induit de l'agressivité
+
+269
+00:13:30,020 --> 00:13:33,480
+des frustrations excessives du malade et peut être
+
+270
+00:13:33,480 --> 00:13:35,460
+à l'origine d'échecs de la relation
+
+271
+00:13:35,460 --> 00:13:36,680
+thérapeutique.
+
+272
+00:13:37,380 --> 00:13:40,880
+Donc lorsque vous ne prouvez aucune empathie par
+
+273
+00:13:40,880 --> 00:13:43,280
+rapport au patient, ça peut conduire à un
+
+274
+00:13:43,280 --> 00:13:44,860
+contre-transfert négatif.
+
+275
+00:13:45,700 --> 00:13:47,200
+Je vous donne un exemple.
+
+276
+00:13:47,400 --> 00:13:50,640
+Imaginez par exemple, vous avez été agressé par
+
+277
+00:13:50,640 --> 00:13:53,400
+un sujet et le lendemain vous êtes de
+
+278
+00:13:53,400 --> 00:13:56,600
+garde aux urgences, vous rencontrez soit le même
+
+279
+00:13:56,600 --> 00:13:59,360
+sujet, soit un sujet qui lui ressemble, un
+
+280
+00:13:59,360 --> 00:14:00,880
+patient qui lui ressemble.
+
+281
+00:14:01,320 --> 00:14:03,380
+Alors comment vous allez être ?
+
+282
+00:14:03,380 --> 00:14:05,340
+Donc je pense que c'est à ce
+
+283
+00:14:05,340 --> 00:14:07,600
+moment-là qu'on peut parler d'un
+
+284
+00:14:07,600 --> 00:14:08,720
+contre-transfert négatif.
+
+285
+00:14:09,540 --> 00:14:11,580
+Donc en tant que médecin, normalement vous devez
+
+286
+00:14:11,580 --> 00:14:16,580
+gérer votre réaction, vous devez essayer de vous
+
+287
+00:14:16,580 --> 00:14:20,820
+calmer, essayer de vous adapter, donc essayer de
+
+288
+00:14:20,820 --> 00:14:25,820
+faire votre rôle et de faire votre métier,
+
+289
+00:14:26,260 --> 00:14:28,960
+d'avoir ce savoir-être et ce savoir
+
+290
+00:14:28,960 --> 00:14:31,560
+-faire et rappelez-vous le serment d'Hippocrate,
+
+291
+00:14:31,940 --> 00:14:34,040
+vous ne devez pas faire de différence, quel
+
+292
+00:14:34,040 --> 00:14:35,180
+que soit le malade.
+
+293
+00:14:36,500 --> 00:14:39,520
+L'absence de contre-transfert peut conduire aussi
+
+294
+00:14:39,520 --> 00:14:41,620
+à une froideur excessive.
+
+295
+00:14:48,040 --> 00:14:51,660
+Balint, docteur Balint, c'est un psychanalyste anglois
+
+296
+00:14:51,660 --> 00:14:55,400
+qui a développé une modalité originale d'approche
+
+297
+00:14:55,400 --> 00:14:57,460
+de la relation médecin-malade.
+
+298
+00:14:57,880 --> 00:15:01,080
+Ses travaux sont issus de quelques constatations qui
+
+299
+00:15:01,080 --> 00:15:04,740
+sont, il existe un certain nombre d'insuffisances
+
+300
+00:15:04,740 --> 00:15:06,920
+de la médecine traditionnelle.
+
+301
+00:15:07,040 --> 00:15:09,580
+La médecine traditionnelle, rappelez-vous la dernière fois,
+
+302
+00:15:09,940 --> 00:15:11,100
+on a dit qu'il ne s'intéresse
+
+303
+00:15:11,100 --> 00:15:13,480
+qu'à l'organe et qu'il étudie
+
+304
+00:15:13,480 --> 00:15:16,320
+plus les maladies que les malades.
+
+305
+00:15:16,460 --> 00:15:19,240
+Alors la médecine moderne, on étudie le malade
+
+306
+00:15:19,240 --> 00:15:21,200
+dans sa globalité.
+
+307
+00:15:27,980 --> 00:15:31,080
+Alors, le médecin en lui-même peut être
+
+308
+00:15:31,080 --> 00:15:35,780
+un remède en soi par son savoir-faire
+
+309
+00:15:35,780 --> 00:15:36,980
+et son savoir-être.
+
+310
+00:15:37,560 --> 00:15:40,760
+Même si son action est médiatisée par un
+
+311
+00:15:40,760 --> 00:15:45,440
+médicament, mais par son savoir-faire et savoir
+
+312
+00:15:45,440 --> 00:15:47,760
+-être, s'il est bien fait, il peut
+
+313
+00:15:47,760 --> 00:15:51,020
+aider à améliorer le sujet avant même que
+
+314
+00:15:51,020 --> 00:15:52,840
+le patient commence à prendre les médicaments.
+
+315
+00:15:53,560 --> 00:15:55,560
+Un tiers de l'activité professionnelle d'un
+
+316
+00:15:55,560 --> 00:15:58,380
+médecin généraliste ne relève que d'une action
+
+317
+00:15:58,380 --> 00:15:59,460
+psychothérapeutique.
+
+318
+00:16:04,020 --> 00:16:08,200
+Les groupes BALINT sont consacrés à l'approche
+
+319
+00:16:08,200 --> 00:16:12,980
+en groupe des diverses problématiques relationnelles médecin-malade.
+
+320
+00:16:13,480 --> 00:16:15,420
+Donc au niveau des services, on fait des
+
+321
+00:16:15,420 --> 00:16:19,660
+réunions de façon régulière pour discuter les problèmes
+
+322
+00:16:19,660 --> 00:16:21,600
+personnels entre l'équipe.
+
+323
+00:16:24,100 --> 00:16:27,430
+La relation médecin-patient est actuellement en pleine
+
+324
+00:16:27,430 --> 00:16:27,890
+mutation.
+
+325
+00:16:28,710 --> 00:16:32,950
+Dans notre société, on souhaite faire évoluer la
+
+326
+00:16:32,950 --> 00:16:37,490
+relation médecin-patient d'un modèle paternaliste vers
+
+327
+00:16:37,490 --> 00:16:38,830
+un modèle d'autonomie.
+
+328
+00:16:39,390 --> 00:16:41,530
+Le modèle paternaliste, c'est le modèle où
+
+329
+00:16:41,530 --> 00:16:43,030
+le médecin décide de tout.
+
+330
+00:16:43,750 --> 00:16:46,870
+Le modèle d'autonomie, on a le médecin
+
+331
+00:16:46,870 --> 00:16:50,710
+qui va inciter le patient à prendre des
+
+332
+00:16:50,710 --> 00:16:52,750
+décisions aussi avec lui.
+
+333
+00:16:52,750 --> 00:16:56,190
+Les nouvelles obligations liées à l'information et
+
+334
+00:16:56,190 --> 00:16:59,870
+au consentement éclairé du patient concernant les soins
+
+335
+00:16:59,870 --> 00:17:04,050
+exigent le passage à ce modèle d'autonomie.
+
+336
+00:17:06,579 --> 00:17:10,339
+Les médecins devront trouver un juste milieu entre
+
+337
+00:17:10,339 --> 00:17:11,640
+deux pôles extrêmes.
+
+338
+00:17:12,119 --> 00:17:15,480
+Le premier pôle, la relation dite paternaliste, trop
+
+339
+00:17:15,480 --> 00:17:20,260
+inégalitaire, respectant insuffisamment l'individu parce que le
+
+340
+00:17:20,260 --> 00:17:23,500
+médecin décide de tout, donc c'est un
+
+341
+00:17:23,500 --> 00:17:26,480
+manque de respect pour le malade, trop peu
+
+342
+00:17:26,480 --> 00:17:30,000
+concerté et informé des traitements, donc on ne
+
+343
+00:17:30,000 --> 00:17:32,340
+prend pas l'avis du patient, on ne
+
+344
+00:17:32,340 --> 00:17:34,200
+prend pas l'accord du patient pour le
+
+345
+00:17:34,200 --> 00:17:34,600
+traitement.
+
+346
+00:17:35,540 --> 00:17:37,600
+Ça, c'est le modèle paternaliste.
+
+347
+00:17:38,240 --> 00:17:41,020
+Le second pôle correspond à une relation dite
+
+348
+00:17:41,020 --> 00:17:41,720
+d'autonomie.
+
+349
+00:17:42,200 --> 00:17:45,980
+Le médecin se déresponsabilise de toute décision.
+
+350
+00:17:46,780 --> 00:17:49,620
+Le patient est censé être capable de prendre
+
+351
+00:17:49,620 --> 00:17:52,520
+les meilleures décisions pour lui-même dans les
+
+352
+00:17:52,520 --> 00:17:56,000
+domaines aussi difficiles que sa maladie ou sa
+
+353
+00:17:56,000 --> 00:17:56,920
+mort, par exemple.
+
+354
+00:17:57,380 --> 00:18:00,460
+Donc il faut impliquer le malade dans la
+
+355
+00:18:00,460 --> 00:18:04,240
+prise de décision par rapport au traitement, par
+
+356
+00:18:04,240 --> 00:18:04,920
+rapport aux soins.
+
+357
+00:18:08,180 --> 00:18:10,800
+En pratique, et pour respecter le patient sans
+
+358
+00:18:10,800 --> 00:18:14,000
+se dédouaner de son rôle, le médecin se
+
+359
+00:18:14,000 --> 00:18:17,480
+devra expliquer sa maladie au patient en adaptant
+
+360
+00:18:17,480 --> 00:18:19,700
+son langage à celui du patient.
+
+361
+00:18:19,700 --> 00:18:21,820
+On a dit tout à l'heure qu
+
+362
+00:18:21,820 --> 00:18:23,940
+'il faut avoir le même niveau scientifique.
+
+363
+00:18:24,420 --> 00:18:27,060
+La communication du dossier médical devra se faire
+
+364
+00:18:27,060 --> 00:18:30,200
+autant que possible dans le respect de ses
+
+365
+00:18:30,200 --> 00:18:31,140
+grands principes.
+
+366
+00:18:34,760 --> 00:18:38,420
+Maintenant, on va voir des attitudes à prendre
+
+367
+00:18:38,420 --> 00:18:40,380
+devant quelques situations pratiques.
+
+368
+00:18:41,320 --> 00:18:43,960
+Devant l'angoisse, l'attitude la plus adaptée
+
+369
+00:18:44,260 --> 00:18:46,680
+est le plus souvent une attitude souple d
+
+370
+00:18:46,680 --> 00:18:48,000
+'écoute bienveillante.
+
+371
+00:18:48,580 --> 00:18:51,320
+Écouter la souffrance du patient, des fois, rien
+
+372
+00:18:51,320 --> 00:18:54,080
+que le fait d'écouter, le patient est
+
+373
+00:18:54,080 --> 00:18:56,640
+soulagé et son angoisse peut diminuer.
+
+374
+00:18:57,420 --> 00:19:00,580
+Centrer l'écoute sur les préoccupations du malade.
+
+375
+00:19:01,260 --> 00:19:02,380
+« Oui, je comprends.
+
+376
+00:19:02,420 --> 00:19:03,300
+» « Oui, je sais.
+
+377
+00:19:03,640 --> 00:19:04,880
+» « Oui, vous avez mal.
+
+378
+00:19:04,960 --> 00:19:06,440
+» « Oui, vous êtes angoissé.
+
+379
+00:19:06,680 --> 00:19:08,040
+» « Oui, je comprends.
+
+380
+00:19:08,080 --> 00:19:13,120
+» Essayez de centrer vos préoccupations sur la
+
+381
+00:19:13,120 --> 00:19:14,280
+souffrance du malade.
+
+382
+00:19:14,960 --> 00:19:17,940
+Associer à une attitude de réassurance et d
+
+383
+00:19:17,940 --> 00:19:19,220
+'explication des symptômes.
+
+384
+00:19:19,220 --> 00:19:22,940
+En même temps que vous citez la souffrance
+
+385
+00:19:22,940 --> 00:19:25,280
+du patient, les symptômes qu'on rapporte au
+
+386
+00:19:25,280 --> 00:19:28,000
+patient, vous essayez de le rassurer et vous
+
+387
+00:19:28,000 --> 00:19:29,980
+essayez de lui expliquer ses symptômes.
+
+388
+00:19:33,350 --> 00:19:36,470
+Certains médecins ont un tempérament actif et volontaire
+
+389
+00:19:36,470 --> 00:19:40,090
+et vont être un petit peu plus directifs.
+
+390
+00:19:40,830 --> 00:19:42,630
+Ils vont prendre ce qu'on appelle l
+
+391
+00:19:42,630 --> 00:19:45,450
+'image du médecin-sauveur, donc chose qu'il
+
+392
+00:19:45,450 --> 00:19:46,170
+ne faut pas faire.
+
+393
+00:19:46,770 --> 00:19:49,050
+Ils sont sous-tendus par une tentative d
+
+394
+00:19:49,050 --> 00:19:52,350
+'identification directe du malade au médecin.
+
+395
+00:19:52,810 --> 00:19:54,250
+« Soyez fort comme moi.
+
+396
+00:19:54,630 --> 00:19:55,590
+» « Faites comme moi.
+
+397
+00:19:55,750 --> 00:19:57,710
+» « Regardez-moi comment je fais.
+
+398
+00:19:57,970 --> 00:19:59,530
+» Donc là, il ne faut pas faire
+
+399
+00:19:59,530 --> 00:20:00,650
+cette attitude-là.
+
+400
+00:20:01,250 --> 00:20:04,510
+Ce type d'attitude donne des résultats inconstants,
+
+401
+00:20:04,830 --> 00:20:06,170
+parfois négatifs.
+
+402
+00:20:10,160 --> 00:20:13,620
+Face à l'agressivité, l'agressivité, c'est
+
+403
+00:20:13,620 --> 00:20:16,480
+des réactions qu'on va trouver même chez
+
+404
+00:20:16,480 --> 00:20:18,720
+les autres patients qui ne sont pas des
+
+405
+00:20:18,720 --> 00:20:19,340
+malades mentaux.
+
+406
+00:20:19,340 --> 00:20:22,080
+Donc, ce n'est pas uniquement l'apanage
+
+407
+00:20:22,080 --> 00:20:23,540
+des malades mentaux.
+
+408
+00:20:24,100 --> 00:20:28,560
+Certains médecins tolèrent mal les revendications agressives de
+
+409
+00:20:28,560 --> 00:20:29,280
+leurs patients.
+
+410
+00:20:30,060 --> 00:20:33,940
+Ces réactions agressives sont à éviter car elles
+
+411
+00:20:33,940 --> 00:20:37,080
+entraînent une escalade dans l'agressivité et une
+
+412
+00:20:37,080 --> 00:20:38,880
+rupture de la relation thérapeutique.
+
+413
+00:20:39,380 --> 00:20:41,500
+Donc, si le patient est agressif et vous
+
+414
+00:20:41,500 --> 00:20:45,200
+répondez par l'agressivité, vous entrez dans une
+
+415
+00:20:45,200 --> 00:20:47,640
+escalade de l'agressivité.
+
+416
+00:20:47,640 --> 00:20:50,340
+L'agressivité crée l'agressivité.
+
+417
+00:20:50,780 --> 00:20:53,400
+Et bien sûr, quand il y a l
+
+418
+00:20:53,400 --> 00:20:56,080
+'agressivité entre médecin et malade, il y a
+
+419
+00:20:56,080 --> 00:20:57,780
+rupture de la relation thérapeutique.
+
+420
+00:20:58,240 --> 00:21:01,020
+L'attitude la plus adaptée consiste, dans la
+
+421
+00:21:01,020 --> 00:21:03,980
+mesure du possible, à reconnaître et nommer l
+
+422
+00:21:03,980 --> 00:21:04,920
+'émotion du patient.
+
+423
+00:21:07,290 --> 00:21:08,950
+« Je sais que vous êtes en colère,
+
+424
+00:21:09,110 --> 00:21:11,810
+je sais que vous êtes angoissé, je sais
+
+425
+00:21:11,810 --> 00:21:14,230
+que vous n'aimez pas ça, je sais...
+
+426
+00:21:14,230 --> 00:21:17,310
+» Donc, essayez de nommer l'émotion du
+
+427
+00:21:17,310 --> 00:21:17,610
+patient.
+
+428
+00:21:17,610 --> 00:21:21,090
+Ne pas refuser le principe du dialogue et
+
+429
+00:21:21,090 --> 00:21:22,430
+écoutez le patient.
+
+430
+00:21:25,880 --> 00:21:28,140
+L'hypochondrie, c'est une crainte ou une
+
+431
+00:21:28,140 --> 00:21:30,800
+croyance d'être atteint d'une maladie sérieuse
+
+432
+00:21:30,800 --> 00:21:33,960
+fondée sur l'interprétation erronée de certaines sensations
+
+433
+00:21:33,960 --> 00:21:37,000
+ou symptômes physiques, même si on n'en
+
+434
+00:21:37,000 --> 00:21:40,120
+trouve aucune affection médicale.
+
+435
+00:21:40,220 --> 00:21:43,380
+Donc, devant un symptôme, par exemple, une douleur
+
+436
+00:21:43,380 --> 00:21:45,860
+abdominale, le patient va croire qu'il a
+
+437
+00:21:45,860 --> 00:21:46,880
+un cancer abdominal.
+
+438
+00:21:48,060 --> 00:21:51,400
+L'hypochondriac confrontera le médecin à l'impuissance
+
+439
+00:21:51,400 --> 00:21:52,200
+thérapeutique.
+
+440
+00:21:52,760 --> 00:21:54,220
+Donc, il va venir la prochaine fois vous
+
+441
+00:21:54,220 --> 00:21:57,180
+voir, vous allez prescrire un traitement, il va
+
+442
+00:21:57,180 --> 00:21:59,500
+revenir vous dire qu'il n'a pas
+
+443
+00:21:59,500 --> 00:22:00,900
+été amélioré sur ce traitement.
+
+444
+00:22:01,280 --> 00:22:03,620
+Vous allez changer encore le traitement, vous allez
+
+445
+00:22:03,620 --> 00:22:06,580
+demander des bilans et il va revenir et
+
+446
+00:22:06,580 --> 00:22:07,720
+il va vous dire qu'il va de
+
+447
+00:22:07,720 --> 00:22:08,480
+plus en plus mal.
+
+448
+00:22:08,820 --> 00:22:11,200
+Donc, il va vous mettre dans une situation
+
+449
+00:22:11,200 --> 00:22:12,100
+d'impuissance.
+
+450
+00:22:12,700 --> 00:22:17,280
+Le médecin évitera toute médication inutile qui pérenniserait
+
+451
+00:22:17,280 --> 00:22:19,600
+les troubles, voire les aggraverait.
+
+452
+00:22:20,080 --> 00:22:21,900
+Donc, ça ne sert à rien de donner
+
+453
+00:22:21,900 --> 00:22:24,920
+un autre traitement, de donner un autre bilan.
+
+454
+00:22:25,300 --> 00:22:26,980
+Le patient va se dire qu'il a
+
+455
+00:22:26,980 --> 00:22:30,860
+quelque chose de grave, que vous n'êtes
+
+456
+00:22:30,860 --> 00:22:33,380
+pas encore arrivé à traiter, que vous n
+
+457
+00:22:33,380 --> 00:22:35,160
+'êtes pas encore arrivé à trouver le bon
+
+458
+00:22:35,160 --> 00:22:38,060
+traitement ni le bon examen à faire pour
+
+459
+00:22:38,060 --> 00:22:39,640
+bien diagnostiquer sa maladie.
+
+460
+00:22:43,070 --> 00:22:48,910
+Alors, les patients séducteurs qui ont une personnalité
+
+461
+00:22:48,910 --> 00:22:54,550
+histrionique, ce sont des patients influençables, dépendants, qui
+
+462
+00:22:54,550 --> 00:22:57,550
+se moulent au corps médical avec une plasticité
+
+463
+00:22:57,550 --> 00:22:58,470
+étonnante.
+
+464
+00:22:59,090 --> 00:23:02,530
+Donc, ils sont trop dépendants du corps médical.
+
+465
+00:23:03,410 --> 00:23:07,710
+Guérir pour eux pourrait alors signifier une rupture
+
+466
+00:23:07,710 --> 00:23:09,030
+de ce lien affectif.
+
+467
+00:23:09,030 --> 00:23:13,690
+Ce phénomène favorise les hospitalisations abusives et des
+
+468
+00:23:13,690 --> 00:23:14,750
+bénéfices secondaires.
+
+469
+00:23:14,970 --> 00:23:17,450
+Donc, continuez à venir à vous voir.
+
+470
+00:23:18,030 --> 00:23:21,450
+Le médecin doit avoir pour objectif de prévenir
+
+471
+00:23:21,450 --> 00:23:22,240
+cet engrenage.
+
+472
+00:23:22,890 --> 00:23:26,610
+Donc, il doit casser cette boucle pour éviter
+
+473
+00:23:26,610 --> 00:23:28,260
+les hospitalisations abusives.
+
+474
+00:23:33,990 --> 00:23:35,050
+L'effet placebo.
+
+475
+00:23:35,450 --> 00:23:39,610
+Le placebo désigne toute substance pharmacologique inerte susceptible
+
+476
+00:23:39,610 --> 00:23:42,070
+de modifier l'état du malade, soit en
+
+477
+00:23:42,070 --> 00:23:45,050
+l'améliorant, on parle d'effet placebo positif,
+
+478
+00:23:45,690 --> 00:23:49,870
+soit en déclenchant des effets indésirables, on parle
+
+479
+00:23:49,870 --> 00:23:53,270
+d'effet placebo négatif ou effet nocebo.
+
+480
+00:23:53,670 --> 00:23:56,850
+L'effet placebo, il dépend de nombreux facteurs.
+
+481
+00:23:57,730 --> 00:24:00,410
+Il dépend de la nature des symptômes pour
+
+482
+00:24:00,410 --> 00:24:02,050
+lesquels il est administré.
+
+483
+00:24:02,710 --> 00:24:05,170
+Il dépend de la présentation du placebo, les
+
+484
+00:24:05,170 --> 00:24:08,090
+modalités de sa prise, le nombre et la
+
+485
+00:24:08,090 --> 00:24:09,170
+couleur des comprimés.
+
+486
+00:24:09,170 --> 00:24:12,150
+Il dépend de la personnalité du sujet, de
+
+487
+00:24:12,150 --> 00:24:13,730
+l'influence du prescripteur.
+
+488
+00:24:14,470 --> 00:24:18,010
+Les sujets placebo répandeurs sont plutôt des sujets
+
+489
+00:24:18,010 --> 00:24:23,510
+sociables, rapidement influençables, qui sont dans l'attente
+
+490
+00:24:23,510 --> 00:24:24,710
+d'une amélioration.
+
+491
+00:24:25,570 --> 00:24:28,710
+Le prescripteur influence la réponse au placebo.
+
+492
+00:24:28,950 --> 00:24:31,190
+Donc, c'est en fonction de votre savoir
+
+493
+00:24:31,190 --> 00:24:33,350
+-faire et de votre savoir-être.
+
+494
+00:24:33,350 --> 00:24:36,950
+Si vous arrivez à convaincre le patient qu
+
+495
+00:24:36,950 --> 00:24:40,370
+'il va aller mieux, donc même si vous
+
+496
+00:24:40,370 --> 00:24:42,870
+lui donnez un placebo, il va s'améliorer.
+
+497
+00:24:43,550 --> 00:24:46,970
+La relation positive au médecin favorise, bien sûr,
+
+498
+00:24:47,070 --> 00:24:50,870
+la réponse au placebo et par extension, il
+
+499
+00:24:50,870 --> 00:24:53,570
+va favoriser la réponse au traitement actif.
+
+500
+00:24:57,560 --> 00:25:00,000
+Une relation médecin-malade de qualité est un
+
+501
+00:25:00,000 --> 00:25:03,100
+facteur qui favorise l'observance du traitement médicamenteux,
+
+502
+00:25:03,480 --> 00:25:05,560
+surtout pour les maladies au long cours.
+
+503
+00:25:07,830 --> 00:25:11,310
+L'ensemble de ces enjeux, dont la complexité
+
+504
+00:25:11,310 --> 00:25:14,690
+est perceptible, justifie pour le moins une formation
+
+505
+00:25:14,690 --> 00:25:16,110
+psychologique du médecin.
+
+506
+00:25:16,690 --> 00:25:20,350
+Dans une société en pleine mutation, pour ce
+
+507
+00:25:20,350 --> 00:25:23,550
+qui est de la relation médecin-malade, cette
+
+508
+00:25:23,550 --> 00:25:27,050
+formation permettra au médecin d'éviter l'utilisation
+
+509
+00:25:27,050 --> 00:25:31,570
+inadaptée et parfois pathogène des dimensions psychologiques.
+
+510
+00:25:32,350 --> 00:25:35,790
+Donc, ça nous permettra de comprendre les réactions
+
+511
+00:25:35,790 --> 00:25:38,470
+du patient et ça nous permettra de faire
+
+512
+00:25:38,470 --> 00:25:41,130
+face aux différents types de réactions du patient,
+
+513
+00:25:41,810 --> 00:25:45,170
+de jouer son rôle apaisant et réorganisateur à
+
+514
+00:25:45,170 --> 00:25:48,070
+travers la qualité de la relation établie avec
+
+515
+00:25:48,070 --> 00:25:50,010
+le patient et son entourage.
+
+516
+00:25:50,930 --> 00:25:51,830
+Et je vous remercie.

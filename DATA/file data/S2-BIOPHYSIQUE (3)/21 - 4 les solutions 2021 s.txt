@@ -1,0 +1,65 @@
+Les solutions dans le milieu intérieur de l'organisme. Comme définition, une solution c'est un ensemble de solvants plus soluté. Le solvant, généralement, c'est un liquide.
+
+Les solutés, généralement également, c'est des solides, mais ils peuvent être liquides ou gaz. Donc le schéma c'est de soumettre le solvant qui est l'eau et le soluté qui est un sel. Donc la solution c'est l'eau salée.
+
+Les types de solutions, on peut avoir une solution liquide-liquide. On parle de miscibilité, c'est lorsqu'il existe des forces d'attraction entre les molécules des deux liquides. Exemple, l'eau plus l'alcool. 
+
+L'alcool, il est miscible totalement à l'eau, ça veut dire qu'il se dissout complètement, donc c'est une solution homogène. L'eau et l'huile, c'est deux liquides qui sont non miscibles. Donc mélange de deux liquides, soit ils sont miscibles lorsqu'il y a une dissociation de l'un dans l'autre.
+
+Et on parle de non miscibilité lorsqu'il n'y a pas de dissociation de l'un d'une solution ou d'un solvant dans un autre solvant. C'est le cas de l'huile et l'eau qui sont des liquides partiellement miscibles. Les solutions solides-liquides.
+
+La solution solide-liquide, on parle de solubilité ou de saturation. Donc la solubilité, exemple le sel dont l'eau se dissout facilement, il est soluble dans l'eau. Donc quand on met une petite pincée de sel dans un verre d'eau, il va se dissoudre complètement, on parle d'une dissociation totale.
+
+Mais si on prend par exemple un caillot ou un morceau de bois, il n'est pas soluble dans l'eau. Si cette fois-ci on met une grande quantité de sel dans un peu d'eau, la totalité ne se dissout pas, c'est le phénomène de saturation. Donc le schéma, il montre le phénomène de saturation lorsqu'on met abondamment du sel.
+
+Remarque, l'eau c'est des molécules polaires, H2O, qui ont des forces d'attraction. Donc pour les différents sels, l'eau, on parle d'un bon solvant. A température élevée, la solubilité est élevée et vice versa.
+
+Si la température est basse, la solubilité diminue. A la saturation, si la température est basse, la solubilité passe à l'état solide. C'est le cas de l'eau et du sel, ou de l'eau et du sucre.
+
+Alors, la solution gaz liquide. Il faut savoir que les gaz dans notre organisme, il y a surtout l'oxygène, le CO2, ils sont à l'état dissous dans le sang pour aller vers les tissus. Donc il passe de l'alvéole vers les capillaires alvéolaires et puis vers les vaisseaux sanguines, puis vers le cœur pour être distribué à toutes les cellules de l'organisme.
+
+Et donc la solution gaz liquide, à la température donnée, et lorsqu'il y a une saturation, la quantité de gaz dissous dans un liquide, il est proportionnel à la pression exercée par ce gaz sur le liquide. Donc, exemple, cette figure, il montre deux compartiments. Le premier, il y a une balance qui mesure à masse égale la quantité du liquide à une pression bien déterminée de 1 bar, par exemple.
+
+Si on augmente la pression jusqu'à 3 bar, au niveau de ce compartiment, on va trouver que le liquide devient lourd, ça veut dire qu'il y a un passage de l'air du gaz du compartiment vers le liquide. Donc, cette expérience montre qu'il y a un échange gazeux qui se fait dans les deux sens, de l'air ou du milieu externe atmosphérique vers le liquide ou du liquide vers le milieu extérieur en fonction des différences de pression. Donc, la loi de Henry, c'est une loi qui fait l'étude de cette différence de pression ou de variation de déplacement de l'air dans les liquides.
+
+A température constante et à saturation, la quantité de gaz dissous dans un liquide est proportionnelle à la pression qu'exerce ce gaz sur le liquide. En pratique, la concentration du gaz dissous se présente par une valeur VI qui est le rapport de volume. Il est exprimé par le volume du gaz, I, c'est-à-dire VI, exprimé en STPD, c'est-à-dire standard température, pression et drag, par unité de volume V de la solution.
+
+Donc, c'est un rapport de volume. Et ce rapport de volume, M. Henry, qui est un Anglais, il a mis une loi, c'est la loi de Henry pour les gaz ou la solubilité des gaz. Donc, la loi de Henry est la suivante, VI égale SI. 
+
+SI, c'est la coefficient de solubilité du gaz, I, dans le liquide. Et VI, c'est le volume du gaz, VI sur le volume total. C'est la pression, PI, c'est la pression partielle du gaz.
+
+Et donc, la pression ou le rapport des volumes d'un gaz déterminé I sur un ensemble de volumes est égale à la coefficient de solubilité de ce gaz. Donc, il y a une coefficient fois la pression partielle de ce gaz. Or, SI, c'est la coefficient de solubilité. 
+
+Il est caractéristique du gaz. Par exemple, dans le plasma à 37,6°C, une pression qui est exprimée en atmosphère. La coefficient de solubilité est égale à 0,023 pour l'oxygène. 
+
+Et la coefficient de solubilité de CO2 est de 0,51. Donc, le CO2 se dissout plus facilement au niveau du plasma que l'oxygène. C'est pour ça qu'on peut expliquer par les accidents des intoxications au CO ou CO2 dans les sujets qui utilisent le charbon ou autre.
+
+Donc, ce schéma montre ce rapport de pression partielle d'un gaz libre qui va se dissoudre dans une solution. En application de la loi de Henry, la dissolution des gaz lorsqu'un gaz contacte des liquides, les molécules de ce gaz se dissolvent dans ce liquide. Et la concentration en mol par litre du gaz, I, dissout.
+
+Et lorsqu'un équilibre est réalisé, c'est proportionnel à la pression partielle PI du gaz, I, à l'état gazeux. Donc, CI, c'est la concentration de ce gaz en mol par litre, égale à I, la coefficient de solubilité du gaz, I, fois la pression partielle de ce gaz. Et la coefficient de solubilité dépend de la nature du gaz, de la nature du liquide et de la température.
+
+Lorsque la température augmente, la solubilité diminue. Donc, la quantité de gaz dissout est en fonction des chocs de molécules de gaz à la surface du liquide. C'est en fonction également des forces d'attraction entre les molécules de gaz et du liquide.
+
+On parle de coefficient de solubilité qui diminue quand l'agitation thermique augmente. Donc, comme remarque, la dissolution des gaz, c'est un phénomène relativement long et progressif. Jusqu'à ce que la pression du gaz dissout soit égale à celle du même gaz dans l'atmosphère gazeux ou à l'extérieur de la solution.
+
+Donc, si la pression partielle dans l'atmosphère gazeux baisse, ou dans l'extérieur de la solution, une partie du gaz dissout dans la solution passe à l'état gazeux. C'est le cas qu'on peut observer dans les boissons gazeuses. Lorsqu'on ouvre les bouteilles de l'eau gazeuse, il y a formation des bulles, parce que la pression au niveau de la bouteille du gaz est supérieure à celle du milieu atmosphérique.
+
+Donc, on va parler de phénomène de dédissolution. Une dédissolution est de deux types. Soit il est progressif, sans formation de bulles dans le liquide.
+
+C'est le cas de diminution de la pression partielle. Cette fois-ci, il est lent au niveau atmosphérique ou à l'extérieur du liquide. Lorsque la diminution de la pression partielle est rapide, la dédissolution est brutale avec formation de bulles dans le liquide.
+
+Et donc, ceci, on peut l'appliquer dans les accidents de la plongée sous-marine. Lors de la plongée, l'augmentation de la pression d'un atmosphère pour chaque 10 mètres de profondeur. Et la pression partielle des gaz respirés augmente d'un atmosphère pour chaque 10 mètres de profondeur de l'eau.
+
+Et donc, les quantités de gaz dissous dans le plasma augmentent. Or, lors de la remontée, la pression diminue et il y a les deux cas de figure. Soit la remontée est trop rapide, soit elle est très lente.
+
+Lorsqu'elle est trop rapide, le phénomène de dédissolution est appelé surdissolution. Et il se produit une formation de gaz dissous en excès formant des bulles de gaz qui va induire ce qu'on appelle une embolie plus gazeuse. Formation de bulles au niveau du petit capillaire et qui est de très mauvais pronostic.
+
+Et la remontée est très lente. Après la plongée, le gaz dissous en excès passe progressivement au niveau des poumons sans formation des bulles dans le sang. Et donc, il ne va pas y avoir d'embolie gazeuse.
+
+Donc, le schéma montre la formation de bulles sous forme d'embolie gazeuse qui est mortelle. Donc, la loi de Henry joue un rôle primordial en plongée car il permet de déterminer la dissolution de l'azote dans l'organisme. Puisque dans les bouteilles de respiration, c'est de l'azote qui est plus important que l'oxygène.
+
+En fonction des paramètres cités ci-dessus. Et plus particulièrement en fonction de la variation de pression du temps. Donc, à la pression atmosphérique, les liquides de notre organisme se trouvent dans un état de saturation vis-à-vis des gaz composants l'air contenant dans nos poumons.
+
+Et enfin, c'est la dernière diapo de ce cours qui montre un plongeur avec les gaz émis à travers son masque à gaz. Et devant une grosse baleine. Donc, il y a le phénomène de loi de Henry qui s'applique à ce plongeur.
+
+Je vous remercie.

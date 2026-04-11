@@ -1,0 +1,2639 @@
+1
+00:00:01,100 --> 00:00:04,380
+Bonjour, donc aujourd'hui on va démarrer le
+
+2
+00:00:04,380 --> 00:00:08,560
+cours de biophysique des études de première année
+
+3
+00:00:08,560 --> 00:00:09,560
+médicale.
+
+4
+00:00:09,580 --> 00:00:13,300
+On va faire une revue du programme de
+
+5
+00:00:13,300 --> 00:00:13,920
+ce semestre.
+
+6
+00:00:17,190 --> 00:00:22,230
+Donc, le programme de biophysique.
+
+7
+00:00:23,670 --> 00:00:27,370
+D'abord, on va entamer les biophysiques des
+
+8
+00:00:27,370 --> 00:00:31,790
+rayonnements, qui va intéresser les rappels élémentaires des
+
+9
+00:00:31,790 --> 00:00:36,950
+rayonnements ionisants, et les transformations radioactives, la cinétique
+
+10
+00:00:36,950 --> 00:00:41,590
+des transformations radioactives, les interactions des rayonnements ionisants
+
+11
+00:00:41,590 --> 00:00:44,970
+avec la matière, les détecteurs des rayonnements ionisants,
+
+12
+00:00:45,770 --> 00:00:48,790
+la radioprotection et les effets biologiques des rayonnements
+
+13
+00:00:48,790 --> 00:00:52,370
+ionisants, et puis l'hygiène et la protection
+
+14
+00:00:52,370 --> 00:00:54,030
+dans l'emploi des rayonnements ionisants.
+
+15
+00:00:54,190 --> 00:00:57,190
+Et on va finir ce cours des rayonnements
+
+16
+00:00:57,190 --> 00:01:02,550
+par l'application médicale des rayonnements ionisants, notamment
+
+17
+00:01:02,550 --> 00:01:03,530
+en médecine nucléaire.
+
+18
+00:01:08,650 --> 00:01:10,970
+Après, il y a une partie de la
+
+19
+00:01:10,970 --> 00:01:12,110
+biophysique sensorielle.
+
+20
+00:01:13,370 --> 00:01:15,810
+Donc, on va voir la biophysique de la
+
+21
+00:01:15,810 --> 00:01:20,550
+vision, les amyotropies, les troubles de vision, notamment
+
+22
+00:01:20,550 --> 00:01:24,830
+l'amyopie, l'hypermétropie, l'astigmatisme et autres.
+
+23
+00:01:25,730 --> 00:01:27,590
+Et puis la biophysique de l'audition.
+
+24
+00:01:30,230 --> 00:01:33,450
+Une troisième partie concerne la biophysique du milieu
+
+25
+00:01:33,450 --> 00:01:34,770
+intérieur de l'organisme.
+
+26
+00:01:36,170 --> 00:01:40,970
+Cette partie intéresse la biophysique de la circulation
+
+27
+00:01:40,970 --> 00:01:43,470
+sanguine et de la respiration, la biophysique de
+
+28
+00:01:43,470 --> 00:01:46,450
+l'équilibre acido-basique, donc les régulations physico
+
+29
+00:01:46,450 --> 00:01:52,610
+-chimiques des différentes variations de l'équilibre acido
+
+30
+00:01:52,610 --> 00:01:55,790
+-basique au sein de l'organisme, l'activité
+
+31
+00:01:55,790 --> 00:01:58,330
+électrique du cœur, donc l'électrophysiologie de la
+
+32
+00:01:58,330 --> 00:01:59,150
+cellule myocardique.
+
+33
+00:02:00,730 --> 00:02:03,550
+Et à la fin, on va voir les
+
+34
+00:02:03,550 --> 00:02:08,949
+déplacements libres de la matière, notamment les phénomènes
+
+35
+00:02:08,949 --> 00:02:11,730
+d'osmose et les solutions.
+
+36
+00:02:14,340 --> 00:02:21,740
+Puis on va achever ce programme de biophysique
+
+37
+00:02:21,740 --> 00:02:24,100
+par les bases physiques de l'imagerie médicale
+
+38
+00:02:24,940 --> 00:02:29,180
+que nos collègues radiologues vont effectuer.
+
+39
+00:02:31,770 --> 00:02:40,340
+Pour la biophysique des rayonnements ionisants, on va
+
+40
+00:02:40,340 --> 00:02:44,840
+avoir des rappels sur la structure de l
+
+41
+00:02:44,840 --> 00:02:47,900
+'atome, puisque c'est l'atome qui est
+
+42
+00:02:47,900 --> 00:02:49,420
+à l'origine de ces rayonnements ionisants.
+
+43
+00:02:50,080 --> 00:02:52,680
+Et puis la structure et les familles nucléaires,
+
+44
+00:02:52,840 --> 00:02:56,020
+la stabilité et les instabilités des noyaux, et
+
+45
+00:02:56,020 --> 00:03:00,800
+les émissions des rayonnements ionisants, puis les unités
+
+46
+00:03:00,800 --> 00:03:04,140
+en physique quantique, et les défauts de masse
+
+47
+00:03:04,140 --> 00:03:06,120
+et l'énergie de liaison.
+
+48
+00:03:09,820 --> 00:03:12,000
+Donc l'objectif de ce cours, c'est
+
+49
+00:03:12,000 --> 00:03:17,760
+de connaître les différentes constituants de l'atome,
+
+50
+00:03:18,080 --> 00:03:20,740
+de différencier entre les noyaux, de l'atome
+
+51
+00:03:20,740 --> 00:03:23,980
+moyen-stable et instable, utiliser les atomes dans
+
+52
+00:03:23,980 --> 00:03:27,260
+le tableau périodique des éléments, et définir la
+
+53
+00:03:27,260 --> 00:03:29,240
+notion d'isotope, isobar et isotope.
+
+54
+00:03:31,700 --> 00:03:40,560
+Donc, ce premier diapo sur les rayonnements, je
+
+55
+00:03:40,560 --> 00:03:49,260
+le mets exprès pour, déjà pour montrer le
+
+56
+00:03:49,260 --> 00:03:51,440
+rôle de ces savants qui sont devant nous,
+
+57
+00:03:52,160 --> 00:03:57,320
+dans la révolution de la médecine, notamment en
+
+58
+00:03:57,320 --> 00:04:01,280
+imagerie médicale et en radiologie, et bien sûr
+
+59
+00:04:01,280 --> 00:04:03,840
+les autres sciences, telles que les maths, les
+
+60
+00:04:03,840 --> 00:04:05,660
+physiques, la chimie.
+
+61
+00:04:06,460 --> 00:04:09,880
+Donc ici, c'est un groupe, ou c
+
+62
+00:04:09,880 --> 00:04:14,300
+'est le groupe des savants, qui sont groupés
+
+63
+00:04:14,300 --> 00:04:19,540
+dans les conférences de surveil, donc congrès, à
+
+64
+00:04:19,540 --> 00:04:21,320
+Bruxelles, au Belgique.
+
+65
+00:04:22,220 --> 00:04:25,800
+Donc je vais citer, par exemple, ceux qui
+
+66
+00:04:25,800 --> 00:04:32,200
+sont assis, donc le premier c'est Walt
+
+67
+00:04:32,200 --> 00:04:39,540
+Nernst, et donc c'est lui qui a
+
+68
+00:04:39,540 --> 00:04:42,760
+le prix Nobel sur la physico-chimie, et
+
+69
+00:04:42,760 --> 00:04:45,220
+puis il y a Ernst Solvay, c'est
+
+70
+00:04:45,220 --> 00:04:54,200
+lui qui a organisé ces conférences.
+
+71
+00:04:54,840 --> 00:04:58,100
+Il y a également, on voit donc, Mme
+
+72
+00:04:58,100 --> 00:05:01,280
+Marie Curie, c'est la sondame, d'ailleurs,
+
+73
+00:05:01,420 --> 00:05:04,940
+qui est dans ce groupe de savants, donc
+
+74
+00:05:04,940 --> 00:05:10,080
+depuis 1911, et à côté il y a
+
+75
+00:05:10,080 --> 00:05:10,240
+M.
+
+76
+00:05:10,380 --> 00:05:13,920
+Henri Poincaré, le mathématicien français, et bien sûr
+
+77
+00:05:13,920 --> 00:05:15,760
+c'est l'encadrant de Mme Marie Curie.
+
+78
+00:05:16,920 --> 00:05:20,220
+Ceux qui sont debout, de gauche à droite,
+
+79
+00:05:20,220 --> 00:05:24,560
+on va voir la deuxième personnalité, par exemple
+
+80
+00:05:24,560 --> 00:05:24,860
+M.
+
+81
+00:05:24,960 --> 00:05:28,220
+Max Planck, qui a découvert la constante de
+
+82
+00:05:28,220 --> 00:05:31,200
+Planck, puis on va voir également M.
+
+83
+00:05:31,580 --> 00:05:41,160
+Schumerfeld, qui a découvert la configuration de la
+
+84
+00:05:41,160 --> 00:05:45,440
+tombe stellaire, et puis il y a Ernst
+
+85
+00:05:45,440 --> 00:05:50,920
+Rutherford, donc le quatrième des derniers, et c
+
+86
+00:05:50,920 --> 00:05:52,800
+'est lui qui a découvert la manière de
+
+87
+00:05:52,800 --> 00:05:54,780
+la tombe, puis on va voir, à un
+
+88
+00:05:54,780 --> 00:05:56,060
+moment donné, c'est M.
+
+89
+00:05:56,060 --> 00:05:58,800
+Albert Einstein, et puis on va voir qu
+
+90
+00:05:58,800 --> 00:06:01,560
+'il y a un Français répété par sa
+
+91
+00:06:01,560 --> 00:06:04,660
+recherche dans la zone électromagnétique.
+
+92
+00:06:07,000 --> 00:06:10,380
+Donc ça, c'était déjà des congrès, ou
+
+93
+00:06:10,380 --> 00:06:14,560
+des conférences de 1911, qui ont révolutionné la
+
+94
+00:06:14,560 --> 00:06:18,060
+physique quantique, et c'est eux qui ont
+
+95
+00:06:18,060 --> 00:06:26,360
+adhérit pour la physique récente, ou la physique
+
+96
+00:06:26,360 --> 00:06:27,220
+moderne.
+
+97
+00:06:27,720 --> 00:06:31,240
+Donc, pour démarrer, d'abord la structure de
+
+98
+00:06:31,240 --> 00:06:31,760
+la matière.
+
+99
+00:06:32,780 --> 00:06:36,080
+La matière est composée par plusieurs molécules.
+
+100
+00:06:38,180 --> 00:06:44,500
+Ces molécules sont constituées par des atomes, et
+
+101
+00:06:44,500 --> 00:06:47,640
+sont liées par des liaisons de covalence.
+
+102
+00:06:47,820 --> 00:06:51,000
+Il y a trois états de la matière,
+
+103
+00:06:51,160 --> 00:06:53,040
+soit l'état solide, ou l'état liquide
+
+104
+00:06:53,040 --> 00:06:56,900
+ou gazeuse, qui constituent la matière.
+
+105
+00:06:57,280 --> 00:06:59,820
+Normalement, la matière vivante est composée par un
+
+106
+00:06:59,820 --> 00:07:01,140
+nombre limité d'atomes.
+
+107
+00:07:02,100 --> 00:07:06,140
+D'ailleurs, on peut citer l'atome d
+
+108
+00:07:06,140 --> 00:07:09,860
+'oxygène, d'hydrogène, pour la molécule d'eau.
+
+109
+00:07:09,860 --> 00:07:12,200
+Il y a également l'atome de carbone
+
+110
+00:07:12,200 --> 00:07:14,120
+et d'azote pour les molécules durées.
+
+111
+00:07:14,840 --> 00:07:20,100
+Donc, les différentes configurations et les différentes liaisons
+
+112
+00:07:20,100 --> 00:07:25,100
+vont dicter la structure des molécules qui constituent
+
+113
+00:07:25,100 --> 00:07:26,000
+l'organisme vivant.
+
+114
+00:07:29,040 --> 00:07:29,300
+D'accord.
+
+115
+00:07:29,480 --> 00:07:35,060
+Donc, le premier savant qui a travaillé sur
+
+116
+00:07:35,060 --> 00:07:39,300
+l'atome, dans la physique moderne ou la
+
+117
+00:07:39,300 --> 00:07:40,300
+physique quantique, c'est M.
+
+118
+00:07:40,560 --> 00:07:43,800
+Thomson, l'anglais qui a découvert l'électron.
+
+119
+00:07:44,000 --> 00:07:45,380
+D'ailleurs, on parle de l'électron de
+
+120
+00:07:45,380 --> 00:07:48,220
+Thomson, et qui lui a donné son nom.
+
+121
+00:07:49,140 --> 00:07:51,600
+Il imagine alors que l'atome, c'est
+
+122
+00:07:51,600 --> 00:07:52,360
+comme un cake.
+
+123
+00:07:54,500 --> 00:07:57,440
+Un cake au raisin, où les électrons négatifs
+
+124
+00:07:57,440 --> 00:08:00,380
+sont éparpillés dans une matière positive afin de
+
+125
+00:08:00,380 --> 00:08:01,780
+neutraliser l'atome.
+
+126
+00:08:01,920 --> 00:08:04,420
+Donc, c'était une première théorie de l
+
+127
+00:08:04,420 --> 00:08:04,660
+'atome.
+
+128
+00:08:06,160 --> 00:08:10,780
+Et bien sûr, l'atome était invisible, surtout
+
+129
+00:08:10,780 --> 00:08:16,640
+avant cette ère de Thomson.
+
+130
+00:08:19,950 --> 00:08:24,090
+Mais actuellement, dans la physique moderne, on peut
+
+131
+00:08:24,090 --> 00:08:31,830
+visualiser l'atome grâce au microscope électronique en
+
+132
+00:08:31,830 --> 00:08:32,309
+transmission.
+
+133
+00:08:33,549 --> 00:08:39,850
+Donc, vous voyez, c'est la plus petite
+
+134
+00:08:39,850 --> 00:08:42,770
+partie d'un corps simple qui peut se
+
+135
+00:08:42,770 --> 00:08:44,710
+combiner chimiquement avec un autre.
+
+136
+00:08:45,450 --> 00:08:47,430
+Il est de l'ordre de l'ingström,
+
+137
+00:08:47,590 --> 00:08:49,130
+ingström c'est 10 à la puissance de
+
+138
+00:08:49,130 --> 00:08:52,790
+moins de 10 mètres, ou de fermion, pour
+
+139
+00:08:52,790 --> 00:08:53,270
+le noyau.
+
+140
+00:08:55,240 --> 00:08:57,020
+Donc, la structure de l'atome, il y
+
+141
+00:08:57,020 --> 00:09:01,720
+a plusieurs modèles, mais le modèle qu'on
+
+142
+00:09:01,720 --> 00:09:05,880
+se propose, c'est l'atome à orbiter
+
+143
+00:09:05,880 --> 00:09:10,060
+d'abord elliptique par Sumerfield, en 1911.
+
+144
+00:09:11,180 --> 00:09:15,480
+Donc, c'est des cortèges elliptiques.
+
+145
+00:09:16,120 --> 00:09:17,940
+Et vous constatez qu'au début, il n
+
+146
+00:09:17,940 --> 00:09:21,440
+'y a pas de noyau.
+
+147
+00:09:21,660 --> 00:09:23,680
+On n'a que des électrons qui tournent
+
+148
+00:09:23,680 --> 00:09:26,800
+en modèle du système solaire elliptique.
+
+149
+00:09:27,740 --> 00:09:29,660
+Et qui ont des valeurs quantifiées.
+
+150
+00:09:29,900 --> 00:09:31,760
+Donc, c'est Monsieur Scharfeld.
+
+151
+00:09:32,720 --> 00:09:39,120
+Après, il est venu Monsieur Bohr, c'est
+
+152
+00:09:39,120 --> 00:09:39,740
+un danois.
+
+153
+00:09:40,460 --> 00:09:45,000
+Et c'est lui qui a proposé le
+
+154
+00:09:45,000 --> 00:09:48,780
+schéma des orbites circulaires des électrons.
+
+155
+00:09:49,500 --> 00:09:52,340
+Et il a également mentionné l'émission d
+
+156
+00:09:52,340 --> 00:09:54,900
+'un photon lors du passage d'une orbite
+
+157
+00:09:54,900 --> 00:09:55,420
+à une autre.
+
+158
+00:09:56,580 --> 00:10:01,800
+Donc, c'est lui qui a posé la
+
+159
+00:10:01,800 --> 00:10:06,640
+théorie de la quantification de l'énergie d
+
+160
+00:10:06,640 --> 00:10:11,880
+'électrons en fonction du niveau ou de la
+
+161
+00:10:11,880 --> 00:10:13,580
+couche atomique.
+
+162
+00:10:15,020 --> 00:10:19,260
+Donc, Monsieur Bohr, en 1913, avait proposé ce
+
+163
+00:10:19,260 --> 00:10:21,040
+modèle d'orbite circulaire.
+
+164
+00:10:21,040 --> 00:10:26,380
+Que nous allons adopter comme schéma simplifié.
+
+165
+00:10:26,400 --> 00:10:28,980
+Les électrons gravitent sur des orbites dont les
+
+166
+00:10:28,980 --> 00:10:30,600
+rayons ont des valeurs quantifiées.
+
+167
+00:10:33,480 --> 00:10:37,440
+Après, c'est Monsieur Ernest Rutherford.
+
+168
+00:10:38,340 --> 00:10:41,980
+Il a mis en évidence le noyau de
+
+169
+00:10:41,980 --> 00:10:42,420
+l'atome.
+
+170
+00:10:43,480 --> 00:10:47,140
+Il a parlé également des particules alpha et
+
+171
+00:10:47,140 --> 00:10:47,420
+beta.
+
+172
+00:10:48,520 --> 00:10:52,100
+Il postule une représentation lacunaire de la matière
+
+173
+00:10:52,100 --> 00:10:55,760
+où les électrons sont satellisés autour du noyau
+
+174
+00:10:55,760 --> 00:10:57,180
+chargé positivement.
+
+175
+00:10:57,940 --> 00:11:00,460
+C'est la première découverte du noyau de
+
+176
+00:11:00,460 --> 00:11:00,900
+l'atome.
+
+177
+00:11:01,760 --> 00:11:07,540
+C'était en 1907, à Montchester.
+
+178
+00:11:09,320 --> 00:11:13,160
+Le noyau est au milieu de l'atome.
+
+179
+00:11:13,160 --> 00:11:20,220
+La représentation planétaire de l'atome c'est
+
+180
+00:11:20,220 --> 00:11:24,280
+des électrons.
+
+181
+00:11:24,580 --> 00:11:26,440
+Le cas ici, c'est l'atome d
+
+182
+00:11:26,440 --> 00:11:31,600
+'hydrogène qui fait une rotation circulaire autour du
+
+183
+00:11:31,600 --> 00:11:31,960
+noyau.
+
+184
+00:11:33,420 --> 00:11:36,960
+Et donc, l'atome est constitué à la
+
+185
+00:11:36,960 --> 00:11:39,940
+fois par des noyaux et par des électrons.
+
+186
+00:11:39,940 --> 00:11:44,580
+Les noyaux contiennent des protons et des neutrons
+
+187
+00:11:44,580 --> 00:11:48,960
+alors que les électrons sont chargés négativement et
+
+188
+00:11:48,960 --> 00:11:53,280
+gravitent autour du noyau.
+
+189
+00:11:55,390 --> 00:11:58,330
+La structure de l'atome, c'est ça.
+
+190
+00:12:01,420 --> 00:12:03,260
+Le nombre d'électrons de l'atome varie
+
+191
+00:12:03,260 --> 00:12:05,220
+suivant l'élément considéré.
+
+192
+00:12:08,080 --> 00:12:10,780
+Le numéro atomique de l'élément qui correspond
+
+193
+00:12:10,780 --> 00:12:15,720
+à sa classification, c'est le nombre d
+
+194
+00:12:15,720 --> 00:12:19,180
+'électrons qui est égal au nombre de protons.
+
+195
+00:12:24,240 --> 00:12:32,860
+Cela représente l'atome d'hydrogène, d'oxygène,
+
+196
+00:12:33,040 --> 00:12:36,340
+de carbone et de l'azote.
+
+197
+00:12:36,620 --> 00:12:39,260
+Il y a cette formule de nombre d
+
+198
+00:12:39,260 --> 00:12:43,540
+'électrons sur chaque orbite.
+
+199
+00:12:43,540 --> 00:12:45,420
+Il est de 2 à la puissance n²
+
+200
+00:12:45,420 --> 00:12:51,680
+soit n, le nombre de la couche électronique.
+
+201
+00:12:51,760 --> 00:12:55,120
+On constate que le nombre d'électrons diffère
+
+202
+00:12:55,120 --> 00:13:00,080
+d'un atome à un autre et qui
+
+203
+00:13:00,080 --> 00:13:03,420
+donne la structure chimique de l'atome.
+
+204
+00:13:07,140 --> 00:13:10,440
+Ici, il y a des valeurs telles que
+
+205
+00:13:10,440 --> 00:13:12,720
+le diamètre de l'atome est de 10
+
+206
+00:13:12,720 --> 00:13:15,260
+à la puissance de moins 10 mètres soit,
+
+207
+00:13:15,920 --> 00:13:18,980
+on parle de Lindstrom, le diamètre du noyau
+
+208
+00:13:18,980 --> 00:13:19,820
+est de 10 à la puissance de moins
+
+209
+00:13:19,820 --> 00:13:22,920
+15 mètres, donc c'est le Fermi.
+
+210
+00:13:23,160 --> 00:13:25,340
+Et le rapport du diamètre de l'atome
+
+211
+00:13:25,340 --> 00:13:27,500
+sur le diamètre du noyau, vous voyez qu
+
+212
+00:13:27,500 --> 00:13:28,960
+'il est de 10 à la puissance 5
+
+213
+00:13:28,960 --> 00:13:29,200
+fois.
+
+214
+00:13:32,420 --> 00:13:35,820
+L'atome règne un vide.
+
+215
+00:13:36,020 --> 00:13:38,420
+Vous voyez qu'entre le noyau et le
+
+216
+00:13:38,420 --> 00:13:39,980
+premier électron, il est de 10 à la
+
+217
+00:13:39,980 --> 00:13:40,780
+puissance 5 fois.
+
+218
+00:13:41,860 --> 00:13:44,720
+Si le noyau était à une orange de
+
+219
+00:13:44,720 --> 00:13:47,040
+3 cm de rayon, alors l'atome aurait
+
+220
+00:13:47,040 --> 00:13:48,340
+un rayon de 3 km.
+
+221
+00:13:51,590 --> 00:13:53,830
+Pour la masse de l'électron au repos,
+
+222
+00:13:54,050 --> 00:13:55,850
+il est de 9 fois 10 moins 31
+
+223
+00:13:55,850 --> 00:13:58,750
+kg ou 0.9 fois 10 moins 27
+
+224
+00:13:58,750 --> 00:13:59,370
+grammes.
+
+225
+00:14:00,430 --> 00:14:03,270
+Et on va voir que l'électron est
+
+226
+00:14:03,270 --> 00:14:07,170
+1800 fois plus faible que la masse du
+
+227
+00:14:07,170 --> 00:14:07,630
+nucléon.
+
+228
+00:14:07,630 --> 00:14:11,330
+La charge de l'électron est égale à
+
+229
+00:14:11,330 --> 00:14:13,550
+moins 1,6 fois 10 moins 19 coulants,
+
+230
+00:14:14,170 --> 00:14:15,870
+égale moins la charge du proton.
+
+231
+00:14:17,630 --> 00:14:20,610
+Donc l'atome, c'est un édifice électriquement
+
+232
+00:14:20,610 --> 00:14:25,980
+neutre, dont le nombre d'électrons égale le
+
+233
+00:14:25,980 --> 00:14:26,740
+nombre de protons.
+
+234
+00:14:30,810 --> 00:14:33,230
+Et la masse de l'atome est à
+
+235
+00:14:33,230 --> 00:14:36,370
+peu près concentrée dans la masse du noyau.
+
+236
+00:14:39,670 --> 00:14:43,330
+Pour les niveaux d'énergie atomique, on a
+
+237
+00:14:43,330 --> 00:14:46,870
+dit qu'aux différentes raisons d'origine d
+
+238
+00:14:46,870 --> 00:14:50,890
+'orbite, elles correspondent à différentes énergies.
+
+239
+00:14:51,290 --> 00:14:53,490
+Donc l'énergie totale d'électrons sur l
+
+240
+00:14:53,490 --> 00:15:00,590
+'orbite, elle diffère en fonction de sa position
+
+241
+00:15:00,590 --> 00:15:02,450
+au niveau de chaque orbite.
+
+242
+00:15:03,050 --> 00:15:07,130
+L'énergie est négative de ces électrons, donc
+
+243
+00:15:07,130 --> 00:15:08,750
+il faut fournir de l'énergie à l
+
+244
+00:15:08,750 --> 00:15:11,830
+'électron pour l'arracher du champ du noyau.
+
+245
+00:15:14,060 --> 00:15:16,760
+Donc ça c'est le modèle de Bohr
+
+246
+00:15:16,760 --> 00:15:18,660
+pour l'atome qu'on a dit qui
+
+247
+00:15:18,660 --> 00:15:20,980
+est sous forme d'orbite circulaire.
+
+248
+00:15:22,060 --> 00:15:25,020
+Et la disposition des électrons, ils sont en
+
+249
+00:15:25,020 --> 00:15:29,040
+fonction du niveau de chaque orbite.
+
+250
+00:15:33,300 --> 00:15:36,180
+Donc le niveau d'énergie est une quantité
+
+251
+00:15:36,180 --> 00:15:41,280
+utilisée pour décrire les systèmes en mécanique quantique
+
+252
+00:15:41,280 --> 00:15:42,140
+de l'atome.
+
+253
+00:15:46,380 --> 00:15:50,180
+Par exemple, ici la couche K est n
+
+254
+00:15:50,180 --> 00:15:53,580
+égale à 1, la couche L n égale
+
+255
+00:15:53,580 --> 00:15:56,580
+à 2, M n égale à 3, et
+
+256
+00:15:56,580 --> 00:15:58,020
+R n c'est le rayon de l
+
+257
+00:15:58,020 --> 00:16:00,320
+'orbite du rang n.
+
+258
+00:16:00,840 --> 00:16:02,380
+Z c'est le numéro atomique.
+
+259
+00:16:04,600 --> 00:16:07,200
+La masse de l'électron est de 9
+
+260
+00:16:07,200 --> 00:16:10,100
+x 10-31 kg, et la charge est
+
+261
+00:16:10,100 --> 00:16:12,440
+de 1,6 x 10-19 coulombs.
+
+262
+00:16:15,110 --> 00:16:22,210
+Donc cette formule qui montre les niveaux ou
+
+263
+00:16:22,210 --> 00:16:26,150
+l'énergie de l'électron au sein de
+
+264
+00:16:26,150 --> 00:16:30,130
+sa position au milieu de la couche, je
+
+265
+00:16:30,130 --> 00:16:32,250
+ne vous demande pas d'apprendre par cœur,
+
+266
+00:16:32,370 --> 00:16:35,430
+mais de comprendre c'est que l'énergie
+
+267
+00:16:35,430 --> 00:16:40,250
+de l'électron est inversement proportionnelle de sur
+
+268
+00:16:40,250 --> 00:16:42,670
+n au carré, n on a dit c
+
+269
+00:16:42,670 --> 00:16:46,450
+'est le niveau d'énergie ou c'est
+
+270
+00:16:46,450 --> 00:16:49,230
+le nombre de la couche, plus elle est
+
+271
+00:16:49,230 --> 00:16:56,010
+profonde, plus l'énergie est très importante.
+
+272
+00:17:06,150 --> 00:17:10,069
+Donc le niveau d'énergie de chaque couche
+
+273
+00:17:10,069 --> 00:17:17,270
+est une notion primordiale dans la physique quantique
+
+274
+00:17:17,270 --> 00:17:18,069
+des atomes.
+
+275
+00:17:18,530 --> 00:17:22,829
+Par exemple ici, l'atome d'hydrogène, plus
+
+276
+00:17:22,829 --> 00:17:24,970
+on est profond, il faut par exemple ici
+
+277
+00:17:24,970 --> 00:17:27,190
+n égale à 1, donc il faut une
+
+278
+00:17:27,190 --> 00:17:30,970
+énergie de 13,6 électrovolts pour arracher l
+
+279
+00:17:30,970 --> 00:17:33,710
+'électron de la couche n égale à 1.
+
+280
+00:17:40,140 --> 00:17:44,660
+Ce schéma-là montre également les niveaux d
+
+281
+00:17:44,660 --> 00:17:50,540
+'énergie, la signification au milieu du rayonnement médical.
+
+282
+00:17:51,240 --> 00:17:55,640
+Ici le schéma, le premier atome, on a
+
+283
+00:17:55,640 --> 00:17:58,920
+un état fondamental, c'est à dire qu
+
+284
+00:17:58,920 --> 00:17:59,800
+'il n'y a pas d'émission de
+
+285
+00:17:59,800 --> 00:18:00,240
+rayonnement.
+
+286
+00:18:00,940 --> 00:18:07,460
+Lorsqu'un rayon photon vient déplacer un électron
+
+287
+00:18:07,460 --> 00:18:12,060
+à un niveau plus externe, on parle d
+
+288
+00:18:12,060 --> 00:18:13,060
+'un état excité.
+
+289
+00:18:14,840 --> 00:18:17,300
+L'atome qui est excité va se dés
+
+290
+00:18:17,300 --> 00:18:22,740
+-exciter et il va libérer un photon qui
+
+291
+00:18:22,740 --> 00:18:24,900
+est équivalent au photon initial.
+
+292
+00:18:24,900 --> 00:18:27,200
+Donc il y a un retour à l
+
+293
+00:18:27,200 --> 00:18:27,880
+'état fondamental.
+
+294
+00:18:28,120 --> 00:18:32,640
+Les niveaux d'énergie atomique peuvent être à
+
+295
+00:18:32,640 --> 00:18:35,200
+l'état fondamental, à l'état excité ou
+
+296
+00:18:35,200 --> 00:18:42,700
+à l'état fondamental.
+
+297
+00:18:50,030 --> 00:18:51,970
+La représentation pour le noyau.
+
+298
+00:18:55,040 --> 00:18:58,980
+Le noyau représente le symbole chimique d'un
+
+299
+00:18:58,980 --> 00:19:00,620
+élément X appelé nucléide.
+
+300
+00:19:02,200 --> 00:19:05,880
+Exemple ici, l'aluminium, le noyau d'aluminium,
+
+301
+00:19:06,640 --> 00:19:09,660
+qui contient 27, c'est le nombre de
+
+302
+00:19:09,660 --> 00:19:11,520
+masses, c'est à dire le nombre de
+
+303
+00:19:11,520 --> 00:19:13,680
+nucléons égale le nombre de neutrons plus le
+
+304
+00:19:13,680 --> 00:19:17,200
+nombre de protons, et le Z c'est
+
+305
+00:19:17,200 --> 00:19:18,800
+le nombre de protons qui est égal au
+
+306
+00:19:18,800 --> 00:19:20,460
+nombre d'électrons.
+
+307
+00:19:22,740 --> 00:19:24,740
+Le noyau d'un élément chimique est appelé
+
+308
+00:19:24,740 --> 00:19:26,320
+nucléide ou nuclide.
+
+309
+00:19:27,620 --> 00:19:32,000
+On utilise la représentation suivante X, A, Z.
+
+310
+00:19:33,200 --> 00:19:34,840
+A c'est le nombre de masses, Z
+
+311
+00:19:34,840 --> 00:19:38,360
+c'est le nombre atomique et N c
+
+312
+00:19:38,360 --> 00:19:39,640
+'est le nombre de neutrons.
+
+313
+00:19:52,180 --> 00:19:59,600
+Exemple pour l'hydrogène, le nombre de neutrons
+
+314
+00:19:59,600 --> 00:20:01,500
+égale à 1 et le nombre de protons
+
+315
+00:20:01,500 --> 00:20:02,160
+égale à 1.
+
+316
+00:20:05,210 --> 00:20:08,150
+Ici ce tableau montre un peu la différence
+
+317
+00:20:08,150 --> 00:20:12,910
+ou la comparaison entre le neutron et le
+
+318
+00:20:12,910 --> 00:20:13,270
+proton.
+
+319
+00:20:14,790 --> 00:20:18,450
+Le neutron c'est le grand nombre N,
+
+320
+00:20:18,650 --> 00:20:19,770
+c'est le nombre de neutrons.
+
+321
+00:20:20,850 --> 00:20:22,810
+La masse du neutron égale 1 6 fois
+
+322
+00:20:22,810 --> 00:20:24,390
+10 moins 27 kg.
+
+323
+00:20:25,450 --> 00:20:27,610
+La masse du neutron égale à peu près
+
+324
+00:20:27,610 --> 00:20:30,470
+la masse du proton, sa charge est nulle.
+
+325
+00:20:31,930 --> 00:20:34,070
+Et le grand N c'est le nombre
+
+326
+00:20:34,070 --> 00:20:36,230
+de neutrons égale le nombre de masses à
+
+327
+00:20:36,230 --> 00:20:38,390
+moins le nombre de protons.
+
+328
+00:20:41,510 --> 00:20:44,150
+La masse du noyau c'est la masse
+
+329
+00:20:44,150 --> 00:20:45,670
+de l'atome si l'on considère que
+
+330
+00:20:45,670 --> 00:20:47,230
+la masse de l'électron égale à 0.
+
+331
+00:20:48,450 --> 00:20:50,970
+Pour le proton, la masse du proton est
+
+332
+00:20:50,970 --> 00:20:52,710
+à peu près la même que la masse
+
+333
+00:20:52,710 --> 00:20:55,710
+du neutron, il est de 1,6 fois
+
+334
+00:20:55,710 --> 00:20:59,110
+10 moins 27 kg avec P est le
+
+335
+00:20:59,110 --> 00:21:04,710
+noyau de l'atome d'hydrogène, donc le
+
+336
+00:21:04,710 --> 00:21:05,090
+proton.
+
+337
+00:21:07,110 --> 00:21:11,670
+La masse du proton est 1836 fois plus
+
+338
+00:21:11,670 --> 00:21:15,290
+grande que la masse de l'électron.
+
+339
+00:21:15,410 --> 00:21:18,530
+La charge élémentaire est positive soit égale à
+
+340
+00:21:18,530 --> 00:21:20,970
+1,6 fois 10 moins 19 coulombs.
+
+341
+00:21:20,970 --> 00:21:23,610
+Le nombre total de ces nucléons égale à
+
+342
+00:21:23,610 --> 00:21:23,970
+A.
+
+343
+00:21:26,730 --> 00:21:28,010
+Et j'ai dit que le nombre de
+
+344
+00:21:28,010 --> 00:21:31,110
+masses c'est le nombre de protons plus
+
+345
+00:21:31,110 --> 00:21:32,110
+le nombre de neutrons.
+
+346
+00:21:32,970 --> 00:21:38,310
+La masse du proton est 1836 fois, on
+
+347
+00:21:38,310 --> 00:21:39,530
+a dit que c'est presque la même
+
+348
+00:21:39,530 --> 00:21:40,590
+que le neutron.
+
+349
+00:21:41,870 --> 00:21:45,450
+Donc 1836 fois la masse de l'électron.
+
+350
+00:21:46,450 --> 00:21:51,990
+Ici ce schéma, il va nous montrer que
+
+351
+00:21:51,990 --> 00:21:58,190
+la matière est à l'échelle atomique.
+
+352
+00:22:01,610 --> 00:22:03,450
+Il reine un vide.
+
+353
+00:22:05,330 --> 00:22:11,150
+Donc la taille entre l'atome et l
+
+354
+00:22:11,150 --> 00:22:14,930
+'électron le plus proche du noyau est le
+
+355
+00:22:14,930 --> 00:22:15,350
+noyau.
+
+356
+00:22:16,110 --> 00:22:17,770
+Il est de 10 à la puissance 5.
+
+357
+00:22:18,630 --> 00:22:20,250
+Donc la quasi-totalité de la masse d
+
+358
+00:22:20,250 --> 00:22:22,490
+'un atome est concentrée dans le noyau.
+
+359
+00:22:23,950 --> 00:22:26,530
+Et on peut comparer la masse du volume
+
+360
+00:22:26,530 --> 00:22:28,130
+d'un centimètre cube.
+
+361
+00:22:28,310 --> 00:22:30,250
+Donc vous voyez ici le schéma, c'est
+
+362
+00:22:30,250 --> 00:22:32,310
+un dé à coudre rempli d'atomes de
+
+363
+00:22:32,310 --> 00:22:32,490
+fer.
+
+364
+00:22:34,610 --> 00:22:37,610
+Et on peut le remplir par que des
+
+365
+00:22:37,610 --> 00:22:38,270
+noyaux de fer.
+
+366
+00:22:38,410 --> 00:22:41,030
+Donc la masse du dé à coudre est
+
+367
+00:22:41,030 --> 00:22:43,970
+de 1 centimètre cube.
+
+368
+00:22:44,590 --> 00:22:46,870
+Et qui peut être remplie par 7,8
+
+369
+00:22:46,870 --> 00:22:49,670
+grammes d'atomes de fer.
+
+370
+00:22:49,670 --> 00:22:52,210
+Donc il faut faire attention, on va différencier
+
+371
+00:22:52,210 --> 00:22:54,110
+entre l'atome et le noyau.
+
+372
+00:22:54,470 --> 00:22:57,530
+Si on place les noyaux de fer à
+
+373
+00:22:57,530 --> 00:22:58,070
+l'intérieur.
+
+374
+00:22:58,970 --> 00:23:01,550
+Alors on peut mettre 2 fois 10 à
+
+375
+00:23:01,550 --> 00:23:04,070
+la puissance 14 grammes.
+
+376
+00:23:04,170 --> 00:23:08,810
+Soit 200 millions de tonnes de noyaux de
+
+377
+00:23:08,810 --> 00:23:10,050
+fer dans un dé à coudre.
+
+378
+00:23:10,710 --> 00:23:13,770
+Donc ceci dit que la structure de l
+
+379
+00:23:13,770 --> 00:23:14,930
+'atome, il y a du vide.
+
+380
+00:23:14,930 --> 00:23:21,790
+Si on ne place que les noyaux, c
+
+381
+00:23:21,790 --> 00:23:24,310
+'est ce qui se passe dans l'univers.
+
+382
+00:23:24,470 --> 00:23:25,950
+Par exemple au soleil, il y a une
+
+383
+00:23:25,950 --> 00:23:27,010
+fusion des noyaux.
+
+384
+00:23:28,290 --> 00:23:29,850
+Des noyaux à neutrons.
+
+385
+00:23:30,410 --> 00:23:32,930
+Donc la matière est très condensée.
+
+386
+00:23:33,730 --> 00:23:34,950
+Et donc il y a une pression très
+
+387
+00:23:34,950 --> 00:23:35,510
+importante.
+
+388
+00:23:35,950 --> 00:23:39,070
+Et une température très importante au niveau du
+
+389
+00:23:39,070 --> 00:23:39,510
+soleil.
+
+390
+00:23:40,270 --> 00:23:45,590
+Donc c'est cet exemple qui va nous
+
+391
+00:23:45,590 --> 00:23:48,430
+montrer un peu la différence entre la vie
+
+392
+00:23:48,430 --> 00:23:50,690
+sur Terre et la vie dans les étoiles.
+
+393
+00:23:53,790 --> 00:23:56,930
+Donc des exemples des noyaux qu'on utilise.
+
+394
+00:23:57,930 --> 00:24:02,850
+Par exemple il y a 131.
+
+395
+00:24:03,810 --> 00:24:08,950
+53 on l'utilise dans la radio isotope.
+
+396
+00:24:10,170 --> 00:24:15,290
+Donc 53 protons et 78 neutrons.
+
+397
+00:24:15,770 --> 00:24:19,790
+Le technétium 99M est 43, donc 99M.
+
+398
+00:24:20,370 --> 00:24:21,630
+C'est à dire qu'il est métastable.
+
+399
+00:24:22,950 --> 00:24:26,910
+Le carbone 12, 6 protons et 6 neutrons.
+
+400
+00:24:28,310 --> 00:24:34,450
+Pour les particules élémentaires, un neutron peut contenir
+
+401
+00:24:34,450 --> 00:24:35,970
+N10.
+
+402
+00:24:37,330 --> 00:24:39,130
+Le proton c'est P11.
+
+403
+00:24:39,930 --> 00:24:41,530
+L'électron c'est E0.
+
+404
+00:24:43,550 --> 00:24:46,350
+Pour les niveaux d'énergie également, au niveau
+
+405
+00:24:46,350 --> 00:24:46,990
+du noyau.
+
+406
+00:24:46,990 --> 00:24:50,470
+On peut avoir comme l'atome, il y
+
+407
+00:24:50,470 --> 00:24:52,110
+a l'état fondamental du noyau.
+
+408
+00:24:52,730 --> 00:24:54,130
+Il y a l'état excité.
+
+409
+00:24:55,670 --> 00:24:57,250
+Et il y a l'état métastable.
+
+410
+00:24:59,410 --> 00:25:06,650
+Par exemple, le molybdenum 9942, on va dire
+
+411
+00:25:06,650 --> 00:25:13,490
+qu'il n'est pas stable.
+
+412
+00:25:13,490 --> 00:25:18,890
+Il va donner du technétium métastable 99M.
+
+413
+00:25:20,350 --> 00:25:22,470
+Donc métastable ça veut dire qu'il a
+
+414
+00:25:22,470 --> 00:25:24,990
+une durée de vie de plusieurs minutes.
+
+415
+00:25:26,210 --> 00:25:28,310
+Et puis il y a l'état excité,
+
+416
+00:25:28,790 --> 00:25:31,090
+c'est lorsque la durée de vie est
+
+417
+00:25:31,090 --> 00:25:32,410
+de quelques nanosecondes.
+
+418
+00:25:33,610 --> 00:25:38,310
+Donc ici par exemple le technétium 99M a
+
+419
+00:25:38,310 --> 00:25:41,910
+une durée de vie de 6 ans.
+
+420
+00:25:46,460 --> 00:25:49,400
+Les différents groupes de radio-éléments.
+
+421
+00:25:52,380 --> 00:25:56,120
+On peut donc déchiffrer 4 groupes de radio
+
+422
+00:25:56,120 --> 00:25:56,540
+-éléments.
+
+423
+00:25:56,740 --> 00:25:59,980
+Il y a les isotopes, les isobars, les
+
+424
+00:25:59,980 --> 00:26:01,840
+isotones et les isomers.
+
+425
+00:26:05,690 --> 00:26:08,050
+Pour les isotopes ce sont des nucléides d
+
+426
+00:26:08,050 --> 00:26:12,870
+'un élément chimique qui ont les mêmes propriétés
+
+427
+00:26:12,870 --> 00:26:13,290
+chimiques.
+
+428
+00:26:13,290 --> 00:26:14,710
+Ça veut dire un Z constant.
+
+429
+00:26:15,570 --> 00:26:19,030
+Donc le Z est constant, le nombre de
+
+430
+00:26:19,030 --> 00:26:19,390
+protons.
+
+431
+00:26:20,130 --> 00:26:22,670
+Mais le nombre de masses A est différent.
+
+432
+00:26:24,390 --> 00:26:27,330
+Donc N est différent.
+
+433
+00:26:28,830 --> 00:26:32,850
+Par exemple, il y a les isotopes du
+
+434
+00:26:32,850 --> 00:26:33,710
+noyau d'hydrogène.
+
+435
+00:26:33,930 --> 00:26:37,010
+Il y a le deutrium, il y a
+
+436
+00:26:37,010 --> 00:26:39,370
+l'hydrogène et le tritium.
+
+437
+00:26:40,810 --> 00:26:43,430
+Donc c'est les plus petits atomes de
+
+438
+00:26:43,430 --> 00:26:43,870
+l'univers.
+
+439
+00:26:44,930 --> 00:26:48,210
+Et il y a les isotopes les plus
+
+440
+00:26:48,210 --> 00:26:49,030
+gros presque.
+
+441
+00:26:49,590 --> 00:26:52,470
+C'est l'uranium, l'isotope d'uranium.
+
+442
+00:26:53,330 --> 00:26:59,410
+Donc l'uranium 23492, l'uranium 23592 et
+
+443
+00:26:59,410 --> 00:27:01,670
+l'uranium 23892.
+
+444
+00:27:01,670 --> 00:27:05,370
+Donc il faut vous remarquer qu'ils ont
+
+445
+00:27:05,370 --> 00:27:08,510
+le même nombre Z qui est égal à
+
+446
+00:27:08,510 --> 00:27:09,230
+92.
+
+447
+00:27:13,520 --> 00:27:17,960
+Les isobars, c'est lorsque des noyaux ont
+
+448
+00:27:17,960 --> 00:27:20,660
+un nombre de masse A qui est constant,
+
+449
+00:27:21,340 --> 00:27:23,840
+alors que le nombre Z de protons est
+
+450
+00:27:23,840 --> 00:27:24,260
+différent.
+
+451
+00:27:26,960 --> 00:27:31,260
+Donc on va voir après les transformations isobariques
+
+452
+00:27:32,740 --> 00:27:35,360
+avec une conservation du nombre de masse A.
+
+453
+00:27:36,080 --> 00:27:39,640
+L'exemple c'est le carbone 14, 6
+
+454
+00:27:39,640 --> 00:27:41,220
+et l'azote 14, 7.
+
+455
+00:27:41,420 --> 00:27:42,800
+Donc ils ont le même nombre de masse
+
+456
+00:27:42,800 --> 00:27:43,100
+A.
+
+457
+00:27:44,620 --> 00:27:49,820
+Ici ce tableau montre quelques isobars qui ont
+
+458
+00:27:49,820 --> 00:27:53,400
+le A, le M, le Th, le P,
+
+459
+00:27:53,580 --> 00:27:55,040
+le N et le V.
+
+460
+00:27:56,760 --> 00:28:00,720
+Mais d'autres radio-éléments qui sont isobars.
+
+461
+00:28:02,760 --> 00:28:06,680
+Les isomers ce sont des noyaux identiques mais
+
+462
+00:28:06,680 --> 00:28:08,840
+du niveau d'énergie différent.
+
+463
+00:28:10,500 --> 00:28:13,940
+Donc exemple on a vu le technétium 99M
+
+464
+00:28:14,600 --> 00:28:18,020
+qui va donner le technétium 99 qui est
+
+465
+00:28:18,020 --> 00:28:18,340
+stable.
+
+466
+00:28:19,040 --> 00:28:23,040
+Déjà le technétium 99M c'est un noyau
+
+467
+00:28:23,040 --> 00:28:25,080
+qui est métastable, c'est à dire qu
+
+468
+00:28:25,080 --> 00:28:26,340
+'il a une durée de vie qui est
+
+469
+00:28:26,340 --> 00:28:28,980
+petite, de l'ordre de 6 ans.
+
+470
+00:28:33,360 --> 00:28:36,060
+Et le technétium métastable va se transformer en
+
+471
+00:28:36,060 --> 00:28:39,640
+transition isomérique en donnant un rayon moins gamma
+
+472
+00:28:39,640 --> 00:28:40,920
+de 141 kV.
+
+473
+00:28:42,760 --> 00:28:46,320
+Donc ça c'est la réaction qui se
+
+474
+00:28:46,320 --> 00:28:50,800
+tient, la réaction nucléaire du technétium métastable en
+
+475
+00:28:50,800 --> 00:28:51,700
+technétium stable.
+
+476
+00:28:54,200 --> 00:28:58,680
+Les isotones ont un nombre de neutrons identique
+
+477
+00:28:58,680 --> 00:29:00,880
+et un Z, c'est à dire un
+
+478
+00:29:00,880 --> 00:29:06,200
+nombre de protons qui sont différents.
+
+479
+00:29:06,980 --> 00:29:10,380
+Donc le tableau nous montre des isotones, on
+
+480
+00:29:10,380 --> 00:29:11,000
+parle de N.
+
+481
+00:29:14,660 --> 00:29:16,880
+Ce schéma là il résume un peu.
+
+482
+00:29:17,020 --> 00:29:20,120
+Les isobars qui barrent la lettre A à
+
+483
+00:29:20,120 --> 00:29:23,820
+la fin du terme, ça veut dire qu
+
+484
+00:29:23,820 --> 00:29:24,680
+'ils ont le même A.
+
+485
+00:29:25,340 --> 00:29:28,100
+Les isotones ont le même nombre de neutrons
+
+486
+00:29:28,100 --> 00:29:32,620
+et les isotopes ont le même nombre de
+
+487
+00:29:32,620 --> 00:29:33,820
+protons donc de Z.
+
+488
+00:29:37,060 --> 00:29:41,240
+La dualité entre corpuscules, il y a toujours
+
+489
+00:29:41,240 --> 00:29:44,620
+cette dualité, ça veut dire que l'onde,
+
+490
+00:29:45,280 --> 00:29:52,580
+une énergie électromagnétique, peut donner de la matière,
+
+491
+00:29:53,220 --> 00:29:56,280
+d'ailleurs on va le voir dans la
+
+492
+00:29:56,280 --> 00:30:00,660
+transformation des réactions nucléaires.
+
+493
+00:30:02,640 --> 00:30:05,700
+Et ceci dit que monsieur Einstein, il a
+
+494
+00:30:05,700 --> 00:30:11,880
+déposé qu'une onde électromagnétique a une énergie
+
+495
+00:30:11,880 --> 00:30:15,580
+E qui est en fonction de la constante
+
+496
+00:30:15,580 --> 00:30:20,720
+de Planck-H qui est 6,34 Joules
+
+497
+00:30:20,720 --> 00:30:23,280
+secondes fois la fréquence du rayonnement.
+
+498
+00:30:25,300 --> 00:30:32,380
+Et il peut être E égale H mu
+
+499
+00:30:32,380 --> 00:30:33,920
+ou HC sur lambda.
+
+500
+00:30:35,780 --> 00:30:40,380
+Les rayonnements électromagnétiques, ce sont des rayonnements qui
+
+501
+00:30:40,380 --> 00:30:42,340
+ont à la fois un champ magnétique et
+
+502
+00:30:42,340 --> 00:30:43,320
+un champ nucléaire.
+
+503
+00:30:44,220 --> 00:30:47,260
+Ils sont caractérisés par leur énergie.
+
+504
+00:30:49,460 --> 00:30:52,260
+Les rayonnements ionisants ont une énergie très élevée
+
+505
+00:30:52,260 --> 00:30:55,480
+donc ils peuvent ioniser la matière vivante d
+
+506
+00:30:55,480 --> 00:31:00,340
+'où leur danger et leur activité médicale.
+
+507
+00:31:04,060 --> 00:31:09,060
+Ce schéma-là montre les différentes gammes de
+
+508
+00:31:09,060 --> 00:31:09,500
+rayonnements.
+
+509
+00:31:09,660 --> 00:31:11,360
+Il y a les rayonnements cosmiques, les rayonnements
+
+510
+00:31:11,360 --> 00:31:15,360
+gamma, la radioactivité naturelle, les rayonnements X qui
+
+511
+00:31:15,360 --> 00:31:17,700
+sont ionisants donc très élevés.
+
+512
+00:31:17,940 --> 00:31:21,200
+Vous voyez que la lumière visible a une
+
+513
+00:31:21,200 --> 00:31:25,080
+énergie très faible, et puis il y a
+
+514
+00:31:25,080 --> 00:31:29,080
+les autres rayonnements, les ondes radio, les micro
+
+515
+00:31:29,080 --> 00:31:34,280
+-ondes qui ont des énergies plus faibles.
+
+516
+00:31:37,680 --> 00:31:42,600
+Ce schéma montre un peu les différentes utilités
+
+517
+00:31:42,600 --> 00:31:44,820
+de ces rayonnements ionisants.
+
+518
+00:31:45,440 --> 00:31:51,280
+Sur la photo au milieu, c'est une
+
+519
+00:31:51,280 --> 00:31:56,160
+scintigraphe qui utilise des rayonnements gamma pour visualiser
+
+520
+00:31:56,160 --> 00:31:57,560
+le squelette d'un patient.
+
+521
+00:31:58,560 --> 00:32:00,200
+C'est ce qu'on appelle la scintigraphe.
+
+522
+00:32:01,020 --> 00:32:05,760
+Cette deuxième photographie, c'est la radiographie du
+
+523
+00:32:05,760 --> 00:32:06,080
+poumon.
+
+524
+00:32:06,880 --> 00:32:08,120
+Il utilise des rayonnements X.
+
+525
+00:32:09,240 --> 00:32:15,520
+L'autre, en haut à droite, représente l
+
+526
+00:32:15,520 --> 00:32:16,120
+'échographie.
+
+527
+00:32:16,120 --> 00:32:19,220
+C'est par les ultrasons qu'il y
+
+528
+00:32:19,220 --> 00:32:20,140
+a du signal physique.
+
+529
+00:32:21,860 --> 00:32:25,120
+Et puis il y a l'IRM, l
+
+530
+00:32:25,120 --> 00:32:29,200
+'imagerie par résonance magnétique nucléaire, par le signal
+
+531
+00:32:29,200 --> 00:32:31,400
+distinct du noyau d'hydrogène.
+
+532
+00:32:32,500 --> 00:32:35,640
+Et puis les rayonnements de la lumière visible,
+
+533
+00:32:35,900 --> 00:32:38,700
+on peut les appliquer dans tout ce qui
+
+534
+00:32:38,700 --> 00:32:41,300
+est sang de gastrique, donc c'est des
+
+535
+00:32:41,300 --> 00:32:42,980
+fibres optiques.
+
+536
+00:32:45,340 --> 00:32:48,820
+Quelques grandeurs et mesures à l'échelle atomique.
+
+537
+00:32:52,000 --> 00:32:55,500
+Pour l'organisme, on peut utiliser l'échelle
+
+538
+00:32:55,500 --> 00:32:59,760
+du mètre, du système MKSA, donc mètre, kilogramme,
+
+539
+00:33:00,080 --> 00:33:00,860
+seconde et ampère.
+
+540
+00:33:02,120 --> 00:33:06,460
+Pour les organes, on utilise les dimensions de
+
+541
+00:33:06,460 --> 00:33:09,020
+distance centimètre, qui est de 10 moins 2
+
+542
+00:33:09,020 --> 00:33:09,280
+mètres.
+
+543
+00:33:09,280 --> 00:33:12,020
+Pour les molécules, c'est de 10 moins
+
+544
+00:33:12,020 --> 00:33:13,960
+6 mètres, ça veut dire que c'est
+
+545
+00:33:13,960 --> 00:33:14,500
+le micron.
+
+546
+00:33:15,240 --> 00:33:17,580
+Pour l'atome, on a vu que c
+
+547
+00:33:17,580 --> 00:33:19,420
+'est l'extrême 10 moins 10 mètres.
+
+548
+00:33:19,920 --> 00:33:22,820
+Et pour le noyau, c'est le fermion,
+
+549
+00:33:23,620 --> 00:33:25,220
+ou le fermier, 10 moins 15 mètres.
+
+550
+00:33:28,700 --> 00:33:31,420
+Pour l'énergie, il y a le joule
+
+551
+00:33:31,420 --> 00:33:34,180
+pour le système MKSA.
+
+552
+00:33:35,120 --> 00:33:37,720
+Et pour le système CGS, c'est l
+
+553
+00:33:37,720 --> 00:33:44,480
+'ERC et l'électrovolte pour la physique quantique.
+
+554
+00:33:45,200 --> 00:33:47,780
+Un électrovolte égale 1,6 fois 10 moins
+
+555
+00:33:47,780 --> 00:33:48,600
+19 joules.
+
+556
+00:33:49,340 --> 00:33:51,780
+D'ailleurs, un électrovolte, c'est la force,
+
+557
+00:33:52,400 --> 00:33:55,240
+ou c'est l'énergie, la force de
+
+558
+00:33:55,240 --> 00:33:58,860
+travail ou l'énergie, que fait un électron
+
+559
+00:33:58,860 --> 00:34:02,160
+pour se déplacer dans un champ de différence
+
+560
+00:34:02,160 --> 00:34:03,440
+de potentiel de 1 V.
+
+561
+00:34:07,659 --> 00:34:09,520
+Deux points de vue pour les masses.
+
+562
+00:34:10,780 --> 00:34:13,420
+Il y a le kilogramme pour l'organisme.
+
+563
+00:34:14,020 --> 00:34:16,159
+Pour les organes, il y a le gramme.
+
+564
+00:34:17,040 --> 00:34:19,860
+Et dans la physique quantique, on a l
+
+565
+00:34:19,860 --> 00:34:21,139
+'unité de masse atomique.
+
+566
+00:34:24,520 --> 00:34:26,280
+Alors, c'est quoi l'unité de masse
+
+567
+00:34:26,280 --> 00:34:28,280
+atomique ?
+
+568
+00:34:28,800 --> 00:34:30,920
+L'unité de masse atomique est définie depuis
+
+569
+00:34:30,920 --> 00:34:31,699
+les années 60.
+
+570
+00:34:31,699 --> 00:34:33,719
+C'est le douzième de la masse de
+
+571
+00:34:33,719 --> 00:34:34,199
+l'atome.
+
+572
+00:34:34,500 --> 00:34:35,960
+Donc, il faut faire attention, c'est la
+
+573
+00:34:35,960 --> 00:34:37,480
+masse de l'atome du carbone 12.
+
+574
+00:34:38,060 --> 00:34:39,600
+Le carbone 12, il est stable.
+
+575
+00:34:41,139 --> 00:34:43,679
+Et donc, c'est le douzième de cet
+
+576
+00:34:43,679 --> 00:34:44,500
+atome.
+
+577
+00:34:45,139 --> 00:34:49,980
+Et puisque le carbone 12 contient 12 protons,
+
+578
+00:34:51,840 --> 00:34:58,460
+donc une molle de carbone 12 d'atome,
+
+579
+00:34:58,600 --> 00:34:59,600
+c'est N atomes.
+
+580
+00:34:59,600 --> 00:35:01,640
+N, c'est le nombre d'avogadro.
+
+581
+00:35:02,600 --> 00:35:04,820
+Et donc, le carbone 12, il a pour
+
+582
+00:35:04,820 --> 00:35:06,900
+masse mollaire 12 grammes, c'est-à-dire
+
+583
+00:35:06,900 --> 00:35:08,040
+la masse d'un atome.
+
+584
+00:35:08,720 --> 00:35:10,860
+On fait la règle de 3 et on
+
+585
+00:35:10,860 --> 00:35:12,820
+va avoir que l'unité de masse atomique,
+
+586
+00:35:12,900 --> 00:35:14,900
+c'est le douzième, c'est 1 sur
+
+587
+00:35:14,900 --> 00:35:15,780
+12 fois 12.
+
+588
+00:35:17,480 --> 00:35:18,860
+Donc, c'est 1 sur N.
+
+589
+00:35:20,240 --> 00:35:21,640
+N, on a dit, c'est le nombre
+
+590
+00:35:21,640 --> 00:35:22,340
+d'avogadro.
+
+591
+00:35:22,480 --> 00:35:24,620
+Donc, c'est 1 sur 6,023 fois
+
+592
+00:35:24,620 --> 00:35:26,780
+10 moins 23 fois 10 puissance 23.
+
+593
+00:35:26,780 --> 00:35:29,420
+Ce qui va nous donner 1,6 fois
+
+594
+00:35:29,420 --> 00:35:30,780
+10 moins 24 grammes.
+
+595
+00:35:32,640 --> 00:35:35,520
+Et donc, c'est la masse de l
+
+596
+00:35:35,520 --> 00:35:38,580
+'unité de masse atomique, égale 1,6 fois
+
+597
+00:35:38,580 --> 00:35:40,440
+10 moins 27 kilogrammes.
+
+598
+00:35:56,120 --> 00:35:57,780
+Le défaut de masse est l'énergie de
+
+599
+00:35:57,780 --> 00:35:58,080
+liaison.
+
+600
+00:35:59,160 --> 00:36:02,720
+Donc, si on sépare les constituants du noyau,
+
+601
+00:36:02,840 --> 00:36:04,380
+c'est-à-dire les protons et les
+
+602
+00:36:04,380 --> 00:36:11,500
+neutrons, on va voir que leur masse est
+
+603
+00:36:11,500 --> 00:36:16,700
+plus lourde que le noyau qui est uni.
+
+604
+00:36:17,660 --> 00:36:20,860
+Et donc, la différence entre ces deux éléments,
+
+605
+00:36:21,100 --> 00:36:22,760
+c'est ce qu'on appelle le défaut
+
+606
+00:36:22,760 --> 00:36:26,780
+de masse ou l'énergie de liaison du
+
+607
+00:36:26,780 --> 00:36:27,100
+noyau.
+
+608
+00:36:29,140 --> 00:36:30,680
+C'est un exemple.
+
+609
+00:36:31,460 --> 00:36:34,720
+Le noyau d'hélium, deux protons plus deux
+
+610
+00:36:34,720 --> 00:36:35,120
+neutrons.
+
+611
+00:36:35,420 --> 00:36:38,840
+Leur unité de masse atomique est de 4
+
+612
+00:36:38,840 --> 00:36:39,600
+,03.
+
+613
+00:36:40,220 --> 00:36:42,360
+Elle est supérieure que la masse du noyau
+
+614
+00:36:42,360 --> 00:36:44,900
+qui est de 4,003.
+
+615
+00:36:47,000 --> 00:36:50,940
+Le tableau de Mendeleïev, c'est un Russe,
+
+616
+00:36:51,180 --> 00:36:53,560
+qui est établi en 1869.
+
+617
+00:36:54,820 --> 00:37:00,220
+Il construit l'ensemble des constituants qui se
+
+618
+00:37:00,220 --> 00:37:01,920
+trouvent sur la Terre.
+
+619
+00:37:01,920 --> 00:37:07,720
+Ainsi, il souligne la périodicité de leurs propriétés
+
+620
+00:37:07,720 --> 00:37:08,200
+chimiques.
+
+621
+00:37:11,080 --> 00:37:14,420
+C'est le premier tableau de Mendeleïev qui
+
+622
+00:37:14,420 --> 00:37:18,640
+classe les différentes constituants du noyau.
+
+623
+00:37:24,100 --> 00:37:32,880
+Le tableau de Mendeleïev, actualisé, représente les états
+
+624
+00:37:35,220 --> 00:37:40,580
+périodiques des éléments à une température de 0°C
+
+625
+00:37:40,580 --> 00:37:42,300
+et une pression d'une atmosphère.
+
+626
+00:37:44,880 --> 00:37:48,980
+Pour les gaz qui sont marqués en rouge,
+
+627
+00:37:50,120 --> 00:37:55,340
+des numéros en rouge, par exemple, il y
+
+628
+00:37:55,340 --> 00:37:59,520
+a l'oxygène, le fluor, les gaz rares.
+
+629
+00:38:01,720 --> 00:38:06,340
+Pour tout ce qui est en bleu, chiffré
+
+630
+00:38:06,340 --> 00:38:08,920
+en bleu, c'est des liquides.
+
+631
+00:38:12,420 --> 00:38:15,880
+Et ceux en noir, liquides tels que l
+
+632
+00:38:15,880 --> 00:38:16,480
+'hydrogène.
+
+633
+00:38:17,620 --> 00:38:19,720
+Ceux en noir, c'est des solides tels
+
+634
+00:38:19,720 --> 00:38:21,700
+que le beryllium, le manésium, le calcium.
+
+635
+00:38:23,220 --> 00:38:25,080
+Et ceux qui sont en trait continu, c
+
+636
+00:38:25,080 --> 00:38:26,680
+'est des éléments primordiaux.
+
+637
+00:38:27,420 --> 00:38:29,660
+Ceux en tiré épais, c'est des produits
+
+638
+00:38:29,660 --> 00:38:31,320
+de désintégration d'autres éléments.
+
+639
+00:38:32,060 --> 00:38:33,900
+Et ceux qui sont en pointillé clair, c
+
+640
+00:38:33,900 --> 00:38:36,200
+'est des éléments synthétiques artificiels.
+
+641
+00:38:37,280 --> 00:38:40,100
+C'est la légende de ces éléments sur
+
+642
+00:38:40,100 --> 00:38:41,480
+le tableau périodique de Medellín.
+
+643
+00:38:45,360 --> 00:38:49,520
+Ce tableau a reconnu de nombreux réajustements depuis
+
+644
+00:38:49,520 --> 00:38:51,980
+l'or jusqu'à la forme que nous
+
+645
+00:38:51,980 --> 00:38:54,160
+connaissons aujourd'hui.
+
+646
+00:38:55,500 --> 00:38:59,180
+En 2016, sa forme standard comportait 118 éléments
+
+647
+00:38:59,180 --> 00:39:02,960
+allant de l'hydrogène H1 à l'organe
+
+648
+00:39:02,960 --> 00:39:03,340
+S1.
+
+649
+00:39:04,680 --> 00:39:06,840
+J'ai fini ce cours.
+
+650
+00:39:08,320 --> 00:39:11,800
+Je montre également une deuxième fois cette photo
+
+651
+00:39:11,800 --> 00:39:14,220
+de démarrage.
+
+652
+00:39:14,780 --> 00:39:18,540
+C'est en 1927, après 16 ans.
+
+653
+00:39:18,840 --> 00:39:24,120
+Vous voyez l'état de ces savants qui
+
+654
+00:39:24,120 --> 00:39:32,140
+ont toujours organisé ces conférences de Solvay à
+
+655
+00:39:32,140 --> 00:39:33,220
+Bruxelles, en Belgique.
+
+656
+00:39:33,820 --> 00:39:37,760
+Vous voyez donc Mme Marie Curie qui a
+
+657
+00:39:37,760 --> 00:39:38,280
+vieilli.
+
+658
+00:39:38,480 --> 00:39:39,040
+Également M.
+
+659
+00:39:39,220 --> 00:39:41,820
+Einstein qui n'est plus jeune.
+
+660
+00:39:43,180 --> 00:39:44,380
+Je vous remercie.

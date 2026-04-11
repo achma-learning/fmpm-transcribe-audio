@@ -1,0 +1,2847 @@
+1
+00:00:00,970 --> 00:00:05,210
+Bonjour, c'est toujours un plaisir de vous
+
+2
+00:00:05,210 --> 00:00:09,270
+revoir à travers ce cours des bases fondamentales
+
+3
+00:00:09,270 --> 00:00:10,190
+de l'oncogénèse.
+
+4
+00:00:11,570 --> 00:00:14,530
+C'est Dr Reis Hanan, enseignante d'anatomie
+
+5
+00:00:14,530 --> 00:00:15,329
+pathologique.
+
+6
+00:00:16,590 --> 00:00:19,490
+Et là, je vous définis le cancer.
+
+7
+00:00:19,610 --> 00:00:20,470
+Le cancer c'est quoi?
+
+8
+00:00:21,030 --> 00:00:24,370
+C'est une prolifération cellulaire excessive de cellules
+
+9
+00:00:24,370 --> 00:00:28,690
+devenues peu sensibles ou insensibles aux mécanismes d
+
+10
+00:00:28,690 --> 00:00:32,310
+'homéostasie cellulaire et ayant acquis la capacité de
+
+11
+00:00:32,310 --> 00:00:34,090
+proliférer indéfiniment.
+
+12
+00:00:35,510 --> 00:00:38,890
+Les cellules tumorales vont acquérir de nombreuses altérations
+
+13
+00:00:38,890 --> 00:00:43,230
+génotypiques qui sont soit acquises, soit héréditaires.
+
+14
+00:00:43,810 --> 00:00:48,730
+Et ils vont acquérir un phénotype tumoral caractéristique
+
+15
+00:00:48,730 --> 00:00:53,870
+ayant un aspect morphologique et fonctionnel qui se
+
+16
+00:00:53,870 --> 00:00:56,510
+rapproche plus ou moins à la cellule qui
+
+17
+00:00:56,510 --> 00:00:57,670
+lui a donné naissance.
+
+18
+00:00:58,130 --> 00:01:01,290
+Tout ça, on va l'expliciter dans les
+
+19
+00:01:01,290 --> 00:01:03,090
+diapos suivantes.
+
+20
+00:01:06,550 --> 00:01:09,530
+Alors, l'oncogénèse c'est la même chose
+
+21
+00:01:09,530 --> 00:01:11,010
+que la carcinogénèse.
+
+22
+00:01:11,510 --> 00:01:14,590
+C'est un processus de transformation malignée.
+
+23
+00:01:14,590 --> 00:01:17,330
+Elle aboutit à la formation d'un cancer
+
+24
+00:01:17,330 --> 00:01:22,370
+qui est caractérisé par une accumulation d'altérations
+
+25
+00:01:22,370 --> 00:01:25,690
+génétiques dans une cellule normale.
+
+26
+00:01:26,370 --> 00:01:29,550
+Cette cellule normale va devenir anormale.
+
+27
+00:01:29,750 --> 00:01:32,950
+Elle va se diviser de façon incontrôlée.
+
+28
+00:01:33,690 --> 00:01:36,370
+Son programme cellulaire va être chamboulé.
+
+29
+00:01:36,850 --> 00:01:39,330
+Elle n'aura comme objectif que proliférer.
+
+30
+00:01:39,330 --> 00:01:44,070
+Donc, elle va oublier qu'elle prenait naissance
+
+31
+00:01:44,070 --> 00:01:45,130
+du tissu d'origine.
+
+32
+00:01:46,010 --> 00:01:49,450
+Elle va s'éloigner de l'aspect morphologique
+
+33
+00:01:49,450 --> 00:01:50,690
+de la cellule d'origine.
+
+34
+00:01:51,130 --> 00:01:53,650
+Et voire même, elle va oublier ses fonctions.
+
+35
+00:01:54,750 --> 00:02:00,070
+Normalement, si on a une cellule branchique, un
+
+36
+00:02:00,070 --> 00:02:02,930
+épithélome de type respiratoire qui devient un cancer,
+
+37
+00:02:02,930 --> 00:02:07,070
+elle va oublier qu'elle sécrétait le mucus.
+
+38
+00:02:07,669 --> 00:02:10,110
+Et elle va s'éloigner un peu progressivement
+
+39
+00:02:10,110 --> 00:02:12,390
+de sa morphologie initiale.
+
+40
+00:02:12,590 --> 00:02:17,250
+L'oncogénèse est un mécanisme essentiel qui repose
+
+41
+00:02:17,250 --> 00:02:20,570
+sur l'activation de certains oncogènes et l
+
+42
+00:02:20,570 --> 00:02:23,130
+'inactivation de l'entier oncogène.
+
+43
+00:02:24,830 --> 00:02:27,810
+Comme vous le savez, le cycle cellulaire est
+
+44
+00:02:27,810 --> 00:02:31,550
+contrôlé par des activateurs et des inhibiteurs de
+
+45
+00:02:31,550 --> 00:02:32,070
+croissance.
+
+46
+00:02:33,190 --> 00:02:38,810
+Alors, il y a des gènes qui vont
+
+47
+00:02:38,810 --> 00:02:42,530
+activer la division cellulaire normale.
+
+48
+00:02:42,770 --> 00:02:43,890
+Il y a d'autres qui vont l
+
+49
+00:02:43,890 --> 00:02:44,350
+'inhibir.
+
+50
+00:02:44,910 --> 00:02:46,570
+Et donc, il y a un équilibre, une
+
+51
+00:02:46,570 --> 00:02:51,230
+balance entre la prolifération et la différenciation cellulaire
+
+52
+00:02:51,230 --> 00:02:52,390
+et l'apoptose.
+
+53
+00:02:55,450 --> 00:02:58,070
+Ce qui est important à dire, c'est
+
+54
+00:02:58,070 --> 00:03:02,210
+que ce système, vous connaissez le cycle cellulaire,
+
+55
+00:03:02,310 --> 00:03:03,850
+vous l'avez étudié en première année.
+
+56
+00:03:04,170 --> 00:03:06,110
+C'est un cycle qui commence par la
+
+57
+00:03:06,110 --> 00:03:08,970
+phase G0, où les cellules sont au repos.
+
+58
+00:03:09,130 --> 00:03:10,930
+Puis la phase G1, où il y a
+
+59
+00:03:10,930 --> 00:03:15,090
+une activation d'oncogènes, surtout l'oncogène race.
+
+60
+00:03:15,090 --> 00:03:19,190
+Pour passer de G1 à S, il y
+
+61
+00:03:19,190 --> 00:03:24,830
+aura une inactivation de gènes suppresseurs de tumeurs,
+
+62
+00:03:25,430 --> 00:03:27,870
+notamment la P16 et la RB.
+
+63
+00:03:28,610 --> 00:03:32,870
+Normalement, la RB est reliée à la protéine
+
+64
+00:03:32,870 --> 00:03:33,750
+E2F.
+
+65
+00:03:34,290 --> 00:03:37,930
+Cette liaison inhibe la prolifération cellulaire.
+
+66
+00:03:37,930 --> 00:03:42,210
+Lorsqu'il y a libération de E2F avec
+
+67
+00:03:42,210 --> 00:03:44,470
+la RB, il y aura un passage de
+
+68
+00:03:44,470 --> 00:03:45,570
+la G1 à S.
+
+69
+00:03:46,190 --> 00:03:48,970
+Et puis, pendant la phase de synthèse de
+
+70
+00:03:48,970 --> 00:03:52,350
+l'ADN, cette phase est inhibée par les
+
+71
+00:03:52,350 --> 00:03:55,210
+télomérases, raccourcissement des télomérases.
+
+72
+00:03:55,390 --> 00:03:57,670
+C'est-à-dire que lorsque les extrémités
+
+73
+00:03:57,670 --> 00:04:02,350
+de chromosomes sont raccourcies, par vieillissement, par prolifération
+
+74
+00:04:02,350 --> 00:04:05,570
+importante, la cellule arrête de proliférer.
+
+75
+00:04:05,570 --> 00:04:09,430
+Pendant la phase G2, on aura une accumulation
+
+76
+00:04:09,430 --> 00:04:12,430
+de mutations.
+
+77
+00:04:13,110 --> 00:04:15,870
+Et puis, on aura un passage à la
+
+78
+00:04:15,870 --> 00:04:17,290
+phase de mitose.
+
+79
+00:04:18,510 --> 00:04:20,690
+Pendant chaque phase, il y a des gènes
+
+80
+00:04:20,690 --> 00:04:26,110
+suppresseurs de tumeurs, des gènes inhibiteurs de tumeurs
+
+81
+00:04:26,110 --> 00:04:29,850
+et des gènes oncogènes qui rentrent en jeu
+
+82
+00:04:29,850 --> 00:04:30,970
+avec d'autres gènes.
+
+83
+00:04:30,970 --> 00:04:34,170
+Notamment les gènes qui réparent l'ADN, notamment
+
+84
+00:04:34,170 --> 00:04:41,250
+BRCA1, BRCA2 et aussi les télomérases qui jouent
+
+85
+00:04:41,250 --> 00:04:43,710
+un rôle important dans l'arrêt de prolifération
+
+86
+00:04:43,710 --> 00:04:44,090
+de tumeurs.
+
+87
+00:04:45,550 --> 00:04:47,970
+Un tissu sain est le résultat d'une
+
+88
+00:04:47,970 --> 00:04:51,150
+juxtaposition d'un grand nombre de cellules identiques.
+
+89
+00:04:51,310 --> 00:04:55,450
+A chaque instant, le nombre de cellules qui
+
+90
+00:04:55,450 --> 00:04:57,810
+naissent est équivalent au nombre de cellules qui
+
+91
+00:04:57,810 --> 00:05:00,390
+meurent, ce qui donne une homeostasie.
+
+92
+00:05:00,390 --> 00:05:02,590
+Un gramme de tissu c'est 10 à
+
+93
+00:05:02,590 --> 00:05:04,850
+la puissance 9 cellules et l'organisme c
+
+94
+00:05:04,850 --> 00:05:08,070
+'est 6, 10 à la puissance 13 de
+
+95
+00:05:08,070 --> 00:05:08,470
+cellules.
+
+96
+00:05:09,950 --> 00:05:13,090
+La naissance d'un cancer est secondaire à
+
+97
+00:05:13,090 --> 00:05:16,210
+la rupture de l'équilibre et à la
+
+98
+00:05:16,210 --> 00:05:18,830
+perte de l'autocontrôle cellulaire.
+
+99
+00:05:19,850 --> 00:05:23,150
+Quelques définitions et quelques notions de terminologie.
+
+100
+00:05:23,150 --> 00:05:25,990
+Les principaux types de cancers, on les a
+
+101
+00:05:25,990 --> 00:05:29,050
+vu, les plus importants, les plus fréquents, c
+
+102
+00:05:29,050 --> 00:05:30,390
+'est les carcinomes.
+
+103
+00:05:30,550 --> 00:05:33,490
+C'est les cancers de l'épithélium, c
+
+104
+00:05:33,490 --> 00:05:37,890
+'est toute prolifération tumorale maligne qui prénaissance à
+
+105
+00:05:37,890 --> 00:05:40,850
+partir d'une cellule épithéliale et qui exprime
+
+106
+00:05:40,850 --> 00:05:42,270
+la cytokératine.
+
+107
+00:05:43,630 --> 00:05:46,210
+Les sarcomes, c'est les cancers de tissus
+
+108
+00:05:46,210 --> 00:05:47,010
+conjonctifs.
+
+109
+00:05:47,010 --> 00:05:51,090
+Ils constituent moins de 1% de tous
+
+110
+00:05:51,090 --> 00:05:51,930
+les cancers.
+
+111
+00:05:52,450 --> 00:05:53,190
+Ils sont agressifs.
+
+112
+00:05:53,930 --> 00:05:57,510
+Les cancers hématologiques, c'est les lymphomes qui
+
+113
+00:05:57,510 --> 00:06:00,590
+naissent à partir de tissus lymphoïdes, les leucémies
+
+114
+00:06:00,590 --> 00:06:02,830
+qui se développent énormément au niveau du sang
+
+115
+00:06:02,830 --> 00:06:06,250
+et le myelomultiple et d'autres cancers comme
+
+116
+00:06:06,250 --> 00:06:11,530
+le mélanome et comme les tumeurs germinales et
+
+117
+00:06:11,530 --> 00:06:12,670
+les tumeurs embryonnaires.
+
+118
+00:06:14,090 --> 00:06:15,810
+Alors, c'est quoi un cancer?
+
+119
+00:06:15,990 --> 00:06:18,010
+Ça, c'est une équation à apprendre.
+
+120
+00:06:18,510 --> 00:06:21,450
+C'est une cellule cancéreuse plus stroma réaction.
+
+121
+00:06:22,010 --> 00:06:23,870
+C'est ça la définition d'un cancer.
+
+122
+00:06:24,270 --> 00:06:25,490
+C'est quoi la stroma réaction?
+
+123
+00:06:25,710 --> 00:06:27,770
+C'est le tissu qui va nourrir la
+
+124
+00:06:27,770 --> 00:06:29,990
+cellule cancéreuse et qui provient de l'autre
+
+125
+00:06:29,990 --> 00:06:34,750
+et qui a des particularités propres au cancer,
+
+126
+00:06:34,930 --> 00:06:37,230
+peut-être abondant, peu abondant, riche en vaisseaux,
+
+127
+00:06:37,350 --> 00:06:37,590
+etc.
+
+128
+00:06:38,270 --> 00:06:42,010
+Une cellule cancéreuse seule ou bien plusieurs cellules
+
+129
+00:06:42,010 --> 00:06:43,890
+cancéreuses ne donnent pas un cancer s'ils
+
+130
+00:06:43,890 --> 00:06:45,810
+ne sont pas associés à une stroma réaction.
+
+131
+00:06:46,230 --> 00:06:49,050
+L'exemple, c'est la dysplasie de Haugrad
+
+132
+00:06:49,050 --> 00:06:50,430
+ou le carcinome in situ.
+
+133
+00:06:50,530 --> 00:06:52,510
+Le carcinome in situ ou la dysplasie de
+
+134
+00:06:52,510 --> 00:06:54,910
+Haugrad, c'est des cellules carcinomateuses qui sont
+
+135
+00:06:54,910 --> 00:06:56,870
+limitées à la membrane basale qui ne la
+
+136
+00:06:56,870 --> 00:06:57,590
+dépasse pas.
+
+137
+00:06:57,950 --> 00:06:58,950
+Donc, il n'y a pas de stroma
+
+138
+00:06:58,950 --> 00:07:00,630
+réaction, pas de risque de métastase.
+
+139
+00:07:00,990 --> 00:07:02,510
+Ce n'est pas un cancer infiltrant.
+
+140
+00:07:03,550 --> 00:07:07,110
+Une cellule tumorale va donner naissance à deux
+
+141
+00:07:07,110 --> 00:07:08,350
+cellules tumorales filles.
+
+142
+00:07:08,690 --> 00:07:11,850
+Le caractère tumoral est génétiquement déterminé.
+
+143
+00:07:12,970 --> 00:07:14,510
+Alors, les étapes de la carcinogenèse.
+
+144
+00:07:15,230 --> 00:07:19,070
+Un cancer est la conséquence d'altérations successives
+
+145
+00:07:19,070 --> 00:07:22,070
+de génomes de cellules tumorales qui perturbent de
+
+146
+00:07:22,070 --> 00:07:25,510
+façon permanente l'homéostasie tissulaire.
+
+147
+00:07:27,410 --> 00:07:33,710
+Regardez là, à cause de phénomènes qui sont
+
+148
+00:07:33,710 --> 00:07:39,870
+oncogènes, qui peuvent être chimiques, radiologiques et rayonnements
+
+149
+00:07:39,870 --> 00:07:43,530
+ionisants ou viraux, on aura une cellule normale
+
+150
+00:07:43,530 --> 00:07:48,070
+qui va être initiée, dont l'ADN va
+
+151
+00:07:48,070 --> 00:07:51,210
+être altéré par des rayons de soleil, par
+
+152
+00:07:51,210 --> 00:07:53,670
+des radiations ionisantes, par des virus comme l
+
+153
+00:07:53,670 --> 00:07:54,130
+'HPV.
+
+154
+00:07:54,930 --> 00:07:56,630
+Elle sera initiée.
+
+155
+00:07:56,750 --> 00:08:00,010
+Cette cellule initiée qui subit des mutations génétiques
+
+156
+00:08:00,010 --> 00:08:02,310
+ne va pas proliférer jusqu'à ce qu
+
+157
+00:08:02,310 --> 00:08:03,790
+'il y ait une promotion.
+
+158
+00:08:04,370 --> 00:08:05,930
+Alors, lorsqu'il y a une promotion, il
+
+159
+00:08:05,930 --> 00:08:07,970
+y aura une prolifération cellulaire qui va donner
+
+160
+00:08:07,970 --> 00:08:10,850
+une lésion préconçue en cellule tissu et la
+
+161
+00:08:10,850 --> 00:08:15,110
+progression lorsqu'elle atteint une étape où il
+
+162
+00:08:15,110 --> 00:08:17,370
+lui faut obligatoirement la stroma réaction.
+
+163
+00:08:17,790 --> 00:08:19,830
+Les vaisseaux, c'est la stroma réaction et
+
+164
+00:08:19,830 --> 00:08:22,290
+ça devient une tumeur maligne infiltrante.
+
+165
+00:08:23,890 --> 00:08:26,830
+Quels sont les carcinogènes qu'on connaît?
+
+166
+00:08:27,010 --> 00:08:28,330
+On ne va pas parler de tous les
+
+167
+00:08:28,330 --> 00:08:30,590
+carcinogènes, on va parler des plus importants.
+
+168
+00:08:30,810 --> 00:08:34,289
+Il y a des agents exogènes, carcinogènes.
+
+169
+00:08:34,450 --> 00:08:35,950
+Ce sont des agents qui vont pousser la
+
+170
+00:08:35,950 --> 00:08:38,510
+cellule à s'initier et qui vont altérer
+
+171
+00:08:38,510 --> 00:08:40,250
+l'ADN de façon définitive.
+
+172
+00:08:40,549 --> 00:08:43,970
+Il y a des carcinogènes chimiques, les hydrocarbures
+
+173
+00:08:43,970 --> 00:08:47,670
+polycycliques, aromatiques, le pétrole et attention, s'il
+
+174
+00:08:47,670 --> 00:08:48,910
+vous plaît, le tabac.
+
+175
+00:08:48,910 --> 00:08:52,530
+Les amyles aromatiques, les colorants, l'industrie du
+
+176
+00:08:52,530 --> 00:08:54,750
+caoutchouc et la flatoxine B1.
+
+177
+00:08:54,810 --> 00:08:58,890
+La flatoxine B1, c'est une toxine qui
+
+178
+00:08:58,890 --> 00:09:04,810
+est synthétisée par une moisissure qui prolifère au
+
+179
+00:09:04,810 --> 00:09:06,710
+niveau des cacahuètes stockées.
+
+180
+00:09:07,450 --> 00:09:11,250
+Par exemple, en Égypte, ils produisent des cacahuètes,
+
+181
+00:09:11,430 --> 00:09:13,310
+ils les stockent automatiquement, ils ont une moisissure,
+
+182
+00:09:13,370 --> 00:09:14,510
+comme ce qu'on a pour le blé,
+
+183
+00:09:14,950 --> 00:09:16,170
+qui synthétise la flatoxine.
+
+184
+00:09:16,170 --> 00:09:20,650
+Cette flatoxine B1 a un rôle carcinogène, ce
+
+185
+00:09:20,650 --> 00:09:24,670
+qui donne une cirrhose de foie.
+
+186
+00:09:25,150 --> 00:09:28,390
+Alors, les agents infectieux, vous savez que les
+
+187
+00:09:28,390 --> 00:09:31,470
+virus à ADN, notamment l'hépatite virale B,
+
+188
+00:09:31,730 --> 00:09:34,290
+le virus de l'HPV, le virus de
+
+189
+00:09:34,290 --> 00:09:37,890
+le BV, ils donnent le lymphome de Burkitt,
+
+190
+00:09:38,050 --> 00:09:41,450
+le BV, ils donnent aussi le carcinome du
+
+191
+00:09:41,450 --> 00:09:43,550
+nasopharynx, c'est-à-dire du cavum.
+
+192
+00:09:43,970 --> 00:09:46,030
+L'HPV, il va donner les cancers du
+
+193
+00:09:46,030 --> 00:09:50,610
+colic utérin et actuellement, les cancers oropharyngés et
+
+194
+00:09:50,610 --> 00:09:51,390
+surorales.
+
+195
+00:09:51,930 --> 00:09:52,350
+Pourquoi?
+
+196
+00:09:52,570 --> 00:09:55,810
+Parce qu'il y a une modification des
+
+197
+00:09:55,810 --> 00:09:56,910
+pratiques sexuelles.
+
+198
+00:09:56,910 --> 00:10:00,730
+Ils ont trouvé que les maris des femmes
+
+199
+00:10:00,730 --> 00:10:02,930
+qui ont un cancer du col HPV+,
+
+200
+00:10:02,930 --> 00:10:06,430
+développent aussi des cancers de l'oropharynx.
+
+201
+00:10:06,990 --> 00:10:11,010
+Les virus à ARN, notamment HTLV1, qui va
+
+202
+00:10:11,010 --> 00:10:13,750
+donner la leucémité de l'adulte, etc.
+
+203
+00:10:14,690 --> 00:10:19,050
+Aussi, les radiations ionisantes, ce sont des agents
+
+204
+00:10:19,050 --> 00:10:19,790
+initiateurs.
+
+205
+00:10:19,790 --> 00:10:23,470
+Ces agents, c'est à connaître et surtout
+
+206
+00:10:23,470 --> 00:10:30,650
+c'est à éviter après avoir maîtrisé ces
+
+207
+00:10:30,650 --> 00:10:31,990
+agents carcinogènes.
+
+208
+00:10:32,370 --> 00:10:34,450
+C'est une étape pour vous dire prière
+
+209
+00:10:34,450 --> 00:10:37,150
+de vous éloigner de ces agents et surtout
+
+210
+00:10:37,150 --> 00:10:37,790
+du tabac.
+
+211
+00:10:38,930 --> 00:10:42,310
+Alors, les agents exogènes, carcinogènes, on a des
+
+212
+00:10:42,310 --> 00:10:45,330
+agents promoteurs qui vont pousser la cellule à
+
+213
+00:10:45,330 --> 00:10:46,470
+la promotion, c'est à dire qu'elle
+
+214
+00:10:46,470 --> 00:10:48,410
+est déjà initiée et elle va pousser vers
+
+215
+00:10:48,410 --> 00:10:49,350
+la prolifération.
+
+216
+00:10:49,850 --> 00:10:54,670
+Et notamment, on a les hormones comme le
+
+217
+00:10:54,670 --> 00:10:59,650
+strogène, on a la nutrition, il y a
+
+218
+00:10:59,650 --> 00:11:01,810
+l'alcool qui va donner les tumeurs ORL,
+
+219
+00:11:02,270 --> 00:11:05,610
+les graisses alimentaires et la schistosomiase.
+
+220
+00:11:05,990 --> 00:11:08,450
+La schistosomiase, c'est surtout qui donne la
+
+221
+00:11:08,450 --> 00:11:11,350
+bilardiose et donc qui donne des pathos carcinogènes.
+
+222
+00:11:12,170 --> 00:11:14,390
+Alors, il y a des agents endogènes.
+
+223
+00:11:14,870 --> 00:11:18,410
+Les agents endogènes, ce sont des altérations provoquées
+
+224
+00:11:18,410 --> 00:11:21,350
+par des molécules issues de notre métabolisme, notamment
+
+225
+00:11:21,350 --> 00:11:23,210
+le stress qui va donner des radicaux libres
+
+226
+00:11:23,210 --> 00:11:24,830
+oxygénés, un stress oxydatif.
+
+227
+00:11:25,130 --> 00:11:27,570
+Il y a aussi des erreurs spontanées de
+
+228
+00:11:27,570 --> 00:11:29,590
+réplication de l'ADN non réparée.
+
+229
+00:11:29,970 --> 00:11:32,970
+Vous savez que lorsqu'on duplique notre ADN
+
+230
+00:11:32,970 --> 00:11:34,650
+lors de la division cellulaire, il peut y
+
+231
+00:11:34,650 --> 00:11:35,470
+avoir des erreurs.
+
+232
+00:11:35,470 --> 00:11:37,230
+Ces erreurs, c'est normal, c'est comme
+
+233
+00:11:37,230 --> 00:11:40,250
+si vous fermez une fermeture éclair, vous pouvez
+
+234
+00:11:40,250 --> 00:11:41,690
+avoir des anomalies.
+
+235
+00:11:44,450 --> 00:11:46,430
+Et donc, il y a des agents qui
+
+236
+00:11:46,430 --> 00:11:48,130
+vont réparer cet ADN.
+
+237
+00:11:48,250 --> 00:11:49,950
+Chez nous, il y a le système BRCA1
+
+238
+00:11:49,950 --> 00:11:52,590
+et BRCA2 qui, normalement, répare cet ADN.
+
+239
+00:11:54,330 --> 00:11:57,610
+Et aussi, il y a l'activation des
+
+240
+00:11:57,610 --> 00:12:02,470
+proto-oncogènes et la désactivation des oncogènes.
+
+241
+00:12:06,840 --> 00:12:10,500
+Alors, concernant les agents endogènes carcinogènes, c'est
+
+242
+00:12:10,500 --> 00:12:12,060
+-à-dire, c'est nos gènes qui seront
+
+243
+00:12:12,060 --> 00:12:13,480
+responsables de nos cancers.
+
+244
+00:12:13,600 --> 00:12:17,460
+Ce sont des cancers familiaux, héréditaires, à prédisposition
+
+245
+00:12:17,460 --> 00:12:17,960
+génétique.
+
+246
+00:12:18,160 --> 00:12:20,340
+Ils constituent 5 à 10% de tous
+
+247
+00:12:20,340 --> 00:12:20,920
+les cancers.
+
+248
+00:12:21,140 --> 00:12:26,960
+Ils sont dominés par les principaux syndromes génétiques
+
+249
+00:12:26,960 --> 00:12:28,620
+qu'on va étudier par la suite.
+
+250
+00:12:28,620 --> 00:12:31,920
+Alors, il y a le rétinoblastome ostéosarcom.
+
+251
+00:12:32,240 --> 00:12:34,140
+C'est la mutation du gène Herbé qui
+
+252
+00:12:34,140 --> 00:12:36,960
+est héréditaire et qui va donner un aspect
+
+253
+00:12:36,960 --> 00:12:40,900
+de rétinoblastome que tout médecin généraliste doit connaître.
+
+254
+00:12:41,080 --> 00:12:43,480
+Et j'espère que personne n'arrivera à
+
+255
+00:12:43,480 --> 00:12:45,700
+ce stade d'une pupille blanche.
+
+256
+00:12:46,120 --> 00:12:48,480
+Deuxième chose, les cancers colorecto, il y a
+
+257
+00:12:48,480 --> 00:12:49,540
+deux voies de carcinogènes.
+
+258
+00:12:49,540 --> 00:12:53,900
+Soit à partir de mutations du gène APC.
+
+259
+00:12:54,420 --> 00:12:56,340
+Et la mutation du gène APC va donner
+
+260
+00:12:56,340 --> 00:13:00,840
+une polypose rectocolique familiale secondaire à la mutation
+
+261
+00:13:00,840 --> 00:13:02,240
+de ce gène.
+
+262
+00:13:02,680 --> 00:13:05,160
+Ou bien le syndrome de Lynch, c'est
+
+263
+00:13:05,160 --> 00:13:13,300
+cancer colorectal, non heréditary, cancer colorectal, non polyposis
+
+264
+00:13:13,300 --> 00:13:13,640
+associative.
+
+265
+00:13:14,520 --> 00:13:15,880
+Donc, c'est le syndrome de Lynch.
+
+266
+00:13:15,880 --> 00:13:19,340
+Ce syndrome, il donne directement le cancer du
+
+267
+00:13:19,340 --> 00:13:20,620
+colon sans adénome.
+
+268
+00:13:21,200 --> 00:13:23,040
+Et là, il donne aussi le cancer de
+
+269
+00:13:23,040 --> 00:13:26,500
+l'estomac, le cancer du pancréas, le cancer
+
+270
+00:13:26,500 --> 00:13:31,000
+des voies urinaires, voire même les cancers de
+
+271
+00:13:31,000 --> 00:13:31,320
+prostate.
+
+272
+00:13:31,480 --> 00:13:34,080
+Chez la femme, il va donner colon, estomac,
+
+273
+00:13:34,240 --> 00:13:36,960
+pancréas, mais aussi utérins et ovaires.
+
+274
+00:13:36,960 --> 00:13:40,860
+La mutation du gène inverse A2, elle expose
+
+275
+00:13:40,860 --> 00:13:44,620
+la femme à des cancers du sein, mais
+
+276
+00:13:44,620 --> 00:13:46,280
+aussi à des cancers de l'ovaire.
+
+277
+00:13:46,400 --> 00:13:47,980
+L'homme n'est pas épargné.
+
+278
+00:13:48,540 --> 00:13:50,840
+Le syndrome de l'hyphromanie, c'est la
+
+279
+00:13:50,840 --> 00:13:53,180
+mutation du gène P53.
+
+280
+00:13:53,760 --> 00:13:56,180
+Le P53, c'est un gène suppresseur de
+
+281
+00:13:56,180 --> 00:13:56,480
+tumeurs.
+
+282
+00:13:56,600 --> 00:13:58,940
+Lorsqu'il est muté, il va donner des
+
+283
+00:13:58,940 --> 00:14:03,000
+tumeurs de glandes surrénales, des lymphomes, des cancers
+
+284
+00:14:03,000 --> 00:14:04,520
+du sein et des sarcomes.
+
+285
+00:14:04,520 --> 00:14:08,640
+Le mélanome, il est secondaire quand il est
+
+286
+00:14:08,640 --> 00:14:09,400
+héréditaire.
+
+287
+00:14:09,460 --> 00:14:12,060
+Quand il est héréditaire, il a une mutation
+
+288
+00:14:12,060 --> 00:14:15,200
+du gène CDKN2A et CDK4.
+
+289
+00:14:15,660 --> 00:14:19,180
+Vous, en tant que médecin, futur médecin généraliste,
+
+290
+00:14:19,580 --> 00:14:20,740
+vous êtes dans l'obligation.
+
+291
+00:14:21,000 --> 00:14:23,280
+Quand vous trouvez un malade qui a un
+
+292
+00:14:23,280 --> 00:14:26,140
+cancer et qui est un malade jeune avec
+
+293
+00:14:26,140 --> 00:14:29,840
+une histoire familiale de cancer, il faut suspecter
+
+294
+00:14:29,840 --> 00:14:31,140
+l'histoire.
+
+295
+00:14:32,300 --> 00:14:38,120
+Il faut savoir que la majorité des cancers
+
+296
+00:14:38,120 --> 00:14:39,880
+sont des cancers sporadiques, c'est-à-dire
+
+297
+00:14:39,880 --> 00:14:43,780
+qu'ils ne présentent pas de mutations germinales
+
+298
+00:14:43,780 --> 00:14:45,220
+génétiques.
+
+299
+00:14:45,520 --> 00:14:47,800
+75% sont sporadiques.
+
+300
+00:14:47,940 --> 00:14:50,680
+Il reste 5% des cancers héréditaires, comme
+
+301
+00:14:50,680 --> 00:14:52,160
+on vient de voir, le syndrome de l
+
+302
+00:14:52,160 --> 00:14:56,220
+'hyphromanie, le syndrome de Lynch, la mutation du
+
+303
+00:14:56,220 --> 00:14:56,880
+gène BRCA2.
+
+304
+00:14:57,420 --> 00:14:59,960
+Il y a des cancers qui sont à
+
+305
+00:14:59,960 --> 00:15:02,600
+composantes familiales, c'est-à-dire qu'on
+
+306
+00:15:02,600 --> 00:15:07,660
+ne trouve aucun gène responsable, sauf que c
+
+307
+00:15:07,660 --> 00:15:10,240
+'est une famille qui présente des cancers du
+
+308
+00:15:10,240 --> 00:15:11,860
+côlon, par exemple, sans qu'il y ait
+
+309
+00:15:11,860 --> 00:15:13,980
+une mutation du gène APC ou bien un
+
+310
+00:15:13,980 --> 00:15:14,960
+syndrome de Lynch ou autre.
+
+311
+00:15:15,780 --> 00:15:18,220
+Donc, au total, la majorité des cancers ne
+
+312
+00:15:18,220 --> 00:15:21,380
+présentent pas de mutations germinales.
+
+313
+00:15:21,380 --> 00:15:22,580
+Peut-être qu'il y a des mutations
+
+314
+00:15:22,580 --> 00:15:25,340
+somatiques, c'est-à-dire juste dans la
+
+315
+00:15:25,340 --> 00:15:27,000
+tumeur, mais pas de germinales.
+
+316
+00:15:27,120 --> 00:15:29,560
+5% sont des cancers héréditaires et 20
+
+317
+00:15:29,560 --> 00:15:32,240
+% sont des cancers à composantes familiales sans
+
+318
+00:15:32,240 --> 00:15:33,740
+gène propre responsable.
+
+319
+00:15:35,700 --> 00:15:40,100
+Alors, concernant les cancers héréditaires, lorsqu'il y
+
+320
+00:15:40,100 --> 00:15:44,340
+a une mutation constitutionnelle germinale, c'est-à
+
+321
+00:15:44,340 --> 00:15:47,900
+-dire dans toutes les cellules du corps humain,
+
+322
+00:15:49,500 --> 00:15:53,240
+ce patient est exposé à faire un cancer
+
+323
+00:15:53,240 --> 00:15:55,840
+dans 30 à 100% du cas, ça
+
+324
+00:15:55,840 --> 00:15:58,140
+dépend de la pénétrance de ce gène et
+
+325
+00:15:58,140 --> 00:16:01,760
+ça dépend aussi de facteurs environnementaux.
+
+326
+00:16:01,900 --> 00:16:04,380
+Mais la mutation, il est là, il est
+
+327
+00:16:04,380 --> 00:16:08,520
+constitutionnel, il est germinal, il est dans toutes
+
+328
+00:16:08,520 --> 00:16:09,560
+les cellules du corps humain.
+
+329
+00:16:10,460 --> 00:16:12,880
+Imaginons qu'un patient qui n'a pas
+
+330
+00:16:12,880 --> 00:16:15,440
+de mutation germinale, c'est-à-dire il
+
+331
+00:16:15,440 --> 00:16:17,760
+n'a pas de mutation constitutionnelle, il est
+
+332
+00:16:17,760 --> 00:16:21,320
+né avec un génome correct.
+
+333
+00:16:22,120 --> 00:16:25,800
+Alors, il a normalement des gènes suppresseurs de
+
+334
+00:16:25,800 --> 00:16:27,960
+tumeur au niveau des deux allèles.
+
+335
+00:16:28,460 --> 00:16:31,860
+C'est lorsqu'il est né, alors il
+
+336
+00:16:31,860 --> 00:16:35,560
+aura une exposition à des agents exogènes, par
+
+337
+00:16:35,560 --> 00:16:38,580
+exemple, il va avoir une mutation d'un
+
+338
+00:16:38,580 --> 00:16:38,980
+allèle.
+
+339
+00:16:38,980 --> 00:16:42,640
+Une mutation d'un allèle, et puis d
+
+340
+00:16:42,640 --> 00:16:44,540
+'un gène, et puis c'est le premier,
+
+341
+00:16:44,680 --> 00:16:46,220
+il ne va pas développer de cancer.
+
+342
+00:16:46,420 --> 00:16:49,380
+Lorsqu'il aura une perte de ce deuxième
+
+343
+00:16:49,380 --> 00:16:53,200
+gène sain, soit par mutation, soit par perte,
+
+344
+00:16:53,540 --> 00:16:57,880
+il aura une inactivation bialélique de ce gène,
+
+345
+00:16:58,040 --> 00:17:00,960
+et donc, phénotype tumorogène, on aura naissance d
+
+346
+00:17:00,960 --> 00:17:05,160
+'un carcinome sporadique, qui n'est pas germinal,
+
+347
+00:17:05,300 --> 00:17:06,800
+qui n'est pas constitutionnel.
+
+348
+00:17:06,800 --> 00:17:09,880
+Il est somatique, il est seulement, par contre,
+
+349
+00:17:10,020 --> 00:17:13,060
+imaginons qu'un patient qui est né avec
+
+350
+00:17:13,060 --> 00:17:15,900
+une mutation germinale, il est héréditaire, il aura
+
+351
+00:17:15,900 --> 00:17:18,119
+un gène, un allèle sauvage, et un autre
+
+352
+00:17:18,119 --> 00:17:19,240
+allèle qui est muté.
+
+353
+00:17:19,760 --> 00:17:22,940
+Bon, déjà, il est exposé, le premier hit
+
+354
+00:17:22,940 --> 00:17:25,760
+est déjà fait dans la vie intra-utérine.
+
+355
+00:17:26,280 --> 00:17:28,280
+Lorsqu'il va naître, il lui faut juste
+
+356
+00:17:28,280 --> 00:17:31,960
+un événement génétique, une mutation ou une perte,
+
+357
+00:17:32,100 --> 00:17:34,220
+pour qu'il soit, qu'il ait une
+
+358
+00:17:34,220 --> 00:17:36,980
+inactivation bialélique, et donc, il va acquérir le
+
+359
+00:17:36,980 --> 00:17:41,020
+phénotype tumorogène, et donc, il aura une carcinogénèse
+
+360
+00:17:41,020 --> 00:17:41,680
+qui accélère.
+
+361
+00:17:42,460 --> 00:17:45,080
+Alors, on doit tout ça à M.
+
+362
+00:17:45,840 --> 00:17:49,480
+Knudsen, qui a posé l'hypothèse de deux
+
+363
+00:17:49,480 --> 00:17:52,560
+hits, soit pour le cancer sporadique, les deux
+
+364
+00:17:52,560 --> 00:17:57,000
+hits, où les deux accidents surviennent pendant la
+
+365
+00:17:57,000 --> 00:17:59,940
+vie, et donc, c'est sporadique, alors que
+
+366
+00:17:59,940 --> 00:18:03,220
+pour les cancers héréditaires, le premier gène muté,
+
+367
+00:18:03,280 --> 00:18:05,420
+il est héréditaire, le deuxième, il est acquis,
+
+368
+00:18:06,020 --> 00:18:08,120
+et donc, là, c'est les gènes suppresseurs
+
+369
+00:18:08,120 --> 00:18:10,820
+de tumeurs, comme BRCA1, BRCA2, dans le cancer
+
+370
+00:18:10,820 --> 00:18:11,240
+du sein.
+
+371
+00:18:12,780 --> 00:18:15,300
+Alors, les cancers héréditaires, et ça, s'il
+
+372
+00:18:15,300 --> 00:18:18,020
+vous plaît, concentrez-vous avec moi, ces cancers
+
+373
+00:18:18,020 --> 00:18:20,200
+héréditaires, ils ont un contexte familial.
+
+374
+00:18:20,640 --> 00:18:22,480
+L'âge moyen de survenue, c'est jeune,
+
+375
+00:18:22,600 --> 00:18:24,960
+par exemple, on a le cancer du côlon
+
+376
+00:18:24,960 --> 00:18:26,880
+qui survient souvent après 60 ans.
+
+377
+00:18:26,880 --> 00:18:28,520
+Si on le trouve à 35 ans, ce
+
+378
+00:18:28,520 --> 00:18:29,080
+n'est pas normal.
+
+379
+00:18:29,500 --> 00:18:31,160
+Et donc, l'âge moyen est jeune, mais
+
+380
+00:18:31,160 --> 00:18:33,120
+à un risque de plus en plus élevé,
+
+381
+00:18:33,440 --> 00:18:34,800
+plus on avance dans l'âge.
+
+382
+00:18:35,100 --> 00:18:37,540
+La localisation est multiple, on peut avoir un
+
+383
+00:18:37,540 --> 00:18:39,060
+cancer au niveau du côlon droit, un autre
+
+384
+00:18:39,060 --> 00:18:40,480
+au niveau du côlon gauche, un autre au
+
+385
+00:18:40,480 --> 00:18:43,880
+niveau du rectum.
+
+386
+00:18:44,320 --> 00:18:46,360
+Et donc, on pourra avoir des cancers qui
+
+387
+00:18:46,360 --> 00:18:49,320
+sont synchrones en même temps, ou bien métachrones.
+
+388
+00:18:49,320 --> 00:18:51,360
+Ce sont des cancers du côlon qui peuvent
+
+389
+00:18:51,360 --> 00:18:53,560
+être associés, par exemple, à d'autres cancers,
+
+390
+00:18:53,720 --> 00:18:55,040
+comme ce qu'on a vu pour BRCA1,
+
+391
+00:18:55,080 --> 00:18:58,120
+BRCA2, le côlon et l'ovaire, le lynch,
+
+392
+00:18:58,240 --> 00:19:01,160
+le côlon et l'endomètre, et qui présentent
+
+393
+00:19:01,160 --> 00:19:04,760
+des caractéristiques histologiques et moléculaires particulières.
+
+394
+00:19:05,140 --> 00:19:07,940
+Alors, imaginons que là, on a un cancer
+
+395
+00:19:07,940 --> 00:19:10,180
+de l'endomètre plus un cancer du côlon,
+
+396
+00:19:10,660 --> 00:19:13,080
+c'est des mutations du gène MMR. Le
+
+397
+00:19:13,080 --> 00:19:15,760
+système MMR, c'est le gène qui répare
+
+398
+00:19:15,760 --> 00:19:19,780
+l'ADN normalement, Mismasruper, pour les cancers.
+
+399
+00:19:19,920 --> 00:19:21,480
+Et lorsqu'il sent qu'on a une
+
+400
+00:19:21,480 --> 00:19:25,740
+perte allélique pendant l'embryogenèse, on peut avoir
+
+401
+00:19:25,740 --> 00:19:29,320
+une deuxième perte pendant la vie extra-utérinée.
+
+402
+00:19:29,520 --> 00:19:31,080
+Donc là, on aura deux hits et on
+
+403
+00:19:31,080 --> 00:19:35,400
+aura naissance d'un cancer du côlon, mais
+
+404
+00:19:35,400 --> 00:19:37,620
+regardez, sans polypose, parce que c'est un
+
+405
+00:19:37,620 --> 00:19:39,620
+syndrome de HNPCC, c'est un syndrome de
+
+406
+00:19:39,620 --> 00:19:43,800
+lynch, non cancer colorectal, sans qu'il y
+
+407
+00:19:43,800 --> 00:19:44,560
+ait de polypose.
+
+408
+00:19:46,140 --> 00:19:48,160
+Imaginons qu'on a une femme qui a
+
+409
+00:19:48,160 --> 00:19:50,860
+déjà une mutation germinale, c'est-à-dire
+
+410
+00:19:50,860 --> 00:19:54,860
+constitutionnelle, depuis son embryogenèse du gène BRCA1.
+
+411
+00:19:55,200 --> 00:19:56,880
+C'est un gène normalement qui répare l
+
+412
+00:19:56,880 --> 00:19:59,700
+'ADN, une mutation, il va acquérir une deuxième
+
+413
+00:19:59,700 --> 00:20:04,460
+mutation bialélique, une deuxième pendant la vie extra
+
+414
+00:20:04,460 --> 00:20:07,280
+-utérine et donc il risque de développer des
+
+415
+00:20:07,280 --> 00:20:08,980
+cancers du sein et des cancers de l
+
+416
+00:20:08,980 --> 00:20:09,740
+'ovaire.
+
+417
+00:20:10,380 --> 00:20:12,860
+Alors, s'il vous plaît, c'est des
+
+418
+00:20:12,860 --> 00:20:15,200
+malades qui ont un haut risque de cancer.
+
+419
+00:20:15,700 --> 00:20:17,620
+Une fois qu'on trouve un cas index
+
+420
+00:20:17,620 --> 00:20:20,780
+de cancer héréditaire, il faut faire le dépistage
+
+421
+00:20:20,780 --> 00:20:21,520
+chez la famille.
+
+422
+00:20:22,060 --> 00:20:22,240
+Pourquoi?
+
+423
+00:20:22,380 --> 00:20:23,160
+Parce qu'il y a une prise en
+
+424
+00:20:23,160 --> 00:20:27,680
+charge particulière, à la fois clinique, paraclinique et
+
+425
+00:20:27,680 --> 00:20:28,440
+psychologique.
+
+426
+00:20:28,440 --> 00:20:32,960
+Parce que le malade, le premier, c'est
+
+427
+00:20:32,960 --> 00:20:33,760
+bon, il a le cancer.
+
+428
+00:20:33,840 --> 00:20:34,980
+Mais les autres qui n'ont pas encore
+
+429
+00:20:34,980 --> 00:20:37,720
+de cancer, on peut prévenir par ablation des
+
+430
+00:20:37,720 --> 00:20:39,200
+organes, par formation, etc.
+
+431
+00:20:39,700 --> 00:20:42,220
+Donc, on peut prévenir.
+
+432
+00:20:42,460 --> 00:20:44,100
+Par exemple, il y a des patients qui
+
+433
+00:20:44,100 --> 00:20:47,320
+vous disent de faire une mammectomie bilatérale sous
+
+434
+00:20:47,320 --> 00:20:47,920
+-cutanée.
+
+435
+00:20:48,100 --> 00:20:49,220
+Ce sont des patients qui ont une mutation
+
+436
+00:20:49,220 --> 00:20:54,640
+du gène BRCA1, plus une ovariectomie, ils sont
+
+437
+00:20:54,640 --> 00:20:55,240
+tranquilles.
+
+438
+00:20:55,820 --> 00:20:59,700
+Ou bien on peut faire un dépistage précoce
+
+439
+00:20:59,700 --> 00:21:01,860
+de ces cancers, malheureusement, et les traiter.
+
+440
+00:21:02,360 --> 00:21:03,980
+Et ça dépend du niveau de risque.
+
+441
+00:21:04,740 --> 00:21:07,780
+Il faut une prise en charge psychologique importante
+
+442
+00:21:07,780 --> 00:21:09,720
+et cadre éthique réglementaire.
+
+443
+00:21:09,820 --> 00:21:11,800
+C'est un staff pluridisciplinaire qui doit prendre
+
+444
+00:21:11,800 --> 00:21:14,300
+en charge ces cancers héréditaires, à la fois
+
+445
+00:21:14,300 --> 00:21:17,920
+le généticien, l'anapath, le radiologue, le clinicien,
+
+446
+00:21:18,020 --> 00:21:21,580
+le chirurgien, mais aussi le psychologue et l
+
+447
+00:21:21,580 --> 00:21:22,580
+'oncogénéticien.
+
+448
+00:21:22,720 --> 00:21:23,200
+C'est important.
+
+449
+00:21:24,680 --> 00:21:26,780
+On arrive à la phase d'initiation.
+
+450
+00:21:28,460 --> 00:21:31,840
+On estime qu'il faut 3 à 7
+
+451
+00:21:31,840 --> 00:21:34,780
+mutations indépendantes pour transformer une cellule normale en
+
+452
+00:21:34,780 --> 00:21:36,100
+une cellule cancéreuse.
+
+453
+00:21:36,520 --> 00:21:38,360
+Ce qui explique le délai lent entre l
+
+454
+00:21:38,360 --> 00:21:40,720
+'exposition à un carcinogène et l'apparition d
+
+455
+00:21:40,720 --> 00:21:41,140
+'un cancer.
+
+456
+00:21:41,760 --> 00:21:43,740
+La promotion, c'est un phénomène qui ne
+
+457
+00:21:43,740 --> 00:21:45,680
+résulte pas de la modification d'ADN.
+
+458
+00:21:45,960 --> 00:21:48,100
+C'est un processus qui est épigénétique, c
+
+459
+00:21:48,100 --> 00:21:51,120
+'est les gènes qui régulent l'ADN.
+
+460
+00:21:51,120 --> 00:21:55,680
+Le promoteur de carcinogènes stimule le développement des
+
+461
+00:21:55,680 --> 00:21:59,500
+cellules initiées, agissant préférentiellement sur certains tissus et
+
+462
+00:21:59,500 --> 00:22:01,740
+le plus souvent s'il est administré de
+
+463
+00:22:01,740 --> 00:22:03,620
+façon répétée pendant longue durée.
+
+464
+00:22:03,760 --> 00:22:06,120
+Cette phase aboutit à une lésion précancéreuse, c
+
+465
+00:22:06,120 --> 00:22:07,180
+'est ce qu'on appelle la dyslipide.
+
+466
+00:22:07,880 --> 00:22:10,720
+L'immortalisation de cellules, c'est un phénomène
+
+467
+00:22:10,720 --> 00:22:11,420
+important.
+
+468
+00:22:11,720 --> 00:22:13,840
+Ce sont des cellules incapables d'initier leur
+
+469
+00:22:13,840 --> 00:22:15,080
+mort, il n'y a pas d'apoptose.
+
+470
+00:22:15,400 --> 00:22:18,000
+Elles sont indépendantes des signaux extérieurs qui la
+
+471
+00:22:18,000 --> 00:22:18,520
+déclenchent.
+
+472
+00:22:19,640 --> 00:22:22,840
+Regardez là, le phénomène ou le processus d
+
+473
+00:22:22,840 --> 00:22:24,260
+'immortalisation cellulaire.
+
+474
+00:22:24,660 --> 00:22:28,100
+Un tissu, des cellules souches ou des tissus
+
+475
+00:22:28,100 --> 00:22:28,840
+embryonnaires.
+
+476
+00:22:29,400 --> 00:22:31,520
+Normalement, ils vont se diviser jusqu'à 60
+
+477
+00:22:31,520 --> 00:22:31,820
+fois.
+
+478
+00:22:31,960 --> 00:22:33,240
+Il y aura un arrêt de cycle par
+
+479
+00:22:33,240 --> 00:22:38,700
+raccourcissement des télomères, une sénescence et donc, mort
+
+480
+00:22:38,700 --> 00:22:39,920
+cellulaire par apoptose.
+
+481
+00:22:40,140 --> 00:22:41,640
+Ce qui arrive, c'est quoi?
+
+482
+00:22:44,230 --> 00:22:47,170
+Il y aura une mutation, un premier événement
+
+483
+00:22:47,170 --> 00:22:50,890
+oncogénique qui va faire poursuivre les divisions.
+
+484
+00:22:51,310 --> 00:22:55,110
+Un deuxième, une prolifération continue, une immortalisation.
+
+485
+00:23:00,180 --> 00:23:04,620
+Et donc, normalement, le tissu normal vit une
+
+486
+00:23:04,620 --> 00:23:08,400
+homeostasie avec une prolifération, une apoptose en équilibre.
+
+487
+00:23:08,820 --> 00:23:10,360
+Lorsqu'il y a arrêt de cet équilibre,
+
+488
+00:23:10,760 --> 00:23:13,500
+il y aura arrêt de l'apoptose et
+
+489
+00:23:13,500 --> 00:23:15,580
+donc, prolifération, immortalisation cellulaire.
+
+490
+00:23:16,360 --> 00:23:20,140
+Alors, la transformation cellulaire, c'est la perte
+
+491
+00:23:20,140 --> 00:23:22,220
+de l'homeostasie qui assure le maintien de
+
+492
+00:23:22,220 --> 00:23:23,940
+la taille et le fonctionnement d'un organe.
+
+493
+00:23:24,260 --> 00:23:26,720
+C'est un déséquilibre et de la balance
+
+494
+00:23:26,720 --> 00:23:28,460
+mort-division cellulaire.
+
+495
+00:23:28,820 --> 00:23:30,980
+On aura une perte de sensibilité aux signaux
+
+496
+00:23:30,980 --> 00:23:32,780
+qui régulent la prolifération tumorale.
+
+497
+00:23:33,160 --> 00:23:35,680
+Notamment, ça va donner une croissance autocrine, une
+
+498
+00:23:35,680 --> 00:23:37,160
+perte d'inhibition de complot.
+
+499
+00:23:37,920 --> 00:23:41,080
+Normalement, les cellules, lorsqu'elles sont immortalisées, vont
+
+500
+00:23:41,080 --> 00:23:44,460
+subir une deuxième série d'événements oncogéniques qui
+
+501
+00:23:44,460 --> 00:23:47,220
+vont donner une expansion de clones cellulaires.
+
+502
+00:23:47,440 --> 00:23:48,800
+C'est les cellules qui seront transformées.
+
+503
+00:23:49,540 --> 00:23:51,480
+C'est le passage d'une cellule immortelle
+
+504
+00:23:51,480 --> 00:23:53,640
+vers une cellule cancéreuse.
+
+505
+00:23:54,620 --> 00:23:57,520
+Alors, quelles sont les différentes étapes de développement
+
+506
+00:23:57,520 --> 00:23:58,180
+d'un cancer?
+
+507
+00:23:58,280 --> 00:23:59,160
+Le cancer, il est là.
+
+508
+00:23:59,480 --> 00:24:00,400
+Comment il va se développer?
+
+509
+00:24:00,520 --> 00:24:02,260
+Eh bien, il va proliférer, il va croître.
+
+510
+00:24:02,700 --> 00:24:04,980
+Donc, c'est la croissance cellulaire, la prolifération
+
+511
+00:24:04,980 --> 00:24:07,960
+cellulaire et l'échappement au système immunitaire.
+
+512
+00:24:09,540 --> 00:24:12,660
+Il y aura aussi l'ongéogénèse pour permettre
+
+513
+00:24:12,660 --> 00:24:17,360
+la nourriture, la nutrition de cellules tumorales.
+
+514
+00:24:17,540 --> 00:24:19,920
+Et donc, par l'intermédiaire de l'astromaréaction,
+
+515
+00:24:20,420 --> 00:24:22,080
+il y aura une croissance de nouveaux vaisseaux
+
+516
+00:24:22,080 --> 00:24:25,340
+sanguins à partir de ceux qui sont préexistants.
+
+517
+00:24:25,880 --> 00:24:30,300
+La progression tumorale, c'est l'invasion, c
+
+518
+00:24:30,300 --> 00:24:32,580
+'est l'accroissement de la malignité, l'invasion
+
+519
+00:24:32,580 --> 00:24:35,080
+de tissus avoisinants et bien sûr, la métastase.
+
+520
+00:24:35,620 --> 00:24:38,260
+Alors, la progression, c'est le passage d
+
+521
+00:24:38,260 --> 00:24:41,240
+'une lésion précancéreuse in situ à un cancer
+
+522
+00:24:41,240 --> 00:24:44,440
+par d'autres modifications génétiques suivies d'une
+
+523
+00:24:44,440 --> 00:24:46,100
+prolifération et d'une métastase.
+
+524
+00:24:46,780 --> 00:24:49,640
+Le cancer infiltrant, regardez là, ça c'est
+
+525
+00:24:49,640 --> 00:24:51,300
+un carcinome in situ et là, c'est
+
+526
+00:24:51,300 --> 00:24:52,440
+un cancer infiltrant.
+
+527
+00:24:52,840 --> 00:24:55,340
+Il permet l'acquisition de la capacité d
+
+528
+00:24:55,340 --> 00:24:58,760
+'envahir un tissu adjacent, sous-jacent et le
+
+529
+00:24:58,760 --> 00:25:00,280
+passage vers le sang et l'âlin.
+
+530
+00:25:01,100 --> 00:25:04,520
+Alors, lorsqu'il y a prolifération de cellules
+
+531
+00:25:04,520 --> 00:25:08,580
+carcinomateuses mammaires, il y aura un passage vers
+
+532
+00:25:08,580 --> 00:25:10,760
+la métastase du fait qu'il y a
+
+533
+00:25:10,760 --> 00:25:14,480
+l'astromaréaction, les cellules qui vont nourrir le
+
+534
+00:25:14,480 --> 00:25:19,160
+cancer et donc ces cellules tumorales vont envahir
+
+535
+00:25:19,160 --> 00:25:22,520
+soit en empruntant la voie sanguine et donc
+
+536
+00:25:22,520 --> 00:25:26,100
+ça va donner une extravasation de cellules tumorales
+
+537
+00:25:26,100 --> 00:25:28,880
+dans les vaisseaux sanguins et donc une métastase
+
+538
+00:25:28,880 --> 00:25:33,980
+sanguine et donc une métastase à la fois
+
+539
+00:25:33,980 --> 00:25:38,340
+hépatique et pulmonaire ou bien la voie la
+
+540
+00:25:38,340 --> 00:25:41,720
+plus fréquente aussi, c'est l'extravasation de
+
+541
+00:25:41,720 --> 00:25:44,240
+cellules tumorales vers un vaisseau lymphatique qui va
+
+542
+00:25:44,240 --> 00:25:45,920
+donner une métastase lymphatique.
+
+543
+00:25:46,160 --> 00:25:48,440
+Vous savez, à un certain moment, si ça
+
+544
+00:25:48,440 --> 00:25:50,680
+atteint tout le circuit lymphatique, ça va se
+
+545
+00:25:50,680 --> 00:25:51,380
+disséminer.
+
+546
+00:25:53,060 --> 00:25:58,020
+Concernant une cellule circulante dans le sang, donc
+
+547
+00:25:58,020 --> 00:26:00,900
+une cellule cancéreuse circulante dans le sang, elle
+
+548
+00:26:00,900 --> 00:26:04,740
+va arriver au poumon qui est le filtre
+
+549
+00:26:04,740 --> 00:26:05,660
+de l'organisme.
+
+550
+00:26:06,100 --> 00:26:10,100
+Dans le capillaire pulmonaire, elle peut passer à
+
+551
+00:26:10,100 --> 00:26:12,720
+travers la lame basale, les cellules endothéliales et
+
+552
+00:26:12,720 --> 00:26:15,500
+la cellule alvéolaire vers le poumon et donner
+
+553
+00:26:15,500 --> 00:26:20,280
+une tumeur pulmonaire qui va aussi donner une
+
+554
+00:26:20,280 --> 00:26:23,730
+prolifération de ces tumeurs et une néo-angiogénèse
+
+555
+00:26:24,540 --> 00:26:27,140
+et donc une autre stromaréaction propre à ces
+
+556
+00:26:27,140 --> 00:26:28,840
+cellules qui ont migré vers le poumon.
+
+557
+00:26:29,640 --> 00:26:34,800
+Alors, les événements biologiques du développement du cancer
+
+558
+00:26:34,800 --> 00:26:38,340
+passent par l'acquisition d'au moins six
+
+559
+00:26:38,340 --> 00:26:39,200
+propriétés.
+
+560
+00:26:39,400 --> 00:26:42,800
+La première des choses, une réactivation des télomères.
+
+561
+00:26:42,800 --> 00:26:45,460
+Normalement, lorsque la cellule se divise, il y
+
+562
+00:26:45,460 --> 00:26:48,700
+aura un raccourcissement des extrémités du chromosome qu
+
+563
+00:26:48,700 --> 00:26:50,080
+'on appelle télomère.
+
+564
+00:26:51,360 --> 00:26:56,140
+Lorsqu'il arrive à une certaine mesure, ils
+
+565
+00:26:56,140 --> 00:26:59,600
+vont se raccourcir, ils vont arrêter de proliférer.
+
+566
+00:26:59,800 --> 00:27:02,180
+Alors là, il y aura une réparation de
+
+567
+00:27:02,180 --> 00:27:04,220
+ces télomères et une réactivation de ces télomères.
+
+568
+00:27:04,380 --> 00:27:06,100
+Donc, absence d'apoptose.
+
+569
+00:27:06,580 --> 00:27:09,800
+Il y a une activation aussi de mécanisme
+
+570
+00:27:09,800 --> 00:27:10,500
+d'apoptose.
+
+571
+00:27:10,500 --> 00:27:12,920
+Ça va donner une immortalisation cellulaire.
+
+572
+00:27:13,720 --> 00:27:16,080
+La cellule n'aura pas besoin de stimulus
+
+573
+00:27:16,080 --> 00:27:16,900
+pour proliférer.
+
+574
+00:27:17,060 --> 00:27:19,400
+Elle va elle-même synthétiser ses stimulus.
+
+575
+00:27:19,540 --> 00:27:21,320
+C'est ce qu'on appelle la croissance
+
+576
+00:27:21,320 --> 00:27:22,480
+autonome.
+
+577
+00:27:22,920 --> 00:27:26,900
+Et puis, on va inactiver les voies inhibitrices
+
+578
+00:27:26,900 --> 00:27:28,040
+du cancer.
+
+579
+00:27:28,440 --> 00:27:29,720
+Quelles sont les voies inhibitrices ?
+
+580
+00:27:29,720 --> 00:27:31,240
+C'est les gènes suppresseurs de tumeurs.
+
+581
+00:27:31,680 --> 00:27:33,160
+Le gène RB, par exemple, c'est un
+
+582
+00:27:33,160 --> 00:27:34,320
+gène suppresseur de tumeurs.
+
+583
+00:27:34,600 --> 00:27:36,760
+Le gène P53, c'est un gène suppresseur
+
+584
+00:27:36,760 --> 00:27:37,160
+de tumeurs.
+
+585
+00:27:37,160 --> 00:27:40,240
+Et donc, on aura une transformation cellulaire qui
+
+586
+00:27:40,240 --> 00:27:44,140
+va devenir cette cellule indépendante, insensible vis-à
+
+587
+00:27:44,140 --> 00:27:45,460
+-vis de l'environnement.
+
+588
+00:27:45,800 --> 00:27:48,340
+C'est une cellule qui est programmée pour
+
+589
+00:27:48,340 --> 00:27:49,980
+proliférer et ne pas mourir.
+
+590
+00:27:51,680 --> 00:27:54,820
+Elle va acquérir la capacité angiogénique, c'est
+
+591
+00:27:54,820 --> 00:27:57,420
+-à-dire synthétiser ses facteurs de croissance et
+
+592
+00:27:57,420 --> 00:27:59,620
+notamment le VEGF pour qu'elle synthétise ses
+
+593
+00:27:59,620 --> 00:28:00,520
+propres vaisseaux.
+
+594
+00:28:00,960 --> 00:28:03,820
+Et puis, elle va acquérir un pouvoir invasif
+
+595
+00:28:03,820 --> 00:28:06,820
+et métastatique par production des protéines qui vont
+
+596
+00:28:06,820 --> 00:28:09,960
+détruire le tissu conjonctif et vont libérer chemin
+
+597
+00:28:09,960 --> 00:28:12,920
+à cette cellule pour voyager.
+
+598
+00:28:13,320 --> 00:28:14,840
+Et puis, il y aura une altération de
+
+599
+00:28:14,840 --> 00:28:17,040
+molécules d'adhésion telles que l'intégrine et
+
+600
+00:28:17,040 --> 00:28:17,700
+la cadérine.
+
+601
+00:28:18,100 --> 00:28:20,820
+Normalement, l'adhésion entre deux cellules après prolifération
+
+602
+00:28:20,820 --> 00:28:23,000
+va inhiber la cellule de se multiplier.
+
+603
+00:28:23,220 --> 00:28:25,900
+Celle-là, elle va altérer ses mécanismes d
+
+604
+00:28:25,900 --> 00:28:28,160
+'adhésion et donc, elle va être sensible aux
+
+605
+00:28:28,160 --> 00:28:28,760
+cellules de voyage.
+
+606
+00:28:29,570 --> 00:28:35,560
+Alors, le cancer, c'est une pathologie génétique.
+
+607
+00:28:35,880 --> 00:28:37,540
+S'il vous plaît, ne me dites pas
+
+608
+00:28:37,540 --> 00:28:39,820
+qu'en prenant un kilo d'oignon, on
+
+609
+00:28:39,820 --> 00:28:42,300
+va guérir notre cancer.
+
+610
+00:28:42,620 --> 00:28:43,680
+C'est du n'importe quoi.
+
+611
+00:28:47,220 --> 00:28:57,200
+Alors, il faut dire que trois grandes catégories
+
+612
+00:28:57,200 --> 00:29:00,760
+de gènes liés à la pathologie du cancer
+
+613
+00:29:00,760 --> 00:29:03,700
+resaissant sont impliqués dans l'oncogénèse.
+
+614
+00:29:03,880 --> 00:29:07,700
+Il y a, si vous voyez dans ce
+
+615
+00:29:07,700 --> 00:29:12,060
+schéma, il y a les oncogènes, regardez-là.
+
+616
+00:29:12,560 --> 00:29:16,460
+Dans une cellule normale, on a des oncogènes,
+
+617
+00:29:16,560 --> 00:29:19,120
+des anti-oncogènes et des gènes qui réparent
+
+618
+00:29:19,120 --> 00:29:19,880
+l'ADN.
+
+619
+00:29:20,600 --> 00:29:26,180
+Et là, dans une cellule qui va devenir
+
+620
+00:29:26,180 --> 00:29:30,480
+maligne, on aura une activation des oncogènes et
+
+621
+00:29:30,480 --> 00:29:35,620
+on aura une inactivation des gènes suppresseurs de
+
+622
+00:29:35,620 --> 00:29:41,220
+tumeurs et aussi des gènes qui vont réparer
+
+623
+00:29:41,220 --> 00:29:41,840
+l'ADN.
+
+624
+00:29:42,140 --> 00:29:42,400
+D'accord?
+
+625
+00:29:42,800 --> 00:29:44,220
+Les mismatch repair.
+
+626
+00:29:44,800 --> 00:29:50,180
+Et là, plusieurs phénomènes vont endommager l'ADN,
+
+627
+00:29:50,400 --> 00:29:53,240
+vont faire acquérir à la cellule des mutations
+
+628
+00:29:53,240 --> 00:29:56,640
+qui vont agir sur ces trois grandes familles
+
+629
+00:29:56,640 --> 00:29:57,000
+de gènes.
+
+630
+00:29:57,200 --> 00:29:58,300
+Pas que ça, mais ça, c'est les
+
+631
+00:29:58,300 --> 00:29:59,240
+grandes catégories.
+
+632
+00:29:59,880 --> 00:30:01,560
+Et puis, il y aura une expression de
+
+633
+00:30:01,560 --> 00:30:05,360
+produit d'un gène altéré, expansion clonale, hétérogène,
+
+634
+00:30:05,500 --> 00:30:08,180
+nouvelle mutation qui va pousser la cellule à
+
+635
+00:30:08,180 --> 00:30:08,420
+progresser.
+
+636
+00:30:08,960 --> 00:30:11,640
+Alors, les proto-oncogènes, ce sont des gènes
+
+637
+00:30:11,640 --> 00:30:14,460
+qui régulent positivement la prolifération cellulaire.
+
+638
+00:30:15,000 --> 00:30:17,980
+Ils donnent un gain de fonction et une
+
+639
+00:30:17,980 --> 00:30:21,520
+altération génomique de l'un des deux copies,
+
+640
+00:30:21,700 --> 00:30:25,600
+l'un des deux allèles est suffisante pour
+
+641
+00:30:25,600 --> 00:30:29,100
+acquérir ce phénomène de prolifération cellulaire.
+
+642
+00:30:29,220 --> 00:30:30,800
+Ce n'est pas comme les anti-oncogènes
+
+643
+00:30:32,580 --> 00:30:35,280
+où il faut deux altérations des deux allèles
+
+644
+00:30:35,280 --> 00:30:36,680
+pour que ça s'exprime.
+
+645
+00:30:36,820 --> 00:30:38,900
+Pour les proto-oncogènes, une seule altération d
+
+646
+00:30:38,900 --> 00:30:40,120
+'un seul allèle suffit.
+
+647
+00:30:41,180 --> 00:30:47,000
+Regardez là, on aura une activation d'un
+
+648
+00:30:47,000 --> 00:30:50,920
+proto-oncogène qui doit survenir sur un seul
+
+649
+00:30:50,920 --> 00:30:53,060
+allèle parce qu'il est dominant et donc
+
+650
+00:30:53,060 --> 00:30:55,640
+il va donner une prolifération tumorale.
+
+651
+00:30:56,040 --> 00:30:58,500
+Alors, quels sont les mécanismes les plus connus?
+
+652
+00:30:58,620 --> 00:31:00,580
+Il y a les mutations ponctuelles comme celle
+
+653
+00:31:00,580 --> 00:31:02,020
+du gène race qui va donner les cancers
+
+654
+00:31:02,020 --> 00:31:06,300
+colorectaux, les translocations génomiques.
+
+655
+00:31:06,800 --> 00:31:09,260
+Par exemple, le gène Myc dans les lymphomes
+
+656
+00:31:09,260 --> 00:31:11,180
+du Burkitt, le gène BCL2 dans le lymphome
+
+657
+00:31:11,180 --> 00:31:14,080
+folliculaire et l'amplification du gène HER2 dans
+
+658
+00:31:14,080 --> 00:31:14,980
+le cancer du sein.
+
+659
+00:31:14,980 --> 00:31:19,080
+Regardez là, on voit très bien une amplification
+
+660
+00:31:19,080 --> 00:31:21,800
+du gène HER2 rouge qui va donner un
+
+661
+00:31:21,800 --> 00:31:22,660
+cancer du sein.
+
+662
+00:31:23,740 --> 00:31:27,740
+Les gènes impliqués dans l'oncogènèse et notamment
+
+663
+00:31:27,740 --> 00:31:30,620
+les gènes suppresseurs de tumeurs, ce sont des
+
+664
+00:31:30,620 --> 00:31:33,220
+régulateurs négatifs de la prolifération tumorale.
+
+665
+00:31:33,700 --> 00:31:35,960
+La perte de fonction est récessive.
+
+666
+00:31:36,120 --> 00:31:38,220
+Il faut une activation des deux copies d
+
+667
+00:31:38,220 --> 00:31:39,720
+'allèles pour que ça fonctionne.
+
+668
+00:31:40,160 --> 00:31:42,680
+Et là, regardez, une seule mutation n'est
+
+669
+00:31:42,680 --> 00:31:43,420
+pas suffisante.
+
+670
+00:31:43,420 --> 00:31:45,580
+Il faut qu'il y ait une deuxième
+
+671
+00:31:45,580 --> 00:31:51,360
+pour qu'il y ait un arrêt de
+
+672
+00:31:51,360 --> 00:31:53,600
+fonctionnement de ces gènes suppresseurs de tumeurs.
+
+673
+00:31:54,640 --> 00:32:00,780
+Alors là, l'inactivation, regardez là, de première
+
+674
+00:32:00,780 --> 00:32:04,320
+allèle, l'inactivation de deuxième, soit par déletion,
+
+675
+00:32:04,540 --> 00:32:06,300
+soit par mutation, ça va donner une perte
+
+676
+00:32:06,300 --> 00:32:06,780
+de fonction.
+
+677
+00:32:08,260 --> 00:32:11,180
+Les gènes suppresseurs de tumeurs les plus connus,
+
+678
+00:32:11,180 --> 00:32:12,920
+c'est le gène RB, c'est le
+
+679
+00:32:12,920 --> 00:32:15,360
+gène de rétinoblastome qui va donner à la
+
+680
+00:32:15,360 --> 00:32:17,760
+fois des rétinoblastomes et des ostéosarcomes.
+
+681
+00:32:18,040 --> 00:32:20,040
+Il doit affecter les deux copies de gènes.
+
+682
+00:32:20,240 --> 00:32:24,260
+La première déletion, elle est germinale ou somatique.
+
+683
+00:32:24,680 --> 00:32:27,500
+Elle est germinale dans les cancers héréditaires ou
+
+684
+00:32:27,500 --> 00:32:29,440
+bien somatique dans les cancers sporadiques.
+
+685
+00:32:29,820 --> 00:32:32,400
+La deuxième déletion, elle est surtout somatique.
+
+686
+00:32:32,560 --> 00:32:35,680
+Ça va donner une inactivation bialélique et un
+
+687
+00:32:35,680 --> 00:32:37,220
+cycle cellulaire non contrôlé.
+
+688
+00:32:38,420 --> 00:32:40,360
+Alors, les gènes qui réparent l'ADN, c
+
+689
+00:32:40,360 --> 00:32:42,920
+'est une catégorie particulière de gènes suppresseurs de
+
+690
+00:32:42,920 --> 00:32:45,500
+tumeurs qui sont capables de détecter et réparer
+
+691
+00:32:45,500 --> 00:32:46,780
+les lésions de l'ADN lors de la
+
+692
+00:32:46,780 --> 00:32:47,640
+division cellulaire.
+
+693
+00:32:48,020 --> 00:32:49,860
+Leur perte de fonction est récessive.
+
+694
+00:32:49,980 --> 00:32:51,380
+Il faut qu'il y ait une inactivation
+
+695
+00:32:51,380 --> 00:32:52,940
+des deux copies comme ce qui se passe
+
+696
+00:32:52,940 --> 00:32:54,300
+pour les anti-oncogènes.
+
+697
+00:32:54,880 --> 00:32:59,220
+Ils ont un rôle indirect par rapport à
+
+698
+00:32:59,220 --> 00:33:02,260
+l'altération d'oncogènes et de gènes suppresseurs
+
+699
+00:33:02,260 --> 00:33:02,800
+de tumeurs.
+
+700
+00:33:03,880 --> 00:33:06,240
+Alors, il faut dire que, s'il vous
+
+701
+00:33:06,240 --> 00:33:10,260
+plaît, l'oncogènes est un processus multi-étapes.
+
+702
+00:33:10,740 --> 00:33:12,020
+Ce n'est pas du jour au lendemain
+
+703
+00:33:12,020 --> 00:33:13,100
+qu'on aura un cancer.
+
+704
+00:33:13,240 --> 00:33:14,760
+Et aussi, ce n'est pas en prenant
+
+705
+00:33:14,760 --> 00:33:16,620
+un kilo d'oignon avec un kilo d
+
+706
+00:33:16,620 --> 00:33:18,500
+'ail qu'on aura un arrêt de prolifération
+
+707
+00:33:18,500 --> 00:33:18,800
+tumorale.
+
+708
+00:33:21,260 --> 00:33:26,920
+Le grand Dieu a tellement de mécanismes que
+
+709
+00:33:26,920 --> 00:33:31,200
+la cellule peut prendre pour acquérir ce phénomène
+
+710
+00:33:31,200 --> 00:33:31,780
+d'oncogènes.
+
+711
+00:33:32,320 --> 00:33:33,860
+Et la cellule est dynamique.
+
+712
+00:33:33,860 --> 00:33:35,200
+Elle va synthétiser.

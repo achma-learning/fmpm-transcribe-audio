@@ -1,0 +1,89 @@
+Bonjour, le cours d'aujourd'hui est intitulé phénomène osmotique. Donc, le phénomène osmotique fait intervenir la notion d'osmose. Osmose ou osmose, c'est un phénomène de diffusion entre deux solutions qui sont d'osmolarité différente.
+
+Et à travers une membrane qui a une caractéristique semi-permeure. Donc, le schéma ci montre deux compartiments, un et un compartiment deux, qui sont séparés par une membrane semi-permeure. Et l'eau dans le compartiment deux est pure, donc l'osmolarité est égale à zéro.
+
+Alors que la solution un a une osmolarité de concentration simple. Et donc, l'eau va passer du milieu deux, le milieu hypotonique, vers le milieu un, le milieu hypertonique. Et le volume du milieu un va augmenter alors que celui du milieu deux va diminuer.
+
+Et l'équilibre ne va pas s'établir jusqu'à ce que le volume deux égale à zéro. Donc, le déplacement du solvant seul est appelé osmose. Ce déplacement est dû à la différence de potentiel chimique mu du solvant entre un et deux.
+
+Le potentiel chimique est maximal si le solvant est pur et diminue lorsque l'osmolarité de la solution augmente. Donc, la pression osmotique. Pour mettre en évidence la pression osmotique, on va utiliser le même dispositif que le diapositif précédent.
+
+C'est à dire, du milieu séparé par une membrane semi-permeable. Le milieu un est hyperosmolaire alors que le milieu deux est hypoosmolaire. Ou il peut être de l'eau pure.
+
+Et donc, le solvant va passer du milieu deux vers le milieu un. Si on met en place un tube dans le milieu de la solution un, on va voir que la solution ira s'élever dans le tube. Et sa pression augmente.
+
+Après un certain temps, la solution un arrive à une hauteur h qui est constante avec l'établissement d'un état d'équilibre. Cette fois-ci, la pression au niveau du milieu deux est inférieure au milieu un. Donc, la différence de pression entre le milieu un et deux égale l'état P, égale P1-P2, égale ρgh.
+
+C'est la masse volumique fois la pesanteur fois la hauteur. Et donc, cette variation de pression est appelée pression osmotique. Pour interpréter, l'équilibre est réalisé lorsque le flux d'eau est égal à zéro.
+
+Ça veut dire qu'il n'y a plus de passage d'un milieu vers un autre. Et ceci, il existe lorsqu'il existe une pression qui compose les variations de pression entre les deux milieux. C'est ce qu'on appelle la pression osmotique de la solution.
+
+La pression osmotique a la même valeur que les variations de pression et se mesure grâce à un décimomètre à membrane. Donc, le dispositif contre, c'est un osmomètre qui est composé par un tube de verre de 5 mm et un bouchon de carton, un seul trou. Et puis, il y a une ampoule en verre.
+
+Et puis, il y a la membrane semipermeable sous forme de feuilles de papier. Et donc, l'osmomètre du trochet, on peut mesurer la pression osmotique d'une solution en la plongeant dans différents types de solutions. Donc, c'est un appareil qui permet de mesurer la pression osmotique d'une solution.
+
+Alors, l'analogie entre la diffusion en phase gaceuse et la diffusion en phase liquide. Donc, on a vu dans les cours précédents que dans un lieu gazeux où il y a un gaz parfait qui est placé dans une enceinte fermée, il existe une pression sur la paroi de l'enceinte avec rebondissement sur la face interne de cette paroi des molécules du gaz parfait. Donc, si dans une enceinte à deux compartiments séparés par une membrane semipermeable, l'un contient de l'eau pure et l'autre de l'eau et des solutés.
+
+Donc, les solutés ne parviennent pas à traverser la membrane semipermeable, d'où ils rebondissent sur cette membrane en exerçant sur elle une certaine pression stable dans le temps. C'est la pression osmotique. Donc, l'eau pure va passer du milieu 2 vers le milieu 1 et la membrane va se déplacer du milieu 1 vers le milieu 2, c'est-à-dire qu'il va augmenter de pression.
+
+La loi de Van't Hoff qui est appliquée pour les gaz parfaits. Donc, la pression exercée par les molécules du gaz sur la paroi de l'enceinte est donnée par l'équation d'état des gaz parfaits P égale nRT. Et donc, par analogie, la pression osmotique W de la solution est la quantité nRT sur V. Avec n, le nombre de molles. 
+
+V, c'est le volume de la solution. N sur V, c'est l'osmolarité. C'est la solution qui ne peut pas traverser la membrane.
+
+Et donc, W égale RTC, avec R, constante des gaz parfaits, était la température en degrés Kelvin. L'adaptivité des pressions osmotiques. La pression exercée par un mélange de gaz parfaits est égale à la somme de pression partiale PI des différents gaz I du compartiment.
+
+Donc, c'est la loi de Dalton. Et donc, cette application, on peut l'utiliser pour les solutions ou les pressions osmotiques, qui est la somme des solutions, des différentes constituants d'une solution. Et donc, la courbe de variation de pression en fonction de la concentration, c'est une courbe linéaire croissante W égale RTC.
+
+Pour les pressions osmotiques des solutions macromoléculaires non dissociées, on va constater que la courbe n'est plus une broite linéaire croissante, mais une courbe parabolique. Donc, l'équation est de AC plus BC² plus DC à puissance 3. Et donc, cette courbe parabolique est due à la présence de macromolécules linéaires, qui sont les protéines. Et donc, dans ce cas-là, on a la pression osmotique égale RTC, elle est due à la pression osmotique des solutés, plus RTC², qui est due aux pressions des macromolécules.
+
+Alors, deux cas de figure, soit un fluide de solvants, soit un fluide de solvants et des petites particules. Pour l'utilité des solvants, le solvant seul, ça peut être de l'eau pure, soit deux solutions, ou deux milieux où il y a une solution 1 de pression osmotique W, soumise à une pression 1, et un milieu 2, qui est un solvant pur, et qui est seulement sous la pression P2. Donc, le flux de pression, c'est une pression hydrostatique, qui est le numéro P1 et le numéro P2.
+
+Donc, le flux liquidien entre les deux milieux, entre les milieux 1 et 2, il va y avoir, bien sûr, le passage du solvant pur du milieu 2 vers le milieu 1, et qui est proportionnel, ou qui est égal à la variation de pression hydrostatique du milieu 1, moins la pression hydrostatique du milieu 2, moins la pression osmotique. Soit la surface de la membrane du dialyse séparant les deux milieux, soit une constante K. Pour le fluide de solvants et des petites particules, toujours la membrane du dialyse, il sépare les deux solutions 1 et 2. Et cette fois-ci, la solution 1 est soumise sous une pression en quantique Pi1 et une pression P1, alors que la solution 2 est soumise à une pression en quantique Pi2 et une pression hydrostatique P2. Donc, le flux entre les deux milieux, du milieu 1 vers le milieu 2, égale cette constante K fois la surface de la membrane séparant les deux milieux, fois la variation de pression P1 moins P2, moins la variation de pression en quantique du milieu 1 et du milieu 2. Lorsque la solution contient des petites particules et des macromolécules, alors le flux égale K fois S fois P1 moins Pi1.
+
+Avec P1 moins Pi1, c'est la pression de filtration. Le travail d'utilisation et le travail de concentration, le travail osmotique. L'expérience suivante montre que lorsqu'on a un cylindre fermé partagé en deux compartiments par un piston qui n'est qu'une membrane semi-perméable, dans le compartiment 1, on place N molles de soluté, donc 2 molarités, c'est 1 égale N1 sur 21, et dans le compartiment 2, on place de l'eau pure.
+
+L'eau qui va passer spontanément, puisque le milieu est hypo-osmotique, ou il est de l'eau pure, du milieu 2 vers le milieu 1, donc c'est le phénomène d'osmose. Et en même temps, le volume V1 va augmenter et le volume V2 va diminuer. Lorsque le piston va se déplacer du milieu 1 vers le milieu 2. Donc le piston est soumis à une force F et se déplace vers le compartiment 2. Il existe donc un travail qui est une variation d'énergie d'un valve.
+
+Pour interpréter, on a dE égale moins dW, donc le travail, égale l'énergie, égale la pression fois les variations de volume. Or, la force égale la pression fois la surface, et l'énergie égale la force fois la longueur. Donc les variations d'énergie, si on pose P égale W, les variations d'énergie égale la pression, ou égale la force fois la longueur, donc égale la pression fois la surface fois la longueur.
+
+Et donc égale la pression, ou la pression osmotique, fois la longueur fois la surface, c'est le volume, donc égale P égale W. Or, W, on a vu qu'il est égale RTC, donc égale la constante de gaz par F fois la température fois la concentration. Qui est égale nRT sur V, la concentration égale n sur V. Et donc dE égale nRT fois dv sur V. Or, on peut intégrer dv sur V égale ln de V1 sur V2. Or, à l'état initial, on a le volume V1 qui est n égale n sur C1, et à l'état final, on a le volume V2 qui est égale n sur C2.
+
+Donc dE égale nRT ln C2 sur C1. Et donc, si C2 est inférieur à C1, dE est inférieur à 0, donc la solution perd de l'énergie, on parle d'une dilution. Le phénomène se produit spontanément, la dilution est passive.
+
+Si cette fois-ci, C2 est supérieur à C1, c'est la concentration, dE est supérieur à 0, la solution reçoit de l'énergie. Le phénomène est non spontané, il est donc actif. Exemple, le travail d'un rein.
+
+Pour concrétiser cet exemple, on va donner un exercice. Un rein à partir du placement de smolarité 300 millimoles par litre produit de l'urine de smolarité 600 millimoles par litre. Déterminer le travail du rein et les variations d'énergie correspondantes lorsque le rein produit un litre d'urine.
+
+Pour la solution, on a 600 millimoles qui sont passés d'une solution de smolarité C1, c'est-à-dire du plasma qui a 300 millimoles par litre, à une smolarité C2 de 600 millimoles. C'est l'osmolarité des urines à une température de l'organisme de 35°C. Donc on a les urines C2, c'est 600 millimoles par litre, alors que le plasma C1, c'est 300 millimoles par litre.
+
+On aura donc deltaE égale nRT, où R c'est la concentre de gaz parfaite, c'est 8,31. T est la température en degrés qui est l'huile, 273 plus 37. Et n va être égal 0,600 sur 0,300 ou ln de 600 sur 300, ce qui va nous donner une valeur de 1066 joules.
+
+Donc deltaE est supérieur à 0, l'urine est plus concentrée que le plasma. Donc le rein a fourni de l'énergie à l'urine, il s'agit d'un phénomène actif. Les autres applications pour la membrane cellulaire.
+
+Exemple de la membrane du globule rouge. Les globules rouges se sont placés dans des solutions de chlorure de sodium de concentrations différentes. Si l'osmolarité de la solution NaCl est de 300 millimoles par litre, c'est-à-dire que celle du plasma, la forme du globule rouge ne varie pas.
+
+Et la solution est dite isotonique. Au globule rouge. Si cette fois-ci l'osmolarité de la solution est supérieure à 300 millimoles par litre, le volume du globule rouge diminue.
+
+C'est ce qu'on appelle le phénomène de plasmolyse. La solution est dite hypertonique. Donc, si l'osmolarité de la solution est inférieure à 300 millimoles par litre, c'est-à-dire une solution hypotonique, le globule rouge va augmenter de taille et donnera ce qu'on appelle une forme de sphérocytose.
+
+Si cette fois-ci l'osmolarité est très hypotonique, inférieure à 170 millimoles par litre, la membrane du globule rouge s'éclate et libère de l'hémoglobine. C'est le phénomène de démolyse. Donc, ces trois formes sont schématisées dans le schéma ci-dessous.
+
+Et la forme normale est au milieu. Donc, pour interpréter, la membrane du globule rouge est une membrane semi-perméable. Il est perméable à l'eau, il est imperméable aux ions Na+.
+
+Ou il est peu perméable à Na+. Mais les autres ions, tels que le Cl- ne pénètrent pas dans le globule rouge. Si la concentration de la solution de NaCl est supérieure à 300 millimoles par litre, l'eau y quittera le globule rouge et diminue de volume.
+
+Si, au contraire, il est inférieur à 300 millimoles par litre, l'eau aura tendance à pénétrer dans le globule rouge. On parle d'un phénomène d'urgescence. Conséquence de cette mesure de résistance globulaire.
+
+Donc, le globule rouge est placé dans une solution de concentration décroissante inférieure à 170 millimoles par litre. Normalement, il y aura des démolyses du globule rouge. Entre 170 et 300 millimoles, il y a une augmentation du volume du globule rouge sans qu'il y ait de démolyse.
+
+Mais, parfois, il peut y avoir des démolyses, même à partir de 270 millimoles. On parle d'une fragilité du globule rouge responsable d'une forme d'anomie hémolithique, tels que la drépanocytose. Le deuxième cas d'exemple d'application.
+
+On a les mouvements de perméabilité par des antibiotiques de solidarité au niveau de la paroi capillaire. La paroi capillaire est une paroi imperméable aux protéines. Elle permet de sauvegarder les protéines et de maintenir une différence d'osmolarité entre le plasma, riche en protéines, et le liquide interstitial, dépourvu de protéines.
+
+Donc, il y a une osmolarité qui diffère entre les deux milieux. Cette différence d'osmolarité est responsable d'un flux osmotique Φ0, qui est exactement annulé par le flux de filtration Φf au rapport avec le surcroît de pression hydrostatique dans le compartiment vasculaire. Donc, le schéma montre un flux osmotique du compartiment interstitial vers le compartiment vasculaire, et un flux hydrostatique inverse.
+
+Les protéines jouent un rôle majeur dans le maintien de la volumétrie. Et donc, le flux osmotique d'eau et des déchets cellulaires quitte les cellules. C'est ce qu'on voit en bas au niveau des cellules, donc l'aspect couleur vert.
+
+Donc, il quitte les cellules pour aller vers les capillaires veineux, et inversement, le flux de filtration. L'eau et les protéines neutralisent, il quitte l'artériole ou le capillaire artérien pour aller vers les cellules. Et donc, c'est là où se fait la filtration des différents nutriments, par l'apport d'eau, des nutriments et de l'oxygène vers la cellule, et le départ des déchets, de l'eau et du CO2 à travers les cellules vers les capillaires veineux.
+
+Et je vous remercie.

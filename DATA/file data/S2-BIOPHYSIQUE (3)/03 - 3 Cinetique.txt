@@ -1,0 +1,107 @@
+Bonjour, le cours de ce matin intitulé signatifs de transformation radioactif, il fait suite au cours de la radioactivité. Comme objectif du cours, on doit connaître l'expression de cette loi de décroissance radioactive et l'activité d'une source d'un produit radioactif. On doit aussi connaître la constante lambda de la décroissance radioactive, puis calculer la masse à partir d'une activité, et calculer l'activité à partir d'une masse.
+
+La loi de la radioactivité, on a vu que la radioactivité est un phénomène qui est aléatoire, et il est impossible de prévoir à quel moment un noyau radioactif peut se transformer. Par contre, il est possible de déterminer une probabilité pour que ce noyau se transforme par l'unité de temps. La probabilité, c'est un chiffre ou un nombre par unité de temps, c'est le second moisien, et qui représente la constante radioactive ou probabilité de désintégration, et qui caractérise les radionucléides.
+
+Cette constante radioactive lambda ne dépend ni des conditions physiques ou chimiques, ni de l'âge de l'atome, parce qu'elle caractérise les noyaux des atomes radioactifs. La décroissance radioactive est une réduction du nombre de noyaux radioactifs dans un échantillon. La décroissance radioactive se produit jusqu'à ce que tous les noyaux de l'échantillon soient stables.
+
+L'enjeu, c'est que c'est un paramètre qui est très important pour le secteur de la gestion des déchets nucléaires. D'ailleurs, on n'a pas l'autorisation d'éjecter ou d'éliminer les déchets de produits radioactifs tels qu'utilisés au service de rayonnement, sans avoir une décroissance radioactive convenable. Cette décroissance radioactive nous permet de pratiquer la radioprotection et de prévoir les effets radiotoxicologiques ou radioécologiques de l'exposition d'une population.
+
+Également, il faut tenir compte des phénomènes d'absorption et des bioaccumulations. L'expression d'un nombre N de noyaux radioactifs en fonction du temps, soit un nombre N à l'instant t d'un nombre radioactif d'une espèce présente à la date t, entre cette date t et t plus d de t, il y a un certain nombre de noyaux qui se désintègrent et changent de nature. Ce qu'on appelle D2N, c'est la variation du nombre d'atomes entre ces deux dates.
+
+Donc la probabilité pour qu'un noyau radioactif se transforme est notée l'un d'un. Et on peut avoir une relation entre tous ces paramètres par la formule suivante. Donc la formule qui va regrouper tous les paramètres que je viens de décrire, c'est que le nombre de noyaux D2N ou le nombre de noyaux qui vont se désintégrer pendant cette petite fraction de temps, est proportionnel à lambda, qui est la constante de décroissance radioactive.
+
+Il est proportionnel au nombre de noyaux initials à l'instant t et est proportionnel à cette variation de temps D2t. Mais puisque c'est une décroissance, on va leur ajouter le moins à ce produit. Donc on peut déduire que le nombre de noyaux qui se désintègrent sur le nombre de noyaux t égale moins lambda D2t.
+
+Et donc l'intégrale de D2N sur N égale moins lambda D2t. On peut déduire que l'intégrale de D2x sur x égale logarithme néparien de x. Donc l'intégrale de D2N sur N égale logarithme néparien de N, qui est égale à moins lambda t plus une constante. Et l'instant t égale à zéro, logarithme néparien de N égale cette constante.
+
+Quand on va remplacer le t égale à zéro. Et on peut déduire que le logarithme néparien de N égale moins lambda t plus le logarithme néparien de N à l'instant zéro, qui est égale à la constante. Et donc le logarithme néparien de N sur N0 égale moins lambda t. Donc on peut déduire que le nombre de noyaux N sur le nombre de noyaux N0 égale exponentiellement moins lambda t. Et donc on peut conclure que le nombre de noyaux à l'instant t égale à N0, le nombre de noyaux à l'instant t égale à zéro, fois l'exponentielle de moins lambda t. Donc cette relation représente une décroissance exponentielle du nombre de noyaux radioactifs avec le temps.
+
+C'est la loi de décroissance que M. Becheren et M. Marie Curie ont posé en 1902. La représentation graphique de cette formule, c'est un exponentiel décroissant, donc un parabole qui va décroître de N0 jusqu'à l'infini, donc il va tendre vers 0. Et on peut déduire de cette courbe le N0 sur 2, ça veut dire la moitié du nombre de noyaux qui sont désintégrés à l'instant T, qui est la période du produit radioactif. Cette courbe également, on peut la convertir en décroissance radioactive en coordonnées semi-logarithmiques en rajoutant le logarithme des périodes à la formule.
+
+Et donc on va avoir une droite décroissante de fonction x égale à aX, moins aX. Donc la constante radioactive, elle caractérise le noyau radioactif, ça veut dire qu'elle caractérise l'intérieur de la tombe qui est le noyau, et elle n'a pas de rapport avec le cortège électronique. Les dimensions de cette constante radioactive lambda, on l'a dit au départ, c'est le second de moins 1, c'est un nombre par unité de temps.
+
+Donc si on prend une petite partie de la courbe de décroissance, c'est à dire qu'on va dériver la courbe. Et donc cette dérivée de N'T égale à D2NT sur D2T, on va dériver par rapport au temps, et on va trouver une autre formule ou une autre équation qui est l'activité d'une source radioactive. Quand on dérive le nombre de noyaux sur D2T, on va avoir D2N, la valeur absolue de D2N sur D2T égale lambda N à l'instant T. Donc le nombre de noyaux qui se désintègrent par unité de temps également est un nombre qui est égal à l'activité zéro inversement exponentielle, donc c'est un nombre qui décroît exponentiellement avec le temps.
+
+Donc l'activité d'une source radioactive diminue au cours du temps de la même manière que le noyau radioactif. Le graphique de l'activité, il ressemble à celui du nombre de noyaux. Sauf ici dans les coordonnées, on trouvera l'activité A en Becquerel.
+
+Et le temps où égale la moitié de l'activité qui est désintégrée est appelé le T1 demi. L'unité de l'activité d'une source radioactive classique c'est le Curie par hommage à Madame Marie Curie. Et un Curie c'est l'activité d'un gramme de radium 226.
+
+Un Curie égale 3,7310 Becquerel. Donc il faut mémoriser que c'est l'activité d'un gramme de radium 226. Puisque c'est un chiffre qui est très grand, du 10 à la puissance 10, on peut utiliser les millicuries.
+
+Donc un millicurie égale 3,7 x 10 à la puissance 7 des intégrations par seconde. Et un microcurie c'est 3,7 x 10 à la puissance 4 des intégrations par seconde. Puis il y a le Becquerel, également c'est une autre unité de l'activité.
+
+C'est une activité actuelle qu'on utilise en pratique. Le Becquerel est par hommage à Monsieur Becquerel un Becquerel d'une des intégrations par seconde. Puisque c'est un chiffre qui est très petit, donc on peut utiliser les unités en méga Becquerel qui est 10 puissance 6 Becquerel.
+
+Et Géga Becquerel qui est 10 puissance 9 Becquerel. Il faut noter que un curie égale 3,7 x 10 à la puissance 10 des intégrations par seconde. Donc un Becquerel égale 0,27 x 10-10 curie.
+
+L'activité spécifique c'est une activité dans laquelle on va diviser l'activité par la masse de l'échantillon radioactif. L'unité c'est le Becquerel par kg ou le curie par mol. Puis le paramètre vie moyenne c'est l'inverse de la constante radioactive.
+
+Donc il ne faut pas confondre avec la demi-vie. La période radioactive. Donc on a dit que la période radioactive c'est la demi-vie.
+
+C'est le temps dans lequel la moitié des noyaux radioactifs d'un radionucléide se sont désintégrés. Donc la demi-vie en fonction de lambda. On a au départ n1, n instant t égale n0 exponentiel moins lambda t égale n0 sur 2. Et donc l'exponentiel de moins lambda t on va simplifier égale n demi lambda t égale ln de 2 égale 0,693.
+
+Et donc t la période radioactive égale 0,693 sur lambda. L'unité de t c'est le seconde. Et t peut varier d'une fraction de seconde à des milliards d'années.
+
+Par exemple le brome 12,5 a une période de 0,02 seconde. Alors que l'uranium 238,92 a une période de 4,5 milliards d'années. Donc la moitié des noyaux radioactifs vont se désintégrer.
+
+Pendant une période soit 1,0 sur 2. Ou 1,0 sur 2 à la puissance 1 correspond à une période. La moitié de cette moitié soit 1,0 sur 2 à la puissance 2 correspond à deux périodes de t. Et ainsi de suite. Et donc le nombre de noyaux qui se désintègrent pendant 10 périodes c'est 1,0 sur 2 à la puissance 10.
+
+Donc ceci dit qu'on peut l'appliquer dans la radioprotection et dans la gestion des déchets radioactifs. De faibles périodes et de faibles toxicités. Donc à une période de 10 périodes, 10 fois le grand t. C'est le temps au bout duquel la radioactivité a diminué d'un facteur de 1000.
+
+Puisqu'il est à peu près égal 1024 égal 2 à la puissance 10. Donc après 10 périodes on peut rejeter les déchets radioactifs. Tels que les déchets liquides dans les effluents et dans les égaux normaux.
+
+Sans risque d'exposition radiologique aux radioactifs pour la nature. Donc c'est ce que j'ai dit dans cette diapositive précédente. Donc après 10 périodes, le nombre de noyaux radioactifs qui se désintègrent est de 1000 fois.
+
+Donc on divise l'activité par 1000. C'est la valeur dans laquelle on va avoir une activité résiduelle. Les filiations radioactives sont une manière de gérer les produits radioactifs.
+
+C'est une application des radionucléides et de leurs descendants. Tels que le nucléide père et le nucléide fils. Le nucléide père, on va donner une valeur d'activité A1.
+
+Il décroît de façon exponentielle jusqu'à l'infini. Donc il va tendre vers 0. Et puis le nucléide fils, il croît à une valeur maximale. Puis il décroît parallèlement à son père A1.
+
+Donc le maximum de A2 est obtenu par le temps Tmax qui est égal à une valeur bien déterminée. Qui est égal à A2. Et donc cette application de filiations radioactives, on peut les utiliser dans les générateurs des produits radioactifs.
+
+Ici le générateur qu'on utilise en médecine nucléaire, c'est le générateur du molybdenum technetium. On l'appelle également le Havash a technetium. Puisqu'on peut traire, on va traire le technetium chaque matinée.
+
+Et qu'on va utiliser après pour les explorations isotopiques des patients. Donc le père qui est le molybdenum, il a une durée de vie plus grande de 66 heures. Et le fils qui croît, au fur et à mesure que le père décroît, a une durée de vie de 6 heures.
+
+Donc convenable pour l'utilisation des imageries scintigraphiques. Et qui permet également de protéger l'entourage après l'examen du patient. Par cette durée de vie qui est limitée.
+
+Donc l'exemple des filiations radioactives, on utilise le technetium 99M dans les services de médecine nucléaire. Pour les examens d'imagerie scintigraphique, le générateur est appelé générateur molybdenum technetium. Donc devant nous, il y a une image qui représente le blindage du plan qui entoure le générateur du molybdenum O. Et au milieu, il y a le technetium de TC.
+
+C'est le technetium qu'on va injecter au patient. Après cette réalisation de ce qu'on appelle une élution. Donc l'élution, on va utiliser un flacon avide qu'on va percer dans cette seringue.
+
+Et qui va recueillir la solution du technetium qu'on va injecter au patient. Donc cette réaction est celui, la réaction nucléaire du molybdenum 99 qui va donner le technetium 99M et qui se transforme en technetium stable. Donc ici, c'est le générateur du molybdenum.
+
+Avec le flacon, on va percer dans l'aiguille qui est sous vide et qui va aspirer le technetium 99M. Le technetium 99M, il peut se fixer dans presque tous les organes. Il ressemble à l'I831, il se fixe au niveau de la thyroïde.
+
+Il se fixe au niveau du tube digestif. Mais on peut l'utiliser avec des traceurs. Donc c'est des traceurs qu'on peut utiliser avec des marqueurs.
+
+Tels que l'HMDP dans les scintigraphies osseuses. Et le MIBI dans les scintigraphies myocardiques. Donc ça, c'est le phénomène d'illusion qu'on réalise chaque matin au niveau des services de médecine nucléaire.
+
+Donc les applications médicales du technetium métastable. On voit ici une image de la glande thyroïde qui est très rouge. Donc c'est une scintigraphie thyroïdienne.
+
+Et qui fixe intensément peu. On peut suspecter une maladie de base d'œuvre pour cette patiente. Donc on va enchaîner par quelques exercices.
+
+Le technetium 99M a une durée de vie de 6 heures. On va chercher sa constante radioactive. Donc lambda.
+
+On a la formule Tn demi égale Ln de 2 sur lambda. Donc facilement lambda va être égale Ln de 2 sur T. Et on va convertir le T en secondes. Pour avoir une valeur de lambda.
+
+En secondes moins 1. Pour mesurer la masse d'un échantillon radioactif. On peut utiliser la formule A à l'instant T égale lambda N0. Exponentiel moins lambda T. Or A c'est l'activité égale lambda N. Et donc la masse de l'échantillon.
+
+La masse de l'échantillon correspond à ce grand nombre N. Donc le nombre qui correspond à la formule de l'activité. Et A c'est le nombre de masse de cet élément. La masse molaire de cet élément correspond à un nombre d'avogadro grand N. Et donc on peut déduire la petite masse m. Qui est égale à A fois N sur le nombre d'avogadro.
+
+Or N égale l'activité sur la constante de désintégration lambda. Donc si j'ai l'activité et je connais la constante de désintégration lambda. Je peux déduire la masse m de l'échantillon.
+
+Et donc la masse m va être égale à le nombre de masse. Donc le grand A. fois l'activité sur lambda. Bien sûr le rapport également de nombre d'avogadro.
+
+Donc cette formule il montre que la masse c'est une valeur infiniment petite de l'échantillon radioactif. Donc la formule de la masse de l'échantillon radioactif. Je peux la déduire du nombre d'avogadro qui est connu qui est égale à 6.012 fois 10 à la puissance 23 moles moins 1. Qui est au dénominateur.
+
+Le nombre de masse il est connu. L'activité je peux la mesurer et le ln de 2 c'est 0.693. Et donc cette formule il montre que la masse en quantité il est très faible. Et on peut l'utiliser en milieu médical même chez le nourrisson.
+
+Il n'y a pas d'effet secondaire pour les produits radioactifs. Sauf quelques cas tels que la grossesse et l'allaitement. Donc également on peut déduire l'activité d'un gramme 1831 de période T égale 8.1 jours.
+
+A travers la relation grand A l'activité égale lambda fois le nombre de noyaux. Donc le nombre de noyaux grand N il est égal à la masse petit m fois le nombre d'avogadro grand N sur grand M le nombre de masse. Donc j'ai simplifié par lambda sur la première formule.
+
+Et donc l'activité égale lambda. Donc l'activité égale lambda fois le nombre d'avogadro grand N sur grand M le nombre d'avogadro. Alors le grand A égale l'activité égale Ln de 2 sur grand N fois petit m fois le nombre d'avogadro sur grand M le nombre de masse.
+
+Donc je peux déduire que l'activité il est égal à une valeur très élevée pour l'iode 131 de l'ordre de 10 puissance 15 Becquerel. Donc l'activité c'est un nombre très élevé alors que la période est un nombre alors que la masse est un nombre qui est petite de l'échantillon radioactif. Donc je finis ce cours et merci.

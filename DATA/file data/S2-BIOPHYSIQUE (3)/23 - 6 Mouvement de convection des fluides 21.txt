@@ -1,0 +1,103 @@
+Bonjour, le cours d'aujourd'hui est la suite des phénomènes de déplacement libre de la matière à l'intérieur de l'organisme humain. C'est les mouvements de convection des fluides. D'abord des définitions, un mouvement de convection est un déplacement de l'ensemble de la matière, en général un fluide.
+
+Donc on peut inclure à la fois le déplacement de l'ensemble de la matière, du son par exemple, le son au niveau des vaisseaux. Et pour les liquides, il y a le liquide céphalo-rachidien, il y a la lymphe, le liquide lymphatique au niveau des vaisseaux lymphatiques. Donc c'est un déplacement de convection en fonction des différents facteurs qu'on a vu, donc de force, de pression et autres.
+
+Et également le déplacement de l'air au niveau des branches, au niveau des poumons. C'est un déplacement de l'ensemble de l'air qui est un phénomène de convection. Déjà le phénomène de convection fait intervenir la notion de débit, le débit d'un fluide en mouvement.
+
+Donc le débit d'un fluide en mouvement, c'est la quantité de fluide qui traverse une section S d'une canalisation par unité de temps T. Et donc le débit c'est un volume, c'est des variations de volume, donc c'est des deux v par unité de temps, des deux T. Et donc l'unité est le mètre cube ou le litre par seconde. Les dimensions c'est l à la puissance 3 et T-1. Donc le débit égale les variations de volume, donc des deux v. On peut décomposer le volume en surface fois le déplacement, l, donc surface fois la longueur.
+
+Et donc on va avoir le débit égale surface fois d2l sur d2t, or d2l sur d2t c'est la vitesse. Donc le débit c'est la vitesse fois une surface ou une section. Et enfin on a le débit égale la section fois la vitesse.
+
+Donc le débit dans une canalisation unique apparaît non élastique de forme et orientation quelconque. En régime permanent, c'est à dire lorsque la canalisation est déjà remplie de fluide. Dans ce cas là, le schéma montre qu'au même instant, la même valeur du débit est notée tout au long de la canalisation.
+
+Donc le débit du temps ou du liquide au niveau du point A, donc au niveau de la section A, est la même qu'au niveau de la section B, est la même qu'au niveau de la section D, et ainsi de suite. D'où le débit est une valeur constante. Et le débit égale la section fois la vitesse.
+
+Le débit dans des ramifications. Considérant une canalisation mère qui se divise en plusieurs autres canalisations phi. Si la paroi des canalisations ne sont pas élastiques et si le régime est permanent.
+
+Le débit dans la canalisation mère est égal à la somme des débits dans les canalisations phi. Au même instant, quelles que soient les formes et les orientations des canalisations. Donc, de la canalisation mère, ici par exemple, le débit au niveau de la vente, il est de 5 litres par minute, égale le débit au niveau des artères coronaires, des artères qui irriguent les muscles squelettiques, des artères des autres organes.
+
+Et des vaisseaux qui se ramifient. Donc, le débit de la canalisation mère égale la somme des débits des ramifications. Le rôle de la section sur la vitesse.
+
+Le débit, on a dit, qui est égal à la vitesse fois la section. Et donc, le débit, quand il est constant, on aura, lorsque la vitesse diminue, la section va augmenter. Et inversement, si la section diminue, la vitesse va augmenter.
+
+Donc, on va étudier maintenant les natures des fluides. Les fluides de viscosité négligeable et les autres types de fluides à viscosité non négligeable. Donc, les fluides de viscosité négligeable, c'est-à-dire le n coefficient de viscosité est très diminué.
+
+Alors, il y a ce qu'on appelle l'énergie totale d'un fluide. L'énergie totale d'un fluide, c'est la somme des énergies cinétiques plus l'énergie potentielle plus l'énergie de pression. Donc, bien sûr, on va considérer un fluide de masse m de volume V qui est sous une pression P et place à une hauteur h. L'énergie totale est égale à 1,5mv² qui est l'énergie cinétique plus mgh qui est l'énergie de pesanteur ou l'énergie potentielle plus PV qui est l'énergie de pression.
+
+Le théorème de Bernoulli. Ce théorème est appliqué pour les fluides dont la viscosité est négligeable. C'est-à-dire qu'il n'y a pas de force de frottement et l'énergie totale des fluides est constante.
+
+Donc, lorsqu'il s'agit d'un fluide, d'un liquide, surtout, il est incompressible. Cela veut dire que le volume ne varie pas avec la pression. Et donc, lorsqu'on a une température qui est constante et un volume qui est constant, on va diviser l'équation de Bernoulli par le volume.
+
+On va avoir l'énergie de pesanteur qui est mgh plus l'énergie cinétique qui est 1,5mv² plus la pression est une constante. Donc, j'insiste sur le fait que cette théorie, il y a une conservation de l'énergie, donc l'énergie totale est une constante, mais elle n'est applicable que pour les fluides dont la viscosité est négligeable. Les conséquences du théorème de Bernoulli. 
+
+On parle du principe de la statique des fluides. Quand le fluide repose, cela veut dire que la vitesse du fluide est nulle. Dans ce cas-là, on va éliminer l'énergie cinétique.
+
+Et donc, on va avoir comme formule ρgh plus la pression est une constante. C'est ce qu'on appelle le théorème de Pascal. Le théorème de Pascal dit que la pression va augmenter avec la hauteur.
+
+Donc la pression est une constante moins ρgh. Si la hauteur varie de Δh, alors la pression varie de Δp. Cette expérience a été réalisée par M. Pascal.
+
+Quand il a mis à travers un tuyau, il a versé de l'eau dans un tonneau. Après un certain moment, il y a un éclatement de ce tonneau de bois. Donc la pression est élevée en bois.
+
+Et ceci également, il est prouvé lorsque les plongeurs sous-marines font des hyperpressions en profondeur. Donc à noter qu'à chaque 10 m de profondeur au-dessous du niveau de la mer, la surface de l'eau, la pression est environ le double de celle de l'atmosphère. Et elle augmente de 100 kPa.
+
+Ceci concerne également les sous-marines. Le rôle de la section sur la pression. Quand on a une canalisation qui est horizontale, la hauteur est une constante.
+
+Il n'y a pas de variation de hauteur. Et par la suite, RO-GH, ils ont les mêmes valeurs. Le long de la canalisation.
+
+Mais quand il y a une dilatation, c'est-à-dire une augmentation de la section de cette canalisation. On va avoir une diminution des valeurs de la vitesse et de la pression au niveau de cette dilatation par rapport au reste de la canalisation. Au niveau du rétrécissement, la vitesse et la pression ont des valeurs augmentées par rapport au reste de cette canalisation.
+
+Mesure des débits des fluides. Effet Ventrouille. Les dispositifs pour mesurer la vitesse circulatoire d'un liquide.
+
+Elles s'appellent les débitmètres. Ils permettent de faire des mesures des tubes de Ventrouille. A travers ces tubes, on peut déduire les débits des fluides.
+
+Le tube est donc supposé horizontal. C'est-à-dire à la hauteur, il est constant. Si D est le débit du fluide dans le tube, donc la vitesse égale le débit sur la section.
+
+C'est ce qu'on a vu au début du cours. Donc la vitesse dans un point A égale le débit sur la section B. En appliquant l'équation de continuité, Le théorème de Bernoulli se réduit à une relation qui dit que les variations de pression, S1 et S2 sont des caractéristiques qui sont connues du tube. Egalement la masse bolimique est connue du fluide.
+
+Et on peut mesurer les pressions avec les manomètres suivant la formule qu'on a ci-dessous. Le débit égale la racine carrée de 2 fois P A moins P B sur O fois 1 sur S2 au carré moins 1 sur S1 au carré. Donc le tout est sous la radicale.
+
+Cette technique permet de mesurer les débits des fluides. C'est ce qu'on appelle le tube de Ventrouille. Le régime d'écoulement d'un fluide de viscosité non négligeable.
+
+Il y a deux régimes d'écoulement d'un fluide de viscosité non négligeable. Il y a l'écoulement laminaire et l'écoulement turbulent. Pour l'écoulement laminaire, le déplacement des particules se fait de façon parallèle au sens général de l'écoulement.
+
+Les vecteurs vitesse sont parallèles entre eux. C'est ce qu'on voit sur la courbe ou sur le schéma ci-dessous. Les vecteurs vitesse sont parallèles.
+
+Ils ont le même sens que le sens de l'écoulement. Quand l'écoulement est turbulent, les vitesses ne sont pas parallèles entre eux. Et il y a une présence de turbulent avec une diminution importante de l'énergie totale.
+
+C'est le cas des rétrécissements au niveau des vaisseaux. Et donc il y a une perte de l'énergie totale. Et les vecteurs de vitesse sont orientés dans tous les sens.
+
+Le nombre de Raynaud. A travers ces deux types, ceux des régimes d'écoulement laminaire et turbulent, M. Raynaud a déposé une formule qui s'appelle le nombre de Raynaud. Et Raynaud a empiriquement déterminé le nombre qui prend son nom.
+
+Ce nombre est en fonction de la vitesse de l'écoulement du fluide, du rayon de la canalisation, de la masse volumique du fluide et du coefficient de viscosité du fluide. Ainsi, un écoulement est laminaire lorsque ce nombre de Raynaud est inférieur à 1000. Le nombre de Raynaud n'a pas d'unité.
+
+Quand le nombre de Raynaud passe vers 1500, l'écoulement devient turbulent. Lorsque le nombre de Raynaud est entre les deux, entre 1000 et 1500, le régime d'écoulement est instable. L'écoulement laminaire est la résistance périphérique.
+
+On part toujours dans un écoulement dont la viscosité du fluide n'est plus négligeable. Et il y a les forces de frottement au niveau du fluide. Comme fait expérimental, on a une canalisation horizontale.
+
+En différents points de laquelle on a placé des tubes transparents verticaux, A, B, C et D, ces tubes n'interviennent pas dans l'écoulement. Ils servent à mesurer la pression du liquide en A, B, C et D, d'où le nom de tube manométrique. Les pressions mesurées sont des pressions relatives entre la pression atmosphérique et la pression du liquide.
+
+Dans ce cas-là, on va trouver que la pression diminue au cours de l'écoulement. C'est-à-dire que la pression au niveau du point D est plus petite que la pression au niveau du point C, est plus inférieure que la pression au niveau du point B, est plus inférieure que la pression au niveau du point A. Contrairement à ce qu'on a vu dans la théorie de Bernoulli, donc ici, l'énergie n'est plus conservée. Il y a une perte d'énergie à travers l'écoulement.
+
+Et donc, à travers un écoulement des fluides de viscosité non négligeable, la loi qui dit qu'il y a une conservation d'énergie n'est plus valable, d'où la loi expérimentale de M. Poiseuil, qui a posé une équation. Lorsqu'il y a une canalisation horizontale cylindrique de rayons inférieurs à 1 mm, les variations de pression, Pb-Pc, égale une valeur de 8 fois le facteur ou la coefficient de viscosité, fois la longueur entre les deux canalisations, fois le débit sur Pi, fois le rayon de cette canalisation à la puissance 4. Ou, en général, on peut résumer le K égale 8 sur Pi, et donc on va avoir la valeur, les variations de pression égale K fois la viscosité, fois la longueur, fois le débit de cette canalisation. Et donc, après, on va aboutir à une relation qui dit que si on fait sortir le débit égale les variations de la pression sur un nombre R, ce grand R, on lui a donné la valeur de K fois N fois L sur R à la puissance 4. Et ce nombre R, il représente la résistance à l'écoulement.
+
+Donc lorsqu'il y a une résistance à l'écoulement dans un fluide de viscosité non négligeable, on a ce qu'on appelle la perte de charge. Et donc la pression, elle va diminuer au fur et à mesure qu'on s'éloigne de l'origine de l'écoulement. Cette relation D égale ΔP des variations de pression sur la résistance a une analogie pour la résistance de l'électricité.
+
+Comme interprétation, on a dit que la viscosité lorsqu'elle est nulle, alors l'énergie totale du fluide est constante, mais quand cette viscosité est non négligeable, elle est différente de zéro, dans ce cas-là il y a des frottements et perte d'une partie de l'énergie qui se transforme en chaleur. Et donc l'énergie totale va diminuer au cours de l'écoulement. Quand la hauteur et la vitesse sont constantes, la masse volumique et G sont des constantes, donc seul le facteur qui diminue, c'est la pression dans l'équation de Poiseuil.
+
+Donc il y a une diminution de pression lorsqu'on fait à la fin d'un écoulement des fluides de viscosité non négligeable. Conséquence de ces fluides de viscosité non négligeable. Donc le rôle d'un rétrécissement sur la pression et le débit.
+
+Le dispositif expérimental type B qu'on a ici-dessous montre que Lorsque la section de la canalisation horizontale a diminué, on va trouver que la pression cette fois-ci P'B qui est au niveau du point B qu'on a déjà fait dans l'expérience 1, est supérieure à P'B et P'C est inférieure à P'C. Donc P'B et P'C sont les pressions mesurées dans l'expérience A. Donc l'expérience B montre que lorsqu'il y a un rétrécissement qui se produit entre les points B et C, le débit va diminuer et dans ce cas-là les pertes de charges vont diminuer également. Donc les pressions en amont des rétrécissements sont plus élevées quand elles sont en absence.
+
+Alors qu'en aval, les pressions sont au contraire plus faibles. D'où ce qu'on appelle le rôle d'une dilatation sur la pression et le débit qui va suivre l'inverse du raisonnement ou du rétrécissement. Dans ce cas-là, en aval, les pressions sont plus grandes et en amont des dilatations, les pressions sont élevées.
+
+C'est ce qu'il montre sur le schéma. Lorsqu'il y a un rétrécissement d'un caillot, d'un vaisseau, par exemple un vaisseau d'une artère ou d'une veine du membre inférieur, on va trouver qu'il y a la pression qui va augmenter en amont du rétrécissement. Ce qui va donner ce qu'on appelle les œdèmes des membres inférieurs.
+
+C'est une pathologie qui se voit lorsqu'il y a des rétrécissements ou des obstacles des vaisseaux. Je reviens sur l'analogie entre les courants laminaires des fluides et le passage d'un courant électrique, c'est-à-dire la loi d'Ohm. La loi d'Ohm indique que la tension U d'un courant électrique est égale à la variation de V, la différence de potentiel, et est égale à la résistance au courant fois l'intensité du courant électrique.
+
+Pour la loi de déplacement du fluide, c'est la même, on a ΔP on peut dire qui est égale à le débit fois la résistance. C'est ce qui est illustré ici devant le schéma ci-dessous. Les fluides de viscosité non négligeables quand on pose ΔV, c'est-à-dire les variations de potentiel électrique entre deux bornes, sont égaux à la résistance du courant électrique fois l'intensité du courant électrique.
+
+Et pour ΔP ça veut dire que c'est les variations de pression égales à la résistance de l'écoulement du fluide fois le débit. Également on peut appliquer les notions de branchement en série ou en parallèle des circuits. Pour les conduire en série, la résistance égale d'un branchement mère égale la résistance des deux circuits.
+
+Pour les conduire en parallèle, 1 sur la résistance totale égale 1 sur la première résistance pure, 1 sur la 2. Pour les canalisations également, on a la même application qu'au courant électrique. Pour les conduire en série, la résistance du fluide égale la somme des résistances du fluide. Et pour les conduire en parallèle, 1 sur la résistance de la canalisation mère égale 1 sur la résistance de la canalisation Φ, 1 plus 1 sur la résistance de la canalisation Φ2 et ainsi de suite.
+
+Donc il y a une analogie entre la circulation du courant électrique dans un conduit électrique et la circulation des fluides tels que le sont dans une canalisation ou dans un vaisseau sanguin. Je vous remercie.

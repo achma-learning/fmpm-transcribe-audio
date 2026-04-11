@@ -1,0 +1,995 @@
+1
+00:00:02,310 --> 00:00:04,990
+Les solutions dans le milieu intérieur de l
+
+2
+00:00:04,990 --> 00:00:05,550
+'organisme.
+
+3
+00:00:10,950 --> 00:00:14,530
+Comme définition, une solution c'est un ensemble
+
+4
+00:00:14,530 --> 00:00:16,250
+de solvants plus soluté.
+
+5
+00:00:17,090 --> 00:00:20,170
+Le solvant, généralement, c'est un liquide.
+
+6
+00:00:21,870 --> 00:00:26,570
+Les solutés, généralement également, c'est des solides,
+
+7
+00:00:26,710 --> 00:00:28,490
+mais ils peuvent être liquides ou gaz.
+
+8
+00:00:28,490 --> 00:00:32,110
+Donc le schéma c'est de soumettre le
+
+9
+00:00:32,110 --> 00:00:35,050
+solvant qui est l'eau et le soluté
+
+10
+00:00:35,050 --> 00:00:35,910
+qui est un sel.
+
+11
+00:00:36,230 --> 00:00:39,990
+Donc la solution c'est l'eau salée.
+
+12
+00:00:40,890 --> 00:00:43,690
+Les types de solutions, on peut avoir une
+
+13
+00:00:43,690 --> 00:00:44,870
+solution liquide-liquide.
+
+14
+00:00:45,930 --> 00:00:49,230
+On parle de miscibilité, c'est lorsqu'il
+
+15
+00:00:49,230 --> 00:00:51,610
+existe des forces d'attraction entre les molécules
+
+16
+00:00:51,610 --> 00:00:52,930
+des deux liquides.
+
+17
+00:00:56,810 --> 00:00:58,850
+Exemple, l'eau plus l'alcool.
+
+18
+00:00:58,970 --> 00:01:02,150
+L'alcool, il est miscible totalement à l
+
+19
+00:01:02,150 --> 00:01:04,530
+'eau, ça veut dire qu'il se dissout
+
+20
+00:01:04,530 --> 00:01:07,150
+complètement, donc c'est une solution homogène.
+
+21
+00:01:08,090 --> 00:01:11,450
+L'eau et l'huile, c'est deux
+
+22
+00:01:11,450 --> 00:01:13,010
+liquides qui sont non miscibles.
+
+23
+00:01:15,340 --> 00:01:19,340
+Donc mélange de deux liquides, soit ils sont
+
+24
+00:01:19,340 --> 00:01:27,460
+miscibles lorsqu'il y a une dissociation de
+
+25
+00:01:27,460 --> 00:01:28,720
+l'un dans l'autre.
+
+26
+00:01:30,620 --> 00:01:34,920
+Et on parle de non miscibilité lorsqu'il
+
+27
+00:01:34,920 --> 00:01:36,540
+n'y a pas de dissociation de l
+
+28
+00:01:36,540 --> 00:01:41,020
+'un d'une solution ou d'un solvant
+
+29
+00:01:41,020 --> 00:01:42,380
+dans un autre solvant.
+
+30
+00:01:42,380 --> 00:01:47,650
+C'est le cas de l'huile et
+
+31
+00:01:47,650 --> 00:01:50,750
+l'eau qui sont des liquides partiellement miscibles.
+
+32
+00:01:51,730 --> 00:01:53,890
+Les solutions solides-liquides.
+
+33
+00:01:54,610 --> 00:01:58,750
+La solution solide-liquide, on parle de solubilité
+
+34
+00:01:58,750 --> 00:02:01,330
+ou de saturation.
+
+35
+00:02:02,330 --> 00:02:06,230
+Donc la solubilité, exemple le sel dont l
+
+36
+00:02:06,230 --> 00:02:09,050
+'eau se dissout facilement, il est soluble dans
+
+37
+00:02:09,050 --> 00:02:09,310
+l'eau.
+
+38
+00:02:10,130 --> 00:02:13,030
+Donc quand on met une petite pincée de
+
+39
+00:02:13,030 --> 00:02:15,110
+sel dans un verre d'eau, il va
+
+40
+00:02:15,110 --> 00:02:19,710
+se dissoudre complètement, on parle d'une dissociation
+
+41
+00:02:19,710 --> 00:02:20,530
+totale.
+
+42
+00:02:21,770 --> 00:02:24,770
+Mais si on prend par exemple un caillot
+
+43
+00:02:24,770 --> 00:02:26,250
+ou un morceau de bois, il n'est
+
+44
+00:02:26,250 --> 00:02:27,290
+pas soluble dans l'eau.
+
+45
+00:02:28,710 --> 00:02:30,570
+Si cette fois-ci on met une grande
+
+46
+00:02:30,570 --> 00:02:32,290
+quantité de sel dans un peu d'eau,
+
+47
+00:02:33,050 --> 00:02:36,130
+la totalité ne se dissout pas, c'est
+
+48
+00:02:36,130 --> 00:02:37,610
+le phénomène de saturation.
+
+49
+00:02:38,710 --> 00:02:43,110
+Donc le schéma, il montre le phénomène de
+
+50
+00:02:43,110 --> 00:02:48,250
+saturation lorsqu'on met abondamment du sel.
+
+51
+00:02:51,480 --> 00:02:55,020
+Remarque, l'eau c'est des molécules polaires,
+
+52
+00:02:55,940 --> 00:02:59,800
+H2O, qui ont des forces d'attraction.
+
+53
+00:03:01,720 --> 00:03:07,320
+Donc pour les différents sels, l'eau, on
+
+54
+00:03:07,320 --> 00:03:08,700
+parle d'un bon solvant.
+
+55
+00:03:08,700 --> 00:03:14,720
+A température élevée, la solubilité est élevée et
+
+56
+00:03:14,720 --> 00:03:15,340
+vice versa.
+
+57
+00:03:15,740 --> 00:03:18,500
+Si la température est basse, la solubilité diminue.
+
+58
+00:03:19,340 --> 00:03:21,680
+A la saturation, si la température est basse,
+
+59
+00:03:22,400 --> 00:03:24,120
+la solubilité passe à l'état solide.
+
+60
+00:03:26,380 --> 00:03:28,160
+C'est le cas de l'eau et
+
+61
+00:03:28,160 --> 00:03:30,140
+du sel, ou de l'eau et du
+
+62
+00:03:30,140 --> 00:03:30,660
+sucre.
+
+63
+00:03:31,970 --> 00:03:35,870
+Alors, la solution gaz liquide.
+
+64
+00:03:38,410 --> 00:03:43,470
+Il faut savoir que les gaz dans notre
+
+65
+00:03:43,470 --> 00:03:46,070
+organisme, il y a surtout l'oxygène, le
+
+66
+00:03:46,070 --> 00:03:48,230
+CO2, ils sont à l'état dissous dans
+
+67
+00:03:48,230 --> 00:03:51,070
+le sang pour aller vers les tissus.
+
+68
+00:03:51,070 --> 00:03:57,050
+Donc il passe de l'alvéole vers les
+
+69
+00:03:57,050 --> 00:04:01,390
+capillaires alvéolaires et puis vers les vaisseaux sanguines,
+
+70
+00:04:01,510 --> 00:04:03,650
+puis vers le cœur pour être distribué à
+
+71
+00:04:03,650 --> 00:04:05,710
+toutes les cellules de l'organisme.
+
+72
+00:04:06,710 --> 00:04:09,690
+Et donc la solution gaz liquide, à la
+
+73
+00:04:09,690 --> 00:04:13,430
+température donnée, et lorsqu'il y a une
+
+74
+00:04:13,430 --> 00:04:15,690
+saturation, la quantité de gaz dissous dans un
+
+75
+00:04:15,690 --> 00:04:19,110
+liquide, il est proportionnel à la pression exercée
+
+76
+00:04:19,110 --> 00:04:21,190
+par ce gaz sur le liquide.
+
+77
+00:04:23,200 --> 00:04:29,380
+Donc, exemple, cette figure, il montre deux compartiments.
+
+78
+00:04:30,100 --> 00:04:36,220
+Le premier, il y a une balance qui
+
+79
+00:04:36,220 --> 00:04:41,600
+mesure à masse égale la quantité du liquide
+
+80
+00:04:41,600 --> 00:04:44,840
+à une pression bien déterminée de 1 bar,
+
+81
+00:04:44,920 --> 00:04:45,400
+par exemple.
+
+82
+00:04:45,400 --> 00:04:48,200
+Si on augmente la pression jusqu'à 3
+
+83
+00:04:48,200 --> 00:04:51,580
+bar, au niveau de ce compartiment, on va
+
+84
+00:04:51,580 --> 00:04:55,900
+trouver que le liquide devient lourd, ça veut
+
+85
+00:04:55,900 --> 00:04:57,800
+dire qu'il y a un passage de
+
+86
+00:04:57,800 --> 00:05:01,800
+l'air du gaz du compartiment vers le
+
+87
+00:05:01,800 --> 00:05:02,220
+liquide.
+
+88
+00:05:07,050 --> 00:05:12,850
+Donc, cette expérience montre qu'il y a
+
+89
+00:05:12,850 --> 00:05:16,790
+un échange gazeux qui se fait dans les
+
+90
+00:05:16,790 --> 00:05:19,870
+deux sens, de l'air ou du milieu
+
+91
+00:05:19,870 --> 00:05:25,450
+externe atmosphérique vers le liquide ou du liquide
+
+92
+00:05:25,450 --> 00:05:28,290
+vers le milieu extérieur en fonction des différences
+
+93
+00:05:28,290 --> 00:05:28,950
+de pression.
+
+94
+00:05:29,950 --> 00:05:32,470
+Donc, la loi de Henry, c'est une
+
+95
+00:05:32,470 --> 00:05:36,430
+loi qui fait l'étude de cette différence
+
+96
+00:05:36,430 --> 00:05:45,350
+de pression ou de variation de déplacement de
+
+97
+00:05:45,350 --> 00:05:46,550
+l'air dans les liquides.
+
+98
+00:05:46,550 --> 00:05:50,590
+A température constante et à saturation, la quantité
+
+99
+00:05:50,590 --> 00:05:54,130
+de gaz dissous dans un liquide est proportionnelle
+
+100
+00:05:54,130 --> 00:05:58,350
+à la pression qu'exerce ce gaz sur
+
+101
+00:05:58,350 --> 00:05:58,970
+le liquide.
+
+102
+00:05:59,850 --> 00:06:02,610
+En pratique, la concentration du gaz dissous se
+
+103
+00:06:02,610 --> 00:06:07,610
+présente par une valeur VI qui est le
+
+104
+00:06:07,610 --> 00:06:09,690
+rapport de volume.
+
+105
+00:06:10,270 --> 00:06:13,470
+Il est exprimé par le volume du gaz,
+
+106
+00:06:13,830 --> 00:06:17,190
+I, c'est-à-dire VI, exprimé en
+
+107
+00:06:17,190 --> 00:06:19,670
+STPD, c'est-à-dire standard température, pression
+
+108
+00:06:19,670 --> 00:06:22,690
+et drag, par unité de volume V de
+
+109
+00:06:22,690 --> 00:06:23,130
+la solution.
+
+110
+00:06:23,130 --> 00:06:24,570
+Donc, c'est un rapport de volume.
+
+111
+00:06:25,430 --> 00:06:26,950
+Et ce rapport de volume, M.
+
+112
+00:06:27,130 --> 00:06:29,750
+Henry, qui est un Anglais, il a mis
+
+113
+00:06:29,750 --> 00:06:32,130
+une loi, c'est la loi de Henry
+
+114
+00:06:32,130 --> 00:06:39,010
+pour les gaz ou la solubilité des gaz.
+
+115
+00:06:39,010 --> 00:06:42,910
+Donc, la loi de Henry est la suivante,
+
+116
+00:06:43,030 --> 00:06:44,510
+VI égale SI.
+
+117
+00:06:44,830 --> 00:06:46,790
+SI, c'est la coefficient de solubilité du
+
+118
+00:06:46,790 --> 00:06:48,010
+gaz, I, dans le liquide.
+
+119
+00:06:50,650 --> 00:06:53,310
+Et VI, c'est le volume du gaz,
+
+120
+00:06:53,530 --> 00:06:56,170
+VI sur le volume total.
+
+121
+00:06:56,970 --> 00:06:59,270
+C'est la pression, PI, c'est la
+
+122
+00:06:59,270 --> 00:07:00,690
+pression partielle du gaz.
+
+123
+00:07:00,690 --> 00:07:07,210
+Et donc, la pression ou le rapport des
+
+124
+00:07:07,210 --> 00:07:13,390
+volumes d'un gaz déterminé I sur un
+
+125
+00:07:13,390 --> 00:07:22,170
+ensemble de volumes est égale à la coefficient
+
+126
+00:07:22,170 --> 00:07:24,450
+de solubilité de ce gaz.
+
+127
+00:07:24,770 --> 00:07:26,630
+Donc, il y a une coefficient fois la
+
+128
+00:07:26,630 --> 00:07:27,790
+pression partielle de ce gaz.
+
+129
+00:07:29,230 --> 00:07:31,650
+Or, SI, c'est la coefficient de solubilité.
+
+130
+00:07:32,030 --> 00:07:33,910
+Il est caractéristique du gaz.
+
+131
+00:07:34,370 --> 00:07:36,550
+Par exemple, dans le plasma à 37,6°C,
+
+132
+00:07:38,570 --> 00:07:42,490
+une pression qui est exprimée en atmosphère.
+
+133
+00:07:43,710 --> 00:07:46,190
+La coefficient de solubilité est égale à 0
+
+134
+00:07:46,190 --> 00:07:49,150
+,023 pour l'oxygène.
+
+135
+00:07:51,340 --> 00:07:53,280
+Et la coefficient de solubilité de CO2 est
+
+136
+00:07:53,280 --> 00:07:54,240
+de 0,51.
+
+137
+00:07:54,240 --> 00:08:01,920
+Donc, le CO2 se dissout plus facilement au
+
+138
+00:08:01,920 --> 00:08:04,580
+niveau du plasma que l'oxygène.
+
+139
+00:08:05,000 --> 00:08:06,960
+C'est pour ça qu'on peut expliquer
+
+140
+00:08:06,960 --> 00:08:10,000
+par les accidents des intoxications au CO ou
+
+141
+00:08:10,000 --> 00:08:17,160
+CO2 dans les sujets qui utilisent le charbon
+
+142
+00:08:17,160 --> 00:08:17,680
+ou autre.
+
+143
+00:08:20,720 --> 00:08:27,680
+Donc, ce schéma montre ce rapport de pression
+
+144
+00:08:27,680 --> 00:08:32,620
+partielle d'un gaz libre qui va se
+
+145
+00:08:32,620 --> 00:08:39,580
+dissoudre dans une solution.
+
+146
+00:08:39,580 --> 00:08:44,140
+En application de la loi de Henry, la
+
+147
+00:08:44,140 --> 00:08:48,120
+dissolution des gaz lorsqu'un gaz contacte des
+
+148
+00:08:48,120 --> 00:08:54,100
+liquides, les molécules de ce gaz se dissolvent
+
+149
+00:08:54,100 --> 00:08:55,020
+dans ce liquide.
+
+150
+00:08:56,320 --> 00:08:58,660
+Et la concentration en mol par litre du
+
+151
+00:08:58,660 --> 00:08:59,840
+gaz, I, dissout.
+
+152
+00:09:01,400 --> 00:09:03,440
+Et lorsqu'un équilibre est réalisé, c'est
+
+153
+00:09:03,440 --> 00:09:06,120
+proportionnel à la pression partielle PI du gaz,
+
+154
+00:09:06,980 --> 00:09:09,060
+I, à l'état gazeux.
+
+155
+00:09:09,060 --> 00:09:14,620
+Donc, CI, c'est la concentration de ce
+
+156
+00:09:14,620 --> 00:09:17,140
+gaz en mol par litre, égale à I,
+
+157
+00:09:17,320 --> 00:09:21,180
+la coefficient de solubilité du gaz, I, fois
+
+158
+00:09:21,180 --> 00:09:23,840
+la pression partielle de ce gaz.
+
+159
+00:09:24,920 --> 00:09:27,700
+Et la coefficient de solubilité dépend de la
+
+160
+00:09:27,700 --> 00:09:31,760
+nature du gaz, de la nature du liquide
+
+161
+00:09:31,760 --> 00:09:33,260
+et de la température.
+
+162
+00:09:33,400 --> 00:09:35,800
+Lorsque la température augmente, la solubilité diminue.
+
+163
+00:09:40,340 --> 00:09:43,080
+Donc, la quantité de gaz dissout est en
+
+164
+00:09:43,080 --> 00:09:48,420
+fonction des chocs de molécules de gaz à
+
+165
+00:09:48,420 --> 00:09:49,540
+la surface du liquide.
+
+166
+00:09:50,580 --> 00:09:52,540
+C'est en fonction également des forces d
+
+167
+00:09:52,540 --> 00:09:54,440
+'attraction entre les molécules de gaz et du
+
+168
+00:09:54,440 --> 00:09:54,900
+liquide.
+
+169
+00:09:55,820 --> 00:09:59,100
+On parle de coefficient de solubilité qui diminue
+
+170
+00:09:59,100 --> 00:10:02,400
+quand l'agitation thermique augmente.
+
+171
+00:10:09,790 --> 00:10:15,650
+Donc, comme remarque, la dissolution des gaz, c
+
+172
+00:10:15,650 --> 00:10:18,890
+'est un phénomène relativement long et progressif.
+
+173
+00:10:19,230 --> 00:10:21,870
+Jusqu'à ce que la pression du gaz
+
+174
+00:10:21,870 --> 00:10:23,890
+dissout soit égale à celle du même gaz
+
+175
+00:10:23,890 --> 00:10:27,550
+dans l'atmosphère gazeux ou à l'extérieur
+
+176
+00:10:27,550 --> 00:10:28,850
+de la solution.
+
+177
+00:10:30,070 --> 00:10:32,950
+Donc, si la pression partielle dans l'atmosphère
+
+178
+00:10:32,950 --> 00:10:38,210
+gazeux baisse, ou dans l'extérieur de la
+
+179
+00:10:38,210 --> 00:10:41,490
+solution, une partie du gaz dissout dans la
+
+180
+00:10:41,490 --> 00:10:43,130
+solution passe à l'état gazeux.
+
+181
+00:10:44,010 --> 00:10:46,050
+C'est le cas qu'on peut observer
+
+182
+00:10:46,050 --> 00:10:47,630
+dans les boissons gazeuses.
+
+183
+00:10:48,890 --> 00:10:52,170
+Lorsqu'on ouvre les bouteilles de l'eau
+
+184
+00:10:52,170 --> 00:10:54,390
+gazeuse, il y a formation des bulles, parce
+
+185
+00:10:54,390 --> 00:11:00,330
+que la pression au niveau de la bouteille
+
+186
+00:11:00,330 --> 00:11:02,370
+du gaz est supérieure à celle du milieu
+
+187
+00:11:02,370 --> 00:11:03,030
+atmosphérique.
+
+188
+00:11:03,510 --> 00:11:07,030
+Donc, on va parler de phénomène de dédissolution.
+
+189
+00:11:08,370 --> 00:11:13,210
+Une dédissolution est de deux types.
+
+190
+00:11:13,410 --> 00:11:17,390
+Soit il est progressif, sans formation de bulles
+
+191
+00:11:17,390 --> 00:11:18,050
+dans le liquide.
+
+192
+00:11:18,170 --> 00:11:19,710
+C'est le cas de diminution de la
+
+193
+00:11:19,710 --> 00:11:20,530
+pression partielle.
+
+194
+00:11:21,790 --> 00:11:24,750
+Cette fois-ci, il est lent au niveau
+
+195
+00:11:24,750 --> 00:11:26,590
+atmosphérique ou à l'extérieur du liquide.
+
+196
+00:11:27,250 --> 00:11:30,990
+Lorsque la diminution de la pression partielle est
+
+197
+00:11:30,990 --> 00:11:35,990
+rapide, la dédissolution est brutale avec formation de
+
+198
+00:11:35,990 --> 00:11:37,150
+bulles dans le liquide.
+
+199
+00:11:39,290 --> 00:11:41,290
+Et donc, ceci, on peut l'appliquer dans
+
+200
+00:11:41,290 --> 00:11:43,250
+les accidents de la plongée sous-marine.
+
+201
+00:11:43,250 --> 00:11:47,250
+Lors de la plongée, l'augmentation de la
+
+202
+00:11:47,250 --> 00:11:51,710
+pression d'un atmosphère pour chaque 10 mètres
+
+203
+00:11:51,710 --> 00:11:52,590
+de profondeur.
+
+204
+00:11:54,660 --> 00:11:58,400
+Et la pression partielle des gaz respirés augmente
+
+205
+00:11:58,400 --> 00:12:02,580
+d'un atmosphère pour chaque 10 mètres de
+
+206
+00:12:02,580 --> 00:12:03,860
+profondeur de l'eau.
+
+207
+00:12:05,260 --> 00:12:08,180
+Et donc, les quantités de gaz dissous dans
+
+208
+00:12:08,180 --> 00:12:09,820
+le plasma augmentent.
+
+209
+00:12:12,760 --> 00:12:16,700
+Or, lors de la remontée, la pression diminue
+
+210
+00:12:16,700 --> 00:12:20,240
+et il y a les deux cas de
+
+211
+00:12:20,240 --> 00:12:20,580
+figure.
+
+212
+00:12:20,720 --> 00:12:22,520
+Soit la remontée est trop rapide, soit elle
+
+213
+00:12:22,520 --> 00:12:23,360
+est très lente.
+
+214
+00:12:24,100 --> 00:12:26,640
+Lorsqu'elle est trop rapide, le phénomène de
+
+215
+00:12:26,640 --> 00:12:31,100
+dédissolution est appelé surdissolution.
+
+216
+00:12:32,400 --> 00:12:36,560
+Et il se produit une formation de gaz
+
+217
+00:12:36,560 --> 00:12:38,500
+dissous en excès formant des bulles de gaz
+
+218
+00:12:38,500 --> 00:12:41,560
+qui va induire ce qu'on appelle une
+
+219
+00:12:41,560 --> 00:12:43,520
+embolie plus gazeuse.
+
+220
+00:12:44,200 --> 00:12:47,620
+Formation de bulles au niveau du petit capillaire
+
+221
+00:12:47,620 --> 00:12:51,880
+et qui est de très mauvais pronostic.
+
+222
+00:12:51,880 --> 00:12:56,430
+Et la remontée est très lente.
+
+223
+00:12:56,810 --> 00:12:59,570
+Après la plongée, le gaz dissous en excès
+
+224
+00:12:59,570 --> 00:13:02,450
+passe progressivement au niveau des poumons sans formation
+
+225
+00:13:02,450 --> 00:13:03,830
+des bulles dans le sang.
+
+226
+00:13:04,770 --> 00:13:06,710
+Et donc, il ne va pas y avoir
+
+227
+00:13:06,710 --> 00:13:07,590
+d'embolie gazeuse.
+
+228
+00:13:08,850 --> 00:13:12,170
+Donc, le schéma montre la formation de bulles
+
+229
+00:13:12,170 --> 00:13:16,010
+sous forme d'embolie gazeuse qui est mortelle.
+
+230
+00:13:17,310 --> 00:13:19,410
+Donc, la loi de Henry joue un rôle
+
+231
+00:13:19,410 --> 00:13:22,410
+primordial en plongée car il permet de déterminer
+
+232
+00:13:22,410 --> 00:13:25,130
+la dissolution de l'azote dans l'organisme.
+
+233
+00:13:25,490 --> 00:13:29,570
+Puisque dans les bouteilles de respiration, c'est
+
+234
+00:13:29,570 --> 00:13:31,910
+de l'azote qui est plus important que
+
+235
+00:13:31,910 --> 00:13:33,170
+l'oxygène.
+
+236
+00:13:33,790 --> 00:13:36,850
+En fonction des paramètres cités ci-dessus.
+
+237
+00:13:37,530 --> 00:13:39,530
+Et plus particulièrement en fonction de la variation
+
+238
+00:13:39,530 --> 00:13:40,450
+de pression du temps.
+
+239
+00:13:42,400 --> 00:13:45,960
+Donc, à la pression atmosphérique, les liquides de
+
+240
+00:13:45,960 --> 00:13:47,680
+notre organisme se trouvent dans un état de
+
+241
+00:13:47,680 --> 00:13:51,220
+saturation vis-à-vis des gaz composants l
+
+242
+00:13:51,220 --> 00:13:53,320
+'air contenant dans nos poumons.
+
+243
+00:13:56,210 --> 00:14:03,770
+Et enfin, c'est la dernière diapo de
+
+244
+00:14:03,770 --> 00:14:07,750
+ce cours qui montre un plongeur avec les
+
+245
+00:14:07,750 --> 00:14:12,250
+gaz émis à travers son masque à gaz.
+
+246
+00:14:12,250 --> 00:14:14,810
+Et devant une grosse baleine.
+
+247
+00:14:15,090 --> 00:14:19,590
+Donc, il y a le phénomène de loi
+
+248
+00:14:19,590 --> 00:14:27,890
+de Henry qui s'applique à ce plongeur.
+
+249
+00:14:28,690 --> 00:14:29,630
+Je vous remercie.

@@ -1,0 +1,153 @@
+Bonjour, le cours de ce matin est intitulé interaction de rayons immunisants avec la matière. L'objectif, c'est de connaître les interactions des particules chargées avec la matière, comme résultat des phénomènes de collision et de freinage, et la mesure du transfert d'énergie limitée. Également de connaître les interactions des photons cette fois-ci, c'est-à-dire les rayons x et gamma avec la matière, par leurs trois effets, c'est-à-dire l'effet photoélectrique lorsqu'on entend et l'effet de création de paires.
+
+Donc le plan de ce cours aura des généralités, puis des interactions des particules chargées avec la matière, et en troisième paragraphe, les interactions des photons avec la matière, puis les applications musicales. Comme généralité, les rayons immunisants sont des émissions d'énergie à partir d'une source. Ces émissions se forment d'émissions radioactives particulières ou de rayonnements.
+
+Des émissions également peuvent être produites par des accélérateurs des électrons en radiothérapie, et des émissions de rayons x par les tubes à rayons x dans la radiologie. Donc ils agissent sur les tissus vivants, ces rayonnements sont composés essentiellement de l'eau, de la molécule H2O, qui va être cassée et donner des radicaux libres, et qui vont induire des modifications au niveau de la cellule vivante. Et également ils peuvent agir au niveau de l'ADN, qui est à la base de l'effet biologique des rayonnements immunisants et de la radiothérapie.
+
+Egalement ils peuvent agir sur les objets inertes, tels que les clichés radiographiques. Donc il y a différents types de rayonnements, il y a les rayonnements non-ionisants et les rayonnements ionisants. Pour les rayonnements non-ionisants, ils ont une longueur d'onde qui est un peu élevée, tels que les rayonnements électrons électriques type ultraviolet, les rayonnements infrarouges, alors que les rayonnements ionisants ont une longueur d'onde qui est très petite, inférieure à 0,1 micromètre.
+
+C'est le cas des photons X, les neutrons, les électrons, et des particules de fission, tels que le fragment de fission, l'hélium, le deutérium, les particules alpha. Donc il y a deux grandes catégories de rayonnements ionisants, les rayonnements type particulaires, tels que les neutrons, les électrons et les photons. Donc le processus d'interaction des rayonnements ionisants avec la matière se fait par deux phénomènes, le phénomène d'ionisation de la matière et le phénomène d'excitation de la matière.
+
+Donc l'ionisation et l'excitation se réalisent à la chaîne de l'atome. Pour l'ionisation, le rayonnement est très énergétique, supérieur à 10 électrons grandes, et il va y avoir une expulsion de l'électron à l'extérieur de l'atome. Cet électron qui est expulsé va ioniser d'autres atomes en arrachant d'autres électrons aux atomes du milieu.
+
+Pour l'excitation, l'énergie est insuffisante pour ioniser le milieu, mais elle est capable de déplacer un électron vers un état situé à un niveau supérieur. Donc l'atome va se dés-exciter en émettant un rayon à soumis, caractéristique de la couche dans laquelle il est placé l'électron. Pour les rayonnements chargés, ils sont directement ionisants.
+
+Ce sont les particules légères, bêta-moins, bêta-plus, qui sont des électrons négatifs ou des positrons chargés positivement. Les particules chargées lourdes, ce sont les protons les deux temps, les particules alpha, les fragments lourds de fission. Les rayonnements non chargés, ce sont les neutrons et les rayonnements électromagnétiques, ce sont indirectement ionisants.
+
+Il y a la notion d'énergie d'ionisation. C'est l'énergie susceptible d'arracher des électrons à l'atome. C'est une énergie de rayonnement incident qui est supérieure à l'énergie liaisante des électrons atomiques.
+
+Pour les structures vivantes biologiques, cette énergie est supérieure à 13,6 électrovolts. C'est une énergie qui va scinder l'atome d'hydrogène et créer un électron et un ion positif. Dans notre convention, les rayonnements ionisants, dès que leur énergie est supérieure à 12,4 électrovolts, leur longueur d'onde est inférieure à 100 nanomètres.
+
+Ce sont des rayonnements ionisants de la matière. Ce tableau montre une répartition de l'énergie liaisante au niveau des atomes qui est représentée dans le tableau de Mendeleïev. Cette énergie liaisante est variable. 
+
+Elle diffère d'un atome à un autre. Par exemple, pour l'hydrogène et l'oxygène, elle est de 13,6. Pour d'autres atomes tels que le potassium, le lithium, le césium, elle est plus petite.
+
+Elle est donc vers 4 électrovolts. Pour d'autres atomes tels que la grande flûte en énergie de liaison ou l'ionisation, elle est de 14 jusqu'à 15 électrovolts. Les interactions des particules chargées avec la matière.
+
+On a dit qu'il y a une interaction à caractère obligatoire et qui se fait avec les électrons ou avec le noyau. Les interactions des particules chargées avec les électrons. C'est un phénomène de collision.
+
+Les particules incidentes cèdent une partie de son énergie cinétique aux électrons latentifs du milieu qui est ΔE. Soit l'énergie EN, l'énergie de liaison de l'atome, deux phénomènes se font. C'est le phénomène d'ionisation de l'atome ou le phénomène d'excitation de l'atome.
+
+L'ionisation de l'atome cible. L'énergie transférée est supérieure à l'énergie de liaison. Il se crée ce phénomène d'ionisation quand ΔE est supérieur à l'énergie de liaison de l'électron dans sa couche.
+
+Donc l'électron est éjecté de son orbite à une énergie cinétique, ΔE moins l'énergie de liaison. Et il est éjecté. Quand il est éjecté, on parle d'un électron secondaire qui peut à son tour créer d'autres ionisations.
+
+C'est des électrons tertiaires. L'atome alors est inhumain. L'excitation de l'atome, cette fois-ci alors que l'énergie transférée est inférieure à l'énergie de liaison.
+
+Et c'est que ΔE cherche seulement à déplacer l'électron atomique d'une couche profonde vers une couche territoriale. L'atome cible est excité. Si la variation d'énergie est assez élevée, l'énergie est dissipée sous forme de rayonnements électromagnétiques moins énergétiques.
+
+Si l'énergie est très faible, l'excitation aboutit à une dissipation thermique par vibrations et rotations de la molécule. Donc le schéma s'y compte. Il évite le phénomène d'excitation.
+
+Donc on a un électron périphérique qui va déplacer l'électron central vers une couche périphérique. Deuxièmement, un électron de la couche périphérique va remplacer cet électron qui est déplacé vers la périphérique. Et puis, en contrepartie, on va assister à des émissions d'un photon d'univers.
+
+C'est le phénomène d'excitation. Donc on a dit que l'interaction des rayonnements ionisants avec la matière se fait par un phénomène de transfert d'énergie. Donc le transfert se fait par le rayonnement vers la matière.
+
+On peut quantifier ce transfert d'énergie qui va être exprimé en kV par micromètre de longueur de la matière traversée. Donc le transfert d'énergie linéaire mesure la quantité d'énergie transférée ou qui est déposée également au niveau du milieu par unité de longueur traversée. Une ionisation nécessite un transfert d'état E de 16 électrovolts.
+
+Une ionisation y peut produire également trois excitations au niveau de la molécule. Le transfert d'énergie linéaire est un transfert de rayonnement incidant vers le milieu traversé. Il dépend de trois paramètres.
+
+La nature du rayonnement, si c'est un rayonnement particulaire ou non, très énergétique. Le deuxième point est l'énergie du rayonnement. Si c'est un rayonnement très énergétique, l'ionisation va être plus importante et inversement.
+
+On a dit que la molécule d'eau peut être ionisée à une énergie supérieure à 16 électrovolts. Vu l'importance de l'eau dans l'organisme vivant, on prend comme référence cette valeur de 16 électrovolts. Également le troisième point c'est la nature de la matière traversée, la matière vivante en biologique qui est l'eau.
+
+On va voir également dans les cours qui vont suivre que la matière vivante ou le corps, il y a des tissus qui sont plus radiorésistants et d'autres plus radiosensibles. Le transfert d'énergie linéaire dépend de plusieurs paramètres. Donc on a une formule devant nous, c'est que le transfert d'énergie linéaire égale une constante K fois la charge de la particule incidente au carré fois le nombre de particules de la cible fois le numéro atomique de la cible divisé par la vitesse de la particule incidente.
+
+Ceci dit qu'à chaque interaction, la particule incidente cède une partie de son énergie. Donc au fur et à mesure qu'il parcourt la matière, il y a un dépôt d'énergie, c'est une énergie cinétique du milieu cible jusqu'à ce qu'il soit complètement arrêté. Donc cette formule montre que lorsque la vitesse est égale à zéro, c'est à dire que la particule est arrêtée, on a la formule, le zéro au dénominateur.
+
+Donc le transfert d'énergie linéaire va tendre vers l'infini, c'est à dire qu'il va être très grand, c'est à dire qu'il va y avoir un transfert d'énergie qui est maximal. Également, on va voir que les particules chargées peuvent être arrêtées par des écrans d'une épaisseur bien déterminée, ce n'est pas le cas pour les rayonnements électromagnétiques en particulier. La notion de densité linéaire d'ionisation, le DLI, c'est le nombre de paires d'ions créées par la particule incidente par unité de longueur de la trajectoire.
+
+La DLI s'exprime en paires d'ions par micromètre, donc c'est le nombre de paires que le rayonnement y va réaliser au cours de son parcours. Si WI est l'énergie moyenne transférée par chaque ionisation, on a la relation entre le transfert d'énergie linéaire qui est égal à la densité linéaire d'ionisation fois l'énergie moyenne transférée, WI. Après les interactions des particules chargées avec le noyau de l'atome cible, quand une particule chargée passe à côté du noyau atomique de la cible, il est attiré ou repoussé selon que sa charge est positive ou négative, c'est le phénomène de freinage.
+
+Lorsque la particule est chargée négativement, elle va être attirée et inversement pour la particule chargée positivement. Quand la particule est déviée, une perte d'énergie cinétique émise se forme de rayonnements de freinage, on appelle le rayonnement de Bremsstrahlung en allemand. Ceci est à la base de la production de rayons X en radiologie. 
+
+Ce schéma démontre le phénomène de Bremsstrahlung ou rayon de freinage. Le spectre d'émission de rayonnement de freinage est un spectre continu en fonction de la proximité du noyau, soit il est maximal quand il est très proche du noyau, soit il est minimal lorsqu'il est un peu éloigné du noyau de l'atome. Des cas particuliers.
+
+Pour les particules légers, c'est à dire l'électron et le positron, la trajectoire des particules lors du transfert d'énergie dans la matière sont des lignes brisées et profondes, c'est à dire qu'elles peuvent aller jusqu'à quelques centimètres de la trajectoire des particules étant légers. Chaque transfert d'énergie par collision ou freinage, il se produit un changement de direction important. Donc on a des lignes en zigzag ou des lignes brisées jusqu'à des angles de 180 degrés, c'est à dire qu'il y a un retour de l'électron et à la fin de la trajectoire, il y a le dépôt de l'ensemble de l'énergie.
+
+Alors pour la principale différence entre l'électron et le positron, c'est que le positron va réaliser le phénomène d'annulation, il va rencontrer un électron pour donner de photons gamma de 511 kV et qui sont dirigés dans deux directions opposées à un angle de 180 degrés. Pour l'électron, il va ioniser et exciter les atomes qu'il va rencontrer au cours de son trajectoire. Pour les particules lourdes, les protons et les particules alpha, ils ont une vitesse faible, d'où le transfert d'énergie est élevé en fonction de la relation qu'on a. Donc le transfert d'énergie linéaire n'influence pas la trajectoire qui est rectiligne et peu profonde par rapport aux particules légères.
+
+Il y a quelques micromètres pour les particules alpha de leur trajectoire. Donc on peut résumer que le pouvoir de pénétration pour les particules alpha, ils sont quelques micromètres, donc ils sont arrêtés par une feuille de papier. Et pour les particules beta, ils sont arrêtés par une feuille d'aluminium.
+
+Et pour les rayons électromagnétiques, ils ne sont pas arrêtés complètement mais ils sont appuyés par de grandes épaisseurs de matériaux denses, tels que les écrans en plan. Les interactions sont beaucoup plus nombreuses en fin de la trajectoire, on le redit, parce que la vitesse est à son maximum. Au contraire, la vitesse est nulle et donc le dépôt est maximal.
+
+Et c'est ce qu'on appelle comme application la courbe de Bragg. La courbe de Bragg, c'est une courbe utilisée en radiothérapie. Elle permet d'étudier ou de cibler les masses et les lésions cancéreuses en fonction de la profondeur à partir de la surface.
+
+Et donc le dépôt d'énergie ou le dépôt du maximum de ces particules est bien mesuré, ce qui va épargner la lésion des tissus sains. Par exemple, cette courbe montre que le dépôt de l'énergie par les particules alpha est presque le double à 4 micromètres par rapport aux protons. Pour les applications médicales, en radiothérapie, on utilise la sélection d'énergie cinétique des particules et on va ajuster la profondeur du pic de Bragg à celle de la tumeur.
+
+On peut ainsi mieux protéger les tissus sains environnants. En radioprotection, pour les particules lourdes limitées dans la matière, elles sont arrêtées par quelques centimètres d'air ou par un feuille de papier ou par des couches de cornet de la peau. Donc il n'y a pas de risque pour l'exposition externe.
+
+Mais si l'exposition est interne, le danger d'irradiation localisé par la pénétration dans l'organisme est important. La deuxième partie des interactions des rayons ionisants, c'est les interactions des photons avec la matière. Les photons, on a dit, c'est les rayons X et les rayons gamma.
+
+Ce sont des rayons indirectement ionisants. Le schéma devant nous illustre les différents types de rayons qui existent. On va voir que les rayons X et les rayons gamma sont les plus énergétiques.
+
+D'ailleurs, ils ont une énergie très élevée, donc supérieure à 10 à la puissance de 2 électrovolts. Pour les autres rayons tels que les micro-ondes, les ondes radios, les ondes radars, ils ont une énergie très faible de l'ordre de 10-3, 10-6, 10-7 électrovolts. L'origine des rayons X, ils ont deux origines.
+
+Ils sont émis par phénomène de freinage qu'on a vu. Lorsque l'électron passe le cortège électronique, il arrive jusqu'au champ du noyau de l'atome. Donc, soit il est repoussé, soit il est attiré.
+
+C'est le phénomène de freinage d'un faisceau d'électrons autopositrons par le noyau et qui va induire une formation de rayons X de freinage. Le deuxième type de rayons X, c'est le retour à l'état fondamental d'un atome excité vers un atome qui est stable. L'origine, c'est le cortège électronique et il représente les rayons X caractéristiques.
+
+Ces deux types de rayons X de freinage et X caractéristiques sont à la base de l'imagerie radiologique. Pour l'origine des rayons gamma, ils sont d'origine nucléaire. Ils sont émis par les noyaux qui passent d'un état excité vers un état stable.
+
+On parle de la radioactivité. Ils ont des énergies très élevées par rapport aux rayons X. Les rayons X et gamma ont le même comportement vis-à-vis de la matière. Ils vont agir par un phénomène d'interaction aléatoire.
+
+L'effet global des photons, c'est qu'ils ont des effets dû à leurs caractéristiques immatérielles. Ils sont caractérisés par trois paramètres, leur énergie, leur fréquence et leur longueur d'onde. Plus l'énergie E est élevée, plus la fréquence est élevée et plus la longueur d'onde est très petite.
+
+Avec cette formule E égale Hµ, c'est la formule d'Einstein, qui est E, l'énergie, égale la constante de Planck, H, fois la fréquence, et qui est égale à la constante de Planck fois la célérité de la lumière sur la longueur d'onde. L'effet global des photons, Les photons sont des rayons électromagnétiques qui sont indirectement ionisants et ne sont absorbés que s'ils interagissent avec l'électron du milieu. Ils ont des effets avec les électrons, un cortège électrique, donc effets photoélectriques ou effets quartons.
+
+Et également, ils peuvent agir avec le noyau de l'atome. C'est ce qu'on va appeler le phénomène de matérialisation et de création de paires. Donc l'atténuation d'un faisceau de rayons ionisants à travers la matière X, soit une source S énergétique ou monochromatique de photons.
+
+C'est le collimateur qui va focaliser les faisceaux de photons. M est un matériel de diamètre X et D est un détecteur. Un nombre de photons va être atténué au niveau de la matière.
+
+Un nombre de photons est éliminé du faisceau incident au cours d'une interaction. Il y en a d'autres qui n'ont aucune interaction avec la matière et donc ils n'ont perdu aucune énergie. C'est ce qui va comptabiliser le détecteur.
+
+Et donc, cette atténuation d'un faisceau de photons de rayon X ou de gamma pénétrant dans un matériel. Il y a une atténuation due à l'interaction de ces photons et qui va suivre une formule d'atténuation. Le nombre de photons qui vont être comptabilisés ou qui vont être transmis à travers la matière égale le nombre initial N0 de photons fois l'exponentiel moins le coefficient d'atténuation mu fois X. C'est un phénomène d'atténuation en fonction de l'épaisseur du matériel qui va traverser et du coefficient d'atténuation du matériel traversé.
+
+La loi d'atténuation d'un faisceau est intitulée Nx égale N0 exponentiel moins muX avec N0 l'intensité de rayon incident. Donc, Nx est l'intensité des rayons transmis émis en traversant la distance X et mu est le coefficient d'atténuation linéaire en mètre moins un ou en centimètre moins un. Donc, on va voir que l'atténuation est un phénomène inversement exponentiel des photons à travers l'épaisseur d'une matière.
+
+Le coefficient d'atténuation linéaire mu est la probabilité d'interaction d'un photon par unité de longueur avec la matière. Donc, le devenir des photons après traverser de l'épaisseur, soit ils sont absorbés totalement, c'est l'atténuation complète, soit ils sont transmis avec absence d'interaction, soit ils sont transférés avec une déviation minime, c'est le transfert partiel. Donc, le coefficient d'atténuation linéaire dépend de deux paramètres. 
+
+La nature du matériau cible. Donc, la matière, par exemple, du plomb est plus atténuante que la matière de papier ou de tissu. Et puis, l'énergie des photons. 
+
+Donc, l'énergie des photons est d'autant plus importante et l'atténuation va être plus faible. Donc, on peut déduire de ça un coefficient massique d'atténuation qui est le mu sur la masse volumique, qui est mu sur rho. Et là, comme unité, le mètre carré par kilogramme moins 1 ou le centimètre carré par gramme moins 1. Et donc, cette relation qu'on a vue, numéro 1, montre qu'on peut, par interposition d'écrans atténués, seulement un faisceau de photons et non pas l'arrêter.
+
+La couche de demi-atténuation, c'est une couche qui permet d'atténuer la moitié de l'intensité de rayonnement. Donc, I, on l'appelle CdA. L'intensité CdA est égale à I0 sur 2. Et par la relation 1 qu'on a, on peut déduire que le CdA est égale à ln de 2 sur mu, ou est égale à 0.693 sur mu.
+
+L'intensité de N CdA est égale à I0 sur 2 à la puissance N. La couche de demi-atténuation est très importante en radioprotection. D'ailleurs, le plomb, c'est le matériau le plus utilisé pour atténuer l'intensité de rayonnement. Et on l'utilise dans des services de rayonnement ionisants, tels que la radiothérapie, la radiologie et la médecine nucléaire.
+
+La couche de demi-atténuation, elle suit la relation également inversement exponentielle. Et le CdA, c'est lorsqu'on a le pourcentage de 50% de faisceaux de rayonnement ionisant qui sont atténués. Le mu qui est le coefficient d'atténuation et le CdA qui est la couche de demi-atténuation, ils sont l'un inversement exponentiel à l'autre par la relation ln de 2 sur mu égale CdA.
+
+Et donc, plus le mu dépend de l'énergie des photons. Pour les photons d'énergie très élevée, il faut qu'il y ait un CdA qui est grand et donc un mu qui est petit, ce qui illustre le diagramme devant nous. Et également, le mu dépend du matériau traversé. 
+
+Pour les matériaux à Z grand, c'est le cas de la courbe en bas, par exemple le plan, le Z2 est supérieur à Z1 de l'eau. Et donc, le CdA du plan est supérieur au mu1 de l'eau et inversement, le CdA de l'eau est supérieur au CdA du plan. Les mécanismes des interactions des rayonnements ionisants avec la matière type photon. 
+
+On a dit que le photon peut entraîner des interactions avec l'électron du milieu ou avec le noyau. Les interactions avec les électrons de l'atome, c'est ce qu'on appelle les effets photoélectriques et les effets quantums. Les interactions des rayonnements type X et gamma avec les noyaux de l'atome, c'est ce qu'on appelle la matérialisation.
+
+L'effet photoélectrique est l'interaction du photon avec un électron fortement lié de l'atome qui constitue la matière. Cela peut être généralement ou plus fréquemment la couche K, moins fréquemment la couche L et rarement la couche M de l'atome. L'effet photoélectrique résulte du transfert de l'ensemble de l'énergie du photon incident sur l'électron très lié.
+
+Il y a des conditions. Il faut que l'énergie du photon soit supérieure à l'énergie de liaison de l'électron cible. Dans ce cas-là, le photon initial va disparaître et il va apparaître un électron injecté qui emporte une énergie cinétique E, C et il va être injecté dans la matière.
+
+On l'appelle le photon électron. Pour l'effet photoélectrique, il faut qu'il y ait une énergie entre 1 et 100 kV pour le photon incident. Il y a le départ et le devenir du photon électron qui va progressivement perdre son énergie en ionisant et en excitant les électrons de la matière à proximité.
+
+Les phénomènes secondaires de l'effet photoélectrique c'est que l'électron expulsé induit des ionisations et des excitations des atomes au milieu. Puisque l'électron est injecté, il va y avoir une réorganisation du cortège électronique avec émission de photons de fluorescence X ou expulsion d'un électron périphérique de l'atome qui est l'électron OG. Le deuxième type d'effet des photons avec la matière c'est l'effet quantum.
+
+L'interaction se fait entre un photon d'énergie E égale Hµ et un électron libre ou faiblement lié de la cible. L'électron quantum est diffusé avec une énergie WE et on a le photon diffusé qui fait un angle θ avec la direction du photon incident. Le phénomène d'effet photoélectrique représente l'interaction des photons avec les électrons des couches périphériques.
+
+Le photon est diffusé à une énergie inférieure à son énergie initiale et l'électron reculent selon l'angle θE. L'effet quantum est réalisé sous une condition que l'énergie soit entre 100 kV et 1 MV. L'électron de recul perd progressivement son énergie cinétique dans la matière par des excitations et des ionisations.
+
+Le phénomène secondaire de l'effet quantum est le rayon mode diffusé. Le rayon mode diffusé va atterrir l'image puisque l'image est basée sur des photons qui doivent être de l'énergie photoélectrique. Le deuxième phénomène secondaire est l'effet d'irradiation du personnel.
+
+Le troisième cas de figure est la création de paires ou la matérialisation ou l'effet photon nucléaire. La création de paires se réalise lorsque l'énergie du photon E égale Hµ soit supérieure à 1,022 Mv. C'est la condition pour la création d'un électron et d'un positron que chacun va porter 511 kV.
+
+L'interaction se fait à proximité du noyau. La création de paires électropositifs et électronégatifs et une absorption totale du photon. La création de paires nécessite une énergie supérieure à 1,022 Mv.
+
+La création de paires nécessite une interaction avec le noyau du photon. L'électron va perdre son énergie par interaction avec la matière et le positron E± s'annule. Il fait un phénomène d'annulation en rencontrant un électron libre de la matière.
+
+Il va donc former deux photons de 511 kV chacun qui sont dirigés de sens opposé avec un angle de 180°. C'est le phénomène de matérialisation qui est réalisé à condition que l'énergie soit supérieure à 1,022 Mv. Si l'on compare les trois effets d'interaction.
+
+L'effet photoélectrique, il y a une absorption totale du photon. L'effet quantum, il y a une absorption partielle avec une diffusion du photon. La création de paires, il y a une absorption totale au niveau du noyau.
+
+Par rapport à la cible, l'effet photoélectrique, l'électron qui est ciblé, c'est au niveau de la couche K ou parfois la couche L qui sont plus profondes. L'effet quantum, c'est les électrons périphériques. La création de paires, c'est le noyau.
+
+Donc, on peut comparer les trois types d'interaction selon cette courbe de variation de l'énergie en fonction de la cible Z. L'effet photoélectrique, on a dit qu'il est entre 1 kV et 100 kV. L'effet de quantum entre 100 et 1000 kV, c'est à dire 1 MeV. Et l'effet de création de paires, il est réalisé quand l'énergie est supérieure à 1,022 MeV.
+
+Et donc, je finis ce cours. Bonne journée.

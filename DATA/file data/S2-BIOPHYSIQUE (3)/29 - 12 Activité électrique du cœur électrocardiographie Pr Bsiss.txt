@@ -1,0 +1,127 @@
+Bonjour, le cours d'aujourd'hui est intitulé Activité électrique du coeur électrocardiographique. Donc, on va voir l'introduction, ce qui concerne l'activité électrique cardiaque, les éléments de l'anatomie et l'histologie du muscle cardiaque, l'électrophysiologie de la cellule cardiaque, les bases physiques de l'électrocardiographie et le tracé ECG, technique d'enregistrement, puis la lecture de l'électrocardiogramme et enfin on va conclure. Donc, en guise d'introduction, le coeur c'est un organe automatique qui donne lieu à des phénomènes électriques, c'est-à-dire des forces électromotrices.
+
+Donc, on peut mesurer le signal électrique à l'aide de l'électrocardiogramme qui est un tracé. Après, on peut faire l'étude de la cellule cardiaque qui apporte des renseignements sur la physiopathologie de certains troubles du rythme et les modes d'action de divers drogues. L'électrocardiogramme, il permet de donner une idée de l'ensemble de l'électrophysiologie cardiaque.
+
+Il permet de diagnostiquer de nombreux troubles et de suivre leur évolution et puis évaluer l'efficacité du médicament. C'est un exemple qui est anodin, il est non-irradiant et il est facile à réaliser. Définition.
+
+L'électrocardiographie est une représentation graphique de l'activité électrique du coeur. Donc, c'est un graphe. L'activité électrique du coeur est liée aux variations du potentiel électrique des cellules spécialisées dans les contractions.
+
+C'est une myocyte. Et des cellules spécialisées dans l'automatisme et la conduction des influx. Donc, c'est les cellules des tissus immondables.
+
+L'activité électrique du coeur est recueillie par des électrodes qui sont déposées à la surface de la peau. Donc, par phénomène de conduction électrique du tissu de l'organisme, on peut enregistrer un électrocardiogramme qui est le tracé du papier de l'activité électrique du coeur. L'électrocardiographe, c'est l'appareil qui permet de faire l'électrocardiogramme.
+
+Il y a également un appareil qui affiche le tracé sur un écran ou un scope, c'est l'électrocardioscope. Donc, le schéma, il montre les différents points dans lesquels on va déposer les électrodes qu'on va recueillir sur un papier millimétré sur l'appareil et on voit le grossissement de cette image ou de ce tracé d'électrocardiogramme. Alors, les rappels anatomiques du tissu myocardique.
+
+Le tissu myocardique, il est composé d'un tissu nodal. C'est un tissu où l'influx automatique naît périodiquement à ce niveau. Donc, on peut dénombrer le noeud sinusal au niveau de l'oreillette droite qui est au pied de la ventrave supérieure.
+
+Après, l'influx automatique va se propager de proche en proche dans les oreillettes pour passer au niveau du noeud auriculo-ventriculaire ou le noeud de Tavara. Après, il traverse la jonction auriculo-ventriculaire via le tronc du faisceau de His pour cheminer dans le septum interventriculaire via les branches droite et gauche du faisceau de His. Puis, il atteint les cellules myocardiques ventriculaires par le réseau du Purkinje.
+
+Donc, on peut remarquer que l'activité électrique des oreillettes et celles des oreillettes ventriculaires sont séparées par un âne en fibres. Donc, l'influx ne peut passer des oreillettes aux ventricules que par le noeud auriculo-ventriculaire. Cette image montre les différentes phases au niveau du noeud sinusal, puis il va vers le noeud auriculo-ventriculaire, puis vers le faisceau de His et l'influx nerveux ou électrique du coeur.
+
+Il va se propager au niveau du muscle interventriculaire, puis au niveau du ventricule gauche et du ventricule droit. Histologiquement, le tissu cardiaque est composé de deux types de tissus. Il y a le tissu nodal et il y a le reste du myocarde.
+
+Pour le tissu nodal, il est présent au niveau du noeud sinusal, puis au niveau du noeud auriculo-ventriculaire, de tronc et des branches du faisceau de His et du réseau du Purkinje. Il est fait de cellules spécialisées pour l'homéofibrie et leur fonction c'est l'élaboration de l'influx électrique et également la conduction rapide de cet influx ou du courant électrique. Le reste du myocarde est riche en myofibries cardiaques.
+
+Leur fonction essentielle c'est la contraction musculaire cardiaque et la propulsion du son. Les myofibries sont situées en position transversale de structure analogue à celle des fibres musculaires squelettiques. Le schéma ci-dessous montre l'histologie des cellules nodales et les cellules myocardiques.
+
+L'électrophysiologie de la cellule cardiaque Au niveau d'une cellule excitable telle que la cellule nerveuse ou la cellule cardiaque, le potentiel de repos est recueilli ou c'est le résultat lorsqu'on fait pénétrer des micro-électrodes dans une fibrie cardiaque ou dans une fibre nerveuse. Le résultat est une répartition inégale de chaque ion de part et d'autre de la membrane. C'est ce qu'on appelle le potentiel de repos.
+
+La différence entre le potentiel de repos et le potentiel intracellulaire est toujours négative. Le potentiel de repos est un potentiel lorsqu'il n'y a pas de courant ou d'activité électrique, la cellule est au repos. Il est toujours négatif et la cellule nerveuse a un potentiel de repos de moins de 70 mV alors que la cellule cardiaque a un potentiel de repos de moins de 90 mV.
+
+Le chemin illustre les électrodes qui sont pénétrées à l'intérieur de la cellule des micro-électrodes avec une répartition inégale des charges ou des ions de part et d'autre de la membrane. On va voir que cette répartition inégale va constituer ce qu'on appelle un dipole cellulaire. Ici, le potassium est en abondance au niveau intracellulaire par rapport au sodium et inversement, le sodium est le plus prépondérant en extracellulaire.
+
+Le potentiel d'action. Au niveau des cellules excitables cardiaques et nerveuses, la répartition ionique peut varier brutalement par des dépolarisations et par des permeabilités transmembranaires, créant une variation de potentiel appelée potentiel d'action. Le potentiel d'action, c'est un phénomène qui se déclenche de façon identique pour un même tissu et qui se transmet de proche en proche.
+
+Après, il y a une propagation du potentiel d'action. Ce potentiel d'action est enregistré, c'est le cas de l'électrocardiogramme. Le schéma montre un déclenchement du potentiel d'action lorsqu'il y a un dépassement d'un seuil et la propagation du potentiel d'action sous forme d'un courant de proche en proche.
+
+C'est ce qu'on appelle une dépolarisation et un retour à l'état normal, une repolarisation. Le potentiel d'action, il apparaît quand la cellule est dépolarisée au-delà d'un seuil électrique. C'est certains canaux ioniques qui sont sensibles. 
+
+On les appelle voltages dépendants et qui permettent cette dépolarisation. Le potentiel d'action de la cellule myocardique est un potentiel particulier, c'est un potentiel d'action à plateau. Il est composé par cinq phases.
+
+D'abord la phase 0, c'est une dépolarisation rapide avec activation des canaux sodiques. Donc il y a une entrée massive du sodium du milieu extérieur vers le milieu intracellulaire. La phase 1, c'est une repolarisation initiale.
+
+Il y aura une inactivation incomplète des canaux sodiques mais il y a un déplacement de l'ion Cl-. Pour la phase 2, c'est une phase où il y a ouverture des canaux à calcium. On parle de plateau courant calcico-sodique lent.
+
+La phase 3, c'est une phase de repolarisation avec un courant sortant du potassium. Et également les canaux à calcium se ferment. Pour la phase 4, c'est une phase de retour du potentiel de repos.
+
+Donc il y a ouverture partielle des canaux à sodium. Le potentiel d'action de la cellule du tissu nodal est similaire à celle des cellules du tissu myocardique. A quelques exceptions près.
+
+C'est également un potentiel d'action à plateau mais le plateau est plus concave ou convex vers le bas. C'est à dire qu'il y a une activation des canaux calciques lents et qui maintient la dépolarisation. Il y a également le potentiel de repos qui décroît avec le temps.
+
+Et la dépolarisation spontanée se fait avec une certaine pente de dépolarisation diastolique. Cette dépolarisation diastolique est responsable de l'automatisme de la cellule nodale. Il faut noter que la durée du plateau de dépolarisation des cellules nodales peut être influencée par des éléments tels que le rythme accéléré qui va diminuer cette durée du plateau.
+
+Il peut être allongé par l'abaissement de la température et autres. L'activation cardiaque. Après ce phénomène de dépolarisation, il y a une propagation de dépolarisation de proche en proche jusqu'à la repolarisation.
+
+Or, la propagation de dépolarisation en repolarisation diffère en fonction des cellules ainsi que de la fibre nerveuse. Les fronts de dépolarisation et de repolarisation se suivent de près au point qu'une partie du nerf peut être déjà polarisée alors que l'autre partie n'est pas encore totalement polarisée. Pour la cellule de la fibre cardiaque, qui diffère du tissu nerveux, les faces de dépolarisation et de repolarisation sont totalement séparées.
+
+La fibre se dépolarise entièrement avant que la repolarisation ne débute. Les bases physiques de l'électrocardiogramme. La définition de l'électrocardiogramme est l'enregistrement au cours du temps de l'activité électrique du cœur au moyen d'électrodes généralement placées à la surface du corps.
+
+C'est une courbe de variation de potentiel en fonction du temps. Pour l'activation cardiaque normale, on a l'ensemble des cellules des oreilles qui subissent une dépolarisation, qui y synchronent, puis une repolarisation. Après dépolarisation auriculaire, les ventricules subissent une dépolarisation, qui y synchronent également, puis une repolarisation.
+
+Avant d'entamer les bases physiques de l'électrocardiogramme, on va étudier quelques rappels sur le potentiel électrique créé par des charges électriques. Quand on a deux charges Q et Q', qui sont deux charges différentes et qui sont séparées par une distance r, ils vont être subis à une force électrique qui est égale à une constante K fois la charge Q fois Q' sur la distance au carré ou le rayon qui est séparé au carré. A travers cette force électrique, on peut déduire le potentiel électrique d'une charge électrique qui est égale à K fois Q sur r. En réalité, on mesure une différence de potentiel entre deux points P1 et P2 lorsqu'on fait l'enregistrement de l'électrocardiographe.
+
+En cas d'un dipôle électrique, le potentiel électrique enregistré à une distance r à travers un dipôle électrique qui est constitué par deux charges, K-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q-Q L'enregistrement ECG se fait sur papier millimétré qui va être déroulé à une vitesse constante de 25 mm par seconde. Sur ce papier millimétré, l'échelle est de 0,1 mV pour 1 mm pour les ordonnées, ça veut dire les voltages. Et 1 mm représente 0,04 seconde pour les abscisses, ça veut dire le temps.
+
+Les techniques d'enregistrement, donc on a dit qu'il met en place des électrodes qui vont recueillir l'ECG. Les électrodes périphériques, on a trois dérivations unipolaires, VR, VL et VF. VF, c'est l'enregistrement du potentiel de chaque électrode par rapport à un potentiel de référence, VW, pris comme origine.
+
+C'est ce qu'on appelle le potentiel central de Wilson. Normalement, il est au niveau du centre du cœur, mais en pratique, c'est au niveau du centre ou au niveau du milieu de l'appareil de mesure. Pour les électrodes qu'on met au niveau des membres, donc on a dit les électrodes périphériques, unipolaires.
+
+On va trouver, il y a le VR, R c'est rouge, il est au niveau du bras droit, mais en pratique, c'est au niveau du poignet droit. Pour le VL, c'est l'électrode qu'on va placer au niveau du poignet gauche, il est jaune. Pour le VF, c'est l'électrode qu'on va placer au niveau de la jambe gauche, qui est verte.
+
+Donc, VW, j'ai dit que c'est la borne centrale de Wilson. Les autres trois dérivations périphériques, c'est les dérivations bipolaires. Elles représentent D1, D2 et D3, c'est les enregistrements des différences de potentiel entre les trois électrodes prises 2 à 2. D1, c'est la dérivation entre VL et VR, mais bien sûr avec le VW ou l'électrode de Wilson.
+
+Le D2, c'est entre VF et VR et D3, c'est entre VF et VL. On va constater que D1 plus D3 égale VF moins VR égale D2. Et pour améliorer la sensibilité de l'enregistrement des électrodes périphériques, on a pris l'habitude d'enregistrer des dérivations AVR, AVL et AVF au lieu de VR, VL et VF.
+
+Ces dérivations sont augmentées de 2 tiers ou de 3 fois sur 2 les dérivations ordinaires périphériques. La mise en place des électrodes périphériques au niveau du thorax, c'est les dérivations précordiales. Déjà, on a 6 dérivations précordiales V1, V2, V3, V4, V5 et V6.
+
+La règle suivante, c'est que V1 est placé au niveau du quatrième espace intercostal sur le bord droit du sternum. V2 est placé au niveau du quatrième espace intercostal sur le bord gauche du sternum. V3 est à mi-distance entre V2 et V4.
+
+V4, V5 et V6 sont situés sur une intersection de la ligne horizontale passant par le cinquième espace intercostal gauche avec la ligne médioclavicular pour V4. La ligne axillaire antérieure pour le V5 et la ligne axillaire moyenne pour le V6. Il faut toujours noter que le patient doit être détendu, il doit se reposer à un certain moment avant la prise de l'ECG pour éviter les contractions musculaires qui vont parasiter l'ECG.
+
+L'enregistrement de l'activité électrique du cœur est réalisé grâce à ces 12 dérivations précordiales et périphériques. Chacune de ces électrodes enregistre une partie du cœur selon leur position. L'enregistrement successif est représenté selon des ondes de base.
+
+A partir de la dépolarisation auriculaire en allant de P, le ralentissement entre le nœud oriculo-ventriculaire représente l'espace PR. La dépolarisation ventriculaire et la repolarisation auriculaire, c'est-à-dire polyphasique, représentent le complexe QRS. La repolarisation ventriculaire représente le segment ST, allant de T. Le tout est suivi par un repos électrique, c'est la ligne de base iso-électrique.
+
+L'interprétation de l'électrocardiogramme. J'ai dit qu'on peut utiliser les deux théories. D'abord, la théorie du dipôle électrique du cœur.
+
+C'est cette interprétation qu'on utilise pour les dérivations périphériques. D1, D2, D3 et AVL, AVL et AVF. Cette interprétation de l'ECG représente les variations du vecteur, ce qu'on appelle le vecteur cardiaque, qui représente l'ensemble des cellules cardiaques auriculaire et ventriculaire.
+
+Donc, le vecteur cardiaque, c'est un vecteur qui permet de donner les différentes activations des muscles cardiaques. Cette activation, c'est une différence de potentiel en fonction du temps des projections de ce vecteur sur des axes qu'on appelle les six axes de Bailly. D'ailleurs, le schéma représente les axes D1, D2 et D3.
+
+Et puis, AVR, AVL et AVF, ce qui va générer l'électrocardiogramme. L'origine du vecteur cardiaque, c'est au niveau du centre électrique du cœur. Donc, l'axe du cœur, c'est un axe du cœur moyen qui représente les différentes activations des cellules myocardiques.
+
+Normalement, l'origine, c'est au centre du cœur. Et cet axe du cœur, selon les projections sur les six axes de Bailly, il est situé entre une valeur de moins 30° jusqu'à 90°. Il se dirige vers le bas et à la gauche du malade.
+
+Lorsque l'axe du cœur est dévié en dehors de cet intervalle, il n'est pas normal. Les règles de base de la lecture rapide d'un électrocardiogramme. Donc, il faut lire un électrocardiogramme dans l'ordre logique pour repérer toutes les anomalies et pour proposer une synthèse.
+
+D'ailleurs, la dépolarisation électrique et la repolarisation, ils se succèdent chronologiquement. Mais également, la repolarisation dépend de la dépolarisation qui dépend de la conduction de la fréquence cardiaque et du rythme cardiaque. Les caractéristiques d'un ECG normal.
+
+Normalement, le rythme, il est sinusal, ça veut dire qu'il est accéléré. C'est le rythme que le sinus de Kepler impose au reste du cœur. Et le complexe QRS s'en commandait par les ondes Pei issues de ces sinus.
+
+L'onde Pei, elle dure 0,12 secondes. Elle a une amplitude inférieure à 0,25 mV. Il est positif et monophasique dans toutes les dérivations sauf la dérivation AVR où il est négatif.
+
+AV1, il est biphasique. L'axe du cœur, il est entre 0 et 90°. L'espace PR est un espace isoélectrique entre 0,12 et 0,20 secondes.
+
+Le complexe QRS, il dure moins de 0,11 secondes. Et la repolarisation, c'est le segment ST qui est isoélectrique et qui représente une onde positive et asymétrique. L'analyse du rythme.
+
+Le rythme cardiaque, normalement, il est sinusal. L'activité cardiaque est sous le contrôle d'une sinusale. Si le rythme, il est régulier, on peut déterminer une fréquence cardiaque.
+
+D'ailleurs, on peut diviser 300 par le nombre de petits carreaux de 5 mm qui séparent deux complexes QRS. Par exemple, ici, il y a 4 carrés entre deux complexes QRS. Donc, la fréquence est de 300 sur 4 égale 75 battements par minute.
+
+Les troubles de rythme, c'est des troubles de la fréquence et de la régularité des battements cardiaques. Le rythme cardiaque normal, il varie entre 60 et 100 pulsations par minute au repos. Exemple, lorsqu'il y a une accélération du rythme auriculaire, on parle d'une fibrillation auriculaire, qui est une désorganisation de la ligne de base de l'ECG avec perte de l'onde P qui est remplacée par des ondes F ou une activité fibrillatoire.
+
+Les fibrillations ventriculaires contractiles anarchiques des ventricules également perdent toute efficacité hémodynamique et peuvent donc induire à la mort du patient, sauf une défibrillation rapide. L'axe du coeur, normalement, il est à gauche, lorsqu'il est inférieur à 30, on parle d'une surcharge du ventricule gauche, donc d'une hypertension artérielle lors des maladies valvulaires aortiques et lors des insuffisances mitrales. Lorsque l'axe du coeur est à droite, supérieur à 90, on parle d'une surcharge ventriculaire droite qui peut être due à un rétrécissement mitral.
+
+L'analyse de l'amplitude, la durée et la forme des différentes amplitudes P et Q pour l'onde P, la dépolarisation des oréates hypertrophiques, lorsqu'ils présentent une amplitude supérieure à 2 mm, on parle d'une hypertrophie aux bifidaires droits. Lorsque l'onde P est supérieure à 8 centièmes de seconde ou il est bifide, on parle d'une hypertrophie de l'oréate gauche. Lorsqu'il y a l'absence de l'onde P, c'est une fibrillation auriculaire.
+
+Le temps de conduction auriculo-ventriculaire nous permet de parler des blocs auriculo-ventriculaires. Lorsque ce temps est supérieur à 20 centièmes de seconde, c'est un bloc auriculo-ventriculaire de premier degré. Le bloc auriculo-ventriculaire de deuxième degré est plus grave que celui du premier degré.
+
+C'est ce qui est montré sur le tracé ECG ci-dessous. Le complexe QRS, lors de la dépolarisation des ventricules, nous indique les blocs de branches. On parle de blocs de branches lorsque la durée du QRS est supérieure à 8 centièmes de seconde.
+
+Ce sont les différents types de blocs de branches. L'étude de la repolarisation ventriculaire est mesure de l'espace Qt. L'espace Qt nous renseigne sur la repolarisation du ventricule.
+
+Lorsque l'espace Qt est à 36 centièmes de seconde, à un rythme de 75 par minute, c'est une valeur normale. Lorsque l'espace Qt est positif dans toutes les dérivations, sauf AVR, il peut être négatif dans D2 et D3. L'ESG est un outil indispensable à tous les praticiens, quelle que soit sa spécialité.
+
+Sa valeur est valide seulement si l'appareil est correctement étalonné et les électrodes correctement positionnées. Les bases physiques de l'électrocardiogramme sont fondamentales, surtout pour avoir un prérequis après la pratique de la clinique cardiaque et des applications en cardiologie. Je vous remercie. 
+
+Il y a des QCM que l'on peut travailler lors de notre présentiel. Je vous souhaite un bon confinement et au revoir.

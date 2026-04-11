@@ -1,0 +1,7323 @@
+1
+00:00:02,610 --> 00:00:03,590
+Bonjour tout le monde.
+
+2
+00:00:03,950 --> 00:00:06,030
+Alors, le cours d'aujourd'hui s'appelle
+
+3
+00:00:06,030 --> 00:00:09,850
+« Les effets biologiques des rayonnements ionisants ».
+
+4
+00:00:09,850 --> 00:00:13,330
+Alors, le plan qu'on va suivre ensemble
+
+5
+00:00:13,330 --> 00:00:14,290
+est le suivant.
+
+6
+00:00:14,410 --> 00:00:15,870
+Donc, après la définition de la traduction, on
+
+7
+00:00:15,870 --> 00:00:17,510
+va voir les différentes expressions de la dose.
+
+8
+00:00:19,710 --> 00:00:21,530
+Donc, déjà, on va parler de différents types
+
+9
+00:00:21,530 --> 00:00:21,850
+de doses.
+
+10
+00:00:21,930 --> 00:00:23,410
+D'accord, la dose absente, la dose équivalente
+
+11
+00:00:23,410 --> 00:00:24,210
+et la dose efficace.
+
+12
+00:00:24,890 --> 00:00:26,290
+On va voir les modes d'action des
+
+13
+00:00:26,290 --> 00:00:27,050
+rayonnements ionisants.
+
+14
+00:00:27,270 --> 00:00:29,350
+Donc, généralement, ils sont au nombre de deux,
+
+15
+00:00:29,350 --> 00:00:32,310
+des effets directs et indirects.
+
+16
+00:00:32,590 --> 00:00:33,890
+Et par la suite, on va voir les
+
+17
+00:00:33,890 --> 00:00:36,190
+modes d'action à petite échelle et puis
+
+18
+00:00:36,190 --> 00:00:37,350
+on va augmenter progressivement.
+
+19
+00:00:37,450 --> 00:00:40,250
+Donc, d'abord, à l'échelle moléculaire, à
+
+20
+00:00:40,250 --> 00:00:42,270
+un niveau plus haut, les effets à l
+
+21
+00:00:42,270 --> 00:00:45,130
+'échelle cellulaire, encore plus grand, à l'échelle
+
+22
+00:00:45,130 --> 00:00:48,510
+tessulaire et finalement, les effets des rayonnements ionisants
+
+23
+00:00:48,510 --> 00:00:50,690
+sur l'organisme.
+
+24
+00:00:51,250 --> 00:00:56,910
+Alors, déjà, à propos de la définition de
+
+25
+00:00:56,910 --> 00:01:00,110
+la radiobiologie, ce sont les effets biologiques qui
+
+26
+00:01:00,110 --> 00:01:02,470
+sont provoqués par les rayonnements ionisants sur les
+
+27
+00:01:02,470 --> 00:01:04,850
+tissus qui sont vivants.
+
+28
+00:01:06,410 --> 00:01:09,630
+Ceci découle des moyens de radioprotection parce qu
+
+29
+00:01:09,630 --> 00:01:11,510
+'en connaissant bien sûr les effets, on va
+
+30
+00:01:11,510 --> 00:01:14,590
+pouvoir déterminer les moyens de radioprotection, que ce
+
+31
+00:01:14,590 --> 00:01:16,250
+soit à l'échelle individuelle, à l'échelle
+
+32
+00:01:16,250 --> 00:01:17,650
+des publics ou bien à l'échelle de
+
+33
+00:01:17,650 --> 00:01:18,170
+l'environnement.
+
+34
+00:01:19,270 --> 00:01:21,710
+Et puis, en cas où, donc en cas
+
+35
+00:01:21,710 --> 00:01:24,610
+de radiation, on va savoir dans quel type
+
+36
+00:01:24,610 --> 00:01:27,390
+de rayonnement est responsable et puis donc les
+
+37
+00:01:27,390 --> 00:01:29,810
+mesures nécessaires de radioprotection vis-à-vis de
+
+38
+00:01:29,810 --> 00:01:31,110
+ce type de rayonnement.
+
+39
+00:01:31,890 --> 00:01:33,750
+D'une manière générale, les rayonnements, ils ont
+
+40
+00:01:33,750 --> 00:01:36,830
+un double intérêt, donc un intérêt diagnostique quand,
+
+41
+00:01:37,470 --> 00:01:40,170
+par exemple, vous voulez faire pour un patient
+
+42
+00:01:40,170 --> 00:01:42,250
+une radiographie du thorax ou un scanner, par
+
+43
+00:01:42,250 --> 00:01:44,130
+exemple, comme ce que vous voyez ici sur
+
+44
+00:01:44,130 --> 00:01:48,680
+l'image, ici ou bien ici, d'accord,
+
+45
+00:01:49,320 --> 00:01:51,580
+ou bien lorsqu'un malade veut faire, par
+
+46
+00:01:51,580 --> 00:01:54,340
+exemple, une imagerie fonctionnelle type scintigraphie ou bien
+
+47
+00:01:54,340 --> 00:01:56,220
+tomographie par émission de positons, comme vous voyez
+
+48
+00:01:56,220 --> 00:01:56,440
+ici.
+
+49
+00:01:56,440 --> 00:01:59,340
+Alors, on va revenir sur la tomographie, sur
+
+50
+00:01:59,340 --> 00:02:01,020
+la scintigraphie dans le cours qui est réservé
+
+51
+00:02:01,020 --> 00:02:02,440
+à ce chapitre-là.
+
+52
+00:02:02,960 --> 00:02:03,920
+Ceci pour le diagnostic.
+
+53
+00:02:04,140 --> 00:02:06,660
+Pour le thérapeutique, on peut utiliser les rayonnements
+
+54
+00:02:06,660 --> 00:02:09,820
+ionisants, donc à des fins de traitement, soit
+
+55
+00:02:09,820 --> 00:02:11,780
+en matière de radiothérapie externe.
+
+56
+00:02:13,080 --> 00:02:15,420
+Donc, on peut utiliser soit des sources de
+
+57
+00:02:15,420 --> 00:02:17,520
+rayons X, d'accord, pour l'utilisation généralement
+
+58
+00:02:17,520 --> 00:02:18,540
+superficielle ou profonde.
+
+59
+00:02:18,980 --> 00:02:21,860
+On peut utiliser donc la radiothérapie externe, mais
+
+60
+00:02:21,860 --> 00:02:22,620
+à base de cobalt.
+
+61
+00:02:22,700 --> 00:02:24,120
+C'est ce qu'on appelle la cobaltothérapie,
+
+62
+00:02:24,260 --> 00:02:24,540
+d'accord.
+
+63
+00:02:24,540 --> 00:02:26,120
+Essentiellement dans les cancers de la tête, du
+
+64
+00:02:26,120 --> 00:02:27,840
+cou, du sein et des membres.
+
+65
+00:02:28,480 --> 00:02:30,960
+On peut toujours utiliser la radiothérapie externe, donc
+
+66
+00:02:30,960 --> 00:02:31,880
+à base de neutrons.
+
+67
+00:02:32,000 --> 00:02:33,340
+C'est ce qu'on appelle la neutrothérapie,
+
+68
+00:02:34,140 --> 00:02:35,960
+essentiellement indiqué dans les sarcomes.
+
+69
+00:02:36,700 --> 00:02:38,620
+Et puis, finalement, on peut utiliser la radiothérapie
+
+70
+00:02:38,620 --> 00:02:41,560
+externe, toujours, en utilisant des protons.
+
+71
+00:02:41,760 --> 00:02:42,860
+C'est ce qu'on appelle donc la
+
+72
+00:02:42,860 --> 00:02:43,680
+protothérapie.
+
+73
+00:02:44,520 --> 00:02:47,420
+Et cette indication, ou plutôt les indications de
+
+74
+00:02:47,420 --> 00:02:49,460
+cette technique sont les mélanomes et les tumeurs
+
+75
+00:02:49,460 --> 00:02:50,440
+nerveuses.
+
+76
+00:02:51,360 --> 00:02:52,660
+Ceci pour la radiothérapie externe.
+
+77
+00:02:52,660 --> 00:02:55,240
+Pour la radiothérapie interne, nous avons deux méthodes.
+
+78
+00:02:55,600 --> 00:02:59,560
+Soit des sources non scellées, d'accord, par
+
+79
+00:02:59,560 --> 00:03:01,780
+le cobalt 60 ou par le cysium 137.
+
+80
+00:03:04,620 --> 00:03:07,860
+Soit par la curéthérapie métabolique bêta-moins.
+
+81
+00:03:09,180 --> 00:03:11,280
+Dans le cancer, par exemple, de la thyroïde,
+
+82
+00:03:11,320 --> 00:03:12,600
+on va utiliser l'héliode 131.
+
+83
+00:03:12,780 --> 00:03:15,820
+Dans certaines formes de cancers avancés du foie,
+
+84
+00:03:16,340 --> 00:03:17,880
+on va utiliser un produit qui s'appelle
+
+85
+00:03:17,880 --> 00:03:19,080
+le lupiodol, qui est marqué à l'héliode
+
+86
+00:03:19,080 --> 00:03:19,640
+131.
+
+87
+00:03:19,640 --> 00:03:23,200
+Et dans certaines formes de cancers du surrénal,
+
+88
+00:03:23,680 --> 00:03:25,380
+on va utiliser un produit qui s'appelle
+
+89
+00:03:25,380 --> 00:03:27,920
+la mono-iodobenzinguanidine, donc l'IMBG, qu'on
+
+90
+00:03:27,920 --> 00:03:29,280
+va marquer avec l'héliode 131.
+
+91
+00:03:30,160 --> 00:03:32,460
+Donc vous voyez un petit peu les indications
+
+92
+00:03:35,000 --> 00:03:37,900
+en matière de diagnostic et de thérapeutique des
+
+93
+00:03:37,900 --> 00:03:40,700
+rayonnements ionisants.
+
+94
+00:03:43,060 --> 00:03:48,140
+Alors, maintenant, on peut voir les différentes étapes.
+
+95
+00:03:48,900 --> 00:03:51,840
+Quand un rayonnement incident vient frapper une molécule
+
+96
+00:03:51,840 --> 00:03:54,000
+donnée, il y a plusieurs étapes.
+
+97
+00:03:54,160 --> 00:03:55,480
+La première étape, c'est l'étape physique.
+
+98
+00:03:57,080 --> 00:03:59,500
+Cette étape physique va se caractériser par deux
+
+99
+00:03:59,500 --> 00:04:01,960
+phénomènes, soit un phénomène d'ionisation, soit un
+
+100
+00:04:01,960 --> 00:04:04,220
+phénomène d'excitation, et ceci selon l'énergie
+
+101
+00:04:05,440 --> 00:04:06,540
+du photon incident.
+
+102
+00:04:07,660 --> 00:04:12,420
+Si, par exemple, l'énergie du photon incident
+
+103
+00:04:12,420 --> 00:04:14,660
+ou bien de l'électron incident est supérieure
+
+104
+00:04:14,660 --> 00:04:17,760
+à l'énergie de liaison de l'électron
+
+105
+00:04:17,760 --> 00:04:20,420
+en question, généralement supérieure à 30 électrons volts,
+
+106
+00:04:21,160 --> 00:04:23,680
+l'électron, il sera éjecté de son siège,
+
+107
+00:04:23,800 --> 00:04:26,220
+d'accord, de son cortège électronique, et dans
+
+108
+00:04:26,220 --> 00:04:28,120
+ce cas, on parle d'ionisation.
+
+109
+00:04:28,780 --> 00:04:30,520
+Généralement, c'est la couche K qui est
+
+110
+00:04:30,520 --> 00:04:31,060
+concernée.
+
+111
+00:04:31,680 --> 00:04:33,520
+Alors, le deuxième phénomène, celui de l'excitation,
+
+112
+00:04:33,700 --> 00:04:35,980
+c'est quand l'énergie de l'électron
+
+113
+00:04:35,980 --> 00:04:38,060
+incident est inférieure à l'énergie de liaison
+
+114
+00:04:38,060 --> 00:04:39,060
+de l'électron de l'atome.
+
+115
+00:04:39,740 --> 00:04:41,440
+Dans ce cas, l'électron en question sera
+
+116
+00:04:41,440 --> 00:04:44,140
+déplacé vers une couche qui est supérieure, par
+
+117
+00:04:44,140 --> 00:04:45,660
+exemple de K vers L ou bien de
+
+118
+00:04:45,660 --> 00:04:47,900
+L vers M, et dans ce cas, on
+
+119
+00:04:47,900 --> 00:04:50,240
+parle d'excitation et les couches qui sont
+
+120
+00:04:50,240 --> 00:04:55,580
+concernées, généralement les couches qui sont moins liées,
+
+121
+00:04:55,700 --> 00:04:57,200
+donc soit L, soit M.
+
+122
+00:04:58,460 --> 00:05:01,200
+Ceci dit, alors, vous avez remarqué ici pour
+
+123
+00:05:01,200 --> 00:05:03,780
+les couches que chaque couche électronique, d'accord,
+
+124
+00:05:05,480 --> 00:05:08,300
+peut contenir un nombre maximum d'électrons qui
+
+125
+00:05:08,300 --> 00:05:09,340
+est égal à 2N².
+
+126
+00:05:10,360 --> 00:05:13,160
+Ainsi, la couche K peut contenir donc 2
+
+127
+00:05:13,160 --> 00:05:17,280
+électrons, L8, M18, et ainsi de suite, selon
+
+128
+00:05:17,280 --> 00:05:19,500
+toujours la formule de N².
+
+129
+00:05:20,800 --> 00:05:24,180
+Après l'étape physique, l'étape moléculaire, ça
+
+130
+00:05:24,180 --> 00:05:26,380
+veut dire que les rayonnements ionisants vont attaquer
+
+131
+00:05:26,380 --> 00:05:28,660
+l'eau, le cétoplasme, la membrane et la
+
+132
+00:05:28,660 --> 00:05:29,020
+diène.
+
+133
+00:05:29,600 --> 00:05:31,640
+À une échelle plus grande, les rayonnements ionisants
+
+134
+00:05:31,640 --> 00:05:34,780
+vont attaquer la cellule, donc ils vont provoquer
+
+135
+00:05:34,780 --> 00:05:36,680
+soit une mort immédiate lorsque la dose est
+
+136
+00:05:36,680 --> 00:05:40,800
+très importante, soit une mort dite méthotique, soit
+
+137
+00:05:40,800 --> 00:05:42,560
+une mort parapopthose.
+
+138
+00:05:42,980 --> 00:05:44,560
+On va voir les détails au fur et
+
+139
+00:05:44,560 --> 00:05:44,860
+à mesure.
+
+140
+00:05:45,420 --> 00:05:47,840
+À une échelle plus grande, les rayonnements ionisants
+
+141
+00:05:47,840 --> 00:05:49,600
+vont attaquer les tissus, donc il y a
+
+142
+00:05:49,600 --> 00:05:51,980
+deux classes, le tissu qui est bien organisé,
+
+143
+00:05:53,000 --> 00:05:55,820
+ou le tissu compartimental, et le tissu non
+
+144
+00:05:55,820 --> 00:05:58,180
+hiérarchisé ou le tissu non compartimental.
+
+145
+00:05:58,860 --> 00:06:02,580
+Toujours à un niveau plus grand, les rayonnements
+
+146
+00:06:02,580 --> 00:06:06,900
+ionisants vont attaquer l'organisme et selon la
+
+147
+00:06:06,900 --> 00:06:10,020
+cible, soit ainsi on va parler d'effets
+
+148
+00:06:10,020 --> 00:06:15,040
+somatiques, soit une cellule de reproduction, on va
+
+149
+00:06:15,040 --> 00:06:17,340
+parler d'effets génétiques, soit le foetus carrément,
+
+150
+00:06:17,460 --> 00:06:18,900
+et là on va parler d'effets thératogènes.
+
+151
+00:06:19,300 --> 00:06:21,400
+À une échelle plus grande, et généralement dans
+
+152
+00:06:21,400 --> 00:06:24,160
+le cadre d'un accident, les effets biologiques
+
+153
+00:06:24,160 --> 00:06:26,580
+peuvent se traduire à l'échelle de la
+
+154
+00:06:26,580 --> 00:06:26,960
+population.
+
+155
+00:06:29,920 --> 00:06:32,540
+Les effets biologiques, avant de voir ces effets
+
+156
+00:06:32,540 --> 00:06:33,920
+-là, il faut savoir qu'ils dépendent de
+
+157
+00:06:33,920 --> 00:06:34,520
+plusieurs facteurs.
+
+158
+00:06:35,040 --> 00:06:38,040
+Tout d'abord, le type du rayonnement.
+
+159
+00:06:38,160 --> 00:06:39,020
+Est-ce que c'est un rayonnement du
+
+160
+00:06:39,020 --> 00:06:41,280
+type alpha, bêta, plus ou bêta moins, ou
+
+161
+00:06:41,280 --> 00:06:42,260
+bien un rayonnement du type gamma?
+
+162
+00:06:42,800 --> 00:06:43,020
+Déjà.
+
+163
+00:06:43,900 --> 00:06:44,140
+Pourquoi?
+
+164
+00:06:44,640 --> 00:06:47,260
+Parce que les énergies déphèrent selon le type.
+
+165
+00:06:47,540 --> 00:06:49,780
+Par exemple, pour une particule alpha, elle a
+
+166
+00:06:49,780 --> 00:06:51,180
+une énergie comprise entre 4 et 8.
+
+167
+00:06:51,780 --> 00:06:59,840
+Pour une particule de type bêta moins, si
+
+168
+00:06:59,840 --> 00:07:02,440
+je prends l'iode, par exemple 131, son
+
+169
+00:07:02,440 --> 00:07:06,420
+énergie est de 606 keV.
+
+170
+00:07:06,800 --> 00:07:08,500
+On n'est plus du MeV, mais du
+
+171
+00:07:08,500 --> 00:07:09,060
+KeV.
+
+172
+00:07:09,680 --> 00:07:12,040
+Pour une particule gamma, si je prends, par
+
+173
+00:07:12,040 --> 00:07:14,360
+exemple, les bêta plus, dans le cadre du
+
+174
+00:07:14,360 --> 00:07:17,340
+fluor 18, son énergie est de 511 keV.
+
+175
+00:07:18,160 --> 00:07:21,780
+Déjà, vous voyez que les effets dépendent du
+
+176
+00:07:21,780 --> 00:07:25,540
+type du rayonnement et qui dit type, dit
+
+177
+00:07:25,540 --> 00:07:27,760
+énergie qui est différente.
+
+178
+00:07:28,480 --> 00:07:30,920
+Bien sûr, les parcours seront différents.
+
+179
+00:07:31,160 --> 00:07:31,420
+Pourquoi?
+
+180
+00:07:31,620 --> 00:07:33,120
+Parce que pour une particule de type alpha,
+
+181
+00:07:33,300 --> 00:07:35,960
+le parcours dans les tissus est inférieur à
+
+182
+00:07:35,960 --> 00:07:37,900
+1 mm et dans l'air, il est
+
+183
+00:07:37,900 --> 00:07:39,240
+aux alentours de 10 cm.
+
+184
+00:07:39,620 --> 00:07:41,580
+Pour une particule bêta moins, il est de
+
+185
+00:07:41,580 --> 00:07:45,040
+1 mm dans les tissus mous et environ
+
+186
+00:07:45,040 --> 00:07:46,600
+1 m dans l'air.
+
+187
+00:07:47,000 --> 00:07:50,260
+Pour le rayonnement du type hexigamma, c'est
+
+188
+00:07:50,260 --> 00:07:52,860
+une distance un peu plus grande, environ 10
+
+189
+00:07:52,860 --> 00:07:54,580
+cm dans les tissus mous et 10 à
+
+190
+00:07:54,580 --> 00:07:55,860
+100 m dans l'air.
+
+191
+00:07:56,860 --> 00:07:57,060
+Voilà.
+
+192
+00:07:57,700 --> 00:08:02,080
+Déjà, le premier facteur, ce sont les caractéristiques
+
+193
+00:08:02,080 --> 00:08:03,060
+des rayonnements ionisants.
+
+194
+00:08:05,920 --> 00:08:11,640
+Après ces caractéristiques-là, ils dépendent également de
+
+195
+00:08:11,640 --> 00:08:13,140
+la composition de l'organisme.
+
+196
+00:08:13,400 --> 00:08:16,860
+La composition de l'organisme, ça veut dire
+
+197
+00:08:16,860 --> 00:08:17,100
+quoi?
+
+198
+00:08:17,300 --> 00:08:19,680
+Ça veut dire le type de la cellule.
+
+199
+00:08:19,880 --> 00:08:20,760
+Est-ce que c'est une cellule qui
+
+200
+00:08:20,760 --> 00:08:22,040
+est sensible ou pas au rayonnement?
+
+201
+00:08:22,180 --> 00:08:22,680
+On verra ça.
+
+202
+00:08:23,300 --> 00:08:24,180
+Le tissu.
+
+203
+00:08:24,320 --> 00:08:25,260
+Il y a des tissus qui sont plus
+
+204
+00:08:25,260 --> 00:08:26,000
+sensibles qu'autres.
+
+205
+00:08:26,600 --> 00:08:28,660
+Bien sûr, il y a le sujet.
+
+206
+00:08:29,260 --> 00:08:30,500
+Le sujet, est-ce que c'est un
+
+207
+00:08:30,500 --> 00:08:31,940
+nourrisson ou bien est-ce que c'est
+
+208
+00:08:31,940 --> 00:08:32,380
+un adulte?
+
+209
+00:08:32,659 --> 00:08:35,380
+Ceci en rapport avec la surface corporelle.
+
+210
+00:08:37,539 --> 00:08:40,880
+Les différents modes d'irradiation.
+
+211
+00:08:41,020 --> 00:08:45,320
+Les différents modes d'irradiation, c'est très
+
+212
+00:08:45,320 --> 00:08:45,780
+important.
+
+213
+00:08:46,320 --> 00:08:49,840
+Là, on va parler de dose et de
+
+214
+00:08:49,840 --> 00:08:50,340
+débit de dose.
+
+215
+00:08:50,500 --> 00:08:51,500
+Quand on parle de débit, c'est en
+
+216
+00:08:51,500 --> 00:08:52,100
+fonction du temps.
+
+217
+00:08:53,900 --> 00:08:59,600
+Après, vous devez savoir que lorsqu'un rayonnement
+
+218
+00:08:59,600 --> 00:09:06,600
+ionisant attaque une molécule, les attentes les plus
+
+219
+00:09:06,600 --> 00:09:11,840
+touchées sont les attentes qui constituent un pourcentage
+
+220
+00:09:11,840 --> 00:09:14,340
+très important à savoir l'attente de carbone,
+
+221
+00:09:14,540 --> 00:09:16,020
+d'oxygène, d'hydrogène et d'azote.
+
+222
+00:09:17,120 --> 00:09:19,800
+Les phénomènes les plus connus à la première
+
+223
+00:09:19,800 --> 00:09:21,980
+étape, ce sont les phénomènes d'excitation et
+
+224
+00:09:21,980 --> 00:09:23,740
+d'immunisation que j'ai déjà expliqués.
+
+225
+00:09:25,700 --> 00:09:28,660
+Ce sont ces phénomènes-là qui vont entraîner
+
+226
+00:09:28,660 --> 00:09:30,820
+par la suite les effets biologiques qu'on
+
+227
+00:09:30,820 --> 00:09:34,740
+va détailler que ce soit misible lorsque la
+
+228
+00:09:34,740 --> 00:09:37,080
+dose dans laquelle elle dépasse est donnée, soit
+
+229
+00:09:37,080 --> 00:09:41,400
+bénéfique soit d'un traitement, soit d'un
+
+230
+00:09:41,400 --> 00:09:41,820
+diagnostic.
+
+231
+00:09:42,080 --> 00:09:43,020
+C'est l'exemple que j'ai donné
+
+232
+00:09:43,020 --> 00:09:44,520
+pour la radiographie, pour le SCAREN et pour
+
+233
+00:09:44,520 --> 00:09:44,860
+la scientifique.
+
+234
+00:09:46,360 --> 00:09:47,860
+Quelques dates très intéressantes.
+
+235
+00:09:47,860 --> 00:09:51,080
+Vous devez savoir qu'en 1985 il y
+
+236
+00:09:51,080 --> 00:09:52,640
+a la découverte des radiations ionisantes.
+
+237
+00:09:52,940 --> 00:09:55,420
+Quelques années plus tard, en 1996, il y
+
+238
+00:09:55,420 --> 00:09:57,940
+a la constatation des premières lesions cutanées, radio
+
+239
+00:09:57,940 --> 00:10:02,600
+-induites, qui sont provoquées par les rayonnements ionisants.
+
+240
+00:10:03,280 --> 00:10:08,960
+En 1910, le développement de certains cancers expérimentaux.
+
+241
+00:10:09,160 --> 00:10:11,780
+Et puis, en 1927, la constatation d'une
+
+242
+00:10:11,780 --> 00:10:13,820
+mutation génétique liée aux rayonnements ionisants.
+
+243
+00:10:15,580 --> 00:10:17,960
+Un petit détail, on va revenir sur le
+
+244
+00:10:17,960 --> 00:10:19,340
+phénomène d'ionisation et d'excitation.
+
+245
+00:10:19,560 --> 00:10:19,960
+Pourquoi ?
+
+246
+00:10:19,960 --> 00:10:20,880
+Parce que c'est très important.
+
+247
+00:10:21,000 --> 00:10:22,540
+C'est le premier phénomène qui est constaté
+
+248
+00:10:22,540 --> 00:10:26,640
+lorsque un rayonnement ionisant attaque une molécule donnée
+
+249
+00:10:26,640 --> 00:10:27,280
+de l'organisme.
+
+250
+00:10:28,640 --> 00:10:31,000
+Le phénomène d'ionisation, c'est très simple.
+
+251
+00:10:31,120 --> 00:10:32,780
+C'est lorsque l'énergie est suffisante pour
+
+252
+00:10:32,780 --> 00:10:33,940
+acheter un électron de l'atome.
+
+253
+00:10:34,480 --> 00:10:37,660
+Ce dernier, comment il sera éjecté ?
+
+254
+00:10:37,660 --> 00:10:40,560
+A son tour, il va créer d'autres
+
+255
+00:10:40,560 --> 00:10:42,740
+ionisations si son énergie est suffisante.
+
+256
+00:10:43,340 --> 00:10:45,740
+Pour le phénomène d'excitation, l'énergie incident
+
+257
+00:10:45,740 --> 00:10:47,720
+est inférieure à l'énergie de liaison.
+
+258
+00:10:48,700 --> 00:10:53,080
+Cette énergie va juste déplacer l'électron à
+
+259
+00:10:53,080 --> 00:10:54,160
+une couche qui est supérieure.
+
+260
+00:10:55,940 --> 00:10:58,380
+L'atome, par conséquent, devient très instable.
+
+261
+00:10:58,880 --> 00:11:00,420
+Et puis, le dernier phénomène, lorsque l'énergie
+
+262
+00:11:00,420 --> 00:11:07,220
+incident est très inférieure, là, pour exciter l
+
+263
+00:11:07,220 --> 00:11:11,920
+'atome, l'atome en question va avoir son
+
+264
+00:11:11,920 --> 00:11:15,100
+énergie signétique très augmentée, soit par un phénomène
+
+265
+00:11:15,100 --> 00:11:17,080
+de translation, de rotation ou bien de vibration.
+
+266
+00:11:19,220 --> 00:11:20,120
+Là, c'est très important.
+
+267
+00:11:20,220 --> 00:11:21,640
+Ce sont les différentes expressions de la dose.
+
+268
+00:11:22,080 --> 00:11:23,280
+C'est un schéma qui montre un petit
+
+269
+00:11:23,280 --> 00:11:25,980
+peu les différentes expressions.
+
+270
+00:11:26,800 --> 00:11:28,320
+On va commencer déjà par la source.
+
+271
+00:11:29,040 --> 00:11:31,400
+La source, généralement, est exprimée en bicréel.
+
+272
+00:11:31,540 --> 00:11:34,600
+C'est une source radioactive qui va émettre
+
+273
+00:11:34,600 --> 00:11:36,520
+un type de rayonnement, que ce soit alpha,
+
+274
+00:11:36,600 --> 00:11:38,280
+bêta, gamma ou autre.
+
+275
+00:11:39,100 --> 00:11:41,320
+Au niveau de l'organisme, la première expression,
+
+276
+00:11:41,460 --> 00:11:42,660
+c'est la dose absorbée qui va s
+
+277
+00:11:42,660 --> 00:11:43,400
+'exprimer en grès.
+
+278
+00:11:43,540 --> 00:11:44,220
+C'est au niveau de l'organisme.
+
+279
+00:11:46,960 --> 00:11:49,440
+À une échelle plus grande, une autre expression,
+
+280
+00:11:49,900 --> 00:11:50,980
+c'est la dose équivalente.
+
+281
+00:11:51,080 --> 00:11:52,320
+La dose équivalente, c'est quoi ?
+
+282
+00:11:52,320 --> 00:11:54,880
+C'est la dose absorbée qu'on va
+
+283
+00:11:54,880 --> 00:11:56,820
+multiplier par un facteur de pondération radiologique.
+
+284
+00:11:57,420 --> 00:11:59,720
+Pourquoi cette dose équivalente ?
+
+285
+00:11:59,720 --> 00:12:02,020
+C'est pour faire la différence entre la
+
+286
+00:12:02,020 --> 00:12:04,240
+dangerosité de chaque type de rayonnement.
+
+287
+00:12:05,180 --> 00:12:07,400
+À un stade plus grand, on va parler
+
+288
+00:12:07,400 --> 00:12:08,600
+de doses efficaces.
+
+289
+00:12:08,680 --> 00:12:10,080
+La dose efficace, c'est quoi ?
+
+290
+00:12:10,080 --> 00:12:12,740
+C'est la sommation des doses équivalentes qu
+
+291
+00:12:12,740 --> 00:12:14,300
+'on va multiplier par un autre facteur qui
+
+292
+00:12:14,300 --> 00:12:16,080
+s'appelle le facteur de pondération tissulaire.
+
+293
+00:12:17,860 --> 00:12:20,880
+Ceci, pour faire la part des choses entre
+
+294
+00:12:20,880 --> 00:12:22,540
+les tissus les plus sensibles.
+
+295
+00:12:23,160 --> 00:12:25,560
+On verra ça en détail dans les diapos
+
+296
+00:12:25,560 --> 00:12:25,920
+suivantes.
+
+297
+00:12:26,000 --> 00:12:27,560
+On va commencer par la dose absorbée.
+
+298
+00:12:27,560 --> 00:12:29,200
+La dose absorbée, c'est quoi ?
+
+299
+00:12:29,200 --> 00:12:31,320
+C'est l'énergie totale qui est déposée
+
+300
+00:12:31,320 --> 00:12:32,540
+par unité de masse.
+
+301
+00:12:33,100 --> 00:12:34,180
+L'unité sur les grès.
+
+302
+00:12:34,920 --> 00:12:36,600
+Un grès, c'est un joule par kilo.
+
+303
+00:12:36,740 --> 00:12:37,680
+L'unité, c'est le rad.
+
+304
+00:12:37,800 --> 00:12:39,460
+Un grès est égal à 100 rad.
+
+305
+00:12:41,140 --> 00:12:44,560
+Vous avez une source radioactive qui émet un
+
+306
+00:12:44,560 --> 00:12:45,540
+type de rayonnement donné.
+
+307
+00:12:46,220 --> 00:12:50,380
+La dose absorbée, c'est l'énergie totale
+
+308
+00:12:50,380 --> 00:12:51,800
+absorbée par unité de masse.
+
+309
+00:12:52,020 --> 00:12:54,760
+La masse qui a reçu le rayonnement en
+
+310
+00:12:54,760 --> 00:12:55,120
+question.
+
+311
+00:12:56,440 --> 00:12:59,020
+L'énergie, ou plutôt l'unité, c'est
+
+312
+00:12:59,020 --> 00:12:59,360
+le grès.
+
+313
+00:13:00,040 --> 00:13:01,520
+Quelques exemples de doses absorbées.
+
+314
+00:13:01,520 --> 00:13:03,660
+Si quelqu'un, par exemple, fasse une radio
+
+315
+00:13:03,660 --> 00:13:07,720
+dentaire, la dose absorbée moyenne est de 0
+
+316
+00:13:07,720 --> 00:13:08,620
+,2 mg.
+
+317
+00:13:09,200 --> 00:13:11,280
+Si quelqu'un, par exemple, fasse un cliché
+
+318
+00:13:11,280 --> 00:13:13,960
+du thorax, la dose absorbée est de 1
+
+319
+00:13:13,960 --> 00:13:14,340
+mg.
+
+320
+00:13:14,980 --> 00:13:16,800
+Une séance de radiothérapie, ça peut augmenter jusqu
+
+321
+00:13:16,800 --> 00:13:17,980
+'à 2 grès.
+
+322
+00:13:18,720 --> 00:13:19,500
+Maintenant, le débit.
+
+323
+00:13:19,700 --> 00:13:22,080
+C'est une notion de dose, mais en
+
+324
+00:13:22,080 --> 00:13:22,780
+fonction du temps.
+
+325
+00:13:23,200 --> 00:13:24,680
+C'est la dose absorbée par unité de
+
+326
+00:13:24,680 --> 00:13:24,880
+temps.
+
+327
+00:13:25,840 --> 00:13:29,640
+C'est généralement grès par seconde.
+
+328
+00:13:29,640 --> 00:13:33,480
+L'expression suivante, c'est la dose équivalente.
+
+329
+00:13:34,120 --> 00:13:36,600
+On va introduire le fameux facteur de pondération
+
+330
+00:13:36,600 --> 00:13:37,400
+radiologique.
+
+331
+00:13:38,440 --> 00:13:39,160
+Pourquoi ?
+
+332
+00:13:39,160 --> 00:13:40,900
+Pour faire la part entre les différents types
+
+333
+00:13:40,900 --> 00:13:41,380
+de rayonnement.
+
+334
+00:13:41,760 --> 00:13:43,660
+Ou plutôt, on va les classer en matière
+
+335
+00:13:43,660 --> 00:13:44,540
+de dangerosité.
+
+336
+00:13:45,060 --> 00:13:47,000
+Il y a certains rayonnements qui sont plus
+
+337
+00:13:47,000 --> 00:13:49,980
+nocifs que d'autres en matière d'irradiation.
+
+338
+00:13:50,540 --> 00:13:53,320
+L'unité, c'est le ci vert.
+
+339
+00:13:54,600 --> 00:13:56,920
+Là, vous avez les différents facteurs de pondération
+
+340
+00:13:56,920 --> 00:13:57,600
+pour les rayonnements.
+
+341
+00:13:57,600 --> 00:13:59,440
+Par exemple, pour les photons et les électrons,
+
+342
+00:13:59,580 --> 00:14:00,700
+vous avez un facteur qui est égal à
+
+343
+00:14:00,700 --> 00:14:00,880
+1.
+
+344
+00:14:01,420 --> 00:14:03,800
+Pour les particules alpha, vous avez un facteur
+
+345
+00:14:03,800 --> 00:14:04,440
+qui est égal à 20.
+
+346
+00:14:04,860 --> 00:14:07,080
+Pour les neutrons, c'est en fonction de
+
+347
+00:14:07,080 --> 00:14:07,480
+l'énergie.
+
+348
+00:14:07,700 --> 00:14:11,320
+Sur le graphique, vous constatez que l'énergie
+
+349
+00:14:11,320 --> 00:14:13,860
+de neutrons est à ce niveau-là.
+
+350
+00:14:14,940 --> 00:14:17,020
+Là, le facteur de pondération est le plus
+
+351
+00:14:17,020 --> 00:14:17,600
+augmenté.
+
+352
+00:14:18,960 --> 00:14:21,440
+Ceci, c'est pour les neutrons qui ont
+
+353
+00:14:21,440 --> 00:14:24,320
+une énergie comprise entre 5F et 2Mv.
+
+354
+00:14:25,120 --> 00:14:26,180
+On peut les bloquer.
+
+355
+00:14:28,460 --> 00:14:30,320
+Je vais avancer.
+
+356
+00:14:31,180 --> 00:14:40,580
+Ceci concerne le risque d'irradiation ou plutôt
+
+357
+00:14:40,580 --> 00:14:41,660
+de contamination interne.
+
+358
+00:14:41,800 --> 00:14:44,980
+Vous avez les particules alpha qui ont un
+
+359
+00:14:44,980 --> 00:14:49,320
+parcours très court dans la matière qui est
+
+360
+00:14:49,320 --> 00:14:51,800
+d'environ 0,03 mm.
+
+361
+00:14:52,120 --> 00:14:53,200
+Donc, même pas 1 mm.
+
+362
+00:14:55,260 --> 00:14:58,420
+En termes d'irradiation externe, elle est nulle
+
+363
+00:14:58,420 --> 00:15:00,620
+parce qu'elle a un parcours très faible.
+
+364
+00:15:01,840 --> 00:15:05,200
+En termes de contamination externe, elles sont sans
+
+365
+00:15:05,200 --> 00:15:05,500
+danger.
+
+366
+00:15:05,920 --> 00:15:09,380
+Par contre, en contamination interne, elles ont un
+
+367
+00:15:09,380 --> 00:15:10,440
+risque très important.
+
+368
+00:15:10,920 --> 00:15:11,140
+Pourquoi?
+
+369
+00:15:11,740 --> 00:15:14,180
+Parce qu'elles sont à l'intérieur.
+
+370
+00:15:14,400 --> 00:15:15,960
+On est dans ce schéma-là.
+
+371
+00:15:16,500 --> 00:15:19,740
+Le nombre de perdants créés est très important.
+
+372
+00:15:20,040 --> 00:15:23,160
+Ils peuvent aller jusqu'à 4500 perdants créés
+
+373
+00:15:23,160 --> 00:15:24,500
+par micromètre.
+
+374
+00:15:24,500 --> 00:15:25,340
+Voilà.
+
+375
+00:15:26,380 --> 00:15:28,380
+Ceci pour les particules alpha.
+
+376
+00:15:28,640 --> 00:15:30,700
+On peut appliquer ça pour les particules bêta,
+
+377
+00:15:30,860 --> 00:15:33,020
+pour les particules gamma et pour les neutrons.
+
+378
+00:15:35,540 --> 00:15:37,820
+On va prendre quelques exemples.
+
+379
+00:15:38,280 --> 00:15:40,720
+Si on prend par exemple un sujet A,
+
+380
+00:15:40,860 --> 00:15:42,460
+un sujet B, un sujet C.
+
+381
+00:15:42,880 --> 00:15:44,280
+On va commencer par le sujet A.
+
+382
+00:15:45,120 --> 00:15:47,400
+S'il reçoit par exemple un rayonnement ionisant
+
+383
+00:15:47,400 --> 00:15:50,680
+avec une dose absorbée de 1 mGy, de
+
+384
+00:15:50,680 --> 00:15:50,960
+quoi?
+
+385
+00:15:51,180 --> 00:15:52,320
+Le rayonnement de type gamma.
+
+386
+00:15:52,640 --> 00:15:54,540
+Je rappelle que le rayonnement gamma, si vous
+
+387
+00:15:54,540 --> 00:15:57,980
+revenez sur les slides précédents, a un facteur
+
+388
+00:15:57,980 --> 00:15:59,220
+de pondération qui est égal à 1.
+
+389
+00:16:01,100 --> 00:16:07,300
+Le sujet B reçoit une irradiation totale, la
+
+390
+00:16:07,300 --> 00:16:10,060
+même dose absorbée 1, mais de neutrons qui
+
+391
+00:16:10,060 --> 00:16:11,700
+ont une énergie de 50 keV.
+
+392
+00:16:11,760 --> 00:16:14,580
+Je rappelle que les neutrons ont une énergie
+
+393
+00:16:14,580 --> 00:16:16,740
+de 50 keV et un facteur de pondération
+
+394
+00:16:16,740 --> 00:16:17,500
+qui est égal à 10.
+
+395
+00:16:18,040 --> 00:16:19,540
+Les doses équivalentes, c'est quoi?
+
+396
+00:16:19,660 --> 00:16:21,100
+C'est la dose absorbée multipliée par le
+
+397
+00:16:21,100 --> 00:16:22,320
+facteur de pondération radiologique.
+
+398
+00:16:22,320 --> 00:16:25,000
+On va prendre pour le A la dose
+
+399
+00:16:25,000 --> 00:16:27,660
+absorbée, qu'on va multiplier par 1, donc
+
+400
+00:16:27,660 --> 00:16:29,540
+la dose équivalente qui est égale à 1
+
+401
+00:16:29,540 --> 00:16:29,880
+mSv.
+
+402
+00:16:30,180 --> 00:16:33,120
+Pour la personne B, la dose absorbée qui
+
+403
+00:16:33,120 --> 00:16:35,020
+est égale à 1, multipliée par le facteur
+
+404
+00:16:35,020 --> 00:16:36,860
+de pondération radiologique qui est égal à 10.
+
+405
+00:16:37,480 --> 00:16:41,480
+Et là, on est environ avec une dose
+
+406
+00:16:41,480 --> 00:16:42,880
+équivalente, on va se retrouver avec une dose
+
+407
+00:16:42,880 --> 00:16:44,320
+équivalente qui est égale à 10 mSv.
+
+408
+00:16:44,900 --> 00:16:49,440
+Donc, là, la conclusion, c'est quoi?
+
+409
+00:16:49,440 --> 00:16:54,200
+C'est que pour la même dose absorbée,
+
+410
+00:16:55,240 --> 00:17:00,040
+mais avec des rayonnements très différents, la dose
+
+411
+00:17:00,040 --> 00:17:01,700
+équivalente sera très différente.
+
+412
+00:17:02,720 --> 00:17:02,980
+Pourquoi?
+
+413
+00:17:03,599 --> 00:17:08,260
+Parce que les facteurs de pondération de chacun
+
+414
+00:17:08,260 --> 00:17:12,280
+des rayonnements sont différents.
+
+415
+00:17:13,900 --> 00:17:18,180
+Ceci explique un petit peu la dangerosité des
+
+416
+00:17:18,180 --> 00:17:20,359
+neutrons par rapport aux rayonnements gamma.
+
+417
+00:17:20,940 --> 00:17:22,200
+Avec la même dose.
+
+418
+00:17:23,099 --> 00:17:25,400
+On va passer à la personne C.
+
+419
+00:17:26,060 --> 00:17:30,620
+Supposons qu'elle reçoit les deux, gamma et
+
+420
+00:17:30,620 --> 00:17:32,540
+neutron, avec la même dose.
+
+421
+00:17:32,740 --> 00:17:35,080
+1 pour les rayonnements gamma et 1 pour
+
+422
+00:17:35,080 --> 00:17:36,980
+les rayonnements neutrons.
+
+423
+00:17:37,860 --> 00:17:41,500
+La dose finale, la sommation, c'est quoi?
+
+424
+00:17:42,020 --> 00:17:44,920
+C'est 1 plus 10, ça fait 11.
+
+425
+00:17:46,280 --> 00:17:51,580
+Ceci conclut, on va conclure de la manière
+
+426
+00:17:51,580 --> 00:17:52,060
+suivante.
+
+427
+00:17:52,500 --> 00:17:55,720
+D'une part, pour la même dose absorbée,
+
+428
+00:17:56,080 --> 00:17:58,060
+il faut savoir que la dose équivalente est
+
+429
+00:17:58,060 --> 00:17:59,920
+différente en fonction du type de rayonnement.
+
+430
+00:18:00,640 --> 00:18:05,120
+Deux, la sommation de plusieurs rayonnements aura des
+
+431
+00:18:05,120 --> 00:18:08,340
+conséquences en termes de toxicité très importantes, parce
+
+432
+00:18:08,340 --> 00:18:11,260
+qu'il y aura une sommation des différents
+
+433
+00:18:11,260 --> 00:18:15,060
+types de rayonnements et par conséquent, en tenant
+
+434
+00:18:15,060 --> 00:18:18,300
+compte de leurs facteurs de pondération radiologiques.
+
+435
+00:18:19,020 --> 00:18:21,380
+On va passer à la dose, à l
+
+436
+00:18:21,380 --> 00:18:22,420
+'équivalent de la dose engagée.
+
+437
+00:18:22,880 --> 00:18:25,600
+Ceci en cas d'introduction du radio-élément.
+
+438
+00:18:25,840 --> 00:18:27,580
+La dose équivalente, c'est quoi?
+
+439
+00:18:28,900 --> 00:18:31,340
+C'est la dose équivalente reçue jusqu'à
+
+440
+00:18:31,340 --> 00:18:32,920
+la disparition du radio-élément.
+
+441
+00:18:33,360 --> 00:18:36,140
+La disparition peut se faire de deux manières.
+
+442
+00:18:37,340 --> 00:18:42,960
+Soit par une décroissance du radio-élément, une
+
+443
+00:18:42,960 --> 00:18:44,560
+décroissance physique.
+
+444
+00:18:45,660 --> 00:18:48,000
+Je prends l'exemple du cyclicium, qui a
+
+445
+00:18:48,000 --> 00:18:49,500
+une durée de vie de six heures.
+
+446
+00:18:49,660 --> 00:18:51,300
+Au bout de six heures, il va disparaître
+
+447
+00:18:51,300 --> 00:18:53,220
+de l'organisme.
+
+448
+00:18:53,640 --> 00:18:55,800
+Soit par élimination biologique.
+
+449
+00:18:57,580 --> 00:19:01,300
+On va introduire une nouvelle notion, la période
+
+450
+00:19:01,300 --> 00:19:02,340
+biologique.
+
+451
+00:19:03,200 --> 00:19:04,560
+On va expliquer tout ça.
+
+452
+00:19:06,100 --> 00:19:08,460
+L'équivalent de dose engagée, on peut l
+
+453
+00:19:08,460 --> 00:19:09,540
+'exprimer de différentes manières.
+
+454
+00:19:10,100 --> 00:19:12,080
+Soit par la période physique, soit par la
+
+455
+00:19:12,080 --> 00:19:14,420
+période biologique, soit par la période fictive.
+
+456
+00:19:14,920 --> 00:19:17,600
+La différence entre les trois est la suivante.
+
+457
+00:19:17,720 --> 00:19:19,440
+La première, la période physique, c'est le
+
+458
+00:19:19,440 --> 00:19:21,280
+temps nécessaire pour que la moitié des atomes
+
+459
+00:19:21,280 --> 00:19:23,900
+se désintègrent naturellement.
+
+460
+00:19:24,020 --> 00:19:25,660
+Donc, je rappelle la moitié.
+
+461
+00:19:26,720 --> 00:19:26,980
+D'accord?
+
+462
+00:19:30,520 --> 00:19:32,780
+Pour la période biologique, c'est quoi?
+
+463
+00:19:32,940 --> 00:19:35,040
+C'est le temps, toujours la notion de
+
+464
+00:19:35,040 --> 00:19:37,400
+temps, au bout duquel la moitié d'une
+
+465
+00:19:37,400 --> 00:19:39,440
+quantité ingérée ou inhalée, d'accord?
+
+466
+00:19:39,800 --> 00:19:41,760
+Pourquoi ingérée ou inhalée?
+
+467
+00:19:41,880 --> 00:19:43,480
+Parce que le produit, d'accord?
+
+468
+00:19:45,080 --> 00:19:46,620
+Le produit radioactif, d'accord?
+
+469
+00:19:47,260 --> 00:19:48,840
+Ou plutôt la source, d'accord?
+
+470
+00:19:49,340 --> 00:19:52,580
+Peut-être soit ingérée, soit inhalée.
+
+471
+00:19:53,020 --> 00:19:54,760
+On va prendre des exemples dans les slides
+
+472
+00:19:54,760 --> 00:19:55,420
+suivantes.
+
+473
+00:19:56,100 --> 00:19:59,060
+Alors, la moitié, il sera comment éliminée de
+
+474
+00:19:59,060 --> 00:19:59,620
+l'organisme?
+
+475
+00:20:00,240 --> 00:20:01,780
+Et là, on parle de période biologique.
+
+476
+00:20:02,120 --> 00:20:03,280
+Et la période fictive, bien sûr, c'est
+
+477
+00:20:03,280 --> 00:20:04,080
+l'assommation des deux.
+
+478
+00:20:04,480 --> 00:20:06,880
+Là, je ferai comme exemple l'iode-131
+
+479
+00:20:06,880 --> 00:20:09,120
+qui a une période physique, d'accord?
+
+480
+00:20:09,180 --> 00:20:09,700
+De huit jours.
+
+481
+00:20:10,460 --> 00:20:11,400
+Ça veut dire que c'est le temps
+
+482
+00:20:11,400 --> 00:20:13,960
+nécessaire pour que la moitié des atomes se
+
+483
+00:20:13,960 --> 00:20:17,340
+désintègrent, donc les atomes de l'iode 131.
+
+484
+00:20:17,900 --> 00:20:19,480
+Pour la période biologique, il est de 30
+
+485
+00:20:19,480 --> 00:20:19,700
+jours.
+
+486
+00:20:19,840 --> 00:20:21,940
+Et pour la période, donc, fictive, c'est
+
+487
+00:20:21,940 --> 00:20:23,280
+6,3 jours.
+
+488
+00:20:24,760 --> 00:20:25,700
+Alors, la dose efficace.
+
+489
+00:20:25,720 --> 00:20:27,660
+La dose efficace, c'est une expression très
+
+490
+00:20:27,660 --> 00:20:28,220
+importante.
+
+491
+00:20:28,480 --> 00:20:28,760
+D'accord?
+
+492
+00:20:29,820 --> 00:20:33,240
+Parce que, donc, il va nous renseigner sur
+
+493
+00:20:33,240 --> 00:20:34,800
+la sensibilité des tissus.
+
+494
+00:20:35,680 --> 00:20:38,660
+Alors, on va prendre le même rayonnement, donc
+
+495
+00:20:38,660 --> 00:20:41,740
+un rayonnement du type par exemple bêta, d
+
+496
+00:20:41,740 --> 00:20:41,960
+'accord?
+
+497
+00:20:42,320 --> 00:20:45,020
+Et la même dose absorbée, donc 1 mSv.
+
+498
+00:20:45,540 --> 00:20:48,900
+Mais, en fonction du tissu, d'accord, qui
+
+499
+00:20:48,900 --> 00:20:51,380
+est irradié, d'accord?
+
+500
+00:20:52,340 --> 00:20:55,820
+Donc, le risque sera différent en fonction de
+
+501
+00:20:55,820 --> 00:20:56,880
+tel ou tel organe.
+
+502
+00:20:57,320 --> 00:21:00,900
+Et cette notion qui est exprimée par cette
+
+503
+00:21:00,900 --> 00:21:02,360
+dose, d'accord, qui s'appelle la dose
+
+504
+00:21:02,360 --> 00:21:02,800
+efficace.
+
+505
+00:21:03,260 --> 00:21:04,780
+Alors, généralement, c'est quoi?
+
+506
+00:21:05,140 --> 00:21:06,880
+C'est la sommation des doses équivalentes qu
+
+507
+00:21:06,880 --> 00:21:08,540
+'on va multiplier par un facteur qui s
+
+508
+00:21:08,540 --> 00:21:11,560
+'appelle le facteur de pondération tissulaire, donc tissulaire
+
+509
+00:21:11,560 --> 00:21:12,980
+relatif à chaque tissu.
+
+510
+00:21:14,720 --> 00:21:16,200
+Son unité, c'est le 6 Hertz.
+
+511
+00:21:16,760 --> 00:21:17,020
+D'accord?
+
+512
+00:21:18,840 --> 00:21:22,820
+Et il faut savoir que cette dose efficace,
+
+513
+00:21:23,220 --> 00:21:24,720
+alors, il ne s'applique qu'aux effets
+
+514
+00:21:24,720 --> 00:21:25,240
+stochastiques.
+
+515
+00:21:25,340 --> 00:21:26,680
+C'est quoi les effets stochastiques déjà?
+
+516
+00:21:27,340 --> 00:21:31,620
+Il faut savoir que les rayonnements ionisants, donc,
+
+517
+00:21:31,960 --> 00:21:35,260
+ils provoquent deux types d'effets.
+
+518
+00:21:37,180 --> 00:21:43,480
+Soit des effets dits alors, on va écrire
+
+519
+00:21:43,480 --> 00:21:53,170
+peut-être déterministes, soit des effets
+
+520
+00:21:53,170 --> 00:21:57,030
+dits stochastiques.
+
+521
+00:21:57,550 --> 00:21:58,950
+Quelle est la différence entre les deux?
+
+522
+00:21:59,970 --> 00:22:04,390
+C'est que les effets déterministes, ce sont
+
+523
+00:22:04,390 --> 00:22:05,770
+des effets qui sont obligatoires.
+
+524
+00:22:06,110 --> 00:22:10,270
+Vous avez un rayonnement ionisant avec, donc, une
+
+525
+00:22:10,270 --> 00:22:12,170
+énergie initiale bien déterminée, d'accord?
+
+526
+00:22:13,350 --> 00:22:16,190
+Alors, les conséquences sur l'échelle, sur l
+
+527
+00:22:16,190 --> 00:22:17,510
+'organisme, ils sont obligatoires.
+
+528
+00:22:17,830 --> 00:22:18,210
+Ça veut dire quoi?
+
+529
+00:22:18,270 --> 00:22:18,990
+Ça veut dire qu'il y a un
+
+530
+00:22:18,990 --> 00:22:19,210
+seuil.
+
+531
+00:22:19,610 --> 00:22:22,650
+Chaque fois que le seuil est dépassé, on
+
+532
+00:22:22,650 --> 00:22:23,630
+va voir ces effets-là.
+
+533
+00:22:24,910 --> 00:22:29,770
+Pour les effets stochastiques, alors, ces effets-là,
+
+534
+00:22:29,910 --> 00:22:31,610
+ils ne sont pas obligatoires.
+
+535
+00:22:31,770 --> 00:22:32,810
+Ça veut dire qu'il y a certaines
+
+536
+00:22:32,810 --> 00:22:35,070
+personnes qui ont développé ces effets-là, d
+
+537
+00:22:35,070 --> 00:22:35,410
+'autres non.
+
+538
+00:22:37,610 --> 00:22:39,930
+Bien, alors, on va continuer et on va
+
+539
+00:22:39,930 --> 00:22:42,010
+revenir sur ces effets-là dans le cours
+
+540
+00:22:42,010 --> 00:22:44,270
+suivant, qui est celui de la radiopathologie.
+
+541
+00:22:45,650 --> 00:22:47,850
+Mais déjà, sur la dose efficace, on peut
+
+542
+00:22:47,850 --> 00:22:49,590
+dire que c'est une unité de radioprotection
+
+543
+00:22:49,590 --> 00:22:52,430
+qui est destinée à évaluer un risque à
+
+544
+00:22:52,430 --> 00:22:52,750
+long terme.
+
+545
+00:22:52,750 --> 00:22:53,050
+Pourquoi?
+
+546
+00:22:53,450 --> 00:22:54,870
+Parce que les effets déterministes que j'ai
+
+547
+00:22:54,870 --> 00:23:00,510
+expliqués initialement, ce sont des effets à court
+
+548
+00:23:00,510 --> 00:23:00,770
+terme.
+
+549
+00:23:01,250 --> 00:23:05,730
+Mais par contre, les effets stochastiques, ce sont
+
+550
+00:23:05,730 --> 00:23:07,090
+des effets à court terme.
+
+551
+00:23:09,940 --> 00:23:11,800
+Le risque, c'est quoi?
+
+552
+00:23:12,500 --> 00:23:16,560
+C'est qu'un rayonnement peut toucher soit
+
+553
+00:23:16,560 --> 00:23:23,280
+une cellule somatique, soit une cellule germinale, et
+
+554
+00:23:23,280 --> 00:23:24,680
+le risque, ce sont des effets heréditaires.
+
+555
+00:23:26,580 --> 00:23:28,800
+Bien, là, les faibles doses, on en a
+
+556
+00:23:29,400 --> 00:23:31,940
+déjà parlé, les effets stochastiques, donc ils ne
+
+557
+00:23:31,940 --> 00:23:33,760
+concernent que les faibles doses de rayonnement ionisant.
+
+558
+00:23:33,840 --> 00:23:36,560
+Par contre, les effets déterministes, ils concernent donc
+
+559
+00:23:36,560 --> 00:23:37,580
+les fortes doses.
+
+560
+00:23:39,840 --> 00:23:42,500
+Le facteur de pondération du corps entier, alors
+
+561
+00:23:42,500 --> 00:23:43,940
+on va souligner ça, c'est très important.
+
+562
+00:23:49,080 --> 00:23:51,440
+Donc le corps entier, d'accord, donc l
+
+563
+00:23:51,440 --> 00:23:52,800
+'assommation est égale à 1.
+
+564
+00:23:53,660 --> 00:23:57,580
+Alors, on va revenir sur la diapo suivante.
+
+565
+00:24:00,000 --> 00:24:04,180
+Là, sur le corps entier, donc, sur le
+
+566
+00:24:04,180 --> 00:24:08,200
+corps entier, le facteur de pondération, c'est
+
+567
+00:24:08,200 --> 00:24:09,700
+l'assommation de tous les facteurs de pondération
+
+568
+00:24:09,700 --> 00:24:11,740
+de tous les tissus, qui est égale à
+
+569
+00:24:11,740 --> 00:24:11,920
+1.
+
+570
+00:24:12,400 --> 00:24:16,720
+Bien, alors la dose équivalente, c'est, pardon,
+
+571
+00:24:17,740 --> 00:24:19,920
+oui, donc la dose équivalente, elle est égale
+
+572
+00:24:19,920 --> 00:24:21,200
+à la dose efficace, qui est égale à
+
+573
+00:24:21,200 --> 00:24:22,540
+10 millisieverts.
+
+574
+00:24:23,200 --> 00:24:26,280
+Mais par contre, si la même source radioactive,
+
+575
+00:24:26,380 --> 00:24:27,940
+10, donc, n'est reçue qu'au niveau
+
+576
+00:24:27,940 --> 00:24:28,400
+du poumon.
+
+577
+00:24:29,040 --> 00:24:30,860
+Et je rappelle que le facteur de pondération
+
+578
+00:24:30,860 --> 00:24:33,180
+titulaire dans le poumon, il est égale à
+
+579
+00:24:33,180 --> 00:24:33,420
+combien?
+
+580
+00:24:33,540 --> 00:24:34,200
+Il est égale à 0,12.
+
+581
+00:24:34,580 --> 00:24:36,740
+Donc c'est 10 fois 0,12 qui
+
+582
+00:24:36,740 --> 00:24:37,660
+est égale à 1 millisievert.
+
+583
+00:24:38,220 --> 00:24:40,600
+Donc les radiations, donc, sont les plus importantes
+
+584
+00:24:40,600 --> 00:24:43,880
+lorsqu'elles concernent tout l'organisme que lorsqu
+
+585
+00:24:43,880 --> 00:24:45,680
+'elles concernent donc une partie de l'organisme.
+
+586
+00:24:47,990 --> 00:24:51,330
+Là, bon, c'est une diapo qui résume
+
+587
+00:24:51,330 --> 00:24:53,050
+un petit peu donc les relations entre les
+
+588
+00:24:53,050 --> 00:24:53,750
+différentes doses.
+
+589
+00:24:53,750 --> 00:24:55,230
+Là, vous avez donc un générateur.
+
+590
+00:24:55,610 --> 00:24:58,430
+C'est celui, bien sûr, qui contient donc
+
+591
+00:24:58,430 --> 00:24:59,930
+la source radioactive.
+
+592
+00:25:00,330 --> 00:25:02,430
+L'unité, c'est le bicréel, d'accord,
+
+593
+00:25:02,490 --> 00:25:03,290
+ou la curue.
+
+594
+00:25:05,650 --> 00:25:09,570
+La dose, donc, absorbée, d'accord, son unité,
+
+595
+00:25:09,690 --> 00:25:10,110
+c'est le grès.
+
+596
+00:25:10,190 --> 00:25:11,650
+Vous avez l'ancienne unité qui est le
+
+597
+00:25:11,650 --> 00:25:13,610
+rad, donc en sachant qu'un grès est
+
+598
+00:25:13,610 --> 00:25:14,250
+égal à son rad.
+
+599
+00:25:16,370 --> 00:25:17,710
+Ça, c'est la dose absorbée.
+
+600
+00:25:18,070 --> 00:25:20,170
+Pour évaluer et faire la différence entre les
+
+601
+00:25:20,170 --> 00:25:22,790
+différents types de rayonnement, on va utiliser, donc,
+
+602
+00:25:22,810 --> 00:25:25,610
+le facteur de pondération radiologique et ceci dans
+
+603
+00:25:25,610 --> 00:25:27,590
+le cadre de la dose équivalente qui est
+
+604
+00:25:27,590 --> 00:25:29,350
+égale à la dose absorbée mutuée par le
+
+605
+00:25:29,350 --> 00:25:30,550
+facteur de pondération radiologique.
+
+606
+00:25:31,050 --> 00:25:31,910
+L'unité, c'est le sivert.
+
+607
+00:25:32,010 --> 00:25:33,090
+L'ancienne unité, c'est le rem.
+
+608
+00:25:33,910 --> 00:25:36,350
+Et pour voir l'impact sur la personne,
+
+609
+00:25:37,490 --> 00:25:39,470
+on va utiliser, donc, un facteur de pondération
+
+610
+00:25:39,470 --> 00:25:42,650
+titulaire pour calculer la dose efficace qui est
+
+611
+00:25:42,650 --> 00:25:45,330
+égale à la dose équivalente, d'accord, mutuée
+
+612
+00:25:45,330 --> 00:25:48,230
+par ce fameux facteur, unité, c'est le
+
+613
+00:25:48,230 --> 00:25:48,570
+sivert.
+
+614
+00:25:49,210 --> 00:25:49,850
+Bien.
+
+615
+00:25:50,430 --> 00:25:56,050
+Alors là, toujours un exemple typique entre la
+
+616
+00:25:56,050 --> 00:25:58,450
+dose absorbée et la dose équivalente et la
+
+617
+00:25:58,450 --> 00:25:59,050
+dose efficace.
+
+618
+00:25:59,990 --> 00:26:04,010
+Là, vous avez le nombre de pommes qui
+
+619
+00:26:04,010 --> 00:26:06,170
+tombent, d'accord, c'est à peu près
+
+620
+00:26:06,170 --> 00:26:09,870
+le nombre de rayonnements qu'a reçu l
+
+621
+00:26:09,870 --> 00:26:10,690
+'individu en question.
+
+622
+00:26:11,350 --> 00:26:13,390
+Et il l'exprime en bicrel ou bien
+
+623
+00:26:13,390 --> 00:26:18,230
+curie pour savoir l'énergie absorbée sur le
+
+624
+00:26:18,230 --> 00:26:20,930
+corps, d'accord, on va utiliser le grès.
+
+625
+00:26:22,030 --> 00:26:24,870
+Mais pour voir un petit peu les conséquences
+
+626
+00:26:25,730 --> 00:26:29,150
+de ce type de rayonnement sur l'organisme,
+
+627
+00:26:29,510 --> 00:26:31,070
+on va utiliser le sivert.
+
+628
+00:26:31,350 --> 00:26:33,230
+Et là, il est mieux schématisé.
+
+629
+00:26:33,630 --> 00:26:35,150
+On avait le bicrel qui est émis par
+
+630
+00:26:35,150 --> 00:26:36,010
+la sauce en question.
+
+631
+00:26:36,610 --> 00:26:39,850
+Alors, pour calculer la dose absorbée, on va
+
+632
+00:26:39,850 --> 00:26:41,010
+utiliser l'intérêt et le grès.
+
+633
+00:26:41,390 --> 00:26:42,970
+Mais pour voir un petit peu les conséquences,
+
+634
+00:26:43,190 --> 00:26:45,010
+on va utiliser le sivert, que ce soit
+
+635
+00:26:45,010 --> 00:26:47,010
+en matière de dose équivalente, qui est également
+
+636
+00:26:47,010 --> 00:26:48,630
+la dose absorbée une fois que ça répond
+
+637
+00:26:48,630 --> 00:26:51,610
+à des rations radiologiques, ou surtout la dose
+
+638
+00:26:51,610 --> 00:26:54,370
+efficace en fonction de chaque tissu qui est
+
+639
+00:26:54,370 --> 00:26:56,530
+touché par le rayonnement en question.
+
+640
+00:26:57,430 --> 00:26:59,410
+Alors maintenant, on va rentrer dans les détails
+
+641
+00:26:59,410 --> 00:27:03,490
+et commencer à voir les modes d'action
+
+642
+00:27:03,490 --> 00:27:04,050
+des rayonnements.
+
+643
+00:27:05,350 --> 00:27:05,530
+Bien.
+
+644
+00:27:06,850 --> 00:27:11,790
+Là, par exemple, vous avez un rayonnement alors
+
+645
+00:27:11,790 --> 00:27:17,270
+on va un rayonnement donc émis par une
+
+646
+00:27:17,270 --> 00:27:22,820
+sauce, d'accord, et ce rayonnement donc, il
+
+647
+00:27:22,820 --> 00:27:23,480
+a deux effets.
+
+648
+00:27:23,760 --> 00:27:25,380
+Soit un effet direct, soit un effet qui
+
+649
+00:27:25,380 --> 00:27:25,860
+est indirect.
+
+650
+00:27:26,900 --> 00:27:30,440
+Alors, l'effet direct, c'est le transfert
+
+651
+00:27:30,440 --> 00:27:34,140
+de l'énergie, d'accord, sur les molécules
+
+652
+00:27:34,140 --> 00:27:36,120
+de l'atome en question.
+
+653
+00:27:37,320 --> 00:27:39,620
+C'est ça l'action directe.
+
+654
+00:27:40,520 --> 00:27:43,240
+Mais par conséquent, il y a un effet
+
+655
+00:27:43,240 --> 00:27:47,220
+indirect qui est prépendurant, d'accord, et qui
+
+656
+00:27:47,220 --> 00:27:49,320
+concerne bien sûr donc soit l'ADN, soit
+
+657
+00:27:49,320 --> 00:27:49,980
+la molécule d'eau.
+
+658
+00:27:50,620 --> 00:27:53,260
+Et cet effet indirect qui va provoquer donc
+
+659
+00:27:53,260 --> 00:27:56,280
+la libération de ce qu'on appelle les
+
+660
+00:27:56,280 --> 00:27:59,000
+radicaux libres, qui sont très toxiques et qui
+
+661
+00:27:59,000 --> 00:28:03,600
+sont responsables des lésions des autres donc des
+
+662
+00:28:03,600 --> 00:28:06,540
+autres produits, donc à savoir l'eau, le
+
+663
+00:28:06,540 --> 00:28:09,260
+cétoplasme, la membrane et surtout l'ADN.
+
+664
+00:28:09,780 --> 00:28:13,920
+Bien, pour résumer, lorsqu'un rayonnement incident frappe
+
+665
+00:28:13,920 --> 00:28:15,880
+une cellule cible, donc il y a deux
+
+666
+00:28:15,880 --> 00:28:16,200
+actions.
+
+667
+00:28:16,560 --> 00:28:18,720
+Une action directe, d'accord, sur la molécule
+
+668
+00:28:18,720 --> 00:28:21,060
+en question ou la macro, d'accord, et
+
+669
+00:28:21,060 --> 00:28:23,300
+puis une action qui est indirecte, qui est
+
+670
+00:28:23,300 --> 00:28:27,040
+très prépondérante et qui concerne surtout la formation
+
+671
+00:28:27,040 --> 00:28:27,760
+des radicaux libres.
+
+672
+00:28:27,900 --> 00:28:28,680
+On va voir ça en détail.
+
+673
+00:28:29,760 --> 00:28:33,240
+Alors, sur l'organisme, les molécules les plus
+
+674
+00:28:33,240 --> 00:28:34,860
+touchées sont au nombre de deux.
+
+675
+00:28:34,860 --> 00:28:40,520
+Alors, il y a d'abord la molécule
+
+676
+00:28:40,520 --> 00:28:41,920
+d'eau, d'accord, et il y a
+
+677
+00:28:41,920 --> 00:28:42,340
+l'ADN.
+
+678
+00:28:42,880 --> 00:28:44,860
+Alors, la molécule d'eau, pourquoi?
+
+679
+00:28:45,760 --> 00:28:49,540
+Parce que elle constitue à peu près 70
+
+680
+00:28:49,540 --> 00:28:50,540
+% de notre corps.
+
+681
+00:28:50,980 --> 00:28:52,120
+Et l'ADN, c'est pour des raisons
+
+682
+00:28:52,120 --> 00:28:53,500
+que vous connaissez tous, c'est le rôle
+
+683
+00:28:53,500 --> 00:28:56,120
+vital de multiplication cellulaire.
+
+684
+00:28:57,520 --> 00:29:01,500
+Bien, ceci à l'échelle moléculaire, donc à
+
+685
+00:29:01,500 --> 00:29:07,640
+l'échelle moléculaire, nous avons vu deux effets
+
+686
+00:29:07,640 --> 00:29:08,700
+qui sont prépondérants.
+
+687
+00:29:08,980 --> 00:29:10,700
+C'est l'action sur la molécule d
+
+688
+00:29:10,700 --> 00:29:12,400
+'eau et l'action sur l'ADN.
+
+689
+00:29:12,680 --> 00:29:13,460
+Il y a d'autres effets.
+
+690
+00:29:13,580 --> 00:29:15,500
+Il y a l'effet à l'échelle
+
+691
+00:29:15,500 --> 00:29:17,740
+de la cellule, l'effet à l'échelle
+
+692
+00:29:17,740 --> 00:29:20,660
+des tissus et puis un effet général sur
+
+693
+00:29:20,660 --> 00:29:21,200
+l'organisme.
+
+694
+00:29:21,940 --> 00:29:24,480
+Mais, tout d'abord, on va commencer par
+
+695
+00:29:24,480 --> 00:29:28,000
+les effets à l'échelle moléculaire et on
+
+696
+00:29:28,000 --> 00:29:30,540
+va détailler encore plus l'effet direct et
+
+697
+00:29:30,540 --> 00:29:30,840
+indirect.
+
+698
+00:29:31,500 --> 00:29:34,560
+Alors, pour l'effet direct, c'est que
+
+699
+00:29:34,560 --> 00:29:38,080
+lorsqu'une molécule en question d'accord, d
+
+700
+00:29:38,080 --> 00:29:40,340
+'un rayonnement ionisant frappe une cible.
+
+701
+00:29:41,800 --> 00:29:46,560
+Alors, cette molécule peut devenir soit ionisée soit
+
+702
+00:29:46,560 --> 00:29:47,480
+excitée.
+
+703
+00:29:48,520 --> 00:29:51,440
+Et le retour à l'état fondamental, il
+
+704
+00:29:51,440 --> 00:29:52,860
+peut se faire soit par l'émission d
+
+705
+00:29:52,860 --> 00:29:55,760
+'un photon de fluorescence que j'ai marqué
+
+706
+00:29:55,760 --> 00:30:01,940
+ici, soit par une rupture des lésions covalentes.
+
+707
+00:30:03,160 --> 00:30:11,300
+Alors, ceci dit, les radicaux libres, alors, c
+
+708
+00:30:11,300 --> 00:30:12,220
+'est quoi ?
+
+709
+00:30:12,220 --> 00:30:14,600
+C'est un atome ou une molécule dont
+
+710
+00:30:14,600 --> 00:30:17,380
+un électron, d'accord, est non appareillé, est
+
+711
+00:30:17,380 --> 00:30:17,760
+non lié.
+
+712
+00:30:18,440 --> 00:30:20,860
+Ce qui est responsable de l'instabilité et
+
+713
+00:30:20,860 --> 00:30:22,200
+de la réactivité chimique.
+
+714
+00:30:22,480 --> 00:30:25,340
+Ce qui rend donc la toxicité très importante.
+
+715
+00:30:25,760 --> 00:30:27,980
+Et surtout, ce sont ces radicaux libres, donc
+
+716
+00:30:27,980 --> 00:30:30,620
+le A et le B, d'accord, qui
+
+717
+00:30:30,620 --> 00:30:35,040
+sont responsables de l'altération indirecte sur les
+
+718
+00:30:35,040 --> 00:30:35,840
+molécules en question.
+
+719
+00:30:35,960 --> 00:30:36,980
+Ceci pour l'effet direct.
+
+720
+00:30:37,480 --> 00:30:40,280
+Pour l'effet indirect, alors, il concerne quoi
+
+721
+00:30:40,280 --> 00:30:40,620
+?
+
+722
+00:30:40,620 --> 00:30:43,000
+Il concerne donc la décomposition de la molécule
+
+723
+00:30:43,000 --> 00:30:43,180
+d'eau.
+
+724
+00:30:43,700 --> 00:30:44,920
+C'est ce qu'on appelle la radiolyse.
+
+725
+00:30:45,680 --> 00:30:48,660
+Alors, la radiolyse ou la décomposition de la
+
+726
+00:30:48,660 --> 00:30:50,180
+molécule d'eau, elle a été mise en
+
+727
+00:30:50,180 --> 00:30:52,600
+évidence en 1901 par Pierre Curie.
+
+728
+00:30:54,640 --> 00:30:57,840
+Elle est causée par les radicaux libres, d
+
+729
+00:30:57,840 --> 00:30:57,980
+'accord.
+
+730
+00:30:59,480 --> 00:31:01,060
+Pourquoi la molécule d'eau ?
+
+731
+00:31:01,060 --> 00:31:03,380
+Parce que c'est en rapport avec la
+
+732
+00:31:03,380 --> 00:31:05,400
+masse du corps, parce que l'eau représente
+
+733
+00:31:05,400 --> 00:31:07,340
+à peu près 70% de notre corps.
+
+734
+00:31:08,000 --> 00:31:10,360
+Et ces radicaux libres, donc la molécule d
+
+735
+00:31:10,360 --> 00:31:11,940
+'eau, on va la diviser en deux, donc
+
+736
+00:31:11,940 --> 00:31:13,960
+H2O, donc c'est H et OH, c
+
+737
+00:31:13,960 --> 00:31:14,740
+'est ça les radicaux libres.
+
+738
+00:31:15,840 --> 00:31:17,540
+Ils sont très toxiques, d'accord.
+
+739
+00:31:18,560 --> 00:31:20,360
+Et ce sont eux qui sont à l
+
+740
+00:31:20,360 --> 00:31:23,760
+'origine des lésions au niveau du cytoplasme, au
+
+741
+00:31:23,760 --> 00:31:25,060
+niveau de la membrane et au niveau du
+
+742
+00:31:25,060 --> 00:31:25,380
+nourrisson.
+
+743
+00:31:27,260 --> 00:31:30,200
+Alors, la décomposition de la molécule d'eau
+
+744
+00:31:30,200 --> 00:31:33,000
+par les oxydants, par les radicaux libres qui
+
+745
+00:31:33,000 --> 00:31:35,320
+peuvent être soit un oxydant OH, soit un
+
+746
+00:31:35,320 --> 00:31:38,620
+réducteur, soit un électron solvaté, ce sont ces
+
+747
+00:31:38,620 --> 00:31:41,240
+radicaux libres qui seront responsables des lésions qu
+
+748
+00:31:41,240 --> 00:31:41,960
+'on verra par la suite.
+
+749
+00:31:42,440 --> 00:31:45,200
+Juste une petite information là, vous avez des
+
+750
+00:31:45,200 --> 00:31:48,440
+valeurs, d'accord, que vous devez retenir pour
+
+751
+00:31:48,440 --> 00:31:49,580
+la radiolyse de la molécule d'eau.
+
+752
+00:31:50,000 --> 00:31:54,260
+Pour ioniser la molécule d'eau, il faut
+
+753
+00:31:54,260 --> 00:31:56,220
+une énergie à peu près de 12,6
+
+754
+00:31:56,220 --> 00:31:59,000
+électrons volts et pour l'exciter une énergie
+
+755
+00:31:59,000 --> 00:32:01,400
+qui est moins de 16,6 électrons volts.
+
+756
+00:32:03,770 --> 00:32:06,030
+Maintenant, ces radicaux libres le devenir.
+
+757
+00:32:06,210 --> 00:32:07,390
+Il y a trois possibilités.
+
+758
+00:32:07,630 --> 00:32:10,370
+Soit ils peuvent se recombiner en composants inertes,
+
+759
+00:32:10,530 --> 00:32:13,110
+H plus OH, c'est H2O, HH c
+
+760
+00:32:13,110 --> 00:32:15,770
+'est H2, ça c'est la première possibilité.
+
+761
+00:32:15,890 --> 00:32:18,850
+La deuxième, ils peuvent diffuser et altérer d
+
+762
+00:32:18,850 --> 00:32:19,770
+'autres molécules biologiques.
+
+763
+00:32:20,570 --> 00:32:22,510
+Et puis la troisième possibilité qui est la
+
+764
+00:32:22,510 --> 00:32:24,810
+plus dangereuse, c'est la formation des radicals,
+
+765
+00:32:24,910 --> 00:32:27,430
+le peroxyde R-O-H, d'accord, et
+
+766
+00:32:27,430 --> 00:32:33,810
+le radical H2O étoile, qui sont très oxydants
+
+767
+00:32:33,810 --> 00:32:36,530
+et qui sont responsables de plusieurs dégâts, que
+
+768
+00:32:36,530 --> 00:32:38,350
+ce soit au niveau de la membrane, ou
+
+769
+00:32:38,350 --> 00:32:40,750
+bien des cétoplasmes, ou bien d'une manière
+
+770
+00:32:40,750 --> 00:32:42,390
+générale des concessions de la molécule.
+
+771
+00:32:44,560 --> 00:32:50,060
+Alors, maintenant, le devenir.
+
+772
+00:32:50,300 --> 00:32:54,100
+Alors le devenir des radicaux libres, il dépend
+
+773
+00:32:54,100 --> 00:32:54,620
+de quoi ?
+
+774
+00:32:54,620 --> 00:32:56,020
+Il dépend de la nature des rayonnements.
+
+775
+00:32:56,440 --> 00:33:01,080
+Donc le transfert, d'accord, parce que pour
+
+776
+00:33:01,080 --> 00:33:03,880
+les particules qui ont un transfert linéaire d
+
+777
+00:33:03,880 --> 00:33:06,020
+'énergie très important, je parle des particules, donc
+
+778
+00:33:06,020 --> 00:33:14,740
+alpha, les protons et les neutrons, la formation
+
+779
+00:33:14,740 --> 00:33:16,600
+des pères d'éons est très importante.
+
+780
+00:33:17,360 --> 00:33:20,140
+Et par conséquent, la probabilité de formation de
+
+781
+00:33:20,140 --> 00:33:22,700
+ces péroxides, d'accord, et des péroxides, donc,
+
+782
+00:33:23,320 --> 00:33:25,020
+qui sont oxydants, est très élevée.
+
+783
+00:33:25,820 --> 00:33:29,040
+Par contre, pour les rayonnements qui ont un
+
+784
+00:33:29,040 --> 00:33:31,520
+transfert linéaire qui est très faible, pour les
+
+785
+00:33:31,520 --> 00:33:34,220
+électrons et les photons, je rappelle que pour
+
+786
+00:33:34,220 --> 00:33:36,600
+les électrons et pour les photons, alors le
+
+787
+00:33:36,600 --> 00:33:39,500
+transfert linéaire, il est aux alentours de 0
+
+788
+00:33:39,500 --> 00:33:42,900
+,25 à 0,30 keV par micromètre, alors
+
+789
+00:33:42,900 --> 00:33:45,180
+que pour les particules, donc alpha, il est
+
+790
+00:33:45,180 --> 00:33:47,740
+de l'ordre de 150 keV par micromètre.
+
+791
+00:33:48,360 --> 00:33:50,960
+Donc, pour ces particules-là, la probabilité de
+
+792
+00:33:50,960 --> 00:33:52,820
+formation de ces péroxides, il est comment?
+
+793
+00:33:53,100 --> 00:33:53,600
+Il est faible.
+
+794
+00:33:54,100 --> 00:33:54,560
+Donc, c'est ça.
+
+795
+00:33:54,740 --> 00:33:56,700
+Donc, il dépend de la nature de rayonnement.
+
+796
+00:33:57,180 --> 00:34:04,560
+Ici, on va revenir, pardon, oui, voilà.
+
+797
+00:34:04,560 --> 00:34:07,639
+Ici, d'accord, en absence d'oxygène, donc
+
+798
+00:34:07,639 --> 00:34:08,960
+il n'y aura pas de formation de
+
+799
+00:34:08,960 --> 00:34:11,000
+ces péroxides, ce qui va limiter l'effet
+
+800
+00:34:11,000 --> 00:34:12,880
+des rayonnements ionisants.
+
+801
+00:34:13,239 --> 00:34:15,199
+Mais par contre, pour les tissus qui ont
+
+802
+00:34:15,199 --> 00:34:17,980
+bien vascularisé, donc l'effet, ou plutôt la
+
+803
+00:34:17,980 --> 00:34:20,739
+formation de ces péroxides sera très importante et
+
+804
+00:34:20,739 --> 00:34:22,920
+l'effet des rayonnements ionisants sera très important.
+
+805
+00:34:24,540 --> 00:34:26,440
+Alors, après, vous avez ici, donc, les différentes
+
+806
+00:34:26,440 --> 00:34:27,920
+voilà, schémas.
+
+807
+00:34:28,139 --> 00:34:30,320
+Vous avez donc un rayonnement, d'accord, qui
+
+808
+00:34:30,320 --> 00:34:31,460
+va toucher une molécule d'eau.
+
+809
+00:34:31,960 --> 00:34:34,980
+Celle-là, donc, elle va se désintégrer.
+
+810
+00:34:35,420 --> 00:34:37,520
+Donc, elle devient très instable avec les formations
+
+811
+00:34:37,520 --> 00:34:41,500
+de ces péroxides, donc H+, ou H
+
+812
+00:34:41,500 --> 00:34:43,800
+avec l'électron donc, à cœur.
+
+813
+00:34:43,800 --> 00:34:47,460
+Ils vont se recombiner, mais ces électrons, mais,
+
+814
+00:34:48,120 --> 00:34:52,080
+alors, attendez, ces péroxides, d'accord, ce sont
+
+815
+00:34:52,080 --> 00:34:54,520
+eux qui sont responsables de la majorité des
+
+816
+00:34:54,520 --> 00:34:56,520
+lésions qui sont constatées à l'échelle moléculaire
+
+817
+00:34:56,520 --> 00:34:57,040
+et cellulaire.
+
+818
+00:34:59,680 --> 00:35:03,420
+Donc, un rappel, donc, vous avez une molécule
+
+819
+00:35:03,420 --> 00:35:05,100
+ou plutôt un rayonnement ionisant, que vous voyez
+
+820
+00:35:05,100 --> 00:35:05,440
+là.
+
+821
+00:35:07,000 --> 00:35:11,160
+Donc, il va provoquer une radiolyse de la
+
+822
+00:35:11,160 --> 00:35:13,060
+molécule d'eau avec la formation de radicaux
+
+823
+00:35:13,060 --> 00:35:18,960
+libres que eux, donc, vont attaquer la cellule
+
+824
+00:35:18,960 --> 00:35:19,880
+et surtout l'ADN.
+
+825
+00:35:20,620 --> 00:35:21,680
+Ça, c'est pour l'effet indirect.
+
+826
+00:35:21,820 --> 00:35:23,360
+Pour l'effet direct, donc, c'est le
+
+827
+00:35:23,360 --> 00:35:25,220
+rayonnement direct seulement qui va attaquer la membrane,
+
+828
+00:35:25,360 --> 00:35:27,220
+le cytoplasme et l'ADN.
+
+829
+00:35:27,320 --> 00:35:30,080
+Donc, généralement, il y a deux effets.
+
+830
+00:35:30,560 --> 00:35:33,780
+Donc, un effet qui est indirect et un
+
+831
+00:35:33,780 --> 00:35:34,420
+effet qui est direct.
+
+832
+00:35:34,860 --> 00:35:36,600
+Et l'effet indirect, c'est par la
+
+833
+00:35:36,600 --> 00:35:37,820
+formation de radicaux libres.
+
+834
+00:35:40,190 --> 00:35:45,850
+Alors, maintenant, donc, on va voir quels sont,
+
+835
+00:35:46,550 --> 00:35:48,830
+donc, les effets à l'échelle de la
+
+836
+00:35:48,830 --> 00:35:49,250
+molécule.
+
+837
+00:35:49,390 --> 00:35:53,890
+Alors, les premières lésions, ce sont les lésions
+
+838
+00:35:53,890 --> 00:35:54,670
+du cytoplasme.
+
+839
+00:35:54,770 --> 00:35:59,610
+Alors, le cytoplasme, il peut y avoir des
+
+840
+00:35:59,610 --> 00:36:00,670
+lésions des protéines.
+
+841
+00:36:00,810 --> 00:36:04,270
+Donc, des protéines type rupture de lésions SES,
+
+842
+00:36:05,570 --> 00:36:09,010
+des lésions polypeptidiques ou bien des lésions de
+
+843
+00:36:09,010 --> 00:36:09,450
+Vendéoloise.
+
+844
+00:36:09,550 --> 00:36:10,750
+Alors, je rappelle, c'est quoi les lésions
+
+845
+00:36:10,750 --> 00:36:11,430
+de Vendéoloise?
+
+846
+00:36:12,530 --> 00:36:15,430
+Ce sont des lésions de type intermoléculaire.
+
+847
+00:36:16,250 --> 00:36:17,210
+Donc, entre les molécules.
+
+848
+00:36:20,900 --> 00:36:21,380
+Voilà.
+
+849
+00:36:21,980 --> 00:36:24,780
+Contrairement aux lésions covalentes, qui sont des lésions
+
+850
+00:36:25,700 --> 00:36:26,180
+intramoléculaires.
+
+851
+00:36:27,640 --> 00:36:30,300
+Donc, alors, le rayonnement ionisant, donc, il va
+
+852
+00:36:31,400 --> 00:36:32,860
+détruire ces lésions-là.
+
+853
+00:36:33,660 --> 00:36:36,840
+Et, les conséquences, c'est la déstabilisation de
+
+854
+00:36:36,840 --> 00:36:38,080
+l'architecture de la cellule.
+
+855
+00:36:38,520 --> 00:36:40,180
+Ça, c'est pour les lésions au niveau
+
+856
+00:36:40,180 --> 00:36:40,780
+des protéines.
+
+857
+00:36:41,160 --> 00:36:44,020
+Alors, pour les lésions des membranes, on peut
+
+858
+00:36:44,020 --> 00:36:46,580
+avoir soit une dégradation des récepteurs, soit une
+
+859
+00:36:46,580 --> 00:36:48,660
+altération des systèmes de transport et de flux,
+
+860
+00:36:49,160 --> 00:36:50,440
+soit un trouble de la mobilité de la
+
+861
+00:36:50,440 --> 00:36:53,300
+cellule, ou de la permeabilité, soit des phénomènes
+
+862
+00:36:53,300 --> 00:36:54,060
+inflammatoires.
+
+863
+00:36:54,540 --> 00:36:56,320
+Et tout ça, bien sûr, comme les premières
+
+864
+00:36:56,320 --> 00:36:58,560
+lésions des protéines, c'est responsable de la
+
+865
+00:36:58,560 --> 00:37:00,100
+déstabilisation de la membrane.
+
+866
+00:37:01,580 --> 00:37:03,580
+Maintenant, à l'échelle du noyau.
+
+867
+00:37:03,980 --> 00:37:07,800
+Alors, le noyau, donc, c'est le support,
+
+868
+00:37:07,960 --> 00:37:10,300
+donc, il est formé par l'ADN, qui
+
+869
+00:37:10,300 --> 00:37:11,920
+est le support de l'information génétique.
+
+870
+00:37:12,840 --> 00:37:20,740
+Donc, il est formé par une base purique,
+
+871
+00:37:20,960 --> 00:37:23,520
+qui est formée par l'adénine, d'accord,
+
+872
+00:37:24,000 --> 00:37:25,780
+et par la guanine.
+
+873
+00:37:26,740 --> 00:37:30,500
+Et puis, donc, il est formé aussi par
+
+874
+00:37:30,500 --> 00:37:35,020
+une base périmidique, c'est la thymine et
+
+875
+00:37:35,020 --> 00:37:36,660
+la cétosine, d'accord.
+
+876
+00:37:37,500 --> 00:37:42,640
+Mais également, donc, on va trouver un sucre,
+
+877
+00:37:42,760 --> 00:37:46,980
+d'accord, qui s'appelle le désoxyribose, d
+
+878
+00:37:46,980 --> 00:37:48,000
+'accord, qu'on va trouver là.
+
+879
+00:37:49,460 --> 00:37:52,600
+Et aussi, donc, un radical phosphaté.
+
+880
+00:37:53,860 --> 00:37:54,100
+Bien.
+
+881
+00:37:56,880 --> 00:37:59,720
+Les conséquences du rayonnement ionisant, donc, à l
+
+882
+00:37:59,720 --> 00:38:02,200
+'échelle nucléaire, sont très importantes et sont très
+
+883
+00:38:02,200 --> 00:38:03,140
+graves, d'accord.
+
+884
+00:38:04,520 --> 00:38:11,380
+On peut avoir soit une cassure simple, d
+
+885
+00:38:11,380 --> 00:38:17,420
+'accord, soit une lésion double brin, donc les
+
+886
+00:38:17,420 --> 00:38:19,960
+deux, donc le premier et le deuxième, soit
+
+887
+00:38:19,960 --> 00:38:24,140
+une alteration des bases, soit des pontages, soit
+
+888
+00:38:24,140 --> 00:38:24,760
+d'autres lésions.
+
+889
+00:38:27,360 --> 00:38:30,660
+Alors, pour les cassures d'un simple brin
+
+890
+00:38:30,660 --> 00:38:34,420
+de l'ADN, je rappelle qu'il peut
+
+891
+00:38:34,420 --> 00:38:38,820
+s'agir soit des lésions entre la lésion
+
+892
+00:38:39,520 --> 00:38:42,740
+désoxyribose et la base, donc à ce niveau
+
+893
+00:38:42,740 --> 00:38:48,880
+-là, d'accord, soit des lésions entre la
+
+894
+00:38:49,580 --> 00:38:52,480
+désoxyribose et le phosphate, donc à ce niveau
+
+895
+00:38:52,480 --> 00:38:52,660
+-là.
+
+896
+00:38:54,180 --> 00:38:56,380
+Et je rappelle que ces lésions, elles ne
+
+897
+00:38:56,380 --> 00:38:57,740
+concernent qu'un simple brin.
+
+898
+00:38:59,860 --> 00:38:59,960
+Voilà.
+
+899
+00:39:00,380 --> 00:39:02,860
+Et généralement, ces lésions, elles sont communes, elles
+
+900
+00:39:02,860 --> 00:39:04,000
+sont réparables.
+
+901
+00:39:05,060 --> 00:39:08,680
+Par contre, les autres lésions sont généralement non
+
+902
+00:39:08,680 --> 00:39:09,200
+réparables.
+
+903
+00:39:09,640 --> 00:39:13,960
+Et là, je parle des lésions de type
+
+904
+00:39:14,300 --> 00:39:18,520
+double brin, d'accord, je parle des altérations
+
+905
+00:39:18,520 --> 00:39:22,460
+de base, des altérations des sucres et des
+
+906
+00:39:22,460 --> 00:39:24,140
+modifications de la structure de l'ADN.
+
+907
+00:39:24,620 --> 00:39:27,020
+Alors, pour l'altération de base, on peut
+
+908
+00:39:27,020 --> 00:39:28,260
+avoir quoi ?
+
+909
+00:39:28,260 --> 00:39:30,980
+On peut voir qu'en conséquence des erreurs
+
+910
+00:39:30,980 --> 00:39:33,480
+de lecture du code génétique pour l'altération
+
+911
+00:39:33,480 --> 00:39:37,740
+des sucres, des oxydations ou hydroxylation des sucres,
+
+912
+00:39:39,380 --> 00:39:42,660
+toujours dans les effets des rayonnements ionisants, lorsqu
+
+913
+00:39:42,660 --> 00:39:45,460
+'il attaque l'ADN, on peut avoir ce
+
+914
+00:39:45,460 --> 00:39:47,360
+qu'on appelle des pontages, donc un pont,
+
+915
+00:39:47,460 --> 00:39:51,500
+des lésions, soit entre les brins, donc inter
+
+916
+00:39:51,500 --> 00:39:54,220
+-brin, donc à l'intérieur, ou bien entre
+
+917
+00:39:54,220 --> 00:39:55,400
+deux brins, c'est intra-brin.
+
+918
+00:39:56,020 --> 00:39:57,960
+On peut avoir également des pontages entre le
+
+919
+00:39:57,960 --> 00:39:59,460
+brin et la protéine, c'est le pontage
+
+920
+00:39:59,460 --> 00:40:01,920
+ADN-protéine, ou bien le pontage des chaînes
+
+921
+00:40:01,920 --> 00:40:04,760
+d'ADN, pontage ADN-ADN.
+
+922
+00:40:05,820 --> 00:40:08,720
+Ça, c'est un exemple pour vous donner
+
+923
+00:40:08,720 --> 00:40:13,420
+un petit peu une idée sur les conséquences
+
+924
+00:40:13,420 --> 00:40:15,080
+causées par le rayonnement ionisant.
+
+925
+00:40:15,680 --> 00:40:18,660
+Par exemple, un électron peut provoquer une cassure,
+
+926
+00:40:18,860 --> 00:40:22,040
+c'est un simple brin, 004, cassure, double
+
+927
+00:40:22,040 --> 00:40:27,660
+brin, donc 0,001 aberration chromosomique, et cet
+
+928
+00:40:27,660 --> 00:40:30,160
+effet, c'est très important, donc il faut
+
+929
+00:40:30,160 --> 00:40:34,000
+noter qu'il est proportionnel à la dose.
+
+930
+00:40:34,540 --> 00:40:36,700
+Plus la dose est très importante, plus les
+
+931
+00:40:36,700 --> 00:40:38,860
+dégâts constatés sont très importants.
+
+932
+00:40:40,080 --> 00:40:42,700
+Un autre élément très important, c'est que
+
+933
+00:40:42,700 --> 00:40:49,560
+la radioactivité naturelle provoque plusieurs dégâts, genre des
+
+934
+00:40:49,560 --> 00:40:53,020
+cassures de double brin, plus de 3000, une
+
+935
+00:40:53,020 --> 00:40:54,860
+dizaine de cassures de double brin, et ainsi
+
+936
+00:40:54,860 --> 00:40:55,180
+de suite.
+
+937
+00:40:55,660 --> 00:40:58,420
+Mais l'avantage ici, c'est qu'il
+
+938
+00:40:58,420 --> 00:41:01,340
+y a un phénomène physiologique de réparation enzymatique.
+
+939
+00:41:02,540 --> 00:41:02,780
+Voilà.
+
+940
+00:41:03,300 --> 00:41:04,940
+C'est ce qui permet la survie de
+
+941
+00:41:04,940 --> 00:41:07,960
+la cellule et la préservation des fonctions des
+
+942
+00:41:07,960 --> 00:41:08,320
+tissus.
+
+943
+00:41:10,260 --> 00:41:13,600
+Maintenant, on va voir les différents types de
+
+944
+00:41:13,600 --> 00:41:14,140
+réparation.
+
+945
+00:41:16,300 --> 00:41:19,860
+Lorsqu'un rayonnement ionisant attaque l'ADN, il
+
+946
+00:41:19,860 --> 00:41:23,360
+peut y avoir une action de réparation soit
+
+947
+00:41:23,360 --> 00:41:28,780
+à travers les gaz, soit à travers une
+
+948
+00:41:28,780 --> 00:41:31,880
+excision, ou plutôt le phénomène d'excision rosynthèse,
+
+949
+00:41:32,400 --> 00:41:34,420
+soit une réparation par le phénomène de réparation
+
+950
+00:41:34,420 --> 00:41:43,180
+type réparation post-réplicative, soit une réparation dite
+
+951
+00:41:43,180 --> 00:41:47,100
+réparation SOS.
+
+952
+00:41:47,960 --> 00:41:54,940
+Je rappelle que la première permet une réparation
+
+953
+00:41:54,940 --> 00:41:56,780
+de type réparation fidèle.
+
+954
+00:41:57,860 --> 00:42:00,180
+Mais pour les trois derniers, c'est une
+
+955
+00:42:00,180 --> 00:42:03,160
+réparation qui est fautive et généralement l'ADN
+
+956
+00:42:03,160 --> 00:42:03,720
+est lésé.
+
+957
+00:42:04,280 --> 00:42:05,720
+Et là, on verra est-ce que la
+
+958
+00:42:05,720 --> 00:42:06,800
+lésion est viable ou pas.
+
+959
+00:42:07,140 --> 00:42:08,240
+Si elle n'est pas viable, c'est
+
+960
+00:42:08,240 --> 00:42:09,180
+la mort de la cellule.
+
+961
+00:42:09,460 --> 00:42:11,000
+Si elle est viable, c'est une cellule
+
+962
+00:42:11,000 --> 00:42:11,880
+qui sera mutée.
+
+963
+00:42:12,620 --> 00:42:14,420
+Et s'il s'agit d'une cellule
+
+964
+00:42:14,420 --> 00:42:17,480
+qui est somatique, les conséquences, c'est le
+
+965
+00:42:17,480 --> 00:42:19,480
+développement d'une cellule cancéreuse.
+
+966
+00:42:20,500 --> 00:42:21,500
+S'il s'agit d'une cellule qui
+
+967
+00:42:21,500 --> 00:42:25,500
+est germinale, les effets, c'est une anomalie
+
+968
+00:42:25,500 --> 00:42:28,200
+génétique qui va se transmettre à la descendance,
+
+969
+00:42:28,500 --> 00:42:30,360
+à un mode récessif ou dominant, qu'on
+
+970
+00:42:30,360 --> 00:42:31,400
+verra dans les stades suivants.
+
+971
+00:42:33,390 --> 00:42:36,110
+Alors, l'action d'une légase simple.
+
+972
+00:42:36,550 --> 00:42:38,590
+Ceci concerne quoi ?
+
+973
+00:42:39,270 --> 00:42:43,470
+Concerne les ruptures d'un simple brin, donc
+
+974
+00:42:43,470 --> 00:42:43,970
+un seul.
+
+975
+00:42:44,670 --> 00:42:49,010
+C'est une enzyme qui permet de réparer
+
+976
+00:42:49,010 --> 00:42:51,590
+ces lésions-là, à ce niveau-là.
+
+977
+00:42:52,150 --> 00:42:54,370
+C'est une enzyme qui est spécifique.
+
+978
+00:42:54,750 --> 00:42:56,210
+D'accord ?
+
+979
+00:42:56,210 --> 00:43:01,610
+C'est une enzyme que disposent les cellules
+
+980
+00:43:01,610 --> 00:43:04,610
+comme moyen de défense et de réparation pour
+
+981
+00:43:04,610 --> 00:43:07,590
+réparer les lésions causées par le rayonnement ionisant.
+
+982
+00:43:08,190 --> 00:43:10,010
+Ceci, c'est l'action de la légase
+
+983
+00:43:10,010 --> 00:43:13,830
+simple qui intervient essentiellement lorsqu'il y a
+
+984
+00:43:13,830 --> 00:43:15,310
+une rupture monobrin.
+
+985
+00:43:15,530 --> 00:43:16,890
+Je précise, c'est monobrin.
+
+986
+00:43:17,510 --> 00:43:23,150
+Par un processus d'excision resynthèse, il intervient
+
+987
+00:43:23,150 --> 00:43:23,990
+dans les cas suivants.
+
+988
+00:43:24,870 --> 00:43:26,830
+Lorsqu'il y a, par exemple, les altérations
+
+989
+00:43:26,830 --> 00:43:30,370
+de base, lorsqu'il y a des pontages
+
+990
+00:43:30,370 --> 00:43:33,510
+ou des modifications du sucre, lorsqu'il y
+
+991
+00:43:33,510 --> 00:43:35,750
+a des ruptures simples ou double-brin.
+
+992
+00:43:37,130 --> 00:43:40,370
+Alors, ce processus d'excision resynthèse, il est
+
+993
+00:43:40,370 --> 00:43:41,510
+fait de la manière suivante.
+
+994
+00:43:43,710 --> 00:43:46,210
+La première étape, c'est une étape de
+
+995
+00:43:46,210 --> 00:43:47,310
+reconnaissance.
+
+996
+00:43:47,930 --> 00:43:49,170
+Ça veut dire quoi ?
+
+997
+00:43:49,170 --> 00:43:52,610
+Ça veut dire que il y a une
+
+998
+00:43:52,610 --> 00:43:56,810
+enzyme qui s'appelle l'adéine glycosélase qui
+
+999
+00:43:56,810 --> 00:44:00,510
+va aller faire une première étape de reconnaissance
+
+1000
+00:44:00,510 --> 00:44:02,490
+au niveau de la base qui est endommagée.
+
+1001
+00:44:03,350 --> 00:44:06,710
+Pour la deuxième phase, c'est l'excision
+
+1002
+00:44:06,710 --> 00:44:09,230
+qui est réalisée par une enzyme qui s
+
+1003
+00:44:09,230 --> 00:44:10,610
+'appelle l'endonucléase.
+
+1004
+00:44:10,610 --> 00:44:12,710
+Ça veut dire qu'il va retirer cette
+
+1005
+00:44:12,710 --> 00:44:16,870
+partie qui est malade et là, il sera
+
+1006
+00:44:16,870 --> 00:44:19,210
+remplacé par une enzyme suivante.
+
+1007
+00:44:19,910 --> 00:44:24,130
+Maintenant, l'étape suivante, après l'excision, c
+
+1008
+00:44:24,130 --> 00:44:25,770
+'est la synthèse de réparation.
+
+1009
+00:44:25,890 --> 00:44:28,250
+Elle est faite par une autre enzyme qui
+
+1010
+00:44:28,250 --> 00:44:32,470
+s'appelle l'ADN polymirase qui va réparer
+
+1011
+00:44:33,510 --> 00:44:35,710
+la base qui est endommagée.
+
+1012
+00:44:36,470 --> 00:44:40,130
+Finalement, la soudure est faite à ce niveau
+
+1013
+00:44:40,130 --> 00:44:42,950
+-là par l'enzyme qui s'appelle l
+
+1014
+00:44:42,950 --> 00:44:43,370
+'alégase.
+
+1015
+00:44:43,970 --> 00:44:44,970
+Je récapitule.
+
+1016
+00:44:45,470 --> 00:44:50,530
+Le processus d'excision-rosynthèse intervient selon 4
+
+1017
+00:44:50,530 --> 00:44:50,870
+étapes.
+
+1018
+00:44:51,230 --> 00:44:52,690
+Il y a une étape de reconnaissance, une
+
+1019
+00:44:52,690 --> 00:44:54,970
+étape d'excision, une étape de synthèse-réparation
+
+1020
+00:44:54,970 --> 00:44:56,070
+et une étape de soudure.
+
+1021
+00:44:56,490 --> 00:44:59,390
+Durant chaque étape, il y a une enzyme
+
+1022
+00:44:59,390 --> 00:45:00,210
+qui est spécifique.
+
+1023
+00:45:01,050 --> 00:45:07,250
+Pour l'étape par exemple de reconnaissance, il
+
+1024
+00:45:07,250 --> 00:45:12,730
+y a l'enzyme glycosylase.
+
+1025
+00:45:12,990 --> 00:45:15,610
+Pour l'étape de l'excision, il y
+
+1026
+00:45:15,610 --> 00:45:18,610
+a la deuxième enzyme qui s'appelle l
+
+1027
+00:45:18,610 --> 00:45:19,350
+'endonucléase.
+
+1028
+00:45:19,610 --> 00:45:22,030
+Pour la troisième étape, c'est la polymirase.
+
+1029
+00:45:22,410 --> 00:45:24,890
+Pour la soudure, c'est l'alégase.
+
+1030
+00:45:27,150 --> 00:45:29,770
+Comme modèle de réparation en cas de lésion
+
+1031
+00:45:29,770 --> 00:45:31,870
+de l'ADN par le rayonnement ionisant, il
+
+1032
+00:45:31,870 --> 00:45:33,530
+y a un processus qui s'appelle la
+
+1033
+00:45:33,530 --> 00:45:34,510
+réparation SOS.
+
+1034
+00:45:34,510 --> 00:45:36,990
+Je rappelle que c'est une réparation qui
+
+1035
+00:45:36,990 --> 00:45:38,090
+est mutagène.
+
+1036
+00:45:38,770 --> 00:45:40,710
+Ce n'est pas une réparation qui est
+
+1037
+00:45:40,710 --> 00:45:41,170
+fidèle.
+
+1038
+00:45:42,330 --> 00:45:44,990
+Celle-là intervient lorsqu'il y a soit
+
+1039
+00:45:44,990 --> 00:45:47,170
+plusieurs lésions, soit lorsqu'il y a une
+
+1040
+00:45:47,170 --> 00:45:50,110
+phase en phase de réplication, en phase de
+
+1041
+00:45:50,110 --> 00:45:51,090
+division cellulaire.
+
+1042
+00:45:51,630 --> 00:45:53,570
+C'est une réparation d'urgence.
+
+1043
+00:45:55,530 --> 00:46:00,190
+Il faut savoir que la réparation n'est
+
+1044
+00:46:00,190 --> 00:46:01,950
+pas une réparation qui est fidèle.
+
+1045
+00:46:01,950 --> 00:46:03,890
+C'est une réparation qui est fautive.
+
+1046
+00:46:05,190 --> 00:46:07,330
+La conséquence, c'est une mutation de l
+
+1047
+00:46:07,330 --> 00:46:07,690
+'ADN.
+
+1048
+00:46:08,750 --> 00:46:11,450
+La cellule va survivre, mais auprès d'une
+
+1049
+00:46:11,450 --> 00:46:11,890
+mutation.
+
+1050
+00:46:12,970 --> 00:46:13,650
+Vers quoi ?
+
+1051
+00:46:13,650 --> 00:46:14,430
+Vers les cellules phi.
+
+1052
+00:46:14,870 --> 00:46:16,690
+C'est ça qui pose problème.
+
+1053
+00:46:16,810 --> 00:46:19,270
+Parce que ces cellules phi, soit il s
+
+1054
+00:46:19,270 --> 00:46:21,790
+'agit d'une cellule somatique, là c'est
+
+1055
+00:46:21,790 --> 00:46:25,810
+le développement de cancer, soit une cellule germinale.
+
+1056
+00:46:26,590 --> 00:46:29,050
+Là, les conséquences, ce sont les effets héréditaires.
+
+1057
+00:46:29,050 --> 00:46:29,430
+H.
+
+1058
+00:46:31,370 --> 00:46:31,590
+Bien.
+
+1059
+00:46:37,000 --> 00:46:38,300
+On va continuer.
+
+1060
+00:46:39,400 --> 00:46:39,560
+Bien.
+
+1061
+00:46:41,480 --> 00:46:48,260
+En explication, la réparation d'urgence, c'est
+
+1062
+00:46:48,260 --> 00:46:50,740
+que c'est une réparation qui est mutagène.
+
+1063
+00:46:51,440 --> 00:46:53,120
+Il y a une première étape.
+
+1064
+00:46:55,540 --> 00:46:58,480
+Il y a une première étape de reconnaissance.
+
+1065
+00:46:59,560 --> 00:47:03,460
+Cette étape-là suit bien sûr le découpage
+
+1066
+00:47:03,460 --> 00:47:04,900
+du brin de par les autres que vous
+
+1067
+00:47:04,900 --> 00:47:05,540
+voyez là.
+
+1068
+00:47:06,680 --> 00:47:07,840
+Il y a l'excision.
+
+1069
+00:47:08,260 --> 00:47:09,240
+Il sera éliminé.
+
+1070
+00:47:09,820 --> 00:47:13,080
+Par la suite, l'ADN polymérase va jouer
+
+1071
+00:47:13,080 --> 00:47:15,220
+le rôle du complément qui manque.
+
+1072
+00:47:16,720 --> 00:47:19,460
+Ce n'est pas fidèle.
+
+1073
+00:47:20,100 --> 00:47:22,020
+C'est une réparation qui est fautive.
+
+1074
+00:47:22,520 --> 00:47:23,900
+Vous voyez que les deux brins ne sont
+
+1075
+00:47:23,900 --> 00:47:24,840
+pas similaires.
+
+1076
+00:47:26,160 --> 00:47:28,640
+La cellule phi qui va porter bien sûr
+
+1077
+00:47:30,380 --> 00:47:33,640
+ce gène-là sera une cellule qui sera
+
+1078
+00:47:33,640 --> 00:47:34,400
+mutée.
+
+1079
+00:47:34,820 --> 00:47:37,460
+C'est ce que je viens de préciser.
+
+1080
+00:47:37,940 --> 00:47:40,180
+S'il s'agit d'une cellule germinale,
+
+1081
+00:47:40,620 --> 00:47:44,080
+c'est une cellule qui va très probablement
+
+1082
+00:47:44,080 --> 00:47:45,600
+être une cellule cancéreuse.
+
+1083
+00:47:46,180 --> 00:47:47,720
+S'il s'agit d'une cellule germinale,
+
+1084
+00:47:48,260 --> 00:47:51,000
+les conséquences sont des effets héréditaires vers la
+
+1085
+00:47:51,000 --> 00:47:51,600
+descendance.
+
+1086
+00:47:54,660 --> 00:47:57,620
+Autre modèle, c'est la recombinaison post-réplicative.
+
+1087
+00:47:58,700 --> 00:48:05,680
+Il faut savoir que c'est une réparation
+
+1088
+00:48:05,680 --> 00:48:10,420
+qui intervient lorsque le rayonnement frappe la cellule
+
+1089
+00:48:10,420 --> 00:48:12,620
+en phase de réplication, en phase de division.
+
+1090
+00:48:13,780 --> 00:48:18,320
+Et là, les étapes sont les suivantes.
+
+1091
+00:48:19,140 --> 00:48:21,840
+Il y a une première étape.
+
+1092
+00:48:21,840 --> 00:48:25,120
+À ce niveau-là, vous avez une phase
+
+1093
+00:48:25,120 --> 00:48:25,980
+de réplication.
+
+1094
+00:48:27,740 --> 00:48:31,700
+Là, vous avez remarqué aussi que la recombinaison
+
+1095
+00:48:31,700 --> 00:48:36,260
+entre les bras, le bras que vous voyez
+
+1096
+00:48:36,260 --> 00:48:41,200
+là en bleu, ils vont se croiser pour
+
+1097
+00:48:41,200 --> 00:48:43,140
+que finalement le noir que vous voyez là,
+
+1098
+00:48:43,400 --> 00:48:46,580
+le bras numéro 2 du premier, va remonter
+
+1099
+00:48:46,580 --> 00:48:48,860
+vers le premier.
+
+1100
+00:48:48,860 --> 00:48:53,560
+Et puis, les deux bras bleus vont se
+
+1101
+00:48:53,560 --> 00:48:54,580
+recombiner à part.
+
+1102
+00:48:55,140 --> 00:48:57,880
+C'est une recombinaison également qui va donner
+
+1103
+00:48:57,880 --> 00:49:01,340
+naissance à une gêne, plutôt qu'à un
+
+1104
+00:49:01,340 --> 00:49:02,400
+ADN qui est muté.
+
+1105
+00:49:02,980 --> 00:49:04,440
+Ce n'est pas une réparation qui est
+
+1106
+00:49:04,440 --> 00:49:05,140
+fidèle.
+
+1107
+00:49:07,060 --> 00:49:09,680
+Toujours dans les conséquences chromosomesiques des lésions de
+
+1108
+00:49:09,680 --> 00:49:15,140
+l'ADN, on trouve l'imitation génique et
+
+1109
+00:49:15,140 --> 00:49:16,160
+l'imitation chromosomesique.
+
+1110
+00:49:16,260 --> 00:49:20,420
+L'imitation génique, c'est une modification d
+
+1111
+00:49:20,420 --> 00:49:22,380
+'un gène de la molécule qui va se
+
+1112
+00:49:22,380 --> 00:49:24,780
+traduire par des anomalies génétiques qui sont héréditaires,
+
+1113
+00:49:24,900 --> 00:49:28,380
+qui peuvent être soit récessives ou dominantes.
+
+1114
+00:49:31,080 --> 00:49:35,700
+Je précise qu'un processus héréditaire dominant, il
+
+1115
+00:49:35,700 --> 00:49:38,800
+intervient lorsque un des deux gènes d'une
+
+1116
+00:49:38,800 --> 00:49:43,540
+paire de chromosomes est muté pour que le
+
+1117
+00:49:43,540 --> 00:49:44,560
+caractère se manifeste.
+
+1118
+00:49:45,140 --> 00:49:46,840
+Pour le porteur de la mutation, le risque
+
+1119
+00:49:46,840 --> 00:49:49,140
+de transmettre la maladie à ses descendants est
+
+1120
+00:49:49,140 --> 00:49:57,040
+d'environ 50%.
+
+1121
+00:49:57,040 --> 00:49:57,740
+Voilà.
+
+1122
+00:49:59,060 --> 00:50:00,740
+Je prends l'exemple comme maladie.
+
+1123
+00:50:01,040 --> 00:50:03,800
+Il y a le syndrome de Marfront.
+
+1124
+00:50:04,960 --> 00:50:09,740
+Pour la deuxième ou plutôt la deuxième anomalie
+
+1125
+00:50:09,740 --> 00:50:13,900
+génétique, c'est l'anomalie génétique qui est
+
+1126
+00:50:13,900 --> 00:50:14,280
+dominante.
+
+1127
+00:50:14,340 --> 00:50:19,800
+Si on parle d'anomalie dominante, alors attendez,
+
+1128
+00:50:20,720 --> 00:50:22,020
+peut-être que j'ai inversé.
+
+1129
+00:50:22,940 --> 00:50:25,620
+Je vais gommer ça et je vais reprendre.
+
+1130
+00:50:26,320 --> 00:50:30,040
+Pour la pathologie le pointeur est là.
+
+1131
+00:50:30,440 --> 00:50:32,980
+Pour la pathologie dominante, il est là.
+
+1132
+00:50:34,700 --> 00:50:36,580
+Un des deux gènes d'une paire de
+
+1133
+00:50:36,580 --> 00:50:38,740
+chromosomes muté pour le caractère se manifeste.
+
+1134
+00:50:39,340 --> 00:50:41,420
+Et pour le risque de transmettre la maladie
+
+1135
+00:50:41,420 --> 00:50:44,140
+à ses descendants, là, il est de 50%.
+
+1136
+00:50:44,140 --> 00:50:47,600
+Ceci pour l'anomalie héréditaire dominante.
+
+1137
+00:50:47,960 --> 00:50:50,340
+Par contre, pour la forme qui est récessive,
+
+1138
+00:50:50,780 --> 00:50:53,400
+donc on parle d'un processus héréditaire récessif
+
+1139
+00:50:53,400 --> 00:50:56,680
+lorsque les deux gènes correspondants, deux chromosomes, doivent
+
+1140
+00:50:56,680 --> 00:50:59,640
+être mutés pour que le caractère se manifeste.
+
+1141
+00:51:00,160 --> 00:51:04,720
+Comme exemple, donc on prend la drépanocétose et
+
+1142
+00:51:04,720 --> 00:51:06,040
+la mycoviscidose.
+
+1143
+00:51:06,480 --> 00:51:08,860
+Ceci pour l'imitation génique.
+
+1144
+00:51:09,800 --> 00:51:13,680
+Comme autre anomalie chromosomique, en cas d'une
+
+1145
+00:51:13,680 --> 00:51:18,740
+irradiation de l'ADN, on peut trouver les
+
+1146
+00:51:18,740 --> 00:51:19,860
+mutations chromosomesiques.
+
+1147
+00:51:19,920 --> 00:51:22,260
+Les mutations chromosomesiques sont de deux types.
+
+1148
+00:51:22,720 --> 00:51:24,440
+D'abord, il y a les anapluidies.
+
+1149
+00:51:24,620 --> 00:51:25,640
+Alors l'anapluidie, c'est quoi?
+
+1150
+00:51:25,740 --> 00:51:27,320
+C'est une anomalie de répartition des deux
+
+1151
+00:51:27,320 --> 00:51:27,660
+chromosomes.
+
+1152
+00:51:28,160 --> 00:51:31,580
+Lors de la division cellulaire, on distingue deux
+
+1153
+00:51:31,580 --> 00:51:31,780
+types.
+
+1154
+00:51:31,920 --> 00:51:33,480
+Il y a l'anapluidie par défaut, donc
+
+1155
+00:51:33,480 --> 00:51:34,500
+il y a un chromosome qui manque.
+
+1156
+00:51:35,240 --> 00:51:36,840
+On l'appelle aussi la monosomie.
+
+1157
+00:51:37,460 --> 00:51:38,620
+Comme exemple, il y a le syndrome de
+
+1158
+00:51:38,620 --> 00:51:41,020
+Turner, où un individu de financier féminin n
+
+1159
+00:51:41,020 --> 00:51:44,060
+'aura qu'un chromosome sexuel X au lieu
+
+1160
+00:51:44,060 --> 00:51:44,540
+de XX.
+
+1161
+00:51:46,120 --> 00:51:48,400
+Il peut s'agir également d'une anapluidie
+
+1162
+00:51:48,400 --> 00:51:48,920
+par excès.
+
+1163
+00:51:49,080 --> 00:51:49,920
+Là, c'est par défaut.
+
+1164
+00:51:50,060 --> 00:51:50,800
+Là, c'est par excès.
+
+1165
+00:51:51,000 --> 00:51:52,140
+Donc c'est un gain de chromosomes.
+
+1166
+00:51:52,260 --> 00:51:53,200
+Mais là, on parle de trisomie.
+
+1167
+00:51:53,620 --> 00:51:55,900
+C'est la monosomie et là, de trisomie.
+
+1168
+00:51:56,660 --> 00:51:58,460
+Comme exemple, il y a le syndrome de
+
+1169
+00:51:58,460 --> 00:52:00,120
+Klingfelter, donc XXY.
+
+1170
+00:52:00,420 --> 00:52:01,640
+Donc il y a un chromosome de plus.
+
+1171
+00:52:02,140 --> 00:52:03,540
+Il y a la trisomie 21, ou le
+
+1172
+00:52:03,540 --> 00:52:04,200
+syndrome de Down.
+
+1173
+00:52:04,560 --> 00:52:05,940
+Il y a la trisomie 13, ou le
+
+1174
+00:52:05,940 --> 00:52:06,700
+syndrome de Pateau.
+
+1175
+00:52:07,100 --> 00:52:08,440
+Et puis, il y a la trisomie 18,
+
+1176
+00:52:08,540 --> 00:52:10,820
+ou le syndrome d'Hitler.
+
+1177
+00:52:12,440 --> 00:52:14,300
+Donc, commutation chromosomique.
+
+1178
+00:52:14,620 --> 00:52:16,080
+Après les anapluidies, il y a le remaniement
+
+1179
+00:52:16,080 --> 00:52:16,580
+de structures.
+
+1180
+00:52:16,720 --> 00:52:17,100
+Ça veut dire quoi?
+
+1181
+00:52:17,220 --> 00:52:20,560
+Ça veut dire que le chromosome va subir
+
+1182
+00:52:20,560 --> 00:52:24,440
+des modifications, des déformations dans sa structure.
+
+1183
+00:52:24,840 --> 00:52:32,100
+Donc, on peut avoir soit une fusion de
+
+1184
+00:52:32,100 --> 00:52:36,320
+chromosomes, qui vont fusionner, donc se souder, soit
+
+1185
+00:52:36,320 --> 00:52:39,060
+des translocations, d'accord, donc échanges de segments
+
+1186
+00:52:39,060 --> 00:52:42,800
+entre les chromosomes, soit des délétions, donc pertes
+
+1187
+00:52:42,800 --> 00:52:43,340
+de segments.
+
+1188
+00:52:43,480 --> 00:52:44,560
+Et quand on parle de pertes, il y
+
+1189
+00:52:44,560 --> 00:52:47,060
+a la perte de l'information génétique.
+
+1190
+00:52:47,660 --> 00:52:50,480
+Soit des infertions, donc des fragments qui tournent,
+
+1191
+00:52:50,640 --> 00:52:50,840
+d'accord.
+
+1192
+00:52:51,340 --> 00:52:53,300
+On peut avoir des duplications présentes de deux
+
+1193
+00:52:53,300 --> 00:52:55,380
+copies d'une région chromosomique.
+
+1194
+00:52:55,920 --> 00:53:00,120
+Soit des anneaux, soit anneaux centriques, ça veut
+
+1195
+00:53:00,120 --> 00:53:02,140
+dire les pertes des extrémités, d'accord.
+
+1196
+00:53:03,040 --> 00:53:05,940
+Soit un chromosome qui possède deux centromères.
+
+1197
+00:53:06,220 --> 00:53:08,740
+On verra ça en schéma, et là vous
+
+1198
+00:53:08,740 --> 00:53:09,560
+allez mieux comprendre.
+
+1199
+00:53:09,960 --> 00:53:15,540
+Alors là, vous avez un chromosome, ou plutôt
+
+1200
+00:53:15,540 --> 00:53:18,920
+les exemples des modifications de structure des chromosomes.
+
+1201
+00:53:21,920 --> 00:53:23,760
+Là, un chromosome qui est normal, qui a
+
+1202
+00:53:23,760 --> 00:53:25,200
+reçu une irradiation, soit qu'il y a
+
+1203
+00:53:25,200 --> 00:53:26,600
+une réparation, d'accord.
+
+1204
+00:53:26,760 --> 00:53:28,680
+Et là, vous avez un chromosome qui est
+
+1205
+00:53:28,680 --> 00:53:29,460
+en parfait état.
+
+1206
+00:53:30,060 --> 00:53:32,360
+Généralement, ce sont les chromosomes, ou plutôt les
+
+1207
+00:53:32,360 --> 00:53:33,840
+lésions monovales.
+
+1208
+00:53:36,100 --> 00:53:38,400
+les anomalies de structure qui sont les plus
+
+1209
+00:53:40,020 --> 00:53:42,740
+constatées, c'est la fragmentation, donc vous avez
+
+1210
+00:53:42,740 --> 00:53:43,900
+un fragment, un bout.
+
+1211
+00:53:44,340 --> 00:53:47,000
+Vous avez les anneaux centriques, d'accord, alors
+
+1212
+00:53:47,000 --> 00:53:49,760
+que les extrémités, elles ont disparu.
+
+1213
+00:53:50,420 --> 00:53:54,300
+Vous avez les inversions, donc un changement de
+
+1214
+00:53:54,300 --> 00:53:54,900
+positionnement.
+
+1215
+00:53:55,420 --> 00:53:58,300
+Vous avez les anneaux dyscentriques, les translocations réciproques
+
+1216
+00:53:58,300 --> 00:53:59,680
+et terminales, et puis les insertions.
+
+1217
+00:54:00,560 --> 00:54:02,460
+Et là, vous avez les dommages subis par
+
+1218
+00:54:02,460 --> 00:54:02,960
+l'ADN.
+
+1219
+00:54:03,500 --> 00:54:07,900
+En fonction du siège d'irradiation causée par
+
+1220
+00:54:07,900 --> 00:54:08,740
+le rayonnement incident.
+
+1221
+00:54:11,030 --> 00:54:13,730
+Cette diapositive est très importante parce qu'elle
+
+1222
+00:54:13,730 --> 00:54:15,230
+va nous renseigner sur la dose émitterie.
+
+1223
+00:54:15,330 --> 00:54:18,790
+On peut, si vous voulez, savoir la dose
+
+1224
+00:54:18,790 --> 00:54:23,650
+reçue en fonction des anomalies constatées au niveau
+
+1225
+00:54:25,750 --> 00:54:27,030
+des chromosomes.
+
+1226
+00:54:27,690 --> 00:54:29,310
+On va faire quoi ?
+
+1227
+00:54:30,470 --> 00:54:37,030
+On va étudier les chromosomes en microscopie électronique
+
+1228
+00:54:37,030 --> 00:54:41,990
+et voir les anomalies constatées pour pouvoir remettre,
+
+1229
+00:54:42,190 --> 00:54:45,450
+ou plutôt remonter à la dose reçue initialement.
+
+1230
+00:54:46,010 --> 00:54:47,210
+Alors, comment on va faire ?
+
+1231
+00:54:47,210 --> 00:54:49,190
+On va prendre un échantillon de l'infocyte
+
+1232
+00:54:49,190 --> 00:54:52,390
+et on va étudier deux éléments très importants.
+
+1233
+00:54:52,510 --> 00:54:55,650
+On va étudier le nombre d'anneaux centriques
+
+1234
+00:54:55,650 --> 00:54:58,070
+et le nombre de chromosomes qui sont dyscentriques.
+
+1235
+00:54:58,070 --> 00:55:00,750
+Là, vous avez un exemple d'anneau et
+
+1236
+00:55:00,750 --> 00:55:04,310
+là, un exemple de chromosomes qui sont dyscentriques.
+
+1237
+00:55:04,650 --> 00:55:05,370
+Donc, on va compter.
+
+1238
+00:55:05,450 --> 00:55:08,570
+Vous avez ici un, deux, trois dyscentriques et
+
+1239
+00:55:08,570 --> 00:55:09,490
+là, vous avez un seul anneau.
+
+1240
+00:55:09,970 --> 00:55:13,150
+En fonction du nombre de ces malformations qui
+
+1241
+00:55:13,150 --> 00:55:16,070
+sont constatées en microscopie électronique, on peut remonter
+
+1242
+00:55:16,070 --> 00:55:17,150
+à la dose reçue.
+
+1243
+00:55:17,230 --> 00:55:19,250
+Ce sont des études qui sont faites et,
+
+1244
+00:55:19,530 --> 00:55:21,850
+du coup, on a obtenu cette graphique-là.
+
+1245
+00:55:24,830 --> 00:55:32,410
+Là, vous avez la fréquence des anomalies des
+
+1246
+00:55:32,410 --> 00:55:34,290
+anneaux centriques et du chromosome qui sont dyscentriques
+
+1247
+00:55:34,690 --> 00:55:40,430
+qui sont constatées et là, vous avez la
+
+1248
+00:55:40,430 --> 00:55:41,650
+dose des rayonnements gamma.
+
+1249
+00:55:42,850 --> 00:55:46,150
+Vous constatez, on va prendre un exemple simple.
+
+1250
+00:55:47,390 --> 00:55:54,470
+Si, par exemple, pour le cysiome, le vert,
+
+1251
+00:55:55,110 --> 00:55:58,330
+nous avons constaté pour la fréquence des anomalies
+
+1252
+00:55:58,330 --> 00:56:01,950
+dyscentriques et des anneaux centriques, on a une
+
+1253
+00:56:01,950 --> 00:56:03,510
+fréquence de 0,8.
+
+1254
+00:56:04,330 --> 00:56:08,270
+Donc, on peut directement dire que la dose
+
+1255
+00:56:08,270 --> 00:56:12,090
+reçue est de combien ?
+
+1256
+00:56:12,090 --> 00:56:14,750
+De 3 grèves.
+
+1257
+00:56:15,450 --> 00:56:17,890
+Si, par exemple, on prend un deuxième exemple,
+
+1258
+00:56:20,250 --> 00:56:24,150
+on prend cette fois-ci le cobalt.
+
+1259
+00:56:25,650 --> 00:56:27,090
+Le cobalt-60.
+
+1260
+00:56:29,830 --> 00:56:33,030
+Si, par exemple, nous avons constaté une fréquence
+
+1261
+00:56:33,030 --> 00:56:36,170
+de ces anomalies-là, les anomalies type anneaux
+
+1262
+00:56:36,170 --> 00:56:40,190
+ou bien du chromosome dyscentrique, avec un pourcentage
+
+1263
+00:56:40,670 --> 00:56:42,170
+de 1,20.
+
+1264
+00:56:42,950 --> 00:56:45,490
+On peut aller directement pour savoir la dose
+
+1265
+00:56:45,490 --> 00:56:49,170
+reçue et on va dire, tiens, la dose
+
+1266
+00:56:49,170 --> 00:56:53,310
+reçue est de l'ordre de 5 grèves.
+
+1267
+00:56:53,650 --> 00:56:55,050
+Ceci pour le rayonnement gamma.
+
+1268
+00:56:55,530 --> 00:56:57,210
+Et cette étude, on peut la faire pour
+
+1269
+00:56:57,210 --> 00:57:02,170
+plusieurs radio-éléments, mais il faut savoir que
+
+1270
+00:57:02,170 --> 00:57:03,530
+cette étude est faisable.
+
+1271
+00:57:04,430 --> 00:57:07,690
+En prenant un échantillon de l'infocyte, et
+
+1272
+00:57:07,690 --> 00:57:09,910
+surtout, on va se concentrer sur les anomalies
+
+1273
+00:57:10,970 --> 00:57:13,430
+examinées, à savoir les anneaux centriques et les
+
+1274
+00:57:13,430 --> 00:57:15,830
+chromosomes dyscentriques en microscopie électronique.
+
+1275
+00:57:16,430 --> 00:57:18,830
+En voyant un petit peu la fréquence, on
+
+1276
+00:57:18,830 --> 00:57:21,810
+peut remonter à la dose reçue.
+
+1277
+00:57:22,630 --> 00:57:22,730
+Bien.
+
+1278
+00:57:24,510 --> 00:57:27,590
+Après les effets moléculaires, on va augmenter d
+
+1279
+00:57:27,590 --> 00:57:30,350
+'échelle et passer à l'échelle cellulaire.
+
+1280
+00:57:31,490 --> 00:57:35,730
+Là, les différentes étapes de la cellule, vous
+
+1281
+00:57:35,730 --> 00:57:40,150
+avez l'étape ou la phase G1, qui
+
+1282
+00:57:40,150 --> 00:57:43,450
+est une phase de préparation.
+
+1283
+00:57:45,770 --> 00:57:48,570
+Vous avez la phase S, qui est une
+
+1284
+00:57:48,570 --> 00:57:49,630
+phase de réplication.
+
+1285
+00:57:50,570 --> 00:57:52,090
+Et par la suite, vous avez la phase
+
+1286
+00:57:52,090 --> 00:57:53,510
+de préméthose et la phase de méthose.
+
+1287
+00:57:54,770 --> 00:57:59,490
+Pour la première phase, la radiosensibilité est minimale,
+
+1288
+00:57:59,730 --> 00:57:59,830
+G.
+
+1289
+00:58:00,410 --> 00:58:02,290
+C'est pareil pour la phase S.
+
+1290
+00:58:02,830 --> 00:58:04,630
+Déjà, il faut retenir que pour la phase
+
+1291
+00:58:04,630 --> 00:58:08,850
+G et S, la radiosensibilité est minimale.
+
+1292
+00:58:09,030 --> 00:58:11,510
+Mais par contre, pour la phase G2 et
+
+1293
+00:58:11,510 --> 00:58:16,110
+M, la radiosensibilité est très importante.
+
+1294
+00:58:17,950 --> 00:58:18,110
+Bien.
+
+1295
+00:58:19,730 --> 00:58:20,310
+Voilà.
+
+1296
+00:58:20,810 --> 00:58:21,870
+C'est une répétition.
+
+1297
+00:58:22,770 --> 00:58:26,010
+Maintenant, conséquences cellulaires d'une irradiation.
+
+1298
+00:58:27,590 --> 00:58:29,270
+Il y a deux types de cellules.
+
+1299
+00:58:29,510 --> 00:58:30,570
+Il y a les cellules qui sont bien
+
+1300
+00:58:30,570 --> 00:58:31,110
+différenciées.
+
+1301
+00:58:31,170 --> 00:58:32,710
+Ce sont les cellules qui sont matures.
+
+1302
+00:58:33,010 --> 00:58:35,910
+Ce sont les cellules qui ne se divisent
+
+1303
+00:58:35,910 --> 00:58:36,350
+plus.
+
+1304
+00:58:37,190 --> 00:58:43,690
+Et là, après une irradiation, les anomalies observées
+
+1305
+00:58:43,690 --> 00:58:44,550
+sont de deux types.
+
+1306
+00:58:44,910 --> 00:58:48,630
+Soit une accumulation des métabolites qui sont actives.
+
+1307
+00:58:48,790 --> 00:58:49,030
+Là.
+
+1308
+00:58:52,210 --> 00:58:55,710
+Soit les pertes de fonction spécifiques de la
+
+1309
+00:58:55,710 --> 00:58:55,970
+cellule.
+
+1310
+00:58:56,350 --> 00:58:58,110
+Ceci pour les cellules qui sont matures.
+
+1311
+00:58:58,910 --> 00:59:03,010
+Pour les cellules qui se divisent.
+
+1312
+00:59:03,390 --> 00:59:04,990
+Les cellules indifférenciées.
+
+1313
+00:59:06,070 --> 00:59:09,790
+Les anomalies constatées sont les suivantes.
+
+1314
+00:59:09,790 --> 00:59:12,910
+Donc, on peut avoir soit un retard de
+
+1315
+00:59:12,910 --> 00:59:17,010
+méthose, soit un blocage de passage de la
+
+1316
+00:59:17,010 --> 00:59:19,430
+phase G1 à la phase S.
+
+1317
+00:59:19,730 --> 00:59:22,310
+Ceci en intervenant une protéine qui s'appelle
+
+1318
+00:59:22,310 --> 00:59:24,350
+la P53, qui intervient à ce niveau-là.
+
+1319
+00:59:24,850 --> 00:59:25,190
+Bien.
+
+1320
+00:59:26,730 --> 00:59:28,830
+Les conséquences sont très importantes.
+
+1321
+00:59:29,490 --> 00:59:31,650
+Pour des doses un peu plus grandes, on
+
+1322
+00:59:31,650 --> 00:59:37,910
+peut constater soit une mort cellulaire immédiate, pour
+
+1323
+00:59:37,910 --> 00:59:39,130
+des doses qui sont très importantes.
+
+1324
+00:59:40,130 --> 00:59:42,870
+Soit une mort cellulaire qui est déferrée, c
+
+1325
+00:59:42,870 --> 00:59:44,250
+'est-à-dire que la cellule mère est
+
+1326
+00:59:44,250 --> 00:59:46,410
+finie de se diviser, mais les effets sont
+
+1327
+00:59:46,410 --> 00:59:48,450
+constatés vers les cellules filles.
+
+1328
+00:59:48,750 --> 00:59:51,830
+Ou bien une mort cellulaire programmée.
+
+1329
+00:59:52,530 --> 00:59:54,270
+C'est la mort dite par apoptose.
+
+1330
+00:59:56,600 --> 00:59:59,720
+Alors, donc, une diapo qui résume un petit
+
+1331
+00:59:59,720 --> 01:00:01,920
+peu les effets biologiques à la cellule.
+
+1332
+01:00:03,080 --> 01:00:13,580
+Là, vous avez donc vous avez une
+
+1333
+01:00:13,580 --> 01:00:17,600
+radiation qui attaque une cellule qui est normale.
+
+1334
+01:00:18,200 --> 01:00:22,700
+Alors, soit la cellule est réparée et du
+
+1335
+01:00:22,700 --> 01:00:24,860
+coup il n'y a pas d'effet
+
+1336
+01:00:24,860 --> 01:00:26,460
+qui est observé.
+
+1337
+01:00:26,600 --> 01:00:26,820
+D'accord.
+
+1338
+01:00:28,260 --> 01:00:31,200
+Soit que la cellule est morte et là,
+
+1339
+01:00:31,400 --> 01:00:35,220
+ce sont les effets obligatoires ou les effets
+
+1340
+01:00:35,220 --> 01:00:39,040
+que j'ai déjà expliqués, les effets déterministes
+
+1341
+01:00:39,040 --> 01:00:39,860
+qui ont un seuil.
+
+1342
+01:00:40,780 --> 01:00:41,740
+Donc, il y a la mort cellulaire.
+
+1343
+01:00:42,580 --> 01:00:46,220
+Soit la cellule n'est pas morte mais
+
+1344
+01:00:46,220 --> 01:00:50,660
+elle arrive à se défendre selon une réparation
+
+1345
+01:00:50,660 --> 01:00:53,400
+pas fidèle mais une réparation qui est fautive.
+
+1346
+01:00:53,800 --> 01:00:55,780
+Et dans ce cas, on parle de cellules
+
+1347
+01:00:55,780 --> 01:00:56,540
+mutées.
+
+1348
+01:00:57,420 --> 01:00:58,840
+Et les conséquences sont les suivantes.
+
+1349
+01:00:59,360 --> 01:01:02,200
+Soit que cette cellule arrive à survivre, mais
+
+1350
+01:01:02,200 --> 01:01:04,010
+la division sera impossible.
+
+1351
+01:01:04,010 --> 01:01:06,630
+C'est la mort qui est programmée.
+
+1352
+01:01:06,890 --> 01:01:07,190
+D'accord.
+
+1353
+01:01:07,770 --> 01:01:10,290
+Ou la mort qui est très déférée.
+
+1354
+01:01:11,430 --> 01:01:11,910
+Elle est là.
+
+1355
+01:01:12,690 --> 01:01:14,630
+Soit que cette cellule sera éliminée par le
+
+1356
+01:01:14,630 --> 01:01:17,530
+système immunitaire qui va rejoindre un effet déterministe.
+
+1357
+01:01:18,230 --> 01:01:22,730
+Soit que cette cellule arrive à se diviser
+
+1358
+01:01:22,730 --> 01:01:28,790
+mais les effets seront observés très tardivement.
+
+1359
+01:01:29,290 --> 01:01:31,770
+Et là, on parle des effets stochastiques.
+
+1360
+01:01:31,770 --> 01:01:34,550
+Et ces effets-là sont les effets génétiques
+
+1361
+01:01:34,550 --> 01:01:38,010
+et les effets cancérogènes.
+
+1362
+01:01:39,130 --> 01:01:41,750
+Donc là, vous avez les trois possibilités.
+
+1363
+01:01:42,650 --> 01:01:45,050
+Soit une réparation qui est fidèle soit une
+
+1364
+01:01:45,050 --> 01:01:46,470
+réparation qui n'est pas fidèle.
+
+1365
+01:01:46,910 --> 01:01:48,390
+Et là, vous avez deux possibilités.
+
+1366
+01:01:48,590 --> 01:01:51,450
+Soit la mort soit une cellule qui sera
+
+1367
+01:01:51,450 --> 01:01:53,690
+mutée et qui va se transmettre soit à
+
+1368
+01:01:53,690 --> 01:01:57,450
+la descendance soit à la cellule somatique et
+
+1369
+01:01:57,450 --> 01:02:00,550
+qui va causer des cancers par la suite.
+
+1370
+01:02:03,160 --> 01:02:05,300
+Alors justement, on peut voir ces effets-là.
+
+1371
+01:02:05,580 --> 01:02:07,540
+Alors déjà, il faut savoir qu'il y
+
+1372
+01:02:07,540 --> 01:02:08,860
+a deux types d'effets.
+
+1373
+01:02:10,120 --> 01:02:11,560
+Il y a des effets qui sont cibles
+
+1374
+01:02:11,560 --> 01:02:13,440
+et des effets qui sont non cibles.
+
+1375
+01:02:13,540 --> 01:02:14,600
+Quelle est la différence entre les deux?
+
+1376
+01:02:15,660 --> 01:02:20,680
+C'est que pour les effets cibles, ce
+
+1377
+01:02:20,680 --> 01:02:25,020
+sont les effets qui sont constatés sur la
+
+1378
+01:02:25,020 --> 01:02:25,460
+cellule.
+
+1379
+01:02:26,960 --> 01:02:29,740
+Mais pour les effets non cibles, ce sont
+
+1380
+01:02:29,740 --> 01:02:32,500
+les effets qui sont constatés sur les cellules
+
+1381
+01:02:32,500 --> 01:02:34,520
+non irradiées, donc les cellules avoisinantes.
+
+1382
+01:02:35,120 --> 01:02:37,900
+Donc là, ce sont les effets cibles et
+
+1383
+01:02:37,900 --> 01:02:40,240
+là, ce sont les effets non cibles.
+
+1384
+01:02:40,800 --> 01:02:44,320
+Alors sur les cellules irradiées ou les effets
+
+1385
+01:02:44,320 --> 01:02:48,260
+cibles, on peut avoir soit une modification létale
+
+1386
+01:02:48,260 --> 01:02:51,640
+de l'ADN qui soit responsable soit d
+
+1387
+01:02:51,640 --> 01:02:56,660
+'une mort cellulaire immédiate méthodique ou paraporteuse soit
+
+1388
+01:02:56,660 --> 01:02:58,840
+des modifications qui sont viables de l'ADN
+
+1389
+01:02:58,840 --> 01:03:00,600
+et là, ce sont les effets somatiques et
+
+1390
+01:03:00,600 --> 01:03:01,140
+génétiques.
+
+1391
+01:03:03,110 --> 01:03:06,150
+Pour les cellules avoisinantes, on peut avoir trois
+
+1392
+01:03:06,150 --> 01:03:06,530
+effets.
+
+1393
+01:03:07,010 --> 01:03:09,530
+Soit un effet de voisinage de base standard
+
+1394
+01:03:09,530 --> 01:03:13,170
+effect, abscobal ou instability génomique.
+
+1395
+01:03:13,710 --> 01:03:15,630
+Alors on va voir maintenant les détails de
+
+1396
+01:03:15,630 --> 01:03:18,350
+chaque modification qui est immédiate.
+
+1397
+01:03:18,950 --> 01:03:21,490
+C'est que cette mort, elle intervient pour
+
+1398
+01:03:21,490 --> 01:03:24,290
+des doses qui sont très faibles et surtout,
+
+1399
+01:03:24,830 --> 01:03:27,710
+c'est la descendance qui est touchée, contrairement
+
+1400
+01:03:27,710 --> 01:03:29,990
+à la cellule initiale.
+
+1401
+01:03:30,850 --> 01:03:32,390
+Le troisième type de mort, c'est la
+
+1402
+01:03:32,390 --> 01:03:35,430
+mort paraporteuse qui est dite une mort qui
+
+1403
+01:03:35,430 --> 01:03:37,310
+est programmée.
+
+1404
+01:03:38,350 --> 01:03:39,050
+Ça veut dire quoi?
+
+1405
+01:03:39,550 --> 01:03:41,710
+Ça veut dire que là, une protéine, c
+
+1406
+01:03:41,710 --> 01:03:43,910
+'est la protéine PC-53, d'accord, qui
+
+1407
+01:03:43,910 --> 01:03:45,890
+va bloquer à la phase S qui va
+
+1408
+01:03:45,890 --> 01:03:47,210
+intervenir à ce niveau-là.
+
+1409
+01:03:48,770 --> 01:03:52,690
+Donc, c'est dans le patrimoine génétique donc
+
+1410
+01:03:52,690 --> 01:03:55,390
+il y aura une programmation et du coup,
+
+1411
+01:03:56,630 --> 01:03:59,450
+il y aura des modifications dans le temps
+
+1412
+01:03:59,740 --> 01:04:00,810
+qui vont apparaître.
+
+1413
+01:04:01,310 --> 01:04:04,110
+Il y a la condensation, la fragmentation, l
+
+1414
+01:04:04,110 --> 01:04:06,510
+'hydrolyse du noyau, la rupture, le mitochondrie, l
+
+1415
+01:04:06,510 --> 01:04:09,150
+'initialisation du phospholipide, le bourgeonnement, la formation de
+
+1416
+01:04:09,150 --> 01:04:12,090
+corps apoptiques et puis la phagocytose des corps
+
+1417
+01:04:12,090 --> 01:04:13,390
+apoptiques par les cellules.
+
+1418
+01:04:13,890 --> 01:04:17,550
+Et ça, vous avez un exemple d'apoptose
+
+1419
+01:04:17,550 --> 01:04:19,870
+avec les différentes modifications.
+
+1420
+01:04:21,330 --> 01:04:23,150
+Donc, je résume.
+
+1421
+01:04:23,390 --> 01:04:26,930
+Après une irradiation à l'échelle cellulaire, il
+
+1422
+01:04:26,930 --> 01:04:28,210
+y a trois possibilités de mort.
+
+1423
+01:04:28,350 --> 01:04:31,450
+Soit la mort rapide, lorsque la dose dépasse
+
+1424
+01:04:31,450 --> 01:04:32,030
+les centigrailles.
+
+1425
+01:04:32,950 --> 01:04:34,590
+Il y a la mort qui est déferrée,
+
+1426
+01:04:34,690 --> 01:04:36,770
+qui apparaît dans la descendance lorsque la dose
+
+1427
+01:04:36,770 --> 01:04:38,090
+est de quelques centigrailles.
+
+1428
+01:04:38,870 --> 01:04:40,690
+Et puis finalement, il y a la mort
+
+1429
+01:04:40,690 --> 01:04:43,470
+par apoptose ou mort cellulaire qui est programmée.
+
+1430
+01:04:45,370 --> 01:04:47,170
+Ceci pour les effets cibles.
+
+1431
+01:04:47,390 --> 01:04:50,050
+Maintenant, pour les effets sur les cellules avoisinantes.
+
+1432
+01:04:50,550 --> 01:04:53,070
+Alors, pour ces effets-là, il faut savoir
+
+1433
+01:04:53,070 --> 01:04:54,250
+qu'il y a trois types.
+
+1434
+01:04:54,590 --> 01:04:56,430
+Il y a l'effet de voisinage dit
+
+1435
+01:04:56,430 --> 01:04:57,830
+de bystander effects.
+
+1436
+01:04:58,590 --> 01:05:00,070
+Là, c'est bien schématisé.
+
+1437
+01:05:00,410 --> 01:05:01,290
+Ça veut dire que c'est un effet
+
+1438
+01:05:01,290 --> 01:05:02,090
+de proximité.
+
+1439
+01:05:02,230 --> 01:05:04,330
+Ça veut dire qu'il concerne les cellules
+
+1440
+01:05:04,930 --> 01:05:05,370
+voisines.
+
+1441
+01:05:07,470 --> 01:05:09,230
+Ça veut dire que la cellule initiale qui
+
+1442
+01:05:09,230 --> 01:05:13,210
+est irradiée, elle va envoyer des signaux via
+
+1443
+01:05:13,210 --> 01:05:16,610
+des médiateurs chimiques et les conséquences c'est
+
+1444
+01:05:16,610 --> 01:05:18,450
+la mort cellulaire des cellules voisines.
+
+1445
+01:05:18,890 --> 01:05:20,450
+C'est ça l'effet de bystander.
+
+1446
+01:05:21,150 --> 01:05:23,250
+Le deuxième effet, c'est l'effet abscobal.
+
+1447
+01:05:23,770 --> 01:05:26,710
+Et là, c'est pas à proximité mais
+
+1448
+01:05:26,710 --> 01:05:28,090
+les cellules à distance.
+
+1449
+01:05:28,250 --> 01:05:29,830
+Donc le premier, c'est les cellules voisines.
+
+1450
+01:05:30,230 --> 01:05:32,530
+Maintenant, ce sont les cellules à distance via
+
+1451
+01:05:32,530 --> 01:05:34,430
+le même mécanisme.
+
+1452
+01:05:36,010 --> 01:05:38,590
+Et puis, le troisième effet, c'est l
+
+1453
+01:05:38,590 --> 01:05:40,990
+'effet d'instabilité génomique radio-induite.
+
+1454
+01:05:41,510 --> 01:05:42,630
+Ça veut dire que c'est un effet
+
+1455
+01:05:42,630 --> 01:05:46,070
+qui se produit également à distance et qui
+
+1456
+01:05:46,070 --> 01:05:47,950
+va toucher la descendance.
+
+1457
+01:05:48,290 --> 01:05:50,470
+Vous avez une cellule qui est touchée donc
+
+1458
+01:05:50,470 --> 01:05:52,750
+elle va se diviser et c'est la
+
+1459
+01:05:52,750 --> 01:05:54,830
+descendance qui sera touchée.
+
+1460
+01:05:55,390 --> 01:05:55,870
+Alors comment?
+
+1461
+01:05:56,350 --> 01:05:59,210
+L'explication, c'est une fragilisation de l
+
+1462
+01:05:59,210 --> 01:06:03,750
+'ADN et par conséquent, des cellules filles qui
+
+1463
+01:06:03,750 --> 01:06:06,250
+auront un ADN qui est fragile et par
+
+1464
+01:06:06,250 --> 01:06:09,590
+conséquent, elles ne peuvent pas maintenir une division
+
+1465
+01:06:09,590 --> 01:06:10,250
+qui est normale.
+
+1466
+01:06:10,250 --> 01:06:11,390
+Donc trois effets.
+
+1467
+01:06:11,890 --> 01:06:15,450
+Effet d'instabilité génomique de base standard FX
+
+1468
+01:06:15,450 --> 01:06:16,290
+et abscobal.
+
+1469
+01:06:16,610 --> 01:06:18,890
+Ceci pour les effets non-cibles.
+
+1470
+01:06:20,910 --> 01:06:22,710
+Alors, les courbes de Cervi.
+
+1471
+01:06:22,810 --> 01:06:26,630
+Les courbes de Cervi permettent quoi?
+
+1472
+01:06:27,190 --> 01:06:30,710
+Elles permettent d'analyser l'évolution de l
+
+1473
+01:06:30,710 --> 01:06:32,730
+'effectif d'une population après une irradiation.
+
+1474
+01:06:33,450 --> 01:06:34,730
+Alors là, vous avez le taux de Cervi
+
+1475
+01:06:34,730 --> 01:06:36,070
+et là, vous avez la dose.
+
+1476
+01:06:36,070 --> 01:06:38,990
+Et vous constatez que plus la dose augmente,
+
+1477
+01:06:39,230 --> 01:06:41,550
+plus le taux de Cervi diminue.
+
+1478
+01:06:41,810 --> 01:06:43,610
+Vous avez la formule, d'accord, je passe.
+
+1479
+01:06:44,990 --> 01:06:49,990
+Et là, vous avez quelques notions très importantes.
+
+1480
+01:06:50,130 --> 01:06:51,190
+Vous avez le S, d'accord.
+
+1481
+01:06:51,470 --> 01:06:53,550
+Là, vous avez Tigaral exponentie à moins alpha
+
+1482
+01:06:53,550 --> 01:06:53,770
+D.
+
+1483
+01:06:53,950 --> 01:06:55,810
+Alpha, c'est 1 sur la dose ou
+
+1484
+01:06:55,810 --> 01:06:56,290
+D0.
+
+1485
+01:06:56,750 --> 01:06:57,410
+S, c'est quoi?
+
+1486
+01:06:57,530 --> 01:07:00,930
+C'est la proportion de cellules survivantes et
+
+1487
+01:07:00,930 --> 01:07:03,010
+D0, D37, c'est la dose létale moyenne
+
+1488
+01:07:03,010 --> 01:07:04,570
+qui les survivent sur 37% des cellules
+
+1489
+01:07:04,570 --> 01:07:05,570
+initiales.
+
+1490
+01:07:05,790 --> 01:07:08,510
+Mais ce que vous devez savoir sur cette
+
+1491
+01:07:08,510 --> 01:07:11,250
+courbe, c'est que plus la dose augmente,
+
+1492
+01:07:11,550 --> 01:07:13,830
+plus le taux de Cervi diminue.
+
+1493
+01:07:14,350 --> 01:07:14,490
+Voilà.
+
+1494
+01:07:15,170 --> 01:07:17,070
+Et cette forme, ça s'appelle la courbe
+
+1495
+01:07:17,070 --> 01:07:18,290
+de Cervi exponentielle.
+
+1496
+01:07:18,730 --> 01:07:23,690
+Ça veut dire que à chaque cellule, il
+
+1497
+01:07:23,690 --> 01:07:24,670
+y a un coup qui est porté.
+
+1498
+01:07:25,610 --> 01:07:27,110
+C'est l'hypothèse de cible unique.
+
+1499
+01:07:27,810 --> 01:07:29,430
+Ça veut dire que la dose est tellement
+
+1500
+01:07:29,430 --> 01:07:32,610
+très forte qu'après avoir touché une cellule,
+
+1501
+01:07:33,070 --> 01:07:34,490
+par la suite, il y a la mort
+
+1502
+01:07:34,490 --> 01:07:35,370
+qui est instantanée.
+
+1503
+01:07:35,910 --> 01:07:37,390
+C'est l'hypothèse de cible unique.
+
+1504
+01:07:38,530 --> 01:07:39,810
+Par la suite, il y a d'autres
+
+1505
+01:07:39,810 --> 01:07:40,530
+formes de courbe.
+
+1506
+01:07:40,650 --> 01:07:42,250
+Il y a la courbe dite avec épaulement.
+
+1507
+01:07:43,310 --> 01:07:49,490
+Avec épaulement, là, vous avez deux explications.
+
+1508
+01:07:50,470 --> 01:07:56,650
+La première explication, c'est que ce que
+
+1509
+01:07:56,650 --> 01:08:00,230
+vous voyez là, c'est que il y
+
+1510
+01:08:00,230 --> 01:08:02,150
+a l'hypothèse de la cible unique, donc
+
+1511
+01:08:02,150 --> 01:08:04,450
+létale, qui est d'emblée à ce niveau
+
+1512
+01:08:04,450 --> 01:08:04,990
+-là.
+
+1513
+01:08:06,230 --> 01:08:09,050
+La deuxième courbe que vous voyez là, ça
+
+1514
+01:08:09,050 --> 01:08:12,090
+veut dire que pour toucher la cellule, il
+
+1515
+01:08:12,090 --> 01:08:15,350
+faut plusieurs lésions, donc plusieurs coups qui sont
+
+1516
+01:08:15,350 --> 01:08:15,729
+portés.
+
+1517
+01:08:15,930 --> 01:08:17,310
+C'est pour cela qu'il est divisé
+
+1518
+01:08:17,310 --> 01:08:17,689
+en deux.
+
+1519
+01:08:18,050 --> 01:08:21,970
+La première portion, attendez, je vais faire le
+
+1520
+01:08:21,970 --> 01:08:23,470
+pointeur laser.
+
+1521
+01:08:23,710 --> 01:08:25,330
+On va commencer par là.
+
+1522
+01:08:25,990 --> 01:08:26,149
+Voilà.
+
+1523
+01:08:26,149 --> 01:08:28,569
+Il y a la première partie que vous
+
+1524
+01:08:28,569 --> 01:08:29,430
+voyez là.
+
+1525
+01:08:30,149 --> 01:08:31,990
+Et puis, il y a la deuxième partie.
+
+1526
+01:08:32,370 --> 01:08:34,170
+C'est celle-là.
+
+1527
+01:08:36,410 --> 01:08:36,569
+Bien.
+
+1528
+01:08:38,550 --> 01:08:42,729
+Alors, dans cette première partie, il y a
+
+1529
+01:08:42,729 --> 01:08:44,490
+l'hypothèse de la cible unique.
+
+1530
+01:08:44,830 --> 01:08:45,450
+Ça veut dire quoi?
+
+1531
+01:08:45,890 --> 01:08:47,790
+Ça veut dire que chaque coup, il y
+
+1532
+01:08:47,790 --> 01:08:49,050
+a l'autoturvé, donc il va diminuer.
+
+1533
+01:08:50,470 --> 01:08:53,790
+Mais pour la courbe avec épaulement, ça veut
+
+1534
+01:08:53,790 --> 01:08:56,710
+dire pour tuer une cellule donnée, il faut
+
+1535
+01:08:56,710 --> 01:08:59,710
+un cible, donc il faut porter plusieurs coups.
+
+1536
+01:09:00,050 --> 01:09:01,770
+C'est ça l'explication de la courbe
+
+1537
+01:09:01,770 --> 01:09:02,750
+de cellule avec épaulement.
+
+1538
+01:09:03,149 --> 01:09:05,210
+Ce qu'il faut retenir, c'est que
+
+1539
+01:09:06,810 --> 01:09:13,710
+dans cette première phase de courbe, les réparations
+
+1540
+01:09:14,950 --> 01:09:17,410
+ne sont pas saturées.
+
+1541
+01:09:18,210 --> 01:09:20,350
+Ça veut dire qu'à chaque coup, il
+
+1542
+01:09:20,350 --> 01:09:22,850
+y a des phénomènes de réparation enzymatique qui
+
+1543
+01:09:22,850 --> 01:09:24,229
+vont régénérer les cellules.
+
+1544
+01:09:24,229 --> 01:09:26,710
+Mais par contre, dans la deuxième phase de
+
+1545
+01:09:26,710 --> 01:09:29,689
+courbe, les réparations sont très saturées.
+
+1546
+01:09:29,890 --> 01:09:31,529
+Ça veut dire qu'à chaque coup, il
+
+1547
+01:09:31,529 --> 01:09:32,630
+y a l'autoturvé qui va diminuer.
+
+1548
+01:09:34,470 --> 01:09:36,670
+Maintenant, les facteurs influents sont la survie de
+
+1549
+01:09:36,670 --> 01:09:37,210
+la cellule.
+
+1550
+01:09:37,790 --> 01:09:39,710
+On va reprendre une notion très importante qu
+
+1551
+01:09:39,710 --> 01:09:40,189
+'on a déjà vue.
+
+1552
+01:09:40,370 --> 01:09:42,050
+C'est la TEL, le transfert linéaire d
+
+1553
+01:09:42,050 --> 01:09:42,390
+'énergie.
+
+1554
+01:09:43,149 --> 01:09:47,710
+Pour les faibles TEL, la probabilité est faible.
+
+1555
+01:09:48,189 --> 01:09:50,550
+Pour les TEL qui sont très élevés, spécialement
+
+1556
+01:09:50,550 --> 01:09:52,729
+les particules alpha, qui ont un TEL de
+
+1557
+01:09:52,729 --> 01:09:57,310
+150 keV et une DLE de 4500 keV,
+
+1558
+01:09:57,310 --> 01:10:00,070
+la probabilité est très élevée.
+
+1559
+01:10:00,790 --> 01:10:01,930
+On va voir ça.
+
+1560
+01:10:03,570 --> 01:10:06,090
+Là, on va prendre les particules alpha.
+
+1561
+01:10:06,190 --> 01:10:09,290
+Les particules alpha, le transfert est très important,
+
+1562
+01:10:09,370 --> 01:10:10,250
+de 150 keV.
+
+1563
+01:10:10,710 --> 01:10:12,550
+Le nombre de paires d'ayant créées est
+
+1564
+01:10:12,550 --> 01:10:13,130
+très important.
+
+1565
+01:10:13,270 --> 01:10:16,390
+Aux alentours de 4500 paires d'ayant créées.
+
+1566
+01:10:16,950 --> 01:10:18,570
+Les coûts qui sont apportés à la cellule
+
+1567
+01:10:18,570 --> 01:10:19,830
+sont très importants.
+
+1568
+01:10:19,830 --> 01:10:22,530
+La probabilité que la cellule soit touchée est
+
+1569
+01:10:22,530 --> 01:10:23,610
+très élevée.
+
+1570
+01:10:23,930 --> 01:10:27,650
+Par contre, si on prend des rayonnements ionisants
+
+1571
+01:10:27,650 --> 01:10:30,010
+qui ont un transfert linéaire d'énergie qui
+
+1572
+01:10:30,010 --> 01:10:30,610
+est très faible.
+
+1573
+01:10:31,450 --> 01:10:33,390
+Je prends l'exemple des rayonnements du type
+
+1574
+01:10:33,390 --> 01:10:35,450
+gamma et des rayonnements du type beta.
+
+1575
+01:10:36,190 --> 01:10:36,950
+Ça et ça.
+
+1576
+01:10:37,670 --> 01:10:40,610
+Là, vous constatez que le transfert linéaire est
+
+1577
+01:10:40,610 --> 01:10:42,210
+faible.
+
+1578
+01:10:42,910 --> 01:10:43,850
+Il est faible.
+
+1579
+01:10:44,470 --> 01:10:46,910
+C'est par rapport aux rayonnements alpha.
+
+1580
+01:10:46,910 --> 01:10:49,870
+La probabilité est faible.
+
+1581
+01:10:50,170 --> 01:10:51,510
+On va le voir ici.
+
+1582
+01:10:52,670 --> 01:10:59,330
+Ici, vous avez les rayonnements, les photons, les
+
+1583
+01:10:59,330 --> 01:11:05,030
+électrons, qui ont un faible transfert linéaire d
+
+1584
+01:11:05,030 --> 01:11:05,330
+'énergie.
+
+1585
+01:11:05,750 --> 01:11:08,010
+La courbe avec épaulement.
+
+1586
+01:11:08,310 --> 01:11:10,110
+Dans un stade initial, il y a des
+
+1587
+01:11:10,110 --> 01:11:11,650
+phénomènes de régénération cellulaire.
+
+1588
+01:11:12,150 --> 01:11:15,030
+Dans un stade avancé, les phénomènes de réparation
+
+1589
+01:11:15,030 --> 01:11:15,810
+sont saturés.
+
+1590
+01:11:16,230 --> 01:11:19,150
+La courbe sera similaire à la suivante.
+
+1591
+01:11:19,550 --> 01:11:23,090
+Par contre, ici, la courbe qui est exponentielle,
+
+1592
+01:11:23,530 --> 01:11:26,470
+il se voit essentiellement dans les rayonnements qui
+
+1593
+01:11:26,470 --> 01:11:28,450
+ont un transfert qui est très élevé.
+
+1594
+01:11:28,850 --> 01:11:31,550
+Généralement, ce sont les particules alpha, les neutrons
+
+1595
+01:11:31,550 --> 01:11:32,210
+et les protons.
+
+1596
+01:11:32,910 --> 01:11:36,550
+Là, c'est l'hypothèse de cible unique.
+
+1597
+01:11:36,770 --> 01:11:40,630
+À chaque coup, il est mort cellulaire.
+
+1598
+01:11:41,170 --> 01:11:44,410
+Lorsqu'on trace, on va trouver une courbe
+
+1599
+01:11:44,410 --> 01:11:45,310
+exponentielle.
+
+1600
+01:11:46,650 --> 01:11:50,770
+Encore, il y a une notion très importante,
+
+1601
+01:11:51,110 --> 01:11:54,070
+c'est l'efficacité biologique relative.
+
+1602
+01:11:57,510 --> 01:12:00,090
+Cette efficacité, c'est quoi ?
+
+1603
+01:12:00,090 --> 01:12:04,250
+C'est un rapport entre les doses d
+
+1604
+01:12:04,250 --> 01:12:07,290
+'un rayonnement de référence, ici, vous avez les
+
+1605
+01:12:07,290 --> 01:12:09,430
+neutrons, et d'un rayonnement qui est étudié.
+
+1606
+01:12:09,430 --> 01:12:11,130
+Par exemple, ici, le rayonnement du sigma gamma,
+
+1607
+01:12:11,270 --> 01:12:13,030
+qui induisent le même effet.
+
+1608
+01:12:13,370 --> 01:12:15,130
+On va voir ça en exemple pour mieux
+
+1609
+01:12:15,130 --> 01:12:15,910
+comprendre ça.
+
+1610
+01:12:19,510 --> 01:12:25,590
+Vous avez, par exemple, si on prend un
+
+1611
+01:12:25,590 --> 01:12:27,910
+rayonnement de type neutrons.
+
+1612
+01:12:30,450 --> 01:12:31,750
+Deux grèves de neutrons.
+
+1613
+01:12:33,850 --> 01:12:34,690
+Il est là.
+
+1614
+01:12:35,510 --> 01:12:36,370
+Les neutrons sont bleus.
+
+1615
+01:12:36,370 --> 01:12:39,530
+On va mettre le pointeur laser.
+
+1616
+01:12:41,030 --> 01:12:43,190
+On va prendre les neutrons, et on va
+
+1617
+01:12:43,190 --> 01:12:45,230
+prendre une dose de deux grèves.
+
+1618
+01:12:46,970 --> 01:12:51,790
+Après, on va prendre les rayonnements de type
+
+1619
+01:12:51,790 --> 01:12:57,490
+gamma, on va prendre une irradiation de quatre
+
+1620
+01:12:57,490 --> 01:12:57,810
+grèves.
+
+1621
+01:12:59,990 --> 01:13:02,490
+Qu'est-ce que vous constatez ?
+
+1622
+01:13:02,490 --> 01:13:09,650
+C'est que pour une survie d'environ
+
+1623
+01:13:10,930 --> 01:13:15,450
+dix pour cent, il faut une irradiation gamma
+
+1624
+01:13:15,450 --> 01:13:16,750
+de combien ?
+
+1625
+01:13:17,050 --> 01:13:17,770
+De quatre.
+
+1626
+01:13:19,250 --> 01:13:20,330
+À ce niveau-là.
+
+1627
+01:13:21,410 --> 01:13:25,610
+Et seulement une irradiation de deux grèves pour
+
+1628
+01:13:25,610 --> 01:13:26,090
+les neutrons.
+
+1629
+01:13:26,490 --> 01:13:28,730
+Pour avoir finalement un taux de survie de
+
+1630
+01:13:28,730 --> 01:13:29,010
+dix.
+
+1631
+01:13:31,290 --> 01:13:32,950
+Je vais reprendre ça.
+
+1632
+01:13:34,870 --> 01:13:35,430
+Voilà.
+
+1633
+01:13:35,890 --> 01:13:36,910
+C'est que pour...
+
+1634
+01:13:36,910 --> 01:13:37,990
+Attendez.
+
+1635
+01:13:38,290 --> 01:13:38,890
+Pointeur laser.
+
+1636
+01:13:39,670 --> 01:13:41,070
+Pour un taux de survie de dix pour
+
+1637
+01:13:41,070 --> 01:13:43,750
+cent, il faut une irradiation gamma de combien
+
+1638
+01:13:43,750 --> 01:13:43,890
+?
+
+1639
+01:13:43,890 --> 01:13:44,310
+De quatre.
+
+1640
+01:13:45,890 --> 01:13:49,250
+Et puis, une irradiation de deux grèves pour
+
+1641
+01:13:49,250 --> 01:13:49,730
+les neutrons.
+
+1642
+01:13:50,950 --> 01:13:51,510
+Voilà.
+
+1643
+01:13:51,790 --> 01:13:52,250
+C'est ça.
+
+1644
+01:13:52,930 --> 01:13:55,330
+L'efficacité biologique relative.
+
+1645
+01:13:55,750 --> 01:13:57,790
+C'est un rapport entre les doses d
+
+1646
+01:13:57,790 --> 01:13:59,010
+'un rayonnement de référence.
+
+1647
+01:13:59,690 --> 01:14:01,930
+On a pris exemple d'un rayonnement gamma
+
+1648
+01:14:02,700 --> 01:14:04,570
+et d'un rayonnement étudié.
+
+1649
+01:14:04,930 --> 01:14:05,490
+Ce sont les neutrons.
+
+1650
+01:14:06,090 --> 01:14:09,590
+Pour avoir le même effet, le même taux
+
+1651
+01:14:09,590 --> 01:14:12,090
+de survie, il nous faut une dose de
+
+1652
+01:14:12,090 --> 01:14:14,410
+deux pour les neutrons et une dose de
+
+1653
+01:14:14,410 --> 01:14:15,770
+quatre pour les rayonnements gamma.
+
+1654
+01:14:21,160 --> 01:14:22,340
+Là, vous avez la dose.
+
+1655
+01:14:22,700 --> 01:14:24,280
+Et là, vous avez le taux de survie.
+
+1656
+01:14:24,700 --> 01:14:29,320
+Lorsque la dose est délivrée en une seule
+
+1657
+01:14:29,320 --> 01:14:31,800
+fois, vous avez un taux de survie de
+
+1658
+01:14:31,800 --> 01:14:32,280
+ce type-là.
+
+1659
+01:14:32,280 --> 01:14:34,460
+Mais par contre, lorsqu'elle est délivrée deux
+
+1660
+01:14:34,460 --> 01:14:36,000
+fois, vous avez un taux de survie qui
+
+1661
+01:14:36,000 --> 01:14:39,340
+est largement supérieur parce que cet intervalle-là,
+
+1662
+01:14:40,160 --> 01:14:44,240
+entre les deux, ici, il y a un
+
+1663
+01:14:44,240 --> 01:14:49,880
+phénomène de régénération et de réparation automatique.
+
+1664
+01:14:50,600 --> 01:14:52,480
+Le deuxième facteur, c'est le débit de
+
+1665
+01:14:52,480 --> 01:14:52,680
+dose.
+
+1666
+01:14:53,280 --> 01:14:58,480
+On va prendre de la même manière deux
+
+1667
+01:14:58,480 --> 01:15:00,600
+populations, donc P1 et P2.
+
+1668
+01:15:01,860 --> 01:15:05,140
+Et du coup, la première, elle va se
+
+1669
+01:15:05,140 --> 01:15:06,900
+mettre à une dose D, administrée de manière
+
+1670
+01:15:06,900 --> 01:15:07,540
+continue.
+
+1671
+01:15:08,000 --> 01:15:10,200
+Il faut souligner le continu.
+
+1672
+01:15:10,940 --> 01:15:15,660
+Et la deuxième, la deuxième population, on va
+
+1673
+01:15:15,660 --> 01:15:17,740
+les rallier avec la même dose mais avec
+
+1674
+01:15:17,740 --> 01:15:20,020
+un débit qui est très fort.
+
+1675
+01:15:20,880 --> 01:15:22,300
+On va constater quoi ?
+
+1676
+01:15:22,300 --> 01:15:27,520
+On va constater que le taux de survie
+
+1677
+01:15:27,520 --> 01:15:30,160
+dans la première population est largement supérieur au
+
+1678
+01:15:30,160 --> 01:15:31,540
+taux de survie dans la deuxième population.
+
+1679
+01:15:32,620 --> 01:15:35,520
+Ceci s'explique par le fait suivant.
+
+1680
+01:15:35,640 --> 01:15:40,460
+Dans la première population, où le débit est
+
+1681
+01:15:40,460 --> 01:15:42,840
+très faible, les cellules ont le temps de
+
+1682
+01:15:42,840 --> 01:15:44,200
+se réparer, de se régénérer.
+
+1683
+01:15:44,620 --> 01:15:46,000
+Il y a un phénomène de réparation des
+
+1684
+01:15:46,000 --> 01:15:48,320
+lesions au fur et à mesure de leur
+
+1685
+01:15:48,320 --> 01:15:50,320
+réparation et de leur apparition.
+
+1686
+01:15:50,940 --> 01:15:53,180
+Par contre, dans la deuxième population où le
+
+1687
+01:15:53,180 --> 01:15:55,240
+débit est très fort, les cellules n'ont
+
+1688
+01:15:55,240 --> 01:15:57,240
+pas eu le temps de se réparer.
+
+1689
+01:15:57,720 --> 01:16:00,760
+Il y a un phénomène de saturation bien
+
+1690
+01:16:00,760 --> 01:16:05,640
+sûr du système de réparation de l'ADN.
+
+1691
+01:16:08,070 --> 01:16:08,370
+Voilà.
+
+1692
+01:16:08,790 --> 01:16:10,850
+Le débit, c'est ce que je viens
+
+1693
+01:16:10,850 --> 01:16:11,770
+de vous expliquer.
+
+1694
+01:16:12,230 --> 01:16:14,650
+Le débit, c'est très important parce que
+
+1695
+01:16:14,650 --> 01:16:18,750
+là, vous avez un faible débit de 0
+
+1696
+01:16:18,750 --> 01:16:19,270
+à 0,9.
+
+1697
+01:16:19,770 --> 01:16:21,930
+Le taux de survie est très important.
+
+1698
+01:16:22,510 --> 01:16:23,670
+Au fur et à mesure qu'on diminue
+
+1699
+01:16:23,670 --> 01:16:26,570
+le débit, on constate que le taux de
+
+1700
+01:16:26,570 --> 01:16:29,790
+survie diminue en fonction de la dose parce
+
+1701
+01:16:29,790 --> 01:16:32,290
+qu'entre les deux, il y a un
+
+1702
+01:16:32,290 --> 01:16:34,510
+phénomène de réparation, chose qui n'est pas
+
+1703
+01:16:34,510 --> 01:16:36,450
+observable lorsque le débit est très important.
+
+1704
+01:16:38,190 --> 01:16:40,530
+Le cycle, on l'a déjà vu, c
+
+1705
+01:16:40,530 --> 01:16:43,370
+'est que durant la phase G1 et S,
+
+1706
+01:16:43,570 --> 01:16:45,490
+la radio-sensibilité est minimale.
+
+1707
+01:16:46,190 --> 01:16:48,170
+Durant la phase G2 et M, la radio
+
+1708
+01:16:48,170 --> 01:16:49,770
+-sensibilité est maximale.
+
+1709
+01:16:50,250 --> 01:16:53,150
+L'oxygène, on l'a déjà expliqué, c
+
+1710
+01:16:53,150 --> 01:16:58,830
+'est que les cellules qui sont époxiques, le
+
+1711
+01:16:58,830 --> 01:17:01,670
+taux, bien sûr, ce sont des cellules qui
+
+1712
+01:17:01,670 --> 01:17:05,430
+résistent, mais par contre, les cellules qui sont
+
+1713
+01:17:05,430 --> 01:17:09,610
+oxygénées, l'oxygène a agi comme un multiplicateur
+
+1714
+01:17:09,610 --> 01:17:13,890
+de doses et du coup, c'est un
+
+1715
+01:17:13,890 --> 01:17:14,390
+radio-sensibilisateur.
+
+1716
+01:17:15,670 --> 01:17:20,110
+Le taux de survie est très, en fonction
+
+1717
+01:17:20,110 --> 01:17:21,590
+de la dose, vous constatez que le taux
+
+1718
+01:17:21,590 --> 01:17:23,750
+de survie est très diminué lorsque les cellules
+
+1719
+01:17:23,750 --> 01:17:26,810
+sont très oxygénées par rapport aux cellules qui
+
+1720
+01:17:26,810 --> 01:17:28,830
+sont époxiques, qui sont des cellules qui sont
+
+1721
+01:17:28,830 --> 01:17:30,850
+radio-résistantes.
+
+1722
+01:17:31,450 --> 01:17:34,330
+La dose équivalente, on en a déjà parlé,
+
+1723
+01:17:34,530 --> 01:17:36,870
+ça fait intervenir le facteur de pondération radiologique.
+
+1724
+01:17:37,290 --> 01:17:39,770
+Je précise que le facteur de pondération radiologique
+
+1725
+01:17:39,770 --> 01:17:41,230
+le plus important c'est celui du particule
+
+1726
+01:17:41,230 --> 01:17:41,530
+avant.
+
+1727
+01:17:42,810 --> 01:17:44,070
+Le type de la cellule, vous avez les
+
+1728
+01:17:44,070 --> 01:17:45,830
+lois de Bergoné et de Trepondo qui disent
+
+1729
+01:17:45,830 --> 01:17:54,350
+que plus une cellule est légère, plus elle
+
+1730
+01:17:54,350 --> 01:17:57,670
+est peu différenciée, forte en activités méthodiques, plus
+
+1731
+01:17:57,670 --> 01:17:59,330
+elle est commune, elle est radio-sensible.
+
+1732
+01:18:00,070 --> 01:18:03,790
+De manière générale, il faut retenir que une
+
+1733
+01:18:03,790 --> 01:18:05,790
+cellule est d'autant plus radio-sensible lorsqu
+
+1734
+01:18:05,790 --> 01:18:09,470
+'elle est jeune, immature, indifférenciée, se multiplie d
+
+1735
+01:18:09,470 --> 01:18:10,870
+'une manière rapide.
+
+1736
+01:18:11,910 --> 01:18:17,690
+Ceci pour la loi de Bergoné et de
+
+1737
+01:18:17,690 --> 01:18:18,170
+Trepondo.
+
+1738
+01:18:20,250 --> 01:18:23,560
+Ils sont peu radio-sensibles.
+
+1739
+01:18:24,280 --> 01:18:26,660
+Et puis, il y a le compartiment fonctionnel
+
+1740
+01:18:26,660 --> 01:18:28,420
+où les cellules sont radio-résistantes.
+
+1741
+01:18:28,920 --> 01:18:31,780
+Comme exemple, il y a les cellules hématopoïétiques,
+
+1742
+01:18:31,860 --> 01:18:35,000
+de l'hépitulium, de la peau, des tissus
+
+1743
+01:18:35,000 --> 01:18:36,280
+séminifères et du cristallat.
+
+1744
+01:18:36,760 --> 01:18:38,280
+Ce qu'il faut retenir dans le tissu
+
+1745
+01:18:38,280 --> 01:18:41,340
+compartimental, c'est que c'est un tissu
+
+1746
+01:18:41,340 --> 01:18:43,640
+qui est bien organisé en trois compartiments, souche,
+
+1747
+01:18:43,720 --> 01:18:46,540
+maturation et fonctionnel, et la radio-sensibilité en
+
+1748
+01:18:46,540 --> 01:18:48,300
+fonction de chaque compartiment.
+
+1749
+01:18:48,380 --> 01:18:50,180
+Généralement, c'est le premier compartiment qui est
+
+1750
+01:18:50,180 --> 01:18:51,700
+le plus radio-sensible au rayonnement ionisant.
+
+1751
+01:18:53,420 --> 01:18:54,820
+Le deuxième tissu, c'est un tissu non
+
+1752
+01:18:54,820 --> 01:18:55,720
+compartimental.
+
+1753
+01:18:56,380 --> 01:18:57,880
+Je prends l'exemple du foie et du
+
+1754
+01:18:57,880 --> 01:18:58,060
+rein.
+
+1755
+01:18:59,100 --> 01:19:01,600
+C'est un tissu à renouvellement qui est
+
+1756
+01:19:01,600 --> 01:19:05,440
+lent et la prolifération intervient en fonction de
+
+1757
+01:19:05,440 --> 01:19:08,220
+la demande, en cas d'agressions cellulaires.
+
+1758
+01:19:08,940 --> 01:19:10,600
+Généralement, ce sont des cellules qui sont radio
+
+1759
+01:19:10,600 --> 01:19:11,060
+-résistantes.
+
+1760
+01:19:11,220 --> 01:19:13,440
+Finalement, il y a le tissu statique, c
+
+1761
+01:19:13,440 --> 01:19:15,740
+'est comme le système nerveux, où il y
+
+1762
+01:19:15,740 --> 01:19:17,380
+a un pôle initial de cellules qui disparaissent
+
+1763
+01:19:17,380 --> 01:19:18,640
+sans être remplacées.
+
+1764
+01:19:18,860 --> 01:19:21,020
+Généralement, ce sont des cellules qui sont radio
+
+1765
+01:19:21,020 --> 01:19:21,640
+-résistantes.
+
+1766
+01:19:24,740 --> 01:19:27,360
+Les cellules les plus sensibles et les cellules
+
+1767
+01:19:27,360 --> 01:19:30,580
+radio-résistantes, là, vous avez les différentes cellules.
+
+1768
+01:19:30,760 --> 01:19:38,990
+Pour les cellules qui sont sensibles, vous avez
+
+1769
+01:19:38,990 --> 01:19:42,790
+la moelle, l'espermatogonie, la mycose intestinale et
+
+1770
+01:19:42,790 --> 01:19:44,870
+les cellules basales de l'épiderme.
+
+1771
+01:19:45,770 --> 01:19:48,670
+Pour les cellules qui sont radio-résistantes, vous
+
+1772
+01:19:48,670 --> 01:19:53,490
+avez les fibroblastes, les neurones, les hépatocytes et
+
+1773
+01:19:53,490 --> 01:19:55,150
+les cellules musculaires.
+
+1774
+01:19:56,650 --> 01:19:58,890
+Alors ça, on va le voir sur la
+
+1775
+01:19:58,890 --> 01:20:00,590
+diapositive suivante ou sur le graphique.
+
+1776
+01:20:01,590 --> 01:20:03,170
+Et vous constatez quoi ?
+
+1777
+01:20:03,770 --> 01:20:08,630
+Vous constatez que on va prendre la dose
+
+1778
+01:20:08,630 --> 01:20:15,050
+et on va étudier le taux de servus.
+
+1779
+01:20:15,050 --> 01:20:18,850
+On constate que les cellules hématopoïdiques qui sont
+
+1780
+01:20:18,850 --> 01:20:21,070
+plus radio-sensibles, leur taux de servus avec
+
+1781
+01:20:21,070 --> 01:20:24,270
+la même irradiation causée pour les cellules rénales
+
+1782
+01:20:24,270 --> 01:20:28,490
+et les cellules intestinales, le taux de servus
+
+1783
+01:20:28,490 --> 01:20:30,030
+est très diminué.
+
+1784
+01:20:30,110 --> 01:20:30,530
+Pourquoi ?
+
+1785
+01:20:30,530 --> 01:20:32,530
+Parce que ce sont des cellules qui sont
+
+1786
+01:20:32,530 --> 01:20:33,310
+très radio-sensibles.
+
+1787
+01:20:34,110 --> 01:20:39,430
+Par contre, les cellules rénales qui sont radio
+
+1788
+01:20:39,430 --> 01:20:44,230
+-résistantes, ce sont des cellules qui ont un
+
+1789
+01:20:44,230 --> 01:20:48,150
+taux de servus qui est largement supérieur aux
+
+1790
+01:20:48,150 --> 01:20:49,130
+cellules hématopoïdiques.
+
+1791
+01:20:49,390 --> 01:20:49,970
+Pourquoi ?
+
+1792
+01:20:49,970 --> 01:20:51,230
+Parce que ce sont des cellules qui sont
+
+1793
+01:20:51,230 --> 01:20:52,130
+radio-résistantes.
+
+1794
+01:20:52,630 --> 01:20:54,630
+C'est une courbe de servus qui explique
+
+1795
+01:20:54,630 --> 01:20:55,770
+un petit peu ce que je viens de
+
+1796
+01:20:55,770 --> 01:20:56,170
+vous dire.
+
+1797
+01:20:58,310 --> 01:21:01,670
+La courbe de servus diffère selon le type
+
+1798
+01:21:01,670 --> 01:21:02,110
+de la cellule.
+
+1799
+01:21:02,230 --> 01:21:03,450
+Est-ce que c'est une cellule radio
+
+1800
+01:21:03,450 --> 01:21:05,050
+-sensible ou bien est-ce que c'est
+
+1801
+01:21:05,050 --> 01:21:07,470
+une cellule qui est radio-résistante ?
+
+1802
+01:21:07,470 --> 01:21:08,630
+Ce qu'il faut retenir, c'est que
+
+1803
+01:21:08,630 --> 01:21:10,630
+les cellules dans la moelle osseuse avec l
+
+1804
+01:21:10,630 --> 01:21:13,970
+'espermatopomie, ce sont les cellules les plus radio
+
+1805
+01:21:13,970 --> 01:21:19,150
+-sensibles où le même type d'irradiation ici
+
+1806
+01:21:19,150 --> 01:21:21,970
+va causer plus de dégâts au niveau de
+
+1807
+01:21:21,970 --> 01:21:23,170
+ces cellules-là.
+
+1808
+01:21:24,290 --> 01:21:26,370
+Un tableau qui montre un petit peu la
+
+1809
+01:21:26,370 --> 01:21:28,630
+chronologie des effets biologiques des rayonnements.
+
+1810
+01:21:29,550 --> 01:21:33,210
+Là, vous avez les premiers phénomènes d'excitation
+
+1811
+01:21:33,210 --> 01:21:36,010
+et d'ionisation d'expression sur moins 15
+
+1812
+01:21:36,010 --> 01:21:40,050
+secondes et d'expression sur moins 6 secondes.
+
+1813
+01:21:41,110 --> 01:21:42,730
+Les premiers effets, ce sont les effets directs
+
+1814
+01:21:42,730 --> 01:21:43,770
+et indirects.
+
+1815
+01:21:44,150 --> 01:21:46,230
+Par la suite interviennent les effets moléculaires.
+
+1816
+01:21:47,550 --> 01:21:50,010
+Alors, réparation, faut-il, il ne faut pas
+
+1817
+01:21:50,010 --> 01:21:53,650
+de réparation, une réparation qui est fidèle, c
+
+1818
+01:21:53,650 --> 01:21:54,970
+'est dans les minutes qui suivent.
+
+1819
+01:21:55,310 --> 01:21:57,070
+Dans les heures, on peut avoir soit une
+
+1820
+01:21:57,070 --> 01:21:59,270
+mort cellulaire qui est contrôlée, c'est la
+
+1821
+01:21:59,270 --> 01:22:01,830
+nécrose, soit une mort cellulaire qui est programmée.
+
+1822
+01:22:02,590 --> 01:22:06,570
+Dans les jours, les années qui suivent, on
+
+1823
+01:22:06,570 --> 01:22:10,270
+peut avoir soit des pathologies tessulaires, soit des
+
+1824
+01:22:10,270 --> 01:22:14,110
+anomalies génétiques, on parle de génération, soit développement
+
+1825
+01:22:14,110 --> 01:22:14,690
+de cancer.
+
+1826
+01:22:15,230 --> 01:22:17,250
+Ça, c'est une chronologie des effets biologiques
+
+1827
+01:22:17,250 --> 01:22:19,690
+des rayonnements ionisants à l'échelle du corps
+
+1828
+01:22:19,690 --> 01:22:19,970
+humain.
+
+1829
+01:22:21,010 --> 01:22:25,470
+Je vous remercie de votre patience et au
+
+1830
+01:22:25,470 --> 01:22:26,030
+prochain cours.
+
+1831
+01:22:26,230 --> 01:22:26,490
+Merci.

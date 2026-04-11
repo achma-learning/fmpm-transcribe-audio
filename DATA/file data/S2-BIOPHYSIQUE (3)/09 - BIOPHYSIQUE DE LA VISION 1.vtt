@@ -1,0 +1,3369 @@
+WEBVTT
+
+1
+00:00:01.160 --> 00:00:04.580
+Bonjour, le cours d'aujourd'hui est intitulé
+
+2
+00:00:04.580 --> 00:00:07.800
+biophysique de la vision et l'étude des
+
+3
+00:00:07.800 --> 00:00:10.200
+amétrophies sphériques et non sphériques.
+
+4
+00:00:13.880 --> 00:00:18.260
+Le programme de ce cours, on va entamer
+
+5
+00:00:18.260 --> 00:00:21.560
+les rappels sur l'optique géométrique, l'interaction
+
+6
+00:00:21.560 --> 00:00:24.300
+de la lumière visible avec les objets et
+
+7
+00:00:24.300 --> 00:00:26.800
+avec l'organe récepteur qui est l'œil.
+
+8
+00:00:26.800 --> 00:00:31.119
+On va voir les différences du dioptrique oculaire,
+
+9
+00:00:31.840 --> 00:00:34.320
+le dioptrique c'est le milieu transparent que
+
+10
+00:00:34.320 --> 00:00:38.840
+la lumière traverse pour transporter l'image d
+
+11
+00:00:38.840 --> 00:00:43.140
+'un objet vers le fond de l'œil
+
+12
+00:00:43.140 --> 00:00:48.520
+qui est la rétine et qui est le
+
+13
+00:00:48.520 --> 00:00:49.300
+foyer image.
+
+14
+00:00:50.700 --> 00:00:53.780
+On va voir les différents types d'anomalies
+
+15
+00:00:53.780 --> 00:01:02.000
+dues à la réfraction et leurs corrections par
+
+16
+00:01:02.000 --> 00:01:04.140
+les vers correcteurs et autres.
+
+17
+00:01:06.060 --> 00:01:10.620
+L'historique de l'optique et de l
+
+18
+00:01:10.620 --> 00:01:14.300
+'étude de l'interaction de la lumière visible
+
+19
+00:01:14.300 --> 00:01:19.520
+avec l'œil qui est la vision est
+
+20
+00:01:19.520 --> 00:01:21.640
+une science très vieille depuis plus de 2000
+
+21
+00:01:21.640 --> 00:01:21.920
+ans.
+
+22
+00:01:21.920 --> 00:01:26.860
+D'ailleurs, à l'ère des Grecs, il
+
+23
+00:01:26.860 --> 00:01:31.160
+y avait Aristote, Ériclide, Ptolémie, ils ont fait
+
+24
+00:01:31.160 --> 00:01:33.020
+des études sur la réfraction de la lumière,
+
+25
+00:01:33.740 --> 00:01:37.000
+sur les lois de réflexion des rayons lumineux
+
+26
+00:01:37.000 --> 00:01:40.360
+et l'étude de la lumière dans le
+
+27
+00:01:40.360 --> 00:01:46.980
+vide, c'était en 384 jusqu'à 170
+
+28
+00:01:46.980 --> 00:01:48.240
+avant Jésus Christ.
+
+29
+00:01:48.840 --> 00:01:52.160
+Puis il y avait Ibn Haytem, c'était
+
+30
+00:01:52.160 --> 00:01:57.900
+en 965 jusqu'à 1039, il étudiait la
+
+31
+00:01:57.900 --> 00:02:00.060
+formation de l'image déjà au niveau de
+
+32
+00:02:00.060 --> 00:02:03.120
+l'œil et le concept de l'image.
+
+33
+00:02:03.120 --> 00:02:08.539
+Au XIIIe siècle, on étudiait les yeux de
+
+34
+00:02:08.539 --> 00:02:12.740
+miroir avec les rayons de lumière et la
+
+35
+00:02:12.740 --> 00:02:15.860
+décomposition de la lumière blanche en arc-en
+
+36
+00:02:15.860 --> 00:02:17.320
+-ciel grâce à des prismes.
+
+37
+00:02:17.320 --> 00:02:22.260
+Au XVIIe siècle, c'est les débats sur
+
+38
+00:02:22.260 --> 00:02:25.300
+la nature ondulaire au corpusculaire de la lumière.
+
+39
+00:02:26.340 --> 00:02:32.000
+D'ailleurs, c'est en 1637 que Descartes
+
+40
+00:02:32.000 --> 00:02:36.580
+a posé les lois dioptriques de l'optique.
+
+41
+00:02:38.520 --> 00:02:42.820
+Au XXe siècle, c'est l'ère de
+
+42
+00:02:42.820 --> 00:02:46.320
+la mécanique quantique, de l'électromagnétisme et de
+
+43
+00:02:46.320 --> 00:02:47.060
+l'optique physique.
+
+44
+00:02:52.340 --> 00:02:54.460
+Alors, quelques définitions.
+
+45
+00:02:54.760 --> 00:02:56.380
+L'optique, c'est quoi?
+
+46
+00:02:57.220 --> 00:03:00.400
+C'est la science qui étudie les propriétés
+
+47
+00:03:00.400 --> 00:03:03.760
+de la lumière et ses interactions avec la
+
+48
+00:03:03.760 --> 00:03:04.100
+matière.
+
+49
+00:03:05.020 --> 00:03:11.200
+Normalement, la lumière est une onde électromagnétique qui
+
+50
+00:03:11.200 --> 00:03:13.240
+se distingue des autres rayonnements par le fait
+
+51
+00:03:13.240 --> 00:03:16.340
+qu'elle correspond à la zone de sensibilité
+
+52
+00:03:16.340 --> 00:03:19.720
+de l'œil humain, la longueur de 400
+
+53
+00:03:19.720 --> 00:03:25.660
+à 780 nanomètres, et qui présente les propriétés
+
+54
+00:03:25.660 --> 00:03:27.080
+physiologiques d'être visible.
+
+55
+00:03:27.080 --> 00:03:34.510
+Donc, l'objet n'est perçu que lorsqu
+
+56
+00:03:34.510 --> 00:03:35.970
+'il y a de la lumière.
+
+57
+00:03:36.390 --> 00:03:39.170
+En obscurité, on ne peut pas percevoir les
+
+58
+00:03:39.170 --> 00:03:43.210
+objets et la lumière est réfléchie sur ces
+
+59
+00:03:43.210 --> 00:03:43.610
+objets.
+
+60
+00:03:44.630 --> 00:03:51.230
+De cette manière, les images sont transportées sous
+
+61
+00:03:51.230 --> 00:03:54.890
+forme de rayons réfléchis des objets.
+
+62
+00:03:56.150 --> 00:04:01.170
+L'énergie des photons lumineux est faible, donc
+
+63
+00:04:01.170 --> 00:04:03.570
+la lumière visible n'est pas ionisante.
+
+64
+00:04:05.530 --> 00:04:09.390
+La bande de fréquence des radiations électromagnétiques correspondant
+
+65
+00:04:09.390 --> 00:04:13.510
+à la lumière visible représente un très petit
+
+66
+00:04:13.510 --> 00:04:16.850
+espace, y compris entre 400 et 780 nanomètres.
+
+67
+00:04:17.589 --> 00:04:19.890
+Ils sont situés entre l'ultraviolet et l
+
+68
+00:04:19.890 --> 00:04:20.370
+'infrarouge.
+
+69
+00:04:21.670 --> 00:04:24.590
+Dans un milieu homogène, c'est-à-dire
+
+70
+00:04:24.590 --> 00:04:28.890
+qui est par exemple l'air, et isotrope,
+
+71
+00:04:30.490 --> 00:04:34.270
+la lumière se propage en ligne droite, et
+
+72
+00:04:34.270 --> 00:04:38.210
+le chemin optique a le temps de parcours
+
+73
+00:04:38.210 --> 00:04:38.950
+le plus court.
+
+74
+00:04:43.120 --> 00:04:46.080
+L'optique, c'est l'étude de l
+
+75
+00:04:46.080 --> 00:04:51.020
+'interaction de la lumière, le signal physique, avec
+
+76
+00:04:51.020 --> 00:04:59.180
+les objets et qui vont réfléchir l'image
+
+77
+00:04:59.180 --> 00:05:04.300
+vers l'organe sensoriel qui est l'œil.
+
+78
+00:05:09.200 --> 00:05:12.420
+L'œil humain est composé de plusieurs milieux
+
+79
+00:05:12.420 --> 00:05:14.100
+transparents.
+
+80
+00:05:14.100 --> 00:05:16.980
+On va voir que, en commençant par la
+
+81
+00:05:16.980 --> 00:05:19.720
+cornée, puis l'humeur aqueuse, l'humeur vitrée,
+
+82
+00:05:20.900 --> 00:05:22.360
+et entre les deux, il y a le
+
+83
+00:05:22.360 --> 00:05:26.020
+cristallin pour que l'image soit focalisée au
+
+84
+00:05:26.020 --> 00:05:28.760
+niveau de la fovea, ou la rétine centrale.
+
+85
+00:05:39.350 --> 00:05:42.310
+Les lois générales de l'optique géométrique.
+
+86
+00:05:43.690 --> 00:05:45.930
+D'abord le principe c'est que la
+
+87
+00:05:45.930 --> 00:05:50.270
+lumière se propage de manière rectiligne tant qu
+
+88
+00:05:50.270 --> 00:05:51.270
+'il n'y a pas de phénomène de
+
+89
+00:05:51.270 --> 00:05:51.830
+diffraction.
+
+90
+00:05:53.010 --> 00:05:54.850
+Et puis il y a les lois de
+
+91
+00:05:54.850 --> 00:05:59.730
+Descartes qui donnent la direction des rayons moins
+
+92
+00:05:59.730 --> 00:06:04.690
+réfléchis et réfractés sur la surface de séparation
+
+93
+00:06:04.690 --> 00:06:08.090
+de deux milieux homogènes des vis de réfraction
+
+94
+00:06:08.090 --> 00:06:09.050
+N1 et N2.
+
+95
+00:06:13.070 --> 00:06:15.270
+Les lois de Snell et Descartes.
+
+96
+00:06:17.110 --> 00:06:20.870
+Snell l'anglais et Descartes le français ont
+
+97
+00:06:20.870 --> 00:06:30.050
+étudié pour la physique optique les issues des
+
+98
+00:06:30.050 --> 00:06:33.910
+rayons incidents à travers un diodre.
+
+99
+00:06:33.910 --> 00:06:38.150
+Donc un rayon incident qui va frapper un
+
+100
+00:06:38.150 --> 00:06:41.410
+diodre qui est un milieu transparent séparant deux
+
+101
+00:06:41.410 --> 00:06:44.130
+milieux d'indices de réfraction différents.
+
+102
+00:06:44.790 --> 00:06:47.130
+Ce rayon incident va être réfléchi.
+
+103
+00:06:48.690 --> 00:06:50.850
+Et donc le rayon réfléchi et le rayon
+
+104
+00:06:50.850 --> 00:06:55.250
+incident est la normale entre ces deux rayons.
+
+105
+00:06:55.370 --> 00:06:57.970
+Ils sont contenus dans un plan d'incidence.
+
+106
+00:06:58.990 --> 00:07:02.470
+En plus que les angles incident et réfléchi
+
+107
+00:07:02.470 --> 00:07:03.390
+sont égaux.
+
+108
+00:07:03.390 --> 00:07:08.470
+Donc dans le schéma Alpha1 égale moins Alpha1
+
+109
+00:07:08.470 --> 00:07:11.570
+ou Theta1 égale moins Theta2.
+
+110
+00:07:15.370 --> 00:07:17.630
+Également les lois de la réfraction.
+
+111
+00:07:18.530 --> 00:07:22.450
+Il s'annonce qu'un angle incident quand
+
+112
+00:07:22.450 --> 00:07:26.530
+il va frapper un diodre va subir une
+
+113
+00:07:26.530 --> 00:07:30.470
+réfraction en fonction de l'indice de réfraction
+
+114
+00:07:30.470 --> 00:07:32.390
+de part et d'autre de cet angle.
+
+115
+00:07:32.390 --> 00:07:35.170
+C'est comme le cas de notre schéma
+
+116
+00:07:35.170 --> 00:07:44.420
+N1 Sin Theta1 égale N2 Sin Theta2
+
+117
+00:07:46.570 --> 00:07:55.450
+ou N1 Sin Alpha1 égale N2 Sin Alpha2
+
+118
+00:07:55.450 --> 00:07:56.590
+sur le schéma.
+
+119
+00:07:57.450 --> 00:08:02.570
+Et donc ces lois de réflexion et de
+
+120
+00:08:02.570 --> 00:08:10.030
+réfraction vont être étudiées également au niveau des
+
+121
+00:08:10.030 --> 00:08:10.830
+deux octets de l'œil.
+
+122
+00:08:12.200 --> 00:08:17.500
+Donc déjà on parlait du paramètre indice de
+
+123
+00:08:17.500 --> 00:08:18.480
+réfraction N.
+
+124
+00:08:19.860 --> 00:08:22.580
+N c'est un rapport de deux vitesses
+
+125
+00:08:22.580 --> 00:08:27.140
+de la lumière qui est égale à C.
+
+126
+00:08:27.340 --> 00:08:28.660
+C'est la vitesse de la lumière dans
+
+127
+00:08:28.660 --> 00:08:31.980
+le vide sur la vitesse de la lumière
+
+128
+00:08:31.980 --> 00:08:35.659
+dans le milieu qu'on veut étudier.
+
+129
+00:08:35.659 --> 00:08:36.960
+Ça peut être l'air, ça peut être
+
+130
+00:08:36.960 --> 00:08:37.240
+l'eau.
+
+131
+00:08:38.340 --> 00:08:40.440
+Et donc ce rapport n'a pas d
+
+132
+00:08:40.440 --> 00:08:44.000
+'unité et il est supérieur à 1 puisque
+
+133
+00:08:44.000 --> 00:08:45.900
+la vitesse de la lumière dans le vide
+
+134
+00:08:45.900 --> 00:08:49.240
+est la plus grande de toutes les vitesses.
+
+135
+00:08:53.420 --> 00:08:55.700
+Ainsi l'indice de réfraction de l'air
+
+136
+00:08:55.700 --> 00:08:57.580
+est à peu près égal à 1.
+
+137
+00:08:58.260 --> 00:09:00.860
+1,00029.
+
+138
+00:09:01.640 --> 00:09:04.080
+L'indice de réfraction de l'eau est
+
+139
+00:09:04.080 --> 00:09:05.560
+égal à 1,33.
+
+140
+00:09:06.440 --> 00:09:08.620
+L'indice de réfraction du verre est égal
+
+141
+00:09:08.620 --> 00:09:09.520
+à 1,5.
+
+142
+00:09:09.860 --> 00:09:11.720
+Et le plus grand indice qui existe c
+
+143
+00:09:11.720 --> 00:09:15.280
+'est le diamant qui est de 2,5.
+
+144
+00:09:15.960 --> 00:09:18.740
+Donc on voit que la lumière se propage
+
+145
+00:09:18.740 --> 00:09:21.720
+plus lentement dans l'eau que dans l
+
+146
+00:09:21.720 --> 00:09:21.840
+'air.
+
+147
+00:09:25.640 --> 00:09:27.860
+On revient à l'optique géométrique.
+
+148
+00:09:28.200 --> 00:09:32.360
+C'est une approximation que l'on suppose
+
+149
+00:09:32.360 --> 00:09:36.120
+lorsque la longueur d'onde du signal qui
+
+150
+00:09:36.120 --> 00:09:38.840
+est la lumière est petite par rapport aux
+
+151
+00:09:38.840 --> 00:09:39.760
+instruments de mesure.
+
+152
+00:09:40.760 --> 00:09:43.660
+La lumière se propage à l'une de
+
+153
+00:09:43.660 --> 00:09:46.420
+manière rectiligne dans un milieu homogène.
+
+154
+00:09:48.100 --> 00:09:51.360
+Les rayons lumineux sont indépendants les uns des
+
+155
+00:09:51.360 --> 00:09:51.780
+autres.
+
+156
+00:09:54.060 --> 00:09:58.440
+Dans un milieu homogène, transparent et isotrope, les
+
+157
+00:09:58.440 --> 00:10:00.720
+rayons lumineux sont des lignes droites.
+
+158
+00:10:02.280 --> 00:10:05.880
+Et la surface de séparation des deux milieux
+
+159
+00:10:05.880 --> 00:10:10.620
+d'orient lumineux obéissent aux lois de Snell
+
+160
+00:10:10.620 --> 00:10:11.920
+-Descartes que l'on vient de voir.
+
+161
+00:10:13.020 --> 00:10:16.500
+C'est le principe de retour inverse de
+
+162
+00:10:16.500 --> 00:10:17.220
+la lumière.
+
+163
+00:10:17.220 --> 00:10:22.400
+C'est quoi un dioptre ?
+
+164
+00:10:22.400 --> 00:10:25.700
+Un dioptre c'est une surface qui sépare
+
+165
+00:10:25.700 --> 00:10:29.500
+deux milieux transparents et homogènes d'indices de
+
+166
+00:10:29.500 --> 00:10:31.140
+réfraction différentes.
+
+167
+00:10:31.220 --> 00:10:34.360
+Il dévide tous les rayons qui ne frappent
+
+168
+00:10:34.360 --> 00:10:36.900
+pas perpendiculairement.
+
+169
+00:10:39.940 --> 00:10:42.560
+La définition d'un système optique.
+
+170
+00:10:43.020 --> 00:10:46.560
+Un système optique c'est un ensemble d
+
+171
+00:10:46.560 --> 00:10:49.520
+'un certain nombre de milieux séparés par des
+
+172
+00:10:49.520 --> 00:10:50.240
+dioptres.
+
+173
+00:10:51.200 --> 00:10:54.100
+C'est un dispositif qui assure une correspondance
+
+174
+00:10:54.100 --> 00:10:56.240
+entre un objet et une image.
+
+175
+00:10:58.020 --> 00:11:00.280
+L'axe optique c'est l'axe de
+
+176
+00:11:00.280 --> 00:11:03.760
+symétrie de ce système optique.
+
+177
+00:11:04.260 --> 00:11:07.140
+L'œil c'est un système optique puisqu
+
+178
+00:11:07.140 --> 00:11:10.440
+'il est composé de plusieurs milieux transparents et
+
+179
+00:11:10.440 --> 00:11:13.180
+de plusieurs dioptres et qui sépare deux milieux
+
+180
+00:11:13.180 --> 00:11:17.060
+d'indices de réfraction différents qui sont l
+
+181
+00:11:17.060 --> 00:11:19.700
+'air et l'eau à l'intérieur de
+
+182
+00:11:19.700 --> 00:11:20.040
+l'œil.
+
+183
+00:11:21.640 --> 00:11:29.460
+Un dioptre stigmatique est un dioptre qui donne
+
+184
+00:11:29.460 --> 00:11:32.380
+d'un point ou d'un objet ponctuel
+
+185
+00:11:32.380 --> 00:11:33.600
+une image ponctuelle.
+
+186
+00:11:34.420 --> 00:11:37.080
+A tout point de l'espace objet P
+
+187
+00:11:37.080 --> 00:11:39.440
+il correspond d'une façon unique à un
+
+188
+00:11:39.440 --> 00:11:45.010
+point de l'espace image I et il
+
+189
+00:11:45.010 --> 00:11:46.490
+y a le principe de retour inverse de
+
+190
+00:11:46.490 --> 00:11:46.950
+la lumière.
+
+191
+00:11:47.770 --> 00:11:51.910
+A tout objet situé en I il correspond
+
+192
+00:11:51.910 --> 00:11:53.510
+une image située en P.
+
+193
+00:11:54.090 --> 00:11:57.690
+Les points P et I sont conjugués l
+
+194
+00:11:57.690 --> 00:11:58.730
+'un de l'autre.
+
+195
+00:11:58.730 --> 00:12:08.470
+Un dioptre sphérique n'est pas
+
+196
+00:12:08.470 --> 00:12:14.710
+stigmatique mais on peut le considérer approximativement comme
+
+197
+00:12:14.710 --> 00:12:18.190
+stigmatique dans le cas où le faisceau incident
+
+198
+00:12:18.190 --> 00:12:19.270
+est très étroit.
+
+199
+00:12:20.770 --> 00:12:23.350
+Il est peu incliné sur le diamètre du
+
+200
+00:12:23.350 --> 00:12:28.430
+dioptre et également peu éloigné de l'axe
+
+201
+00:12:28.430 --> 00:12:28.910
+optique.
+
+202
+00:12:28.910 --> 00:12:32.490
+C'est les conditions ou les approximations de
+
+203
+00:12:32.490 --> 00:12:36.970
+Gauss qu'on va les appliquer pour les
+
+204
+00:12:36.970 --> 00:12:37.870
+dioptres de l'œil.
+
+205
+00:12:37.870 --> 00:12:44.090
+Les convergences et les divergences de dioptres.
+
+206
+00:12:44.470 --> 00:12:52.110
+Un dioptre convergent en un point situé sur
+
+207
+00:12:52.110 --> 00:12:53.010
+l'axe optique.
+
+208
+00:12:53.670 --> 00:12:55.090
+C'est le foyer image FI.
+
+209
+00:12:57.570 --> 00:12:59.350
+Un dioptre concave.
+
+210
+00:12:59.930 --> 00:13:03.950
+Les rayons qui proviennent de l'infini sont
+
+211
+00:13:03.950 --> 00:13:09.530
+diverses et le prolongement des rayons rétractés est
+
+212
+00:13:09.530 --> 00:13:14.010
+dans le foyer image FI qui est virtuel.
+
+213
+00:13:14.010 --> 00:13:18.630
+La puissance d'un dioptre.
+
+214
+00:13:19.330 --> 00:13:22.510
+Cette notion est très importante dans le cours
+
+215
+00:13:22.510 --> 00:13:25.470
+qui va suivre et il va nous renseigner
+
+216
+00:13:25.470 --> 00:13:29.370
+sur la puissance de chaque dioptre de l
+
+217
+00:13:29.370 --> 00:13:33.110
+'œil en fonction des indices de réfraction et
+
+218
+00:13:33.110 --> 00:13:35.750
+des rayons de courbure de ce dioptre.
+
+219
+00:13:35.750 --> 00:13:40.010
+La puissance d'un dioptre c'est un
+
+220
+00:13:40.010 --> 00:13:42.490
+rapport entre les indices de réfraction de paré
+
+221
+00:13:42.490 --> 00:13:45.710
+d'autre d'un dioptre et le rayon
+
+222
+00:13:45.710 --> 00:13:48.730
+de courbure de ce dioptre en valeur algébrique
+
+223
+00:13:48.730 --> 00:13:51.270
+en mètre.
+
+224
+00:13:51.270 --> 00:13:54.470
+Pour le rayon de courbure c'est en
+
+225
+00:13:54.470 --> 00:13:54.750
+mètre.
+
+226
+00:13:55.090 --> 00:13:58.510
+Et donc la puissance d'un dioptre ou
+
+227
+00:13:58.510 --> 00:14:00.870
+dioptrie c'est en mètre moins un.
+
+228
+00:14:01.950 --> 00:14:06.670
+Exemple le cas de l'œil qui sépare
+
+229
+00:14:06.670 --> 00:14:07.710
+l'eau et l'air.
+
+230
+00:14:08.490 --> 00:14:10.730
+Les indices de réfraction n1 pour l'air
+
+231
+00:14:10.730 --> 00:14:12.090
+est égale à 1 et pour l'eau
+
+232
+00:14:12.090 --> 00:14:18.070
+est égale à 1.33 et le cornet
+
+233
+00:14:18.070 --> 00:14:25.420
+c'est le dioptre entre les deux milieux.
+
+234
+00:14:27.180 --> 00:14:30.180
+Selon les valeurs de n1, n2 et r,
+
+235
+00:14:31.780 --> 00:14:34.040
+les dioptres peuvent être convexes ou concaves.
+
+236
+00:14:47.350 --> 00:14:52.590
+Exemple dioptre de l'œil, le rayon de
+
+237
+00:14:52.590 --> 00:14:55.650
+courbure de la cornée est d'à peu
+
+238
+00:14:55.650 --> 00:14:56.730
+près égal à 10 mm.
+
+239
+00:14:57.750 --> 00:15:04.250
+Et donc la puissance de ce dioptre est
+
+240
+00:15:04.250 --> 00:15:06.390
+entre les milieux aérien et l'air qui
+
+241
+00:15:06.390 --> 00:15:09.470
+est 1 et 1.33. Et donc la
+
+242
+00:15:09.470 --> 00:15:13.370
+puissance de dioptre est de 1.33-1
+
+243
+00:15:13.370 --> 00:15:17.210
+sur 0.01 qui est 33 dioptrie.
+
+244
+00:15:21.280 --> 00:15:27.580
+Convention pour les physiciens, la lumière vient de
+
+245
+00:15:27.580 --> 00:15:30.220
+moins l'infini vers plus l'infini.
+
+246
+00:15:32.320 --> 00:15:34.000
+Cela veut dire que tout ce qui est
+
+247
+00:15:34.000 --> 00:15:39.220
+en avant du dioptre est négatif et tout
+
+248
+00:15:39.220 --> 00:15:40.740
+ce qui est en arrière du dioptre est
+
+249
+00:15:40.740 --> 00:15:41.360
+positif.
+
+250
+00:15:41.360 --> 00:15:44.680
+Donc l'espace objet est situé en avant
+
+251
+00:15:44.680 --> 00:15:48.020
+du dioptre, l'espace image est en arrière
+
+252
+00:15:48.020 --> 00:15:51.980
+du dioptre, l'axe optique est orienté dans
+
+253
+00:15:51.980 --> 00:15:55.320
+le sens de propagation de la lumière, c
+
+254
+00:15:55.320 --> 00:15:58.020
+'est à dire du gauche à droite et
+
+255
+00:16:01.320 --> 00:16:03.480
+les distances sont notées algébriquement.
+
+256
+00:16:04.980 --> 00:16:08.640
+Il y a les relations de conjugaison dans
+
+257
+00:16:08.640 --> 00:16:10.740
+un dioptre.
+
+258
+00:16:12.220 --> 00:16:20.920
+La relation de conjugaison dit qu'il y
+
+259
+00:16:20.920 --> 00:16:22.540
+a une loi, c'est la loi de
+
+260
+00:16:22.540 --> 00:16:26.180
+vergence de l'image qui est égale à
+
+261
+00:16:26.180 --> 00:16:28.940
+la vergence de l'objet plus la puissance
+
+262
+00:16:28.940 --> 00:16:35.740
+du dioptre et qui correspond sur le schéma
+
+263
+00:16:35.740 --> 00:16:37.180
+ci-contre.
+
+264
+00:16:38.100 --> 00:16:41.420
+Lorsqu'on a N2, l'indice de réfraction
+
+265
+00:16:41.420 --> 00:16:44.200
+du milieu derrière le dioptre qui est sur
+
+266
+00:16:44.200 --> 00:16:50.380
+SP1 ou SP', le P' c'est le
+
+267
+00:16:50.380 --> 00:16:54.860
+foyer image, moins N1 sur SP égale la
+
+268
+00:16:54.860 --> 00:16:58.640
+puissance et également on a la puissance égale
+
+269
+00:16:58.640 --> 00:17:04.740
+N2 moins N1 sur SC, le rayon du
+
+270
+00:17:04.740 --> 00:17:05.119
+cordon.
+
+271
+00:17:05.119 --> 00:17:08.440
+Donc on peut faire une égalité entre les
+
+272
+00:17:08.440 --> 00:17:16.359
+deux valeurs N2 SP' moins N1 sur SP
+
+273
+00:17:16.359 --> 00:17:21.940
+égale N2 moins N1 sur SC et elle
+
+274
+00:17:21.940 --> 00:17:23.560
+est égale à la puissance.
+
+275
+00:17:25.440 --> 00:17:28.880
+Donc la puissance d'un dioptre, il peut
+
+276
+00:17:28.880 --> 00:17:33.700
+être convergent quand le rayon du cordon SC
+
+277
+00:17:33.700 --> 00:17:36.100
+est inférieur à 0 et donc la puissance
+
+278
+00:17:36.100 --> 00:17:36.940
+est positive.
+
+279
+00:17:38.440 --> 00:17:41.960
+Lorsqu'il est divergent, le dioptre a un
+
+280
+00:17:41.960 --> 00:17:45.900
+rayon du cordon SC qui est inférieur à
+
+281
+00:17:45.900 --> 00:17:49.900
+0 et donc la puissance est inférieure à
+
+282
+00:17:49.900 --> 00:17:50.080
+0.
+
+283
+00:17:52.870 --> 00:17:57.530
+La proximité, on va voir que la proximité
+
+284
+00:17:57.530 --> 00:18:03.310
+c'est un point qui est exprimé par
+
+285
+00:18:03.310 --> 00:18:07.370
+l'inverse de la distance le séparant du
+
+286
+00:18:07.370 --> 00:18:07.730
+sommet.
+
+287
+00:18:08.870 --> 00:18:13.250
+Donc le P' c'est un point alors
+
+288
+00:18:13.250 --> 00:18:15.710
+que la proximité c'est 1 sur la
+
+289
+00:18:15.710 --> 00:18:22.130
+distance du point au sommet du dioptre.
+
+290
+00:18:23.310 --> 00:18:25.870
+Donc on va voir que le P' c
+
+291
+00:18:25.870 --> 00:18:29.070
+'est un point qui est en avant de
+
+292
+00:18:29.070 --> 00:18:38.190
+la cornée et qui va renseigner sur les
+
+293
+00:18:38.190 --> 00:18:41.370
+amétrophies de la vision.
+
+294
+00:18:44.680 --> 00:18:52.200
+Donc la proximité est une puissance et il
+
+295
+00:18:52.200 --> 00:18:55.080
+est en mètre à demoiselle également en dioptrie.
+
+296
+00:18:56.380 --> 00:18:59.760
+La proximité de P égale 1 sur P
+
+297
+00:18:59.760 --> 00:19:04.500
+égale inférieur à 0 et la proximité de
+
+298
+00:19:04.500 --> 00:19:07.040
+FI égale 1 sur F et elle est
+
+299
+00:19:07.040 --> 00:19:07.860
+supérieure à 0.
+
+300
+00:19:11.690 --> 00:19:13.610
+On va voir les lentilles.
+
+301
+00:19:17.580 --> 00:19:19.380
+Donc tout ce qu'on est en train
+
+302
+00:19:19.380 --> 00:19:23.500
+d'étudier, il est appliqué à la vision
+
+303
+00:19:23.500 --> 00:19:24.780
+de l'œil humain.
+
+304
+00:19:25.480 --> 00:19:26.800
+Donc on a vu les dioptres.
+
+305
+00:19:26.880 --> 00:19:28.220
+Les dioptres, on va voir que c'est
+
+306
+00:19:28.220 --> 00:19:30.840
+les dioptres cornéens, antérieur, postérieur.
+
+307
+00:19:32.260 --> 00:19:36.600
+Et puis les milieux d'indices de réfraction
+
+308
+00:19:36.600 --> 00:19:40.900
+différentes, sigmo-raqueuse, lima, vitrée et l'air.
+
+309
+00:19:41.620 --> 00:19:44.300
+Et après il y a également les lentilles.
+
+310
+00:19:44.480 --> 00:19:46.020
+Les lentilles c'est le cristallin de l
+
+311
+00:19:46.020 --> 00:19:46.160
+'œil.
+
+312
+00:19:46.680 --> 00:19:48.820
+Donc une lentille est un mythe transparent limité
+
+313
+00:19:48.820 --> 00:19:51.900
+par deux surfaces dont l'une au moins
+
+314
+00:19:51.900 --> 00:19:52.900
+est sphérique.
+
+315
+00:19:55.400 --> 00:19:57.640
+Alors qu'une lentille elle est dite mince
+
+316
+00:19:57.640 --> 00:20:00.100
+si son épaisseur est plus faible devant son
+
+317
+00:20:00.100 --> 00:20:00.540
+diamètre.
+
+318
+00:20:10.070 --> 00:20:14.090
+Ou la lentille peut être également convergente comme
+
+319
+00:20:14.090 --> 00:20:16.070
+il peut être divergente.
+
+320
+00:20:22.310 --> 00:20:26.930
+Donc on va voir que les rayons qui
+
+321
+00:20:26.930 --> 00:20:33.230
+viennent de l'infini peuvent être réfractés en
+
+322
+00:20:33.230 --> 00:20:38.650
+fonction du type de lentilles et de leur
+
+323
+00:20:38.650 --> 00:20:39.570
+puissance également.
+
+324
+00:20:44.210 --> 00:20:47.130
+Une lentille convergente, c'est une lentille qui
+
+325
+00:20:47.130 --> 00:20:49.810
+converge le rayon lumineux.
+
+326
+00:20:50.970 --> 00:20:53.110
+Un rayon lumineux qui vient de l'infini
+
+327
+00:20:53.110 --> 00:20:57.350
+va être convergé vers un point Fi tel
+
+328
+00:21:00.960 --> 00:21:09.380
+que la puissance d'X est supérieure à
+
+329
+00:21:09.380 --> 00:21:09.720
+0.
+
+330
+00:21:10.140 --> 00:21:14.260
+Une lentille divergente c'est une lentille qui
+
+331
+00:21:14.260 --> 00:21:17.040
+va diverger un rayon et la puissance est
+
+332
+00:21:17.040 --> 00:21:17.920
+inférieure à 0.
+
+333
+00:21:19.360 --> 00:21:26.200
+L'association de lentilles, on peut faire associer
+
+334
+00:21:26.200 --> 00:21:32.060
+plusieurs lentilles d'un nombre N qui sont
+
+335
+00:21:32.060 --> 00:21:33.320
+minces et accolées.
+
+336
+00:21:33.700 --> 00:21:35.460
+Les applications des lentilles on va voir qu
+
+337
+00:21:35.460 --> 00:21:38.600
+'on peut les utiliser dans la correction des
+
+338
+00:21:38.600 --> 00:21:41.880
+améthopes de la vision en plaçant les lentilles
+
+339
+00:21:41.880 --> 00:21:42.760
+devant la cornée.
+
+340
+00:21:42.760 --> 00:21:50.890
+L'équation de conjugaison d'une lentille mince
+
+341
+00:21:50.890 --> 00:21:54.890
+dans un système optique qui est composé par
+
+342
+00:21:54.890 --> 00:22:00.810
+un axe optique, une lentille, un centre optique
+
+343
+00:22:00.810 --> 00:22:02.710
+et un objet.
+
+344
+00:22:03.990 --> 00:22:06.850
+Il va y avoir une projection de cet
+
+345
+00:22:06.850 --> 00:22:11.210
+objet par les rayons lumineux à travers le
+
+346
+00:22:11.210 --> 00:22:12.370
+diode qui est la lentille.
+
+347
+00:22:14.110 --> 00:22:19.850
+L'image est inversée au niveau du point
+
+348
+00:22:19.850 --> 00:22:20.210
+focal.
+
+349
+00:22:20.210 --> 00:22:23.970
+Et on a la relation de l'émonsuration
+
+350
+00:22:23.970 --> 00:22:29.010
+de l'objet AB et de l'émonsuration
+
+351
+00:22:29.010 --> 00:22:32.630
+de l'image A'B' tel que le
+
+352
+00:22:32.630 --> 00:22:38.150
+grandissement de AB à A'B' sur AB
+
+353
+00:22:38.150 --> 00:22:46.870
+est une valeur constante et qui égale
+
+354
+00:22:46.870 --> 00:22:52.750
+la distance OA' sur OA.
+
+355
+00:22:52.750 --> 00:23:00.280
+Donc c'est l'équation de conjugaison entre
+
+356
+00:23:00.280 --> 00:23:01.800
+l'objet et l'image.
+
+357
+00:23:04.420 --> 00:23:08.080
+Les mouvements relatifs entre l'objet et l
+
+358
+00:23:08.080 --> 00:23:08.320
+'image.
+
+359
+00:23:08.960 --> 00:23:11.640
+Donc on a la relation N2 sur SP'
+
+360
+00:23:12.000 --> 00:23:17.720
+égale N1 sur SP plus la puissance pour
+
+361
+00:23:17.720 --> 00:23:21.220
+un diode convergent avec une puissance qui est
+
+362
+00:23:21.220 --> 00:23:22.000
+inchangée.
+
+363
+00:23:22.000 --> 00:23:27.740
+Lorsque le point objet B est situé dans
+
+364
+00:23:27.740 --> 00:23:29.640
+l'indice le plus faible, c'est le
+
+365
+00:23:29.640 --> 00:23:32.740
+cas de l'air, il se rapproche du
+
+366
+00:23:32.740 --> 00:23:33.600
+diode S.
+
+367
+00:23:34.100 --> 00:23:39.120
+Son image P' s'éloigne puisqu'on a
+
+368
+00:23:39.120 --> 00:23:45.200
+cette relation N2S' égale N1 sur SP plus
+
+369
+00:23:45.200 --> 00:23:47.720
+la puissance réciproquement.
+
+370
+00:23:54.180 --> 00:23:58.680
+Les dioptriques oculaires sont
+
+371
+00:23:58.680 --> 00:24:08.440
+composés de 4 rayons de
+
+372
+00:24:08.440 --> 00:24:16.090
+curvature, 4 indices de réfraction et 3 épaisseurs.
+
+373
+00:24:17.190 --> 00:24:21.650
+On va voir élément par élément.
+
+374
+00:24:21.650 --> 00:24:28.500
+L'œil est un petit organe de 7
+
+375
+00:24:28.500 --> 00:24:33.680
+cm3 et 12 mm de rayon de curvature.
+
+376
+00:24:36.940 --> 00:24:45.300
+Il contient le premier diode qui est exposé
+
+377
+00:24:45.300 --> 00:24:48.340
+au milieu extérieur qui est l'air, c
+
+378
+00:24:48.340 --> 00:24:50.160
+'est la corneille qui a un rayon de
+
+379
+00:24:50.160 --> 00:24:53.600
+8 mm et il contient un petit diaphragme
+
+380
+00:24:53.600 --> 00:24:54.480
+qui virilise.
+
+381
+00:24:54.480 --> 00:24:58.120
+La corneille est une membrane qui est transparente
+
+382
+00:24:58.120 --> 00:25:00.860
+et qui est directement en contact avec l
+
+383
+00:25:00.860 --> 00:25:01.280
+'extérieur.
+
+384
+00:25:01.980 --> 00:25:03.900
+Il faut savoir que la corneille est l
+
+385
+00:25:03.900 --> 00:25:06.940
+'organe le plus énervé et il n'est
+
+386
+00:25:06.940 --> 00:25:10.200
+pas vascularisé donc il est nutré à partir
+
+387
+00:25:10.200 --> 00:25:11.400
+de l'humeur aqueuse.
+
+388
+00:25:13.280 --> 00:25:15.700
+L'humeur aqueuse c'est un liquide qui
+
+389
+00:25:15.700 --> 00:25:19.420
+est transparent et qui maintient la pression et
+
+390
+00:25:19.420 --> 00:25:20.800
+la forme globale oculaire.
+
+391
+00:25:21.500 --> 00:25:23.820
+Son indice de réfraction est celui de l
+
+392
+00:25:23.820 --> 00:25:24.800
+'eau 1,33.
+
+393
+00:25:28.300 --> 00:25:31.860
+L'iris est un diaphragme qui permet de
+
+394
+00:25:31.860 --> 00:25:35.520
+contrôler la quantité de la lumière qui pénètre
+
+395
+00:25:35.520 --> 00:25:39.580
+dans l'œil, c'est un pigment qui
+
+396
+00:25:39.580 --> 00:25:41.760
+donne la couleur de l'œil.
+
+397
+00:25:42.660 --> 00:25:47.340
+La pupille c'est un orifice central de
+
+398
+00:25:47.340 --> 00:25:47.980
+l'iris.
+
+399
+00:25:48.120 --> 00:25:51.400
+L'iris est composé par des fibres musculaires,
+
+400
+00:25:51.580 --> 00:25:59.060
+circulaires et linéaires qui vont se contracter et
+
+401
+00:25:59.060 --> 00:26:00.920
+se dilater en fonction de la luminosité.
+
+402
+00:26:05.220 --> 00:26:08.340
+Toujours dans la description de l'œil, il
+
+403
+00:26:08.340 --> 00:26:12.440
+y a le cristallin, c'est une lentille
+
+404
+00:26:12.440 --> 00:26:16.140
+qui effectue la mise au point et qui
+
+405
+00:26:16.140 --> 00:26:21.120
+permet d'obtenir la luminosité à toute distance
+
+406
+00:26:21.120 --> 00:26:26.300
+proche de l'œil.
+
+407
+00:26:26.460 --> 00:26:28.680
+Son indice de réfraction est de 1,42
+
+408
+00:26:28.680 --> 00:26:31.040
+puis il y a l'humeur vitrée.
+
+409
+00:26:32.260 --> 00:26:35.180
+C'est un liquide gélatineux qui donne à
+
+410
+00:26:35.180 --> 00:26:38.880
+l'œil sa forme et sa consistance.
+
+411
+00:26:39.900 --> 00:26:42.360
+Son indice de réfraction est de 1,33.
+
+412
+00:26:44.120 --> 00:26:48.960
+Enfin on a la rétine, c'est là
+
+413
+00:26:48.960 --> 00:26:51.420
+où il y a le foyer images et
+
+414
+00:26:51.420 --> 00:26:52.620
+c'est la partie sensible de l'œil
+
+415
+00:26:52.620 --> 00:26:56.200
+sur laquelle est détectée l'information lumineuse.
+
+416
+00:26:57.060 --> 00:26:59.840
+De la rétine, il est acheminé le nerf
+
+417
+00:26:59.840 --> 00:27:03.880
+optique qui est constitué d'environ 1 million
+
+418
+00:27:03.880 --> 00:27:06.160
+de fibres et qui a pour rôle de
+
+419
+00:27:06.160 --> 00:27:11.740
+transmettre l'image rétinienne qui est sous forme
+
+420
+00:27:11.740 --> 00:27:15.080
+de réaction chimique au niveau du photorécepteur vers
+
+421
+00:27:15.080 --> 00:27:16.160
+le cerveau.
+
+422
+00:27:18.580 --> 00:27:22.580
+L'œil schématique et les puissances.
+
+423
+00:27:22.580 --> 00:27:29.200
+Le diotre cornéen antérieur est divergent et a
+
+424
+00:27:29.200 --> 00:27:31.800
+une puissance de 48 dioterie.
+
+425
+00:27:32.540 --> 00:27:34.340
+C'est le plus puissant diotre de l
+
+426
+00:27:34.340 --> 00:27:34.480
+'œil.
+
+427
+00:27:35.300 --> 00:27:40.760
+Le diotre cornéen postérieur est divergent et a
+
+428
+00:27:40.760 --> 00:27:43.640
+une puissance de moins 6 dioterie.
+
+429
+00:27:44.640 --> 00:27:48.300
+La cornée peut être remplacée par un diotre
+
+430
+00:27:48.300 --> 00:27:52.460
+unique convergent de 42 dioterie plus 48 moins
+
+431
+00:27:52.460 --> 00:27:55.440
+6 c'est 42 donc la somme de
+
+432
+00:27:55.440 --> 00:27:57.180
+deux puissances.
+
+433
+00:27:59.620 --> 00:28:03.200
+Les diotres cristalliniens antérieur et postérieur sont convergents
+
+434
+00:28:03.200 --> 00:28:06.380
+mais le rayon de courbure est variable.
+
+435
+00:28:06.380 --> 00:28:09.760
+On va voir qu'ils s'adaptent à
+
+436
+00:28:09.760 --> 00:28:17.780
+la vision à la distance rapprochée à l
+
+437
+00:28:17.780 --> 00:28:18.020
+'œil.
+
+438
+00:28:21.830 --> 00:28:25.570
+On revient sur le different diotre de l
+
+439
+00:28:25.570 --> 00:28:29.990
+'œil qui est composé par le diotre cornéen
+
+440
+00:28:29.990 --> 00:28:36.410
+antérieur dont la puissance est de 48 dioterie.
+
+441
+00:28:37.430 --> 00:28:39.970
+N2 est l'indice de réfraction de la
+
+442
+00:28:39.970 --> 00:28:42.630
+cornée qui est 1,377.
+
+443
+00:28:43.030 --> 00:28:44.870
+N1 est l'indice de réfraction de l
+
+444
+00:28:44.870 --> 00:28:45.930
+'âme qui est égal à 1.
+
+445
+00:28:46.890 --> 00:28:49.610
+La puissance est N2-N1 donc c'est
+
+446
+00:28:49.610 --> 00:28:57.850
+1,377-1 sur 7,830-3 mètres
+
+447
+00:28:57.850 --> 00:28:59.490
+ce qui va nous donner la puissance de
+
+448
+00:28:59.490 --> 00:29:00.370
+48 dioterie.
+
+449
+00:29:01.730 --> 00:29:08.910
+Pour la cornée postérieure, il sépare l'humoracle
+
+450
+00:29:08.910 --> 00:29:11.330
+de la cornée.
+
+451
+00:29:11.330 --> 00:29:15.410
+Donc la différence entre les deux indices de
+
+452
+00:29:15.410 --> 00:29:21.390
+réfraction N2-N1 est 1,337-1.
+
+453
+00:29:21.570 --> 00:29:25.390
+C'est une valeur négative sur le rayon
+
+454
+00:29:25.390 --> 00:29:26.650
+qui est une valeur positive.
+
+455
+00:29:26.830 --> 00:29:29.130
+Donc on va avoir une puissance négative et
+
+456
+00:29:29.130 --> 00:29:30.570
+donc c'est un diotre qui est divergent.
+
+457
+00:29:33.560 --> 00:29:37.200
+Le diotre cristallin antérieur c'est un diotre
+
+458
+00:29:37.200 --> 00:29:40.640
+qui sépare le cristallin dont l'indice de
+
+459
+00:29:40.640 --> 00:29:45.480
+réfraction est 1,42 et l'humoracle qui
+
+460
+00:29:45.480 --> 00:29:49.380
+est de l'eau 1,33.
+
+461
+00:29:50.540 --> 00:29:52.860
+Et le rayon de courbure est de 10
+
+462
+00:29:52.860 --> 00:29:54.980
+-10-3 mètres.
+
+463
+00:29:54.980 --> 00:29:58.460
+Et donc le rapport N2-N1 sur R
+
+464
+00:29:58.460 --> 00:30:01.280
+égale 8 dioterie.
+
+465
+00:30:01.920 --> 00:30:07.380
+Enfin le diotre cristallin postérieur il sépare le
+
+466
+00:30:07.380 --> 00:30:10.000
+vitré ou l'humor vitré du cristallin.
+
+467
+00:30:10.360 --> 00:30:16.740
+Donc la puissance égale N2-N1 donc 1
+
+468
+00:30:16.740 --> 00:30:22.880
+,33-1,4 Mais le rayon il est
+
+469
+00:30:22.880 --> 00:30:26.020
+négatif donc sur 6,7 ce qui va
+
+470
+00:30:26.020 --> 00:30:27.980
+nous donner le 14 diotre.
+
+471
+00:30:32.800 --> 00:30:41.600
+Schématiquement il est donc un ensemble de diotres
+
+472
+00:30:41.600 --> 00:30:50.080
+dont l'iris est un diaphragme qui limite
+
+473
+00:30:50.080 --> 00:30:53.180
+la quantité de la lumière et qui maintient
+
+474
+00:30:53.180 --> 00:30:54.300
+les conditions de Gauss.
+
+475
+00:30:55.200 --> 00:30:59.000
+La chambre antérieure il contient l'humoracle qui
+
+476
+00:30:59.000 --> 00:31:03.680
+est un milieu physiologiquement transparent homogène et isotrope
+
+477
+00:31:03.680 --> 00:31:06.340
+donc l'indice est celui de l'eau.
+
+478
+00:31:06.640 --> 00:31:09.480
+Et la chambre postérieure il contient le vitré
+
+479
+00:31:09.480 --> 00:31:15.480
+qui est également transparent homogène et isotrope et
+
+480
+00:31:15.480 --> 00:31:16.980
+l'indice de réfraction est celui de l
+
+481
+00:31:16.980 --> 00:31:17.080
+'eau.
+
+482
+00:31:17.940 --> 00:31:20.640
+Donc les images pour être vues nettement elles
+
+483
+00:31:20.640 --> 00:31:24.500
+doivent être formées sur la rétine.
+
+484
+00:31:25.160 --> 00:31:28.340
+Et la puissance globale au repos de l
+
+485
+00:31:28.340 --> 00:31:31.000
+'œil il est de 60 dioterie plus ou
+
+486
+00:31:31.000 --> 00:31:46.650
+moins 3,7 Le
+
+487
+00:31:46.650 --> 00:31:50.330
+schéma qui est devant nous il montre que
+
+488
+00:31:50.330 --> 00:31:53.350
+pour former une image les rayons vont subir
+
+489
+00:31:53.350 --> 00:31:58.230
+plusieurs réfractions au niveau des différents diotres de
+
+490
+00:31:58.230 --> 00:31:58.910
+l'œil.
+
+491
+00:31:58.910 --> 00:32:05.650
+Et donc le foyer image il est situé
+
+492
+00:32:05.650 --> 00:32:08.570
+au niveau de la fovea ou la rétine
+
+493
+00:32:08.570 --> 00:32:16.270
+centrale qui est composée principalement par des cellules
+
+494
+00:32:16.270 --> 00:32:18.230
+à cônes de la rétine.
+
+495
+00:32:18.910 --> 00:32:22.830
+Alors que la rétine périphérique qui est composée
+
+496
+00:32:22.830 --> 00:32:25.050
+par des cônes et des bâtonnets.
+
+497
+00:32:40.010 --> 00:32:44.550
+Donc le fonctionnement de la rétine après l
+
+498
+00:32:44.550 --> 00:32:47.910
+'entrée par la cournée de la lumière.
+
+499
+00:32:49.410 --> 00:32:54.290
+Il traverse l'humeur actueuse puis la pipi
+
+500
+00:32:54.290 --> 00:32:58.990
+et au niveau du cristallin il va converger
+
+501
+00:32:58.990 --> 00:33:00.150
+sur la rétine.
+
+502
+00:33:00.150 --> 00:33:03.750
+Donc la rétine qui contient 7 millions de
+
+503
+00:33:03.750 --> 00:33:07.570
+cônes et ils sont responsables de la vision
+
+504
+00:33:07.570 --> 00:33:11.130
+d'une urne du jour et la vision
+
+505
+00:33:11.130 --> 00:33:11.790
+de couleur.
+
+506
+00:33:12.750 --> 00:33:19.510
+Et qui permet la vision discriminative des détails
+
+507
+00:33:19.510 --> 00:33:20.950
+des objets.
+
+508
+00:33:22.290 --> 00:33:25.750
+Alors que la rétine périphérique on a dit
+
+509
+00:33:25.750 --> 00:33:31.290
+qu'elle est formée par des bâtonnets et
+
+510
+00:33:31.290 --> 00:33:36.990
+qui sont responsables de la vision nocturne qui
+
+511
+00:33:36.990 --> 00:33:43.630
+est une vision déforme tout simplement.
+
+512
+00:33:44.790 --> 00:33:48.150
+Donc le temps de réponse de la traversée
+
+513
+00:33:48.150 --> 00:33:50.290
+de cette lumière vers la rétine est de
+
+514
+00:33:50.290 --> 00:33:53.470
+2h27 secondes seulement.
+
+515
+00:33:56.730 --> 00:33:59.110
+Donc ici on montre qu'il y a
+
+516
+00:33:59.110 --> 00:34:07.150
+un spectre de sensibilité au niveau des bâtonnets.
+
+517
+00:34:11.520 --> 00:34:15.080
+Donc les différents milieux transparents de l'oeil
+
+518
+00:34:15.080 --> 00:34:22.159
+étaient étudiés par Monsieur Listig qui va présenter
+
+519
+00:34:22.159 --> 00:34:24.679
+son modèle de l'oeil réduit de Listig.
+
+520
+00:34:25.600 --> 00:34:29.199
+L'oeil réduit de Listig est un schéma
+
+521
+00:34:29.199 --> 00:34:31.020
+de l'oeil qui est assimilé à un
+
+522
+00:34:31.020 --> 00:34:35.679
+système optique constitué d'un diopère sphérique qui
+
+523
+00:34:35.679 --> 00:34:37.260
+est la cournée.
+
+524
+00:34:37.260 --> 00:34:40.960
+Et d'une lentille mainspile cristalline.
+
+525
+00:34:41.780 --> 00:34:44.520
+Il est constitué de trois diopères.
+
+526
+00:34:46.639 --> 00:34:50.580
+Une diopère cournienne cristalline antérieure et postérieure.
+
+527
+00:34:51.440 --> 00:34:54.120
+Et qui représente le schéma suivant.
+
+528
+00:34:55.120 --> 00:34:58.200
+Donc la lumière va rentrer de l'extérieur
+
+529
+00:34:58.200 --> 00:34:59.620
+vers l'intérieur de l'oeil.
+
+530
+00:35:00.620 --> 00:35:03.220
+Le sommet de l'oeil est le S1.
+
+531
+00:35:03.420 --> 00:35:14.960
+Du sommet de l'oeil jusqu'au cristallin.
+
+532
+00:35:15.680 --> 00:35:19.080
+On a une dimension ou une petite distance
+
+533
+00:35:19.080 --> 00:35:20.680
+de 3,6 mm.
+
+534
+00:35:21.980 --> 00:35:24.840
+Puis plus 4 mm c'est la dimension
+
+535
+00:35:24.840 --> 00:35:25.460
+du cristallin.
+
+536
+00:35:25.560 --> 00:35:32.040
+Plus 17 mm entre le cristallin et la
+
+537
+00:35:32.040 --> 00:35:32.840
+rétine centrale.
+
+538
+00:35:32.840 --> 00:35:35.040
+Donc si on fait la somme on va
+
+539
+00:35:35.040 --> 00:35:38.200
+trouver une valeur à peu près de 24
+
+540
+00:35:38.200 --> 00:35:39.920
+mm qui est la longueur de l'oeil.
+
+541
+00:35:40.500 --> 00:35:42.640
+Et on va voir que cette longueur est
+
+542
+00:35:42.640 --> 00:35:50.240
+très intéressante du point de vue des amétrophies
+
+543
+00:35:50.240 --> 00:35:52.680
+et des anomalies de la rétraction de l
+
+544
+00:35:52.680 --> 00:35:52.820
+'oeil.
+
+545
+00:35:56.880 --> 00:36:00.640
+Donc l'oeil du listing il répond à
+
+546
+00:36:00.640 --> 00:36:03.300
+cette loi de N2.
+
+547
+00:36:03.840 --> 00:36:04.920
+C'est à dire une distance de rétraction
+
+548
+00:36:04.920 --> 00:36:12.800
+du milieu de l'oeil.
+
+549
+00:36:13.460 --> 00:36:16.480
+Sur SP' c'est la distance entre le
+
+550
+00:36:16.480 --> 00:36:18.520
+sommet de l'oeil et l'image.
+
+551
+00:36:21.180 --> 00:36:26.320
+Sur SP' c'est la distance entre le
+
+552
+00:36:26.320 --> 00:36:27.640
+sommet de l'oeil et le point en
+
+553
+00:36:27.640 --> 00:36:27.840
+Z.
+
+554
+00:36:28.520 --> 00:36:30.820
+Qui est égale à une puissance N2-N1
+
+555
+00:36:30.820 --> 00:36:31.480
+sur SC.
+
+556
+00:36:32.040 --> 00:36:36.260
+Et donc on peut déduire le SP' qui
+
+557
+00:36:36.260 --> 00:36:50.550
+est égale à N2 fois SC sur N2
+
+558
+00:36:50.550 --> 00:36:51.170
+-N1.
+
+559
+00:36:59.500 --> 00:37:04.020
+Et qui est égale à à peu près
+
+560
+00:37:04.020 --> 00:37:04.940
+22 mm.
+
+561
+00:37:06.720 --> 00:37:10.840
+Donc c'est la distance focale image entre
+
+562
+00:37:10.840 --> 00:37:14.480
+le sommet et la rétine.
+
+563
+00:37:17.880 --> 00:37:21.160
+Les conditions de dioptrique de vision normale.
+
+564
+00:37:22.960 --> 00:37:26.860
+Normalement une image doit être projetée à travers
+
+565
+00:37:26.860 --> 00:37:28.100
+le milieu transparent de l'oeil.
+
+566
+00:37:28.300 --> 00:37:32.560
+Au niveau d'un point qui est bien
+
+567
+00:37:32.560 --> 00:37:34.540
+déterminé au niveau de la rétine.
+
+568
+00:37:37.500 --> 00:37:38.540
+L'amétrophie.
+
+569
+00:37:39.260 --> 00:37:41.640
+Un oeil amétrope est un oeil qui est
+
+570
+00:37:41.640 --> 00:37:42.500
+sans défaut visuel.
+
+571
+00:37:44.140 --> 00:37:45.820
+Donc c'est un oeil normal.
+
+572
+00:37:45.820 --> 00:37:49.500
+L'amétrophie est assurée par les valeurs harmonieuses
+
+573
+00:37:49.500 --> 00:37:51.760
+de la puissance de l'oeil.
+
+574
+00:37:51.880 --> 00:37:55.100
+Dioptrique basal qui est à peu près égale
+
+575
+00:37:55.100 --> 00:38:00.820
+à 60 dioptritus-3.5 Et le diamètre
+
+576
+00:38:00.820 --> 00:38:04.460
+antérieur-postérieur qui est égale à à peu
+
+577
+00:38:04.460 --> 00:38:05.420
+près 22 mm.
+
+578
+00:38:06.920 --> 00:38:12.260
+Donc un objet ponctuel doit donner une image
+
+579
+00:38:12.260 --> 00:38:13.560
+ponctuelle sur la rétine.
+
+580
+00:38:16.720 --> 00:38:18.720
+C'est ce qu'on appelle le stigmatisme.
+
+581
+00:38:20.280 --> 00:38:23.020
+Et qui répond à l'approximation de Gauss.
+
+582
+00:38:24.840 --> 00:38:26.800
+Et qui est assuré par la symétrie de
+
+583
+00:38:26.800 --> 00:38:28.220
+révolution des diopthroculaires.
+
+584
+00:38:29.860 --> 00:38:33.800
+Donc les diopthroculaires ont la forme d'un
+
+585
+00:38:33.800 --> 00:38:34.420
+verre de montre.
+
+586
+00:38:34.760 --> 00:38:37.040
+Donc ils ont une symétrie de révolution.
+
+587
+00:38:37.280 --> 00:38:38.220
+C'est à dire que les rayons de
+
+588
+00:38:38.220 --> 00:38:40.580
+courbure sont les mêmes dans toutes les directions.
+
+589
+00:38:43.040 --> 00:38:48.740
+Donc ceci est surtout vérifié pour les diopthroculaires
+
+590
+00:38:48.740 --> 00:38:49.440
+antérieurs.
+
+591
+00:38:50.040 --> 00:38:53.920
+Le point conjugué de la rétine se trouve
+
+592
+00:38:53.920 --> 00:38:54.920
+au niveau de l'infini.
+
+593
+00:38:57.340 --> 00:38:59.340
+Et on appelle le point que l'on
+
+594
+00:38:59.340 --> 00:38:59.940
+pourrait m'entendre.
+
+595
+00:39:01.100 --> 00:39:03.340
+C'est le point conjugué de la rétine
+
+596
+00:39:03.340 --> 00:39:05.580
+qui égale l'infini normalement.
+
+597
+00:39:08.140 --> 00:39:09.400
+L'infini c'est 5 m.
+
+598
+00:39:10.230 --> 00:39:13.300
+Et donc la rétine et l'infini sont
+
+599
+00:39:13.300 --> 00:39:14.320
+conjugués l'un de l'autre.
+
+600
+00:39:15.720 --> 00:39:18.120
+Lorsque ces conditions ne sont pas réalisées.
+
+601
+00:39:18.460 --> 00:39:20.280
+On parle d'une anomalie de la vision
+
+602
+00:39:20.280 --> 00:39:21.860
+ou d'une âme épropre.
+
+603
+00:39:25.440 --> 00:39:27.900
+Donc pour la vision de près on va
+
+604
+00:39:27.900 --> 00:39:31.100
+entamer la notion de l'accommodation.
+
+605
+00:39:32.220 --> 00:39:35.500
+Donc l'accommodation c'est un phénomène réflexe.
+
+606
+00:39:35.560 --> 00:39:39.620
+Qui permet de conserver une vision nette.
+
+607
+00:39:39.620 --> 00:39:41.900
+Pour tous les points qui sont proches de
+
+608
+00:39:41.900 --> 00:39:42.200
+l'œil.
+
+609
+00:39:43.820 --> 00:39:47.720
+Le cristallin c'est lui qui va intervenir.
+
+610
+00:39:48.280 --> 00:39:49.680
+Et il va s'adapter en puissance.
+
+611
+00:39:50.380 --> 00:39:53.640
+Entre une puissance minimale qui est dite de
+
+612
+00:39:53.640 --> 00:39:55.040
+repos pour la vision de loin.
+
+613
+00:39:55.920 --> 00:40:01.420
+Et une puissance maximale dite d'accommodation.
+
+614
+00:40:02.160 --> 00:40:05.900
+Donc pour la vision de loin on a
+
+615
+00:40:05.900 --> 00:40:07.900
+le point de repos.
+
+616
+00:40:09.040 --> 00:40:11.600
+Et pour la vision de près il y
+
+617
+00:40:11.600 --> 00:40:13.140
+a le point d'accommodation.
+
+618
+00:40:13.820 --> 00:40:17.580
+Ou PPE pour l'accommodation maximale.
+
+619
+00:40:18.440 --> 00:40:20.600
+Donc le schéma il montre que lorsque l
+
+620
+00:40:20.600 --> 00:40:21.620
+'objet est rapproché.
+
+621
+00:40:23.100 --> 00:40:26.880
+Il est projeté derrière la rétine.
+
+622
+00:40:28.320 --> 00:40:31.120
+Et donc on va le voir sous forme
+
+623
+00:40:31.120 --> 00:40:33.060
+d'image floue au niveau de la rétine.
+
+624
+00:40:33.900 --> 00:40:37.160
+Et le cristallin il va intervenir par le
+
+625
+00:40:37.160 --> 00:40:38.320
+phénomène de l'accommodation.
+
+626
+00:40:38.900 --> 00:40:42.320
+Pour le ramener sur la rétine.
+
+627
+00:40:42.700 --> 00:40:46.320
+Qui devient une image rétinienne qui est nette.
+
+628
+00:40:47.880 --> 00:40:49.940
+Et donc le cristallin qui est une antibi
+
+629
+00:40:49.940 --> 00:40:50.540
+-convexe.
+
+630
+00:40:51.620 --> 00:40:56.580
+Il est rattaché à l'iris par des
+
+631
+00:40:56.580 --> 00:40:59.100
+fibres ce qu'on appelle des onules de
+
+632
+00:40:59.100 --> 00:40:59.980
+digne.
+
+633
+00:41:00.780 --> 00:41:06.180
+C'est des petits muscles qui vont contracter
+
+634
+00:41:06.180 --> 00:41:07.600
+ou relâcher le cristallin.
+
+635
+00:41:09.260 --> 00:41:13.140
+Lorsque l'oeil ne s'accommode pas.
+
+636
+00:41:13.680 --> 00:41:14.580
+Ils sont relâchés.
+
+637
+00:41:15.500 --> 00:41:18.460
+Lors de l'accommodation le cristallin se bombe.
+
+638
+00:41:18.460 --> 00:41:24.340
+Donc le changement de formation du cristallin.
+
+639
+00:41:25.220 --> 00:41:29.140
+Est en fonction de l'accommodation.
+
+640
+00:41:30.720 --> 00:41:34.120
+Donc le système visuel a la faculté de
+
+641
+00:41:34.120 --> 00:41:36.760
+pouvoir modifier la puissance optique de l'oeil.
+
+642
+00:41:37.200 --> 00:41:40.720
+Par variation de la forme du cristallin.
+
+643
+00:41:41.300 --> 00:41:43.200
+Qui se bombe plus ou moins sous l
+
+644
+00:41:43.200 --> 00:41:44.300
+'action du muscle cilia.
+
+645
+00:41:45.260 --> 00:41:46.860
+C'est le phénomène d'accommodation.
+
+646
+00:41:46.860 --> 00:41:50.580
+Dont le rôle est de rapprocher le plus
+
+647
+00:41:50.580 --> 00:41:53.600
+possible de la rétine l'image optique d
+
+648
+00:41:53.600 --> 00:41:54.860
+'un point fixe.
+
+649
+00:41:59.410 --> 00:42:01.010
+L'accommodation.
+
+650
+00:42:02.450 --> 00:42:07.130
+Il y a plusieurs phénomènes qui se réalisent.
+
+651
+00:42:10.230 --> 00:42:11.450
+Ou plusieurs mécanismes.
+
+652
+00:42:11.930 --> 00:42:13.950
+D'abord il y a une modification de
+
+653
+00:42:13.950 --> 00:42:15.630
+la courbure du cristallin.
+
+654
+00:42:16.290 --> 00:42:17.890
+Surtout la phase antérieure.
+
+655
+00:42:18.850 --> 00:42:20.830
+Il y a l'augmentation de l'indice
+
+656
+00:42:20.830 --> 00:42:22.190
+de réfraction du cristallin.
+
+657
+00:42:22.770 --> 00:42:26.130
+Donc l'étassement des fibres du nucléus.
+
+658
+00:42:27.210 --> 00:42:28.890
+Il y a une contraction pupillaire.
+
+659
+00:42:29.570 --> 00:42:30.150
+Donc l'humiosis.
+
+660
+00:42:32.630 --> 00:42:35.250
+Et la convergence axiale des deux yeux.
+
+661
+00:42:36.090 --> 00:42:39.010
+Par réflexe photomoteur sur l'objet observé.
+
+662
+00:42:40.270 --> 00:42:45.290
+Ceci va résulter une fusion cérébrale des images
+
+663
+00:42:45.290 --> 00:42:45.850
+des deux yeux.
+
+664
+00:42:48.310 --> 00:42:51.890
+Et donc quand il y a modification de
+
+665
+00:42:51.890 --> 00:42:53.510
+la courbure du cristallin.
+
+666
+00:42:54.110 --> 00:43:00.390
+On va avoir une diminution du rayon de
+
+667
+00:43:00.390 --> 00:43:00.770
+courbure.
+
+668
+00:43:01.150 --> 00:43:02.630
+Et donc la puissance va augmenter.
+
+669
+00:43:03.690 --> 00:43:07.610
+Également l'indice de réfraction qui va augmenter.
+
+670
+00:43:08.050 --> 00:43:09.890
+La puissance également va augmenter.
+
+671
+00:43:11.010 --> 00:43:15.070
+Et l'humiosis va améliorer l'image.
+
+672
+00:43:19.700 --> 00:43:21.660
+Le Pochton Proximum.
+
+673
+00:43:22.100 --> 00:43:23.860
+Lorsque l'oeil accommode.
+
+674
+00:43:24.320 --> 00:43:26.520
+Il existe une limite au-dessous.
+
+675
+00:43:27.100 --> 00:43:30.480
+C'est à dire entre l'oeil et
+
+676
+00:43:30.480 --> 00:43:33.500
+le point objet le plus proche de l
+
+677
+00:43:33.500 --> 00:43:34.040
+'oeil.
+
+678
+00:43:35.690 --> 00:43:38.650
+Qui peut former une image distincte ou claire.
+
+679
+00:43:39.530 --> 00:43:42.190
+Et appelé le Pochton Proximum.
+
+680
+00:43:43.390 --> 00:43:45.910
+PP de proximité grand P.
+
+681
+00:43:47.770 --> 00:43:50.270
+Chez l'enfant jeune la distance coronée au
+
+682
+00:43:50.270 --> 00:43:51.910
+PP est d'environ 10 cm.
+
+683
+00:43:53.810 --> 00:43:56.830
+Puis cette distance augmente avec l'âge.
+
+684
+00:44:03.880 --> 00:44:06.340
+Le Pochton Rémotum c'est le conjugué de
+
+685
+00:44:06.340 --> 00:44:06.880
+la rétine.
+
+686
+00:44:10.320 --> 00:44:12.980
+A travers l'oeil quand celui-ci n
+
+687
+00:44:12.980 --> 00:44:13.780
+'accomode pas.
+
+688
+00:44:14.060 --> 00:44:15.360
+Donc l'oeil est au repos.
+
+689
+00:44:16.280 --> 00:44:17.820
+Donc c'est le point le plus éloigné
+
+690
+00:44:17.820 --> 00:44:19.060
+que l'oeil puisse voir.
+
+691
+00:44:19.840 --> 00:44:23.220
+Sans mettre en jeu son mécanisme d'accommodation.
+
+692
+00:44:23.220 --> 00:44:31.580
+L'amplitude d'accommodation.
+
+693
+00:44:31.700 --> 00:44:34.320
+C'est une valeur maximale que peut atteindre
+
+694
+00:44:34.320 --> 00:44:35.160
+l'accommodation.
+
+695
+00:44:35.640 --> 00:44:41.200
+L'amplitude d'accommodation en diopterie est donnée
+
+696
+00:44:41.200 --> 00:44:42.420
+par la relation suivante.
+
+697
+00:44:43.200 --> 00:44:45.480
+AA égale 1 sur SP.
+
+698
+00:44:46.320 --> 00:44:49.420
+Moins 1 sur SR. C'est à dire
+
+699
+00:44:49.420 --> 00:44:51.300
+1 sur la distance.
+
+700
+00:44:52.600 --> 00:44:55.460
+Entre le sommet du diopterie.
+
+701
+00:44:56.100 --> 00:44:57.530
+Et le Pochton Proximum.
+
+702
+00:44:57.530 --> 00:45:00.350
+Moins 1 sur la distance du sommet du
+
+703
+00:45:00.350 --> 00:45:01.770
+diopterie.
+
+704
+00:45:01.770 --> 00:45:10.730
+Et le point de l'objet
+
+705
+00:45:10.730 --> 00:45:13.870
+quand l'oeil n'accomode pas.
+
+706
+00:45:17.990 --> 00:45:20.930
+L'amplitude diopterie d'accommodation dépend de l
+
+707
+00:45:20.930 --> 00:45:21.190
+'âge.
+
+708
+00:45:22.270 --> 00:45:23.770
+C'est la même pour un oeil normal.
+
+709
+00:45:24.470 --> 00:45:26.010
+Ou pour un oeil myope.
+
+710
+00:45:26.710 --> 00:45:28.790
+Ou hyper-opique.
+
+711
+00:45:30.800 --> 00:45:34.240
+Il est environ 14 diopterie pour un enfant
+
+712
+00:45:34.240 --> 00:45:34.900
+de 10 ans.
+
+713
+00:45:35.660 --> 00:45:38.620
+Et il diminue jusqu'à 2,5 diopterie
+
+714
+00:45:38.620 --> 00:45:40.480
+pour un adulte de 40 ans.
+
+715
+00:45:41.460 --> 00:45:44.040
+Donc on voit sur ce tableau qu'avec
+
+716
+00:45:44.040 --> 00:45:44.420
+l'âge.
+
+717
+00:45:45.120 --> 00:45:49.700
+Le Pochton Proximum il s'éloigne du sommet
+
+718
+00:45:49.700 --> 00:45:50.500
+de la cornée.
+
+719
+00:45:51.700 --> 00:45:54.120
+Et il se rapproche au Pochton Remotum.
+
+720
+00:45:55.440 --> 00:45:58.680
+Et donc l'amplitude d'accommodation il diminue.
+
+721
+00:45:58.680 --> 00:46:01.040
+A l'âge de 10 ans il est
+
+722
+00:46:01.040 --> 00:46:01.640
+maximal.
+
+723
+00:46:02.060 --> 00:46:03.940
+L'amplitude d'accommodation il est à 14
+
+724
+00:46:03.940 --> 00:46:04.680
+diopterie.
+
+725
+00:46:05.740 --> 00:46:08.940
+Et le Pochton Proximum il est à 7
+
+726
+00:46:08.940 --> 00:46:09.880
+cm.
+
+727
+00:46:10.560 --> 00:46:13.040
+Et bien sûr le Pochton Remotum il est
+
+728
+00:46:13.040 --> 00:46:14.800
+à l'infini.
+
+729
+00:46:19.760 --> 00:46:21.740
+Le degré d'accommodation et l'amplitude d
+
+730
+00:46:21.740 --> 00:46:22.360
+'accommodation.
+
+731
+00:46:23.520 --> 00:46:25.280
+Donc on a dit que l'amplitude d
+
+732
+00:46:25.280 --> 00:46:27.260
+'accommodation c'est la valeur maximale qui peut
+
+733
+00:46:27.260 --> 00:46:29.320
+atteindre le phénomène d'accommodation.
+
+734
+00:46:30.880 --> 00:46:32.500
+C'est une différence qui est positive.
+
+735
+00:46:32.500 --> 00:46:35.140
+Il est extrêmement en diopterie.
+
+736
+00:46:35.640 --> 00:46:40.020
+Entre la proximité du remotum ça veut dire
+
+737
+00:46:40.020 --> 00:46:40.980
+1 sur R.
+
+738
+00:46:41.740 --> 00:46:45.820
+Et celle du Proximum 1 sur P.
+
+739
+00:46:47.140 --> 00:46:51.700
+Donc la puissance de repos de l'œil.
+
+740
+00:46:52.840 --> 00:46:54.380
+Pour la vision du loin.
+
+741
+00:46:55.340 --> 00:46:56.760
+Au niveau d'un point PR.
+
+742
+00:46:57.260 --> 00:46:58.040
+Elle est de 0.
+
+743
+00:46:58.780 --> 00:47:01.580
+Alors que la vision de près.
+
+744
+00:47:02.460 --> 00:47:05.980
+C'est du puissance maximale DM.
+
+745
+00:47:08.790 --> 00:47:14.690
+Et donc la différence entre ces deux puissances
+
+746
+00:47:14.690 --> 00:47:16.310
+c'est l'amplitude d'accommodation.
+
+747
+00:47:21.450 --> 00:47:22.930
+Qui est égale 1 sur PR.
+
+748
+00:47:25.610 --> 00:47:30.670
+La distance entre PR et PP elle représente
+
+749
+00:47:30.670 --> 00:47:32.470
+le parcours d'accommodation PR.
+
+750
+00:47:35.570 --> 00:47:38.810
+Donc les variations d'accommodation avec l'âge.
+
+751
+00:47:40.090 --> 00:47:43.170
+Ce diagramme montre les variations d'amplitude d
+
+752
+00:47:43.170 --> 00:47:43.830
+'accommodation.
+
+753
+00:47:45.030 --> 00:47:47.850
+Qui diminuent avec l'âge.
+
+754
+00:47:49.170 --> 00:47:53.390
+On voit qu'ils vont de 11 diopteries
+
+755
+00:47:53.390 --> 00:47:55.250
+à l'âge de 10 ans.
+
+756
+00:47:55.650 --> 00:48:00.950
+Et qui peuvent descendre jusqu'à 1 diopterie
+
+757
+00:48:00.950 --> 00:48:03.650
+à l'âge de 60 jusqu'à 70
+
+758
+00:48:03.650 --> 00:48:03.970
+ans.
+
+759
+00:48:07.610 --> 00:48:10.630
+Donc cette diminution de l'amplitude d'accommodation
+
+760
+00:48:10.630 --> 00:48:11.810
+ou de la vision de près.
+
+761
+00:48:12.610 --> 00:48:16.370
+Est appelé le phénomène de presbytie.
+
+762
+00:48:17.010 --> 00:48:18.250
+Ou la presbytie.
+
+763
+00:48:18.670 --> 00:48:21.690
+Donc la presbytie c'est un trouble de
+
+764
+00:48:21.690 --> 00:48:22.430
+l'accommodation.
+
+765
+00:48:23.150 --> 00:48:26.330
+Le sujet ne peut pas voir nettement les
+
+766
+00:48:26.330 --> 00:48:27.070
+objets proches.
+
+767
+00:48:28.510 --> 00:48:30.910
+Et donc il est obligé par exemple ce
+
+768
+00:48:30.910 --> 00:48:32.630
+monsieur qui est en train de lire.
+
+769
+00:48:33.510 --> 00:48:35.010
+D'éloigner son journal.
+
+770
+00:48:35.550 --> 00:48:41.550
+Pour mieux voir les caractères des créatures.
+
+771
+00:48:44.030 --> 00:48:45.930
+La presbytie est donc c'est une perte
+
+772
+00:48:45.930 --> 00:48:47.770
+du pouvoir d'accommodation avec l'âge.
+
+773
+00:48:48.750 --> 00:48:51.330
+Qui survient entre 45 et 50 ans.
+
+774
+00:48:52.570 --> 00:48:57.290
+Et donc c'est une capacité de l
+
+775
+00:48:57.290 --> 00:48:59.410
+'adaptation critique qui diminue avec l'âge.
+
+776
+00:49:00.410 --> 00:49:04.230
+Et c'est un simple vieillissement physiologique du
+
+777
+00:49:04.230 --> 00:49:06.630
+processus.
+
+778
+00:49:08.050 --> 00:49:14.530
+Le cristalline perd son elasticité en vieillissant.
+
+779
+00:49:15.890 --> 00:49:19.670
+Et donc il va résulter une diminution de
+
+780
+00:49:19.670 --> 00:49:20.870
+l'amplitude d'accommodation.
+
+781
+00:49:22.190 --> 00:49:25.450
+Et qui se traduit par un éloignement du
+
+782
+00:49:25.450 --> 00:49:27.710
+promptum proximum.
+
+783
+00:49:28.530 --> 00:49:30.110
+Donc c'est le tableau qu'on vient
+
+784
+00:49:30.110 --> 00:49:30.570
+de voir.
+
+785
+00:49:31.490 --> 00:49:33.990
+Et le promptum proximum il s'éloigne de
+
+786
+00:49:33.990 --> 00:49:34.610
+la cornée.
+
+787
+00:49:35.810 --> 00:49:37.910
+Pardon du sommet de l'oeil.
+
+788
+00:49:40.300 --> 00:49:43.180
+Et donc il se rapproche du promptum remotum.
+
+789
+00:49:46.430 --> 00:49:50.450
+Cette courbe montre que avant 50 ans.
+
+790
+00:49:51.790 --> 00:49:54.270
+Il y a une zone de vision nette
+
+791
+00:49:54.270 --> 00:49:59.810
+entre 25 et 50 cm du sommet de
+
+792
+00:49:59.810 --> 00:50:00.330
+la cornée.
+
+793
+00:50:00.330 --> 00:50:03.730
+Mais après 50 ans, il y a une
+
+794
+00:50:03.730 --> 00:50:04.970
+perte de vision de près.
+
+795
+00:50:05.270 --> 00:50:08.370
+C'est le phénomène de la preslissie.
+
+796
+00:50:10.030 --> 00:50:15.170
+Donc la preslissie est une amplitude d'accommodation
+
+797
+00:50:15.170 --> 00:50:16.330
+qui est insuffisante.
+
+798
+00:50:18.440 --> 00:50:21.440
+Et une incapacité du cristallin.
+
+799
+00:50:23.760 --> 00:50:26.420
+Due à un simple vieillissement physiologique du muscle
+
+800
+00:50:26.420 --> 00:50:27.720
+processiliaire.
+
+801
+00:50:28.920 --> 00:50:31.100
+Et qui ont un effet de diminuer la
+
+802
+00:50:31.100 --> 00:50:32.420
+puissance maximale.
+
+803
+00:50:32.420 --> 00:50:34.560
+Et donc l'amplitude d'accommodation.
+
+804
+00:50:37.370 --> 00:50:40.410
+Le promptum proximum s'éloigne de l'oeil.
+
+805
+00:50:42.430 --> 00:50:45.050
+Il se rapproche du promptum remotum.
+
+806
+00:50:46.610 --> 00:50:48.090
+Qui devient inchangé.
+
+807
+00:50:49.630 --> 00:50:51.690
+Donc on parle de preslissie dès que l
+
+808
+00:50:51.690 --> 00:50:54.530
+'amplitude d'accommodation est inférieure à 4 dioptrides.
+
+809
+00:50:55.430 --> 00:50:57.290
+Au moyen à partir de l'âge de
+
+810
+00:50:57.290 --> 00:50:58.290
+45 ans.
+
+811
+00:51:00.810 --> 00:51:04.090
+Donc la preslissie c'est une perte de
+
+812
+00:51:04.090 --> 00:51:06.630
+pouvoir d'accommodation qui est avec l'âge.
+
+813
+00:51:07.770 --> 00:51:11.990
+Qui peut être corrigée par des demi lentilles.
+
+814
+00:51:13.070 --> 00:51:14.770
+Pour la vision de près seulement.
+
+815
+00:51:16.430 --> 00:51:18.470
+Et donc la puissance de ces verres.
+
+816
+00:51:18.970 --> 00:51:24.010
+Permet de compenser le degré de preslissie.
+
+817
+00:51:26.570 --> 00:51:30.610
+Et donc c'est des verres sphériques convergents.
+
+818
+00:51:32.150 --> 00:51:35.330
+Et qui permet de ramener l'amplitude d
+
+819
+00:51:35.330 --> 00:51:39.570
+'accommodation à plus 4 dioptrides.
+
+820
+00:51:40.630 --> 00:51:42.810
+Et donc rapprocher le promptum proximum.
+
+821
+00:51:43.430 --> 00:51:47.350
+Vers le sommet de la coronée.
+
+822
+00:51:51.720 --> 00:51:54.160
+Donc on n'a pas besoin de corriger
+
+823
+00:51:54.160 --> 00:51:55.160
+la vision de loin.
+
+824
+00:51:56.140 --> 00:51:57.100
+D'un preslissie.
+
+825
+00:51:57.100 --> 00:52:04.060
+Parce que le sujet peut voir nettement de
+
+826
+00:52:04.060 --> 00:52:04.280
+loin.
+
+827
+00:52:04.760 --> 00:52:12.470
+D'où on peut utiliser des verres émi
+
+828
+00:52:12.470 --> 00:52:12.890
+-neutres.
+
+829
+00:52:13.150 --> 00:52:15.710
+C'est à dire qu'en bas du
+
+830
+00:52:15.710 --> 00:52:19.750
+verre il a une puissance de correction de
+
+831
+00:52:19.750 --> 00:52:20.670
+la preslissie.
+
+832
+00:52:21.550 --> 00:52:24.610
+Et la moitié supérieure du verre est neutre.
+
+833
+00:52:27.780 --> 00:52:33.600
+Donc la preslissie toujours c'est une difficulté
+
+834
+00:52:33.600 --> 00:52:34.460
+de voir de près.
+
+835
+00:52:36.220 --> 00:52:41.160
+Et la correction des lentilles sphériques convergent selon
+
+836
+00:52:41.160 --> 00:52:42.620
+la règle suivante.
+
+837
+00:52:43.620 --> 00:52:46.040
+A 50 ans on donne les verres correcteurs
+
+838
+00:52:46.040 --> 00:52:47.060
+de plus 1 dioptride.
+
+839
+00:52:48.860 --> 00:52:51.520
+Et puis on augmente la puissance de la
+
+840
+00:52:51.520 --> 00:52:51.940
+lentille.
+
+841
+00:52:52.640 --> 00:52:54.800
+De plus de 0,5 dioptrides.
+
+842
+00:52:56.560 --> 00:52:57.760
+Chaque 5 années.

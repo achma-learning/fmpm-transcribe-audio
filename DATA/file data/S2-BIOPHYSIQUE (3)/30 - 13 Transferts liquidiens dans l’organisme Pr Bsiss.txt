@@ -1,0 +1,57 @@
+Bonjour, ce cours de biophysique de transfert liquidien dans l'organisme fait suite au cours précédent de phénomènes osmotiques, donc des transferts liquidiens dans les différents tissus. Pour introduire, l'eau de l'organisme représente 65% de la masse corporelle. Il est composé de l'eau du milieu intercellulaire qui représente 47% et représente tous les tissus de l'organisme et du milieu extracellulaire qui représente 53%.
+
+Le milieu extracellulaire, c'est l'eau du plasma, c'est-à-dire tous les vaisseaux du sang à l'intérieur des vaisseaux et le liquide interstitiel. L'eau diffuse dans les différents secteurs à travers des membranes, des membranes de dialyse, des membranes du globule rouge et autres, selon des pressions mécaniques et osmotiques. Donc les transferts liquidiens permettent de faire un transfert entre le milieu extérieur et le plasma, c'est le cas de l'absorption digestive, entre le plasma et le liquide interstitiel et entre le plasma et le milieu extérieur, c'est le cas de la filtration rénale.
+
+Les transferts à travers les membranes dialysantes. Comme mécanisme général, on a vu que le flux entre un milieu 1 et un milieu 2, il est en fonction de la différence de pression transminérale ou de pression hydrostatique et la pression aquatique ou osmotique. Donc le flux d'eau et des particules diffusibles résultent de la compétition entre ces deux types de pression.
+
+La pression oncotique du plasma sont limites. La pression du plasma est de 2,5 mmHg à 37°. Elle est due au macro-ion et qui intervient par leur concentration moderne grâce principalement à l'albumine.
+
+Et puis il y a le volume exclu principalement lié au globuline et la pression de donant. Ce schéma illustre les protéines intraplasmatiques qui permettent d'attirer les liquides du milieu interstitiel ou l'interstitium qui est le liquide qui sépare toutes les cellules de l'organisme vers le milieu plasmatique à travers la membrane capillaire. Donc ce phénomène est dû à ce qu'on appelle la pression oncotique.
+
+On a dit que cette pression oncotique est contrebalancée par la pression hydrostatique exercée par la pente cardiaque du plasma vers l'interstitium qui se fait au niveau des échanges des capillaires. L'absorption intestinale de l'eau en dehors de la digestion. La membrane de la muqueuse intestinale ou la villosité intestinale se comporte comme des membranes de dialyse, c'est à dire qu'elle fait passer l'eau et les petites électrolytes telles que les ions, sodium, potassium, calcium, phosphore et ainsi de suite.
+
+Et ne laisse pas traverser les protéines. Les protéines vont être dégradées par l'acidité gastrique et l'hydratation du muqueuse digestif. Donc le transfert se fait à travers les villosités et les villosités, on a dit que c'est des membranes de dialyse.
+
+Entre deux qui séparent du milieu le contenu intestinal ou la lumière intestinale et le plasma sanguine. Donc la lumière intestinale présente une pression hydrostatique de 2 mmHg alors que la pression en quantique est nulle puisque les macromolécules sont détruites par la digestion. Pour la pression plasmatique, toujours la pression hydrostatique est de 20 mmHg alors que la pression en quantique est de 28 mmHg.
+
+Donc la pression P1 c'est la pression exercée par la paroi sur le contenu intestinal qui est de 2 mmHg, P1 c'est la pression en quantique du contenu intestinal qui est nulle et P2 c'est la pression sanguine des capillaires intestinaux, P2 c'est la pression en quantique plasmatique. Donc le flux d'eau et des particules diffusibles se fait de l'intestin vers le sang. Donc le flux de milieu 1 vers le milieu 2 est égal à K, la constante, fois la surface d'absorption intestinale, fois P1 moins P2 moins P1 plus P2.
+
+Donc égal 10 fois K fois S qui est positif. Il faut noter que S est très élevé puisque l'évilocité intestinale constitue des surfaces très étendues pour qu'il permette l'absorption intestinale. Cette fois-ci en période de digestion, l'intestin est rempli de nutriments, de l'eau lors de la digestion. 
+
+Donc il se contracte et dans ce cas-là la pression transmurale ou la pression intestinale est atteinte jusqu'à 100 mmHg. Donc le flux de transfert d'équilibre entre la lumière intestinale et le milieu plasmatique devient plus grand. Donc il est égal à K fois S fois P devient 100 mmHg moins 20 moins 0 plus 28 et ce qui va donner 108 fois K fois S. Donc il est plus important. 
+
+D'où c'est le phénomène d'absorption intestinale qui est très intense. Les cas de figure où il y a une congestion intestinale, donc c'est le cas des infections intestinales, des infections bactériennes telles que la fièvre, typhoïdes, le choléra et autres. On va assister à une vasodilatation avec augmentation de la pression sanguine au niveau des capillaires.
+
+Ça veut dire que P2 va devenir supérieur à 20 mmHg. Et donc le flux de 1 vers 2 va diminuer. Donc l'absorption intestinale devient faible.
+
+Quand le P2 est trop élevé, ça veut dire que l'inflammation est étendue à l'ensemble de l'intestin, le flux devient inférieur à 0. C'est à dire qu'il n'y aura pas d'absorption intestinale. Au contraire, il y aurait une exudation de l'eau. Exudation de l'eau, c'est d'abord la malnutrition et également les hémorragies digestives, les diarrhées, les vomissements. 
+
+C'est ce qui se voit dans les cas d'infections alimentaires ou d'infections digestives. Le 4ème cas de figure, c'est les échanges de l'eau et des petites particules entre le sang et le milieu interstitiel. Donc j'ai dit que la paroi capillaire, c'est une membrane de dialyse. 
+
+Il laisse passer l'eau et les petites particules. Et le schéma qui est devant nous, il illustre un peu cet échange entre le milieu interstitiel et la paroi capillaire à travers la membrane capillaire ou la membrane dialyse de la paroi capillaire. Donc le sang, on a dit que la pression qui règne pour la pression hydrostatique au niveau artériel est de 35 mmHg et la pression encotique est constante. 
+
+Il est de 28 mmHg. Alors qu'au niveau du milieu interstitiel, la pression hydrostatique est de 6 mmHg et la pression encotique est de 6 mmHg. Il y a peu de protéines.
+
+Donc au niveau du segment artériel du capillaire, on va avoir un bilan, un flux de 35-6 plus 6-28 qui est égal à 7 Ks. Donc il y a un flux positif. Ce qui fait qu'il y a la notion de transfert du milieu interstitiel vers les tissus pour qu'il y ait absorption des nutriments et de l'oxygène.
+
+Et inversement, le segment du veineux, on va voir que la pression veineuse est de 20 mmHg et donc dans ce cas-là, le flux entre le milieu veineux et le milieu interstitiel est négatif. Donc il va y avoir le retour. Donc c'est ce qui explique les échanges artério-veineux au niveau des parois capillaires et au niveau du milieu interstitiel.
+
+Donc au niveau artériel, l'eau et les petites particules passent de 1 vers 2 à port d'éléments nutritifs, oxygène aux cellules. Au niveau veineux, passage du milieu 2 vers le milieu 1, élimination des déchets du métabolisme. Le cas particulier des oedèmes et de l'acide. 
+
+Par définition, l'oedème, c'est une accumulation de l'eau dans le milieu interstitiel qui entraîne une augmentation du volume, en particulier des membres inférieurs qui sont gonflés. Donc l'oedème peut être un oedème qui prend le gourdin, c'est-à-dire un oedème qui est froid ou un oedème chaud qui ne prend pas le gourdin, c'est-à-dire l'empreinte persiste au niveau des membres inférieurs. Il y a également lorsque l'accumulation de l'eau au niveau du péritoine, il va donner ce qu'on appelle l'acide, c'est l'accumulation de l'eau au niveau de la paroi abdominale.
+
+Les oedèmes d'origine rénale, c'est une rétention du sodium et de l'eau par défaut de son élimination urinaire, donc qui entraîne une rétention importante de l'eau. Donc les oedèmes d'origine rénale, ils se voient lorsqu'il y a une insuffisance rénale, lorsqu'il y a un obstacle rénal ou autre. Les oedèmes d'origine capillaire, c'est lorsqu'il y a un mauvais retour du liquide dans les capillaires veineux, suite à une pression encotique plasmatique qui est diminuée, donc lorsqu'on a une hypoprotéinémie par dénutrition ou syndrome néphrotique.
+
+Ou lorsque la pression sanguine capillaire supérieure à la normale, c'est le cas de la compression en aval, tumeur en aval du vaisseau, lorsqu'il y a une tumeur qui va se mettre en obstacle du vaisseau, lorsqu'il y a une congestion ou une stase veineuse, du cas d'une insuffisance cardiaque. Donc dans ce cas-là, il y a une augmentation de la perméabilité capillaire. Et enfin, il y a l'augmentation de la pression dans le système veineux portale, le système porte ou lavé-porte, lorsqu'il y a un départ d'eau vers la cavité abdominale qui entraîne ce qu'on appelle un acide ou une acide, c'est le cas de la cirrhose du foie, donc qui va bloquer le retour veineux au niveau du foie.
+
+Et l'eau et les électrolytes s'accumulent au niveau de la cavité abdominale. Le cas de l'élimination rénale de l'eau. Il faut savoir que le glomérule, c'est le lieu de filtration du son, donc à travers les différentes artérioles glomérulaires.
+
+Donc le son, il est filtré spontanément par phénomène passif, c'est la filtration glomérulaire. Et on assiste également à une ultrafiltration du plasma sanguine produit lorsqu'il y a une production de l'urine primitive sans macromolécules. Et donc le transfert liquidien dans l'organisme à travers l'urine, il se fait par un flux entre le milieu interstitiel et le milieu glomérulaire et le milieu vasculaire.
+
+Donc le flux phi entre le milieu 1 et 2 égale k fois S fois delta P. P au niveau du glomérule, il est de 65 mmHg, moins 10, plus 0, moins 28, donc c'est 27 kS, il est supérieur à 0, donc il y a une pression de filtration. Quand la variation de filtration est supérieure à 0, on parle de l'ultrafiltration qui se fait normalement. En cas d'hypotension artérielle et quand la pression est inférieure à 38 mmHg, les variations de pression deviennent négatives.
+
+C'est le cas d'anurie ou d'une diminution de l'illumination urinaire et on assiste à une insuffisance glomérulaire ou insuffisance rénale. Le transfert liquidien à travers le tubule. Le tubule contient l'urine primitive, il est réabsorbé activement sous contrôle hormonal.
+
+Donc c'est l'aldostérone. Les urines primitives vont subir une réabsorption, ce qui fait que l'osmolarité de l'urine primitive est supérieure à l'osmolarité du plasma. Enfin, l'hémodialyse. 
+
+L'hémodialyse c'est une technique ou une membrane dialysée qui permet de filtrer le sang des patients présentant une insuffisance rénale. L'hémodialyse retient dans le sang les globules rouges et les macromolécules et laisse sortir les petites molécules élurées.

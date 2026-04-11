@@ -1,0 +1,209 @@
+Bonjour, aujourd'hui on va s'intéresser aux bases physiques qui régissent la radiographie. Pour commencer, pour voir ce que c'est qu'une radiographie, on va commencer par l'exemple d'une main, d'une radiographie de la main. Lorsque le patient vient avec une plainte de la main, on peut faire un examen clinique au-delà de la peau, examiner toutes les structures anatomiques, mais on reste limité pour l'examen par exemple des os.
+
+Alors, comme vous voyez sur la radiographie de main, qui est l'image à droite, c'est une radiographie qui nous permet d'analyser bien les structures osseuses. On peut voir également les parties molles autour, mais on ne peut pas les analyser avec finesse, car on confond sur ces parties molles tout ce qui est muscles, tendons, structures vasculos, nerveux. La radiographie de la main a essentiellement permis de voir les structures osseuses.
+
+Une des applications les plus importantes, peut-être la première application de la radiographie, c'est la radiographie du thorax. En général, on la réalise si le patient vient avec une plainte thoracique. Or, on a une complexité ou une multitude d'organes et de structures dans le thorax.
+
+Là, ce n'est pas comme la main, mais la radiographie, comme vous pouvez constater sur la troisième image, nous permet d'approcher la silhouette cardiaque. On ne va pas analyser finement le cœur, mais on a une idée de la silhouette cardiaque. Et puis, les îles pulmonaires, les parenchymes pulmonaires, ainsi que les structures osseuses.
+
+Mais entre radiographie et radiographie, il y a une différence que vous pouvez voir ici, c'est-à-dire que c'est une radiographie thorax. Là, c'est deux radiographies thorax. C'est du même organe, mais ils ne se ressemblent pas.
+
+Vous voyez sur la première, un peu plus blanche, les vertèbres et les côtes ne sont pas bien visibles. Sur la deuxième, on voit parfaitement bien les vertèbres derrière le cœur. On voit très bien les structures osseuses.
+
+Là, un des intérêts du cours, c'est comment on peut régler nos appareillages ou comment agir sur les éléments qui vont déterminer la qualité ou bien l'application des rayons X pour avoir des radiographies. Avant de commencer les bases physiques, il faut savoir que les radiographies, c'est la modalité d'imagerie la plus utilisée. C'est-à-dire, dans votre pratique quotidienne en tant que médecin, dans notre pratique, on utilise plus de radiographies qu'autres moyens d'imagerie.
+
+Cela me ramène à dire qu'il faut connaître comment ça fonctionne, d'où vient cette radiographie. D'emblée, il faut savoir que ça utilise des rayons X et que c'est une imagerie qui ne vous donne pas une approche volémique, mais c'est une imagerie bidimensionnelle. Autre chose très importante, lorsqu'on parle d'imagerie de radiographie, on peut utiliser ça, comme on a vu sur les deux premiers exemples, pour faire le diagnostic.
+
+Mais également, on peut l'utiliser pour faire un guidage, pour intervenir et faire de la thérapeutique. Ça, c'est très important, c'est une notion à garder en tête. Alors, qu'est-ce qu'on vous demande de retenir du cours ? Première chose, il faut connaître les différents composants de la chaîne radiologique.
+
+La deuxième chose à retenir, c'est d'écrire le mécanisme de formation des rayons X. Troisième objectif, il faut connaître les mécanismes d'atténuation des rayons X par l'organisme et, enfin, connaître les applications de la radiographie ou énumérer les applications de la radiographie standard. Un bref historique. On va retenir en fait que deux dates.
+
+Là où on a découvert les applications ou l'application de rayons X pour avoir des radiographies, la première radiographie qui était prise en 1895 était celle d'une main. Et la deuxième date très importante, c'est qu'on a commencé à faire un traitement informatique de l'image. Et ça, ça a donné la naissance de l'informatisation de l'image ou de la numérisation de l'image.
+
+C'est quoi la chaîne radiologique ? La chaîne radiologique a pour finalité de produire une image radiologique. En fait, pour avoir une image radiologique, on a besoin d'un vaisseau de rayons X. Mais comment le produire ? On va le produire au niveau d'un tube à rayons X. Une fois produit, ce vaisseau va être atténué au niveau du corps humain. Cette atténuation, on a besoin de la relater sous forme d'une image pour former l'image.
+
+Et ça, comment on peut le faire ? On va le voir dans le cours. C'est par les systèmes de détection des rayons X. On commence par la production de rayons X ou le tube à rayons X. Donc ça, c'est une image réelle d'un tube à rayons X où on peut voir deux éléments importants qui permettent de produire les rayons X. C'est la cathode d'une part et c'est l'anode de l'autre côté. Certes, le tube à rayons X est constitué par plusieurs éléments.
+
+Mais ce qui nous intéresse dans ce cours, pour faire les choses très simplement, c'est la cathode qui est annotée en C, c'est le pôle négatif, et l'anode. L'anode, c'est une plaque métallique, annotée sur le schéma avec un A. On va voir comment fonctionneront les cathodes et anodes pour produire un faisceau de rayons X. La cathode est constituée d'un filament. En général, un filament de texte N. On va appliquer un courant électrique sur la cathode.
+
+Un courant électrique appliqué sur ce filament va le chauffer. Alors, ce filament étant chauffé, il va émettre des électrons, un nuage d'électrons. Et entre cathode et anode, on va appliquer une différence de potentiel, une tension.
+
+Cela va permettre l'accélération des électrons. Le nuage d'électrons qui était produit autour de la cathode va être accéléré vers l'anode. L'anode, c'est une cible métallique.
+
+On a dit tout à l'heure, c'est une plaque métallique. Ces électrons accélérés vers l'anode, ils vont y frapper ou ils vont être freinés. Et cela va donner la production d'un rayonnement de freinage qui sont les rayons X. Sur ce schéma, on reproduit ce qu'on vient de voir.
+
+Le mode de fonctionnement de la cathode et de l'anode pour produire des rayons X. La cathode ou le filament va être chauffé par l'application d'une haute tension électrique. Il va émettre un nuage d'électrons. Ce nuage d'électrons par la différence de potentiel qui existe entre cathode et anode va être accéléré.
+
+Trouvant la cible métallique qui est l'anode, il va être freiné. Et ce freinage va donner le rayonnement de freinage qui sont les rayons X. On vient de voir le mécanisme de production de rayons X. Là, on va s'intéresser aux rayons X eux-mêmes. Premièrement, c'est quoi des rayons X ? Les rayons X ne sont pas des particules mais c'est un rayonnement électromagnétique.
+
+Deuxièmement, il est caractérisé par sa fréquence. Sur ce spectre, on voit des ondes radio très basse fréquence. On voit des micro-ondes de fréquence un peu plus augmentée.
+
+Et on voit les rayons X qui sont de haute fréquence. Deuxième constat qu'on peut faire, c'est que les rayons X n'ont pas tous la même fréquence. Ils n'ont pas tous les mêmes caractéristiques.
+
+Entre les rayons X qui sont sur l'image, qui sont proches des rayons gamma, et ceux qui sont proches des UV, il y a une différence de fréquence. Les rayons X, pour avoir des rayons X, c'est un spectre de fréquence. Ils n'ont pas tous la même fréquence et ça c'est très important à connaître que les photons ou les rayons X n'ont pas tous les mêmes caractéristiques.
+
+Cela nous ramène à parler des caractéristiques du faisceau de rayon X. La première chose qui caractérise un faisceau de rayon X, c'est son intensité. L'intensité dépend du nombre de rayons X ou du nombre de photons X. On va parler dans le cours de rayons X ou de photons X, c'est la même chose. Deuxième caractéristique, et qui est très importante, on va voir au long du cours pourquoi, c'est son énergie.
+
+On va détailler dans les diapos suivantes de quoi dépend l'énergie d'un faisceau de rayon X. On va parler à l'échelle du photon X ou d'un seul rayon X. Le photon X, comme on l'a vu, est produit par le freinage d'un électron accéléré entre cathode et anode. Cet électron accéléré entre cathode et anode va céder son énergie pour produire le photon X. L'énergie du photon X produit par un électron freiné est moindre que l'énergie qui est portée par cet électron, mais elle est proportionnelle à l'énergie portée par cet électron. Si on veut connaître l'énergie du photon X, ça revient à connaître l'énergie portée par l'électron X accéléré qui était freiné et qui a produit ce photon.
+
+De quoi dépend l'énergie de l'électron accéléré ? Elle dépend du champ électrique ou de la différence de potentiel. Plus on applique une différence de potentiel en cathode et anode, plus on accélère l'électron, plus il acquiert une énergie cinétique. L'énergie cinétique dépend du voltage, mais également de la charge de l'électron, mais cette charge est vraiment infime.
+
+Ça revient à dire que l'énergie cinétique de l'électron dépend essentiellement du voltage. Donc l'énergie du photon produit va dépendre également du voltage ou de la différence de potentiel entre la cathode et l'anode. On a parlé de l'énergie d'un seul photon.
+
+Alors si on veut connaître l'énergie de l'ensemble du faisceau de rayon X, c'est en appliquant des formules mathématiques. On peut déduire que si l'énergie d'un photon dépend du voltage, l'énergie de l'ensemble des photons produits va être proportionnelle au voltage à la puissance 2. Deuxième élément qui va déterminer l'énergie totale du faisceau de rayon X, c'est le nombre de photons, l'énergie de photons, mais également le nombre de photons. Le nombre de photons va dépendre du nombre d'électrons émis par la cathode.
+
+Comment est-ce que la cathode a émis des électrons ? On a dit au début qu'on a appliqué un courant d'une certaine intensité. On peut imaginer que si on augmente l'intensité appliquée au courant, on augmente la production ou la libération d'électrons. Et donc le nombre d'électrons libérés, le nombre d'électrons accélérés, le nombre de photons produits.
+
+Deuxième élément qui détermine l'énergie du faisceau de rayon X, c'est l'intensité du courant émis. Deuxième chose, si on émit un courant d'une certaine intensité pendant une milliseconde, ce n'est pas la même chose comme si on le laisse pendant 10 millisecondes. Plus on le laisse, plus il va chauffer.
+
+Deuxième élément qui va conditionner le nombre d'électrons émis par la cathode après l'intensité du courant, c'est ce qu'on appelle le temps de pause, le temps pendant lequel on a appliqué ce courant électrique pour chauffer le filament. L'autre élément qui va conditionner l'énergie du faisceau de rayon X, c'est le numéro atomique de la cible, de l'anode. Les métaux ne freinent pas de la même manière et donc n'entraînent pas une production de rayons X de la même manière.
+
+L'énergie de rayon X produit ne dépend pas du numéro atomique de la cible, du métal utilisé pour l'anode. Pour résumer ce qu'on vient de voir, l'énergie du faisceau de rayon X dépend d'un facteur k, du n qui est le nombre d'électrons émis qui lui dépend de l'intensité du courant et du temps de pause de ce courant sur la cathode, du z qui est le numéro atomique de l'anode et de la différence de potentiel en volts à la puissance 2. L'image suivante résume ce qu'on vient de voir. La cathode où on applique la haute tension, où le filament va produire des électrons qui vont être accélérés entre la cathode et l'anode par une différence de potentiel.
+
+Les électrons portant une énergie cinétique qui dépend de ce voltage vont être freinés par l'anode et vont produire un faisceau de rayon X. Ce faisceau de rayon X, une de ses caractéristiques, peut-être il faut en parler, c'est qu'il est conique. Il a une forme conique. Si on parle de l'énergie du faisceau, c'est que ça a un intérêt.
+
+Effectivement, ça va avoir un grand intérêt dans l'image, dans la production de l'image. Si on s'intéresse à l'énergie du faisceau, il faut s'intéresser également aux éléments qui la déterminent pour pouvoir y intervenir si on veut jouer sur cette énergie du faisceau. Vous avez compris qu'on veut un faisceau d'une certaine énergie pour avoir une image d'une certaine qualité ou pour avoir une image pour de certaines fins diagnostiques.
+
+Et donc, on doit être capable de comprendre ou de jouer sur les éléments qui la déterminent pour la moduler, pour avoir l'image souhaitable. Le troisième maillon de la chaîne radiologique, c'est l'atténuation du faisceau de rayon X dans le corps. Le photon, on va parler à l'échelle du photon.
+
+Le photon incident, il arrive au niveau du corps et il va interagir avec les constituants du corps. Le corps humain, bien sûr, c'est constitué de cellules, mais cellules, c'est constitué de molécules, molécules d'atomes. Donc, on va parler photon, à l'échelle photon et atomes.
+
+Arrivé sur un atome, le photon peut interagir avec un électron du cortège ou de la couche périphérique. En agissant avec cet électron de la couche périphérique, il va éjecter l'électron et il va changer de trajectoire. C'est-à-dire, le faisceau qui avait une trajectoire directe, il va être cassé cette trajectoire, il va changer de trajectoire.
+
+En plus, il a cédé, en faisant ça, il a cédé une partie de son énergie à l'électron expulsé. Et donc, le photon incident a une trajectoire et une énergie différentes du photon qui va sortir de l'atome après avoir interagi avec un électron de la couche superficielle. Cet effet s'appelle l'effet quantum.
+
+Pour faire simple, le photon arrive sur un atome, il trouve un électron de la couche superficielle, il lui donne un peu de son énergie, donc l'électron sera expulsé et le photon va continuer sa trajectoire mais en la changeant. Donc, il n'aura plus la même trajectoire et en plus, il aura perdu une partie de son énergie. Deuxième effet qu'on peut avoir, deuxième interaction, c'est l'effet photoélectrique.
+
+C'est quoi cet effet ? C'est le photon qui arrive au niveau de l'atome. Cette fois-ci, il ne va pas interagir avec un électron de la couche superficielle mais un électron de la couche profonde. Qu'est-ce qui va arriver lorsqu'il va faire ça ? En agissant avec l'électron de la couche profonde, il va être complètement absorbé ou il va céder tout ou l'ensemble de son énergie, le photon va céder l'ensemble de son énergie à l'électron de cette couche.
+
+Et cet électron va être éjecté, il va s'appeler photoélectron. Donc, l'effet photoélectrique c'est quoi ? C'est le photon qui arrive et qui interagit avec un électron de la couche profonde. Cette interaction consiste à ce que le photon cède l'ensemble ou la totalité de son énergie à cet électron et cet électron va être éjecté de sa couche et va être appelé photoélectron.
+
+Donc, avec cette interaction, le photon est totalement absorbé au niveau de l'atome. Il n'y a plus de photon qui sort après s'il y a effet photoélectrique. Donc, l'effet photoélectrique, pour redire en d'autres mots, c'est l'arrachement d'un électron de la couche profonde d'un atome.
+
+Le photon incident cède la totalité de son énergie à l'électron qui est éjecté. L'énergie cinétique de l'électron sera absorbée par la matière environnante. Et donc, avec cet effet photoélectrique, le photon X est totalement absorbé.
+
+Il ne sort plus. Il n'y a plus de photon X s'il y a effet photoélectrique. Donc, si on veut résumer, l'effet photoélectrique qu'est-ce qu'il va donner ? Il va donner la diminution du nombre de photons.
+
+Ceux qui ont subi cet effet, ils ont été arrêtés, absorbés totalement. Donc, il y a diminution du nombre de photons. Mais également, si on parle à l'échelle du faisceau, il y a modification du spectre énergétique du faisceau.
+
+Parce que le faisceau ou l'énergie totale du faisceau, on a dit qu'il dépend du nombre de photons. Cette atténuation du faisceau de rayon X, on peut la calculer. Comment on la calcule ? En sachant le nombre de photons incident, ceux qui étaient émis, le faisceau qui est rentré dans le corps et le nombre de photons absorbés, en faisant la différence entre le nombre de photons entrés et le nombre de photons sortis, on peut faire le nombre de photons, on peut déduire le nombre de photons absorbés.
+
+L'atténuation, c'est donné par la formule nombre de photons absorbés, dn, divisé par le nombre de photons incident. Elle dépend de quoi, cette atténuation ? Elle dépend, premièrement, de l'épaisseur de la matière. Vous imaginez que si une matière est plus épaisse, plus il y a de cellules, plus il y a d'atomes, plus il y a d'interactions.
+
+Plus il y a d'atténuations. Mais pas seulement dans l'épaisseur, mais la capacité des tissus à atténuer le faisceau de rayon X. Ce qu'on appelle le MU, qui est le coefficient d'atténuation globale linéique du milieu. C'est-à-dire, c'est quoi ce MU ? Ça traduit la capacité des tissus à absorber ou à arrêter les rayons X. Et vous pouvez imaginer qu'il peut être différent d'un tissu à un autre.
+
+De quoi dépend le coefficient d'atténuation ? Le pouvoir d'atténuation, il dépend du Z du milieu. Le numéro atomique. Mais essentiellement du P, ou la densité.
+
+La densité d'un milieu. Donc, si on prend l'air, par exemple, regardez là, il est très peu dense. Donc ça n'atténue presque pas.
+
+Les faisceaux de rayon X passent sans être atténués. Alors que les tissus mous, ça atténue modérément. Regardez là, entre tissu mou et loup, presque la même densité.
+
+Si on imagine une vessie avec les reins, ça peut atténuer presque de la même manière. Et l'os, qui a une très grande densité, ça vous pouvez l'imaginer, l'os est très dense. Et donc l'os qui a une grande capacité d'atténuation vis-à-vis des rayons X. Si on veut récapituler.
+
+Donc, un faisceau de rayon X homogène, d'intensité connue, vient traverser un corps. Or, le corps, il contient des tissus différents, qui peuvent atténuer de façon différente les faisceaux de rayon X. Alors, à la sortie du corps, on va avoir un faisceau inhomogène, parce qu'il a été différemment atténué dans les différentes parties du corps. Si on prend les choses du point de vue d'intensité, donc un faisceau de rayon X d'intensité connue, Y, est atténué au niveau du corps ou de l'organisme de façon très inégale.
+
+Donc, en fonction, le faisceau a traversé plusieurs endroits, où il y a de l'os, où il y a de l'air, où il y a de l'eau, où il y a des tissus mous. Et donc, ce qui sort n'est pas un faisceau homogène, mais plusieurs petits, si on veut assimiler ça, à plusieurs petits coups, qui ont une intensité hétérogène, une intensité différente. Donc, après traverser du corps, ce qui sort, le faisceau sort hétérogène avec des intensités différentes, suivant les milieux qu'il a traversés.
+
+Tout à l'heure, on a vu l'intérêt de l'intensité, pas l'intensité, mais l'énergie du faisceau. Donc, l'énergie du photon, c'est ça qui va déterminer le type d'effet ou le type d'interaction avec l'atome et avec les électrons. Pour produire une bonne image, il faut favoriser l'effet photoélectrique.
+
+Et pour favoriser l'effet photoélectrique, qui va donner l'atténuation, qui est à l'origine de cette atténuation, à l'origine de l'image, pour le favoriser, il faut des photons d'une certaine énergie. D'accord ? Les photons d'une certaine énergie permettent ou vont interagir avec la matière en produisant un effet photoélectrique et pas un effet comptant. Et l'effet comptant ? L'effet comptant, en fait, en général, il produit des photons parasites qui ont été, on a vu, ils ont été déviés, ils n'ont pas la même énergie, donc ils vont juste parasiter l'image.
+
+Voilà une image qui montre le faisceau qui est conique, normalement, qui va directement, les photons, ils ont une trajectoire directe, avec l'effet comptant, ils vont être déviés et ça va donner des images parasites. Alors, point de vue image, regardez sur la première image, c'est des effets comptants, donc des images parasites, et ce qu'on appelle des rayonnements diffusés, c'est ce qu'on appelle le rayonnement diffusé. Ça dégrade la qualité de l'image.
+
+Alors que sur la deuxième, voyez, la qualité est meilleure. On a vu la production de rayons X, on a parlé des caractéristiques du faisceau de rayon X, surtout son énergie qui va déterminer son interaction et donc son atténuation dans le corps. On a parlé de l'atténuation dans le corps et ce qui la caractérise, et on a dit que l'atténuation était très importante.
+
+Cette atténuation est la plus importante dans la production de l'image. Donc la différence d'atténuation par les éléments du corps va nous donner l'image radiologique. Alors, après avoir traversé le corps et être différemment atténué, l'image qui sort ou l'image radiante, on doit la révéler, on doit la voir, et pour cela on doit la transporter ou la mettre sur un support.
+
+C'est le fait de mettre le faisceau qui a émergé du corps, qui est sorti du corps, atténué de façon inhomogène, et le voir sur une image, ça s'appelle la détection et ça fait appel à ce qu'on appelle des détecteurs. Les détecteurs sont de deux types, les détecteurs analogiques et les détecteurs numériques. On va voir chaque type, ses caractéristiques et comment ils fonctionnent.
+
+Le premier système de détection, le plus ancien, que vous ne verrez probablement pas, qui est probablement pas utilisé, c'est le couple écran film. Ça permet de faire une image, de prendre une image analogique. Ça veut dire quoi ? Comment est-ce qu'ils fonctionnent ? Les rayons X qui sont sortis du corps, bien sûr, qui sont atténués, ils viennent sur ce couple écran film.
+
+L'écran, c'est une couche de cristaux luminescents. C'est-à-dire quoi ? Que les rayons X arrivent sur cette couche de cristaux, ils vont produire une lumière, ils vont devenir luminescents. C'est cette lumière qui va interagir sur les bromures d'argent qui siègent sur le film ou qui tapissent le film et qui sont ces bromures d'argent sensibles aux photons.
+
+Donc, le couple écran film est fait d'un écran qui interagit avec les rayons X en émettant une lumière. C'est des cristaux luminescents qui émettent des lumières. Cette lumière proportionnelle aux rayons X va interagir avec un film qui est tapissé de bromures d'argent.
+
+Ces bromures d'argent sont sensibles aux photons. En fait, lorsque les bromures d'argent sont exposées aux photons, ces cristaux vont être scindés en brome et en argent. Ce qui arrive, c'est que les cristaux qui sont scindés, donc exposés aux photons, vont rester sur le film et ceux qui ne sont pas exposés et donc qui ne sont pas scindés vont être éliminés.
+
+Ensuite, le film va être développé. Il va être développé à l'abri de la lumière dans une chambre noire. Ça se fait en plusieurs étapes.
+
+Ce n'est pas important de connaître ces étapes, mais ce qui est important de connaître, c'est qu'à la fin de ce procédé, qu'est-ce qui arrive ? Ce qui va arriver, c'est que les cristaux de bromures d'argent qui ont été exposés aux photons vont rester fixés sur le film et ceux qui n'étaient pas exposés vont être éliminés. Comment vont apparaître ? Les zones qui étaient exposées vont noircir parce qu'elles contiennent toujours les bromures d'argent. Ceux qui n'étaient pas exposés vont devenir blancs.
+
+Ça veut dire quoi en termes d'interprétation ? Ça veut dire que les zones qui ont noirci, c'est des zones qui correspondent à des parties du corps qui n'ont pas absorbé les photons X, donc dont le coefficient d'absorption est bas. Alors que les régions qui sont restées blancs, c'est des régions non exposées et donc correspondent à des régions du corps qui ont totalement absorbé le faisceau de rayon X et c'est par exemple ce qui absorbe, parce qu'il y a un coefficient d'absorption très élevé, c'est par exemple l'os, donc les parties, le faisceau de rayon X ayant traversé l'os va être totalement absorbé et donc ne va pas interagir, ne va pas arriver sur le film et donc les zones correspondant à l'os sur le film vont apparaître en blanc. Prenons l'exemple de la radiographie thorax.
+
+Comment on peut obtenir une radiographie thorax analogique ? On envoie au départ un faisceau de rayon X d'intensité homogène, il traverse le thorax. Or le thorax est composé de plusieurs structures qui absorbent différemment le faisceau de rayon X. À la sortie du thorax, le faisceau va avoir des intensités différentes. Les régions, par exemple, prenons la partie qui a traversé l'os, la partie qui a traversé l'os ou le faisceau qui a traversé l'os, la partie du faisceau qui a traversé l'os, il va être complètement absorbé.
+
+Alors qu'au contraire, la partie qui a traversé le poumon va être très peu absorbée. Sur le film, qu'est-ce qui va arriver ? Comment ça va se traduire ? Ce qui a traversé l'os, absorbé, rien, aucun faisceau, aucun photon n'arrive sur le film. Donc les bromures de la région correspondant à l'os ne vont pas être scindées.
+
+Les bromures d'argent, les cristaux, dans le processus de développement, ils vont être éliminés. Prenons les régions pulmonaires, où il y a l'air. Le faisceau qui a traversé ou qui est sorti après avoir traversé le poumon, il était très peu absorbé.
+
+Ce qui sort, ce qui va venir sur le film et produire l'image, va être de grande intensité. Il va ioniser beaucoup des cristaux de bromure d'argent qui vont être fixés sur le film. En les fixant, ils vont noircir le film et apparaître en noir.
+
+C'est exactement ce qu'on voit. L'os apparaît en blanc, parce que ça correspond à des rayons X totalement absorbés, alors que le poumon apparaît plus en noir parce que ça correspond à une partie du faisceau de rayon X qui était totalement transmise ou qui était très peu absorbée. Le deuxième système, c'est le système de numérisation.
+
+C'est ce qui est actuellement répandu et très utilisé. C'est quoi un système de numérisation ? Ça consiste en quoi ? Ça consiste à transformer l'information, à transformer les différences d'intensité de faisceau de rayon X après avoir traversé le corps en une information numérique. En fait, on utilise pour cela des détecteurs sensibles aux rayons X pour remplacer le film classique.
+
+Qu'est-ce qu'ils font ces détecteurs ? Ces détecteurs, ils vont transformer, directement ou indirectement, ce n'est pas le problème, ils vont transformer les rayons X en un autre signal mesurable. C'est-à-dire, ils vont transformer les rayons X en électrons ou bien en photons lumineux ou bien en courants électriques et par la suite, on peut mesurer le nombre d'électrons, le nombre de photons lumineux et on va donner à l'ordinateur qui va transformer et calculer ces données-là en données numériques. On prend l'exemple de ce détecteur.
+
+Le détecteur, il a une couche particulière, qui est la couche de sélénium. Ce n'est pas le plus important, le nom de la couche, mais comment ça fonctionne ? Il y a des rayons X qui vont venir interagir avec cette couche sensible aux rayons X. Qu'est-ce qui va se produire avec des réactions ? Ça va produire ou ça va libérer des électrons. Ces électrons vont être collectés au niveau d'électrodes et puis transformés en courants électriques.
+
+Donc, on peut imaginer, plus on a de rayons X, plus on libère d'électrons, plus on produit un courant électrique d'intensité importante. Et donc, l'intensité du courant électrique qu'on a produit par cette réaction est proportionnelle aux rayons X. Or, l'avantage, c'est qu'on peut mesurer l'intensité de courant électrique qu'on a produit par cette réaction. Et donc, on peut mesurer l'intensité de faisceau de rayon X ou les intensités constituant le faisceau de rayon X après avoir traversé le rayon X. Là, c'est un autre exemple qui utilise les photons lumineux.
+
+Là, c'est la même chose. Plus on a de photons X sortis du corps, plus on a de la production de photons lumineux, plus on a production d'un courant électrique qu'on peut mesurer, donc qui sera proportionnel. L'intérêt du système numérique, c'est de donner ou d'attribuer des chiffres aux valeurs d'atténuation du faisceau de rayon X. Et ça, c'est très important.
+
+Pourquoi ? Parce que si on a l'image numérique qui est sous forme en fait de chiffres, elle peut être traitée, donc on peut améliorer la qualité d'image. On peut l'archiver, on peut garder sous forme d'archives, sous forme de CD ou de base de données et on peut faire un post-traitement. C'est ce qui arrive, par exemple, prenez n'importe quelle image numérique actuellement, vous pouvez modifier le contraste, modifier la luminosité, c'est ce qu'on peut faire également sur les radiographies faites de façon numérique, alors que l'analogique n'offre pas ça et c'est de qualité moindre.
+
+Un autre type particulier de détecteur, c'est l'amplificateur de luminance. Donc, c'est un détecteur particulier parce que ça nous permet de fournir une image en temps réel. C'est-à-dire quoi une image en temps réel ? Ce n'est pas une image fixe, mais on peut suivre, par exemple, un poumon qui respire ou un produit de contraste qui se propage.
+
+C'est sous forme, pas d'un cliché, mais sous forme d'un téléviseur qui nous montre les images radiographiques de façon cinétique. Alors, comment il fonctionne ? Il contient un premier écran, ce que vous voyez en vert. C'est quoi ce premier écran ? C'est une couche sensible aux rayons X. Qu'est-ce qu'elle va faire cette couche ? Elle va transformer les rayons X et les convertir en photons lumineux.
+
+Ensuite, sous l'effet de ces photons, une photocatode va libérer des électrons. Ensuite, ces électrons vont être accélérés et vont être focalisés dans une fenêtre. Les électrons, après avoir été focalisés dans la fenêtre de sortie, vont être recueillis sur le deuxième écran et transformés ou convertis en une image de forte intensité lumineuse.
+
+L'image finale, c'est une image qu'on peut transmettre sur un écran de télévision. C'est une image cinétique. Alors, quel est l'intérêt de connaître les types de détecteurs ? Par exemple, vous savez que si un cabinet vous fournit des images analogiques, vous ne pouvez pas en prendre des archives, vous ne pouvez pas demander à ce qu'on vous réimprime un cliché.
+
+Alors que s'il utilise des détecteurs numériques, c'est possible, sachant qu'actuellement, il y a peu de cabinets ou presque pas de cabinets qui utilisent des détecteurs ou le couple écran-film. Deuxième intérêt, c'est qu'on a vu l'amplificateur de luminance. Alors, vous savez maintenant que l'amplificateur de luminance, il permet de voir des images en temps réel ou cinétique.
+
+Et donc, si on veut faire une action, ce qu'on a dit dans l'introduction, on peut faire des actions. Si on veut faire, par exemple, une action ou prendre des radios dans des régions particulières où on doit contrôler la position du patient, il serait important d'avoir cet amplificateur de luminance. Il n'est pas seulement utilisé par les radiologues, ça il faut le savoir, il est utilisé dans le bloc opératoire, par exemple, par les traumatologues et ça leur permet de faire des actes chirurgicaux tout en suivant ce qu'ils font sur ces écrans d'amplificateur de luminance.
+
+Alors, quel est l'intérêt des produits de contraste ? C'est quoi déjà le produit de contraste ? C'est des produits qui ont la caractéristique d'être très absorbants vis-à-vis des photons X. Et donc, on dit, nous, ils vont opacifier un secteur, mais pourquoi on dit opacifier ? Parce qu'ils vont le faire apparaître en blanc. C'est l'exemple, par exemple là, des lumières ou des cavités excrétrices urinaires. Regardez sur la première radiographie, on ne voit pas le rein, on ne voit pas les cavités excrétrices, mais si on injecte un produit de contraste par les veines, qu'est-ce qui va arriver ? Il va être filtré par les reins, puis excréter dans les cavités excrétrices et ça nous permet, si on fait de la radiographie, de voir parfaitement bien les cavités excrétrices.
+
+Donc, on l'utilise pour le digestif, on peut opacifier des cavités digestives ou les lumières digestives, on peut opacifier les vaisseaux, qu'on normalement ne peut pas voir sans opacification, et on peut, comme cet exemple, opacifier les cavités. On arrive aux applications, bien à l'équipement en radiologie, parce que ce système qu'on vient de voir peut être appliqué, peut être modifié légèrement entre une application ou une autre, on va voir c'est quoi les applications possibles de ce système. La première application la plus simple, c'est la radiographie conventionnelle ou ce qu'on appelle radiographie os-poumon.
+
+Comme son nom l'indique, ça permet de faire les radiographies des os et de poumons, c'est ce qu'on a vu au début dans les exemples qu'on a donnés dans le cours. Son principe, c'est qu'elle permet l'acquisition d'une image statique, donc on n'a pas besoin d'un amplificateur de luminance pour le faire, et en général sur des patients allongés, comme on voit ici sur une table, c'est cette table où on peut allonger, ou bien debout, vous voyez, il y a un appareil où il y a un potique murale, ici, où on peut mettre le patient debout pour prendre la radiographie. Et voilà les images que ça peut donner, on peut voir le rachis, le bassin, on peut voir le thorax ou le rachis face profil, on peut voir les os du genou comme exemple, par exemple là.
+
+Donc, c'est des applications surtout de voir l'os. Alors, deuxième équipement, c'est la table télécommandée. La table télécommandée, c'est quoi ? C'est une table qui permet l'acquisition d'images dynamiques.
+
+Alors, qui dit dynamique, vous pensez directement à l'amplificateur de brillance. Qu'est-ce qu'elle nous permet, l'image dynamique, de faire ? De viser les zones à radiographier. C'est le cas de certaines zones de l'os.
+
+On ne peut pas les faire, par exemple, des articulations de l'épaule. Parfois, c'est difficile de faire certaines incidences, de prendre des radiographies spécifiques, si on ne vise pas. Ça peut se faire sans viser, mais c'est meilleur de faire avec une table télécommandée, avec une acquisition dynamique.
+
+Deuxièmement, c'est de suivre l'écoulement d'un produit de contraste. On a dit, dans le produit de contraste, qu'on ne pouvait opacifier, par exemple, le tube digestif. En opacifiant le tube digestif, il ne va pas être opacifié d'un seul tenant.
+
+Donc, on doit suivre son opacification. C'est le cas du grève. On doit suivre son opacification, petit à petit, par cette acquisition d'images dynamiques.
+
+Donc, c'est ça l'intérêt. En plus, elle a la particularité, cette table, de pouvoir faire des rotations de sa table. C'est des tables sophistiquées.
+
+Ça permet de faire des choses particulières, de prendre des radiographies particulières. Là, c'est des exemples. Regardez l'opacification urinaire.
+
+Et ça, c'est ce dont on vient de parler, l'opacification du grêle. On ne peut pas faire, si on ne suit pas, avec du dynamique. Ce n'est pas faisable avec une table simple.
+
+Là, également, l'opacification de la cavité utérine, ce qu'on appelle une hystérosalpincographie. Donc, on opacifie la cavité utérine. Voyez le petit fin trait, ça correspond à l'opacification des trempes, au brassage, ce qu'on appelle le brassage.
+
+Donc, ça nous permet de faire une opacification en cavité utérine qui a certaines indications. Là, ce dont on a parlé, ça nous permet de faire des radiographies particulières, comme des incidences des radiographies particulières de l'épaule. Troisième équipement, c'est l'angiographie ou la table vasculaire.
+
+À quoi ça sert ? Ça sert à radiographier les vaisseaux sanguins. C'est une technique qui permet, en injectant un produit de contraste dans les vaisseaux, de suivre l'écoulement de ce produit de contraste dans les vaisseaux. Qui dit suivre l'écoulement, dit les images dynamiques, dit, comme vous voyez là, l'écran téléviseur sur l'image, et donc l'amplificateur de luminance.
+
+Cette technique, comme vous voyez les images, nous permet de voir les vaisseaux. Donc, s'il y a une pathologie sur le vaisseau, on peut la voir, on peut la diagnostiquer par cette technique. Mais pas seulement ça.
+
+Elle nous permet de monter des guides, on peut monter certains guides dans les vaisseaux et d'intervenir sur certains vaisseaux, c'est ce qu'on a dit au tout début. Donc, ces techniques de radiographie nous permettent le diagnostic, mais également nous offrent des possibilités de traiter certaines pathologies, notamment pathologies vasculaires. Alors, autre examen, c'est la mammographie.
+
+Donc déjà le nom, mammographie, ça vient de ma mère, donc c'est la graphie ou l'imagerie ou la radiographie du sein. C'est un examen qui fait des radiographies de chaque sein à part et qui nous permet d'analyser le volume de ma mère ou bien la glande de ma mère. Alors, la table de mammographie, elle a ses particularités parce qu'elle est adressée à faire le sein de 1. Donc, elle a certaines particularités, elle doit recevoir le sein d'une part, en même temps, elle doit avoir des particularités au niveau de son tube qui produit des rayons X qui ont une énergie particulière qui permet d'analyser le sein.
+
+Là également, c'est des images de mammographie, c'est-à-dire de radiographie de sein. Il y a d'autres moyens, on ne va pas rentrer dans le détail, mais il faut connaître ces moyens, c'est la tomosynthèse. C'est une technique qui est entre radiographie et scanner qui permet de faire des radiographies du sein, mais en coupe, en volume.
+
+Alors là, c'est les images de tomosynthèse, c'est pour vous montrer que ça peut donner des images 3D, c'est à droite, vous voyez 3D, mais on peut analyser, normalement on analyse en 2D et ça permet normalement de faire une analyse fine par rapport à la maman. Alors, qu'est-ce qu'on a retenu de ce cours ? On a retenu ce que c'est que la chaîne radiologique et comment ça fonctionne et que la finalité de cette chaîne radiologique c'est avoir des images de bonne qualité. Et pour avoir des images de bonne qualité, il faut que chaque maillon de cette chaîne fasse son travail ou son rôle de la façon la plus optimale.
+
+Et pour la faire de la façon la plus optimale, il faut qu'il y ait les réglages adéquats. En plus, qu'est-ce qu'on a pu voir ? On a pu voir qu'il y a des limites à cette technique, à cette technique de radiographie. Notamment, par exemple, on a vu les radiographies sur l'abdomen, l'ASP, ce qu'on appelle l'ASP.
+
+On a vu qu'on ne pouvait pas voir les organes à l'intérieur. Ce qu'on pouvait pourtant voir, c'est l'os, analyser l'os, mais pas les organes. On ne pouvait pas voir le foie, les reins, la rate, par exemple.
+
+Donc, cette méthode a ses indications et ses limites, bien sûr. Et merci.

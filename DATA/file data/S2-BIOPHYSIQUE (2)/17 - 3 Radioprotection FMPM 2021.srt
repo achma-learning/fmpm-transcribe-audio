@@ -1,0 +1,4075 @@
+1
+00:00:01,290 --> 00:00:02,370
+Bonjour tout le monde.
+
+2
+00:00:02,730 --> 00:00:04,690
+Alors, le cours d'aujourd'hui s'intitule
+
+3
+00:00:04,690 --> 00:00:05,510
+la radioprotection.
+
+4
+00:00:06,410 --> 00:00:08,030
+Le plan qu'on va suivre tous ensemble,
+
+5
+00:00:08,270 --> 00:00:10,090
+donc après la démission, on va voir la
+
+6
+00:00:10,090 --> 00:00:14,290
+classification des rayonnements ionisants, après les sources de
+
+7
+00:00:14,290 --> 00:00:16,670
+radiation qui sont possibles, et puis la classification
+
+8
+00:00:16,670 --> 00:00:19,090
+des personnes, parce que dans un service ou
+
+9
+00:00:19,090 --> 00:00:22,550
+dans les locaux qui utilisent un rayonnement, les
+
+10
+00:00:22,550 --> 00:00:27,610
+personnes qui sont affectées sont généralement divisées en
+
+11
+00:00:27,610 --> 00:00:28,250
+deux types.
+
+12
+00:00:28,450 --> 00:00:29,330
+Donc il y a des personnes qui sont
+
+13
+00:00:29,330 --> 00:00:32,390
+directement affectées des travaux sur les rayonnements ionisants
+
+14
+00:00:32,390 --> 00:00:33,510
+et d'autres qui ne le sont pas.
+
+15
+00:00:34,410 --> 00:00:36,730
+Après, on va voir les principes de base
+
+16
+00:00:36,730 --> 00:00:37,810
+de la radioprotection.
+
+17
+00:00:38,050 --> 00:00:43,270
+Comment donc répandre aux bases pour pouvoir utiliser
+
+18
+00:00:43,270 --> 00:00:44,330
+donc une source radioactive.
+
+19
+00:00:45,210 --> 00:00:48,790
+Après, le chapitre suivant sera les limites de
+
+20
+00:00:48,790 --> 00:00:52,090
+doses que les travailleurs peuvent recevoir.
+
+21
+00:00:52,290 --> 00:00:55,270
+Ils ne doivent pas généralement dépasser.
+
+22
+00:00:56,050 --> 00:00:59,430
+Après, les modes des radiations, donc il n
+
+23
+00:00:59,430 --> 00:01:00,650
+'y a pas que les radiations externes, mais
+
+24
+00:01:00,650 --> 00:01:01,250
+il y en a d'autres qu'on
+
+25
+00:01:01,250 --> 00:01:02,510
+va voir dans ce chapitre-là.
+
+26
+00:01:03,349 --> 00:01:07,470
+Après, les moyens de protection contre les différents
+
+27
+00:01:07,470 --> 00:01:10,090
+modes des radiations qui sont généralement de trois
+
+28
+00:01:10,090 --> 00:01:10,370
+types.
+
+29
+00:01:10,550 --> 00:01:11,410
+Donc je précise qu'il y a les
+
+30
+00:01:11,410 --> 00:01:14,030
+radiations externes, les radiations internes et la contamination
+
+31
+00:01:14,690 --> 00:01:15,090
+externe.
+
+32
+00:01:15,550 --> 00:01:17,470
+Après, le zonage, ça veut dire que dans
+
+33
+00:01:17,470 --> 00:01:21,270
+un service qui utilise donc un rayonnement, les
+
+34
+00:01:21,270 --> 00:01:25,270
+différents locaux seront étiquetés, et puis donc très
+
+35
+00:01:25,270 --> 00:01:28,010
+précisées quels sont les zones qui sont surveillées,
+
+36
+00:01:28,130 --> 00:01:29,830
+quels sont les zones qui sont contrôlées, et
+
+37
+00:01:29,830 --> 00:01:31,330
+en fonction de chaque zone, donc il y
+
+38
+00:01:31,330 --> 00:01:32,630
+a des limites qui ne faut pas dépasser.
+
+39
+00:01:33,290 --> 00:01:34,390
+C'est ce qu'on va voir dans
+
+40
+00:01:34,390 --> 00:01:35,470
+ce chapitre-là.
+
+41
+00:01:36,250 --> 00:01:39,130
+Et puis, finalement, donc le zonage, la personne
+
+42
+00:01:39,130 --> 00:01:41,030
+généralement qui est responsable, c'est la personne
+
+43
+00:01:41,030 --> 00:01:43,090
+chargée de la radioprotection, d'accord, généralement c
+
+44
+00:01:43,090 --> 00:01:45,270
+'est un physicien ou une physicienne médicale.
+
+45
+00:01:45,350 --> 00:01:47,510
+Et puis, le dernier chapitre sera en cas
+
+46
+00:01:47,510 --> 00:01:49,950
+des radiations qui sont donc les...
+
+47
+00:01:49,950 --> 00:01:54,630
+Alors déjà, dans la définition, je précise que
+
+48
+00:01:54,630 --> 00:01:57,410
+donc la radioprotection, c'est en fait l
+
+49
+00:01:57,410 --> 00:02:00,070
+'ensemble, d'accord, des mesures destinées à assurer
+
+50
+00:02:00,070 --> 00:02:00,690
+la protection.
+
+51
+00:02:00,910 --> 00:02:01,950
+Donc la protection de qui?
+
+52
+00:02:02,210 --> 00:02:02,850
+Donc il y en a deux.
+
+53
+00:02:02,930 --> 00:02:03,810
+Il y a l'homme, d'accord, qui
+
+54
+00:02:03,810 --> 00:02:06,070
+utilise les sources, d'accord, et même le
+
+55
+00:02:06,070 --> 00:02:07,570
+public, mais surtout l'environnement.
+
+56
+00:02:07,930 --> 00:02:09,030
+Et ça, c'est très important parce que
+
+57
+00:02:09,030 --> 00:02:11,270
+les sources, donc après utilisation, elles peuvent être
+
+58
+00:02:11,270 --> 00:02:13,870
+donc mises à côté ou bien déversées dans
+
+59
+00:02:13,870 --> 00:02:17,390
+la nature et lorsqu'elles sont toujours radioactives,
+
+60
+00:02:17,490 --> 00:02:19,070
+donc là, le risque, bien sûr, des radiations
+
+61
+00:02:19,070 --> 00:02:20,330
+dans la nature est très important.
+
+62
+00:02:21,310 --> 00:02:23,310
+Donc c'est l'ensemble des mesures qui
+
+63
+00:02:23,310 --> 00:02:24,970
+sont destinées à assurer la protection de l
+
+64
+00:02:24,970 --> 00:02:27,530
+'homme et de l'environnement contre les effets
+
+65
+00:02:27,530 --> 00:02:29,350
+néfastes, bien sûr, des rayonnements.
+
+66
+00:02:29,990 --> 00:02:32,550
+Alors donc la radioprotection, donc, elle concerne, comme
+
+67
+00:02:32,550 --> 00:02:34,170
+je viens de vous expliquer, donc les travailleurs
+
+68
+00:02:34,170 --> 00:02:36,010
+qui utilisent les rayonnements, il y a la
+
+69
+00:02:36,010 --> 00:02:38,310
+population, d'accord, et puis les écosystèmes d
+
+70
+00:02:38,310 --> 00:02:39,970
+'une manière générale, à savoir l'eau, les
+
+71
+00:02:39,970 --> 00:02:40,550
+plantes, l'air.
+
+72
+00:02:42,310 --> 00:02:43,110
+C'est très important.
+
+73
+00:02:43,470 --> 00:02:44,850
+On peut les classer par la nature ou
+
+74
+00:02:44,850 --> 00:02:45,350
+par les effets.
+
+75
+00:02:45,450 --> 00:02:48,290
+Par la nature électromagnétique particulière, vous avez donc
+
+76
+00:02:48,290 --> 00:02:50,610
+l'alice, ou par les effets ionisants et
+
+77
+00:02:50,610 --> 00:02:51,290
+non ionisants.
+
+78
+00:02:52,150 --> 00:02:53,390
+C'est une classification très simple.
+
+79
+00:02:53,470 --> 00:02:55,150
+C'est une classification qui est un peu
+
+80
+00:02:55,150 --> 00:02:56,550
+plus détaillée.
+
+81
+00:02:56,770 --> 00:02:56,990
+D'accord?
+
+82
+00:02:57,710 --> 00:02:59,750
+Alors après, maintenant les sources.
+
+83
+00:03:00,730 --> 00:03:04,730
+Alors il faut savoir que on peut déjà
+
+84
+00:03:04,730 --> 00:03:07,370
+commencer par les personnes.
+
+85
+00:03:07,510 --> 00:03:08,610
+Donc il y a deux types de personnes.
+
+86
+00:03:09,050 --> 00:03:10,690
+Il y a des personnes qui sont directement
+
+87
+00:03:11,830 --> 00:03:14,850
+exposées et d'autres personnes qui ne le
+
+88
+00:03:14,850 --> 00:03:15,150
+sont pas.
+
+89
+00:03:15,210 --> 00:03:16,710
+Donc on va commencer par ces derniers.
+
+90
+00:03:16,830 --> 00:03:19,870
+Donc les radiations des personnes non professionnellement exposées.
+
+91
+00:03:21,410 --> 00:03:21,630
+D'accord?
+
+92
+00:03:24,390 --> 00:03:27,750
+Et dans ce cas, il y a quatre
+
+93
+00:03:27,750 --> 00:03:28,890
+types d'irradiations.
+
+94
+00:03:29,130 --> 00:03:31,170
+La plus simple, c'est l'irradiation naturelle,
+
+95
+00:03:31,230 --> 00:03:32,810
+d'accord, qui peut être soit d'origine
+
+96
+00:03:32,810 --> 00:03:35,070
+cosmique, terrestre ou par l'organisme.
+
+97
+00:03:35,730 --> 00:03:38,990
+Alors on va commencer par l'irradiation naturelle,
+
+98
+00:03:39,110 --> 00:03:40,230
+mais cette fois-ci cosmique.
+
+99
+00:03:40,290 --> 00:03:41,230
+Alors cosmique, pourquoi?
+
+100
+00:03:41,990 --> 00:03:44,230
+Parce que, donc, il provient, comme vous voyez
+
+101
+00:03:44,230 --> 00:03:47,150
+ici, donc les particules cosmiques primaires qui peuvent
+
+102
+00:03:47,150 --> 00:03:49,570
+être soit du muon, soit des électrons, soit
+
+103
+00:03:49,570 --> 00:03:52,890
+des neutrons, soit des protons, soit des électrons,
+
+104
+00:03:53,010 --> 00:03:55,210
+soit des positons, enfin bref, ce sont des
+
+105
+00:03:55,210 --> 00:03:57,010
+particules cosmiques qui sont primaires, d'accord?
+
+106
+00:03:57,930 --> 00:04:03,310
+Et la valeur de cette irradiation, donc elle
+
+107
+00:04:03,310 --> 00:04:04,950
+croît avec l'altitude.
+
+108
+00:04:05,530 --> 00:04:05,670
+D'accord?
+
+109
+00:04:06,610 --> 00:04:07,130
+Exemple.
+
+110
+00:04:08,170 --> 00:04:11,150
+Sa valeur, elle est de 0,03 micro
+
+111
+00:04:11,150 --> 00:04:14,210
+-Sieverts ou bien 0,3 millisieverts, là vous
+
+112
+00:04:14,210 --> 00:04:15,490
+avez le millis, et là c'est le
+
+113
+00:04:15,490 --> 00:04:16,290
+micro, d'accord?
+
+114
+00:04:16,510 --> 00:04:17,730
+Par heure, bien sûr, ici.
+
+115
+00:04:19,170 --> 00:04:20,209
+Au niveau de la mer.
+
+116
+00:04:20,970 --> 00:04:23,170
+Et cette valeur, donc, elle augmente au fur
+
+117
+00:04:23,170 --> 00:04:24,690
+et à mesure, d'accord, en fonction de
+
+118
+00:04:24,690 --> 00:04:25,950
+la distance qui est parcourue.
+
+119
+00:04:26,250 --> 00:04:31,230
+Par exemple, donc le double à 1500, vous
+
+120
+00:04:31,230 --> 00:04:32,690
+avez ici donc 1500, donc il n'y
+
+121
+00:04:32,690 --> 00:04:33,590
+a pas le chiffre, mais bref.
+
+122
+00:04:34,030 --> 00:04:38,530
+Donc chaque fois que vous constatez que on
+
+123
+00:04:38,530 --> 00:04:40,270
+remonte, donc par rapport au niveau de la
+
+124
+00:04:40,270 --> 00:04:44,050
+mer, d'accord, les valeurs de l'irradiation
+
+125
+00:04:44,050 --> 00:04:47,910
+qui sont cosmiques, donc, deviennent de plus très
+
+126
+00:04:47,910 --> 00:04:48,450
+importantes.
+
+127
+00:04:49,290 --> 00:04:50,970
+Exemple, si vous passez une semaine de ski
+
+128
+00:04:50,970 --> 00:04:53,210
+à une hauteur de 1500, donc vous allez
+
+129
+00:04:53,210 --> 00:04:58,130
+recevoir une irradiation je dirais cosmique, d'accord,
+
+130
+00:04:58,330 --> 00:05:01,110
+d'environ 0,05 millisieverts.
+
+131
+00:05:02,130 --> 00:05:03,810
+Et puis, donc, les gens qui sont les
+
+132
+00:05:03,810 --> 00:05:05,910
+plus exposés dans ce cas, ce sont les
+
+133
+00:05:05,910 --> 00:05:10,190
+gens, bien sûr, l'équipage des avions et
+
+134
+00:05:10,190 --> 00:05:12,150
+les cosmonautes, voilà, où ils ont donc des
+
+135
+00:05:12,150 --> 00:05:14,510
+doses qui sont proches de la limite annuelle,
+
+136
+00:05:14,630 --> 00:05:16,330
+parce que l'altitude, donc, elle est très
+
+137
+00:05:16,330 --> 00:05:16,850
+importante.
+
+138
+00:05:17,170 --> 00:05:17,410
+D'accord?
+
+139
+00:05:18,070 --> 00:05:20,570
+Bien, alors, je récapitule.
+
+140
+00:05:20,670 --> 00:05:22,650
+Vous avez l'irradiation des personnes non professionnellement
+
+141
+00:05:22,650 --> 00:05:24,610
+exposées, ça c'est le premier groupe, d
+
+142
+00:05:24,610 --> 00:05:25,990
+'accord, et dans ce groupe, donc, il y
+
+143
+00:05:25,990 --> 00:05:26,910
+a quatre types d'irradiation.
+
+144
+00:05:27,130 --> 00:05:29,190
+Il y a l'irradiation naturelle, elle aussi,
+
+145
+00:05:29,310 --> 00:05:30,470
+donc, est divisée en trois groupes.
+
+146
+00:05:30,650 --> 00:05:32,490
+Donc, cosmique, qu'on a déjà vu, d
+
+147
+00:05:32,490 --> 00:05:32,590
+'accord.
+
+148
+00:05:32,810 --> 00:05:35,050
+Maintenant, on va voir l'irradiation terrestre.
+
+149
+00:05:35,770 --> 00:05:38,230
+Alors, l'irradiation terrestre, donc, elle est provoquée
+
+150
+00:05:38,230 --> 00:05:38,790
+par le radon.
+
+151
+00:05:38,910 --> 00:05:39,930
+Donc, un petit rappel, c'est quoi le
+
+152
+00:05:39,930 --> 00:05:40,130
+radon?
+
+153
+00:05:40,230 --> 00:05:41,590
+C'est un gaz radioactif, un de l
+
+154
+00:05:41,590 --> 00:05:43,690
+'or, d'accord, un que l'or et
+
+155
+00:05:43,690 --> 00:05:44,770
+un cyprus, ça veut dire qu'il n
+
+156
+00:05:44,770 --> 00:05:45,190
+'y a pas de goût.
+
+157
+00:05:46,130 --> 00:05:47,490
+Alors, il provient de quoi?
+
+158
+00:05:47,690 --> 00:05:50,290
+Vous avez ici, donc, voilà, il provient de
+
+159
+00:05:50,290 --> 00:05:52,730
+la désintégration de l'uranium-238.
+
+160
+00:05:53,010 --> 00:05:54,690
+Alors, l'uranium-238, c'est ça, et
+
+161
+00:05:54,690 --> 00:05:58,430
+l'uradium-226, qui sont présents dans la
+
+162
+00:05:58,430 --> 00:06:00,210
+croûte terrestre.
+
+163
+00:06:01,290 --> 00:06:05,970
+Et, voilà, donc, voilà, c'est par désintégration,
+
+164
+00:06:06,150 --> 00:06:07,470
+donc, on a le radon qui va remonter,
+
+165
+00:06:07,630 --> 00:06:08,630
+bien sûr, donc, à la surface.
+
+166
+00:06:10,910 --> 00:06:16,510
+Alors, le radon, vous avez ici, ce radon
+
+167
+00:06:16,510 --> 00:06:19,510
+-là, il peut se désintégrer, d'accord, lui
+
+168
+00:06:19,510 --> 00:06:21,430
+aussi, donc, une fois à la surface arrivé,
+
+169
+00:06:23,070 --> 00:06:25,170
+pour former des descendants qui sont solides, qui
+
+170
+00:06:25,170 --> 00:06:26,910
+sont eux-mêmes, qui sont très radioactifs.
+
+171
+00:06:27,670 --> 00:06:28,050
+D'accord?
+
+172
+00:06:28,810 --> 00:06:30,910
+Et ces descendants peuvent se fixer sur les
+
+173
+00:06:30,910 --> 00:06:35,030
+aérosols de l'air et, bien sûr, donc,
+
+174
+00:06:35,310 --> 00:06:38,570
+une fois inhalés, ils vont se fixer au
+
+175
+00:06:38,570 --> 00:06:41,410
+niveau du poumon et c'est là où
+
+176
+00:06:41,410 --> 00:06:45,030
+le risque d'irradiation est très important parce
+
+177
+00:06:45,030 --> 00:06:46,910
+que ils vont déposer quoi?
+
+178
+00:06:47,090 --> 00:06:50,750
+Ils vont déposer surtout les particules alpha.
+
+179
+00:06:51,510 --> 00:06:53,790
+Et je rappelle que les particules alpha sont
+
+180
+00:06:53,790 --> 00:07:00,830
+des particules qui sont très ionisantes avec un
+
+181
+00:07:00,830 --> 00:07:02,990
+transfert linéaire qui est très important et surtout,
+
+182
+00:07:03,610 --> 00:07:06,610
+donc, une densité linéaire d'ionisation qui avoise
+
+183
+00:07:06,610 --> 00:07:08,750
+les 4500 paires d'ion créées par une
+
+184
+00:07:08,750 --> 00:07:09,230
+particule.
+
+185
+00:07:09,730 --> 00:07:10,090
+Bien.
+
+186
+00:07:10,910 --> 00:07:14,010
+Alors, pour le radon, vous devez savoir que
+
+187
+00:07:14,910 --> 00:07:17,090
+l'irradiation est de 0,3 à 0
+
+188
+00:07:17,090 --> 00:07:19,630
+,5 millisieverts par an dans les régions sédimentaires
+
+189
+00:07:19,630 --> 00:07:21,190
+et de 1,3 dans les régions qui
+
+190
+00:07:21,190 --> 00:07:21,790
+sont granitiques.
+
+191
+00:07:22,270 --> 00:07:24,410
+Bon, bref, l'irradiation, donc, elle dépend des
+
+192
+00:07:24,410 --> 00:07:24,910
+éléments suivants.
+
+193
+00:07:24,910 --> 00:07:27,670
+La nature du sol, parce que ça dépend.
+
+194
+00:07:28,330 --> 00:07:32,110
+Le sol, donc, c'est du granit ou
+
+195
+00:07:32,110 --> 00:07:32,470
+autre.
+
+196
+00:07:33,050 --> 00:07:34,870
+Elle dépend du matériau de construction et du
+
+197
+00:07:34,870 --> 00:07:35,410
+taux de ventilation.
+
+198
+00:07:35,910 --> 00:07:37,690
+Ça, c'est très important parce que les
+
+199
+00:07:37,690 --> 00:07:40,930
+maisons qui sont mal ventilées, d'accord, donc,
+
+200
+00:07:41,050 --> 00:07:44,790
+la vapeur du radon va s'y accumuler
+
+201
+00:07:44,790 --> 00:07:48,350
+et ne sera pas, donc, extériorisée et du
+
+202
+00:07:48,350 --> 00:07:50,150
+coup, le taux d'irradiation sera très important.
+
+203
+00:07:50,290 --> 00:07:51,950
+C'est pourquoi il faut toujours aérer le
+
+204
+00:07:51,950 --> 00:07:56,830
+soleil, donc, les maisons et ce taux d
+
+205
+00:07:56,830 --> 00:07:59,830
+'irradiation causé par le radon dépend également des
+
+206
+00:07:59,830 --> 00:08:02,910
+conditions météorologiques, savoir le vent, le soleil, le
+
+207
+00:08:02,910 --> 00:08:04,090
+pluie et le froid.
+
+208
+00:08:05,330 --> 00:08:08,250
+Et puis, est-ce que les lieux sont
+
+209
+00:08:08,250 --> 00:08:09,950
+confinés ou pas, parce que les grottes et
+
+210
+00:08:09,950 --> 00:08:12,390
+les mines, donc, le taux d'irradiation causé
+
+211
+00:08:12,390 --> 00:08:14,210
+par le radon est très important.
+
+212
+00:08:14,670 --> 00:08:15,990
+Là, vous avez quelques chiffres, d'accord.
+
+213
+00:08:17,130 --> 00:08:21,490
+Alors, toujours, dans les radiations naturelles, donc, nous
+
+214
+00:08:21,490 --> 00:08:24,530
+avons vu les radiations cosmiques et les radiations
+
+215
+00:08:25,150 --> 00:08:26,130
+causées par le radon.
+
+216
+00:08:26,850 --> 00:08:29,950
+Maintenant, les radiations naturelles de l'organisme qui
+
+217
+00:08:29,950 --> 00:08:30,950
+est causé par le potassium.
+
+218
+00:08:31,110 --> 00:08:33,870
+Alors, le potassium, donc, il existe dans le
+
+219
+00:08:33,870 --> 00:08:35,809
+corps humain, donc, avec un pourcentage qui est
+
+220
+00:08:35,809 --> 00:08:36,830
+très important quand même.
+
+221
+00:08:38,490 --> 00:08:40,270
+Alors, là, on est dans l'ordre de
+
+222
+00:08:40,270 --> 00:08:42,630
+2,2 grammes de potassium par kilo, d
+
+223
+00:08:42,630 --> 00:08:45,050
+'accord, sachant qu'un gramme de potassium provoque
+
+224
+00:08:45,050 --> 00:08:46,970
+une irradiation de 37 micrènes.
+
+225
+00:08:48,510 --> 00:08:50,770
+En matière d'irradiation interne, donc, il est
+
+226
+00:08:50,770 --> 00:08:52,830
+de l'ordre de 0,25 millisieverts par
+
+227
+00:08:52,830 --> 00:08:52,970
+an.
+
+228
+00:08:53,470 --> 00:08:53,570
+Voilà.
+
+229
+00:08:54,850 --> 00:08:56,970
+Là, donc, le potassium, il va se désintégrer
+
+230
+00:08:57,930 --> 00:09:00,850
+en donnant l'argon 48 et le calcium
+
+231
+00:09:00,850 --> 00:09:01,690
+42.
+
+232
+00:09:02,330 --> 00:09:05,470
+Mais sachez que le potassium 40, donc, il
+
+233
+00:09:05,470 --> 00:09:07,790
+existe dans notre organisme, d'accord, avec un
+
+234
+00:09:07,790 --> 00:09:10,590
+chiffre de 2,2 grammes par potassium par
+
+235
+00:09:10,590 --> 00:09:12,830
+kilo, ce qui vaut à une irradiation interne
+
+236
+00:09:12,830 --> 00:09:15,370
+de 0,25 millisieverts par an.
+
+237
+00:09:15,370 --> 00:09:18,210
+Alors, on va passer après l'irradiation naturelle
+
+238
+00:09:18,210 --> 00:09:19,710
+à l'irradiation artificielle.
+
+239
+00:09:19,850 --> 00:09:23,990
+Alors, l'irradiation artificielle, généralement causée par des
+
+240
+00:09:23,990 --> 00:09:28,690
+erreurs de l'activité, donc, humaine, en moyenne,
+
+241
+00:09:28,990 --> 00:09:30,970
+soit un accélérateur, d'accord, comme vous voyez
+
+242
+00:09:30,970 --> 00:09:33,370
+ici, soit un réacteur nucléaire.
+
+243
+00:09:37,140 --> 00:09:38,820
+Elle est de l'ordre de 0,10
+
+244
+00:09:38,820 --> 00:09:41,160
+millisieverts par an et les origines de cette
+
+245
+00:09:41,160 --> 00:09:44,640
+irradiation artificielle, soit des rejets industriels, d'accord,
+
+246
+00:09:44,780 --> 00:09:46,240
+comme vous voyez ici, ce sont des déchets,
+
+247
+00:09:46,380 --> 00:09:50,620
+voilà, soit des retombées atmosphériques, des essais nucléaires,
+
+248
+00:09:51,080 --> 00:09:54,500
+d'accord, soit la persistance de ces retombées
+
+249
+00:09:54,500 --> 00:09:56,220
+-là, comme vous voyez là, donc les retombées
+
+250
+00:09:56,220 --> 00:09:58,460
+des essais, soit la persistance de ces retombées.
+
+251
+00:09:59,220 --> 00:10:00,180
+Pourquoi ?
+
+252
+00:10:00,180 --> 00:10:05,400
+Parce que, tout simplement, ces déchets qui sont
+
+253
+00:10:06,400 --> 00:10:10,120
+émis suite à un retombée atmosphérique, des essais
+
+254
+00:10:10,120 --> 00:10:13,260
+nucléaires, alors ces produits radioactifs, ils ont des
+
+255
+00:10:13,260 --> 00:10:15,720
+durées, d'accord, ou plutôt des périodes radioactives
+
+256
+00:10:15,720 --> 00:10:16,480
+qui sont comment ?
+
+257
+00:10:16,480 --> 00:10:18,160
+Qui sont très, très, très élevées.
+
+258
+00:10:18,580 --> 00:10:20,000
+Alors, on va prendre quelques exemples.
+
+259
+00:10:20,440 --> 00:10:22,420
+Si je prends, par exemple, le strontium, d
+
+260
+00:10:22,420 --> 00:10:25,060
+'accord, il a une période, d'accord, physique
+
+261
+00:10:25,060 --> 00:10:25,900
+de 28 ans.
+
+262
+00:10:26,360 --> 00:10:28,680
+Si je prends le cisium-137, sa période
+
+263
+00:10:28,680 --> 00:10:31,220
+est encore plus importante, d'environ 30 ans.
+
+264
+00:10:31,660 --> 00:10:33,220
+C'est pour cela que j'ai parlé
+
+265
+00:10:33,220 --> 00:10:34,200
+de persistance.
+
+266
+00:10:35,600 --> 00:10:38,140
+Après, les radiations accidentelles, là, elle est rare,
+
+267
+00:10:38,220 --> 00:10:39,480
+elle est grave, elle est due à une
+
+268
+00:10:39,480 --> 00:10:41,120
+erreur humaine, d'accord, ça peut être donc
+
+269
+00:10:41,120 --> 00:10:46,060
+une irradiation causée par un traitement par curéthérapie,
+
+270
+00:10:46,260 --> 00:10:47,800
+par un accélateur dans le cadre de la
+
+271
+00:10:47,800 --> 00:10:51,100
+radiothérapie, ou dans une centrale nucléaire.
+
+272
+00:10:52,420 --> 00:10:55,760
+L'irradiation médicale, cette fois-ci, c'est
+
+273
+00:10:55,760 --> 00:10:58,800
+une irradiation où il y a un bénéfice
+
+274
+00:10:58,800 --> 00:11:01,000
+-risque, d'accord, c'est très important, et
+
+275
+00:11:01,000 --> 00:11:02,380
+dans ce cas, donc, il faut faire une
+
+276
+00:11:02,380 --> 00:11:03,600
+balance entre est-ce qu'il y a
+
+277
+00:11:03,600 --> 00:11:05,360
+un bénéfice à faire cet examen ou pas.
+
+278
+00:11:05,920 --> 00:11:08,500
+Et si la balance, bien sûr, planche vers
+
+279
+00:11:08,500 --> 00:11:10,360
+le bénéfice, donc il faut y aller.
+
+280
+00:11:10,620 --> 00:11:12,280
+Par contre, c'est un risque très important,
+
+281
+00:11:12,460 --> 00:11:14,140
+donc il faut s'arrêter et voir un
+
+282
+00:11:14,140 --> 00:11:18,140
+autre moyen qui va remplacer cette irradiation qui
+
+283
+00:11:18,140 --> 00:11:19,160
+est nocive, en quelque sorte.
+
+284
+00:11:19,300 --> 00:11:21,200
+Alors, je parle de la mammographie, d'accord,
+
+285
+00:11:21,300 --> 00:11:23,100
+dans le cadre du diagnostic de cancer du
+
+286
+00:11:23,100 --> 00:11:23,340
+sein.
+
+287
+00:11:23,920 --> 00:11:27,140
+Je parle de l'irradiation diagnostique, la radiographie,
+
+288
+00:11:27,220 --> 00:11:28,920
+comme l'exemple ici, de certaines formes, par
+
+289
+00:11:28,920 --> 00:11:32,440
+exemple de tuberculose, de tumeur, voilà, du mydiastin
+
+290
+00:11:32,440 --> 00:11:36,020
+ou du poumon, de scanner, de scintigraphie, et
+
+291
+00:11:36,020 --> 00:11:39,080
+puis ça peut être aussi une irradiation dans
+
+292
+00:11:39,080 --> 00:11:41,540
+le cadre d'un traitement externe ou interne.
+
+293
+00:11:42,000 --> 00:11:44,820
+Mais toujours, toujours, d'accord, il faut, voilà,
+
+294
+00:11:44,920 --> 00:11:46,580
+faire une balance entre le bénéfice et le
+
+295
+00:11:46,580 --> 00:11:46,680
+risque.
+
+296
+00:11:46,880 --> 00:11:48,480
+Quand le bénéfice, il est supérieur au risque,
+
+297
+00:11:48,580 --> 00:11:49,280
+donc il faut y aller.
+
+298
+00:11:49,900 --> 00:11:51,780
+Et cette irradiation médicale, elle est aux alentours
+
+299
+00:11:51,780 --> 00:11:52,740
+de 1 millisievert par an.
+
+300
+00:11:54,100 --> 00:11:55,920
+Maintenant, alors, nous avons vu donc l'irradiation
+
+301
+00:11:55,920 --> 00:11:59,080
+des personnes qui ne sont pas professionnellement exposées.
+
+302
+00:11:59,180 --> 00:12:00,900
+Maintenant, c'est l'irradiation des gens qui
+
+303
+00:12:00,900 --> 00:12:01,640
+sont professionnels.
+
+304
+00:12:01,740 --> 00:12:04,560
+Alors, soit des professionnels de santé, soit des
+
+305
+00:12:04,560 --> 00:12:06,920
+professionnels qui travaillent dans l'industrie des rayonnements
+
+306
+00:12:06,920 --> 00:12:08,120
+ionisants, ou bien autre.
+
+307
+00:12:08,900 --> 00:12:11,700
+Alors, donc, on peut trouver dans plusieurs, dans
+
+308
+00:12:11,700 --> 00:12:14,320
+le cadre, par exemple, d'un hôpital, on
+
+309
+00:12:14,320 --> 00:12:16,860
+peut trouver des techniciens, on peut trouver des
+
+310
+00:12:16,860 --> 00:12:18,740
+radiologues, des médecins nucléaires, des radiothérapeutes.
+
+311
+00:12:18,900 --> 00:12:20,800
+Bon, bref, ce sont les personnes qui sont,
+
+312
+00:12:22,140 --> 00:12:25,260
+qui peuvent être exposées dans le cadre de
+
+313
+00:12:25,260 --> 00:12:25,880
+leur profession.
+
+314
+00:12:26,700 --> 00:12:30,520
+Alors, en résumé, vous avez l'irradiation naturelle,
+
+315
+00:12:30,520 --> 00:12:32,420
+médicale, industrielle, et ainsi de suite.
+
+316
+00:12:32,660 --> 00:12:36,740
+Mais, c'est la naturelle des cordes cosmiques,
+
+317
+00:12:36,880 --> 00:12:38,540
+le radon, le potassium qui se trouve à
+
+318
+00:12:38,540 --> 00:12:40,840
+l'intérieur de notre corps, qui représente le
+
+319
+00:12:40,840 --> 00:12:42,180
+pourcentage le plus important.
+
+320
+00:12:42,680 --> 00:12:43,880
+Et ça, c'est très important.
+
+321
+00:12:44,400 --> 00:12:45,700
+Parce que les gens, ils se trempent.
+
+322
+00:12:45,840 --> 00:12:47,340
+Ils disent, tiens, c'est peut-être, c
+
+323
+00:12:47,340 --> 00:12:49,380
+'est l'industrie, c'est le médical, c
+
+324
+00:12:49,380 --> 00:12:50,460
+'est accidentel, et tout.
+
+325
+00:12:50,620 --> 00:12:50,760
+Non.
+
+326
+00:12:51,120 --> 00:12:54,300
+C'est l'irradiation naturelle qui est responsable
+
+327
+00:12:54,300 --> 00:12:57,460
+du pourcentage le plus important en termes d
+
+328
+00:12:57,460 --> 00:12:58,180
+'irradiation de l'eau.
+
+329
+00:12:58,320 --> 00:12:58,780
+C'est pas ça.
+
+330
+00:12:59,360 --> 00:13:01,020
+C'est pas la question de la source.
+
+331
+00:13:01,020 --> 00:13:03,820
+Maintenant, on va voir la classification des travailleurs.
+
+332
+00:13:03,960 --> 00:13:06,340
+Alors, les travailleurs sont en nombre de trois.
+
+333
+00:13:06,460 --> 00:13:08,180
+Vous avez la classe A, la classe B,
+
+334
+00:13:08,260 --> 00:13:09,340
+la classe C.
+
+335
+00:13:10,360 --> 00:13:12,840
+Alors, la catégorie A et B, ce sont
+
+336
+00:13:14,740 --> 00:13:16,780
+en fonction avec les personnes.
+
+337
+00:13:16,900 --> 00:13:18,480
+Est-ce qu'ils sont en contact direct
+
+338
+00:13:18,480 --> 00:13:20,960
+ou indirect avec les sources de rayonnement ionisant?
+
+339
+00:13:21,400 --> 00:13:24,460
+S'ils sont directement en contact avec une
+
+340
+00:13:24,460 --> 00:13:27,920
+source, alors, ils sont classés dans la catégorie
+
+341
+00:13:27,920 --> 00:13:28,240
+A.
+
+342
+00:13:28,240 --> 00:13:28,860
+D'accord?
+
+343
+00:13:29,440 --> 00:13:33,960
+S'ils ne sont pas en contact avec
+
+344
+00:13:33,960 --> 00:13:37,220
+les sources, d'accord, on va les classer
+
+345
+00:13:37,220 --> 00:13:38,040
+dans la catégorie B.
+
+346
+00:13:38,960 --> 00:13:39,240
+Bien.
+
+347
+00:13:40,100 --> 00:13:43,340
+Alors, là, vous avez un service qui utilise
+
+348
+00:13:44,240 --> 00:13:46,380
+une source radioactive qui est marquée ici en
+
+349
+00:13:46,380 --> 00:13:48,460
+rouge, d'accord, qui se trouve plutôt dans
+
+350
+00:13:48,460 --> 00:13:49,720
+cette zone rouge.
+
+351
+00:13:50,600 --> 00:13:54,420
+Alors, là, vous avez deux zones, d'accord,
+
+352
+00:13:54,540 --> 00:13:57,160
+une zone qui est contrôlée, d'accord, et
+
+353
+00:13:57,160 --> 00:13:58,800
+une zone qui est surveillée, donc à l
+
+354
+00:13:58,800 --> 00:13:59,160
+'extérieur.
+
+355
+00:13:59,540 --> 00:14:01,880
+La zone contrôlée peut être soit verte, soit
+
+356
+00:14:01,880 --> 00:14:03,380
+jaune, soit orange, soit rouge.
+
+357
+00:14:03,720 --> 00:14:06,480
+Et tout ça, d'accord, c'est une
+
+358
+00:14:06,480 --> 00:14:07,440
+zone qui est contrôlée.
+
+359
+00:14:07,780 --> 00:14:09,880
+Mais, par contre, la zone externe, c'est
+
+360
+00:14:09,880 --> 00:14:11,060
+une zone qui est surveillée.
+
+361
+00:14:11,520 --> 00:14:13,140
+Alors, pour la catégorie A, donc, c'est
+
+362
+00:14:13,140 --> 00:14:14,660
+celle qui travaille dans la zone contrôlée.
+
+363
+00:14:15,320 --> 00:14:15,540
+Pourquoi?
+
+364
+00:14:15,760 --> 00:14:18,860
+Parce qu'ils utilisent directement, ils sont directement
+
+365
+00:14:18,860 --> 00:14:20,700
+en contact avec une source radioactive.
+
+366
+00:14:21,440 --> 00:14:23,120
+Ça peut être soit des infirmiers, soit des
+
+367
+00:14:23,120 --> 00:14:27,000
+manipulateurs, d'accord, mais, par contre, pour la
+
+368
+00:14:27,000 --> 00:14:28,840
+catégorie B, qui travaille dans une zone qui
+
+369
+00:14:28,840 --> 00:14:31,220
+est surveillée, ils ne sont pas directement en
+
+370
+00:14:31,220 --> 00:14:33,420
+contact avec une source radioactive.
+
+371
+00:14:34,220 --> 00:14:36,560
+Généralement, c'est le personnel qui se trouve,
+
+372
+00:14:36,760 --> 00:14:38,200
+c'est que les médecins, les physiciens et
+
+373
+00:14:38,200 --> 00:14:38,720
+ainsi de suite.
+
+374
+00:14:39,300 --> 00:14:41,200
+Et puis, il y a donc le reste
+
+375
+00:14:41,200 --> 00:14:43,740
+qui se trouve généralement là, d'accord, et
+
+376
+00:14:43,740 --> 00:14:46,600
+là, donc, il est représenté par le public,
+
+377
+00:14:48,460 --> 00:14:50,760
+d'accord, qui se trouve bien sûr, donc,
+
+378
+00:14:51,040 --> 00:14:54,980
+voilà, donc, au-delà de la zone surveillée.
+
+379
+00:14:57,180 --> 00:15:05,840
+Après, il faut savoir que pour, donc, ça,
+
+380
+00:15:05,940 --> 00:15:07,200
+c'est plus de détails, en fait, d
+
+381
+00:15:07,200 --> 00:15:07,340
+'accord.
+
+382
+00:15:08,280 --> 00:15:12,300
+Alors, maintenant, donc, voilà, vous avez des articles
+
+383
+00:15:12,300 --> 00:15:15,160
+et tout ça, donc, voilà, qui montrent qu
+
+384
+00:15:15,160 --> 00:15:16,300
+'on doit, donc, qu'il travaille de la
+
+385
+00:15:16,300 --> 00:15:18,080
+catégorie A, donc, on ne doit pas, donc,
+
+386
+00:15:18,240 --> 00:15:20,820
+dépasser les trois dixièmes des limites de dose
+
+387
+00:15:21,760 --> 00:15:24,900
+et la catégorie B, donc, ils peuvent, en
+
+388
+00:15:24,900 --> 00:15:27,220
+quelque sorte, donc, ils ont peu de chance,
+
+389
+00:15:27,340 --> 00:15:30,660
+plutôt, donc, ils peuvent, donc, dépasser les trois
+
+390
+00:15:30,660 --> 00:15:32,300
+dixièmes des limites de dose fixées par l
+
+391
+00:15:32,300 --> 00:15:34,040
+'article 14 et ainsi de suite.
+
+392
+00:15:34,420 --> 00:15:36,500
+Bon, ça, donc, il faut savoir déjà quelles
+
+393
+00:15:36,500 --> 00:15:37,560
+sont les limites, c'est pour cela que
+
+394
+00:15:37,560 --> 00:15:39,200
+je n'ai pas voulu, donc, détailler cette
+
+395
+00:15:39,200 --> 00:15:41,540
+diapo, parce qu'il faut connaître déjà les
+
+396
+00:15:41,540 --> 00:15:42,900
+limites de dose qui sont fixées à l
+
+397
+00:15:42,900 --> 00:15:43,520
+'article 14.
+
+398
+00:15:44,320 --> 00:15:46,680
+Ça, on va, donc, il sera, donc, réservé
+
+399
+00:15:46,680 --> 00:15:48,060
+ou plutôt, donc, on va le voir dans
+
+400
+00:15:48,060 --> 00:15:49,380
+les diapositives, donc, suivantes.
+
+401
+00:15:49,560 --> 00:15:50,400
+C'est pour cela qu'on va laisser
+
+402
+00:15:50,400 --> 00:15:50,880
+ça après.
+
+403
+00:15:51,480 --> 00:15:52,220
+Mais il faut savoir qu'il y a
+
+404
+00:15:52,220 --> 00:15:54,060
+catégorie A, B et C.
+
+405
+00:15:54,260 --> 00:15:55,160
+Ça, c'est le plus important.
+
+406
+00:15:55,340 --> 00:15:57,180
+A, qui sont directement en contact avec la
+
+407
+00:15:57,180 --> 00:15:57,440
+source.
+
+408
+00:15:57,640 --> 00:15:58,720
+B, qui ne le sont pas.
+
+409
+00:15:59,220 --> 00:16:01,280
+Et C, ou plutôt le public qui est,
+
+410
+00:16:01,360 --> 00:16:03,420
+bien sûr, généralement, qui ne doit pas être
+
+411
+00:16:03,420 --> 00:16:03,920
+exposé.
+
+412
+00:16:04,020 --> 00:16:04,180
+Voilà.
+
+413
+00:16:05,280 --> 00:16:06,600
+Alors, pour la femme enceinte et à l
+
+414
+00:16:06,600 --> 00:16:08,740
+'étendue, ça, c'est la catégorie B, d
+
+415
+00:16:08,740 --> 00:16:08,860
+'accord.
+
+416
+00:16:09,420 --> 00:16:11,440
+L'exposition fitus ne doit pas dépasser, donc,
+
+417
+00:16:11,480 --> 00:16:12,220
+un millisievert.
+
+418
+00:16:12,680 --> 00:16:14,200
+Et pour une femme enceinte, donc, ne peut
+
+419
+00:16:14,200 --> 00:16:14,760
+pas travailler.
+
+420
+00:16:14,940 --> 00:16:15,140
+D'accord.
+
+421
+00:16:15,400 --> 00:16:16,380
+Généralement, voilà.
+
+422
+00:16:16,380 --> 00:16:19,640
+Et l'âge moins de 18 ans, c
+
+423
+00:16:19,640 --> 00:16:21,120
+'est la catégorie B, d'accord.
+
+424
+00:16:22,080 --> 00:16:22,960
+Et, voilà.
+
+425
+00:16:23,180 --> 00:16:25,020
+Elles ne sont pas généralement autorisées, donc, à
+
+426
+00:16:25,020 --> 00:16:26,860
+travailler dans une zone, voilà, héradite.
+
+427
+00:16:27,920 --> 00:16:29,460
+Maintenant, les locaux, c'est ce que nous
+
+428
+00:16:29,460 --> 00:16:30,220
+avons, donc, vu.
+
+429
+00:16:30,600 --> 00:16:31,620
+Vous avez le public.
+
+430
+00:16:32,560 --> 00:16:37,180
+Alors, attendez, on va mettre, voilà, un stylo.
+
+431
+00:16:37,300 --> 00:16:39,700
+Donc, vous avez, on va mettre ça, peut
+
+432
+00:16:39,700 --> 00:16:39,820
+-être.
+
+433
+00:16:39,980 --> 00:16:42,340
+Donc, vous avez le public, d'accord.
+
+434
+00:16:43,840 --> 00:16:46,480
+Puis, vous avez la zone surveillée, d'accord.
+
+435
+00:16:47,660 --> 00:16:49,400
+Alors, attendez, on va mettre une deuxième.
+
+436
+00:16:50,440 --> 00:16:50,660
+Voilà.
+
+437
+00:16:51,180 --> 00:16:51,580
+Surveillée.
+
+438
+00:16:52,120 --> 00:16:55,700
+Et puis, finalement, vous avez tout ça, d
+
+439
+00:16:55,700 --> 00:16:57,680
+'accord, c'est la zone qui est contrôlée.
+
+440
+00:16:58,780 --> 00:16:59,180
+Voilà.
+
+441
+00:16:59,760 --> 00:17:02,340
+La zone contrôlée, donc, voilà, je répète, donc,
+
+442
+00:17:02,400 --> 00:17:05,740
+elle peut être soit verte, soit jaune, orange
+
+443
+00:17:05,740 --> 00:17:06,619
+ou rouge, d'accord.
+
+444
+00:17:06,700 --> 00:17:09,240
+Là, vous avez, donc, la source radioactive, d
+
+445
+00:17:09,240 --> 00:17:09,660
+'accord, vous voyez.
+
+446
+00:17:10,680 --> 00:17:12,280
+La zone surveillée qui se trouve, donc, à
+
+447
+00:17:12,280 --> 00:17:14,140
+l'extérieur et la zone publique qui est,
+
+448
+00:17:14,160 --> 00:17:15,300
+bien sûr, donc, au-delà.
+
+449
+00:17:16,220 --> 00:17:18,619
+Ceci pour les zones.
+
+450
+00:17:19,160 --> 00:17:22,440
+Alors, en matière de dosimétrie, donc, la dose
+
+451
+00:17:22,440 --> 00:17:25,300
+efficace ne doit pas dépasser 6 mSv par
+
+452
+00:17:25,300 --> 00:17:26,920
+an dans la première zone qui est contrôlée,
+
+453
+00:17:27,020 --> 00:17:27,280
+d'accord.
+
+454
+00:17:28,080 --> 00:17:29,500
+Et puis, donc, elle ne doit pas dépasser
+
+455
+00:17:29,500 --> 00:17:31,660
+1 mSv par an dans la zone qui
+
+456
+00:17:31,660 --> 00:17:33,120
+est surveillée.
+
+457
+00:17:33,240 --> 00:17:34,740
+Ça, c'est pour le zonage.
+
+458
+00:17:36,100 --> 00:17:38,900
+Alors, maintenant, les bases, ou les principes de
+
+459
+00:17:38,900 --> 00:17:39,760
+base de la radioprotection.
+
+460
+00:17:39,960 --> 00:17:41,660
+Alors, il faut savoir que ces bases-là,
+
+461
+00:17:41,680 --> 00:17:42,540
+donc, elles consistent à quoi?
+
+462
+00:17:42,600 --> 00:17:44,440
+Elles consistent, donc, à protéger la population, mais
+
+463
+00:17:44,440 --> 00:17:46,780
+surtout, donc, les personnes qui travaillent et qui
+
+464
+00:17:46,780 --> 00:17:47,740
+utilisent les rayonnements.
+
+465
+00:17:49,260 --> 00:17:51,840
+Donc, elles sont définies par la Commission internationale
+
+466
+00:17:51,840 --> 00:17:55,080
+de protection radiologique et, voilà, donc, une unité,
+
+467
+00:17:55,200 --> 00:17:57,360
+enfin, donc, un organisme qui dépend de l
+
+468
+00:17:57,360 --> 00:17:58,940
+'ONU qui s'appelle Lenscare.
+
+469
+00:18:00,500 --> 00:18:07,180
+Elles sont, généralement, voilà, donc, établies pour les
+
+470
+00:18:07,180 --> 00:18:08,920
+radiologues et pour les chercheurs, mais, par la
+
+471
+00:18:08,920 --> 00:18:13,540
+suite, voilà, elles ont été, donc, étendues, donc,
+
+472
+00:18:13,580 --> 00:18:17,120
+à d'autres catégories, notamment, donc, les patients,
+
+473
+00:18:17,220 --> 00:18:19,800
+les travailleurs et le public et l'environnement,
+
+474
+00:18:19,900 --> 00:18:20,080
+voilà.
+
+475
+00:18:21,120 --> 00:18:23,220
+Alors, ces principes sont très simples.
+
+476
+00:18:23,460 --> 00:18:24,740
+Vous avez le premier principe, c'est la
+
+477
+00:18:24,740 --> 00:18:26,580
+justification, d'accord?
+
+478
+00:18:28,820 --> 00:18:30,820
+Vous avez la justification, le deuxième, c'est
+
+479
+00:18:30,820 --> 00:18:32,420
+l'optimisation et le troisième, c'est la
+
+480
+00:18:32,420 --> 00:18:33,480
+limitation des doses.
+
+481
+00:18:33,920 --> 00:18:35,820
+Donc, maintenant, on va voir, donc, les trois.
+
+482
+00:18:35,960 --> 00:18:36,660
+C'est quoi la justification?
+
+483
+00:18:37,180 --> 00:18:38,040
+C'est quoi l'optimisation?
+
+484
+00:18:38,040 --> 00:18:40,880
+Et c'est quoi la limitation des doses?
+
+485
+00:18:41,640 --> 00:18:47,040
+Alors, pour le principe de justification, donc, c
+
+486
+00:18:47,040 --> 00:18:47,660
+'est très simple.
+
+487
+00:18:48,720 --> 00:18:51,440
+C'est que quand on veut faire, donc,
+
+488
+00:18:51,480 --> 00:18:54,000
+un examen qui utilise les rayonnements ionisants, il
+
+489
+00:18:54,000 --> 00:18:54,700
+faut le justifier.
+
+490
+00:18:54,880 --> 00:18:56,420
+Il faut que les avantages, d'accord, soient
+
+491
+00:18:56,420 --> 00:18:57,280
+supérieurs aux inconvénients.
+
+492
+00:18:57,360 --> 00:18:57,880
+C'est très simple.
+
+493
+00:18:58,060 --> 00:18:58,200
+D'accord?
+
+494
+00:18:58,800 --> 00:18:59,160
+Voilà.
+
+495
+00:18:59,680 --> 00:19:01,180
+Donc, il faut que les avantages soient supérieurs
+
+496
+00:19:01,180 --> 00:19:02,220
+aux risques et il faut qu'il n
+
+497
+00:19:02,220 --> 00:19:03,460
+'y ait pas de technique équivalente.
+
+498
+00:19:03,940 --> 00:19:05,620
+S'il y a une technique équivalente moins
+
+499
+00:19:05,620 --> 00:19:07,800
+irradiante, donc, il faut la privilégier.
+
+500
+00:19:08,120 --> 00:19:10,660
+Le deuxième principe, celui de l'optimisation, aussi,
+
+501
+00:19:10,820 --> 00:19:11,520
+donc, c'est très simple.
+
+502
+00:19:11,600 --> 00:19:12,040
+Ça veut dire quoi?
+
+503
+00:19:12,160 --> 00:19:14,120
+Ça veut dire que la dose doit être
+
+504
+00:19:14,120 --> 00:19:15,440
+très, très, très basse.
+
+505
+00:19:15,580 --> 00:19:16,260
+Donc, voilà.
+
+506
+00:19:16,400 --> 00:19:17,560
+Il faut que les doses soient réduites.
+
+507
+00:19:17,680 --> 00:19:19,200
+Il faut que le nombre, donc, soit réduit
+
+508
+00:19:19,200 --> 00:19:20,420
+des personnes qui sont exposées.
+
+509
+00:19:20,620 --> 00:19:23,480
+Donc, optimiser les doses délivrées aux personnes.
+
+510
+00:19:23,940 --> 00:19:24,120
+D'accord?
+
+511
+00:19:24,680 --> 00:19:26,300
+Et ceci dans le cadre d'une démarche
+
+512
+00:19:26,300 --> 00:19:27,060
+qui s'appelle ALARA.
+
+513
+00:19:27,200 --> 00:19:28,080
+Donc, c'est faible, qu'il y ait
+
+514
+00:19:28,080 --> 00:19:29,400
+les rayonnements non possibles.
+
+515
+00:19:30,280 --> 00:19:32,500
+Donc, optimisation des doses réduites et nombre réduit
+
+516
+00:19:32,500 --> 00:19:33,320
+des personnes exposées.
+
+517
+00:19:33,440 --> 00:19:34,460
+Et puis, le dernier, c'est la limitation.
+
+518
+00:19:34,640 --> 00:19:35,000
+Ça veut dire quoi?
+
+519
+00:19:35,420 --> 00:19:37,280
+Ça veut dire qu'il y a généralement
+
+520
+00:19:37,280 --> 00:19:38,080
+des limites.
+
+521
+00:19:38,280 --> 00:19:38,620
+D'accord?
+
+522
+00:19:39,180 --> 00:19:40,480
+Qui ne faut pas dépasser.
+
+523
+00:19:40,840 --> 00:19:41,480
+C'est très simple.
+
+524
+00:19:41,820 --> 00:19:44,360
+Et ceci pour les trois catégories.
+
+525
+00:19:44,700 --> 00:19:45,740
+A, B et C.
+
+526
+00:19:46,440 --> 00:19:46,640
+Voilà.
+
+527
+00:19:47,000 --> 00:19:47,720
+Et tout ça, pourquoi?
+
+528
+00:19:48,300 --> 00:19:50,020
+Pour ne pas tomber dans les effets que
+
+529
+00:19:50,020 --> 00:19:51,360
+nous avons vus dans le chapitre de la
+
+530
+00:19:51,360 --> 00:19:51,900
+radiopathologie.
+
+531
+00:19:52,000 --> 00:19:53,420
+À savoir, les effets déterministes.
+
+532
+00:19:53,500 --> 00:19:53,740
+D'accord?
+
+533
+00:19:53,900 --> 00:19:54,880
+Et les effets stochastiques.
+
+534
+00:19:55,400 --> 00:19:55,500
+Voilà.
+
+535
+00:19:57,360 --> 00:19:59,480
+Alors, ces limites, justement, sont les suivantes.
+
+536
+00:19:59,680 --> 00:20:00,380
+Ça dépend.
+
+537
+00:20:00,540 --> 00:20:01,480
+Est-ce qu'il s'agit du corps
+
+538
+00:20:01,480 --> 00:20:01,920
+entier?
+
+539
+00:20:01,920 --> 00:20:02,020
+D'accord.
+
+540
+00:20:02,320 --> 00:20:02,960
+Alors, attendez.
+
+541
+00:20:03,040 --> 00:20:04,420
+On va s'éliminer pour mieux voir.
+
+542
+00:20:05,960 --> 00:20:06,280
+Voilà.
+
+543
+00:20:06,780 --> 00:20:07,860
+Est-ce qu'il s'agit du corps
+
+544
+00:20:07,860 --> 00:20:08,260
+entier?
+
+545
+00:20:08,520 --> 00:20:09,660
+Non, ça c'est gros.
+
+546
+00:20:10,000 --> 00:20:10,320
+Attendez.
+
+547
+00:20:11,400 --> 00:20:11,600
+Pardon.
+
+548
+00:20:15,200 --> 00:20:15,520
+Voilà.
+
+549
+00:20:16,200 --> 00:20:17,060
+Est-ce qu'il s'agit du corps
+
+550
+00:20:17,060 --> 00:20:17,360
+entier?
+
+551
+00:20:17,540 --> 00:20:18,660
+Est-ce qu'il s'agit du cristallat?
+
+552
+00:20:18,780 --> 00:20:19,540
+Est-ce qu'il s'agit de la
+
+553
+00:20:19,540 --> 00:20:19,820
+peau?
+
+554
+00:20:19,960 --> 00:20:20,980
+Ou bien des extrémités?
+
+555
+00:20:21,780 --> 00:20:25,240
+Et dans chaque partie, d'accord?
+
+556
+00:20:25,380 --> 00:20:26,200
+Donc, il y a des limites.
+
+557
+00:20:26,620 --> 00:20:28,740
+Alors, là, par exemple, vous avez la catégorie
+
+558
+00:20:28,740 --> 00:20:29,040
+A.
+
+559
+00:20:29,200 --> 00:20:31,080
+La catégorie B, vous avez le public.
+
+560
+00:20:31,960 --> 00:20:32,960
+Et là, vous avez les chiffres.
+
+561
+00:20:32,960 --> 00:20:40,520
+Par exemple, lorsque une personne qui travaille dans
+
+562
+00:20:40,520 --> 00:20:42,700
+la catégorie A, d'accord, pour le corps
+
+563
+00:20:42,700 --> 00:20:44,140
+entier, il ne doit pas dépasser combien?
+
+564
+00:20:45,240 --> 00:20:47,300
+20 millisieverts par an.
+
+565
+00:20:47,640 --> 00:20:48,120
+12 mois.
+
+566
+00:20:48,820 --> 00:20:48,920
+Voilà.
+
+567
+00:20:50,360 --> 00:20:52,060
+Si je prends l'exemple de la peau
+
+568
+00:20:52,060 --> 00:20:53,980
+qui est là, d'accord, une personne de
+
+569
+00:20:53,980 --> 00:20:56,440
+la catégorie B, donc, ne doit pas dépasser,
+
+570
+00:20:56,540 --> 00:21:00,320
+par exemple, 150 millisieverts toujours par an.
+
+571
+00:21:00,320 --> 00:21:01,680
+Et ainsi de suite.
+
+572
+00:21:02,040 --> 00:21:03,680
+Donc, vous avez la catégorie A, la catégorie
+
+573
+00:21:03,680 --> 00:21:04,760
+B et le public.
+
+574
+00:21:05,300 --> 00:21:09,160
+Et ça, il faut en tenir compte parce
+
+575
+00:21:09,160 --> 00:21:12,320
+que c'est la réglementation et ses limites.
+
+576
+00:21:12,520 --> 00:21:14,960
+Donc, généralement, ils sont appliqués dans les services
+
+577
+00:21:14,960 --> 00:21:16,060
+qui utilisent les rayonnements.
+
+578
+00:21:16,640 --> 00:21:18,520
+C'est très important pour ne pas justement
+
+579
+00:21:18,520 --> 00:21:20,300
+avoir ces effets-là que nous avons vu
+
+580
+00:21:20,300 --> 00:21:23,440
+dans le cours de la radiopathologie, savoir les
+
+581
+00:21:23,440 --> 00:21:25,240
+effets déterministes et les effets stochastiques.
+
+582
+00:21:25,860 --> 00:21:27,640
+Alors, maintenant, les différents types d'irradiations, elles
+
+583
+00:21:27,640 --> 00:21:28,900
+sont généralement de trois.
+
+584
+00:21:29,020 --> 00:21:30,940
+Les radiations externes, d'accord, que vous voyez
+
+585
+00:21:30,940 --> 00:21:33,140
+là, c'est quand la source, bien sûr,
+
+586
+00:21:33,240 --> 00:21:34,040
+elle est à l'extérieur.
+
+587
+00:21:34,580 --> 00:21:37,700
+C'est le rayonnement qui atteint la personne.
+
+588
+00:21:38,480 --> 00:21:39,220
+Oui, pardon, il est là.
+
+589
+00:21:39,520 --> 00:21:40,720
+C'est la radiation externe.
+
+590
+00:21:41,280 --> 00:21:43,400
+De deux types, soit une radiation qui est
+
+591
+00:21:43,400 --> 00:21:45,260
+partielle, soit une radiation qui est globale.
+
+592
+00:21:45,940 --> 00:21:47,560
+Il y a la contamination externe qui est
+
+593
+00:21:47,560 --> 00:21:48,480
+là, c'est la première, ça veut dire
+
+594
+00:21:48,480 --> 00:21:51,120
+que le produit est déposé sur le corps.
+
+595
+00:21:51,680 --> 00:21:53,320
+Et puis, la contamination interne, ça veut dire
+
+596
+00:21:53,320 --> 00:21:58,160
+que la source radioactive se trouve à l
+
+597
+00:21:58,160 --> 00:21:59,660
+'intérieur du corps humain.
+
+598
+00:21:59,980 --> 00:22:01,820
+Et ça, c'est juste un rappel pour
+
+599
+00:22:01,820 --> 00:22:03,620
+vous montrer que les rayonnements de type alpha
+
+600
+00:22:03,620 --> 00:22:06,460
+que vous voyez là, en jaune, sont plus
+
+601
+00:22:06,460 --> 00:22:10,300
+irradiants en contamination interne, d'accord, et surtout
+
+602
+00:22:10,300 --> 00:22:13,760
+en contamination interne et externe, et ne sont
+
+603
+00:22:13,760 --> 00:22:16,600
+pas irradiants lorsqu'il s'agit d'une
+
+604
+00:22:16,600 --> 00:22:17,420
+radiation externe.
+
+605
+00:22:17,760 --> 00:22:18,000
+Pourquoi?
+
+606
+00:22:18,260 --> 00:22:20,440
+Parce que le parcours d'une particule alpha
+
+607
+00:22:20,440 --> 00:22:21,940
+est inférieur à un millimètre.
+
+608
+00:22:21,940 --> 00:22:24,120
+Et là, vous avez le reste des autres
+
+609
+00:22:24,120 --> 00:22:27,360
+rayonnements utilisés.
+
+610
+00:22:27,760 --> 00:22:30,180
+Alors, l'irradiation externe, ça peut être totale,
+
+611
+00:22:30,340 --> 00:22:31,920
+d'accord, ça peut être une radiation qui
+
+612
+00:22:31,920 --> 00:22:33,740
+est partielle, voilà, donc là, vous avez un
+
+613
+00:22:33,740 --> 00:22:34,700
+micro à ce niveau-là.
+
+614
+00:22:36,540 --> 00:22:39,160
+La contamination externe, donc, voilà, c'est la
+
+615
+00:22:39,160 --> 00:22:40,860
+source qui est versée sur la peau, sur
+
+616
+00:22:40,860 --> 00:22:41,780
+le cheveu, d'accord.
+
+617
+00:22:42,040 --> 00:22:43,000
+Le risque ici, c'est quoi?
+
+618
+00:22:43,200 --> 00:22:46,060
+C'est que cette contamination interne puisse se
+
+619
+00:22:46,060 --> 00:22:47,780
+transformer en contamination interne.
+
+620
+00:22:47,860 --> 00:22:49,780
+C'est pourquoi il est interdit de boire,
+
+621
+00:22:49,780 --> 00:22:51,340
+de manger, de fumer dans un service qui
+
+622
+00:22:51,340 --> 00:22:53,760
+utilise les rayonnements immunisants, pour ne pas justement
+
+623
+00:22:53,760 --> 00:22:58,660
+transformer cette irradiation externe en contamination interne.
+
+624
+00:22:59,440 --> 00:23:01,880
+Alors, la contamination interne, ça c'est quoi?
+
+625
+00:23:02,020 --> 00:23:03,400
+Donc, c'est à l'intérieur, la source,
+
+626
+00:23:03,660 --> 00:23:03,760
+d'accord.
+
+627
+00:23:04,180 --> 00:23:06,420
+Le mode, c'est par inhalation, donc voilà,
+
+628
+00:23:06,820 --> 00:23:08,720
+par ingestion, c'est par la bouche ou
+
+629
+00:23:08,720 --> 00:23:09,820
+par blessure, voilà.
+
+630
+00:23:13,000 --> 00:23:15,220
+Vous avez quelques produits, d'accord, on va
+
+631
+00:23:15,220 --> 00:23:17,520
+passer la protection.
+
+632
+00:23:18,060 --> 00:23:21,080
+Alors, déjà, il faut couper, donc, le courant,
+
+633
+00:23:21,220 --> 00:23:21,420
+d'accord.
+
+634
+00:23:21,700 --> 00:23:23,000
+Il faut se soustraire, d'accord.
+
+635
+00:23:23,740 --> 00:23:25,080
+Et puis, il faut se mettre à l
+
+636
+00:23:25,080 --> 00:23:25,960
+'abri, ça c'est très important.
+
+637
+00:23:26,340 --> 00:23:31,240
+Et puis, ceci, pour, donc, en cas d
+
+638
+00:23:31,240 --> 00:23:31,940
+'irradiation externe.
+
+639
+00:23:32,560 --> 00:23:35,320
+Mais, pour prévenir, donc, voilà, c'est la
+
+640
+00:23:35,320 --> 00:23:43,080
+prévention, pour prévenir, donc, l'irradiation externe, donc,
+
+641
+00:23:43,120 --> 00:23:43,680
+il y a trois notions.
+
+642
+00:23:43,820 --> 00:23:45,500
+Il y a la notion de temps, de
+
+643
+00:23:45,500 --> 00:23:46,720
+distance et d'écran.
+
+644
+00:23:46,720 --> 00:23:47,860
+Et ça, c'est très important.
+
+645
+00:23:48,660 --> 00:23:50,600
+Maintenant, on va voir le détail de ces
+
+646
+00:23:50,600 --> 00:23:51,600
+trois notions-là.
+
+647
+00:23:51,920 --> 00:23:54,600
+Alors, pour le temps, il faut, donc, travailler
+
+648
+00:23:54,600 --> 00:23:55,360
+vite, voilà.
+
+649
+00:23:55,780 --> 00:23:57,740
+Donc, il ne faut pas, voilà, traîner les
+
+650
+00:23:57,740 --> 00:24:01,180
+pieds lorsqu'on travaille dans un service qui
+
+651
+00:24:01,180 --> 00:24:04,140
+utilise les rayonnements ionisants, parce que le notion
+
+652
+00:24:04,140 --> 00:24:05,060
+de temps est très importante.
+
+653
+00:24:05,200 --> 00:24:07,060
+Donc, il faut travailler vite, réduire le temps
+
+654
+00:24:07,060 --> 00:24:10,760
+d'exposition, utiliser des détecteurs, d'accord, pour
+
+655
+00:24:10,760 --> 00:24:12,340
+voir est-ce qu'il y a une
+
+656
+00:24:12,340 --> 00:24:13,980
+radiation externe ou pas, d'accord, parce qu
+
+657
+00:24:13,980 --> 00:24:16,100
+'on peut ne pas la voir.
+
+658
+00:24:17,380 --> 00:24:18,440
+Donc, il y a des fiches, il y
+
+659
+00:24:18,440 --> 00:24:20,120
+a des protocoles, donc, il faut essayer de
+
+660
+00:24:20,120 --> 00:24:22,080
+suivre ces protocoles, donc, il ne faut pas
+
+661
+00:24:24,000 --> 00:24:29,680
+commencer à faire des expériences soi-même, voilà,
+
+662
+00:24:29,680 --> 00:24:31,500
+donc, généralement, il y a des fiches, il
+
+663
+00:24:31,500 --> 00:24:32,660
+y a des protocoles, donc, il faut essayer
+
+664
+00:24:32,660 --> 00:24:34,040
+de les suivre de A à Z, donc,
+
+665
+00:24:34,040 --> 00:24:35,560
+il ne faut pas commencer à jouer avec
+
+666
+00:24:36,160 --> 00:24:37,860
+et surtout, c'est à dire travailler vite.
+
+667
+00:24:38,000 --> 00:24:39,440
+Donc, c'est la notion du temps, voilà.
+
+668
+00:24:40,580 --> 00:24:41,960
+Le deuxième élément, c'est la distance.
+
+669
+00:24:41,960 --> 00:24:43,160
+C'est à dire qu'il faut respecter
+
+670
+00:24:43,160 --> 00:24:45,080
+une distance et pour cela, donc, on peut
+
+671
+00:24:45,080 --> 00:24:46,740
+soit se mettre à une distance qui est
+
+672
+00:24:46,740 --> 00:24:48,860
+suffisante à une source radioactive, soit pour la
+
+673
+00:24:48,860 --> 00:24:51,180
+manipuler, donc, utiliser des pinces et là, vous
+
+674
+00:24:51,180 --> 00:24:53,380
+avez, donc, la formule qu'on a déjà
+
+675
+00:24:53,380 --> 00:24:56,200
+vue, le doublement de distance divise la dose
+
+676
+00:24:56,200 --> 00:24:57,600
+par 4 avec l'exemple typique.
+
+677
+00:24:57,740 --> 00:24:59,420
+Vous avez, donc, une radiation de 1 mSv
+
+678
+00:24:59,420 --> 00:25:01,020
+par heure, ça, c'est le débit à
+
+679
+00:25:01,020 --> 00:25:03,420
+un mètre et, donc, à une distance double,
+
+680
+00:25:03,600 --> 00:25:04,880
+d'accord, vous avez, donc, le débit de
+
+681
+00:25:04,880 --> 00:25:07,400
+dose, voilà, le doublement de distance divise la
+
+682
+00:25:07,400 --> 00:25:08,320
+dose par 4.
+
+683
+00:25:08,680 --> 00:25:10,500
+Un mètre vaut pas 7 mètres, vous avez
+
+684
+00:25:10,500 --> 00:25:12,260
+cette dose qui sera divisée par 4, donc
+
+685
+00:25:12,260 --> 00:25:13,880
+0,25 mSv par heure.
+
+686
+00:25:16,520 --> 00:25:18,200
+On va utiliser du béton.
+
+687
+00:25:19,360 --> 00:25:20,580
+Voilà, que vous voyez là.
+
+688
+00:25:21,980 --> 00:25:22,840
+Voilà le béton.
+
+689
+00:25:27,420 --> 00:25:27,520
+Voilà.
+
+690
+00:25:28,320 --> 00:25:30,740
+Là, ce sont les écrans, voilà, qu'on
+
+691
+00:25:30,740 --> 00:25:33,600
+peut mettre pour stopper, bien sûr, les radiations
+
+692
+00:25:33,600 --> 00:25:34,540
+externes, d'accord.
+
+693
+00:25:35,640 --> 00:25:37,760
+Là, vous avez le même exemple repris, donc,
+
+694
+00:25:38,120 --> 00:25:39,840
+voilà, c'est un résumé, voilà, si vous
+
+695
+00:25:39,840 --> 00:25:43,120
+voulez, pour prévenir les radiations externes, donc, il
+
+696
+00:25:43,120 --> 00:25:44,200
+y a la notion de temps, d'accord,
+
+697
+00:25:44,700 --> 00:25:46,640
+donc, il ne faut pas commencer à improviser,
+
+698
+00:25:46,760 --> 00:25:49,100
+d'accord, quand vous êtes, voilà, novice et
+
+699
+00:25:49,100 --> 00:25:50,840
+tout ça, donc, il y a des protocoles,
+
+700
+00:25:50,940 --> 00:25:51,600
+il y a des fiches qu'il faut
+
+701
+00:25:51,600 --> 00:25:53,940
+suivre, voilà, c'est tout, si vous voulez,
+
+702
+00:25:54,060 --> 00:25:55,900
+donc, éviter les radiations externes.
+
+703
+00:25:56,600 --> 00:25:58,680
+La distance, donc, il faut s'éloigner pour
+
+704
+00:25:58,680 --> 00:26:00,360
+manipuler la source, donc, il y a des
+
+705
+00:26:00,360 --> 00:26:02,680
+pinces pour cela et puis l'écran, il
+
+706
+00:26:02,680 --> 00:26:05,180
+faut choisir l'écran adapté en fonction de
+
+707
+00:26:05,180 --> 00:26:07,160
+la nature des rayonnements qu'il imite.
+
+708
+00:26:07,480 --> 00:26:09,740
+Alors, autre chose, donc, il y a des
+
+709
+00:26:09,740 --> 00:26:11,480
+dosimètres, d'accord, généralement, il y en a
+
+710
+00:26:11,480 --> 00:26:13,500
+deux, d'accord, il y a des dosimètres
+
+711
+00:26:13,500 --> 00:26:15,260
+qu'on appelle passifs, d'autres qu'on
+
+712
+00:26:15,260 --> 00:26:16,460
+appelle donc actifs.
+
+713
+00:26:17,040 --> 00:26:18,800
+Alors, le premier, donc, il est porté, donc,
+
+714
+00:26:18,880 --> 00:26:20,580
+à hauteur de la poitrine, mais on peut
+
+715
+00:26:20,580 --> 00:26:25,320
+trouver aussi des bagues, d'accord, des bracelets
+
+716
+00:26:25,860 --> 00:26:29,160
+et même, voilà, des dosimètres cristallins.
+
+717
+00:26:29,580 --> 00:26:29,940
+Pourquoi?
+
+718
+00:26:30,720 --> 00:26:32,280
+Parce que nous avons vu que pour les
+
+719
+00:26:32,280 --> 00:26:36,340
+limites, donc, la dose efficace peut être mesurée
+
+720
+00:26:36,340 --> 00:26:37,900
+soit pour le corps entier, c'est ça,
+
+721
+00:26:38,000 --> 00:26:40,180
+d'accord, soit pour le cristallin, donc, on
+
+722
+00:26:40,180 --> 00:26:42,260
+va utiliser celui-là, soit pour la peau,
+
+723
+00:26:42,440 --> 00:26:43,880
+d'accord, on va utiliser celui-là, donc,
+
+724
+00:26:43,940 --> 00:26:48,740
+le bracelet, soit pour les extrémités, voilà, les
+
+725
+00:26:48,740 --> 00:26:50,560
+extrémités, donc, on va utiliser donc la bague.
+
+726
+00:26:50,980 --> 00:26:53,220
+Donc, tout ça, donc, il est possible, d
+
+727
+00:26:53,220 --> 00:26:56,520
+'accord, il est disponible pour mesurer l'exposition
+
+728
+00:26:56,520 --> 00:26:57,180
+externe.
+
+729
+00:26:57,820 --> 00:26:59,660
+Je précise que le seuil, quand même, donc,
+
+730
+00:26:59,740 --> 00:27:02,000
+il est moindre, inférieur à 0,1, d
+
+731
+00:27:02,000 --> 00:27:05,460
+'accord, et c'est un dosimètre qui est
+
+732
+00:27:05,460 --> 00:27:07,140
+personnel, voilà, c'est ce que j'aurais
+
+733
+00:27:07,140 --> 00:27:07,900
+bien donc insisté.
+
+734
+00:27:07,900 --> 00:27:09,940
+L'autre, donc, version, c'est le dosimètre,
+
+735
+00:27:09,980 --> 00:27:11,120
+donc, opérationnel ou actif.
+
+736
+00:27:11,600 --> 00:27:16,240
+Alors, celui-là, donc, il a une double
+
+737
+00:27:16,240 --> 00:27:19,540
+fonction, alors, je vais, donc, y insister, d
+
+738
+00:27:19,540 --> 00:27:24,100
+'accord, alors, attendez, il a donc, il a
+
+739
+00:27:24,100 --> 00:27:26,280
+une alarme, d'accord, et en plus de
+
+740
+00:27:26,280 --> 00:27:27,940
+ça, donc, il permet une lecture qui est
+
+741
+00:27:27,940 --> 00:27:30,520
+directe, ce que vous voyez là, d'accord,
+
+742
+00:27:30,720 --> 00:27:34,920
+vous avez 0,0, 0,12 millisieverts, voilà,
+
+743
+00:27:35,440 --> 00:27:37,000
+d'accord, ça veut dire quoi?
+
+744
+00:27:37,900 --> 00:27:41,500
+Ça veut dire que c'est un dosimètre
+
+745
+00:27:43,300 --> 00:27:46,280
+qui est vraiment, donc, très sensible, d'accord,
+
+746
+00:27:46,380 --> 00:27:49,400
+avec un seuil quand même très important, donc,
+
+747
+00:27:49,520 --> 00:27:51,560
+moins de 10 millisieverts, donc, le premier, c
+
+748
+00:27:51,560 --> 00:27:53,040
+'est 1 millisievert, c'est d'accord, donc,
+
+749
+00:27:53,080 --> 00:27:57,360
+celui-là, c'est 10, d'accord, et
+
+750
+00:27:57,360 --> 00:27:59,320
+généralement, lui aussi, donc, il est porté, donc,
+
+751
+00:27:59,320 --> 00:28:03,120
+à hauteur de la poitrine, et voilà, pour
+
+752
+00:28:03,120 --> 00:28:04,660
+les travailleurs, c'est-à-dire qu'il
+
+753
+00:28:04,660 --> 00:28:07,960
+est contrôlé, il permet une lecture directe, voilà,
+
+754
+00:28:08,100 --> 00:28:10,460
+vous avez ça, donc, directe, et, donc, l
+
+755
+00:28:10,460 --> 00:28:13,360
+'alarme pour l'utilisation de l'alarme, ça
+
+756
+00:28:13,360 --> 00:28:13,740
+veut dire quoi?
+
+757
+00:28:13,820 --> 00:28:15,220
+Ça veut dire que si la personne, donc,
+
+758
+00:28:15,320 --> 00:28:19,540
+en travaillant, donc, elle n'a pas vu,
+
+759
+00:28:19,620 --> 00:28:23,620
+donc, la source radioactive, donc, il y a
+
+760
+00:28:23,620 --> 00:28:26,060
+une alarme qui va se déclencher pour, voilà,
+
+761
+00:28:26,120 --> 00:28:28,380
+le sensibiliser, lui dire attention, donc, il y
+
+762
+00:28:28,380 --> 00:28:29,940
+a une source radioactive qui n'a pas
+
+763
+00:28:29,940 --> 00:28:32,220
+été, qu'on n'avait pas vu, donc,
+
+764
+00:28:32,320 --> 00:28:35,060
+et du coup, la personne va corriger, si
+
+765
+00:28:35,060 --> 00:28:36,760
+vous voulez, donc, sa méthode de travail, voilà.
+
+766
+00:28:38,000 --> 00:28:41,980
+Alors, d'autres mesures de radioprotection, ceux-ci
+
+767
+00:28:41,980 --> 00:28:44,960
+sont utilisés dans certains services, notamment au service
+
+768
+00:28:44,960 --> 00:28:47,120
+des médecins nucléaires, vous avez un tablier plan
+
+769
+00:28:47,120 --> 00:28:50,140
+B, vous avez, donc, un protège de la
+
+770
+00:28:50,140 --> 00:28:53,120
+glande thyroïde, vous avez des lunettes plan B,
+
+771
+00:28:53,240 --> 00:28:55,060
+donc, pour protéger le cristallat, ça, c'est
+
+772
+00:28:55,060 --> 00:28:57,560
+pour protéger la thyroïde, ça, pour protéger, donc,
+
+773
+00:28:57,580 --> 00:29:00,120
+tout le corps, les extrémités, vous avez des
+
+774
+00:29:00,120 --> 00:29:02,420
+gants qui sont plan B, protège gonades, d
+
+775
+00:29:02,420 --> 00:29:03,620
+'accord, pour l'homme et pour la femme,
+
+776
+00:29:04,500 --> 00:29:05,540
+ça, c'est une voie d'isette, pour
+
+777
+00:29:05,540 --> 00:29:08,580
+pouvoir transporter une source radioactive d'un local
+
+778
+00:29:08,580 --> 00:29:10,380
+à l'autre, vous avez un pare-bon,
+
+779
+00:29:10,520 --> 00:29:12,180
+bref, vous avez des, et ça, c'est
+
+780
+00:29:12,180 --> 00:29:18,340
+une, voilà, c'est une, voilà, c'est
+
+781
+00:29:18,340 --> 00:29:23,740
+un, enfin, c'est une, alors, donc, le
+
+782
+00:29:23,740 --> 00:29:25,940
+mot m'a échappé, pardon, alors, c'est
+
+783
+00:29:25,940 --> 00:29:28,000
+une hotte, voilà, c'est une hotte blindée,
+
+784
+00:29:28,140 --> 00:29:31,700
+d'accord, donc, à flux laminaire, d'accord,
+
+785
+00:29:31,820 --> 00:29:33,140
+qui est blindée, donc, ça, c'est du
+
+786
+00:29:33,140 --> 00:29:35,500
+plomb, d'accord, et dans laquelle, donc, les
+
+787
+00:29:35,500 --> 00:29:38,520
+manipulateurs, donc, préparent les produits radioactifs que vous
+
+788
+00:29:38,520 --> 00:29:39,060
+avez vus, là.
+
+789
+00:29:40,540 --> 00:29:43,540
+Alors, maintenant, comment se protéger contre la contamination
+
+790
+00:29:43,540 --> 00:29:44,280
+externe?
+
+791
+00:29:44,720 --> 00:29:48,020
+Alors, il faut savoir qu'on va confiner,
+
+792
+00:29:48,220 --> 00:29:50,160
+donc, les sources, on va mettre des vêtements
+
+793
+00:29:50,160 --> 00:29:52,800
+qui sont très appropriés et puis, surtout, donc,
+
+794
+00:29:52,860 --> 00:29:55,440
+ainsi, sur la propriété des surfaces et tout
+
+795
+00:29:55,440 --> 00:29:58,680
+ceci pour limiter, donc, la contamination externe.
+
+796
+00:29:59,320 --> 00:30:01,520
+Alors, toujours, donc, il faut porter des gants,
+
+797
+00:30:02,060 --> 00:30:04,400
+d'accord, il faut changer, donc, les gants
+
+798
+00:30:04,400 --> 00:30:07,040
+fréquemment, c'est un jeu de doubles gants,
+
+799
+00:30:07,200 --> 00:30:09,280
+d'accord, il faut faire la distinction entre
+
+800
+00:30:09,280 --> 00:30:10,660
+les vêtements de ville et les vêtements de
+
+801
+00:30:10,660 --> 00:30:13,860
+travail, utiliser ce sont de certains pinces, d
+
+802
+00:30:13,860 --> 00:30:15,820
+'accord, et ce ring, protège ce ring, ça,
+
+803
+00:30:15,900 --> 00:30:18,060
+c'est une protège ce ring pour éviter
+
+804
+00:30:18,060 --> 00:30:22,020
+les radiations des extrémités, voilà, les déchets solides,
+
+805
+00:30:22,160 --> 00:30:24,360
+les déchets liquides, donc, voilà, donc, il y
+
+806
+00:30:24,360 --> 00:30:26,640
+a des normes, donc, à respecter, ça, c
+
+807
+00:30:26,640 --> 00:30:28,780
+'est pour la protection contre la contamination externe,
+
+808
+00:30:28,920 --> 00:30:32,060
+donc, il y a des détecteurs, d'accord,
+
+809
+00:30:32,220 --> 00:30:34,720
+donc, après avoir utilisé ou travaillé avec une
+
+810
+00:30:34,720 --> 00:30:37,380
+source, donc, il faut se mesurer, voir pour
+
+811
+00:30:37,380 --> 00:30:38,500
+les mains et les pieds, est-ce que
+
+812
+00:30:38,500 --> 00:30:40,700
+vous étiez radiés ou pas, et ça, ça,
+
+813
+00:30:40,760 --> 00:30:42,500
+ça va vous permettre de vous dire oui
+
+814
+00:30:42,500 --> 00:30:44,240
+et non, et si oui, donc, il y
+
+815
+00:30:44,240 --> 00:30:45,280
+a la dose qui a été reçue et
+
+816
+00:30:45,280 --> 00:30:46,880
+c'est pareil pour le contaminomètre.
+
+817
+00:30:48,660 --> 00:30:51,200
+La contamination interne, alors, là, donc, la source,
+
+818
+00:30:51,220 --> 00:30:51,640
+elle est comment?
+
+819
+00:30:51,800 --> 00:30:53,180
+Elle est à l'intérieur de l'organisme,
+
+820
+00:30:53,320 --> 00:30:55,320
+donc, ça peut être par inhalation, par ingestion,
+
+821
+00:30:55,460 --> 00:30:57,560
+par blessure, d'accord, par poussière, donc, c
+
+822
+00:30:57,560 --> 00:30:59,900
+'est inhalation, en fait, et dans ce cas,
+
+823
+00:30:59,980 --> 00:31:02,160
+donc, les sources doivent être donc, scellées, scellées,
+
+824
+00:31:02,380 --> 00:31:04,280
+c'est bien fermé, d'accord, étanche, où
+
+825
+00:31:04,280 --> 00:31:06,020
+le risque de dispersion, donc, il est presque
+
+826
+00:31:06,020 --> 00:31:06,280
+nul.
+
+827
+00:31:06,660 --> 00:31:08,440
+C'est à l'inverse, lorsque les sources
+
+828
+00:31:08,440 --> 00:31:09,760
+ne sont pas scellées, c'est là, c
+
+829
+00:31:09,760 --> 00:31:10,420
+'est là où il y a le risque,
+
+830
+00:31:10,560 --> 00:31:12,280
+donc, de contamination interne, donc, qui est très
+
+831
+00:31:12,280 --> 00:31:14,680
+important, lorsque il y a une mauvaise manipulation
+
+832
+00:31:15,280 --> 00:31:16,900
+ou, donc, la personne n'a pas respecté
+
+833
+00:31:16,900 --> 00:31:20,460
+les règles de radioprotection qui sont mises, voilà,
+
+834
+00:31:20,460 --> 00:31:21,840
+donc, le service qui est concerné.
+
+835
+00:31:25,120 --> 00:31:28,540
+Toujours dans la contamination interne, donc, là, vous
+
+836
+00:31:28,540 --> 00:31:31,000
+avez donc, les trois modes, c'est un
+
+837
+00:31:31,000 --> 00:31:32,400
+rappel, d'accord, il faut que la source
+
+838
+00:31:32,400 --> 00:31:34,540
+soit confinée, d'accord, ne jamais manger, boire
+
+839
+00:31:34,540 --> 00:31:36,280
+ou fumer, pourquoi?
+
+840
+00:31:36,800 --> 00:31:38,760
+Parce que vous risquez, donc, de transformer, parce
+
+841
+00:31:38,760 --> 00:31:40,100
+que s'il y a, alors, on va
+
+842
+00:31:40,100 --> 00:31:41,940
+prendre, donc, voilà, le fait de manger, d
+
+843
+00:31:41,940 --> 00:31:45,120
+'accord, si la personne, donc, travaille avec une
+
+844
+00:31:45,120 --> 00:31:47,460
+source, d'accord, et cette source, elle est
+
+845
+00:31:47,460 --> 00:31:50,040
+sous forme liquide, il y a un accident,
+
+846
+00:31:50,520 --> 00:31:52,720
+donc, il y a une goutte, d'accord,
+
+847
+00:31:52,820 --> 00:31:54,280
+qui est déversée sur sa main, d'accord,
+
+848
+00:31:54,400 --> 00:31:57,140
+droite ou gauche, le fait de manger, donc,
+
+849
+00:31:57,600 --> 00:31:59,680
+de se frotter, donc, la bouche, d'accord,
+
+850
+00:32:00,100 --> 00:32:01,920
+ou d'essuyer, d'accord, donc, la bouche,
+
+851
+00:32:02,300 --> 00:32:04,600
+il risque de transformer, donc, la contamination externe
+
+852
+00:32:04,600 --> 00:32:06,320
+par la gousse qui est déposée initialement sur
+
+853
+00:32:06,320 --> 00:32:08,260
+sa main gauche, d'accord, vers sa bouche
+
+854
+00:32:08,260 --> 00:32:11,360
+et là, on est dans la contamination interne,
+
+855
+00:32:11,400 --> 00:32:12,900
+c'est pour cela qu'il faut éviter,
+
+856
+00:32:13,040 --> 00:32:15,480
+bien sûr, de manger, boire ou fumer dans
+
+857
+00:32:15,480 --> 00:32:17,000
+un service qui utilise les rayonnements humains.
+
+858
+00:32:17,480 --> 00:32:19,460
+La ventilation, c'est dans la haute, d
+
+859
+00:32:19,460 --> 00:32:21,060
+'accord, donc, on voit la personne qui travaille
+
+860
+00:32:21,060 --> 00:32:23,160
+avec la blouse, avec la lunette, la veste,
+
+861
+00:32:23,200 --> 00:32:25,700
+tout ça, voilà, qui est en train de
+
+862
+00:32:25,700 --> 00:32:28,520
+manipuler, donc, les sous, avec une ventilation, là,
+
+863
+00:32:28,580 --> 00:32:30,200
+vous avez, donc, voilà, ça, c'est pour
+
+864
+00:32:30,200 --> 00:32:35,780
+les produits qui sont voilà, qui sont, voilà,
+
+865
+00:32:36,240 --> 00:32:41,180
+qui sont pas solides, d'accord, qui risquent,
+
+866
+00:32:41,260 --> 00:32:43,240
+bien sûr, d'être inhalés par la personne,
+
+867
+00:32:43,420 --> 00:32:45,580
+donc, il y a un système de ventilation,
+
+868
+00:32:46,680 --> 00:32:48,320
+je prends l'exemple du crétin, d'accord,
+
+869
+00:32:50,000 --> 00:32:52,500
+qui se forme de vapeur, voilà, et, donc,
+
+870
+00:32:52,580 --> 00:32:56,480
+protection respiratoire, tenue étanche, donc, il contrôle, bien
+
+871
+00:32:56,480 --> 00:32:57,560
+sûr, des mains et des pieds, donc, à
+
+872
+00:32:57,560 --> 00:32:59,220
+la fin de son résumé, donc, ce tableau
+
+873
+00:32:59,220 --> 00:33:01,280
+-là, d'accord, qu'il faut respecter, d
+
+874
+00:33:01,280 --> 00:33:03,240
+'une façon individuelle ou bien d'une façon
+
+875
+00:33:03,240 --> 00:33:04,920
+qui est collectif.
+
+876
+00:33:05,740 --> 00:33:11,080
+C'est, donc, maintenant, alors, attendez, voilà, maintenant,
+
+877
+00:33:11,220 --> 00:33:13,040
+donc, on va détailler, d'accord, encore plus,
+
+878
+00:33:13,160 --> 00:33:14,960
+donc, avec des chiffres, avec des valeurs et
+
+879
+00:33:14,960 --> 00:33:17,620
+tout ça, en fonction, bien sûr, que ce
+
+880
+00:33:17,620 --> 00:33:18,900
+soit de la dose qui est avalante ou
+
+881
+00:33:18,900 --> 00:33:19,980
+bien le débit de dose qui est avalant,
+
+882
+00:33:20,080 --> 00:33:21,760
+mais ça, c'est un schéma qui est
+
+883
+00:33:21,760 --> 00:33:23,000
+un peu plus compliqué, c'est pour les
+
+884
+00:33:23,000 --> 00:33:25,060
+professionnels, d'accord, retenez-vous, donc, un pour
+
+885
+00:33:25,060 --> 00:33:28,220
+le public, six pour l'agence qui est
+
+886
+00:33:28,220 --> 00:33:31,320
+surveillée, et quatre, et vingt plutôt pour la
+
+887
+00:33:31,320 --> 00:33:31,740
+contrôler.
+
+888
+00:33:32,300 --> 00:33:32,620
+Voilà.
+
+889
+00:33:33,020 --> 00:33:34,360
+Alors, l'osonnage, c'est ça, c'est
+
+890
+00:33:34,360 --> 00:33:36,960
+que, après avoir fait, donc, une étude, ça,
+
+891
+00:33:37,080 --> 00:33:39,720
+c'est un service, d'accord, qui utilise,
+
+892
+00:33:39,720 --> 00:33:41,080
+donc, une source radioactive.
+
+893
+00:33:41,740 --> 00:33:45,180
+Voilà, donc, l'osonnage, donc, il permet de
+
+894
+00:33:45,180 --> 00:33:48,660
+classer, donc, chaque local, il va dire, tiens,
+
+895
+00:33:48,780 --> 00:33:50,780
+donc, celui-là, par exemple, c'est une
+
+896
+00:33:50,780 --> 00:33:52,320
+zone qui est surveillée, donc, il est marqué
+
+897
+00:33:52,320 --> 00:33:53,380
+en blanc, d'accord, il n'est pas
+
+898
+00:33:53,380 --> 00:33:55,320
+coloré, d'accord, ça, c'est la porte
+
+899
+00:33:55,320 --> 00:33:57,700
+principale, alors, là, on est dans la zone
+
+900
+00:33:57,700 --> 00:34:00,320
+qui est comment, qui est contrôlée, donc, avec
+
+901
+00:34:00,320 --> 00:34:02,320
+deux couleurs, là, ou plutôt trois, donc, vous
+
+902
+00:34:02,320 --> 00:34:04,400
+avez la jaune, la verte et vous avez
+
+903
+00:34:04,400 --> 00:34:05,980
+l'orange, il n'y a pas le
+
+904
+00:34:05,980 --> 00:34:07,719
+rouge, d'accord, parce que la source radioactive,
+
+905
+00:34:07,719 --> 00:34:10,940
+là, donc, n'est pas schématisé.
+
+906
+00:34:11,540 --> 00:34:13,820
+Et, là, vous avez, là, par exemple, la
+
+907
+00:34:13,820 --> 00:34:16,699
+gamme à caméra, donc, c'est une voilà
+
+908
+00:34:16,699 --> 00:34:18,960
+qui est jaune, le test d'effort, la
+
+909
+00:34:18,960 --> 00:34:20,880
+caméra, la salle d'attente, et ainsi de
+
+910
+00:34:20,880 --> 00:34:21,040
+suite.
+
+911
+00:34:21,440 --> 00:34:23,699
+Bref, ça, c'est un exemple d'osonnage
+
+912
+00:34:23,699 --> 00:34:25,179
+d'un service de médecine nucléaire.
+
+913
+00:34:25,280 --> 00:34:26,460
+Vous avez, là, ils ont surveillé, ils ont
+
+914
+00:34:26,460 --> 00:34:28,460
+contrôlé, donc, avec les trois couleurs, si vous
+
+915
+00:34:28,460 --> 00:34:31,300
+voulez, vous avez le jaune, d'accord, le
+
+916
+00:34:31,300 --> 00:34:32,800
+vert et l'orange.
+
+917
+00:34:33,760 --> 00:34:37,860
+Et, par la suite, ceci, ce zonage, il
+
+918
+00:34:37,860 --> 00:34:42,199
+est bien défini par la personne compétente en
+
+919
+00:34:42,199 --> 00:34:46,520
+radioprotection, la PCL, qui a un rôle, bien
+
+920
+00:34:46,520 --> 00:34:48,699
+sûr, d'information du personnel, d'accord, sur
+
+921
+00:34:48,699 --> 00:34:51,300
+la signalisation, sur la fiche de poste, donc,
+
+922
+00:34:51,340 --> 00:34:53,080
+un rôle de formation, d'accord, pour les
+
+923
+00:34:53,080 --> 00:34:55,300
+procédures de travail, donc, à suivre, un rôle
+
+924
+00:34:55,300 --> 00:34:58,140
+de contrôle technique des sources, bien sûr, et
+
+925
+00:34:58,140 --> 00:35:03,060
+le suivi dosimétrique, et surtout, donc, un contrôle
+
+926
+00:35:03,060 --> 00:35:05,020
+ambiant et des locaux, mais surtout, donc, la
+
+927
+00:35:05,020 --> 00:35:07,540
+gestion des déchets radioactifs et, bien sûr, en
+
+928
+00:35:07,540 --> 00:35:10,060
+collaboration pour les examens médicaux et pour les
+
+929
+00:35:10,060 --> 00:35:12,400
+certificats d'aptitude, donc, c'est une formation
+
+930
+00:35:12,400 --> 00:35:15,260
+du personnel qui est continu et, généralement, c
+
+931
+00:35:15,260 --> 00:35:17,000
+'est un physicien médical.
+
+932
+00:35:17,120 --> 00:35:19,700
+Alors, en termes de radiation, cette fois-ci,
+
+933
+00:35:19,760 --> 00:35:22,200
+pendant la grossesse, alors, là, il faut voir,
+
+934
+00:35:22,280 --> 00:35:24,400
+donc, la dose reçue, d'accord, s'il
+
+935
+00:35:24,400 --> 00:35:25,920
+est inférieur à 0,05, donc, il n
+
+936
+00:35:25,920 --> 00:35:27,100
+'y a pas de problème, la grossesse peut
+
+937
+00:35:27,100 --> 00:35:28,540
+être poursuivie, parce que c'est la loi
+
+938
+00:35:28,540 --> 00:35:28,920
+de quoi?
+
+939
+00:35:29,080 --> 00:35:29,740
+De tout ou rien.
+
+940
+00:35:30,520 --> 00:35:32,400
+Mais ceci, bien sûr, en fonction de quoi?
+
+941
+00:35:32,660 --> 00:35:34,240
+En fonction aussi de la période fatale.
+
+942
+00:35:34,380 --> 00:35:35,540
+Est-ce que c'est la première, deuxième
+
+943
+00:35:35,540 --> 00:35:36,600
+ou bien la troisième, d'accord?
+
+944
+00:35:37,260 --> 00:35:39,140
+Si la dose est comprise entre 0,05
+
+945
+00:35:39,140 --> 00:35:42,440
+et 0,02, donc, l'interruption thérapeutique de
+
+946
+00:35:42,440 --> 00:35:44,800
+grossesse peut être discutée avec la patiente.
+
+947
+00:35:45,220 --> 00:35:46,340
+Et puis, si la dose, bien sûr, est
+
+948
+00:35:46,340 --> 00:35:47,560
+au-delà de 0,02, donc, il faut
+
+949
+00:35:47,560 --> 00:35:49,560
+conseiller, bien sûr, l'interruption de grossesse.
+
+950
+00:35:50,040 --> 00:35:52,880
+Ceci pour les radiations d'une femme enceinte,
+
+951
+00:35:52,980 --> 00:35:56,180
+d'accord, et, bien sûr, donc, la description
+
+952
+00:35:56,180 --> 00:35:57,920
+de l'interruption thérapeutique de grossesse.
+
+953
+00:35:58,800 --> 00:35:59,960
+Alors, quelques doses.
+
+954
+00:36:00,380 --> 00:36:03,380
+Là, vous avez, alors, les examens scientifiques, ça,
+
+955
+00:36:03,460 --> 00:36:05,460
+c'est la médecine nucléaire, donc, thyroïde, l
+
+956
+00:36:05,460 --> 00:36:06,400
+'os, poumons, d'accord?
+
+957
+00:36:06,580 --> 00:36:08,420
+Vous avez, donc, les radiations les plus importantes,
+
+958
+00:36:08,560 --> 00:36:09,400
+c'est pour l'os, d'accord?
+
+959
+00:36:09,640 --> 00:36:11,260
+C'est environ 1 milligram.
+
+960
+00:36:12,580 --> 00:36:14,660
+Pour le service de radiologie, vous avez la
+
+961
+00:36:14,660 --> 00:36:16,980
+radio, le scan UV, et là, vous constatez
+
+962
+00:36:16,980 --> 00:36:18,940
+que les chiffres, voilà, c'est 30 ici.
+
+963
+00:36:19,300 --> 00:36:20,920
+Ça veut dire que, là, ce sont généralement
+
+964
+00:36:20,920 --> 00:36:22,100
+des rayons X, d'accord?
+
+965
+00:36:22,800 --> 00:36:24,740
+Et là, généralement, ce sont des photons, voilà,
+
+966
+00:36:24,880 --> 00:36:27,200
+qui ont un facteur de pondération radiologique qui
+
+967
+00:36:27,200 --> 00:36:29,460
+est généralement très, très, très faible, d'accord?
+
+968
+00:36:29,800 --> 00:36:32,680
+Si pour cela, donc, vous avez, donc, voilà,
+
+969
+00:36:33,180 --> 00:36:36,500
+des doses, voilà, qui sont un peu moins,
+
+970
+00:36:36,660 --> 00:36:38,500
+voilà, c'est comparativement au service de radiologie
+
+971
+00:36:38,500 --> 00:36:40,220
+parce que là, ce sont, alors, attendez, je
+
+972
+00:36:40,220 --> 00:36:41,380
+vais, on va souligner ça.
+
+973
+00:36:44,080 --> 00:36:45,900
+Là, généralement, ce sont les rayons X, d
+
+974
+00:36:45,900 --> 00:36:48,000
+'accord, qui sont utilisés et dans le service
+
+975
+00:36:48,000 --> 00:36:49,880
+de médecine nucléaire, d'accord, vous avez, donc,
+
+976
+00:36:49,940 --> 00:36:53,740
+généralement, soit des positons, soit des rayons bêta
+
+977
+00:36:53,740 --> 00:36:56,060
+-moins ou des rayons bêta-plus, d'accord,
+
+978
+00:36:56,060 --> 00:36:57,940
+ou des photons, voilà, des rayons gamma.
+
+979
+00:36:58,640 --> 00:37:02,260
+Mais généralement, voilà, ceci, donc, voilà, ils ont
+
+980
+00:37:02,260 --> 00:37:05,840
+un facteur de pondération, voilà, radiologique qui est
+
+981
+00:37:05,840 --> 00:37:08,680
+très faible, voilà, ce qui explique un petit
+
+982
+00:37:08,680 --> 00:37:10,560
+peu, donc, voilà, ces doses qui sont reçues
+
+983
+00:37:10,560 --> 00:37:11,700
+suite à ces examens-là.
+
+984
+00:37:12,400 --> 00:37:12,500
+Bien.
+
+985
+00:37:14,600 --> 00:37:17,660
+En cas de contamination accidentelle, ça peut arriver,
+
+986
+00:37:17,820 --> 00:37:20,060
+d'accord, et dans ce cas, il faut
+
+987
+00:37:20,060 --> 00:37:21,880
+suivre, donc, les étapes suivantes, il faut que
+
+988
+00:37:21,880 --> 00:37:24,300
+la dose soit bien, donc, limitée, donc, il
+
+989
+00:37:24,300 --> 00:37:26,300
+faut déterminer la nature et l'importance, est
+
+990
+00:37:26,300 --> 00:37:27,880
+-ce que c'est une radiation qui est
+
+991
+00:37:27,880 --> 00:37:29,780
+minime, moyenne ou grande, il faut empêcher la
+
+992
+00:37:29,780 --> 00:37:33,720
+dissémination, donc, il faut porter des chaussures, donc,
+
+993
+00:37:34,380 --> 00:37:36,360
+spéciales, il faut voir le nombre, d'accord,
+
+994
+00:37:36,420 --> 00:37:38,300
+des personnes qui sont contaminées, est-ce qu
+
+995
+00:37:38,300 --> 00:37:39,520
+'il s'agit d'une seule personne, deux
+
+996
+00:37:39,520 --> 00:37:42,700
+ou bien des centaines, il faut faire des
+
+997
+00:37:42,700 --> 00:37:45,540
+décontaminations, donc, vous avez un produit ici qui
+
+998
+00:37:45,540 --> 00:37:47,720
+s'appelle, alors là, c'est le RBS,
+
+999
+00:37:47,880 --> 00:37:49,880
+d'accord, 35, vous voyez là, qu'on
+
+1000
+00:37:49,880 --> 00:37:51,980
+va utiliser, et bien sûr, donc, on va
+
+1001
+00:37:51,980 --> 00:37:58,200
+faire une décontamination des locaux, ceci pour des
+
+1002
+00:37:58,200 --> 00:38:01,300
+contaminations qui sont limitées, mais pour les grandes
+
+1003
+00:38:01,760 --> 00:38:03,640
+contaminations, alors là, donc, c'est le confinement,
+
+1004
+00:38:03,840 --> 00:38:05,080
+d'accord, il faut que les personnes restent,
+
+1005
+00:38:05,160 --> 00:38:07,300
+bien sûr, à l'intérieur des maisons, on
+
+1006
+00:38:07,300 --> 00:38:10,580
+va leur prescrire de l'iode stable pour
+
+1007
+00:38:10,580 --> 00:38:12,680
+bloquer, donc, l'entrée de l'iode radioactif,
+
+1008
+00:38:12,780 --> 00:38:14,700
+donc, au niveau de la thyroïde, parce que
+
+1009
+00:38:14,700 --> 00:38:16,500
+les radiations de la thyroïde, ça peut causer
+
+1010
+00:38:16,500 --> 00:38:18,080
+des cancers de la thyroïde, d'accord, et
+
+1011
+00:38:18,080 --> 00:38:21,900
+la non-consommation, d'accord, de l'eau,
+
+1012
+00:38:21,980 --> 00:38:23,540
+des aliments, d'accord, et des boissons qui
+
+1013
+00:38:23,540 --> 00:38:26,540
+sont contaminées, parce que, donc, les retombées que
+
+1014
+00:38:26,540 --> 00:38:29,240
+vous voyez là, donc, atmosphérique des essais là,
+
+1015
+00:38:29,340 --> 00:38:31,620
+d'accord, peuvent toucher, bien sûr, donc, les
+
+1016
+00:38:31,620 --> 00:38:35,080
+écosystèmes, l'eau, les plantes, le sol, et
+
+1017
+00:38:35,080 --> 00:38:36,820
+les aliments, bien sûr, qui poussent.
+
+1018
+00:38:37,840 --> 00:38:39,960
+Et, je vous remercie de votre attention.
+
+1019
+00:38:40,800 --> 00:38:41,040
+Voilà.
